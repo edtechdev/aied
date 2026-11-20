@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:21:59-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Krátká odpověď: rozhodněte, **o čem** má být známka důkazem, zařaďte
 Začněte tím, že výslovně uvedete, kterou schopnost má známka zastupovat. Hodnotíte to, co student dokáže samostatně, co dokáže přiměřeně s AI, jeho schopnost AI posuzovat a vést, nebo nějakou kombinaci těchto věcí? [[assessment-validity|Validita hodnocení]] to pojímá jako problém validity: vypilovaný artefakt už není dostatečným důkazem, že student disponuje schopností, kterou tento artefakt zjevně předvádí. Toto je hodnoticí polovina téhož argumentu; donucovací polovina je v [[reduce-ai-cheating]] a obecné rámování validity prostupuje [[evaluating-ai-interventions-methods]].
 
 Odpověď řekněte v sylabu, v zadání i v rubrice. Studenti čtou tři dokumenty a řídí se tím nejkonkrétnějším. „Použití AI je povoleno s uvedením“ není tvrzení o tom, co měříte, a studentovi nedává žádný způsob, jak zjistit, jestli povolené použití nepodkopává to, co známkujete.
+
+## Co teď stojí prostředí bez dohledu
+
+Velikost je teď měřitelná. V kurzu financí sledovaném napříč osmi ročníky a 75 404 hodnoceními otázek se výhoda online kvízů bez dohledu oproti závěrečné zkoušce pod dohledem po ChatGPT zdvojnásobila, zatímco skóre u zkoušky pod dohledem se nepohnulo vůbec ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela a McGrath, 2026]]). V poměru ke zbývajícímu prostoru bylo za celé období realizováno asi 60 % využitelného rozdílu a 70 % do posledních dvou ročníků, přičemž zisk byl v koncepčních položkách, nikoli v početních. Pro redesign z toho plynou dva důsledky. Zaprvé, formát nyní odděluje použití: tam, kde známka osvědčuje, podporuje výsledek bez dohledu slabší úsudek než před rokem 2022, zatímco týž kvíz čtený formativně vám stále říká něco o zapojení. Zadruhé, váha komponenty je expozice: kvíz v hodnotě pětiny známky kurzu je pětinou obhajitelné známky, pokud něco v designu nevyrovná to, co kvíz už neměří. Detekce to nevyrovná; vyrovná to krok pod dohledem nebo autentizovaný krok.
 
 ## Riziko záměny konstruktu
 

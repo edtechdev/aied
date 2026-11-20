@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T15:58:33-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Câu trả lời ngắn: quyết định điểm số là bằng chứng **của
 Bắt đầu bằng việc nêu rõ điểm số được cho là đại diện cho năng lực nào. Bạn đang đánh giá điều sinh viên làm được độc lập, điều họ làm được một cách phù hợp với AI, khả năng đánh giá và dẫn dắt AI của họ, hay một tổ hợp nào đó? [[assessment-validity|Hiệu lực đánh giá]] coi đây là vấn đề hiệu lực: một sản phẩm trau chuốt không còn là bằng chứng đủ rằng sinh viên có năng lực mà sản phẩm đó dường như thể hiện. Đây là nửa phía đánh giá của cùng lập luận; nửa phía cưỡng chế nằm ở [[reduce-ai-cheating]], và khung hiệu lực chung chạy qua [[evaluating-ai-interventions-methods]].
 
 Hãy nói câu trả lời trong đề cương, trong đề bài, và trong rubric. Sinh viên đọc ba tài liệu và tuân theo tài liệu cụ thể nhất. “Được phép dùng AI nếu ghi rõ nguồn” không phải một tuyên bố về điều bạn đang đo, và nó không cho sinh viên cách nào để biết liệu việc dùng được phép có làm suy yếu thứ bạn đang chấm hay không.
+
+## Cái giá của môi trường không giám sát hiện nay
+
+Độ lớn giờ đã đo được. Trong một môn Tài chính được theo dõi qua tám khóa sinh viên và 75,404 điểm câu hỏi, lợi thế của các bài kiểm tra trực tuyến không giám sát so với bài thi cuối kỳ có giám sát đã tăng gấp đôi sau ChatGPT, trong khi điểm của bài thi có giám sát không nhúc nhích chút nào ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela và McGrath, 2026]]). So với phần dư địa còn lại, khoảng 60% khoảng chênh có thể khai thác đã được hiện thực hóa trên toàn bộ giai đoạn và 70% tính đến hai khóa cuối, và phần tăng nằm ở các câu hỏi khái niệm chứ không phải câu hỏi tính toán. Từ đó có hai hệ quả cho việc thiết kế lại. Thứ nhất, hình thức giờ tách bạch các cách dùng: ở nơi điểm số dùng để chứng nhận, một kết quả không giám sát chống đỡ một suy luận yếu hơn so với trước năm 2022, trong khi cùng bài kiểm tra ấy nếu đọc theo hướng định hình vẫn cho bạn biết điều gì đó về mức độ tham gia. Thứ hai, trọng số của thành phần chính là phần phơi bày rủi ro: một bài kiểm tra đáng giá một phần năm điểm môn học là một phần năm của điểm số bảo vệ được, trừ khi có điều gì trong thiết kế bù đắp cho những gì bài kiểm tra không còn đo được. Phát hiện không bù đắp được điều đó; một bước có giám sát hoặc được xác thực thì bù đắp được.
 
 ## Rủi ro thay thế cấu trúc
 

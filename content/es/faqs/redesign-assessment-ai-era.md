@@ -1,13 +1,13 @@
 ---
 title: "¿Cómo puedo rediseñar la evaluación para que una calificación siga diciéndome algo defendible sobre lo que el estudiante sabe o puede hacer?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -45,6 +45,10 @@ La respuesta breve: decida de qué debe ser evidencia la nota, incluya en la tar
 Empiece por declarar explícitamente qué capacidad se supone que representa la nota. ¿Está evaluando lo que un estudiante puede hacer por su cuenta, lo que puede lograr de manera adecuada con IA, su capacidad para evaluar y dirigir la IA, o alguna combinación de todo ello? La [[assessment-validity|Validez de la evaluación]] lo trata como un problema de validez: un trabajo pulido ya no es evidencia suficiente de que el estudiante posea la capacidad que ese trabajo parece demostrar. Esta es la mitad del argumento que corresponde a la evaluación; la mitad que corresponde a la aplicación de las normas está en [[reduce-ai-cheating]], y el marco general de la validez recorre [[evaluating-ai-interventions-methods]].
 
 Diga la respuesta en el programa de la asignatura, en la hoja de la tarea y en la rúbrica. El estudiantado lee tres documentos y cumple el que es más específico. "Se permite el uso de IA con reconocimiento" no es una declaración de lo que usted mide, y no le da al estudiante ninguna forma de saber si el uso permitido socava aquello que usted califica.
+
+## Lo que ahora cuesta el entorno sin supervisión
+
+La magnitud ya es medible. En un curso de Finanzas seguido a lo largo de ocho cohortes y 75 404 calificaciones de preguntas, la ventaja de los cuestionarios en línea sin supervisión sobre el examen final supervisado se duplicó tras ChatGPT, mientras que las puntuaciones del examen supervisado no se movieron en absoluto ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela y McGrath, 2026]]). Respecto al margen restante, cerca del 60 % de la brecha explotable se había realizado en todo el período y el 70 % en las dos últimas cohortes, y la ganancia se situó en los ítems conceptuales más que en los de cálculo. De ello se siguen dos consecuencias para el rediseño. Primera: el formato ahora separa los usos: donde la nota certifica, un resultado sin supervisión sustenta una inferencia más débil que antes de 2022, mientras que el mismo cuestionario, leído formativamente, todavía le dice algo sobre el compromiso. Segunda: el peso del componente es la exposición: un cuestionario que vale un quinto de la nota del curso es un quinto de la nota defendible, a menos que algo en el diseño compense lo que el cuestionario ya no mide. La detección no lo compensa; lo compensa un paso supervisado o autenticado.
 
 ## El riesgo de la sustitución de constructo
 

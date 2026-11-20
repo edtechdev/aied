@@ -2,12 +2,13 @@
 title: "כיצד סוכני בינה מלאכותית יכולים לתמוך בסטודנטים ובמרצים?"
 created: "2026-10-12T22:55:00-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
+connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-11-15T16:11:00-05:00"
+updated: "2026-11-19T19:35:52-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:19:33-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Kratak odgovor: odlučite **o čemu** ocjena treba biti dokaz, stavite barem jed
 Počnite tako da izričito navedete koju sposobnost ocjena treba predstavljati. Procjenjujete li što student može samostalno, što može primjereno postići s umjetnom inteligencijom, njegovu sposobnost da prosuđuje i usmjerava umjetnu inteligenciju ili neku kombinaciju toga? [[assessment-validity|Valjanost vrednovanja]] u ovoj bazi znanja tretira to kao problem valjanosti: uglađen proizvod više nije dovoljan dokaz da student posjeduje sposobnost koju taj proizvod naizgled pokazuje. Ovo je polovica tog argumenta koja se tiče vrednovanja; polovica koja se tiče provedbe nalazi se u [[reduce-ai-cheating|smanjenju varanja uz umjetnu inteligenciju]], a opći okvir valjanosti provlači se kroz [[evaluating-ai-interventions-methods|vrednovanje intervencija s umjetnom inteligencijom]].
 
 Recite odgovor u izvedbenom planu, u uputi za zadatak i u rubrici. Studenti čitaju tri dokumenta i pridržavaju se onoga koji je najodređeniji. „Upotreba umjetne inteligencije dopuštena je uz navođenje“ nije izjava o tome što mjerite i studentu ne daje način da zna ugrožava li dopuštena upotreba ono što ocjenjujete.
+
+## Što sada košta okruženje bez nadzora
+
+Veličina se sada može izmjeriti. U kolegiju iz financija praćenom kroz osam kohorti i 75.404 ocjena pitanja, prednost online kvizova bez nadzora nad završnim ispitom pod nadzorom udvostručila se nakon ChatGPT-a, dok se ocjene na ispitu pod nadzorom uopće nisu pomaknule ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela i McGrath, 2026]]). U odnosu na preostali prostor, oko 60% iskoristivog jaza bilo je ostvareno kroz cijelo razdoblje i 70% do posljednje dvije kohorte, a dobitak je bio u pojmovnim pitanjima, a ne u računskim pitanjima. Dvije posljedice proizlaze za redizajn. Prvo, format sada razdvaja upotrebe: ondje gdje ocjena certificira, rezultat bez nadzora podupire slabiji zaključak nego prije 2022., dok isti kviz čitan formativno i dalje govori nešto o angažmanu. Drugo, težina komponente jest izloženost: kviz koji vrijedi petinu ocjene iz kolegija jest petina obranjive ocjene, osim ako nešto u dizajnu ne nadoknađuje ono što kviz više ne mjeri. Detekcija to ne nadoknađuje; korak pod nadzorom ili autentificirani korak to čini.
 
 ## Rizik zamjene konstrukta
 

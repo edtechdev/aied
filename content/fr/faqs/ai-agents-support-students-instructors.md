@@ -1,12 +1,14 @@
 ---
 title: "Comment les agents d'IA peuvent-ils aider les étudiants et les enseignants ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-19T19:35:52-05:00"
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-source_updated: "2026-11-13T00:25:09-05:00"
+connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
+connected_podcasts: [pedagogical-agents-textbook-that-watches]
+source_updated: "2026-11-18T15:25:00-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

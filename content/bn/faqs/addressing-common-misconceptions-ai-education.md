@@ -2,6 +2,8 @@
 title: "শিক্ষায় এআই নিয়ে সাধারণ ভুল ধারণাগুলো কীভাবে মোকাবিলা করব?"
 created: "2026-09-04T04:39:00-04:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
+connected_podcasts: [confident-and-wrong-misconceptions]
+connected_videos: [ai-myths-in-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +12,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-15T16:03:17-05:00"
+updated: "2026-11-19T19:35:52-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T16:55:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:

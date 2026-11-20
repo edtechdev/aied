@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:27:26-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Krátka odpoveď: rozhodnite, **čoho** má byť známka dôkazom, a zaradte do 
 Začnite tým, že výslovne uvediete, ktorú schopnosť má známka zastupovať. Hodnotíte to, čo študent dokáže samostatne, to, čo dokáže primerane s AI, jeho schopnosť AI posúdiť a viesť, alebo nejakú kombináciu? [[assessment-validity|Validita hodnotenia]] to berie ako problém validity: vypracovaný artefakt už nie je dostatočným dôkazom toho, že študent má schopnosť, ktorú artefakt zjavne preukazuje. Toto je hodnotiaca polovica toho istého argumentu; polovica o vynucovaní je v [[reduce-ai-cheating]] a všeobecný rámec validity prechádza cez [[evaluating-ai-interventions-methods]].
 
 Odpoveď povedzte v sylabe, v zadaní úlohy a v rubrike. Študenti čítajú tri dokumenty a riadia sa tým najkonkrétnejším. „Použitie AI je povolené s uvedením“ nie je tvrdenie o tom, čo meriate, a nedáva študentovi spôsob, ako zistiť, či povolené použitie podkopáva to, čo hodnotíte.
+
+## Čo teraz stojí formát bez dohľadu
+
+Veľkosť je teraz merateľná. V kurze z financií sledovanom naprieč ôsmimi ročníkmi a 75 404 známkami za otázky sa výhoda online kvízov bez dohľadu oproti záverečnej skúške pod dohľadom po ChatGPT zdvojnásobila, zatiaľ čo skóre na skúške pod dohľadom sa vôbec nepohlo ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela a McGrath, 2026]]). Voči zostávajúcemu priestoru sa za celé obdobie realizovalo približne 60 % využiteľnej medzery a v posledných dvoch ročníkoch 70 %, pričom zisk sedel v konceptuálnych položkách, nie v počtových. Pre prestavbu z toho plynú dva dôsledky. Po prvé, formát teraz oddeľuje použitia: tam, kde známka certifikuje, výsledok bez dohľadu podporuje slabší úsudok než pred rokom 2022, zatiaľ čo ten istý kvíz čítaný formatívne stále hovorí niečo o zapojení. Po druhé, váha zložky je expozícia: kvíz v hodnote jednej pätiny známky kurzu je jednou pätinou obhájiteľnej známky, pokiaľ niečo v dizajne nevyváži to, čo kvíz už nemeria. Detekcia to nevyváži; vyváži to krok pod dohľadom alebo overený krok.
 
 ## Riziko zámeny konštruktu
 

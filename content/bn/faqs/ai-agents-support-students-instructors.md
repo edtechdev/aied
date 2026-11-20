@@ -2,13 +2,14 @@
 title: "এআই এজেন্টরা শিক্ষার্থী ও প্রশিক্ষকদের কীভাবে সহায়তা করতে পারে?"
 created: "2026-08-25T09:20:00-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
+connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-11-15T16:03:17-05:00"
+updated: "2026-11-19T19:35:52-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:

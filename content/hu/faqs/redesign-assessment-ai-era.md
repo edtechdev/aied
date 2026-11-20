@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:18:29-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ A rövid válasz: döntse el, mit kell **bizonyítania** a jegynak, tegyen a fel
 Kezdje azzal, hogy nyíltan kimondja, melyik képességet kell képviselnie a jegynak. Azt értékeli, mit tud egy diák önállóan, mit tud megfelelően elérni MI-vel, milyen a MI megítélésének és irányításának képessége, vagy ezek valamilyen kombinációja? Az [[assessment-validity|értékelési érvényesség]] ezt érvényességi problémaként kezeli: egy csiszolt termék már nem elégséges bizonyíték arra, hogy a diák rendelkezik azzal a képességgel, amelyet a termék látszólag felmutat. Ez ugyanannak az érvnek az értékelési fele; a kikényszerítési felet a [[reduce-ai-cheating|MI-visszaélés csökkentése]] tárgyalja, az általános érvényességi keret pedig az [[evaluating-ai-interventions-methods|értékelési módszereket]] járja körül.
 
 Mondja ki a választ a tantárgyi leírásban, a feladatkiírásban és a rubrikában. A diákok három dokumentumot olvasnak, és ahhoz igazodnak, amelyik a legkonkrétabb. Az „MI-használat megengedett, feltüntetéssel” nem arról szól, mit mér, és nem ad a diáknak módot annak megítélésére, aláássa-e az engedélyezett használat azt, amit Ön osztályoz.
+
+## Mibe kerül most a felügyelet nélküli környezet
+
+A nagyság most már mérhető. Egy nyolc kohorszon és 75 404 kérdésjegyen át követett pénzügyi kurzusban a felügyelet nélküli online kvízek előnye a felügyelt záróvizsgával szemben megduplázódott a ChatGPT után, miközben a felügyelt vizsga pontszámai egyáltalán nem mozdultak ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela és McGrath, 2026]]). A fennmaradó mozgástérhez viszonyítva a kiaknázható rés körülbelül 60%-a valósult meg a teljes időszakban és 70%-a az utolsó két kohorszban, és a nyereség a fogalmi kérdésekben volt, nem a számítási kérdésekben. Két következmény adódik az újratervezésre nézve. Először, a formátum most szétválasztja a felhasználásokat: ahol a jegy igazolásként szolgál, a felügyelet nélküli eredmény gyengébb következtetést támaszt alá, mint 2022 előtt, míg ugyanaz a kvíz formatívan olvasva még mindig mond valamit az elköteleződésről. Másodszor, a rész súlya a kitettség: a kurzusjegy ötödét érő kvíz a védhető jegy ötöde, hacsak valami a tervezésben nem ellensúlyozza, amit a kvíz már nem mér. A detektálás nem ellensúlyozza; egy felügyelt vagy hitelesített lépés igen.
 
 ## A konstruktumhelyettesítés kockázata
 

@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T15:47:44-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Krótka odpowiedź: zdecydować, **czego** ocena ma być dowodem, umieścić w z
 Zacząć od jawnego powiedzenia, jaką kompetencję ocena ma reprezentować. Czy ocenia się to, co student potrafi samodzielnie, co potrafi osiągnąć właściwie z SI, jego umiejętność oceny i kierowania SI, czy jakąś kombinację tych rzeczy? [[assessment-validity|Trafność oceniania]] w tej bazie wiedzy traktuje to jako problem trafności: wypracowany artefakt nie jest już wystarczającym dowodem, że student ma kompetencję, którą ten artefakt pozornie pokazuje. To połowa tego samego argumentu po stronie oceniania; połowa po stronie egzekwowania jest w [[reduce-ai-cheating|ograniczaniu oszukiwania z użyciem SI]], a ogólne ujęcie trafności przewija się przez [[evaluating-ai-interventions-methods|ocenę interwencji z SI]].
 
 Tę odpowiedź trzeba podać w sylabusie, w instrukcji zadania i w rubryce. Studenci czytają trzy dokumenty i stosują się do tego, który jest najbardziej konkretny. „Użycie SI jest dozwolone po zaznaczeniu” nie jest stwierdzeniem, co się mierzy, i nie daje studentowi sposobu, by poznać, czy dozwolone użycie podkopuje to, co jest oceniane.
+
+## Ile kosztuje teraz tryb bez nadzoru
+
+Skala jest teraz mierzalna. W kursie finansów śledzonym przez osiem roczników i 75 404 ocen za pytania przewaga quizów online bez nadzoru nad nadzorowanym egzaminem końcowym podwoiła się po ChatGPT, podczas gdy wyniki nadzorowanego egzaminu nie drgnęły wcale ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela i McGrath, 2026]]). Względem pozostałego potencjału około 60% możliwej do wykorzystania luki zostało zrealizowane w całym okresie, a 70% w dwóch ostatnich rocznikach, przy czym zysk przypadł na pytania koncepcyjne, a nie obliczeniowe. Dla przeprojektowania wynikają stąd dwie konsekwencje. Po pierwsze, format rozdziela teraz zastosowania: tam, gdzie ocena certyfikuje, wynik bez nadzoru uzasadnia słabszy wniosek niż przed 2022 rokiem, podczas gdy ten sam quiz czytany formatywnie wciąż mówi coś o zaangażowaniu. Po drugie, waga elementu jest ekspozycją: quiz wart jedną piątą oceny z kursu jest jedną piątą obronnej oceny, chyba że coś w projekcie równoważy to, czego quiz już nie mierzy. Wykrywanie tego nie równoważy; równoważy to krok nadzorowany albo uwierzytelniony.
 
 ## Ryzyko podstawienia konstruktu
 

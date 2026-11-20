@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:18:40-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Răspunsul scurt: decide **despre** ce anume trebuie să fie dovadă nota, pune 
 Începe prin a enunța explicit ce competență ar trebui să reprezinte nota. Evaluezi ce poate face un student independent, ce poate realiza în mod adecvat cu IA, capacitatea lui de a evalua și dirija IA sau o combinație a acestora? [[assessment-validity|Validitatea evaluării]] tratează asta ca pe o problemă de validitate: un produs lustruit nu mai este o dovadă suficientă că studentul posedă competența aparent demonstrată de acel produs. Aceasta este jumătatea dinspre evaluare a aceluiași argument; jumătatea dinspre aplicare strictă este în [[reduce-ai-cheating|Reducerea trișatului cu IA]], iar cadrul general de validitate trece prin [[evaluating-ai-interventions-methods|Evaluarea intervențiilor cu IA: metode]].
 
 Spune răspunsul în programa de curs, în fișa temei și în rubrică. Studenții citesc trei documente și îl respectă pe cel care este cel mai specific. „Folosirea IA este permisă cu menționare” nu este o afirmație despre ce măsori și nu îi dă studentului nicio cale să știe dacă folosirea permisă subminează exact lucrul pe care îl notezi.
+
+## Cât costă acum formatul nesupravegheat
+
+Magnitudinea este acum măsurabilă. Într-un curs de Finanțe urmărit de-a lungul a opt cohorte și a 75.404 de note pe întrebări, avantajul quizurilor online nesupravegheate față de examenul final supravegheat s-a dublat după ChatGPT, în timp ce scorurile la examenul supravegheat nu s-au mișcat deloc ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela și McGrath, 2026]]). Raportat la marja rămasă, aproximativ 60% din decalajul exploatabil fusese valorificat pe întreaga perioadă și 70% până la ultimele două cohorte, iar câștigul a stat în itemii conceptuali, nu în cei de calcul. Două consecințe rezultă pentru regândire. Mai întâi, formatul separă acum utilizările: acolo unde nota certifică, un rezultat nesupravegheat susține o inferență mai slabă decât o făcea înainte de 2022, în timp ce același quiz citit formativ îți mai spune ceva despre implicare. În al doilea rând, ponderea componentei este expunerea: un quiz care valorează o cincime din nota cursului este o cincime din nota defendabilă, dacă ceva din proiectare nu compensează ce nu mai măsoară quizul. Detectarea nu o compensează; o etapă supravegheată sau autentificată o face.
 
 ## Riscul substituirii de construct
 

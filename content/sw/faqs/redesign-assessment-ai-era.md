@@ -7,7 +7,7 @@ audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -19,7 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-updated: "2026-11-15T16:26:08-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,6 +45,10 @@ Jibu fupi: amua alama inakusudiwa kuwa ushahidi **wa** nini, weka angalau hatua 
 Anza kwa kusema waziwazi ni uwezo upi ambao alama inapaswa kuwakilisha. Unapima kile mwanafunzi anaweza kufanya kwa kujitegemea, kile anaweza kukamilisha ipasavyo akiwa na AI, uwezo wake wa kutathmini na kuelekeza AI, au mchanganyiko wa hivi? [[assessment-validity|Uhalali wa tathmini]] huchukulia hili kama tatizo la uhalali: bidhaa iliyosuguliwa haitoshi tena kuwa ushahidi kwamba mwanafunzi ana uwezo unaoonekana kuonyeshwa na bidhaa hiyo. Hii ni nusu ya upande wa tathmini wa hoja hiyo hiyo; nusu ya upande wa utekelezaji iko katika [[reduce-ai-cheating]], na mfumo wa jumla wa uhalali unapita katika [[evaluating-ai-interventions-methods]].
 
 Sema jibu katika mtaala, katika karatasi ya kazi, na katika rubriki. Wanafunzi husoma hati tatu na hufuata ile iliyo mahususi zaidi. "Matumizi ya AI yanaruhusiwa kwa kutaja" si tamko la kile unachopima, na haimpi mwanafunzi njia ya kujua kama matumizi yanayoruhusiwa yanadhoofisha kitu unachokagua.
+
+## Gharama ya sasa ya mazingira yasiyo na usimamizi
+
+Ukubwa wake sasa unaweza kupimwa. Katika kozi ya Fedha iliyofuatiliwa katika makundi manane na alama 75,404 za maswali, faida ya majaribio ya mtandaoni yasiyo na usimamizi dhidi ya mtihani wa mwisho uliosimamiwa iliongezeka mara mbili baada ya ChatGPT, wakati alama kwenye mtihani uliosimamiwa hazikusogea hata kidogo ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela na McGrath, 2026]]). Dhidi ya nafasi iliyobaki, takriban 60% ya pengo linaloweza kutumiwa lilikuwa limefikiwa katika kipindi chote na 70% kufikia makundi mawili ya mwisho, na ongezeko lilikaa katika maswali ya dhana badala ya maswali ya hesabu. Matokeo mawili yanafuata kwa ubunifu upya. Kwanza, muundo sasa unatenganisha matumizi: pale alama inapothibitisha, tokeo lisilo na usimamizi linasaidia hitimisho dhaifu kuliko ilivyokuwa kabla ya 2022, wakati jaribio hilo hilo likisomwa kiundaji bado linakuambia kitu kuhusu ushiriki. Pili, uzito wa kipengele ndio hatari yenyewe: jaribio lenye thamani ya sehemu ya tano ya alama ya kozi ni sehemu ya tano ya alama inayoweza kutetelewa isipokuwa kitu fulani katika ubuni kifidi kile ambacho jaribio halikipimi tena. Ugunduzi haukifidi; hatua yenye usimamizi au iliyothibitishwa ndiyo inayokifidi.
 
 ## Hatari ya kubadilisha dhana
 

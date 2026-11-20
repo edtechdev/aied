@@ -1,12 +1,12 @@
 ---
 title: "Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -48,6 +48,10 @@ La réponse courte : décidez de quoi la note est censée être la preuve, place
 Commencez par énoncer explicitement quelle capacité la note est censée représenter. Évaluez-vous ce qu'un étudiant sait faire de façon autonome, ce qu'il sait accomplir de manière appropriée avec l'IA, sa capacité à évaluer et à diriger l'IA, ou une combinaison de ces éléments ? La [[assessment-validity|validité de l'évaluation]] de la base de connaissances traite cela comme un problème de validité : une production soignée ne suffit plus comme preuve que l'étudiant possède la capacité que cette production semble démontrer. C'est la moitié « évaluation » du même argument ; la moitié « application » se trouve dans [[reduce-ai-cheating]], et le cadrage général de la validité traverse [[evaluating-ai-interventions-methods]].
 
 Dites la réponse dans le plan de cours, dans la consigne du devoir et dans la grille. Les étudiants lisent trois documents et se conforment à celui qui est le plus précis. « L'usage de l'IA est permis avec mention » n'énonce pas ce que vous mesurez, et ne donne à l'étudiant aucun moyen de savoir si l'usage permis sape ce que vous évaluez.
+
+## Ce que coûte désormais le cadre sans surveillance
+
+La magnitude est désormais mesurable. Dans un cours de finance suivi sur huit cohortes et 75,404 notes de questions, l'avantage des quiz en ligne sans surveillance sur l'examen final surveillé a doublé après ChatGPT, tandis que les scores à l'examen surveillé n'ont pas bougé du tout ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela et McGrath, 2026]]). Rapporté à la marge restante, environ 60 % de l'écart exploitable avait été comblé sur l'ensemble de la période et 70 % pour les deux dernières cohortes, et le gain se situait dans les questions conceptuelles plutôt que dans les questions de calcul. Deux conséquences en découlent pour la refonte. Premièrement, le format sépare désormais les usages : là où la note certifie, un résultat sans surveillance soutient une inférence plus faible qu'avant 2022, tandis que le même quiz lu de manière formative vous dit encore quelque chose sur l'engagement. Deuxièmement, le poids du volet est l'exposition : un quiz qui vaut un cinquième de la note du cours est un cinquième de la note défendable, à moins que quelque chose dans le dispositif ne compense ce que le quiz ne mesure plus. La détection ne le compense pas ; une étape surveillée ou authentifiée le fait.
 
 ## Le risque de substitution de construit
 

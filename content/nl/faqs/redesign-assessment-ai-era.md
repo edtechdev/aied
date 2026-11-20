@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T15:46:36-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Het korte antwoord: bepaal waarvan het cijfer bewijs moet zijn, zet minstens é�
 Begin met expliciet te stellen welke bekwaamheid het cijfer moet vertegenwoordigen. Beoordeelt u wat een student zelfstandig kan, wat hij met AI op passende wijze kan bereiken, zijn vermogen om AI te evalueren en aan te sturen, of een combinatie daarvan? De [[assessment-validity|toetsingsvaliditeit]] in de kennisbank behandelt dit als een validiteitsprobleem: een gepolijst product is niet langer voldoende bewijs dat de student de bekwaamheid bezit die dat product kennelijk laat zien. Dit is de toetsingshelft van hetzelfde argument; de handhavingshelft staat in [[reduce-ai-cheating|AI-fraude verminderen]], en het algemene validiteitskader loopt door [[evaluating-ai-interventions-methods|het evalueren van AI-interventies]].
 
 Zeg het antwoord in de studiegids, in de opdrachtinstructie en in de rubric. Studenten lezen drie documenten en houden zich aan het document dat het meest specifiek is. 'AI-gebruik is toegestaan mits vermeld' is geen uitspraak over wat u meet, en het geeft een student geen enkele manier om te weten of het toegestane gebruik ondermijnt wat u beoordeelt.
+
+## Wat de setting zonder toezicht nu kost
+
+De omvang is nu meetbaar. In een vak finance dat werd gevolgd over acht cohorten en 75.404 vraagcijfers, verdubbelde het voordeel van online quizzen zonder toezicht ten opzichte van het afsluitende examen onder toezicht na ChatGPT, terwijl de scores op het examen onder toezicht helemaal niet bewogen ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela en McGrath, 2026]]). Ten opzichte van de resterende ruimte was ongeveer 60% van de benutbare kloof gerealiseerd over de hele periode en 70% tegen de laatste twee cohorten, en de winst zat eerder in conceptuele vragen dan in rekenvragen. Twee gevolgen volgen voor het herontwerp. Ten eerste scheidt het format nu de toepassingen: waar het cijfer certificeert, ondersteunt een resultaat zonder toezicht een zwakkere inferentie dan vóór 2022, terwijl dezelfde quiz formatief gelezen nog steeds iets zegt over betrokkenheid. Ten tweede is het gewicht van het onderdeel de blootstelling: een quiz die een vijfde van het cursuscijfer waard is, is een vijfde van het verdedigbare cijfer, tenzij iets in het ontwerp compenseert wat de quiz niet langer meet. Detectie compenseert dat niet; een stap onder toezicht of een geauthenticeerde stap wel.
 
 ## Het risico van constructiesubstitutie
 

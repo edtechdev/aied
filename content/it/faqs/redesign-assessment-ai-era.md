@@ -16,9 +16,9 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-15T15:42:15-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -45,6 +45,10 @@ La risposta breve: decidi **di cosa** il voto deve essere prova, inserisci nel c
 Comincia dichiarando esplicitamente quale capacità il voto dovrebbe rappresentare. Stai valutando cosa sa fare uno studente in modo indipendente, cosa riesce a fare in modo appropriato con l'IA, la sua capacità di valutare e dirigere l'IA, o una combinazione di queste? La [[assessment-validity|validità della valutazione]] tratta questo come un problema di validità: un elaborato rifinito non è più un'evidenza sufficiente che lo studente possieda la capacità apparentemente dimostrata da quell'elaborato. Questa è la metà del lato valutativo dello stesso argomento; la metà del lato applicativo è in [[reduce-ai-cheating]], e l'inquadramento generale della validità attraversa [[evaluating-ai-interventions-methods]].
 
 Di' la risposta nel programma, nel foglio del compito e nella rubrica. Gli studenti leggono tre documenti e si adeguano a quello che è più specifico. «L'uso dell'IA è permesso con dichiarazione» non è una dichiarazione di cosa stai misurando, e non dà a uno studente alcun modo di sapere se l'uso permesso intacca la cosa che stai valutando.
+
+## Quanto costa ora l'ambiente senza sorveglianza
+
+La magnitudine è ora misurabile. In un corso di finanza seguito attraverso otto coorti e 75.404 voti alle domande, il vantaggio dei quiz online senza sorveglianza sull'esame finale sorvegliato è raddoppiato dopo ChatGPT, mentre i punteggi all'esame sorvegliato non si sono mossi affatto ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela e McGrath, 2026]]). Rispetto al margine residuo, circa il 60% del divario sfruttabile era stato realizzato nell'intero periodo e il 70% nelle ultime due coorti, e il guadagno stava nei quesiti concettuali piuttosto che in quelli di calcolo. Due conseguenze seguono per la riprogettazione. Primo, il formato ora separa gli usi: dove il voto certifica, un risultato senza sorveglianza sostiene un'inferenza più debole di prima del 2022, mentre lo stesso quiz letto in chiave formativa ti dice ancora qualcosa sul coinvolgimento. Secondo, il peso della componente è l'esposizione: un quiz che vale un quinto del voto del corso è un quinto del voto difendibile, a meno che qualcosa nella progettazione non compensi ciò che il quiz non misura più. Il rilevamento non lo compensa; un passaggio sorvegliato o autenticato sì.
 
 ## Il rischio di sostituzione del costrutto
 

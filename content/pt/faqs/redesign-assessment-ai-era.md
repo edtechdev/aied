@@ -1,13 +1,13 @@
 ---
 title: "Como redesenho a avaliação para que uma nota ainda me diga algo defensável sobre o que o estudante sabe ou consegue fazer?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-15T15:37:46-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,10 @@ A resposta curta: decida do que a nota deve ser evidência, coloque pelo menos u
 Comece declarando explicitamente qual capacidade a nota deve representar. Você está avaliando o que um estudante consegue fazer de forma independente, o que ele consegue realizar de modo apropriado com IA, a capacidade dele de avaliar e dirigir a IA, ou alguma combinação disso? [[assessment-validity|Validade da avaliação]] trata isso como um problema de validade: um artefato polido não é mais evidência suficiente de que o estudante possui a capacidade aparentemente demonstrada por esse artefato. Esta é a metade da avaliação do mesmo argumento; a metade da fiscalização está em [[reduce-ai-cheating]], e o enquadramento geral de validade percorre [[evaluating-ai-interventions-methods]].
 
 Diga a resposta no plano de ensino, na folha da tarefa e na rubrica. Os estudantes leem três documentos e cumprem aquele que é mais específico. "O uso de IA é permitido com reconhecimento" não é uma declaração do que você está medindo, e não dá ao estudante nenhum modo de saber se o uso permitido enfraquece justamente o que você avalia.
+
+## O que o formato sem supervisão agora custa
+
+A magnitude agora é mensurável. Em um curso de Finanças acompanhado ao longo de oito turmas e de 75.404 notas de questões, a vantagem dos quizzes online sem supervisão sobre a prova final supervisionada dobrou depois do ChatGPT, enquanto as notas na prova supervisionada não se moveram nem um pouco ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela e McGrath, 2026]]). Em relação à margem restante, cerca de 60% da lacuna explorável havia sido aproveitada ao longo de todo o período e 70% nas duas últimas turmas, e o ganho ficou nos itens conceituais, e não nos itens de cálculo. Duas consequências se seguem para o redesenho. Primeiro, o formato agora separa os usos: onde a nota certifica, um resultado sem supervisão sustenta uma inferência mais fraca do que sustentava antes de 2022, enquanto o mesmo quiz, lido formativamente, ainda diz algo sobre o engajamento. Segundo, o peso do componente é a exposição: um quiz que vale um quinto da nota do curso é um quinto da nota defensável, a menos que algo no desenho compense o que o quiz já não mede. A detecção não compensa; uma etapa supervisionada ou autenticada compensa.
 
 ## O risco de substituição de construto
 

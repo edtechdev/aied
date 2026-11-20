@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:01:10-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Det korte svar: beslut, hvad karakteren skal være evidens **for**, læg mindst 
 Begynd med at angive eksplicit, hvilken kompetence karakteren skal repræsentere. Bedømmer du, hvad en studerende kan gøre uafhængigt, hvad de kan opnå hensigtsmæssigt med AI, deres evne til at evaluere og styre AI, eller en kombination af disse? [[assessment-validity|Bedømmelsesgyldighed]] behandler dette som et gyldighedsproblem: et poleret produkt er ikke længere tilstrækkelig evidens for, at den studerende besidder den kompetence, produktet tilsyneladende udviser. Dette er bedømmelsessidens halvdel af samme argument; håndhævelsessidens halvdel står i [[reduce-ai-cheating]], og den generelle gyldighedsramme løber gennem [[evaluating-ai-interventions-methods]].
 
 Sig svaret i studieordningen, i opgavebeskrivelsen og i rubrikken. Studerende læser tre dokumenter og retter sig efter det, der er mest specifikt. »AI-brug er tilladt med angivelse« er ikke en udtalelse om, hvad du måler, og det giver ikke den studerende nogen måde at vide, om den tilladte brug underminerer det, du bedømmer.
+
+## Hvad den overvågningsfrie ramme nu koster
+
+Størrelsesordenen er nu målbar. På et kursus i finansiering, der blev fulgt over otte kohorter og 75.404 spørgsmålsbedømmelser, blev fordelen ved online-quizzer uden overvågning frem for den overvågede afsluttende eksamen fordoblet efter ChatGPT, mens resultaterne på den overvågede eksamen slet ikke flyttede sig ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela og McGrath, 2026]]). I forhold til den resterende margen var omkring 60 % af det udnyttelige gab realiseret på tværs af hele perioden og 70 % ved de to sidste kohorter, og gevinsten sad i konceptuelle items snarere end beregningsitems. Der følger to konsekvenser for redesign. For det første adskiller formatet nu anvendelserne: hvor karakteren certificerer, understøtter et resultat uden overvågning en svagere inferens, end det gjorde før 2022, mens den samme quiz, læst formativt, stadig fortæller dig noget om engagement. For det andet er komponentens vægt eksponeringen: en quiz, der er en femtedel af kursuskarakteren værd, er en femtedel af den forsvarlige karakter, medmindre noget i designet opvejer det, quizzen ikke længere måler. Detektion opvejer det ikke; det gør et overvåget eller autentificeret trin.
 
 ## Risikoen for konstruktsubstitution
 

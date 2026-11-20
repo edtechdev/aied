@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:23:35-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Lyhyt vastaus: päätä, mitä arvosanan on tarkoitus olla näyttöä, laita teh
 Aloita sanomalla suoraan, mitä osaamista arvosanan on tarkoitus edustaa. Arvioitko sitä, mitä opiskelija osaa itsenäisesti, sitä, mihin hän pystyy asianmukaisesti tekoälyn kanssa, hänen kykyään arvioida ja ohjata tekoälyä vai näiden yhdistelmää? Tietopohjan sivu [[assessment-validity|Arvioinnin validiteetti]] käsittelee tätä validiteettiongelmana: viimeistelty tuotos ei enää ole riittävä näyttö siitä, että opiskelijalla on se osaaminen, jonka tuotos näyttää osoittavan. Tämä on saman argumentin arviointipuoli; valvontapuoli on sivulla [[reduce-ai-cheating|Tekoälyhuijauksen vähentäminen]], ja yleinen validiteettikehys kulkee läpi sivun [[evaluating-ai-interventions-methods|interventioiden arvioinnin menetelmät]].
 
 Sano vastaus opinto-oppaassa, tehtävänannossa ja arviointikriteeristössä. Opiskelijat lukevat kolme asiakirjaa ja noudattavat sitä, joka on täsmällisin. ”Tekoälyn käyttö on sallittua maininnalla” ei ole lausuma siitä, mitä mittaat, eikä se anna opiskelijalle mitään keinoa tietää, kumoaisiko sallittu käyttö sen asian, jota arvostelet.
+
+## Mitä valvomaton asetelma nyt maksaa
+
+Suuruusluokka on nyt mitattavissa. Rahoituksen kurssilla, josta seurattiin kahdeksaa kohorttia ja 75 404 kysymysarvosanaa, valvomattomien verkkokvisojen etu valvottuun lopputenttiin nähden kaksinkertaistui ChatGPT:n jälkeen, kun taas valvotun tentin pisteet eivät liikahtaneet lainkaan ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela ja McGrath, 2026]]). Jäljellä olevaan liikkumavaraan nähden noin 60 % hyödynnettävissä olevasta erosta oli toteutunut koko jaksolla ja 70 % viimeisten kahden kohortin kohdalla, ja voitto oli käsitteellisissä kysymyksissä eikä laskukysymyksissä. Tästä on kaksi seurausta uudelleensuunnittelulle. Ensinnäkin muoto erottaa nyt käyttötavat: siellä missä arvosana todistaa, valvomaton tulos tukee heikompaa päätelmää kuin ennen vuotta 2022, kun taas sama kvisa formatiivisesti luettuna kertoo yhä jotain sitoutumisesta. Toiseksi osan paino on altistus: kvisa, joka on viidesosan kurssiarvosanasta arvoinen, on viidesosa puolustettavasta arvosanasta, ellei jokin suunnittelussa korvaa sitä, mitä kvisa ei enää mittaa. Tunnistaminen ei korvaa sitä; valvottu tai todennettu vaihe korvaa.
 
 ## Konstruktin korvautumisen riski
 

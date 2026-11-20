@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T15:58:08-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Jawaban singkatnya: putuskan **tentang apa** nilai itu seharusnya menjadi bukti,
 Mulailah dengan menyatakan secara eksplisit kemampuan apa yang seharusnya diwakili oleh nilai. Apakah Anda menilai apa yang dapat dilakukan siswa secara mandiri, apa yang dapat mereka capai secara tepat dengan AI, kemampuan mereka mengevaluasi dan mengarahkan AI, atau kombinasi dari semuanya? [[assessment-validity|Validitas penilaian]] memperlakukan hal ini sebagai masalah validitas: artefak yang rapi tidak lagi menjadi bukti yang memadai bahwa siswa memiliki kemampuan yang tampak ditunjukkan oleh artefak itu. Ini separuh sisi penilaian dari argumen yang sama; separuh sisi penegakannya ada di [[reduce-ai-cheating|mengurangi kecurangan AI]], dan kerangka validitas umumnya berjalan melalui [[evaluating-ai-interventions-methods|mengevaluasi intervensi AI]].
 
 Nyatakan jawabannya di silabus, di lembar tugas, dan di rubrik. Siswa membaca tiga dokumen dan menaati yang paling spesifik. “Penggunaan AI diizinkan dengan pengakuan” bukan pernyataan tentang apa yang Anda ukur, dan kalimat itu tidak memberi siswa cara untuk mengetahui apakah penggunaan yang diizinkan merongrong hal yang Anda nilai.
+
+## Berapa biaya pengaturan tanpa pengawasan sekarang
+
+Besarnya kini dapat diukur. Dalam mata kuliah keuangan yang dilacak lintas delapan kohort dan 75.404 nilai pertanyaan, keunggulan kuis daring tanpa pengawasan atas ujian akhir yang diawasi menjadi dua kali lipat setelah ChatGPT, sementara skor pada ujian yang diawasi tidak bergerak sama sekali ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela dan McGrath, 2026]]). Terhadap ruang yang tersisa, sekitar 60% dari kesenjangan yang dapat dimanfaatkan telah terealisasi sepanjang periode dan 70% pada dua kohort terakhir, dan kenaikannya ada pada butir konseptual, bukan butir perhitungan. Dua konsekuensi mengikuti untuk redesain. Pertama, formatnya kini memisahkan kegunaan: di mana nilai mensertifikasi, hasil tanpa pengawasan mendukung inferensi yang lebih lemah daripada sebelum 2022, sementara kuis yang sama, bila dibaca secara formatif, masih memberi tahu Anda sesuatu tentang keterlibatan. Kedua, bobot komponen adalah paparannya: kuis yang bernilai seperlima dari nilai mata kuliah adalah seperlima dari nilai yang dapat dipertahankan, kecuali ada sesuatu dalam desain yang mengimbangi apa yang tidak lagi diukur kuis. Deteksi tidak mengimbanginya; langkah yang diawasi atau terautentikasi yang mengimbanginya.
 
 ## Risiko substitusi konstruk
 

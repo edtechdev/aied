@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-11-15T16:19:24-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,10 @@ Det korte svaret: bestem hva karakteren skal være evidens **for**, legg inn min
 Begynn med å si eksplisitt hvilken kompetanse karakteren skal representere. Vurderer du hva en student kan gjøre uavhengig, hva de kan oppnå hensiktsmessig med AI, evnen deres til å evaluere og styre AI, eller en kombinasjon av disse? [[assessment-validity|Vurderingsvaliditet]] behandler dette som et validitetsproblem: et polert arbeid er ikke lenger tilstrekkelig evidens for at studenten har kompetansen arbeidet tilsynelatende viser. Dette er vurderingssiden av samme argument; håndhevingssiden står i [[reduce-ai-cheating]], og den generelle validitetsinnrammingen går gjennom [[evaluating-ai-interventions-methods]].
 
 Si svaret i emnebeskrivelsen, i oppgavearket og i vurderingsmatrisen. Studenter leser tre dokumenter og følger det som er mest spesifikt. «AI-bruk er tillatt med anerkjennelse» er ikke en erklæring om hva du måler, og det gir en student ingen måte å vite om den tillatte bruken undergraver det du vurderer.
+
+## Hva formatet uten tilsyn nå koster
+
+Størrelsesordenen kan måles nå. I et emne i finans fulgt over åtte kull og 75 404 spørsmålskarakterer ble fordelen med nettbaserte quizer uten tilsyn sammenlignet med den overvåkede slutteksamenen doblet etter ChatGPT, mens skårene på den overvåkede eksamenen ikke beveget seg i det hele tatt ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela og McGrath, 2026]]). Mot det gjenværende handlingsrommet var omtrent 60 % av det utnyttbare gapet realisert over hele perioden og 70 % i de to siste kullene, og gevinsten lå i konseptuelle spørsmål snarere enn regnespørsmål. To konsekvenser følger for redesign. For det første skiller formatet nå bruksmåtene: der karakteren sertifiserer, understøtter et resultat uten tilsyn en svakere slutning enn det gjorde før 2022, mens den samme quizen lest formativt fortsatt forteller deg noe om engasjement. For det andre er komponentens vekt eksponeringen: en quiz verdt en femdel av emnekarakteren er en femdel av den forsvarlige karakteren, med mindre noe i designet oppveier det quizen ikke lenger måler. Deteksjon oppveier det ikke; et overvåket eller autentisert trinn gjør det.
 
 ## Risikoen for konstruktsubstitusjon
 

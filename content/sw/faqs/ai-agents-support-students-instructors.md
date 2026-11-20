@@ -2,12 +2,13 @@
 title: "Wakala wa AI Wanawezaje Kuwasaidia Wanafunzi na Wakufunzi?"
 created: "2026-10-13T05:26:00-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
+connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -19,7 +20,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-updated: "2026-11-15T16:26:08-05:00"
+updated: "2026-11-19T19:35:52-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

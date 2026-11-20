@@ -1,14 +1,14 @@
 ---
 title: "Notanın Öğrencinin Ne Bildiği ya da Ne Yapabildiği Konusunda Hâlâ Savunulabilir Bir Şey Söylemesi İçin Değerlendirmeyi Nasıl Yeniden Tasarlarım?"
 created: "2026-10-14T10:36:01-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,10 @@ Kısa yanıt: notun neyin kanıtı olması gerektiğine karar verin, ödevde ö�
 Notun hangi yetkinliği temsil etmesi gerektiğini açıkça belirterek başlayın. Bir öğrencinin bağımsız olarak ne yapabildiğini mi, YZ ile uygun biçimde neyi başarabildiğini mi, YZ’yi değerlendirme ve yönlendirme yeteneğini mi, yoksa bunların bir bileşimini mi değerlendiriyorsunuz? [[assessment-validity|Değerlendirme geçerliliği]] bunu bir geçerlilik sorunu olarak ele alır: cilalanmış bir ürün artık öğrencinin, o ürünün görünürde sergilediği yetkinliğe sahip olduğunun yeterli kanıtı değildir. Bu, aynı argümanın değerlendirme tarafındaki yarısıdır; yaptırım tarafındaki yarısı [[reduce-ai-cheating]] sayfasındadır ve genel geçerlilik çerçevesi [[evaluating-ai-interventions-methods]] boyunca uzanır.
 
 Yanıtı izlencede, ödev kâğıdında ve rubrikte söyleyin. Öğrenciler üç belge okur ve en belirgin olana uyar. “YZ kullanımına atıfla izin verilir” neyi ölçtüğünüzün bir ifadesi değildir ve öğrenciye izin verilen kullanımın notlandırdığınız şeyi zayıflatıp zayıflatmadığını anlamanın hiçbir yolunu vermez.
+
+## Gözetimsiz ortam artık neye mal oluyor
+
+Büyüklük artık ölçülebilir. Sekiz kohort ve 75.404 soru notu boyunca izlenen bir Finans dersinde, gözetimsiz çevrimiçi quizlerin gözetmenli final sınavına kıyasla avantajı ChatGPT sonrasında iki katına çıktı; oysa gözetmenli sınavdaki puanlar hiç kıpırdamadı ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela ve McGrath, 2026]]). Kalan iyileşme payına göre, istismar edilebilir farkın yaklaşık %60’ı tüm dönem boyunca ve %70’i son iki kohorta kadar gerçekleşmişti ve kazanç hesaplama sorularında değil kavramsal sorularda duruyordu. Yeniden tasarım için iki sonuç çıkar. Birincisi, biçim artık kullanımları ayrıştırıyor: notun sertifika işlevi gördüğü yerde, gözetimsiz bir sonuç 2022 öncesine kıyasla daha zayıf bir çıkarımı destekler; oysa aynı quiz biçimlendirici amaçla okunduğunda hâlâ katılım hakkında bir şey söyler. İkincisi, bileşenin ağırlığı riskin kendisidir: ders notunun beşte biri değerindeki bir quiz, tasarımda bir şey quizin artık ölçmediği şeyi telafi etmedikçe, savunulabilir notun beşte biridir. Tespit bunu telafi etmez; gözetimli ya da kimliği doğrulanmış bir adım eder.
 
 ## Yapı ikamesi riski
 

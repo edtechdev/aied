@@ -1,12 +1,12 @@
 ---
 title: "我该如何重新设计评价，使成绩仍然能够可靠地说明学生知道什么、能做什么？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-11-15T15:41:35-05:00"
+updated: "2026-11-19T19:40:00-05:00"
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-18T06:05:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -48,6 +48,10 @@ ai_assist:
 先明确说出这个分数本该代表哪一项能力。你评的是学生独立能做到什么、他们在 AI 协助下能恰当地完成什么、他们评判并指导 AI 的能力，还是这几者的某种组合？[[assessment-validity|评估效度]]把这当作一个效度问题：一份光鲜的成品不再足以证明学生具备这件成品表面上展示的能力。这是同一论证在评价一侧的那一半；执行一侧的那一半在[[reduce-ai-cheating]]里，而普遍的效度框架贯穿[[evaluating-ai-interventions-methods]]。
 
 把答案写在课程大纲里、作业说明里和评分细则里。学生读三份文件，然后遵守最具体的那一份。“允许使用 AI，需注明”并没有说明你在测量什么，它也让学生无从判断被允许的使用是否会削弱你正在评分的东西。
+
+## 无监督环境如今要付出什么代价
+
+这一幅度如今可以测量了。在一门金融课程中，跨越八届学生和 75,404 个题目评分的追踪显示，ChatGPT 出现之后，无监督在线测验相对有监考期末考试的优势翻了一倍，而有监考考试的分数纹丝不动（[[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela 与 McGrath, 2026]]）。对照剩余的上行空间，整个时期里可被利用的差距约已实现 60%，到最后两届学生时达到 70%，且增益落在概念性题目而非计算性题目上。对重新设计而言，由此得出两个后果。第一，形式如今把用途分开了：在分数起认证作用的地方，无监督的结果所能支撑的推论比 2022 年之前更弱，而同样的测验若按形成性用途来读，仍能告诉你一些关于参与的信息。第二，组成部分的权重就是暴露面：占课程成绩五分之一的测验，就是可辩护成绩的五分之一，除非设计中有东西弥补测验不再测量的内容。检测弥补不了；有监督或经过核验的环节才能。
 
 ## 构念替换的风险
 
