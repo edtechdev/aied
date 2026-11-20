@@ -11,6 +11,7 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 connected_podcasts: [clapping-for-the-car]
+connected_videos: [reality-of-ai-in-ed-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]

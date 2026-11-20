@@ -73,10 +73,10 @@ const conceptTitles: Record<string, string> = Object.fromEntries(
   concepts.map(c => [c.id.replace('.md', ''), c.data.title]),
 );
 ---
-
 <BaseLayout title={PODCAST_TITLE} description={PODCAST_DESCRIPTION} toc={[
   { text: 'Episodes', slug: 'episodes', depth: 2 },
   { text: 'Weekly update readings', slug: 'readings', depth: 2 },
+  { text: 'Also on YouTube', slug: 'youtube', depth: 2 },
   { text: 'Subscribe', slug: 'subscribe', depth: 2 },
 ]}>
   <h1>{PODCAST_TITLE}</h1>
@@ -154,6 +154,18 @@ const conceptTitles: Record<string, string> = Object.fromEntries(
       </div>
     ))
   }
+
+  <h2 id="youtube">Also on YouTube</h2>
+  <p>
+    Each concept these episodes discuss also has a short, single-narrator <strong>explainer video</strong>,
+    a different medium from the two-voice episodes. The full set is in the
+    <a href="https://youtube.com/playlist?list=PLEKzpjU2vbjE">explainer-video playlist on YouTube</a>.
+  </p>
+  <p>
+    Every episode and every weekly-update reading on this page is also on YouTube, in the
+    <a href="https://youtube.com/playlist?list=PLb188T_Ir6K8">audio playlist on YouTube Music</a> —
+    handy for listening in a browser or on a device with no podcast app.
+  </p>
 
   <h2 id="subscribe">Subscribe</h2>
   <p>

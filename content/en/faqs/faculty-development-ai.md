@@ -4,6 +4,7 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-11-20T08:06:12-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 connected_podcasts: [orchestrators-not-sages]
+connected_videos: [educators-ai-evolution]
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, teacher-ai-competency]

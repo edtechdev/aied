@@ -10,6 +10,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 connected_podcasts: [friction-is-your-friend]
+connected_videos: [ai-adapted-learning-designer]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire]
 reviewed_by: [editor]

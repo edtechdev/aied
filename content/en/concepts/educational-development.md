@@ -10,6 +10,7 @@ ai_assist:
     agent: hermes-agent
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 connected_podcasts: [orchestrators-not-sages]
+connected_videos: [educators-ai-evolution]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]

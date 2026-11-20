@@ -107,6 +107,46 @@ export const VIDEOS: Video[] = [
     concepts: ['interpreting-and-applying-aied-research'],
     faqs: [],
   },
+  {
+    slug: 'educators-ai-evolution',
+    youtubeId: '7WzPfB9goI4',
+    title: "Educator's AI Evolution",
+    summary:
+      'How faculty development moves educators from sole knowledge provider to orchestrator of a human-AI classroom, and why the 40% overconfidence gap makes that shift hard.',
+    seconds: 360,
+    concepts: ['educational-development'],
+    faqs: ['faculty-development-ai'],
+  },
+  {
+    slug: 'ai-misuse-to-collaboration',
+    youtubeId: 'QN1Cdrdk1mM',
+    title: 'AI Misuse to Collaboration',
+    summary:
+      'Why detectors and bans fail to reduce AI misuse, and how redesigning tasks around evaluative judgment turns the tool from a shortcut into a collaborator.',
+    seconds: 445,
+    concepts: ['reducing-ai-misuse'],
+    faqs: ['reduce-ai-cheating'],
+  },
+  {
+    slug: 'ai-adapted-learning-designer',
+    youtubeId: 'lFKVCJm8C0A',
+    title: 'AI Adapted Learning Designer',
+    summary:
+      'How generative AI reshapes instructional design: desirable difficulties, productive failure and process-based assessment instead of frictionless output.',
+    seconds: 507,
+    concepts: ['learning-design'],
+    faqs: ['designing-ai-into-learning'],
+  },
+  {
+    slug: 'reality-of-ai-in-ed-research',
+    youtubeId: 'euXQbnRgHKc',
+    title: 'Reality of AI in Ed Research',
+    summary:
+      'The recurring limits behind overstated AI-education headlines: the performance illusion, the measurement crisis and the generalization trap.',
+    seconds: 486,
+    concepts: ['limitations-in-aied-research'],
+    faqs: [],
+  },
 ];
 
 export const VIDEO_BY_SLUG = new Map(VIDEOS.map(v => [v.slug, v]));

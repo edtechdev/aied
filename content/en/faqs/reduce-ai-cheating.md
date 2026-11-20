@@ -4,6 +4,7 @@ created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-20T07:49:27-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 connected_podcasts: [design-dont-detect]
+connected_videos: [ai-misuse-to-collaboration]
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]

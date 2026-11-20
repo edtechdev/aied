@@ -4,6 +4,7 @@ created: "2026-08-12T19:13:02-04:00"
 updated: "2026-11-20T07:49:27-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 connected_podcasts: [design-dont-detect]
+connected_videos: [ai-misuse-to-collaboration]
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
