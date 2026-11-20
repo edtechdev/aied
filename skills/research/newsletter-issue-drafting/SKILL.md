@@ -197,6 +197,19 @@ issue and require a built page for each before writing the report:
 The year-suffix trap is the one that bites: article slugs sometimes end in their publication year and
 sometimes do not, so a hand-typed slug resolves for 53 links and 404s for one.
 
+## The audio reading
+
+Every issue ships with a single-narrator reading, so publishing one is three things: the page, the
+mp3 on the `audio-latest` release, and one entry in `NEWSLETTER_AUDIO` in `src/data/podcast.ts`.
+That single entry is what the issue's player, `/audio/` and the podcast feed all read; a reading
+that is not registered is invisible on all three however good the file is.
+
+Read the prose and skip the furniture — the contents list, the audio and video table, the "also
+added" tail and the follow block — and speak each heading as a sentence. Register the **measured**
+duration in whole seconds and the file's **exact** byte count: the feed's enclosure length has to
+match the asset byte for byte. `docs/newsletters.md` carries the page contract, and the voice,
+chunking and retry recipe is in `podcast-episode-publishing` under `references/tts-readings.md`.
+
 ## Report
 
 State what the issue is built from (added counts per collection, baseline totals, edited counts), how the
