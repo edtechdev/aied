@@ -11,7 +11,7 @@ import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
 import ConnectedVideos from '../../components/ConnectedVideos.astro';
 import { VIDEO_BY_SLUG, checkVideoPairing } from '../../data/videos';
-import { formatRuntime, transcriptAssetUrl } from '../../data/podcast';
+import ConnectedPodcasts from '../../components/ConnectedPodcasts.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
 export async function getStaticPaths() {
@@ -211,21 +211,6 @@ if (connectedPodcasts.length > 0) {
       }))}
     />
 
-    <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
-
-    <ConnectedList
-      id="connected-podcasts"
-      heading="Connected Podcasts"
-      items={connectedPodcasts.map((e) => ({
-        href: `/aied/audio/${e.id.replace('.md', '')}/`,
-        title: e.data.title,
-        kind: 'audio' as const,
-        meta: `Episode ${e.data.episode} · ${formatRuntime(e.data.duration)}`,
-        summary: e.data.summary,
-        links: [{ label: 'Download transcript (.txt)', href: transcriptAssetUrl(e.data.transcript_file) }],
-      }))}
-    />
-
     <ConnectedList
       id="connected-faqs"
       heading="Connected FAQs"
@@ -246,6 +231,10 @@ if (connectedPodcasts.length > 0) {
         summary: r.data.summary,
       }))}
     />
+
+    <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
+
+    <ConnectedPodcasts episodes={connectedPodcasts} />
 
     <MetadataTable conceptTitles={conceptTitles} data={concept.data} />
     <SourceButtons filePath={contentFilePath('concepts', concept.id)} />

@@ -1,0 +1,68 @@
+---
+/**
+ * ConnectedPodcasts.astro — the "Connected Podcasts" section at the foot of a
+ * concept or FAQ page.
+ *
+ * Each episode is an embedded player, so the episode can be listened to on the
+ * page itself rather than requiring a click through to the dedicated episode
+ * page. The episode page is still linked (show notes + the full labelled
+ * transcript); the plain-text transcript download hangs under the player.
+ *
+ * Episodes come from the page's `connected_podcasts` frontmatter, already
+ * resolved to episode collection entries by the caller.
+ */
+import AudioPlayer from './AudioPlayer.astro';
+import { audioAssetUrl, transcriptAssetUrl } from '../data/podcast';
+
+interface EpisodeLike {
+  id: string;
+  data: {
+    title: string;
+    episode: number;
+    duration: number;
+    summary?: string;
+    audio_file: string;
+    transcript_file: string;
+  };
+}
+
+interface Props {
+  episodes: EpisodeLike[];
+  /** Site base path, for the episode-page link. */
+  base?: string;
+}
+
+const { episodes, base = '/aied' } = Astro.props;
+---
+{episodes.length > 0 && (
+  <section style="margin-top:2.5rem;" id="connected-podcasts">
+    <h2>Connected Podcasts</h2>
+    {episodes.map((e) => {
+      const slug = e.id.replace('.md', '');
+      return (
+        <div class="connected-podcast">
+          <AudioPlayer
+            src={audioAssetUrl(e.data.audio_file)}
+            title={e.data.title}
+            duration={e.data.duration}
+            eyebrow={`Episode ${e.data.episode}`}
+            transcriptHref={transcriptAssetUrl(e.data.transcript_file)}
+            transcriptLabel="Download the transcript (.txt)"
+            pageHref={`${base}/audio/${slug}/`}
+            pageLabel="Episode page, show notes and transcript"
+          />
+          {e.data.summary && <p class="connected-podcast-summary">{e.data.summary}</p>}
+        </div>
+      );
+    })}
+  </section>
+)}
+
+<style>
+  .connected-podcast-summary {
+    margin: -0.7rem 0 1.5rem;
+    font-size: 0.92rem;
+    color: var(--muted-color);
+    line-height: 1.6;
+  }
+</style>

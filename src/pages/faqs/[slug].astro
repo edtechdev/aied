@@ -11,7 +11,7 @@ import ConnectedVideos from '../../components/ConnectedVideos.astro';
 import { VIDEO_BY_SLUG, checkVideoPairing } from '../../data/videos';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 import { FAQ_SEARCH_ALIASES } from '../../data/searchAliases';
-import { formatRuntime, transcriptAssetUrl } from '../../data/podcast';
+import ConnectedPodcasts from '../../components/ConnectedPodcasts.astro';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -136,6 +136,12 @@ if (connectedFaqs.length > 0) {
 if (connectedResources.length > 0) {
   toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
 }
+if (connectedVideos.length > 0) {
+  toc.push({ text: 'Connected Videos', slug: 'connected-videos', depth: 2 });
+}
+if (connectedPodcasts.length > 0) {
+  toc.push({ text: 'Connected Podcasts', slug: 'connected-podcasts', depth: 2 });
+}
 ---
 
 <BaseLayout title={title} toc={toc}>
@@ -174,21 +180,6 @@ if (connectedResources.length > 0) {
       }))}
     />
 
-    <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
-
-    <ConnectedList
-      id="connected-podcasts"
-      heading="Connected Podcasts"
-      items={connectedPodcasts.map((e) => ({
-        href: `/aied/audio/${e.id.replace('.md', '')}/`,
-        title: e.data.title,
-        kind: 'audio' as const,
-        meta: `Episode ${e.data.episode} · ${formatRuntime(e.data.duration)}`,
-        summary: e.data.summary,
-        links: [{ label: 'Download transcript (.txt)', href: transcriptAssetUrl(e.data.transcript_file) }],
-      }))}
-    />
-
     <ConnectedList
       id="connected-faqs"
       heading="Connected FAQs"
@@ -209,6 +200,10 @@ if (connectedResources.length > 0) {
         summary: r.data.summary,
       }))}
     />
+
+    <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
+
+    <ConnectedPodcasts episodes={connectedPodcasts} />
 
     <MetadataTable conceptTitles={conceptTitles} data={faq.data} />
     <SourceButtons filePath={contentFilePath('faqs', faq.id)} />
