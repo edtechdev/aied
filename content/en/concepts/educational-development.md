@@ -2,13 +2,14 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-18T05:55:00-05:00"
+updated: "2026-11-20T08:06:12-05:00"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-11-18"
     agent: hermes-agent
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
+connected_podcasts: [orchestrators-not-sages]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
