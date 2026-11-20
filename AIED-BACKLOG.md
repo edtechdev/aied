@@ -41,10 +41,8 @@ Ingested from full text once the PDFs arrived (both publisher-blocked on the sca
 - Artificial Intelligence in Middle and Secondary Education — perspective with policy
   recommendations — ingested as `stefanile-middle-secondary-ai-guidance-2026`.
 
-Declined by the maintainer on 2026-11-18 and recorded in `rejected-sources.yaml`: the Cogent
-Education study of AI literacy and academic-integrity assessment in South African higher education
-(10.1080/2331186X.2026.2690714), and the Discover Education bibliometric study of human factors in
-AI-mediated second-language learning (10.1007/s44217-026-02248-5).
+A few sources considered for ingestion were not accepted by the maintainer; the decision is
+recorded privately rather than in this file.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-16)
 
@@ -52,8 +50,7 @@ AI-mediated second-language learning (10.1007/s44217-026-02248-5).
 Five BMC Medical Education early-access records needed publisher PDFs. Resolved on 2026-11-16:
 three were supplied and ingested as `ago-prompt-literacy-allied-health-2026`,
 `tischkau-ai-simulated-patient-formats-2026` and `islam-human-vs-ai-sba-dental-2026`; the other
-two (10.1186/s12909-026-10774-x and the OSF nursing scoping-review registration) were declined
-and recorded in `rejected-sources.yaml`.
+two were not accepted; the decision is recorded privately rather than in this file.
 
 ## OpenAlex weekly topic sweep (2026-11-15)
 
