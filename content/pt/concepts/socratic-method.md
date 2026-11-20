@@ -1,8 +1,8 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: Método Socrático
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,7 @@ A lacuna entre "habilidades baseadas em conhecimento" (4,0/5) e "eficácia geral
 - O diálogo socrático é esforçado; os estudantes podem preferir respostas diretas por eficiência
 - O chatbot não pode fornecer o apoio relacional de um tutor humano
 - Alguns estudantes podem ficar presos em laços socráticos sem resolução
+- A entrega pode variar mais do que o desenho especifica. Em um curso de C++, o item que perguntava se o chatbot fazia perguntas reflexivas ou de aplicação foi o mais baixo e mais variável do questionário, em 3,86 de 5 (DP 1,24), o que os autores leram como entrega inconsistente do que o prompt de sistema nomeava ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware e Jiang (2026)]]).
 
 ### Um contrarresultado: o acesso irrestrito pode superar os modos restringidos
 
@@ -132,7 +133,7 @@ O método socrático está intimamente ligado ao [[scaffolding|suporte]] (fornec
 
 ## Conceitos conectados
 
-- [[pedagogical-patterns]] — The questioning sequence and its conflicting trial evidence
+- [[pedagogical-patterns]] — A sequência de questionamento e as evidências conflitantes dos ensaios
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[learning-analytics]]
@@ -151,12 +152,12 @@ O método socrático está intimamente ligado ao [[scaffolding|suporte]] (fornec
 - [[agency]]
 - [[critical-thinking]]
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[productive-failure]] — Productive Failure
+- [[productive-failure]] — Falha produtiva
 
 ## Artigos conectados
 
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles in a 2 x 2 postgraduate design study
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Estilos de feedback socrático versus diretivo em um estudo de design 2 x 2 na pós-graduação
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliando um sistema de LLM multiagente orientado a andaimento para o treinamento de entrevista clínica
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[syal-multimodal-dialogue-stem-2026]]
@@ -165,15 +166,16 @@ O método socrático está intimamente ligado ao [[scaffolding|suporte]] (fornec
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[prober-ai-inquiry-writing]]
 - [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — Structured Socratic hints vs. open-ended general-purpose Q&A
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
-- [[lftutor-logical-fallacy-education-2026]] — Socratic questioning plus critical argumentation in a four-step fallacy-tutoring framework
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[stanford-evidence-base-ai-k12-2026]] — Dicas socráticas estruturadas versus perguntas e respostas abertas de uso geral
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direcionamento pedagógico de LLMs para a falha produtiva
+- [[wang-safety-gap-productive-struggle-2026]] — A lacuna de segurança: restaurando a luta produtiva
+- [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoiar o design de problemas de PF
+- [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para a aprendizagem autônoma de línguas
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: comparando estratégias de interação para a IA na aprendizagem
+- [[lftutor-logical-fallacy-education-2026]] — Questionamento socrático mais argumentação crítica em um framework de tutoria de falácias em quatro etapas
+- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails ou obstáculos? Efeitos do estilo pedagógico e da consciência de contexto em assistentes de ensino de IA para programação
 
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Aprimorando habilidades de argumentação alinhadas ao PISA de futuros professores de biologia por meio da inteligência artificial generativa
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional por IA para ensinar ideias equivocadas com diálogo ancorado em evidência (Miranda & Calvani 2026)
 - [[socratic-probing-agent-physics-cave-detection-2026]] — Projetando um agente de IA que não tutora: regras de desenho para sondagem socrática em física introdutória
+- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — Perguntas reflexivas avaliadas como as mais baixas e mais variáveis em um chatbot guiado

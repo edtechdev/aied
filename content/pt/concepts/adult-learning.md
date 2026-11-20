@@ -102,16 +102,16 @@ A aprendizagem de adultos fica na interseção de vários conceitos estreitament
 ## Artigos conectados
 
 - [[ai-adult-learning-guidelines-dis2026]] — Diretrizes para Desenhar Tecnologias de IA de Apoio à Aprendizagem de Adultos
-- [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
-- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[andragogy-cognitive-delegation-genai-2026]] — O que permanece autodirigido? Revisitando a andragogia pela delegação cognitiva na aprendizagem de adultos mediada por IA generativa
+- [[ai-lifelong-learning-policy]] — Inteligência artificial na aprendizagem ao longo da vida: oportunidades e desafios na política de educação de adultos
+- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive e o framework Tutor-in-the-Loop (TITL) para equidade na educação continuada
+- [[community-centered-ai-education-adults]] — Co-desenhando educação em IA centrada na comunidade para adultos: um estudo de caso do Meio-Oeste
+- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Novos sistemas de aprendizagem para instituições de educação a distância? Uma revisão de seis estudos sobre a implementação do AIDA
+- [[institutional-governance-ai-universities]] — Fragmentação de políticas ou alinhamento institucional? A governança institucional da IA em universidades e escolas de negócios
+- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Experiências de aprendizagem aprimoradas por IA generativa para o pensamento computacional: uma revisão sistemática de escopo e diretrizes de desenho
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapeando o currículo emergente de engenharia de software assistida por IA via análise de ementas
+- [[learner-ai-interaction-patterns-oop]] — Padrões de interação aprendiz–IA e desempenho acadêmico em um curso de programação orientada a objetos
 - [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada em falha produtiva
+- [[kim-ai-andragogy-2026]] — Aplicações de IA no apoio à andragogia (Kim et al. 2026)
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Desenhe para uma faixa de engajamento: faça do diálogo socrático profundo o caminho mais recompensador

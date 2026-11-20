@@ -1,7 +1,7 @@
 ---
 title: "Sul Global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,26 +38,27 @@ ai_assist:
 
 ## Introdução
 
-### Por que importa para a AIED
+## Por que importa para a AIED
 
 A pesquisa mainstream em IA e tecnologia educacional tem sido historicamente dominada por conjuntos de dados e contextos [[governance|institucionais]] ocidentais e de língua inglesa. Isso cria dois problemas: (1) [[ai-technologies|sistemas de IA]] treinados com tais dados podem ter desempenho inferior ou mal representar aprendizes em cenários do Sul Global, e (2) [[benchmark|benchmarks]] de avaliação construídos no Norte Global podem não refletir as realidades educacionais, línguas ou tradições de conhecimento de outras regiões. A pesquisa de contextos do Sul Global nesta base de conhecimento abrange conjuntos de dados, benchmarks e estudos de adoção de tecnologia fundamentados culturalmente, com implicações para o [[ai-literacy|letramento em IA]] e para o [[higher-ed|ensino superior]] e o [[k-12|K-12]].
 
-### Aplicações na base de conhecimento
+## Aplicações na base de conhecimento
 
 - **Dados e benchmarks fundamentados culturalmente:** o [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] fornece um conjunto de dados de instrução [[multilingual-learning|multilíngue]] de Sistemas de Conhecimento Indianos; o [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduz um benchmark de [[stem-education|STEM]] com base em Gana, um dos primeiros conjuntos de dados de avaliação educacional do Sul Global.
 - **Consciência de ética em IA no ensino superior de Gana:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] validaram uma escala de consciência ética em IA de três fatores (autonomia, beneficência, equidade) com 509 estudantes [[higher-ed|universitários]] de Gana, encontrando cinco perfis latentes de consciência uniformemente muito alta a um pequeno cluster com quase nenhuma — mais fracos em beneficência — e nenhuma diferença de gênero, fornecendo uma âncora de medição do Sul Global para a literatura de [[ethics|ética]] em IA.
 - **Raciocínio ético de professores em contextos de poucos recursos:** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et al. (2026)]] descobriram que professores de STEAM do ensino médio em serviço em um contexto de poucos recursos raciocinam sobre ética em IA por meio da identidade profissional, das realidades da sala de aula e das normas culturais, e não por listas formais de princípios, contrariando suposições de "ética vazia" sobre o Sul Global.
 - **Adoção contextual:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] modelam a adoção de [[generative-ai|GenAI]] entre estudantes de [[engineering-education|engenharia]] bangladeshis, e o [[connected-ai-lesson-planning-vietnam|ConnectED]] implanta um sistema de planejamento de aulas alinhado ao [[curriculum-design|currículo]] para a educação vietnamita.
 - **Capacidade, não infraestrutura, moveu a adoção pelos docentes.** Entre 255 docentes de Bangladesh, a atitude em relação à GenAI previu fortemente o uso (β = 0,556) e a relevância específica do domínio impulsionou a atitude (β = 0,413), enquanto a provisão de tecnologia institucional e as normas subjetivas não foram preditores significativos ([[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et al. (2026)]]).
+- **Letramento em IA com identidade em primeiro lugar na educação afro-equatoriana:** 90 atores educacionais, juvenis e comunitários de Esmeraldas deram à identidade afrodescendente a maior pontuação (M = 4,72) e ao letramento crítico em IA a menor (M = 4,60), e um grupo focal com três participantes descreveu um uso ocasional, limitado a tarefas ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 - **Integração institucional e desigualdade estrutural:** a análise de conteúdo comparativa de [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] de 45 universidades nigerianas (federais/estaduais/privadas) descobriu que a integração de IA é predita pela idade da instituição e pela localização geográfica — não pelo tipo de governança — e que os laços com redes internacionais e da indústria reforçam um ao outro (r = 0,74), de modo que instituições bem conectadas acumulam vantagem enquanto outras ficam ainda mais para trás. Ela localiza a [[digital-divide|desigualdade digital]] não apenas no nível do aprendiz, mas na capacidade estrutural das próprias instituições de [[higher-ed|ensino superior]].
 - **[[educational-development|Desenvolvimento acadêmico]] como mediação digital sob restrição estrutural:** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] entrevista doze desenvolvedores acadêmicos e designers de aprendizagem em duas Instituições Historicamente Desfavorecidas sul-africanas e traça uma linha analítica que a literatura do Sul Global frequentemente borra: a **desigualdade digital** é distributiva e respondível em princípio por meio de redistribuição e acesso, enquanto a **colonialidade algorítmica** é epistêmica e persiste mesmo sob acesso pleno, porque é inerente ao que os sistemas codificam e a cujo conhecimento eles centram. As duas estão entrelaçadas, mas exigem respostas diferentes, e a instituição está duplamente posicionada — excluída pela escassez infraestrutural e, quando incluída, subordinada por sistemas importados que codificam outros conhecimentos e normas. A retórica institucional de IA ("desempenho mais do que prática") chegou frouxamente acoplada às realidades materiais do ensino, de modo que os desenvolvedores traduziram o discurso global de transformação digital em prática contextualmente viável: testando e deliberadamente "quebrando" ferramentas em espaços de pares, insistindo no juízo sobre a habilidade, e absorvendo o custo afetivo de projetar uma especialização que ainda estavam adquirindo.
 - **Marginalização epistêmica:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] argumenta que dados de treinamento centrados no Ocidente marginalizam conhecimentos não ocidentais e centrados na deficiência — conectando as preocupações do Sul Global à [[equity-in-ai-education|equidade na educação com IA]] e à [[culturally-relevant-pedagogy|pedagogia culturalmente relevante]].
 - **Deficiência e [[inclusive-learning|inclusão]] no Sul Global:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — um estudo de caso [[qualitative-research|qualitativo]] de 21 graduandos com deficiência visual em três universidades palestinas — descobriram que a GenAI transpassa divisões digitais, geográficas e socioeconômicas para [[inclusive-learning|aprendizes com deficiência]], estendendo a pesquisa de [[technology-acceptance-model|aceitação de tecnologia]] a contextos de deficiência onde [[usability-research|usabilidade]], acessibilidade de preço e [[accessibility|acessibilidade]] se reforçam mutuamente.
 - **Projetando para estressores locais sob restrições de recursos:** Bashir e Afzal (2026) constroem o [[culturally-aware-student-stress-chatbot-2026|Sukoon]] como uma resposta de design do Sul Global a uma incompatibilidade documentada — [[conversational-ai|chatbots]] de saúde mental treinados majoritariamente em conjuntos de dados ocidentais e esmagadoramente de língua inglesa, enquanto estudantes paquistaneses enfrentam estressores acadêmicos, financeiros, familiares e relacionais simultaneamente e frequentemente não podem levantar dificuldades emocionais com [[parents-and-families|pais]], [[teacher-role|professores]] ou pares por causa do estigma. As restrições práticas dos autores são tão instrutivas quanto seu modelo: um [[llm]] [[open-source|de código aberto]] de acesso gratuito por meio de uma API hospedada para baixos requisitos de recurso, uma implantação Flask leve para universidades regionais, "ferramentas estão disponíveis, mas frequentemente são caras" listada como barreira, e acesso desigual a modelos pagos sinalizado como um risco de dependência geral. Eles também notam que o classificador foi treinado em um conjunto de dados publicamente disponível não representativo de estudantes paquistaneses, e se comprometem a dados DASS-21 coletados localmente antes de tirar conclusões populacionais.
 - **Evidência de avaliação escassa e específica de ferramenta do ensino superior africano:** [[genai-assessment-african-higher-education-review-2026|uma revisão sistemática PRISMA 2020]] da pesquisa empírica publicada entre 2023 e 2025 localizou apenas dez estudos, concentrados na Nigéria e na África do Sul e conduzidos quase exclusivamente com o ChatGPT, de modo que o que se sabe sobre redesenhar a avaliação para IA generativa no ensino superior africano repousa sobre estudos de amostra pequena, instituição única e [[self-report-measures|autorrelatados]], em vez de [[learning-gains|ganhos de aprendizagem]] medidos — os autores da revisão enquadram suas recomendações como direções, e não como efeitos assentados.
-- **A equidade é a dimensão menos estudada em toda a região.** Uma [[meta-analysis-systematic-review|revisão de escopo]] PRISMA-ScR de 75 estudos do Sul Global (2022–2025) descobriu que a equidade é a menos examinada de suas cinco áreas, apesar de sua centralidade para a educação inclusiva, e relatou uma lacuna entre as posições éticas declaradas dos estudantes e seu comportamento ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026)]]).
+- **A equidade é a dimensão menos estudada em toda a região.** Uma [[meta-analysis-systematic-review|revisão de escopo]] PRISMA-ScR de 75 estudos do Sul Global (2022–2025) descobriu que a equidade é a menos examinada de suas cinco áreas, apesar de sua centralidade para a educação inclusiva, e relatou uma lacuna entre as posições éticas declaradas dos estudantes e seu comportamento ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
 
-### Implicações
+## Implicações
 
 Atender aos contextos do Sul Global exige ir além de assumir que modelos e benchmarks ocidentais se transferem diretamente. Isso clama por conjuntos de dados fundamentados localmente, [[pedagogy|pedagogia]] culturalmente relevante, padrões de avaliação centrados na comunidade, e pesquisa que trate as epistemologias vividas e comunitárias dos aprendizes como autoritativas — alinhando-se a frameworks como aprendizagem com IA baseada na comunidade e pesquisa de [[technology-acceptance-model|aceitação de tecnologia]] adaptada às condições locais.
 
@@ -88,20 +89,20 @@ O acesso pode saturar antes da capacidade: entre 633 estudantes de oito universi
 
 ## Artigos conectados
 
-- [[genai-assessment-african-higher-education-review-2026]] — Rethinking assessment in the age of generative AI: A systematic literature review of African higher education
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
+- [[genai-assessment-african-higher-education-review-2026]] — Repensando a avaliação na era da IA generativa: uma revisão sistemática da literatura do ensino superior africano
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estruturas institucionais, desigualdade digital e integração de IA no ensino superior nigeriano
 - [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in South African HDIs: digital inequality vs. algorithmic coloniality
-- [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of Ghanaian university students
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: teachers' contextual ethical reasoning
+- [[socio-cognitive-genai-adoption-engineering-2026]] — Modelo sociocognitivo unificado para a educação em engenharia (Bangladesh)
+- [[connected-ai-lesson-planning-vietnam]] — ConnectED: planejamento de aulas no Vietnã
+- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: conjunto de dados de Sistemas de Conhecimento Indianos
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: benchmark de STEM de Gana
+- [[genai-minoritized-knowledges-disability]] — Marginalização de conhecimentos minorizados
+- [[llm-cultural-relevance-k12]] — LLMs para uma pedagogia K-12 culturalmente relevante
+- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — Integração de GenAI no ensino superior de Bangladesh por meio do construtivismo (Alam et al. 2026)
+- [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI assistiva para aprendizes com deficiência visual
+- [[culturally-aware-student-stress-chatbot-2026]] — Um chatbot culturalmente consciente movido a IA para detecção de estresse e apoio ao bem-estar entre estudantes universitários paquistaneses usando NLP e aprendizado de máquina
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Delimitando a alegação de aprendizagem do piloto de tutoria por IA de El Salvador (Restrepo Morales et al. 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Desenvolvedores acadêmicos como mediadores digitais em HDIs sul-africanas: desigualdade digital vs. colonialidade algorítmica
+- [[ai-ethical-awareness-ghana-students-2026]] — Consciência ética em inteligência artificial de estudantes universitários de Gana
+- [[teachers-contextual-ethical-reasoning-ai-2026]] — Princípios éticos da IA na educação: o raciocínio ético contextual dos professores
 - [[gouroubera-genai-benin-2026]] — 633 estudantes no Benim: uso semanal de 92,3 por cento, carga de trabalho como motor dominante, de modo que o acesso já não é a restrição vinculante (Gouroubera et al. 2026)

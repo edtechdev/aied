@@ -1,7 +1,7 @@
 ---
 title: "Avaliação somativa"
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ A pesquisa da base de conhecimento documenta como a IA generativa remodelou fund
 ## Formatos somativos resistentes à IA
 
 Um tema-chave na base de conhecimento é que o **formato somativo determina a resistência à IA** — quanto mais uma tarefa exige desempenho ao vivo, presencial e sondado individualmente, mais difícil é para estudantes substituírem a IA por sua própria aprendizagem.
+
+Formatos resistentes à IA defendem a nota em vez de repensá-la: provas supervisionadas e orais estabilizam valores e práticas existentes, de modo que a reforma para no histórico escolar, e não no que uma nota representa ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 - **[[oral-assessment|Provas orais]] e avaliações.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] argumenta que a prova oral é um formato somativo de baixa tecnologia e inerentemente resistente à IA: seu diálogo interativo em tempo real testa compreensão, [[critical-thinking|pensamento crítico]] e raciocínio em vez de memorização, impede estudantes de usar IA para gerar e memorizar respostas, e espelha a prática profissional. Os [[socratic-tests-conversational-assessment|testes socráticos]] e as [[code-review-genai-cs1|entrevistas de revisão de código]] estendem isso à avaliação somativa dinâmica, conversacional e baseada em entrevista.
 - **Medidas sem consulta, supervisionadas e sem auxílio.** A [[generative-ai-reduced-study-time-math|evidência]] e os [[stromberg-generative-ai-learning-penalty-secondary-2026|dados de campo em larga escala]] mostram que provas supervisionadas e sem consulta — não lições de casa infladas ou trabalhos para fazer em casa — são o sinal confiável da aprendizagem real quando estudantes usam IA. Frameworks de [[responsible-assessment-ai-era-stanford-2026|avaliação responsável]] incorporam essas medidas sem auxílio dentro de um redesenho movido pela validade. Onde as provas permanecem on-line, a [[remote-proctoring|supervisão remota]] assume esse papel, e as duas revisões do corpus sobre supervisão automatizada de provas encontram preocupações de privacidade e de [[bias-mitigation|justiça]] ao lado de ganhos de detecção ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).

@@ -37,7 +37,7 @@ ai_assist:
 
 A aprendizagem incorporada está intimamente relacionada ao [[active-learning|aprendizado ativo]], à [[experiential-learning|aprendizagem experiencial]] e às teorias situadas/[[constructivist|construtivistas]]. A afirmação-chave é que um agente físico e manipulável ajuda os aprendizes a conectar ideias abstratas a resultados concretos — um programa que faz um robô se mover, ou um role-play com um robô físico — de formas que a interação puramente baseada em tela pode não conseguir. A robótica é a incorporação mais clara da IA na educação, dando aos aprendizes algo para ver, tocar e observar.
 
-### Como a aprendizagem incorporada aparece na pesquisa da base de conhecimento
+## Como a aprendizagem incorporada aparece na pesquisa da base de conhecimento
 
 - **Programação fundamentada:** o [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancora a [[cs-education|programação em blocos]] na execução incorporada de robôs, criando um laço apertado de autoria, execução, observação e revisão para que os aprendizes vejam seu código se tornar comportamento.
 - **Interação social-robótica:** [[educational-robotics|Robôs sociais]] usados para [[storytelling-in-education|narração de histórias]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) e linguagem de sinais ([[pepper-robot-sign-language-lis-2025|Pepper]]) fornecem interação social incorporada que apoia a aprendizagem relacional e [[social-emotional-learning|emocional]].
@@ -49,7 +49,7 @@ A aprendizagem incorporada está intimamente relacionada ao [[active-learning|ap
 - **Um facilitador apenas de linguagem puxa a investigação para o que pode ser dito.** Em um laboratório de hidrostática de mestrado, os estudantes construíram o modelo de empuxo à mão antes de um facilitador baseado em Gemini se juntar para aplicá-lo a um novo fenômeno. Ao longo de três duplas, a IA sustentou a sequência ISLE, mas, pressionada a "apenas nos diga", produziu valores de massa que ninguém havia medido, e um participante remoto completou um ciclo fisicamente correto que era limpo, mas desincorporado ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino e Damiani, 2026]]). A lição de desenho é a sequência, e não a substituição: construir o modelo no corpo primeiro, e só então deixar o modelo de linguagem trabalhar na aplicação dele.
 
 
-### Inteligência incorporada e a crítica da IA desincorporada
+## Inteligência incorporada e a crítica da IA desincorporada
 
 Uma segunda vertente, mais teórica, da pesquisa em incorporação da base de conhecimento diz respeito ao papel do *corpo* na aprendizagem [[sociocultural-learning|mediada]] por IA — não por meio de robôs físicos, mas por meio da questão de saber se os próprios [[ai-technologies|sistemas de IA]] são (ou podem ser) incorporados. Esse trabalho desafia o domínio de modelos simbólicos e desincorporados de IA construídos sobre processamento abstrato de informação:
 
@@ -88,14 +88,14 @@ A aprendizagem incorporada se conecta à [[educational-robotics|robótica educac
 ## Artigos conectados
 
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Simulação de fotossíntese com rastreamento de movimento analisada por um pipeline de LLM (Fonteles et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Um framework multimodal para a cognição incorporada em explicações orais
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Promovendo a aprendizagem sustentável via inteligência incorporada (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
+- [[pepper-robot-sign-language-lis-2025]] — Pepper e língua de sinais
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integração robô–LLM na escrita criativa
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-análise da aprendizagem de línguas assistida por robôs incorporados e aprimorada por IA
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]

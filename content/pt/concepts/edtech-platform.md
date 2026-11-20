@@ -137,25 +137,25 @@ A privacidade pode ser embutida no pipeline em vez de na política: um detector 
 
 ## Artigos conectados
 
-- [[typology-generative-ai-tools-education-2026]] — What 211 educators reported using: 50 tools in nine categories
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
-- [[oatutor-open-source-adaptive-tutor-2023]] — An open-source adaptive tutoring platform for replicable research
-- [[mooc-to-maic]] — Moving from MOOC to LLM-driven multi-agent AI classrooms
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS for middle school with bounded, privacy-first support
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignment platform
-- [[edusim-llm-robotic-simulation-education-2026]] — An LLM-robotic simulation platform for education
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — A generative social-robot teaching platform in higher education
-- [[hypergamification-game-engine-lms]] — A game-engine-based LMS integrating gamification
-- [[edtech-design-time-generative-ui]] — Designing edtech for generative UI
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM autograder platform
-- [[vismatic-secure-sandbox-cs-education]] — A secure sandbox platform for CS education
-- [[learnmate2-llm-adaptive-learning]] — LLM-powered personalized adaptive learning platform
-- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[typology-generative-ai-tools-education-2026]] — O que 211 educadores relataram usar: 50 ferramentas em nove categorias
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Tornando a tutoria de IA produtiva: prática de matemática baseada em domínio
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — A um clique de distância: Khanmigo em um experimento escolar de dois anos
+- [[access-not-enough-ai-tutoring-2026]] — Adoção e engajamento são as restrições limitantes das plataformas de tutoria de IA
+- [[oatutor-open-source-adaptive-tutor-2023]] — Uma plataforma de tutoria adaptativa de código aberto para pesquisa replicável
+- [[mooc-to-maic]] — Do MOOC às salas de aula de IA multiagente dirigidas por LLM
+- [[ai-lms-middle-school-longitudinal]] — LMS integrado a IA para o ensino fundamental 2 com suporte delimitado que prioriza a privacidade
+- [[taklif-ai-interest-based-personalized-assignments]] — Plataforma de tarefas personalizadas com base em interesses
+- [[edusim-llm-robotic-simulation-education-2026]] — Uma plataforma de simulação robótica baseada em LLM para a educação
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Uma plataforma de ensino com robô social generativo no ensino superior
+- [[hypergamification-game-engine-lms]] — Um LMS baseado em motor de jogos que integra gamificação
+- [[edtech-design-time-generative-ui]] — Projetando edtech para UI generativa
+- [[lata-ferpa-compliant-local-llm-autograder]] — Plataforma de autograder com LLM local em conformidade com a FERPA
+- [[vismatic-secure-sandbox-cs-education]] — Uma plataforma de sandbox segura para o ensino de ciência da computação
+- [[learnmate2-llm-adaptive-learning]] — Plataforma de aprendizagem adaptativa personalizada movida por LLM
+- [[privacy-aware-classroom-incident-recognition-2026]] — Visão computacional sensível à privacidade em plataformas de sala de aula
+- [[raza-farooq-aied-review-2020-2025]] — Revisão abrangente da pesquisa e dos sistemas de AIED
+- [[credentials-carry-evidence-ai-agents-2026]] — Credenciais que carregam suas evidências para o trabalho com agentes de IA
 - [[breideband-community-builder-cobi-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[edtech-privacy-deferral-2026]] — "Vamos corrigir depois": educação, IA e o adiamento da privacidade dos estudantes na edtech
+- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam escapar: uma verificação estrutural de dados educacionais sintéticos

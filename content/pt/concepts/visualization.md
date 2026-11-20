@@ -5,9 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-08T12:30:33-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 translation_of: concepts/visualization
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ Uma segunda vertente importante diz respeito à IA produzindo visualizações di
 
 A geração de gráficos a partir de prompts levanta uma questão diferente de se a IA consegue produzir uma visualização competente: se quem aprende ainda realiza o trabalho analítico e de codificação que torna o artefato educativo. Um framework de 2026 chama isso de divisão processo–resultado e propõe transparência, convite e desvanecimento como a linha de agência entre [[scaffolding|andaimento]] e substituição ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
 
+Frequência não é significância, e a lacuna é um objeto de ensino. Uma nuvem de palavras extraída do próprio manuscrito sobre perovskita dos autores fez emergir "PSC", "stability" e "PCE", enquanto subponderou "space applications", "manufacturing" e "device modeling", e incluiu palavras não técnicas como "can" e "one" ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra e Gong, 2026]]). Um mapa mental do mesmo rascunho organizou o campo bem o bastante para ser útil, de modo que os autores pedem aos estudantes que declarem o que cada figura deixa de fora, em vez de lê-la como um resumo.
+
 A ética e a confiabilidade temperam o entusiasmo pelo conteúdo visual gerado por IA. O estudo [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] descobriu que histórias em quadrinhos de dados assistidas por [[generative-ai|GenAI]] melhoraram o [[student-engagement|engajamento]] e a compreensão em relação às visualizações convencionais, independentemente do letramento de visualização prévio, mas os participantes levantaram preocupações sobre risco de desinformação e atribuição de [[academic-integrity|autoria]], e dois terços sinalizaram desvantagens como sobrecarga de informação por layouts excessivamente carregados. O benchmark contrafactual CFES-P24 estende esse escrutínio à [[cfes-p24-multimodal-slide-auditing-2026|auditoria de slides]], mostrando que LLMs multimodais conseguem reconhecer de forma confiável construtos de [[learning-design|desenho de aprendizagem]] (operações, princípios, localização de evidência), ao mesmo tempo que divergem agudamente em julgamento comparativo e calibração de severidade — evidência de que notas compostas escondem qual capacidade falha e de que confiança não é confiabilidade. Juntas, essas obras argumentam pela [[ai-ed-evaluation|avaliação em camadas]] das visuais geradas por IA, em vez de avaliações holísticas.
 
 ## Ferramentas de slides, quadrinhos e múltiplas visualizações na prática
@@ -89,3 +91,5 @@ Ao longo das obras discutidas aqui, a visualização emerge como meio de duplo u
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Benchmark contrafactual para auditoria multimodal de slides
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Tornando acessíveis a professores os achados de ML em salas de aula mistas
 - [[genai-visualization-education-framework-2026]] — Construindo significado, não apenas gráficos: um framework cognitivo-instrucional para o uso de IA generativa na educação em visualização
+
+- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — Revisões de literatura de próxima geração: um guia prático de IA para novos pesquisadores

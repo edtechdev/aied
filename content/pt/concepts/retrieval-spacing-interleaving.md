@@ -1,7 +1,7 @@
 ---
 title: "Recuperação, espaçamento e entrelaçamento"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-08T12:22:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -100,6 +100,8 @@ A inclusão do entrelaçamento aqui repousa, portanto, sobre a mesma família te
 - **O entrelaçamento não tem essencialmente nenhuma evidência direta aqui.** Como dito acima, o corpus não contém nenhuma comparação bloqueado versus entrelaçado, apenas uma simulação em que o Entrelaçamento é uma estratégia selecionável entre várias.
 - **Populações de sujeitos e conteúdo.** A base de evidência se concentra no [[higher-ed|ensino superior]], em material de STEM e estatística, e em distinções fato-versus-competência de geometria e de regressão múltipla; a generalização para contextos do [[k-12|K-12]], para [[humanities-education|humanas]] e escrita, e para salas de aula não ocidentais não é estabelecida por esses estudos.
 
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya e Wenzel (2026)]] colocaram a IA generativa na frente do efeito do teste: duas pré-perguntas geradas pelo ChatGPT respondidas antes da leitura de um texto de 675 palavras. Ao longo de quatro experimentos com 90, 128, 153 e 157 adultos, o pré-questionamento superou a leitura isolada (d = 1,12 nas questões praticadas, d = 0,78 nas não praticadas) e igualou as perguntas geradas por humanos. Quem aprende quase nunca respondia corretamente — acurácia de 0,056 no Experimento 1 — e ainda assim aprendia mais, o que é a assinatura do efeito de pré-teste. A transferência decaía com a distância: as questões testadas superaram as questões não testadas da mesma fonte (d = 0,46), que superaram as questões não testadas de fonte diferente (d = 0,32). A geração de perguntas ficou barata; a recuperação continuou obrigatória.
+
 ## Ideias equivocadas comuns
 
 **"Um questionamento melhor da IA produz melhor retenção."** Produz melhor trabalho. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] constatou que um questionamento mais profundo do LLM melhorou a qualidade da tarefa marcada independentemente (**β = 6,27, p = ,006**) enquanto tinha uma **associação nula com a recordação imediata no pós-teste (β = −0,014, p = ,728)**, com os ganhos de recordação movidos pelo conhecimento de linha de base. A qualidade do artefato e a durabilidade da memória são desfechos diferentes, e um diálogo melhor move o primeiro sem mover o segundo.
@@ -141,3 +143,4 @@ A inclusão do entrelaçamento aqui repousa, portanto, sobre a mesma família te
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Prática de recuperação na camada Ferramentas de um framework de aprender a aprender
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentes de pré-busca contornam a prática de recuperação; o argumento pelo atrito intencional
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — Quando tutores de IA falam: evidência de um experimento de campo randomizado
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — Pré-perguntas geradas pelo ChatGPT melhoram a memória e a compreensão de texto

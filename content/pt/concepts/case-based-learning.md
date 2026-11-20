@@ -1,7 +1,7 @@
 ---
 title: "Aprendizagem baseada em casos"
 created: "2026-11-08T16:24:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [problem-based-learning, productive-failure]
@@ -10,7 +10,7 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/case-based-learning
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,7 +55,7 @@ Casos são uma ponte do conhecimento abstrato para o julgamento situado. Eles d�
 
 O mecanismo não é simplesmente "exemplos do mundo real". Um caso pode ser realista e ainda ensinar muito pouco se a discussão nunca pedir aos estudantes que discriminem, justifiquem ou comparem. Os desenhos mais fortes usam casos para criar um espaço de problema antes da explicação, que é o elo com a [[productive-failure]]: os estudantes tentam um caso, encontram os limites do seu modelo atual e então recebem instrução que aborda a lacuna. Casos contrastantes aguçam isso ainda mais. Quando dois casos diferem em uma característica que importa, os aprendizes conseguem ver a característica em vez da história superficial. O estudo existente de um curso de IA generativa de três semanas para 78 estudantes preparatórios de minorias étnicas usou [[teacher-role|modelagem docente]] com casos contrastantes para mover os estudantes da cópia eficiente em direção à cocriação crítica ([[scaffolding-critical-engagement-genai-minority-students]]). Esse é um desenho de comparação de casos, não um teste da aprendizagem baseada em casos em direito ou administração, mas mostra o mecanismo em uma sala de aula real.
 
-Os casos também carregam uma dimensão social. Uma discussão de caso torna o raciocínio público: os estudantes propõem interpretações, ouvem alternativas e revisam. As perguntas do instrutor fazem o trabalho que um livro didático não consegue fazer. É por isso que substituir um caso por um resumo ou uma aula expositiva pode preservar o conteúdo perdendo a aprendizagem. É também por isso que uma IA que responde às perguntas do caso pelo estudante pode curto-circuitar a discussão mesmo quando suas respostas são corretas.
+Os casos também carregam uma dimensão social. Uma discussão de caso torna o raciocínio público: os estudantes propõem interpretações, ouvem alternativas e revisam. As perguntas do instrutor fazem o trabalho que um livro didático não consegue fazer. É por isso que substituir um caso por um resumo ou uma aula expositiva pode preservar o conteúdo perdendo a aprendizagem. É também por isso que uma IA que responde às perguntas do caso pelo estudante pode curto-circuitar a discussão mesmo quando suas respostas são corretas. O contraste de formatos tem apoio além dos casos: uma metanálise do ensino de ética constatou que os resultados morais melhoraram quando a oferta foi baseada em discussão e não se moveram quando foi apenas expositiva ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2026]]).
 
 ## O que a IA muda
 
@@ -122,3 +122,4 @@ Há também um risco conceitual. Um caso pode ser memorável porque é vívido, 
 - [[hardie-genai-nursing-scoping-review-2026]] — Aprendizagem baseada em casos dentro do tema de simulação de uma revisão de enfermagem
 - [[lorteau-sarro-ai-legal-education-2025]] — A IA complementa o ensino socrático e as simulações jurídicas
 - [[csaszar-ai-management-education-2026]] — Estudos de caso e simulações na educação gerencial, sem uma análise do método de casos
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — O ensino de ética funciona (g = 0,55), mas a oferta baseada em discussão funciona e a oferta apenas expositiva não

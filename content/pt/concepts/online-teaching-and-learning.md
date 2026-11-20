@@ -1,7 +1,7 @@
 ---
 title: Ensino e aprendizagem online
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,9 @@ Dois campi co-inscritos em um mesmo curso assíncrono não produziram nenhuma in
 - **Tutoria conversacional e dialógica em escala.** Tutores de [[conversational-ai|IA conversacional]] construídos sobre tecnologia comprovada de [[intelligent-tutoring|tutoria inteligente]] ([[conversational-ai-tutors-framework|framework keep/change/center/study]]) prometem tutoria de alta qualidade baseada em diálogo — engajando os pensamentos, as questões e as [[misconceptions|concepções errôneas]] dos estudantes — que é muito mais escalável que a tutoria humana.
 - **Facilitação e analítica.** A IA pode apoiar [[collaborative-learning|discussões online]] e [[learning-analytics|analítica de aprendizagem]], prevendo engajamento e ajudando os instrutores a alocar atenção. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] acrescentam que resumos de discussão gerados por LLM podem atuar como [[scaffolding|scaffolds]] navegacionais em grandes fóruns assíncronos — ampliando a exposição dos estudantes aos pares e as condições de rede para o capital social de ponte sem sobrecarregar estudantes ou instrutores com a carga de resumir.
 - **Analítica de alerta precoce para estudantes online em risco.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] mostram que [[machine-learning|aprendizado de máquina]] interpretável sobre registros de interação com conteúdo prevê o progresso ao nível de módulo e sinaliza resultados de evasão (\"Sem submissão\") em cursos online de [[cs-education|programação]] em grande escala até 7–8 dias antes dos prazos de módulo, dando aos instrutores online uma janela concreta para [[teacher-role|intervir]] com estudantes desengajados, em vez de descobrir o fracasso só depois do fato.
+- 
+**A divulgação proativa pode suprir a responsabilização que falta aos cursos assíncronos.** Em dois grandes cursos online, mensagens semanais personalizadas de chatbot elevaram as taxas de A/B em quatro pontos entre 2.483 estudantes sem ensinar conteúdo, atuando por meio de lembretes e encaminhamentos para tutoria ([[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]]).
+
 - **Acessibilidade e velocidade.** A IA pode gerar materiais de curso por uma fração do custo tradicional — o MAIC reduziu a produção de cursos MOOC de ~\$25 mil/60 horas para menos de \$2/30 minutos.
 
 ## Desafios do ensino online na era da IA

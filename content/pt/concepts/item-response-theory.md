@@ -1,13 +1,13 @@
 ---
 title: Teoria de resposta ao item
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 A TRI trata a habilidade (θ) e os parâmetros dos itens (dificuldade, discriminação, às vezes adivinhação) como estimados conjuntamente a partir dos padrões de resposta, em vez de tratar a nota bruta como a medida. Isso torna possível comparar quem aprende em uma escala comum, selecionar itens de forma adaptativa e estimar a precisão por pessoa, e não globalmente.
 
-### Como a TRI aparece na pesquisa
+## Como a TRI aparece na pesquisa
 
 - **Dificuldade prevista por IA:** a [[llm-item-difficulty-prediction|predição de dificuldade de itens por LLM]] usa modelos de linguagem para estimar a dificuldade dos itens, o que precisa ser validado contra parâmetros de TRI ajustados empiricamente.
 - **Calibração psicométrica:** a [[llm-psychometric-calibration-cdp|calibração psicométrica por LLM]] alinha a avaliação baseada em modelos com a mensuração baseada em TRI, de modo que as respostas geradas por IA preservem as propriedades de mensuração.
@@ -69,8 +69,9 @@ A TRI trata a habilidade (θ) e os parâmetros dos itens (dificuldade, discrimin
 
 - **Quão raramente a TRI ancora a validação de instrumentos:** uma apreciação dos instrumentos de [[ai-literacy|letramento em IA]] de [[teacher-role|professores]] quantifica a ausência da TRI, e não seu uso. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore e Maat (2026)]] classificaram 33 instrumentos contra uma matriz de decisão adaptada de COSMIN e Terwee et al. (2007); a validade estrutural era forte, com 24 (72,7%) no Grau A por meio de CFA, PLS-SEM ou modelagem por TRI, embora nenhum usasse TRI ou Rasch como sua evidência primária, e apenas cinco instrumentos (15,2%) relatassem evidência de invariância de mensuração ou de funcionamento diferencial dos itens. Os autores argumentam a favor da TRI e de tarefas de desempenho ao lado da [[self-assessment|autoavaliação]], para separar a capacidade validada da confiança relatada.
 - **Uma alternativa causal à TRI associativa.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] argumentam que a TRI e os modelos de aprendente por rede bayesiana não conseguem expressar intervenções ou contrafactuais, e, em vez disso, elicitam equações estruturais de especialistas; em uma bateria de teste adaptativo com 109 estudantes, o modelo elicitado foi ligeiramente menos preditivo (−287 contra −277 de log-verossimilhança do teste), mas apoiou consultas contrafactuais sobre ajuda.
+- [[ai-second-language-listening-speaking-assessment-2025|Goh e Aryadoust (2025)]] pressionam o limite: a TRI responde a perguntas populacionais, enquanto a avaliação como aprendizagem pergunta se um indivíduo mudou, o que, argumentam eles, exige modelos idiográficos, como abordagens de Markov latentes.
 
-### Conexões
+## Conexões
 
 A TRI é uma fundação da [[educational-measurement|mensuração educacional]] e da [[assessment-validity|validade da avaliação]], sustenta a [[adaptive-learning|aprendizagem adaptativa]] (seleção adaptativa de itens) e a [[student-modeling|modelagem do estudante]], e se conecta à [[psychometrically-aware-ai|IA psicometricamente consciente]] (avaliação por IA alinhada com a teoria da mensuração) e ao [[knowledge-tracing|rastreamento de conhecimento]]. Ela aparece na [[llm-difficulty-calibration-programming-exams-2026|calibração de dificuldade por LLM]] para avaliação em programação.
 

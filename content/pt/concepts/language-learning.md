@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Aprendizagem de línguas"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,8 @@ A qualidade do design, e não a frequência de uso, carregou o efeito motivacion
 
 **Estudantes de tradução podem ser deslocados da correção de superfície.** Em um curso de tradução de notícias, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] constataram a consulta a mecanismos de busca subindo de uma mediana de 15,6% para 27,7% do tempo de sessão (p = 0,020, corrigido por Holm) e a busca baseada em conhecimento de 7,2% para 28,8% (p = 0,010). O uso de tradução automática caiu de 28,5% para 5,1% sem alcançar significância (p = 0,338), e o uso interativo de IA permaneceu em uma mediana de zero. A alavanca foi mostrar aos estudantes seu próprio processo, em vez de proibir uma ferramenta.
 
+A síntese de Zhang, Aubrey, Wu e Chiu de 48 estudos controlados (N = 5.196) constata que o benefício da GenAI depende da configuração, e não da presença. O uso para feedback e avaliação produziu o maior efeito (g = 1,15) contra g = 0,28 para a integração instrucional, e os modos direcionados pelo aprendiz (g = 0,92) superaram os autônomos (g = 0,34). A leitura não mostrou efeito significativo, e o g = 1,48 anunciado para a fala caiu para g = 0,65 uma vez removidos três outliers extremos ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
 ## Ideias equivocadas comuns
 
 - **"Tutores robóticos corporificados funcionam por causa da corporificação."** Uma metanálise de **11 estudos de RALL (N = 595)** encontrou um grande efeito agrupado na aprendizagem de L2 (**g = 0,83**) com **alta heterogeneidade** e — o que importa — **apenas** características no nível da interação o moderaram. Morfologia e modalidade não o fizeram, de modo que o hardware não é o ingrediente ativo.
@@ -161,3 +163,4 @@ A qualidade do design, e não a frequência de uso, carregou o efeito motivacion
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Cegueira pragmática: a saída linguística da IA pode ser gramaticalmente correta, mas culturalmente errada
 - [[xian-process-visualization-feedback-news-translation-2026]] — o feedback de processo elevou a consulta a fontes e cortou o uso de tradução automática em um curso de tradução de notícias
 - [[wordofa-genai-grammar-instruction-efl-2026]] — Instrução gramatical assistida por IA generativa e autoeficácia e consciência metalinguística de estudantes etíopes de EFL
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Metanálise de três níveis: a GenAI funciona por meio de feedback e de design direcionado pelo aprendiz, e não como uma intervenção uniforme (Zhang et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Identidade de quem aprende
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,8 @@ ai_assist:
 
 A identidade de quem aprende diz respeito a quem alguém entende que é, e a quem está se tornando, dentro de um domínio — um construto motivacional e desenvolvimental distinto de crenças de habilidade como a [[self-efficacy|autoeficácia]], que responde à pergunta mais estreita *eu consigo fazer isso?* A identidade se forma por meio da participação, do reconhecimento e da autoria: ver-se refletido em um campo e ter essa autovisão validada pelos outros. A IA remodela as três condições, porque muda quem faz o trabalho, o que conta como contribuição própria e se quem aprende é reconhecido como autor de sua própria aprendizagem ([[agency]], [[metacognition]]).
 
+As notas são uma relação, e não apenas um símbolo: os estudantes passam a se ver por meio delas, de modo que uma reforma que mantém o histórico intacto mantém essa relação intacta também ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
+
 ## Por que a identidade importa para a IA na educação
 
 A identidade é um construto motivacional e desenvolvimental distinto de (mas conectado a) habilidades e crenças correlatas. Enquanto a [[self-efficacy]] diz respeito a *eu consigo fazer isso?*, a identidade diz respeito a *quem sou eu — e quem estou me tornando?* Ela se constrói por meio da participação, do reconhecimento e da autoria — ao ver a si mesmo refletido em um domínio e ter essa autovisão validada. A IA remodela as condições sob as quais a identidade se forma porque muda *quem faz o trabalho*, *o que conta como contribuição própria* e *se quem aprende se sente reconhecido como autor de sua aprendizagem*. Isso faz da identidade uma preocupação de desenho de primeira ordem, e não um fator "soft" periférico.
@@ -60,8 +62,9 @@ Uma condição de autoria distinta, e não apenas uma ameaça à autoria: quando
 - **Como os estudantes enquadram a ferramenta molda seu devir profissional.** Estudantes que lançavam a IA generativa apenas como parceira socioemocional produziram reflexões menos diferenciadas sobre sua aprendizagem profissional do que aqueles que também a enquadraram como técnica, material de aprendizagem ou estrutura ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026)]]).
 
 - **Adoção resguardada: o uso seletivo de IA como proteção da identidade.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] pesquisou 484 estudantes em uma universidade australiana e constatou que os estudantes de maior desempenho relataram *menor* engajamento ativo com [[generative-ai|IA generativa]], menor afeto positivo em relação à IA, menor [[self-report-measures|impacto percebido na aprendizagem]] e menor desengajamento relacionado à IA, com as associações mais fortes em rho = -0,395 para impacto percebido na aprendizagem e rho = -0,359 para afeto positivo. Suas respostas abertas descreviam um uso seletivo (esclarecimento, resumo, apoio ao fluxo de trabalho), verificado e mantido subordinado ao próprio juízo, e os resultados no nível dos itens mostraram maior concordância de que a dependência da IA prejudica o [[critical-thinking|pensamento crítico]] e a [[problem-solving|resolução independente de problemas]]. Os autores leem isso como trabalho de identidade: para estudantes cujo sentido de si como bons aprendizes repousa sobre o próprio esforço e juízo, delimitar o uso de IA defende a [[agency|agência epistêmica]] da qual a identidade depende —, o que também significa que o padrão não é tecnofobia nem baixo engajamento.
-
 - **Um propósito declarado não governa necessariamente uma decisão sobre IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] entrevistaram 14 estudantes de graduação e codificaram cada entrevista quanto à relação entre o [[self-determination-theory|propósito]] do estudante — uma intenção pessoalmente significativa de contribuir além de si mesmo — e suas escolhas de IA. Apenas alguns fizeram a conexão: uma recusou a IA porque seus custos ambientais e humanos contradiziam seu propósito, e três deixaram a identidade profissional futura moldar suas escolhas ("contribui para a psicóloga que eu vou ser no mundo um dia"). Outros com um senso de propósito igualmente claro não fizeram essa ligação, descrevendo propósito e IA como "meio separados", de modo que ter uma identidade a proteger não era o mesmo que recorrer a ela. O artigo também separa as razões que os estudantes dão para manter o trabalho como próprio — desenvolvimento de habilidades, [[evaluative-judgment|autoria e orgulho]], e objeção moral — que chegam por mecanismos diferentes e não deveriam ser reunidas em um único motivo.
+- **A capacidade pode chegar antes do pertencimento.** Uma autoetnografia de 73 dias de um educador de bioinformática construindo um jogo em um domínio desconhecido constatou que a [[generative-ai|IA generativa]] forneceu a capacidade, mas não a identidade: o pertencimento veio pela participação em comunidades de prática e pela construção de sentido repetida, e alcançá-lo exigiu um ritmo humano ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- A recusa também é trabalho de identidade: entre cinco aprendizes racializados do ensino secundário, o não uso afirmava controle, cumpria regras institucionais ou sinalizava valores epistêmicos, enquanto respostas neutras da IA produziam uma "planicidade cultural" que deixava suas experiências sem reconhecimento ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Relação com a autonomia de quem aprende
 
@@ -127,3 +130,4 @@ A identidade de quem aprende se conecta à [[agency|autonomia]] (a identidade é
 
 - [[synthetic-position-self-authorship-2026]] — Suspensão autoral: a autoria delegada como um self densamente expresso, mas não autoral (análise conceitual)
 - [[vibe-coding-design-diversity-2026]] — Uma ferramenta, um gosto? Como o vibe coding troca a diversidade coletiva pela criatividade individual
+- [[kim-solo-game-development-autoethnography-2026]] — Entrando em um novo domínio na era da IA generativa: uma autoetnografia do desenvolvimento solo de um jogo como educador de bioinformática

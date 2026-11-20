@@ -1,7 +1,7 @@
 ---
 title: "Educação em leitura"
 created: "2026-11-08T12:40:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -13,7 +13,7 @@ level: [primary education, k 12, higher ed]
 connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
 translation_of: concepts/reading-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,10 @@ Para aprendizes com dislexia, uma revisão guiada por [[meta-analysis-systematic
 
 A vertente é rica em medição e pobre em desfechos. Há instrumentos validados (AIR), modelos de dificuldade validados (CLARA, Bird) e um conjunto crescente de ferramentas de geração e simplificação. Há muito poucos estudos controlados que liguem uma intervenção de leitura a ganhos de compreensão, e vários dos estudos de avaliação confundem a fonte da passagem com a entrega ou a vigilância. Os tamanhos de amostra são pequenos: 53 estudantes no caso de avaliação de leitura, 24 no estudo de leituras sob medida, 200 alunos do sétimo ano no maior quase-experimento. A base de conhecimento deve ser lida como documentando um espaço de design, não um efeito estabelecido.
 
+A fluência nos anos iniciais do fundamental é a exceção até agora: em uma escola, estudantes do 1º e do 2º ano que registraram pelo menos 10 minutos por semana durante 6 semanas superaram os colegas de baixa dosagem (g = 0.56), um contraste de dosagem, e não um ensaio ([[burns-ai-tutor-reading-growth-2026|Burns e Morton (2026)]]).
+
+[[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes e colegas (2026)]] testaram se um chatbot ajuda leitores em um experimento pré-registrado com 344 estudantes do Year 10 em sete escolas secundárias inglesas. Cada estudante leu duas passagens de história com um LLM, com anotações, ou com ambos; três dias depois, as anotações sozinhas superaram o LLM em retenção literal (d = 0.44), compreensão (d = 0.38) e recordação livre (d = 0.21). LLM + Anotações recuperou parte do terreno nas duas primeiras, mas não na recordação livre (beta = -0.08, p = .854). Os estudantes avaliaram o LLM como mais fácil, mais útil e mais agradável, enquanto pontuavam menos, e 25.63% dos que estavam na condição combinada copiaram mais de 70% de seu texto para as próprias anotações.
+
 ## Ideias equivocadas comuns
 
 - **"Uma pontuação de legibilidade diz se um texto é adequado."** Uma pontuação mede características de superfície; a comparação do CLARA com o FKGL e as características de processamento de Clark et al. mostram quanto da dificuldade ela deixa de fora.
@@ -123,3 +127,4 @@ A vertente é rica em medição e pobre em desfechos. Há instrumentos validados
 - [[airri-machine-resistant-reading-interface-2026]] — interfaces de leitura resistentes a máquinas e seu custo de legibilidade
 - [[chatgpt-feedback-orientation-chinese-reading-2026]] — feedback do ChatGPT na leitura no ensino secundário
 - [[dabaghi-ai-dyslexia-education-review-2026]] — IA para aprendizes com dislexia
+- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — Uso de LLM, anotações e compreensão de leitura em escolas secundárias: a comparação randomizada

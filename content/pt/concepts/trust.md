@@ -1,14 +1,14 @@
 ---
 title: Confiança
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,12 @@ A [[research-methods-aied|pesquisa]] nesta base de conhecimento examina quando q
 A transparência sobre *o que um sistema é* — e não apenas sobre o que ele consegue fazer — também molda a calibração: o protótipo de acompanhamento Amico tornou explícitas sua identidade e seus limites, e seu piloto Itália–China concluiu que quem aprende o reconhecia como uma ferramenta de apoio delimitada, e não como um tutor autônomo ou um substituto relacional, evitando a confiança excessiva antropomórfica ([[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]).
 
 Nas instituições de ensino superior, a alavanca pode ser a utilidade, e não as regras: entre 2.121 estudantes, docentes e equipe pesquisados em uma única universidade, a [[technology-acceptance-model|utilidade percebida]] superou a clareza de política como correlato da confiança na IA (β = 0,402 contra 0,223) ([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).
+
+A confiança também tem um papel mais estreito do que a utilidade. Em um instrumento de 30 itens validado com 106 educadores, a confiança predisse o uso cocriativo como "parceiro de pensamento", mas não a intenção de adoção, cujo efeito correu inteiramente pela utilidade ([[mcgehee-trail-educator-trust-readiness-ai-2026|McGehee (2026)]]).
+
 **A desconfiança na precisão pode coexistir com a confiança em gerenciar a ferramenta.** Em uma pesquisa com 8.021 estudantes de quatro universidades australianas, 51% desconfiavam da precisão factual da GenAI, enquanto 76% estavam confiantes em sua capacidade de obter as saídas que queriam, e a utilidade, e não a confiança ou o cumprimento de regras, dirigia seu uso ([[genai-use-usefulness-student-experience-australia-2026|Chung et al., 2026)]]).
+
+A confiança e o uso também se separam no ponto de entrada. Um assistente de curso em uma disciplina de projeto de engenharia do primeiro ano atraiu 72% dos estudantes, e 85% dos respondentes da primavera pretendiam continuar usando-o, mas 20% dos 294 usuários que responderam às perguntas abertas ainda assim apontaram a falta de confiança ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al., 2026]]). Entre os 201 não usuários, 38% deram a falta de confiança como a razão pela qual nunca o experimentaram — a mesma objeção era uma ressalva para usuários e uma porta fechada para os demais.
 
 A [[ai-overreliance-complex-adaptive-system-2026|modelagem da dependência excessiva da IA como um sistema adaptativo complexo]] reenquadra a confiança como um processo no nível da população: se as pessoas confiam em um assistente quando ele acerta e o verificam quando erra depende de dinâmicas sociais e de ciclos de feedback, e não apenas do julgamento individual. A sicofancia ameaça a calibração pela outra direção — [[ai-sycophancy|uma IA que sempre concorda]] pode parecer confiável precisamente porque nunca desafia o usuário, convidando à aceitação sem criticidade ([[contextual-sycophancy-ai-literacy|sicofancia contextual]] e [[sycophantic-ai-social-interaction-2026|IA sicofântica na interação social]]). Em contextos [[embodied-learning|corporificados]] como a [[educational-robotics|robótica educacional]], a confiança é moldada mais pelo que o robô faz do que pelo que parece ([[task-context-trust-educational-hri-2026|contexto da tarefa e confiança na IHR educacional]]), e a [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|identidade do avatar]] molda a confiança epistêmica que quem aprende deposita no conteúdo da IA. A confiança nas ferramentas de [[learning-analytics|analytics]] também depende do contexto. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] concluíram que as preocupações e as barreiras à adoção dos professores divergiam acentuadamente por contexto de aprendizagem: professores de sala de aula invertida (universidade) se preocupavam mais com a anonimização dos dados e com a recusa do estudante, enquanto professores de escrita reflexiva (vocacional) temiam o uso indevido da ferramenta por colegas educadores e ressaltavam a necessidade de contextualizar os dados — embora ambos os grupos relatassem [[self-efficacy|autoeficácia]] e benefícios percebidos semelhantes em uma pesquisa sobre confiança na IA. O achado de que a confiança na ferramenta está desacoplada da confiança em sua governança de dados e em seu uso social ressalta que construir a confiança apropriada nos analytics exige atender a preocupações específicas do contexto, e não apenas à competência aparente do sistema.
 
@@ -64,6 +69,8 @@ Um modelo estrutural dá a esse papel de ponte um teste empírico. Na pesquisa d
 **A confiança à frente de todos os caminhos clássicos de aceitação.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]] acrescentou a confiança ao UTAUT em uma pesquisa com 450 estudantes de arte e design em Zhejiang e a encontrou como o preditor direto mais forte da intenção de usar [[generative-ai|IA generativa]] (β = 0,425). Influência social (0,155), controle metacognitivo (0,146) e expectativa de desempenho (0,128) vieram em seguida. A influência social também carregou o maior caminho para a confiança (β = 0,262), e 42,1% de sua associação total com a intenção passava pela confiança.
 
 O construto é mais fino do que o coeficiente sugere. Ele mede confiança tecnológica instrumental com um suplemento de valor artístico — confiança declarada, e não confiabilidade calibrada —, e os dois itens de autoria foram descartados depois de formarem um fator próprio em um piloto com 121 estudantes. Um estudante pode confiar nesse modelo de forma apropriada ou indiscriminada, e o instrumento não consegue distinguir as duas.
+
+A transparência pode ser o caminho mais forte para a confiança sem que a confiança seja o caminho mais forte para o uso. [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] pesquisaram 653 aprendizes sobre [[ai-avatars-and-synthetic-instructors|avatares de IA]] e constataram que a transparência predisse a confiança em β = 0,542 — o maior caminho de seu modelo — enquanto essa confiança predisse a intenção de adoção em apenas β = 0,196, atrás da vantagem relativa (0,267) e da utilidade percebida (0,247).
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] sustenta uma explicação da confiança nos algoritmos **específica por função, e não global**: nem aversão a algoritmos nem apreço por algoritmos descreveram esses 13 estudantes, que simultaneamente confiavam no ChatGPT para feedback de superfície e desconfiavam dele como corretor. A confiança deles era condicionada pela supervisão do instrutor, e seu ceticismo decorria dos limites contextuais da IA — ler erroneamente caligrafia escaneada (\"ele escreveu meu sobrenome errado e acha que cometi erros de ortografia quando não cometi\"), não conhecer o sistema de notas do instrutor, e positividade crônica — e não da tecnofobia, sugerindo que as medidas de confiança deveriam ser decompostas pela função que uma IA desempenha e pelas apostas a ela vinculadas.
 
@@ -97,18 +104,6 @@ O desafio unificador é a **calibração**: corresponder a confiança à confiab
 
 A calibração também é testada pelos incentivos do próprio sistema confiado. Quando a equipe cética em relação à adoção da IA consulta a [[conversational-ai|IA conversacional]] — construída por organizações com interesse comercial na adoção — há o risco de o sistema estar predisposto a encorajá-la. Uma auditoria de dez modelos de fronteira concluiu que a maioria reconhecia as preocupações de um membro da equipe do [[k-12|K-12]] rural (ameaça ao emprego, \"não ser para pessoas como eu\") antes de redirecionar para o engajamento. Isso desafia a confiança ingênua e ressalta a importância da [[human-in-the-loop-ai|supervisão humana]] e da [[ai-ed-evaluation|avaliação independente]] dos conselhos da IA.
 
-## Ideias equivocadas comuns
-
-**"Confiança e desconfiança estão em extremos opostos de uma mesma escala."** Elas são separáveis, e confundi-las interpreta mal o que os estudantes de fato relatam. **A percepção de risco e a confiança não são opostos:** um estudo de percepção com 130 estudantes sobre GenAI [[agentic-ai|agêntica]] no [[higher-ed|ensino superior]] encontrou risco percebido moderadamente elevado (M = 3,33, DP 0,89) *ao lado de* confiança e adoção mais favoráveis. Quem aprende pode sustentar as duas coisas ao mesmo tempo, e é por isso que uma única pontuação de confiança não consegue dizer se a confiança depositada é apropriada.
-
-**"Desconfiar da precisão da IA significa que os estudantes não vão se apoiar nela."** Os estudantes distinguem a saída da própria capacidade de conduzi-la. Em uma pesquisa com **8.021 estudantes de quatro universidades australianas, 51% desconfiavam da precisão factual da GenAI, enquanto 76% estavam confiantes em sua capacidade de obter as saídas que queriam.** O segundo número é o que prediz o comportamento: a confiança na extração coexiste com a dúvida sobre a verdade, e apenas uma dessas é uma propriedade de segurança.
-
-**"Regras e políticas mais claras é o que constrói a confiança dos estudantes."** A utilidade domina. Uma pesquisa com 2.121 estudantes, docentes e equipe de uma universidade encontrou a utilidade percebida como o **correlato mais forte da confiança na IA (β = 0,402)**, com a clareza percebida da política atrás dela. Instituições que investem em fazer regras enquanto entregam ferramentas que ninguém acha úteis miram na alavanca mais fraca.
-
-**"Se quem aprende confia mais, vai usar com mais cuidado — ou ao menos de forma apropriada."** O padrão documentado é o oposto. Entre 432 graduandos resolvendo problemas de Python com sugestões precisas e deliberadamente enganosas, mais confiança previu **menor** confiança apropriada (r = −,42), e os estudantes aceitaram 86,03% das sugestões enganosas. Confiança não é proxy de calibração; veja [[trust-calibration|calibração da confiança]].
-
-**"Avisos honestos sobre falibilidade minariam a confiança em um tutor."** Eles melhoram o comportamento. [[ai-fallibility-warning-help-seeking|Avisos sobre a falibilidade da IA]] em um ITS de matemática aumentaram a [[help-seeking|busca de ajuda]] em vez de reduzir o uso, o que sugere que declarar limites fomenta a confiança apropriada em vez de erodi-la.
-
 ## Implicações para a prática
 
 **Para instrutores**
@@ -128,6 +123,20 @@ A calibração também é testada pelos incentivos do próprio sistema confiado.
 - Relate confiança, percepção de risco e confiança apropriada como construtos distintos, porque eles covaria em direções não óbvias — inclusive negativamente.
 - Relate o desfecho comportamental (taxa de aceitação de sugestões erradas) ao lado da confiança autorrelatada; escalas de confiança isoladas invertem a conclusão.
 
+A confiança em uma ferramenta pode carregar parte de quão empregável seu usuário se sente. Entre 579 estudantes universitários chineses, o uso de IA generativa predisse a empregabilidade autopercebida em β = 0,503, e a confiança na IA generativa carregou um caminho indireto de 0,079 (IC 95% [0,031; 0,137]), 19,35% do efeito total, atrás da autoeficácia de decisão de carreira em 0,168 ([[yan-genai-employability-career-self-efficacy-2026|Yan (2026)]]). O desenho é transversal, de modo que a ordenação é teórica, e não observada.
+
+## Ideias equivocadas comuns
+
+**"Confiança e desconfiança estão em extremos opostos de uma mesma escala."** Elas são separáveis, e confundi-las interpreta mal o que os estudantes de fato relatam. **A percepção de risco e a confiança não são opostos:** um estudo de percepção com 130 estudantes sobre GenAI [[agentic-ai|agêntica]] no [[higher-ed|ensino superior]] encontrou risco percebido moderadamente elevado (M = 3,33, DP 0,89) *ao lado de* confiança e adoção mais favoráveis. Quem aprende pode sustentar as duas coisas ao mesmo tempo, e é por isso que uma única pontuação de confiança não consegue dizer se a confiança depositada é apropriada.
+
+**"Desconfiar da precisão da IA significa que os estudantes não vão se apoiar nela."** Os estudantes distinguem a saída da própria capacidade de conduzi-la. Em uma pesquisa com **8.021 estudantes de quatro universidades australianas, 51% desconfiavam da precisão factual da GenAI, enquanto 76% estavam confiantes em sua capacidade de obter as saídas que queriam.** O segundo número é o que prediz o comportamento: a confiança na extração coexiste com a dúvida sobre a verdade, e apenas uma dessas é uma propriedade de segurança.
+
+**"Regras e políticas mais claras é o que constrói a confiança dos estudantes."** A utilidade domina. Uma pesquisa com 2.121 estudantes, docentes e equipe de uma universidade encontrou a utilidade percebida como o **correlato mais forte da confiança na IA (β = 0,402)**, com a clareza percebida da política atrás dela. Instituições que investem em fazer regras enquanto entregam ferramentas que ninguém acha úteis miram na alavanca mais fraca.
+
+**"Se quem aprende confia mais, vai usar com mais cuidado — ou ao menos de forma apropriada."** O padrão documentado é o oposto. Entre 432 graduandos resolvendo problemas de Python com sugestões precisas e deliberadamente enganosas, mais confiança previu **menor** confiança apropriada (r = −,42), e os estudantes aceitaram 86,03% das sugestões enganosas. Confiança não é proxy de calibração; veja [[trust-calibration|calibração da confiança]].
+
+**"Avisos honestos sobre falibilidade minariam a confiança em um tutor."** Eles melhoram o comportamento. [[ai-fallibility-warning-help-seeking|Avisos sobre a falibilidade da IA]] em um ITS de matemática aumentaram a [[help-seeking|busca de ajuda]] em vez de reduzir o uso, o que sugere que declarar limites fomenta a confiança apropriada em vez de erodi-la.
+
 ## Conceitos conectados
 
 - [[explainable-ai]]
@@ -144,6 +153,7 @@ A calibração também é testada pelos incentivos do próprio sistema confiado.
 - [[social-norms-ai-use]] — o risco social sobre o qual as normas e a divulgação correm
 
 ## Artigos conectados
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — A transparência como o antecedente mais forte da confiança, mas um caminho direto modesto para a intenção de adoção (Wang et al. 2026)
 - [[lucau-uneven-use-similar-trust-genai-2026]] — Uso desigual, confiança semelhante: a IA generativa na Dinamarca e na Romênia (Lucau, Voicu e Christensen 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — O risco percebido se correlaciona positivamente com a intenção de uso continuado: adoção informada (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — A lacuna de confiança professor–estudante sobre controle e agência na IA em sala de aula do K-12
@@ -176,3 +186,6 @@ A calibração também é testada pelos incentivos do próprio sistema confiado.
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — As pistas de credibilidade elevaram a troca para uma posição incorreta da IA; reter uma recomendação a suprimiu
 - [[trust-calibration-genai-collaborative-regulation-2026]] — Um modelo estrutural dá a esse papel de ponte um teste empírico
 - [[zhu-creative-agency-trust-genai-art-2026]] — A confiança instrumental como o preditor mais forte da intenção de usar GenAI entre estudantes de arte
+- [[yan-genai-employability-career-self-efficacy-2026]] — A confiança na IA generativa como uma rota indireta do uso à empregabilidade autopercebida
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — De consultas a conversas: explorando a adoção, a usabilidade e o impacto de assistentes virtuais baseados em IA na educação em engenharia
+- [[mcgehee-trail-educator-trust-readiness-ai-2026]] — TRAIL: a confiança prediz o uso como parceiro de pensamento, a utilidade prediz a adoção (McGehee 2026)

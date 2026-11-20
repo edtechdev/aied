@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Geração Automatizada de Questões
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 ## Introdução
 
 A geração automatizada de questões importa porque os itens de avaliação são caros de criar à mão, e a IA pode produzi-los rapidamente e em escala. No entanto, a pesquisa da base de conhecimento mostra que os itens gerados devem ser validados quanto à correção, relevância e dificuldade, e que diferentes tipos de item (múltipla escolha, resposta curta, código) variam em quão confiavelmente podem ser gerados. A AQG, portanto, situa-se na interseção entre [[generative-ai|IA generativa]], [[educational-nlp|NLP educacional]] e [[educational-measurement|medição educacional]].
+
+Um limite prático: a economia é mais estreita do que "a IA escreve as questões". Em 150 pares pareados de oito faculdades de odontologia, a finalização dos itens caiu de 6,0 para 1,0 minuto por item — 5,1 minutos economizados (IC 95% de 4,6 a 5,7, d = 3,79) — cronometrada a partir de um rascunho utilizável e excluindo upload, latência, gerações falhas e rascunhos descartados ([[islam-human-vs-ai-sba-dental-2026|Islam et al. (2026)]]). O ganho medido é a etapa de revisão, portanto as economias de ponta a ponta dependem do que fica fora do cronômetro.
 
 ## Abordagens para a geração de questões
 
@@ -69,6 +71,9 @@ As avaliações eram raras — 3,31 polegar para cima e 2,00 polegar para baixo 
 - **Reconhecibilidade em um exame ao vivo, e o que a revisão realmente remove:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] colocaram 30 MCQs gerados por IA e 30 MCQs do Exame Nacional de Licenciamento em um exame com nota baseado em tablet feito por 119 estudantes de [[medical-education|medicina]] do quinto ano, com os itens de IA redigidos a partir dos próprios materiais do curso pelo ChatGPT-4o e o Gemini 1.5 Pro por meio de um painel de especialistas que aceitou 82% deles e eliminou 18,2% como inutilizáveis. A atribuição de fonte pelos estudantes não diferiu entre os dois tipos de item, e a dificuldade do item, a distribuição dos distratores e o alinhamento curricular percebido foram estatisticamente indistinguíveis — um resultado de *reconhecimento* em vez de um resultado de qualidade, e a razão pela qual os autores descrevem o benefício do fluxo de trabalho como o deslocamento do esforço dos educadores da redação para a revisão, em vez de removê-lo. Uma diferença exploratória sobreviveu: os itens do Gemini foram mais difíceis que os do exame de licenciamento (p = 0,028), enquanto os do ChatGPT não (p = 0,984).
 - **Dependência da tarefa:** a confiabilidade da geração varia por tipo de item. A [[cong-confidence-asag-2026|correção de resposta curta]] e a [[self-referential-l2-writing-llm-assessment|avaliação de escrita analítica]] mostram que itens de resposta aberta e de escrita são mais difíceis de gerar e corrigir com confiabilidade que itens estruturados.
 - **Qualidade cognitiva:** a [[llm-educational-question-cognitive-depth|avaliação de profundidade cognitiva]] mostra que os itens gerados podem tender ao pensamento de ordem inferior, a menos que sejam explicitamente projetados para resultados de ordem superior.
+
+- **As rubricas de redação de itens passam antes do alinhamento.** Vinte e sete itens de química gerados pelo GPT-4 atenderam, em média, a 87,71% de 22 critérios binários de redação de itens, mas apenas 33,33% reduziram a linguagem especializada e 48,15% equilibraram o comprimento das opções, e o alinhamento ao nível de competência alcançou 25,93% de concordância exata com a dificuldade implicada pelo modelo Rasch ([[rodemer-ai-generated-mcq-chemistry-assessment-2026|Rodemer et al. (2026)]]). A verificação que importa é a dificuldade empírica, não a lista de critérios.
+
 - **A rotulagem automática do nível cognitivo não se transfere para itens gerados.** Um classificador da taxonomia de Bloom treinado em um banco de itens curado colapsou em questões geradas por IA — macro F1 de 0,88 em distribuição para 0,48 e 0,20 fora dela — porque os itens gerados têm em média muito mais palavras (18,2 versus 9,3) e compartilham apenas uma mediana de 10,5% de seus verbos-gatilho de Bloom com o corpus curado, contra 35,1% para um conjunto mais próximo; o retreinamento com dados rotulados fora de distribuição foi o maior ganho isolado, a um limiar de aproximadamente N > 1.000 amostras rotuladas ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026)]]).
 
 ## Papel no aprendizado adaptativo e personalizado
@@ -121,24 +126,26 @@ A AQG é um habilitador-chave do [[adaptive-learning|aprendizado adaptativo]] e 
 
 - [[genai-medical-education-transformation-review-2026]] — Revisão de escopo de 153 relatórios de educação médica sobre geração de itens por IA versus qualidade de itens da faculdade
 - [[assessing-quality-ai-generated-exams-field-2025]] — Validação de campo em larga escala da qualidade de exames gerados por IA via IRT
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
-- [[kt4eqg-personalized-question-generation]] — Personalized question generation via knowledge tracing
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated questions
-- [[slidesqaqa-pedagogical-question-generation]] — Slide-deck Q&A pedagogical question generation
-- [[code-gen]] — CODE-GEN: RAG-based human-in-the-loop question generation
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles benchmark
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignments
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration
-- [[self-referential-l2-writing-llm-assessment]] — Self-referential analytic writing assessment
-- [[cross-dataset-bloom-question-classification]] — Cross-dataset Bloom question classification
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots and CS multiple-choice items
-- [[socratic-tests-conversational-assessment]] — Socratic tests: conversational assessment
-- [[llm-turing-test-italian-legal-exams-2026]] — LLM Turing test in legal exams
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students could not tell AI-generated MCQs from licensing-exam items in a graded exam, and 18.2% of generated items were eliminated in review (Vogt et al. 2026)
+- [[generate-then-validate-question-gen]] — Geração de questões Generate-Then-Validate
+- [[kt4eqg-personalized-question-generation]] — Geração personalizada de questões via rastreamento de conhecimento
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Geração de questões baseada em LLM para aprendizes surdos e com dificuldade de audição
+- [[llm-educational-question-cognitive-depth]] — Profundidade cognitiva de questões geradas por LLM
+- [[slidesqaqa-pedagogical-question-generation]] — Geração pedagógica de questões a partir de perguntas e respostas de slides
+- [[code-gen]] — CODE-GEN: geração de questões baseada em RAG com humano no laço
+- [[nsmq-riddles-science-math-benchmark]] — Benchmark NSMQ Riddles
+- [[taklif-ai-interest-based-personalized-assignments]] — Tarefas personalizadas baseadas em interesses
+- [[llm-difficulty-calibration-programming-exams-2026]] — Calibragem de dificuldade baseada em LLM
+- [[self-referential-l2-writing-llm-assessment]] — Avaliação de escrita analítica autorreferencial
+- [[cross-dataset-bloom-question-classification]] — Classificação de questões de Bloom entre conjuntos de dados
+- [[llm-chatbots-cs-multiple-choice]] — Chatbots de LLM e itens de múltipla escolha de ciência da computação
+- [[socratic-tests-conversational-assessment]] — Testes socráticos: avaliação conversacional
+- [[llm-turing-test-italian-legal-exams-2026]] — Teste de Turing com LLMs em exames jurídicos
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimativa da dificuldade de itens usando LLMs e ML baseado em árvores
+- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: avaliação da qualidade de itens de matemática baseada no processo
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: um tutor agêntico que aprende seu estudante em um ciclo de coaprendizagem humano-IA
+- [[automated-constructive-assessment-hdr-llm-2026]] — Automatizando a avaliação construtiva com grandes modelos de linguagem: rumo à avaliação escalável e repetida da competência prática
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLMs por estudantes e os limites da dificuldade de questões geradas por IA em cursos de ciência de dados
+- [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Estudantes não distinguiram MCQs gerados por IA de itens do exame de licenciamento em um exame com nota, e 18,2% dos itens gerados foram eliminados na revisão (Vogt et al. 2026)
+- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Itens gerados que passam em uma rubrica de redação ainda podem errar o nível de competência pretendido
+- [[islam-human-vs-ai-sba-dental-2026]] — O tempo de finalização caiu de 6,0 para 1,0 minuto por item, medido do rascunho utilizável ao final, não de ponta a ponta

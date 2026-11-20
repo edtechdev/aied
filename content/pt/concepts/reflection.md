@@ -1,7 +1,7 @@
 ---
 title: Reflexão
 created: "2026-11-08T12:45:00-05:00"
-updated: "2026-11-08T12:45:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
 translation_of: concepts/reflection
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -146,6 +146,7 @@ Um prompt inicial que sobrevive à maioria dos modos de falha acima: *(1) O que 
 - **Avalie o que você consegue defender.** Especificidade, evidência de uma decisão, raciocínio de revisão e honestidade sobre o que deu errado são avaliáveis. Sinceridade não é, e um modelo fluente consegue imitar a superfície de tudo isso.
 - **Combine o artefato com algo caro de delegar.** Uma defesa verbal curta, uma revisão ao vivo ou uma decisão com consequências — o portão reflexivo do sistema Prober e as reuniões de verificação por membro de Issa e Hall são dois padrões que funcionam.
 - **Observe o que a avaliação faz com o ato.** Quando a autorreflexão é avaliada, ela corre o risco de se tornar performática, então declare para o que a reflexão *não* é avaliada e mantenha ao menos parte da reflexão sem nota.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer e Hunt (2026)]] ponderam um curso com 60% produto, 20% documentação de processo e 20% reflexão sobre o uso de IA, de modo que a jornada é avaliada junto com o destino.
 - **Nunca trate uma pontuação como prova de pensamento.** Classificadores de profundidade estimam quão reflexivo um texto soa, uma propriedade que um segundo rascunho fluente consegue fabricar.
 
 ### Sustentar a rotina

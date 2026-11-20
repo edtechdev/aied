@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detecção de IA
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ A pesquisa alerta consistentemente contra a dependência isolada da detecção:
 - **Falhas de validade e de justiça:** as ferramentas de detecção podem ser viesadas contra escritores não nativos, produzindo falsos positivos que penalizam injustamente os estudantes, uma preocupação que se conecta à [[bias-mitigation|mitigação de viés]] e à [[equity-in-ai-education|equidade]].
 - **Taxas de erro notáveis e erosão da confiança:** a detecção não confiável mina a [[trust|confiança]] do estudante e a integridade do processo de avaliação.
 - **Dependência da tarefa:** como mostra o estudo de autodeteção, a precisão varia drasticamente por tipo de tarefa, de modo que nenhum detector isolado é confiável em todas as avaliações.
+- **A granularidade muda o veredito.** Em redações do PISA 2025 rotuladas por procedência, um detector de embeddings manteve a revocação de IA de texto inteiro em 0,94 ou acima sob reescrita ao estilo do estudante, enquanto a revocação no nível de frase caiu até 0,59 ([[schaller-ai-text-detection-authentic-writing-2026|Schaller et al. (2026)]]).
 - **Mesmo um detector validado repousa sobre uma linha de base histórica:** um estudo de seis anos em CS2 validou seu detector contra uma linha de base pré-LLM: os H-escores eram próximos de zero antes de os LLMs serem públicos e subiram para uma média de 11,9 em 2026 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **O dilema da integridade, quantificado.** [[karr-ai-detection-humanization-2026|Um estudo controlado de 642 resumos publicados (Karr et al. 2026)]] mostra que a falha de [[educational-policy-ai|política]] não é apenas conceitual, mas medida: a edição leve de IA conforme as diretrizes é sinalizada em 38–80%, os originais recentes não modificados em 9–15% (não STEM muito acima de STEM), e o texto de IA assistido por humanizador escapa à detecção em >96% dos casos. Como os detectores se fixam no estilo de superfície (densidade de tokens longos e de palavras acadêmicas) em vez da intenção de autoria, a assistência honesta de IA atrai sanção enquanto a evasão deliberada por humanizador escapa — os autores argumentam que as pontuações dos detectores nunca deveriam ser evidência isolada de má conduta.
 - **A fiscalização pode ordenar estudantes por capital acadêmico, e não por conduta (proposto, não medido).** Apoiando-se em quatro publicações da UNESCO e da OCDE, [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] argumenta que conhecimento disciplinar mais forte e [[prompt-engineering|letramento em prompting]] permitem que um estudante revise a saída da IA até um registro acadêmico aceito. Se isso for assim, a visibilidade da assistência de IA acompanha o [[equity-in-ai-education|capital acadêmico]] em vez da quantidade de ajuda tomada, e a fiscalização liderada pela detecção se torna um filtro desse capital. O artigo é uma análise de discurso sem dados sobre sinalizações ou desfechos de sanção e enuncia a tese como hipótese que precisa de evidência comparativa sobre padrões de uso de IA, resultados de detecção e decisões de má conduta.
@@ -93,6 +94,8 @@ A pesquisa de detecção também carrega um argumento de validade que sobrevive 
 Bassett et al. concluem que a detecção de IA é uma solução inexequível para um problema que não pode ser resolvido por vigilância e punição: o foco precisa se deslocar para o [[assessment|desenho da avaliação]] que reconhece o papel da IA na aprendizagem e a realidade de que avaliações não supervisionadas não podem ser protegidas. Isso consolida a posição [[beyond-detection-authentic-assessment-ai-2025|além da detecção]] da base de conhecimento com um argumento direto e baseado em evidência para aposentar as ferramentas de detecção.
 
 De 40 avaliações de psicologia abrangendo 16 tipos, 36 (90%) produziram resultado do ChatGPT julgado adequado para passar, e as quatro falhas foram as tarefas que exigiam presença, um artefato visual ou os dados do próprio estudante — evidência de que a fronteira de aprovação, e não a detecção, decidiu se o trabalho de IA contava como conquista ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
+
+**A prática fica atrás da evidência.** Estudando 127 instituições, [[making-ai-work-for-students-ofs-2026|OfS e Advance HE (2026)]] constataram que o uso de detectores continua anos depois do consenso da pesquisa contra ele. Os profissionais descreveram pontuações entrando em casos de má conduta como evidência de apoio, algumas instituições haviam parado de usar detectores de vez, e o Turnitin disse aos pesquisadores que o resultado de sua ferramenta deveria ser um ponto de dados ao estabelecer autoria. Os estudantes descreveram o lado de quem recebe: uma vez sinalizados, nenhuma rota para provar autoria, e estratégias como remover travessões ou acrescentar erros deliberados para baixar a pontuação.
 
 ### O viés dos detectores e o mecanismo da corrida armamentista
 
@@ -161,18 +164,18 @@ A pergunta construtiva se desloca de "como impedimos os estudantes de usar a IA?
 - [[lieske-ai-proposals-counter-ai-cheating-2026]] — Oito LLMs ranqueiam seis técnicas anticolagem; a detecção de IA fica em último
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Vinte avaliadores sobre intuição, detectores mortos e referências fabricadas
 - [[tench-ai-policy-isnt-a-playbook-2026]] — Um survey nacionalmente representativo de professores e diretores dos EUA sobre cobertura de política de IA, agência e cinco jogadas de sala de aula (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[evaluation-age-ai-output-evidence-2026]] — Avaliação na era da IA
 - [[best-response-student-ai-dialog-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Detector por Restauração de Prompt Latente
 - [[ivory-psychology-assessment-integrity-2026]] — A detecção é a alavanca errada: a fronteira de aprovação decidiu se o trabalho de IA foi pontuado como conquista (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
+- [[llm-detecting-llm-generated-content-education]] — Avaliando LLMs para detectar conteúdo gerado por LLM
+- [[beyond-detection-authentic-assessment-ai-2025]] — Para além da detecção: avaliação autêntica
+- [[responsible-assessment-ai-era-stanford-2026]] — Avaliação responsável na era da IA
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Integridade da coautoria e validade da avaliação
+- [[student-rationalization-ai-writing]] — A racionalização da escrita por IA pelos estudantes
+- [[socially-fluent-ai-identity-detection]] — Detecção da identidade de IA socialmente fluente
 - [[ssaho-ai-academic-integrity-review-2025]] — Revisão da confiabilidade da detecção de plágio/conteúdo de IA baseada em IA
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[bassett-ai-detectors-education-2026]] — Cara, ganhamos; coroa, você perde: detectores de IA na educação (Bassett et al. 2026)
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Por que o resultado do detector não consegue fundamentar uma conclusão de má conduta
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Discriminação em vez de taxa de captura, e quando o monitoramento volta-se contra
 - [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin e Originality em 192 textos: ambos abaixo de um macro F1 de 0,55 e quase inúteis na escrita híbrida
@@ -185,6 +188,7 @@ A pergunta construtiva se desloca de "como impedimos os estudantes de usar a IA?
 - [[ai-written-admissions-essays-penalized-2026]] — Redações de admissão escritas por IA são generalizadas, mas penalizadas
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — Nove atributos estilométricos interpretáveis: ROC-AUC 0,870, mas quatro de 18 documentos de autoria independente sinalizados (Kumar et al. 2026)
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Um manuscrito humano, cinco detectores, classificações de "0% humano" a "Human Generated", mais a retirada institucional documentada da detecção (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
+- [[argus-academic-integrity-genai-2026]] — Argus: integridade acadêmica na era da IA generativa
 - [[student-llm-code-detection-cs1-2026]] — O código de LLM converge em tarefas fortemente restringidas (1–14 formas de AST por 1.000 arquivos), mas não nas livres — a detectabilidade segue o desenho da tarefa
 - [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluando detectores de texto gerado por IA em cazaque
+- [[making-ai-work-for-students-ofs-2026]] — OfS e Advance HE (2026): 244 profissionais e 91 estudantes em 127 instituições sobre detecção, desenho de avaliação, letramento em IA e estratégia

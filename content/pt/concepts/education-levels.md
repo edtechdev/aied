@@ -1,7 +1,7 @@
 ---
 title: "Níveis de ensino"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -15,7 +15,7 @@ discipline: [teacher education]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,9 +42,9 @@ ai_assist:
 
 ## Introdução
 
-O campo de metadados `level` nomeia a faixa de ensino sobre a qual uma fonte trata — faixas, e não idades: **educação infantil**, **ensino fundamental I**, **ensino fundamental II**, **ensino médio**, **K-12**, **ensino superior**, **graduação**, **pós-graduação**, **aprendizagem de adultos**, **educação especial**, educação de professores. Algumas nomeiam uma etapa da escolarização, duas nomeiam as metades muito diferentes do estudo universitário, duas nomeiam uma [[learners|população de quem aprende]] em vez de uma etapa, e uma nomeia as pessoas que ensinam. Uma fonte pode carregar várias faixas ao mesmo tempo.
+O campo de metadados `level` nomeia a faixa de ensino sobre a qual uma fonte trata — faixas, e não idades: **educação infantil**, **ensino fundamental I**, **ensino fundamental II**, **ensino médio**, **K-12**, **ensino superior**, **graduação**, **pós-graduação**, **aprendizagem de adultos**, **educação especial**. Algumas nomeiam uma etapa da escolarização, duas nomeiam as metades muito diferentes do estudo universitário, e duas nomeiam uma [[learners|população de quem aprende]] em vez de uma etapa. Uma fonte pode carregar várias faixas ao mesmo tempo. A educação de professores não é uma faixa: é um campo profissional, marcado sob [[discipline-specific-aied|disciplina]] porque atravessa a graduação e a pós-graduação (formação inicial) e o K-12 e a aprendizagem de adultos (formação continuada).
 
-Esta página é o guarda-chuva desse campo; as páginas de faixa fazem o trabalho profundo e deveriam ser lidas junto com ela: [[k-12]], [[early-childhood-elementary-ai-education]], [[higher-ed]], [[adult-learning]], [[special-education]], [[teacher-education]] e [[vocational-education]].
+As páginas de faixa fazem o trabalho profundo e pertencem a qualquer leitura do campo. Dentro dos anos escolares: [[early-childhood-elementary-ai-education|educação infantil e anos iniciais]] (pré-escola e os primeiros anos), [[primary-education|ensino fundamental I]] (aproximadamente dos 5 aos 11 anos) e [[secondary-education|ensino médio]] (ensino fundamental II e ensino médio juntos), com [[k-12]] reunindo os achados transversais. Dentro do estudo universitário: [[higher-ed|ensino superior]] como guarda-chuva, [[undergraduate-education|graduação]] para o trabalho de curso sob julgamento externo e [[graduate-education|pós-graduação]] para orientação, formação em pesquisa e programas profissionais. Fora das duas escadas: [[adult-learning|aprendizagem de adultos]], [[vocational-education|educação profissionalizante]], [[special-education|educação especial]] e [[teacher-education|educação de professores]].
 
 ## O que distingue uma faixa de outra
 
@@ -63,6 +63,16 @@ Dentro dos anos escolares, o resultado medido muda bruscamente por faixa. No ens
 
 Os anos universitários se dividem novamente. A graduação é trabalho de curso sob julgamento externo: entre escritores de graduação em uma universidade R1 que atende minorias, o [[ai-literacy|letramento em IA]] previu *que tipo* de dependência de [[llm]] um estudante ocupava, e não quanto ele a usava ([[llm-reliance-types-undergrad]]). A pós-graduação é formação em pesquisa, onde o resultado passa do desempenho para a formação. Entre 420 pesquisadores de doutorado e pós-doutorado em astronomia, a dependência de IA se associou negativamente à [[agency|autonomia]] em pesquisa (r = −.355) e à [[self-efficacy]] (r = −.321), e o caminho indireto até o comportamento inovador passou sobretudo pela autonomia (−.115) em vez da autoeficácia (−.069); o apoio da orientação enfraqueceu o vínculo negativo com a autonomia (B = .077, p = .020) ([[ai-mediated-research-agency-formation-2026]]). Um doutorando é julgado pelo juízo que a dependência de IA parece corroer; um estudante de graduação, não. Agrupar ambos sob "ensino superior" esconde isso.
 
+## O letramento em IA como sequência desenvolvimental
+
+Os quatro componentes do letramento em IA no ensino fundamental I já incluem o que os referenciais da pós-graduação tratam como avançado. Em 25 estudos empíricos, [[yim-ai-literacy-primary-schools-review-2025]] encontrou letramento digital para interagir com IA em 19, pensamento computacional em 10, ética em IA em 10 e letramento crítico de dados em 5. Agentes inteligentes apareceram em 15 estudos e atividades desplugadas em 3, de modo que a faixa mais inicial ensina IA construindo e inspecionando um modelo, e não usando um.
+
+No ensino médio, o construto se torna julgamento sob pressão de tempo. Em 33 estudos, todas as ferramentas testadas ficaram abaixo de 20% nos itens de biologia de ordem superior, enquanto BingChat e Bard alcançaram 92,11% nos básicos ([[perez-montesdeoca-genai-secondary-systematic-review-2026]]). Os ganhos apareceram onde os estudantes comparavam e rejeitavam a saída, e se dissiparam onde a ferramenta produzia o trabalho. O que os estudantes dizem aprender mal acompanha o que fazem com a saída: em um estudo com 1.477 respondentes, a aprendizagem percebida e um índice de engajamento se correlacionaram em 0,052 ([[torres-peralta-perceived-learning-engagement-homework-2026]]).
+
+Na graduação, o eixo é o letramento, e não a ética. Entre 304 estudantes de graduação e pós-graduação, o letramento digital previu o desempenho autorrelatado nas tarefas (β = 0,393), enquanto a consciência ética não (β = −0,006) ([[kumar-chatgpt-academic-assignments-2025]]). Na pós-graduação, a diferença é de julgamento: estudantes de pós-graduação superaram os de graduação em d = 1,47 em ética e autonomia acadêmica, e a frequência de uso previu a competência em β = 0,030 quando ética e autorregulação entraram no modelo ([[zaripova-genai-self-regulation-neuroai-competence-2026]]). O referencial da pós-graduação acrescenta a reflexão metacognitiva, a dimensão que falta aos quatro componentes do ensino fundamental I ([[zhi-modeling-measuring-graduate-genai-literacy-2026]]).
+
+Lido como sequência, o continuum muda o que cada faixa deve avaliar, e não o que deve ensinar. O trabalho no ensino fundamental I pede um artefato que a criança consiga explicar; o do ensino médio, uma comparação que o estudante consiga defender; e o da pós-graduação, um relato de quais afirmações são próprias do candidato ([[academic-integrity|integridade acadêmica]]). Uma ferramenta adequada em uma ponta não é evidência na outra.
+
 ## Onde a evidência se concentra, e onde ela é escassa
 
 O corpus é desigualmente povoado, e o campo level torna o desequilíbrio visível.
@@ -70,6 +80,8 @@ O corpus é desigualmente povoado, e o campo level torna o desequilíbrio visív
 **Denso.** O ensino superior é a faixa mais coberta: as páginas consultadas aqui incluem um ensaio de plataforma de oito semanas com 60 estudantes de engenharia ([[ai-assisted-seminar-learning-information-literacy-2026]]), uma pesquisa com 395 gestores de educação ([[ai-adoption-readiness-ukraine-education-managers-2026]]), uma metassíntese de 18 estudos africanos de ensino superior ([[data-privacy-ai-african-higher-education-2026]]) e um estudo com 420 pesquisadores sobre formação doutoral ([[ai-mediated-research-agency-formation-2026]]). O ensino fundamental I e o ensino médio também carregam evidência de resultado.
 
 **Escassa, e em alguns pontos ausente.** As páginas consultadas aqui não relatam nenhum estudo de resultado em crianças na faixa de educação infantil; a evidência mais próxima é uma pesquisa de intenções de professores que excluiu ferramentas voltadas às crianças ([[preschool-teachers-ai-behavioral-intention-2026]]). O ensino fundamental II aparece principalmente como um desenho e um estudo longitudinais *propostos*, e não como resultados relatados ([[ai-lms-middle-school-longitudinal]]). A evidência mais forte da faixa profissionalizante são 63 respostas de [[self-report-measures|autorrelato]] de um único curso, que seus autores dizem exigir replicação ([[ai-ive-pbl-vocational-design-creativity-2026]]). A evidência da pós-graduação é transversal, com um modelo de caminho reverso se ajustando ligeiramente melhor que o desenvolvimental, de modo que a direção da dependência para a redução da autonomia é inferida, e não confirmada ([[ai-mediated-research-agency-formation-2026]]). Nada do que foi consultado aqui relata evidência de resultado de IA para **aprendizagem de adultos** ou **educação especial** como faixas; essas têm sua própria cobertura em [[adult-learning]] e [[special-education]], e esta página não generaliza a partir de achados de idade escolar para preencher essa lacuna.
+
+Resultados para o ensino fundamental II agora existem: entre 178 estudantes indonésios do ensino fundamental II, tarefas diagnósticas culturalmente inseridas previram o desempenho simbólico (β = 0,42) e o engajamento (β = 0,37), e os perfis diagnósticos de IA coincidiram com os julgamentos de especialistas (ICC = 0,81) ([[culturally-embedded-ai-diagnostic-assessment-2026]]).
 
 Um padrão se mantém em todos os níveis pesquisados: a camada humana absorve os casos mais difíceis. Um especialista humano permaneceu no ponto de decisão de credibilidade para estudantes de engenharia mesmo quando a recomendação algorítmica alcançou F1 = 0,64 ([[ai-assisted-seminar-learning-information-literacy-2026]]); o apoio da orientação foi a única condição que enfraqueceu os vínculos negativos da dependência de IA na formação doutoral ([[ai-mediated-research-agency-formation-2026]]); e são os professores de educação infantil, e não as crianças, quem adota ([[preschool-teachers-ai-behavioral-intention-2026]]).
 
@@ -102,6 +114,10 @@ Um padrão se mantém em todos os níveis pesquisados: a camada humana absorve o
 **"A evidência concentrada no ensino superior generaliza para baixo."** Não generaliza, e a distribuição da literatura é um alerta, e não uma conveniência. Onde a evidência é densa e onde ela é escassa é uma propriedade da economia da pesquisa, não de onde a IA é mais usada, de modo que uma afirmação sobre o K-12 extraída de amostras universitárias é uma extrapolação através da fronteira que mais importa.
 
 ## Conceitos conectados
+- [[primary-education]] — A faixa do ensino fundamental I em si mesma
+- [[secondary-education]] — Ensino fundamental II e ensino médio juntos
+- [[undergraduate-education]] — Trabalho de curso sob julgamento externo
+- [[graduate-education]] — Orientação, formação em pesquisa, programas profissionais
 - [[k-12]]
 - [[early-childhood-elementary-ai-education]]
 - [[higher-ed]]
@@ -127,3 +143,9 @@ Um padrão se mantém em todos os níveis pesquisados: a camada humana absorve o
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — ABP imersiva habilitada por IA para estudantes de design profissionalizante (Jin et al. 2027)
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Intenção de professores de educação infantil de usar IA em contextos da primeira infância
 - [[vahedian-children-attitudes-ai-chatbot-2026]] — Atitudes de crianças em relação a um chatbot de IA ajustado à idade
+- [[yim-ai-literacy-primary-schools-review-2025]] — 25 estudos no ensino fundamental I; quatro componentes, incluindo ética e letramento crítico de dados (Yim & Su 2025)
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 estudos no ensino médio; a acurácia desaba nos itens de ordem superior (Pérez-Montesdeoca et al. 2026)
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1.477 respondentes entre ensino médio, universidade e professores; aprendizagem percebida versus engajamento
+- [[kumar-chatgpt-academic-assignments-2025]] — 304 estudantes de graduação e pós-graduação; o letramento digital previu o desempenho, a ética não
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Comparação entre graduação e pós-graduação; a diferença em ética e autonomia é a mais ampla (Zaripova et al. 2026)
+- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modelo de letramento em IA generativa na pós-graduação com cinco dimensões

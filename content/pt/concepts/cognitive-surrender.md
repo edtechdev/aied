@@ -33,12 +33,12 @@ ai_assist:
 
 ## Perguntas para refletir
 
-1. Quando um estudante aceita uma resposta de IA que por acaso está certa, a aula foi bem-sucedida? O que teria que ser verdadeiro para que a própria aceitação fosse o que importou?
-2. Um delegador calibrado, que conhece seus próprios limites, é diferente em tipo de um estudante que simplesmente não consegue distinguir? Como [[teacher-role|um instrutor]] contaria a diferença em um único trabalho?
-3. Se a confiança sobe enquanto a precisão cai — como acontece quando há conselho de IA disponível —, o que isso faz à detecção de erro do próprio estudante?
-4. Onde a verificação é ensinável, e onde ela é um problema de carga de trabalho [[educational-policy-ai|político]]? Quais partes de um [[curriculum-design|currículo]] precisariam mudar para que verificar fosse a norma, e não a exceção?
-5. As instituições deveriam mensurar a rendição de algum modo, ou mensurá-la convida a mesma vigilância com que as regras de [[ai-use-disclosure|divulgação]] já lutam?
-6. Como seria uma tarefa que recompensasse o estudante por rejeitar uma resposta de IA errada em vez de por produzir uma resposta polida?
+- Quando um estudante aceita uma resposta de IA que por acaso está certa, a aula foi bem-sucedida? O que teria que ser verdadeiro para que a própria aceitação fosse o que importou?
+- Um delegador calibrado, que conhece seus próprios limites, é diferente em tipo de um estudante que simplesmente não consegue distinguir? Como [[teacher-role|um instrutor]] contaria a diferença em um único trabalho?
+- Se a confiança sobe enquanto a precisão cai — como acontece quando há conselho de IA disponível —, o que isso faz à detecção de erro do próprio estudante?
+- Onde a verificação é ensinável, e onde ela é um problema de carga de trabalho? Quais partes de um [[curriculum-design|currículo]] precisariam mudar para que verificar fosse a norma, e não a exceção?
+- As instituições deveriam mensurar a rendição de algum modo, ou mensurá-la convida a mesma vigilância com que as regras de [[ai-use-disclosure|divulgação]] já lutam?
+- Como seria uma tarefa que recompensasse o estudante por rejeitar uma resposta de IA errada em vez de por produzir uma resposta polida?
 
 ## Introdução
 

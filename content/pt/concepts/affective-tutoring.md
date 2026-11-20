@@ -1,7 +1,7 @@
 ---
 title: Tutoria afetiva
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-11-04T13:20:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,9 @@ ai_assist:
 
 ## Introdução
 
-O MathBuddy modela dinamicamente o afeto do estudante usando duas modalidades:
+A tutoria afetiva é a metade pedagógica da [[affective-computing|computação afetiva]]: uma vez que um sistema tem alguma leitura do estado emocional de quem aprende, o que ele deve fazer com essa leitura? A questão de desenho não é como detectar frustração, mas o que mudar quando você acredita tê-la detectado — o ritmo, o nível de dica, o tom do feedback, ou se parar e tratar a própria emoção. A camada de decisão é o assunto: as estratégias nas quais os tutores mapeiam o afeto, a evidência de que elas ajudam e as razões pelas quais podem sair pela culatra. Não se trata da empatia do próprio estudante, que é um resultado diferente com uma base de evidências diferente ([[empathy|empatia]]), nem de como o afeto é sensoriado ([[sensor-and-gaze-analytics|analítica de sensores e do olhar]]).
+
+O exemplo trabalhado mais claro é o MathBuddy, que modela o afeto do estudante a partir de duas modalidades:
 
 - **Texto conversacional** — pistas semânticas de frustração, confusão e confiança
 - **Expressões faciais** — captura de vídeo em tempo real do estado emocional
@@ -52,6 +54,8 @@ As emoções são agregadas a partir de ambas as modalidades e mapeadas para est
 - Avaliado ao longo de **oito dimensões pedagógicas** além de estudos com usuários
 
 O achado valida uma hipótese de longa data da psicologia educacional: estados emocionais positivos e negativos impactam a capacidade de aprendizagem, e levá-los em conta melhora os resultados da tutoria.
+
+O MathBuddy é um sistema, não a definição da abordagem, e as seções abaixo generalizam a partir dele. Para o que os sinais subjacentes podem e não podem medir, veja [[sensor-and-gaze-analytics|analítica de sensores e do olhar]].
 
 ## O risco: a empatia como armadilha
 
@@ -82,18 +86,6 @@ Um limite para a inferência de afeto a partir do diálogo: [[ecnuclaw-k12-perso
 
 A tutoria afetiva se cruza com [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] na dimensão de dano [[motivation|motivacional]]-afetiva. Um tutor afetivo "excessivamente acolhedor" pode suprimir a frustração que impulsiona as dificuldades produtivas e a [[self-regulated-learning|autorregulação]]. Veja também [[llm-fallacy-misattribution]] — os estudantes podem atribuir o apoio emocional a uma relação genuína, reforçando a dependência.
 
-## Ideias equivocadas comuns
-
-**"Os +23 pontos de taxa de vitória mostram que tutores afetivos ensinam melhor."** Eles mostram algo mais estreito. A comparação é uma taxa de vitória contra uma linha de base não afetiva para um sistema, o MathBuddy, pontuado ao longo de oito dimensões pedagógicas e estudos com usuários; uma taxa de vitória é um desfecho de preferência, não uma medida de aprendizagem duradoura em um curso real. A afirmação honesta é que a seleção de estratégia com consciência afetiva superou a seleção sem consciência afetiva na qualidade julgada das respostas, o que é um resultado forte sobre a interação e fraco sobre os [[learning-gains|ganhos de aprendizagem]].
-
-**"Se o tutor parece empático, o estudante está sendo ajudado."** Sentir-se compreendido e ser ensinado são separáveis, e é na lacuna entre os dois que o dano se instala. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identificam a dependência parassocial como a falha característica: um estudante pode formar uma relação com um sistema desenhado para parecer acolhedor enquanto seu engajamento [[metacognition|metacognitivo]] cai silenciosamente, e a própria empatia torna o desengajamento mais difícil de notar. A literatura de [[llm-fallacy-misattribution|atribuição equivocada]] é o outro lado da mesma faca, onde os estudantes creditam ao sistema uma relação genuína.
-
-**"Mais apoio emocional é sempre mais seguro do que menos."** A partir de certo ponto, o apoio se torna interferência. Um tutor que remove a frustração de forma confiável pode suprimir a [[desirable-difficulties|luta produtiva]] da qual depende a [[self-regulated-learning|autorregulação]], e é por isso que o [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] trata o dano motivacional-afetivo como uma dimensão de segurança distinta, e não como ausência de benefício.
-
-**"Um tutor que detecta emoção a partir de um rosto conhece o estado do estudante."** O afeto é inferido, não observado, e a inferência é mais fraca exatamente onde as apostas são mais altas. [[ecnuclaw-k12-personalized-companion|Zhou, Li e Zhang (2026)]] mantêm uma dimensão emocional em um perfil de estudante de cinco dimensões, mas a preenchem com dicionários de palavras-chave, de modo que um estudante que expressa frustração em palavras que o dicionário não contém simplesmente não é perfilado, e o perfil não foi validado contra o julgamento de especialistas. A captura facial acrescenta um fluxo de vídeo contínuo e uma exposição de privacidade que a inferência por texto não tem.
-
-**"Medições de emoção tomadas em momentos diferentes são intercambiáveis."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] constatam que o afeto ordenado mostra persistência de curto alcance e transições direcionais, e que os relatos capturados por sondagem, os auto-laços em torno de curiosidade e confusão, são uma mensuração diferente dos capturados espontaneamente, como frustração e surpresa. Mediar as duas em uma frequência resumida descarta a sequência que carrega o sinal.
-
 ## Implicações para a prática
 
 **Para instrutores**
@@ -113,6 +105,18 @@ A tutoria afetiva se cruza com [[hazra-safetutors-pedagogical-safety-2026|SafeTu
 
 - Relate a linha de base contra a qual sua taxa de vitória é medida, e afirme claramente que se trata de um julgamento comparativo. Depois meça o que o campo de fato precisa: transferência para contextos não adaptativos, retenção depois que o tutor é retirado, e se os ganhos se mantêm com o canal emocional desligado.
 - Valide perfis afetivos contra o julgamento de especialistas antes de usá-los como variáveis independentes.
+
+## Ideias equivocadas comuns
+
+**"Os +23 pontos de taxa de vitória mostram que tutores afetivos ensinam melhor."** Eles mostram algo mais estreito. A comparação é uma taxa de vitória contra uma linha de base não afetiva para um sistema, o MathBuddy, pontuado ao longo de oito dimensões pedagógicas e estudos com usuários; uma taxa de vitória é um desfecho de preferência, não uma medida de aprendizagem duradoura em um curso real. A afirmação honesta é que a seleção de estratégia com consciência afetiva superou a seleção sem consciência afetiva na qualidade julgada das respostas, o que é um resultado forte sobre a interação e fraco sobre os [[learning-gains|ganhos de aprendizagem]].
+
+**"Se o tutor parece empático, o estudante está sendo ajudado."** Sentir-se compreendido e ser ensinado são separáveis, e é na lacuna entre os dois que o dano se instala. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identificam a dependência parassocial como a falha característica: um estudante pode formar uma relação com um sistema desenhado para parecer acolhedor enquanto seu engajamento [[metacognition|metacognitivo]] cai silenciosamente, e a própria empatia torna o desengajamento mais difícil de notar. A literatura de [[llm-fallacy-misattribution|atribuição equivocada]] é o outro lado da mesma faca, onde os estudantes creditam ao sistema uma relação genuína.
+
+**"Mais apoio emocional é sempre mais seguro do que menos."** A partir de certo ponto, o apoio se torna interferência. Um tutor que remove a frustração de forma confiável pode suprimir a [[desirable-difficulties|luta produtiva]] da qual depende a [[self-regulated-learning|autorregulação]], e é por isso que o [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] trata o dano motivacional-afetivo como uma dimensão de segurança distinta, e não como ausência de benefício.
+
+**"Um tutor que detecta emoção a partir de um rosto conhece o estado do estudante."** O afeto é inferido, não observado, e a inferência é mais fraca exatamente onde as apostas são mais altas. [[ecnuclaw-k12-personalized-companion|Zhou, Li e Zhang (2026)]] mantêm uma dimensão emocional em um perfil de estudante de cinco dimensões, mas a preenchem com dicionários de palavras-chave, de modo que um estudante que expressa frustração em palavras que o dicionário não contém simplesmente não é perfilado, e o perfil não foi validado contra o julgamento de especialistas. A captura facial acrescenta um fluxo de vídeo contínuo e uma exposição de privacidade que a inferência por texto não tem.
+
+**"Medições de emoção tomadas em momentos diferentes são intercambiáveis."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] constatam que o afeto ordenado mostra persistência de curto alcance e transições direcionais, e que os relatos capturados por sondagem, os auto-laços em torno de curiosidade e confusão, são uma mensuração diferente dos capturados espontaneamente, como frustração e surpresa. Mediar as duas em uma frequência resumida descarta a sequência que carrega o sinal.
 
 ## Conceitos conectados
 

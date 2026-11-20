@@ -1,7 +1,7 @@
 ---
 title: "Educação e formação profissional"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -11,7 +11,7 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/vocational-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ Seus vizinhos nesta base de conhecimento diferem principalmente em escopo. A [[p
 
 O que é distintivo na IA na EFP é uma lacuna entre o que o setor diz que quer e o que constrói: a [[constructivist|teoria construtivista]] é amplamente professada, enquanto sistemas behavioristas de treino e prática dominam e designs de agência de quem aprende permanecem raros. A questão recorrente de design não é se a IA consegue entregar instrução, mas se ela consegue absorver as partes da aprendizagem vocacional que são caras de prover com pessoal — cenários realistas, feedback oportuno, contrapartes encenadas, evidência oral — sem deslocar a prática que produz competência.
 
-### Como a IA aparece na educação e formação profissional
+## Como a IA aparece na educação e formação profissional
 
 - **Uma base de evidências jovem, fragmentada e geograficamente concentrada.** A primeira [[meta-analysis-systematic-review|revisão sistemática]] de IA na EFP ([[ai-vocational-education-training-review]]) identificou 26 estudos empíricos publicados entre 2015 e 2026 por meio de ERIC, Web of Science e Elicit sob as diretrizes PRISMA: nove de domínio técnico, nove de domínio geral, cinco em administração de empresas e três em saúde. Os cenários eram seis em sala de aula, oito on-line, quatro híbridos e oito baseados em simulação — e nenhum em um local de trabalho, apesar do caráter baseado no trabalho da EFP. Dezessete dos 26 tiveram origem na Ásia; apenas nove estudos compartilhavam pelo menos uma referência e nenhum citava os outros. Cinco eram experimentos aleatorizados e 21 usavam designs pré-experimentais ou quase experimentais, medindo em grande parte desfechos imediatamente após a intervenção, e apenas três deram a quem aprende um papel ativo em um design potencializado por IA. Os autores alertam sobre uma "Armadilha de Turing" educacional — usar IA para replicar a instrução humana em vez de aumentar o [[human-in-the-loop-ai|julgamento humano]] — e pedem casos de falha e condições de fronteira em lugar da narrativa de sucesso prevalecente.
 
@@ -64,16 +64,7 @@ O que é distintivo na IA na EFP é uma lacuna entre o que o setor diz que quer 
 - **O apoio percebido é uma alavanca institucional, não um déficit do estudante.** Entre 784 estudantes de seis faculdades profissionais superiores chinesas, [[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]] constataram que o vínculo do [[ai-literacy|letramento em IA]] com a [[problem-solving|resolução de problemas complexos]] autorrelatada (total 0,480) se fortaleceu com o apoio de TIC percebido na escola: os efeitos indiretos condicionais subiram de 0,117 para 0,176 e de 0,038 para 0,127.
 
 - **A renovação curricular como obrigação contínua, e não como revisão periódica.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifica cinco dimensões interativas de renovação — transformação ocupacional, atualidade do currículo, alinhamento da capacidade docente, arquitetura do programa e alinhamento externo —, e seis testes de liderança para decidir se um curso deve ser mantido, revisado, integrado, substituído ou aposentado.
-
-## Ideias equivocadas comuns
-
-**"A base de evidências de IA na EFP nos diz sobre a educação profissional."** Ela nos diz sobre proxies de sala de aula para ela, o que é uma lacuna séria, e não um detalhe: **nenhum estudo na base de evidências de IA na EFP se situa em um local de trabalho**, embora a EFP seja *definida* pela aprendizagem baseada no trabalho. Um achado sobre uma ferramenta de IA em uma tarefa profissional simulada ainda não encontrou as condições que tornam o setor distintivo — clientes reais, consequências reais de segurança, variação real no equipamento do local de trabalho.
-
-**"Um efeito significativo na capacidade de design ou criativa se transfere para a competência ocupacional."** O [[quantitative-research|resultado quantitativo]] mais forte aqui vem de um **quase-experimento de 12 semanas com dois grupos e 63 respostas válidas (31 vs 32)**, em que a condição com agente imersivo pontuou mais alto em capacidade de design (η²p = 0,138) e capacidade criativa (η²p = 0,111) sob ANCOVA, com engajamento cognitivo d = 0,90. Trinta e um estudantes por braço em uma tarefa de sala de aula é evidência sobre aquela tarefa, e a competência ocupacional não está entre os resultados medidos.
-
-**"Quem aprende vai depender demais da IA no treinamento prático."** A evidência piloto aponta para o contrário. Pilotos exploratórios (**N = 30**, Itália e China, **20 sessões delimitadas**) constataram participantes tratando o sistema como uma ferramenta de apoio delimitada, com **nenhuma expectativa relatada de substituição ou dependência**. Isso é exploratório e pequeno, e de fato sugere que o enquadramento dos aprendizes profissionais de uma ferramenta como equipamento, e não como autoridade, é um recurso em torno do qual vale desenhar.
-
-**"A aprovação do aprendiz a uma tarefa simulada significa que ela avaliou a coisa certa."** De **33 aprendizes pesquisados, 21 (64%)** concordaram que a tarefa de voz era realista e a mesma proporção disse que ela dava uma forma clara de comunicar o que sabiam — e nenhum discordou que falar em tempo real se adequava a essa [[authentic-assessment|avaliação autêntica]]. Realismo e clareza de comunicação valem a pena saber e não são validade: uma tarefa pode parecer autêntica e ainda falhar em amostrar o desempenho ocupacional que ela representa.
+- **O julgamento acima do produto como competência ocupacional.** Avaliar o trabalho gerado por IA contra critérios ocupacionais — precisão, padrões, conformidade, segurança — é onde a competência ocupacional se torna observável, e não no artefato em si ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng e Tang (2026)]]).
 
 ## Implicações para a prática
 
@@ -91,6 +82,16 @@ O que é distintivo na IA na EFP é uma lacuna entre o que o setor diz que quer 
 **Para pesquisadores**
 
 - Realize ao menos alguns estudos em locais de trabalho. Um setor definido pela aprendizagem baseada no trabalho cuja base de evidências não contém estudos em locais de trabalho ainda não testou sua afirmação central.
+
+## Ideias equivocadas comuns
+
+**"A base de evidências de IA na EFP nos diz sobre a educação profissional."** Ela nos diz sobre proxies de sala de aula para ela, o que é uma lacuna séria, e não um detalhe: **nenhum estudo na base de evidências de IA na EFP se situa em um local de trabalho**, embora a EFP seja *definida* pela aprendizagem baseada no trabalho. Um achado sobre uma ferramenta de IA em uma tarefa profissional simulada ainda não encontrou as condições que tornam o setor distintivo — clientes reais, consequências reais de segurança, variação real no equipamento do local de trabalho.
+
+**"Um efeito significativo na capacidade de design ou criativa se transfere para a competência ocupacional."** O [[quantitative-research|resultado quantitativo]] mais forte aqui vem de um **quase-experimento de 12 semanas com dois grupos e 63 respostas válidas (31 vs 32)**, em que a condição com agente imersivo pontuou mais alto em capacidade de design (η²p = 0,138) e capacidade criativa (η²p = 0,111) sob ANCOVA, com engajamento cognitivo d = 0,90. Trinta e um estudantes por braço em uma tarefa de sala de aula é evidência sobre aquela tarefa, e a competência ocupacional não está entre os resultados medidos.
+
+**"Quem aprende vai depender demais da IA no treinamento prático."** A evidência piloto aponta para o contrário. Pilotos exploratórios (**N = 30**, Itália e China, **20 sessões delimitadas**) constataram participantes tratando o sistema como uma ferramenta de apoio delimitada, com **nenhuma expectativa relatada de substituição ou dependência**. Isso é exploratório e pequeno, e de fato sugere que o enquadramento dos aprendizes profissionais de uma ferramenta como equipamento, e não como autoridade, é um recurso em torno do qual vale desenhar.
+
+**"A aprovação do aprendiz a uma tarefa simulada significa que ela avaliou a coisa certa."** De **33 aprendizes pesquisados, 21 (64%)** concordaram que a tarefa de voz era realista e a mesma proporção disse que ela dava uma forma clara de comunicar o que sabiam — e nenhum discordou que falar em tempo real se adequava a essa [[authentic-assessment|avaliação autêntica]]. Realismo e clareza de comunicação valem a pena saber e não são validade: uma tarefa pode parecer autêntica e ainda falhar em amostrar o desempenho ocupacional que ela representa.
 
 ## Conceitos conectados
 

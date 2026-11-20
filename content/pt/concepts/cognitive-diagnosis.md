@@ -1,13 +1,13 @@
 ---
 title: Diagnóstico Cognitivo
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,13 +68,6 @@ O diagnóstico cognitivo está no coração da arquitetura de [[intelligent-tuto
 
 O diagnóstico cognitivo se conecta ao [[knowledge-tracing|rastreamento de conhecimento]], à [[student-modeling|modelagem do estudante]], à [[educational-measurement|medição educacional]] e à [[assessment|avaliação]]. Seus insights alimentam a [[intelligent-tutoring|tutoria inteligente]] e o [[adaptive-learning|aprendizado adaptativo]], e o trabalho da era dos LLMs o liga à identificação de concepções errôneas na [[intelligent-tutoring|Tutoria por IA]].
 
-## Ideias equivocadas comuns
-
-- **"O diagnóstico é uma capacidade já resolvida pelos modelos."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervisionou o raciocínio diagnóstico como uma de quatro capacidades em uma família aberta de 4B/9B/27B, e **o diagnóstico do estado de conhecimento continuou sendo a mais fraca** das quatro. O diagnóstico é a capacidade que resistiu ao treinamento que produziu as outras.
-- **"Os modelos conseguem simular erros de estudantes, então conseguem diagnosticá-los."** O gargalo é o inverso. Os modelos construíram uma solução em **95,2% dos traços de distratores** e simularam uma concepção errônea específica do Eedi com **acurácia de 0,92**, mas **fornecer a solução correta** — e não simular o erro — foi o que os limitou. Gerar uma resposta errada plausível é mais fácil do que reconhecer uma.
-- **"O diagnóstico exige um catálogo de concepções errôneas construído à mão."** Em **6.106 pares** de formalizações corretas e incorretas de lógica proposicional, um fluxo de trabalho descobriu **248 clusters de transformações que explicam 5.156 pares (84,44%)**, contra **4.370 (71,57%)** para os erros escolhidos à mão do conjunto de referência. A descoberta igualou ou superou a curadoria de especialistas e transferiu-se para a lógica modal — de modo que o catálogo é um ponto de partida, não um teto.
-- **"Um diagnóstico só é útil se nomeia uma concepção errônea."** Diagnosticar quais resultados de curso um aprendiz atingiu trata os resultados como os conceitos de conhecimento, fornecendo relações entre conceitos por meio de mapeamentos de afinidade validados por especialistas. Para programas baseados em resultados, essa é a unidade mais acionável, ainda que mais grosseira.
-
 ## O que isso significa na prática
 
 **Para instrutores**
@@ -88,6 +81,13 @@ O diagnóstico cognitivo se conecta ao [[knowledge-tracing|rastreamento de conhe
 - Instrumente as duas direções: reconhecer uma resposta errada e produzir a correta. O número de 95,2% de recuperação de solução sugere que a geração é a metade fácil e que o modo de falha está no reconhecimento.
 - Prefira descoberta a um catálogo estático onde a estrutura do domínio permitir, e relate a cobertura contra um conjunto de referência para que a comparação seja legível.
 - Não entregue uma pontuação diagnóstica sem declarar qual construto ela mede e como foi validada independentemente do sinal que a produziu.
+
+## Ideias equivocadas comuns
+
+- **"O diagnóstico é uma capacidade já resolvida pelos modelos."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervisionou o raciocínio diagnóstico como uma de quatro capacidades em uma família aberta de 4B/9B/27B, e **o diagnóstico do estado de conhecimento continuou sendo a mais fraca** das quatro. O diagnóstico é a capacidade que resistiu ao treinamento que produziu as outras.
+- **"Os modelos conseguem simular erros de estudantes, então conseguem diagnosticá-los."** O gargalo é o inverso. Os modelos construíram uma solução em **95,2% dos traços de distratores** e simularam uma concepção errônea específica do Eedi com **acurácia de 0,92**, mas **fornecer a solução correta** — e não simular o erro — foi o que os limitou. Gerar uma resposta errada plausível é mais fácil do que reconhecer uma.
+- **"O diagnóstico exige um catálogo de concepções errôneas construído à mão."** Em **6.106 pares** de formalizações corretas e incorretas de lógica proposicional, um fluxo de trabalho descobriu **248 clusters de transformações que explicam 5.156 pares (84,44%)**, contra **4.370 (71,57%)** para os erros escolhidos à mão do conjunto de referência. A descoberta igualou ou superou a curadoria de especialistas e transferiu-se para a lógica modal — de modo que o catálogo é um ponto de partida, não um teto.
+- **"Um diagnóstico só é útil se nomeia uma concepção errônea."** Diagnosticar quais resultados de curso um aprendiz atingiu trata os resultados como os conceitos de conhecimento, fornecendo relações entre conceitos por meio de mapeamentos de afinidade validados por especialistas. Para programas baseados em resultados, essa é a unidade mais acionável, ainda que mais grosseira.
 
 ## Conceitos conectados
 
@@ -105,27 +105,27 @@ O diagnóstico cognitivo se conecta ao [[knowledge-tracing|rastreamento de conhe
 
 ## Artigos conectados
 
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[llm-student-misconception-identification]] — LLM identification of student misconceptions
-- [[student-math-competence-clustering]] — Clustering for Modeling Student Mathematical Competence
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM concept trees + hierarchical proficiency inference
-- [[yasir-llm-tutoring-agents-2026]] — Separating diagnosis from feedback in LLM tutors
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving heterogeneous multi-LLM federated diagnosis
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Mining common modeling mistakes at scale with LLM-generated, algorithmically validated bug-fixing transformations (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: DINA-based diagnosis of 14 learning objectives from existing physics concept inventories (Le et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM knowledge-concept annotation and calibrated concept-level knowledge states
-- [[llm-distractor-generation-student-reasoning-2026]] — misconception-based distractors as a diagnostic item-design task
-- [[misconception-acquisition-dynamics-llms-2026]] — where the error enters the solution is the diagnostic bottleneck
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking de LLMs para diagnosticar habilidades cognitivas a partir de matemática manuscrita
+- [[correct-answer-trap-misconceptions]] — A Armadilha da Resposta Correta
+- [[llm-misconception-difficulty-easy-trap]] — A Armadilha Fácil: por que os LLMs subestimam a dificuldade decorrente de concepções errôneas
+- [[llm-student-misconception-identification]] — Identificação de concepções errôneas de estudantes por LLM
+- [[student-math-competence-clustering]] — Agrupamento para modelar a competência matemática dos estudantes
+- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Compilação de agentes cognitivos para a modelagem explícita do solucionador de problemas
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnóstico a partir de aprendizes simulados
+- [[huang-interpretable-knowledge-tracing-2026]] — Rastreamento de conhecimento interpretável
+- [[xie-hillm-cd-2026]] — HiLLM-CD: árvores de conceitos por LLM + inferência hierárquica de proficiência
+- [[yasir-llm-tutoring-agents-2026]] — Separar o diagnóstico do feedback em tutores com LLM
+- [[zhang-ct-ai-training-test-2026]] — Teste de Pensamento Computacional em Treinamento de IA (CTAT)
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnóstico cognitivo bayesiano para trilhas de aprendizagem personalizadas
+- [[personalized-neural-cognitive-architecture-search-2026]] — Busca AutoML de arquitetura cognitiva neural personalizada para perfis de aprendizes
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Rastreamento de conhecimento baseado em resultados com mapeamento de afinidade
+- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnóstico federado heterogêneo multi-LLM com preservação de privacidade
+- [[llm-common-modeling-mistakes-formalisms-2026]] — Mineração de erros comuns de modelagem em escala com transformações de correção de bugs geradas por LLM e validadas algoritmicamente (Killich et al. 2026)
+- [[mechanics-cognitive-diagnostic-physics-2026]] — Diagnóstico Cognitivo de Mecânica: diagnóstico baseado em DINA de 14 objetivos de aprendizagem a partir de inventários de conceitos de física existentes (Le et al. 2026)
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Anotação de conceitos de conhecimento por LLM e estados de conhecimento calibrados em nível de conceito
+- [[llm-distractor-generation-student-reasoning-2026]] — distratores baseados em concepções errôneas como tarefa de construção de itens diagnósticos
+- [[misconception-acquisition-dynamics-llms-2026]] — onde o erro entra na solução é o gargalo do diagnóstico
+- [[pivot-generative-video-tutors-stem-2026]] — Da geração de conteúdo ao suporte à aprendizagem: tutores de vídeo generativos guiados por pedagogia para a aprendizagem STEM
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: um tutor agêntico que aprende sobre seu aprendiz em um ciclo de coaprendizagem humano-IA
+- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: modelos de fundação abertos para a aprendizagem e o ensino
 - [[culturally-embedded-ai-diagnostic-assessment-2026]] — Repensando a avaliação diagnóstica por meio de IA culturalmente embutida para uma aprendizagem significativa

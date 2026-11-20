@@ -1,7 +1,7 @@
 ---
 title: Risco de alucinação
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,15 @@ A alucinação na IA educacional assume várias formas documentadas nos artigos 
 
 Uma revisão de 125 estudos estabelece uma faixa para a prevalência e a lacuna de detecção: taxas de alucinação de 10–40%, com estudantes de medicina detectando erros da IA apenas 44–55% das vezes ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+O risco também depende da língua: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite e Sun (2026)]] constataram detecção de erros forte para o inglês, mas mais fraca para o grego e o chinês, com alucinações e leituras equivocadas da intenção do autor no feedback de escrita em L2.
+
 **Distorção de memória depois da saída.** Um experimento de 2026 constatou que um resumo enganoso gerado por IA fez mais do que desinformar: ele mudou o que 328 adultos lembravam de um vídeo que haviam assistido. Apenas 44,8% dos que leram o resumo enganoso identificaram corretamente o detalhe crítico depois, contra 83,6% dos que leram um resumo consistente, e o efeito se manteve quando o resumo foi rotulado como escrito por humano ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger e Kohno, 2026]]). A omissão foi o erro mais comum na auditoria companheira: todos os 20 resumos continham erros, e 95% omitiram a própria colisão. O estudo não testou estudantes, mas mostra por que uma verificação de alucinação que termina no texto é incompleta: o erro pode persistir na memória do leitor depois que o texto desaparece.
 
 A **alucinação na avaliação** é particularmente danosa. O **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** concluiu que as LLMs fabricam citações de evidência não presentes na escrita à mão dos estudantes ao diagnosticar habilidades cognitivas, com 58,5% dos diagnósticos incorretos acompanhados de afirmações falsas de confiança evidencial. O **[[llm-fallacy-misattribution]]** documentou a sobre-atribuição sistemática de evidência no raciocínio de [[llm|LLMs]] — os modelos afirmam apoio evidencial onde não existe nenhum. Ambos se conectam a preocupações de [[ai-ed-evaluation|avaliação da IAED]] e de [[knowledge-tracing|rastreamento de conhecimento]] sobre [[assessment-validity|validade da avaliação]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] acrescentam dois modos de falha visíveis quando a saída da IA é corrigida em vez de inspecionada: detalhes fabricados que sobrevivem à correção — um artigo revisado que não existe, completo com um DOI irresolúvel, e um tamanho de amostra relatado como 378 onde a fonte dizia 329 — e autocontradição dentro de uma única resposta, em que o modelo raciocinou até a opção correta e depois relatou outra em seu resumo final. Como as listas de referências são atualmente corrigidas pela formatação, e não pela precisão, essa classe de erro alcança nota de aprovação enquanto engana o estudante que usa a mesma ferramenta para revisar.
 
 Em um piloto de desenho de avaliação, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] encontraram referências fabricadas e estimativas de tempo irrealistas que sobreviveram a repetidos prompting e exigiram revisão acadêmica substancial — alucinação em uma ferramenta de rascunho voltada ao educador, e não no trabalho do estudante.
+
+**Geração e reformatação falham de formas diferentes.** Solicitada uma lista de referências no estilo IEEE sobre células solares de perovskita, o ChatGPT retornou entradas que os autores consideraram em sua maioria alucinadas ou citadas incorretamente: iniciais, ano, volume e páginas errados, e um artigo de aparência plausível atribuído a um grupo que nunca fez o trabalho ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra e Gong, 2026]]). Solicitada, em vez disso, a conversão de um conjunto de referências já verificado para o estilo APA, a mesma ferramenta foi precisa e economizou tempo substancial. O risco está na obtenção das fontes, e não no trabalho bibliográfico, o que é uma linha que uma rubrica de tarefa pode enunciar.
 
 Os **[[misconceptions|equívocos]] estratégicos** são um parente mais sutil da alucinação declarada. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] fizeram prompting em sete modelos de pesos abertos para produzir uma \"armadilha [[socratic-method|socrática]]\" para 35 conceitos centrais de ciência da computação — uma explicação fluente e autoritativa que repousa sobre um erro sutil e específico do domínio — e três especialistas de domínio confirmaram 221 de 241 segmentos elicitados (91,7%) como equívocos estratégicos, sem diferenças significativas entre domínios de computação. Os erros eram predominantemente conceituais, e não factuais (66,5% contra 33,5%), e nenhum era puramente lógico, e foram avaliados como moderada a altamente persuasivos (M = 3,71 em uma escala de cinco pontos), com a identidade do modelo explicando 43% da variância. Como afirmações individuais podem estar corretas enquanto a relação entre elas está errada, a verificação factual é insuficiente; os autores argumentam que os [[ai-literacy|aprendentes]] precisam de verificação conceitual e validação de modelo mental. Eles também alertam que a taxa mede a capacidade sob [[prompt-engineering|prompting]] adversarial, e não a prevalência de tais erros no uso comum, e que nenhum estudante foi testado, então nenhum engano ou resultado de aprendizagem foi medido.
 
@@ -104,3 +108,4 @@ As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|huma
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeções de prompt escondidas elevam notas corrigidas por IA sem serem detectadas, e ataques detectados não são relatados (Humble 2026)
 
 - [[authentic-assessments-generative-ai-pilot-2026]] — Desenhando Avaliações Autênticas com IA Generativa: Um Estudo Piloto de Autenticidade da Avaliação no Ensino Superior
+- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — Revisões de literatura de próxima geração: um guia prático de IA para novos pesquisadores

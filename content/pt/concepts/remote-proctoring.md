@@ -1,7 +1,7 @@
 ---
 title: Supervisão Remota
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 - Antes de ler, quando você imagina "integridade acadêmica em exames online", qual é seu primeiro instinto sobre como preservá-la — e esse instinto é sobre detectar trapaceiros ou sobre construir confiança? A página argumenta que esses dois instintos refletem filosofias muito diferentes.
 - A supervisão remota varia de um humano observando por webcam a sistemas de IA analisando movimentos oculares, postura da cabeça e expressões faciais. O que um sistema de IA *realmente observa* quando sinaliza "comportamento suspeito", e quão confiante você está de que olhar para longe da tela é igual a trapacear?
-- A página adverte que o monitoramento pode ser contraproducente: ser observado aumenta a [[anxiety-and-stress|ansiedade de prova]], e estudantes estressados podem ser *mais* propensos a trapacear. Você consegue pensar em uma ocasião em que pressão ou vigilância afetou seu próprio desempenho? Essa experiência mina o caso da supervisão?
+- A página adverte que o monitoramento pode ser contraproducente: ser observado aumenta a ansiedade de prova, e estudantes estressados podem ser *mais* propensos a trapacear. Você consegue pensar em uma ocasião em que pressão ou vigilância afetou seu próprio desempenho? Essa experiência mina o caso da supervisão?
 - A supervisão automatizada captura o espaço de convivência, o rosto e a voz dos estudantes, frequentemente com pouca escolha genuína a não ser consentir. Onde fica a linha entre supervisão razoável de exame e vigilância que presume os estudantes culpados até que se prove honestos — e quem deveria traçá-la?
 - A pesquisa mostra que a supervisão pode sinalizar comportamento benigno como suspeito, produzindo falsas acusações, e que a acurácia do modelo varia entre demografias e ambientes. Se você é um [[administrator|administrador]], como pesa a integridade que ela recupera contra a equidade e a confiança que ela pode corroer?
 - A página enquadra a supervisão como uma ferramenta, e não como uma solução — existem alternativas como a avaliação oral e a [[process-oriented-assessment|avaliação baseada em processo]]. Antes de ler, qual abordagem você defenderia para avaliação de alto impacto em um contexto remoto, e que evidência mudaria sua opinião?
@@ -105,10 +105,10 @@ A supervisão remota existe em um espectro. A **supervisão online** tipicamente
 ## Artigos conectados
 
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — A IA vestível remove o sinal comportamental de que a supervisão depende (Corbin, Sharpe e Dawson 2026)
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
+- [[automated-online-exam-proctoring-decade-review-2026]] — Revisão sistemática de uma década da supervisão automatizada de exames online
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — Revisão abrangente da desonestidade acadêmica na supervisão automatizada
 
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% of students labeled high-risk in a proctored, face-to-face exam, with the risk predicted from early-semester LMS traces
+- [[conijn-fear-big-brother-proctored-exams-2022]] — O medo do Big Brother: os efeitos colaterais negativos da supervisão sobre a ansiedade de prova
+- [[biology-degree-integrity-genai-cheating-2026]] — Os estudantes conseguem trapacear até obter um diploma de biologia? Um estudo de caso da vulnerabilidade das notas de cursos de biologia à desonestidade acadêmica na era da IA generativa
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Sob vigilância: mapeando as práticas de supervisão remota na avaliação de estudantes de enfermagem
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44,2% dos estudantes rotulados como de alto risco em um exame presencial supervisionado, com o risco previsto a partir de traços do LMS do início do semestre

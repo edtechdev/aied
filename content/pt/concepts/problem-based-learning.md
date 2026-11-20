@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem baseada em problemas
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,9 @@ A meta-análise de três níveis que agrupa ABP apoiada por IA generativa com a 
 - **Implementações por domínio.** Frameworks de ABP para [[engineering-education|engenharia biomédica]] usam IA generativa para apoio a resumo e codificação com pacotes de replicação ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); a ABP apoiada por IA aprimora o [[computational-thinking|pensamento computacional]] na [[educational-robotics|robótica]] ([[ai-pbl-computational-thinking-2026|ABP apoiada por IA para pensamento computacional]]); e pacientes virtuais habilitados por IA generativa apoiam tutoriais de coleta de história médica ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **Síntese de evidência.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|revisam sistematicamente]] 50 estudos (2015–2024) sobre o engajamento de educadores com IA na ABP dentro de um framework de [[human-ai-collaboration|interação humano-computador]].
 - **IA generativa na ABP baseada em cenários.** [[genai-scenario-based-healthcare-education-2026|Neto e colegas (2026)]] incluem a aprendizagem baseada em problemas entre as abordagens baseadas em cenários de sua revisão sistemática de IA generativa na educação em saúde, constatando que o [[prompt-engineering|desenho de prompts]] funciona como especificação instrucional e que a colaboração híbrida humano-IA supera as abordagens inteiramente automatizadas. A revisão destaca a necessidade de alinhamento mais forte do conteúdo gerado aos frameworks instrucionais e de práticas de prompting mais reproduzíveis em contextos de ABP.
+
+- **A retirada gradual transforma a escolha final em uma tarefa de julgamento.** Em [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]], 105 estudantes de engenharia do segundo ano usaram IA generativa para explorar um problema e construir protótipos, depois selecionaram uma solução com as ferramentas deliberadamente restritas e critérios definidos de antemão. Os autores atribuem a avaliação crítica a essa restrição, e não à ferramenta.
+
 - **A IA pode carregar a entrega de conhecimento do tutor, mas não a regulação social da aprendizagem em grupo.** Em um quase-experimento de quatro semanas em farmacologia, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty e Rao (2026)]] constataram que a ABP mediada por IA igualou os ganhos acadêmicos da conduzida por facilitador (p entre grupos = 0,474), enquanto os grupos conduzidos por facilitador mantiveram vantagens na dinâmica de grupo (26,51 vs 24,74, p = 0,035) e no pensamento crítico (14,75 vs 13,09, p < 0,001).
 
 ## ABP versus pedagogias afins

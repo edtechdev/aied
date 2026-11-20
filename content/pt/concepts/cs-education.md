@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: Ensino de ciência da computação
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ ai_assist:
 - **O apoio com recuperação para a teoria da computação serve apenas ao estudo assíncrono.** O AlgoRAG respondeu a todas as 179 questões de prova escritas pelos instrutores dentro de um tempo limite de 240 segundos, com uma média de 38,0 segundos cada, e seu BLEU-4 de 0,0000 no conjunto é uma propriedade da correspondência de n-gramas em demonstrações matemáticas, e não uma falha do sistema ([[algorag-rag-theoretical-cs-education-2026|Adhikari (2026)]]).
 - **A adoção acompanha a tarefa, não o subcampo.** Ao longo de sete tarefas e 211 estudantes, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] mediram o uso de LLM de 89,6% em algoritmos a 15,2% em engenharia de software, atribuindo a dispersão à complexidade da tarefa, à verificabilidade e ao andaimento, e não à disciplina em si.
 - **O feedback pode ser escalonado para que o diagnóstico permaneça oculto.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] separam um diagnóstico fundamentado no artefato do esquema de banco de dados de um estudante do fluxo de trabalho que o divulga, com os educadores autoria dos estágios; ao longo de 383 episódios, 71,1% do feedback alcançou seu nível-alvo.
+- **Dezessete tipos de erro de requisitos, contados em 211 equipes.** Erros de prioridade lideraram (81% das equipes de graduação), e um único prompt zero-shot de IA generativa igualou ou superou as equipes em escopo, formato de história, prioridades e esforço ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### Pedagogia da programação: dos blocos à aprendizagem corporificada e baseada em jogos
 
@@ -108,6 +109,7 @@ Como a programação é o domínio em que a assistência de IA é mais poderosa,
 ### Equidade, cultura e quem entra na computação
 
 - **Ampliação da participação:** o [[suacode-african-students-motivations|SuaCode]] documenta as motivações para a programação baseada em smartphone entre estudantes africanos (menos de 1% dos concluintes do ensino médio têm habilidades fundamentais de programação), informando MOOCs acessíveis com apoio de IA para [[equity-in-ai-education|contextos de poucos recursos]].
+- **Filtros sem IA, trabalho IA-primeiro.** [[ai-free-gates-engineering-students-india-2026|Goutham e Gu (2026)]] entrevistaram 23 estudantes de engenharia indianos: todos menos um usaram IA em processos seletivos que a excluíam, enquanto os empregadores a exigiam, de modo que as notas filtradas certificam menos.
 - **Neurodivergência e colaboração:** os [[neurodivergent-computing-students|estudantes de computação neurodivergentes]] relatam desconforto com estruturas de colaboração ambíguas; tarefas estruturadas, equipes menores e consistentes e papéis explícitos melhoram a [[accessibility|acessibilidade]] — lições de desenho para as ferramentas de IA que entram nas salas de aula de computação.
 - **A cultura molda a ética percebida:** [[cross-cultural-student-perceptions-genai-computing|estudantes de computação canadenses versus sul-coreanos]] julgaram práticas idênticas de codificação assistida por IA de formas diferentes, apesar de políticas funcionalmente idênticas — a harmonização de políticas não produz a harmonização das percepções, uma preocupação de [[academic-integrity|integridade acadêmica]] e de [[equity-in-ai-education|equidade]].
 - **[[explainable-ai|Transparência]] na colaboração:** [[student-perception-ai-use-collaboration|Graf et al.]] constatam que crenças desalinhadas dos parceiros sobre o uso de IA uns dos outros preveem notas mais baixas de projeto, especialmente para estudantes de menor desempenho — mecanismos de transparência (divulgações, registros compartilhados) podem ser necessários na programação colaborativa.
@@ -218,7 +220,7 @@ O ensino de ciência da computação se conecta ao [[computational-thinking|pens
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: benchmarking das ideias equivocadas estratégicas dos modelos ao longo do currículo de CS
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team de injeção de prompt na correção mediada por IA: instruções ocultas que movem a nota sem detecção
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: geração aumentada por recuperação para o ensino de ciência da computação teórica — um framework abrangente de avaliação para análise de algoritmos e teoria da complexidade
-- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
+- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: recursos de ensino para um mundo ChatGPT
 - [[instructional-governance-design-computing-education-2026]] — Governança instrucional por desenho: um framework de IA na educação em computação
 - [[judgment-centred-software-engineering-education-2026]] — Uma revisão e um framework pós-burbulha para a educação em engenharia de software aumentada por IA
 - [[llm-graders-computer-science-exams-2026]] — Onde os corretores com LLM acertam e onde falham: evidências de duas provas de ciência da computação

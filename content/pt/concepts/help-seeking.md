@@ -1,7 +1,7 @@
 ---
 title: Busca de ajuda
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,9 +29,6 @@ ai_assist:
 
 > **Busca de ajuda** — o processo pelo qual o estudante reconhece uma necessidade de assistência e a solicita estrategicamente, e como esse processo se desenrola em ambientes de aprendizagem apoiados por IA. Na [[ai-education|IA na educação]], a busca de ajuda é central para saber se as ferramentas de IA apoiam ou minam a aprendizagem: a *qualidade* da busca de ajuda (quando, como e o que os estudantes pedem) molda fortemente os resultados, e tutores de IA, dicas e agentes [[pedagogy|pedagógicos]] são desenhados precisamente para eliciar busca produtiva de ajuda em vez de busca por respostas.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
 
-
-O alcance proativo pode aumentar a busca de ajuda sem qualquer mudança nos materiais de aprendizagem. Um experimento pré-registrado em cursos de graduação com grande número de matriculados enviou mensagens aos estudantes por um chatbot acadêmico e encontrou maior adesão à tutoria e à instrução suplementar; a análise de mediação atribuiu 17,8% do efeito nas notas a esse aumento da busca de ajuda (p = 0,041) ([[chatbot-outreach-course-performance-2026]]).
-
 ## Perguntas para refletir
 
 - Quando você empaca, você tende a pedir uma resposta direta ou uma orientação que te ajude a descobrir por conta própria? O que você acha que cada escolha faz com o que você de fato retém?
@@ -43,7 +40,7 @@ O alcance proativo pode aumentar a busca de ajuda sem qualquer mudança nos mate
 
 ## Introdução
 
-A busca de ajuda é um construto bem estabelecido na pesquisa sobre aprendizagem, intimamente ligado a [[self-regulated-learning|aprendizagem autorregulada]] e [[metacognition|metacognição]]: ela exige que os estudantes monitorem sua própria compreensão, reconheçam uma lacuna, decidam que ajuda é necessária e formulem um pedido eficaz. Com a ascensão dos tutores de [[generative-ai|IA generativa]], a busca de ajuda ganhou nova importância — e novos modos de falha. Os estudantes frequentemente *pretendem* usar a IA para aprender, mas acabam pedindo respostas diretas, uma lacuna que a pesquisa desta base de conhecimento documenta por domínios e faixas etárias. O modelo clássico pressupõe que um pedido é por conhecimento de que quem pede carece. A demanda por apoio operacional complica esse pressuposto: ao longo de 4.093 consultas, pelo menos 20,4% perguntavam sobre o status de uma submissão pendente em vez de pedir conhecimento, uma classe que um assistente limitado à recuperação atendeu apenas 1,3% das vezes [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+A busca de ajuda é um construto bem estabelecido na pesquisa sobre aprendizagem, intimamente ligado a [[self-regulated-learning|aprendizagem autorregulada]] e [[metacognition|metacognição]]: ela exige que os estudantes monitorem sua própria compreensão, reconheçam uma lacuna, decidam que ajuda é necessária e formulem um pedido eficaz. Com a ascensão dos tutores de [[generative-ai|IA generativa]], a busca de ajuda ganhou nova importância — e novos modos de falha. Os estudantes frequentemente *pretendem* usar a IA para aprender, mas acabam pedindo respostas diretas, uma lacuna que a pesquisa documenta por domínios e faixas etárias. O modelo clássico pressupõe que um pedido é por conhecimento de que quem pede carece. A demanda real dos estudantes inclui outra coisa: [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]] descobriram que um assistente limitado à recuperação atendeu apenas 1,3% das consultas sobre o status de uma submissão pendente.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 
 ## Busca produtiva versus improdutiva de ajuda
 
@@ -72,7 +69,7 @@ Dois indicadores simples e interpretáveis — pedidos prematuros de dica e leit
 
 ### Scaffolding de como os estudantes pedem
 
-O treinamento explícito em **busca de ajuda focada em raciocínio** — pedir dicas passo a passo e verificação em vez de respostas finais — produz melhores resultados que a dependência acrítica. Num estudo quase experimental de estatística na graduação, o acesso guiado a LLM (com treinamento em busca de ajuda orientada ao raciocínio) levou a desempenho independente mais forte e a melhor calibração de [[self-assessment|autoavaliação]] que o acesso irrestrito a LLM. A lição: **o acesso a LLM isoladamente é uma intervenção incompleta**; o desafio de desenho é fazer [[scaffolding|scaffolding]] de *como* os estudantes usam a IA, para que ela funcione como parceira de raciocínio em vez de ferramenta de obtenção de respostas.([[guided-llm-scaffolding-independent-learning]])
+O treinamento explícito em **busca de ajuda focada em raciocínio** — pedir dicas passo a passo e verificação em vez de respostas finais — produz melhores resultados que a dependência acrítica. Num estudo quase experimental de estatística na graduação, o acesso guiado a LLM (com treinamento em busca de ajuda orientada ao raciocínio) levou a desempenho independente mais forte e a melhor calibração de [[self-assessment|autoavaliação]] que o acesso irrestrito a LLM. A lição: **o acesso a LLM isoladamente é uma intervenção incompleta**; o desafio de desenho é fazer scaffolding de *como* os estudantes usam a IA, para que ela funcione como parceira de raciocínio em vez de ferramenta de obtenção de respostas.([[guided-llm-scaffolding-independent-learning]])
 
 O custo da interação faz parte da mesma questão. [[penquiry-pen-based-llm-qa-2026|Rhee et al. (2026)]] identificam uma **Barreira Referencial** e uma **Barreira Expressiva** que impedem estudantes de caneta de perguntar qualquer coisa a um [[llm|LLM]]: apontar para uma região de um diagrama ou um termo de uma equação não pode ser expresso em prosa digitada, e o esforço de formulação incide exatamente quando a pergunta está mais frágil. O sistema Penquiry resolve a referência encaixando marcas de tinta nos elementos do documento e expande palavras-chave esparsas de tinta em consultas completas por autocompletar; dois estudos iterativos com 16 participantes cada descobriram que a sobrecarga cognitiva e física da investigação caiu significativamente. Se um custo menor de perguntar produz busca de ajuda *melhor* ou meramente mais dela fica em aberto, e os autores propõem autocompletar temporalmente adaptativo — verificação fundamental no início de uma sessão, prompts de nível superior depois — como uma rota do atrito reduzido para o [[scaffolding|desvanecimento do apoio]] em vez de uma muleta permanente.
 
@@ -100,10 +97,15 @@ Em vez de remover a ajuda, a pesquisa recomenta reengenhar como ela é entregue:
 Estudantes do mundo real frequentemente **contornam o [[scaffolding|scaffolding]] de um [[conversational-ai|chatbot]]** — não necessariamente de forma prejudicial, mas frequentemente porque há um descompasso entre o enquadramento pedagógico do chatbot e os próprios objetivos de aprendizagem do estudante. Os pipelines de avaliação devem portanto medir não apenas se um tutor faz scaffolding, mas se os estudantes *aderem* a esse scaffolding, em vez de presumir que o farão.([[rethinking-scaffolding-llm-tutors]])
 
 - **Um botão de ajuda opcional fica sem cliques.** Em três salas de quinta série, os estudantes raramente chamavam um agente de ajuda que o desenho deixara deliberadamente opcional para proteger a agência, chamando um [[teacher-role|professor]] em vez disso enquanto a confusão para a qual ele fora criado persistia ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- Num jogo de encenação de papéis de três semanas na quinta série, todos os 42 estudantes da condição GenAI questionaram o professor dentro do jogo, e 61,9% nomearam a chance de perguntar entre o que valorizaram; vários disseram que fizeram perguntas que temiam dirigir ao professor real ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## Busca de ajuda e aprendizagem autorregulada
 
 A busca de ajuda é parte integrante da [[self-regulated-learning|aprendizagem autorregulada]]: a busca produtiva de ajuda exige que os estudantes monitorem a compreensão, julguem quando a ajuda é necessária e selecionem fontes apropriadas. Em contextos de GenAI, isso se torna ainda mais exigente, já que os estudantes também precisam exercer [[agency|agência]] sobre a IA e manter vigilância epistêmica em vez de se submeterem a ela. A pesquisa nesta base de conhecimento sustenta a necessidade de [[scaffolding|scaffolds]] que promovam uso de IA mais [[agentic-ai|agêntico]] e epistemicamente proativo, e destaca o risco de [[cognitive-offloading|Excesso de Dependência]] e [[cognitive-offloading|offloading cognitivo]] quando a busca de ajuda degrada em busca incondicional por respostas.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+Evidências em escala populacional complicam a história da substituição: entre 12.191 estudantes do PISA 2025 em quatro regiões chinesas, o uso mais frequente de GenAI para tarefas escolares acompanhou mais busca acadêmica de ajuda (β = 0,169), e não menos ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
+
+Os logs colocam a demanda num relógio e no item. Num curso de Estática com 215 estudantes, os prompts ao assistente baseado em ChatGPT do livro-texto atingiram o pico aos domingos e segundas e novamente entre 1h e 3h da manhã, horas em que não há atendimento aos estudantes ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry e Dosse, 2026]]). O que os estudantes pedem acompanha a dificuldade: tentativas com prompt num curso de pós-graduação em linguagem de montagem tiveram menor probabilidade de estar corretas (OR = 0,35), e o prompting metacognitivo concentrou-se em itens de dificuldade média, onde as tentativas com prompt carregaram 3,79 vezes as chances de sucesso ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]]). A dificuldade do item, mais que o desenho das dicas, decide se a ajuda se torna reflexiva.
 
 ### A busca de ajuda mediada por LLM como um processo de quatro estágios
 
@@ -111,13 +113,15 @@ A busca de ajuda é parte integrante da [[self-regulated-learning|aprendizagem a
 
 Na [[english-education|composição]] totalmente online, a disponibilidade da ferramenta não é o gargalo. [[reed-resource-literacy-genai-composition-2026|Reed (2026)]] observou que os estudantes com dificuldade não eram os que não tinham apoio, mas os que não reconheciam quando a ajuda era necessária, qual recurso se encaixava na tarefa ou como julgar o feedback quando ele chegava — e a saída fluente de [[generative-ai|IA generativa]] é facilmente confundida com apoio autorizado. Sua resposta foi tornar a busca de ajuda *estruturada* em vez de meramente disponível: pontos de contato obrigatórios que decodificam as demandas da tarefa, mapeiam recursos com justificativa, comparam fontes de feedback e fecham o ciclo com reflexão.
 
+### Tornando visível o contexto comportamental: TutorTrace
+
+[[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] abordam o precursor comportamental da busca de ajuda na [[cs-education|educação em programação assistida por IA]]: tutores humanos se adaptam ao comportamento observável dos estudantes, não apenas a seus pedidos explícitos, mas os tutores de IA não dispõem desse contexto. O **TutorTrace** é um conjunto de dados e um pipeline que tornam o contexto comportamental dos estudantes computável em tempo real a partir de telemetria de baixo nível do IDE (quatro implantações, N=480; ~180K eventos, 13.633 segmentos comportamentais, 27 métricas), derivando uma taxonomia da atividade do estudante *antes* da primeira consulta à IA, *entre* consultas consecutivas e *ao longo* da sessão. Isso permite que os sistemas classifiquem se uma consulta reflete busca de ajuda **guiada** (precedida por trabalho independente) ou **dependente** (sem trabalho independente) — AUROC=,717 em predição held-out — e que prevejam consultas iminentes (AUROC=,726). Uma avaliação preliminar em sala de aula descobriu que prompts sensíveis ao comportamento reduziram os intervalos entre consultas sem trabalho independente de 50,0% para 20,7%. Isso conecta a telemetria de [[learning-analytics|analítica de aprendizagem]] à [[intelligent-tutoring|tutoria adaptativa]], mostrando que o contexto comportamental pode ser operacionalizado em escala para fazer scaffolding de *como* os estudantes buscam ajuda, em vez de meramente responder às suas questões explícitas.
+
 **A trajetória da busca de ajuda prevê a transferência, não apenas seu nível.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] codificaram 880 turnos de 112 estudantes do ensino médio modelando problemas de matemática com um LLM e descobriram que a mistura estática é pouco informativa: 81,5% dos turnos eram pedidos, apenas 2,2% avaliação explícita, e 54% dos pedidos eram orientados à compreensão contra 46% em busca de resposta. O desempenho num pós-teste feito sem IA foi previsto pela inclinação dentro da sessão, e não por seu nível. A busca de ajuda orientada à compreensão declinou (M = −0,20) ao longo do chat, e essa trajetória acrescentou ΔR2 = ,110 a um modelo que já continha a nota do pré-teste (β = ,34, p < ,001). As características estáticas da interação acrescentaram apenas ΔR2 = ,023 (p = ,684). A qualidade da busca de ajuda precisa, portanto, ser lida como uma curva: uma sessão que abre com perguntas conceituais e assenta em pedidos de resposta marca desempenho sem ajuda mais fraco, e uma alta modesta na autorregulação explícita (M = +0,103) não compensou isso.
 
 **Um segundo pipeline faz a mesma pergunta pelo lado da infraestrutura.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] argumentam que uma troca humano–IA é uma classe de dados própria: sua representação registra o estado computacional que motivou o pedido, o pedido, a resposta, a avaliação do usuário sobre ela e a execução que se seguiu, como um único objeto. As consultas são então classificadas como recuperação de erro, próximo passo travado, ajuda conceitual ou validação a partir desse contexto. Em uma implantação de JupyterLab com 35 estudantes ao longo de 140 pares estudante–tarefa, contagens simples de interação se correlacionaram com células executadas com sucesso em apenas r = 0,12, enquanto 37 pares tinham acesso e nunca o usaram e 26 o usaram fora da condição atribuída.
 
-### Tornando visível o contexto comportamental: TutorTrace
-
-[[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] abordam o precursor comportamental da busca de ajuda na [[cs-education|educação em programação assistida por IA]]: tutores humanos se adaptam ao comportamento observável dos estudantes, não apenas a seus pedidos explícitos, mas os tutores de IA não dispõem desse contexto. O **TutorTrace** é um conjunto de dados e um pipeline que tornam o contexto comportamental dos estudantes computável em tempo real a partir de telemetria de baixo nível do IDE (quatro implantações, N=480; ~180K eventos, 13.633 segmentos comportamentais, 27 métricas), derivando uma taxonomia da atividade do estudante *antes* da primeira consulta à IA, *entre* consultas consecutivas e *ao longo* da sessão. Isso permite que os sistemas classifiquem se uma consulta reflete busca de ajuda **guiada** (precedida por trabalho independente) ou **dependente** (sem trabalho independente) — AUROC=,717 em predição held-out — e que prevejam consultas iminentes (AUROC=,726). Uma avaliação preliminar em sala de aula descobriu que prompts sensíveis ao comportamento reduziram os intervalos entre consultas sem trabalho independente de 50,0% para 20,7%. Isso conecta a telemetria de [[learning-analytics|analítica de aprendizagem]] à [[intelligent-tutoring|tutoria adaptativa]], mostrando que o contexto comportamental pode ser operacionalizado em escala para fazer scaffolding de *como* os estudantes buscam ajuda, em vez de meramente responder às suas questões explícitas.
+- Onde um registro de tutoria pode receber nota, reter um pedido é racional, de modo que a ausência de busca de ajuda não pode ser lida como ausência de necessidade: o mesmo indicador de log significa algo diferente sob avaliação ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Implicações para desenho e pesquisa
 
@@ -126,6 +130,7 @@ Na [[english-education|composição]] totalmente online, a disponibilidade da fe
 3. **Use a transparência para calibrar a confiança.** Avisar sobre a falibilidade da IA pode aumentar a busca de ajuda apropriada e o engajamento.([[ai-fallibility-warning-help-seeking]])
 4. **Meça a adesão, não apenas o scaffolding.** Avalie se os estudantes de fato se engajam com o enquadramento pedagógico, e não apenas se o tutor o fornece.([[rethinking-scaffolding-llm-tutors]])
 5. **Apoie o monitoramento e a agência.** Os scaffolds de busca de ajuda deveriam fortalecer [[metacognition|metacognição]] e [[self-regulated-learning|aprendizagem autorregulada]], protegendo contra o [[cognitive-offloading|Excesso de Dependência]].
+6. **Alcance os estudantes que não pedem.** O alcance proativo pode aumentar a busca de ajuda sem qualquer mudança nos materiais de aprendizagem: um experimento pré-registrado em cursos de graduação com grande número de matriculados enviou mensagens aos estudantes por um chatbot acadêmico e encontrou maior adesão à tutoria e à instrução suplementar; a análise de mediação atribuiu 17,8% do efeito nas notas a esse aumento da busca de ajuda (p = 0,041) ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 ## Ideias equivocadas comuns
 
@@ -133,12 +138,18 @@ Na [[english-education|composição]] totalmente online, a disponibilidade da fe
 - **"Os pedidos de ajuda são sobre aprendizagem."** A **demanda por apoio operacional** complica esse pressuposto: ao longo de **4.093 consultas**, pelo menos **20,4% perguntavam sobre o status de uma submissão pendente em vez de pedir conhecimento**. Um quinto da demanda por ajuda era administrativa.
 - **"Usar um tutor de IA significa monitorar a própria aprendizagem."** Em um estudo com **98 estudantes do 9º ano** usando um tutor de GenAI, as interações foram **dominadas por pedidos instrumentais, com quase nenhum monitoramento ou avaliação da própria aprendizagem**. Pedir respostas não é busca de ajuda no sentido que o construto designa.
 
+## Quando o hábito substitui o pedir
+
+A busca de ajuda é geralmente estudada como uma decisão — um julgamento sobre se pedir vale o custo. Um estudo PLS-SEM de 2026 com 392 estudantes e educadores de engenharia nas Filipinas sugere que, uma vez que a [[generative-ai|IA generativa]] está incorporada, a decisão já foi em grande parte tomada: **o hábito previu o deslocamento da busca humana de ajuda com β = 0,711**, enquanto a [[technology-acceptance-model|intenção comportamental]] o previu com β = 0,039, um caminho estatisticamente indistinguível de zero. Metade dos usuários de GenAI nessa amostra (49,6%) relatou pedir ajuda a uma pessoa com menos frequência, e apenas 15,8% nomearam um humano como seu primeiro recurso quando empacavam, contra 30,4% que nomearam uma ferramenta.
+
+Duas implicações se seguem para como a busca de ajuda recebe scaffolding. Primeiro, intervenções voltadas a atitudes ou a tornar o pedir mais atraente competem com uma rotina que já é automática — elas precisam mirar a rotina, e não a crença. Segundo, o único construto que *reduziu* o deslocamento foi a preocupação com a [[academic-integrity|integridade acadêmica]] (β = −0,329), o que sugere que preservar a consulta humana é mais plausivelmente alcançado por pontos de verificação interpessoais obrigatórios — revisão por pares, defesa oral, ajuda supervisionada em laboratório — do que por mensagens.([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])
+
 ## Conceitos conectados
 
 - [[learners]] — Estudantes: o guarda-chuva para os conceitos do lado do estudante
 - [[self-regulated-learning]]
 - [[metacognition]]
-- scaffolding
+- [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[student-experience]]
 - [[cognitive-offloading]]
@@ -180,3 +191,7 @@ Na [[english-education|composição]] totalmente online, a disponibilidade da fe
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: scaffolding de busca direcionada de ajuda por IA durante a resolução de problemas
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examinando a variação em como tutores de IA guiados resolvem impasses dos estudantes
 - [[student-query-demand-hybrid-ai-support-2026]] — O que os estudantes realmente perguntam: estrutura da demanda e potencial de automação num sistema híbrido de apoio
+
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examinando o uso de IA generativa por estudantes por meio de dados de entrada do usuário num curso de Estática de engenharia
+- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Modelo de inteligência artificial multiagente para ampliar a aprendizagem autorregulada e a compreensão conceitual na educação em ciência da computação
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — O hábito, e não a intenção, prediz estudantes pedindo ajuda a pessoas com menos frequência: 49,6% relatam menos busca humana de ajuda, β do hábito 0,711 vs. intenção 0,039

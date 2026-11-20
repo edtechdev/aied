@@ -1,7 +1,7 @@
 ---
 title: "Educação aberta"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,15 +41,15 @@ Educação aberta não é [[open-source|código aberto]], e a confusão custa ca
 
 Diferem onde importa. Um lançamento de código aberto é julgado por sua possibilidade de ser recompilado e inspecionado. Um recurso aberto é julgado por sua possibilidade de ser efetivamente usado por um professor com outros estudantes, outro idioma e outro orçamento, o que é uma alegação pedagógica e não técnica, e é por isso que a educação aberta sempre carregou um argumento de prática ao lado do seu argumento de licenciamento. [[deimann-rethinking-openness-ai-2026|Deimann e Lukács (2026)]] formulam a versão mais afiada desse ponto: após vinte e cinco anos de defesa da abertura, o regime institucional no meio da educação permaneceu intacto, porque o movimento se concentrou em declarações e projetos de nicho.
 
-A literatura da era da IA nesta base de conhecimento trata, portanto, de três coisas ao mesmo tempo: o recurso, a prática e se algum dos dois sobrevive quando a geração é quase gratuita. Sobre o recurso, as perguntas são quem o faz, quem o licencia e se um recurso escrito por IA conta. Sobre a prática, são o que a pedagogia aberta pede aos estudantes e se ela lhes ensina algo mensurável.
+A literatura da era da IA trata, portanto, de três coisas ao mesmo tempo: o recurso, a prática e se algum dos dois sobrevive quando a geração é quase gratuita. Sobre o recurso, as perguntas são quem o faz, quem o licencia e se um recurso escrito por IA conta. Sobre a prática, são o que a pedagogia aberta pede aos estudantes e se ela lhes ensina algo mensurável.
 
-### O que a abertura realmente abrange
+## O que a abertura realmente abrange
 
 Um recurso educacional aberto (REA) é conteúdo publicado sob uma licença que permite reúso, revisão, remixagem e redistribuição. Todo o resto do campo é derivado dessa permissão e da obrigação de atribuí-la. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] mostra como essa obrigação se apresenta em um projeto pequeno: onze participantes trabalhando on-line por duas semanas produziram um site de seis páginas, um [[conversational-ai|chatbot]], um manual e cinco tutoriais em vídeo, publicados sob CC BY-NC-SA, e o pacote resultante teve pontuação alta em transparência e apenas média em licenciamento, replicabilidade, adaptabilidade e acessibilidade. Aberto no nome, parcialmente aberto no uso.
 
-A literatura sobre licenciamento é granular porque as falhas são granulares. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] constrói uma rubrica de sete princípios para revisar materiais de letramento em IA com licença aberta a partir de um corpus intencional de 16 artigos centrais, uma extensão de 17 artigos e 36 referências direcionadas. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello e Havemann (2026)]] defendem que a unidade de governança se desloque do recurso para a infraestrutura que o hospeda, já que um bem comum de arquivos individuais sem plataforma mantida é um problema de fragmentação, e não um bem comum.
+A literatura sobre licenciamento é granular porque as falhas são granulares. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] constrói uma rubrica de sete princípios para revisar materiais de letramento em IA com licença aberta a partir de uma amostra intencional de 16 artigos centrais, uma extensão de 17 artigos e 36 referências direcionadas. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello e Havemann (2026)]] defendem que a unidade de governança se desloque do recurso para a infraestrutura que o hospeda, já que um bem comum de arquivos individuais sem plataforma mantida é um problema de fragmentação, e não um bem comum.
 
-### Colapso da geração e a guinada aos bens públicos digitais
+## Colapso da geração e a guinada aos bens públicos digitais
 
 A produção de cursos é onde a mudança já é mensurável: o [[mooc-to-maic|MAIC]] relata o colapso da produção de [[online-teaching-and-learning|MOOCs]] de cerca de \$25.000 e 60 horas por curso para menos de \$2 e 30 minutos com geração [[agentic-ai|multiagente]] conduzida por [[llm|LLM]]. Se o custo de produção se aproxima de zero, o argumento de que os REA economizam dinheiro perde força, e o que resta é liberdade de licenciamento, verificabilidade e garantia de qualidade.
 
@@ -59,7 +59,7 @@ A resposta política nessa literatura é reclassificar. Atenas e colegas propõe
 
 A defesa institucional da abertura também se faz em nome da autonomia. [[panda-editorial-digital-transformation-open-education-2026|Panda (2026)]] argumenta, em editorial, que a transformação digital na aprendizagem aberta e flexível é transformação pedagógica e não adoção de tecnologia, e que uma tecnologia só ganha credibilidade quando se alinha a uma pedagogia adequada em um contexto local. [[rodes-paragarino-oer-generative-ai-framework-2026|Rodés-Paragarino e Atenas (2026)]] convertem isso em um quadro de sete pilares para a integração responsável de REA e IA generativa, construído a partir de análise documental, validação por especialistas e uma oficina participativa com 81 participantes em Bilbao, em dezembro de 2025.
 
-### Pedagogia aberta e a virada para a prática
+## Pedagogia aberta e a virada para a prática
 
 A pedagogia aberta desloca o estudante de consumidor para colaborador: uma tarefa produz algo que é publicado, licenciado e reutilizável. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] oferece o teste mais limpo dessa ideia no campo. Duas turmas de um curso introdutório de [[early-childhood-elementary-ai-education|desenvolvimento infantil]] atualizaram o mesmo livro didático, uma delas com ferramentas de IA generativa. Ao longo de 113 tarefas, estudantes das duas turmas relataram ganho de habilidade de [[information-and-media-literacy|letramento informacional]], e o ganho foi estatisticamente indistinguível entre elas: um efeito de tempo de F(1, 84) = 47.30, p < 0.001, η2 parcial = 0.36, contra uma interação tempo por turma de F(1, 84) = 0.04, p = 0.85. A turma com IA concluiu mais trabalho e obteve notas ligeiramente menores, 174.73 contra 173.86 de 180.
 
@@ -67,15 +67,17 @@ A prática tem sua própria literatura de maturidade. [[duan-open-educational-pr
 
 Dois outros estudos mostram com que rapidez a camada da prática se torna camada de governança. [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya e Miranda (2026)]] documentam uma residência da UNESCO e da ICDE com 110 participantes de 13 países em 10 equipes, mas sua base de pesquisa são 72 respostas de 54 instituições sem taxa de resposta, apoio tênue para um roteiro voltado à Agenda 2030 da ONU. E [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu e Gao (2026)]] pesquisaram 512 professores em 30 províncias chinesas sobre se o letramento em IA se traduz em prática de ensino aberto, encontrando um caminho indireto via comportamento inovador de 0.218 sob baixo apoio institucional, que cai para um 0.042 não significativo sob apoio alto.
 
-### Equidade, sustentabilidade e o Sul Global
+O problema do licenciamento é onde a prática aberta e a [[generative-ai|IA generativa]] colidem no campo. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] pagaram sete professores para construir materiais abertos com o ChatGPT em uma coorte de oito semanas e descobriram que a própria produção do programa não podia carregar uma licença Creative Commons: texto gerado por modelo entra em domínio público sem a autoria à qual uma licença precisa se vincular. Eles defendem separar a camada licenciada da camada gerada por modelo. Uma segunda abordagem mantém o modelo dentro do curso: [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] treinaram um assistente de escrita em um livro didático aberto e nos documentos do curso, de modo que o assistente estende o recurso em vez de substituí-lo, e [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] mostram o mesmo movimento em hardware local, gerando quizzes a partir de materiais do instrutor sem enviar nada a um fornecedor.
+
+## Equidade, sustentabilidade e o Sul Global
 
 O argumento de [[equity-in-ai-education|equidade]] a favor do conteúdo aberto é o mais antigo: um recurso sem preço não pode ser excluído pelo preço. É também o mais facilmente afirmado e o menos frequentemente testado. As versões da era da IA são mais cuidadosas. Atenas e colegas enquadram os REA como alavanca para comunidades marginalizadas e para participação significativa na coleta de dados, ao mesmo tempo que alertam que a dependência excessiva de recursos gerados arrisca desvalorizar a [[creativity|criatividade]] e o julgamento humanos. Tlili e colegas nomeiam os mecanismos pelos quais a geração degrada essa alavanca: erro de tradução, viés nos dados de treinamento e um laço de [[hallucination-risk|alucinação]] em que o conteúdo gerado é reciclado nos corpora que treinam o modelo seguinte.
 
-A sustentabilidade entra duas vezes, como financiamento e como energia. O argumento dos bens públicos digitais é essencialmente um argumento de sustentabilidade: um bem comum fragmentado de arquivos financiados por editais não sobrevive aos editais, ao passo que infraestrutura governada publicamente poderia. O caso ambiental aparece na literatura mais ampla sobre abertura e no conceito de [[sustainability|sustentabilidade]] desta base de conhecimento, onde o relato do custo de inferência dos modelos é tratado como obrigação da prática aberta, e não como reflexão tardia.
+A sustentabilidade entra duas vezes, como financiamento e como energia. O argumento dos bens públicos digitais é essencialmente um argumento de sustentabilidade: um bem comum fragmentado de arquivos financiados por editais não sobrevive aos editais, ao passo que infraestrutura governada publicamente poderia. O caso ambiental aparece na literatura mais ampla sobre abertura e em [[sustainability|sustentabilidade]], onde o relato do custo de inferência dos modelos é tratado como obrigação da prática aberta, e não como reflexão tardia.
 
 A dimensão do [[global-south|Sul Global]] é onde a evidência mais escasseia. Os casos não ocidentais do lote são reais, mas poucos: uma residência de cooperação latino-americana, professores de universidades abertas chinesas e um enquadramento da infraestrutura como pré-condição da participação. Afirmações de que a abertura redistribui capacidade automaticamente não são sustentadas por esses estudos, e vários deles o dizem.
 
-### Onde sistemas de escrita e de recomendação encontram o argumento
+## Onde sistemas de escrita e de recomendação encontram o argumento
 
 Dois artigos deste lote tratam de sistemas de produção, e não de política. [[peng-personalized-recommendation-oer-2026|Peng (2026)]] desenvolve um recomendador híbrido de aprendizado profundo para REA e relata 93.6 por cento de acurácia, 92.5 por cento de precisão, 91.0 por cento de recall e F1 de 90.2 em 2.400 registros de interação. Sua própria tabela comparativa mostra uma linha de base BERT4Rec com 90.8 de F1 e recall igual, e a seção do conjunto de dados deixa número de usuários, número de itens e esparsidade como marcadores de posição. A alegação de modelagem é modesta; o padrão é familiar, na medida em que o avanço sobre uma linha de base forte é menor do que a manchete.
 
@@ -126,3 +128,6 @@ O segundo lembra que um sistema generativo pode ser aberto e seu conteúdo, fech
 - [[patino-ai-international-cooperation-open-education-2026]] — Cooperação internacional em educação aberta como caso instrumental (Patiño et al., 2026)
 - [[peng-personalized-recommendation-oer-2026]] — Um recomendador híbrido para REA diante de uma linha de base mais forte do que se alega (Peng, 2026)
 - [[panda-editorial-digital-transformation-open-education-2026]] — Transformação digital na aprendizagem aberta como transformação pedagógica (Panda, 2026)
+- [[beznosko-local-ai-rag-physics-oer-2026]] — Abordagem para o ensino de física usando IA local com RAG para geração de materiais educacionais abertos (Beznosko et al., 2026)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — O texto responde: REA aprimorado por chatbot em Composition II assíncrona (Powell et al., 2026)
+- [[jordan-faculty-ai-oer-creation-2025]] — Do prompt à prática: uma iniciativa centrada no corpo docente para explorar a criação de REA apoiada por IA (Jordan et al., 2025)

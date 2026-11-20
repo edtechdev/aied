@@ -164,7 +164,7 @@ Dentro da paisagem metodológica da base de conhecimento, a meta-análise e a re
 - [[research-methods-aied]]
 - [[rct]]
 - [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
+- [[ai-assisted-educational-research]] — Investigação educacional assistida por IA
 - [[benchmark]]
 - [[educational-measurement]]
 - [[assessment-validity]]
@@ -176,32 +176,32 @@ Dentro da paisagem metodológica da base de conhecimento, a meta-análise e a re
 
 ## Artigos conectados
 
-- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
-- [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
-- [[ai-collaborative-learning-systematic-review]] — PRISMA systematic review of AI-powered collaborative learning
-- [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive systematic review of intelligent tutoring systems
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review of ChatGPT and critical/creative thinking
-- [[stanford-evidence-base-ai-k12-2026]] — Evidence base for AI in K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI-supported L2 writing: a large pooled effect undermined by extreme heterogeneity and a quality-driven moderator
-- [[ai-literacy-heptagon-2026]] — Integrative literature review of AI literacy dimensions (PRISMA-guided)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review classifying 22 AI-integration studies with FACETS + SAMR; most sit at Substitution/Augmentation
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
+- [[edurev-100741-tpack-genai-review]] — Revisão sistemática da GenAI na aprendizagem dos estudantes por uma lente TPACK
+- [[genai-meta-analysis-programming-learning]] — Meta-análise do efeito da GenAI na produtividade e na aprendizagem em programação
+- [[ai-vocational-education-training-review]] — Primeira revisão sistemática de IA na educação e formação profissional
+- [[ai-collaborative-learning-systematic-review]] — Revisão sistemática PRISMA da aprendizagem colaborativa apoiada por IA
+- [[genai-higher-education-systematic-review-2026]] — Revisão sistemática da GenAI no ensino superior
+- [[zerkouk-comprehensive-review-its-2025]] — Revisão sistemática abrangente de sistemas de tutoria inteligente
+- [[chatgpt-critical-creative-thinking-review]] — Revisão sistemática de ChatGPT e pensamento crítico/criativo
+- [[stanford-evidence-base-ai-k12-2026]] — Base de evidências para IA no K-12
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-análise dos efeitos de intervenções de letramento em IA
+- [[genai-writing-performance-meta-analysis-2026]] — Meta-análise da escrita em L2 apoiada por GenAI: um grande efeito agrupado minado por heterogeneidade extrema e por um moderador determinado pela qualidade
+- [[ai-literacy-heptagon-2026]] — Revisão integrativa da literatura sobre dimensões do letramento em IA (guiada pela PRISMA)
+- [[genai-scenario-based-healthcare-education-2026]] — Revisão sistemática da GenAI na educação em saúde baseada em cenários (Neto et al. 2026)
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revisão de mapeamento que classifica 22 estudos de integração de IA com FACETS + SAMR; a maioria fica na Substituição/Aumentação
+- [[agarwal-ethical-values-norms-aied-2026]] — Valores e normas éticas para a IA na educação
+- [[li-language-educators-genai-review-2026]] — Práticas e desenvolvimento de educadores de línguas com GenAI
+- [[dabaghi-ai-dyslexia-education-review-2026]] — IA para ajudar pessoas com dislexia na educação
 - [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI effects ~1/3 of reported size
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Meta-analysis of digital and AI tools for foreign-language skills: the design moderator more than doubles quasi-experimental effect estimates
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Meta-analysis of GenAI in higher education: short-intervention effects collapse as duration grows
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Meta-analysis of K-12 AI education: large effect with null moderators and heterogeneity attributed to measurement
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Systematic review of GenAI in programming education: thin instructional reporting in 26 of 46 studies
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123-study scoping review mapping GenAI, cognitive offloading and learner agency in higher education
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT na educação: um efeito em busca de uma causa (crítica de comparação de mídias)
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Metameta-análise: efeitos de IA ajustados pelo viés equivalem a ~1/3 do tamanho relatado
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: auditoria forense de 14 meta-análises de AIED
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Intervenção do professor na instrução com IA no K-12: uma revisão sistemática
+- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Meta-análise de ferramentas digitais e de IA para habilidades em língua estrangeira: o moderador de design mais que dobra as estimativas de efeito quase-experimentais
+- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Meta-análise da GenAI no ensino superior: os efeitos de intervenções curtas colapsam conforme a duração cresce
+- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Meta-análise da educação em IA no K-12: efeito grande com moderadores nulos e heterogeneidade atribuída à medição
+- [[yalcin-genai-programming-education-systematic-review-2026]] — Revisão sistemática da GenAI na educação em programação: reporte instrucional fino em 26 de 46 estudos
+- [[genai-cognitive-offloading-learner-agency-review-2026]] — Revisão de escopo de 123 estudos mapeando GenAI, descarga cognitiva e agência do aprendiz no ensino superior
 - [[khodjaev-genai-outcomes-meta-analysis-2026]] — Uma meta-análise dos efeitos da inteligência artificial generativa sobre resultados de aprendizagem, cognitivos e linguísticos
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Uso responsável de IA generativa por estudantes na escrita acadêmica: uma revisão de escopo de fronteiras, abordagens educacionais e lacunas de evidência
 - [[kim-ai-embodied-learning-review-2026]] — IA na aprendizagem corporificada majoritariamente observa: papéis de sensoriamento em 62,5% das tags de papel, e nenhum sistema revisado fundiu fluxos multimodais enquanto os aprendizes o usavam (Kim & Han 2026)

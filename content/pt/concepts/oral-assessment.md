@@ -1,7 +1,7 @@
 ---
 title: Avaliação Oral
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Questões a considerar
 
-- Os orais são promovidos na era da IA porque uma máquina não pode sentar na sala e responder por você. No entanto, o corpus que argumenta isso não contém nenhum [[rct|ensaio randomizado]] de avaliação oral contra escrita. O que você precisaria ver antes de tratar esse argumento como assentado?
+- Os orais são promovidos na era da IA porque uma máquina não pode sentar na sala e responder por você. No entanto, nenhum estudo nesse corpo de trabalho randomiza estudantes para avaliação oral ou escrita. O que você precisaria ver antes de tratar esse argumento como assentado?
 - O mesmo corpo de trabalho relata dois mecanismos diferentes para a redução da [[anxiety-and-stress|ansiedade]]: remover a observação ao vivo do [[teacher-role|professor]] e familiarizar-se com o formato por meio da prática. Esses mecanismos implicam designs diferentes. Qual se encaixa no seu contexto, e em qual você confiaria para generalizar?
 - A pontuação apenas de fala pode confundir fluência verbal com compreensão conceitual. Se um aprendiz gesticula corretamente, mas diz a palavra errada, ou diz a palavra certa sem compreendê-la, o que exatamente sua avaliação está medindo?
 - Todo design oral neste corpus bate na mesma parede: tempo de pessoal e de sala. Se a restrição é vinte e oito horas de contato por semestre para quinze estudantes, a resposta honesta é um número menor de tarefas defendidas, uma equipe de ensino maior, ou um formato diferente?
@@ -50,6 +50,8 @@ Essa reversão agora é visível ao longo do corpus de pesquisa, mas de forma de
 
 A versão honesta da afirmação de integridade é mais estreita do que frequentemente é enunciada. Os orais tornam a substituição mais difícil de esconder; o corpus não mostra que eles reduzem o uso de IA. No [[code-review-genai-cs1|estudo de revisão oral de código em CS1]], entrevistas semanais de quinze minutos carregavam setenta por cento da nota de cada tarefa, e os caracteres colados sobre o total ainda subiram de 61,0 por cento para 68,1 por cento (p < 0,0001) ao longo de três semestres, enquanto as notas de exame se moveram em dois por cento estatisticamente insignificantes. Noventa por cento dos estudantes disseram que as revisões os motivaram a entender melhor seu código, e sessenta e cinco por cento que elas os ajudaram a evitar o excesso de dependência da IA, mas o comportamento medido não seguiu. A avaliação oral mudou o que podia ser escondido, não o que os estudantes faziam.
 
+A versão delimitada dessa salvaguarda aparece no modelo de avaliação de Webb-Davies, Ratner e Bassett, em que um viva é acionado apenas quando o avaliador não consegue reconstruir um vínculo plausível entre uma linha de base de raciocínio observada e a submissão final. Os autores são explícitos de que este não é um oral de rotina: ele pergunta como uma posição se desenvolveu ou por que uma evidência foi escolhida, e um relato confirmado não carrega penalidade. O design mantém a avaliação oral rara o suficiente para escalar, ao mesmo tempo que concede que o próprio juízo não pode ser automatizado ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
+
 ## O espaço de design que o corpus realmente cobre
 
 Os formatos no corpus abrangem uma ampla faixa de automação e sincronicidade, e cada um resolve uma parte diferente do problema.
@@ -60,7 +62,11 @@ Os formatos no corpus abrangem uma ampla faixa de automação e sincronicidade, 
 
 **Entrega e pontuação automatizadas.** [[ai-supported-oral-assessment-tvet-2026|Um sistema baseado em voz testado em classes vocacionais de automotiva e engenharia]] avaliou trinta e três aprendizes, dos quais vinte e um concordaram que a tarefa de voz ao vivo pareceu realista e nenhum discordou que falar em tempo real se adequava melhor à tarefa do que um [[eportfolio|portfólio escrito]]. As contagens de palavras para perguntas idênticas variaram de cinco a oito vezes entre os aprendizes, a fluência não conferiu vantagem de acurácia em itens fechados, e uma nota preliminar de agente igualou a do tutor humano em noventa e cinco por cento dos ensaios adjacentes de horticultura e laticínios. [[socratic-tests-conversational-assessment|Um teste socrático conversacional]] toma a rota de design oposta, mirando o questionamento conceitual; sua evidência é uma survey de autorrelato de noventa e oito estudantes, na qual 80,6 por cento concordaram que a IA deu suporte efetivamente e cinquenta e dois por cento relataram menos estresse do que nos exames tradicionais. Ambos os artigos medem aceitação, e não aprendizagem.
 
+**A IA como andaime logístico para orais ao vivo monitorados por humanos.** Um terceiro arranjo mantém o instrutor como examinador e usa a IA para tornar viável o ensaio em pares. Nos [[onodipe-enhance-not-replace-ai-classroom-2026|cursos de estatística para negócios de Onodipe et al. (2025)]], orais ao vivo um a um pelo Zoom não conseguiam alcançar todos os estudantes dentro do limite de tempo, de modo que os estudantes trabalharam em pares em salas de breakout com um prompt estruturado de ChatGPT cobrindo os tipos de pergunta que o exame faria, enquanto o instrutor circulava pelas salas para sondar o raciocínio. O artigo relata a logística e a redução da carga do instrutor, mas nenhuma comparação de desfechos, de modo que é um design a testar, e não evidência de que o ensaio mediado por IA preserva o que um oral certifica. Seu interesse é que ele mira a restrição de agendamento e de horas de contato que Fenton nomeia sem automatizar nem a entrega nem a pontuação.
+
 **Evidência oral como defesa em vez de exame.** [[tool-invariant-framework-agentic-ai|Um framework de avaliação invariante a ferramenta]] emparelha quizzes em sala sem IA com defesas orais de dez minutos de trabalho assistido por IA com comentários removidos, pontuadas em compreensão de código, compreensão de método, terminologia, interpretação e verificação, com a verificação exigida para passar independentemente do total. O design é argumentado, e não validado; a própria aritmética do artigo para quinze estudantes é duas horas e meia de contato por tarefa e cerca de vinte e oito horas de contato por semestre ao longo de onze tarefas defendidas.
+
+**Sondagem amostrada, não cobertura total.** Deng (2026) propõe examinar presencialmente uma amostra aleatória do próprio trabalho submetido pelo estudante, sob quatro condições de credibilidade: mais de um sondador, sessões gravadas e auditáveis, uma via de recurso e um consultor que não é o certificador ([[deng-certification-consultation-university-teaching-2026|Deng, 2026]]). O design é argumentado, e não testado, mas ele enfrenta a parede das horas de contato por amostragem, em vez de examinar tudo.
 
 O formato de interação decide o que uma tarefa de fala mediada por IA consegue certificar. As tarefas de diálogo do Duolingo English Test, 713 delas no piloto, exigiam seleção de resposta em vez de fala reativa, o que os revisores argumentam desalinhar as demandas cognitivas da tarefa com o construto que o teste afirma medir ([[ai-second-language-listening-speaking-assessment-2025|Goh e Aryadoust (2025)]]).
 
@@ -83,6 +89,7 @@ Nenhum formato ocupa uma posição fixa nesse trade-off: a observabilidade da av
 A justificativa de integridade do oral também tem prazo: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentam que óculos e fones de IA podem entregar prompts encobertos em tempo real dentro de uma viva ao vivo, porque a IA vestível não produz desvio de olhar nem sinal detectável, de modo que os orais interativos já não estão imunes.
 
 - **O teto da escala é a restrição de design.** Em um workshop com 73 educadores de [[cs-education|computação]], a avaliação oral e interativa foi relatada como a evidência mais forte disponível de compreensão individual e o remédio menos escalável. As mitigações que os participantes descreveram foram distribuição e amostragem: pools compartilhados de assistentes de ensino, [[peer-assessment|avaliação por pares]] ponderada abaixo de um [[summative-assessment|exame final]], e chamar um subconjunto rotativo de estudantes ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+- **A conversa pontuada por máquina fica leniente onde o entrevistador dá andaimes.** [[challen-conversational-assessment-chat-exams-2026|Challen e Zilles (2026)]] separaram um entrevistador cego à rubrica de um avaliador oculto; uma recorregação cega de 40 tentativas concordou em 35% e concedeu a nota máxima duas vezes onde o avaliador implantado a deu 20 vezes.
 
 ## Ideias equivocadas comuns
 
@@ -92,33 +99,37 @@ A justificativa de integridade do oral também tem prazo: [[corbin-ai-glasses-we
 
 ## Conceitos conectados
 
-- [[pedagogical-patterns]] — Oral and viva verification sequences, and what they do and do not demonstrate
-- [[assessment]] — the broader field this format sits inside
-- [[authentic-assessment]] — the design tradition that makes the integrity case
-- [[assessment-validity]] — what a format can and cannot claim to measure
-- [[academic-integrity]] — the pressure that returned orals to prominence
-- [[automated-assessment]] — machine delivery and scoring of oral performance
-- [[ai-detection]] — the alternative response, and why it is weaker
-- [[speech-and-voice-technologies]] — the speech pipeline an oral system runs on
-- [[multimodal]] — gesture and speech as combined evidence
-- [[anxiety-and-stress]] — the affective cost of live performance
-- [[feedback]] — what a viva tells a learner about their own understanding
-- [[higher-ed]] — the setting almost all of this evidence comes from
+- [[pedagogical-patterns]] — Sequências de verificação oral e por viva, e o que demonstram e o que não demonstram
+- [[assessment]] — o campo mais amplo em que este formato se insere
+- [[authentic-assessment]] — a tradição de desenho que sustenta o argumento da integridade
+- [[assessment-validity]] — o que um formato pode e não pode reivindicar medir
+- [[academic-integrity]] — a pressão que trouxe os orais de volta ao protagonismo
+- [[automated-assessment]] — aplicação e pontuação por máquina do desempenho oral
+- [[ai-detection]] — a resposta alternativa, e por que é mais fraca
+- [[speech-and-voice-technologies]] — o pipeline de fala sobre o qual um sistema oral roda
+- [[multimodal]] — gesto e fala como evidência combinada
+- [[anxiety-and-stress]] — o custo afetivo do desempenho ao vivo
+- [[feedback]] — o que um viva diz ao aprendiz sobre sua própria compreensão
+- [[higher-ed]] — o contexto de onde vem quase toda esta evidência
 
 ## Artigos conectados
 
 - [[ai-second-language-listening-speaking-assessment-2025]] — Tarefas de diálogo sem ramificação desalinham as demandas da tarefa do construto de fala
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Vivas ao vivo já não estão imunes: óculos e fones de IA entregam prompts encobertos em tempo real (Corbin, Sharpe & Dawson 2026)
 
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
-- [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety and experience in AI-mediated performance-based assessment
-- [[code-review-genai-cs1]] — Oral code review interviews in an introductory programming course
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture as evidence in assessing oral explanations
-- [[socratic-tests-conversational-assessment]] — Automated conversational testing as oral assessment
-- [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
-- [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderando o uso de exames e avaliações orais (Fenton 2025)
+- [[asynchronous-oral-assessment-2026]] — Avaliações orais assíncronas: integridade, engajamento e comunicação profissional
+- [[ai-supported-oral-assessment-tvet-2026]] — Desenhando a avaliação oral apoiada por IA na educação profissional
+- [[aivaluate-anxiety-assessment-2026]] — Ansiedade e experiência na avaliação baseada em desempenho mediada por IA
+- [[code-review-genai-cs1]] — Entrevistas orais de revisão de código em um curso introdutório de programação
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesto como evidência na avaliação de explicações orais
+- [[socratic-tests-conversational-assessment]] — Testes conversacionais automatizados como avaliação oral
+- [[tool-invariant-framework-agentic-ai]] — Defesas orais de trabalho assistido por IA
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Entrevistas clínicas faladas sob um sistema de paciente simulado
+- [[pgr-students-genai-uses-qualitative-2026]] — O viva de doutorado sob a IA generativa
+- [[computing-assessment-genai-workshop-report-2026]] — A IA pode fazer sua tarefa de casa. E agora? Relatório de um workshop online sobre avaliação em computação na era da IA generativa
 - [[assessment-feedback-trilemma-model-2026]] — Nega a qualquer formato uma posição fixa e reenquadra a viabilidade como prioridade educacional
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — Orais em pares com andaimes de IA como solução de agendamento em um curso de estatística para negócios
+- [[deng-certification-consultation-university-teaching-2026]] — O ensino universitário após a IA generativa: para além de aulas e investigação, rumo a um paradigma de certificação e consultoria em que quem aprende se torna avaliador
+- [[webb-davies-voice-first-written-assessment-2026]] — Uma avaliação escrita em duas etapas que assegura o raciocínio sob observação antes de corrigir uma submissão escrita em casa, com um viva condicional para vínculos pouco claros (Webb-Davies, Ratner & Bassett 2026)
+- [[challen-conversational-assessment-chat-exams-2026]] — Avaliação Conversacional Escalável: Exames Baseados em Chat com um Pipeline de LLM de Dois Agentes

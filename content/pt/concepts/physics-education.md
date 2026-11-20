@@ -1,7 +1,7 @@
 ---
 title: Educação em física
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-18T04:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,7 @@ Uma [[meta-analysis-systematic-review|revisão PRISMA]] de 2026 com 11 estudos e
 **O desenho de papéis do agente como variável instrucional.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] mantêm constantes o modelo (DeepSeek R1), a plataforma e a temperatura, e variam apenas o papel especificado no prompt: um agente centrado no professor que responde autoritativamente a partir de uma fonte de conhecimento de livro didático delimitada, versus um agente centrado no estudante configurado como professor empático com conhecimento da compreensão dos estudantes, roteirizado para diagnosticar a causa das [[misconceptions|concepções errôneas]], nomear o conceito relevente e transferir para um fenômeno análogo. Ao longo de 59 recém-formados do ensino médio trabalhando duas questões conceituais, o agente centrado no estudante produziu notas mais altas no pós-teste (9,67 vs. 7,93; r = 0,38), menor carga cognitiva extrínseca e maior carga cognitiva germânica, experiência de fluxo mais forte (d = 0,92) e maior percepção de empatia (r = 0,53) — evidência de que o enquadramento de papéis, e não apenas a acurácia das respostas, é o que torna um agente de física instrucionalmente eficaz ([[pedagogical-agent|agente pedagógico]], prompt-engineering).
 - **As notas de benchmark subestimam o que os modelos já conseguem fazer em física.** Recorrigir seis benchmarks de física amplamente usados com especialistas de domínio descobriu que a maior parte da defasagem reportada era artefato de itens defeituosos e de corretores automatizados restritivos: de 250 rejeições auditadas, 143 (57,20%) eram defeitos do benchmark e 95 (38,00%) erros do corretor, com apenas 12 (4,80%) sendo erros genuínos do modelo. Corrigido, o mean@4 do HLE-Physics subiu de 47,28% para 78,66% e o CritPt de 32,29% para 87,50%. Para a instrução em física isso corta dos dois lados: significa que os estudantes já conseguem obter soluções textuais de nível especialista para muitos problemas canônicos, de modo que a avaliação do raciocínio em física precisa avançar rumo a itens que resistem à contaminação por benchmark e rumo a evidência de processo, em vez de respostas finais. ([[frontier-models-physics-benchmark-audit-2026]])
 - **A correção por IA pode reproduzir um resultado de física de alto impacto sem acertar cada parte.** Corrigindo 10.364 páginas manuscritas de olimpíada e de universidade, um LLM multimodal recuperou o mesmo time de cinco estudantes da olimpíada que os examinadores e se correlacionou com os totais em r = 0,93–0,96, mas a concordância exata por parte de questão alcançou 70% — segunda leitura controlada pelo examinador, e não substituição ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+- **Um corretor gráfico pode atribuir nota máxima que sua explicação não sustenta.** Ao submeter um corretor multimodal a testes de estresse com gráficos de cinemática distorcidos, uma resposta de velocidade–tempo com traços desconectados e ramificados e sem referência clara de velocidade zero ainda recebeu 10/10. Os autores recomendam a revisão pelo instrutor das respostas com nota máxima, e não apenas das que perderam pontos ([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]).
 
 - **Benchmarks de física podem ser fundamentados no [[curriculum-design|currículo]] e não ser em inglês.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] construíram 1.834 questões em bengali a partir do livro didático nacional de física do 9º e 10º anos e de um [[knowledge-graph|grafo de conhecimento]] de 1.760 nós; uma única receita fixa de [[llm-training-and-fine-tuning|fine-tuning]] ganhou 5,5, 15,0 e 23,3 pontos com 0,6B, 1,7B e 4B parâmetros.
 
@@ -106,6 +107,8 @@ A educação em física se situa dentro do domínio mais amplo de [[stem-educati
 - **Reserve prática e avaliação sem ajuda.** O redesign de Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]]) mostra que lições de casa com IA permitida e com formato de pesquisa, concluídas com alto engajamento, podem deixar os estudantes muito atrás num exame sem ajuda (média 20,6/80) — trate desempenho assistido e conhecimento independentemente recuperável como distintos, e construa no curso prática deliberada sem ajuda e um exame escrito.
 
 - **Verifique a fidelidade do facilitador; mantenha a fase de construção do modelo livre de IA.** Pressionado para \"só nos dizer\" qual das latas pesava mais, um Gem configurado para o propósito inventou valores de massa que ninguém havia medido, de modo que a fidelidade de um facilitador baseado em linguagem precisa ser verificada, e não presumida, e a fase de construção livre de IA preserva o trabalho prático que a IA não consegue alcançar ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
+
+A rota de menor infraestrutura para materiais de curso está documentada para o ensino de física. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] executam um modelo pequeno localmente, apontam-no para as próprias notas e listas de problemas do curso e geram quizzes e guias de estudo a partir delas, com o instrutor validando cada saída. A configuração não exige contrato com fornecedor e não envia dados de estudantes a lugar algum, o que a torna um primeiro passo realista para um departamento que não consegue adquirir uma ferramenta corporativa, mas pode disponibilizar uma estação de trabalho.
 
 ## Ideias equivocadas comuns
 
@@ -168,3 +171,5 @@ A educação em física se situa dentro do domínio mais amplo de [[stem-educati
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Um tutor bem construído superou a aprendizagem ativa em sala de aula
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — As preconcepções sobre energia decidiram onde a negociação de consultas à IA se situou na rede do grupo: um hub de integração quando os membros discordavam, um caminho linear de consultar e depois ler quando concordavam (Wang et al. 2026)
 - [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — Padrões de uso e apoio percebido entre futuros engenheiros
+- [[beznosko-local-ai-rag-physics-oer-2026]] — Abordagem da educação em física usando IA local com RAG para a geração de materiais educacionais abertos (Beznosko et al., 2026)
+- [[zammel-mllm-kinematics-graph-grading-2026]] — Teste de estresse de um corretor multimodal em gráficos de cinemática distorcidos: nota máxima para um gráfico que sua explicação não sustenta (Zammel et al. 2026)

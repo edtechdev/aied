@@ -1,13 +1,13 @@
 ---
 title: Psicologia cognitiva
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ Um experimento de 2026 dá ao lado da memória dessa fronteira um modo de falha 
 3. **Respeite os limites da memória de trabalho.** Aplique a Teoria da Carga Cognitiva à UX de IA: reduza a carga extrínseca (atrito, interfaces sobrecarregadas) preservando o processamento pertinente ([[desirable-difficulties|dificuldade produtiva]], prática de recuperação), em vez de minimizar toda a demanda cognitiva.
 4. **Calibre a metacognição.** Como a [[metacognition]] governa quando quem aprende escolhe descarregar, ensinar a calibração (saber o que se consegue fazer de fato sem ajuda) é uma resposta cognitivista ao excesso de confiança (veja [[cognitive-offloading]]).
 
+O desenvolvimento é uma questão separada: esses mecanismos são tratados como estáveis, enquanto a [[developmental-psychology|psicologia do desenvolvimento]] pergunta como eles mudam com a idade e o que isso significa para o uso de IA por faixas etárias.
+
 ## Ideias equivocadas comuns
 
 - **"As representações mentais são inobserváveis, então as afirmações cognitivas sobre a aprendizagem são suposições."** Reconstruir imagens a partir do **EEG** de quem aprende durante vídeos de ciências mostrou que **a fidelidade da representação acompanhava o desempenho no teste** (coeficiente de regressão **0,8481, R² = 0,79**). A premissa cognitivista da representação interna é mensurável, e a medida previu o desfecho.
@@ -102,6 +104,8 @@ Um experimento de 2026 dá ao lado da memória dessa fronteira um modo de falha 
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

@@ -1,7 +1,7 @@
 ---
 title: "Ponto de referência (Benchmark)"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-17T08:35:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ Os benchmarks servem como fundamento evidente da [[ai-education|pesquisa em IA n
 
 - **A adaptação ao estudante como critério explícito de benchmark.** O Teaching Monster Challenge pontua a adaptação a uma persona de estudante especificada, mas seu juiz automatizado com LLM separou apenas uma cauda fraca — os melhores sistemas pontuaram perto de seu teto, e seu ranking discordou da preferência da multidão (ρ de Spearman = −0,17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
-### Por que os benchmarks importam na AIED
+## Por que os benchmarks importam na AIED
 
 Os benchmarks se conectam à [[ai-ed-evaluation|avaliação de IA na educação]] e à [[assessment-validity|validade da avaliação]] — sem benchmarks rigorosos, as afirmações sobre a eficácia da [[intelligent-tutoring|tutoria com IA]] são inverificáveis. Eles também se cruzam com a [[bias-mitigation|mitigação de viés]], já que o desenho do benchmark pode codificar ou amplificar vieses. A tensão entre desempenho em benchmark e utilidade no mundo real é explorada em vários artigos, conectando-se às preocupações de [[transfer-of-learning|transferência de aprendizagem]] nas aplicações de [[generative-ai|IA generativa]].
 
@@ -76,6 +76,20 @@ A estabilidade por item entre execuções ficou em 79,0%–85,4% de consistênci
 - **Reporte a capacidade do modelo como um nível calibrado, e não apenas como acurácia.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] mapeiam 624 itens anotados por especialistas sobre níveis nomeados de proficiência usando 2.050 respostas de estudantes, e constatam que os modelos de ponta excedem o teto calibrado — um limite que uma porcentagem esconde.
 
 - **Uma regra de pontuação pode ser enganada pelo modelo que ela treina.** Uma métrica de [[adaptive-learning|adaptatividade]] maximizada pela repetição de uma única melhor decisão mostra que o desenho de benchmark deveria publicar o argmax, pontuar a adaptação como uma diferença e reportar linhas de base acima do aleatório ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
+
+A regra de correspondência faz parte da medição, e seu tamanho não é marginal. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah e colegas (2026)]] pontuaram 11 configurações — modelos de embeddings, setups de LLMs [[generative-ai|generativos]] e um agente ReAct — contra um benchmark anotado com ESCO de 926 amostras de anúncios de emprego carregando 1.696 habilidades gold, e então repontuaram cada uma por meio de um pipeline de correspondência de oito camadas. O pipeline foi da correspondência exata de strings até um corte de similaridade de embeddings de 0.85, e o recall medido subiu de 11 a 72 pontos percentuais em todas as 11 configurações. O maior salto, 70.9 pontos, foi para o Gemini 2.5 Pro com cadeia de pensamento, cujas descrições correspondiam aos rótulos gold semanticamente, mas raramente lexicalmente — uma oscilação que os autores leem como evidência de que a avaliação por correspondência exata media a formatação tanto quanto a capacidade.
+
+## Onde os benchmarks vivem
+
+Um benchmark nem sempre é um artigo. Três superfícies agora carregam a maior parte da leitura operacional, e elas diferem no que permitem a quem lê verificar.
+
+Leaderboards transformam um benchmark em uma comparação contínua. O [GradeBench](/resources/gradebench/) pontua modelos de ponta em 464 respostas STEM manuscritas de 45 cursos universitários contra os itens de rubrica que os instrutores realmente selecionaram, e o melhor modelo alcança 57.3% de correspondência exata com a rubrica. O eixo de custo importa mais do que o ranking: um modelo 0.8 pontos atrás custa cerca de um sétimo por mil respostas. Ele mede correção, não aprendizagem.
+
+Leaderboards de detectores respondem a uma pergunta diferente. O [leaderboard RAID](/resources/raid-benchmark-leaderboard/) pontua modelos de detecção entre domínios, configurações de decodificação e ataques adversariais, e sua taxa de verdadeiros positivos a uma taxa de falsos positivos de 1% é a coluna que importa em escala institucional, onde 1% são centenas de estudantes.
+
+Alguns benchmarks existem para comparar acesso, e não capacidade. O [Fab AI](/resources/fab-ai-benchmark-leaderboard/) avalia modelos para educação em países de baixa e média renda em pedagogia, letramento fundamental, SEND e raciocínio visual, com colunas de preço, contagem de parâmetros e pesos abertos ao lado da pontuação. A dispersão — modelos de ponta no início da casa dos 90 e modelos abertos sub-2B entre 21% e 43% — torna explícita a escolha de implantação.
+
+A distinção vale a pena ser mantida. Uma pontuação de leaderboard é uma afirmação sobre um conjunto fixo de itens e nunca sobre uma sala de aula, e esses três instrumentos discordam sobre para que serve a medição educacional.
 
 ## Ideias equivocadas comuns
 
@@ -117,3 +131,5 @@ A estabilidade por item entre execuções ficou em 79,0%–85,4% de consistênci
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para avaliação pedagógica de questões educacionais novas assistidas por IA
 - [[llm-benchmark-secondary-science-topics-2026]] — Um benchmark para a compreensão de tópicos de ciências do ensino médio por LLMs
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — Oito princípios de desenho para benchmarks de tutores com IA, derivados de uma métrica que foi otimizada até a repetição (Domínguez Figaredo & Fernández De la Cruz 2026)
+
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparando abordagens de IA para extração automatizada de habilidades: de embeddings a sistemas agênticos para a educação em engenharia

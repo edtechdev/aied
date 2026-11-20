@@ -1,7 +1,7 @@
 ---
 title: Falência produtiva
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ A falência produtiva se situa dentro de uma família mais ampla de teoria da ap
 ### Aprender com erros
 O processamento com erros pode auxiliar a retenção e a mudança conceitual, particularmente quando os estudantes recebem oportunidades de refletir sobre sua compreensão e reorganizá-la (Kapur, 2008; Schwartz & Martin, 2004). Na era da IA, isso é operacionalizado em sistemas em que os estudantes diagnosticam e corrigem seus próprios erros, em vez de receber correções diretas — ex., tarefas de [[lukesova-clue-before-correction-2026|pista-antes-da-correção]] em que a IA dá dicas guiadas e os estudantes inferem a solução correta, reduzindo a carga cognitiva e apoiando a revisão autônoma. O feedback elaborativo produz [[learning-gains|ganhos de aprendizagem]] significativamente mais altos que o feedback apenas de verificação (Hattie & Timperley), e o momento do feedback importa.
 
+**Os erros foram o currículo em uma tarefa controlada de programação assistida por IA.** [[shen-ai-skill-formation-2026|Shen e Tamkin (2026)]] fizeram desenvolvedores aprenderem uma nova biblioteca Python com ou sem um assistente GPT-4o, e o grupo sem assistência encontrou uma mediana de três erros contra um sob assistência (Q1–Q3: 2,0–5,0 versus 0,0–3,0). Os erros que o assistente removeu foram os específicos da biblioteca que forçam a compreensão de corrotinas, como uma corrotina sem await ou um objeto de corrotina passado onde se esperava uma função. O grupo sem assistência então pontuou 17% mais alto em um quiz feito sem IA, com a maior lacuna em depuração e a menor em leitura de código, e redigitar o código gerado em vez de colá-lo não fechou nada disso. Os autores leem a resolução independente de erros como o mecanismo, mas medem a associação em vez de testar sua mediação.
+
 ### Enganos vs. erros
 Uma distinção útil: **enganos** são tipicamente deslizes ou lapsos (frequentemente por descuido ou sobrecarga) que podem carregar valor diagnóstico limitado, enquanto **erros** refletem incompreensão genuína ou raciocínio falho e são material de aprendizagem mais produtivo, porque revelam uma concepção errônea que pode ser endereçada. A análise de erros — identificar *por que* uma resposta está errada — é central para aprender com erros, e é uma habilidade [[pedagogy|pedagógica]] chave (e um alvo para o desenho de [[ai-feedback-quality|feedback de IA]]).
 
@@ -78,7 +80,7 @@ Isso torna a falência produtiva uma lente central para [[ai-ed-evaluation|avali
 ## Implicações para instrutores e desenho instrucional
 
 - **Desenhe para a luta antes da instrução.** Sequencie a aprendizagem para que os estudantes tentem os problemas antes do ensino direto, e então consolidem — em vez da abordagem tradicional de instrução primeiro.
-- **Retenha as soluções estrategicamente.** Faça [[scaffolding|scaffolding]] com dicas, pistas e questões guiadas ([[socratic-method|método socrático]]) que mantenham os estudantes cognitivamente engajados, em vez de entregar as respostas.
+- **Retenha as soluções estrategicamente.** Faça scaffolding com dicas, pistas e questões guiadas ([[socratic-method|método socrático]]) que mantenham os estudantes cognitivamente engajados, em vez de entregar as respostas.
 - **Use a IA para fazer scaffolding, não para substituir.** Escolha e configure ferramentas de IA que deem apoio não diretivo, preservem a luta produtiva e tragam os erros à tona para reflexão — não entregadoras de respostas. Isso vale tanto para o desenho de tutores (direcionar LLMs) quanto para a prática em sala de aula.
 - **Atente ao lado emocional da falha.** O [[affective-computing|desenho emocional]], um espaço seguro para experimentação e a redução do medo de errar são essenciais — a falência produtiva exige que os estudantes estejam dispostos a lutar e falhar.
 - **Construa a análise de erros na aprendizagem.** Peça aos estudantes que diagnostiquem *por que* sua resposta (ou a da IA) está errada, usando feedback elaborativo/baseado em pistas, para converter erros em ganhos de aprendizagem.
@@ -112,7 +114,7 @@ A falência produtiva conecta-se a [[learning-theories|teorias da aprendizagem]]
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]
-- scaffolding
+- [[scaffolding]]
 - [[feedback]]
 - [[prior-knowledge]]
 - [[transfer-of-learning]]
@@ -133,3 +135,4 @@ A falência produtiva conecta-se a [[learning-theories|teorias da aprendizagem]]
 - [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para a aprendizagem autônoma
 - [[pedagogy-ai-mistakes]] — A pedagogia dos erros da IA
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Reter soluções evitou o custo de frustração, mas perdeu na preferência dos estudantes
+- [[shen-ai-skill-formation-2026]] — Mediana de 3 erros sem IA contra 1 com ela, e notas 17% maiores no quiz sem ajuda (Shen & Tamkin 2026)

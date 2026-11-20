@@ -40,7 +40,7 @@ ai_assist:
 
 A randomização é o que distingue um RCT de outros designs: ao atribuir aleatoriamente os aprendizes às condições, um RCT equilibra confundidores conhecidos e desconhecidos entre os grupos, de modo que qualquer diferença observada nos resultados pode ser atribuída à intervenção com alta validade interna.
 
-### Como os RCTs aparecem na pesquisa
+## Como os RCTs aparecem na pesquisa
 
 - **Micro-RCTs como resposta à tecnologia em rápido movimento:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argumentam que ensaios convencionais de larga escala não conseguem acompanhar [[edtech-platform|plataformas]] de tutoria que mudam materialmente durante um estudo, e usam micro-ensaios controlados randomizados conduzidos por [[teacher-role|professores]] em escolas secundárias inglesas (644 de 929 estudantes completando o pós-teste, g = 0,33) para manter a estimação causal repetível. Os trade-offs estão declarados em seu próprio design: 30,7% de atrito, resultados alinhados ao [[curriculum-design|currículo]] em vez de padronizados independentemente, e apenas quatro semanas de acompanhamento.
 - **Afirmações de eficácia causal:** os RCTs em AIED testam se um tutor, ferramenta ou tratamento pedagógico de IA melhora os resultados. [[generative-ai-education-productivity-gaps|Um experimento randomizado sobre IA generativa]] com 1.174 participantes descobriu que a GenAI reduz substancialmente as lacunas de produtividade baseadas na educação, fechando cerca de três quartos da diferença inicial de desempenho — uma estimativa causal clara do efeito da IA.
@@ -56,7 +56,7 @@ A randomização é o que distingue um RCT de outros designs: ao atribuir aleato
 - **Randomizar dentro de turmas intactas, com uma linha de base pré-tratamento.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] randomizaram 454 graduandos dentro de três turmas intactas de marketing após o drop/add e mediram todos os quatro resultados em T1, antes que qualquer estudante tivesse acesso ao [[conversational-ai|chatbot]], de modo que a comparação do semestre repousa sobre uma linha de base medida, e não sobre uma assumida. O resultado plano (nenhuma interação grupo × tempo alcançou significância; o maior efeito relatado foi d = 0,050, sobre interesse) é relatado junto com a adoção — 0,89 logins por semana contra um atribuído uma vez por semana —, o que evita que um nulo sobre um tratamento fracamente usado seja lido como um nulo sobre a ferramenta.
 - **Crossover dentro do sujeito, e um controle posto na melhor prática.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] fizeram cada um dos 194 estudantes de ciências da vida de Harvard trabalhar em duas aulas de física — uma em uma sessão de [[active-learning|aprendizado ativo]] em sala de aula e outra com o próprio tutor de IA do curso, em ordem contrabalançada com pré e pós-testes em torno de cada uma —, de modo que cada estudante serve como seu próprio controle, e a comparação dos *modos de entrega* não é confundida por quem foi atribuído a qual. A segunda escolha do design importa tanto: o comparador foi o aprendizado ativo baseado em pesquisa, e não uma aula, de modo que a vantagem (mediana de pós-teste 4,5 vs. 3,5) é medida contra a melhor prática atual e não pode ser lida como "a IA supera o ensino".
 
-### Forças e limitações
+## Forças e limitações
 
 - **Forças:** inferência causal mais forte; medição limpa dos resultados; apoia a estimação de tamanho de efeito; equilibra confundidores por meio da randomização.
 - **Limitações:** custoso e lento; cenários artificiais podem reduzir a validade ecológica; as ferramentas de IA mudam mais rápido do que os ensaios conseguem rodar; amostras pequenas frequentemente subpotentes para detectar efeitos significativos; restrições éticas para reter IA potencialmente benéfica de um grupo de controle. Duas dessas limitações mudam de forma quando a atribuição é por clusters: a amostra efetiva passa a ser o número de *clusters* em vez do número de estudantes, de modo que um ensaio pode ser grande por contagem de cabeças e fino por essa medida — os 2.379 estudantes de Liu et al. repousam sobre 34 clusters em nível de instrutor —, e quando a adoção é voluntária e baixa, uma estimativa por intenção-de-tratar responde se oferecer a ferramenta mudou os resultados, não se usá-la mudou.
@@ -77,15 +77,15 @@ Para o tratamento mais completo do design experimental na IA na educação — i
 - [[generative-ai]]
 - [[higher-ed]]
 - [[ai-education]]
-- [[student-support-and-success]] — the design behind the strongest student-support evidence
+- [[student-support-and-success]] — o design por trás da evidência mais forte de apoio ao estudante
 
 ## Artigos conectados
 
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — O tempo de planejamento de aulas caiu para 0,76 do grupo de comparação em 108 escolas primárias, numa dose de 7% de uso da ferramenta
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
+- [[generative-ai-education-productivity-gaps]] — A IA generativa reduz as lacunas de produtividade baseadas em escolaridade? Evidências de um experimento randomizado
+- [[genai-can-harm-teaching-rct-2026]] — A IA generativa pode prejudicar o ensino: um RCT
+- [[access-not-enough-ai-tutoring-2026]] — Acesso não é suficiente: o apoio humano melhora o engajamento com a tutoria com IA
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Avaliando a tutoria com IA na velocidade da inovação: micro-ensaios randomizados liderados por praticantes de uma plataforma de tutoria com IA em ciências do GCSE
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoria com IA e tutoria humana produzem ganhos de aprendizagem equivalentes no GRE
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Randomização por grupo por instrutor: queda de 0,37 DP nas notas finais e de 0,90 DP na participação na plataforma, com 15% de adoção e inferência sobre 34 clusters (Liu et al. 2026)
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Um resultado medido após um intervalo, e não ao final da sessão

@@ -134,9 +134,9 @@ Isso também introduz um risco de nomenclatura que vale declarar com clareza. A 
 
 ## Artigos conectados
 
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item AI literacy self-assessment questionnaire for Grades 4 to 6, with the metacognitive limits of child self-report (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 of 33 teacher AI literacy instruments are self-report, two test knowledge objectively, none use performance tasks (Zainal, Mohd Matore & Maat 2026)
+- [[self-directed-growth-generative-ai-learning-analytics]] — Autoavaliação colocada no centro de um framework de crescimento autodirigido (2026)
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Materiais de letramento em IA escalonados por nível de desenvolvimento, com medição de aceitação e validade (2026)
+- [[chatgpt-critical-creative-thinking-review]] — Triangulando o feedback de IA com avaliação por pares, do instrutor e autoavaliação (2026)
+- [[yasir-llm-tutoring-agents-2026]] — Por que o feedback não deve se apoiar na autoavaliação que o modelo faz da validade de seu raciocínio (Yasir et al. 2026)
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Um questionário validado de autoavaliação de letramento em IA com 15 itens para o 4º ao 6º ano, com os limites metacognitivos do autorrelato infantil (Thianwan & Srikoon 2025)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 de 33 instrumentos de letramento em IA de professores são de autorrelato, dois testam conhecimento objetivamente, nenhum usa tarefas de desempenho (Zainal, Mohd Matore & Maat 2026)

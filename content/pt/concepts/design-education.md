@@ -1,7 +1,7 @@
 ---
 title: "Educação em design"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-18T10:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ ai_assist:
 - Novatos sem apoio, em um experimento, nunca revisaram uma única ideia até que um agente adversarial trouxesse à tona a resistência de partes interessadas. O ensino de design deveria fabricar atrito deliberadamente — e onde termina a dificuldade produtiva?
 - O papel do designer, nessa leitura, passa de produzir formas para julgar aquilo que a máquina gera. Nesse caso, o que vem primeiro em um [[curriculum-design|currículo]]: o ofício manual, ou a avaliação crítica da produção do modelo?
 - Se um [[llm|LLM]] consegue aproximar as leituras que um instrutor, um par e um avaliador de projetos fazem do mesmo pôster, o que resta para o crítico humano?
+- Equipes que usaram um pipeline de GenAI mais XR relataram confiança *menor* na própria capacidade de design depois, e avaliadores cegos pontuaram suas apresentações sem melhoria em relação às de um grupo de controle. O que você precisaria saber antes de concluir que as ferramentas prejudicaram a aprendizagem — e o que o faria concluir isso mesmo assim?
 
 ## Introdução
 
@@ -48,6 +49,7 @@ Ela também é distinta do [[design-thinking]], um método de [[problem-solving|
 - **A IA é um recurso de ideação cujo risco característico é a fixação.** [[genai-architectural-design-studios|Gül et al. (2026)]] construíram a plataforma GAI-A ao longo de um estudo longitudinal de ateliê e encontraram dois usos produtivos: a IA generativa como estímulo visual na ideação inicial, e como expansor combinatório do espaço de soluções durante o desenvolvimento. O problema, argumentam eles, é a competência, e não o acesso — sem o discernimento para ler os modelos deliberadamente, a produção abundante gera [[design-thinking|fixação de desenho]] e aprisionamento estético —, o que desloca o [[teacher-role]] de transmitir ofício para orientar quando e por que delegar a exploração criativa.
 - **Uma ferramenta local [[discipline-specific-aied|específica da disciplina]] ampliou o espaço de busca e equalizou a participação.** [[genai-architecture-education|Kapsalis (2026)]] conduziu dois grupos focais em Derby com oito estudantes de arquitetura em uma sessão de 90 minutos com um fluxo de trabalho ComfyUI executado localmente: as pontuações de criatividade foram maiores para geração de ideias (4,5) e experimentação (4,2) e menores para o refinamento de decisões (3,7), enquanto os itens de inclusividade ficaram entre 3,8 e 4,1 e se correlacionaram com o acompanhamento independentemente do uso prévio de IA (ρ = .81). A confiança conquistada na sessão não se transferiu — a confiança em usar essas competências profissionalmente foi de 2,6, uma lacuna que o autor chama de problema de nível curricular.
 - **Novatos sem apoio não revisam; um agente adversarial muda isso.** [[ai-agents-constructive-conflict-design-education-2026|Han & Martelaro (2026)]] realizaram um experimento entre sujeitos com 45 designers de interação novatos em um site cívico de denúncias. O grupo de autorreflexão nunca revisou nem excluiu uma única ideia; os estudantes engajados com o agente fizeram cerca de 3,6 vezes mais edições, alcançaram preocupações de partes interessadas que os outros grupos não viram ([[accessibility]], [[privacy]], relutância com relação à automação) e produziram propostas mais fortes. O agente foi avaliado como contribuinte (M = 5,33), mas um participante se sentiu criticado "em todos os aspectos", e os autores insistem que a resistência simulada não substitui engajar públicos reais.
+- **A ordem decide se uma parte interessada sintética enquadra ou confirma.** Equipes que entrevistaram uma parte interessada simulada por IA antes da humana a trataram como um enquadramento provisório; equipes que começaram pela humana a usaram apenas para validação ([[mokryn-ai-anchor-synthetic-stakeholders-2026|Mokryn et al., 2026]]).
 - **Um processo estruturado mantém a autoria com os estudantes em escala.** [[project-based-digital-storytelling-art-design-2026|Tian et al. (2026)]] estudaram um projeto de conclusão de narrativa de 15 semanas no qual 426 estudantes de graduação e 48 mentores (cerca de 1:9) transformaram patrimônio local em narrativas [[multimodal]]. As avaliações de especialistas das 92 obras foram mais fortes em novidade (M = 4,21) e mais fracas em integridade (M = 3,68) — as ideias vinham mais facilmente do que a integração. As pontuações de pensamento criativo em um subgrupo de 31 estudantes subiram de 77,23 para 94,68 (d = 0,82). A IA organizou informação e editou; os estudantes mantiveram a escolha do tema, a interpretação e as decisões finais, e 31 obras foram adotadas por uma Secretaria Regional de Cultura e Turismo.
 - **A adoção é frequente, desigual ao longo do processo e desconfiada.** [[genai-usage-design-students-survey|Broadbent et al. (2026)]] pesquisaram 280 estudantes de design do Politecnico di Milano e leram 100 diários de uso de IA de alunos de mestrado: 71% usavam IA generativa diária ou semanalmente, 65% desconfiavam dela, 85% modificavam sua produção. O uso se concentrava em pesquisa e escrita — edição de escrita 77,5%, busca de informação 74,5%, brainstorming 68,0% —, com uso de tarefas inteiras sendo raro (18,6%). A percepção de propriedade sobreviveu em grande medida: 31% relataram perda de propriedade ou de agência criativa, e apenas a geração de protótipos se associou significativamente a isso. O planejamento e a interpretação da pesquisa primária permaneceram com os estudantes, o que os autores leem como indício de que os estudantes podem não contar a pesquisa como parte do processo criativo.
 
@@ -63,6 +65,14 @@ Ela também é distinta do [[design-thinking]], um método de [[problem-solving|
 - **A GenAI pode auxiliar um fluxo de trabalho e enfraquecer a autoconfiança criativa.** Em um experimento de design arquitetônico com 36 estudantes, um fluxo com DALL-E 3 igualou a busca de precedentes em desempenho avaliado e carga cognitiva, mas a [[self-efficacy|autoeficácia]] criativa geral caiu (DiD = −0,543) enquanto a confiança específica da tarefa se manteve ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al., 2026]]).
 - **A crítica de IA pode ser vinculada ao artefato, e não ao prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] encaminha o feedback de ateliê por um quadro compartilhado de desenhos, notas e alfinetes e cinco atividades delimitadas; o estudo relata prontidão simulada (78% das 109 marcações em Analisar ou acima), e não [[learning-gains|ganhos de aprendizagem]].
 - **Uma rubrica de processo pode tornar a verificação por IA o objeto avaliado.** [[human-ai-collaboration-design-education-rubric-2026|Orhon et al. (2026)]] propõem o Merit Report, uma rubrica de quatro critérios (vontade curatorial documentada 20%, tradução tectônica 20%, validação técnica baseada em regras 40%, auditoria por pares 20%) que avalia o processo de verificação de IA documentado pelo estudante, e não o polimento do artefato, sustentada por uma extensão do [[tpack|TPACK]] que eles chamam de Conhecimento de Validação por IA.
+
+## O ateliê e a crítica sob a IA generativa
+
+As ferramentas generativas chegam a essas disciplinas por meio de um ritual existente: trabalho feito publicamente, mostrado incompleto e criticado. O que as fontes mostram é que a IA muda o *meio* desse processo com mais confiabilidade e as *pontas* menos. No estudo GenARch, [[genai-xr-architectural-design-education-2026|Xiao et al. (2026)]] colocaram um pipeline de GenAI mais XR multiusuário em um ateliê real de design arquitetônico de graduação e encontraram uma divisão complementar do trabalho: a [[generative-ai|IA generativa]] externalizava ideias, dando às equipes algo concreto para apontar, comparar e discutir, enquanto o XR apoiava a avaliação, permitindo aos estudantes julgar proporção, adjacência, iluminação e contexto do terreno em escala real.
+
+As ferramentas eram desajeitadas nas duas pontas do processo. No início, as equipes ainda não tinham ideias para codificar em um prompt; depois, conceitos mais ricos tornavam o [[prompt-engineering|fazer prompts]] mais fácil, mas elevavam as expectativas de cumprimento de restrições, e quando a precisão importava os estudantes voltavam ao SketchUp e ao Revit. Eles relataram uma falha de fidelidade dimensional — "pedi que fizesse uma parede de 10 pés em modelo 3D, e não tinha 10 pés" —, latência de ativos de segundos a minutos e atenção compartilhada que se dispersava quando os membros da equipe olhavam partes diferentes de um modelo. Dar um headset a cada participante não produziu, por si só, [[collaborative-learning|colaboração coordenada]].
+
+As responsabilidades do ateliê de fato mudaram. Em um estudo longitudinal de modelos generativos em ateliês de design, [[genai-architectural-design-studios|Gül et al. (2026)]] distinguem o uso da GenAI como estímulo visual na ideação inicial de um uso combinatório que expande o espaço de soluções durante o desenvolvimento, e localizam o problema [[pedagogy|pedagógico]] na competência, e não no acesso: sem o discernimento para diferenciar entre modelos e usá-los deliberadamente, a produção abundante gera [[design-thinking|fixação de desenho]] e aprisionamento estético. A conclusão deles desloca o [[teacher-role|papel do instrutor]] de transmitir ofício para orientar quando, como e por que delegar a exploração criativa.
 
 ## Formação profissional e regulação
 
@@ -120,3 +130,4 @@ Os problemas de avaliação aqui são inseparáveis dos profissionais. [[ai-inte
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — A atitude como condição necessária da intenção de estudantes de design de usar agentes de IA, com o ajuste tarefa–tecnologia como segundo caminho (Chu & Liu 2026)
 - [[han-prompt-literacy-ai-dependence-design-2026]] — O tipo de dependência decide se o letramento em prompts se torna engajamento
 
+- [[mokryn-ai-anchor-synthetic-stakeholders-2026]] — Partes interessadas simuladas enquadram um problema de design ou apenas o confirmam, dependendo da ordem das entrevistas

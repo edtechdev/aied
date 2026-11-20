@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introdução
 
-### O conceito
+## O conceito
 
 A teoria da atividade descende da psicologia histórico-cultural de Vygotsky e Leontiev (com desenvolvimento posterior por Engeström) e é uma vertente central da tradição mais ampla [[sociocultural-learning|sociocultural]]. Sua afirmação central é que a atividade humana não é redutível à cognição individual nem ao uso isolado de ferramentas; ela é um **sistema coletivo, orientado por um objeto e mediado por ferramentas**. O modelo canônico de Engeström de um sistema de atividade compreende seis elementos que interagem:
 
@@ -54,7 +54,7 @@ Uma característica definidora é a **contradição**: os sistemas de atividade 
 
 O espaço das ferramentas é o que a IA generativa tensiona. Um ensaio sociocultural de 2026 argumenta que um [[llm|LLM]] tanto medeia a atividade quanto gera contribuições contingentes que remodelam sua trajetória, de modo que chamá-lo de ferramenta subestima sua influência, enquanto chamá-lo de colaborador lhe atribui intencionalidade, responsabilidade e pertencimento à comunidade que ele não tem ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate e Ritchie, 2026]]). Seu *agente mediacional* ocupa a posição de ferramenta sem deter posição na comunidade, o que significa que a divisão do trabalho precisa ser analisada em torno das contribuições, e não apenas dos instrumentos.
 
-### Por que a teoria da atividade importa para a IA na educação
+## Por que a teoria da atividade importa para a IA na educação
 
 A IA introduz novas **ferramentas/artefatos mediadores** nos sistemas de atividade educacionais existentes, o que produz tanto oportunidades quanto contradições. A teoria da atividade dá à pesquisa em AIED um vocabulário e um método para analisar essas mudanças:
 
@@ -67,11 +67,11 @@ A IA introduz novas **ferramentas/artefatos mediadores** nos sistemas de ativida
 - **Disciplinaridade e variação entre contextos.** Como os sistemas de atividade são situados histórica e culturalmente, a teoria da atividade explica por que a mesma ferramenta de IA produz resultados diferentes entre disciplinas e contextos — cada disciplina funcionando como um sistema de atividade com suas próprias regras, comunidade e divisão do trabalho [[jiang-genai-activity-theory-disciplines-2026|(por exemplo, diferenças no uso e na divulgação de GenAI entre estudantes de graduação em diferentes domínios acadêmicos)]].
 - **Uma ferramenta, dois sistemas de atividade, penetração desigual.** Entre dez acadêmicos de matemática analisados pela CHAT, a GenAI permaneceu uma ferramenta periférica no sistema de atividade da pesquisa, ao mesmo tempo que remodelava o papel do professor rumo a mediador do [[critical-thinking|raciocínio crítico]] no ensino, com a adoção se espalhando pelo uso dos estudantes e por redes de pares, e não por política [[governance|institucional]] ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
-### Teoria da atividade e frameworks relacionados
+## Teoria da atividade e frameworks relacionados
 
 A teoria da atividade se situa dentro da família [[sociocultural-learning|sociocultural]] e é frequentemente pareada, ou contrastada, com outros frameworks: **[[distributed-cognition|cognição distribuída]]** e **[[situated-learning|aprendizagem situada]]** compartilham sua ênfase em contexto e mediação; **[[community-of-inquiry|comunidade de investigação]]** e comunidades de prática compartilham sua orientação coletiva; e modelos de **aceitação de tecnologia** (por exemplo, [[technology-acceptance-model|TAM]]) oferecem uma explicação contrastante, mais centrada em crenças individuais, da adoção, que a teoria da atividade critica por achatarem as dimensões coletiva e estrutural. Na pesquisa em AIED, a teoria da atividade é frequentemente combinada com outras teorias — por exemplo, pareada com a [[self-determination-theory|Teoria da Autodeterminação]] no desenho de intervenções de desenvolvimento profissional docente, ou com a teoria dos sistemas ecológicos em frameworks de ética da IA situada [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
 
-### Temas centrais de pesquisa
+## Temas centrais de pesquisa
 
 - **Como a IA redistribui a divisão do trabalho** no ensino, na aprendizagem e nos sistemas de atividade da pesquisa.
 - **Contradições sistêmicas** como motoras da mudança de normas e da transformação expansiva na educação aumentada por IA.
@@ -80,7 +80,7 @@ A teoria da atividade se situa dentro da família [[sociocultural-learning|socio
 - **Analítica de aprendizagem ancorada em teoria** que fundamenta a mensuração em elementos do sistema de atividade.
 - **O objeto da atividade mediada por IA** — se o objeto da aprendizagem se desloca do domínio para o produto, e o que isso significa para os [[learning-gains|resultados de aprendizagem]].
 
-### Implicações práticas
+## Implicações práticas
 
 Para quem desenha e para educadores, a teoria da atividade aconselha olhar além da própria ferramenta de IA para todo o sistema de atividade em que ela entra: as regras que governam o uso aceitável, a comunidade e suas normas, a divisão do trabalho entre humano e máquina, e o objeto/motivo da atividade. A integração sustentável da IA exige *redesenhar o sistema* — enfrentar contradições, atualizar normas e reequilibrar papéis — e não meramente fornecer ferramentas melhores ou treinamento individual. Para pesquisadores, a teoria da atividade oferece uma unidade de análise rigorosa (o sistema de atividade, não o indivíduo) e um método (intervenção [[formative-assessment|formativa]], análise de contradições) para estudar e moldar o papel da IA na educação.
 

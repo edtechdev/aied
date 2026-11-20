@@ -1,7 +1,7 @@
 ---
 title: Padrões pedagógicos
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -141,6 +141,14 @@ Um quase-experimento com 68 futuros professores descobriu que explicar a um apre
 **Evidência: testada, mas em contextos controlados ou não controlados, e não em salas de aula comuns.** Dois estudantes compartilham uma IA e recebem papéis explícitos com regras de rotação; a IA é configurada para assumir um papel conforme necessário, e sua saída vai para todo o grupo. Numa variante de programação em dupla, a IA compartilhada modela a atenção e o esforço conjuntos da díade, prevê um colapso até 30 segundos antes e escala scaffolds em níveis, de não fazer nada até uma dica diretiva.
 
 Um experimento within-subjects com 26 díades descobriu que a condição de feedback alcançou maior sucesso em depuração (t[49,96] = −13,51, p < ,0001) e terminou mais rápido (t[44,70] = 4,39, p < ,0001), embora tenha exigido hardware duplo de [[sensor-and-gaze-analytics|rastreamento ocular]] e pupilometria e não tenha testado a transferência para trabalho em dupla não supervisionado ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Um quase-experimento com 58 estudantes de pós-graduação em 16 grupos descobriu que o desenho de papéis elevou as notas de conteúdo de mapas mentais de 3,65 para 4,59 numa escala SOLO de 1–5 (z = 3,771, p < 0,001), enquanto as contagens de nós e ramos ficaram estáveis — mas sem grupo controle, efeitos de prática não podem ser descartados ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+
+### Rascunhos iterados com colaboração avaliada
+
+**Evidência: descrição de prática — uma primeira execução, sem condição de comparação, sem resultados medidos.**
+
+Os estudantes escrevem um ensaio em pequenas equipes ao longo de pelo menos duas etapas documentadas, escolhem entre um conjunto fixo de títulos e são avaliados por evidências de iteração e colaboração, além do produto; a GenAI é permitida dentro de limites declarados, em vez de proibida ou obrigatória.
+
+Em um módulo de primeiro ano do degree apprenticeship em Business Analyst da Queen Mary University of London, 23 estudantes em 11 equipes autosselecionadas escreveram dessa forma um ensaio iterado de 1.500 palavras, com a GenAI proibida de submeter texto gerado e de produzir listas de referências. Os autores descrevem um redesenho [[pedagogy|pedagógico]] de todo o programa e reportam insights emergentes em vez de resultados. A afirmação deles é que os critérios de correção, e não as instruções, tornaram a evidência de processo estruturante, e que, onde os estudantes usaram a ferramenta, alguns trataram sua saída como uma alegação a contestar — contra-argumentos a testar, estruturas a aceitar ou rejeitar ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 ### Discussão assistida por IA
 
@@ -280,3 +288,4 @@ As próprias ressalvas do guia se aplicam: vídeo gravado, reflexões e registro
 - [[beck-genai-literacy-economics-hands-on]] — Uma discussão de crítica à IA em cinco passos construída sobre um erro da IA (Beck & Brodersen 2025)
 - [[ccct-cooperative-learning-technique]] — Uma sequência testada de aprendizagem cooperativa com papéis atribuídos e galeria (Tutal 2026)
 - [[ai-assisted-seminar-learning-information-literacy-2026]] — Módulo de seminário e discussão entre pares com um recomendador de recuperação por IA (Huang 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — Ensaios colaborativos orientados a processo: iteração e colaboração avaliadas, com GenAI permitida dentro de limites (Alam & Jackson 2026)

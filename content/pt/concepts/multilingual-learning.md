@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: "Aprendizagem multilíngue"
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,10 @@ A IA multilíngue precisa ir além da tradução para refletir [[culturally-rele
 
 A translinguagem é um affordance que os [[conversational-ai|chatbots]] generativos acrescentam e que as ferramentas linguísticas anteriores não tinham. Em uma [[meta-analysis-systematic-review|revisão sistemática]] de 24 estudos, os aprendizes pediram frases e explicações contextualizadas na própria língua como ponte para a língua-alvo — um uso que os revisores classificam como um novo subaffordance, e não como algo reembalado ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
 
+O custo linguístico da introdução às ferramentas é mensurável: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] constataram que estudantes aprendizes de inglês passaram significativamente mais tempo em um tutorial andaimentado de construção de agentes do que falantes nativos, enquanto a tarefa de design aberta não mostrou diferença.
+
+O inglês domina mesmo onde quatro línguas estão em uso diário. Entre 42 estudantes em Curaçao e Aruba, dois terços nomearam o inglês como sua língua preferida para a IA, e apenas as sessões com o GPT se deslocaram para o papiamento à medida que a conversa se tornava local ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## Viés na avaliação
 
 As preocupações multilíngues também afetam a [[automated-assessment|avaliação automatizada]]: a [[ai-scoring-language-bias-physics|pontuação por IA pode exibir viés de língua]] (por exemplo, em [[physics-education|física]]), penalizando quem não fala a língua nativa. Garantir que ferramentas de avaliação sejam justas entre línguas faz parte da [[assessment-validity|validade da avaliação]].
@@ -99,3 +103,4 @@ O julgamento comparativo baseado em LLM é um caso em que o viés acompanhou a l
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: conjunto de dados de sistemas de conhecimento indiano
 - [[kutti-ai-voice-first-learning-companion]] — Companheiro de aprendizagem de voz primeiro
 - [[ai-scoring-language-bias-physics]] — Viés de língua na pontuação por IA em física
+- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Alternância de código quadrilíngue com IA conversacional em Curaçao e Aruba (Bush et al., 2026)

@@ -1,7 +1,7 @@
 ---
 title: Educação em STEM
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,16 +40,18 @@ ai_assist:
 
 ### STEM como domínio primário da AIED
 
+A seção de disciplinas organiza as páginas de áreas do conhecimento em quatro agrupamentos — [[humanities-education|humanas e artes]], [[social-sciences-education|ciências sociais]], STEM e as [[professions-education|profissões]] —, e STEM é o maior deles por larga margem, o que é, em si, um achado sobre onde a evidência de IA na educação se acumula.
+
 - **Matemática:** a pesquisa em [[math-education|educação matemática]] abrange o [[generative-ai-reduced-study-time-math|impacto da GenAI na aprendizagem de matemática]], a [[ai-powered-personalized-learning-elementary-fractions-2026|tutoria de frações no ensino fundamental]] e o [[student-math-competence-clustering|agrupamento de competências]].
 - **A evidência sobre STI em matemática é limitada e condicional.** Uma revisão narrativa estruturada de 20 publicações (2020–abril de 2026) encontrou a vantagem medida mais clara para o [[feedback]] diagnóstico em tempo real sobreposto ao mesmo sistema adaptativo, mas concluiu que a tutoria inteligente apoia a aprendizagem de matemática apenas quando [[student-modeling|modelagem do aprendiz]] válida, andaimento calibrado e mediação do professor se combinam, e que a escalabilidade é técnica, não educacional ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Física:** a [[physics-education|educação em física]] inclui [[becker-chatgpt-typology-physics-2026|estudos de tipologia do ChatGPT]], [[hashmi-socratic-physics-chatbot-2025|chatbots socráticos de física]] e [[ai-scoring-language-bias-physics|análise de viés de correção]].
 - **Ciência da computação:** a [[cs-education|educação em ciência da computação]] é o subcampo de STEM mais pesquisado — [[code-review-genai-cs1|revisão de código]], [[debugtracker-classroom-debugging|ferramentas de depuração]] e [[prompt-problems-nl-programming-mistakes|estudos de prompting]].
 - **Engenharia:** [[concept-catalyst-engineering-scaffolds|scaffolds de engenharia]], [[structured-ai-demonstrations-engineering-mechanics|demonstrações de mecânica]] e [[ai-engineering-education-balancing-act|equilíbrio curricular]] levam a IA à [[engineering-education|educação em engenharia]].
 - **Fazendo scaffolding da pesquisa de graduação:** [[ai-information-extraction-undergraduate-thesis-2026|An e colegas (2026)]] pilotam um sistema de IA que converte publicações de pesquisa em conjuntos de dados estruturados e comparáveis para a conclusão de teses de graduação em quatro escolas de STEM. Os resultados (20 estudantes, 80 documentos) mostraram >90% de extração de parâmetros experimentais, ~65% de redução no tempo de revisão de literatura e um aumento de 50% na capacidade dos estudantes de identificar variáveis experimentais influentes — evidência de como a [[generative-ai|pesquisa de graduação]] do [[higher-ed|ensino superior]] com scaffolding de IA pode fortalecer o letramento de pesquisa e a cognição epistêmica na educação em STEM.
-- **Instrução apoiada por simulação:** na educação em STEM baseada em drones,  de [[simulation|simulação]] codesenhados por [[teacher-role|professor]] e IA foram avaliados contra um [[curriculum-design|currículo]] prático idêntico com 30 estudantes do ensino médio, testando se a instrução apoiada por simulação produz [[learning-gains|resultados de aprendizagem]] superiores. O papel da GenAI foi acelerar a criação de conteúdo, enquanto o envolvimento do professor preservou a validade pedagógica e a relevância contextual.
+- **Instrução apoiada por simulação:** na educação em STEM baseada em drones, scaffolds de [[simulation|simulação]] codesenhados por [[teacher-role|professor]] e IA foram avaliados contra um [[curriculum-design|currículo]] prático idêntico com 30 estudantes do ensino médio, testando se a instrução apoiada por simulação produz [[learning-gains|resultados de aprendizagem]] superiores. O papel da GenAI foi acelerar a criação de conteúdo, enquanto o envolvimento do professor preservou a validade pedagógica e a relevância contextual.
 - **Os resultados favoreceram o grupo com andaimento.** O grupo de simulação superou o grupo prático em conhecimento de STEM alinhado ao currículo (M = 3,00 versus 2,06; t(28) = 2,23, p = 0,034, d = 0,82) e em competências do século XXI (d = 1,52) ([[simulation-assisted-drone-learning-stem-2026|Yeung et al. (2026)]]).
 - **Gêmeos digitais em STEM: os protótipos avançam mais que a aprendizagem medida.** Uma revisão PRISMA de 11 estudos do ensino superior descobriu que todos demonstraram um protótipo funcional e sincronizado com hardware, mas apenas três (27,3%) relataram ganhos de aprendizagem estatisticamente significativos, sendo a complexidade de desenvolvimento e a interação social reduzida as barreiras recorrentes ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al., 2026]]).
-- **Planejamento assistido por IA na [[arts-and-media-education|educação artística]] em STEAM:** um estudo experimental com professores de artes em STEAM para crianças ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo e Tahir 2025]]) descobriu que os planos de aula assistidos por ChatGPT superaram os gerados por professores em qualidade avaliada por especialistas (mediana 20,5 vs. 17,6, p = ,002, efeito grande, seis professores avaliadores), com os professores reportando ganhos em eficiência e integração interdisciplinar (61% avaliaram 4+). O resultado veio pelo método de delegação do professor — mais utilmente fazendo o ChatGPT preencher lacunas de conteúdo num plano auto-esboçado — reforçando o ponto recorrente de que a IA eleva o trabalho em STEM/STEAM quando o professor estrutura a tarefa e avalia criticamente a saída, em vez de entregar o plano inteiro ao modelo.
+- **Planejamento assistido por IA na [[arts-and-media-education|educação artística]] em STEAM:** um estudo experimental com professores de artes em STEAM para crianças ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo e Tahir 2025]]) descobriu que os planos de aula assistidos por ChatGPT superaram os gerados por professores em qualidade avaliada por especialistas (mediana 20,5 vs. 17,6, p = 0,002, efeito grande, seis professores avaliadores), com os professores reportando ganhos em eficiência e integração interdisciplinar (61% avaliaram 4+). O resultado veio pelo método de delegação do professor — mais utilmente fazendo o ChatGPT preencher lacunas de conteúdo num plano auto-esboçado — reforçando o ponto recorrente de que a IA eleva o trabalho em STEM/STEAM quando o professor estrutura a tarefa e avalia criticamente a saída, em vez de entregar o plano inteiro ao modelo.
 
 ### Quão eficaz é a instrução apoiada por IA em STEM, em conjunto
 
@@ -59,7 +61,7 @@ Uma revisão por área disciplinar de 18 estudos (2014–2024) aguça sobre o qu
 
 ### Por que STEM domina
 
-A representação estruturada do conhecimento de STEM, as respostas verificáveis e o alinhamento ao [[computational-thinking|pensamento computacional]] a tornam o encaixe mais natural para a tutoria por IA. A pesquisa em [[computational-thinking|pensamento computacional]] explora esse alinhamento explicitamente.
+A representação estruturada do conhecimento de STEM, as respostas verificáveis e o alinhamento ao pensamento computacional a tornam o encaixe mais natural para a tutoria por IA. A pesquisa em [[computational-thinking|pensamento computacional]] explora esse alinhamento explicitamente.
 
 ### Nova evidência da pesquisa de 2025–26 do IJ STEM Education
 
@@ -92,7 +94,7 @@ Um lote concentrado de estudos de 2026 da *International Journal of STEM Educati
 - [[cs-education]]
 - [[math-education]]
 - [[physics-education]]
-- 
+- [[computational-thinking]]
 - [[k-12]]
 - [[higher-ed]]
 - [[intelligent-tutoring]]

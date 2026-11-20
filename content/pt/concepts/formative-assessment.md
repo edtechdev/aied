@@ -1,7 +1,7 @@
 ---
 title: Avaliação formativa
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ Os sistemas de IA geram itens de avaliação formativa em múltiplas modalidades
 - **Correção automatizada de redações:** frameworks multiagente (por exemplo, o MASS) melhoram a consistência em relação a [[llm|LLMs]] isolados na [[automated-essay-scoring|correção de redações]], embora a [[explainable-ai|interpretabilidade]] das decisões de correção multiagente continue um desafio em aberto.
 - **Pipelines de pontuação formativa:** o [[cotal-formative-assessment-scoring-2026|CoTAL]] acopla o prompting Cadeia-de-Pensamento à [[active-learning|aprendizagem ativa]] e ao Desenho Centrado em Evidências para produzir pontuação generalizável de avaliação formativa com [[prompt-engineering|engenharia de prompts]] com humano no circuito.
 - **[[automated-assessment|Avaliações de alta frequência com correção automática]]:** as [[automated-formative-assessments-a-level-sciences|avaliações formativas automatizadas em ciências de nível A]] examinam o efeito da avaliação formativa de alta frequência com correção automática sobre os [[learning-gains|resultados de aprendizagem]]. Uma revisão de escopo da correção automática de respostas curtas em [[science-education|ciências]] (2017–início de 2024) confirma que esse caso de uso formativo de resposta curta é um campo com tração real: os modelos da família BERT dominaram a correção automática até 2021, antes de os [[llm|LLMs]] maiores serem usados via prompting a partir de ~2022, e os modelos com aumento de domínio, conscientes de rubrica e de cadeia-de-pensamento tiveram o melhor desempenho —, mas os apelos da revisão por avaliação abrangente e as lacunas não resolvidas de [[bias-mitigation|justiça]] e explicabilidade alertam contra estender tais sistemas ao uso [[summative-assessment|somativo]] ou de alto risco sem mediação ([[auto-marking-short-answer-science-2026]]).
+
+- **Um quiz gamificado pode ser apreciado sem ensinar.** Trinta e quatro estudantes de graduação em musicologia avaliaram um quiz adaptativo de IA com a nota mais baixa na comparação com a instrução tutorial tradicional (M = 2,74 de 5) e se dividiram em 21 a 13 sobre se o recomendariam, enquanto a recomendação acompanhou como o aplicativo era sentido ao usar (uso futuro 3,52 vs. 1,54), e não a compreensão do tópico (3,81 vs. 3,62, p = 0,420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 
 ## Feedback gerado por IA
 
@@ -198,6 +200,7 @@ A observabilidade pode ser desenhada sem vigilância: ela é a evidência que um
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Assistência de ensino adaptativa combinando IA generativa e analítica de big data na educação musical
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLMs por estudantes e os limites da dificuldade de questões geradas por IA em cursos de ciência de dados
 
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — Infraestrutura de avaliação contínua mediada por IA (AIM-CAI): conectando evidências de aprendizagem entre contextos e ao longo do tempo (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional por IA para ensinar ideias equivocadas com diálogo ancorado em evidência (Miranda & Calvani 2026)
 - [[assessment-feedback-trilemma-model-2026]] — Contrapartida positiva ao risco de vigilância: a observabilidade como desenho de evidência, não monitoramento
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — A recomendação de um quiz adaptativo pelos estudantes acompanhou como ele era sentido ao usar, e não a compreensão do tópico

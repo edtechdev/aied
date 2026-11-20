@@ -1,7 +1,7 @@
 ---
 title: "Treinamento e ajuste fino de LLM"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -113,6 +113,8 @@ A adaptação ensina um modelo *o que produzir*; o pós-treinamento o ensina *co
 
 **A qualidade da supervisão supera a quantidade de supervisão.** A progressão do SWIM para um [[simulation|simulador]] de escrita é a demonstração mais limpa. O prompting ancorado em rubrica deu controle de proficiência limitado (melhor traço médio QWK 0,577 para Claude Sonnet, 0,422 para GPT-5.4, perto de zero para um modelo aberto de 7B); o ajuste fino supervisionado elevou esse modelo de 7B a **0,474 ± 0,023**. O GRPO contra uma recompensa derivada de correção automatizada de redações o elevou ainda mais a **0,618 ± 0,005** ao longo de todo traço e prompt, com a recompensa desenhada como precisão densa normalizada por traço porque recompensas de correspondência exata são esparsas demais no cenário multitrato ([[swim-student-writing-simulation-2026]]). O estudo de modelagem de concepções errôneas chega a uma conclusão mais aguda sobre *o que* a supervisão precisa conter: modelos ajustados por instrução aprenderam concepções errôneas de álgebra apenas quando treinados em **rastros de solução no nível do passo**, com a precisão ficando **abaixo de 30% em todo tamanho de dados** quando treinados apenas em respostas finais. Seu papel de estudante generalizou em excesso o erro aprendido até que exemplos corretos fossem explicitamente misturados em razões tão baixas quanto **um em quatro**, enquanto o papel de tutor não mostrou tal custo, mantendo a precisão correta de **93% a 98%** ao longo de dez concepções errôneas treinadas conjuntamente ([[misconception-acquisition-dynamics-llms-2026]]).
 
+**O custo de treinamento pode ser reduzido sem abrir mão da precisão.** Descartar completions de GRPO de baixa vantagem a uma taxa de 0,5 reduziu o treinamento de 14,1 para 7,2 horas e elevou ligeiramente o F1, enquanto uma recompensa de posição escalonada por rank e passo de treinamento superou uma estática ([[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]]).
+
 Os dados de treinamento são eles próprios algo que modelos podem curar: o Edu-QuRating adapta a destilação de preferência à curadoria de dados educacionais, substituindo uma única nota "isto é educacional?" por 20 dimensões de rubrica que cobrem precisão factual, estrutura pedagógica e adequação de nível ([[garrod-edu-qurating-educational-data-curation-2026]]).
 
 **A teoria pode ser um andaime de treinamento.** Para agentes que automatizam o [[learning-design|desenho de sistemas instrucionais]], um híbrido dos frameworks clássicos ADDIE e Dick & Carey com raciocínio estilo ReAct superou tanto a teoria pura (estruturada, mas inflexível) quanto agentes apenas de técnica (flexíveis, mas sem ancoragem), ao longo de **25.795** cenários de uma matriz de contexto de 51 variáveis, com um protocolo multijuiz para reduzir o viés de LLM-como-juiz ([[jeon-isd-agent-bench-2026]]). E um estudo de *rótulos* de supervisão concluiu que atribuir a cada exemplo de treinamento um único comportamento-alvo — competência no assunto, ancoragem curricular, raciocínio diagnóstico ou [[scaffolding|andaimes]] — elevou toda escala de modelo testada, com os maiores ganhos em andaimes e em usar o histórico de quem aprende, enquanto o diagnóstico de estado de conhecimento permaneceu o mais fraco, em **54,04%** ([[omniedu-open-educational-foundation-models-2026]]).
@@ -122,6 +124,8 @@ Os dados de treinamento são eles próprios algo que modelos podem curar: o Edu-
 A mesma maquinaria é cada vez mais apontada para simular estudantes, o que muda a economia de avaliar um tutor: em vez de recrutar quem aprende, você o gera.
 
 A cautela é que estudantes simulados precisam ser validados como qualquer outro instrumento. Usar como referência modelos ajustados e instruídos sobre **382 diálogos retidos** do maior corpus público de diálogos reais de matemática estudante–tutor — ao longo de sete métricas abrangendo aspectos linguísticos, comportamentais e cognitivos — produziu o teste mais direto do campo sobre se estudantes simulados se comportam como estudantes ([[simulated-students-tutoring-dialogues-2026]]). Duas abordagens adicionais pressionam a fidelidade: o INSIDE ajusta LLMs para tanto *agir* quanto *pensar* como estudantes, gerando diálogo interno ancorado na Taxonomia de Bloom ao longo de dimensões cognitivas, afetivas e de ação, e treinando sobre pares de rastros-de-pensamento e ações ([[inside-llm-student-simulator-reasoning-2026]]), e perfis cientes de histórico condicionam a simulação à trajetória prévia de um estudante, em vez de a uma persona estática ([[history-aware-student-simulation]]). Para um desenvolvedor, a lição prática é que um simulador é um instrumento de medição e herda toda questão de validade que isso implica.
+
+A desaprendizagem de 16 componentes de conhecimento de Python do Mistral-7B derruba a precisão para um nível-alvo, e o reaprendizado guiado por coach a recupera, dando a um simulador um estado de conhecimento ajustável em vez de uma persona instruída por prompt ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin (2026)]]).
 
 ## O que dá errado
 

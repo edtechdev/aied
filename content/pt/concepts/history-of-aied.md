@@ -1,14 +1,14 @@
 ---
 title: História da IA na Educação
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,16 +74,6 @@ A chegada da [[generative-ai|IA generativa]] — uma família ampla que inclui [
 - **Pese o controle contra a agência deliberadamente.** Se a IA deve otimizar rumo a resultados padrão ou habilitar resultados diversos e dirigidos pelo aprendiz é uma escolha genuína, com consequências institucionais e políticas, não um dado técnico.
 - **Preserve a agência do aprendiz.** A resistência recorrente à padronização e ao controle em favor de abordagens abertas e centradas no aprendiz é um fio durável que vale defender.
 
-## Ideias equivocadas comuns
-
-**"A IA na educação começou com o ChatGPT."** Não começou, e a crença é custosa porque torna invisível toda lição anterior. A [[intelligent-tutoring|tutoria inteligente]] descende do trabalho de busca heurística e sistemas especialistas dos anos 1960 e 70, e a comunidade AIED se formou em torno dela décadas antes dos [[llm|grandes modelos de linguagem]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] mostram os debates atuais reproduzindo uma divisão já explícita nos tutores cognitivos de Anderson e no construcionismo de Papert, de modo que um leitor que data o campo em 2022 vai rederivar argumentos que o campo já resolveu, abandonou ou perdeu uma vez.
-
-**"O campo abandonou progressivamente a IA-como-analogia em favor de ferramentas aplicadas, e a IA generativa continua essa tendência."** Esta é a correção mais instrutiva da página, porque a trajetória é real, mas não monotônica. A análise posicional de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian e Doroudi]] sobre AIED 1985, 1993, 2021 e 2024 e IJAIED 2004, 2014 e 2021 mostra de fato uma deriva de um campo misto rumo a uma instrumentalidade aplicada quase exclusiva por volta dos anos 2000. Mas na AIED 2024, três dos quatro artigos no quadrante IA-como-analogia eram baseados em LLM, incluindo o trabalho de melhor artigo sobre agentes ensináveis baseados em LLM. A IA generativa **reverte** parcialmente a tendência em vez de estendê-la, e é por isso que tratá-la como "o próximo tutor inteligente" lê mal para onde a fronteira de pesquisa de fato se moveu.
-
-**"Personalização significa adaptar a dificuldade a cada aprendiz."** Esse é apenas um dos dois sentidos incompatíveis, e confundi-los esconde uma escolha política. No primeiro sentido, o resultado é mantido fixo e apenas o caminho varia, linhagem que vai das máquinas de ensino de Skinner à tutoria baseada no domínio. No segundo, os próprios resultados se diversificam, à medida que os aprendizes perseguem interesses individuais irrestritos pelo currículo padrão (Zhao, 2024). Um [[intelligent-tutoring|ITS]] implementa o primeiro; o [[constructivist|construcionismo]], o segundo. Uma ferramenta descrita como "personalizada" não lhe disse nada até você saber qual dos dois ela significa.
-
-**"'Inteligência artificial' era simplesmente o nome óbvio para o campo."** O termo foi uma escolha deliberada. Quando McCarthy planejou o projeto de Dartmouth de 1956, ele preferiu *inteligência artificial* a *cibernética* em parte para distanciar o trabalho da tradição de feedback analógico de Wiener. Essa única decisão enquadrou as máquinas em comparação direta com a cognição humana, e o enquadramento antropomórfico que ela instalou ainda molda prioridades de pesquisa, linguagem de produto e as questões éticas que o público faz.
-
 ## O que isso significa na prática
 
 **Para instrutores e designers instrucionais**
@@ -102,6 +92,16 @@ A chegada da [[generative-ai|IA generativa]] — uma família ampla que inclui [
 - Use os corpora históricos como linha de base em vez de tratar o presente como a única comparação disponível. Os anais da AIED de 1985, 1993, 2021 e 2024 e da IJAIED de 2004, 2014 e 2021 são uma amostra longitudinal pronta das próprias afirmações do campo.
 - Cite a linhagem quando reivindicar novidade. A afirmação de que um sistema "personaliza a aprendizagem" ou "modela o aprendiz" só é nova em relação a uma tradição anterior específica, e a tradição está documentada.
 
+## Ideias equivocadas comuns
+
+**"A IA na educação começou com o ChatGPT."** Não começou, e a crença é custosa porque torna invisível toda lição anterior. A [[intelligent-tutoring|tutoria inteligente]] descende do trabalho de busca heurística e sistemas especialistas dos anos 1960 e 70, e a comunidade AIED se formou em torno dela décadas antes dos [[llm|grandes modelos de linguagem]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] mostram os debates atuais reproduzindo uma divisão já explícita nos tutores cognitivos de Anderson e no construcionismo de Papert, de modo que um leitor que data o campo em 2022 vai rederivar argumentos que o campo já resolveu, abandonou ou perdeu uma vez.
+
+**"O campo abandonou progressivamente a IA-como-analogia em favor de ferramentas aplicadas, e a IA generativa continua essa tendência."** Esta é a correção mais instrutiva da página, porque a trajetória é real, mas não monotônica. A análise posicional de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian e Doroudi]] sobre AIED 1985, 1993, 2021 e 2024 e IJAIED 2004, 2014 e 2021 mostra de fato uma deriva de um campo misto rumo a uma instrumentalidade aplicada quase exclusiva por volta dos anos 2000. Mas na AIED 2024, três dos quatro artigos no quadrante IA-como-analogia eram baseados em LLM, incluindo o trabalho de melhor artigo sobre agentes ensináveis baseados em LLM. A IA generativa **reverte** parcialmente a tendência em vez de estendê-la, e é por isso que tratá-la como "o próximo tutor inteligente" lê mal para onde a fronteira de pesquisa de fato se moveu.
+
+**"Personalização significa adaptar a dificuldade a cada aprendiz."** Esse é apenas um dos dois sentidos incompatíveis, e confundi-los esconde uma escolha política. No primeiro sentido, o resultado é mantido fixo e apenas o caminho varia, linhagem que vai das máquinas de ensino de Skinner à tutoria baseada no domínio. No segundo, os próprios resultados se diversificam, à medida que os aprendizes perseguem interesses individuais irrestritos pelo currículo padrão (Zhao, 2024). Um [[intelligent-tutoring|ITS]] implementa o primeiro; o [[constructivist|construcionismo]], o segundo. Uma ferramenta descrita como "personalizada" não lhe disse nada até você saber qual dos dois ela significa.
+
+**"'Inteligência artificial' era simplesmente o nome óbvio para o campo."** O termo foi uma escolha deliberada. Quando McCarthy planejou o projeto de Dartmouth de 1956, ele preferiu *inteligência artificial* a *cibernética* em parte para distanciar o trabalho da tradição de feedback analógico de Wiener. Essa única decisão enquadrou as máquinas em comparação direta com a cognição humana, e o enquadramento antropomórfico que ela instalou ainda molda prioridades de pesquisa, linguagem de produto e as questões éticas que o público faz.
+
 ## Conceitos conectados
 
 - [[ai-education]]
@@ -119,12 +119,12 @@ A chegada da [[generative-ai|IA generativa]] — uma família ampla que inclui [
 
 ## Artigos conectados
 
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
+- [[mishra-control-vs-agency-history-2025]] — Controle vs. agência: explorando a história da IA na educação
+- [[prezenski-human-centered-ai-aided-learning]] — Aprendizagem assistida por IA centrada no humano (dialoga com o legado de Anderson)
+- [[cognitive-commons-ai-expertise-regeneration]] — Commons cognitivos e expertise em IA (enquadramento histórico)
+- [[programming-its]] — Programação de sistemas de tutoria inteligente
+- [[lak2026-hint-button-unproductive-use]] — Revisitando o botão de dica nos tutores cognitivos
+- [[socrates-students-instructors-llms-lbt-2025]] — Aprender ensinando com LLMs (linhagem do construcionismo de Papert)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
 
 - [[wu-fifty-years-ai-reach-computers-education-2026]] — Cinquenta anos de tópicos da Computers & Education: a prevalência de IA virou para cima depois de 2018, quatro anos antes do ChatGPT

@@ -1,7 +1,7 @@
 ---
 title: Autonomia de quem aprende
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ A direção do percurso não é fixa. [[gillette-partnership-ethics-genai-higher
 - **A autonomia epistêmica compartilhada se estende à interação estudante–GAI.** Um esquema de 14 categorias que codificou 6.788 turnos assistidos pelo ChatGPT colocou 59% dos turnos de estudantes do sétimo ano na autonomia epistêmica compartilhada, e os autores argumentam que o construto — antes estudado sobretudo na colaboração entre pares — precisa se ampliar para incluir dimensões cognitivas e metacognitivas ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang et al., 2026]]).
 
 - **A autonomia pode ser graduada a partir do próprio prompt.** A Taxonomia de Profundidade da Agência Humana pontua a contribuição de engenharia de um estudante em seis níveis, independentemente da saída da IA; ao longo de 962 prompts de 105 estudantes de engenharia de software do primeiro ano, 84,2% superaram o nível mais baixo, mas apenas 5,3% especificaram restrições de sistema ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba & Chaffey, 2026]]).
+**A individualização aloca sobretudo escolha, não autoria.** Em 61 estudos distribuídos por 63 relatos, o controle dirigido por quem aprende foi codificado em 46 (75,4%) — os estudantes escolhiam momento, foco, prompts ou ritmo —, enquanto sistemas feitos sob medida ou personalizados para o curso apareceram em dez (16,4%), a personalização adaptativa dirigida pelo sistema em cinco (8,2%) e a diferenciação desenhada pelo educador em um. Com essa evidência, a aprendizagem "personalizada" usualmente significa navegar dentro de um espaço que outra pessoa desenhou, o que é autonomia como seleção, e não autonomia sobre as condições. A revisão também alerta contra ler frequência como magnitude: a presença de um tema em 39 estudos nada diz sobre quão grande ou consistente foi seu efeito ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
+
 - **[[student-engagement|Engajamento]] crítico:** a pesquisa sobre [[cognitive-offloading|descarregamento cognitivo]] mostra como estudantes que delegam a interpretação à IA podem perder autonomia sobre o próprio raciocínio; as abordagens críticas e [[metacognition|metacognitivas]] visam protegê-la.
 
 **Medido em dez modelos, apoiar a autonomia é onde eles se saem pior, depois da aprendizagem.** O ImpactBench mediu Autonomia e Propósito em 56,0% nos critérios positivos (IC 95% [49,2; 62,5]) e 43,9% nos negativos ([36,9; 50,8]), o segundo mais baixo entre 14 subáreas, e seus critérios de assistência que preserva a autonomia perguntam se um modelo oferece contexto e trade-offs em vez de prescrever um curso de ação ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Os modelos também foram muito menos consistentes em evitar dano do que em ser úteis: uma dispersão de 38,6 pontos contra 15,9.

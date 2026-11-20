@@ -1,7 +1,7 @@
 ---
 title: Limitações na Pesquisa em AIEd
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,9 @@ A página de [[research-methods-aied|métodos de pesquisa]] da base de conhecime
 - **Padronizar dentro de cada conjunto de dados pode esconder uma declaração equivocada de dispersão.** Quando coortes educacionais sintéticas foram padronizadas por sua própria dispersão, o fato de que sua estrutura semanal variava 2,6 a 4,9 vezes menos que a das coortes reais tornou-se invisível às estatísticas relatadas — pré-processamento rotineiro, nas palavras dos autores, e não uma preocupação hipotética ([[synthetic-educational-data-structural-fidelity-2026|Inoue e Yasutake, 2026]]).
 - **Rótulos gerados por modelo não são verdade de base.** Onde os rótulos que treinam ou avaliam um sistema são eles próprios produzidos por modelos de linguagem, a concordância entre anotadores não pode estabelecer validade: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] nunca validaram suas anotações de asserção contra rótulos ouro humanos, e os 49 classificadores de encoder que eles liberam herdam essa procedência e podem não ser válidos onde as aplicações diferem em dimensões significativas. Seu schema também teve desempenho estritamente inferior ao classificador ajustado treinado em dados anotados por especialistas (macro-F1 0,673 contra 0,76), deixando os corpora rotulados por especialistas como algo que vale a pena quando alta confiança é exigida.
 - **A própria base de evidências é distribuída de forma desigual.** Uma revisão de escopo de 407 estudos de [[formative-assessment|avaliação formativa]] apoiada por tecnologia recorreu apenas à Web of Science e à Scopus. Ela também excluiu 61 registros por critérios de idioma, de modo que o desequilíbrio geográfico que o campo relata pode refletir em parte quais veículos estão indexados ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **O desenho de três condições está ausente.** Entre doze estudos de GenAI revisados, nenhum mediu o desempenho assistido junto com um teste imediato e um teste tardio sem IA com exclusão verificada, de modo que os ganhos assistidos nunca são vinculados à retenção ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Viabilidade é uma classe de resultado, não um prefácio.** Um piloto de duas coortes de um paciente simulado por IA recrutou 19 de 72 estudantes convidados (26%), completou todos os encontros e questionários (100%) e não encerrou nenhuma sessão por falha técnica — resultados reais, mas os resultados de viabilidade e aceitabilidade foram definidos após a coleta e nenhum critério de progressão foi pré-especificado ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Uma taxa de conclusão só é informativa contra critérios fixados de antemão; caso contrário, "rodou" e "funcionou" são a mesma frase.
 
 ## O problema da velocidade: a IA evolui mais rápido do que os achados
 
@@ -120,6 +123,8 @@ Duas práticas específicas de reporte inflam ou distorcem uma síntese, e ambas
 
 **E a taxa-base é o número que ninguém declara.** Os limites metodológicos aqui são mensuráveis, e não impressionistas: em uma revisão crítica de 80 estudos de HCI sobre pensamento crítico com IA, **42 (52%) não rodaram nenhum grupo de controle** e a maior parte do resto se apoiou em autorrelato. Quando mais da metade dos achados positivos de um campo vem de designs que não conseguem separar o efeito da IA da atividade ordinária, o prior apropriado sobre qualquer achado isolado é ceticismo, e não aceitação provisória.
 
+Uma consequência prática desses limites é que várias práticas educacionais amplamente utilizadas repousam sobre evidências que não conseguem sustentá-las; [[what-not-to-do-ai-education|o que os educadores devem evitar fazer com IA]] reúne essas práticas por papel e nomeia o limite específico por trás de cada cautela.
+
 ## Ideias equivocadas comuns
 
 - **"Seções de limitações são texto de praxe."** Os limites metodológicos são **mensuráveis, e não impressionistas**: em uma revisão crítica de **80 estudos de HCI** sobre pensamento crítico com IA, **42 (52%) não rodaram nenhum grupo de controle**. Uma contagem precisa é o que torna o limite acionável.
@@ -142,30 +147,31 @@ Duas práticas específicas de reporte inflam ou distorcem uma síntese, e ambas
 - [[llm]]
 - [[generative-ai]]
 - [[cognitive-offloading]]
-- [[theory-development-aied]] — Theory Development in AI in Education
+- [[theory-development-aied]] — Desenvolvimento de teoria em IA na educação
 
 ## Artigos conectados
 
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
-- [[ground-truth-reliability-aied]] — Reliability and validity of ground truth in evaluation
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
-- [[machines-misread-pedagogical-quality]] — Why machines misread pedagogical quality
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and theory use
-- [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy and question classification
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: publication-bias-adjusted AI effects ~1/3 of reported size
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews
-- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inclusion criteria used as the rigor threshold, and a heterogeneity figure that changes with the model (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — A cluster-randomized classroom trial whose performance outcome did not reach significance (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review of 195 teacher-education studies where search-string design shapes the reported frequencies
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national K-12 teacher survey: machine-translated items, single-item concern measures, no invariance testing
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematic review of 103 GenAI higher-education studies: 56% conditional gains, grades masking process change (Hawi & Samaha 2026)
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbots de IA no ensino superior: comparando expectativas com a evidência (Thoeni & Fryer 2026)
+- [[ground-truth-reliability-aied]] — Confiabilidade e validade da verdade de solo na avaliação
+- [[ai-literacy-assessment-misalignment]] — Letramento em IA autorrelatado versus baseado em desempenho
+- [[machines-misread-pedagogical-quality]] — Por que as máquinas leem mal a qualidade pedagógica
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Limites críticos dos tutores de IA e do uso de teoria
+- [[cross-dataset-bloom-question-classification]] — Taxonomia de Bloom e classificação de questões
+- [[eeg-familiarity-automated-assessment-2026]] — Automatizando a avaliação do aprendiz: previsão de familiaridade baseada em EEG
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT na educação: um efeito em busca de uma causa (crítica da comparação de mídias)
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-análise: efeitos da IA ajustados pelo viés de publicação com ~1/3 do tamanho relatado
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumidamente eficaz: auditoria forense de 14 meta-análises de AIED
+- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: um framework empírico de relato para revisões sistemáticas assistidas por IA
+- [[frontier-models-physics-benchmark-audit-2026]] — Quão bons são os modelos de fronteira em física? A recorregação por especialistas revela avaliações defeituosas e quase saturação dos principais benchmarks
+- [[ai-supported-instruction-stem-meta-analysis-2026]] — Critérios de inclusão usados como limiar de rigor, e um valor de heterogeneidade que muda com o modelo (Doğan et al. 2026)
+- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Um ensaio randomizado por clusters em sala de aula cujo desfecho de desempenho não alcançou significância (Rücker & Becker-Genschow 2025)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: a tutoria por IA e a tutoria humana produzem ganhos de aprendizagem equivalentes no GRE
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Avaliando o foco do feedback e a adaptatividade pedagógica em feedback gerado por LLM sobre a escrita de estudantes
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas baseados em asserções para codificação auditável de diálogos educacionais
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Da classificação de sentimento ao feedback acionável e responsável: uma revisão de escopo e um mapa de evidências de NLP na avaliação do ensino por estudantes, 2015–2026
+- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade não capturam: uma verificação estrutural de dados educacionais sintéticos
+- [[digital-competence-ai-responsive-pedagogy-2026]] — Revisão de escopo de 195 estudos de formação de professores em que o desenho da string de busca molda as frequências relatadas
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Survey transnacional com professores do K-12: itens traduzidos por máquina, medidas de preocupação de item único, sem teste de invariância
+- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Revisão sistemática de 103 estudos de GenAI no ensino superior: 56% de ganhos condicionais, notas mascarando a mudança de processo (Hawi & Samaha 2026)
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — O aumento de dados pode fabricar a métrica principal
+- [[tischkau-ai-simulated-patient-formats-2026]] — Viabilidade como sua própria classe de resultado: 26% de recrutamento, 100% de conclusão, resultados definidos após a coleta

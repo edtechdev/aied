@@ -1,7 +1,7 @@
 ---
 title: "Bibliotecários"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,7 +12,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Bibliotecários** — os profissionais de biblioteca e informação que ensinam letramento informacional, atendem consultas de pesquisa, constroem acervos e sistemas de descoberta, e cada vez mais atuam como a contraparte humana das ferramentas de busca e recomendação por IA. Na pesquisa da base de conhecimento, eles aparecem como as pessoas que resolvem a questão de credibilidade que um modelo não consegue assentar — se uma patente, uma norma técnica ou um relatório setorial merece crédito — e como parceiros no codesenho de cursos e políticas. Seu lugar na [[ai-education|IA na educação]] é portanto duplo: como educadores que ensinam avaliação de fontes e estratégia de busca, e como a [[human-in-the-loop-ai|camada humana]] dentro de sistemas construídos em torno da recuperação por IA.
+> **Bibliotecários** — os profissionais de biblioteca e informação que ensinam letramento informacional, atendem consultas de pesquisa, constroem acervos e sistemas de descoberta, e cada vez mais atuam como a contraparte humana das ferramentas de busca e recomendação por IA. Na pesquisa, eles aparecem como as pessoas que resolvem a questão de credibilidade que um modelo não consegue assentar — se uma patente, uma norma técnica ou um relatório setorial merece crédito — e como parceiros no codesenho de cursos e políticas. Seu lugar na [[ai-education|IA na educação]] é portanto duplo: como educadores que ensinam avaliação de fontes e estratégia de busca, e como a [[human-in-the-loop-ai|camada humana]] dentro de sistemas construídos em torno da recuperação por IA.
 
 ## Perguntas para refletir
 
@@ -39,19 +39,19 @@ ai_assist:
 
 ## Introdução
 
-Bibliotecários são os profissionais que se situam entre a questão de um estudante e o registro acadêmico: bibliotecários de referência e de ligação, especialistas de assunto, bibliotecários que ensinam letramento informacional, e a equipe que gerencia acervos e repositórios. Na [[ai-education|IA na educação]], eles são nomeados muito menos frequentemente que [[teacher-role|professores]] e [[administrator|administradores]], mas o corpus lhes dá um papel específico e testável. Eles são a resposta humana ao problema de credibilidade que a [[generative-ai|IA generativa]] cria, os instrutores que ensinam [[evaluative-judgment|julgamento avaliativo]] e estratégia de busca em vez de meramente fornecer fontes, e — no caso mais forte da base de conhecimento — um componente desenhado de um sistema de IA, e não um serviço ao lado dele.
+Bibliotecários são os profissionais que se situam entre a questão de um estudante e o registro acadêmico: bibliotecários de referência e de ligação, especialistas de assunto, bibliotecários que ensinam letramento informacional, e a equipe que gerencia acervos e repositórios. Na [[ai-education|IA na educação]], eles são nomeados muito menos frequentemente que [[teacher-role|professores]] e [[administrator|administradores]], mas sustentam um papel específico e testável. Como resposta humana ao problema de credibilidade que a [[generative-ai|IA generativa]] cria, eles ensinam [[information-and-media-literacy|letramento informacional]] e [[evaluative-judgment|julgamento avaliativo]] em vez de meramente fornecer fontes; a instrução nisso depende deles e, no caso mais forte, eles são um componente desenhado de um sistema de IA, e não um serviço ao lado dele.
 
-Esta página trata o papel como distinto de seus vizinhos. Os [[educational-technology-developers]] constroem os sistemas de recuperação e recomendação; os bibliotecários decidem o que esses sistemas não deveriam ter permissão de concluir. O [[academic-integrity|integridade acadêmica]] enquadra o uso de IA como autoria e revelação; o enquadramento do bibliotecário — atribuição, proveniência, acesso — é adjacente, mas mais concreto.
+O papel é distinto de seus vizinhos. Os [[educational-technology-developers|desenvolvedores de tecnologia educacional]] constroem os sistemas de recuperação e recomendação; os bibliotecários decidem o que esses sistemas não deveriam ter permissão de concluir. A [[academic-integrity|integridade acadêmica]] enquadra o uso de IA como autoria e revelação; o enquadramento do bibliotecário — atribuição, proveniência, acesso — é adjacente, mas mais concreto.
 
 ## Letramento informacional como instrução, não apenas como assistência
 
-A evidência mais detalhada da base de conhecimento sobre esse papel vem da [[ai-assisted-seminar-learning-information-literacy-2026|plataforma de seminário com bibliotecário embutido de Huang]], construída para equipes de pesquisa em engenharia num quase-experimento com 60 estudantes em três programas ao longo de oito semanas (30 na plataforma integrada, 30 em instrução bibliotecária convencional). O grupo integrado ganhou 0,78 pontos num instrumento de letramento informacional baseado na ACRL de cinco pontos, contra 0,25 dos controles, com os maiores ganhos intragrupo em habilidades de busca (+0,87) e avaliação de fontes (+0,83), seguidos por síntese de informação (+0,73) e consciência de uso ético (+0,70). Notavelmente, os itens baseados em desempenho isoladamente ainda produziram efeitos grandes, de modo que os ganhos não são puramente de confiança. O que foi ensinado se mapeia no trabalho de biblioteca: formação de estratégia de busca, avaliação de fontes, citação e navegação de repositório — as quatro categorias que depois dominaram os registros de consulta.
+A evidência mais detalhada sobre esse papel vem da [[ai-assisted-seminar-learning-information-literacy-2026|plataforma de seminário com bibliotecário embutido de Huang]], construída para equipes de pesquisa em engenharia num quase-experimento com 60 estudantes em três programas ao longo de oito semanas (30 na plataforma integrada, 30 em instrução bibliotecária convencional). O grupo integrado ganhou 0,78 pontos num instrumento de letramento informacional baseado na ACRL de cinco pontos, contra 0,25 dos controles, com os maiores ganhos intragrupo em habilidades de busca (+0,87) e avaliação de fontes (+0,83), seguidos por síntese de informação (+0,73) e consciência de uso ético (+0,70). Notavelmente, os itens baseados em desempenho isoladamente ainda produziram efeitos grandes, de modo que os ganhos não são puramente de confiança. O que foi ensinado se mapeia no trabalho de biblioteca: formação de estratégia de busca, avaliação de fontes, citação e navegação de repositório — as quatro categorias que depois dominaram os registros de consulta.
 
-O corpus mais amplo acrescenta uma questão de dotação de pessoal e de formato de entrega. O [[genai-academic-search-workshop|relatório do workshop CHIIR 2026]] descreve um [[curriculum-design|currículo]] de letramento digital de 15 semanas construído por um bibliotecário com base num levantamento de 2.076 estudantes e 101 bibliotecários, e registra o julgamento dos apresentadores de que workshops de sessão única deixam os estudantes com uma fundação mal compreendida; o mesmo relatório contabiliza o alcance instrucional de um bibliotecário em aproximadamente 1.700 calouros.
+A literatura mais ampla acrescenta uma questão de dotação de pessoal e de formato de entrega. O [[genai-academic-search-workshop|relatório do workshop CHIIR 2026]] descreve um [[curriculum-design|currículo]] de letramento digital de 15 semanas construído por um bibliotecário com base num levantamento de 2.076 estudantes e 101 bibliotecários, e registra o julgamento dos apresentadores de que workshops de sessão única deixam os estudantes com uma fundação mal compreendida; o mesmo relatório contabiliza o alcance instrucional de um bibliotecário em aproximadamente 1.700 calouros.
 
 ## Onde a IA era mais fraca, o bibliotecário carregou o peso
 
-A plataforma de seminário dividiu o trabalho deliberadamente: algoritmos cuidavam da recuperação em escala, humanos cuidavam da avaliação sob incerteza — e os registros mostram a divisão funcionando. Ao longo de 312 consultas (10,4 por participante), avaliação e qualidade de fontes responderam por 38,5%, formação de estratégia de busca 29,2%, gestão de citações 18,6% e navegação de repositório 13,7%, e 73,4% foram respondidas dentro de seis horas. Os autores conectam isso diretamente ao desempenho do modelo: o [[recommender-systems-and-learning-paths|motor de recomendação]] alcançou precisão 0,68 e revocação 0,61, acima de uma baseline booleana de palavras-chave (0,52 e 0,48), mas ainda insuficiente para julgamentos de credibilidade sobre patentes e normas, e o tratamento de consultas em linguagem natural respondeu corretamente 72,8% das consultas específicas de engenharia. A satisfação seguiu a mesma ordem — assistência do bibliotecário mais alta a 4,3 de 5,0, à frente de recomendações (4,1), consultas (3,9), seminários (3,8), trilhas de aprendizagem (3,6) e [[knowledge-graph|grafo de conhecimento]] (3,4) — e as entrevistas registraram 21 de 30 estudantes citando confiança na presença dos bibliotecários. O uso foi heterogêneo — 11 de 30 se apoiavam na IA, 8 nos bibliotecários e 11 usavam ambos.
+A plataforma de seminário dividiu o trabalho deliberadamente: algoritmos cuidavam da recuperação em escala, humanos cuidavam da avaliação sob incerteza. Os registros mostram que o trabalho se concentrou onde o julgamento era necessário: avaliação e apoio à busca compuseram a maior parte da carga de casos, e 73,4% das solicitações foram respondidas dentro de seis horas. Os autores conectam isso diretamente ao desempenho do modelo: o [[recommender-systems-and-learning-paths|motor de recomendação]] alcançou precisão 0,68 e revocação 0,61, acima de uma baseline booleana de palavras-chave (0,52 e 0,48), mas ainda insuficiente para julgamentos de credibilidade sobre patentes e normas, e o tratamento de consultas em linguagem natural respondeu corretamente 72,8% das consultas específicas de engenharia. A satisfação seguiu a mesma ordem — assistência do bibliotecário mais alta a 4,3 de 5,0, à frente de recomendações (4,1), consultas (3,9), seminários (3,8), trilhas de aprendizagem (3,6) e [[knowledge-graph|grafo de conhecimento]] (3,4) — e as entrevistas registraram 21 de 30 estudantes citando confiança na presença dos bibliotecários. O uso foi heterogêneo — 11 de 30 se apoiavam na IA, 8 nos bibliotecários e 11 usavam ambos.
 
 A tensão corta dos dois lados. Os casos que a IA lidou pior eram questões de credibilidade, e os próprios autores da plataforma concluem que manter um especialista humano no ponto de decisão de credibilidade é a lição prática. Mas o estudo é de local único e não randomizado, seus três componentes nunca foram isolados, e os autores chamam os resultados de \"meramente preliminares\", notando que a persistência após a retirada do apoio do bibliotecário nunca foi testada. Se a camada humana foi a causa dos ganhos ou a rede de segurança em torno de um recomendador de precisão 0,68 permanece em aberto.
 
@@ -71,7 +71,7 @@ Duas vertentes mais estabelecem os limites do papel. O [[pearls-epistemic-verifi
 
 ## Ideias equivocadas comuns
 
-**"Os bibliotecários são periféricos à IA na educação."** Eles ocupam um papel específico e testável, e o corpus o mede. Ao longo de **312 consultas (10,4 por participante)**, avaliação e qualidade de fontes responderam por **38,5%**, formação de estratégia de busca **29,2%**, gestão de citações **18,6%** e navegação de repositório **13,7%** — e **73,4% foram respondidas dentro de seis horas**. Isso não é um serviço periférico; é a função de letramento informacional carregando o peso que a IA não conseguiu.
+**"Os bibliotecários são periféricos à IA na educação."** Eles ocupam um papel específico e testável, e a evidência o mede. Ao longo de **312 consultas (10,4 por participante)**, avaliação e qualidade de fontes responderam por **38,5%**, formação de estratégia de busca **29,2%**, gestão de citações **18,6%** e navegação de repositório **13,7%** — e **73,4% foram respondidas dentro de seis horas**. Isso não é um serviço periférico; é a função de letramento informacional carregando o peso que a IA não conseguiu.
 
 **"A busca por IA responde às perguntas que os estudantes costumavam levar a um bibliotecário."** No estudo do bibliotecário embutido, **questões de avaliação de fontes dominaram as consultas (38,5%) justamente nos casos em que a IA estava menos confiante**. A incerteza da ferramenta encaminhava o trabalho para a capacidade humana que poderia resolvê-lo, o que torna o padrão observado uma divisão de trabalho, e não uma obsolescência.
 
@@ -82,6 +82,8 @@ Duas vertentes mais estabelecem os limites do papel. O [[pearls-epistemic-verifi
 ## Conceitos conectados
 
 - [[ai-literacy]]
+- [[information-and-media-literacy]]
+- [[libraries]]
 - [[evaluative-judgment]]
 - [[critical-thinking]]
 - [[academic-integrity]]

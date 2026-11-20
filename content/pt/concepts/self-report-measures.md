@@ -1,7 +1,7 @@
 ---
 title: "Medidas de autorrelato"
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-08T12:22:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -114,7 +114,13 @@ A satisfação é o desfecho autorrelatado mais frequente neste corpus, aparecen
 - O [[preferred-scaffolding-ai-mathematical-modeling|estudo de andaime]] argumenta que utilidade percebida, facilidade de uso e satisfação imediata não deveriam ser tratados como indicadores suficientes da eficácia do [[scaffolding|andaime]].
 - O [[nie-personavlm-long-term-personalization-2026|trabalho sobre modelagem de estudantes alinhada à personalidade]] observa que otimizar para a satisfação do usuário não é o mesmo que otimizar para resultados de aprendizagem, e que os dois podem se separar.
 
+- [[kares-xai-evaluation-alignment-2027|Um estudo de XAI pré-registrado (Kares et al., 2027)]] comparou três métodos de explicação com 166 participantes e constatou que as avaliações de satisfação (3,98; 3,92; 3,87) e de confiança eram estatisticamente indistinguíveis, enquanto uma medida de tarefa separou os métodos e uma métrica matemática os ranqueou de forma oposta. A avaliação não deu sinal onde a medida de capacidade deu.
+
 O padrão que vale carregar: a satisfação é responsiva às coisas erradas quando a aprendizagem é a meta. Um sistema que responde rápido, concorda prontamente e reduz o esforço será avaliado positivamente, e essas mesmas propriedades são as que a base de conhecimento associa à [[desirable-difficulties|luta produtiva]] reduzida e ao desempenho inflado em trabalho assistido por IA. Satisfação relatada e aprendizagem medida não são inimigas; elas simplesmente não são substitutas, e tratar a primeira como evidência da segunda é o deslize mais comum que esta página documenta.
+
+O caso within-subject mais limpo da literatura mediu ambas as quantidades nos mesmos estudantes. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] pesquisaram estudantes de estatística para negócios e economia ao longo de dois semestres enquanto integravam um prompt de tutor, revisão de prova gerada por IA, exames orais estruturados por IA e brainstorming de temas assistido por IA. A frequência autorrelatada de uso do ChatGPT subiu de 2,987 para 4,375 em uma escala de 1 a 7 (p < 0,001), a confiança de 3,663 para 4,000 (p = 0,004), e o engajamento percebido de 2,433 para 2,65 em uma escala de 1 a 3 (p = 0,006) — uma história coerente de estudantes que usaram mais a ferramenta e acreditaram que ela ajudou.
+
+As notas de prova contaram uma história diferente: a frequência de uso não foi associada ao desempenho no modelo simples (−5,577, EP 5,566) e foi negativamente associada no modelo completo (−13,918, EP 7,834, p = 0,076). Os autores não tratam o nulo como prova de dano, já que estudantes com dificuldades podem usar mais a IA; o que o estudo de fato mostra é movimento significativo em toda medida perceptual sem movimento correspondente no desempenho avaliado.
 
 
 **Medidas de percepção superam medidas de habilidade na literatura de investigação com IA generativa.** Em uma revisão de 66 estudos, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] encontraram as percepções dos usuários como o domínio de desfecho mais relatado (32 estudos, 48,5%), seguidas dos desfechos afetivos com 25, enquanto apenas 8 estudos (12,1%) mediram habilidades de investigação e 4 deles tinham condição de comparação. Os autores não atribuíram grau algum de certeza à evidência, de modo que as contagens de percepção descrevem o que foi perguntado, e não o que foi alcançado.
@@ -136,6 +142,10 @@ Quatro propriedades separam uma pesquisa que consegue sustentar uma afirmação 
 
 
 
+
+Uma pesquisa recente com docentes mostra a falha em sua forma extrema. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] administraram 300 itens a 315 docentes universitários, relataram α = 0,997 para a escala total e não conduziram análise fatorial alguma, ainda assim um modelo Naive Bayes classificou corretamente 314 de 315 respondentes (acurácia 0,9968) em faixas de competência baixa, média e alta. Um instrumento cujos itens se comportam como quase duplicatas pode ser previsto quase perfeitamente a partir de um punhado de variáveis demográficas e institucionais porque carrega pouca informação independente: os autores constataram que a afiliação foi o maior contribuinte global em sua análise SHAP, e os pontos de corte que definiam as três faixas não foram retidos.
+
+A redação pré-pós pode fabricar a mudança que relata. Em um piloto de duas coortes de um paciente simulado por IA, [[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]] redigiram os itens pré-encontro como expectativas e os pós-encontro como experiência, de modo que as pontuações de diferença compararam uma expectativa com uma memória. Seu BSLS-P provisório retornou alfas de subescala de −0,39 a 0,87 ao longo das administrações, e conjuntos de itens que não se moveram juntos ainda assim carregaram uma afirmação de segurança psicológica.
 
 ## Amostragem, resposta e não resposta
 
@@ -168,6 +178,7 @@ As respostas construtivas da base de conhecimento são consistentes, e nenhuma d
 - Pergunte que tipo de afirmação é. Percepções são território legítimo; comportamento é aproximado; aprendizagem e competência não são alcançáveis por essa via.
 - Verifique quem respondeu e quem não respondeu. Taxa de resposta, marco de amostragem e autosseleção decidem o que as porcentagens descrevem — um estudo dos estudantes de uma instituição descreve aquele cenário, não estudantes em geral.
 - Verifique o instrumento. Ele foi validado para este construto e esta população, e, se grupos são comparados, a invariância foi testada?
+- Verifique a distribuição antes de confiar no teste. Ambos os fatores de uma escala validada de autoeficácia em programação se moveram em testes de sinal (p = 0,0074 e p = 0,012) enquanto a mediana do Fator 1 se manteve em 5,87 do pré-teste ao pós-teste, e todos os fatores tinham assimetria negativa ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]]).
 - Fique atento a designs de fonte única. Se preditores e desfechos vêm ambos do mesmo questionário em um único ponto no tempo, as associações são consistentes com variância de método comum, assim como com a teoria proposta.
 - Trate a satisfação como sinal de design, não como desfecho de aprendizagem. Satisfação alta somada a aprendizagem não testada é a configuração padrão na avaliação de ferramentas de IA, e este corpus mostra as duas divergindo.
 - Prefira estudos que mostram seu trabalho: taxas de resposta declaradas, limitações declaradas, e pelo menos uma fonte de evidência que não venha de perguntar.
@@ -229,4 +240,9 @@ As respostas construtivas da base de conhecimento são consistentes, e nenhuma d
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] — percepções relatadas em 32 de 66 estudos contra 8 que mediram habilidades de investigação
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63,8% das ferramentas de letramento em IA relatam evidência de confiabilidade e menos de 20% relatam evidência de validade
 - [[huang-genai-academic-information-resources-2026]] — Logs de biblioteca e atitudes de pesquisa apontando para direções diferentes
+- [[kares-xai-evaluation-alignment-2027]] — 166 participantes, três métodos de saliência: satisfação e confiança estáveis, desempenho na tarefa e métricas de fidelidade discordando (Kares et al., 2027)
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — A aprendizagem e o engajamento percebidos subiram em toda medida de pesquisa enquanto as notas de prova não se moveram
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Uma escala docente de 300 itens com α = 0,997 prevista com 99,68% de acurácia sem nenhuma análise fatorial
+- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Testes de sinal significativos com uma mediana inalterada em uma escala validada
+- [[tischkau-ai-simulated-patient-formats-2026]] — Uma escala pré-pós provisória que compara expectativas com memórias, com alfas de subescala de −0,39 a 0,87 (Tischkau et al. 2026)
 

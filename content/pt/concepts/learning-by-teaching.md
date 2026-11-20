@@ -1,7 +1,7 @@
 ---
 title: Aprender ensinando
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -66,7 +66,9 @@ Um desafio central de desenho para agentes ensináveis baseados em LLM é que as
 
 - **As restrições de aprendiz do Explique** (Wang et al.) instruem o tutorado a (a) permanecer novato, (b) continuar pedindo esclarecimentos até que a explicação do estudante esteja correta, e (c) nunca revelar a explicação-alvo — e a *resistir* a estudantes que tentam inverter os papéis e pedir que o tutorado explique de volta.
 
-- **O desaprender como rota no nível dos pesos para a falibilidade.** O desaprendizado de máquina suprime 16 componentes de conhecimento visados no Mistral-7B, derrubando a precisão de cerca de 0,75 em uma taxa de esquecimento de 10% para abaixo de 0,5 em 40%, enquanto o modelo base se manteve perto de 0,85. O conhecimento suprimido retornou por meio de reaprendizado supervisionado e de diálogo guiado por coach, então o nível de conhecimento do tutorado é um dial, e não uma asserção ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026)]]).
+- **O desaprender como rota no nível dos pesos para a falibilidade.** O desaprendizado de máquina suprime 16 componentes de conhecimento visados no Mistral-7B, derrubando a precisão de cerca de 0,75 em uma taxa de esquecimento de 10% para abaixo de 0,5 em 40%, enquanto o modelo base se manteve perto de 0,85. O conhecimento suprimido retornou por meio de reaprendizado supervisionado e de diálogo guiado por coach, então o nível de conhecimento do tutorado é um dial, e não uma asserção ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+
+- **A supervisão como tarefa do tutorado.** Em um caso de desenho em duas disciplinas, os estudantes contratam, integram e treinam um assistente de propósito geral, depois documentam o que ele errou; os instrutores relatam que explicar as convenções à ferramenta esclareceu essas convenções para o estudante ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## Questionamento, autorregulação e aprendizagem ativa
 
@@ -75,7 +77,7 @@ Duas affordances adicionais recorrem na base de conhecimento:
 - **Perguntas identificam lacunas de conhecimento.** Os sistemas de LbT usam perguntas geradas por quem aprende para expor lacunas e reforçar a compreensão, e as [[teaching-ai-vocabulary-lbt-llms-2026|perguntas geradas por LLM]] substituem geradores rígidos baseados em templates.
 - **O teach-back revela o que o esclarecimento perde.** Em um sistema de revisão pós-aula com 22 participantes, o teach-back reflexivo de um agente Par expôs consistentemente lacunas entre o que quem aprende acreditava ter entendido e o que conseguia articular, o que o esclarecimento fundamentado na aula, sozinho, não havia revelado ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **O LbT [[scaffolding|anda]] a auto[[regulation|regulação]].** Ensinar um [[conversational-ai|agente conversacional]] fomenta a [[self-efficacy|autoeficácia]] e a implementação de estratégias de aprendizagem autorregulada, e conecta o LbT às [[desirable-difficulties|dificuldades desejáveis]] — o ato esforçado de explicar e corrigir é, ele mesmo, uma luta produtiva que a remoção de atrito pela IA de outro modo apagaria.
-- **O que prediz a aprendizagem de quem tutora é a construção de conhecimento, e não o [[prior-knowledge|conhecimento prévio]].** Ao longo de 23 tutores do ensino fundamental e médio, a parcela de respostas que construíam conhecimento, em vez de repeti-lo, predisse as notas conceituais no pós-teste (β = .138, p < 0,05), enquanto as notas prévias no teste não predisseram quem as produzia, e tutores com baixo conhecimento prévio que construíram conhecimento terminaram no nível dos pares com alto conhecimento prévio ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026)]]).
+- **O que prediz a aprendizagem de quem tutora é a construção de conhecimento, e não o [[prior-knowledge|conhecimento prévio]].** Ao longo de 23 tutores do ensino fundamental e médio, a parcela de respostas que construíam conhecimento, em vez de repeti-lo, predisse as notas conceituais no pós-teste (β = .138, p < 0,05), enquanto as notas prévias no teste não predisseram quem as produzia, e tutores com baixo conhecimento prévio que construíram conhecimento terminaram no nível dos pares com alto conhecimento prévio ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Por que isso importa na educação com IA
 

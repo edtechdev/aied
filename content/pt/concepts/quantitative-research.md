@@ -1,14 +1,14 @@
 ---
 title: Pesquisa quantitativa
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-08T12:22:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,17 +41,22 @@ A pesquisa quantitativa abrange desenhos descritivos (medir prevalência e padr�
 
 ## Principais abordagens quantitativas
 
+### Desenhos longitudinais e de painel
+
+A mensuração repetida dos mesmos estudantes transforma uma correlação em uma trajetória: modelos de painel separam um traço estável da mudança específica de ocasião, e modelos de crescimento estimam a forma e a taxa de mudança ao longo das ondas. As famílias de desenho, as ameaças que pesam nos estudos com IA (attrito, deriva da ferramenta, desempenho assistido) e os exemplos mais fortes são tratados na [[longitudinal-research|pesquisa longitudinal]].
+
 ### Pesquisa por levantamento e correlacional
 Pesquisas transversais medem atitudes, percepções, motivação, [[self-efficacy|autoeficácia]] e aceitação de tecnologia autorreportados, frequentemente modelados com regressão ou modelagem por equações estruturais (SEM/PLS-SEM) para testar relações e mediadores hipotetizados. Elas dominam o corpus da base de conhecimento, particularmente para questões de aceitação, motivação e mecanismos psicológicos. A [[acceptance-ai-english-tools-2026|aceitação de ferramentas de inglês assistidas por IA]] se constrói sobre o [[technology-acceptance-model|TAM]] com SEM; as [[tian-genai-learning-adoption-pathways-2026|trilhas de adoção de GenAI]] usam PLS-SEM, fsQCA e mapeamento importância-desempenho; o [[teacher-education-ai-literacy-sdt-2026|letramento em IA dos professores]] usa pesquisas validadas por fator fundamentadas na [[self-determination-theory|teoria da autodeterminação]].
 
 - **Pontos fortes:** amostras grandes; cobertura ampla e de baixo custo; testa modelos mediacionais complexos; viável para atitudes difíceis de observar.
 - **Limitações:** dados transversais não podem estabelecer causação; viés de autorrelato; amostragem por conveniência limita a generalizabilidade; mediadores inferidos a partir de covariância, não de manipulação. Ver [[self-report-measures]] para o tratamento do lado do instrumento desses limites.
 - **Um modelo de mediação saturado não consegue testar sua própria ordenação.** Um levantamento de uma única onda com 1.020 estudantes de enfermagem dividiu um efeito total de 1,36 em um direto de 0,92 e um indireto de 0,44 via [[self-regulated-learning|aprendizagem autorregulada]], 32,35% do total, com um modelo que tem tantos parâmetros livres quanto covariâncias observadas e, portanto, reproduz os dados por construção ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
-
+- **Um rótulo "parcial" pode repousar sobre um intervalo que quase chega a zero.** Entre 438 estudantes universitários chineses, o caminho direto do uso de IA ao desempenho foi β = 0,18, IC 95% (0,02, 0,34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **Um efeito indireto total próximo de zero pode esconder dois caminhos vivos.** Em uma onda de autorrelato com 568 estudantes de design, a associação indireta correu 0,0929 pela focalização na promoção e −0,0884 pela focalização na prevenção, somando 0,0045, enquanto o caminho direto carregou 98,7% do total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]])..
 
 ### Pesquisa experimental e quase-experimental
 Experimentos atribuem aleatoriamente estudantes a condições (ex., tutor de IA vs. tutor humano, ou com |scaffolding de IA vs. sem assistência) para estimar efeitos causais sobre os resultados. **Ensaios controlados randomizados ([[rct|RCTs]])** são o padrão-ouro para validade interna. [[access-not-enough-ai-tutoring-2026|Um estudo de campo randomizado de apoio humano mais tutoria por IA]] e [[genai-can-harm-teaching-rct-2026|um RCT sobre IA generativa no ensino]] usam a atribuição para isolar efeitos causais. Desenhos **quase-experimentais** (pré/pós, grupos pareados sem randomização) são mais viáveis em salas de aula intactas, mas mais fracos em alegações causais.
+
 [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adotam em vez disso um crossover within-subject: cada estudante encontra o mesmo conteúdo de física duas vezes, uma numa [[active-learning|aula ativa]] em sala e outra pelo próprio tutor de IA do curso, com pré- e pós-testes em torno de cada, de modo que cada estudante serve como seu próprio controle, e as diferenças entre pessoas se cancelam.
 
 - **Pontos fortes:** inferência causal mais forte; mensuração limpa dos resultados; sustenta estimativa de tamanho de efeito e alegações de eficácia.
@@ -85,6 +90,9 @@ A análise bibliométrica é uma outra família quantitativa: [[sriram-ethical-a
 - **Pontos fortes:** precisão e poder estatístico; generalizabilidade para populações definidas; inferência causal (com desenhos experimentais); cobertura eficiente de grandes amostras; cumulativo e comparável entre estudos.
 - **Limitações:** captura o que é mensurável, frequentemente deixando passar processo, significado e contexto (ver [[qualitative-research]]); viés de autorrelato; instrumentos podem medir o construto errado (ver [[educational-measurement|questões de mensuração]]); correlação sem causação; pode ser artificial e lento em relação à mudança da IA.
 
+- 
+**A agregação pode falhar na escala da revisão.** Uma revisão PRISMA de 103 estudos sobre GenAI no ensino superior não realizou metanálise porque os desenhos, os comparadores e as medidas eram heterogêneos demais, relatando em vez disso a concordância de tipologia de desfechos em κ = 0,781 ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
+
 Métodos quantitativos e [[qualitative-research|qualitativos]] são complementos — o trabalho quantitativo fornece amplitude e poder causal, o trabalho qualitativo fornece profundidade e significado. [[mixed-methods-research|Desenhos de métodos mistos]] os combinam. Ver [[research-methods-aied]] para a comparação completa de métodos e os contrastes entre desenhos experimentais, por levantamento, qualitativos e outros.
 
 ## Ideias equivocadas comuns
@@ -95,6 +103,7 @@ Métodos quantitativos e [[qualitative-research|qualitativos]] são complementos
 
 ## Conceitos conectados
 
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

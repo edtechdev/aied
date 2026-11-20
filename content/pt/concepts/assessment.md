@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Avaliação
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,7 +87,11 @@ A pergunta construtiva na literatura de avaliação da base de conhecimento não
 - **A produção como competência** — avaliar a capacidade dos estudantes de dirigir ferramentas e produzir trabalho de padrão profissional ([[competency-based-education-genai-production-2026]])
 - **Avaliar o processo de interação, e não apenas o artefato** — o [[assessing-student-drive-framework-2025|framework DRIVE]] (Directive Reasoning Interaction + Visible Expertise) trata a qualidade do *engajamento do estudante com a IA generativa* como o construto avaliado. Ele distingue o consumo superficial da interação profunda e reflexiva observando se os estudantes conduzem os prompts de forma estratégica (DRI) e integram e desenvolvem suas próprias ideias disciplinares por meio da troca (VE), fundamentando critérios focados no processo em teorias da [[self-directed-learning|aprendizagem autodirigida]] e do engajamento cognitivo na linha da hierarquia do [[icap-framework|ICAP]]. Isso faz do DRIVE um exemplo de *avaliação autêntica mediada por IA* — uma rubrica para avaliar como os estudantes fazem parceria com a IA generativa, e não uma ferramenta de detecção.
 
+O redesenho acima presume que uma nota ainda significa o que significava antes de a ferramenta chegar. Oyelere e Kadams nomeiam o que acontece quando não significa: **dívida de evidência avaliativa**, a lacuna acumulada entre o que uma nota alega e o que um artefato entregue consegue sustentar, que se agrava à medida que notas iniciais alimentam decisões de progressão. O remédio deles é declarar a alegação por tarefa: o que ela diz que o estudante sabe, quais condições de IA se aplicam, quais canais de evidência estão em jogo. Cinco canais se seguem — desempenho restrito, proveniência do processo, verificação executável, defesa interpretativa, sondas de transferência. Nenhum canal prova competência sozinho. Os autores tratam a equivalência de evidência como não resolvida: um projeto para casa com acesso pleno à IA e um exame executável supervisionado podem visar o mesmo resultado enquanto certificam construtos diferentes, de modo que suas notas não são comparáveis. O alerta mais incisivo deles diz respeito à inferência a partir do comportamento: uma defesa oral fraca não é evidência de uso não autorizado de IA ([[oyelere-code-programming-assessment-genai-2026|Oyelere & Kadams, 2026]]).
+
 Uma proposta desta literatura empurra para além do redesenho dentro do enquadramento atual. [[ai-agents-joyful-assessment-third-space-2026|El Khoury e Ma (2026)]] argumentam que a reforma organizada em torno de prevenir a má conduta ou detectar o uso de IA estreita a imaginação educacional para o controle e a conformidade, e propõem em vez disso a **avaliação prazerosa**: uma avaliação que é segura, emocionalmente responsiva, capacitadora e apoiadora da [[agency|autonomia do estudante]], com a segurança como condição de sustentação porque, sem ela, a sintonia emocional se torna performance, o empoderamento se torna pressão e a autonomia se torna risco. Seu enquadramento inverte a agenda da detecção — a integridade passa a ser consequência de desenhar avaliações que os estudantes *querem* encarar, em vez de seu ponto de partida — e eles posicionam [[agentic-ai|agentes de IA]] construídos por professores (GPTs personalizados, Gems, agentes do Copilot Studio) como um espaço de ensaio de baixo risco onde os estudantes praticam antes do julgamento, com a afirmação de que a IA organiza a evidência enquanto o professor a interpreta.
+
+O código de cores é a alternativa que continua sendo proposta, e a versão de uma instituição já cumpriu seu ciclo. [[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman e Pavlopoulou (2026)]] reconstroem uma conversa de painel sobre o referencial da Universidade de Leeds, em vigor em todas as faculdades desde 2023, no qual o vermelho proíbe a IA, o amarelo deixa as regras a cargo do tutor de cada módulo e o verde ensina o uso responsável. A objeção deles é de escopo: uma cor anexada a uma tarefa responde se a ferramenta pode ser usada aqui, mas não se pode ser usada para compreender a leitura. Em 2024/25, cerca de 85% dos módulos lecionados na Business School carregavam tarefas vermelhas, enquanto a meta declarada da universidade era mover toda a avaliação para o verde, e os autores concluem que o semáforo está desatualizado e deveria dar lugar a um referencial que mantenha o [[evaluative-judgment|julgamento humano]] central.
 
 ## Implicações para a IA na educação
 
@@ -141,7 +145,7 @@ Uma proposta desta literatura empurra para além do redesenho dentro do enquadra
 - [[competency-based-education-genai-production-2026]] — Educação baseada em competências depois da IA generativa
 - [[genai-assessment-governance]] — Governança centrada em evidência da IA generativa na avaliação
 - [[ssaho-ai-academic-integrity-review-2025]] — Revisão de integridade em IA: a detecção precisa parear com o redesenho da avaliação
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[bassett-ai-detectors-education-2026]] — Cara, nós ganhamos; coroa, você perde: detectores de IA na educação (Bassett et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: avaliação da ansiedade do estudante aumentada por LLM (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Tutoria inteligente baseada em grafos para domínios dinâmicos (2026)
 - [[asynchronous-oral-assessment-2026]] — Avaliações orais assíncronas na era da IA (Pentland 2026)
@@ -155,5 +159,6 @@ Uma proposta desta literatura empurra para além do redesenho dentro do enquadra
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[rubrics-genai-process-based-assessment-2026]] — Critérios de rubrica que avaliam a interação, e não o artefato
+- [[nerantzi-traffic-light-assessment-genai-2026]] — Uma conversa reflexiva sobre avaliação na era da IA generativa usando o referencial do semáforo na Universidade de Leeds
 - [[koretsky-genai-stem-assessment-2026]] — Um quadro de três vértices para realinhar a avaliação
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Relato de um workshop on-line sobre avaliação em computação na era da IA generativa

@@ -1,7 +1,7 @@
 ---
 title: Conhecimento tecnológico, pedagógico e de conteúdo (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-08T06:34:27-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T15:46:54-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,8 +27,6 @@ pedagogy: [tpack]
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Conhecimento Tecnológico, [[pedagogy|Pedagógico]] e de Conteúdo (TPACK)** — o framework (Mishra & Koehler, 2006) que descreve o conhecimento integrado de que os professores precisam para usar a tecnologia com eficácia no ensino: a interação entre Conhecimento Tecnológico (TK), Conhecimento Pedagógico (PK) e Conhecimento de Conteúdo (CK), e suas interseções. Na era da IA, o TPACK foi estendido para **AI-TPACK** / **GenAI-TPACK**, modelando como os professores integram a IA generativa à instrução em área de conteúdo. É a lente teórica dominante para compreender como a [[teacher-ai-competency|competência em IA do professor]] é estruturada e construída por meio do [[educational-development|desenvolvimento profissional]].
-
-Essa dominância também é em parte um artefato de recuperação: em uma [[meta-analysis-systematic-review|revisão de escopo]] PRISMA de 195 estudos de formação de professores com apoio de tecnologia, competência digital, TPACK e DigCompEdu eram descritores explícitos de busca, de modo que a parcela de 46,5% de frameworks de competência descreve o corpus recuperado, e não o campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## Perguntas para refletir
 
@@ -57,6 +55,7 @@ O TPACK sustenta que a integração eficaz de tecnologia não é a soma de domí
 
 - **O framework domina o campo por padrão, e é esticado para caber.** Em uma revisão guiada por PRISMA de 78 estudos de [[learning-design|desenho instrucional]] apoiado por IA, apenas 19 aplicaram algum framework de competência nomeado — e o TPACK e suas variantes responderam por **17 desses 19**, usados produtivamente como lente analítica, mas esticados além de seu escopo original, já que o TPACK não foi desenhado para capacidades específicas de IA. Extensões construídas para esse fim são correspondentemente raras: o **Intelligent-TPACK apareceu em apenas cinco estudos**, em geral pareado com o [[ai-literacy|letramento em IA]] para dar conta da progressão desenvolvimental ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **A pesquisa avança sem teorização, enquanto os frameworks de política não são testados.** A mesma revisão constatou que **76% dos estudos inferiram competências da prática sem nenhum mapeamento teórico**, e nem o DigCompEdu nem o AI Competency Framework for Teachers da UNESCO foram aplicados como framework analítico em nenhum dos 78 — uma desconexão que corre nas duas direções, já que o trabalho empírico não acumula vocabulário compartilhado enquanto os frameworks que deveriam guiar a prática seguem empiricamente não testados nesse contexto.
+- **Parte desse domínio é um artefato de recuperação.** Em uma [[meta-analysis-systematic-review|revisão de escopo]] PRISMA de 195 estudos de formação de professores apoiados por tecnologia, competência digital, TPACK e DigCompEdu eram descritores de busca explícitos, de modo que a participação de 46,5% de frameworks de competência descreve os estudos recuperados, e não o campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## AI-TPACK e GenAI-TPACK
 
@@ -64,6 +63,8 @@ A era da IA empurrou o framework para uma leitura de tecnologia-com-inteligênci
 
 - **Além do conhecimento discreto.** A [[ai-tpack-teacher-multi-agent-workflow|pesquisa sobre AI-TPACK]] argumenta que a integração eficaz de IA emerge não de possuir domínios separados, mas da interação dinâmica de **pensamento sistêmico**, **crenças pedagógicas** e **[[self-efficacy]]** — desafiando modelos estáticos e baseados em checklist da competência docente em IA. Arquétipos de professor (Otimizadores Sistemáticos, Criadores Prolíficos, Observadores Passivos) emergem de como os professores desenham fluxos de trabalho instrucionais multiagentes.
 - **O que os frameworks de integração deixam de fora.** Uma crítica de co-agência sustenta que o TPACK e o [[samr-model|SAMR]] abordam o conhecimento do professor e os níveis de adoção, mas deixam sem tratamento poder, propriedade de dados e responsabilização, de modo que o conhecimento de integração precisa de uma fronteira ética explícita, e não de mais um domínio de conhecimento ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+- 
+O HACC reatribui o trabalho integrativo que o TPACK entrega à pedagogia do professor à própria metacognição de quem aprende, de modo que a integração do lado de quem aprende fica fora do escopo do TPACK ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **Evidência transníveis para o núcleo pedagógico.** [[pedagogy-first-technology-second-teacher-knowledge-2026|Um estudo multinível de 46 professores e 2.832 estudantes do ensino médio]] constatou que o conhecimento técnico de IA, isoladamente, era insuficiente — chegando a amortecer levemente as percepções dos estudantes sobre a IA para o bem social —, enquanto o conhecimento pedagógico de IA (TPAIK) foi o que fomentou as percepções dos estudantes e a intenção comportamental de aprender IA. O resultado se destila em uma diretriz de **"pedagogia primeiro, tecnologia segundo"** que ecoa os achados sobre papel mediador acima.
 - **[[ethics|A ética]] como mediadora integradora, não como fronteira.** Em uma pesquisa com 454 professores universitários, o conhecimento tecnológico de IA isolado teve uma associação direta *negativa* com o AI-TPACK integrado (β = −0,303), enquanto seu efeito total permaneceu positivo (β = 0,639), passando pelo conhecimento pedagógico, de conteúdo e ético ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]). O conhecimento ético também canalizou o efeito adiante, prevendo tanto o conhecimento pedagógico (β = 0,353) quanto o de conteúdo (β = 0,269).
 - **Uma lente de revisão para todo o campo.** [[edurev-100741-tpack-genai-review|Uma revisão sistemática da perspectiva do TPACK]] (Liu & Zhong, 2025) analisou 71 estudos empíricos de IA generativa na aprendizagem dos estudantes, encontrando um efeito positivo no geral (g de Hedges = 0,752) e identificando o letramento em IA generativa para estudantes e o **desenvolvimento profissional em GenAI-TPACK para professores** como as duas prioridades críticas para o campo.
@@ -88,6 +89,8 @@ O TPACK é o framework organizador do lado docente da base de evidências da bas
 
 **A mediação passa principalmente pela facilidade de uso.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] testou seis caminhos indiretos do [[ai-literacy|letramento em IA]] e do TPACK para a aprendizagem profunda em 423 professores em formação: o TPACK por meio da [[technology-acceptance-model|facilidade de uso percebida]] foi o maior (0,212) e o letramento em IA por meio da utilidade, o menor (0,033), de modo que o conhecimento de integração funcionou pela [[usability-research|usabilidade]], e não pela utilidade.
 **Os componentes não pesam igualmente no caso da IA.** Entre 988 professores em formação, TCK (β = 0,67) e TPK (β = 0,41) previram o AI-TPACK integrado, enquanto TK isolado não (β = −0,10, p = 0,066), e o TPACK integrado previu a atitude em relação à GenAI (β = 0,75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
+
+**Execução, não revisão, sob restrição de recursos.** Docentes de uma universidade da Somalilândia descreveram um uso moldado pelo apoio institucional, por política ausente e por uma assinatura mensal de \$20 que eles próprios pagavam — contexto que o TPACK acomoda sem mudar seus componentes ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
 ## Implicações para o desenho
 

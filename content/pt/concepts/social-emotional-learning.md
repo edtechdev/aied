@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem socioemocional
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,12 @@ A aprendizagem socioemocional está intimamente relacionada, mas é distinta, da
 
 ### Como a ASE aparece na pesquisa
 
+- **A empatia é a borda afetiva da ASE, e a mais difícil de avaliar.** [[empathy]] cobre a evidência sobre ensiná-la e medi-la: role-play, RV e diálogo com LLM elevam as pontuações autorrelatadas, as avaliações por observadores se mantêm coerentes, e os proxies de visão computacional se invertem com o sorriso. Leia essa evidência antes de tratar um ganho de empatia como evidência de que um programa funcionou.
 - **Integrando as CSE ao letramento em IA:** [[sec-ai-literacy-narrative-review-2026|a revisão narrativa de Palmquist et al.]] propõe um framework integrado que combina o letramento em IA com as competências socioemocionais, argumentando que a proficiência técnica isoladamente é insuficiente — educadores e estudantes precisam tanto de inteligência tecnológica quanto emocional para navegar ambientes de aprendizagem mediados pela IA, fomentando [[personalized-learning|aprendizagem personalizada]], colaboração e [[student-engagement|engajamento]] ético.
 
 - **Professores e prática relacional:** A pesquisa sobre [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|frameworks de letramento em IA]] e [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confiança professor–estudante]] enfatiza que a ASE apoia as dimensões relacionais da aprendizagem (relações professor–estudante e estudante–estudante), que a IA deve complementar, e não substituir.
 
-- **O que um [[pedagogical-agent|agente pedagógico]] pode e não pode carregar em ASE.** Ao longo de 108 observações avaliadas por avaliadores cegos, um agente pedagógico de IA generativa foi mais consistente do que os educadores em manter tom respeitoso e andaimento processual rotineiro, enquanto os educadores o superaram em guiar a reflexão e em promover o conhecimento socioemocional — apoiando uma divisão de trabalho, e não a substituição ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026)]]).
+- **O que um [[pedagogical-agent|agente pedagógico]] pode e não pode carregar em ASE.** Ao longo de 108 observações avaliadas por avaliadores cegos, um agente pedagógico de IA generativa foi mais consistente do que os educadores em manter tom respeitoso e andaimento processual rotineiro, enquanto os educadores o superaram em guiar a reflexão e em promover o conhecimento socioemocional — apoiando uma divisão de trabalho, e não a substituição ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).
 
 - **Bem-estar e o impacto afetivo da IA:** A pesquisa examina como o uso crescente da IA generativa afeta as habilidades socioemocionais, o bem-estar, a sociabilidade e o senso de confiança e empatia dos estudantes — preocupações que motivaram o apelo da OCDE por um letramento em IA fundamentado em valores humanísticos, sociais e emocionais.
 

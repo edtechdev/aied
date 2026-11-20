@@ -1,7 +1,7 @@
 ---
 title: "Design universal para a aprendizagem"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-08T12:30:33-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ O DUA transforma "consertar quem aprende" em "consertar o design". Para professo
 - Ofereça escolha de produto de avaliação (redação, apresentação, vídeo, diagrama, código) alinhada ao mesmo resultado de aprendizagem.
 - *Exemplo:* Um projeto permite a entrega como relatório escrito, explicador em vídeo assistido por IA ou demonstração ao vivo — com [[scaffolding|andaimes]] de IA apoiando cada modo. No design de [[assessment|avaliação]], isso é paralelo à justiça representacional da [[authentic-assessment|avaliação autêntica]].
 
+A escolha só inclui quando as opções parecem igualmente credíveis. Estudantes em um estudo realizado em uma Faculdade de Ciências gostaram de escolher entre um vídeo e uma redação, mas relataram que os colegas temiam que a redação fosse corrigida com nota mais baixa, de modo que critérios compartilhados e uma lógica de correção explicada são o que transforma um menu de formatos em inclusão, e não em adivinhação estratégica ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Projete para letramento em IA e agência.**
 - Ensine aos estudantes como e quando usar IA, e construa pontos de verificação que mantenham quem aprende (e não a ferramenta) responsável — veja [[ai-literacy|letramento em IA]] e [[reducing-ai-misuse|redução do uso indevido de IA]].
 - *Exemplo:* Uma tarefa alinhada ao DUA deixa os estudantes usarem IA para redigir, mas exige uma reflexão [[metacognition|metacognitiva]] sobre sua própria contribuição, preservando os princípios de engajamento e agência.
@@ -124,3 +126,5 @@ O DUA transforma "consertar quem aprende" em "consertar o design". Para professo
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidade virtual e além: uma revisão de escopo de tecnologias assistivas digitais para estudantes neurodivergentes no ensino superior
 - [[faculty-accessible-course-design-ai-2026]] — "A IA está reduzindo as opções que eu tinha": explorando percepções do corpo docente sobre design acessível de cursos em um mundo com ChatGPT
 - [[alenezi-ai-universal-design-learning-kuwait-2026]] — Inteligência artificial e design universal para a aprendizagem nas instituições de ensino superior do Kuwait: rumo a um framework de educação inclusiva habilitado por IA
+
+- [[mcdonald-inclusive-assessment-genai-2026]] — Desenho de avaliação inclusiva na era da IA generativa: avançando a pedagogia e a prática

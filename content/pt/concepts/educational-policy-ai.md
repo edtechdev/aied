@@ -1,7 +1,7 @@
 ---
 title: Política educacional de IA
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,8 @@ Onde se formou consenso para preencher essa lacuna, o Delphi de 35 especialistas
 
 **A forma legal é mais rara que a linguagem legal.** Numa revisão de escopo de 160 documentos, 2,5% dos instrumentos tinham força legal, enquanto 57,5% eram orientação ou kits de ferramentas, e apenas 3 dos 131 documentos que invocavam controles legais eram eles mesmos instrumentos legais ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
 
+**A força legal eleva a cobertura, não o núcleo colegiado.** [[jiang-faculty-development-japan-2027|Jiang, Wang e Taguchi (2026)]] rastreiam o mandato estatutário do Japão de 2007 e 2008 para o desenvolvimento docente em cursos de pós-graduação e graduação. Centros dedicados alcançaram 87,5% das universidades até 2016, e a participação plena subiu de 12,9% das universidades em 2015 para 32,7% em 2023, enquanto workshops de aprendizagem ativa caíram de 42% para 33% e a observação entre pares de 57% para 53%. Como a lei vinculava instituições, e não indivíduos, a conformidade podia ser demonstrada por participação contável sem construir os formatos colegiados que carregam a substância desenvolvimental.
+
 Uma revisão sistemática do Reino Unido acrescenta uma camada setorial à mesma lacuna: o investimento em infraestrutura e o treinamento de pessoal em IA se concentram em universidades intensivas em pesquisa (Russell Group), enquanto instituições voltadas ao ensino (post-92) enfrentam restrições de capacidade, e apenas uma minoria das instituições do Reino Unido mantém planos oficiais de governança de IA ([[ai-uk-higher-education-policy-2026|Ashiq (2026)]]).
 
 **Um setor fazendo política sem base de evidências.** A lacuna de maturidade também aparece como problema de evidência nos programas profissionalizantes. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski e Hurley (2025)]] pontuaram as políticas institucionais das escolas de direito dos EUA aprovadas pela ABA em cinco dimensões — prohibitividade, permissividade, integração educacional, transparência e responsabilização, e profundidade — e constataram que a maioria das escolas adotava posições geralmente proibitivas, ao mesmo tempo que reservava discricionariedade aos instrutores individuais e se comprometia a revisar as regras à medida que a tecnologia avança. Eles atribuem a cautela à pressão do tempo, e não à evidência: a pesquisa da ABA de 2024 obteve respostas de apenas cerca de 15% das escolas acreditadas, e os autores relatam não haver consenso sobre se o uso de IA deve ser divulgado ou como deveria ser citado. Sua conclusão é procedimental — construir política com o corpo docente, e não para ele, treinar proativamente, e tratar a geração de política como um evento recorrente, e não um ato único —, o que torna a [[legal-education|educação jurídica]] um dos casos mais claros da distinção política-versus-governança que esta página traça.
@@ -90,6 +92,10 @@ O lado dos estudantes da regulação no nível da tarefa é igualmente moldado p
 ### Política de avaliação: fronteiras, supervisão e superfícies de ataque
 
 **A lacuna fronteira–evidência na política de avaliação.** Uma auditoria de 30 universidades das orientações públicas de avaliação em [[generative-ai|GenAI]] ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) constata que as políticas institucionais são melhores em *classificar* o uso de IA do que em explicar que evidência de aprendizagem permanece válida sob cada classe: a nota média de fronteira de delegação (2,47/4) excedeu a nota média de padrão de evidência (1,89/4), as salvaguardas eram esparsas (2,75 de 8), e a orientação era mais clara para a substituição do produto final. O framework de *gestão cognitiva* argumenta que as políticas precisam tornar visível a lógica de certificação — o que quem aprende pode delegar, o que ainda deve demonstrar, e como as instituições protegem evidência justa —, em vez de meramente monitorar o uso de IA.
+
+Em 36 universidades australianas, 11 finlandesas e 8 de Hong Kong, a orientação de avaliação em GenAI era quase universal, enquanto as políticas de correção permaneciam silentes sobre como o desempenho é representado ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
+
+**A forma da política não prediz a prática.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] constatou que instituições com mandato, framework e orientação se distribuíam ao longo da faixa de exposição de 53.915 itens de avaliação australianos, de modo que uma política central prescritiva não acompanhou uma avaliação menos vulnerável à IA.
 
 **Linguagem de proibição sobreinclusiva e regras mal aplicadas.** O escopo de uma regra é uma decisão de política com consequências além da conformidade. [[wright-transcription-not-generation-2026|Wright (2026)]] argumenta que as proibições gerais escritas pelo [[higher-ed|ensino superior]] desde 2023 barram a "IA generativa" sem a precisão técnica para separar a geração de conteúdo da conversão de formato potencializada por IA — reconhecimento óptico de caracteres, reconhecimento de texto manuscrito e transcrição de fala são [[ai-technologies|tecnologias]] de reconhecimento que inferem o que um estudante já escreveu, em vez de produzir conteúdo novo. Nessa leitura, sancionar o uso apenas de transcrição é melhor caracterizado como aplicação indevida de política, e não como má conduta, e o custo da imprecisão recai desigualmente: estudantes expostos a [[equity-in-ai-education|equidade]] e [[inclusive-learning|estudantes com deficiência]] que dependem dessas ferramentas carregam risco desproporcional de falso positivo, uma exposição que as [[legal-issues-and-risks|questões e riscos legais]] tratam como uma questão de ajuste razoável, e não de integridade.
 
@@ -125,11 +131,15 @@ A liderança sênior em IA é rara em relação à ambição estratégica. Uma r
 
 O teste prático que as separa: uma política pode ser lida no papel, mas a governança é observada em se a regra é implementada, aplicada e adaptada. É por isso que a [[governance|governança]] estende a [[regulation|regulamentação]] e a política para dentro das instituições, e por que a base de conhecimento trata as escolhas de formato de avaliação ([[summative-assessment|avaliação somativa]]) como decisões de *política* que só se tornam efetivas por meio de estruturas de *governança* como conselhos de revisão, frameworks de declaração e vias de recurso.
 
+**O que o setor pede aos reguladores.** No estudo do OfS e da Advance HE com 127 instituições, os participantes se opuseram em grande parte a novas condições de registro sobre IA, argumentando que mais regulação restringiria a inovação e tornaria mais lenta a resposta institucional. O que pediram, em vez disso, foi clareza sobre como as condições existentes de qualidade (B) e governança (E) se aplicam à IA, com exemplos resolvidos de casos particulares. O pessoal também acreditava que a lei de proteção ao consumidor os impedia de mudar métodos de avaliação em resposta à IA, o que a orientação da Competition and Markets Authority não diz: termos justos e transparentes podem permitir mudanças necessárias ([[making-ai-work-for-students-ofs-2026|OfS e Advance HE (2026)]]).
+
 **A política de sala de aula como fronteira interpretativa da governança.** A maquinaria da governança não para no documento institucional; os professores que o leem e adaptam são o último elo da corrente, e [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] mostram como esse elo se parece na prática. Seus [[teacher-education|professores em formação inicial]] esperavam trabalhar em distritos com políticas de IA, mas ainda assim tinham de redigir regras específicas de sala de aula para os próprios estudantes — uma habilidade essencial de adaptação —, e os autores argumentam que os professores podem declinar adotar IA para tarefas específicas de leitura e escrita sem ignorá-la, com a recusa de princípio distinguível da rejeição acrítica. Manter essa distinção viável é ele mesmo uma tarefa de governança: distritos e programas de formação precisam da orientação, do [[educational-development|desenvolvimento profissional]] e da infraestrutura de política que permitam aos professores recusar usos particulares sem serem enquadrados como atrasados.
 
 **Indicadores de governança para o problema da autenticação.** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher e Calderon (2025)]] fornecem a camada de mensuração que essa distinção política-versus-governança implica, tratando a [[academic-integrity|integridade acadêmica]] na era GenAI como um problema de governança antes de um problema de detecção e julgando a governança acadêmica contemporânea resiliente, mas "não bem posicionada nem preparada" para proteger a autenticação da [[assessment|avaliação]] dos estudantes. Seu framework reúne 130 questões de governança sob oito dimensões — Desenhar, Desenvolver, Treinar, Implementar, Analisar, Reportar, Avaliar e Melhorar —, e os itens são questões sobre maquinaria institucional, e não escalas psicométricas: se o conselho ou a cúpula da instituição recebe atualizações sobre processos e resultados de avaliação, se indicadores-chave de desempenho cobrem a qualidade da avaliação, que porcentagem de estudantes é conhecida individualmente pelos professores que os avaliam, se notas extremamente baixas ou altas são conferidas por outra pessoa, e se existe uma rota simples para encaminhar casos de fraude contratada. O programa de reforma que o acompanha tem como alvo as arquiteturas de governança, as pessoas que ocupam cargos de governança, e as tecnologias e os recursos que apoiam a avaliação, e os autores argumentam que pouco desenvolvimento institucional rende sem afordamento externo da regulamentação, do [[benchmark|benchmarking]] e da competição entre instituições — a mesma pressão regulatória que a página de [[regulation|regulamentação]] trata como a restrição vinculante sobre a reforma da governança.
 A lacuna também é medida no K-12, e não apenas nas universidades. Uma pesquisa nacionalmente representativa com 1.018 professores e diretores de escolas públicas dos EUA constatou que apenas 18% dos professores e 24% dos diretores relatavam uma política escolar de IA generativa — o mesmo padrão abaixo da instituição que esta página documenta no ensino superior ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026)]]).
 
+
+A coordenação é a capacidade de governança que mais frequentemente falta. A comparação de 2026 do iRAISE entre França, Canadá, Egito e Catar constatou que nenhum ministério isolado consegue governar a IA generativa através de educação, saúde, proteção infantil, justiça e cultura. Os sistemas que se mantiveram coesos designaram uma autoridade coordenadora — tipicamente o ministério da educação, ou o nível regional em sistemas federais — com mecanismos permanentes para que currículo, infraestrutura, segurança e política de proteção de dados fossem desenhados juntos ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). A comparação também qualifica a leitura de desenho-primeiro: os quatro modelos diferiam acentuadamente em estrutura, e em todos os quatro a confiança dos professores, a mediação parental e a confiança da comunidade importaram tanto quanto a arquitetura de política.
 
 ### O déficit de política na pesquisa em IA × SEL
 
@@ -139,6 +149,18 @@ O mesmo déficit tem um lado de demanda. [[gillette-partnership-ethics-genai-hig
 
 Os financiadores formam uma camada de política própria: de 46 órgãos com orientação sobre IA, 12 vinculavam regras especificamente ao financiamento, e nenhum desses instrumentos de financiamento carregava as disposições de governança que suas políticas gerais declaravam ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
+
+## Implicações para a prática
+
+Os instrutores podem escrever regras no nível da tarefa, e não no nível do curso. O estudo de 31.000 planos de curso mostra a mudança já em curso: as restrições se concentram em redação e raciocínio, as permissões em edição e apoio ao estudo. Nomear qual tarefa uma regra cobre, e escrever o motivo aos estudantes, faz mais do que uma proibição geral que estudantes que não se veem como desonestos lerão como não se aplicando a eles.
+
+Os chefes de departamento podem verificar se sua política tem força legal. Numa revisão de 160 documentos, 2,5% dos instrumentos eram legalmente vinculantes, enquanto 57,5% eram orientação ou kits de ferramentas. Um documento de orientação deixa a aplicação a quem o lê, o que na prática significa instrutores individuais escrevendo suas próprias regras.
+
+Quem atua no desenvolvimento docente pode apoiar as regras que os instrutores já estão escrevendo. Regras no nível da tarefa são a forma comum: 87% de 1.057 docentes dos EUA escreveram as suas, contra 35% que relataram orientação departamental. Esse trabalho está acontecendo sem apoio institucional, e um modelo compartilhado com exemplos resolvidos é mais barato do que um novo escritório de política.
+
+Os responsáveis pela avaliação podem especificar que evidência permanece válida sob cada permissão. Auditorias da orientação institucional encontram fronteiras classificadas com mais clareza do que o padrão de evidência que deveria acompanhá-las, o que deixa os corretores decidindo o que um uso permitido significa para a nota.
+
+Os formuladores de políticas podem parear a implantação com uma avaliação desenhada de antemão. O piloto de El Salvador foi relatado como igualando sistemas de alto desempenho numa avaliação que cobriu 7,0 estudantes por escola, e a afirmação viajou mais longe do que sua qualificação. Linha de base, amostragem e resultados desagregados enunciados ao lado da afirmação são a diferença entre um piloto e uma propaganda.
 
 ## Ideias equivocadas comuns
 
@@ -203,3 +225,6 @@ Os financiadores formam uma camada de política própria: de 46 órgãos com ori
 
 - [[pandey-davies-he-governance-administrative-ai-2026]] — A contratação define o ambiente de dados antes da pedagogia
 - [[chan-ai-policy-gap-2026]] — 56 documentos de 46 financiadores: uma camada de política de financiadores de pesquisa com 12 instrumentos específicos de financiamento (Chan 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — A revisão de quatro países do iRAISE: 84 de 194 estados colocam a MIL para além das habilidades técnicas nos currículos, e fatores humanos decidiram os resultados em todos os quatro sistemas (Cerioli, 2026)
+- [[jiang-faculty-development-japan-2027]] — O mandato estatutário de desenvolvimento docente do Japão: a cobertura subiu enquanto workshops, observação entre pares e revisão por pares ficaram estáveis ou caíram (Jiang, Wang & Taguchi 2026)
+- [[making-ai-work-for-students-ofs-2026]] — OfS e Advance HE (2026): 244 funcionários e 91 estudantes em 127 instituições sobre detecção, desenho de avaliação, letramento em IA e estratégia

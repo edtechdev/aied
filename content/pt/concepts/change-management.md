@@ -1,7 +1,7 @@
 ---
 title: Gestão de mudanças
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ A literatura converge em várias alavancas de gestão de mudanças. **Frameworks
 **A reforma da avaliação** é um campo de batalha central da gestão de mudanças. O [[ai-assessment-scale-reform|estudo da AI Assessment Scale]] mostra que a implementação do framework foi prejudicada por inconsistências departamentais, pressões de carga de trabalho e incerteza, com a equipe descrevendo o processo como \"um pouco de caos e loucura\". O [[ethical-ai-higher-ed-game-theory|modelo de jogo de coordenação]] oferece uma conta formal de por que declarações de política por si só falham: o uso de IA pelos estudantes é um processo coletivo de formação de normas, e mudanças pequenas e bem calibradas nos incentivos de avaliação reflexiva podem desencadear rápidas viradas de toda a coorte em direção ao uso responsável, enquanto incentivos fracos ou desalinhados permitem que práticas oportunistas persistam. Isso sustenta a governança liderada pela pedagogia em vez da vigilância. A [[ai-adaptation-gap-higher-education-2026|pesquisa sobre a lacuna de adaptação à IA]] acrescenta uma dimensão de [[stakeholders|partes interessadas]]: estudantes reportam maior intensidade de uso de IA e utilidade percebida que o corpo docente e a equipe administrativa, enquanto estes últimos reportam preocupações mais fortes com [[academic-integrity|integridade acadêmica]] — e a utilidade percebida impulsiona a [[trust|confiança]] (β = 0,402) mais fortemente que a clareza da política institucional (β = 0,223).
 
 Um workshop sobre prática de avaliação com 73 educadores de computação fornece a contraparte do lado da sala de aula. Quase toda mudança que os participantes descreveram havia sido feita por um instrutor individual num único curso sem coordenação institucional — colegas dentro de um mesmo departamento assumindo posições opostas sem nada que as concilie — e a resposta curricular que o relatório defende não terminará a tempo de ajudar os estudantes hoje matriculados; observou-se também que a dificuldade das tarefas expira num ciclo de aproximadamente um semestre, o que torna a calibração contra a capacidade atual dos modelos um ativo institucional perecível, e não uma decisão única ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
+**O mesmo uso da ferramenta pode inovar ou exaurir, e a instituição decide qual.** [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] pesquisaram 436 professores universitários de design e encontraram dois caminhos significativos a partir do uso de IA generativa. Um passa pela [[self-efficacy|autoeficácia]] docente (β = 0,322) e pelo bem-estar (β = 0,300) rumo a um trabalho mais inovador e menos retraimento; o outro passa pela ansiedade em relação à IA (β = 0,268) e pelo estresse no trabalho (β = 0,262) rumo ao inverso. O apoio organizacional percebido fortaleceu os elos habilitadores (b = 0,153 e b = 0,176), enquanto a quebra do contrato psicológico fortaleceu os elos de esgotamento (b = 0,171 e b = 0,194). O apoio não é um extra de moral: ele ajuda a decidir qual caminho uma implantação percorre.
 
 ## Implicações
 
@@ -114,3 +116,4 @@ A gestão de mudanças é o complemento institucional da integração ao nível 
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — trabalho de campo cross-sistemas sobre como a implementação e as ações do professor decidem se um produto de IA ajuda
 - [[dot-framework-survey-2026]] — evidência de pesquisa de que o desenvolvimento profissional precisa cobrir um ciclo completo de desenho, e não apenas o uso da ferramenta
 - [[flipped-classroom-ai-assessment-math-2026]] — Um arco de difusão de uma década, da iniciativa individual ao financiamento central em matemática de graduação (Law 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 professores de design: o uso de GAI eleva tanto a autoeficácia quanto a ansiedade em relação à IA, e o apoio organizacional decide qual caminho domina (Ding et al., 2026)

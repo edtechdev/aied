@@ -1,7 +1,7 @@
 ---
 title: "Quem aprende"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,16 +83,6 @@ Como os benefícios seguem a vantagem prévia, o trabalho do lado de quem aprend
 
 Leia com [[stakeholders|Partes interessadas]] pelas pessoas em torno de quem aprende, e com [[pedagogy|Pedagogia]] e [[learning-design|Desenho de aprendizagem]] pelo que os professores fazem com esses achados. A [[assessment|avaliação]] determina quais capacidades de quem aprende são de alguma forma tornadas visíveis; [[limitations-in-aied-research|Limitações na pesquisa em AIEd]] explica por que tanta evidência do lado de quem aprende é de curto prazo, autorrelatada e conduzida em amostras de conveniência; e [[misconceptions|Misconcepções]] é o ponto de entrada usual para quem aprende mesmo.
 
-## Ideias equivocadas comuns
-
-**"Quem aprende e estudantes são a mesma população."** Eles não são intercambiáveis de forma útil: *estudantes* nomeia um papel institucional, *quem aprende* nomeia uma atividade, e uma pessoa pode ser um sem ser o outro — um funcionário em [[professional-training|formação no trabalho]] é quem aprende, mas não é estudante. Confundi-los estreita a base de evidências para pessoas com registro de matrícula e descarta silenciosamente exatamente os adultos, profissionais e [[self-directed-learning|autodirigidos]] de que trata a pesquisa sobre [[lifelong-learning|aprendizagem ao longo da vida]].
-
-**"Quem aprende relata que a IA melhora sua compreensão, então ela economiza tempo."** As duas afirmações se separam nos dados de survey. No trabalho sobre produtividade de estudo, **92,3%** disseram que a IA melhorou sua compreensão, enquanto apenas **38,5%** disseram que ela reduziu seu tempo total de estudo. O número de manchete descreve a compreensão sentida; a lacuna abaixo dele mostra que compreensão melhorada e tempo recuperado são desfechos diferentes, e a alegação amplamente repetida de que "a IA economiza tempo" é carregada pelo número menor.
-
-**"Estudantes que usam IA para atalhos cometem uma falha moral."** A base de conhecimento trata a atração pelo menor esforço como problema de desenho e de política, e não de caráter — os estudantes a descrevem com suas próprias palavras, e a literatura sobre [[reducing-ai-misuse|uso indevido]] e [[academic-integrity|integridade]] localiza a alavanca no desenho da tarefa e do ambiente. Enquadrá-la moralmente não explica nada sobre por que o mesmo estudante se comporta de forma diferente em duas disciplinas.
-
-**"Quando uma alegação de má conduta é feita, a evidência está lá."** A análise de arquivos de caso de 1.162 alegações envolvendo GenAI mostra o que quem aprende de fato enfrenta quando a resposta institucional chega, e o lado estudantil do procedimento de má conduta é muito mais escasso na literatura do que o lado estudantil do uso. Uma página sobre quem aprende que documenta apenas seu uso e não sua exposição à acusação documentou metade da experiência.
-
 ## Implicações para a prática
 
 **Para instrutores**
@@ -110,6 +100,16 @@ Leia com [[stakeholders|Partes interessadas]] pelas pessoas em torno de quem apr
 
 - Mantenha a distinção entre quem aprende e estudante explícita na amostragem, e relate quem é excluído por ela.
 - Estude o acusado tanto quanto o usuário; o lado do procedimento é a metade escassa desta literatura.
+
+## Ideias equivocadas comuns
+
+**"Quem aprende e estudantes são a mesma população."** Eles não são intercambiáveis de forma útil: *estudantes* nomeia um papel institucional, *quem aprende* nomeia uma atividade, e uma pessoa pode ser um sem ser o outro — um funcionário em [[professional-training|formação no trabalho]] é quem aprende, mas não é estudante. Confundi-los estreita a base de evidências para pessoas com registro de matrícula e descarta silenciosamente exatamente os adultos, profissionais e [[self-directed-learning|autodirigidos]] de que trata a pesquisa sobre [[lifelong-learning|aprendizagem ao longo da vida]].
+
+**"Quem aprende relata que a IA melhora sua compreensão, então ela economiza tempo."** As duas afirmações se separam nos dados de survey. No trabalho sobre produtividade de estudo, **92,3%** disseram que a IA melhorou sua compreensão, enquanto apenas **38,5%** disseram que ela reduziu seu tempo total de estudo. O número de manchete descreve a compreensão sentida; a lacuna abaixo dele mostra que compreensão melhorada e tempo recuperado são desfechos diferentes, e a alegação amplamente repetida de que "a IA economiza tempo" é carregada pelo número menor.
+
+**"Estudantes que usam IA para atalhos cometem uma falha moral."** A base de conhecimento trata a atração pelo menor esforço como problema de desenho e de política, e não de caráter — os estudantes a descrevem com suas próprias palavras, e a literatura sobre [[reducing-ai-misuse|uso indevido]] e [[academic-integrity|integridade]] localiza a alavanca no desenho da tarefa e do ambiente. Enquadrá-la moralmente não explica nada sobre por que o mesmo estudante se comporta de forma diferente em duas disciplinas.
+
+**"Quando uma alegação de má conduta é feita, a evidência está lá."** A análise de arquivos de caso de 1.162 alegações envolvendo GenAI mostra o que quem aprende de fato enfrenta quando a resposta institucional chega, e o lado estudantil do procedimento de má conduta é muito mais escasso na literatura do que o lado estudantil do uso. Uma página sobre quem aprende que documenta apenas seu uso e não sua exposição à acusação documentou metade da experiência.
 
 ## Conceitos conectados
 

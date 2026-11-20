@@ -1,7 +1,7 @@
 ---
 title: "Educação em enfermagem"
 created: "2026-09-17T14:04:21-04:00"
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -13,7 +13,7 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/nursing-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Ela precisa ser mantida distinta da [[medical-education|Educação Médica e nas
 
 O campo também refina três conceitos adjacentes. Da [[simulation|simulação]] ele herda o debate sobre fidelidade, mas renomeia o déficit como \"lacuna de autenticidade\". Da [[affective-computing|computação afetiva]] ele toma a mensuração do afeto, embora sua afirmação mais forte seja a de que os resultados afetivos melhoram enquanto a profundidade emocional na interação não melhora. Da [[self-efficacy|autoeficácia]] ele toma a variável mediadora central, ao mesmo tempo que alerta que a confiança construída em um contexto de baixo risco pode não se transferir para o clínico. Abaixo de tudo isso fica o problema ordinário do [[higher-ed|ensino superior]] de carga de trabalho, acesso e integridade da avaliação, aguçado pelo licenciamento e pela consequência para o paciente.
 
-### Como a IA aparece na educação em enfermagem
+## Como a IA aparece na educação em enfermagem
 
 - **Quatro áreas de aplicação, riscos recorrentes.** [[alrazeeni-transforming-nursing-education-ai-2026|Alrazeeni et al. (2026)]] revisaram 28 estudos empíricos (2010–abril de 2025) e agrupam as aplicações de IA em [[personalized-learning|aprendizagem personalizada]], [[simulation|treinamento baseado em simulação]], [[automated-assessment|avaliação automatizada]] e gestão institucional de [[curriculum-design|currículo]] com [[learning-analytics|analytics]] preditivos. Iniquidade tecnológica, lacunas de preparo do corpo docente e preocupações de privacidade e viés recorrem. As recomendações deles são concretas — embutir simulação com IA no treinamento de atendimento de emergência, implantar [[adaptive-learning|plataformas adaptativas]] para aprendentes em risco, usar ferramentas automatizadas para [[feedback|feedback]] [[formative-assessment|formativo]] em tempo real, adotar a precisão diagnóstica como medida de impacto — dentro de pilotos multissítio de 6–12 meses rastreando [[learning-gains|resultados de aprendizagem]] e confiança.
 
@@ -65,7 +65,7 @@ O campo também refina três conceitos adjacentes. Da [[simulation|simulação]]
 - **A ansiedade como sinal de força de trabalho.** [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al. (2026)]] pesquisaram 821 estudantes de ciências da saúde (enfermagem entre eles) e encontraram uma correlação positiva moderada entre a [[anxiety-and-stress|ansiedade com a IA]] e a ansiedade na busca por emprego (r = 0,233, p < 0,001), sendo a ansiedade com a IA um preditor significativo após controlar por características sociodemográficas (β = 0,234, p < 0,001). A ansiedade com a IA, eles argumentam, não é uma atitude tecnológica, mas um fator psicológico que molda como os estudantes veem seus futuros profissionais — apontando para o [[ai-literacy|letramento em IA]] e para a orientação profissional, e não para ferramentas, como a intervenção.
 - **Pensamento de grupo e equipes [[collaborative-learning|interprofissionais]].** [[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]] colocaram um agente de [[agentic-ai|IA]] generativo (CALIE) em doze equipes interprofissionais recém-formadas em sete programas de profissões de saúde, incluindo enfermagem, durante uma sessão virtual de 180 minutos de [[problem-based-learning|aprendizagem baseada em problemas]], com [[prompt-engineering|prompting]] para ele injetar pontos de vista controversos. Dos 165 aprendentes, 158 completaram a pesquisa; o agente foi avaliado como mais útil como ferramenta (M = 3,49), depois pela utilidade do feedback (M = 3,21), e menos como parte da equipe (M = 2,88), com todas as diferenças pareadas significativas (F(2, 156) = 26,01, p < .001). A postura do facilitador importava, e aprendentes que rejeitavam as respostas do agente ainda as usavam como uma forma socialmente permissível de se pronunciar — a discordância da IA fazia trabalho de equipe.
 
-### O que o currículo deveria cobrir, e onde o mapa é fino
+## O que o currículo deveria cobrir, e onde o mapa é fino
 
 - **Um mapa de competências em doze partes, construído porque não existia um para enfermagem.** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] triaram 1.750 registros de PubMed, Embase, Web of Science e CNKI até 23 estudos incluídos (2022 a 2026, 15 países, 15 deles revisões). Eles mapearam esses estudos no modelo de Conhecimento, Atitude e Habilidade, produzindo três dimensões e 12 subdimensões: conhecimento fundacional, técnico, ético e de aplicação; [[critical-thinking|pensamento crítico]], responsabilidade, valores éticos e abertura e adaptabilidade; e habilidades operacionais, de aplicação, colaborativas e de avaliação. Compararam os frameworks de enfermagem existentes e os acharam intraduzíveis em currículos: N.U.R.S.E.S. cobre papéis, AI-ABCs cobre objetivos, CARE cobre a estrutura do prompt, e nenhum fornece um caminho [[pedagogy|pedagógico]] ou métodos de avaliação.
 
@@ -75,7 +75,7 @@ O campo também refina três conceitos adjacentes. Da [[simulation|simulação]]
 
 - **As âncoras [[quantitative-research|quantitativas]] são evidência importada, não resultados desta revisão.** O conhecimento em ética mostrou prever a integração de IA (coeficiente padronizado 0,636, p abaixo de 0,001), e uma orientação perceptual positiva para o futuro elevar os valores éticos dos estudantes (0,308, p abaixo de 0,05). A avaliação carrega a âncora clínica mais forte: um sistema de IA pontuou comunicação terapêutica com uma correlação intraclasse acima de 0,97, e uma implementação com [[rag|recuperação aumentada]] reservou a decisão final ao julgamento profissional do professor.
 
-### Competência, identidade e a lacuna de evidência
+## Competência, identidade e a lacuna de evidência
 
 - **O deslocamento é a variável de desenho.** A revisão integrativa crítica de [[sun-llm-nursing-education-professional-identity-2026|Sun et al. (2026)]] de 489 estudos em 47 países reenquadra a pesquisa em LLM em enfermagem em torno de um critério: se o trabalho cognitivo e participativo que uma LLM desloca é *extrínseco a* ou *constitutivo de* a competência que está sendo desenvolvida. Deslocar documentação e recuperação rotineira libera [[cognitive-psychology|memória de trabalho]]; deslocar uma cadeia completa de raciocínio, uma justificativa ética ou um plano de cuidado individualizado remove o objeto da aprendizagem. A evidência não é hipotética — estudantes que usavam o ChatGPT como recurso exclusivo pontuaram significativamente abaixo dos controles com livro didático em padrões éticos e raciocínio clínico, e um currículo integrado à IA produziu notas mais altas junto a planos de cuidado menos individualizados e com lógica mais fraca, uma dissociação entre desempenho e aprendizagem. O **Modelo de Tensão da Identidade Profissional** deles formaliza isso por camadas de tarefa, competência e identidade: resultados mensurados com uma ferramenta disponível podem indexar desempenho fluente, e não capacidade durável, então os programas deveriam usar pós-testes atrasados sem ferramenta e tarefas de transferência.
 - **A evidência está invertida.** O mapa de lacunas da mesma revisão não encontra nenhum estudo randomizado ou quase-experimental de identidade profissional ou de [[career-development-and-readiness|desenvolvimento de carreira]], apenas três de competência relacional e ética, e nenhum acompanhamento além de 12 meses — enquanto a evidência controlada se agrupa em resultados cognitivos e técnicos.
@@ -93,18 +93,6 @@ O campo também refina três conceitos adjacentes. Da [[simulation|simulação]]
 
 - **Condições de contorno.** As vertentes convergem na mesma contenção. A IA é melhor evidenciada para objetivos estruturados e repetíveis — comunicação fundacional, anamnese, educação em saúde, aquisição de conhecimento — e menos evidenciada para habilidade psicomotora complexa, interação carregada de emoção e formação profissional de longo prazo. A aceitação é consistentemente moderada a alta, mas a aceitação do feedback *por IA* é condicionada pela confiança: quem aprende prefere fontes humanas percebidas como benevolentes à IA percebida como meramente competente. As revisões também são geograficamente estreitas, dominadas por desenhos sem controle e por [[self-report-measures|autorrelato]] e — na revisão de simulação — mostram um padrão positivo quase uniforme que levanta preocupações de viés de publicação.
 
-
-## Ideias equivocadas comuns
-
-**"A simulação apoiada por IA melhora a competência em enfermagem de forma generalizada."** O benefício termina numa fronteira documentada. A simulação apoiada por IA melhora de forma confiável o conhecimento e a [[self-efficacy|autoeficácia]], mas mostra **efeitos inconsistentes, às vezes negativos, sobre a habilidade psicomotora complexa** — e a competência psicomotora não é um desfecho periférico numa profissão definida por ela. Um programa que adota a simulação com base em ganhos de conhecimento tem evidência para um desfecho diferente daquele que a licença examina.
-
-**"A ansiedade da força de trabalho em torno da IA na enfermagem é, na verdade, uma lacuna de habilidades, então o treinamento em letramento em IA é o remédio."** A ansiedade é sobre emprego, não sobre competência. Uma pesquisa com **821 estudantes de ciências da saúde** encontrou uma correlação positiva moderada entre [[anxiety-and-stress|ansiedade com IA]] e ansiedade na busca por emprego (**r = 0,233, p < 0,001**), com a ansiedade com IA como preditor significativo após controles. Ensinar letramento aborda o medo de não conseguir usar uma ferramenta; não aborda o medo de não ter emprego — e o enquadramento de identidade profissional da literatura, quem se torna enfermeiro em vez do que um aprendiz consegue fazer, é onde essa questão pertence.
-
-**"Os estudantes querem agentes de IA como colaboradores."** Eles os querem como ferramentas. De **165 estudantes (158 concluintes)**, o agente foi avaliado como mais útil *como ferramenta* (**M = 3,49**), depois pela utilidade do feedback (**M = 3,21**), e menos *como parte da equipe* (**M = 2,88**), com todas as diferenças par a par significativas (**F(2, 156) = 26,01, p < ,001**). Um desenho que posiciona um agente como membro da equipe vai contra a preferência dos estudantes, e não à frente dela.
-
-**"Qualquer estudo de simulação se generaliza para a prática clínica."** A base de evidências revisada aqui — **19 estudos, N = 1.253, em sua maioria estudantes de pré-licenciatura** — é largamente de sala de aula e de laboratório, e a tradução da competência simulada para a prática supervisionada é exatamente o passo que uma simulação assistida por IA não ensaia por si mesma.
-
-**"A competência em IA para enfermagem significa lidar com as ferramentas, então o treinamento deveria começar por elas."** A literatura de frameworks corre no sentido oposto. As dimensões que os revisores encontraram consistentemente abordadas são conhecimento em ética, responsabilidade, aplicação e habilidades de avaliação; o uso técnico e operacional é onde o campo tem menos a dizer. Um programa que compra licenças de ferramentas primeiro está construindo a parte do mapa com a evidência mais fina, e os frameworks nomeados que poderia adotar em vez de um currículo, N.U.R.S.E.S., AI-ABCs e CARE, são precisamente os que não têm métodos de avaliação.
 
 ## Implicações para a prática
 
@@ -127,6 +115,18 @@ O campo também refina três conceitos adjacentes. Da [[simulation|simulação]]
 **Para pesquisadores**
 
 - Relate amostras de pré-licenciatura e de enfermeiros em exercício separadamente, e estude a transição para a prática supervisionada se a afirmação de competência quiser significar algo clinicamente.
+
+## Ideias equivocadas comuns
+
+**"A simulação apoiada por IA melhora a competência em enfermagem de forma generalizada."** O benefício termina numa fronteira documentada. A simulação apoiada por IA melhora de forma confiável o conhecimento e a [[self-efficacy|autoeficácia]], mas mostra **efeitos inconsistentes, às vezes negativos, sobre a habilidade psicomotora complexa** — e a competência psicomotora não é um desfecho periférico numa profissão definida por ela. Um programa que adota a simulação com base em ganhos de conhecimento tem evidência para um desfecho diferente daquele que a licença examina.
+
+**"A ansiedade da força de trabalho em torno da IA na enfermagem é, na verdade, uma lacuna de habilidades, então o treinamento em letramento em IA é o remédio."** A ansiedade é sobre emprego, não sobre competência. Uma pesquisa com **821 estudantes de ciências da saúde** encontrou uma correlação positiva moderada entre [[anxiety-and-stress|ansiedade com IA]] e ansiedade na busca por emprego (**r = 0,233, p < 0,001**), com a ansiedade com IA como preditor significativo após controles. Ensinar letramento aborda o medo de não conseguir usar uma ferramenta; não aborda o medo de não ter emprego — e o enquadramento de identidade profissional da literatura, quem se torna enfermeiro em vez do que um aprendiz consegue fazer, é onde essa questão pertence.
+
+**"Os estudantes querem agentes de IA como colaboradores."** Eles os querem como ferramentas. De **165 estudantes (158 concluintes)**, o agente foi avaliado como mais útil *como ferramenta* (**M = 3,49**), depois pela utilidade do feedback (**M = 3,21**), e menos *como parte da equipe* (**M = 2,88**), com todas as diferenças par a par significativas (**F(2, 156) = 26,01, p < ,001**). Um desenho que posiciona um agente como membro da equipe vai contra a preferência dos estudantes, e não à frente dela.
+
+**"Qualquer estudo de simulação se generaliza para a prática clínica."** A base de evidências revisada aqui — **19 estudos, N = 1.253, em sua maioria estudantes de pré-licenciatura** — é largamente de sala de aula e de laboratório, e a tradução da competência simulada para a prática supervisionada é exatamente o passo que uma simulação assistida por IA não ensaia por si mesma.
+
+**"A competência em IA para enfermagem significa lidar com as ferramentas, então o treinamento deveria começar por elas."** A literatura de frameworks corre no sentido oposto. As dimensões que os revisores encontraram consistentemente abordadas são conhecimento em ética, responsabilidade, aplicação e habilidades de avaliação; o uso técnico e operacional é onde o campo tem menos a dizer. Um programa que compra licenças de ferramentas primeiro está construindo a parte do mapa com a evidência mais fina, e os frameworks nomeados que poderia adotar em vez de um currículo, N.U.R.S.E.S., AI-ABCs e CARE, são precisamente os que não têm métodos de avaliação.
 
 ## Conceitos conectados
 

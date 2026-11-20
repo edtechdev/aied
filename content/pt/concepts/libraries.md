@@ -1,7 +1,7 @@
 ---
 title: "Bibliotecas"
 created: "2026-11-08T16:20:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
 translation_of: concepts/libraries
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,13 @@ A função mais antiga da biblioteca — oferecer acesso que os indivíduos não
 - **Mantenha um caminho de escalonamento humano em qualquer serviço de IA.** A evidência sustenta IA para busca e redação preliminar, e equipe humana para julgamento sobre fontes; desenhos que apagam o segundo para escalar o primeiro removem a parte que o público não consegue obter em outro lugar.
 - **Instrumente o deslocamento da busca em vez de pesquisá-lo por amostragem.** Registros de empréstimo e de descoberta já existem; uma biblioteca que os combina com dados de instrução saberá mais sobre o efeito da IA do que uma pesquisa pontual com estudantes pode mostrar.
 - **Não apresente o letramento em IA como letramento informacional.** Eles compartilham equipe e referenciais, mas diferem no que avaliam; confundi-los produz um programa que não mede nem um nem outro.
+
+## Ideias equivocadas comuns
+
+- **IA em bibliotecas significa um chatbot no balcão de referência.** A adoção se concentra no trabalho transacional — perguntas direcionais, catalogação, transcrições de chat — enquanto o julgamento permanece humano.
+- **Os estudantes abandonaram a biblioteca.** Os mecanismos de busca continuam sendo o ponto de partida dominante, e nove anos de registros de empréstimo não mostram qualquer mudança no ponto de ruptura.
+- **O financiamento é a única barreira.** Lacunas de competência e baixa qualidade de dados são nomeadas mais frequentemente que dinheiro, o que faz disso um problema de capacidade tanto quanto de orçamento.
+- **Uma literatura crescente significa que o campo está se transformando.** O volume de publicações subiu sem qualquer mudança medida na prática; as revisões encontram entusiasmo à frente do efeito.
 
 ## Conceitos conectados
 

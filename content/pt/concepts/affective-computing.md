@@ -1,7 +1,7 @@
 ---
 title: Computação afetiva
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introdução
 
-### Perceber a emoção para adaptar a instrução
+## Perceber a emoção para adaptar a instrução
 
 A computação afetiva busca tornar os sistemas de IA emocionalmente conscientes para que possam responder a como os estudantes se sentem, e não apenas ao que fazem. Na educação, isso significa perceber frustração, confusão, confiança, tédio ou engajamento e adaptar a instrução de acordo. O [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demonstra a abordagem ao modelar o afeto a partir de duas modalidades — texto conversacional e expressão facial em tempo real — e mapear o estado emocional agregado para estratégias [[pedagogy|pedagógicas]] antes de fazer o [[prompt-engineering|prompting]] do tutor.
 
@@ -46,7 +46,7 @@ Os próprios sinais são ambíguos: um único canal expressivo não consegue dis
 
 - **Suporte emocional e reflexivo de LLMs em matemática do ensino fundamental:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] acrescentaram mindfulness a um [[intelligent-tutoring|tutor]] de álgebra para a 7ª série por meio de conversas dinâmicas, exercícios de respiração e uma linguagem de feedback de erros baseada em atenção plena. Em um pequeno [[rct]] de sala de aula (42 concluintes de 252 participantes), a versão com mindfulness alcançou aprendizagem de álgebra similar em menos tempo e com menos pedidos de dicas do que apenas o suporte cognitivo — maior eficiência de aprendizagem e [[help-seeking|busca de ajuda]] mais equilibrada — embora a redução da ansiedade com matemática não tenha diferido significativamente entre as condições.
 
-### Os benefícios e os riscos
+## Os benefícios e os riscos
 
 A tutoria ciente da emoção pode gerar ganhos mensuráveis, mas a mesma sofisticação carrega riscos:
 
@@ -55,9 +55,9 @@ A tutoria ciente da emoção pode gerar ganhos mensuráveis, mas a mesma sofisti
 
 - **Engajamento não é um proxy para aprendizagem.** Um estudo com sensoriamento cerebral descobriu que uma interface restrita e adaptativa aumentou o engajamento cognitivo (p = ,018), enquanto o chatbot irrestrito produziu [[learning-gains|ganhos de aprendizagem]] maiores (p < ,03, d > 0,80), de modo que um sinal de afeto ou engajamento pode apontar para longe do resultado que ele deveria servir ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
-### Computação afetiva e a AIED mais ampla
+## Computação afetiva e a AIED mais ampla
 
-A computação afetiva fica na interseção entre a [[affective-tutoring]] (sua aplicação pedagógica), a [[student-modeling]] (representar o estudante inteiro, incluindo a emoção) e a [[learning-analytics]] (derivar sinais dos dados do estudante). Ela se conecta ao desenho de [[intelligent-tutoring]] e à [[pedagogical-safety]] — o princípio de que a IA deve apoiar, e não manipular, a emoção do estudante.
+A computação afetiva fica na interseção entre a [[affective-tutoring]] (sua aplicação pedagógica), a [[student-modeling]] (representar o estudante inteiro, incluindo a emoção) e a [[learning-analytics]] (derivar sinais dos dados do estudante). Ela se conecta ao desenho de [[intelligent-tutoring]] e à [[pedagogical-safety]] — o princípio de que a IA deve apoiar, e não manipular, a emoção do estudante. A percepção de afeto é distinta da pedagogia que ela alimenta: a [[affective-tutoring|tutoria afetiva]] cobre como um tutor deve agir a partir de uma leitura de afeto, e a [[sensor-and-gaze-analytics|analítica de sensores e olhar]] cobre o que os próprios sinais podem sustentar.
 
 - **Monitoramento de emoção em sala de aula em tempo real, baseado em edge.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] construíram um sistema de avaliação da qualidade da sala de aula ciente da emoção que leva a computação afetiva para contextos autênticos e de larga escala. Voltado para **dispositivos de IoT/edge**, o sistema trata do balanceamento de carga e da latência enquanto coordena múltiplos agentes para capturar os padrões emocionais e de engajamento dos estudantes em tempo real. Foi avaliado no **Classroom Emotion Dataset** (1.500 imagens rotuladas e 300 vídeos de sala de aula de escolas de K-12 vietnamitas reais) com foco em interação afetiva multipessoa, em contexto real — uma demonstração de como escalar o reconhecimento de emoção de modelos de laboratório para um monitoramento de sala de aula implantável, ao lado das considerações de privacidade e de [[pedagogical-safety|segurança pedagógica]] que tal monitoramento levanta.
 - **Agentes de avaliação emocionalmente inteligentes.** O [[aivaluate-anxiety-assessment-2026|AIvaluate]], um [[llm|agente conversacional]] emocionalmente inteligente [[conversational-ai|aumentado por LLM]], reduziu a [[anxiety-and-stress|ansiedade]] e a pressão social dos estudantes durante avaliações baseadas em desempenho, preservando a [[usability-research|usabilidade]].

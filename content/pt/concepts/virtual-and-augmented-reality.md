@@ -1,7 +1,7 @@
 ---
 title: Realidade virtual e aumentada
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,7 +9,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,7 +71,9 @@ A evidência mais forte a favor da RV/RA é comparativa e [[discipline-specific-
 
 A contraevidência é igualmente informativa. Na primeira metanálise de intervenções baseadas em IA para [[inclusive-learning|estudantes com deficiência]] — 29 estudos, 239 tamanhos de efeito, efeito geral médio g = 0,588 — os sistemas de RV inteligentes produziram g = 0,528, **não estatisticamente significativo**, enquanto o software de computador alcançou 0,959 e os robôs 0,509. Havia viés de publicação, e o trim-and-fill reduziu a estimativa geral para g = 0,269. O padrão não é que a imersão falhe, mas que seus efeitos são pequenos, heterogêneos e sensíveis a como a intervenção particular foi desenhada e comparada.
 
-O resultado negativo mais claro na base de conhecimento vem de uma implantação em estúdio, e não de uma comparação de modalidades: em um estúdio de desenho arquitetônico com 27 estudantes, as equipes que usavam um pipeline de GenAI mais XR multiusuário declinaram mais em confiança de [[self-efficacy|autoeficácia]] em desenho (β = −1,675) e em expectativa de resultado (β = −2,088) do que as equipes que trabalhavam o fluxo de trabalho normal do curso, sem diferença significativa nas avaliações de painel de especialistas de suas apresentações ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026)]]). Os autores explicam isso como complementaridade dependente de fase com atrito real — a GenAI para externalizar ideias provisórias, o XR para avaliação espacial e de escala — junto a problemas de controle, fidelidade dimensional, atenção compartilhada e conforto de movimento, um lembrete de que a instrumentação imersiva acrescenta custos de interação, e não apenas capacidade.
+O resultado negativo mais claro na base de conhecimento vem de uma implantação em estúdio, e não de uma comparação de modalidades: em um estúdio de desenho arquitetônico com 27 estudantes, as equipes que usavam um pipeline de GenAI mais XR multiusuário declinaram mais em confiança de [[self-efficacy|autoeficácia]] em desenho (β = −1,675) e em expectativa de resultado (β = −2,088) do que as equipes que trabalhavam o fluxo de trabalho normal do curso, sem diferença significativa nas avaliações de painel de especialistas de suas apresentações ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Os autores explicam isso como complementaridade dependente de fase com atrito real — a GenAI para externalizar ideias provisórias, o XR para avaliação espacial e de escala — junto a problemas de controle, fidelidade dimensional, atenção compartilhada e conforto de movimento, um lembrete de que a instrumentação imersiva acrescenta custos de interação, e não apenas capacidade.
+
+**A literatura é jovem e dispersa.** Um mapeamento bibliométrico da educação STEM com RV habilitada por IA encontrou 241 publicações no Dimensions entre 2005 e 2025, mas 84,6% delas apareceram em 2023-2025, com a inflexão de crescimento em 2023, e não na pandemia ([[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan et al., 2026]]). O desempenho de citações era forte: 92 de 127 publicações com escores normalizados por área estavam na média global ou acima dela. A estrutura social do campo era fina, porém, com 774 de 789 autores creditados em um único artigo e 185 de 209 veículos aparecendo uma única vez. Para quem pondera os estudos de efeito acima, essa estrutura é a ressalva: a maior parte da evidência é recente, e poucos grupos de pesquisa acumularam um programa sustentado.
 
 ## Fidelidade, presença e a lacuna de autenticidade
 

@@ -1,7 +1,7 @@
 ---
 title: "Educação em química"
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [chemistry education, stem education, teacher education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ A educação em química se tornou um domínio fértil para a pesquisa em IA na 
 **Precisão técnica e letramento crítico em IA.** Evidências sistemáticas mostram que os [[llm|LLMs]] conseguem definir termos básicos de química, mas têm desempenho ruim em tarefas quantitativas rigorosas, têm dificuldade com raciocínio espacial (por exemplo, RMN), apresentam excesso de confiança e sensibilidade à notação ([[ai-science-chemistry-education-systematic-review-2025|Erümit e Özdemir Sarıalioğlu]]; os achados do ChemBench/QCBench na [[unesco-ai-guidelines-chemical-education-2026|perspectiva da UNESCO]]). Isso torna o **engajamento avaliativo com a saída da IA** — interrogar, verificar e confrontar com os princípios químicos — um objetivo central de aprendizagem, conectando-se a [[ai-literacy|letramento em IA]], [[critical-thinking|pensamento crítico]] e [[reducing-ai-misuse|redução do uso indevido de IA]].
 
 **Ética, política e deriva epistêmica.** A [[unesco-ai-guidelines-chemical-education-2026|perspectiva das diretrizes da UNESCO]] alerta sobre a **deriva epistêmica** — o risco de que algoritmos opacos afastem a investigação da compreensão causal — e pede uma mudança da entrega de conteúdo para a **criação de conhecimento**, letramento crítico em IA na química, avaliação que priorize o raciocínio humano e o fechamento da [[digital-divide|lacuna global de acesso]].
+
+**O feedback emocional pode elevar a ansiedade que pretende combater.** Um semestre de feedback emocional por IA em laboratórios do nono ano coincidiu com o aumento da ansiedade de laboratório (F = 4,60) e com um senso de realização estagnado, enquanto a turma de investigação conduzida pelo professor teve ganhos (F = 7,92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ### Conexões com conceitos relacionados
 

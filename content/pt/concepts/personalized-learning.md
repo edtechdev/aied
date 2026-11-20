@@ -1,7 +1,7 @@
 ---
 title: "Aprendizagem personalizada"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ Uma revisão PRISMA 2020 de 22 intervenções no ensino superior situa o apoio �
 
 A [[intelligent-tutoring|tutoria inteligente]] se situa no meio: as ITS são as plataformas *adaptativas* canônicas que entregam instrução personalizada por meio de modelagem estruturada do estudante, enquanto os tutores baseados em [[llm|LLM]] personalizam conversacionalmente. Todas as três são membros do lado da aplicação da família de [[student-modeling|modelagem de quem aprende e instrução adaptativa]] — elas consomem as representações de quem aprende produzidas pela [[student-modeling|modelagem do estudante]], pelo [[knowledge-tracing|rastreamento de conhecimento]] e pelo [[cognitive-diagnosis|diagnóstico cognitivo]] para decidir o que ensinar em seguida. A distinção importa para a avaliação: estudos que rotulam um sistema como "adaptativo", "personalizado" ou "individualizado" de forma intercambiável (ver abaixo) podem obscurecer se o benefício alegado vem da adaptação em tempo real, da escolha de quem aprende ou da adequação de conteúdo.
 
+Uma revisão sistemática de 2026 de 61 estudos no ensino superior dá a essa distinção um respaldo empírico. O controle direcionado pelo aprendiz, ou seja, os estudantes decidiam quando, o que e como perguntar, foi codificado em 46 estudos (75,4%). Sistemas feitos sob medida ou customizados para o curso apareceram em 10 (16,4%) e a adaptação conduzida pelo sistema foi documentada em cinco (8,2%); a análise de sensibilidade da revisão deixou um ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]). A maior parte do que a literatura chama de aprendizagem personalizada é acesso flexível a um assistente geral, e não um modelo de quem aprende.
+
 ## Desafios de medição
 
 - **Personalização do sistema vs. percebida** — Um sistema pode se adaptar sem que quem aprende se sinta reconhecido
@@ -123,18 +125,6 @@ A certeza GRADE foi avaliada como muito baixa. A leitura honesta é que a estima
 
 Um problema recorrente é que "aprendizagem personalizada" é um termo guarda-chuva amplo e vagamente definido. Revisões sistemáticas ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) concluem que [[adaptive-learning|aprendizagem adaptativa]], instrução individualizada, aprendizagem customizada e aprendizagem personalizada são usadas de forma intercambiável, sem definição universalmente aceita — uma fonte de ambiguidade conceitual que complica a síntese de pesquisa e a prática baseada em evidência. O campo clama cada vez mais por um framework e uma definição unificados, para que "personalizado" denote uma afirmação precisa e respaldada por evidência, e não um rótulo vago (um ponto reforçado pela [[limitations-in-aied-research|crítica desta base de conhecimento ao uso fraco de constructos]]).
 
-## Ideias equivocadas comuns
-
-**"Aprendizagem personalizada e aprendizagem adaptativa são a mesma coisa."** Sistemas adaptativos são um *meio* para a personalização, não a sua definição. A personalização pode igualmente ser alcançada por perfis estáticos de quem aprende, por trilhas baseadas em escolha, ou pela adequação feita por um tutor humano que nunca se adapta em tempo real. Tratar os dois como sinônimos faz uma escola que oferece rica escolha a quem aprende, mas nenhum motor adaptativo, parecer não personalizada, e faz um exercício densamente adaptativo parecer mais centrado em quem aprende do que ele é.
-
-**"A personalização compensa cobrindo mais terreno."** Onde o diagnóstico por trás de uma trilha é de fato validado, ela compensa *reduzindo a carga, e não pela cobertura*: a remediação por caminho mais curto teve média de 3,82 passos e cortou o tempo de estudo em 22,0% (57,6 contra 73,8 minutos), com a carga cognitiva carregando o efeito. O benefício são menos passos desnecessários, não mais conteúdo por hora.
-
-**"Um modelo que consegue gerar um [[curriculum-design|currículo]] coerente consegue personalizá-lo."** Geração e adaptação são capacidades diferentes, e a lacuna entre elas é grande. Modelos geradores de currículo produziram saída estruturalmente sólida — o DeepSeek-V3.1 alcançou 90,9% em validade de pré-requisitos e de alucinação —, enquanto a adaptatividade parou em 44,7%, com uma taxa de aprovação final de 29,5% na condição Básica. Validade de pré-requisitos não é personalização.
-
-**"Gerar o material remove a restrição que o conteúdo real impõe."** A geração relaxa uma restrição e não consegue relaxar outras. O [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] gera conjuntos de dados sintéticos de estatística ajustados ao interesse declarado do estudante, aos objetivos do curso e ao nível de habilidade pretendido — um ajuste tríplice que conjuntos de dados reais raramente satisfazem —, mas seus autores declaram o limite abertamente: dados sintéticos não conseguem ensinar coleta de dados, mensuração ou desenho de estudo, de modo que a ferramenta complementa dados reais em vez de substituí-los.
-
-**"Os [[learning-gains|ganhos de aprendizagem]] relatados são o que valida esses sistemas."** Nos estudos de RL e de personalização aqui levantados, as políticas superaram baselines não adaptativos com mais frequência em adaptação relacionada à orientação e em variáveis afetivas (63% dos estudos testados), enquanto o ganho de aprendizagem — especialmente o ganho de aprendizagem normalizado — foi o desfecho *menos* comumente relatado. Uma literatura que relata engajamento e afeto muito mais do que aprendizagem não é evidência de que a aprendizagem domine.
-
 ## Implicações para a prática
 
 **Para instrutores**
@@ -153,6 +143,18 @@ Um problema recorrente é que "aprendizagem personalizada" é um termo guarda-ch
 
 - Pare de confundir personalização com adaptação nos construtos que mede, e diga explicitamente qual mecanismo produziu o efeito.
 - Relate o ganho de aprendizagem normalizado como desfecho primário; sua escassez na literatura é uma lacuna a fechar, e não uma convenção a herdar.
+
+## Ideias equivocadas comuns
+
+**"Aprendizagem personalizada e aprendizagem adaptativa são a mesma coisa."** Sistemas adaptativos são um *meio* para a personalização, não a sua definição. A personalização pode igualmente ser alcançada por perfis estáticos de quem aprende, por trilhas baseadas em escolha, ou pela adequação feita por um tutor humano que nunca se adapta em tempo real. Tratar os dois como sinônimos faz uma escola que oferece rica escolha a quem aprende, mas nenhum motor adaptativo, parecer não personalizada, e faz um exercício densamente adaptativo parecer mais centrado em quem aprende do que ele é.
+
+**"A personalização compensa cobrindo mais terreno."** Onde o diagnóstico por trás de uma trilha é de fato validado, ela compensa *reduzindo a carga, e não pela cobertura*: a remediação por caminho mais curto teve média de 3,82 passos e cortou o tempo de estudo em 22,0% (57,6 contra 73,8 minutos), com a carga cognitiva carregando o efeito. O benefício são menos passos desnecessários, não mais conteúdo por hora.
+
+**"Um modelo que consegue gerar um [[curriculum-design|currículo]] coerente consegue personalizá-lo."** Geração e adaptação são capacidades diferentes, e a lacuna entre elas é grande. Modelos geradores de currículo produziram saída estruturalmente sólida — o DeepSeek-V3.1 alcançou 90,9% em validade de pré-requisitos e de alucinação —, enquanto a adaptatividade parou em 44,7%, com uma taxa de aprovação final de 29,5% na condição Básica. Validade de pré-requisitos não é personalização.
+
+**"Gerar o material remove a restrição que o conteúdo real impõe."** A geração relaxa uma restrição e não consegue relaxar outras. O [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] gera conjuntos de dados sintéticos de estatística ajustados ao interesse declarado do estudante, aos objetivos do curso e ao nível de habilidade pretendido — um ajuste tríplice que conjuntos de dados reais raramente satisfazem —, mas seus autores declaram o limite abertamente: dados sintéticos não conseguem ensinar coleta de dados, mensuração ou desenho de estudo, de modo que a ferramenta complementa dados reais em vez de substituí-los.
+
+**"Os [[learning-gains|ganhos de aprendizagem]] relatados são o que valida esses sistemas."** Nos estudos de RL e de personalização aqui levantados, as políticas superaram baselines não adaptativos com mais frequência em adaptação relacionada à orientação e em variáveis afetivas (63% dos estudos testados), enquanto o ganho de aprendizagem — especialmente o ganho de aprendizagem normalizado — foi o desfecho *menos* comumente relatado. Uma literatura que relata engajamento e afeto muito mais do que aprendizagem não é evidência de que a aprendizagem domine.
 
 ## Conceitos conectados
 
@@ -193,3 +195,4 @@ Um problema recorrente é que "aprendizagem personalizada" é um termo guarda-ch
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — Paradoxo da personalização: personalização adaptativa percebida ligada a menor aprendizagem autorregulada via emoções acadêmicas, amortecida pelo letramento em IA (Li, Lin & Qiu 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: planejadores de LLM alcançam 90,9% de validade, mas nenhum modelo supera 44,7% de adaptatividade ao personalizar caminhos para um objetivo declarado de quem aprende (Liu et al. 2026)
 - [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Quatro estudos, um efeito agrupado grande e certeza muito baixa
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 estudos: 75,4% codificaram controle direcionado pelo aprendiz, 8,2% adaptação conduzida pelo sistema (Aybar-Bellido et al., 2026)

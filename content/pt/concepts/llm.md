@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introdução
 
-### Os LLMs como motor da AIED
+## Os LLMs como motor da AIED
 
 Os LLMs são o conceito mais referenciado da base de conhecimento (mais de 60 artigos) porque sustentam quase todas as aplicações de educação com IA:
 
@@ -54,7 +54,7 @@ Os LLMs são o conceito mais referenciado da base de conhecimento (mais de 60 ar
 - **Verificação separada da geração — com modos de falha correlacionados.** [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]] restringem a recuperação do tutor a material de curso aprovado pelo instrutor e roteiam as afirmações por um verificador DeBERTa-v3-large-MNLI arquiteturalmente separado, mas advertem que ambos os modelos compartilham um treinamento amplo na web e podem falhar de formas correlacionadas, e que o verificador não consegue verificar um rastro de código sem executá-lo.
 - **Mudança no modelo de avaliação (2017–2024):** a revisão de escopo de Morley et al. sobre correção automática de questões curtas de [[science-education|ciências]] rastreia a mudança do campo do ajuste fino de modelos [[educational-nlp|BERT]] menores (dominantes até 2021) para o prompting de LLMs maiores (GPT-1/2/3.5/4) a partir de aproximadamente 2022 — adotado via [[prompt-engineering]] em vez de ajuste fino —, com modelos aumentados por domínio, prompting consciente de rubrica e cadeia de pensamento elevando a precisão. Ainda assim, os modelos GPT raramente foram submetidos a benchmark contra o BERT em corpora padrão, poucos corretores automáticos conseguiam explicar suas notas, e o [[bias-mitigation|viés]] foi raramente examinado — ressalvas que se aplicam à avaliação por LLM em geral ([[auto-marking-short-answer-science-2026]]).
 
-### Pesquisa específica por modelo
+## Pesquisa específica por modelo
 
 A base de conhecimento cobre tanto LLMs de propósito geral (GPT-4, Claude) quanto adaptações específicas da educação. Os [[cstutorbench-slm-tutors|benchmarks de modelos de linguagem pequenos]] comparam o desempenho de SLMs em tutoria, e [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]] argumentam que os SLMs são arquiteturalmente adequados para tutoria [[agentic-ai|agêntica]] quando implantados como planejadores aumentados por ferramentas — as ferramentas determinísticas carregam a carga que um modelo pequeno lidaria de outra forma de modo implícito —, com o controle pedagógico residindo na política de escalonamento, e não no modelo. A pesquisa sobre [[educational-llm-alignment|alinhamento educacional]] aborda como tornar os LLMs pedagogicamente apropriados. Um estudo em sala de aula ao longo de três famílias de fronteira — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] — constatou que o ChatGPT, o Gemini ou o Claude podiam atuar como parceiros colaborativos de crítica para a escrita argumentativa: ao longo de um semestre de redações iterativas, os estudantes melhoraram em qualidade da argumentação, [[prompt-engineering|engenharia de prompts]] e resposta ao [[ai-feedback-quality|feedback de IA]] em cerca de um desvio-padrão cada (todos p < .001) e se engajaram profundamente (87,8% refutando afirmações do LLM), posicionando os LLMs de propósito geral como parceiros viáveis de [[collaborative-learning|aprendizagem colaborativa]], e não meros geradores de respostas.
 

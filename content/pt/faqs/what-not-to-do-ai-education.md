@@ -1,7 +1,7 @@
 ---
 title: "O que os educadores devem evitar fazer com a IA?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-15T15:37:46-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
@@ -156,9 +156,9 @@ Nenhuma dessas cautelas significa que a ferramenta está sempre errada. Um detec
 
 ## Para onde ir agora
 
-- [[addressing-common-misconceptions-ai-education|FAQ sobre concepções errôneas]]: as crenças por trás dessas práticas, e como corrigi-las sem condescendência.
-- [[limitations-in-aied-research]]: o que a base de evidências ainda não consegue sustentar.
-- [[reducing-ai-misuse]]: alavancas estruturais para o uso indevido, e por que elas superam a exortação.
-- [[pedagogical-safety]]: o que um tutor pode fazer a um aprendiz passando por todas as verificações de conteúdo.
+- [[addressing-common-misconceptions-ai-education]]: as crenças por trás dessas práticas, e como corrigi-las sem condescendência.
+- [[limitations-in-aied-research|Limitações na pesquisa em AIEd]]: o que a base de evidências ainda não consegue sustentar.
+- [[reducing-ai-misuse|Reduzir o uso indevido de IA]]: mudanças na tarefa e no software que previnem o uso indevido, e por que funcionam melhor que lembretes.
+- [[pedagogical-safety|Segurança pedagógica]]: o que um tutor pode fazer a um aprendiz passando por todas as verificações de conteúdo.
 - [[should-we-use-ai-detectors]]: a evidência sobre detectores em detalhe.
 - [[checking-whether-educational-ai-works]]: como avaliar uma afirmação antes de adotá-la.

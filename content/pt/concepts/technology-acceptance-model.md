@@ -1,7 +1,7 @@
 ---
 title: Modelos de adoção de tecnologia
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ A pesquisa em adoção normalmente para na intenção; uma extensão da TPB que 
 ### Difusão da Inovação (DOI)
 A teoria da DOI de Rogers explica a adoção como um processo social em que as inovações se difundem pelas populações ao longo do tempo, enfatizando os atributos da inovação (vantagem relativa, compatibilidade, complexidade, possibilidade de teste, observabilidade) e as categorias de adotantes. Ela aparece nas análises de nível [[governance|institucional]] da base de conhecimento, ex., [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combinam o framework Tecnologia–Organização–Ambiente (TOE) com a DOI para modelar a adoção organizacional de IA em universidades sauditas.
 
+No nível do estudante, [[gocyla-genai-adoption-diffusion-2026|Gocyła e Strzelecki (2026)]] constataram que vantagem relativa, compatibilidade, simplicidade e observabilidade prediziam a intenção de usar GenAI, explicando 48,7% da variância, enquanto a possibilidade de teste não (f² = 0,001): o acesso gratuito pode tornar o teste uma expectativa de linha de base, e não um diferenciador.
+
 ### Tecnologia–Organização–Ambiente (TOE)
 O TOE enquadra a adoção como moldada por contextos tecnológicos, organizacionais e ambientais — um complemento ao TAM/UTAUT de nível individual para estudar a adoção institucional (ver [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
@@ -87,6 +89,8 @@ Acrescentar uma capacidade da família [[tpack|TPACK]] ao lado de frameworks de 
 
 Em um estudo de entrevistas em duas ondas com 22 docentes, aprender mais sobre IA tornou alguns mais cautelosos em vez de mais receptivos, invertendo a direção assumida pelo modelo, de experiência para facilidade de uso ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
+Mesmo uma vitória limpa de interface não precisa mover a intenção: quando adultos de 18 a 25 anos buscaram informações sobre programas universitários por um chatbot fundamentado ou pelo site do programa, toda medida perceptual favoreceu o chatbot, enquanto a intenção comportamental de usá-lo novamente não diferiu, e a prontidão tecnológica moderou o tamanho da vantagem, com os usuários menos confortáveis ganhando menos ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
+
 ## Limites e extensões
 
 O foco cognitivo do TAM também subcaptura as dimensões emocionais e relacionais do uso da IA. Um [[akbaba-nursing-ai-experiences-tam-2026|estudo qualitativo de estudantes e corpo docente de enfermagem]] descobriu que, ao lado dos quatro construtos clássicos do TAM, os participantes — principalmente estudantes — descreveram a IA como fonte de apoio psicossocial: conforto emocional durante o estresse e um espaço confidencial para reflexão. Isso estende a utilidade percebida além dos ganhos de desempenho para o [[well-being|bem-estar]] no [[professional-training|treinamento profissional]] de alto estresse, sugerindo que os modelos de adoção deveriam atender a fatores afetivos e psicossociais, e não apenas à utilidade instrumental.
@@ -98,6 +102,8 @@ O foco cognitivo do TAM também subcaptura as dimensões emocionais e relacionai
 
 Uma extensão recente inverte a direção usual, colocando crenças motivacionais [[discipline-specific-aied|específicas da matéria]] a montante das percepções do TAM, em vez de ao lado delas. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi e Lu (2026)]] relatam valor de utilidade predizendo utilidade percebida em β = 0,43 e expectativa de sucesso predizendo facilidade de uso em β = 0,39, enquanto os caminhos centrais do TAM atenuam mas permanecem significativos.
 
+**A utilidade pode pertencer ao conjunto de tarefas, e não à ferramenta.** Em quatro grupos focais com 26 graduandos de STEM, o mesmo fórum de discussão valia o tempo deles quando o prompt pedia aplicação ou mostrava como os colegas raciocinavam, e era trabalho inútil quando pedia reformulação ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner e Nugent, 2026]]). Os autores enunciam a conclusão como uma afirmação do TAM: a utilidade percebida se liga a como o prompt é construído, e não à presença do fórum.
+
 **O ajuste tarefa–tecnologia como caminho paralelo, e a necessidade como questão separada.** A maioria das extensões acima acrescenta construtos *dentro* do modelo de crenças. Um framework irmão que os estudos de TAM raramente carregam é o Ajuste Tarefa–Tecnologia, que pergunta se as capacidades de uma ferramenta correspondem às demandas da tarefa específica. [[chu-design-students-ai-agent-tam-ttf-2026|Chu e Liu (2026)]] uniram os dois em 405 estudantes de pós-graduação em design de universidades chinesas, e o ajuste atuou como uma segunda rota para a atitude, e não como determinante da utilidade.
 
 As características da tarefa alimentaram o ajuste em β = 0,322 e as características da tecnologia em β = 0,266. O ajuste então alimentou a atitude em β = 0,224, ao lado da utilidade percebida (0,376) e da facilidade de uso percebida (0,185), e a atitude alimentou a intenção em β = 0,388. A autoeficácia carregou os maiores coeficientes a montante, 0,458 sobre a utilidade e 0,394 sobre a facilidade de uso. O prazer percebido elevou a facilidade de uso (0,220) e deixou a utilidade intocada (−0,033, p = 0,483) — uma separação instrumental/afetiva que o modelo clássico não traça.
@@ -107,6 +113,8 @@ O acréscimo metodológico é a parte mais transferível. Uma rede perceptron mu
 **Características de desenho a montante das crenças, e importância que não é necessidade.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin e Qing (2026)]] colocaram seis características de sistema à frente das duas crenças do TAM para 301 estudantes universitários chineses, tomando emprestado um enquadramento estímulo–organismo–resposta. Personalização e interatividade moveram apenas a utilidade percebida, enquanto inteligência e completude de conteúdo moveram apenas a facilidade de uso. Responsividade moveu ambas; antropomorfismo não moveu nenhuma. O modelo explicou R² = 0,244 da intenção (SRMR = 0,033), com a facilidade de uso à frente da utilidade na intenção (β = 0,340 contra 0,265). A importância de rede validada por validação cruzada de dez dobras concordou, classificando a facilidade de uso em 100% contra 84,70% da utilidade.
 
 A análise de condições necessárias então separou influência de requisito. A facilidade de uso, o preditor mais bem classificado, falhou de forma inequívoca (d = 0, p = 0,592). A utilidade era necessária, mas pequena (d = 0,027, p = 0,011). Os autores leem a separação como uma cautela contra tratar um coeficiente de caminho como piso. Um coeficiente forte diz que uma unidade de facilidade compra intenção em média; só a necessidade diz se a outra crença pode estar ausente.
+
+**Características de desenho roteadas pela confiança, com a DOI ao lado do TAM.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] pesquisaram 653 estudantes sobre [[ai-avatars-and-synthetic-instructors|avatares de IA]] e constataram que o caminho mais forte em seu modelo combinado TAM–DOI ia da transparência percebida à [[trust|confiança]] (β = 0,542). A vantagem relativa (β = 0,267) e a utilidade percebida (β = 0,247) carregaram a intenção mais do que a atitude (β = 0,126).
 
 A ligação do risco ao uso também depende do sistema: ao longo dos 49 sistemas do TALIS 2024 que aplicaram os itens, a utilidade percebida da IA se associou positivamente ao uso de IA em todos os 49, enquanto o risco percebido se associou negativamente em 40 e positivamente em nove ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -135,6 +143,7 @@ A ligação do risco ao uso também depende do sistema: ao longo dos 49 sistemas
 - [[framing-ai-use-for-students]]
 
 ## Artigos conectados
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — TAM + DOI para avatares de IA: transparência → confiança (β = 0,542), com vantagem relativa e utilidade carregando a intenção
 - [[high-school-genai-acceptance-tam-physics-2026]] — Crenças específicas da matéria colocadas a montante das percepções do TAM
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — A GenAI como \"frenemy\": autonomia artificial e aversão ao risco estendem o TAM para professores (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Experiências com IA em enfermagem; extensão psicossocial do TAM
@@ -168,3 +177,6 @@ A ligação do risco ao uso também depende do sistema: ao longo dos 49 sistemas
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Características de desenho a montante das crenças do TAM, e importância que não é necessidade
 - [[pinedo-genai-adoption-marketing-students-2026]] — O hábito carrega a UTAUT2 numa população que já adotou
 - [[stalboerger-faculty-perceptions-2026]] — 22 docentes, 12 acompanhamentos: a familiaridade endureceu o escrutínio ético para alguns, invertendo a direção da facilidade de uso (Stalboerger et al. 2026)
+
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Percepções dos estudantes sobre fóruns de discussão: um estudo com o Modelo de Aceitação de Tecnologia para informar o desenho de analítica de aprendizagem habilitada por IA
+- [[ai-conversational-interfaces-information-seeking-2026]] — O chatbot respondeu perguntas sobre o programa mais rápido e com mais precisão que o site, exceto quando a resposta era um contato nomeado

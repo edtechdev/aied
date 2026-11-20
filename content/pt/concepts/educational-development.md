@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desenvolvimento educacional
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-18T05:55:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,7 @@ O desenvolvimento educacional é o trabalho profissional e institucional por mei
 - **Programas de formação:** os [[crewscaler-ai-upskilling-framework|frameworks de requalificação em IA]] e o [[ai-tpack-preservice-math-teachers|treinamento pré-serviço baseado em TPACK]] fornecem modelos de [[ai-education|educação em IA]] estruturada para docentes.
 
 - **A demanda não é uma avaliação de necessidades.** 345 professores de CEGEP do Quebec pontuaram mais baixo em compreensão técnica (2.706 de 5) e ainda assim pediram aplicações práticas específicas de disciplina, considerando as sessões anteriores genéricas demais ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
+- **Os docentes se voluntariam para a automação e só revelam a pedagogia quando perguntados sobre o que a ferramenta poderia fazer.** Em 20 disciplinas e 24 países, cinco perguntas abertas atraíram 737 comentários sobre eficiência e automação contra 305 sobre política institucional, enquanto a personalização apareceu em 74 respostas sobre capacidades e em 3 em cada uma das perguntas sobre barreiras ([[sheridan-teaching-academics-genai-plans-2026|Sheridan et al., 2026]]). As restrições que nomearam foram tempo, uma política coerente e apoio financiado, com os orçamentos de desenvolvimento profissional e de viagens descritos como as primeiras coisas cortadas; uma minoria leu a mudança pelas relações de trabalho, esperando que as instituições a usassem para reduzir o quadro docente.
 
 - **Reflexão profissional mediada por IA.** O Modelo do Triângulo Reflexivo posiciona a IA como mediadora cognitiva ao longo da [[reflection|autorreflexão]], da reflexão colaborativa e da reflexão comunitária em uma comunidade profissional de aprendizagem, testado em um caso de viabilidade de quatro semanas com seis professores; a fronteira que ele traça é que o insight individual não se torna automaticamente conhecimento profissional compartilhado ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Governança]] e política:** a [[genai-policies-higher-ed-computing|análise de política institucional de IA]] documenta a lacuna entre as ambições institucionais e a capacidade de apoio aos docentes.
@@ -230,3 +231,4 @@ Um exemplo trabalhado do modelo de coorte vem de uma biblioteca universitária. 
 - [[jiang-faculty-development-japan-2027]] — a via dupla de desenvolvimento docente no Japão: a participação subiu e os formatos colegiados não
 - [[tian-transnational-faculty-development-governance-2027]] — desenvolvimento docente transnacional: a conectividade é episódica, a coordenação é o trabalho
 - [[ho-invariant-core-faculty-development-2027]] — núcleo invariante, borda em mudança: o mecanismo de aprendizagem à frente da tecnologia
+- [[sheridan-teaching-academics-genai-plans-2026]] — 20 disciplinas, 24 países: os docentes planejam a automação primeiro e nomeiam tempo e política como as restrições (Sheridan et al. 2026)

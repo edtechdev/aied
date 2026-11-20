@@ -1,7 +1,7 @@
 ---
 title: Avaliação autêntica
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ A literatura de redesenho da avaliação da base de conhecimento argumenta que a
 - O [[beyond-detection-authentic-assessment-ai-2025|artigo Beyond Detection]] sustenta que a autenticidade não pode ser policiada até existir; ela precisa ser desenhada, posicionando a IA como colaboradora declarada, e não como aplicação de cola, e priorizando a avaliação autêntica e [[process-oriented-assessment|baseada em processo]] em vez da vigilância.
 - O [[responsible-assessment-ai-era-stanford-2026|artigo Responsible Assessment]] reenquadra a avaliação em torno da evidência de validade e de tarefas autênticas que espelham o trabalho futuro dos estudantes.
 - O [[authentic-products-authenticated-processes-2026|artigo Authentic products, authenticated processes]] examina como o [[higher-ed|ensino superior]] rico em IA pode avaliar tanto os resultados genuínos quanto os processos que os produziram.
+- **A governança alcança os estudantes por meio do desenho da avaliação.** A qualidade percebida da [[governance|governança de IA]] previu a avaliação autêntica percebida muito além da conscientização sobre políticas (β = 0,36 contra 0,12), e a avaliação autêntica mediou integralmente o caminho até o [[student-engagement|engajamento]] entre 644 estudantes de universidades chinesas ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 - **Um parceiro de IA na redação ainda deixa o julgamento.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] pilotaram um desenhador de avaliações GPT-4.1 com oito coordenadores: ele produziu visões gerais, tarefas, critérios, cronogramas e rubricas utilizáveis, mas repetidamente perdeu o contexto disciplinar e o sequenciamento de tópicos, e todos os oito recusaram a automação de ponta a ponta, localizando o [[evaluative-judgment|juízo acadêmico]] no professor, e não no modelo.
 - O [[tool-invariant-framework-agentic-ai|framework invariante a ferramentas]] argumenta por avaliar métodos computacionais e processos, e não resultados específicos de ferramentas, usando defesa oral e verificação.
 - **Infraestrutura institucional para a evidência de processo.** Um framework de garantia de qualidade encomendado converte o argumento do processo em política, tratando os rastros do processo de aprendizagem — edições com marca de tempo, uso de recursos, prompts metacognitivos — como a evidência durável que um histórico escolar não consegue mostrar, e citando atributos de processo que explicam mais variância no desempenho do que os atributos de produto isoladamente ([[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]).
@@ -140,11 +141,11 @@ O recuo carrega um custo probatório que a evidência dos arquivos de caso torna
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[authentic-products-authenticated-processes-2026]] — Authentic Products, Authenticated Processes
-- [[tool-invariant-framework-agentic-ai]] — Tool-Invariant Framework for Teaching and Assessing Computational Methods
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Desenhando para a avaliação autêntica: uma revisão de escopo
+- [[beyond-detection-authentic-assessment-ai-2025]] — Além da detecção: avaliação autêntica
+- [[responsible-assessment-ai-era-stanford-2026]] — Avaliação responsável na era da IA
+- [[authentic-products-authenticated-processes-2026]] — Produtos autênticos, processos autenticados
+- [[tool-invariant-framework-agentic-ai]] — Framework invariante a ferramentas para ensinar e avaliar métodos computacionais
 - [[cong-confidence-asag-2026]] — Correção automatizada de respostas curtas com consciência de confiança
 - [[llm-fallacy-misattribution]] — A Falácia do LLM e a Atribuição Indevida de Competência
 - [[universities-ai-era-rethinking]] — Repensando as Universidades na Era da IA
@@ -161,6 +162,6 @@ O recuo carrega um custo probatório que a evidência dos arquivos de caso torna
 - [[munoz-misconduct-allegation-evidence-2026]] — O que os arquivos de alegação de má conduta realmente contêm como evidência, e a evidência de processo que lhes falta (Munoz et al. 2026)
 - [[hadra-ai-detector-accuracy-efl-2026]] — Precisão dos detectores e falha na escrita híbrida: por que a detecção é uma evidência fraca de recurso (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Proibições de IA sobreinclusivas: transcrição não é geração (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[authentic-assessments-generative-ai-pilot-2026]] — Desenhando avaliações autênticas com IA generativa: um estudo piloto do Assessment Authentifire no ensino superior
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Corrosão do realismo da tarefa: o redesenho resistente à IA corroendo a autenticidade no ensino de línguas on-line
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Formatos de superfície autêntica (apresentações gravadas, projetos remotos em grupo, artefatos digitais) pontuam alto em 53.915 itens: a autenticidade não verifica a autoria

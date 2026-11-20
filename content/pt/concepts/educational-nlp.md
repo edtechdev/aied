@@ -34,11 +34,11 @@ ai_assist:
 
 ## Introdução
 
-### O que o PLN educacional faz
+## O que o PLN educacional faz
 
 O processamento de linguagem natural na educação aplica métodos computacionais à linguagem do ensino e da aprendizagem — redações dos estudantes, respostas, postagens de discussão, feedback e texto instrucional. As [[llm|LLMs]] expandiram drasticamente o que pode ser analisado automaticamente, viabilizando a compreensão refinada da linguagem dos estudantes que antes era impraticável em escala.
 
-### Aplicações documentadas na base de conhecimento
+## Aplicações documentadas na base de conhecimento
 
 - **Análise da linguagem dos estudantes.** [[llm-sentiment-analysis-education-research|A análise de sentimento por LLM]] aplica análise de sentimento baseada em LLM à pesquisa em educação, extraindo sinais emocionais e avaliativos do texto dos estudantes em escala, alimentando os [[learning-analytics|learning analytics]] e a [[affective-computing|computação afetiva]].
 - **Predição e mensuração.** [[llm-item-difficulty-prediction|A predição de dificuldade de itens por LLM]] e a [[vocabulary-difficulty-prediction|predição de dificuldade de vocabulário]] usam modelos de linguagem para estimar a dificuldade de itens e de textos — insumos centrais para a [[educational-measurement|mensuração educacional]], a [[adaptive-learning|aprendizagem adaptativa]] e os modelos de [[item-response-theory|teoria de resposta ao item]].
@@ -71,7 +71,7 @@ O processamento de linguagem natural na educação aplica métodos computacionai
 - **A fidelidade de entidades em transcrições de ASR é uma questão separada da acurácia lexical.** Comparando cinco sistemas de reconhecimento de fala com uma transcrição de referência humana, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard e Rosenberg (2026)]] relatam a primeira evidência de fidelidade de entidades ASR/NER da base de conhecimento: as taxas de erro de palavra variaram de 2,43% (TurboScribe) a 15,32% (Vosk), enquanto a codificação de tipos de entidades-ouro em sete categorias viu o GPT-5.5 alcançar acurácia de 0,805 (κ = 0,726) contra 0,634 do spaCy (κ = 0,488). A WER agregada, sozinha, não pode certificar que a estrutura de entidades sobreviveu à transcrição.
 
 
-### Conexão com a tutoria e a mensuração
+## Conexão com a tutoria e a mensuração
 
 O PLN educacional sustenta tanto a análise da linguagem de quem aprende ([[student-modeling|modelagem do estudante]], [[knowledge-tracing|rastreamento de conhecimento]]) quanto a geração de conteúdo instrucional adaptativo ([[intelligent-tutoring|tutoria inteligente]], [[scaffolding|andaimento]]). [[ai-generated-interactive-fiction-education-2026|A ficção interativa gerada por IA]] demonstra geração de conteúdo para a aprendizagem dirigida por PLN, enquanto [[zerkouk-comprehensive-review-its-2025|a revisão de zerKouk]] situa o PLN no cenário mais amplo da [[intelligent-tutoring|tutoria inteligente]]. À medida que a análise baseada em LLM cresce, os frameworks de [[rct|ensaio controlado randomizado]] e de [[research-methods-aied|métodos de pesquisa]] importam para validar que os insights derivados do PLN melhoram genuinamente a aprendizagem.
 
@@ -118,5 +118,5 @@ A compressão de modelos pertence ao mesmo conjunto de ferramentas: um pipeline 
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: pipeline de raciocínio seletivo para marcação refinada de conceitos de conhecimento
 
-- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing
+- [[nlp-reading-lists-dental-education-2026]] — Processamento de linguagem natural para alinhar leituras aos objetivos de aprendizagem e avaliar o equilíbrio de tópicos na educação odontológica
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: um conjunto de dados de folhas de respostas manuscritas para parsing de documentos híbridos ruidosos

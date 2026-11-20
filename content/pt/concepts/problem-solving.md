@@ -1,14 +1,14 @@
 ---
 title: "Resolução de problemas"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,14 +70,6 @@ A resolução de problemas é o desfecho aplicado do [[critical-thinking|pensame
 
 - Medir a competência de [[collaborative-learning|resolução colaborativa de problemas (CPS)]] tipicamente exige codificar comportamento a partir de dados de processo de tarefas simuladas em competências específicas de CPS. O [[prompt-engineering|prompting consciente de contexto]] de modelos de linguagem pré-treinados pode automatizar essa codificação, modelando dependências contextuais e fundindo competências cognitivas e sociais para alcançar desempenho superior ao de baselines fortes em conjuntos de dados de tarefas de CPS — abordando a intensidade de trabalho da codificação manual e habilitando avaliação em larga escala e em tempo real.
 
-## Ideias equivocadas comuns
-
-**"A IA que ajuda os estudantes a explorar perspectivas está ajudando-os a pensar."** O mesmo comportamento sustenta dois resultados muito diferentes: ferramentas de IA ajudam os estudantes a explorar múltiplas perspectivas e a gerar seus próprios problemas, e também podem encorajar a preguiça metacognitiva. A pergunta que distingue é se o estudante está fazendo o enquadramento ou o recebendo — um sistema que fornece perspectivas candidatas executou o passo generativo que o exercício existia para exigir.
-
-**"A resolução de problemas é o alvo, então a formulação de problemas é um bônus."** A formulação de problemas é onde a transferência é construída, porque exige que quem aprende construa a estrutura, em vez de operar dentro de uma que o sistema forneceu. Um [[curriculum-design|currículo]] que só fornece problemas bem formulados treina o desempenho em problemas bem formulados, que não é a condição com que os estudantes se deparam depois.
-
-**"A simulação da resolução colaborativa de problemas substitui a colaboração."** Uma simulação reproduz o padrão de interação, e a habilidade em desenvolvimento é a regulação de um problema conjunto por participantes que estão de fato presentes. Agentes específicos de participantes que modelam colaboradores reais são um instrumento de pesquisa para estudar essa regulação — úteis pelo que revelam sobre o processo, e não uma forma de dar aos estudantes a prática sem os pares.
-
 ## Implicações para a prática
 
 **Para instrutores**
@@ -94,6 +86,14 @@ A resolução de problemas é o desfecho aplicado do [[critical-thinking|pensame
 **Para pesquisadores**
 
 - Simulações com agentes específicos de participantes são um instrumento forte para estudar a regulação colaborativa. Relate-as como tal, e não como evidência sobre colaboração estudantil não supervisionada.
+
+## Ideias equivocadas comuns
+
+**"A IA que ajuda os estudantes a explorar perspectivas está ajudando-os a pensar."** O mesmo comportamento sustenta dois resultados muito diferentes: ferramentas de IA ajudam os estudantes a explorar múltiplas perspectivas e a gerar seus próprios problemas, e também podem encorajar a preguiça metacognitiva. A pergunta que distingue é se o estudante está fazendo o enquadramento ou o recebendo — um sistema que fornece perspectivas candidatas executou o passo generativo que o exercício existia para exigir.
+
+**"A resolução de problemas é o alvo, então a formulação de problemas é um bônus."** A formulação de problemas é onde a transferência é construída, porque exige que quem aprende construa a estrutura, em vez de operar dentro de uma que o sistema forneceu. Um [[curriculum-design|currículo]] que só fornece problemas bem formulados treina o desempenho em problemas bem formulados, que não é a condição com que os estudantes se deparam depois.
+
+**"A simulação da resolução colaborativa de problemas substitui a colaboração."** Uma simulação reproduz o padrão de interação, e a habilidade em desenvolvimento é a regulação de um problema conjunto por participantes que estão de fato presentes. Agentes específicos de participantes que modelam colaboradores reais são um instrumento de pesquisa para estudar essa regulação — úteis pelo que revelam sobre o processo, e não uma forma de dar aos estudantes a prática sem os pares.
 
 ## Conceitos conectados
 

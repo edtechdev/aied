@@ -1,13 +1,13 @@
 ---
 title: Pesquisa com métodos mixtos
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Em 394 estudos de [[generative-ai|GenAI]] no ensino superior, os métodos mixtos
 - **Desenho e avaliação.** [[genai-feedback-design-multisite-experiment|Um experimento multissítio sobre desenho de feedback com GenAI]] combina mensuração de resultado experimental com feedback qualitativo de quem aprende, integrando estimativa de efeito quantitativa com orientação de desenho.
 - **Evidência de processo dentro de um grande ensaio.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] pareiam observação de sistema e discussões com administradores contra uma avaliação randomizada de quatro anos com 8.708 estudantes ao longo de oito semestres, com poder para detectar efeitos de 0,05 desvios padrão, de modo que o mesmo estudo explica as condições organizacionais que sustentaram um programa de [[conversational-ai|chatbot]] e relata nulos fortemente limitados sobre média de notas e persistência.
 
-- **Triangulando um fenômeno de política.** Um estudo sobre a postergação da privacidade dos estudantes em EdTech pareia doze entrevistas semiestruturadas com uma auditoria documental de 48 plataformas pontuada por dois codificadores quanto à confiabilidade interavaliadores (κ de Cohen médio = 0,781), usando as entrevistas para explicar por que a privacidade é postergada e a auditoria para mostrar o padrão de divulgação que a postergação produz — um desenho convergente em que nenhuma vertente isoladamente conseguiria sustentar a afirmação ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026)]]).
+- **Triangulando um fenômeno de política.** Um estudo sobre a postergação da privacidade dos estudantes em EdTech pareia doze entrevistas semiestruturadas com uma auditoria documental de 48 plataformas pontuada por dois codificadores quanto à confiabilidade interavaliadores (κ de Cohen médio = 0,781), usando as entrevistas para explicar por que a privacidade é postergada e a auditoria para mostrar o padrão de divulgação que a postergação produz — um desenho convergente em que nenhuma vertente isoladamente conseguiria sustentar a afirmação ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ## Pontos fortes e limitações
 
@@ -74,6 +74,7 @@ Os métodos mixtos ficam entre as tradições [[quantitative-research|quantitati
 - **"Os métodos mixtos são uma escolha de nicho na pesquisa em educação com IA."** Em **394 estudos de GenAI no ensino superior**, os métodos mixtos foram o **desenho de pesquisa mais comum (213 estudos, 54%)**, seguidos pelos quantitativos (109, 28%) e qualitativos (72, 18%). O desenho dominante do campo não é aquele que seus debates metodológicos pressupõem.
 - **"Evidência observacional e de entrevistas consegue sustentar uma afirmação sobre o sistema."** Parear observação do sistema e conversas com [[administrator|administradores]] contra uma **avaliação randomizada de quatro anos com 8.708 estudantes ao longo de oito semestres**, com poder para detectar efeitos de **0,05 desvio padrão**, mostra o que a vertente qualitativa não consegue fazer sozinha: detectar um efeito pequeno de forma confiável. Misturar métodos não é uma forma de transferir poder entre vertentes.
 - **"Triangulação significa que dois métodos fracos produzem uma afirmação forte."** O valor do pareamento é que cada vertente responde a uma pergunta diferente. Um desenho que executa ambas e depois relata o achado qualitativo como confirmação do quantitativo não triangulou, apenas repetiu.
+- **A convergência pode ser uma regra de admissão, não uma narrativa.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] só contava uma prioridade de redesenho quando ela aparecia em pelo menos duas de cinco fontes independentes e em uma fonte voltada à implementação, de modo que a percepção sozinha não podia promovê-la.
 
 ## Conceitos conectados
 

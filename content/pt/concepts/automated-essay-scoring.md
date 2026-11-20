@@ -1,7 +1,7 @@
 ---
 title: "Correção automatizada de redações"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T11:35:57-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,11 @@ Na escrita de resposta a texto nos anos finais do ensino fundamental, [[correnti
 **A AES baseada em prompting** surgiu como a abordagem mais acessível. O **[[choi-anchor-aes-prompting-2025|estudo de prompting com âncoras de Choi et al.]]** mostra que incluir redações exemplares nos prompts aproxima a concordância LLM-humano da confiabilidade entre humanos, com o GPT-4o mini alcançando resultados comparáveis ao GPT-4o a custo menor. Isso se conecta à pesquisa mais ampla sobre [[prompt-engineering|engenharia de prompts]] e torna a AES viável para uso por [[teacher-role|professores]].
 
 **A pontuação psicométrica e por traços** vai além das notas holísticas. O **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** oferece um framework psicometricamente consciente para pontuação adaptativa por traços com feedback fundamentado na [[sociocultural-learning|ZDP]]. O **[[icle-plus-plus-essay-scoring|ICLE++]]** modela traços de granularidade fina para a pontuação holística de redações, avançando a precisão da avaliação automatizada.
+
+- **Traços de raciocínio como explicação.** [[xu-explainable-ai-essay-scoring-cot-2026|Xu et al. (2026)]] fazem ajuste fino de modelos Qwen para raciocinar sobre os quatro traços do IELTS antes de pontuar, e então aplicam PPO sobre as preferências dos examinadores. O QWK médio subiu de 0.5253 (7B, apenas CoT) para 0.5410 (72B), enquanto o BLEU do feedback subiu de 0.2371 para 0.2873 com PPO e CoT; a escala sozinha acrescentou pouco, 2.5% de BLEU de 7B para 72B.
+
+- **Auditabilidade como alvo de pontuação.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] constrói um pipeline ASAP cuja camada de feedback anexa evidências da redação a cada traço fraco e expõe um sinalizador de revisão pelo professor. O QWK macro foi 0.738 contra 0.739 do seu melhor pontuador puro, enquanto o feedback fundamentado na rubrica alcançou Trait Recall@2 de 0.829 e uma taxa de evidência válida de 0.912, onde o feedback apenas com rubrica não citava nada.
+
 - **A pontuação de traços no nível da dimensão é limitada pelos dados por trás de cada dimensão.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] treinaram um classificador por dimensão do framework de [[critical-thinking|pensamento crítico]] FRISCO de Ennis sobre 106 redações de física de alunos do décimo primeiro ano na Indonésia (83 para treino, 23 para teste, com três professores avaliadores concordando entre kappa 0,78–0,84 em todas as dimensões). A concordância se concentrou na expressão e não no raciocínio: o kappa quadrático ponderado chegou a 0,763 para Clareza e 0,728 para Situação, mas apenas 0,374 para Foco, 0,332 para Razão e 0,227 para Inferência. O sinal ordinal foi fabricado em vez de observado. Redações sintéticas de nível 1 (construídas a partir de templates, cortadas para 20–40% do comprimento original, com palavras-chave removidas) mais paráfrase por LLM elevaram o Foco em +0,346 kappa a partir de uma linha de base de 0,028 — e uma configuração alcançou 0,652 de acurácia com kappa próxima de zero ou negativa —, de modo que a acurácia não é um critério de seleção utilizável na AES ordinal.
 
 **Viés e justiça** são uma preocupação crítica. **[[ai-scoring-language-bias-physics|Feser e Tschisgale]]** descobriram que a pontuação por IA subestima sistematicamente estudantes de origens linguisticamente diversas, destacando a necessidade de considerar [[bias-mitigation|mitigação de vieses]] e [[equity-in-ai-education|equidade]] na implantação da AES.
@@ -78,6 +83,7 @@ A confiança no nível do token, a pontuação ponderada por probabilidade e o e
 
 **A AES como sinal de treinamento em vez de juíza.** Modelos de pontuação costumam ser estudados como avaliadores, mas o SWIM usa um como função de recompensa: [[swim-student-writing-simulation-2026|Do, Kontak e Sachan (2026)]] congelam um verificador AES multitraço e o pontuam contra redações de estudantes geradas, transformando o perfil de traços previsto em uma recompensa densa por redação (a distância média normalizada por traços em relação ao perfil-alvo) para o GRPO, deliberadamente não a própria métrica Quadratic Weighted Kappa, porque o QWK é definido sobre um lote de pares alvo-predição e não é um sinal por amostra, enquanto recompensas de correspondência exata são esparsas demais no cenário multitraço. Os ganhos foram rechecados contra um pontuador DeBERTa e um verificador apenas de avaliação contra o qual a política nunca treinou (0,598 contra 0,479 para SFT, e 0,647 contra 0,501), que é a verificação que separa o controle genuíno de proficiência da adaptação ao [[reinforcement-learning|modelo de recompensa]]. Para a pesquisa em AES, isso é uma segunda exigência de validade: um pontuador usado como alvo de treinamento está sendo otimizado contra, de modo que sua própria ponderação de traços e seus vieses de língua se propagam para tudo que o gerador aprende — as mesmas assimetrias de ponderação de características (precisão gramatical, sofisticação lexical e complexidade sintática ponderadas com mais força pelos modelos do que pelos avaliadores humanos) documentadas em outra parte desta página, agora moldando o treinamento em vez de apenas as notas.
 **Pontuação e feedback querem métodos diferentes, então um sistema deveria separá-los.** [[wraft-automated-writing-evaluation-argumentative-2026|Labib et al. (2026)]] construíram um sistema de redações argumentativas do TOEFL como três módulos — pontuação, feedback de superfície sobre gramática e mecânica, e feedback profundo sobre organização, coerência e argumentação — em vez de um único modelo fazendo os três trabalhos. O que ganha em um módulo perde em outro: o [[llm-training-and-fine-tuning|ajuste supervisionado]] do GPT-4o em 120 redações de um conjunto proprietário de 480 pontuadas por benchmark, testado nas 360 restantes, alcançou kappa quadrático ponderado de 0,84 e RMSE de 0,44 na escala de 0-5, à frente da linha de base de Wang e Gayed (2024) (QWK 0,78, RMSE 0,57), mas o mesmo ajuste produziu saída inutilizável nos módulos de feedback, onde foi o prompting direto do Claude 3.7 que gerou comentários aprovados pelos professores.
+**O prompt, e não a rubrica, carrega a maior parte do ganho.** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao e Min (2026)]] elevaram a concordância com os rótulos do CEFR de um kappa de 0.488 para 0.829 ao acrescentar exemplos de calibração pontuados e uma justificativa obrigatória, enquanto uma rubrica detalhada fornecida sozinha a derrubou para 0.460.
 
 ### Conexões com conceitos relacionados
 
@@ -109,6 +115,8 @@ Sistemas abertos também fazem parte desse quadro: o AiAWE pontua redações arg
 - [[assessment-validity]]
 
 ## Artigos conectados
+- [[xu-explainable-ai-essay-scoring-cot-2026]] — Cadeia de pensamento consciente da rubrica mais PPO: QWK médio de 0.5253 a 0.5410, com pequenos ganhos de escala (Xu et al. 2026)
+- [[xin-auditable-automated-essay-scoring-2026]] — Pontuação auditável: QWK macro de 0.738 com feedback ancorado em evidências e um sinalizador de revisão pelo professor (Xin 2026)
 - [[reflection-level-classification-hungarian-essays-2026]] — Classificação automática do nível de reflexão em redações de estudantes húngaros
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: um sistema modularizado de avaliação automatizada de escrita para redações argumentativas
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — Inovação educacional por meio da correção automatizada de redações: um framework multidimensional para avaliar pensamento crítico em redações de física do ensino médio
@@ -130,3 +138,4 @@ Sistemas abertos também fazem parte desse quadro: o AiAWE pontua redações arg
 - [[swim-student-writing-simulation-2026]] — um verificador AES congelado usado como recompensa densa de treinamento para um gerador de escrita
 - [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompting enfrentam sondas de resposta conhecida, e a maioria pode ser convencida a subir a nota (Porcaro 2026)
 - [[ribeiro-teachers-writing-analytics-adoption-2026]] — Professores de turmas de 300 estudantes avaliam um aplicativo AES desconectado com SUS 92,5 e pedem um aviso de confiabilidade, não uma nota final (Ribeiro et al. 2026)
+- [[llm-automated-essay-scoring-prompt-engineering-2026]] — Otimizando a correção automatizada de redações conduzida por grandes modelos de linguagem: integrando características linguísticas e engenharia de prompts para aumentar a acurácia da pontuação

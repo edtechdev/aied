@@ -1,7 +1,7 @@
 ---
 title: "Experiência dos estudantes"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -102,16 +102,6 @@ Os desfechos de mais longo prazo que um estudante vivencia — se volta no perí
 
 A experiência dos estudantes se conecta à [[cognitive-offloading|dependência excessiva]] (dependência excessiva de IA), ao [[ai-literacy|letramento em IA]] (competências para uso eficaz), ao [[cognitive-offloading|descarregamento cognitivo]] (como a IA muda o trabalho cognitivo) e ao [[student-engagement|engajamento]] (como os sistemas de IA medem e respondem ao comportamento do estudante). Ela é o membro voltado a quem aprende do guarda-chuva de [[stakeholders|partes interessadas]], e é o lar para resumir todas as formas como a IA afeta os estudantes.
 
-## Ideias equivocadas comuns
-
-**"Estudantes que evitam a IA estão atrasados."** O não uso costuma ser uma posição fundamentada, e não uma lacuna: um levantamento interinstitucional britânico com **7.087 estudantes** constatou que **32% não usavam GenAI para estudar de forma alguma**, com quem não usava citando querer fazer o trabalho por conta própria. Tratar isso como déficit de adoção inverte o achado e empurra os estudantes para fora de uma escolha defensável.
-
-**"Os relatos dos estudantes são uma medida razoável de aprendizagem."** Eles são [[self-report-measures|medidas de autorrelato]]: capturam bem percepções e intenções, e o comportamento apenas aproximadamente. A lacuna desempenho–aprendizagem nesta literatura — estudantes indo melhor com IA e pior em tarefas posteriores sem assistência — é precisamente o caso em que autorrelato e desfecho divergem, de modo que um corpo estudantil satisfeito não é evidência de um corpo estudantil que aprende.
-
-**"Se os estudantes sentem que a IA ajuda, ela ajuda."** Sentir-se ajudado é um dado real sobre a experiência e uma inferência não confiável sobre o desfecho. A lacuna está documentada e os estudantes no grupo prejudicado não a percebem de forma confiável, de modo que percepção e desfecho têm de ser coletados como medidas separadas, em vez de uma substituir a outra.
-
-**"A experiência dos estudantes é uma preocupação mole em relação aos desfechos."** Ela é um indicador antecedente de adoção e divulgação: estudantes que sentem que seu uso é julgado o esconderão, e o uso oculto é a condição em que o [[reducing-ai-misuse|uso indevido]] e o dano são menos visíveis para a instituição.
-
 ## Implicações para a prática
 
 **Para instrutores**
@@ -128,6 +118,16 @@ A experiência dos estudantes se conecta à [[cognitive-offloading|dependência 
 **Para pesquisadores**
 
 - Relate explicitamente o tamanho e os motivos do grupo de não usuários; 32% de uma amostra de 7.087 estudantes é uma população, e não um resíduo.
+
+## Ideias equivocadas comuns
+
+**"Estudantes que evitam a IA estão atrasados."** O não uso costuma ser uma posição fundamentada, e não uma lacuna: um levantamento interinstitucional britânico com **7.087 estudantes** constatou que **32% não usavam GenAI para estudar de forma alguma**, com quem não usava citando querer fazer o trabalho por conta própria. Tratar isso como déficit de adoção inverte o achado e empurra os estudantes para fora de uma escolha defensável.
+
+**"Os relatos dos estudantes são uma medida razoável de aprendizagem."** Eles são [[self-report-measures|medidas de autorrelato]]: capturam bem percepções e intenções, e o comportamento apenas aproximadamente. A lacuna desempenho–aprendizagem nesta literatura — estudantes indo melhor com IA e pior em tarefas posteriores sem assistência — é precisamente o caso em que autorrelato e desfecho divergem, de modo que um corpo estudantil satisfeito não é evidência de um corpo estudantil que aprende.
+
+**"Se os estudantes sentem que a IA ajuda, ela ajuda."** Sentir-se ajudado é um dado real sobre a experiência e uma inferência não confiável sobre o desfecho. A lacuna está documentada e os estudantes no grupo prejudicado não a percebem de forma confiável, de modo que percepção e desfecho têm de ser coletados como medidas separadas, em vez de uma substituir a outra.
+
+**"A experiência dos estudantes é uma preocupação mole em relação aos desfechos."** Ela é um indicador antecedente de adoção e divulgação: estudantes que sentem que seu uso é julgado o esconderão, e o uso oculto é a condição em que o [[reducing-ai-misuse|uso indevido]] e o dano são menos visíveis para a instituição.
 
 ## Conceitos conectados
 - [[learners]] — Quem aprende: o guarda-chuva dos conceitos do lado de quem aprende

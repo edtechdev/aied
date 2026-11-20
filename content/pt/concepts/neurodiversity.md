@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversidade"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,8 @@ O lado do risco tem sua própria literatura. [[seung-basham-cognitive-offloading
 
 A neurodiversidade se conecta à [[special-education|educação especial]], à [[inclusive-learning|aprendizagem inclusiva]], ao [[universal-design-for-learning|Desenho Universal para a Aprendizagem]] e à [[equity-in-ai-education|equidade na educação com IA]]. Ela informa tanto como a IA é implantada para a [[student-experience|experiência dos estudantes]] quanto como avaliações e programas de letramento são desenhados para serem justos ao longo da variabilidade cognitiva. Para como esses achados se situam ao lado de outros grupos de quem aprende — língua, gênero, status socioeconômico, geografia —, ver [[differential-effects-across-learner-groups|Efeitos diferenciais entre grupos de estudantes]].
 
+A revisão de 28 estudos sobre IA para estudantes universitários com TDAH por [[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh e Natoli]] organiza a evidência em apoio, predição e ética. A predição é a parte mais fina: um modelo pupilométrico alcançou AUROC 0,856, enquanto um classificador SVM alcançou acurácia de 66,1 a 68,8 por cento, abaixo da utilidade clínica. A troca envolvendo a função executiva é o núcleo ético — uma ferramenta que compensa uma demanda também pode absorver a prática que teria construído a capacidade ([[executive-function|função executiva]]).
+
 ## Ideias equivocadas comuns
 
 - **"A pesquisa em neurodiversidade é um canto nichado da [[ai-education|AIED]]."** O campo se **reorganizou em torno da [[generative-ai|IA generativa]] — 15 dos 40 estudos** —, com formatos imersivos em segundo lugar, com 11. A literatura se moveu com a tecnologia, em vez de se acumular em torno de questões estáveis.
@@ -106,6 +108,7 @@ A neurodiversidade se conecta à [[special-education|educação especial]], à [
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[student-modeling]]
+- [[executive-function]]
 
 ## Artigos conectados
 - [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reenquadrando o valor educacional em EdTech para salas de aula primárias neuroinclusivas: uma revisão de escopo
@@ -121,3 +124,4 @@ A neurodiversidade se conecta à [[special-education|educação especial]], à [
 - [[tactile-statistical-graphs-accessibility]] — Gráficos estatísticos táteis para acessibilidade
 - [[ai-learning-tools-engineering-education-needs]] — Desenhando ferramentas de aprendizagem com IA sensíveis a necessidades e atenção
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Processos dirigidos por detectores podem deter o uso legítimo de acomodações
+- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — Vinte e oito estudos sobre IA para estudantes com TDAH, com a ética nomeada

@@ -1,7 +1,7 @@
 ---
 title: Enquadrando o uso de IA para estudantes
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ O enquadramento conecta-se à [[motivation|motivação]] por meio da [[self-dete
 ## Enquadramento na mídia e no discurso público
 
 Os estudantes também são enquadrados pela mídia e pelo discurso público mais amplos em torno da [[ai-education|IA na educação]], que moldam suas expectativas de base antes de qualquer mensagem do instrutor. Análises do discurso público e de como plataformas como o YouTube enquadram o uso do ChatGPT na educação mostram que os enquadramentos prevalecentes — hype, catástrofe ou pragmatismo — influenciam como estudantes e [[teacher-role|educadores]] abordam a tecnologia.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) O enquadramento eficaz por parte dos instrutores frequentemente significa contrariar ou redirecionar deliberadamente essas narrativas ambientes.
+
+O enquadramento também precifica a credencial mais adiante: com ~1.750 profissionais de contratação dos EUA, descrever o uso de IA por estudantes como substituição, em vez de assistência, reduziu a probabilidade de entrevista e a disposição para negociar salário, de forma mais acentuada para candidatos com GPA alto ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Orientação prática
 

@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introdução
 
-### O conceito
+## O conceito
 
 A teoria sociocultural (Vygotsky, 1978; Luria; Leontiev) sustenta que as funções mentais superiores se desenvolvem por meio da participação em atividade culturalmente organizada. Diferentemente de abordagens que localizam a aprendizagem apenas no processamento de informação do indivíduo, a visão sociocultural enfatiza que:
 
@@ -44,13 +44,13 @@ A teoria sociocultural (Vygotsky, 1978; Luria; Leontiev) sustenta que as funçõ
 - **A aprendizagem é social.** As funções mentais superiores aparecem primeiro entre pessoas (intersubjetivamente, na interação) e só depois dentro do indivíduo. A aprendizagem surge pela participação com [[teacher-role|professores]], pares e comunidades — em processos como [[scaffolding|andaime]], aprendizagem por meio de um ofício e movimento pela ZDP.
 - **A [[distributed-cognition|cognição é distribuída]].** O trabalho cognitivo se espalha por pessoas, artefatos e ambientes (Hutchins; Clark e Chalmers; Pea), em vez de estar contido na mente individual. A [[distributed-cognition|cognição distribuída]], a [[situated-learning|aprendizagem situada]] e as comunidades de prática estendem a vertente sociocultural.
 
-### A Zona de Desenvolvimento Proximal (ZDP)
+## A Zona de Desenvolvimento Proximal (ZDP)
 
 A ZDP (Vygotsky) é o conceito sociocultural mais amplamente aplicado na [[intelligent-tutoring|tutoria com IA]]: o espaço entre o que quem aprende consegue fazer sozinho e o que consegue fazer com assistência. A aprendizagem acontece de forma mais eficaz quando a instrução mira essa zona — desafiadora o bastante para impulsionar o desenvolvimento, apoiada o bastante para permitir progresso. Ela é o fundamento teórico do [[scaffolding|andaime]]: apoio temporário e ajustável, retirado à medida que a competência cresce. Na IA na educação, a ZDP enquadra a questão central de design de quanto apoio um [[intelligent-tutoring|tutor de IA]] deve fornecer para que a aprendizagem avance sem que a resposta seja entregue — veja [[stanford-evidence-base-ai-k12-2026]].
 
 Ajuda produzida por máquina pode cair dentro dessa zona. Em um estudo randomizado com 274 [[adult-learning|estudantes adultos]] em quatro tópicos de matemática, dicas de solução passo a passo geradas pelo ChatGPT produziram um ganho pré–pós de 17,00% contra 1,85% sem dicas, enquanto dicas escritas por tutores humanos produziram 11,62%; as duas condições de ajuda não foram estatisticamente separáveis ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos e Bhandari, 2024]]). A taxa de erro qualifica a equivalência: 32% das dicas geradas falharam nas verificações de qualidade até que o [[prompt-engineering|prompting]] de autoconsistência reduzisse isso a quase zero nos três tópicos de álgebra e a 13% em estatística. Um outro mais conhecedor que erra uma vez em três ainda é um agente mediacional, e é por isso que a contribuição da máquina precisa ser verificada antes de quem aprende construir sobre ela.
 
-### Aprendizagem sociocultural na educação com IA
+## Aprendizagem sociocultural na educação com IA
 
 A teoria sociocultural molda a [[research-methods-aied|pesquisa]] em IAED de várias formas distintas:
 
@@ -65,7 +65,7 @@ A teoria sociocultural molda a [[research-methods-aied|pesquisa]] em IAED de vá
 
 - **Validar medidas de fala exige os jovens cuja fala é medida.** Recontextualizar definições de movimentos de fala com quatro estudantes focais elevou o F1 de classificação por [[llm|LLM]] em +0,104 para Afirmação e +0,23 para Pergunta, e as próprias interpretações dos estudantes divergiram dos enquadramentos adultos e do modelo — um limite estrutural da classificação baseada em texto, e não um problema de tamanho de dados ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
-### Conexão com carga cognitiva e metacognição
+## Conexão com carga cognitiva e metacognição
 
 A vertente sociocultural está fortemente acoplada à Teoria da [[cognitive-offloading|Carga Cognitiva]] (o apoio deveria gerenciar a carga sem eliminar o esforço produtivo) e à [[metacognition|metacognição]] (quem aprende na zona está ativamente monitorando e regulando seu entendimento). O [[stanford-evidence-base-ai-k12-2026]] sintetiza evidências de [[k-12|K-12]] de que ferramentas de IA funcionam melhor quando mantêm quem aprende na ZDP em vez de responder por eles, e a pesquisa em [[human-in-the-loop-ai|humano no circuito]] trata de como o apoio humano e o de IA definem conjuntamente a zona de quem aprende.
 

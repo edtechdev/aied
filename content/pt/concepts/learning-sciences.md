@@ -1,7 +1,7 @@
 ---
 title: "Ciências da Aprendizagem"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -13,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,13 +81,6 @@ A [[pedagogy|pedagogia]] e o [[learning-design|design de aprendizagem]] cobrem a
 
 Os achados só importam uma vez que chegam ao ensino, e essa jornada passa por três páginas. O [[educational-development|desenvolvimento educacional]] é a prática institucional que os carrega — desenvolvimento docente, padrões, política e [[learner-identity|trabalho de identidade]] decidem se um design validado algum dia chega a uma sala de aula, o que é por que a evidência do campo rotineiramente lidera o que as instituições implementaram. A [[teacher-education|formação de professores]] é onde o conhecimento precisa pousar antes que um professor entre na sala, e o [[teacher-role|papel do professor]] é onde ele pousa depois, no juízo momento a momento sobre quando intervir, qual instrumento usar e quando deixar um aprendiz sozinho. Nenhum dos três produz achados de ciências da aprendizagem; todos os três decidem se esses achados mudam a prática.
 
-## Ideias equivocadas comuns
-
-- **"Um limiar de domínio alto garante que o aprendiz consegue discriminar."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] rodaram **onze experimentos (N = 192)** com sistemas de [[intelligent-tutoring|tutoria inteligente]] e constataram que, em um **limiar de domínio de 95%, o sistema parava a prática antes que os aprendizes encontrassem um caso exigindo que a ação fosse retida**, de modo que o defeito passava despercebido. O domínio da ação não incluía saber quando não aplicá-la, e o limiar certificava o construto errado.
-- **"Mais exemplos são mais seguros."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] tratam a razão exemplo–problema como uma **interação conteúdo–tratamento**, e em um experimento 2×2 o ótimo **dependeu do conteúdo**. Não há razão globalmente correta, de modo que um modelo instrucional fixo é uma aposta contra uma interação.
-- **"Corrigir a [[misconceptions|ideia equivocada]] é uma questão de dizer aos estudantes a resposta certa."** Uma prática curta de "não aja" com [[feedback]] nomeando a restrição ausente cortou a aplicação mal para **0,0%–23,1% (h de Cohen 1,70–2,44)**, e uma análise secundária de **treze conjuntos de dados K-12 de *Decimal Point*** encontrou o mesmo padrão estrutural. A intervenção eficaz foi a prática discriminativa com feedback direcionado, e não a correção por afirmação — que é o que o trabalho de [[refutation-text|refutação]] estabelece de forma geral.
-- **"Nível de Bloom mais alto significa mais [[active-learning|aprendizagem ativa]]."** O tipo de aprendizagem acompanhou o nível de resultado pretendido, com a **Aquisição caindo de cerca de 50% das atividades no nível 1 de Bloom para cerca de 20% no nível 6**. Demanda cognitiva e tipo de atividade se movem juntas, mas não são o mesmo eixo, de modo que etiquetar uma tarefa por nível de Bloom não diz o que os aprendizes farão com ela.
-
 ## O que isso significa na prática
 
 **Para instrutores**
@@ -102,6 +95,13 @@ Os achados só importam uma vez que chegam ao ensino, e essa jornada passa por t
 - Não interrompa a prática apenas pela correção. Modele a condição de retenção como uma habilidade própria, ou o sistema certificará a supergeneralização.
 - Deixe a razão ser um parâmetro, e não uma constante, porque a evidência diz que o ótimo depende do conteúdo.
 - Relate qual construto seu critério mede, separadamente de qual construto sua validação mede.
+
+## Ideias equivocadas comuns
+
+- **"Um limiar de domínio alto garante que o aprendiz consegue discriminar."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] rodaram **onze experimentos (N = 192)** com sistemas de [[intelligent-tutoring|tutoria inteligente]] e constataram que, em um **limiar de domínio de 95%, o sistema parava a prática antes que os aprendizes encontrassem um caso exigindo que a ação fosse retida**, de modo que o defeito passava despercebido. O domínio da ação não incluía saber quando não aplicá-la, e o limiar certificava o construto errado.
+- **"Mais exemplos são mais seguros."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] tratam a razão exemplo–problema como uma **interação conteúdo–tratamento**, e em um experimento 2×2 o ótimo **dependeu do conteúdo**. Não há razão globalmente correta, de modo que um modelo instrucional fixo é uma aposta contra uma interação.
+- **"Corrigir a [[misconceptions|ideia equivocada]] é uma questão de dizer aos estudantes a resposta certa."** Uma prática curta de "não aja" com [[feedback]] nomeando a restrição ausente cortou a aplicação mal para **0,0%–23,1% (h de Cohen 1,70–2,44)**, e uma análise secundária de **treze conjuntos de dados K-12 de *Decimal Point*** encontrou o mesmo padrão estrutural. A intervenção eficaz foi a prática discriminativa com feedback direcionado, e não a correção por afirmação — que é o que o trabalho de [[refutation-text|refutação]] estabelece de forma geral.
+- **"Nível de Bloom mais alto significa mais [[active-learning|aprendizagem ativa]]."** O tipo de aprendizagem acompanhou o nível de resultado pretendido, com a **Aquisição caindo de cerca de 50% das atividades no nível 1 de Bloom para cerca de 20% no nível 6**. Demanda cognitiva e tipo de atividade se movem juntas, mas não são o mesmo eixo, de modo que etiquetar uma tarefa por nível de Bloom não diz o que os aprendizes farão com ela.
 
 ## Conceitos conectados
 
@@ -128,16 +128,16 @@ Os achados só importam uma vez que chegam ao ensino, e essa jornada passa por t
 
 ## Artigos conectados
 
-- [[competent-generative-ai-use-measures-review-2026]] — Review and exploratory meta-analysis of measures for competent generative-AI use (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Correctness masking an incomplete rule: mastery stopping rules in adaptive learning (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Counterfactual audit of demographic signals in LLM student assessment (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov chains and pattern mining over 29,064 activities in 554 courses (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving, non-diagnostic self-check for AI-associated offloading (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy, read through the Redbox codebase (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Why the best example–problem ratio depends on content (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
+- [[competent-generative-ai-use-measures-review-2026]] — Revisão e metanálise exploratória de medidas para o uso competente de IA generativa (Verí 2026)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — A correção mascarando uma regra incompleta: regras de parada por domínio na aprendizagem adaptativa (An, McLaren & Stamper 2026)
+- [[demographic-signals-llm-student-assessment-2026]] — Auditoria contrafactual de sinais demográficos na avaliação de estudantes por LLM (Rooein, Benedetto & Hovy 2026)
+- [[learning-paths-patterns-learning-design-2026]] — Cadeias de Markov e mineração de padrões sobre 29.064 atividades em 554 cursos (Divjak, Svetec & Horvat 2026)
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Uma autoverificação não diagnóstica e que preserva a privacidade para a descarga associada à IA (Alam 2026)
+- [[perrotta-zero-shot-governance-2026]] — Governança zero-shot: IA de propósito geral na política, lida por meio da base de código do Redbox (Perrotta 2026)
+- [[rachatasumrit-example-problem-ratio-2026]] — Por que a melhor razão exemplo–problema depende do conteúdo (Rachatasumrit, Koedinger & Carvalho 2025)
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Professores desenham chatbots de especialista delimitado, com delegação seletiva da instrução (Reichert et al. 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] — TPACK de GenAI do corpo docente: forte conhecimento de conteúdo, fraco conhecimento integrado à tecnologia (Sutedjo, Chowdhury & Liu 2026)
+- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: um ensaio randomizado de tutoria ao vivo humano–IA em escala (Wang et al. 2024)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Um Delphi pré-registrado com 30 especialistas sobre quais processos de aprendizagem a GenAI aprimora e quais ameaça
 - [[three-pathways-student-ai-interaction-2026]] — Uma tipologia de interação estudante–IA: 64% passiva ou transacional, 36% diálogo estratégico
 - [[agent-type-feedback-style-self-directed-learning-2026]] — O estilo de feedback, e não o tipo de agente, moveu o engajamento autorregulatório

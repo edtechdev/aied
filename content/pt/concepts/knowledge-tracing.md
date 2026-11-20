@@ -1,14 +1,14 @@
 ---
 title: Rastreamento de conhecimento
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 O rastreamento de conhecimento transforma respostas brutas de exercícios em estimativas do que um estudante dominou e do que ele ainda precisa aprender. Diferentemente do rastreamento simples de acertos, o rastreamento de conhecimento modela a dinâmica temporal da aprendizagem — quando o conhecimento é adquirido, quando decai e como os conceitos se relacionam entre si.
 
-### Abordagens representadas na base de conhecimento
+## Abordagens representadas na base de conhecimento
 
 - **Abordagens bayesianas:** o [[stanbkt-bayesian-knowledge-tracing]] padroniza implementações de BKT, enquanto o [[mbp-kt-meta-behavioral-knowledge-tracing]] incorpora sinais metacomportamentais
 - **Parâmetros do BKT como medidas de resultado de intervenção:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] ajustaram rastreamento de conhecimento bayesiano condicionado por pistas a 19.952 pontos de dados de 688 alunos do sexto ano, de modo que os próprios parâmetros de adivinhação, deslize, aprendizagem e esquecimento se tornaram as medidas de resultado de uma intervenção de matemática com pistas perceptuais. Pistas congruentes elevaram a adivinhação e reduziram o deslize — andaimento imediato —, enquanto a condição de cores incongruentes mostrou a assinatura da dificuldade desejável, com adivinhação em 0,190, mas a maior taxa de aprendizagem (0,0379) e a menor taxa de esquecimento (0,0054) entre as nove condições. As classificações das condições de pista baseadas em BKT alinharam-se às baseadas em comportamento em cinco das oito condições, apoiando os parâmetros como uma lente sobre o dilema da assistência.
@@ -57,7 +57,7 @@ O rastreamento de conhecimento transforma respostas brutas de exercícios em est
 - **Rastreamento apenas com instantâneo.** [[skill-acquisition-without-temporal-info|Nagai et al. (2026)]] induzem uma ordem pseudotemporal a partir de relações de inclusão entre os conjuntos de habilidades dos estudantes, tratando conjuntos de habilidades em expansão como progressão de aprendizagem, de modo que instantâneos de único ponto no tempo seguem rastreáveis — mas a formulação pressupõe que habilidades nunca são perdidas, então implantações para estudantes que regridem precisam primeiro de um mecanismo explícito de esquecimento.
 - **A granularidade do componente de conhecimento é ela mesma uma decisão de modelagem.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny e Meurers (2026)]] compararam 19 modelos de componentes de conhecimento em 11 níveis de uma hierarquia de tutoria de línguas, sobre 153.819 respostas de primeira tentativa de 1.059 alunos do sétimo ano. O vencedor depende do alvo de predição: o identificador fino Actionable Element ID liderou a predição bloqueada por estudante (RMSE 0,4083), enquanto o Property ID + Exercise Type semanticamente fundamentado liderou a predição bloqueada por item (RMSE 0,4243). Identificadores finos também mostraram taxas médias de aprendizagem próximas de zero (Actionable Element ID 0,000).
 
-### Relação com outros conceitos
+## Relação com outros conceitos
 
 O rastreamento de conhecimento é estreitamente relacionado à [[student-modeling|modelagem do estudante]] — enquanto o rastreamento de conhecimento modela especificamente o conhecimento cognitivo ao longo do tempo, a modelagem do estudante é a prática mais ampla de representar todos os aspectos de um estudante (estado [[affective-computing|afetivo]], [[student-engagement|engajamento]], preferências). O rastreamento de conhecimento alimenta sistemas de [[adaptive-learning|aprendizagem adaptativa]] e [[personalized-learning|aprendizagem personalizada]] que precisam saber o que ensinar a seguir, e plataformas de [[intelligent-tutoring|tutoria inteligente]] que usam estimativas de domínio para selecionar problemas apropriados. Ele se conecta à [[learning-analytics|analítica de aprendizagem]] para o desenho de painéis e de intervenções, e ao [[cognitive-diagnosis|diagnóstico cognitivo]] para [[assessment|avaliação]] de habilidades de granularidade fina. Os construtos de rastreamento de conhecimento também informam os [[simulating-students|estudantes simulados]] — o estado cognitivo de um estudante simulado é frequentemente formalizado com as mesmas dinâmicas de domínio e decaimento que o rastreamento de conhecimento modela, de modo que a [[simulation|simulação]] é uma forma de *gerar* os estados de conhecimento que os métodos de rastreamento normalmente *inferem* a partir de dados de resposta reais.
 
@@ -73,16 +73,6 @@ O rastreamento de conhecimento é estreitamente relacionado à [[student-modelin
 
 **Uma ressalva de capacidade: modelos gerais de linguagem rastreiam conhecimento pouco acima de uma linha de base trivial.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] lançaram o FoundationalASSIST, que restaura o texto completo das questões, as respostas que os estudantes realmente deram e suas escolhas de distratores que conjuntos de dados anteriores de rastreamento descartaram, e testaram quatro [[llm|LLMs]] de fronteira como rastreadores zero-shot. O melhor, GPT-OSS-120B, alcançou 56,2% contra os 51,3% que uma regra sempre-prever-correto já pontua (AUC-ROC 0,559), sem melhoria a partir de históricos mais longos, e a Llama-3.3-70B acertou 85,4% das vezes em que um estudante respondeu corretamente, mas apenas 12,6% quando ele errou — evidência de que um modelo de prateleira rastreia otimismo, e não compreensão, então a habilidade aparente de um rastreador precisa ser lida contra a linha de base trivial que sua tarefa permite.
 - **Um LLM de passagem única pode rastrear conhecimento antes de qualquer estudante ser registrado.** Consultado como uma única questão digitada, sem dados da plataforma-alvo, o Jev alcançou AUC média de .706, acima do melhor dos 28 modelos profundos de rastreamento treinados em 8 estudantes (.689) e à frente até que o rastreamento supervisionado o alcance em 64–128 estudantes ([[system-one-llm-knowledge-tracing-2026|Lee & Park, 2026)]]).
-
-## Ideias equivocadas comuns
-
-**"Um rótulo de domínio significa que o estudante sabe aquilo."** Domínio não é correção — quem aprende pode parecer ter dominado e aplicar sistematicamente mal uma habilidade sempre que uma condição oculta é violada —, e o valor do rótulo depende da regra de contagem por trás dele. O crédito por conclusões declaradas marcou **93,9% de 113.428 pares estudante–habilidade** como dominados, contra **72,8%** sob uma regra estrita, e os pares que a regra leniente considerou adiantados alcançaram apenas **70,9% de acerto sem auxílio**. Duas regras defensáveis produziram uma diferença de 21 pontos em quem era declarado pronto.
-
-**"São os modelos de sequência que tornam o rastreamento preciso."** Boa parte do ganho aparente é mais barata do que isso. Em 1.927.265 respostas de matemática de 8.996 estudantes finlandeses, a identidade do item sozinha alcançou **AUC ,8362**, e acrescentar uma única medida de recência relativa à dificuldade do item elevou isso a **,866**. Boa parte do que os modelos profundos de sequência compram está disponível a partir de uma linha de base de dificuldade do item mais recência, de modo que comparações de arquitetura precisam dessa linha de base para serem significativas.
-
-**"O melhor modelo em um conjunto de dados é o melhor modelo para o seu curso."** A precisão é específica do contexto. O OKT alcançou **89,81% de AUC** em dados vivos de LMS de um programa de [[engineering-education|engenharia]] (2.416 estudantes, 966 resultados), superando DKT, DKVMN, EKT e SimpleKT — enquanto dava apenas resultados competitivos no ASSISTments. A mesma arquitetura que vence em uma família de dados é banal em outra, então uma AUC de manchete vinda de outro lugar é evidência fraca sobre os seus estudantes.
-
-**"O conhecimento persiste a menos que haja evidência de esquecimento."** O esquecimento é o padrão que vale modelar. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan e Carvalho (2025)]] ajustaram BKT, BKT-com-Esquecimento e o Modelo de Fatores Aditivos ao longo de uma sequência de múltiplas sessões e descobriram que o ajuste do modelo muda quando a retenção é representada, e que o modo como esses modelos são *validados* difere do modo como são *implantados*.
 
 ## Implicações para a prática
 
@@ -102,6 +92,16 @@ O rastreamento de conhecimento é estreitamente relacionado à [[student-modelin
 
 - Relate resultados em mais de uma família de dados antes de alegar superioridade arquitetural, já que o contraste do OKT se inverte entre dados de LMS de engenharia e o ASSISTments.
 - Relate a regra de contagem de domínio como um parâmetro do resultado, não como uma nota de rodapé metodológica.
+
+## Ideias equivocadas comuns
+
+**"Um rótulo de domínio significa que o estudante sabe aquilo."** Domínio não é correção — quem aprende pode parecer ter dominado e aplicar sistematicamente mal uma habilidade sempre que uma condição oculta é violada —, e o valor do rótulo depende da regra de contagem por trás dele. O crédito por conclusões declaradas marcou **93,9% de 113.428 pares estudante–habilidade** como dominados, contra **72,8%** sob uma regra estrita, e os pares que a regra leniente considerou adiantados alcançaram apenas **70,9% de acerto sem auxílio**. Duas regras defensáveis produziram uma diferença de 21 pontos em quem era declarado pronto.
+
+**"São os modelos de sequência que tornam o rastreamento preciso."** Boa parte do ganho aparente é mais barata do que isso. Em 1.927.265 respostas de matemática de 8.996 estudantes finlandeses, a identidade do item sozinha alcançou **AUC ,8362**, e acrescentar uma única medida de recência relativa à dificuldade do item elevou isso a **,866**. Boa parte do que os modelos profundos de sequência compram está disponível a partir de uma linha de base de dificuldade do item mais recência, de modo que comparações de arquitetura precisam dessa linha de base para serem significativas.
+
+**"O melhor modelo em um conjunto de dados é o melhor modelo para o seu curso."** A precisão é específica do contexto. O OKT alcançou **89,81% de AUC** em dados vivos de LMS de um programa de [[engineering-education|engenharia]] (2.416 estudantes, 966 resultados), superando DKT, DKVMN, EKT e SimpleKT — enquanto dava apenas resultados competitivos no ASSISTments. A mesma arquitetura que vence em uma família de dados é banal em outra, então uma AUC de manchete vinda de outro lugar é evidência fraca sobre os seus estudantes.
+
+**"O conhecimento persiste a menos que haja evidência de esquecimento."** O esquecimento é o padrão que vale modelar. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan e Carvalho (2025)]] ajustaram BKT, BKT-com-Esquecimento e o Modelo de Fatores Aditivos ao longo de uma sequência de múltiplas sessões e descobriram que o ajuste do modelo muda quando a retenção é representada, e que o modo como esses modelos são *validados* difere do modo como são *implantados*.
 
 ## Conceitos conectados
 

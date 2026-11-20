@@ -1,7 +1,7 @@
 ---
 title: "Educação infantil e anos iniciais"
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Educação infantil e anos iniciais** — o uso da inteligência artificial na educação de crianças pequenas, abrangendo a educação infantil e os anos iniciais do ensino fundamental. Isso cobre currículos de letramento em IA e de [[computational-thinking|pensamento computacional]] para quem aprende cedo, brinquedos e brincadeiras potencializados por IA, [[personalized-learning|aprendizagem personalizada]] nas disciplinas dos anos iniciais, e as considerações de desenvolvimento, segurança e equidade próprias de crianças, e não de adolescentes ou adultos.
+> **Educação infantil e anos iniciais** — o uso da inteligência artificial na educação de crianças pequenas, da pré-escola até os primeiros anos do ensino fundamental (aproximadamente dos 3 aos 8 anos). Isso cobre letramento em IA e [[computational-thinking|pensamento computacional]] para quem aprende cedo, brinquedos e brincadeiras potencializados por IA, robôs de sala de aula, [[personalized-learning|aprendizagem personalizada]] precoce, e as considerações de desenvolvimento, segurança e equidade que se aplicam a crianças, e não a adolescentes ou adultos. As séries posteriores do ensino fundamental estão em [[primary-education|ensino fundamental]].
 
 ## Perguntas para considerar
 
@@ -38,9 +38,9 @@ ai_assist:
 
 ## Introdução
 
-Crianças pequenas interagem com IA cada vez mais cedo — por meio de brinquedos potencializados por IA, chatbots, plataformas de [[adaptive-learning|aprendizagem adaptativa]] e robôs de sala de aula —, mas elas diferem em desenvolvimento dos estudantes da educação básica e do ensino superior que dominam a maior parte da [[research-methods-aied|pesquisa]] sobre IA na educação. Este conceito reúne a cobertura da base de conhecimento sobre essa faixa mais jovem. Ele está dentro do guarda-chuva mais amplo de [[k-12|K-12]], mas é distinto porque as preocupações são especificamente desenvolvimentais: a [[game-based-learning|brincadeira]] como modo primário de aprendizagem, o andaime de adultos (pais/professores), o [[ai-literacy|letramento em IA]] adequado à idade e atenção redobrada ao [[well-being|bem-estar]] e à [[pedagogical-safety|segurança]].
+Esta página cobre a pré-escola e os anos iniciais do ensino fundamental, em que a brincadeira é o modo dominante de aprendizagem e um adulto medeia a maioria dos encontros com uma ferramenta. As séries posteriores do ensino fundamental, em que o ensino de disciplinas e a implantação com a turma inteira assumem o protagonismo, estão em [[primary-education|ensino fundamental]]. Crianças pequenas interagem com IA cada vez mais cedo — por meio de brinquedos potencializados por IA, chatbots, plataformas de [[adaptive-learning|aprendizagem adaptativa]] e robôs de sala de aula —, mas diferem em desenvolvimento dos estudantes da educação básica e do ensino superior que dominam a maior parte da [[research-methods-aied|pesquisa]] sobre IA na educação. Essa faixa mais jovem tem sua própria base de evidências. Ela está dentro do guarda-chuva mais amplo de [[k-12|K-12]], mas é distinta porque as preocupações são especificamente desenvolvimentais: a [[game-based-learning|brincadeira]] como modo primário de aprendizagem, o andaime de adultos (pais/professores), o [[ai-literacy|letramento em IA]] adequado à idade e atenção redobrada ao [[well-being|bem-estar]] e à [[pedagogical-safety|segurança]]. A explicação desenvolvimental por trás dessas afirmações — como as capacidades mudam com a idade e por que "adequado à idade" é uma relação, e não um rótulo — está em [[developmental-psychology|psicologia do desenvolvimento]].
 
-### Como a pesquisa se agrupa
+## Como a pesquisa se agrupa
 
 - **Letramento em IA por brincadeiras desplugadas.** O [[ai-play-framework-early-childhood-2026|framework AI-Play]] ensina conceitos de IA para a primeira infância por meio de atividades *desplugadas* (sem computador), mostrando que ideias abstratas de IA podem ser apresentadas a crianças pequenas por atividades corporificadas, lúdicas e tangíveis (veja [[game-based-learning|aprendizagem baseada em jogos]]) — uma rota adequada ao desenvolvimento rumo ao [[ai-literacy|letramento em IA]] e ao [[computational-thinking|pensamento computacional]].
 
@@ -69,11 +69,24 @@ Crianças pequenas interagem com IA cada vez mais cedo — por meio de brinquedo
 
 - **Observação de sala de aula avaliada por IA sobre a qualidade da interação professor–criança.** [[ai-rated-classroom-observation-scores-2026|Fong et al. (2026)]] colocam um [[llm|LLM]] como referência contra avaliadores humanos treinados sobre todo o framework CLASS Pre-K em jardins de infância de Hong Kong — 87 observações gravadas em vídeo de 38 salas em 30 jardins de infância, avaliadas a partir de transcrições pelo GPT-5.0 e comparadas com oito avaliadores treinados. A concordância foi moderada em geral (κ ponderado = 0,681), mas condicionada ao construto: a convergência se manteve para o domínio de Apoio Emocional e para Qualidade do Feedback — a dimensão sustentada pelo apoio verbal explícito e baseado em trocas —, enquanto Organização de Sala divergiu inteiramente, e os avaliadores pontuaram as dimensões emocionais mais alto que o modelo, com uma lacuna muito grande na dimensão de Clima Negativo (pontuada ao inverso) (d = 2,732; os avaliadores deram a nota máxima de 7 em 63 de 71 observações, enquanto a IA se agrupou em 6). A lição para a primeira infância é especificamente desenvolvimentista: a qualidade que vive no comportamento não verbal, espacial e de rotina — gestão, movimento, calor, tom — é invisível a um pipeline que só vê transcrições, a direção do erro do modelo depende do construto em vez de ser uniformemente conservadora, e os autores por isso posicionam a [[automated-assessment|pontuação por IA]] como ferramenta de triagem e reflexão para [[teacher-role|professores]], não como substituta de observadores treinados.
 - **[[teacher-education|Educadores em formação]] projetando atividades de ciências.** [[preservice-early-childhood-genai-magnetism-2026|Efthimiou e Plakitsi (2026)]] pediram a 131 educadores de primeira infância em formação que projetassem atividades de magnetismo com LLMs: eles classificaram a estrutura e a eficiência dos modelos como as mais altas (M = 3,95), mas a confiabilidade epistêmica de seu conteúdo como a mais baixa (M = 3,08), tratando-os como artefatos de brainstorming e mantendo a transformação didática como responsabilidade humana.
-- **IA aproximando julgamentos desenvolvimentais de histórias infantis.** O [[clara-developmental-appropriateness-children-stories-2026|CLARA de Yin et al. (2026)]] anota as demandas cognitivas, linguísticas e socioemocionais de uma história e corresponde às referências de idade das editoras em 0,904 das vezes, à frente das fórmulas de legibilidade (0,603) e do prompting direto (0,730) — oferecido como sinal de apoio, não como substituto de um julgador humano.
-
 - **O que prediz se professores de pré-escola adotam IA.** Uma pesquisa com 270 professores de pré-escola em Xangai, Zhejiang e Guangdong, modelada com um [[technology-acceptance-model|TAM]] estendido, constatou que utilidade e facilidade de uso percebidas previam a intenção de usar IA, com a [[self-efficacy|autoeficácia]] em IA elevando-a e a [[anxiety-and-stress|ansiedade em relação à IA]] reduzindo-a ([[preschool-teachers-ai-behavioral-intention-2026|Duan, Shan e Gong 2026]]). O estudo excluiu por desenho ferramentas voltadas às crianças, de modo que suas alavancas — construção de confiança e formação de baixo risco — dizem respeito ao próprio trabalho profissional dos professores.
 
-### Considerações de desenvolvimento e equidade
+- **IA aproximando julgamentos desenvolvimentais de histórias infantis.** O [[clara-developmental-appropriateness-children-stories-2026|CLARA de Yin et al. (2026)]] anota as demandas cognitivas, linguísticas e socioemocionais de uma história e corresponde às referências de idade das editoras em 0,904 das vezes, à frente das fórmulas de legibilidade (0,603) e do prompting direto (0,730) — oferecido como sinal de apoio, não como substituto de um julgador humano.
+
+- **Letramento em IA como trabalho interpretativo de sala de aula, não conhecimento individual.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca e Yigit-Gencten (2026)]] codificaram 17 sessões de contação de histórias em uma pré-escola turca em que a professora escrevia todos os prompts do Midjourney e a turma assistia às saídas em uma tela compartilhada. As crianças explicavam as incompatibilidades atribuindo pensamento, escuta e intenção ao sistema ("ele não conseguiu pensar nisso direito"), debatiam as ligações entre prompt e saída e votavam em quais imagens manter. Como as perguntas da professora decidiam quais explicações eram acolhidas, e às vezes encerravam a investigação por completo, o letramento em IA precoce aqui está distribuído pela atividade, em vez de ser detido por uma criança.
+- **A literatura sobre professores em formação não se organizou em torno da IA.** Um mapa bibliométrico de 86 publicações sobre letramento digital e midiático de professores de educação infantil encontrou a IA presente, mas dispersa demais para formar um cluster temático, com a competência digital no centro e o letramento midiático apenas fracamente associado ([[early-childhood-teacher-digital-media-literacy-bibliometric-2026|Janegizova et al., 2026]]).
+
+## Rotas desplugadas e construcionistas, e o que o engajamento comprova
+
+Os frameworks acima apresentam a brincadeira desplugada como a porta de entrada adequada ao desenvolvimento para os conceitos de IA. A literatura mais ampla do ensino fundamental a trata como um design minoritário. Nos 25 estudos revisados por [[yim-ai-literacy-primary-schools-review-2025|Yim e Su (2025)]], agentes apareceram em 15 e dispositivos focados em software em 8, enquanto atividades desplugadas apareceram em 3. O trabalho desplugado aqui é um argumento [[pedagogy|pedagógico]] defensável mais do que medido: a base para ele é mais fina do que para designs baseados em agentes e dispositivos.
+
+Onde a tradição construcionista de fato se transfere, a sequência é contestada. As rotas de programação usam Scratch, MIT App Inventor e Cognimates para ensinar codificação baseada em regras antes da aprendizagem orientada a dados, e Yim e Su questionam essa ordem, já que o aprendizado de máquina pede que o aprendiz selecione e organize exemplos em vez de escrever regras. Para uma criança de cinco anos cujo único modelo de computador é uma lista de comandos, essa é a distância entre programar um robô e ensiná-lo. A revisão também lista a [[generative-ai|IA generativa]] como direção futura, e não como achado, de modo que a maior parte do trabalho com narrativas e agentes descrito nesta página é posterior à base de evidências da qual poderia se valer.
+
+O engajamento é o resultado que esses designs mais frequentemente relatam, e não é compreensão. [[barokah-ai-elementary-science-review-2026|Barokah, Hermita e Putra (2026)]] mapeiam 103 publicações de 2023 até o início de 2026 em cinco clusters de aplicação, a robótica entre eles, e alertam que uma criança absorta em um desafio de construção pode nada aprender sobre o fenômeno que ele modela. O achado mais amplo deles é que o valor depende de como o professor enquadra e medeia a tarefa, um argumento que sustentam a partir de trabalhos citados, e não de sua própria codificação.
+
+A lacuna epistêmica é mais aguda onde as ciências nos anos iniciais mais precisam dela. O mesmo mapa encontra resultados se distribuindo em categorias cognitivas, afetivas, regulatórias e participativas, enquanto os estudos raramente perguntam se as crianças separam observação de inferência, constroem um modelo ou reconhecem os limites de uma afirmação gerada por IA. Ele também alerta que tarefas de desempenho nos anos finais do ensino fundamental produzem explicações parciais, desenhos e gestos, de modo que uma pontuação que trata como errada uma resposta desenvolvimentalmente produtiva priva a avaliação de seu uso [[formative-assessment|formativo]]. Para um professor de crianças de seis e sete anos, isso é uma razão para manter um adulto lendo o artefato em vez de um modelo pontuando-o.
+
+## Considerações de desenvolvimento e equidade
 
 Como quem aprende cedo é mais vulnerável e menos capaz de autorregular seu uso de IA, este grupo enfatiza o **andaime por adultos** (pais, responsáveis e professores), o **design adequado à idade** e o risco de [[cognitive-offloading|dependência excessiva]] e [[well-being|dano]] se a IA substituir, em vez de apoiar, o trabalho desenvolvimental da brincadeira, da descoberta e da aprendizagem com esforço. A equidade é uma preocupação viva: o acesso à aprendizagem precoce rica em IA (ou à orientação protetiva de adultos) é desigual, conectando-se à [[digital-divide|divisão digital]] e à [[equity-in-ai-education|equidade na educação com IA]]. Boa parte da base de evidências permanece exploratória ou orientada ao design, em vez de causal.
 
@@ -89,6 +102,7 @@ Uma primeira janela de neuroimagem sobre essa questão chega com uma ressalva: c
 
 ## Conceitos conectados
 
+- [[developmental-psychology]]
 - [[k-12]]
 - [[ai-literacy]]
 - [[computational-thinking]]
@@ -131,3 +145,6 @@ Uma primeira janela de neuroimagem sobre essa questão chega com uma ressalva: c
 - [[ai-literacy-ecec-curricula-four-country-2026]] — Letramento em IA para nativos de IA? Uma comparação entre quatro países
 
 - [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — Ferramentas mediadas por IA no ensino de inglês no primário: uma revisão de escopo de funções pedagógicas e orquestração docente
+- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Letramento digital e midiático de professores de educação infantil em formação no contexto da educação digital: uma análise bibliométrica de tendências de pesquisa
+- [[yim-ai-literacy-primary-schools-review-2025]] — Educação para o letramento em inteligência artificial no ensino fundamental: quatro vertentes, ensino construcionista e uma base de evidências centrada em autorrelatos (Yim e Su 2025)
+- [[barokah-ai-elementary-science-review-2026]] — Mapeando a pesquisa em ciências nos anos iniciais: cinco clusters de aplicação, mediação docente e resultados epistêmicos escassos (Barokah et al. 2026)

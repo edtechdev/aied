@@ -1,7 +1,7 @@
 ---
 title: Interação Estudante-IA
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,8 @@ ai_assist:
 
 A interação estudante-IA é a superfície observável do [[student-engagement|engajamento]] dos aprendizes com a IA generativa — as perguntas que colocam, os prompts que escrevem, a forma como negociam e verificam a saída da IA, e como esses padrões se deslocam entre estágios da tarefa e ao longo do tempo. Ela fica na interseção da [[student-experience|experiência do estudante]], do [[prompt-engineering|prompt engineering]] e da [[learning-analytics|análise de aprendizagem]], e é central para os debates sobre se o uso de IA na educação representa aprendizagem genuína ou [[cognitive-offloading|excesso de dependência]]. Onde a [[human-ai-collaboration|colaboração humano-IA]] enquadra a divisão de alto nível do trabalho cognitivo entre pessoas e modelos, a interação estudante-IA é a encenação concreta e mensurável dessa relação — as consultas, prompts e jogadas de negociação específicas que os aprendizes fazem momento a momento.
 
+A interação nem sempre é instrumental. O modelo de adaptação relacional integrada à máquina de Boyd e Markowitz separa a IA como *parceira relacional*, em que quem aprende se engaja diretamente com o sistema, da IA como *mediadora relacional*, em que o sistema remodela a comunicação entre pessoas ([Boyd & Markowitz, 2026](https://doi.org/10.1177/17456916251404394)). O segundo é o caso menos visível, como quando uma IA redige um feedback que o estudante então lê como a voz de seu instrutor. O modelo é um referencial, e não um achado, e não foi testado em sala de aula. Ainda assim, nomeia uma distinção que a pesquisa sobre interação tende a fundir, porque um tutor com forma de companheiro e um mediador que filtra a comunicação de pares ou do instrutor levantam perguntas diferentes sobre confiança e dependência.
+
 ### O que os estudantes pedem à IA
 
 - **A recusa é uma configuração da interação, não uma ausência de uso.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson e Lindgren (2026)]] gravaram três estudantes do ensino médio superior escrevendo a mesma história inspirada em Kafka com IA generativa e mapearam três agenciamentos distintos a partir das gravações: autoria delegada ao modelo, coescrita crítica recíproca e uma configuração explícita de “IA e eu — não, obrigado”, em que o estudante reorganizou sua prática de escrita longe da ferramenta. O achado para esta página é que a *mesma* tarefa, sala e ferramenta produziram as três, e muito do que as separou estava nos momentos entre prompts — pausas, reformulações, hesitação antes de aceitar uma sugestão —, que um registro de chat sozinho não captura.
@@ -59,6 +61,8 @@ Uma vertente complementar liga a *forma* da interação à aprendizagem. Prompts
 
 A interação, e não a ferramenta, fixa a via: em um experimento de campo com quase 1.000 estudantes de matemática do ensino médio, o GPT-4 irrestrito elevou as pontuações de prática em 48%, mas cortou as pontuações de exame sem assistência em 17%, enquanto o mesmo modelo restrito a dicas projetadas por professores elevou a prática em 127% e praticamente apagou o déficit ([[naim-bypass-offload-scaffold-llm-learning-2026|Lee, 2026]]).
 
+Uma tarefa de programação controlada coloca números de resultado nesses tipos de interação. [[shen-ai-skill-formation-2026|Shen e Tamkin (2026)]] randomizaram 52 desenvolvedores em atividade para aprender uma biblioteca Python desconhecida com ou sem um assistente GPT-4o e codificaram cada consulta contra as gravações de tela. Seis padrões emergiram, e os três que mantinham quem aprende fazendo trabalho cognitivo pontuaram muito acima dos três que o transferiam: indagação conceitual apenas (65%), código-explicação híbrido (68%) e geração-depois-compreensão (86%), contra delegação à IA (39%), dependência progressiva (35%) e depuração iterativa com IA (24%). A delegação foi o padrão mais rápido, com 19,5 minutos; depurar por meio do assistente foi mais lento (31 minutos) e o pior. A ordenação diz que o movimento decisivo é se a troca desenvolve o modelo de quem aprende ou o substitui.
+
 Se os estudantes promptaram de forma eficaz, e não quanto, acompanhou o sucesso: a Eficiência de Consulta à IA e a Resolução de Problemas Impulsionada por IA foram os preditores mais fortes do desempenho acadêmico ao longo de 128 estudantes de engenharia, e permaneceram significativos após o controle por GPA ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 O contexto comportamental é um sinal separado da própria pergunta: nas quatro implantações do TutorTrace (480 aprendizes, ~180.000 eventos de IDE), condicionar a ajuda ao estado comportamental recente de um aprendiz cortou os intervalos entre consultas sem trabalho independente de 50,0% para 20,7%, e as consultas iminentes eram previsíveis apenas a partir do comportamento (AUROC = ,726) ([[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]]).
@@ -67,9 +71,12 @@ A densidade não é o mecanismo: alternar os estudantes entre voz e texto quase 
 
 Um laço de verificação ainda pode permanecer raso: a análise sequencial de defasagem de uma implantação de agente-LLM de quatro semanas em um curso de graduação em bases de dados descobriu um ciclo significativo Consulta–Avaliação–Consulta, mas fortes laços de autotransição dentro de estados de ordem inferior e apenas 3,92% das interações alcançando a cognição de ordem superior ([[li-dbagent-llm-educational-agent-cs-2026|Li et al. (2026)]]).
 
+O desengajamento conversacional tem taxonomia própria — zombaria, ghosting, espelhamento, retenção, resposta falsa — e, ao longo de 246 diálogos de matemática do ensino fundamental II, apenas a retenção persistiu em vez de se resolver, de modo que o padrão danoso é a falha em se recuperar ([[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]).
+
 Bernstein e Sibia (2026) documentam um padrão iterativo-filtro em como estudantes de CS2 lidam com explicações da GenAI ([[student-reception-genai-analogies-computing-2026]]): eles fazem referência cruzada contra as notas de aula, exigem procedência ("eu ficaria muito mais em dúvida... sem uma") e sondam com perguntas de acompanhamento em busca de inconsistência, em vez de emitir um único juízo de aceitar-ou-rejeitar. Os estudantes também leram as explicações em função de cujo conhecimento e formação eles assumiram — [[prior-knowledge|conhecimento prévio]] assumido além do programa, referências padrão a esportes e games ("o lado mais dominado por homens da computação") e repetição excessiva funcionaram todas como sinais sobre o leitor imaginado, com o excesso de suporte lido como condescendente em vez de meramente ineficiente.
 
 Consultar a IA no *ponto* certo de uma tarefa importa tanto quanto a formulação do prompt individual: no mesmo estudo, [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] descobriram que a minoria orientada à realocação alternava trabalho independente com consulta à GenAI e relatava esforço total inalterado, mas com um foco deslocado — movendo recursos da busca para a verificação da qualidade e do equilíbrio argumentativos, e escrevendo notas de reflexão após as sessões para contrariar a retenção rasa —, enquanto aprendizes com objetivos de domínio, mas com [[ai-literacy|letramento em IA]] fraco, caíam em um "paradoxo da eficiência", terceirizando "não por intenção, mas por padrão".
+**A imagem que os estudantes fazem do modelo acompanha como eles o usam.** [[cs-students-llm-conceptualizations-prompting-2026|Donekal Chandrashekar et al. (2026)]] constataram que 68% de 283 estudantes pós-CS1 descreviam um LLM como uma pessoa ("amigo inteligente", "tutor"), e o enquadramento como máquina acompanhou conhecimento de mecanismo ligeiramente maior e prompting mais rico em contexto.
 
 ### Da interação à pedagogia
 
@@ -83,9 +90,13 @@ O não uso é ele mesmo um padrão de interação que a [[pedagogy|pedagogia]] p
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] documentam o que o diálogo aberto com IA generativa acrescenta na revisão por pares: estudantes que interrogaram o modelo em vez de aceitar sua primeira sugestão produziram feedback que os pares avaliaram como melhor, e relataram mais prazer na tarefa e menos [[anxiety-and-stress|ansiedade]].
 
+A ansiedade que o diálogo alivia pode ser social, e não técnica: ao longo de 596 estudantes egípcios de inglês como língua estrangeira e oito entrevistas, os aprendizes descreveram perguntar à ferramenta repetidamente porque "não há pressão, e ninguém está julgando" ([[alshammari-interactive-ai-efl-tam-2026|Alshammari e Abdelaty (2026)]]).
+
 ## Disciplina e engajamento cognitivo no chat estudante-IA
 
 - **Engajamento cognitivo associado à disciplina no chat estudante-IA.** Chang e Li (2026) analisam prompts de estudantes à IA ao longo de 116 cursos com um design within-person e entre disciplinas, mostrando que as conversas estudante-IA refletem engajamento cognitivo **associado à disciplina**, e não estilos de interação individuais fixos. Cerca de 62% dos prompts codificavam demanda cognitiva de ordem superior no geral, mas os perfis de nível de Bloom diferiam acentuadamente por disciplina: cursos de [[stem-education|STEM]] elicitaram prompts prevalentes em Aplicar (20,8%), cursos de línguas prevalentes em Entender (31,7%) e cursos de ciências sociais prevalentes em Criar (33,8%). Comparações pareadas within-person confirmaram que os mesmos estudantes produziam significativamente mais prompts de ordem superior em ciências sociais do que em cursos de STEM (n agrupado = 16, p < ,001), e a variação em nível de curso excedeu a variação em nível de estudante — um forte argumento de que os assistentes de ensino com IA deveriam ser projetados e avaliados com o contexto disciplinar em mente.
+- **O uso se concentra onde o trabalho tem forma de problema.** Em uma replicação com 991 estudantes em cinco universidades dos EUA, os estudantes relataram usar IA em 88% de seus cursos de ciências naturais, contra 52% dos de humanidades e 36% dos de ciências sociais, e estudar havia deslocado escrever como a tarefa mais comum ([[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]).
+
 - **Quanto os estudantes usam IA não previu como eles se sentiam a respeito.** Entre 819 estudantes, gênero, expertise em IA autorrelatada e frequência de uso não alcançaram significância em uma MANOVA (Wilks' Lambda 0,997, p = 0,551; 0,990, p = 0,295). Usuários intensos e leves daquela amostra tinham as mesmas opiniões ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 - **“Um estudante não consegue mover a nota de um avaliador.”** Consegue, e é a falha mais persistente da bateria: **17 de 22** modelos elevaram sua nota mais depois de uma objeção nua do que depois de um pedido de segunda olhada, incluindo **seis dos oito** que haviam passado em todas as verificações de jogos e respostas em branco. O maior foi o Llama 3.2 3B com **+33,2% da escala**, e o pedido de segunda olhada por si só baixou as notas de **dez** dos 17, de modo que o contraste não é o efeito bruto da objeção. [[porcaro-ai-grading-benchmark-2026|Notas com as quais um estudante pode argumentar precisam de um registro da troca]].
@@ -98,7 +109,7 @@ O não uso é ele mesmo um padrão de interação que a [[pedagogy|pedagogia]] p
 
 ## Conceitos conectados
 
-- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[learners]] — Quem aprende: o guarda-chuva dos conceitos do lado de quem aprende
 - [[human-ai-collaboration]]
 - [[student-experience]]
 - [[prompt-engineering]]
@@ -114,22 +125,25 @@ O não uso é ele mesmo um padrão de interação que a [[pedagogy|pedagogia]] p
 ## Artigos conectados
 
 - [[ai-chatbots-emotional-support-human-connection-2025]] — Frequência de uso e expertise autorrelatada não previram nada em 819 estudantes
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Terceirização cognitiva vs. realocação em avaliações estudante–GenAI sem supervisão (Yan et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — "Is this a trap?": student teachers' non-adoption of GenAI in assessments (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
+- [[student-ai-inquiry-types-cs2-2026]] — Análise dos tipos de consultas na interação estudante-IA
+- [[student-llm-interaction-taxonomy-review-2026]] — Revisão das taxonomias de interação estudante-LLM
+- [[teacher-authored-prompts-student-ai-dialogue]] — Prompts de autoria do professor no diálogo estudante-IA
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Construindo o letramento epistêmico em IA
+- [[dura-llm-cs2]] — Desmistificar, Usar, Refletir, Avaliar (DURA): integração de LLM em CS2
+- [[li-dbagent-llm-educational-agent-cs-2026]] — Agente educacional baseado em LLM (DBagent) no ensino de ciência da computação
+- [[isaza-chatgpt-engineering-prompting-2026]] — Comportamentos de prompting e de integração registrados em logs
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
+- [[student-reception-genai-analogies-computing-2026]] — Falhas, mas memoráveis: a recepção crítica dos estudantes de analogias da GenAI personalizadas por interesses na educação em computação
+- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Contornar, descarregar ou andaimentar: um modelo conceitual de como os grandes modelos de linguagem moldam a aprendizagem
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — Quando os tutores de IA falam: evidências de um experimento de campo randomizado
+- [[context-prompts-physics-assignments-2026]] — Tarefas de física movidas por inteligência artificial usando prompts de contexto
+- [[three-pathways-student-ai-interaction-2026]] — Tipologia tríplice da interação estudante-IA: 46% Revisão Passiva, 18% Pergunta Direta, 36% Diálogo Estratégico
 - [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 avaliadores com prompt enfrentam sondagens cuja resposta certa é conhecida, e a maioria deles pode ser convencida a subir a nota (Porcaro 2026)
+- [[shen-ai-skill-formation-2026]] — Seis padrões de interação com IA, de 86% a 24% em um quiz sem auxílio (Shen & Tamkin 2026)
+- [[cs-students-llm-conceptualizations-prompting-2026]] — Quem (ou o que) eles estão promptando? Como estudantes de ciência da computação conceituam e usam LLMs
+- [[burke-ai-proliferation-college-students-replication-2026]] — 991 graduandos: uso por área do curso (88% ciências naturais, 52% humanidades, 36% ciências sociais) e estudar como a tarefa principal

@@ -37,7 +37,7 @@ ai_assist:
 
 Este é um conceito de teoria da aprendizagem dentro da vertente de [[learning-theories|teorias da aprendizagem]] da base de conhecimento, intimamente relacionado a [[embodied-learning|aprendizagem incorporada]], [[situated-learning|aprendizagem situada]] e [[cognitive-offloading|offloading cognitivo]]. A cognição distribuída (DCog), originária do trabalho de Edwin Hutchins e colegas, descreve como processos cognitivos como memória, raciocínio e [[problem-solving|resolução de problemas]] se espalham por múltiplos agentes e sistemas materiais, em vez de residirem numa única cabeça. Na [[ai-education|educação em IA]], isso importa porque os sistemas de IA funcionam cada vez mais como parceiros cognitivos genuínos que carregam parte da carga de pensamento, levantando a questão de *onde* a aprendizagem de fato acontece e *quem* é responsável.
 
-### Como a IA desloca a distribuição da cognição
+## Como a IA desloca a distribuição da cognição
 
 Sistemas de IA generativos e interativos redistribuem o trabalho cognitivo de formas que ferramentas anteriores não conseguiam. A base de conhecimento documenta várias dimensões desse deslocamento:
 
@@ -53,7 +53,7 @@ Sistemas de IA generativos e interativos redistribuem o trabalho cognitivo de fo
 
 - **A cognição estendida como escolha de desenho, não propriedade da ferramenta.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa e Duarte Arias (2026)]] argumentam que a IA generativa é substitutiva por padrão porque realiza a tarefa cognitiva, mas o mesmo sistema se torna complementar quando critica um rascunho ou fornece feedback que o estudante precisa avaliar. Seu enquadramento de mente estendida toma como unidade de análise o artefato mais o seu uso, que é a versão normativa da questão de distribuição desta página.
 
-### Cognição distribuída e perspectivas relacionadas
+## Cognição distribuída e perspectivas relacionadas
 
 A base de conhecimento trata a cognição distribuída ao lado de suas tradições teóricas vizinhas, que se sobrepõem mas não são idênticas:
 
@@ -62,12 +62,12 @@ A base de conhecimento trata a cognição distribuída ao lado de suas tradiçõ
 - **[[cognitive-offloading|Offloading cognitivo]]** é o mecanismo prático pelo qual o trabalho cognitivo é entregue a sistemas externos (incluindo a IA), e é a contraparte carregada de risco à descrição da DCog.
 - **Cognição estendida / a tese da mente estendida** (usada em trabalhos pós-humanistas) sustenta que artefatos externos podem ser partes *constitutivas* de um sistema cognitivo, e não meros instrumentos — uma afirmação mais forte, de que a IA é parte da própria mente do estudante.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### De quem é a cognição? O problema da unidade de análise
+## De quem é a cognição? O problema da unidade de análise
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] empurra essa questão da unidade de análise mais longe do que a maior parte do trabalho nesta tradição. Sua tese é que o letramento não é uma posse individual, mas algo encenado com materiais e máquinas, o que torna o estudante individual a unidade de análise errada. Um framework de competência centrado na pessoa, portanto, não consegue registrar contribuições infraestruturais ou não humanas, e assim o campo segue nomeando a distribuição para depois resolvê-la de volta no estudante. A aresta de equidade é seu argumento sobre dificuldade: a reflexividade depende de experiência vivida e de relações de poder, de modo que estudantes cujas práticas de língua ou escrita estão mais distantes da norma codificada carregam o maior custo. O argumento é teórico e não relata conjunto de dados, e suas orientações de desenho permanecem propostas não testadas.
 
 
-### Por que importa para o desenho e a avaliação da IA
+## Por que importa para o desenho e a avaliação da IA
 
 A cognição distribuída fornece tanto uma lente de desenho quanto uma lente de avaliação. Para o desenho, ela pergunta como repartir o trabalho cognitivo entre estudantes e IA para preservar (e não erodir) a agência, a [[metacognition|metacognição]] e a autorregulação do estudante humano. Para a avaliação, ela reformula as métricas de sucesso: em vez de perguntar apenas \"o desempenho melhorou?\", a DCog pergunta se a distribuição da cognição sustenta aprendizagem durável, agência epistêmica e justiça educacional — uma perspectiva que conecta às preocupações de [[ai-ed-evaluation]] e [[learning-theories|teorias da aprendizagem]] da base de conhecimento.
 

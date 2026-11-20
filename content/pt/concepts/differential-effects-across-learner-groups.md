@@ -1,7 +1,7 @@
 ---
 title: "Efeitos diferenciais entre grupos de estudantes"
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,8 @@ A pesquisa sobre gênero aqui se divide entre se as ferramentas tratam quem apre
 - **Espaço e enquadramento importam tanto quanto a ferramenta.** [[all-girls-genai-makerspace-gender-equity-2026|Um estudo de caso de makerspace de IA generativa só para meninas]] concluiu que as meninas valorizaram o ambiente de gênero único como mais seguro e relaxado, e alerta contra a "meninização" — adaptação superficial que deixa as relações de poder intocadas.
 - **A sensibilidade do modelo é uma propriedade do modelo, não uma constante.** No [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]], cinco tutores de 7B a 70B foram auditados ao longo de nove níveis demográficos: o Qwen2.5-7B excedeu o limiar de viés |r| ≥ 0,10 em 7 de 12 células domínio-por-dimensão, enquanto o LLaMA-3.1-8B o excedeu uma vez. O treinamento específico de pedagogia reduziu alguns vieses e aumentou outros.
 - **Uma correção de eixo único pode deixar um grupo em situação pior:** estudantes de gênero diverso comprimidos em uma categoria "Gênero Desconhecido" tiveram as menores taxas de verdadeiro positivo sob todo método de justiça, e nenhum método de eixo único melhorou seu tratamento — a variação de rótulo de grupo notada acima, dentro de um modelo preditivo de alerta precoce em vez de um tutor ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+
+Um semestre de atividades de letramento em IA de baixo impacto pode mover a confiança de formas diferentes para grupos diferentes. [[petricini-ai-literacy-communication-equity-2026|Petricini e Cruz (2026)]] inseriram dez atividades ao longo das semanas 2 a 11 de um curso assíncrono de oratória e analisaram 133 respostas utilizáveis de 200 estudantes matriculados; a competência percebida caiu no geral, de 5,63 para 5,12 em uma escala de 1–7, e o declínio foi desigual. Estudantes que se identificam como mulheres registraram quedas significativas do pré para o pós em dois itens de competência, enquanto estudantes que se identificam como homens caíram em um e ganharam no valor do curso, e os estudantes que se identificam como homens se avaliaram mais alto no pós-teste quanto a usar qualquer nova ferramenta no curso (p = .02). A mesma intervenção produziu nos estudantes que se identificam como brancos uma queda significativa em todos os três itens de pressão e tensão, incluindo a preocupação com o desempenho de 2,67 para 1,90, enquanto estudantes de outras identidades raciais, étnicas ou de origem não mostraram mudança significativa em nenhum deles.
 
 ## Raça, etnia e estudantes minoritizados
 
@@ -196,3 +198,4 @@ O achado honesto deste levantamento é quão finos são alguns grupos. Cada um d
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Uma variável de agrupamento baseada em conhecimento com evidência direta de processo: grupos emparelhados por conhecimento prévio, mas diferindo na diversidade de preconcepções, adotaram a mesma IA de formas diferentes (Wang et al. 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: 22 corretores com prompting enfrentam sondas cuja resposta certa é conhecida, e a maioria deles pode ser convencida a subir a nota (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — O contexto do estudante muda as notas de um corretor com LLM sobre o mesmo trabalho, e a concordância com o professor não registra isso (Porcaro 2026, Paper VI)
+- [[petricini-ai-literacy-communication-equity-2026]] — Letramento em IA em um curso básico de comunicação: percepções sobre equidade, motivação e redução da incerteza

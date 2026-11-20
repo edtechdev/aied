@@ -1,7 +1,7 @@
 ---
 title: Educação em engenharia
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ A pesquisa em educação em engenharia é distintiva porque fica na interseção
 - **Avaliação corporificada e [[multimodal]]:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] desenvolvem um framework multimodal que integra o rastreamento de gestos por visão computacional à análise de fala por [[llm|LLM]] para avaliar a compreensão conceitual de estudantes de engenharia em estatística, mostrando que o gesto acrescenta evidência diagnóstica além da fala e que um forte acoplamento gesto–fala sinaliza compreensão coerente.
 - **Transformação da força de trabalho:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] revisam a literatura cinzenta dos EUA sobre IA e a força de trabalho em engenharia/computação, enquadrando o "Problema do Trem Duplo" (mudança rápida versus política urgente) e recomendando competências duráveis em IA, [[ethics|ética]] e [[governance|governança]], e credenciais baseadas em competências para papéis emergentes.
 - **Adoção e dependência dos estudantes:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] estendem o Modelo de Aceitação de Tecnologia com o *uso crítico* para modelar como estudantes de engenharia/ciência da computação formam intenções de usar [[generative-ai|IA generativa]] e como essa intenção prevê a dependência em tarefas de compreensão, avaliação, programação e projetos de engenharia — constatando dependência moderada e apropriada e uso intenso em tarefas relacionadas à compreensão, mas uso limitado para a escrita integral de avaliações. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integram o TAM ao [[technology-acceptance-model|UTAUT]] para modelar a adoção de estudantes de engenharia bangladeshianos, explicando 64% da variância de uso e destacando relevância para o emprego, demonstribilidade dos resultados e normas subjetivas como principais impulsionadores.
+- **O hábito desloca a pessoa:** o hábito, e não a intenção, previu se estudantes e educadores de engenharia filipinos passariam a pedir ajuda a pessoas com menos frequência uma vez que a IA generativa estivesse disponível, e a preocupação com a integridade acadêmica foi o único construto que reduziu esse deslocamento ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo & Bernardo, 2026]]).
 - **A [[prompt-engineering|estratégia de fazer prompts]] prevê o desempenho, não o volume de uso:** entre 128 estudantes de engenharia do quarto ano, a Eficiência de Consulta à IA e a Resolução de Problemas Impulsionada por IA foram os preditores mais fortes do sucesso acadêmico e permaneceram significativos após controlar pelo GPA acumulado ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 - **As metáforas dos próprios estudantes superam o que as ferramentas entregam:** [[ai-engineering-education-balancing-act|Kudina (2026)]] constatou que 100 estudantes de engenharia mais valorizavam os LLMs pelo apoio à escrita, pelo esclarecimento conceitual e pela programação, mas os enquadravam como "oráculo" e "tutor" — autoridade e [[personalized-learning|personalização]] que um gerador probabilístico de texto não pode fornecer, um "otimismo cruel" que depende de habilidades de verificação que os estudantes ainda estão construindo.
@@ -120,3 +121,4 @@ Essa lacuna já não está vazia em uma área: um programa de três anos em enge
 - [[liu-ai-sustainable-engineering-education-2026]] — Framework AI-SEE para educação em engenharia sustentável (Liu et al. 2026)
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[genai-xr-architectural-design-education-2026]] — IA generativa e realidade estendida na educação em desenho arquitetônico colaborativo: um estudo exploratório de ateliê
+- [[habit-over-intention-genai-help-seeking-engineering-2026]] — O hábito, e não a intenção, prevê que os estudantes peçam ajuda a pessoas com menos frequência: 49,6% relatam menos busca de ajuda humana, β do hábito 0,711 versus intenção 0,039

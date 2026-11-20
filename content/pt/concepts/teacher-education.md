@@ -1,16 +1,16 @@
 ---
 title: "Formação de professores"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 discipline: [teacher education]
-level: [adult learning, higher ed, k 12]
+level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ pedagogy: [tpack]
 - A formação de professores aqui abrange a formação inicial (futuros professores em programas de certificação) e o desenvolvimento profissional em serviço (professores em exercício). Qual das duas você acha que enfrenta o desafio maior de se preparar para salas de aula com IA, e por quê?
 - A página sugere que a formação de professores precisa preparar os professores não apenas para usar ferramentas de IA, mas para compreendê-las, avaliá-las e integrá-las de forma ética — uma mudança que "redefine o que significa ser professor". Como você acha que essa redefinição deveria mudar o que um programa de credenciamento ensina?
 - Frameworks como o AI-TPACK estendem o modelo clássico TPACK ao acrescentar uma dimensão de IA e ética. O que você acha que uma "dimensão de IA" do conhecimento tecnológico-pedagógico-de-conteúdo deveria realmente conter, além de como operar um [[conversational-ai|chatbot]]?
-- Uma [[meta-analysis-systematic-review|revisão de escopo]] de 55 estudos citada na página conclui que a IA aumenta o desenho instrucional, a reflexão e o pensamento  dos futuros professores. Mas, se a IA pode fazer parte disso por eles, quando seu uso na formação de professores constrói competência, e quando substitui o próprio julgamento de que eles precisarão?
+- Uma revisão de escopo de 55 estudos citada na página conclui que a IA aumenta o desenho instrucional, a reflexão e o pensamento crítico dos futuros professores. Mas, se a IA pode fazer parte disso por eles, quando seu uso na formação de professores constrói competência, e quando substitui o próprio julgamento de que eles precisarão?
 - Se você estivesse redesenhando um programa de formação de professores para a era da IA, o que exigiria que todo futuro professor vivenciasse — e o que você deliberadamente o impediria de terceirizar para a IA?
 
 ## Introdução
@@ -81,6 +81,8 @@ O desenvolvimento profissional em serviço apoia professores em exercício a int
 - **Capacidade construída fazendo, e não estudando.** Um modelo estrutural baseado em TPACK com 122 professores em serviço concluiu que o uso real de IA em tarefas de ciências e energia verde e o envolvimento no desenvolvimento de materiais alinhados à EDS previram a capacidade de integração de IA, enquanto o conhecimento abstrato de IA e as atitudes para com a IA não previram ([[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]]).
 - **[[ai-ed-evaluation|Avaliação colaborativa]] de conteúdo gerado por IA como DP.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher e Barak (2026)]] relatam uma oficina em que 60 professores de ciências do [[k-12|ensino fundamental]] avaliaram questões de avaliação geradas pelo ChatGPT por meio de seu julgamento disciplinar, pedagógico e curricular. A própria avaliação colaborativa funcionou como desenvolvimento profissional, ajudando os professores a aplicar critérios de precisão conceitual à saída da IA e a trazer à tona o risco de que o conteúdo de IA reforce [[misconceptions|concepções errôneas]] — posicionando os professores como avaliadores críticos do material de [[generative-ai|IA generativa]], e não como consumidores passivos.
 - **O DP estruturado para educadores de línguas é raro, mas eficaz.** Uma [[li-language-educators-genai-review-2026|revisão sistemática de 23 estudos]] (Li et al. 2026) concluiu que apenas três estudos incluídos relataram desenvolvimento profissional estruturado — um módulo embutido de disciplina de gramática, um programa governamental de EMI e investigação embutida com chatbot —, mas todos convergiram em ganhos de conhecimento, confiança e reenquadramento de identidade, deslocando a visão dos educadores sobre a IA generativa de "risco de substituição" para assistente/aumentadora. A revisão argumenta que o DP deveria parear a construção de competência técnica com sabedoria prática, movendo da [[ai-literacy|conscientização]] e da ética pelo domínio prático da ferramenta até o codesenho de aulas aprimoradas por IA, e recomenda uma estratégia de implementação em duas fases de "bastidores primeiro, depois sala de aula".
+- 
+**O treinamento, e não a ferramenta, carregou o ganho.** Em 19 turmas brasileiras do ensino fundamental, os estudantes de professores que receberam um único treinamento de numeracia de 50 minutos superaram os controles, enquanto acrescentar um sistema de IA mediado pelo professor não produziu ganho de aprendizagem adicional ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 A instância mais clara nesta base de conhecimento de DP de IA generativa orientado por framework para matemática é um estudo de oito professores em serviço de distritos rurais e de baixos recursos que completaram dez módulos interativos construídos sobre o framework 4P de Rhodes ([[bicer-genai-pd-math-creativity-2026]]). Ele fornece dois mecanismos de desenho que o desenho de DP em serviço de outra forma não tem aqui: andaimes que desvanecem deliberadamente (orientação explícita no início, depois pedidos para justificar, generalizar e desenhar tarefas) e raciocínio simulado de estudantes ao longo dos Módulos 6–10, ao lado do achado de que MC, CK e PCK se moveram juntos — ao mesmo tempo em que mediram apenas o engajamento, e não o conhecimento do professor nem a aprendizagem dos estudantes.
 - **Programas pós-qualificação.** O letramento e o uso de IA de educadores de ciências em serviço informam o desenho de programas pós-qualificação relacionados a IA.([[science-educators-ai-literacy-postqualification-2026]])
@@ -175,3 +177,4 @@ Como um modelo amplifica qualquer PCK pessoal que um professor já possui, os no
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Professores de K-12 aprendendo a ler pesquisa primária em IA e a contestar mandatos distritais
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Futuros professores como aprendizes: grupos que discordavam sobre energia fizeram da IA um centro da conversa conceitual; grupos que concordavam a trataram como consulta e ressentiram os empurrões proativos (Wang et al. 2026)
 - [[webb-pck-genai-2026]] — Por que um modelo amplifica o PCK fino de um novato, e por que o remédio é coletivo, e não um módulo de letramento em IA (Webb et al. 2026)
+- [[idea-model-doctoral-education-genai-2026]] — Doutorandos redesenham suas próprias disciplinas: 76,5% mantiveram um redesenho de disciplina, 73,5% ainda usando prática apoiada por IA no follow-up

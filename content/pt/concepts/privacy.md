@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidade
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,14 +58,21 @@ A privacidade é a pré-condição para uma IA confiável na educação. Como os
 - **A base de evidências da supervisão é fina em ética.** Uma revisão de 80 estudos descobriu que 35% não divulgaram seu conjunto de dados, 40% avaliaram um único modelo, 30% não puderam ser reproduzidos e apenas 25% abordaram questões éticas; falsos positivos — sinalizar comportamento normal — permanecem um risco central de confiabilidade ([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra (2026)]]).
 - **As interfaces de chat vazam a própria conversa.** Ao auditar 42 plataformas de chat com IA, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] encontraram 21 enviando títulos de conversa a rastreadores de terceiros, e as sete plataformas educacionais somaram em média cerca de 367 solicitações de rastreadores cada, com cinco vazando contexto.
 
+- **Competência e autoridade falham separadamente.** Um framework de Hipótese e Teoria para a proteção de dados do aprendiz nomeia duas falhas contrastantes: professores que reconhecem um problema de privacidade, mas carecem de autoridade ou de uma alternativa aprovada para agir sobre ele, e instituições que fornecem serviços salvaguardados enquanto professores divulgam informações desnecessárias ou aceitam inferências sem apoio ([[kaziya-learner-data-privacy-governance-2026|Kaziya & Lungu (2026)]]). Ele trata cada decisão de coletar, transmitir, inferir ou divulgar dados do aprendiz como a unidade de análise, com a competência demonstrada e a habilitação institucional medidas separadamente.
+
 ## Segurança infantil e proteções do K-12
 
 Os cenários de [[k-12|K-12]] exigem salvaguardas de privacidade mais fortes porque os aprendizes são menores. Isso estende a privacidade além da proteção de dados até a [[pedagogical-safety|segurança pedagógica]]: as ferramentas que as crianças usam não devem meramente proteger seus dados, mas também protegê-las do dano. A [[child-safety-genai|pesquisa em segurança infantil]] mostra que os classificadores de segurança de propósito geral frequentemente não detectam prompts não seguros relacionados à educação vindos de crianças, advertindo que as escolas não podem assumir que as salvaguardas padrão de modelo protegem os usuários mais jovens — elas precisam de avaliação específica para crianças, testes fundamentados em incidentes e [[human-in-the-loop-ai|supervisão humana]]. O enquadramento conecta a privacidade à [[equity-in-ai-education|equidade]]: quem é protegido pelas práticas padrão de segurança e privacidade reflete de quem um sistema trata a segurança e a autonomia como não negociáveis.
+
+- **Os limiares de idade são legais, não contratuais.** Um produto cujos termos dizem "13 anos ou mais" não escapa por isso ao COPPA: a regra se aplica quando um serviço é dirigido a crianças ou o provedor tem conhecimento efetivo de que um usuário tem menos de 13 anos, de modo que a triagem de idade e a minimização de dados pertencem aos termos de implantação, e não ao texto do fornecedor. Sob os Artigos 8 e 12 do GDPR, o piso comparável é geralmente 16 anos para consentimento parental verificável, com aviso adequado à idade ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
 
 ## A privacidade na prática
 
 - **Trate a privacidade como um requisito de design, não como uma reflexão política posterior.** O exemplo do [[teachlm-post-training-llms-education|TeachLM]] mostra que consentimento, anonimização e tratamento seguro de dados podem ser embutidos no próprio pipeline de dados — um modelo para originar eticamente os dados autênticos que tornam os [[intelligent-tutoring|tutores de IA]] eficazes.
 - **Projete para a minimização de dados.** Prefira abordagens que coletam apenas o que a adaptação exige (IA de borda/federada, processamento no dispositivo) em vez de acumular dados de interação por padrão. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demonstram uma forma federada concreta disso para o [[cognitive-diagnosis|diagnóstico cognitivo]]: múltiplas APIs comerciais de [[llm|LLM]] colaboram no diagnóstico enquanto acrescentam ruído de privacidade diferencial ε-local localmente à previsão de cada modelo antes da agregação, de modo que nenhum provedor vê dados brutos de estudantes — uma arquitetura que preserva a privacidade e mantém a [[intelligent-tutoring|tutoria por IA]] funcional sem centralizar trajetórias sensíveis do aprendiz. A aprendizagem federada também habilita a **análise interinstitucional sem compartilhamento de dados**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] treinam um modelo multitarefa de risco acadêmico entre instituições via agregação federada, de modo que os dados brutos do aprendiz permanecem locais e apenas parâmetros de modelo são compartilhados — uma alternativa colaborativa e preservadora de privacidade à [[learning-analytics|análise de aprendizagem]] centralizada que mantém a soberania dos dados ao mesmo tempo que captura padrões interinstitucionais.
+- **Remova a identidade em vez de gerenciá-la.** O [[intelligent-tutoring|AI Tutor Pro]] é construído de modo que os estudantes não precisam de conta e não deixam perfil: o modelo de privacidade é uma escolha de design que elimina o risco de identidade em vez de governá-lo depois do fato ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). A maioria dos conselhos de privacidade pede às instituições que auditem, minimizem e consintam; esta é a alternativa estrutural mais barata, e se aplica onde quer que uma ferramenta não precise saber quem é o aprendiz.
+- **Escolha a tenância antes da pedagogia.** Wells (2026) conduziu um piloto de assistente de pesquisa em sociologia em um Copilot licenciado pela universidade, em vez de um chatbot público, para que o trabalho dos estudantes permanecesse dentro do ambiente Microsoft 365 da instituição, e condicionou o acesso a um módulo de treinamento de cinco unidades e a um quiz de cinco itens com 80% para passar ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). O controle de privacidade e o portão de competência foram entregues como uma única decisão de implantação.
+
 - **Assegure consentimento explícito e informado.** Onde os dados do aprendiz financiam o desenvolvimento ou a melhoria da IA, as instituições deveriam ser transparentes sobre coleta, armazenamento e uso — e os estudantes deveriam ter opções reais, e não plataformas obrigatórias.
 - **Audite quem é protegido.** As salvaguardas de privacidade não deveriam recair por padrão sobre proteger apenas alguns aprendizes; a [[equity-in-ai-education|equidade]] exige que o mesmo cuidado se aplique ao longo de idade, língua, deficiência e linhas socioeconômicas.
 
@@ -94,24 +101,27 @@ A privacidade se conecta à [[learning-analytics|análise de aprendizagem]] (a c
 - [[pedagogical-safety]]
 - [[legal-issues-and-risks]]
 - [[student-experience]]
-- [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
+- [[student-support-and-success]] — registros de estudantes, compartilhamento de dados entre setores e modelagem federada de risco
 
 ## Artigos conectados
 
+- [[stefanile-middle-secondary-ai-guidance-2026]] — Pisos de idade do COPPA e do GDPR que os termos de serviço de um produto não cumprem (Stefanile, 2026)
 - [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Um centavo pelos seus prompts: vazamento contextual em plataformas de chat com IA (Bekos et al. 2026)
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analítica de aprendizagem federada e explicável para modelagem de risco acadêmico que preserva a privacidade (Villegas-Ch et al. 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — Da analítica de aprendizagem às intervenções educacionais: facilitadores de intervenções confiáveis baseadas em LA (Svetec, Divjak & Kadoić 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
+- [[agentic-literacy-debt]] — Dívida de letramento agêntico: a lacuna estrutural de letramento em IA decorrente de agentes autônomos (Nama 2026)
 - [[ai-fatigue-academic-contexts]]
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[teachlm-post-training-llms-education]] — TeachLM: anonimização e consentimento para dados autênticos de aprendizagem
+- [[bassett-ai-detectors-education-2026]] — Cara eu ganho, coroa você perde: detectores de IA na educação (Bassett et al. 2026)
+- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnóstico cognitivo federado com LLM que preserva a privacidade
+- [[agarwal-ethical-values-norms-aied-2026]] — Valores e normas éticas para a IA na educação
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — O que os sistemas de supervisão remota capturam, e a ausência da literatura de privacidade na base de evidências
+- [[edtech-privacy-deferral-2026]] — "Vamos corrigir depois": educação, IA e o adiamento da privacidade dos estudantes na edtech
+- [[kaziya-learner-data-privacy-governance-2026]] — Framework que separa a competência de privacidade de um professor da autoridade institucional para agir sobre ela
+- [[wells-genai-research-assistant-sociology-2026]] — Uma tenância institucional licenciada mais um portão de certificação como o design de privacidade
 

@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores e do olhar
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 ## Introdução
 
-A analítica de sensores e do olhar descreve uma família de métodos que convertem medições físicas de quem aprende em inferências educacionais. As medições incluem onde os olhos repousam e por quanto tempo, a atividade elétrica do couro cabeludo, respostas das glândulas sudoríparas, a variação batimento a batimento da frequência cardíaca e a posição e o movimento da cabeça e do tronco. As inferências incluem atenção, engajamento, carga cognitiva, confusão, estresse e, em contextos de avaliação, suspeita.
+A analítica de sensores e do olhar descreve uma família de métodos que convertem medições físicas de quem aprende em inferências educacionais. As medições incluem onde os olhos repousam e por quanto tempo, a atividade elétrica do couro cabeludo, respostas das glândulas sudoríparas, a variação batimento a batimento da frequência cardíaca e a posição e o movimento da cabeça e do tronco. As inferências incluem atenção, engajamento, carga cognitiva, confusão, estresse e, em contextos de avaliação, suspeita. O foco é essa camada de medição: para o programa mais amplo e suas alegações, veja [[affective-computing|computação afetiva]]; para como um tutor deve agir sobre uma inferência depois de obtê-la, veja [[affective-tutoring|tutoria afetiva]].
 
 O apelo é direto. [[self-report-measures|Autorrelatos]] são retrospectivos e grosseiros, e quizzes amostram a aprendizagem em poucos momentos. Sensores funcionam continuamente e custam pouco esforço consciente ao estudante. Essa combinação tornou o sensoriamento central para a [[learning-analytics|analítica de aprendizagem]] e a [[student-modeling|modelagem de estudantes]], e produziu uma literatura extensa em que o sensoriamento é tecnicamente impressionante e a interpretação é fina.
 
@@ -48,6 +48,8 @@ Uma [[meta-analysis-systematic-review|revisão sistemática]] de 23 estudos que 
 **Olhar e fixação.** Rastreadores oculares informam para onde o olho aponta, quanto tempo ele permanece, quando faz sacadas e quão amplamente se dispersa. Sistemas baseados em tela, como o WebGazer, estimam o olhar a partir de uma webcam, enquanto óculos rastreiam o olho diretamente. O TutorLoop converte o olhar em duas quantidades: atenção como a porcentagem de pontos de olhar dentro da área de conteúdo, e carga de trabalho como entropia do olhar, com o raciocínio de que um olhar disperso acompanha a carga cognitiva ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Ollie, um assistente informado pelo olhar para crianças, em vez disso define áreas de interesse em uma figura e dispara narração quando a criança olha para uma delas ([[gaze-informed-ai-children|Wu et al., 2026]]).
 
 **Eletroencefalografia.** O EEG registra flutuações de voltagem pelo couro cabeludo com alta resolução temporal. É o único sinal dessa família que alcança a atividade cortical diretamente, e é por isso que atrai a pesquisa em avaliação. Sistemas educacionais práticos usam eletrodos secos e poucos canais: o E3Sense usou quatro canais secos de EEG a 125 Hz e analisou dois frontais ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Equipamentos de nível de pesquisa tomam o caminho oposto: Kosmyna et al. (2025) usaram EEG de 32 canais para comparar estudantes escrevendo com um [[llm|LLM]], com um buscador ou sem ferramenta, e encontraram a conectividade neural mais fraca no grupo do LLM ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et al., 2025]]). Esse estudo é também o alerta mais claro sobre evidência de canal único, já que sua alegação central repousa em uma sessão cruzada opcional que apenas 18 dos 54 participantes frequentaram.
+
+**Hiperscanning com fNIRS.** Registrar dois estudantes ao mesmo tempo mede a sincronia entre cérebros, não um único cérebro: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] constatou que exemplares atribuídos a humanos elevaram a sincronia pré-motora e a singularidade das ideias, a atribuição à IA as reduziu, e nenhum dos ganhos comportamentais sobreviveu à retirada.
 
 **Atividade eletrodérmica.** A EDA mede a condutância das glândulas sudoríparas, um índice de ativação simpática. Ela responde a estresse, esforço e intensidade emocional, e não consegue distinguir entre eles. O mesmo constructo aparece em pulseiras e em eletrodos de testa fixados a poucos centímetros de distância por uma armação de rastreador ocular ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]).
 
@@ -83,6 +85,7 @@ Um correlato neural não é uma nota. Imagens reconstruídas a partir de EEG se 
 
 Atenção não é aprendizagem. No TutorLoop, a atenção se correlacionou com a aprendizagem em r = 0,017, enquanto a carga de trabalho se correlacionou negativamente em r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Um sistema que maximizasse o sinal de atenção teria otimizado algo próximo do ruído.
 
+Um sinal também pode inverter o construto. Em 37 [[simulation|simulações]] de enfermagem gravadas, um detector de sorrisos se correlacionou negativamente com a [[empathy|empatia]] avaliada por observadores (r = −0.322), enquanto a detecção de contato físico concordou com quatro medidas de observadores entre 0.46 e 0.54; os observadores liam um sorriso dirigido a um paciente com dor como incongruência, e o modelo lia a ação facial ([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
 
 Um sensor pode registrar copresença onde um estudo afirma interação: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] constataram que um detector baseado em pose alcançou apenas 55% de recall, capturando 11 de 20 eventos que codificadores humanos identificaram em interações [[teacher-role|professor]]–grupo de estudantes. O professor estava presente dentro do limite do grupo em 49,2% dos segmentos codificados, enquanto os estudantes olhavam para o professor em apenas 25,4%, e nenhuma característica de áudio mudou em qualquer das comparações, de modo que o pipeline registrou copresença espacial, e não interação sustentada.
 
@@ -142,6 +145,7 @@ Por fim, coleta não é integração. Kim e Han constataram que a maioria dos es
 - [[intelligent-tutoring]]
 
 ## Artigos conectados
+- [[nissan-nursing-empathy-computer-vision-2026]] — a detecção de contato físico acompanhou a empatia avaliada por observadores, a detecção de sorrisos se inverteu, contato visual e mapas de calor foram nulos (Nissan et al., 2026)
 - [[gaze-informed-ai-children]] — a narração por LLM disparada pelo olhar manteve crianças em uma região narrada por 6,48 s contra 1,67 s, mas o estudo mediu atenção, não compreensão (Wu et al., 2026)
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG de cabeça, rastreamento ocular e EDA de testa previram engajamento autorrelatado com 75,0% de acurácia dentro de um nível contra uma linha de base de 63,0% (Anupkrishnan et al., 2026)
 - [[engagement-assessment-video]] — o EduGage fundiu sete fluxos vestíveis e de câmera em estimativas de engajamento por segmento (MAE 0,81) e defende instrumentação mais leve (Leng et al., 2026)

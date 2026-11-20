@@ -1,7 +1,7 @@
 ---
 title: Competência em IA do professor
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-16T08:24:32-05:00"
+source_updated: "2026-11-18T10:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -124,6 +124,7 @@ A configuração de crenças é um segundo eixo de perfilamento: entre 40,680 pr
 - **Instrutores preferem fluência, mas atribuem aprendizagem ao andaime.** Entre 41 instrutores, uma linha de base com GPT-4o foi preferida no geral (21 vs 13), e ainda assim o modelo ajustado de três passos (identificar, explorar, desenvolver) foi mais frequentemente creditado pela aprendizagem (18 vs 13), e os dois julgamentos concordaram apenas 39% das vezes ([[teachingcoach-chatbot-instructor-guidance|Molnar et al. (2026)]]).
 - **Apoio institucional:** o [[educational-development|desenvolvimento profissional]] precisa ser pareado com infraestrutura institucional ([[educational-policy-ai|política]], [[institutional-change-framework-ai|mudança institucional]]) para uma adoção sustentável.
 - **Ferramentas de autoria não garantem fidelidade pedagógica.** [[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]] estudaram 27 professores do ensino fundamental II configurando [[conversational-ai|chatbots]] educacionais em oficinas de desenvolvimento profissional, analisando grupos focais ao lado de registros de configuração e interação. Os professores trataram o chatbot como andaime instrucional delimitado por regras definidas por eles, e ainda assim o alinhamento baseado em registros entre intenção e comportamento foi mais forte para responsividade (88.9%) e persona (81.5%) do que para regras (70.4%) e propósito (59.3%). Controles configuráveis, sozinhos, não levam a intenção pedagógica ao comportamento, de modo que expressar, testar e refinar a pedagogia de um chatbot é, em si, uma competência que a ferramenta de autoria precisa apoiar.
+- **O apoio chega à competência por meio do conhecimento, não da provisão.** Em 782 professores de 16 escolas chinesas, o apoio escolar percebido não teve caminho direto significativo para a competência percebida de ensino com IA; a associação passou por AI-TPACK, autoeficácia, resiliência e ansiedade com IA, sendo o AI-TPACK o maior canal ([[zhou-school-support-teacher-ai-competence-2026|Zhou, Xie e Chen, 2026]]).
 
 Um contraexemplo baseado em desenho trata a competência como situacional, e não como degrau de uma escada. [[adaptive-ai-model-teacher-educators-2025|O estudo baseado em desenho de Eyal (2025) com 22 formadores de professores do ensino superior]] fez os participantes examinarem cinco referenciais de avaliação publicados e codesenharem uma alternativa organizada em torno de três eixos inter-relacionados: adequação ao contexto (infraestrutura, fatores socioculturais, necessidades locais, estágio de desenvolvimento), necessidades profissionais (disciplina, pedagogia, liderança, apoio) e desenvolvimento dinâmico. O modelo rejeita níveis fixos de competência e permite progressão não linear, e vem acompanhado de um questionário de autoavaliação reflexiva de 20 itens, avaliado de 1 a 5. Sua validação é apenas [[qualitative-research|qualitativa]], sem teste [[quantitative-research|quantitativo]] de confiabilidade, de modo que ele se apresenta como contribuição de desenho, e não como instrumento validado.
 - **Estimativa meta-analítica.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] reuniram 212 tamanhos de efeito de 34 estudos e estimam o desenvolvimento profissional em letramento em IA para professores em g = 0.76 (IC 95% [0.50, 1.02]), mais forte para habilidades (g = 0.91) e mais fraco para atitudes e valores (g = 0.61); corrigindo pela aparente seleção de publicação, a estimativa cai para cerca de g = 0.49.
@@ -262,3 +263,4 @@ Chefias de departamento podem avaliar competência por demonstração. Escalas a
 - [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Adoção julgada disciplina por disciplina, com o raciocínio dos estudantes como principal preocupação
 - [[chen-future-faculty-development-ai-2027]] — Competência distribuída por uma equipe de ensino, com a capacidade técnica e ética de base mantida universalmente
 - [[ji-judgement-space-dialogic-inquiry-2027]] — Referenciais listam competências e deixam as condições do julgamento sem teoria
+- [[zhou-school-support-teacher-ai-competence-2026]] — O apoio escolar chega à competência em IA do professor apenas por meio de AI-TPACK, eficácia, resiliência e ansiedade

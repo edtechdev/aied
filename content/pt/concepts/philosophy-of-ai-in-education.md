@@ -1,14 +1,14 @@
 ---
 title: Filosofia da IA na educação
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 Esta é uma página de conceito para os fundamentos filosóficos e teóricos da [[ai-education|IA na educação]]. Enquanto as [[learning-theories|teorias da aprendizagem]] documentam as teorias empíricas e orientadas ao desenho ([[behaviorism|behaviorismo]], [[constructivist|construtivismo]], [[cognitive-offloading|carga cognitiva]], [[self-regulated-learning|aprendizagem autorregulada]], etc.), a vertente filosófica engaja as questões ontológicas, epistemológicas e éticas que essas teorias pressupõem. As duas estão intimamente conectadas: posições filosóficas moldam quais teorias da aprendizagem parecem plausíveis e quais metas educacionais valem a pena perseguir.
 
-### Questões filosóficas-chave
+## Questões filosóficas-chave
 
 - **A natureza da mente e da cognição.** Pensar exige consciência e um corpo? A IA pode participar de processos genuinamente cognitivos? Frameworks como a **cognição de conjunto** argumentam que a IA exerce *agência funcional* — eficácia causal genuína em processos cognitivos — sem consciência, e que o pensamento emerge da interação dinâmica entre humanos e [[student-ai-interaction|IA]].([[ensemble-cognition-philosophy-ai-education]]) A [[distributed-cognition|cognição distribuída]] e a tese da mente estendida fazem afirmações relacionadas sobre a cognição estar espalhada por sistemas.
 - **O que é quem aprende?** A filosofia pós-humanista reconceitua quem aprende como uma entidade \"pós-humana\", cujos processos cognitivos são genuinamente híbridos e distribuídos por sistemas [[biology-education|biológicos]] e artificiais.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Isso desafia a suposição de que quem aprende é uma mente individual, delimitada e autônoma.
@@ -49,6 +49,7 @@ Esta é uma página de conceito para os fundamentos filosóficos e teóricos da 
 - **Agência, autoria e sentido.** Quando a IA medeia a interpretação e a construção de sentido, a filosofia pergunta como autoria, [[agency|agência]] epistêmica e autonomia interpretativa são reconfiguradas.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **A ontologia dos objetos científicos gerados por IA.** Em [[chemistry-education|química]], compostos e curvas de titulação previstos por IA ocupam um \"espaço ontológico liminar\" — nem integralmente hipotéticos nem plenamente reais até que sejam empiricamente provados — o que desloca a disciplina do realismo rumo a uma visão construtivista em que a realidade é uma colaboração entre humanos e máquinas ([[philosophy-experimentation-ai-chemistry-2026|Reyes e Regala (2026)]]).
 - **A passividade cognitiva como dano epistêmico.** Bai e Costa (2026) recorrem à explicação de Arendt do pensamento como uma atividade voltada para dentro e intransferível para argumentar que a GenAI que fornece o trabalho não apenas desloca o pensamento, mas o impede, com o campo e o habitus de Bourdieu localizando o risco nas estruturas institucionais ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- Ao lado dessa explicação, [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] reconstroem o ensaio como uma forma de pensamento: a tentativa de Montaigne, os fragmentos de Adorno, o pensamento meditativo de Heidegger — seu valor está no pensamento que a escrita produz, e não no produto que ela entrega.
 - **Valores, justiça e o propósito da educação.** A análise filosófica examina se a educação movida pela IA serve ao florescimento humano e à justiça educacional, ou se ela instrumentaliza a aprendizagem a serviço da produtividade.([[avraamidou-ai-colonization-science-education]]) Isso se conecta à [[critical-pedagogy|pedagogia crítica]] e à [[ethics|ética]].
 - **'Centrado no humano' como discurso antropocêntrico, e não como ética neutra.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang e Jin (2026)]] leem documentos da UNESCO, da OCDE e da Declaração de Montréal para argumentar que a IAED centrada no humano herda as exclusões do humanismo iluminista, que o transumanismo as preserva, e que o rótulo pode legitimar infraestrutura comercial.
 
@@ -59,23 +60,13 @@ Esta é uma página de conceito para os fundamentos filosóficos e teóricos da 
 - **Agência sem responsabilização.** Uma análise de discurso assistida por corpus de 366 resumos do ensino superior sobre GenAI conclui que a [[generative-ai|IA]] é nomeada 2.050 vezes e entra em 447 associações estritas ator–predicado — o ator mais frequente do campo — mas os predicados de ação as dominam (78,7%) e nenhuma frase torna um sistema responsável: de 166 expressões de obrigação, nenhuma atribuiu responsabilidade a um sistema, e a única oração que liga a IA à accountability diz que a IA não é responsabilizável. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] lê isso como agência funcional reconhecida na linguagem sem a responsabilidade relacional que a vincularia a alguém.
 **Nem ferramenta nem colaborador: o agente mediacional.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate e Ritchie (2026)]] argumentam que chamar a IA generativa de mera ferramenta subestima sua influência interacional, ao mesmo tempo que chamá-la de colaborador lhe concede erroneamente intencionalidade e accountability, e propõem o *agente mediacional* — um sistema responsivo e não responsabilizável, cuja novidade é a participação, e não a inteligência.
 
-### Relação com as teorias da aprendizagem
+## Relação com as teorias da aprendizagem
 
 A filosofia da IA na educação e as [[learning-theories|teorias da aprendizagem]] são lentes complementares. As teorias da aprendizagem explicam os mecanismos da aprendizagem (por exemplo, como [[feedback|feedback]], [[scaffolding|andaimento]] ou carga cognitiva moldam os resultados); a filosofia interroga os pressupostos desses mecanismos — o que conta como conhecimento, quem conta como conhecedor e o que quem aprende fundamentalmente é. O trabalho filosófico pós-humanista e crítico, em particular, desafia o campo a ir além de frameworks instrumentalistas como o [[tpack|TPACK]] e o SAM, rumo a uma reorientação ontológica mais profunda.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Relação com o desenvolvimento de teoria
+## Relação com o desenvolvimento de teoria
 
 A filosofia da IA na educação e o [[theory-development-aied|desenvolvimento de teoria na IAED]] são complementares, mas distintos. A filosofia faz as questões ontológicas e epistemológicas — o que mente, conhecimento e quem aprende fundamentalmente são sob condições mediadas pela IA — enquanto o desenvolvimento de teoria produz e testa empiricamente os *mecanismos* que operacionalizam respostas a essas questões (generativismo, coagência epistêmica, a linha de base cognitiva ausente). Os dois se informam mutuamente: a filosofia esclarece os pressupostos que as teorias carregam (por exemplo, a [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|coagência epistêmica]] presume um modelo de cognição distribuído e não individualista), enquanto o desenvolvimento de teoria dá forma testável e falseável às posições filosóficas. Os artigos mais fundacionais do campo fazem ambos ao mesmo tempo, ficando na fronteira entre os dois conceitos.
-
-## Ideias equivocadas comuns
-
-**"A filosofia da IA na educação é o mesmo que catalogar teorias da aprendizagem."** Elas estão em profundidades diferentes. A página de [[learning-theories|teorias da aprendizagem]] pergunta *como a aprendizagem acontece*; a filosofia pergunta *o que a aprendizagem, a mente e quem aprende fundamentalmente são* sob condições mediadas pela IA. Um estudo pode resolver uma questão de teoria da aprendizagem e deixar a filosófica intocada, e é por isso que uma intervenção tecnicamente bem-sucedida ainda pode ser a coisa errada a fazer.
-
-**"O deslocamento cognitivo é o dano, e é reversível com mais esforço."** Há uma afirmação mais forte disponível. Bai e Costa (2026) recorrem à explicação de Arendt do pensamento como atividade voltada para dentro e intransferível para argumentar que a GenAI que *fornece* o trabalho não apenas desloca o pensamento, mas o impede — e localizam o risco institucionalmente, pelo campo e pelo habitus de Bourdieu, e não na força de vontade individual. Se o argumento se sustenta, "use com cuidado" não é um remédio suficiente, porque a prática é moldada pelo campo que recompensa o produto.
-
-**"A filosofia não ocidental é conteúdo a acrescentar a um quadro inalterado."** Ela pode ser fonte de fundamentos diferentes. Uma reconstrução trata conceitos daoistas — "natureza do Dao" (道性), autocultivo (修道) e o "Zhenren" (真人) — não como "conteúdo oriental" anexado a um framework ocidental, mas como recursos que ressignificam os fundamentos conceituais pelos quais a IA na educação é compreendida. Acrescentar uma tradição como ilustração e usá-la para reenquadrar as perguntas são atos acadêmicos diferentes.
-
-**"A crítica filosófica é inacionável."** Ela define o que conta como sucesso. Se o produto de um sistema é uma conquista de quem aprende, e se um ganho medido é um bem educacional, são perguntas prévias que nenhum tamanho de efeito responde — e instituições que as pulam otimizarão o mensurável e chamarão isso de melhoria.
 
 ## Implicações para a prática
 
@@ -95,6 +86,16 @@ A filosofia da IA na educação e o [[theory-development-aied|desenvolvimento de
 
 - Declare a concepção de aprendizagem que sua avaliação pressupõe, porque um ganho medido só é um bem educacional em relação a alguma concepção do que a educação serve.
 - Financie o trabalho filosófico ao lado do trabalho empírico: perguntas sobre o que conta como conquista de quem aprende definem os critérios de sucesso que os estudos empíricos então usam.
+
+## Ideias equivocadas comuns
+
+**"A filosofia da IA na educação é o mesmo que catalogar teorias da aprendizagem."** Elas estão em profundidades diferentes. A página de [[learning-theories|teorias da aprendizagem]] pergunta *como a aprendizagem acontece*; a filosofia pergunta *o que a aprendizagem, a mente e quem aprende fundamentalmente são* sob condições mediadas pela IA. Um estudo pode resolver uma questão de teoria da aprendizagem e deixar a filosófica intocada, e é por isso que uma intervenção tecnicamente bem-sucedida ainda pode ser a coisa errada a fazer.
+
+**"O deslocamento cognitivo é o dano, e é reversível com mais esforço."** Há uma afirmação mais forte disponível. Bai e Costa (2026) recorrem à explicação de Arendt do pensamento como atividade voltada para dentro e intransferível para argumentar que a GenAI que *fornece* o trabalho não apenas desloca o pensamento, mas o impede — e localizam o risco institucionalmente, pelo campo e pelo habitus de Bourdieu, e não na força de vontade individual. Se o argumento se sustenta, "use com cuidado" não é um remédio suficiente, porque a prática é moldada pelo campo que recompensa o produto.
+
+**"A filosofia não ocidental é conteúdo a acrescentar a um quadro inalterado."** Ela pode ser fonte de fundamentos diferentes. Uma reconstrução trata conceitos daoistas — "natureza do Dao" (道性), autocultivo (修道) e o "Zhenren" (真人) — não como "conteúdo oriental" anexado a um framework ocidental, mas como recursos que ressignificam os fundamentos conceituais pelos quais a IA na educação é compreendida. Acrescentar uma tradição como ilustração e usá-la para reenquadrar as perguntas são atos acadêmicos diferentes.
+
+**"A crítica filosófica é inacionável."** Ela define o que conta como sucesso. Se o produto de um sistema é uma conquista de quem aprende, e se um ganho medido é um bem educacional, são perguntas prévias que nenhum tamanho de efeito responde — e instituições que as pulam otimizarão o mensurável e chamarão isso de melhoria.
 
 ## Conceitos conectados
 

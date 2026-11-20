@@ -1,7 +1,7 @@
 ---
 title: Pedagogias e Estratégias de Ensino
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,8 @@ A [[research-methods-aied|pesquisa]] da base de conhecimento examina a pedagogia
 - **A pedagogia determina o efeito da IA.** Um achado recorrente é que *como* a IA é usada importa tanto quanto *se* ela é usada. A [[instructional-guidance-genai-learning|pesquisa de orientação instrucional]] e os [[generative-ai-guardrails-harm-learning|RCTs de tutores com guardrails]] mostram que a mesma IA pode prejudicar ou ajudar dependendo do invólucro pedagógico (dicas vs. respostas, uso estruturado vs. aberto).
 - **O conhecimento pedagógico supera o conhecimento técnico.** Ao longo de 46 professores e 2.832 estudantes, o conhecimento pedagógico de IA dos professores previu as percepções dos estudantes sobre a IA para o bem social e sua intenção de aprender IA, enquanto o conhecimento técnico por si só foi insuficiente — e nenhum dos dois previu o conhecimento de IA dos estudantes ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **Descarregar trabalho administrativo é onde a IA contribui mais claramente.** Uma revisão PRISMA de 28 estudos descobriu que a IA mais frequentemente melhorou o planejamento instrucional e o [[assessment|design da avaliação]], com seu benefício mais relatado sendo a automação da correção, do feedback e do monitoramento de progresso (18 estudos, 64,2%) — enquanto o alinhamento pedagógico foi o desafio mais citado (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
-**Automação e aprendizagem fazem um trade-off direto.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] passam seis princípios pedagógicos — ativação de [[prior-knowledge|conhecimento prévio]], [[collaborative-learning|aprendizagem colaborativa]], [[problem-based-learning|aprendizagem baseada em problemas]], [[project-based-learning|aprendizagem baseada em projetos]], [[formative-assessment|avaliação formativa]], [[scaffolding|suporte]], [[metacognition|metacognição]] — pelo que a iniciativa agentiva proativa faz a cada um, argumentando que quanto mais um agente automatiza, menos trabalho cognitivo o aprendiz faz, a menos que atrito, esmaecimento dinâmico e [[human-in-the-loop-ai|supervisão humana]] sejam projetados para dentro.
+- Um RCT em cluster com 108 escolas delimita essa afirmação: o Aila cortou o tempo de planejamento em 0,81 horas por semana com 7% de cobertura das aulas, com o uso declinando ao longo de dez semanas e nenhum desfecho de aluno medido ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]]).
+**Automação e aprendizagem fazem um trade-off direto.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] passam seis princípios pedagógicos — ativação de [[prior-knowledge|conhecimento prévio]], [[collaborative-learning|aprendizagem colaborativa]], [[problem-based-learning|aprendizagem baseada em problemas]], [[formative-assessment|avaliação formativa]], [[scaffolding|suporte]], [[metacognition|metacognição]] — pelo que a iniciativa agentiva proativa faz a cada um, argumentando que quanto mais um agente automatiza, menos trabalho cognitivo o aprendiz faz, a menos que atrito, esmaecimento dinâmico e [[human-in-the-loop-ai|supervisão humana]] sejam projetados para dentro.
 
 - **A reflexão é uma pedagogia que a IA tanto possibilita quanto ameaça.** Prompts estruturados, diários e comentários de [[eportfolio|portfólio]] são o mecanismo pelo qual a experiência se torna aprendizagem, e a página [[reflection|reflexão]] carrega a evidência. Um experimento pré-registrado descobriu que prompts que dobraram o tempo no feedback e cortaram o volume de prática em 40% sem elevar o ganho por problema. Uma auditoria codificada de um parceiro de reflexão por IA descobriu que ele quebrou todas as instruções comportamentais sem deixar rastro visível. Desenhe o prompt em torno de uma tentativa concluída, e exija o rastro em vez da entrada polida.
 
@@ -89,6 +90,8 @@ Estratégias pedagógicas diferentes produzem tipos e tamanhos diferentes de [[l
 
 O achado transversal-chave, consistente com a pesquisa de [[learning-gains|ganhos de aprendizagem]] da base de conhecimento, é que **o efeito de uma estratégia sobre a aprendizagem depende mais de como ela preserva o esforço do aprendiz e a luta produtiva do que do rótulo que carrega** — qualquer pedagogia, mesmo uma "boa", fracassa se a IA está configurada para driblar o trabalho cognitivo que ela deveria elicitar (veja [[cognitive-offloading|descarga cognitiva]], [[desirable-difficulties|dificuldades desejáveis]]).
 
+Um tutor projetado a partir das mesmas sete práticas baseadas em pesquisa da aula presencial superou essa aula: no curso introdutório de física de Harvard, os ganhos de aprendizagem medianos de 194 estudantes foram mais que o dobro dos da turma de aprendizagem ativa, em menos tempo, com os autores creditando o feedback personalizado sob demanda e o avanço no próprio ritmo ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin (2025)]]).
+
 A interação estudante–[[student-ai-interaction|IA]] é melhor lida como um processo cambiante de distribuição cognitiva do que como dependência fixa: ao longo de 53 conversas com o ChatGPT de um curso transdisciplinar de [[engineering-education|engenharia]], a extensão (copensamento estreito e iterativo) foi o tipo de interação mais frequente, com 53,3% dos 321 códigos em nível de prompt, à frente da terceirização, com 29,6% ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane e Arikan (2026)]]).
 
 Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-methods-research|métodos mistos]] de quatro estudos (N = 912) descobriu que enquadrar a GenAI como parceira pedagógica ativou tanto vigilância crítica quanto descarga estratégica, com a descarga acima de um limiar liberando capacidade para reflexão de ordem superior em vez de corroê-la ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang e Zhang (2026)]]).
@@ -108,8 +111,8 @@ Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-metho
 
 ## Conceitos conectados
 
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[online-teaching-and-learning]] — Online Teaching and Learning
+- [[pedagogical-partnerships]] — Parcerias pedagógicas
+- [[online-teaching-and-learning]] — Ensino e aprendizagem online
 - [[learning-theories]]
 - [[learning-sciences]]
 - [[learning-gains]]
@@ -117,7 +120,7 @@ Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-metho
 - [[metaphors-and-analogies]] — Metáfora e analogia como técnica de ensino
 - [[active-learning]]
 - [[collaborative-learning]]
-- project-based-learning
+- [[project-based-learning]]
 - [[case-based-learning]] — Método de caso e casos contrastantes como técnicas de ensino
 - [[experiential-learning]]
 - [[game-based-learning]]
@@ -134,20 +137,20 @@ Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-metho
 - [[curriculum-design]]
 - [[higher-ed]]
 - [[k-12]]
-- [[llm-training-and-fine-tuning]] — AI tools trained to follow pedagogical principles
+- [[llm-training-and-fine-tuning]] — Ferramentas de IA treinadas para seguir princípios pedagógicos
 
 ## Artigos conectados
 
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
+- [[genai-didactic-pedagogical-mediator-2026]] — GenAI como mediadora didático-pedagógica: modelo triádico instrutor–estudante–GenAI (Moganadas et al. 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogia primeiro, tecnologia depois' — o TPAIK supera o TAIK técnico nos resultados dos estudantes (Shen et al. 2026)
+- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Parcerias pedagógicas com IA generativa
 - [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
-- [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
-- [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
-- [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
-- [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
+- [[instructional-guidance-genai-learning]] — Como a orientação instrucional molda os efeitos de aprendizagem da GenAI
+- [[generative-ai-guardrails-harm-learning]] — A tutoria com salvaguardas (dica, não resposta) elimina a penalidade no exame
+- [[agentic-ai-pedagogical-best-practice-2026]] — A tensão entre automação e aprendizagem na IA agêntica
+- [[jeon-isd-agent-bench-2026]] — Fundamentando agentes na teoria do design instrucional
+- [[ai-learning-tools-engineering-education-needs]] — Ferramentas de aprendizagem com IA na educação em engenharia
+- [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizando princípios de aprendizagem com IA
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — IA e a prática do design instrucional: uma revisão sistemática (Kibar & Ilgaz 2026)
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Abordagens instrucionais em intervenções de letramento em IA
 - [[cognitive-distribution-student-genai-interaction-2026]] — Interação estudante–IA como distribuição cognitiva cambiante, não dependência fixa (53,3% de extensão)

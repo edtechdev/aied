@@ -8,9 +8,9 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:54:41-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ Um segundo eixo pergunta o que acontece com os próprios dados. A geração de d
 Os resultados positivos mais claros dizem respeito a ferramentas construídas para um curso específico e uma linguagem específica. Um [[intelligent-tutoring|tutor de IA]] criado especificamente, envolvendo uma API hospedada e com prompt de sistema para orientar em vez de responder, foi implantado em um curso semestral de programação em R para graduandos de psicologia: 76% a 84% dos estudantes o usaram em semanas relevantes para a prova, eles [[self-report-measures|autorrelataram]] gastar 53% do seu tempo de ferramentas de estudo com ele contra 8% para ferramentas de [[generative-ai|IA generativa]] não validadas, o uso caiu para 50% a 58% quando o conteúdo semanal deixou de contar para a prova, e voltou a 64% na semana anterior ao [[oral-assessment|exame oral]]. Uma adoção que acompanha o calendário de avaliação tão de perto é um lembrete de que a absorção de uma ferramenta é um fenômeno de comportamento de estudo, e não apenas um sinal de qualidade.
 
 A qualidade do andaimento importa independentemente do acesso. Uma comparação experimental entre acesso guiado e acesso irrestrito a [[llm]] constatou que o treinamento explícito em andaimento voltado ao raciocínio — dicas passo a passo, verificação — produziu melhor desempenho independente e melhor calibração de [[self-assessment]] do que a confiança acrítica, o que localiza o trabalho educacional na interação estruturada, e não no modelo. O eixo de acessibilidade faz um movimento semelhante com o artefato: um pipeline em JavaScript de aproximadamente 1.500 linhas deriva parâmetros de desenho tátil a partir das dimensões da placa, oferece cinco construtores modulares de gráficos e produz STL pronto para impressão em menos de 250 milissegundos, com rotulagem em [[assistive-technology|braille]] e em inglês em uma única passagem. Opcionalmente, usa um modelo [[multimodal]] para extrair especificações de gráfico de uma imagem enviada, com revisão obrigatória do [[teacher-role|professor]] antes da impressão. A geração está pareada com uma verificação humana nos dois desenhos.
+
+- **O feedback de IA em quatro fases moveu o pensamento crítico.** Em uma disciplina de análise de dados da graduação, um ciclo estruturado de elicitação, investigação, reenquadramento e consolidação produziu uma vantagem ajustada de 5,64 pontos sobre os comentários do instrutor, com a dedução formal inalterada ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
 ## O que a evidência ainda não estabelece
 

@@ -100,12 +100,12 @@ A DBR é o método característico das [[learning-sciences|ciências da aprendiz
 
 ## Artigos conectados
 
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR for an AI-Assisted Collaborative Learning Model
-- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR for AI-literacy training in teacher education
-- [[crompton-faculty-technology-integration-standards-2026]] — DBR for faculty technology-integration standards
-- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six DBR studies implementing AIDA at the Open University
-- [[critical-thinking-genai-scaffolding]] — DBR for GenAI critical-thinking scaffolding
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR for a science-integrated AI literacy curriculum (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[ai-assisted-collaborative-learning-model-dbr]] — Pesquisa baseada em design para um modelo de aprendizagem colaborativa assistida por IA
+- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR para a formação em letramento em IA na formação de professores
+- [[crompton-faculty-technology-integration-standards-2026]] — DBR para padrões de integração tecnológica para docentes
+- [[human-centered-ai-teacher-educators-2026]] — IA centrada no humano para formadores de professores (DBR)
+- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Seis estudos de DBR implementando o AIDA na Open University
+- [[critical-thinking-genai-scaffolding]] — DBR para o suporte ao pensamento crítico com GenAI
+- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR para um currículo de letramento em IA integrado à ciência (Moore et al. 2026)
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): currículo de letramento em IA centrado na brincadeira para pré-escola e jardim de infância (Lee 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs como agentes de desenho pedagógico iterativo

@@ -1,7 +1,7 @@
 ---
 title: Educação matemática
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introdução
 
-A educação matemática tornou-se um domínio primário da [[ai-education|pesquisa em IA na educação]] porque problemas de matemática têm respostas claramente certas, mas exigem raciocínio rico — tornando-os ideais para estudar a eficácia da tutoria, a validade da avaliação e como as ferramentas de IA interagem com a cognição e o afeto dos estudantes. Os artigos desta base de conhecimento revelam tanto a promessa dos tutores de matemática por IA quanto desafios persistentes: [[scaffolding|scaffolding]] excessivo que mina a luta produtiva, alucinação no diagnóstico cognitivo e a dificuldade de equilibrar assistência da IA com aprendizagem genuína.
+A educação matemática tornou-se um domínio primário da [[ai-education|pesquisa em IA na educação]] porque problemas de matemática têm respostas claramente certas, mas exigem raciocínio rico — tornando-os ideais para estudar a eficácia da tutoria, a validade da avaliação e como as ferramentas de IA interagem com a cognição e o afeto dos estudantes. Os artigos desta base de conhecimento revelam tanto a promessa dos tutores de matemática por IA quanto desafios persistentes: scaffolding excessivo que mina a luta produtiva, alucinação no diagnóstico cognitivo e a dificuldade de equilibrar assistência da IA com aprendizagem genuína.
 
 ### Temas-chave de pesquisa
 
@@ -118,7 +118,7 @@ A educação matemática se situa dentro do domínio mais amplo de [[stem-educat
 
 - [[stem-education]]
 - [[intelligent-tutoring]]
-- scaffolding
+- [[scaffolding]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[k-12]]

@@ -1,7 +1,7 @@
 ---
 title: Robôs na educação
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T11:45:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ A robótica educacional é uma aplicação distinta, mas intimamente relacionada
 
 A evidência é mais rarefeita do que o volume de trabalho sugere: uma revisão de IA e robótica na educação descobre que a maioria dos estudos empíricos envolve estudantes com menos de 13 anos por quatro semanas ou menos, concentrados em poucos países investidores iniciais, com [[learning-gains|desempenho em aprendizagem]] como resultado mais estudado e ética, equidade e política ficando atrás da implantação ([[white-wu-robotics-ai-education-2026|White e Wu (2026)]]).
 
-### Robôs sociais e interação humano–robô
+## Robôs sociais e interação humano–robô
 
 Duas vertentes moldam o lado social da robótica na educação.
 
@@ -50,7 +50,7 @@ Duas vertentes moldam o lado social da robótica na educação.
 
 **Interação humano–robô (HRI)** é o estudo interdisciplinar de como pessoas e robôs interagem, abrangendo percepção, comunicação, colaboração e as dinâmicas sociais, cognitivas e [[ethics|éticas]] dessa interação. Na educação, a HRI fundamenta como os estudantes percebem, confiam e aprendem com robôs — seja programando um robô, conversando com um robô tutor ou ensaiando cenários sociais. A [[research-methods-aied|pesquisa]] em HRI examina como a aparência, o comportamento, o contexto da tarefa e a incorporação do robô moldam a [[usability-research|experiência do usuário]], a confiança, a agência e a aprendizagem. Preocupações centrais na HRI educacional incluem preservar a [[agency|agência]] humana, construir [[trust|confiança]], apoiar a [[self-efficacy|autoeficácia]] e garantir que a interação com robôs sustente, e não minar, a autonomia e a aprendizagem social. Ela conecta a robótica a [[human-ai-collaboration]] e a [[social-emotional-learning]].
 
-### Como os robôs são usados na educação
+## Como os robôs são usados na educação
 
 [[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]] acrescentam uma tipologia de papéis em vez de uma lista de tecnologias: seus cinco tipos de robô de sala de aula derivados de workshop diferem por *função pedagógica e nível de abstração*, e não por hardware. O tipo a encena uma demonstração não interativa de padrões sociais genéricos (um teatro de emoções roteirizado seguido de discussão de dinâmicas como escalada ou mal-entendido); o tipo b é um robô interativo reativo ao toque que apoia o teatro físico participativo, a [[embodied-learning|aprendizagem incorporada]], a consciência de limites e a regulação emocional; o tipo c é um parceiro de língua falada que demonstra empatia e lembra as interações com um único aluno, criando um ambiente protegido um-a-um para autorrevelação; o tipo d é guiado externamente por um especialista escondido, como um fantoche com graus de liberdade extras, visando achatar a hierarquia social; e o tipo e é um robô não interativo que repete ações observadas recentemente na escola para que os alunos possam refletir sobre comportamento situado — o contraste com o tipo a sendo exatamente sua abstração específica ao contexto, e não generalizada. A tipologia é explícita sobre ser um espaço de desenho não validado fundamentado num único programa nacional de saúde mental, de modo que é um menu para desenhar e avaliar papéis de robô, não evidência de que qualquer um deles funciona.
 
@@ -77,11 +77,13 @@ Duas vertentes moldam o lado social da robótica na educação.
 - **O que a robótica de pensamento computacional no jardim de infância realmente faz.** Uma [[meta-analysis-systematic-review|revisão sistemática]] de 53 estudos descobriu que [[problem-based-learning|aprendizagem baseada em problemas]], contação de histórias e scaffolding foram as estratégias mais frequentemente usadas, com a maioria dos estudos não nomeando nenhum framework de pensamento computacional e usando ferramentas de avaliação ad hoc em vez de um instrumento validado como o TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou e Sapounidis (2026)]]).
 - **Planejamento por LLM em vez de conversa.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] usa um modelo de visão-linguagem para converter fotografias de Shoebox Tasks — atividades visualmente estruturadas usadas com aprendizes no [[neurodiversity|espectro autista]] — em um problema PDDL que um humanoide Nao executa ou demonstra, com a correção do plano pontuada em seis tarefas, e não em qualquer resultado de aprendizagem.
 
-### Incorporação e pedagogia
+## Incorporação e pedagogia
 
 Um tema definidor é que os robôs são eficazes quando apoiam objetivos genuínos de aprendizagem — não como exercícios técnicos isolados. Um projetor robótico de mesa empatado com o ChatGPT de laptop enquanto havia ajuda disponível (6,7 vs. 7,3/10, p = ,41), mas manteve sua nota após a retirada da ajuda (7,0 vs. 4,4/10, p = ,003), uma nota de transferência de curto prazo 60% maior — um ganho dependente da tarefa que os autores atribuem à colocação espacial conjunta em vez de à substituição geral ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). O valor de um robô depende do contexto pedagógico: ensinar pensamento computacional ([[computational-thinking]]), apoiar [[stem-education|STEAM]], construir habilidades de [[cs-education|programação]], motivar estudantes ([[motivation]], [[student-engagement|engajamento]]), ou apoiar [[social-emotional-learning]] e [[equity-in-ai-education|inclusão]]. A robótica também se conecta a [[project-based-learning]], [[game-based-learning]] e [[experiential-learning]]. Considerações-chave de desenho incluem preservar a [[agency|agência]] do estudante, construir [[trust|confiança]], apoiar a [[self-efficacy|autoeficácia]] e ancorar a aprendizagem na [[embodied-learning|interação incorporada]]. Na [[language-learning|aprendizagem de línguas]], a [[robot-assisted-language-learning-meta-analysis-2026|evidência metanalítica]] aponta para a eficácia da aprendizagem de línguas assistida por robôs incorporados.
 
 - **Caminhos para aprender robótica com IA.** [[educational-robotics-pathways-2026|Um estudo qualitativo]] de estudantes do ensino médio num currículo de robótica+IA descobriu aprendizagem por prática no mundo real, desenho e expressão criativa lúdica (lente construcionista, epistemológico-pluralista).
+
+- Lan e Chen (2026) propõem um teste para quando uma mudança de corpo é adaptação de superfície. Uma troca só é aceitável se o núcleo invariante, isto é, o objetivo, a ordem das fases, as regras de ramificação, os critérios, a persona e as proibições de tom, sobreviver a ela, e uma configuração é rejeitada quando o novo corpo acrescenta exigências sem avançar o objetivo ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ## Ideias equivocadas comuns
 
@@ -118,13 +120,13 @@ Um tema definidor é que os robôs são eficazes quando apoiam objetivos genuín
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Metanálise da aprendizagem de línguas assistida por robôs incorporados potencializada por IA
 - [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
 - [[computational-thinking-educational-robotics-secondary-2026]] — Pensamento computacional e robótica educacional
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio: ambiente de robótica em blocos com IA conversacional
+- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM: ambiente de simulação de robôs baseado em LLM
 - [[knowledge-based-design-generative-social-robots-2026]] — Desenho baseado em conhecimento para robôs sociais generativos
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: robô social generativo para o ensino superior
+- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: robô de contação de histórias digital
+- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: robô social com LLM para a sala de aula
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: dramatização mediada por robô para prevenção do bullying
 - [[task-context-trust-educational-hri-2026]] — Contexto da tarefa e confiança na HRI educacional
 - [[human-autonomy-agency-hri-review-2025]] — Autonomia e agência humanas na HRI
 - [[icub-humanoid-storytelling-llm-hri-2025]] — HRI narrativa com o iCub
@@ -132,7 +134,7 @@ Um tema definidor é que os robôs são eficazes quando apoiam objetivos genuín
 - [[social-robot-study-companions]] — Robôs sociais como companheiros de estudo
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integração robô-LLM na escrita criativa
 - [[game-based-gamified-robotics-education-review-2026]] — Educação em robótica baseada em jogos e gamificada
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: curso de robótica baseado em projetos
 - [[educational-robotics-pathways-2026]] — Caminhos para aprender robótica educacional com IA (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Pensamento computacional mediado por robôs no jardim de infância
 - [[ai-toys-child-development-2026]] — Brinquedos com IA e desenvolvimento infantil

@@ -1,14 +1,14 @@
 ---
 title: Aprendizagem Baseada em Projetos
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,13 +65,6 @@ A PBL se conecta ao [[active-learning|aprendizado ativo]], à [[experiential-lea
 
 - A aprendizagem baseada em projetos combinada à [[storytelling-in-education|narração digital]] oferece uma resposta pedagógica à [[generative-ai|IA generativa]] na educação em arte e design. Um estudo de caso embarcado de 15 semanas com 426 graduandos implementou um framework PBL-DS no qual a narração digital serviu como a metodologia primária para os estudantes traduzirem patrimônio cultural local em narrativas [[multimodal|multimodais]] emocionalmente ressonantes, cultivando as capacidades criativas que faltam à IA.
 
-## Ideias equivocadas comuns
-
-- **"O efeito da PBL é grande, então a PBL com IA é confiavelmente grande."** A única meta-análise de três níveis desse emparelhamento agrupa **22 estudos controlados (66 tamanhos de efeito)** e estima um efeito grande, **g = 0,819, IC 95% [0,655, 0,983]** — mas uma correção PET-PEESE o reduz, e a estimativa descreve os estudos agrupados, e não o desenho em geral.
-- **"Personalizar a ferramenta melhora o resultado."** O tipo de ferramenta moderou o efeito de forma significativa (**QM = 14,301, p < ,001**), e a direção é contraintuitiva: um **chatbot geral usado diretamente agrupou mais alto (g = 0,970)** do que sistemas **personalizados em plataformas de curso, pacientes virtuais ou agentes (g = 0,455)**. A ferramenta nua superou a ferramenta engenheirada, o que argumenta contra presumir que produtos feitos sob medida são a compra melhor.
-- **"Os estudantes acham a abertura o mais difícil."** Nos dados de percepção dos estudantes, **a abertura foi o tema positivo principal (22,3%)** enquanto **instruções pouco claras lideraram os negativos (23,7%)**. Os estudantes acolheram a liberdade e se opuseram à ambiguidade — uma distinção que importa porque a correção é diferente: enquadramento de tarefa mais claro, e não menos trabalho aberto.
-- **"Os estudantes que gostaram aprenderam mais."** A aprendizagem percebida se correlacionou com as notas de quiz apenas **modestamente (r = 0,161–0,315)**. Satisfação e aprendizagem medida são fracamente relacionadas aqui, de modo que uma avaliação positiva de PBL não é, por si só, evidência de que os objetivos de aprendizagem foram cumpridos.
-
 ## O que isso significa na prática
 
 **Para instrutores**
@@ -85,6 +78,13 @@ A PBL se conecta ao [[active-learning|aprendizado ativo]], à [[experiential-lea
 
 - O achado de moderação é um aviso de produto: embutir um chatbot em um ambiente sob medida coincidiu com um efeito agrupado *menor*. Valide que a personalização acrescenta valor de aprendizagem, e não conveniência presumida.
 - Se você entrega um módulo de PBL, a camada de instrução é o recurso que conquista o resultado, não o modelo.
+
+## Ideias equivocadas comuns
+
+- **"O efeito da PBL é grande, então a PBL com IA é confiavelmente grande."** A única meta-análise de três níveis desse emparelhamento agrupa **22 estudos controlados (66 tamanhos de efeito)** e estima um efeito grande, **g = 0,819, IC 95% [0,655, 0,983]** — mas uma correção PET-PEESE o reduz, e a estimativa descreve os estudos agrupados, e não o desenho em geral.
+- **"Personalizar a ferramenta melhora o resultado."** O tipo de ferramenta moderou o efeito de forma significativa (**QM = 14,301, p < ,001**), e a direção é contraintuitiva: um **chatbot geral usado diretamente agrupou mais alto (g = 0,970)** do que sistemas **personalizados em plataformas de curso, pacientes virtuais ou agentes (g = 0,455)**. A ferramenta nua superou a ferramenta engenheirada, o que argumenta contra presumir que produtos feitos sob medida são a compra melhor.
+- **"Os estudantes acham a abertura o mais difícil."** Nos dados de percepção dos estudantes, **a abertura foi o tema positivo principal (22,3%)** enquanto **instruções pouco claras lideraram os negativos (23,7%)**. Os estudantes acolheram a liberdade e se opuseram à ambiguidade — uma distinção que importa porque a correção é diferente: enquadramento de tarefa mais claro, e não menos trabalho aberto.
+- **"Os estudantes que gostaram aprenderam mais."** A aprendizagem percebida se correlacionou com as notas de quiz apenas **modestamente (r = 0,161–0,315)**. Satisfação e aprendizagem medida são fracamente relacionadas aqui, de modo que uma avaliação positiva de PBL não é, por si só, evidência de que os objetivos de aprendizagem foram cumpridos.
 
 ## Conceitos conectados
 
@@ -101,16 +101,16 @@ A PBL se conecta ao [[active-learning|aprendizado ativo]], à [[experiential-lea
 
 ## Artigos conectados
 
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Aprendizagem baseada em problemas e em projetos como frameworks promissores para a educação apoiada por IA generativa: evidências emergentes de uma revisão sistemática e meta-análise de três níveis
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
+- [[game-based-gamified-robotics-education-review-2026]] — Educação em robótica baseada em jogos e gamificada
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Formação em letramento em IA para professores
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
+- [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
+- [[educational-robotics-pathways-2026]] — Caminhos para a aprendizagem de robótica educacional com IA (2026)
+- [[tsingidou-ct-robotics-kindergarten-2026]] — A PBL é uma estratégia dominante de aprendizagem de CT
+- [[creative-project-approach-ai-early-childhood-2025]] — A Abordagem de Projeto Criativo: agentes de IA e robótica dentro do Project Approach na primeira infância (Yang, Li & Lee 2025)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in team software PBL
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: an immersive VR design studio with an embedded teaching agent, evaluated against traditional PBL (Jin et al. 2026)
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: um estúdio de design imersivo em VR com um agente de ensino embutido, avaliado em comparação com a PBL tradicional (Jin et al. 2026)

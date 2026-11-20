@@ -1,7 +1,7 @@
 ---
 title: Letramento em feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,9 @@ ai_assist:
 
 O letramento em feedback importa porque um feedback bem desenhado só ajuda estudantes que conseguem interpretá-lo e agir sobre ele. Um estudante que não consegue avaliar se um feedback gerado por IA é preciso, ou que não sabe como transformar feedback em uma revisão concreta, aprende muito menos com o mesmo feedback do que um par mais letrado em feedback. À medida que a IA ressignifica a provisão de feedback, o letramento em feedback se tornou uma condição de contorno central para que o feedback por IA melhore a aprendizagem.
 
-### O que é letramento em feedback
+[[corbin-recognition-feedback-2026|Corbin, Tai e Flenady (2026)]] colocam o reconhecimento antes do letramento: o estudante precisa conceder a quem fornece o feedback uma posição legítima para orientar, e receber uma posição legítima para responder, ou não há nada sobre o que o letramento possa operar.
+
+## O que é letramento em feedback
 
 O letramento em feedback é amplamente enquadrado como um conjunto de capacidades inter-relacionadas — a capacidade de apreciar o feedback, fazer julgamentos, gerenciar afeto e agir (segundo Carless & Boud). Os artigos da base de conhecimento agrupam o letramento em feedback em torno de várias capacidades:
 
@@ -50,7 +52,7 @@ O letramento em feedback é amplamente enquadrado como um conjunto de capacidade
 - **Agir sobre o feedback** — traduzir o feedback em revisões concretas ou mudanças de abordagem ([[feedback|Loop de Feedback]], [[self-regulated-learning|aprendizagem autorregulada]]).
 - **Julgar a autoridade avaliativa** — uma capacidade adicional proposta por [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]: além de apreciar o feedback, fazer julgamentos, gerenciar afeto e agir, estudantes que raciocinam sobre feedback produzido por IA precisavam julgar *qual fonte detém a autoridade avaliativa*, separadamente de julgar a qualidade do feedback. Como foi dito aos participantes que o ChatGPT gerava tanto a nota quanto o feedback, seu letramento em feedback foi exercido sobre a fonte e a legitimidade da avaliação, e não apenas sobre seu conteúdo, e isso produziu demandas de validação pelo instrutor, em vez de aceitação passiva.
 
-### Como o letramento em feedback aparece na pesquisa
+## Como o letramento em feedback aparece na pesquisa
 
 - **O letramento em feedback como moderador do valor do feedback por IA:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] mostram que o letramento em feedback modera a ligação entre a aceitação do ChatGPT e a [[self-regulated-learning|aprendizagem autorregulada]]: estudantes com letramento mais forte percebem maior benefício de ARS no feedback por IA, enquanto estudantes com letramento mais fraco mostram efeitos mínimos ou até negativos ([[cognitive-offloading|dependência excessiva]]). O letramento em feedback é uma condição de contorno para que os estudantes consigam \"dar sentido\" ao feedback por IA.
 
@@ -82,13 +84,13 @@ O letramento em feedback é amplamente enquadrado como um conjunto de capacidade
 
 - **O letramento em feedback pode ser ensinado, e a IA pode fornecer o material de prática.** Um guia conceitual orienta os instrutores a gerar um espectro graduado de amostras de trabalho de IA — que atendem a todos, a alguns e a nenhum dos critérios — e então conduzir os estudantes por crítica modelada, análise guiada em classe e avaliação independente ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington e Hock (2026)]]).
 
-### Por que o letramento em feedback importa para a IA na educação
+## Por que o letramento em feedback importa para a IA na educação
 
 A IA muda o feedback em duas direções que ambas elevam as apostas do letramento em feedback. Primeiro, a IA aumenta drasticamente o *volume e a imediatez* do feedback ([[ai-feedback-quality|qualidade do feedback por IA]], [[feedback|Loop de Feedback]]), de modo que os estudantes confrontam muito mais feedback que precisam triar e avaliar. Segundo, o feedback gerado por IA carrega riscos distintos — imprecisão, [[hallucination-risk|alucinação]] e a \"ilusão de domínio\" — que exigem habilidades de [[critical-thinking|avaliação crítica]] e vigilância contra a dependência excessiva e a [[llm-fallacy-misattribution|atribuição equivocada]]. O letramento em feedback se torna, portanto, um componente central do [[ai-literacy|letramento em IA]]: saber não apenas como fazer prompting de uma IA para obter feedback, mas como julgar se o feedback vale a pena ser acatado e como convertê-lo em aprendizagem genuína, em vez de conclusão de tarefa.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman e colegas (2026)]] acrescentam mais uma demanda a essa lista. No estudo de oficina deles, os estudantes não estavam gerenciando uma fonte de feedback, mas uma rede: pesavam os comentários dos educadores contra a saída da IA, as rubricas, os materiais do curso e os pares, e, quando o feedback humano era lento, continuavam trabalhando com a IA como solução provisória, revisando depois caso ela os tivesse enganado. Os autores sugerem que os estudantes podem agir como seu próprio humano-no-circuito ao gerenciar essas relações, da tarefa granular à trajetória mais ampla, o que é, ele mesmo, uma capacidade de letramento em feedback. O aviso deles é que são os comentários finos ou tardios dos educadores o que empurra os estudantes rumo a fontes não verificadas.
 
-### Conexões com conceitos relacionados
+## Conexões com conceitos relacionados
 
 O letramento em feedback se conecta à [[ai-feedback-quality|qualidade do feedback por IA]] e ao [[feedback|Loop de Feedback]] (o lado da provisão que ele complementa), à [[formative-assessment|avaliação formativa]] (o ciclo de avaliação que ele alimenta) e à [[self-regulated-learning|aprendizagem autorregulada]] (a [[self-assessment|autoavaliação]] e a adaptação que ele apoia). É um subconjunto do [[ai-literacy|letramento em IA]] quando aplicado ao feedback gerado por IA, cruza-se com a [[peer-assessment|avaliação por pares]] em contextos colaborativos e é particularmente consequente para a [[writing-education|educação em escrita]]. Também se conecta à [[metacognition|metacognição]] e à [[trust-calibration|calibração da confiança]] — a capacidade de julgar se um feedback é confiável.
 

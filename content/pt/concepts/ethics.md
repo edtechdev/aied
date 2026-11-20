@@ -1,7 +1,7 @@
 ---
 title: Ética
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-19T10:16:37-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -105,6 +105,8 @@ Esse caso prático é reforçado pelo trabalho empírico sobre como a ética fun
 
 A consciência ética, o raciocínio reflexivo e a prática responsável [[self-report-measures|autorrelatada]] se desenvolvem em grande medida de forma independente. Ao longo de três ondas anuais de 350 [[higher-ed|graduandos]] nigerianos de computação, [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] constataram que os três subiram substancialmente, mas seus fatores de crescimento eram quase não correlacionados e a consciência inicial não previu o crescimento posterior.
 
+A confiança no procedimento ético pode subir enquanto o autoconhecimento permanece onde estava. [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones e Hoover (2026)]] embutiram a GenAI em uma disciplina eletiva de ética da liderança na graduação, sequenciando o mesmo [[case-based-learning|caso]] uma vez sem auxílio e uma vez com o ChatGPT, e analisaram 38 pesquisas de confiança pareadas de cerca de 80 estudantes. Em uma escala de 0 a 10, a capacidade autoavaliada de reconhecer o dilema ético passou de 7,24 para 8,39 e a de tomar uma decisão sólida e justificável de 7,24 para 8,45, ambas com p < ,001, e o uso de teorias éticas para explicar uma decisão subiu de 5,39 para 7,08. Os dois itens introspectivos — identificar as próprias virtudes, valores e direitos (p = ,063) e explicar como valores pessoais afetam uma decisão (p = ,124) — não se moveram, o que localiza o ganho na habilidade procedimental, e não no autoconhecimento moral.
+
 ## Conexões
 
 A ética conecta-se a [[equity-in-ai-education]], [[privacy|privacidade]], [[bias-mitigation|mitigação de viés]], [[regulation|regulação]], [[pedagogical-safety|segurança pedagógica]], [[academic-integrity|integridade acadêmica]] e [[governance|governança]]. Ela é a fundação normativa de todos os outros conceitos de educação em IA — o quadro dentro do qual questões de justiça, transparência, autonomia e segurança são levantadas e resolvidas.
@@ -114,6 +116,12 @@ A ética conecta-se a [[equity-in-ai-education]], [[privacy|privacidade]], [[bia
 - **"O enquadramento de trapaça é uma forma suficiente de pensar a ética da GenAI."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] argumentam que as instituições deveriam decidir as questões de IA generativa por meio de uma **ética de parceria, e não de um enquadramento de trapaça**. O enquadramento determina quais perguntas são feitas, e um enquadramento de má conduta não consegue perguntar sobre propósito educacional.
 - **"O corpo docente e os estudantes concordam sobre o que é ético."** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç e Sever (2026)]], um estudo de [[mixed-methods-research|métodos mistos]] com **971 estudantes e 135 docentes**, constatam que as dimensões éticas divergem entre os grupos. Uma política escrita a partir de uma perspectiva descreverá erradamente a outra.
 - **"O consenso ético precede o uso."** **O uso cresce mais rápido que o consenso ético**: ao longo de quatro semestres num programa de formação de professores dos EUA, o uso de GenAI pelos estudantes **subiu de 57% para 83% na preparação para avaliações**. As normas estão sendo formadas pela prática, e não o contrário.
+
+## O ensino de ética funciona, afinal?
+
+A instrução em ética da IA é frequentemente justificada por um pressuposto que ninguém testa: o de que a [[ethics|educação em ética]] muda alguma coisa. Uma revisão sistemática e meta-análise de 2024 com 66 estudos e 9.978 estudantes é o melhor teste disponível desse pressuposto na educação em geral. As intervenções em ética elevaram os desfechos éticos e morais em g = 0,55 contra condições de controle, e 73% dos efeitos verdadeiros excederam o limiar de utilidade pré-registrado — mas **o formato de entrega carregou a moderação**: formatos baseados em discussão e de discussão mais didática funcionaram (g = 0,56 e g = 0,68), enquanto a instrução apenas expositiva não diferiu de zero (g = 0,10). A entrega online foi indistinguível da presencial.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+A transferência para a ética da IA é uma inferência, e não um achado daquele estudo, mas é uma inferência forte: um módulo de ética da IA entregue como uma aula expositiva sobre viés e integridade é, segundo essa evidência, o formato mais fraco disponível.
 
 ## Conceitos conectados
 
@@ -164,3 +172,5 @@ A ética conecta-se a [[equity-in-ai-education]], [[privacy|privacidade]], [[bia
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Quem Age, Quem Sabe, Quem Responde? Uma análise de discurso assistida por corpus de agência, responsabilidade epistêmica e responsabilização na pesquisa em ensino superior sobre IA generativa
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Consciência ética, reflexão e prática responsável relatada cresceram em grande medida de forma independente ao longo de três ondas anuais (Ayanwale et al.)
 - [[qi-information-ethics-ai-judgment-2026]] — Educação em ética da informação e julgamento ético sobre IA entre estudantes universitários
+- [[pal-ethically-aware-learning-ai-classroom-2026]] — Aprendizagem eticamente consciente em uma sala de aula habilitada por IA
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — O ensino de ética funciona (g = 0,55), mas a entrega baseada em discussão funciona e a entrega apenas expositiva não

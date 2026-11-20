@@ -1,7 +1,7 @@
 ---
 title: Pensamento computacional
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introdução
 
-### O PC em uma sala de aula da era da IA
+## O PC em uma sala de aula da era da IA
 
 Os artigos conectados desta base de conhecimento convergem para uma afirmação central: o pensamento computacional (PC) é o alicerce conceitual de que os estudantes precisam para se engajar criticamente com a IA, e é também a habilidade mais diretamente aprofundada por uma aprendizagem bem desenhada apoiada por IA. Abaixo, a evidência está agrupada em quatro temas fundamentados nos artigos vinculados.
 
@@ -50,9 +50,14 @@ Os artigos conectados desta base de conhecimento convergem para uma afirmação 
 Competências duráveis se deslocam quando a implementação é automatizada: um relatório de oficina nomeia a abstração, o pensamento computacional e um "espectro de verificação" como as habilidades a ensinar, citando um ensaio com quase 1.000 estudantes em que o acesso irrestrito ao GPT-4 elevou o desempenho em exercícios em 48%, mas reduziu as notas de exame em 17% assim que a IA foi retirada ([[reshaping-cs-education-genai|Lee et al. (2026)]]).
 
 - **O PC no K-12, na formação de professores e no redesenho da avaliação.** O PC abrange todo o espectro do [[k-12|K-12]] ao [[higher-ed|ensino superior]] e está remodelando a avaliação. Na ponta da primeira infância, o AI-Play estende o PC e o letramento em IA a estudantes da pré-escola ao 2º ano e a famílias não técnicas; na ponta universitária, o [[genai-oop-programming-assessments-2026|estudo de avaliação em POO]] constatou que os sistemas de GenAI de 2026 superam o estudante médio em exames autênticos de programação, mas ainda falham em interfaces, classes abstratas e herança — lacunas conceituais recorrentes que marcam exatamente onde o PC continua difícil de automatizar. O [[solving-vs-evaluating-genai-solutions|estudo randomizado A/B crossover]] mostrou que as tarefas de avaliação e crítica produzem resultados comparáveis aos de geração, sugerindo que o PC pode ser exercitado por meio do julgamento de soluções defeituosas de IA, embora os ganhos exijam andaimento deliberado. Sustentando tudo isso está o professor: o estudo do micro:bit liga a instrução em PC diretamente à [[teacher-education|formação de professores]], e a [[hashmi-socratic-physics-chatbot-2025|pesquisa sobre chatbots socráticos]] liga a formulação precisa de problemas que o PC exige ao desempenho mensurável no curso.
-- **Um instrumento validado localiza onde o PC é mais difícil.** Um teste de pensamento computacional de 34 itens construído com Desenho Centrado em Evidências e validado pela teoria de resposta ao item ao longo de 461 estudantes de programação com IA concentrou a dificuldade em representação de dados, sequenciamento de operadores lógicos e estruturas de laço, em vez de distribui-la uniformemente pelo programa ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
 
-### O PC e a passagem de consumidores de IA a produtores, criadores e designers
+- **Um instrumento validado localiza onde o PC é mais difícil.** Um teste de pensamento computacional de 34 itens construído com Desenho Centrado em Evidências e validado pela teoria de resposta ao item ao longo de 461 estudantes de programação com IA concentrou a dificuldade em representação de dados, sequenciamento de operadores lógicos e estruturas de laço, em vez de distribui-la uniformemente pelo programa ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
+- A escolha da medida muda o veredito: as entradas sobre pensamento computacional e pensamento crítico alcançaram conclusões discordantes ou mistas em 13 de 23 pares do mesmo construto, de modo que um questionário de autorrelato de PC e uma medida baseada em tarefas frequentemente discordam ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+- O pensamento computacional também é medido como uma disposição: em um estudo de três semanas com jogos no 5º ano, as tendências de PC autorrelatadas ajustadas favoreceram a turma com GenAI, 4.325 contra 4.037 (p = .046, eta-quadrado parcial = .052, n = 78). Um teste de conhecimento algorítmico não as separou (80.7 vs 74.9), de modo que as medidas de tendência e de conhecimento rastrearam construtos diferentes ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
+
+Perfis de sub-habilidades complicam a nota única de PC que um desenho pré-pós relata. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij e Khlaisang (2026)]] acompanharam 28 graduandos tailandeses de fora da computação por oito semanas de sessões de três horas que combinavam um ciclo de cinco etapas de [[design-thinking|design thinking]] com a construção de aplicativos low-code, pontuando o trabalho de projeto em uma rubrica de três pontos. O pensamento computacional médio subiu de 1.13 na primeira sessão para 1.80 e depois 2.49, com o pensamento algorítmico como a vertente mais forte, em 2.08, e uma trajetória de 1.46 a 1.93 a 2.86. O pensamento lógico teve média de 1.54 e mal se moveu entre as duas primeiras sessões, de 1.04 a 1.29, antes de alcançar 2.29 na terceira — um lembrete de que ganhos em um componente não implicam que os outros o acompanharam.
+
+## O PC e a passagem de consumidores de IA a produtores, criadores e designers
 
 Um objetivo central do PC na era da IA é levar estudantes e instrutores para além do *consumo passivo* das saídas de IA, rumo a *criar, construir e desenhar* com e para a IA — uma agenda que alinha o PC à aprendizagem construcionista (aprender fazendo). Os artigos conectados desta base de conhecimento tornam cada vez mais explícita essa virada para produtor/criador/designer. A [[ai-writes-code-student-writes-model-2026|pesquisa sobre autoria de modelos]] reformula a aprendizagem por construção com GenAI como um processo mensurável de "autoria de modelos" — os estudantes produzem, depuram e iteram sobre modelos de IA, em vez de apenas consumir código ou respostas gerados por IA. O [[code-to-learn-genai-artifact-construction-2026|framework CtL-GenAI]] operacionaliza isso como [[constructivist|construcionismo]] para a era da GenAI, tratando os artefatos que os estudantes constroem com IA como o motor do desenvolvimento do PC. O [[computational-thinking-ai-agent-creation|PC por meio da criação de agentes de IA]] mostra que desenhar, e não meramente usar, agentes de IA exercita diretamente a decomposição, a abstração e o raciocínio algorítmico.
 
@@ -62,11 +67,11 @@ A consequência prática é que a instrução em PC deveria ser desenhada para q
 
 Reutilizar modelos de outras pessoas pertence à postura de produtor: implementar um modelo de IA publicado — selecioná-lo, instalá-lo, executá-lo e validá-lo — pode ser ensinado como uma habilidade estruturada e aprendível, com uma rota alternativa para cada falha antecipada, e três estudantes de graduação em [[chemistry-education|química]], sem formação em programação, reproduziram e estenderam um modelo de previsão de interação enzima-substrato em quatro meses ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Orientação prática
+## Orientação prática
 
 Para educadores, a mensagem consistente é que o PC se desenvolve por meio do engajamento *explícito, sustentado por andaimento e observável*, e não pelo uso passivo da IA. Combine a robótica com um mapeamento explícito dos conceitos de PC ao currículo; use os LLMs para [[simulation|simulação]], controle por linguagem natural e avaliação escalável do crescimento em PC, reservando o julgamento humano para construtos como Pensamento de Sistemas; e redesenhe as avaliações para enfatizar a avaliação e o diagnóstico das saídas de IA em vez da geração bruta. Qualquer que seja o contexto — brincadeira desplugada na primeira infância, robôs no [[stem-education|STEM]] do ensino médio, ou Tutores Virtuais no [[higher-ed|ensino superior]] — estruture a atividade para que os estudantes tenham de raciocinar sobre decomposição, padrão, abstração e algoritmo, em vez de receber soluções prontas.
 
-### Conexões com conceitos relacionados
+## Conexões com conceitos relacionados
 
 O pensamento computacional é a fundação cognitiva compartilhada sob o [[ai-literacy|letramento em IA]] e o [[critical-thinking|pensamento crítico]], o núcleo curricular da [[cs-education|educação em computação]] e da computação no [[k-12|K-12]], e o alvo conceitual que a [[educational-robotics|robótica educacional]], a [[game-based-learning|aprendizagem baseada em jogos]] e a [[project-based-learning|aprendizagem baseada em projetos]] são melhor desenhadas para servir. Ele é aprofundado pelos [[llm|grandes modelos de linguagem]] e pela [[generative-ai|IA generativa]] quando estes são usados como ferramentas de andaimento, e é a habilidade que as taxonomias de ideias equivocadas dos estudantes e as avaliações conscientes de PC visam medir. Os professores o desenvolvem por meio da [[teacher-education|formação de professores]] e da [[professional-training|formação profissional]], e ele se transfere entre domínios, incluindo [[physics-education|física]] e o [[stem-education|STEM]] em sentido amplo.
 
@@ -129,3 +134,5 @@ O pensamento computacional é a fundação cognitiva compartilhada sob o [[ai-li
 - [[astor-computational-thinking-meta-review-2026]] — Metarrevisão de PC de 128 revisões sistemáticas
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Revisão sistemática de PC por robótica na educação infantil
 - [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: um fluxo de trabalho reproduzível para que cientistas não programadores implementem modelos de IA publicados
+
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: a plataforma digital de design thinking e aprendizagem para aprimorar o pensamento computacional e o letramento digital

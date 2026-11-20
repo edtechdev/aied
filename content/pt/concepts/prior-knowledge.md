@@ -1,14 +1,14 @@
 ---
 title: "Conhecimento prévio"
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ A IA generativa tornou o conhecimento prévio uma consideração central de desi
 - **Priming e ativação como design.** As [[genai-mindtool-generative-learning|abordagens de ferramenta mental com IA generativa]] deliberadamente "preparam a tarefa de aprendizagem" ativando conhecimento prévio e curiosidade por meio de perguntas, visuais gerados por IA e analogias (por exemplo, "O que você já sabe sobre ecossistemas?") antes de introduzir conteúdo novo — modelando o caminho de recuperação e integração em vez do caminho de fornecimento de resposta.
 - **Modelagem de estudantes e memória.** Sistemas de IA modelam crescentemente o estado de conhecimento prévio e a memória longitudinal de quem aprende (por exemplo, incorporando estado de conhecimento prévio e curvas de esquecimento à memória de tutoria), habilitando repetição espaçada e revisão adaptativa que se apoiam no que cada quem aprende já sabe.([[nie-personavlm-long-term-personalization-2026]])
 - **Uma alavanca de adaptação personalizada.** Como quem aprende difere amplamente em conhecimento prévio, a adaptação precisa ser ajustada ao indivíduo — um argumento central pela [[personalized-learning|aprendizagem personalizada]] e pelo [[scaffolding|andaime]] adaptativo que encontra quem aprende em seu estado atual real, em vez de em uma presunção de média de turma.
+- **O conhecimento prévio foi a única característica de quem aprende que moderou o apoio adaptativo.** Quem já conhecia o conteúdo ganhou mais (g = 0,74, IC 95% [0,42, 1,05]) do que quem não conhecia (g = 0,63 [0,46, 0,80]), e ambos se beneficiaram, o que se ajusta à adaptividade retirando ajuda redundante, e não a uma reversão da expertise ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Implicações para projetar IA na educação
 

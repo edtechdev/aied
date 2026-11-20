@@ -1,7 +1,7 @@
 ---
 title: Métodos de pesquisa em AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-08T12:22:14-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ Um **estudo de eficácia** testa se uma intervenção produz seu efeito de apren
 - **Limitações:** custoso e lento; condições artificiais podem reduzir a validade ecológica; ferramentas de IA em rápida mudança fazem experimentos longos datarem rapidamente; amostras pequenas frequentemente têm poder insuficiente para detectar efeitos significativos; restrições [[ethics|éticas]] de reter ferramentas potencialmente úteis.
 - **Exemplares:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **A pré-registro se aplica a análises secundárias, e não apenas a ensaios.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] executou quatro regras de atualização de [[knowledge-tracing|rastreamento de conhecimento]] sobre registros idênticos do ASSISTments (12.716 estudantes, 985.813 eventos pontuados) que diferiam apenas em como pontuavam as linhas com dica, manteve a metade confirmatória selada até existir um arquivo com a URL do registro, e relatou que todas as quatro previsões pré-registradas se sustentaram. Creditar qualquer conclusão previu o desempenho posterior sem ajuda pouco acima de uma constante de dificuldade de habilidade (AUC agrupada 0,604 contra 0,595), ao mesmo tempo que declarou 93,9% dos pares estudante–habilidade como dominados, contra 72,8% sob uma regra estrita. Quando um único registro sustenta várias conclusões, é fixar a análise de antemão o que torna a comparação confiável.
+- **Codifique a exclusão de IA explicitamente.** Um pós-teste sem IA conta como exclusão verificada apenas quando a restrição está documentada e a conformidade é verificada; um teste supervisionado ou em papel, por si só, não se qualifica ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### Estudos de pesquisa e de modelagem por equações estruturais
 
@@ -107,6 +108,8 @@ As revisões sintetizam a base de evidência, em vez de conduzir um novo experim
 
 - **Forças:** síntese eficiente de uma literatura grande e fragmentada; a meta-análise produz estimativas de efeito agrupadas e detecta moderadores; essencial para prática baseada em evidência e para identificar lacunas.
 - **Limitações:** dependem da qualidade dos estudos incluídos (entra lixo, sai lixo); viés de publicação; métodos e medidas de resultado heterogêneos tornam a síntese difícil; envelhecem rapidamente dado o ritmo da mudança em IA.
+- 
+Os rankings de relevância do Google Scholar são dinâmicos, de modo que uma busca PRISMA que o inclui não pode ser plenamente reproduzida apenas a partir da consulta ([[ai-mathematics-education-prisma-review-2026|Omirzakova e Tileubay (2026)]]).
 - **Ressalva de metapesquisa (2026):** críticas à base de síntese da AIED mostram que muitas meta-análises iniciais são minadas por incoerência de construto, heterogeneidade não resolvida, dependência não tratada entre tamanhos de efeito e avaliação inválida do viés de publicação —, inflando os tamanhos de efeito principais da IA (veja [[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]] e [[weidlich-chatgpt-effect-search-cause-2025]]). Trate os tamanhos de efeito agrupados da AIED como limites superiores.
 - **Exemplares:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
@@ -125,7 +128,7 @@ A avaliação computacional avalia os [[ai-technologies|sistemas de IA]] diretam
 
 ### Outros desenhos: longitudinais, de caso e de simulação
 
-Além das grandes famílias, a base de conhecimento usa desenhos **longitudinais** que acompanham quem aprende ao longo do tempo ([[ai-lms-middle-school-longitudinal|um estudo longitudinal de LMS]]), estudos **de caso e no ambiente natural** de uso autêntico ([[ai-in-the-wild-college|análise em larga escala de interações reais de estudantes]]), e estudos de **[[simulation|simulação]]** nos quais LLMs substituem estudantes ou pacientes ([[llm-student-simulation-teacher-insights|LLMs como aprendizes simulados]], ). Esses trocam amplitude ou controle por realismo e pelo acesso a fenômenos que, de outro modo, são difíceis de observar.
+Além das grandes famílias, os pesquisadores também usam desenhos **[[longitudinal-research|longitudinais]]** que acompanham quem aprende ao longo do tempo ([[ai-lms-middle-school-longitudinal|um estudo longitudinal de LMS]]), estudos **de caso e no ambiente natural** de uso autêntico ([[ai-in-the-wild-college|análise em larga escala de interações reais de estudantes]]), e estudos de **simulação** nos quais LLMs substituem estudantes ou pacientes ([[llm-student-simulation-teacher-insights|LLMs como aprendizes simulados]], [[simulation|simulação]]). Esses trocam amplitude ou controle por realismo e pelo acesso a fenômenos que, de outro modo, são difíceis de observar.
 
 ### Métodos de consenso de especialistas: a técnica Delphi
 
@@ -205,6 +208,7 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 
 ## Conceitos conectados
 
+- [[longitudinal-research]]
 - [[interpreting-and-applying-aied-research]]
 - [[ai-ed-evaluation]]
 - [[rct]]
@@ -250,7 +254,7 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 - [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT na educação: um efeito em busca de uma causa
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Metameta-análise do efeito da IA na aprendizagem
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: auditoria de meta-análise defeituosa da AIED
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam passar: uma verificação estrutural de dados educacionais sintéticos
 
 - [[porcaro-ai-grading-benchmark-2026]] — Além da concordância: sondas cuja resposta certa é conhecida, verificações de efeito plantado em avaliadores simulados e 22 modelos com prompt (Porcaro 2026)
 

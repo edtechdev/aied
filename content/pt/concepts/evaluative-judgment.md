@@ -1,7 +1,7 @@
 ---
 title: "Juízo avaliativo"
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-18T10:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,7 @@ Quatro argumentos convergem.
 Uma camada adicional diz respeito à *fonte* de um julgamento, não apenas ao seu conteúdo. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] dá a essa camada um vocabulário mais afiado: seus 13 estudantes sauditas de computação emitiram dois julgamentos independentes dentro de um único evento avaliativo — se o feedback era útil, e se sua fonte detinha autoridade para dar nota. Todos aceitaram o feedback baseado em rubrica do ChatGPT como claro e específico, ao mesmo tempo que reservavam esmagadoramente a nota para o instrutor ("Eu concordo com ele, mas com uma condição, que o professor revise o feedback"), sugerindo que o juízo avaliativo na avaliação mediada por IA precisa agora incluir raciocinar sobre a própria autoridade avaliativa, e não apenas sobre a qualidade do feedback recebido.
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] dá ao construto sua colocação mais forte na literatura de integridade. Estendendo o enquadramento pós-plágio de Eaton (2023) de uma orientação [[ethics|ética]] para o design de avaliação, ele argumenta que modelos de [[academic-integrity|integridade]] baseados em detecção e verificação estão desalinhados com trabalhos em que julgamento humano e geração por máquina estão entrelaçados. Ele ressignifica a integridade como prática pedagógica exercida por meio do juízo avaliativo — a capacidade de quem aprende de ponderar opções, justificar escolhas acadêmicas e assumir responsabilidade sob incerteza epistêmica. Suas quatro práticas (trilhas de decisão anotadas, verificação e responsabilização, [[oral-assessment|defesa oral]] e responsabilização dialógica, diferenças entre rascunhos com histórico de versões) tornam esse julgamento visível como evidência, em vez de inferi-lo do artefato. Ele separa o julgamento dos construtos com os quais ele costuma ser confundido: a [[reflection|prática reflexiva]] considera o próprio pensamento retrospectivamente, a [[metacognition|metacognição]] é a consciência e a regulação de processos cognitivos, enquanto o julgamento avalia opções contra padrões e aceita consequências sob incerteza. Ele também nomeia o modo de falha que esta página acompanha — exigir raciocínio documentado arrisca "substituir um regime de conformidade por outro", já que o julgamento como evidência "permanece relacional e situado, e não mecanicamente verificável".
+- **O juízo que presta contas acrescenta a mediação cultural ao construto.** Yan (2026) estende o juízo avaliativo para a avaliação de línguas e de tradução mediada por IA: os estudantes precisam justificar decisões linguísticas, comunicativas, de mediação cultural e éticas, porque um texto-alvo fluente pode esconder problemas não resolvidos de registro e de cultura ([[yan-accountable-judgement-language-assessment-2026|Yan, 2026]]).
 
 ## Evidência: como o julgamento se desenvolve, e o que a IA faz com ele
 
@@ -90,6 +91,7 @@ A literatura [[collaborative-learning|colaborativa]] e de avaliação da base de
 - **Proxies em nível de sala de aula para o julgamento estão sendo propostas.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] acrescenta dois sinais comportamentais a uma sequência redesenha de tarefas: a *Taxa de Discernimento* UnBlooms™, a fração das saídas de IA que quem aprende interroga, desafia ou revisa em vez de aceitar, e a *Taxa de Aceitação na Primeira Passada*. Nenhuma das duas está validada — ambas são oferecidas como diagnósticos baratos por tarefa —, mas elas tornam o construto observável dentro da correção ordinária, onde uma taxa de discernimento próxima de zero ao longo de várias tarefas lê-se como sinal de design de tarefa em vez de déficit individual.
 - **O julgamento se registra quando está ligado à revisão, não apenas presente.** Em 67 professores em formação desenhando planos de aula com GenAI, a avaliação explícita era quase ausente no grupo de menor qualidade (0,67 vs 0,00); o que separou a qualidade foi um ciclo bidirecional de avaliação–revisão (CE→RE Z = 2,80, RE→CE Z = 2,50) e um auto-laço de revisão (RE→RE Z = 4,24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **Os critérios dos instrutores podem ser externalizados revisando a saída da IA.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] inferiram regras de validação reutilizáveis a partir das edições de 16 instrutores sobre feedback de programação gerado por LLM e elevaram o alinhamento com sua intenção pedagógica de 57% para 91%, tornando critérios tácitos inspecionáveis em vez de deixá-los implícitos.
+- **O laço, não a lista de verificação.** O juízo avaliativo com IA opera recursivamente: avaliar contra critérios ocupacionais, aceitar, revisar ou rejeitar e enviar um novo prompt, depois verificar e justificar, retornando à avaliação enquanto o artefato estiver inadequado ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng e Tang (2026)]]).
 
 ## Como o uso indevido desloca o julgamento
 
@@ -167,3 +169,4 @@ O deslocamento tem uma versão do lado do professor, e foi ela que levou vários
 - [[valiassist-programming-feedback-validation-by-demonstration-2026]] — As revisões dos instrutores se tornaram critérios de validação reutilizáveis (Tang et al. 2026)
 - [[judgment-centred-software-engineering-education-2026]] — Uma revisão e um framework pós-hype para educação em engenharia de software aumentada por IA
 - [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Patterning removido da tarefa, e o julgamento que fica emprestado
+- [[yan-accountable-judgement-language-assessment-2026]] — Juízo que presta contas na avaliação de línguas e tradução, com a mediação cultural como dimensão pontuada

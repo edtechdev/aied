@@ -1,7 +1,7 @@
 ---
 title: Avaliação orientada ao processo
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -10,7 +10,7 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback, code-viva]
+connected_resources: [process-feedback, code-viva, vfwa]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -26,7 +26,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 ---
 
@@ -52,6 +52,12 @@ A ideia passou de uma proposição para uma recomendação recorrente na base de
 
 O vocabulário de desenho mais explícito vem de Thapa e Lewis, cujos quatro compromissos carregam o argumento para o desenho de tarefas: justificativa reflexiva, desenho de tarefa em etapas, engajamento dialógico e transparência avaliativa. Na prática, os estudantes explicam decisões interpretativas, em vez de apenas apresentar conclusões, entregam trabalho que se desenvolve por pontos de verificação, participam de trocas [[oral-assessment|orais ou dialógicas]] sobre seu raciocínio, e trabalham contra critérios que podem aplicar a si mesmos — o terreno do [[feedback-literacy|letramento em feedback]] e da [[self-assessment|autoavaliação]]. A proposta de Boysen (2026) de práticas abertas de aprendizagem traduz a mesma lógica em uma trilha de auditoria: um plano de aprendizagem compartilhado definido antes de o projeto começar, um plano de análise da aprendizagem que nomeia fontes exigidas e proibidas, e rascunhos e históricos de versão documentados, preservados pelo Controle de Alterações e pelas versões salvas dos arquivos, que expõem o processo de trabalho e explicam o que informou cada revisão. Ele enquadra isso como [[self-regulated-learning|autorregulação]] tornada visível.
 
+O redesenho de Alam e Jackson coloca os mesmos compromissos em um módulo. Vinte e três aprendizes de primeiro ano da graduação em Análise de Negócios na Queen Mary University of London trabalharam em 11 equipes autosselecionadas em uma redação de 1.500 palavras extraída de três títulos pré-definidos. Pelo menos duas etapas documentadas de desenvolvimento eram exigidas, e iteração e colaboração foram inscritas nos critérios de correção, em vez de meramente recomendadas. A GenAI era permitida dentro de limites que o enunciado fixava: nenhum texto gerado entregue, nenhuma função de reescrita em ferramentas de gramática, nenhuma lista de referências formatada por IA. Os autores apresentam isso como insight baseado na prática de uma primeira execução, não como um efeito medido ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
+Ahmed e Shehata levam a mesma lógica para um framework: a avaliação programática integrada à IA emparelha duas tarefas sobre o mesmo construto na mesma dificuldade, uma sem IA e outra com ela, e lê a lacuna entre elas, junto com a evidência de orquestração, como um sinal de desenvolvimento, e não como um indício de trapaça ([[ahmed-ai-programmatic-assessment-cognitive-development-2026|Ahmed & Shehata (2026)]]).
+
+Francis, Rutherford e Smith transformam o mesmo compromisso em uma estrutura pontuável: o PACE pontua cinco domínios de processo em uma escala de agência de quatro níveis que vai da deferência à crítica, e mantém processo e produto como resultados separados, de modo que um artefato polido construído sobre dependência acrítica não pode pontuar como competente ([[francis-pace-framework-genai-assessment-2026|Francis et al. (2026)]]).
+
+Uma segunda resposta estrutural vem de Webb-Davies, Ratner e Bassett, cuja Voice-First Written Assessment assegura uma linha de base autenticada e interpreta tudo o que vem depois contra essa linha de base. A Etapa 1 é observada, não pontuada e aberta em modalidade; a Etapa 2 é escrita em casa com [[generative-ai|IA]] irrestrita e pontuada por como o estudante desenvolveu o raciocínio anterior. Os autores chamam a ambição de mínima: um ponto de verificação mais uma arguição oral condicional, em vez de um portfólio de artefatos de processo ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
 O canal escolhido para a evidência de processo muda o que pode ser evidenciado: no mesmo estudo de 79 estudantes com IA generativa, o monitoramento e o planejamento de maior profundidade eram mais comuns nas unidades de pensamento em voz alta, enquanto a regulação de maior profundidade era mais comum nos registros de interação, então nenhum registro único captura todo o processo ([[metacognitive-processes-genai-interaction-logs-2026|Li e Liu (2026)]]). Os rastros também podem divergir das notas abertamente: ao longo de 150 conversas estudante–IA, 41% carregavam uma nota de tarefa de exatamente 1,00, enquanto a participação cognitiva observável variava, então notas iguais podem esconder processos diferentes ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026)]]). O DraftTrace responde ao mesmo problema para a escrita integrada à IA ao alinhar medidas de processo no nível do toque do teclado com o produto final e com os rastros de interação com a IA, mostrando que a digitação por cópia só é identificável quando produto e processo são lidos juntos ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), uma instância concreta da mensuração de rastros comportamentais que o campo ainda não tem.
 
@@ -65,13 +71,15 @@ As entregas de pontos de verificação foram rotina na prática: ao longo de sei
 
 **Um rastro de processo só é feedback se quem aprende o lê contra a tarefa.** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] deram a onze estudantes de tradução [[visualization|visualizações]] do Inputlog e de gravação de tela mais uma única sessão de reflexão de 30 minutos. A parcela de revisões de nível de significado subiu de 18,1% para 28,4% (t(10) = 4,259, p = 0,002), enquanto o total de revisões não mudou significativamente, caindo de 1.292,91 para 1.052,36 (p = 0,248). O rastro não fez os estudantes editar mais, apenas de forma diferente, o que é o argumento para a evidência de processo em um único resultado.
 
+A declaração mais clara desse risco vem de Winstone, Gravett e Elkington, que argumentam que a avaliação de processo sem o erro valorizado ao lado dela \"arrisca se tornar performática, encorajando os estudantes a apresentar um produto polido acompanhado de um relato retrospectivamente curado de seu desenvolvimento\". A resposta deles é tornar erros e mudanças de direção creditáveis por si mesmos, de modo que a evidência de processo seja um rastro de decisões que carregaram custo, e não uma história contada depois ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
+
 ## Um eixo diferente do da autenticidade, e do da correção
 
 Manter os eixos separados importa, porque confundi-los é como um redesenho parece feito enquanto a exposição permanece. Sharma (2026) faz a distinção complementar entre autenticidade e desenho orientado à integridade: a autenticidade pergunta se uma tarefa espelha prática digna, enquanto o desenho orientado à integridade pergunta se quem aprende consegue justificar suas decisões e assumir responsabilidade em relação aos padrões disciplinares, razão pela qual as práticas que ele oferece — trilhas de decisão anotadas, verificação de afirmações contribuídas pela GenAI, defesa oral, diferenças entre rascunhos com histórico de versão — são selecionadas pelo [[evaluative-judgment|julgamento]] que tornam visível, e não por seu realismo. A revisão de dez anos de [[business-education|educação em negócios]] de Espino e Espino (2026) chega à mesma conclusão de desenho pelo lado da literatura, concluindo que o campo converge para tarefas autênticas e visíveis no processo, que exigem interpretação, aplicação contextual e refinamento iterativo, e tratando a adoção isolada de ferramentas dentro de estruturas de avaliação inalteradas como sua falha mais persistente.
 
 A Matriz Desaparecimento–Visibilidade de Salameh (2026) cruza a mesma questão de desenho com uma segunda variável — se o [[scaffolding|apoio de IA persiste ou desaparece]] — e nomeia a combinação a que a maioria dos cursos recorre por padrão, apoio que nunca desaparece avaliado apenas pelo seu produto: Dependência Silenciosa ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
 
-O construto também é distinguível da questão de como a evidência é pontuada. O raciocínio de [[assessment-validity|validade]] é onde os dois se encontram: Brunnström e Palmqvist (2026) argumentam que, quando um [[conversational-ai|chatbot]] consegue produzir uma resposta de exame plausível, o produto entregue se torna um indicador mais fraco do que o estudante aprendeu — um problema de validade da avaliação, e não apenas um problema de [[academic-integrity|integridade]]. Essa é a mesma inferência em risco no argumento de [[genai-performance-vs-learning|desempenho versus aprendizagem]] de Yan, Greiff, Lodge e Gašević, em que [[learning-gains|ganhos de desempenho]] que encolhem quando a assistência é retirada mostram um ganho que vive na ferramenta, e não em quem aprende, e em que o remédio proposto são medidas de processo, como testes de [[transfer-of-learning|retenção e transferência]], em vez do sucesso imediato na tarefa.
+O construto também é distinguível da questão de como a evidência é pontuada. O raciocínio de [[assessment-validity|validade]] é onde os dois se encontram: Brunnström e Palmqvist (2026) argumentam que, quando um [[conversational-ai|chatbot]] consegue produzir uma resposta de exame plausível, o produto entregue se torna um indicador mais fraco do que o estudante aprendeu — um problema de validade da avaliação, e não apenas um problema de [[academic-integrity|integridade]]. Essa é a mesma inferência em risco no argumento de [[genai-performance-vs-learning|desempenho versus aprendizagem]] de Yan, Greiff, Lodge e Gašević, em que [[learning-gains|ganhos de desempenho]] que encolhem quando a assistência é retirada mostram um ganho que vive na ferramenta, e não em quem aprende, e em que o remédio proposto são medidas de processo, como testes de [[transfer-of-learning|retenção e transferência]], em vez do sucesso imediato na tarefa. [[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]] pressiona o mesmo raciocínio para um framework bidimensional em que responsabilidade cognitiva e visibilidade do processo variam independentemente, e a combinação que importa aqui emparelha baixa responsabilidade com um processo totalmente visível. Um rastro de raciocínio completo que documenta aceitação acrítica da saída do modelo ainda é evidência de substituição, o que deixa a evidência de processo necessária, mas não suficiente.
 
 ## Por que a detecção não consegue carregar esse peso
 
@@ -114,6 +122,7 @@ A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de d
 - [[equity-in-ai-education]]
 
 ## Artigos conectados
+- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — Três fluxos de evidência, pares de tarefas pareadas e orquestração como metacompetência
 - [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Uma revisão narrativa crítica que argumenta que a falha padrão é o apoio de IA que nunca desaparece combinado com avaliação apenas do produto (Salameh 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — Uma redação de processo colaborativa e pontuada em uma aprendizagem de graduação de primeiro ano: iteração e colaboração na rubrica, GenAI permitida dentro de limites declarados (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — o desempenho não é aprendizagem: uma agenda de pesquisa construída sobre medidas de processo (Yan et al. 2026)
@@ -129,8 +138,12 @@ A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de d
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Evidência de processo condicional ao canal: registros e pensamento em voz alta revelam processos diferentes
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Um Ambiente de Analytics de Múltiplas Visualizações para Escrita Integrada à IA
 - [[epistemic-ownership-ai-mediated-education-2026]] — Mesmo Desempenho, Processo Diferente: Propriedade Epistêmica na Educação Mediado por IA
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: apoiando professores no diagnóstico das habilidades de resolução de problemas matemáticos dos estudantes por meio de questões geradas por LLM
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Documentação por pontos de verificação atingiu 96% de conclusão ao longo de seis semestres e cerca de 440 professores
 - [[rubrics-genai-process-based-assessment-2026]] — Três dimensões de rubrica a partir do modelo 3P de Biggs: agência e supervisão, andaimento dialógico, soberania cognitiva (Oviedo & Díaz 2026)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Um editor CodeMirror mais um painel de chat registrado transformaram uma sessão de ensaio em evidência de processo, com seu limite entre digitar e pensar (Jelson et al. 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - visualizações de processo mais uma sessão de reflexão deslocaram a revisão da superfície para o nível de significado sem aumentar o volume de edição
+- [[webb-davies-voice-first-written-assessment-2026]] — Uma avaliação escrita em duas etapas que assegura o raciocínio sob observação antes de corrigir uma submissão escrita em casa, com arguição oral condicional para vínculos pouco claros (Webb-Davies, Ratner & Bassett 2026)
+- [[black-box-assessment-winstone-2026]] — Avaliação de Caixa Preta: janelas de processo, erro como evidência e integridade pela visibilidade (Winstone, Gravett & Elkington 2026)
+- [[francis-pace-framework-genai-assessment-2026]] — PACE: pontuando o processo em uma escala de agência de quatro níveis (Francis et al., 2026)
+- [[performance-without-capability-genai-assessment-validity-2026]] — Um framework de duas dimensões (responsabilidade cognitiva, visibilidade do processo) explicando por que um processo visível ainda pode documentar substituição

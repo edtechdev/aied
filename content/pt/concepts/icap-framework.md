@@ -1,7 +1,7 @@
 ---
 title: Framework ICAP
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,8 @@ A ênfase do ICAP no engajamento generativo e de nível de processo foi adotada 
 2. **Engaje os estudantes por todos os modos.** A instrução eficaz em [[ai-literacy|letramento em IA]] engaja os estudantes em múltiplos níveis do ICAP — exposição passiva, manipulação ativa, geração construtiva e diálogo interativo — selecionando o modo que se encaixa no objetivo de aprendizagem.([[hingle-collaborative-ai-literacy-2025]])
 3. **Meça o engajamento com honestidade.** O ICAP dá a pesquisadores e desenhistas um vocabulário comum para distinguir engajamento cognitivo genuíno de mera atividade — um corretivo ao [[student-engagement|engajamento]] raso.([[icap-cognitive-engagement-llm-agents]])
 4. **Fique de olho na lacuna de anotação humano–LLM.** Se sistemas automatizados forem usados para codificar engajamento, sua defasagem sistemática em relação a humanos treinados precisa ser levada em conta.([[icap-cognitive-engagement-llm-agents]])
+
+O desenho da tarefa, e não apenas o desenho da ferramenta, define o teto. Entre 829 tópicos de discussão codificados em 40 disciplinas universitárias, os artefatos produzidos onde o diálogo foi Construtivo ou Interativo receberam avaliações de pares modestamente mais altas da qualidade final ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## Ideias equivocadas comuns
 

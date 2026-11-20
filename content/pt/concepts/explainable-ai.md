@@ -1,7 +1,7 @@
 ---
 title: IA explicável
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-08T11:51:50-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,8 @@ Duas ressalvas afiam isso ainda mais, ambas tornadas centrais pela contribuiçã
 
 **O que um modelo diz que usou depende da família tanto quanto dos dados.** Em sete modelos sobre uma mesma coorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] constataram que abordagens simbólicas se apoiavam em fatores cognitivos e [[motivation|motivacionais]], modelos subsimbólicos em aspectos cognitivos, conhecimento aprendido e gênero, e ambos em grande medida ignoravam fatores metacognitivos, enquanto o modelo neuro-simbólico usava um conjunto mais integrado. Os mesmos estudantes e os mesmos indicadores produziram relatos diferentes do que importava, de modo que o alinhamento com a [[learning-theories|teoria da aprendizagem]] se torna uma afirmação sobre atribuições, e não sobre acurácia.
 
+As métricas usadas para certificar a qualidade da explicação não medem o ajuste. Em um estudo pré-registrado com 166 participantes comparando três métodos de saliência (LIME, Grad-CAM, Guided Backpropagation), as avaliações de satisfação e de confiança foram constantes entre as condições, uma medida de tarefa favoreceu o Grad-CAM, e as métricas matemáticas de fidelidade favoreceram o Guided Backpropagation — três famílias de evidência apontando para três métodos diferentes ([[kares-xai-evaluation-alignment-2027|Kares et al., 2027]]). Algumas relações métrica–desempenho correram na direção oposta àquela que as métricas deveriam certificar. Uma pontuação de fidelidade é evidência sobre o modelo, não sobre se um usuário consegue agir a partir da explicação.
+
 ## Ensinar explicabilidade como prática de responsabilização
 
 Se a qualidade da explicação decide se a XAI é útil, então produzir explicações tem de ser ensinado como um hábito profissional, e não apenas demonstrado como uma capacidade. [[lund-socially-accountable-data-science-xai-2026|Lund e colegas (2026)]] propõem fazer isso ao longo de quatro pilares — **responsividade** (a obrigação de dar razões aos afetados), **responsabilidade** (o dano antecipado ao longo do ciclo de vida, e não defendido depois do fato), **aplicação** (consequências dentro do curso) e **reflexividade** (exame documentado dos próprios pressupostos) — cada um com suas atribuições e seu custo em sala de aula.
@@ -128,6 +130,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[recommender-systems-and-learning-paths]]
 
 ## Artigos conectados
+- [[kares-xai-evaluation-alignment-2027]] — 166 participantes, três métodos de saliência: satisfação e confiança constantes, desempenho na tarefa e métricas de fidelidade em desacordo (Kares et al., 2027)
 - [[lund-socially-accountable-data-science-xai-2026]] — Um framework de quatro pilares (responsividade, responsabilidade, aplicação, reflexividade) para ensinar XAI como prática de responsabilização (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Desenho sensível a valores de um ITS centrado no estudante (explicações colaborativas versus brutas)
 - [[xai-education-framework]] — XAI-ED: o framework fundador da IA explicável na educação (Khosravi et al. 2022)

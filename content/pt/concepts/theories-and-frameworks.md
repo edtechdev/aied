@@ -1,7 +1,7 @@
 ---
 title: "Teorias e frameworks"
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,7 @@ Estas explicam mecanismos: elas nomeiam as partes que fazem o trabalho e prevêe
 
 - **[[tpack|TPACK]]** — o conhecimento docente que mescla tecnologia, pedagogia e conteúdo; o framework padrão para estudos de IA voltados a professores.
 - **[[technology-acceptance-model|Modelos de adoção]]** — a intenção como função da utilidade percebida e da facilidade de uso. Usados amplamente o bastante para que a dependência do campo da intenção em vez do comportamento seja uma crítica permanente.
+- **Modelo de confirmação de expectativas (ECM)** — a satisfação como confirmação das expectativas prévias, com a continuidade, e não a adoção inicial, como resultado. Em um piloto de um semestre em métodos de sociologia com 24 graduandos, 87% avaliaram o Copilot como bom ou excelente e 91% o recomendariam, mas apenas 57% pretendiam continuar usando-o ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). A lacuna é o ponto do modelo: um usuário satisfeito ainda pode recusar-se a voltar, de modo que satisfação e continuidade precisam de medidas separadas.
 - **[[icap-framework|ICAP]]** — classifica o engajamento como passivo, ativo, construtivo, interativo; útil para perguntar que modo uma [[student-ai-interaction|interação com IA]] de fato permite.
 - **[[samr-model|SAMR]]** — da substituição à redefinição. Popular como história de maturidade, fraco como instrumento de medição.
 - **[[universal-design-for-learning|Design universal para a aprendizagem]]**, **[[inclusive-learning|aprendizagem inclusiva]]** e **[[accessibility|acessibilidade]]** — quadros de design para quem é atendido, e os mais frequentemente invocados em trabalho sobre deficiência e [[equity-in-ai-education|equidade]].
@@ -160,3 +161,5 @@ O alinhamento entre mecanismo e teoria pode, no entanto, ser decisivo: uma sínt
 - [[yan-agentivism-learning-theory-ai-2026]] — uma teoria da aprendizagem de alcance médio para a interação humano-IA
 - [[ai-literacy-instrument-development-systematic-review-2026]] — desenvolvimento de instrumentos em um construto jovem
 - [[mishra-control-vs-agency-history-2025]] — a tensão fundacional do campo entre controle e agência
+
+- [[wells-genai-research-assistant-sociology-2026]] — Explorando o papel da IA generativa como assistente de pesquisa em métodos de pesquisa na graduação em sociologia

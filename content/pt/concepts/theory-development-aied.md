@@ -1,7 +1,7 @@
 ---
 title: Desenvolvimento de Teoria na IA na Educação
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ Outros trabalhos estendem a teoria existente ao contexto da IA, em vez de fundar
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin e Chang (2026)]] estendem a [[self-regulated-learning|aprendizagem autorregulada]] e a regulação humano–IA nomeando o que o aprendiz governa — padrões, [[evaluative-judgment|juízos avaliativos]] e autorização de controle —, em vez de apenas o que a IA faz.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai e Flenady (2026)]] importam o reconhecimento de Honneth e de Brandom para a teoria do feedback, argumentando que a atribuição mútua de posição legítima, e não a qualidade da informação, é o que faz de um comentário uma razão para agir.
+
 O paradoxo do atrito oferece outra extensão de teoria estabelecida: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] aplica as [[desirable-difficulties|dificuldades desejáveis]] de Bjork e Bjork e a [[productive-failure|falha produtiva]] de Kapur a encontros relacionais na educação no exterior, argumentando que o que importa é quanta agência interpretativa um estudante [[transfer-of-learning|transfere]] para um assistente generativo, e não com que frequência ele é usado. O framework é conceitual e enuncia cinco proposições como hipóteses concorrentes.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri e Biagini (2026)]] avançam a taxonomia funcional do campo de Zawacki-Richter et al. (2019): entre as 154 publicações com uma função de aplicação classificável, 90 (58,4%) escaparam às suas quatro categorias, e o framework deles cruza função com controle delegado, posição epistêmica e pedagogia embutida.
@@ -95,14 +97,6 @@ O teorizar do campo é desigual. As [[limitations-in-aied-research|Limitações 
 
 O desenvolvimento de teoria e a [[philosophy-of-ai-in-education|filosofia da IA na educação]] são vertentes complementares, mas distintas, do trabalho fundacional da base de conhecimento. O **desenvolvimento de teoria** produz e testa empiricamente os *mecanismos* da aprendizagem-com-IA — teorias e frameworks nomeados, como o generativismo, a coagência epistêmica e a linha de base cognitiva ausente, que explicam e predizem como aprendizes e IA interagem. A **filosofia** interroga as *pressuposições* sobre as quais esses mecanismos repousam: o que conta como conhecimento, quem conta como conhecedor e o que o aprendiz fundamentalmente é. Uma teoria como a [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|coagência epistêmica]] propõe um mecanismo ao mesmo tempo que adota implicitamente compromissos filosóficos sobre cognição distribuída e [[agency|agência]]; a filosofia torna esses compromissos explícitos e contestáveis. Onde o desenvolvimento de teoria pergunta se um framework explica bem a aprendizagem, a filosofia pergunta se ele captura o que a aprendizagem e a mente realmente são — as duas vertentes se encontram nos artigos mais fundacionais do campo, que frequentemente fazem as duas coisas ao mesmo tempo.
 
-## Ideias equivocadas comuns
-
-**"Um achado de que a ferramenta funcionou é uma contribuição teórica."** Não é, e a razão é estrutural. Onde as proposições de um framework predizem *diferenças entre configurações*, um estudo que relata apenas um efeito médio **não consegue confirmá-las nem refutá-las** — o desenho não consegue ver a distinção sobre a qual a teoria trata. Um ensaio mostrando um ganho médio diz que algo aconteceu, e não qual mecanismo o causou, de modo que a teoria permanece exatamente tão apoiada quanto antes.
-
-**"Aplicar uma teoria estabelecida à IA é desenvolvimento de teoria."** O próprio problema de uso de teoria desta página diz o contrário: aplicação não é avanço, e o padrão recorrente do campo é o uso de construtos emprestados como vocabulário, e não como predições testáveis. A distinção importa porque um quadro emprestado que não consegue gerar uma diferença falsificável é decoração, e não teoria.
-
-**"As taxonomias existentes da função pedagógica da IA já cobrem o que esses sistemas fazem."** Elas não cobrem grande parte. Entre 154 publicações com uma função de aplicação classificável, **90 (58,4%) escaparam às quatro categorias** do framework anterior, e é por isso que o trabalho mais recente cruza função com controle delegado, posição epistêmica e pedagogia embutida. Uma taxonomia que classifica mal quase três em cada cinco casos não pode servir como vocabulário comum do campo, e a lacuna é um achado sobre o fenômeno, e não uma lacuna em um artigo.
-
 ## Implicações para a prática
 
 **Para instrutores e designers instrucionais**
@@ -120,6 +114,14 @@ O desenvolvimento de teoria e a [[philosophy-of-ai-in-education|filosofia da IA 
 
 - Desenhe contrastes de configuração se você pretende uma contribuição teórica. Um ensaio de efeito médio publicado como desenvolvimento de teoria é o produto mais comum e menos útil do campo.
 - Anexe proposições falsificáveis explícitas a qualquer framework que você introduzir, e relate quais diferenças de configuração as teriam refutado.
+
+## Ideias equivocadas comuns
+
+**"Um achado de que a ferramenta funcionou é uma contribuição teórica."** Não é, e a razão é estrutural. Onde as proposições de um framework predizem *diferenças entre configurações*, um estudo que relata apenas um efeito médio **não consegue confirmá-las nem refutá-las** — o desenho não consegue ver a distinção sobre a qual a teoria trata. Um ensaio mostrando um ganho médio diz que algo aconteceu, e não qual mecanismo o causou, de modo que a teoria permanece exatamente tão apoiada quanto antes.
+
+**"Aplicar uma teoria estabelecida à IA é desenvolvimento de teoria."** O próprio problema de uso de teoria desta página diz o contrário: aplicação não é avanço, e o padrão recorrente do campo é o uso de construtos emprestados como vocabulário, e não como predições testáveis. A distinção importa porque um quadro emprestado que não consegue gerar uma diferença falsificável é decoração, e não teoria.
+
+**"As taxonomias existentes da função pedagógica da IA já cobrem o que esses sistemas fazem."** Elas não cobrem grande parte. Entre 154 publicações com uma função de aplicação classificável, **90 (58,4%) escaparam às quatro categorias** do framework anterior, e é por isso que o trabalho mais recente cruza função com controle delegado, posição epistêmica e pedagogia embutida. Uma taxonomia que classifica mal quase três em cada cinco casos não pode servir como vocabulário comum do campo, e a lacuna é um achado sobre o fenômeno, e não uma lacuna em um artigo.
 
 ## Conceitos conectados
 
@@ -140,32 +142,32 @@ O desenvolvimento de teoria e a [[philosophy-of-ai-in-education|filosofia da IA 
 ## Artigos conectados
 
 - [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Estendendo a taxonomia funcional: 90 de 154 publicações classificáveis (58,4%) ficam fora das quatro categorias originais (Ranieri e Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
+- [[yan-agentivism-learning-theory-ai-2026]] — Uma teoria da aprendizagem de alcance médio para a interação humano-IA, com quatro mecanismos e seis proposições testáveis (Yan and Gašević 2026)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Supergeneralização enganosa: o domínio adaptativo pode encerrar a prática antes de quem aprende saber quando se abster de uma ação (An, McLaren & Stamper 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativism as a new learning theory
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Toward a theory of epistemic co-agency
-- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and the productive-reliance/harmful-dependence boundary (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and expertise regeneration
-- [[genai-performance-vs-learning]] — Performance vs. learning
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemic AI Literacy (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Credential and cognitive stewardship
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulation
-- [[epistemic-proactivity-math]] — Epistemic proactivity in mathematics
-- [[strydom-human-gai-paradigms-2026]] — Seven human-GAI engagement paradigms grounded in epistemological beliefs
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
+- [[generativism-learning-theory]] — O generativismo como uma nova teoria da aprendizagem
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Rumo a uma teoria da coagência epistêmica
+- [[du-yuan-epistemic-dependence-2026]] — Agência epistêmica relacional e a fronteira dependência-produtiva/dependência-prejudicial (Du & Yuan 2026)
+- [[absent-cognitive-baseline-2026]] — A linha de base cognitiva ausente (ACB)
+- [[cognitive-commons-ai-expertise-regeneration]] — Comuns cognitivos e regeneração da expertise
+- [[genai-performance-vs-learning]] — Desempenho vs. aprendizagem
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Letramento Epistêmico em IA (EAIL)
+- [[credential-cognitive-stewardship-ai-assessment]] — Mordomia cognitiva e de credenciais
+- [[ai-cognitive-partner-co-regulation-learning]] — IA como parceira cognitiva na corregulação
+- [[epistemic-proactivity-math]] — Proatividade epistêmica na matemática
+- [[strydom-human-gai-paradigms-2026]] — Sete paradigmas de engajamento humano-GAI fundamentados em crenças epistemológicas
+- [[critical-thinking-paradox-genai-learning-2026]] — O paradoxo do pensamento crítico
+- [[dollinger-equitable-assessment-ai-2026]] — Avaliação equitativa sob a GenAI
+- [[shaw-nave-cognitive-surrender-2026]] — Teoria dos Três Sistemas e rendição cognitiva: como a IA remodela o raciocínio humano (Shaw & Nave 2026)
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceitualizando a Comunidade de Investigação na era da IA generativa
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Experiências e percepções de professores universitários sobre a GAI: vulnerabilidade, repensar a avaliação, aprendizagem dos estudantes em risco (Farazouli et al. 2026)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: construct definition, boundaries, and a research agenda
-- [[synthetic-position-self-authorship-2026]] — The synthetic position: a dialogical-self bid naming synthetic promotion and authorial suspension with a crossover prediction
-- [[capability-decision-model-teacher-readiness-2026]] — Falsifiable capability-first teacher readiness model with four disconfirmation conditions
-- [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: a three-dimensional construct with six falsifiable propositions for later testing
+- [[daoism-ai-education-philosophy-2026]] — Filosofia alternativa da IA: o taoismo como método para a IA na educação
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas baseados em asserções para codificação auditável de diálogos educacionais
+- [[metacognitive-ownership-human-ai-regulation-2026]] — Propriedade metacognitiva: definição do construto, fronteiras e uma agenda de pesquisa
+- [[synthetic-position-self-authorship-2026]] — A posição sintética: uma aposta do self dialógico nomeando promoção sintética e suspensão autoral com uma predição de crossover
+- [[capability-decision-model-teacher-readiness-2026]] — Modelo falsificável de prontidão docente que prioriza a capacidade, com quatro condições de desconfirmação
+- [[ai-connectedness-adolescent-mental-health-2026]] — Conectividade com a inteligência artificial: um construto tridimensional com seis proposições falsificáveis para teste posterior
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Ciclo de parceria cognitiva
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Dificuldades desejáveis e falha produtiva aplicadas à agência interpretativa na educação no exterior
 - [[webb-pck-genai-2026]] — Três vinhetas e um novo construto, o pseudo-cPCK, para uma produção que imita conhecimento validado coletivamente sem a garantia correspondente (Webb et al. 2026)

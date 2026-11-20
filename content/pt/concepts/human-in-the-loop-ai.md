@@ -1,7 +1,7 @@
 ---
 title: "IA com humano na alça (HITL)"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,7 @@ O desenho com humano na alça tornou-se central para as discussões desta base d
 - **Segurança pedagógica.** A [[pedagogical-safety|segurança pedagógica]] exige que IA com autoridade instrucional real mantenha supervisão humana, de modo que erros, vieses ou saídas prejudiciais sejam captados antes de chegar a quem aprende. Isso é especialmente importante para agentes autônomos que [[agentic-ai|perseguem objetivos proativamente]].
 - **A supervisão é rara na prática, não apenas na teoria.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] concluíram que governança embutida robusta e supervisão com humano na alça raramente se manifestavam ao longo de 474 sistemas educacionais de IA agêntica, mesmo enquanto autonomia de tarefa única e colaboração multiagente cresciam — a lacuna entre o princípio de desenho e a prática implantada.
 - **A questão crítica é como o laço se torna acionável, e não quantos humanos participam.** Uma visão das [[learning-sciences|ciências da aprendizagem]] argumenta que organizar a aprendizagem em torno da captura de dados, da interpretação computacional e da resposta provável faz a ação pedagógica depender do que os sistemas conseguem detectar e sobre o que conseguem agir, e que alertas e classificações de engajamento interpretam quem aprende antes de qualquer professor ou estudante agir ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
+- **A posição na sequência importa mais do que a presença no fluxo de trabalho.** Um humano revisando um artefato pronto não é uma verificação independente. Em um experimento de supervisão de segurança, 416 avaliadores julgando 3.957 itens foram menos precisos nos itens em que o modelo errava quando as respostas candidatas eram mostradas antes de sua própria resposta, caindo de 36,7% para 20,6%, enquanto melhoravam nos itens em que o modelo acertava ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). Registrar o julgamento humano primeiro, ou mostrar evidências sem o veredito do modelo, é o que preserva a correção que o laço existe para produzir.
 - **Validade e controle de qualidade.** O HITL é um portão de qualidade para [[automated-assessment|avaliação automatizada]] e geração — humanos arbitram onde a correção automatizada é não confiável (ver a [[research-methods-aied|pesquisa]] sobre [[llms-do-not-grade-essays-like-humans-2026|correção de redações por LLM]]) e validam itens gerados. Uma [[meta-analysis-systematic-review|revisão sistemática]] guiada pela PRISMA de 42 estudos de correção e feedback (2023–2025) chega explicitamente à mesma conclusão: os LLMs igualam corretores humanos em tarefas curtas e bem estruturadas, mas não conseguem substituir plenamente o julgamento humano em trabalho complexo, aberto ou subjetivo, e a maior eficácia de correção é alcançada em sistemas híbridos que combinam correção impulsionada por IA com supervisão e verificação do professor ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] mostram concretamente onde essa fronteira cai: o ChatGPT-5 igualou o corpo docente em itens objetivos de provas de farmácia (CCC 0,935–1,000), mas foi não confiável em itens de resposta curta e de redação mesmo quando recebeu uma rubrica, levando os autores a recomendar correção híbrida com revisão humana para avaliação complexa, subjetiva ou de alto impacto.
 - A repetição não substitui essa supervisão: ao repontuar submissões idênticas em cinco dias diferentes, o mesmo modelo reproduziu seus próprios resultados em apenas alfa de Krippendorff 0,625, com variação concentrada nas notas intermediárias e A e F ausentes das contagens das cinco sessões ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Reenquadrado como parceiro analítico de apoio.** [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] reenquadram o humano-na-alça de um portão de aprovação para um parceiro analítico de apoio cujas classificações erradas e casos limítrofes se tornam insumos para a negociação de sentido humana, e não defeitos a filtrar. Em sua codificação em nível de frase de 18.883 amostras rotuladas, o modelo detectou presença de construto com 81,94% de acurácia geral, mas nunca julgou qualidade ou relevância, de modo que casos disputados voltaram ao refinamento humano do livro de códigos.
@@ -195,3 +196,4 @@ O quão forte é essa salvaguarda depende do [[automation-bias|viés de automaç
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Repensando as abordagens "no laço" em IA educacional: uma perspectiva das ciências da aprendizagem (Pande 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Reter a resposta preferida do sistema corta a dependência excessiva da IA sem bloquear a adoção de conselhos corretos (Tuo et al. 2026)
 - [[capodieci-humanities-hil-2026]] — Separa onde uma verificação humana se situa de quem autorou o processo, na aprendizagem de humanidades (Capodieci et al. 2026)
+- [[shi-human-ai-complementarity-safety-2026]] — 416 avaliadores, 3.957 itens: a assistência com a candidata primeiro reduziu a detecção de erros nos itens em que o modelo errava de 36,7% para 20,6% (Shi et al., 2026)

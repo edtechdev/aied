@@ -108,5 +108,5 @@ Os métodos de rede são usados ao longo da base de evidências da base de conhe
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Descarregamento cognitivo e prompting (métodos de SNA/redes)
 - [[youtube-frames-chatgpt-education]] — ENA dos enquadramentos do ChatGPT em educação no YouTube
 - [[agency-gap-ai-writing]] — A lacuna de agência na escrita apoiada por IA (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam passar: uma verificação estrutural de dados educacionais sintéticos
 - [[dang-human-ai-collaboration-competency-2026]] — A ENA também mapeia a fala sobre competência de educadores

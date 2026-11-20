@@ -87,12 +87,12 @@ A pesquisa em usabilidade compartilha métodos de coleta de dados com a [[qualit
 
 ## Artigos conectados
 
-- [[icub-humanoid-storytelling-llm-hri-2025]] — A usability study of an LLM-powered storytelling humanoid
-- [[rhaimi-productivemath-2025]] — ProductiveMath: usability of a generative-AI app
-- [[supplynet-visual-exploratory-learning]] — SupplyNet user study
-- [[anvil-ai-educational-animations]] — Usability of AI-generated educational animations
-- [[code-anchor-multi-view-visualization]] — Think-aloud study of multi-view code visualizations
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN framework and think-aloud evaluation
-- [[feedback-futures-genai]] — How learners process AI-generated feedback
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS multiple-choice questions
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
+- [[icub-humanoid-storytelling-llm-hri-2025]] — Um estudo de usabilidade de um robô humanoide contador de histórias movido por LLM
+- [[rhaimi-productivemath-2025]] — ProductiveMath: usabilidade de um app de IA generativa
+- [[supplynet-visual-exploratory-learning]] — Estudo de usuário do SupplyNet
+- [[anvil-ai-educational-animations]] — Usabilidade de animações educacionais geradas por IA
+- [[code-anchor-multi-view-visualization]] — Estudo think-aloud de visualizações de código com múltiplas vistas
+- [[learn-framework-responsible-genai-pbl-2026]] — Framework LEARN e avaliação think-aloud
+- [[feedback-futures-genai]] — Como os aprendizes processam o feedback gerado por IA
+- [[llm-chatbots-cs-multiple-choice]] — Chatbots de LLM para questões de múltipla escolha em CC
+- [[conversational-ai-agents-umbrella-review-2026]] — Revisão guarda-chuva de agentes de IA conversacional

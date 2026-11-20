@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Aprendizagem inclusiva"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T12:02:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,7 +77,9 @@ Vídeos pesados em equações podem ser tornados acessíveis em vez de transcrit
 
 **A exigência de diagnóstico formal como porteira exclui os aprendizes que uma ferramenta afirma servir.** Na [[assistive-tech-neurodivergent-higher-ed-review-2026|revisão de escopo de Rempel et al. (2026)]] de 40 estudos de tecnologias assistivas digitais para estudantes neurodivergentes, 28 fizeram do diagnóstico formal uma condição de participação e apenas três trataram o ambiente em vez do estudante.
 
-**Ferramentas acessíveis na prática** mostra como a IA pode ampliar a participação. O **[[suacode-african-students-motivations|SuaCode]]** demonstrou que cursos de programação baseados em smartphone alcançam estudantes em contextos africanos de baixo recurso onde menos de 1% têm competências de programação. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]]** trabalharam com músicos cegos e com baixa visão para desenvolver estratégias de aprendizagem não visuais, centrando o design [[embodied-learning|corporificado]] liderado pela deficiência. A **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** fornece uma parceira de pensamento com IA gratuita, privada e multilíngue que conecta educadores a princípios de DUA. O **[[special-r1-rl-special-education|Special-R1]]** estende a [[reinforcement-learning|aprendizagem por reforço]] para modelar diversidade cognitiva e comunicativa ao longo de perfis de deficiência.
+**Ferramentas acessíveis na prática** mostra como a IA pode ampliar a participação. O **[[suacode-african-students-motivations|SuaCode]]** demonstrou que cursos de programação baseados em smartphone alcançam estudantes em contextos africanos de baixo recurso onde menos de 1% têm competências de programação. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** trabalharam com músicos cegos e com baixa visão para desenvolver estratégias de aprendizagem não visuais, centrando o design [[embodied-learning|corporificado]] liderado pela deficiência. A **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** fornece uma parceira de pensamento com IA gratuita, privada e multilíngue que conecta educadores a princípios de DUA. O **[[special-r1-rl-special-education|Special-R1]]** estende a [[reinforcement-learning|aprendizagem por reforço]] para modelar diversidade cognitiva e comunicativa ao longo de perfis de deficiência.
+
+**A política fica atrás da implantação.** Nenhuma das 100 universidades mais bem ranqueadas tinha uma política de acessibilidade de IA, embora 93% já implantassem serviços de campus potencializados por IA ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### Conexões com conceitos relacionados
 

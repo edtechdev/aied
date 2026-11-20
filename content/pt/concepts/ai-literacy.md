@@ -1,7 +1,7 @@
 ---
 title: Letramento em IA
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -186,7 +186,7 @@ Os referenciais e os estudos empíricos convergem em um conjunto de diretrizes p
 
 **1. Use um referencial estruturado de competências como andaime, não como lista de verificação.** Referenciais maduros dão aos designers um vocabulário compartilhado e um alvo sequenciado pelo desenvolvimento. O [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|referencial SAIL]] organiza o letramento em IA em três domínios (Conceitos de IA; Aplicação e Habilidades Técnicas; Cidadania Digital em IA) em quatro níveis com andaimes — Compreender e Explorar → Aplicar e Integrar → Avaliar e Criar → IA++. O [[ai-literacy-heptagon-2026|Heptágono do Letramento em IA]] cruza sete dimensões (conhecimento técnico, aplicação, pensamento crítico, ética, impacto social, integração, legal/regulatório) com quatro níveis de proficiência alinhados a Bloom, e insiste que a ênfase deve ser **adaptada ao contexto disciplinar** — programas técnicos ponderam a aplicação, programas de [[humanities-education|humanidades]] ponderam o raciocínio ético e de impacto social.([[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|MacCallum et al., 2026]])([[ai-literacy-heptagon-2026|Hackl et al., 2026]])
 
-**2. Engaje quem aprende nos modos do ICAP.** Aplicando o [[icap-framework|referencial ICAP]], a instrução eficaz dá a quem aprende oportunidades de engajar em vários níveis cognitivos — exposição passiva (aulas sobre conceitos de IA), manipulação ativa (uso prático de ferramentas), geração construtiva (criar artefatos de IA, autoexplicação) e diálogo interativo ([[problem-solving|resolução de problemas]] colaborativa com pares e IA) —, selecionando o modo que se ajusta ao objetivo de aprendizagem. Uma [[meta-analysis-systematic-review|revisão sistemática]] encontrou que intervenções colaborativas bem-sucedidas de letramento em IA abrangeram os quatro modos do ICAP.([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])
+**2. Engaje quem aprende nos modos do ICAP.** Aplicando o [[icap-framework|referencial ICAP]], a instrução eficaz dá a quem aprende oportunidades de engajar em vários níveis cognitivos — exposição passiva (aulas sobre conceitos de IA), manipulação ativa (uso prático de ferramentas), geração construtiva (criar artefatos de IA, autoexplicação) e diálogo interativo ([[problem-solving|resolução de problemas]] colaborativa com pares e IA) —, selecionando o modo que se ajusta ao objetivo de aprendizagem. Uma [[meta-analysis-systematic-review|revisão sistemática]] encontrou que intervenções colaborativas bem-sucedidas de letramento em IA abrangeram os quatro modos do ICAP.([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]) A distinção entre modos não é cosmética: fora da IA, uma metanálise do ensino de ética constatou que os resultados morais melhoraram no geral, mas o ganho veio da oferta baseada em discussão, enquanto a oferta apenas expositiva não produziu ganho algum ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2026]]).
 
 **3. Avalie competência demonstrada, não autopercepção.** O letramento em IA autorrelatado diverge fortemente do desempenho medido — os professores superestimam suas habilidades em IA em ~40%, e medidas baseadas em desempenho se correlacionam com a integração de IA em sala de aula muito melhor do que autorrelatos (r≈0.72 vs 0.31). Desenhe intervenções em torno de avaliação baseada em desempenho e calibração, e não de pesquisas de confiança, e use perfis diagnósticos (superestimadores vs. novatos verdadeiros) para direcionar o apoio.([[ai-literacy-assessment-misalignment|Zhang et al., 2026]])
 
@@ -393,3 +393,5 @@ Lideranças de disciplina podem manter visível a linha crítica. Um letramento 
 - [[ago-prompt-literacy-allied-health-2026]] — 417 graduandos de profissões da saúde em Gana: 76.3% sem treinamento em uso responsável de IA, e 40.8% avaliando a orientação do corpo docente como inadequada contra 28.1% que a avaliaram como apropriada (Ago et al. 2026)
 - [[making-ai-work-for-students-ofs-2026]] — OfS e Advance HE (2026): 244 profissionais e 91 estudantes em 127 instituições sobre detecção, desenho de avaliação, letramento em IA e estratégia
 - [[yan-genai-use-critical-thinking-feedback-literacy-2026]] — 421 graduandos: o letramento em feedback carrega 72% da associação entre uso de IA e pensamento crítico
+- [[ethics-education-meta-analysis-moral-outcomes-2026]] — O ensino de ética funciona (g = 0,55), mas a oferta baseada em discussão funciona e a oferta apenas expositiva não
+- [[idea-model-doctoral-education-genai-2026]] — Doutorandos redesenham os próprios cursos: 76,5% sustentaram um redesenho de curso, 73,5% ainda usando prática apoiada por IA no acompanhamento

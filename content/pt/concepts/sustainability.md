@@ -1,7 +1,7 @@
 ---
 title: Sustentabilidade
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,13 +98,14 @@ A sustentabilidade e a IA na educação ficam na interseção da [[ethics|ética
 
 ## Artigos conectados
 
+- [[lim-ai-wearables-environmental-empathy-2024]] — EDA vestível mais imagens de poluição geradas por IA elevaram a excitação, sem mensurar o cuidado ambiental (Lim et al., 2024)
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudo sueco de survey e grupos focais argumentando que a ética da parceria, e não o enquadramento de trapaça, deveria orientar as decisões institucionais sobre GenAI
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
-- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)
+- [[daniel-ai-sustainability-scoping-review-2026]] — Revisão de escopo da IA para a sustentabilidade e da IA sustentável no ensino superior
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Abordagem crítica dos valores para a educação sustentável e a IA
+- [[liu-ai-sustainable-engineering-education-2026]] — Framework AI-SEE para a educação em engenharia sustentável
+- [[riandi-teacher-ai-green-energy-education-2026]] — Envolvimento dos professores na integração da IA para a educação em energia verde
+- [[talebzadeh-ai-green-education-2026]] — O papel da IA na educação verde
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistentes de base de conhecimento com IA sustentável
+- [[llm-environmental-impact-student-usage-2026]] — Impactos ambientais do uso de LLM
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentando a aprendizagem sustentável por meio da inteligência corporificada
+- [[caruana-pre-university-ai-education-slr-2026]] — Revisão sistemática da literatura sobre educação em IA pré-universitária (enquadramento no SDG 4)

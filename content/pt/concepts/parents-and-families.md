@@ -1,7 +1,7 @@
 ---
 title: Pais e famílias
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-08T12:17:55-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ ai_assist:
 Uma grande parcela do tempo das crianças com a IA acontece fora da sala de aula, em um contexto que a literatura de pesquisa trata majoritariamente como pano de fundo. O trabalho sobre tutoria e resultados de aprendizagem é em geral baseado na escola, enquanto o trabalho sobre orientação familiar é em geral consultivo, e não testado, de modo que as famílias são simultaneamente o alvo de uma grande quantidade de orientação sobre uso [[ethics|responsável de IA]] e o sujeito de muito pouca evidência sobre se essa orientação funciona.
 
 Esta página trata a família como um ator em seu próprio direito. Ela cobre a tutoria entre pais e filhos mediada por IA, os companheiros e ferramentas de leitura que as crianças encontram em casa, o que as escolas fazem e não fazem para informar as famílias sobre o uso de IA, o próprio [[ai-literacy|letramento em IA]] dos pais e o que se sabe sobre suas visões, e as condições de acesso e custo sob as quais as famílias usam essas ferramentas. Onde a evidência é escassa, a página diz isso em vez de preencher a lacuna.
+
+O que uma criança consegue fazer com uma ferramenta em uma dada idade é uma questão desenvolvimental, e não uma questão de preferência; a [[developmental-psychology|psicologia do desenvolvimento]] sustenta essa explicação.
 
 ## Os pais como coeducadores em casa
 
@@ -100,6 +102,7 @@ Uma [[meta-analysis-systematic-review|revisão de escopo]] de 2026 mapeia até o
 
 ## Conceitos conectados
 
+- [[developmental-psychology]]
 - [[stakeholders]] — a página guarda-chuva dos públicos e atores na IA na educação
 - [[early-childhood-elementary-ai-education]] — o domínio desenvolvimental onde o uso em casa e pela família é mais estudado
 - [[ai-use-disclosure]] — práticas de divulgação e a questão do que chega às famílias

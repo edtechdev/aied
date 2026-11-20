@@ -1,7 +1,7 @@
 ---
 title: Viés de automação
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-19T20:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -10,7 +10,7 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ A afirmação mais clara do mecanismo está no trabalho voltado a professores. [
 
 A lacuna mais aguda está no ponto do julgamento. [[human-in-the-loop-ai-scoring-national-assessment-2026|O estudo de correção de avaliação nacional (2026)]] faz avaliadores revisarem notas de máquina, e seus autores nomeiam diretamente o mecanismo não testado: se avaliadores a quem se mostram notas de IA antes de julgar são ancorados por elas ou a elas cedem não é medido, e eles propõem experimentos com avaliadores cegos contra não cegos como próximo passo. A alegação de humano no circuito nesse desenho é, portanto, uma suposição, não um achado — e esse é a boa versão do desenho.
 
+Um experimento de supervisão de segurança agora fornece a medição em um contexto adjacente. Entre 416 avaliadores e 3.957 itens, apresentar os candidatos do modelo antes da resposta humana derrubou a acurácia dos avaliadores nos itens em que o modelo errava de 36.7% para 20.6%, enquanto a acurácia subiu 7.3 pontos nos itens em que o modelo acertava ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). Os avaliadores se tornaram mais acurados no geral e menos capazes de capturar os erros que estavam ali para capturar, que é o viés operando como os autores da avaliação nacional suspeitavam: a resposta da máquina define o enquadramento, e o humano se ajusta dentro dele.
+
 ### Painéis de analítica e a alegação de humano no circuito
 
 [[in-the-loop-educational-ai-learning-sciences-2026|A revisão das ciências da aprendizagem sobre IA educacional no circuito (2026)]] dá ao padrão sua forma geral: painéis inferem participação a partir de cliques, o [[writing-education|feedback automatizado de escrita]] privilegia características superficiais em detrimento do argumento, e semáforos de alerta precoce pré-interpretam trajetórias. O viés de automação agrava cada um deles, e a revisão trata a [[trust|confiança]] como um resultado sociotécnico moldado pela transparência, pela competência percebida e por um direito significativo de anular, e não como uma atitude estável.
@@ -91,6 +93,8 @@ Dois artigos argumentam que o contrapeso é uma disposição, não uma regra. [[
 ### Quando o viés é nomeado como risco em vez de medido
 
 Uma grande parte do corpus lista o viés de automação em um modelo de ameaças sem testá-lo, e a distinção importa para o peso que o conceito pode carregar. [[ahmadfard-interactive-oer-review-2026|A revisão de REA interativos (2026)]] o inclui entre riscos recorrentes que erosionam a agência de estudantes e professores, listado em vez de medido. [[alshahrani-health-sciences-ai-use-2026|O levantamento em ciências da saúde (2026)]] lê as preocupações [[ethics|éticas]] de 310 estudantes como um argumento para [[professional-training|formação profissional]] que cubra explicitamente o viés de automação. [[ai-literacy-legal-translation-2026|O estudo de tradução jurídica (2026)]] pede que pós-edição e verificação sejam ensinadas como habilidades avaliadas, nomeando as pressões de viés de automação e de ilusão de qualidade que tornam erros de tradução fáceis de passar despercebidos. [[morales-cevallos-ai-forensic-science-education-2026|A revisão em ciências forenses (2026)]] encontra o viés de automação documentado nos estudos incluídos e propõe exercícios baseados em casos construídos a partir de falhas relatadas. [[rana-genai-design-thinking-2025|O estudo de design thinking (2025)]] o converte em requisito de desenho: [[scaffolding|andaimes]] que mantêm o julgamento humano no centro, contrariando tanto o descarregamento quanto o viés de automação.
+
+Um viés diferente se situa na saída, e não no usuário. Em Esmeraldas, Equador, 90 atores educacionais e comunitários descreveram ferramentas de imagem alterando o tom de pele, a textura do cabelo e os traços faciais de participantes afro-equatorianos, um deles chamando isso de "uma forma de racismo, mesmo que digital" — um dano representacional que nenhuma métrica de acurácia registra ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Onde a evidência é escassa, mista ou invertida
 
@@ -136,6 +140,7 @@ Uma grande parte do corpus lista o viés de automação em um modelo de ameaças
 
 ## Artigos conectados
 
+- [[shi-human-ai-complementarity-safety-2026]] — 416 avaliadores, 3.957 itens: a assistência com candidatos primeiro derrubou a captura de erros nos itens em que o modelo errava de 36.7% para 20.6% (Shi et al., 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — professores advertidos contra ceder a recomendações construídas sobre dados estreitos
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — nomeia a ancoragem de avaliadores por notas de IA como risco não testado e propõe o cegamento
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — painéis, feedback sobre características superficiais e semáforos como padrão geral
