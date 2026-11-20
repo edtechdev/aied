@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -33,7 +35,6 @@ ai_assist:
 ## Giriş
 
 YZ’ye duyulan güven; algılanan yetkinlik, şeffaflık, tutarlılık ve sistemin öğrenenin hedefleriyle uyumlu görünüp görünmediği tarafından şekillenir; [[ai-literacy]] (neye güvenileceğini bilmek), [[critical-thinking]] (çıktıyı değerlendirmek) ve sorumlu YZ tasarımı ile yakından bağlantılıdır. Buna karşılık kişiler arası güven, ilişkiler, açıklık, geri bildirim ve [[pedagogy|pedagojik]] özen üzerinden kurulur — öğrencilerin bir öğretmenin ya da bir YZ’nin güvenilir bir rehber kaynağı olup olmadığına karar verirken dayandığı nitelikler. Bu iki alan giderek daha fazla etkileşiyor: YZ öğretmen-öğrenci ilişkilerine dokunulduğu için öğrencilerin öğretmenine güveni, onun onay verdiği YZ araçlarına (ya da onları sorgulayıp sorgulamadıklarına) güvenini de şekillendiriyor.
-
 
 Güven yalnızca bir ilke değil, ölçülmüş bir kayıptır. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]] çalışmasında öğrenciler, [[group-work|grup çalışmasında]] açıklanmamış GenAI kullanımını keşfettikten sonra sınıf arkadaşlarına daha az güvendiklerini söylemiş ve bunu "akademinin güvenine ve etiğine zararlı" olarak nitelendirmişlerdir; birkaçı ise öğretmenlerinin GenAI kullandığından ve bunu öğrencilerden sakladığından kuşkulanmıştır.
 
@@ -65,7 +66,6 @@ Yapı, katsayının ima ettiğinden daha incedir. Sanat değeri ekiyle araçsal 
 Üç Kaynak İnandırıcılığı boyutu birbirinden ayrışabilir: on yedi EFL lisans öğrencisi bir YZ yazma asistanına geniş bir uzmanlık tanımış, güvenilirliğine ilişkin şüphelerini ağırlıklı olarak platformun sakladığı verilere bağlamış ve iyi niyetini en düşük puanlamıştır — bel bağlamalarındaki tavan yetkinlikte değil, özende durmaktadır ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
 
 İnandırıcılık ipuçları yanlış yanıtlara bel bağlamayı artırabilir: bir tartışma arayüzüne atıf ve otorite sinyalleri eklemek, doğru bir yargının YZ’nin konumu lehine terk edilmesini %15,0’ten %31,8’e çıkarırken önerilen konumun saklanması bu geçişi %5,7 ile %8,2 aralığına düşürmüştür ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo ve ark., 2026]]).
-
 
 YZ’ye duyulan güven ulusal benimsemeyi de izlemez: GenAI kullanımı Danimarka’nın %48,4’üne karşı %17,8 olan Romanyalılar, YZ’ye duydukları güveni biraz daha yüksek derecelendirmiş (yedi puanlık ölçekte 3,8’e karşı 4,1) iken kurumsal güven 28’e karşı 45 puanla ters yönde ayrılmıştır ([[lucau-uneven-use-similar-trust-genai-2026|Lucau, Voicu ve Christensen (2026)]]).
 
@@ -121,54 +121,3 @@ Kalibrasyon aynı zamanda güven duyulan sistemin kendi teşvikleriyle de sınan
 
 - Güveni, risk algısını ve yerinde bel bağlamayı ayrı yapılar olarak raporlayın, çünkü bunlar belirsiz olmayan yönlerde birlikte değişir; negatif yönde olanlar dahil.
 - Davranışsal sonucu (yanlış önerilerin kabul oranı) öz bildirim güvenle birlikte raporlayın; tek başına güven ölçekleri sonucu tersine çevirir.
-
-## Bağlı kavramlar
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — normların ve açıklığın koştuğu sosyal risk
-
-## Bağlı makaleler
-
-- [[ilieva-agentic-genai-higher-education-2026]] — Algılanan risk, kullanmaya devam etme niyetiyle pozitif biçimde ilişkilidir: bilinçli benimseme (Ilieva ve ark. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — K-12 sınıf YZ’sinde denetim ve etkinlik konusundaki öğretmen-öğrenci güven uçurumu
-- [[qu-wang-disclose-or-not-genai-2026]] — YZ kullanımının açıklanması politika değil, ilişkisel etkenler ve öğretmenlerle hissedilen rahatlık tarafından yönlendirilir
-- [[genai-teacher-feedback-comparison]] — GenAI ve öğretmen geri bildirimi farklı, bütünleyici güven ihtiyaçlarına hizmet eder
-- [[care-full-feedback-genai]] — Güvenilir geri bildirim: “care-full,” ilişkisel bir uygulama olarak
-- [[ai-fallibility-warning-help-seeking]] — YZ’nin hataya açık olduğuna dair uyarı bir ITS’de yardım aramayı artırır
-- [[calibrating-trustworthiness-llm-education-2026]] — Eğitimde LLM’ler için güvenilirlik ölçütlerinin ve görselleştirmelerinin birlikte tasarlanması
-- [[ai-overreliance-complex-adaptive-system-2026]] — YZ’nin aşırı bel bağlamasının karmaşık uyarlanır bir sistem olarak modellenmesi
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Fizik YZ araçlarındaki güven-fayda uçurumu
-- [[t2i-competence-paradox-2026]] — YZ görüntü üretiminde yetkinlik paradoksu
-- [[task-context-trust-educational-hri-2026]] — Eğitim robotlarında görev bağlamı, görünüşten daha çok güveni şekillendirir
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — YZ aracılı öğrenmede avatar kimliği ve epistemik güven
-- [[contextual-sycophancy-ai-literacy]] — Bağlamsal yağcılık ve güven kalibrasyonu açısından sınırları
-- [[sycophantic-ai-social-interaction-2026]] — Yağcı YZ, zamanla insan etkileşimini daha az tatmin edici hissettirir
-- [[ai-pedagogical-accompaniment-amico]] — Hesap verebilir pedagojik aracılık ve YZ destekli sistemlere güven
-- [[best-response-student-ai-dialog-2026]] — Öğrenci-YZ diyaloğunda güven
-- [[ai-adaptation-gap-higher-education-2026]] — Yükseköğretimde YZ güveninin en güçlü yordayıcısı olarak algılanan faydalılık
-- [[bassett-ai-detectors-education-2026]] — YZ tespit sistemlerine güven ve güvensizlik
-- [[genai-use-usefulness-student-experience-australia-2026]] — Avustralya yükseköğretiminde GenAI faydalılığının öğrenci deneyimi (Chung ve ark. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Karma sınıflarda öğretmenler için ML bulgularını erişilebilir kılmak
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[trust-in-ai-psychological-profiles-ml-2026]] — YZ güveninin demografilerden çok dayanıklılığı ve stresi izlediği üç öğrenci profili (Kumar ve ark. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — Güçlendirme ve tehdit değerlendirmeleri güveni zıt yönlerde hareket ettirerek GenAI bağımlılığını taşımıştır
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Akranların GenAI kullanımı, algılanan sıcaklık ve yetkinlik üzerinden kişiler arası güveni düşürür; YZ okuryazarlığı bu etkiyi tamponlar
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — İnandırıcılık ipuçları yanlış YZ konumuna geçişi artırdı; önerinin saklanması bunu bastırdı
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Bu köprüleme rolünü ampirik olarak sınayan yapısal bir model
-
-- [[lucau-uneven-use-similar-trust-genai-2026]] — Dengesiz kullanım, benzer güven: Danimarka ve Romanya’da üretken yapay zeka (Lucau, Voicu ve Christensen 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — Sanat öğrencileri için GenAI niyetinin en güçlü yordayıcısı olarak araçsal güven

@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -52,6 +53,3 @@ K-12 शिक्षक जो किसी विशिष्ट समस्�
 ## टिप्पणियाँ और चेतावनियाँ
 
 गति ही पिच भी है और जोखिम भी। एक-दिन के निर्माण किसी शोध-प्रश्न के बजाय वास्तविक कक्षा-समस्या को लक्षित करते हैं, इसलिए यहाँ किसी चीज़ के साथ मूल्यांकन नहीं है और किसी ऐप के क्या करने का दावा कक्षा में परखा जाना चाहिए। GitHub संगठन में बत्तीस सार्वजनिक रिपॉजिटरी हैं जबकि गैलरी 34 सूचीबद्ध करती है, सभी Apache-2.0 के साथ और स्रोत उपलब्ध है, इसलिए किसी भी ऐप को पढ़ा और स्वयं होस्ट किया जा सकता है। लोकल-फर्स्ट डिज़ाइन एक दावा है जिसे हर ऐप पर परखना होता है, और किसी छात्र-उन्मुख उपकरण को कक्षा के सामने रखने से पहले शिक्षक को उसकी पुष्टि करनी चाहिए।
-
-## संबद्ध अवधारणाएँ
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

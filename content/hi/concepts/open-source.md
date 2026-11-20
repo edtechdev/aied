@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -86,49 +88,3 @@ OmniEdu पूरी पाइपलाइन विज्ञप्त करत
 **"बंद फ्रंटियर मॉडल सीधे बेहतर हैं, इसलिए खुले विकल्प एक पिछला सहारा हैं।"** अंतर उस मान्यता से संकरा है। [[cdpk-pedagogy-benchmark-llms|पेडगॉजी बेंचमार्क]] (CDPK + SEND, वास्तविक चिली शिक्षक-परीक्षा आइटमों से निर्मित) में 97 मॉडलों के बीच ओपन-वेट **DeepSeek R1 ने 86.65% प्राप्त किए**, जबकि शीर्ष-10 में मुख्यतः बंद तर्क मॉडल थे, और लागत तथा सटीकता की तुलना खुली दिशा में और आगे चलती है। इसलिए खुलापन के लिए शेष तर्क नियंत्रण और ऑडिट-योग्यता के बारे में है, क्षमता के त्याग के बारे में नहीं।
 
 **"वेट जारी करना ही काम जारी करना है।"** मजबूत खुले योगदान पाइपलाइन जारी करते हैं। OmniEdu अंतिम वेट अकेले के बजाय 69,999-उदाहरण मिश्रण पर क्षमता-संतुलित पर्यवेक्षण प्रकाशित करता है, जो खुले 4B/9B/27B K-12 परिवार के हर आकार को उठाता है, और ट्यून किए गए 4B मॉडल ने MathTutorBench [[scaffolding]] प्रदर्शन में **55 अंक** बढ़ाए; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] इसी तरह अपनी RL और फ़ाइन-ट्यूनिंग प्रक्रिया का प्रलेखन करता है, जिसमें 440 खनन किए गए कठिन नकारात्मक उदाहरण और 40,000 उत्पन्न प्रतिक्रियाएँ शामिल हैं। नुस्खे के बिना वेट किसी परिणाम को दोहराते हैं, विधि को नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[open-education]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## संबंधित लेख
-
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — उपभोक्ता हार्डवेयर पर ऑन-प्रिमाइसे OER एआई ज्ञान-आधार सहायक (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — एक CC BY OpenStax सामग्री पुस्तकालय के साथ MIT-लाइसेंस अनुकूली ट्यूटर (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — बहुत बड़े स्वामित्व वाले सिस्टम से बेहतर प्रदर्शन करने वाला खुला 32B शैक्षणिक मॉडल (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — ड्रॉप-इन FERPA-अनुरूप स्थानीय-एलएलएम ऑटोग्रेडर
-- [[programming-its]] — एक Python ITS में GDPR/EU AI Act अनुपालन के लिए स्वयं-होस्ट किया गया ओपन-वेट एलएलएम
-- [[aiawe-automated-writing-evaluation]] — स्वचालित लेखन मूल्यांकन के लिए LoRA-अनुकूलित ओपन-वेट मॉडल
-- [[stanbkt-bayesian-knowledge-tracing]] — पूर्ण बेयज़ियन नॉलेज ट्रेसिंग के लिए खुला Python पैकेज
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — लर्नर मेमोरी के साथ पूर्णतः खुला-सोर्स एजेंटिक ट्यूटरिंग फ्रेमवर्क
-- [[vismatic-secure-sandbox-cs-education]] — प्रक्रिया-उन्मुख मूल्यांकन के लिए खुला कंटेनरीकृत सैंडबॉक्स
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — एक खुले कोडबेस के साथ प्रभाव-जागरूक गणित ट्यूटर
-- [[cdpk-pedagogy-benchmark-llms]] — 97 मॉडलों में खुला पेडगॉजी बेंचमार्क और लागत–सटीकता सीमा
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ट्रेस-आधारित बहु-एजेंट ट्यूटरिंग मूल्यांकन के लिए खुला डेटासेट और प्रोटोटाइप
-- [[mllm-scientific-visualization-literacy]] — दृश्यीकरण साक्षरता पर मानव आधार रेखा से नीचे खुले मॉडल
-- [[iks-instruct-dataset-indian-knowledge]] — सांस्कृतिक रूप से आधारित निर्देश के लिए खुला बहुभाषी डेटासेट
-- [[aied-carbon-footprint-reporting]] — एलएलएम की पर्यावरणीय लागत रिपोर्टिंग के लिए खुला-सोर्स विधि
-- [[egai-power-systems-education]] — इंजीनियरिंग एआई के लिए खुली निष्पादन योग्य मॉड्यूल पुस्तकालय
-
-- [[mooc-to-maic]] — एलएलएम-संचालित पाठ्यक्रम जनरेशन और पाठ्यक्रम उत्पादन के बदलते अर्थशास्त्र
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: सीखने और पढ़ाने के लिए खुले फ़ाउंडेशन मॉडल

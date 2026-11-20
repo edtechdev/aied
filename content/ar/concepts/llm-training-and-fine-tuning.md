@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -97,7 +99,6 @@ LoRA وأقاربها هي المجال الذي سيعمل فيه معظم ال
 
 **تكلفة التهيئة وشهيّتها للبيانات قابلة للقياس، وكلتاهما ترجّح التشغيلات الصغيرة المستهدفة.** ضبط Jung وآخرون (2025) دقةً نموذج Mistral-7B-Instruct-v0.2 بـ LoRA ليصير CLST، وهو متتبّع معرفة، وأبلغوا عن فاتورة على مستوى الجلسة قدرها نحو **6.8 ساعة و1.7 كيلوواط ساعة** على RTX A6000 لتشغيل من 21 ألف عيّنة، مقابل **50 ثانية و3.47 واط ساعة** لخط أساس AKT — أي كفاءة طاقة أعلى بنحو **490 ضعفًا** ([[jung-clst-cold-start-knowledge-tracing-2025|Jung وآخرون (2025)]]). وبقي الضبط نفسه دقيقًا على بيانات رقيقة: فقد استُعيدت معايرة المخرج مع نمو مجموعة التدريب من **16 إلى 64 طالبًا**، وتجاوز CLST ثاني أفضل نموذج بما يصل إلى **24.52%** بـ 8 طلاب تدريب فقط، فصار هامش الدقة مقايضة مكلَّفة لا مكسبًا مجانيًا.
 
-
 وتكمل تقنيتان متجاورتان مرحلة التهيئة. فـ**التقطير** يضغط نظامًا كبيرًا أو صندوقًا أسود في نظام صغير قابل للنشر. فقد قطّر خطًّا ذا مرحلتين مُقدِّر تعلُّم آلي صندوقي أسود مُلاءم وتأويله اللاحق في نموذج لغوي صغير مفتوح الأوزان، محقق "تلميذ" ذو 2 مليار معامل استعادةً شبه بلا فقد لسطح الأثر الOracle (r > .90). وتُفاد هذه النتيجة تحت تقييم يضع الأمانة أولًا يدقّق كل رواية مقابل الإسناد الذي تدّعي وصفه ([[distilling-self-explaining-lm-learning-analytics-2026]]). أما**إزالة التعلُّم** فتزيل محتوى مستهدفًا بعد التدريب: طُبّقت إزالة تعلُّم قائمة على التدرج على ثلاثة نماذج لتجريدها من المعلومات الشخصية والمحتوى الضار، ومُوُسخت في ترتيبي إزالة (المعلومات الشخصية أولًا، والمحتوى الضار أولًا) ([[llm-unlearning-math-privacy]]) — وهي الأداة الملائمة حين يحفظ نموذج شيئًا لا ينبغي أن يحمله.
 
 ## التدريب اللاحق: تشكيل السلوك لا التنسيق فحسب
@@ -166,73 +167,3 @@ LoRA وأقاربها هي المجال الذي سيعمل فيه معظم ال
 - **«النموذج هو المحدّد الرئيسي لمكاسب التعلّم.»** فاختيار النموذج والمثير لا يفسّر سوى **نحو 15%** من الفجوة بين النموذج اللغوي الكبير ومكاسب تعلّم الطلاب. وتحسين الـ85% الباقية هو موضع العمل، وليس في الأوزان.
 - **«النموذج المحلي سيتخلّف عن المستضاف، فإذن الاسترجاع رافعة أدنى.»** في تقييم بثلاث تهيئات، كان **الاسترجاع لا النموذج هو قرار التصميم من الدرجة الأولى**: فالنموذج المحلي **دون استرجاع بلغ 52.3% دقة فقط، تحت خط أساس TF-IDF**. وإضافة الاسترجاع دفعت النموذج نفسه عبر عتبة لم يكن أي تبديل نموذج سيبليغها وحده.
 - **«مزيد من بيانات التدريب يعني سلوك تدريس أفضل.»** فضبط التقويم الذي حسّن التنسيق وأسوأ توليد التغذية الراجعة هو المثال المضاد مصغّرًا: فالتحسين مقابل هدف شبيه المظهر قد يحسّن البديل ويُفسد ما أردته.
-
-## المفاهيم المرتبطة
-
-- [[llm]] — ما هي هذه النماذج؛ وهذه الصفحة كيف تُصنَع
-- [[ai-technologies]] — المظلة: تقنيات وتقنيات الذكاء الاصطناعي
-- [[rag]] — الاسترجاع، الخطوة السابقة للتدريب
-- [[prompt-engineering]] — أرخص رافعة، وخط الأساس الواجب التغلّب عليه
-- [[reinforcement-learning]] — مرحلة التعلم المعزَّز من التدريب اللاحق
-- [[intelligent-tutoring]] — مجال التطبيق الرئيس
-- [[adaptive-learning]] — التهيئة على المتعلّمين، بخلاف تهيئة النماذج
-- [[automated-assessment]] — حيث تهبط نماذج التصحيح المضبوطة دقةً
-- [[automated-essay-scoring]] — المهمة التي يأتي منها معظم أدلة التصحيح
-- [[ai-feedback-quality]] — ما يصلحه الضبط الدقيق وما لا يصلحه
-- [[educational-nlp]] — عائلة الطرق المجاورة
-- [[simulating-students]] — التطبيق من جانب المتعلّم للآلية نفسها
-- [[student-modeling]] — طبقة النمذجة الواقعة تحت المحاكاة
-- [[open-source]] — الأوزان المفتوحة هي ما يجعل الضبط الدقيق المحلي ممكنًا
-- [[benchmark]] — كيف تُقيَّم هذه الأنظمة، وحدود ذلك
-- [[assessment-validity]] — لماذا يمكن لمقياس جيد أن يعني أداة سيّئة
-- [[pedagogical-safety]] — ما لا يضمنه التدريب
-- [[ai-sycophancy]] — سلوك يمكن للتدريب اللاحق استهدافه
-- [[hallucination-risk]] — نمط الفشل الذي لا يستطيع الضبط الدقيق معالجته
-- [[privacy]] — القيد على بيانات التدريب وعلى إزالة التعلُّم
-- [[human-in-the-loop-ai]] — الاحتياط الذي يجعل الأتمتة ميسورة الكلفة
-- [[metacognition]] — هدف بيداغوجي للتدريب اللاحق
-- [[scaffolding]] — السلوك الذي تحاول دوال المكافأة ترميزه
-- [[ai-education]] — الميدان الذي يخدمه هذا العمل
-
-## المقالات المرتبطة
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — خط تعلم معزَّز–ضبط دقيق مُوجَّه–تعلم معزَّز: 96.52% على CDPK، متجاوزًا Gemini-3 Pro
-- [[learnlm-improving-gemini-learning]] — اتباع التعليمات البيداغوجية داخل التدريب اللاحق لـ Gemini
-- [[teachlm-post-training-llms-education]] — تدريب لاحق على 100,000 ساعة من بيانات تدريس أصيلة
-- [[tact-pedagogically-adaptive-esl-tutoring]] — تدريب لاحق مواءم للتصنيف يستهدف القرار البيداغوجي
-- [[swim-student-writing-simulation-2026]] — ضبط دقيق مُوجَّه وGRPO مقابل تحفيز مؤصَّغ بسلم التقدير، مع تفصيل تصميم المكافأة
-- [[misconception-acquisition-dynamics-llms-2026]] — آثار مستوى الخطوة كمطلب ملزم لتدريب المفاهيم الخاطئة
-- [[jeon-isd-agent-bench-2026]] — وكلاء تصميم تعليمي مؤصَّغون بنظرية عبر 25,795 سيناريو
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — تعلم معزَّز استكشافي لمواءمة النماذج كمرشدين سقراطيين
-- [[special-r1-rl-special-education]] — تعلم معزَّز لمواءمة التربية الخاصة
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — تعلم معزَّز موجَّه بنموذج لغوي كبير من أجل التخصيص
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — نموذج استنتاج كبير بيداغوجي
-- [[omniedu-open-educational-foundation-models-2026]] — سلوك هدف واحد لكل مثال، عبر أحجام النماذج
-- [[garrod-edu-qurating-educational-data-curation-2026]] — انتقاء البيانات التعليمية للتدريب
-- [[lora-finetuned-control-systems-course-qa-2026]] — آثار رتبة LoRA والمكسب لكل معامل مُهايئ
-- [[aiawe-automated-writing-evaluation]] — تقييم كتابة آلي مُهايأ بـ LoRA حيث لم يتنبأ الحجم بالنجاح
-- [[llm-graders-computer-science-exams-2026]] — مُهايئ واحد على ~3,900 مثال يبلغ مستوى مصحّح بشري
-- [[iks-instruct-dataset-indian-knowledge]] — مجموعة تعليمات من 24,795 مثال وخط أساس قريب الصفر
-- [[llm-children-reading-story-generation]] — قابلية الضبط على حساب الحجم للتحكم في مستوى القراءة
-- [[bert-discourse-english-teaching-2026]] — أي الطبقات تضبط ضبطًا دقيقًا، ولماذا تفوّقت أربع على اثنتي عشرة
-- [[nuclear-diffusion-text-to-image-learning-2026]] — المعمارية، لا عدد المعاملات، هي ما يقرر نجاح الضبط الدقيق
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — تقطير في نموذج 2B مع تدقيق أمانة
-- [[llm-unlearning-math-privacy]] — إزالة تعلُّم قائمة على التدرج للمعلومات الشخصية والمحتوى الضار
-- [[reflection-level-classification-hungarian-essays-2026]] — محوّلات مضبوطة دقةً مقابل خطوط أساس كلاسيكية وتضمينات
-- [[multimodal-item-parameter-estimation-2026]] — تعلم منحنيات IRT من بنود متعددة الوسائط
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — التوجيه بالثقة بوصفه سياسة إنسان في الحلقة
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — الاسترجاع كقرار من الدرجة الأولى، مع الطاقة والذاكرة المُفادة
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 دراسة: تحفيز 13، ضبط دقيق 7، هجين 3
-- [[gpt-item-generation-l2-listening-2026]] — التحفيز يبلغ مستوىًًا، ثم يضيف الضبط الدقيق الباقي
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — الضبط الدقيق فاز في التصحيح وفشل في التغذية الراجعة
-- [[educational-llm-alignment]] — سقف ~15% على اختيار النموذج والمثير
-- [[yasar-llms-iterative-pedagogical-design-2026]] — التحفيز الموجَّه بسلم التقدير كبديل بلا تدريب
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — ضبط شخصية على مستوى المثير لمحاكاة المفاهيم الخاطئة
-- [[eduframetrap-llm-sycophancy-educational-safety]] — المُسايرة كمطلب تدريبي صريح
-- [[contextual-sycophancy-ai-literacy]] — مُسايرة تنجو من التحفيز والمواءمة
-- [[hazra-safetutors-pedagogical-safety-2026]] — سلامة تتدهور على الحوار المستدام
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — نحو 35% تلميحات غير قابلة للاستخدام من نموذج حدود غير مدرَّب
-- [[simulated-students-tutoring-dialogues-2026]] — هل يتصرف الطلاب المحاكات كطلاب
-- [[inside-llm-student-simulator-reasoning-2026]] — ضبط نموذج دقةً ليتصرّف ويفكّر كطالب
-- [[history-aware-student-simulation]] — محاكاة مشروطة على مسار متعلّم
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — البيانات المهيكلة بالمنهج فعّالة في العيّنات

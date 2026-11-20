@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
@@ -96,51 +98,3 @@ L'apprentissage actif est l'un des leviers les plus puissants sur les [[learning
 - **« L'enquête soutenue par l'IA est automatiquement de niveau supérieur. »** Une quasi-expérimentation auprès de **120 élèves de 8e année** a constaté que l'[[inquiry-based-learning|apprentissage par l'enquête]] soutenu par l'IA améliorait la performance créative en mathématiques **et** une mesure plus étroite — le traitement déplaçait certains résultats et pas d'autres. Une corrélation avec une étiquette de niveau supérieur n'équivaut pas à une tâche de niveau supérieur.
 - **« Faire concevoir l'enseignement par les étudiants est un exercice technique. »** Dans l'étude d'inversion, **345 étudiants** d'un cours de 700 étudiants ont chacun conçu un agent conversationnel pour enseigner trois patrons de conception à un pair. L'apprentissage actif venait du travail de conception, qui est un [[pedagogy|raisonnement pédagogique]] plutôt qu'une ingénierie d'invites.
 - **« Les résultats d'engagement sont des résultats d'apprentissage. »** La même base de données probantes met en garde : un dispositif **sans groupe témoin et fondé sur un échantillon de volontaires** ne permet d'étayer que des affirmations relatives à l'engagement. Les étudiants ont apprécié la liberté de conception ouverte (**22.3%**, premier thème positif) et se sont le plus plaints du manque de clarté des consignes (**23.7%**) — les deux portent sur l'expérience.
-
-## Concepts liés
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement dans l'éducation par l'IA
-
-## Articles liés
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Le tutorat par IA surpasse l'apprentissage actif en classe : un essai contrôlé randomisé introduisant une conception nouvelle fondée sur la recherche dans un cadre éducatif authentique (Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Cadre GenAI d'apprentissage actif pour l'économie (Beck et Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — Étude en EEG des modes d'interaction avec l'IA (interactif > auto)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet : apprentissage exploratoire visuel par simulation multi-agents
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop : révision conversationnelle post-cours par étapes
-- [[academic-league-of-ai-2026]] — Academic League of AI : apprentissage actif par projets
-- [[mujib-ai-ibl-creative-math-2026]] — Apprentissage par l'enquête soutenu par l'IA et performance créative en mathématiques
-- [[instructional-guidance-genai-learning]] — Révision par IA sollicitée contre non sollicitée : la structure, et non l'accès au modèle, a fait bouger les scores sur items ouverts
-- [[assigned-ai-preclass-student-engagement-2026]] — La répétition pré-cours par IA a accru la participation en classe de 31% après un deuxième usage, pas au premier
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Caractéristiques de l'apprenant × interactions selon le format de dialogue TTS

@@ -12,6 +12,8 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
+connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
 ---
 
 > **Design Education** — the professional formation of designers in studio-based disciplines: product, service, interaction, interior and architectural design, taught through iterative project work in which the assessed object is the process behind an artifact as much as the artifact itself. Its distinguishing features are the studio and the critique as the setting for learning, visible process evidence (sketches, intermediate models, iterations) as the primary indicator of learning, and the fact that [[generative-ai|generative AI]] now makes the polished output students are graded on cheap to produce. That makes design education a test case for [[creativity|creativity]], [[design-thinking|design thinking]], [[assessment-validity|assessment validity]] and [[professional-training|professional training]].
@@ -78,48 +80,3 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - **"Design students are enthusiastic adopters."** The same cohort shows **71% using GenAI daily or weekly, 65% distrusting it, and 85% modifying its output**. Frequent use and low trust coexist, so a tool whose value proposition assumes trust has misread the users.
 - **"GenAI is generically helpful across the design process."** The GAI-A platform built across a longitudinal studio study found **two productive uses only**: GenAI as visual stimulus in early ideation, and as a **combinatorial expander of the solution space during development**. Usefulness was phase-specific.
 - **"Creativity gains are too diffuse to measure."** In a **31-student subgroup**, creative-thinking scores rose from **77.23 to 94.68 (d = 0.82)**. The gain is measurable and it is bounded to a subgroup, which is the honest form of the claim.
-
-## Connected Concepts
-
-- [[design-thinking]]
-- [[creativity]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[arts-and-media-education]]
-- [[engineering-education]]
-- [[professional-training]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[discipline-specific-aied]]
-- [[regulation]]
-
-## Connected Articles
-
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-mediated-cognitive-divergence-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[genai-architecture-education]]
-- [[genai-architectural-design-studios]]
-- [[genai-usage-design-students-survey]]
-- [[project-based-digital-storytelling-art-design-2026]]
-- [[t2i-competence-paradox-2026]]
-- [[same-ai-different-pathways]]
-- [[yasar-llms-iterative-pedagogical-design-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — An architectural-design experiment in which a DALL-E 3 workflow lowered general creative self-efficacy
-- [[human-ai-collaboration-design-education-rubric-2026]] — A process rubric can make AI verification the graded object
-
-- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — attitude as the necessary gate on design students' intention to use AI agents, with task–technology fit as a second path (Chu & Liu 2026)
-- [[han-prompt-literacy-ai-dependence-design-2026]] — Dependence type decides whether prompt literacy becomes engagement
-- [[mokryn-ai-anchor-synthetic-stakeholders-2026]] — Simulated stakeholders frame a design problem or merely confirm it, depending on interview order

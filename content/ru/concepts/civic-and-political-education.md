@@ -21,6 +21,8 @@ ai_assist:
 translation_of: concepts/civic-and-political-education
 source_updated: "2026-11-11T07:40:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -87,28 +89,3 @@ translation_note: "Автоматический перевод данной ан
 **«Лучшие промпты дадут лучшие гражданские уроки».** Интерактивный вариант дал минимальную разницу, и все три чат-бота произвели одну и ту же структуру по 53 стандартам. Качество промпта не вернуло дисциплинарную фактуру.
 
 **«Доказательств достаточно, чтобы направлять практику».** Их достаточно, чтобы обосновать осторожность. Один контент-анализ, один документальный синтез, одно небольшое [[mixed-methods-research|исследование смешанными методами]] и несколько концептуальных или политических работ не устанавливают, что работает.
-
-## Связанные понятия
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — зонтик: что учащимся нужно знать о системах ИИ
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — сгенерированная дезинформация и убеждение как общественный вред
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## Связанные статьи
-
-- [[civic-education-ai-lesson-plans]] — 310 сгенерированных ИИ планов занятий для 53 стандартов гражданского образования: 90% низкого порядка, 94% без мультикультурного содержания (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — алгоритмическое пограничное управление и пять требований гражданской цифровой грамотности в Южной Африке (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — интервью с экспертами и опрос студентов о критической медиаграмотности и партисипативном гражданстве (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — цели финских учителей в образовании в области ИИ, прочитанные через квалификацию, социализацию и субъектификацию
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — видения научной грамотности, включая гражданскую жизнь и демократическое участие (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — редакционная статья, называющая дипфейки и автоматизированную дезинформацию угрозами демократии (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — политика образования взрослых и гражданская цель обучения на протяжении жизни (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 документов управления; демократия и верховенство права названы в 92, юридическая сила — в четырёх (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — демократический довод в терминах политической теории: эрозия практики, механизмы и ставки авторитаризма

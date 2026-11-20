@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
+connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -50,7 +52,6 @@ ai_assist:
 ترث أنظمة التوصية السلوكية منطق [[machine-learning|الترشيح التعاوني]]: يُفترض أن المتعلّمين ذوي التواريخ المتشابهة يريدون موارد متشابهة، فيتنبئ النظام من التلازم في الظهور بدلًا من المحتوى. وهذا قوي حيث تكون البيانات كثيفة وهشّ حيث لا تكون. ويُصرّح [[fair-explainable-edu-recommendations|Evangelista وBukhari (2026)]] بالمشكلة بوضوح — تمنح أنظمة التوصية المركّزة على الدقة دعمًا أقل موثوقية للطلاب ذوي سجلات المشاركة المحدودة بينما تهيمن الموارد الشعبية على القوائم — ويجيبان عنها بإطار Hybrid HKG-GRU الذي يُضمّن [[knowledge-graph]] غير متجانس لمواد المقرر وينمذج متتاليات المتعلّمين بـGRU، ثم يدرّب على المتانة عبر فئات المتعلّمين (GroupDRO) ويعيد الترتيب لتنوع الانكشاف (Maximal Marginal Relevance). وعلى سجلات Moodle من 152 طالبًا و59 موردًا ونحو 150,000 تفاعل، بلغ HR@10 = 0.68 وMRR = 0.41، لكن انحيازًا شعبيًا جوهريًا بقي على مستوى الفهرس — دليل على أن [[bias-mitigation|تخفيف الانحياز]] جزئي.
 
 يمكن لخط أساس خفيف أن يتجاوز النماذج العميقة تجاوزًا صريحًا. قارن [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi وآخرون (2026)]] سبعة أنظمة توصية على NedBox، منصة للهولندية كلغة ثانية، وتصدّر نموذج البنود-البنود الضحل EASE كل المقاييس — AUROC 0.955، وMAP 0.283، وNDCG@3 0.205، وNDCG@5 0.279 — متقدمًا على المشفّر التبايني العميق MVAE (AUROC 0.949) وعلى التجميع PentaForest (0.953)، بينما كان تحليل المصفوفات الأسوأ (IALS 0.719، UKNN 0.767). وتتكامل إشارتا التوصية و[[knowledge-tracing|تتبع المعرفة]] أيضًا: إعادة ترتيب أفضل عشرة لدى EASE بحسب الكفاءة المتوقعة رفعت NDCG@3 بنحو 3%.
-
 
 تستبدل أنظمة التوصية الدلالية التلازم بالبنية. يبني [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu وSun وSong (2026)]] رسمًا بيانيًا معرفيًا لموارد التدريس ومفاهيم اللغة والمهارات ومجموعات المتعلّمين وخصائص [[pedagogy|البيداغوجيا]]، ويحلّلان كل مورد على أربعة أبعاد تعليمية — سياق التدريس، والمستوى المعرفي، والسمة التقنية، والقابلية للتأقلم الثقافي. ويوسّع التوصية الانتشار على k-hop فوق الرسم من متطلبات متعلّم المصرّح بها، وينقّي المرشحين بمرشّح تعاوني قائم على الخصائص، ويرتّبهم بمعامل دمج يرتفع مع مؤشرات قدرة المتعلّم وتقدّمه واهتمامه، فيحصل المتعلّمون الأقل تقدمًا على إرشاد أكثر بنيوية من الرسم بينما يتكئ متعلمو القدرة الأعلى على نمطهم السلوكي. وعلى المجموعة الفرعية الإنجليزية من بيانات MARS (4,800 مستخدم، و14,200 مورد، و132,000 تفاعل، وتفرّق 0.9981) بلغ NDCG 0.625 وHR 0.751، بتحسّن يقارب 7–8% على أفضل خط أساس عصبي، وتفوّق على خطوط الأساس الواعية بالرسم بما فيها RippleNet وKGAT في التغطية ودقة المجالات المتقاطعة. ويُظهر الاستبعاد أن الإشارات متكاملة (NDCG للمرشّح التعاوني وحده 0.584، وللرسم المعرفي وحده 0.604)، ويلاحظ المؤلفان أن هذه مقاييس ترتيب لا دليل على [[learning-gains|فعالية التعلّم]].
 
@@ -101,42 +102,3 @@ ai_assist:
 **"البيانات المتفرّقة إزعاج تقني."** عند مستويات التفرّق الواردة في هذه الأدبيات (0.9981) لا يرى النظام شيئًا تقريبًا، ما يجعل البدء البارد والانحياز للشعبية بنيويين لا قابلين للإصلاح بالضبط. فنظام توصية مدرَّب على تلك الإشارة سيعرض بصورة منهجية ما هو شائع أصلًا، والمتعلمون الهادئون أو غير المعتادين هم من لا يستطيع رؤيتهم.
 
 **"القابلية للشرح سمة تقريرية."** إن كان المدرّس أو المتعلّم قادرًا على تدقيق توصية فذلك شرط مشروعية: فالمسار الذي لا يستطيع الطالب فحصه هو مسار لا يستطيع الاعتراض عليه، وهذه مشكلة حوكمة قبل أن تكون مشكلة واجهة.
-
-## مفاهيم مترابطة
-
-- [[knowledge-graph]] — تمثيلات منظّمة للمفاهيم والموارد وعلاقات المتطلبات السابقة
-- [[explainable-ai]] — الشرح كسمة تصميم تتوسط القابلية للفهم والثقة
-- [[curriculum-design]] — قرارات الترتيب التي تنمذجها أنظمة التوصية وتستنتجها وتعيد إنتاجها
-- [[learning-design]] — المتتالية المخطّطة من الأنشطة التي تعمل عليها تحليلات المسار
-- [[learning-analytics]] — البيانات والأساليب الكامنة وراء التوصية، ومحلّ التدقيق
-- [[cognitive-diagnosis]] — تشخيص حالات المعرفة التي تبذر مسارات المعالجة
-- [[knowledge-tracing]] — نمذجة الإتقان عبر الزمن لتقرير ما جاهز له متعلّم
-- [[student-modeling]] — تمثيلات المتعلّم التي تستهلكها التوصية
-- [[personalized-learning]] — الهدف الأوسع؛ وهذه الصفحة تغطي قرار الاختيار
-- [[adaptive-learning]] — آلية الضبط في الزمن الحقيقي؛ وهذه الصفحة تغطي الترتيب والتسلسل
-- [[intelligent-tutoring]] — المنصة التي تتصرف بناءً على التوصيات في الحوار
-- [[bias-mitigation]] — تدخلات الإنصاف في الترتيب والانكشاف
-- [[equity-in-ai-education]] — الفروق على مستوى الفئات في جودة التوصية
-- [[human-in-the-loop-ai]] — إشراف على التنقل الآلي في الموارد
-- [[self-directed-learning]] — مسارات يصونها المتعلّم وملاحة مدى الحياة
-- [[lifelong-learning]] — تعلّم ذو بنية رسمية بيانية أبعد من متتالية شهادة
-- [[trust-calibration]] — مواءمة الاعتماد على موثوقية التوصية
-- [[student-support-and-success]] — توصية الدعم والموارد والمسارات الأكاديمية
-
-## مقالات مترابطة
-
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — ترشيح تعاوني هجين زائد رسم بياني معرفي لموارد التدريس متعددة الوسائط، مع دمج واعٍ بالقدرة والتقدم (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — مُوصٍ برسم بياني معرفي غير متجانس + GRU مع إنصاف GroupDRO وقابلية شرح مضادة للواقع (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — الشروح المقودة بالمجال تبني ثقة مدرّسين أكثر من مخططات أهمية الخصائص (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — تعلّم علاقات المتطلبات السابقة بقيد عدم قابلية للانعكاس للاتساق الاتجاهي (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — التوصية بتدريب البرمجة بتشابه المكوّنات المعرفية القائم على الأنماط (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — تحليل بماركوف وتنقيب أنماط لـ29,064 نشاطًا مصمّمًا عبر 554 مقررًا (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — تشخيص Bayesian DINA وأقصر مسارات معالجة، توسطها الحِمل المعرفي (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — رسم أسئلة مساعدي التدريس الذكيين على رسم بياني للمتطلبات السابقة مستخرج بـGPT-4 لإيجاد فجوات على مستوى المنهج (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — رسوم اللياقة المعرفية كبديل عن المناهج الثابتة في تعلّم مدى الحياة (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — تصنيف خمسي المستويات يُظهر أن معظم تفاعل الإنسان والذكاء الاصطناعي استشارة لا تعاون (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — دعم الاستقلالية مقابل الضغط يتنبئ بمسارات ذكاء اصطناعي بناءة أو قهرية (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — مراجعة PRISMA لاتجاهات التعلّم المخصص والمسارات ونماذج التوصية (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: معيار تخطيط متمركز حول المعرفة يُظهر أن النماذج اللغوية الكبيرة تبلغ 90.9% صلاحية لكن 44.3% فقط تكيفية (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — توصية التمارين كقرار متسلسل فوق متتبع مؤَسّس دلاليًا
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — تجميع سلوكي لـ14,003 سجل في ستة ملفات، مرسومة إلى كائنات التعلّم بإطار توصية منظّم للتنوع (Najem et al. 2026)

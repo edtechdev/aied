@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -84,7 +86,6 @@ ai_assist:
 
 এই উদ্বেগ কাল্পনিক নয় — তার সবচেয়ে জোরালো প্রমাণ আসে [[personalization-paradox-adaptive-learning-emotions-2026|486 চীনা স্নাতকের তিন-তরঙ্গ দীর্ঘমেয়াদি গবেষণা (লি, লিন ও কিউ, 2026)]] থেকে। এটি দেখে শিক্ষার্থীরা তাদের এআই-অভিযোজিত পরিবেশকে যত বেশি ব্যক্তিগতকৃত মনে করেছে, তাদের [[self-regulated-learning|স্ব-নিয়ন্ত্রিত শিখন]] তত *কম*। গবেষণাটি এটির নাম দেয় "ব্যক্তিগতকরণ-বিরোধিতা"। একাডেমিক আবেগের পরিবর্তনই বেশিরভাগ প্রভাব বহন করে: অভিযোজিত পরিবেশের মুখোমুখি হওয়া কম আনন্দ এবং বেশি [[anxiety-and-stress|উদ্বেগ]] ও একঘেয়েমির পূর্বাভাস দেয়, আর সেই আবেগ-পরিবর্তনগুলো একসঙ্গে ব্যক্তিগতকরণ ও হ্রাসপ্রাপ্ত স্ব-নিয়ন্ত্রণের সম্পর্কের প্রায় অর্ধেক ব্যাখ্যা করে। [[ai-literacy|এআই সাক্ষরতা]] ক্ষতিটি প্রশমিত করে, উচ্চ সাক্ষরতায় নেতিবাচক আবেগ-সম্পর্ককে অ-তাত্পর্যপূর্ণ করে তোলে। তাই ব্যক্তিগতকরণ অভিযোজিত মিল কিনতে পারে শিক্ষার্থীর নিজের [[regulation|নিয়ন্ত্রণমূলক]] কার্যকলাপের খরচে, আর গবেষণাটি দেখায় সেই খরচের চ্যানেল কেবল সংজ্ঞানাত্মক ভার নয়, আবেগগত অভিজ্ঞতাও।
 
-
 যেখানে কোনো পথের পেছনের নির্ণয় বৈধ, সেখানে ব্যক্তিগতকরণ লাভ দেয় বেশি ঢেকে নয়, ভার কমিয়ে: ন্যূনতম-পথ প্রতিকার গড়ে 3.82 ধাপ আর পড়ার সময় 22.0% কাটে (57.6 বনাম 73.8 মিনিট), পরবর্তী-পরীক্ষার প্রভাবে সংজ্ঞানাত্মক ভার 53.7% বহন করে ([[bayesian-cognitive-diagnosis-personalized-learning-paths|ফেং ও হুয়াং, 2026]])।
 
 হাতিয়ারের পক্ষের প্রমাণ ছোট মাপে নেতিবাচকও হতে পারে: পাঁচ দিনের প্রাথমিক-শ্রেণির ভগ্নাংশ-পরীক্ষায় (চূড়ান্ত n = 22), স্বাভাবিক-অনুশীলন দল এআই-অভিযোজিত Mathbot দলের চেয়ে উল্লেখযোগ্যভাবে বেশি বোধগম্যতা-লাভ দেখায়, আর লেখকেরা শ্রেণি-স্তরের জটিলতা, অনুমান ও লাইসেন্স-খরচকে সীমা হিসেবে চিহ্নিত করেন — "অভিযোজিত" লেবেল নিজে কোনো প্রভাব বহন করে না ([[ai-powered-personalized-learning-elementary-fractions-2026|হলম্যান (2024)]])।
@@ -149,43 +150,3 @@ GRADE নিশ্চিততা খুবই নিম্ন রেট কর�
 
 - যে নির্মাণ আপনি মাপেন তাতে ব্যক্তিগতকরণ ও অভিযোজন গুলিয়ে ফেলা বন্ধ করুন, আর স্পষ্ট বলুন কোন প্রক্রিয়া প্রভাবটি তৈরি করেছে।
 - স্বাভাবিকীকৃত শিখন-লাভকে প্রধান ফলাফল হিসেবে রিপোর্ট করুন; গবেষণাসাহিত্যে তার বিরলতা উত্তরাধিকারসূত্রে পাওয়া রীতি নয়, বরং পূরণ করার ফাঁক।
-
-## সংযুক্ত ধারণা
-
-- [[adaptive-learning]] — অভিযোজিত ব্যবস্থা যা রিয়েল-টাইমে শিক্ষার্থীর জন্য বিষয়বস্তু, গতি ও কাঠিন্য সাজায়
-- [[intelligent-tutoring]] — টিউটরিং ব্যবস্থা যা শিক্ষার্থীকে মডেল করে স্বতন্ত্রকৃত নির্দেশনা দেয়
-- [[student-modeling]] — শিক্ষার্থীর জ্ঞান, দক্ষতা ও অবস্থা উপস্থাপন, যা অভিযোজন চালায়
-- [[knowledge-tracing]] — সময় জুড়ে কর্মক্ষমতা থেকে জ্ঞান-উপাদানে দক্ষতা অনুমান
-- [[cognitive-diagnosis]] — প্রতিক্রিয়া থেকে শিক্ষার্থীর সুপ্ত জ্ঞান ও বৈশিষ্ট্য নির্ণয়
-- [[scaffolding]] — ব্যক্তিগত শিক্ষার্থী-প্রয়োজন অনুযায়ী সমন্বিত সহায়তা ও ফেডিং
-- [[student-experience]] — ব্যক্তিগতকরণের প্রতি শিক্ষার্থীর জীবন্ত অভিজ্ঞতা
-- [[learning-analytics]] — শিখনের তথ্য-চালিত পরিমাপ যা অভিযোজনকে তথ্য জোগায়
-- [[formative-assessment]] — চলমান মূল্যায়ন যা সংকেত দেয় পরবর্তী কী অভিযোজিত হবে
-- [[summative-assessment]] — প্রান্তিক মূল্যায়ন যার তুলনাযোগ্যতা ব্যক্তিগতকরণ জটিল করে
-- [[generative-ai]] — LLM-ভিত্তিক সংলাপমূলক ব্যক্তিগতকরণ
-- [[edtech-platform]] — প্ল্যাটফর্ম যা বড় মাপে ব্যক্তিগতকৃত শিখন দেয়
-- [[higher-ed]] — ব্যক্তিগতকরণের উচ্চশিক্ষা-প্রেক্ষাপট
-- [[online-teaching-and-learning]] — অনলাইন শিক্ষণ ও শিখন
-- [[recommender-systems-and-learning-paths]]
-
-## সংযুক্ত নিবন্ধ
-- [[bespoke-industry-personalized-lecture-videos-2026]] — বীজ ট্রান্সক্রিপ্ট থেকে শিল্প-ব্যক্তিগতকৃত বক্তৃতা-ভিডিও পুনরুৎপাদন: শ্রোতা-স্তরের সাজানো, ক্ষেত্র-বিশেষজ্ঞদের দ্বারা রেটকৃত (প্যুশ প্রমুখ 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — একটি এআই শিক্ষণ-সহায়কের প্রম্পট-প্রকৌশল সূক্ষ্ম-ব্যক্তিগতকরণ (বসু, কাকার ও গোয়েল 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — এআই টিউটরিং একক কিছু নয়: আমরা আসলে যা জানি (স্ট্যানফোর্ড SCALE/NSSA সংক্ষিপ্তসার)
-- [[mishra-control-vs-agency-history-2025]] — ব্যক্তিগতকরণের দুই রূপের পার্থক্য (অভিন্ন বনাম বিচিত্র ফলাফল)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — ব্যক্তিগতকৃত শিখনের পুনঃসংজ্ঞা: পদ্ধতিগত পর্যালোচনা
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — টিউটরিংয়ের জন্য এজেন্ট-নেটিভ ব্যক্তিগতকরণ-ভিত্তি
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — ব্যক্তিগতকৃত ই-শিখনের জন্য অন্টোলজি-ভিত্তিক স্তরিত সংকর জ্ঞান-মডেল
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — প্রাথমিক-শ্রেণির ভগ্নাংশের জন্য ব্যক্তিগতকৃত অভিযোজিত শিখন
-- [[ai-coaching-rl-skill-development]] — দক্ষতা-উন্নয়নের জন্য রিইনফোর্সমেন্ট-লার্নিং কোচিং
-- [[personalized-ai-generated-videos-preference-2026]] — শিক্ষার্থীরা অ-ব্যক্তিগতকৃত মানব-রেকর্ডেড ভিডিওর চেয়ে ব্যক্তিগতকৃত এআই-উৎপাদিত ভিডিও পছন্দ করে (টমলিনসন প্রমুখ 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — ব্যক্তিগতকৃত শিখন-পথের জন্য বায়েসীয় সংজ্ঞানাত্মক নির্ণয়
-- [[graph-its-adaptive-algorithms-2026]] — গতিশীল ডোমেইনের জন্য গ্রাফ-ভিত্তিক বুদ্ধিদীপ্ত টিউটরিং (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT-সমৃদ্ধ গঠনমূলক মূল্যায়নে প্রশিক্ষক ও এআই-এর ভূমিকা
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — চিহ্নিত শিক্ষাবিজ্ঞান: ব্যক্তিগতকৃত স্বয়ংক্রিয় প্রতিক্রিয়ায় পক্ষপাত
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — পদ্ধতিগত পর্যালোচনা: অভিযোজিত পথ ও সুপারিশকারী উচ্চশিক্ষায় এআই-একীকরণের শীর্ষ প্রয়োগ
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — ত্রুটিপূর্ণ কিন্তু স্মরণীয়: কম্পিউটিং শিক্ষায় আগ্রহ-ব্যক্তিগতকৃত GenAI উপমার শিক্ষার্থী-সমালোচনামূলক অভ্যর্থনা
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — ব্যক্তিগতকরণ-বিরোধিতা: অনুভূত অভিযোজিত ব্যক্তিগতকরণ একাডেমিক আবেগের মাধ্যমে কম স্ব-নিয়ন্ত্রিত শিখনের সঙ্গে যুক্ত, এআই সাক্ষরতায় প্রশমিত (লি, লিন ও কিউ 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM পরিকল্পকরা 90.9% বৈধতায় পৌঁছায়, কিন্তু ঘোষিত শিক্ষার্থী-লক্ষ্যের দিকে পথ ব্যক্তিগতকৃত করতে কোনো মডেল 44.7% অভিযোজনযোগ্যতা ছাড়ায় না (লিউ প্রমুখ 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — চারটি গবেষণা, বড় পুলড প্রভাব, এবং খুবই নিম্ন নিশ্চিততা

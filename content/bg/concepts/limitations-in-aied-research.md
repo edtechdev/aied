@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -45,10 +47,8 @@ AI в образованието е бързо развиваща се, хете
 
 - **Обобщаемост.** Откритията от един курс, институция, дисциплина или национален контекст може да не се пренасят. Малки, удобни или едноинституционални извадки ограничават външната валидност; резултатите от един AI инструмент рядко се разпростират върху различен инструмент или контекст.
 
-
 - **Междунационалните сравнения на убеждения носят риск за измерването.** Проучване в пет държави на 1,405 учители в [[k-12|K-12]] използва автоматичен машинен превод без обратен превод или тестване на инвариантността на измерването и измерва загрижеността за [[academic-integrity|плагиатство]] и [[creativity|творчество]] с единични въпроси, така че страновите контрасти не могат да се четат като еквивалентни конструкции ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 - **Строгостта на ниво синтеза е отделна ос от строгостта на първичното проучване.** Един мета-анализ може да удовлетвори собствените си критерии за включване и все пак да обедини проучвания, които се различават по дизайн, вярност на внедряването и мярка за резултата, без да претегля нито едно от тях: [[ai-supported-instruction-stem-meta-analysis-2026|Doğan и колеги (2026)]] заявяват направо, че не са използвали формален инструмент за оценка на качеството и са третирали критериите за включване като праг за строгост, така че квази-експериментално и рандомизирано проучване са допринесли еднакво за обединената оценка за [[stem-education|STEM]]. Същият преглед показва и свързана опасност при докладването: хетерогенността му е цитирана като I² = 82,98% при модел с фиксирани ефекти и I² = 15,75% при модел със случайни ефекти, което означава, че читателите, които извадят едно число за хетерогенността без неговия модел, не могат да разберат колко непоследователен е корпусът всъщност. Оценявайте синтеза по това как е обработвал зависимите размери на ефекта, качеството и хетерогенността, а не само по това дали е следвал протокол за търсене.
-
 
 - **Дизайнът на търсенето задава числата в заглавието на синтеза.** В обхватен преглед на 195 проучвания за [[teacher-education|подготовка на преподаватели]] дигиталната компетентност и [[tpack|TPACK]] са били изрични дескриптори за търсене, докато дизайнът на обучението и оценяването не са имали еквивалент, така че докладваните 46,5% и 1,9% характеризират корпуса, който търсенето е върнало, а не областта ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Малки размери на извадката.** Много AIED проучвания са с недостатъчна мощност — твърде малко участници, за да се открият надеждно значими ефекти или да се подкрепят силните твърдения, които понякога се правят от тях.
@@ -127,48 +127,3 @@ AI се променя непрекъснато и заключенията, и�
 - **„Разделите с ограничения са клишета.“** Методологичните граници са **измерими, а не импресионистични**: в критичен преглед на **80 HCI проучвания** на критичното мислене с AI **42 (52%) не са имали контролна група**. Точният брой е това, което прави границата приложима.
 - **„Хетерогенността е едно число, което можеш да цитираш.“** Същият преглед показва опасност при докладването: хетерогенността се цитира като **I² = 82,98% при модел с фиксирани ефекти и I² = 15,75% при модел със случайни ефекти**. Едни и същи данни дават разказ от девет точки или от две точки в зависимост от избрания модел, така че цитиран I² без модела си е неразбираем.
 - **„Големият докладван ефект е числото, на което да се довериш.“** Заглавие като ефект от **30 студенти в един курс на едно място** е обичайната форма на крехко твърдение, а броят на проучванията без контрол показва колко често тази крехкост остава недокладвана.
-
-## Свързани концепции
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Развитие на теорията в AI в образованието
-
-## Свързани статии
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI чатботите във висшето образование: очаквания срещу доказателства (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Надеждност и валидност на основната истина при оценяването
-- [[ai-literacy-assessment-misalignment]] — Самодокладвана срещу основана на изпълнение AI грамотност
-- [[machines-misread-pedagogical-quality]] — Защо машините погрешно разчитат педагогическото качество
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Критични граници на AI наставничеството и използването на теория
-- [[cross-dataset-bloom-question-classification]] — Таксономията на Блуум и класификацията на въпроси
-- [[eeg-familiarity-automated-assessment-2026]] — Автоматизиране на оценяването на обучаеми: предсказване на познатост чрез EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (критика на сравнението между медии)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Мета-мета-анализ: коригираните за публикационно отклонение AI ефекти са ~1/3 от докладвания размер
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: щателен одит на 14 AIED мета-анализа
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: емпирична рамка за докладване на подпомагани от AI систематични прегледи
-- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Критериите за включване като праг за строгост и число за хетерогенността, което се променя с модела (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Клъстерно рандомизирано изпитание в класна стая, чийто резултат за представяне не достигна значимост (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI и човешко наставничество дават еквивалентни учебни печалби по GRE
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Оценяване на фокуса на обратната връзка и педагогическата адаптивност в генерирана от LLM обратна връзка върху студентско писане
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: базирани на твърдения схеми за подлежащо на одит кодиране на образователни диалози
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Обхватен преглед на 195 проучвания за подготовка на преподаватели, където дизайнът на търсещия низ оформя докладваните честоти
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Междунационална анкета на учители в K-12: машинно преведени въпроси, единични мерки за загриженост, без тестване на инвариантност
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Систематичен преглед на 103 проучвания за GenAI във висшето образование: 56% условни печалби, оценки, маскиращи промяна в процеса (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Увеличаването на данни може да произведе показателя от заглавието

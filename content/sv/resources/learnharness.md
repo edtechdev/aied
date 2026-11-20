@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -45,10 +46,3 @@ Självständiga lärar som arbetar med svårt material, och lärare eller utveck
 ## Anteckningar och förbehåll
 
 Gratis täcker programvaran, inte inferensen: elever tar med egna leverantörsnycklar, en prenumeration, en lokal Claude Code CLI eller vilken OpenAI-kompatibel slutpunkt som helst, och betalar leverantören utan påslag; en live-mätare uppskattar bara kända API-kostnader. Poster, chattar och nycklar stannar på maskinen som vanliga filer, men projektet varnar för att lokal lagring inte betyder offlinebehandling, eftersom modellförfrågningar, valfri diktering och webbaserad research alla når externa tjänster. Installationsprogrammet för Windows x64 är osignerat, så Windows varnar. Ingen effektstudie rapporteras, så argumentet vilar på angiven motivering snarare än mätta resultat; förrådet hade ungefär 4 800 stjärnor vid kontroll den 2 november 2026.
-
-## Anslutna begrepp
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

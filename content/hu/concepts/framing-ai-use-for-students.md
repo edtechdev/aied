@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -97,37 +99,3 @@ A diákokat az [[ai-education|MI oktatásbeli]] szélesebb médiája és nyilvá
 **„Egy eszköz betiltása megszünteti a viselkedést.”** Áthelyezi olyan eszközökbe, amelyeket nem lát. A diákok már most is előnyben részesítik a magánúton elérhető eszközöket az intézmény által biztosítottakkal szemben, így a tiltás kiűzi a használatot az egyetlen olyan környezetből, ahol támogatás, naplózás vagy útmutatás lehetséges. A keretezés feladata az, hogy az engedélyezett viselkedést tegye vonzóvá, ne hogy a tiltott viselkedést tegye nehezebben megfigyelhetővé.
 
 **„A keretezés meggyőzés, tehát inkább retorika, mint tervezés.”** Az ezen az oldalon leírt keretezés tervezéssel párosul: az elvárásokat világosan és ismételten megfogalmazzuk, *miközben a diákok köré tervezünk*. Az üzenetküldés a tervezés helyett az a változat, amely kudarcot vall, mert a diákok észreveszik a különbséget egy kimondott elköteleződés és egy tényleges között.
-
-## Kapcsolódó fogalmak
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Kapcsolódó cikkek
-
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 szakértő konszenzusa a sorrendről: GenAI nélkül elsajátítani, vele konszolidálni, majd magunk gondolkodni
-- [[mccorkle-aligned-genai-course-policy-2025]] — Átlátható indoklás minden engedélyezett és nem engedélyezett GenAI-használathoz, feladatról feladatra (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — A GenAI megfelelő használatának bátorítása a zavarkeltésként való elítélése helyett
-- [[student-rationalization-ai-writing]] — Az „öt helyszín”, ahol a diákok racionalizálják az MI-használatot az akadémiai írásban
-- [[student-regulatory-awareness-genai]] — A szabályok ismerete nem elég: szabályozási tudatosság és tényleges használat
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Az MI-szorongástól a stratégiai szabályozásig
-- [[chatgpt-inoculation-training-verification-2026]] — Inokulációs üzenetek és ellenőrzési viselkedés
-- [[ai-fallibility-warning-help-seeking]] — Az MI tévedhetőségére való figyelmeztetés növeli a segítségkérést
-- [[shame-guilt-ai-regulation-computing-education]] — A szégyen és a bűntudat mint az MI-használat társadalmi szabályozói
-- [[access-not-enough-ai-tutoring-2026]] — Az emberi támogatás javítja az elköteleződést az MI-tutorálásban
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-alapú elköteleződés a GenAI-val
-- [[ai-availability-student-motivation]] — Hogyan formálja a tanulói motivációt az MI elérhetősége
-- [[youtube-frames-chatgpt-education]] — Hogyan keretezi a YouTube a ChatGPT oktatásbeli használatát
-- [[ai-ethics-education-public-discourse]] — Nyilvános diskurzus az MI etikájáról az oktatásban
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Az oktatók kritikai/felelős használatként keretezik az MI-t; a munkaadók produktivitásként
-- [[ssaho-ai-academic-integrity-review-2025]] — Az akadémiai integritás kultúrájának építése világos elvárásokon keresztül

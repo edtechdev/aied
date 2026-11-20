@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -76,35 +78,3 @@ ai_assist:
 - **"学生分辨不出 AI 与人类助教。"** 一项虚拟实验助教研究发现，**人类助教比 ChatGPT 更准确、更有效**，然而学生**有 40% 的时候更喜欢 AI 的回答**，且只能**测出 45% 的 AI 输出**。检测接近抛硬币，而偏好却流向更不准确的来源，因此满意度数据在此不能替代质量。
 - **"偏好就代表质量。"** 同一项研究直接把两者分开：被偏好的那个输出是更差的那个。任何一项只报告学生满意度、却不报告准确性度量的生物学 AI 工具评价，报告的都是错误的量。
 - **"AI 素养必须作为独立科目来教。"** 把机器学习概念**嵌入高中生物课**的研究发现，生物学情境**支持**了 AI 学习，这是把 AI 素养嵌入课程、而非附加一个独立单元的证据。学科给了这些概念可以附着的东西。
-
-## 关联概念
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## 关联文章
-- [[llm-open-ended-questions-biology-statistics-2026]] — 评估大语言模型在开放式问题上的表现：回答与评分能力
-- [[biology-degree-integrity-genai-cheating-2026]] — 学生能靠作弊拿到生物学学位吗？生成式 AI 时代生物学课程成绩易受学术不端影响的一个案例研究
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT 作为虚拟实验助教
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — 生物教育中 AI 工具的综述
-- [[critical-thinking-biological-sciences-ai-2025]] — 生物科学与 AI 中的批判性思维
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT 在挑战式生物/数学课程中的使用
-- [[zha-ai-literacy-biology-case-study]] — 生物课堂中的 AI 素养教育
-- [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升准生物学教师的 PISA 对齐论证技能

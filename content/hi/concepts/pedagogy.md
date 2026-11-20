@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -99,53 +101,3 @@ ai_assist:
 - **"शिक्षकों को सबसे अधिक तकनीकी AI ज्ञान चाहिए।"** **46 शिक्षकों और 2,832 छात्रों** में, **शिक्षक का शैक्षणिक AI ज्ञान** छात्रों की सामाजिक अच्छाई के लिए AI की अनुभूतियों का पूर्वानुमानक था। शैक्षणिक ज्ञान ने तकनीकी ज्ञान से बेहतर प्रदर्शन किया, जो इस बात को उलट देता है कि अधिकांश प्रशिक्षण निवेश कहाँ जाता है।
 - **"शिक्षा में AI का मुख्य योगदान निर्देशात्मक है।"** **28 अध्ययनों के PRISMA समीक्षा** ने पाया कि AI ने सबसे अधिक बार **निर्देशात्मक नियोजन और मूल्यांकन डिज़ाइन** को बढ़ाया; सबसे स्पष्ट योगदान **प्रशासनिक काम का ऑफलोडिंग** है, पढ़ाना नहीं। निर्देशात्मक लाभों के इर्द-गिर्द बना मामला प्रमाण की कमजोर शाखा पर खड़ा है।
 - **"AI साक्षरता निर्देश स्वतः बेहतर शिक्षण में स्थानांतरित हो जाता है।"** **59 अध्ययनों (172 प्रभाव आकार)** का तीन-स्तर मेटा-विश्लेषण पाया कि **ज्ञान-केंद्रित हस्तक्षेप (g ≈ .97)** ज्ञान को हिलाने में अन्य दृष्टिकोणों से स्पष्ट रूप से बेहतर थे। ज्ञान को हिलाना मापा गया परिणाम है; क्या वह अभ्यास तक पहुँचा, अगला प्रश्न है।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-partnerships]] — शिक्षाशास्त्रीय साझेदारी
-- [[online-teaching-and-learning]] — ऑनलाइन शिक्षण और सीखना
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-
-- [[metaphors-and-analogies]] — शिक्षण तकनीक के रूप में रूपक और सादृश्य
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-
-- [[case-based-learning]] — शिक्षण तकनीक के रूप में केस विधि और विरोधाभासी केस
-
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — शिक्षाशास्त्रीय सिद्धांतों का पालन करने के लिए प्रशिक्षित AI उपकरण
-
-## संबंधित लेख
-
-- [[genai-didactic-pedagogical-mediator-2026]] — दिदैक्टिक-शिक्षाशास्त्रीय मध्यस्थ के रूप में जनरेटिव-AI: निर्देशक–छात्र–जनरेटिव-AI त्रिपदीय मॉडल (मोगनादस सहित 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'पहले शिक्षाशास्त्र, दूसरी प्रौद्योगिकी' — छात्र परिणामों के लिए TPAIK तकनीकी TAIK से भारी (शेन सहित 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — जनरेटिव-AI के साथ शिक्षाशास्त्रीय साझेदारी
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — निर्देशात्मक मार्गदर्शन जनरेटिव-AI सीखने के प्रभावों को कैसे आकार देता है
-- [[generative-ai-guardrails-harm-learning]] — गार्डरेल किया गया (संकेत-नहीं-उत्तर) ट्यूटरिंग परीक्षा दंड को समाप्त करता है
-- [[agentic-ai-pedagogical-best-practice-2026]] — एजेंटिक AI में स्वचालन-बनाम-सीखना तनाव
-- [[jeon-isd-agent-bench-2026]] — एजेंटों को निर्देशात्मक-डिज़ाइन सिद्धांत में आधारित करना
-- [[ai-learning-tools-engineering-education-needs]] — इंजीनियरिंग शिक्षा में AI सीखने के उपकरण
-- [[fowlin-operationalizing-learning-principles-ai]] — AI के साथ सीखने के सिद्धांतों को परिचालित करना
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI और निर्देशात्मक डिज़ाइन प्रथा: एक व्यवस्थित समीक्षा (किबार और इलगाज़ 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI साक्षरता हस्तक्षेपों में निर्देशात्मक दृष्टिकोण
-- [[cognitive-distribution-student-genai-interaction-2026]] — स्थिर निर्भरता नहीं, बदलता संज्ञानात्मक वितरण (53.3% विस्तार)

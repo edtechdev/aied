@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
+connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -104,7 +106,6 @@ Adaptasi waktu uji adalah kontracontoh yang ditinggalkan klaim itu. Terhadap pro
 - **Siswa mengubah karya mereka agar lolos dari deteksi, bukan hanya jawaban mereka.** Laporan itu mendokumentasikan siswa yang menumpulkan jawaban mereka sendiri untuk menghindari tuduhan palsu, dan guru yang kembali ke penilaian informal — yang disebutnya AI-DAR — begitu detektor yang dipasarkan terbukti tidak andal ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
 - **Detektornya dimatikan, dan intuisi adalah semua yang tersisa.** Penilai sesi kehilangan detektor AI mereka di satu institusi karena alat itu menandai alat pemeriksa tata bahasa, sehingga mereka harus membaca untuk mencari referensi yang difabrikasi (sembilan belas dari dua puluh) dan keterputusan dari materi kuliah ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
-
 ## Melampaui deteksi: desain ulang penilaian
 
 Tema kunci dalam basis pengetahuan adalah bahwa deteksi seharusnya menjadi **alat yang terbatas dan situasional — bukan strategi pilihan pertama**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] berargumen bahwa pengawasan dan deteksi **salah mendiagnosis masalahnya**: dalam dunia yang dimediasi AI, keaslian tidak dapat dipaksakan menjadi ada melalui pengawasan; ia harus dirancang ulang. Mereka mengonsepkan ulang keaslian sebagai sesuatu yang dikonstruksi di tempat AI diharapkan, dinyatakan, dan ditelusuri, dan menawarkan pola desain-untuk-pembelajaran yang lintas disiplin yang memosisikan AI sebagai kolaborator alih-alih aplikasi kecurangan. Ini menghubungkan deteksi dengan [[authentic-assessment]], [[assessment-validity]], [[responsible-assessment-ai-era-stanford-2026|penilaian yang bertanggung jawab]], dan [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|integritas kepenulisan bersama]].
@@ -136,54 +137,3 @@ Pertanyaan konstruktifnya bergeser dari "bagaimana kita mencegah siswa memakai A
 **"Pertanyaan yang dijawab detektor adalah apakah tulisan itu manusia atau AI."** Biner itu secara konseptual cacat, bukan sekadar sulit dihitung. Bantuan penulisan berada pada sebuah kontinum, kebijakan sebagian besar institusi mengizinkan sebagiannya, dan tidak ada ambang pada skor keluaran yang memetakan ke batas yang dapat dipertahankan. Kegagalan yang terukur adalah kegagalan kebijakan: kategori yang dijanjikan detektor tidak ada dalam karya yang benar-benar diserahkan siswa.
 
 **"Rezim deteksi melindungi integritas."** Ia bisa melemahkannya. Deteksi menumbuhkan iklim kecurigaan yang menggerus [[trust]] antara siswa dan staf, dan literatur [[academic-integrity|integritas]] yang dilaporkan korpus ini menempatkan tuas yang bertahan lama pada desain ulang penilaian alih-alih pada pengawasan. Mekanisme perlombaan senjata juga berarti rezim itu terus menelan biaya lebih besar sambil mengukur lebih sedikit: tingkat penandaan garis dasar membentang **0,0% hingga 100,0%** di berbagai intensitas penyuntingan, yang bukan sinyal diskriminasi.
-
-## Konsep terkait
-
-- [[academic-integrity]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[legal-issues-and-risks]]
-
-## Artikel terkait
-
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 situs humanizer yang menampilkan legitimasi: deteksi dan penghindaran sebagai satu pasar komersial (Roe et al. 2026)
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Hipotesis bahwa penegakan menyaring berdasarkan modal akademik, bukan perilaku
-- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Delapan LLM memeringkat enam teknik penangkal kecurangan; deteksi AI berada paling akhir
-
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Dua puluh penilai tentang intuisi, detektor yang mati, dan referensi yang difabrikasi
-- [[tench-ai-policy-isnt-a-playbook-2026]] — Survei representatif nasional terhadap guru dan kepala sekolah AS tentang cakupan kebijakan AI, agensi, dan lima langkah kelas (Tench, Weinstein & James 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluasi di Era AI
-- [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Detektor Pemulihan Prompt Laten
-- [[ivory-psychology-assessment-integrity-2026]] — Deteksi adalah tuas yang salah: batas kelulusan yang menentukan apakah karya AI dinilai sebagai pencapaian (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Mengevaluasi LLM untuk Mendeteksi Konten yang Dihasilkan LLM
-- [[beyond-detection-authentic-assessment-ai-2025]] — Melampaui Deteksi: Penilaian Autentik
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian yang Bertanggung Jawab di Era AI
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Integritas Kepenulisan Bersama dan Validitas Penilaian
-- [[student-rationalization-ai-writing]] — Rasionalisasi Penulisan AI oleh Siswa
-- [[socially-fluent-ai-identity-detection]] — Deteksi Identitas AI yang Fasih Secara Sosial
-- [[ssaho-ai-academic-integrity-review-2025]] — Tinjauan atas keandalan deteksi plagiarisme/konten AI berbasis AI
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: detektor AI dalam pendidikan (Bassett et al. 2026)
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Mengapa keluaran detektor tidak dapat mendasari temuan pelanggaran
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Diskriminasi alih-alih tingkat tangkapan, dan kapan pemantauan menjadi bumerang
-- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin dan Originality pada 192 teks: keduanya di bawah F1 makro 0,55 dan nyaris tak berguna pada tulisan hibrida
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Empat detektor terhadap 160 makalah berkebenaran dasar; hanya Pangram yang tampil, namun menandai 45,5% tesis langsung
-- [[munoz-misconduct-allegation-evidence-2026]] — Keluaran detektor adalah jenis bukti paling rendah peringkatnya dalam 1.162 berkas kasus pelanggaran nyata
-- [[wright-transcription-not-generation-2026]] — Aturan "penggunaan AI" yang menyeluruh mencampuradukkan transkripsi dengan generasi
-- [[sharma-judgment-visible-genai-assessment-2026]] — Deteksi diturunkan menjadi lapisan pelengkap di belakang pertimbangan yang terlihat
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Deteksi sebagai sinyal bersyarat, dan mengapa respons keamanan menambah varians yang tak relevan dengan konstruk (Weidlich 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — Esai penerimaan yang ditulis AI tersebar luas tetapi dihukum
-- [[detecting-gpt-assisted-writing-stylometric-2026]] — Sembilan fitur stilometrik interpretabel: ROC-AUC 0,870 tetapi empat dari 18 dokumen yang ditulis mandiri ditandai (Kumar et al. 2026)
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Satu manuskrip manusia, lima detektor, klasifikasi dari "0% manusia" hingga "Human Generated", plus kemunduran institusional dari deteksi yang terdokumentasi (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: Integritas Akademik di Era AI Generatif
-- [[student-llm-code-detection-cs1-2026]] — Kode LLM konvergen pada tugas yang sangat dibatasi (1-14 bentuk AST per 1.000 berkas) tetapi tidak pada tugas bebas - keterdeteksian mengikuti desain tugas
-- [[kazakh-ai-text-detectors-2026]] — Tidak Terperiksa atau Dituduh Palsu? Mengevaluasi Detektor Teks Hasil AI pada Bahasa Kazakh

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, learning-design, open-source, intelligent-tutoring, scaffolding, ai-literacy, edtech-platform]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -44,8 +45,3 @@ Serve a instrutores e designers de aprendizagem que querem interações delimita
 ## Observações e ressalvas
 
 O nível gratuito é limitado a 10.000 créditos de IA e três aplicativos; aplicativos ilimitados e modelos avançados começam no nível Pro, e integração LTI, single sign-on e análises avançadas estão listadas no nível Enterprise, então as funcionalidades de que uma instituição mais precisa são as que vêm com preço. O repositório está licenciado sob **AGPL-3.0** conforme seu arquivo `LICENSE`, o que importa para quem pretende auto-hospedá-lo ou modificá-lo, e seu README ainda diz LGPL de antes dessa mudança, então leia o arquivo de licença em vez do README. Instituições também devem confirmar seus próprios termos de processamento de dados antes de rotear trabalho de estudantes por um serviço de terceiros hospedado.
-
-## Conceitos conectados
-
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
-

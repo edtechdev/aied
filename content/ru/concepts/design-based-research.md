@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -81,30 +83,3 @@ DBR — подписной метод [[learning-sciences|learning sciences]] �
 **«Раз DBR даёт работающий артефакт, значит эффективность доказана.»** Дизайн, который работает на площадке, со-произведшей его, доказал локальную жизнеспособность, а это другое утверждение, чем эффективность. Артефакт несёт в себе адаптации, сделанные для того контекста, и перенос его переносит допущения, которые никогда не были заявлены как допущения.
 
 **«Отношение к инструменту как к ревизуемому артефакту дизайна — отход от DBR.»** Это итеративный характер DBR, применённый к измерению, а не к вмешательству: одно исследование в этом корпусе трактовало саму рубрику как артефакт, проходя через со-совершенствование с [[llm|LLM]]. Это расширение стоит отметить, потому что оно делает собственное развитие инструмента частью свидетельств.
-
-## Связанные концепции
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## Связанные статьи
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR for an AI-Assisted Collaborative Learning Model
-- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR for AI-literacy training in teacher education
-- [[crompton-faculty-technology-integration-standards-2026]] — DBR for faculty technology-integration standards
-- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six DBR studies implementing AIDA at the Open University
-- [[critical-thinking-genai-scaffolding]] — DBR for GenAI critical-thinking scaffolding
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR for a science-integrated AI literacy curriculum (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

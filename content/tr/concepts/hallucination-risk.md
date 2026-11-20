@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -65,41 +67,3 @@ Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: 
 - **“Hatalar ortaya çıktığında apaçıktır.”** El yazısı matematik teşhis eden bir YZ, **kendinden eminlik iddia ederken orada olmayan kanıt alıntıları uydurabilmiştir**. Başarısızlık makul ama yanlış bir cevap değil, kesinlikle sunulmuş uydurma bir dayanaktı; yakalanması en zor tür budur, çünkü tam olarak dikkatli bir okuyucunun isteyeceği kanıt gibi okunur.
 - **“Atıfsız çıktı bir biçimlendirme problemidir.”** Ticari ders kitabını YZ tarafından üretilmiş okumalarla değiştiren bir lisansüstü derste, **kaydedilen 4.487 sayfanın yalnızca yaklaşık %0,80’i APA tarzı metin içi atıf taşıyordu**. Bu, ara sıra bir atlama değil, külliyat düzeyinde bir köken yokluğudur ve doğrulamanın hiçbir başlangıç noktası olmadığı anlamına gelir.
 - **“Halüsinasyon, yeni modellerin çözdüğü bir model üretim problemidir.”** Oran aralığı 125 çalışma boyunca %10-40’ı kapsar; bu, model kadar görevin ve konuşlandırmanın da bir özelliğidir. Oran düşüşü gerçek bir ilerlemedir ve bir okuyucunun denetleyebilmesi gerektiği gerçeğini değiştirmez.
-
-## Bağlı kavramlar
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Bağlı makaleler
-
-- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
-- [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
-
-- [[sim-ai-summary-memory-distortion-2026]] — Yanıltıcı bir YZ özeti yetişkinlerin video belleğini çarpıttı ve YZ ya da insan etiketi onları korumadı
-
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluently plausible explanations that are wrong at the conceptual level (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — İnandırıcılık ipuçları YZ çıktısına boyun eğmeyi artırdı; atıf yapılan bazı vakalar yanlış atfedilmiş ya da uydurmaydı

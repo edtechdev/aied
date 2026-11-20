@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
+connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -98,7 +100,6 @@ Kwa sababu programu ni mahali ambapo msaada wa AI una nguvu zaidi, ni pia mahali
 
 - **Kuendelea, si upokeaji, ni mahali thamani ya GenAI inaamuliwa.** Mapitio ya PRISMA ya masudio 45 (2023–2025) yanagundua uzalishaji bora wa msimbo na utatuzi pamoja na kina cha dhana kisichobadilika, na yanadai kuwa matumizi endelevu yanategemea [[trust|uaminifu]] uliosawazishwa, ujuzi wa uthibitishaji, na mwongozo wa taasisi badala ya [[technology-acceptance-model|manufaa yanayohisiwa]] ([[yalwa-genai-programming-education-sustained-use-2026|Yalwa et al., 2026]]).
 
-
 ### Usawa, utamaduni, na nani anaingia katika kompyuta
 
 - **Kupanua ushiriki:** [[suacode-african-students-motivations|SuaCode]] inarekodi motisha za kuandika msimbo kwa simu mahiri kati ya wanafunzi wa Afrika (chini ya 1% ya wanaoacha shule ya sekondari wana ujuzi wa msingi wa kuandika msimbo), ikielimisha MOOCs zinazopatikana zinazosaidiwa na AI kwa [[equity-in-ai-education|miktadha yenye rasilimali ndogo]].
@@ -133,94 +134,8 @@ Elimu ya CS inaungana na [[computational-thinking]], [[stem-education]], [[autom
 
 - **"Athari ni sawa katika kila hatua ya kozi."** Ilikua pamoja na kazi: kwenye **programu 60 kamili za Java** zilizopewa alama kwa rubriki ya **ngazi 14**, athari ya lebo ilikuwa **mara 2.8** ya ukubwa wake kwa majibu mafupi kwenye GPT-4.1-mini na **mara 2.4** kwenye Qwen, ingawa **mara 0.4** tu kwenye Gemini. [[porcaro-ai-grader-reliability-2026|Kazi na rubriki ni sehemu ya kile athari inachopima]], kwa hiyo ukubwa uliothibitishwa kwa majibu mafupi hauhamii kwa programu.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Wanafunzi wanaandika programu kwa jozi na AI wanajifunza kuandika programu."** Katika uandishi wa pamoja wa msimbo kati ya mwanafunzi na AI, **karibu 80% ya mwingiliano ulitegemea mikakati isiyo ya kujifunza kama kuagiza majibu nje**, na **takribani 1 kati ya 9 tu ulionyesha ushiriki wa kina wa kielimu**. Mfumo unaotawala ni kufanya mabadilishano kwa ajili ya matokeo.
 - **"Mawakala wa mazungumzo kwa wanaoanza wamejikita kwenye nadharia ya kujifunza."** **Tafiti 4 tu kati ya 23 zinajikita katika [[learning-theories|nadharia ya kujifunza]]**, hivyo sehemu kubwa ya msingi wa ushahidi inaandika kile mfumo ulifanya bila nadharia ya kwa nini unapaswa kufanya kazi.
 - **"Fasihi ya zana inaakisi mgawanyo wa kimataifa wa uwanja."** **Vielelezo 17 kati ya 23 ni vya Kiingereza peke yake licha ya utafiti mwingi kutoka nje ya miktadha inayozungumza Kiingereza**. Vielelezo huhudumia idadi ndogo zaidi kuliko utafiti unavyofanya.
-
-## Dhana Zilizounganishwa
-
-- [[computational-thinking]]
-- [[vibe-coding]]
-- [[stem-education]]
-- [[information-technology]]
-- [[automated-assessment]]
-- [[prompt-engineering]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[curriculum-design]]
-- [[human-ai-collaboration]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[teacher-education]]
-- [[professional-training]]
-- [[ai-education]]
-- [[collaborative-learning]]
-- [[prior-knowledge]]
-- [[scaffolding]]
-- [[assessment-validity]]
-
-## Makala Zilizounganishwa
-- [[kumar-genai-computing-education-systematic-review-2026]] — Mapitio ya kimfumo ya masudio 72: maendeleo ya ufanisi ambayo hayaheshimiki, na mfumo wa VIE
-- [[vibe-coding-writing-cs-achievement-2026]] — Mafanikio ya CS na ujuzi wa kuandika yanatabiri ufasaha wa vibe-coding (CHI 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[shakil-code-commits-complexity-genai-2026]] — Msimbo, Commit, na Utata katika Enzi ya GenAI: Utafiti wa Longitudinal wa Miradi ya Timu ya Capstone
-- [[code-review-genai-cs1]] — Mapitio ya msimbo wa CS1 ya msimbo uliozalishwa na AI
-- [[dura-llm-cs2]] — DURA: wasaidizi wa LLM kwa CS2
-- [[reshaping-cs-education-genai]] — kuundwa upya mitaala ya CS ya shahada kwa GenAI
-- [[ase-26-agentic-software-engineering-curriculum]] — Mtaala wa uhandisi wa programu unaotumia mawakala wa ASE-26
-- [[test-driven-ai-assisted-learning]] — Kujifunza Kunasaidiwa na AI Kumwelekeza na Majaribio
-- [[genai-oop-programming-assessments-2026]] — Utendaji wa GenAI katika tathmini halisi za OOP za kuanzia (Lepp na Kaimre 2026)
-- [[trust-reliance-ai-education-2026]] — uaminifu dhidi ya kutegemea kwa njia inayofaa wakati wa kutatua matatizo ya Python
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — ujuzi wa AI wa maarifa katika kuandika-programu kwa pamoja kati ya mwanafunzi na AI
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — kujifunza kwa kufundisha na ChatGPT
-- [[llm-programming-support-governance-cs-education]] — Mfumo wa PEA kwa kupima msaada wa LLM
-- [[conversational-agents-novice-programmers-scoping-2025]] — Mapitio ya wigo ya mawakala wa mazungumzo kwa wanafunzi wanaoanza programu
-- [[debugtracker-classroom-debugging]] — DebugTracker utatuzi wa darasa
-- [[llm-automated-grading-programming-comparison-2026]] — Kulinganisha kiotomatiki cha alama kwa mifano 18
-- [[ai-generated-traces-novice-programmers]] — Njia za uhuishaji zilizozalishwa na AI
-- [[student-misconceptions-conditionals-loops-taxonomy]] — taksonomia ya dhana potofu za masharti/mizunguko
-- [[jost-llm-programming-education-learning-outcomes]] — Athari ya LLM kwa matokeo ya kujifunza programu (Jošt et al.)
-- [[genai-meta-analysis-programming-learning]] — meta-analysis ya GenAI na kujifunza programu
-- [[golrang-propact-pair-programming-2026]] — kufanya mfano wa kuandika kwa jozi
-- [[critical-engagement-code-completion]] — ushirikiano mahususi na ukamilishaji wa msimbo
-- [[suacode-african-students-motivations]] — SuaCode kuandika msimbo kwa simu mahiri barani Afrika
-- [[cross-cultural-student-perceptions-genai-computing]] — mapitio ya kitamaduni ya kuandika msimbo yanayosaidiwa na AI
-- [[neurodivergent-computing-students]] — wanafunzi wa kompyuta wenye ujauzito tofauti wa neva
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit + ML katika mafunzo ya walimu
-- [[computational-thinking-educational-robotics-secondary-2026]] — ufikiri wa kikokotozi na roboti za kielimu
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly programu ya vitalu ya kujifunza kwa mwili
-- [[edusim-llm-robotic-simulation-education-2026]] — Udhibiti wa roboti kwa lugha ya asili wa EduSim-LLM
-- [[llm-computational-thinking-physics-2026]] — Msaada wa LLM kwa ufikiri wa kikokotozi katika fizikia
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Utekelezaji tatu, mifano mitatu, uwasilishaji 173k: jinsi tabia ya vidokezo ilivyoonekana katika kozi halisi
-- [[novice-se-students-oversight-genai-2026]] — Zaidi ya usahihi: jinsi wanafunzi wapya wa uhandisi wa programu wanavyosimamia AI ya kizalishaji (Shakiba na Chaffey 2026)
-- [[student-ai-inquiry-types-cs2-2026]] — Uchanganuzi wa Aina za Maswali katika Mwingiliano wa Mwanafunzi–AI
-- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT inatatua kazi ya nyumbani ya Qiskit; ubini unaopewa alama kiotomatiki
-- [[llm-adaptive-programming-error-explanations-2026]] — Maelezo ya makosa ya programu yanayobadilika ya LLM
-- [[soft-barriers-copying-ai-programming-2026]] — Upinzani wa kunakili-nywele katika programu inayosaidiwa na AI
-- [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD na mawakala wa AI katika kozi ya PBL ya programu; uwezo dhidi ya uelewa
-- [[student-reception-genai-analogies-computing-2026]] — Yenye Dosari lakini Inayokumbukika: Mapokezi Mahususi ya Wanafunzi ya Mifano ya GenAI Yenye Uchezaji Mahususi katika Elimu ya Kompyuta
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: kupima uwezo wa mifano wa kuzalisha dhana potofu za kimkakati katika mtaala wote wa CS
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Timu nyekundu ya kuingiza ilani katika uwiano unaoendeshwa na AI: maagizo yaliyofichwa yanayosogeza alama bila kugunduliwa
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Uzalishaji Ulioboreshwa na Upatikanaji kwa Elimu ya Sayansi ya Kinadharia ya Kompyuta -- Mfumo wa Kutathmini wa Jumla kwa Uchanganuzi wa Algoriti na Nadharia ya Ugumu
-- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Nyenzo za Kufundisha kwa Ulimwengu wa ChatGPT
-- [[instructional-governance-design-computing-education-2026]] — Utawala wa Mafunzo kwa Kubini: Mfumo wa AI katika Elimu ya Kompyuta
-- [[judgment-centred-software-engineering-education-2026]] — Mapitio na Mfumo wa Baada ya Mzozo kwa Elimu ya Uhandisi wa Programu Inayoimarishwa na AI
-- [[llm-graders-computer-science-exams-2026]] — Wapi Watoa Alama wa LLM Wanafanikiwa na Wanavunjika: Ushahidi kutoka Mitihani Miwili ya Sayansi ya Kompyuta
-- [[student-llm-use-cs-subfields-2026]] — Matumizi ya LLM yalibadilika kutoka 89.6% katika algoriti hadi 15.2% katika uhandisi wa programu katika wanafunzi 211, yakifuata kazi badala ya uwanja mdogo
-- [[educator-guided-llm-pedagogical-agent-2026]] — Maoni ya hatua yaliyoandikwa na waelimishaji kwa ubini wa dhana ya hifadhidata: utambuzi uliofichwa, ufichuzi unaodhibitiwa, 71.1% ya kiwango kinacholengwa katika vipindi 383
-- [[socraticrepair-program-debugging-2026]] — SocraticRepair: Ufundishaji wa Socratic Unaongozwa na Mipango kwa Urekebishaji wa Programu na Kurekebisha Dhana Zisizo Sahihi
-- [[browser-sized-agents-slm-webllm-tutor-2026]] — Mawakala wa Ukubwa wa Kivinjari: Modeli Ndogo za Lugha na WebLLM kwa Elimu ya Upangaji wa Programu Inayosaidiwa na AI Yenye Zana
-
-- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: watoa alama 22 walioandaliwa wanakabiliana na majaribio yenye jibu sahihi linalojulikana, na wengi wao wanaweza kushawishiwa kupanda (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Muktadha wa mwanafunzi hubadilisha alama za mtoa alama wa LLM kwenye kazi ile ile, na makubaliano na mwalimu hayasajili hilo (Porcaro 2026, Karatasi VI)
-- [[yalwa-genai-programming-education-sustained-use-2026]] — Matumizi Endelevu ya Akili ya Kizalishaji Bandia (GenAI) katika Elimu ya Programu: Mapitio ya Kimfumo
-

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -74,23 +76,18 @@ La simulazione sta al cuore delle [[experiential-learning|esperienziali]] e dell
 
 - **[[agency|Il controllo dello studente]] nella simulazione è agito, non concesso.** Un esperimento 2 × 2 in una simulazione di stormo ([[learner-agency-ai-simulation-2026|Su, Nair e Nagashima 2026]]) ha dato ad alcuni studenti slider dei parametri, ad altri un agente conversazionale opzionale e ad altri entrambi; ogni condizione è migliorata, ma nessuna delle due affordance ha prodotto una differenza affidabile una volta controllata la [[prior-knowledge|conoscenza pregressa]] (p = 0,849 e p = 0,108). Ciò che prediceva i [[learning-gains|guadagni]] era dove e per quanto tempo gli studenti manipolavano i parametri: l'uso sostenuto degli slider nella lezione concettualmente più complessa era associato positivamente ai guadagni, e lo stesso comportamento nella lezione più facile negativamente. Per chi costruisce simulazioni l'implicazione è che offrire controlli non è l'intervento — aiutare gli studenti a decidere che cosa cambiare, e a registrare che cosa è cambiato, lo è.
 
-
 - **L'agentività è uno strato progettato, non una proprietà della tecnologia.** [[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al. (2026)]] ordinano le simulazioni per la pratica rappresentata, la situazione simulata, come agentività e adattamento sono distribuiti e come l'apprendimento è orchestrato, anziché per livello di immersione.
-
 
 - **Un gemello digitale è una simulazione con una bolletta hardware, e la bolletta determina chi può partecipare.** Una [[meta-analysis-systematic-review|revisione sistematica]] di 11 studi sui gemelli digitali nell'[[engineering-education|ingegneria]] e nell'[[higher-ed|istruzione superiore]] STEM ha trovato che ogni implementazione consegnava un prototipo funzionante con sincronizzazione in tempo reale, eppure solo tre riportavano [[learning-gains|guadagni di apprendimento]] statisticamente significativi. Gli impianti fisici limitavano l'accesso a 1-3 studenti simultanei in cinque studi, e la ridotta interazione sociale era la sfida pedagogica più citata, in sei ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
 - **La simulazione basata su agenti può modellare una teoria della [[metacognition|metacognizione]] come sistema testabile.** Un framework ispirato ai gemelli digitali e basato su agenti, che combina il modello AMERT a cinque livelli con una simulazione NetLogo, ha permesso ai ricercatori di variare archetipi di apprendenti e condizioni del compito e di osservare traiettorie metacognitive, sebbene gli autori sottolineino che l'output è generazione di ipotesi, non evidenza su apprendenti reali ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). La simulazione diventa un laboratorio virtuale per una teoria altrimenti difficile da osservare.
 
 - **Il curricolo è l'unità che decide il valore di una simulazione.** Il Curricular Bridge Model sostiene che il ritorno della simulazione dipende da come le esperienze sono sequenziate lungo un programma — riuso del contesto, variazione delle richieste di ragionamento, evidenza che alimenta la progressione — anziché dalla fedeltà della piattaforma ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
 
-
 ### Connessioni
 
 La simulazione si collega all'[[active-learning|apprendimento attivo]], all'[[adaptive-learning|apprendimento adattivo]] e al [[pedagogical-agent|agente pedagogico]]. È un meccanismo per l'apprendimento esperienziale e [[constructivist|costruttivista]] ed è amplificata dalla capacità dell'IA di generare ambienti di pratica adattivi e realistici.
 
-
 L'apprendimento basato sulla simulazione include ora pazienti, studenti e partner di gioco di ruolo sintetici, e [[ai-avatars-and-synthetic-instructors]] sostiene che le loro questioni di consenso, divulgazione e fedeltà della persona non sono le stesse della fedeltà delle attrezzature o degli scenari.
-
 
 ## Che cosa non può essere delegato
 
@@ -103,51 +100,3 @@ Il framework viaggia come test anziché come catalogo. Tre domande decidono qual
 - **"La simulazione costa meno ed è quindi di seconda scelta."** Sim-pilot autonomi basati su [[llm|LLM]] **sostituiscono gli attori umani specializzati che presidiano le simulazioni di controllo del traffico aereo, rimuovendo un collo di bottiglia della capacità di addestramento** — il vincolo era il personale, non la fedeltà. Dove gli attori umani scarseggiano, la simulazione con LLM non è un sostituto ma l'unica opzione disponibile.
 - **"I simulatori dovrebbero comportarsi come i casi medi."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] abbina un agente di policy a **simulatori di paziente LLM costruiti per comportarsi in modo avversariale**. Un simulatore progettato per essere cooperativo rende la pratica dell'apprendente più facile della clinica, che è l'opposto di ciò di cui l'addestramento ha bisogno.
 - **"Gli scenari scriptati insegnano a decidere in condizioni di incertezza."** Gli agenti multi-agente contestuali di SupplyNet generano **dinamiche emergenti dalle decisioni degli apprendenti anziché sequenze scriptate**. Gli scenari scriptati provano un percorso noto; quelli emergenti provano la decisione.
-
-## Concetti collegati
-
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — Chimica e IA: laboratori, valutazione formativa, limiti degli LLM, filosofia della sperimentazione
-- [[biology-education]] — Biologia e IA: assistenti di laboratorio, alfabetizzazione all'IA in biologia, pensiero critico, strumenti specializzati
-- [[ai-technologies]] — Ombrello: tecnologie e tecniche di IA (modelli, addestramento LLM, robotica, RAG, agentica)
-- [[virtual-and-augmented-reality]] — il modello, non la modalità — gli ambienti immersivi di solito rendono una simulazione
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## Articoli collegati
-
-- [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robot-mediated role-play game for bystander intervention (applied drama)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review (authenticity gap, stepped continuum)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twins in STEM education: prototypes all worked, learning gains mostly did not
-
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorio virtuale supportato dall'IA per l'apprendimento capovolto della fisica: effetti su rendimento, motivazione e carico cognitivo degli studenti della scuola media
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Framework a quattro strati che separa la pratica rappresentata, la situazione simulata, agentività e adattamento, e orchestrazione
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — Dall'adozione della tecnologia alla coerenza curricolare: la simulazione potenziata dalla tecnologia come ponte nella formazione alle professioni sanitarie
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — Che cosa un insegnante non può delegare a un agente conversazionale lungo il ciclo della simulazione
-

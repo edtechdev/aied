@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -69,45 +71,3 @@ ai_assist:
 - **"एक अच्छा उपकरण वयस्क अधिगमकर्ताओं के लिए पर्याप्त है।"** शोध में पाया गया कि **कोई भी एकल वयस्क-अधिगम AI तंत्र सभी डिज़ाइन दिशानिर्देशों को संतुष्ट नहीं करता**: पूरा पारिस्थितिकी तंत्र आवश्यक था। वयस्क दायित्वों, रुक-रुक कर मिलने वाली समय-सारिणी और विषम लक्ष्यों के साथ आते हैं, इसलिए एक उत्पाद पूरे डिज़ाइन-क्षेत्र को नहीं ढक सकता।
 - **"वयस्क स्तर पर डिजिटल साक्षरता मान ली जा सकती है।"** [[community-centered-ai-education-adults|एक मिडवेस्टर्न केस अध्ययन]] ने **वंचित समुदाय के 54 वयस्कों** के लिए AI-साक्षरता कार्यक्रम सह-डिज़ाइन किया और पाया कि समता-उन्मुख वयस्क AI शिक्षा को पहले **आधारभूत डिजिटल साक्षरता और डेटा-विश्वास** को संबोधित करना ही होगा। आयु डिजिटल प्रवाहिता का प्रतिनिधि नहीं है।
 - **"अपनाना एक प्रेरणा की समस्या है।"** डेटा-गोपनीयता के इर्द-गिर्द [[ai-literacy]] और [[trust]] बनाना अपनाने की अपेक्षा से पहले आना चाहिए। तत्परता इस विश्वास से आती है कि किसी के डेटा का क्या होता है, तकनीक के उत्साह से नहीं।
-
-## संबंधित अवधारणाएँ
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — ऑनलाइन शिक्षण और अधिगम
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## संबंधित लेख
-
-- [[ai-adult-learning-guidelines-dis2026]] — वयस्क अधिगम का समर्थन करने के लिए एआई तकनीकों के डिज़ाइन के दिशानिर्देश
-- [[andragogy-cognitive-delegation-genai-2026]] — क्या स्वनिर्देशित बचा रहता है? जनरेटिव एआई-मध्यस्थ वयस्क अधिगम में संज्ञानात्मक प्रतिनियुक्ति के माध्यम से एंड्रागॉजी का पुनर्विलोकन
-- [[ai-lifelong-learning-policy]] — आजीवन अधिगम में कृत्रिम बुद्धिमत्ता: वयस्क शिक्षा नीति में अवसर और चुनौतियाँ
-- [[sovereign-hive-titl-further-education-2026]] — आगे की शिक्षा में समानता के लिए सॉवरेन हाइव और ट्यूटर-इन-द-लूप (TITL) फ्रेमवर्क
-- [[community-centered-ai-education-adults]] — वयस्कों के लिए सामुदायिक-केंद्रित एआई शिक्षा का सह-डिज़ाइन: एक मिडवेस्टर्न केस स्टडी
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — दूरस्थ अधिगम संस्थानों के लिए अधिगम के नए तंत्र? AIDA के क्रियान्वयन का छह-अध्ययन समीक्षा
-- [[institutional-governance-ai-universities]] — नीति विखंडन या संस्थागत संरेखण? विश्वविद्यालयों और व्यवसाय विद्यालयों में एआई का संस्थागत शासन
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — संगणनात्मक सोच के लिए जनरेटिव एआई-संवर्धित अधिगम अनुभव: एक व्यवस्थित स्कोपिंग समीक्षा और डिज़ाइन दिशानिर्देश
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — पाठ्यक्रम विश्लेषण के माध्यम से एआई-सहायित सॉफ़्टवेयर इंजीनियरिंग के उभरते पाठ्यक्रम का मैपिंग
-- [[learner-ai-interaction-patterns-oop]] — एक ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग पाठ्यक्रम में शिक्षार्थी-एआई अंतःक्रिया पैटर्न और शैक्षणिक प्रदर्शन
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — उत्पादक-विफलता-आधारित अधिगम का समर्थन करने के लिए एआई प्रणालियों का डिज़ाइन
-- [[kim-ai-andragogy-2026]] — एंड्रागॉजी के समर्थन में एआई अनुप्रयोग (किम एट अल. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — संलग्नता की एक श्रेणी के लिए डिज़ाइन: गहरे सुकराती संवाद को अधिक फलदायी मार्ग बनाएँ

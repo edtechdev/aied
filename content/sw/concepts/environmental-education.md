@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -85,29 +87,3 @@ Pamoja, masomo haya yanatazaja ratiba ya ujuzi wa kijani inayotolewa kwa usawa: 
 - **"AI katika elimu ya mazingira hasa hutoa taarifa."** Faida zilizopimwa ziko katika **kufanya maamuzi**: wanafunzi wanaofanya kazi na mshirika wa AI ndani ya kazi ya [[inquiry-based-learning|uchunguzi]] iliyopangwa waliwazidi wenzao wa uchunguzi peke yake (**d = 0.69**) na mafunzo ya jadi (**d = 1.88**) kwenye kipimo cha kufanya maamuzi, zikiwa na faida **zilizokusanyika kwenye hatua dhaifu zaidi**. Athari iko katika ubora wa mawazo, mahali ambapo wanafunzi walikuwa dhaifu zaidi.
 - **"Uchunguzi peke yake ndio kiungo tendaji."** Uchunguzi unaosaidiwa na AI **uliboresha kufanya maamuzi ya hali ya hewa kuliko uchunguzi peke yake**, kwa hivyo mchango wa AI ulikuwa nyongeza ya muundo wa kielimu badala ya kubadilishana nao.
 - **"Athari kubwa kutoka sampuli ndogo bado ni athari kubwa."** Ubunifu wa [[learning-design|mafunzo]] unaosaidiwa na AI chini ya vikomo vya Pedagogia ya Maendeleo Endelevu **uliboresha mipango ya somo ya walimu wa huduma ya awali kwa d = 2.80 kutoka kwa washiriki 28**; neno la wahakiki wenyewe ni *kubwa isivyowezekana*, na athari ya ukubwa huo kutoka sampuli hiyo inapaswa kuchukuliwa kama ishara badala ya kadirio.
-
-## Dhana Zilizounganishwa
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Makala Zilizounganishwa
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
-- [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone
-- [[aied-carbon-footprint-reporting]] — AIED 2025 disclosure review plus an open-source footprint method
-- [[llm-environmental-impact-student-usage-2026]] — Eco-feedback on latency–carbon trade-offs with 89 CS students
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise quantized assistant at 1.8 mWh per query
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: sustainability consciousness in engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Practical AI use and ESD material development predict integration
-- [[talebzadeh-ai-green-education-2026]] — AI-assisted design under Sustainable Development Pedagogy constraints
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — AI's contribution to sustainable education as governance-mediated
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "Sustainable learning" as durable cognitive agency, not an environmental claim

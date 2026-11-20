@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -88,37 +90,3 @@ ai_assist:
 
 - گراف اور بنیادی خط کے موازنے الگورتھم کی سطح پر رپورٹ کریں۔ "نالج گراف پر مبنی" کوئی مداخلت نہیں؛ سفری حکمتِ عملی ہے۔
 - درستگی اور یاد آوری کے ساتھ ساتھ محور سے ماخذ کے نقشے اور درجہ بندی کی تفریق پذیری رپورٹ کریں، کیونکہ یہاں آڈٹ کی ناکامیاں روایتی گراف میٹرکس کو نظر نہ آئیں۔
-
-## منسلک تصورات
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — چھتری: AI ٹیکنالوجیاں اور تکنیکیں (ماڈل، LLM تربیت، روبوٹکس، RAG، ایجنسی)
-- [[recommender-systems-and-learning-paths]]
-
-## منسلک مضامین
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 1,455 ادبی محوروں کا کیوریٹر ساختہ گراف، ساختی آڈٹ کے ساتھ مگر اصلیت کے ریکارڈ کے بغیر (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — ذاتی نوعیت کی ای سیکھنے کے لیے اونتولوجی پر مبنی سطحی ہائبرڈ علمی ماڈل
-- [[learnity-graphs-lifelong-learning-framework-2026]] — عمر بھر سیکھنے کے لیے Learnity گراف
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: بیانیہ مسودہ سازی کے سہارے
-- [[quantum-education-its]] — کوانٹم تعلیم کی ذہین ٹیوٹرنگ (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — تعلیمی استدلال کے لیے ملٹی موڈل نالج گراف
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS کورس کا موازنہ
-- [[proprl-prerequisite-relation-learning]] — ProPrL: پیشگی شرط کے تعلق کا سیکھنا
-- [[knowledge-gap-detection-ai-tas]] — AI تدریسی معاونوں میں علمی خلا کی شناخت
-- [[visual-query-tracer-declarative-logic-learning]] — اعلانی منطق کی سیکھنے کے لیے بصری کوئری ٹریسر
-- [[fair-explainable-edu-recommendations]] — منصفانہ اور قابلِ وضاحت تعلیمی سفارشات
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — ملٹی موڈل تدریسی وسائل کے لیے ہائبرڈ CF–KG بین میدانی سفارش
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM سے چلنے والی علمی تشخیص
-- [[graph-its-adaptive-algorithms-2026]] — متحرک میدانوں کے لیے گراف پر مبنی ذہین ٹیوٹرنگ (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: سیکھنے کے ماحول کی پیدائش

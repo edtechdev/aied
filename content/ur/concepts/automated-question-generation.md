@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, educational-nlp, automated-assessment, automated-essay-scoring, assessment, formative-assessment, adaptive-learning, personalized-learning, knowledge-tracing, student-modeling, rag, human-in-the-loop-ai, educational-measurement, item-response-theory, hallucination-risk, ai-ed-evaluation, benchmark, scaffolding, intelligent-tutoring, ai-education]
+connected_articles: [genai-medical-education-transformation-review-2026, assessing-quality-ai-generated-exams-field-2025, generate-then-validate-question-gen, kt4eqg-personalized-question-generation, llm-question-generation-deaf-hard-of-hearing-2026, llm-educational-question-cognitive-depth, slidesqaqa-pedagogical-question-generation, code-gen, nsmq-riddles-science-math-benchmark, taklif-ai-interest-based-personalized-assignments, llm-difficulty-calibration-programming-exams-2026, self-referential-l2-writing-llm-assessment, cross-dataset-bloom-question-classification, llm-chatbots-cs-multiple-choice, socratic-tests-conversational-assessment, llm-turing-test-italian-legal-exams-2026, razavi-powers-item-difficulty-llm-2026, proiqa-math-item-quality-assessment-2026, colearn-agentic-tutor-co-learning-loop-2026, automated-constructive-assessment-hdr-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, bloom-classifier-ai-assisted-questions-2026, vogt-ai-mcq-recognition-medical-assessment-2026, rodemer-ai-generated-mcq-chemistry-assessment-2026, islam-human-vs-ai-sba-dental-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -89,53 +91,3 @@ AQG [[adaptive-learning|انطباقی]] اور [[personalized-learning|ذاتی
 **”سوال سازی فطری طور پر مشق کو ذاتی بناتی ہے۔“** یہ رسد پیدا کرتی ہے، اور ذاتی نوعیت ایک مطابقت کا مسئلہ ہے۔ زیادہ آئٹم بنانا یہ نہیں بتاتا کہ کسی سیکھنے والے کو اگلا کون سا آئٹم دیکھنا چاہیے، اور انطباقی انتخاب کا سوال ایک الگ طریقہ کار ہے جس کے اپنے شواہد ہیں۔
 
 **”پیداوار جانچ کو بڑھاتی ہے بغیر یہ بدلے کہ جانچ کیا ناپتی ہے۔“** یہ اِس کی ترکیب بدل دیتی ہے کہ کیا ناپا جاتا ہے، کیونکہ جو آئٹم اچھی طرح پیدا ہوتے ہیں وہ اُن آئٹم کا نمائندہ نمونہ نہیں جو اچھی طرح جانچتے ہیں۔ آسانی سے پیدا ہونے والی شکلیں آہستہ آہستہ مشکل سے پیدا ہونے والیوں کو پیچھے دھکیل دیں گی، جو خاموشی سے ساخت کو نئے سانچے میں ڈھال دیتا ہے۔
-
-## منسلک تصورات
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## منسلک مضامین
-- [[genai-medical-education-transformation-review-2026]] — AI آئٹم پیداوار بمقابلہ فیکلٹی آئٹم کے معیار پر طبی تعلیم کی 153 رپورٹوں کا دائرہ کار جائزہ
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — IRT کے ذریعے AI سے پیدا شدہ امتحان کے معیار کی بڑے پیمانے پر میدانی تصدیق
-- [[generate-then-validate-question-gen]] — پیدا کریں پھر تصدیق کریں والی سوال سازی
-- [[kt4eqg-personalized-question-generation]] — نالج ٹریسنگ کے ذریعے ذاتی نوعیت کی سوال سازی
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — بہرے اور سماعت سے محروم سیکھنے والوں کے لیے LLM سے چلنے والی سوال سازی
-- [[llm-educational-question-cognitive-depth]] — LLM سے پیدا شدہ سوالات کی علمی گہرائی
-- [[slidesqaqa-pedagogical-question-generation]] — سلائیڈ ڈیک سوال و جواب کی تدریسی سوال سازی
-- [[code-gen]] — CODE-GEN: RAG پر مبنی، انسان شامل چکر والی سوال سازی
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles بینچ مارک
-- [[taklif-ai-interest-based-personalized-assignments]] — دلچسپی پر مبنی ذاتی نوعیت کے اسائنمنٹ
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM پر مبنی مشکل کی کیلیبریشن
-- [[self-referential-l2-writing-llm-assessment]] — خود حوالہ جاتی تجزیاتی تحریری جانچ
-- [[cross-dataset-bloom-question-classification]] — بین ڈیٹا سیٹ Bloom سوال کی درجہ بندی
-- [[llm-chatbots-cs-multiple-choice]] — LLM چیٹ بوٹس اور CS کثیر الانتخابی آئٹم
-- [[socratic-tests-conversational-assessment]] — سقراطی آزمائشیں: مکالماتی جانچ
-- [[llm-turing-test-italian-legal-exams-2026]] — قانونی امتحانات میں LLM ٹیورنگ ٹیسٹ
-- [[razavi-powers-item-difficulty-llm-2026]] — LLMs اور درخت پر مبنی ML سے آئٹم کی مشکل کا اندازہ
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: عمل پر مبنی ریاضی آئٹم کے معیار کا جائزہ
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: ایک ایجنٹک ٹیوٹر جو انسان-AI شریک سیکھنے کے چکر میں اپنے سیکھنے والے کو سیکھتا ہے
-- [[automated-constructive-assessment-hdr-llm-2026]] — بڑے زبان ماڈلز کے ساتھ تعمیری جانچ خودکار کرنا: عملی قابلیت کی قابلِ توسیع اور بار بار جانچ کی طرف
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — ڈیٹا سائنس کورسوں میں LLMs کا طلبہ کا استعمال اور AI سے پیدا شدہ سوال کی مشکل کی حدود
-- [[bloom-classifier-ai-assisted-questions-2026]] — نئے AI کی معاونت والے تعلیمی سوالات کی تدریسی جانچ کے لیے پہلے سے تربیت یافتہ ماڈلز کا جائزہ
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — طلبہ گریڈ ہونے والے امتحان میں AI سے پیدا شدہ MCQs اور لائسنسنگ امتحان کے آئٹم میں فرق نہ کر سکے، اور پیدا شدہ آئٹم میں سے 18.2% جائزے میں خارج ہوئے (Vogt et al. 2026)

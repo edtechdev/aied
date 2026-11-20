@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -133,66 +135,3 @@ ai_assist:
 **「行動上の活動が多いほど、エンゲージメントは深い。」** 実際には逆であることが多い。AIとの深い認知的エンゲージメントは学習を予測する一方、浅い行動的エンゲージメントは、リスクに関する文献の大半を占める[[cognitive-offloading|過剰依存]]と学習の代替を予測する。[[polished-artifacts-fragile-engagement-2026|磨き上げられた成果物]]はその典型例であり、整った出力が活動を示す一方で、思考は起きていない。活発な対話ログは、エンゲージメントの欠如と両立しうる。
 
 **「AIはデフォルトで学習をより魅力的なものにする。」** [[ai-availability-student-motivation|AIの利用可能性と動機づけ]]は、AIが利用できると知っているだけで、努力を伴う関与の知覚価値が低下しうることを示しており、これは特に初心者学習者に当てはまる。エンゲージメントはツールの機能によってだけでなく、期待、価値、知覚された有能感によっても同じ程度に形づくられ、課題、文脈、学習者によって異なる——ある学習者にとっての深いエンゲージメントは、別の学習者にとっては成果物の追い求めにすぎない。
-
-## 関連概念
-- [[learners]] — 学習者：学習者側の概念の包括概念
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[community-of-inquiry]] — Community of Inquiry（行為主体的な関与を CoI の一つの次元として）
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — 包括概念：AI 教育における人々と受け手（学習者、教師、設計者、管理者、政策立案者）
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## 関連記事
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AIフィードバック・リテラシーとエージェンティック・エンゲージメント:3波のランダム切片パネル(Xu 2026)
-- [[rho-disengaged-conversational-behaviors-2026]] — 学生とAIの対話における非関与的な会話行動と学習(Rho et al. 2026)
-- [[assigned-ai-preclass-student-engagement-2026]] — 音声ベースのAIによる授業前練習は自発的な授業内での発言を約31%高めたが、その効果は2回目の利用後にのみ現れた(Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — AI利用は授業欠席の増加と連動していたが、自己効力感はそれを予測せず、仲間からの影響が最も強い相関要因だった(Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — 大学がGAIを推奨する一方で実践が伴わない場合:芸術教育における学生の評価と創造プロセスへのエンゲージメント
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 頭部に限定したEEG、アイトラッキング、EDAが5段階のエンゲージメント評定を予測するが、学習者自身の定義によってその対応関係は変わる(Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — リアルタイムの学生注意推定のための公平性を考慮したマルチモーダルTransformerモデリング
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 高等教育におけるAI:エンゲージメントと教授法の媒介的役割に関するシステマティックレビュー
-- [[genai-motivation-engagement-2026]] — 生成AIが学生の動機づけとエンゲージメントに与える影響
-- [[critical-engagement-code-completion]] — Tabを押すか押さないか:AIコード補完における批判的エンゲージメントの測定
-- [[icap-cognitive-engagement-llm-agents]] — 協働的言説における認知的エンゲージメントの測定
-- [[genai-tutor-engagement-patterns]] — すべての学生が同じようにエンゲージするわけではない:複数機関にわたるパターン
-- [[polished-artifacts-fragile-engagement-2026]] — 洗練された成果物、脆弱なエンゲージメント
-- [[ai-availability-student-motivation]] — 「なぜこれほど努力するのか?」:AIの利用可能性が動機づけをどう形づくるか
-- [[genai-performance-vs-learning]] — パフォーマンスの向上を学習と区別する
-- [[scaffolding-critical-engagement-genai-minority-students]] — GenAIとの批判的エンゲージメントの足場かけ
-- [[engagement-intensity-learner-modeling]] — 学習者モデリングのシグナルとしてのエンゲージメント強度
-- [[learning-engagement-assistant-lea]] — 学習エンゲージメント・アシスタント
-- [[engagement-assessment-video]] — 動画学習におけるエンゲージメント評価
-- [[engagement-forecasting-its]] — ヒューリスティックからアナリティクスへ:努力と進捗の予測
-- [[interactive-learning-dashboards-engagement]] — インタラクティブな学習ダッシュボードとエンゲージメント
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学習者特性×TTS対話形式の交互作用
-- [[wang-goal-setting-ai-engagement-2026]] — 目標設定理論:AI支援英語学習における教師のサポート、達成目標、エンゲージメント(中国人学生758名)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — チャットボットへのエンゲージメントの促進要因としてのGenAIコンピテンシーと感情(Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — 学生とAIの会話における学問分野と関連するBloomレベルの認知的エンゲージメント(Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 小学校段階における次元別のエンゲージメント向上(Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — 没入型VRのPBLスタジオでは認知的・行動的エンゲージメントが上昇し、情動的エンゲージメントは横ばいだった(Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 中等教育の数学におけるクラスターランダム化試験:カスタマイズされたチャットボットで状況的興味は高まったが、テスト成績は向上しなかった(Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AIリテラシーは直接的に、また心理的資本を介してエンゲージメントを促し、専門職へのコミットメントがそれを増幅する(Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench:AIと人間によるチュータリングはGREで同等の学習成果をもたらす
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — AIチューターへのアクセスは記録されたプラットフォーム参加を0.90 SD低下させた一方、課題提出は変わらなかった(Liu et al. 2026)
-- [[eight-mode-ai-engagement-typology-2026]] — 自己報告と観察によるAIエンゲージメントのプロファイルは一致せず、小テストの得点と連動したのは行動のみだった(Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — GenAI下で予測される4つのエンゲージメント配置と、ツールがそれを増幅する理由
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — ディスカッションボードに対する学生の認識:AI活用ラーニングアナリティクス設計に資する技術受容モデル研究

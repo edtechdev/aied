@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -74,32 +76,3 @@ Uendelevu na AI katika elimu inapatikana katika muunganiko wa [[ethics]], [[gove
 - **"Maarifa ya AI ya dhulma yanatabiri uwezo wa walimu kufundisha uendelevu."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] aligundua kwamba **matumizi ya vitendo ya AI** ya walimu katika miktadha ya sayansi na nishati ya kijani na **ushiriki wao katika kuendeleza nyenzo zilizolingana na ESD**, **zaidi ya maarifa ya AI ya dhulma au mitazamo**, yalitabiri uwezo wao. Kujua kuhusu AI na kuweza kujenga nayo vilitofautiana, na njia ya vitendo ilitabiri zaidi.
 - **"Ubuni wa mafunzo unaosaidiwa na AI chini ya pedagogia ya uendelevu unazalisha pedagogia ya uendelevu."** Kazi hiyo hiyo iligundua kwamba [[learning-design|ubuni wa mafunzo]] unaosaidiwa na AI chini ya Pedagogia ya Maendeleo Endelevu **ulibana** ubuni kwa njia maalum badala ya kuupanua. Mfano uliofunzwa kwa nyenzo za kawaida unazalisha miundo ya kawaida isipokuwa kazi ya ubuni iurekebishe.
 - **"Uendelevu ni mada, si mandhari inayopita kila kitu."** Kwa sababu njia zote mbili zinapita viwango vyote, uendelevu unaonekana katika [[higher-ed|elimu ya juu]], K-12 na miktadha ya kitaalamu, ambayo inamaanisha kwamba ni mada ya msingi inayopaswa kushughulikiwa ndani ya kila taaluma badala ya kufundishwa kama somo tofauti.
-
-## Dhana Zilizounganishwa
-
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Makala Zilizounganishwa
-
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — Utafiti wa uchunguzi na vikundi lengwa wa Uswidi unaodai kwamba maadili ya ushirikiano, si fremu ya udanganyifu, yanapaswa kuongoza maamuzi ya kitaasisi kuhusu genAI
-- [[daniel-ai-sustainability-scoping-review-2026]] — Mapitio ya upeo ya AI kwa uendelevu na AI endelevu katika elimu ya juu
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Mbinu ya ukosoaji wa thamani kwa elimu endelevu na AI
-- [[liu-ai-sustainable-engineering-education-2026]] — Mfumo wa AI-SEE kwa elimu ya uhandisi endelevu
-- [[riandi-teacher-ai-green-energy-education-2026]] — Ushiriki wa mwalimu katika uunganishaji wa AI kwa elimu ya nishati ya kijani
-- [[talebzadeh-ai-green-education-2026]] — Jukumu la AI katika Elimu ya Kijani
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Wasaidizi wa hifadhi ya maarifa ya AI endelevu
-- [[llm-environmental-impact-student-usage-2026]] — Athari za mazingira za matumizi ya LLM
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Kukuza kujifunza endelevu kupitia akili ya mwili
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR ya elimu ya AI ya awali ya chuo kikuu (mwelekeo wa SDG 4)

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
+connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -124,51 +126,3 @@ ai_assist:
 - **"学科主要只影响内容例子。"** 一项覆盖 **560 名学生**的研究发现，学科归属**预测学生使用**[[generative-ai|生成式 AI]] 的**频率与公开程度**。学科决定工具是否被使用、使用是否被披露，而不只决定问它什么。
 - **"跨学科是一个通用的机构目标。"** **"跨学科"的形态本身由学科决定**：[[xia-ai-interdisciplinary-higher-education-review-2026|Xia 等（2026）]]的[[meta-analysis-systematic-review|综述]]发现它采取的形式因领域而异。单一机构定义至少会误读它所覆盖的部分学科。
 - **"职业教育拥有与学术学科相当的研究基础。"** 职业教育 strand **是那份证据中最薄的**：一项对职业教育与培训 **26 项研究**的系统综述发现**无一项在工作场所情境中进行**，而那正是能力实际被运用的情境。文献的缺席是一个缺口，而不是零结果。
-
-## 关联概念
-
-- [[business-education]]
-- [[ai-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[cs-education]]
-- [[writing-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[stem-education]]
-- [[teacher-education]]
-- [[medical-education]]
-- [[engineering-education]]
-- [[humanities-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[arts-and-media-education]]
-- [[design-education]]
-- [[information-technology]]
-- [[learning-sciences]]
-- [[nursing-education]]
-- [[vocational-education]]
-
-## 关联文章
-- [[yang-pe-teachers-ai-perceptions-2026]] — 16 名大学体育教师：具身学科性作为障碍，以及 AI 设备被分配给精英队伍（Yang、Chen 与 Rao，2026）
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — AI 在跨学科高等教育中的系统综述（59 项研究）
-- [[llms-text-linguistics-teaching-2026]] — 文本语言学教学中的大语言模型
-- [[fowlin-operationalizing-learning-principles-ai]] — 在健康专业教育中以 AI 操作化学习原则
-- [[designing-ai-professional-development-itpack-2026]] — 基于智能 TPACK 的 AI 专业发展
-- [[teaching-the-teachers-genai-tpk-review-2026]] — 教师教育中生成式 AI 专用的 TPK
-- [[human-centered-ai-teacher-educators-2026]] — 面向教师教育者的批判性 AI 素养专业学习
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — 人文与社会科学教育中的解释性认知
-- [[becker-chatgpt-typology-physics-2026]] — 物理教育中的 ChatGPT 使用分类学
-- [[code-review-genai-cs1]] — CS1 中的生成式 AI 代码评审
-- [[ai-writing-support-stage-ownership-2026]] — 基于阶段的 AI 写作支持与归属
-- [[ai-engineering-education-balancing-act]] — 工程教育中 AI 的平衡术
-- [[ai-literacy-career-adaptability-business-2026]] — 商科教育中的 AI 素养与职业适应性
-- [[jiang-genai-activity-theory-disciplines-2026]] — 活动理论：学科间生成式 AI 使用与披露的差异（560 名学生）
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 护理教育中的 AI 动力模拟：知识与信心的增益，对精神运动技能的不一致效应
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — 研究生信息技术学习中作为支架或捷径的生成式 AI
-- [[ai-vocational-education-training-review]] — 职业教育与培训中 AI 的首个系统综述
-- [[genai-architectural-design-studios]] — 设计工作室中的生成式模型：刺激、解空间扩展与固着
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 把过度泛化的规则认证为能力的掌握停止规则

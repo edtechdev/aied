@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -84,7 +86,6 @@ ai_assist:
 
 جانچے جانے والے نظاموں کی رفتار ایک مزید پابندی ہے۔ [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] زمانی مسئلہ براہِ راست بیان کرتے ہیں: جب تک کوئی بڑے پیمانے کا ٹرائل ڈیزائن، انجام، تجزیہ اور شائع ہو، زیرِ مطالعہ ٹیکنالوجی بہت کچھ بدل چکی ہوتی ہے، جو عمل کو ٹھیک اُس وقت کمزور مشاہداتی یا استعمال کے ڈیٹا کی طرف دھکیلتی ہے جب مضبوط شواہد کی ضرورت ہو۔ اُن کا جواب کمزور ڈیزائن قبول کرنا نہیں بلکہ چکر چھوٹا کرنا ہے — پریکٹیشنر کی قیادت میں مائیکرو-رینڈمائزڈ ٹرائلز جو سببی موازنہ برقرار رکھیں اور پلیٹ فارم بدلتے ساتھ اُسے دہرائیں۔
 
-
 - **ڈیٹا کی وفاداری پیداوار کے معیار سے الگ تشخیصی مسئلہ ہے۔** مصنوعی تعلیمی کوہورٹس جو ہر متغیر کے خلاصہ اعدادوشمار دہراتے ہیں، پھر بھی ڈیٹا کی ساخت غلط بتا سکتے ہیں: سیکھنے والوں پر ہفتہ وار قربت گراف مصنوعی نسخوں میں ایک سمسٹر کے دوران اصلی کوہورٹس سے 2.6 سے 4.9 گنا کم بدلا، چنانچہ وفاداری کا سکور پیش گوئی نہیں کرتا کہ کون سے تجزیے حقیقی ڈیٹا پر زندہ رہیں گے ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]])۔
 
 - **تقسیم کے اندر درستگی تعیناتی کے قابل ہونا نہیں۔** Bloom سطح کا کلاسیفائر اپنے ترتیب شدہ آئٹم بینک پر 0.88 کا macro F1 سکور کر کے AI کی تخلیق کردہ سوالات کے دو سیٹوں پر 0.48 اور 0.20 پر گر گیا، یہ کمی ماڈل کے حجم کے بجائے واضح Bloom محرک فعلوں کی تقریباً عدم موجودگی سے جڑی تھی؛ بغیر تربیت یافتہ [[llm|LLMs]] تقسیم سے باہر سب سے مضبوط آپشن تھے (0.79 اور 0.41–0.51) اور نشان زدہ تقسیم سے باہر ڈیٹا پر دوبارہ تربیت نے سب سے بڑے فوائد بحال کیے (0.82 تک)، چنانچہ منتقلی کو تقسیم کے اندر فٹ کے ساتھ رپورٹ میں ہونا چاہیے ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]])۔
@@ -118,69 +119,3 @@ ai_assist:
 - **"اسکورنگ کا معیار محض تکنیکی بات ہے۔"** سخت مطابقت نے وہی 2,250 ٹیوٹرنگ مکالمے **42.1%** پر سکور کیے جہاں انسانی توازن والے LLM بحیثیت جج نے **81.3%** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]) — معیار عدد کو ٹیوٹر ماڈل، حکمتِ عملی یا پائپ لائن سے زیادہ ہلاتا ہے۔
 - **"شناخت اور تخلیق موازنہ کے قابل قابلیتیں ہیں۔"** **شناخت تخلیق نہیں ہے۔** TutorCaseBench پر، **11 ماڈلز** میں بہترین نے **چار اختیار والے آئٹمز کے 63.0%** پر دستاویزی حکمتِ عملی چنی مگر دستاویزی نفاذ کا معیار کہیں کم بار پورا کیا۔ چار میں سے درست جواب چننا اور اُسے پیدا کرنا الگ الگ کام ہیں۔
 - **"ماڈل کے سکور تصدیق شدہ آلے کے بغیر بامعنی ہیں۔"** کورس کے مطابق ڈھائے گئے امتحانات **71 کلاسوں** کے لیے تخلیق کیے گئے اور انسانی لکھے AP Statistics آئٹمز کے خلاف **Bayesian hierarchical 2PL** ماڈل سے پرکھے گئے — آلہ سکوروں کی تفسیر سے پہلے فٹ کیا گیا تھا۔
-
-## منسلک تصورات
-
-- [[interpreting-and-applying-aied-research]]
-- [[ai-assisted-educational-research]] — AI کی معاونت والی تعلیمی تحقیق
-- [[assessment-validity]] — تعلیم میں AI کی تشخیص میں تفسیر کا جواز
-- [[educational-measurement]] — سیکھنے کی جانچ کے لیے پیمائش کا نظریہ
-- [[psychometrically-aware-ai]] — AI پر مبنی جانچ میں نفسیاتی پیمائش کا اطلاق
-- [[benchmark]] — AI نظاموں کی جانچ کے لیے معیاری بینچ مارکس
-- [[automated-assessment]] — AI پر مبنی گریڈنگ اور اسکورنگ نظام
-- [[learning-analytics]] — سیکھنے کے برتاؤ کا ڈیٹا پر مبنی تجزیہ
-- [[research-methods-aied]] — تعلیم میں AI کے لیے تحقیقی طریقے
-- [[learning-gains]] — AI ٹولز سے سیکھنے کے حصول کی پیمائش
-- [[formative-assessment]] — تدریس کی رہنمائی کے لیے جاری جانچ
-- [[summative-assessment]] — اختتامی جانچ: AI کے خلاف مزاحم شکلیں (زبانی، زیرِ نگرانی، بند کتاب امتحانات)
-- [[authentic-assessment]] — حقیقی دنیا، منتقلی کے قابل کارکردگی کی جانچ
-- [[human-in-the-loop-ai]] — AI تشخیص پر انسانی نگرانی
-- [[trust-calibration]] — AI نظاموں پر بھروسے کا توازن
-- [[hallucination-risk]] — AI کی پیداوار میں گھڑے ہوئے مواد کا خطرہ
-- [[intelligent-tutoring]] — AI ٹیوٹرنگ نظاموں کی جانچ
-- [[agentic-ai]] — خودمختار AI ایجنٹ کے برتاؤ کی جانچ
-
-## منسلک مضامین
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: چیلنجنگ برتاؤ والے طلبہ پر LLM ٹیوٹرز کی جانچ (Park et al. 2026)
-- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: آن لائن ٹیوٹرنگ ویڈیوز میں پیدگوجیکل امکان کی فہم کی تشخیص
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — پلیٹ فارم کے سکور کیا چھوڑ دیتے ہیں: AI تدریسی ایجنٹس کی کثیر الجہت جانچ
-- [[assessment-latent-structure-human-llm-2026]] — کیا جانچ کے آلات انسانوں اور LLM کے لیے ایک ہی چیز ناپتے ہیں؟ (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI کی تخلیق کردہ امتحانات کے معیار کی جانچ: ایک بڑے پیمانے کا میدانی مطالعہ
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — نیورو-سمبولک پیدگوجیکل ہم آہنگی (NSPA)
-- [[yasir-llm-tutoring-agents-2026]] — LLM ٹیوٹرنگ ایجنٹس کا سہ رخی درجہ بندی بینچ مارک (Yasir et al. 2026)
-- [[drawedumath-vlm-struggling-students-2026]] — DrawEduMath پر VLM کی جانچ: غلطی والا مواد سب سے مشکل (Lucy et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — LLM کے پیدگوجیکل علم کا بینچ مارکنگ (CDPK + SEND)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM کلاس روم مشاہدے کی تصدیق: اعتبار بمقابلہ درستگی (Melo et al. 2026)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — آن پریمیس OER AI نالج بیس معاونین: کثیر الجہت جانچ
-- [[ground-truth-reliability-aied]] — حقیقی بنیاد کو جدید بنانا: اعتبار اور جواز بہتر کرنے کے چار رخ
-- [[calibrating-trustworthiness-llm-education-2026]] — بھروسے کا توازن: میٹرکس اور بصری نمائندگیوں کی مشترکہ ڈیزائن
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: LLM کی تدریسی صلاحیت کی جانچ
-- [[machines-misread-pedagogical-quality]] — مشینیں پیدگوجیکل معیار کو کیوں غلط پڑھتی ہیں: انسانی-مشینی ہم آہنگی
-- [[cong-confidence-asag-2026]] — LLM کے ساتھ خودکار مختصر جواب کی گریڈنگ
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: تکوینی جانچ کے لیے انسانی بہ طورِ حلقہ پرامپٹ انجینئرنگ
-- [[llm-cognitive-diagnosis-handwritten-math]] — طلبہ کی علمی مہارتوں کی تشخیص کے لیے LLM کا بینچ مارکنگ
-- [[tutoring-effectiveness-index]] — Tutoring Effectiveness Index: LLM ریاضی ٹیوٹر کے معیار کی پیش گوئی
-- [[jeon-isd-agent-bench-2026]] — ISD ایجنٹ بینچ مارک
-- [[tool-invariant-framework-agentic-ai]] — کمپیوٹیشنل طریقوں کی تدریس اور جانچ کے لیے ٹول سے غیر متاثر فریم ورک
-- [[valid-student-simulation-llm-2026]] — بڑے زبان ماڈلز کے ساتھ درست طالب علم سمولیشن کی طرف
-- [[llm-difficulty-calibration-programming-exams-2026]] — جانچے گئے ماڈلز سے تشخیصی امداد تک
-- [[socratic-tests-conversational-assessment]] — سقراطی امتحانات کی نظریاتی بنیاد
-- [[responsible-assessment-ai-era-stanford-2026]] — AI کے دور میں ذمہ دار جانچ
-- [[authentic-products-authenticated-processes-2026]] — مستند مصنوعات سے تصدیق شدہ عمل تک
-- [[genai-educational-outcomes-meta-analysis]] — جنریٹو AI کے تعلیمی نتائج کا میٹا تجزیہ
-- [[zhang-tutormoments-2026]] — جب مدد غیر مددگار ہو: نتیجہ خیز جدوجہد کے لیے AI ٹیوٹرز کی جانچ
-- [[elbench-education-llm-benchmark-2026]] — ELBench: تعلیمی LLM بینچ مارک
-- [[ai-grading-handwritten-physics-2026]] — ہاتھ سے لکھی طبیعیات کی جانچ کی AI گریڈنگ (اولمپیئڈ)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — سیکھنے کے تجزیے کے لیے خود وضاحت کرنے والا LM کشید کرنا
-- [[burneo-can-edtech-close-learning-gaps-2026]] — موافق + AI EdTech کا میٹا تجزیاتی جائزہ
-- [[xiong-ai-educational-measurement-review-2026]] — اسکورنگ، نفسیاتی پیمائش اور جانچ میں AI کا کردار
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — جدت کی رفتار سے AI ٹیوٹرنگ کی جانچ: GCSE سائنس میں AI ٹیوٹرنگ پلیٹ فارم کے پریکٹیشنر کی قیادت والے مائیکرو-رینڈمائزڈ ٹرائلز
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: عمل پر مبنی ریاضی آئٹم کے معیار کی جانچ
-- [[durable-skills-measurement-ai-teammates-2026]] — پائیدار مہارتوں کی قابلِ توسیع پیمائش کی طرف
-- [[pivot-generative-video-tutors-stem-2026]] — مواد کی تخلیق سے سیکھنے کی معاونت تک: STEM سیکھنے کے لیے پیدگوجی کی رہنمائی والے جنریٹو ویڈیو ٹیوٹرز
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI اور انسانی ٹیوٹرنگ برابر GRE سیکھنے کے حصول دیتے ہیں
-- [[synthetic-educational-data-structural-fidelity-2026]] — وفاداری کے میٹرکس کیا چھوڑ دیتے ہیں: مصنوعی تعلیمی ڈیٹا پر ساختی جانچ
-- [[bloom-classifier-ai-assisted-questions-2026]] — نئے AI کی معاونت والے تعلیمی سوالات کی پیدگوجیکل جانچ کے لیے پیشگی تربیت یافتہ ماڈلز کا جائزہ
-- [[llm-judge-evaluation-educational-ai-2026]] — جب جانچنے والے بھیڑیا پکارتے ہیں: تعلیمی AI میں پیداواری LLM بحیثیت جج تشخیص کے سبق
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — کتابیات کا نقشہ سامنے لا سکتا ہے کہ تشخیصی ثقافت کس چیز کو انعام دیتی ہے
-- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: LLM ریاضی کی ٹیوٹرنگ میں جانچ کے معیار ناپی گئی کامیابی کو شکل دیتے ہیں (Lee et al. 2026)

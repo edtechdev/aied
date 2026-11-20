@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
+connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -115,32 +117,3 @@ Belajar dengan mengajar adalah padanan konstruktif dan [[active-learning]] dari 
 **"Meminta LLM berperan bingung adalah prompt sepele."** Ini masalah desain, karena sifat mudah salah harus dikalibrasi terhadap konsep yang diajarkan dan terhadap model mental tutor-siswa saat itu. Kesalahan acak menghasilkan latihan debugging; kesalahan yang mencerminkan miskonsepsi spesifik yang masuk akal menghasilkan restrukturisasi konseptual, dan hanya yang kedua itulah target pedagogisnya.
 
 **"Belajar dengan mengajar adalah aktivitas yang lebih lunak daripada diajar."** Justru lebih menuntut. Bersiap untuk mengajar memaksa penataan pengetahuan dan penemuan celah diri sendiri, itulah sebabnya pendekatan ini menyingkap kesalahpahaman yang disembunyikan oleh penerimaan pasif — kesulitannya adalah mekanismenya, bukan biaya yang harus diminimalkan.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Menjelaskan kepada tutee AI: urutan dengan bukti terkuat dalam basis pengetahuan
-- [[generative-ai]]
-- [[active-learning]]
-- [[constructivist]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-
-## Artikel terkait
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT sebagai agen yang dapat diajar dalam pemrograman
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: agen yang dapat diajar untuk 546 siswa
-- [[prompting-teachability-novice-personas-lbt-2026]] — Merancang persona pemula untuk keterajaran
-- [[socrates-students-instructors-llms-lbt-2025]] — Siswa sebagai instruktur LLM (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Pembelajaran kosakata dengan mengajari AI
-- [[knowloop-confusion-to-consolidation-2026]] — Konsolidasi teach-back dalam sistem tinjauan percakapan
-- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning untuk menahan tutee pada tingkat pengetahuan pemula, dan pembelajaran ulang melalui dialog mengajar
-- [[simulating-students-java-programming-errors-llms]] — Menyimulasikan kesalahan siswa dengan LLM
-- [[knowledge-building-tutor-learning-2026]] — respons yang membangun pengetahuan, bukan pengetahuan awal, memprediksi pembelajaran tutor

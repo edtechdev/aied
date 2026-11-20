@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-28"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -90,39 +92,3 @@ La pili ni ukumbusho kwamba mfumo wa kizalishaji unaweza kuwa wazi na maudhui ya
 **"AI hufanya maudhui kuwa ya bei ndogo kiasi kwamba OER imepitwa na wakati."** Tafsiri pinzani inapatikana na ina ushahidi bora. Kama uzalishaji ni karibu bila malipo, bidhaa adimu huwa leseni, mnyororo wa utambuzi wa mwandishi, mchakato wa ukaguzi, na jukwaa linalotunzwa. Ndiyo sababu fasihi hii inaelekea kwenye utawala na miundombinu badala ya uzalishaji.
 
 **"Kuongeza zana za AI kwenye kazi huria huboresha kujifunza."** Jaribio pekee la nusu-majaribio hapa liligundua ukuaji wa ujuzi unaohisiwa katika makundi yote mawili bila tofauti inayoweza kugundulika kati yao, pamoja na ukamilishaji mkubwa na alama ndogo chini katika darasa la AI. AI ilibadilisha kile wanafunzi walichozalisha na haikubadilisha kile walichoripoti kujifunza.
-
-## Dhana Zilizounganishwa
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## Makala Zilizounganishwa
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — Ufafanuzi matano wa OER pale AI inayozalisha inapoingia uzalishaji (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER kama bidhaa za umma za kidijitali na hoja ya miundombinu inayosimamiwa (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — Kwa nini miaka ishirini na mitano ya uwazi iliacha katikati ya kitaasisi kama ilivyokuwa (Deimann na Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — Ufundishaji huria na zana za AI katika madarasa mawili (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — Mifano 14 ya mazoezi ya elimu huria na mahali AI inapokaa ndani yao (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — Ujuzi wa AI wa mwalimu na mazoezi ya ufundishaji huria katika majimbo 30 ya China (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — Mfumo wa nguzo saba kwa ujumuishaji wa kuwajibika wa OER na AI (Rodés-Paragarino na Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — Ushauri na uzalishaji wa OER ya AI katika maabara ya mtandao (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — Rubriki ya kanuni saba kwa kukagua OER ya ujuzi wa AI (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — Mwingiliano katika OER kama hoja ya ubuni badala ya ugunduzi (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — Ushirikiano wa kimataifa katika elimu huria kama kesi ya kifaa (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — Kipendekezi cha mseto kwa OER dhidi ya msingi imara zaidi kuliko inavyodaiwa (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — Mabadiliko ya kidijitali katika kujifunza huria kama mabadiliko ya kielimu (Panda, 2026)

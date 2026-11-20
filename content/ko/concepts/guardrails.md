@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -124,46 +126,3 @@ ai_assist:
 **"가드레일 임계값은 조정할 공학적 선택이다."** 임계값은 분배적 비용을 지닌 정책 결정입니다. 독성 기준선을 0.3에서 0.7로 옮기면 표시된 프롬프트가 **35.62%에서 12.4%로** 줄었고, 사기 탐지기에서는 **15건의 오경보와 18건의 놓친 사기를 2건과 36건으로** 맞바꿨습니다. 어떤 기준선도 그 절충을 없애지 못하며, 기관이 어느 오류를 선호하는지만 결정할 뿐입니다. 그 결정은 기본 상수가 아니라 기관의 몫입니다.
 
 **"공정성 감사는 가드레일 충분성과 별개의 관심사다."** 거절과 지원의 양상은 고르게 적용되어도 혜택을 고르지 않게 분배하며, 평균 해율은 어느 학생이 그것을 떠안는지를 가립니다. 감사는 사후에 의뢰되는 연구가 아니라 가드레일 명세의 일부여야 합니다.
-
-## 연결된 개념
-
-- [[pedagogical-safety]] — 가드레일이 구현하는 목표
-- [[prompt-engineering]] — 답 대신 힌트 설계 기법
-- [[rag]] — 가드레일로서의 지식 근거 확보
-- [[human-in-the-loop-ai]] — 교사 QA와 감시
-- [[llm-training-and-fine-tuning]] — 훈련/정렬 층위
-- [[reinforcement-learning]] — 안전한 행동을 위한 보상 설계
-- [[bias-mitigation]] — 공정성을 위한 가드레일 감사
-- [[ai-sycophancy]] — 가드레일이 저항해야 하는 조작 위험
-- [[scaffolding]] — 가드레일이 보존하는 교수법적 기제
-- [[socratic-method]] — 답 대신 힌트 상호작용 양식
-- [[hallucination-risk]] — 가드레일이 줄이는 조작 위험
-- [[cognitive-offloading]] — 가드레일이 막는 과잉 의존 해
-- [[k-12]] — 가드레일이 가장 중요한 맥락
-- [[ethics]] — 규범적 기반
-- [[governance]] — 정책 층위
-- [[intelligent-tutoring]] — 보호받는 시스템
-- [[misconceptions]] — 가드레일이 점검해야 하는 지식
-- [[trust]] — 잘 설계된 가드레일의 결과
-- [[llm]] — 제약받는 모형 층위
-
-## 연결된 문서
-
-- [[reflection-agent-fidelity-career-2026]] — 점검 가능한 곳에서 충실하게: 무작위 시험에서 시스템 프롬프트에 맞춘 성찰 에이전트 감사
-- [[scaffolding-student-ai-dialogue-framework-2026]] — 학생-AI 대화를 조종하는 SCAFFOLD 프레임워크와 그 교실 파일럿
-- [[generative-ai-guardrails-harm-learning]] — 가드레일에 관한 정본적 현장 RCT
-- [[eduzone-llm-safety-k12]] — K-12 LLM 안전 프레임워크
-- [[eduguard-safe-rag-llm-tutor]] — 교사를 위한 RAG 기반 안전
-- [[paternalistic-filter-llm-history-education]] — 편향을 위한 가드레일 감사
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL로 정렬된 안내된 학습
-- [[tact-pedagogically-adaptive-esl-tutoring]] — 분류에 정렬된 사후 훈련
-- [[eduframetrap-llm-sycophancy-educational-safety]] — 안전 위험으로서의 아첨
-- [[ai-tutor-authoring-promptdecipher]] — 교사 주도 QA
-- [[llm-unlearning-math-privacy]] — 모형 층위 언러닝
-- [[pedagogical-safety-rl]] — 교수법적 안전을 위한 보상 설계
-- [[residencyrl-clinical-rl-training-2026]] — 임상 훈련에서 안전 정렬 RL
-- [[ai-security-literacy-k12-framework-2026]] — AI 보안 리터러시: 생태계 기반 역량 프레임워크와 K-12 학습 플랫폼
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — 초등 수학 LLM 교습 시스템에서 규칙 안내 대 임의 비계(Looi 등 2026)
-- [[instructional-governance-design-computing-education-2026]] — 설계에 의한 교수 거버넌스: 컴퓨팅 교육을 위한 AI 프레임워크
-- [[guardrails-ai-teaching-assistants-programming-2026]] — 가드레일인가 장벽인가? 프로그래밍을 위한 AI 수업 조교에서 교수법적 양식과 맥락 인식의 효과
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — 실제 교실에서 관찰된 20개 AI 도구에 걸쳐 제품 범주별로 달랐던 학생 사고에 대한 위험

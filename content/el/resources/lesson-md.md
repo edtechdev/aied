@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -37,7 +38,3 @@ ai_assist:
 ## Σε ποιους απευθύνεται
 
 Σε σχεδιαστές διδασκαλίας και δημιουργούς μαθημάτων που θέλουν το περιεχόμενό τους να επιβιώσει από μια αλλαγή εργαλείου, σε προμηθευτές ηλεκτρονικής μάθησης που θέλουν μια μορφή εισαγωγής και εξαγωγής που οι χρήστες τους καταλαβαίνουν ήδη, και σε όποιον χτίζει συγγραφή με υποστήριξη ΤΝ πάνω σε μια αναγνώσιμη μορφή. Μεταξύ των συνεισφερόντων είναι ο Dan Bashaw της LXD Integral, και η μορφή έχει δημόσιο ημερολόγιο αλλαγών έως την v1.8.
-
-## Συνδεδεμένες έννοιες
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

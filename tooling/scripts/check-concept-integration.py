@@ -94,12 +94,21 @@ def inline_slugs(body: str) -> set[str]:
 
 
 def narrative_and_list(concept_text: str) -> tuple[str, str]:
-    """(narrative, connected-list text) of a concept page body."""
-    _, body = split_frontmatter(concept_text)
+    """(narrative, connected-list text) of a concept page.
+
+    Connected Articles moved to the frontmatter `connected_articles` facet (2026-11-19);
+    represent those slugs as wikilinks too so the membership check works whether the list
+    is still a body section or already a facet.
+    """
+    fm, body = split_frontmatter(concept_text)
     m = CONNECTED_HEADING.search(body)
-    if not m:
-        return body, ''
-    return body[:m.start()], body[m.start():]
+    narrative = body[:m.start()] if m else body
+    connected = body[m.start():] if m else ''
+    am = re.search(r'^connected_articles:\s*\[(.*?)\]', fm, re.M)
+    if am:
+        connected += '\n' + '\n'.join(
+            f'- [[{s.strip()}]]' for s in am.group(1).split(',') if s.strip())
+    return narrative, connected
 
 
 def changed_article_slugs() -> list[str]:

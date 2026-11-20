@@ -10,6 +10,8 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
 
 > **Technology Adoption Models** — the family of theories that explain and predict why individuals and institutions accept, adopt and keep using new [[ai-technologies|technologies]], of which the **Technology Acceptance Model (TAM)** is the most widely applied. In [[ai-education|AI in education]] they are the standard lens for asking why learners, teachers and organizations adopt [[generative-ai|generative AI]] tools, and they are best treated together because GenAI-adoption studies draw on several members of the family rather than one.
@@ -43,7 +45,6 @@ The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with
 ### Theory of Planned Behavior (TPB)
 TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
 
-
 Adoption research usually stops at intention; a TPB extension that instead measured delay despite a genuine intention found perceived behavioral control the strongest negative predictor of GenAI-assisted learning procrastination (β = −0.331) across 1,243 undergraduates, with the intention–delay link significant only at moderate-to-high learning GenAI anxiety ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### Diffusion of Innovation (DOI)
@@ -65,7 +66,6 @@ Adoption models are applied to model student and [[teacher-role|teacher]] uptake
 - **A knowledge mediator beside the expectancy mediators:** [[isbulan-ai-self-efficacy-acceptance-literacy-2026|İşbulan et al. (2026)]] place [[ai-literacy|AI literacy]] between [[self-efficacy|AI self-efficacy]] and acceptance in 622 undergraduates in Türkiye. The indirect path was significant (B = 0.15, 95% CI [0.12, 0.19]) and left a direct path intact (B = 0.43, R² = 0.29); acceptance also showed a weak negative association with [[anxiety-and-stress|AI anxiety]] (B = -0.34, R² = 0.05). Where the [[trust-calibration|overtrust]] work below routes confidence through performance expectancy, this study routes it through what students know about the technology.
 - **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, [[self-efficacy|self-efficacy]], anxiety, and risk perception to acceptance of AI-assisted English learning.
 - **[[regulation|Regulatory]] competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy|AI literacy]] as regulatory competence and [[critical-thinking|critical thinking]] rather than acceptance.
-
 
 Adding a [[tpack|TPACK]]-family capability alongside belief frameworks such as the Theory of Planned Behavior as parallel predictors invites construct overlap and leaves the causal ordering of capability, attitude and control undecided; the Capability–Decision Model instead places AI-TPACK capability upstream of attitude and perceived behavioral control ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
@@ -102,9 +102,7 @@ Necessary condition analysis then separated influence from requirement. Ease of 
 
 **Design features routed through trust, with DOI alongside TAM.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] surveyed 653 learners about [[ai-avatars-and-synthetic-instructors|AI avatars]] and found the strongest path in their combined TAM–DOI model ran from perceived transparency to [[trust|trust]] (β = 0.542). Relative advantage (β = 0.267) and perceived usefulness (β = 0.247) carried intention more than attitude did (β = 0.126).
 
-
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
-
 
 **Performance expectancy can carry a relationship that acceptance research reads as intention to use.** In [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] performance expectancy predicted AI overtrust at B = 0.6107 and was the first mediator through which self-efficacy, intrinsic motivation and [[motivation|extrinsic motivation]] reached overtrust. The expectancy-only indirect path was positive for all three predictors, 0.1355 (95% CI [0.0542, 0.2330]) for self-efficacy, so expectancy was not merely predicting whether students would use the tool.
 
@@ -113,59 +111,3 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - **"TAM's constructs explain adoption."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh and explained **64% of** the variance. Substantial and incomplete at once: roughly a third of what drives adoption sits outside the classic acceptance constructs.
 - **"Acceptance models need no domain modification."** Adding **perceived artificial autonomy** — how independently teachers believe GenAI can carry out an assigned instructional task — and **risk aversion** to the classic constructs changed the model materially. The original constructs were built for tools without agency, and GenAI has perceived agency.
 - **"A meta-analytic adoption estimate describes any population."** The [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students]] is the population-level estimate; the engineering result explaining 64% is a specific population. Importing one onto the other assumes a stability the evidence does not establish.
-
-## Connected Concepts
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## Connected Articles
-
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — TAM + DOI for AI avatars: transparency → trust (β = 0.542), with relative advantage and usefulness carrying intention
-- [[high-school-genai-acceptance-tam-physics-2026]] — Subject-specific beliefs placed upstream of the TAM perceptions
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": artificial autonomy and risk aversion extend TAM for teachers (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[genai-reliance-types-scale]] — GenAI reliance types scale
-- [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Material-level PE/EE/playfulness/intention model for age-tiered AI literacy guidebooks, with documented playfulness-intention construct overlap
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT folded into TAM/UTAUT2: dimension-specific and non-monotonic risk effects on perceived GenAI benefits (Du, Ning, Shi & Chen 2026)
-
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems
-- [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link
-- [[kim-overtrust-ai-literacy-2026]] - performance expectancy mediated the path from motivation and self-efficacy to AI overtrust
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
-- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
-- [[pinedo-genai-adoption-marketing-students-2026]] — Habit carries UTAUT2 in an already-adopted population
-- [[stalboerger-faculty-perceptions-2026]] — 22 faculty, 12 follow-ups: familiarity hardened ethical scrutiny for some, reversing the ease-of-use direction (Stalboerger et al. 2026)
-
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design
-- [[ai-conversational-interfaces-information-seeking-2026]] — Chatbot answered program questions faster and more accurately than the website, except where the answer was a named contact

@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -72,9 +74,7 @@ La teoria cognitiva dell'apprendimento multimediale di Mayer (CTML) applica gli 
 
 La [[generative-ai|IA generativa]] estende e al contempo sfida il cognitivismo. Lo estende rendendo le rappresentazioni della conoscenza più potenti (gli LLM come motori di conoscenza tracciabili tramite [[knowledge-tracing]] e adattabili tramite [[student-modeling]]). Lo sfida complicando il luogo in cui la cognizione «si trova»: quando l'IA svolge ragionamento, memoria e persino funzioni simili alla metacognizione, l'assunto cognitivista che l'apprendimento sia elaborazione interna nella mente individuale è messo in discussione — come argomentano la [[distributed-cognition|cognizione distribuita]], la [[ai-cognitive-partner-co-regulation-learning|co-regolazione]] e le inquadrature post-umane, la cognizione può essere distribuita tra sistemi umani e artificiali. Eppure la domanda cognitivista resta quella centrale del campo: *chi apprende interiorizza la conoscenza, o è lo strumento a trattenerla?* Questa è la domanda sul cognitive offloading e sul divario tra performance e apprendimento nella sua forma più pura.
 
-
 Un esperimento del 2026 dà al lato memoria di quel confine una modalità di fallimento concreta. Solo il 44,8% di 328 adulti che avevano letto un riassunto fuorviante dell'AI identificava poi correttamente un dettaglio del video, contro l'83,6% di chi aveva letto un riassunto coerente. L'etichetta AI o umana non faceva differenza, e nemmeno la fiducia auto-riferita nell'AI ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger e Kohno, 2026]]). Si tratta di memoria della fonte anziché di apprendimento d'aula, ma un riassunto fluente può sovrascrivere il registro della fonte di chi apprende, il che conta per lo studio e la valutazione.
-
 
 ## Implicazioni per la progettazione e la ricerca
 
@@ -88,43 +88,3 @@ Un esperimento del 2026 dà al lato memoria di quel confine una modalità di fal
 - **«Le rappresentazioni mentali sono inosservabili, quindi le affermazioni cognitive sull'apprendimento sono assunzioni.»** Ricostruire immagini dall'**EEG** di chi apprende durante video scientifici ha mostrato che la **fedeltà della rappresentazione seguiva la performance al test** (coefficiente di regressione **0,8481, R² = 0,79**). La premessa cognitivista della rappresentazione interna è misurabile, e la misurazione prediceva l'esito.
 - **«Un R² alto significa che la rappresentazione spiega l'apprendimento.»** R² = 0,79 è una forte associazione tra fedeltà e performance sullo stesso materiale. Non stabilisce che alzare la fedeltà alzi la performance, che è l'affermazione interventistica.
 - **«Le componenti di conoscenza sono una comoda finzione modellistica.»** È la decomponibilità a rendere possibili [[knowledge-tracing]] e [[cognitive-diagnosis]], e i metodi funzionano nella misura in cui l'assunzione regge. Trattarla come finzione scarta la ragione per cui i metodi producono stime utilizzabili — mentre trattarla come fatto sovrastima ciò che un modello stimato dice di una mente.
-
-## Concetti collegati
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — the retention findings this practice family rests on
-
-## Articoli collegati
-
-- [[cognitive-shift-ai-education]] — The cognitive shift in AI education
-
-- [[sim-ai-summary-memory-distortion-2026]] — I riassunti AI fuorvianti hanno cambiato ciò che gli adulti ricordavano, indipendentemente dall'etichetta AI o umana del riassunto
-
-
-- [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
-- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — L'organizzazione dello sforzo, non la sua quantità, seguiva il carico e la frustrazione
-
-- [[crediting-assisted-work-inflates-mastery-2026]] — Le affermazioni di padronanza dal knowledge tracing dipendono da come viene accreditato il lavoro assistito (Srivastava 2026)
-
-

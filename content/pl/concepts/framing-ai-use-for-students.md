@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -97,37 +99,3 @@ Studenci są też ramowani przez szersze media i dyskurs publiczny wokół [[ai-
 **„Zakazanie narzędzia usuwa zachowanie."** To przenosi je do narzędzi, których nie widzisz. Studenci już wolą narzędzia dostępne prywatnie od tych zapewnianych przez instytucję, więc zakaz wypycha użycie z jedynego środowiska, w którym możliwe jest wsparcie, logowanie lub wskazówki. Zadaniem ramowania jest uczynienie zachowania dozwolonego tym atrakcyjnym, a nie utrudnienie obserwacji zachowania zakazanego.
 
 **„Ramowanie to perswazja, więc jest bardziej retoryką niż projektowaniem."** Ramowanie opisywane na tej stronie jest połączone z projektowaniem: oczekiwania formułowane jasno i wielokrotnie *przy jednoczesnym projektowaniu wokół studentów*. Komunikaty dostarczane zamiast zaprojektowanych jest wersją, która zawodzi, bo studenci odczytują różnicę między deklarowanym zobowiązaniem a rzeczywistym.
-
-## Połączone koncepcje
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Połączone artykuły
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 ekspertów co do sekwencji: przyswajaj bez generatywnej SI, utrwalaj z nią, potem myśl samodzielnie
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — Przejrzyste uzasadnienie każdego dozwolonego i niedozwolonego użycia generatywnej SI, zadanie po zadaniu (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Zachęcanie do odpowiedniego używania generatywnej SI, a nie potępianie jej jako zakłócenia
-- [[student-rationalization-ai-writing]] — „Pięć miejsc", w których studenci racjonalizują użycie SI w pisaniu akademickim
-- [[student-regulatory-awareness-genai]] — Znajomość zasad nie wystarcza: świadomość regulacyjna a faktyczne użycie
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Od lęku wobec SI do strategicznej regulacji
-- [[chatgpt-inoculation-training-verification-2026]] — Komunikaty uodparniające a zachowania weryfikacyjne
-- [[ai-fallibility-warning-help-seeking]] — Ostrzeżenie o omylności SI zwiększa poszukiwanie pomocy
-- [[shame-guilt-ai-regulation-computing-education]] — Wstyd i poczucie winy jako społeczne regulatory korzystania z SI
-- [[access-not-enough-ai-tutoring-2026]] — Ludzkie wsparcie poprawia zaangażowanie w korepetycje SI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Zaangażowanie w generatywną SI oparte na teorii samostanowienia
-- [[ai-availability-student-motivation]] — Jak dostępność SI kształtuje motywację studentów
-- [[youtube-frames-chatgpt-education]] — Jak YouTube ramuje użycie ChatGPT w edukacji
-- [[ai-ethics-education-public-discourse]] — Dyskurs publiczny o etyce SI w edukacji
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Nauczyciele ramują SI jako krytyczne/odpowiedzialne użycie; pracodawcy jako produktywność
-- [[ssaho-ai-academic-integrity-review-2025]] — Budowanie kultury uczciwości akademickiej przez jasne oczekiwania

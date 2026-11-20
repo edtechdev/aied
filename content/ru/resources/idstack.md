@@ -32,6 +32,7 @@ ai_assist:
 translation_of: resources/idstack
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -43,6 +44,3 @@ translation_note: "Автоматический перевод данной ан
 ## Что нужно знать перед внедрением
 
 Для установки плагина требуются Claude Code и оболочка bash; PowerShell и cmd не могут запустить скрипт установки, а Python 3 рекомендуется для отслеживания динамики оценок. Данные курса остаются в папке проекта на собственном компьютере пользователя и покидают её только через интеграцию, которую он сам инициирует, например через вызов Canvas API. Для инференса в режиме реального времени в расширении Chrome необходим собственный бесплатный ключ API Google AI Studio пользователя, хотя режим симуляции демонстрирует работу и без него. Проект называет себя бета-версией 3.5.1.0 и предупреждает о ломающих изменениях между минорными версиями, а публикуется он в аккаунте savvides на GitHub, а не конкретно названным автором.
-
-## Связанные концепции
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

@@ -26,6 +26,7 @@ translation_of: resources/pause-ai-use-self-examination
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
+connected_concepts: [cognitive-offloading, critical-thinking, ai-literacy, self-regulated-learning, metacognition, privacy, cognitive-surrender]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -43,8 +44,3 @@ Kendi yapay zeka alışkanlıklarını incelemek için özel bir yönlendirme is
 ## Notlar
 
 Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University) tarafından yazılmıştır; tasarım gerekçesi ve doğrulama sınırları eşlik eden bir ön baskıda belgelenmiştir ve kaynak kodu halka açıktır.
-
-## Bağlı kavramlar
-
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
-

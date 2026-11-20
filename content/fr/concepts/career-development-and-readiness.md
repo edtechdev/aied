@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
+connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -75,40 +77,3 @@ Le développement de carrière et la préparation professionnelle rejoignent la 
 Un cadre au niveau du programme rend explicites les étapes institutionnelles, bien qu'il n'ait pas été évalué en tant que programme. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propose six étapes : détection, validation par les parties prenantes, diagnostic du programme, refonte du curriculum, mise en œuvre et capacité, et revue des résultats. Chaque étape porte un droit de décision nommé et un livrable dont on rend compte, et l'IA est confinée à quatre fonctions de soutien bornées : la détection de motifs dans l'information sur le marché du travail, la cartographie des compétences, la génération d'options curriculaires soumises à l'appréciation humaine, et le suivi des indicateurs de mise en œuvre. La valeur de ce cadre est de nommer les étapes de gouvernance qu'une stratégie de préparation à la carrière laisse d'ordinaire implicites.
 
 Une enquête auprès de 1,445 étudiants chinois de premier cycle trace un chemin des croyances d'utilité à l'usage de l'IA, puis à l'exploration de carrière. L'utilité perçue de l'IA générative prédisait l'usage à β = 0.569, tandis que le sentiment d'efficacité personnelle de carrière ne le prédisait qu'à β = 0.082. L'usage était ensuite associé au comportement d'exploration de carrière à β = 0.423, le sentiment d'efficacité personnelle restant le plus fort prédicteur cognitif de l'exploration elle-même (β = 0.285), et le modèle expliquait 50.5% de la variance de l'exploration ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). Les chemins indirects sont statistiques et transversaux, et non longitudinaux.
-
-## Concepts liés
-
-- [[professional-training]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[student-support-and-success]] — les résultats qui suivent l'achèvement : la persévérance, la rétention et l'obtention du diplôme
-
-## Articles liés
-- [[boyd-swan-employer-responses-genai-2026]] — Expérience par enquête auprès d'environ 1 750 professionnels américains du recrutement : le cadrage en termes de substitution a réduit la volonté d'entretien et de négociation salariale, surtout pour les candidats à forte moyenne (Boyd-Swan & Reynolds 2026)
-
-- [[ai-free-gates-engineering-students-india-2026]] — Des filtres sans IA au travail avec l'IA dès le premier jour : comment les étudiants en ingénierie en Inde naviguent entre études universitaires et placements sur le campus sans lignes directrices sur l'IA
-- [[ai-literacy-graduate-employability-2026]] — Preuves PLS-SEM que la littératie en IA atteint l'employabilité perçue par l'adaptabilité de carrière, l'état d'esprit de croissance n'ajoutant rien (Hendrawan et Lestari 2026)
-- [[mccorkle-aligned-genai-course-policy-2025]] — Arbitrages entre évaluation et compétences professionnelles, décidés tâche par tâche (McCorkle 2025)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — les capacités d'adaptation de carrière réduisent l'anxiété liée à l'IA
-- [[ai-literacy-career-adaptability-business-2026]] — Littératie en IA et adaptabilité de carrière dans l'enseignement de la gestion
-
-- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Huit groupes de discussion : les utilisateurs créditent l'efficacité et l'affinage, les non-utilisateurs l'originalité et le travail d'équipe (autonomie assistée contre créativité lente)
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Compétences en IA pour les diplômés du supérieur : priorités des enseignants et des employeurs
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — préparation à la vie professionnelle pour la fabrication intelligente
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — L'IA et l'avenir de la main-d'œuvre en ingénierie et en informatique
-- [[post-covid-ict-career-aspirations]] — Aspirations de carrière dans les TIC après la COVID-19
-- [[kim-ai-anxiety-comprehensive-analysis]] — L'anxiété liée à l'IA et la peur du remplacement
-- [[duan-ai-anxiety-career-decisions-college-2026]] — L'anxiété liée à l'IA nuit aux décisions de carrière par l'adaptabilité de carrière (médiation de 63.35%)
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — L'anxiété et les attitudes liées à l'IA prédisent l'anxiété de recherche d'emploi (1.057 étudiants)
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — L'anxiété liée à l'IA prédit l'anxiété de recherche d'emploi en sciences de la santé (r=0.233, 821 étudiants)
-- [[ai-attitude-latent-profiles-career-development-2026]] — Quatre profils d'attitude face à l'IA : le modelage de carrière et l'employabilité suivaient l'engagement, non l'anxiété
-- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Les prévisions des enseignants sont des prédictions, non des preuves sur l'emploi
-
-- [[kong-ai-employability-cognitive-engagement-2026]] — La carte des construits d'une revue narrative, de l'apprentissage soutenu par l'IA à l'employabilité
-- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — Cadre de processus en six étapes, non évalué, pour aligner les programmes sur les marchés du travail de l'ère de l'IA
-- [[lu-career-cognitions-genai-exploration-2026]] — 1 445 étudiants chinois : utilité de l'IA, usage et exploration de carrière dans un même modèle transversal

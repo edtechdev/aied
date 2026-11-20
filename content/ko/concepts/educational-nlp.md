@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -60,7 +62,6 @@ ai_assist:
 
 - **ASR 전사본의 개체 충실도는 어휘 정확도와 별개의 질문입니다.** 다섯 개의 음성 인식 시스템을 인간 참조 전사본과 벤치마크한 [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]]는 이 지식베이스의 첫 ASR/NER 개체 충실도 증거를 보고합니다. 단어 오류율은 2.43%(TurboScribe)에서 15.32%(Vosk)에 걸쳤고, 일곱 범주 정답 개체 유형 코딩에서 GPT-5.5는 정확도 0.805(κ = .726)에 도달한 반면 spaCy는 0.634(κ = .488)였습니다. 집계 WER만으로는 전사 후 개체 구조가 살아남았음을 인증할 수 없습니다.
 
-
 ## 튜터링과 측정과의 연결
 
 교육용 NLP는 학습자 언어의 분석([[student-modeling]], [[knowledge-tracing]])과 적응형 교수 콘텐츠의 생성([[intelligent-tutoring]], [[scaffolding]]) 양쪽의 기반이 됩니다. [[ai-generated-interactive-fiction-education-2026]]는 학습을 위한 NLP 기반 콘텐츠 생성을 보여주며, [[zerkouk-comprehensive-review-its-2025]]는 NLP를 더 넓은 [[intelligent-tutoring]] 환경 속에 위치시킵니다. LLM 기반 분석이 성장함에 따라, NLP에서 얻은 통찰이 실제로 학습을 개선하는지 검증하기 위해 [[rct]]와 [[research-methods-aied]] 프레임워크가 중요해집니다.
@@ -74,38 +75,3 @@ ai_assist:
 - **"의미 유사성으로 교육과정 정렬을 선별할 수 있습니다."** **3,837개의 치과 목표-초록 쌍**을 선별한 연구에서 임베딩 검색에 자연어 추론 검사를 더한 방식은 **문항의 22.9%**를 정렬된 것으로 판정했습니다. 의미 유사성은 정렬에 대한 **약한 신호**입니다. 유창한 주제적 일치와 실제 학습 목표의 일치는 서로 다른 관계입니다.
 - **"발화 수준 분류가 자연스러운 단위입니다."** **수업 전체 모델링이 발화 수준 분류를 이깁니다**. 고립된 발화 대신 전체 대화록을 채점했을 때 **추론 연쇄 탐지가 14.2퍼센트포인트 높아졌습니다**. 수업을 가로지르는 맥락은 어느 단일 발화든 파괴하는 정보를 담고 있습니다.
 - **"평가 의견에 대한 NLP 확장이 영향력을 낳습니다."** 개방형 수업 평가에 NLP를 적용한 **421편의 연구**(2015-2026)를 대상으로 한 PRISMA-ScR 범위 검토와 증거 지도는 확장이 **활용에 이르지 못했음**을 발견했습니다. 방법 산출물의 양은 채택이 아니며, 격차는 모델링이 아니라 배치 단계에 있습니다.
-
-## 연결된 개념
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — 포괄 개념: AI 기술과 기법(모델, LLM 훈련, 로보틱스, RAG, 에이전트)
-
-## 연결된 문서
-- [[lee-learner-question-types-ai-education-2026]] — 구성주의적 역할로의 학습자 질문 트랜스포머 분류 (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — 영어 교수를 위한 BERT 담화 관계 자동 분류
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI 강의에서의 학생–LLM 대화 StudyChat 데이터셋
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — 신경-상징 교육 정렬(NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — 루브릭 기반 교수 품질을 위한 SHAP과 LLM 근거
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — 학습 분석을 위한 자기 설명 LM 증류
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — 다중 에이전트 LLM(GradeOpt)이 교사의 내용 지식과 교육학적 내용 지식을 코딩; 고전 인코더와 단순 프롬프팅은 PCK에서 부족
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: 교육 대화의 감사 가능한 코딩을 위한 주장 기반 스키마
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 감정 분류에서 실행 가능하고 책임 있는 피드백으로: 학생 교수평가에서 NLP의 범위 검토와 증거 지도, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 보조 교육 문항의 교육학적 평가를 위한 사전훈련 모델 평가
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: 세밀한 지식 개념 태깅을 위한 선택적 추론 파이프라인
-- [[nlp-reading-lists-dental-education-2026]] — 치과 교육에서 읽기 자료를 학습 목표에 정렬하고 주제 균형을 평가하기 위한 자연어 처리
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: 잡음 많은 혼합 문서 파싱을 위한 손글씨 답안지 데이터셋
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — 물리학이 아니라 어휘로 조직하는 임베딩 클러스터

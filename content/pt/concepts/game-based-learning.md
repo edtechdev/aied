@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [educational-robotics, student-engagement, motivation, self-determination-theory, active-learning, simulation, project-based-learning, computational-thinking, cs-education, pedagogy, virtual-and-augmented-reality]
+connected_articles: [karampa-students-game-designers-ai-literacy-2026, ai-game-based-learning-systematic-review-2026, game-based-gamified-robotics-education-review-2026, remind-robot-mediated-roleplay-antibullying-2026, motibo-digital-storytelling-robots-motivation-2026, bots-blocks-project-based-robotics-education-2026, white-wu-robotics-ai-education-2026, genai-motivation-engagement-2026, nasa-tlx-workload-gamified-ai-2026, arcs-motivational-ergonomics-gamified-ai-2026, xie-genai-mystery-game-legal-education-2026, hengsawat-ai-game-based-learning-computational-thinking-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -41,7 +43,6 @@ A GBL se fundamenta nas teorias de [[motivation|motivação]], [[student-engagem
 - **Educação em robótica:** [[game-based-gamified-robotics-education-review-2026|uma revisão sistemática comparativa]] de aprendizagem baseada em jogos e gamificação na educação em robótica concluiu que a GBL é mais prevalente em contextos informais, enquanto a gamificação dominava salas de aula formais e favorecia a [[project-based-learning|aprendizagem baseada em projetos]].
 - **Jogos mediados por robôs:** o [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] é um jogo de simulação de papéis mediado por robô para intervenção contra o *bullying*, e o [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] usa [[storytelling-in-education|narrativa digital]] interativa para impulsionar a motivação.
 - **[[conversational-ai|Agentes conversacionais]] de IA em jogos de simulação:** Wenzel, Geiger e Liening (2026) derivam o framework CAIS-GBL — quatro princípios de design e quinze características de design para agentes conversacionais de IA na aprendizagem baseada em jogos digitais — a partir de metarrequisitos orientados por teoria que abrangem engajamento cognitivo, motivacional, [[affective-computing|afetivo]] e [[sociocultural-learning|sociocultural]], com uma postura de [[equity-in-ai-education|equidade por design]]. O agente instanciado deles (Lara) em um jogo de simulação de negócios foi recebido positivamente por presença cognitiva e [[community-of-inquiry|social]] e apoio à [[self-regulated-learning|aprendizagem autorregulada]], enfrentando a lacuna comum de feedback [[formative-assessment|formativo]] limitado e reflexão estruturada em jogos de simulação.
-
 
 - **Eficácia da GBL com IA:** uma [[meta-analysis-systematic-review|metanálise]] cobrindo 55 estudos de aprendizagem baseada em jogos com apoio de IA relata ganhos sobre conhecimento, motivação intrínseca e engajamento afetivo, embora apenas 4 estudos (7%) tenham superado seu critério de alta qualidade e apenas 4 (7%) fossem [[rct|ECRs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt, 2026]]). A eficácia dependia de alinhar o mecanismo de IA a uma [[learning-theories|teoria da aprendizagem]] declarada.
 
@@ -92,33 +93,3 @@ A GBL e a gamificação, juntas, se conectam a [[educational-robotics|robótica 
 **"Efeitos positivos sobre motivação e conhecimento se reforçam mutuamente."** Eles são medidos separadamente e, na literatura mais ampla, agendados separadamente: [[student-engagement|engajamento e desempenho]] se movem em cronogramas diferentes, de modo que um jogo que eleva a motivação intrínseca demonstrou um resultado. Tratar o resultado motivacional como corroboração do resultado de conhecimento infla um achado de duas partes em algo mais forte do que o desenho sustenta.
 
 **"Se um jogo engaja os estudantes, a aprendizagem decorre da diversão."** A diversão é o mecanismo de entrega da repetição que o jogo torna tolerável, e não o mecanismo da aprendizagem. Um jogo que acrescenta engajamento sem acrescentar prática produtiva acrescentou a parte que nunca foi escassa.
-
-## Conceitos conectados
-- [[educational-robotics]]
-- [[student-engagement]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[active-learning]]
-- [[simulation]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[virtual-and-augmented-reality]] — prática imersiva e gamificada se sobrepõem em design e evidência
-
-## Artigos conectados
-- [[karampa-students-game-designers-ai-literacy-2026]] — Estudantes do ensino fundamental desenham um jogo de tabuleiro de fuga; o letramento em IA sobe em um laboratório de e-course
-- [[ai-game-based-learning-systematic-review-2026]] — Revisão sistemática de 55 estudos de aprendizagem baseada em jogos com apoio de IA: resultados positivos, uma base de evidências escassa
-
-- [[game-based-gamified-robotics-education-review-2026]] — Educação em robótica baseada em jogos e gamificada
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
-- [[genai-motivation-engagement-2026]] — IA generativa, motivação e engajamento
-- [[nasa-tlx-workload-gamified-ai-2026]] — Carga de trabalho NASA-TLX entre condições gamificadas/com IA
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivação ARCS e gamificação com apoio de IA
-- [[xie-genai-mystery-game-legal-education-2026]] — Jogo de role-play de mistério escrito por GenAI versus aula expositiva na educação jurídica (Xie et al. 2026)
-- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Desenho e validação preliminar de um ambiente de aprendizagem baseada em jogos aprimorado por IA para pensamento computacional
-
-- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt: uma ferramenta baseada em jogos para ensinar engenharia de prompts por meio da geração de texto para imagem em contextos K–12

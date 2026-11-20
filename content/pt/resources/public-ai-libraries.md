@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [libraries, digital-divide, ai-literacy, equity-in-ai-education, open-source, lifelong-learning, llm]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -46,13 +47,3 @@ Bibliotecas públicas que querem hospedar um quiosque (o programa aceita inscri�
 - Bibliotecas participantes contribuem com **\$1.000 por implantação de quiosque por ano**; o piloto em si está limitado às unidades que se inscreveram.
 - A declaração de privacidade é uma afirmação do programa, não uma constatação auditada; uma biblioteca deve confirmar os termos de retenção e de segurança infantil em seu próprio acordo de tratamento de dados.
 - A segunda e a terceira fases do roteiro, que permitem às bibliotecas ingerir arquivos locais e governar os sistemas resultantes, estão planejadas, não entregues.
-
-## Conceitos conectados
-
-- [[libraries]]
-- [[digital-divide]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[open-source]]
-- [[lifelong-learning]]
-- [[llm]]

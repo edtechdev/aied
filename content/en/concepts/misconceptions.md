@@ -13,6 +13,8 @@ connected_faqs: [addressing-common-misconceptions-ai-education]
 connected_podcasts: [confident-and-wrong-misconceptions]
 connected_videos: [ai-myths-in-education]
 reviewed_by: [editor]
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 > **Misconceptions about AI** — the inaccurate beliefs people hold about what AI systems are, what they do, and what using them means for learning and work. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process). They are held not only by students but also by teachers, administrators, policymakers, and the broader public — and correcting them is a core aim of [[ai-literacy|AI literacy]] and [[trust-calibration|trust calibration]] education.
@@ -114,36 +116,3 @@ These refutations are deliberately written in the [[refutation-text|refutation t
 - **"Teachers' misconceptions are correctable by presenting evidence."** In a pilot with **123 Italian educators**, disagreement clustered hardest on **cognitive learning styles (78% of teachers defended visual/auditory matching)**, inclusion and group work (68%) and EdTech overload (54%). The strongest disagreements were the ones most resistant to evidence, which is why [[refutation-text|refutation]] beats assertion.
 - **"Teacher objections to evidence are all resistance."** When the same items were delivered through a conversational AI that **validated the teacher's context before re-introducing the evidence**, **41% of objections concerned real contextual constraints** — class size, special needs, curriculum demands. A substantial share of apparent misconception was accurate objection.
 - **"Misconceptions can be detected reliably from dialogue."** **Of 241 prompted segments, 221 (91.7%) were confirmed as strategic misconceptions by expert majority vote (Fleiss' κ = 0.9487)**, with **no significant differences** between groups. High reliability is achievable under expert adjudication, and that is the condition the claim depends on.
-
-## Connected Concepts
-
-- [[pedagogical-patterns]] — The conceptual-change sequences that confront a specific held belief
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Connected Articles
-- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Children's AI-safety misconceptions: friendship with a robot misread as a privacy guarantee (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

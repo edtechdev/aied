@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
+connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -76,29 +78,3 @@ Como los portafolios electrónicos ponen en primer plano el **proceso, la reflex
 **«Un resultado multivariante significativo prueba que el portafolio fue el ingrediente activo.»** Prueba que el conjunto movió los resultados. El estudio combinó una herramienta de IA, una estructura de portafolio y tareas de expresión oral, y un diseño así no puede aislar qué componente produjo la ganancia. La afirmación defendible es sobre la combinación, y se aplica la precaución de las [[learning-gains|mejoras de aprendizaje]]: las ganancias reportadas deben poder rastrearse hasta un componente antes de poder reutilizarse.
 
 **«Los portafolios electrónicos sustituyen la necesidad de una evaluación sin asistencia.»** La complementan. Un portafolio evidencia el proceso y el crecimiento a lo largo del tiempo; no evidencia lo que quien aprende puede hacer sin apoyo, y confundir ambas cosas reintroduce el problema del artefacto como indicio que el formato adoptó precisamente para resolver.
-
-## Conceptos conectados
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[reflection]]
-
-## Artículos conectados
-
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Percepciones del estudiantado sobre el desarrollo de multialfabetizaciones mediante la evaluación de portafolios asistida por IA (Ni y Lam, 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT alineado con la evaluación por portafolio electrónico para la expresión oral en inglés como lengua extranjera y la alfabetización en retroalimentación (Laksana et al., 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Evaluación por portafolios y basada en competencias en la era de la IA
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Evaluación auténtica robusta frente a la IA generativa, incluidos los portafolios de contribución social
-- [[beyond-detection-authentic-assessment-ai-2025]] — Portafolios anotados y defensas orales como evaluación resistente a la IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — El Portafolio Simbiótico para estudiantes híbridos
-- [[pbl-structural-conditions-ai-2026]] — Los portafolios como respuestas parciales a la evaluación a escala
-- [[learn-framework-responsible-genai-pbl-2026]] — Portafolios personales de aprendizaje como rastros de aprendizaje evaluables

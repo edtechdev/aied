@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -44,7 +45,3 @@ Nastavnici i [[learning-design|dizajneri nastave]] u K-12 i visokom obrazovanju 
 ## Napomene i upozorenja
 
 Centar je smjernica, a ne proizvod za sukladnost: stranica ne tvrdi sukladnost s vlastitim ciljem WCAG 2.2 AA, na pitanje „čini li upotreba ovih datoteka moju stranicu sukladnom?“ odgovara niječno i navodi da inženjerski pregled ne zamjenjuje odobrenje škole ni pravni pregled. Polica sigurnosti upućuje na axe-core, Gitleaks, ZAP i Playwright; to su reference, a ne priloženi softver, a invazivni alati namijenjeni su cilju koji se može odbaciti ili je izričito ovlašten. Za čitanje nije potreban račun. Ponovna izgradnja HTML stranica traži Python i `markdown-it-py`, što je ovisnost izgradnje, a ne ovisnost posjetitelja. Repozitorij je pod MIT licencijom, dok umjetnička djela trećih strana i povezani projekti zadržavaju vlastite uvjete, dokumentirane u `CREDITS.md`.
-
-## Povezani pojmovi
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

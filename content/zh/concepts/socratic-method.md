@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -134,52 +136,3 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 - **"苏格拉底式提问只是不给答案。"** 一个部署在大型入门力学课程（**150 名一年级 [[stem-education|STEM]] 专业学生**）中的定制苏格拉底式 AI 聊天机器人产生了**可测量的**增益，而其设计是结构化提问：一种受约束的交互，而非沉默的模型。
 - **"效应在投入的下游。"** [[socratic-nuclear-ai-learning|Socrates went Nuclear（Clin Deffarges、Kosmyna 与 Maes，2026）]]是一项**对 50 名参与者的随机 EEG 研究**，比较一个无限制的 ChatGPT 式机器人与一个**苏格拉底式**机器人，它测量机制，而不是从结果推断机制。
 - **"约束是要被移除的问题。"** 支持约束的最强因果证据指向相反方向：在一项 K-12 综述中，使用通用聊天机器人的高中生在**闭卷期末考上的成绩比使用受约束工具的同伴差约 17%**。无约束的工具才是有害的条件。
-
-## 关联概念
-
-- [[pedagogical-patterns]] — 提问序列及其相互冲突的试验证据
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[student-experience]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[agency]]
-- [[critical-thinking]]
-- [[pedagogy]] — 总括：AI教育中的教学法与教学策略
-- [[productive-failure]] — 有效失败
-
-## 关联文章
-- [[agent-type-feedback-style-self-directed-learning-2026]] — 一项2×2研究生设计研究中苏格拉底式与指导性反馈风格的对比
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — 评价面向支架的多智能体大语言模型系统用于临床问诊训练
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[genai-performance-vs-learning]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[stanford-evidence-base-ai-k12-2026]] — 结构化的苏格拉底提示 对 开放式通用问答
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 为有效失败而做的 LLM 教学性引导
-- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复生产性挣扎
-- [[rhaimi-productivemath-2025]] — ProductiveMath：支持 PF 问题设计的 AI
-- [[lukesova-clue-before-correction-2026]] — 先给线索再纠正：用于自主语言学习的 ChatGPT
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear：比较 AI 在学习中的交互策略
-- [[lftutor-logical-fallacy-education-2026]] — 苏格拉底式提问加批判性论证：四步谬误辅导框架
-
-- [[guardrails-ai-teaching-assistants-programming-2026]] — 护栏还是路障？编程 AI 教学助手中教学风格与情境意识的影响
-- [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升职前生物学教师的 PISA 对齐论证技能
-- [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
-- [[socratic-probing-agent-physics-cave-detection-2026]] — 设计一个不做辅导的 AI 智能体：导论物理中苏格拉底式探测的设计规则
-- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — 在有引导的聊天机器人中，反思性问题评分最低、波动最大

@@ -28,6 +28,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -92,35 +94,3 @@ ai_assist:
 - **«Устное оценивание не масштабируется».** В [[code-review-genai-cs1|исследовании устного код-ревью CS1]] **еженедельные пятнадцатиминутные интервью несли семьдесят процентов оценки за каждое задание**, а доля вставленных символов от общего числа всё ещё оставалась информативной. Цена реальна, а конструкция осуществима в масштабе курса.
 - **«Устные экзамены мягче письменных».** В описанном пилоте баллы **превысили баллы очных тестов с множественным выбором: медиана промежуточного 92.5 против 70 (p < .001) и медиана итогового 94.2 против 86.4 (p = .002)**. Устное оценивание не было снисходительным вариантом.
 - **«Симулированная встреча эквивалентна кейсам с прогрессивным раскрытием».** В [[ai-standardized-patient-scaffolding-medical-2026|РКИ со ста студентами-третьекурсниками медицинского факультета]] система симулированного пациента сравнивалась **с материалами кейсов с прогрессивным раскрытием** — прямая проверка эквивалентности, а не допущение о ней.
-
-## Связанные концепции
-
-- [[pedagogical-patterns]] — Последовательности устной проверки и viva, и что они демонстрируют и чего не демонстрируют
-- [[assessment]] — более широкая область, внутри которой находится этот формат
-- [[authentic-assessment]] — традиция проектирования, которая обосновывает случай добросовестности
-- [[assessment-validity]] — что формат может и не может претендовать измерять
-- [[academic-integrity]] — давление, которое вернуло устные экзамены к значимости
-- [[automated-assessment]] — машинное проведение и оценивание устного выступления
-- [[ai-detection]] — альтернативный ответ, и почему он слабее
-- [[speech-and-voice-technologies]] — речевой конвейер, на котором работает система устного оценивания
-- [[multimodal]] — жест и речь как комбинированное доказательство
-- [[anxiety-and-stress]] — аффективная цена живого выступления
-- [[feedback]] — что устный экзамен сообщает учащемуся о его собственном понимании
-- [[higher-ed]] — условие, из которого происходит почти все эти доказательства
-
-## Связанные статьи
-
-- [[ai-second-language-listening-speaking-assessment-2025]] — Неветвящиеся диалоговые задачи ИИ рассогласуют требования задачи с конструктом говорения
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Живые защиты больше не защищены: ИИ-очки и наушники доставляют скрытые подсказки в реальном времени (Corbin, Sharpe & Dawson 2026)
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Переосмысление использования устных экзаменов и оценивания (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Асинхронные устные оценивания: добросовестность, вовлечённость и профессиональная коммуникация
-- [[ai-supported-oral-assessment-tvet-2026]] — Проектирование поддерживаемого ИИ устного оценивания в профессиональном образовании
-- [[aivaluate-anxiety-assessment-2026]] — Тревожность и опыт в опосредованном ИИ оценивании на основе выступления
-- [[code-review-genai-cs1]] — Интервью устного рецензирования кода во вводном курсе программирования
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Жест как доказательство при оценивании устных объяснений
-- [[socratic-tests-conversational-assessment]] — Автоматизированное разговорное тестирование как устное оценивание
-- [[tool-invariant-framework-agentic-ai]] — Устные защиты работ, выполненных с помощью ИИ
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Устные клинические интервью под системой симулированного пациента
-- [[pgr-students-genai-uses-qualitative-2026]] — Устная защита диссертации в условиях генеративного ИИ
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-- [[assessment-feedback-trilemma-model-2026]] — Отказывает любому формату в фиксированной позиции и переосмысляет осуществимость как образовательный приоритет

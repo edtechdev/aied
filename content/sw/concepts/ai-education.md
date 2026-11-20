@@ -31,6 +31,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -193,55 +195,3 @@ AI katika elimu inaungana na kila dhana katika hifadhi ya maarifa — ni uwanja 
 **"Kwa kuwa AI ni ya matumizi ya jumla, ugunduzi mahali popote unatumika kila mahali."** Ujumla wa teknolojia hauleti ujumla wa ushahidi. Mikondo ya taaluma, kiwango na muktadha ipo kwa sababu zana hiyo hiyo hujiendesha tofauti kati yao, na ugunduzi usiobadilika unaobebwa kuvuka mpaka ni uhamishaji usio halali (extrapolation).
 
 **"Ukomaa wa uwanja unaweza kusomwa kutoka kwa wingi wa machapisho."** Wingi na ukomaa hutengana; mkondo wa mbinu za utafiti unaandika udhaifu wa mara kwa mara wa usanifu ambao wingi hauurekebishi, na mifumo huongezeka haraka kuliko inavyojaribiwa.
-
-## Dhana Zilizounganishwa
-- [[primary-education]] — AI katika elimu ya msingi
-- [[secondary-education]] — AI katika shule ya kati na sekondari
-- [[undergraduate-education]] — AI katika masomo ya shahada ya kwanza
-- [[graduate-education]] — AI katika masomo ya uzamili na uzamivu
-- [[pedagogical-patterns]] — Mifululizo iliyojaribiwa inayoleta mbinu za kufundisha za uwanja katika utendaji
-- [[ai-literacy]] — mwanya: kuelewa, kutumia, na kutathmini AI
-- [[automation-bias]] — kushindwa kwa upande wa msomaji: kukubali hukumu ya otomatiki bila kuikagua
-- [[human-ai-collaboration]] — mwanya: jinsi watu na AI wanavyofanya kazi pamoja
-- [[pedagogy]] — mwanya: mbinu za kufundisha na mikakati
-- [[case-based-learning]] — Mbinu ya kesi, majadiliano ya kesi, na kesi zinazopingana
-- [[metaphors-and-analogies]] — Jinsi sitiari inavyounda ufahamu wa AI na jinsi mfanano unavyosaidia kufundisha
-- [[learning-theories]] — mwanya: jinsi kujifunza kunavyotokea
-- [[ai-technologies]] — mwanya: mifumo, mbinu, na mifumo ya kiufundi
-- [[discipline-specific-aied]] — mwanya: AI katika maeneo ya masomo na viwango
-- [[assessment]] — mwanya: jinsi AI inavyowata wanafunzi na kuunda upya uhalali
-- [[feedback]] — mwanya: jinsi maoni yanavyozalishwa, kuwasilishwa, na kutumika
-- [[stakeholders]] — mwanya: nani wanahusika
-- [[learners]] — mwanya: dhana za upande wa mwanafunzi (uzoefu, utambulisho, wakala, mwingiliano, mifano ya mwanafunzi)
-- [[ai-ed-evaluation]] — mwanya: jinsi tunavyojua kama AI inafanya kazi
-- [[research-methods-aied]] — mwanya: mbinu za utafiti wa ufanisi
-- [[ai-assisted-educational-research]] — Utafiti wa Kielimu Unaosaidiwa na AI
-- [[governance]] — mwanya: tabaka la taasisi na kisheria
-- [[educational-policy-ai]] — mwanya: sera, miongozo, na utekelezaji
-- [[equity-in-ai-education]] — mwanya: haki, upatikanaji, na ujumuishi
-- [[learning-sciences]] — uwanja wa kieledu nyuma ya AIEd
-- [[ethics]] — vipimo vya maadili vya AI katika elimu
-- [[misconceptions]] — mifano ya akili ambayo watu huileta kwa AI
-- [[interpreting-and-applying-aied-research]] — kusoma somo, na kubeba matokeo katika mazoezi
-- [[limitations-in-aied-research]] — mapungufu ya kupitulia ya msingi wa ushahidi
-- [[meta-analysis-systematic-review]] — kile ambacho mapitio na meta-analysis zinaweka wazi
-- [[history-of-aied]] — jinsi uwanja ulivyokua
-- [[philosophy-of-ai-in-education]] — misingi ya falsafa
-- [[theories-and-frameworks]] — ramani ya nodi za nadharia na miundo
-- [[theory-development-aied]] — kujenga na kurekebisha nadharia
-- [[sensor-and-gaze-analytics]] — mwanya: kuhisi wanafunzi kupitia mtazamo, EEG na ishara za vifaa vinavyovaliwa
-- [[ai-avatars-and-synthetic-instructors]] — mwanya: wanadamu wa sanisi wakifundisha, wakifundisha binafsi, wakiiga na kutathmini
-- [[civic-and-political-education]] — eneo la somo: ujuzi kwa maisha ya umma, wenye msingi mdogo wa ushahidi
-
-## Makala Zilizounganishwa
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Mageuko ya utafiti wa AI-na-elimu katika miongozo minne (mfumo wa AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — Udhibiti dhidi ya wakala: historia ya AI katika elimu
-- [[genai-higher-education-systematic-review-2026]] — AI ya kizalishaji katika elimu ya juu: mapitio ya kimfumo ya masudio 125
-- [[stanford-evidence-base-ai-k12-2026]] — Msingi wa ushahidi kuhusu AI katika K-12: mapitio ya karatasi 818
-- [[genai-educational-outcomes-meta-analysis]] — AI ya kizalishaji na matokeo ya kieledu: meta-analysis kamili
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — Masudio 33 ya sekondari; mafanikio pale wanafunzi wanapohukumu matokeo, si pale zana inavyozalisha kazi
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — Wanafunzi 425 wa shahada ya uzamili; utayari ulifikia uwezo binafsi kupitia msaada wa msimamizi
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Mapitio ya vyanzo 61 ya maadili, maoni na utawala wa usimamizi wa udaktari
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Semina ya shahada ya uzamili ya kikundi kimoja; mafanikio ya kujifunza kwa kujielekeza bila mtihani wa kujitegemea
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Wanafunzi 381; pengo kati ya shahada ya kwanza na uzamili katika maadili na kujidhibiti

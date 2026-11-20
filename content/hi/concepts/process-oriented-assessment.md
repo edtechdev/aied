@@ -24,6 +24,8 @@ ai_assist:
 translation_of: concepts/process-oriented-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -89,45 +91,3 @@ Salameh (2026) का Fade-Visibility Matrix उसी डिज़ाइन प
 - **"उच्च अंक का अर्थ है कि छात्र ने वह कार्य किया जो हमने डिज़ाइन किया था।"** ट्रेस अंकों से **सीधे भिन्न हो सकते हैं**: **150 छात्र-AI संवादों** में से **41% में असाइनमेंट अंक ठीक 1.00 था जबकि अवलोकनीय संज्ञानात्मक भागीदारी भिन्न थी**। अंक संतृप्त हो जाता है जबकि वह प्रक्रिया, जिसे उसे उत्पन्न करना था, नहीं होती।
 - **"पैमाने पर प्रक्रिया डेटा अप्रबंधनीय है।"** आवश्यक प्रलेखन पाठ्यक्रम-पैमाने पर **छह सेमेस्टरों में छह-सप्ताह के अतुल्यकालिक स्नातकोत्तर शोध-विधि पाठ्यक्रमों में, जो लगभग 440 K-12 शिक्षकों को सेवा देते थे**, व्यवहार्य सिद्ध हुआ। लॉजिस्टिक्स हल हो सकते थे; यह आपत्ति लागत को बढ़ा-चढ़ाकर बताती है।
 - **"समस्या-समाधान प्रक्रिया से आँकने के लिए बहुत समग्र है।"** इसे **चार चरणों और आठ नैदानिक उप-कौशलों** के रूप में संक्रियायित किया जा सकता है, जिससे एक LLM **चरण-विशिष्ट प्रश्न और रूब्रिक** उत्पन्न कर सकता है, जिनका उपयोग **पाँच शिक्षकों और 64 छात्रों** के साथ हुआ। विघटन ही वह चीज़ थी जिसने प्रक्रिया को पठनीय और आँकने-योग्य बनाया।
-
-## संबंधित अवधारणाएँ
-- [[pedagogical-patterns]] — चरणबद्ध जाँच-बिंदु और प्रक्रिया-प्रमाण क्रमबद्ध डिज़ाइन के रूप में
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[eportfolio]]
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-
-## संबंधित लेख
-- [[alam-process-oriented-collaborative-essays-2026]] — प्रथम वर्ष डिग्री अपरेंटिसशिप में अंकित, सहयोग से लिखा गया प्रक्रिया-निबंध: रूब्रिक में पुनरावृत्ति और सहयोग, घोषित सीमाओं के भीतर GenAI की अनुमति (आलम और जैक्सन 2026)
-- [[genai-performance-vs-learning]] — प्रदर्शन सीखना नहीं है: प्रक्रिया-मापों पर निर्मित एक अनुसंधान एजेंडा (यान एवं सहयोगी 2026)
-- [[human-centered-ai-teacher-educators-2026]] — औचित्य और चिंतन पर निर्मित AI-प्रतिरोधी, प्रक्रिया-आधारित कार्य मांगते शिक्षक-शिक्षक (बारन एवं सहयोगी 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — टिप्पणीबद्ध निर्णय-पथ, मौखिक प्रतिपक्ष बचाव, और दृश्य निर्णय के लिए चुने गए प्रारूप अंतर
-- [[munoz-misconduct-allegation-evidence-2026]] — दुराचार मामला-फ़ाइलों में क्या होता है, और उनमें कौन-सा प्रक्रिया-प्रमाण नहीं होता
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — जब मूल्यांकन प्रमाण प्रतिस्थापित हो तो कौन-सा अनुमान जोखिम में होता है
-- [[beyond-detection-authentic-assessment-ai-2025]] — प्रामाणिकता का पुनर्निर्धारण होना चाहिए, उसकी पुलिसिंग नहीं
-- [[authentic-products-authenticated-processes-2026]] — प्रामाणिक उत्पाद और उन्हें उत्पन्न करने वाली प्रक्रियाएँ
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — मौखिक परीक्षा एक AI-प्रतिरोधी स्वरूप के रूप में जो तर्क को सजीव बनाता है
-- [[thapa-lewis-process-oriented-assessment-2026]] — ज्ञानात्मक प्रामाणिकता और प्रोसेस-ओरिएंटेड मूल्यांकन के पीछे चार डिज़ाइन प्रतिबद्धताएँ (थापा और लुईस 2026)
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — चैनल-आश्रित प्रक्रिया-प्रमाण: लॉग और थिंक-अलाउड भिन्न प्रक्रियाएँ उजागर करते हैं
-- [[drafttrace-ai-writing-analytics-2026]] — ड्राफ्टट्रेस: AI-एकीकृत लेखन के लिए एक बहु-दृश्य विश्लेषण वातावरण
-- [[epistemic-ownership-ai-mediated-education-2026]] — समान प्रदर्शन, भिन्न प्रक्रिया: AI-माध्यमित शिक्षा में ज्ञानात्मक स्वामित्व
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: LLM-निर्मित प्रश्नों के माध्यम से छात्रों के गणितीय समस्या-समाधान कौशल के निदान में शिक्षकों का समर्थन
-- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — एक आलोचनात्मक कथा-समीक्षा जो तर्क देती है कि डिफ़ॉल्ट विफलता कभी न फीकी पड़ने वाली AI सहायता और केवल-उत्पाद मूल्यांकन का युग्म है (Salameh 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — AI संवाद का चेकपॉइंट प्रलेखन छह सेमेस्टरों और लगभग 440 शिक्षकों में 96% पूर्णता पर टिका
-- [[rubrics-genai-process-based-assessment-2026]] — Biggs के 3P मॉडल से तीन रूब्रिक आयाम: सक्रियता और पर्यवेक्षण, संवादात्मक स्कैफ़ोल्डिंग, संज्ञानात्मक संप्रभुता (Oviedo और Díaz 2026)
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — एक CodeMirror संपादक और एक लॉग-किए गए चैट पैनल ने एक निबंध सत्र को प्रक्रिया-प्रमाण में बदल दिया, अपनी टाइपिंग-बनाम-सोच सीमा के साथ (Jelson et al. 2026)
-- [[xian-process-visualization-feedback-news-translation-2026]] — प्रक्रिया-दृश्यीकरण और एक चिंतन सत्र ने संशोधन को सतह से अर्थ-स्तर तक बदला, संपादन-मात्रा बढ़ाए बिना
-

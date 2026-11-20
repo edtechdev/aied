@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -38,8 +39,3 @@ ai_assist:
 ## Neden var olduğu
 
 Yirmi sekiz yıldır kurumsal eğitim tasarlayan Curt Zilbersher, kariyeri boyunca kendini tekrar eden aynı küçük çözümsüz sorunları — anlatım kelimelerini saymayı, bir kursu bir [[edtech-platform|LMS]] sınırının ötesine iten varlığı bulmayı, altyazı kapsamını elle denetlemeyi — anlatır ve çözümleri geliştirip ücretsiz dağıtmaktadır. Site ayrıca öğretim tasarımcılarının haftasını fiilen nasıl geçirdiğine dair ücretsiz bir yıllık anket yürütür.
-
-## Bağlı kavramlar
-
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
-

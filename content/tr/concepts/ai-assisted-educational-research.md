@@ -25,8 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-
-
+connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
+connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -107,7 +107,6 @@ Otomasyonun insan kodlamasına yalnızca yardım etmekle kalmayıp onunla eşle�
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith ve ark. (2026)]], LLM ile insan tümdengelimli kodlamasının ilk doğrudan ayrıştırmasını sunar: dört modeli 240 tasarım hücresi, 8.040 veri satırı ve 60.060 istek metni boyunca kuram-kavram makaleleri üzerinde çalıştırdılar. Varyansa model kimliği egemen oldu: korelasyon varyansının kısmi eta-kare 0,19’u ve yanlılık modelinde F = 578,36; istek metni türü ise anlamsızdı. Nitelik fiyattan ayrıldı — Claude Sonnet 4 en düşük model hata logitini (-1,90) GPT-4.1 Mini’nin -1,05’ine karşı kaydetti ve Gemini 2.5 Pro 178,13 dolara mal olurken 56,77 dolarlık GPT-4.1 Full’un altında kaldı.
 
 [[ober-persistence-pedagogical-agent-dialogues-2026|Ober ve ark. (2026)]], yapı düzeyinde kodlama anlaşmasını sistematik olarak haritalar: öğrencilerin pedagojik bir ajanla diyaloglarında beş yapı boyunca iki eğitimli insan kodlayıcıya karşı sekiz ChatGPT-4o yapılandırması çalıştırdılar. Öz-tutarlılık kappası yapılandırmalar arasında 0,865–0,890 arasında seyrederken insan-LLM kappası yalnızca 0,000–0,419 aralığındaydı; dolayısıyla insan hizalaması olmadan tutarlılık, yapının işletimselleştirilmesini — modeli değil, aracı — işaretleyen tanısal bir sinyaldir.
-
 
 ## Veri analizi ve epistemik ödünler
 
@@ -210,48 +209,3 @@ Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged H
 - **“Göreve göre katmanlaştırmak boşluğu giderir.”** **Boşluk katmanlaştırmadan sonra da sürer**: tarama ve seçmede yazılım makaleleri ortalama **3,2 esaslı değerlendirme maddesi** sunmuş ve **%39,3’ü hiç sunmamıştır**, LLM makaleleri ise daha fazla sunmuştur. Fark görevin değil, makale sınıfının sistematik bir özelliğidir.
 
 - **“Olumlu bir değerlendirme, iş akışının amaçlanan çıtayı karşıladığı anlamına gelir.”** **Yalnızca olumlu değerlendirme bildiren 118 LLM makalesinin %52’si**, iş akışının rolünün gerektirdiği çıtanın altında kaldığına dair en az bir kaygıyı yine de bildirmiştir. Olumlu değerlendirmelerin yarısı kendi çürütmesini içermiştir.
-
-## Bağlı kavramlar
-
-- [[research-methods-aied]] — the umbrella for the designs used to study AI in education
-- [[ai-ed-evaluation]]
-- [[interpreting-and-applying-aied-research]]
-- [[limitations-in-aied-research]]
-- [[meta-analysis-systematic-review]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[mixed-methods-research]]
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[simulating-students]]
-- [[simulation]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[hallucination-risk]]
-- [[trust]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## Bağlı makaleler
-
-- [[ai-methodologies-science-education-research-2026]] — a seven-phase reflective framework for how AI methodologies may transform science education research (Martin et al., 2026)
-- [[scaffolding-systematic-reviews-2026]] — one interdisciplinary review team's account of mentoring and selective AI integration (Wang et al., 2026)
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — how 28 postgraduate students used GenAI across the research workflow, and the guidelines they suggest (Dai & Chan, 2026)
-- [[citation-errors-hallucinations-computing-education-2026]] — a field-scale audit of fabricated references in the computing-education literature (Denny et al., 2026)
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — a reporting framework for AI-assisted systematic reviews, and the accountability gap it documents (Zabaleta & Lin, 2026)
-- [[genai-academic-search-workshop]] — a CHIIR 2026 workshop report on generative AI and academic search (Liu, Arguello, Hoeber et al., 2026)
-- [[persistent-ai-agents-academic-research]] — a single-investigator case study of a persistent agent in a research workspace (Alzahrani, 2026)
-- [[ai-assisted-writing-research-teams]] — bibliometric evidence that AI-assisted writing accompanies smaller, younger research teams (Wang et al., 2026)
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — a 30-day benchmark that evaluates tutor agents against a simulated learner (Lee et al., 2026)
-- [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that reproduces genuine novice struggle (Wang et al., 2026)
-- [[llm-student-simulation-misconception-faithfulness]] — why simulators abandon a misconception under any feedback, and how training fixes it (Do, Sonkar & Sachan, 2026)
-- [[llm-judged-helpfulness-pedagogy-signal]] — a pre-registered audit that uses a fixed simulated learner to test whether helpfulness measures pedagogy (Fan et al., 2026)
-

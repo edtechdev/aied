@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -69,45 +71,3 @@ ai_assist:
 - **"ایک اچھا اوزار بالغ طلبہ کے لیے کافی ہے۔"** تحقیق نے پایا کہ **کوئی اکیلا بالغ سیکھائی کا AI نظام تمام ڈیزائن رہنما خطوط پر پورا نہیں اُترا** — پورا ماحولیاتی نظام درکار تھا۔ بالغ لوگ ذمہ داریوں، وقفے وقفے کے نظام الاوقات اور مختلف مقاصد کے ساتھ آتے ہیں، چنانچہ ایک ہی مصنوع ڈیزائن کی پوری گنجائش کا احاطہ نہیں کر سکتی۔
 - **"بالغ کی سطح پر ڈیجیٹل خواندگی مفروضہ ہے۔"** [[community-centered-ai-education-adults|ایک وسط مغربی کیس اسٹڈی]] نے **ایک کم خدمت یافتہ برادری کے 54 بالغوں** کے لیے AI خواندگی کا پروگرام مشترکہ طور پر ڈیزائن کیا اور پایا کہ مساوات پر مبنی بالغ AI تعلیم کو **پہلے بنیادی ڈیجیٹل خواندگی اور ڈیٹا پر اعتماد** حل کرنا ہوگا۔ عمر ڈیجیٹل روانی کا پیمانہ نہیں۔
 - **"اختیار کرنا محرک کا مسئلہ ہے۔"** [[ai-literacy]] اور ڈیٹا کی رازداری کے گرد [[trust]] بنانا اختیار کی توقع سے پہلے آنا چاہیے۔ رضامندی اِس یقین سے پیدا ہوتی ہے کہ کسی کے ڈیٹا کا کیا ہوتا ہے، نہ کہ ٹیکنالوجی کے جوش سے۔
-
-## منسلک تصورات
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — آن لائن تدریس اور سیکھنا
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## منسلک مضامین
-
-- [[ai-adult-learning-guidelines-dis2026]] — بالغ سیکھائی کی حمایت کے لیے AI ٹیکنالوجیز کے ڈیزائن کے رہنما خطوط
-- [[andragogy-cognitive-delegation-genai-2026]] — کیا باقی خود ہدایت یافتہ ہے؟ جنریٹو AI کی وساطت سے بالغ سیکھائی میں علمی تفویض کے ذریعے اینڈراگوگی کا دوبارہ جائزہ
-- [[ai-lifelong-learning-policy]] — عمر بھر سیکھنے میں مصنوعی ذہانت: بالغ تعلیم کی پالیسی میں مواقع اور چیلنجز
-- [[sovereign-hive-titl-further-education-2026]] — مزید تعلیم میں مساوات کے لیے Sovereign Hive اور Tutor-in-the-Loop (TITL) فریم ورک
-- [[community-centered-ai-education-adults]] — بالغوں کے لیے برادری مرکز AI تعلیم کی مشترکہ تشکیل: ایک وسط مغربی کیس اسٹڈی
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — فاصلاتی تعلیمی اداروں کے لیے سیکھنے کے نئے نظام؟ AIDA کے نفاذ کا چھ مطالعاتی جائزہ
-- [[institutional-governance-ai-universities]] — پالیسی کی بکھری پن یا ادارہ جاتی ہم آہنگی؟ یونیورسٹیوں اور بزنس اسکولوں میں AI کی ادارہ جاتی گورننس
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — کمپیوٹیشنل سوچ کے لیے جنریٹو AI سے بہتر سیکھنے کے تجربات: ایک منظم اسکوپنگ جائزہ اور ڈیزائن رہنما خطوط
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — نصاب کے تجزیے کے ذریعے AI کی مدد سے سافٹ ویئر انجینئرنگ کے ابھرتے نصاب کی نقشہ بندی
-- [[learner-ai-interaction-patterns-oop]] — آبجیکٹ اورینٹڈ پروگرامنگ کورس میں سیکھنے والے-AI تعامل کے نمونے اور تعلیمی کارکردگی
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — نتیجہ خیز ناکامی پر مبنی سیکھائی کی حمایت کے لیے AI نظاموں کی تشکیل
-- [[kim-ai-andragogy-2026]] — اینڈراگوگی کی حمایت میں AI کے اطلاقات (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — شمولیت کی مختلف سطحوں کے لیے ڈیزائن: گہری سقراطی گفتگو کو زیادہ باعثِ انعام راستہ بنائیں

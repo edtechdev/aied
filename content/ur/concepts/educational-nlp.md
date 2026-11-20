@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
+connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -72,39 +74,3 @@ ai_assist:
 - **"معنوی مشابہت نصاب کی ہم آہنگی کی چھانٹی کر سکتی ہے۔"** **3,837 دانتوں کے مقصد-خلاصہ جوڑوں** کی اسکریننگ میں، ایمبیڈنگ ریٹریول کے ساتھ قدرتی زبان کے استنباط کی جانچ نے **22.9% آئٹمز** کو ہم آہنگ قرار دیا — معنوی مشابہت ہم آہنگی کے لیے ایک **کمزور اشارہ** ہے۔ روانی سے موضوعاتی مطابقت اور حقیقی سیکھنے کے مقصد کی مطابقت دو مختلف رشتے ہیں۔
 - **"بیان کی سطح کی درجہ بندی فطری اکائی ہے۔"** **پورے سبق کی ماڈلنگ بیان کی سطح کی درجہ بندی کو مات دیتی ہے**: الگ تھلگ بیانات کے بجائے پورے ٹرانسکرپٹ کو اسکور کرنے نے **استدلالی زنجیر کی شناخت کو 14.2 فیصد پوائنٹس بڑھایا**۔ پورے سبق کا سیاق وہ معلومات رکھتا ہے جسے کوئی اکیلی باری تباہ کر دیتی ہے۔
 - **"تشخیصی تبصروں پر NLP کو بڑھانا اثر پیدا کرتا ہے۔"** کھلے جوابی طلبہ کے تدریسی جائزے پر NLP لاگو کرنے والے **421 مطالعات** (2015-2026) کا PRISMA-ScR اسکوپنگ ریویو اور شواہد کا نقشہ بتاتا ہے کہ بڑھانا **استعمال تک پہنچنے کے بغیر** رہا۔ طریقہ کار کی پیداوار کا حجم اختیار نہیں ہے، اور خلا ماڈلنگ کا نہیں بلکہ تعیناتی کا مرحلہ ہے۔
-
-## منسلک تصورات
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[llm-training-and-fine-tuning]]
-- [[metacognition]]
-- [[rct]]
-- [[learning-analytics]]
-- [[educational-policy-ai]]
-- [[ai-technologies]] — چھتری: AI ٹیکنالوجیز اور تکنیکیں (ماڈل، LLM تربیت، روبوٹکس، RAG، ایجنٹک)
-
-## منسلک مضامین
-
-- [[embedding-similarity-clustering-handwritten-physics-2026]] — ایمبیڈنگ کلسٹرز جو طبیعیات کے بجائے الفاظ کے مطابق ترتیب دیتے ہیں
-- [[lee-learner-question-types-ai-education-2026]] — سیکھنے والوں کے سوالات کی تعمیریت پسندانہ کرداروں میں ٹرانسفارمر درجہ بندی (Lee, Atif & Kang 2026)
-- [[bert-discourse-english-teaching-2026]] — انگریزی تدریس کے لیے BERT کے ساتھ خودکار گفتاری تعلق کی درجہ بندی
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI کورس میں طلبہ–LLM مکالموں کا StudyChat ڈیٹا سیٹ
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — عصبی-علامتی تدریسی ہم آہنگی (NSPA)
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[shap-llm-rationales-teaching-quality-assessment]] — ربرک پر مبنی تدریسی معیار کے لیے SHAP اور LLM استدلالات
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — لرننگ اینالیٹکس کے لیے خود-وضاحتی LM کی کشید
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[llm-automated-coding-teacher-pck-2026]] — کثیر-ایجنٹ LLM (GradeOpt) اساتذہ کے مواد اور تدریسی مواد کے علم کو کوڈ کرتا ہے؛ کلاسیکی اینکوڈرز اور سادہ پرامپٹنگ PCK پر پیچھے رہتے ہیں
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: تعلیمی مکالموں کی قابلِ آڈٹ کوڈنگ کے لیے بیان پر مبنی اسکیما
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — جذباتی درجہ بندی سے قابلِ عمل اور ذمہ دار فیڈبیک تک: طلبہ کے تدریسی جائزے میں NLP کا اسکوپنگ ریویو اور شواہد کا نقشہ، 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — نئے AI کی مدد سے بنائے گئے تعلیمی سوالات کی تدریسی جانچ کے لیے پہلے سے تربیت یافتہ ماڈلوں کا جائزہ
-- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: باریک علمی تصور کی ٹیگنگ کے لیے منتخب-استدلال پائپ لائن
-- [[nlp-reading-lists-dental-education-2026]] — دانتوں کی تعلیم میں مطالعے کو سیکھنے کے مقاصد سے ہم آہنگ کرنے اور موضوع کے توازن کے اندازے کے لیے قدرتی زبان کی پروسیسنگ
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: شور والے مخلوط دستاویز کی تجزیے کے لیے ہاتھ سے لکھے جوابی پرچوں کا ڈیٹا سیٹ

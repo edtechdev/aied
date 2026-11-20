@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
+connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -67,25 +69,3 @@ ai_assist:
 - **«Лучшие визуализации дают лучшие результаты».** Преподаватели **систематически предпочитали более простые, более традиционные визуализации** (столбчатые диаграммы, круговые диаграммы, легенды), **даже когда сложные замыслы вроде тепловых карт давали более детальные инсайты**. Более информативный артефакт не был тем, который использовали, поэтому принятие — отдельная проблема от качества замысла.
 - **«Студенты смотрят туда, где находится опора».** Одно исследование обнаружило, что студенты **проводили большую часть взгляда на коде, несмотря на развёрнутые визуальные опоры** — подсказки просто не захватывали внимание. Визуальная поддержка, которая присутствует, но остаётся без внимания, ничего не меняет.
 - **«Вовлечённость и понимание движутся вместе».** Участники нашли сгенерированные ИИ комиксы о данных **более вовлекающими и понятными, но многие также отметили риск дезинформации и информационную перегрузку**. Обе реакции пришли от одного и того же артефакта, поэтому положительный приём — не проверенное прочтение.
-
-## Связанные концепции
-
-- [[learning-analytics]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[ai-technologies]]
-- [[ai-literacy]]
-- [[storytelling-in-education]]
-- [[learning-design]]
-- [[assessment-validity]]
-- [[virtual-and-augmented-reality]] — пространственное и трёхмерное представление
-
-## Связанные статьи
-
-- [[interactive-learning-dashboards-engagement]] — Переосмысление учебных визуализаций как инструментов вовлечённости через педагогических агентов
-- [[mllm-scientific-visualization-literacy]] — Бенчмаркинг мультимодальных LLM по научной визуальной грамотности
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Адаптированные к предметной области модели «текст-в-изображение» для визуализации ядерных понятий
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Эффективность, выгоды и этика ассистированных ИИ комиксов данных
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Контрфактический бенчмарк для мультимодального аудита слайдов
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Как сделать выводы ML доступными для преподавателей в смешанных аудиториях
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education

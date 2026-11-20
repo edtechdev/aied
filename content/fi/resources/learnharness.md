@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -45,10 +46,3 @@ Itsenäisille oppijoille, jotka työskentelevät vaikean materiaalin kanssa, ja 
 ## Huomioita ja varauksia
 
 Ilmainen kattaa ohjelmiston, ei päättelyä: oppijat tuovat tarjoajan avaimet, tilauksen, paikallisen Claude Code CLI:n tai minkä tahansa OpenAI-yhteensopivan päätepisteen ja maksavat tarjoajalle ilman katetta; live-mittari arvioi vain tunnetut API-kustannukset. Tietueet, chatit ja avaimet pysyvät koneella tavallisina tiedostoina, mutta projekti varoittaa, ettei paikallinen tallennus tarkoita offline-käsittelyä, koska mallipyynnöt, valinnainen sanelu ja verkkotutkimus tavoittavat kaikki ulkoisia palveluita. Windowsin x64-asennusohjelma on allekirjoittamaton, joten Windows varoittaa. Vaikuttavuustutkimusta ei raportoida, joten perustelu nojaa esitettyyn järkeilyyn eikä mitattuihin tuloksiin; repositoriossa oli noin 4 800 tähteä 2. marraskuuta 2026 tarkistettaessa.
-
-## Liittyvät käsitteet
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

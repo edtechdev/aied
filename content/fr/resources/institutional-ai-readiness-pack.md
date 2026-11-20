@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -40,6 +41,3 @@ Une **suite d'évaluation** : une auto-évaluation de maturité à l'égard de l
 ## À qui cela s'adresse
 
 Aux dirigeants de la recherche, aux comités et aux bureaux de politique qui ont besoin d'une image fondée sur des preuves de la manière dont l'IA est utilisée et [[governance|encadrée]] dans un environnement de recherche, et d'un moyen de suivre le [[change-management|changement]] dans le temps. Il accompagne *Responsible AI in Academic Research: A Competency Framework for Research Training*, qui définit cinq dimensions de l'état de préparation, et a été écrit par Michael J. Zyphur, directeur d'Instats.
-
-## Concepts liés
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

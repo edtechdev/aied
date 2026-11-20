@@ -18,12 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
 > **Kutafuta Msaada** — mchakato wa mwanafunzi wa kutambua hitaji la msaada na kulitafuta kwa njia mahususi, na jinsi mchakato huo unavyotokea katika miktadha ya kujifunza inayosaidiwa na [[ai-education|AI katika elimu]]. Kutafuta msaada ni kiini cha kama zana za AI zinaunga mkono au kudhoofisha kujifunza: *ubora* wa utafiti msaada (lini, jinsi, na wanafunzi wanaomba nini) unaunda matokeo kwa nguvu, na walimu wa AI, vidokezo, na mawakala wa [[pedagogy|kielimu]] yamebuniwa hasa ili kuchochea utafiti msaada wenye tija badala ya kutafuta majibu.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
 
 Ufikiaji wa mapema unaweza kuongeza utafiti msaada bila mabadiliko yoyote kwa nyenzo za kujifunza. Jaribio lililosajiliwa mapema katika kozi za shahada ya chuo kikuu zenye wanafunzi wengi liliwatumia wanafunzi ujumbe kupitia chatbot ya kitaaluma na kuligundua kupokea kwa kiwango kikubwa zaidi huduma za katahini na mafunzo ya nyongeza; uchanganuzi wa upatanishi ulihusisha 17.8% ya athari ya alama na utafiti msaada ulioongezeka huo (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
 
@@ -132,53 +133,3 @@ Katika [[english-education|uandishi]] wa mtandaoni kamili, upatikanaji wa zana s
 - **"Maombi ya msaada yanahusu kujifunza."** **Mahitaji ya msaada wa kiendeshaji** yanachanganya dhana hiyo: katika **maswali 4,093**, angalau **20.4% yaliuliza kuhusu hali ya kuwasilisha inayosubiri badala ya maarifa**. Moja ya tano ya mahitaji ya msaada ilikuwa ya kiutawala.
 
 - **"Kutumia katahini wa AI kunamaanisha kufuatilia kujifunza kwako mwenyewe."** Katika utafiti wa **wanafunzi 98 wa Darasa la 9** wanaotumia katahini wa GenAI, mwingiliano **ulitawaliwa na maombi ya kifaa karibu bila ufuatiliaji au tathmini ya kujifunza kwao wenyewe**. Kuomba majibu si kutafuta msaada kwa maana ambayo dhana hii inakusudia.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: jambo kuu la dhana za upande wa mwanafunzi
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — ufikiaji wa taasisi na ugawanyaji wa msaada, zaidi ya utafiti msaada wa ndani ya kozi
-
-## Makala Zilizounganishwa
-
-- [[leite-its-k12-meta-analysis-2025]] — Ni msaada gani wa katahini unaobeba athari: mifano na vidokezo vya mahitaji juu ya ilani otomatiki
-
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: Mfumo wa Maswali na Majibu wa Kalamu unaotumia LLM
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Utafiti msaada unaopatanishwa na LLM katika STEM: wenye tabaka, wa kifaa, na uliothibitishwa
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — Mbali na Bonyeza Moja: Khanmigo katika jaribio la shule la miaka miwili
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Katahini ya mtandao na CAL: jaribio la kupokea na kujifunza
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Hifadhi ya data ya StudyChat ya mazungumzo ya mwanafunzi–LLM katika kozi ya AI
-- [[lak2026-hint-button-unproductive-use]] — Maombi ya vidokezo ya mapema na kusoma vidokezo kwa juu juu yanatabiri faida ndogo za kujifunza katika ITS
-- [[ai-fallibility-warning-help-seeking]] — Onyo kuhusu udhaifu wa AI linaongeza utafiti msaada katika mfumo wa katahini wa hisabati
-- [[regulating-ai-tutor-adolescent-srl]] — Pengo la nia na tabia katika utafiti msaada na kujifunza kwa kujidhibiti wa GenAI kwa vijana
-- [[guided-llm-scaffolding-independent-learning]] — Ngazi za msaada za LLM zilizokongozwa zinaboresha utafiti msaada unaozingatia ufikiri na kujifunza kwa kujitegemea
-- [[rethinking-scaffolding-llm-tutors]] — Kutolingana kati ya ngazi za msaada na kupokea kwa mwanafunzi katika matumizi halisi ya watahiniwa wa LLM
-- [[uneven-impact-generative-ai-student-learning-2026]] — Utegemezi wa mapema: kushauriana na GenAI kabla ya mawazo ya kujitegemea, utafutaji, au mtaalamu unatabiri faida na madhara (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Ujuzi wa rasilmaliki katika uandishi wa mtandaoni: kizuizi ni kutambua lini msaada unahitajika (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Kupunguza Vizuizi vya Msaada wa Kitaaluma: Kutathmini Mfumo wa RAG Mahususi wa Kozi kwa Kushughulikia Tofauti za Utafiti Msaada katika Elimu ya Juu
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Uhitaji wa Ngazi za Msaada Zinazobadilika: Katahini wa AI Ambaye Huongeza na Kupunguza Kulingana na Mwanafunzi
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Kuweka Ngazi za Msaada kwa Utafiti Msaada wa AI Uliolengwa Wakati wa Kutatua Matatizo
-- [[guided-ai-tutor-impasse-resolution-2026]] — Kuchunguza Tofauti katika Jinsi Watahiniwa wa AI Waliokongozwa Wanavyotatua Kizuizi cha Wanafunzi
-- [[student-query-demand-hybrid-ai-support-2026]] — Wanafunzi Huuliza Nini Kweli: Muundo wa Mahitaji na Uwezekano wa Uendeshaji Otomatiki katika Mfumo wa Msaada wa Mchanganyiko
-- [[taufer-human-ai-interaction-haidl-2026]]: Mwingiliano kama data ya daraja la kwanza, kuainisha swali kwa hali ya utekelezaji inayoizunguka
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]]: Mwenendo wa utafiti msaada, si kiwango chake, hutabiri utendaji wa hisabati bila msaada
-- [[mihaylova-llm-feedback-live-programming-course-2026]]: Urefu wa vidokezo umepimwa dhidi ya usahihi wa uwasilishaji unaofuata, majaribio na muda, katika kozi ya programu ya moja kwa moja
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]]: Wakala msaidizi ambaye hakuna aliyemuomba (Humburg et al. 2025)

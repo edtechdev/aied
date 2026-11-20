@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -133,60 +135,3 @@ ai_assist:
 **“如果学习者更信任它，他们就会更谨慎地使用它，至少会更恰当。”** 有记录的恰恰是相反的模式。在 432 名本科生用准确与刻意误导的建议求解 Python 问题的实验中，更高的信任预测了**更低**的恰当依赖（r = −.42），而学生接受了 86.03% 的误导性建议。信任不是校准的代理，参见 [[trust-calibration|信任校准]]。
 
 **“关于易错性的诚实警告会削弱对辅导工具的信心。”** 它们改善行为。数学 ITS 中 [[ai-fallibility-warning-help-seeking|关于 AI 易错性的警告]] 增加了 [[help-seeking]]，而不是减少使用，这提示说明局限会培养恰当依赖，而非侵蚀它。
-
-## 关联概念
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — 规范与披露所依赖的社会风险
-
-## 关联文章
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — 透明性是信任最强的先行因素，但通往采纳意向的直接路径有限（Wang 等 2026）
-- [[lucau-uneven-use-similar-trust-genai-2026]] — 使用不均、信任相似：丹麦与罗马尼亚的生成式 AI（Lucau, Voicu & Christensen 2026）
-
-- [[ilieva-agentic-genai-higher-education-2026]] — 被感知风险与持续使用意向呈正相关：知情的采纳（Ilieva et al. 2026）
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — K-12 课堂人工智能中围绕控制与能动性的师生信任差距
-- [[qu-wang-disclose-or-not-genai-2026]] — 披露人工智能使用由关系因素与对教师的舒适感驱动，而非政策
-- [[genai-teacher-feedback-comparison]] — 生成式人工智能与教师反馈满足不同、互补的信任需要
-- [[care-full-feedback-genai]] — 作为一种“care-full”关系性实践的可信反馈
-- [[ai-fallibility-warning-help-seeking]] — 警告人工智能的易错性在 ITS 中增加了求助
-- [[calibrating-trustworthiness-llm-education-2026]] — 为教育中的 LLM 共同设计可信度指标与可视化
-- [[ai-overreliance-complex-adaptive-system-2026]] — 把人工智能过度依赖建模为复杂自适应系统
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 物理人工智能工具中的信任—效用差距
-- [[t2i-competence-paradox-2026]] — 人工智能图像生成中的胜任力悖论
-- [[task-context-trust-educational-hri-2026]] — 任务情境对教育机器人信任的塑造超过外观
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — 虚拟形象身份与人工智能中介学习中的认识信任
-- [[contextual-sycophancy-ai-literacy]] — 情境性谄媚及其对信任校准的局限
-- [[sycophantic-ai-social-interaction-2026]] — 谄媚的人工智能让人际互动随时间变得更不令人满意
-- [[ai-pedagogical-accompaniment-amico]] — 负责任的教学中介与人工智能使能系统中的信任
-- [[best-response-student-ai-dialog-2026]] — 学生与人工智能对话中的信任
-- [[ai-adaptation-gap-higher-education-2026]] — 被感知的有用性作为高等教育中对人工智能信任的最强预测因子
-- [[bassett-ai-detectors-education-2026]] — 对人工智能检测系统的信任与不信任
-- [[genai-use-usefulness-student-experience-australia-2026]] — 澳大利亚高等教育中学生对生成式人工智能有用性的体验（Chung et al. 2026）
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 使机器学习发现对混合课堂中的教师可及
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — 谁来为我的作业评分？高等教育中透明人工智能辅助写作评估的学生视角
-- [[trust-in-ai-psychological-profiles-ml-2026]] — 三个人工智能信任随韧性与压力而非人口类别变化的学生画像（Kumar et al. 2026）
-- [[bounded-reliance-ai-writing-feedback-2026]] — 有界的依赖：来源可信度视角下 EFL 学生对人工智能生成写作反馈的投入
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — 赋能与威胁评价把信任推向相反方向，并承载生成式人工智能依赖
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — 同伴的生成式人工智能使用通过被感知的温暖与胜任力降低人际信任，并被人工智能素养缓冲
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 可信度线索提高了转向人工智能错误立场的比例；保留推荐则抑制了它
-- [[trust-calibration-genai-collaborative-regulation-2026]] — 一个结构模型为那种桥接角色提供了实证检验
-
-- [[zhu-creative-agency-trust-genai-art-2026]] — 工具性信任是艺术专业学生使用生成式 AI 意向最强的预测因素
-- [[yan-genai-employability-career-self-efficacy-2026]] — 对生成式 AI 的信任是从使用到自感可就业性的其中一条间接路径
-
-- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 《从查询到对话》：工程教育中基于 AI 的虚拟助手的采纳、可用性与影响
-- [[mcgehee-trail-educator-trust-readiness-ai-2026]] — TRAIL：信任预测“思考伙伴”式使用，有用性预测采纳（McGehee 2026）
-

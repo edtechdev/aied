@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
+connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -110,54 +112,3 @@ ai_assist:
 **«Обнаружение неправомерного использования и наказание за него - стратегия предотвращения.»** Предотвращение должно охватывать и сам оценивающий конвейер. [[humble-prompt-injection-ai-grading-red-team-2026|Ред-тим-оценка Хамбла (2026)]] обнаружила, что две из пяти стратегий косвенной инъекции промптов, встроенных в файл сдаваемой работы, повысили оценку провального эссе. Конвейер, который обнаруживает неправомерное использование студентов, доверяя непроверенному содержанию сдаваемых работ, защищён только с одной стороны.
 
 **«Неправомерное использование - проблема мотивации студентов.»** [[coates-governing-academic-integrity-indicators-2025|Коутс, Краучер и Калдерон (2025)]] поднимают связывающее ограничение на уровень выше, рассматривая управление, а не поведение студентов как то, что нужно менять, и предлагая рамочную систему из 130 показателей добросовестности. И вред обучению измерим в масштабе: [[stromberg-generative-ai-learning-penalty-secondary-2026|Стрёмберг, Лей и Ву (2026)]] обнаружили, что отдача домашних заданий на аутсорс повысила оценки за домашнюю работу на 18%, при этом *снизив* оценки на закрытом экзамене на 20%, - провал проектирования, который проявляется именно в том разрыве, о котором эта страница.
-
-## Связанные концепции
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[motivation]]
-- [[prompt-engineering]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-- [[framing-ai-use-for-students]]
-- [[cognitive-surrender]]
-
-## Связанные статьи
-- [[ivory-psychology-assessment-integrity-2026]] — Следы доказательств из контроля версий и воспроизводимые аналитические документы как средства удержания от неправомерного использования (Айвори и др. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Сокрытие рекомендации в значительной мере предотвратило чрезмерную опору, не построив суждение, которое оно защищает
-- [[generative-ai-guardrails-harm-learning]] — Генеративный ИИ без ограничителей может навредить обучению
-- [[genai-performance-vs-learning]] — Отличие прироста результатов от обучения
-- [[ai-assessment-scale-reform]] — Шкала оценивания ИИ и реформа оценивания
-- [[critical-thinking-genai-scaffolding]] — Опора для критического мышления с помощью генеративного ИИ
-- [[aaai2026-prompting-literacy-k12]] — Обучение использованию ИИ для обучения (модуль ИИ-грамотности K-12)
-- [[genai-declaration-frameworks-higher-education]] — Структурирование прозрачности: рамки декларирования генеративного ИИ
-- [[absent-cognitive-baseline-2026]] — Отсутствующая когнитивная базовая линия
-- [[ai-literacy-power-knowledge]] — ИИ-грамотность: упражнение в «власти–знании»
-- [[contextual-sycophancy-ai-literacy]] — Скрытая цена контекстуальной сикофантии: вмешательство ИИ-грамотности
-- [[sycophantic-ai-social-interaction-2026]] — Сикофантский ИИ со временем делает человеческое взаимодействие более трудоёмким и менее удовлетворительным
-- [[ssaho-ai-academic-integrity-review-2025]] — Формирование культуры и переработка оценивания вместо полицейского надзора на основе обнаружения
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Когнитивная капитуляция, продуктивное трение и метакогнитивное неравенство
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Переосмысление устных экзаменов как аутентичного, устойчивого к ИИ оценивания
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Штраф генеративного ИИ за обучение: отдача домашних заданий на аутсорс вредит обучению
-- [[ai-overreliance-complex-adaptive-system-2026]] — Чрезмерная опора на ИИ, смоделированная как сложная адаптивная система
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Ограничители устранили вред, не улучшив оценки на экзамене
-- [[munoz-misconduct-allegation-evidence-2026]] — Что на самом деле содержат дела о недобросовестности в качестве доказательств
-- [[wright-transcription-not-generation-2026]] — Чрезмерно широкие правила по ИИ и студенты, которых они ловят
-- [[sharma-judgment-visible-genai-assessment-2026]] — Добросовестность как оценочное суждение, а не как соблюдение
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Студенты о том, является ли генеративный ИИ инструментом списывания или партнёром по обучению
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Что удалённый прокторинг делает со студентами и с равным доступом
-
-- [[guo-overreliance-genai-feedback-2026]] — Когнитивная нагрузка идёт через перекладывание в избыточную опору, причём мониторинг меняет маршрут
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Предупреждение ситуативного преступления против списывания с применением ИИ: от 183 до 27 случаев и пять дисциплинарно-специфичных переработок (Литон Грей, Эдсолл и Парападакис 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Что рекомендуют 38 исследований голосов студентов: совместно созданная ясность и образовательное рассуждение вместо обнаружения (Цзи 2026)
-- [[li-genai-assessment-language-equity-2026]] — Где заканчивается языковая поддержка и начинается подмена для авторов, для которых английский — дополнительный язык (Ли 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Инъекция промптов как вектор неправомерного использования против оценивания ИИ (Хамбл 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Управление как связывающее ограничение добросовестности: рамочная система из 130 показателей (Коутс, Краучер и Калдерон 2025)
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Ответственное использование генеративного ИИ студентами в академическом письме: обзор границ, образовательных подходов и пробелов в доказательствах

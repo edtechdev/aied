@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -93,34 +95,3 @@ ai_assist:
 - **"חיוך פירושו חמימות."** במפגש קליני מטריד, מתבוננים קוראים בחיוך חוסר התאמה, וגלאי פעולת פנים קורא בו אפקט חיובי. ההקשר הוא המשתנה החסר.
 - **"סולמות דיווח עצמי מודדים אמפתיה."** הם מודדים נטייה או תפיסה עצמית; הם אינם מודדים התנהגות במפגש.
 - **"יותר סוחף הוא תמיד טוב יותר."** שיטות סוחפות מראות רווחים גדולים יותר, אבל במחיר ובמשך גדולים פי כמה, וההשוואות אינן משוות את החשיפה.
-
-## מושגים מחוברים
-
-- [[affective-tutoring]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[professional-training]]
-- [[simulation]]
-- [[medical-education]]
-- [[nursing-education]]
-- [[sensor-and-gaze-analytics]]
-- [[assessment-validity]]
-- [[self-report-measures]]
-- [[human-ai-collaboration]]
-- [[ai-sycophancy]]
-- [[pedagogical-safety]]
-- [[well-being]]
-- [[arts-and-media-education]]
-
-## מאמרים מחוברים
-
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — משחק תפקידים 13.2%, מציאות מדומה 11.6%, דיאלוג עם בינה מלאכותית 8.8% במדד IRI, כשזמן החשיפה מעורבב (Zwoliński et al., 2026)
-- [[nissan-nursing-empathy-computer-vision-2026]] — זיהוי מגע פיזי הסכים עם המתבוננים; זיהוי חיוכים נע בשלילי (Nissan et al., 2026)
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — מסוגלות מדווחת עלתה d = 0.58 אחרי 13 חילופי דברים, בלי קבוצת ביקורת (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — 17 מחקרים; רווחי ביטחון נפוצים, ראיות לאמפתיה מוגבלות (Ismail & Zafira, 2026)
-- [[lim-ai-wearables-environmental-empathy-2024]] — EDA ודימויים מיוצרים כצינור עוררות, כשהאמפתיה נטענת ולא נמדדת (Lim et al., 2024)
-- [[shastry-gray-empathy-offloading-2026]] — האמונה ביכולתה האמפתית של בינה מלאכותית ניבאה נכונות נמוכה יותר לספק תמיכה (Shastry & Gray, 2026)
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — סולם נטייה בן 42 פריטים שמבנה הגורמים שלו לא תאם את התכנון (Kang et al., 2026)
-- [[empathy-coaching-chatbot]] — שפה אמפתית העלתה את תחושת ההבנה, שניבאה מעורבות ולא שינוי התנהגות (Siyan et al., 2026)
-- [[wang-teacher-student-centered-agents-physics-2026]] — תפקיד ומהלכים שנקבעו בהנחיה יצרו הבדל גדול באמפתיה נתפסת (Wang et al., 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — סטודנטים לסיעוד תיארו בינה מלאכותית כתמיכה רגשית בזמן עומס קליני (Akbaba et al., 2026)

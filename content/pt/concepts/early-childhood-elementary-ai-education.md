@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
+connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -55,7 +57,6 @@ Esta página cobre a pré-escola e os anos iniciais do ensino fundamental, em qu
 - **Robôs e crianças pequenas.** A [[tsingidou-ct-robotics-kindergarten-2026|robótica na educação infantil]] apoia o pensamento computacional por meio de [[educational-robotics|robôs educacionais]], e a [[icub-humanoid-storytelling-llm-hri-2025|narrativa humanoides potencializada por LLM]] explora se os pais aceitarão robôs como parceiros de brincadeira narrativa para seus filhos — colocando em primeiro plano a [[trust|confiança]] e as atitudes dos adultos.
 
 - **Agentes conversacionais como facilitadores de ASE, não substitutos.** [[human-ai-complementarity-social-emotional-learning-2026|Raave et al. (2026)]] fizeram 18 educadores e 18 simulações de agentes liderarem, cada um, três atividades narrativas de [[social-emotional-learning|aprendizagem socioemocional]] com uma criança de IA estática, gerando 108 observações com codificação cega: o agente foi mais estável no tom respeitoso e no andaimento procedural, enquanto os educadores lideraram na condução da reflexão e no conhecimento socioemocional.
-
 
 - **Um conjunto de competências, e não um currículo de letramento em IA.** Uma revisão de 86 recursos argumenta que o letramento em IA "não pode ser autônomo" para crianças de 0 a 8 anos e o aninha entre funções executivas, bem-estar, disposições de aprendizagem e habilidades fundamentais, embora apenas 26 dos 86 recursos fossem empíricos ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 
@@ -99,52 +100,3 @@ Uma primeira janela de neuroimagem sobre essa questão chega com uma ressalva: c
 - **"Os professores vão usar a IA para gerar aulas inteiras."** Os professores delegaram com mais frequência (**60%**) **para preencher lacunas de conteúdo em uma aula que eles mesmos esboçaram**, e não para gerar planos inteiros. A unidade da delegação é a lacuna, não a aula.
 - **"Crianças pequenas ganham menos com letramento midiático apoiado por IA."** O grupo apoiado por IA mostrou **ganhos grandes em leitura de mídia (+3,50), escrita (+1,67) e letramento midiático total (+5,17, todos p < 0,01)**, com tamanhos de efeito entre grupos de d = 1,12 ou mais. Os ganhos foram grandes nesta faixa etária, não marginais.
 - **"A observação automatizada concorda com avaliadores humanos em todos os aspectos."** A concordância foi **moderada no geral (κ ponderado = 0,681), mas condicional ao construto**: a convergência valeu para o domínio **Apoio Emocional** e para **Qualidade do Feedback**, e não em outros. Tirar a média sobre os domínios esconde onde o instrumento falha.
-
-## Conceitos conectados
-
-- [[developmental-psychology]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-- [[ai-education]]
-- [[math-education]]
-- [[writing-education]]
-- [[well-being]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[parents-and-families]]
-
-## Artigos conectados
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Moldando a primeira infância na era da IA: competências, pedagogia e apoio ecológico (Pei 2026)
-
-- [[preservice-early-childhood-genai-magnetism-2026]] — Engajamento de educadores de primeira infância em formação com IA generativa no projeto de atividades de ciências: o caso do magnetismo
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: a IA pode avaliar a adequação desenvolvimental de histórias infantis?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Intenção comportamental de professores de pré-escola de usar IA em contextos de primeira infância (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: conceitos de IA desplugados na primeira infância
-- [[ai-toys-child-development-2026]] — Brinquedos potencializados por IA e desenvolvimento infantil
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Pensamento computacional por meio da robótica na educação infantil
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Aprendizagem personalizada potencializada por IA em frações dos anos iniciais
-- [[elementary-writing-genai-systematic-review-2026]] — Ensino de escrita nos anos iniciais na era da IA generativa
-- [[awareness-technological-isomorphism]] — Isomorfismo tecnológico na matemática dos anos iniciais
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Narrativa com humanoides potencializados por LLM com crianças
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Complementaridade humano–IA na aprendizagem socioemocional precoce (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): currículo de letramento em IA centrado na brincadeira para pré-escola e educação infantil (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — Programa de letramento midiático crítico baseado em IA para crianças
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — A Abordagem de Projeto Criativo: um framework para ajustar agentes de IA e robótica à aprendizagem precoce (Yang, Li e Lee 2025)
-- [[ai-rated-classroom-observation-scores-2026]] — Eu codifico ou a IA codifica: pontuações CLASS Pre-K avaliadas por IA contra avaliadores humanos treinados em jardins de infância de Hong Kong (Fong et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Primeira comparação de neuroimagem de crianças e adultos conversando com o ChatGPT: redes de controle, atenção e memória menos integradas em crianças de 6 a 7 anos
-- [[ai-literacy-ecec-curricula-four-country-2026]] — Letramento em IA para nativos de IA? Uma comparação entre quatro países
-
-- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — Ferramentas mediadas por IA no ensino de inglês no primário: uma revisão de escopo de funções pedagógicas e orquestração docente
-- [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Letramento digital e midiático de professores de educação infantil em formação no contexto da educação digital: uma análise bibliométrica de tendências de pesquisa
-- [[yim-ai-literacy-primary-schools-review-2025]] — Educação para o letramento em inteligência artificial no ensino fundamental: quatro vertentes, ensino construcionista e uma base de evidências centrada em autorrelatos (Yim e Su 2025)
-- [[barokah-ai-elementary-science-review-2026]] — Mapeando a pesquisa em ciências nos anos iniciais: cinco clusters de aplicação, mediação docente e resultados epistêmicos escassos (Barokah et al. 2026)

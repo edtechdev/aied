@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -42,9 +43,3 @@ A központi és kutatási IT, amely platformokat és felülvizsgálatot biztosí
 ## Megjegyzések és fenntartások
 
 Magát független személyes projektnek nevezi, nem intézményi szabályzatnak vagy jogi tanácsadásnak; a megnevezett intézmények azért jelennek meg, mert közzétették gyakorlatuk leírását, nem jóváhagyásként, a megbeszélési esetek pedig összetett esetek. Jogi példái amerikaiak (FERPA, ADA Title II, GLBA), és ahol megjelennek, ott datálva vannak, bár az útmutató szerint az útvonal, a kérdések, az adatszintek és a megközelítések nem függnek tőlük. Bizonyítékoldala minden tanulmányt linkel, az egyetlen behatárolt feladaton elért nyereséget a tapasztalt karbantartók saját kódjukon tapasztalt lassulása mellé állítja, és elismeri, hogy a kísérleti adatok a kódjavaslatra, nem a specifikációvezérelt vagy többügynökös munkára vonatkoznak, így a több struktúra melletti érv a gyakorlaton és a megfelelési logikán nyugszik. Újrafelhasználási licenc nincs megadva. A testvéroldalak [campusdatagov.com](https://campusdatagov.com/) és [campusairegistry.com](https://campusairegistry.com/) hordozzák az adatgazdálkodási, illetve ügynöknyilvántartási részt, így ez jó belépő az [[educational-policy-ai]] munkához, de nem helyettesíti azt.
-
-## Kapcsolódó fogalmak
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -48,11 +49,3 @@ Minkä tahansa alan kandidaattiopiskelijoille ja lukio-opiskelijoille. Tiedekunt
 Opas on kehystetty [[formative-assessment|formatiivisesti]] ja sanoo sen: pisteet ovat tilannekuva tavoista, eivät arvosana, piirre tai ennuste, ja opiskelijoille sanotaan, ettei niitä pidä jakaa julkisesti.
 
 Tekoälyä koskeva kehystys nojaa viitattuun kysely- ja kokeelliseen näyttöön siitä, että työn ulkoistaminen voi jättää opiskelijoille vähemmän muistiin – mikä on se [[cognitive-offloading|kuormituksen siirtämisen]] kysymys, jota vastaan opas on kirjoitettu, ei sen ratkaisemiseksi. Kenttäoppaan PDF on lyhyen lomakkeen takana, joka kysyy nimeä, roolia, instituutiota ja sähköpostia; opettajanoppaan moduulit ja pedagogisen kehyksen artikkeli latautuvat suoraan. Interaktiivinen versio toimii Gemini Notebookissa ja vaatii Google-tilin. Julkaisijan luvut yli 40 000 PDF-latauksesta noin 4 000 instituutiossa 180 maassa ja yli 130 räätälöidystä kampuspainoksesta ovat heidän omiaan, samoin kuin ALA:n, NASPA:n, EDUCAUSEn, OLC:n, CAA:n, Gardner Instituten ja RTI Internationalin suositukset.
-
-## Liittyvät käsitteet
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

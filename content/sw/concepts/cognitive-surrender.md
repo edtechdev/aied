@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
+connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -85,7 +87,6 @@ Matokeo ya maabara yanalingana na kazi ya uwanja na ya uchunguzi ambayo kwa njia
 
 - **"Uteuzi wa insha nzima unabaki kuwa dhahania nje ya maabara."** Ilitokea katika utafiti wa mtandaoni wa kikao kimoja bila sera na bila himizo. Kati ya waandishi 77 wa chuo kikuu, 15 (19.5%) waliwasilisha insha zilizoandikwa **100%** na mfano, bila kuandika neno lolote kwenye kihariri, na washiriki 20 waliomba moja kwa moja insha nzima, msimbo uliotumika zaidi katika mpango. Mtumiaji mzito zaidi aliwasilisha maswali 27. [[jelson-students-chatgpt-essay-writing-2026|Kujisalimisha kulijitokeza kama mchoro wa maombi]], si kama kitendo kimoja kinachoweza kugundulika.
 
-
 ## Kubini na kufundisha dhidi ya kujisalimisha
 
 - **Fanya uhakiki kuwa kazi, si ushauri.** Hitaji jibu la kwanza lililotamkwa kabla AI kushaurianwa, na wahitaji wanafunzi kutaja pointi walizopuuza. Hii inabadilisha hatua ya hukumu isiyoonekana kuwa kitu cha kupimwa.
@@ -112,37 +113,3 @@ Ushahidi wa kujisalimisha kama muundo uliotajwa unategemea kwa kiasi kikubwa mpa
 **"Tiba ni AI bora, kwa kuwa kujisalimisha kunafuata makosa."** Kujisalimisha kunafuata *muundo* wa muingiliano: mfumo unaozalisha jibu linaloaminika kwanza unaondoa nafasi kwa mwanafunzi kuzalisha moja. Kuboresha usahihi kunapunguza madhara ya majibu yasiyosahihi na hakufanyi chochote kuhusu kuachwa kwa kuunda hukumu, ambayo ni madhara yanayobaki baada ya zana kuondolewa.
 
 **"Kufundisha tathmini makini kunatosha."** Ni lazima na kunachelewa. Mara jibu linaloaminika linapokuwa kwenye skrini, tathmini inakuwa uthibitisho, ndiyo sababu fasihi ya ubunifu hapa inaweka jaribio la mwanafunzi kabla ya matokeo ya mfumo badala ya kulikagua baadaye.
-
-## Dhana Zilizounganishwa
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[ai-sycophancy]]
-- [[reducing-ai-misuse]]
-- [[theory-development-aied]]
-- [[generative-ai]]
-
-## Makala Zilizounganishwa
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Msaidizi aliyewekwa kwenye karatasi ya kazi alipunguza upitishaji badala ya kuuongeza, hali ya mpaka kwa alama ya kujisalimisha (Braun 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Nadhamia ya Mifumo-Mitatu na alama ya kimaanishi ya kujisalimisha
-- [[generative-ai-reduced-study-time-math]] — uhamisho wa kiwango cha idadi ya watu katika ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] — mfumo wa kujisalimisha/kupunguza mzigo/wakala katika PreK-12
-- [[du-yuan-epistemic-dependence-2026]] — msaada wa zana dhidi ya msaada unaobeba hukumu
-- [[ai-advice-suppresses-ikt-suspension-2026]] — kuanguka kwa "sijui"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — shirikiano la neva na umilikaji
-- [[genai-thoughtless-use-self-directed-learning-2026]] — matumizi bila mawazo na kujifunza kwa kujiongoza
-- [[stamatoulis-genai-use-patterns-2026]] — upokeaji wa uhakiki mdogo dhidi ya muunganisho wa kutathmini
-- [[cognitive-washout-ai-skill-decay-2026]] — kinachotokea baada ya kuondolewa
-- [[ai-overreliance-complex-adaptive-system-2026]] — utegemezi kama mchakato wa idadi ya watu
-- [[brcic-effortless-trap-productive-struggle-2026]] — kuweka AI ili kazi ibaki yenye juhudi
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — mafunzo ya upimaji
-- [[family-school-autonomy-support-genai-2026]] — kupunguza mzigo kwa kutegemea dhidi ya kwa uhuru
-
-- [[jelson-students-chatgpt-essay-writing-2026]] — Uteuzi wa insha nzima kwa njia ya asili: insha 15 kati ya 77 ziliandikwa kabisa na mfano, maombi 20 ya insha kamili (Jelson et al. 2026)
-

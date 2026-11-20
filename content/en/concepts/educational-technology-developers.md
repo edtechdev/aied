@@ -11,6 +11,8 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 reviewed_by: [editor]
+connected_concepts: [edtech-platform, learning-design, curriculum-design, design-based-research, educational-development, open-source, learning-analytics, intelligent-tutoring, human-in-the-loop-ai, human-ai-collaboration, teacher-ai-competency, technology-acceptance-model, universal-design-for-learning, assessment-validity, ai-ed-evaluation, governance, educational-policy-ai, sustainability, privacy]
+connected_articles: [oatutor-open-source-adaptive-tutor-2023, moodle-ai-tutoring-deep-learning, learnlm-improving-gemini-learning, savvy-student-attention-video-learning, xai-teachers-trust-edtech-recommendations-2026, oneill-presumed-effective-meta-analysis-2026, a4l-analytics-pipeline, stanbkt-bayesian-knowledge-tracing, instructional-agents-multi-agent-course-gen, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, credential-cognitive-stewardship-ai-assessment, reclaiming-epistemic-agency-co-agency-2026, genai-mindtool-generative-learning, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, vocabulary-difficulty-prediction, shen-sustainable-ai-knowledge-base-cs-education-2026, tuo-armada-multi-agent-debate-overreliance-2026]
 ---
 
 > **Educational Technology Developers** — the people and organizations that build educational technology: product designers, software developers, learning engineers, learning-analytics designers, and the edtech companies, university labs and [[open-source|open source]] projects they work in. In [[ai-education|AI in education]] this is the role that turns a model capability into something a [[teacher-role|teacher]] or learner can actually use. It carries decisions no later stage can undo: what evidence a design claim rests on, how far an [[learning-analytics|analytics]] pipeline or a [[intelligent-tutoring|tutoring]] system is grounded in the institution's own licensed material, and whether teachers and learners are included in design. It also fixes which [[learning-design|instructional design]] assumptions are baked into the defaults, and what happens to the product after the funding stops. Across system reports and deployment studies, the recurring lesson is that the deployment context, not the model, is usually the binding constraint.
@@ -79,45 +81,3 @@ The role is also distinct from its neighbours. [[learning-design|Learning design
 - **"Adding citations and provenance makes a system more trustworthy."** In a [[agentic-ai|multi-agent]] debate setting, adding citations and authority signals to the AI's position **raised abandonment of a correct judgment from 15.0% to 31.8%**. Provenance was not neutral information: it made the wrong answer more persuasive. Credibility cues need to be evidence of correctness, not decoration around a claim.
 - **"Co-design with users validates the design."** Co-design answers a different question than efficacy does. When a tool is co-designed with students and **96% say they want it kept**, that is a finding about acceptability. Whether learning improved is a separate measurement, and the two can point in opposite directions without either being wrong.
 - **"Agents are the next capability tier."** The [[instructional-agents-multi-agent-course-gen|Instructional Agents]] ablation is the useful counterexample: the single-agent baseline scored **worst** and the Full Co-Pilot configuration **beat the Autonomous** one. More autonomy was not the better design; the co-pilot arrangement was. Architecture choices have to be evaluated rather than assumed to improve with capability.
-
-## Connected Concepts
-
-- [[edtech-platform]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[design-based-research]]
-- [[educational-development]]
-- [[open-source]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[teacher-ai-competency]]
-- [[technology-acceptance-model]]
-- [[universal-design-for-learning]]
-- [[assessment-validity]]
-- [[ai-ed-evaluation]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[sustainability]]
-- [[privacy]]
-
-## Connected Articles
-
-- [[oatutor-open-source-adaptive-tutor-2023]]
-- [[moodle-ai-tutoring-deep-learning]]
-- [[learnlm-improving-gemini-learning]]
-- [[savvy-student-attention-video-learning]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[oneill-presumed-effective-meta-analysis-2026]]
-- [[a4l-analytics-pipeline]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]]
-- [[credential-cognitive-stewardship-ai-assessment]]
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
-- [[vocabulary-difficulty-prediction]]
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised deference to incorrect AI advice; verify provenance at the point of use

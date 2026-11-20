@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -44,7 +46,6 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 
 - **Generativism.** [[generativism-learning-theory|Generativism]] একটি নতুন শিখন-তত্ত্ব হিসেবে প্রস্তাবিত, যা যুক্তি দেয় behaviorism, cognitivism, [[constructivist|গঠনবাদ]] ও connectivism — প্রত্যেকটি একটি অনুমানের উপর দাঁড়িয়ে আছে যা জেনারেটিভ এআই ভেঙে দেয়: দৃশ্যমান আউটপুট শিখন প্রমাণ করে (behaviorism), জ্ঞানীয় ক্রিয়া শিক্ষার্থীর ভেতরে ঘটে (cognitivism), অর্থ সরবরাহ না হয়ে নির্মিত হয় (গঠনবাদ), এবং কঠিন অংশটি বিদ্যমান জ্ঞানের কাছে পৌঁছানো, তা উৎপাদন করা নয় (connectivism)। এটি চারটি নির্মাণের নাম দেয় — epistemic partnership, distributed agency, generative literacy ও adaptive metacognition — এবং প্রত্যেকটির জন্য একটি মূল্যায়ন-সূচক উৎপাদন করে, যা এআই-মাধ্যমিক শিখনের জন্য একটি স্বতন্ত্র তাত্ত্বিক দৃষ্টান্তের নাম দেওয়ার সরাসরি দাবি। যা এটি করে না তা হলো ব্যর্থ হতে পারত এমন প্রস্তাব বলা: এটি বিদ্যমান প্রমাণ সংশ্লেষ করা একটি অবস্থানপত্র, তাই নিচের Agentivism-এর বিপরীতে এটি একটি শব্দভাণ্ডার ও পরিমাপ-এজেন্ডা দেয়, পরীক্ষণযোগ্য তত্ত্ব নয়।
 
-
 - **এআই সংযুক্ততা।** [[ai-connectedness-adolescent-mental-health-2026|Fu ও Zhao (2026)]] যত্নের নীতি ও নব্য-পরিবেশতত্ত্বের মাধ্যমে এআই-যুগের জন্য সংযুক্ততাকে পুনর্গঠন করেন, "artificial intelligence connectedness"-কে মনস্তাত্ত্বিকভাবে বাস্তব অথচ নৈতিকভাবে অসমমিত একটি বন্ধন হিসেবে সংজ্ঞায়িত করেন, যার তিনটি মাত্রা ও ছয়টি পরীক্ষণযোগ্য প্রস্তাব স্কেল-উন্নয়নের অপেক্ষায়।
 
 সিন্থেটিক অবস্থান একটি প্রতিদ্বন্দ্বী প্রস্তাব যোগ করে যা সত্যিই প্রস্তাব বলে: এটি *synthetic promotion* ও *authorial suspension*-এর নাম দেয় — একটি আত্মা যা ঘনভাবে স্বরযুক্ত অথচ অ-রচিত — এবং একটি ক্রসওভার মিথস্ক্রিয়া পূর্বানুমান করে যেখানে একটি জীবন-সিদ্ধান্তের আখ্যানের রেটকৃত রচয়িতা-পদ ও সুসংগতি বিপরীত দিকে চলে ([[synthetic-position-self-authorship-2026|Du প্রমুখ (2026)]])।
@@ -66,9 +67,7 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 - **The Ecological Co-Agency Framework.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] যুক্তি দেন [[generative-ai|জেনারেটিভ এআই]] জ্ঞানতাত্ত্বিক কর্তৃত্ব শিক্ষক থেকে শিক্ষার্থী থেকে যন্ত্রে স্থানান্তর করে, এবং একটি কাঠামো উপস্থাপন করেন যা co-agency-কে তিনটি পরস্পর-নির্ভর মাত্রায় সংজ্ঞায়িত করে — relational, regulatory ([[self-regulated-learning|SRL চক্রে]] ম্যাপ করা) এবং [[pedagogy|শিক্ষাদানগত]] (শিক্ষক-গ্রহণের ধারাবাহিকতা) — সবগুলোই মানব জ্ঞানতাত্ত্বিক জবাবদিহির একটি অলঙ্ঘনীয় শর্তে সীমাবদ্ধ (contestability, provenance, এবং নৈতিক/বুদ্ধিবৃত্তিক কৃতিত্বের অ-হস্তান্তর)। এটি [[agency]]-কে [[usability-research|ব্যবহারযোগ্যতা]]-সংক্রান্ত বিষয়ের বদলে একটি *জ্ঞানতাত্ত্বিক* নকশা-সমস্যা হিসেবে অবস্থান করায়, প্রতিষ্ঠানগুলোকে GenAI-সংহতির শাসনে "ভারসাম্য"-এর চেয়ে সুনির্দিষ্ট ভাষা দেয়।
 - **Relational epistemic agency ও epistemic dependence.** [[du-yuan-epistemic-dependence-2026|Du ও Yuan (2026)]] একটি সমালোচনামূলক-সংহতকরণ বিবরণ দেন — এআই-মাধ্যমিক নির্ভরতা কখন বিচার রক্ষা করে আর কখন সরিয়ে দেয়। তাঁরা উৎপাদনশীল-নির্ভরতা/ক্ষতিকর-নির্ভরতার সীমাকে ছয়টি নির্ণায়ক মানদণ্ডে পরিচালনাযোগ্য করেন (contestability, recoverability, transfer, traceability, distributed responsibility, epistemic plurality) এবং চারটি সামাজিক-প্রযুক্তিগত পথ অনুসরণ করেন (fluent authority, frictionless delegation, opaque synthesis, institutionalized dependence)। তাঁদের নিয়মকানুন-সংক্রান্ত প্রস্তাব **relational epistemic agency** relational-autonomy ও epistemic-co-agency ধারাগুলোকে বাড়ায় একটি স্পষ্ট অসমতা ধরে রেখে — এআই যুক্তিকে আকার দিতে পারে প্রতিদানমূলক দায় বা বৈধ কর্তৃত্ব ছাড়াই — অথচ প্রাতিষ্ঠানিক স্তরে দায় ও জ্ঞানতাত্ত্বিক ন্যায় সংহত করে। এআই-সহ শিখনের তত্ত্ব হিসেবে এটি ক্ষেত্রের প্রশ্নকে এআই সাহায্য করে না ক্ষতি করে তা থেকে সরিয়ে আনে কোন জ্ঞানতাত্ত্বিক ক্রিয়া সংরক্ষিত, রূপান্তরিত বা সরিয়ে দেওয়া হয় তার দিকে, এবং কেবল ব্যবহার নয়, *নির্ভরতার নকশাকে* শিক্ষাদানগত ও প্রাতিষ্ঠানিক হস্তক্ষেপের বস্তু করে তোলে।
 
-
 মডেলের উৎপাদন সেই যৌথ জ্ঞানের মর্যাদায় ওঠে যার জন্য সম্প্রদায়ের অনুমোদন দরকার, তা ছাড়াই — যাকে Webb প্রমুখ (2026) pseudo-cPCK বলেন, এবং এ কারণেই ক্ষেত্রটির আরও ভালো ইন্টারফেসের বদলে একটি নতুন তাত্ত্বিক নির্মাণ দরকার ([[webb-pck-genai-2026|Webb প্রমুখ, 2026]])।
-
 
 ## প্রতিষ্ঠিত তত্ত্বকে অগ্রসর করা
 
@@ -121,55 +120,3 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 
 - তাত্ত্বিক অবদান চাইলে কনফিগারেশন-বৈপরীত্যের জন্য নকশা করুন। তত্ত্ব-উন্নয়ন হিসেবে প্রকাশিত একটি গড়-এফেক্ট ট্রায়াল ক্ষেত্রের সবচেয়ে সাধারণ ও সবচেয়ে কম উপযোগী উৎপাদন।
 - আপনি যে কাঠামোই উপস্থাপন করুন তাতে স্পষ্ট পরীক্ষণযোগ্য প্রস্তাব যুক্ত করুন, এবং কোন কনফিগারেশন-পার্থক্য সেগুলো খণ্ডন করত তা প্রতিবেদন করুন।
-
-## সংযুক্ত ধারণা
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## সংযুক্ত নিবন্ধ
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — কার্যকরী শ্রেণিবিন্যাস বাড়ানো: 154টি শ্রেণিবদ্ধযোগ্য প্রকাশনার 90টি (58.4%) মূল চার শ্রেণির বাইরে পড়ে (Ranieri ও Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — মানব-এআই মিথস্ক্রিয়ার একটি মধ্য-পরিসরের শিখন-তত্ত্ব, চারটি প্রক্রিয়া ও ছয়টি পরীক্ষণযোগ্য প্রস্তাবসহ (Yan ও Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: অভিযোজিত দক্ষতা শিক্ষার্থী কখন ক্রিয়া ধরে রাখবে তা জানার আগেই অনুশীলন থামিয়ে দিতে পারে (An, McLaren ও Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — নতুন শিখন-তত্ত্ব হিসেবে Generativism
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — জ্ঞানতাত্ত্বিক সহ-কর্তৃত্বের একটি তত্ত্বের দিকে
-- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency এবং উৎপাদনশীল-নির্ভরতা/ক্ষতিকর-নির্ভরতার সীমা (Du ও Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — অনুপস্থিত জ্ঞানীয় ভিত্তিরেখা (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — জ্ঞানীয় কমন্স ও দক্ষতা-পুনরুৎপাদন
-- [[genai-performance-vs-learning]] — কর্মদক্ষতা বনাম শিখন
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — জ্ঞানতাত্ত্বিক এআই সাক্ষরতা (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — ক্রেডিট ও জ্ঞানীয় তত্ত্বাবধান
-- [[ai-cognitive-partner-co-regulation-learning]] — Co-regulation-এ জ্ঞানীয় অংশীদার হিসেবে এআই
-- [[epistemic-proactivity-math]] — গণিতে epistemic proactivity
-- [[strydom-human-gai-paradigms-2026]] — জ্ঞানতাত্ত্বিক বিশ্বাসে ভিত্তি করা সাতটি human-GAI সম্পৃক্ততার দৃষ্টান্ত
-- [[critical-thinking-paradox-genai-learning-2026]] — সমালোচনামূলক চিন্তনের বিরোধিতা
-- [[dollinger-equitable-assessment-ai-2026]] — GenAI-এর অধীনে ন্যায্য মূল্যায়ন
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory ও cognitive surrender: এআই কীভাবে মানব যুক্তিকে পুনর্গঠন করে (Shaw ও Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — জেনারেটিভ এআই-যুগে Community of Inquiry পুনর্ব্যাখ্যা
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — বিশ্ববিদ্যালয় শিক্ষকদের GAI-অভিজ্ঞতা ও উপলব্ধি: ভঙ্গুরতা, মূল্যায়ন পুনর্বিবেচনা, শিক্ষার্থী-শিখনের ঝুঁকি (Farazouli প্রমুখ 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — বিকল্প এআই দর্শন: শিক্ষায় এআইয়ের পদ্ধতি হিসেবে দাওবাদ
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: শিক্ষাদান-সংলাপের নিরীক্ষাযোগ্য কোডিংয়ের জন্য দাবি-ভিত্তিক স্কিমা
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: নির্মাণ-সংজ্ঞা, সীমা ও একটি গবেষণা-এজেন্ডা
-
-- [[synthetic-position-self-authorship-2026]] — The synthetic position: synthetic promotion ও authorial suspension-এর নাম দেওয়া একটি সংলাপমূলক-আত্ম প্রস্তাব, ক্রসওভার পূর্বানুমানসহ
-- [[capability-decision-model-teacher-readiness-2026]] — চারটি অপ্রমাণ-শর্তসহ পরীক্ষণযোগ্য সক্ষমতা-প্রথম শিক্ষক-প্রস্তুতি মডেল
-- [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: পরবর্তী পরীক্ষার জন্য ছয়টি পরীক্ষণযোগ্য প্রস্তাবসহ একটি ত্রিমাত্রিক নির্মাণ
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — জ্ঞানীয় অংশীদারত্ব চক্র
-- [[friction-paradox-generative-ai-education-abroad-2026]] — বিদেশে শিক্ষায় ব্যাখ্যামূলক কর্তৃত্বে প্রয়োগ করা desirable difficulties ও productive failure
-
-- [[webb-pck-genai-2026]] — তিনটি দৃশ্যপট ও একটি নতুন নির্মাণ, pseudo-cPCK: যে উৎপাদন যৌথভাবে বৈধায়িত জ্ঞান অনুকরণ করে অথচ অনুমোদন নেই (Webb প্রমুখ 2026)
-

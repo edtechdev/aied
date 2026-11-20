@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learning-gains, pedagogical-safety, agentic-ai, ai-education, intelligent-tutoring, scaffolding, metacognition, feedback, collaborative-learning, llm, generative-ai, student-experience, knowledge-tracing, self-regulated-learning, human-in-the-loop-ai, cognitive-offloading, benchmark, ai-ed-evaluation, socratic-method, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [wang-teacher-student-centered-agents-physics-2026, aclime-pedagogical-agents-extended-reality-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, ai-student-engagement-online-learning-review-2025, ai-generated-interactive-fiction-education-2026, embodied-inquiry-ai-facilitator-physics-2026, niari-ai-pedagogical-mediator-collaborative-learning, adversarial-stress-testing-role-playing-agents, teaching-monster-pck-benchmark-2026, structrag-diagram-reasoning-ai-tutoring, chen-teacharena-language-agents-realistic-teaching-2026, mooc-to-maic, rethinking-scaffolding-llm-tutors, lecturaagents-multi-agent-teaching, robot-assisted-language-learning-meta-analysis-2026, measuring-llm-tutors-teach-vs-solve, golrang-propact-pair-programming-2026, conversational-ai-tutors-framework, instructional-agents-multi-agent-course-gen, stanford-evidence-base-ai-k12-2026, paratutor-parent-child-tutoring, agents-that-teach-incidental-learning, ai-tutor-authoring-promptdecipher, educasim-cs1-instructional-practice, conversational-ai-agents-umbrella-review-2026, conversational-agents-novice-programmers-scoping-2025, ba-ai-agents-cscl-review-2026, kim-ai-productive-failure-adult-2026, preferred-scaffolding-ai-mathematical-modeling, llm-adaptive-programming-error-explanations-2026, liao-role-adaptive-ai-companion-book-talk-2026, ethics-training-agents-group-ethics-discussion-2026, teachers-configure-educational-chatbots-2026, agent-type-feedback-style-self-directed-learning-2026, anagnostopoulou-ai-companion-stem-self-efficacy-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -63,7 +65,6 @@ Os [[ethics-training-agents-group-ethics-discussion-2026|Agentes de Treinamento 
 
 **A orientação de papel é uma variável de desenho, e não uma escolha estilística.** A [[wang-teacher-student-centered-agents-physics-2026|comparação de agentes de física]] (Wang et al. 2026, 59 pessoas) isola o papel especificado por prompt mantendo fixos modelo, plataforma e temperatura: um agente centrado no professor, ancorado em uma fonte de livro-texto delimitada e respondendo da perspectiva do instrutor, versus um agente centrado no estudante, configurado com conhecimento da compreensão dos estudantes e roteirizado para diagnosticar concepções errôneas, nomear o conceito e fazer [[transfer-of-learning|transferência]] para um caso análogo. O papel centrado no estudante venceu em todo desfecho medido — desempenho no pós-teste, menor carga cognitiva externa e maior carga cognitiva germânica, experiência de fluxo e empatia percebida — embora o agente centrado no professor fosse o otimizado para precisão e fidelidade ao livro-texto. Isso torna o *papel e o padrão de interação* um parâmetro de desenho de primeira classe ao lado do [[prompt-engineering|prompt]] e da escolha de modelo, e mostra que a empatia pode ser projetada a partir da estrutura conversacional, e não por um modelo treinado de forma diferente ([[affective-computing|computação afetiva]]).
 
-
 **A intenção de autoria não garante pedagogia exercida.** Quando 27 professores do ensino fundamental configuraram uma ferramenta de autoria de chatbot voltada ao professor, uma avaliação de 108 classificações de critério no nível do bot concluiu que as respostas geradas se alinhavam muito melhor com responsividade (88,9%) e persona (81,5%) que com regras (70,4%) ou com o propósito declarado (59,3%), o que os autores enquadram pelas formas pedagógicas do Golfo de Execução e do Golfo de Avaliação de Norman — controles configuráveis por si só não tornaram a intenção instrucional do professor visível no comportamento do bot ([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]]).
 
 **Agentes em contextos imersivos e de realidade estendida.** [[aclime-pedagogical-agents-extended-reality-2026|Ross e Kaspar (2026)]] estendem o conceito para a [[virtual-and-augmented-reality|realidade estendida]] (RA, virtualidade aumentada e RV) com o ACLIME, um framework conceitual que — diferentemente de CAMIL, CATLM-VR e TICOL — mantém o agente dentro do modelo. Ele nomeia dois modos de interação extraídos da literatura: o tutor, que oferece orientação, encorajamento, questionamento reflexivo e explicações, e o parceiro de dramatização de papéis, que ocupa um papel definido dentro de um cenário, como um morador local em uma excursão de campo sobre mudança climática ou uma contraparte em negociação em treinamento corporativo. O corpo do agente (de apenas a cabeça ao corpo inteiro) e seu comportamento são tratados como superfícies de desenho: realismo visual versus comportamental, controle flexível de IA versus roteirização fixa baseada em regras, fala sintetizada versus pré-gravada, e canais não verbais incluindo [[sensor-and-gaze-analytics|olhar]], gesto e proxêmica. Argumenta-se que a imersão e a interatividade baseada no corpo multiplicam as pistas sociais por trás da [[community-of-inquiry|presença social]] — o realismo comportamental, e não o visual, é proposto como o preditor decisivo —, enquanto o próprio corpo virtual de quem aprende acrescenta uma dimensão de [[embodied-learning|incorporação]] (propriedade do corpo, agência sobre o próprio corpo virtual, autorrelocalização) e o efeito proteus. A troca explícita do framework é cognitiva: a imersão e a mera presença do agente podem elevar a carga cognitiva mesmo enquanto a interação social com o agente a reduz pelo efeito coletivo de memória de trabalho, e uma camada temporal (familiarização, amadurecimento das relações humano–agente, declínio da novidade, desenvolvimento de ciberenjoo) é acrescentada às variáveis usuais de desenho. Seu status é deliberadamente provisório: quase nenhum trabalho empírico testa ainda agentes pedagógicos em mídia imersiva, e [[learning-gains|resultados de aprendizagem]] de longo prazo, bem como características de quem aprende, estão fora do modelo.
@@ -95,7 +96,6 @@ Os agentes pedagógicos se situam na interseção da [[intelligent-tutoring|tuto
 
 Crucialmente, os agentes pedagógicos são julgados por seus [[learning-gains|ganhos de aprendizagem]], e não por quão fluentemente respondem. A evidência é de que os agentes produzem ganhos duráveis quando desenhados como treinadores específicos de tutoria com salvaguardas — [[stanford-evidence-base-ai-k12-2026|a IA específica de tutoria supera consistentemente os chatbots de uso geral]] — e podem prejudicar a aprendizagem quando substituem o esforço de quem aprende ([[generative-ai-guardrails-harm-learning|o RCT de salvaguardas]], [[jost-llm-programming-education-learning-outcomes|dependência de LLM e notas]]). Medir os [[learning-gains|ganhos de aprendizagem]] de um agente exige, portanto, medidas de desfecho sem assistência e transferíveis, e não desempenho dentro da ferramenta.
 
-
 Melhor feedback não é o mesmo que melhor aprendizagem: customizar um agente com bases de conhecimento e um fluxo de trabalho elevou a precisão e a especificidade do feedback, mas deixou comportamentos autorregulatórios, experiências de aprendizagem e desfechos inalterados, e sua vantagem de ganho apareceu apenas sob feedback diretivo ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 ## Ideias equivocadas comuns
@@ -103,68 +103,3 @@ Melhor feedback não é o mesmo que melhor aprendizagem: customizar um agente co
 - **"A intenção de quem cria determina o que um agente pedagógico faz."** **A intenção de quem cria não garante a pedagogia efetivada.** Quando **27 professores do ensino fundamental II** configuraram uma ferramenta de autoria de chatbot voltada a professores, a avaliação de 108 critérios no nível do bot mostrou que o comportamento efetivado divergia do que os professores pretendiam. A ferramenta mediou a pedagogia.
 - **"Um agente pedagógico que modera discussão é um papel resolvido."** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] mostram o que acontece quando se pede a um agente que **modere em vez de** instruir — uma demanda qualitativamente diferente de responder perguntas, e que a literatura trata como não resolvida.
 - **"A base de evidências da instrução assistida por computador é escassa."** Uma síntese (**2025, 34 revisões**) quantifica a utilização da IAC no apoio ao ensino e à aprendizagem (**97,1% das revisões**), no apoio psicológico e motivacional (**91,2%**) e no apoio **metacognitivo**. A amplitude da aplicação revisada é extensa, o que faz da lacuna uma questão de qualidade efetivada, e não de cobertura.
-
-## Conceitos conectados
-
-- [[learning-gains]]
-- [[pedagogical-safety]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[knowledge-tracing]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[teacher-role]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Artigos conectados
-- [[wang-teacher-student-centered-agents-physics-2026]] — O papel de agente centrado no estudante supera o papel centrado no professor em desempenho, carga, fluxo e empatia (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: framework conceitual para agentes pedagógicos em RA/RV — tutor vs. parceiro de dramatização de papéis, realismo, presença, carga cognitiva (Ross & Kaspar 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-generated-interactive-fiction-education-2026]]
-- [[embodied-inquiry-ai-facilitator-physics-2026]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[mooc-to-maic]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[lecturaagents-multi-agent-teaching]]
-- [[robot-assisted-language-learning-meta-analysis-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[golrang-propact-pair-programming-2026]]
-- [[conversational-ai-tutors-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[paratutor-parent-child-tutoring]]
-- [[agents-that-teach-incidental-learning]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: agentes de estudantes generativos para prática instrucional
-- [[conversational-ai-agents-umbrella-review-2026]] — Revisão guarda-chuva de agentes conversacionais de IA na educação
-- [[conversational-agents-novice-programmers-scoping-2025]] — Revisão de escopo de agentes conversacionais para programadores novatos
-- [[ba-ai-agents-cscl-review-2026]] — Revisão de agentes de IA na aprendizagem colaborativa apoiada por computador
-- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada em fracasso produtivo
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Andaimes preferidos na modelagem matemática apoiada por IA
-- [[llm-adaptive-programming-error-explanations-2026]] — Explicações adaptativas de erros de programação por LLM
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Companheiro de IA adaptativo ao papel para roda de leitura no ensino fundamental; teto afetivo de agentes de papel fixo (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de Treinamento em Ética: facilitando a educação em ética baseada em grupos com dramatização e discussão para reflexão e exploração éticas
-
-- [[teachers-configure-educational-chatbots-2026]] — Vai ensinar como pretendido? Como professores configuram chatbots educacionais de IA
-
-- [[agent-type-feedback-style-self-directed-learning-2026]] — O agente customizado elevou a qualidade do feedback, mas não a autorregulação nem os desfechos; vantagem de ganho apenas sob feedback diretivo
-- [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — Autoeficácia, engajamento, atitudes e aprendizagem percebida na educação STEM assistida por IA
-- [[kozachek-orchestrating-scaffolding-agents-2026]] — Orquestrador líder com um subagente especialista por mecanismo de andaime, perfis persistentes de quem aprende e respostas ancoradas no currículo
-

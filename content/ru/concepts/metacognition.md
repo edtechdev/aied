@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -61,7 +63,6 @@ ai_assist:
 
 Опора — не провал: [[du-yuan-epistemic-dependence-2026|Du and Yuan (2026)]] оценивают опосредованное ИИ обучение по шести диагностическим критериям — оспоримость, восстановимость, перенос, прослеживаемость, распределённая ответственность и эпистемический плюрализм — и различают инструментальную помощь, которая помогает произвести результат, от несущую суждение помощь, которая поставляет стандарты, по которым результат судят.
 **Назовём вопрос управления.** [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] предлагают **метакогнитивное владение** — управление учащимся стандартами, [[evaluative-judgment|оценочными суждениями]] и действиями, которые ИИ вносит в обучение, — разделяя присвоение стандартов, управление суждением при наблюдении и авторизацию контроля и требуя реалистичной возможности действовать иначе.
-
 
 Ключевые находки:
 - **Космина и др. (2025):** студенты, использовавшие помощь ИИ в написании эссе, были **на 83% неспособны вспомнить цитаты** из собственных эссе, против 11% для не использовавших ИИ, — что указывает на то, что они не вступали в контакт с содержанием во время работы над ним.
@@ -101,7 +102,6 @@ ai_assist:
 - **Избирательный прирост: метакогнитивное знание без планирования и наблюдения.** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] разделили 68 [[teacher-education|будущих преподавателей]] на группу, объяснявшую перевёрнутый класс наивному учащемуся на генеративном ИИ (n=33), и группу, задававшую вопросы преподавателю на генеративном ИИ (n=35). Группа наивного учащегося показала более высокие результаты по метакогнитивному знанию и стратегиям обучения (p < 0,001, *d* Коэна = 0,41), но не по планированию и наблюдению (M = 4,01 против 3,78, p = 0,062), хотя результаты той же группы по объяснению и применению выросли (r = 0,474 и r = 0,642), тогда как фактическое припоминание не различало группы (p = 0,416). Это расщепление следует из двух компонентов во Введении: объяснение тому, кто спрашивает в ответ, строило декларативное осознание собственных знаний, но ничто в дизайне не заставляло учащегося задавать маршрут или проверять продвижение, что авторы объясняют дизайном задачи и когнитивной нагрузкой, а не самой ролью. Таким образом, [[learning-by-teaching]] с ИИ является рычагом воздействия на метакогнитивное знание, а не автоматически на [[self-regulated-learning|regulation]], и авторы рекомендуют добавлять явные призывы к планированию и обратную связь о продвижении.
 - **Метод «мышления вслух» поддерживает раннее осознание, но не глубокую оценку.** [[karaki-think-aloud-ethical-genai-2026|Karaki and Baroudi (2026)]] провели [[mixed-methods-research|исследование в смешанных методах]] типа «исследование действием» с 44 студентами первого курса предпринимательства, использовавшими метод Think Aloud (мышление вслух) в ходе учебных работ с поддержкой ИИ. Метод сделал более видимыми конструирование студентами промптов, практики проверки и этическое принятие решений, но [[critical-thinking|критическая оценка]] результатов ИИ «часто оставалась на поверхностном уровне, особенно среди студентов, нуждающихся в дополнительной поддержке» — студенты замечали шаблонные или несоответствующие ответы, но продолжали сильно опираться на них. Самооценённая метакогнитивная осведомлённость была самой высокой из трёх опрошенных конструкций (M = 3,79), однако единственный опрос после вмешательства не может отделить восприятие от изменения. Вывод авторов — Think Aloud не является самостоятельным решением и должен сочетаться с явным обучением ИИ-грамотности, конструированию промптов и стратегиям проверки — расширяет линию свидетельств о процессе выше от *того, что фиксируют записи*, до *того, что меняет одна только озвучивание*.
 - **Предшествующее метакогнитивное обучение открывает доступ к выгоде от ИИ-партнёра по размышлению.** В эксперименте 2 × 2 с 60 будущими преподавателями [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] обнаружили значимое взаимодействие метакогниции × инструмент: ИИ-[[socratic-method|сократический]] партнёр превосходил традиционные цифровые инструменты на 0,56 пункта только после обучения, без преимущества без него (ΔM = −0,03).
-
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] даёт объяснению подавления предварительно зарегистрированный причинный тест (N = 317) против рабочих листов. Дезорганизация выросла на 0,84 (95% доверительный интервал 0,47–1,21) и была самым ясным эффектом в модели, тогда как глубокая обработка падала через цепочку от разгрузки к критическому мышлению, а не напрямую. Автор называет это состояние когнитивной спячкой, при которой наблюдение и выбор стратегии затихают, а обработка продолжается, и находит её причину в возможностях среды, а не в учащемся.
 
@@ -171,64 +171,3 @@ Scheu et al. (2026) обнаружили критическое расщепле
 - **«Помощь ИИ оставляет базовую способность нетронутой».** Студенты, пользовавшиеся помощью ИИ при написании эссе, **в 83% случаев не смогли вспомнить цитаты из собственных эссе, против 11% у непользовавшихся ИИ**, что указывает на то, **что они не взаимодействовали с содержанием в процессе создания**. Именно в процессе создания и происходит вовлечение, и его обход проявляется позже.
 - **«Разгрузка ухудшает всё».** Издержка выглядит **ограниченной, а не глобальной**: разгрузка ухудшает **конкретный отрабатываемый навык, а не базовые доменно-общие способности**, и проявляется на тестах переноса **с** чем-то. Локализация важна, потому что она говорит, что защищать, а не предупреждает об общем упадке.
 - **«Способность произвести подразумевает способность удержать».** Разрыв в припоминании 83% против 11% — прямой контрпример: результат был произведён в обоих условиях, а след памяти различался колоссально.
-
-## Связанные концепции
-
-- [[pedagogical-patterns]] — шаги размышления, которые строят эти последовательности
-- [[learners]] — учащиеся: обобщающая концепция для концепций со стороны учащегося
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — оценки обучения и иллюзия плавности, которую исправляет практика извлечения из памяти
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Связанные статьи
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — двухчасовой семинар по ИИ-грамотности изменил регуляцию взаимодействия с LLM у учеников средней школы, в отличие от их самооценённой метакогниции (Clerc et al. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — взаимодействие студента с ИИ в последовательном переводе с компьютерной поддержкой
-- [[du-yuan-epistemic-dependence-2026]] — эпистемическая зависимость в опосредованном ИИ обучении (Du & Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — то, что спрашивают студенты, имеет значение: глубина взаимодействия с LLM, качество задачи и непосредственное припоминание (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — чувствительная к уровням когнитивная разгрузка в письме с поддержкой GenAI (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — опосредованное LLM обращение за помощью в STEM: многоуровневое, инструментальное и верифицированное
-- [[cui-motivation-roles-metacognitive-genai-2026]] — мотивация и роли в метакогнитивной вовлечённости в GenAI
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — метакогнитивное обучение способствует оптимальной когнитивной разгрузке (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — метакогнитивное понимание когнитивной разгрузки: механизмы, вмешательства и образовательные следствия (Guo & Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — рамка IDEA для метакогнитивно регулируемого использования GenAI
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: человекоцентрированная метакогнитивная модель обучения с ИИ (агентность и рефлексивное обучение)
-- [[metacognitively-discordant-completion-genai-2026]] — метакогнитивно диссонирующая сдача и осознанное проведение через непонимание
-- [[ai-metacognition-stem-review]] — инструменты ИИ, строящие опору для метакогниции в STEM
-- [[ai-making-us-stupid]] — «Does AI making us stupid?»: критика когнитивной разгрузки
-- [[stanford-evidence-base-ai-k12-2026]] — ИИ общего назначения подавляет метакогницию, выполняя рассуждения
-- [[ai-advice-suppresses-ikt-suspension-2026]] — совет ИИ подавляет готовность сказать «я не знаю», даже при неверном совете и стимулах к точности
-- [[agentic-ai-pedagogical-best-practice-2026]] — агентный ИИ и педагогическая передовая практика: напряжение между автоматизацией и обучением
-- [[cognitive-offloading-speedup-illusion]] — когнитивная разгрузка и иллюзия ускорения во взаимодействии человека и ИИ
-- [[lodge-loble-cognitive-offloading-2026]] — ИИ, когнитивная разгрузка и следствия для образования (Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — педагогика ошибок ИИ: развитие мышления высшего порядка (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — проектирование систем ИИ для поддержки обучения на основе продуктивного провала
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT для автономного изучения языка
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — размышление о процессе промптинга и развитие авторства в цикле промптовой грамотности (Miles, Haber-Curran & Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — призыв к размышлению снизил принятие неверных советов ИИ и улучшил калибровку осознания (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — автоматическое оценивание усилило наблюдение, но не планирование, а самооценённое размышление осталось непродуктивным (Chen & Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — грамотность в проверке, действующая только через метакогнитивную саморегуляцию (Davor, Larbi & Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — именно внешняя поддержка, а не точность метакогнитивного суждения, определила выбор стратегии пересмотра (Iqbal et al. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — избирательный прирост: метакогнитивное знание выросло, а планирование и наблюдение — нет (Wang et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — рефлексивное использование росло с доступом к ИИ и предсказывало критическое мышление, а не прирост знаний (Melanou, Beege & Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — метакогническая осведомлённость как сильнейший предиктор адаптивного STEM-обучения (Alatoai & Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — от диагностики к метадиагностике: преподаватели, судящие о выводах, сгенерированных ИИ (Hoppe, Loibl & Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[dang-human-ai-collaboration-competency-2026]] — метакогниция, а не педагогика, как механизм агентности учащегося в совместной работе человека и ИИ (Dang, Hong, Doyle & Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — метакогнитивное владение: конструкция для управления учащимся стандартами, суждениями и действиями
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — журналы и мышление вслух фиксируют разные метакогнитивные процессы в обучении с поддержкой GenAI
-- [[ai-cognitive-partner-reflective-thought-2026]] — четыре практики и одиннадцать процессов рефлексивной мысли, когда студенты трактуют ИИ как когнитивного партнёра
-- [[karaki-think-aloud-ethical-genai-2026]] — метод Think Aloud сделал конструирование промптов, верификацию и этическое рассуждение видимыми, но критическая оценка осталась поверхностной; это не самостоятельное решение
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Метакогнитивное обучение и сократический скаффолдинг на базе ИИ в рефлексивной практике будущих преподавателей: экспериментальный дизайн двойного исследования
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Когнитивная спячка: экспериментальный отчёт о приостановленной метакогнитивной вовлечённости и растущей дезорганизации (Braun 2026)
-- [[ai-metacognition-three-level-meta-analysis-2026]] — Трёхуровневый мета-анализ: объединённое g = 0,624, падающее до незначимости для наблюдения, оценённого по точности (Li и др. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — Модель SYNC: метакогнитивная разгрузка против онлоадинга и результативность задачи, отвязанная от устойчивого обучения (Fan и др. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — Наблюдение не столько блокирует путь разгрузки, сколько перенаправляет его
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Когда наблюдение пропускается и чего это стоит

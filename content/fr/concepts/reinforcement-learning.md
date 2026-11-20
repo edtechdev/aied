@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -70,29 +72,3 @@ L'apprentissage par renforcement sous-tend une grande partie de la conception mo
 **« Des horizons plus longs sont simplement meilleurs. »** Ils rendent possible ce que des horizons plus courts ne permettent pas, et ils exigent que la récompense soit juste sur toute la séquence. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] optimise des **rencontres cliniques de 60 tours**, bien au-delà des horizons de 12 tours au plus des systèmes de dialogue concurrents, ce qui augmente le coût d'un objectif mal spécifié plutôt que de le réduire.
 
 **« L'AP est le formalisme approprié pour le tutorat parce que l'enseignement est séquentiel. »** La séquentialité est nécessaire et non suffisante ; la contrainte déterminante est la validité de la récompense. Un objectif bien spécifié avec une politique faible bat une politique forte contre un objectif erroné.
-
-## Concepts liés
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — Ensemble : technologies et techniques d'IA (modèles, entraînement des LLM, robotique, RAG, agentic)
-
-## Articles liés
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM : l'apprentissage par renforcement à partir des retours humains pour le respect des consignes pédagogiques
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Étayage ICAP adaptatif dans un tuteur intelligent (BKT contre DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

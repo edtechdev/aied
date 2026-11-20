@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -99,37 +101,3 @@ ai_assist:
 **"도구를 금지하면 그 행동이 사라진다."** 그것은 행동을 볼 수 없는 도구로 옮길 뿐입니다. 학생들은 이미 제도가 제공한 도구보다 사적으로 접근한 도구를 선호하므로, 금지는 지원, 기록, 안내가 가능한 유일한 환경 밖으로 사용을 밀어냅니다. 프레이밍의 과제는 금지된 행동을 관찰하기 어렵게 만드는 것이 아니라 허용된 행동을 매력적인 것으로 만드는 것입니다.
 
 **"프레이밍은 설득이므로 디자인보다 수사에 가깝다."** 이 페이지가 말하는 프레이밍은 디자인과 짝을 이룹니다. 기대를 명확하고 반복적으로 진술하면서 *동시에 학생을 중심에 두고 설계하는* 것입니다. 설계 대신 전달되는 메시지가 실패하는 버전이며, 학생들은 진술된 약속과 실제 약속의 차이를 읽습니다.
-
-## 연결된 개념
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## 연결된 문서
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30인 전문가 합의: 순서가 중요합니다 — 먼저 GenAI 없이 습득하고, 다음으로 GenAI와 함께 공고화하고, 그다음에는 자신의 사고를 우선시하십시오
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — 허용되는 것과 허용되지 않는 생성형 AI 사용 각각에 대한 투명한 근거, 과제별로 (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — 방해 요인으로 규탄하기보다는 생성형 AI의 적절한 사용을 장려하는 것
-- [[student-rationalization-ai-writing]] — 학생들이 학술 글쓰기에서 AI 사용을 정당화하는 '다섯 장소'
-- [[student-regulatory-awareness-genai]] — 규칙을 아는 것만으로는 충분하지 않음: 규제 인식과 실제 사용
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI 불안에서 전략적 조절로
-- [[chatgpt-inoculation-training-verification-2026]] — 예방주사 메시지와 검증 행동
-- [[ai-fallibility-warning-help-seeking]] — AI의 오류 가능성에 관한 경고가 도움 요청을 늘림
-- [[shame-guilt-ai-regulation-computing-education]] — AI 사용의 사회적 조절자로서의 수치심과 죄의식
-- [[access-not-enough-ai-tutoring-2026]] — 인간의 지원이 AI 튜터링에 대한 참여를 향상시킴
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 자기결정이론에 기반한 생성형 AI 참여
-- [[ai-availability-student-motivation]] — AI의 가용성이 학생 동기를 형성하는 방식
-- [[youtube-frames-chatgpt-education]] — 유튜브가 교육에서의 ChatGPT 사용을 어떻게 프레이밍하는가
-- [[ai-ethics-education-public-discourse]] — 교육에서의 AI 윤리에 관한 공적 담론
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 교수는 AI를 비판적·책임 있는 사용으로, 고용주는 생산성으로 프레이밍함
-- [[ssaho-ai-academic-integrity-review-2025]] — 명확한 기대를 통해 학술 진실성 문화 구축하기

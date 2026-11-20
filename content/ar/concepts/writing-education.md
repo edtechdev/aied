@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, llm, generative-ai, formative-assessment, peer-assessment, self-regulated-learning, student-experience, feedback-literacy, feedback, discipline-specific-aied, english-education, assessment, agency, reflection]
+connected_articles: [powell-chatbot-enhanced-oer-composition-2026, gunay-ozden-process-genre-ai-writing-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, layer-sensitive-cognitive-offloading-writing-2026, coach-not-crutch-ai-writing, llms-do-not-grade-essays-like-humans-2026, pairr-ai-peer-review-2025, posthumanist-ai-literacy-2025, choi-anchor-aes-prompting-2025, aiawe-automated-writing-evaluation, agency-gap-ai-writing, ai-writing-support-stage-ownership-2026, genai-teacher-feedback-comparison, student-rationalization-ai-writing, care-full-feedback-genai, self-referential-l2-writing-llm-assessment, becerra-aicofe-feedback-2026, repeated-ai-writing-feedback-semester, ai-feedback-critical-thinking-writing-2026, marked-pedagogies-linguistic-bias-writing-feedback, bassett-ai-detectors-education-2026, academic-erasure-complexity-ai-writing-2026, lu-ai-multimodal-writing-critical-thinking-2026, student-genai-use-views-writing, genai-writing-program-primary-l2-motivation-engagement, automated-scoring-marketing-posts-agreement-2026, empowerment-ai-assisted-deep-revision-efl-writing-2026, llm-feedback-focus-adaptivity-student-writing-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, genai-writing-performance-meta-analysis-2026, customizing-ai-writing-pedagogy-systematic-review-2026, human-ai-collaboration-academic-writing-2026, zhao-ji-appraisal-human-ai-revisions-2026, engage-to-unlock-productive-friction-genai-2026, genai-srl-l2-writing-scale-2026, ai-peer-feedback-l2-writing-engagement-2026, when-students-prefer-ai-scoring-feedback-2026, biology-undergraduates-ai-enabled-feedback-scientific-writing-2026, tie-responsible-genai-use-academic-writing-review-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, jelson-students-chatgpt-essay-writing-2026, al-nafjan-genai-eap-writing-engagement-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, alam-process-oriented-collaborative-essays-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, dumin-ai-research-projects-first-year-writing-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -162,81 +164,3 @@ ai_assist:
 **"يتصرّف الطلاب بناءً على تغذية الذكاء الاصطناعي حين تُقدّم."** الامتثال انتقائي. تتبّع [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston and Long (2026)]] فريقين من طلاب البكالوريوس في [[biology-education|علم الأحياء]] يراجعان مقدمة مقترح مقابل تغذية راجعة مبنية بالذكاء الاصطناعي من المعلم: عولجت 10 من 22 تعليقًا، وفاقت الحذوفات الإضافات، وتُجوهلت كليًا التعليقات التي تقتضي من الطلاب الحكم على التماسك أو على دعم الادعاء.
 
 **"يمكن لنموذج أن يقوم مقام نمط تغذية المعلم الراجعة."** لم يفعل ذلك في الأدلة. تتبّع معلمًا واحدًا عبر مراحل المسودة وجد تحرّكًا يُعتد به على **خمسة** أنواع لتركيز التغذية الراجعة — إذ ارتفع *الإطراء* من **26.9%** في المسودات الأولى إلى **84.9%** في النهائية — بينما تحرّك أقرب نموذج على ثلاثة أنواع وأصغرها على لا شيء، ولم يعِد أي نموذج النمط. تغذية المعلم تعيد توزيع التشديد حسب مرحلة المسودة؛ وتغذية النموذج تميل إلى الاحتفاظ بتوزيعها. ومعاملة الثانية كمكافئة للأولى تُفقد المسار.
-
-## المفاهيم المرتبطة
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[discipline-specific-aied]]
-- [[english-education]]
-- [[assessment]]
-- [[agency]]
-- [[reflection]]
-
-## المقالات المرتبطة
-
-- [[favero-thinking-not-writing-chatbot-2026]] — التفكير ليس الكتابة: تصميم روبوتات محادثة تربط الاستدلال بالمراجعة
-
-- [[gunay-ozden-process-genre-ai-writing-2026]] — تجربة شبه تجريبية مع 32 طالبًا: تعليم العملية–النوع الأدبي رفع الكتابة المعلوماتية ومتعددة الأنماط والمدعومة بالذكاء الاصطناعي (Günay & Özden 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 أستاذًا للكتابة عن التصحيح بالذكاء الاصطناعي: فوائد للتغذية الراجعة، وانحراف في الدرجات، ولا قاعدة مؤسسية
-- [[genai-l2-written-feedback-scoping-review-2026]] — مراجة نطاق لـ 51 دراسة: فجوات في شفافية المطالبات ولماذا يتغلّب الذكاء الاصطناعي مع المعلم على كلٍّ منهما منفردًا
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — سياسات الذكاء الاصطناعي في صفوف المعلمين المقبلين: توترات وتشابكات
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — إطار الإنسان في الحلقة للتصحيح بمساعدة الذكاء الاصطناعي في تقويم الكتابة واسع النطاق
-- [[llm-comparative-judgment-writing-screening-2026]] — صلاحية الحكم المقارن للنماذج اللغوية الكبيرة في التصفية الشاملة للكتابة
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — التفريغ الإدراكي الحساس للطبقات في الكتابة بمساعدة الذكاء الاصطناعي التوليدي (Chen 2026)
-- [[coach-not-crutch-ai-writing]] — يمكن لأدوات الكتابة بالذكاء الاصطناعي تحسين مهارة الكتابة رغم تقليل الجهد (Lira et al. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — لا تصحّح النماذج اللغوية الكبيرة المقالات كما يصحّحها البشر (Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — مراجعة الأقران والذكاء الاصطناعي + التأمل (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — منهج ما بعد الإنسانية لثقافة الذكاء الاصطناعي
-- [[choi-anchor-aes-prompting-2025]] — التصحيح الآلي للمقالات القائم على المرتكزات
-- [[aiawe-automated-writing-evaluation]] — AIAWE: التقييم الآلي للكتابة
-- [[agency-gap-ai-writing]] — فجوة الفاعلية في الكتابة المدعومة بالذكاء الاصطناعي
-- [[ai-writing-support-stage-ownership-2026]] — من التخطيط إلى المراجعة: دعم الكتابة بالذكاء الاصطناعي في مراحل مختلفة
-- [[genai-teacher-feedback-comparison]] — مقارنة التغذية الراجعة للذكاء الاصطناعي التوليدي بتغذية المعلم الراجعة
-- [[student-rationalization-ai-writing]] — "الأمر مقبول لأن...": الغرب المتوحش لتبريرات الطلاب
-- [[care-full-feedback-genai]] — مناهج التغذية الراجعة المتبصّرة
-- [[self-referential-l2-writing-llm-assessment]] — تقييم كتابة اللغة الثانية المرجعي الذاتي
-- [[becerra-aicofe-feedback-2026]] — أنظمة تغذية الأقران الراجعة بالذكاء الاصطناعي
-- [[repeated-ai-writing-feedback-semester]] — تقييم الطلاب للتغذية الراجعة المتكررة من الذكاء الاصطناعي
-- [[ai-feedback-critical-thinking-writing-2026]] — استخدام التغذية الراجعة المولّدة بالذكاء الاصطناعي لتحسين التفكير النقدي
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — الماركيد بيداجوجي: التحيزات اللغوية في تغذية الراجعة الكتابية الآلية المخصّصة
-- [[bassett-ai-detectors-education-2026]] — نكسب من الوجهين أو نخسر: كواشف الذكاء الاصطناعي في التعليم (Bassett et al. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — المحو الأكاديمي: اختفاء التعقيد تحت الكتابة المدعومة بالذكاء الاصطناعي
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — التأليف متعدد الأنماط بالذكاء الاصطناعي والتفكير النقدي في كتابة المرحلة الابتدائية (Lu et al. 2027)
-- [[student-genai-use-views-writing]] — استخدام الطلاب وآراؤهم في الذكاء الاصطناعي التوليدي للكتابة (Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — برنامج كتابة مدعوم بالذكاء الاصطناعي التوليدي لدافع واندماج وأداء متعلمي اللغة الثانية في المرحلة الابتدائية (Lu et al. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — الاتفاق والخطأ في التصحيح الآلي لمنشورات الطلاب التسويقية
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — ثقافة المطالبات والدافع الداخلي يدفعان المراجعة العميقة بينما لا أثر مباشر للمندوبات الخارجية (Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — تقييم تركيز التغذية الراجعة والقابلية للتكيّف البيداغوجي في التغذية الراجعة المولّدة بالنماذج اللغوية الكبيرة على كتابة الطلاب
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — تغذية المعلم الراجعة مقابل تغذية الأقران الراجعة بمساعدة الذكاء الاصطناعي كسقالتين غير متجانستين لكتابي اللغة الثانية في تجربة شبه تجريبية دامت 8 أسابيع (Tang et al. 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — تلخيص تحليلي لأداء الكتابة بالذكاء الاصطناعي التوليدي: أثر مجمّع كبير، ومقدار هشّ، والمنهجية قبل البيداغوجيا (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — مراجعة منهجية لتخصيص الكتابة بالذكاء الاصطناعي وعدم التطابق بين النظرية والتصميم (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — التعاون المنظم بين الإنسان والذكاء الاصطناعي في الكتابة الأكاديمية والتفكير النقدي الرقمي (Alshehri et al. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — مراجعات الإنسان والذكاء الاصطناعي لنفس المسودة تتخذ مواقف حوارية مختلفة: تغذية الأقران الراجعة تُغلق الفضاء الحواري، ومراجعة الذكاء الاصطناعي تحفظ توازنه (Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — الانخراط لفتح القفل: ربط مخرجات الذكاء الاصطناعي بالانخراط السابق أعاد توزيع الجهد على الكتابة دون كلفة في الوقت أو الدقة (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — مقياس GenAI-SRL من ستة أبعاد لكتابة اللغة الثانية، مع التنظيم البيئي (حكم الأدوات) بُعدًا متميزًا
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — قرن الذكاء الاصطناعي بتغذية الأقران الراجعة يرفع الاندماج ودرجات الكتابة
-- [[when-students-prefer-ai-scoring-feedback-2026]] — يريد الطلاب الإنسان في الطرف عالي المخاطر
-- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — استخدام طلاب البكالوريوس في علم الأحياء للتغذية الراجعة المدعومة بالذكاء الاصطناعي لمراجعة الكتابة العلمية: التقبّل والعوائق (Weston and Long 2026)
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — الاستخدام المسؤول للذكاء الاصطناعي التوليدي في الكتابة الأكاديمية: مراجة نطاق للحدود والمقاربات التعليمية وفجوات الأدلة
-
-- [[porcaro-ai-grading-benchmark-2026]] — ما بعد الاتفاق: 22 مُقيّماً مُطالَباً يواجهون مجسّات إجابتها الصحيحة معروفة، ومعظمها يمكن إقناعه بالارتفاع (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — سياق المتعلّم يغيّر درجات مُقيّم النموذج اللغوي على العمل نفسه، مقيساً في إزالة داخل البند على ستة نماذج (Porcaro 2026، الورقة VI)
-- [[jelson-students-chatgpt-essay-writing-2026]] — التفويض مقيساً من آثار التتبّع: 137 طلباً لمهمة كاملة، و15 طالباً سلّموا مقالات بلا كلمات مطبوعة (Jelson وآخرون 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — الصرامة والتزام المعلم بُعدا مشاركة الكتابة في عصر الذكاء الاصطناعي التوليدي
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 شعبة و10 مقررات و654 طالباً: نشر PAIRR الرائد ومطالبته القائمة على التغذية الراجعة وحدها
-

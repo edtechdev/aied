@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -43,9 +44,3 @@ Docenten die beslissen of ze een beoordelingstool cijfers ongecontroleerd laten 
 ## Opmerkingen en kanttekeningen
 
 GradeBench wordt uitgegeven door Pensive, een commercieel AI-beoordelingsplatform, dus de benchmark en het product delen een eigenaar; de taakopbouw is gedocumenteerd en verdedigbaar, maar beschouw de framing als die van de leverancier. Het bestrijkt STEM-tentamens met rubrics van minstens vier items, waardoor essays, korte antwoorden en discussieberichten worden uitgesloten — de formats waarin het meeste beoordelingswerk in de [[humanities-education|geesteswetenschappen]] gebeurt. Exacte rubricovereenkomst is een strikte maatstaf: twee beoordelaars kunnen het oneens zijn over een item en allebei gelijk hebben over de student. De scores beschrijven modelversies die beschikbaar waren in november 2026 en zullen verschuiven.
-
-## Gerelateerde concepten
-
-- [[automated-assessment]] — de praktijk die de benchmark meet
-- [[assessment-validity]] — het criterium waarvoor een leaderboardscore een proxy is
-- [[benchmark]] — de bredere klasse instrumenten waartoe dit behoort

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -118,54 +120,3 @@ Rozvíjení teorie a [[philosophy-of-ai-in-education|filozofie AI ve vzdělává
 
 - Pokud zamýšlíte teoretický příspěvek, navrhujte design pro kontrasty konfigurací. Pokus s průměrným efektem publikovaný jako rozvíjení teorie je nejběžnějším a nejméně užitečným výstupem oboru.
 - Ke každému rámci, který představíte, připojte explicitní falzifikovatelná tvrzení a uveďte, které rozdíly konfigurací by je vyvrátily.
-
-## Související koncepty
-
-- [[learning-theories]]
-- [[philosophy-of-ai-in-education]]
-- [[limitations-in-aied-research]]
-- [[research-methods-aied]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-gains]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[community-of-inquiry]]
-- [[cognitive-surrender]]
-
-## Související články
-
-- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Rozšíření funkční taxonomie: 90 ze 154 klasifikovatelných publikací (58,4 %) padá mimo původní čtyři kategorie (Ranieri & Biagini 2026)
-- [[yan-agentivism-learning-theory-ai-2026]] — Teorie učení středního dosahu pro interakci člověka a AI se čtyřmi mechanismy a šesti testovatelnými tvrzeními (Yan a Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Klamavé nadměrné zobecnění: adaptivní zvládnutí může zastavit procvičování dřív, než se studující naučí, kdy akci zadržet (An, McLaren & Stamper 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[generativism-learning-theory]] — Generativismus jako nová teorie učení
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — K teorii epistemické spoluagenturnosti
-- [[du-yuan-epistemic-dependence-2026]] — Relační epistemická agenturnost a hranice produktivního spoléhání a škodlivé závislosti (Du & Yuan 2026)
-- [[absent-cognitive-baseline-2026]] — Chybějící kognitivní baseline (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitivní obec a obnova expertizy
-- [[genai-performance-vs-learning]] — Výkon vs. učení
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemická gramotnost v oblasti AI (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Certifikace a kognitivní správcovství
-- [[ai-cognitive-partner-co-regulation-learning]] — AI jako kognitivní partner ve spoluregulaci
-- [[epistemic-proactivity-math]] — Epistemická proaktivita v matematice
-- [[strydom-human-gai-paradigms-2026]] — Sedm paradigmat zapojení člověka a GAI zakotvených v epistemologických přesvědčeních
-- [[critical-thinking-paradox-genai-learning-2026]] — Paradox kritického myšlení
-- [[dollinger-equitable-assessment-ai-2026]] — Spravedlivé hodnocení v éře GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-systémová teorie a kognitivní kapitulace: jak AI přetváří lidské uvažování (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Rekonceptualizace Komunity zkoumání v éře generativní AI
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Zkušenosti a vnímání GAI u vysokoškolských učitelů: zranitelnost, přehodnocování hodnocení, učení studentů v ohrožení (Farazouli et al. 2026)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Alternativní filozofie AI: taoismus jako metoda pro AI ve vzdělávání
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: schémata založená na tvrzeních pro auditovatelné kódování vzdělávacích dialogů
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metakognitivní vlastnictví: definice konstruktu, hranice a výzkumná agenda
-
-- [[synthetic-position-self-authorship-2026]] — Syntetická pozice: nabídka dialogického self pojmenovávající syntetickou propagaci a autorské pozastavení s křížovou predikcí
-- [[capability-decision-model-teacher-readiness-2026]] — Falzifikovatelný model připravenosti učitelů zaměřený na způsobilost se čtyřmi podmínkami vyvrácení
-- [[ai-connectedness-adolescent-mental-health-2026]] — Propojenost s umělou inteligencí: třídimenzionální konstrukt se šesti falzifikovatelnými tvrzeními pro pozdější testování
-- [[page-cognitive-partnership-cycle-human-ai-2026]] — Cyklus kognitivního partnerství
-- [[friction-paradox-generative-ai-education-abroad-2026]] — Žádoucí obtížnosti a produktivní selhání aplikované na interpretační agenturnost ve vzdělávání v zahraničí
-- [[webb-pck-genai-2026]] — Tři viněty a nový konstrukt, pseudo-cPCK, pro výstup, který napodobuje kolektivně validované poznání bez ručení (Webb et al. 2026)

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
+connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -69,26 +71,3 @@ La investigación sobre usabilidad comparte métodos de recogida de datos con la
 **«El estudiantado que abandona una herramienta carecía de motivación.»** El abandono suele ser la lectura correcta que hace la persona usuaria de un coste de interacción que quien diseñó nunca midió. Como una herramienta que nadie usa no puede tener efecto, la tasa de abandono es un resultado educativo por derecho propio.
 
 **«Probar la usabilidad es lo mismo que medir el aprendizaje.»** Responden a preguntas distintas y ninguna sustituye a la otra; el modo de fallo es tratar cualquiera de las dos como suficiente para adoptar la herramienta.
-
-## Conceptos conectados
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[design-thinking]]
-- [[intelligent-tutoring]]
-
-## Artículos conectados
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Un estudio de usabilidad de un humanoide narrador impulsado por LLM
-- [[rhaimi-productivemath-2025]] — ProductiveMath: usabilidad de una aplicación de IA generativa
-- [[supplynet-visual-exploratory-learning]] — Estudio con usuarios de SupplyNet
-- [[anvil-ai-educational-animations]] — Usabilidad de animaciones educativas generadas por IA
-- [[code-anchor-multi-view-visualization]] — Estudio de pensamiento en voz alta sobre visualizaciones de código con múltiples vistas
-- [[learn-framework-responsible-genai-pbl-2026]] — El marco LEARN y la evaluación por pensamiento en voz alta
-- [[feedback-futures-genai]] — Cómo procesa el estudiantado la retroalimentación generada por IA
-- [[llm-chatbots-cs-multiple-choice]] — Chatbots LLM para preguntas de elección múltiple de informática
-- [[conversational-ai-agents-umbrella-review-2026]] — Revisión paraguas de agentes de IA conversacional

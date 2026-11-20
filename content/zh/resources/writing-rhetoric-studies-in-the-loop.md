@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -40,7 +41,3 @@ ai_assist:
 ## 使用前须知
 
 整本书以 PDF 和 ePub 免费提供，各章也分别单独发布并拥有各自的 DOI。该书于 2026 年 7 月由 WAC Clearinghouse 在其 WAC Repository 系列中出版，共 402 页，由 Anuj Gupta 和 Brian Gogan 主编，合集 DOI 为 10.37514/TWR-B.2026.2999。许可为 Creative Commons BY-NC-ND 4.0，读者可以阅读、打印个人副本并链接到本书，但不得在其他网站上转载或在未经许可的情况下改编；希望修改提示措辞的课程应自行编写自己的版本，而不是重印这些提示。每个提示都经过跨平台测试，但本书没有报告受控的结果比较，因此应把这些提示视为专家设计，而非经过验证的干预。
-
-## 关联概念
-
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

@@ -41,6 +41,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
+connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -200,56 +202,3 @@ ai_assist:
 **«لأن الذكاء الاصطناعي عام الغرض، فنتيجةٌ من أي مكان تنطبق في كل مكان.»** عمومية التقنية لا تخلق عمومية في الأدلة. وقد وُجدت محاور التخصص والمستوى والسياق لأن الأداة نفسها تتصرف تصرفًا مختلفًا عبرها، والنتيجة المنقولة عبر حدّ دون تغيير هي استقراء خارج نطاق البيانات.
 
 **«يمكن قراءة نضج المجال من حجم منشوراته.»** الحجم والنضج يفترقان؛ فمحور مناهج البحث يوثّق نقاط ضعف تصميمية متكررة لا يُصلحها الحجم، وتتكاثر الأطر أسرع مما تُختبر.
-
-## المفاهيم المتصلة
-
-- [[ai-literacy|الثقافة بالذكاء الاصطناعي]]: محور جامع لفهم الذكاء الاصطناعي واستخدامه وتقويمه
-- [[primary-education]] — الذكاء الاصطناعي في التعليم الابتدائي
-- [[secondary-education]] — الذكاء الاصطناعي في التعليم الثانوي
-- [[undergraduate-education]] — الذكاء الاصطناعي في الدراسة الجامعية
-- [[graduate-education]] — الذكاء الاصطناعي في الدراسات العليا
-- [[automation-bias]] — فشل جانب القارئ: قبول حكم آلي دون التحقق منه
-- [[human-ai-collaboration|التعاون بين الإنسان والذكاء الاصطناعي]]: محور جامع لكيفية عمل الناس والذكاء الاصطناعي معًا
-- [[pedagogy|أصول التدريس]]: محور جامع لطرائق التدريس واستراتيجياته
-- [[case-based-learning]] — منهج الحالة، ومناقشة الحالات، والحالات المتقابلة
-- [[metaphors-and-analogies]] — كيف تُشكّل الاستعارة فهم الذكاء الاصطناعي وكيف يدعم التناظر التعليم
-- [[learning-theories|نظريات التعلّم]]: محور جامع لكيفية حدوث التعلّم
-- [[ai-technologies|التقنيات]]: محور جامع للنماذج والأساليب والأنظمة
-- [[discipline-specific-aied|الذكاء الاصطناعي في التخصصات]]: محور جامع للذكاء الاصطناعي عبر المواد الدراسية والمستويات
-- [[assessment|التقييم]]: محور جامع لكيفية تقييم الذكاء الاصطناعي للمتعلّمين وإعادة تشكيله للصدق
-- [[feedback|التغذية الراجعة]]: محور جامع لكيفية توليد التغذية الراجعة وتقديمها واستخدامها
-- [[stakeholders|أصحاب المصلحة]]: محور جامع لمن هم الفاعلون
-- [[learners|المتعلّمون]]: محور جامع لمفاهيم جانب المتعلّم (التجربة والهوية والفاعلية والتفاعل ونماذج المتعلّم)
-- [[ai-ed-evaluation|تقويم تدخّلات الذكاء الاصطناعي في التعليم]]: محور جامع لكيفية معرفتنا هل ينجح الذكاء الاصطناعي
-- [[research-methods-aied|مناهج البحث في الذكاء الاصطناعي في التعليم]]: محور جامع لمناهج بحث الفعالية
-- [[governance|الحوكمة]]: محور جامع للطبقة المؤسسية والتنظيمية
-- [[educational-policy-ai|سياسة الذكاء الاصطناعي في التعليم]]: محور جامع للسياسات والتوجيهات والتنفيذ
-- [[equity-in-ai-education|الإنصاف في تعليم الذكاء الاصطناعي]]: محور جامع للعدالة والوصول والشمول
-- [[learning-sciences|علوم التعلّم]]: المجال التجريبي الذي يقف خلف الذكاء الاصطناعي في التعليم
-- [[ethics|الأخلاقيات]]: الأبعاد الأخلاقية للذكاء الاصطناعي في التعليم
-- [[misconceptions|المفاهيم الخاطئة]]: النماذج الذهنية التي يحملها الناس عن الذكاء الاصطناعي
-- [[interpreting-and-applying-aied-research|كيف تقرأ بحوث الذكاء الاصطناعي في التعليم وتطبّقها]]: قراءة دراسة ونقل نتيجة إلى الممارسة
-- [[limitations-in-aied-research|الحدود المشتركة لهذه القاعدة من الأدلة]]: الحدود الشاملة لقاعدة الأدلة
-- [[meta-analysis-systematic-review|التحليل البَعدي والمراجعة المنهجية]]: ما تُثبته المراجعات والتحليلات البَعدية
-- [[history-of-aied|تاريخ الذكاء الاصطناعي في التعليم]]: كيف تطوّر المجال
-- [[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي في التعليم]]: الأسس الفلسفية
-- [[theories-and-frameworks|النظريات والأطر]]: خريطة عُقد النظرية والإطار
-- [[theory-development-aied|تطوير النظرية في الذكاء الاصطناعي في التعليم]]: بناء النظرية ومراجعتها
-- [[pedagogical-patterns]] — أنماط تربوية: التسلسلات المُختبرة التي تُجرّد منهجيات الميدان
-- [[ai-assisted-educational-research]] — البحث التربوي بمساعدة الذكاء الاصطناعي
-- [[sensor-and-gaze-analytics]] — محور جامع: استشعار المتعلّمين عبر تتبّع النظر والتخطيط الكهربائي للدماغ وإشارات الأجهزة القابلة للارتداء
-- [[ai-avatars-and-synthetic-instructors]] — محور جامع: بشر اصطناعيون يدرّسون ويسدّدون ويحاكون ويقوّمون
-- [[civic-and-political-education]] — مجال دراسي: ثقافة الحياة العامة، بقاعدة أدلة رقيقة
-
-## المقالات المتصلة
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — تطوّر بحوث الذكاء الاصطناعي والتعليم عبر أربعة عقود (إطار AIxEd)
-- [[mishra-control-vs-agency-history-2025]] — التحكّم مقابل الفاعلية: تاريخ الذكاء الاصطناعي في التعليم
-- [[genai-higher-education-systematic-review-2026]] — الذكاء الاصطناعي التوليدي في التعليم العالي: مراجعة منهجية لـ125 دراسة
-- [[stanford-evidence-base-ai-k12-2026]] — قاعدة الأدلة على الذكاء الاصطناعي في مرحلة K-12: مراجعة 818 ورقة
-- [[genai-educational-outcomes-meta-analysis]] — الذكاء الاصطناعي التوليدي والنواتج التعليمية: تحليل بعدي شامل
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 دراسة في المرحلة الثانوية: المكاسب حيث قارن الطلاب المخرجات، وخفتت حيث أنتجت الأداة العمل
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — دعم المشرف (β = 0.201 غير مباشر) لا استخدام الأداة يبني الكفاءة الذاتية البحثية
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — الإشراف على الدكتوراه بالذكاء الاصطناعي التوليدي: الشرعية بحسب المهمة، والإفصاح بحسب الأهمية الفكرية، والحوكمة عند المحطات
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — طلاب الدراسات العليا قبلوا مخرَج الذكاء الاصطناعي بعد تدقيق حارس معرفي: فاعلية مُفوَّضة لا مُسلَّمة (Chen 2026)
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — التكرار مقياس خاطئ: β = 0.030 بمجرد دخول الأخلاقيات والتنظيم الذاتي

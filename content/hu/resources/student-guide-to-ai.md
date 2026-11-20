@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -48,11 +49,3 @@ Alapképzéses hallgatók bármely szakon, és felső tagozatos középiskoláso
 Az útmutató [[formative-assessment|formáló]] keretezésű, és ezt ki is mondja: a pontszámok a szokások pillanatképei, nem osztályzat, nem tulajdonság és nem előrejelzés, a diákokat pedig arra kérik, ne osszák meg őket nyilvánosan.
 
 A MI körüli keretezés idézett felmérési és kísérleti bizonyítékokon nyugszik, amelyek szerint az erőfeszítés kiszervezése kevesebb megmaradó tudást hagyhat a diákoknál – ez az a [[cognitive-offloading|offloading]] kérdés, amelynek ellensúlyozására az útmutató íródott, nem eldöntésére. A terepútmutató PDF-je egy rövid űrlap mögött van, amely nevet, szerepet, intézményt és e-mail-címet kér; a tanári útmutató-modulok és a pedagógiai keretrendszerről szóló tanulmány közvetlenül letölthetők. A kiadó számai – több mint 40 000 PDF-letöltés mintegy 4 000 intézményben, 180 országban, és több mint 130 egyedi campuskiadás – az övéi, akárcsak az ALA, a NASPA, az EDUCAUSE, az OLC, a CAA, a Gardner Institute és az RTI International ajánlásai.
-
-## Kapcsolódó fogalmak
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

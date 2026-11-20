@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -112,49 +114,3 @@ La mitigación del sesgo se refiere al sesgo dentro del sistema. [[automation-bi
 - **«El sesgo es un problema de calificación y de retroalimentación.»** El sesgo entra en **clases de tareas ajenas a la calificación**: tres LLM que asignaban **clases de ingeniería de software de 28 estudiantes a cuatro equipos dirigieron a los hombres al menos un 80% menos de veces** que la distribución de referencia. La formación de equipos portaba un sesgo de magnitud comparable al de la calificación.
 - **«Proporcionar la habilidad pertinente elimina el sesgo.»** Proporcionar habilidades lo **redujo pero no lo eliminó**: **el 99,2% de las asignaciones basadas en habilidades coincidía con uno de dos equipos de referencia, y aun así el género decidía entre opciones igualmente válidas (OR 2,53)**. Un emparejamiento de tareas casi perfecto coexistió con un efecto de género, así que la exactitud en el criterio principal no es evidencia de equidad.
 - **«Un único enfoque de mitigación es suficiente.»** La investigación ilustra **estrategias complementarias** —entre ellas el modelado consciente de la equidad— porque el sesgo que entra en la formación de equipos no se aborda con una corrección dirigida al texto de salida.
-
-## Conceptos conectados
-- [[differential-effects-across-learner-groups]]
-- [[automation-bias]] — el fallo del lado de quien lee: aceptar una recomendación sin comprobarla
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## Artículos conectados
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alineamiento pedagógico neuro-simbólico (NSPA)
-- [[ai-scoring-language-bias-physics]] — Sesgo lingüístico en la calificación basada en IA
-- [[gender-bias-transfer-llm-writing]] — Transferencia de sesgo de género en la escritura asistida por LLM
-- [[paternalistic-filter-llm-history-education]] — El filtro paternalista y los rechazos diferenciales
-- [[fair-explainable-edu-recommendations]] — Recomendaciones educativas justas y explicables
-- [[temporal-smoothness-debiased-kt]] — Seguimiento del conocimiento desesgado
-- [[ground-truth-reliability-aied]] — Modernizar la verdad de referencia para la fiabilidad de la IA
-- [[data-annotations-pedagogical-hints]] — Las anotaciones de datos como pistas pedagógicas
-- [[xai-education-framework]] — IA explicable en la educación
-- [[antiskillbench-persona-skills-privacy-2026]] — Privacidad y auditoría de sesgos de habilidades de persona
-- [[genai-minoritized-knowledges-disability]] — La IA generativa y la marginación de los conocimientos minorizados
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Pedagogías marcadas: sesgos alineados con estereotipos en los comentarios automatizados de escritura
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — ¿Puede la IA ofrecer un apoyo adecuado a perfiles diversos de estudiantado? Una evaluación a gran escala
-- [[bias-representation-text-to-image-education-2026]] — Sesgo y representación en el texto a imagen generado por IA: revisión sistemática (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimiento a los comentarios accionables y responsables: revisión de alcance y mapa de evidencia sobre el PLN en la evaluación del estudiantado sobre la docencia, 2015–2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — La IA generativa puede reforzar los sesgos sociales en la enseñanza de la ingeniería de software
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: evaluación de las intervenciones de equidad post hoc en sistemas de alerta temprana controlados por proveedores
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - con desequilibrio de clases, tres familias de modelos no lograron identificar al estudiantado de bajo rendimiento mientras las métricas equilibradas parecían saludables

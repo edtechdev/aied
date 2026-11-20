@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
+connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -104,35 +106,3 @@ ai_assist:
 **«Практика извлечения — это квизы, и любой квиз считается».** Механизм — производство ответа из памяти, а не узнавание его, поэтому задание на узнавание с множественным выбором — более слабая версия той же активности. ИИ, который генерирует бесконечные задания на узнавание, сгенерировал активность с правильным названием и неверным механизмом.
 
 **«ИИ может верно доставлять эти техники, поскольку они хорошо специфицированы».** Он может и тихо их подорвать. Распределение требует, чтобы система утаивала материал, который она наиболее способна выдать по требованию, а извлечение требует, чтобы она не отвечала, — поэтому эффективность техники зависит от ограничений, которые уступчивый ассистент не имеет стимула накладывать.
-
-## Связанные концепции
-
-- [[pedagogical-patterns]] — Последовательности разнесённого извлечения и цена удержания при содействии во время кодирования
-- [[desirable-difficulties]] — принцип, который операционализируют эти три техники
-- [[cognitive-psychology]] — память, кодирование и извлечение как теоретический дом всех трёх
-- [[prior-knowledge]] — практика извлечения как активация того, что учащийся уже держит
-- [[metacognition]] — суждение о том, отражает ли беглость обучение
-- [[self-regulated-learning]] — последовательная учёба того, что ИИ может спланировать или ответить за вас
-- [[mastery-learning]] — удержание после порога освоения и распределение, которое его поддерживает
-- [[knowledge-tracing]] — модели, которые принимают или упускают решения о планировании
-- [[cognitive-offloading]] — режим отказа, когда извлечение делегировано инструменту
-- [[transfer-of-learning]] — разрыв между результативностью и обучением, на который направлены техники
-- [[formative-assessment]] — контрольные точки с закрытыми инструментами как события извлечения
-- [[productive-failure]] — попытка до получения помощи
-- [[learners]] — ставки на долговечное, а не беглое обучение
-
-## Связанные статьи
-
-- [[adaptive-pretesting-retention]] — Akgun & Toker: адаптивное разнесённое извлечение против фиксированного извлечения против управляемого учащимся ИИ в течение семи недель
-- [[memdora-ai-spaced-repetition]] — Memdora: планирование на FSRS-6 и таксономия обоснованных взаимодействий с карточками
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: глубина объяснения предсказывает качество задания, но не непосредственное запоминание
-- [[rachatasumrit-example-problem-ratio-2026]] — Практика извлечения для фактов, разобранные примеры для навыков; взаимодействие содержание–воздействие
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Модели трассировки знаний не улавливают эффект распределения при валидации по времени
-- [[bilingual-llm-lecture-companion-srl-2026]] — Автоматическая генерация карточек, устраняющая стоимость создания при разнесённой практике
-- [[student-cheat-sheets-make-or-take]] — Создание шпаргалки как генеративная учёба; перекладывание создания на ИИ
-- [[knowloop-confusion-to-consolidation-2026]] — Консолидация через обучение других, выявляющая пробелы, которые не выявило уточнение
-- [[simulating-learner-task-selection]] — Чередование и Блокирование как моделируемые стратегии учащегося при ограничениях на выбор задач
-- [[nie-personavlm-long-term-personalization-2026]] — Продольная память студента и её открытое отношение к интервальному повторению и кривым забывания
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Практика извлечения в слое Инструменты рамки обучения учиться учёбе
-- [[agentic-ai-pedagogical-best-practice-2026]] — Предзагружающие агенты обходят практику извлечения; аргумент в пользу намеренного трения
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Когда ИИ-тьюторы говорят: данные рандомизированного полевого эксперимента

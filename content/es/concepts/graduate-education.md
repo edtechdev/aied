@@ -16,6 +16,8 @@ ai_assist:
     date: "2026-11-15"
     agent: hermes-agent
 contributors: [editor]
+connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
+connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -126,34 +128,3 @@ La educación de posgrado hereda los problemas sectoriales de integridad, [[asse
 - **«La IA puede sustituir al facilitador sin costo».** Las ganancias en opción múltiple fueron equivalentes en el aprendizaje basado en problemas dirigido por IA, pero el pensamiento crítico y el proceso grupal no, y solo el 15.8 % del profesorado encuestado había escrito alguna política de uso de IA.
 
 - **«La [[ai-literacy|alfabetización en IA]] de posgrado significa dominio de la herramienta».** El marco de posgrado separa la base cognitiva, las habilidades operativas, el pensamiento de orden superior, la reflexión metacognitiva y la responsabilidad ética.
-
-## Conceptos conectados
-
-- [[academic-integrity]] — autoría, declaración y mala conducta cuando el texto puede generarse
-- [[assessment-validity]] — qué puede reclamar legítimamente una nota, una defensa o una evaluación clínica
-- [[ai-literacy]] — la capacidad que se espera que los programas de posgrado certifiquen en sus egresados
-- [[cognitive-offloading]] — la delegación que sostiene el pensamiento frente a la que lo sustituye
-- [[evaluative-judgment]] — la capacidad que la supervisión debe construir y ahora debe evaluar
-- [[professional-training]] — la preparación clínica, jurídica y de gestión fuera del seminario
-- [[medical-education]] — la mayor fuente de ensayos de IA en el nivel de posgrado
-- [[business-education]] — cursos de MBA y másteres de gestión que aportan los experimentos más sólidos
-- [[career-development-and-readiness]] — la empleabilidad como proceso de desarrollo y no como colocación
-- [[oral-assessment]] — defensas, vivas y garantía oral como evidencia de capacidad individual
-
-## Artículos conectados
-
-- [[genai-medical-education-transformation-review-2026]] — 153 informes sobre títulos de medicina de la entrada a la práctica; 13 con seguimiento y ningún resultado a nivel de paciente
-- [[packard-thinking-partner-framework-adult-learners-2026]] — documentación socrática en métodos de investigación de posgrado; 96 % de finalización de puntos de control en seis semestres
-- [[issa-teamwork-framework-academic-integrity-2024]] — trabajo en equipo supervisado en una unidad de posgrado de negocios; las notas subieron de 27 a 31 sobre 40, sin recuento de mala conducta
-- [[genai-dependence-research-creativity-2026]] — 1,157 estudiantes de posgrado; la dependencia funcional se asocia con la creatividad mucho más que la existencial
-- [[giancotti-data-provenance-health-ai-curricula-2026]] — 36 programas estadounidenses de IA en salud; ética en el 80.6 %, procedencia de datos en el 22.2 %
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — la tutoría estructurada con IA ganó 6.63 de 55 puntos en un MBA en línea; voz y texto fueron equivalentes
-- [[assigned-ai-preclass-student-engagement-2026]] — 759 estudiantes de MBA; la participación subió alrededor del 31 % solo tras un segundo ensayo asignado
-- [[llm-grading-assistants-public-health-2026]] — exámenes de ensayo de máster calificados con kappa ponderado 0.718, con 0.625 de concordancia en una repetición a cinco días
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 estudios de educación superior que mapean patrones que sostienen y erosionan la agencia
-- [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 estudios; el profesorado y el alumnado coinciden en la dependencia excesiva y divergen en la integridad
-- [[morales-cevallos-ai-forensic-science-education-2026]] — 21 estudios, tres con evidencia educativa, ninguno en un aula de forense
-- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 estudiantes de máster; la preparación llegó a la autoeficacia investigadora a través del apoyo del supervisor (ruta β = 0.201)
-- [[guanilo-pareja-genai-doctoral-supervision-2026]] — revisión de 61 fuentes sobre supervisión doctoral; ética basada en tareas, declaración proporcional, gobernanza por hitos
-- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — seminario de un solo grupo; el aprendizaje autodirigido subió de 80.62 a 87.38 con ocho registros emparejados
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — los estudiantes de posgrado superaron a los de grado en ética y autonomía (d = 1.47); la frecuencia de uso no predijo la competencia

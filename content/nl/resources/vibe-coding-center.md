@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -44,7 +45,3 @@ Docenten en [[learning-design|onderwijsontwerpers]] in het basis-, voortgezet en
 ## Opmerkingen en kanttekeningen
 
 Het centrum is begeleiding, geen nalevingsproduct: de site doet geen conformiteitsclaim voor zijn eigen WCAG 2.2 AA-doel, beantwoordt 'maakt het gebruik van deze bestanden mijn site conform?' met nee, en zegt dat een technische beoordeling de autorisatie van de school of een juridische toets niet vervangt. De beveiligingsplank wijst naar axe-core, Gitleaks, ZAP en Playwright; dat zijn verwijzingen in plaats van meegeleverde software, en de invasieve ervan zijn bedoeld voor een wegwerpdoel of een uitdrukkelijk geautoriseerd doel. Lezen vereist geen account. Het herbouwen van de HTML-pagina's vereist Python en `markdown-it-py`, wat een bouwafhankelijkheid is en geen bezoekersafhankelijkheid. De repository is MIT-gelicenseerd, terwijl artwork van derden en de gelinkte projecten hun eigen voorwaarden houden, gedocumenteerd in `CREDITS.md`.
-
-## Gerelateerde concepten
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

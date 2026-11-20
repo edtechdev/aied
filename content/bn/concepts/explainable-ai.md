@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
+connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -76,7 +78,6 @@ XAI-ED কাঠামো ব্যাখ্যার প্রধান মা�
 
 ব্যাখ্যার গুণের একটি সমতা-মাত্রাও আছে: যে ব্যাখ্যা কারিগরিভাবে উপস্থিত কিন্তু নির্দিষ্ট কোনো অংশীজনের কাছে অপাঠ্য — বা যা একটি পূর্বাভাসের [[bias-mitigation|পক্ষপাতকে]] আড়াল করে — সে তার উদ্দেশ্যেই ব্যর্থ হয়। এজন্যই নকশা-প্রশ্নটি *গুণ ও সামঞ্জস্য*, এবং এজন্যই মানব-কেন্দ্রিক, অংশীজন-নির্দিষ্ট ব্যাখ্যা-নকশা ব্যাখ্যার প্রযুক্তিগত উৎপাদন থেকে অবিচ্ছেদ্য। কার্যকর XAI হলো প্রাপকের জ্ঞানীয় চাহিদার জন্য নকশা করা একটি যোগাযোগ-কর্ম, কেবল একটি প্রযুক্তিগত উপাদান নয়।
 
-
 ব্যাখ্যা সবসময় সমতাকারী নয়। ২৫০ সপ্তম-শ্রেণির শিক্ষার্থীর সঙ্গে একটি ২ × ২ ভিনিয়েট পরীক্ষায় একটি গণিত-স্কোরের লিখিত যুক্তি উভয় অবস্থাতেই গ্রহণযোগ্যতা ও অনুভূত ন্যায্যতা বাড়িয়েছে, কিন্তু [[teacher-role|শিক্ষক]] ও এআই-নির্মিত সিদ্ধান্তের মধ্যে ব্যবধান বন্ধ না করে প্রশস্ত করেছে ([[decision-making-agent-student-decision-acceptance-2026|Zhang প্রমুখ (2026)]])।
 
 উদ্ধৃতি নির্ভুলতার প্রমাণ হিসেবে নয়, বরং বিশ্বাসযোগ্যতার সংকেত হিসেবে আচরণ করে: একটি বিতর্ক-ইন্টারফেসে উদ্ধৃতি ও কর্তৃত্ব-সংকেত যুক্ত করলে এআইয়ের অবস্থানের পক্ষে সঠিক বিচার পরিত্যাগ 15.0% থেকে 31.8%-এ উঠেছে, এবং উদ্ধৃত কেসগুলো কখনও কখনও ভুল আরোপিত বা কাল্পনিক ছিল ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo প্রমুখ, 2026]])।
@@ -84,7 +85,6 @@ XAI-ED কাঠামো ব্যাখ্যার প্রধান মা�
 দুটি সতর্কতা এটিকে আরও তীক্ষ্ণ করে, যার দুটিকেই এই বিষয়ে উইকির সর্বশেষ অবদান কেন্দ্রীয় করে তোলে। প্রথমত, ব্যাখ্যা-যন্ত্র নিজেই নিরপেক্ষ নয়: LIME ও SHAP-এর মতো পশ্চাৎ-ঘটিত পদ্ধতি মডেলের প্রকৃত আচরণের প্রতি অবিশ্বস্ত হতে পারে, তাই কারিগরিভাবে উপস্থিত একটি ব্যাখ্যা তথ্য দেওয়ার বদলে বিভ্রান্ত করতে পারে ([[lund-socially-accountable-data-science-xai-2026|Lund প্রমুখ 2026]], Chuan প্রমুখ 2024 অবলম্বনে)। দ্বিতীয়ত, **ব্যাখ্যা জবাবদিহিতা নয়**। কোন বৈশিষ্ট্যগুলো একটি পূর্বাভাস চালিয়েছে তার বিবরণ প্রকাশ করে না সেই বৈশিষ্ট্যগুলো ব্যবহার করা উপযুক্ত ছিল কি না, প্রশিক্ষণ উপাত্ত প্রতিনিধিত্বমূলক ছিল কি না, বা ব্যবস্থার নকশা সুস্থ বিচারের প্রতিফলন ছিল কি না; ব্যাখ্যা স্বচ্ছতার চেহারা তৈরি করতে পারে অথচ যে কাঠামোগত অবস্থা একটি সিদ্ধান্ত তৈরি করেছে তা অক্ষত রাখে (Mittelstadt প্রমুখ 2019)। শিক্ষার জন্য এর অর্থ হলো যে প্রশ্নটি বারবার করতে হবে তা নয় — ব্যাখ্যা উৎপন্ন হয়েছিল কি না, বরং তা গ্রহণকারী ব্যক্তি — একজন শিক্ষার্থী, একজন শিক্ষক, একজন উপদেষ্টা — তা বুঝতে, তার ভিত্তিতে কাজ করতে বা তার পেছনের সিদ্ধান্তকে চ্যালেঞ্জ করতে পেরেছিলেন কি না। পাঠযোগ্যতার একই ব্যর্থতা [[automated-assessment|স্বয়ংক্রিয় মূল্যায়নের]] নিরাপত্তা দিকে দেখা যায়: [[humble-prompt-injection-ai-grading-red-team-2026|Humble-এর (2026) একটি এআই গ্রেডিং সরঞ্জামের রেড-টিম]] দেখেছে তা একটি প্রম্পট ইনজেকশন আটকানোর পর নীরবে চ্যাট নিষ্ক্রিয় করে দেয়, এবং — ঘোষণা করার পরেও যে এটি কখনও এমবেড করা নির্দেশনা অনুসরণ করবে না — একই ফাইলে আরও ছয়টি রানে তা অনুসরণ করে, ব্যবহারকারীর নির্ভরতার ভিত্তি হিসেবে কোনো নির্ভরযোগ্য সংকেত রেখে যায়নি।
 
 **নকশা-দ্বারা-ব্যাখ্যাযোগ্য** পশ্চাৎ-ঘটিত বিশ্বস্ততা সমস্যার একটি উত্তর। [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang ও Fang (2025)]] একটি ব্যাখ্যা-ডিকোডারকে সেই একই মিশ্র প্রতিনিধিত্ব ও পূর্বাভাসিত স্কোর দিয়ে প্যারামিটারাইজ করেন যা [[assessment|মূল্যায়ন]] নির্ধারণ করে, যাতে [[formative-assessment|গঠনমূলক]] প্রশ্নকরণে একটি নিম্ন স্কোর অপর্যাপ্ত অনুসন্ধানী প্রশ্নের নাম উল্লেখ করে একটি যুক্তি দেয়, এবং এর সঙ্গে পাঠ্যক্রম-মান ও বিষয়-নির্দিষ্ট রুব্রিক-পদক্ষেপের উপর দ্বৈত-লেন্স মনোযোগ জোড়া দেন। রুব্রিকের সঙ্গে মনোযোগের সামঞ্জস্য 78.0%-এ পৌঁছায়, যেখানে GPT-4 জিরো-শটে 41.7% এবং BERT-এ 32.1%; আর বিশ্বস্ততা যাচাই করা হয় রুব্রিক-সংকটপূর্ণ অংশের প্রতিফলিত-তথ্য অপসারণ এবং রুব্রিক-নোঙর চেকলিস্টে মানব রেটিংসের পাশাপাশি, যার ফলে ব্যাখ্যা-বিশ্বাসযোগ্যতা স্কোর 0.78 — BERT-base-এর তুলনায় 0.31 বৃদ্ধি। নিরীক্ষাটি আরও দেখায় কোথায় স্থাপত্য-দাবিটি পাতলা হয়: আবেগের সংকেতে মডেল 28.4% মনোযোগ-ভার বরাদ্দ করে, যেখানে বিশেষজ্ঞের 15.2% (সামঞ্জস্য 0.53), এবং একটি ব্যর্থতার ঘটনায় "frustrated" টোকেনে 28% বরাদ্দ হয়, যা লেখকেরা শিক্ষাবিজ্ঞানের বদলে আবেগে অতিসামঞ্জস্য হিসেবে পড়েন এবং উন্নতির ক্ষেত্র হিসেবে নাম দেন। সিদ্ধান্ত-পথে ব্যাখ্যা এম্বেড করা সেগুলোকে পশ্চাৎ-ঘটিত যুক্তির চেয়ে বেশি বিশ্বস্ত করে; সেগুলোকে সঠিক করে না।
-
 
 **একটি মডেল কী ব্যবহার করেছে বলে দাবি করে তা উপাত্তের মতোই পরিবার-নির্ভর।** একই কোহোর্টে সাতটি মডেল জুড়ে [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar প্রমুখ (2026)]] দেখেন প্রতীকী পদ্ধতিগুলো জ্ঞানীয় ও [[motivation|প্রেরণামূলক]] উপাদানে ঝুঁকে থাকে, উপ-প্রতীকী মডেল জ্ঞানীয় দিক, শিখিত জ্ঞান ও লিঙ্গে, আর উভয়ই মূলত অধিজ্ঞানিক উপাদান উপেক্ষা করে, অথচ নিউরাল-প্রতীকী মডেল আরও সমন্বিত একটি সেট ব্যবহার করে। একই শিক্ষার্থী ও একই সূচক কী গুরুত্বপূর্ণ ছিল তার ভিন্ন বিবরণ তৈরি করেছে, তাই [[learning-theories|শিখন তত্ত্বের]] সঙ্গে সামঞ্জস্য নির্ভুলতা নয়, আরোপণ সম্পর্কে একটি দাবি হয়ে দাঁড়ায়।
 
@@ -104,45 +104,3 @@ XAI-ED কাঠামো ব্যাখ্যার প্রধান মা�
 ## উদ্ধৃতি
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
-
-## সংযুক্ত ধারণা
-- [[trust-calibration]]
-- [[trust]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[regulation]]
-- [[recommender-systems-and-learning-paths]]
-
-## সংযুক্ত নিবন্ধ
-- [[lund-socially-accountable-data-science-xai-2026]] — XAI-কে জবাবদিহিতা-চর্চা হিসেবে শেখানোর চার-স্তম্ভ কাঠামো (উত্তরযোগ্যতা, দায়িত্ব, প্রয়োগ, প্রতিফলনশীলতা) (Lund প্রমুখ 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — শিক্ষার্থী-কেন্দ্রিক আইটিএস-এর মূল্য-সংবেদনশীল নকশা (সহযোগী বনাম কাঁচা ব্যাখ্যা)
-- [[xai-education-framework]] — XAI-ED: শিক্ষায় ব্যাখ্যাযোগ্য এআইয়ের ভিত্তি-কাঠামো (Khosravi প্রমুখ 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — ক্ষেত্র-নির্দিষ্ট ব্যাখ্যা শিক্ষকদের আস্থা ও গ্রহণযোগ্যতা গড়ে (Feldman-Maggor প্রমুখ 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — স্বচ্ছ এআই-সহায়ক মূল্যায়ন নিয়ে শিক্ষার্থী-দৃষ্টিকোণ (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — ব্যাখ্যাযোগ্য নলেজ ট্রেসিং
-- [[explainable-probabilistic-kt]] — সম্ভাব্যতাভিত্তিক এমবেডিং দিয়ে ব্যাখ্যাযোগ্য নলেজ ট্রেসিং
-- [[neural-symbolic-knowledge-tracing]] — নিউরাল-প্রতীকী নলেজ ট্রেসিং
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — শিখন বিশ্লেষণের জন্য কালো-বাক্স মডেলকে স্ব-ব্যাখ্যাকারী এলএম-এ পাতন
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — গোপনীয়তা-সংরক্ষণকারী ঝুঁকি মডেলিংয়ের জন্য ফেডারেটেড ও ব্যাখ্যাযোগ্য শিখন বিশ্লেষণ
-- [[sc2r-counterfactual-recourse-educational-2026]] — শিক্ষামূলক সিদ্ধান্ত-সহায়তার জন্য অর্থ-সীমাবদ্ধ প্রতিফলিত-তথ্য প্রতিকার
-- [[fair-explainable-edu-recommendations]] — ন্যায্য ও ব্যাখ্যাযোগ্য শিক্ষামূলক সুপারিশ
-- [[multimodal-affective-its-presentation]] — বহু-ধরনের আবেগভিত্তিক প্রতিক্রিয়ার জন্য ব্যাখ্যাযোগ্য বদ্ধ-চক্র আইটিএস
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — উচ্চশিক্ষায় ChatGPT গ্রহণের ব্যাখ্যা
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — নকশা-দ্বারা-ব্যাখ্যাযোগ্য এলএলএম কাঠামো: স্বয়ংক্রিয় শিক্ষক-মূল্যায়নের জন্য দ্বৈত-লেন্স মনোযোগ ও স্কোর-প্যারামিটারাইজড ব্যাখ্যা (Li প্রমুখ 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — এআই-মধ্যস্থ গ্রেডিংয়ে প্রম্পট ইনজেকশন, যেখানে সনাক্তকরণ ব্যবহারকারীকে কখনও জানানো হয়নি (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — নতুন এআই-সহায়ক শিক্ষামূলক প্রশ্নের শিক্ষাবিজ্ঞানিক মূল্যায়নের জন্য পূর্ব-প্রশিক্ষিত মডেলের মূল্যায়ন
-
-- [[decision-making-agent-student-decision-acceptance-2026]] — শিক্ষক বনাম এআই-নির্মিত গ্রেডিং সিদ্ধান্ত: লিখিত যুক্তি ন্যায্যতার ব্যবধান প্রশস্ত করেছে
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — উদ্ধৃতি ও কর্তৃত্ব-সংকেত ভুল আউটপুটের প্রতি বশ্যতা বাড়িয়েছে, কিছু তথ্যসূত্র ভুল আরোপিত বা কাল্পনিক
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - একই কোহোর্টে প্রতীকী, উপ-প্রতীকী ও নিউরাল-প্রতীকী মডেল তাদের পূর্বাভাস ভিন্ন উপাদানে আরোপ করেছে

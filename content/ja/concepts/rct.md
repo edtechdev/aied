@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -65,24 +67,3 @@ ai_assist:
 - **「無作為化は、そのツールが何をするかについての妥当な推定を保証する。」** 無作為化は交絡変数を均衡させますが、誰かがその処置を使ったことは保証しません。定着率の低い群単位の無作為化試験が推定するのは、ツールを**提供することの効果**であり、intent-to-treat と treatment-on-treated は異なる問いに答えます。
 - **「大きな試験は常に優れたデザインである。」** 従来型の大規模試験は、**研究の途中で実質的に変化するチューターのプラットフォームには追いつけない**と論じる研究があり、代わりに、システムが進化しても妥当であり続ける教員主導のデザインを用います。動く標的の試験は、十分な検出力を持ちながら、もはや存在しないシステムを測っていることがあります。
 - **「RCT と観察による証拠は代替可能である。」** **1,174 人の参加者**による RCT は、GenAI が**教育に基づく生産性格差のおよそ 4 分の 3 を埋めた**ことを見出しました。特定の期間についての精密な因果的主張です。観察は仕組みと採用を説明しますが、その推定を担うことはできず、RCT はその理由を説明できません。
-
-## 関連する概念
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-support-and-success]] — 最も強力な学生支援の証拠の背後にあるデザイン
-
-## 関連する記事
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — 108 校の小学校にわたり、計画時間は対照群の 0.76 に下がった。ツール利用は 7% の投与量
-
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — セッションの終わりではなく、遅延の後に測られた成果

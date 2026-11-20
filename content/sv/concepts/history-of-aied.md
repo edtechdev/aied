@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -97,29 +99,3 @@ Ankomsten av [[generative-ai|generativ AI]] — en bred familj som omfattar [[ll
 
 - Använd de historiska korpusarna som baslinje i stället för att behandla nuet som den enda tillgängliga jämförelsen. AIED-proceedings för 1985, 1993, 2021 och 2024 samt IJAIED för 2004, 2014 och 2021 är ett färdigt longitudinellt urval av fältets egna påståenden.
 - Citera härstamning när du hävdar nymodighet. Ett påstående att ett system "individualiserar lärande" eller "modellerar eleven" är bara nytt i förhållande till en specifik tidigare tradition, och traditionen är dokumenterad.
-
-## Anslutna begrepp
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Anslutna artiklar
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Människocentrerat AI-stött lärande (engagerar Andersons arv)
-- [[cognitive-commons-ai-expertise-regeneration]] — Kognitiva allmänningar och AI-expertis (historisk inramning)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Lärande genom undervisning med LLM:er (Paperts konstruktionistiska arv)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Femtio år av ämnen i Computers & Education: AI-förekomsten vände uppåt efter 2018, fyra år före ChatGPT

@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -119,7 +121,6 @@ ai_assist:
 
 **الشراء يحدّد بيئة البيانات قبل أن يُقرَّر أي بيداغوجيا.** يعامل [[pandey-davies-he-governance-administrative-ai-2026|Pandey and Davies (2026)]] التبعية للمنصّة كمخاطرة حوكمة لا كبند كلفة، لأن العقد يحدّد [[privacy|سيادة البيانات]] وحقوق التدقيق وشروط الخروج. ويطرحان ذلك كقضية مفاهيمية من مراجعة تفسيرية لا من دليل مؤسسي.
 
-
 **القيادة العليا للذكاء الاصطناعي نادرة مقارنةً بالطموح الاستراتيجي.** فقد وجدت مراجعة نطاقية لـ19 مصدرًا أن 7% فقط من المؤسسات أنشأت مناصب قيادية عليا للذكاء الاصطناعي مع أن 49% عالجت الذكاء الاصطناعي كأولوية استراتيجية، ومع أن معظم الدراسات المشمولة كانت مفاهيمية أو مقطعية، فلا يمكن تأسيس أي أثر سببي للحوكمة الاستباقية ([[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]]).
 
 والاختبار العملي الذي يفصلهما: فالسياسة يمكن قراءتها على الورق، أما الحوكمة فتُلاحَظ فيما إذا كانت القاعدة تُنفَّذ وتُفرَض وتُكيَّف. ولهذا يمتدّ [[governance|الحوكمة]] ليشمل [[regulation|التنظيم]] والسياسة داخل المؤسسات، ولهذا تعامل قاعدة المعارف هذه اختيارات صيغة التقويم ([[summative-assessment|التقويم التلخيصي]]) كقرارات *سياسية* لا تصبح فعّالة إلا عبر بنى *حوكمة* مثل مجالس المراجعة وأطر التصريح وطرق التظلّم.
@@ -137,70 +138,8 @@ ai_assist:
 
 تُشكّل الجهات المانحة طبقة سياسة خاصة بها: فمن 46 جهة لديها إرشاد للذكاء الاصطناعي، ألحقت 12 منها قواعد بالتمويل تحديدًا، ولم يحمل أي من أدوات التمويل هذه الأحكام الحوكمية التي نصّت عليها سياساتها العامة ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
-
 ## المفاهيم الخاطئة الشائعة
 
 - **«للجامعات سياسة ذكاء اصطناعي حقيقية.»** **الشكل القانوني أندر من اللغة القانونية.** في **مراجعة نطاقية لـ160 وثيقة**، **حملت 2.5% من الأدوات قوّة قانونية بينما كانت 57.5% إرشادات أو حزم أدوات**. فنحو ربع مئة وثيقة من حوكمة الذكاء الاصطناعي إرشاد غير مُلزِم.
 - **«الحذر المؤسسي يعكس الأدلة.»** يُنسب الحذر **إلى ضغط الوقت لا إلى الأدلة**: فمسح جمعية محامي أمريكا لعام 2024 استقبل ردودًا من نحو **15% فقط من المدارس المعتمدة**، فالإجماع الحذر يقوم على عيّنة غير تمثيلية.
 - **«يمكن رسم تغطية السياسة من مسح تمثيلي.»** جُمعت سياسات الذكاء الاصطناعي وإرشاداته من **كل برامج CAHIIM المعتمدة الـ48** في مجال واحد — إحصاء كامل لنطاق ضيّق، وهو أكثر إفادة عن ذلك النطاق من السياسة عمومًا.
-
-## مفاهيم مرتبطة
-
-- [[pedagogical-partnerships]] — الشراكات التربوية
-- [[regulation]] — التنظيم
-- [[governance]] — الحوكمة
-- [[educational-development]] — التطوير التعليمي
-- [[equity-in-ai-education]] — الإنصاف في تعليم الذكاء الاصطناعي
-- [[higher-ed]] — التعليم العالي
-- [[k-12]] — مرحلة K-12
-- [[academic-integrity]] — النزاهة الأكاديمية
-- [[ethics]] — الأخلاقيات
-- [[teacher-ai-competency]] — كفاءة المعلّم في الذكاء الاصطناعي
-- [[framing-ai-use-for-students]] — تأطير استخدام الذكاء الاصطناعي للطلاب
-- [[summative-assessment]] — التقويم التلخيصي
-- [[chemistry-education]] — تعليم الكيمياء والذكاء الاصطناعي: المختبرات والتقويم التكويني وحدود النماذج اللغوية الكبيرة وفلسفة التجريب
-- [[biology-education]] — تعليم الأحياء والذكاء الاصطناعي: مساعدو المختبر التدريسيون، وثقافة الذكاء الاصطناعي في الأحياء، والتفكير النقدي، والأدوات المتخصّصة
-- [[stakeholders]] — المظلة: الأشخاص والجماهير في تعليم الذكاء الاصطناعي (المتعلّمون، والمعلّمون، والمصمّمون، والمديرون، وصنّاع السياسات)
-- [[student-support-and-success]] — السياق السياسي لنشر الدعم المؤسسي
-
-## مقالات مرتبطة
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — تتشارك نصوص اليونسكو ومنظمة التعاون مفردات حوكمة دون تعريفات تشغيلية؛ وثلاث وعشرون ولاية تتقارب دون واحد
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — دراسة سويدية باستبيان ومجموعات تركيز ترى أن أخلاقيات الشراكة، لا إطار الغش، ينبغي أن يوجّه قرارات الذكاء الاصطناعي التوليدي المؤسسية
-- [[generative-ai-governance-education-scoping-review-2026]] — حوكمة الذكاء الاصطناعي التوليدي في التعليم: مراجعة نطاقية للمبادئ والآليات والمخاطر (Elmahjub وآخرون 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — قواعد على مستوى الوحدة لا يستطيع الطلاب التوفيق بينها
-- [[tench-ai-policy-isnt-a-playbook-2026]] — مسح وطني تمثيلي للمعلّمين والمديرين الأمريكيين حول تغطية سياسة الذكاء الاصطناعي والوكالية وخمس لعب صفية (Tench, Weinstein & James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — عندما تروّج الجامعات للذكاء الاصطناعي التوليدي بينما تقصّر الممارسة: تقييمات الطلاب واندماج العملية الإبداعية في تعليم الفنون
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — سياسات الذكاء الاصطناعي في الفصل الدراسي لدى معلّمين قبل الخدمة في اللغة الإنجليزية: ما أذنوا به وحدّوه وحظروه (Nash & Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — إطار بمشاركة الإنسان للتصحيح المدعوم بالذكاء الاصطناعي في تقويم الكتابة واسع النطاق
-- [[mccorkle-aligned-genai-course-policy-2025]] — استنباط الاستخدامات المسموحة وغير المسموحة للذكاء الاصطناعي التوليدي مهمّةً بمهمّة انطلاقًا مما يُقوَّم (McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — كيف ينظّم المعلّمون الذكاء الاصطناعي عبر 31,000 منهج مقرّر (Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — إحلال مهامّ الذكاء الاصطناعي كآلية لتضخّم الدرجات (Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — دلفي عالمي حول حوكمة الذكاء الاصطناعي التوليدي في التعليم العالي
-- [[qian-governing-genai-higher-ed-policy-2026]] — الإرشاد بدل السياسة: قواعد المناهج التي يضعها المعلّمون ونظام دعم من أربع وحدات في 50 جامعة أمريكية مبتكرة (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — مقارنة بخمسة عوامل لسياسات الذكاء الاصطناعي التوليدي في كليات الحقوق في قطاع يضع السياسات دون قاعدة أدلّة (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — النسخ الآلي ليس توليدًا: قواعد ذكاء اصطناعي مفرطة الشمول وتحويل الصيغ وتسوية الإعاقة (Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — الحوكمة الاستباقية للذكاء الاصطناعي في التعليم العالي (مراجعة نطاقية)
-- [[institutional-ai-policy-health-informatics-2026]] — وثائق سياسة الذكاء الاصطناعي في كل برامج الماجستير الـ48 المعتمدة في معلوماتية الصحة: إرشادات في معظمها، متمركزة حول النزاهة الأكاديمية (Eldredge et al. 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — الرعاية المعرفية للتقويم المُتوسَّط بالذكاء الاصطناعي (تدقيق سياسات في 30 جامعة)
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — العجز في السياسات في أبحاث الذكاء الاصطناعي × التعلّم الاجتماعي العاطفي
-- [[agarwal-ethical-values-norms-aied-2026]] — القيم والمعايير الأخلاقية للذكاء الاصطناعي في التعليم
-- [[perrotta-zero-shot-governance-2026]] — الحوكمة الصفرية-النماذج: الذكاء الاصطناعي متعدد الأغراض في السياسة (Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — تحديد حدود دعوى التعلّم في تجربة تدريس السلفادور بالذكاء الاصطناعي (Restrepo Morales et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 عضو هيئة تدريس أمريكي: 87% يكتبون قواعد مهامّهم الخاصة مقابل إرشادات مؤسسية وقسمية هزيلة (Watson & Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — حدّ الدعم مقابل الاستبدال القائم على الغاية مع إفصاح مُعايَر وسلالم قرار (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — حقن المطالبات في التصحيح المُتوسَّط بالذكاء الاصطناعي: تغيّرت الدرجات دون اكتشاف، والاستجابة على مستوى السياسة (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — 130 مؤشّر حوكمة لتوثيق التقويم، والضغط الخارجي الذي يحتاجه الإصلاح (Coates, Croucher & Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — فئة السياسة مقابل تصميم المهمّة: ما استخدمه الطلاب من الذكاء الاصطناعي التوليدي في ثلاث تقويمات فيزيائية (Quince & Faulconer 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — مختبر أثر التقنية التعليمية في إنجلترا كحوكمة استباقية: تجارب تُنتج أدلة وعديّة (Williamson وآخرون، 2026)
-- [[genai-pisa-decline-countries-2026]] — ارتبط الاستخدام الأعلى للذكاء الاصطناعي التوليدي على مستوى البلاد بتراجعات أكبر في PISA 2022-2025، وهو ارتباط اختفى بعد ضبط الأداء السابق (Guerra & Aslanov 2026)
-
-- [[pandey-davies-he-governance-administrative-ai-2026]] — الشراء يحدّد بيئة البيانات قبل البيداغوجيا
-- [[chan-ai-policy-gap-2026]] — 56 وثيقة من 46 جهة مانحة: طبقة سياسة للجهات المانحة للبحث فيها 12 أداة خاصة بالتمويل (Chan 2026)
-

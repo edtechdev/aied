@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -70,35 +72,3 @@ ai_assist:
 - **«Студенты не отличат ИИ от человека-ассистента».** Исследование виртуального ассистента лабораторных работ обнаружило, что **люди-ассистенты точнее и эффективнее ChatGPT**, однако студенты **предпочитали ответ ИИ в 40% случаев** и могли **распознать вывод ИИ лишь в 45% случаев**. Обнаружение было почти подбрасыванием монеты, а предпочтение склонялось к менее точному источнику, поэтому данные удовлетворённости здесь не могут заменить качество.
 - **«Предпочтение указывает на качество».** То же исследование прямо их разделяет: предпочитаемый вывод был худшим. Любая оценка биологического ИИ-инструмента, сообщающая удовлетворённость студентов без меры точности, сообщает не ту величину.
 - **«ИИ-грамотность нужно преподавать как отдельный предмет».** Встраивание концепций машинного обучения **в школьный курс биологии** показало, что биологический контекст **поддерживает** изучение ИИ, — доказательство в пользу встраивания ИИ-грамотности в учебный план, а не прикручивания отдельного модуля. Дисциплина дала концепциям, к чему прикрепиться.
-
-## Связанные концепции
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## Связанные статьи
-- [[llm-open-ended-questions-biology-statistics-2026]] — Оценка работы больших языковых моделей на открытых вопросах: способности отвечать и оценивать
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT как виртуальный ассистент-преподаватель в лаборатории
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Обзор инструментов ИИ в биологическом образовании
-- [[critical-thinking-biological-sciences-ai-2025]] — Критическое мышление в биологических науках и ИИ
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT в курсах биологии/математики на основе вызовов
-- [[zha-ai-literacy-biology-case-study]] — Образование по ИИ-грамотности на занятии по биологии
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence

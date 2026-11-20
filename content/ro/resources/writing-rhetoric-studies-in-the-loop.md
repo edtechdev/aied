@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, writing-education, generative-ai, human-in-the-loop-ai, ai-literacy, bias-mitigation, feedback, academic-integrity]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -39,6 +40,3 @@ Introducerea colecției cadruiește promptul ca gen retoric cu miză în alinier
 ## Ce trebuie să știi înainte de a o folosi
 
 Toată cartea este gratuită în PDF și ePub, iar capitolele individuale sunt publicate separat, cu DOI-uri proprii. Publicarea este din iulie 2026, la WAC Clearinghouse, în seria WAC Repository, 402 pagini, editată de Anuj Gupta și Brian Gogan, cu DOI-ul colecției 10.37514/TWR-B.2026.2999. Licența este Creative Commons BY-NC-ND 4.0, așa că cititorii pot vizualiza, tipări copii personale și linkui cartea, dar nu o pot reproduce pe alt site sau adapta fără permisiune; un curs care vrea formulări modificate ale prompturilor ar trebui să scrie propria versiune, nu să le retipărească. Promptul fiecărui capitol a fost testat pe platforme, deși cartea nu raportează o comparație controlată a rezultatelor, așa că tratează prompturile ca design expert, nu ca intervenție validată.
-
-## Concepte conexe
-[[prompt-engineering]], [[writing-education]], [[generative-ai]], [[human-in-the-loop-ai]], [[ai-literacy]], [[bias-mitigation]], [[feedback]], [[academic-integrity]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
+connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -67,35 +69,3 @@ AIに関する生物学教育研究は、一つの緊張関係を軸に集まっ
 - **「学生はAIと人間の教育助手を見分けられない。」** バーチャルラボ教育助手の研究では、**人間のTAの方がChatGPTより正確で効果的**であったにもかかわらず、学生は**40%の割合でAIの回答を好み**、**AIの出力を検出できたのは45%のときだけ**でした。検出はほぼコイントスであり、選好は正確さの劣る側へ向かいました。したがって、満足度のデータをここで質の代わりにすることはできません。
 - **「選好は質を示す。」** 同じ研究は両者を直接に切り分けています。好まれた出力の方が、劣る出力でした。正確さの測定を伴わずに学生の満足度だけを報告する生物学AIツールの評価は、間違った量を報告しているのです。
 - **「AIリテラシーは独立した教科として教えなければならない。」** 機械学習の概念を**高校の生物学コースに埋め込む**と、生物学の文脈がAI学習を**支える**ことが見出されました。これは、独立した単元を付け足すのではなく、AIリテラシーをカリキュラムに埋め込むことの証拠です。学問領域が、概念のよりどころを与えたのです。
-
-## 関連概念
-
-- [[stem-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[feedback]]
-- [[assessment]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-
-## 関連記事
-- [[llm-open-ended-questions-biology-statistics-2026]] — 開答式問題における大規模言語モデルの性能評価：解答能力と採点能力
-- [[biology-degree-integrity-genai-cheating-2026]] — 学生は生物学の学位を不正の道で取得できるのか。生成的AIの時代における生物学コースの成績の学術的不誠実への脆弱性に関する事例研究
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — バーチャルラボ教育助手としてのChatGPT
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — 生物学教育におけるAIツールの概観
-- [[critical-thinking-biological-sciences-ai-2025]] — 生物科学とAIにおける批判的思考
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — チャレンジベースの生物学/数学コースにおけるChatGPT
-- [[zha-ai-literacy-biology-case-study]] — 生物学の授業におけるAIリテラシー教育
-- [[genai-socratic-tutor-biology-argumentation-2026]] — 生成的AIによる見込み生物教員のPISA準拠の論証スキルの向上

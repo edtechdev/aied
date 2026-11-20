@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -37,7 +39,6 @@ ai_assist:
 Eğitim deneyimlerinin, [[prior-knowledge|önceki bilgiler]], öğrenme hızı, tercihler ve duygusal durumlar dâhil olmak üzere bireysel öğrenen profillerine uyarlanması. YZ, kişiselleştirmeyi ölçekte mümkün kılar; ancak *sistem kişiselleştirmesi* ile *öğrenen tarafından algılanan kişiselleştirme* arasındaki makas, çözülmeyi bekleyen bir ölçüm sorunu olmaya devam etmektedir.
 
 - **[[mishra-control-vs-agency-history-2025|Mishra ve ark.]]** kökleri tarihe uzanan iki kişiselleştirme biçimini ayırır — çeşitli yollarla ulaşılan tek tip sonuçlar (Skinner’ın [[teacher-role|öğretim]] makinelerinden Khan Academy tarzı ustalık temelli özel derslere kadar) vs. öğrenenin seçtiği çeşitli sonuçlar — ve bunların alanın kontrol-karar-özerklik gerilimine nasıl karşılık geldiğini gösterir.
-
 
 - **Kişiselleştirme, materyali bulmak yerine üretmekle de karşılanabilir.** DagFlow-AI, bir öğrenenin belirttiği ilgiye, ders öğrenme hedeflerine ve amaçlanan beceri düzeyine uygun sentetik istatistik veri kümeleri üretir; yazarlar bunun gerçek veri kümelerinin nadiren karşıladığı üç yönlü bir eşleşme olduğunu savunmaktadır ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur ve ark., 2026]]). Sınır tasarıma gömülüdür: sentetik veri veri toplamayı, ölçmeyi veya çalışma tasarımını öğretemez, dolayısıyla araç gerçek verinin yerine değil, onu tamamlayıcı niteliktedir.
 
@@ -149,44 +150,3 @@ GRADE kesinliği çok düşük olarak derecelendirilmiştir. Dürüst okuma, nok
 
 - Ölçtüğünüz yapılarda kişiselleştirmeyi uyarlamayla karıştırmayı bırakın ve etkiyi hangi mekanizmanın ürettiğini açıkça belirtin.
 - Normalleştirilmiş öğrenme kazancını birincil sonuç olarak bildirin; literatürdeki seyrekliği, devralınacak bir gelenek değil, kapatılacak bir açıktır.
-
-## Bağlı kavramlar
-
-- [[adaptive-learning]] — Öğrenene gerçek zamanlı olarak içerik, hız ve zorluk uyarlayan sistemler
-- [[intelligent-tutoring]] — Öğreneni modelleyen ve bireyselleştirilmiş öğretim sunan özel ders sistemleri
-- [[student-modeling]] — Uyarlamayı yönlendiren öğrenen bilgisi, becerileri ve durumlarının gösterimi
-- [[knowledge-tracing]] — Zaman içindeki performanstan bilgi bileşenlerinin ustalığının çıkarımı
-- [[cognitive-diagnosis]] — Yanıtlardan öğrenenin gizli bilgi ve niteliklerinin teşhisi
-- [[scaffolding]] — Bireysel öğrenen ihtiyaçlarına göre ayarlanan destek ve sönümleme
-- [[student-experience]] — Öğrenenin kişiselleştirmeyi yaşayışı
-- [[learning-analytics]] — Uyarlamayı besleyen, veri güdümlü ölçümüyle öğrenme analitiği
-- [[formative-assessment]] — Sırada neyin uyarlanacağını işaret eden süregelen değerlendirme
-- [[summative-assessment]] — Nihai değerlendirme; karşılaştırılabilirliğini kişiselleştirme zorlaştırır
-- [[generative-ai]] — YZ tabanlı sohbet türü kişiselleştirme
-- [[edtech-platform]] — Kişiselleştirilmiş öğrenmeyi ölçekte sunan platformlar
-- [[higher-ed]] — Kişiselleştirme için yükseköğretim bağlamı
-- [[online-teaching-and-learning]] — Çevrimiçi Öğretim ve Öğrenme
-- [[recommender-systems-and-learning-paths]]
-
-## Bağlı makaleler
-
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Tohum metninden sektöre özgü ders videosu yeniden üretimi: kitle düzeyinde uyarlama, alan uzmanları tarafından değerlendirildi (Puech ve ark. 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Bir YZ öğretmen asistanının istek metni mühendisliğiyle mikro kişiselleştirilmesi (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[mishra-control-vs-agency-history-2025]] — İki kişiselleştirme biçimini ayırır (tek tip vs. çeşitli sonuçlar)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Kişiselleştirilmiş öğrenmeyi yeniden tanımlamak: sistematik derleme
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Özel ders için aracı-yerlilikçi kişiselleştirme altyapısı
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Kişiselleştirilmiş e-öğrenme için ontoloji temelli katmanlı melez bilgi modeli
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — İlkokul kesirleri için kişiselleştirilmiş uyarlamalı öğrenme
-- [[ai-coaching-rl-skill-development]] — Beceri gelişimi için pekiştirmeli öğrenmeye dayalı koçluk
-- [[personalized-ai-generated-videos-preference-2026]] — Öğrenciler kişiselleştirilmemiş insan kayıtlı videolara göre kişiselleştirilmiş YZ videolarını tercih eder (Tomlinson ve ark. 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Kişiselleştirilmiş öğrenme yolları için Bayesçi bilişsel teşhis
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT destekli biçimlendirici değerlendirmede öğretim elemanı ve YZ rolleri
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: kişiselleştirilmiş otomatik geri bildirimde önyargı
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Sistematik derleme: uyarlamalı yollar ve öneri sistemleri, yükseköğretimde önde gelen bir YZ bütünleştirme kullanım alanıdır
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — Kişiselleştirme paradoksu: algılanan uyarlamalı kişiselleştirme, YZ okuryazarlığıyla tamponlanan akademik duygular aracılığıyla daha düşük öz-düzenlemeli öğrenmeyle ilişkilidir (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: YZ planlayıcıları %90,9 geçerliliğe ulaşır, ancak belirtilen bir öğrenen hedefine yolları kişiselleştirirken hiçbir model %44,7 uyarlanabilirliği aşamaz (Liu ve ark. 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Dört çalışma, büyük bir havuzlanmış etki ve çok düşük kesinlik

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
+connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -64,50 +66,8 @@ LLM pia zinaonyesha upendeleo wa kukubaliana: katika mifano 11, majibu ya AI yal
 
 Ushahidi wa uwekaji kodi wa NER unaonyesha ubora unaotegemea kazi badala ya mfano mmoja bora. Kwenye kipimo cha tokeni 600 cha huluki zilizotajwa kwa makubaliano ya binadamu, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] waligundua GPT-5.5 ikiongoza uwekaji kodi wa aina saba wa safu 41 za huluki za dhahabu (usahihi 0.805, κ = .726) dhidi ya spaCy (0.634, κ = .488), wakati spaCy ilishinda F1 ya utambuzi wa jozi 0.734 dhidi ya 0.654 ya GPT-5.5 — chaguo la mfano hufuata kazi ya uchanganuzi ya chini, si bora wa jumla.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Uwezo mbichi wa mfano huamua jinsi unavyoweza kutambua makosa vizuri."** **Uwekaji wa msingi** ndio unaoamua: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora na MacLellan (2025)]] walionyesha kwamba kuipatia GPT-4 kiolesura cha mwalimu **kulibadilisha kwa kiasi kikubwa** utambuzi wake wa makosa. Kile mfano unachopewa kuhusu muktadha wa mwanafunzi hufanya kazi zaidi kuliko ni mfano upi.
 - **"Mfano wowote wa mbele hufanya kama [[pedagogical-agent|mshirika wa kujifunza]] kwa njia ile ile."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash na Connell Pensky (2025)]] walisoma **familia tatu za mifano ya mbele**, yaani ChatGPT, Gemini na Claude, katika ulinganisho wa darasani, hasa kwa sababu familia hizo hazibadilishani kama washirika.
 - **"Mifano bora inamaanisha [[scaffolding|ngazi chache za msaada]] zinazohitajika."** GPT-4 **iliyopewa ngazi za msaada kwa rubriki sahihi kimaana, iliyoboreshwa kwa kurudiwa kwa ushirikiano** iliweza kukaribia [[evaluative-judgment|hukumu ya tathmini]] ya binadamu katika [[design-based-research|utafiti unaotegemea ubuni]]. Ukaribu ulitoka kwa rubriki iliyoboreshwa kwa marudio, si kwa mfano peke yake.
-
-## Dhana Zilizounganishwa
-
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[ai-literacy]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[llm-training-and-fine-tuning]]
-- [[learning-by-teaching]]
-- [[ai-technologies]] — Kiolezo: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, mawakala)
-
-## Makala Zilizounganishwa
-- [[assessing-quality-ai-generated-exams-field-2025]] — Kutathmini ubora wa mitihani iliyozalishwa na AI: utafiti wa kiwango kikubwa wa uwanja
-- [[educational-llm-alignment]]
-- [[cstutorbench-slm-tutors]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-item-difficulty-prediction]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Je, AI inaweza kutoa msaada unaofaa kwa wasifu tofauti za wanafunzi? Tathmini ya kiwango kikubwa
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM kama mawakala wa ubunifu wa kielimu unaokamiliana
-- [[razavi-powers-item-difficulty-llm-2026]] — Kukadiria ugumu wa kipengele kwa kutumia LLM na ML ya miti
-- [[auto-marking-short-answer-science-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Matumizi ya Wanafunzi ya LLM na Mipaka ya Ugumu wa Maswali Uliyozalishwa na AI katika Kozi za Sayansi ya Data
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Mpango wa Madai kwa Uwekaji Kodi Unaoweza Kukaguliwa wa Mazungumzo ya Kielimu
-
-- [[ai-personal-coach-review-benefits-risks-2026]] — Kubembeleza katika LLM 11: AI ilikubaliana na watumiaji 49% zaidi ya binadamu, ikiongeza uaminifu na matumizi ya kuendelea

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
@@ -42,10 +43,3 @@ Lideri din cabinet, prorectori și CIO care decid ce sprijină; responsabilii de
 ## Note și precauții
 
 Cadrul și site-ul sunt licențiate **CC BY-NC-SA 4.0**, deci adaptarea este permisă pentru uz necomercial, cu atribuire și partajare sub aceeași licență; site-ul oferă propria formulă de atribuire sugerată. Alinierea sa la OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA și HIPAA este comparația editorului și trebuie citită ca atare. Site-urile însoțitoare sunt proiecte separate, câteva ale aceluiași autor, și merită cunoscute ca ansamblu: [Campus AI Exchange](https://www.campusaiexchange.com/) este hubul, care ține [hărți interactive](https://www.campusaiexchange.com/ai-policies-guidelines-map) ale politicilor instituționale de IA și ale îndrumărilor pentru clasă, [autoevaluarea guvernanței IA](https://www.campusaiexchange.com/ai-governance-assessment), hărți ale guvernanței datelor și ale pozițiilor privind IA, și o bibliotecă de resurse. În jurul lui stau [campusaigovernance.com](https://campusaigovernance.com/) (nouă domenii de guvernanță IA), [campusairisks.com](https://campusairisks.com/) (cadrul NIST de management al riscului IA aplicat acelor domenii), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), un [șablon de plan de adoptare a IA](https://unit-ai-adoption-plan.netlify.app/) la nivel de unitate și un briefing despre [IA agentică pentru executivi](https://campusaiframework.com/sites). Busola strategică circulă și ca document Google partajat, care necesită un cont Google pentru a fi deschis. La intrare apare o scurtă întrebare opțională de onboarding despre rol și instituție; e-mailul este opțional, iar tot site-ul poate fi citit fără el.
-
-## Concepte conexe
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

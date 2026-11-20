@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -98,39 +100,3 @@ PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適�
 - **「助けを差し控えることは、学習者を苛立たせ、動機づけを損なう。」** 三群の[[rct|RCT]]では、ヒントを差し控えるチューターが**苛立ちの軽減において制約のない ChatGPT と同等で、動機づけも同等**でした。代償が現れたのは**選好においてだけ**です。学習者はそれをさほど楽しみませんでしたが、苦しみもしませんでした。つまり選好のデータは、機能した設計を却下していたでしょう。
 - **「苛立ちが増えるほど、学習も増える。」** 段階的にエスカレートするチューターは、**依頼に応じて答えるチューターよりも 0.42 尺度ポイント苛立たしく（p < .001）、最も苛立たしい群よりは 0.29 低い**ものでした。生産的な範囲は最大値ではなく中間であり、「望ましい困難」は課題を無期限に難しくする許しではありません。
 - **「生産的失敗とは、教師が助けるべきでないということである。」** この設計は*答え*を差し控えながら、構造とエスカレーションを供給します。ヒントを差し控えることと支援を差し控えることは異なる介入であり、ここにエビデンスがあるのは前者だけです。
-
-## 関連概念
-
-- [[pedagogical-patterns]] — 教授前の試みを、薄い証拠基盤を持つ完全な連なりとして捉えるもの
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-
-- [[case-based-learning]] — 最初の試みのための共有された問題空間としてのケース
-
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## 関連記事
-
-- [[kim-ai-productive-failure-adult-2026]] — 生産的失敗に基づく学習を支援するAIシステムの設計
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗に向けたLLMの教育的ステアリング
-- [[rhaimi-productivemath-2025]] — ProductiveMath：PFの問題設計を支援するAI
-- [[wang-safety-gap-productive-struggle-2026]] — 安全性のギャップ：生産的な苦闘を取り戻す
-- [[lukesova-clue-before-correction-2026]] — 訂正の前に手がかりを：自律学習のためのChatGPT
-- [[pedagogy-ai-mistakes]] — AIの誤りに対する教育学
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 解答の提示を控えることでフラストレーションというコストは回避できたが、学生の選好では評価を落とした。
-- [[shen-ai-skill-formation-2026]] — エラー数の中央値はAIなしで3、AIありで1であり、補助なしのクイズ得点は17%高かった（Shen & Tamkin 2026）。

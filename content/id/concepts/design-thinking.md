@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,39 +68,3 @@ Berpikir desain dalam pendidikan AI terjerat erat dengan [[human-ai-collaboratio
 **"Berpikir desain adalah proses yang harus diotomatiskan tahap demi tahap."** Ia adalah disiplin membingkai dan membingkai ulang masalah, dan itulah yang ditutup oleh fiksasi. Mengotomatiskan tahap-tahapnya sambil membiarkan kerangkanya tanpa pemeriksaan menghasilkan keluaran yang kompeten untuk masalah yang salah.
 
 **"Agen AI yang setuju dengan siswa [[student-support-and-success|mendukung]] penalaran desain mereka."** Penggunaan produktif yang terdokumentasi di sini berjalan ke arah sebaliknya: [[ai-agents-constructive-conflict-design-education-2026|konflik konstruktif dengan agen AI]] menguji pemberian prompt adversarial yang memaksa pertimbangan ulang. Agen yang menyetujui justru memperkuat fiksasi; agen yang berorientasi ketidaksetujuan adalah desain yang memiliki klaim pendidikan di belakangnya.
-
-## Konsep terkait
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Artikel terkait
-- [[design-thinking-aigc-fashion-film-2026]] — Pola pikir berpikir desain lintas tahap belajar dalam desain film mode berbantuan AIGC (Liu dkk. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: menggunakan AI generatif untuk mendukung mahasiswa arsitektur dalam tugas desain
-- [[genai-architectural-design-studios]] — Pengembangan dan aplikasi AI Generatif di studio desain arsitektur
-- [[social-robot-study-companions]] — Menciptakan Bersama Pendamping Belajar Robot Sosial yang Dapat Dibangun dan Terbuka bersama Mahasiswa Universitas
-- [[gaide-vibe-coding-k12-teachers]] — Kerangka Pemandu bagi Guru K-12 dalam Menciptakan Teknologi Pembelajaran Bertenaga AI melalui Vibe Coding
-- [[dot-framework-survey-2026]] — Survei Kerangka DOT: Keyakinan dan Perilaku Praktisi dalam Pendidikan yang Diperkaya AI
-- [[ai-agents-constructive-conflict-design-education-2026]] — Mewujudkan Konflik Konstruktif dengan Agen AI untuk Meningkatkan Pertimbangan Ulang di Kalangan Desainer Interaksi Pemula
-- [[genai-usage-design-students-survey]] — Studi penggunaan GenAI oleh Mahasiswa Desain: Analisis Hasil Survei dan Jurnal Praktik AI di Politecnico di Milano pada 2025/2026

@@ -12,6 +12,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
 ---
 
 > Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either [[scaffolding|scaffold]] SRL development or inadvertently short-circuit it by removing the regulatory demands that build expertise.([[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al., 2026]])([[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]]) Longitudinal evidence sharpens the distinction: reflective use around an AI tool predicted [[critical-thinking|critical thinking]] (β = 0.43) but not knowledge gain, and tool access on its own changed neither.([[melanou-genai-learning-dynamics-longitudinal-2026]])
@@ -36,18 +38,15 @@ SRL is the process whereby learners actively manage their own learning through t
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition|metacognition]] to refine their learning processes continuously.([[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al., 2026]])
 
-
 Empirical work in a technology-mediated course confirms the phase links: in an eight-week adaptive stochastics study (194 students), task value, self-efficacy, goal orientation and positive emotions in the pre-actional phase predicted actional regulatory behavior while negative emotions hindered it, and post-actional satisfaction fed forward into the next pre-actional phase ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh & Fromm (2026)]]).
 
 A systematic mapping of 84 AI–SRL studies found the research concentrated on higher-education students and on the metacognitive and cognitive aspects of self-regulation, with the motivational dimension underexplored and over a third of studies specifying no SRL theory at all ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et al. (2025)]]).
 
 Crucially, SRL around AI is shaped by *perception* as well as behavior: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior — a reminder that the social framing of AI, not just its content, changes how learners regulate around it.
 
-
 One failure mode sits before regulation begins: GenAI-assisted learning procrastination — unnecessary delay in starting GenAI-supported work despite a genuine intention to use it. Among 1,243 Chinese undergraduates, more frequent GenAI use went with less of it (β = −0.195), and learning GenAI anxiety strengthened the intention-delay link ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 Where GenAI enters the cycle decides its effect: mapping Zimmerman's forethought, performance, and reflection phases onto AI-mediated environments, a co-agency framework argues the point of entry determines whether the tool amplifies or erodes the learner's sense of control, and that offloading supports transformative learning only when the decision is intentional rather than routine ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
-
 
 A cross-sectional survey of 434 [[special-education|special education]] undergraduates measures one such chain: [[generative-ai|GenAI]] literacy was positively associated with GenAI-assisted self-regulated learning behaviors (total B = 0.701), running mainly through learning [[agency|agency]] (B = 0.345) rather than challenge emotions (B = 0.061) ([[genai-literacy-srl-special-education-2026|Yang et al. (2026)]]).
 
@@ -97,7 +96,6 @@ AI tools can enter this loop at different points:
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reframes effective [[generative-ai|GenAI]] use in [[writing-education|academic writing]] as **strategic regulation** — an enacted SRL practice of verifying, revising, selectively adopting, or rejecting AI output. In a [[mixed-methods-research|mixed-methods]] study of 107 students, higher [[anxiety-and-stress|AI anxiety]] was positively associated with verification and revision (β=.24), while evaluative capacity predicted active revision and selective integration (β=.46). Students clustered into four regulatory types — Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%) — showing that [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] functions less as acceptance than as regulatory competence grounded in [[evaluative-judgment|evaluative judgment]] and [[ethics|ethical]] responsibility. This positions SRL as the core mechanism distinguishing critical from uncritical AI use.
 
 Governance of the tool is itself a measurable facet: a two-wave validation with Chinese EFL learners (EFA N = 305; CFA N = 342) separates six regulatory dimensions and names *environmental regulation* — checking generated output for accuracy, filtering suggested resources, and setting boundaries on reliance — as one in its own right ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
-
 
 Classify before delegating: [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] turn self-regulation into a per-task protocol — label each subtask Substitute, Complement, Aid or Non-negotiable, justify it in a short metacognitive note, and keep an audit trail of prompts, drafts and human revisions — with the cycle repeating so one task's assignment informs the next.
 **Every prompt as a regulatory trace.** Reading 429 prompts from 23 students as self-regulated learning events showed the structure mix shifting with task design while 53 of 59 submissions stayed close to the model's output, locating regulation in the exchange rather than the artifact ([[llm-math-homework-offloading-traces-2026|Kontorovich & Wallach (2026)]]).
@@ -158,7 +156,6 @@ A cluster of Learning Letters studies (2026) converges on a central tension: [[g
 
 The collective lesson: **SRL is the core mechanism distinguishing critical from uncritical AI use.** Whether GenAI functions as a scaffold, shortcut, or partner depends on learners' regulatory capacity and on whether tools are designed to preserve (rather than remove) the regulatory demands that build expertise.
 
-
 Which support is in play decides which mediator carries the association: among 3,003 Chinese pre-service teachers, perceived AI tool support ran to innovative competence mainly through AI [[self-efficacy|self-efficacy]] (60.88% of that path's total effect), while perceived school-based intelligent environment support ran mainly through self-regulated learning (29.64% versus 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
 
 Students reported more procrastination (β = 0.525) alongside perceived performance gains, which separates delaying study work because AI is available from delaying it with AI's help — a distinction a single self-regulation score cannot carry ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
@@ -171,11 +168,9 @@ Students reported more procrastination (β = 0.525) alongside perceived performa
 - **For [[educational-policy-ai|AI policy]]:** Procurement criteria should ask whether a tool develops or displaces self-regulation
 - **For [[research-methods-aied|researchers]]:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential; Melanou et al. show the payoff of that patience, since a semester's reflective use moved critical thinking (β = 0.43) without moving knowledge gain.
 
-
 ## Conversational Agents and SRL in Simulation Games
 
 - **Conversational agents supporting self-regulated learning in games.** Wenzel, Geiger, and Liening (2026) show that an AI conversational agent (Lara) in a business [[simulation|simulation]] game can support self-regulated learning through metric-based [[formative-assessment|formative]] feedback, on-demand guidance, and structured reflection — addressing the common limitation that simulation games provide limited formative feedback and reflection prompts. Evaluations with student teachers and BSG participants reported positive perceptions of the agent's cognitive and [[community-of-inquiry|social presence]] and its support for self-regulation.
-
 
 ## Automated SRL Detection: What Transfers and What Doesn't
 
@@ -200,73 +195,3 @@ Self-report is the weak link in the evidence. In [[wilder-adhd-ai-interview-eye-
 - **Metacognitive SRL predicted learning-relevant load where the [[ai-feedback-quality|AI feedback]] did not.** In a five-week field study with **234 students and 1,147 observations**, metacognitive self-regulation was a substantial positive predictor of **germane cognitive load** (β = .363, p < .001 intention-to-treat; .346, p < .001 usage-based) and did not significantly predict extraneous load — while mere access to conversational AI feedback predicted neither. Only **sustained** engagement with the feedback separated students on germane load, and irregular use did not (β = −.219, p = .116), which locates the active ingredient in the learner's regulation of processing rather than in the feedback supply ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
 
 Configuring an LLM as a partner is a self-regulation problem before it is a tool-selection problem. In 117 public accounts of LLM use for language learning, the 24 that orchestrated multi-step interaction personalized far more often than the other 93 (70.8% vs. 15.1%) and reported more perceived benefits (3.29 vs. 1.96), yet 68.4% praised the model without naming a measurable improvement and only 10.3% reported one ([[lasekan-chatbot-language-learning-partner-2026|Lasekan et al. (2026)]]).
-
-## Connected Concepts
-
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[metacognition]] — the cognitive monitoring SRL relies on
-- [[self-assessment]]
-- [[self-efficacy]] — a forethought-phase belief driving effort
-- [[scaffolding]] — graduated support that preserves regulatory demand
-- [[feedback]] — input learners regulate around
-- [[feedback-literacy]] — the capacity to act on feedback
-- [[help-seeking]] — a strategic SRL behavior
-- [[motivation]] — the reciprocal partner of self-regulation
-- [[cognitive-offloading]] — the risk when AI removes regulatory work
-- [[generative-ai]] — the technology that can scaffold or short-circuit SRL
-- [[ai-literacy]] — regulatory competence in AI use
-- [[self-directed-learning]] — the broader autonomy construct
-- [[agency]] — the learner's capacity to act with intention, central to regulation, integration, and positioning
-- [[adaptive-learning]] — personalization that can support regulation
-- [[formative-assessment]] — continuous feedback for regulation
-- [[learning-by-teaching]] — a strategy building self-regulation
-- [[intelligent-tutoring]] — systems that scaffold SRL
-- [[llm]] — the underlying model of AI tools
-- [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
-- [[cognitive-surrender]]
-- [[reflection]]
-- [[executive-function]]
-## Connected Articles
-- [[futterer-srl-genai-support-rct-2026]] — 371 German students: reflection and strategy prompts added nothing over standard ChatGPT (Fütterer et al., 2026)
-- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Meta-analysis of AI-assisted self-regulated learning: g = 0.76 across 34 studies, with tool type and pedagogical role moderating the effect (Zhang et al. 2026)
-- [[li-genai-dependency-effort-regulation-2026]] — Generative AI dependency and perceived learning outcomes: the effort-regulation pathway (Li, Zhang & Yang 2026)
-- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Per-category accuracy of LLM-segmented SRL in an embodied classroom (Fonteles et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Model over-attribution of self-regulation from shallow cues in curriculum mapping (Jayalath et al. 2026)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: steering a chatbot demanded the SRL it was meant to support (Brunnström & Palmqvist 2026)
-- [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[rented-self-decoupling-performance-becoming-2026]] — The rented self: rental mapped onto Winne's SRL models, with ten propositions and within-learner indices
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and the self-regulation tension
-- [[decreasing-digital-distraction-college-online-learning-2026]] — SRL and lower digital distraction in online learning (Shi et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: a learner-facing loop of task identification, justification and post-task reflection
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — A validated instrument for AI-supported self-regulation in adaptive STEM learning, with metacognitive awareness as the strongest predictor
-- [[iqbal-human-genai-support-essay-revision-2026]] — Support condition, not metacognitive judgment, drove revision strategy choice in an essay-revision experiment
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Longitudinal: reflective AI use predicted critical thinking but not knowledge gain, with no Matthew effect
-
-- [[genai-literacy-srl-special-education-2026]] — GenAI literacy related to self-regulated learning behaviors mainly through learning agency
-- [[preservice-teachers-ai-support-innovative-competence-2026]] — Support type flips the mediator: AI self-efficacy vs self-regulated learning
-- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens
-- [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form
-- [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
-- [[ai-project-hybrid-learning-self-regulated-2026]] — A Project-Based Hybrid Learning Model Using Artificial Intelligence to Enhance Students' Self-Regulated Learning
-- [[davis-ai-ta-forum-peer-co-regulation-2026]] — An AI TA as first responder displaced peer replies, and with them the co-regulation that amplified the grade value of self-regulation (Davis et al. 2026)
-- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Preconception diversity changed how a metacognitive prompt landed: same prompt functions, opposite sustained evaluation of the AI output (Wang et al. 2026)
-- [[gouroubera-genai-benin-2026]] — Procrastination rose with use (β = 0.525) beside perceived gain, separating delay enabled by AI from delay merely about AI (Gouroubera et al. 2026)
-- [[lasekan-chatbot-language-learning-partner-2026]] — Orchestrating LLM use produced richer configurations but little evidence of learning
-- [[wilder-adhd-ai-interview-eye-tracking-2025]] — Self-reported regulation versus a task measure of cognitive flexibility

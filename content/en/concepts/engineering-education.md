@@ -12,6 +12,8 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 > **Engineering Education** — the study of how students learn engineering and how to teach it effectively, spanning how AI transforms engineering pedagogy, assessment, faculty development, and the engineering workforce. The engineering education research clusters around several themes: the [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]] instructors use to make sense of AI, [[ethical-use-ai-engineering-education-review-2026|ethical governance]] of AI use, [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] of conceptual understanding, and how AI is reshaping the [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]].
@@ -77,37 +79,3 @@ That gap is no longer empty in one area: a three-year biomedical engineering pro
 - **"AI adoption among engineering students is a technology-acceptance problem."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] integrate TAM with [[technology-acceptance-model|UTAUT]] to model Bangladeshi engineering students' adoption, **explaining 64% of** the variance — so a substantial share sits outside the acceptance constructs, in social and cognitive factors the model does not cover.
 - **"Students use AI for what it is best at."** [[ai-engineering-education-balancing-act|Kudina (2026)]] found **100 engineering students** most valued LLMs for **writing support**, not for engineering reasoning. Their metaphors for the tool exceeded what it delivered, and their actual use followed convenience rather than capability.
 - **"A richer tool stack improves design outcomes."** In a **27-student** architectural design studio, teams using a generative-AI plus [[virtual-and-augmented-reality|XR]] pipeline showed **depressed efficacy without an improved product**. Tool richness can cost confidence while leaving the artifact unchanged.
-
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[apostolakis-trusstutor-bench-statics-2026]] — Statics benchmark: solving and error detection saturate, pushback resistance does not
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
-- [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — Habit, not intention, predicts students asking people for help less often: 49.6% report less human help-seeking, β for habit 0.711 vs. intention 0.039

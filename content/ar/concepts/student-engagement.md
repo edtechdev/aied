@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -150,70 +152,3 @@ ai_assist:
 
 - أبلِغ عن البُعد والأداة، وتجنّب الاسم المجرّد. فبما أن التقرير الذاتي والسجلات تتباعد، تحتاج عبارة «ارتفع الاندماج» إلى تشغيلها في الجملة نفسها.
 - تجنّب استنتاج التحصيل من الوجدان. والنتيجة المنقسمة للتصميم العنقودي العشوائي هي النموذج للإبلاغ عن الاثنين معًا، بما في ذلك اللادالّ.
-
-## مفاهيم مرتبطة
-
-- [[learners]] — المتعلّمون: المظلة لمفاهيم جانب المتعلّم
-- [[pedagogical-partnerships]] — الشراكات التربوية
-- [[community-of-inquiry]] — جماعة البحث (الاندماج الوكيلي كبُعد من أبعاد جماعة البحث)
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — التعليم والتعلّم عبر الإنترنت
-- [[motivation]] — الدافع
-- [[self-determination-theory]] — نظرية تقرير المصير
-- [[student-experience]] — تجربة الطالب
-- [[learning-analytics]] — تحليلات التعلّم
-- [[educational-measurement]] — القياس التعليمي
-- [[self-regulated-learning]] — التعلّم المنظّم ذاتيًا
-- [[cognitive-offloading]] — الإزاحة المعرفية
-- [[metacognition]] — ما وراء المعرفة
-- [[student-modeling]] — نمذجة الطلاب
-- [[adaptive-learning]] — التعلّم التكيّفي
-- [[research-methods-aied]] — طرائق البحث في التعليم بالذكاء الاصطناعي
-- [[higher-ed]] — التعليم العالي
-- [[framing-ai-use-for-students]] — تأطير استخدام الذكاء الاصطناعي للطلاب
-- [[stakeholders]] — المظلة: الأشخاص والجماهير في تعليم الذكاء الاصطناعي (المتعلّمون، والمعلّمون، والمصمّمون، والمديرون، وصنّاع السياسات)
-- [[self-report-measures]] — مقاييس التقرير الذاتي
-- [[productive-failure]] — الفشل المنتج
-
-- [[reflection]]
-
-
-## مقالات مرتبطة
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — ثقافة التغذية الراجعة بالذكاء الاصطناعي والاندماج الوكيلي: لوحة اعتراض عشوائي بثلاث موجات (Xu 2026)
-- [[rho-disengaged-conversational-behaviors-2026]] — السلوكيات الحوارية المنفصلة والتعلّم في حوارات الطالب مع الذكاء الاصطناعي (Rho et al. 2026)
-- [[assigned-ai-preclass-student-engagement-2026]] — رفع التمرين قبل الحصة بشريك حواري صوتي بالذكاء الاصطناعي المساهمات الطبقية التطوّعية بنحو ~31%، لكن فقط بعد استخدام ثانٍ (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — ارتبط استخدام الذكاء الاصطناعي بتغيّب أكبر عن الحصص بينما لم تتنبّأ به الثقة بالنفس، مع سيطرة تأثير الأقران كأقوى مرتبط (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — عندما تروّج الجامعات للذكاء الاصطناعي التوليدي بينما تقصّر الممارسة: تقييمات الطلاب واندماج العملية الإبداعية في تعليم الفنون
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — رسم دماغ كهربائي محصور في الرأس وتتبّع عين وتصريف كهربائي جلدي تتنبّأ بتقييمات اندماج من خمس درجات، بينما تُزيح تعريفات المتعلّمين أنفسهم التخطيط (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — نمذجة محوّل متعدّد الوسائط واعية بالإنصاف لتقدير انتباه الطالب في الزمن الحقيقي
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — الذكاء الاصطناعي في التعليم العالي: مراجعة منهجية للاندماج + الدور المُتوسّط لطرائق التدريس
-- [[genai-motivation-engagement-2026]] — أثر الذكاء الاصطناعي التوليدي على دافع الطلاب واندماجهم
-- [[critical-engagement-code-completion]] — أُنُنقر أم لا: قياس الاندماج النقدي في إكمال الأكواد بالذكاء الاصطناعي
-- [[icap-cognitive-engagement-llm-agents]] — قياس الاندماج المعرفي في الخطاب التعاوني
-- [[genai-tutor-engagement-patterns]] — لا يندمج كل الطلاب على حدٍّ سواء: أنماط متعدّدة المؤسسات
-- [[polished-artifacts-fragile-engagement-2026]] — مخرجات مصقولة، اندماج هشّ
-- [[ai-availability-student-motivation]] — «لماذا أبذل هذا القدر من الجهد؟»: كيف يشكّل توفّر الذكاء الاصطناعي الدافع
-- [[genai-performance-vs-learning]] — تمييز مكاسب الأداء عن التعلّم
-- [[scaffolding-critical-engagement-genai-minority-students]] — إسناد الاندماج النقدي بسقالات مع الذكاء الاصطناعي التوليدي
-- [[engagement-intensity-learner-modeling]] — شدّة الاندماج كإشارة نمذجة متعلّم
-- [[learning-engagement-assistant-lea]] — مساعد اندماج التعلّم
-- [[engagement-assessment-video]] — تقييم الاندماج في التعلّم بالفيديو
-- [[engagement-forecasting-its]] — من الاستدلال إلى التحليلات: توقّع الجهد والتقدّم
-- [[interactive-learning-dashboards-engagement]] — لوحات التعلّم التفاعلية والاندماج
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — خصائص المتعلّم × تفاعلات صيغة حوار تحويل النصّ إلى كلام
-- [[wang-goal-setting-ai-engagement-2026]] — نظرية تحديد الأهداف: دعم المعلّم وأهداف الإنجاز والاندماج في تعلّم الإنجليزية المدعوم بالذكاء الاصطناعي (758 طالبًا صينيًا)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — كفاءة الذكاء الاصطناعي التوليدي والعاطفة كمحرّكَين لاندماج روبوت المحادثة (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — الاندماج المعرفي بمستوى بلوم المرتبط بالمجال الدراسي في محادثات الطالب مع الذكاء الاصطناعي (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — مكاسب اندماج خاصة بالأبعاد في المرحلة الابتدائية (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — اندماج معرفي وسلوكي مرتفعان، واندماج وجداني مستقر، في استوديو تعلّم قائم على مشاريع واقع افتراضي غامر (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — تجربة رياضيات ثانوية بعشوائية عنقودية: ارتفع الاهتمام الظرفي بروبوت محادثة مُخصَّص بينما لم يزد أداء الاختبار (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — ثقافة الذكاء الاصطناعي تدفع الاندماج مباشرةً وعبر رأس المال النفسي، ويضخّمها الالتزام المهني (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس بالذكاء الاصطناعي والتدريس البشري يُنتجان مكاسب تعلّم متكافئة في GRE
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — خفّض الوصول إلى مدرّس ذكاء اصطناعي المشاركة المسجّلة في المنصّة بـ0.90 انحرافات معيارية بينما ظلّ تسليم الواجبات المنزلية ثابتًا (Liu et al. 2026)
-
-- [[eight-mode-ai-engagement-typology-2026]] — Self-reported and observed AI engagement profiles failed to correspond, and only behavior tracked quiz scores (Keith, Wood & Posey 2026)
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — Four predicted engagement configurations under GenAI, and why the tool amplifies them
-

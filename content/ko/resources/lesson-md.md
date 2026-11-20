@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -39,8 +40,3 @@ ai_assist:
 ## 누구를 위한 것인가
 
 콘텐츠가 도구 교체 이후에도 살아남기를 원하는 교수설계자와 강좌 제작자, 사용자가 이미 이해하는 가져오기·내보내기 형식을 원하는 eLearning 벤더, 그리고 읽을 수 있는 형식 위에 AI 지원 저작을 구축하려는 모든 사람을 위한 것입니다. 기여자로는 LXD Integral의 Dan Bashaw가 있으며, 이 형식에는 v1.8까지의 공개 변경 로그가 있습니다.
-
-## 연결된 개념
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
-

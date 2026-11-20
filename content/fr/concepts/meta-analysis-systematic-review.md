@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -158,55 +160,3 @@ Dans le paysage méthodologique, la méta-analyse et la revue systématique cons
 - **« Un effet regroupé significatif signifie que l'intervention fonctionne. »** La [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|méta-analyse de Yu et coll. sur l'éducation à l'IA en K-12]] (**16 études, 57 tailles d'effet, g = 0.892**) trouve un effet important, que les auteurs eux-mêmes nuancent. Seize études constituent une base étroite, et un effet important sur cette base reste une hypothèse à intervalle large.
 - **« Les auteurs de revues rapportent par défaut la qualité du champ avec exactitude. »** Le travail d'une revue inclut d'**exposer la qualité méthodologique**, et les revues **constatent régulièrement que le champ s'appuie sur des dispositifs sous-dimensionnés, pré-expérimentaux ou quasi expérimentaux** avec des post-tests immédiats. Le chiffre regroupé hérite de ces faiblesses.
 - **« Regrouper augmente toujours le poids des preuves. »** La [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|méta-analyse de Chen et Wei]] sur **40 études** des compétences en langue étrangère regroupe des technologies très différentes, et la moyenne ne décrit aucune des interventions particulières qu'elle contient.
-
-## Concepts liés
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — Recherche éducative assistée par IA
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## Articles liés
-
-- [[edurev-100741-tpack-genai-review]] — Revue systématique de l'IA générative dans l'apprentissage des étudiants sous l'angle du TPACK
-- [[genai-meta-analysis-programming-learning]] — Méta-analyse de l'effet de l'IA générative sur la productivité et l'apprentissage en programmation
-- [[ai-vocational-education-training-review]] — Première revue systématique de l'IA dans l'enseignement et la formation professionnels
-- [[ai-collaborative-learning-systematic-review]] — Revue systématique PRISMA de l'apprentissage collaboratif soutenu par l'IA
-- [[genai-higher-education-systematic-review-2026]] — Revue systématique de l'IA générative dans l'enseignement supérieur
-- [[zerkouk-comprehensive-review-its-2025]] — Revue systématique complète des systèmes de tutorat intelligent
-- [[chatgpt-critical-creative-thinking-review]] — Revue systématique de ChatGPT et de la pensée critique/créative
-- [[stanford-evidence-base-ai-k12-2026]] — Corpus de données probantes sur l'IA dans le primaire et le secondaire
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Méta-analyse des effets des interventions en littératie en IA
-- [[genai-writing-performance-meta-analysis-2026]] — Méta-analyse de l'écriture en L2 assistée par l'IA générative : un effet regroupé important miné par une hétérogénéité extrême et un modérateur lié à la qualité
-- [[ai-literacy-heptagon-2026]] — Revue de littérature intégrative des dimensions de la littératie en IA (guidée par PRISMA)
-- [[genai-scenario-based-healthcare-education-2026]] — Revue systématique de l'IA générative dans l'apprentissage par scénarios en santé (Neto et al. 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revue de cartographie classant 22 études sur l'intégration de l'IA avec FACETS + SAMR ; la plupart se situent au niveau Substitution/Augmentation
-- [[agarwal-ethical-values-norms-aied-2026]] — Valeurs et normes éthiques pour l'IA en éducation
-- [[li-language-educators-genai-review-2026]] — Pratiques et développement des enseignants de langues avec l'IA générative
-- [[dabaghi-ai-dyslexia-education-review-2026]] — L'IA pour aider les personnes dyslexiques en éducation
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT dans l'éducation : un effet en quête d'une cause (critique de la comparaison des médias)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Méta-méta-analyse : les effets de l'IA ajustés des biais représentent environ 1/3 de la taille rapportée
-- [[oneill-presumed-effective-meta-analysis-2026]] — Présumé efficace : audit médico-légal de 14 méta-analyses en AIED
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — L'intervention des enseignants dans l'enseignement primaire et secondaire fondé sur l'IA : une revue systématique
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — Méta-analyse des outils numériques et d'IA pour les compétences en langues étrangères : le modérateur de dispositif fait plus que doubler les estimations d'effet quasi expérimentales
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Méta-analyse de l'IA générative dans l'enseignement supérieur : les effets des interventions courtes s'effondrent à mesure que la durée s'allonge
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Méta-analyse de l'éducation à l'IA dans le primaire et le secondaire : un effet important avec des modérateurs nuls et une hétérogénéité attribuée à la mesure
-- [[yalcin-genai-programming-education-systematic-review-2026]] — Revue systématique de l'IA générative dans l'enseignement de la programmation : une communication pédagogique mince dans 26 études sur 46
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — Revue de cadrage de 123 études cartographiant l'IA générative, le délestage cognitif et l'autonomie de l'apprenant dans l'enseignement supérieur
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — Une méta-analyse des effets de l'intelligence artificielle générative sur les résultats d'apprentissage, cognitifs et linguistiques
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — Usage étudiant responsable de l'IA générative en écriture académique : une revue de cadrage des frontières, des approches éducatives et des lacunes probantes
-- [[kim-ai-embodied-learning-review-2026]] — L'IA dans l'apprentissage incarné observe surtout : rôles de détection 62.5% des étiquettes de rôle codées, et aucun système examiné ne fusionnait les flux multimodaux
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Pourquoi quatre études ne peuvent pas porter une décision d'adoption

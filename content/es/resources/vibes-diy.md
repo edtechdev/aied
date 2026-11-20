@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -41,8 +42,3 @@ Es un constructor de propósito general y no un producto educativo: resulta úti
 
 ## Notas
 La plataforma tiene un nivel gratuito, pero se basa en créditos: las cuentas reciben 1.000 créditos de IA al mes, y construir, editar, generar imágenes y las funciones de IA integradas en la aplicación los consumen todos. Una suscripción añade la opción de comprar más créditos, que no caducan. Cualquier curso que pretenda apoyarse en la plataforma debería comprobar las condiciones vigentes, ya que el uso gratuito está medido y no es ilimitado, y debería tratar las aplicaciones creadas por el estudiantado como contenido con sus propias cuestiones de tratamiento de datos.
-
-## Conceptos conectados
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
-

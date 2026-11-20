@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [lifelong-learning, adult-learning, vocational-education, educational-development, ai-literacy, simulation, higher-ed, generative-ai, llm, adaptive-learning, personalized-learning, virtual-and-augmented-reality]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, bodek-prompted-to-explore-microlearning-2026, prunuske-cognitive-windows-research-meetings-2026, ai-engineering-computing-workforce-grey-literature-2026, workforce-readiness-smart-manufacturing-wrl-2026, crewscaler-ai-upskilling-framework, ai-coaching-rl-skill-development, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, ai-adoption-training-public-sector, ithaka-sr-ai-skills-college-graduates-2026, cognitive-commons-ai-expertise-regeneration, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, faculty-development-centers-genai-training-optimization-2026, adaptive-ai-model-teacher-educators-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, cigerci-primary-teachers-perceptions-ai-mathematics-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, jongkind-genai-patient-medical-communication-2026, cowhitt-deliberative-instructional-agents-2026, morales-cevallos-ai-forensic-science-education-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -104,46 +106,3 @@ Berufliche Weiterbildung unterscheidet sich von akademischer Bildung durch ihren
 **„KI-Kompetenztraining generalisiert über Rollen hinweg."** Die meisten Instrumente messen keine rollenspezifische Kompetenz: in einem systematischen Review von **33 Instrumenten zur KI-Kompetenz von Lehrkräften** zielten **29 (87,9 %)** auf allgemeine KI-Konzepte, während nur **4 (12,1 %)** die [[pedagogy|pädagogische]] oder berufliche Nutzung adressierten, die der Job tatsächlich verlangt. Ein Programm, das auf allgemeinen Instrumenten aufbaut, misst einen Proxy.
 
 **„Ein Simulator ist ein Ersatz für Arbeitsplatztraining."** Er entwickelt Prozedur und entfernt die Konsequenz, was wertvoll ist und genau der Teil, der nicht transferieren kann — in sicherheitskritischer Arbeit ist die Konsequenz das Curriculum.
-
-## Verbundene Konzepte
-- [[lifelong-learning]]
-- [[adult-learning]]
-- [[vocational-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[virtual-and-augmented-reality]] — wo immersive Praxis am etabliertesten ist
-
-## Verbundene Artikel
-- [[muller-role-prompted-gpt-empathetic-communication-2026]] — Eine einzige GPT-4o-Konversation erhöhte die selbsteingeschätzte Kommunikationskompetenz um d = 0,58, ohne Kontrollgruppe (Müller et al., 2026)
-- [[ismail-affective-domain-ai-healthcare-review-2026]] — Über 17 Studien hinweg waren Zuwächse an Selbstvertrauen häufig, die Evidenz zu Empathie dagegen dünn (Ismail & Zafira, 2026)
-- [[bodek-prompted-to-explore-microlearning-2026]] — Zwölfwöchiges Microlearning plus eine Teams-Community: Die berichtete GenAI-Nutzung stieg nach dem Programm (Bodek et al. 2026)
-- [[prunuske-cognitive-windows-research-meetings-2026]] — Forschungstreffen von Datenupdates zu kognitiven Fenstern im Zeitalter der künstlichen Intelligenz
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — KI und die Zukunft der Arbeitskräfte in Ingenieurwesen und Informatik
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce-Readiness-Level-Rahmenwerk für intelligente Fertigung im KI-Zeitalter
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-coaching-rl-skill-development]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[astra-atco-training-simulator]]
-- [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework, validiert mit Lehrenden und Arbeitgebern
-- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
-- [[li-language-educators-genai-review-2026]] — Praktiken und Entwicklung von Sprachlehrenden mit GenAI
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — Vergleichende Umfrage zeigt, dass institutionelle Bedingungen und nicht der nationale Kontext die GenAI-Bereitschaftslücken des Lehrpersonals erklären (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Lehrkräfteausbildende gestalten ein adaptives KI-Kompetenzmodell und einen reflexiven Fragebogen mit (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review zeigt, dass Instrumente zur KI-Kompetenz von Lehrkräften hinter generative KI zurückbleiben und damit das Trainingsziel markieren (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Dreistündige Fortbildung erhöhte bei deutschen Lehrkräften die wahrgenommene Nützlichkeit und Bedienbarkeit, nicht aber die Absicht, KI zur Differenzierung zu nutzen
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Review zu KI in der Erstausbildung für Mathematik in der Primarstufe: kurze, werkzeugzentrierte Schulung reicht nicht
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Umfrage verknüpft vorherige KI-Schulung und Nutzungshäufigkeit mit den positiven Wahrnehmungen türkischer Grundschullehrkräfte
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rollenrotation als strukturierender Mechanismus für die KI-gestützte berufliche Vorbereitung
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Offene Fragen zur fähigkeitserhaltenden Abhängigkeit im reflektierenden KI-Engagement
-- [[jongkind-genai-patient-medical-communication-2026]] — Einsatz eines GenAI-Patienten für das Training medizinischer Kommunikation bei Medizinstudierenden: eine quasi-experimentelle Studie
-- [[cowhitt-deliberative-instructional-agents-2026]] — Abwägende instruktionale Agenten für die professionelle Weiterbildung von Lehrkräften, mit Verantwortungsbedingungen für KI-vermittelte PD
-- [[morales-cevallos-ai-forensic-science-education-2026]] — Wenn die KI-Praxis eines technischen Berufs ihren Ausbildungsweg überholt
-- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Lehrkräfte forderten in ihren Fachdisziplinen verankerte Fortbildungen und unterschieden häufige Nutzung von Literacy

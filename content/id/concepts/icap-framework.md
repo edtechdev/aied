@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -97,27 +99,3 @@ Penekanan ICAP pada keterlibatan generatif pada tingkat proses telah diadopsi ol
 **"Tutor AI secara otomatis menghasilkan keterlibatan interaktif karena ia bercakap-cakap."** Percakapan adalah mediumnya alih-alih modenya. Dialog di mana sistem memasok setiap kontribusi substantif adalah pasif bagi pembelajar yang memakai antarmuka interaktif, yaitu kebingungan yang sama yang didokumentasikan [[student-engagement|literatur keterlibatan]] antara aktivitas perilaku dan investasi kognitif.
 
 **"Mode ICAP yang lebih tinggi selalu lebih baik."** Mode itu berbiaya lebih besar, dan pengurutannya menyangkut pembelajaran per satuan pemrosesan yang relevan alih-alih tentang apa yang harus selalu dituju sebuah pelajaran. Kelancaran dasar dapat menuntut repetisi aktif sebelum kerja konstruktif dimungkinkan; kesalahannya adalah menetap di sana, bukan melewatinya.
-
-## Konsep terkait
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## Artikel terkait
-
-- [[icap-cognitive-engagement-llm-agents]] — Kerangka ICAP yang diperluas untuk mengukur keterlibatan dengan anotasi manusia vs. LLM
-- [[hingle-collaborative-ai-literacy-2025]] — Literasi AI kolaboratif di keempat mode ICAP
-- [[interactive-learning-dashboards-engagement]] — ICAP sebagai kritik atas keterlibatan analitik pembelajaran yang dangkal
-- [[multimodal-learning-genai]] — ICAP dan keterlibatan kognitif dalam desain pembelajaran multimodal
-- [[llm-facilitation-timing-online-discussions]] — Waktu fasilitasi LLM dalam diskusi kolaboratif daring
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Perancahan ICAP adaptif dalam ITS (BKT vs DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — Model kedalaman kognitif ICAP dalam agen generatif simulasi siswa
-- [[assessing-student-drive-framework-2025]] — Penilaian interaksi GenAI reflektif yang berjangkar ICAP

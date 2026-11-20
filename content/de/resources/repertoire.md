@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [learning-design, guardrails, ai-use-disclosure]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -52,9 +53,3 @@ Für Lehrpersonen in der Hochschulbildung, die [[learning-design|Lernendesign]] 
 - **Inferenz bei Dritten.** Antworten entstehen über die Claude-API von Anthropic, mit der OpenAI-API als Ausweichweg, unter kommerziellen Bedingungen, die laut Richtlinie mit Stand September 2026 kein Training auf API-Eingaben und -Ausgaben vorsehen. Eine Institution sollte das über ihre eigene Vereinbarung bestätigen lassen statt über eine Webseite.
 - **Es ist kein Bewertungssystem.** Richtlinie und Bedingungen beschreiben Assistentenurteile wie „Ziel erreicht“ als Hilfen für die Lehrperson; Noten und akademische Entscheidungen bleiben bei der Lehrperson und der Institution, und Entscheidungen über die [[ai-use-disclosure|Offenlegung der KI-Nutzung]] gegenüber Studierenden liegen bei der Lehrperson.
 - **Hosting in den USA.** Die Daten liegen in Google Cloud Firestore mit Vercel-Hosting, und die Richtlinie adressiert FERPA-Pflichten, wo der Dienst Bildungsdaten verarbeitet; Nutzenden außerhalb der Vereinigten Staaten wird mitgeteilt, dass ihre Daten dort verarbeitet werden.
-
-## Verbundene Konzepte
-
-- [[learning-design]] — strukturiertes Aufgabendesign als der Punkt, an dem KI-Politik konkret wird.
-- [[guardrails]] — Engagement-Gates und begrenzte KI-Hilfe als Einschränkungen zur Entwurfszeit.
-- [[ai-use-disclosure]] — die Lehrperson, nicht die Plattform, entscheidet, wie KI-Nutzung gegenüber Studierenden deklariert wird.

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -104,39 +106,3 @@ ai_assist:
 **「あるデータセットで最良のモデルこそ、あなたのコースにとって最良のモデルである。」** 精度は設定に固有のものである。OKTは実際の[[engineering-education|工学]]プログラムのLMSデータ(学生2,416名、学習成果966件)で**89.81% AUC**に達し、DKT、DKVMN、EKT、SimpleKTを上回った一方、ASSISTmentsでは他手法と競合する程度の結果しか示さなかった。あるデータセット群で首位に立つ同一のアーキテクチャが、別のデータセット群では際立たないこともあるため、他所で報じられた高いAUC値は、自分の学生について判断する根拠としては弱い。
 
 **「忘却の証拠がない限り、知識は保持される。」** 忘却こそがモデル化に値するデフォルトである。[[schuetze-knowledge-tracing-forgetting-2026|Schuetze、Yan、Carvalho (2025)]] は、複数セッションにわたる系列に対して BKT、BKT-with-Forgetting、Additive Factors Model を当てはめ、保持を表現するとモデルの適合度が変化すること、そしてこれらのモデルが*検証*される方法と*運用*される方法とは異なることを見出した。
-
-## 関連概念
-
-- [[learners]] — 学習者：学習者側の概念の包括概念
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[simulating-students]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — 支援の決定に供給される精細な習熟度の推定
-
-## 関連記事
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺的な過度の一般化：適応的な習熟は、学習者が行為を控えるべき時を知る前に練習を打ち切ることがある（An, McLaren & Stamper 2026）
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[skill-acquisition-without-temporal-info]]
-- [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — 動的な領域のためのグラフベースの知的個別指導（2026年）
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 親和性の対応づけによる成果に基づく知識追跡
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — KC 較正された状態による意味的に根拠づけられた追跡で、推薦のための RL 環境として用いられる
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：人間と AI の共学ループの中で学習者について学ぶエージェント的な個別指導
-- [[crediting-assisted-work-inflates-mastery-2026]] — どのエビデンスの規則が習熟の主張を決めるか（Srivastava 2026）
-- [[system-one-llm-knowledge-tracing-2026]] — 単一パスの LLM が、8 人の学習者で訓練された深いモデルを上回り、費用はそのわずかで知識を追跡する（Lee & Park 2026）
-- [[knowledge-tracing-compression-math-2026]] — 数学の知識追跡における学生の履歴の圧縮

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -94,32 +96,3 @@ ai_assist:
 - **"AI سے پیدا شدہ متن آسان ہے کیونکہ وہ کسی سطح کے لیے پیدا کیا گیا۔"** ماڈل کے مصنوع کے لیے ثبوت اُلٹی سمت چلتا ہے: سرحدی ماڈل تفہیم کی قیمت سے جڑی ساختوں کا زیادہ استعمال کرتے ہیں۔
 - **"AI کے ساتھ پڑھنا ایک ہی رویہ ہے۔"** AIR اسکیل چار الگ محرکات پاتا ہے، اور وہ مختلف قسم کے استعمال کی پیش گوئی کرتے ہیں۔
 - **"اگر AI متن دوبارہ لکھ سکتا ہے تو پڑھنے کی سطح اہم نہیں رہتی۔"** تفریق پیراگراف کے گرد سہارے کو اُس کی ساختی پیچیدگی سے زیادہ بدلتی ہے، جو اُس کی سطح کم کرنے سے مختلف مداخلت ہے۔
-
-## منسلک تصورات
-
-- [[ai-education]] — وہ چھتری جس کے نیچے یہ شعبہ آتا ہے
-- [[language-learning]] — L2 پڑھائی کا اشتراک ہے، مگر وہاں حصول موضوع ہے
-- [[writing-education]] — خواندگی کا لکھنے والا پہلو
-- [[english-education]] — EAP/EFL/ESL پڑھائی اور پڑھنے کی آسانی
-- [[educational-nlp]] — متن کی پیمائش کی وہ تہہ جس پر پڑھنے کی آسانی منحصر ہے
-- [[assessment]] — پڑھنے کی جانچ اور اسکور کی درستگی
-- [[motivation]] — قارئین AI کیوں استعمال کرتے ہیں، اور اُس کا عمل پر کیا اثر ہوتا ہے
-- [[scaffolding]] — تفریق شدہ پڑھنے کے مواد میں سہارے کی تہیں
-- [[neurodiversity]] — ڈسلیکسیا اور پڑھنے کی دشواری
-- [[accessibility]] — انسان کے لیے پڑھنے کے قابل بمقابلہ مشین کے لیے پڑھنے کے قابل متن
-- [[generative-ai]] — تیار اور ڈھالے گئے متنوں کے پیچھے ٹیکنالوجی
-
-## منسلک مضامین
-
-- [[air-scale-motivations-ai-reading-2026]] — GenAI کے ساتھ پڑھنے کے محرکات کا تصدیق شدہ اسکیل
-- [[almirabi-ai-reading-assessment-motivation-2026]] — EFL کلاس میں AI کی وساطت سے پڑھنے کی جانچ
-- [[genai-differentiated-eap-reading-materials-2026]] — تفریق شدہ EAP پڑھنے کا مواد
-- [[llm-children-reading-story-generation]] — سطح پر قابو رکھنے والی بچوں کی پڑھنے کی کہانیاں
-- [[text-simplification-its]] — ٹیوٹرنگ کے لیے متن آسان بنانے کی جانچ
-- [[clara-developmental-appropriateness-children-stories-2026]] — پڑھنے کی آسانی کے فارمولوں سے آگے نشوونما کی دشواری
-- [[bird-multimodal-educational-literature-2026]] — ادب کو Key Stage کے لحاظ سے درجہ بندی کرنا
-- [[clark-ai-generated-language-readability-2026]] — AI سے پیدا شدہ زبان پڑھنا مشکل کیوں ہے
-- [[sidorkin-ai-generated-course-readings-2026]] — موزوں AI سے تیار کردہ کورس ریڈنگز
-- [[airri-machine-resistant-reading-interface-2026]] — مشین کے خلاف مزاحمت کرنے والے پڑھنے کے انٹرفیس اور اُن کی پڑھنے کی آسانی کی قیمت
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — ثانوی پڑھائی میں ChatGPT فیڈبیک
-- [[dabaghi-ai-dyslexia-education-review-2026]] — ڈسلیکسیا والے سیکھنے والوں کے لیے AI

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,12 +50,3 @@ Pengembang yang membangun fitur AI ke dalam produk kurikulum dan [[assessment|as
 ## Catatan dan peringatan
 
 Terbuka dalam hal [[open-source|sumber]] tidak membuat datanya terbuka. Kode Knowledge Graph dan Evaluator berlisensi MIT dan Agent Skills Apache-2.0, sementara setiap dataset membawa label aksesnya sendiri — Open, Open + Gated, atau Gated — dan konten Gated tidak dicakup lisensi terbuka yang dikutip repositori, jadi periksa katalog dataset sebelum mengasumsikan hak penggunaan ulang. Konten prompt Evaluator berlisensi CC BY 4.0, tetapi korpus beranotasi CLEAR dan PERSUADE 2.0 yang digunakannya berlisensi CC BY-NC-SA 4.0. Platform dan dataset di baliknya memerlukan akun.
-
-## Konsep terkait
-
-- [[curriculum-design]] — graph ini ada untuk menyelaraskan konten yang dihasilkan dengan standar dan kurikulum
-- [[open-source]] — kode MIT dan Apache-2.0 dengan lisensi data per dataset
-- [[educational-nlp]] — evaluator adalah lapisan pengukuran teks di atas keluaran LLM
-- [[agentic-ai]] — keterampilan yang mengemas alur kerja agar dapat dijalankan oleh model
-- [[edtech-platform]] — Curriculum Sync memuat kurikulum ke dalam sistem manajemen pembelajaran
-- [[llm]] — sasaran evaluasi dan konsumen keterampilan tersebut

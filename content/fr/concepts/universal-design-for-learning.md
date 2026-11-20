@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -96,33 +98,3 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 **« La CUA signifie concevoir plus soigneusement pour l'étudiant moyen. »** L'affirmation centrale est l'inverse : la variabilité des apprenants est la norme et non l'exception, si bien que la conception offre de multiples parcours dès le départ au lieu de corriger un parcours pour ceux qui échouent. Le rattrapage est ce que la CUA existe pour remplacer, et un parcours unique bien réglé reste un parcours unique.
 
 **« L'IA rend la CUA automatique, puisqu'elle peut générer des formats alternatifs. »** Elle rend le principe de représentation bon marché et laisse l'engagement et l'expression intacts. Convertir du texte en audio traite un des trois moyens ; un cours peut désormais être entièrement multiformat et exiger encore de chaque étudiant qu'il démontre son apprentissage de la même manière unique.
-
-## Concepts liés
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement en IA éducative
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Articles liés
-- [[seung-basham-cognitive-offloading-swld-2026]] — Délestage cognitif de l'IA générative chez les élèves ayant des troubles de l'apprentissage
-- [[authentic-products-authenticated-processes-2026]] — Des produits authentiques aux processus authentifiés
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Concevoir des outils d'apprentissage IA conscients des besoins et de l'attention
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue exploratoire des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
-- [[faculty-accessible-course-design-ai-2026]] — « L'IA réduit des options que j'utilisais » : explorer les perceptions des enseignants sur la conception de cours accessibles à l'ère de ChatGPT
-
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — L'intelligence artificielle et la conception universelle de l'apprentissage dans l'enseignement supérieur au Koweït : vers un cadre d'éducation inclusive habilité par l'IA

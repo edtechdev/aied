@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -104,42 +106,3 @@ La desconexión conversacional tiene su propia taxonomía —burlarse, desaparec
 - **«Las taxonomías de interacción están resueltas.»** **En 46 categorizaciones de 33 estudios, etiquetas similares nombran fenómenos distintos**, y por eso la revisión propone el *episodio de interacción* como unidad. Un esquema de codificación tomado de una taxonomía puede estar midiendo un constructo diferente.
 - **«El estudiantado usa la IA como tutor.»** Entre **38 estudiantes de grado** que escribieron ensayos argumentativos sin supervisión, el **76,32% usó un patrón de un solo turno de preguntar, obtener la respuesta y parar**, generalmente pegando el título de la tarea. El patrón dominante es la recuperación en un solo turno, que no es tutoría.
 - **«Un mayor uso de IA indica mayor implicación con el material.»** Un análisis de **200 sesiones de chat de coprogramación** encontró que el **78,8% de las interacciones entre estudiantado e IA se regía por objetivos y estrategias no orientados al dominio**. El volumen de interacción medía algo distinto de la orientación al aprendizaje, así que contar sesiones es un indicador de implicación engañoso.
-
-## Conceptos conectados
-- [[learners]] — Estudiantado: el paraguas de los conceptos del lado de quien aprende
-- [[human-ai-collaboration]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[agency]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-literacy]]
-
-## Artículos conectados
-- [[ai-chatbots-emotional-support-human-connection-2025]] — La frecuencia de uso y la pericia autoevaluada no predijeron nada en 819 estudiantes
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Externalización frente a reubicación cognitiva en evaluaciones sin supervisión con IA generativa (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — «¿Es esto una trampa?»: la no adopción de la IA generativa por futuros docentes en las evaluaciones (Zou et al. 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[isaza-chatgpt-engineering-prompting-2026]] — Conductas de prompting y de integración registradas
-- [[breideband-community-builder-cobi-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Eludir, descargar o andamiar: un modelo conceptual de cómo los grandes modelos de lenguaje dan forma al aprendizaje
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — Cuando hablan los tutores de IA: evidencia de un experimento de campo aleatorizado
-- [[context-prompts-physics-assignments-2026]] — Tareas de física impulsadas por inteligencia artificial mediante prompts de contexto
-- [[three-pathways-student-ai-interaction-2026]] — Tipología de las tres vías de la interacción entre el estudiantado y la IA: 46% Revisión pasiva, 18% Pregunta directa, 36% Diálogo estratégico
-- [[porcaro-ai-grading-benchmark-2026]] — Más allá del acuerdo: 22 calificadores mediante prompts se enfrentan a sondas cuya respuesta correcta se conoce, y a la mayoría se les puede subir el nivel (Porcaro 2026)
-- [[shen-ai-skill-formation-2026]] — Seis patrones de interacción con la IA, del 86% al 24% en una prueba sin ayuda (Shen y Tamkin 2026)
-- [[cs-students-llm-conceptualizations-prompting-2026]] — ¿A quién (o a qué) le escriben prompts? Cómo el estudiantado de informática conceptualiza y usa los LLM
-- [[burke-ai-proliferation-college-students-replication-2026]] — 991 estudiantes de grado: uso por área de curso (88% ciencias naturales, 52% humanidades, 36% ciencias sociales) y estudiar como tarea principal

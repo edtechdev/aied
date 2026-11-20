@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -41,7 +42,3 @@ A projekt megkülönböztető állítása az alapozás: a készségek idézik a 
 ## Megjegyzések és fenntartások
 
 Az oktatási készségek, a dokumentáció és a tananyagok CC BY-SA 4.0 licenc alatt állnak, így az újrafelhasználás és az adaptálás nyitott, a származékoknak viszont ugyanezt a licencet kell viselniük. Két működési részlet számít, ha telepíti. A hosztolt MCP-végpont tokeneket kér, nem nyitott bárki számára, és mivel a szerver egy commitolt pillanatképet szolgál ki, nem a SKILL.md fájlokat, egy újonnan hozzáadott készség nem jelenik meg az élő szerveren akkor sem, ha újratelepít, hacsak nem építi újra és commitolja a csomagot. A könyvtárat Gareth Manning, pedagógus és tananyagtervező építi, a licencfeltételek pedig kifejezetten az oktatási tartalomra vonatkoznak.
-
-## Kapcsolódó fogalmak
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

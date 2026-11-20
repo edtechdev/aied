@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [curriculum-design, open-source, educational-nlp, agentic-ai, edtech-platform, llm]
 ---
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -49,12 +50,3 @@ Utviklere som bygger AI-funksjoner inn i produkter for læreplan og [[assessment
 ## Merknader og forbehold
 
 At noe er åpent i [[open-source|kildekode]], gjør ikke dataene åpne. Koden i Knowledge Graph og Evaluators er MIT og Agent Skills er Apache-2.0, mens hvert datasett har sin egen tilgangsetikett — Open, Open + Gated eller Gated — og Gated-innhold dekkes ikke av de åpne lisensene repositoriet viser til, så sjekk datasettkatalogen før du antar gjenbruksrettigheter. Promptinnholdet i Evaluators er CC BY 4.0, men de annoterte CLEAR- og PERSUADE 2.0-korpusene de bruker, er CC BY-NC-SA 4.0. Plattformen og datasettene bak den krever en konto.
-
-## Tilknyttede begreper
-
-- [[curriculum-design]] — grafen finnes for å tilpasse generert innhold til standarder og læreplaner
-- [[open-source]] — MIT- og Apache-2.0-kode med datalisensiering per datasett
-- [[educational-nlp]] — evaluatorene er et tekstmålingslag over LLM-utdata
-- [[agentic-ai]] — ferdigheter som pakker en arbeidsflyt for at en modell kan utføre den
-- [[edtech-platform]] — Curriculum Sync laster læreplaner inn i et læringsstyringssystem
-- [[llm]] — målet for evalueringen og forbrukeren av ferdighetene

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -69,36 +71,3 @@ ai_assist:
 - **"کم وسائل والے سیاق و سباق میں AI اخلاقیات کا کوئی فریم ورک نہیں اور اُسے درآمد کرنے کی ضرورت ہے۔"** کم وسائل والے ماحول میں خدمات انجام دینے والے ثانوی STEAM اساتذہ **رسمی اصولوں کے بجائے پیشہ ورانہ شناخت، کلاس روم کی حقیقتوں اور ثقافتی معمولات کے ذریعے AI اخلاقیات پر استدلال کرتے ہیں**۔ استدلال موجود ہے اور سیاق و سباق میں جڑا ہوا ہے؛ ایک عالمگیر اصولوں کی فہرست اُس پر بری طرح منتقل ہوتی ہے۔
 - **"حکمرانی کی قسم یونیورسٹیوں میں AI کے انضمام کی پیش گوئی کرتی ہے۔"** **45 نائجیرین یونیورسٹیوں** (وفاقی، ریاستی اور نجی) کے تقابلی مواد کے تجزیے سے پتہ چلا کہ AI کے انضمام کی پیش گوئی **ادارے کی عمر اور جغرافیائی محلِ وقوع — حکمرانی کی قسم نہیں** کرتی۔ یہ مفروضہ کہ سرکاری اور نجی ادارے مختلف سمت جاتے ہیں، رد ہو جاتا ہے۔
 - **"ڈیجیٹل تقسیم بنیادی رکاوٹ ہے۔"** **تین فلسطینی یونیورسٹیوں کے 21 بصارت سے محروم انڈرگریجویٹس** کے [[qualitative-research|معیاری]] کیس اسٹڈی نے پایا کہ GenAI **ڈیجیٹل، جغرافیائی اور سماجی و معاشی** رکاوٹوں کو بیک وقت پاٹتا ہے۔ رکاوٹیں تہہ دار ہیں، اور رسائی کو واحد مانع سمجھنا باقی سب کو چھوڑ دیتا ہے۔
-
-## منسلک تصورات
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## منسلک مضامین
-- [[genai-assessment-african-higher-education-review-2026]] — جنریٹو AI کے دور میں جانچ کا از سرِ نو تصور: افریقی اعلیٰ تعلیم کا منظم ادبی جائزہ
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — ادارہ جاتی ڈھانچے، ڈیجیٹل عدم مساوات، اور نائجیرین اعلیٰ تعلیم میں AI کا انضمام
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — انجینئرنگ تعلیم کے لیے متحد سماجی و علمی ماڈل (بنگلہ دیش)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: ویتنامی سبق کی منصوبہ بندی
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: ہندوستانی علمی نظاموں کا ڈیٹا سیٹ
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: گھانا کا STEM بینچ مارک
-- [[genai-minoritized-knowledges-disability]] — اقلیتی علم کی حاشیہ پذیری
-- [[llm-cultural-relevance-k12]] — ثقافتی طور پر متعلق K-12 تدریسیات کے لیے LLM
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — تعمیریت کے ذریعے بنگلہ دیشی اعلیٰ تعلیم میں GenAI کا انضمام (Alam وغیرہ 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — بصارت سے محروم سیکھنے والوں کے لیے معاون GenAI
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP اور مشین لرننگ کے ذریعے پاکستانی یونیورسٹی طلبہ میں دباؤ کی نشاندہی اور بہبود کے لیے AI سے چلنے والا ثقافتی طور پر واقف چیٹ بوٹ
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — ایل سلواڈور کے AI ٹیوٹرنگ پائلٹ کے سیکھنے کے دعوے کی حد بندی (Restrepo Morales وغیرہ 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — جنوبی افریقی HDIs میں علمی ترقی کار بطور ڈیجیٹل واسطے: ڈیجیٹل عدم مساوات بمقابلہ الگورتھمی نو آبادیات
-- [[ai-ethical-awareness-ghana-students-2026]] — گھانا کے یونیورسٹی طلبہ کی مصنوعی ذہانت سے اخلاقی آگاہی
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — تعلیم میں AI کے اخلاقی اصول: اساتذہ کا سیاق و سباق والا اخلاقی استدلال
-- [[gouroubera-genai-benin-2026]] — بینن کے 633 طلبہ: ہفتہ وار استعمال 92.3 فیصد، کام کا بوجھ غالب محرک، سو رسائی اب باندھنے والی رکاوٹ نہیں (Gouroubera وغیرہ 2026)

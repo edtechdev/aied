@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
+connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
 ---
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
@@ -82,7 +84,6 @@ ai_assist:
 
 - **ضرورية للفائدة، لا مجرد مرتبطة بها.** وضع [[chu-design-students-ai-agent-tam-ttf-2026|Chu وLiu (2026)]] الكفاءة الذاتية في الذكاء الاصطناعي أمام معتقدي القبول لدى 405 من طلاب الدراسات العليا في التصميم، فوجدها أقوى سابق لكليهما: β = 0.458 على الفائدة المُدركة وβ = 0.394 على [[technology-acceptance-model|سهولة الاستخدام المُدركة]]. ويضيف تحليلهم للشرط الضروري شكلًا أقوى من الدعوى من المسار أعلاه. فكانت الفاعلية الشرط الوحيد المُحدَّد كضروري للفائدة المُدركة (d = 0.125، p = 0.015). والفائدة عند 80% و90% و100% من مقياسها اقتضت فاعلية عند 10.0% و30.0% و50.0%. فالثقة تقع إذن أرضيةً تحت الحكم الأداتي لا مساهمًا واحدًا بين عدة. والتصميم مقطعي والنموذج يفسّر R² = 0.150 من النية، فتعامل مع العتبات كما هي داخل العينة.
 
-
 - **قد تحمل آثار السلوك الإشارة، لكن التسميات تحدد السقف.** كشف خطّ معالجة في جامعتين عن كفاءة ذاتية منخفضة من آثار التفاعل؛ وتفوّقت تسميات مناسبات الاستبيان على تقسيم منتصف الفصل، وسمّى مقياس MSLQ الفرعي وحده بجودة الأداة الكاملة ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## المفاهيم الخاطئة الشائعة
@@ -91,51 +92,3 @@ ai_assist:
 - **«مزيد من استخدام الذكاء الاصطناعي مع ثقة منخفضة استراتيجية تكيّف غير ضارة.»** النتيجة نفسها تربط ذلك التوجيه بـ**درجات أدنى**، فالنمط التكيّفي له كلفة قابلة للقياس لا أنه خيار محايد.
 - **«الثقافة وحدها تبني الثقة.»** مسح [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] **450 طالبًا جامعيًا** يستخدمون ChatGPT بالفعل ووجد **الثقة محورًا بين الثقافة والثقة بالنفس**. فالمسار يمرّ عبر الثقة، لذا فرفع الثقافة دون معالجة الثقة يترك الآلية دون مساس.
 - **«مقوّمات الكفاءة الذاتية متجانسة في جمهرة من ذوي الإعاقة.»** وجد تحليل للمقوّمات الكامنة على **102 طالب جامعي من ذوي الإعاقات الحركية** في إسبانيا **ثلاثة مقوّمات**، إذ بلغت الفئة المنخفضة **29.4%** وانقسم الباقي بين مقوّمين متوسط وأعلى. فمعاملة الجماعة كجمهرة واحدة تتوسط على حالات تحفيزية متمايزة.
-
-## المفاهيم المرتبطة
-
-- [[learners]] — المتعلّمون: المظلة الشاملة لمفاهيم جانب المتعلّم
-- [[self-directed-learning]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[agency]]
-- [[educational-robotics]]
-- [[self-report-measures]]
-- [[social-emotional-learning]] — التعلّم الاجتماعي العاطفي
-
-## المقالات المرتبطة
-
-- [[ai-proof-learning-cognitive-offloading-2026]] — دعم استدلال الطلاب أم استبداله؟ التفريغ المعرفي في تعلّم البرهان المعان بالذكاء الاصطناعي (Chen et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — تابع استخدام الذكاء الاصطناعي العام كفاءة ذاتية أعلى وغيابًا أعلى، لكن الكفاءة الذاتية لم تتنبأ بالحضور (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — روبوتات المحادثة بالذكاء الاصطناعي في التعليم العالي: مقارنة التوقعات بالأدلة (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — ثقة ترتفع بينما ينمو الاعتماد التكنولوجي: الكفاءة الذاتية كنتيجة مضلّلة في عصر الذكاء الاصطناعي (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — يرفع الإرشاد الإلكتروني المدعوم بالذكاء الاصطناعي الكفاءة الذاتية والذكاء العاطفي لمدرّسي الإنجليزية كلغة أجنبية قبل الخدمة (شبه تجريبي)
-- [[aigc-affordance-student-self-regulation-2026]] — ميزات AIGC والتنظيم الذاتي للطالب
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — ثقافة الذكاء الاصطناعي وجاهزيته والقدرة على التكيّف الوظيفي
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — تعليم المدرّسين لثقافة الذكاء الاصطناعي (نظرية تقرير المصير)
-- [[social-robot-study-companions]] — الروبوتات الاجتماعية كرفاق للدراسة
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — إطار HCAP
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — أنماط استخدام الذكاء الاصطناعي التوليدي والكفاءة الذاتية الأكاديمية
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — مقياس AI-PBLS؛ التمكين والوعي الأخلاقي يتوسطان العلاقة بين التعلّم القائم على المشاريع والرضا في مقررات ثقافة الذكاء الاصطناعي (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — التنبؤ بتسرّب الطلاب في البرمجة التنافسية
-- [[genai-xr-architectural-design-education-2026]] — الذكاء الاصطناعي التوليدي والواقع الممتد في تعليم التصميم المعماري التعاوني: دراسة استوديو استكشافية
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — ثقافة الذكاء الاصطناعي والثقة والكفاءة الذاتية الأكاديمية في سلسلة تسلسلية إلى الاستخدام المستمر لـChatGPT
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — مُقوّمات الكفاءة الذاتية الأكاديمية واستخدام الذكاء الاصطناعي المُبلَّغ بين طلاب الجامعات من ذوي الإعاقات الحركية
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — مكاسب الكفاءة الذاتية الإبداعية المُبلَّغة من الذكاء الاصطناعي التوليدي عند الأطفال (مراجعة نطاقية)
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — الكفاءة الذاتية في التحدث تقلب مسار القلق من التدريب المساعد بالذكاء الاصطناعي إلى الاستعداد
-- [[faculty-ai-well-being-social-supports-2026]] — نموذج معادلات بنيوية لأعضاء هيئة التدريس: الكفاءة الذاتية التكنولوجية متنبئ ضعيف برفاه الذكاء الاصطناعي
-- [[cen-self-efficacy-favorability-2026]] — الكفاءة الذاتية والتفضيل تُشكّلان التعلّم من أنظمة التدريس والتدريب الورقي (Cen et al. 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — تنبّأ مقياس الكفاءة الذاتية في الكتابة بمزيد من استعلامات الترجمة والمراجعة، ولا بمزيد من التخطيط أو تفويض المقال كاملًا (Jelson et al. 2026)
-- [[somny-ml-self-efficacy-interaction-traces-2026]] — قياس اعتقاد الكفاءة الذاتية بالتعلّم الآلي عبر آثار تفاعل المتعلّمين في التعلّم المعزّز بالتقنية
-- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — الكفاءة الذاتية في الذكاء الاصطناعي ← ثقافة الذكاء الاصطناعي ← قبول الذكاء الاصطناعي، مع قياس الحصة المتوسطة بالمعرفة (İşbulan et al. 2026)
-
-- [[chu-design-students-ai-agent-tam-ttf-2026]] — الكفاءة الذاتية شرطًا ضروريًا للفائدة المُدركة، مع عتبات عنق الزجاجة (Chu & Liu 2026)
-
-
-- [[kim-overtrust-ai-literacy-2026]] — تنبّأت الكفاءة الذاتية الأكاديمية بمزيد من الثقة المفرطة في الذكاء الاصطناعي بدلًا من أقل منها

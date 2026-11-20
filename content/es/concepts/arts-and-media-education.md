@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
@@ -98,28 +100,3 @@ Otros dos hallazgos complican cualquier relato simple de las herramientas genera
 **«La IA en la enseñanza de taller sustituye a la crítica.»** El planteamiento construccionista de esta literatura es el contrario: un «micromundo» diseñado que **amplía el espacio de búsqueda creativa sin sustituir el pensamiento de diseño**. La crítica es donde se forma el juicio, y una herramienta que aporta soluciones candidatas da a la crítica más material con el que trabajar, no menos necesidad de ella.
 
 **«El estudiantado no usa ya la IA en la educación artística, así que el currículo puede marcar el ritmo.»** La evidencia de encuesta encuentra que casi el **70% del estudiantado de arquitectura ya usa herramientas de IA de forma independiente**. El currículo va por detrás de una práctica que ya se ha extendido, lo que cambia la tarea de introducir a integrar críticamente.
-
-## Conceptos conectados
-
-- [[creativity]]
-- [[design-thinking]]
-- [[generative-ai]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[virtual-and-augmented-reality]]
-- [[discipline-specific-aied]]
-- [[design-education]]
-- [[music-education]]
-- [[humanities-education]]
-- [[design-education]]
-
-## Artículos conectados
-
-- [[project-based-digital-storytelling-art-design-2026]] — Un trabajo final de narrativa digital de 15 semanas con 426 estudiantes: novedad fuerte, integración débil, la IA como herramienta y no como autora (Tian et al. 2026)
-- [[t2i-competence-paradox-2026]] — Aceptación del texto a imagen entre 417 estudiantes de arte y diseño, y la paradoja de la competencia del uso selectivo (Liu, Meng y Zhang 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — Instrucción en realidad virtual asistida por LLM para la iluminación escénica, y la brecha entre las representaciones de expertos y de novatos (Liang et al. 2026)
-- [[playing-bias-epistemic-games-text-to-image-2026]] — Jugar con el sesgo: juegos epistémicos para interpretar los modelos de texto a imagen (Foka 2026)
-- [[zhu-creative-agency-trust-genai-art-2026]] — La agencia creativa, la confianza y la calidad de la salida valorada por expertos en estudiantes de arte

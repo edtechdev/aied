@@ -19,12 +19,13 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
+connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
 
 > **مدد طلب کرنا** — سیکھنے والے کا وہ عمل جس میں وہ مدد کی ضرورت کو پہچانتا ہے اور حکمتِ عملی کے ساتھ اس کی درخواست کرتا ہے، اور یہ عمل AI کی معاونت والے سیکھنے کے ماحول میں کیسے ظاہر ہوتا ہے۔ [[ai-education|تعلیم میں AI]] میں مدد طلب کرنا اس بات کا مرکز ہے کہ AI اوزار سیکھنے کو سہارا دیتے ہیں یا اسے کمزور کرتے ہیں: مدد طلب کرنے کا *معیار* (کب، کیسے، اور سیکھنے والے کیا مانگتے ہیں) نتائج کو شدت سے متعین کرتا ہے، اور AI ٹیوٹر، اشارے اور [[pedagogy|تدریسی]] ایجنٹ بالکل اسی لیے ڈیزائن کیے جاتے ہیں کہ وہ جواب طلب کرنے کے بجائے کارآمد مدد طلب کرنے کی طرف راغب کریں۔([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
 
 پہل کر کے رابطہ کرنا سیکھنے کے مواد میں کسی تبدیلی کے بغیر بھی مدد طلب کرنے میں اضافہ کر سکتا ہے۔ بڑے اندراج والے انڈرگریجویٹ کورسوں میں کیے گئے ایک پیشگی رجسٹرڈ تجربے نے طلبہ کو ایک تعلیمی چیٹ بوٹ کے ذریعے پیغام بھیجا اور پایا کہ ٹیوٹرنگ اور اضافی تدریس کو قبول کرنے کی شرح بڑھ گئی؛ ثالثی تجزیے نے گریڈ پر پڑنے والے اثر کا 17.8% اسی بڑھے ہوئے مدد طلب کرنے سے منسوب کیا (p = 0.041) ([[chatbot-outreach-course-performance-2026]])۔
 
@@ -113,7 +114,6 @@ ai_assist:
 
 **مدد طلب کرنے کا رجحان صرف اس کی سطح نہیں، منتقلی کی پیشگوئی کرتا ہے۔** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] نے LLM کے ساتھ ریاضی کے مسائل ماڈل کرنے والے 112 ثانوی طلبہ کے 880 موڑ کوڈ کیے اور پایا کہ جامد مرکب بے معنی ہے: 81.5% موڑ درخواستیں تھے، صرف 2.2% واضح جانچ، اور درخواستوں میں 54% فہم پر مبنی تھیں بمقابلہ 46% جواب طلب کرنے والی۔ بغیر AI کے لیے گئے بعد از امتحان کی کارکردگی کی پیشگوئی اس کی سطح کے بجائے سیشن کے اندر ڈھلان نے کی۔ فہم پر مبنی مدد طلب کرنا پوری گفتگو میں کم ہوا (M = −0.20)، اور اس رجحان نے ایسے ماڈل میں ΔR2 = .110 کا اضافہ کیا جس میں پہلے ہی پیش از امتحان سکور موجود تھا (β = .34, p < .001)۔ جامد تعامل کی خصوصیات نے صرف ΔR2 = .023 کا اضافہ کیا (p = .684)۔ پس مدد طلب کرنے کے معیار کو ایک منحنی خط کے طور پر پڑھنا ہوگا: ایسا سیشن جو تصوراتی سوالات سے شروع ہو اور جواب کی درخواستوں پر جا ٹھہرے، کمزور بغیر مدد کارکردگی کی علامت ہے، اور واضح خود ضابطگی میں معمولی اضافے (M = +0.103) نے اس کی تلافی نہیں کی۔
 
-
 **دوسری پائپ لائن یہی سوال بنیادی ڈھانچے کی طرف سے پوچھتی ہے۔** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] استدلال کرتے ہیں کہ انسان-AI کا تبادلہ اپنی الگ قسم کا ڈیٹا ہے: ان کی نمائندگی ایک ہی شے کے طور پر اس کمپیوٹیشنل حالت کو، جو درخواست کا سبب بنی، خود درخواست کو، جواب کو، اس پر صارف کی جانچ کو اور اس کے بعد کی عمل آوری کو ریکارڈ کرتی ہے۔ پھر سوالات کو اس سیاق کی بنیاد پر غلطی کی بحالی، اگلے قدم پر پھنس جانا، تصوراتی مدد یا تصدیق کے طور پر درجہ بند کیا جاتا ہے۔ 140 طالب علم-اسائنمنٹ جوڑوں پر پھیلی 35 طلبہ کی JupyterLab تعیناتی میں، محض تعامل کی گنتی کامیابی سے عمل میں آنے والے خلیوں کے ساتھ صرف r = 0.12 پر متعلق تھی، جبکہ 37 جوڑوں کے پاس رسائی تھی اور انہوں نے کبھی استعمال نہیں کیا اور 26 نے اسے اپنی مقرر کردہ شرط سے باہر استعمال کیا۔
 
 ## ڈیزائن اور تحقیق کے لیے مضمرات
@@ -129,52 +129,3 @@ ai_assist:
 - **"جن طلبہ کو مدد کی ضرورت ہوتی ہے وہ مانگتے نہیں۔"** بڑے اندراج والے انڈرگریجویٹ کورسوں میں ایک **پیشگی رجسٹرڈ تجربے** نے طلبہ کو تعلیمی چیٹ بوٹ کے ذریعے پیغام بھیجا اور **ٹیوٹرنگ اور اضافی معاونت کی زیادہ قبولیت** پائی۔ نفسیاتی ترغیب نے رویہ بدل دیا، پس رکاوٹ رضامندی نہیں بلکہ [[prompt-engineering|ترغیب]] تھی۔
 - **"مدد طلب کرنے کی درخواستیں سیکھنے سے متعلق ہوتی ہیں۔"** **عملی معاونت کی طلب** اس مفروضے کو پیچیدہ بناتی ہے: **4,093 سوالات** میں کم از کم **20.4% نے علم کے بجائے کسی زیرِ التوا جمع کرانے کی کیفیت** کے بارے میں پوچھا۔ مدد کی طلب کا پانچواں حصہ انتظامی تھا۔
 - **"AI ٹیوٹر استعمال کرنا اپنی سیکھائی کی نگرانی کرنے کے برابر ہے۔"** GenAI ٹیوٹر استعمال کرنے والے **98 نویں جماعت کے طلبہ** کے مطالعے میں تعاملات پر **اوزاری درخواستوں کا غلبہ تھا اور اپنی سیکھائی کی نگرانی یا جانچ تقریباً نہیں تھی**۔ جواب مانگنا اس معنی میں مدد طلب کرنا نہیں جو اس تصور کا مطلب ہے۔
-
-## منسلک تصورات
-
-- [[learners]] — سیکھنے والے: سیکھنے والے کی طرف کے تصورات کی چھتری
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[affective-tutoring]]
-- [[feedback]]
-- [[active-learning]]
-- [[agentic-ai]]
-- [[student-support-and-success]] — ادارہ جاتی رابطہ اور معاونت کی تقسیم، جو کورس کے اندر مدد طلب کرنے سے آگے ہے
-
-## منسلک مضامین
-- [[leite-its-k12-meta-analysis-2025]] — کون سے ٹیوٹرنگ سہارے اثر اٹھاتے ہیں: خودکار اشاروں پر طلب پر دستیاب مثالیں اور اشارے
-
-- [[taufer-human-ai-interaction-haidl-2026]] — تعاملات بطور اوّل درجے کا ڈیٹا: کسی سوال کو اس کے گرد کی عمل آوری کی حالت سے درجہ بند کرنا
-- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — مدد طلب کرنے کا رجحان، نہ اس کی سطح، بغیر معاونت ریاضی کی کارکردگی کی پیشگوئی کرتا ہے
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — براہِ راست پروگرامنگ کورس میں اگلی جمع کرانے کی درستگی، کوششوں اور وقت کے مقابلے میں اشارے کی طوالت کی پیمائش
-- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — ایسا معاون ایجنٹ جسے کسی نے نہیں بلایا (Humburg et al. 2025)
-
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: قلم پر مبنی، موقع پر موجود، LLMs سے فائدہ اٹھانے والا تعاملی سوال و جواب نظام
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM میں LLM کے واسطے سے مدد طلب کرنا: تہہ دار، اوزاری اور تصدیق شدہ
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — ایک کلک کی دوری پر: دو سالہ اسکولی تجربے میں Khanmigo
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — CAL کے ساتھ مجازی ٹیوٹرنگ: قبولیت اور سیکھنے کا ایک تجربہ
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI کورس میں طالب علم–LLM مکالموں کا StudyChat ڈیٹا سیٹ
-- [[lak2026-hint-button-unproductive-use]] — ITS میں وقت سے پہلے اشارے کی درخواست اور اشاروں کی سطحی خواندگی کم سیکھنے کے فائدے کی پیشگوئی کرتی ہیں
-- [[ai-fallibility-warning-help-seeking]] — AI کی خطاپذیری سے خبردار کرنا ریاضی کے ٹیوٹرنگ نظام میں مدد طلب کرنے میں اضافہ کرتا ہے
-- [[regulating-ai-tutor-adolescent-srl]] — نوعمروں میں GenAI سے مدد طلب کرنے اور خود ضابطگی والی سیکھائی میں ارادے اور رویے کا فاصلہ
-- [[guided-llm-scaffolding-independent-learning]] — رہنمائی والا LLM سہارا استدلال پر مرکوز مدد طلب کرنے اور خودمختار سیکھنے کو بہتر بناتا ہے
-- [[rethinking-scaffolding-llm-tutors]] — حقیقی دنیا کی LLM ٹیوٹر تعیناتیوں میں سہارے اور طالب علم کی قبولیت کی عدم مطابقت
-- [[uneven-impact-generative-ai-student-learning-2026]] — ابتدائی انحصار: خودمختار سوچ، تلاش یا مدرس سے پہلے GenAI سے مشورہ فائدے اور نقصان دونوں کی پیشگوئی کرتا ہے (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — آن لائن کمپوزیشن میں وسائل کی خواندگی: رکاوٹ یہ پہچاننا ہے کہ مدد کب درکار ہے (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — تعلیمی معاونت تک راہوں میں رکاوٹیں کم کرنا: اعلیٰ تعلیم میں مدد طلب کرنے کی تفاوتوں سے نمٹنے کے لیے کورس مخصوص RAG نظام کی جانچ
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — موافق سہارے کو مشروطیت درکار ہے: ایک AI ٹیوٹر جو سیکھنے والے کے فعل پر اوپر چڑھتا اور مدھم ہوتا ہے
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: مسئلہ حل کرنے کے دوران نشانہ بنائی گئی AI مدد طلب کرنے کو سہارا دینا
-- [[guided-ai-tutor-impasse-resolution-2026]] — رہنمائی والے AI ٹیوٹر طلبہ کے تعطل کو کیسے حل کرتے ہیں، اس میں تفاوت کا جائزہ
-- [[student-query-demand-hybrid-ai-support-2026]] — طلبہ اصل میں کیا پوچھتے ہیں: ایک ہائبرڈ معاونت نظام میں طلب کی ساخت اور آٹومیشن کی صلاحیت

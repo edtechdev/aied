@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [ai-detection, academic-integrity, benchmark]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -41,9 +42,3 @@ Investigadores que evalúan métodos de detección, administradores que redactan
 ## Notas y advertencias
 
 El conjunto de referencia mide la detección de texto generado por máquinas, no la mala conducta: un estudiante que usa IA para planificar, esquematizar o revisar produce un texto que los detectores no fueron diseñados para captar, y un estudiante que [[language-learning|escribe en una segunda lengua]] es un riesgo conocido de falso positivo que una clasificación no puede mostrar. RAID es un artefacto de investigación mantenido por un equipo académico; su cobertura sigue a los modelos generadores de su conjunto de prueba, por lo que los modelos más nuevos pueden estar infrarrepresentados hasta que se actualice el conjunto de referencia. La clasificación ordena detectores, no las prácticas de tratamiento de datos de sus proveedores, y un AUROC alto no dice nada sobre si enviar trabajos de estudiantes a ese servicio es legal o ético en su jurisdicción.
-
-## Conceptos conectados
-
-- [[ai-detection]] — la familia de métodos que evalúa el conjunto de referencia
-- [[academic-integrity]] — el contexto de política donde se usan las puntuaciones de los detectores
-- [[benchmark]] — la clase más amplia de instrumentos a la que pertenece

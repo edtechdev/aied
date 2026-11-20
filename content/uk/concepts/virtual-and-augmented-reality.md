@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -85,38 +87,3 @@ ai_assist:
 - **«Відчути явище означає зрозуміти його».** Пілотне дослідження виявило, що студенти повідомляли про **відчуття** довжини хвилі та амплітуди через жест рукою сильніше, ніж через повзунок, — але **воно вимірювало сприйняття, а не досягнення**. Відчуття — це афорданс, а чи дало воно розуміння — окремий тест.
 - **«Високі оцінки юзабіліті підтверджують освітній VR-інструмент».** У **годинній сесії з 10 студентами** на Meta Quest 3 дослідження повідомило про **добре юзабіліті за System Usability Scale і мінімальну симуляційну захитливість**. Юзабіліті й комфорт — передумови, і жодне з них не є мірою навчання.
 - **«Згода студентів є доказом афордансу».** З **29 студентами другого курсу з медичної візуалізації** всі 29 **погодилися, що жест допоміг їм «відчути», що таке довжина хвилі (середнє 4,52)**. Одностайна згода щодо відчуття — це самооголошення про досвід, а твердження про афорданс потребує результату, що не залежить від судження студента про власне розуміння.
-
-## Пов’язані поняття
-
-- [[simulation]] — що імерсивні середовища зазвичай відображують; модель, а не модальність
-- [[embodied-learning]] — механізм, який модальність має на меті використати
-- [[multimodal]] — жест, голос і просторове введення як навчальні канали
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — середовище, де імерсивна практика є найбільш усталеною
-- [[generative-ai]] — новий шар створення
-- [[prompt-engineering]] — як непрограмісти будують і вдосконалюють імерсивні інструменти
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — заземлення керівництва всередині гарнітури
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — точність відтворення та усвідомлення здобувачем її меж
-- [[cognitive-offloading]] — затримка та нестабільність як зайвий тягар
-- [[edtech-platform]] — синхронізація, затримка та присутність у багатьох місцях
-- [[arts-and-media-education]]
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Пов’язані статті
-
-- [[genai-ar-physics-simulation-prompt-2026]] — підказка з чотирьох елементів, що генерує керовані руками AR-симуляції фізики; пілот зі 29 студентів, докази лише про сприйняття
-- [[mixed-reality-engineering-learning]] — застосунки змішаної реальності проти фізичних наборів проти аудиторії в інженерній механіці; залученість вища, складна візуалізація все ще важка
-- [[medgame-llm-medical-education-gamification]] — геміфіковане медичне навчання зі ШІ
-- [[tech-enhanced-tabletop-cybersecurity-education]] — доповнені настільні сценарії в освіті з кібербезпеки
-- [[genai-xr-architectural-design-education-2026]] — Генеративний ШІ та розширена реальність у спільній освіті з архітектурного дизайну: дослідницьке студійне дослідження
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: імерсивна VR-студія дизайну з асистентом викладання на основі LLM, оцінена проти традиційного PBL (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: мультимодальне навчання з підтримкою LLM в освіті зі сценічного освітлення VR і де заземлення зазнало краху (Liang et al. 2026)

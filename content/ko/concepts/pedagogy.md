@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
+connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -67,7 +69,6 @@ ai_assist:
 
 - **교수 기법으로서의 은유와 유추.** [[metaphors-and-analogies]]는 유추가 AI를 설명하는 방식, 그것이 무너지는 지점, 그리고 학생들이 그것을 [[critical-thinking|비판적 사고]]의 한 형태로 감사할 수 있는 방법에 관한 증거를 모읍니다.
 
-
 - **AI 리터러시 교수가 지식을 가장 빠르게 움직인다.** 연구 59편(효과크기 172개)에 대한 세 수준 [[meta-analysis-systematic-review|메타분석]]에서, 지식 중심 개입(g ≈ .97)이 기술(≈ .67), 태도(≈ .68), [[ethics]](≈ .64)를 겨냥한 개입을 분명히 앞질렀습니다. 따라서 개념 교수와 지속적 실천을 짝지어야 교수에 저항하는 결과를 겨냥할 수 있습니다([[liu-ai-literacy-interventions-meta-analysis-2026|Liu 외(2026)]]).
 - **교사 실제에서의 교수법.** [[teacher-role]]과 [[teacher-ai-competency]]은 교사가 기존의 교수법적 레퍼토리 안에서 AI를 어떻게 받아들이는지를 살피며, [[llm-training-and-fine-tuning]]과 [[pedagogical-agent]]는 교수법적 원칙을 따르도록 훈련된 AI 도구를 연구합니다.
 
@@ -105,52 +106,3 @@ ai_assist:
 - **"교사에게 가장 필요한 것은 기술적 AI 지식이다."** **교사 46명과 학생 2,832명**에 걸쳐, **교사의 교수법적 AI 지식**이 AI를 사회적 선에 활용하는 것에 대한 학생들의 인식을 예측했습니다. 교수법적 지식이 기술적 지식을 앞질렀으며, 이는 대부분의 연수 투자가 향하는 곳을 뒤집습니다.
 - **"교육에서 AI의 주된 기여는 수업이다."** **연구 28편에 대한 PRISMA 고찰**은 AI가 가장 자주 **수업 계획과 평가 설계**를 향상시켰다고 밝혔습니다. 가장 분명한 기여는 가르침이 아니라 **행정 업무의 오프로딩**입니다. 수업 성과를 중심으로 세운 논거는 증거의 더 약한 가지 위에 세워지는 것입니다.
 - **"AI 리터러시 교수는 자동으로 더 나은 가르침으로 전이된다."** **연구 59편(효과크기 172개)**에 대한 세 수준 메타분석은 **지식 중심 개입(g ≈ .97)**이 지식을 움직이는 데서 다른 접근을 분명히 앞질렀다고 밝혔습니다. 지식을 움직이는 것이 측정된 결과이며, 그것이 실제로 실천에 이르렀는지는 다음 질문입니다.
-
-## 연결된 개념
-- [[pedagogical-partnerships]] — 교수 파트너십
-- [[online-teaching-and-learning]] — 온라인 교수와 학습
-- [[learning-theories]]
-- [[learning-sciences]]
-- [[learning-gains]]
-- [[learning-design]]
-
-- [[metaphors-and-analogies]] — 교수 기법으로서의 은유와 유추
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-
-- [[case-based-learning]] — 교수 기법으로서의 사례 방법과 대조 사례
-
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[learning-by-teaching]]
-- [[self-regulated-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[universal-design-for-learning]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm-training-and-fine-tuning]] — 교수법적 원칙을 따르도록 훈련된 AI 도구
-
-## 연결된 문서
-- [[genai-didactic-pedagogical-mediator-2026]] — 교수법적-교수적 매개자로서의 GenAI: 교수자–학습자–GenAI 삼원 모델(Moganadas 외 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — '교수법 우선, 기술은 다음' — 교수법적 TPAIK가 기술적 TAIK보다 학생 성과를 앞지른다(Shen 외 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — 생성형 AI와의 교수 파트너십
-- [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — 교수적 안내가 GenAI 학습 효과를 규정하는 방식
-- [[generative-ai-guardrails-harm-learning]] — 가드레일(답 대신 힌트) 튜터링이 시험 성적 하락을 없앤다
-- [[agentic-ai-pedagogical-best-practice-2026]] — 에이전트형 AI의 자동화 대 학습 긴장
-- [[jeon-isd-agent-bench-2026]] — 에이전트를 교수설계 이론에 근거지우기
-- [[ai-learning-tools-engineering-education-needs]] — 공학 교육에서의 AI 학습 도구
-- [[fowlin-operationalizing-learning-principles-ai]] — AI로 학습 원칙을 작동화하기
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI와 교수설계 실제: 체계적 고찰(Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 리터러시 개입의 교수적 접근
-
-- [[cognitive-distribution-student-genai-interaction-2026]] — 고정된 의존이 아닌 인지적 분배의 변화로서의 학생-AI 상호작용(확장 53.3%)

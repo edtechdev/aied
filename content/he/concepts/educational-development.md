@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -156,75 +158,3 @@ ai_assist:
 **"אשמה על שימוש ב-AI מעידה על הפרת כללים."** היא עוקבת אחרי הסתרה ולא אחרי גילוי: הגבלת שימוש ב-AI מחמת אי-נוחות הייתה מתואמת עם הסתרתו, ולא עם התנהגות אסורה. קריאת אשמה כראיה להתנהגות בלתי הולמת מפספסת אפוא את מקורה, והתייחסות אליה כאות ציות תדחוף את ההתנהגות הרחק מן העין.
 
 **"שיעור תגובה נמוך בסקר אומר שלסגל אין רגשות חזקים."** המאמר קורא את **109 התגובות שלו (שיעור של 3.5%)** כמידע בפני עצמו על מצב הדיון האתי: תגובה נמוכה לשאלה על אי-נוחות היא ממצא על אי-הנוחות הזו, לא היעדר שלה. ושילוב GenAI שממוסגר כולו כשדרוג מיומנויות מפספס את שאלת הזהות שחלק מן הסגל באמת שואל: מה הטעם של ההוראה בעולם של GenAI.
-
-## מושגים מקושרים
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — מטרייה: אנשים וקהלים יעד בחינוך בינה מלאכותית (לומדים, מורים, מעצבים, מנהלים, קובעי מדיניות)
-- [[metaphors-and-analogies]] — ליקוט מטפורות ועיצוב אנלוגיות בפיתוח סגל
-
-## מאמרים מקושרים
-
-- [[tian-transnational-faculty-development-governance-2027]] — פיתוח סגל חוצה-גבולות: מזכירות, ארכיון מתוארך וממשל משותף הופכים אירועים לתשתית (Tian et al. 2026)
-- [[ji-judgement-space-dialogic-inquiry-2027]] — מרחב השיפוט כממד ולא כפריט כשירות, עם ביקורת תלת-טורית (Ji & Mercer 2026)
-- [[chen-future-faculty-development-ai-2027]] — שבעה תפקידי מורה שיכולים להתחלק על פני צוות הוראה (Chen et al. 2026)
-- [[ho-invariant-core-faculty-development-2027]] — ליבה בלתי-משתנה וקצה זז: סדר עדיפויות לפיתוח סגל (Ho 2026)
-- [[jiang-faculty-development-japan-2027]] — השתתפות עולה בעוד פורמטים עמיתיים נשארים במקום: האילוץ בתפקיד מקצועי מתמשך (Jiang et al. 2026)
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 מורי כימיה בתוכנית בת שישה שבועות: היקף מתועד, שינוי כיתה לא (Ussenbay et al. 2026)
-- [[ma-ai-corpus-language-teaching-coi-2026]] — תוכנית מקוונת בת 20 שבועות עם יותר מ-150 מורי שפה מ-28 מדינות (Ma et al. 2026)
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 מורים סקנדינביים: רווח של 0.20 סטיות תקן בתועלת הנתפסת (White et al. 2026)
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — מה שמורים מבקשים דומה לחניכות: מורים לשעבר, מדריך בן עמוד, וזמן תכנון (Dangol et al.)
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% מהמוסדות משדרגים סגל קיים במקום לגייס (EDUCAUSE 2026)
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 מחנכים שבנו כללים משלהם בהיעדר הנחיה (Rameskumar et al. 2027)
-- [[bodek-prompted-to-explore-microlearning-2026]] — מודל מיקרו-למידה לפי הזמן שיש לסגל בפועל (Bodek 2026)
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — פיתוח כשכבה חוזרת של תמיכה מוסדית ולא כאירוע (AALHE)
-- [[bursic-ai-residency-education-curriculum-2026]] — התמחות AI בחינוך הרפואי: פיתוח סגל כמנגנון ולא כתוספת (Bursic et al.)
-- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 מקורות לגיל הרך, ופיתוח מחנכים כאחד מארבעת הנושאים
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — חידוש תכניות CTE חושף פער יכולת ומגיע לפיתוח סגל (Wang 2026)
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 מורים: מעורבות בפיתוח מקצועי מתווכת בין מוטיבציה לכוונת שימוש (Yuan et al. 2026)
-- [[jordan-faculty-ai-oer-creation-2025]] — שבעה אנשי סגל, שמונה שבועות, מלגה והסכם איגוד כחלק מההתערבות (Jordan et al. 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — ניתוח דיסקורס ביקורתי של ייעוץ יישור GenAI: מפתחים ממוצעים כמאמני טכנולוגיה
-- [[crompton-faculty-technology-integration-standards-2026]] — תקני סגל לשילוב טכנולוגיה (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — ממדים אתיים של בינה מלאכותית: תצפיות סגל וסטודנטים
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — כיצד מטאפורות של סגל הנדסה בונות (ומגבילות) הבנת בינה מלאכותית
-- [[fear-awe-genai-metaphor-workshops-2025]] — פחד ופליאה: עשיית משמעות של בינה מלאכותית גנרטיבית באמצעות מטאפורה (סדנת מטאפורות לסגל/צוות/סטודנטים)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — ניהול הבלתי-נראה: אוריינות בינה מלאכותית בקרב מורי שפה
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI כמשבר זהות, לא כפער מיומנויות
-- [[zuo-instructor-power-genai-writing-2026]] — יחסי כוח נתפסים על ידי מדריכי מכללה המתמודדים עם GenAI בכתיבה (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — מודל המשולש ההגותי: בינה מלאכותית כמתווכת קוגניטיבית
-- [[sutedjo-faculty-genai-tpack-21-2026]] — ידע TPACK-21 נתפס-עצמית של סגל לגבי GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — פיתוח מקצועי Intelligent-TPACK: נוכחות חוזה שיפורים, מעורבות נתפסת-עצמית אינה חוזה
-- [[instructional-design-proficiency-masters-math-2026]] — מודל כיתות חכמות ולולאת D-T-E המשפרים מיומנות עיצוב הוראה ב-M.Ed. במתמטיקה (Zhu ואח'. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — ארכיטקטורה של תפקידים בפעילויות קבוצתיות מבדלות מעוצבות-בינה מלאכותית (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — חוויות ותפיסות מורי אוניברסיטה לגבי GAI: פגיעות, חשיבה מחודשת על הערכה, למידת סטודנטים בסיכון (Farazouli ואח'. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — מפחד לחדשנות: מכון סגל בן שישה שבועות, פדגוגיה סימביוטית, והתנאים המוסדיים שלא יכל לספק
-- [[vassallo-ai-guilt-complex-faculty-2026]] — מתחם אשמת הבינה המלאכותית: אשמה מוקדמת, הסתרה והבדלים בשלב קריירה בקרב אנשי סגל (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — סקר AAC&U/Elon של 1,057 אנשי סגל אמריקאים: אי-מוכנות מוסדית, ממשל דק ופער מדיניות של 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — מפתחים אקדמיים כמתווכים דיגיטליים בהשכלה גבוהה של הדרום הגלובלי: פיתוח כפרקסיס סוציו-טכני
-- [[physics-faculty-learning-community-ai-2026]] — סדרת סדנות לשימוש יעיל בבינה מלאכותית בעיתות אי-ודאות: בניית קהילת למידה של סגל פיזיקה
-
-- [[faculty-ai-well-being-social-supports-2026]] — רווחת בינה מלאכותית של סגל עוקבת אוריינות בינה מלאכותית ולא יעילות עצמית טכנולוגית
-- [[ai-competence-framework-landscape-2026]] — בדקו מה מתארים שלבי המסגרת לפני אימוצה
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — האם החינוך יכול לקבוע את סדר היום ל-AI? חדשנות מדומה וכיוון פדגוגי בהכשרת מורים
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — ארבעה קריטריונים וארבע מטפורות להוראת אוריינות AI ביקורתית

@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -111,61 +113,3 @@ ai_assist:
 **"יכולת רב-מודאלית היא סולם אחד, ולכן המודל הטוב ביותר בכלל הוא גם הטוב ביותר למשימה עשירת-תמונות."** היכולת ספציפית למשימה, ומודל שמוביל ב[[benchmark|בנצ'מרקים]] כלליים יכול לפגר בדיאגרמות כוח. בדיסציפלינות עשירות-תמונה המבחן הרלוונטי הוא זה שהמשמעות מוטמעת בו בתרשים.
 
 **"מגבלות חונכות טקסטואלית בלבד הן מטרד ולא בעיה של [[curriculum-design|תכנית לימודים]]."** בדיסציפלינות שבהן הדיאגרמה *היא* הבעיה — פיזיקה, כימיה, גאומטריה, הנדסה, רפואה — גבול הכשירות של חונך טקסטואלי בלבד נופל על פני התוכן הנבחן ולא בשוליו.
-
-## מושגים מקושרים
-
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות של בינה מלאכותית (מודלים, אימון מודלים לשוניים גדולים, רובוטיקה, RAG, סוכניות)
-- [[virtual-and-augmented-reality]] — מחוות, קול וקלט מרחבי כערוצי למידה
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-- [[sensor-and-gaze-analytics]]
-
-## מאמרים מקושרים
-- [[elkington-human-centred-assessment-value-2026]] — Human-centred assessment, assemblages and generative constraints (Elkington 2026)
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — הרכבת הודעת שירות ציבור בוידאו על אתיקת בינה מלאכותית כפדגוגיית אוריינות AI ביקורתית (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — ביצועי מודל חזותי-לשוני על עבודת מתמטיקה של סטודנטים בכתב יד (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — מדריך למחנכים ללמידה רב-מודאלית עם בינה מלאכותית יוצרת (מודל MMLD-AI)
-- [[syal-multimodal-dialogue-stem-2026]] — אפקט ההפרעה הרב-מודאלית ושחזור דו-שיח מובנה ב-STEM
-- [[multimodal-ai-feedback-learning]] — משוב בינה מלאכותית רב-מודאלי מתאים למחנכים בלמידה, עולה עליהם בתפיסאות
-- [[multimodal-prompting-ai-literacy]] — הנחיה רב-מודאלית של סטודנטים כעבודה אפיסטמית באוריינות AI
-- [[multimodal-item-parameter-estimation-2026]] — אומד פרמטרי פריט IRT עם מודלים לשוניים גדולים רב-מודאליים
-- [[ai-guided-learning-audiovideo-2026]] — תמיכת למידת שמע-וידאו מונחית-בינה מלאכותית
-- [[multimodal-knowledge-graph-educational-reasoning]] — גרפי ידע רב-מודאליים להסקה חינוכית
-- [[mllm-scientific-visualization-literacy]] — אוריינות מודל לשוני גדול רב-מודאלי לויז'ואליזציה מדעית
-- [[multimodal-affective-its-presentation]] — אותות רב-מודאליים בחונכות חכמה אפקטיבית
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — חונכות מתמטיקה רב-מודאלית אפקטיבית
-- [[llm-cognitive-diagnosis-handwritten-math]] — אבחון קוגניטיבי של מתמטיקה בכתב יד עם מודל לשוני גדול
-- [[nuclear-diffusion-text-to-image-learning-2026]] — למידת טקסט-לתמונה בחינוך הנדסה גרעינית
-- [[privacy-aware-classroom-incident-recognition-2026]] — גילוי אירועי כיתה רב-מודאלי מודע-פרטיות
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — הוראת OCR רב-מודאלי בחינוך סייבר
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: בונצ'מרקינג מודלים לשוניים גדולים רב-מודאליים לביקורת שקופיות
-- [[ai-grading-handwritten-physics-2026]] — דירוג בינה מלאכותית של הערכות פיזיקה בכתב יד (אולימפיאדה)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — הרכבת בינה מלאכותית רב-מודאלית וחשיבה ביקורתית בכתיבה יסודית (Lu et al. 2027)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 משימות מעל 1,174 יצירות אמנות מראות יכולת מודל חזותי-לשוני כפרופיל ספציפי-ממד, החלשה ביותר בפרשנות אפקטיבית ובהסקה מרחבית תלוית-נקודת-מבט (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[kim-ai-embodied-learning-review-2026]] — בינה מלאכותית בלמידה מגופנת בעיקר מתבוננת: תפקידי חישה ב-62.5% מתגי התפקיד המקודדים, ואף מערכת שנסקרה לא מיזגה זרמים רב-מודאליים בזמן למידה (Kim & Han 2026)

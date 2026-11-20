@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -102,38 +104,3 @@ El fracaso productivo conecta con [[learning-theories|las teorías del aprendiza
 - **«Retener la ayuda frustra al estudiantado y cuesta motivación.»** Un [[rct|ensayo controlado aleatorizado]] de tres brazos encontró que un tutor que retenía las pistas **igualaba a ChatGPT sin restricciones en la reducción de la frustración y en** la motivación: el coste apareció **solo en la preferencia**. Al estudiantado no le gustó tanto y no lo pasó peor, lo que significa que los datos de preferencia habrían rechazado el diseño que funcionaba.
 - **«Más frustración significa más aprendizaje.»** El tutor escalonado resultó **0,42 puntos de escala más frustrante que el tutor que respondía a petición (p < 0,001) y 0,29 menos frustrante que** el brazo más frustrante. El rango productivo es un punto medio y no un máximo, así que la «dificultad deseable» no autoriza a hacer la tarea más difícil indefinidamente.
 - **«El fracaso productivo significa que el profesorado no debe ayudar.»** El diseño retiene *la respuesta* mientras proporciona estructura y escalonamiento. Retener una pista y retener el apoyo son intervenciones distintas, y solo la primera es la que tiene evidencia aquí.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — El intento antes de la instrucción como secuencia completa, con su escasa base de evidencia
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — Los casos como espacio de problema compartido para el primer intento
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Artículos conectados
-
-- [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA para apoyar el aprendizaje basado en el fracaso productivo
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Orientación pedagógica de los LLM para el fracaso productivo
-- [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoyar el diseño de problemas de FP
-- [[wang-safety-gap-productive-struggle-2026]] — La brecha de seguridad: recuperar el esfuerzo productivo
-- [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo
-- [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Retener las soluciones evitó el coste de frustración pero perdió en la preferencia del estudiantado
-- [[shen-ai-skill-formation-2026]] — Mediana de 3 errores sin IA frente a 1 con ella, y puntuaciones un 17% más altas en una prueba sin ayuda (Shen y Tamkin 2026)
-

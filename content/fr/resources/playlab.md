@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -44,8 +45,3 @@ Les enseignants et les districts de la maternelle au lycée qui veulent des cont
 
 ## Remarques
 L'accès au générateur d'applications est restreint : la page de démarrage demande une adresse électronique et une place dans un atelier d'initiation, ou un code d'invitation. Ses déclarations de conformité (FERPA, COPPA, RGPD, CCPA, SOC 2 Type II), la promesse que votre travail ne sert jamais à entraîner de modèles externes et l'attribution des droits sur les productions au créateur doivent figurer dans l'accord de traitement des données, et pas seulement sur la page marketing ; sa comparaison de fonctionnalités avec MagicSchool et les principaux agents conversationnels est celle de Playlab, datée de la mi-2026. Elle est issue de travaux sur la programmation par les utilisateurs finaux, liés à Scratch et au MIT Media Lab.
-
-## Concepts liés
-
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
-

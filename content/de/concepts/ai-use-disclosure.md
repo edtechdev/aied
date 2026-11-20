@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
+connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -98,45 +100,3 @@ Offenlegung der KI-Nutzung liegt an der Schnittstelle von [[academic-integrity|a
 - **„Studierende verbergen KI-Nutzung, weil sie unehrlich sind."** Die Treiber sind dokumentiert und spezifisch: nur **etwa 34% der Wirtschaftsstudierenden gaben KI-Nutzung zu**, wobei Offenlegung seltener war, getrieben von **Strafangst**, während eine andere Studie **66%** fand, die **nie oder selten offenlegten**, mit **Angst vor akademischer Strafe als häufigstem Grund**. Das Politikdesign, nicht der Charakter, ist es, was die Daten belasten.
 - **„Eine Offenlegungspflicht ist eine billige Kontrolle."** Eine **Nichtbefolgungsquote von 74%** macht den resultierenden Datensatz schlechter als keinen Datensatz: Es ist ein Datensatz, der vollständig wirkt und es nicht ist, sodass die Institution Entscheidungen auf einer Stichprobe trifft, der sie nicht trauen kann.
 - **„Zu offenzulegen, wie das Modell genutzt wurde, reicht."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argumentiert, Offenlegung dokumentiere die Modellnutzung, während verantwortungsvolle Nutzung einen Urheberschaftsanspruch auf Aussagenebene erfordere — die Fähigkeit der beitragenden Person, die Aussagen zu verstehen, zu begründen und zu verteidigen —, was [[cognitive-offloading|kognitive Delegation]], bei der Ausgaben substanzielle Entscheidungen prägen, von routinemäßiger Delegation trennt, bei der das nicht geschieht.
-
-## Verbundene Konzepte
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]] — der Schaden, den Offenlegung sichtbar machen soll
-- [[ai-detection]]
-- [[parents-and-families]]
-- [[social-norms-ai-use]] — warum Lernende sich entscheiden zu verbergen statt offenzulegen
-
-## Verbundene Artikel
-
-- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — Eine Trennung im SEM: Entdeckungsgewissheit vs. das Risiko, dass eine Deklaration unzulässige Nutzung offenlegt (Liu et al. 2026)
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Die Spiegelrichtung: Studierenden mitteilen, wenn KI ihre Arbeiten bewertet, und sie vor dem Hochladen fragen
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Jenseits der Detektion: wie Studierende KI in Online-Prüfungen einsetzen und verbergen
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Offenlegung der KI-Nutzung durch Studierende, Stigma und selbstreguliertes Lernen
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Die verborgenen Kosten der Offenlegung: Offenlegung und Beschuldigungen durch Lehrende
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Nichteinhaltung von KI-Nutzungsdeklarationen durch Studierende
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Deklarationen als Bildung statt als Detektion
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Die Kosten der Ehrlichkeit als Gestaltungsschwelle in der Leistungsbeurteilung
-- [[student-perspectives-ai-writing-grading-2026]] — Wer sollte meine Arbeit bewerten? Perspektiven von Studierenden auf transparente KI-gestützte Bewertung von Schreibarbeiten in der Hochschulbildung
-- [[qian-governing-genai-higher-ed-policy-2026]] — Offenlegung als Grenze zwischen Unterstützung und Täuschung an 50 innovativen US-Universitäten (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Kein Konsens zu Offenlegung und KI-Zitation in den Richtlinien juristischer Fakultäten (Gutowski & Hurley 2025)
-- [[ai-written-admissions-essays-penalized-2026]] — KI-geschriebene Zulassungsessays sind weit verbreitet, werden aber sanktioniert
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Dreizehn Experimente: Die Offenlegung der KI-Nutzung senkt die Vertrauenswürdigkeit der offenlegenden Person, vermittelt über die Legitimität
-- [[authorial-warrant-ai-supported-scholarship-2026]] — Wenn Offenlegungsregeln nicht genügen: Autorale Gewähr und Urteilsvermögen in KI-gestützter Forschung (Mirończuk 2026)
-
-- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — KI-Offenlegungslabels, wahrgenommene Authentizität und Vertrauen in KI-generierte Lehrvideos
-
-- [[benmessaoud-genai-course-materials-faculty-2026]] — GenAI in Lehrmaterialien: Nutzung und Wahrnehmung durch Lehrende

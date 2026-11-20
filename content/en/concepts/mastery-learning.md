@@ -8,6 +8,8 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-11-14T08:32:58-05:00"
 reviewed_by: [editor]
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 > **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which [[learners|learners]] advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
@@ -58,23 +60,3 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 **"Mastery learning is the pedagogy AI finally makes possible."** Its mechanics predate AI considerably — Bloom formalised the framework decades ago — and AI operationalises it by automating the assessment and pacing decisions rather than by realising a previously impossible design. That reframing matters because the automation inherits the rule choice, and the rule is where the judgment lives.
 
 **"More frequent assessment under mastery makes the threshold more reliable."** Frequency improves the estimate and does not fix a mis-specified rule. Recomputing mastery more often from events that include assisted work converges faster on the same wrong answer.
-
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — retrieval and spacing as the practice engine inside mastery cycles
-
-## Connected Articles
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge tracing overestimates next-session performance and misses the spacing effect (Schuetze, Yan & Carvalho 2025)

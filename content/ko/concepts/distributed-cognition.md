@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
+connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -50,7 +52,6 @@ ai_assist:
 
 - **도구 속성이 아니라 설계 선택으로서의 확장된 인지.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa와 Duarte Arias (2026)]]는 생성형 AI가 인지 과제를 수행하기 때문에 기본적으로 대체적이지만, 같은 시스템이 초안을 비평하거나 학습자가 평가해야 할 피드백을 제공할 때 상호보완적이 된다고 주장합니다. 그들의 확장된 마음 틀은 분석 단위를 인공물과 그 사용으로 만들며, 이는 이 페이지의 분산 질문의 규범적 판본입니다.
 
-
 ## 분산 인지와 관련 관점들
 
 지식 기반은 분산 인지를 서로 겹치지만 동일하지는 않은 이론 전통들과 나란히 다룹니다.
@@ -63,7 +64,6 @@ ai_assist:
 ## 누구의 인지인가? 분석 단위의 문제
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]]는 그 분석 단위 질문을 이 전통의 대부분의 연구보다 더 밀어붙입니다. 그의 주장은 리터러시가 개인의 소유물이 아니라 자료와 기계와 함께 수행되는 것이라는 것이며, 따라서 개별 학습자가 잘못된 분석 단위가 됩니다. 사람을 중심에 둔 역량 프레임워크는 그러므로 기반시설적 또는 비인간적 기여를 등록할 수 없고, 분야는 분산을 명명한 뒤 계속해서 그것을 학습자에게로 되돌려 해결합니다. 형평성 측면의 예리한 지점은 그의 어려움 논증입니다. 성찰성은 살아온 경험과 권력 관계에 달려 있으므로, 언어나 쓰기 실천이 부호화된 규범에서 가장 멀리 있는 학생들이 가장 큰 비용을 부담합니다. 이 논증은 이론적이며 데이터셋을 보고하지 않고, 그 설계 지향은 검증되지 않은 제안으로 남습니다.
-
 
 ## AI 설계와 평가에 중요한 이유
 
@@ -78,33 +78,3 @@ Fowlin et al. (2026)은 그 배분을 2단계 서열로 구현합니다. 먼저 
 - **"공유 문서는 공유 인지를 의미합니다."** **97명 학습자**의 사용량 기반 프로파일은 **사전 지식과 저자십**에서 달랐지만 **능동적 역할이나 이해 수준의 프롬프팅**에서는 다르지 않았습니다. 참여량은 노출을 측정했을 뿐 인지적 작업의 분배를 측정하지 않았으므로, 협업 도구의 사용 [[learning-analytics|분석]]은 누가 사고하고 있었는지에 관해 거의 말해 주지 않습니다.
 - **"모든 사람이 AI에 똑같이 부담을 전가합니다."** 초임 교사는 **교수 설계의 인지 부하 상당 부분을 AI 시스템에 위임**하여 응답을 대체로 받아들이는 **AI 지배적 분배**에 이르는 반면, 경험이 많고 AI에 대한 지식이 있는 교사는 다르게 분배합니다. 전문성은 AI를 얼마나 쓰는가뿐 아니라 부하가 어디에 놓이는가에 나타납니다.
 - **"AI 개입이 많을수록 지원이 많습니다."** AI 지배적 분배는 주의해야 할 유형입니다. 산출량이 늘어나는 동안 인간이 맡는 인지 작업의 몫은 줄어들기 때문입니다. 사용자가 덜 할수록 시스템은 더 유능해 보일 수 있습니다.
-
-## 연결된 개념
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[embodied-learning]]
-- [[situated-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[collaborative-learning]]
-- [[ai-education]]
-
-## 연결된 문서
-
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 분산 인지 + 공동 조절 렌즈를 통한 인간-AI 협업 문제 해결의 경험적 연구
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — 인간과 비인간 행위자에 걸쳐 인지를 재분배하는 교수법적 매개자로서의 AI
-- [[ai-cognitive-partner-co-regulation-learning]] — 공동 조절되는 사고에서의 인지적 동료로서의 AI
-- [[ensemble-cognition-philosophy-ai-education]] — 사고를 인간-AI 상호작용으로 재개념화하는 Ensemble Cognition 프레임워크
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 생물학적 시스템과 인공 시스템에 걸쳐 인지가 분산된 포스트휴머니즘 학습자
-- [[fowlin-operationalizing-learning-principles-ai]] — 경험 학습 및 상황 학습과 나란히 분산 인지를 구현하기
-- [[cognitive-commons-ai-expertise-regeneration]] — 인지 공유지의 비극: AI와 전문성 재생
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — 수업 설계에서의 교사-AI 상호작용: 경험과 능숙도에 따른 AI 지배적 대 상호보완적 분산 인지(Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — 행위자이자 협업 공간으로서의 GenAI: 접근 구성이 집단 인지를 어떻게 분배하는가(Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — 자기 주도적 ChatGPT 사용으로부터 얻은 다섯 가지 상호작용 유형과 네 가지 역할의 Cognitive Distribution Framework
-- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — GenAI와의 거래 기억: 노동 분업과 성찰적 전환이 비판적 사고를 매개한다(Akgun & Toker 2026)
-- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — 개별 학습자가 잘못된 분석 단위인 이유
-- [[rivera-novoa-genai-extended-cognition-2026]] — 과학 학습에서의 확장된 인지: GenAI는 기본적으로 대체적이고 설계에 따라 상호보완적이다(Rivera-Novoa & Duarte Arias 2026)

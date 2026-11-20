@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -62,7 +64,6 @@ ai_assist:
 **Считайте записи, а не исследования, когда обзор сообщает частоты.** В обзоре охвата, который дошёл до 31 исследования из 21 720 записей, пять исследований дали 62 из 192 записей о практике, поэтому проценты описывают извлечённый материал, а не независимые наблюдения или распространённость ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]]).
 - **Выявление модераторов и условий** — мета-анализ проверяет, различаются ли эффекты по [[learners|популяции учащихся]], предметной области, типу системы ИИ или дизайну исследования, раскрывая, для кого и при каких условиях инструмент работает. Однако модератор надёжен ровно настолько, насколько надёжны лежащие в его основе исследования: в [[genai-writing-performance-meta-analysis-2026|мета-анализе 2026 года по письму на втором языке с поддержкой GenAI]] единственным модератором, выдержавшим методологический контроль, стала классификация исследований по риску систематических ошибок, тогда как различие между моделями инструктажа, выглядевшее значимым в подгрупповом анализе, исчезло, как только в модель были введены качество исследования и размер выборки. Методологическое качество, а не педагогика, определило эффект, — поэтому кажущиеся педагогическими модераторы заслуживают того же пристального изучения, что и объединённые оценки. Нулевые модераторы несут тот же урок в обратном направлении. В [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|мета-анализе Чен и Вэя по цифровым технологиям и ИИ для навыков иностранного языка]] (40 исследований, 3 367 участников, объединённое g = 0,962) сохранились модераторы дизайна исследования (квазиэксперименты g = 1,019 против настоящих экспериментов g = 0,474), длительности вмешательства и количества инструментов, тогда как тип языкового навыка, тип технологии, уровень образования, среда и размер выборки не показали значимого межгруппового различия, что позволило авторам заключить, что эффективность нельзя отнести на счёт технологической метки или категории навыка. В [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|мета-анализе Юй и коллег по ИИ-образованию в K-12]] (16 исследований, 57 размеров эффекта, g = 0,892) все три проверенных модератора (источник публикации, год публикации, уровень школы) оказались нулевыми, а остаточная гетерогенность (I2 = 94,68%) была прочитана как свидетельство того, что область вообще не согласовала, как измерять [[ai-literacy]]. Когда модератор оказывается нулевым, а гетерогенность остаётся высокой, вывод синтеза нередко касается самой конструкции результата или дизайнов первичных исследований в той же мере, в какой он касается вмешательства.
 - **Раскрытие методологического качества** — обзоры регулярно обнаруживают, что область опирается на недостаточно мощные, доэкспериментальные или квазиэкспериментальные дизайны и непосредственные пост-тесты, что умеряет выводы.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) Скудная отчётность о том, что фактически делалось, — часть этой картины, и она ограничивает то, что может сказать любой последующий синтез: [[yalcin-genai-programming-education-systematic-review-2026|систематический обзор Ялчин и коллег по GenAI в обучении программированию]] не смог определить подход к инструктажу в 26 из 46 исследований, а 32 из 46 были опубликованы в материалах конференций, поэтому обзор смог закодировать педагогику для менее чем половины своего корпуса и завершается смешанными доказательствами воздействия (некоторые исследования показали улучшение результатов экзаменов и написания кода, другие не обнаружили значимого различия по сравнению с обратной связью от преподавателя). Синтез наследует привычки отчётности своей области.
-
 
 Надёжность отбора может зависеть от конструкции: в обзоре охвата PRISMA-ScR 123 исследований о GenAI, [[cognitive-offloading|разгрузке]] и [[agency|агентности учащихся]] согласие по названию/аннотации (κ Флейса = 0,7103) падало до κ = 0,4884 на полных текстах, что авторы объясняют интерпретационной границей между широкой релевантностью GenAI и содержательной релевантностью механизму ([[genai-cognitive-offloading-learner-agency-review-2026|Ван и др. (2026)]]).
 
@@ -156,54 +157,3 @@ ai_assist:
 - **«Значимый объединённый эффект означает, что вмешательство работает.»** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Мета-анализ Юй и коллег по ИИ-образованию в K-12]] (**16 исследований, 57 размеров эффекта, g = 0,892**) обнаружил большой эффект, хотя авторы его оговаривают. Шестнадцать исследований — узкая база, а большой эффект на такой базе — это гипотеза с широким интервалом.
 - **«Обзорщики по умолчанию точно сообщают качество области.»** Работа обзора включает **раскрытие методологического качества**, и обзоры **регулярно обнаруживают, что область опирается на недостаточно мощные, доэкспериментальные или квазиэкспериментальные дизайны** с непосредственными пост-тестами. Объединённое число наследует эти слабости.
 - **«Объединение всегда повышает доказательный вес.»** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Мета-анализ Чен и Вэя]] по **40 исследованиям** навыков иностранного языка объединяет очень разные технологии, и среднее не описывает ни одну из содержащихся в нём конкретных интервенций.
-
-## Связанные концепции
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — исследования в сфере образования с помощью ИИ
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## Связанные статьи
-- [[edurev-100741-tpack-genai-review]] — систематический обзор GenAI в обучении студентов с точки зрения TPACK
-- [[genai-meta-analysis-programming-learning]] — мета-анализ эффекта GenAI на продуктивность и обучение в программировании
-- [[ai-vocational-education-training-review]] — первый систематический обзор ИИ в профессиональном образовании и обучении
-- [[ai-collaborative-learning-systematic-review]] — систематический обзор PRISMA по коллаборативному обучению на базе ИИ
-- [[genai-higher-education-systematic-review-2026]] — систематический обзор GenAI в высшем образовании
-- [[zerkouk-comprehensive-review-its-2025]] — комплексный систематический обзор интеллектуальных репетиторских систем
-- [[chatgpt-critical-creative-thinking-review]] — систематический обзор ChatGPT и критического/творческого мышления
-- [[stanford-evidence-base-ai-k12-2026]] — доказательная база для ИИ в K-12
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — мета-анализ эффектов вмешательств в ИИ-грамотность
-- [[genai-writing-performance-meta-analysis-2026]] — мета-анализ письма на втором языке с поддержкой GenAI: большой объединённый эффект, подорванный крайней гетерогенностью и модератором, определяемым качеством
-- [[ai-literacy-heptagon-2026]] — интегративный обзор литературы по измерениям ИИ-грамотности (следование PRISMA)
-- [[genai-scenario-based-healthcare-education-2026]] — систематический обзор GenAI в сценарном обучении в здравоохранении (Neto и др., 2026)
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — обзор-картирование, классифицирующий 22 исследования интеграции ИИ с помощью FACETS + SAMR; большинство находится на уровнях «замещение/дополнение»
-- [[agarwal-ethical-values-norms-aied-2026]] — этические ценности и нормы для ИИ в образовании
-- [[li-language-educators-genai-review-2026]] — практика и развитие преподавателей языков с GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — ИИ для помощи людям с дислексией в образовании
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT в образовании: эффект в поиске причины (критика сравнения медиа)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — мета-мета-анализ: скорректированные на систематические ошибки эффекты ИИ ≈ 1/3 сообщённого размера
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: судебная аудиторская проверка 14 мета-анализов AIED
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — вмешательство преподавателей в ИИ-обучение в K-12: систематический обзор
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — мета-анализ цифровых инструментов и ИИ для навыков иностранного языка: модератор дизайна более чем удваивает оценки эффекта в квазиэкспериментах
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — мета-анализ GenAI в высшем образовании: эффекты кратких вмешательств исчезают по мере роста длительности
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — мета-анализ ИИ-образования в K-12: большой эффект с нулевыми модераторами и гетерогенностью, объяснённой измерением
-- [[yalcin-genai-programming-education-systematic-review-2026]] — систематический обзор GenAI в обучении программированию: скудная отчётность об инструктаже в 26 из 46 исследований
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — обзор охвата 123 исследований, картирующий GenAI, когнитивную разгрузку и агентность учащихся в высшем образовании
-
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — мета-анализ влияния генеративного искусственного интеллекта на учебные, когнитивные и языковые результаты
-
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — ответственное использование генеративного ИИ студентами в академическом письме: обзор охвата границ, образовательных подходов и пробелов в доказательствах
-- [[kim-ai-embodied-learning-review-2026]] — ИИ в воплощённом обучении в основном наблюдает: сенсорные роли — 62,5% закодированных тегов ролей, и ни одна из рассмотренных систем не объединяла мультимодальные потоки, пока учащиеся ею пользовались (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Почему четыре исследования не могут нести решение о внедрении

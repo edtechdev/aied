@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -78,30 +80,3 @@ DBR adalah metode khas [[learning-sciences|ilmu pembelajaran]] — bidang interd
 **"Karena DBR menghasilkan artefak yang bekerja, ia telah menunjukkan efektivitas."** Desain yang bekerja di tempat yang ikut menghasilkannya telah menunjukkan kelayakan lokal, dan itu klaim yang berbeda dari efektivitas. Artefak itu membawa adaptasi yang dibuat untuk konteks tersebut, dan mentransfernya berarti mentransfer asumsi yang tidak pernah dinyatakan sebagai asumsi.
 
 **"Memperlakukan instrumen sebagai artefak desain yang dapat direvisi menyimpang dari DBR."** Itu justru sifat iteratif DBR yang diterapkan pada pengukuran alih-alih pada intervensi: satu studi dalam korpus ini memperlakukan rubrik itu sendiri sebagai artefak, bersiklus melalui ko-penyempurnaan dengan [[llm|LLM]]. Ekstensi itu layak dicatat karena menjadikan pengembangan instrumen itu sendiri bagian dari bukti.
-
-## Konsep terkait
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## Artikel terkait
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR untuk Model Pembelajaran Kolaboratif Berbantuan AI
-- [[genai-literacy-training-teacher-education-dbr-2026]] — DBR untuk pelatihan literasi AI dalam pendidikan guru
-- [[crompton-faculty-technology-integration-standards-2026]] — DBR untuk standar integrasi teknologi fakultas
-- [[human-centered-ai-teacher-educators-2026]] — AI berpusat manusia untuk pendidik guru (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Enam studi DBR yang mengimplementasikan AIDA di Open University
-- [[critical-thinking-genai-scaffolding]] — DBR untuk perancah berpikir kritis GenAI
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR untuk kurikulum literasi AI terpadu sains (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): kurikulum literasi AI berpusat permainan untuk pre-K dan taman kanak-kanak (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif

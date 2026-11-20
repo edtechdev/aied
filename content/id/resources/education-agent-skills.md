@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -57,7 +58,3 @@ dan karena servernya menyajikan snapshot yang di-commit alih-alih berkas SKILL.m
 tambahkan tanpa membangun ulang dan meng-commit bundelnya tidak akan muncul di server langsung bahkan
 setelah penerapan ulang. Pustaka ini dibangun oleh Gareth Manning, seorang pendidik dan perancang
 kurikulum, dan ketentuan lisensinya berlaku khusus untuk konten pendidikannya.
-
-## Konsep terkait
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]

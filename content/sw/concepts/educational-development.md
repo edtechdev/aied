@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -152,76 +154,3 @@ Mfano halisi wa mfano wa kundi unatoka kwa maktaba ya chuo kikuu. [[jordan-facul
 **"Hatia kuhusu matumizi ya AI inaonyesha uvunjaji wa kanuni."** Inafuatilia kuficha badala ya kufichua: kupunguza matumizi ya AI kwa sababu ya wasiwasi kulihusiana na kuificha, si na tabia iliyokatazwa. Kusoma hatia kama ushahidi wa makosa kwa hivyo kunatambua vibaya chanzo chake, na kuichukulia kama ishara ya kufuata kutasukuma tabia zaidi nje ya mwonekano.
 
 **"Kiwango cha chini cha majibu ya utafiti kinamaanisha kitivo hakina hisia kali."** Karatasi inasoma **majibu yake 109 (kiwango cha 3.5%)** kama yenye taarifa yenyewe kuhusu hali ya mjadala wa maadili; jibu dogo kwa swali kuhusu usumbufu ni ugunduzi kuhusu usumbufu huo, si kukosekana kwake. Na ujumuishaji wa GenAI ulioandaliwa kama uboreshaji wa ujuzi peke yake unakosa swali la utambulisho ambalo wataalam wengine wanauliza kweli: maana ya kufundisha ni ipi katika ulimwengu wa GenAI.
-
-## Dhana Zilizounganishwa
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-
-- [[metaphors-and-analogies]] — Uchochezi wa sitiari na ubuni wa mifanano katika maendeleo ya wataalam
-
-- [[stakeholders]] — Muunganisho: watu na hadhira katika elimu ya AI (wanafunzi, walimu, wabuni, wasimamizi, watunga sera)
-
-## Makala Zilizounganishwa
-
-- [[jordan-faculty-ai-oer-creation-2025]] — Kutoka ilani hadi mazoezi: mradi unaozingatia walimu wa kuchunguza uundaji wa OER unaoungwa na AI (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Uchanganuzi mahususi wa mazungumzo ya usawa wa GenAI: wasanidi programu wakibadilishwa kuwa wakufunzi wa teknolojia
-- [[crompton-faculty-technology-integration-standards-2026]] — Viwango vya teknolojia vya wataalam (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Vipimo vya maadili vya AI: mitazamo ya wataalam na wanafunzi
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Jinsi Sitiari za Wataalam wa Uhandisi Zinajenga (na Kuzuia) Ufahamu wa AI
-- [[fear-awe-genai-metaphor-workshops-2025]] — Hofu na Kudzaza: Kuelewa AI ya Kizalishaji Kupitia Sitiari (warsha ya sitiari ya wataalam/wafanyakazi/wanafunzi)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Vigezo vinne na sitiari nne za kufundisha ujuzi mahususi wa AI
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Kutawala kisichoonwa: ujuzi wa AI kati ya walimu wa lugha
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI kama mgogoro wa utambulisho, si pengo la ujuzi
-- [[zuo-instructor-power-genai-writing-2026]] — Mahusiano ya nguvu yanayohisiwa na wakufunzi wa chuo kikuu wanaopambana na GenAI katika uandishi (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Mfano wa Pembetatu wa Kutafakari: AI kama mpatanishi wa kiakili
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Maarifa ya TPACK-21 ya GenAI yanayohisiwa na wenyewe kwa wataalam (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — PD ya Intelligent-TPACK: mahudhurio yanatabiri faida, ushirikiano unaojisikia na mwenyewe haufanyi
-- [[instructional-design-proficiency-masters-math-2026]] — Mfano wa darasa mahiri na kitanzi cha D-T-E kinaboresha uwezo wa ubini wa ufundishaji wa M.Ed. katika hisabati (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Usanifu wa majukumu katika shughuli za vikundi zilizotofautishwa zilizobuniwa na AI (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Uzoefu na mitazamo ya walimu wa chuo kikuu ya GAI: udhaifu, kufikiria upya tathmini, kujifunza kwa wanafunzi kwa hatari (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Kutoka hofu hadi uvumbuzi: chuo cha wiki sita cha wataalam, mbinu ya kufundisha ya ushirika, na hali za taasisi ambazo haikuweza kutoa
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Mfumo Mkuu wa Hisia ya Hatia ya AI: hisia ya hatia ya kutabiri, kuficha na tofauti za hatua ya kazi kati ya wafanyakazi wa kitaaluma (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Utafiti wa AAC&U/Elon wa wataalam 1,057 wa Marekani: kutotayari kwa taasisi, utawala nyembamba na pengo la sera la 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Wasanidi wa kitaaluma kama mapatanishi wa kidijitali katika elimu ya juu ya Global South: maendeleo kama mazoezi ya kiteknolojia-jamii
-- [[physics-faculty-learning-community-ai-2026]] — Mfululizo wa Warsha kwa Matumizi Yenye Ufanisi ya AI katika Nyakati za Kutokuwa na Uhakika: Kujenga Jamii ya Kujifunza ya Wataalam wa Fizikia
-- [[faculty-ai-well-being-social-supports-2026]] — Ustawi wa AI wa wataalam unafuatilia ujuzi wa AI badala ya ujuzi binafsi wa kiteknolojia
-- [[ai-competence-framework-landscape-2026]]
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Je, elimu inaweza kuweka ajenda ya AI? Uvumbuzi wa kughushi na mwelekeo wa ufundishaji katika elimu ya walimu
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Walimu 105 wa kemia katika programu ya wiki sita
-- [[ma-ai-corpus-language-teaching-coi-2026]] — Walimu zaidi ya 150 wa lugha kutoka nchi 28 kwa wiki 20
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — Walimu 2,159 wa Skandinavia; ongezeko la 0.20 SD katika faida zinazotambulika
-- [[yuan-teacher-need-satisfaction-genai-2026]] — Walimu 146 baada ya programu ya kujifunza ya GenAI, huku mahitaji yakipatanisha ushiriki
-- [[bodek-prompted-to-explore-microlearning-2026]] — mfano wa maendeleo ya wataalam kwa kujifunza vipande vidogo kwa AI inayozalisha
-- [[bursic-ai-residency-education-curriculum-2026]] — makazi ya AI katika elimu ya matibabu
-- [[early-childhood-ai-holistic-competencies-review-2026]] — Vyanzo 86; maendeleo ya waelimishaji kama moja ya mada nne
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — Walimu 22 wakioomba maendeleo yanayoongozwa na walimu wa zamani
-- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% wanaboresha ujuzi wa wafanyakazi na wataalam waliopo
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — Waelimishaji 20 wanahalalisha AI ya kivuli pale mwongozo haupo
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — mapengo ya uwezo yanayochochea maendeleo ya wataalam na maamuzi ya kuajiri
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — maendeleo yanayorudiwa kama moja ya tabaka tano za msaada
-- [[chen-future-faculty-development-ai-2027]] — Majukumu saba ya mwalimu, misingi miwili ya wote, na timu ya kufundisha kama kitengo cha maendeleo
-- [[ji-judgement-space-dialogic-inquiry-2027]] — Nafasi ya hukumu, uchunguzi wa mazungumzo na ukaguzi wa safu tatu wa mahali hukumu imehamia kwenye zana
-- [[jiang-faculty-development-japan-2027]] — Njia mbili za FD za Japani: ushiriki ulipanda huku mifumo ya kikazi isipande
-- [[tian-transnational-faculty-development-governance-2027]] — Maendeleo ya wataalam ya kimataifa: muunganiko ni wa vipindi, uratibu ndio kazi
-- [[ho-invariant-core-faculty-development-2027]] — Msingi usiobadilika, ukingo unaobadilika: mbinu ya kujifunza mbele ya teknolojia

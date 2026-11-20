@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
+connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -153,54 +155,3 @@ ai_assist:
 - **「有意な統合効果は、その介入が機能することを意味する」** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|YuらのK-12 AI教育のメタ分析]]（**16研究、57効果量、g = 0.892**）は大きな効果を見出しましたが、著者らはそれに留保を付けています。16研究は狭い基盤であり、その基盤の上の大きな効果は、広い区間を持つ仮説です。
 - **「レビューは既定で分野の質を正確に報告する」** レビューの仕事には**方法論的品質の暴露**が含まれ、レビューは**繰り返し、分野が検出力不足の前実験的デザインや準実験的デザイン、即時の事後テストに依拠していることを見出します**。統合された数値は、その弱点を継承します。
 - **「プールは常に証拠の重みを増す」** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|ChenとWeiのメタ分析]]は**40研究**を外国語スキルについて、非常に異なる技術にまたがってプールしており、その平均は含まれる特定の介入のどれも記述していません。
-
-## 関連する概念
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI支援による教育研究
-- [[benchmark]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[learning-gains]]
-- [[summative-assessment]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[simulation]]
-
-## 関連する記事
-- [[edurev-100741-tpack-genai-review]] — TPACKの視点から見た学生学習における生成AIの系統的レビュー
-- [[genai-meta-analysis-programming-learning]] — プログラミングにおける生産性と学習に対する生成AIの効果のメタアナリシス
-- [[ai-vocational-education-training-review]] — 職業教育訓練におけるAIの初の系統的レビュー
-- [[ai-collaborative-learning-systematic-review]] — AI支援型協働学習のPRISMA系統的レビュー
-- [[genai-higher-education-systematic-review-2026]] — 高等教育における生成AIの系統的レビュー
-- [[zerkouk-comprehensive-review-its-2025]] — インテリジェント・チュータリング・システムの包括的な系統的レビュー
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPTと批判的・創造的思考の系統的レビュー
-- [[stanford-evidence-base-ai-k12-2026]] — K-12におけるAIのエビデンス基盤
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AIリテラシー介入効果のメタアナリシス
-- [[genai-writing-performance-meta-analysis-2026]] — 生成AI支援L2ライティングのメタアナリシス：極端な異質性と品質駆動型調節変数によって損なわれる大きなプール効果
-- [[ai-literacy-heptagon-2026]] — AIリテラシー次元の統合的文献レビュー（PRISMA準拠）
-- [[genai-scenario-based-healthcare-education-2026]] — シナリオベース医療教育における生成AIの系統的レビュー（Netoら、2026年）
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — FACETS + SAMRで22のAI統合研究を分類するマッピングレビュー。多くは置換／拡張に位置する
-- [[agarwal-ethical-values-norms-aied-2026]] — AI教育における倫理的価値と規範
-- [[li-language-educators-genai-review-2026]] — 言語教育者の生成AIをめぐる実践と成長
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 教育において失読症のある人を助けるAI
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — 教育におけるChatGPT：原因を探す効果（メディア比較批判）
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — メタメタ分析：バイアス補正後のAI効果は報告値の約1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective：14のAIEDメタアナリシスの法医学的監査
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AIベース授業における教員介入：系統的レビュー
-- [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — 外国語スキルに対するデジタル技術・AIツールのメタアナリシス：デザイン調節変数が準実験の効果推定値を2倍以上にする
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 高等教育における生成AIのメタアナリシス：短期介入の効果は期間とともに崩壊する
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI教育のメタアナリシス：ヌルの調節変数と、測定に帰せられる大きな効果と異質性
-- [[yalcin-genai-programming-education-systematic-review-2026]] — プログラミング教育における生成AIの系統的レビュー：46研究のうち26で指導報告が薄い
-
-- [[genai-cognitive-offloading-learner-agency-review-2026]] — 高等教育における生成AI、認知的オフローディング、学習者の主体性を写像化する123研究のスコーピングレビュー
-- [[khodjaev-genai-outcomes-meta-analysis-2026]] — 生成人工知能が学習・認知・言語の成果に与える効果のメタ分析
-- [[tie-responsible-genai-use-academic-writing-review-2026]] — アカデミック・ライティングにおける生成AIの責任ある学生利用：境界、教育的アプローチ、証拠のギャップに関するスコーピングレビュー
-
-- [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)
-- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Why four studies cannot carry an adoption decision
-

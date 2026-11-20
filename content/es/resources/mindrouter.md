@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -43,9 +44,3 @@ Grupos de computación para la investigación y de TI central con capacidad de G
 ## Notas y advertencias
 
 Gratis y de código abierto bajo Apache-2.0, pero el costo se desplaza en lugar de desaparecer: hardware, electricidad y el tiempo del personal para operar un clúster. El software es joven para los estándares de la infraestructura, con tres contribuyentes, una sola institución de origen y versiones numeradas en cientos de etiquetas, así que una universidad debería pilotarlo junto a un servicio existente y no como única vía hacia un modelo. En el repositorio no hay una evaluación publicada del comportamiento de la planificación y las cuotas bajo carga real de campus; el artículo de PEARC es el lugar donde buscar el relato de los propios autores.
-
-## Conceptos conectados
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

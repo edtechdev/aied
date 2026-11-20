@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/master-instructional-design
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+connected_concepts: [learning-design, design-thinking, professional-training, online-teaching-and-learning, assessment, generative-ai, universal-design-for-learning, ai-literacy]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -44,6 +45,3 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 ## الشروط والتحفّظات
 
 الرخصة هي المشاع الإبداعي BY-NC-ND 4.0، والشروط المُعلَنة للمؤلف تهمّ معظم القرّاء المؤسسيين: فالدراسة الشخصية غير التجارية والتطوير المهني مرحّب بهما، بينما يتطلب الاستخدام التجاري وإعادة التوزيع والعلامة البيضاء رخصةً تجارية. ويُبلّغ المستودع عن 314 من أصل 320 نقطةً عبر عشرة تحديات ذاتية التصميم، وهو تقييم المؤلف نفسه لا تقييماً مستقلاً، والمؤلف نفسه يبيع خدمات الاستشارة وورش العمل حول الإطار. ويُوصَف المشروع كمجهود شخصي غير مرتبط بأصحاب عمل مؤلفه، وآخر التزام له يعود إلى أبريل 2026.
-
-## المفاهيم المرتبطة
-[[learning-design]]، [[design-thinking]]، [[professional-training]]، [[online-teaching-and-learning]]، [[assessment]]، [[generative-ai]]، [[universal-design-for-learning]]، [[ai-literacy]]

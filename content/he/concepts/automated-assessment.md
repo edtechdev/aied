@@ -27,6 +27,8 @@ translation_of: concepts/automated-assessment
 source_updated: "2026-11-04T15:25:17-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -68,7 +70,6 @@ contributors: [editor]
 - **הטיה והוגנות:** [[ai-scoring-language-bias-physics|הטית שפה בניקוד פיזיקה]] מתעדת כיצד ניקוד אוטומטי יכול להטות נגד דוברים שאינם דוברי שפת אם — וקשורה ל[[bias-mitigation]] ול[[equity-in-ai-education]].
 - **בנצ'מרקינג של מודלי GenAI לניקוד פתוח:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] העריכו אחד-עשר מודלי GenAI ומודלי הטמעת משפטים לעומת שני מדרגים אנושיים מומחים על 1,885 תשובות פתוחות ל-24 שאלות הנדסת תוכנה. רק GPTo1 הגיע להסכמה כמעט מושלמת (קפה של Fleiss 0.82, חיוביים ושקריים נמוכים בכל קטגוריית הציונים), כאשר Claude3 ו-PaLM2 קרובים מאוד מאחוריו; מודלי [[generative-ai|GenAI]] רגישים להקשר טיפלו ביעילות בתשובות תלמידים קצרות ומגוונות בניסוח, בעוד מודלים מבוססי-הפניה והטמעה (למשל 345 חיוביים שגויים של BERT) הענישו באופן שיטומי תשובות נכונות שננסחו אחרת — ראיה לכך שבחירת המודל, ולא רק פורמט הניקוד, מעצבת את האמינות להערכה פתוחה של [[assessment|טקסט חופשי]].
 - **דוגמאות בהנחיה קובעות את הסכמת הניקוד:** [[automated-constructive-assessment-hdr-llm-2026|Takahashi et al. (2026)]] אימצו חשיבה אבחנתית היררכית (HDR), משימת מיומנות יישומית שבה הלומדים מוצאים ומסבירים טעויות שנשתלו בכוונה במקרה קצר. באמצעות GPT-4o ללא כוונון עדין, הצוות הפיק בעיות חדשות ודרג תיאורי תלמידים: הבעיות שהופקו והמחוברות על ידי אדם נשאו אותה עקביות פנימית (אלפא של Cronbach 0.78) ולא הראו הבדל מובהק בהתפלגות הציונים בין 100 משתתפים, והמתאם של הפורמט עם בקרת הבנת הנקרא נשאר נמוך (אלפא 0.36 ו-0.41). דיוק הניקוד תל בהנחיה ולא במודל — ללא דוגמאות מעובדות הדיוק של Q2 ירד ל-0.42, בעוד תוספת דוגמאות נכונות ושגויות שנדרגו על ידי אדם הרימה את ההסכמה ל-98% ומעלה בכל שאלה (Q1 ו-Q2 ב-100%) — לעומת עלות אנושית נמדדת של 138 דקות ניקוד מומחה על 117 תשובות ועוד 30 דקות של קונצנזוס.
-
 
 מצב ההיגיון של המודל הוא מנוף תצורה שני: על 32 הגשות אנונימיות למבחן מגיסטר בבריאות הציבור, אותו ChatGPT עבר ממשקל קפה 0.269 במצב מהיר ל-0.718 במצב חשיבה, בעוד Kimi הגיעה ל-0.571 ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **[[agentic-ai|רב-סוכני]] קידוד תשובות פתוחות של מורים, שבו המסגרת ולא המודל נושאת את האמינות:** [[llm-automated-coding-teacher-pck-2026|Copur-Gencturk et al. (2026)]] מרחיבים את ההערכה האוטומטית מעבר לעבודת תלמידים לקידוד ידע תכני (CK) ו[[pedagogy|פדגוגי]] של המורים עצמם (PCK), ושואלים האם בינה מלאכותית יכולה לשחזר את הקידוד האנושי המאומן של תשובות כתובות של 268 מורים למתמטיקה אמריקאים ב[[k-12|חטיבת ביניים]] בנושא יחסים ופרופורציונליות. מערכת רב-סוכנית שנבנתה במיוחד, GradeOpt, מקצה שלוש תפקידים המבוססים על GPT-4o — מדרג שמחיל את ספר הקידוד האנושי, משקפל שמאבחן כל אי-הסכמה עם הקוד האנושי, ומדייק שמטביע נקודות הבהרה בחזרה לספר לאורך עד שישה סבבים — והתאימה לקודדים אנושיים מאומנים מקרוב ב-CK (קפה 0.88 ו-0.85) תוך כדי הגעה להסכמה ניכרת בפריטי PCK הפירושיים בהרבה בסך הכול (קפה 0.68; קפה משוקלל 0.79). שתי קווי בסיס של NLP ומודל GPT-4o בעל הנחיה בודדת לא עלו מעל קפה 0.39 או קפה משוקלל 0.55 ב-PCK, ולכן מייחסים החותמים את האמינות לעדכון הוראות מול ספר הקידוד ולא לגודל המודל, וממליצים על סקירת מומחה בכל מקום שבו רמות קידוד סמוכות מתערפלות, שכן הטעויות השיוריות של GradeOpt היו בדרך כלל קודים סמוכים ולא החמצות גדולות.
@@ -114,7 +115,6 @@ contributors: [editor]
 איכות ההערכה האוטומטית תלויה ב[[assessment-validity]] וב[[bias-mitigation]]. מחקר [[ai-scoring-language-bias-physics|הטיית השפה]] מראה שניקוד אוטומטי יכול להטות באופן שיטתי נגד אוכלוסיות תלמידים מסוימות.
 **הקריטריון עצמו עלול להיכשל.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag and Qiu (2026)]] מסמנים תשובות פיזיקה ל-GCSE עם מערכת בינה מלאכותית ומשווים אותן הן לציוני לוח הבחינות הרשמיים והן לשיפוט מורים מנוסים, תוך כדי התייחסות להסכמה עם הלוח כפרוקסי לדיוק ולא לדיוק עצמו.
 
-
 ### תרחישי פריסה ומה שנדרש מכל אחד מהם
 
 כמה יישור מוסד צריך לדרוש תלוי במה שהמערכת מורשית להחליט. ב[[mixed-methods-research|מחקר שיטות מעורבות]] של [[opraise-automated-marking-ai-assessment-2026|761 חיבורי תואר ראשון אותנטיים בשלושה אוניברסיטאות בבריטניה]], שלושה מודלים חלוציים עם 27 תצורות הנחיה כל אחד הגיעו להסכמה של רק 35–65 אחוזים עם מסמנים אנושיים בטווח התואר, והדיוק לא עבר בין מוסדות — ולכן הדו"ח מתייחס לשימושים המועמדים כתרחישים נבדדים ולא כהחלטה אחת. **בקרת איכות של סימון אנושי**, שבה הבינה המלאכותית מסמנת במקביל והבדלים משמעותיים מפעילים סקירה אנושית, היא השמרנית ביותר. **עוזר סימון**, המדרג או מסווג הגשות לפי איכות או אי-ודאות חזויה, ממיין מקרים מורכבים, או מרחיב הערות אנושיות קצרות למשוב מלא יותר, הוא אמצע דרך אמיתי. **בינה מלאכותית כמסמנת עיקרית**, עם סקירה אנושית של דגימה או של התפלגויות הסימון, נשפטה כמקובלת רק אם ביצועי המערכת משתפרים, ואף קבוצה של [[stakeholders|בעלי עניין]] לא תמכה בבינה מלאכותית כמסמנת יחידה.
@@ -136,7 +136,6 @@ contributors: [editor]
 - **ניקוד בקנה מידה גדול של [[physics-education|פיזיקה]] כתובה ביד (2026):** מודל רב-מודאלי (GPT-5.5) דרג 10,364 עמודים שנסרקו על פני מבחן תאוריה של אולימפיאדה לאומית בפיזיקה, מחנה סליקציה ומבחן מכונות קוונטיות באוניברסיטה, תוך כדי השגת מתאמים לציון הכולל של 0.91–0.97 עם הציונים הרשמיים ושחזור של אותה חמישיית הפסגה האולימפיאדית. הוראות מתוקנות של עמוד-אחר-עמוד ואיתור-ראיות שיפרו את ההסכמה — ראיה לכך ש[[multimodal|בינה מלאכותית רב-מודאלית]] יכולה לתמוך בניקוד מסכם בעל שיקול דעת גבוה עם הנדסת מחוון והנחיה זהירה ([[ai-grading-handwritten-physics-2026]]).
 - **אוטומציה סלקטיבית ל[[chemistry-education|כימיה]] כתובה ביד (2026):** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] דרגו עמוד-אחר-עמוד מבחן סופי של כימיה כללית כתוב ביד של 296 סטודנטים לעומת תמונות מחוון עם מודל רב-מודאלי וחושב, תוך כדי השגת אמינות גבוהה בין הרצות בציונים הכוללים (ICC(A,1) = 0.967) והסכמה חזקה בציון הכולל עם ניקוד TA (R² = 0.91). מכיוון שאמינות ברמת הפריט שונתה בחדות לפי פורמט — תשובות טקסטואליות ותגובות כימיות דורגו באופן מהימן בעוד ציור וגרף קיבלו ציון גרוע מאשר אקראי — הסכמה גולמית נשפטה כבלתי-מספיקה לשימוש בעל שיקול דעת גבוה. הם מפעילים [[human-in-the-loop-ai|דחייה אנושית]] באמצעות מסנני ביטחון (ספי נקודות חלקיות, סף סיכון מבוסס [[item-response-theory|IRT]], והחרגת סוגי בעיות) שממירים ציוני בינה מלאכותית גלמיים למדיניות קבלה/דחייה, ומראים שהחיוביים השגויים (בינה מלאכותית שמעניקה נקודות זכות לתשובות שגויות באמת) נוטים להישאר ללא זיהוי מכיוון שתלמידים מערערים עליהם רק לעתים נדירות — נתיב [[psychometrically-aware-ai|מבוסס-פסיכומטרית]] קונקרטי לאוטומציה סלקטיבית ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 
-
 - **מתמטיקה כתובה ביד ופתוחה-למחצה במבחן אוניברסיטאי (2026):** [[gpt4-handwritten-math-exam-grading-2026|Liu et al.]] דרגו מבחן מתמטיקה לתואר ראשון בגרמניה עם GPT-4 לאורך שני נתיבי חילוץ (תיבות תשובה חתוכות מראש לעומת עמודים שלמים), שני נתיבי זיהוי תווים אופטי ושני פורמטי מחוון, ודיווחו על אלפא של Krippendorff מול ציוני אנושיים של 0.22-0.44 עם דיוק של 0.59-0.62 בזרימות העבודה הטובות ביותר ודיוק לכל בעיה הנע בין 0.27-0.91 — שאינו מקובל לשימוש מסכם בעל שיקול דעת גבוה. פירוק כללי ניקוד מרובי-קריטריונים לפריטים לא שיפר באופן כלל את ההסכמה (הוא עזר בבעיית נקודות חלקיות), ניקוד חופשי ללא מחוון היה גרוע בהרבה (דיוק 0.50-0.51), ומסנן ביטחון הסתברותי שנועד לסמן ציונים לבדיקה אנושית מחדש לא שיפר את הדיוק באופן מובהק תוך כדי סימון שגוי של 7-41 אחוזים מהתשובות כמהימנות. הלקח המעביר של המחקר הוא פרוצדורלי: סרקו ותעתקו את כל גיליון הבחינה עם סמנים ולא רק את תיבות התשובות החתוכות, מכיוון שתלמידים כותבים מעבר לגבולות התיבות; כתבו מחדש כללי ניקוד שנכתבו לעוזרי הוראה, מכיוון שהמודל ניסה נגזרות שלא התבקשו מכלל שנועד לאדם; וציינו שכללי הניקוד האנושיים עצמם פוענחו מחדש באלפא של 0.88 בין חמש גרסאות, כך שחוסן ההנחיה אינו צוואר הבקבוק.
 - **שיפוט יחסי מבוסס LLM לסינון כתיבה (2026):** Mercer & Reed השתמשו בשבעה מודלים לשוניים גדולים כשופטי השוואה זוגיים כדי לדרג כתיבה אינפורמטיבית של 1,208 תלמידים בכיתות ג'–ו' בשלוש הזדמנויות סינון. ציוני LLM-CJ התאמו באופן חזק לציוני מחוון אנליטי (r = .67–.73, החזק ביותר ב-Gemini-3.1 Pro) עם AUC של .82–.86 למיומנות; הממצאים היו יציבים בין מודלים, עם רווח תקפות מזערי מהמודלים היקרים והיכולים יותר, בעוד ממוצע שלושת דוגמאות הכתיבה שיפר את הדיוק — רוחב הדגימה היה חשוב יותר מבחירת המודל. דפוסי הטיה חזויים עבור [[multilingual-learning|לומדים רב-לשוניים]] תאמו לניקוד מחוון אנושי, ותומכים ב-LLM-CJ כגישת סינון יעילה ובעלות נמוכה ([[llm-comparative-judgment-writing-screening-2026]]).
 - **יישור תלוי-איכות עם ניקוד המרצה (2026):** בהשוואה של ChatGPT, עמיתים ומרצה המדרגים את *אותם* פרויקטים קבוצתיים של [[group-work|תואר ראשון]], [[usher-faraon-who-grades-best-2026|Usher & Faraon מצאו]] שהיישור של ChatGPT עם המרצה *שופר ככל שאיכות הפרויקט עלתה* — ההערכה-יתר הגדולה ביותר שלו הייתה בעבודה באיכות נמוכה (≈ +14 נקודות), ונצטמצמה ל-≈ +2.5 נקודות בפרויקטים באיכות גבוהה. ChatGPT דרג גם גבוה יותר בממוצע משני העמיתים ומהמרצה, נטיית אינפלציית ציונים שמערערת את אמינותו כמדרג מסכם עצמאי, במיוחד להגשות החלשות.
@@ -150,74 +149,3 @@ contributors: [editor]
 - **"השופט הוא מקור חוסר-המהימנות."** ב-378 הכרעות בקובייה קבועה, הרצה חוזרת שינתה **2.9 עד 6.1 אחוז** מהתוצאות בשיטה חצי-נוקשה ו-**13.5 עד 15.9 אחוז** בשיפוט חופשי, בעוד החלפת שופט ה-AI הוסיפה רק כ-3 נקודות ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — הנוהל, ולא השופט, קובע את השחזוריות.
 - **"דיווח ביטחון הוא מותרות."** ציון שאומר שהוא **בטוח ב-70%** היה משנה כיצד משתמשים בו, והיעדר המידע הזה מכריח את הקורא להתייחס לכל הציונים כבעלי אותה ודאות.
 - **"סימון אוטומטי של תשובות קצרות הוא תחום מוכרע."** סקירת היקף של סימון אוטומטי של תשובות קצרות ב[[science-education|מדע]] (**2017 עד תחילת 2024**) מתעדת את היסטוריית התחום, שהיא תיעוד של מה שנוסה ולא של מה שאומת.
-
-## מושגים מקושרים
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — הערכה מסכמת: פורמטים עמידים בפני בינה מלאכותית (בעל-פה, תחת פיקוח, בחינות ספרים סגורים)
-
-## מאמרים מקושרים
-- [[llm-structured-assessment-diagnostic-quality-2026]] — תת-הממדים של מחוון ה-LLM כמעט מיותרים והמשוב נקרא לשיגות רק לעתים נדירות (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — דו"ח OpRaise: סימון בינה מלאכותית של 761 חיבורים אוניברסיטאיים בשלושת אוניברסיטאות בבריטניה
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — ניקוד בסיוע בינה מלאכותית HITL בהערכת כתיבה לאומית בקנה מידה גדול (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — תקפותם של שיפוט יחסי מבוסס מודלים לשוניים גדולים לסינון כתיבה אוניברסלי
-- [[usher-faraon-who-grades-best-2026]] — השוואה בין ניקוד ChatGPT, עמיתים ומרצה לאורך רמות איכות פרויקט (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — הערכת איכותן של בחינות שנוצרו על ידי בינה מלאכותית: מחקר שדה בקנה מידה גדול
-- [[automated-formative-assessments-a-level-sciences]] — הערכות מעצבות אוטומטיות במדעי A-level
-- [[cong-confidence-asag-2026]] — ניקוד אוטומטי מודעת-ביטחון של תשובות קצרות
-- [[ai-scoring-language-bias-physics]] — הטיית שפה בניקוד בינה מלאכותית בפיזיקה
-- [[llm-difficulty-calibration-programming-exams-2026]] — כיול קושי מבוסס LLM למבחני תכנות
-- [[choi-anchor-aes-prompting-2025]] — הנחיה לניקוד חיבורים אוטומטי מבוסס-עוגנים
-- [[cotal-formative-assessment-scoring-2026]] — ניקוד הערכה מעצבת CoTAL
-- [[automated-grading-linux-bash-examinations-large-language-models]] — ניקוד אוטומטי של מבחני Linux Bash עם מודלים לשוניים גדולים
-- [[confidence-aware-student-drawing-assessment]] — הערכה מודעת-ביטחון של דיאגרמות שצוירו בידי תלמידים
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: הערכה אוטומטית של דיאגרמות מתמטיות שנוצרו
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP לעומת הצדקות של LLM להערכת איכות הוראה מבוססת-מחוון
-- [[eeg-familiarity-automated-assessment-2026]] — אוטומציה של הערכת לומדים: חיזוי היכרות מבוסס EEG
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: יצירת מחווני הערכה באמצעות בינה מלאכותית
-- [[ai-assisted-instructor-supervised-grading-feedback]] — ניקוד ומשוב בפיקוח מרצה בסיוע בינה מלאכותית
-- [[ai-grading-handwritten-physics-2026]] — ניקוד בינה מלאכותית של הערכות פיזיקה כתובות ביד (אולימפיאדה)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[tripartite-feedback-framework-ai-assessment-2026]] — מסגרת תלת-ממדית: מיון משוב לפי מעמד אפיסטמי וחמשת עקרונות הגבול למעורבות בינה מלאכותית (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — הערכת red-team של הזרקת הנחיה מוסתרת בהגשות תלמידים כנגד ניקוד מתווך-בינה מלאכותית (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — מסגרת LLM הסברית-על-פי-תכנון להערכה אוטומטית של מורים עם היסק חסום-אמון (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — ניקוד מתמטיקה כתובה ביד ופתוחה-למחצה עם מסנן ביטחון לבדיקה אנושית מחדש
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[sophie-clinical-communication-ai-assessment-2026]] — אימון תקשור קליני מבוסס בינה מלאכותית מדיד והערכה אוטומטית
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — הערכת מיקוד המשוב והאדפטיביות הפדגוגית במשוב שנוצר על ידי LLM על כתיבת תלמידים
-- [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
-- [[llm-automated-coding-teacher-pck-2026]] — קידוד רב-סוכני של LLM (GradeOpt) לתשובות פתוחות של CK ו-PCK של מורים, אמינות מעידון הנחיה מול ספר קידוד
-- [[ai-marking-accuracy-gcse-physics-2026]] — סימון בינה מלאכותית בהשוואה לציוני לוח בחינות ולשיפוט מורים בפיזיקה ל-GCSE
-
-- [[llm-grading-assistants-public-health-2026]] — מצב חשיבה העלה את הסכמת הניקוד בין LLM לאנושי ממשקל קפה 0.269 ל-0.718
-- [[wargaming-adjudication-ai-judged-grading-2026]] — אצבע על הכף: שימוש בפרקטיקות הכרעה מסורתיות של משחקי מלחמה לשיפור הערכות וציונים שנשפטים בידי AI (Epstein 2026)
-- [[porcaro-ai-grading-benchmark-2026]] — מעבר להסכמה: 22 מדרגים מונחים עומדים בבדיקות שתשובתן הנכונה ידועה, ורובם ניתנים לשכנוע להעלות ציון (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — הערכת הוראה ולא עבודת תלמידים, בלי איחוד מטא-אנליטי
-- [[machine-human-marking-agreement-institutions-2026]] — הסכם בין מכונה לאדם בקיבוע מטלות לתואר ראשון הוא ספציפי למודל, להנחיה ולמוסד

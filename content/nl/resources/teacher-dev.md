@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [edtech-platform, accessibility, game-based-learning, student-engagement, special-education, student-ai-interaction, math-education, science-education, physics-education, chemistry-education, stem-education, english-education]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -47,6 +48,3 @@ K-12-docenten die een hulpmiddel willen voor een specifiek probleem zonder abonn
 ## Opmerkingen en kanttekeningen
 
 Het tempo is zowel de pitch als het risico. Builds van één dag richten zich op een echt klasprobleem, niet op een onderzoeksvraag, dus niets hier draagt een evaluatie en een bewering over wat een app doet moet in de klas worden getoetst. In de GitHub-organisatie staan tweeëndertig openbare repositories terwijl de galerij 34 apps noemt, alle onder Apache-2.0 met beschikbare bron, zodat een app kan worden gelezen en zelf gehost. Local-first ontwerp is een claim die per app moet worden geverifieerd, en een docent moet die bevestigen voordat hij een hulpmiddel voor studenten voor een klas zet.
-
-## Gerelateerde concepten
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -90,35 +92,3 @@ ai_assist:
 
 - আপনার মূল্যায়ন যে শিখন-ধারণা ধরে নেয় তা বলুন, কারণ মাপা লাভ তখনই শিক্ষাগত কল্যাণ যখন শিক্ষা কীসের জন্য তার কোনো ব্যাখ্যার সাপেক্ষে।
 - অভিজ্ঞতাভিত্তিক কাজের পাশাপাশি দার্শনিক কাজে অর্থায়ন করুন: শিক্ষার্থীর অর্জন কী হিসেবে গণ্য সে প্রশ্নগুলোই সফলতার মানদণ্ড ঠিক করে যা পরে অভিজ্ঞতাভিত্তিক গবেষণা ব্যবহার করে।
-
-## সংযুক্ত ধারণা
-
-- [[learning-theories]]
-- [[theory-development-aied]]
-- [[distributed-cognition]]
-- [[ethics]]
-- [[agency]]
-- [[embodied-learning]]
-- [[critical-pedagogy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[chemistry-education]] — রসায়ন শিক্ষা ও এআই: ল্যাব, গঠনমূলক মূল্যায়ন, LLM-এর সীমা, পরীক্ষণ-দর্শন
-
-## সংযুক্ত নিবন্ধ
-- [[genai-chinese-higher-education-integrity-2026]] — চীনের উচ্চশিক্ষায় Gen-AI: সততা ও সম্পৃক্ততা
-- [[ensemble-cognition-philosophy-ai-education]] — সমবেত সংজ্ঞান: মানব–এআই সংজ্ঞানের একটি দার্শনিক কাঠামো
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — শিক্ষাগত সহজীবন ও উত্তর-মানব শিক্ষার্থী
-- [[videla-embodied-ai-education-choreography]] — শিক্ষায় দেহহীন এআই-এর দেহভিত্তিক, উত্তর-সংজ্ঞানবাদী সমালোচনা
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — মানবিক শাস্ত্রে ব্যাখ্যামূলক সংজ্ঞানের বিকাশমূলক-সমালোচনামূলক মডেল
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — যন্ত্রের সঙ্গে শিখনের দর্শন হিসেবে জ্ঞানতাত্ত্বিক সহ-এজেন্সি
-- [[avraamidou-ai-colonization-science-education]] — শিক্ষার এআই-ঔপনিবেশিকরণ নিয়ে প্রশ্ন করা সমালোচনামূলক-নারীবাদী দর্শন
-- [[generative-ai-mediational-agent-sociocultural-2026]] — মধ্যস্থতাকারী এজেন্ট হিসেবে উৎপাদনশীল এআই
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI-এর বাস্তুতান্ত্রিক শিখন-বিজ্ঞান কাঠামো
-- [[philosophy-experimentation-ai-chemistry-2026]] — এআই-সহ রসায়নে পরীক্ষণের দর্শন
-- [[strydom-human-gai-paradigms-2026]] — মানব-এআই গতিশীলতার কাঠামোয়ন: সাতটি GAI সম্পৃক্ততা দৃষ্টান্ত (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — বিকল্প এআই দর্শন: শিক্ষায় এআই-এর পদ্ধতি হিসেবে দাওবাদ
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — কে কাজ করে, কে জানে, কে জবাব দেয়? উৎপাদনশীল এআই উচ্চশিক্ষা গবেষণায় এজেন্সি, জ্ঞানতাত্ত্বিক দায় ও জবাবদিহির করপাস-সহায়ক বয়ান-বিশ্লেষণ
-- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'মানব-কেন্দ্রিক' AIED-কে বাণিজ্যিক ব্যবহারযুক্ত নৃতাত্ত্বিক বয়ান হিসেবে পড়া (Wang ও Jin 2026)
-
-- [[khan-machines-emotional-labor-education-2026]] — যন্ত্র কি আবেগিক শ্রম করতে পারে? 1950–1996-এর বিতর্ক, এবং কেন অনুকরণ যত্নকে অপর্যাপ্তভাবে নির্ধারণ করে

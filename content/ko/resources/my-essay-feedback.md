@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [ai-feedback-quality, feedback-literacy, formative-assessment, metacognition, self-regulated-learning, ai-literacy]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -47,12 +48,3 @@ AI 피드백을 원하되 그것이 하는 말에 대한 통제를 넘기지 않
 ## 참고사항과 유의점
 
 사이트는 학생 12,000명 이상, 강좌 700개 이상, 검토된 에세이 41,000편 이상을 보고합니다. 공급업체가 보고한 수치이며 독립적 감사가 아닙니다. FERPA 준수, GDPR 준비, 접근성도 마찬가지로 공급업체 자신의 주장입니다. 에세이는 Azure OpenAI를 거치며, 사이트는 모델 훈련에 사용되지 않는다고 밝히지만, 교육구는 마케팅 페이지에서 받아들이지 말고 데이터 처리 계약에서 확인해야 합니다. 가격은 프리미엄이며 독자층에 따라 달라집니다. 신규 교수자에게는 무료 첫 학기(요청 시, 학교당 3명으로 제한)가 있고, 그 뒤에는 학생당 학기 약 \$12–15이며, 개별 학생에게는 첫 검토가 무료인 유료 검토 단위 요금제가 있습니다. ChatGPT Plus, Packback, Grammarly와의 비교표는 공급업체 자신의 것입니다. PAIRR 프로젝트의 UC Davis 파트너십은 연구 협력이며, 플랫폼이 글쓰기를 개선한다는 공개된 증거는 아닙니다.
-
-## 연결된 개념
-
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]

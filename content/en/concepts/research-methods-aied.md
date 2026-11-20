@@ -12,6 +12,8 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 reviewed_by: [editor]
+connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
 ---
 
 > **Research methods in AIED** — the set of empirical designs, data-collection strategies, and analytic techniques researchers use to study [[ai-education|AI in education]]: whether and how AI tools support (or harm) learning, and under what conditions. The research spans experimental, survey, qualitative, design-based, computational-benchmark, and review methods. Each has distinct strengths and limitations, and choosing among them involves trade-offs among internal validity (confidence in causal claims), external validity (generalizability), ecological validity (real-world authenticity), and the feasibility of studying fast-moving AI tools.
@@ -191,54 +193,3 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 **"A lenient measurement rule is a minor methodological choice."** It changes the finding. Crediting any completion predicted later unaided performance **barely above a skill-difficulty constant (pooled AUC 0.604 against 0.595)** while declaring **93.9% of student-skill pairs mastered against 72.8%** under a strict rule. The rule produced a 21-point difference in who was declared ready and almost no predictive improvement to show for it.
 
 **"Statistical significance settles whether an intervention worked."** It settles whether an effect was detectable. Whether it was a *learning* effect depends on the outcome measure, the comparison and the conditions under which it was taken — which is why design and reporting choices carry as much weight as the analysis.
-
-## Connected Concepts
-
-- [[longitudinal-research]]
-- [[interpreting-and-applying-aied-research]]
-- [[ai-ed-evaluation]]
-- [[rct]]
-- [[benchmark]]
-- [[meta-analysis-systematic-review]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[simulation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-- [[learning-gains]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-- [[qualitative-research]] — Qualitative Research
-- [[quantitative-research]] — Quantitative Research
-- [[mixed-methods-research]] — Mixed-Methods Research
-- [[design-based-research]] — Design-Based Research
-- [[usability-research]] — Usability Research
-- [[self-report-measures]]
-- [[learning-sciences]]
-
-## Connected Articles
-
-- [[ai-methodologies-science-education-research-2026]] — A seven-phase epistemic-iteration framework for reflecting on how AI methodologies may transform science education research (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
-- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for an AI-Assisted Collaborative Learning Model
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Reliability and Validity
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 items in ten domains for transparent reporting of AI-in-education studies (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System: A Longitudinal Study
-- [[ai-in-the-wild-college]] — AI in the Wild: Large Scale Analysis of Authentic Interactions
-- [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms
-- [[tep-aied-model-reporting-2026]] — The TEP-AIED model for reporting AI-in-education research with rigor (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — The Competence Paradox: Text-to-Image GenAI in Art and Design
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI effect on learning
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: probes whose right answer is known, planted-effect checks on simulated graders, and 22 prompted models (Porcaro 2026)

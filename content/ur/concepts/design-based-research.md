@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
+connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -78,30 +80,3 @@ DBR [[learning-sciences|سیکھنے کی سائنس]] کا امتیازی طر�
 **\"چونکہ DBR کام کرنے والی شے پیدا کرتی ہے، اِس لیے اُس نے اثر انگیزی کا مظاہرہ کر دیا ہے۔\"** ایسا ڈیزائن جو اُس ہی جگہ کام کرے جس نے اُسے مشترکہ طور پر پیدا کیا، مقامی قابلِ عملیت کا مظاہرہ کرتا ہے، اور یہ اثر انگیزی سے مختلف دعویٰ ہے۔ شے اُس سیاق کے لیے کی گئی موافقت لیے ہوئے ہوتی ہے، اور اُسے منتقل کرنا ایسے مفروضوں کو منتقل کرنا ہے جو کبھی مفروضے قرار دیے ہی نہیں گئے۔
 
 **\"کسی اوزار کو قابلِ نظرثانی ڈیزائن شے سمجھنا DBR سے انحراف ہے۔\"** یہ DBR کے تکراری کردار کا اطلاق مداخلت کے بجائے پیمائش پر ہے: اِس ذخیرے کے ایک مطالعے نے خود ربرک کو شے سمجھا اور [[llm|LLM]] کے ساتھ مشترکہ بہتری کے چکر چلائے۔ یہ توسیع قابلِ ذکر ہے کیونکہ یہ خود اوزار کی تیاری کو ثبوت کا حصہ بنا دیتی ہے۔
-
-## منسلک تصورات
-
-- [[research-methods-aied]]
-- [[rct]]
-- [[quantitative-research]]
-- [[qualitative-research]]
-- [[mixed-methods-research]]
-- [[usability-research]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-- [[learning-sciences]]
-
-## منسلک مضامین
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI کی معاونت والے باہمی سیکھنے کے ماڈل کے لیے DBR
-- [[genai-literacy-training-teacher-education-dbr-2026]] — اساتذہ کی تعلیم میں AI خواندگی کی تربیت کے لیے DBR
-- [[crompton-faculty-technology-integration-standards-2026]] — اساتذہ کے ٹیکنالوجی انضمام کے معیارات کے لیے DBR
-- [[human-centered-ai-teacher-educators-2026]] — اساتذہ کے تربیت کاروں کے لیے انسان مرکز AI (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Open University میں AIDA نافذ کرنے والے چھ DBR مطالعات
-- [[critical-thinking-genai-scaffolding]] — GenAI تنقیدی سوچ کے سہارے کے لیے DBR
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — سائنس سے مربوط AI خواندگی نصاب کے لیے DBR (Moore وغیرہ 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): pre-K اور کنڈرگارٹن کے لیے کھیل مرکز AI خواندگی نصاب (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM بطور تکراری تدریسی ڈیزائن کے ایجنٹ

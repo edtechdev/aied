@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -75,34 +77,3 @@ ai_assist:
 **«الطلاب ذوو المعرفة المسبقة الأقل يحتاجون إلى دعم أكبر بالذكاء الاصطناعي.»** هذا هو الاتجاه الأرجح لتوسيع الفجوة، لأن نمط التفريغ المقيس يركّز فقدان التأليف حيث تكون المعرفة المسبقة أرقّ. فالدعم الذي يسلّم العمل إلى المتعلّم الأقل تجهيزًا لكشف الاستبدال يزيل النشاط الذي كان سيبني المعرفة الناقصة.
 
 **«المعرفة المسبقة مدخل ثابت لا يستطيع المقرر تحريكه.»** إنها العامل الأثقل وزنًا في التعلّم الجديد، وهذا يجعل بناءها المهمة الأعلى مردودًا لا شرطًا خلفيًا — وهو سبب كون معرفة المجال تدخّلًا بذاته لا مجرّد متغيّر مصاحب.
-
-## المفاهيم المتصلة
-
-- [[learners]] — المتعلّمون: المحور الجامع لمفاهيم جانب المتعلّم
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[learning-theories]]
-- [[productive-failure]] — الفشل المنتج
-- [[retrieval-spacing-interleaving]] — كيف يحدّد ما يعرفه المتعلّم أصلًا ما تستطيع ممارسة الاستدعاء أن تفعله
-
-## المقالات المتصلة
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — التوتر بين الأتمتة والتعلّم (خطر تنشيط المعرفة المسبقة)
-- [[genai-mindtool-generative-learning]] — الذكاء الاصطناعي التوليدي كأداة عقل: تهيئة المعرفة المسبقة وتنشيطها
-- [[nie-personavlm-long-term-personalization-2026]] — نمذجة ذاكرة متعلّم نماذج لغوية على المدى الطويل
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble عن التفريغ المعرفي
-- [[cognitive-offloading-llm-synthesis-writing]] — التفريغ المعرفي في كتابة التركيب بالنماذج اللغوية
-- [[bridging-instructional-design-framework-math]] — إطار تصميم تعليمي للرياضيات
-- [[knowledge-building-tutor-learning-2026]] — بناء المعرفة لا المعرفة المسبقة هو ما يتنبأ بتعلّم المدرّس، والمدرّسون ذوو المعرفة المنخفضة الذين يبنون المعرفة يلحقون بالركب
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — المعرفة المسبقة حملت الاختبار البعدي (η²p = .63) بينما لم يحمل اختيار المهمة التكيّفي شيئًا (Sibley et al. 2026)

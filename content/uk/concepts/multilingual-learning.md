@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
+connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -73,28 +75,3 @@ ai_assist:
 - **«Цільова мова має домінувати з першого дня.»** У **систематичному огляді 24 досліджень** здобувачі просили **контекстуалізовані фрази та пояснення власною мовою як місток до цільової мови** — використання, яке оглядачі класифікують як справді нову субможливість, а не обхідний маневр. Підтримка рідної мови функціонувала як [[scaffolding|скаффолдинг]], а не як уникнення.
 - **«Оцінювання мови ШІ упереджене проти багатомовних авторів.»** Тут упередженість відстежувала **людську базову лінію, а не модель**: порівняльне судження на базі LLM для **інформаційного письма 3–6 класів зійшлося з дослідницькими рубриками (r = .59–.73)** і показало той самий патерн, що й людські оцінювачі. Це не доказ справедливості в абсолютних термінах — це доказ, що модель не внесла нового спотворення поверх наявного.
 - **«Корисна частина — це вивід якості перекладу.»** Використання як містка є пояснювальним і ситуативним, а не замісним. Інструмент, що заміщає власне продукування здобувача, усуває практику, яку цей місток мав уможливити.
-
-## Пов’язані поняття
-
-- [[differential-effects-across-learner-groups]]
-- [[language-learning]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-- [[digital-divide]]
-- [[culturally-relevant-pedagogy]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Пов’язані статті
-
-- [[genai-chatbots-language-learning-affordances-review-2026]] — Генеративні чатботи дають транслінгвізм, якого попередні мовні інструменти не підтримували
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics

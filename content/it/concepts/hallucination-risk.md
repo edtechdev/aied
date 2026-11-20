@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
+connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -44,9 +46,7 @@ L'allucinazione nell'IA educativa assume diverse forme documentate negli articol
 
 Una revisione di 125 studi fornisce un intervallo sulla prevalenza e sul divario di individuazione: tassi di allucinazione del 10–40%, con studenti di medicina che individuavano gli errori dell'IA solo nel 44–55% dei casi ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
-
 **Distorsione della memoria dopo l'output.** Un esperimento del 2026 ha rilevato che un riassunto fuorviante dell'IA faceva più che disinformare: cambiava ciò che 328 adulti ricordavano di un video che avevano visto. Solo il 44,8% di chi aveva letto il riassunto fuorviante individuava poi correttamente il dettaglio critico, contro l'83,6% di chi ne aveva letto uno coerente, e l'effetto reggeva anche quando il riassunto era etichettato come scritto da un umano ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger e Kohno, 2026]]). L'omissione era l'errore più comune nell'audit di accompagnamento: tutti e 20 i riassunti contenevano errori, e il 95% ometteva la collisione stessa. Lo studio non ha testato studenti, ma mostra perché un controllo delle allucinazioni che si ferma al testo è incompleto: l'errore può persistere nella memoria del lettore dopo che il testo è sparito.
-
 
 **L'allucinazione nella valutazione** è particolarmente dannosa. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** ha rilevato che gli LLM fabbricano citazioni di prove non presenti nella scrittura a mano degli studenti quando diagnosticano le abilità cognitive, con il 58,5% delle diagnosi errate accompagnate da false affermazioni di confidenza probatoria. **[[llm-fallacy-misattribution]]** ha documentato la sovra-attribuzione sistematica di prove nel ragionamento degli [[llm]] — i modelli affermano supporto probatorio dove non ne esiste. Entrambi si collegano alle questioni di [[ai-ed-evaluation]] e di [[knowledge-tracing|tracciamento delle conoscenze]] sulla [[assessment-validity|validità della valutazione]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] aggiungono due modalità di fallimento visibili quando l'output dell'IA viene valutato anziché ispezionato: particolari fabbricati che sopravvivono alla correzione — un articolo recensito che non esiste, completo di un DOI irrisolvibile, e una numerosità campionaria riportata come 378 dove la fonte diceva 329 — e l'auto-contraddizione all'interno di una singola risposta, dove il modello ha ragionato fino all'opzione corretta e poi ne ha riportata una diversa nel riepilogo finale. Poiché le liste di riferimenti sono attualmente valutate per la formattazione anziché per l'accuratezza, questa classe di errori raggiunge un voto sufficiente pur fuorviando lo studente che usa lo stesso strumento per ripassare.
 
@@ -72,40 +72,3 @@ Le difese contro tali manipolazioni comportano il proprio compromesso: una pipel
 - **«Gli errori sono evidenti quando compaiono.»** Un'IA che diagnosticava matematica scritta a mano poteva **fabbricare citazioni di prove che non c'erano affermando al contempo sicurezza**. Il fallimento non era una risposta plausibile ma errata; era un supporto inventato presentato con certezza, che è il tipo più difficile da cogliere perché si legge esattamente come la prova che un lettore attento vorrebbe.
 - **«Un output senza citazioni è un problema di formattazione.»** In un corso magistrale che aveva sostituito il proprio manuale commerciale con letture generate dall'IA, solo **circa lo 0,80% di 4.487 pagine registrate recava una citazione nel testo in stile APA**. È un'assenza di provenienza a livello di corpus, non un'omissione occasionale, e significa che la verifica non ha un punto di partenza.
 - **«L'allucinazione è un problema di generazione dei modelli che i modelli più nuovi risolvono.»** L'intervallo dei tassi va dal 10 al 40% su 125 studi, il che è una proprietà del compito e del dispiegamento tanto quanto del modello. Ridurre i tassi è un progresso reale e non cambia il fatto che un lettore debba poter verificare.
-
-## Concetti collegati
-
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[llm]]
-- [[productive-failure]]
-
-## Articoli collegati
-
-- [[sim-ai-summary-memory-distortion-2026]] — Un riassunto fuorviante dell'IA ha distorto la memoria degli adulti per un video, e l'etichetta IA o umana non li ha protetti
-
-
-- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised deference to AI output, with some cited cases misattributed or fictitious
-- [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[prompt-injection-defenses-educational-llm-tutors]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluently plausible explanations that are wrong at the conceptual level (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)
-
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education

@@ -23,6 +23,8 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
+connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -85,30 +87,3 @@ SAMR 最好被理解为用于规划和评估的整合深度透镜，与采纳理
 **“SAMR 与 TPACK 是相互竞争的框架。”** 它们描述不同的东西：SAMR 描述一项任务的*改造程度*，而[[tpack|TPACK]]描述教师为良好整合技术所需的*知识*。一位教师可以具有很强的 TPACK 能力却仍停留在替代层级，这就是两者被一起使用而不是二选一的原因。
 
 **“在一个层级上具有改造性的工具，在所有层级上都具有改造性。”** 同一个生成式工具在一门课中可支持替代，在另一门课中可支持重新定义，因为层级是任务设计的属性，而不是技术的属性。把层级归因于工具，会以采纳决策取代设计决策。
-
-## 关联概念
-
-- [[ai-education]] —— AI 的教育应用（伞形概念）
-- [[tpack]] —— Technological Pedagogical Content Knowledge：整合技术的学科教学知识
-- [[technology-acceptance-model]] —— 技术采纳模型
-- [[icap-framework]] —— ICAP 认知参与框架
-- [[ai-technologies]] —— AI 技术与方法
-- [[teacher-ai-competency]] —— 教师 AI 能力
-- [[educational-development]] —— Educational development：教育（学术）发展
-- [[learning-design]] —— 学习设计
-- [[k-12]] —— K-12 教育
-- [[higher-ed]] —— 高等教育
-- [[generative-ai]] —— 生成式 AI
-
-## 关联文章
-
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] —— 以 SAMR 分级的高等教育中 AI 整合：多为替代/增强
-- [[thermomix-genai-education-analogy-2026]] —— ICAP 与 SAMR 映射四个烹饪到学习场景
-- [[rewriting-curriculum-genai-pedagogy-2026]] —— SAMR 位列生成式 AI 驱动课程变革的透镜之列
-- [[crompton-faculty-technology-integration-standards-2026]] —— SAMR 位列为教师技术标准提供信息的框架之列
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] —— 对 SAMR 人本主义本体论的后人本主义批评
-- [[reclaiming-epistemic-agency-co-agency-2026]] —— SAMR 对权力、数据所有权和问责的沉默
-- [[genai-use-changing-institutional-policy-physics-2026]] —— 制度政策变动下学生的生成式 AI 使用：使用功能映射到 SAMR 层级（Quince & Faulconer 2026）
-
-- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI 在数学课堂中：促进多样性与包容性的协同策略
-

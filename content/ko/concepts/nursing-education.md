@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [medical-education, simulation, affective-computing, self-efficacy, higher-ed, learner-identity, professional-training, equity-in-ai-education, cognitive-offloading, technology-acceptance-model, anxiety-and-stress, ai-literacy]
+connected_articles: [hardie-genai-nursing-scoping-review-2026, zhang-nursing-genai-simulation-meta-synthesis-2026, alrazeeni-transforming-nursing-education-ai-2026, jiang-ai-powered-simulation-nursing-education-2026, sun-llm-nursing-education-professional-identity-2026, akbaba-nursing-ai-experiences-tam-2026, dag-ai-perceptions-career-anxiety-health-2026, genai-counter-learner-groupthink-2025, dabkowski-nursing-academics-genai-2026, harerimana-remote-proctoring-nursing-scoping-2026, xiang-ai-nursing-education-kas-framework-2026, rony-nursing-educators-ai-tpack-2025, el-arab-ai-nursing-education-practice-umbrella-review-2025, ghimire-nursing-students-ai-pedagogy-2025, agency-gap-ai-writing, li-nursing-genai-interaction-self-regulated-learning-2026, shankar-institutional-ecosystems-ai-nursing-2026, aalhe-ai-co-designer-feedback-partner-2026, federated-learning-at-risk-student-prediction-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -34,7 +36,6 @@ ai_assist:
 - 보건 과학 학생들 사이의 AI 불안은 구직 불안을 따릅니다. AI 리터러시를 가르치는 것이 치료법입니까, 아니면 그것이 [[educational-policy-ai|기관 정책]]이 대신 다루어야 할 위협의 현저성을 높입니까?
 
 - 간호 AI 교과는 문헌이 무엇을 논하는지에 따라, 또는 임상 현장이 무엇을 지원할 수 있는지에 따라 배열될 수 있습니다. 인프라가 불안정할 때, 프로그램은 윤리와 평가를 깊이 가르치고 저비용 시뮬레이션을 통해 운영 기술에 도달해야 하며, 도구를 기다리지 말아야 합니까?
-
 
 ## 들어가며
 
@@ -62,14 +63,12 @@ ai_assist:
 - **노동력 신호로서의 불안.** [[dag-ai-perceptions-career-anxiety-health-2026|Dağ 외(2026)]]는 보건 과학 학생 821명(간호학도 포함)을 조사하고 [[anxiety-and-stress|AI 불안]]과 구직 불안 사이에 중간 정도의 양적 상관을 발견했습니다(r = 0.233, p < 0.001), 사회인구학적 변수를 통제한 후 AI 불안이 유의미한 예측 변수였습니다(β = 0.234, p < 0.001). AI 불안은 그들이 주장하듯 기술 태도가 아니라 학생들이 자신의 전문적 미래를 보는 방식을 형성하는 심리적 요인이며 — 도구가 아니라 [[ai-literacy]]와 진로 상담을 개입으로 지목합니다.
 - **집단사고와 [[collaborative-learning|전문직 간]] 팀.** [[genai-counter-learner-groupthink-2025|Wiss 외(2025)]]는 간호를 포함한 7개의 보건 전문직 프로그램에 걸쳐 새로 형성된 12개의 전문직 간 팀에 180분 가상 [[problem-based-learning|문제 기반 학습]] 세션 중 생성적 [[agentic-ai|AI 에이전트]](CALIE)를 배치하고, 논쟁적인 관점을 주입하도록 [[prompt-engineering|프롬프트]]했습니다. 학습자 165명 중 158명이 설문을 완료했습니다; 에이전트는 도구로서 가장 유용하게 평가되었고(M = 3.49), 다음으로 피드백 유용성(M = 3.21), 팀의 일부로서는 가장 낮게(M = 2.88) 평가되었으며, 모든 쌍별 차이가 유의미했습니다(F(2, 156) = 26.01, p < .001). 촉진자의 태도가 중요했고, 에이전트의 응답을 거부한 학습자들도 그것을 발언할 사회적으로 허용되는 방식으로 계속 사용했습니다 — AI와의 불일치가 팀 작업을 했습니다.
 
-
 ## 교과가 무엇을 다루어야 하는지, 그리고 지도가 얇은 곳
 
 - **간호를 위한 것이 없어서 만들어진 12개 부분의 역량 지도.** [[xiang-ai-nursing-education-kas-framework-2026|Xiang 외(2026)]]는 PubMed, Embase, Web of Science, CNKI의 1,750개 레코드를 선별해 23편의 포함 연구(2022–2026년, 15개국, 그중 15편이 검토 논문)로 좁혔습니다. 그들은 이 연구들을 지식·태도·기술 모형에 매핑하여 세 차원과 12개 하위 차원을 만들었습니다: 기초적·기술적·윤리적·응용적 지식; [[critical-thinking|비판적 사고]], 책임, 윤리적 가치, 개방성과 적응성; 그리고 운영적·응용적·협력적·평가적 기술입니다. 그들은 기존 간호 프레임워크를 비교하고 그것들이 교과로 번역될 수 없음을 발견했습니다: N.U.R.S.E.S.는 역할을, AI-ABCs는 목표를, CARE는 프롬프트 구조를 다루며, 어느 것도 [[pedagogy|교수학적]] 경로나 평가 방법을 제공하지 않습니다.
 - **관심은 글이 쉬운 곳에 모입니다.** 윤리 지식(14편), 책임(14편), 응용 기술(16편), 평가 기술(18편)에는 합의가 있습니다; 기술적 지식(9편), 응용 지식(9편), 운영 기술(9편), 협력(7편)에는 없습니다. 이것은 이 페이지가 성과 증거에서 문서화한 것과 같은 경계이며, 역량 쪽에서 도달한 것입니다: 분야는 AI의 윤리에 대해 무엇을 말할지 가장 많이 알고, 임상 안전이 의존하는 운영 계층에 대해서는 가장 적게 압니다.
 - **제시된 해법은 자원이 부족한 프로그램을 위한 배열 규칙입니다.** 기초적 지식과 윤리 지식을 기술적 지식보다 먼저 가르치고; 비판적 사고, 책임, 윤리적 가치를 개방성과 적응성보다 먼저; 평가와 협력을 복잡한 운영 기술보다 먼저 가르치십시오. 기술 계층에는 [[simulation]]을 통해 도달하고, 고충실도나 가상 현실 시뮬레이션을 감당할 수 없는 곳에서는 사전 녹화 자료를 곁들인 화면 기반 사례, 공개 접근 모델 시연, 공공 데이터셋을 활용한 안내된 작업을 통해 도달하십시오. 오프라인 대체물은 사례 기반 토론과 AI 워크플로의 개념적 시연을 포함해 명시적으로 제시됩니다. 밝힌 동기는 형평성입니다: 교과의 순서가 인프라의 분포를 따른다면, 연구가 미국(5편)과 중국(3편)에 집중된 것은 서지학적 사실에서 교과의 문제로 바뀝니다.
 - **[[quantitative-research|양적]] 근거는 이 검토의 결과가 아니라 수입된 증거입니다.** 윤리 지식은 AI 통합을 예측하는 것으로 나타났고(표준화 계수 0.636, p < 0.001), 긍정적 지각적 미래 지향성은 학생들의 윤리적 가치를 높이는 것으로 나타났습니다(0.308, p < 0.05). 평가에는 더 강한 임상 근거가 있습니다: 한 AI 시스템이 치료적 소통을 0.97 이상의 급내 상관으로 평가했고, [[rag|검색 증강]] 구현은 최종 결정을 교사의 전문적 판단에 남겼습니다.
-
 
 ## 역량, 정체성, 증거 간극
 
@@ -93,12 +92,10 @@ ai_assist:
 - 고용 불안을 AI 리터러시 모듈을 거쳐 우회하지 말고 직접 다루십시오. 구직 불안과의 상관은 그 우려가 학습자의 도구 유창성이 아니라 전문직의 미래에 관한 것임을 말합니다.
 - 에이전트를 도구이자 피드백 원천으로 위치 지으십시오. 그것이 학습자 선호와 더 강한 평정을 낳은 설계 모두에 맞습니다.
 
-
 **교수진 개발자를 위해**
 
 - 준비성을 분포로 다루고 그 하단을 겨냥하십시오. 훈련과 연결 지원 없는 명령은 메우려는 격차를 재생산합니다.
 - 분석을 그것이 기술하는 사람들과 공동 설계하십시오: 한 출판된 사례에서 간호 교수진과 학생들이 AI 기반 학습 분석 대시보드를 함께 만들었고, 교육자들은 그것이 정보를 주는 판단에 대한 책임을 유지했습니다([[aalhe-ai-co-designer-feedback-partner-2026]]).
-
 
 **개발자를 위해**
 
@@ -119,48 +116,4 @@ ai_assist:
 
 **"어떤 시뮬레이션 연구든 임상 실천으로 일반화된다."** 여기서 검토된 증거 기반은 **19편 연구, N = 1,253, 대부분 학부 재학생**으로 대체로 교실과 실험실에 기반합니다. 시뮬레이션된 역량에서 감독 아래의 실천으로 넘어가는 전이가 바로 AI 지원 시뮬레이션이 그 자체로 연습하지 않는 단계입니다.
 
-
 **"간호를 위한 AI 역량은 도구를 다루는 것이므로 훈련은 도구부터 시작해야 한다."** 프레임워크 문헌은 반대 방향으로 갑니다. 검토자들이 일관되게 다루어진 것으로 찾은 차원은 윤리 지식, 책임, 응용 및 평가 기술이며, 기술적·운영적 사용은 분야가 가장 할 말이 적은 곳입니다. 도구 라이선스를 먼저 사는 프로그램은 지도에서 증거가 가장 얇은 부분을 짓고 있으며, 교과 대신 채택할 수 있는 명명된 프레임워크인 N.U.R.S.E.S., AI-ABCs, CARE는 정확히 평가 방법이 없는 것들입니다.
-
-
-## 연결된 개념
-
-- [[medical-education]]
-- [[simulation]]
-- [[affective-computing]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[technology-acceptance-model]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-
-## 연결된 문서
-
-
-- [[hardie-genai-nursing-scoping-review-2026]] — 간호 교육에서의 응용, 태도, 윤리: 103편 연구 범위 검토(Hardie 외 2026)
-- [[zhang-nursing-genai-simulation-meta-synthesis-2026]] — 간호 교육에서 생성 AI 지원 시뮬레이션과 기술 훈련에 대한 학습자 경험: 메타 종합
-
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — 간호 교육에서의 AI에 대한 체계적 검토(2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — 간호 교육에서의 AI 기반 시뮬레이션: 혼합 방법 체계적 검토
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLM, 구조적 간극, 전문적 정체성의 재구성
-- [[akbaba-nursing-ai-experiences-tam-2026]] — TAM을 통해 본 간호 학생과 교수진의 AI 경험
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — 보건 과학 학생들 사이의 AI 인식과 진로 불안
-- [[genai-counter-learner-groupthink-2025]] — 전문직 간 PBL에서 집단사고에 대항하는 생성 AI
-- [[dabkowski-nursing-academics-genai-2026]] — 생성 AI에 대한 간호 학자들: 정책 모호성, 전문적 가치, 감독 평가로의 표류
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 간호 평가에서의 원격 감시: 감시, 형평성, 인식 위에 세워진 억제 사례
-
-- [[xiang-ai-nursing-education-kas-framework-2026]] — AI 역량 프레임워크를 간호 교과의 12개 KAS 하위 차원에 매핑한 범위 검토
-- [[rony-nursing-educators-ai-tpack-2025]] — 방글라데시 간호 교육자들이 말하는 AI 준비성, 장벽, 데이터 거버넌스: TPACK으로 읽기
-- [[el-arab-ai-nursing-education-practice-umbrella-review-2025]] — 18편 검토의 우산 검토: 윤리, 교과 변혁, 통합 장벽
-- [[ghimire-nursing-students-ai-pedagogy-2025]] — AI 사용의 공공연한 비밀을 말하는 간호 학생들: 개인화 학습, 시간, 디지털 격차
-- [[agency-gap-ai-writing]] — 의대·간호대 학생 대상 RCT: 반응형 대 주도형 에이전트 설계와 주도성 격차
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 간호 학생 1,020명: 생성 AI 상호작용, 교육적 상호작용, 정확히 식별된 매개 모형
-- [[shankar-institutional-ecosystems-ai-nursing-2026]] — Rony 외에 대한 출판된 답변: 기관 생태계, 준비성, AI 감독
-- [[aalhe-ai-co-designer-feedback-partner-2026]] — 교수진과 학생이 함께 설계한 간호 교육 분석 대시보드
-- [[federated-learning-at-risk-student-prediction-2026]] — 보건 전문직 프로그램 전반의 프라이버시 보존 위험 예측, 그리고 수입된 임계값이 간호에서 잘못 발동하는 이유
-

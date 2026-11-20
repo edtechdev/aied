@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
+connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -89,34 +91,3 @@ icipants डिज़ाइन (17 ADHD, 10 गैर-ADHD) में सभी 
 - **"न्यूरोडाइवर्सिटी शोध [[ai-education|AIED]] का एक संकीर्ण कोना है।"** क्षेत्र **[[generative-ai|जनरेटिव AI]] के इर्द-गिर्द पुनर्गठित हो गया है, 40 अध्ययनों में से 15**, और निमज्जित प्रारूप 11 के साथ दूसरे स्थान पर हैं। साहित्य स्थिर प्रश्नों के आसपास जमा होने के बजाय प्रौद्योगिकी के साथ चला।
 - **"डिस्लेक्सिया के लिए अधिक AI का अर्थ बेहतर सहायता है।"** [[dabaghi-ai-dyslexia-education-review-2026|डिस्लेक्सिया के लिए AI की अंतर्विषयक समीक्षा (Dabaghi, D'Urso और Sciarrone, 2026)]] **2018-2024 के 72 अध्ययनों** को कवर करती है और पाती है कि AI का उपयोग उद्देश्यों के विस्तृत दायरे में होता है। अनुप्रयोग की व्यापकता किसी एक उद्देश्य के लिए प्रभावशीलता का साक्ष्य नहीं है।
 - **"न्यूरोडाइवर्जेंट शिक्षार्थियों के लिए सुविधाएँ सही ढाँचा हैं।"** [[neurodivergent-computing-students|24 न्यूरोडाइवर्जेंट कंप्यूटिंग छात्रों और 20 न्यूरोटिपिकल साथियों के सर्वेक्षण]] तथा चार गहन साक्षात्कारों ने ऐसी आवश्यकताएँ पाईं जो **सामान्य डिज़ाइन आवश्यकताएँ** हैं (संरचित कार्य, छोटी स्थिर टीमें, स्पष्ट भूमिकाएँ), न कि निदान के बाद दी जाने वाली व्यक्तिगत व्यवस्थाएँ।
-
-## संबंधित अवधारणाएँ
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-
-## संबंधित लेख
-
-- [[gibson-neuro-inclusive-edtech-scoping-2026]] — न्यूरो-समावेशी प्राथमिक कक्षाओं के लिए EdTech की स्कोपिंग समीक्षा: ऑटिस्टिक शिक्षार्थियों पर संकेंद्रण और सामाजिक परिणामों की उपेक्षा
-
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — जनरेटिव AI, आभासी वास्तविकता और आगे: उच्च शिक्षा में न्यूरोडाइवर्जेंट छात्रों के लिए डिजिटल सहायक तकनीकों की एक स्कोपिंग समीक्षा
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — अक्षमता वाले छात्रों के लिए AI के 29 अध्ययन, और एक प्रभाव जो श्रेणी के अनुसार भिन्न होता है
-- [[adhd-video-segmentation-computing-education]] — कालक्रमिक वीडियो खंडितकरण जिसने ADHD प्रतिभागियों को समान स्तर तक पहुँचाया
-- [[neurodivergent-computing-students]] — संरचना, अस्पष्टता और सहयोग पर 24 न्यूरोडाइवर्जेंट कंप्यूटिंग छात्र
-- [[genai-reliance-executive-functioning-2026]] — कार्यपालन कठिनाइयाँ, अनुभवित उपयोगिता, और AI निर्भरता का मार्ग
-- [[seung-basham-cognitive-offloading-swld-2026]] — सीखने की अक्षमताओं वाले छात्रों के लिए जनरेटिव AI संज्ञानात्मक ऑफ़लोडिंग
-- [[dabaghi-ai-dyslexia-education-review-2026]] — डिस्लेक्सिया वाले लोगों की शिक्षा में मदद के लिए AI
-- [[genai-minoritized-knowledges-disability]] — जनरेटिव AI और अल्पांशीकृत ज्ञानों का हाशिएकरण
-- [[tactile-statistical-graphs-accessibility]] — एक्सेसिबिलिटी के लिए स्पर्शनीय सांख्यिकीय ग्राफ़
-- [[ai-learning-tools-engineering-education-needs]] — आवश्यकताओं और ध्यान-जागरूक AI सीखने के टूलों का डिज़ाइन
-- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — डिटेक्टर-संचालित प्रक्रियाएँ वैध सुविधा-उपयोग को रोक सकती हैं
-

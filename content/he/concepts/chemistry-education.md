@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
+connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -74,40 +76,3 @@ ai_assist:
 **"הוספת בינה מלאכותית לשיעור חקירה קיים אינה יכולה להזיק."** היא יכולה, וההשוואה שמראה תועלת צרה מכפי שהיא נשמעת. [[context-based-ai-secondary-chemistry-2026|Abdikayumova and Madybekova]] שילבו את **מודל ההוראה 7E** עם סימולציות PhET *ו*הדרכת ChatGPT לכימיה בכיתה י', ומצאו הישגים ומעורבות גבוהים באופן מובהק מהוראה מבוססת-חקירה בלבד או קונבנציונלית. הטיפול הוא השילוב המובנה — מודל הוראה בתוספת סימולציות בתוספת הדרכה — ולא הצ'אטבוט לבדו, וצ'אטבוט שנוסף לחקירה לא-מובנית אינו נבחן בתוצאה הזו.
 
 **"כימיה היא מקצוע שבו התשובה ניתנת לבדיקה, ולכן שגיאות בינה מלאכותית אינן מזיקות."** תשובות ניתנות-לבדיקה הן הדרך שבה הנמקה שגויה עוברת בלי שיבחינו בה: סטודנט שמקבל ערך נכון ממודל שהנמקו גרוע אין לו דרך לזהות את הפגם, וההערכה רושמת הצלחה. בתחום כמותי נקודת הקצה הניתנת-לאימות היא הראיה החלשה ביותר להבנה הזמינה.
-
-## מושגים מקושרים
-
-- [[stem-education]]
-- [[physics-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[agency]]
-- [[biology-education]] — חינוך ביולוגיה ובינה מלאכותית: עוזרי הוראה במעבדה, אוריינות בינה מלאכותית בביולוגיה, חשיבה ביקורתית, כלים מיוחדים
-
-## מאמרים מקושרים
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — סקירה שיטתית של בינה מלאכותית בחינוך מדע/כימיה
-- [[unesco-ai-guidelines-chemical-education-2026]] — תרגום הנחיות הבינה המלאכותית של UNESCO לחינוך כימי
-- [[context-based-ai-secondary-chemistry-2026]] — מבוסס-הקשר + בינה מלאכותית בכימיה תיכונית (7E)
-- [[ai-supported-experimental-design-chemistry-2026]] — תכנון ניסויי נתמך-בינה מלאכותית בכימיה מעשית
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — תפקידי מדריך ובינה מלאכותית בהערכה עיצובית מוגברת-ChatGPT
-- [[philosophy-experimentation-ai-chemistry-2026]] — פילוסופיה של הניסוי בכימיה עם בינה מלאכותית
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]

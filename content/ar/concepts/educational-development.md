@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
+connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -157,74 +159,3 @@ ai_assist:
 **«الذنب بشأن استخدام الذكاء الاصطناعي يدلّ على خرق القواعد.»** إنه يتتبّع الإخفاء لا الإفصاح: فتقييد استخدام الذكاء الاصطناعي بسبب الانقباض ارتبط بإخفائه لا بسلوك محظور. وقراءة الذنب كدليل على سوء السلوك تُخطئ تحديد مصدره، ومعاملته كإشارة امتثال ستدفع السلوك أبعد عن مجال الرؤية.
 
 **«انخفاض معدل الاستجابة في المسح يعني أن أعضاء هيئة التدريس لا مشاعر قوية لديهم.»** تقرأ الورقة **109 استجابات (بمعدل 3.5%)** على أنها مفيدة بذاتها عن حال الجدل الأخلاقي: فالاستجابة المنخفضة لسؤال عن الانقباض نتيجة عن ذلك الانقباض لا غياب له. ودمج الذكاء الاصطناعي التوليدي المؤطَّر كرفع مهارات فحسب يُغفل سؤال الهوية الذي يطرحه بعض أعضاء هيئة التدريس فعلًا: ما جدوى التدريس في عالم يسوده الذكاء الاصطناعي التوليدي.
-
-## المفاهيم المترابطة
-
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[learning-sciences]]
-- [[educational-technology-developers]]
-- [[stakeholders]] — المظلة: الناس والجمهور المستهدف في تعليم الذكاء الاصطناعي (المتعلّمون والمعلّمون والمصممون والإداريون وصانعو السياسة)
-- [[metaphors-and-analogies]] — كيف تُشكّل الاستعارة فهم الذكاء الاصطناعي، وكيف يدعم التناظر التدريس
-
-## المقالات المترابطة
-
-- [[jordan-faculty-ai-oer-creation-2025]] — من المطالبة إلى الممارسة: مبادرة محورها أعضاء هيئة التدريس لاستكشاف إنشاء الموارد التعليمية المفتوحة (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — تحليل نقدي للخطاب في نصائح مواءمة الذكاء الاصطناعي التوليدي: إعادة صياغة المطوّرين كمدربين تقنيين
-- [[crompton-faculty-technology-integration-standards-2026]] — معايير أعضاء هيئة التدريس لدمج التقنية (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — الأبعاد الأخلاقية للذكاء الاصطناعي: وجهات نظر أعضاء هيئة التدريس والطلاب
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — كيف تبني استعارات أعضاء هيئة التدريس في الهندسة فهم الذكاء الاصطناعي (وتقيّده)
-- [[fear-awe-genai-metaphor-workshops-2025]] — الخوف والرهبة: فهم الذكاء الاصطناعي التوليدي عبر الاستعارة (ورشة استعارات لأعضاء هيئة التدريس/الموظفين/الطلاب)
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — أربعة معايير وأربع استعارات لتعليم ثقافة الذكاء الاصطناعي النقدية
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — حكم غير المرئي: ثقافة الذكاء الاصطناعي لدى معلّمي اللغات
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — الذكاء الاصطناعي التوليدي كأزمة هوية، لا فجوة مهارات
-- [[zuo-instructor-power-genai-writing-2026]] — علاقات القوة كما يُدركها مدرسو الجامعات المتصارعون مع الذكاء الاصطناعي التوليدي في الكتابة (زو وشو ودنينغ 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — نموذج المثلث التأملي: الذكاء الاصطناعي كوسيط معرفي
-- [[sutedjo-faculty-genai-tpack-21-2026]] — معرفة أعضاء هيئة التدريس المُدركة ذاتيًا لـ TPACK-21 للذكاء الاصطناعي التوليدي (سوتيدجو وتشودري وليو 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — التطوير المهني Intelligent-TPACK: الحضور يتنبأ بالمكاسب، المشاركة المُدركة ذاتيًا لا
-- [[instructional-design-proficiency-masters-math-2026]] — نموذج الصف الذكي وحلقة D-T-E تحسّن كفاءة تصميم التعليم في مقرر ماجستير الرياضيات (تشو وزملاءه 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — بنية الأدوار في أنشطة المجموعة المُفارقة المصممة بالذكاء الاصطناعي (طالب زادة 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — تجارب المدرّسين الجامعيين وتصوراتهم عن GAI: الضعف وإعادة النظر في التقويم وتعلّم الطلاب في خطر (فارازولي وزملاءه 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — من الخوف إلى الابتكار: معهد لأعضاء هيئة التدريس مدته ستة أسابيع، وبيداغوجيا تكافلية، وشروط مؤسسية لم يستطع توفيرها
-- [[vassallo-ai-guilt-complex-faculty-2026]] — معقّد ذنب الذكاء الاصطناعي: الذنب الاستباقي والإخفاء والفروق بين مراحل المسار الوظيفي بين الموظفين الأكاديميين (فاسالو 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — مسح AAC&U/Elon لـ 1,057 عضو هيئة تدريس أمريكيًا: عدم الاستعداد المؤسسي وحكم رقيق وفجوة السياسة 87%/48% (واتسون وريني 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — المطوّرون الأكاديميون كوسطاء رقميين في التعليم العالي بالجنوب العالمي: التطوير كبراكسيس اجتماعية تقنية
-- [[physics-faculty-learning-community-ai-2026]] — سلسلة ورش للاستخدام الفعّال للذكاء الاصطناعي في أوقات اللايقين: بناء مجتمع تعلّم لأعضاء هيئة التدريس في الفيزياء
-- [[faculty-ai-well-being-social-supports-2026]] — الرفاه الذهني لأعضاء هيئة التدريس مع الذكاء الاصطناعي يتتبّع ثقافة الذكاء الاصطناعي لا الكفاءة الذاتية التقنية
-- [[ai-competence-framework-landscape-2026]] — تحقّق مما تصفه مستويات الإطار قبل تبنّيه
-- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — هل يمكن للتعليم أن يضع أجندة الذكاء الاصطناعي؟ الابتكار المتخيَّل وتوجيه الاتجاه البيداغوجي في إعداد المعلّمين
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 معلّم كيمياء في برنامج من ستة أسابيع: كفاءة البحث بعد تطوير مهني مدعوم بالذكاء الاصطناعي
-- [[ma-ai-corpus-language-teaching-coi-2026]] — برنامج إلكتروني من 20 أسبوعًا مع أكثر من 150 معلّم لغة من 28 بلدًا (Ma et al. 2026)
-- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2,159 معلّمًا إسكندنافيًا: التطوير المهني أضاف 0.20 انحراف معياري في المنافع المُدركة (White et al. 2026)
-- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 معلّمًا: الانخراط في التطوير المهني يتوسّط بين إشباع الحاجات النفسية ونية استخدام الذكاء الاصطناعي التوليدي (Yuan et al.)
-- [[bodek-prompted-to-explore-microlearning-2026]] — نموذج تعلّم مصغّر مبني ليلائم الوقت المتاح فعلًا لأعضاء هيئة التدريس (Bodek)
-- [[bursic-ai-residency-education-curriculum-2026]] — عوائق دمج الذكاء الاصطناعي في مناهج الإقامة الطبية: مقابلات نوعية مع اثني عشر قائدًا طبيًا
-- [[early-childhood-ai-holistic-competencies-review-2026]] — تشكيل الطفولة المبكرة في عصر الذكاء الاصطناعي: الكفاءات والتربّويات والدعم البيئي (Pei 2026)
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — الإغاثة أم الإحلال؟ ما يطلبه 22 معلّمًا من تطوير الذكاء الاصطناعي التوليدي (Dangol et al.)
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE (2026): 69% من المؤسسات ترفع مهارات العاملين الحاليين بدل شراء القدرة
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 مربيًا بنوا قواعدهم الخاصة حين لم يصل إرشاد مؤسسي
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — تجديد المناهج التقنية والمهنية يكشف فجوة قدرة تصل إلى تطوير أعضاء هيئة التدريس (Wang)
-- [[aalhe-capacity-disposition-genai-assessment-2026]] — البرامج التي تعامل التطوير طبقةً متكررة من الدعم المؤسسي لا حدثًا واحدًا تبلّغ عن الفرق (AALHE)
-- [[chen-future-faculty-development-ai-2027]] — الكفاءة موزّعة على فريق تدريس، مع قدرة تقنية وأخلاقية أساسية شاملة للجميع
-- [[ji-judgement-space-dialogic-inquiry-2027]] — فضاء الحكم: الأطر تسرد الكفاءات وتترك شروط الحكم دون تنظير
-- [[jiang-faculty-development-japan-2027]] — المشاركة اليابانية إلى 32.7% من الجامعات في 2023 بينما هبطت صيغ الزمالة (Jiang et al. 2026)
-- [[tian-transnational-faculty-development-governance-2027]] — التطوير العابر للحدود يحتاج أمانة وأرشيفًا وحوكمة مشتركة لا ندوات متفرقة (Tian et al. 2026)
-- [[ho-invariant-core-faculty-development-2027]] — نواة ثابتة وحدّ متحرّك: الآلية العصبية النفسية للتعلّم قبل أي تقنية (Ho 2026)

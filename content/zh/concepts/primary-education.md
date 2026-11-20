@@ -16,6 +16,8 @@ ai_assist:
 translation_of: concepts/primary-education
 source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
+connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -138,32 +140,3 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - **"儿童会以健康的怀疑态度面对聊天机器人。"** 在上述研究中，信任形成得很快：多数人接受了系统的回答，超过三分之一像对待老师或朋友那样对待它。
 
 - **"年幼儿童拿到的是同一份 AI 素养大纲的简易版。"** 跨学段变化的是任务的种类，而不是难度：早期是故事与制作，后期是批判与问责。
-
-## 关联概念
-
-- [[developmental-psychology]] —— 为什么年龄改变的是任务能要求什么，而不只是它有多难
-- [[math-education]] —— 拥有最多小学 AI 试验、也拥有最多零结果的学科
-- [[reading-education]] —— 低年级的流畅性、解码与剂量效应
-- [[writing-education]] —— 自动反馈、修改与量规评分的局限
-- [[digital-divide]] —— 决定谁受益的设备、连接与技能差距
-- [[equity-in-ai-education]] —— 按收入、语言身份与城乡差异的差异化效应
-- [[teacher-role]] —— 组织引导、中介，以及 AI 为教师一天增添的劳动
-- [[curriculum-design]] —— 在各年级之间编排 AI 素养，而不是增加一个模块
-- [[privacy]] —— 儿童数据、留存，以及架构层面而非合同层面的保护
-- [[assessment]] —— 什么算作小学学习者有所收获的证据
-
-## 关联文章
-
-- [[ai-elementary-language-education-review-2026]] —— 31 项小学语言学习中 AI 的研究，集中于口语、识字与词汇
-- [[guo-ai-literacy-developmental-paces-2026]] —— 118 项 K-12 研究，组织进 PACES 发展框架
-- [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] —— 16 项以 AI 本身为教学内容的干预，合并效应 g = 0.892
-- [[yim-ai-literacy-primary-schools-review-2025]] —— 25 项小学研究；AI 素养作为四股教学不均的素养，多以问卷评估
-- [[barokah-ai-elementary-science-review-2026]] —— 103 篇文献，勾勒小学科学的五个应用集群；认识论结果单薄
-- [[karampa-students-game-designers-ai-literacy-2026]] —— 22 名学生制作反虚假信息逃脱游戏；AI 素养从 3.684 升到 4.309
-- [[llm-comparative-judgment-writing-screening-2026]] —— 3 至 6 年级 1,208 名学生，LLM 成对评分
-- [[melo-llm-classroom-observation-teach-2026]] —— 8,618 条 AI 评估对照专家 TEACH Primary 评分
-- [[age-tiered-ai-literacy-guidebooks-2026]] —— 分年龄指南，831 名参与者；接受度不等于学习
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] —— 6 岁与 7 岁儿童的额顶连接弱于成人
-- [[tutor-case-bench-challenging-behaviors-2026]] —— 923 个有记录的案例；最佳模型在 55.8% 的情况下给出有记录的回应
-- [[llm-simulating-student-scientific-thinking-2026]] —— 模拟学生的想法在小学阶段偏离真实想法最远
-- [[human-ai-complementarity-social-emotional-learning-2026]] —— 智能体把握语气与流程；教育者主导反思

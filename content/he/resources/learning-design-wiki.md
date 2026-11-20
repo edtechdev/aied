@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -49,7 +50,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 ## הערות ואזהרות
 
 קראו את פאנל האמון בכל עמוד. מודלי שפה מתחזקים את הוויקי תחת מתחזק אנושי אחד, שום אדם לא בדק אף עמוד, והאתר מתייג עמוד כרמז מבוסס-מקורות היטב ולא כממצא. לטענות יש דירוג עיצובי, קוד גודל אפקט וקוד קפדנות, ו"לא הודפס גודל אפקט" פירושו שהמקור לא דיווח על אחד, לא שאין כזה. התוכן הוא CC BY-SA 4.0, כך ששימוש חוזר חייב לשאת את אותו רישיון, והקוד הוא MIT.
-
-## מושגים מקושרים
-
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -115,70 +117,3 @@ ai_assist:
 - **«Университеты приняли обязательную политику в отношении ИИ.»** Из **48 учреждений** у **40 (83%)** был хотя бы один публично доступный документ, и в этих 40 **управление реализовывалось преимущественно как руководство, а не обязательная норма**. Опубликованное руководство — это не подлежащая исполнению политика.
 - **«Политика пишется в первую очередь для студентов, потому что студенты и есть риск.»** Большинство документов адресовались **преподавателям и студентам вместе (20, 51%), а не только студентам (6, 15%)**, и ни тип политики, ни аудитория не варьировались в зависимости от формата обучения. Формулировка совместная, а значит, обязанности общие.
 - **«Неоднозначная политика не затрагивает опыт студентов.»** Неоднозначность политики проявляется непосредственно в **опыте студентов**: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|вовлечённость студентов в работу с GenAI]] формируется неопределённостью, поэтому неоднозначность — это активное условие, а не нейтральный пробел.
-
-## Связанные концепции
-
-- [[pedagogical-partnerships]] — Педагогическое партнёрство
-- [[ai-use-disclosure]] — Заявления об использовании ИИ и его декларировании
-- [[remote-proctoring]]
-- [[ethics]]
-- [[higher-ed]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[summative-assessment]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[stakeholders]] — Зонтичная категория: люди и аудитории в образовании с ИИ (учащиеся, преподаватели, дизайнеры, администраторы, разработчики политики)
-- [[student-support-and-success]] — Надзор за институциональными системами поддержки ИИ
-
-## Связанные статьи
-
-- [[jones-care-ethics-ai-governance-higher-education-2026]] — Этика заботы для институционального управления ИИ, пять компонентов и институциональные вопросы, в которые они превращаются
-- [[kaze-ai-management-higher-ed-2026]] — AI adoption in higher education: the case for designated AI management (Kaže et al. 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — Управление генеративным ИИ в образовании: обзор принципов, механизмов и рисков (Elmahjub и др. 2026)
-- [[ai-literacy-sdg-governance-framework-2026]] — ИИ-грамотность как управленческая способность для устойчивого развития: таксономия AIRE и карта AI–SDG Nexus (Islam, Morshed & Islam 2026)
-- [[tan-aigem-ai-educational-management-2026]] — Рамки AIGEM для управления ИИ в образовательном менеджменте
-- [[institutional-ai-policy-health-informatics-2026]] — Документы политики и руководства по ИИ в 48 аккредитованных CAHIIM программах по информатике здравоохранения: управление как необязательное, центрированное на добросовестности руководство (Eldredge et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Студенты, совместно проектирующие политики курса в отношении GenAI посредством направляемого исследования (Hingle & Johri 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — От аналитики обучения к образовательным интервенциям: факторы, способствующие доверию к интервенциям на основе аналитики обучения (Svetec, Divjak & Kadoić 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Несоблюдение студентами деклараций об использовании ИИ
-- [[vetter-hidden-cost-disclosure-genai-2026]] — Скрытая цена декларирования
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Декларирование использования ИИ студентами, стигма и саморегулируемое обучение
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Какое заключение находится под угрозой: рассуждение о валидности оценивания и генеративный ИИ (Weidlich 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Глобальный Дельфийский метод по управлению и политике в сфере GenAI
-- [[qian-governing-genai-higher-ed-policy-2026]] — Управление через руководства: правила учебных программ, задаваемые преподавателями, и экосистема поддержки из четырёх подразделений в 50 инновационных университетах США (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Управление профессорско-преподавательским составом, усмотрение преподавателей и периодическая ревизия в политике юридических школ в отношении GenAI (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Чрезмерно широкие запреты «ИИ», преобразование формата и проблема разумной адаптации (Wright 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Отказ как свидетельство: неравномерное управление, обязанность понимания и диагностическая ценность неиспользования (Zagami 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Упреждающее управление и лидерство в сфере ИИ
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Внедрение AIDA в Открытом университете
-- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: лидерство в интересах преобразующих изменений
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Вовлечённость студентов в работу с GenAI (теория самодетерминации)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: переработка аутентичного оценивания
-- [[genai-policies-higher-ed-computing]] — Институциональная политика в отношении GenAI в вычислительных дисциплинах
-- [[genai-declaration-frameworks-higher-education]] — Рамки декларирования ИИ
-- [[genai-assessment-governance]] — Управление оцениванием в условиях GenAI
-- [[ai-uk-higher-education-policy-2026]] — ИИ в политике Великобритании в сфере высшего образования
-- [[raza-farooq-aied-review-2020-2025]] — Комплексный обзор исследований AIED
-- [[cognitive-commons-ai-expertise-regeneration]] — Трагедия когнитивного общего достояния: ИИ и регенерация экспертизы
-- [[policy-deficit-ai-sel-2026]] — Дефицит политики в исследованиях на стыке ИИ и социально-эмоционального обучения
-- [[agarwal-ethical-values-norms-aied-2026]] — Этические ценности и нормы для ИИ в образовании
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: универсальный ИИ в политике (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Кто действует, кто знает, кто отвечает? Корпусный дискурс-анализ агентности, эпистемической ответственности и подотчётности в исследованиях по генеративному ИИ в высшем образовании
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: рамки для ИИ в вычислительном образовании
-- [[genai-governance-australian-higher-ed-2026]] — Отображение авторизованной границы: сравнительное исследование вигнет политики в сфере управления генеративным ИИ в австралийском высшем образовании
-- [[wong-sun-agentic-ai-assessment-governance-2026]] — Делегирование, свидетельства и доступ: что агентный ИИ меняет в управлении университетским оцениванием (Wong & Sun 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Прототипы ИИ и школьные пилоты как управленческая машинерия, предвосхищающая выбранное будущее (Williamson и др.)
-- [[li-su-teacher-genai-decision-making-2026]] — A proposed path from governance clarity to teacher decision episodes
-- [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative AI as a service-operations question
-- [[chan-ai-policy-gap-2026]] — Governance language sits in general policies and never in the funding rules that bind applicants (Chan 2026)
-
-
-

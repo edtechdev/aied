@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
+connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -94,40 +96,3 @@ A identidade de quem aprende se conecta à [[agency|autonomia]] (a identidade é
 **"A assistência de IA reduz barreiras e, portanto, amplia a participação."** Ela pode reduzir a barreira para produzir trabalho enquanto estreita a barreira para reivindicar autoria. Um estudante que submete um artefato fluente que não escreveu recebeu acesso ao resultado e foi negado o reconhecimento que constrói a identidade por trás dele.
 
 **"Reconhecer a identidade de quem aprende é uma questão de representação no conteúdo."** A representação importa, e o reconhecimento é encenado na prática: quais perguntas são acolhidas, qual contribuição é creditada e quem é tratado como capaz. Um [[curriculum-design|currículo]] pode ser representativo e ainda assim retirar o reconhecimento que a formação da identidade exige.
-
-## Conceitos conectados
-
-- [[learners]] — Quem aprende: o guarda-chuva dos conceitos do lado do estudante
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[stem-education]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-
-## Artigos conectados
-- [[guarded-adoption-genai-higher-education-2026]] — Adoção resguardada de IA generativa no ensino superior
-
-- [[ting-ai-learning-ownership-purpose-2026]] — 14 estudantes de graduação sobre o que continuam fazendo por conta própria, e por que o propósito raramente decide isso
-- [[t2i-competence-paradox-2026]] — O paradoxo da competência: identidade criativa no uso de IA generativa de texto para imagem
-- [[shame-guilt-ai-regulation-computing-education]] — Vergonha e culpa como reguladores sociais do uso de IA
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Capacidades adaptativas para uma identidade profissional viável em um futuro de IA generativa
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Simbiose pedagógica e o estudante pós-humano
-- [[ai-pedagogical-accompaniment-amico]] — Acompanhamento pedagógico habilitado por IA apoiando a identidade STEM
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Desenhando para a avaliação autêntica
-- [[paternalistic-filter-llm-history-education]] — Uso paternalista de IA e identidade do estudante na educação em história
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — A IA generativa como crise de identidade para o corpo docente (identidade do professor)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — Treinamento de professores baseado em TPK e identidade profissional
-- [[genai-professionalization-metaphors-2026]] — Conceituações de IA generativa e identidade profissional do estudante
-
-- [[synthetic-position-self-authorship-2026]] — Suspensão autoral: a autoria delegada como um self densamente expresso, mas não autoral (análise conceitual)
-- [[vibe-coding-design-diversity-2026]] — Uma ferramenta, um gosto? Como o vibe coding troca a diversidade coletiva pela criatividade individual
-- [[kim-solo-game-development-autoethnography-2026]] — Entrando em um novo domínio na era da IA generativa: uma autoetnografia do desenvolvimento solo de um jogo como educador de bioinformática

@@ -33,6 +33,7 @@ ai_assist:
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -52,11 +53,3 @@ Wanafunzi wa shahada ya kwanza katika taaluma yoyote, na wanafunzi wa sekondari 
 Mwongozo umeandaliwa kama wa kuunda ([[formative-assessment|wa kuunda]]) na unasema hivyo: alama ni picha ya muda wa tabia, si alama, sifa, au utabiri, na wanafunzi wanaambiwa wasizisambaze hadharani.
 
 Muundo wa mawazo kuhusu AI unategemea ushahidi wa utafiti wa dodoso na wa majaribio uliotajwa unaoonyesha kuwa kupitisha juhudi kunaweza kuwaacha wanafunzi wakibaki kidogo — ambayo ni swali la kupunguza mzigo wa kiakili ([[cognitive-offloading|kupunguza mzigo wa kiakili]]) ambao mwongozo umeandikwa kukizingatia, si kusuluhisha. PDF ya mwongozo wa uwanja iko nyuma ya fomu fupi inayoomba jina, nafasi, taasisi na barua pepe; moduli za mwongozo wa mwalimu na karatasi ya mfumo wa mbinu za kufundisha hupakuliwa moja kwa moja. Toleo la mwingiliano linaendeshwa katika Gemini Notebook na linahitaji akaunti ya Google. Takwimu za mchapishaji za vipakuli 40,000 zaidi vya PDF katika taasisi takribani 4,000 katika nchi 180, na matoleo 130 zaidi ya kituo maalum cha kampasi, ni zao, kama ilivyo idhini kutoka ALA, NASPA, EDUCAUSE, OLC, CAA, Taasisi ya Gardner na RTI International.
-
-## Dhana Zilizounganishwa
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -44,7 +46,6 @@ ai_assist:
 
 - **기계 생성 양적 연구선.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]]는 수렴 설계 아래 참가자의 인터뷰 전사록으로부터 BREQ 양적 연구선을 생성했습니다. 이는 인간 노동에만 의존하지 않는 통합 경로입니다. LLM–인간 상관은 중간에서 높은 수준(ρ = .5에서 .73)에 걸쳐 있었고, 문항·사람·검사 수준 RMSE가 인간 응답과의 거리를 수량화했으며, 부정적으로 진술된 6, 7, 11번 문항이 가장 분명한 삼각검증의 이득을 표시하여 인터뷰와 설문 증거가 갈라지는 곳을 표시했습니다.
 
-
 ## 혼합 방법이 지식 베이스에 나타나는 방식
 
 - **메커니즘 설명하기.** [[same-ai-different-pathways]]는 양적 차이만으로는 불투명할 학문-기관 맥락 전반에 걸쳐 AI 매개 학습의 메커니즘을 풀기 위해 연구선들을 결합합니다.
@@ -72,26 +73,3 @@ ai_assist:
 - **"관찰과 인터뷰 증거가 시스템 주장을 떠받칠 수 있습니다."** 시스템 관찰과 [[administrator|행정진]] 논의를 **8개 학기에 걸친 8,708명 학생의 4년 무작위 평가**와 짝짓고 **0.05 표준편차**의 효과를 탐지하도록 설계한 것은 질적 연구선이 단독으로 할 수 없는 일, 즉 작은 효과를 신뢰롭게 탐지하는 일을 보여 줍니다. 혼합 방법은 연구선 사이로 검정력을 옮기는 방법이 아닙니다.
 - **"삼각검증은 두 개의 약한 방법이 강한 주장을 만드는 것입니다."** 짝짓기의 가치는 각 연구선이 다른 질문에 답한다는 데 있습니다. 둘을 모두 실행한 뒤 질적 발견을 양적 발견의 확인으로 보고하는 설계는 삼각검증을 한 것이 아니라 같은 말을 되풀이한 것입니다.
 - **수렴은 서사가 아니라 채택 규칙일 수 있습니다.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]]는 재설계 우선순위를 다섯 개의 독립적 출처 중 최소 두 곳, 그리고 실행 지향 출처 한 곳에서 나타날 때만 집계했으므로, 지각만으로는 그것을 승격시킬 수 없었습니다.
-
-## 연결된 개념
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## 연결된 문서
-
-- [[genai-over-reliance-learning-2026]] — 향상에서 과잉 의존으로 (설문지 + 인터뷰)
-- [[t2i-competence-paradox-2026]] — 역량 역설 (포커스 그룹 + 설문지 + 인터뷰)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — 신뢰-효용 격차 (설문지 + 인터뷰)
-- [[same-ai-different-pathways]] — 맥락 전반에 걸친 AI 매개 학습의 메커니즘
-- [[genai-feedback-design-multisite-experiment]] — 인간 중심 GenAI 피드백 설계 (다기관)
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터 안전성과 교수법적 위해
-- [[becker-chatgpt-typology-physics-2026]] — 물리학에서의 ChatGPT 채택에 관한 질적 유형학
-- [[edtech-privacy-deferral-2026]] — "나중에 고치겠습니다": 교육, AI, EdTech의 학생 프라이버시 이연
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER와 RoBERTa가 같은 게시물에 반대의 정서가를 부여한 Bluesky AIED 담론 분석

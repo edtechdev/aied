@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
+connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -169,73 +171,3 @@ Diese Seite ist der *wie ein Modell gemacht wird*-Begleiter zu [[llm]], das beha
 - **„Das Modell ist die Hauptdeterminante von Lernzuwächsen."** Modell- und Prompt-Wahl erklären nur **etwa 15%** der Lücke zwischen einem LLM und Lernzuwächsen von Studierenden. Die verbleibenden 85% zu optimieren ist die Arbeit, und sie steckt nicht in den Gewichten.
 - **„Ein lokales Modell wird schlechter abschneiden als ein gehostetes, Abruf ist also ein geringerer Hebel."** In einer Evaluation mit drei Konfigurationen war **der Abruf, nicht das Modell, die Designentscheidung erster Ordnung**: das lokale LLM **ohne Abruf erreichte nur 52,3% Genauigkeit, unterhalb einer TF-IDF-Baseline**. Abruf hinzuzufügen brachte dasselbe Modell über eine Schwelle, die kein Modelltausch aus eigener Kraft erreicht hätte.
 - **„Mehr Trainingsdaten bedeuten besseres Lehrverhalten."** Die Bewertungs-Feinabstimmung, die die Formatierung verbesserte und die Feedbackerzeugung verschlechterte, ist das Gegenbeispiel im Kleinen: Optimierung gegen ein ähnlich aussehendes Ziel kann den Stellvertreter verbessern und die Sache verschlechtern, die Sie wollten.
-
-## Verbundene Konzepte
-
-- [[llm]] — was diese Modelle sind; diese Seite ist, wie sie gemacht werden
-- [[ai-technologies]] — Dach: KI-Technologien und -Techniken
-- [[rag]] — Abruf, der Schritt vor dem Training
-- [[prompt-engineering]] — der günstigste Hebel, und die zu schlagende Baseline
-- [[reinforcement-learning]] — die RL-Stufe des Post-Trainings
-- [[intelligent-tutoring]] — die Hauptanwendungsdomäne
-- [[adaptive-learning]] — an Lernende anpassen, als unterscheidbar vom Anpassen von Modellen
-- [[automated-assessment]] — wo feinabgestimmte Bewertungsmodelle landen
-- [[automated-essay-scoring]] — die Aufgabe, aus der der Großteil der Bewertungsevidenz stammt
-- [[ai-feedback-quality]] — was Feinabstimmung tut und nicht tut
-- [[educational-nlp]] — die benachbarte Methodenfamilie
-- [[simulating-students]] — die lernendenseitige Anwendung derselben Maschinerie
-- [[student-modeling]] — die Modellierungsschicht unter Simulation
-- [[open-source]] — offene Gewichte sind, was lokale Feinabstimmung möglich macht
-- [[benchmark]] — wie diese Systeme evaluiert werden, und die Grenzen davon
-- [[assessment-validity]] — warum eine gute Kennzahl trotzdem ein schlechtes Instrument bedeuten kann
-- [[pedagogical-safety]] — was Training nicht garantiert
-- [[ai-sycophancy]] — ein Verhalten, das Post-Training adressieren kann
-- [[hallucination-risk]] — der Fehlermodus, den Feinabstimmung nicht heilen kann
-- [[privacy]] — die Einschränkung für Trainingsdaten und für Unlearning
-- [[human-in-the-loop-ai]] — der Rückfall, der Automatisierung bezahlbar macht
-- [[metacognition]] — ein pädagogisches Ziel für Post-Training
-- [[scaffolding]] — das Verhalten, das die Belohnungsfunktionen zu kodieren versuchen
-- [[ai-education]] — das Feld, dem diese Arbeit dient
-
-## Verbundene Artikel
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL–SFT–RL-Pipeline: 96,52 % auf CDPK, übertraf Gemini-3 Pro
-- [[learnlm-improving-gemini-learning]] — pädagogisches Instruktionsbefolgen innerhalb von Geminis Post-Training
-- [[teachlm-post-training-llms-education]] — Post-Training auf 100,000 Stunden authentischen Tutoring-Daten
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomieausgerichtetes Post-Training, das die pädagogische Entscheidung adressiert
-- [[swim-student-writing-simulation-2026]] — SFT und GRPO gegen Rubrik-Prompting, mit Detail zum Belohnungsdesign
-- [[misconception-acquisition-dynamics-llms-2026]] — Lösungsspuren auf Schrittebene als bindende Anforderung für Fehlvorstellungstraining
-- [[jeon-isd-agent-bench-2026]] — theorieverankerte Instruktionsdesign-Agenten über 25,795 Szenarien
-- [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — heuristisches RL, um Modelle als sokratische Anleiter auszurichten
-- [[special-r1-rl-special-education]] — bestärkendes Lernen für Sonderpädagogik-Ausrichtung
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — LLM-geleitetes bestärkendes Lernen für Personalisierung
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — ein pädagogisches großes Schlussfolgerungsmodell
-- [[omniedu-open-educational-foundation-models-2026]] — ein Zielverhalten pro Beispiel, über Modellskalen hinweg
-- [[garrod-edu-qurating-educational-data-curation-2026]] — Bildungsdaten für Training kuratieren
-- [[lora-finetuned-control-systems-course-qa-2026]] — LoRA-Rang-Effekte und Gewinn pro Adapter-Parameter
-- [[aiawe-automated-writing-evaluation]] — LoRA-angepasstes AWE, wo Skala Erfolg nicht vorhersagte
-- [[llm-graders-computer-science-exams-2026]] — ein Adapter auf ~3,900 Beispielen erreicht Parität mit menschlichen Bewertenden
-- [[iks-instruct-dataset-indian-knowledge]] — ein Instruktionsdatensatz mit 24,795 Beispielen und die Basis-Baseline nahe null
-- [[llm-children-reading-story-generation]] — Kontrollierbarkeit über Stufe für die Steuerung der Lesestufe
-- [[bert-discourse-english-teaching-2026]] — welche Schichten feinzuabstimmen sind, und warum vier zwölf schlug
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Architektur, nicht Parameterzahl, entscheidet, ob Feinabstimmung wirkt
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destillation in ein 2B-Modell mit einem Treue-Audit
-- [[llm-unlearning-math-privacy]] — gradientenbasiertes Unlearning von PII und schädlichen Inhalten
-- [[reflection-level-classification-hungarian-essays-2026]] — feinabgestimmte Transformer versus klassische und Einbettungs-Baselines
-- [[multimodal-item-parameter-estimation-2026]] — IRT-Kurven aus multimodalen Items lernen
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Konfidenz-Routing als die Human-in-the-Loop-Policy
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Abruf als die erstordentliche Entscheidung, mit berichteter Energie und VRAM
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 Studien: Prompting 13, Feinabstimmung 7, hybrid 3
-- [[gpt-item-generation-l2-listening-2026]] — Prompting erreicht ein Plateau, dann fügt Feinabstimmung den Rest hinzu
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — Feinabstimmung gewann bei Bewertung und scheiterte bei Feedback
-- [[educational-llm-alignment]] — die ~15-%-Obergrenze für Modell- und Promptwahl
-- [[yasar-llms-iterative-pedagogical-design-2026]] — rubrikgeleitetes Prompting als die Alternative ohne Training
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Persona-Steuerung auf Prompt-Ebene für die Fehlvorstellungs-Simulation
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sykophantie als explizite Trainingsanforderung
-- [[contextual-sycophancy-ai-literacy]] — Sykophantie, die Prompting und Ausrichtung übersteht
-- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit, die über anhaltenden Dialog hinweg degradiert
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — ~35 % unbenutzbare Hinweise von einem ungetrainierten Frontier-Modell
-- [[simulated-students-tutoring-dialogues-2026]] — ob simulierte Studierende sich wie Studierende verhalten
-- [[inside-llm-student-simulator-reasoning-2026]] — ein Modell feinabstimmen, um wie eine Studierende zu handeln und zu denken
-- [[history-aware-student-simulation]] — Simulation, konditioniert auf die Trajektorie einer Lernenden
-- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Curriculum-strukturierte Daten sind stichproben-effizient

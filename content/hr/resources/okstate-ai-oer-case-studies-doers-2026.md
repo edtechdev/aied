@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -41,11 +42,3 @@ Osoblje za [[educational-policy-ai|politike]] i voditelji otvorenih izvora u knj
 ## Napomene i upozorenja
 
 Licenciranje poglavlja je zamka. Zbirka je CC BY 4.0, ali pojedini autori zadržavaju autorsko pravo i odabrali su vlastite licencije Creative Commons, pa poglavlje može biti restriktivnije nego što stranica knjige sugerira; poglavlje o reviziji udžbenika je CC BY-NC-SA 4.0, pa ponovna upotreba mora provjeriti poglavlje, a ne uvodne stranice. Autori nisu imali propisani postupak objave upotrebe umjetne inteligencije, pa većina poglavlja svoj proces spominje usput, uglavnom slijedeći smjernice OER Commonsa. Uredničkom odlukom svako poglavlje zadržava disciplinarni glas, interpunkciju i regionalni pravopis svog autora, pa proza ne teče jednolično. Iznad svega, svako poglavlje dokumentira jedan lokalni projekt i nijedna dva ne dijele instrument ni usporedbu, pa svezak nudi praksu za prilagodbu, a ne dokaze za citiranje.
-
-## Povezani pojmovi
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

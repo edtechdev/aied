@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -75,35 +77,3 @@ SDT пов’язується безпосередньо з [[motivation]] як 
 - **«Тип мотивації важливий менше, ніж її кількість».** Річне дослідження виявило **три мотиваційні профілі — незалучений, зростаючий, самодетермінований — стабільні в часі**, і студенти, які досягли **самодетермінованого** профілю, показали **найбільші здобутки в [[ai-literacy]]**. Якість мотивації передбачала навчання, і профілі не просто дрейфували вгору.
 - **«Підтримка автономії означає прибрати структуру».** Механізм SDT — автономія, компетентність і спорідненість разом, і лонгітюдні докази показують, що їхнє задоволення передбачало здобутки, а не лише супроводжувало їх. Автономія без підтримки компетентності — це дозвільність, і вона не задовольняє умов теорії.
 - **«[[conversational-ai|Чатбот]] може автоматично забезпечити три потреби».** Дослідження виявило, що ChatGPT міг підтримувати автономію, спорідненість і компетентність у навчанні мови — можливість, а не властивість. Чи підтримує їх конкретна взаємодія — емпіричне питання про те, як її використовують.
-
-## Пов’язані поняття
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Пов’язані статті
-- [[family-school-autonomy-support-genai-2026]] — Підтримка автономії сім’я–школа для відповідального використання генеративного ШІ дітьми
-- [[dual-ai-learning-pathways-sdt-2026]] — Тиск/підтримка автономії в старшій школі та двійні шляхи навчання зі ШІ (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Аналітика навчання та GenAI в прийнятті рішень щодо проєктування навчання
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Досвід студентів із ChatGPT в навчанні англійської мови
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Характеристики здобувачів × взаємодії формату діалогу TTS
-- [[liang-ai-learning-motivation-sdt-2026]] — Аналіз латентних переходів SDT мотивації студентів до навчання зі ШІ (2 086 студентів середньої школи)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Мотивація студентів і задоволеність потреб в аудиторіях GenAI (Schweder, Hagenauer & Raufelder 2026)
-- [[genai-learning-engagement-medical-undergraduates-2026]] — Використання GAI слабо пов’язане із задоволеністю потреб і непотрібне для високої залученості (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Двійні шляхи від співпраці викладач–ШІ до залученості в роботу, модеровані цифровою компетентністю
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Притримування підказок зберегло автономію там, де видання відповіді — ні
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Наявність ШІ, падіння автономії та мотиваційні профілі у 5–8 класах (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 досліджень, закодованих проти класифікації з 20 активностей: компетентність задіяна найбільше, спорідненість — найменше

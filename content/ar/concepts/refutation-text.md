@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 foundations: [misconceptions]
+connected_concepts: [pedagogical-patterns, misconceptions, scaffolding, metacognition, generative-ai, stem-education, physics-education, medical-education, collaborative-learning, intelligent-tutoring]
+connected_articles: [ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, llms-misconception-collaborative-learning-healthcare-2026, chatgpt-inoculation-training-verification-2026, critical-genai-use-predictors, ai-learning-companions-framework]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -61,7 +63,6 @@ foundations: [misconceptions]
 
 تختلف الدراستان الكامنتان وراء ذلك الاعتماد على التصميم في أكثر من المجال. فقد عشوّن Corbett وTangen 375 بالغًا تتراوح أعمارهم بين 19 و78 عامًا واستهدفا أعلى مفهوم خاطئ تقييمًا لدى كل مشارك في حوار واحد من ثلاث جولات؛ وثبتت ميزة الحوار على النص الداحض المدرسي عند 10 أيام لكنها تلاشت بحلول شهرين ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett وTangen، 2026]]). أما 413 طالبًا في الصف العاشر في أنقرة لدى Akdoğan، فتلقّوا جلسة مطالبة مكتوبة واحدة لا جلسة مخصّصة، فلم يُظهر الشرط التفاعلي ميزة على الضابط بينما أظهرتها النصوص المكتوبة من الخبراء والمولَّدة بالذكاء الاصطناعي ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan، 2025]]). فالتخصيص ونافذة الاحتفاظ، لا التفاعلية في ذاتها، هما ما يفصل النتائج، ومنحنى التلاشي هو النتيجة العملية: حوار واحد يشتري أسابيع من التصحيح لا تغييرًا اعتقاديًا دائمًا.
 
-
 ### موضوعات البحث المفتاحية
 
 - عمّا إذا كان الحوار المخصّص بالذكاء الاصطناعي يتفوّق على النص الداحض الساكن، وتحت أي شروط.
@@ -83,25 +84,3 @@ foundations: [misconceptions]
 **«مزيد من المعلومات عن التصوّر الصحيح يُصلح المقاومة.»** حجم المعلومات الصحيحة هو التدخّل الذي يفشل أصلًا. فالتغيير المفاهيمي يقتضي جعل نموذج المتعلّم القائم صريحًا وإظهاره غير كافٍ، وهو تحرّك تعليمي مختلف عن إضافة الدليل.
 
 **«المفاهيم الخاطئة والجهل العادي يحتاجان العلاج نفسه.»** بل يحتاجان علاجين مختلفين: الجهل يُعالَج بتزويد المعرفة، والمفهوم الخاطئ يجب إزاحته أولًا. ومعاملة الثاني كالأول هي سبب قدرة درس مشروح جيدًا على ترك نموذج الطالب الأصلي سليمًا.
-
-## المفاهيم المتصلة
-
-- [[pedagogical-patterns]] — تسلسلات الدحض، بما فيها نتيجتان متعارضتان مباشرةً
-- [[misconceptions]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[physics-education]]
-- [[medical-education]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-
-## المقالات المتصلة
-
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — الحوار المخصّص بالذكاء الاصطناعي مقابل دحض الكتب المدرسية لتصحيح الاعتقاد
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — نص التغيير المفاهيمي من تأليف خبير/الذكاء الاصطناعي مقابل حوار الذكاء الاصطناعي التفاعلي
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — المفاهيم الخاطئة المولَّدة بالنماذج اللغوية الكبيرة لأغراض التعلّم التعاوني
-- [[chatgpt-inoculation-training-verification-2026]] — تدريب التحصين كتدخّل داحض مجاور
-- [[critical-genai-use-predictors]] — يوصي بالنصوص الداحضة لاستهداف المفاهيم الخاطئة المفاهيمية
-- [[ai-learning-companions-framework]] — رفاق الذكاء الاصطناعي وتصحيح المفاهيم الخاطئة

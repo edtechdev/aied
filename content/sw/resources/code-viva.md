@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/code-viva
 source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+connected_concepts: [oral-assessment, process-oriented-assessment, academic-integrity, cs-education]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -45,7 +46,3 @@ Waalimu wa kozi za programu wanaotaka ushahidi kuwa mwanafunzi anaweza kueleza m
 ## Vidokezo na tahadhari
 
 Kila kitu kinaendeshwa kwenye kivinjari: kozi inakaa katika hifadhi ya ndani yenye hamisho la JSON, maswali yanasafiri katika sehemu ya kiungo ambayo vivinjari havitumi kwa seva, na majibu yanarudi tu kama misimbo wanafunzi wanachagua kutuma, hivyo hakuna data ya mwanafunzi inayofika kwa mtu wa tatu. Kizalishaji cha maswali kinategemea kanuni badala ya modeli. Kwa maelezo yake, kisomaji chake cha msimbo ni cha kukisia, hivyo muundo usio wa kawaida au macros vinaweza kuficha kazi, na alama inaweza kutuza kujua msamiati badala ya kuelewa msimbo; ndiyo sababu alama ni mapendekezo ambayo mwalimu hukubali, na inashauri viwango vidogo. Hakuna leseni wala hifadhi ya chanzo inayochapishwa, na viungo vinabeba maswali, hivyo ni marefu kwa kisanduku cha ujumbe cha mfumo wa usimamizi wa kujifunza.
-
-## Dhana Zilizounganishwa
-
-[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]

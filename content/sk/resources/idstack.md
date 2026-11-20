@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -39,6 +40,3 @@ Kurzy vstupujú cez pripojenie k API Canvas, súbor IMS Common Cartridge, balík
 ## Čo treba vedieť pred nasadením
 
 Plugin vyžaduje Claude Code a shell bash na inštaláciu; PowerShell a cmd setup skript nespustia a pre trendy skóre sa odporúča Python 3. Dáta kurzu zostávajú v priečinku projektu na stroji čitateľa a odchádzajú len cez integráciu, ktorú používateľ sám vyvolá, napríklad volaním API Canvas. Živá inferencia rozšírenia pre Chrome potrebuje vlastný bezplatný kľúč API z Google AI Studio, hoci simulačný režim ho demonštruje aj bez neho. Projekt sa označuje ako beta vo verzii 3.5.1.0 a varuje pred prelomovými zmenami medzi vedľajšími verziami; je publikovaný pod účtom savvides na GitHube, nie pod menom autora.
-
-## Prepojené pojmy
-[[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

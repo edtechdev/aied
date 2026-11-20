@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -54,7 +56,6 @@ Uundaji wa mfano wa kihisia wa mwanafunzi ni kipengele kingine zaidi: mwalimu wa
 
 Ugumu unaohisiwa ni kipimo kingine cha uundaji wa mfano wa mwanafunzi, na unaweza kutabiriwa kutoka sifa zinazohusiana na mtu badala ya takwimu za maandishi peke yake. [[thome-perceived-text-complexity-student-profiles-2025|Thome na wenzake (2025)]] walijenga mifano ya wasomaji inayotegemea wasifu kutoka tathmini za sentensi 3,954 na wanafunzi 193 wa shule ya upili wa Ujerumani, na mkusanyiko wao wa KNN-pamoja-na-XGBoost ulifikia RMSE 0.822 dhidi ya wastani wa msingi wa 1.070, ukiwa na R2 = 0.396. Kila kirejeleo kilichojumuisha sifa za msomaji kilishinda wastani na msingi wa wastani wa utata, hivyo mfano wa mwanafunzi unaonasa msomaji ni nani hutabiri jinsi maandishi yanavyohisiwa magumu — kipimo cha utambuzi ambacho mifano mingine kwenye ukurasa huu haibebi.
 
-
 ## Tabaka la mafunzo yanayobadilika
 
 Dhana hizi zinajibu swali "inapaswa kufundishwa nini ijayo?" — upande wa matumizi unaotumia mifano ya wanafunzi.
@@ -79,13 +80,11 @@ Dhana hizi zinaunda mlolongo badala ya washindani: **uundaji wa mfano wa mwanafu
 
 Kote katika familia hii, changamoto inayoainisha ya uhalali ni ile ile: uwakilishi wa mwanafunzi lazima **uakilishe kwa uaminifu hali halisi ya mwanafunzi** badala ya dhana chaguomsingi za mfumo. Kwa **uundaji wa mfano wa mwanafunzi** na [[knowledge-tracing]], hii inamaanisha mfano lazima ikamatie kwa kweli kile ambacho mwanafunzi anajua ([[ai-ed-evaluation|tathmini]] na [[assessment-validity|uhalali wa kipimo]]). Kwa [[simulating-students|kuiga]], inamaanisha mwanafunzi bandia lazima aonyeshe kasoro halisi badala ya uwezo kamili wa mfano au makubaliano ya [[ai-sycophancy|kubembeleza]]. Mifumo inayobadilika inayotumia mifano yenye kasoro hurithi na kusambaza hitilafu hiyo.
 
-
 Mifano inayoamua hali ya mwanafunzi kutoka michezo ilifikia AUC ya 0.848–0.913, lakini masudio mawili tu kati ya 55 yaliyokaguliwa yalikagua upendeleo wa kidemografia na moja tu ilichunguza matokeo tofauti kulingana na uwezo wa mwanafunzi ([[ai-game-based-learning-systematic-review-2026|Kaşarcı na Yurt (2026)]]).
 
 Ishara zilizokusudiwa zinaweza kushindwa kurejeshwa kutoka mazungumzo kabisa: jaribio la mfumo wa Muktadha wa Kujifunza lilirejesha dhana potofu kwa 91.4% na [[anxiety-and-stress|wasiwasi]] kwa 100% lakini bidii kwa 68.6% tu na ustadi wa lugha kwa 60%, hivyo mfano unaoelewa muktadha unapaswa kukamata sifa zinazochukua muda kudhihirika badala ya kusubiri mazungumzo yazifichue ([[learning-context-framework-context-aware-ai-education-2026|Liu na wenzake (2026)]]).
 
 Ishara za kisaikolojia na za mtazamo hupanua msingi wa uundaji wa mfano: ufuatiliaji wa macho, EEG, shughuli za umeme wa ngozi na mapigo ya moyo sasa hutumika kudhania mahusiano, umakini na mzigo wa kiakili ([[sensor-and-gaze-analytics]]). Udhanio kutoka ishara hadi hali ya akili ni kiungo dhaifu, kwa kuwa mwili unaweza kurekodiwa bila hali yake kutambuliwa.
-
 
 [[edumirror-educational-social-dynamics|Lin na wenzake (2026)]] wanadhihirisha duara katika jinsi wanafunzi bandia kama hao wanavyothibitishwa: mawakala wao wa EduMirror hutoa [[self-report-measures|dodoso za kisaikolojia]] baada ya tukio na kusoma makubaliano na uwakilishi wa thamani wa ndani ya mwakala kama uhalali wa kisaikolojia, lakini kwa sababu Surveyor hupima vipimo vilivyowekwa tayari katika mfumo huo wa thamani ukaguzi ni ukaguzi wa uthabiti badala ya uthibitisho huru.
 
@@ -102,11 +101,9 @@ Maendeleo ya hivi karibuni yanatumia [[llm|LLM]] kwa uundaji wa mifano wenye uta
 
 Lugha inaweza kuchukua nafasi ya embeddings za ID kama uwakilishi: PLCD hujenga schema za dhana zinazotokana na LLM na grafu za mchakato wa mazoezi kama vigezo vya awali, ikifika usahihi wa 83.51% kwenye XES3G5M, na mapato makubwa zaidi yapo katika cold start — pointi 4.60 za ACC zaidi ya KCD kwa dhana mpya na 4.00 kwa mazoezi mapya — ambapo mifano yanayotegemea ID hayana historia ([[process-grounded-language-cognitive-diagnosis-2026|Liu na wenzake (2026)]]).
 
-
 Ubora wa simulator unatenganika katika milinganisho miwili: mlolongo wa kwanza-kisha-bobea (pool-then-specialize) unaofundisha mifumo ya pamoja ya tabia kabla ya kifaa cha kubadilika kwa kila mwanafunzi ulifika uaminifu wa tabia 0.51 na unyeti wa mwongozo 0.91 katika chess, dhidi ya 0.23 na 0.72 kwa simulator ya msingi ya kuigia kazi, ikionyesha kuwa simulator lazima ilingane na mwanafunzi na iweze kuelekezwa ([[studentsim-llm-student-simulators|Yang na wenzake (2026)]]).
 
 Alama za hatari zinaweza kuwa sahihi lakini zisizoungwa mkono: [[at-risk-students-ml-prediction|Gheisari na Salarian (2026)]] walifika usahihi wa 99% katika kutabiri kuacha masomo kutoka rekodi za usajili na utendaji, lakini kwenye rekodi 1,027 zilizosafishwa za taasisi moja bila uthibitisho wa nje, bila uingiliaji wowote uliojaribiwa, na ukaguzi wa usawa ukitajwa kama kazi ya baadaye — alama inasaidia kupanga kipaumbele, si hukumu kuhusu mwanafunzi.
-
 
 Mfano wa mwanafunzi unaotabiri hatari tu hautoshi kwa msaada wa uamuzi: kuunganisha mfano wa hatari uliosawazishwa na recourse ya programu ya integer juu ya vitendo vilivyotengwa — vilivyothibitishwa dhidi ya vikomo vya wakati, bajeti, kutobadilika na upatikanaji — ilizalisha mipango madogo ya uingiliaji ambayo uboreshaji pekee ulikubali yasiyotekelezeka ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
 
@@ -121,60 +118,3 @@ Uundaji wa mfano wa mwanafunzi na mafunzo yanayobadilika huchangia katika [[lear
 - **"Mfano mwaminifu unahitaji mbinu tata zaidi."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries na Koprinska (2025)]] wanaonyesha kwamba **uwakilishi mwaminifu hauhitaji mbinu tata zaidi**. Utata si kipimo cha uaminifu, na mfano rahisi unaokamata muundo unaohusika unaweza kuwa chombo bora.
 - **"Mifano ya mwanafunzi inahitaji data ya ufuatiliaji."** Mfano wa mwanafunzi wa utabiri unaweza kutegemea **muundo wa uandikishaji** badala ya data ya ufuatiliaji: TRACE huweka kodi kila muhula kama **kikapu cha kozi kisicho na mpangilio** na kutabiri kutoka hapo. Ishara ya utabiri inaweza kuishi katika kumbukumbu za kiutawala za taasisi.
 - **"Hali ya kihisia inahitaji hisi za kifiziolojia."** Mwalimu wa hesabu **alihitimisha hisia kutoka maandishi ya mazungumzo na sura ya uso** na akaoanisha hali iliyojumuishwa na maamuzi ya kufundisha. Ishara ya hisia iliweza kupatikana kutoka kile wanafunzi walikuwa tayari wanakizazisha.
-
-## Dhana Zilizounganishwa
-- [[learners]] — Wanafunzi: mbioni kwa dhana za upande wa mwanafunzi
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[formative-assessment]]
-- [[k-12]]
-- [[affective-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[simulating-students]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — mifano iliyo chini ya utabiri wa hatari na kulenga msaada
-
-- [[sensor-and-gaze-analytics]]
-
-
-## Makala Zilizounganishwa
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Overgeneralization ya udanganyifu: umahiri unaobadilika unaweza kusitisha mazoezi kabla wanafunzi kujua lini kujizuia kutenda (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Uundaji wa Mfano wa Sababu kwa Tathmini ya Uwezo wa Mwanafunzi
-- [[turano-ai-tutoring-not-a-monolith-2026]] — Mafunzo ya AI si Moja: Tulichojua Kweli (muhtasari wa Stanford SCALE/NSSA)
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — Walimu wa LLM hukataa mno mbadala sahihi, huthibitisha mno yasiyo sahihi (Yasir na wenzake 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[at-risk-students-ml-prediction]]
-- [[correct-answer-trap-misconceptions]]
-- [[cross-subject-validity-delayed-start]]
-- [[edumirror-educational-social-dynamics]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[xie-hillm-cd-2026]]
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — Kutoka Utabiri wa Hatari ya Mwanafunzi hadi SC2R: Recourse ya Counterfactual
-- [[graph-its-adaptive-algorithms-2026]] — Mafunzo ya Akili Yanayotegemea Grafu kwa Nyanja Zinazobadilika (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Kufinyia LM inayojieleza kwa uchanganuzi wa kujifunza
-- [[studentsim-llm-student-simulators]] — StudentSim: Kufundisha Simulator za Wanafunzi Zinazotegemea LLM
-- [[predicting-attrition-competitive-programming]] — Kutabiri Kuacha Masomo kwa Wanafunzi katika Programu ya Ushindani
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Kufuatilia maarifa kulingana na matokeo na ramani za uhusiano
-- [[an-goel-self-directed-modeling-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Zaidi ya Embeddings za ID: Uundaji wa Mfano wa Lugha Unaotegemea Mchakato kwa Utambuzi wa Kiakili
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — hali ndogo ya mwanafunzi pamoja na kifuatiliaji kilichosawazishwa kama mazingira ya kupendekeza
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mwalimu wa Mawakala Anayejifunza Mwanafunzi Wake katika Mzunguko wa Kujifunza Pamoja wa Binadamu-AI
-
-- [[ai-game-based-learning-systematic-review-2026]] — Tathmini ya siri ilifikia AUC ya 0.848–0.913, lakini ukaguzi wa upendeleo ulikuwa karibu hakuna katika masudio 55
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Uamuzi wa mtindo wa kujifunza kupitia mazungumzo unashindwa kwenye vipimo vilivyosawazishwa (Zamanifard, Goudarzi & Robb 2026)

@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -43,7 +44,3 @@ Se on yleiskäyttöinen rakentaja eikä koulutustuote: siitä on hyötyä opetta
 ## Huomioita ja varauksia
 
 Alustalla on ilmainen taso, mutta se on krediittipohjainen: tilit saavat 1 000 tekoälykrediittiä kuukaudessa, ja rakentaminen, muokkaaminen, kuvien tuottaminen ja sovelluksen sisäiset tekoälyominaisuudet kuluttavat niitä kaikki. Tilaus lisää mahdollisuuden ostaa lisää krediittejä, jotka eivät vanhene. Minkä tahansa kurssin, joka aikoo nojata alustaan, tulisi tarkistaa nykyiset ehdot, koska ilmainen käyttö on mitoitettua eikä rajaton, ja sen tulisi kohdella opiskelijoiden luomia sovelluksia sisältönä, jolla on omat tiedonkäsittelykysymyksensä.
-
-## Liittyvät käsitteet
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

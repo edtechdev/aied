@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
+connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -97,37 +99,3 @@ Formulovanie sa spája s [[motivation|motiváciou]] prostredníctvom [[self-dete
 **„Zákaz nástroja odstráni správanie."** Presúva ho do nástrojov, ktoré nevidíte. Študenti už teraz uprednostňujú súkromne dostupné nástroje pred tými inštitucionálnymi, takže zákaz vytláča používanie z jediného prostredia, kde je možná podpora, logovanie alebo usmernenie. Úlohou formulovania je urobiť povolené správanie atraktívnym, nie urobiť zakázané správanie ťažšie pozorovateľným.
 
 **„Formulovanie je presviedčanie, takže je viac rétorikou než dizajnom."** Formulovanie, ktoré táto stránka opisuje, je spárované s dizajnom: očakávania vyslovené jasne a opakovane *a zároveň navrhovanie okolo študentov*. Doručené správy namiesto navrhnutého prostredia sú verziou, ktorá zlyháva, pretože študenti čítajú rozdiel medzi deklarovaným záväzkom a skutočným.
-
-## Prepojené koncepty
-
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[agency]]
-- [[trust-calibration]]
-- [[student-engagement]]
-- [[misconceptions]]
-
-## Prepojené články
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — konsenzus 30 expertov o poradí: osvojiť si bez generatívnej AI, upevniť s ňou, potom myslieť vlastnou hlavou
-
-- [[mccorkle-aligned-genai-course-policy-2025]] — transparentné odôvodnenie každého povoleného a nepovoleného použitia generatívnej AI, úlohu po úlohe (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — povzbudzovanie k primeranému používaniu generatívnej AI namiesto jej odsudzovania ako narušenia
-- [[student-rationalization-ai-writing]] — „päť miest", kde študenti racionalizujú používanie AI v akademickom písaní
-- [[student-regulatory-awareness-genai]] — poznať pravidlá nestačí: regulačné povedomie a skutočné používanie
-- [[ai-anxiety-strategic-regulation-writing-2026]] — od úzkosti z AI k strategickej regulácii
-- [[chatgpt-inoculation-training-verification-2026]] — inokulačné správy a overovacie správanie
-- [[ai-fallibility-warning-help-seeking]] — varovanie pred omylnosťou AI zvyšuje vyhľadávanie pomoci
-- [[shame-guilt-ai-regulation-computing-education]] — hanba a vina ako sociálne regulátory používania AI
-- [[access-not-enough-ai-tutoring-2026]] — ľudská podpora zlepšuje zapojenie do tutorskej AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — zapojenie do generatívnej AI založené na teórii sebaurčenia
-- [[ai-availability-student-motivation]] — ako dostupnosť AI formuje motiváciu študentov
-- [[youtube-frames-chatgpt-education]] — ako YouTube formuluje používanie ChatGPT vo vzdelávaní
-- [[ai-ethics-education-public-discourse]] — verejný diskurz o etike AI vo vzdelávaní
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — vyučujúci formulujú AI ako kritické/zodpovedné používanie, zamestnávatelia ako produktivitu
-- [[ssaho-ai-academic-integrity-review-2025]] — budovanie kultúry akademickej integrity prostredníctvom jasných očakávaní

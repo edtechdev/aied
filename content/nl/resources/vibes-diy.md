@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, open-source, design-thinking, constructivist, learning-design, vibe-coding]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -43,7 +44,3 @@ Het is een algemene bouwer en geen onderwijsproduct: het is nuttig voor een doce
 ## Opmerkingen en kanttekeningen
 
 Het platform heeft een gratis laag, maar die is gebaseerd op credits: accounts krijgen 1.000 AI-credits per maand, en bouwen, bewerken, afbeeldingen genereren en AI-functies in de app geven ze allemaal uit. Een abonnement voegt de optie toe om meer credits te kopen, die niet verlopen. Elke cursus die van plan is op het platform te leunen, moet de actuele voorwaarden controleren, omdat gratis gebruik gemeten is en niet onbeperkt, en moet apps die studenten maken behandelen als inhoud met eigen vragen over dataverwerking.
-
-## Gerelateerde concepten
-
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]

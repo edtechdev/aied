@@ -14,6 +14,8 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 reviewed_by: [editor]
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 > **Legal Issues and Risks** — the exposure institutions, staff and students incur when [[generative-ai|generative AI]] is governed badly in education. The recurring cases are a student wrongly accused of cheating on the strength of a detector score, a proctoring system that watches and records more than the assessment requires, an over-broad rule that penalizes an assistive tool, or a policy too vague to be enforced consistently. The risk is not one legal question but several, arriving together. Evidentiary questions ask whether the accusation can be evidenced at all; contractual and procedural questions ask whether the institution followed its own rules and gave the student a fair hearing; equality-based questions ask whether the rule burdens disabled or non-native-speaker students. Data-protection questions ask what the surveillance collected and where it was stored. It is distinct from [[academic-integrity|academic integrity]], which is the conduct framework being enforced: the subject is what happens when that enforcement is challenged.
@@ -84,43 +86,3 @@ For professional programs the exposure does not end at graduation. Gutowski and 
 **"Detection provides the evidence a procedure needs."** Detection provides a score. The evidentiary question is whether an accusation can be evidenced at all, and the [[ai-detection|detection literature]] shows the tools produce neither the reliability nor the interpretable category a disciplinary process requires. Building the procedure on a detector builds it on the weakest link.
 
 **"The risks are hypothetical, and policy will catch up."** The risks are being distributed unevenly now, and the students absorbing them are the ones least able to contest a procedure. The asymmetry between an institution's capacity to investigate and a student's capacity to respond is a present harm rather than a future one.
-
-## Connected Concepts
-
-- [[academic-integrity]] — the conduct framework whose enforcement carries the risk
-- [[ai-detection]] — the instrument at the center of wrongful-accusation cases
-- [[remote-proctoring]] — surveillance in assessment and its data-protection questions
-- [[assessment-validity]] — whether the evidence can establish the claim made from it
-- [[privacy]] — collection, retention and onward processing of student data
-- [[regulation]] — statutory and regulatory obligations institutions must meet
-- [[governance]] — internal policy design and consistency of enforcement
-- [[educational-policy-ai]] — institutional AI policy as the source of unintended exposure
-- [[ai-use-disclosure]] — disclosure expectations and their unenforceable edges
-- [[accessibility]] — reasonable adjustment where a rule removes an assistive tool
-- [[assistive-technology]] — the tools at the center of the over-inclusion problem
-- [[neurodiversity]] — the students most exposed to over-broad prohibitions
-- [[equity-in-ai-education]] — differential burden of detection and surveillance
-- [[student-experience]] — the human cost that precedes the legal one
-- [[hallucination-risk]] — fabricated authority as professional and institutional liability
-- [[reducing-ai-misuse]] — the prevention alternative to accusation
-
-## Connected Articles
-
-- [[munoz-misconduct-allegation-evidence-2026]] — What evidence misconduct allegation files actually contain, and the natural justice requirement
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy, hybrid text failure, and EFL misclassification risk
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Reliability of detection tools across a second text sample
-- [[bassett-ai-detectors-education-2026]] — Why no detection threshold can be right: the error-tradeoff argument
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Misconduct procedures reassessed when evidence has become undetectable
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules, disability accommodation and reasonable adjustment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring mapped, with privacy and surveillance concerns
-- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring research
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty and proctoring in the AI era
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Policy clarity as a precondition for defensible enforcement
-- [[qian-governing-genai-higher-ed-policy-2026]] — Policy and support ecosystems across innovative US universities
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Expert consensus on fragmented governance
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity through visible judgment rather than surveillance
-- [[shin-ai-policies-sld-2026]] — The policy void for students with specific learning disabilities
-- [[li-genai-assessment-language-equity-2026]] — Language equity as a rule-design problem: the support–substitution boundary, indirect discrimination and reviewability (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Students attacking AI graders by indirect prompt injection, with grades changed undetected (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Governance indicators and reform program for authenticating assessment (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty: individual policies far outrun institutional ones, structural response thin (Watson & Rainie 2026)

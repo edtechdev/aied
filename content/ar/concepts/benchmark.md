@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -84,38 +86,3 @@ ai_assist:
 - **«موضع على لوحة الصدارة يخبرك بجودة المدرّب.»** تُوزّع StudentBench عشوائيًا **2,383 بالغًا** على ثلاثة شروط: تدريس خصوصي بالذكاء الاصطناعي، وتدريس خصوصي بشري خبير مباشر، وشريط فيديو، وتُقيّم مقابل مدرّبين بشريين لا مقابل أنظمة أخرى. فمعيار مُعايَر على النماذج الأخرى يجيب سؤالًا لم يحتج أحد إلى إجابته.
 - **«الشخصيات المحاكاة أساس كافٍ لتقويم المدرّب.»** يُؤصّل [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] التقويم في **أدبيات حالات موثَّقة لا في شخصيات محاكاة**، مستخدمًا **923 حوارًا**. فشخصيات الطلاب المُختلَقة تتيح للنظام تجاوز حالات لا تحدث.
 - **«يمكن الوثوق بالمعايير دون فحص الحاكم.»** جرى تنقيط الهلوسة كـ**استلزام مقابل المقاطع المرخَّصة المفتوحة المسترجَعة (κ = 0.76 مع حكم الخبراء)** — أي أن الحاكم صُودِق مقابل الخبراء قبل استخدام درجاته. فالحاكم الآلي غير المصادَق يُنتج أرقامًا مجهولة المعنى.
-
-## المفاهيم المرتبطة
-
-- [[ai-ed-evaluation]]
-- [[bias-mitigation]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[knowledge-tracing]]
-- [[generative-ai]]
-- [[automated-essay-scoring]]
-
-## المقالات المرتبطة
-- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: تقويم مدرّبي النماذج اللغوية الكبيرة على طلاب ذوي سلوكيات صعبة (Park et al. 2026)
-- [[standardized-assessment-llm-english-proficiency-2026]] — معيار كفاءة إنجليزية من 624 مفردة يُبلّغ عن قدرة النموذج كمرحلة مُعايَرة (Min et al. 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — هل تقيس أدوات التقويم الشيء ذاته للبشر ونماذج اللغة الكبيرة؟ (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — المعيار المرجعي للتربوية: المعرفة التربوية لنماذج اللغة الكبيرة (CDPK + SEND)
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: معايرة وكلاء التصميم التعليمي القائمين على نماذج اللغة الكبيرة
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — مساعدو قاعدة معارف OER بالذكاء الاصطناعي في الموقع: معيار متعدد الأبعاد
-- [[authentic-products-authenticated-processes-2026]] — من المنتجات الأصيلة إلى العمليات المُصدَّق عليها: التقويم الأصيل في التعليم العالي الغني بالذكاء الاصطناعي
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: معيار لتقييم الرسوم الرياضية المولَّدة
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: بناء معياري قائم على التعليق أولًا ومولّد للمهام، وعدم الزيادة على مستوى البعد عبر 12 مهمة تصوير فني (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: مكاسب تعلّم GRE المكافئة بين تدريس الذكاء الاصطناعي وتدريس الإنسان
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -121,47 +123,3 @@ Två specifika rapporteringspraxis blåser upp eller förvränger en syntes, och
 - **"Avsnitt om begränsningar är standardtext."** Metodologiska gränser är **mätbara snarare än impressionistiska**: i en kritisk genomgång av **80 HCI-studier** om kritiskt tänkande med AI **saknade 42 (52%) kontrollgrupp**. En exakt räkning är det som gör gränsen handlingsbar.
 - **"Heterogenitet är ett enda tal du kan citera."** Samma genomgång visar en rapporteringsfara: heterogeniteten anges som **I² = 82.98% under en modell med fasta effekter och I² = 15.75% under modellen med slumpmässiga effekter**. Samma data ger en historia på nio punkter eller en på två punkter beroende på vald modell, så ett citerat I² utan dess modell är otolkningsbart.
 - **"En stor rapporterad effekt är talet att lita på."** En rubrik som en effekt från **30 studenter i en kurs på en plats** är den vanliga formen av ett bräckligt påstående, och räkningen av studier utan kontroller visar hur ofta den bräckligheten inte rapporteras.
-
-## Anslutna begrepp
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Teoriutveckling inom AI i utbildningen
-
-## Anslutna artiklar
-
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI-chattbotar i högre utbildning: förväntningar jämfört med evidens (Thoeni & Fryer 2026)
-- [[ground-truth-reliability-aied]] — Tillförlitlighet och validitet hos facit i utvärdering
-- [[ai-literacy-assessment-misalignment]] — Självskattad kontra prestationsbaserad AI-kompetens
-- [[machines-misread-pedagogical-quality]] — Varför maskiner missläser pedagogisk kvalitet
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Kritiska gränser för AI-handledare och teorianvändning
-- [[cross-dataset-bloom-question-classification]] — Blooms taxonomi och frågeklassificering
-- [[eeg-familiarity-automated-assessment-2026]] — Automatiserad elevbedömning: EEG-baserad familiaritetsprediktion
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT i utbildningen: en effekt på jakt efter en orsak (mediejämförelsekritik)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-metaanalys: publikationsbiasjusterade AI-effekter cirka 1/3 av rapporterad storlek
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensisk granskning av 14 AIEd-metaanalyser
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: ett empiriskt rapporteringsramverk för AI-assisterade systematiska genomgångar
-- [[frontier-models-physics-benchmark-audit-2026]] — Hur bra är frontier-modeller på fysik? Expertombedömning avslöjar trasiga utvärderingar och nära mättnad i ledande benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inklusionskriterier som strikthetströskel, och en heterogenitetssiffra som ändras med modellen (Doğan m.fl. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — En klusterrandomiserad klassrumsstudie vars prestationsutfall inte nådde signifikans (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI och mänsklig handledning ger likvärdiga GRE-lärandevinster
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Att utvärdera fokus och pedagogisk adaptivitet i LLM-genererad återkoppling på elevskrivande
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: assertionsbaserade scheman för granskningsbar kodning av utbildningsdialoger
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Från sentimentsklassificering till handlingsbar och ansvarsfull återkoppling: en scoping-genomgång och evidenskarta över NLP i studentutvärdering av undervisning, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Vad fidelitetsmått missar: en strukturell kontroll av syntetiska utbildningsdata
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping-genomgång av 195 lärarutbildningsstudier där söksträngens design formar de rapporterade frekvenserna
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Tvärnationell enkät bland K-12-lärare: maskinöversatta item, oro mätt med enstaka item, ingen invarianstestning
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematisk genomgång av 103 GenAI-studier i högre utbildning: 56% villkorliga vinster, betyg som döljer processförändring (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Dataförstärkning kan tillverka rubrikmetriken

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -50,7 +52,6 @@ Metabiliş, [[reflection|yansıma]] ile aynı yapıt değildir ve ikisi sık sı
 Koordinasyon odağı öğretmenden öğrenene kaydığında metabiliş için daha temel bir rol ortaya çıkar. [[dang-human-ai-collaboration-competency-2026|Dang, Hong, Doyle ve Nguyen (2026)]], [[human-ai-collaboration|Human-AI Collaboration Competency (HACC)]] çerçevelerinde [[tpack|TPACK]]’in pedagojiye yüklediği bütünleştirici işin, aktör öğrenen olduğunda öğrenenin kendi metabilişine geçtiğini savunuyor — yani öğrencilerin iş birliğini yönlendirmesini, [[generative-ai|YZ]]’ye olan bağımlılıklarını [[trust-calibration|kalibre etmelerini]] ve öğrenmelerinin yazarlığını korumalarını sağlayan yetkinlik. Metabilişsel yetkinliği, [[agency|öğrenen etkinliği]]nin gerçekleştirildiği mekanizma olarak görüyor, etkinliği ayrı bir bileşen olarak bilerek çerçeve dışında bırakıyor ve onu bunun yerine alan, YZ ve metabilişsel yetkinliği koordine etmenin ortaya çıkan niteliği olarak okuyor. 24 [[higher-ed|yükseköğretim]] eğitimcisiyle yapılan görüşmelerin [[network-analysis|Epistemic Network Analysis]] (Bilgisel Ağ Analizi), metabilişsel söylemin rol düzeyiyle arttığını buldu — kıdemli eğitimciler onu alan, YZ ve YZ ile öğrenmeyle bağlantılandırdı — yazarlar bunu, daha geniş müfredat sorumluluğuna sahip eğitimcilerin öğrencilerin kalıcı güçlüklerini teknikten çok düzenleyici olarak görmesi şeklinde yorumluyor.
 
 ## YZ Araçları Metabilişi Nasıl Etkiler
-
 
 **Metabiliş, en az incelenen sonuçlar arasındadır.** 394 üretken YZ yükseköğretim çalışmasını kapsayan bir kapsam derlemesinde metabiliş ve öz düzenlemeli öğrenme, [[ethics|etik]] ve [[creativity|yaratıcılık]]la birlikte en az hedeflenen sonuçlar arasındaydı ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
 
@@ -165,65 +166,3 @@ Proaktif [[agentic-ai|etken YZ]], öğrenenin kendi metabilişsel döngüsünün
 - **“YZ desteği altta yatan yeteneği bozulmadan bırakır.”** YZ makale desteği kullanan öğrenciler **kendi makalelerinden alıntıları hatırlayamadı: %83, YZ kullanmayanlarda %11**, bu da **üretim sırasında içerikle ilgilenmediklerini** gösterir. Angajmanın gerçekleştiği yer üretim sürecidir ve onu atlamak sonra ortaya çıkar.
 - **“Dış kaynak kullanımı her şeyi bozar.”** Maliyet **küresel değil sınırlı** görünür: dış kaynak kullanımı **altta yatan alan-genel yetenekleri değil, pratik edilen belirli beceriyi** bozar ve **bir şeyle** aktarım testlerinde ortaya çıkar. Yerelleştirme önemlidir, çünkü genel bir gerileme uyarısı yerine neyin korunacağını söyler.
 - **“Üretebilme yetisi hatırlayabilme yetisini ima eder.”** %83’e karşı %11’lik hatırlama farkı doğrudan karşı örnektir: her iki koşulda da çıktı üretildi ve bellek izi muazzam biçimde farklılaştı.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Bu dizilerin içine kurduğu yansıma adımları
-- [[learners]] — Öğrenenler: öğrenci tarafı kavramlar için şemsiye
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — öğrenme yargıları ve geri getirme pratiğinin düzelttiği akıcılık yanılsıması
-- [[cognitive-surrender]]
-- [[reflection]]
-
-## Bağlı makaleler
-
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Bilişsel uyku hali: askıya alınmış metabilişsel angajmanın ve artan düzensizliğin deneysel bir açıklaması (Braun 2026)
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — iki saatlik bir YZ okuryazarlığı atölyesi, ortaokul öğrencilerinin bildirdiği metabilişinin aksine YZ etkileşim düzenlemelerini kaydırdı (Clerc ve ark. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Bilgisayar Destekli Üst Üste Çevirmide Öğrenci-YZ Etkileşimi
-- [[du-yuan-epistemic-dependence-2026]] — YZ aracılı öğrenmede bilgisel bağımlılık (Du & Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — Öğrencilerin sorması önemli: YZ etkileşim derinliği, görev kalitesi ve anlık hatırlama (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Üretken YZ destekli yazmada katmana duyarlı bilişsel yük aktarımı (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM’de YZ aracılı yardım arama: katmanlı, araçsal ve doğrulanmış
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Metabilişsel Üretken YZ etkileşiminde motivasyon ve roller
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metabilişsel eğitim, en uygun bilişsel yük aktarımını kolaylaştırır (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Bilişsel yük aktarımına metabilişsel bir bakış: mekanizmalar, müdahaleler ve eğitim çıkarımları (Guo & Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — Metabilişsel olarak düzenlenmiş Üretken YZ kullanımı için IDEA çerçevesi
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: insan merkezli bir YZ metabilişsel öğrenme modeli (etkinlik ve yansıtıcı öğrenme)
-- [[metacognitively-discordant-completion-genai-2026]] — Metabilişsel uyumsuz tamamlama ve anlamamanın farkında geçişi
-- [[ai-metacognition-stem-review]] — STEM’de metabilişi iskeleyleyen YZ araçları
-- [[ai-making-us-stupid]] — YZ bizi aptallaştırıyor mu? bilişsel yük aktarımı eleştirisi
-- [[stanford-evidence-base-ai-k12-2026]] — Genel amaçlı YZ, akıl yürütmeyi tamamlayarak metabilişi baskılar
-- [[ai-advice-suppresses-ikt-suspension-2026]] — YZ tavsiyesi, yanlış tavsiyeyle ve doğruluk teşvikleriyle bile "bilmiyorum" deme isteğini baskılar
-- [[agentic-ai-pedagogical-best-practice-2026]] — Etken YZ ve pedagojik en iyi uygulama: otomasyon ile öğrenme arasındaki gerilim
-- [[cognitive-offloading-speedup-illusion]] — İnsan-YZ etkileşiminde bilişsel yük aktarımı ve hızlanma yanılsıması
-- [[lodge-loble-cognitive-offloading-2026]] — YZ, bilişsel yük aktarımı ve eğitim için çıkarımlar (Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — YZ Hatalarının Pedagojisi: Üst Düzey Düşünmeyi Beslemek (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Üretken Başarısızlık Temelli Öğrenmeyi Destekleyecek YZ Sistemlerinin Tasarımı
-- [[lukesova-clue-before-correction-2026]] — Düzeltmeden Önce İpucu: Otonom Dil Öğrenimi için ChatGPT
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt Literacy Çevrimi’nde istek isteme süreci üzerine yansıma ve yazarlık gelişimi (Miles, Haber-Curran & Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Bir yansıma istemi, yanlış YZ tavsiyesinin kabulünü kesti ve farkındalık kalibrasyonunu iyileştirdi (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Otomatik puanlama planlamayı değil izlemeyi güçlendirdi, bildirilen yansıma üretiksiz kaldı (Chen & Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Yalnızca metabilişsel öz-düzenleme üzerinden işleyen doğrulama okuryazarlığı (Davor, Larbi & Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — Revizyon stratejisi seçimini dış destek yönetti, metabilişsel yargı doğruluğu değil (Iqbal ve ark. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Seçici bir kazanım: metabilişsel bilgi yükseldi, planlama ve izleme yükselmedi (Wang ve ark. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Yansıtıcı kullanım YZ erişimiyle arttı ve bilgi kazanımını değil eleştirel düşünmeyi öngördü (Melanou, Beege & Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — Uyarlanabilir STEM öğrenmesinin en güçlü öngörücüsü olarak metabilişsel farkındalık (Alatoai & Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Tanıdan meta-tanıya: YZ üretimi çıkarımları yargılayan öğretmenler (Hoppe, Loibl & Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Yansıtıcı YZ Etkileşiminde Beceriyi Sürdüren Bağımlılığa Doğru Açık Sorular
-- [[dang-human-ai-collaboration-competency-2026]] — İnsan-YZ iş birliğinde öğrenen etkinliğinin mekanizması olarak pedagoji değil metabiliş (Dang, Hong, Doyle & Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metabilişsel mülkiyet: standartların, yargıların ve eylemlerin öğrenen yönetişimi için bir yapı
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Kayıtlar ve sesli düşünme, Üretken YZ destekli öğrenmede farklı metabilişsel süreçleri yakalar
-- [[ai-cognitive-partner-reflective-thought-2026]] — öğrencilerin YZ’yi bilişsel ortak olarak gördüğünde yansıtıcı düşüncenin dört uygulaması ve on bir süreci
-- [[karaki-think-aloud-ethical-genai-2026]] — Sesli Düşünme istek metni oluşturmayı, doğrulamayı ve etik akıl yürütmeyi görünür kıldı ama eleştirel değerlendirme yüzeysel kaldı; tek başına bir çözüm değil
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Öğretmen adaylarının yansıtıcı uygulamasında üstbilişsel eğitim ve YZ temelli Sokratik iskeleleme: çift çalışmalı deneysel bir tasarım
-- [[ai-metacognition-three-level-meta-analysis-2026]] — Üç düzeyli meta-analiz: havuzlanmış g = 0,624, doğrulukla derecelendirilen izlemede anlamsızlığa düşüyor (Li ve ark. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC modeli: metabilişsel yük aktarımı ile yükleme ve görev performansının kalıcı öğrenmeden ayrışması (Fan ve ark. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — İzleme, yük aktarımı yolunu engellemekten çok yeniden yönlendirir
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — İzleme atlandığında ve bunun maliyeti

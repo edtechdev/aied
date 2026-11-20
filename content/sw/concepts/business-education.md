@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-education, discipline-specific-aied, generative-ai, ai-literacy, case-based-learning, curriculum-design, assessment, ethics, academic-integrity, technology-acceptance-model, teacher-role, higher-ed, stem-education]
+connected_articles: [heron-meekins-phronesis-hermeneutic-business-ai-2026, ai-decision-checkpoints-bpm-education-2026, csaszar-ai-management-education-2026, ilieva-agentic-genai-higher-education-2026, drummond-genai-business-schools-framework-2026, espino-ai-business-education-review-2026, zhou-constructive-alignment-genai-business-2026, rook-plumb-genai-curricula-student-insights-2026, alrahmi-org-drivers-ai-adoption-he-2026, conversational-agents-business-simulation-gaming-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, shi-genai-experiential-learning-management-education-2026, alam-process-oriented-collaborative-essays-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, rodriguez-longarela-genai-unsupervised-assessment-finance-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -65,7 +67,6 @@ Biashara ni mojawapo ya sehemu ambapo kupitishwa kwa AI ya kizazi ni kasi zaidi,
 
 Uchunguzi wa kesi na simulation ni miundo ya kufundisha iliyo karibu zaidi na fasihi hii, lakini ushahidi wa usimamizi hautenganishi uingiliaji wa msingi wa kesi; tazama [[case-based-learning]] kwa mbinu ya kufundisha na mipaka yake.
 
-
 ## Athari kwa waalimu wa biashara
 
 - **Unganisha AI kwa njia inayoelekezwa na mtaala na kuelimishwa na wanafunzi.** [[drummond-genai-business-schools-framework-2026|Miundo inayoelekezwa na wanafunzi]] na [[rook-plumb-genai-curricula-student-insights-2026|maarifa ya wanafunzi]] yanaonyesha wanafunzi wanataka ujuzi wa GenAI kwa kazi na kutumia AI bila makosa yasiyokusudiwa — buni mipango yanayofurika ujuzi wa AI, kuhukumu kwa maadili, na matumizi ya kweli katika miundo ya shahada.
@@ -80,41 +81,3 @@ Uchunguzi wa kesi na simulation ni miundo ya kufundisha iliyo karibu zaidi na fa
 - **"Kuongeza moduli za AI kwenye mtaala wa biashara kunakamata faida."** Utafiti wa usawa wa kuunda uligundua kuwa iwapo **faida au hatari zilitawala kuliundwa na kiwango cha muunganisho wa mtaala**; tofauti ya kiutendaji ni **unganisha, usiongeze**. Moduli iliyobandikwa juu inaacha ubuni wa tathmini bila mabadiliko.
 
 - **"Utaalamu wa zana unazidi e-learning ya kawaida."** Utafiti wa mitazamo wa **wanafunzi 130** uligundua **msaada wa chatbot na wa wakala wote ulikadiriwa juu ya e-learning ya jadi** kwenye uboreshaji, ubinafsishaji na kufanya maamuzi. Inafaa kutambua kile kinachopimwa: **mtazamo** wa mwanafunzi dhidi ya msingi wa kawaida, si kujifunza dhidi yake.
-
-## Dhana Zilizounganishwa
-
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-- [[case-based-learning]] — Uchunguzi wa kesi, mbinu ya kesi, na majadiliano ya kesi
-
-- [[curriculum-design]]
-- [[assessment]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[stem-education]]
-
-## Makala Zilizounganishwa
-
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
-
-- [[csaszar-ai-management-education-2026]] — Athari za AI kwenye elimu ya usimamizi: uchambuzi wa mkakati unaotegemea thamani (Csaszar et al. 2026)
-
-
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher education (Al-Rahmi 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy
-- [[alam-process-oriented-collaborative-essays-2026]]: Insha za ushirikiano zinazozingatia mchakato katika shahada ya Usanidi wa Biashara: kupima kurudia kwa kurudia kulikoandikwa, si mada
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]]: Chatbot ya RAG iliyojengwa kwa kozi ilihamisha matarajio, si matokeo

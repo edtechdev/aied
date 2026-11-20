@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -74,7 +76,6 @@ A [[generative-ai|IA generativa]] ao mesmo tempo estende e desafia o cognitivism
 
 Um experimento de 2026 dá ao lado da memória dessa fronteira um modo de falha concreto. Apenas 44,8% de 328 adultos que leram um resumo de IA enganoso depois identificaram corretamente um detalhe do vídeo, contra 83,6% que leram um resumo consistente. O rótulo de IA ou humano não fez diferença, e nem a confiança autorrelatada na IA. ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Isso é memória da fonte, e não aprendizagem de sala de aula, mas um resumo fluente pode sobrescrever o registro que quem aprende tem da fonte, o que importa para estudo e avaliação.
 
-
 ## Implicações para o desenho e a pesquisa
 
 1. **Desenhe para a internalização, não apenas para o desempenho.** A AIED cognitivista deveria ser avaliada por quem aprende conseguir recuperar e aplicar o conhecimento *sem* a ferramenta — não pelo desempenho assistido. Essa é a [[ai-misuse-learning-harm|lacuna entre desempenho e aprendizagem]] e a justificativa para mensurar a [[transfer-of-learning|transferência]] não assistida.
@@ -89,39 +90,3 @@ O desenvolvimento é uma questão separada: esses mecanismos são tratados como 
 - **"As representações mentais são inobserváveis, então as afirmações cognitivas sobre a aprendizagem são suposições."** Reconstruir imagens a partir do **EEG** de quem aprende durante vídeos de ciências mostrou que **a fidelidade da representação acompanhava o desempenho no teste** (coeficiente de regressão **0,8481, R² = 0,79**). A premissa cognitivista da representação interna é mensurável, e a medida previu o desfecho.
 - **"Um R² alto significa que a representação explica a aprendizagem."** R² = 0,79 é uma associação forte entre fidelidade e desempenho no mesmo material. Não estabelece que elevar a fidelidade eleva o desempenho, que é a afirmação de intervenção.
 - **"Os componentes de conhecimento são uma ficção de modelagem conveniente."** A decomponibilidade é o que torna possíveis o [[knowledge-tracing|rastreamento de conhecimento]] e o [[cognitive-diagnosis|diagnóstico cognitivo]], e os métodos funcionam na medida em que o pressuposto se sustenta. Tratá-lo como ficção descarta a razão pela qual os métodos produzem estimativas utilizáveis — enquanto tratá-lo como fato exagera o que um modelo ajustado diz sobre uma mente.
-
-## Conceitos conectados
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — os achados de retenção nos quais essa família de práticas se apoia
-
-## Artigos conectados
-
-- [[sim-ai-summary-memory-distortion-2026]] — Resumos de IA enganosos mudaram o que os adultos lembravam, independentemente de o resumo ser rotulado como escrito por IA ou por humano
-- [[cognitive-shift-ai-education]] — A mudança cognitiva na educação com IA
-- [[cogtax-cognitive-taxonomy]] — Uma taxonomia cognitiva para o uso de IA
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Agentes de LLM pedagógicos fundamentados no rastreamento de conhecimento
-- [[nie-personavlm-long-term-personalization-2026]] — Modelagem de estudante e memória com LLM
-- [[ai-cognitive-partner-co-regulation-learning]] — A IA como parceira cognitiva na aprendizagem corregulada
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: pensar como interação humano–IA
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Organização do esforço, e não quantidade de esforço, acompanhou a carga e a frustração
-- [[crediting-assisted-work-inflates-mastery-2026]] — As alegações de domínio do rastreamento de conhecimento dependem de como o trabalho assistido é creditado (Srivastava 2026)

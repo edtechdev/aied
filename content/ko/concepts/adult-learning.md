@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
+connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -68,45 +70,3 @@ Knowles의 안드라고지 모형에 뿌리를 둔 성인 학습은 학습자가
 - **"좋은 도구 하나면 성인 학습자에게 충분하다."** 연구는 **어떤 단일 성인 학습 AI 시스템도 모든 설계 지침을 충족하지 못했고** 전체 생태계가 필요했다고 보고합니다. 성인은 의무와 간헐적인 일정, 이질적인 목표를 안고 오므로 하나의 제품이 설계 공간 전체를 포괄할 수는 없습니다.
 - **"디지털 리터러시는 성인 수준에서 당연히 갖춰져 있다고 가정할 수 있다."** [[community-centered-ai-education-adults|A Midwestern case study]]는 **취약 지역 사회의 성인 54명**을 위한 AI 리터러시 프로그램을 공동 설계하고, 형평성 지향의 성인 AI 교육이 **기초적인 디지털 리터러시와 데이터 신뢰를 먼저 다루어야 한다**고 밝혔습니다. 나이는 디지털 유창성의 대리 지표가 아닙니다.
 - **"도입은 동기 부여의 문제다."** 데이터 프라이버시에 관한 [[ai-literacy]]와 [[trust]]를 구축하는 일이 도입을 기대하기보다 앞서야 합니다. 수용 의지는 기술에 대한 열의가 아니라 자신의 데이터가 어떻게 처리되는지에 대한 확신에서 나옵니다.
-
-## 연결된 개념
-
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — 온라인 교수와 학습
-- [[higher-ed]]
-- [[professional-training]]
-- [[vocational-education]]
-- [[lifelong-learning]]
-- [[inclusive-learning]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[trust]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[neurodiversity]]
-- [[governance]]
-- [[formative-assessment]]
-- [[rct]]
-- [[active-learning]]
-- [[discipline-specific-aied]]
-
-## 연결된 문서
-
-- [[ai-adult-learning-guidelines-dis2026]] — 성인 학습을 지원하는 AI 기술 설계 지침
-- [[andragogy-cognitive-delegation-genai-2026]] — 무엇이 여전히 자기주도적인가? 생성형 AI가 매개하는 성인 학습에서 인지적 위임을 통해 안드라고지를 재검토하기
-- [[ai-lifelong-learning-policy]] — 평생 학습에서의 인공지능: 성인 교육 정책의 기회와 과제
-- [[sovereign-hive-titl-further-education-2026]] — Further Education의 형평성을 위한 Sovereign Hive와 Tutor-in-the-Loop (TITL) 프레임워크
-- [[community-centered-ai-education-adults]] — 성인을 위한 공동체 중심 AI 교육의 공동 설계: Midwestern 사례 연구
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 원격 학습 기관을 위한 새로운 학습 시스템? AIDA 구현에 관한 6개 연구 검토
-- [[institutional-governance-ai-universities]] — 정책의 파편화인가 제도적 정렬인가? 대학과 경영대학의 AI 제도적 거버넌스
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — 전산적 사고를 위한 생성형 AI 강화 학습 경험: 체계적 범위 검토와 설계 지침
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — 강의계획서 분석을 통해 살펴보는 AI 지원 소프트웨어 공학의 부상하는 교육과정
-- [[learner-ai-interaction-patterns-oop]] — 객체지향 프로그래밍 강좌에서의 학습자-AI 상호작용 양상과 학업 수행
-- [[dot-framework-survey-2026]]
-- [[kim-ai-productive-failure-adult-2026]] — 생산적 실패 기반 학습을 지원하는 AI 시스템 설계
-- [[kim-ai-andragogy-2026]] — 안드라고지를 지원하는 AI 응용 (Kim et al. 2026)
-- [[packard-thinking-partner-framework-adult-learners-2026]] — 참여의 폭을 고려한 설계: 깊은 소크라테스식 대화를 더 보상이 큰 경로로 만들기

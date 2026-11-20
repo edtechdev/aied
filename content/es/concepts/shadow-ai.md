@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [governance, institutional-ai-infrastructure, privacy, legal-issues-and-risks, academic-integrity, ai-literacy, administrator, equity-in-ai-education, human-ai-collaboration]
+connected_articles: [robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, kelso-unsanctioned-technology-use-educational-institutes-2025, dangol-relief-or-displacement-teachers-generative-ai-2026, zimmer-ai-intrapreneurship-faculty-innovation-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -115,23 +117,3 @@ Tres fuentes abordan directamente la IA en la sombra y no pueden ingerirse aquí
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, febrero de 2026. Un argumento de profesional que sostiene que el uso no autorizado informa de una necesidad no satisfecha: profesorado redactando planes de clase, investigadores poniendo en marcha GPU en la nube con tarjetas del departamento y personal pegando datos sensibles en herramientas de consumo porque la vía aprobada era más lenta.
 
 - [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan y colaboradores, Springer, 2026. PLS-SEM con 214 empleados del sector público, que trata la IA en la sombra como el mecanismo que vincula las condiciones de gobernanza con el uso responsable.
-
-## Conceptos conectados
-
-- [[governance]]
-- [[institutional-ai-infrastructure]]
-- [[privacy]]
-- [[legal-issues-and-risks]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-
-## Artículos conectados
-
-- [[robert-educause-impact-ai-work-higher-education-2026]] — EDUCAUSE: el 94% usaba IA para trabajar, el 54% conocía la política, el 13% medía el retorno
-- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — una explicación en tres pasos de cómo los educadores justifican el uso no autorizado
-- [[kelso-unsanctioned-technology-use-educational-institutes-2025]] — 375 educadores, 1.373 aplicaciones, 24 que nombran la seguridad como razón
-- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — docentes trazando límites pedagógicos en un vacío de política
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — la adopción liderada por educadores como alternativa a esperar orientaciones institucionales

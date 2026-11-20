@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -48,12 +49,3 @@ Siteyi hâlihazırda çalıştıran Moodle yöneticileri ve geliştiricileri, ay
 ## Notlar ve uyarılar
 
 GPL v3 ya da sonrası altında açık kaynak, ama ücretsiz, çalıştırması ücretsiz demek değildir: model API'sinin parasını biri öder ve notlandırmanın kalitesi model seçimine ve istem tasarımına bağlıdır. Uzak bir sağlayıcı kullanıldığında serbest metin yanıtlar Moodle sunucusundan ayrılır, bu yüzden neyin gönderilebileceğini kurumun veri anlaşması belirler; öğrenci çalışmasını dışarı gönderemeyen siteler için kendi barındırılan Ollama yolu vardır. Depo yayımlanmış bir doğruluk ya da uyum çalışması belirtmiyor, bu yüzden eklenti LLM notlandırmasının insan notlandırmasına eşdeğer olduğu varsayımıyla benimsenmemelidir — herhangi bir not ağırlık taşımadan önce [[assessment-validity|geçerlilik]] insan puanlarına karşı yerelde kurulmalıdır. Yardımcı davranışlar katı bir bağımlılıktır: soru türünü tek başına kurmak soruları notlandırılamaz bırakır.
-
-## Bağlı kavramlar
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

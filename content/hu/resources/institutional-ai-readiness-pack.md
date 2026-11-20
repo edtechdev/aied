@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -37,6 +38,3 @@ Egy **felmérési csomag**: 20 cellás intézményi MI-felkészültségi éretts
 
 ## Kinek szól
 Kutatásvezetők, bizottságok és szabályozási irodák, amelyeknek bizonyítékalapú képre van szükségük arról, hogyan használják és [[governance|irányítják]] a MI-t egy kutatási környezetben, valamint módra, hogy nyomon kövessék a [[change-management|változást]] az időben. A *Responsible AI in Academic Research: A Competency Framework for Research Training* című munkához tartozik, amely öt felkészültségi dimenziót határoz meg, és Michael J. Zyphur, az Instats igazgatója írta.
-
-## Kapcsolódó fogalmak
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

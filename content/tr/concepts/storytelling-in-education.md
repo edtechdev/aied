@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
+connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -56,21 +58,3 @@ Hikâye anlatımı; [[student-engagement]], [[motivation]], [[creativity]], [[ed
 **“YZ üretimi, hikâye anlatımını yazamayan öğrenciler için erişilebilir kılar.”** *Yazılı bir ürün üretmeyi* erişilebilir kılar, ki bu farklı bir yarardır. Sözlü anlatım, çizim ve dikte aynı amaca giden yerleşik yollardır ve üretimin ortadan kaldırdığı yazarlığı korurlar.
 
 **“Bir hikâyenin eğitimsel değeri cilalı sonuçtadır.”** Değer inşadadır: anlatıcının yaptığı seçme ve sıralama işinde. Öğrencinin yapılandırmadığı cilalı bir hikâye, öğrenenin değil modelin yetkinliğini göstermiştir.
-
-## Bağlı kavramlar
-
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[educational-robotics]]
-- [[language-learning]]
-- [[social-emotional-learning]]
-
-## Bağlı makaleler
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-generated-interactive-fiction-education-2026]] — YZ üretimi etkileşimli kurgu: 22 öğrencilik pilotta zayıf boyut tutarlılık

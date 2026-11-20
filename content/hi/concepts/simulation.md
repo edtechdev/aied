@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, student-modeling, constructivist, trust-calibration, professional-training, chemistry-education, biology-education, ai-technologies, virtual-and-augmented-reality, ai-avatars-and-synthetic-instructors]
+connected_articles: [ismail-affective-domain-ai-healthcare-review-2026, hernandez-ai-clinical-simulation-scoping-2026, van-patten-freeman-rath-ai-counselor-education-scoping-2026, learner-agency-ai-simulation-2026, benzion-ai-physics-simulations-virtual-lab, adaptive-virtual-patient-psychotherapy-training, ai-enabled-serious-games, anvil-ai-educational-animations, astra-atco-training-simulator, supplynet-visual-exploratory-learning, medeasy-ai-standardized-patients, remind-robot-mediated-roleplay-antibullying-2026, residencyrl-clinical-rl-training-2026, genai-scenario-based-healthcare-education-2026, conversational-agents-business-simulation-gaming-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, simulation-assisted-drone-learning-stem-2026, an-goel-self-directed-modeling-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, jiang-ai-powered-simulation-nursing-education-2026, sophie-clinical-communication-ai-assessment-2026, caee-digital-twins-stem-education-systematic-review-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, theelen-classroom-simulations-four-layer-framework-2026, herrera-alcaino-simulation-curricular-coherence-2026, alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026, tischkau-ai-simulated-patient-formats-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -97,49 +99,3 @@ ai_assist:
 - **"सिमुलेशन सस्ता है और इसलिए दूसरे दर्जे का।"** स्वायत्त [[llm|LLM]] सिम-पायलट उन विशेषज्ञ मानव भूमिका-अभिनेताओं का **स्थान लेते हैं जो हवाई-यातायात-नियंत्रण सिमुलेशन में तैनात रहते हैं, और प्रशिक्षण-क्षमता की एक बाधा हटा देते हैं**; बाधा प्रामाणिकता नहीं, कर्मचारी-व्यवस्था थी। जहाँ मानव भूमिका-अभिनेता दुर्लभ हैं, वहाँ LLM सिमुलेशन विकल्प नहीं बल्कि एकमात्र उपलब्ध विकल्प है।
 - **"सिमुलेटरों को औसत मामलों जैसा व्यवहार करना चाहिए।"** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] एक नीति एजेंट को **प्रतिकूल व्यवहार करने के लिए बनाए गए LLM रोगी सिमुलेटरों** के साथ जोड़ता है। सहयोगी बनने के लिए डिज़ाइन किया गया सिमुलेटर शिक्षार्थी के अभ्यास को क्लिनिक से आसान बना देता है, जो प्रशिक्षण की आवश्यकता का उलटा है।
 - **"स्क्रिप्टेड परिदृश्य अनिश्चितता में निर्णय लेना सिखाते हैं।"** SupplyNet के प्रासंगिक बहु-एजेंट एजेंट **शिक्षार्थी के निर्णयों से उभरने वाली गतिशीलता** उत्पन्न करते हैं, स्क्रिप्टेड अनुक्रम नहीं। स्क्रिप्टेड परिदृश्य ज्ञात मार्ग का अभ्यास करते हैं; उभरते हुए निर्णय का अभ्यास करते हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[reinforcement-learning]]
-- [[student-modeling]]
-- [[constructivist]]
-- [[trust-calibration]]
-- [[professional-training]]
-- [[chemistry-education]] — रसायन शिक्षा और AI: प्रयोगशालाएँ, रूपरेखा मूल्यांकन, LLM सीमाएँ, प्रयोग का दर्शन
-- [[biology-education]] — जीव विज्ञान शिक्षा और AI: प्रयोगशाला शिक्षण सहायक, जीव विज्ञान में AI साक्षरता, आलोचनात्मक सोच, विशेष उपकरण
-- [[ai-technologies]] — छत्र: AI प्रौद्योगिकियाँ और तकनीकें (मॉडल, LLM प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
-- [[virtual-and-augmented-reality]] — मॉडल, माध्यम नहीं — इमर्सिव वातावरण आमतौर पर किसी सिमुलेशन को प्रस्तुत करते हैं
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-## संबंधित लेख
-
-- [[learner-agency-ai-simulation-2026]] — जटिल-प्रणाली सिमुलेशन में पैरामीटर नियंत्रण और एक वैकल्पिक AI एजेंट: लाभ ने क्रियान्वयन को ट्रैक किया, पहुँच को नहीं
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — मनोचिकित्सा प्रशिक्षण के लिए अनुकूली आभासी रोगी
-- [[ai-enabled-serious-games]] — AI-सक्षम गंभीर खेल
-- [[anvil-ai-educational-animations]] — ANVIL: व्याख्याताओं के लिए सादृश्य और वीडियो
-- [[astra-atco-training-simulator]] — ASTRA: ATCO प्रशिक्षण सिमुलेटर
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: दृश्य अन्वेषणात्मक सीख
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI मानकीकृत रोगी
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — उपद्रक्ष्टा हस्तक्षेप के लिए रोबोट-मध्यस्थ रोल-प्ले खेल (अनुप्रयुक्त नाटक)
-- [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — परिदृश्य-आधारित स्वास्थ्य शिक्षा में GenAI का व्यवस्थित समीक्षा (Neto और सहयोगी 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — व्यापार सिमुलेशन खेलों में AI संवादी एजेंटों के लिए CAIS-GBL ढाँचा (Wenzel और सहयोगी 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — सहयोगपूर्ण समस्या-समाधान संवादों को पुनरुत्पादित करने वाले फ़ाइन-ट्यून प्रतिभागी-विशिष्ट LLM एजेंट (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — बहु-एजेंट ट्यूटरिंग और सहभागिता-संतुलित सहयोग के लिए ASTRA संश्लेषित बेंचमार्क
-- [[simulation-assisted-drone-learning-stem-2026]] — शिक्षक-AI सह-डिज़ाइन किए गए स्कैफ़ोल्ड के साथ सिमुलेशन-सहायित ड्रोन सीख
-- [[an-goel-self-directed-modeling-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — नर्सिंग में AI-संचालित सिमुलेशन: मिश्रित पद्धति व्यवस्थित समीक्षा (प्रामाणिकता अंतर, चरणबद्ध क्रम)
-- [[sophie-clinical-communication-ai-assessment-2026]] — स्केलेबल AI-आधारित नैदानिक संवाद प्रशिक्षण और स्वचालित मूल्यांकन
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM शिक्षा में डिजिटल ट्विन: सभी प्रोटोटाइप काम करते थे, सीखने के लाभ ज़्यादातर नहीं
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — फ़्लिप्ड भौतिकी सीखने के लिए AI-समर्थित आभासी प्रयोगशाला: माध्यमिक छात्रों की उपलब्धि, प्रेरणा और संज्ञानात्मक भार पर प्रभाव
-
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — चार-परत ढाँचा: प्रस्तुत अभ्यास, अनुकरणित स्थिति, एजेंसी और अनुकूलन, तथा संचालन को अलग करता है
-- [[herrera-alcaino-simulation-curricular-coherence-2026]] — प्रौद्योगिकी-अपनाने से पाठ्यक्रम-सुसंगति तक: स्वास्थ्य व्यवसाय शिक्षा में एक सेतु के रूप में प्रौद्योगिकी-संवर्धित सिमुलेशन
-- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — सिमुलेशन-चक्र में शिक्षक किसी संवादी एजेंट को क्या प्रत्यायोजित नहीं कर सकता
-

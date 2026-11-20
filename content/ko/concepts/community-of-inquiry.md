@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
+connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -80,30 +82,3 @@ GenAI는 현존의 지표들이 주로 인간 학습자와 [[teacher-role|instru
 **"현존은 집단 전체에 고르게 분포한다."** 현존은 조건 사이가 아니라 조건 *내부*에서 갈라집니다. 중국인 학부생 63명(33명은 GPT-4o mini 챗봇 사용, 30명은 미사용)이 다섯 주의 과제에 걸쳐 공유 읽기에 주석을 다는 준실험에서, 현존은 집단 성취도에 따라 갈렸습니다. 고성취 집단은 2319개의 주석에서 1407건의 피드백 요청(60.7%)을 시작한 반면, 저성취 집단은 2167개 중 737건(34.0%)이었습니다. 같은 도구에 대한 접근은 이 틀이 측정하는 사회적 행동에서 이미 존재하던 격차를 재생산했습니다.
 
 **"온라인 수업에 챗봇을 더하면 현존이 하나 더해진다."** 그것은 조합을 바꿉니다. GenAI 아래에서 이 틀의 가치는 대체를 가시적으로 만든다는 데 있습니다. 모형이 충족하는 현존은 같은 구성개념의 다른 배치이며, 집단 자료는 그 대체가 고르지 않게 이득을 준다는 것을 보여 줍니다.
-
-## 연결된 개념
-
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[pedagogy]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[llm]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[trust-calibration]]
-
-## 연결된 문서
-
-- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21개 연구 범위 고찰: 현존 증거는 고르지 않고, 교수적 현존이 가장 적게 연구되었으며, 설계 구성이 결과를 가른다 (Doo & Park 2026)
-- [[genai-social-annotation-epistemic-network-analysis-2026]] — GenAI 지원 사회적 주석에서의 학생 상호작용 풀기: 인지적·사회적 현존의 인식론적 네트워크 분석
-- [[reconceptualizing-community-inquiry-generative-ai]] — 생성 AI 시대에 CoI 재개념화하기
-- [[ai-communities-of-inquiry-2026]] — 탐구 공동체들에서의 AI
-- [[ai-online-education-engagement-satisfaction-2026]] — AI와 온라인 교육 참여
-- [[reflective-triangle-model-teacher-ai-2026]] — 성찰 삼각 모형: 인지적 매개자로서의 AI
-
-- [[llm-facilitation-timing-online-discussions]] — 인간 대 LLM 촉진자: 모델이 전문가 인간보다 더 성급하게 개입한다 (Tsirmpas et al. 2026)
-

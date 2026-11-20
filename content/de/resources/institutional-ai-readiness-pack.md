@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -40,7 +41,3 @@ Eine **Test-Suite**: eine Selbsteinschätzung zur institutionellen KI-Bereitscha
 ## Für wen es gedacht ist
 
 Forschungsleitungen, Ausschüsse und Richtlinienstellen, die ein evidenzbasiertes Bild davon brauchen, wie KI in einem Forschungsumfeld genutzt und [[governance|gesteuert]] wird, und eine Möglichkeit, [[change-management|Wandel]] über die Zeit zu verfolgen. Es begleitet *Responsible AI in Academic Research: A Competency Framework for Research Training*, das fünf Dimensionen der Bereitschaft definiert, und wurde von Michael J. Zyphur geschrieben, dem Leiter von Instats.
-
-## Verbundene Konzepte
-
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

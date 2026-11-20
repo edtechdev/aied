@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
+connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -126,46 +128,3 @@ ai_assist:
 **"ספי מעקות בטיחות הם בחירות הנדסיות לכוונון."** סף הוא החלטת מדיניות עם עלות חלוקתית. העברת חתך רעילות מ‑0.3 ל‑0.7 קיצצה הנחיות מסומנות מ‑**35.62% ל‑12.4%**; בגלאי הונאה היא החליפה **15 התראות שווא ו‑18 הונאות שהוחמצו ב‑2 ו‑36**. שום חתך אינו מסיר את המחלוקת — הוא רק מחליט איזו שגיאה המוסד מעדיף, וההחלטה הזו שייכת למוסד ולא לקבוע ברירת מחדל.
 
 **"ביקורת הוגנות היא עניין נפרד מהתאמת מעקה הבטיחות."** דפוסי סירוב ותמיכה מחלקים תועלת שלא באופן שווה גם כשהם מיושמים באופן שווה, ושיעור נזק ממוצע מסתיר אילו סטודנטים סופגים אותו. ביקורת חייבת להיות חלק ממפרט מעקה הבטיחות, לא מחקר שמוזמן בדיעבד.
-
-## מושגים מחוברים
-
-- [[pedagogical-safety]] — המטרה שמעקות בטיחות מבצעים
-- [[prompt-engineering]] — טכניקת העיצוב רמז-ולא-תשובה
-- [[rag]] — עיגון ידע כמעקת בטיחות
-- [[human-in-the-loop-ai]] — QA ופיקוח של מורים
-- [[llm-training-and-fine-tuning]] — שכבת האימון/היישור
-- [[reinforcement-learning]] — עיצוב תגמול להתנהגות בטוחה
-- [[bias-mitigation]] — ביקורת מעקות בטיחות להוגנות
-- [[ai-sycophancy]] — סיכון המניפולציה שמעקות בטיחות חייבים לעמוד בפניו
-- [[scaffolding]] — המנגנון הפדגוגי שמעקות בטיחות שומרים
-- [[socratic-method]] — מצב אינטראקציה של רמז-ולא-תשובה
-- [[hallucination-risk]] — סיכון הייצור שמעקות בטיחות מפחיתים
-- [[cognitive-offloading]] — נזק ההסתמכות-יתר שמעקות בטיחות מונעים
-- [[k-12]] — ההקשר שבו מעקות בטיחות חשובים ביותר
-- [[ethics]] — הבסיס הנורמטיבי
-- [[governance]] — שכבת המדיניות
-- [[intelligent-tutoring]] — המערכות שנשמרות
-- [[misconceptions]] — הידע שמעקות בטיחות חייבים לבדוק
-- [[trust]] — התוצאה של מעקות בטיחות מעוצבים היטב
-- [[llm]] — שכבת המודל המוגבלת
-
-## מאמרים מחוברים
-
-- [[ai-security-literacy-k12-framework-2026]] — אוריינות אבטחת AI: מסגרת כשירות מבוססת-אקוסיסטם ופלטפורמת למידה ל‑K-12
-- [[reflection-agent-fidelity-career-2026]] — נאמן היכן שהוא יכול להיבדק: ביקורת סוכן רפלקציה מול הנחיית המערכת שלו בניסוי רנדומלי
-- [[scaffolding-student-ai-dialogue-framework-2026]] — מסגרת SCAFFOLD להנחיית דו-שיח סטודנטים-בינה מלאכותית, עם הפיילוט בכיתה שלה
-- [[generative-ai-guardrails-harm-learning]] — ניסוי השדה הקנוני על מעקות בטיחות
-- [[eduzone-llm-safety-k12]] — מסגרת בטיחות מודלים לשוניים גן-תיכון
-- [[eduguard-safe-rag-llm-tutor]] — בטיחות מבוססת-RAG לחונכים
-- [[paternalistic-filter-llm-history-education]] — ביקורת מעקות בטיחות להטיה
-- [[singh-eduqwen-pedagogical-rl-2026]] — למידה מודרכת מיושרת-RL
-- [[tact-pedagogically-adaptive-esl-tutoring]] — אימון-לאחר מיושר-טקסונומיה
-- [[eduframetrap-llm-sycophancy-educational-safety]] — חנופה כסיכון בטיחות
-- [[ai-tutor-authoring-promptdecipher]] — QA מונע-מורה
-- [[llm-unlearning-math-privacy]] — ביטול-למידה ברמת-המודל
-- [[pedagogical-safety-rl]] — עיצוב תגמול לבטיחות פדגוגית
-- [[residencyrl-clinical-rl-training-2026]] — RL מיושר-בטיחות באימון קליני
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — פיגום מונחה-כללים מול פיגום אד-הוק במערכת חונכות מודל לשוני למתמטיקה יסודית (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — ממשל הוראה בעיצוב: מסגרת לבינה מלאכותית בחינוך מחשוב
-- [[guardrails-ai-teaching-assistants-programming-2026]] — מעקות בטיחות או חסמי דרך? השפעות סגנון פדגוגי ומודעות-הקשר בעוזרי הוראה בינה מלאכותית לתכנות
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — כיצד הסיכון לחשיבת הסטודנט שונה לפי קטגוריית מוצר לאורך 20 כלי בינה מלאכותית שנצפו בכיתות אמיתיות

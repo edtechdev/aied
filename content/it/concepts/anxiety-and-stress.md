@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -134,56 +136,3 @@ Il [[well-being|benessere]] è l'ampio stato positivo (salute emotiva, psicologi
 - **"L'ansia da IA è puramente dannosa."** Questa ansia **non è puramente negativa**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] trova che **l'ansia da IA può essere produttiva**, con un'ansia più alta associata a una regolazione più strategica. L'ansia funziona come un segnale da scrutinare, non solo come un fardello.
 - **"Tutti gli studenti ansiosi rispondono allo stesso modo."** I **quattro tipi regolatori di Kim — Affidamento acritico 18,7%, Integrazione selettiva 34,6%, Trasformazione valutativa 31,8%, Rifiuto strategico 14,9%** — mostrano che la scrutinazione guidata dall'ansia produce **quattro** pattern distinti. Un intervento rivolto agli "studenti ansiosi" manca il fatto che il gruppo singolo più grande integra selettivamente.
 - **"L'ansia sopprime sempre la partecipazione."** Quel rinquadramento ha un **confine nel parlato**: tra **708 apprendenti di inglese**, il legame ansia da parlato–disponibilità correva **−0,371 a bassa auto-efficacia nel parlato ma +0,137 ad alta**. L'ansia può accompagnarsi alla disponibilità quando l'auto-efficacia è alta, quindi la direzione dell'effetto dipende dalla fiducia.
-
-## Concetti collegati
-- [[career-development-and-readiness]] — la preparazione di carriera come fattore protettivo contro l'ansia da IA
-- [[well-being]] — l'ampio ombrello che questo concetto sviluppa in profondità
-- [[remote-proctoring]] — la fonte principale di stress da sorveglianza/falsa accusa
-- [[social-emotional-learning]] — le competenze emotive coinvolte
-- [[affective-computing]] — l'IA che legge lo stato emotivo
-- [[affective-tutoring]] — l'IA che risponde all'affetto
-- [[academic-integrity]] — la dimensione integrità/accusa di imbroglio
-- [[privacy]] — la preoccupazione di sorveglianza sottostante allo stress da proctoring
-- [[student-experience]] — l'ansia come parte dell'esperienza del discente
-- [[motivation]] — l'effetto dell'ansia su adozione e impegno
-- [[self-regulated-learning]] — il legame con l'ansia produttiva
-- [[ai-literacy]] — costruire capacità che riduce l'ansia infondata
-- [[equity-in-ai-education]] — stress sproporzionato sugli studenti vulnerabili
-- [[ethics]] — l'equità della sorveglianza e delle false accuse
-- [[teacher-role]] — l'ansia lato educatore
-- [[assessment]] — l'ansia da valutazione mediata dall'IA
-- [[social-norms-ai-use]] — il costo affettivo della visibilità
-
-## Articoli collegati
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La competenza alza la consapevolezza etica, la consapevolezza etica alza l'ansia da IA: mediazione solo indiretta tra 584 studenti
-- [[ai-anxiety-strategic-regulation-writing-2026]] — L'ansia da IA come segnale produttivo di regolazione strategica
-- [[aivaluate-anxiety-assessment-2026]] — Ansia degli studenti nella valutazione basata sulla performance mediata dall'IA
-- [[ai-campus-wellbeing-tools]] — Strumenti basati sull'IA per il benessere del campus
-- [[affective-text-wearable-student-health]] — Testo affettivo + rilevamento indossabile per la salute degli studenti
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Proctoring automatizzato, ansia di chi sostiene l'esame, false accuse
-- [[automated-online-exam-proctoring-decade-review-2026]] — Revisione decennale del proctoring automatizzato degli esami online
-- [[moral-panic-genai-classroom]] — Ansia del corpo docente e panico morale sulla GenAI
-- [[acceptance-ai-english-tools-2026]] — L'ansia che plasma l'accettazione degli strumenti di IA
-- [[teacher-education-ai-literacy-sdt-2026]] — Formazione degli insegnanti, alfabetizzazione sull'IA, e ansia
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Uso dell'IA intrecciato con ansia, fiducia, confidenza
-- [[qu-wang-disclose-or-not-genai-2026]] — Il dilemma della divulgazione come fonte di stress per gli studenti
-- [[kim-ai-anxiety-comprehensive-analysis]] — Analisi completa dell'ansia da IA e degli interventi
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Le abilità di adattabilità di carriera riducono l'ansia da IA
-- [[duan-ai-anxiety-career-decisions-college-2026]] — L'ansia da IA compromette le decisioni di carriera tramite l'adattabilità di carriera
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — L'ansia da IA e gli atteggiamenti predicono l'ansia da trovamento di lavoro
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — L'ansia da IA predice l'ansia da ricerca di lavoro nelle scienze della salute
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Perceived school support lowers AI learning anxiety mainly through control-value appraisals (69.5% mediated); ANN cross-validation (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Sondaggio AAC&U/Elon su 1.057 docenti statunitensi: previsioni di sovraffidamento, preoccupazione di integrità e un ruolo del corpo docente diminuito (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Dalla paura alla curiosità: un istituto di sei settimane per il corpo docente che muove i docenti attraverso la minaccia identitaria (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Sensi di impostura degli sviluppatori accademici e disagio etico come lavoro affettivo nel lavoro mediato dall'IA
-- [[parlant-emotional-micro-interventions-2026]] — Micro-interventi emotivi in tempo reale lato docente fondati sulla teoria della valutazione cognitiva
-
-- [[ai-employment-threat-career-anxiety-2026]] — Minaccia occupazionale dell'IA e ansia da decisioni di carriera: l'occupabilità percepita media e il growth mindset modera
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — La pressione d'uso dell'IA indebolisce il legame tra competenza nell'IA e aggiustamento del primo anno
-- [[ai-attitude-latent-profiles-career-development-2026]] — Un profilo alto sia su ansia da IA sia su qualità percepita dell'IA, non l'una o l'altra
-- [[ai-speaking-practice-communicative-readiness-2026]] — Il legame dell'ansia da parlato con la disponibilità a comunicare si inverte ad alta auto-efficacia nel parlato
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Un agente simile a un esaminatore ha alzato insieme il parlato misurato e l'ansia
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — L'intelligenza percepita dell'assistente IA abbassa l'ansia accademica tramite il progresso negli obiettivi di studio (studenti di medicina)

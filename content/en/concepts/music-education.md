@@ -17,6 +17,8 @@ ai_assist:
     date: "2026-11-16"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [arts-and-media-education, creativity, embodied-learning, assessment-validity, ai-feedback-quality, inclusive-learning, self-regulated-learning]
+connected_articles: [musical-education-ai-digital-transformation-2026, ai-feedback-violin-intonation-2026, ai-vocal-pedagogy-2026, embodied-string-learning-blindness-low-vision-musicians, gpt4o-mini-music-analysis-scoring, lee-ai-music-quiz-disciplinary-thinking-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, zhang-tang-ai-music-classroom-engagement-longitudinal-2026, chatgpt-music-education-junior-high-2026, middle-school-genai-steam-interactions-2026]
 ---
 
 > **Music Education** — teaching and learning in which the object is sounded, performed and heard: instrumental and vocal technique, ensemble playing, composition, analysis and listening. What distinguishes it from the other arts is that the assessed artifact is evanescent and the skill is embodied in the body that produces it. [[generative-ai|Generative AI]] changes the economics of music before it changes the pedagogy: the same tools that generate a finished track can also give a student cent-level pitch feedback no teacher has time to produce. The open questions are whether automated feedback develops the ear or substitutes for it, whether generation teaches composition or positions students as consumers, and what ensemble performance is for when production is free.
@@ -68,26 +70,3 @@ Classroom studies cluster around motivation rather than achievement. [[zhang-tan
 - **"AI feedback replaces the teacher's ear."** The intonation study removed the teacher and improved pitch, but its authors call the tool complementary and measured one skill over four weeks; Li argues explicitly that measured deviation is not the same as embodied coordination.
 - **"Generative audio tools teach composition."** Briot's distinction between autonomous generators and interactive assistants is the counter: prompt-to-piece positions students as consumers of output, and only constraint-imposing, style-learning systems function as partners.
 - **"If automated scoring matches teacher means, it is ready."** Agreement at the mean can hide dimension-level disagreement, which is why Lin et al. recommend validation by criterion and human oversight.
-
-## Connected Concepts
-
-- [[arts-and-media-education]]
-- [[creativity]]
-- [[embodied-learning]]
-- [[assessment-validity]]
-- [[ai-feedback-quality]]
-- [[inclusive-learning]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[musical-education-ai-digital-transformation-2026]] — Briot (2026): dematerialisation, streaming payouts, and the autonomous-generator versus interactive-assistant distinction
-- [[ai-feedback-violin-intonation-2026]] — Twelve violinists, four weeks of teacher-free AI pitch analysis, intonation up from 144.75 to 207.33
-- [[ai-vocal-pedagogy-2026]] — Li (2026): measurable pitch deviation is not embodied coordination
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Four blind and low-vision string players; tactile and kinesthetic cues replacing visual demonstration
-- [[gpt4o-mini-music-analysis-scoring]] — 300 music-analysis responses; few-shot chain-of-thought closest to teacher means, RAG over-scoring, weaker on terminology
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 34 musicology students on a gamified AI quiz: format divided them more than content
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Cross-modal audio-score alignment, 91.2% rhythm-error recall, 120 participants improving faster
-- [[zhang-tang-ai-music-classroom-engagement-longitudinal-2026]] — 850 undergraduates, five waves: engagement, flow and emotional intelligence as parallel growth
-- [[chatgpt-music-education-junior-high-2026]] — 508 Taiwanese junior high students on ChatGPT for lyric learning
-- [[middle-school-genai-steam-interactions-2026]] — Twelve eighth-graders across a mathematics-and-music STEAM module

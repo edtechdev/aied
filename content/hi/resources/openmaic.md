@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [agentic-ai, generative-ai, llm, open-source, project-based-learning, online-teaching-and-learning, personalized-learning, teacher-role, intelligent-tutoring, simulation]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -44,8 +45,3 @@ ai_assist:
 ## टिप्पणियाँ
 
 यह MIT लाइसेंस के अंतर्गत है, इसके साथ अंग्रेज़ी और चीनी उपयोगकर्ता-गाइड है, तथा Discord और Feishu पर सक्रिय समुदाय है। यह मॉडल-तटस्थ है: आप कम से कम एक LLM प्रदाता कुंजी देते हैं, और वैकल्पिक स्थानीय घटक (स्थानीय मॉडल के लिए Lemonade, वाक् पहचान के लिए FunASR) आपको स्टैक का अधिक भाग ऑफ़लाइन चलाने देते हैं — अतः "free" का अर्थ सॉफ़्टवेयर है, अनुमान बिल नहीं। इसके पीछे का शोधपत्र *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0) में प्रकाशित हुआ, और सितंबर 2026 तक रिपॉज़िटरी के पास 38,000 से अधिक स्टार थे।
-
-## संबद्ध संकल्पनाएँ
-
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
-

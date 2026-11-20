@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, personalized-learning, rag, open-source, mastery-learning, knowledge-tracing, automated-question-generation]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,6 +44,3 @@ Wanachuo wa elimu ya juu na watafiti wanaotaka toleo la kupeleka la mfumo ambao 
 ## Vidokezo
 
 Imewezeshwa Apache 2.0, katika toleo 1.6.9 kuanzia Septemba 2026 na takriban nyota 40,000 za GitHub. Tathmini iliyochapishwa iliyo nyuma yake — kuboresha kwa wastani wa 10.8% kwenye vipimo vya ubinafsishaji juu ya msingi imara na hoja za kawaida za wakala za ujumla zenye nguvu zaidi ya 29.4% katika mifano mitano ya msingi, kwenye kipimo cha TutorBench — imemuhtasariwa kwenye [[zhao-deeptutor-agentic-personalized-tutoring-2026|ukurasa wa makala]], na vikomo vyake vinatumika hapa pia. Kama kila mrundo wa AI wa chanzo-wazi, wewe hutoa funguo za mtoa huduma za mfano, na kupeleka kwa eneo-la-kazi au seva kunatarajia Python 3.11 na Node.
-
-## Dhana Zilizounganishwa
-[[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

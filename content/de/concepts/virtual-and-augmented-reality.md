@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
+connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -88,38 +90,3 @@ Avatare und digitale Menschen sind das menschliche Gesicht dieser Schicht, und [
 - **„Das Phänomen zu fühlen heißt, es zu verstehen."** Ein Pilot fand, dass Studierende Wellenlänge und Amplitude durch eine Handgeste stärker **fühlten** als durch einen Schieberegler — doch **gemessen wurde die Wahrnehmung, nicht die Leistung**. Das Gefühl ist die Affordanz, und ob es Verständnis erzeugte, ist ein eigener Test.
 - **„Hohe Usability-Werte validieren ein pädagogisches VR-Werkzeug."** In einer **einstündigen Sitzung mit 10 Studierenden** auf einer Meta Quest 3 berichtete die Studie **gute Usability auf der System Usability Scale und minimale Simulationskrankheit**. Usability und Komfort sind Voraussetzungen, und keines von beiden ist ein Lernmaß.
 - **„Die Zustimmung der Studierenden ist Evidenz für die Affordanz."** Mit **29 Medizinbildungs-Studierenden des zweiten Jahres** stimmten alle 29 zu, die Geste helfe ihnen, zu „fühlen", was Wellenlänge ist (Mittel 4,52). Einstimmige Zustimmung zu einem Gefühl ist Selbstauskunft über Erleben, und die Affordanzbehauptung braucht ein Ergebnis, das nicht vom Urteil der Studierenden über ihr eigenes Verständnis abhängt.
-
-## Verbundene Konzepte
-- [[simulation]] — was immersive Umgebungen üblicherweise anzeigen; das Modell, nicht die Modalität
-- [[embodied-learning]] — der Mechanismus, den die Modalität auszunutzen hat
-- [[multimodal]] — Geste, Sprache und räumliche Eingabe als Lernkanäle
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[game-based-learning]]
-- [[professional-training]] — das Setting, in dem immersive Praxis am stärksten etabliert ist
-- [[generative-ai]] — die neue Autorenschicht
-- [[prompt-engineering]] — wie Nicht-Programmierende immersive Werkzeuge bauen und verfeinern
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[rag]] — Anleitung im Inneren des Headsets verankern
-- [[intelligent-tutoring]]
-- [[visualization]]
-- [[medical-education]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[trust-calibration]] — Treue, und das Bewusstsein des bzw. der Lernenden für ihre Grenzen
-- [[cognitive-offloading]] — Latenz und Instabilität als fremde Last
-- [[edtech-platform]] — Synchronisation, Latenz und Präsenz an mehreren Standorten
-- [[arts-and-media-education]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-## Verbundene Artikel
-
-- [[genai-ar-physics-simulation-prompt-2026]] — Vierelement-Prompt zur Erzeugung handgesteuerter AR-Physiksimulationen; 29-Studierenden-Pilot, Evidenz nur aus Wahrnehmung
-- [[mixed-reality-engineering-learning]] — Mixed-Reality-Apps vs. physische Werkzeugkits vs. Klassenraum in Technischer Mechanik; Engagement hoch, komplexe Visualisierung weiterhin schwer
-- [[medgame-llm-medical-education-gamification]] — Gamifiziertes medizinisches Training mit KI
-- [[tech-enhanced-tabletop-cybersecurity-education]] — Augmentierte Tischszenarien in der Cybersicherheitsbildung
-- [[genai-xr-architectural-design-education-2026]] — Generative KI und Extended Reality in der kollaborativen Architektur-Design-Bildung: eine exploratorische Studio-Studie
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersives VR-Design-Studio mit einem LLM-gestützten Lehrassistenten, gegen traditionelles PBL geprüft (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-gestützte multimodale Instruktion in der VR-Bühnentechnik-Bildung, und wo die Verankerung brach (Liang et al. 2026)

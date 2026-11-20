@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -64,27 +66,3 @@ ai_assist:
 - **"גודל אפקט בינוני מזהה את הכלי הנכון."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] מוצאים שהתערבויות מבוססות בינה מלאכותית מניבות אפקט חיובי בינוני על תוצאות למידה לסטודנטים עם מוגבלויות (**g = 0.588**) לאורך רובוטים, תוכנה ומציאות מדומה אינטליגנטית. זהו ממוצע על פני טכנולוגיות שונות מאוד שמשרתות צרכים שונים מאוד, ולכן הוא תומך בקטגוריה ולא בבחירה בתוכה.
 - **"גישה מותנית-אבחנה היא עיצוב בר-הגנה."** דרישת אבחנה פורמלית להשתתפות מדירה לומדים עם צרכים אמיתיים ובלי תווית, מה שסותר את [[universal-design-for-learning|עיצוב אוניברסלי]] ודוחף את עלות הגישה לתיעוד של הסטודנט.
 - **"יותר כלים מסייעים פירושו יותר הכלה."** סקירת היקף סיננה **766 רשומות** בחמישה בסיסי נתונים, וכמות התפוקה אינה זהה לכיסוי הצורך — מספר המחקרים לכל מחסום הוא הנתון המאלף יותר.
-
-## מושגים מחוברים
-
-- [[accessibility]] — the design property that assistive technology operationalizes
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## מאמרים מחוברים
-
-- [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
-- [[kutti-ai-voice-first-learning-companion]] — Voice-first AI for visually impaired children
-- [[tactile-statistical-graphs-accessibility]] — AI-generated tactile statistical graphs
-- [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

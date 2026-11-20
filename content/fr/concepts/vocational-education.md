@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
+connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -86,29 +88,3 @@ Ce qui est distinctif dans l'IA en EFP est l'écart entre ce que le secteur dit 
 **« Les apprenants vont trop s'appuyer sur l'IA en formation pratique. »** Les données pilotes pointent dans l'autre sens. Des pilotes exploratoires (**N = 30**, Italie et Chine, **20 séances bornées**) ont trouvé que les participants traitaient le système comme un outil de soutien borné, avec **aucune attente rapportée de substitution ni de dépendance**. C'est exploratoire et de petite taille, et cela suggère bien que le cadrage des apprenants professionnels — un outil comme équipement plutôt que comme autorité — est une ressource autour de laquelle il vaut la peine de concevoir.
 
 **« L'approbation par les apprenants d'une tâche simulée signifie qu'elle a évalué la bonne chose. »** Sur **33 apprenants interrogés, 21 (64 %)** convenaient que la tâche vocale était réaliste et la même proportion disait qu'elle offrait une manière claire de communiquer ce qu'ils savaient — et aucun ne contestait que parler en temps réel convenait à cette [[authentic-assessment|évaluation authentique]]. Le réalisme et la clarté de la communication méritent d'être connus et ne constituent pas la validité : une tâche peut sembler authentique et échouer néanmoins à échantillonner la performance professionnelle qu'elle représente.
-
-## Concepts liés
-
-- [[professional-training]]
-- [[adult-learning]]
-- [[higher-ed]]
-- [[career-development-and-readiness]]
-- [[simulation]]
-- [[authentic-assessment]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Articles liés
-
-- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Renouvellement adaptatif des programmes d'EFTP : cinq dimensions et six tests de leadership
-- [[ai-vocational-education-training-review]] — Première revue systématique de l'IA dans l'EFP : objectifs, théorie et efficacité empirique
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL : apprentissage immersif par projet et créativité de conception
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET
-- [[ai-pedagogical-accompaniment-amico]] — Prototype bimodal Amico : principes de conception et indicateurs observables
-- [[ai-autonomous-learning-accomplishment-2026]] — Apprentissage autonome assisté par l'IA et accomplissement réduit, médié par la robustesse
-- [[astra-atco-training-simulator]] — Pseudo-pilotes autonomes pour une formation des contrôleurs aériens à grande échelle
-- [[crewscaler-ai-upskilling-framework]] — Cadre de bout en bout accéléré par l'IA pour un renforcement rapide des compétences professionnelles
-- [[genai-xr-architectural-design-education-2026]] — Contre-exemple : GenAI et XR multi-utilisateur avec une auto-efficacité de conception en baisse
-- [[huang-ai-literacy-vocational-problem-solving-2026]] — Le soutien TIC perçu comme levier institutionnel dans les établissements professionnels

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
+connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -105,48 +107,3 @@ Die offenen Fragen betreffen die Stärke der Evidenz, nicht nur das Design. Viel
 - **„Peer-Review ist ein billigerer Ersatz für Feedback von Lehrenden."** [[learning-by-teaching|Lernen durch Lehren]] ist der Mechanismus, und er zeigt sich selbst unter Maschinen: peer-lernartiger Diskurs unter über **2,4 Millionen KI-Agenten** war überwiegend **Behauptung statt Erkundung**. Kritik zu produzieren ist ein anderer Akt, als sie zu empfangen.
 
 - **Reflektierende Peer- und Selbstformulare als der Beleg hinter einer Gruppennote.** [[issa-teamwork-framework-academic-integrity-2024|Issa und Hall (2024)]] nutzten ein peer-reflektierendes Formular pro Teammitglied plus ein selbstreflektierendes Formular pro studierender Person in einem postgradualen Kurs zu Business Project Management, zusammen mit einem 30-minütigen Treffen mit jedem Team, in dem die Mitglieder gefragt wurden, ob ihr Beitrag originär war. Die Formulare wurden nicht als Feedbackaustausch benotet. Sie waren die personenbezogene Evidenz, mit der die Lehrperson eine individuelle Note innerhalb einer 40%-Teamprüfung verteidigen konnte. Der Anstieg der Bewertung im Rahmenwerk von 27/40 auf 31/40 ist mit einer neuen Lehrperson konfundiert, und seine Integritätsbehauptung ist nicht quantifiziert, sodass der übertragbare Teil die Struktur der Dokumentation ist, nicht die Effektstärke.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — PAIRR und kombiniertes Peer-plus-KI-Feedback: die Abläufe und ihre vergleichende Evidenz
-- [[writing-education]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[ai-feedback-quality]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[academic-integrity]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[group-work]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Verbundene Artikel
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — Integriertes KI-plus-Peer-Feedback erhöhte alle drei Engagementdimensionen und alle vier IELTS-Schreibdimensionen
-
-- [[usher-faraon-who-grades-best-2026]] — Vergleich der Bewertung durch ChatGPT, Peers und Lehrende über Projektqualitätsstufen hinweg (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer- und KI-Review + Reflexion (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — KI-Peer-Feedbacksysteme
-- [[ai-internal-feedback-evaluative-judgments]] — Entwirrung der Entwicklung bewertender Urteile bei grundständig Studierenden
-- [[learner-centered-feedback-ai]] — Lernendenzentriertes Feedback mit KI verbessern
-- [[genai-linguistic-diversity-academic-writing]] — Generative KI und sprachliche Vielfalt im akademischen Schreiben
-- [[gift-ai-pairr-business-writing-2025]] — PAIRR in einem Business-Writing-Kurs: Peer-Review, Chatbot-Feedback, Reflexion (MacArthur et al. 2025)
-- [[scaffolding-srl-feedback-genai-human-peers]] — GenAI vs. menschliche Peers zum Scaffolden selbstregulierten Feedbacks und Feedback-Kompetenz (Gu et al. 2026)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI als Trainerin und Synthetisiererin im EFL-Peer-Feedback zum Sprechen (Irwin & Muller 2026)
-- [[genai-feedback-design-multisite-experiment]] — Multisite-Experiment zum Vergleich von reinem Peer-, direktem, reflektierendem und hybridem GenAI-Feedback (Ateş 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Prompt-gescaffoldetes GenAI-Peer-Feedback in kollaborativer Argumentation (Chang et al. 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] — Handlungsfähigkeit in GenAI-vermittelter Gruppenbewertung: Kooperation, Zurückhaltung, Nicht-Umsetzung (Chen & Zou 2026)
-- [[code-review-genai-cs1]] — Mündliche Code-Review-Interviews als Schadensbegrenzung für GenAI in CS1 (Fowles et al. 2026)
-- [[multimodal-affective-its-presentation]] — Automatisiertes multimodales Präsentations-Coaching als skalierbare Alternative zum Peer-Feedback (Suen & Hung 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — KI-generierte Diskussionszusammenfassungen erweitern die Peer-Sichtbarkeit in Online-Foren (Hao & Cukurova 2026)
-- [[qu-wang-disclose-or-not-genai-2026]] — Peer-Einfluss und relationales Vertrauen bei der Offenlegung von GenAI durch Studierende (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Systematischer Review zu LLMs für kritisches Denken, Teamarbeit und Problemlösen (Martínez-Peláez et al. 2025)
-- [[ai-agents-peer-learning-discourse]] — Peer-Lernen-ähnlicher Diskurs unter 2,4 Millionen KI-Agenten (Chen et al. 2026)
-- [[oneill-presumed-effective-meta-analysis-2026]] — Prüfung von 14 AIED-Meta-Analysen und 59 Primärstudien (O'Neill 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Lehrkraft-Feedback vs. KI-unterstütztes Peer-Feedback im L2-Schreiben: Quantität, Fokus und Verbesserungsverläufe über zwei Aufgaben hinweg (Tang, Li & Luo 2026)
-- [[issa-teamwork-framework-academic-integrity-2024]] — Selbst- und Peer-Reflexionsformulare als personenbezogene Evidenz hinter einer Gruppennote (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Rollenvokabular von 654 Studierenden: Tutor 28,6%, Kollaborateur 23,1%, Werkzeug 9,9%, Roboter 7,7%

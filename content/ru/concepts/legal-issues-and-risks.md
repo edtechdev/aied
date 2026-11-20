@@ -25,6 +25,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
+connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -97,43 +99,3 @@ ai_assist:
 **«Обнаружение даёт доказательство, нужное процедуре.»** Обнаружение даёт балл. Доказательственный вопрос — можно ли вообще доказать обвинение, а [[ai-detection|литература об обнаружении]] показывает, что инструменты не дают ни надёжности, ни интерпретируемой категории, которых требует дисциплинарный процесс. Строить процедуру на детекторе — значит строить её на слабейшем звене.
 
 **«Риски гипотетичны, а политика догонит.»** Риски распределяются неравномерно уже сейчас, и студенты, которые их несут, — те, кто меньше всего способен оспорить процедуру. Асимметрия между способностью учреждения расследовать и способностью студента ответить — это нынешний вред, а не будущий.
-
-## Связанные концепции
-
-- [[academic-integrity]] — рамки поведения, применение которых несёт риск
-- [[ai-detection]] — инструмент в центре дел о необоснованных обвинениях
-- [[remote-proctoring]] — наблюдение при оценивании и вопросы защиты данных
-- [[assessment-validity]] — могут ли доказательства обосновать сделанный из них вывод
-- [[privacy]] — сбор, хранение и дальнейшая обработка данных студентов
-- [[regulation]] — установленные законом и регуляторные обязательства, которые должны выполнять учреждения
-- [[governance]] — внутренний дизайн политики и последовательность применения
-- [[educational-policy-ai]] — институциональная политика в отношении ИИ как источник непреднамеренного риска
-- [[ai-use-disclosure]] — ожидания раскрытия информации и их неисполнимые края
-- [[accessibility]] — разумная адаптация там, где норма удаляет вспомогательный инструмент
-- [[assistive-technology]] — инструменты в центре проблемы чрезмерно широких запретов
-- [[neurodiversity]] — студенты, наиболее подверженные чрезмерно широким запретам
-- [[equity-in-ai-education]] — дифференциальное бремя обнаружения и наблюдения
-- [[student-experience]] — человеческие издержки, предшествующие правовым
-- [[hallucination-risk]] — сфабрикованная правовая основа как профессиональная и институциональная ответственность
-- [[reducing-ai-misuse]] — альтернатива обвинению в виде предотвращения
-
-## Связанные статьи
-
-- [[munoz-misconduct-allegation-evidence-2026]] — Какие доказательства действительно содержатся в делах о нарушениях, и требование естественной справедливости
-- [[hadra-ai-detector-accuracy-efl-2026]] — Точность детекторов, провал на гибридных текстах и риск ошибочной классификации для изучающих английский как иностранный язык
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Надёжность средств обнаружения на втором корпусе
-- [[bassett-ai-detectors-education-2026]] — Почему никакой порог обнаружения не может быть верным: аргумент о выборе ошибки
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Пересмотр процедур о нарушениях, когда доказательства стали необнаружимыми
-- [[wright-transcription-not-generation-2026]] — Чрезмерно широкие нормы об ИИ, адаптация по инвалидности и разумная корректировка
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Карта удалённого прокторинга с проблемами конфиденциальности и наблюдения
-- [[automated-online-exam-proctoring-decade-review-2026]] — Десятилетие исследований автоматизированного прокторинга
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Академическая недобросовестность и прокторинг в эпоху ИИ
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Ясность политики как предпосылка защищаемого применения
-- [[qian-governing-genai-higher-ed-policy-2026]] — Политики и экосистемы поддержки в инновационных университетах США
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Экспертный консенсус о фрагментированном управлении
-- [[sharma-judgment-visible-genai-assessment-2026]] — Честность через видимое суждение, а не через наблюдение
-- [[shin-ai-policies-sld-2026]] — Политический пробел для студентов с конкретными нарушениями обучаемости
-- [[li-genai-assessment-language-equity-2026]] — Языковая справедливость как проблема дизайна норм: граница между поддержкой и подменой, непрямая дискриминация и обозримость (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Студенты атакуют ИИ-проверяющих косвенной инъекцией промптов, оценки меняются незамеченными (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Индикаторы управления и программа реформ для аутентифицирующего оценивания (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1 057 преподавателей США: индивидуальные политики значительно опережают институциональные, структурный ответ тонок (Watson & Rainie 2026)

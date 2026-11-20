@@ -22,6 +22,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 updated: "2026-11-08T10:26:27-05:00"
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -110,37 +112,3 @@ updated: "2026-11-08T10:26:27-05:00"
 - **«الشراكة تعني إعلاء صوت الطالب.»** الشراكة التربوية **علاقة محدودة ومتفاوض عليها** بأدوار معرَّفة والتزام متبادل، لا استشارة. فالصوت بلا دور ومرجع وحصة في القرار لا يغيّر شيئًا بنيويًا.
 - **«الشراكة موقف يمكن تبنّيه.»** إنها تقتضي شروطًا مؤسسية — وقتًا، وتقديرًا للطالب الشريك، وتغييرًا يستطيع الشركاء التأثير فيه فعلًا. فالشراكة المعلَنة بلا تلك الشروط تُعيد إنتاج التراتبية التي تزعم تعطيلها.
 - **«تقاسم السلطة لا يمكن أن يكون تطويرًا لأعضاء هيئة التدريس.»** ادعاء الأدبيات أن الشراكة تطوير *لأنها* تغيّر فهم المربّي عبر العلاقة. فتأطيرها كمنفعة للطالب وحده يُهدر الآلية.
-
-## المفاهيم المرتبطة
-
-- [[pedagogy]] — طرائق التدريس واستراتيجياته
-- [[collaborative-learning]]
-- [[agency]] — فاعلية المتعلّم
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## المقالات المرتبطة
-
-- [[guided-inquiry-genai-course-policy-2026]] — مقاربة استقصاء موجَّه لتصميم الطلاب مشتركًا لسياسات المقررات في الذكاء الاصطناعي التوليدي
-- [[lo-co-creating-custom-gpts-sap-2026]] — الإنشاء المشترك لنماذج GPT مخصصة: دراسة سيرة ذاتية ذاتية لطلاب جامعيين شركاءً في ابتكار الذكاء الاصطناعي التوليدي
-- [[williams-ingle-assessment-co-creation-ai-2025]] — تصميم التقويم عبر الإنشاء المشترك: شراكة الطلاب وأعضاء الهيئة في تقييم الذكاء الاصطناعي
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — خمسة مبادئ موجِّهة للتنقل في الذكاء الاصطناعي في ممارسة الطلاب كشركاء للحفاظ على الثقة التربوية
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — التصميم المشترك للذكاء الاصطناعي مع شركاء من الشباب: إطار أخلاقي للخصوصية العلائقية
-- [[fawns-entangled-pedagogy-genai-students-2026]] — إنارة حقائق الطلاب المعقّدة مع الذكاء الاصطناعي عبر إطار التربية المتشابكة
-- [[anastasia-shared-agency-partnership-framework-2026]] — الفاعلية المشتركة: إطار شراكة الفاعلية للتعاون بين المعلّم والطالب
-- [[maybee-disruptive-partnerships-sap-2025]] — الشراكات المُعطِّلة: التعاون مع الطلاب في دراسات المعلومات
-- [[student-centered-genai-responsible-framework-2026]] — إطار محاور للطالب للاستخدام المسؤول للذكاء الاصطناعي التوليدي
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — بنى الطلاب معلّمًا ذكيًا لزملائهم على نطاق 710 طالبًا: مشاركة عالية وأدلة تعلّم استكشافية (Zangari et al. 2026)

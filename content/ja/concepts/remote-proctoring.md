@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
+connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -78,30 +80,3 @@ ai_assist:
 - **「監督付き試験は学問的誠実性を守る」。** **誠実性の根拠は最大の試練に耐えられませんでした。** **4期、105コースにわたる1,760名の学生**において、監督は**テスト不安を高めた(β = 0.60, p < 0.001)ものの、検出可能な誠実性の利益はありませんでした**。測定された効果は学生の側にあり、不正の側にはありませんでした。
 - **「検知能力が高ければ監督も良くなる」。** **80件の査読済み研究(2014-2024)**の10年間のシステマティックレビューは、高度なML/DLによる監督が不正をより正確に**検知する**ことを見出し、それを展開することが行為を変えるかについては何も述べていません。検知のパフォーマンスは分類器の性質であり、評価制度の性質ではありません。
 - **「行動の信号は不正の信頼できる指標である」。** システムはYOLOv11で**フレームごとに17の身体ランドマーク**を追跡し、**姿勢の逸脱、頭部の傾向、上半身の動き**の特徴を導出します。それらの構成概念は代理であり、フラグを立てられた姿勢は、違反の観察ではなく身体についての分類です。
-
-## 関連する概念
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[online-teaching-and-learning]]
-- [[ai-misuse-learning-harm]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[trust]]
-- [[governance]]
-- [[legal-issues-and-risks]]
-- [[higher-ed]]
-
-## 関連する記事
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ウェアラブルAIは監督付き試験が依存する行動の信号を取り除く(Corbin、Sharpe、Dawson 2026)
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — 自動オンライン試験監督の 10 年間にわたる系統的レビュー
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — 自動監督付き試験における学問的不正の包括的レビュー
-- [[conijn-fear-big-brother-proctored-exams-2022]] — ビッグブラザーの恐怖: 監督付き試験のテスト不安への負の副作用
-- [[biology-degree-integrity-genai-cheating-2026]] — 学生は生物学の学位を不正で取得できるか——生成 AI 時代の生物学コース成績の学問的不正への脆弱性に関する事例研究
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 監視のもとで: 看護学生の評価におけるリモート監督付き試験の実践のマッピング
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 監督付きの対面試験で 44.2% の学生が高リスクとラベル付けされ、リスクは学期初頭の LMS の痕跡から予測された

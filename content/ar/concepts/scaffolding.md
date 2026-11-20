@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -66,7 +68,6 @@ ai_assist:
 
 - **الوتيرة سقالة أيضًا.** يقترن [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] بسقالة المحتوى طبقةً زمنية من مخصصات وقت أسبوعية ولوحات تقدّم وفحوص نهاية المقطع؛ فدون ضبط الوتيرة، بدأ نحو 25 في المئة من أكثر من 600 متعلّم في الأسبوع الأخير ورسب 95 في المئة منهم.
 
-
 ## علاقة ZPD
 
 يوفّر [[sociocultural-learning|جُحر التطوّر القريب عند ڤيغوتسكي]] الأساس النظري: تستهدف السقالة المساحة بين ما يستطيع المتعلّمون فعله باستقلال وما يستطيعون تحقيقه بالدعم. يجب أن تعمل أدوات الذكاء الاصطناعي داخل هذه المنطقة — دعم كافٍ يتيح التقدّم، ليس دعمًا يُجتزأ به التعلّم. وتظهر تركيبة تعكس الاتجاه المعتاد للتكيّف في المقرّر الدراسي العالي لسيدوركين (2026)، حيث حدّد المتعلّم لا النظام مستوى الدعم: كانت القراءات الأسبوعية تُولَّد عند الطلب، وكان الطلاب يضبطون مستوى الفهم عبر تلقينات متكررة (الإيقاع، والتعريفات، وكثافة المفردات، والعمق). ووجد تحليل ثلاث سجلات قراءة أن المؤشرات التعريفية كانت أكثر تكرارًا بمقدار 3.4 إلى 8.7 ضعف في ردود الذكاء الاصطناعي التالية للتلقينات الموجّهة نحو الفهم من النصوص التوضيحية الأساسية، مع بناء أوضح الحالات لطبقة تعريفية ثم طبقة إجرائية مرقّمة، مما يجعل كثافة السقالة خاصية قابلة للقياس لطلب المتعلّم لا لتقدير النظام لإتقانه فقط. ومتطلّب ثلاثة أسئلة متابعة على الأقل لكل قراءة جعل ذلك الضبط روتينيًا، محوّلًا النص إلى تفاعل يكشف فجوات الفهم التي لم يكن المدرّس ليراها لولا ذلك.
@@ -80,7 +81,6 @@ ai_assist:
 يجب أن تُسنِد الوكلاء ديناميكيًا لا ساكنًا: يُثبت [[agentic-ai-pedagogical-best-practice-2026|وولاستون وآخرون (2026)]] أن السقالات الآلية تُخاطر بأن تبقى ثابتة بدلًا من أن تُسحب مع نمو الكفاءة، ويوصون بسقالات ديناميكية تتكيّف وتتلاشى — وهي ضمانة مفتاحية ل[[agentic-ai|الوكلاء الذكيين]]. ويقدّم CoMeT (هو وآخرون 2026) كلاً من الفصل والضمانة لـ*متى* التلاشي: يصعد دعمه درجةً واحدة في كل مرة لا يستخدم فيها المتعلّم الدعم، وينزل إلى أخف درجة عند الاستخدام، حابسًا [[metacognition|الطلب ما وراء المعرفي]] مكافئًا إحصائيًا لمعلّم محتجب (p_TOST = .004) مع تقديم مُخرَج في 48.1% من الجلسات مقابل 23.7% — أي كثر عمل النظام لا أقل. والمحرّض الذي تحقّق منه هو الهدف لا العمق: بعد عرض كامل تنازل المعلّم لاحقًا عن 30.3% مما بقي مفتوحًا، وبعد مُخرَج ملصق 25.9%، وبعد تأكيد مجرّد 20.4%، وبعد طلب البناء 33.7%، في حين أن الأدوار غير الموجّهة إلى القرار المدعوم جذبت تنازلًا لاحقًا 40.3% من الوقت مقابل 28.8% للأدوار الموجَّهة (فرق 11.5 نقطة، فاصل بوتستراب 95% [2.1, 22.4]). وكان الاستخدام متفرقًا — 37.0% بعد السؤال الأول و21.8% بعد الثالث — لذا فإن قاعدة تلاشٍ مبنية على جهد المتعلّم ستقرأ عدم الإجابة كاستعداد.
 
 **يمكن تدريب التلاشي على الخروج من المعلّم.** توقّف معلّم تعلّم معزز متعدد الأدوار يُكافأ على المسألة الراهنة فقط، وعلى نسخة متنكّرة من النقل القريب، عن تلاشي الدعم وإسناد العمل المستقل، رغم أن لا شيء عاقب أيًّا منهما، لأن عائدهما يقع خارج حلقة حوار واحدة ([[assistance-dilemma-rl-tutoring-2026|Macina وKapur وSachan، 2026]]). فأفق مكافأة ينتهي مع المسألة سيمحو التلاشي الذي يحدّده التصميم.
-
 
 وتُظهر منطقة رابعة مصدر السقالة: يضيف [[scan-framework-task-assignment-generative-ai-2025|تسيم وجوتوريفا (2025)]] "المعلوم لدى الذكاء التوليدي" إلى مناطق ڤيغوتسكي، فتقَع المهمة في فئة الإحلال أو التكامل أو المساعدة أو غير القابل للتفاوض — وتحمل فئة غير القابل للتفاوض ما يحتاج شخصًا لأنه معياري أو ضِمني أو بالغ الخطورة ليُسلَّم لغير الإنسان.
 - **مواضع الذكاء الاصطناعي بمرحلة الفكرة، لا بالمقرّر.** يُبقي إطار المواضع ذي الحركات الستّ الذكاء الاصطناعي خارج المحاولة الأولى الصعبة والتحقّق النهائي بلا مساعدة، بينما يُرخّص له بينهما بالتلميحات والأمثلة والتدريب؛ وإذا جعل الذكاء الاصطناعي المهمة تبدو سهلة، فهو في المكان الخطأ ([[brcic-effortless-trap-productive-struggle-2026|برتشيتش وفرلجيتش، 2026]]).
@@ -109,62 +109,3 @@ ai_assist:
 - **"السقالة مستوى ثابت من الدعم."** أظهر التعليق الخبير على **207 استشارات** أن الحاجة إلى السقالة **تعتمد على المرحلة اعتمادًا قويًا، إذ ترتفع من نحو 16.1% من مداخلات الطالب في بداية** اللقاء. فمستوى سقالة واحد يُخصَّص خطأً في طرفي الاستشارة نفسها.
 - **"أي شرط ضبط منظّم مقارنة عادلة للسقالة."** تفوّقت حالة السقالة على **ضابط إفصاح تدريجي منظّم** في **الامتحان النهائي المُواءم [[summative-assessment|لـOSCE]]** (**71.8% مقابل 55.6%**)، فقيس المكسب في مقابل بديل [[pedagogy|بيداغوجي]] حقيقي لا في مقابل لا شيء.
 - **"آثار السقالة عامة."** بلغ المكسب **16.4 نقطة مئوية (P = 3.30e-4)**، وأكبر تحسّن في **التواصل (g هيدجز = -0.79)**. فالأثر متركّز في ناتج واحد، ومتوسط عبر النواتج يقلّل من شأن ما ينجح فيه ويضخّم ما لا ينجح فيه.
-
-## المفاهيم المرتبطة
-- [[pedagogical-patterns]] — مكان السند في التسلسل، ولماذا تُعدّ المحاولة قبل المساعدة القاعدة الحاملة للوزن
-- [[problem-based-learning]] — يدمج التعلّم القائم على المشكلات سقالات متلاشية حول مشكلات سيئة البنية
-- [[learning-by-teaching]] — بناء المعرفة عبر السقالة من خلال الشرح
-- [[sociocultural-learning]] — الأساس الڤيغوتسكي: ZPD والتعلّم المتواسَط اجتماعيًا
-- [[cognitive-offloading]] — السقالة التي لا تتلاشى أبدًا تُنشئ اعتمادًا مفرطًا
-- [[feedback]] — تُقدّم السقالة تغذية راجعة تكوينية مع تلاشي الدعم
-- [[ai-literacy]] — التعرّف على متى تدعم السقالة التعلّم ومتى تُزاحه
-- [[intelligent-tutoring]] — تُعدّل أنظمة التعليم الذكية شدة السقالة وفق تقديرات الإتقان
-- [[socratic-method]] — الاستقصاء الذي يحجب الإجابات المباشرة
-- [[metacognition]] — سقالات تبني المراقبة الذاتية والتنظيم الذاتي
-- [[adaptive-learning]] — تُعدّل الأنظمة التكيّفية الدعم داخل ZPD الخاصة بالمتعلّم
-- [[learning-design]] — السقالة استراتيجية أساسية في تصميم التعليم
-- [[help-seeking]] — تُشكّل السقالة متى وكيف يطلب المتعلّمون المساعدة
-- [[teacher-role]] — يُسنِد المعلّمون، ثم يتلاشون مع نمو الكفاءة
-- [[pedagogy]] — المظلة: الأساليب التربوية واستراتيجيات التدريس في تعليم الذكاء الاصطناعي
-- [[agentic-ai]]
-- [[productive-failure]] — الفشل المُثمر
-
-## المقالات المرتبطة
-- [[kumar-genai-computing-education-systematic-review-2026]] — سحب السقالة كآلية تُنفّذ التحقّق (إطار VIE)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — تقييم نظام متعدد الوكلاء موجّه بالسقالة لتدريب المقابلات السريرية
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — التعليقات المُوقّتة بالإنتروبيا كسقالة معرفية وعاطفية داخل الفيديو (وانغ ودو وجين 2026)
-- [[guided-llm-scaffolding-independent-learning]] — تلقين النماذج اللغوية الكبيرة الموجَّه كتدخّل تعلّمي منظّم
-- [[scaffolding-critical-engagement-genai-minority-students]] — سقالة الانخراط النقدي ذات الصلة الثقافية مع الذكاء الاصطناعي التوليدي
-- [[rethinking-scaffolding-llm-tutors]] — أنماط تصميم للسقالة في معلّمي النماذج اللغوية الكبيرة
-- [[concept-catalyst-engineering-scaffolds]] — سقالات Concept Catalyst للتغيير المفاهيمي
-- [[correct-answer-trap-ai-tutor]] — متى تساعد التلميحات ومتى تُشجّع الاعتماد المفرط
-- [[critical-thinking-genai-scaffolding]] — سقالة التفكير النقدي مع الذكاء الاصطناعي التوليدي
-- [[veriforge-narrative-drafting-scaffolding-2026]] — صياغة سردية مُسندة مع Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — من الإحلال إلى السقالة: كسر حلقة الضرر ذاتية التعزيز
-- [[preferred-scaffolding-ai-mathematical-modeling]] — السقالة المفضّلة في النمذجة الرياضية المدعومة بالذكاء الاصطناعي
-- [[agentic-ai-pedagogical-best-practice-2026]] — السقالات الديناميكية (المتلاشية) كضمانة للوكلاء الذكيين
-- [[zhang-tutormoments-2026]] — متى تكون المساعدة غير نافعة: تقييم معلّمي الذكاء الاصطناعي للنضال المُثمر
-- [[kim-ai-productive-failure-adult-2026]] — تصميم أنظمة ذكاء اصطناعي لدعم التعلّم القائم على الفشل المُثمر
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — التوجيه التربوي للنماذج اللغوية الكبيرة لخدمة الفشل المُثمر
-- [[making-ai-tutoring-productive-mastery-math-2026]] — جعل تعليم الرياضيات بالذكاء الاصطناعي مُثمرًا: تدريب قائم على الإتقان
-- [[brcic-effortless-trap-productive-struggle-2026]] — الذكاء الاصطناعي المحروس وغير المحروس: قاعدة المواضع (برتشيتش وفرلجيتش 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — التصميم التجريبي المدعوم بالذكاء الاصطناعي في الكيمياء العملية
-- [[scaffolding-systematic-reviews-2026]] — سقالة المراجعات المنظّمة بالإرشاد والذكاء الاصطناعي (وانغ 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — وكالة معلّمي المستقبل خلال تفاعلاتهم مع الذكاء الاصطناعي التوليدي في التصميم للتعلّم (كروشينسكايا وإلين ورايس 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — الذكاء الاصطناعي عبر أساليب التدريب في تعليم معلّمي الرياضيات: رفعت التغذية الراجعة المنظّمة للتدريب الأسئلة الاستقصائية (بوندورانت وشونيسي 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — دمج الذكاء الاصطناعي كتصميم تعليمي: يجب أن يُكلَّف نقد مُخرجات الذكاء الاصطناعي، والتحليل التخصصي يأتي أولًا
-- [[ai-literacy-tool-design-programming-education-2026]] — مدرّب دراسة ذكي بميزانية تلميحات: استخدام مُسند مقابل غير مقيّد للذكاء الاصطناعي التوليدي، ولماذا لم يُنتج التقييد وحده تعلّمًا (عظيمي 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: السقالة مُعاد صياغتها كتقرير أي منطقة فرعية تنتمي إليها المهمة
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — التصحيح الآلي كسقالة تكوينية: لا يتحوّل إلى مكسب إلا حيث يكون العجز المستهدف قابلًا للتفكيك والموثوقية والحساسية للقياس (تشين وليو 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — سقالة تكيّفية ذات حلقة مغلقة تتبع الحدّ الراهن للمتعلّم في تدريب الموسيقى، مع كشف الأخطاء كفرز أوّلي (تشو وآخرون 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — يجب أن تطابق صيغة السقالة القدرة النمائية للأطفال، لا المهمة فحسب (نيو وآخرون 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — يجب أن تُطالب السقالات بالترجمة التمثيلية والتحقّق، لأن الطلاب لا يستطيعون التحقّق مما لا يفهمونه (ڤيغا-بودريت وريڤيرا ألڤاريز 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — الذكاء الاصطناعي التوليدي كسقالة تلقين تُجسر الحدس البصري إلى الإثبات الاستنباطي في الهندسة، حيث يكون التصوّر وحده غير كافٍ (داڤور 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — فحص التباين في كيفية حل معلّمي الذكاء الاصطناعي الموجَّهين لتعثّر الطلاب
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — تدريب المتعلّم كسقالة لاستخدام الذكاء الاصطناعي التوليدي في حل مشكلات STEM (هوانغ وآخرون 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — أداة حواريّة بالذكاء الاصطناعي لتشخيص المفاهيم الخاطئة في التدريس بحوار مؤسَّس على الأدلّة (Miranda & Calvani 2026)
-
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — طبقا السقالة المحتوى والزمن في مقرر ذاتي الوتيرة، مع معدلات البدء المتأخر والرسوب بحسب توقيت الدراسة
-- [[assistance-dilemma-rl-tutoring-2026]] — معضلة المساعدة: تدريب معلّم تعلّم معزز متعدد الأدوار ينتهي أفق مكافأته مع المسألة يدرّب التلاشي على الخروج (Macina وKapur وSachan 2026)
-
-

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
+connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -85,29 +87,3 @@ Bu literatürü düzenleyen [[meta-analysis-systematic-review|kapsam incelemesi]
 - **“Çevre eğitiminde YZ esas olarak bilgi sağlar.”** Ölçülen kazanımlar **karar vermededir**: yapılandırılmış bir [[inquiry-based-learning|sorgulamaya dayalı öğrenme]] görevi içinde bir YZ ortağıyla çalışan öğrenciler, karar verme ölçütünde yalnızca sorgulamaya dayalı akranlarını (**d = 0,69**) ve geleneksel öğretimi (**d = 1,88**) geçmiş, kazanımlar **en zayıf adımlarda yoğunlaşmıştır**. Etki, akıl yürütme kalitesindedir; öğrencilerin en zayıf olduğu noktalarda.
 - **“Tek başına sorgulama etkin bileşendir.”** YZ destekli sorgulama, **iklim karar vermeyi yalnızca sorgulamaya kıyasla iyileştirdi**; dolayısıyla YZ katkısı pedagojik yapıya ek olarak gelmiş, onunla değiştirilebilir olmamıştır.
 - **“Küçük örneklemlerden çıkan büyük etkiler yine büyük etkilerdir.”** Sürdürülebilir Kalkınma Pedagojisi altında YZ destekli [[learning-design|öğretim tasarımı]], **28** katılımcıyla öğretmen adaylarının ders planlarını **d = 2,80** ile iyileştirdi; hakemlerin kendi deyimi *akıl almaz derecede büyük*tür ve bu örneklemden çıkan bu büyüklükteki bir etki bir tahmin değil, bir sinyal olarak ele alınmalıdır.
-
-## Bağlı kavramlar
-
-- [[sustainability]]
-- [[global-south]]
-- [[critical-pedagogy]]
-- [[inquiry-based-learning]]
-- [[science-education]]
-- [[engineering-education]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[governance]]
-
-## Bağlı makaleler
-
-- [[daniel-ai-sustainability-scoping-review-2026]] — Sürdürülebilirlik için YZ’yi sürdürülebilir YZ’den ayırıyor; Küresel Güney boşluğu
-- [[ai-assisted-inquiry-ssi-climate]] — YZ destekli iklim sorgulaması, yalnızca sorgulamaya göre d = 0.69
-- [[aied-carbon-footprint-reporting]] — AIED 2025 açıklama incelemesi ve açık kaynaklı ayak izi yöntemi
-- [[llm-environmental-impact-student-usage-2026]] — 89 bilgisayar bilimi öğrencisiyle gecikme–karbon ödünleşimleri üzerine eko-geri bildirim
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sorgu başına 1.8 mWh’lık yerinde nicelemeli asistan
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: mühendislik eğitiminde sürdürülebilirlik bilinci
-- [[riandi-teacher-ai-green-energy-education-2026]] — Pratik YZ kullanımı ve ESD materyal geliştirme entegrasyonu öngörüyor
-- [[talebzadeh-ai-green-education-2026]] — Sürdürülebilir Kalkınma Pedagojisi kısıtları altında YZ destekli tasarım
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Yönetişim aracılığıyla sürdürülebilir eğitime YZ katkısı
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Çevresel bir iddia değil, kalıcı bilişsel etkenlik olarak “sürdürülebilir öğrenme”

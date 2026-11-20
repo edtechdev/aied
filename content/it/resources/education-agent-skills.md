@@ -30,6 +30,7 @@ ai_assist:
 translation_of: resources/education-agent-skills
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+connected_concepts: [learning-design, ai-literacy, active-learning, online-teaching-and-learning, open-source, educational-development]
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -44,8 +45,3 @@ La rivendicazione distintiva del progetto è il suo fondamento sulle evidenze: l
 ## Note e avvertenze
 
 Le competenze didattiche, la documentazione e i materiali curricolari sono rilasciati con licenza CC BY-SA 4.0, quindi il riuso e l'adattamento sono aperti, mentre i derivati devono portare la stessa licenza. Due dettagli operativi contano se lo si distribuisce. L'endpoint MCP ospitato richiede token anziché essere aperto a chiunque, e poiché il server serve un'istantanea consolidata anziché i file SKILL.md, una competenza aggiunta senza ricostruire e consolidare il bundle non comparirà sul server attivo nemmeno dopo una ridistribuzione. La libreria è costruita da Gareth Manning, educatore e progettista curricolare, e i termini di licenza si applicano specificamente al contenuto didattico.
-
-## Concetti collegati
-
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
-

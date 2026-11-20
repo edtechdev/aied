@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -137,62 +139,3 @@ PISA 2022-2025-এর একটি দেশ-স্তরের বিশ্ল�
 - **"বিশ্ববিদ্যালয়গুলোর সত্যিকারের এআই নীতি আছে।"** **আইনি রূপ আইনি ভাষার চেয়ে বিরল।** একটি **160-নথির স্কোপিং পর্যালোচনায়**, **2.5% উপকরণে আইনি বল ছিল, অথচ 57.5% ছিল নির্দেশিকা বা টুলকিট**। একশো নথির প্রায় এক-চতুর্থাংশ এআই শাসন হলো অ-বাধ্যতামূলক নির্দেশিকা।
 - **"প্রতিষ্ঠানিক সতর্কতা প্রমাণ প্রতিফলিত করে।"** সতর্কতা **সময়ের চাপে আরোপিত, প্রমাণে নয়**: ABA-র 2024 জরিপে স্বীকৃত বিদ্যালয়ের কেবল প্রায় **15%** সাড়া দেয়, তাই সতর্ক ঐকমত্য একটি অ-প্রতিনিধিত্বমূলক নমুনায় দাঁড়িয়ে।
 - **"প্রতিনিধিত্বমূলক জরিপ থেকে নীতির আচ্ছাদন মানচিত্রিত করা যায়।"** একটি ক্ষেত্রের **সব 48টি CAHIIM-স্বীকৃত কর্মসূচি** থেকে এআই নীতি ও নির্দেশিকা সংগ্রহ করা হয়েছে — একটি সংকীর্ণ ক্ষেত্রের সম্পূর্ণ জনগণনা, যা সেই ক্ষেত্র সম্পর্কে বেশি তথ্য দেয়, সাধারণভাবে নীতি সম্পর্কে নয়।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-partnerships]] — শিক্ষাগত অংশীদারত্ব
-- [[regulation]]
-- [[governance]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[framing-ai-use-for-students]]
-- [[summative-assessment]]
-- [[chemistry-education]] — রসায়ন শিক্ষা ও এআই: ল্যাব, গঠনমূলক মূল্যায়ন, LLM-এর সীমা, পরীক্ষণের দর্শন
-- [[biology-education]] — জীববিজ্ঞান শিক্ষা ও এআই: ল্যাব-শিক্ষণ সহায়ক, জীববিজ্ঞানে এআই সাক্ষরতা, সমালোচনামূলক চিন্তা, বিশেষায়িত সরঞ্জাম
-- [[stakeholders]] — ছাতা: এআই শিক্ষায় মানুষ ও শ্রোতা (শিক্ষার্থী, শিক্ষক, নকশাকার, প্রশাসক, নীতিনির্ধারক)
-- [[student-support-and-success]] — প্রতিষ্ঠানিক সহায়তা মোতায়েনের নীতি-প্রসঙ্গ
-
-## সংযুক্ত নিবন্ধ
-
-- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — UNESCO ও OECD নথিতে শাসনের যৌথ শব্দভাণ্ডার আছে, কার্যনির্বাহী সংজ্ঞা নেই; তেইশটি এখতিয়ার একটিও ছাড়া মিলিত
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — সুইডিশ জরিপ ও ফোকাস-গ্রুপ গবেষণা: প্রতারণা-ফ্রেম নয়, অংশীদারত্ব-নীতিশাস্ত্রই প্রতিষ্ঠানিক genAI সিদ্ধান্ত চালাবে
-- [[generative-ai-governance-education-scoping-review-2026]] — শিক্ষায় জেনারেটিভ এআই শাসন: নীতি-সূত্র, কার্যপ্রণালী ও ঝুঁকির স্কোপিং পর্যালোচনা (Elmahjub প্রমুখ 2026)
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — ইউনিট-স্তরের নিয়ম যা শিক্ষার্থীরা মেলাতে পারে না
-- [[tench-ai-policy-isnt-a-playbook-2026]] — এআই নীতি-আচ্ছাদন, এজেন্সি ও পাঁচটি শ্রেণিকক্ষ-কৌশল নিয়ে মার্কিন শিক্ষক ও প্রধানশিক্ষকদের জাতীয় প্রতিনিধিত্বমূলক জরিপ (Tench, Weinstein & James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — যখন বিশ্ববিদ্যালয় GAI-এর পক্ষে সওয়াল করে কিন্তু অনুশীলন পিছিয়ে থাকে: শিল্প শিক্ষায় শিক্ষার্থী-মূল্যায়ন ও সৃজনশীল প্রক্রিয়া-নিমগ্নতা
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — প্রাক-সেবা ইংরেজি শিক্ষকদের শ্রেণিকক্ষ এআই নীতি: তারা কী অনুমোদন, সীমিত ও নিষেধ করেছেন (Nash & Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — বৃহৎ-মাপের লেখা মূল্যায়নে এআই-সহায়ক স্কোরিংয়ের জন্য মানব-ইন-দ্য-লুপ কাঠামো
-- [[mccorkle-aligned-genai-course-policy-2025]] — যা মূল্যায়িত হয় তা থেকে কাজে-কাজে অনুমোদিত ও অননুমোদিত GenAI ব্যবহার নিঃসরণ (McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — প্রশিক্ষকেরা 31,000 কোর্স সিলেবাস জুড়ে কীভাবে এআই নিয়ন্ত্রণ করেন (Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — গ্রেড-স্ফীতির কার্যপ্রণালী হিসেবে এআই কাজ-স্থানচ্যুতি (Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — উচ্চশিক্ষায় জেনারেটিভ এআই শাসনে বৈশ্বিক দিলফাই
-- [[qian-governing-genai-higher-ed-policy-2026]] — নীতির বদলে নির্দেশিকা: 50টি উদ্ভাবনী মার্কিন বিশ্ববিদ্যালয়ে প্রশিক্ষক-নির্ধারিত সিলেবাস-নিয়ম ও চার-ইউনিট সহায়তা-বাস্তুতন্ত্র (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — প্রমাণ-ভিত্তি ছাড়া নীতি বানানো একটি খাতে আইন-বিদ্যালয়ের GenAI নীতির পাঁচ-উপাদান তুলনা (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — প্রতিলিপি উৎপাদন নয়: অতিব্যাপী এআই নিয়ম, ফরম্যাট-রূপান্তর ও প্রতিবন্ধকতা-সমন্বয় (Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — উচ্চশিক্ষায় এআই-এর জন্য প্রত্যাশামূলক শাসন (স্কোপিং পর্যালোচনা)
-- [[institutional-ai-policy-health-informatics-2026]] — সব 48টি স্বীকৃত স্বাস্থ্য-তথ্যবিজ্ঞান স্নাতকোত্তর কর্মসূচির এআই নীতি-নথি: বেশিরভাগ নির্দেশিকা, একাডেমিক সততাকে কেন্দ্র করে (Eldredge প্রমুখ 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — এআই-মধ্যস্থ মূল্যায়নের জন্য জ্ঞানগত তত্ত্বাবধান (30-বিশ্ববিদ্যালয় নীতি নিরীক্ষা)
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — এআই × SEL গবেষণায় নীতি-ঘাটতি
-- [[agarwal-ethical-values-norms-aied-2026]] — শিক্ষায় এআই-এর নৈতিক মূল্য ও নিয়ম
-- [[perrotta-zero-shot-governance-2026]] — জিরো-শট শাসন: নীতিতে সাধারণ-উদ্দেশ্যে এআই (Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — এল সালভাদোরের এআই-টিউটরিং পাইলটের শিখন-দাবির সীমা নির্ধারণ (Restrepo Morales প্রমুখ 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 মার্কিন প্রশিক্ষক: 87% নিজের অ্যাসাইনমেন্ট-নিয়ম লেখেন, প্রতিষ্ঠানিক ও বিভাগীয় নির্দেশিকা পাতলা (Watson & Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — ক্রমাঙ্কিত ঘোষণা ও সিদ্ধান্ত-রুব্রিকসহ উদ্দেশ্য-ভিত্তিক সহায়তা–প্রতিস্থাপন সীমানা (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — এআই-মধ্যস্থ গ্রেডিংয়ে প্রম্পট-ইনজেকশন: অশনাক্ত গ্রেড পরিবর্তন, এবং নীতি-স্তরের প্রতিক্রিয়া (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — মূল্যায়নের প্রমাণীকরণের জন্য 130টি শাসন-সূচক, এবং সংস্কারের প্রয়োজনীয় বাহ্যিক চাপ (Coates, Croucher & Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — নীতি-স্তর বনাম কাজ-নকশা: তিনটি পদার্থবিজ্ঞান মূল্যায়নে শিক্ষার্থীরা GenAI কী কাজে ব্যবহার করেছে (Quince & Faulconer 2026)
-- [[genai-pisa-decline-countries-2026]] — বেশি দেশ-স্তরের জেনারেটিভ-এআই ব্যবহার বড় PISA 2022-2025 পতনের সঙ্গে সম্পর্কিত, সম্পর্কটি পূর্ববর্তী কর্মদক্ষতা নিয়ন্ত্রণ করলে মিলিয়ে যায় (Guerra & Aslanov 2026)
-- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — প্রত্যাশামূলক শাসন হিসেবে ইংল্যান্ডের EdTech Impact Testbed: যে পাইলট প্রতিশ্রুতিমূলক প্রমাণ উৎপাদন করে (Williamson প্রমুখ
-- [[pandey-davies-he-governance-administrative-ai-2026]] — শিক্ষাবিজ্ঞানের আগেই সংগ্রহ-প্রক্রিয়া ডেটা-পরিবেশ ঠিক করে
-- [[chan-ai-policy-gap-2026]] — 46টি অর্থায়ন সংস্থার 56টি নথি: 12টি অর্থায়ন-নির্দিষ্ট দলিলসহ একটি গবেষণা-অর্থায়ন নীতি-স্তর (Chan 2026)

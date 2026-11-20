@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -65,7 +67,6 @@ ai_assist:
 
 **총체적 정확도는 어려움을 겪는 학생을 찾지 못하는 모델을 가릴 수 있습니다.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]]는 에스토니아 코호트 하나로 세 모델 계열을 훈련하고 두 방식으로 나누었습니다. 균형 집합에서는 계열들이 비슷했습니다. 1사분위 미만 125명 대 그 위 328명의 불균형 분할에서는 의사결정나무, 베이즈 네트워크, 랜덤 포레스트가 80% 정밀도에서 저성취자 재현율 8%, 12%, 16%에 그쳤고, 신경-상징 모델만이 50%를 넘었습니다.
 
-
 ## 완화 접근법
 
 지식베이스의 연구는 몇 가지 상호 보완적인 전략을 보여 줍니다.
@@ -103,62 +104,10 @@ ai_assist:
 - **시스템을 설명 가능하게 하라:** AI 결정에 대한 투명성은 편향을 발견하고 교정하는 데 필수적입니다.
 - **기술적 완화와 인간의 완화를 결합하라:** 편향 제거 알고리즘과 인간 참여형 감독을 함께 쓰고, 특히 고위험 또는 저신뢰 사안에서는 더욱 그렇게 하라.
 
-
 이 페이지의 모든 것은 시스템 내부의 편향에 관한 것입니다. [[automation-bias]]는 그 출력을 읽는 사람의 편향 — 혼자 도달했다면 의심했을 권고를 그대로 받아들이는 것 — 에 관한 것이며, 모델이 정확하더라도 살아남습니다.
-
 
 ## 흔한 오해
 
 - **"편향은 채점과 피드백의 문제다."** 편향은 **채점 밖의 과제 유형**에도 들어옵니다. 세 개의 LLM이 **28명 규모 소프트웨어 공학 수업을 네 팀으로 배정할 때 남성을 기준 분포보다 최소 80% 적게** 배치했습니다. 팀 구성은 채점에 견줄 만한 크기로 편향을 지녔습니다.
 - **"관련 기술을 제공하면 편향이 사라진다."** 기술 제공은 **편향을 줄였지만 제거하지는 못했습니다.** **기술 기반 배정의 99.2%가 두 개의 정답 팀 중 하나와 일치했지만, 성별은 여전히 동등하게 타당한 선택 사이를 결정했습니다(OR 2.53).** 거의 완벽한 과제 일치가 성별 효과와 공존했으므로, 일차 준거에서의 정확도는 공정성의 증거가 아닙니다.
 - **"하나의 완화 접근법으로 충분하다."** 연구는 **상호 보완적 전략**을 보여 주며, 그중에는 공정성 인식 모형화도 있습니다. 구성 단계에서 들어오는 편향은 산출물 텍스트를 겨냥한 수정으로 해결되지 않기 때문입니다.
-
-## 연결된 개념
-- [[differential-effects-across-learner-groups]]
-
-- [[automation-bias]] — 이 페이지가 다루지 않는 읽는 쪽의 실패: 확인하지 않고 권고를 받아들이기
-
-- [[explainable-ai]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-
-## 연결된 문서
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — 신경-상징적 교수학적 정렬(NSPA)
-- [[ai-scoring-language-bias-physics]] — AI 기반 채점에서의 언어 편향
-- [[gender-bias-transfer-llm-writing]] — LLM 지원 글쓰기에서의 성별 편향 전이
-- [[paternalistic-filter-llm-history-education]] — 가부장적 필터와 차별적 거부
-- [[fair-explainable-edu-recommendations]] — 공정하고 설명 가능한 교육 추천
-- [[temporal-smoothness-debiased-kt]] — 편향을 제거한 지식 추적
-- [[ground-truth-reliability-aied]] — AI 신뢰도를 위한 그라운드 트루스의 현대화
-- [[data-annotations-pedagogical-hints]] — 교수학적 단서로서의 데이터 주석
-- [[xai-education-framework]] — 교육에서의 설명 가능한 AI
-- [[antiskillbench-persona-skills-privacy-2026]] — 페르소나-역량 프라이버시와 편향 검증
-- [[genai-minoritized-knowledges-disability]] — 생성형 AI와 소수화된 지식의 소외
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: 자동 글쓰기 피드백에서의 고정관념 부합 편향
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 유형에 적절한 지원을 제공할 수 있는가? 대규모 평가
-- [[bias-representation-text-to-image-education-2026]] — AI 생성 텍스트-이미지에서의 편향과 대표성: 체계적 문헌고찰(Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — AI 교육을 위한 윤리적 가치와 규범
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 감정 분류에서 실행 가능하고 책임 있는 피드백으로: 교수 평가에서의 NLP에 관한 범위 검토와 증거 지도, 2015-2026
-
-- [[genai-social-bias-software-engineering-education-2026]] — 생성형 AI가 소프트웨어 공학 교육의 사회적 편향을 강화할 수 있다
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: 공급업체가 통제하는 조기 경보 시스템에서의 사후적 공정성 개입 평가
-
-- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 집단 불균형 아래에서 세 모델 계열이 저성취자를 식별하지 못했으나 균형 지표는 건강해 보였다
-

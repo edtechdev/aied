@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
+connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -153,65 +155,3 @@ ai_assist:
 - سجّل مقياس النتيجة مسبقًا وبيّن ما إذا كان يسمح بالذكاء الاصطناعي أم غير معان. فاتجاه النتيجة قد ينقلب على هذا الخيار وحده.
 - أبلِغ عن أحجام الآثار مقابل مقارِن مسمّى، لا مقابل «الأساليب التقليدية» في المجرّد. فنتيجة البنك الدولي قابلة للتفسير لأنها تسمّي صنف مقارنتها.
 - ميّز تضخّم الأداء عن إزاحة التعلّم تمييزًا صريحًا، لأن الاثنين يستلزمان علاجين مختلفين — إعادة تصميم المهمة مقابل إعادة التعليم.
-
-## المفاهيم المرتبطة
-
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[cognitive-offloading]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[theory-development-aied]] — تطوير النظرية في الذكاء الاصطناعي في التعليم
-- [[self-report-measures]]
-- [[research-methods-aied]] — مناهج البحث في AIED (قسم DBR)
-- [[social-emotional-learning]] — التعلّم الاجتماعي العاطفي
-- [[student-support-and-success]] — النتائج الإدارية (إنجاز المهام، والساعات المعتمدة، والاستمرار، والتخرج) بوصفها متميّزة عن مكاسب التعلّم
-
-## المقالات المرتبطة
-- [[epistemological-audit-genai-meta-analyses-2026]] — تدقيق معرفي نقدي لأدلة التجميع المبكرة في أبحاث الذكاء الاصطناعي التوليدي التعليمية (Fütterer et al. 2026)
-- [[contractor-learning-impact-generative-ai-2026]] — الإتاحة إلى روبوت محادثة جاهز رفعت درجات الاختبار غير المعانة واستمرت بعد أسبوع (Contractor & Reyes 2026)
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — التدريس بالذكاء الاصطناعي يتفوّق على التعلّم النشط داخل الصف: تجربة عشوائية تُدخل تصميماً جديداً قائماً على البحث في سياق تعليمي حقيقي (Kestin et al. 2025)
-- [[genai-performance-vs-learning]] — لماذا الأداء المعان ليس نتيجة تعلّم (Yan et al. 2025)
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — التدريس عن بعد مع CAL: تجربة في الإقبال والتعلّم
-- [[making-ai-tutoring-productive-mastery-math-2026]] — جعل التدريس بالذكاء الاصطناعي مثمراً: ممارسة الرياضيات القائمة على الإتقان
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — على بعد نقرة واحدة: Khanmigo في تجربة مدرسية امتدت لعامين
-- [[ai-literacy-assessment-misalignment]] — تقويم ثقافة الذكاء الاصطناعي: عدم التوافق بين المُبلَّغ ذاتياً والأداء
-- [[generative-ai-reduced-study-time-math]] — إنجاز أسرع، تعلّم أقل: خفّض الذكاء الاصطناعي التوليدي وقت الدراسة على مسائل الرياضيات والمعرفة التي تبنيها
-- [[genai-meta-analysis-programming-learning]] — تحليل تلوي لأثر الذكاء الاصطناعي التوليدي على الإنتاجية والتعلّم في البرمجة
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — تحليل تلوي لآثار تدخلات ثقافة الذكاء الاصطناعي
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — مساعدة ChatGPT تُنتج مكاسب تعلّم مكافئة لمساعدة مدرّس بشري
-- [[generative-ai-guardrails-harm-learning]] — الذكاء الاصطناعي التوليدي دون ضوابط وقائية قد يضرّ بالتعلّم (تجربة PNAS 2025)
-- [[absent-cognitive-baseline-2026]] — الأساس المعرفي الغائب: تأطير فجوة بنيوية في التقويم الذاتي الأكاديمي لطلاب الجامعات الأصليين في الذكاء الاصطناعي
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[ai-changing-teaching-workflows]] — كيف يغيّر الذكاء الاصطناعي سير عمل التدريس
-- [[robot-assisted-language-learning-meta-analysis-2026]] — تحليل تلوي للتعلّم الآلي للغات بالروبوتات المجسَّدة المعزّزة بالذكاء الاصطناعي
-- [[genai-educational-outcomes-meta-analysis]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — تمييز الأداء الفوري عن التعلّم الدائم
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — عقوبة التعلّم الناتجة عن الذكاء الاصطناعي التوليدي: إسناد الواجبات المنزلية يضرّ بالتعلّم
-- [[ai-assisted-collaborative-learning-model-dbr]] — نموذج التعلّم التعاوني المعان بالذكاء الاصطناعي DBR (التفكير النقدي +24.1%، مكاسب في حل المشكلات)
-- [[stanford-evidence-base-ai-k12-2026]] — التدريس بالذكاء الاصطناعي مقابل الذكاء الاصطناعي العام
-- [[jost-llm-programming-education-learning-outcomes]] — الاعتماد على النماذج اللغوية الكبيرة والدرجات في البرمجة (ارتباطات سلبية)
-- [[genai-can-harm-teaching-rct-2026]] — قد يضرّ الذكاء الاصطناعي التوليدي بالتدريس (تجربة عشوائية)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — تحليل تلوي للذكاء الاصطناعي التوليدي والتفكير العالي المستوى
-- [[mujib-ai-ibl-creative-math-2026]] — التعلّم الاستقصائي المعان بالذكاء الاصطناعي والأداء الإبداعي في الرياضيات
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — مكاسب السقالة في التعلّم القائم على المشكلات المعزّز بالذكاء الاصطناعي
-- [[ccct-cooperative-learning-technique]] — تقنية التعلّم التعاوني المصممة بالذكاء الاصطناعي
-- [[scaffolding-srl-feedback-genai-human-peers]] — مكاسب التغذية الراجعة السقالية ذاتية التنظيم
-- [[learner-ai-interaction-patterns-oop]] — أنماط التفاعل ومكاسب التعلّم في البرمجة كائنية التوجه
-- [[ai-feedback-critical-thinking-writing-2026]] — التغذية الراجعة بالذكاء الاصطناعي والتفكير النقدي في الكتابة
-- [[pedagogy-ai-mistakes]] — بيداغوجيا أخطاء الذكاء الاصطناعي: تعزيز التفكير العالي المستوى (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — مستويات التفكير الحسابي ومساعدات البرمجة بالذكاء الاصطناعي (2026)
-- [[burneo-can-edtech-close-learning-gaps-2026]] — تحليل تلوي: تقنيات التعليم التكيّفية/المدعومة بالذكاء الاصطناعي ترفع التعلّم بنحو 0.125 انحراف معياري
-- [[gpt4-feedback-student-activation-2026]]
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT في التعليم: أثر يبحث عن سبب (نقد مقارنة إعلامية لمقاييس المكاسب)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — تحليل فوق تلوي: آثار مكاسب التعلّم المصحّحة بالانحياز نحو ثلث الحجم المُبلَّغ عنه
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: تدقيق على تحليلات تلوية معيوبة في AIED
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — تجميع في STEM ضبط أحجام الآثار التابعة واختبر انحياز النشر، لكنه لم يطبّق أي تقييم للجودة (Doğan et al. 2026)
-- [[ai-education-effects-second-order-meta-analysis-2026]] — تحليل تلوي من الرتبة الثانية لـ45 تحليلاً تلوياً في الذكاء الاصطناعي في التعليم، بآثار مصحّحة بالتداخل وتقييم جودة لطبقة التجميع (Emslander et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: التدريس بالذكاء الاصطناعي والتدريس البشري يُحقّقان مكاسب تعلّم مكافئة في GRE
-- [[rodrigues-aied-unplugged-numeracy-2026]] — في الذكاء الاصطناعي بوساطة المدرّس، حرّك الإعداد المكاسب ولم تحرّكها الأداة

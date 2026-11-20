@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
@@ -125,48 +127,3 @@ Dvě konkrétní praktiky reportování nafukují nebo zkreslují syntézu a ob�
 - **„Sekce omezení jsou šablonovitá fráze.“** Metodologická omezení jsou **měřitelná, nikoli dojmová**: v kritickém přehledu **80 studií HCI** o kritickém myšlení s AI **42 (52 %) nemělo žádnou kontrolní skupinu**. Právě přesný počet činí omezení použitelným.
 - **„Heterogenita je jediné číslo, které můžete citovat.“** Tentýž přehled ukazuje riziko reportování: heterogenita je uváděna jako **I² = 82,98 % u modelu s fixními efekty a I² = 15,75 % u modelu s náhodnými efekty**. Stejná data dávají příběh o devíti bodech, nebo o dvou, podle zvoleného modelu, takže citované I² bez modelu je neinterpretovatelné.
 - **„Velký uváděný efekt je číslo, kterému věřit.“** Titulní číslo, jako efekt z **30 studujících v jednom kurzu na jednom pracovišti**, je běžnou podobou křehkého tvrzení a počet studií bez kontrol ukazuje, jak často tato křehkost zůstává nehlášena.
-
-## Související koncepty
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Vývoj teorie v AI ve vzdělávání
-
-## Související články
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatboti AI ve vysokoškolském vzdělávání: srovnání očekávání a důkazů (Thoeni & Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — Reliabilita a validita zlatého standardu při hodnocení
-- [[ai-literacy-assessment-misalignment]] — Sebeposuzovaná versus výkonová gramotnost v oblasti AI
-- [[machines-misread-pedagogical-quality]] — Proč stroje špatně čtou pedagogickou kvalitu
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Kritické limity AI tutorů a využití teorie
-- [[cross-dataset-bloom-question-classification]] — Bloomova taxonomie a klasifikace otázek
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizace hodnocení studujících: predikce známosti z EEG
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (kritika srovnání médií)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-metaanalýza: efekty AI korigované na publikační zkreslení ~1/3 uváděné velikosti
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forenzní audit 14 metaanalýz AIED
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: empirický rámec reportování pro systematické přehledy s asistencí AI
-- [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Kritéria zařazení jako práh rigoróznosti a údaj o heterogenitě, který se mění s modelem (Doğan et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Clusterově randomizovaný třídní pokus, jehož výsledek výkonu nedosáhl významnosti (Rücker & Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: doučování AI a člověkem přináší ekvivalentní učební zisky u GRE
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: schémata založená na tvrzeních pro auditovatelné kódování vzdělávacích dialogů
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scopingový přehled 195 studií vzdělávání učitelů, kde design vyhledávacího řetězce utváří uváděné frekvence
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Mezinárodní průzkum učitelů K-12: strojově přeložené položky, jednopoložkové míry obav, žádné testování invariance
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematický přehled 103 studií GenAI ve vysokoškolském vzdělávání: 56 % podmíněných zisků, známky maskující změnu procesu (Hawi & Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Rozšíření dat může vyrobit titulní metriku

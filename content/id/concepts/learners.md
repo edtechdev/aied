@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
+connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -106,50 +108,3 @@ Bacalah bersama [[stakeholders]] untuk orang-orang di sekitar pembelajar, dan be
 
 - Pertahankan perbedaan pembelajar/siswa secara eksplisit dalam pengambilan sampel, dan laporkan siapa yang dikecualikan olehnya.
 - Teliti yang dituduh sekaligus penggunanya; sisi prosedur adalah separuh tipis dari literatur ini.
-
-## Konsep terkait
-
-- [[differential-effects-across-learner-groups]]
-- [[student-experience]] — Bagaimana pembelajar mempersepsikan, berinteraksi dengan, dan terpengaruh oleh AI
-- [[learner-identity]] — Siapa yang sedang menjadi pembelajar dalam kaitannya dengan suatu disiplin dan dengan AI
-- [[agency]] — Apa yang masih dikendalikan dan dipilih pembelajar
-- [[student-ai-interaction]] — Apa yang sebenarnya diminta pembelajar kepada AI dan bagaimana dialog berkembang
-- [[cognitive-offloading]] — Ketergantungan berlebih dan substitusi AI untuk berpikir
-- [[self-regulated-learning]] — Merencanakan, memantau, dan menyesuaikan pembelajaran sendiri
-- [[help-seeking]] — Meminta bantuan dengan baik, dan mode kegagalan ketika pembelajar tidak melakukannya
-- [[metacognition]] — Mengetahui apa yang dipahami dan tidak dipahami
-- [[motivation]] — Mengapa pembelajar bertahan atau berhenti
-- [[self-efficacy]] — Keyakinan pembelajar atas kemampuan mereka sendiri
-- [[student-engagement]] — Keterlibatan perilaku, emosional, dan kognitif
-- [[prior-knowledge]] — Pengetahuan latar yang menentukan apakah dukungan menjadi pembelajaran
-- [[student-modeling]] — Merepresentasikan pembelajar di dalam sistem
-- [[knowledge-tracing]] — Memperkirakan perolehan keterampilan sepanjang waktu
-- [[simulating-students]] — Pembelajar simulasi LLM sebagai pengganti sementara
-- [[ai-literacy]] — Kemampuan yang menentukan apakah pembelajar menggunakan AI dengan baik
-- [[equity-in-ai-education]] — Siapa yang mendapat manfaat dan siapa yang tertinggal
-- [[well-being]] — Kecemasan, stres, dan biaya afektif belajar yang dimediasi AI
-- [[misconceptions]] — Model mental yang dibawa pembelajar tentang AI
-- [[stakeholders]] — Sisi lain dari bidang yang sama: guru, pemimpin, perancang
-- [[assessment]] — Kemampuan pembelajar mana yang pernah dibuat terlihat
-
-## Artikel terkait
-
-- [[uneven-impact-generative-ai-student-learning-2026]] — Pola ketergantungan dan literasi evaluasi membelah hasil siswa
-- [[student-perceptions-ai-study-productivity-2026]] — Pembelajar melaporkan keuntungan efisiensi di samping kekhawatiran ketergantungan
-- [[student-llm-interaction-taxonomy-review-2026]] — Taksonomi interaksi siswa-LLM yang berorientasi belajar
-- [[student-ai-conversations-cognitive-engagement-2026]] — Pola khas per disiplin dalam percakapan siswa-AI
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Keuntungan kinerja berbantuan tanpa kemampuan mandiri
-- [[genai-performance-vs-learning]] — Mengapa kinerja berbantuan dan pembelajaran tanpa bantuan harus diukur terpisah
-- [[shaw-nave-cognitive-surrender-2026]] — Penyerahan kognitif sebagai disposisi, bukan kecelakaan
-- [[metacognitively-discordant-completion-genai-2026]] — Pembelajar yang menyadari tidak memahami dan tetap mengumpulkan
-- [[verification-quality-reliance-calibration-genai-2026]] — Kualitas verifikasi dan kalibrasi ketergantungan
-- [[simulating-students-llm-review-2026]] — Siswa simulasi: arsitektur, mekanisme, dan batas
-- [[stanbkt-bayesian-knowledge-tracing]] — Estimasi parameter dalam pelacakan pengetahuan Bayesian
-- [[demographic-signals-llm-student-assessment-2026]] — Sinyal demografis implisit dan eksplisit dalam penilaian berbasis LLM
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — Literasi AI, keterlibatan, dan modal psikologis
-- [[genai-student-experiences-uk-he-survey-2026]] — Siswa menggambarkan tarikan upaya-minimal
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Pendapat siswa apakah GenAI adalah alat mencontek atau mitra belajar
-- [[munoz-misconduct-allegation-evidence-2026]] — Apa yang sebenarnya termuat sebagai bukti dalam berkas tuduhan pelanggaran
-- [[wright-transcription-not-generation-2026]] — Aturan AI yang terlalu inklusif dan siswa yang tertangkap olehnya
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integritas sebagai pertimbangan evaluatif alih-alih kepatuhan
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Biaya emosional dan keadilan pengawasan jarak jauh bagi siswa

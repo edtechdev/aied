@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -39,6 +40,3 @@ Trình soạn thảo trong trình duyệt chạy cục bộ ngay trong trang và
 ## Những điều cần biết trước khi áp dụng
 
 Kho mã công bố một quy trình đánh giá, các mẫu trước–sau trong `samples/`, và những tệp tham chiếu đứng sau skill, nên người rà soát có thể kiểm tra cách các quy tắc hoạt động thay vì tin vào một tuyên bố; trang này không nhắc lại bất kỳ kết quả đo lường nào. Tác giả là Addy Osmani, giấy phép MIT, và công trình mang tính độc lập chứ không phải sản phẩm của một cơ sở nào. Nó còn non và đang hoạt động tích cực: tạo tháng 8 năm 2026, 54 commit, ba bản phát hành với bản mới nhất là phiên bản 0.2.1 vào tháng 9 năm đó, và khoảng 250 sao khi kiểm tra vào tháng 9 năm 2026. Ba người đóng góp đã đưa thay đổi vào. Hướng dẫn của skill được nạp vào một tác tử mà người đọc đã chạy sẵn, nên những lưu ý thông thường về [[prompt-engineering|kỹ thuật prompt]] vẫn áp dụng: chất lượng của phần phê bình phụ thuộc vào bản nháp được đưa cho nó.
-
-## Khái niệm liên quan
-[[ai-literacy]], [[critical-thinking]], [[generative-ai]], [[prompt-engineering]], [[feedback]], [[assessment]], [[writing-education]]

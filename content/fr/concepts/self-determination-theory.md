@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -76,37 +78,3 @@ La SDT se relie directement à la [[motivation]] comme construct parent, à l'[[
 - **« Le type de motivation compte moins que sa quantité. »** Une étude d'un an a trouvé **trois profils motivationnels — Désengagé, En développement, Autodéterminé — stables dans le temps**, et les élèves ayant atteint le profil **Autodéterminé** ont montré les **plus grands gains de [[ai-literacy|littératie en IA]]**. La qualité de la motivation prédisait l'apprentissage, et les profils ne dérivaient pas simplement vers le haut.
 - **« Soutenir l'autonomie signifie retirer la structure. »** Le mécanisme de la SDT est l'autonomie, la compétence et l'appartenance ensemble, et les preuves longitudinales montrent que leur satisfaction prédit les gains plutôt qu'elle ne les accompagne simplement. L'autonomie sans soutien à la compétence est de la permissivité, et elle ne remplit pas les conditions de la théorie.
 - **« Un [[conversational-ai|agent conversationnel]] peut fournir les trois besoins automatiquement. »** Une étude a constaté que ChatGPT pouvait soutenir l'autonomie, l'appartenance et la compétence en apprentissage des langues — une possibilité, non une propriété. Savoir si une interaction donnée les soutient est une question empirique sur la manière dont elle est utilisée.
-
-## Concepts liés
-
-- [[motivation]]
-- [[student-experience]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Articles liés
-- [[family-school-autonomy-support-genai-2026]] — Soutien à l'autonomie famille-école pour un usage responsable de l'IA générative par les enfants
-- [[dual-ai-learning-pathways-sdt-2026]] — Pression au lycée / soutien à l'autonomie et double cheminement d'apprentissage avec l'IA (Shen & Arunrugstichai 2026)
-- [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Learning analytics et IA générative dans la prise de décision en conception pédagogique
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Les expériences des étudiants avec ChatGPT dans l'apprentissage de l'anglais
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Caractéristiques des apprenants × interactions au format dialogue avec synthèse vocale
-- [[liang-ai-learning-motivation-sdt-2026]] — Analyse de transitions latentes SDT de la motivation d'apprentissage des élèves avec l'IA (2,086 élèves du secondaire)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Motivation des élèves et satisfaction des besoins dans les classes avec IA générative (Schweder, Hagenauer & Raufelder 2026)
-
-- [[genai-learning-engagement-medical-undergraduates-2026]] — L'usage de l'IA générative est faiblement lié à la satisfaction des besoins et inutile pour un engagement élevé (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Double cheminement de la collaboration enseignant-IA vers l'engagement au travail, modéré par la compétence numérique
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Un tuteur qui retient ses indices préservait l'autonomie là où la fourniture de réponses ne le faisait pas
-- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Disponibilité de l'IA, baisse de l'autonomie et profils motivationnels en 5e–4e (Schweder & Grahl 2026)
-- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 études codées selon une classification de 20 activités ; la compétence est la plus exercée, l'appartenance la moins

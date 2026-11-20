@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -106,35 +108,3 @@ ai_assist:
 - **"অংশীদারত্ব মানে শিক্ষার্থীর কণ্ঠকে উঁচু করা।"** শিক্ষাদানগত অংশীদারত্ব একটি **সীমিত, আলোচনাকৃত সম্পর্ক** — নির্ধারিত ভূমিকা ও পারস্পরিক বাধ্যবাধকতাসহ, পরামর্শ নয়। ভূমিকা, দায়িত্ব-পরিধি ও সিদ্ধান্তের ভাগ ছাড়া কণ্ঠ কাঠামোগত কিছুই বদলায় না।
 - **"অংশীদারত্ব একটি ভঙ্গি যা গ্রহণ করা যায়।"** এর জন্য প্রাতিষ্ঠানিক শর্ত দরকার — সময়, শিক্ষার্থী-অংশীদারের স্বীকৃতি, এবং এমন পরিবর্তন যা অংশীদারেরা সত্যিই প্রভাবিত করতে পারে। সেই শর্ত ছাড়া ঘোষিত অংশীদারত্ব যে স্তরবিন্যাস ভাঙার দাবি করে, সেটাই পুনরুৎপাদন করে।
 - **"ক্ষমতা-ভাগাভাগি প্রশিক্ষক উন্নয়ন হতে পারে না।"** সাহিত্যের দাবি হলো অংশীদারত্ব উন্নয়ন *কারণ* তা সম্পর্কের মধ্য দিয়ে শিক্ষকের বোঝাপড়া বদলায়। এটিকে কেবল শিক্ষার্থীর লাভ হিসেবে ফ্রেম করা প্রক্রিয়াটিকেই ফেলে দেয়।
-
-## সংযুক্ত ধারণা
-- [[pedagogy]] — শিক্ষাদানপদ্ধতি ও শিক্ষণ-কৌশল
-- [[collaborative-learning]]
-- [[agency]] — শিক্ষার্থীর কর্তৃত্ব
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## সংযুক্ত নিবন্ধ
-- [[guided-inquiry-genai-course-policy-2026]] — জেনারেটিভ এআই কোর্স-নীতি শিক্ষার্থীদের সহ-নকশায় নির্দেশিত-অনুসন্ধান পদ্ধতি
-- [[lo-co-creating-custom-gpts-sap-2026]] — স্বনির্মিত GPT সহ-সৃষ্টি: জেনারেটিভ এআই উদ্ভাবনে স্নাতক শিক্ষার্থীদের অংশীদার হিসেবে একটি স্ব-জাতিগত গবেষণা
-- [[williams-ingle-assessment-co-creation-ai-2025]] — সহ-সৃষ্টির মাধ্যমে মূল্যায়ন নকশা: এআই মূল্যায়নে শিক্ষার্থী-কর্মী অংশীদারত্ব
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — শিক্ষাদানগত বিশ্বাস রক্ষায় শিক্ষার্থী-অংশীদার চর্চায় এআই নেভিগেটের পাঁচটি পথনির্দেশক নীতি
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — তরুণ অংশীদারদের সঙ্গে এআই সহ-নকশা: একটি সম্পর্কগত গোপনীয়তা-নৈতিক কাঠামো
-- [[fawns-entangled-pedagogy-genai-students-2026]] — জটিল-শিক্ষাদান কাঠামোর মাধ্যমে এআই নিয়ে শিক্ষার্থীদের জটিল বাস্তবতা আলোকিত করা
-- [[anastasia-shared-agency-partnership-framework-2026]] — ভাগ করা কর্তৃত্ব: প্রশিক্ষক–শিক্ষার্থী সহযোগিতার কর্তৃত্ব-অংশীদারত্ব কাঠামো
-- [[maybee-disruptive-partnerships-sap-2025]] — বিঘ্নকারী অংশীদারত্ব: তথ্য-অধ্যয়নে শিক্ষার্থীদের সঙ্গে সহযোগিতা
-- [[student-centered-genai-responsible-framework-2026]] — দায়িত্বশীল জেনারেটিভ এআই ব্যবহারের শিক্ষার্থী-কেন্দ্রিক কাঠামো
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — 710 শিক্ষার্থীর মাত্রায় শিক্ষার্থীরা সহকর্মীদের জন্য এআই টিউটর তৈরি করেছে: নিয়োজন উচ্চ, শিখন-প্রমাণ অনুসন্ধানমূলক (Zangari ও অন্যান্য 2026)

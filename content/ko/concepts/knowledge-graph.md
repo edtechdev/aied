@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
+connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -90,37 +92,3 @@ ai_assist:
 **"그래프를 갖는 것 자체가 성과를 개선한다."** 그래프 위의 알고리즘이 결과를 바꿉니다. G4L에서 베이지안 지식 전파를 사용해 진화하는 지식 공간 그래프(Evolving Knowledge Space Graph)를 통해 숙달도를 전파한 결과 **측정된 지식이 24% 증가**(0.717 → 0.887)했으며, 지식 공간 이론 기반 비교는 **5%**였습니다. 구조화된 지식 공간이라는 일반적 발상은 같지만 전파 방법에 따라 결과는 실질적으로 달라집니다. 그래프를 사거나 만드는 것은 설계 문제의 시작이지 해결책이 아닙니다.
 
 **"구조 감사를 통과한 LLM 구축 그래프는 검증된 그래프다."** 구조적 타당성과 교수적 타당성은 정확히 이런 방식으로 갈라집니다. 그런 그래프 하나를 다시 계산한 감사에서 모든 끝점이 해결되고 중복이나 자기 연결이 남지 않았습니다. 구조는 깨끗했습니다. 그러나 1,455개 공리 가운데 1,448개가 정확히 하나의 작품에 매핑되어 작품 간 재사용이 희박했고, 맥락 분류체계는 두 가지 맥락 유형을 구분하지 못했으며, 핵심 주장들은 입증되지 않은 채 남았습니다. 죽은 링크와 중복은 자동 감사가 잡아내는 실패이고, 희박한 재사용과 구분되지 않는 범주는 자동 감사가 그냥 통과시키는 실패입니다.
-
-## 연결된 개념
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-- [[ai-technologies]] — 포괄 개념: AI 기술과 기법(모델, LLM 훈련, 로보틱스, RAG, 에이전트)
-- [[recommender-systems-and-learning-paths]]
-
-## 연결된 문서
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 1,455개의 문학 공리와 구조 감사, 그리고 출처 기록이 없는 큐레이터 구축 그래프 (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — 개인화된 이러닝을 위한 온톨로지 기반 계층적 하이브리드 지식 모델
-- [[learnity-graphs-lifelong-learning-framework-2026]] — 평생학습을 위한 Learnity graphs
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: 서사 작성 스캐폴드
-- [[quantum-education-its]] — 양자 교육 지능형 튜터링(ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — 교육 추론을 위한 멀티모달 지식 그래프
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS 강의 비교
-- [[proprl-prerequisite-relation-learning]] — ProPrL: 선수 관계 학습
-- [[knowledge-gap-detection-ai-tas]] — AI 교수 보조에서의 지식 공백 탐지
-- [[visual-query-tracer-declarative-logic-learning]] — 선언적 논리 학습을 위한 시각적 쿼리 추적기
-- [[fair-explainable-edu-recommendations]] — 공정하고 설명 가능한 교육 추천
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — 멀티모달 교수 자료를 위한 하이브리드 CF–KG 교차 도메인 추천
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM 기반 인지 진단
-- [[graph-its-adaptive-algorithms-2026]] — 동적 도메인을 위한 그래프 기반 지능형 튜터링(2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: 학습 환경 생성
-- [[ai-multifactorial-virology-lab-teaching-2026]] — 바이러스학 실험에서의 지식 그래프와 그래프 기반 어시스턴트, 적응형 라우팅: 이론 시험 +11.4점, d = 1.39

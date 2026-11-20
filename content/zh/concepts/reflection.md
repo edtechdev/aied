@@ -26,6 +26,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -169,45 +171,3 @@ ai_assist:
 - **“[[automated-assessment|自动评分]] 解决了规模问题。”** 在一个标注良好但类别严重不平衡的语料上，分类器在反思层级上大约达到 70%，而这个上限，貌似合理的文本就能达到。
 - **“作品集天生就是反思性的。”** 容器不等于行为；一本由打磨过的成品装配而成的作品集，可能完全不包含反思。
 - **“反思不需要教。”** 匈牙利语料与职前教师实验都预设层级与质量是可学的，且准备会改变结果。
-
-## 关联概念
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## 关联文章
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — 预注册的 302 名成年人实验：反思提示把反馈时间翻倍、练习量削减 40%，却没有提升每题增益（Asher、Gold 与 Carvalho 2026）
-- [[5p-reflection-model-genai-2026]] — 具生成式 AI 意识的五部分反思模型，建立在有记录的提示与迭代之上，而非最终文本（Kadel 等 2026）
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954 篇标注文章，类别严重不平衡，浅层模型 71%，transformer 68%（2026）
-- [[reflection-agent-fidelity-career-2026]] — 编码 17,930 个对话轮次，解释 AI 反思伙伴为何让使用者承诺更低（Nepal 等 2026）
-- [[reflective-triangle-model-teacher-ai-2026]] — 以 AI 为认知中介者的自我、协作与共同体反思（2026）
-- [[falhs-teacher-expertise-reflection-2025]] — 100 名 K–12 教师：时间是新手的障碍，表现追踪是专家的障碍（Falhs 2025）
-- [[ai-cognitive-partner-reflective-thought-2026]] — 四种生成式 AI 实践与十一个过程，每一个都既能支持也能取代反思性思考（Dalsgaard 与 Prilop 2026）
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — 关于维持反思日志惯例的随机 2×2 现场实验（Scheu 等 2026）
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 策略训练与苏格拉底式大语言模型反思伙伴的 2×2 检验（Zhang 等 2026）
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — 不设综合分数的非诊断性自我反思工具（Alam 2026）
-- [[wang-reflective-ai-use-engagement-programming-2026]] — 反思性 AI 使用作为测量构念，把接受度联结到自我效能感与投入（Wang 与 Zhao 2026）
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — 结构化反思作为重新校准下一轮反馈循环的实时输入（Oktoma 等 2026）
-- [[pedlow-genai-selfassessment-2026]] — 自我评价之中的引导式反思，服务于生成式 AI 的伦理使用（Pedlow 与 Maldon 2026）
-- [[teachers-reflective-regulators-cognition-offloading]] — 18 名教师谈识别、重新分配与使用后反思性重新投入（Ho 与 Chen 2026）
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 立场论文：没有证据表明反思提示能建立持久的自我监控（de Jong 2026）
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — 16 周 WordPress 电子作品集，生成式 AI 充当反馈提供者与综合者（Ni 与 Lam 2026）
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — 与电子作品集评价对齐的 ChatGPT，Wilks' λ = 0.476，partial η² = 0.524（Sutama 2026）
-- [[liu-teaching-analytics-dashboard-2026]] — 一个支架提升了分析与评价深度，而行动计划保持不变（Liu 等 2026）
-- [[yusuf-service-learning-mapping-2026]] — 26 项研究的映射：反思是服务学习循环中得到支持最少的阶段（Yusuf 等 2026）

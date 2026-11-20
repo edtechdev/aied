@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
+connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -85,33 +87,3 @@ ai_assist:
 
 - ترجیح اور نتائج کی پیمائشیں اکٹھی درج کریں، اور صاف کہیں جب کسی مطالعے کے پاس صرف پہلی موجود ہو۔
 - زمانی ہم آہنگی واضح طور پر درج کریں، کیونکہ ویڈیو کے مواد اور [[cognitive-psychology|علمی عمل]] کے درمیان بے ترتیبی عصبی ڈیٹا میں ظاہر ہوتی ہے۔
-
-## منسلک تصورات
-
-- [[online-teaching-and-learning]] — ویڈیو بطور آن لائن اور مخلوط تدریس کا بنیادی واسطہ
-- [[generative-ai]] — AI سے پیدا شدہ اور ذاتی نوعیت والی ویڈیو کا انجن
-- [[personalized-learning]] — ذاتی نوعیت بطور AI ویڈیو کی کشش کا محرک
-- [[adaptive-learning]] — انطباقی ویڈیو کی تخلیق اور رفتار
-- [[multimodal]] — ویڈیو جو بصری، صوتی اور متنی واسطے جوڑتی ہے
-- [[learning-analytics]] — ویڈیو شمولیت اور توجہ پر اینالیٹکس
-- [[student-engagement]] — وہ شمولیت جسے ویڈیو کی ذاتی نوعیت بڑھانا چاہتی ہے
-- [[pedagogical-agent]] — AI اوتار اور پیش کنندہ بطور مجازی تدریسی ایجنٹ
-- [[llm]] — بڑے لسانی ماڈل جو اسکرپٹ اور ویڈیو کی تخلیق کی بنیاد ہیں
-- [[trust]] — AI پیش کنندہ اور مواد پر سیکھنے والے کا اعتماد
-
-## منسلک مضامین
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: بڑے پیمانے پر MOOC معیار کی صنعت کے مطابق ذاتی نوعیت والی لیکچر ویڈیو بنانا (Puech وغیرہ 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT کے بنائے ویڈیو کے اندر تبصرے: اینٹروپی کی بہ وقت، انسانی تبصروں کے مقابل معیار کے خلا (Wang، Du اور Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — طلبہ ذاتی نوعیت والی AI ویڈیو کو غیر ذاتی نوعیت والی انسانی ریکارڈ شدہ ویڈیو پر ترجیح دیتے ہیں (Tomlinson وغیرہ 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — کمپیوٹنگ تعلیم میں AI سے پیدا شدہ تدریسی ویڈیو کے بارے میں طلبہ کے تاثرات اور ترجیحات
-- [[ai-video-dual-gatekeeping-2026]] — تدریسی بنیاد والی AI ویڈیو کی تخلیق کے لیے دوہرا gatekeeping
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: انطباقی تدریسی ویڈیو کی تخلیق
-- [[engagement-assessment-video]] — ویڈیو سیکھنے میں شمولیت کی جانچ
-- [[savvy-student-attention-video-learning]] — ویڈیو پر مبنی سیکھنے کے لیے طلبہ کی توجہ کا بصری اظہار
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — AI کی وساطت والی سیکھنے میں اوتار کی شناخت علمیاتی اعتماد کو کیسے ڈھالتی ہے
-- [[bilingual-llm-lecture-companion-srl-2026]] — خود ضابطہ سیکھنے کے لیے دو لسانی LLM لیکچر ساتھی
-- [[adhd-video-segmentation-computing-education]] — انفرادی فرقوں کے لیے زمانی ویڈیو حصہ بندی
-- [[ai-psychotherapy-training-avatars]] — سائیکو تھراپی کی تربیت میں AI اوتار
-- [[gemini-lualatex-physics-video-transcription-2026]] — طبیعیات کی لیکچر ویڈیو کو قابلِ رسائی متن میں منتقل کرنا
-- [[pivot-generative-video-tutors-stem-2026]] — مواد کی تخلیق سے سیکھنے کی حمایت تک: STEM سیکھنے کے لیے تدریس کی رہنمائی والے جنریٹو ویڈیو ٹیوٹر
-- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — وہاں دیکھیں! AI سے بیان کی گئی سلائیڈوں کے لیے متحرک بصری رہنمائی

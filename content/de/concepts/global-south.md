@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -74,37 +76,3 @@ Zugang kann sich sättigen, bevor die Fähigkeit es tut: Unter 633 Studierenden 
 - **„Kontexte mit wenig Ressourcen haben keinen KI-Ethikrahmen und brauchen einen importierten.“** Praktizierende STEAM-Lehrkräfte der Sekundarstufe in einem ressourcenarmen Kontext **schlussfolgern über KI-Ethik durch professionelle Identität, Kursraumrealitäten und kulturelle Normen statt durch formelle Prinzipien**. Das Schlussfolgern existiert und ist situiert; eine universelle Prinzipienliste überträgt sich schlecht darauf.
 - **„Der Governance-Typ sagt die KI-Integration an Universitäten vorher.“** Eine vergleichende Inhaltsanalyse von **45 nigerianischen Universitäten** (Bundesstaat, staatlich und privat) fand KI-Integration vorhergesagt durch **Alter der Institution und geografischen Standort — nicht durch den Governance-Typ**. Die Annahme, öffentliche und private Institutionen divergierten, wird widerlegt.
 - **„Die digitale Kluft ist die Haupthürde.“** Eine [[qualitative-research|qualitative]] Fallstudie mit **21 sehbeeinträchtigten Studierenden an drei palästinensischen Universitäten** fand, dass GenAI **digitale, geografische und sozioökonomische** Barrieren gleichzeitig überbrückt. Die Barrieren sind geschichtet, und Zugang als das einzige Hindernis zu behandeln lässt die anderen unberührt.
-
-## Verbundene Konzepte
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## Verbundene Artikel
-
-- [[genai-assessment-african-higher-education-review-2026]] — Assessment im Zeitalter generativer KI neu denken: ein systematischer Literaturreview zur Hochschulbildung in Afrika
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutionelle Strukturen, digitale Ungleichheit und KI-Integration in der nigerianischen Hochschulbildung
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Einheitliches sozial-kognitives Modell für Ingenieurausbildung (Bangladesch)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Unterrichtsplanung in Vietnam
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Datensatz zu Indian Knowledge Systems
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana-STEM-Benchmark
-- [[genai-minoritized-knowledges-disability]] — Marginalisierung minoritisierter Wissensformen
-- [[llm-cultural-relevance-k12]] — LLMs für kulturell relevante Pädagogik in K-12
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI-Integration in der Hochschulbildung Bangladeschs durch Konstruktivismus (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI für sehbeeinträchtigte Lernende
-- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter, kulturbewusster Chatbot zur Stresserkennung und Wohlbefindensunterstützung bei pakistanischen Studierenden mit NLP und maschinellem Lernen
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Abgrenzung der Lernbehauptung des KI-Tutoring-Piloten in El Salvador (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic Developers als digitale Vermittelnde in südafrikanischen HDIs: digitale Ungleichheit vs. algorithmische Kolonialität
-- [[ai-ethical-awareness-ghana-students-2026]] — Ethisches Bewusstsein für künstliche Intelligenz ghanaischer Studierender
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethische Prinzipien von KI in der Bildung: kontextuelles ethisches Schlussfolgern von Lehrenden
-- [[gouroubera-genai-benin-2026]] — 633 Studierende in Benin: wöchentliche Nutzung 92,3 %, Arbeitslast als dominanter Treiber, sodass Zugang nicht mehr die bindende Einschränkung ist (Gouroubera et al. 2026)

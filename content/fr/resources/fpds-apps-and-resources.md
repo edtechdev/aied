@@ -32,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -49,7 +50,3 @@ Les enseignants et le personnel d'[[educational-development|ingénierie pédagog
 ## Remarques et réserves
 
 La consultation n'exige aucun compte, et les cours Canvas et les listes de contrôle auxquelles la page renvoie sont publics. Les coachs Playlab, les Gems Gemini et les carnets sont des services tiers qui, eux, en exigent un. Les cartes sont rendues à partir de `apps.json`, si bien que la liste complète exige JavaScript et que le repli sans script nomme huit des quinze entrées ; le lien court `tinyurl.com/fpdapps` et un QR code d'en-tête l'ouvrent sur un téléphone. Le dépôt est sous licence MIT en tant que logiciel, tandis que les guides auxquels il renvoie portent leurs propres licences, dont le livre Pressbooks, sous licence Creative Commons non commerciale. Il n'y a pas de calendrier de publication, si bien que la page change sans préavis.
-
-## Concepts liés
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

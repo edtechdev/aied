@@ -19,6 +19,7 @@ audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [eduprompts]
 reviewed_by: [editor]
+connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
 **TeacherServer** is a free collection of AI generators aimed at educators, organized into two sets: fifteen most-used tools for K-12 teachers and fifteen for college faculty, inside a total of 1,194 tools. Each tool is a form: you describe what you need, refine the response in conversation, then save or share the result.
@@ -28,8 +29,3 @@ For K-12: lesson plan, worksheet, [[special-education|IEP goal]], math word prob
 
 ## Notes
 The project claims a locally installed AI server for speed and that data is processed locally and never stored, plus Department of Education guideline compliance; the [team page](https://teacherserver.com/index-team.php) names Zafer Unal, a professor at the University of South Florida, as founder and developer, alongside an advisory board of four faculty members from other universities. Those claims are still worth verifying before use with student work. Access requires registration, and there is a companion paid-later platform for building your own tools.
-
-## Connected Concepts
-
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
-

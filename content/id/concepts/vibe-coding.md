@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -95,30 +97,3 @@ Studi kasus tingkat fakultas dalam basis pengetahuan ini menyediakan lapisan org
 
 - Laporkan kondisi vibe coding (murni versus terlihat kodenya) bersama hasilnya, dan gunakan tugas berorientasi GUI yang tervalidasi pakar alih-alih [[self-report-measures|keberhasilan yang dilaporkan sendiri]], agar hasil dapat dibandingkan antarstudi.
 - Ukur keragaman artefak, bukan hanya jumlah artefak atau jumlah pembangun, jika argumen akses sedang diuji.
-
-## Konsep terkait
-
-- [[generative-ai]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[writing-education]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-
-## Artikel terkait
-
-- [[vibe-coding-writing-cs-achievement-2026]] — Prestasi Ilmu Komputer dan Keterampilan Menulis Memprediksi Kecakapan Vibe Coding (studi empiris CHI 2026)
-- [[gaide-vibe-coding-k12-teachers]] — Kerangka Pemandu bagi Guru K-12 dalam Menciptakan Teknologi Pembelajaran Berbasis AI melalui Vibe Coding
-- [[vibe-coding-programming-process-visualizer]] — Dari Ide ke Ruang Kelas dalam Hitungan Hari: Menggunakan "Vibe Coding" untuk Menciptakan Visualisator Proses Pemrograman dari Log Aktivitas IDE
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Vibe coding membangun dua simulasi teknik dalam hitungan jam; mendiagnosis kesalahan protokol tetap membutuhkan instruktur
-- [[prompt-problems-nl-programming-mistakes]] — Memahami Persepsi, Kesalahan, dan Pendekatan Debugging Siswa ketika Menyelesaikan Tugas Pemrograman Bahasa Alami
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn dengan AI Generatif: Kerangka Berlandaskan Teori untuk Konstruksi Artefak di Pendidikan Menengah Atas
-- [[reshaping-cs-education-genai]] — Membentuk Ulang Pendidikan Sarjana Ilmu Komputer untuk AI Generatif
-- [[flowcode-ai-creative-coding]] — Flowcode: Lingkungan Pemrograman Berbasis AI untuk Memperancah Iterasi dalam Pendidikan Komputasi Kreatif
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — Intrapreneurship AI: fakultas membangun alat mereka sendiri, dan pemungkin organisasional yang menentukan apakah dorongan itu bertahan (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — Satu Alat, Satu Selera? Bagaimana Vibe Coding Menukar Keragaman Kolektif dengan Kreativitas Individual

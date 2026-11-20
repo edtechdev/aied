@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
@@ -48,12 +49,3 @@ Quản trị viên và nhà phát triển Moodle đã vận hành trang, giảng
 ## Ghi chú và lưu ý
 
 Mã nguồn mở theo GPL v3 trở lên, nhưng miễn phí không có nghĩa miễn phí vận hành: ai đó trả tiền cho API mô hình, và chất lượng chấm phụ thuộc vào lựa chọn mô hình và thiết kế prompt. Câu trả lời tự luận rời máy chủ Moodle khi dùng nhà cung cấp từ xa, nên thỏa thuận dữ liệu của cơ sở quy định được gửi gì; tuyến Ollama tự lưu trữ tồn tại cho các trang không thể gửi bài làm của sinh viên ra ngoài. Kho mã không nêu nghiên cứu độ chính xác hay độ đồng thuận nào được công bố, nên không nên tiếp nhận plugin với giả định rằng chấm bằng LLM tương đương chấm bởi người — [[assessment-validity|độ giá trị]] phải được thiết lập tại chỗ so với điểm của người trước khi bất kỳ điểm nào có trọng lượng. Các hành vi đồng hành là phụ thuộc cứng: chỉ cài kiểu câu hỏi sẽ để lại những câu hỏi không chấm được.
-
-## Khái niệm liên quan
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

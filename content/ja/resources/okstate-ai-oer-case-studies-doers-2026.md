@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [open-education, generative-ai, educational-policy-ai, change-management, ai-literacy]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -42,11 +43,3 @@ AI + OER Case Studies は、Kathy Essmiller が編集し、オクラホマ州立
 ## 注記と注意点
 
 章ごとのライセンスが落とし穴です。論集は CC BY 4.0 ですが、個々の著者が著作権を保持し、それぞれが独自の Creative Commons ライセンスを選んでいるため、章は本のページが示すよりも制限的でありえます。教科書改訂の章は CC BY-NC-SA 4.0 で、再利用は前付けではなく章を確認する必要があります。著者には必須の AI 開示手続きがなかったため、ほとんどの章は自らの過程に触れる程度で、概して OER Commons の指針に従っています。編集上の判断として各章は著者の学問領域の声、句読法、地域の綴りを保っているため、文章は一様には読みません。とりわけ、どの章も一つの地域のプロジェクトを記録したもので、二つの章が同じ測定具や比較を共有しているわけではないため、この巻が提供するのは引用すべきエビデンスではなく、適応すべき実践です。
-
-## 関連する概念
-
-- [[open-education]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]

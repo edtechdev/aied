@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -38,6 +39,3 @@ Les chapitre couvrent le [[learning-design|design pédagogique]] et la pratique 
 ## Ce qu'il faut savoir avant de l'utiliser
 
 Le livre est en accès ouvert sous licence CC BY, ce qui est l'extrémité permissive de la gamme pour des matériels d'enseignement : les enseignants peuvent copier, adapter et utiliser les [[prompt-engineering|invites]], y compris commercialement, pourvu qu'ils les attribuent correctement. Cela rend simple de localiser une invite pour un cours ou une configuration d'[[pedagogical-agent|agent]] particuliers, ce que des licences plus restrictives sur des collections similaires ne permettent pas. Il est publié sur EdTech Books en 2026 avec un téléchargement PDF et le DOI 10.59668/2340, édité par David Wiley. Parce que chaque chapitre rend compte du dispositif d'évaluation comme du résultat, il sert aussi de modèle aux enseignants qui veulent tester leurs propres invites au lieu d'adopter le jugement de quelqu'un d'autre.
-
-## Concepts liés
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

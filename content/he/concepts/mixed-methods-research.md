@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
+connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -74,26 +76,3 @@ ai_assist:
 - **"שיטות מעורבות הן בחירה נישתית במחקר בינה מלאכותית בחינוך."** לאורך **394 מחקרי GenAI בהשכלה גבוהה**, שיטות מעורבות היו **עיצוב המחקר הנפוץ ביותר (213 מחקרים, 54%)**, אחריהן כמותיות (109, 28%) ואיכותניות (72, 18%). העיצוב הדומיננטי של התחום אינו זה שהדיונים המתודולוגיים שלו מניחים.
 - **"ראיות תצפיתיות וראיונות יכולות לשאת טענה מערכתית."** הצמדת תצפית מערכת ודיונים עם [[administrator|מנהלים]] כנגד **הערכה אקראית בת ארבע שנים של 8,708 סטודנטים לאורך שמונה סמסטרים**, בעלת כוח לגילוי אפקטים של **0.05 סטיית תקן**, מראה מה שהקו האיכותני אינו יכול לעשות לבדו: לגלות אפקט קטן באופן מהימן. ערבוב שיטות אינו דרך להעביר כוח בין קווים.
 - **"טריאנגולציה פירושה ששתי שיטות חלשות יוצרות טענה חזקה."** ערכו של הצימוד הוא שכל קו עונה על שאלה אחרת. עיצוב שמריץ את שניהם ואז מדווח את הממצא האיכותני כאישור לכמותי לא עשה טריאנגולציה, הוא חזר על עצמו.
-
-## מושגים מחוברים
-
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-- [[ai-ed-evaluation]]
-- [[student-experience]]
-
-## מאמרים מחוברים
-
-- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (surveys + interviews)
-- [[t2i-competence-paradox-2026]] — The competence paradox (focus groups + survey + interviews)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
-- [[same-ai-different-pathways]] — Mechanisms of AI-mediated learning across contexts
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER and a fine-tuned RoBERTa assigned opposite valence to the same Bluesky post (Geraili Meykola et al., 2026)

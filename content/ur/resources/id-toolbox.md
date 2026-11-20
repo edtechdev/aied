@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, formative-assessment, educational-technology-developers, accessibility]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -36,6 +37,3 @@ ai_assist:
 
 ## یہ کیوں موجود ہے
 Curt Zilbersher، جنہوں نے اٹھائیس سال کارپوریٹ تربیت ڈیزائن کی، بتاتے ہیں کہ ان کے پورے کیریئر میں وہی چھوٹے حل نہ شدہ مسائل بار بار آئے — بیان کے الفاظ گننا، وہ اثاثہ ڈھونڈنا جس نے کورس کو [[edtech-platform|LMS]] کی حد سے آگے دھکیل دیا، ہاتھ سے captions کی کوریج جانچنا — اور وہ ان کے حل بنا کر مفت دے رہے ہیں۔ سائٹ ایک مفت سالانہ سروے بھی چلاتی ہے کہ انسٹرکشنل ڈیزائنرز واقعی اپنا ہفتہ کیسے گزارتے ہیں۔
-
-## منسلک تصورات
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]

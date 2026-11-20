@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
+connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -87,28 +89,3 @@ Un programa de investigación necesitaría medidas de referencia y posteriores d
 **«Mejores prompts producirán mejores lecciones cívicas.»** La variante interactiva marcó una diferencia mínima, y los tres chatbots produjeron la misma estructura en los 53 estándares. La calidad del prompt no restauró la textura disciplinar.
 
 **«Hay evidencia suficiente para guiar la práctica.»** Hay suficiente para justificar cautela. Un análisis de contenido, una síntesis documental, un [[mixed-methods-research|estudio de métodos mixtos]] pequeño y varios textos conceptuales o de política no establecen qué funciona.
-
-## Conceptos conectados
-
-- [[humanities-education]]
-- [[critical-thinking]]
-- [[ai-literacy]] — Marco general: lo que quienes aprenden necesitan saber sobre los sistemas de IA
-- [[ethics]]
-- [[ai-misuse-learning-harm]] — desinformación y persuasión generadas como daño societal
-- [[critical-pedagogy]]
-- [[evaluative-judgment]]
-- [[global-south]]
-- [[governance]]
-- [[teacher-role]]
-
-## Artículos conectados
-
-- [[civic-education-ai-lesson-plans]] — 310 planes de clase generados por IA para 53 estándares de educación cívica: 90% de orden inferior, 94% sin contenido multicultural (Trust et al. 2025)
-- [[nkalanga-digital-borders-civic-literacy-2026]] — Gobernanza algorítmica de fronteras y cinco exigencias de alfabetización digital cívica en Sudáfrica (Nkalanga 2026)
-- [[critical-media-literacy-education-2026]] — Entrevistas a expertos y una encuesta a estudiantes sobre alfabetización mediática crítica y ciudadanía participativa (Santos-Albardía et al. 2025)
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Los propósitos de la educación en IA según docentes finlandeses, leídos a través de cualificación, socialización y subjetivación
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Visiones de la alfabetización científica, incluida la vida cívica y el compromiso democrático (Zhai et al. 2026)
-- [[rudolph-ai-myths-critical-higher-ed]] — Editorial que nombra los deepfakes y la desinformación automatizada como amenazas democráticas (Rudolph et al. 2025)
-- [[ai-lifelong-learning-policy]] — Política de educación de personas adultas y el propósito cívico del aprendizaje a lo largo de la vida (Theodora & Tselios 2026)
-- [[generative-ai-governance-education-scoping-review-2026]] — 160 documentos de gobernanza; democracia y Estado de derecho nombrados en 92, fuerza jurídica en cuatro (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — El caso democrático en términos de teoría política: erosión de la práctica, mecanismos y apuestas del autoritarismo

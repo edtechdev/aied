@@ -24,6 +24,8 @@ ai_assist:
 translation_of: concepts/oral-assessment
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
+connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -88,35 +90,3 @@ Sözlünün bütünlük gerekçesi de zamanla sınırlıdır: [[corbin-ai-glasse
 - **“Sözlü değerlendirme ölçeklenemez.”** [[code-review-genai-cs1|CS1 sözlü kod inceleme çalışmasında]], **haftalık on beş dakikalık görüşmeler her ödevin notunun yüzde yetmişini taşımıştır** ve yapıştırılmış karakterlerin toplam karakterlere oranı hâlâ bilgilendirici kalmıştır. Maliyet gerçektir ve tasarım kurs ölçeğinde uygulanabilirdir.
 - **“Sözlü sınavlar yazılı olanlardan daha yumuşaktır.”** Bildirilen pilotta puanlar **yüz yüze çoktan seçmeli testlerinkini aşmıştır: ara sınav ortancası 70’e karşı 92,5 (p < .001) ve final ortancası 86,4’e karşı 94,2 (p = .002)**. Sözlü değerlendirme hoşgörülü seçenek değildi.
 - **“Simüle edilmiş bir karşılaşma, kademeli açıklamalı vakalara eşdeğerdir.”** [[ai-standardized-patient-scaffolding-medical-2026|yüz üçüncü yıl tıp öğrencisiyle yapılmış bir RCT]]’te simüle hasta sistemi **kademeli açıklamalı vaka materyalleriyle** karşılaştırılmıştır; bu, eşdeğerliğin varsayılması değil doğrudan sınanmasıdır.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Sözlü ve viva doğrulama dizileri ve bunların ne gösterdiği ile göstermedikleri
-- [[assessment]] — bu biçimin içinde yer aldığı daha geniş alan
-- [[authentic-assessment]] — dürüstlük vakanı yapan tasarım geleneği
-- [[assessment-validity]] — bir biçimin neyi ölçtüğünü iddia edebileceği ve edemeyeceği
-- [[academic-integrity]] — sözlü değerlendirmeleri yeniden öne çıkaran baskı
-- [[automated-assessment]] — sözlü performansın makine ile sunumu ve notlanması
-- [[ai-detection]] — alternatif yanıt ve neden daha zayıf olduğu
-- [[speech-and-voice-technologies]] — bir sözlü sistemin üzerinde çalıştığı konuşma hattı
-- [[multimodal]] — birleşik kanıt olarak hareket ve konuşma
-- [[anxiety-and-stress]] — canlı performansın duygusal maliyeti
-- [[feedback]] — bir viva’nın öğrenene kendi anlayışı hakkında söyledikleri
-- [[higher-ed]] — bu kanıtların hemen hemen tamamının geldiği ortam
-
-## Bağlı makaleler
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Sözlü sınavların ve değerlendirmelerin kullanımının yeniden değerlendirilmesi (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Eşzamansız sözlü değerlendirmeler: bütünlük, katılım ve mesleki iletişim
-- [[ai-supported-oral-assessment-tvet-2026]] — Mesleki eğitimde YZ destekli sözlü değerlendirme tasarlamak
-- [[aivaluate-anxiety-assessment-2026]] — YZ aracılı performansa dayalı değerlendirmede kaygı ve deneyim
-- [[code-review-genai-cs1]] — Giriş düzeyi programlama kursunda sözlü kod inceleme görüşmeleri
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Sözlü açıklamaları değerlendirmede kanıt olarak hareket
-- [[socratic-tests-conversational-assessment]] — Sözlü değerlendirme olarak otomatik konuşmaya dayalı test
-- [[tool-invariant-framework-agentic-ai]] — YZ destekli işin sözlü savunmaları
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Simüle hasta sistemi altında sözlü klinik görüşmeler
-- [[pgr-students-genai-uses-qualitative-2026]] — Üretici YZ altında doktora viva’sı
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Üretici YZ çağında bilgisayar bilimi değerlendirmesi üzerine çevrim içi bir atölye raporu
-- [[ai-second-language-listening-speaking-assessment-2025]] — Dallanmayan YZ diyalog görevleri, görev taleplerini konuşma yapısıyla uyumsuzlaştırır
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Canlı viva’lar artık bağışık değil: YZ gözlükleri ve kulaklıkları gizli gerçek zamanlı istemler iletir (Corbin, Sharpe ve Dawson 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Hiçbir biçime sabit bir konum tanımaz ve uygulanabilirliği eğitimsel bir öncelik olarak yeniden çerçeveler

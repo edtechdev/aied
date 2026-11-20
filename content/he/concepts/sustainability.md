@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -79,30 +81,3 @@ ai_assist:
 - **"ידע AI מופשט חוזה את יכולתם של מורים ללמד קיימות."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] מצא ש**השימוש המעשי של מורים ב-AI** בהקשרי מדע ואנרגיה ירוקה ו**המעורבות שלהם בפיתוח חומרים מיושרים עם ESD** — **יותר מידע AI מופשט או גישות** — ניבאו את יכולתם. ידיעה על AI ויכולת לבנות איתו התפצלו, והמסלול המעשי ניבא יותר.
 - **"תכן הוראה בסיוע AI תחת פדגוגיית קיימות מייצר פדגוגיית קיימות."** אותה עבודה מצאה שתכן הוראה בסיוע [[learning-design|AI]] תחת פדגוגיה לפיתוח בר-קיימא **הגבילה** את התכן בדרכים מסוימות במקום להרחיב אותו. מודל שאומן על חומרים קונבנציונליים משחזר מסגורים קונבנציונליים אלא אם עבודת התכן מתקנת זאת.
 - **"קיימות היא נושא, לא נושא חוצה-תחומים."** מכיוון ששני הנתיבים חוצים רמות, קיימות מופיעה ב[[higher-ed|השכלה גבוהה]], ב-K-12 ובהקשרים מקצועיים — כלומר היא נושא יסוד שיש להתייחס אליו בתוך כל דיסציפלינה ולא ללמד אותו כמקצוע נפרד.
-
-## מושגים מקושרים
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## מאמרים מקושרים
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — סקר וקבוצות מיקוד שוודיים הטוענים שאתיקת שותפות, ולא מסגור של רמאות, צריכה להנחות החלטות genAI מוסדיות
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
-- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)

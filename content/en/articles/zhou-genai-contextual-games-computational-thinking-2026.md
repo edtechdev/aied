@@ -26,6 +26,8 @@ ai_assist:
     role: drafting
     date: "2026-11-14"
     agent: hermes-agent
+connected_concepts: [computational-thinking, game-based-learning, help-seeking, scaffolding, experiential-learning]
+connected_articles: [ai-pbl-computational-thinking-2026, roboblockly-conversational-block-robotics-ct-2026, ai-game-based-learning-systematic-review-2026, wenzel-conversational-ai-feedback-cognitive-load-game-2026]
 ---
 
 > **Synthesis:** Zhou, Fu, Fang and Hwang put a [[generative-ai|generative AI]] non-player character inside a role-playing game built with RPG Maker MZ and ran it for three weekly sessions in two intact fifth-grade classes in eastern China. After adjusting for pretest scores, the class that could question the AI teacher reported slightly stronger [[computational-thinking|computational thinking]] tendencies than the class that played the same game with scripted dialogue, while a test of algorithmic knowledge found no reliable difference. The question logs suggest the AI worked less as a tutor than as a low-stakes interlocutor students asked to restate a problem, break it into parts, or explain a flowchart symbol. The authors are circumspect about the size of that claim.
@@ -76,21 +78,6 @@ The authors lean on that point: dispositions shift within weeks, while understan
 - CT tendencies came from a six-item self-report scale and algorithmic knowledge from a locally developed test; neither is performance-based.
 - The system kept student questions but not the AI's responses or later actions, and the control group produced no comparable process data.
 - GenAI was bundled with narrative, rewards, experiential guidance and teacher support, so the results describe the whole environment rather than the AI alone.
-
-## Connected Concepts
-
-- [[computational-thinking]]: tendencies treated as a disposition, distinct from algorithmic knowledge
-- [[game-based-learning]]: contextual role-play as the delivery format
-- [[help-seeking]]: the in-game teacher lowered the cost of asking
-- [[scaffolding]]: motivational and cognitive support, not direct instruction
-- [[experiential-learning]]: Kolb's cycle structured the question, reflect, retry loop
-
-## Connected Articles
-
-- [[ai-pbl-computational-thinking-2026]]: AI-supported problem-based learning for CT in a quasi-experiment
-- [[roboblockly-conversational-block-robotics-ct-2026]]: a conversational agent with block programming and robot feedback
-- [[ai-game-based-learning-systematic-review-2026]]: a review of AI-supported game-based learning
-- [[wenzel-conversational-ai-feedback-cognitive-load-game-2026]]: access to conversational AI in a game versus engagement
 
 ## Citation
 

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -69,11 +71,7 @@ A correção por IA está avançando rapidamente em trabalho de alto impacto. [[
 
 A prontidão dos professores é decisiva. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah et al.]] concluíram que professores de ciências em formação ganeses têm atitudes positivas e fortes intenções em relação à IA, mas apenas uso moderado real em sala de aula — uma lacuna intenção–uso que aponta a [[teacher-ai-competency|competência docente em IA]] e o apoio [[governance|institucional]] como as alavancas reais. [[becker-chatgpt-typology-physics-2026|Becker et al.]] e [[fouad-bentley-trust-utility-gap-physics-2026|Fouad e Bentley]] documentam que estudantes de física são céticos calibrados ao domínio, e não adotantes acríticos: uma lacuna confiança-utilidade de 50 pontos (91% de uso, 41% de confiança) e dois perfis distintos de usuário (Usuários Pragmáticos contra Não Usuários Céticos) que desafiam políticas únicas. Contrabalançando o tecno-otimismo, [[avraamidou-ai-colonization-science-education|Avraamidou]] alerta sobre uma "colonização pela IA" da educação científica — extração sem consentimento, monocultura algorítmica e reforma desumanizada e centrada no lucro — e pede uma IA feminista e centrada no humano que priorize a justiça sobre o lucro, enquanto a revisão sistemática de 18 estudos de [[ai-science-chemistry-education-systematic-review-2025|Erümit e Özdemir Sarıalioğlu]] enfatiza riscos [[ethics|éticos]] (viés, alucinação, [[academic-integrity|plágio]], erosão do pensamento independente) e a necessidade de [[teacher-education|formação docente]] e uso consciente. A lição coletiva ao longo dos treze artigos é que a IA na educação científica entrega ganhos quando incorporada a um design sólido de investigação, [[scaffolding|andaime]] e [[assessment|avaliação]] — e solapa a aprendizagem quando desloca o trabalho epistêmico que os próprios estudantes precisam fazer.
 
-
 **O conforto geral com IA não se transferiu para as ferramentas próprias da disciplina.** Entre 100 estudantes de geografia de uma universidade cazaque, a prontidão para ensinar com IA e GIS acompanhou a familiaridade com GIS (ρ = 0,508) e o conhecimento de GeoAI (ρ = 0,425), mas não a familiaridade geral com IA (ρ = 0,071, p = 0,485) — uma lição para a [[teacher-education|formação docente]] em qualquer disciplina moldada por ferramentas ([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov et al. (2026)]]). Sessenta e sete por cento se declararam prontos de alguma forma, mas apenas 6% haviam usado a combinação na prática e 43% julgaram a instrução disponível adequada. A avaliação é [[self-report-measures|autorrelatada]] e não validada, de modo que descreve o que esses estudantes dizem sobre si mesmos.
-
-
-
 
 [[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] perguntam quão bem os modelos gerais tratam o próprio conteúdo científico: em conjuntos de itens alinhados ao NGSS para ensino fundamental 2 (1.078 itens) e ensino médio (1.150 itens), nove modelos de pesos abertos em sua maioria superaram 90%, sem relação entre tamanho do modelo e acurácia. Um professor de ciências julgou 236 de 240 itens amostrados (98,3%) como alinhados, ao mesmo tempo que apontou a ausência de diagramas, interpretação de dados e representação matemática — itens apenas de texto não conseguem exercitar toda expectativa de desempenho do NGSS. A alta [[item-response-theory|dificuldade dos itens]] e a baixa discriminação deixam em aberto se os itens precisam de melhoria ou se as ciências do ensino médio se tornaram tratáveis para essa classe de modelos, e os autores pedem o feedback multivolta e baseado em evidência como o padrão ausente.
 
@@ -86,40 +84,3 @@ Como framework, e não como estudo, [[zhai-science-literacy-generative-ai-cohere
 - **"A IA na educação científica não tem evidência causal."** Uma **avaliação aleatória de quatro semanas** de uma plataforma de revisão com IA em ciências do GCSE dá uma estimativa causal de **g de Hedges = 0,33**, sem **evidência de que o efeito diferisse por disciplina**. O efeito é modesto e é causal.
 - **"Basta dar acesso aos estudantes e os ganhos vêm."** **O acesso estruturado, e não o acesso em si, impulsiona o ganho**: o crescimento relatado pelas equipes foi em média **17% sob acesso individual ilimitado, mas 34% e 31% quando o acesso era estruturado**. A estrutura foi a intervenção.
 - **"A simulação científica exige software especializado."** Um **prompt de linguagem natural de quatro elementos** pode gerar uma **simulação de física em realidade aumentada controlada por gestos**. A barreira para criar uma simulação caiu para o desenho do prompt, o que desloca a habilidade exigida da programação para a especificação do fenômeno.
-
-## Conceitos conectados
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Artigos conectados
-
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Capítulo-framework sobre letramento científico como coerência entre currículo, instrução e avaliação (Zhai et al. 2026)
-
-- [[ai-methodologies-science-education-research-2026]] — Framework de iteração epistêmica de sete fases para refletir sobre como as metodologias de IA podem transformar a pesquisa em educação científica (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Revisão sistemática da IA na educação em ciências e química
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT para aprendizagem baseada em investigação em STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Investigação guiada com apoio de IA em fotossíntese e respiração
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Textos de mudança conceitual versus diálogo com IA para calor e temperatura
-- [[ai-grading-handwritten-physics-2026]] — Correção por IA em larga escala de avaliações manuscritas de física
-- [[avraamidou-ai-colonization-science-education]] — Comentário crítico sobre a colonização da educação científica pela IA
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Percepções e aceitação de IA de professores de ciências em formação
-- [[ai-assisted-inquiry-ssi-climate]] — Investigação assistida por IA em questões sociocientíficas sobre mudança climática
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Avaliando a tutoria por IA na velocidade da inovação: ensaios microrandomizados conduzidos por praticantes de uma plataforma de tutoria por IA em ciências do GCSE
-- [[llm-benchmark-secondary-science-topics-2026]] — Um benchmark do entendimento de LLMs sobre temas de ciências do ensino fundamental 2 e do ensino médio
-- [[nature-of-science-generative-ai-2026]] — A natureza da ciência na era da inteligência artificial generativa: autoridade epistêmica, materialidade e uma resposta sinérgica
-- [[ai-university-physics-education-review-2026]] — O acesso estruturado em equipe superou o acesso individual ilimitado em uma revisão de IA na física universitária
-- [[genai-learning-motivation-meta-analysis-2026]] — O único domínio cujo intervalo motivacional cruza o zero (g = 0,109, k = 3)
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — O conforto geral com IA não se transferiu para a prontidão em GeoAI
-

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -47,7 +49,6 @@ ai_assist:
 - **Дизайн-мышление как развиваемый навык студента.** [[genai-usage-design-students-survey|Использование GenAI студентами дизайна]] в Politecnico di Milano сообщило об очень частом использовании, сконцентрированном на ранних, насыщенных генерацией идей стадиях, — однако высокое внедрение не уменьшило воспринимаемой собственности над проектом или креативности, что непосредственно информирует дебаты об [[ai-literacy]] и [[academic-integrity]] об авторстве и прозрачности процесса.
 - **ИИ в педагогике дизайна и фреймворках для педагогов.** Дизайн-мышление также структурирует то, как педагоги строят поддерживаемое ИИ обучение. [[gaide-vibe-coding-k12-teachers|GAIDE]] предлагает основанный на дизайн-мышлении фреймворк для преподавателей K-12, создающих инструменты на базе ИИ через [[vibe-coding|vibe coding]], повышая ИИ-грамотность преподавателей и поддерживая обучение через создание как [[educational-development]] и [[professional-training]]. [[dot-framework-survey-2026|Опрос по фреймворку DOT]] (n=72) заземляет дизайн-мышление в теории открытых систем и обнаружил, что практики часто используют итеративные промпты и генерацию контента, но недостаточно используют анализ потребностей и петли обратной связи, — разрыв между практикой и теорией, который операционализирует ИИ как погрешимого ко-интеллектуального соратника под надзором [[human-in-the-loop-ai]]. Даже [[social-robot-study-companions|со-создание открытых социальных роботов]] со студентами применило Double Diamond (вариант дизайн-мышления), перепроектировав конструкцию вокруг доступности так, что принципы ремонтопригодности и [[open-source]] становятся местами продолжающегося обучения.
 
-
 **Само мышление измеримо, и оно меняется по ходу программы.** [[design-thinking-aigc-fashion-film-2026|Liu et al. (2026)]] валидировали пять измерений мышления дизайна у 409 студентов, изучавших моду и кино с помощью генеративного ИИ (AIGC), и обнаружили, что третьекурсники выше по всем пяти, причём абдуктивное рассуждение (0,865) и творческая уверенность (0,760) дали наибольшие стандартизованные различия — результат [[design-education|дизайн-образования]], которого одни лишь сгенерированные альтернативы не доказывают.
 
 ## Практические рекомендации
@@ -67,39 +68,3 @@ ai_assist:
 **«Дизайн-мышление — процесс, который можно автоматизировать этап за этапом.»** Это дисциплина постановки и перепостановки проблем, а именно это фиксация и закрывает. Автоматизация этапов при неисследованной рамке производит компетентный вывод для неверной проблемы.
 
 **«ИИ-агенты, соглашающиеся со студентом, [[student-support-and-success|поддерживают]] его проектное рассуждение.»** Продуктивное использование, задокументированное здесь, идёт в обратную сторону: [[ai-agents-constructive-conflict-design-education-2026|конструктивные конфликты с ИИ-агентами]] проверяют состязательный промптинг, вынуждающий пересмотр. Соглашающийся агент усиливает фиксацию; агент, настроенный на несогласие, — это дизайн, за которым стоит образовательное утверждение.
-
-## Связанные концепции
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Связанные статьи
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-
-- [[design-thinking-aigc-fashion-film-2026]] — Мышление дизайна на разных стадиях обучения в дизайне моды и кино с поддержкой AIGC (Liu et al. 2026)

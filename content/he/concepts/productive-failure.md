@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -100,36 +102,3 @@ ai_assist:
 - **"עיכוב עזרה מתסכל לומדים ועולה במוטיבציה."** [[rct|ניסוי אקראי מבוקר]] בשלוש זרועות מצא שמורה שמעכב רמזים **השתווה ל-ChatGPT ללא הגבלה בהפחתת תסכול ובמוטיבציה** — המחיר הופיע **רק בהעדפה**. הלומדים לא נהנו מזה ולא סבלו מזה, כלומר נתוני העדפה היו דוחים את העיצוב שעבד.
 - **"יותר תסכול פירושו יותר למידה."** המורה המדרגי היה **תסכול ב-0.42 נקודות סולם יותר מהמורה שענה על פי בקשה (p < .001) ו-0.29 פחות מתסכל מהזרוע המתסכלת ביותר**. הטווח הפרודוקטיבי הוא אמצע, לא מקסימום, ולכן "קושי רצוי" אינו מתיר להקשות את המשימה ללא גבול.
 - **"כישלון פרודוקטיבי פירושו שמורים לא צריכים לעזור."** העיצוב מעכב *את התשובה* בעודו מספק מבנה והדרגה. עיכוב רמז ועיכוב תמיכה הם התערבויות שונות, ורק הראשונה היא זו שיש לה ראיה כאן.
-
-## מושגים מקושרים
-- [[pedagogical-patterns]] — ניסיון-לפני-הוראה כרצף מלא, עם בסיס הראיות הדל שלו
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — מקרים כמרחב-בעיה משותף לניסיון הראשון
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## מאמרים מקושרים
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — עיכוב פתרונות נמנע ממחיר התסכול אך הפסיד בהעדפת הסטודנטים
-

@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-16"
     agent: hermes-agent
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -44,7 +45,3 @@ Guru dan [[learning-design|perancang pembelajaran]] di K-12 dan pendidikan tingg
 ## Catatan dan peringatan
 
 Pusat ini adalah panduan, bukan produk kepatuhan: situs tidak membuat klaim kesesuaian untuk target WCAG 2.2 AA-nya sendiri, menjawab "apakah penggunaan berkas ini membuat situs saya patuh?" dengan tidak, dan menyatakan bahwa tinjauan engineering tidak menggantikan otorisasi sekolah atau tinjauan hukum. Rak keamanannya menunjuk ke axe-core, Gitleaks, ZAP dan Playwright; itu adalah rujukan alih-alih perangkat lunak yang dibundel, dan yang invasif dimaksudkan untuk target sekali pakai atau yang diotorisasi secara eksplisit. Membaca tidak memerlukan akun. Membangun ulang halaman HTML memerlukan Python dan `markdown-it-py`, yang merupakan dependensi build dan bukan dependensi pengunjung. Repositori berlisensi MIT, sementara karya seni pihak ketiga dan proyek yang ditautkan mempertahankan ketentuannya sendiri, didokumentasikan dalam `CREDITS.md`.
-
-## Konsep terkait
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

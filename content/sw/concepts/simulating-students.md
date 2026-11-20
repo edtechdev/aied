@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [learners, simulation, student-modeling, ai-assisted-educational-research, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, adaptive-learning, personalized-learning, generative-ai, llm, learning-analytics, teacher-role, ai-avatars-and-synthetic-instructors]
+connected_articles: [muller-role-prompted-gpt-empathetic-communication-2026, radmehr-alps-simulated-students-long-horizon-2026, rudolph-llm-simulated-counselling-clients-2026, hachimi-ii-learner-behavior-modeling-student-simulation-2026, tutorloop-sensor-cognitive-feedback-2026, llm-student-simulation-teacher-insights, llm-student-simulation-misconception-faithfulness, llm-educational-simulation-adhd, simulating-students-java-programming-errors-llms, adaptive-virtual-patient-psychotherapy-training, medeasy-ai-standardized-patients, simulating-students-diverse-cognitive-levels-2025, inside-llm-student-simulator-reasoning-2026, teachlm-post-training-llms-education, educasim-cs1-instructional-practice, bondurant-shaughnessy-ai-pedagogies-practice-2026, cogevolution-student-cognitive-evolution-agent-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, studentsim-llm-student-simulators, ai-web-agents-lesson-design-2025, simulating-learner-task-selection, durable-skills-measurement-ai-teammates-2026, agent-based-educational-science-2026, meds-math-education-digital-shadows-2026, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, llm-distractor-generation-student-reasoning-2026, llm-simulating-student-scientific-thinking-2026, simulated-students-tutoring-dialogues-2026, simulating-novice-students-machine-unlearning-2026, student-development-agent-risk-free-simulation-2025, preservice-teachers-noticing-ai-simulations-2026, beagle-grounded-learner-emulation-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -63,19 +65,15 @@ Utulivu wa mtu ni tatizo la ubuni wa mwingiliano, si la uchaguzi wa mfano: kuvuk
 
 Kushindwa kinyume pia hutokea: katika utafiti uliofichwa, waainishaji wataalam waliainisha makosa mabano 164 ya 196 (83.7%) ya Java zilizozalishwa na LLM kama zilizoandikwa na binadamu, hivyo makosa ya kifaa cha kuiga yanaweza kutofautishwa kwa kazi na yale halisi — ingawa ulinganifu na makosa halisi ulipungua kadiri ugumu wa tatizo ulivyopanda ([[simulating-students-java-programming-errors-llms|Keramati et al., 2026]]).
 
-
 LLM zinazoombwa kuigiza nafasi pia hushindwa kwenye mhimili wa mtazamo. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] waliwafanya ChatGPT-4o na Claude Sonnet 3.5 wakadirie sentensi za Kijerumani kutoka kwa nafasi ya kila mmoja wa wanafunzi halisi 193. Hata kwa lebo 12 zilizofichuliwa mifano ilimaliza vibaya zaidi kuliko msingi wa wastani — RMSE 1.171 na 1.252 dhidi ya 1.070 — huku ikipotosha usambazaji wa lebo: zote zilifikia kilele kwenye lebo rahisi ambapo wanafunzi waliweka rahisi sana kwa 45.27% ya sentensi za mtihani. Uigizaji wa nafasi uliowekwa kwa mtu bado hauzalishi jinsi hadhira lengwa inavyoona maandishi.
 
 [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] wanaongeza mhimili wa majibu ya utafiti kwenye uigaji wa wanafunzi, wakizalisha majibu ya BREQ kutoka kwa nakala ya mahojiano ya kila mtu ili maudhui ya mahojiano yaboreshe ulinganifu na utofauti kwa mifano kadhaa wakati demografia ikiongeza kidogo. Majibu ya LLM yalizalisha utofauti mdogo wa binadamu katika kila hali, na uigaji wa ngazi ya kipengele haukuunda upya muundo wa kisaikometriki wa ngazi ya mtihani, kwa kuwa ni Claude pekee na ilani za mahojiano zilizoboresha ulinganifu kwenye fahirisi ya uhuru wa jamaa.
-
 
 Kuweka hali ya uzalishaji kwa mfano wa tabia uliotabiriwa hufanya kazi bila [[llm-training-and-fine-tuning|kuboresha kwa njia maalum]]: mfumo usiohitaji mafunzo unajenga mfano wa msingi wa kifikra wa kila mwanafunzi kutoka [[knowledge-graph]] na hupima wagombea wa utafutaji wa beam dhidi yake, na kuripoti uboreshaji wa 100% katika usahihi wa uigaji ([[simulating-students-diverse-cognitive-levels-2025|Wu et al. (2025)]]). Ubora wake hupanda na kiwango cha kifikra cha mwanafunzi, hivyo wanafunzi dhaifu wanabaki kuwa kesi ngumu zaidi ya kuiga.
 
 CogEvolution huunda mfano wa mienendo ya kifikra badala ya mtu tuli — perceptroni ya kina ya [[icap-framework|ICAP]] huweka kiwango cha kila sasisho la hali na sasisho la mageuko hubaki ndani ya mzunguko wa Eneo la Maendeleo ya Karibu — ikifika R²LC = 0.92 ambapo mawakala tuli hufika 0.45 na kushuka hadi 0.58 bila moduli ya ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al. (2026)]]).
 
-
 **Mtelezo ni tatizo la upeo wa muda, si la mtu.** [[radmehr-alps-simulated-students-long-horizon-2026|Radmehr et al. (2026)]] wanaonyesha kuwa uzalishaji wa ngazi ya zamu hupoteza wasifu uliowekwa kadiri mienendo inavyoendelea, wakati kupanga sehemu zinazolingana na wasifu kabla ya kuzalisha vitendo kulishikilia msongamano na uthabiti uliopimwa na mwamuzi hata kwa mienendo mitatu halisi kwa kila wasifu.
-
 
 ### Uaminifu badala ya uhalisi wa uso
 
@@ -95,9 +93,7 @@ Tofauti kuu ni kati ya **kuwakilisha mwanafunzi halisi** na **kuzalisha mwanafun
 
 Hizi mbili ni za kukamiliana badala ya kushindana. Mwanafunzi bandia mwenye uaminifu wa juu kwa kawaida *anajumuisha* mfano wa mwanafunzi (hali ya maarifa, seti ya dhana potofu, wasifu wa [[student-engagement|ushirikiano]]) na hutegemea usanifu ule ule ambao [[student-modeling]] na [[knowledge-tracing]] hufafanua. Changamoto ya pamoja ya uhalali ni sawa katika zote mbili: uwakilishi unabidi uakisi kwa uaminifu hali halisi ya mwanafunzi badala ya tabia chaguomsingi ya mfumo. Lakini *lengo* linatofautiana — kuunda mfano wa mwanafunzi hugundua mwanafunzi halisi ili kuchukua hatua kwake; uigaji hutengeneza wanafunzi ili kujaribu au kufundisha. Hii ni kwa nini utafiti wa wanafunzi bandia unazidi kutumika kukagua AI (angalia chini) huku utafiti wa kuunda mfano wa mwanafunzi ukibaki unaelekea kwenye [[adaptive-learning]] na [[personalized-learning]] za moja kwa moja.
 
-
 Swali la kioo linaenda upande mwingine. [[ai-avatars-and-synthetic-instructors]] huiga mtu anayefundisha badala ya mtu anayejifunza, hivyo wanafunzi bandia huweka mbinu chini ya uchunguzi wakati wakufunzi bandia husimama mbele ya mwanafunzi, ambaye ni mnufaika na mwamuzi.
-
 
 ### Uaminifu wa mhimili mbili: kulingana kwa tabia na kuitikia mwongozo
 
@@ -140,65 +136,3 @@ Mafunzo dhidi ya kifaa cha kuiga yanaweza pia kusafiri: wakala wa kujifunza kwa 
 - **"Wanafunzi wa LLM ni mwakilishi mzuri wa kutosha."** **Uigaji unashughulikia wanafunzi rahisi zaidi, na wachache wamethibitishwa**: **walimu kumi na wawili** waliowafundisha wanafunzi wa LLM waliripoti **lugha ngumu kupita kiasi, hisia zinazokosekana** na tofauti nyingine kutoka kwa wanafunzi halisi. Mwakilishi anaiga kesi inayoweza kushughulikiwa.
 - **"Mwanafunzi aliyeigwa mwenye pengo la maarifa hufanya kama mwanafunzi mwenye pengo hilo."** Kuzuia **viainishi 16 vya maarifa vilivyolengwa katika Mistral-7B kulishusha usahihi kutoka takriban 0.75 katika uwiano wa kusahau wa 10% hadi chini ya 0.5 katika 40%**, huku mfano wa msingi ukishikilia. Uharibifu uliundwa kwa makusudi, jambo linalolifanya kuwa uingiliaji unaodhibitiwa badala ya uigaji.
 - **"Utulivu wa wasifu ni tatizo la uchaguzi wa mfano."** Ni **tatizo la ubuni wa mwingiliano**: kuchanganya **LLM tano na miundo mitatu ya ilani na wasifu wanne wa ukali wa ADHD**, tofauti zilizoandikwa zilifuata muundo wa ilani badala ya mfano. Kuchagua mfano bora hakurekebishi wasifu usio imara.
-
-## Dhana Zilizounganishwa
-
-- [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
-- [[simulation]]
-- [[student-modeling]]
-- [[ai-assisted-educational-research]] — Utafiti wa Kielimu Unaosaidiwa na AI
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
-- [[teacher-role]]
-
-- [[ai-avatars-and-synthetic-instructors]]
-
-
-## Makala Zilizounganishwa
-
-- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: upangaji wa kihierarkia huwafanya wanafunzi bandia kubaki kwenye wasifu kwa upeo mrefu wa muda (Radmehr et al. 2026)
-
-
-- [[tutorloop-sensor-cognitive-feedback-2026]] — Mkufunzi wa kujifunza kwa kuimarisha aliyefunzwa na kifaa cha kuiga alihamishwa nje ya mtandao kwenye kazi mpya halisi (Xu & Zhang 2026)
-
-- [[llm-student-simulation-teacher-insights]] — Je, LLM Zinaweza Kuiga Wanafunzi wa Binadamu? Ufahamu wa Walimu
-- [[llm-student-simulation-misconception-faithfulness]] — Kuiga Wanafunzi au Kutatua Matatizo kwa Kubembeleza?
-- [[llm-educational-simulation-adhd]] — Uigaji wa Kielimu unaotegemea LLM na Utulivu wa Mtu wa Mwanafunzi
-- [[simulating-students-java-programming-errors-llms]] — Kuiga Makosa ya Programu ya Java ya Wanafunzi
-- [[adaptive-virtual-patient-psychotherapy-training]] — Wagonjwa Bandia Wenye Kubadilika kwa Mafunzo ya Mipangilio ya Akili
-- [[medeasy-ai-standardized-patients]] — MedEasy: Wagonjwa Waliowekwa kwa Kawaida kwa AI
-- [[simulating-students-diverse-cognitive-levels-2025]] — Kukumbatia Ukosefu wa Ukamilifu: Kuiga Viwango Mbalimbali vya Kifikra
-- [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: mfano halisi wa mwanafunzi uliofunzwa kwa njia maalum kwa mazungumzo bandia
-- [[educasim-cs1-instructional-practice]] — EducaSim: mawakala wanaozalisha huiga sehemu ya CS1 kwa mazoezi ya walimu
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Muunganishaji wa AI wenye Uwajibikisho katika Mbinu za Kufundisha katika Elimu ya Walimu wa Hisabati
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: wakala anayezalisha anayeiga mageuko ya kifikra ya wanafunzi
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Je, AI inaweza kutoa msaada unaofaa kwa mifumo mbalimbali ya wanafunzi? Tathmini ya kiwango kikubwa
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Mawakala wa LLM mahususi wa washiriki waliorekebishwa kwa njia maalum wakirudia mazungumzo ya utatuzi wa matatizo wa ushirikiano (Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: Kufundisha Vifaa vya Kuiga Wanafunzi vinavyotegemea LLM
-- [[ai-web-agents-lesson-design-2025]] — Mawakala wa Wavuti wa AI: wakala mmoja wa kuelezea anashinda kuiga usambazaji wa wanafunzi katika kutabiri kuacha na ukosoaji wa ubuni
-- [[simulating-learner-task-selection]] — Kuiga mikakati ya wanafunzi ya kuchagua kazi na vikwazo vya mfumo katika kujifunza kwa ustadi (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — Kuelekea Upimaji Unaoweza Kupanuka wa Ujuzi wa Kudumu
-- [[agent-based-educational-science-2026]] — Kuelekea Sayansi ya Kielimu Inayotegemea Mawakala: vifaa vya uigaji kama chombo cha utafiti (Zhang, Jiang & Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: ukaguzi wa rekodi 28,000 wa utendaji wa hesabu, ujasiri na hofu katika wanafunzi bandia na wasaidizi wa AI
-- [[swim-student-writing-simulation-2026]] — kutoa ilani dhidi ya SFT dhidi ya mafunzo yanayotegemea zawadi kwa kifaa cha kuiga uandishi wa mwanafunzi
-- [[misconception-acquisition-dynamics-llms-2026]] — ni nini kinabidi kuwa katika data ya mafunzo kabla ya kifaa cha kuiga kushikilia dhana potofu hata kidogo
-- [[llm-distractor-generation-student-reasoning-2026]] — uchanganuzi wa ngazi ya alama wa jinsi mifano inavyokosa kufikiri kwa mwanafunzi
-- [[llm-simulating-student-scientific-thinking-2026]] — mifano sita dhidi ya mawazo 8,820 ya sayansi yaliyoingia katika masomo: ni wapi ufikiri ulioigwa unapopita wigo, msamiati na uhakika wa wanafunzi wadogo
-- [[simulated-students-tutoring-dialogues-2026]] — alama ya vipimo saba ya mbinu tisa za kuiga wanafunzi, pamoja na tathmini ya wanadamu ya wakufunzi watatu
-- [[simulating-novice-students-machine-unlearning-2026]] — kusahaulisha kwa mashine kama njia ya kuweka kifaa cha kuiga katika kiwango thabiti cha maarifa ya mwanafunzi mpya, na kujifunza upya kupitia mazungumzo ya kufundisha
-- [[student-development-agent-risk-free-simulation-2025]] — kutabiri matokeo ya maendeleo ya baada ya kozi ya wanafunzi kwenye jukwaa la mawakala wengi bila kuwahusisha na uingiliaji
-- [[preservice-teachers-noticing-ai-simulations-2026]] — wiki tatu za walimu wanaojiandaa kushiriki, kutafsiri na kuunda katika uigaji wa chatbot ya ishara ya usawa, na jinsi ubuni unavyoelekeza wanachogundua
-- [[beagle-grounded-learner-emulation-2026]] — kifaa cha kuiga cha neuro-simboliki kinachotekeleza muundo wa SRL kwa mwanafunzi
-- [[rudolph-llm-simulated-counselling-clients-2026]] — Wateja waliyoigwa wa ushauri hufichua haraka, hivyo wanaofunzwa huruka upatanishi wa kuwezesha
-- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: Kutoka maigizo hadi uundaji wa tabia ya mwanafunzi kwa uigaji mwaminifu
-- [[llm-goal-selection-self-directed-learning-2026]] — Uteuzi wa malengo wa mfano wa lugha unatofautiana na binadamu katika kazi ya kujifunza kwa kujielekeando badala ya kutoa ilani, na kinapita jaribio la Turing la wanadamu
-

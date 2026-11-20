@@ -24,6 +24,7 @@ ai_assist:
     date: "2026-11-13"
     agent: hermes-agent
 reviewed_by: [editor]
+connected_concepts: [vibe-coding, ai-literacy, accessibility, learning-design, design-thinking, generative-ai, privacy]
 ---
 
 **The Vibe-Coding Center** is Miguel Guhlin's free field guide for a teacher who wants to [[vibe-coding|vibe-code]] a small static educational site with an AI coding assistant — an exit ticket, a quiz, a class portfolio — without shipping an exposed API key or student data along with it.
@@ -41,7 +42,3 @@ Teachers and [[learning-design|instructional designers]] in K-12 and higher educ
 ## Notes and caveats
 
 The center is guidance, not a compliance product: the site makes no conformance claim for its own WCAG 2.2 AA target, answers "does using these files make my site compliant?" with no, and says an engineering review does not replace school authorization or legal review. The security shelf points at axe-core, Gitleaks, ZAP and Playwright; those are references rather than bundled software, and the invasive ones are meant for a disposable or explicitly authorized target. Reading needs no account. Rebuilding the HTML pages needs Python and `markdown-it-py`, which is a build dependency and not a visitor dependency. The repository is MIT-licensed, while third-party artwork and the linked projects keep their own terms, documented in `CREDITS.md`.
-
-## Connected Concepts
-
-[[vibe-coding]], [[ai-literacy]], [[accessibility]], [[learning-design]], [[design-thinking]], [[generative-ai]], [[privacy]]

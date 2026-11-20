@@ -19,6 +19,7 @@ audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
+connected_concepts: [cognitive-offloading, critical-thinking, ai-literacy, self-regulated-learning, metacognition, privacy, cognitive-surrender]
 ---
 
 **PAUSE** (Patterns of AI Use: Self-Examination) is a free self-reflection check on how AI use is shaping your own habits. It asks about the last two weeks across four areas — reasoning and critical thinking, creativity and originality, research and learning, and social and communicative capacity — adds two short thinking exercises, and returns one reading per area on a 0–100 scale plus a concrete practice to try that week. Nothing leaves the browser: no account, no upload, no analytics, and the return token that lets you compare results next month is decoded locally.
@@ -31,8 +32,3 @@ Students, instructors and researchers who want a private prompt to examine their
 
 ## Notes
 Written by Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); the design rationale and validation limits are documented in an accompanying preprint, and the source code is public.
-
-## Connected Concepts
-
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
-

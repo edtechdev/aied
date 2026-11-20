@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -96,36 +98,3 @@ PF কাঠামোকে সম্পর্কিত নকশার মা�
 - **"সহায়তা আটকে রাখা শিক্ষার্থীদের হতাশ করে ও প্রেরণার ক্ষতি করে।"** একটি তিন-শাখার [[rct|RCT]]-তে পাওয়া যায় একটি ইঙ্গিত-আটকানো টিউটর **হতাশা কমানোয় অনিয়ন্ত্রিত ChatGPT-এর সঙ্গে সমান ছিল এবং** প্রেরণায়ও — মূল্যটি দেখা গিয়েছিল **কেবল পছন্দে**। শিক্ষার্থীরা এটি ততটা উপভোগ করেনি এবং এর জন্য কষ্টও পায়নি, যার অর্থ পছন্দ-উপাত্ত যে নকশাটি কাজ করেছিল তাকেই প্রত্যাখ্যান করত।
 - **"বেশি হতাশা মানে বেশি শিখন।"** ক্রমবর্ধমান টিউটর **অনুরোধে-উত্তর-দেওয়া টিউটরের চেয়ে 0.42 স্কেল-পয়েন্ট বেশি হতাশাজনক ছিল (p < .001) এবং** সবচেয়ে হতাশাজনক শাখার চেয়ে 0.29 কম হতাশাজনক। উৎপাদনশীল পরিসর একটি মধ্য, সর্বোচ্চ নয়, তাই "কাম্য কঠিনতা" কাজটিকে অনির্দিষ্টকাল কঠিনতর করার লাইসেন্স দেয় না।
 - **"উৎপাদনশীল ব্যর্থতা মানে শিক্ষকদের সাহায্য করা উচিত নয়।"** নকশাটি *উত্তর* আটকে রাখে, অথচ গঠন ও ক্রমবৃদ্ধি সরবরাহ করে। ইঙ্গিত আটকে রাখা ও সহায়তা আটকে রাখা ভিন্ন হস্তক্ষেপ, এবং এখানে প্রমাণ কেবল প্রথমটিরই আছে।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogical-patterns]] — একটি সম্পূর্ণ ক্রম হিসেবে নির্দেশনার-আগে-প্রচেষ্টা, তার পাতলা প্রমাণভিত্তিসহ
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — প্রথম প্রচেষ্টার জন্য ভাগ করা সমস্যা-ক্ষেত্র হিসেবে কেস
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[kim-ai-productive-failure-adult-2026]] — উৎপাদনশীল-ব্যর্থতা-ভিত্তিক শিখন সমর্থনে এআই ব্যবস্থার নকশা
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — উৎপাদনশীল ব্যর্থতার জন্য এলএলএম-এর শিক্ষাবিজ্ঞানগত চালনা
-- [[rhaimi-productivemath-2025]] — ProductiveMath: PF সমস্যা-নকশায় সহায়তায় এআই
-- [[wang-safety-gap-productive-struggle-2026]] — নিরাপত্তা-ফাঁক: উৎপাদনশীল সংগ্রাম পুনরুদ্ধার
-- [[lukesova-clue-before-correction-2026]] — সংশোধনের আগে সূত্র: স্বায়ত্তশাসিত শিখনের জন্য ChatGPT
-- [[pedagogy-ai-mistakes]] — এআই ভুলের শিক্ষাবিজ্ঞান
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — সমাধান আটকে রাখা হতাশার মূল্য এড়িয়েছে কিন্তু শিক্ষার্থী-পছন্দে হেরেছে

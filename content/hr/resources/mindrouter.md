@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [llm, open-source, edtech-platform]
 ---
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
@@ -47,9 +48,3 @@ Istraživačke računalne i centralne IT skupine s postojećim GPU kapacitetom; 
 ## Napomene i upozorenja
 
 Besplatan i otvorenog koda pod Apache-2.0, ali trošak se premješta, a ne nestaje: hardver, struja i vrijeme osoblja za vođenje klastera. Softver je mlad prema infrastrukturnim mjerilima — tri suradnika, jedna ustanova podrijetla i izdanja numerirana u stotinama oznaka — pa bi ga fakultet trebao pilotirati uz postojeću uslugu, a ne kao jedini put do modela. Objavljena evaluacija ponašanja raspoređivanja i kvota pod stvarnim kampusnim opterećenjem nije u repozitoriju; rad s PEARC-a mjesto je na kojem treba tražiti vlastiti prikaz autora.
-
-## Povezani pojmovi
-
-- [[llm]]
-- [[open-source]]
-- [[edtech-platform]]

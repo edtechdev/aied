@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -63,6 +64,3 @@ terang bahwa dirinya tidak memberi nilai: alat ini menilai penjelasan terhadap k
 guru sebagai umpan balik formatif, dan gurunya tetap menilai. Perlakukan penilaian AI itu sebagai sinyal
 formatif yang tunduk pada pertanyaan validitas dan bias yang biasa, dan komitmen lingkungannya sebagai
 niat yang dinyatakan, bukan offset yang terukur.
-
-## Konsep terkait
-[[formative-assessment]], [[ai-feedback-quality]], [[feedback]], [[multimodal]], [[speech-and-voice-technologies]], [[learning-analytics]], [[k-12]]

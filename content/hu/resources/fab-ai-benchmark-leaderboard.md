@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [benchmark, digital-divide, equity-in-ai-education]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -40,9 +41,3 @@ Szakpolitikai döntéshozóknak és beszerzési csapatoknak, amelyek nemzeti ren
 ## Megjegyzések és fenntartások
 
 A ranglista a modelleket a benchmark saját feladatain méri: a magas pedagógiai pontszám azokról a tételekről szóló bizonyíték, nem az osztályteremről. Az ár oszlop a bemeneti és kimeneti tokenárakat 3:1 arányban keveri, ami modellezési döntés, nem pedig az, amibe egy adott bevezetés kerül. A nyelvek és a helyben hosztolt modellek lefedettsége változik, ahogy új modellek jelennek meg, és a kis modellek alsó tartományú pontszámai részben ugyanannyira a feladatformátumot tükrözik, mint a képességet. A Fab AI keretezése kifejezetten az alacsony és közepes jövedelmű országokról szól, így a benchmark tételkészlete ezt a kontextust tükrözi, és nem olvasandó általános oktatási rangsorként. Ellenőrizze a megjelenési dátumokat: több bejegyzés a jelenlegi modellgenerációnál korábbi.
-
-## Kapcsolódó fogalmak
-
-- [[benchmark]] — az eszközök tágabb osztálya, amelyhez ez tartozik
-- [[digital-divide]] — a korlát, amelynek láthatóvá tételére az ár és a nyílt súlyok oszlopai szolgálnak
-- [[equity-in-ai-education]] — a szakpolitikai kérdés, amelyhez a ranglista információt szolgáltat

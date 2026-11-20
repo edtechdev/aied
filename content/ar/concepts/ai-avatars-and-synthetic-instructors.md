@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -118,47 +120,3 @@ ai_assist:
 **«مظهر الصورة الرمزية تجميلي.»** غيّرت إشارات الهوية تقييمات المصداقية والتبنّي الفعلي للإرشاد، مع تراكم العقوبات على صور النساء السود الأكبر سنًّا.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) فالتهيئة قرار تربوي و[[equity-in-ai-education|إنصافي]].
 
 **«المريض المحاكى هو مريض معياري ناقص الكلفة.»** وجد المتدرّبون النفسيون مريضهم الافتراضي متعاونًا ومتقدّمًا في العلاج أصلًا، حالة «مثالية» تُمثّل نقصًا في عدم المرونة السلوكية.([[ai-psychotherapy-training-avatars]]) فالكلفة تنخفض؛ وصلاحية الحالة لا تتبع تلقائيًا.
-
-## المفاهيم المتصلة
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## المقالات المتصلة
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — إشارات هوية الصورة الرمزية تُزيح المصداقية وتبنّي الإرشاد (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — طلاب افتراضيون في حوار تعليم المدرّسين القائم على الممارسة (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — إنشاء التزييف العميق والإبلاغ عنه بحسب الجنس في ورشة محو أمية للذكاء الاصطناعي
-- [[elevate-genai-virtual-tutors]] — مدرّسون بصورة رمزية ثلاثية الأبعاد محليون أولًا بطبقة حكامة للمدرّس (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — مرضى بصورة رمزية مع قاضٍ بنموذج لغوي كبير للتواصل السريري
-- [[genai-simulate-patient-history-pbl-2026]] — مريض افتراضي مولَّد بالذكاء الاصطناعي في درس أخذ التاريخ المرضي بأسلوب PBL
-- [[ai-psychotherapy-training-avatars]] — صور مرضى رمزية لتدريب الأمانة في علاج القبول والالتزام ضمن تدريب العلاج النفسي
-- [[aclime-pedagogical-agents-extended-reality-2026]] — وكلاء تربويون في الواقع الممتد: الحضور والواقعية والحمل (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — لعب أدوار بوساطة روبوت مع صورة رمزية محرَّكة بالدمى لتدخّل المارة
-- [[personalized-ai-generated-videos-preference-2026]] — تخصيص فيديو بمدرّس مستنسخ وتفضيل الطلاب
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — إطار من أربع طبقات يفصل التمثيل عن الفاعلية في محاكاة الصف
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — وكيل صوتي محاوِر مقترح لمقابلات تغذية راجعة على المقرّر
-- [[trikonet-trivalence-co-creativity-2026]] — صور رمزية تربوية تشاركية الإبداع في شبكات اجتماعية-تقنية (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 51.7% فقط من 654 طالبًا أخذوا الأدوار التجسيدية المعروضة؛ أحدهم سمّاه آلة بيع للتغذية الراجعة

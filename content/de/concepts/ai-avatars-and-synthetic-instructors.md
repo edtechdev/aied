@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -122,50 +124,3 @@ Adoption ist eine andere Frage als Wirksamkeit: [[wang-ai-avatars-tam-doi-adopti
 **„Das Aussehen des Avatars ist kosmetisch."** Identitätshinweise veränderten Glaubwürdigkeitsurteile und die tatsächliche Übernahme von Orientierung, mit sich verstärkenden Nachteilen für ältere schwarze weibliche Avatare.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Konfiguration ist eine pädagogische und eine [[equity-in-ai-education|Gerechtigkeitsentscheidung]].
 
 **„Ein simulierter Patient ist ein standardisierter Patient minus der Kosten."** Angehende Psychologinnen und Psychologen erlebten ihren virtuellen Patienten als kooperativ und therapeutisch bereits fortgeschritten – ein „idealer" Fall, der behaviorale Inflexibilität unterrepräsentiert.([[ai-psychotherapy-training-avatars]]) Die Kosten sinken; die Fallvalidität folgt nicht automatisch.
-
-## Verbundene Konzepte
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[virtual-and-augmented-reality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[medical-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[embodied-learning]]
-- [[video-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[self-efficacy]]
-
-## Verbundene Artikel
-
-- [[wang-ai-avatars-tam-doi-adoption-2026]] — Evidenz zur Adoptionsseite: 653 Lernende, Transparenz als stärkster Prädiktor für Vertrauen (Wang et al. 2026)
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Identitätssignale von Avataren verändern Glaubwürdigkeit und die Annahme von Hilfestellungen (Anthis & Kyriakidou-Zacharoudiou 2026)
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Schüleravatare im Dialog der praxisorientierten Lehrkräftebildung (Hauk et al. 2026)
-- [[gender-differences-ai-literacy-deepfake]] — Erstellung und Meldung von Deepfakes nach Geschlecht in einem Workshop zur KI-Kompetenz
-- [[elevate-genai-virtual-tutors]] — Local-first-3D-Avatar-Tutoren mit einer Governance-Ebene für Lehrkräfte (ELEVATE)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Avatar-Patienten mit einem LLM-Judge für klinische Kommunikation
-- [[genai-simulate-patient-history-pbl-2026]] — Ein genAI-Patientenavatar in einem PBL-Tutorium zur Anamneseerhebung
-- [[ai-psychotherapy-training-avatars]] — Patientenavatare für ACT-Fidelity-Übungen in der Psychotherapieausbildung
-- [[aclime-pedagogical-agents-extended-reality-2026]] — Pädagogische Agenten in Extended Reality: Präsenz, Realismus und Belastung (ACLIME)
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robotervermitteltes Rollenspiel mit einem von einer Person gesteuerten Avatar für Bystander-Interventionen
-- [[personalized-ai-generated-videos-preference-2026]] — Video-Personalisierung mit geklonten Lehrpersonen und Präferenzen der Studierenden
-- [[theelen-classroom-simulations-four-layer-framework-2026]] — Vierschichten-Framework, das Repräsentation und Handlungsfähigkeit in der Unterrichtssimulation trennt
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Ein vorgeschlagener dialogfähiger Sprachagent für Feedback-Interviews zu Lehrveranstaltungen
-- [[trikonet-trivalence-co-creativity-2026]] — Kokreative pädagogische Avatare in soziotechnischen Netzwerken (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Nur 51,7 % von 654 Studierenden nahmen die angebotenen anthropomorphen Rollen an; eine Person bezeichnete es als Feedback-Automaten
-
-- [[wu-singing-syllabus-avatars-2026]] — Gesangslehrpläne mit virtuellen Avataren gestalten: KI-gestützte Neufassung von Lehrplänen

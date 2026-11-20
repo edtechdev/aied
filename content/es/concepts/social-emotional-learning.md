@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
+connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -117,43 +119,3 @@ El SEL conecta con la [[ai-literacy|alfabetización en IA]] (como complemento qu
 **«La baja persistencia es un problema de motivación que el ánimo puede resolver.»** La persistencia es la limitación recurrente en la tecnología educativa —el patrón que nombra [[framing-5-percent-problem-teachers-persistence|el problema del 5%]]— y la moldean la motivación y la aceptación, los obstáculos cognitivos *y* la resiliencia ante el desafío. El ánimo aborda uno de los tres. Quien deja de intentarlo porque el problema superó su memoria de trabajo no necesita que se le anime.
 
 **«Saber que la IA está disponible no cambia cómo invierte el esfuerzo el estudiantado.»** Puede cambiarlo, y el efecto va en la dirección equivocada para quienes aprenden con más dificultades: la [[ai-availability-student-motivation|disponibilidad de IA]] puede reducir el valor percibido del esfuerzo sostenido, sobre todo en personas novatas. La disponibilidad por sí sola es una intervención motivacional con signo negativo, y por eso el diseño cercano al SEL no puede tratar la presencia de un sistema útil como neutral.
-
-## Conceptos conectados
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[well-being]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[ethics]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[student-experience]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Artículos conectados
-
-- [[liu-genai-sel-mapping-review-2026]] — Una revisión de mapeo de 43 estudios sobre IA generativa y SEL: cobertura desigual de competencias y declaración ética escasa
-- [[sec-ai-literacy-narrative-review-2026]] — Integrar las competencias socioemocionales en la alfabetización en IA
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Atención a la brecha de confianza: visiones del profesorado y del estudiantado
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — El marco de alfabetización en IA andamiada (SAIL)
-- [[teacher-education-ai-literacy-sdt-2026]] — Formación docente para la alfabetización en IA (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — La dependencia del estudiantado de la IA, la autoeficacia y la gestión de recursos
-- [[self-efficacy-tutoring-learning]] — La autoeficacia y la buena disposición determinan el aprendizaje con tutoría
-- [[shame-guilt-ai-regulation-computing-education]] — La vergüenza y la culpa como reguladores sociales del uso de la IA
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — De la sustitución al andamiaje
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — Los chatbots de IA y la eficacia colectiva
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: tutoría matemática afectiva
-- [[ai-campus-wellbeing-tools]] — Herramientas de bienestar en el campus impulsadas por IA
-- [[policy-deficit-ai-sel-2026]] — El déficit de política en la investigación sobre IA × SEL
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Complementariedad entre personas e IA en el aprendizaje socioemocional temprano (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Microintervenciones emocionales en tiempo real y un repertorio de frases para el profesorado
-
-- [[shastry-gray-empathy-offloading-2026]] — Las personas descargan la empatía cuando creen que la IA puede ofrecerla (Shastry y Gray 2026)
-- [[sycophantic-ai-social-interaction-2026]] — La IA aduladora desplaza la búsqueda de consejo humano y reduce la satisfacción con la interacción real (Ibrahim et al. 2026)

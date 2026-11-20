@@ -26,6 +26,7 @@ ai_assist:
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+connected_concepts: [learning-design, pedagogical-patterns, theories-and-frameworks, ai-assisted-educational-research, limitations-in-aied-research, interpreting-and-applying-aied-research]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -44,6 +45,3 @@ translation_note: "Автоматический перевод данной ан
 ## Примечания и оговорки
 
 Читайте панель доверия на каждой странице. Языковые модели поддерживают вики под началом одного человека-куратора, ни одна страница не проверена человеком, и сайт называет страницу хорошо проработанной зацепкой, а не выводом. Утверждения несут уровень дизайна, код размера эффекта и код строгости, а «размер эффекта не напечатан» означает, что источник его не сообщил, а не что его не существует. Контент распространяется по CC BY-SA 4.0, поэтому при повторном использовании нужна та же лицензия, а код — MIT.
-
-## Связанные концепции
-[[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -59,33 +61,3 @@ RAG [[llm]] کی فائن ٹیوننگ کا تکمیلی کردار ادا کر�
 - **"بازیافت کا معیار ہی سارا مسئلہ ہے۔"** ریٹریول ضروری ہے اور کافی نہیں۔ کھڑے جواب دینے نے **10 میں سے 9.05 اسکور کیا اور فرق پر bootstrap CI صفر کو خارج کرتا ہے** اور **زیادہ تر اُس مواد میں کھڑا تھا جو جواب دینے والے نے واقعی دیکھا (98% بمقابلہ 81%)** — یعنی ناپا گیا فائدہ ثبوت کے ساتھ وفاداری میں ہے، اور اِس وفاداری کے بامعنی ہونے کے لیے ثبوت کا درست ہونا ضروری ہے۔
 - **"ایک صفحے کی بازیافت عمومی نوعیت رکھتی ہے۔"** دونوں خلا **اُن سوالات پر تقریباً تین گنا ہو گئے جنہیں ایک سے زیادہ صفحے کا مواد چاہیے** (بین الصفحات اسکور 9.93 بمقابلہ نچلی بنیاد)۔ کثیر دستاویزی استدلال وہ جگہ ہے جہاں کھڑے نظام گرتے ہیں، اور یہی وہ جگہ ہے جہاں کورسز سب سے مشکل سوال پوچھتے ہیں۔
 - **"بازیافت جانچ کی ضرورت ختم کر دیتی ہے۔"** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] ایک ماڈیول کے منظور شدہ مواد سے بازیافت کرتا ہے تاکہ اُن طلبہ کی خدمت کرے جو کسی شخص سے پوچھنے میں ہچکچاتے ہیں — یہ ایک قابلِ دفاع دائرہ ہے۔ تنگ، منظور شدہ کارپس ہی کھڑے ہونے کو بامعنی بناتے ہیں؛ صرف لیبل نہیں۔
-
-## منسلک تصورات
-
-- [[llm]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[higher-ed]]
-- [[ai-technologies]] — چھتری: AI ٹیکنالوجیز اور تکنیکیں (ماڈل، LLM تربیت، روبوٹکس، RAG، ایجنٹک)
-
-## منسلک مضامین
-
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — نصاب پر مبنی سبق کا معاون جس کی وقت کی بچت عام چیٹ بوٹ سے زیادہ نہ ہوئی
-
-- [[eduguard-safe-rag-llm-tutor]]
-- [[eduzone-llm-safety-k12]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[structrag-diagram-reasoning-ai-tutoring]]
-- [[book-level-synthetic-textbook-organization]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: نظریاتی کمپیوٹر سائنس کی تعلیم کے لیے ریٹریول سے افزودہ تخلیق — الگورتھم کے تجزیے اور پیچیدگی کے نظریے کے لیے ایک جامع جانچ فریم ورک
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — تعلیمی سہارے کی راہ میں رکاوٹیں کم کرنا: اعلیٰ تعلیم میں مدد طلب کرنے کی تفاوتوں کے لیے کورس کے مخصوص RAG نظام کا جائزہ
-- [[wiki-llm-indexing-ml-classes-2026]] — ویکی LLM انڈیکسنگ کے ذریعے مشین لرننگ کلاسوں میں بہتر سیکھنے کا امکان
-- [[on-premises-rag-tutoring-business-education-2026]] — بزنس تعلیم کے لیے مقامی کثیر کورس RAG ٹیوٹرنگ

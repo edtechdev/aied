@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, vibe-coding]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -47,9 +48,3 @@ TI central e de pesquisa que fornece plataformas e revisão; escritórios de gov
 ## Notas e ressalvas
 
 Ele se descreve como um projeto pessoal independente, e não como política institucional ou assessoria jurídica; instituições nomeadas aparecem porque publicaram relatos da própria prática, não como endosso, e os casos de discussão são compostos. Seus exemplos jurídicos são americanos (FERPA, ADA Título II, GLBA) e datados onde aparecem, embora ele argumente que o caminho, as perguntas, os níveis de dados e as abordagens não dependem deles. Sua página de evidências vincula cada estudo, colocando ganhos em uma tarefa delimitada ao lado de desacelerações para mantenedores experientes no próprio código, e admite que os dados de ensaios cobrem sugestão de código e não trabalho guiado por especificação ou multiagente, de modo que o argumento por mais estrutura se apoia na prática e na lógica de conformidade. Nenhuma licença de reúso é declarada. Os sites irmãos [campusdatagov.com](https://campusdatagov.com/) e [campusairegistry.com](https://campusairegistry.com/) carregam as partes de governança de dados e de registro de agentes, então esta é uma boa porta de entrada para o trabalho de [[educational-policy-ai]], mas não um substituto para ele.
-
-## Conceitos conectados
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[vibe-coding]]

@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика.*
@@ -60,7 +62,6 @@ LearnAI показва как изглежда вградената версия
 
 PRISMA преглед на 39 STEAM изследвания (2016–2025) установи паралелен дисбаланс в елементите на AI грамотността: реализациите развиваха технически грамотности — фундаментални AI концепции, [[computational-thinking|изчислително мислене]], [[statistics-and-data-science-education|грамотност за данни]] — докато недоразвиваха етичното осъзнаване, творческото въображение и създаването, управлението и проектирането с AI, така че одитът на всяка единица спрямо тях е практичният отговор ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
 
-
 [[student-experience|Ученическият глас]] е друг вход за дизайна: 84% от 166 студенти по бизнес в последна година искаха GenAI да се преподава в техните модули, а 85% го виждаха като съществено за пригодността за работа, докато само 7% бяха учили за него от своя университет ([[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]]).
 
 Преглед на 42 изследвания върху предуниверситетското [[ai-education|AI образование]] установява, че учебните програми се движат от техническо съдържание към компетентностни модели, изградени върху рамки като AI4K12 и Five Big Ideas in AI, като [[ai-literacy]] се третира като междупредметна компетентност, докато стандартизираните инструменти за оценяването ѝ остават отсъстващи ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
@@ -70,7 +71,6 @@ PRISMA преглед на 39 STEAM изследвания (2016–2025) уст�
 Дизайнът на ML дейности в K-12 остава на повърхността: преглед зад рамката ICE-T установи, че невидимото използване, взаимодействието с бутони и внедряването на модели съставляват почти 60% от кодираните дейности по контролирано обучение, отвореното създаване се появи само два пъти, а техническата и обществената перспектива се срещат заедно в едва около 3% от дейностите ([[icet-ml-education-trust-2026|Haritz et al., 2026]]).
 
 **[[discipline-specific-aied|Дисциплинарно-специфичните]] иновации в учебната програма** прилагат дизайна на учебната програма към конкретни области. **[[genai-architecture-education]]** изследва как генеративният AI преоформя архитектурната дизайнерска [[pedagogy|педагогика]]. **[[talebzadeh-ai-green-education-2026]]** изследва интеграцията на AI в учебните програми за „зелено“ образование. **[[connected-ai-lesson-planning-vietnam]]** и **[[llm-cultural-relevance-k12]]** адресират [[culturally-relevant-pedagogy|културно-отзивчивия дизайн на учебната програма]].
-
 
 **Вградете AI в дисциплината, а не до нея.** Тристепенна (въвеждаща, приложна, напреднала) AI учебна програма вгради [[machine-learning|машинното обучение]] в съществуващи теми по топлотехника в рамките на 39,1-часов курс, вместо да добавя избираеми курсове по информатика, избягвайки допълнително натоварване на студентите по машинно инженерство и публикувайки открито своята учебна програма, данни и код ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
 
@@ -100,7 +100,6 @@ PRISMA преглед на 39 STEAM изследвания (2016–2025) уст�
 
 Дизайнът на учебната програма се свързва пряко с [[learning-design]] — учебната програма определя какво, инструкцията определя как. Той се свързва с [[ai-literacy]], защото вграждането на AI компетентности е основно предизвикателство за учебната програма, с [[teacher-role]] и [[educational-development]], защото промяната на учебната програма изисква подготовка на преподавателите, и с [[scaffolding]], защото добре проектираните учебни програми скафолдват развитието на умения през курсовете и годините. Връзките с [[higher-ed]] и [[k-12]] отразяват релевантността на дизайна на учебната програма на всички образователни нива.
 
-
 **Изборът на една рамка за AI грамотност означава избор на речник, който никой не е съпоставил.** В обзорен преглед на 50 рамки за K-12 [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] установиха, че дефинициите на компетентностите се събират около когнитивно, афективно, поведенческо, етично и социално измерение, докато етикетите и конструктите не се подравняват. Само рамката ABCE се доближава до споделена традиция за измерване, валидирана в Хонконг, Шанхай и Тайван, а прогресията между класовете беше предлагана многократно и не беше тествана никъде.
 
 ## Чести заблуди
@@ -108,56 +107,3 @@ PRISMA преглед на 39 STEAM изследвания (2016–2025) уст�
 - **„Един [[llm]] може да картографира учебна програма, след като бъде валидиран с висока надеждност.“** GPT-o3-mini разпредели **100% между седем умения за предприятието за всяка от 48 оценки**, достигайки **Krippendorff's alpha от 0,81** спрямо експертните тегла — и **съгласието** се разпадна за определени умения. Високата обща надеждност с неравномерно съгласие е моделът, който трябва да се провери, преди да се доверите на картографирането.
 - **„Вграждането на AI грамотност означава добавяне на курс.“** LearnAI показва вградената форма: **широк слой на експозиция от кратки презентации в 18 съществуващи курса в пет дисциплини (293 студенти)**. Експозицията беше разпределена през учебната програма, вместо да бъде събрана в един модул.
 - **„Студентите идват вече способни да оценяват медиите критично.“** Само **13,8% от анкетираните студенти по образование и журналистика** казаха, че курсовата им работа е обхващала критичен медиен анализ, срещу **97,8%, които го оценяват като важно**. Пропускът между цененето на едно умение и преподаването му е отворът в учебната програма.
-
-## Свързани концепции
-- [[pedagogical-partnerships]] — Педагогически партньорства
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Зонтична: педагогики и преподавателски стратегии в AI образованието
-- [[recommender-systems-and-learning-paths]]
-
-## Свързани статии
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Тегловно картографиране на умения, валидирано от експерти, за акредитация
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Критичен дискурсен анализ на ръководствата за GenAI за конструктивно подравняване (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Адресиране на доверието в AI системите чрез образование: дидактическа перспектива
-- [[refrain-amplify-genai-curriculum-2026]] — Рамка „задръж, после усили“ за подреждане на GenAI в учебната програма (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Проектно-базирана учебна програма по AI в топлотехниката
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Рамка за ниво на готовност за работната сила за интелигентно производство в ерата на AI
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Пренаписване на учебната програма: педагогическа промяна, водена от GenAI
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Рамка за AI умения: 26 оценими умения за картографиране на учебната програма
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: съвместно създаване на AI точно навреме в различни дисциплини
-- [[ai-video-dual-gatekeeping-2026]] — Когато казването на „не“ прави по-добри видеа: двойно филтриране за педагогически обосновано създаване на AI съдържание
-- [[niri-steam-ai-literacy-review-2026]] — STEAM образование за AI грамотност: систематичен преглед
-- [[caruana-pre-university-ai-education-slr-2026]] — Подготовка на обучаемите и учителите за бъдеще, движено от AI: систематичен преглед на предуниверситетското AI образование (Caruana et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI платформа, генерираща задачи по математическо моделиране (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI в образованието по физика на елементарните частици: изследователски проблеми и фундаментални умения
-- [[computing-assessment-genai-workshop-report-2026]] — AI може да напише домашното ви. И сега какво? Доклад от онлайн работна среща за оценяването по информатика в ерата на генеративния AI
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — компетентностните рамки се събират около пет измерения без споделен речник или съпоставка
-- [[bursic-ai-residency-education-curriculum-2026]] — Пречки пред интегрирането на AI в учебните програми за специализация: качествени интервюта с дванадесет ръководители на лекари

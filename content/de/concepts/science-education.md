@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [stem-education, physics-education, chemistry-education, biology-education, inquiry-based-learning, misconceptions, simulation, generative-ai]
+connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, ai-methodologies-science-education-research-2026, ai-science-chemistry-education-systematic-review-2025, jiang-chatgpt-inquiry-steam-review-2026, ai-supported-inquiry-photosynthesis-respiration-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-grading-handwritten-physics-2026, avraamidou-ai-colonization-science-education, pre-service-science-teachers-ai-perceptions-2026, ai-assisted-inquiry-ssi-climate, auto-marking-short-answer-science-2026, an-goel-self-directed-modeling-2026, cvengros-grading-handwritten-chemistry-ai-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-tutoring-micro-rct-gcse-science-2026, llm-benchmark-secondary-science-topics-2026, nature-of-science-generative-ai-2026, ai-university-physics-education-review-2026, genai-learning-motivation-meta-analysis-2026, laiskhanov-ai-gis-geography-education-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -83,38 +85,3 @@ Als Rahmenwerk statt als Studie rahmen [[zhai-science-literacy-generative-ai-coh
 - **„KI in der Naturwissenschaftsbildung hat keine kausale Evidenz."** Eine **vierwöchige randomisierte Evaluation** einer KI-Überarbeitungsplattform im GCSE-Naturwissenschaftsunterricht liefert eine kausale Schätzung von **Hedges' g = 0.33**, ohne **Belege dafür, dass der Effekt nach Fach differierte**. Der Effekt ist bescheiden, und er ist kausal.
 - **„Geben Sie den Lernenden Zugang, und die Gewinne folgen."** **Strukturierter Zugang, nicht der Zugang selbst, treibt den Gewinn**: vom Team berichtetes Wachstum lag im Mittel bei **17 % bei unbegrenztem individuellem Zugang, aber bei 34 % und 31 %, wenn der Zugang strukturiert war**. Die Struktur war die Intervention.
 - **„Wissenschaftliche Simulation braucht Spezialsoftware."** Ein **vierteiliger natürlichsprachlicher Prompt** kann eine **handgesteuerte Physiksimulation in erweiterter Realität** erzeugen. Die Hürde beim Verfassen einer Simulation fiel auf das Prompt-Design, was die verlangte Fähigkeit vom Programmieren auf das Spezifizieren des Phänomens verschiebt.
-
-## Verbundene Konzepte
-
-- [[stem-education]]
-- [[physics-education]]
-- [[chemistry-education]]
-- [[biology-education]]
-- [[inquiry-based-learning]]
-- [[misconceptions]]
-- [[simulation]]
-- [[generative-ai]]
-
-## Verbundene Artikel
-- [[zhai-science-literacy-generative-ai-coherence-2026]] — Rahmenwerk-Kapitel zu Naturwissenschaftskompetenz als Kohärenz über Curriculum, Unterricht und Assessment hinweg (Zhai et al. 2026)
-- [[ai-methodologies-science-education-research-2026]] — Siebenphasiges Rahmenwerk epistemischer Iteration, um darüber nachzudenken, wie KI-Methodologien die Forschung zur Naturwissenschaftsbildung transformieren könnten (Martin et al., 2026)
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematischer Review zu KI in Naturwissenschafts- und Chemiedidaktik
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT für erkundungsbasiertes Lernen in STEAM
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — KI-unterstützte gelenkte Erkundung bei Photosynthese und Atmung
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Conceptual-Change-Texte vs. KI-Dialog zu Wärme und Temperatur
-- [[ai-grading-handwritten-physics-2026]] — Großmaßstäbliche KI-Bewertung handschriftlicher Physikassessments
-- [[avraamidou-ai-colonization-science-education]] — Kritischer Kommentar zur KI-Kolonisierung der Naturwissenschaftsbildung
-- [[pre-service-science-teachers-ai-perceptions-2026]] — KI-Wahrnehmungen und -akzeptanz Lehramtsstudierender in Naturwissenschaft
-- [[ai-assisted-inquiry-ssi-climate]] — KI-gestützte Erkundung bei sozio-wissenschaftlichen Fragen zum Klimawandel
-- [[auto-marking-short-answer-science-2026]]
-- [[an-goel-self-directed-modeling-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — KI-Tutoring in der Geschwindigkeit der Innovation evaluieren: von Praxislehrkräften geleitete mikro-randomisierte Studien einer KI-Tutoring-Plattform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — Ein Benchmark für das Verständnis von LLMs für naturwissenschaftliche Themen der Mittel- und Oberstufe
-- [[nature-of-science-generative-ai-2026]] — Das Wesen der Naturwissenschaft im Zeitalter generativer künstlicher Intelligenz: epistemische Autorität, Materialität und eine synergetische Antwort
-- [[ai-university-physics-education-review-2026]] — Strukturierter Teamzugang übertraf uneingeschränkten individuellen Zugang in einem KI-Review zu Universitätsphysik
-- [[genai-learning-motivation-meta-analysis-2026]] — Die einzige Domäne, deren Motivationsintervall die Null schnitt (g = 0,109, k = 3)
-
-- [[laiskhanov-ai-gis-geography-education-2026]] — Allgemeine KI-Vertrautheit übertrug sich nicht auf GeoAI-Bereitschaft
-

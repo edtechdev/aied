@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -110,38 +112,3 @@ AIを使う学生は通常、AIが利用可能な課題で**即座の測定可�
 **「転移はより有能なモデルから生まれる。」** 転移はそれを生む条件から生まれます。実践の一般性、文脈の変動性、そして学習者が推論をどれだけ自分で生成したかです。モデルの能力は支援された遂行の上限を上げますが、モデルが去った後に残るものに対して特に何かをするわけではありません。
 
 **「手引きは常に転移を支えるので、手引きは多いほどよい。」** 推論を代行する手引きは、転移が依存する過程の代わりになります。区別は、学習者が次の一歩を生み出し続ける助けと、それを代わりに生み出す助けの間にあり、転移の側にあるのは前者だけです。
-
-## 関連概念
-
-- [[pedagogical-patterns]] — これらの連鎖が最終的に判断される成果
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[learning-theories]]
-- [[productive-failure]] — 生産的な失敗
-
-## 関連記事
-- [[yan-agentivism-learning-theory-ai-2026]] — 4つのメカニズムと6つの検証可能な命題を備えた、人間とAIの相互作用のための中範囲学習理論（Yan and Gašević 2026）
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — 生成AI支援の執筆における層に敏感な認知的オフローディング（Chen 2026）
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 成績と学習の区別と持続的な転移
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的な失敗のためのLLMの教授法的な操縦
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — 素粒子物理学教育におけるAI。研究問題と基礎的スキル
-- [[shi-genai-experiential-learning-management-education-2026]] — 保護された教室のシミュレーションが、その外側では失敗する意思決定の習慣を形成しうると論じる
-
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI支援の発話練習は人間に対する意欲を高めたが、どの研究も人間の発話を観察しなかった
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred。机上の機能的ロボットの具体化を通じた拡張学習
-
-- [[cognitive-washout-ai-skill-decay-2026]] — 認知のウォッシュアウト：支援撤回後の期間と22週間の測定プロトコル（Yajee 2026）
-

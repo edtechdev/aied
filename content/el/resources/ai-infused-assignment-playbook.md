@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, metacognition, academic-integrity, formative-assessment, authentic-assessment, curriculum-design, ai-use-disclosure, prompt-engineering]
 ---
 
 *Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*
@@ -47,16 +48,3 @@ ai_assist:
 ## Σημειώσεις και επιφυλάξεις
 
 Πρόκειται για πρακτικό οδηγό, όχι για εμπειρική μελέτη· οι ισχυρισμοί του για τη χρήση ΤΝ από φοιτητές στηρίζονται σε αναφερόμενες εξωτερικές πηγές (BestColleges, Campbell, Digital Education Council, Flaherty) και όχι σε νέα δεδομένα. Το πλαίσιο της «δόμησης δικτύου» και η διατύπωση της «ψευδαίσθησης της κατανόησης» αντλούνται από την ευρύτερη βιβλιογραφία (Wigmore και συνεργάτες· Williamson και συνεργάτες) και παρουσιάζονται ως παιδαγωγικό σκεπτικό, όχι ως δοκιμασμένα αποτελέσματα του ίδιου του εγχειριδίου. Οι εργασίες είναι συνταγμένα πρότυπα — καμία δεν αναφέρεται με μέγεθος επίδρασης, οπότε θα πρέπει να αντιμετωπίζονται ως σχέδια προς προσαρμογή και τοπική αξιολόγηση. Δημοσιεύθηκε 2026-10-07, v1, στο Zenodo υπό CC BY 4.0· δωρεάν λήψη χωρίς λογαριασμό. Κατά την εισαγωγή η εγγραφή δείχνει μόνο ~35 προβολές και ~14 λήψεις, οπότε έχει δει ελάχιστη εξωτερική χρήση ή αξιολόγηση από ομότιμους μέχρι τώρα.
-
-## Συνδεδεμένες έννοιες
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[curriculum-design]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]

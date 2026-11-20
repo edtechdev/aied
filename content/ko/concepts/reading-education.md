@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
+connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -98,33 +100,3 @@ ai_assist:
 - **"AI 생성 텍스트는 수준에 맞춰 생성되므로 더 쉽습니다."** 모형 출력에 대한 증거는 반대 방향을 가리킵니다. 최전선 모형은 이해 비용과 연관된 구문을 과도하게 사용합니다.
 - **"AI와 함께 읽는 것은 하나의 행동입니다."** AIR 척도는 네 가지 서로 다른 동기를 발견하며, 그것들은 서로 다른 종류의 사용을 예측합니다.
 - **"AI가 텍스트를 다시 쓸 수 있다면 읽기 수준은 더 이상 중요하지 않습니다."** 수준별 조정은 지문의 구조적 복잡성을 낮추는 것과는 다른 개입으로, 지문 주변의 지원을 바꿉니다.
-
-## 연결된 개념
-
-- [[ai-education]] — 이 영역이 속한 상위 개념
-- [[language-learning]] — L2 읽기는 겹치지만 그곳의 대상은 습득입니다
-- [[writing-education]] — 리터러시의 구성 측면
-- [[english-education]] — EAP/EFL/ESL 읽기와 이독성
-- [[educational-nlp]] — 이독성이 의존하는 텍스트 측정 층위
-- [[assessment]] — 읽기 평가와 점수 타당도
-- [[motivation]] — 독자가 AI를 쓰는 이유, 그리고 그것이 처리에 미치는 영향
-- [[scaffolding]] — 수준별 읽기 자료의 지원 층위
-- [[neurodiversity]] — 난독증과 읽기 난이도
-- [[accessibility]] — 인간 가독성 대 기계 가독성
-- [[generative-ai]] — 생성되고 적응된 텍스트의 배후 기술
-
-## 연결된 문서
-
-- [[air-scale-motivations-ai-reading-2026]] — GenAI와 함께 읽는 동기에 관한 검증된 척도
-- [[almirabi-ai-reading-assessment-motivation-2026]] — EFL 교실에서의 AI 매개 읽기 평가
-- [[genai-differentiated-eap-reading-materials-2026]] — 수준별 EAP 읽기 자료
-- [[llm-children-reading-story-generation]] — 수준 통제 어린이 읽기 이야기
-- [[text-simplification-its]] — 튜터링을 위한 텍스트 단순화 평가
-- [[clara-developmental-appropriateness-children-stories-2026]] — 이독성 공식을 넘어선 발달적 난이도
-- [[bird-multimodal-educational-literature-2026]] — Key Stage별 문학 분류
-- [[clark-ai-generated-language-readability-2026]] — AI 생성 언어가 더 읽기 어려운 이유
-- [[sidorkin-ai-generated-course-readings-2026]] — 맞춤형 AI 생성 강좌 읽기 자료
-- [[airri-machine-resistant-reading-interface-2026]] — 기계 저항형 읽기 인터페이스와 그 이독성 비용
-- [[chatgpt-feedback-orientation-chinese-reading-2026]] — 중등 읽기에서의 ChatGPT 피드백
-- [[dabaghi-ai-dyslexia-education-review-2026]] — 난독증 학습자를 위한 AI
-- [[kreijkes-llm-note-taking-reading-comprehension-2026]] — 중등학교에서의 LLM 사용, 노트 필기, 읽기 이해: 무작위 비교

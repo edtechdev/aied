@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -74,34 +76,3 @@ ai_assist:
 **"जनरेटिव AI ने शिक्षा में शास्त्रीय मशीन लर्निंग को अप्रचलित कर दिया है।"** ये अलग काम करते हैं। शिक्षार्थी अवस्थाओं का पूर्वानुमान, कठिनाई आकलन और प्रगति पूर्वानुमान शास्त्रीय ML समस्याएँ बनी हुई हैं, और इस कोर्पस में दर्ज ज्ञान-अनुरेखण तथा मद-अंशांकन साहित्य किसी भाषा मॉडल से नहीं सधता। जनरेटिव AI मशीन लर्निंग का उपसमुच्चय है, उसका प्रतिस्थापन नहीं।
 
 **"शिक्षक शिक्षा को छात्रों को मशीन लर्निंग के बजाय LLM के बारे में पढ़ाना चाहिए।"** साक्षरता को जनरेटिव परत तक सीमित करना व्यवसायियों को उन पूर्वानुमानी प्रणालियों से प्रश्न करने में असमर्थ छोड़ देता है जो उनके छात्रों के बारे में निर्णय लेती हैं, और परिणामकारी त्रुटियाँ वहीं केंद्रित होती हैं।
-
-## संबंधित अवधारणाएँ
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## संबंधित लेख
-
-- [[at-risk-students-ml-prediction]] — कोर्स छोड़ने के जोखिम में छात्रों की पहचान के लिए सुपरवाइज़्ड ML वर्गीकरण
-- [[trace-course-grade-prediction-2026]] — पाठ्यक्रम और अंकों की संयुक्त भविष्यवाणी करने वाला ट्रांसफ़ॉर्मर (TRACE)
-- [[precision-education-student-digital-twins-2026]] — निवारक, करियर-संरेखित मार्गों के लिए एआई-संचालित छात्र डिजिटल ट्विन
-- [[sc2r-counterfactual-recourse-educational-2026]] — कार्रवाई योग्य हस्तक्षेप के लिए शब्दार्थ-बाधित प्रतिवादी गोद
-- [[interactive-online-learning-ai-2025]] — इंटरैक्टिव ऑनलाइन-सीख भविष्यवाणी के लिए DMO-GRU संकर
-- [[adaptive-scaffolding-cognitive-engagement-its]] — एक ITS में संज्ञानात्मक जुड़ाव की अनुकूली स्कैफोल्डिंग (BKT बनाम DRL)
-- [[pedagogical-safety-rl]] — शैक्षणिक रिइन्फोर्समेंट लर्निंग में शैक्षणिक सुरक्षा के लिए औपचारिक ढाँचा
-- [[automated-online-exam-proctoring-decade-review-2026]] — डीप-लर्निंग स्वचालित परीक्षा निगरानी की दशक-लंबी समीक्षा
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — आत्मीयता मैपिंग के साथ परिणाम-आधारित ज्ञान अनुरेखण
-- [[bird-multimodal-educational-literature-2026]] — शैक्षणिक साहित्य के वर्गीकरण के लिए बहु-माध्यम संलयन
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM और वृक्ष-आधारित ML का उपयोग करके प्रश्न कठिनाई का आकलन
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — NLP और मशीन लर्निंग का उपयोग करके पाकिस्तानी विश्वविद्यालय के छात्रों में तनाव पहचान और तंदुरुस्ति सहायता के लिए एआई-संचालित सांस्कृतिक जागरूक चैटबॉट
-- [[synthetic-educational-data-structural-fidelity-2026]] — निष्ठा मेट्रिक क्या चूकते हैं: संश्लेषित शैक्षणिक डेटा पर एक संरचनात्मक जाँच

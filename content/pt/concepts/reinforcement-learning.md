@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -69,29 +71,3 @@ O RL sustenta muito do design moderno de [[agentic-ai|IA agêntica]] e [[intelli
 **"Horizontes mais longos são simplesmente melhores."** Eles permitem o que horizontes mais curtos não permitem, e exigem que a recompensa esteja correta ao longo de toda a sequência. O [[residencyrl-clinical-rl-training-2026|ResidencyRL]] otimiza **encontros clínicos completos de 60 turnos**, muito além dos horizontes de ≤12 turnos dos sistemas de diálogo concorrentes, o que eleva o custo de um objetivo mal especificado em vez de reduzi-lo.
 
 **"O RL é o formalismo adequado para a tutoria porque ensinar é sequencial."** A sequencialidade é necessária e não suficiente; a restrição vinculante é a validade da recompensa. Um objetivo bem especificado com uma política fraca supera uma política forte contra um objetivo errado.
-
-## Conceitos conectados
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentes)
-
-## Artigos conectados
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF para seguir instruções pedagógicas
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Andaimes ICAP adaptativos em um ITS (BKT vs DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

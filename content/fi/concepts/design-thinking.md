@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
@@ -66,40 +68,3 @@ Muotoiluajattelu tekoälykoulutuksessa on syvästi kietoutunut [[human-ai-collab
 **"Muotoiluajattelu on prosessi, joka voidaan automatisoida vaihe vaiheelta."** Se on ongelmien kehystämisen ja uudelleenkehystämisen oppiaine, jonka jumiutuminen sulkee pois. Vaiheiden automatisointi kehyksen jäädessä tutkimatta tuottaa pätevää tuotosta väärään ongelmaan.
 
 **"Tekoälyagentit, jotka ovat samaa mieltä, [[student-support-and-success|tukevat oppijaa]] tämän suunnittelupäättelyssä."** Tässä dokumentoitu tuottava käyttö kulkee päinvastaiseen suuntaan: [[ai-agents-constructive-conflict-design-education-2026|rakentavat konfliktit tekoälyagenttien kanssa]] testaa vastakkainasettelevaa kehottamista, joka pakottaa uudelleenharkintaan. Myötäilevä agentti vahvistaa jumiutumista; erimielisyyteen suuntautuva agentti on se suunnittelu, jonka takana on kasvatuksellinen väite.
-
-## Liittyvät käsitteet
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## Liittyvät artikkelit
-
-- [[design-thinking-aigc-fashion-film-2026]] — Muotoiluajattelun ajattelutapa oppimisvaiheiden yli AIGC-tuetussa muotielokuvasuunnittelussa (Liu et al. 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: generatiivisen tekoälyn käyttö arkkitehtuuriopiskelijoiden tukena suunnittelutehtävissä
-- [[genai-architectural-design-studios]] — Generatiivisen tekoälyn kehittäminen ja sovellukset arkkitehtisuunnittelun studioissa
-- [[social-robot-study-companions]] — Rakennettavien ja avoimien sosiaalisten robottiopiskelukumppanien yhteisluominen yliopisto-opiskelijoiden kanssa
-- [[gaide-vibe-coding-k12-teachers]] — Ohjaava viitekehys K-12-opettajille tekoälyvoimaisten oppimisteknologioiden luomiseen vibe codingin kautta
-- [[dot-framework-survey-2026]] — DOT-viitekehyksen kysely: ammattilaisten uskomukset ja käyttäytyminen tekoälyllä vahvistetussa koulutuksessa
-- [[ai-agents-constructive-conflict-design-education-2026]] — Rakentavien konfliktien toteuttaminen tekoälyagenttien kanssa uudelleenharkinnan lisäämiseksi aloittelevilla vuorovaikutussuunnittelijoilla
-- [[genai-usage-design-students-survey]] — Tutkimus GenAI:n käytöstä suunnitteluopiskelijoilla: kyselytulosten ja AI-käytäntöpäiväkirjojen analyysi Politecnico di Milanossa 2025/2026

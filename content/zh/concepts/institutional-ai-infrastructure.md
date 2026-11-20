@@ -19,6 +19,8 @@ ai_assist:
 translation_of: concepts/institutional-ai-infrastructure
 source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -139,29 +141,3 @@ IT 与图书馆领导可以把网关做成政策被执行的地方。Fontys、Mi
 **“买 GPU 就是战略。”** 没有调度、配额与支持的容量会变成队列。成功的案例对治理与运营的描述至少与对硬件的描述一样多。
 
 **“AI 问题就是聊天机器人。”** 这批文献所描述的多数机构价值位于课程衔接、工作量分析、标注与评估记录之中，而在那里，从来没有学生打开过聊天窗口。
-
-## 关联概念
-
-- [[open-source]]
-- [[rag]]
-- [[privacy]]
-- [[governance]]
-- [[edtech-platform]]
-- [[llm]]
-- [[digital-divide]]
-- [[assessment]]
-- [[shadow-ai]]
-
-## 关联文章
-
-- [[huijts-suilen-institutional-ai-sovereignty-gateway-2025]] — Fontys ICT：一个面向 300 名用户的受治理网关，带模型卡与每月 \$500 的上限
-- [[rodenbeck-purdue-on-prem-genai-inference-2025]] — 普渡：两项校园推理服务、1000 多名用户、10 多个模型、以 Ollama 取代 vLLM
-- [[rahaman-soa-on-prem-ai-gateway-2026]] — SPIN：在 API 边界上把控制与服务分开，并带经过负载测试的代理层
-- [[sheneman-mindrouter-institutional-ai-sovereignty-2026]] — MindRouter：开源网关中的公平份额调度、配额与能耗核算
-- [[guadalupe-academic-chatbot-local-llm-2026]] — ESPOL：以本地模型做混合检索，通过中位数延迟目标但未达 p95
-- [[zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026]] — 来自小学教育的一项学校规模 SLM 论证
-- [[pardos-borchers-institutional-workflows-oecd-2026]] — OECD 关于课程衔接、工作量分析与评估生产的章节
-- [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI：连接学习证据的六个层
-- [[on-premises-rag-tutoring-business-education-2026]] — CourseChat：保留一个 8B 模型，取代未通过延迟门槛的更大候选
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA：一个本地推理模型，把 FERPA 问题取消掉而非去管理它
-- [[making-ai-work-for-students-ofs-2026]] — OfS 与 Advance HE（2026）：127 所机构的 244 名员工与 91 名学生，谈检测、评估设计、AI 素养与战略

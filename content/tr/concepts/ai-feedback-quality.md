@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -48,7 +50,6 @@ Kontrollü bir karşılaştırma, geri bildirim bileşenini uyarlanabilir sistem
 - **Destekleyici bir geri bildirim dizisi bile öğrenmeye zarar verebilir.** [[sequenced-ai-feedback-learning|Cao et al. (2026)]], teşvik → ipuçları → doğru cevap dizisinin algılanan teşvidi artırmasına rağmen son test puanlarını düşürdüğünü (B = −0,83, p = .02) bulmuş; sık yeniden gönderimler daha kötü performansı öngörmüştür (B = −0,33, p = .001); dolayısıyla etkileşim ve memnuniyet [[learning-gains|learning]] vekilleri değildir.
 
 - **Bir dilbilgisi geri bildirimi ve revizyon döngüsü yazmayı, güveni ve üst dilsel farkındalığı hareket ettirdi.** [[wordofa-genai-grammar-instruction-efl-2026|Wordofa ve Abo (2026)]], YZ destekli bir taslak–yansıt–revize koşulunun, ön test puanları ortak değişken olarak kontrol edildikten sonra beş yazma boyutunun tamamında geleneksel öğretimi geride bıraktığını buldu (F(5, 77) = 20,885, kısmi η² = 0,576); yazma [[self-efficacy|öz yeterliği]] kısmi η² = 0,254 idi.
-
 
 - **Geri bildirim sınıflandırma [[benchmark|benchmarks]]:** [[teaching-feedback-classification-benchmark|Cross-language feedback benchmarks]], geri bildirim kalitesi sınıflandırmasının diller ve eğitim bağlamları arasında aktarılıp aktarılmadığını değerlendirir; bu, [[ai-ed-evaluation]] ile bağlantılıdır.
 
@@ -128,74 +129,9 @@ Bu nitelik iddialarının ardındaki külliyat, iddiaların ima ettiğinden daha
 
 İlk turda doğru olan bir yanıt üçüncü turda yanlış olabilir: 11 model genelinde %12,7’si otorite baskısı altında yanlış bir yanıta döndü, dolayısıyla geri bildirim kalitesi ilk yanıtta değil etkileşim boyunca puanlanmalıdır ([[liu-educational-sycophancy-2026|Liu ve Korolova, 2026]]).
 
-
 ## Yaygın yanlış anlamalar
 
 - **“Öğrenciler YZ geri bildirimini kabul edilebilir buluyor, öyleyse iyidir.”** **Öğrenci algılı kalite, kabul edilebilirliğin ima ettiğinden daha karışıktır**: **93 lisans öğrencisinden 77’si YZ geri bildirimini anlaşılması kolay buldu, ama 68’i onu tekrarlı buldu ve 79’u** başka bir yönden yetersiz buldu. Anlama ile hoşnutsuzluk aynı kohortta bir arada bulundu.
 - **“Geri bildirim etkileri ölçülüdür.”** **53 çalışmalık bir meta-analiz**, üretken YZ geri bildiriminin **çalışmadaki en büyük etkiyi (g = 1,27)** ürettiğini, genel üretken YZ etkisinin ise **g = 0,40** olduğunu buldu. Geri bildirim, ölçülen en güçlü mekanizmadır; bu, genel iyimserlik tartışmasından farklı bir tablodur.
 - **“Geri bildirim müdahalenin tamamıdır.”** Kontrollü bir karşılaştırma bileşeni yalıtır: aynı tanısal [[intelligent-tutoring|özel ders]] sistemiyle, **geri bildirim bileşenini** alan öğrenenler ölçülebilir biçimde farklılaştı. Geri bildirimi uyarlanabilir sistemden ayırmak, iddiayı atfedilebilir kılan şeydir.
 - **Erişim ile katılım farklı müdahalelerdir.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger ve Liening (2026)]], beş haftalık bir işletme simülasyonunda **234 öğrenci ve 1.147 haftalık gözlem** genelinde ikisini ayırdı. [[conversational-ai|Konuşma tabanlı YZ]] geri bildirimine atama, öğrenmeye dönük bilişsel yük (β = .019, p = .807) ya da konu dışı bilişsel yük (β = .071, p = .481) üzerinde **etki üretmedi**. **Gerçek düzenli kullanım** ise deneysel kullanıcı olmayanlara göre (β = −.468, p < .001) ve kontrollere göre (β = −.253, p = .028) anlamlı biçimde daha yüksek öğrenmeye dönük yükle ilişkilendi; **düzensiz kullanım düzenli kullanımdan ayrışmadı** (p = .116). Bu nedenle niyet-öncelikli bir karşıtlığa dayanan nitelik yargıları, benimsenmesi kısmi olan bir geri bildirim müdahalesini eksik gösterecek ve memnuniyet ya da erişim ölçütleri katılım verisinin yerini tutamaz.
-
-## Bağlı kavramlar
-
-- [[pedagogical-patterns]] — Quality does not predict revision: the sequences that make AI feedback usable
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[bias-mitigation]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[feedback-literacy]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## Bağlı makaleler
-- [[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM feedback generation with educators in the loop (Zhao et al. 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation feedback reliability and limits (Melo et al. 2026)
-- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
-- [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Collaborative Feedback
-- [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
-- [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
-- [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
-- [[gpt4-feedback-student-activation-2026]]
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomized source labels on identical GPT-4 feedback: teachers discount AI-attributed feedback (Mertens et al. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[risk-adaptive-genai-feedback-programming-2026]] — A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education
-- [[real-time-ai-feedback-technical-skills-2026]] — Own-language "Clarify" explanation and scaffolded nudges in a real-time tutor: what makes synchronous feedback usable (Muritala, Ahmed & Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher vs AI-assisted peer feedback: authoritative error correction decays, steady focus holds, and what students do with each (Tang, Li & Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — Blind-then-disclosed source labels on identical feedback: students rate AI-labeled feedback lower and read low-rated human feedback as AI
-
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles: comprehension monitoring against prioritization, and the cognitive-load cost
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Student-perceived AI feedback quality: understandable yet repetitive, trusted for mechanics not interpretation
-- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generated tutor-training lessons matched human-created ones when feedback was present; the human advantage appeared only without feedback
-- [[mihaylova-llm-feedback-live-programming-course-2026]] — Daha uzun LLM ipuçları daha kötü anlık sonuçları yordadı; biçim, daha az denemeyi daha yavaş yeniden gönderimle değiştirdi
-- [[wu-lam-genai-writing-assessment-professors-2026]] — Profesörlerin gözünde YZ geri bildirim kalitesi: varsayılan olarak övgücü, uzun, belirsiz ve iyileştirmesi yavaş
-- [[genai-l2-written-feedback-scoping-review-2026]] — 51 çalışmanın yalnızca 27’si istem metinlerini bildirdi; 16 deneyde kontrol grubu yoktu
-- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 68 çalışma genelinde üç değerlendirme boyutu, ince olan rubrik hizası (Yang 2026)
-- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 157 puanlanmış geri bildirim iletisinde ölçüt ve değerlendirici düzeyinde ayrışma (Vanhoyweghen ve ark. 2026)
-
-- [[liu-educational-sycophancy-2026]] — Doğruluk etkileşime bağlıdır: baskı altında %12,7 dönüş oranı (Liu ve Korolova 2026)
-

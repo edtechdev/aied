@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
+connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -78,7 +80,6 @@ ai_assist:
 অভিযোজিতভাবে পরিচালিত ও ত্রুটিপূর্ণ উদাহরণ বণ্টন 113 শিক্ষার্থীর একটি শ্রেণিকক্ষ গবেষণায় এলোমেলো সমস্যা-ধরনের বণ্টনকে ছাড়িয়েছে (পরীক্ষোত্তর M = 72.3 ও 72.5, নিয়ন্ত্রণে 65.7, A = .58, p = .005 ও p = .002), এবং [[knowledge-tracing|জ্ঞান-অনুসরণ]] রূপটি নিম্ন [[prior-knowledge|পূর্বজ্ঞানসম্পন্ন]] শিক্ষার্থীদের জন্য অর্জন-ব্যবধান 77.1% সংকুচিত করেছে (β = 9.4, p = .001) ([[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi প্রমুখ, 2026]])। কিন্তু বিস্তারিত এআই-প্রতিক্রিয়ায় স্ব-ব্যাখ্যা ধাপটি *যোগ* করা 302 অংশগ্রহণকারীর প্রাক-নিবন্ধিত পরীক্ষায় প্রতিটি মাপে হেরেছে: এটি প্রতিক্রিয়ার সময় দ্বিগুণ করেছে (4.1 বনাম 2.1 মিনিট, p < .001), সম্পন্ন সমস্যা 40% কমিয়েছে (2.0 বনাম 3.4, p < .001), প্রতি এপিসোডে কোনো লাভ দেয়নি (OR = 1.03, p = .486), এবং সেশন-শেষ দক্ষতা কমিয়েছে (65% বনাম 79%, d = .41, p < .001) ([[structured-reflection-ai-explanatory-feedback-2026|Asher প্রমুখ, 2025]])।
 
 অনুশীলনের আগে কতগুলো উদাহরণ দিতে হবে তা নিজেই বিষয়বস্তু-নির্ভর, যা এই অংশের "আগে কৃত উদাহরণ, পরে সমস্যা" বাঁধাই খোলা রেখে দেয়। জ্যামিতি-ক্ষেত্রফল উপকরণে 95 অংশগ্রহণকারীর একটি 2×2 পরীক্ষায়, কেবল-অনুশীলন প্রশিক্ষণ আক্ষরিক তথ্যের জন্য বড় লাভ তৈরি করেছে, যেখানে উদাহরণ ও অনুশীলন পর্যায়ক্রমে চালানো সাধারণীকরণযোগ্য দক্ষতার জন্য বড় লাভ তৈরি করেছে (β = 0.41, p = .038, d = 0.38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger ও Carvalho, 2025]])। একটি ক্রমকে বিমূর্তভাবে কৃত উদাহরণ বনাম অনুশীলন হিসেবে বিচার করা যায় না, কারণ সঠিক মিশ্রণ নির্ভর করে লক্ষ্যটি তথ্য না দক্ষতা তার উপর।
-
 
 ## যে প্যাটার্নগুলো এআই-প্রতিক্রিয়াকে মানব প্রতিক্রিয়ার সঙ্গে জোড়া দেয়
 
@@ -191,90 +192,3 @@ ai_assist:
 - **"এআই-প্রদত্ত যেকোনো অনুশীলনই অনুশীলন।"** একটি অ্যাডাপটিভ বিরত-পুনরুদ্ধার শর্ত **সর্বোচ্চ পরীক্ষোত্তর স্কোর (M = 78.19)** তৈরি করেছে এবং **শিক্ষার্থী-নিয়ন্ত্রিত এআই অধ্যয়নকে (M = 67.28) উল্লেখযোগ্যভাবে ছাড়িয়েছে**। শিক্ষার্থী-নিয়ন্ত্রিত বিন্যাসটি একটি কাঠামোবদ্ধ বিন্যাসের চেয়ে খারাপ ফল করেছে, তাই স্বায়ত্তশাসন স্বয়ংক্রিয়ভাবে ভালো নকশা নয়।
 - **"[[conversational-ai|চ্যাটবট]] নিয়ে পড়াশোনা না নিয়ে পড়াশোনার চেয়ে ভালো।"** **প্রতিদৃষ্টান্তই এটি নিষ্পত্তি করে**: **120 শিক্ষার্থীর** একটি [[rct|র্যান্ডমাইজড ট্রায়ালে]], যারা সীমাহীন ChatGPT নিয়ে কাজ করেছে তারা **সতর্কবার্তা ছাড়া পরীক্ষা করলে কম মনে রেখেছে**। পরীক্ষিত বিন্যাসে সরঞ্জামটি ধরে রাখার জন্য ক্ষতিকর ছিল।
 - **"প্যাটার্নের প্রমাণ একটি বড় পুলড ট্রায়াল।"** **সবচেয়ে শক্তিশালী সমর্থন পরোক্ষ** এবং আসে **26 শিক্ষার্থীর একটি র্যান্ডমাইজড উইথিন-সাবজেক্টস পরীক্ষা** থেকে, যেখানে তাৎক্ষণিক-উত্তর [[scaffolding|স্ক্যাফোলিং]] উল্লেখযোগ্যভাবে ভিন্ন ফল করেছে। প্রমাণ প্যাটার্নটিকে সমর্থন করে এবং পরিসরে পাতলা থাকে, আর পাতা সেভাবেই পড়া উচিত।
-
-## সংযুক্ত ধারণা
-
-- [[pedagogy]] — শিক্ষণ-পদ্ধতির ছাতা, যা এই পাতা ক্রমে রূপান্তরিত করে
-- [[learning-design]] — যেখানে প্যাটার্ন বাছা হয়, ক্রমে সাজানো হয় এবং কোর্সে গেঁথে দেওয়া হয়
-- [[scaffolding]] — সহায়তা-ও-হ্রাসের নীতি, যা ঠিক করে এআই-সহায়তার জায়গা কোথায়
-- [[feedback]] — যে ব্যবস্থাকে এই পাতার প্রতিক্রিয়া-প্যাটার্নগুলো মূর্ত করে
-- [[formative-assessment]] — যে মূল্যায়ন-উদ্দেশ্য এই প্যাটার্নগুলোর বেশিরভাগ পরিবেশন করে
-- [[peer-assessment]] — PAIRR ও মিলিত-প্রতিক্রিয়া প্যাটার্নের মানব অর্ধ
-- [[ai-feedback-quality]] — কেন কেবল প্রতিক্রিয়ার মান পুনর্বিবেচনা নির্ধারণ করে না
-- [[evaluative-judgment]] — এআই-আউটপুটে শিক্ষার্থীদের যে মূল্যায়ন করতে হয়
-- [[feedback-literacy]] — সমালোচনামূলক-মূল্যায়ন ধাপগুলো যে সক্ষমতা গড়ে তোলে
-- [[human-in-the-loop-ai]] — পর্যালোচনা-প্যাটার্নগুলোর তত্ত্বাবধান-কাঠামো
-- [[oral-assessment]] — যাচাই-প্যাটার্নগুলোর অন্তর্গত বিন্যাস
-- [[process-oriented-assessment]] — ধাপে-ধাপে চেকপয়েন্টের পেছনের যুক্তি
-- [[productive-failure]] — নির্দেশনার-আগে-চেষ্টার পেছনের ধারণা
-- [[retrieval-spacing-interleaving]] — বিরত-পুনরুদ্ধার প্যাটার্নের প্রমাণভিত্তি
-- [[desirable-difficulties]] — কেন প্রচেষ্টাবহুল ক্রম সাবলীল ক্রমের চেয়ে ভালো ফল দেয়
-- [[misconceptions]] — ধারণাগত-পরিবর্তন প্যাটার্নগুলো যা লক্ষ্য করে
-- [[refutation-text]] — ভুল ধারণার মুখোমুখি হওয়ার পাঠ্য-রূপ
-- [[learning-by-teaching]] — এআই-শিক্ষার্থী প্যাটার্নের পেছনের পেডাগগি
-- [[socratic-method]] — প্রশ্নকরণ-প্যাটার্ন ও তার পরস্পরবিরোধী প্রমাণ
-- [[collaborative-learning]] — লিপিবদ্ধ ভাগ-করা-এআই কাজের প্রসঙ্গ
-- [[cognitive-offloading]] — যে ঝুঁকি এড়াতে প্রতিটি প্রচেষ্টা-আগে প্যাটার্ন নকশা করা
-- [[metacognition]] — এই ক্রমগুলোর প্রতিফলন-ধাপগুলো যা জাগানোর কথা
-- [[prompt-engineering]] — কাঠামোবদ্ধ-ব্যবহার প্যাটার্নের স্ক্যাফোল্ডিং স্তর
-- [[transfer-of-learning]] — যে ফলাফলের উপর বেশিরভাগ প্যাটার্ন শেষ পর্যন্ত বিচারিত
-- [[assessment-validity]] — প্রক্রিয়া-প্রমাণ আদৌ কেন প্রস্তাব করা হয় তার কারণ
-- [[academic-integrity]] — মৌখিক ও প্রক্রিয়া-যাচাইয়ের পেছনের চালক
-- [[ai-literacy]] — এআই-আউটপুটের সমালোচনা করে যে সক্ষমতা গড়ে ওঠে
-- [[online-teaching-and-learning]] — যে প্রসঙ্গ ক্রমকে ভারবহনকারী করে
-- [[higher-ed]] — যে স্তরে এই প্রমাণের বেশিরভাগ তৈরি হয়েছে
-- [[k-12]] — উৎপাদনশীল-ব্যর্থতা, ধারণাগত-পরিবর্তন ও মৌখিক-মূল্যায়ন গবেষণার স্তর
-
-## সংযুক্ত নিবন্ধ
-
-- [[pairr-ai-peer-review-2025]] — সহকর্মী ও এআই পর্যালোচনা + প্রতিফলন (PAIRR): প্রধান ক্রম, N = 654 (Sperber প্রমুখ 2025)
-- [[gift-ai-pairr-business-writing-2025]] — ব্যবসায়িক লেখালেখি কোর্সে প্রয়োগকৃত PAIRR (MacArthur প্রমুখ 2025)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 শিক্ষার্থী চ্যাটবটকে কী নাম দিয়েছে: 51.7% প্রস্তাবিত টিউটর বা সহযোগী ভূমিকা নিয়েছে (Stillman প্রমুখ 2026)
-- [[ai-peer-feedback-l2-writing-engagement-2026]] — সমন্বিত এআই-প্লাস-সহকর্মী প্রতিক্রিয়া সম্পৃক্ততা ও IELTS-এর চারটি মাত্রাই বাড়িয়েছে (Liu 2026)
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — সহযোগিতামূলক যুক্তিতে প্রম্পট-স্ক্যাফোল্ডেড GenAI সহকর্মী-প্রতিক্রিয়া (Chang প্রমুখ 2026)
-- [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — এআই-প্রতিক্রিয়া ফিল্টার ও মূল্যায়নে শিক্ষার্থীদের প্রশিক্ষণ: FRAC ও APCA শর্ত
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — উচ্চমানের এআই-প্রতিক্রিয়া বেশি পুনর্বিবেচনা-লাভ তৈরি করেনি (Farrokhnia প্রমুখ 2026)
-- [[guardrails-ai-teaching-assistants-programming-2026]] — সক্রেটিক প্লাস পূর্ণ-প্রসঙ্গ অন্য সব সহায়ক কনফিগারেশনের চেয়ে খারাপ রেট পেয়েছে (Eastwood প্রমুখ 2026)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — ক্লিনিকাল সাক্ষাৎকার প্রশিক্ষণে প্রয়োজন-চালিত সক্রেটিক স্ক্যাফোল্ডিং, N = 100 (Yang প্রমুখ 2026)
-- [[hashmi-socratic-physics-chatbot-2025]] — প্রারম্ভিক মেকানিক্সে সক্রেটিক চ্যাটবট: প্রশ্নের নির্দিষ্টতা 10-15% থেকে 100%-এ উঠেছে (Hashmi প্রমুখ 2025)
-- [[agent-type-feedback-style-self-directed-learning-2026]] — সক্রেটিক বনাম নির্দেশমূলক এজেন্ট-প্রতিক্রিয়া, ক্রম সমতাকরণ ছাড়া (Han প্রমুখ 2026)
-- [[adaptive-pretesting-retention]] — অ্যাডাপটিভ বিরত-পুনরুদ্ধার শিক্ষার্থী-নিয়ন্ত্রিত এআই অধ্যয়নকে ছাড়িয়েছে (Akgun ও Toker 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — পড়াশোনার সময় সীমাহীন ChatGPT 45-দিনের ধরে রাখা কমিয়েছে (Barcaui 2025)
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — কাঠামোবদ্ধ টিউটরিংয়ের লাভ সম্পন্ন সপ্তাহ অনুসরণ করেছে, মিনিট নয় (Yang প্রমুখ 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — উদাহরণ বনাম অনুশীলন জ্ঞানের ধরন অনুযায়ী ক্রসওভার করে (Rachatasumrit প্রমুখ 2025)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — একটি বুদ্ধিদীপ্ত লজিক টিউটরে অ্যাডাপটিভ পরিচালিত ও ত্রুটিপূর্ণ উদাহরণ (Dey Tithi প্রমুখ 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — এআই-প্রতিক্রিয়ায় স্ব-ব্যাখ্যা যোগ করা প্রতিটি মাপে হেরেছে (Asher প্রমুখ 2025)
-- [[generative-ai-guardrails-harm-learning]] — সুরক্ষিত টিউটরিং অসুরক্ষিত GPT-র পরীক্ষা-ক্ষতি দূর করেছে, ~1,000 শিক্ষার্থী (Bastani প্রমুখ 2025)
-- [[guided-llm-scaffolding-independent-learning]] — পরিসংখ্যানে পরিচালিত বনাম সীমাহীন LLM ব্যবহার (Amanlou প্রমুখ 2026)
-- [[preferred-scaffolding-ai-mathematical-modeling]] — তাৎক্ষণিক-উত্তর স্ক্যাফোল্ডিং পছন্দ হওয়া সত্ত্বেও মডেল-বিমূর্তন কমিয়েছে (Zhu প্রমুখ 2026)
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — উৎপাদনশীল ব্যর্থতার জন্য সমাধান আটকে রাখতে LLM টিউটর পরিচালনা (Puech প্রমুখ 2025)
-- [[pedagogy-ai-mistakes]] — ইচ্ছাকৃত এআই-ব্যর্থতার ঘটনার উপর গড়া সাপ্তাহিক সমালোচনা-ও-পরিমার্জন চক্র (Hosseini 2026)
-- [[kumar-genai-computing-education-systematic-review-2026]] — 72টি কম্পিউটিং-শিক্ষা গবেষণা জুড়ে ত্রুটি বিশ্লেষণ একটি স্বতন্ত্র দক্ষতা হিসেবে (Kumar প্রমুখ 2026)
-- [[lukesova-clue-before-correction-2026]] — L2 পুনর্বিবেচনায় সরাসরি ত্রুটি-সংশোধনের বদলে পরিচালিত সংকেত (Lukešová ও Jennings 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — একটি এআই নবীন শিক্ষার্থীকে ব্যাখ্যা করা, N = 68 (Wang প্রমুখ 2026)
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — একটি ChatGPT এজেন্টকে প্রোগ্রামিং শেখানোর র্যান্ডমাইজড পরীক্ষা (Chen প্রমুখ 2024)
-- [[explique-teachable-agent-algorithms-546-students-2026]] — 11 সপ্তাহে 546 শিক্ষার্থীর কাছে প্রয়োগকৃত শেখানোর-মাধ্যমে-শিখন (Wang প্রমুখ 2026)
-- [[socrates-students-instructors-llms-lbt-2025]] — শিক্ষার্থীরা এমন প্রশ্ন নকশা করে যা একটি LLM উত্তর দিতে পারে না (Yang প্রমুখ 2025)
-- [[code-review-genai-cs1]] — CS1-এ GenAI-র জবাবে বাধ্যতামূলক মৌখিক কোড-পর্যালোচনা সাক্ষাৎকার (Fowles প্রমুখ 2026)
-- [[asynchronous-oral-assessment-2026]] — অ্যাসিঙ্ক্রোনাস রেকর্ডকৃত মৌখিক মূল্যায়ন বনাম সরাসরি বহুনির্বাচনী (Pentland প্রমুখ 2026)
-- [[aivaluate-anxiety-assessment-2026]] — চ্যাট-ভিত্তিক ভাইভা উদ্বেগ কমিয়েছে, অথচ বোঝাপড়ার জন্য মুখোমুখি পদ্ধতি ভালো রেট পেয়েছে (Yusuf প্রমুখ 2026)
-- [[ai-supported-oral-assessment-tvet-2026]] — বৃত্তিমূলক কর্মশালায় শিক্ষকের বিচারের জন্য রুব্রিক-প্রমাণ তুলে আনা এআই (Adams 2026)
-- [[quantum-education-its]] — স্ব-গতির স্নাতক কোর্সে আউটপুট-ও-পদ্ধতি চেকপয়েন্ট (Elhaimeur ও Chrisochoides 2026)
-- [[agentic-education-coding]] — স্টপ-ব্লক চেকপয়েন্ট ও অগ্রগতি-পূর্ব যাচাই, N = 27 (Naboulsi 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — মাইলস্টোন ও রুব্রিকসহ চার-মডিউল সমস্যা-ভিত্তিক শিখন (Nnamdi প্রমুখ 2026)
-- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]] — শিক্ষকদের সঙ্গে চার-এজেন্ট পর্যালোচনা লুপ, এবং আগ্রহের মিল কোথায় ব্যর্থ হয়েছে (Walkington প্রমুখ 2026)
-- [[zhao-learnlens-feedback-educators-loop]] — যাচাইকারী-স্কোরসহ শিক্ষক-মধ্যবর্তী প্রতিক্রিয়া (Zhao প্রমুখ 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — প্রম্পট ইনজেকশন যা ধরা না পড়েই নম্বর বদলেছে, শিক্ষককে একমাত্র যাচাই রেখে (Humble 2026)
-- [[golrang-propact-pair-programming-2026]] — পেয়ার প্রোগ্রামিংয়ে ভাগ করা এআই সহযোগিতা-বিঘ্নের পূর্বাভাস দেয় (Golrang প্রমুখ 2026)
-- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — দলগত জ্ঞান-নির্মাণে লিপিবদ্ধ শিক্ষার্থী ও এআই ভূমিকা (Cheng প্রমুখ 2026)
-- [[paratutor-parent-child-tutoring]] — অভিভাবক-সন্তান টিউটরিংয়ে ভূমিকা-বিভক্ত এআই সহায়তা (Luo প্রমুখ 2026)
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — ব্যক্তিগতকৃত এআই সংলাপ তাৎক্ষণিকভাবে পাঠ্যবই-খণ্ডনকে ছাড়িয়েছে, দুই মাসে মিলে গেছে (Corbett ও Tangen 2026)
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — ধারণাগত-পরিবর্তন পাঠ ইন্টারঅ্যাকটিভ এআই সংলাপকে ছাড়িয়েছে, উল্টো ফল (Akdogan 2025)
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — এআই-সমর্থিত পরিচালিত অনুসন্ধান ও ধারণাগত বোঝাপড়া (Aydin 2026)
-- [[ai-enhanced-flipped-classroom-three-year-2026]] — ঐতিহ্যবাহী, ফ্লিপড ও এআই-বর্ধিত ফ্লিপডের তিন-কোহোর্ট তুলনা (Liu প্রমুখ 2026)
-- [[flipped-learning-genai-design-education-2026]] — প্যারামিটার-পরিচালিত প্রম্পট স্ক্যাফোল্ডিংসহ ফ্লিপড স্টুডিও কোর্স (Qu প্রমুখ 2026)
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — শিক্ষণ-মডেল ফলাফল নিয়ন্ত্রিত করেছে: ফ্লিপড g = 1.96, ঐতিহ্যবাহী g = 0.46-এর বিপরীতে (Jing প্রমুখ 2026)
-- [[ai-tutor-statistical-programming-adoption-2026]] — সাপ্তাহিক হোমওয়ার্ক-টিউটর ব্যবহার ফ্লিপড কোর্সে স্থানান্তর-কাজের স্কোর পূর্বাভাস দিয়েছে (Préau প্রমুখ 2026)
-- [[beck-genai-literacy-economics-hands-on]] — একটি এআই-ত্রুটির উপর গড়া পাঁচ-ধাপের এআই-সমালোচনা আলোচনা (Beck ও Brodersen 2025)
-- [[ccct-cooperative-learning-technique]] — নির্ধারিত ভূমিকা ও গ্যালারি ওয়াকসহ একটি পরীক্ষিত সহযোগিতামূলক-শিখন ক্রম (Tutal 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — এআই রিট্রিভাল সুপারিশকারীসহ সেমিনার ও সহকর্মী-আলোচনা মডিউল (Huang 2026)

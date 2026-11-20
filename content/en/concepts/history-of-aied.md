@@ -8,6 +8,8 @@ pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
+connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
 ---
 
 > **History of [[ai-education|AI in Education]]** — the study of how artificial intelligence and education have co-evolved since the mid-20th century, and how past conceptual, terminological, and design choices continue to shape today's debates about AI in learning. Rather than treating generative AI as a sudden, unprecedented force, a historical lens reveals recurring tensions — control vs. agency, standardization vs. [[creativity]], automation vs. augmentation — that have structured AI in education since its origins.
@@ -86,29 +88,3 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 **"Personalization means adapting the difficulty to each learner."** That is only one of two incompatible senses, and conflating them hides a political choice. In the first sense the outcome is held fixed and only the path varies, the lineage running from Skinner's teaching machines through mastery-based tutoring. In the second the outcomes themselves diversify, as learners pursue individual interests unconstrained by standard curriculum (Zhao, 2024). An [[intelligent-tutoring|ITS]] implements the first; [[constructivist|constructionism]] the second. A tool described as "personalized" has told you nothing until you know which it means.
 
 **"'Artificial intelligence' was simply the obvious name for the field."** The term was a deliberate choice. When McCarthy planned the 1956 Dartmouth project he favored *artificial intelligence* over *cybernetics* partly to distance the work from Wiener's analog feedback tradition. That single decision framed machines in direct comparison to human cognition, and the anthropomorphic framing it installed still shapes research priorities, product language, and the ethical questions the public asks.
-
-## Connected Concepts
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[wu-fifty-years-ai-reach-computers-education-2026]] — Fifty years of Computers & Education topics: AI prevalence turned upward after 2018, four years before ChatGPT

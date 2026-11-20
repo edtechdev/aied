@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
@@ -45,10 +46,3 @@ Zelfstandig lerenden die met moeilijk materiaal werken, en docenten of ontwikkel
 ## Opmerkingen en kanttekeningen
 
 Gratis geldt voor de software, niet voor de inferentie: lerenden nemen hun eigen providersleutels mee, een abonnement, een lokale Claude Code CLI of elk OpenAI-compatibel eindpunt, en betalen de provider zonder opslag; een live meter schat alleen bekende API-kosten. Registraties, chats en sleutels blijven als gewone bestanden op de machine, maar het project waarschuwt dat lokale opslag geen offline verwerking betekent, omdat modelverzoeken, optioneel dicteren en webonderzoek allemaal externe diensten bereiken. De Windows x64-installer is niet ondertekend, dus Windows zal waarschuwen. Er wordt geen effectiviteitsstudie gerapporteerd, dus de zaak rust op de genoemde onderbouwing en niet op gemeten uitkomsten; de repository had ongeveer 4.800 sterren bij controle op 2 november 2026.
-
-## Gerelateerde concepten
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

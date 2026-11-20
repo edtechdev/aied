@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-02"
     agent: hermes-agent
+connected_concepts: [agentic-ai, intelligent-tutoring, mastery-learning, scaffolding]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -46,10 +47,3 @@ Estudiantes independientes que trabajan con material difícil, y docentes o desa
 ## Notas y advertencias
 
 Gratuito cubre el software, no la inferencia: el estudiantado aporta sus claves de proveedor, una suscripción, una CLI local de Claude Code o cualquier endpoint compatible con OpenAI, y paga al proveedor sin recargo; un medidor en vivo estima solo los costes de API conocidos. Los registros, los chats y las claves permanecen en la máquina como archivos de texto plano, pero el proyecto advierte que el almacenamiento local no significa procesamiento sin conexión, ya que las solicitudes a los modelos, el dictado opcional y la investigación web llegan a servicios externos. El instalador para Windows x64 no está firmado, así que Windows mostrará una advertencia. No se informa de ningún estudio de eficacia, por lo que el caso se apoya en la justificación declarada y no en resultados medidos; el repositorio tenía unas 4.800 estrellas cuando se comprobó el 2 de noviembre de 2026.
-
-## Conceptos conectados
-
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[scaffolding]]

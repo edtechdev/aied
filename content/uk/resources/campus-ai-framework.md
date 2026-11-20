@@ -28,6 +28,7 @@ ai_assist:
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
 ---
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
@@ -44,10 +45,3 @@ Campus AI Framework — операційна модель для стратег�
 ## Зауваження та обмеження
 
 Рамка та сайт ліцензовані за **CC BY-NC-SA 4.0**, тому адаптація дозволена для некомерційного використання з зазначенням авторства та умовою поширення на тих самих умовах; сайт надає власну рекомендовану форму зазначення авторства. Його узгодженість з OECD, NIST, ISO/IEC 42001, EU AI Act, FERPA і HIPAA — це власне порівняння видавця, і саме так його слід сприймати. Пов’язані сайти — окремі проєкти, деякі того ж автора, і варто знати їх як набір: [Campus AI Exchange](https://www.campusaiexchange.com/) — це хаб, що містить [інтерактивні карти](https://www.campusaiexchange.com/ai-policies-guidelines-map) інституційних політик щодо ШІ та вказівок для аудиторій, [самооцінювання управління ШІ](https://www.campusaiexchange.com/ai-governance-assessment), карти управління даними та позицій щодо ШІ, а також бібліотеку ресурсів. Навколо нього розташовані [campusaigovernance.com](https://campusaigovernance.com/) (дев’ять доменів управління ШІ), [campusairisks.com](https://campusairisks.com/) (NIST AI Risk Management Framework, застосований до цих доменів), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), шаблон [плану впровадження ШІ на рівні підрозділу](https://unit-ai-adoption-plan.netlify.app/) і короткий огляд на тему [агентного ШІ для керівників](https://campusaiframework.com/sites). Strategic Compass також поширюється як спільний документ Google, для відкриття якого потрібен обліковий запис Google. Під час входу з’являється коротке необов’язкове питання про роль та установу; електронна пошта необов’язкова, і весь сайт читається без неї.
-
-## Пов’язані поняття
-
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[ai-literacy]]
-- [[governance]]

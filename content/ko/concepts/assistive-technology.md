@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
+connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -60,27 +62,3 @@ ai_assist:
 - **"중간 정도의 효과 크기가 옳은 도구를 알려 준다."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]은 AI 기반 개입이 로봇과 소프트웨어, 지능형 VR 전반에서 장애 학생의 학습 결과에 중간 정도의 긍정적 효과(**g = 0.588**)를 보인다고 밝힙니다. 이는 매우 다른 필요를 위해 기능하는 매우 다른 기술들에 대한 평균이므로, 그 범주를 뒷받침할 뿐 그 안에서의 선택을 뒷받침하지는 않습니다.
 - **"진단을 전제로 한 접근은 정당한 설계다."** 참여에 공식 진단을 요구하는 것은 실제 필요가 있지만 진단명이 없는 학습자를 배제하며, 이는 [[universal-design-for-learning|보편적 설계]]와 충돌하고 접근의 비용을 학습자의 서류 부담으로 떠넘깁니다.
 - **"보조 도구가 많아질수록 포용도 커진다."** 한 범위 검토는 5개 데이터베이스에서 **766건의 기록**을 선별했는데, 산출물의 양은 필요를 포괄하는 범위와 같지 않습니다. 장벽별 연구 수가 더 유용한 지표입니다.
-
-## 연결된 개념
-
-- [[accessibility]] — 보조 기술이 구현하는 설계 속성
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[speech-and-voice-technologies]]
-
-## 연결된 문서
-
-- [[shin-ai-policies-sld-2026]] — 특정 학습 장애 학생을 위한 AI 정책과 지원 조정
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 장애 학생을 위한 AI 개입의 메타분석
-- [[kutti-ai-voice-first-learning-companion]] — 시각 장애 아동을 위한 음성 중심 AI
-- [[tactile-statistical-graphs-accessibility]] — AI로 생성된 촉각 통계 그래프
-- [[text-simplification-its]] — 지능형 튜터링을 위한 LLM 기반 텍스트 단순화
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 청각 장애 학습자를 위한 LLM 문제 생성
-- [[gemini-lualatex-physics-video-transcription-2026]] — 수학 접근 가능한 물리 영상 전사를 위한 Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — 시각 장애 학습자를 위한 보조 생성형 AI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성형 AI, 가상 현실, 그리고 그 너머: 고등교육 신경다양성 학생을 위한 디지털 보조 기술의 범위 검토

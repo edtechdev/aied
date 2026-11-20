@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
+connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -86,47 +88,3 @@ OmniEdu কেবল ওজন নয়, পুরো পাইপলাইন 
 **"বদ্ধ ফ্রন্টিয়ার মডেল সহজভাবে ভালো, তাই মুক্ত বিকল্প কেবল শেষ ভরসা।"** ফাঁকটি সেই অনুমান যতটা বলে তার চেয়ে সরু। [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]-এ (CDPK + SEND, প্রকৃত চিলীয় শিক্ষক-পরীক্ষার প্রশ্ন থেকে গড়া) 97টি মডেল জুড়ে, মুক্ত-ওজন **DeepSeek R1 86.65%-এ পৌঁছায়**, শীর্ষ-10-এর বিপরীতে যা বেশিরভাগ বদ্ধ রিজনিং মডেলের — আর খরচ–নির্ভুলতা তুলনা আরও মুক্ত দিকে চলে। তাই উন্মুক্ততার অবশিষ্ট যুক্তি সক্ষমতা-ত্যাগ নয়, নিয়ন্ত্রণ ও নিরীক্ষাযোগ্যতা নিয়ে।
 
 **"ওজন প্রকাশ করাই কাজ প্রকাশ করা।"** শক্তিশালী মুক্ত অবদানগুলো পাইপলাইন প্রকাশ করে। OmniEdu কেবল চূড়ান্ত ওজন নয়, 69,999-উদাহরণের মিশ্রণে সক্ষমতা-ভারসাম্যপূর্ণ তত্ত্বাবধান প্রকাশ করে, যা একটি মুক্ত 4B/9B/27B K–12 পরিবারের প্রতিটি মাপকে উন্নীত করে, টিউন করা 4B মডেল MathTutorBench [[scaffolding|স্ক্যাফোল্ডিং]]-কর্মদক্ষতায় **55 পয়েন্ট** পায়; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] অনুরূপভাবে তার RL ও ফাইন-টিউনিং পদ্ধতি নথিভুক্ত করে, 440টি খুঁজে পাওয়া কঠিন নেগেটিভ ও 40,000টি উৎপন্ন প্রতিক্রিয়াসহ। রেসিপি ছাড়া ওজন ফলাফল পুনরুৎপাদন করে, পদ্ধতি নয়।
-
-## সংযুক্ত ধারণা
-
-- [[open-education]]
-- [[intelligent-tutoring]]
-- [[llm-training-and-fine-tuning]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-- [[regulation]]
-- [[governance]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[benchmark]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[pedagogical-safety]]
-- [[sustainability]]
-- [[research-methods-aied]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[educational-technology-developers]]
-
-## সংযুক্ত নিবন্ধ
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — সাধারণমানের হার্ডওয়্যারে অন-প্রিমাইজ OER এআই জ্ঞানভিত্তি-সহায়ক (শেন প্রমুখ 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — MIT-লাইসেন্সকৃত অভিযোজিত টিউটর, CC BY OpenStax বিষয়বস্তু-গ্রন্থাগারসহ (পার্ডোস প্রমুখ 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — মুক্ত 32B শিক্ষাতাত্ত্বিক মডেল অনেক বড় মালিকানাধীন সিস্টেমকে ছাড়িয়ে যায় (সিংহ প্রমুখ 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — ড্রপ-ইন FERPA-সম্মত স্থানীয়-এলএলএম অটোগ্রেডার
-- [[programming-its]] — পাইথন ITS-এ GDPR/EU AI Act সম্মতির জন্য স্ব-হোস্টকৃত মুক্ত-ওজন এলএলএম
-- [[aiawe-automated-writing-evaluation]] — স্বয়ংক্রিয় লেখা-মূল্যায়নের জন্য LoRA-অভিযোজিত মুক্ত-ওজন মডেল
-- [[stanbkt-bayesian-knowledge-tracing]] — পূর্ণ বায়েশিয়ান জ্ঞান-অনুসরণের মুক্ত পাইথন প্যাকেজ
-- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — শিক্ষার্থী-স্মৃতিসহ সম্পূর্ণ মুক্ত-সোর্স এজেন্টিক টিউটরিং কাঠামো
-- [[vismatic-secure-sandbox-cs-education]] — প্রক্রিয়া-কেন্দ্রিক মূল্যায়নের মুক্ত কনটেইনারাইজড স্যান্ডবক্স
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — মুক্ত কোডবেসসহ আবেগ-সচেতন গণিত টিউটর
-- [[cdpk-pedagogy-benchmark-llms]] — 97টি মডেল জুড়ে মুক্ত শিক্ষাবিজ্ঞান বেঞ্চমার্ক এবং খরচ–নির্ভুলতা সীমান্ত
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ট্রেস-ভিত্তিক বহু-এজেন্ট টিউটরিং মূল্যায়নের মুক্ত ডেটাসেট ও প্রোটোটাইপ
-- [[mllm-scientific-visualization-literacy]] — ভিজুয়ালাইজেশন সাক্ষরতায় মানব-ভিত্তিরেখার নিচে মুক্ত মডেল
-- [[iks-instruct-dataset-indian-knowledge]] — সাংস্কৃতিকভাবে ভিত্তিক নির্দেশনার মুক্ত বহুভাষিক ডেটাসেট
-- [[aied-carbon-footprint-reporting]] — এলএলএম-এর পরিবেশগত খরচ জানানোর মুক্ত-সোর্স পদ্ধতি
-- [[egai-power-systems-education]] — ইঞ্জিনিয়ারিং এআই-এর মুক্ত কার্যকর মডিউল-গ্রন্থাগার
-- [[mooc-to-maic]] — এলএলএম-চালিত কোর্স-উৎপাদন এবং কোর্স-উৎপাদনের বদলে যাওয়া অর্থনীতি
-- [[agentic-ai-education-scoping-review]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: শিখন ও শিক্ষণের মুক্ত ভিত্তি-মডেল

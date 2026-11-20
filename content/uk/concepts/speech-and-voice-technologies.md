@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -100,38 +102,3 @@ AkoVoice додає два міркування щодо справедливо�
 - **«Платні мовленнєві сервіси перевершують безкоштовні».** **Два безкоштовні сервіси повернули майже повні транскрипти (покриття 87,96% і 88,34% за частоти похибок слів 15,23% і 15,00%)**, тоді як два платні експортували лише фрагменти — з покриттям 32%. Ціна не передбачала користі, а платний рівень обмежував вихід, а не покращував його.
 - **«Будь-який чат-бот для вивчення мов покращує вимову».** За **десятьма дослідженнями** лише **чат-боти, розроблені для вивчення мов — Andy English bot і Xiaoying, — покращили точність**, із **зниженням похибки на 14% в одній контрольній групі**. Загальні розмовні агенти такого приросту не дали.
 - **«Прирости самоефективності означають прирости навички».** Зв’язок між технологією та результатами був позитивним із **частковим опосередкуванням самоефективністю: непрямий шлях становив 69,9% загального ефекту, тоді як прямий ефект залишався**. Більшість ефекту йшла через упевненість, що є механізмом і водночас застереженням.
-
-## Пов’язані поняття
-
-- [[language-learning]]
-- [[conversational-ai]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-
-## Пов’язані статті
-
-- [[chatbots-oral-proficiency-efl-systematic-review]] — Прирости точності лише від чат-ботів для вивчення мов, і збої ASR на акцентованих іменах
-- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Телефонний голосовий агент, спрямований на сам канал зворотного зв’язку
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR speaking feedback: quality beats quantity, and proficiency moderates who benefits (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — Pronunciation self-efficacy mediates GenAI pronunciation feedback and willingness to communicate (1,701 EFL learners)
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS lesson pipeline: synthetic narration matched instructor voice; dialogue aided comprehension
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learning-style × dialogue-format interactions in TTS-generated lessons (222 students)
-- [[ai-interlocutor-l2-spoken-dialogue]] — Human versus AI interlocutors: supported monologue, uptake, and syntactic priming in L2 German
-- [[kutti-ai-voice-first-learning-companion]] — Voice-first offline companion with real-time struggle detection for visually impaired children
-- [[agent-voice-accents-k12-group-learning]] — Agent accent shapes anthropomorphization and collaboration in K-12 group work (33 teachers)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: scalable spoken assessment, with a learning-gains caveat
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Review making the case for oral exams as authentic, integrity-protective assessment
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline voice assessment in vocational workshops where AI surfaces evidence, not grades
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Four interaction profiles among interpreting trainees using ASR/MT support
-- [[gpt-item-generation-l2-listening-2026]] — Prompting versus fine-tuning GPT for L2 listening item generation
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture plus speech: why speech-only oral assessment misses evidence of understanding
-- [[ai-guided-learning-audiovideo-2026]] — Adaptive audio speed, voice-preserving video summaries, and unlabeled pronunciation feedback
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for deaf and hard-of-hearing learners
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability

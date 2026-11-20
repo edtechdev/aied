@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -118,50 +120,3 @@ ai_assist:
 **לחוקרים**
 
 - תכננו להכרעה בין תיאוריות ולא להצטברות של מסגרות. בגרות נראית בתחזיות מתחרות שמתבררות, לא בצמיחת אוצר מילים.
-
-## מושגים מחוברים
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
-
-## מאמרים מחוברים
-- [[yan-agentivism-learning-theory-ai-2026]] — תיאוריית למידה לטווח-ביניים לאינטראקציה אדם-בינה מלאכותית, עם ארבעה מנגנונים ושישה טענות ניתנות-לבדיקה (Yan and Gašević 2026)
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — הכללה-יתר מרמה: שליטה אדפטיבית יכולה להפסיק תרגול לפני שלומדים יודעים מתי למנוע פעולה (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — חקר ורגולציה מוגברים-בינה מלאכותית במערכות היברידיות (AIRIS)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — ממקם בינה מלאכותית כשותפה קוגניטיבית ברגולציה-משותפת של אדם-ובינה מלאכותית; מסגרת התפתחותית לאורך החיים
-- [[ensemble-cognition-philosophy-ai-education]] — קוגניציית אנסמבל: מסגרת פילוסופית שמרקנספטואליזציה את החשיבה כאינטראקציה של אדם-ובינה מלאכותית
-- [[self-directed-growth-generative-ai-learning-analytics]] — צמיחה מוכוונת-עצמית ומודל A2PL המרחיב למידה מוכוונת-עצמית עם GenAI
-- [[generativism-learning-theory]] — מציע תיאוריית למידה חדשה לעידן הבינה המלאכותית היצירתית, חוזר על הארבע הקלאסיות
-- [[ai-vocational-education-training-review]] — תיעד את פער התיאוריה-לפרקטיקה של קונסטרוקטיביזם/ביהביוריזם בבינה מלאכותית לחינוך מקצועי
-- [[genai-educational-outcomes-meta-analysis]] — מטא-אנליזה שיטתית PRISMA של 53 מחקרים: רווחים מרוכזים בהישג, חשיבה, כתיבה ומוטיבציה, עם משוב כמנגנון הגדול ביותר (Dong 2026)
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — בינה מלאכותית יצירתית כסוכן מתווך
-- [[kim-ai-productive-failure-adult-2026]] — תכנון מערכות בינה מלאכותית לתמיכה בלמידה מבוססת-כשלון-פרודוקטיבי
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — כיוון פדגוגי של מודלים לשוניים גדולים לכשלון פרודוקטיבי
-- [[lukesova-clue-before-correction-2026]] — רמז לפני תיקון: ChatGPT ללימוד שפות אוטונומי
-- [[rachatasumrit-example-problem-ratio-2026]]

@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
+connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -68,7 +70,6 @@ Ingawa ICAP inaelezea mpangilio, mabadiliko yenye athari kubwa zaidi kwa kujifun
 
 Sehemu ya "mapato makubwa zaidi" katika dai hilo ni hitimisho kutoka kwa mfumo badala ya ulinganisho ambao mapitio yalifanya. Mapitio ya masomo tisa nyuma yake (2015–2023) yanahesabu ni uingiliaji upi *ulijumuisha* kila hali (9 kupitisha, 5 kuendeshwa, 7 kuunda, 8 kuingiliana), hayaripoti ukubwa wa athari kwa hali, na yanabainisha kuwa hakuna somo lililojumuishwa lililotegemea hali moja, hivyo hakuna kitu ndani yake kinachotenga kuruka la Kuendeshwa→Ujenzi ([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]). Mpangilio ni wa Chi; kile mapitio yanaongeza ni kwamba wataalamu huchanganya hali badala ya kuchagua moja.
 
-
 ### ICAP kama ishara ya ngazi za msaada zinazobadilika katika ITS
 
 Hali za ICAP zinaweza kutekelezwa kama *hali za lengo* ambazo [[intelligent-tutoring|mwalimu anayebadilika]] huchagua kati yao ili kutoa ngazi za msaada kwa mwingiliko wa kiakili kulingana na [[student-modeling|mfano wa mwanafunzi]] unaoendelea. Katika ITS ya mantiki, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] walichagua kwa njia ya kubadilika kati ya hali ya *Kuendeshwa* "Iliyoongozwa" ya mifano ya kazi iliyofanywa na hali ya *Kuunda* ya mfano wa "Makosa". Kulinganisha Bayesian Knowledge Tracing (BKT) dhidi ya Deep [[reinforcement-learning|Reinforcement Learning]] (DRL) na msingi usiobadilika juu ya wanafunzi 113, sera zote mbili zinazobadilika ziliboresha utendaji wa mtihani wa baadae — lakini kwa njia tofauti: BKT ilitoa mapato makubwa zaidi kwa wanafunzi wenye maarifa ya awali ya chini (wakisaidia kufikia kiwango sawa), wakati DRL ilizalisha alama za juu zaidi za mtihani wa baadae miongoni mwa wanafunzi wenye maarifa ya awali ya juu. Hii ni onyesho halisi kuwa *kubinafsisha* kwa ufanisi hali ya ICAP ya mwalimu mwenye akili kunategemea kuunda mfano wa maarifa ya sasa ya mwanafunzi — na kuwa hakuna hali moja wala mbinu moja ya kubadilika inayofaa kila mwanafunzi. Inaunganisha mpangilio wa ICAP moja kwa moja na ubuni wa [[adaptive-learning]] na [[knowledge-tracing]].
@@ -97,27 +98,3 @@ Msititi wa ICAP juu ya mwingiliko wa uzalishaji na wa kiwango cha mchakato umech
 **"Mwalimu wa AI huzalisha ushiriki wa mwingiliano kiotomatiki kwa sababu anazungumza."** Mazungumzo ni chombo badala ya hali. Mazungumzo ambapo mfumo hutoa kila mchango wa maudhui ni ya kupokea kwa mwanafunzi aliyevaa kiolesura cha mwingiliano, ambayo ni mkanganyiko ule ule ambao [[student-engagement|fasihi ya ushiriki]] inadokumenti kati ya shughuli ya kitabia na uwekezaji wa kiakili.
 
 **"Hali za juu za ICAP huwa bora kila wakati."** Hugharimu zaidi, na mpangilio unahusu kujifunza kwa kila kitengo cha usindikaji husika badala ya kile somo linapaswa kulenga kila wakati. Umahiri wa msingi unaweza kuhitaji marudio tendaji kabla kazi ya kujenga haiwezekani; kosa ni kukaa hapo, si kupita.
-
-## Dhana Zilizounganishwa
-
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[constructivist]]
-- [[learning-design]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[limitations-in-aied-research]]
-
-## Makala Zilizounganishwa
-
-- [[icap-cognitive-engagement-llm-agents]] — Mfumo wa ICAP uliopanuliwa kwa kupima mwingiliko na uwekaji wa lebo wa kibinadamu dhidi ya wa LLM
-- [[hingle-collaborative-ai-literacy-2025]] — Ujuzi wa AI wa ushirikiano katika hali nne za ICAP
-- [[interactive-learning-dashboards-engagement]] — ICAP kama ukosoaji wa mwingiliko dhaifu wa mifumo ya kuchanganua kujifunza
-- [[multimodal-learning-genai]] — ICAP na mwingiliko wa kiakili katika ubuni wa kujifunza wa mtandao mwingi
-- [[llm-facilitation-timing-online-discussions]] — Wakati wa urahisishaji wa LLM katika majadiliano ya ushirikiano ya mtandaoni
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Ngazi za msaada za ICAP zinazobadilika katika ITS (BKT dhidi ya DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — Mfano wa kina wa kiakili wa ICAP katika wakala wa kuiga wanafunzi wa kizalishaji
-- [[assessing-student-drive-framework-2025]] — Tathmini inayotegemea ICAP ya mwingiliko wa tafakuri wa GenAI

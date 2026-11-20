@@ -31,6 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [academic-integrity, learning-design, generative-ai, accessibility, educational-development, online-teaching-and-learning, ai-literacy]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -48,7 +49,3 @@ A Hillsborough College oktatói és [[educational-development|oktatásfejleszté
 ## Megjegyzések és fenntartások
 
 Az olvasáshoz nem kell fiók, és a linkelt Canvas-kurzusok és ellenőrzőlisták nyilvánosak. A Playlab-coachok, valamint a Gemini Gemek és jegyzetfüzetek harmadik féltől származó szolgáltatások, amelyekhez viszont kell. A kártyák az `apps.json`-ból renderelődnek, így a teljes listához JavaScript kell, a szkript nélküli tartalék pedig a tizenötből nyolcat nevezi meg; a `tinyurl.com/fpdapps` rövid link és egy fejlécbeli QR-kód telefonon nyitja meg. A repó MIT licencű szoftver, a linkelt útmutatók viszont saját licenceket viselnek, köztük a Pressbooks-könyv nem kereskedelmi Creative Commons licencet. Nincs megjelenési ütemterv, így az oldal előzetes értesítés nélkül változik.
-
-## Kapcsolódó fogalmak
-
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

@@ -29,6 +29,8 @@ ai_assist:
 translation_of: concepts/social-norms-ai-use
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
+connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -69,7 +71,6 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 
 סקר של 409 סטודנטים לתואר ראשון מכניס את אותו מנגנון לרגרסיה: חשיפה נתפסת של עמיתים ונוחות עם מרצים היו המנבאים החזקים ביותר לחשיפה של הסטודנט עצמו, לפני ניתוק מוסרי ([[qu-wang-disclose-or-not-genai-2026|Qu and Wang (2026)]]). מה שסטודנט מתייחס אליו כנורמה הוא מה שהוא מאמין שעמיתיו עושים, וזה הרושם שמחקר התפיסה לעיל מראה שהוא גס באופן שיטתי. חשיפה, לפי ראיה זו, היא תגובה לנורמה נאמנת ולא לכלל כתוב או לסטנדרט אתי אישי.
 
-
 ## ספר-הכללים המקומי: משמעת וכיתות
 
 נורמות הן מקומיות, והראיה על עד כמה מקומי היא קונקרטית במיוחד. [[chirikov-regulate-ai-syllabi-2026|ניתוח של 31,000 תוכניות-קורס]] מצא שמטלות המשולבות-AI נעות מ-27% בעסקים ל-5% בהומניסטה. הטווח אינו פער בציות-מדיניות; הוא משקף שיפוטים-משמעתיים שונים על מה שהעבודה היא, מה פרקטיקה שווה, ואילו כישורים תעודה אמורה להסמיך. ההמלצה של המחברים נובעת מכך: העניקו למרצים אוטונומיה בתוך [[governance|נורמות-משמעת]] במקום להנפיק מנדטים one-size-fits-all, מכיון שהמנדט היה צריך להיכתב עבור ממוצע שלא קיים.
@@ -94,8 +95,6 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 
 העלות של ההחלפה הזו מופיעה היכן שחברי-סגל והסטודנטים מדברים בפועל. Across 253,222 רשומות-קשורות-AI מ-26 תת-רדיטים של חינוך, שליש מכל שרשורי-הסגל-סטודנטים היו סכסוכי-גילוי או אכיפה, סטודנטים פתחו 68.4% מהם, ושליליות חזה מעורבות (ρ = −0.72) — סכסוך-עויין, לא דיון, היא צורת-המגע-הרב-שערית ביותר across-תפקידים על [[generative-ai|GenAI]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
 
-
-
 ## מה שמשתמע מכך לפרקטיקה
 
 - **הפכו שימוש לגלוי במקום להסיק אותו.** סטודנטים אינם יכולים לשפוט זה על זה בדיוק, ושיתוף-פעולה חוזר אינו מתקן זאת. רשומות-משותפות קלות-משקל של עבודה-בסיוע-AI, ביאורים, או היסטוריות-הנחיה נותנים לקבוצה משהו עובדתי להסיק ממנו.
@@ -116,39 +115,3 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 **"מעקב יסדר את הנורמה בכך שיהפוך שימוש לגלוי."** הפיכת התנהגות לגלויה אינה מכריעה מה הנורמה צריכה להיות; היא משנה מה אנשים מוכנים לחשוף. הדפוס הנמדד הוא כבר חשיפה סלקטיבית, ולכן משטר ניטור שמופעל עליו מודד את ההסתרה ולא את ההתנהגות.
 
 **"נורמות הן בלתי-פורמליות, ולכן מחוץ להישג ידו של המוסד."** הן נאכפות מקומית ומשתנות מקומית, מה שהופך אותן ליותר ניתנות לטיפול מאשר מדיניות: הפרקטיקה המפורשת של צוות קורס היא מנוף בדיוק מפני ששם נקבע הכלל התפעולי.
-
-## מושגים מחוברים
-
-- [[academic-integrity]] — the formal rulebook these norms grow alongside
-- [[ai-use-disclosure]] — the practice norms regulate most directly
-- [[framing-ai-use-for-students]] — how a classroom states its expectations
-- [[reducing-ai-misuse]] — the instructional counterpart to norm-setting
-- [[learner-identity]] — who a learner is taken to be when AI use becomes visible
-- [[ai-detection]] — the technical response that mostly fails
-- [[remote-proctoring]] — surveillance as an attempted substitute for norms
-- [[trust]] — what norms and disclosure both depend on
-- [[equity-in-ai-education]] — who absorbs the social cost
-- [[help-seeking]] — the behavior shame suppresses first
-- [[group-work]] — where group norms are negotiated
-- [[student-experience]] — the lived side of all of this
-- [[anxiety-and-stress]] — the affective residue
-- [[governance]] — the formal layer these norms sit under
-- [[ethics]] — the literature that has least to say to students
-
-## מאמרים מחוברים
-
-- [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI in college: evidence from 31,000 course syllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: moral emotions and ethical dilemmas in academic technology adoption
-- [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: the potential negative side-effects of proctored exams
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing assessment
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: generative AI, disclosure, and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
-
-- [[qu-wang-disclose-or-not-genai-2026]] — 409 סטודנטים לתואר ראשון: חשיפה נתפסת של עמיתים ונוחות מרצה ניבאו חשיפה לפני ניתוק מוסרי (Qu & Wang 2026)
-

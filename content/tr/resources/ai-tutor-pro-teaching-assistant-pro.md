@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+connected_concepts: [generative-ai, intelligent-tutoring, conversational-ai, automated-question-generation, formative-assessment, self-directed-learning]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -45,12 +46,3 @@ Geliştiricilerden biri olarak yazan Owston (2026), AI Tutor Pro'nun üç kipini
 ## Notlar ve uyarılar
 
 Her iki uygulama da ücretsizdir ve kişisel bilgi gerektirmez, ama “özel ve anonim” “veri yok” demek değildir: Contact North'un politikası ChatGPT etkileşim günlüklerini ve Google Analytics verilerini topladığını, bunları Kanada'daki sunucularda sakladığını, OpenAI'nin bunlarla eğitim yapmasına izin vermediğini ve etkileşim verilerini en fazla 30 gün saklayan OpenAI ile paylaştığını söylüyor. AI Tutor Pro, ebeveyn ya da vasi izni olmadan 18 yaş altı kullanıcılar için önerilmez. Satıcının etkileşim sayıları bağımsız kullanım verisi değil kendi pazarlama rakamlarıdır ve Slide Builder'daki beta etiketi, çıktısının sınıfta kullanılmadan önce kontrol edilmesi gerektiği anlamına gelir. Açık kaynak lisansı belirtilmemiştir, dolayısıyla kod kurumsal değişiklik için mevcut değildir.
-
-## Bağlı kavramlar
-
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[self-directed-learning]]

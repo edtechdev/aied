@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -135,70 +137,3 @@ ai_assist:
 **"行为活动越多意味着参与越深。"** 常常相反。对 AI 的深层认知参与预测学习，而浅层行为参与预测[[cognitive-offloading|过度依赖]]与学习位移，这些主导了风险文献；[[polished-artifacts-fragile-engagement-2026|精致的成品]]是典型情形，干净的输出显示着活动，而思考并未发生。繁忙的交互日志与脱离参与是相容的。
 
 **"AI 默认使学习更有参与感。"** [[ai-availability-student-motivation|AI 可得性与动机]]表明，仅仅知道 AI 可用就能降低费力参与的价值感，对新手学习者尤其如此。参与由期望、价值与感知能力塑造，不亚于由工具特性塑造，并且它随任务、情境与学习者而变：一个人的深度参与是另一个人的追逐输出。
-
-## 关联概念
-
-- [[learners]] — 学习者：学习者侧概念的总括
-- [[pedagogical-partnerships]] — 教学伙伴关系
-- [[community-of-inquiry]] — 探究共同体（把主体性参与作为一个 CoI 维度）
-- [[eportfolio]]
-- [[online-teaching-and-learning]] — 在线教学与学习
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[stakeholders]] — 总括：AI 教育中的人与受众（学习者、教师、设计者、管理者、政策制定者）
-- [[self-report-measures]]
-- [[productive-failure]]
-- [[reflection]]
-
-## 关联文章
-
-- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI 反馈素养与主体性参与：一个三波随机截距面板（Xu 2026）
-
-- [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离参与行为与学习（Rho 等 2026）
-
-- [[assigned-ai-preclass-student-engagement-2026]] — 基于语音的 AI 课前练习把课堂自愿贡献提高约 31%，但只在第二次使用之后（Wang 等 2026）
-- [[confident-but-absent-ai-use-absenteeism-2026]] — AI 使用伴随更高的课堂缺勤，而自我效能并不预测缺勤，同伴影响是主导相关因素（Franco 等 2026）
-- [[gai-advocacy-practice-art-education-2026]] — 当大学倡导 GAI 而实践不足时：艺术教育中的学生评价与创作过程投入
-
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 局限于头部的 EEG、眼动追踪与 EDA 预测五级参与评级，而学习者自己的定义会改变该映射（Anupkrishnan 等 2026）
-- [[student-attention-estimation-fairness-2026]] — 面向实时学生注意估计的公平感知多模态 Transformer 建模
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 高等教育中的 AI：参与的系统综述 + 教学法的中介作用
-- [[genai-motivation-engagement-2026]] — 生成式 AI 对学生动机与参与的影响
-- [[critical-engagement-code-completion]] — 按 Tab 还是不按 Tab：测量 AI 代码补全中的批判性参与
-- [[icap-cognitive-engagement-llm-agents]] — 测量协作话语中的认知参与
-- [[genai-tutor-engagement-patterns]] — 并非所有学生都以同样方式参与：多机构模式
-- [[polished-artifacts-fragile-engagement-2026]] — 打磨的制品，脆弱的参与
-- [[ai-availability-student-motivation]] — “为什么要投入这么多努力？”：AI 可得性如何塑造动机
-- [[genai-performance-vs-learning]] — 区分表现增益与学习
-- [[scaffolding-critical-engagement-genai-minority-students]] — 用 GenAI 支架化批判性参与
-- [[engagement-intensity-learner-modeling]] — 参与强度作为学习者建模信号
-- [[learning-engagement-assistant-lea]] — 学习参与助手
-- [[engagement-assessment-video]] — 视频学习中的参与评估
-- [[engagement-forecasting-its]] — 从启发式到分析：预测努力与进度
-- [[interactive-learning-dashboards-engagement]] — 交互式学习仪表盘与参与
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征 × TTS 对话格式的交互作用
-- [[wang-goal-setting-ai-engagement-2026]] — 目标设定理论：教师支持、成就目标与 AI 辅助英语学习中的参与（758 名中国学生）
-- [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI 胜任力与情绪作为聊天机器人参与的驱动因素（Zhao 等 2026）
-- [[student-ai-conversations-cognitive-engagement-2026]] — 学生—AI 对话中关联学科的 Bloom 层级认知参与（Chang & Li 2026）
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — 小学阶段的维度特定参与增益（Lu 等 2026）
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — 沉浸式 VR PBL 工作室中认知与行为参与上升、情感参与持平（Jin 等 2026）
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 整群随机的中学数学试验：定制聊天机器人提升了情境兴趣而测验表现未提升（Rücker & Becker-Genschow 2025）
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI 素养直接并通过心理资本驱动参与，被职业承诺放大（Wang 2026）
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生同等的 GRE 学习增益
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 接触 AI 导师使记录的平台参与下降 0.90 个标准差，而作业提交保持稳定（Liu 等 2026）
-- [[eight-mode-ai-engagement-typology-2026]] — 自陈与观察到的 AI 参与画像互不对应，只有行为追踪了测验分数（Keith、Wood 与 Posey 2026）
-- [[al-nafjan-genai-eap-writing-engagement-2026]] — 生成式 AI 之下四种被预测的参与配置，以及工具为何会放大它们
-- [[reding-discussion-boards-tam-ai-analytics-2026]] — 学生对讨论板的看法：一项为 AI 支持的学习分析设计提供依据的技术接受模型研究

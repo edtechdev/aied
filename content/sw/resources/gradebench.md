@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,9 +44,3 @@ Walimu wanaoamua iwapo waache zana ya kupanga alama itoe alama bila kupitiwa, wa
 ## Vidokezo na tahadhari
 
 GradeBench inachapishwa na Pensive, jukwaa la biashara la kupanga alama kwa AI, kwa hivyo benchmark na bidhaa zinashiriki mmiliki mmoja; ujenzi wa kazi umerekodiwa katika nyaraka na unaweza kutetewa, lakini uchukulie uwasilishaji wake kama wa muuzaji. Inashughulikia mitihani ya STEM yenye rubriki za angalau vipengele vinne, jambo linaloondoa insha, majibu mafupi na machapisho ya majadiliano — miundo ambapo upangaji mwingi wa alama wa [[humanities-education|sayansi za binadamu]] hufanyika. Ulinganifu kamili wa rubriki ni kipimo kali: wapangaji wawili wa alama wanaweza kutokubaliana kwenye kipengele na wote wakawa sahihi kuhusu mwanafunzi. Alama zinaelezea matoleo ya modeli yaliyopatikana Novemba 2026 na zitabadilika.
-
-## Dhana Zilizounganishwa
-
-- [[automated-assessment]] — mazoea ambayo benchmark hupima
-- [[assessment-validity]] — kigezo ambacho alama ya ubao wa alama ni kiwakilishi chake
-- [[benchmark]] — kundi pana zaidi la vyombo ambalo chombo hiki huangukia

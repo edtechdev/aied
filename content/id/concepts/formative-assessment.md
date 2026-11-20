@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -132,69 +134,3 @@ Observabilitas dapat dirancang tanpa pengawasan: ia adalah bukti yang benar-bena
 - **"Butir latihan hasil generasi memberi sinyal formatif yang berguna."** **Bank butir hasil generasi yang mudah tidak memberi sinyal formatif**: dalam **penerapan 10 pekan sekitar 70% butir latihan hasil AI dijawab benar oleh setiap siswa**. Bank yang dilulusi semua orang tidak membawa informasi tentang siapa membutuhkan apa.
 - **"Keandalan generasi butir seragam lintas format."** Sistem AI menghasilkan butir formatif lintas modalitas **dengan keandalan yang berbeda menurut jenisnya** — pilihan ganda termasuk di dalamnya. Memperlakukan butir hasil generasi sebagai setara lintas format menyembunyikan di mana generasi dapat diandalkan.
 - **"Memberi siswa umpan balik AI menghasilkan penerapan."** **Masalah penerapan** didokumentasikan terpisah dari kualitas umpan balik: menerima umpan balik dan bertindak atasnya adalah dua langkah berbeda, dan langkah kedua adalah tempat penilaian formatif berhasil atau gagal.
-
-## Konsep terkait
-
-- [[pedagogical-patterns]] — Bentuk berurutan yang diambil penilaian formatif ketika AI menyediakan sebagian umpan balik
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — Penilaian sumatif: format yang tahan AI (ujian lisan, terawasi, tutup buku)
-- [[reflection]]
-
-## Artikel terkait
-- [[llm-multi-agent-conversation-assessment-2025]] — Arsitektur empat agen untuk penilaian berbasis percakapan yang penilainya berlindung pada kategori tengah (Hou dkk. 2025)
-- [[causal-modeling-competency-assessment-2026]] — Pemodelan kausal intervensi dukungan untuk penilaian kompetensi siswa
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Pendekatan seluruh program untuk mendesain ulang penilaian di era GenAI
-- [[ai-feedback-enactment-workflow-2026]] — Membuat umpan balik hasil AI bermakna: dari penyediaan ke penerapan
-- [[care-full-feedback-genai]] — Kerajinan penuh kepedulian dalam umpan balik di era GenAI
-- [[feedback-futures-genai]] — Masa depan umpan balik: melampaui batas kapasitas manusia dan GenAI
-- [[sequenced-ai-feedback-learning]] — Dampak dan jalur umpan balik AI berurutan
-- [[learner-centered-feedback-ai]] — Memperkuat umpan balik berpusat siswa dengan AI
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Dari penilaian otomatis ke diagnosis pembelajaran: studi mekanisme penilaian formatif berbantuan AI dalam menulis bahasa Inggris
-- [[ai-internal-feedback-evaluative-judgments]] — Mengembangkan pertimbangan evaluatif melalui umpan balik internal berbantuan AI
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: penilaian formatif dengan prompting human-in-the-loop
-- [[automated-formative-assessments-a-level-sciences]] — Penilaian formatif otomatis berfrekuensi tinggi
-- [[ai-generated-feedback-higher-ed]] — Umpan balik hasil AI di pendidikan tinggi
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: umpan balik AI berbasis kurikulum
-- [[genai-teacher-feedback-comparison]] — Perbandingan umpan balik GenAI vs. guru
-- [[chatgpt-feedback-engagement-genai]] — Umpan balik ChatGPT dan keterlibatan
-- [[code-gen]] — CODE-GEN: generasi MCQ tervalidasi
-- [[responsible-assessment-ai-era-stanford-2026]] — Penilaian yang bertanggung jawab di era AI
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Merancang untuk penilaian autentik
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Penilaian otomatis ujian Linux/bash
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Peran instruktur dan AI dalam penilaian formatif yang diperkuat ChatGPT
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Menimbang ulang ujian lisan sebagai penilaian autentik yang tahan AI
-- [[roe-assessment-twins-2026]] — Kembaran penilaian untuk memperkuat validitas penilaian di era GenAI (Roe, Perkins & Giray 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: generasi rubrik penilaian AI
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Penilaian dan umpan balik berbantuan AI yang diawasi instruktur
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Scaffolding ICAP adaptif dalam ITS (BKT vs DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivitas membuat umpan balik efektif: bukti dari umpan balik hasil AI atas rencana anak-anak
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Penilaian otomatis, interpretasi kinerja, dan pembelajaran mandiri (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Keterampilan diagnostik guru dalam penilaian formatif berbantuan AI: dari diagnosis ke meta-diagnosis
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Kegunaan yang dipersepsikan dan niat menggunakan umpan balik hasil LLM dalam pemrograman lintas tiga jenjang pendidikan
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Bantuan pengajaran adaptif yang memadukan AI generatif dan analitik big data dalam pendidikan musik
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Penggunaan LLM oleh siswa dan batas kesulitan soal hasil AI dalam mata kuliah ilmu data
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — Infrastruktur Penilaian Berkelanjutan Termediasi AI (AIM-CAI): menghubungkan bukti pembelajaran lintas konteks dan waktu (McNamara & Hasnine 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnosis percakapan AI untuk mengajarkan miskonsepsi dengan dialog berbasis bukti (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Padanan positif bagi risiko pengawasan: observabilitas sebagai desain bukti, bukan pemantauan

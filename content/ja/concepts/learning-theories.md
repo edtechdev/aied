@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
+connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -116,51 +118,3 @@ ai_assist:
 **研究者にとって**
 
 **「理論的に言えば、AIについての教育は教育におけるAIと同じである。」** 両者は異なる系譜に依拠している。一方は学習者がいかにしてAIを一つの教科として理解するようになるかを問い、他方はAIが学習の起こり方をいかに変えるかを問う。この2つを混同すると、2つの異なるエビデンス基盤を混ぜ合わせ、どちらについても首尾一貫した全体像を示せない文献レビューが生み出される。
-
-## 関連概念
-
-- [[behaviorism]]
-- [[cognitive-psychology]]
-- [[constructivist]]
-- [[metacognition]]
-- [[distributed-cognition]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[desirable-difficulties]]
-- [[active-learning]]
-- [[experiential-learning]]
-- [[collaborative-learning]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[learning-design]]
-- [[learning-sciences]]
-- [[philosophy-of-ai-in-education]]
-- [[ai-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
-## 関連記事
-
-- [[yan-agentivism-learning-theory-ai-2026]] — 人間とAIの相互作用を対象とする中範囲学習理論。4つのメカニズムと6つの検証可能な命題を提示（Yan and Gašević 2026）。
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺瞞的な過剰一般化：適応的な習熟判定は、学習者が行動を控えるべき時を判断できるようになる前に練習を打ち切ってしまうことがある（An, McLaren & Stamper 2026）。
-- [[airis-hybrid-human-ai-cognition-2026]] — ハイブリッドシステムにおけるAI拡張探究と調整（AIRIS）。
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — AIを人間とAIの共調整における認知的パートナーとして位置づける。生涯にわたる発達的枠組み。
-- [[ensemble-cognition-philosophy-ai-education]] — アンサンブル認知：思考を人間とAIの相互作用として再概念化する哲学的枠組み。
-- [[self-directed-growth-generative-ai-learning-analytics]] — 自己主導的成長と、GenAIによって自己主導学習を拡張するA2PLモデル。
-- [[generativism-learning-theory]] — 古典的な4つの学習理論を再検討し、生成AI時代の新しい学習理論を提案する。
-- [[ai-vocational-education-training-review]] — VETにおけるAI活用で、構成主義/行動主義の理論と実践の乖離を記録した。
-- [[genai-educational-outcomes-meta-analysis]] — 53件の研究を対象としたPRISMAメタ分析：達成度、思考、執筆、動機づけの統合された向上効果を示し、フィードバックが最大のメカニズムであった（Dong 2026）。
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — 媒介エージェントとしての生成AI。
-- [[kim-ai-productive-failure-adult-2026]] — 生産的失敗に基づく学習を支援するAIシステムの設計。
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 生産的失敗に向けたLLMの教育学的ステアリング。
-- [[lukesova-clue-before-correction-2026]] — 訂正の前に手がかりを：自律的な言語学習のためのChatGPT。
-- [[rachatasumrit-example-problem-ratio-2026]]
-- [[saranya-pedagogical-practices-genai-learning-theories-2026]] — 学習理論の全スペクトルにわたる教育実践と生成AIの統合：システマティックレビュー。

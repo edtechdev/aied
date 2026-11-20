@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
@@ -121,48 +123,3 @@ Két konkrét jelentési gyakorlat fújja fel vagy torzítja a szintézist, és 
 - **„A korlátokról szóló szakaszok sablonosak."** A módszertani korlátok **mérhetők, nem benyomásszerűek**: 80, MI-vel folytatott kritikus gondolkodási **HCI-tanulmány** kritikai áttekintésében **42 (52%) nem alkalmazott kontrollcsoportot**. Egy pontos szám az, ami cselekvésképessé teszi a korlátot.
 - **„A heterogenitás egyetlen szám, amelyet idézni lehet."** Ugyanaz az áttekintés jelentési veszélyre mutat rá: a heterogenitást **fix hatású modell mellett I² = 82,98%-ként, véletlen hatású modell mellett I² = 15,75%-ként** idézik. Ugyanaz az adat kilencpontos vagy kétpontos történetet ad a választott modelltől függően, így a modellje nélkül idézett I² értelmezhetetlen.
 - **„A nagy jelentett effekt az a szám, amelyben meg kell bízni."** Egy olyan fő eredmény, mint **30 diák egy kurzusa egy helyszínen**, a törékeny állítás szokásos formája, és a kontroll nélküli tanulmányok száma megmutatja, milyen gyakran marad ez a törékenység jelentés nélkül.
-
-## Kapcsolódó fogalmak
-
-- [[interpreting-and-applying-aied-research]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-- [[ai-education]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-
-## Kapcsolódó cikkek
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — MI-chatbotok a felsőoktatásban: az elvárások és a bizonyítékok összevetése (Thoeni és Fryer 2026)
-
-- [[ground-truth-reliability-aied]] — A ground truth megbízhatósága és érvényessége az értékelésben
-- [[ai-literacy-assessment-misalignment]] — Önbevallásos és teljesítményalapú MI-írástudás
-- [[machines-misread-pedagogical-quality]] — Miért olvassák félre a gépek a pedagógiai minőséget
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Az MI-tutorok kritikai korlátai és az elmélethasználat
-- [[cross-dataset-bloom-question-classification]] — A Bloom-taxonómia és a kérdések osztályozása
-- [[eeg-familiarity-automated-assessment-2026]] — A tanulói értékelés automatizálása: EEG-alapú ismerősség-előrejelzés
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT az oktatásban: okot kereső effekt (média-összehasonlítási kritika)
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analízis: a publikációs torzítással korrigált MI-hatások a jelentett méret ~1/3-a
-- [[oneill-presumed-effective-meta-analysis-2026]] — Feltételezett hatás: 14 AIED-meta-analízis forenzikus auditja
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: Empirikus jelentési keretrendszer MI-támogatott rendszertanulmányi áttekintésekhez
-- [[frontier-models-physics-benchmark-audit-2026]] — Mennyire jók a frontier modellek fizikából? A szakértői újraértékelés feltárt hibás értékeléseket és a vezető benchmarkok közel-telítettségét
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — A bevonási kritériumok mint szigorúsági küszöb, és a modellel változó heterogenitási szám (Doğan és mtsai. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Klaszter-randomizált tantermi kísérlet, amelynek teljesítményeredménye nem érte el a szignifikanciát (Rücker és Becker-Genschow 2025)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: az MI és az emberi tutorálás egyenértékű GRE-tanulási nyereséget ad
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — A visszajelzés fókusza és pedagógiai adaptivitása az LLM által generált diákszöveg-visszajelzésben
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: állításalapú sémák az oktatási párbeszédek auditálható kódolásához
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Az érzelemosztályozástól a cselekvésképes és felelős visszajelzésig: scoping-áttekintés és bizonyítéktérkép az NLP-ről a tanítási hallgatói értékelésben, 2015–2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Amit a hűségmetrikák kihagynak: strukturális ellenőrzés a szintetikus oktatási adatokon
-
-- [[digital-competence-ai-responsive-pedagogy-2026]] — 195 tanárképzési tanulmány scoping-áttekintése, ahol a keresési karakterlánc tervezése alakítja a jelentett gyakoriságokat
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Nemzetközi K-12 tanárfelmérés: gépi fordítással készült tételek, egyetlen tételes aggodalommérések, invariancia-tesztelés nélkül
-- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 GenAI felsőoktatási tanulmány rendszertanulmányi áttekintése: 56% feltételes nyereség, a jegyek elfedik a folyamatváltozást (Hawi és Samaha 2026)
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Az adatbővítés meg tudja teremteni a fő mérőszámot

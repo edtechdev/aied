@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
+connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -76,39 +78,3 @@ ai_assist:
 **"কারিগরি পছন্দ প্রযুক্তিবিদের বিষয়, শিক্ষকের নয়।"** পাতার কাঠামো বলে, আপনি এলএলএম বানাতে না পেরেও একজন চমৎকার শিক্ষক হতে পারেন এবং আপনার কারিগরি পছন্দ এখনও ঠিক করে দেয় আপনার শ্রেণিকক্ষে এআই কী করতে পারে ও পারে না। একটি ব্যবস্থা কোর্স-উপকরণে নিজের উত্তর ভিত্তি দেয় কি না, তা শিক্ষাবিজ্ঞানগত পরিণতিসহ এমন একটি সিদ্ধান্ত যা কাউকে নিতে হবে।
 
 **"আরও সক্ষম মডেল ক্ষেত্রের ফাঁক মিটিয়ে দেবে।"** অর্কেস্ট্রেশন, স্মৃতি ও দীর্ঘ-পরিসরের পরিকল্পনা সক্ষমতার নয়, স্থাপত্যের সমস্যা — নথিভুক্ত অনুপস্থিতি হলো এমন ব্যবস্থার, যা সময়ের সঙ্গে নিজের সরঞ্জাম-ব্যবহার পরিচালনা করে, এবং উন্নততর মডেল একা তা যোগায় না।
-
-## সংযুক্ত ধারণা
-
-- [[llm]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[reinforcement-learning]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[vibe-coding]]
-- [[rag]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[pedagogy]]
-- [[learning-theories]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## সংযুক্ত নিবন্ধ
-- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM ও ইঞ্জিনিয়ারিং শিক্ষায় 85টি এআই সরঞ্জামের গবেষণা-দৃশ্যমানতা (Terkowsky প্রমুখ 2026)
-
-- [[agentic-ai-education-scoping-review]] — শিক্ষায় এজেন্টিক এআই-এর স্কোপিং পর্যালোচনা
-- [[genai-meta-analysis-programming-learning]] — প্রোগ্রামিংয়ে উৎপাদনশীলতা ও শিখনে জেনারেটিভ এআই-এর প্রভাবের মেটা-বিশ্লেষণ
-- [[cstutorbench-slm-tutors]] — ছোট ভাষা-মডেল টিউটরিং বেঞ্চমার্ক
-- [[educational-llm-alignment]] — শিক্ষার জন্য এলএলএম অ্যালাইন করা
-- [[eduguard-safe-rag-llm-tutor]] — RAG-ভিত্তিক এলএলএম টিউটরে গার্ডরেল
-- [[hazra-safetutors-pedagogical-safety-2026]] — এআই টিউটরের নিরাপত্তা ও ক্ষতি
-- [[elbench-education-llm-benchmark-2026]] — শিক্ষা এলএলএম বেঞ্চমার্ক
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini উৎপাদনশীল সামাজিক রোবট
-- [[benzion-ai-physics-simulations-virtual-lab]] — শ্রেণিকক্ষের জন্য এলএলএম-উৎপাদিত পদার্থবিজ্ঞান সিমুলেশন

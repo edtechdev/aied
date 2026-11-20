@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
+connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -42,7 +44,6 @@ ai_assist:
 - **장치가 요점이 아닐 때 가상 실험실은 물리 실험실을 능가할 수 있습니다.** 옴의 법칙을 배우는 9학년 학생은 AI 지원 가상 실험실, AI 없는 같은 실험실, 물리 실험실에서 30점 만점에 23.45, 20.51, 16.57점을 받았고 모든 쌍이 유의미했습니다([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]). 저자들은 장치를 다루는 것 자체가 목표인 곳에서는 물리 실험실의 불리함이 줄어들 수 있음을 인정합니다.
 
 - **직접 하기 대 들려주기, 5주에 걸쳐 측정.** 공학 1학년 126명을 대상으로 한 준실험에서 생성형 AI로 학습하는 방법에 관한 2시간 경험 세션은 [[metacognition|메타인지]] 지식에서 +0.25의 향상을 낳았고, 강의는 거의 0이었습니다. 이는 중간 정도의 효과(d = −0.37)로 다중 비교 보정 후 p = .055에서 유의성에 이르지 못했으며, [[self-report-measures|자기 보고된]] AI 참여는 5주 시점에 두 집단에서 비슷했습니다(3.99와 3.93)([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio 등, 2026]]). 이 페이지의 근거에 부과되는 한계는 분명히 말할 가치가 있습니다. 한 번의 직접 세션은 메타인지 지식을 옳은 방향으로 움직이지만 비교를 결론짓지는 못하므로, 하기의 이점은 단일 실험실에서 가정되는 것이 아니라 반복된 순환으로 쌓아야 합니다.
-
 
 - **불확실성을 위한 인프라로서의 AI, 효율성이 아니라.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]]는 생성형 AI에게 경영 모의에서 파괴적 사건과 연쇄 결과를 생성하는 일을 맡겨, 팀들이 불완전한 정보 아래에서 계획을 수정하게 하며, 보호된 모의가 교실 밖에서는 부담이 되는 의사결정 습관을 남길 수 있음을 경고합니다.
 
@@ -82,36 +83,3 @@ AI 지원 [[design-education|설계 교육]]에서의 직접 손대는 학습에
 **"더 [[authentic-assessment|진정성 있는 과제]]가 곧 더 낫다."** 진정성은 전이 가치와 평가 문제를 함께 높입니다. 실제 시스템은 변동이 크고 채점하기 어려운 증거를 낳으며, 과제가 진정성 있을수록 결과는 점수와 덜 닮습니다. 설계는 둘을 함께 붙들어야 하며, 그래서 성찰 구조가 과제만큼의 무게를 지닙니다.
 
 **"[[intelligent-tutoring|AI 튜터링]]은 강의 콘텐츠에 맞는 만큼 경험 학습에도 맞는다."** 그 적합성은 더 약합니다. 튜터는 설명을 제공할 수 있으나 시스템과의 만남을 제공할 수는 없습니다. 이 [[pedagogy|교수법]]에서 그것의 자연스러운 자리는 학습자가 일어난 일을 이해하는 성찰과 개념화 단계 근처이지, 하기를 대신하는 곳이 아닙니다. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]]는 만남을 각본으로 쓰지 않고 생성합니다. 학습자의 목표에서 출발해 GELLI는 실행 시점에 인물, 지원, 성찰을 갖춘 상황 장면을 구축하며, 일본인 학습자 40명을 대상으로 한 피험자 내 연구에서 어휘 회상(d = 0.45)과 자신감(d = 0.45)에서 전문가가 만든 영상보다 나았으나, 말하기에서는 그렇지 않았습니다.
-
-## 연결된 개념
-- [[active-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[educational-robotics]]
-- [[higher-ed]]
-- [[learning-theories]]
-- [[pedagogy]] — 상위 개념: AI 교육의 교수법과 교수 전략
-- [[virtual-and-augmented-reality]] — 의도된 경험으로서의 몰입적 연습
-- [[reflection]]
-
-## 연결된 문서
-
-- [[gelli-experiential-language-learning-2026]] — GELLI: 경험적 언어 학습 상호작용을 위한 생성기 (Symonette et al. 2026)
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 플립드 물리 학습을 위한 AI 지원 가상 실험실: 중학생 성취, 동기, 인지 부하에 미치는 효과
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 시대의 스마트 제조를 위한 Workforce Readiness Level 틀
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 체화 지능을 통한 지속 가능한 학습 기르기(E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — 사이버보안 교육에서의 GenAI
-- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로봇공학 교육을 위한 봇과 블록
-- [[edusim-llm-robotic-simulation-education-2026]] — 교육용 LLM 로봇 시뮬레이션 플랫폼(EduSim-LLM)
-- [[white-wu-robotics-ai-education-2026]] — 교육에서의 로봇공학과 AI
-- [[ai-lms-middle-school-longitudinal]] — AI 통합 LMS 종단 연구
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — 다섯 지표 루브릭과 함께, 공동체 현장 작업을 대신하는 AI 페르소나(Elhajj 등 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — AI 지원 설계 교육에서 체화된 직접 손대기를 인지적 직접 손대기와 구별하는 주제 검토(Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — 세 가지 생성형 AI 메커니즘을 중심으로 재구성된 전략 경영 강좌
-- [[metacognitive-awareness-experiential-vs-instructional]] — AI 지원 학습에서 메타인지 인식을 위한 경험 세션 대 강의 세션(Benazet i Montobbio 등 2026)
-
-- [[yusuf-service-learning-mapping-2026]] — 봉사 학습 순환에 대응시킨 26개 연구: AI는 평가와 성찰에서 얇아진다(Yusuf 등 2026)
-- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — 실제 세계 역할놀이가 공감 향상에서 VR과 LLM 대화를 능가했으나, 노출 시간이 혼재되어 있었다 (Zwoliński 등, 2026)

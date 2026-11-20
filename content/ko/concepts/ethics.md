@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
+connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -116,56 +118,3 @@ ai_assist:
 AI 윤리 교육은 종종 아무도 검증하지 않는 가정, 즉 [[ethics|윤리 교육]]이 무언가를 바꾼다는 가정에 의해 정당화됩니다. 66개 연구와 학생 9,978명을 대상으로 한 2024년 체계적 문헌고찰 및 메타 분석은 교육 전반에서 그 가정에 대한 가장 나은 검증입니다. 윤리 개입은 통제 조건에 비해 윤리적·도덕적 결과를 g = 0.55만큼 높였고, 실제 효과의 73%가 사전 등록된 유익함 기준선을 넘었습니다 — 그러나 **조절 역할을 한 것은 전달 형식이었습니다**. 토론 기반 형식과 토론+강의 형식은 효과가 있었으나(g = 0.56, g = 0.68), 강의만 하는 수업은 0과 다르지 않았습니다(g = 0.10). 온라인 전달은 대면 전달과 구별되지 않았습니다([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod 외, 2024]]).
 
 AI 윤리로의 전이는 그 연구의 발견이 아니라 추론이지만, 강한 추론입니다. 편향과 정직성에 관한 강의 형태로 전달되는 AI 윤리 모듈은 이 증거에 비추어 볼 때 이용 가능한 가장 약한 형식입니다.
-
-## 연결된 개념
-- [[business-education]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[regulation]]
-- [[pedagogical-safety]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]] — AI 사용과 공개 진술
-- [[governance]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
-- [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물에서의 AI 리터러시, 비판적 사고, 특수 도구
-
-- [[civic-and-political-education]]
-
-## 연결된 문서
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 대처 틀이 가르쳐지지 않은 곳에서 윤리 인식이 AI 불안을 증폭했다: 584명의 학생 사이에서 간접 전용 매개
-- [[learning-analytics-to-educational-interventions-2026]] — 학습 분석에서 교육 개입으로: 신뢰할 만한 LA 기반 개입의 가능 조건(Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 학생이 온라인 평가에서 AI를 사용하고 숨기는 방식
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 학생의 AI 공개, 낙인, 자기조절 학습
-- [[vetter-hidden-cost-disclosure-genai-2026]] — 공개의 숨은 비용
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — AI 사용 선언에 관한 학생의 비준수
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI의 윤리 차원에 관한 교수자와 학생의 견해
-- [[ethical-use-ai-engineering-education-review-2026]] — 공학 교육에서의 AI의 윤리적 사용: 체계적 고찰
-- [[ai-ethics-education-public-discourse]] — 교육에서의 AI 윤리에 관한 공적 담론의 종단 분석
-- [[ethical-ai-higher-ed-game-theory]] — 고등 교육에서 윤리적 AI 사용을 위한 게임 이론 틀
-- [[cost-of-ethics-crisis-cs-ethics-education]] — CS 학생의 구직에서의 윤리의 비용 위기
-- [[xai-education-framework]] — 교육에서의 설명 가능한 AI(XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI를 위한 방법으로서의 도가
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터 안전과 교수법적 해
-- [[raffaghelli-situated-ai-ethics-2026]] — 상황적 AI 윤리: 교육을 위한 문화-역사적 틀
-- [[ethically-mediated-ai-tpack-china-2026]] — 대학 교수자의 AI-TPACK에서 통합적 매개자로서의 AI-윤리 지식(Chen 외 2026)
-- [[ai-ethics-bibliometric-2026]] — AI 윤리와 전문적 판단: 서지측정 분석(Mazlan 외 2026)
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO 생성형 AI 정책 틀 분석
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — 교수가 학생 피드백에 AI를 쓰는 것이 윤리적인가?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — 학생, 교육자, 정책에 걸친 윤리적 AI 리터러시 간극 연결하기
-- [[alharbi-ethical-genai-eap-2026]] — 학문 목적 영어에서의 윤리적 생성형 AI 통합
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 지속 가능한 교육과 AI에 관한 가치 비판적 접근(Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — 시험 준비에서 LLM 도입의 윤리적 조건(Pérez-Portabella 외 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 교사 교육에서의 GenAI 사용, 윤리, 정책의 종단적 분석(Parker 외 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — 교육에서의 AI를 위한 윤리 가치와 규범
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행동하고, 누가 알며, 누가 답하는가? 생성형 AI 고등 교육 연구에서 주체성, 인식론적 책임, 책무에 관한 문헌 집합 지원 담화 분석
-- [[gillette-partnership-ethics-genai-higher-education-2026]] — 파트너십 윤리가 부정행위 틀 대신 기관의 생성형 AI 결정을 이끌어야 한다고 주장하는 스웨덴 설문 및 포커스 그룹 연구
-- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — 윤리적 인식, 성찰, 보고된 책임 있는 실천이 세 차례 연차 조사에서 대체로 독립적으로 성장했다(Ayanwale 외 2026)
-
-- [[qi-information-ethics-ai-judgment-2026]] — 대학생의 정보 윤리 교육과 인공지능 윤리적 판단
-- [[pal-ethically-aware-learning-ai-classroom-2026]] — AI 활용 교실에서의 윤리 인식 학습
-- [[ethics-education-meta-analysis-moral-outcomes-2026]] — 윤리 교육은 효과가 있으나(g = 0.55), 토론 기반 전달은 효과가 있고 강의 전용 전달은 효과가 없음

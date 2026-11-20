@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
+connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -114,40 +116,3 @@ ai_assist:
 **"सहभागिता एक ही चीज़ है, इसलिए एक स्कोर उसका प्रतिनिधित्व कर सकता है।"** इस संरचना के तीन सूत्र हैं, और सेंसर अधिकतर पहले तक पहुँचता है। E3Sense ने पाया कि शिक्षार्थियों ने इसे संज्ञानात्मक, व्यवहारिक और भावनात्मक संकेतकों के माध्यम से अलग-अलग अनुपातों में परिभाषित किया, और उन परिभाषाओं ने पूर्वानुमान बदल दिया ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]])। एक अकेली संख्या छिपा देती है कि कौन-सी परत मापी गई।
 
 **"अगर मॉडल वैलिडेशन विभाजन पर निष्पक्ष है, तो कक्षा में भी निष्पक्ष है।"** जिस नियमितक ने लिंग-समूहों में वैलिडेशन त्रुटि बराबर की, उसने अपरिचित अंतराल और बिगाड़ दिया ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]])। निष्पक्षता तैनाती की विशेषता है, किसी चेकपॉइंट की नहीं।
-
-## संबंधित अवधारणाएँ
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[embodied-learning]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[neurodiversity]]
-- [[equity-in-ai-education]]
-- [[accessibility]]
-- [[machine-learning]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-
-## संबंधित लेख
-- [[gaze-informed-ai-children]] — गेज़-ट्रिगर LLM वर्णन ने बच्चों को वर्णित क्षेत्र पर 6.48 सेकंड बनाम 1.67 सेकंड रखा, पर अध्ययन ने समझ के बजाय ध्यान मापा (Wu et al., 2026)
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — सिर-आरोपित EEG, आई ट्रैकिंग और माथे का EDA ने स्व-आँकित सहभागिता का 63.0% आधाररेखा के विरुद्ध 75.0% एक-भीतर सटीकता से अनुमान लगाया (Anupkrishnan et al., 2026)
-- [[engagement-assessment-video]] — EduGage ने सात पहनने योग्य और कैमरा धाराओं को खंड-स्तरीय सहभागिता अनुमानों (MAE 0.81) में संयोजित किया और हल्के उपकरण का पक्ष लिया (Leng et al., 2026)
-- [[student-attention-estimation-fairness-2026]] — मल्टीमॉडल ध्यान मॉडल 0.283 MAE तक पहुँचा, और उसके वैलिडेशन निष्पक्षता-लाभ अपरिचित विषयों पर उलट गए (Fragkiadakis et al., 2026)
-- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — पहनने योग्य AI द्वैध रूप से पारदर्शी है, इसलिए भौतिक बहिष्करण विफल होता है और प्रवर्तन छात्रों के शरीरों का निर्णय करने की ओर बहकता है (Corbin et al., 2026)
-- [[eeg-familiarity-automated-assessment-2026]] — EEG परिचय-पूर्वानुमान के पंद्रह मॉडल परीक्षण-स्वतंत्र वैलिडेशन में 0.9853 से 0.6038 F1 पर गिरे (Nanayakkara और Halloluwa, 2026)
-- [[seeing-cognitive-representations-eeg-reconstruction]] — EEG-पुनर्निर्मित छवियाँ परीक्षण-प्रदर्शन को R² = 0.79 पर दर्शाती रहीं, जबकि एक उच्च-पुनर्निर्माण प्रतिभागी ने ग़लत उत्तर दिया (Su et al., 2026)
-- [[physiological-signals-exam-outcomes-ml]] — रैंडम फ़ॉरेस्ट ने EDA, गति और त्वचा-तापमान से परीक्षा-ग्रेड श्रेणियों का अनुमान लगाया, जो समझ के बजाय उत्तेजना के सूचक संकेत हैं (Yamazaki और Rimal, 2026)
-- [[affective-text-wearable-student-health]] — 458 Oura पहने छात्रों में, चिंता का विषय नहीं बल्कि भावनात्मक स्वर नींद और हृदय-गति परिवर्तनशीलता के साथ चला (2026)
-- [[tutorloop-sensor-cognitive-feedback-2026]] — वेबकैम गेज़ ने 187 शिक्षार्थियों के लिए सुदृढ़ीकरण-अधिगम प्रतिपुष्टि चलाई; ध्यान सीखने के साथ r = 0.017 पर था जबकि कार्यभार ऋणात्मक रूप से सहसंबद्ध था (2026)
-- [[arif-automated-online-proctoring-yolov11-2026]] — YOLOv11 मुद्रा-लक्षणों ने विशेष लेबल सेट पर 99.56% से संदिग्ध व्यवहार चिह्नित किया, कदाचार या निष्पक्षता परखे बिना (Arif et al., 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 54 प्रतिभागियों में बाहरी लेखन-सहायता के साथ EEG संबद्धता घटी, निर्भरता को संचित संज्ञानात्मक ऋण के रूप में प्रस्तुत करते हुए (Kosmyna et al., 2025)
-- [[kim-ai-embodied-learning-review-2026]] — 23 अध्ययनों में संवेदन-भूमिकाएँ टैग के 62.5% पर हावी रहीं और किसी समीक्षित प्रणाली ने मल्टीमॉडल धाराओं को जीवंत संयुक्त नहीं किया (Kim और Han, 2026)

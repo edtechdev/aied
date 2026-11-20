@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
+connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -101,50 +103,3 @@ ai_assist:
 **«Студенти, яким важко, мають просто навчитися краще складати підказки.»** Це перетворює дефект системи на дефіцит здобувача. За незмінного базового завдання точність моделі зросла лише з **82.4% для формулювання з низькою грамотністю до 83.4% для експертного формулювання** — різниця в один пункт — тоді як вимога кращого [[prompt-engineering|складання підказок]] додає нове виключення поверх наявного. Важіль — в обробці мовної варіації на боці системи, а не в корекційному тренуванні підказок.
 
 **«Інструмент, створений для добре забезпечених аудиторій, слугуватиме контекстам із низькими ресурсами після перекладу.»** Контекст змінює обмеження дизайну. [[suacode-african-students-motivations|SuaCode]] досяг студентів у африканських контекстах із низькими ресурсами, де **менше 1% мають навички програмування**, будуючи для смартфонів, а не для настільних лабораторних машин, — це інший дизайн, а не менша версія того самого.
-
-## Пов’язані поняття
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[accessibility]] — конкретний шар доступу (субтитри, альтернативний текст, сумісність із асистивними технологіями)
-- [[assistive-technology]] — шар інструментів, яким студенти користуються для доступу до змісту
-- [[special-education]]
-- [[learning-design]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[speech-and-voice-technologies]]
-
-## Пов’язані статті
-
-- [[prompt-privilege-equitable-ai-access-2026]] — Привілей підказок: вимірювання та пом’якшення розривів у доступі до LLM
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Генерування питань на основі LLM для глухих і слабочуючих здобувачів
-- [[text-simplification-its]] — Спрощення тексту для інтелектуального навчання
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: голосовий компаньйон для дітей із порушеннями зору
-- [[tactile-statistical-graphs-accessibility]] — Тактильні 3D-надруковані статистичні графи
-- [[pepper-robot-sign-language-lis-2025]] — Робот Pepper, що підтримує комунікацію мовою жестів
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Доступна для математики транскрипція відео з фізики на Gemini+LuaLaTeX
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Асистивний GenAI для здобувачів із порушеннями зору
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Генеративний ШІ, віртуальна реальність і не лише: огляд цифрових асистивних технологій для нейровідмінних студентів у вищій освіті

@@ -17,6 +17,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
+connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -37,7 +39,6 @@ Otomatik Kompozisyon Puanlama, eğitim teknolojisinde ilk istatistiksel modeller
 
 - **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang vd.]]** RACES, LLM kompozisyon puanlamasını hem doğru hem tutarlı kılmak için ödül hizalaması kullanarak temel bir AES geçerlilik kaygısını ele alır.
 
-
 [[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu ve Abdi (2026)]], YZ ile insan puanlamasını EFL akademik yazımında karşılaştıran on iki çalışmayı gözden geçirir ve genel olarak orta düzeyde bir uyum bildirir; uyum yüzeysel dilsel özelliklerde en güçlü, düzenleme, tutarlılık ve argüman geliştirmede en zayıftır ve adalet nadiren incelenmiştir.
 
 Üst ilkokul düzeyinde metne yanıt yazımında [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti ve ark. (2026)]], öğrencilerin kanıt kullanımına ilişkin [[ai-feedback-quality|otomatik geri bildirimin]] özellik puanlarını iyileştirdiğini ve revizyon niteliğinin sistemin kendisine değil, öğretmenlerin geri bildirimi tartışmada ele alıp almadığına bağlı olduğunu bulmuştur.
@@ -51,9 +52,7 @@ Otomatik Kompozisyon Puanlama, eğitim teknolojisinde ilk istatistiksel modeller
 
 **Yanlılık ve adillik** kritik bir kaygıdır. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]**, YZ puanlamanın dilsel olarak çeşitli geçmişlerden gelen öğrencileri sistematik biçimde düşük değerlendirdiğini bularak AES dağıtımında [[bias-mitigation]] ve [[equity-in-ai-education]] değerlendirmelerinin gerekliliğini ortaya koymaktadır.
 
-
 **Öğretmenler puanın son değil, incelenebilir biçimde sunulmasını ister.** Dokuz deneyimli Brezilyalı lise yazma öğretmeni, [[ai-education|AIED]]-Unplugged adlı kompozisyon puanlama uygulamasını değerlendirdi ve uygulamayı yüksek puanladı — medyan SUS 92,5; kullanışlılık, kullanım kolaylığı, ilgililik ve kullanma niyeti için TAM medyanları 7, sonuç kalitesi için 6. Kendiliğinden, istemeden, raporun tamamen güvenilir olmadığına ve bir öğrenci görmeden önce incelenmesi gerektiğine dair ekranda bir uyarı taşıması gerektiğini söylediler; bir öğretmen bu yükümlülüğü olumlu bir özellik olarak okudu ([[ribeiro-teachers-writing-analytics-adoption-2026|Ribeiro vd. (2026)]]). Daha az değil, daha fazla ayrıntı istediler: yetkinlik başına teşhisler, genel bir özet, kendi yorumları için bir alan ve nasıl iyileştirileceğine dair somut örnekler. Geçerlilik araştırması uyum oranları üzerine tartışırken, bu kullanıcılar arayüzden sistem ile öğretmen arasındaki yargı bölüşümünü kodlamasını istedi.
-
 
 **İnsan değerlendiricilerle anlaşmazlık sistematiktir, rastgele değil.** Kutudan çıktığı haliyle GPT ve Llama modelleri insan puanlarıyla yalnızca zayıf biçimde anlaştı (iki insan değerlendiricisi arasındaki 0,72’ye karşı QWK ≈ 0,17–0,28) ve kaliteye bağımlı bir yönde yanlılık gösterdi — kısa, gelişmemiş kompozisyonlar için daha yüksek, küçük yüzey hataları taşıyan uzun, güçlü olanlar için daha düşük ([[llms-do-not-grade-essays-like-humans-2026|Mathew vd. (2026)]]).
 
@@ -84,7 +83,6 @@ Açık sistemler de bu resmin parçasıdır: AiAWE, LoRA ile uyarlanmış Gemma-
 
 - **“En iyi anlaşan istek metniyle yönlendirilmiş model, en güçlü kompozisyon puanlayıcısıdır.”** ASAP 2.0’da iki uzman değerlendirici arasında yayımlanmış uyum **κ 0,745**’tir ve hiçbir yönlendirilmiş modelin nokta tahmini buna ulaşmadı: 22 model **0,155** ile **0,727** arasında koştu ve **18’i** için tüm aralık altında kaldı. İnce ayarlı bir DeBERTa puanlayıcısı **0,809**’a, yalnızca kompozisyon uzunluğunu sayan bir kural ise **0,636**’ya ulaşarak **22 modelin 16’sını** geride bıraktı; ancak her model uzunluğun ötesinde uyumunu korudu. [[porcaro-ai-grading-benchmark-2026|Aşılması gereken taban çizgisi, yoldaki model değil eğitilmiş puanlayıcıdır]].
 
-
 ## Yaygın yanlış anlamalar
 
 - **“Otomatik puanlama sonuçları öğrenci yazısını yansıtır.”** Sıralı sinyal **gözlemlenmek yerine üretilmiş** olabilir: şablon üretimiyle, **özgün uzunluğun %20-40’ına** indirgeme ve anahtar kelime çıkarımıyla kurulan sentetik düzey-1 kompozisyonlar. Yapılandırılmış uçlar üzerinde doğrulanmış bir sistem, karşılaşacağı dağılım üzerinde hiç sınanmamış olabilir.
@@ -92,42 +90,3 @@ Açık sistemler de bu resmin parçasıdır: AiAWE, LoRA ile uyarlanmış Gemma-
 - **“Raporlanacak ölçüt toplam doğruluktur.”** **Çarpık bir rubrik dağılımı toplam puanlama ölçütlerini yanıltıcı kılabilir**: bir rubrik boyutunun otomatik değerlendirmesi çoğu zaman dengesiz bir etiket dağılımına sahip bir sınıflandırma görevidir ve burada yüksek doğruluk ile yararlı ayırt etme birbirinden ayrılır.
 
 - **“Saha konuşlandırmaları değerlendirilmemiştir.”** Gerçek bir yüksek riskli konuşlandırmadan (**Uruguay’ın Acredita EB’si, 2024**) saha kanıtı vardır; bu, bu literatürdeki en güçlü kanıt biçimidir ve puanlama doğruluğuna ilişkin çoğu çalışmanın hiçbir zaman sunmadığı kanıttır.
-
-## Bağlı kavramlar
-
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[automated-assessment]]
-- [[language-learning]]
-- [[educational-measurement]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Bağlı makaleler
-
-- [[reflection-level-classification-hungarian-essays-2026]] — Macar Öğrenci Kompozisyonlarında Otomatik Yansıma Düzeyi Sınıflandırması
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: Argümantif Kompozisyonlar için Modülerleştirilmiş Otomatik Yazma Değerlendirme Sistemi
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Otomatik Kompozisyon Puanlama Yoluyla Eğitimde Yenilik: Lise Fizik Kompozisyonlarında Eleştirel Düşünmenin Değerlendirilmesi için Çok Boyutlu Bir Çerçeve
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise raporu: Üç Birleşik Krallık üniversitesinde 761 üniversite kompozisyonunun YZ ile notlandırılması
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ölçekli Yazma Değerlendirmesinde YZ Destekli Puanlama için İnsan-Devriginde Bir Çerçeve
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: LLM’lerle ödül hizalamalı tutarlı kompozisyon puanlaması
-- [[ai-scoring-language-bias-physics]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM’ler kompozisyonları insanlar gibi notlandırmaz (Mathew vd. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Otomatik puanlamadan öğrenme teşhisine: İngilizce yazmada YZ destekli biçimlendirici değerlendirmenin mekanizma çalışması
-- [[llm-essay-scoring-feature-weighting-2026]] — LLM tabanlı kompozisyon puanlamasında özellik ağırlıklandırma kalıpları (Wang vd. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Kompozisyon değerlendirmesinde LLM’lerin değerlendirilmesi için çerçeve (Liu, Ye & Yan 2026)
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Ne Zaman Güvenilir Bilinir: öz güven, ağırlıklı olasılık puanlaması ve toplulaştırma LLM puanlama uyumunu iyileştirir
-- [[swim-student-writing-simulation-2026]] — bir yazı üreteci için yoğun eğitim ödülü olarak kullanılan dondurulmuş bir AES doğrulayıcısı
-
-- [[porcaro-ai-grading-benchmark-2026]] — Uyumun ötesi: 22 istek metniyle yönlendirilmiş notlandırıcı, doğru yanıtı bilinen sondalarla karşılaşır ve çoğu ikna edilebilir (Porcaro 2026)
-- [[ribeiro-teachers-writing-analytics-adoption-2026]] — 300 öğrencilik sınıfların öğretmenleri, eklentisiz bir AES uygulamasını 92,5 SUS ile puanlıyor ve son puan değil güvenilirlik uyarısı istiyor (Ribeiro vd. 2026)
-

@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-08"
     agent: hermes-agent
+connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -164,45 +166,3 @@ ai_assist:
 - **“[[automated-assessment|স্বয়ংক্রিয় স্কোরিং]] স্কেল-সমস্যা সমাধান করে।”** তীব্র শ্রেণি-অসামঞ্জস্যসহ ভালোভাবে টীকাযুক্ত সংগ্রহে শ্রেণিবিন্যাসকারীরা প্রতিফলন-স্তরে আনুমানিক 70%-এ পৌঁছায়, আর সেই সিলিং বিশ্বাসযোগ্য পাঠ্যের নাগালেই।
 - **“পোর্টফোলিও স্বভাবতই প্রতিফলনমূলক।”** ধারক কাজটি নয়; পালিশ-করা পণ্য থেকে সংকলিত পোর্টফোলিওতে আদৌ প্রতিফলন নাও থাকতে পারে।
 - **“প্রতিফলন শেখানো লাগে না।”** হাঙ্গেরিয়ান প্রবন্ধ-সংগ্রহ ও প্রাক-সেবা শিক্ষক পরীক্ষা — দুটিই ধরে নেয় স্তর ও গুণমান শেখা হয়, আর প্রস্তুতি ফলাফল বদলায়।
-
-## সংযুক্ত ধারণা
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[eportfolio]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[motivation]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[generative-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[structured-reflection-ai-explanatory-feedback-2026]] — পূর্ব-নিবন্ধিত 302-প্রাপ্তবয়স্ক পরীক্ষা: প্রতিফলন-প্রম্পট ফিডব্যাকে সময় দ্বিগুণ করেছে ও অনুশীলনের পরিমাণ 40% কমিয়েছে, প্রতি-সমস্যায় লাভ না বাড়িয়েই (Asher, Gold ও Carvalho 2026)
-- [[5p-reflection-model-genai-2026]] — নথিভুক্ত প্রম্পট ও পুনরাবৃত্তির ওপর গড়া জেনএআই-সচেতন পাঁচ-অংশের প্রতিফলন মডেল, চূড়ান্ত লেখার ওপর নয় (Kadel প্রমুখ 2026)
-- [[reflection-level-classification-hungarian-essays-2026]] — 1,954টি টীকাযুক্ত প্রবন্ধ, তীব্র শ্রেণি-অসামঞ্জস্য, অগভীর মডেল 71% ও ট্রান্সফরমার 68% (2026)
-- [[reflection-agent-fidelity-career-2026]] — এআই প্রতিফলন-সঙ্গী ব্যবহারকারীদের কম প্রতিশ্রুতিশীল রেখে গেল কেন তা ব্যাখ্যা করতে 17,930টি পালা কোড করা (Nepal প্রমুখ 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — স্ব, সহযোগী ও সম্প্রদায় প্রতিফলন, এআই জ্ঞানীয় মধ্যস্থতাকারী হিসেবে (2026)
-- [[falhs-teacher-expertise-reflection-2025]] — 100 জন K–12 শিক্ষক: সময় নবীনদের বাধা, কার্যক্ষমতা-ট্র্যাকিং অভিজ্ঞদের (Falhs 2025)
-- [[ai-cognitive-partner-reflective-thought-2026]] — চারটি জেনএআই চর্চা ও এগারোটি প্রক্রিয়া, প্রতিটি প্রতিফলনমূলক চিন্তাকে সমর্থন বা প্রতিস্থাপন করতে পারে (Dalsgaard ও Prilop 2026)
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — প্রতিফলনমূলক জার্নালিং রুটিন টেকসই রাখার ওপর র‍্যান্ডমাইজড 2×2 ফিল্ড পরীক্ষা (Scheu প্রমুখ 2026)
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — কৌশল-প্রশিক্ষণ বনাম একটি সক্রেটিক LLM প্রতিফলন-সঙ্গীর 2×2 পরীক্ষা (Zhang প্রমুখ 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — কোনো সমন্বিত স্কোর ছাড়া অ-নির্ণায়ক আত্ম-প্রতিফলন টুল (Alam 2026)
-- [[wang-reflective-ai-use-engagement-programming-2026]] — পরিমাপিত গঠন হিসেবে প্রতিফলনমূলক এআই ব্যবহার, যা গ্রহণযোগ্যতাকে আত্ম-কার্যকারিতা ও সম্পৃক্ততার সঙ্গে যুক্ত করে (Wang ও Zhao 2026)
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — পরবর্তী ফিডব্যাক চক্র পুনঃক্রমাঙ্কিত করার জীবন্ত ইনপুট হিসেবে কাঠামোবদ্ধ প্রতিফলন (Oktoma প্রমুখ 2026)
-- [[pedlow-genai-selfassessment-2026]] — নৈতিক জেনএআই ব্যবহারের জন্য আত্ম-মূল্যায়নের ভিতরে নির্দেশিত প্রতিফলন (Pedlow ও Maldon 2026)
-- [[teachers-reflective-regulators-cognition-offloading]] — এআই ব্যবহারের পর চেনা, জ্ঞান পুনর্বণ্টন ও প্রতিফলনমূলক পুনঃসম্পৃক্ততা নিয়ে 18 জন শিক্ষক (Ho ও Chen 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — অবস্থানপত্র: প্রতিফলন-প্রম্পট টেকসই আত্ম-পর্যবেক্ষণ গড়ে তোলে এমন কোনো প্রমাণ নেই (de Jong 2026)
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — জেনএআইকে ফিডব্যাক-প্রদানকারী ও সংশ্লেষকারী হিসেবে 16 সপ্তাহের WordPress ই-পোর্টফোলিও (Ni ও Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ই-পোর্টফোলিও মূল্যায়নের সঙ্গে মিলিত ChatGPT, Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
-- [[liu-teaching-analytics-dashboard-2026]] — একটি স্ক্যাফোল্ড বিশ্লেষণমূলক ও মূল্যায়নমূলক গভীরতা বাড়িয়েছে, কর্ম-পরিকল্পনা অপরিবর্তিত থেকেছে (Liu প্রমুখ 2026)
-- [[yusuf-service-learning-mapping-2026]] — 26-গবেষণার ম্যাপিং: সেবা-শিক্ষা চক্রের সবচেয়ে কম সেবাপ্রাপ্ত পর্যায় প্রতিফলন (Yusuf প্রমুখ 2026)

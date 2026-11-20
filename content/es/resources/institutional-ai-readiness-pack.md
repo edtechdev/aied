@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -38,6 +39,3 @@ Una **batería de evaluación**: una autoevaluación de madurez de la preparaci�
 
 ## Para quién es
 Líderes de investigación, comités y oficinas de políticas que necesitan una imagen basada en evidencias del uso y la [[governance|gobernanza]] de la IA en un entorno de investigación, y una forma de seguir el [[change-management|cambio]] a lo largo del tiempo. Acompaña a *Responsible AI in Academic Research: A Competency Framework for Research Training*, que define cinco dimensiones de preparación, y lo escribió Michael J. Zyphur, director de Instats.
-
-## Conceptos conectados
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

@@ -31,6 +31,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
+connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -116,40 +118,3 @@ Ein Muster gilt auf jeder untersuchten Stufe: Die menschliche Schicht fängt die
 **„Ein [[intelligent-tutoring|adaptiver Tutor]] hilft auf jeder Stufe gleich."** Der Vergleich, der die Variable isoliert, ist lehrreich: zwei Versionen desselben Mathematiktutors für die zweite Klasse — identische Inhalte, Oberfläche, Rückmeldungen und gesprochene Hinweise —, die sich **allein darin unterscheiden, ob die Aufgabenauswahl einem bayesianischen [[knowledge-tracing|Knowledge-Tracing]]-Modell folgte**. Adaptive Aufgabenauswahl ist eine stufensensitive Intervention, und ihr Nutzen hängt davon ab, ob Lernende auf dieser Stufe die Anpassung nutzen können.
 
 **„Evidenz, die sich in der Hochschulbildung konzentriert, lässt sich nach unten verallgemeinern."** Das gilt nicht, und die Verteilung der Literatur ist eine Warnung, keine Bequemlichkeit. Wo die Evidenz dicht und wo sie dünn ist, ist eine Eigenschaft der Forschungsökonomie, nicht des Ortes, an dem KI am meisten genutzt wird; eine Aussage über K-12, die aus Universitätsstichproben gezogen wird, ist daher eine Extrapolation über die Grenze hinweg, die am meisten zählt.
-
-## Verbundene Konzepte
-- [[primary-education]] — Die Primarstufe für sich betrachtet
-- [[secondary-education]] — Mittel- und Oberstufe zusammen
-- [[undergraduate-education]] — Studienleistungen unter externer Bewertung
-- [[graduate-education]] — Betreuung, Forschungsausbildung, berufsqualifizierende Programme
-- [[k-12]]
-- [[early-childhood-elementary-ai-education]]
-- [[higher-ed]]
-- [[adult-learning]]
-- [[special-education]]
-- [[teacher-education]]
-- [[vocational-education]]
-- [[learners]]
-- [[parents-and-families]]
-- [[differential-effects-across-learner-groups]]
-
-## Verbundene Artikel
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Adaptives versus nicht-adaptives Tutoring im Mathematikunterricht der zweiten Klasse (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI-Chatbots und Problemformulierung mit Drittklässlern im naturwissenschaftlichen Primarstufenunterricht
-- [[chatgpt-music-education-junior-high-2026]] — Einstellungen von Junior-High-Schülern zu ChatGPT beim Lernen von Songtexten (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — KI-integriertes LMS, entworfen für die Mittelstufe, mit einer vorgeschlagenen Längsschnittstudie
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lerneinbuße durch generative KI im chinesischen Sekundarbereich (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Vier Formen des Sich-Verlassens auf LLM bei schreibenden Studierenden im grundständigen Studium (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — KI-gestützte Seminarplattform mit eingebetteter Bibliotheksunterstützung für Ingenieurstudierende
-- [[ai-mediated-research-agency-formation-2026]] — KI-Abhängigkeit, Autonomie und Innovation in der Doktorats- und Postdoc-Ausbildung (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Sichten von Stakeholdern auf Datenschutz in der afrikanischen Hochschulbildung (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Bereitschaft von Bildungsmanagern zur KI-Adoption in der Ukraine (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — KI-gestütztes immersives PBL für Designstudierende in der Berufsbildung (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Absicht von Vorschullehrkräften, KI in frühkindlichen Settings zu nutzen
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Einstellungen von Kindern zu einem altersangepassten KI-Chatbot
-- [[yim-ai-literacy-primary-schools-review-2025]] — 25 Studien zur Primarstufe; vier Komponenten einschließlich Ethik und kritischer Datenkompetenz (Yim & Su 2025)
-- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 Studien zur Sekundarstufe; Genauigkeit bricht bei Aufgaben höherer Ordnung ein (Pérez-Montesdeoca et al. 2026)
-- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1477 Befragte aus Oberstufe, Universität und Lehrerschaft; wahrgenommenes Lernen versus Engagement
-- [[kumar-chatgpt-academic-assignments-2025]] — 304 Studierende im grundständigen und postgradualen Studium; digitale Kompetenz sagte Leistung voraus, Ethik nicht
-- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Vergleich grundständiges Studium versus Graduiertenstudium; Lücke bei Ethik und Autonomie am größten (Zaripova et al. 2026)
-- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modell der GenAI-Kompetenz von Graduierten mit fünf Dimensionen

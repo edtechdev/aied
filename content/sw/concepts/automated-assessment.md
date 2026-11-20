@@ -22,6 +22,8 @@ translation_of: concepts/automated-assessment
 source_updated: "2026-11-04T15:25:17-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
+connected_concepts: [explainable-ai, remote-proctoring, assessment-validity, formative-assessment, automated-essay-scoring, bias-mitigation, equity-in-ai-education, teacher-role, llm, higher-ed, ai-ed-evaluation, feedback, ai-feedback-quality, psychometrically-aware-ai, trust-calibration, trust, educational-measurement, item-response-theory, human-in-the-loop-ai, adaptive-learning, personalized-learning, summative-assessment]
+connected_articles: [stewart-tag-question-categorization-competency-2026, zhao-ai-supported-grading-rubric-refinement-2026, roy-premise-rubrics-llm-judges-2026, llm-structured-assessment-diagnostic-quality-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, llm-comparative-judgment-writing-screening-2026, usher-faraon-who-grades-best-2026, assessing-quality-ai-generated-exams-field-2025, automated-formative-assessments-a-level-sciences, cong-confidence-asag-2026, ai-scoring-language-bias-physics, llm-difficulty-calibration-programming-exams-2026, choi-anchor-aes-prompting-2025, cotal-formative-assessment-scoring-2026, automated-grading-linux-bash-examinations-large-language-models, confidence-aware-student-drawing-assessment, diagramir-educational-math-diagram-evaluation, shap-llm-rationales-teaching-quality-assessment, eeg-familiarity-automated-assessment-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, ai-grading-handwritten-physics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-perspectives-ai-writing-grading-2026, tripartite-feedback-framework-ai-assessment-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, llm-grade-bands-calibration-bias-2026, sophie-clinical-communication-ai-assessment-2026, automated-constructive-assessment-hdr-llm-2026, llm-feedback-focus-adaptivity-student-writing-2026, llm-graders-computer-science-exams-2026, llm-automated-coding-teacher-pck-2026, ai-marking-accuracy-gcse-physics-2026, llm-grading-assistants-public-health-2026, machine-human-marking-agreement-institutions-2026, wargaming-adjudication-ai-judged-grading-2026, porcaro-ai-grading-benchmark-2026, dino-ai-teacher-performance-learner-behavior-review-2026, baumartz-rubric-aes-llm-ensembles-2026, zammel-mllm-kinematics-graph-grading-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -106,7 +108,6 @@ Tathmini ya kiotomatiki kwa kawaida huweka alama kile wanafunzi wanazalisha, huk
 
 Mada nne zinapanga korpusi: **Tathmini**, mifano inayoweka alama walimu kutokana na maoni ya wanafunzi na data ya tafiti; **Ushiriki**, zana zinazopanga wanafunzi kwa kiwango cha ushiriki katika mazingira ya mtandaoni, ya mahali na ya mseto; **Udhihirishaji**, uwekaji kodi wa hisia na mada wa maoni ya wanafunzi yaliyoandikwa; na **Uzoefu**, upatikanaji wa picha na video wa tabia inayoweza kuonekana darasani. Utendaji wa mwalimu ulikuwa lengo la kawaida zaidi, katika masudio 11 kati ya 21. Waandishi hawakufanya [[meta-analysis-systematic-review|uchanganuzi wa meta]], kwa sababu tofauti za mbinu na matokeo zilizuia ujumuishaji, na masudio 7 kati ya 21 yalikuwa na washiriki 100 au chini — kwa hivyo mapitio yanachora uwanja uliogawanyika badala ya kukadiria jinsi AI inavyohukumu ufundishaji vizuri.
 
-
 ## Ubora na usawa
 
 Ubora wa tathmini ya kiotomatiki unategemea [[assessment-validity]] na [[bias-mitigation]]. Utafiti wa [[ai-scoring-language-bias-physics|Upendeleo wa lugha]] unaonyesha kuwa kuweka alama kwa kiotomatiki kunaweza kuwahatarisha kwa mpangilio idadi fulani za wanafunzi.
@@ -146,7 +147,6 @@ Tathmini ya kiotomatiki inahusiana na [[assessment-validity]] (uhakiki wa ubora)
 
 - **"Kappa moja ndio hoja kwa mwenye kuweka alama."** Ni ukaguzi mmoja tu, na kiwango cha viwiano cha **mifano 22 iliyopewa ilani** katika korpora tatu za umma kinaonyesha kwa nini. Kila mfano ulikidhi vipimo ambavyo jibu lake sahihi linajulikana: ombi la heshima la alama kamili, maelekezo ya kuweka alama yaliyoghushiwa, jibu tupu, neno lisilo na maana, pingamizi tupu. **Kumi na nne** ziliwekwa alama kwa kupata zaidi ya **5% ya kipimo** kutokana na dokezo, hadi **83.2%** kwenye kodi, na **saba** zilihesabu majibu tupu au yasiyo na maana, kwa hivyo [[porcaro-ai-grading-benchmark-2026|takwimu ya makubaliano na majaribio ya kushindwa yanapaswa kusomwa pamoja]]. Mfumo wa kuweka alama uliotumika una ingizo moja zaidi la kujaribu: kushiriki makadirio ya [[student-modeling|mfano wa mwanafunzi]] na mwenye kuweka alama kulibadilisha alama kwa **pointi 0.28 hadi 0.75** kwenye kazi zile zile, na [[porcaro-ai-grader-reliability-2026|ubainishaji uliouigundua]] uliacha makubaliano ya watahini karibu bila mabadiliko.
 
-
 ## Dhana Potofu za Kawaida
 
 - **"Alama ya kiotomatiki ni nambari moja ya kuaminika."** Mtihani wa vitendo wa maono ya kompyuta (**wanafunzi 570 waliopimwa mara mbili**) ulipimwa chini ya **usanidi 171**, na mtihani wa pili wa ujifunzaji wa mashine chini ya zingine zaidi; usanidi ndio ulioongoza alama. Alama inayowasilishwa kama nambari huficha usanidi ulioizalisha.
@@ -156,77 +156,3 @@ Tathmini ya kiotomatiki inahusiana na [[assessment-validity]] (uhakiki wa ubora)
 - **"Kuripoti uhakika ni anasa."** Alama inayosema ina **uhakika wa 70%** ingebadilisha jinsi inavyotumika, na kukosekana kwa habari hiyo kunamlazimisha msomaji kuchukulia alama zote kuwa na uhakika sawa.
 
 - **"Kuweka alama kwa majibu mafupi ni eneo lililotatuliwa."** Mapitio ya upeo ya kuweka alama kwa majibu mafupi katika [[science-education|sayansi]] (**2017 hadi mwanzoni mwa 2024**) yanaandika historia ya nyanja, ambayo ni rekodi ya kile kilichojaribiwa badala ya kile kilichothibitishwa.
-
-## Dhana Zilizounganishwa
-
-- [[explainable-ai]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[summative-assessment]] — Tathmini ya jumla: miundo inayopinga AI (mitihani ya mdomo, inayosimamiwa, ya vitabu vilivyofungwa)
-
-## Makala Zilizounganishwa
-
-- [[llm-structured-assessment-diagnostic-quality-2026]] — Vipimo vya chini vya rubriki ya LLM ni karibu visivyo na maana na maoni mara chache hutaja dhana potofu (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — Ripoti ya OpRaise: kuweka alama na AI kwa insha 761 za chuo kikuu katika vyuo vitatu vya Uingereza
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Kuweka alama kwa HITL kusaidiwa na AI katika tathmini ya uandishi ya kitaifa ya kiwango kikubwa (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Uhalali wa Hukumu ya Kulinganisha ya Mfano Mkubwa wa Lugha kwa Uchunguzi wa Uandishi wa Ujumla
-- [[usher-faraon-who-grades-best-2026]] — Kulinganisha kuweka alama kwa ChatGPT, marika, na mkufunzi katika viwango vya ubora wa mradi (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Kupima ubora wa mitihani iliyozalishwa na AI: utafiti wa uwanja wa kiwango kikubwa
-- [[automated-formative-assessments-a-level-sciences]] — Tathmini za kiotomatiki za mchakato katika sayansi za A-level
-- [[cong-confidence-asag-2026]] — Kuweka alama kwa kiotomatiki kwa majibu mafupi kunayotambua uhakika
-- [[ai-scoring-language-bias-physics]] — Upendeleo wa lugha katika alama za AI za fizikia
-- [[llm-difficulty-calibration-programming-exams-2026]] — Urekebishaji wa ugumu unaotegemea LLM kwa mitihani ya programu
-- [[choi-anchor-aes-prompting-2025]] — Kutoa ilani kwa kuweka alama kwa insha kwa kiotomatiki kinachotegemea nanga
-- [[cotal-formative-assessment-scoring-2026]] — Kuweka alama tathmini ya mchakato ya CoTAL
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Kuweka alama kwa kiotomatiki mitihani ya Linux Bash kwa LLM
-- [[confidence-aware-student-drawing-assessment]] — Tathmini inayotambua uhakika ya michoro iliyochorwa na wanafunzi
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: tathmini ya kiotomatiki ya michoro ya hisabati iliyozalishwa
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP dhidi ya hoja za LLM kwa tathmini ya ubora wa ufundishaji inayotegemea rubriki
-- [[eeg-familiarity-automated-assessment-2026]] — Kufanya Tathmini ya Mwanafunzi Kuwa ya Kiotomatiki: Utabiri wa Ufahamu Unaotegemea EEG
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: uzalishaji wa rubriki za tathmini za AI
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Kuweka alama na maoni yanayosimamiwa na mkufunzi kusaidiwa na AI
-- [[ai-grading-handwritten-physics-2026]] — Kuweka alama kwa AI tathmini za fizikia za mkono (Olimpiki)
-- [[auto-marking-short-answer-science-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Nani Anapaswa Kuweka Alama Kazi Yangu? Mitazamo ya Wanafunzi kuhusu Tathmini ya Uandishi ya Msaada ya AI ya Uwazi katika Elimu ya Juu
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Mfumo wa pande tatu: kupanga maoni kulingana na hali ya maarifa na kanuni tano za mipaka kwa ushiriki wa AI (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Tathmini ya timu nyekundu ya miingiliano ya kutoa ilani iliyofichwa katika mawasilisho ya wanafunzi dhidi ya kuweka alama unaoendeshwa na AI (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Mfumo wa LLM unaofaa kueleza kwa kubuni kwa tathmini ya kiotomatiki ya waelimishaji pamoja na utambuzi wa kujifunza unaozuiliwa na uaminifu (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — kuweka alama hisabati ya mkono ya nusu-wazi pamoja na kichujio cha uhakika kwa ukaguzi upya wa kibinadamu
-- [[llm-grade-bands-calibration-bias-2026]] — Je, mifano mikubwa ya lugha inaweza kurudia kanda za digrii za elimu ya juu? Utafiti wa mifano mingi wa urekebishaji na upendeleo wa kuweka alama katika uandishi halisi wa wanafunzi
-- [[sophie-clinical-communication-ai-assessment-2026]] — Mafunzo ya mawasiliano ya kliniki yanayotegemea AI yanayoweza kupimika na tathmini ya kiotomatiki
-- [[automated-constructive-assessment-hdr-llm-2026]] — Kufanya Tathmini ya Ujenzi Kuwa ya Kiotomatiki kwa Mifano Mikubwa ya Lugha: Kuelekea Tathmini Inayoweza Kupimika na Inayojirudia ya Uwezo wa Vitendo
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Kutathmini Lengo la Maoni na Uwezo wa Kubadilika wa KIELIMU katika Maoni Yaliyozalishwa na LLM juu ya Uandishi wa Wanafunzi
-- [[llm-graders-computer-science-exams-2026]] — Wenye Kuweka Alama wa LLM Wanafanikiwa na Kuvunjika Wapi: Ushahidi kutoka Mitihani Miwili ya Sayansi ya Kompyuta
-- [[llm-automated-coding-teacher-pck-2026]] — LLM ya wakala wengi (GradeOpt) wanaweka kodi majibu ya uhuru ya CK na PCK ya waelimishaji, uaminifu kutoka kuboresha ilani dhidi ya mwongozo wa kuweka kodi
-- [[ai-marking-accuracy-gcse-physics-2026]] — Kuweka alama kwa AI kulilinganishwa na alama za bodi ya mitihani na hukumu ya mwalimu katika fizikia ya GCSE
-
-- [[llm-grading-assistants-public-health-2026]] — Hali ya kufikiri ilipandisha makubaliano ya kuweka alama ya LLM-kibinadamu kutoka weighted kappa 0.269 hadi 0.718
-- [[machine-human-marking-agreement-institutions-2026]] — Makubaliano kati ya mashine na binadamu katika kuweka alama kwa kazi za chuo ni maalum kwa mfano, ilani na taasisi
-- [[wargaming-adjudication-ai-judged-grading-2026]] — Kidole kwenye Mizani: Kutumia Mazoezi ya Kawaida ya Uamuzi wa Mchezo wa Vita Kuboresha Tathmini na Uwekaji Alama Unaohukumiwa na AI (Epstein 2026)
-
-- [[porcaro-ai-grading-benchmark-2026]] — Zaidi ya makubaliano: watoa alama 22 walioandaliwa kwa ilani wanakabiliana na vipimo vyenye jibu sahihi linalojulikana, na wengi wao wanaweza kushawishiwa kupandisha alama (Porcaro 2026)
-- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Kutathmini ufundishaji badala ya kazi ya mwanafunzi, bila kuunganisha
-

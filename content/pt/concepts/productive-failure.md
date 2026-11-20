@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
+connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -102,37 +104,3 @@ A falência produtiva conecta-se a [[learning-theories|teorias da aprendizagem]]
 - **"Reter a ajuda frustra os estudantes e custa motivação."** Um [[rct|ECA]] de três braços constatou que um tutor que retém dicas **igualou o ChatGPT irrestrito na redução de frustração e** na motivação — o custo apareceu **apenas na preferência**. Os estudantes não gostaram tanto dele e não sofreram por ele, o que significa que dados de preferência teriam rejeitado o desenho que funcionou.
 - **"Mais frustração significa mais aprendizagem."** O tutor escalonado era **0,42 pontos de escala mais frustrante que o tutor que respondia sob demanda (p < ,001) e 0,29 menos frustrante que** o braço mais frustrante. A faixa produtiva é um meio, não um máximo, de modo que "dificuldade desejável" não autoriza tornar a tarefa mais difícil indefinidamente.
 - **"A falência produtiva significa que os professores não devem ajudar."** O desenho retém *a resposta* ao mesmo tempo que fornece estrutura e escalonamento. Reter uma dica e reter apoio são intervenções diferentes, e só a primeira é a que tem evidência aqui.
-
-## Conceitos conectados
-
-- [[pedagogical-patterns]] — Tentar antes da instrução como sequência completa, com sua base de evidência rarefeita
-- [[constructivist]]
-- [[learning-theories]]
-- [[desirable-difficulties]]
-- [[problem-based-learning]]
-- [[case-based-learning]] — Casos como espaço de problema compartilhado para a primeira tentativa
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[socratic-method]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[hallucination-risk]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[student-engagement]]
-
-## Artigos conectados
-
-- [[kim-ai-productive-failure-adult-2026]] — Desenhando sistemas de IA para apoiar a aprendizagem baseada em falência produtiva
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Direcionamento pedagógico de LLMs para a falência produtiva
-- [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoiar o desenho de problemas de FP
-- [[wang-safety-gap-productive-struggle-2026]] — A Lacuna de Segurança: restaurando a luta produtiva
-- [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para a aprendizagem autônoma
-- [[pedagogy-ai-mistakes]] — A pedagogia dos erros da IA
-- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Reter soluções evitou o custo de frustração, mas perdeu na preferência dos estudantes
-- [[shen-ai-skill-formation-2026]] — Mediana de 3 erros sem IA contra 1 com ela, e notas 17% maiores no quiz sem ajuda (Shen & Tamkin 2026)

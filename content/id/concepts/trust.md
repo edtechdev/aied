@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
+connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -52,7 +54,6 @@ Seberapa dapat dijelaskan suatu sistem — dan dalam istilah apa — juga memben
 
 **Persepsi risiko dan kepercayaan bukanlah hal yang berlawanan.** Studi persepsi terhadap 130 siswa tentang GenAI [[agentic-ai|agensik]] di [[higher-ed|pendidikan tinggi]] menemukan risiko yang dipersepsikan naik secara moderat (M = 3.33, SD 0.89) bersamaan dengan kepercayaan dan niat adopsi yang lebih menyenangkan (M = 3.62, SD 0.81), dan — bertentangan dengan ekspektasi pencegahan yang sederhana — asosiasi *positif* antara risiko yang dipersepsikan dan niat penggunaan berkelanjutan (ρ Spearman = 0.317, p < 0.001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva et al. 2026]]). Penulis membacanya sebagai adopsi yang terinformasi alih-alih ketidakpedulian: pengguna yang terlibat atau berpengalaman mengenali baik nilai maupun batas teknologi itu, dan hanya 45.4% yang mengatakan mereka mempercayai agen di bawah bimbingan instruktur. Bagi [[trust-calibration]], implikasinya adalah bahwa kesadaran akan risiko bukanlah ketiadaan kepercayaan — ia dapat menjadi komponennya — sementara desain lintas-seksional membuat kesadaran, paparan, dan seleksi diri tidak dapat dibedakan.
 
-
 Kepercayaan pada AI berperilaku sebagai jalur dari penilaian ke ketergantungan alih-alih satu sikap tunggal: pemberdayaan AI yang dipersepsikan dan ancaman AI yang dipersepsikan hampir independen (r=0.030) namun menggerakkan kepercayaan ke arah yang berlawanan (β=0.576 dan β=−0.328), dan kepercayaan membawa asosiasi tidak langsung yang signifikan dengan ketergantungan GenAI di kedua arah ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
 Sebuah model struktural memberi peran penjembatanan itu uji empiris. Dalam survei [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]] terhadap 642 mahasiswa, dukungan kontekstual memprediksi kalibrasi kepercayaan (β = 0.56), kalibrasi kepercayaan memprediksi [[collaborative-learning|kolaboratif]] [[regulation|regulasi]] (β = 0.49) dan keuntungan [[transfer-of-learning|transfer]] yang dipersepsikan (β = 0.22), dan jalur langsung dari dukungan kontekstual ke keuntungan tidak signifikan.
@@ -62,7 +63,6 @@ Sebuah model struktural memberi peran penjembatanan itu uji empiris. Dalam surve
 Konstruknya lebih tipis daripada yang disiratkan koefisien itu. Ia mengukur kepercayaan teknologi instrumental dengan tambahan nilai seni — keyakinan yang dinyatakan alih-alih keandalan yang terkalibrasi — dan dua butir kepengarangan dieliminasi setelah membentuk faktor sendiri dalam uji coba 121 mahasiswa. Seorang mahasiswa dapat memercayai model ini secara tepat atau secara sembarangan, dan instrumen itu tidak dapat membedakan keduanya.
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] mendukung penjelasan kepercayaan pada algoritme yang **spesifik fungsi alih-alih global**: baik averasi algoritme maupun apresiasi algoritme tidak menggambarkan 13 siswa ini, yang sekaligus mempercayai ChatGPT untuk umpan balik tingkat permukaan dan tidak mempercayainya sebagai penilai. Kepercayaan mereka bersyarat pada pengawasan instruktur, dan skeptisisme mereka berasal dari batas kontekstual AI — salah membaca tulisan tangan yang dipindai ("ia salah mengeja nama belakang saya dan mengira saya membuat kesalahan ejaan padahal tidak"), tidak mengetahui sistem penilaian instruktur, dan positivitas kronis — alih-alih dari teknofobia, yang menyarankan ukuran kepercayaan harus didekomposisi menurut fungsi yang dijalankan AI dan taruhan yang melekat padanya.
-
 
 Tiga dimensi Kredibilitas Sumber dapat berdisosiasi: tujuh belas mahasiswa sarjana EFL memberikan keahlian luas kepada asisten menulis AI, meragukan keandalannya terutama karena apa yang disimpan platform, dan menilai niat baiknya paling rendah - batas atas ketergantungan mereka terletak pada kepedulian, bukan kompetensi ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
 
@@ -83,7 +83,6 @@ Respons yang mengutamakan deteksi bekerja ke arah sebaliknya: detektor yang tida
 Ketergantungan pada detektor dan pengawasan, menurut [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]], menumbuhkan iklim kecurigaan yang menggerus kepercayaan siswa pada penilaian dan pada institusi — kebalikan dari kepercayaan yang seharusnya dilindungi oleh proses integritas.
 
 Umpan balik adalah lokasi kunci bagi kepercayaan interpersonal. [[genai-teacher-feedback-comparison|Persepsi siswa tentang GenAI versus umpan balik guru]] menemukan keduanya melayani kebutuhan yang berbeda — komplementer tetapi tidak dapat dipertukarkan — dengan siswa mempercayai umpan balik guru untuk pertimbangan yang relasional dan personal serta [[generative-ai|GenAI]] untuk kecepatan dan [[accessibility|aksesibilitas]]. [[care-full-feedback-genai|Penjelasan umpan balik yang "penuh kepedulian"]] berargumen bahwa umpan balik yang dapat dipercaya adalah praktik [[ethics|etis]] dan relasional: ia membangun hubungan edukatif dan dihormati sebagai keahlian profesional, nilai yang tidak dapat sekadar direplikasi AI. Inilah sebabnya kepercayaan guru-siswa — dibangun atas kepedulian dan pertimbangan profesional — tetap sentral bahkan ketika AI memasuki lingkar umpan balik.
-
 
 Kepercayaan antar teman sebaya berjalan melalui kanal yang berbeda: di antara 406 mahasiswa yang menilai seorang teman sekelas yang mereka ingat, penggunaan GenAI oleh teman sekelas itu terkait dengan kepercayaan interpersonal yang lebih rendah, dibawa oleh kehangatan dan kompetensi yang dipersepsikan, dan asosiasi negatif itu hanya bertahan ketika [[ai-literacy|literasi AI]] yang dipersepsikan rendah — asosiasi tersebut tidak signifikan pada tingkat yang tinggi ([[observer-perceptions-genai-interpersonal-trust-2026|Zhang et al. (2026)]]).
 
@@ -123,52 +122,3 @@ Kalibrasi juga diuji oleh insentif sistem yang dipercaya itu sendiri. Ketika sta
 
 - Laporkan kepercayaan, persepsi risiko, dan ketergantungan yang tepat sebagai konstruk yang berbeda, karena ketiganya bervariasi bersama dalam arah yang tidak jelas — termasuk negatif.
 - Laporkan hasil perilaku (tingkat penerimaan saran yang salah) bersama kepercayaan laporan diri; skala kepercayaan saja membalik kesimpulan.
-
-## Konsep terkait
-
-- [[explainable-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[ethics]]
-- [[intelligent-tutoring]]
-- [[ai-sycophancy]]
-- [[human-ai-collaboration]]
-- [[remote-proctoring]]
-- [[social-norms-ai-use]] — risiko sosial yang menjadi landasan norma dan pengungkapan
-
-## Artikel terkait
-- [[lucau-uneven-use-similar-trust-genai-2026]] — Penggunaan yang tidak merata, kepercayaan yang serupa: AI generatif di Denmark dan Rumania (Lucau, Voicu & Christensen 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Risiko yang dipersepsikan berkorelasi positif dengan niat penggunaan berkelanjutan: adopsi yang terinformasi (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Kesenjangan kepercayaan guru-siswa atas kendali dan agensi dalam AI ruang kelas K-12
-- [[qu-wang-disclose-or-not-genai-2026]] — Mengungkapkan penggunaan AI didorong oleh faktor relasional dan kenyamanan dengan instruktur, bukan kebijakan
-- [[genai-teacher-feedback-comparison]] — GenAI dan umpan balik guru melayani kebutuhan kepercayaan yang berbeda dan komplementer
-- [[care-full-feedback-genai]] — Umpan balik yang dapat dipercaya sebagai praktik relasional yang "penuh kepedulian"
-- [[ai-fallibility-warning-help-seeking]] — Peringatan tentang keterbatasan AI meningkatkan pencarian bantuan di sebuah ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — Merancang bersama metrik dan visualisasi keandalan untuk LLM dalam pendidikan
-- [[ai-overreliance-complex-adaptive-system-2026]] — Ketergantungan berlebih pada AI dimodelkan sebagai sistem adaptif kompleks
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Kesenjangan kepercayaan-kegunaan pada alat AI fisika
-- [[t2i-competence-paradox-2026]] — Paradoks kompetensi dalam pembangkitan gambar AI
-- [[task-context-trust-educational-hri-2026]] — Konteks tugas membentuk kepercayaan pada robot pendidikan lebih dari penampilan
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Identitas avatar dan kepercayaan epistemik dalam pembelajaran termediasi AI
-- [[contextual-sycophancy-ai-literacy]] — Sikofansi kontekstual dan batasnya bagi kalibrasi kepercayaan
-- [[sycophantic-ai-social-interaction-2026]] — AI sikofantik membuat interaksi manusia terasa kurang memuaskan seiring waktu
-- [[ai-pedagogical-accompaniment-amico]] — Mediasi pedagogis yang akuntabel dan kepercayaan pada sistem berkemampuan AI
-- [[best-response-student-ai-dialog-2026]] — Kepercayaan dalam dialog siswa-AI
-- [[ai-adaptation-gap-higher-education-2026]] — Kegunaan yang dipersepsikan sebagai prediktor terkuat kepercayaan AI di pendidikan tinggi
-- [[bassett-ai-detectors-education-2026]] — Kepercayaan dan ketidakpercayaan pada sistem deteksi AI
-- [[genai-use-usefulness-student-experience-australia-2026]] — Pengalaman mahasiswa tentang kegunaan GenAI di pendidikan tinggi Australia (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Membuat temuan ML dapat diakses oleh guru di ruang kelas campuran
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Siapa yang seharusnya menilai pekerjaan saya? Perspektif mahasiswa tentang penilaian menulis berbantuan AI yang transparan di pendidikan tinggi
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Tiga profil mahasiswa di mana kepercayaan AI mengikuti resiliensi dan stres alih-alih demografi (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Ketergantungan terbatas: Perspektif Kredibilitas Sumber tentang keterlibatan mahasiswa EFL dengan umpan balik menulis yang dihasilkan AI
-
-- [[ai-empowerment-threat-genai-dependence-2026]] — Penilaian pemberdayaan dan ancaman menggerakkan kepercayaan ke arah berlawanan, membawa ketergantungan GenAI
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Penggunaan GenAI oleh teman sebaya menurunkan kepercayaan interpersonal melalui kehangatan dan kompetensi yang dipersepsikan, diredam oleh literasi AI
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Isyarat kredibilitas meningkatkan peralihan ke posisi AI yang salah; menahan rekomendasi menekannya
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Sebuah model struktural memberi peran penjembatanan itu uji empiris
-- [[zhu-creative-agency-trust-genai-art-2026]] — Kepercayaan instrumental sebagai prediktor terkuat niat GenAI bagi mahasiswa seni

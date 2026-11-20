@@ -16,6 +16,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
+connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -77,42 +79,3 @@ ai_assist:
 **"অংশীজন-বিশ্লেষণ শুরুর পর্যায়ের অনুশীলন।"** টানাপোড়েন পরিচালন পর্যন্ত টিকে থাকে, কারণ ভূমিকাগুলো একই ব্যবস্থাকে ভিন্নভাবে ব্যাখ্যা করতেই থাকে। শিক্ষার্থী-মুখী [[personalized-learning|ব্যক্তিগতকরণ]] স্তর ও অনুষদ-মুখী নৈতিকতা-ড্যাশবোর্ড একই ডেটার দুই অবস্থান থেকে দেখা, আর একটিকে সমন্বয় করলেই দ্বন্দ্ব ফিরে আসে।
 
 **"দর্শক-গোষ্ঠী জুড়ে একটি পরিচয় মানে একটি বার্তাই সবার জন্য যথেষ্ট।"** দর্শক-গোষ্ঠী জুড়ে যোগাযোগ করতে একই সিদ্ধান্তকে ভুলভাবে উপস্থাপন না করে ভিন্ন পরিভাষায় অনুবাদ করতে হয়, যা একটি বার্তাকে চারভাবে পুনর্লিখনের চেয়ে বেশি কিছু।
-
-## সংযুক্ত ধারণা
-
-- [[learners]] — শিক্ষার্থীরা: শিক্ষার্থী-পক্ষের ধারণাগুলোর ছাতা
-- [[teacher-role]]
-- [[learner-identity]]
-- [[agency]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[administrator]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[adult-learning]]
-- [[parents-and-families]]
-- [[student-support-and-success]] — প্রাতিষ্ঠানিক এআই-সহায়তা সিদ্ধান্তে কার দাবি আছে
-
-## সংযুক্ত নিবন্ধ
-
-- [[genai-student-experiences-uk-he-survey-2026]] — যুক্তরাজ্যের উচ্চশিক্ষায় শিক্ষার্থীদের জেনএআই-অভিজ্ঞতা
-- [[ai-uk-higher-education-policy-2026]] — যুক্তরাজ্যের উচ্চশিক্ষা-নীতিতে এআই (শিক্ষার্থী ও প্রতিষ্ঠান)
-- [[ai-campus-wellbeing-tools]] — ক্যাম্পাস-কল্যাণের জন্য এআই-চালিত সরঞ্জাম
-- [[ai-tpack-mathematics-teacher-education-2026]] — গণিত শিক্ষক-শিক্ষায় AI-TPACK প্রস্তুতি
-- [[genai-policies-higher-ed-computing]] — কম্পিউটিংয়ে প্রাতিষ্ঠানিক GenAI নীতি
-- [[ethical-ai-higher-ed-game-theory]] — উচ্চশিক্ষায় নৈতিক এআই ব্যবহারের সমন্বয়-খেলা কাঠামো
-- [[student-rationalization-ai-writing]] — একাডেমিক লেখনে এআই ব্যবহারের শিক্ষার্থী-যুক্তিসঙ্গতি
-- [[ai-changing-teaching-workflows]] — এআই শিক্ষাদান-কর্মপ্রবাহ কীভাবে বদলাচ্ছে
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — উচ্চশিক্ষায় GenAI নিয়ে অংশীজনদের ধারণা (Humble ও Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "পরে ঠিক করে নেব": শিক্ষা, এআই এবং EdTech-এ শিক্ষার্থী-গোপনীয়তার স্থগিতকরণ

@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, online-teaching-and-learning, open-source, teacher-ai-competency]
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
@@ -42,6 +43,3 @@ Projekt je zámerne nezávislý od modelu. Dokumentuje lokálne modely Ollama, r
 ## Poznámky a výhrady
 
 Softvér je zadarmo a má [[open-source|otvorený kód]] pod licenciou MIT pre vlastný kód, hoci komponenty tretích strán si zachovávajú vlastné podmienky, a jeho prevádzka znamená platiť za vlastnú inferenciu modelu, ak používate hostovaný model. Projekt sa označuje ako učiteľmi recenzovaná beta verzia a v README otvorene hovorí, že prechod jeho CI nepreukazuje kvalitu výučby naprieč živými modelmi — a tak treba zelenú testovaciu sadu v tejto oblasti aj čítať: overuje softvér, nie [[pedagogy|pedagogiku]]. Udržiava ho MacxLabs a prijíma učiteľmi recenzované vzorové hodiny ako príspevky.
-
-## Prepojené pojmy
-[[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

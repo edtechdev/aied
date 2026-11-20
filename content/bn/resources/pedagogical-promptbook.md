@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -37,6 +38,3 @@ ai_assist:
 ## ব্যবহারের আগে যা জানা দরকার
 
 বইটি CC BY লাইসেন্সের অধীনে খোলা-প্রবেশাধিকার, যা শিক্ষা-উপকরণের জন্য অনুমোদনশীল প্রান্ত: প্রশিক্ষকরা প্রম্পটগুলো কপি, অভিযোজিত ও ব্যবহার করতে পারেন, বাণিজ্যিকভাবেও, যথাযথ কৃতিত্ব দিলে। ফলে [[prompt-engineering|প্রম্পটগুলো]] একটি নির্দিষ্ট কোর্স বা [[pedagogical-agent|এজেন্ট]] সেটআপের জন্য স্থানীয়করণ করা সহজ, যা অনুরূপ সংগ্রহের আরও কঠোর লাইসেন্সে সম্ভব নয়। এটি 2026 সালে EdTech Books-এ প্রকাশিত, PDF ডাউনলোড ও DOI 10.59668/2340 সহ, সম্পাদনা করেছেন David Wiley। প্রতিটি অধ্যায় ফলাফলের সঙ্গে মূল্যায়ন-নকশাও রিপোর্ট করে, তাই যাঁরা অন্যের বিচার মানার বদলে নিজের প্রম্পট পরীক্ষা করতে চান, তাঁদের জন্য এটিকে একটি নমুনা হিসেবেও ব্যবহার করা যায়।
-
-## সংযুক্ত ধারণা
-[[learning-design]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[formative-assessment]], [[feedback]], [[authentic-assessment]], [[scaffolding]], [[metacognition]], [[community-of-inquiry]], [[socratic-method]], [[ai-literacy]]

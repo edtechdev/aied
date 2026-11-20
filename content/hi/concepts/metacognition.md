@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
+connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -169,67 +171,3 @@ AI उस **मेटाकॉग्निटिव सीमा** को बद
 - **"AI सहायता अंतर्निहित क्षमता को अक्षुण्ण छोड़ देती है।"** जिन छात्रों ने AI निबंध सहायता का उपयोग किया, वे **अपने ही निबंधों के उद्धरण याद करने में 83% असमर्थ** थे, जबकि गैर-AI उपयोगकर्ताओं में यह 11% था, जो दर्शाता है कि **उन्होंने निर्माण के दौरान सामग्री से जुड़ाव नहीं किया**। जुड़ाव निर्माण प्रक्रिया में होता है, और उसे बायपास करना बाद में दिखता है।
 - **"ऑफ़लोडिंग सब कुछ कमज़ोर करती है।"** लागत **वैश्विक नहीं, सीमित** दिखती है: ऑफ़लोडिंग **अभ्यास किए गए विशिष्ट कौशल को कमज़ोर करती है, अंतर्निहित डोमेन-सामान्य क्षमताओं को नहीं**, और **किसी चीज़ के साथ** वाले स्थानांतरण परीक्षणों पर उभरती है। यह स्थानीयकरण मायने रखता है, क्योंकि यह बताता है कि किस चीज़ की रक्षा करनी है, सामान्य ह्रास की चेतावनी देने के बजाय।
 - **"उत्पादन की क्षमता का अर्थ धारण की क्षमता है।"** 83% बनाम 11% स्मरण अंतर सीधा प्रति-उदाहरण है: दोनों स्थितियों में आउटपुट बना, और स्मृति-चिह्न बहुत भिन्न था।
-
-## संबंधित अवधारणाएँ
-
-- [[pedagogical-patterns]] — जिन क्रमों में ये प्रतिबिंब चरण बनते हैं
-- [[learners]] — शिक्षार्थी: शिक्षार्थी-पक्ष अवधारणाओं के लिए छत्र
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[retrieval-spacing-interleaving]] — सीखने के निर्णय और वह प्रवाह-भ्रम जिसे पुनर्प्राप्ति अभ्यास ठीक करता है
-- [[cognitive-surrender]]
-
-- [[reflection]]
-
-## संबंधित लेख
-- [[clerc-ai-literacy-workshop-llm-regulation-2026]] — एक दो-घंटे की AI साक्षरता कार्यशाला ने माध्यमिक छात्रों के LLM-संवाद विनियमन को बदला, उनकी स्व-सूचना दर्ज मेटाकॉग्निशन के विपरीत (Clerc et al. 2026)
-- [[student-ai-interaction-consecutive-interpreting-2026]] — कंप्यूटर-सहायित क्रमागत अनुवाद में छात्र-AI संवाद
-- [[du-yuan-epistemic-dependence-2026]] — AI-मध्यस्थ सीखने में ज्ञानमीमांसात्मक निर्भरता (Du और Yuan 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — छात्र क्या पूछते हैं यह मायने रखता है: LLM संवाद गहराई, कार्य गुणवत्ता और तत्काल स्मरण (Tsiligkiris 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — जनरेटिव AI-सहायित लेखन में स्तर-संवेदनशील संज्ञानात्मक ऑफ़लोडिंग (Chen 2026)
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM में LLM-मध्यस्थ सहायता-माँग: स्तरित, उपकरणात्मक और सत्यापित
-- [[cui-motivation-roles-metacognitive-genai-2026]] — मेटाकॉग्निटिव जनरेटिव AI संलग्नता में प्रेरणा और भूमिकाएँ
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — मेटाकॉग्निटिव प्रशिक्षन इष्टतम संज्ञानात्मक ऑफ़लोडिंग को सुगम बनाता है (Ngai और Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — संज्ञानात्मक ऑफ़लोडिंग में मेटा-संज्ञानात्मक अंतर्दृष्टि: तंत्र, हस्तक्षेप और शैक्षणिक निहितार्थ (Guo और Ye 2026)
-- [[idea-framework-metacognitive-genai-2026]] — मेटाकॉग्निटिव रूप से विनियामित जनरेटिव AI उपयोग के लिए IDEA ढाँचा
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: एक मानव-केंद्रित AI मेटाकॉग्निटिव सीखने का मॉडल (सक्रियता और प्रतिबिंबी सीखना)
-- [[metacognitively-discordant-completion-genai-2026]] — मेटाकॉग्निटिव रूप से असंगत पूर्णता और गैर-समझ का जागरूक पास-थ्रू
-- [[ai-metacognition-stem-review]] — STEM में मेटाकॉग्निशन को स्कैफोल्ड करने वाले AI उपकरण
-- [[ai-making-us-stupid]] — क्या AI हमें मूर्ख बना रहा है? संज्ञानात्मक ऑफ़लोडिंग की आलोचना
-- [[stanford-evidence-base-ai-k12-2026]] — सामान्य-उद्देश्य AI तर्क पूरा करके मेटाकॉग्निशन को दबाता है
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI सलाह "मुझे नहीं पता" कहने की इच्छा को दबाती है, गलत सलाह और शुद्धता-प्रोत्साहन के साथ भी
-- [[agentic-ai-pedagogical-best-practice-2026]] — एजेंटिक AI और शैक्षणिक अच्छी प्रथा: स्वचालन और सीखने के बीच तनाव
-- [[cognitive-offloading-speedup-illusion]] — मानव-AI संवाद में संज्ञानात्मक ऑफ़लोडिंग और त्वरण-भ्रम
-- [[lodge-loble-cognitive-offloading-2026]] — AI, संज्ञानात्मक ऑफ़लोडिंग और शिक्षा के लिए निहितार्थ (Lodge और Loble 2026)
-- [[pedagogy-ai-mistakes]] — AI गलतियों का शिक्षाशास्त्र: उच्च-क्रम सोच को बढ़ावा देना (Hosseini 2026)
-- [[kim-ai-productive-failure-adult-2026]] — उत्पादक-विफलता-आधारित सीखने का समर्थन करने के लिए AI प्रणालियाँ डिज़ाइन करना
-- [[lukesova-clue-before-correction-2026]] — संकेत, संशोधन से पहले: स्वायत्त भाषा सीखने के लिए ChatGPT
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — संकेत साक्षरता चक्र में संकेत प्रक्रिया पर प्रतिबिंब और लेखकत्व विकास (Miles, Haber-Curran और Arar 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — एक प्रतिबिंब संकेत ने गलत AI सलाह की स्वीकृति घटाई और जागरूकता अंशांकन में सुधार किया (Ren 2026)
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — स्वचालित अंकन ने निगरानी मज़बूत की लेकिन योजना नहीं, और स्व-सूचना दर्ज प्रतिबिंब अउत्पादक रहा (Chen और Liu 2026)
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — सत्यापन साक्षरता का केवल मेटाकॉग्निटिव स्व-विनियमन के माध्यम से काम करना (Davor, Larbi और Boateng 2026)
-- [[iqbal-human-genai-support-essay-revision-2026]] — बाहरी समर्थन ने, मेटाकॉग्निटिव निर्णय शुद्धता के बजाय, संशोधन रणनीति चयन चलाया (Iqbal et al. 2026)
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — एक चयनात्मक लाभ: मेटाकॉग्निटिव ज्ञान बढ़ा जबकि योजना और निगरानी नहीं (Wang et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — प्रतिबिंबी उपयोग AI पहुँच के साथ बढ़ा और आलोचनात्मक सोच की भविष्यवाणी की, ज्ञान-लाभ की नहीं (Melanou, Beege और Kimmig 2026)
-- [[alatoai-ai-learning-environments-self-regulation-2026]] — अनुकूली STEM सीखने का सबसे मज़बूत भविष्यवक्ता के रूप में मेटाकॉग्निटिव जागरूकता (Alatoai और Alshahri 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — निदान से मेटा-निदान तक: AI-जनित अनुमानों का न्याय करते शिक्षक (Hoppe, Loibl और Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — प्रतिबिंबी AI संलग्नता में कौशल-सहनशील निर्भरता की ओर खुले प्रश्न
-- [[dang-human-ai-collaboration-competency-2026]] — मानव-AI सहयोग में शिक्षार्थी सक्रियता के तंत्र के रूप में मेटाकॉग्निशन, शिक्षाशास्त्र नहीं (Dang, Hong, Doyle और Nguyen 2026)
-- [[metacognitive-ownership-human-ai-regulation-2026]] — मेटाकॉग्निटिव स्वामित्व: मानदंडों, निर्णयों और क्रियाओं के शिक्षार्थी शासन के लिए एक रचना
-
-- [[metacognitive-processes-genai-interaction-logs-2026]] — जनरेटिव AI-सहायित सीखने में लॉग और आलोचनात्मक-सोच अलग-अलग मेटाकॉग्निटिव प्रक्रियाएँ पकड़ते हैं
-- [[ai-cognitive-partner-reflective-thought-2026]] — जब छात्र AI को एक संज्ञानात्मक साझी मानते हैं तो प्रतिबिंबी विचार के चार अभ्यास और ग्यारह प्रक्रियाएँ
-- [[karaki-think-aloud-ethical-genai-2026]] — थिंक-अलाउड ने संकेत निर्माण, सत्यापन और नैतिक तर्क को दृश्यमान बनाया, लेकिन आलोचनात्मक मूल्यांकन सतही रहा; एक स्वतंत्र समाधान नहीं
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — पूर्व-सेवा शिक्षकों की प्रतिबिंबी अभ्यास में मेटाकॉग्निटिव प्रशिक्षन और AI-आधारित सुक्रेटिक स्कैफोल्डिंग: एक दोहरी-अध्ययन प्रयोगात्मक डिज़ाइन
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — संज्ञानात्मक सुप्तता: निलंबित मेटाकॉग्निटिव जुड़ाव और बढ़ती अव्यवस्था का प्रयोगात्मक विवरण (Braun 2026)
-
-- [[ai-metacognition-three-level-meta-analysis-2026]] — तीन-स्तरीय मेटा-विश्लेषण: संचित g = 0.624, शुद्धता-रेटेड निगरानी के लिए अर्थहीनता तक गिरता हुआ (Li et al. 2026)
-- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC मॉडल: मेटाकॉग्निटिव ऑफ़लोडिंग बनाम ऑनलोडिंग, और कार्य-प्रदर्शन का टिकाऊ सीख से अलग होना (Fan et al. 2026)
-- [[guo-overreliance-genai-feedback-2026]] — निगरानी ऑफ़लोडिंग पथ को रोकती नहीं, बल्कि मोड़ती है
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — जब निगरानी छूट जाती है, और उसकी क्या कीमत है
-

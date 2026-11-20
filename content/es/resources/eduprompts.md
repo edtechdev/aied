@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-11"
     agent: hermes-agent
+connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-design, online-teaching-and-learning, teacher-ai-competency]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -49,7 +50,3 @@ Profesorado de K–12, coaches instruccionales y diseñadores curriculares que q
 El cambio de nombre es una transición en curso, no terminada. Google anunció en septiembre de 2026 que Skills sustituye a Gems, y el soporte de Gems termina por etapas: cuentas personales en noviembre de 2026, clientes de Workspace business, enterprise y nonprofit en marzo de 2027, y clientes de Workspace education en junio de 2027. Google afirma que los Gems existentes migran a Skills automáticamente, y por ahora las Skills se ejecutan escribiendo `/` y el nombre en la barra de prompts de Gemini. Los enlaces del sitio siguen apuntando a rutas `/gem/`, así que un marcador puede redirigirse o romperse conforme avanza la conversión: compruebe que un prompt se resuelve antes de ponerlo en un curso.
 
 Dos hechos de acceso pertenecen a cualquier decisión de adopción. Las Skills están en todos los niveles de suscripción de Google AI, pero el despliegue es para mayores de 18 años por ahora, y el acceso para menores se describe como «próximamente»; además, copiar un prompt exige una cuenta de Google y Gemini, así que no es una herramienta anónima para el alumnado. La biblioteca es un conjunto curado de prompts, no instrucción validada: cada entrada es un punto de partida cuya salida aún hay que comprobar, y las afirmaciones de calidad son del propio curador. No se indica licencia abierta, así que los prompts pueden copiarse y adaptarse dentro de Gemini, pero la biblioteca no es algo que una institución pueda bifurcar y alojar.
-
-## Conceptos conectados
-
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]

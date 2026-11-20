@@ -27,6 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -130,37 +132,3 @@ Diese Refutationen sind bewusst in der [[refutation-text|Refutationstext]]form g
 - **„Didaktische Missverständnisse von Lehrenden lassen sich durch das Präsentieren von Evidenz korrigieren."** In einem Piloten mit **123 italienischen Bildungsakteurinnen und -akteuren** häufte sich die Ablehnung am stärksten bei **kognitiven Lernstilen (78 % der Lehrenden verteidigten visuelle/auditive Passung)**, Inklusion und Gruppenarbeit (68 %) und EdTech-Überlastung (54 %). Die stärksten Ablehnungen waren die gegenüber Evidenz resistentesten, weshalb [[refutation-text|Refutation]] besser wirkt als Behauptung.
 - **„Einwände von Lehrenden gegen Evidenz sind alles Widerstand."** Als dieselben Items durch eine konversationelle KI geliefert wurden, die **den Kontext der Lehrkraft validierte, bevor sie die Evidenz erneut einführte**, betrafen **41 % der Einsprüche reale kontextuelle Randbedingungen** — Klassengröße, besondere Bedürfnisse, Curriculumsanforderungen. Ein erheblicher Teil des scheinbaren Missverständnisses war berechtigter Einwand.
 - **„Missverständnisse lassen sich aus Dialogen zuverlässig erkennen."** **Von 241 geprompteten Segmenten wurden 221 (91,7 %) per Expertenmehrheitsvotum als strategische Missverständnisse bestätigt (Fleiss' κ = 0.9487)**, mit **keinen signifikanten Unterschieden** zwischen den Gruppen. Hohe Reliabilität ist unter Expertenentscheidung erreichbar, und auf diese Bedingung stützt sich die Behauptung.
-
-## Verbundene Konzepte
-
-- [[pedagogical-patterns]] — Die Sequenzen des Konzeptwandels, die einer spezifischen vertretenen Überzeugung entgegentreten
-- [[learners]] — Lernende: der Überbegriff für die Konzepte auf Lernendenseite
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Verbundene Artikel
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Glauben Sie dem Hype nicht: acht KI-Mythen und die Notwendigkeit eines kritischen Ansatzes in der Hochschulbildung
-- [[student-rationalization-ai-writing]] — Rationalisierung von KI-Schreiben durch Studierende
-- [[genai-skill-bypass-literacy]] — GenAI-Fähigkeits-Bypass und Kompetenz
-- [[trust-reliance-ai-education-2026]] — Vertrauen und Verlassenheit in der KI-Bildung
-- [[contextual-sycophancy-ai-literacy]] — Kontextuelle Sykophancy und KI-Kompetenz
-- [[sycophantic-ai-social-interaction-2026]] — Sykophantische KI in sozialer Interaktion
-- [[llm-fallacy-misattribution]] — Fehlschluss-Misattribution durch LLMs (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: die kritische Rezeption interessenpersonalisierter GenAI-Analogien durch Studierende in der Informatikbildung
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: flüssige, autoritäre Erklärungen, die konzeptionell statt faktisch falsch sind (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Verborgene Anweisungen in einer eingereichten Datei können eine KI-benotete Note ohne sichtbare Warnung anheben (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Missverständnisse von Kindern zur KI-Sicherheit: Freundschaft mit einem Roboter als Datenschutzgarantie missdeutet (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Konversations-KI-Diagnostik für didaktische Missverständnisse mit evidenzbasiertem Dialog (Miranda & Calvani 2026)

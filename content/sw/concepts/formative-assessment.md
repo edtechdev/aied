@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
+connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -103,7 +105,6 @@ Tathmini ya mchakato katika elimu ya AI inaungana na mchakato wa kujifunza wenye
 
 - **Tathmini ya mchakato inayoungwa mkono na teknolojia ni sifa ya mfumo, si zana.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] anaifafanua kama bidhaa ya pamoja ya uwezo wa kiteknolojia, udhibiti wa kielimu, wakala wa mwanafunzi, na hukumu ya binadamu, na anadai thamani yake iko katika kuendeleza mzunguko wa ushahidi–maoni–tafakari–utekelezaji badala ya uendeshaji otomatiki.
 
-
 ## Hatari: Tathmini kama ufuatiliaji
 
 Mifumo ya tathmini ya mchakato inaweza kubadilika kutoka zana za msaada wa kujifunza hadi miundombinu ya ufuatiliaji wa tabia. Mtiririko ule ule wa data unaoruhusu mafunzo yanayobadilika unaweza kuruhusu ufuatiliaji wa adhabu ikiwa [[governance]] ni dhaifu. Hii inaungana na [[privacy]] na [[well-being|afya ya mwanafunzi]], na inatia mkazo mifumo ya mchakato inayounga mkono kujifunza badala ya kufuatilia.
@@ -127,72 +128,3 @@ Uwezo wa kuonekana unaweza kubuniwa bila ufuatiliaji: ni ushahidi ambao tathmini
 - **"Uaminifu wa uzalishaji wa vipengele ni sawa katika miundo yote."** Mifumo ya AI huzalisha vipengele vya mchakato katika modaliti mbalimbali **huku uaminifu ukitofautiana kwa aina**, ikiwemo chaguo-nyingi. Kuchukulia vipengele vilivyozalishwa kama vinavyobadilishana katika miundo yote huficha pale uzalishaji unapoweza kuaminiwa.
 
 - **"Kuwapa wanafunzi maoni ya AI huzalisha utekelezaji."** **Tatizo la utekelezaji** limeandikwa tofauti na ubora wa maoni: kupokea maoni na kuyatekeleza ni hatua tofauti, na ya pili ndipo tathmini ya mchakato inapofanikiwa au kushindwa.
-
-## Dhana Zilizounganishwa
-
-- [[pedagogical-patterns]] — Miundo iliyopangwa inayochukuliwa na tathmini ya mchakato AI inapotoa sehemu ya maoni
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[summative-assessment]] — Tathmini ya mwisho: miundo inayopinga AI (mdomo, inayosimamiwa, mtihani wa kitabu kimoja)
-
-- [[reflection]]
-
-
-## Makala Zilizounganishwa
-
-- [[llm-multi-agent-conversation-assessment-2025]] — Mfumo wa mawakala wanne kwa tathmini inayotegemea mazungumzo ambaye mthamiaji wake anaepukia kuelekea kategoria ya kati (Hou et al. 2025)
-- [[causal-modeling-competency-assessment-2026]] — Uundaji wa mfano wa sababu wa uingiliaji wa msaada kwa tathmini ya uwezo wa mwanafunzi
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Mbinu za kiwango cha mpango za kubuni upya tathmini katika enzi ya GenAI
-- [[ai-feedback-enactment-workflow-2026]] — Kufanya maoni yaliyozalishwa na AI kuwa muhimu: kutoka utoaji hadi utekelezaji
-- [[care-full-feedback-genai]] — Sanaa ya maoni yenye utunzaji katika enzi ya GenAI
-- [[feedback-futures-genai]] — Mustakabali wa maoni: zaidi ya mipaka ya uwezo wa binadamu na GenAI
-- [[sequenced-ai-feedback-learning]] — Athari na njia za maoni ya AI yaliyopangwa kwa mpangilio
-- [[learner-centered-feedback-ai]] — Kuboresha maoni yanayozingatia mwanafunzi na AI
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Kutoka kuainisha kiotomatiki hadi utambuzi wa kujifunza: somo la mbinu la tathmini ya mchakato inayosaidiwa na AI katika uandishi wa Kiingereza
-- [[ai-internal-feedback-evaluative-judgments]] — Kukuza uhakiki wa kutathmini kupitia maoni ya ndani yanayosaidiwa na AI
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: kuainisha tathmini ya mchakato na uhandisi wa ilani wa binadamu katika dundu
-- [[automated-formative-assessments-a-level-sciences]] — Tathmini ya mchakato ya kiotomatiki ya mara kwa mara
-- [[ai-generated-feedback-higher-ed]] — Maoni yaliyozalishwa na AI katika elimu ya juu
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: maoni ya AI yanayozingatia mitaala
-- [[genai-teacher-feedback-comparison]] — Kulinganisha maoni ya GenAI na ya mwalimu
-- [[chatgpt-feedback-engagement-genai]] — Maoni ya ChatGPT na ushiriki
-- [[code-gen]] — CODE-GEN: uzalishaji wa MCQ uliothibitishwa
-- [[responsible-assessment-ai-era-stanford-2026]] — Tathmini yenye uwajibikisho katika enzi ya AI
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Kubuni kwa tathmini halisi
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Kuainisha kiotomatiki mitihani ya Linux/bash
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Majukumu ya mkufunzi na ya AI katika tathmini ya mchakato iliyoimarishwa na ChatGPT
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Kufikiria upya mitihani ya mdomo kama tathmini halisi, inayopinga AI
-- [[roe-assessment-twins-2026]] — Pacha za tathmini za kuimarisha uhalali wa tathmini katika enzi ya GenAI (Roe, Perkins & Giray 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: uzalishaji wa rubriki ya tathmini ya AI
-- [[ai-assisted-instructor-supervised-grading-feedback]] — Kuainisha na maoni yanayosaidiwa na AI yanayosimamiwa na mkufunzi
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Ngazi za msaada za ICAP zinazobadilika katika ITS (BKT dhidi ya DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM kama mawakala wa ubuni wa kieledu wa kurudia
-- [[auto-marking-short-answer-science-2026]]
-- [[gpt4-feedback-student-activation-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — Ubadilishaji hufanya maoni kuwa na ufanisi: ushahidi kutoka maoni yaliyozalishwa na AI kwa mipango ya watoto
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Kuainisha kiotomatiki, ufafanuzi wa utendaji, na kujifunza kwa kujidhibiti (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Ujuzi wa utambuzi wa walimu katika tathmini ya mchakato inayosaidiwa na AI: kutoka utambuzi hadi meta-diagnosis
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Maana ya kuwa na manufaa na nia ya kutumia maoni yaliyozalishwa na LLM katika programu katika viwango vitatu vya kieledu
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Msaada wa kufundisha unaobadilika unaounganisha AI ya kizalishaji na uchanganuzi wa data kubwa katika elimu ya muziki
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Matumizi ya LLM ya wanafunzi na Mipaka ya Ugumu wa Maswali Yaliyozalishwa na AI katika Kozi za Sayansi ya Data
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — Miundombinu ya Tathmini Endelevu Inayoongozwa na AI (AIM-CAI): Kuunganisha Ushahidi wa Kujifunza Katika Miktadha na Muda (McNamara & Hasnine 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)
-- [[assessment-feedback-trilemma-model-2026]] — Kinyume chanya cha hatari ya ufuatiliaji: uwezo wa kuonekana kama muundo wa ushahidi, si uangalizi

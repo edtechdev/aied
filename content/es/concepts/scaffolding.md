@@ -35,6 +35,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
+connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -121,62 +123,3 @@ El andamiaje puede residir en la tarea y no en la herramienta. En una sección d
 - **«El andamiaje es un nivel constante de apoyo.»** La anotación experta de **207 consultas** mostró que la necesidad de andamiaje **dependía fuertemente de la fase y aumentaba desde alrededor del 16,1% de las intervenciones del estudiantado al inicio** del encuentro. Un único nivel de andamiaje está mal asignado en ambos extremos de una misma consulta.
 - **«Cualquier condición de control estructurada es una comparación justa para el andamiaje.»** En la [[summative-assessment|evaluación]], el brazo con andamiaje siguió superando a una alternativa genuina de divulgación progresiva (**71,8% frente a 55,6%**), así que la ganancia se midió contra una alternativa [[pedagogy|pedagógica]] real y no contra nada.
 - **«Los efectos del andamiaje son generales.»** La ganancia fue de **16,4 puntos porcentuales (P = 3,30e-4)**, con la mayor mejora en **comunicación (g de Hedges = -0,79)**. El efecto se concentró en un resultado, así que un promedio entre resultados subestima dónde funciona y sobrestima dónde no.
-
-## Conceptos conectados
-
-- [[pedagogical-patterns]] — Where in the sequence support belongs, and why attempt-before-help is the load-bearing rule
-- [[problem-based-learning]] — PBL embeds fading scaffolds around ill-structured problems
-- [[learning-by-teaching]] — Scaffolding knowledge building through explanation
-- [[sociocultural-learning]] — Vygotskian foundation: ZPD and socially mediated learning
-- [[cognitive-offloading]] — Scaffolding that never fades creates over-reliance
-- [[feedback]] — Scaffolding delivers formative feedback as support fades
-- [[ai-literacy]] — Recognizing when scaffolding supports vs. displaces learning
-- [[intelligent-tutoring]] — ITSs adapt scaffold intensity to mastery estimates
-- [[socratic-method]] — Questioning that withholds direct answers
-- [[metacognition]] — Scaffolds that build self-monitoring and self-regulation
-- [[adaptive-learning]] — Adaptive systems modulate support within the learner's ZPD
-- [[learning-design]] — Scaffolding is a core instructional-design strategy
-- [[help-seeking]] — Scaffolding shapes when and how learners request help
-- [[teacher-role]] — Teachers scaffold, then fade as competence grows
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[agentic-ai]]
-- [[productive-failure]] — Productive Failure
-
-## Artículos conectados
-- [[stone-gpt5-kinematics-sensemaking-2026]] — una rúbrica calificada, y no un modelo mejor, desplazó el diálogo del estudiantado de la búsqueda de recetas al pensamiento en voz alta (Stone, Zhang y Utter, 2026)
-- [[kumar-genai-computing-education-systematic-review-2026]] — La retirada del andamiaje como mecanismo que obliga a verificar (marco VIE)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Comentarios de IA cronometrados por entropía como andamiaje cognitivo y emocional dentro del vídeo (Wang, Du y Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — El prompting guiado con LLM como intervención de aprendizaje estructurada
-- [[scaffolding-critical-engagement-genai-minority-students]] — Andamiaje de implicación crítica culturalmente receptivo con IA generativa
-- [[rethinking-scaffolding-llm-tutors]] — Design patterns for scaffolding in LLM tutors
-- [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst scaffolds for conceptual change
-- [[correct-answer-trap-ai-tutor]] — Cuándo ayudan las pistas y cuándo fomentan la dependencia excesiva
-- [[critical-thinking-genai-scaffolding]] — Andamiar el pensamiento crítico con IA generativa
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Redacción narrativa andamiada con Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — De la sustitución al andamiaje: romper el ciclo de daño autorreforzado
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
-- [[agentic-ai-pedagogical-best-practice-2026]] — Andamiajes dinámicos, que se desvanecen, como salvaguarda para la IA agéntica
-- [[zhang-tutormoments-2026]] — Cuando la ayuda no ayuda: evaluación de tutores de IA para el esfuerzo productivo
-- [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA que apoyen el aprendizaje basado en el fracaso productivo
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Dirección pedagógica de los LLM para el fracaso productivo
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[brcic-effortless-trap-productive-struggle-2026]] — IA protegida frente a IA sin protección: la regla de colocación (Brcic y Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[scaffolding-systematic-reviews-2026]] — Andamiar revisiones sistemáticas con mentoría e IA (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — La agencia del futuro profesorado durante las interacciones con IA generativa en el diseño para el aprendizaje (Krushinskaia, Elen y Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — La IA en las pedagogías de la práctica en la formación del profesorado de matemáticas: la retroalimentación estructurada de ensayo aumentó las preguntas de indagación (Bondurant y Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — La integración de la IA como diseño instruccional: la crítica de la producción de la IA debe asignarse y el análisis disciplinar va primero
-- [[ai-literacy-tool-design-programming-education-2026]] — Un AI Study Coach con presupuesto de pistas: uso andamiado frente a uso sin restricciones de IA generativa, y por qué la restricción por sí sola no produjo aprendizaje (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: el andamiaje replanteado como la decisión de a qué subzona pertenece una tarea
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — La puntuación automatizada como andamiaje formativo: solo se convierte en ganancia cuando el déficit objetivo es descomponible, fiable y está escalado con sensibilidad (Chen y Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Andamiaje adaptativo en bucle cerrado que sigue el límite actual de quien aprende en la práctica musical, con detección de errores como triaje (Zhu et al. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — La forma del andamiaje debe corresponder a la capacidad evolutiva de la infancia, no solo a la tarea (Niu et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Los andamiajes deben exigir traducción representacional y verificación, porque el estudiantado no puede verificar lo que no comprende (Vega-Baudrit y Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — La IA generativa como andamiaje de prompting que tiende un puente entre la intuición visual y la demostración deductiva en geometría, donde la visualización por sí sola no basta (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examinar la variación en cómo los tutores de IA guiados resuelven los bloqueos del estudiantado
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Formar a quien aprende como andamiaje para el uso de IA generativa en la resolución de problemas STEM (Huang et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)
-- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Capas de andamiaje de contenido y temporal en un curso a ritmo propio, con tasas de inicio tardío y de fracaso según el momento de estudio
-- [[assistance-dilemma-rl-tutoring-2026]] — El dilema de la asistencia: entrenar un tutor de RL multiturno cuyo horizonte de recompensa termina con el problema entrena la desaparición de la retirada (Macina, Kapur y Sachan 2026)
-- [[cruz-structured-ai-tutoring-computer-architecture-2026]] — Una escalera de desvanecimiento fija escrita en un prompt de sistema redactado por el docente

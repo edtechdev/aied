@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
+connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -49,9 +51,7 @@ ai_assist:
 
 সীমানাটি প্রান্তে পরিষ্কার নয়। পরিসংখ্যানীয় প্রোগ্রামিং অধিকাংশ প্রতিষ্ঠানে [[cs-education]]-এর ভেতরে বসে, এবং এখানকার কয়েকটি নিবন্ধ সেখানেই দাখিল করা; পরিসংখ্যানীয় গ্রাফিক্সের প্রবেশযোগ্যতা-কাজ [[special-education]] এবং [[accessibility|প্রবেশযোগ্য]] নকশার সঙ্গে ওভারল্যাপ করে; দায়িত্বশীল ডেটা বিজ্ঞান [[cs-education]] ও [[ethics]]-এর সঙ্গে ওভারল্যাপ করে। পাতাটি এই গুচ্ছের একটি ঘর, এই দাবি নয় যে গুচ্ছটি বদ্ধ।
 
-
 [[lund-socially-accountable-data-science-xai-2026|Lund প্রমুখ (2026)]] পাঠ্যক্রমের দিক থেকে সেই ওভারল্যাপ চিহ্নিত করেন: চারটি জবাবদিহিতা-স্তম্ভ (উত্তরযোগ্যতা, দায়িত্ব, প্রয়োগ, আত্মপ্রতিফলন) চারটি [[explainable-ai|XAI]] মাত্রার সঙ্গে মিলিয়ে, যা শেখানো হয় নম্বরপ্রাপ্ত মডেল-কার্ড, LIME ও SHAP ব্যাখ্যা-নিরীক্ষা এবং প্রভাব-মূল্যায়নের মাধ্যমে, আর লেখকেরা স্বীকার করেন যে ব্যাখ্যা জবাবদিহিতা নয়।
-
 
 ## উৎপন্ন আর্টিফ্যাক্ট ও বৈধতার প্রশ্ন
 
@@ -88,26 +88,3 @@ ai_assist:
 - **"সন্তুষ্টি ও অনুভূত উপকার বোঝায় একটি ডেটা-বিজ্ঞান AI সরঞ্জাম কাজ করছে।"** শিক্ষার্থীরা ডিবাগিং ও ধারণা-সংক্রান্ত প্রশ্নের জন্য LLM প্রচুর ব্যবহার করেছে এবং **উচ্চ সন্তুষ্টি জানিয়েছে, অথচ গভীর শিখনে তাদের অনুভূত উপকার টার্ম জুড়ে কমেছে**। সন্তুষ্টি অটুট থেকেছে আর স্ব-মূল্যায়িত শিখন-গতিপথ নেমেছে, তাই দুটির কোনোটিই একা ফলাফল নয়।
 - **"অনিয়ন্ত্রিত মডেল একটি পথ-দেখানো টিউটরের সমান ভালো।"** **লাভটি এসেছে স্ক্যাফোল্ডিং প্রশিক্ষণ থেকে — ধাপে ধাপে ইঙ্গিত ও যাচাইয়ে স্পষ্ট নির্দেশনা — যা একই মডেলে সাধারণ প্রবেশাধিকারের চেয়ে স্বাধীন ফলাফল ও স্ব-মূল্যায়ন মান-নির্ধারণে এগিয়ে ছিল।** পথ-দেখানো এবং তা কীভাবে ব্যবহার করতে হবে সে প্রশিক্ষণই প্রভাবটি বহন করেছে।
 - **"উত্তর দেওয়া থেকে বিরত রাখাই যথেষ্ট।"** একটি হোস্টেড API-র চারপাশে মোড়া, **উত্তর দেওয়ার বদলে পথ দেখানোর জন্য** সিস্টেম-প্রম্পট করা একটি উদ্দেশ্যমূলক টিউটর স্নাতক মনোবিজ্ঞান শিক্ষার্থীদের এক সেমিস্টার-ব্যাপী R কোর্সে স্থাপন করা হয়েছিল, যেখানে **76% থেকে 84% শিক্ষার্থী পরীক্ষা-সংক্রান্ত সপ্তাহগুলোতে এটি ব্যবহার করেছে। এটি গ্রহণ, এই প্রমাণ নয় যে সুরক্ষা শিখন তৈরি করেছে:** প্রম্পট-স্তরের নিয়ন্ত্রণ কয়েকটি লিভারের একটি এবং একা শিখন তৈরি করে না।
-
-## সংযুক্ত ধারণা
-
-- [[math-education]]
-- [[cs-education]]
-- [[stem-education]]
-- [[discipline-specific-aied]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[inquiry-based-learning]]
-- [[situated-learning]]
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-
-## সংযুক্ত নিবন্ধ
-
-- [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — ব্যক্তিকৃত পরিসংখ্যান অনুশীলনের জন্য পরিদর্শনযোগ্য কৃত্রিম ডেটাসেট তৈরি করা এজেন্টিক সরঞ্জাম
-- [[ai-tutor-statistical-programming-adoption-2026]] — উদ্দেশ্যমূলকভাবে তৈরি R টিউটর; গ্রহণ পরীক্ষার পঞ্জিকা অনুসরণ করেছে
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM-এর কঠিনতার লেবেল ব্লুম স্তর অনুসরণ করে, শিক্ষার্থীর ফলাফল নয়
-- [[tactile-statistical-graphs-accessibility]] — শিক্ষক-পর্যালোচনাসহ স্পর্শনীয় পরিসংখ্যান চার্ট উৎপন্ন করা ওপেন-সোর্স পাইপলাইন
-- [[guided-llm-scaffolding-independent-learning]] — পথ-দেখানো স্ক্যাফোল্ডিং স্বাধীন ফলাফলে অনিয়ন্ত্রিত প্রবেশাধিকারকে ছাড়িয়ে গেছে
-- [[lund-socially-accountable-data-science-xai-2026]] — প্রযুক্তিগত ডেটা বিজ্ঞান পাঠ্যক্রমে সামাজিক জবাবদিহিতা গেঁথে দেওয়া

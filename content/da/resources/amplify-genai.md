@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [rag, open-source, edtech-platform, governance]
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -48,10 +49,3 @@ Central IT og CIO-kontorer, der allerede kører workloads i AWS og ønsker et f�
 ## Noter og forbehold
 
 Gratis at licensere, ikke gratis at køre: institutionen betaler AWS og modeludbyderne. Modelvalg går gennem Amazon Bedrock (Anthropic, Mistral) eller OpenAI og Microsoft Azure, og kørsel af egne lokale modeller er ikke implementeret. Projektet siger klart, at det ikke kan understøtte individuelle installationer, og henviser organisationer til kommercielle partnere — så den realistiske pris inkluderer personale eller en underleverandør. Det er en installation med tre repositories (frontend, backend, infrastruktur) med snesevis af stjerner snarere end tusinder, og omkostningssammenligningen ovenfor er Vanderbilts egen erfaring, ikke et kontrolleret studie. Institutioner, der hellere vil holde inference på hardware, de ejer, bør se på [MindRouter](/aied/resources/mindrouter/) og læse de to sammen: Amplify er et applikationslag over leverandørmodeller, MindRouter er en gateway over dine egne GPU'er.
-
-## Relaterede begreper
-
-- [[rag]]
-- [[open-source]]
-- [[edtech-platform]]
-- [[governance]]

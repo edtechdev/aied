@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -85,30 +87,3 @@ SDLが学習者によって開始される方向づけを強調するため、�
 **「AIを使用しないことは、アクセスの欠如を示している。」** それを使用しない学生について、述べられる理由は、障壁ではなく、自分で課題に取り組みたいという前向きな教育的選択であることが多い。不使用を欠乏として読み取ることは、[[student-experience|学生の経験]]のエビデンスにおいては理由にもとづいた選択である立場を、誤って描写することになる。
 
 **「自己主導とは一人で作業することである。」** それは方向性の主導権を自ら握ることを意味し、高度に支援された環境においても行使できる。決定的な特徴は、誰が目標を設定し調整するのかであり、支援が得られるかどうかではない。
-
-## 関連する概念
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[adult-learning]]
-- [[lifelong-learning]]
-- [[higher-ed]]
-
-## 関連する記事
-
-- [[scherer-self-directed-genai-use-secondary-2026]] — Self-Directed Generative AI Use and Academic Development Among Secondary School Students: A Large-Scale, One-Year Longitudinal Study
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — 生成AIの考えなき使用と自己主導学習(SEM、性別差)
-- [[ai-lifelong-learning-policy]] — AIと生涯学習の政策
-- [[self-directed-growth-generative-ai-learning-analytics]] — 生成AIと学習分析を用いた自己主導的な成長
-- [[genai-educational-outcomes-meta-analysis]] — 生成AIの教育上の成果のメタ分析
-- [[andragogy-cognitive-delegation-genai-2026]] — 生成AIを用いた成人教育学と認知的委任
-- [[kim-ai-andragogy-2026]] — 成人教育学を支えるAIの応用(Kimら2026)
-- [[an-goel-self-directed-modeling-2026]]
-- [[llm-goal-selection-self-directed-learning-2026]] — モデルは自由選択の課題で人間のように学習目標を選択しない（Molinaro et al. 2026）

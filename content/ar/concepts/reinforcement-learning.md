@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
+connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -69,29 +71,3 @@ ai_assist:
 **"الآفاق الأطول أفضل ببساطة."** إنها تتيح ما لا تتيحه الآفاق الأقصر، وتقتضي أن تكون المكافأة صحيحة عبر التسلسل كله. فـ[[residencyrl-clinical-rl-training-2026|ResidencyRL]] يحسّن **لقاءات سريرية كاملة من 60 دورًا**، وهو أبعد بكثير من آفاق ≤12 دورًا في أنظمة الحوار المتزامنة، ما يرفع كلفة هدف مُحدَّد بشكل خاطئ بدلًا من أن يخفضها.
 
 **"التعلّم المعزّز هو الصيغة المناسبة للتدريس لأن التعليم تسلسلي."** التسلسل لازم وغير كافٍ؛ والقيد الفعّال هو صحة المكافأة. فهدف محدَّد بإحكام مع سياسة ضعيفة يتفوّق على سياسة قوية في وجه هدف خاطئ.
-
-## المفاهيم المتصلة
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[edtech-platform]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[open-source]]
-- [[pedagogical-safety]]
-- [[llm-training-and-fine-tuning]]
-- [[ai-technologies]] — المظلة: تقنيات وتقنيات الذكاء الاصطناعي (النماذج، وتدريب النماذج اللغوية الكبيرة، والروبوتات، والاسترجاع المعزَّز، والعاملية)
-
-## المقالات المتصلة
-
-- [[history-aware-student-simulation]]
-- [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[riedmann-reinforcement-learning-education-review-2026]]

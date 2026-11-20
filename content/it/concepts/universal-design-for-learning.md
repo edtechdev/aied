@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -94,32 +96,3 @@ L'UDL trasforma «aggiusta il discente» in «aggiusta la progettazione». Per i
 **"L'UDL significa progettare con più cura per lo studente medio."** L'affermazione centrale è l'opposto: la variabilità del discente è la norma anziché l'eccezione, quindi la progettazione fornisce molti percorsi fin dall'inizio invece di correggere un percorso per chi è in difficoltà. L'adattamento a posteriori è ciò che l'UDL esiste per sostituire, e un unico percorso ben calibrato resta un unico percorso.
 
 **"L'IA rende l'UDL automatico, dato che può generare formati alternativi."** Rende economico il principio della rappresentazione e lascia intatti coinvolgimento ed espressione. Convertire testo in audio affronta uno dei tre mezzi; un corso può ormai essere pienamente multiformato e richiedere comunque a ogni studente di dimostrare l'apprendimento nello stesso unico modo.
-
-## Concetti collegati
-
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[neurodiversity]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[pedagogy]] — Ombrello: pedagogie e strategie didattiche nell'educazione all'IA
-- [[bias-mitigation]]
-- [[reducing-ai-misuse]]
-- [[k-12]]
-
-## Articoli collegati
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
-- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Intelligenza artificiale e progettazione universale per l'apprendimento nelle istituzioni di istruzione superiore del Kuwait: verso un quadro di educazione inclusiva abilitato dall'IA

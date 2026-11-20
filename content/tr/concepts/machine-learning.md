@@ -13,6 +13,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
+connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -73,34 +75,3 @@ Makine öğrenme eğitimde ayrıca bir *ders* olarak da görünür. [[microbit-r
 **“Üretken YZ, eğitimde klasik makine öğrenmesini gereksiz kıldı.”** Farklı işler yaparlar. Öğrenen durumlarının tahmini, zorluk kestirimi ve ilerleme öngörüsü klasik makine öğrenmesi problemleri olmayı sürdürür ve bu derlemin belgelediği bilgi izleme ile madde kalibrasyonu literatürüne bir dil modeli hizmet etmez. Üretken YZ, makine öğrenmesinin bir alt kümesidir, onun yerine geçen bir şey değil.
 
 **“Öğretmen eğitimi, öğrencilere makine öğrenmesi yerine LLM’leri öğretmelidir.”** Okuryazarlığı üretken katmanla sınırlamak, uygulayıcıları öğrencileri hakkında karar veren tahmin sistemlerini sorgulama yeteneğinden yoksun bırakır; sonuç doğuran hataların yoğunlaştığı yer tam olarak burasıdır.
-
-## Bağlı Kavramlar
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[generative-ai]]
-- [[llm]]
-
-## Bağlı Makaleler
-
-- [[at-risk-students-ml-prediction]] — Çekilme riski altındaki öğrencileri belirlemek için denetimli MK sınıflandırması
-- [[trace-course-grade-prediction-2026]] — Dersleri ve notları birlikte tahmin eden transformer (TRACE)
-- [[precision-education-student-digital-twins-2026]] — Koruyucu, kariyere uyumlu yollar için YZ destekli öğrenci dijital ikizleri
-- [[sc2r-counterfactual-recourse-educational-2026]] — Eyleme dönüştürülebilir müdahale için anlamsal-kısıtlı karşıolgusal telafi
-- [[interactive-online-learning-ai-2025]] — İnteraktif çevrimiçi öğrenme tahmini için DMO-GRU melezi
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Bir ITS’de bilişsel etkileşimin uyarlamalı iskelelenmesi (BKT ve DRL)
-- [[pedagogical-safety-rl]] — Eğitimdeki pekiştirmeli öğrenme için pedagojik güvenliğin biçimsel çerçevesi
-- [[automated-online-exam-proctoring-decade-review-2026]] — Derin öğrenmeli otomatik sınav gözetiminin on yıllık derlemesi
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Yakınlık eşlemeli sonuç-tabanlı bilgi izleme
-- [[bird-multimodal-educational-literature-2026]] — Eğitim literatürünü sınıflandırmada çok kipli kaynaştırma
-- [[razavi-powers-item-difficulty-llm-2026]] — LLM’ler ve ağaç tabanlı MK kullanarak madde güçlüğünü tahmin etme
-- [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[zhang-ml-student-progress-programming-2026]]
-- [[riedmann-reinforcement-learning-education-review-2026]]
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — Pakistan Üniversite öğrencileri arasında NLP ve Makine Öğrenme kullanarak stres tespiti ve iyi oluş desteği için YZ destekli kültüre duyarlı sohbet robotu
-- [[synthetic-educational-data-structural-fidelity-2026]] — Sadakat Ölçütlerinin Kaçırdığı Şey: Sentetik Eğitim Verisine Yapısal Bir Bakış

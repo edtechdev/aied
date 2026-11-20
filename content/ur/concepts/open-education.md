@@ -21,6 +21,8 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -90,39 +92,3 @@ ai_assist:
 **"AI مواد کو اِتنا سستا بنا دیتا ہے کہ OER متروک ہو گیا ہے۔"** اُلٹی تشریح دستیاب اور بہتر ثابت شدہ ہے۔ اگر تخلیق تقریباً مفت ہو تو کمیاب اشیاء لائسنس، حوالہ دینے کا سراغ، جائزے کا عمل اور برقرار رکھا گیا پلیٹ فارم بن جاتے ہیں۔ اسی لیے یہ ادب پیداوار کے بجائے گورننس اور بنیادی ڈھانچے پر جمع ہوتا ہے۔
 
 **"کھلے اسائنمنٹ میں AI ٹولز شامل کرنا سیکھنے کو بہتر بناتا ہے۔"** یہاں ایک ہی نیم تجرباتی امتحان ملا، جس نے دونوں بازوؤں میں سمجھی جانے والی مہارت میں اضافہ پایا اور اُن کے درمیان کوئی قابلِ پکڑ فرق نہیں، ساتھ میں AI والے سیکشن میں زیادہ تکمیل اور قدرے کم سکور۔ AI نے بدلا کہ طلبہ کیا پیدا کرتے ہیں، اور نہیں بدلا کہ اُنہوں نے کیا سیکھا بتایا۔
-
-## منسلک تصورات
-
-- [[open-source]]
-- [[legal-issues-and-risks]]
-- [[regulation]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[authentic-assessment]]
-- [[sustainability]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[accessibility]]
-- [[change-management]]
-
-## منسلک مضامین
-
-- [[tlili-double-edged-sword-oer-generative-ai-2026]] — جنریٹو AI کے پیداوار میں آنے کے بعد OER کے لیے پانچ فریمنگیں (Tlili et al., 2026)
-- [[atenas-oer-digital-public-goods-2026]] — OER بطور ڈیجیٹل عوامی سامان اور گورن شدہ بنیادی ڈھانچے کی دلیل (Atenas et al., 2026)
-- [[deimann-rethinking-openness-ai-2026]] — پچیس سال کی کھلے پن کی وکالت نے اداراتی وسط کیوں برقرار چھوڑا (Deimann and Lukács, 2026)
-- [[clinton-lisell-open-pedagogy-ai-tools-2026]] — کورس کے دو سیکشنوں میں AI ٹولز کے ساتھ اور بغیر کھلی پیداوگوجی (Clinton-Lisell, 2026)
-- [[duan-open-educational-practices-evolution-2026]] — کھلی تعلیمی مشق کے چودہ ماڈل اور اُن میں AI کہاں بیٹھتا ہے (Duan, 2026)
-- [[guo-teachers-ai-literacy-open-education-practices-2026]] — چین کے 30 صوبوں میں استاد کی AI خواندگی اور کھلی تدریسی مشق (Guo et al., 2026)
-- [[rodes-paragarino-oer-generative-ai-framework-2026]] — OER اور AI کے ذمہ دار انضمام کے لیے سات ستونوں کا فریم ورک (Rodés-Paragarino and Atenas, 2026)
-- [[gonzalez-miy-active-learning-mentoring-ai-oer-2026]] — ورچوئل لیبارٹری میں رہنمائی اور AI-OER کی پیداوار (González Miy, 2026)
-- [[ryu-developing-ai-literacy-oer-2026]] — AI خواندگی کے OER کا جائزہ لینے کے لیے سات اصولوں کا ربرک (Ryu, 2026)
-- [[ahmadfard-interactive-oer-review-2026]] — OER میں تعامل پذیری بطور ڈیزائن کی دلیل، بطور نتیجہ نہیں (Ahmadfard, 2026)
-- [[patino-ai-international-cooperation-open-education-2026]] — کھلی تعلیم میں بین الاقوامی تعاون بطور اوزاری کیس (Patiño et al., 2026)
-- [[peng-personalized-recommendation-oer-2026]] — OER کے لیے ہائبرڈ ریکمنڈر، دعوے سے زیادہ مضبوط baseline کے مقابل (Peng, 2026)
-- [[panda-editorial-digital-transformation-open-education-2026]] — کھلی سیکھنے میں ڈیجیٹل تبدیلی بطور پیداگوجیکل تبدیلی (Panda, 2026)

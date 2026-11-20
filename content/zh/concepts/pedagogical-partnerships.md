@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
+connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -111,39 +113,3 @@ ai_assist:
 - **"伙伴关系意味着抬高学生的声音。"** 教学伙伴关系是一种**有边界、经协商的关系**，有界定的角色与互惠义务，而不是咨询。有声音而没有角色、职权与一份决策权，不会改变任何结构性东西。
 - **"伙伴关系是一种可以采取的姿态。"** 它要求制度条件：时间、对学生伙伴的认可，以及一项伙伴确实能影响的改变。没有这些条件而宣告的伙伴关系，复制了它声称要打断的等级结构。
 - **"权力共享不能算教师发展。"** 本文献的主张是，伙伴关系之所以是发展，*正是*因为它经由这段关系改变了教育者的理解。只把它框定为学生受益，就丢掉了机制。
-
-## 关联概念
-
-- [[pedagogy]] — 教学法与教学策略
-- [[collaborative-learning]]
-- [[agency]] — 学习者主体性
-- [[self-directed-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-
-## 关联文章
-
-- [[guided-inquiry-genai-course-policy-2026]] — 一种让学生共同设计生成式 AI 课程政策的引导式探究方法
-- [[lo-co-creating-custom-gpts-sap-2026]] — 共同创造定制 GPT：本科生作为生成式 AI 创新伙伴的自我民族志研究
-- [[williams-ingle-assessment-co-creation-ai-2025]] — 通过共同创造进行评估设计：评估 AI 中的学生—工作人员伙伴关系
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — 在 AI 中航行的五条指导原则，守护学生即伙伴实践中的教学信任
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — 与青年伙伴共同设计 AI：一种关系性隐私伦理框架
-- [[fawns-entangled-pedagogy-genai-students-2026]] — 通过纠缠教学法框架照亮学生关于 AI 的复杂现实
-- [[anastasia-shared-agency-partnership-framework-2026]] — 共享主体性：师生协作的主体性伙伴关系框架
-- [[maybee-disruptive-partnerships-sap-2025]] — 颠覆性伙伴关系：在信息学中与学生协作
-- [[student-centered-genai-responsible-framework-2026]] — 以学生为中心的负责任生成式 AI 使用框架
-
-- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — 710 名学生规模下学生为同伴构建 AI 导师：参与度高，学习证据仍是探索性的（Zangari 等，2026）
-

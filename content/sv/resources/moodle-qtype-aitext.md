@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
@@ -48,12 +49,3 @@ Moodle-administratörer och utvecklare som redan driver sajten, lärare som vill
 ## Noteringar och förbehåll
 
 Öppen källkod under GPL v3 eller senare, men gratis betyder inte gratis att driva: någon betalar för modellens API, och bedömningens kvalitet beror på modellval och promptdesign. Fritextsvar lämnar Moodle-servern när en extern leverantör används, så institutionens dataavtal styr vad som får skickas; den självdriftade Ollama-vägen finns för sajter som inte kan skicka studentarbete ut. Repot anger ingen publicerad noggrannhets- eller överensstämmelsestudie, så insticksmodulen bör inte införas med antagandet att LLM-bedömning motsvarar mänsklig bedömning – [[assessment-validity|validitet]] måste fastställas lokalt mot mänskliga poäng innan någon betygspoäng väger något. De medföljande beteendena är ett hårt beroende: att installera enbart frågetypen lämnar frågor utan betygsättning.
-
-## Anslutna begrepp
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

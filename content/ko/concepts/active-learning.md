@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
+connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]
 ---
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
@@ -87,51 +89,3 @@ AI가 가능하게 하는 능동적 학습은 이 문서고에서 여러 형태�
 - **"AI가 뒷받침하는 탐구는 자동으로 상위 질서의 사고가 된다."** **8학년 학생 120명**을 대상으로 한 준실험은 AI가 뒷받침하는 [[inquiry-based-learning|탐구 기반 학습]]이 [[creativity|창의적 수학 수행]]과 하나의 더 좁은 측정치를 높였다고 발견했습니다. 처치는 일부 결과를 움직였고 다른 결과는 움직이지 않았습니다. 상위 질서라는 꼬리표와의 상관은 상위 질서 과제와 같지 않습니다.
 - **"학생이 가르침을 설계하는 것은 기술적 훈련이다."** 뒤집기 연구에서 700명 규모 강좌의 **학생 345명**이 각자 대화형 에이전트를 설계하여 동료에게 세 가지 디자인 패턴을 가르치게 했습니다. 능동적 학습은 그 설계 작업에서 나왔으며, 그것은 프롬프트 엔지니어링이 아니라 [[pedagogy|교수법적]] 추론입니다.
 - **"참여에 관한 발견은 학습에 관한 발견이다."** 같은 증거 기반은 **대조군이 없고 자발적 표본**인 설계가 참여에 관한 주장만을 뒷받침한다고 주의를 줍니다. 학생들은 개방형 설계의 자유를 높이 평가했고(**긍정적 주제 1위 22.3%**), 가장 많은 불만은 불분명한 지시였습니다(**23.7%**). 둘 모두 경험에 관한 것입니다.
-
-## 연결된 개념
-
-- [[learning-gains]]
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[scaffolding]]
-- [[constructivist]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[learning-theories]]
-- [[icap-framework]]
-- [[student-engagement]]
-- [[project-based-learning]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[help-seeking]]
-- [[pedagogy]] — 포괄 개념: AI 교육의 교수법과 교수 전략
-
-## 연결된 문서
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 튜터링이 교실 내 능동적 학습을 능가한다: 진정한 교육 환경에서 새로운 연구 기반 설계를 도입한 RCT(Kestin et al. 2025)
-- [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — 경제학을 위한 능동적 학습 GenAI 틀(Beck & Brodersen 2025)
-- [[lak2026-hint-button-unproductive-use]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[neurodivergent-computing-students]]
-- [[genai-mindtool-generative-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — AI 상호작용 양식의 EEG 연구(상호작용적 > 자동)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: 다중 에이전트 시뮬레이션을 통한 시각적 탐구적 학습
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: 단계화된 대화식 강의 후 복습
-- [[academic-league-of-ai-2026]] — Academic League of AI: 프로젝트 기반 능동적 학습
-- [[mujib-ai-ibl-creative-math-2026]] — AI가 뒷받침하는 IBL과 창조적 수학 수행
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — 학습자 특성 × TTS 대화 형식 상호작용
-- [[instructional-guidance-genai-learning]] — 촉진된 AI 복습 대 촉진되지 않은 AI 복습: 개방형 점수를 움직인 것은 모형 접근이 아니라 구조였다
-- [[assigned-ai-preclass-student-engagement-2026]] — 수업 전 AI 예행연습은 두 번째 사용 후 수업 내 참여를 31% 높였고, 첫 사용 후에는 아니었다

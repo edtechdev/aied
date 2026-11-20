@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -48,12 +49,3 @@ Administrator dan pengembang Moodle yang sudah menjalankan situs, pengajar yang 
 ## Catatan dan peringatan
 
 Sumber terbuka di bawah GPL v3 atau lebih baru, tetapi gratis tidak berarti gratis untuk dijalankan: seseorang membayar API model, dan kualitas penilaian bergantung pada pilihan model dan desain prompt. Jawaban teks bebas meninggalkan server Moodle ketika penyedia jarak jauh digunakan, jadi perjanjian data institusi mengatur apa yang boleh dikirim; jalur Ollama yang dihosting sendiri ada untuk situs yang tidak dapat mengirim pekerjaan siswa ke luar. Repositori menyatakan tidak ada studi akurasi atau kesepakatan yang diterbitkan, jadi plugin tidak boleh diadopsi dengan asumsi bahwa penilaian LLM setara dengan penilaian manusia — [[assessment-validity|validitas]] harus ditetapkan secara lokal terhadap skor manusia sebelum nilai apa pun berbobot. Perilaku pendamping adalah dependensi keras: memasang tipe soal saja membuat soal tidak dapat dinilai.
-
-## Konsep terkait
-
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[open-source]]
-- [[academic-integrity]]

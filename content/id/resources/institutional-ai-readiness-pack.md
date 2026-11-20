@@ -26,6 +26,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [governance, educational-policy-ai, change-management, academic-integrity, ai-use-disclosure]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,6 +50,3 @@ dipakai dan [[governance|ditata kelola]] di seluruh lingkungan riset serta cara 
 [[change-management|perubahan]] sepanjang waktu. Paket ini menyertai *Responsible AI in Academic
 Research: A Competency Framework for Research Training*, yang mendefinisikan lima dimensi kesiapan, dan
 ditulis oleh Michael J. Zyphur, direktur Instats.
-
-## Konsep terkait
-[[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

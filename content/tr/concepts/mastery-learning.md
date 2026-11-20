@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
+connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -66,24 +68,3 @@ Standartlara dayalı notlama, ustalık öğrenmesinin değerlendirme karşılı�
 **“Ustalık öğrenmesi, YZ’nin nihayet mümkün kıldığı pedagojidir.”** Mekaniği YZ’den epeyce öncesine dayanır, Bloom çerçeveyi on yıllar önce biçimlendirdi; YZ onu daha önce imkânsız olan bir tasarımı gerçekleştirerek değil, değerlendirme ve ilerleme hızı kararlarını otomatikleştirerek işler kılar. Bu yeniden çerçeveleme önemlidir çünkü otomasyon kural tercihini devralır ve yargı kuralda yaşar.
 
 **“Ustalık altında daha sık değerlendirme eşiği daha güvenilir yapar.”** Sıklık tahmini iyileştirir ve yanlış belirtilmiş bir kuralı düzeltmez. Yardımlı iş içeren olaylardan ustalığı daha sık yeniden hesaplamak, aynı yanlış yanıta daha hızlı yakınsar.
-
-## Bağlı Kavramlar
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[desirable-difficulties]]
-- [[retrieval-spacing-interleaving]] — ustalık döngüleri içinde pratik motoru olarak geri çağırma ve aralıklama
-
-## Bağlı Makaleler
-
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Aldatıcı aşırı genelleme: uyarlamalı ustalık, öğrenenler bir eylemi ne zaman yapmaktan kaçınacağını bilmeden alıştırmayı bitirebilir (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Sorumlu ve yorumlanabilir öğrenen modelleme için derin öğrenmeye ustalık/ustalıksızlık kuralları enjekte etmek
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Yardımlı işe kredi vermek ustalığı şişirir: kimin ustalaşmış ilan edileceğine hangi kanıt kuralı karar verir (Srivastava 2026)
-- [[simulating-learner-task-selection]] — Ustalık öğrenmesinde öğrenenlerin görev seçimi stratejilerini ve sistem kısıtlarını simüle etmek (Noh ve ark. 2026)
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Bilgi izleme sonraki oturum performansını fazla tahmin ediyor ve aralık etkisini kaçırıyor (Schuetze, Yan ve Carvalho 2025)

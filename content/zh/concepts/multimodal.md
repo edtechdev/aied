@@ -23,6 +23,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
+connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
+connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -112,65 +114,3 @@ ai_assist:
 **"多模态能力是一架单一的梯子，因此总体最强的模型就是图像密集任务上最好的模型。"** 能力是任务特定的，一个在通用[[benchmark|基准]]上领先的模型可能在受力图上落后。对图像密集的学科而言，相关的检验是那个意义嵌于图形之中的检验。
 
 **"纯文本辅导的局限是麻烦，而不是[[curriculum-design|课程]]问题。"** 在图形*就是*问题的学科里，即物理、化学、几何、工程与医学，纯文本导师的能力边界落在被评估的内容之内，而非其边缘。
-
-## 关联概念
-
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[feedback]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[stem-education]]
-- [[inclusive-learning]]
-- [[ai-technologies]] — 总括：人工智能技术与技术手段（模型、大语言模型训练、机器人、RAG、代理式）
-- [[virtual-and-augmented-reality]] — 手势、语音与空间输入作为学习渠道
-- [[speech-and-voice-technologies]]
-- [[arts-and-media-education]]
-
-- [[sensor-and-gaze-analytics]]
-
-## 关联文章
-
-- [[elkington-human-centred-assessment-value-2026]] — 以人为本的评估、装配体与生成性约束（Elkington 2026）
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 以视频公益广告创作作为批判性人工智能素养教学法（Burriss 等人 2026）
-- [[student-attention-estimation-fairness-2026]] — 面向实时学生注意力估计的公平性感知多模态 Transformer 建模
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — VLM 在手写学生数学作业上的表现（DrawEduMath，Lucy 等人 2026）
-- [[multimodal-learning-genai]] — 用生成式人工智能进行多模态学习的教育者指南（MMLD-AI 模型）
-- [[syal-multimodal-dialogue-stem-2026]] — 多模态干扰效应与 STEM 中的结构化对话恢复
-- [[multimodal-ai-feedback-learning]] — 多模态人工智能反馈在学习上匹敌教育者、在感知上超过
-- [[multimodal-prompting-ai-literacy]] — 学生的多模态提示作为人工智能素养中的认识论工作
-- [[multimodal-item-parameter-estimation-2026]] — 用多模态大语言模型估计 IRT 项目参数
-- [[ai-guided-learning-audiovideo-2026]] — 人工智能引导的音频—视频学习支持
-- [[multimodal-knowledge-graph-educational-reasoning]] — 用于教育推理的多模态知识图
-- [[mllm-scientific-visualization-literacy]] — 面向科学可视化的多模态大语言模型素养
-- [[multimodal-affective-its-presentation]] — 情感智能辅导系统中的多模态信号
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — 情感多模态数学辅导
-- [[llm-cognitive-diagnosis-handwritten-math]] — 对手写数学的大语言模型认知诊断
-- [[nuclear-diffusion-text-to-image-learning-2026]] — 核工程教育中的文本到图像学习
-- [[privacy-aware-classroom-incident-recognition-2026]] — 隐私感知的多模态课堂感知
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — 网络安全教育中的多模态 OCR 指导
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24：多模态 LLM 幻灯片审计基准
-- [[ai-grading-handwritten-physics-2026]] — 手写物理评估的人工智能评分（奥林匹克）
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — 小学写作中的多模态人工智能创作与批判性思维（Lu 等人 2027）
-- [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — 超越生成与准确度：诊断并增强几何解题的视觉思维链
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 1,174 件艺术品上的 12 项任务显示 VLM 能力是一种维度特定的剖面，在情感解释与视点依赖的空间推理中最弱（Zhu 等人 2026）
-- [[ai-assisted-physics-lab-report-assessment-2026]] — 实验物理实验报告的人工智能辅助评估：潜力、局限与对教学实践的支持
-
-- [[kim-ai-embodied-learning-review-2026]] — 具身学习中的 AI 大多只是观察：感知角色占编码角色标签的 62.5%，且没有系统在学习者使用过程中融合多模态流（Kim 与 Han 2026）
-

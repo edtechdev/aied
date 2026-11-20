@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
+connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -78,39 +80,3 @@ ai_assist:
 **«Исследование по определению неструктурировано».** Преподаватель выстраивает опору, и структура заключена в дизайне вопросов и цикле рефлексии, а не в подаче содержания. Удаление опоры не делает исследование более аутентичным; оно делает его неопорным.
 
 **«Вопросы, ведомые студентами, будут хорошо сформулированы, если студентам интересно».** Порождение разрешимого вопроса — это и есть развиваемый навык, поэтому система, поставляющая хорошие вопросы, выполнила исследовательский навык, ради обучения которому существует эта деятельность.
-
-## Связанные концепции
-
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[k-12]]
-- [[productive-failure]] — Productive Failure
-
-## Связанные статьи
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT для обучения на основе исследования в STEAM (систематический обзор)
-- [[dai-chatbots-problem-posing-primary-2026]] — Чат-боты GenAI и постановка проблем в начальной науке
-- [[luo-ibl-patterns-llm-bloom-2026]] — Паттерны IBL в средах, управляемых LLM (перспектива Блума)
-- [[mujib-ai-ibl-creative-math-2026]] — ИИ-поддержанный IBL и креативные математические результаты
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Мета-анализ GenAI и мышления более высокого порядка
-- [[niri-steam-ai-literacy-review-2026]] — Образование STEAM для ИИ-грамотности
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — ИИ-поддержанное управляемое исследование в фотосинтезе и дыхании (педагогическое образование в области естественных наук)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Извлечение информации на базе ИИ, поддерживающее диссертацию бакалавра и обучение на основе исследований (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — ИИ-поддержанное исследование в социально-научных вопросах об изменении климата
-- [[geoscience-field-learning-genai-2026]] — Модель инструктажа «поле прежде всего», не позволяющая GenAI пред-структурировать то, что учащиеся замечают (Choi 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Человеческий фасилитатор против проблемного обучения под руководством ИИ: равный прирост содержания, более слабое критическое мышление без фасилитатора (Shetty & Rao 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Карта 66 исследований генеративного ИИ по пяти фазам исследования, где лишь 8 исследований измеряли исследовательские навыки

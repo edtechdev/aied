@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_concepts: [ai-literacy, critical-thinking, cognitive-offloading, academic-integrity, metacognition]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -49,11 +50,3 @@ ai_assist:
 该指南以[[formative-assessment|形成性评价]]为框架，并明言如此：分数只是习惯的快照，不是成绩、特质或预测，学生被告知不要公开分享自己的分数。
 
 其对 AI 的论述立足于有引用的调查与实验证据，即把努力外包出去可能导致学生的记忆留存更少——这正是该指南旨在回应的 [[cognitive-offloading|外包]]问题，而非要一锤定音。实地指南的 PDF 隐藏在一个简短表单之后，需要填写姓名、角色、机构与邮箱；教师指导模块与教学法框架论文则可直接下载。交互式版本运行在 Gemini Notebook 中，需要 Google 账号。超过 40,000 次 PDF 下载、覆盖约 4,000 所机构与 180 个国家，以及 130 多个定制校园版本，这些数字均出自出版方；来自 ALA、NASPA、EDUCAUSE、OLC、CAA、Gardner Institute 与 RTI International 的推荐语同样如此。
-
-## 关联概念
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[metacognition]]

@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
+connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -65,40 +67,3 @@ ai_assist:
 **"डिज़ाइन सोच एक ऐसी प्रक्रिया है जिसे चरण-दर-चरण स्वचालित किया जाए।"** यह समस्याओं को फ़्रेम और पुनःफ़्रेम करने का अनुशासन है, और फ़िक्सेशन ठीक इसी को बंद कर देता है। ढाँचे को अपरीक्षित छोड़कर चरणों को स्वचालित करना गलत समस्या के लिए सक्षम आउटपुट उत्पन्न करता है।
 
 **"जो AI एजेंट छात्र से सहमत होते हैं, वे उनके डिज़ाइन तर्क का [[student-support-and-success|समर्थन]] करते हैं।"** यहाँ दर्ज उत्पादक उपयोग उलटी दिशा में चलता है: [[ai-agents-constructive-conflict-design-education-2026|AI एजेंटों के साथ रचनात्मक संघर्ष]] उस विरोधी प्रॉम्प्टिंग की जाँच करता है जो पुनर्विचार को बाध्य करती है। सहमत होने वाला एजेंट फ़िक्सेशन को मज़बूत करता है; असहमति-उन्मुख एजेंट वह डिज़ाइन है जिसके पीछे शैक्षणिक दावा है।
-
-## संबंधित अवधारणाएँ
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[feedback]]
-- [[socratic-method]]
-- [[creativity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[k-12]]
-- [[professional-training]]
-- [[academic-integrity]]
-- [[open-source]]
-- [[arts-and-media-education]]
-
-## संबंधित लेख
-
-- [[design-thinking-aigc-fashion-film-2026]] — AIGC-समर्थित फ़ैशन फ़िल्म डिज़ाइन में सीखने के चरणों में डिज़ाइन सोच माइंडसेट (Liu एवं सहयोगी 2026)
-
-- [[genai-architecture-education]] — Gen-AI-tecture: डिज़ाइन कार्यों में वास्तुकला छात्रों का समर्थन करने के लिए जनरेटिव एआई का उपयोग
-- [[genai-architectural-design-studios]] — वास्तुकला डिज़ाइन स्टूडियो में जनरेटिव एआई का विकास और अनुप्रयोग
-- [[social-robot-study-companions]] — विश्वविद्यालय छात्रों के साथ निर्मित और खुले सामाजिक रोबोट अध्ययन साथियों का सह-निर्माण
-- [[gaide-vibe-coding-k12-teachers]] — वाइब कोडिंग के माध्यम से एआई-समर्थित शिक्षण प्रौद्योगिकियाँ बनाने में K-12 शिक्षकों के लिए एक मार्गदर्शक ढाँचा
-- [[dot-framework-survey-2026]] — DOT ढाँचा सर्वेक्षण: एआई-संवर्धित शिक्षा में व्यवसायियों के विश्वास और व्यवहार
-- [[ai-agents-constructive-conflict-design-education-2026]] — नवशिक्या इंटरैक्शन डिज़ाइनरों में पुनर्विचार बढ़ाने के लिए एआई एजेंटों के साथ रचनात्मक संघर्षों का संचालन
-- [[genai-usage-design-students-survey]] — डिज़ाइन छात्रों का GenAI उपयोग: सर्वेक्षण परिणामों और 2025/2026 में मिलानो के पॉलिटेक्निको में एआई प्रथाओं के जर्नलों का विश्लेषण

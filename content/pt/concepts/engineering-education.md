@@ -24,6 +24,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -88,37 +90,3 @@ Essa lacuna já não está vazia em uma área: um programa de três anos em enge
 - **"A adoção de IA entre estudantes de engenharia é um problema de aceitação de tecnologia."** [[socio-cognitive-genai-adoption-engineering-2026|Asag e Al Mamun]] integram o TAM ao [[technology-acceptance-model|UTAUT]] para modelar a adoção de estudantes de engenharia de Bangladesh, **explicando 64% da** variância — de modo que uma parcela substancial fica fora dos construtos de aceitação, em fatores sociais e cognitivos que o modelo não cobre.
 - **"Os estudantes usam a IA para aquilo em que ela é melhor."** [[ai-engineering-education-balancing-act|Kudina (2026)]] constatou que **100 estudantes de engenharia** mais valorizavam os LLMs para **apoio à escrita**, e não para raciocínio de engenharia. Suas metáforas para a ferramenta superavam o que ela entregava, e seu uso real seguia a conveniência, e não a capacidade.
 - **"Um conjunto de ferramentas mais rico melhora os resultados de projeto."** Em um ateliê de projeto arquitetônico com **27 estudantes**, as equipes que usavam um pipeline de IA generativa mais [[virtual-and-augmented-reality|XR]] mostraram **autoeficácia deprimida sem um produto melhor**. A riqueza de ferramentas pode custar confiança sem alterar o artefato.
-
-## Conceitos conectados
-
-- [[problem-based-learning]]
-- [[stem-education]]
-- [[cs-education]]
-- [[design-education]]
-- [[math-education]]
-- [[physics-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Artigos conectados
-- [[apostolakis-trusstutor-bench-statics-2026]] — Benchmark de estática: resolução e detecção de erros saturam, a resistência à contestação não
-- [[mechanical-engineering-ai-curriculum-2026]] — Currículo de Educação em IA Baseado em Projetos em Engenharia Térmica
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — As metáforas do corpo docente de engenharia constroem (e constrangem) a compreensão da IA
-- [[tam-critical-use-genai-engineering-2026]] — TAM estendido com uso crítico para estudantes de engenharia/ciência da computação
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Modelo sociocognitivo unificado para a educação em engenharia (Bangladesh)
-- [[ethical-use-ai-engineering-education-review-2026]] — Uso ético da IA na educação em engenharia: uma revisão sistemática
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Um framework multimodal para a cognição corporificada em explicações orais
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — A IA e o futuro da força de trabalho em engenharia e computação
-- [[ai-engineering-education-balancing-act]] — Usar IA na educação em engenharia: um ato de equilíbrio
-- [[structured-ai-demonstrations-engineering-mechanics]] — Demonstrações estruturadas de IA em Mecânica da Engenharia
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT na educação em engenharia
-- [[liu-ai-sustainable-engineering-education-2026]] — Framework AI-SEE para educação em engenharia sustentável (Liu et al. 2026)
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — IA generativa e realidade estendida na educação em desenho arquitetônico colaborativo: um estudo exploratório de ateliê
-- [[habit-over-intention-genai-help-seeking-engineering-2026]] — O hábito, e não a intenção, prevê que os estudantes peçam ajuda a pessoas com menos frequência: 49,6% relatam menos busca de ajuda humana, β do hábito 0,711 versus intenção 0,039

@@ -7,6 +7,8 @@ pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 reviewed_by: [editor]
+connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
+connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
 ---
 
 > **Cognitive psychology / cognitivism** — the family of theories that explain learning through internal mental processes — attention, perception, memory, reasoning, and metacognition — rather than through observable behavior alone. In [[ai-education|AI in education]], cognitivist assumptions underpin the field's most distinctive contributions: [[intelligent-tutoring|intelligent tutoring]] systems that model learner knowledge, [[knowledge-tracing|knowledge tracing]] and [[cognitive-diagnosis|cognitive diagnosis]] that track what a learner knows, [[feedback|feedback]] designs grounded in error diagnosis, and the whole [[student-modeling|learner modeling and adaptive instruction]] family. Cognitivism is the middle ground between [[behaviorism|behaviorism]] (learning as behavioral change) and [[constructivist|constructivism]] (learning as active meaning-making), and it is the theoretical lens most closely tied to the computer metaphor of the mind that animated early AIED.
@@ -74,39 +76,3 @@ Development is a separate question: these mechanisms are treated as stable, whil
 - **"Mental representations are unobservable, so cognitive claims about learning are assumptions."** Reconstructing images from learners' **EEG** during science videos found **representation fidelity tracked test performance** (regression coefficient **0.8481, R² = 0.79**). The cognitivist premise of internal representation is measurable, and the measurement predicted the outcome.
 - **"A high R² means the representation explains the learning."** R² = 0.79 is a strong association between fidelity and performance on the same material. It does not establish that raising fidelity raises performance, which is the intervention claim.
 - **"Knowledge components are a convenient modelling fiction."** Decomposability is what makes [[knowledge-tracing|knowledge tracing]] and [[cognitive-diagnosis|cognitive diagnosis]] possible, and the methods work to the degree that the assumption holds. Treating it as a fiction discards the reason the methods produce usable estimates — while treating it as fact overstates what a fitted model tells you about a mind.
-
-## Connected Concepts
-
-- [[behaviorism]]
-- [[constructivist]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[developmental-psychology]]
-- [[longitudinal-research]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[transfer-of-learning]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[learning-sciences]]
-- [[retrieval-spacing-interleaving]] — the retention findings this practice family rests on
-
-## Connected Articles
-
-- [[sim-ai-summary-memory-distortion-2026]] — Misleading AI summaries changed what adults remembered, regardless of whether the summary was labeled AI- or human-written
-- [[cognitive-shift-ai-education]] — The cognitive shift in AI education
-- [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
-- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
-- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Effort organization, not effort amount, tracked load and frustration
-- [[crediting-assisted-work-inflates-mastery-2026]] — Mastery claims from knowledge tracing depend on how assisted work is credited (Srivastava 2026)

@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -82,38 +84,3 @@ ai_assist:
 - **«Контекстам з обмеженими ресурсами бракує рамки етики ШІ, і її треба імпортувати».** Практикуючі вчителі STEAM у контексті з обмеженими ресурсами **міркують про етику ШІ через професійну ідентичність, реалії аудиторії та культурні норми, а не через формальні принципи**. Міркування існує і є ситуативним; універсальний перелік принципів переноситься на нього погано.
 - **«Тип управління передбачає інтеграцію ШІ в університетах».** Порівняльний аналіз змісту **45 нігерійських університетів** (федеральні, штату та приватні) виявив, що інтеграцію ШІ передбачали **вік закладу та географічне розташування — а не тип управління**. Припущення, що публічні й приватні заклади розходяться, спростовано.
 - **«Цифровий розрив — головна перепона».** [[qualitative-research|Якісне]] кейс-дослідження **21 слабозорого студента бакалаврату з трьох палестинських університетів** виявило, що генеративний ШІ водночас долає **цифрові, географічні та соціоекономічні** бар’єри. Бар’єри багатошарові, і ставлення до доступу як до єдиної перешкоди залишає інші недоторканими.
-
-## Пов’язані поняття
-
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[inclusive-learning]]
-- [[technology-acceptance-model]]
-- [[benchmark]]
-
-## Пов’язані статті
-
-- [[genai-assessment-african-higher-education-review-2026]] — Переосмислення оцінювання в епоху генеративного ШІ: систематичний огляд літератури з африканської вищої освіти
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Інституційні структури, цифрова нерівність та інтеграція ШІ в нігерійській вищій освіті
-- [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Уніфікована соціокогнітивна модель для інженерної освіти (Бангладещ)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[genai-minoritized-knowledges-disability]] — Маргіналізація маргіналізованих знань
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — Інтеграція генеративного ШІ в бангладеську вищу освіту через конструктивізм (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Асистивний генеративний ШІ для здобувачів з вадами зору
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Обмеження навчальної заяви пілоту тьюторства на основі ШІ в Сальвадорі (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Розробники академічних програм як цифрові посередники в південноафриканських HDI: цифрова нерівність проти алгоритмічної колоніальності
-- [[ai-ethical-awareness-ghana-students-2026]] — Обізнаність щодо етики штучного інтелекту в ганських університетських студентів
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Етичні принципи ШІ в освіті: контекстуальне етичне міркування викладачів
-
-- [[gouroubera-genai-benin-2026]] — 633 студенти в Беніні: щотижневе використання 92,3 відсотка, домінантний чинник — навантаження, тож доступ уже не є обмежувальним (Gouroubera та співавт. 2026)

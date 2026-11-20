@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_concepts: [learning-design, open-source, online-teaching-and-learning, multimodal, educational-technology-developers, assessment, edtech-platform]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -49,7 +50,3 @@ Perancang pembelajaran dan pembuat mata kuliah yang ingin kontennya bertahan saa
 eLearning yang menginginkan format impor dan ekspor yang sudah dipahami penggunanya, dan siapa pun yang
 membangun penulisan berbantuan AI di atas format yang dapat dibaca. Kontributornya termasuk Dan Bashaw
 dari LXD Integral, dan formatnya memiliki changelog publik sampai v1.8.
-
-## Konsep terkait
-
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

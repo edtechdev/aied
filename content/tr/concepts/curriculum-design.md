@@ -20,6 +20,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
+connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -47,10 +49,7 @@ Değişimi eklemeli değil sistemsel olarak gözden geçiren [[rewriting-curricu
 
 **Müfredat haritalama ve analizi**, mevcut müfredatları anlamak için YZ kullanır. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng ve ark.]]**, YZ destekli yazılım mühendisliği derslerinden 23 ders içerik planını analiz etti ve ortak temaları — [[prompt-engineering|istem mühendisliği]], YZ ile kod incelemesi, [[ethics|etik değerlendirmeler]] — belirleyerek araç akıcılığını temel bilgiyle dengelemeyi vurgulayan tasarım rehberliği türetti. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]**, kurumlar arası BS ders yapılarını karşılaştırmak için hesaplamalı yöntemler uygular.
 
-
 Ağırlıklandırma, bir müfredat analizinin ne bildirdiğini değiştirir: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath ve ark. (2026)]], GPT-o3-mini'nin 48 değerlendirmenin her biri için yedi kurumsal beceriye %100 dağıtım yapmasını sağladı ve uzman ağırlıklarına karşı Krippendorff alfası 0,81'e ulaştı, ancak açıklamaların hiç açıkça belirtmediği becerilerde uyum negatife döndü (-0,19).
-
-
 
 **Modüler yapı, güncel içerikten daha uzun yaşar.** Alanın gözden geçirme döngüsünden hızlı hareket ettiği bir örüntü yinelenir: [[ai-literacy|YZ okuryazarlığı]], eleştirel değerlendirme, önyargı tespiti ve [[ethics|etik]]ten oluşan istikrarlı bir çekirdek; uzmanlık ve yerelde bulunan araç içeriği ise modüller olarak eklenir ve altı ila on iki ayda bir yeniden ele alınır ([[bursic-ai-residency-education-curriculum-2026|Bursic ve ark. (2026)]]). Belirtilen vaka lisansüstü [[medical-education|tıp eğitimidir]], ama ilke genellenir: program araç devirlerine dayanan yetkinliklere bağlanır ve araca özgü katmanı değiştirilmek üzere planlar.
 
@@ -100,7 +99,6 @@ Yapı, istem metni ifadesi, üretimde YZ taslağını güvenilir kılan şeydir:
 
 Müfredat tasarımı [[learning-design]] ile doğrudan bağlantılıdır — müfredat neyi tanımlar, öğretim nasılı tanımlar. YZ yetkinliklerini gömmek birincil bir müfredat zorluğu olduğundan [[ai-literacy]] ile; müfredat değişiminin eğitimci hazırlığı gerektirmesinden ötürü [[teacher-role]] ve [[educational-development]] ile; iyi tasarlanmış müfredatların beceri gelişimini dersler ve yıllar boyunca iskelememesinden ötürü [[scaffolding]] ile bağlantılıdır. [[higher-ed]] ve [[k-12]] bağlantıları, müfredat tasarımının eğitim düzeyleri boyunca alaka düzeyini yansıtır.
 
-
 **Tek bir YZ okuryazarlığı çerçevesi seçmek, kimsenin çapraz eşlemediği bir sözlüğü seçmek demektir.** 50 K-12 çerçevesinin kapsam derlemesinde [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach ve ark. (2026)]], yetkinlik tanımlarının bilişsel, duyuşsal, davranışsal, etik ve sosyal boyutlarda yakınlaştığını, etiketlerin ve yapıların ise hizalanmadığını bulmuştur. Paylaşılan bir ölçüm geleneğine yalnızca ABCE çerçevesi yaklaşmış, Hong Kong, Şanghay ve Tayvan'da doğrulanmıştır; sınıf bantları boyunca ilerleme ise defalarca önerilmiş ve hiçbir yerde sınanmamıştır.
 
 ## Yaygın yanlış anlamalar
@@ -108,58 +106,3 @@ Müfredat tasarımı [[learning-design]] ile doğrudan bağlantılıdır — mü
 - **“Bir [[llm|LLM]], yüksek güvenilirlikle doğrulanmış bir müfredatı eşleyebilir.”** GPT-o3-mini, **48 değerlendirmenin her biri için yedi kurumsal beceriye %100 dağıtım yaptı** ve uzman ağırlıklarına karşı **Krippendorff alfası 0,81**'e ulaştı; ancak **uyum** belirli becerilerde bozuldu. Yüksek genel güvenilirlik ile eşit olmayan uyum, eşlemeye güvenmeden önce denetlenecek örüntüdür.
 - **“YZ okuryazarlığını gömmek bir ders eklemek demektir.”** LearnAI gömülü biçimi gösterir: **beş disiplinde 18 mevcut dersin içine yerleştirilmiş kısa sunumlardan oluşan geniş erişimli bir katman (293 öğrenci)**. Erişim bir ünitede toplanmak yerine müfredata dağıtılmıştır.
 - **“Öğrenciler medyayı eleştirel değerlendirebilir olarak gelir.”** Ankete katılan eğitim ve gazetecilik öğrencilerinin yalnızca **%13,8'i** derslerinin eleştirel medya analizini ele aldığını söyledi, **bunu önemli bulan %97,8'e** karşılık. Bir beceriye değer vermek ile o becerinin öğretilmesi arasındaki boşluk müfredat açıklığıdır.
-
-## Bağlı kavramlar
-- [[pedagogical-partnerships]] — Pedagojik Ortaklıklar
-- [[business-education]]
-- [[learning-design]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[stem-education]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[prompt-engineering]]
-- [[collaborative-learning]]
-- [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
-- [[recommender-systems-and-learning-paths]]
-
-## Bağlı makaleler
-
-- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Akreditasyon için ağırlıklı, uzman doğrulamalı beceri eşlemesi
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Üretken YZ ile yapıcı hizalama rehberliğinin eleştirel söylem analizi (McInnes ve ark. 2026)
-- [[icet-ml-education-trust-2026]] — Eğitim yoluyla YZ sistemlerinde güveni ele almak: didaktik bir perspektif
-- [[refrain-amplify-genai-curriculum-2026]] — Üretken YZ’yi sıralamak için önce çekil-sonra yükselt müfredat çerçevesi (Torres-Sahli ve ark. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Isı Mühendisliğinde proje temelli YZ eğitimi müfredatı
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — YZ çağında akıllı üretim için İşgücü Hazırlık Düzeyi çerçevesi
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Müfredatı yeniden yazmak: üretken YZ kaynaklı pedagojik değişim
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — YZ Becerileri Çerçevesi: müfredat haritalaması için 26 değerlendirilebilir beceri
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: disiplinler boyunca tam zamanında YZ ortak üretimi
-- [[ai-video-dual-gatekeeping-2026]] — “Hayır” demek daha iyi videolar ürettiğinde: pedagojik temelli YZ içerik üretimi için çifte kapı bekçiliği
-- [[niri-steam-ai-literacy-review-2026]] — YZ okuryazarlığı için STEAM eğitimi: sistematik derleme
-- [[caruana-pre-university-ai-education-slr-2026]] — Öğrenenleri ve öğretmenleri YZ güdümlü bir geleceğe hazırlamak: üniversite öncesi YZ eğitiminin SBD’si (Caruana ve ark. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — Matematiksel modelleme problemleri üreten YZ destekli platform (ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — Parçacık fiziği eğitiminde YZ: araştırma problemleri ve temel beceriler
-
-- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - competency frameworks converge on five dimensions without a shared vocabulary or crosswalk
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
-- [[computing-assessment-genai-workshop-report-2026]] — “YZ Ödevinizi Yapabilir. Peki Şimdi Ne?” Üretken YZ çağında bilişim değerlendirmesi üzerine çevrimiçi bir atölye raporu

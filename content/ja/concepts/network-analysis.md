@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
+connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -81,29 +83,3 @@ ai_assist:
 - **「ネットワーク分析は計算的だから客観的である。」** **コーディングが基盤です**。すべてのネットワーク変種は、生データ(発話、イベント、関係)を離散的なノードへと確実にコーディングすることに依存し、自動化されたコーディングはその定義を設定した者から定義を引き継ぎます。[[visualization|可視化]]は創発的な構造のように見えますが、そのノードは解釈的な選択です。
 - **「ネットワーク構造の変化はそれ自体が自動的に学習の伸びである。」** **20名の混合分野の大学院生**による事例討議では、**サイズ3の共有語の割合が5.2%から8.0%に上がった**一方、**内容トークンは読解後の水準の約0.65倍に下がりました**。二つの構造的な指標が逆方向に動いたので、「ネットワークが変わった」は、どの指標に沿って、なぜそれが重要かを述べるまで知見にはなりません。
 - **「より多くの語を共有することは、より良い協働を意味する。」** 共有語の割合が上がりながら内容トークンの多様性が下がることは、より小さな語彙への収束と整合します。合意と狭まりは構造的に似ているため、その指標には、それが計算された内容が必要です。
-
-## 関連概念
-
-- [[learning-analytics]]
-- [[knowledge-graph]]
-- [[meta-analysis-systematic-review]]
-- [[student-modeling]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[feedback]]
-
-## 関連記事
-
-- [[caeai-response-length-ai-ethics-education-2026]] — 参加者—形態素ネットワークにおいて共有用語の統計量を駆動するのは、語彙的な整合性ではなく応答の長さである（Shao et al. 2026）
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — 足場かけされたEFL作文における学習者—チャットボット相互作用のTNA
-- [[tracing-genai-literacy-interaction-patterns]] — GenAIリテラシーの相互作用パターンのENA
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — 人間とAIの協働的問題解決のENA
-- [[misiejuk-cognitive-offloading-prompting-2026]] — 認知的オフローディングとプロンプティング（SNA／ネットワークの方法）
-- [[youtube-frames-chatgpt-education]] — 教育におけるChatGPTのYouTube上の枠組みのENA
-- [[agency-gap-ai-writing]] — AI支援作文における主体性のギャップ（ENA）
-- [[synthetic-educational-data-structural-fidelity-2026]] — 忠実性の指標が見落とすもの：合成的教育データに対する構造的チェック
-- [[dang-human-ai-collaboration-competency-2026]] — ENAは教育者の力量についての語りも写像します
