@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T07:36:15-05:00"
-updated: "2026-11-16T20:30:23-05:00"
+updated: "2026-11-21T13:30:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -18,7 +18,7 @@ ai_assist:
     date: "2026-11-12"
     agent: hermes-agent
 connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
-connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026, watson-generative-ai-meaning-mediating-infrastructure-2026]
 ---
 
 > **Institutional AI infrastructure** — the computing, serving, routing and control layer an institution operates so that models can be used across teaching, research and administration under its own rules. It spans the GPUs and clusters that hold the weights, the inference servers that answer requests, the [[llm|gateway]] that meters and routes them, the model cards and audit logs that make the arrangement inspectable, the data pipelines that connect student records to models, and the staff who keep all of it running. It is not the same object as an [[edtech-platform|edtech platform]] (the learner-facing container) or [[governance|governance]] (the policy that constrains both).
@@ -111,6 +111,8 @@ District-scale hosted platforms report the same kind of arithmetic: PSD401 AI St
 ## Sovereignty has an equity dimension
 
 A gateway can route to a local model that handles the institution's language poorly, and the resulting silence is not neutral. The infrastructure argument and the [[digital-divide|digital divide]] argument meet here: institutions with clusters and staff gain capability, and the ones without absorb whatever the vendor offers at whatever price the vendor sets. Free tiers are genuinely useful and genuinely fragile, which makes treating them as a permanent strategy a decision about which institutions get served.
+
+**Infrastructure also mediates meaning.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] treat generative AI as meaning-mediating infrastructure that reformats prompts, rubrics, feedback and genres into communicatively plausible forms, so procurement and audit must ask whose communicative styles a system recognizes, what help it normalizes, and whether expectations about pace and polish drift faster than support.
 
 ## Implications for Practice
 
