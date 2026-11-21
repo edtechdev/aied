@@ -6,7 +6,7 @@ type: article
 page_kind: [evaluation]
 research_method: [quasi-experiment, secondary analysis]
 evidence_context: educational
-discipline: [learning sciences]
+discipline: [learning sciences, reading education]
 level: [k 12, primary education]
 audience: [instructors, researchers, administrators]
 sources: ['raw/papers/burns-ai-tutor-reading-growth-2026.md']

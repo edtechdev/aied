@@ -1,6 +1,6 @@
 ---
 title: "Heterogeneity in AI attitudes, anxiety, and acceptance among psychology students and psychotherapy trainees: a domain-specific latent class analysis"
-created: "2026-11-17T06:45:00-05:00"
+created: "2026-11-17T06:03:44-05:00"
 updated: "2026-11-17T06:45:00-05:00"
 type: article
 authors: ["Armagan-Bogatekin, M."]
@@ -12,6 +12,7 @@ technology: [generative-ai, technology-acceptance-model]
 methods: [quantitative-research]
 research_method: [survey, latent profile analysis]
 level: [higher ed, graduate]
+discipline: [psychology education]
 audience: [instructors, curriculum designers]
 page_kind: [evaluation]
 evidence_context: educational
@@ -48,10 +49,10 @@ The professional-identity frame is the one to watch in clinical education specif
 
 ## What this means for practice
 
-- **Clinical educators:** segment by orientation before designing training. The four profiles need different content, not different amounts of the same content.
-- **Instructors:** separate learning anxiety from job anxiety in the messaging. The first responds to scaffolding, the second to a credible account of professional role.
-- **Curriculum designers:** teach the automated feedback tool and the recommendation tool as different objects. The domains did not merge in the data.
-- **Programmes:** treat skepticism as a position with content, and answer it with validation evidence rather than reassurance.
+- **Clinical educators.** segment by orientation before designing training. The four profiles need different content, not different amounts of the same content.
+- **Instructors.** separate learning anxiety from job anxiety in the messaging. The first responds to scaffolding, the second to a credible account of professional role.
+- **Curriculum designers.** teach the automated feedback tool and the recommendation tool as different objects. The domains did not merge in the data.
+- **Programmes.** treat skepticism as a position with content, and answer it with validation evidence rather than reassurance.
 
 ## Limitations
 

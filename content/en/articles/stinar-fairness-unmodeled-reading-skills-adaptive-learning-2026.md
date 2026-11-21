@@ -9,7 +9,7 @@ page_kind: [evaluation]
 research_method: [secondary analysis]
 audience: [researchers, educational technology developers, curriculum designers]
 level: [middle school, secondary]
-discipline: [math education]
+discipline: [math education, reading education]
 technology: [adaptive-learning, knowledge-tracing, intelligent-tutoring, student-modeling]
 methods: [quantitative-research]
 ethics: [equity-in-ai-education, bias-mitigation, differential-effects-across-learner-groups]
@@ -22,7 +22,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Stinar and colleagues analyze two years of Carnegie Learning MATHia log data from 8,549 students to ask whether Bayesian knowledge tracing (BKT) treats emerging and non-emerging readers unfairly when reading ability is left unmodeled. Emerging readers mastered skills at lower rates (.687 versus .776 in 2021–2022, difference 95% CI [0.075, 0.095]), and although the aggregate BKT model showed only small bias (statistical parity −0.077), specific skills such as "apply exponent" produced gaps of 26% in predicted mastery. An [[differential-effects-across-learner-groups|intersectional analysis]] with gender and race/ethnicity found that emerging-reader status explains differences in mastery of up to 10% within demographic groups, leading the authors to argue that [[adaptive-learning|adaptive learning systems]] should treat [[reading-education|reading]] as a skill worth [[student-modeling|modeling]] for both [[equity-in-ai-education|fairness]] and [[knowledge-tracing|accuracy]].
+> **Synthesis:** Stinar and colleagues analyze two years of Carnegie Learning MATHia log data from 8,549 students to ask whether Bayesian knowledge tracing (BKT) treats emerging and non-emerging readers unfairly when reading ability is left unmodeled. Emerging readers mastered skills at lower rates (.687 versus .776 in 2021–2022, a gap of about nine points), and although the aggregate BKT model showed only small bias (statistical parity −0.077), specific skills such as "apply exponent" produced gaps of 26% in predicted mastery. An [[differential-effects-across-learner-groups|intersectional analysis]] with gender and race/ethnicity found that emerging-reader status explains differences in mastery of up to 10% within demographic groups, leading the authors to argue that [[adaptive-learning|adaptive learning systems]] should treat [[reading-education|reading]] as a skill worth [[student-modeling|modeling]] for both [[equity-in-ai-education|fairness]] and [[knowledge-tracing|accuracy]].
 
 ## Key Findings
 
@@ -53,10 +53,10 @@ Race/ethnicity results shift between years. In 2021–2022 the emerging-reader g
 
 ## What this means for practice
 
-- **Audit fairness at the skill level, not just the system level.** Aggregate statistical parity of −0.077 hid skills like "apply exponent" with parity of −0.262 and a 26% gap in predicted mastery; 36 of 50 skills were biased against emerging readers even though the overall model looked near-fair. Fairness dashboards should report per-knowledge-component metrics alongside aggregate ones.
+- **Audit fairness at the skill level.** Aggregate statistical parity of −0.077 hid skills like "apply exponent" with parity of −0.262 and a 26% gap in predicted mastery; 36 of 50 skills were biased against emerging readers even though the overall model looked near-fair. Fairness dashboards should report per-knowledge-component metrics alongside aggregate ones.
 - **Consider modeling reading as its own skill.** The authors propose adding one or more reading skills to BKT models for steps that demand high reading comprehension, or weighting the slipping parameter by estimated emerging-reader probability, so reading ability is estimated alongside math knowledge instead of being conflated with it.
 - **Expect a fairness trade-off, not a single fix.** Because base rates differ (.687 versus .776 in 2021–2022), raising predicted mastery for emerging readers improves parity but worsens calibration; designers must choose between equally predicted rates and equally correct predictions, and weigh options such as different mastery thresholds per skill.
-- **Reading status is estimable from first interactions.** The validated estimator uses only introductory-workspace behavior — first-attempt correctness, attempts, feedback prompts and hints — so fairness grouping is feasible at scale (MATHia serves over 500,000 students) without test scores or demographic records, though the label should not be treated as an English-learner or disability diagnosis.
+- **Estimate reading status early.** The validated estimator uses only introductory-workspace behavior — first-attempt correctness, attempts, feedback prompts and hints — so fairness grouping is feasible at scale (MATHia serves over 500,000 students) without test scores or demographic records, though the label should not be treated as an English-learner or disability diagnosis.
 
 ## Limitations
 
