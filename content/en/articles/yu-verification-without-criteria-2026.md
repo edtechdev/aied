@@ -56,9 +56,9 @@ The comparisons between scaffolding conditions are best read as differences in *
 ## What this means for practice
 
 - **Set the criteria before the first query.** Course policies and assignment guidelines can require learners to state their claims, task decomposition and evaluation criteria before consulting a generative system — shifting attention from restricting AI use to specifying what must be established first.
-- **Treat verification instructions as insufficient on their own.** Telling students to check output addresses compliance, not the standard the check runs against; a rubric line reading "checked sources" measures none of it.
+- **Instructors.** Treat verification instructions as insufficient on their own. Telling students to check output addresses compliance, not the standard the check runs against; a rubric line reading "checked sources" measures none of it.
 - **Prefer checkable artifacts over reminders.** A self-monitoring checklist or a written expectation produced before the output appears supplies the standard that a prompt to verify does not.
-- **Place friction before the task, not only inside it.** Instructor mediation established in advance of the interaction is the design most consistently associated with planning-oriented regulation in this corpus.
+- **Instructors.** Place friction before the task, not only inside it. Instructor mediation established in advance of the interaction is the design most consistently associated with planning-oriented regulation in this corpus.
 - **Design for withdrawal.** Because no study removed its scaffolds, durable judgment is untested; staged withdrawal is the design that would show whether verification retains a standard.
 
 ## Limitations

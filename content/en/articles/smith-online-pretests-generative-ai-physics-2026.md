@@ -56,7 +56,7 @@ The authors are careful about what the data can show. Students were told the pre
 
 - **Match administration to purpose.** If a pretest or inventory is used for research baselines or curriculum evaluation, administer it in person on paper with appropriate proctoring; if it is used purely to prime students for a tutorial or prompt self-reflection, online administration remains defensible.
 - **Do not treat gains as instruction.** A 15% shift between online pre- and post-tests should not be read as a meaningful instructional effect without checking whether the pretest was taken unproctored.
-- **Treat unproctored online pretests as engagement instruments, not measurements.** Their value lies in the thinking they provoke, not in the accuracy of the data they return.
+- **Instructors.** Treat unproctored online pretests as engagement instruments, not measurements. Their value lies in the thinking they provoke, not in the accuracy of the data they return.
 - **Expect the pattern to worsen.** The authors note that AI capability and student adoption both increased over the study period, and that questions the tools initially answered incorrectly later became correct — so the instrument will keep drifting.
 - **Do not rely on instructions alone.** Telling students not to use AI on a low-stakes online assessment is unlikely to work, and browser-based proctoring is disproportionate and circumventable with a second device.
 
