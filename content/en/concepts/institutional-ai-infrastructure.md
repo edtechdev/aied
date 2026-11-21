@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T07:36:15-05:00"
-updated: "2026-11-21T13:30:00-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -17,7 +17,7 @@ ai_assist:
     role: drafting
     date: "2026-11-12"
     agent: hermes-agent
-connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai, critiques-of-ai-in-education]
 connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026, watson-generative-ai-meaning-mediating-infrastructure-2026]
 ---
 
@@ -34,7 +34,7 @@ connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, ro
 
 ## Introduction
 
-Institutions spent the first years of [[generative-ai|generative AI]] buying access: a [[conversational-ai|chatbot]] license here, a writing assistant there, each with its own terms and its own data path. The result is a portfolio nobody can describe in one sentence, and a set of questions (where did that prompt go, who approved this model, what did we spend) that no single office can answer.
+Institutions spent the first years of [[generative-ai|generative AI]] buying access: a [[conversational-ai|chatbot]] license here, a writing assistant there, each with its own terms and its own data path. The result is a portfolio nobody can describe in one sentence, and a set of questions (where did that prompt go, who approved this model, what did we spend) that no single office can answer. The argument that this layer mediates meaning rather than merely delivering tools is developed under [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
 Treating AI as infrastructure is the response. It means a shared serving layer, a gateway that applies the institution's rules to every request, and enough telemetry to see cost, load and failure. The claim in the literature is not that this is cheaper. It is that it makes the institution the party that decides, which is a different kind of claim and a harder one to test.
 

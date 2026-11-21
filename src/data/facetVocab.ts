@@ -15,7 +15,7 @@
 
 export const FACET_VOCAB = {
 
-  // Foundations of AI in education (27 concepts) — registry section: Foundations of AI in education
+  // Foundations of AI in education (28 concepts) — registry section: Foundations of AI in education
   foundations: [
     'academic-integrity',
     'agency',
@@ -26,6 +26,7 @@ export const FACET_VOCAB = {
     'cognitive-surrender',
     'computational-thinking',
     'critical-thinking',
+    'critiques-of-ai-in-education',
     'curriculum-design',
     'design-thinking',
     'educational-development',

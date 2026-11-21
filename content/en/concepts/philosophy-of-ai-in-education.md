@@ -1,14 +1,14 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-21T13:30:00-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 reviewed_by: [editor]
-connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
@@ -25,7 +25,7 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Introduction
 
-This is a concept page for the philosophical and theoretical foundations of [[ai-education|AI in education]]. While [[learning-theories|learning theories]] documents the empirical and design-oriented theories ([[behaviorism|behaviorism]], [[constructivist|constructivism]], [[cognitive-offloading|cognitive load]], [[self-regulated-learning|self-regulated learning]], etc.), the philosophy strand engages the ontological, epistemological, and ethical questions those theories presuppose. The two are closely connected: philosophical positions shape which learning theories seem plausible and which educational goals are worth pursuing.
+This is a concept page for the philosophical and theoretical foundations of [[ai-education|AI in education]]. While [[learning-theories|learning theories]] documents the empirical and design-oriented theories ([[behaviorism|behaviorism]], [[constructivist|constructivism]], [[cognitive-offloading|cognitive load]], [[self-regulated-learning|self-regulated learning]], etc.), the philosophy strand engages the ontological, epistemological, and ethical questions those theories presuppose. The two are closely connected: philosophical positions shape which learning theories seem plausible and which educational goals are worth pursuing. The normative strand of that work, arguments about what AI in education is turning education into, is collected under [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
 ## Key philosophical questions
 

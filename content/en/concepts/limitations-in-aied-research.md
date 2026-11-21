@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-21T05:22:19-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -14,7 +14,7 @@ connected_podcasts: [clapping-for-the-car]
 connected_videos: [reality-of-ai-in-ed-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
-connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
@@ -31,7 +31,7 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 
 ## Introduction
 
-AI in education is a fast-moving, heterogeneous field, and its evidence base carries a distinctive set of limitations that researchers, practitioners, and policy-makers should weigh when using any finding. Some of these are shared with the broader [[learning-sciences|learning sciences]] and psychology literature; others are amplified or made unique by the nature of AI itself. They fall into four cross-cutting areas.
+AI in education is a fast-moving, heterogeneous field, and its evidence base carries a distinctive set of limitations that researchers, practitioners, and policy-makers should weigh when using any finding. Some of these are shared with the broader [[learning-sciences|learning sciences]] and psychology literature; others are amplified or made unique by the nature of AI itself. They fall into four cross-cutting areas. These are problems in the evidence; a separate body of argument about the purposes the evidence serves is gathered under [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
 ## Methodological limitations
 

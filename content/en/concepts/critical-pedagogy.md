@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
-connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy, critiques-of-ai-in-education]
 connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
@@ -51,6 +51,7 @@ Critical pedagogy is distinct from [[critical-thinking|critical thinking]]. Crit
 
 - **Human rights education as the test case for AI governance as formation.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] works through the UN's *about, through, for* framework in a law program and locates the difficulty not in the technology but in the pedagogy: students submitted polished written work and polished session designs without the engagement those artifacts are supposed to evidence, and the most critical thinking appeared in end-of-course writing rather than in class dialogue. Her conclusion shifts the educator's role rather than shrinking it — [[governance|AI governance]] becomes a professional responsibility students are trained to contest, and the [[llm|tool]] is directed rather than banned.
 
+- **Critique as a body of work.** The questions above, turned on AI itself rather than on the curriculum, are gathered under [[critiques-of-ai-in-education|Critiques of AI in Education]].
 ## Assessment as a site of critique
 
 Critical pedagogy enters assessment through the question of whose interests a redesign serves. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] builds that case by joining the Theory of Practice Architectures to critical pedagogy, so that an assessment reform has to move three things at once: the cultural-discursive language that makes some practices thinkable, the material-economic arrangements of tools and resources, and the social-political distribution of power. The framework's warning is specific. When resources flow through existing power structures without explicit equity attention, a well-intentioned redesign amplifies the inequities it was meant to address, which makes the resource-power intersection both the largest leverage point and the largest risk. Her four-phase matrix runs critical analysis, intervention design, equity-focused implementation and evaluation, and she treats incremental change and productive tension as legitimate outcomes rather than as failure to transform quickly.

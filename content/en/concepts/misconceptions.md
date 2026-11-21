@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-18T16:55:00-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -13,7 +13,7 @@ connected_faqs: [addressing-common-misconceptions-ai-education]
 connected_podcasts: [confident-and-wrong-misconceptions]
 connected_videos: [ai-myths-in-education]
 reviewed_by: [editor]
-connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
@@ -30,7 +30,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Introduction
 
-Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors documented under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity|academic integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, [[assessment|assessment]], and policy.
+Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors documented under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity|academic integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, [[assessment|assessment]], and policy. A separate body of work questions the framing that produces those misconceptions in the first place; see [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
 ## What AI misconceptions are
 

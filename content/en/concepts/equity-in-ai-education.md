@@ -2,7 +2,7 @@
 
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-21T13:30:00-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 reviewed_by: [editor]
-connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success]
+connected_concepts: [differential-effects-across-learner-groups, learners, digital-divide, bias-mitigation, accessibility, assistive-technology, culturally-relevant-pedagogy, language-learning, inclusive-learning, universal-design-for-learning, neurodiversity, special-education, ai-literacy, educational-policy-ai, governance, agency, stakeholders, parents-and-families, student-support-and-success, critiques-of-ai-in-education]
 connected_articles: [abikhair-explainable-ai-educational-inequality-2026, access-not-enough-ai-tutoring-2026, ada-female-coded-chatbot-gender-stereotypes-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-lifelong-learning-policy, ai-literacies-young-adults-2025, ai-refusal-higher-education-diagnostic-non-use-2026, ai-scoring-language-bias-physics, alam-goblins-math-platform-2026, all-girls-genai-makerspace-gender-equity-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, aybar-bellido-genai-individualization-sustainable-higher-ed-2026, brunnstrom-ai-interaction-literacy-srl-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, computing-assessment-genai-workshop-report-2026, culturally-aware-student-stress-chatbot-2026, demographic-signals-llm-student-assessment-2026, dyslexlens-dyslexic-learners-ai, genai-higher-education-systematic-review-2026, genai-linguistic-diversity-academic-writing, genai-minoritized-knowledges-disability, genai-social-bias-software-engineering-education-2026, gender-bias-transfer-llm-writing, generative-ai-education-productivity-gaps, ground-truth-reliability-aied, gurung-hybrid-human-ai-tutoring-2026, gyekye-selves-apprenticeship-2026, intelligent-tutoring-mathematics-education-review-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, khlaif-assistive-genai-visually-impaired-2026, kumar-genai-computing-education-systematic-review-2026, li-genai-assessment-language-equity-2026, li-who-benefits-llms-prompt-engineering-equity-2026, lopez-pernas-llm-appropriate-student-support-2026, marked-pedagogies-linguistic-bias-writing-feedback, mcdonald-inclusive-assessment-genai-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, opraise-automated-marking-ai-assessment-2026, paternalistic-filter-llm-history-education, prompt-privilege-equitable-ai-access-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, rented-self-decoupling-performance-becoming-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, structural-silence-underrepresented-language-ai-2026, student-attention-estimation-fairness-2026, studentbench-ai-human-tutoring-gre-2026, verified-study-materials-learning-gains-2026, watson-rainie-ai-challenge-faculty-survey-2026, watson-generative-ai-meaning-mediating-infrastructure-2026]
 ---
 
@@ -28,7 +28,7 @@ connected_articles: [abikhair-explainable-ai-educational-inequality-2026, access
 
 ## Introduction
 
-Equity in [[ai-education|AI education]] addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility|accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
+Equity in [[ai-education|AI education]] addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility|accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]]. The normative arguments behind those concerns are gathered under [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
 ## Access and infrastructure equity
 

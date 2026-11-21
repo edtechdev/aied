@@ -1,7 +1,7 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-21T13:30:00-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 reviewed_by: [editor]
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
 connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 > **Sustainability** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
@@ -55,7 +55,7 @@ The second pathway concerns AI's own footprint in educational settings:
 
 ## Sustainable learning as a pedagogical goal
 
-A related strand frames sustainability not only as an environmental or institutional concern but as a property of learning itself. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argue AI-assisted learning risks cognitive outsourcing and detachment from authentic contexts, proposing frameworks (E3-HOT) for **sustainable learning** — learning that persists, transfers, and remains connected to real problems rather than being short-circuited by [[cognitive-offloading|cognitive offloading]]. This connects sustainability to [[agency|agency]] and [[critical-thinking|critical thinking]].
+A related strand frames sustainability not only as an environmental or institutional concern but as a property of learning itself. The wider argument that this reframing serves particular interests is gathered under [[critiques-of-ai-in-education|Critiques of AI in Education]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argue AI-assisted learning risks cognitive outsourcing and detachment from authentic contexts, proposing frameworks (E3-HOT) for **sustainable learning** — learning that persists, transfers, and remains connected to real problems rather than being short-circuited by [[cognitive-offloading|cognitive offloading]]. This connects sustainability to [[agency|agency]] and [[critical-thinking|critical thinking]].
 
 - **A gatekeeping account.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] defines pedagogical sustainability as durable learning value produced under economic, social, environmental and institutional conditions that can be maintained, then makes that value a non-compensable gate rather than one pillar among five.
 

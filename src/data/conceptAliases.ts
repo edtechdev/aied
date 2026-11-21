@@ -64,6 +64,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'creativity': ['creative', 'creative skills', 'creative thinking', 'creativity', 'divergent thinking'],
   'critical-pedagogy': ['critical education', 'critical educational theory', 'critical pedagogy', 'critical theory'],
   'critical-thinking': ['analytical thinking', 'critical analysis', 'critical evaluation', 'critical reasoning', 'critical thinking', 'higher order thinking', 'higher-order thinking', 'reasoning'],
+  'critiques-of-ai-in-education': ['critical reviews of ai in education', 'critical review of ai in education', 'critical reviews of aied', 'critiques of aied', 'criticism of ai in education', 'resisting ai'],
   'cs-education': ['block coding', 'block programming', 'block-based programming', 'coding education', 'computer science', 'computer science education', 'computing education', 'CS education', 'CS1', 'introductory programming', 'programming', 'programming education', 'Scratch', 'visual programming'],
   'culturally-relevant-pedagogy': ['culturally relevant', 'culturally relevant pedagogy', 'culturally responsive', 'culturally responsive pedagogy', 'culturally responsive teaching', 'culturally sustaining', 'culturally sustaining pedagogy'],
   'curriculum-design': ['curricular', 'curriculum', 'curriculum alignment', 'curriculum design', 'curriculum development'],

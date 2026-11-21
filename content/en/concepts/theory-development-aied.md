@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-21T15:40:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 reviewed_by: [editor]
-connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
@@ -86,7 +86,7 @@ The field's theorizing is uneven. [[limitations-in-aied-research|Limitations in 
 ## Relationship to the philosophy of AI in education
 
 Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in education]] are complementary but distinct strands of foundational work. **Theory development** produces and empirically tests the *mechanisms* of learning-with-AI — named theories and frameworks such as generativism, epistemic co-agency, and the absent cognitive baseline that explain and predict how learners and AI interact. **Philosophy** interrogates the *presuppositions* those mechanisms rest on: what counts as knowledge, who counts as a knower, and what the learner fundamentally is. A theory like [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] proposes a mechanism while implicitly adopting philosophical commitments about distributed cognition and [[agency|agency]]; philosophy makes those commitments explicit and contestable. Where theory development asks whether a framework explains learning well, philosophy asks whether it captures what learning and mind really are — the two strands meet in the field's most foundational articles, which often do both at once.
-
+ What the field's critics say about the directions those theories open or close is a separate question, gathered under [[critiques-of-ai-in-education|Critiques of AI in Education]].
 ## Implications for Practice
 
 **For instructors and instructional designers**
