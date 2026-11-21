@@ -1,7 +1,7 @@
 ---
 title: "How Do I Teach Students to Verify AI Output?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-21T02:02:25-05:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -16,6 +16,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: revision
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 
@@ -44,6 +48,8 @@ Verification is a sequence you can build into an assignment. Decide what counts 
 The same review draws a second line, between [[trust|trust]] and reliance. [[trust-calibration|Reliance calibration]] asks whether a reliance decision was appropriate given the actual quality of the output, which ties the judgment to one decision and one output. One audited study found that false [[generative-ai|ChatGPT]] information shifted participants' reported trust and never recorded whether they later accepted or rejected a specific recommendation. Another logged accept and reject decisions on ChatGPT [[feedback|feedback]] for 78 translation students, but with no independent expert evaluation an acceptance cannot be called appropriate and a rejection cannot be called justified. Without ground truth about output quality, reliance cannot be classified at all.
 
 That is the design consequence, and it is the first thing to fix. Before you set a verification task, write two short descriptions: what a correct output looks like for this task, and what a plausible but wrong output looks like. One of each is enough. Students then have a standard to check against, and you have something to mark the check against other than whether the student sounds careful.
+
+The research literature has not caught up with that advice. A systematic review of 65 empirical studies (2022–2026) found that none taught learners the criteria for judging AI output, and that feedback literacy scaffolds appeared in none of them — the designs prompted pauses and explanations while presupposing a standard they never supplied ([[yu-verification-without-criteria-2026|Yu et al. (2026)]]).
 
 ## Have them commit before the tool answers
 
