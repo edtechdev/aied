@@ -227,6 +227,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`adult-learning`** — Adult Learners — phrases: adult education; adult learner; adult learners; adult learning; andragogy; continuing education; lifelong learner; mature students
 - **`early-childhood-elementary-ai-education`** — Early Childhood Education — phrases: AI toys; child development; early childhood; kindergarten; young children
+- **`education-levels`** — Levels of Education — phrases: levels of education; education levels; level of education; schooling bands
 - **`graduate-education`** — Graduate Education — phrases: doctoral; doctoral students; graduate; graduate education; graduate school; graduates; master's; phd; postgraduate; postgraduate education
 - **`higher-ed`** — Higher Education — phrases: college; college students; higher education; higher-ed; post-secondary; postsecondary; tertiary; universities; university
 - **`k-12`** — K-12 — phrases: K-12 education; k-12; school; schools
@@ -238,7 +239,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Bands and comparisons
 
-- **`education-levels`** — Levels of Education — phrases: levels of education; education levels; level of education; schooling bands
 
 ## Assessment and measurement
 

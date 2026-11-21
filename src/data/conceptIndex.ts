@@ -20,7 +20,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'The umbrella view of the field itself: what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human-AI collaboration, agency) that shape every other strand.',
     groups: [
       { label: 'Essentials', items: ['ai-education', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'cognitive-surrender', 'misconceptions', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'teacher-ai-competency', 'learning-design', 'educational-development'] },
-      { label: 'The field', items: ['critiques-of-ai-in-education', 'history-of-aied', 'interpreting-and-applying-aied-research', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theories-and-frameworks', 'theory-development-aied'] },
+      { label: 'The field', items: ['history-of-aied', 'interpreting-and-applying-aied-research', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theories-and-frameworks', 'theory-development-aied', 'critiques-of-ai-in-education'] },
       { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'critical-thinking', 'information-and-media-literacy', 'computational-thinking'] },
     ],
   },
@@ -58,8 +58,8 @@ export const conceptIndex: ConceptSection[] = [
   {
     heading: 'Levels and contexts',
     groups: [
-      { label: 'Levels and settings', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education', 'primary-education', 'secondary-education', 'undergraduate-education', 'graduate-education'] },
-      { label: 'Bands and comparisons', items: ['education-levels'] },
+      { label: 'Levels and settings', items: ['education-levels', 'k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education', 'primary-education', 'secondary-education', 'undergraduate-education', 'graduate-education'] },
+      { label: 'Bands and comparisons', items: [] },
     ],
   },
   {

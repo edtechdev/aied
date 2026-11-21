@@ -2400,13 +2400,13 @@ sections:
     - educational-development
   - label: The field
     items:
-    - critiques-of-ai-in-education
     - history-of-aied
     - interpreting-and-applying-aied-research
     - limitations-in-aied-research
     - philosophy-of-ai-in-education
     - theories-and-frameworks
     - theory-development-aied
+    - critiques-of-ai-in-education
   - label: Cross-cutting themes
     items:
     - human-ai-collaboration
@@ -2590,6 +2590,7 @@ sections:
   groups:
   - label: Levels and settings
     items:
+    - education-levels
     - k-12
     - early-childhood-elementary-ai-education
     - higher-ed
@@ -2601,8 +2602,7 @@ sections:
     - undergraduate-education
     - graduate-education
   - label: Bands and comparisons
-    items:
-    - education-levels
+    items: []
 
 - heading: Assessment and measurement
   blurb: How AI both assesses learners and reshapes how we evaluate AI systems and their impact.
