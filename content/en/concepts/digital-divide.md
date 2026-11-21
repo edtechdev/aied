@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-21T10:00:49-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 connected_resources: [public-ai-libraries]
 type: concept
@@ -10,7 +10,7 @@ ethics: [accessibility, equity-in-ai-education]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 > **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) [[ai-technologies|technologies]] across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: [[generative-ai|generative AI]] is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.
@@ -42,6 +42,8 @@ The edge-inference turn adds a hardware dimension to the first-level divide. Whe
 
 - **Code-switching is its own exclusion.** Most [[llm|LLM]] lecture tools assume single-language English audio and reliable internet, ruling out classrooms mixing English and a home language; India's UDISE+ data put school internet access near 54% with a 24-point urban-rural gap, and a bilingual companion answers with on-device transcription and local-first storage ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 - **Public digital services reproduce the divide.** Kenya's eCitizen e-government platform is mainly English with limited Swahili and a text-only interface, which excludes low-literacy, visually impaired, and rural youth; interviews plus an eleven-person roundtable across four livelihood platforms (Ajira Digital, KRA iTax, HELB, YEDF) point to language technologies and WCAG 2.1-informed design as the inclusion levers ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
+
+- **Disaggregate use, not just access.** [[raut-ai-rural-education-india-2026|Raut's integrative review]] reports that among rural Indian adolescents aged 14–16, 85.5% of boys and 79.4% of girls said they could use a smartphone, so household availability understates a gender gap in practical use.
 
 ## AI deepens (and can close) divides
 
