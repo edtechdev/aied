@@ -78,30 +78,3 @@ A parallel line measures the design question directly. A Bloom-aligned framework
 **"AI can now classify cognitive level reliably."** In-distribution classifier performance does not survive a change of item source, and AI–faculty agreement on real question banks is moderate at best (κ = 0.57 in the strongest case).
 
 **"Generative AI makes Bloom's Taxonomy obsolete."** It makes one *use* of it — reading the product as proof of the process — untenable. As a shared vocabulary for intended demand, and as an object to be validated, it is still the field's common reference point.
-
-## Connected Concepts
-
-- [[learning-theories|Learning theories]] — the umbrella the taxonomy sits under.
-- [[critical-thinking|Critical thinking]] and [[metacognition|metacognition]] — the higher-order operations the upper levels name.
-- [[icap-framework|ICAP]] and [[tpack|TPACK]] — sibling frameworks that order engagement and teacher knowledge.
-- [[mastery-learning|Mastery learning]] and [[scaffolding|scaffolding]] — the lower-rung fluency the ladder is often accused of delaying.
-- [[automated-question-generation|Automated question generation]] and [[automated-assessment|automated assessment]] — where Bloom coding is applied at scale.
-- [[educational-measurement|Educational measurement]] and [[assessment-validity|assessment validity]] — what a level label is validated against.
-- [[formative-assessment|Formative assessment]] — the intended-demand use of the levels.
-- [[generative-ai|Generative AI]], [[llm|LLMs]] and [[machine-learning|machine learning]] — the systems that both produce and classify leveled output.
-- [[cognitive-offloading|Cognitive offloading]] — coding what learners delegate, by level.
-- [[higher-ed|Higher education]] and [[k-12|K-12]] — the settings where leveled banks and frameworks are most used.
-- [[curriculum-design|Curriculum design]] — sequencing demand across a program.
-
-## Connected Articles
-
-- [[austin-bloom-taxonomy-generative-ai-2026|Austin, Gulya & Kassorla (2026)]] — the product-to-proof argument, Inverted Bloom's and UnBlooms.
-- [[bloom-classifier-ai-assisted-questions-2026|Castanares et al. (2026)]] — classifier collapse on AI-generated items.
-- [[bloom-taxonomy-llm-item-classification-2026|Altaweel & Moussa (2026)]] — intended level explains almost none of item difficulty.
-- [[cross-dataset-bloom-question-classification|Cross-dataset Bloom classification (2026)]] — supervised models degrade; prompted LLMs hold.
-- [[bloom-aligned-educational-control-llms|Bloom-aligned educational control (2026)]] — measuring whether assistance scaffolds or shortcuts.
-- [[llm-educational-question-cognitive-depth|Wang et al. (2026)]] — six models, strong recall questions, weak higher-order ones.
-- [[stewart-tag-question-categorization-competency-2026|Stewart et al. (2026)]] — AI–faculty agreement across four frameworks.
-- [[luo-ibl-patterns-llm-bloom-2026|Luo et al. (2026)]] — fourteen interaction patterns across levels.
-- [[student-llm-use-ai-question-difficulty-data-science-2026|Student LLM use and question difficulty (2026)]] — perceived versus empirical difficulty.
-- [[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia et al. (2026)]] — coding delegated cognitive work.
