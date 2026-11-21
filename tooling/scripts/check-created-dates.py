@@ -86,7 +86,14 @@ def main(argv):
         except ValueError:
             problems.append((rel, f"created is not an ISO timestamp: {stamps['created']}"))
             continue
-        added_at = added.get(rel)
+        # Newsletters are dated by issue, not by when the file was committed: the
+        # issue goes out on its date and the file is often written the evening
+        # before. Every issue carries an issue-date stamp, so the add-commit rule
+        # does not apply to them.
+        if re.search(r"^type:\s*newsletter\s*$", fm, re.M):
+            added_at = None
+        else:
+            added_at = added.get(rel)
         if added_at:
             try:
                 added_dt = datetime.fromisoformat(added_at)
