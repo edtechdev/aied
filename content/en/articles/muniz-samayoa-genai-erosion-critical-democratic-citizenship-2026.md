@@ -8,7 +8,7 @@ sources: ['raw/papers/muniz-samayoa-genai-erosion-critical-democratic-citizenshi
 confidence: high
 page_kind: [commentary]
 research_method: [position paper]
-discipline: []
+discipline: [civic and political education]
 level: [k 12, higher ed]
 audience: [instructors, administrators, policymakers, researchers]
 pedagogy: [scaffolding]
@@ -53,11 +53,11 @@ A fourth story sits underneath: the capacities Aoun calls robot-proof — critic
 
 ## What this means for practice
 
-- **Introduce the tool after the skill, not before it.** The calculator and the reference manager are the authors' own analogies; use them as a design rule when deciding at what point in a course a model enters.
+- **Introduce the tool after the skill.** The calculator and the reference manager are the authors' own analogies; use them as a design rule when deciding at what point in a course a model enters.
 - **Protect friction deliberately.** If an assignment's value lies in the reading, the draft, or the struggle with an ambiguous problem, say so and design the sequence so the model cannot stand in for that step.
 - **Teach the mechanism, not just the policy.** Students should be able to explain how [[llm|large language models]] generate text, why they are prone to error, and what it means that they are "probabilistic mimics" rather than retrieval systems.
 - **Have students probe the tool as researchers.** The Design Justice Labs recommendation the essay cites — assessing models' strengths, weaknesses, and limitations through experiments of their own design — turns a use policy into a lesson.
-- **Assess process artifacts alongside products, and treat mandatory adoption as a policy choice with costs.** The [[process-oriented-assessment|process-oriented assessment]] literature in this knowledge base carries the same argument from the measurement side; this essay supplies the civic rationale for it. When institutions instead require teachers to use these tools, they remove the latitude to weigh climate and labor concerns, and they foreclose the sequencing judgment the authors argue for.
+- **Assess process, not just product.** The [[process-oriented-assessment|process-oriented assessment]] literature in this knowledge base carries the same argument from the measurement side; this essay supplies the civic rationale for it. When institutions instead require teachers to use these tools, they remove the latitude to weigh climate and labor concerns, and they foreclose the sequencing judgment the authors argue for.
 
 ## Limitations
 

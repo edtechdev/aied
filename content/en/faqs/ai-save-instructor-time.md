@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Save Me Time as an Instructor?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-21T11:03:45-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -42,6 +42,8 @@ A second dataset in the same work, more than 104,000 messages from over 15,000 e
 
 That is reallocation rather than reduction: what you gain from [[generative-ai|generative AI]] is the difference between a blank page and a draft specific enough to argue with.
 
+Two teacher-choices trials put the same finding on a clock. Across 68 English secondary schools, lesson-preparation time for Year 7 and 8 science fell from 81.5 to 56.2 minutes a week, a saving of 25.3 minutes, with no detected loss of quality ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). The dose was small and shrank: the tool covered 39% of nominated lessons in the first five weeks and 29% in the second. An Aila trial in primary schools found planning time of 2.51 hours a week against 3.32, a fifth less, on a tool that reached 7% of lessons and declined across the term ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
+
 ## Match the task to what the tool does well
 
 Quality is uneven in a pattern stable enough to plan around. Blind reviewers preferred AI versions of lesson conclusions and exit tickets 59.7% of the time over materials designed by professionals, and preferred AI material for high school content 59.2% of the time. The saving also grows where your confidence is lowest: teaching outside your own subject is the case with the widest gap between what the tool hands you and what you would have written alone.
@@ -49,6 +51,8 @@ Quality is uneven in a pattern stable enough to plan around. Blind reviewers pre
 Two categories run the other way. On elementary-level material, humans were preferred about 65% of the time for developmental appropriateness. Targeted [[scaffolding|scaffolds]] for [[multilingual-learning|multilingual]] [[learners|learners and students]] in [[special-education|special education]] came back neutral rather than wrong, which is worse than it sounds, since a neutral scaffold is one you rebuild from the start.
 
 The test that predicts this before you spend an evening on it: can you state the specification precisely enough to check the output? An exit ticket on one objective, yes. Whether a paragraph suits a particular nine-year-old who reads two years behind her class, no.
+
+Training is the case that separates the two effects cleanly. In a three-arm trial, ChatGPT access cut preparation time by 34%, and prior training cut it a further 21%, while the extra training produced no additional gain in blinded quality ratings ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Faster and better came apart: the trained strategy was quicker without being better.
 
 ## Give the recovered hour a destination
 
