@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-21T08:52:26-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 > **Hallucination Risk** — the danger that AI systems generate plausible but factually incorrect or fabricated content in educational contexts, where such errors can mislead [[learners|learners]], undermine [[trust|trust]], and produce invalid assessments. Hallucination is particularly consequential in education because students may lack the domain knowledge to detect AI errors, and teachers may rely on AI-generated diagnoses or feedback that appears authoritative but is unfounded.
@@ -55,6 +55,8 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 **Labeled unreliability lowered reported dependence rather than raising it.** When 546 participants read the same GAI dialogue labeled either as containing fabricated information or as verified accurate, the fabricated label produced lower [[trust|trust]] and perceived controllability and higher cognitive dissonance and frustration alongside *lower* dependence scores (M = 2.935 vs. 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). The result qualifies the over-reliance logic: seeing that an output may be fabricated is not the same as continuing to lean on it.
 
 **Credibility cues can amplify deference instead.** The opposite movement appears when an unreliable output is dressed up: adding citations and credibility signals to the ARMADA debate interface raised the fraction of participants switching away from a correct initial judgment to an incorrect AI position by 112% (31.8% vs. 15.0%), and manual checking found some cited cases misattributed to irrelevant or fictitious references ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+A distinct failure mode is the ill-posed problem. In [[bauyrzhan-genai-inorganic-chemistry-verification-2026|an exploratory benchmark of three chatbots on 42 inorganic chemistry problems]], every chatbot answered defective statements confidently, without flagging the defect, asking for clarification or refusing, and uncertainty markers never reached the conclusion. The failure is not a wrong answer but a false premise accepted in silence.
 
 ## Common Misconceptions
 

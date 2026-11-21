@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-21T09:01:46-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -10,7 +10,7 @@ level: [special education, higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 > **Neurodiversity** — the framing that neurological differences such as autism, ADHD, dyslexia, and dyspraxia are natural variations in [[cognitive-psychology|human cognition]] rather than deficits to be corrected. In education, a neurodiversity-affirming approach designs learning environments that accommodate and leverage these differences rather than forcing conformity to a single cognitive norm.
@@ -69,6 +69,8 @@ The risk side has its own literature. [[seung-basham-cognitive-offloading-swld-2
 - **Samples are small.** Twenty-four students and four interviews in the computing study; 17 and 10 in the ADHD video study; 72 studies in the dyslexia review with the strands still uncoupled.
 - **Category boundaries differ across studies,** so cross-study comparison of "the same" neurotype is limited — and the between-category differences in the meta-analysis are reported as non-significant.
 - **The field's own reviewers describe it as technology-driven,** which means the intervention evidence is thin exactly where the design guidance is strongest.
+
+- **A comparator study now exists for generative AI use.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] surveyed 477 Japanese university and graduate students with and without neurodevelopmental disorders and found no significant difference between the groups on weekly use, self-rated skills, perceived benefits or support needs. Only voice and image interactions edged higher in the DD group, so the single-group gap above now has one direct comparator.
 
 ## Connections
 

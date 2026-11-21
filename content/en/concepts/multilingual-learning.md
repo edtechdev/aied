@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-17T09:26:00-05:00"
+updated: "2026-11-21T08:52:26-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -10,7 +10,7 @@ discipline: [language learning]
 confidence: medium
 reviewed_by: [editor]
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 > Multilingual learning in AI education concerns how educational [[ai-technologies|technologies]] and LLM-based systems support learners across languages, dialects, and low-resource linguistic contexts — and the risks of linguistic exclusion when AI systems are built primarily for dominant languages.
@@ -60,6 +60,8 @@ LLM-based comparative judgment is a case where bias tracked the human baseline r
 - **Reflect culture and context, not just translation.** Multilingual AI must go beyond translation to [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generate content that is linguistically and contextually appropriate ([[llm-cultural-relevance-k12|K-12 cultural relevance]]).
 - **Pair AI with multilingual support structures.** Use voice-first and oral modes ([[kutti-ai-voice-first-learning-companion|voice-first companions]]) where text-based AI fails, and support [[self-regulated-learning|self-regulation]] in bilingual contexts ([[bilingual-llm-lecture-companion-srl-2026|bilingual lecture companion]]).
 - **Watch the digital divide.** Monolingual bias in AI deepens the [[digital-divide|digital divide]] and undermines access across the [[global-south]] — plan for equitable infrastructure and access alongside tool choice.
+
+- **The adaptive labor falls on the teacher.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] found that university teachers of languages other than English adapt prompts, correct the model's language, re-contextualize content culturally and switch tools as a matter of course. The work is imposed by linguistic hierarchy rather than by weak digital competence, and it is invisible in adoption statistics that count only whether the tool was used.
 
 ## Common Misconceptions
 
