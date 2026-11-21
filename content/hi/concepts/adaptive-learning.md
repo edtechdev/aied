@@ -1,19 +1,23 @@
 ---
 title: "अनुकूली अधिगम"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
 connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
@@ -91,15 +95,10 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 - **बाधा गुण को अनुकूलित करें, कमज़ोर औसत को नहीं।** ज्ञान अवस्थाओं के संक्रमण मॉडलिंग ने [[critical-thinking|विश्लेषणात्मक सोच]] को अर्जित करने में सबसे कठिन और खोने में सबसे आसान रैंक किया — सबसे निम्न अग्रसारित संक्रमण प्रायिकता 0.31 और सबसे उच्च पश्चसारित 0.22-0.23 — जिससे चिह्नित गुण का पुनः-अभ्यास समग्र दक्षता से अधिक तीखा अनुकूलन लक्ष्य बनता है ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]।
 - **प्रक्रिया अनुक्रमों से अनुकूलन, समेकित अंकों से नहीं।** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] ने तिगुने संवाद में 65 शिक्षार्थियों के संवाद क्रमों के *क्रम* को खनन करके स्कैफ़ोल्ड नियम निकाले, अनुकूली शिक्षण को समेकित व्यावहारिक या प्रदर्शन मापों से व्यक्तिगत प्रक्रिया अनुक्रमों की ओर ले गए; अधिकतम स्कैफ़ोल्डिंग ने कार्य-केंद्रित व्यवहार बढ़ाया लेकिन स्क्रिप्टिंग भी, और डिज़ाइन अपरीक्षित है।
 
-## सामान्य भ्रांतियाँ
+- **पहचान कार्यान्वयन से आगे है।** 90 शिक्षकों में, 74 (82.2%) ने उन शिक्षार्थियों की पहचान की जिन्हें अनुकूलन की आवश्यकता थी, पर केवल 50 (55.6%) ने कोई अनुकूली उपाय कार्यान्वित किया; बाध्यकारी बाधा शिक्षार्थियों के बारे में जानकारी थी, प्रौद्योगिकी नहीं, जिसे 12% ने नाम किया ([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]])।
+- **नियंत्रण उपचार का हिस्सा है।** अनुकूलन का नियंत्रण किस पर है, यह इस बात जितना महत्वपूर्ण है कि क्या अनुकूलित होता है: 83 अध्ययनों में, प्रणाली-नियंत्रण ने ज्ञान पर g = 1.05 (95% CI [.65, 1.45]) और शिक्षक-नियंत्रण ने g = .86 [.46, 1.26] दिया, जबकि शिक्षार्थी-नियंत्रण केवल g = .31 [−.44, 1.05] तक पहुँचा ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]])।
 
-- **"अनुकूल का अर्थ व्यक्तिगतकृत और व्यक्तिविषयक है।"** [[khalifeh-redefining-personalized-learning-ai-2026|व्यवस्थित समीक्षाएँ]] पाती हैं कि ये चार शब्द **साहित्य में असंगत रूप से** प्रयुक्त होते हैं, जिसका अर्थ है कि रिपोर्ट किए गए प्रभाव आकार अनुकूलन पर ही नहीं, बल्कि इस बात पर बहुत निर्भर करते हैं कि अनुकूलन को किस रूप में संक्रियायित किया गया। जिन अध्ययनों ने इन शब्दों का भिन्न अर्थ लिया, उन्हें एक साथ जोड़ने वाला मेटा-विश्लेषण भिन्न उपचारों को जोड़ रहा है, और उसका औसत किसी एक का भी वर्णन नहीं करता।
-- **"प्रणाली में प्राप्त दक्षता सीखी गई दक्षता है।"** **6,000 छात्रों के एक माध्यमिक-विद्यालय क्षेत्र प्रयोग** में, AI-समर्थित तीन-सही-लगातार दक्षता नियम ने **प्लेटफ़ॉर्म-परिभाषित उपलब्धि को लगभग 28.7 प्रतिशत अंक बढ़ाया, बिना** एक स्थानांतरण माप में सुधार किए। नियम ने प्लेटफ़ॉर्म के अपने मानदंड को अनुकूलित किया। यह उपलब्ध सबसे स्पष्ट प्रदर्शन है कि दक्षता संकेत सीख का मॉडल है, सीख नहीं।
-- **"सहीता-आधारित अनुकूलता यह जान लेती है कि कब रुकना है।"** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren और Stamper (2026)]] ने पाया कि सहीता से दक्षता का अनुमान लगाने वाली प्रणालियाँ **अभ्यास को बहुत जल्दी समाप्त करने** का जोखिम उठाती हैं: प्रणाली एक सही क्रम को समझ के रूप में पढ़ती है और वह अभ्यास वापस ले लेती है जिसकी शिक्षार्थी को अभी आवश्यकता थी। सफलता पर रुकने वाली अनुकूलनशीलता ठीक उन्हीं परीक्षणों को हटा सकती है जो धारण पैदा करते हैं।
-- **"अड़चन यह है कि अनुकूलन कितना अच्छा है।"** एक **दो-वर्षीय ज़िला RCT** में बाध्यकारी अवरोध **भागीदारी** थी: नामांकन को एक ही चरण में सिमटाने से केवल डिज़ाइन परिवर्तनों पर पहले सत्र की भागीदारी लगभग **45% से 83%** हो गई, और intent-to-treat लाभ उसी अनुपात में बढ़े। सबसे चतुर अनुकूलन उस किसी की सेवा नहीं करता जो उस तक कभी पहुँचता ही नहीं।
-- **"संलग्नता एक बार स्थापित होने पर बनी रहती है।"** **44 अध्ययनों** की एक PRISMA-संरेखित समीक्षा ने पाया कि संलग्नता साहित्य व्यवहारगत संलग्नता की ओर झुका है और सक्रिय संलग्नता पर सबसे पतला है, और एक **नवीनता प्रभाव** दर्ज करती है: ALEX जैसी प्रणालियों के अनुदैर्ध्य अध्ययनों में संलग्नता समय के साथ घटती है। प्रारंभिक संलग्नता डिज़ाइन की स्थिर विशेषता नहीं है।
-
-## अभ्यास के लिए इसका क्या अर्थ है
+## अभ्यास के लिए निहितार्थ
 
 **शिक्षकों और डिज़ाइनरों के लिए**
 
@@ -113,3 +112,11 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 - "अनुकूल" की संक्रियात्मक परिभाषा उस प्रभाव आकार के साथ रिपोर्ट करें जिसे आप उद्धृत करते हैं, क्योंकि साहित्य की परिभाषाएँ अलग-अलग हैं और संयुक्त संख्याएँ वही अस्पष्टता विरासत में लेती हैं।
 - अपने स्वयं के वैधीकरण में अपने दक्षता मानदंड को सीखने के परिणामों से अलग रखें। यदि आपका वैधीकरण माप वही संकेत है जो अनुकूलन को चलाता है, तो वह स्वतंत्र साक्ष्य नहीं है।
+
+## सामान्य भ्रांतियाँ
+
+- **"अनुकूल का अर्थ व्यक्तिगतकृत और व्यक्तिविषयक है।"** [[khalifeh-redefining-personalized-learning-ai-2026|व्यवस्थित समीक्षाएँ]] पाती हैं कि ये चार शब्द **साहित्य में असंगत रूप से** प्रयुक्त होते हैं, जिसका अर्थ है कि रिपोर्ट किए गए प्रभाव आकार अनुकूलन पर ही नहीं, बल्कि इस बात पर बहुत निर्भर करते हैं कि अनुकूलन को किस रूप में संक्रियायित किया गया। जिन अध्ययनों ने इन शब्दों का भिन्न अर्थ लिया, उन्हें एक साथ जोड़ने वाला मेटा-विश्लेषण भिन्न उपचारों को जोड़ रहा है, और उसका औसत किसी एक का भी वर्णन नहीं करता।
+- **"प्रणाली में प्राप्त दक्षता सीखी गई दक्षता है।"** **6,000 छात्रों के एक माध्यमिक-विद्यालय क्षेत्र प्रयोग** में, AI-समर्थित तीन-सही-लगातार दक्षता नियम ने **प्लेटफ़ॉर्म-परिभाषित उपलब्धि को लगभग 28.7 प्रतिशत अंक बढ़ाया, बिना** एक स्थानांतरण माप में सुधार किए। नियम ने प्लेटफ़ॉर्म के अपने मानदंड को अनुकूलित किया। यह उपलब्ध सबसे स्पष्ट प्रदर्शन है कि दक्षता संकेत सीख का मॉडल है, सीख नहीं।
+- **"सहीता-आधारित अनुकूलता यह जान लेती है कि कब रुकना है।"** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren और Stamper (2026)]] ने पाया कि सहीता से दक्षता का अनुमान लगाने वाली प्रणालियाँ **अभ्यास को बहुत जल्दी समाप्त करने** का जोखिम उठाती हैं: प्रणाली एक सही क्रम को समझ के रूप में पढ़ती है और वह अभ्यास वापस ले लेती है जिसकी शिक्षार्थी को अभी आवश्यकता थी। सफलता पर रुकने वाली अनुकूलनशीलता ठीक उन्हीं परीक्षणों को हटा सकती है जो धारण पैदा करते हैं।
+- **"अड़चन यह है कि अनुकूलन कितना अच्छा है।"** एक **दो-वर्षीय ज़िला RCT** में बाध्यकारी अवरोध **भागीदारी** थी: नामांकन को एक ही चरण में सिमटाने से केवल डिज़ाइन परिवर्तनों पर पहले सत्र की भागीदारी लगभग **45% से 83%** हो गई, और intent-to-treat लाभ उसी अनुपात में बढ़े। सबसे चतुर अनुकूलन उस किसी की सेवा नहीं करता जो उस तक कभी पहुँचता ही नहीं।
+- **"संलग्नता एक बार स्थापित होने पर बनी रहती है।"** **44 अध्ययनों** की एक PRISMA-संरेखित समीक्षा ने पाया कि संलग्नता साहित्य व्यवहारगत संलग्नता की ओर झुका है और सक्रिय संलग्नता पर सबसे पतला है, और एक **नवीनता प्रभाव** दर्ज करती है: ALEX जैसी प्रणालियों के अनुदैर्ध्य अध्ययनों में संलग्नता समय के साथ घटती है। प्रारंभिक संलग्नता डिज़ाइन की स्थिर विशेषता नहीं है।

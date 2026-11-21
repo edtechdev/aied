@@ -1,7 +1,7 @@
 ---
 title: स्व-नियंत्रित अधिगम
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-20T17:35:27-05:00"
 type: concept
 connected_resources: [process-feedback]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: qwen/qwen4-max:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
 connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
@@ -199,9 +203,15 @@ Learning Letters के अध्ययनों का एक समूह (202
 
 - **GPT-4o अकेले अपने ज्ञान-आधार से सिद्धांत-जड़ित SRL कोडबुक बना सकता है।** केवल Zimmerman (2000) और Winne और Hadwin (1998) के संदर्भ दिए जाने पर, GPT-4o ने ऐसे निर्माण प्रस्तावित किए जो तीनों Zimmerman चरणों और चार में से तीन Winne-Hadwin चरणों को कवर करते थे, केवल कार्य-परिभाषा चरण छूटा, और मानव परिष्कार ने कोडबुक को 11 निर्माणों पर तय किया ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano एट अल. (2026)]])। 15 छात्रों के 955 सोच-ऊँचा उक्तियाँ प्रॉम्प्ट में जोड़ने से अंतराल बंद हो गया, दोनों मॉडलों के सभी चरण कवर हुए और Error Identification जैसे डेटा-जड़ित कोड आए। मानव परिष्कार अनिवार्य रहा: दो कोडरों ने अतिव्यापी GPT प्रस्तावों को मिलाया (Planning बनाम Goal Setting, Monitoring बनाम Evaluation, Outcome बनाम Process Evaluation), और कोई हैलुसिनेशन नहीं आया।
 
+स्व-नियमन के लिए प्रॉम्प्ट करना उसे सिखाने के समान नहीं है। कक्षा 7–9 के 371 छात्रों के साथ चार-सत्र के एक यादृच्छिक परीक्षण में, न तो उपयोगिता-मूल्य प्रॉम्प्ट और न ही संज्ञानात्मक-रणनीति प्रॉम्प्ट ने मानक ChatGPT की तुलना में रणनीति उपयोग, रुचि, प्रयास या डोमेन ज्ञान में सुधार किया ([[futterer-srl-genai-support-rct-2026|Fütterer et al., 2026]])। शून्य परिणाम मायने रखता है क्योंकि हस्तक्षेप ने एक अपरिवर्तित अधिगम कार्य में चिंतन प्रॉम्प्ट जोड़े: जो भी काम को नियमित करता था वह कार्य और कक्षा में था, प्रॉम्प्ट में नहीं।
+
+साक्ष्य में स्व-रिपोर्ट कमज़ोर कड़ी है। ADHD वाले 46 छात्रों के [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder और Stratchan]] के अध्ययन में, MSLQ मेटा-संज्ञानात्मक स्व-नियमन उप-स्केल ने साक्षात्कार स्तर की भविष्यवाणी नहीं की (p = 0.312), जबकि संज्ञानात्मक लचीलापन के एक प्रदर्शन कार्य ने की। यह निष्कर्ष यह नहीं दिखाता कि स्व-नियमन अप्रासंगिक है; यह दिखाता है कि शिक्षार्थी का अपने नियमन का ब्यौरा और दबाव में नियम बदलने की उसकी क्षमता अलग-अलग मापी जा सकती हैं। [[executive-function|कार्यकारी प्रकार्य]] क्षमता पक्ष को संभालता है।
+
 ## सामान्य भ्रांतियाँ
 
 - **"स्व-नियमन एक शिक्षार्थी गुण है।"** नियमित अधिगम **आत्म-चिंतन, कार्यात्मक श्रेय-निर्धारण और अनुकूलन** में विघटित होता है, और दक्ष शिक्षार्थी **सफलता बढ़ाने के लिए संज्ञानात्मक रणनीतियाँ अपनाते हैं**। ये प्रशिक्षण-योग्य प्रक्रियाएँ हैं जिन्हें कोई डिज़ाइन सहारा दे सकता है या कमज़ोर कर सकता है।
 - **"कोई भी अनुकूली डिज़ाइन नियमन को समान रूप से सहारा देता है।"** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] का **179 छात्रों के साथ 22 दिनों तक चला 2x2 यादृच्छिक फ़ील्ड प्रयोग** दो डिज़ाइन सिद्धांतों की तुलना करता है और उन्हें तंत्र में भिन्न पाता है, इसलिए "अनुकूली" कोई एकल उपचार नहीं है।
 - **"चिंता नियमन को कमज़ोर करती है।"** **107 छात्रों** के मिश्रित-विधि अध्ययन में, उच्च [[anxiety-and-stress|AI चिंता]] **सत्यापन और पुनः-जाँच से सकारात्मक रूप से जुड़ी थी**। चिंता ने सत्यापन के लिए प्रेरक का काम किया, जो नियमन है, उसका अभाव नहीं।
 - **मेटा-संज्ञानात्मक SRL ने अधिगम-प्रासंगिक भार की भविष्यवाणी वहाँ की जहाँ [[ai-feedback-quality|AI प्रतिपुष्टि]] नहीं कर पाई।** **234 छात्रों और 1,147 अवलोकनों** वाले पाँच-सप्ताह के फ़ील्ड अध्ययन में, मेटा-संज्ञानात्मक स्व-नियमन **प्रासंगिक संज्ञानात्मक भार** का ठोस सकारात्मक भविष्यकर्ता था (β = .363, p < .001 उपचार-के-इरादे के अनुसार; .346, p < .001 उपयोग-आधारित)। उसने बाह्य भार की महत्वपूर्ण भविष्यवाणी नहीं की, जबकि संवादात्मक AI प्रतिपुष्टि तक केवल पहुँच ने किसी की भी नहीं की। केवल प्रतिपुष्टि के साथ **निरंतर** सहभागिता ने प्रासंगिक भार पर छात्रों को अलग किया, और अनियमित उपयोग ने नहीं (β = −.219, p = .116)। यह सक्रिय घटक को प्रतिपुष्टि की आपूर्ति में नहीं बल्कि शिक्षार्थी के प्रसंस्करण-नियमन में रखता है ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
+
+किसी LLM को साथी के रूप में कॉन्फ़िगर करना उपकरण-चयन समस्या से पहले एक स्व-नियमन समस्या है। भाषा-अधिगम के लिए LLM उपयोग के 117 सार्वजनिक वृत्तांतों में, जिन 24 ने बहु-चरणीय इंटरैक्शन को संचालित किया, उन्होंने अन्य 93 की तुलना में कहीं अधिक बार वैयक्तिकरण किया (70.8% बनाम 15.1%) और अधिक समझे गए लाभ रिपोर्ट किए (3.29 बनाम 1.96), फिर भी 68.4% ने बिना किसी मापने योग्य सुधार का नाम लिए मॉडल की प्रशंसा की और केवल 10.3% ने कोई सुधार रिपोर्ट किया ([[lasekan-chatbot-language-learning-partner-2026|Lasekan et al. (2026)]])।

@@ -1,7 +1,7 @@
 ---
 title: "मानव-लूप-में"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,13 +12,17 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, automation-bias, guardrails, formative-assessment, automated-assessment, scaffolding, teacher-role, ai-literacy, intelligent-tutoring, feedback, student-experience, self-regulated-learning, metacognition, educational-development, generative-ai, agency, pedagogical-safety, trust-calibration, agentic-ai, cognitive-offloading, cognitive-surrender, student-support-and-success]
 connected_articles: [shi-human-ai-complementarity-safety-2026, zhai-science-literacy-generative-ai-coherence-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, lee-learner-question-types-ai-education-2026, ilieva-agentic-genai-higher-education-2026, ko-hughes-vsd-student-centered-its-2026, human-in-the-loop-ai-scoring-national-assessment-2026, ai-teammate-task-distribution-medical-training-2026, agentic-ai-education-scoping-review, becerra-aicofe-feedback-2026, calibrating-trustworthiness-llm-education-2026, code-gen, cong-confidence-asag-2026, chen-teacharena-language-agents-realistic-teaching-2026, llm-difficulty-calibration-programming-exams-2026, llms-do-not-grade-essays-like-humans-2026, kim-ai-andragogy-2026, scaffolding-systematic-reviews-2026, ai-assisted-instructor-supervised-grading-feedback, lopez-pernas-llm-appropriate-student-support-2026, breideband-community-builder-cobi-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-standardized-patient-scaffolding-medical-2026, tripartite-feedback-framework-ai-assessment-2026, adapted-stories-social-story-intervention-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, llm-grading-assistants-public-health-2026, when-students-prefer-ai-scoring-feedback-2026, student-query-demand-hybrid-ai-support-2026, in-the-loop-educational-ai-learning-sciences-2026, tuo-armada-multi-agent-debate-overreliance-2026, capodieci-humanities-hil-2026]
@@ -81,6 +85,8 @@ Kim, Baek और Kwak (2026) HITL को **PedaCo** (Pedagogical Co-creation) �
 - **शैक्षणिक सुरक्षा।** [[pedagogical-safety]] यह आवश्यक करती है कि वास्तविक शिक्षण-अधिकार वाली AI मानव देखरेख बनाए रखे, ताकि त्रुटियाँ, पूर्वाग्रह या हानिकारक आउटपुट छात्रों तक पहुँचने से पहले पकड़े जाएँ। यह उन स्वायत्त एजेंटों के लिए विशेष रूप से महत्वपूर्ण है जो [[agentic-ai|सक्रिय रूप से लक्ष्यों का अनुसरण करते हैं]]।
 - **देखरेख अभ्यास में दुर्लभ है, केवल सिद्धांत में नहीं।** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] ने पाया कि 474 शैक्षणिक एजेंटिक-AI प्रणालियों में मज़बूत, अंतर्निहित शासन और मानव-लूप-में देखरेख दुर्लभ रूप से दिखाई दी, भले ही एकल-कार्य स्वायत्तता और बहु-एजेंट सहयोग बढ़े — यह डिज़ाइन सिद्धांत और तैनात अभ्यास के बीच की खाई है।
 - **महत्वपूर्ण प्रश्न यह है कि लूप को कार्यान्वयन-योग्य कैसे बनाया जाए, न कि मनुष्य कितना भाग लेते हैं।** एक [[learning-sciences|सीखने-विज्ञान]] दृष्टिकोण तर्क देता है कि सीखना को डेटा कैप्चर, संगणनात्मक व्याख्या और संभावित प्रतिक्रिया के इर्द-गिर्द व्यवस्थित करना शैक्षणिक कार्य को इस बात पर निर्भर करता है कि प्रणालियाँ क्या पता लगा सकती हैं और उस पर कार्य कर सकती हैं, और चेतावनियाँ और जुड़ाव वर्गीकरण किसी भी शिक्षक या छात्र के कार्य करने से पहले शिक्षार्थी की व्याख्या करती हैं ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]])।
+
+- **क्रम में स्थिति कार्यप्रवाह में उपस्थिति से अधिक महत्वपूर्ण है।** एक मनुष्य जो तैयार उत्पाद की समीक्षा करता है, वह स्वतंत्र जाँच नहीं है। एक सुरक्षा-देखरेख प्रयोग में, 3,957 मदों का न्याय करने वाले 416 मूल्यांकक, जब संभावित उत्तर उनके अपने उत्तर से पहले दिखाए जाते थे, तो मॉडल-गलत मदों पर कम सटीक रहे, 36.7% से गिरकर 20.6% हुए, जबकि मॉडल-सही मदों पर बेहतर रहे ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]])। मानव निर्णय को पहले दर्ज करना, या मॉडल के निष्कर्ष के बिना साक्ष्य दिखाना, वही है जो उस सुधार को संरक्षित रखता है जिसके लिए लूप बना है।
 
 - **वैधता और गुणवत्ता नियंत्रण।** HITL [[automated-assessment|स्वचालित मूल्यांकन]] और निर्माण के लिए एक गुणवत्ता द्वार है — मनुष्य वहीं निपटारा करते हैं जहाँ स्वचालित स्कोरिंग अविश्वसनीय होती है ([[llms-do-not-grade-essays-like-humans-2026|LLM निबंध ग्रेडिंग]] [[research-methods-aied|research]] देखें) और उत्पन्न आइटमों को मान्य करते हैं। 42 ग्रेडिंग और प्रतिपुष्टि अध्ययनों (2023–2025) के एक PRISMA-निर्देशित [[meta-analysis-systematic-review|systematic review]] स्पष्ट रूप से उसी निष्कर्ष पर पहुँचता है: LLM छोटे, अच्छी तरह संरचित कार्यों पर मानव रेटर के बराबर प्रदर्शन करते हैं, लेकिन जटिल, खुले अंत या व्यक्तिपरक कार्यों पर मानव निर्णय को पूरी तरह प्रतिस्थापित नहीं कर सकते, और उच्चतम ग्रेडिंग प्रभावशीलता उन संकर प्रणालियों में प्राप्त होती है जो AI-संचालित ग्रेडिंग को शिक्षक की देखरेख और सत्यापन के साथ जोड़ती हैं ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]])। [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] ठोस रूप से दिखाते हैं कि यह सीमा कहाँ गिरती है: ChatGPT-5 ने फार्मेसी-परीक्षा के वस्तुनिष्ठ आइटमों पर संकाय के साथ मेल खाया (CCC 0.935–1.000) लेकिन लघु-उत्तर और निबंध आइटमों पर रूब्रिक देने पर भी अविश्वसनीय रहा, जिससे लेखकों ने जटिल, व्यक्तिपरक या उच्च-दांव वाले मूल्यांकन के लिए मानव समीक्षा के साथ संकर ग्रेडिंग की सिफ़ारिश की।
 - पुनरावृत्ति उस देखरेख का विकल्प नहीं है: पाँच अलग-अलग दिनों पर एक ही प्रस्तुतियों का पुनः ग्रेडिंग करते हुए, उसी मॉडल ने अपने परिणामों को केवल Krippendorff's alpha 0.625 पर पुनरुत्पादित किया, जिसमें विचरण मध्यम ग्रेडों में केंद्रित था और A तथा F पाँच सत्रों की गणनाओं में अनुपस्थित थे ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]])।

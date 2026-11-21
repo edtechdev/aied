@@ -1,7 +1,7 @@
 ---
 title: "एआई फीडबैक की गुणवत्ता"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-20T17:35:27-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,13 +9,17 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: qwen/qwen4-max:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
 connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
@@ -36,7 +40,9 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 
 ## परिचय
 
-एआई फीडबैक की गुणवत्ता केवल सही होने के बारे में नहीं है। प्रभावी फीडबैक समयबद्ध, विशिष्ट, क्रियान्वयन-योग्य और सीखने वाले की मौजूदा समझ के अनुरूप होना चाहिए। इस ज्ञान आधार में शोध एआई फीडबैक गुणवत्ता की जाँच कई आयामों में करता है: सटीकता (क्या फीडबैक सही है?), उपयोगिता (क्या यह छात्र के सुधार में मदद करता है?), और शैक्षणिक संरेखण (क्या यह केवल कार्य पूरा करने के बजाय सीखने को बढ़ावा देता है?)।
+एआई फीडबैक की गुणवत्ता केवल सही होने के बारे में नहीं है। प्रभावी फीडबैक समयबद्ध, विशिष्ट, क्रियान्वयन-योग्य और सीखने वाले की मौजूदा समझ के अनुरूप होना चाहिए। तीन प्रश्न उस शोध के अधिकांश को व्यवस्थित करते हैं: सटीकता (क्या फीडबैक सही है?), उपयोगिता (क्या यह छात्र के सुधार में मदद करता है?), और शैक्षणिक संरेखण (क्या यह केवल कार्य पूरा करने के बजाय सीखने को बढ़ावा देता है?)।
+
+[[corbin-recognition-feedback-2026|Corbin, Tai और Flenady (2026)]] एक ऐसी शर्त जोड़ते हैं जो ये तीनों नहीं पकड़ते: मान्यता (recognition), प्रदाता और सीखने वाले की पारस्परिक स्थिति, यह तय करती है कि सटीक, उपयोगी फीडबैक किसी को प्रेरित कर सकता है या नहीं, अतः मापी गई गुणवत्ता आवश्यक है लेकिन पर्याप्त नहीं।
 
 ## एआई फीडबैक गुणवत्ता अनुसंधान में कैसे प्रकट होती है
 
@@ -65,6 +71,8 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 - **निबंध स्कोरिंग फीडबैक:** [[cong-confidence-asag-2026|आत्मविश्वास-सचेत ASAG]] और [[choi-anchor-aes-prompting-2025|एंकर-आधारित AES]] यह पता लगाते हैं कि आत्मविश्वास कैलिब्रेशन और [[prompt-engineering|प्रॉम्प्टिंग]] डिज़ाइन लेखन मूल्यांकन के लिए फीडबैक गुणवत्ता को कैसे प्रभावित करते हैं।
 - **साक्ष्य-आधारित, जोखिम-अनुकूल फीडबैक:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] तीन कार्यों को अलग करता है जिन्हें फीडबैक शोध आमतौर पर एक साथ आकलन करता है — यह भविष्यवाणी करना कि कौन-सी विफल स्थिति बनी रहेगी, निर्णय लेना कि सीमित सहायक क्षमता कब खर्च की जाए, और ऐसा फीडबैक उत्पन्न करना जिसके दावे दर्ज साक्ष्यों के भीतर रहें। 215 छात्रों के 2993 विफल-प्रस्तुति अवस्थाओं में, एक कैलिब्रेट जोखिम मॉडल ने योग्य परीक्षण अवस्थाओं में से 17.8% का चयन किया और देखे गए निरंतर विफलताओं में से 25.2% को पकड़ा, और एक मानकीकृत सुधार पास के बाद 544 उत्पन्न संदेशों में से 519 में सभी आवश्यक घटक मौजूद थे। अतः समयबद्धता और साक्ष्य-आधारितता भाषाई गुणवत्ता और पुनःप्राप्ति के साथ मिलकर उन आयामों में शामिल होती हैं जिन पर फीडबैक प्रणाली का आकलन किया जाना चाहिए।
 
+- **कमज़ोर लक्षण का नाम लेना निबंध का उद्धरण देना नहीं है।** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] ने पाया कि केवल-रूब्रिक टिप्पणियों ने सही कमज़ोर लक्षण पहचाने (Trait Recall@2 = 0.823) लेकिन कोई निबंध-साक्ष्य उद्धृत नहीं किया, जबकि साक्ष्य-एंकर जोड़ने से रिकॉल 0.829 पर बना रहा और वैध साक्ष्य दर शून्य से बढ़कर 0.912 हो गई।
+
 - **विवेकाधीन फीडबैक प्रावधान:** [[ai-assistance-discretionary-feedback|उच्च शिक्षा में एआई-सहायित फीडबैक पर शोध]] यह जाँचता है कि क्या एआई शिक्षकों द्वारा दिए गए फीडबैक की मात्रा और गुणवत्ता बढ़ाता है।
 - **संबंधगत स्तर प्रतिनिधित्व के प्रतिरोधी है:** 21 उच्च-शिक्षा शिक्षकों के एक एआई फीडबैक उपकरण के उपयोग में, 12 ने मॉडल के पाठ को फिर से लिखा, संशोधन स्वर और प्रोत्साहन पर केंद्रित थे (छात्र–शिक्षक संबंध f = 24), और अधिक अनुभवी शिक्षकों ने संपादन का बोझ, विश्वास और भ्रमित-जानकारी का जोखिम बताया जबकि नए शिक्षक उपकरण पर निर्भर रहे ([[learner-centered-feedback-ai|Aldino et al. (2026)]])।
 - **छात्र और मॉडल कुछ आयामों पर सहमत हैं और कुछ पर नहीं।** स्नातक छात्रों ने फीडबैक को विशिष्टता और क्रियान्वयन-योग्यता के लिए उसी आधार पर रचनात्मक माना जिस आधार पर ChatGPT ने, लेकिन समयबद्धता और सकारात्मकता पर उनके विचार अलग थे, और उन्होंने शिक्षक फीडबैक को उसके संबंधगत, वैयक्तिकृत और विशेषज्ञ-चालित चरित्र के लिए महत्व दिया, जबकि AI फीडबैक को अवैयक्तिक पढ़ा ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]])।
@@ -85,6 +93,8 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 - **चापलूसी एक फीडबैक विफलता के रूप में:** [[ai-sycophancy|चापलूसी भरा]] फीडबैक समर्थन को सहमति से भ्रमित करता है — एक एआई जो छात्र के उत्तर को चुनौती देने के बजाय मान्य करता है, फीडबैक के सुधारात्मक कार्य को कमज़ोर करता है, और तब भी गुणवत्ता घटाता है जब वह सहायक लगता है। [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] दिखाता है कि [[intelligent-tutoring|ट्यूटर]] सामाजिक दबाव में सुधारात्मक फीडबैक रोकते हैं, और [[contextual-sycophancy-ai-literacy|संदर्भगत चापलूसी]] त्रुटियों को बाद की सलाह में फैलाती है; प्रभावी फीडबैक को कभी-कभी सीखने वाले को चुनौती देनी चाहिए।
 
 - **नैदानिक सटीकता केवल आंशिक रूप से फीडबैक गुणवत्ता निर्धारित करती है — और LLM [[self-assessment|स्व-मूल्यांकन]] [[human-in-the-loop-ai|मानव निर्णय]] से असंरेखित है:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] ने पाया कि GPT-4 ने एक कॉलेज बीजगणित ट्यूटर में लगभग 66% समय त्रुटि-लक्षित संकेत उत्पन्न किए, फिर भी लगभग 35% बहुत सामान्य, गलत या उत्तर बता देने वाले थे; निदान गलत होने पर भी मॉडल प्रायः प्रासंगिक, सामान्य-लेकिन-सही फीडबैक से उबर गया, हालाँकि लगभग सभी गलत फीडबैक गलत निदान के बाद आए। उनके सिमुलेटेड-छात्र स्वचालित गुणवत्ता जाँच ने दोनों परीक्षणों पर केवल 21.4% संकेतों को पारित किया, लक्षित फीडबैक को लगभग 70% समय अस्वीकार किया, और उन संकेतों को बढ़ावा दिया जो केवल उत्तर प्रकट करते थे — यह एक स्पष्ट प्रदर्शन है कि स्वचालित [[ai-ed-evaluation|मूल्यांकन]] सहायकता के मानव निर्णयों से तीव्र रूप से भिन्न हो सकता है और उनके साथ कैलिब्रेट किया जाना चाहिए।
+- 
+एआई–शिक्षक सहमति एक ही लेखन कार्य के भीतर मुद्दे-निर्भर होती है: F1 शब्दावली शब्द-चयन पर 0.824 तक पहुँचा लेकिन स्रोत-उपयोग और साक्ष्य पर 0.579, जहाँ किसी स्रोत को किसी दावे के विरुद्ध तौला जाना चाहिए ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao और Fan (2026)]])।
 
 - **स्थिर आउटपुट वैध फीडबैक नहीं है:** 12 TEACH-ढाँचे के कक्षा वीडियो में, विश्वसनीयता और सटीकता अलग हो गईं — आठ LLM अंतबिंदुओं में सबसे स्थिर प्रमाणित विशेषज्ञों के सामने सबसे कमज़ोरों में था (सटीक सहमति 0.31), और प्रत्येक मॉडल ने मौखिक संकेतों को अंतर्निहित शैक्षिक साक्ष्यों पर वरीयता दी, जहाँ निर्देश अनुपस्थित थे वहाँ कम स्कोर दिया ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]])।
 
@@ -96,9 +106,11 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 
 फीडबैक किस प्रकार से *उत्पन्न* होता है, वह भी उस सूची में आता है। तर्कयुक्त निबंधों के लिए एक मॉड्यूलर स्वचालित लेखन मूल्यांकन प्रणाली में, 90 शिक्षक-टिप्पणी निबंधों पर निगरानित [[llm-training-and-fine-tuning|सूक्ष्म-अनुकूलन]] ने अप्रयोज्य फीडबैक उत्पन्न किया — सूक्ष्म-अनुकूलित GPT-4o ने प्रत्येक अनुमान में अपनी 8,000-टोकन संदर्भ खिड़की से आगे निकल गया और सूक्ष्म-अनुकूलित LLaMA-3.3-70B ने ऐसा JSON निर्गत किया जो पार्स नहीं हो सका — जबकि Claude 3.7 को सीधे प्रॉम्प्ट करने से 40 निबंधों में 630 सूक्ष्म टिप्पणियाँ उत्पन्न हुईं जिन्हें शिक्षकों ने 94.69% आवश्यक और प्रभावी माना, जिससे लेखकों ने निष्कर्ष निकाला कि एक अनिश्चित उत्पन्न कार्य के लिए प्रॉम्प्टिंग सूक्ष्म-अनुकूलन से आगे निकल सकती है ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]])।
 
+जो मॉडल सीखने वाले की भूमिका निभाता है, वह वह मॉडल नहीं है जिसे उस मुलाकात का आकलन करना चाहिए। [[kim-ai-simbot-nursing-communication-2026|Kim और Pankhania (2026)]] के AI SimBot में, 98 प्री-लाइसेंस नर्सिंग छात्रों ने GPT-4o द्वारा निभाए गए 17-वर्षीय आभासी रोगी का साक्षात्कार लिया, और उस मॉडल का फीडबैक संकाय रूब्रिक के सामने गलत और अत्यधिक सकारात्मक पाया गया। मूल्यांकनकर्ता की भूमिका O3-mini को सौंपी गई, जिसने रूब्रिक में बेहतर आधारित निर्णय दिए, पूरे वाक् पाइपलाइन के लिए लगभग पचास सेंट प्रति छात्र पर। Persona-निष्ठा और मूल्यांकनात्मक सटीकता अलग-अलग आवश्यकताएँ हैं, और एक ही तैनाती से दोनों पूरी होने की अपेक्षा नहीं की जा सकती।
+
 ## गुणवत्ता के आयाम
 
-एआई फीडबैक गुणवत्ता कई आयामों में फैली है जो इस ज्ञान आधार में दर्ज हैं:
+एआई फीडबैक गुणवत्ता कई आयामों में फैली है:
 - **सटीकता:** क्या फीडबैक त्रुटियों और शक्तियों को सही ढंग से पहचानता है? ([[automated-assessment|स्वचालित ग्रेडिंग]], [[automated-essay-scoring]])
 - **साक्ष्य की पुनःप्राप्ति:** क्या प्रणाली वास्तव में उस साक्ष्य तक पहुँच सकती है जिसका वह निर्णय कर रही है? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari and Martí (2026)]] प्रस्तुति में मौजूद साक्ष्य को प्रसंस्करण के बाद उपलब्ध साक्ष्य से अलग करते हैं — एक समीकरण, ग्राफ या इकाई रिपोर्ट में शामिल हो सकती है लेकिन कभी पुनःप्राप्त न हो, अतः उस मानदंड के बारे में फीडबैक किसी न किसी पर टिका नहीं होता — जिससे पुनःप्राप्ति सटीकता या कैलिब्रेशन से भिन्न एक गुणवत्ता आयाम बनती है। उनका उत्तर यह है कि प्रत्येक स्कोर से रिपोर्ट के ठोस साक्ष्य का उद्धरण करवाना हो, जिससे वह प्रेक्षण जो पाठ में वापस नहीं जा सकता, असमर्थित के रूप में दिखाई दे।
 
@@ -119,6 +131,8 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 - **इन्हीं आयामों का पाठक-पक्ष।** चौबीस विश्वविद्यालयीय लेखन प्रोफेसरों ने ऐसे उत्पादन का वर्णन किया जो जटिल, अत्यधिक लंबा, अस्पष्ट या अव्यावहारिक था, और दो ने पाया कि वह शक्तियों की प्रशंसा करता रहता है जब तक पहले कमज़ोरियाँ खोजने का निर्देश न दिया जाए ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]])। सात ने कहा कि स्वीकार्य फीडबैक तक पहुँचने में बार-बार प्रॉम्प्टिंग लगी, जो उस समय को व्यय करती है जिसे कार्यभार-लाभ बचाना था।
 - **संदेश की अन्य सभी मापी गई विशेषताओं से लंबाई अधिक भविष्यसूचक रही।** एक जीवंत प्रोग्रामिंग पाठ्यक्रम में LLM संकेत प्रणाली के तीन तैनातियों में, 204.9 अक्षरों का प्रत्येक मानक विचलन अगली प्रस्तुति की कम सटीकता (−0.733), अधिक शेष प्रयास (0.187) और पुनः प्रस्तुत करने से पहले लंबी प्रतीक्षा (0.226) की भविष्यवाणी करता था, जबकि Flesch-Kincaid ग्रेड पहले दो के लिए अनिश्चित था ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]])। प्रारूप भी महत्वपूर्ण था, पर एक विनिमय के रूप में: नैदानिक संकेतों से अगली प्रस्तुतियाँ अधिक बार सही हुईं और प्रयास कम लगे, किंतु पुनः प्रस्तुति धीमी रही।
 
+- **बढ़त संरचना ने दी, मॉडल ने नहीं।** चार चरणों — उद्दीपन, अन्वेषण, पुनर्गठन और समेकन — ने एक डेटा साइंस पाठ्यक्रम में शिक्षक टिप्पणियों की तुलना में 5.64-अंक की आलोचनात्मक-चिंतन बढ़त उत्पन्न की ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]])।
+
 ## व्यापक अवधारणाओं से संबंध
 
 एआई फीडबैक गुणवत्ता मूल रूप से [[formative-assessment]] और [[feedback|फीडबैक लूप]] से जुड़ती है — गुणवत्तापूर्ण फीडबैक वर्तमान और वांछित प्रदर्शन के बीच के अंतराल को बंद करता है। यह [[automated-assessment|स्वचालित ग्रेडिंग]] (जो उन स्कोर को उत्पन्न करता है जिन पर फीडबैक आधारित है), [[ai-literacy]] (छात्रों को फीडबैक गुणवत्ता का आलोचनात्मक आकलन करना होगा), और [[cognitive-offloading|अति-निर्भरता]] (एआई फीडबैक की असमीक्षित स्वीकृति सीखने को विस्थापित कर सकती है) के साथ प्रतिच्छेद करती है। [[writing-education]] के लिए, लेखन मूल्यांकन में एआई की बढ़ती भूमिका को देखते हुए फीडबैक गुणवत्ता विशेष रूप से परिणामकारी है।
@@ -128,6 +142,8 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse (2026)]] DeepSeek के स्पष्ट तर्क-चिह्नों को फीडबैक-सुविधा के रूप में परखते हैं और पाते हैं कि दृश्य तर्क टिप्पणी का आधार लेखक के लिए निरीक्षण-योग्य बनाता है, जबकि मॉडल उच्च-स्तरीय निर्णय, जैसे तर्क-प्रस्तुति, अब भी मानव को सौंपता है।
 
 पहले मोड़ पर सही उत्तर तीसरे तक गलत हो सकता है: 11 मॉडलों में 12.7 प्रतिशत अधिकार-दबाव में गलत उत्तर की ओर पलट गए, इसलिए प्रतिपुष्टि की गुणवत्ता पहली प्रतिक्रिया पर नहीं, पूरे संवाद में आँकनी होगी ([[liu-educational-sycophancy-2026|लियू और कोरोलोवा, 2026]])।
+
+- **गुणवत्ता-लाभ समीक्षक-सहायता से आते हैं, कच्चे आउटपुट से नहीं।** FeedbackWriter का उपयोग करने वाले टीए ने एआई सुझावों में से 51.3% अपनाए और एआई रूब्रिक निर्णयों में से 11.3% सुधारे, फिर व्यापक रूब्रिक कवरेज के साथ लंबी टिप्पणियाँ दीं; संशोधन गुणवत्ता d = 0.50 से बढ़ी, बिना किसी पोस्ट-टेस्ट लाभ के ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]])।
 
 ## सामान्य भ्रांतियाँ
 

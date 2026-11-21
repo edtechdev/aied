@@ -1,9 +1,9 @@
 ---
 title: "पाठ्यक्रम की AI नीति कैसे लिखें और छात्रों तक कैसे पहुँचाएँ?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-15T16:10:45-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 translation_of: faqs/course-ai-policy
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 weight: 70

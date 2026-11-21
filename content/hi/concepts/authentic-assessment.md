@@ -1,7 +1,7 @@
 ---
 title: "प्रामाणिक मूल्यांकन"
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,13 +11,17 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
 connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
@@ -59,6 +63,7 @@ connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychol
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] तर्क देता है कि प्रामाणिकता को निगरानी से अस्तित्व में नहीं लाया जा सकता; इसे डिज़ाइन किया जाना चाहिए, AI को घोषित सहयोगी के रूप में स्थापित करते हुए न कि नकल के अनुप्रयोग के रूप में, और निगरानी के बजाय प्रामाणिक, [[process-oriented-assessment|प्रक्रिया-आधारित मूल्यांकन]] को प्राथमिकता देते हुए।
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] मूल्यांकन को वैधता प्रमाण और छात्रों के भविष्य के काम को दर्शाने वाले प्रामाणिक कार्यों के इर्द-गिर्द फिर से रूपांतरित करता है।
 - [[authentic-products-authenticated-processes-2026|प्रामाणिक उत्पाद, प्रमाणित प्रक्रियाएँ]] यह परीक्षण करता है कि AI-समृद्ध [[higher-ed|उच्च शिक्षा]] वास्तविक आउटपुट और उन्हें उत्पन्न करने वाली प्रक्रियाओं दोनों का मूल्यांकन कैसे कर सकती है।
+- **शासन छात्रों तक मूल्यांकन-डिज़ाइन के माध्यम से पहुँचता है।** अनुभूत [[governance|AI शासन]] की गुणवत्ता ने नीति-जागरूकता की तुलना में काफी अधिक से अनुभूत प्रामाणिक मूल्यांकन की भविष्यवाणी की (β = 0.36 बनाम 0.12), और प्रामाणिक मूल्यांकन ने चीनी विश्वविद्यालयों के 644 छात्रों में [[student-engagement|सहभागिता]] तक के मार्ग को पूरी तरह वहन किया ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]])।
 
 - **AI का प्रारूप साथी भी निर्णय छोड़ देता है।** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] ने आठ समन्वयकों के साथ एक GPT-4.1 मूल्यांकन डिज़ाइनर का प्रयोग किया: इसने उपयोगी अवलोकन, कार्य, मानदंड, समयरेखा और रूब्रिक तैयार किए, लेकिन बार-बार अनुशासनात्मक संदर्भ और विषय क्रम को चूका, और आठों ने पूर्ण स्वचालन से इनकार किया, [[evaluative-judgment|शैक्षणिक निर्णय]] को मॉडल के बजाय रखा।
 - [[tool-invariant-framework-agentic-ai|उपकरण-अनिर्दिष्ट ढाँचा]] उपकरण-विशिष्ट आउटपुट के बजाय संगणकीय विधियों और प्रक्रिया के मूल्यांकन का तर्क देता है, मौखिक प्रतिपादन और सत्यापन का उपयोग करते हुए।

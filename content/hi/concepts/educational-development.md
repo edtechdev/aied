@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: "शैक्षिक विकास"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
 connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
@@ -57,6 +61,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-techn
 - **AI साक्षरता संस्थागत रूप से अदृश्य है।** भाषा-शिक्षक AI साक्षरता के 32 अध्यायनों की एक [[meta-analysis-systematic-review|व्यवस्थित समीक्षा]] ने इसे कार्यभार मॉडल, पदोन्नति नीतियों और संसाधन आवंटन में अनुपस्थित पाया, जिसमें विकास खंडित और जवाबदेही संस्थाओं और एजेंसियों में विस्थापित — इसलिए साक्षरता विकास व्यक्तिगत प्रयास के लिए डिफ़ॉल्ट है न कि संरचनात्मक सहायता के लिए ([[governing-unseen-ai-literacy-language-teachers-2026|डेंग, चेलिक और दुरान, 2026]]))।
 
 - **माँग आवश्यकता-आकलन नहीं है।** 345 क्यूबेक CEGEP शिक्षकों ने तकनीकी समझ पर सबसे कम अंक पाए (5 में से 2.706) फिर भी अनुशासन-विशिष्ट व्यावहारिक अनुप्रयोग माँगे, और पहले के सत्रों को बहुत सामान्य बताया ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|गियाचिनी सहित (2026)]])।
+- **शिक्षाविद् ऑटोमेशन को स्वैच्छिक रूप से बताते हैं, और शिक्षाशास्त्र केवल तब प्रकट करते हैं जब पूछा जाए कि उपकरण क्या कर सकता है।** 20 विषयों और 24 देशों में, पाँच खुले प्रश्नों ने कार्यक्षमता और संस्थागत नीति पर 305 टिप्पणियों के मुकाबले दक्षता और ऑटोमेशन पर 737 टिप्पणियाँ आकर्षित कीं, जबकि अनुकूलन क्षमताओं के बारे में 74 उत्तरों और बाधा प्रश्नों में प्रत्येक में 3 उत्तरों में दिखा ([[sheridan-teaching-academics-genai-plans-2026|शेरिडन सहित, 2026]])। उन्होंने जो बाधाएँ नामित कीं वे थीं समय, एक सुसंगत नीति और वित्तपोषित सहायता, जिसमें पेशेवर विकास और यात्रा बजट को पहले काटा जाने वाला बताया गया; एक अल्पसंख्यक ने परिवर्तन को श्रम-संबंधों के माध्यम से पढ़ा, यह अपेक्षा करते हुए कि संस्थाएँ इसका उपयोग शैक्षणिक कर्मचारियों को कम करने के लिए करेंगी।
 
 - **रचनावादी कार्यशालाओं को नक्शा चाहिए।** तीन 50-मिनट के सत्रों ने 20 से 25 संकाय सदस्यों को खेल-भरे प्रॉम्प्टिंग से पुनःउपयोग योग्य शिक्षण सामग्री तक पहुँचाया, फिर भी AI में नए प्रतिभागियों ने सैंडबॉक्स से पहले संकल्पनात्मक ब्रीफ़िंग माँगी ([[fischer-learning-by-making-faculty-development-2026|फ़िशर (2026)]])।
 

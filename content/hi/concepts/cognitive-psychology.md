@@ -1,19 +1,23 @@
 ---
 title: संज्ञानात्मक मनोविज्ञान
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T17:35:27-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: qwen/qwen4-max:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
 connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
@@ -34,7 +38,7 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-e
 
 ## परिचय
 
-संज्ञानात्मक मनोविज्ञान वह सीखने के सिद्धांत की परंपरा है जो सीखने को आंतरिक मानसिक प्रतिनिधियों — अवधारणाओं, स्कीमाओं और प्रक्रियाओं, जो स्मृति में संचित रहती हैं — में परिवर्तन मानती है, न कि देखे जा सकने वाले व्यवहार में। इसकी सूचना-प्रसंस्करण शब्दावली (ध्यान, एन्कोडिंग, पुनर्प्राप्ति, सीमित कार्यशील स्मृति) ने सीखने की कठिनाई के निदान की भाषा और [[intelligent-tutoring]] तथा [[knowledge-tracing]] की संरचना — वे प्रणालियाँ जो शिक्षार्थी की आंतरिक अवस्था का अनुमान लगाकर उसके अनुसार अनुकूलित होती हैं — दोनों को प्रदान किया। यह इस ज्ञान आधार में [[metacognition]], [[desirable-difficulties]] और [[self-regulated-learning]] के लिए संदर्भ ढाँचा बना हुआ है।
+संज्ञानात्मक मनोविज्ञान वह सीखने के सिद्धांत की परंपरा है जो सीखने को आंतरिक मानसिक प्रतिनिधियों — अवधारणाओं, स्कीमाओं और प्रक्रियाओं, जो स्मृति में संचित रहती हैं — में परिवर्तन मानती है, न कि देखे जा सकने वाले व्यवहार में। इसकी सूचना-प्रसंस्करण शब्दावली (ध्यान, एन्कोडिंग, पुनर्प्राप्ति, सीमित कार्यशील स्मृति) ने सीखने की कठिनाई के निदान की भाषा और [[intelligent-tutoring]] तथा [[knowledge-tracing]] की संरचना — वे प्रणालियाँ जो शिक्षार्थी की आंतरिक अवस्था का अनुमान लगाकर उसके अनुसार अनुकूलित होती हैं — दोनों को प्रदान किया। यह [[metacognition]], [[desirable-difficulties]] और [[self-regulated-learning]] के लिए संदर्भ ढाँचा बना हुआ है।
 
 [[seeing-cognitive-representations-eeg-reconstruction|Su एट अल. (2026)]] ने विज्ञान वीडियो के दौरान शिक्षार्थियों के EEG से छवियाँ पुनर्निर्मित कीं और पाया कि प्रतिनिधित्व की निष्ठा परीक्षण-प्रदर्शन के साथ चली (प्रतिगमन गुणांक 0.8481, R² = 0.79), यह प्रत्यक्ष साक्ष्य है कि आंतरिक प्रतिनिधित्व का माप एन्कोडिंग का सूचक हो सकता है।
 
@@ -50,7 +54,7 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-e
 
 ### AIED की संज्ञानात्मक वंशावली
 
-यह कहा जा सकता है कि संज्ञानात्मकतावाद ही वह सिद्धांत है जो शिक्षा में AI के अस्तित्व को सबसे अधिक उत्तरदायी है। प्रारंभिक संज्ञानात्मक ट्यूटर (जैसे, एंडरसन के ACT-R-आधारित ट्यूटर) ने उस मान्यता को [[embodied-learning|व्यक्त]] किया कि सीखना उत्पादन नियमों (production rules) के रूप में मॉडल किया जा सकता है और एक प्रणाली यह ट्रैक कर सकती है कि शिक्षार्थी ने कौन-से नियम सीख लिए हैं। इससे वह मौलिक संरचना उत्पन्न हुई जो आज भी इस क्षेत्र को परिभाषित करती है: एक डोमेन मॉडल, एक [[student-modeling|शिक्षार्थी मॉडल]] जो शिक्षार्थी के ज्ञान की अवस्था को ट्रैक करता है, और एक [[pedagogy|शिक्षाशास्त्रीय]] मॉडल जो निर्देश को अनुकूलित करता है — सब संज्ञानात्मक मूल का। आधुनिक [[knowledge-tracing]] (बेज़ियन, डीप-लर्निंग और IRT-आधारित) और [[cognitive-diagnosis]] इसी परंपरा को जारी रखते हैं। यही मान्यता [[intelligent-tutoring]], [[adaptive-learning]] और [[personalized-learning]] को भी आधार देती है, जिन्हें इस ज्ञान आधार में [[student-modeling|शिक्षार्थी मॉडलिंग और अनुकूली निर्देश]] छत्र के अंतर्गत रखा गया है।
+यह कहा जा सकता है कि संज्ञानात्मकतावाद ही वह सिद्धांत है जो शिक्षा में AI के अस्तित्व को सबसे अधिक उत्तरदायी है। प्रारंभिक संज्ञानात्मक ट्यूटर (जैसे, एंडरसन के ACT-R-आधारित ट्यूटर) ने उस मान्यता को [[embodied-learning|व्यक्त]] किया कि सीखना उत्पादन नियमों (production rules) के रूप में मॉडल किया जा सकता है और एक प्रणाली यह ट्रैक कर सकती है कि शिक्षार्थी ने कौन-से नियम सीख लिए हैं। इससे वह मौलिक संरचना उत्पन्न हुई जो आज भी इस क्षेत्र को परिभाषित करती है: एक डोमेन मॉडल, एक [[student-modeling|शिक्षार्थी मॉडल]] जो शिक्षार्थी के ज्ञान की अवस्था को ट्रैक करता है, और एक [[pedagogy|शिक्षाशास्त्रीय]] मॉडल जो निर्देश को अनुकूलित करता है — सब संज्ञानात्मक मूल का। आधुनिक [[knowledge-tracing]] (बेज़ियन, डीप-लर्निंग और IRT-आधारित) और [[cognitive-diagnosis]] इसी परंपरा को जारी रखते हैं। यही मान्यता [[intelligent-tutoring]], [[adaptive-learning]] और [[personalized-learning]] को भी आधार देती है, जिन्हें [[student-modeling|शिक्षार्थी मॉडलिंग और अनुकूली निर्देश]] छत्र के अंतर्गत रखा गया है।
 
 ### संज्ञानात्मक भार और निर्देश का डिज़ाइन
 
@@ -78,6 +82,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-e
 2. **शिक्षार्थी का प्रतिनिधित्व करें, केवल अनुक्रिया न दें।** AI संवाद से संरचित [[student-modeling]] और [[knowledge-tracing]] जोड़ें ताकि प्रणाली अनुमानित ज्ञान के अनुकूल हो, न कि दक्षता से परंतु अंधाधुंध अनुक्रिया दे। ([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **कार्यशील स्मृति की सीमाओं का सम्मान करें।** AI UX पर संज्ञानात्मक भार सिद्धांत लागू करें: बाह्य भार घटाएँ (अवरोध, अधिभारित इंटरफ़ेस) और सक्रिय प्रसंस्करण को संरक्षित रखें ([[desirable-difficulties|उत्पादक संघर्ष]], पुनर्प्राप्ति अभ्यास), न कि सभी संज्ञानात्मक माँग को कम करें।
 4. **अधिचेतना को अंशांकित करें।** चूँकि [[metacognition]] यह नियंत्रित करता है कि शिक्षार्थी कब बाह्यीकरण चुनते हैं, अंशांकन का शिक्षण (यह जानना कि कोई बिना सहायता वास्तव में क्या कर सकता है) अति-निर्भरता का एक संज्ञानात्मक उत्तर है (देखें [[cognitive-offloading]])।
+
+विकास एक अलग प्रश्न है: इन तंत्रों को स्थिर माना जाता है, जबकि [[developmental-psychology|विकासात्मक मनोविज्ञान]] पूछता है कि वे आयु के साथ कैसे बदलते हैं और आयु-वर्ग आधारित AI उपयोग के लिए इसका क्या अर्थ है।
 
 ## सामान्य भ्रांतियाँ
 

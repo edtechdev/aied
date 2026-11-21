@@ -2,20 +2,24 @@
 connected_resources: [mglearn]
 title: बहुभाषी अधिगम
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
@@ -28,9 +32,9 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 ## विचार करने योग्य प्रश्न
 
 - अधिकांश एआई मॉडल मुख्य रूप से अंग्रेज़ी जैसी उच्च-संसाधन वाली भाषाओं पर प्रशिक्षित होते हैं। यदि आप किसी अन्य भाषा में सोचते हैं, अध्ययन करते हैं, या मूल्यांकित होते हैं, तो यह आपको व्यवस्थित रूप से किस प्रकार नुकसान पहुँचा सकता है — तब भी जब उपकरण अंग्रेज़ी में ‘काम करता’ प्रतीत होता है?
-- पृष्ठ चेतावनी देता है कि एआई में संबोधित न किए गए एकभाषी पूर्वाग्रह डिजिटल विभाजन को गहरा करते हैं और न्याय को कमजोर करते हैं, विशेष रूप से वैश्विक दक्षिण में। एआई सामग्री को केवल किसी अन्य भाषा में अनुवादित करने से परे सच्चा न्याय किसे आवश्यक मानता है?
+- एआई सामग्री को केवल किसी अन्य भाषा में अनुवादित करने से परे सच्चा न्याय किसे आवश्यक मानता है?
 - स्वचालित मूल्यांकन में भाषाई पूर्वाग्रह दिखाई दे सकता है, जो एक ही तर्क के लिए भी मूल भाषी न होने वाले वक्ताओं को दंडित करता है। यदि आप एआई स्कोरिंग लागू कर रहे हों, तो यह सुनिश्चित करने के लिए आप क्या जाँचेंगे कि वह केवल एक भाषा में सटीक नहीं, बल्कि सभी भाषाओं में निष्पक्ष है?
-- पृष्ठ दिखाता है कि व्यावहारिक हार्डवेयर बाधाओं के भीतर भी क्यूरेटेड कॉर्पस पर मॉडलों को [[llm-training-and-fine-tuning|फाइन-ट्यून]] करके कम-संसाधन वाली भाषाओं की सेवा की जा सकती है। दक्षता और मॉडल द्वारा कम-संसाधन वाली भाषा को कितनी वफादारी से संभाले जाने के बीच आप कौन-से समझौते अपेक्षित करेंगे?
+- व्यावहारिक हार्डवेयर बाधाओं के भीतर भी क्यूरेटेड कॉर्पस पर मॉडलों को [[llm-training-and-fine-tuning|फाइन-ट्यून]] करके कम-संसाधन वाली भाषाओं की सेवा की जा सकती है। दक्षता और मॉडल द्वारा कम-संसाधन वाली भाषा को कितनी वफादारी से संभाले जाने के बीच आप कौन-से समझौते अपेक्षित करेंगे?
 - बहुभाषी एआई को अनुवाद से आगे बढ़कर सांस्कृतिक रूप से प्रासंगिक शिक्षाशास्त्र को प्रतिबिंबित करना चाहिए — ऐसी सामग्री जो भाषाई रूप से *और* संदर्भगत रूप से उपयुक्त हो। यदि स्थानीय संदर्भ और संस्कृति को नज़रअंदाज़ किया जाए, तो पूर्णतः अनुवादित सामग्री किस प्रकार किसी शिक्षार्थी के लिए असफल हो सकती है?
 
 ## परिचय
@@ -52,6 +56,10 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 बहुभाषी एआई को अनुवाद से आगे बढ़कर [[culturally-relevant-pedagogy|सांस्कृतिक रूप से प्रासंगिक शिक्षाशास्त्र]] को प्रतिबिंबित करना चाहिए — ऐसी सामग्री बनाना जो भाषाई और संदर्भगत रूप से उपयुक्त हो। [[llm-cultural-relevance-k12|के-12 में एलएलएम सांस्कृतिक प्रासंगिकता]] और [[scaffolding-critical-engagement-genai-minority-students|अल्पसंख्यक छात्रों में जनरेटिव एआई के साथ महत्वपूर्ण संलापन]] के अध्ययन दर्शाते हैं कि भाषाई और सांस्कृतिक संरेखण यह निर्धारित करता है कि छात्र वास्तव में लाभान्वित होते हैं या नहीं। संबोधित न किए जाने पर, एआई में एकभाषी पूर्वाग्रह [[digital-divide]] को गहरा करते हैं और [[global-south|वैश्विक दक्षिण]] भर में [[equity-in-ai-education|न्याय]] को कमजोर करते हैं।
 
 ट्रांसलेग्वेजिंग एक उपलब्धता है जो जनरेटिव [[conversational-ai|चैटबॉट]] जोड़ते हैं और पहले के भाषा उपकरणों में नहीं थी। 24 अध्ययनों की [[meta-analysis-systematic-review|व्यवस्थित समीक्षा]] में, शिक्षार्थियों ने अपनी भाषा में संदर्भित वाक्यांश और व्याख्याएँ लक्ष्य भाषा में पुल के रूप में माँगीं, समीक्षक इस उपयोग को पुनः पैकेज किए गए रूप के बजाय नई उप-क्षमता के रूप में वर्गीकृत करते हैं ([[genai-chatbots-language-learning-affordances-review-2026|Lopez और Arabadzhy (2026)]])।
+
+उपकरण ओनबोर्डिंग की भाषाई लागत मापने योग्य है: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari एट अल. (2026)]] ने पाया कि अंग्रेज़ी सीखने वाले मूल भाषी वक्ताओं की तुलना में किसी स्कैफोल्डेड एजेंट-निर्माण ट्यूटोरियल पर काफी अधिक समय बिताते हैं, जबकि खुले रूप में डिज़ाइन किए गए कार्य में कोई अंतर नहीं दिखा।
+
+चार भाषाओं के रोज़मर्रा के उपयोग वाले संदर्भों में भी अंग्रेज़ी हावी है। क्यूरासाओ और अरूबा के 42 छात्रों में से दो-तिहाई ने एआई के लिए अंग्रेज़ी को अपनी पसंदीदा भाषा बताई, और केवल GPT सत्रों में ही बातचीत स्थानीय होते पापियामेंटु की ओर रुख हुआ ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush एट अल. (2026)]])।
 
 ## मूल्यांकन पूर्वाग्रह
 

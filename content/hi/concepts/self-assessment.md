@@ -1,7 +1,7 @@
 ---
 title: स्व-मूल्यांकन
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

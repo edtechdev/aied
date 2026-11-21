@@ -1,7 +1,7 @@
 ---
 title: "प्रेरणा"
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-07T18:51:24-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
 connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
@@ -51,7 +55,11 @@ connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-s
 
 - **समान प्रतिपुष्टि-गुणवत्ता का अर्थ समान प्रेरणात्मक प्रभाव नहीं है।** 312 प्रथम-वर्ष के लेखकों वाले तीन-शाखा RCT में AI-जनित और प्रशिक्षक प्रतिपुष्टि ने संशोधित निबंधों को समान अंतर से सुधारा: d = 0.60 और 0.59, पूर्व-निर्धारित ±0.35 SD पट्टी के भीतर समतुल्य। फिर भी प्रशिक्षक प्रतिपुष्टि ने AI प्रतिपुष्टि से अधिक आंतरिक प्रेरणा बढ़ाई (5.16 बनाम 4.90, d = 0.31), और स्रोत के साथ अनुभूत संबंधता ने उस अंतर की मध्यस्थता की (अप्रत्यक्ष 0.25, 95% CI [0.12, 0.40]) जिसमें लगभग कोई प्रत्यक्ष प्रभाव शेष नहीं रहा ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu et al. (2026)]])। प्रदर्शन प्रतिपुष्टि-संलग्नता के माध्यम से चला, आत्म-प्रभावकारिता के माध्यम से नहीं, जिसका अप्रत्यक्ष पथ उल्लेखनीय नहीं था। जहाँ Bassner परीक्षण ने स्वायत्तता को उत्तर-आपूर्ति से अलग किया, यह अध्ययन आउटपुट-गुणवत्ता स्थिर रखता है और प्रेरणात्मक अंतर को इस बात में ढूँढता है कि शिक्षार्थी किसे उत्तर दे रहा है।
 
+- **संलग्नता-आवृत्ति, पूर्व दक्षता नहीं, प्रेरणा की भविष्यवाणी करती है।** 310 विद्यार्थियों के 12-सप्ताह के EFL अध्ययन में, उपयोग-आवृत्ति प्रेरणा का एकमात्र सार्थक पूर्वानुमानक थी (β = .46, विभिन्नता का 20.4%), और पूर्व दक्षता तथा चिंता को असार्थक मानकर हटा दिया गया ([[mekheimer-motivation-ethics-trust-efl-2026|Mekheimer और Fageeh (2026)]])। लेखक इसे एक लोकतांत्रिक प्रभाव मानते हैं: लाभ उन्हें मिले जिन्होंने उपकरणों का उपयोग किया, उन्हें नहीं जो सबसे मज़बूत होकर आए।
+
 यह कि पाठक AI की ओर क्यों बढ़ता है, स्वयं एक मापने योग्य चर है: AIR स्केल GenAI-सहायित पठन के चार कारणों को अलग करता है — कार्य-केंद्रित, Feel-good, अनुवाद और कम-प्रयास — और केवल कम-प्रयास, यानी AI का उपयोग थके या विच्छिन्न अवस्था में करना, संज्ञान की आवश्यकता से नकारात्मक रूप से संबंधित था (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]])।
+
+- **दो संक्षिप्त स्केल सीखने के मूल्य को उससे अलग करते हैं कि बिना उपकरण के उसे सीखने में सक्षम महसूस करना।** 882 अमेरिकी स्नातक विद्यार्थियों में, AI संदर्भों में सीखने का मूल्य और सीखने की आत्म-प्रभावकारिता भिन्न कारक थे, दोनों AI उपयोग से नकारात्मक रूप से जुड़े थे, और मिलकर उन्होंने AI उपयोग के प्रयास-व्यय से नकारात्मक संबंध का आधे से अधिक हिस्सा वहन किया ([[mirpour-learning-value-self-efficacy-ai-scales-2026|Mirpour & Behdarvandirad (2026)]])।
 
 **AI-माध्यमित संलग्नता में प्रेरणा** यह जाँचता है कि प्रेरणात्मक गुणवत्ता (केवल मात्रा नहीं) AI के साथ कैसे बदलती है। **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** ने [[generative-ai|जनरेटिव AI]] के साथ संलग्नता का अध्ययन करने के लिए आत्मनिर्णय सिद्धांत को [[network-analysis|epistemic network analysis]] के साथ जोड़ा। **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** ने एक वर्ष के AI पाठ्यक्रम में **2,086 [[k-12|माध्यमिक]] विद्यार्थियों** के latent transition analysis के माध्यम से प्रेरणा का विकासात्मक रुपरेखांकन किया, और तीन स्थिर प्रोफ़ाइल पाईं (विच्छिन्न, विकासशील, आत्मनिर्धारित) तथा यह कि आत्मनिर्धारित प्रोफ़ाइल तक पहुँचने से सबसे बड़ी [[ai-literacy]] प्रगति की भविष्यवाणी हुई। **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** ने लक्ष्य-निर्धारण सिद्धांत का उपयोग **758 [[higher-ed|विश्वविद्यालय]] [[multilingual-learning|अंग्रेज़ी शिक्षार्थियों]]** के साथ किया, और दिखाया कि **शिक्षक सहयोग** AI-सहायित संलग्नता को मुख्य रूप से महारत-अभिमुख और प्रदर्शन-अभिमुख लक्ष्यों के माध्यम से चलाता है (अभिमुख लक्ष्य दिशाएँ, परिहार नहीं)। मिलाकर ये अध्ययन दिखाते हैं कि AI संदर्भों में प्रेरणा विकासात्मक और सामाजिक रूप से सहारा पाने वाली दोनों है — यह समय के साथ बदलती है और केवल उपकरण डिज़ाइन के बजाय शिक्षक सहयोग तथा लक्ष्य फ़्रेमिंग का जवाब देती है।
 
@@ -75,6 +83,8 @@ connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-s
 - **शिक्षकों के GenAI आनंद की जड़ आत्म-प्रभावकारिता है।** 434 सेवारत शिक्षकों के एक PLS-SEM अध्ययन में, आत्म-प्रभावकारिता मॉडल का एकमात्र बाह्य चर थी और इसका सबसे बड़ा प्रभाव कल्पित आनंद पर था (β = 0.805, f² = 1.839), जो बदले में कल्पित उपयोगिता और उपयोग में सरलता को बढ़ावा देता है ([[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez et al., 2026]])।
 
 **प्रयास विरोधाभास और सहायता के दुष्चक्र।** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] तर्क देते हैं कि प्रेरणा को AI केवल सहायता या बाधा नहीं देता बल्कि उसे पुनर्वितरित करता है: मनुष्य प्रायः कम प्रतिरोध का मार्ग चुनते हैं, फिर भी वे प्रयास भी चाहते हैं — प्रयास विरोधाभास — क्योंकि प्रयास संकेत देता है कि कार्य महत्वपूर्ण हैं और क्योंकि उत्पाद के बजाय प्रक्रिया से जुड़ा पुरस्कार प्रयास और दृढ़ता की प्रवृत्ति बढ़ाता है। इससे दो दावे निकलते हैं। पहला, प्रयास–अर्थ संबंध एक उल्टा U है, इसलिए प्रेरणात्मक लक्ष्य मध्यम घर्षण है, और घर्षणरहित AI का खतरा बहुत कम घर्षण में जाकर पड़ना है। दूसरा, एक दुष्चक्र: जैसा-जैसा AI किसी क्षेत्र में प्रयास को बदलता है, वहाँ प्रयास के प्रेरणात्मक लाभ घटते हैं, जिससे उपयोगकर्ता AI पर अधिक निर्भर होते हैं, जो प्रेरणा को और घटाता है। वे पूरक और विकल्प को विकासात्मक चरण से भी अलग करते हैं — प्रारंभिक चरणों के शिक्षार्थी उन अनुभवों को छोड़ने का जोखिम उठाते हैं जो दृढ़ता बनाते हैं, जबकि स्थापित कौशल वाले AI का उपयोग समय बचाने के लिए कर सकते हैं ([[desirable-difficulties]], [[self-efficacy]])।
+
+[[motivational-gain-trumping-cognitive-offloading-2026|Wang, Guo और Gong, 2026]] उस चक्र के दोनों पक्षों को मिलाकर तौलते हैं और पाते हैं कि वे लगभग संतुलित हैं: जहाँ AI उपयोग ने विद्यार्थियों की सीखने की प्रेरणा बढ़ाई, वहाँ समीक्षात्मक सोच सुधरी, और जहाँ यह सोच का विकल्प बना, वहाँ समीक्षात्मक सोच उतनी ही कम हुई। इसका अर्थ है कि प्रेरणात्मक लाभ एक वास्तविक लाभ है जिसे निर्भरता रद्द कर सकती है, न कि अति-निर्भरता के बारे में ढील देने का कारण।
 
 **साहित्य प्रेरणा को इसकी कोई सिद्धांत के बिना मापता है।** 2003 से 2025 तक के 156 अध्ययनों के एक [[meta-analysis-systematic-review|स्कोपिंग समीक्षा]] में 133 (85.3%) किसी विशिष्ट प्रेरणा सिद्धांत से निर्देशित नहीं थे, सबसे आम चर एक सामान्यीकृत शैक्षणिक प्रेरणा था (n = 89), और 88 अध्ययन (56.4%) एक ही राष्ट्रीय संदर्भ से थे ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]])।
 

@@ -1,7 +1,7 @@
 ---
 title: "वर्चुअल और ऑगमेंटेड रियलिटी (VR/AR)"
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,13 +9,17 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
 connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
@@ -69,7 +73,9 @@ VR/AR के लिए सबसे मजबूत प्रमाण तुल
 
 प्रति-प्रमाण उतना ही सूचनाप्रद है। विकलांगता वाले [[inclusive-learning|विद्यार्थियों]] के लिए AI-आधारित हस्तक्षेपों के पहले मेटा-विश्लेषण में — 29 अध्ययन, 239 प्रभाव आकार, मध्यम समग्र प्रभाव g = 0.588 — बुद्धिमान VR प्रणालियों ने g = 0.528 दिया, **सांख्यिकीय रूप से सार्थक नहीं**, जबकि कंप्यूटर सॉफ़्टवेयर 0.959 तक पहुँचा और रोबोट 0.509। प्रकाशन पक्षपात मौजूद था और ट्रिम-एंड-फिल ने समग्र आकलन को g = 0.269 तक घटा दिया। पैटर्न यह नहीं कि विशदता विफल होती है, बल्कि यह कि इसके प्रभाव छोटे, विषम, और इस बात के प्रति संवेदनशील होते हैं कि विशेष हस्तक्षेप को कैसे डिज़ाइन और तुलना की गई थी।
 
-ज्ञान आधार में सबसे स्पष्ट नकारात्मक परिणाम किसी स्टूडियो तैनाती से आता है, माध्यमों की तुलना से नहीं: एक 27-विद्यार्थी वास्तुकला डिज़ाइन स्टूडियो में, GenAI और बहु-उपयोगकर्ता XR पाइपलाइन का उपयोग करने वाली टीमों ने डिज़ाइन [[self-efficacy]] आत्मविश्वास (β = −1.675) और परिणाम अपेक्षा (β = −2.088) में सामान्य पाठ्यक्रम कार्यप्रवाह पर काम करने वाली टीमों की तुलना में अधिक गिरावट दिखाई, बिना अपनी प्रस्तुतियों के विशेषज्ञ पैनल रेटिंग में कोई सार्थक अंतर ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]])। लेखक इसे वास्तविक घर्षण के साथ चरण-निर्भर पूरकता के रूप में समझाते हैं — अस्थायी विचारों को बाहरीकृत करने के लिए GenAI, स्थानिक और स्केल मूल्यांकन के लिए XR — साथ ही नियंत्रण, विमीय-निष्ठा, साझा-ध्यान और गति-सुविधा की समस्याएँ, यह एक अनुस्मारक कि विशद उपकरणन क्षमता के साथ-साथ अंतःक्रिया लागतें भी जोड़ते हैं।
+सबसे स्पष्ट नकारात्मक परिणाम किसी स्टूडियो तैनाती से आता है, माध्यमों की तुलना से नहीं। एक 27-विद्यार्थी वास्तुकला डिज़ाइन स्टूडियो में, GenAI और बहु-उपयोगकर्ता XR पाइपलाइन का उपयोग करने वाली टीमों ने डिज़ाइन [[self-efficacy]] आत्मविश्वास (β = −1.675) और परिणाम अपेक्षा (β = −2.088) में सामान्य पाठ्यक्रम कार्यप्रवाह पर काम करने वाली टीमों की तुलना में अधिक गिरावट दिखाई, बिना अपनी प्रस्तुतियों के विशेषज्ञ पैनल रेटिंग में कोई सार्थक अंतर ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]])। लेखक इसे वास्तविक घर्षण के साथ चरण-निर्भर पूरकता के रूप में समझाते हैं — अस्थायी विचारों को बाहरीकृत करने के लिए GenAI, स्थानिक और स्केल मूल्यांकन के लिए XR — साथ ही नियंत्रण, विमीय-निष्ठा, साझा-ध्यान और गति-सुविधा की समस्याएँ, यह एक अनुस्मारक कि विशद उपकरणन क्षमता के साथ-साथ अंतःक्रिया लागतें भी जोड़ते हैं।
+
+**साहित्य युवा और बिखरा हुआ है।** AI-सक्षम VR STEM शिक्षा का एक ग्रंथ-मिति मानचित्रण पाया कि 2005 से 2025 के बीच Dimensions में 241 प्रकाशन थे, लेकिन उनमें से 84.6% 2023–2025 में प्रकाशित हुए, और वृद्धि-मोड़ महामारी के समय नहीं बल्कि 2023 में था ([[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan et al., 2026]])। उद्धरण-प्रदर्शन मज़बूत था: क्षेत्र-सामान्यीकृत स्कोर वाले 127 प्रकाशनों में से 92 वैश्विक औसत पर या उससे ऊपर थे। हालाँकि क्षेत्र की सामाजिक संरचना पतली थी: 789 लेखकों में से 774 केवल एक पेपर पर श्रेय पाए और 209 स्थानों में से 185 एक बार दिखे। ऊपर के प्रभाव-अध्ययनों को तौलते पाठक के लिए यही संरचना चेतावनी है: प्रमाण का अधिकांश भाग हाल का है, और कुछ ही शोध-समूहों ने निरंतर कार्यक्रम जमा किए हैं।
 
 ## निष्ठा, उपस्थिति और प्रामाणिकता अंतराल
 

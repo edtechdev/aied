@@ -1,7 +1,7 @@
 ---
 title: "भाषण और वॉइस प्रौद्योगिकियाँ"
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

@@ -1,19 +1,23 @@
 ---
 title: "मिश्रित-विधियों से संशोधन"
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
 connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
@@ -72,3 +76,4 @@ connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2
 - **"मिश्रित विधियाँ AI शिक्षा अनुसंधान में एक संकीर्ण विकल्प हैं।"** **394 GenAI उच्च-शिक्षा अध्ययनों** में मिश्रित विधियाँ **सबसे सामान्य अनुसंधान डिज़ाइन (213 अध्ययन, 54%)** थीं, उनके बाद मात्रात्मक (109, 28%) और गुणात्मक (72, 18%)। क्षेत्र का प्रमुख डिज़ाइन वह नहीं है जो उसकी कार्यविधिक बहसें मान लेती हैं।
 - **"अवलोकन और साक्षात्कार प्रमाण किसी प्रणाली-दावे को वहन कर सकते हैं।"** प्रणाली अवलोकन और [[administrator|प्रशासक]] चर्चाओं को **आठ सेमेस्टरों में 8,708 विद्यार्थियों के चार-वर्षीय यादृच्छिक मूल्यांकन** के साथ रखना, जो **0.05 मानक विचलन** के प्रभाव पकड़ने में सक्षम था, दिखाता है कि गुणात्मक शाखा अकेले क्या नहीं कर सकती: किसी छोटे प्रभाव का विश्वसनीय पता लगाना। विधियों को मिलाना शक्ति को एक शाखा से दूसरी में स्थानांतरित करने का उपाय नहीं है।
 - **"त्रिकोणीकरण का अर्थ है कि दो कमज़ोर विधियाँ मिलकर एक मजबूत दावा बनाती हैं।"** इस युग्मन का मूल्य यह है कि प्रत्येक शाखा भिन्न प्रश्न का उत्तर देती है। जो डिज़ाइन दोनों चलाकर गुणात्मक निष्कर्ष को मात्रात्मक की पुष्टि के रूप में प्रस्तुत करता है, उसने त्रिकोणीकरण नहीं किया, उसने पुनरुक्ति की।
+- **अभिसरण एक प्रवेश-नियम भी हो सकता है, केवल वर्णनात्मक नहीं।** [[liu-auditable-assessment-preservice-2026|लिउ (2026)]] ने किसी पुनर्रचना को प्राथमिकता तभी गिना जब वह पाँच स्वतंत्र स्रोतों में से कम से कम दो में और एक क्रियान्वयन-उन्मुख स्रोत में दिखा, इसलिए केवल अनुभूति अकेले उसे बढ़ावा नहीं दे सकती थी।

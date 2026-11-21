@@ -1,20 +1,24 @@
 ---
 title: "करियर विकास और तैयारी"
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
 connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
@@ -61,6 +65,7 @@ connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-em
 - **सैद्धांतिक आधार।** [[kim-ai-anxiety-comprehensive-analysis|एआई चिंता का व्यापक विश्लेषण]] **एआई द्वारा प्रतिस्थापित होने के भय** को एआई चिंता का एक प्रमुख चालक पहचानता है — यही करियर आयाम है जिससे यह अवधारणा सीधे निपटती है।
 - **AI-मुक्त नियुक्ति-स्क्रीन वह प्रमाण देना बंद कर देती हैं जो काम माँगता है।** 23 भारतीय इंजीनियरिंग छात्रों और हाल के स्नातकों के साक्षात्कारों में, एक को छोड़कर सभी ने उन प्लेसमेंट स्क्रीनों की तैयारी के लिए AI का उपयोग किया जिन्होंने उसे बाहर रखा था, जबकि स्नातकों ने ऐसे कार्यस्थलों का वर्णन किया जो पहले दिन से AI की अपेक्षा करते हैं, इसलिए सिग्नलिंग सिद्धांत पर AI की सहायता से बना CGPA अब उम्मीदवारों को लागत के आधार पर अलग नहीं करता ([[ai-free-gates-engineering-students-india-2026|Goutham और Gu (2026)]])।
 - **संकाय AI से क्या हटाने की अपेक्षा करते हैं, और वह क्या नहीं है।** AI-केंद्रित [[engineering-education|इंजीनियरिंग]] विभाग के दस साक्षात्कारों में संकाय इस पर असहमत रहे कि जनरेटिव AI काम को कैसे नया रूप देगा, उन्होंने कोडिंग, [[writing-education|लेखन]] और सूचना-कार्य को निकट-अवधि में संवेदनशील बताया, पर उन अपेक्षाओं के लिए कोई श्रम-बाज़ार साक्ष्य नहीं दिया ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]])।
+- **एलएलएम करियर सलाह में पश्चिमी डिफ़ॉल्ट होता है।** दस अफ़्रीकी देशों में एंट्री-लेवल कंप्यूटिंग नौकरियों के लिए क्या आवश्यक है, इससे पूछे जाने पर छह मॉडलों ने केवल 35.4% समय स्थानीय पारिस्थितिकी तंत्र, भाषा आवश्यकताओं और राष्ट्रीय नीति को पहचाना, इसलिए तकनीकी सलाह चली जाती है पर संदर्भ नहीं ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn और Berhane, 2026]])।
 
 ## करियर तैयारी को एक सुरक्षात्मक और विकासात्मक लक्ष्य के रूप में
 
@@ -75,3 +80,7 @@ connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-em
 - **"AI की चिंता एक सामान्य प्रवृत्ति है जिसे आश्वासन से दूर किया जा सकता है।"** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] SEM के माध्यम से पुष्टि करते हैं कि AI की चिंता **करियर अनुकूलन-क्षमता के क्षरण से होकर करियर निर्णयों को बाधित करती है (कुल प्रभाव का 63.35%)**। क्रियाविधि विशिष्ट है: चिंता अनुकूलन की क्षमता हटाकर काम करती है, इसलिए भावनाओं को लक्षित आश्वासन उस मध्यस्थ को चूक जाता है जो प्रभाव ढोता है।
 - **"करियर अनुकूलन-क्षमता तकनीकी योग्यता के मुकाबले गौण कोमल कौशल है।"** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] दिखाते हैं कि करियर अनुकूलन-क्षमता **AI की चिंता घटाती है**, जिससे वह परवर्ती परिणाम नहीं बल्कि पूर्ववर्ती हस्तक्षेप बनती है। अनुकूलनशीलता बनाना क्रियाविधि को संबोधित करता है; उसे सुविधा मानना मध्यस्थ को अक्षुण्ण छोड़ देता है।
 - **"AI के बारे में चिंता समान रूप से वितरित है।"** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] पाते हैं कि AI की चिंता और AI के प्रति नकारात्मक दृष्टिकोण **1,057 छात्रों** में स्नातक-पश्चात नौकरी-खोज की चिंता का पूर्वानुमान करते हैं, और **महिलाओं तथा सामाजिक-विज्ञान के छात्रों** के लिए स्वरूप भिन्न हैं। एकसमान हस्तक्षेप सहायता का गलत आवंटन करता है।
+
+एक कार्यक्रम-स्तरीय ढाँचा संस्थागत चरणों को स्पष्ट करता है, हालाँकि इसका कार्यक्रम के रूप में मूल्यांकन नहीं किया गया है। [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] छह चरण प्रस्तावित करता है: संवेदन (sensing), हितधारक-सत्यापन, कार्यक्रम निदान, पाठ्यक्रम पुनर्डिज़ाइन, कार्यान्वयन और क्षमता, तथा परिणाम-समीक्षा। प्रत्येक चरण में एक नामित निर्णय-अधिकार और एक उत्तरदायी आउटपुट होता है, और एआई चार सीमित सहायता कार्यों तक सीमित है: श्रम-बाज़ार सूचना में पैटर्न-डिटेक्शन, क्षमता-मैपिंग, मानव समीक्षा के लिए पाठ्यक्रम विकल्पों की उत्पत्ति, और कार्यान्वयन संकेतकों की निगरानी। इसका मूल्य यह है कि यह उन शासन चरणों का नाम बताता है जिन्हें एक करियर-तैयारी रणनीति आमतौर पर निहित ही रहने देती है।
+
+1,445 चीनी विश्वविद्यालय छात्रों के एक सर्वेक्षण में उपयोगिता-विश्वास से होकर एआई उपयोग तक और फिर करियर-अन्वेषण तक का मार्ग देखा गया। जनरेटिव एआई की कथित उपयोगिता ने उपयोग का β = 0.569 पर पूर्वानुमान लगाया, जबकि करियर सेल्फ-इफिकेसी ने इसे केवल β = 0.082 पर पूर्वानुमान लगाया। इसके बाद उपयोग का करियर-अन्वेषण व्यवहार से β = 0.423 पर संबंध था, सेल्फ-इफिकेसी अन्वेषण का सबसे मज़बूत संज्ञानात्मक पूर्वानुमान (β = 0.285) ही रही, और मॉडल ने अन्वेषण में 50.5% भिन्नता की व्याख्या की ([[lu-career-cognitions-genai-exploration-2026|Lü एट अल. (2026)]])। अप्रत्यक्ष मार्ग सांख्यिकीय और तिर्यक-अनुदैर्ध्य (cross-sectional) हैं, लबादी (longitudinal) नहीं।

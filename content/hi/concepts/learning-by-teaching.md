@@ -1,7 +1,7 @@
 ---
 title: पढ़ाकर सीखना
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,13 +9,17 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
 connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
@@ -61,6 +65,8 @@ LLM-आधारित सिखाने योग्य एजेंट के
 - **[[socrates-students-instructors-llms-lbt-2025|इंजीनियर किए गए ज्ञान अंतराल]]** (Yang et al.) ऐसी समस्याएँ डिज़ाइन करते हैं जिन्हें LLM केवल उस ज्ञान के बिना हल नहीं कर सकता जो केवल छात्र के पास है, जिससे पढ़ाना एक आवश्यकता बन जाता है और LLM-के-रूप में-ट्यूटर उपयोग की निष्क्रिय अति-निर्भरता का मुकाबला होता है।
 - **Explique के प्रशिक्षु (apprentice) बाधाएँ** (Wang et al.) शिष्य को निर्देश देती हैं कि वह (a) नौसिखिया बना रहे, (b) जब तक छात्र की व्याख्या सही न हो जाए स्पष्टीकरण माँगता रहे, और (c) लक्ष्य व्याख्या कभी न खोले — और उन छात्रों का *विरोध* करे जो भूमिकाएँ उलटकर शिष्य से वापस समझवाना चाहते हों।
 - **अनलर्निंग फ़ॉलिबिलिटी का एक वज़न-स्तरीय मार्ग है।** मशीन अनलर्निंग Mistral-7B में 16 लक्षित ज्ञान घटकों को दबाती है, जिससे सटीकता लगभग 0.75 (10% विस्मरण अनुपात पर) से घटकर 40% पर 0.5 से नीचे चली जाती है, जबकि आधार मॉडल लगभग 0.85 के पास बना रहता है। दबाया गया ज्ञान पर्यवेक्षित पुनःसीखने और कोच-निर्देशित संवाद के माध्यम से लौट आता है, इसलिए शिष्य का ज्ञान स्तर एक घोंघे (dial) की तरह है, एक दावे की तरह नहीं ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]])।
+
+- **पर्यवेक्षण ही शिष्य का कार्य है।** एक दो-पाठ्यक्रम डिज़ाइन केस में, छात्र एक सामान्य-उद्देश्य सहायक को नियुक्त करते हैं, उसे परिचित कराते हैं और उसका कोचिंग करते हैं, फिर दस्तावेज़ करते हैं कि उसने क्या गलत किया; शिक्षक रिपोर्ट करते हैं कि उपकरण को परंपराएँ समझाने से उन परंपराओं को छात्र के लिए स्पष्ट हो गया ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]])।
 
 ## प्रश्न पूछना, स्व-नियमन और सक्रिय सीखना
 

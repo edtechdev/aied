@@ -1,13 +1,13 @@
 ---
 title: "मैं अपने पाठ्यक्रम में एआई नकल कैसे कम कर सकता हूँ?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-15T16:10:45-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

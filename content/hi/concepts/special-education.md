@@ -1,10 +1,10 @@
 ---
 title: "विशेष शिक्षा"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 translation_of: concepts/special-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: शिक्षा में कहानी कथन
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,13 +9,17 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
 connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
@@ -28,7 +32,7 @@ connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobud
 ## विचार करने योग्य प्रश्न
 
 - किसी पाठ या अवधारणा की याद करें जो आपको इसलिए ताज़ा याद है क्योंकि वह कहानी के रूप में आई थी। उस कथाने ने क्या जोड़ा जो एक साधारण व्याख्या ने नहीं जोड़ा — और क्या यह शक्ति एआई या रोबोट को सौंपी जाने पर भी बची रह सकती है?
-- पेज उस रोबोट और एलएलएम-माध्यमित कहानी कथन का वर्णन करता है जो शिक्षार्थी की प्रतिक्रिया करता है और सह-निर्माण का समर्थन करता है। आपके अनुसार, जब कहानी किसी व्यक्ति द्वारा सुनाने के बजाय मशीन के साथ मिलकर बनाई जाती है, तो क्या मिलता है — और संभावित रूप से क्या खोया जाता है?
+- रोबोट और एलएलएम-माध्यमित कहानी कथन शिक्षार्थी की प्रतिक्रिया करता है और सह-निर्माण का समर्थन करता है। आपके अनुसार, जब कहानी किसी व्यक्ति द्वारा सुनाने के बजाय मशीन के साथ मिलकर बनाई जाती है, तो क्या मिलता है — और संभावित रूप से क्या खोया जाता है?
 - यदि कहानी कथन जुड़ाव, रचनात्मकता और भावनात्मक संबंध बनाता है, तो शिक्षा में इसका उपयोग कहाँ मनोरंजन से आगे जा सकता है — और कहाँ यह समझ के बदले भावना रखने का जोखिम उठा सकता है?
 - संदर्भित [[research-methods-aied|अनुसंधान]] में एक रोबोट कथावाचक ने कागज़ और पावरपॉइंट की तुलना में व्यवहारगत और संज्ञानात्मक जुड़ाव बढ़ाया। क्या आपको भरोसा है कि यह जुड़ाव सीख में बदलता है, या रोबोट की नयापन ही काम कर रही हो सकती है?
 - आप यह कैसे निर्धारित करेंगे कि शिक्षार्थी एआई-सह-निर्मित कहानी से सचमुच अर्थ बना रहा है या केवल संवादी अनुभव का आनंद ले रहा है?
@@ -37,7 +41,7 @@ connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobud
 
 कहानी कथन [[motivation]], [[student-engagement]] और सीख के [[constructivist]] [[learning-theories|सिद्धांतों]] पर आधारित है। यह [[language-learning]], [[creativity]], [[social-emotional-learning]] और बोध का समर्थन करता है। एआई के युग में, [[llm|एलएलएम-संचालित]] और रोबोट-माध्यमित कहानी कथन सह-निर्माण को सक्षम बनाता है, जिसमें शिक्षार्थी और [[agentic-ai|एआई एजेंट]] मिलकर कहानियाँ बनाते हैं, और शिक्षार्थी की प्रतिक्रिया देने वाली संवादी कथा बनती है।
 
-## ज्ञान आधार के अनुसंधान में कहानी कथन किस प्रकार दिखता है
+## अनुसंधान में कहानी कथन किस प्रकार दिखता है
 
 - **रोबोट-माध्यमित कहानी कथन:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] एक मानव-जैसा संवादी डिजिटल कहानी कथन रोबोट का उपयोग करता है, और कागज़ और पावरपॉइंट विधियों की तुलना में व्यवहारगत और संज्ञानात्मक जुड़ाव में उल्लेखनीय वृद्धि पाता है; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] शिक्षकों को [[curriculum-design|पाठ्यचर्या]] सामग्री से एलएलएम-संचालित परिदृश्य-आधारित कहानी कथन गतिविधियाँ बनाने देता है।
 
@@ -48,6 +52,8 @@ connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobud
 - **एआई के प्रति संतुलन के रूप में डिजिटल कहानी कथन:** जैसे-जैसे [[generative-ai|जनरेटिव एआई]] की चढ़ती चाल है, डिजिटल कहानी कथन को उन भावनात्मक, सांस्कृतिक और कथात्मक क्षमताओं का वाहक के रूप में फिर से परिभाषित किया जा रहा है जो एआई में नहीं हैं। कला और [[design-education|डिज़ाइन शिक्षा]] के एक [[project-based-learning|परियोजना-आधारित अधिगम]] मॉडल में, छात्रों ने स्थानीय सांस्कृतिक विरासत का 92 डिजिटल कहानी कथन कृतियों में [[multimodal]] कथाओं में अनुवाद किया, यह दर्शाते हुए कि एआई के युग में कहानी कथन मानवीय रचनात्मकता को किस प्रकार बनाए रखता है।
 
 - **जनित कथा उत्पन्न करना आसान और सुसंगत रखना कठिन है।** 22 STEM छात्रों के साथ, AI-जनित अंतर्क्रियात्मक कथा ने कथा-स्पष्टता (M = 4.11) और लंबाई (M = 4.14) पर अच्छा मूल्यांकन पाया, पर जुड़ाव तटस्थ मध्यबिंदु (M = 3.08) पर रहा और कथा-सामग्री की सुसंगति सबसे कमज़ोर (M = 2.92) थी ([[ai-generated-interactive-fiction-education-2026]])। सह-निर्माण उस कमज़ोरी को उसी परत पर विरासत में पाता है जहाँ कहानी को अपना काम करना होता है।
+
+- **कथा मूल्यांकन की फ्रेम है, केवल आउटपुट का गंतव्य नहीं।** एक तुर्की प्रीस्कूल में, 22 बच्चों ने उस शिक्षक के साथ चित्र-पुस्तकें बनाईं जो हर छवि-प्रॉम्प्ट लिखती थी। जनित छवियों के बारे में उनके निर्णय कथा-समुचितता के बारे में थे — चार उम्मीदवारों में से कक्षा किसे रखेगी, क्या "पायलट" जैसी अतिरिक्त वस्तु शामिल है, क्या छवि बदसूरत थी क्योंकि अनुरोधित फूल मौजूद नहीं था — ऐसी संभाव्यता-समीक्षाओं के साथ, जैसे "चश्मे वाली तितली नहीं हो सकती" ([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca और Yigit-Gencten, 2026]])। कहानी कथन ने कक्षा को आउटपुट की जाँच सुविधा-सुविधा करने का कारण दिया, जिससे उपकरण के बारे में उनका तर्क ही दिखाई देने लगा।
 
 कहानी कथन [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], और [[educational-robotics]] से जुड़ता है।
 

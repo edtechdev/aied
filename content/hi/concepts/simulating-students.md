@@ -1,7 +1,7 @@
 ---
 title: "छात्रों का अनुकरण"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-17T11:40:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

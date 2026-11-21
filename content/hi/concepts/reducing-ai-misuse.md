@@ -1,7 +1,7 @@
 ---
 title: "AI के दुरुपयोग में कमी"
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: सीखने का अंतरण
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: "फीडबैक साक्षरता"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -18,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
-connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, yuan-genai-feedback-writing-self-regulation-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -36,6 +40,8 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 ## भूमिका
 
 फीडबैक साक्षरता इसलिए मायने रखती है क्योंकि अच्छी तरह से डिज़ाइन किया गया फीडबैक केवल उन्हीं छात्रों की मदद करता है जो उसका अर्थ लगा सकते हैं और उस पर कार्य कर सकते हैं। एक ऐसा छात्र जो यह मूल्यांकित नहीं कर सकता कि AI-जनित फीडबैक सटीक है या नहीं, या जो फीडबैक को किसी ठोस संशोधन में बदलना नहीं जानता, उसी फीडबैक से एक अधिक फीडबैक-साक्षर सहपाठी की तुलना में बहुत कम सीखता है। जैसे-जैसे AI फीडबैक प्रदान करने की प्रक्रिया को नया रूप देता है, यह एक केंद्रीय सीमा शर्त बन गई है कि AI फीडबैक से सीखने में सुधार होगा या नहीं।
+
+[[corbin-recognition-feedback-2026|Corbin, Tai और Flenady (2026)]] मान्यता को साक्षरता से पहले रखते हैं: छात्र को प्रदाता को मार्गदर्शन करने की स्थिति (standing) प्रदान करनी होती है, और उसे उत्तर देने की स्थिति प्राप्त होनी होती है, अन्यथा साक्षरता के लिए काम करने के लिए कुछ नहीं बचता।
 
 ## फीडबैक साक्षरता क्या है
 
@@ -77,6 +83,7 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 - **AI-साक्षरता और [[assessment|मूल्यांकन डिज़ाइन]] के लक्ष्य के रूप में फीडबैक साक्षरता:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond और Nicholls (2025)]] एक प्रक्रिया-पर-कृति मूल्यांकन का उपयोग करते हैं जिसमें छात्र फीडबैक, मनोवैज्ञानिक और AI साक्षरताओं को एक साथ बनाने के लिए एक रूब्रिक के विरुद्ध ChatGPT आउटपुट की समीक्षा करते हैं; [[learner-centered-feedback-ai|शिक्षार्थी-केंद्रित AI फीडबैक]] और [[care-full-feedback-genai|सावधानीपूर्वक फीडबैक डिज़ाइन]] फीडबैक की गुणवत्ता को जुड़ने की शिक्षार्थी की क्षमता से जोड़ते हैं।
 
 - **फीडबैक साक्षरता सिखाई जा सकती है, और AI अभ्यास सामग्री दे सकता है।** एक वैचारिक मार्गदर्शिका में प्रशिक्षक AI कार्य के ऐसे नमूने बनवाते हैं जो सभी, कुछ या कोई भी मानदंड पूरे करते हैं, फिर छात्रों को अनुकरणीय समीक्षा, निर्देशित कक्षा-विश्लेषण और स्वतंत्र मूल्यांकन से गुजारते हैं ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington और Hock (2026)]])।
+- **फीडबैक साक्षरता AI फीडबैक से स्व-नियमन तक का मार्ग है।** 520 चीनी स्नातक छात्रों के दो-लहर अध्ययन में, [[yuan-genai-feedback-writing-self-regulation-2026|Yuan (2026)]] ने पाया कि फीडबैक साक्षरता ने जनरेटिव AI फीडबैक उपयोग और बाद के लेखन स्व-नियमन के बीच के संबंध का 32.4% वहन किया, बनाम 9.1% जो कम लेखन चिंता के माध्यम से हुआ।
 
 ## शिक्षा में AI के लिए फीडबैक साक्षरता क्यों मायने रखती है
 

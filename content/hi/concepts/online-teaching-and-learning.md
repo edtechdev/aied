@@ -1,7 +1,7 @@
 ---
 title: "ऑनलाइन शिक्षण और अधिगम"
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,13 +11,17 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
 connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
@@ -64,6 +68,9 @@ connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assess
 - **पैमाने पर संवादात्मक, संवादी ट्यूटरिंग।** [[conversational-ai]]-आधारित ट्यूटर, जो सिद्ध [[intelligent-tutoring]] तकनीक ([[conversational-ai-tutors-framework|keep/change/center/study ढाँचा]]) पर बने हैं, उच्च-गुणवत्ता, संवाद-आधारित ट्यूटरिंग का वादा करते हैं — छात्रों के विचारों, प्रश्नों और [[misconceptions]] को शामिल करना — जो मानव ट्यूटरिंग से कहीं अधिक स्केलेबल है।
 - **सुगम बनाना और एनालिटिक्स।** AI [[collaborative-learning|ऑनलाइन चर्चाओं]] और [[learning-analytics]] का समर्थन कर सकती है, संलग्नता का पूर्वानुमान लगा सकती है और शिक्षकों को ध्यान आवंटित करने में सहायता कर सकती है। [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] यह भी जोड़ते हैं कि LLM-निर्मित चर्चा सार बड़े अतुल्यकालिक मंचों में नेविगेशनल [[scaffolding|स्कैफ़ोल्ड]] के रूप में काम कर सकते हैं — छात्रों के साथी-जोखिम और bridging सामाजिक पूँजी के नेटवर्क परिस्थितियों को विस्तृत करते हुए, बिना छात्रों या शिक्षकों को सार-संक्षेपण के बोझ में डाले।
 - **जोखिम में ऑनलाइन शिक्षार्थियों के लिए प्रारंभिक-चेतावनी एनालिटिक्स।** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] बताते हैं कि सामग्री-संपर्क लॉग पर व्याख्यायोग्य [[machine-learning|मशीन लर्निंग]] बड़े पैमाने पर ऑनलाइन [[cs-education|प्रोग्रामिंग]] पाठ्यक्रमों में मॉड्यूल-स्तरीय प्रगति का पूर्वानुमान लगाती है और मॉड्यूल समय-सीमाओं से 7–8 दिन पहले dropout ("No submission") परिणामों को फ़्लैग करती है, जिससे ऑनलाइन शिक्षकों को असहभागी छात्रों के साथ [[teacher-role|हस्तक्षेप]] करने के लिए एक ठोस विंडो मिलती है, बजाय असफलता को बाद में खोजने के।
+- 
+**सक्रिय पहुँच अतुल्यकालिक पाठ्यक्रमों में मौजूद जवाबदेही की कमी को पूरा कर सकता है।** दो बड़े ऑनलाइन पाठ्यक्रमों में, साप्ताहिक वैयक्तिक चैटबॉट संदेशों ने 2,483 छात्रों में A/B दर चार अंक बढ़ाई, बिना सामग्री पढ़ाए, यह अनुस्मारकों और ट्यूटरिंग रेफरल के माध्यम से काम करता है ([[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]])।
+
 - **किफ़ायती और तेज़।** AI पारंपरिक लागत के एक अंश में पाठ्यक्रम सामग्री बना सकती है — MAIC ने MOOC पाठ्यक्रम निर्माण को लगभग \$25K/60 घंटे से 2 डॉलर/30 मिनट से कम में कम कर दिया।
 
 ## AI युग में ऑनलाइन शिक्षण की चुनौतियाँ

@@ -1,7 +1,7 @@
 ---
 title: "सहयोगी शिक्षा"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
-connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026, xu-llm-role-configurations-preservice-teachers-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -118,6 +122,8 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 साथी का दर्जा सामाजिक रूप से अर्जित होता है। गणितीय क्षमता निर्णयों में मुश्किल से शामिल हुई। सात विशेषज्ञ शोधकर्ताओं में से प्रत्येक ने Big Five-आधारित व्यक्तित्व वाले एक अनुकूली LLM एजेंट के साथ द्विघात समीकरण हल करने में लगभग बीस मिनट बिताए, फिर साक्षात्कारों में अपने निर्णय समझाए। उन्होंने इसका मूल्यांकन लगभग पूरी तरह व्यवहार पर किया: इसने एक गैर-निर्णयात्मक स्थान बनाया, घोषणा करने के बजाय अनिश्चित रूप से तर्क किया, उपयुक्त अपूर्णता दिखाई, और शिक्षार्थी के विचारों को अक्षुण्ण रखा। [[agentic-ai|एजेंट]] डिज़ाइन के लिए, यह सामान्य प्राथमिकता को उलट देता है — एक सक्षम समाधानकर्ता जो अधिकार के रूप में प्रस्तुत होता है, सहयोगी ढाँचे को कमज़ोर करता है, चाहे उसके उत्तर कितने भी अच्छे हों ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]])।
 
 - अनुकूली समर्थन के लिए अब एक प्रत्यक्ष मेटा-विश्लेषणात्मक अनुमान मौजूद है: 80 लेखों (2004–2023) में रिपोर्ट किए गए 83 प्रायोगिक और अर्ध-प्रायोगिक अध्ययनों में, सहयोगी गतिविधि के अनुरूप ढाला गया समर्थन g = .73, 95% CI [.56, .90] पर समेकित हुआ, व्यक्तिगत ज्ञान के लिए सबसे बड़ा (g = .93) और भावना के लिए सबसे छोटा (g = .28) ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]])।
+
+- **LLM की निर्धारित भूमिका केवल आउटपुट नहीं, सहयोग बदलती है।** 210 प्री-सर्विस शिक्षकों के साथ, [[xu-llm-role-configurations-preservice-teachers-2026|Xu, Lu और Yang (2026)]] ने पाया कि सहायक भूमिका ने AI साक्षरता बढ़ाई और मानसिक भार घटाया, जबकि चुनौतीपूर्ण भूमिका ने उच्च मानसिक प्रयास पर एकीकरण-घनत्व को लगभग दोगुना कर दिया।
 
 ## सामान्य भ्रांतियाँ
 

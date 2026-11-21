@@ -1,7 +1,7 @@
 ---
 title: "शिक्षाशास्त्रीय पैटर्न"
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -24,8 +24,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
 connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
@@ -147,6 +151,14 @@ AI प्रतिक्रिया के बारे में ज्ञा�
 **प्रमाण: परीक्षित, लेकिन नियंत्रित या अनियंत्रित सेटिंग में, सामान्य कक्षाओं में नहीं।** दो शिक्षार्थी एक AI साझा करते हैं और स्पष्ट भूमिकाएँ घूर्णन नियमों के साथ सौंपी जाती हैं; AI आवश्यकतानुसार एक भूमिका अपनाने के लिए विन्यस्त होता है और उसका आउटपुट पूरे समूह को जाता है। एक जोड़ी-प्रोग्रामिंग प्रकार में साझा AI जोड़ी के संयुक्त ध्यान और प्रयास का मॉडल बनाता है, 30 सेकंड पहले तक टूटने की भविष्यवाणी करता है, और कुछ न करने से निर्देशात्मक संकेत तक स्तरित स्कैफोल्ड बढ़ाता है।
 
 26 जोड़ियों के एक भीतर-विषय प्रयोग ने पाया कि प्रतिक्रिया शर्त ने उच्च डिबगिंग सफलता प्राप्त की (t[49.96] = −13.51, p < .0001) और तेज़ी से समाप्त किया (t[44.70] = 4.39, p < .0001), हालाँकि इसमें दोहरी [[sensor-and-gaze-analytics|आँख-ट्रैकिंग]] और प्यूपिलोमेट्री हार्डवेयर चाहिए था और अनियंत्रित जोड़ी कार्य में स्थानांतरण का परीक्षण नहीं हुआ ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]])। 16 समूहों में 58 स्नातक छात्रों के एक अर्ध-प्रयोग ने पाया कि भूमिका डिज़ाइन ने 1–5 SOLO पैमाने पर माइंड-मैप सामग्री स्कोर 3.65 से 4.59 तक बढ़ाए (z = 3.771, p < 0.001) जबकि नोड और शाखा संख्याएँ समान रहीं — लेकिन नियंत्रण समूह के बिना, अभ्यास प्रभावों को बाहर नहीं किया जा सकता ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]])।
+
+### पुनरावृत्त मसौदों के साथ श्रेणीबद्ध सहयोग
+
+**प्रमाण: अभ्यास-वर्णन — एक पहली चलाई, कोई तुलना स्थिति नहीं, कोई मापा परिणाम नहीं।**
+
+छात्र छोटे टीमों में कम से कम दो दस्तावेज़ीकृत चरणों में निबंध लिखते हैं, एक निश्चित शीर्षक सेट में से चुनाव करते हैं, और उत्पाद के साथ-साथ पुनरावृत्ति और सहयोग के प्रमाण पर श्रेणीबद्ध होते हैं; GenAI प्रतिषेध या अनिवार्य नहीं, बल्कि घोषित सीमाओं के भीतर अनुमत है।
+
+लंडन के क्वीन मेरी विश्वविद्यालय में प्रथम-वर्ष के बिज़नेस एनालिस्ट डिग्री अपरेंटिसशिप मॉड्यूल में, 11 स्व-चयनित टीमों में 23 छात्रों ने इसी तरह एक पुनरावृत्त 1,500-शब्द का निबंध लिखा, जिसमें GenAI उत्पन्न पाठ प्रस्तुत करने और संदर्भ-सूची बनाने से प्रतिबंधित था। लेखक एक कार्यक्रम-व्यापी [[pedagogy|शैक्षणिक]] पुनर्डिज़ाइन का वर्णन करते हैं और परिणामों के बजाय उभरती अंतर्दृष्टि की रिपोर्ट करते हैं। उनका दावा है कि निर्देश नहीं, बल्कि अंकन मानदंडों ने प्रक्रिया-प्रमाण को बोझ-वहन करने बनाया, और जहाँ छात्रों ने उपकरण का उपयोग किया, कुछ ने उसके आउटपुट को एक विवादित दावे के रूप में लिया — परीक्षण के लिए प्रति-तर्क, स्वीकार या अस्वीकार करने के लिए संरचनाएँ ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]])।
 
 ### AI-सहायित चर्चा
 

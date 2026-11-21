@@ -1,7 +1,7 @@
 ---
 title: "कानूनी मुद्दे और जोखिम"
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-10-30T08:05:00-04:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,7 +14,7 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-10-28T18:24:42-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

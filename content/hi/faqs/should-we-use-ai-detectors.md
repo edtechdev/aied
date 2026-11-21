@@ -1,9 +1,9 @@
 ---
 title: "क्या हमें एआई डिटेक्टर का उपयोग करना चाहिए?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-11-15T16:06:22-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "भाषा अधिगम"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
 connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
@@ -91,6 +95,8 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai
 - **लागत और कनेक्टिविटी के इर्द-गिर्द पूर्ण चार-कौशल लूप को रूट करें।** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] LLMersion-1 जारी करते हैं, एक स्थानीय-प्रथम प्रोटोटाइप जो उपभोक्ता हार्डवेयर पर शिक्षार्थी के अपने दस्तावेज़ पर सुनना, पढ़ना, बोलना और लिखना काम करता है — एक 1B ट्यूटर 808 MB तक क्वांटाइज़ होता है और पूरा निवासी स्टैक 4 GB से कम रहता है — और दैनिक अभ्यास के पाँच वर्षों की लागत लगभग \$18 बिजली पर आँकता है, \$1,200 क्लाउड सदस्यता के विपरीत। कोई शिक्षार्थी परिणाम रिपोर्ट नहीं किए गए हैं और उच्चारण फीडबैक केवल खंडात्मक है।
 
 **अनुवाद छात्रों को सतही सुधार से हटाया जा सकता है।** एक समाचार-अनुवाद पाठ्यक्रम में, [[xian-process-visualization-feedback-news-translation-2026|Xian एट अल. (2026)]] ने पाया कि सर्च-इंजन परामर्श सत्र-समय के औसत 15.6% से 27.7% तक बढ़ा (p = 0.020, Holm-सुधारित) और ज्ञान-आधारित खोज 7.2% से 28.8% (p = 0.010)। मशीन-अनुवाद उपयोग 28.5% से 5.1% गिरा बिना महत्व तक पहुँचे (p = 0.338), और अंतरक्रियात्मक AI उपयोग शून्य के औसत पर टिका रहा। उत्तोलक छात्रों को उनकी अपनी प्रक्रिया दिखाना था, किसी उपकरण पर प्रतिबंध नहीं।
+
+Zhang, Aubrey, Wu और Chiu का 48 नियंत्रित अध्ययनों (N = 5196) का संश्लेषण पाता है कि GenAI का लाभ उपस्थिति के बजाय कॉन्फ़िगरेशन पर निर्भर करता है। फीडबैक-और-मूल्यांकन उपयोग ने सबसे बड़ा प्रभाव (g = 1.15) उत्पन्न किया, जबकि निर्देशात्मक एकीकरण के लिए यह g = 0.28 था, और शिक्षार्थी-निर्देशित मोड (g = 0.92) स्वायत्त मोड (g = 0.34) से आगे रहे। पठन में कोई महत्वपूर्ण प्रभाव नहीं दिखा, और बोलने का शीर्ष g = 1.48 तीन चरम आउटलायर हटाने पर g = 0.65 रह गया ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]])।
 
 ## सामान्य भ्रांतियाँ
 

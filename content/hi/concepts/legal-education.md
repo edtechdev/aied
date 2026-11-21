@@ -1,7 +1,7 @@
 ---
 title: "विधि शिक्षा"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: सामाजिक-भावनात्मक अधिगम
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
 connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
@@ -42,6 +46,7 @@ connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrativ
 
 ### सबरन अनुसंधान में कैसे दिखता है
 
+- **सहानुभूति सबरन का भावनात्मक किनारा है, और मापने के लिए सबसे कठिन।** [[empathy]] इसे सिखाने और मापने के साक्ष्य को कवर करता है: भूमिका-अभिनय, वीआर और LLM संवाद सभी स्व-रिपोर्ट स्कोर बढ़ाते हैं, पर्यवेक्षक रेटिंग बने रहती हैं, और कंप्यूटर-विज़न प्रॉक्सी मुस्कुराहट पर उल्टे परिणाम देते हैं। किसी कार्यक्रम के काम करने का प्रमाण मानने से पहले इस साक्ष्य को पढ़ें।
 - **सेक को एआई साक्षरता में एकीकृत करना:** [[sec-ai-literacy-narrative-review-2026|पामक्विस्ट एट अल. का नैरेटिव समीक्षा]] एकीकृत ढाँचा प्रस्तुत करता है जो एआई साक्षरता को सामाजिक-भावनात्मक क्षमताओं के साथ जोड़ता है, और तर्क देता है कि केवल तकनीकी दक्षता अपर्याप्त है — शिक्षकों और छात्रों को एआई-माध्यमित सीखने के वातावरण को नेविगेट करने के लिए तकनीकी और भावनात्मक दोनों बुद्धियों की आवश्यकता है, जो [[personalized-learning|व्यक्तिगत अधिगम]], सहयोग और नैतिक [[student-engagement|सहभागिता]] को बढ़ावा देती हैं।
 
 - **शिक्षक और संबंधगत अभ्यास:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|एआई साक्षरता ढाँचों]] और [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|शिक्षक-छात्र विश्वास]] पर अनुसंधान बताता है कि सबरन सीखने के संबंधगत आयामों (शिक्षक-छात्र और छात्र-छात्र संबंधों) को सहारा देता है, जिन्हें एआई को पूरक बनना चाहिए, प्रतिस्थापित नहीं।

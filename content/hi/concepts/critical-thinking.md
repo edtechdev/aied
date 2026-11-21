@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: "आलोचनात्मक सोच"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-19T09:58:08-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
-connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026]
+connected_articles: [akgun-toker-genai-critical-thinking-transactive-memory-2026, genai-support-threaten-learning-k20-expert-consensus-2026, pearls-epistemic-verification-2026, layer-sensitive-cognitive-offloading-writing-2026, critical-thinking-paradox-genai-learning-2026, pedagogy-ai-mistakes, shaw-nave-cognitive-surrender-2026, cognitive-commons-ai-expertise-regeneration, zhao-genai-higher-order-thinking-meta-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, luo-ibl-patterns-llm-bloom-2026, probing-ai-generated-physics-solutions-2026, student-reception-genai-analogies-computing-2026, daoism-ai-education-philosophy-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ai-overreliance-complex-adaptive-system-2026, lu-ai-multimodal-writing-critical-thinking-2026, lftutor-logical-fallacy-education-2026, caeai-ai-companions-learning-over-performance-2026, davor-ai-supported-learning-higher-order-outcomes-2026, shojaei-genai-dependence-critical-thinking-employability-2026, ren-metacognitive-awareness-genai-reliance-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, vega-baudrit-genai-university-chemistry-education-review-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-dependence-research-creativity-2026, genai-use-critical-thinking-moderation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, motivational-gain-trumping-cognitive-offloading-2026, illmann-gen-cor-log-data-indicators-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -80,6 +84,8 @@ GenAI उपयोग और स्व-रिपोर्ट की गई आ�
 
 - **AI पहुँच का एक सेमेस्टर आलोचनात्मक सोच को सपाट रखा, जबकि चिंतनशील उपयोग उसके साथ चला।** मेलानू, बीगे और किमिग (2026) ने 87 व्यवसाय-सूचना विज्ञान छात्रों पर एक नौ-सप्ताह के पाठ्यक्रम का तीन समानांतर शर्तों (ट्यूटर-फ्रेम वाला AI, बिना मार्गदर्शन वाला AI, और AI नहीं) में तीन बार मापे गया अध्ययन किया। हर समूह में ज्ञान बढ़ा, किसी भी AI शर्त के लिए कोई लाभ नहीं और कोई मैथ्यू प्रभाव नहीं (BF01 = 8.70), जबकि स्व-रिपोर्ट की गई आलोचनात्मक सोच और [[motivation]] स्थिर रही। छात्रों को अलग करने वाली चीज़ चिंतनशील उपयोग थी, अर्थात स्रोतों की जाँच करने और AI आउटपुट को अपनाने से पहले उसे सत्यापित करने का अभ्यास: यह AI शर्त में नियंत्रण समूह से अधिक था (3.72 बनाम 2.82 के माध्य) और अंतिम माप पर आलोचनात्मक सोच की भविष्यवाणी करता था (R² = 0.183, β = 0.43, p < 0.001)। यह परिणाम इस किसी भी अपेक्षा को सीमित करता है कि AI उपयोग का एक पाठ्यक्रम अपने आप में आलोचनात्मक सोच को आगे बढ़ाएगा: [[metacognition|मेटाकॉग्निटिव]] नियमन, उपकरण पहुँच नहीं, वह जगह है जहाँ यह संबंध रहता है, और लेखक टिप्पणी करते हैं कि स्थायी परिवर्तन देखने के लिए एक सेमेस्टर संभवतः बहुत छोटा है। ([[melanou-genai-learning-dynamics-longitudinal-2026|मेलानू सहित 2026]])))
 - **आकलन बढ़ा; औपचारिक निगमन नहीं।** चार-चरणीय AI प्रतिपुष्टि ने तर्कों के मूल्यांकन (Evaluation of Arguments) को 1.74 समायोजित अंक बढ़ाया जबकि निगमन (Deduction) 0.30 चला (p = 0.383), जिससे लाभ औपचारिक तर्क के बजाय दावों को आँकने में रहा ([[structured-genai-feedback-critical-thinking-data-science-2026|यिन सहित (2026)]])।
+
+- **ऑनलाइन तर्क को खोज-व्यवहार से मापा जा सकता है, और वह दो में बँटता है।** खुले वेब पर खोज करते हुए विश्लेषण-योग्य लॉग वाले 459 प्रथम-वर्ष छात्रों में, [[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)]] ने पाया कि प्रश्न-निरूपण और परिणाम-पृष्ठ निरीक्षण अलग-अलग, असहसंबद्ध कारक बनाते हैं, इसलिए एकल अधिग्रहण स्कोर रचना का गलत प्रतिनिधित्व करता है।
 
 ## अन्य अवधारणाओं से संबंध
 

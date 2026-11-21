@@ -1,7 +1,7 @@
 ---
 title: हैलुसिनेशन जोखिम
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,12 +12,16 @@ confidence: high
 methods: [ai-ed-evaluation]
 contributors: [editor]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
 connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
@@ -42,11 +46,15 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 125 अध्ययनों की एक समीक्षा व्यापकता और पहचान-अंतराल पर एक सीमा रखती है: 10–40% की हैलुसिनेशन दरें, जिसमें चिकित्सा विद्यार्थी AI की त्रुटियों को केवल 44–55% मौकों पर पहचानते हैं ([[genai-higher-education-systematic-review-2026|रथनायके (2026)]]).
 
+जोखिम भाषा-निर्भर भी है: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite and Sun (2026)]] ने पाया कि त्रुटि-पहचान अंग्रेज़ी के लिए मज़बूत थी लेकिन ग्रीक और चीनी के लिए कमज़ोर, जिसमें L2 लेखन प्रतिपुष्टि में हैलुसिनेशन और लेखक के आशय की गलत पढ़न शामिल थीं।
+
 **आउटपुट के बाद स्मृति-विकृति।** 2026 के एक प्रयोग में पाया गया कि एक भ्रामक AI सारांश ने केवल गलत सूचना नहीं दी: उसने बदल दिया कि 328 वयस्कों को एक देखे गए वीडियो के बारे में क्या याद रहा। भ्रामक सारांश पढ़ने वालों में से केवल 44.8% ने बाद में महत्वपूर्ण विवरण सही पहचाना, जबकि सुसंगत सारांश पढ़ने वालों में यह 83.6% था, और यह प्रभाव तब भी बना रहा जब सारांश को मानव-लिखित बताया गया ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger और Kohno, 2026]])। साथी ऑडिट में चूक सबसे सामान्य त्रुटि थी: सभी 20 सारांशों में गलतियाँ थीं, और 95% ने टकराव की घटना को ही छोड़ दिया। अध्ययन ने छात्रों को परखा नहीं, लेकिन यह दिखाता है कि हैलुसिनेशन-जाँच जो पाठ पर समाप्त हो जाती है अधूरी क्यों है: पाठ के जाने के बाद भी त्रुटि पाठक की स्मृति में बनी रह सकती है।
 
 **आकलन-हैलुसिनेशन** विशेष रूप से हानिकारक है। **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** ने पाया कि संज्ञानात्मक कौशलों का निदान करते समय LLM विद्यार्थी के हस्तलेखन में उपस्थित न होने वाली साक्ष्य-उद्धरणों का मनगढ़ापन करते हैं, और 58.5% गलत निदानों के साथ साक्ष्यात्मक आत्मविश्वास के झूठे दावे होते हैं। **[[llm-fallacy-misattribution]]** ने [[llm]] तर्क में साक्ष्यों की व्यवस्थित अति-आरोपण का दस्तावेज़ीकरण किया — मॉडल वहाँ साक्ष्यात्मक समर्थन का दावा करते हैं जहाँ कोई नहीं है। दोनों [[ai-ed-evaluation]] और [[knowledge-tracing]] की [[assessment-validity]] संबंधी चिंताओं से जुड़े हैं। [[ivory-psychology-assessment-integrity-2026|आइवरी एट अल. (2026)]] दो विफलता मोड जोड़ते हैं जो तब दिखाई देते हैं जब AI उत्पादन का केवल अंकन किया जाता है, निरीक्षण नहीं: मनगढ़े विशिष्ट तथ्य जो ग्रेडिंग में टिक जाते हैं — एक ऐसा समीक्षित शोधपत्र जो अस्तित्व में नहीं है, जिसमें एक अनसुलझे DOI के साथ, और एक नमूना आकार जो 378 बताया गया जबकि स्रोत ने 329 कहा था — और एक ही प्रतिक्रिया के भीतर स्व-विरोधाभास, जहाँ मॉडल ने तर्क द्वारा सही विकल्प तक पहुँचा और फिर अपने अंतिम सारांश में एक भिन्न विकल्प बताया। क्योंकि संदर्भ-सूचियों की वर्तमान में शुद्धता के बजाय प्रारूपण के लिए जाँच की जाती है, यह त्रुटि-श्रेणी उत्तीर्ण अंक प्राप्त करती है जबकि उस विद्यार्थी को भटकाती है जो संशोधन के लिए उसी उपकरण का उपयोग करता है।
 
 एक आकलन-डिज़ाइन पायलट में, [[authentic-assessments-generative-ai-pilot-2026|पॉला एट अल. (2026)]] ने मनगढ़े संदर्भ और अवास्तविक समय-आकलन पाए जो बार-बार प्रॉम्प्टिंग के बावजूद टिके और जिन्हें पर्याप्त शैक्षणिक संशोधन की आवश्यकता हुई — शिक्षक-उन्मुख ड्राफ्टिंग उपकरण में हैलुसिनेशन, न कि विद्यार्थी के कार्य में।
+
+**जनन और पुनः-प्रारूपण अलग तरह विफल होते हैं।** परोवस्काइट सौर सेल पर IEEE-शैली की संदर्भ-सूची माँगने पर, ChatGPT ने ऐसी प्रविष्टियाँ लौटाईं जिन्हें लेखकों ने ज़्यादातर हैलुसिनेटेड या गलत रूप से उद्धृत पाया: गलत प्रारंभिक अक्षर, वर्ष, खंड और पृष्ठ, और एक विश्वसनीय-दिखने वाला लेख जिसे ऐसे समूह को आरोपित किया गया जिसने कभी काम नहीं किया था ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]])। बदले में पहले से सत्यापित संदर्भ-सेट को APA में बदलने को कहने पर, वही उपकरण सटीक था और उसने काफ़ी समय बचाया। जोखिम ग्रंथ-सूची-कार्य में नहीं बल्कि स्रोत-खोज में है, जो असाइनमेंट रूब्रिक कह सकती है।
 
 **विश्वसनीयता के संकेत सम्मान को बढ़ा भी सकते हैं।** विपरीत गति तब दिखती है जब किसी अविश्वसनीय आउटपुट को सजाया जाता है: ARMADA वाद-विवाद इंटरफ़ेस में उद्धरण और विश्वसनीयता संकेत जोड़ने से सही प्रारंभिक निर्णय से हटकर गलत AI स्थिति की ओर जाने वाले प्रतिभागियों का हिस्सा 112% बढ़ गया (31.8% बनाम 15.0%), और मैनुअल जाँच में कुछ उद्धृत मामले असंबंधित या काल्पनिक संदर्भों को गलत आरोपित पाए गए ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]])।
 

@@ -1,7 +1,7 @@
 ---
 title: न्यूरोडायवर्सिटी
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,13 +9,17 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
 connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
@@ -85,6 +89,8 @@ icipants डिज़ाइन (17 ADHD, 10 गैर-ADHD) में सभी 
 ## संबंध
 
 न्यूरोडायवर्सिटी [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]] और [[equity-in-ai-education]] से जुड़ता है। यह यह भी बताता है कि [[student-experience]] के लिए AI कैसे तैनात किया जाता है और मूल्यांकन तथा साक्षरता कार्यक्रम कैसे संज्ञानात्मक विविधता में निष्पक्ष बनाए जाते हैं। ये निष्कर्ष अन्य शिक्षार्थी समूहों — भाषा, लिंग, सामाजिक-आर्थिक स्थिति, भूगोल — के साथ कैसे रहते हैं, यह देखने के लिए [[differential-effects-across-learner-groups|शिक्षार्थी समूहों में भिन्न प्रभाव]] देखें।
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh और Natoli की]] ADHD वाले महाविद्यालय छात्रों के लिए AI पर 28 अध्ययनों की समीक्षा साक्ष्य को सहयोग, भविष्यवाणी और नैतिकता में वर्गीकृत करती है। भविष्यवाणी सबसे पतला हिस्सा है: एक पुईलोमीट्रिक (pupillometric) मॉडल AUROC 0.856 तक पहुँचा, जबकि एक SVM वर्गीकर्ता 66.1 से 68.8 प्रतिशत शुद्धता तक, जो नैदानिक उपयोगिता से नीचे है। कार्यपालन-विनिमय नैतिक केंद्र है — ऐसा टूल जो किसी माँग की भरपाई करता है, वह उस अभ्यास को भी समेट सकता है जो उस क्षमता को बनाता ([[executive-function|कार्यपालन]])।
 
 ## सामान्य भ्रांतियाँ
 

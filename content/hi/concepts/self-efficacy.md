@@ -1,7 +1,7 @@
 ---
 title: स्व-प्रभावशीलता
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:50:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
 connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
@@ -41,6 +45,7 @@ connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-pr
 ## स्व-प्रभावशीलता ज्ञान आधार के शोध में कैसे दिखती है
 
 - **जेनरेटिव एआई और एक्सआर स्टूडियो कार्य में गिरावट:** एक 27-छात्र वाले वास्तुकला [[arts-and-media-education|डिज़ाइन स्टूडियो]] में, [[generative-ai|जेनरेटिव एआई]] और बहु-उपयोगकर्ता एक्सआर पाइपलाइन का उपयोग करने वाली टीमों ने डिज़ाइन स्व-प्रभावशीलता आत्मविश्वास में सामान्य कार्यप्रवाह जारी रखने वाली टीमों की तुलना में अधिक सापेक्ष पूर्व-पश्चात गिरावट दिखाई (β = −1.675, p = 0.021) और परिणाम अपेक्षा में भी (β = −2.088, p = 0.002), जबकि उनकी प्रस्तुतियों के अंधे पैनल मूल्यांकन में कोई महत्त्वपूर्ण अंतर नहीं था ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]])। उपकरण-समृद्ध वातावरण प्रभावशीलता विश्वासों को दबा सकते हैं, तब भी जब स्वयं कार्य को समकक्ष माना जाए।
+- **क्षमता में गिरावट ही सीखना हो सकती है।** एक असमकालिक सार्वजनिक भाषण पाठ्यक्रम में, अनुभूत क्षमता 5.63 से गिरकर 5.12 (p < .01) हुई और अच्छा करने में सक्षम होने का विश्वास 6.02 से गिरकर 5.51 (p = .03) हुआ, जिसे [[petricini-ai-literacy-communication-equity-2026|Petricini and Cruz (2026)]] पुनः-अंशांकन (recalibration) के रूप में पढ़ते हैं: सीमा-मामलों (boundary cases) से जूझने ने प्रारंभिक अति-आत्मविश्वास को शांत किया।
 - **एआई स्व-प्रभावशीलता और करियर तैयारी:** [[ai-literacy-career-adaptability-business-2026|एआई तैयारी पर शोध]] बताते हैं कि एआई स्व-प्रभावशीलता एआई साक्षरता और एआई तैयारी के संबंध को मध्यस्थता करती है: साक्षरता तभी तैयारी में अनुवादित होती है जब शिक्षार्थियों को एआई के उपयोग में आत्मविश्वास हो, और स्व-प्रभावशीलता सीधे [[career-development-and-readiness|करियर अनुकूलनशीलता]] की भविष्यवाणी करती है।
 
 - **आत्मविश्वास हमेशा लीवर नहीं होता।** 502 विश्वविद्यालय शिक्षकों के अनुप्रस्थ-काट SEM में तकनीकी स्व-प्रभावशीलता एआई [[well-being|कल्याण]] का एक छोटा भविष्यवक्ता निकला (β = 0.082), जबकि एआई साक्षरता प्रभावी रही (β = 0.713), जिससे यह दावा सीमित होता है कि आत्मविश्वास एआई परिणामों को नियंत्रित करता है: कल्याण के लिए, ज्ञान ने आत्मविश्वास को पीछे छोड़ा ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
@@ -64,6 +69,8 @@ connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-pr
 - **एक सेमेस्टर लंबे [[rct|RCT]] में उपचार प्रभाव नहीं — आत्मविश्वास पाठ्यक्रम समय के साथ बढ़ा:** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer's (2026)]] के मार्केटिंग के सिद्धांत पाठ्यक्रम में 454 स्नातक छात्रों के यादृच्छिक क्षेत्र प्रयोग में, सभी छात्रों के लिए सेमेस्टर के दौरान स्व-प्रभावशीलता बढ़ी (समय प्रभाव β = 0.099, p = 0.0009, Cohen's ƒ2 = 0.025), जबकि न समूह प्रभाव (p = 0.1162) और न ही समूह × समय अंतःक्रिया (p = 0.5306, d = 0.023) महत्त्वपूर्ण थी, इसलिए [[rag|RAG]] चैटबॉट ने कुछ नहीं जोड़ा। एआई-समर्थित पाठ्यक्रमों में आत्मविश्वास की वृद्धि उपकरण के बजाय पाठ्यक्रम की प्रगति के साथ हो सकती है — एक ऐसी संरचना के लिए आरोप का जोखिम जिसे क्षेत्र लगभग पूरी तरह से [[self-report-measures|स्व-रिपोर्ट]] से मापता है।
 - **आत्मविश्वास व्यवहार के विपरीत जा सकता है।** प्रतिस्पर्धी प्रोग्रामिंग में, जिन छात्रों ने प्रतियोगिता छोड़ दी, उन्होंने सक्रिय साथियों की तुलना में *अधिक* सैद्धांतिक आत्मविश्वास सूचित किया, फिर भी उनमें upsolving और सहकर्मी-वृत्त की आदतें काफ़ी कमज़ोर थीं (p < .001), इसलिए स्व-प्रभावशीलता संकेत अकेले किसी पूर्व-चेतावनी प्रणाली को भ्रमित करेगा ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]])।
 - **आत्मविश्वास बढ़ सकता है जबकि उसके पीछे की क्षमता घटती है।** विश्वविद्यालय छात्रों में, बार-बार जेनरेटिव एआई का उपयोग कथित आत्मविश्वास और दक्षता दोनों बढ़ाता रहा *और* उन्हीं शिक्षार्थियों में तकनीकी निर्भरता भी बढ़ी, इसलिए एआई-सहायित कार्य के दौरान लिया गया स्व-प्रभावशीलता स्कोर उस क्षण अधिक दिख सकता है जब अंतर्निहित कौशल क्षीण हो रहा हो ([[genai-performance-vs-learning|Yan et al., 2025]])।
+- **असंगति का एक परीक्षा-आधारित उदाहरण।** आठ-सप्ताह के फसल-प्रजनन पाठ्यक्रम में, जेनेटिक विश्लेषण में स्व-प्रभावशीलता ने एआई और पारंपरिक समूहों को d = 2.84 से अलग किया, जबकि अंतिम परीक्षा के अंक दोनों समूहों में महत्त्वपूर्ण रूप से भिन्न नहीं थे ([[wang-ai-assisted-blended-teaching-crop-breeding-2026|Wang et al. (2026)]])।
+- **आत्मविश्वास बढ़ने के बजाय लोगों से दूर हो सकता है।** प्रथम-वर्ष के छात्रों ने ChatGPT-टिप्पणी युक्त FORTRAN पढ़ने के बाद, लंबे जटिल प्रोग्राम की डीबगिंग पर आत्मविश्वास बढ़ा (p = .0073) और अटक जाने पर समस्या को हल करने के तरीके खोजने पर भी (p = .0000011), जबकि किसी को संपर्क करने वाले के साथ कोई परियोजना पूरी करने पर गिरा (p = .0069) ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]])।
 - **एआई उपयोग आत्मविश्वास के साथ चला, लेकिन आत्मविश्वास ने उपस्थिति की भविष्यवाणी नहीं की।** 291 पुर्तगाली छात्रों के एक PLS-SEM सर्वेक्षण में, सामान्य एआई उपयोग स्वतंत्र सीखने की स्व-प्रभावशीलता के साथ सकारात्मक रूप से संबद्ध था (β = 0.266, f² = 0.106)। इस संरचना को बैंडुरा के चार स्रोतों — महारत अनुभव, प्रतिनिधि अनुभव, मौखिक अनुनय, और भावनात्मक अवस्था — के द्वितीय-क्रमिक रूपात्मक संयुक्त के रूप में मॉडल किया गया। स्व-प्रभावशीलता ने बदले में अनुपस्थिति की भविष्यवाणी नहीं की (β = −0.068, p = 0.276), हालाँकि एआई उपयोग अलग से अधिक अनुपस्थिति से संबद्ध था (β = 0.148, f² = 0.029)। एआई-उपयोग → स्व-प्रभावशीलता मार्ग पुरुषों में महिलाओं की तुलना में काफ़ी अधिक मज़बूत था (β = 0.449 बनाम 0.159; Δβ = −0.289, p = 0.013), आंशिक मापन अभेद्यता के अंतर्गत ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]])।
 
 - **संरचित प्रोटोकॉल के बाद का आत्मविश्वास संरचना का अनुसरण करता था, मात्रा का नहीं।** प्रोटोकॉल के बाद मिलती-जुलती समस्याएँ स्वतंत्र रूप से हल करने का आत्मविश्वास 1–10 पैमाने पर औसतन 7.18 रहा (σ = 1.62, n = 217), चार परिसरों में संस्थागत औसत केवल 6.86 से 7.52 तक रहा। यह एआई स्पष्टीकरण के अनुभूत लाभ (r_s = 0.37) और दोहराए गए अभ्यास के लाभ (r_s = 0.35) का अनुसरण करता था, पूर्व एआई आत्मविश्वास का कमज़ोर ढंग से (r_s = 0.20), और न उपयोग की आवृत्ति का (r_s = 0.02, p = 0.749) न स्व-रिपोर्ट किए GPA का (r_s = 0.13, p = 0.064) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul एट अल., 2026]])। यह महारत का मार्ग है — पहले से रची गई कठिनाई, फिर एक स्वतंत्र प्रयास — न कि उपकरण में अधिक समय, ऐसा अंतर जो पृष्ठ में नहीं था। अध्ययन ने कोई अधिगम-परिणाम नहीं मापा, इसलिए यह सीमांकित करता है कि छात्रों का क्या विश्वास था।
@@ -80,6 +87,7 @@ connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-pr
 - **उपयोगिता के लिए आवश्यक, केवल उससे सहसंबद्ध नहीं।** [[chu-design-students-ai-agent-tam-ttf-2026|Chu और Liu (2026)]] ने 405 डिज़ाइन स्नातकोत्तर छात्रों के लिए AI स्व-प्रभावशीलता को दो स्वीकृति विश्वासों के सामने रखा और पाया कि यह दोनों का सबसे प्रबल पूर्ववर्ती है: कथित उपयोगिता पर β = 0.458 और [[technology-acceptance-model|कथित उपयोग-सुगमता]] पर β = 0.394। उनका आवश्यक-शर्त विश्लेषण ऊपर के पथ से अधिक प्रबल दावा जोड़ता है। कथित उपयोगिता के लिए दक्षता ही एकमात्र आवश्यक शर्त पाई गई (d = 0.125, p = 0.015)। उपयोगिता के 80%, 90% और 100% स्तर के लिए क्रमशः 10.0%, 30.0% और 50.0% दक्षता आवश्यक थी। इसलिए आत्मविश्वास कई योगदानकर्ताओं में से एक नहीं, बल्कि साधन-संबंधी निर्णय के नीचे एक तल है। डिज़ाइन अनुप्रस्थ-काट है और मॉडल आशय का R² = 0.150 समझाता है, इसलिए थ्रेसहोल्ड को नमूने के भीतर मानें।
 
 - **व्यवहारिक ट्रेस संकेत वहन कर सकते हैं, पर लेबल सीमा तय करते हैं।** दो विश्वविद्यालयों की एक पाइपलाइन ने अंतःक्रिया ट्रेस से कम स्व-प्रभावशीलता का पता लगाया; सर्वेक्षण-अवसर लेबल ने मध्य-सत्र विभाजन को पीछे छोड़ा, और अकेले MSLQ उप-मापक ने पूरे उपकरण जितना अच्छा लेबल किया ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]])।
+- **एआई के करियर निहितार्थ दो मार्गों में बँटते हैं।** 415 चीनी कॉलेज छात्रों में, [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]] ने पाया कि सकारात्मक धारणाएँ करियर निर्णय स्व-प्रभावशीलता तक करियर योजना के माध्यम से पहुँचीं, जबकि नकारात्मक धारणाएँ केवल करियर चिंता के माध्यम से पहुँचीं (अप्रत्यक्ष β = −0.184)।
 
 ## सामान्य भ्रांतियाँ
 

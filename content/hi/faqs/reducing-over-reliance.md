@@ -1,7 +1,7 @@
 ---
 title: "मैं छात्रों को AI पर अत्यधिक निर्भर कैसे न रहने दूँ?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-15T16:05:29-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -13,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

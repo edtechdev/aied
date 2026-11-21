@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: "एजेंटिक AI"
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]

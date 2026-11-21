@@ -1,7 +1,7 @@
 ---
 title: प्रोसेस-ओरिएंटेड असेसमेंट
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -21,11 +21,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-11-19T13:45:26-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, ai-detection, assessment-validity, evaluative-judgment, formative-assessment, summative-assessment, feedback, self-assessment, oral-assessment, eportfolio, ai-use-disclosure, self-regulated-learning, academic-integrity, equity-in-ai-education]
-connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026]
+connected_articles: [ahmed-ai-programmatic-assessment-cognitive-development-2026, salameh-critical-thinking-crisis-higher-ed-review-2026, alam-process-oriented-collaborative-essays-2026, genai-performance-vs-learning, human-centered-ai-teacher-educators-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, weidlich-inference-at-risk-assessment-validity-2026, beyond-detection-authentic-assessment-ai-2025, authentic-products-authenticated-processes-2026, fenton-oral-exams-ai-authentic-assessment-2025, thapa-lewis-process-oriented-assessment-2026, metacognitive-processes-genai-interaction-logs-2026, drafttrace-ai-writing-analytics-2026, epistemic-ownership-ai-mediated-education-2026, stepwise-teacher-diagnosis-math-2026, packard-thinking-partner-framework-adult-learners-2026, rubrics-genai-process-based-assessment-2026, jelson-students-chatgpt-essay-writing-2026, xian-process-visualization-feedback-news-translation-2026, webb-davies-voice-first-written-assessment-2026, black-box-assessment-winstone-2026, francis-pace-framework-genai-assessment-2026, performance-without-capability-genai-assessment-validity-2026, lasekan-making-learning-visible-genai-assessment-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -84,6 +88,8 @@ Salameh (2026) का Fade-Visibility Matrix उसी डिज़ाइन प
 प्रोसेस-ओरिएंटेड असेसमेंट आमतौर पर पहचान का विकल्प के रूप में प्रस्तावित होता है, और पहचान के बारे में प्रमाण बताते हैं कि क्यों। [[ai-detection|पहचान]] साहित्य में त्रुटि दरें, कार्य-निर्भरता, और गैर-मूलभाषी और अक्षम लेखकों के विरुद्ध पैटर्नबद्ध [[bias-mitigation|पूर्वाग्रह]] मिलते हैं, और सबसे हालिया कार्य एक प्रक्रियात्मक निष्कर्ष पर आता है: डिटेक्टर स्कोर निकट समीक्षा का संकेत दे सकता है, लेकिन वह कोई निष्कर्ष नहीं है। मुनोज़ और सहयोगी (2026) दिखाते हैं कि व्यवहार में इसकी कीमत क्या है। 1,162 जनरेटिव-AI दुराचार आरोपों को कोड करते हुए, उन्होंने पाया कि सबसे मज़बूत प्रमाण प्रकार जाँच या पर्यवेक्षण द्वारा उत्पन्न होते हैं, कि प्रारूप, पर्यवेक्षण बैठकों और प्रस्तुतियों जैसा प्रक्रिया-प्रमाण केवल वहीं दिखता है जहाँ वे अभ्यास पहले से मौजूद हों — इसलिए एक अपुनर्निर्मित मूल्यांकन में वह बस अनुपस्थित है — और कि डिटेक्टर आउटपुट ने किसी भी श्रेणी में सबसे कम सिद्ध-मूल्य रेटिंग प्राप्त की। डिज़ाइन परिणाम क्रम है: प्रक्रिया-प्रमाण को मामले की आवश्यकता से पहले मौजूद होना चाहिए, और वाइडलिच (2026) का तर्क कि कौन-सा अनुमान जोखिम में है, वैधता की ओर से यही बात कहता है, क्योंकि पहचान के माध्यम से मूल्यांकन सुरक्षा बहाल करने के प्रयास संरचना-अप्रासंगिक विचरण लाते हैं, छात्र के बारे में प्रमाण नहीं।
 
 रूब्रिक मानदंड स्वयं प्रक्षेपवक्र के इर्द-गिर्द पुनर्निर्मित किए जा सकते हैं। [[rubrics-genai-process-based-assessment-2026|Oviedo और Díaz (2026)]] Biggs के 3P मॉडल को तीन अंकन आयामों के रूप में पढ़ते हैं, सक्रियता और आलोचनात्मक पर्यवेक्षण, संवादात्मक स्कैफ़ोल्डिंग, और संज्ञानात्मक संप्रभुता, ताकि स्थिर परिणाम के बजाय प्रक्षेपवक्र का अंकन हो।
+
+रिपोर्ट किया गया अभ्यास डिज़ाइन-तर्क से पीछे है: [[lasekan-making-learning-visible-genai-assessment-2026|Lasekan, Ubilla और Mathew (2026)]] द्वारा कोड किए गए 5,091 व्यवसायी पोस्ट में, पहचान और दंड रिकॉर्ड का 43.2% हिस्सा दिखे, जबकि नियोजन, निगरानी और चिंतन मिलकर केवल 2.2% में दिखे।
 
 ## डिज़ाइन और कार्य-भार की लागत
 

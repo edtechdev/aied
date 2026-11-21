@@ -1,13 +1,13 @@
 ---
 title: मनोमापन-सचेत एआई
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

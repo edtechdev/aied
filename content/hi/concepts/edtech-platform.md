@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: एडटेक प्लेटफ़ॉर्म
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

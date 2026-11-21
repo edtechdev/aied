@@ -1,19 +1,23 @@
 ---
 title: "प्रौद्योगिकियाँ"
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
 connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
@@ -42,6 +46,8 @@ connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-educat
 - **जनरेटिव एआई।** प्रणालियों की व्यापक श्रेणी जो पाठ, कोड, चित्र और अन्य सामग्री उत्पन्न करती हैं — [[generative-ai|जनरेटिव एआई]] (मुख्य रूप से LLMs द्वारा संचालित) वर्तमान [[ai-education|AIED]] अनुसंधान की लहर के पीछे की तकनीक है। यह भी [[multimodal|मल्टीमॉडल मॉडल]] (पाठ, चित्र, ऑडियो) और [[simulation]] देखें।
 - **रोबोट और [[embodied-learning|सशरीत्र]] प्रणालियाँ।** [[educational-robotics|शिक्षा में रोबोट]] एक सशरीत्र और अक्सर [[community-of-inquiry|सामाजिक उपस्थिति]] जोड़ते हैं — [[computational-thinking|कम्प्यूटेशनल सोच]] के लिए प्रोग्रामेबल किट और ट्यूटरिंग, [[storytelling-in-education|कहानी कहने]] तथा भूमिका-अभिनय के लिए ह्यूमनॉयड/सामाजिक रोबोट। रोबोटिक्स एक अलग तकनीकी धारा है जो [[agentic-ai|एजेंटिक एआई]] और [[human-in-the-loop-ai|ह्यूमन-इन-द-लूप]] डिज़ाइन से ओवरलैप करती है।
 - **ज्ञान-आधारित प्रणालियाँ।** [[knowledge-graph|ज्ञान ग्राफ]] और [[educational-nlp|शैक्षणिक एनएलपी]] डोमेन ज्ञान का प्रतिनिधित्व और प्रसंस्करण करते हैं, और तथ्याप्रद, व्याख्यायोग्य ट्यूटरिंग के लिए LLMs के साथ बढ़ते रूप से जोड़े जाते हैं।
+
+एक कार्य-आधारित वर्गीकरण मॉडल आर्किटेक्चरों की सूची की तुलना में शिक्षक व्यावसायिक विकास में अधिक दूर तक जाता है। [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf और Massey (2025)]] ने नौ हाई-स्कूल शिक्षकों के लिए एक दिवसीय कार्यशाला का आयोजन किया, जो एआई अनुप्रयोग के छह परिवारों — वर्गीकरण, पहचान, स्मृति, निर्णय-लेना, अनुकूलन और पूर्वानुमान — के इर्द-गिर्द थी, प्रत्येक को शिक्षकों द्वारा पहले से उपयोग किए जा रहे किसी अनुप्रयोग — स्पैम-फ़िल्टरिंग से क्रेडिट-स्कोरिंग तक — के साथ जोड़ा गया। शिक्षक यह सवाल पर विभाजित थे कि एआई ख़तरा है या नहीं, जिनमें से 40% ने ऐसा कहा और 40% अनिर्णीत थे, और प्रत्येक प्रतिभागी ने बताया कि उसने कुछ नया सीखा। संगठनात्मक इकाई वह है जो प्रणाली करती है, जिसे एक शिक्षक कक्षा उपकरण में पहचान सकता है, यह जाने बिना कि उसे कैसे प्रशिक्षित किया गया था।
 
 ## तकनीकें और तरीके
 

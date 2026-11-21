@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: "CS शिक्षा"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,13 +11,17 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
 connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
@@ -60,6 +64,8 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 - **सैद्धांतिक CS के लिए रिट्रीवल-ऑगमेंटेड सहायता केवल असिंक्रोनस अध्ययन में फिट बैठती है।** AlgoRAG ने 240 सेकंड के टाइम-आउट के भीतर सभी 179 प्रशिक्षक-लेखित परीक्षा प्रश्नों का उत्तर दिया, प्रत्येक में औसतन 38.0 सेकंड, और समुच्चय भर में इसका BLEU-4 0.0000 गणितीय प्रमेयों पर n-ग्राम मिलान का गुण है, न कि कोई सिस्टम विफलता ([[algorag-rag-theoretical-cs-education-2026|Adhikari (2026)]])।
 - **गोद लेना असाइनमेंट का पीछा करती है, उपक्षेत्र का नहीं।** सात असाइनमेंटों और 211 छात्रों में, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] ने एल्गोरिद्म में 89.6% से सॉफ़्टवेयर इंजीनियरिंग में 15.2% तक LLM उपयोग मापा, फैलाव को असाइनमेंट जटिलता, सत्यापनीयता और स्कैफ़ोल्डिंग के लिए जिम्मेदार ठहराया, विषय स्वयं के लिए नहीं।
 - **प्रतिक्रिया को इस प्रकार चरणबद्ध किया जा सकता है कि निदान छिपा रहे।** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] किसी छात्र के डेटाबेस स्कीमा की कलाकृति-आधारित निदान को उस वर्कफ़्लो से अलग करते हैं जो इसे जारी करता है, जिसमें शिक्षक चरणों की रचना करते हैं; 383 एपिसोड में, 71.1% प्रतिक्रिया अपने लक्ष्य स्तर तक पहुँची।
+
+- **सत्रह आवश्यकता-त्रुटि प्रकार, 211 टीमों में गिने गए।** प्राथमिकता त्रुटियाँ आगे रहीं (स्नातक टीमों के 81%), और एक ज़ीरो-शॉट GenAI प्रॉम्प्ट ने दायरे, कहानी-प्रारूप, प्राथमिकताओं और प्रयास पर टीमों को मिला या हराया ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]])।
 
 ### प्रोग्रामिंग शिक्षाशास्त्र: ब्लॉक से मूर्त, खेल-आधारित अधिगम तक
 
@@ -106,6 +112,7 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 ### समता, संस्कृति, और कंप्यूटिंग में कौन आता है
 
 - **भागीदारी का विस्तार:** [[suacode-african-students-motivations|SuaCode]] अफ़्रीकी छात्रों में स्मार्टफ़ोन-आधारित कोडिंग के प्रेरणाओं को दर्ज करता है (माध्यमिक-स्कूल छोड़ने वालों में से 1% से कम के पास मूलभूत कोडिंग कौशल हैं), जो [[equity-in-ai-education|निम्न-संसाधन संदर्भों]] के लिए सुलभ AI-समर्थित MOOCs को सूचित करता है।
+- **AI-मुक्त गेट, AI-प्रथम कार्य।** [[ai-free-gates-engineering-students-india-2026|Goutham और Gu (2026)]] ने 23 भारतीय इंजीनियरिंग छात्रों का साक्षात्कार किया: उनमें से सभी के एक को छोड़कर ने उन प्लेसमेंट स्क्रीनिंग के लिए AI का उपयोग किया जो इसे बाहर करती थीं, जबकि नियोक्ता इसकी माँग करते थे, इसलिए छनी हुई श्रेणियाँ कम प्रमाणित करती हैं।
 - **न्यूरोविविध़ता और सहयोग:** [[neurodivergent-computing-students|न्यूरोडिवर्जेंट कंप्यूटिंग छात्र]] अस्पष्ट सहयोग संरचनाओं के साथ असहजता की रिपोर्ट करते हैं; संरचित असाइनमेंट, छोटी संगत टीमें, और स्पष्ट भूमिकाएँ [[accessibility]] में सुधार करती हैं — कंप्यूटिंग कक्षाओं में प्रवेश करने वाले AI उपकरणों के लिए डिज़ाइन पाठ।
 - **संस्कृति कथित नैतिकता को आकार देती है:** [[cross-cultural-student-perceptions-genai-computing|कनाडाई बनाम दक्षिण कोरियाई कंप्यूटिंग छात्र]] ने समान AI-सहायित कोडिंग प्रथाओं का अलग-अलग निर्णय लिया, कार्यात्मक रूप से समान नीतियों के बावजूद — नीति सामंजस्य धारणा सामंजस्य का उत्पादन नहीं करता, एक [[academic-integrity]] और [[equity-in-ai-education]] चिंता।
 - **सहयोग [[explainable-ai|पारदर्शिता]]:** [[student-perception-ai-use-collaboration|Graf et al.]] पाते हैं कि साझेदारों के एक-दूसरे के AI उपयोग के बारे में ग़ैर-संरेखित विश्वास कम प्रदर्शन करने वाले छात्रों के लिए विशेष रूप से कम परियोजना स्कोर की भविष्यवाणी करते हैं — सहयोगी प्रोग्रामिंग में पारदर्शिता क्रियाविधियों (प्रकटीकरण, साझा लॉग) की आवश्यकता हो सकती है।

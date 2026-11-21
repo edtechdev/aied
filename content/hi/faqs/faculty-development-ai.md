@@ -1,7 +1,7 @@
 ---
 title: "AI के लिए फैकल्टी डेवलपमेंट कैसे डिज़ाइन करें जो वास्तव में अभ्यास बदल दे?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -13,7 +13,7 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 pedagogy: [tpack]
 ---

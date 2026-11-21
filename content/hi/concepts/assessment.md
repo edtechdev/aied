@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: मूल्यांकन
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -21,8 +21,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
-connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026, zhang-teachers-judge-creativity-genai-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -74,7 +78,7 @@ AI मौलिक [[assessment-validity|वैधता]] प्रश्न �
 
 ## AI युग में मूल्यांकन पुनर्निर्माण
 
-ज्ञान आधार के मूल्यांकन साहित्य में रचनात्मक प्रश्न "हम छात्रों को AI का उपयोग करने से कैसे रोकें?" नहीं, बल्कि "हम उन्हें उन संदर्भों में विचारशील उपयोग के लिए कैसे सक्षम करें जो उनके भविष्य के काम को प्रतिबिंबित करें?" है। यह मूल्यांकन को इनके इर्द-गिर्द पुनर्गठित करता है:
+मूल्यांकन साहित्य में रचनात्मक प्रश्न "हम छात्रों को AI का उपयोग करने से कैसे रोकें?" नहीं, बल्कि "हम उन्हें उन संदर्भों में विचारशील उपयोग के लिए कैसे सक्षम करें जो उनके भविष्य के काम को प्रतिबिंबित करें?" है। यह मूल्यांकन को इनके इर्द-गिर्द पुनर्गठित करता है:
 
 - **प्रामाणिक और प्रक्रिया-आधारित कार्य** जो AI उपयोग को दृश्यमान और मूल्यांकित बनाते हैं। [[authentic-assessment]] — योग्य, यथार्थपरक कार्यों पर छात्र प्रदर्शन की जाँच — AI की चुनौती का प्रमुख उत्तर है: कोई भी कार्य जिसे कोई [[llm]] विश्वसनीय रूप से सिमुलेट कर सकता है, अपनी वैधता खो देता है, इसलिए प्रामाणिकता को वास्तविक समय [[collaborative-learning|सहयोग]], डिजिटल और सामाजिक योगदान, और व्यक्तिगत अर्थ-निर्माण के इर्द-गिर्द पुनर्निर्मित किया जाना चाहिए। यह [[zhan-boud-du-authentic-assessment-scoping-review-2025|प्रामाणिक मूल्यांकन के लिए डिज़ाइन ढाँचे]], [[authentic-products-authenticated-processes-2026|प्रामाणिक उत्पाद और प्रमाणित प्रक्रियाएँ]], और [[tool-invariant-framework-agentic-ai|प्रक्रिया का टूल-अपरिवर्तनीय मूल्यांकन]] से जुड़ता है।
 - **वैधता प्रमाण पर आधारित जिम्मेदार मूल्यांकन डिज़ाइन** ([[responsible-assessment-ai-era-stanford-2026]])
@@ -85,7 +89,13 @@ AI मौलिक [[assessment-validity|वैधता]] प्रश्न �
 - **उत्पादन एक योग्यता के रूप में** — शिक्षार्थियों की टूल संचालित करने और पेशेवर-मानक कार्य उत्पन्न करने की क्षमता का मूल्यांकन ([[competency-based-education-genai-production-2026]])
 - **केवल कलात्मक उत्पाद नहीं, संवाद प्रक्रिया का मूल्यांकन** — [[assessing-student-drive-framework-2025|DRIVE ढाँचा]] (Directive Reasoning Interaction + Visible Expertise) छात्र के *GenAI के साथ संलग्नता* की गुणवत्ता को मूल्यांकित निर्मित तत्व के रूप में मानता है। यह सतही उपभोग को गहरी, चिंतनशील संवाद से अलग करता है यह देखकर कि क्या छात्र प्रॉम्प्ट को रणनीतिक रूप से संचालित करते हैं (DRI) और विनिमय के माध्यम से अपने विषयगत विचारों को एकीकृत और विकसित करते हैं (VE), प्रक्रिया-केंद्रित मानदंडों को [[self-directed-learning]] और संज्ञानात्मक संलग्नता के सिद्धांतों में [[icap-framework|ICAP]] पदानुक्रम की रेखाओं पर आधार बनाता है। यह DRIVE को *AI-माध्यमित प्रामाणिक मूल्यांकन* का एक उदाहरण बनाता है — यह एक रूब्रिक है जो यह मूल्यांकन करता है कि शिक्षार्थी GenAI के साथ कैसे साझेदारी करता है, पहचान टूल नहीं।
 
+ऊपर का पुनर्निर्माण यह मानता है कि ग्रेड का अर्थ वही है जो टूल के आने से पहले था। जब ऐसा नहीं होता है तो Oyelere और Kadams उसे नाम देते हैं: **मूल्यांकन प्रमाण ऋण (assessment evidence debt)**, वह संचित अंतर जो ग्रेड के दावे और प्रस्तुत कलाकृति द्वारा समर्थित के बीच बढ़ता है, जो प्रारंभिक ग्रेड प्रगति निर्णयों को प्रभावित करते हुए और बढ़ता जाता है। उनका उपाय है प्रति कार्य दावे को स्पष्ट करना: वह क्या कहता है कि छात्र जानता है, कौन सी AI शर्तें लागू हैं, कौन से प्रमाण चैनल सक्रिय हैं। उसके बाद पाँच चैनल आते हैं — बाधित प्रदर्शन, प्रक्रिया-उत्पत्ति, निष्पादन योग्य सत्यापन, व्याख्यात्मक बचाव, स्थानांतरण जाँच। कोई भी चैनल अकेले क्षमता को सिद्ध नहीं करता। लेखक प्रमाण-समकक्षता को अनसुलझा मानते हैं: पूर्ण AI पहुँच वाली टेक-होम परियोजना और पर्यवेक्षित निष्पादन योग्य परीक्षा एक ही परिणाम को संबोधित कर सकते हैं जबकि भिन्न रचनाओं को प्रमाणित करते हैं, इसलिए उनके ग्रेड तुलनीय नहीं हैं। उनकी सबसे तीखी चेतावनी व्यवहार से अनुमान के बारे में है: कमज़ोर मौखिक बचाव अनधिकृत AI उपयोग का प्रमाण नहीं है ([[oyelere-code-programming-assessment-genai-2026|Oyelere और Kadams, 2026]])।
+
 इस साहित्य में एक प्रस्ताव वर्तमान ढाँचे के भीतर पुनर्निर्माण से आगे जाता है। [[ai-agents-joyful-assessment-third-space-2026|El Khoury और Ma (2026)]] तर्क देते हैं कि दुराचार को रोकने या AI उपयोग की पहचान के इर्द-गिर्द व्यवस्थित सुधार शैक्षणिक कल्पना को नियंत्रण और अनुपालन तक संकुचित करता है, और इसके बजाय **आनंदमय मूल्यांकन** प्रस्तावित करते हैं: वह मूल्यांकन जो सुरक्षित, भावनात्मक रूप से अनुक्रियाशील, सशक्तिकारक और छात्र [[agency|छात्र सशक्तिकरण]] के समर्थक हो, सुरक्षा को बोझ-वहन करने वाली शर्त के रूप में क्योंकि उसके बिना भावनात्मक समकक्षता प्रदर्शन बन जाती है, सशक्तिकरण दबाव बन जाता है और सशक्तिकरण जोखिम बन जाता है। उनका ढाँचा पहचान एजेंडा को उलट देता है — सत्यनिष्ठा ऐसे मूल्यांकन डिज़ाइन करने का परिणाम बनती है जिनमें छात्र संलग्न होना चाहते हैं, इसकी शुरुआती बिंदु नहीं — और वे प्रशिक्षक-निर्मित [[agentic-ai|AI एजेंट]] (कस्टम GPT, Gems, Copilot Studio एजेंट) को एक कम-जोखिम अभ्यास स्थान के रूप में रखते हैं जहाँ छात्र निर्णय से पहले अभ्यास करते हैं, इस दावे के साथ कि AI प्रमाण को व्यवस्थित करता है जबकि प्रशिक्षक उसका निर्वचन करता है।
+
+रंग कोड वह विकल्प है जो बार-बार प्रस्तावित होता रहता है, और एक संस्थान का संस्करण अपनी समय-सीमा पूरी कर चुका है। [[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman और Pavlopoulou (2026)]] लीड्स विश्वविद्यालय के ढाँचे की एक पैनल चर्चा का पुनर्निर्माण करते हैं, जो 2023 से सभी संकायों में लागू है, जिसमें लाल AI पर प्रतिषेध लगाता है, अंबर नियमों को प्रत्येक मॉड्यूल ट्यूटर पर छोड़ता है और हरा जिम्मेदार उपयोग सिखाता है। उनकी आपत्ति विषय-क्षेत्र है: असाइनमेंट से जुड़ा रंग उत्तर देता है कि यहाँ टूल का उपयोग किया जा सकता है या नहीं, लेकिन यह नहीं कि पठन को समझने के लिए उसका उपयोग किया जा सकता है या नहीं। 2024/25 में बिज़नेस स्कूल के लगभग 85% शिक्षित मॉड्यूलों में लाल असाइनमेंट थे, जबकि विश्वविद्यालय का घोषित लक्ष्य सभी मूल्यांकन को हरे में ले जाना था, और लेखक निष्कर्ष निकालते हैं कि ट्रैफ़िक लाइट अयथार्थ है और एक ऐसे ढाँचे को स्थान देना चाहिए जो [[evaluative-judgment|मानवीय निर्णय]] को केंद्र में रखता है।
+
+**उत्पाद-स्तरीय मानदंडों को प्रक्रिया प्रमाण चाहिए — और मानदंड संदर्भों के बीच ठीक से नहीं चलते।** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] ने चीन और अमेरिका के 654 उच्च-शिक्षा शिक्षकों का सर्वेक्षण किया कि वे GenAI-सहायित कलाकृतियों में रचनात्मकता का निर्णय कैसे लेते हैं, और निष्कर्ष निकाला कि उत्पाद-स्तरीय रचनात्मकता मानदंडों को उस प्रक्रिया-प्रमाण के साथ जोड़ा जाना चाहिए जो दर्शाता है कि छात्र ने वास्तव में क्या योगदान दिया — प्रॉम्प्ट, संशोधन-इतिहास, चिंतनपूर्ण तर्क — ताकि पॉलिश की गई कलाकृति को छात्र के रचनात्मक योगदान का प्रमाण न समझा जाए। उनका सांस्कृतिक-अंतर परिणाम एक सावधानी जोड़ता है: एक रूब्रिक जो नवीनता या प्रेरणा के किसी समूह के भार-वितरण पर ढली है, दूसरे समूह पर साफ़ रूप से चल नहीं सकती, इसलिए मूल्यांकन मानदंड उसी संदर्भ-जाँच के हकदार हैं जिसके लिए वे अध्ययनों का निर्णय करने के लिए बने हैं।
 
 ## शिक्षा में AI के लिए निहितार्थ
 

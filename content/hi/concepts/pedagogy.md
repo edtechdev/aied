@@ -1,7 +1,7 @@
 ---
 title: "शिक्षाशास्त्र और शिक्षण रणनीतियाँ"
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,13 +9,17 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
 connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
@@ -60,6 +64,7 @@ connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-te
 - **शिक्षाशास्त्र AI के प्रभाव को निर्धारित करता है।** एक आवर्ती निष्कर्ष यह है कि AI *कैसे* उपयोग किया जाता है वह *क्या* उपयोग किया जाता है उतना ही मायने रखता है। [[instructional-guidance-genai-learning|निर्देशात्मक-मार्गदर्शन शोध]] और [[generative-ai-guardrails-harm-learning|गार्डरेल-किए गए ट्यूटर RCTs]] दिखाते हैं कि वही AI शिक्षाशास्त्रीय रैपर के आधार पर नुकसान या मदद कर सकता है (उत्तरों के विपरीत संकेत, संरचित बनाम खुला उपयोग)।
 - **शिक्षाशास्त्रीय ज्ञान तकनीकी ज्ञान से भारी है।** 46 शिक्षकों और 2,832 छात्रों में, शिक्षक का शिक्षाशास्त्रीय AI ज्ञान छात्रों की सामाजिक अच्छाई के लिए AI की अनुभूतियों और AI सीखने के उनके इरादे की भविष्यवाणी करता था, जबकि तकनीकी ज्ञान अकेले अपर्याप्त था — और किसी ने भी छात्रों के AI ज्ञान की भविष्यवाणी नहीं की ([[pedagogy-first-technology-second-teacher-knowledge-2026|शेन सहित (2026)]]))।
 - **AI का सबसे स्पष्ट योगदान प्रशासनिक काम को ऑफलोड करना है।** 28 अध्यायनों की एक PRISMA समीक्षा ने पाया कि AI ने सबसे अधिक बार निर्देशात्मक नियोजन और [[assessment|मूल्यांकन]] डिज़ाइन को बढ़ाया, जिसमें इसका सबसे अधिक रिपोर्टित लाभ ग्रेडिंग, प्रतिक्रिया और प्रगति निगरानी का स्वचालन था (18 अध्यायन, 64.2%) — जबकि शिक्षाशास्त्रीय संरेक्षण सबसे अधिक उद्धृत चुनौती थी (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|किबार और इलगाज़ (2026)]]))।
+- 108-विद्यालय के एक क्लस्टर RCT ने उस दावे को सीमित किया: Aila ने 7% पाठ-कवरेज पर सप्ताह में 0.81 घंटे नियोजन-समय काटा, जिसमें उपयोग दस सप्ताहों में घटता रहा और कोई विद्यार्थी परिणाम मापा नहीं गया ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]])।
 **स्वचालन और सीखना सीधे व्यापार करते हैं।** [[agentic-ai-pedagogical-best-practice-2026|वुलास्टन सहित (2026)]] छह शिक्षाशास्त्रीय सिद्धांत — [[prior-knowledge|पूर्व-ज्ञान]] सक्रियण, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — उसके माध्यम से चलते हैं कि सक्रिय एजेंटिक पहल प्रत्येक को क्या करती है, तर्क देते हुए कि जितना अधिक एक एजेंट स्वचालित करता है, उतना कम संज्ञानात्मक काम शिक्षार्थी करता है जब तक घर्षण, गतिशील कमी और [[human-in-the-loop-ai|मानव निगरानी]] को डिज़ाइन में नहीं किया जाता।
 - **चिंतन एक शैक्षणिकी है जिसे AI दोनों सक्षम और ख़तरे में डालता है।** संरचित प्रॉम्प्ट, जर्नल और [[eportfolio|पोर्टफ़ोलियो]] टिप्पणियाँ वह तंत्र हैं जिनसे अनुभव अधिगम बनता है, और [[reflection|चिंतन]] पेज इसका साक्ष्य रखता है। एक पूर्व-पंजीकृत प्रयोग में ऐसे प्रॉम्प्ट मिले जिन्होंने प्रतिपुष्टि पर समय दोगुना कर दिया और अभ्यास की मात्रा 40% घटा दी, बिना प्रति-समस्या लाभ बढ़ाए। एक AI चिंतन-साथी के कोडित ऑडिट में पाया गया कि उसने हर व्यवहार-निर्देश को तोड़ा और कोई दृश्य निशान नहीं छोड़ा। प्रॉम्प्ट को पूर्ण प्रयास के इर्द-गिर्द डिज़ाइन कीजिए, और चमकीली प्रविष्टि के बजाय निशान-पथ माँगिए।
 - **AI साक्षरता के लिए शिक्षण रणनीतियाँ।** छात्रों को *AI का अच्छी तरह उपयोग करना* सिखाना स्वयं एक शिक्षाशास्त्रीय कार्य है — [[ai-literacy]] और [[reducing-ai-misuse]] शोध रणनीतियाँ विकसित करता है (पहले-सोचो/AI-दूसरा/चिंतन, AI-घोषणा, अंशांकन प्रशिक्षण) जो इस छत्र में आती हैं।
@@ -84,6 +89,8 @@ connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-te
 - **सुकरातीय और संवाद-आधारित रणनीतियाँ** ([[socratic-method]]) उच्च-क्रम सोच और तर्क को लक्षित करती हैं — लाभ जो कौशल लाभों से मापना कठिन हैं लेकिन [[critical-thinking]] के लिए केंद्रीय हैं।
 
 मुख्य क्रॉस-कटिंग निष्कर्ष, ज्ञानकोष के [[learning-gains]] शोध के साथ संगत, यह है कि **रणनीति का सीखने पर प्रभाव इस बात पर अधिक निर्भर करता है कि यह शिक्षार्थी के प्रयास और उत्पादक संघर्ष को कितनी मात्रा में संरक्षित करती है न कि यह कौन लेबल वहन करती है** — कोई भी शिक्षाशास्त्र, यहाँ तक कि एक "अच्छा" एक, विफल होता है यदि AI को उस संज्ञानात्मक काम को बायपास करने के लिए कॉन्फ़िगर किया गया है जिसे यह उकसाने का अर्थ रखता था ([[cognitive-offloading]], [[desirable-difficulties]] देखें)।
+
+एक ट्यूटर जो कक्षा-पाठ की सात शोध-आधारित प्रथाओं से तैयार किया गया था, उस पाठ को हराया: Harvard के परिचयात्मक भौतिकी पाठ्यक्रम में, 194 छात्रों के माध्यिक सीखने के लाभ सक्रिय-सीखना कक्षा से दोगुने से अधिक थे, कम समय में, और लेखकों ने मांग-पर-व्यक्तिगत प्रतिपुष्टि और स्व-गति को श्रेय दिया ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin (2025)]])।
 
 छात्र और [[student-ai-interaction|AI]] के बीच अंतःक्रिया को स्थिर निर्भरता के बजाय संज्ञानात्मक वितरण की बदलती प्रक्रिया के रूप में पढ़ना बेहतर है: एक अंतरविषयक [[engineering-education|इंजीनियरिंग]] पाठ्यक्रम की 53 ChatGPT बातचीतों में, विस्तार (घना, पुनरावर्ती सह-चिंतन) 321 प्रॉम्प्ट-स्तरीय कोडों के 53.3% के साथ सबसे लगातार अंतःक्रिया प्रकार था, जो 29.6% पर आउटसोर्सिंग से आगे था ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane और Arikan (2026)]])।
 

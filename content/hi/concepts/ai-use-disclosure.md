@@ -1,7 +1,7 @@
 ---
 title: AI उपयोग और प्रकटीकरण विवरण
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
 connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
@@ -53,6 +57,7 @@ AI उपयोग घोषणाएँ छात्रों से यह ब
 
 - **प्रकटीकरण दुर्लभ और चिंता-प्रेरित है।** अध्ययनों में, अधिकांश छात्र शिक्षकों को AI उपयोग की सूचना नहीं देते। [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] ने पाया कि अर्थशास्त्र के केवल ~34% छात्रों ने AI उपयोग स्वीकार किया और प्रकटीकरण और भी दुर्लभ था, जो "दंड-चिंता" से प्रेरित था। [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] ने पाया कि 66% छात्रों ने कभी या शायद ही कभी प्रकटीकरण नहीं किया, जिसमें शैक्षणिक दंड का भय सबसे बड़ा कारण था। [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] ने किंग के [[business-education|बिज़नेस स्कूल]] में अनिवार्य घोषणा के साथ **74% ग़ैर-अनुपालन** दर्ज किया।
 - **अस्पष्ट और दंडात्मक नीतियाँ छिपाने को बढ़ावा देती हैं।** जब AI-उपयोग नीतियाँ अस्पष्ट, अप्रवर्तित या प्रतिबंधात्मक होती हैं, तो छात्र सहभागिता के बजाय उपयोग छिपाते हैं। "कुछ स्थितियों में सीमित उपयोग" नीतियाँ प्रकटीकरण का सर्वोत्तम पूर्वानुमान लगाती हैं; "अनुमत नहीं" या "अवगत नहीं" नीतियाँ छिपाने का पूर्वानुमान लगाती हैं। स्पष्ट, संगत, सहयोगपूर्ण नीतियों की बार-बार मांग की जाती है।
+- **दायित्व, केवल दंड नहीं।** समान इरादे वाले दो नियम प्रकटीकरण को छिपाने से अलग करते हैं: [[mehreen-genai-policy-wording-2026|Mehreen et al. (2026)]] ने पाया कि बेईमानी-फ्रेमिंग छात्रों के अपने उपयोग को छिपाने के साथ चली, जबकि असटीक आउटपुट के लिए छात्रों को उत्तरदायी ठहराना स्वामित्व और पारदर्शिता के साथ चला।
 - **प्रकटीकरण में मनोवैज्ञानिक लागतें हैं — और छिपी लागतें।** छात्र घोषणाओं को स्व-अभियोग के रूप में देखते हैं, और कुछ मानते हैं कि AI उपयोग कैलकुलेटर के उपयोग की तरह निजी है। [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] ने पाया कि जिन छात्रों ने "हमेशा" प्रकटीकरण किया, उनके आरोप लगने की संभावना 3× से अधिक थी — पारदर्शिता संदेह को आमंत्रित कर सकती है। [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] ने पाया कि चिंता प्रकटीकरण को दबाने के बजाय साथियों की ओर मोड़ती है, जिससे छात्र शिक्षक की प्रतिक्रिया से कट जाते हैं।
 - **प्रकटीकरण स्व-नियंत्रित शिक्षा से जुड़ा हुआ है।** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] शिक्षक-निर्देशित प्रकटीकरण की व्याख्या अनुकूल सहायता-मांग के रूप में करते हैं — सहायता को दृश्यमान बनाना और बाह्य संरेखण को आमंत्रित करना — जबकि छिपाना (विशेष रूप से AI के भारी उपयोगकर्ताओं में) अनुकूल नहीं (मलअडेप्टिव) नियंत्रण जैसा है। संरचित, रचनात्मक प्रकटीकरण उस [[metacognition|अंतर्ज्ञानात्मक]] प्रतिबिंब और नैतिक तर्क को बढ़ावा दे सकता है जो प्रभावी स्व-नियंत्रण की विशेषता है।
 - **निवारक की संरचना लक्ष्य के अनुसार विभाजित होती है।** 466 छात्रों में, यह निश्चितता कि गैर-प्रकटीकरण पकड़ा जाएगा, अधिक अनुकूल दृष्टिकोणों के साथ चली (β = 0.643), जबकि यह निश्चितता कि घोषणा करने से अनुचित उपयोग उजागर होगा, कम अनुकूल दृष्टिकोणों के साथ चली (β = −2.175), और गैर-प्रकटीकरण पर भारी दंड दृष्टिकोण और नियंत्रण दोनों से नकारात्मक रूप से संबद्ध थे। अनुचित-उपयोग के अनुमान सह-रेखीय पूर्वानुमानकों पर टिके हैं (प्रसरण-मुद्रास्फीति 9 से ऊपर), इसलिए वे अस्थिर हैं ([[liu-genai-truthful-declaration-tpb-deterrence-2026|लियू एट अल., 2026]])।
@@ -73,6 +78,8 @@ AI उपयोग घोषणाएँ छात्रों से यह ब
 
 - **प्रकटीकरण में एक विश्वास दंड होता है, और वैधता तर्कित तंत्र है।** तेरह प्रयोगों में, मुख्यतः संयुक्त राज्य अमेरिका के ऑनलाइन पैनलिस्टों के साथ और 4,093 प्रेक्षणों पर एकत्रित (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), जिस अभिनेता ने AI उपयोग की सूचना दी, उस पर चुप रहने वाले की तुलना में कम विश्वास किया गया ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke और Reimann (2025)]]। प्रभाव छह प्रकटीकरण फ्रेमिंग, एक मूल्यांकनकर्ता जो पहले से जानता था कि AI का उपयोग हुआ था, और अनिवार्य एवं स्वैच्छिक दोनों शासनों में बचा रहा। यह ऊपर के उस सर्वेक्षण निष्कर्ष का प्रयोगात्मक समकक्ष है कि हमेशा-प्रकटीकरण करने वाले छात्रों पर आरोप लगने की संभावना तीन गुना से अधिक थी: पारदर्शिता स्वयं प्रकटीकरणकर्ता की कीमत पर हो सकती है। पेपर का एकमात्र छात्र-संबंधी निष्कर्ष यह है कि जब उसने [[automated-assessment|AI ग्रेडिंग]] की सूचना दी तो छात्रों ने एक प्रोफ़ेसर पर कम विश्वास किया।
 - **सामग्री-लेबल विवरण बदलता है, फैसला नहीं।** 617 वयस्कों को "AI-Generated Content/Synthetic Video" लेबल देखने या न देखने के लिए यादृच्छिक रूप से बाँटने पर लेबल ने अनुभूत प्रामाणिकता घटाई (लेबल बिना 4.92 और लेबल के साथ 4.21 के माध्य) पर भरोसा (B = -0.130, p = 0.216), जोखिम, अपनाना और साझा करना अपरिवर्तित रहे ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang और Zhang (2026)]])।
+
+छात्र जो दस्तावेज़ वास्तव में पाते हैं उनमें वह कम चीज़ होती है जो उन शिक्षकों का इरादा रखता है जिन्होंने उन्हें लिखा। [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud et al. (2026)]] ने एक बड़े सार्वजनिक मिडवेस्टर्न शोध विश्वविद्यालय के 56 शिक्षकों द्वारा अर्पित 16 सिलेबस, नीति-कथन और असाइनमेंट को कोड किया: अनुमति और स्वीकारोक्ति-कथन 59% में मज़बूत था, डेटा गोपनीयता 75% में मौन थी, उद्धरण नियम 19% में मज़बूत थे, और 81% में कोई संशोधन-खंड नहीं था। उन्हीं शिक्षकों ने 71% पर बताया कि संस्थागत दिशानिर्देशों ने उनकी पाठ्यक्रम सामग्री को "बिल्कुल नहीं" या "थोड़ा" आकार दिया, जो अंतराल को सिलेबस जितना ही दिशानिर्देशों में स्थित करता है। प्रकटीकरण-खंड उतना ही अच्छा होता है जितना उसके पीछे का टेम्पलेट और उद्धरण मानक।
 
 ## प्रभावी प्रकटीकरण का डिज़ाइन
 

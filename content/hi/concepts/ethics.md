@@ -1,7 +1,7 @@
 ---
 title: "नैतिकता"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,13 +9,17 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-19T10:16:37-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
 connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
@@ -101,6 +105,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 
 नैतिक जागरूकता, चिंतनशील तर्क और [[self-report-measures|स्व-सूचित]] उत्तरदायी अभ्यास काफी हद तक स्वतंत्र रूप से विकसित होते हैं। 350 नाइजीरियाई कंप्यूटिंग [[higher-ed|स्नातकों]] की तीन वार्षिक तरंगों में [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] ने पाया कि तीनों उल्लेखनीय रूप से बढ़े, फिर भी उनके वृद्धि कारक लगभग असंबद्ध थे और प्रारंभिक जागरूकता ने बाद के वृद्धि का पूर्वानुमान नहीं किया।
 
+नैतिक प्रक्रिया में आत्मविश्वास बढ़ सकता है, जबकि आत्म-ज्ञान वहीं रहता है। [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones और Hoover (2026)]] ने स्नातक नेतृत्व नैतिकता ऐच्छिक पाठ्यक्रम में GenAI बनाया, एक ही [[case-based-learning|मामले]] को एक बार बिना सहायता और एक बार ChatGPT के साथ क्रम से चलाया, और लगभग 80 छात्रों से 38 मेल खाते आत्मविश्वास सर्वेक्षणों का विश्लेषण किया। 0–10 स्केल पर, नैतिक दुविधा को पहचानने की स्व-मूल्यांकित क्षमता 7.24 से 8.39 हुई और सुसंगत व न्यायोचित निर्णय लेने की क्षमता 7.24 से 8.45, दोनों p < .001 पर, और निर्णय की व्याख्या के लिए नैतिक सिद्धांतों का उपयोग 5.39 से 7.08 हुआ। दो आंतरदृष्टि मदें — अपने गुणों, मूल्यों और अधिकारों की पहचान (p = .063) और यह समझाना कि व्यक्तिगत मूल्य निर्णय को कैसे प्रभावित करते हैं (p = .124) — नहीं बदलीं, जो इस लाभ को नैतिक आत्म-ज्ञान के बजाय प्रक्रियात्मक कौशल में स्थापित करता है।
+
 ## संबंध
 
 नैतिकता [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]] और [[governance]] से जुड़ती है। यह अन्य सभी AI शिक्षा अवधारणाओं की मानदंडीय नींव है — वह ढाँचा जिसके भीतर निष्पक्षता, पारदर्शिता, स्वायत्तता और सुरक्षा के प्रश्न उठाए और समाधान किए जाते हैं।
@@ -110,3 +116,9 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **"नकल का ढाँचा GenAI नैतिकता के बारे में सोचने का पर्याप्त तरीका है।"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] तर्क देते हैं कि संस्थाओं को जनरेटिव AI के प्रश्नों को **नकल के ढाँचे के बजाय साझेदारी नैतिकता** के माध्यम से तय करना चाहिए। ढाँचा तय करता है कि कौन से प्रश्न पूछे जाएँगे, और दुराचार का ढाँचा शैक्षणिक उद्देश्य के बारे में नहीं पूछ सकता।
 - **"संकाय और छात्र इस बात पर सहमत हैं कि क्या नैतिक है।"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç और Sever (2026)]], **971 छात्रों और 135 संकाय** का एक [[mixed-methods-research|मिश्र-विधि]] अध्ययन, पाता है कि नैतिक आयाम दोनों समूहों के बीच अलग हो जाते हैं। एक दृष्टिकोण से लिखी नीति दूसरे को गलत प्रस्तुत करेगी।
 - **"नैतिक सहमति उपयोग से पहले आती है।"** **उपयोग नैतिक सहमति से तेज़ी से बढ़ता है**: एक US शिक्षक-शिक्षा कार्यक्रम में चार सेमेस्टरों में छात्रों का GenAI उपयोग **मूल्यांकन तैयारी के लिए 57% से 83% तक चढ़ा**। मानदंड अभ्यास से बन रहे हैं, उलटा नहीं।
+
+## क्या नैतिकता शिक्षण कारगर है
+
+AI नैतिकता शिक्षण को अक्सर एक ऐसी धारणा पर औचित्य दे दिया जाता है जिसकी कोई परख नहीं करता: यह कि [[ethics|नैतिकता शिक्षा]] कुछ बदलती है। 66 अध्ययनों और 9,978 छात्रों की 2024 की व्यवस्थित समीक्षा और मेटा-विश्लेषण शिक्षा में सामान्य रूप से उस धारणा की सबसे अच्छी उपलब्ध परख है। नैतिकता हस्तक्षेपों ने नियंत्रण स्थितियों के मुकाबले नैतिक एवं नैतिकतागत परिणामों को g = 0.55 से बढ़ाया, और सच्चे प्रभावों का 73% पूर्व-पंजीकृत सहायक सीमा से अधिक था — लेकिन **वितरण प्रारूप ने मॉडरेशन को वहन किया**: चर्चा-आधारित और चर्चा-सह-उपदेशात्मक प्रारूप कारगर रहे (g = 0.56 और g = 0.68), जबकि केवल-व्याख्यान निर्देशन शून्य से भिन्न नहीं था (g = 0.10)। ऑनलाइन वितरण व्यक्तिगत उपस्थिति से अप्रभेद्य था।([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+AI नैतिकता तक यह स्थानांतरण उस अध्ययन का निष्कर्ष नहीं, एक अनुमान है, लेकिन एक मज़बूत अनुमान: पूर्वाग्रह और इमानदारी पर व्याख्यान के रूप में पढ़ाया गया AI नैतिकता मॉड्यूल, इस साक्ष्य के आधार पर, उपलब्ध सबसे कमज़ोर प्रारूप है।

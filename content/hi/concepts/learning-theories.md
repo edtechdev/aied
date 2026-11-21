@@ -1,7 +1,7 @@
 ---
 title: सीखने के सिद्धांत
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
 connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
@@ -48,6 +52,8 @@ connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgener
 - **संज्ञान और संज्ञानात्मक वास्तुकला।** [[cognitive-psychology|संज्ञानात्मक मनोविज्ञान / cognitivism]] इस परिवार का छत्र है: संज्ञानात्मक भार सिद्धांत (कार्यशील स्मृति की सीमाएँ निर्देश को कैसे आकार देती हैं), द्वि-प्रक्रिया सिद्धांत (तेज़ सहज बनाम धीमा विवेकपूर्ण प्रसंस्करण), और [[metacognition]] (अपनी सीखने की निगरानी और नियमन) उन *आंतरिक* तंत्रों को समझाते हैं जिनसे AI उपकरण जुड़ते हैं या जिन्हें वे दरकिनार करते हैं।
 - **प्रेरणा और स्व-निर्देशन।** [[self-determination-theory]] (स्वायत्तता, सामर्थ्य, संबद्धता), [[self-efficacy]] (अपनी क्षमता में विश्वास), [[self-regulated-learning]] (लक्ष्य-निर्धारण, निगरानी और समायोजन), और [[motivation]] समझाते हैं कि शिक्षार्थी AI के साथ जिस तरह से जुड़ते हैं वह क्यों करते हैं।
 - **सीखने का संदर्भ और गतिविधि।** [[experiential-learning]], [[active-learning]], [[project-based-learning]], [[collaborative-learning]], [[transfer-of-learning]], [[desirable-difficulties]], और [[embodied-learning]] उन गतिविधियों और संदर्भों का वर्णन करते हैं जो स्थायी सीखना उत्पन्न करते हैं।
+
+2026 की एक व्यवस्थित समीक्षा जिसमें 163 GenAI अध्ययन शामिल हैं, साहित्य को पाँच सिद्धांत-परंपराओं पर मैप करती है और पाती है कि रचनावादी और संचारवादी (connectivist) डिज़ाइन प्रभावशाली हैं, जबकि व्यवहारवादी सुदृढ़ीकरण-डिज़ाइन मुख्यतः प्राथमिक-स्तरीय अनुकूली मंचों तक सीमित हैं ([[saranya-pedagogical-practices-genai-learning-theories-2026|Saranya और Saravanan, 2026]])। इसके समीक्षकों ने प्रत्येक अध्ययन का सिद्धांत उसके वर्णन किए गए अभ्यास से अनुमानित किया क्योंकि प्राथमिक अध्ययन शायद ही कभी किसी का नाम लेते थे, जो स्वयं इस बात की खोज है कि क्षेत्र सिद्धांत की रिपोर्टिंग कैसे करता है।
 
 ## सीखने के सिद्धांत और सीखने की उपलब्धियाँ
 
@@ -90,16 +96,6 @@ connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgener
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] का **शिक्षण-सहजीवन (Pedagogical Symbiosis)** एक मज़बूत सत्तात्मक दावा करता है: शिक्षार्थी एक *Post-Human* इकाई है जिसका संज्ञान उपकरण-सहायित नहीं बल्कि संकर है, जिसे चार सिद्धांतों द्वारा संगठित किया गया है: संज्ञानात्मक बोझ-हटाना और संवर्धन, ज्ञानमीमांसा सह-निर्माण, संज्ञानात्मक सहजीवन, और गतिशील पहचान-निर्माण; इसे Symbiotic Portfolio रूब्रिक और एक "Cognitive Choreographer" [[teacher-role|शिक्षक-भूमिका]] के रूप में संचालित किया गया है; यह स्पष्ट रूप से अपरीक्षित है।
 
-## सामान्य भ्रांतियाँ
-
-**"सीखने के सिद्धांतों में से एक सही है, इसलिए सिद्धांत-चयन रुचि का विषय है।"** सिद्धांत इस बारे में भिन्न दावे करते हैं कि प्रमाण क्या गिना जाता है, इसलिए वही डेटा विपरीत निष्कर्षों का समर्थन कर सकता है। सबसे स्पष्ट उदाहरण: फुलाए हुए गृहकार्य स्कोर **व्यवहारवाद के अंतर्गत अधिगम** और **रचनावाद के अंतर्गत टिकाऊ समझ बनाने की विफलता** दोनों के रूप में पढ़े जाते हैं। इसलिए सिद्धांत-चयन यह निर्धारित करता है कि कोई हस्तक्षेप सफल हुआ या नहीं, जो उसे शैलीगत पसंद के बजाय मापन-निर्णय बनाता है।
-
-**"जो उपकरण गहरे अधिगम का समर्थन करता है, वह किसी भी ढाँचे के अंतर्गत गहरे अधिगम जैसा दिखेगा।"** वह एक ढाँचे के अंतर्गत सफलता और दूसरे के अंतर्गत विफलता जैसा दिखेगा, जैसा ऊपर है। यही कारण है कि क्षेत्र के परिणाम-मापों को तटस्थ मानकर उधार लेने के बजाय घोषित सिद्धांत के विरुद्ध उचित ठहराया जाना चाहिए।
-
-**"अधिक सिद्धांतों का अर्थ बेहतर समझा गया क्षेत्र है।"** निर्णय के बिना संचय प्रगति का विपरीत है। AI युग के लिए प्रस्तावित सिद्धांत उनके परीक्षण से तेज़ी से बढ़ते हैं, और परिपक्वता का संकेत प्रतिस्पर्धी पूर्वानुमानों का समाधान है, जिसके लिए ऐसे डिज़ाइन चाहिए जो उन्हें अलग कर सकें, न कि ऐसी सूचियाँ जो उन्हें समाहित कर लें।
-
-**"AI के बारे में शिक्षा, सैद्धांतिक रूप से, शिक्षा में AI के समान है।"** वे भिन्न धाराओं से आते हैं: एक पूछता है कि शिक्षार्थी AI को विषय के रूप में कैसे समझने लगते हैं, दूसरा कि AI सीखने के होने का ढंग कैसे बदलता है। इन्हें मिलाने से ऐसी साहित्य समीक्षाएँ बनती हैं जो दो भिन्न प्रमाण-आधारों को मिला देती हैं और किसी का भी सुसंगत चित्र प्रस्तुत नहीं करतीं।
-
 ## अभ्यास के लिए निहितार्थ
 
 **प्रशिक्षकों के लिए**
@@ -115,3 +111,13 @@ connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgener
 **शोधकर्ताओं के लिए**
 
 - ढाँचों के संचय के बजाय सिद्धांतों के बीच निर्णय के लिए डिज़ाइन करें। परिपक्वता प्रतिस्पर्धी पूर्वानुमानों के समाधान के रूप में दिखती है, शब्दावली की वृद्धि के रूप में नहीं।
+
+## सामान्य भ्रांतियाँ
+
+**"सीखने के सिद्धांतों में से एक सही है, इसलिए सिद्धांत-चयन रुचि का विषय है।"** सिद्धांत इस बारे में भिन्न दावे करते हैं कि प्रमाण क्या गिना जाता है, इसलिए वही डेटा विपरीत निष्कर्षों का समर्थन कर सकता है। सबसे स्पष्ट उदाहरण: फुलाए हुए गृहकार्य स्कोर **व्यवहारवाद के अंतर्गत अधिगम** और **रचनावाद के अंतर्गत टिकाऊ समझ बनाने की विफलता** दोनों के रूप में पढ़े जाते हैं। इसलिए सिद्धांत-चयन यह निर्धारित करता है कि कोई हस्तक्षेप सफल हुआ या नहीं, जो उसे शैलीगत पसंद के बजाय मापन-निर्णय बनाता है।
+
+**"जो उपकरण गहरे अधिगम का समर्थन करता है, वह किसी भी ढाँचे के अंतर्गत गहरे अधिगम जैसा दिखेगा।"** वह एक ढाँचे के अंतर्गत सफलता और दूसरे के अंतर्गत विफलता जैसा दिखेगा, जैसा ऊपर है। यही कारण है कि क्षेत्र के परिणाम-मापों को तटस्थ मानकर उधार लेने के बजाय घोषित सिद्धांत के विरुद्ध उचित ठहराया जाना चाहिए।
+
+**"अधिक सिद्धांतों का अर्थ बेहतर समझा गया क्षेत्र है।"** निर्णय के बिना संचय प्रगति का विपरीत है। AI युग के लिए प्रस्तावित सिद्धांत उनके परीक्षण से तेज़ी से बढ़ते हैं, और परिपक्वता का संकेत प्रतिस्पर्धी पूर्वानुमानों का समाधान है, जिसके लिए ऐसे डिज़ाइन चाहिए जो उन्हें अलग कर सकें, न कि ऐसी सूचियाँ जो उन्हें समाहित कर लें।
+
+**"AI के बारे में शिक्षा, सैद्धांतिक रूप से, शिक्षा में AI के समान है।"** वे भिन्न धाराओं से आते हैं: एक पूछता है कि शिक्षार्थी AI को विषय के रूप में कैसे समझने लगते हैं, दूसरा कि AI सीखने के होने का ढंग कैसे बदलता है। इन्हें मिलाने से ऐसी साहित्य समीक्षाएँ बनती हैं जो दो भिन्न प्रमाण-आधारों को मिला देती हैं और किसी का भी सुसंगत चित्र प्रस्तुत नहीं करतीं।

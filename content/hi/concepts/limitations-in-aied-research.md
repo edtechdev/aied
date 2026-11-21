@@ -1,7 +1,7 @@
 ---
 title: AIEd अनुसंधान की सीमाएँ
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-20T07:28:37-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

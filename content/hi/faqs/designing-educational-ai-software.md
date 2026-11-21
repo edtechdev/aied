@@ -1,14 +1,14 @@
 ---
 title: "प्रभावी शैक्षणिक एआई सॉफ़्टवेयर डिज़ाइन करने के लिए सर्वोत्तम प्रथियाँ और सुझाव क्या हैं?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

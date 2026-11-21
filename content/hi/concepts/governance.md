@@ -1,7 +1,7 @@
 ---
 title: "AI शासन"
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-20T17:35:27-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-16T09:06:00-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: qwen/qwen4-max:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
-connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026]
+connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026, isaifan-ai-governance-quality-assurance-accreditation-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -131,6 +135,8 @@ AI शासन [[ethics]] (वे सिद्धांत जिन्हे�
 शासन-प्रावधान केवल सामान्य नीति दस्तावेज़ों में दिखे और आवेदकों को बाँधने वाले वित्तपोषण-विशिष्ट उपकरणों में कभी नहीं, इसलिए कोई वित्तपोषक सिद्धांत रूप में AI को शासित कर सकता है जबकि जिस अनुसंधान का वह भुगतान करता है उस पर कुछ भी लागू नहीं करता ([[chan-ai-policy-gap-2026|Chan, 2026]])।
 
 2026 का एक तर्क शासन को शिक्षार्थी-उपयोग से आगे बढ़ाकर स्वयं शिक्षण-सामग्री के उत्पादन तक ले जाता है। Chew (2026) प्रतिनिधित्वात्मक सामग्री (छवियाँ, आरेख), तर्क-सामग्री (केस, सिमुलेटेड रोगी) और मूल्यांकन-सामग्री (आइटम, रूब्रिक, प्रतिपुष्टि) को अलग करते हैं। प्रत्येक प्रकार की एक विशिष्ट विफलता और एक भिन्न जाँचकर्ता होता है: एक संदर्भ मानक, एक विशेषज्ञ जो बिना सहायता निष्कर्ष तक पहुँच सके, या इस बात का साक्ष्य कि कोई उपकरण क्या मापता है। चूँकि पाठ्यक्रम-सामग्री में एक विश्वसनीय-सी त्रुटि प्रत्येक शिक्षार्थी तक पहुँचती है और हो सकता है कभी संकेत के रूप में सामने न आए, वे जवाबदेही संस्था में स्थापित करते हैं और चार क्षमताएँ निर्दिष्ट करते हैं: जानें कि क्या उपयोग में है, उपयोग से पहले परीक्षण करें, निष्कर्षों पर कार्रवाई करें जिसमें वापसी शामिल है, और स्वीकृत उपकरणों के विचलन की निगरानी करें ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]])।
+
+मान्यता दूसरा परिचालन मार्ग है: [[isaifan-ai-governance-quality-assurance-accreditation-2026|Isaifan और Hasna (2026)]] दस-चरणीय समीक्षा चक्र को चार AI अनुमति स्तरों पर मैप करते हैं, और अनुपालन निष्कर्ष, रेटिंग तथा स्वयं निर्णय मनुष्यों के लिए आरक्षित रखते हैं।
 
 ## सामान्य भ्रांतियाँ
 

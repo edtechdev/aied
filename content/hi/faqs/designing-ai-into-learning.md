@@ -1,13 +1,13 @@
 ---
 title: "एआई को सीखने के अनुभव में कैसे डिज़ाइन किया जाना चाहिए?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-15T16:10:44-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

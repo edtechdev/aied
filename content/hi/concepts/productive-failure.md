@@ -1,7 +1,7 @@
 ---
 title: उत्पादक विफलता
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,13 +9,17 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
 connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
@@ -54,6 +58,8 @@ connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-ste
 
 ### त्रुटियों से सीखना
 त्रुटिपूर्ण प्रक्रिया अवधारण में सहायता कर सकती है और अवधारणात्मक परिवर्तन भी कर सकती है, विशेषकर जब शिक्षार्थियों को अपनी समझ पर विचार और उसे पुनर्गठित करने के अवसर मिलते हैं (कपूर, 2008; श्वार्ट्ज़ और मार्टिन, 2004)। एआई युग में, यह उन प्रणालियों में व्यवहार्य रूप से लागू होता है जहाँ शिक्षार्थी प्रत्यक्ष सुधार प्राप्त करने के बजाय अपनी त्रुटियों का निदान और सुधार स्वयं करते हैं — उदाहरण के लिए, [[lukesova-clue-before-correction-2026|संकेत-पूर्व-सुधार]] कार्य, जहाँ एआई मार्गदर्शित संकेत देता है और शिक्षार्थी सही समाधान का अनुमान लगाते हैं, जिससे संज्ञानात्मक भार घटता है और स्वायत्त संशोधन को समर्थन मिलता है। विस्तृत प्रतिपुष्टि केवल सत्यापन-आधारित प्रतिपुष्टि की तुलना में उल्लेखनीय रूप से अधिक [[learning-gains|अधिगम लाभ]] उत्पन्न करती है (हैटी और टिंपरले), और प्रतिपुष्टि का समय भी मायने रखता है।
+
+**त्रुटियाँ एक नियंत्रित AI-सहायित कोडिंग कार्य में पाठ्यक्रम थीं।** [[shen-ai-skill-formation-2026|Shen और Tamkin (2026)]] ने डेवलपर्स से एक नई Python लाइब्रेरी बिना GPT-4o सहायक के और उसके साथ सीखने के लिए कहा, और बिना-सहायता समूह को औसतन तीन त्रुटियाँ मिलीं, सहायता के तहत एक (Q1–Q3: 2.0–5.0 बनाम 0.0–3.0)। सहायक ने जो त्रुटियाँ हटाईं, वे लाइब्रेरी-विशिष्ट थीं जो कोरूटीन की समझ मजबूर करती हैं, जैसे एक बिना-प्रतीक्षित कोरूटीन या एक कोरूटीन-वस्तु जहाँ एक फ़ंक्शन अपेक्षित था। बिना-सहायता समूह ने फिर बिना AI के लिए दिए गए प्रश्नोत्तरी में 17% अधिक अंक पाए, जिसमें डिबगिंग पर सबसे बड़ा अंतर और कोड-पठन पर सबसे छोटा अंतर था, और जनित कोड को चिपकाने के बजाय फिर से टाइप करने से भी यह अंतर बंद नहीं हुआ। लेखक स्वतंत्र त्रुटि-समाधान को तंत्र मानते हैं, हालाँकि वे संबंध को मापते हैं, मध्यस्थता को नहीं।
 
 ### भूलें बनाम त्रुटियाँ
 एक उपयोगी अंतर: **भूलें** आमतौर पर चूक या विस्मरण होती हैं (अक्सर लापरवाही या अतिभार से) जिनमें न्यूनतम नैदानिक मूल्य हो सकता है, जबकि **त्रुटियाँ** वास्तविक गलत समझ या दोषपूर्ण तर्क को दर्शाती हैं और अधिक उत्पादक सीखने की सामग्री होती हैं क्योंकि वे एक गलत धारणा उघाटती हैं जिसे संबोधित किया जा सकता है। त्रुटि विश्लेषण — यह पहचानना कि उत्तर *क्यों* गलत है — त्रुटियों से सीखने के केंद्र में है, और एक प्रमुख [[pedagogy|शिक्षाशास्त्रीय]] कौशल (और [[ai-feedback-quality|एआई प्रतिपुष्टि]] डिज़ाइन के लिए एक लक्ष्य) है।

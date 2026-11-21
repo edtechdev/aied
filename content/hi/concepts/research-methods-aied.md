@@ -1,7 +1,7 @@
 ---
 title: "AIED में शोध विधियाँ"
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
 connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
@@ -63,7 +67,9 @@ AI-शिक्षा अध्यायनों की रिपोर्ट�
 - **उदाहरण:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]]।
 - **पूर्व-पंजीकरण द्वितीयक विश्लेषणों पर भी लागू होता है, केवल परीक्षणों पर नहीं।** [[crediting-assisted-work-inflates-mastery-2026|श्रीवास्तव (2026)]] ने समान ASSISTments लॉग (12,716 छात्र, 985,813 स्कोर की गई घटनाएँ) पर चार [[knowledge-tracing]] अद्यतन नियम चलाए जो केवल इस बात में भिन्न थे कि वे संकेतित पंक्तियों को कैसे स्कोर करते थे, एक फ़ाइल जिसमें पंजीकरण का URL मौजूद था उसके अस्तित्व तक पुष्टिकारक आधा सील रखा, और रिपोर्ट किया कि सभी चार पूर्व-पंजीकृत भविष्यवाणियाँ रहे। किसी भी पूर्णता को श्रेय देना एक कौशल-कठिनाई स्थिरांक के विरुद्ध बस ऊपर बाद के असहायित प्रदर्शन की भविष्यवाणी करता था (0.595 के विरुद्ध एकत्रित AUC 0.604) जबकि एक कठोर नियम के तहत 72.8% के विरुद्ध 93.9% छात्र–कौशल जोड़ों को महारत हासिल घोषित करता था। जब एक लॉग कई निष्कर्षों का समर्थन करता है, तो विश्लेषण को पहले से ठीक करना ही वह है जो तुलना को भरोसेमंद बनाता है।
 
-### सर्वेक्षण और संरचनात्मक-समीकरण-मॉडलिंग अध्यायन
+- **AI-बहिष्करण को स्पष्ट रूप से कोड करें।** बिना-AI पोस्टटेस्ट तभी सत्यापित बहिष्करण माना जाता है जब प्रतिबंध दस्तावेज़ीकृत हो और अनुपालन की जाँच हो; केवल पर्यवेक्षित या कागज़-आधारित परीक्षा योग्य नहीं है ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]])।
+
+### सर्वेक्षण और संरचनात्मक-समीकरण-मॉडलिंग अध्ययन
 
 अनुप्रस्थ-काट सर्वेक्षण स्व-रिपोर्टित दृष्टिकोण, अनुभूति, प्रेरणा, [[self-efficacy]], और [[technology-acceptance-model|तकनीक स्वीकृति]] को मापते हैं, प्रायः प्रतिगमन या संरचनात्मक समीकरण मॉडलिंग (SEM/PLS-SEM) के साथ मॉडलित ताकि परिकल्पित संबंधों और मध्यस्थों को परीक्षित किया जा सके। ये ज्ञानकोष के संग्रह पर प्रभुत्वित हैं, विशेष रूप से स्वीकृति, प्रेरणा और मनोवैज्ञानिक-तंत्र प्रश्नों के लिए।
 
@@ -105,6 +111,9 @@ DBR [[rct|प्रयोगों]] के कारणीय नियंत�
 
 - **ताकत:** एक बड़े, खंडित साहित्य का कुशल संश्लेषण; मेटा-विश्लेषण एकत्रित प्रभाव अनुमान उत्पन्न करता है और मध्यस्थों का पता लगाता है; साक्ष्य-आधारित प्रथा और अंतरालों की पहचान के लिए आवश्यक।
 - **सीमाएँ:** शामिल अध्यायनों की गुणवत्ता पर निर्भर (कचरा-अंदर/कचरा-बाहर); प्रकाशन पूर्वाग्रह; विषम विधियाँ और परिणाम माप संश्लेषण को कठिन बनाते हैं; AI बदलाव की गति को देखते हुए तेज़ी से बूढ़ा हो रहा।
+- 
+Google Scholar की प्रासंगिकता रैंकिंग गतिशील होती है, इसलिए इसे शामिल करने वाला एक PRISMA खोज केवल प्रश्न से पूरी तरह पुनरुत्पादित नहीं किया जा सकता ([[ai-mathematics-education-prisma-review-2026|Omirzakova and Tileubay (2026)]])।
+
 - **मेटा-शोध चेतावनी (2026):** AIED संश्लेषण आधार की आलोचनाएँ दिखाती हैं कि कई प्रारंभिक मेटा-विश्लेषण संरचना असंगतता, प्रभाव आकारों में अनिर्धारित निर्भरता, अनुपबद्ध प्रकाशन-पूर्वाग्रह आकलन — शीर्षक AI प्रभाव आकारों को फुलाते हुए — द्वारा कमज़ोर किए गए हैं ([[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]], और [[weidlich-chatgpt-effect-search-cause-2025]] देखें)। एकत्रित AIED प्रभाव आकारों को ऊपरी सीमाओं के रूप में मानें।
 - **उदाहरण:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]]।
 
@@ -123,7 +132,7 @@ DBR [[rct|प्रयोगों]] के कारणीय नियंत�
 
 ### अन्य डिज़ाइन: अनुदैर्ध्य, केस और सिमुलेशन अध्यायन
 
-प्रमुख परिवारों से आगे, ज्ञानकोष **अनुदैर्ध्य** डिज़ाइनों का उपयोग करता है जो शिक्षार्थियों को समय के साथ ट्रैक करते हैं ([[ai-lms-middle-school-longitudinal|एक अनुदैर्ध्य LMS अध्ययन]]), प्रामाणिक उपयोग के **केस और प्राकृतिक-स्थिति में** अध्यायन ([[ai-in-the-wild-college|असली छात्र बातचीत का बड़े पैमाने पर विश्लेषण]]), और **सिमुलेशन** अध्यायन जिनमें LLMs छात्रों या रोगियों के लिए खड़े होते हैं ([[llm-student-simulation-teacher-insights|सिमुलेटेड शिक्षार्थियों के रूप में LLMs]], [[simulation]])। ये चौड़ाई या नियंत्रण को यथार्थवाद और उन घटनाओं तक पहुँच के लिए व्यापार करते हैं जो अन्यथा देखना कठिन हैं।
+प्रमुख परिवारों से आगे, ज्ञानकोष **[[longitudinal-research|अनुदैर्ध्य]]** डिज़ाइनों का उपयोग करता है जो शिक्षार्थियों को समय के साथ ट्रैक करते हैं ([[ai-lms-middle-school-longitudinal|एक अनुदैर्ध्य LMS अध्ययन]]), प्रामाणिक उपयोग के **केस और प्राकृतिक-स्थिति में** अध्यायन ([[ai-in-the-wild-college|असली छात्र बातचीत का बड़े पैमाने पर विश्लेषण]]), और **सिमुलेशन** अध्यायन जिनमें LLMs छात्रों या रोगियों के लिए खड़े होते हैं ([[llm-student-simulation-teacher-insights|सिमुलेटेड शिक्षार्थियों के रूप में LLMs]], [[simulation]])। ये चौड़ाई या नियंत्रण को यथार्थवाद और उन घटनाओं तक पहुँच के लिए व्यापार करते हैं जो अन्यथा देखना कठिन हैं।
 
 ### विशेषज्ञ-सहमति विधियाँ: डेल्फी तकनीक
 

@@ -1,7 +1,7 @@
 ---
 title: "समूह कार्य"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,13 +12,17 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
@@ -81,6 +85,8 @@ GenAI और समूह मूल्यांकन पर सबसे सी
 - **विवाद समूहवाद का प्रतिकार कर सकता है।** [[genai-counter-learner-groupthink-2025|विस आदि (2025)]] ने जानबूझकर विपरीत रुख अपनाया: एक AI एजेंट (CALIE) जिसे बारह पेशेवर-अंतर विषयक [[problem-based-learning|PBL]] टीमों में विवादपूर्ण दृष्टिकोण डालने के लिए प्रेरित किया गया था, ने [[critical-thinking|आलोचनात्मक सोच]] और सकारात्मक समूह गतिशीलता को प्रोत्साहित किया, जो अनुपालन के दबाव का प्रतिकार करता है जो समूह कार्य अन्यथा उत्पन्न कर सकता है। जिन आदि से इसका विरोधाभास शिक्षाप्रद है — चुनौती तब मदद करती है जब वह इच्छित डिज़ाइन हो, और नुकसान करती है जब वह किसी अप्रकट सह-प्रभाव हो।
 - **तटस्थ मध्यस्थ की सीमा।** [[spritz-ai-disciplinary-mediation-student-teams-2026|स्प्रिट्ज़]] — एक AI जो अंतर-विषयक टीमों में निहित मान्यताओं को सामने लाकर विषयगत सीमाओं का मध्यस्थता करती है — को संज्ञानात्मक सहायता और संबंधगत बफ़र दोनों के रूप में महत्व दिया गया — लेकिन छात्रों का भरोसा बोझ-वहन करता था और उसी क्षण घट गया जब AI ने तटस्थ मध्यस्थ से सलाहकार या चुनौती देने वाले की ओर कदम बढ़ाया। भूमिका बदलाव इसलिए स्पष्ट और विन्यास योग्य होने चाहिए, चुपचाप नहीं।
 - **सहयोग स्वयं शिक्षण का विषय हो सकता है।** [[golrang-propact-pair-programming-2026|प्रोपैक्ट]] *युग्म* — व्यक्ति को नहीं — का विश्लेषण की इकाई के रूप में व्यवहार करता है, साझा ध्यान और प्रयास को मॉडल करता है ताकि 30 सेकंड पहले तक सहयोगी टूटन की भविष्यवाणी की जा सके। सक्रिय प्रतिक्रिया पाने वाले युग्मों ने उच्च डिबगिंग सफलता प्राप्त की और बाद में सहयोगी [[regulation]] में निरंतर लाभ दिखाया: AI सहयोग को सिखा सकता है, किसी कार्य को केवल सहारा देना ही नहीं।
+
+- **एक संबंधित विस्थापक।** एक यादृच्छिक 33-टीम प्रयोग में, [[nixon-social-cost-ai-teammate-2026|निक्सन एट अल. (2026)]] ने पाया कि AI साथी ने सबसे अधिक वार्तालाप-समय लिया फिर भी सबसे कम नई जानकारी जोड़ी, जबकि छात्र एक-दूसरे को कम प्रतिक्रिया देते थे (प्रतिक्रियाशीलता g = −0.78) और कम संबंधितता (4.58 बनाम 5.27) रिपोर्ट करते थे। जितना अधिक AI ने वार्तालाप-समय पर हावी बनाया, उतना कम छात्रों को महत्व महसूस हुआ (r = −0.52)।
 
 ### दक्षता–नियमन का समझौता
 

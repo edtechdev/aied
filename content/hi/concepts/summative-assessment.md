@@ -1,7 +1,7 @@
 ---
 title: "समापक मूल्यांकन"
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
 connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
@@ -53,6 +57,8 @@ connected_articles: [llm-grading-assistants-public-health-2026, academic-dishone
 ## एआई-प्रतिरोधी समापक प्रारूप
 
 ज्ञान आधार में एक प्रमुख विषय यह है कि **समापक प्रारूप एआई-प्रतिरोध निर्धारित करता है** — जितनी अधिक बार कोई कार्य लाइव, व्यक्तिगत-रूप से, स्वयं प्रस्तुत प्रदर्शन माँगता है, छात्रों के लिए अपनी सीख के विकल्प के रूप में एआई को प्रतिस्थापित करना उतना ही कठिन होता है।
+
+एआई-प्रतिरोधी प्रारूप ग्रेड की रक्षा करते हैं, उसे पुनर्सोचा नहीं जाता: निरीक्षित परीक्षाएँ और मौखिक परीक्षाएँ मौजूदा मूल्यों और प्रथाओं को स्थिर करती हैं, इसलिए सुधार ट्रांसक्रिप्ट पर रुक जाता है, उस स्तर पर नहीं कि ग्रेड क्या प्रतिनिधित्व करता है ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]])।
 
 - **[[oral-assessment|मौखिक परीक्षाएँ]] और मूल्यांकन।** [[fenton-oral-exams-ai-authentic-assessment-2025|फेंटन (2025)]] तर्क देते हैं कि मौखिक परीक्षा एक कम-तकनीकी, स्वभाविक रूप से एआई-प्रतिरोधी समापक प्रारूप है: इसका वास्तविक-समय, संवादात्मक संवाद समझ, [[critical-thinking|समालोचनात्मक सोच]], और तर्क की जाँच करता है याद करने के बजाय, छात्रों को एआई का उपयोग उत्तर बनाने और याद करने से रोकता है, और व्यावसायिक अभ्यास को प्रतिबिंबित करता है। [[socratic-tests-conversational-assessment|सुकरातीय परीक्षाएँ]] और [[code-review-genai-cs1|कोड-समीक्षा साक्षात्कार]] इसे गतिशील, संवादात्मक और साक्षात्कार-आधारित समापक मूल्यांकन तक विस्तारित करती हैं।
 - **बंद-पुस्तक, प्रॉक्टर्ड, असहाय उपाय।** [[generative-ai-reduced-study-time-math|प्रमाण]] और [[stromberg-generative-ai-learning-penalty-secondary-2026|बड़े पैमाने के अध्ययन]] दिखाते हैं कि प्रॉक्टर्ड बंद-पुस्तक परीक्षाएँ — फुलाए हुए गृहकार्य या घर-पर-करने वाले कार्य नहीं — जब छात्र एआई का उपयोग करते हैं तो असली सीखने का भरोसेमंद संकेत हैं। [[responsible-assessment-ai-era-stanford-2026|उत्तरदायी मूल्यांकन]] ढाँचे इन असहाय उपायों को वैधता-आधारित पुनर्डिज़ाइन में अंतर्निहित करते हैं। जहाँ परीक्षाएँ ऑनलाइन रहती हैं, [[remote-proctoring|रिमोट प्रॉक्टरिंग]] उस भूमिका को संभालती है, और स्वचालित प्रॉक्टरिंग पर संग्रह की दो समीक्षाएँ गोपनीयता और [[bias-mitigation|निष्पक्षता]] चिंताओं को पहचानने की प्राप्तियों के साथ पाती हैं ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]])।

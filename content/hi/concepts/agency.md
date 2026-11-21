@@ -1,7 +1,7 @@
 ---
 title: शिक्षार्थी सक्रियता
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,13 +10,17 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
@@ -55,6 +59,7 @@ connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-
 - **साझा संज्ञानात्मक सक्रियता छात्र-GAI अंतःक्रिया तक विस्तृत होती है।** 6,788 ChatGPT-सहायित टर्नों को कोडित करने वाली एक 14-श्रेणी योजना ने सातवीं कक्षा के छात्रों के 59% टर्नों को साझा संज्ञानात्मक सक्रियता में रखा, और लेखक तर्क देते हैं कि यह संकल्पना, जिसे पहले मुख्य रूप से सहपाठी सहयोग में अध्ययन किया गया था, को संज्ञानात्मक और मेटा-संज्ञानात्मक आयामों को शामिल करने के लिए विस्तृत होना चाहिए ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang एट अल., 2026]])।
 
 - **सक्रियता को प्रॉम्प्ट से ही श्रेणीबद्ध किया जा सकता है।** Human Agency Depth Taxonomy छात्र के इंजीनियरिंग योगदान को AI के आउटपुट से स्वतंत्र छह स्तरों पर अंक देती है; 105 प्रथम-वर्ष के सॉफ़्टवेयर इंजीनियरिंग छात्रों के 962 प्रॉम्प्ट में, 84.2% निम्नतम स्तर से आगे निकले परंतु केवल 5.3% ने सिस्टम बाधाएँ निर्दिष्ट कीं ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba और Chaffey, 2026]])।
+**व्यक्तिकरण मुख्यतः विकल्प देता है, लेखकत्व नहीं।** 63 रिपोर्टों में 61 अध्ययनों में, शिक्षार्थी-निर्देशित नियंत्रण 46 (75.4%) में कोडित हुआ — छात्रों ने समय, फोकस, प्रॉम्प्ट या गति चुनी — जबकि उद्देश्य-विशिष्ट या पाठ्यक्रम-अनुकूलित प्रणालियाँ दस (16.4%) में, प्रणाली-चालित अनुकूली व्यक्तिकरण पाँच (8.2%) में, और शिक्षक-डिज़ाइन की गई विभेदीकरण एक में दिखी। इस साक्ष्य पर, "व्यक्तिगत" शिक्षण का अर्थ आमतौर पर किसी और के डिज़ाइन किए स्थान के भीतर संचालन करना होता है, जो सक्रियता है चयन के रूप में, परिस्थितियों पर सक्रियता के रूप में नहीं। समीक्षा आवृत्ति को परिमाण न पढ़ने की भी चेतावनी देती है: किसी थीम की 39 अध्ययनों में उपस्थिति इस बात की कुछ भी नहीं कहती कि उसका प्रभाव कितना बड़ा या सुसंगत था ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido एट अल., 2026]])।
 
 **दस मॉडलों पर बेंचमार्क किया गया, तो सक्रियता का समर्थन वह क्षेत्र है जहाँ वे सीखने के बाद सबसे खराब प्रदर्शन करते हैं।** ImpactBench ने सकारात्मक मानदंडों पर एजेंसी और उद्देश्य 56.0% मापा (95% CI [49.2, 62.5]) और नकारात्मक मानदंडों पर 43.9% ([36.9, 50.8]), 14 उप-क्षेत्रों में दूसरा सबसे कम, और इसके स्वायत्तता-संरक्षणकारी सहायता मानदंड यह पूछते हैं कि कोई मॉडल संदर्भ और समझौते प्रस्तुत करता है या किसी कार्यवाही का निर्धारण कर देता है ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]])। मॉडल सहायक होने की तुलना में हानि से बचने में भी बहुत कम संगत थे: 38.6 अंक का फैलाव बनाम 15.9 अंक।
 

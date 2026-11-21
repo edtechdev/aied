@@ -1,7 +1,7 @@
 ---
 title: "मेटा-विश्लेषण और व्यवस्थित समीक्षा"
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 translation_of: concepts/meta-analysis-systematic-review
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

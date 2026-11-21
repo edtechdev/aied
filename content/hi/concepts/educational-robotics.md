@@ -1,7 +1,7 @@
 ---
 title: "शिक्षा में रोबोट"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -19,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
 connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
-> **शिक्षा में रोबोट (शैक्षिक रोबोटिक्स)** — भौतिक या अनुकरणीय रोबोटों का [[teacher-role|शिक्षण]] और अधिगम के उपकरण के रूप में उपयोग। शैक्षिक रोबोटिक्स एक विस्तृत स्पेक्ट्रम तक फैली है: ऐसे प्रोग्रामेबल किट जो संगणनात्मक चिंतन और प्रोग्रामिंग सिखाते हैं, लेकर सामाजिक सहायक और मानवरूपी रोबोट जो ट्यूटर की भूमिका निभाते हैं, कहानियाँ सुनाते हैं, सांकेतिक भाषा प्रदर्शित करते हैं या सामाजिक कौशलों का अभ्यास कराते हैं। इसका मूल्य [[problem-solving|समस्या-समाधान]], [[critical-thinking|समालोचनात्मक चिंतन]], [[creativity]] और STEAM सहभागिता को बढ़ावा देने में तथा देहधारित अंतःक्रिया के माध्यम से अमूर्त संगणनात्मक अवधारणाओं को मूर्त बनाने में निहित है। इस ज्ञान आधार का रोबोटिक्स संग्रह [[curriculum-design|पाठ्यचर्या]] में एकीकृत प्रोग्रामिंग, LLM-संचालित संवादी ट्यूटर, सामाजिक सहायक [[storytelling-in-education|कथा-कथन]] रोबोट और सामाजिक-भावनात्मक अधिगम के लिए भूमिका-अभिनय तक फैला हुआ है। इसके आधार में यहाँ समाहित दो निकट संबंधित क्षेत्र हैं: **सामाजिक रोबोट** (सामाजिक अंतःक्रिया और संबंध-निर्माण के लिए डिज़ाइन किए गए रोबोट) और **मानव–रोबोट अंतःक्रिया (HRI)** (यह अध्ययन कि लोग रोबोटों को किस प्रकार समझते हैं, उन पर विश्वास करते हैं और उनके साथ सीखते हैं)।
+> **शिक्षा में रोबोट (शैक्षिक रोबोटिक्स)** — भौतिक या अनुकरणीय रोबोटों का [[teacher-role|शिक्षण]] और अधिगम के उपकरण के रूप में उपयोग। शैक्षिक रोबोटिक्स एक विस्तृत स्पेक्ट्रम तक फैली है: ऐसे प्रोग्रामेबल किट जो संगणनात्मक चिंतन और प्रोग्रामिंग सिखाते हैं, लेकर सामाजिक सहायक और मानवरूपी रोबोट जो ट्यूटर की भूमिका निभाते हैं, कहानियाँ सुनाते हैं, सांकेतिक भाषा प्रदर्शित करते हैं या सामाजिक कौशलों का अभ्यास कराते हैं। इसका मूल्य [[problem-solving|समस्या-समाधान]], [[critical-thinking|समालोचनात्मक चिंतन]], [[creativity]] और STEAM सहभागिता को बढ़ावा देने में तथा देहधारित अंतःक्रिया के माध्यम से अमूर्त संगणनात्मक अवधारणाओं को मूर्त बनाने में निहित है। रोबोटिक्स साक्ष्य [[curriculum-design|पाठ्यचर्या]] में एकीकृत प्रोग्रामिंग, LLM-संचालित संवादी ट्यूटर, सामाजिक सहायक [[storytelling-in-education|कथा-कथन]] रोबोट और सामाजिक-भावनात्मक अधिगम के लिए भूमिका-अभिनय तक फैला हुआ है। इसके आधार में यहाँ समाहित दो निकट संबंधित क्षेत्र हैं: **सामाजिक रोबोट** (सामाजिक अंतःक्रिया और संबंध-निर्माण के लिए डिज़ाइन किए गए रोबोट) और **मानव–रोबोट अंतःक्रिया (HRI)** (यह अध्ययन कि लोग रोबोटों को किस प्रकार समझते हैं, उन पर विश्वास करते हैं और उनके साथ सीखते हैं)।
 
 ## विचार के लिए प्रश्न
 
@@ -82,6 +86,8 @@ connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, r
 एक निर्धारक विषय यह है कि रोबोट तब प्रभावी होते हैं जब वे वास्तविक अधिगम लक्ष्यों का समर्थन करते हैं — अलग-थलग तकनीकी अभ्यास के रूप में नहीं। एक लैपटॉप-माउंटेड रोबोट प्रोजेक्टर ने सहायता उपलब्ध रहने पर लैपटॉप ChatGPT से बराबरी की (6.7 बनाम 7.3/10, p = .41) परंतु सहायता हटाए जाने के बाद अपना स्कोर बनाए रखा (7.0 बनाम 4.4/10, p = .003), 60% अधिक अल्पकालिक स्थानांतरण स्कोर — एक कार्य-निर्भर लाभ जिसे लेखक सामान्य प्रतिस्थापन के बजाय स्थानिक सह-अवस्थिति से जोड़ते हैं ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]])। रोबोट का मूल्य शैक्षणिक संदर्भ पर निर्भर करता है: संगणनात्मक चिंतन सिखाना ([[computational-thinking]]), [[stem-education|STEAM]] का समर्थन करना, [[cs-education|प्रोग्रामिंग]] कौशल बनाना, शिक्षार्थियों को प्रेरित करना ([[motivation]], [[student-engagement|सहभागिता]]), या [[social-emotional-learning]] और [[equity-in-ai-education|समावेशन]] का समर्थन करना। रोबोटिक्स [[project-based-learning]], [[game-based-learning]] और [[experiential-learning]] से भी जुड़ती है। प्रमुख डिज़ाइन विचारों में शिक्षार्थी की [[agency]] के संरक्षण, [[trust]] के निर्माण, [[self-efficacy]] के समर्थन और अधिगम को [[embodied-learning|देहधारित अंतःक्रिया]] में आधारित करना शामिल है। [[language-learning]] में, [[robot-assisted-language-learning-meta-analysis-2026|मेटा-विश्लेषणात्मक साक्ष्य]] देहधारित रोबोट-सहायित भाषा अधिगम की प्रभावशीलता की ओर संकेत करता है।
 
 - **AI-संचालित रोबोटिक्स सीखने के मार्ग।** एक रोबोटिक्स+AI पाठ्यचर्या में हाई-स्कूल छात्रों की [[educational-robotics-pathways-2026|एक गुणात्मक अध्ययन]] ने वास्तविक-विश्व अभ्यास, डिज़ाइन और चंचल रचनात्मक अभिव्यक्ति के माध्यम से अधिगम पाया (निर्माणवादी, ज्ञानमीमांसा-बहुलवादी दृष्टिकोण)।
+
+- लैन और चेन (2026) एक परीक्षण प्रस्तावित करते हैं कि शरीर बदलना कब सतही अनुकूलन है। शर्त इस स्वैप को केवल तब स्वीकार्य है जब अपरिवर्तनीय कर्नेल — अर्थात उद्देश्य, चरण-क्रम, शाखा-नियम, मानदंड, व्यक्तित्व और स्वर-निषेध — उसमें बना रहता है, और वह कॉन्फ़िगरेशन तब अस्वीकार किया जाता है जब नया शरीर उद्देश्य को आगे बढ़ाए बिना मांगें जोड़ता है ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]])।
 
 ## सामान्य भ्रांतियाँ
 

@@ -1,7 +1,7 @@
 ---
 title: "सीखने का डिज़ाइन"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire]
 translation_of: concepts/learning-design
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -28,8 +28,12 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
+    agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
-connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -125,6 +129,8 @@ AI-सहायित सीखने के अनुभव बना रहे
 - **डिज़ाइनर स्वायत्तता नहीं, मार्गदर्शनीयता माँगते हैं।** एक मद-निर्माण मंच का परीक्षण करने वाले आठ निर्देशात्मक डिज़ाइनर ([[wei-perspicacious-instructional-design-2026|वेई सहित, 2026]]) कठिनाई, प्रारूप और उद्गम पर नियंत्रण चाहते थे, उसे SUS पर 78.8 आँका, और अपनाव की शर्त के रूप में विश्वास बताया।
 
 डिज़ाइन तकनीक से अधिक प्रभावों की मध्यस्थता करता है, झांग और सहयोगियों के संश्लेषण में: वही जनरेटिव-AI क्षमता g = 0.92 पैदा करती है जब शिक्षार्थी उसे निर्देशित करता है और g = 0.34 जब वह स्वायत्त चलता है। इसलिए अंतःक्रिया-तरीका उपकरण की संपत्ति नहीं, एक डिज़ाइन निर्णय है ([[zhang-genai-l2-learning-meta-analysis-2026|झांग सहित, 2026]])।
+
+**एक चिंतनशील-सीखना डिज़ाइन-और-ऑडिट चक्र।** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys एट अल. (2026)]] SAREL प्रस्तावित करते हैं — चिंतनशील क्षमता और एक गैर-AI तुलना-बिंदु निर्दिष्ट करें; शिक्षार्थी-नियंत्रण और समकक्ष सुलभ मार्ग आवंटित करें; चिंतन और सत्यापन की आवश्यकता रखें; सीखने का मूल्यांकन समानता, कार्यभार और संसाधन-उपयोग के साथ करें; प्रमाण को पुनर्डिज़ाइन में लूप करें — यह AI-समर्थित चिंतन को अपनाने का मान लाभ के बजाय एक तुलनात्मक डिज़ाइन-प्रश्न बनाने का तरीका है। पाँच चरण एक अपरखे गए लेखक-प्रस्ताव हैं, जो सही प्रश्न गढ़ने के लिए दिए गए हैं, किसी परखी गई विधि के रूप में नहीं।
 
 ## सामान्य भ्रांतियाँ
 

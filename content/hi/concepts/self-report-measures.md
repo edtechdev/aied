@@ -1,7 +1,7 @@
 ---
 title: स्वयं-रिपोर्ट मापन
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T17:35:27-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,13 +14,17 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: qwen/qwen4-max:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
 connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -106,7 +110,13 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - [[preferred-scaffolding-ai-mathematical-modeling|एक scaffolding अध्ययन]] तर्क देता है कि अनुभूत उपयोगिता, उपयोग में सरलता, और तत्काल संतोष को [[scaffolding]] प्रभावशीलता के पर्याप्त संकेतक नहीं माना जाना चाहिए।
 - [[nie-personavlm-long-term-personalization-2026|व्यक्तित्व-संरेखित छात्र मॉडलिंग पर]] यह प्रेक्षण किया गया है कि उपयोगकर्ता संतोष के लिए अनुकूलन करना सीख के परिणामों के लिए अनुकूलन करने के समान नहीं है, और ये दोनों अलग हो सकते हैं।
 
+- [[kares-xai-evaluation-alignment-2027|एक पूर्व-पंजीकृत XAI अध्ययन (Kares et al., 2027)]] ने 166 प्रतिभागियों के साथ तीन व्याख्या विधियों की तुलना की और पाया कि संतोष (3.98, 3.92, 3.87) और trust रेटिंग सांख्यिकीय रूप से अभेद्य थीं, जबकि एक कार्य-मापन ने विधियों को अलग किया और एक गणितीय मीट्रिक ने उन्हें उलटे क्रम में रैंक किया। रेटिंग ने वहाँ कोई संकेत नहीं दिया जहाँ क्षमता-मापन ने दिया।
+
 साथ ले जाने योग्य पैटर्न: जब लक्ष्य सीख हो तो संतोष गलत चीज़ों के प्रति उत्तरदायी होता है। जो प्रणाली तेज़ी से उत्तर देती है, सहजता से सहमत होती है, और प्रयास कम करती है वह उच्च रेटिंग पाएगी, और ये वही गुण हैं जिन्हें ज्ञान आधार कम [[desirable-difficulties|productive struggle]] और AI-सहायता प्राप्त कार्य पर फुली हुई उपलब्धि से जोड़ता है। रिपोर्टित संतोष और मापी गई सीख एक-दूसरे के शत्रु नहीं हैं; वे बस प्रतिस्थापक नहीं हैं, और पहले को दूसरे के प्रमाण के रूप में मानना यह इस पृष्ठ द्वारा दर्ज किया गया सबसे सामान्य चूक है।
+
+इस संग्रह में सबसे स्वच्छ within-subject मामले ने दोनों राशियाँ एक ही छात्रों पर मापीं। [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] ने दो सेमेस्टरों में व्यावसायिक-सांख्यिकी और अर्थशास्त्र के छात्रों का सर्वेक्षण किया, जिसमें एक ट्यूटर prompt, AI-जनित परीक्षा समीक्षा, AI-संरचित मौखिक परीक्षाएँ और AI-सहायता प्राप्त विषय विचार-मंथन एकीकृत थे। स्वयं-रिपोर्टित ChatGPT उपयोग आवृत्ति 1-7 स्केल पर 2.987 से बढ़कर 4.375 हुई (p < .001), आत्मविश्वास 3.663 से 4.000 (p = .004), और अनुभूत सहभागिता 1-3 स्केल पर 2.433 से 2.65 (p = .006) — उन छात्रों की सुसंगत कहानी जिन्होंने उपकरण का अधिक उपयोग किया और माना कि इसने मदद की।
+
+परीक्षा अंकों ने अलग कहानी बताई: उपयोग आवृत्ति सादे मॉडल में प्रदर्शन से असंबद्ध थी (-5.577, SE 5.566) और पूर्ण मॉडल में नकारात्मक रूप से संबद्ध (-13.918, SE 7.834, p = .076)। लेखक शून्य परिणाम को हानि का प्रमाण नहीं मानते, क्योंकि संघर्षरत छात्र AI का अधिक उपयोग कर सकते हैं; अध्ययन जो दिखाता है वह है हर धारणा-माप पर सार्थक हलचल, जबकि ग्रेडित प्रदर्शन में कोई संगत हलचल नहीं।
 
 **जनरेटिव-AI पूछताछ साहित्य में धारणा-माप कौशल-मापों से अधिक हैं।** 66-अध्ययन समीक्षा में, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] ने उपयोगकर्ता-धारणाओं को सबसे अधिक रिपोर्ट किया गया परिणाम-क्षेत्र पाया (32 अध्ययन, 48.5%), उसके बाद भावनात्मक परिणाम 25 पर, जबकि केवल 8 अध्ययनों (12.1%) ने पूछताछ कौशल मापे और उनमें से 4 के पास तुलना शर्त थी। लेखकों ने प्रमाण की कोई निश्चितता नहीं आँकी, इसलिए धारणा-गणनाएँ बताती हैं कि क्या पूछा गया, यह नहीं कि क्या हासिल हुआ।
 
@@ -120,6 +130,10 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - **जहाँ दक्षता ही संरचना हो वहाँ प्रदर्शन का विकल्प.** GLAT के 20 बहुविकल्पीय मद ठीक इसलिए मौजूद हैं क्योंकि स्वयं-रिपोर्ट दक्षता के दावे को नहीं ढो सकती।
 
 **इस क्षेत्र के अधिकांश उपकरण विश्वसनीयता रिपोर्ट करते हैं और लगभग कोई वैधता नहीं।** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] Su et al. की 36 AI साक्षरता अध्ययनों की समीक्षा का हवाला देते हैं, जिसमें 63.8% उपकरणों ने विश्वसनीयता प्रमाण और 20% से कम ने वैधता प्रमाण रिपोर्ट किया। उसी समीक्षा में 50 [[k-12]] ढाँचों के बीच केवल एक जनरेटिव-AI-विशिष्ट उपकरण, 27-मद GAIAS, मिला। किसी स्केल का आंतरिक रूप से सुसंगत होना इस बारे में कुछ नहीं कहता कि वह अपने शीर्षक में नामित संरचना मापता है या नहीं।
+
+एक हालिया संकाय सर्वेक्षण इस विफलता को उसके चरम रूप में दिखाता है। [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] ने 315 विश्वविद्यालय संकाय सदस्यों को 300 मदें दीं, कुल स्केल के लिए α = 0.997 रिपोर्ट किया, और कोई कारक विश्लेषण नहीं चलाया, फिर भी एक Naive Bayes मॉडल ने 315 में से 314 उत्तरदाताओं को निम्न, मध्यम और उच्च दक्षता बैंड में सही वर्गीकृत किया (सटीकता 0.9968)। जिस उपकरण के मद लगभग-प्रतिलिपियों की तरह व्यवहार करते हैं, उसे मुट्ठी भर जनसांख्यिकीय और संस्थागत चरों से लगभग पूर्णतः पूर्वानुमानित किया जा सकता है, क्योंकि वह बहुत कम स्वतंत्र जानकारी ढोता है: लेखकों ने अपने SHAP विश्लेषण में संबद्धता को सबसे बड़ा वैश्विक योगदानकर्ता पाया, और तीन बैंड परिभाषित करने वाले कट-पॉइंट कायम नहीं रखे गए।
+
+पूर्व-पश्चात शब्दावली उस परिवर्तन को गढ़ सकती है जिसे वह रिपोर्ट करती है। AI-सिम्युलेटेड रोगी के दो-समूह पायलट में, [[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]] ने भेंट-पूर्व मदों को अपेक्षाओं के रूप में और भेंट-पश्चात मदों को अनुभव के रूप में शब्दबद्ध किया, इसलिए अंतर-अंकों ने एक अपेक्षा की तुलना एक स्मृति से की। उनके अस्थायी BSLS-P ने प्रशासनों में −0.39 से 0.87 तक के उप-स्केल alpha लौटाए, और जो मद-समूह एक साथ नहीं चले, वे फिर भी मनोवैज्ञानिक-सुरक्षा का दावा ढोते रहे।
 
 ## नमूनीकरण, प्रतिक्रिया और अनुत्तर
 
@@ -152,6 +166,7 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - पूछें कि यह किस प्रकार का दावा है। धारणाएँ उचित हैं; व्यवहार अनुमानित है; सीख और दक्षता इस रास्ते से पहुँच में नहीं हैं।
 - जाँचें कि किसने उत्तर दिया और किसने नहीं दिया। प्रतिक्रिया दर, नमूनीकरण फ्रेम, और स्वयं-चयन यह निर्धारित करते हैं कि प्रतिशत किसका वर्णन करते हैं — किसी एक संस्थान के विद्यार्थियों का अध्ययन उस सेटिंग का वर्णन करता है, सामान्य रूप से विद्यार्थियों का नहीं।
 - उपकरण जाँचें। क्या इसे इस संरचना और आबादी के लिए सत्यापित किया गया था, और यदि समूहों की तुलना की जाती है तो क्या अनुरूपता का परीक्षण किया गया था?
+- परीक्षण पर भरोसा करने से पहले वितरण जाँचें। एक सत्यापित प्रोग्रामिंग self-efficacy स्केल के दोनों कारक sign परीक्षणों पर चले (p = .0074 और p = .012), जबकि कारक 1 का माध्यिका पूर्व-परीक्षण से पश्चात-परीक्षण तक 5.87 पर स्थिर रहा, और सभी कारक नकारात्मक रूप से विषम थे ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]])।
 - एकल-स्रोत डिज़ाइनों पर नज़र रखें। यदि भविष्यवक्ता और परिणाम दोनों एक ही समय बिंदु पर एक ही प्रश्नावली से आते हैं, तो संबंध सामान्य-विधि विचरण के साथ-साथ प्रस्तावित सिद्धांत के साथ भी सुसंगत हैं।
 - संतोष को डिज़ाइन संकेत के रूप में मानें, सीख के परिणाम के रूप में नहीं। उच्च संतोष के साथ अपरीक्षित सीख, AI उपकरण मूल्यांकन में मानक विन्यास है, और यह संग्रह दिखाता है कि ये दोनों अलग होते हैं।
 - उन अध्यायनों को प्राथमिकता दें जो अपना काम दिखाते हैं: बताई गई प्रतिक्रिया दरें, बताई गई सीमाएँ, और प्रमाण का कम से एक स्रोत जो पूछने से नहीं आता हो।

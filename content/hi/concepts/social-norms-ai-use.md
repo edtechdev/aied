@@ -1,7 +1,7 @@
 ---
 title: "एआई उपयोग के सामाजिक मानदंड"
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -23,7 +23,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
 connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]

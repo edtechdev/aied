@@ -1,7 +1,7 @@
 ---
 title: "AIEd शोध का व्याख्या और अनुप्रयोग"
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-19T14:06:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

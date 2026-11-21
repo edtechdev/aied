@@ -1,7 +1,7 @@
 ---
 title: इंजीनियरिंग शिक्षा
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,13 +12,17 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
@@ -47,6 +51,7 @@ connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engin
 - **देहात्मक और [[multimodal]] मूल्यांकन:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] कंप्यूटर-दृष्टि इशारा ट्रैकिंग को वाणी के [[llm]] विश्लेषण के साथ एकीकृत करके एक बहुजँनु ढाँचा विकसित करते हैं, जिससे इंजीनियरिंग छात्रों की सांख्यिकी की वैचारिक समझ का मूल्यांकन होता है; वे दिखाते हैं कि इशारा वाणी से परे नैदानिक साक्ष्य जोड़ता है और इशारा–वाणी का घना युग्मन संगत समझ का संकेत देता है।
 - **कार्यबल का रूपांतरण:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] AI और इंजीनियरिंग/कंप्यूटिंग कार्यबल पर अमेरिकी ग्रे साहित्य की समीक्षा करते हैं, "डुअल ट्रेन प्रॉब्लम" (तेज़ बदलाव बनाम तत्काल नीति) को ढालते हैं, और उभरती भूमिकाओं के लिए टिकाऊ AI क्षमताओं, [[ethics]] और [[governance]], और कौशल-आधारित प्रमाणपत्रों की सिफ़ारिश करते हैं।
 - **छात्र अपनाना और निर्भरता:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] इंजीनियरिंग/CS छात्रों के [[generative-ai|GenAI]] उपयोग के इरादे बनाने और उस इरादे की भरोसा कैसे होता है, इसे मॉडल करने के लिए प्रौद्योगिकी स्वीकृति मॉडल को *आलोचनात्मक उपयोग* के साथ विस्तारित करते हैं — समझ, मूल्यांकन, प्रोग्रामिंग और इंजीनियरिंग-प्रोजेक्ट कार्यों में — और पाते हैं कि समझ-संबंधी कार्यों के लिए मध्यम, उचित निर्भरता और भारी उपयोग है, लेकिन पूर्ण मूल्यांकन लेखन के लिए सीमित उपयोग है। [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] बांग्लादेशी इंजीनियरिंग छात्रों के अपनाने को मॉडल करने के लिए TAM को [[technology-acceptance-model|UTAUT]] के साथ एकीकृत करते हैं, उपयोग विचरण का 64% समझाते हैं, और नौकरी प्रासंगिकता, परिणाम प्रदर्शित करने की क्षमता, और व्यक्तिपरक मानदंडों को प्रमुख चालकों के रूप में उजागर करते हैं।
+- **आदत व्यक्ति को विस्थापित कर देती है:** आदत, इरादे नहीं, ने भविष्यवाणी की कि जब GenAI उपलब्ध हो जाता है तो फिलिपीन इंजीनियरिंग छात्र और शिक्षक लोगों से मदद कम कितनी बार माँगते हैं, और अकादमिक-अखंडता चिंता वह एकमात्र संरचना थी जिसने उस विस्थापन को घटाया ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo & Bernardo, 2026]])।
 - **[[prompt-engineering|संकेत नीति]] प्रदर्शन की भविष्यवाणी करती है, उपयोग की मात्रा नहीं:** 128 चौथे वर्ष के इंजीनियरिंग छात्रों में, AI क्वेरी दक्षता और AI-चालित समस्या-समाधान शैक्षणिक सफलता के सबसे मजबूत भविष्यवक्ता थे और संचयी GPA को नियंत्रित करने के बाद भी महत्वपूर्ण रहे ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 - **छात्रों के अपने रूपक उपकरणों से बड़े हैं जो वे प्रदान करते हैं:** [[ai-engineering-education-balancing-act|Kudina (2026)]] ने पाया कि 100 इंजीनियरिंग छात्रों ने LLM का सबसे अधिक मूल्य लेखन सहायता, वैचारिक स्पष्टीकरण और कोडिंग के लिए रखा, फिर भी उन्हें "ओरेकल" और "ट्यूटर" के रूप में ढाला — अधिकार और [[personalized-learning|व्यक्तिगतकरण]] जो एक संभाव्यात्मक पाठ जनरेटर नहीं दे सकता, एक "क्रूएल ऑप्टिमिज़्म" जो उन सत्यापन कौशलों पर निर्भर है जो छात्र अभी भी बना रहे हैं।

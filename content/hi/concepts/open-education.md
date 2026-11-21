@@ -1,7 +1,7 @@
 ---
 title: "ओपन शिक्षा"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,13 +13,17 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
@@ -63,11 +67,13 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enha
 
 ## ओपन शिक्षाशास्त्र और अभ्यास की ओर मोड़
 
-ओपन शिक्षाशास्त्र छात्र को उपभोक्ता से योगदानकर्ता बना देता है: असाइनमेंट ऐसी चीज़ बनाता है जो प्रकाशित, लाइसेंस-प्राप्त और पुनः प्रयोग योग्य हो। [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] इस विचार की क्षेत्र में सबसे स्वच्छ परीक्षा देते हैं। [[early-childhood-elementary-ai-education|बाल विकास]] के एक प्रारंभिक पाठ्यक्रम के दो वर्गों ने एक ही पाठ्यपुस्तक को अद्यतन किया, उनमें से एक ने जनरेटिव एआई उपकरणों के साथ। 113 असाइनमेंटों में दोनों वर्गों के छात्रों ने सूचना साक्षरता कौशल में वृद्धि बताई, और दोनों के बीच सांख्यिकीय रूप से सार्थक अंतर नहीं था: समय का प्रभाव F(1, 84) = 47.30, p < 0.001, आंशिक η2 = 0.36, जबकि समय और वर्ग की अंतःक्रिया F(1, 84) = 0.04, p = 0.85 थी। एआई वाले वर्ग ने अधिक काम पूरा किया और थोड़ा कम अंक पाए, 180 में से 174.73 बनाम 173.86।
+ओपन शिक्षाशास्त्र छात्र को उपभोक्ता से योगदानकर्ता बना देता है: असाइनमेंट ऐसी चीज़ बनाता है जो प्रकाशित, लाइसेंस-प्राप्त और पुनः प्रयोग योग्य हो। [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] इस विचार की क्षेत्र में सबसे स्वच्छ परीक्षा देते हैं। [[early-childhood-elementary-ai-education|बाल विकास]] के एक प्रारंभिक पाठ्यक्रम के दो वर्गों ने एक ही पाठ्यपुस्तक को अद्यतन किया, उनमें से एक ने जनरेटिव एआई उपकरणों के साथ। 113 असाइनमेंटों में दोनों वर्गों के छात्रों ने [[information-and-media-literacy|सूचना साक्षरता]] कौशल में वृद्धि बताई, और दोनों के बीच सांख्यिकीय रूप से सार्थक अंतर नहीं था: समय का प्रभाव F(1, 84) = 47.30, p < 0.001, आंशिक η2 = 0.36, जबकि समय और वर्ग की अंतःक्रिया F(1, 84) = 0.04, p = 0.85 थी। एआई वाले वर्ग ने अधिक काम पूरा किया और थोड़ा कम अंक पाए, 180 में से 174.73 बनाम 173.86।
 
 अभ्यास का अपना परिपक्वता-साहित्य है। [[duan-open-educational-practices-evolution-2026|Duan (2026)]] ने [[meta-analysis-systematic-review|PRISMA]] 2020 के अंतर्गत 540 रिकॉर्ड छानकर ओपन शैक्षणिक अभ्यास के चौदह मॉडल निकाले, तीन आयामों पर उनकी तुलना की, और निष्कर्ष दिया कि जनरेटिव एआई स्थापित मॉडलों के नीचे बैठता है, उन्हें हटाता नहीं; यह तर्क पेपर [[tpack|TPACK]] के सामने रखता है। [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] 1970 से चली आ रही संरचित समीक्षा में इंटरैक्टिविटी के बारे में इसी तरह का निष्कर्ष देते हैं: इंटरैक्टिव विशेषताएँ प्रदर्शित प्रभाव से अधिक डिज़ाइन का तर्क हैं, और उनके बताए सबसे मज़बूत प्रभाव-आकार OER में मापे नहीं गए, बल्कि [[physics-education|भौतिकी शिक्षा]] के पुराने कामों से उधार लिए गए हैं।
 
 दो और अध्ययन दिखाते हैं कि अभ्यास की परत कितनी जल्दी शासन की परत बन जाती है। [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya and Miranda (2026)]] यूनेस्को (UNESCO) और ICDE की एक रेज़िडेंसी का दस्तावेज़ीकरण करते हैं जिसमें 13 देशों के 110 प्रतिभागी 10 टीमों में थे, पर उनका सर्वेक्षण आधार 54 संस्थानों से 72 प्रतिक्रियाएँ है और प्रतिक्रिया-दर नहीं बताई गई, जो संयुक्त राष्ट्र के 2030 एजेंडा को लक्षित रोडमैप के लिए पतला आधार है। और [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu and Gao (2026)]] ने चीन के 30 प्रांतों में 512 शिक्षकों से पूछा कि क्या एआई साक्षरता ओपन शिक्षण अभ्यास में बदलती है, और पाया कि कम संस्थागत सहायता पर नवाचारी व्यवहार के रास्ते अप्रत्यक्ष प्रभाव 0.218 है, जो उच्च सहायता पर 0.042 तक गिर जाता है और सांख्यिकीय रूप से सार्थक नहीं रहता।
+
+लाइसेंसिंग की समस्या वह जगह है जहाँ खुला अभ्यास और [[generative-ai|जनरेटिव एआई]] क्षेत्र में टकराते हैं। [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] ने सात संकाय सदस्यों को एक आठ-सप्ताह के समूह में ChatGPT के साथ खुली सामग्री बनाने के लिए भुगतान किया, और पाया कि कार्यक्रम का अपना आउटपुट क्रिएटिव कॉमन्स लाइसेंस नहीं ले सका: मॉडल-जनित पाठ वह लेखकत्व के बिना सार्वजनिक डोमेन में जाता है जिसे लाइसेंस को जुड़ना होता है। वे लाइसेंस-प्राप्त परत को मॉडल-जनित परत से अलग करने की सिफ़ारिश करते हैं। एक दूसरा दृष्टिकोण मॉडल को पाठ्यक्रम के भीतर रखता है: [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] ने एक खुली पाठ्यपुस्तक और उसके पाठ्यक्रम दस्तावेज़ों पर एक लेखन सहायक को प्रशिक्षित किया, ताकि सहायक संसाधन का विस्तार करे न कि उसका प्रतिस्थापन करे, और [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] स्थानीय हार्डवेयर पर वही चाल दिखाते हैं, जिसमें शिक्षक सामग्री से प्रश्नोत्तरी बनती है और कुछ भी विक्रेता को नहीं भेजा जाता।
 
 ## समानता, स्थिरता और ग्लोबल साउथ
 

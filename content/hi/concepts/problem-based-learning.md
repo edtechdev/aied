@@ -1,7 +1,7 @@
 ---
 title: "समस्या-आधारित अधिगम"
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,13 +10,17 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
@@ -57,6 +61,8 @@ connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-cond
 - **डोमेन कार्यान्वयन।** [[engineering-education|बायोमेडिकल इंजीनियरिंग]] के लिए पीबीएल ढाँचे जनरेटिव एआई का उपयोग सारांश और कोडिंग सहायता के लिए रेप्लिकेशन पैकेजों के साथ करते हैं ([[pbl-biomedical-engineering-genai-2026|न्नमदी एट अल. 2026]]); एआई-समर्थित पीबीएल [[educational-robotics|रोबोटिक्स]] में [[computational-thinking|कम्प्यूटेशनल सोच]] को बढ़ाता है ([[ai-pbl-computational-thinking-2026|कम्प्यूटेशनल सोच के लिए एआई-समर्थित पीबीएल]]); और जेएनएआई-सक्षम आभासी रोगी चिकित्सा इतिहास लेने के ट्यूटोरियल का समर्थन करते हैं ([[genai-simulate-patient-history-pbl-2026|मूल एट अल. 2026]])।
 - **प्रमाण संश्लेषण।** [[educators-engagement-ai-pbl-review-2026|अमदान एट अल. (2026)]] एक [[human-ai-collaboration|मानव-कंप्यूटर इंटरैक्शन]] ढाँचे के भीतर पीबीएल में एआई के साथ शिक्षकों की सहभागिता पर 50 अध्ययनों (2015–2024) का [[meta-analysis-systematic-review|व्यवस्थित समीक्षा]] करते हैं।
 - **परिदृश्य-आधारित पीबीएल में जेएनएआई।** [[genai-scenario-based-healthcare-education-2026|नेतो और सहकर्मियों (2026)]] ने स्वास्थ्य शिक्षा में जेएनएआई की व्यवस्थित समीक्षा में परिदृश्य-आधारित दृष्टिकोणों के बीच समस्या-आधारित अधिगम को शामिल किया, और पाया कि [[prompt-engineering|प्रॉम्प्ट डिज़ाइन]] शिक्षण विशिष्टीकरण के रूप में कार्य करता है और संकर मानव-एआई सहयोग पूर्णतः स्वचालित दृष्टिकोणों से बेहतर प्रदर्शन करता है। समीक्षा पीबीएल संदर्भों में उत्पन्न कंटेंट के शिक्षण ढाँचों के साथ मजबूत संरेक्षण और अधिक पुनरुत्पादनीय प्रॉम्प्टिंग प्रथाओं की आवश्यकता पर प्रकाश डालती है।
+
+- **चरणबद्ध हटाव अंतिम चुनाव को निर्णय कार्य बना देता है।** [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez एट अल. (2026)]] में, 105 द्वितीय-वर्ष के इंजीनियरिंग छात्रों ने GenAI का उपयोग करके एक समस्या का अन्वेषण किया और प्रोटोटाइप बनाए, फिर उपकरणों को जानबूझकर प्रतिबंधित करके और पूर्व-निर्धारित मानदंडों के साथ एक समाधान चुना। लेखक आलोचनात्मक मूल्यांकन का श्रेय उपकरण को नहीं, उस प्रतिबंध को देते हैं।
 
 - **AI ट्यूटर के ज्ञान वितरण को ले जा सकता है लेकिन समूह सीखने के सामाजिक विनियमन को नहीं।** एक चार-सप्ताह की फ़ार्माकोलॉजी अर्ध-प्रयोग में, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] ने पाया कि AI-मध्यस्थ PBL ने सुविधाकर्ता-नेतृत्व वाले शैक्षणिक लाभों से मेल किया (समूह-बीच p = 0.474), जबकि सुविधाकर्ता-नेतृत्व वाले समूहों ने समूह गतिशीलता (26.51 बनाम 24.74, p = 0.035) और महत्वपूर्ण सोच (14.75 बनाम 13.09, p < 0.001) में लाभ बरकरार रखा।
 

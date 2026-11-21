@@ -1,7 +1,7 @@
 ---
 title: "मेटाकॉग्निशन"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T18:51:24-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [student-guide-to-ai]
 translation_of: concepts/metacognition
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
 connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
@@ -69,6 +73,8 @@ connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-
 
 प्रवाहपूर्णता ही यह बात है कि यह हानि अनदेखी क्यों रहती है। शिक्षार्थी अपने सीखने का आकलन आंशिक रूप से इससे करते हैं कि सामग्री को कितनी आसानी से संसाधित किया गया, और Bjork et al. (2013) दिखाते हैं कि प्रवाह संकेत तब लोगों को अपनी समझ का अधिक अनुमान लगाने पर उतार देते हैं जब सामग्री आसान लगती है; प्रवाहशील AI-जनित पाठ यह अनुभूति तब भी दे देता है जब समझ न हो, और यह एक निर्मित दक्षता-भ्रम की स्थिति बनाता है। [[generativism-learning-theory|जेनेरेटिविज़्म]] इसे वह कारण मानता है जिससे अनुकूली मेटाकॉग्निशन को मान लिया नहीं जा सकता: शिक्षार्थी को यह पूछना होगा कि पढ़ने की सहजता समझ को दर्शाती है या नहीं, बजाय इसके कि सहजता को ही उत्तर पढ़ लिया जाए।
 
+इस तंत्र का एक प्रत्यक्ष GenAI परीक्षण है। सामग्री को अपरिवर्तित रखते हुए और केवल व्याख्या की प्रवाहपूर्णता को ही बदलते हुए, Zhang (2026) ने पाया कि सीखने के निर्णय 70.79% थे, पारंपरिक पाठ के 61.00% के मुकाबले, जबकि प्रदर्शन स्थिर रहा, और तीन-मिनट की बिना-सहायता पुनर्प्राप्ति ने प्रवाह–JOL ढलान को 9.13 से 1.65 तक काट दिया ([[zhang-processing-fluency-genai-metacognitive-judgments-2026|Zhang, 2026]])।
+
 **जागरूकता यह गारंटी नहीं देती कि पूर्णता रुक जाएगी।** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] *मेटाकॉग्निटिव रूप से असंगत पूर्णता* को नाम देता है: एक शिक्षार्थी जिसने वास्तविक प्रयास किया, जिसके पास यह गठित प्रथम-पुरुष निर्णय है कि समझ नहीं आई, और फिर भी कार्य जारी रखता है — वही स्थिति जिसे प्रवाह-भ्रम और प्रयास-वापस लेने वाले दोनों विवरण अनदेखा कर देते हैं।
 
 शिक्षार्थी AI की लागत के बारे में भी गलत अंशांकित होते हैं: प्रतिभागियों ने स्वतंत्र समय का सही अनुमान लगाया, लेकिन AI-सहायित समय का कम अनुमान लगाया, और कम प्रयास की सूचना दी (NASA-TLX पर 0.61 अंक) जबकि AI ने 24 में से केवल तीन कार्यों को तेज़ किया — यह पूर्वाग्रह तब अनुपस्थित था जब कल्पित सहायक कोई और व्यक्ति था ([[cognitive-offloading-speedup-illusion|Yu et al. (2026)]]).
@@ -88,6 +94,8 @@ connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-
 - **प्रत्येक कार्य के लिए एक AI-उपयोग-स्तर तय करें।** HAIML अपने तीन स्तरों को चार AI उपयोग स्तरों से जोड़ता है — कोई AI उपयोग नहीं से लेकर ब्रेनस्टॉर्मिंग, AI सहयोग, और आउटपुट-मूल्यांकन के साथ AI-एकीकृत निर्माण तक — ताकि एक प्रशिक्षक किसी कार्य का स्तर तय करे और हर स्तर पर मेटाकॉग्निटिव प्रतिबिंब को केंद्रीय रखे ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]])।
 - Scheu et al. के [[conversational-ai|चैटबॉट]] वाले **उदाहरण-आधारित पाठ्यक्रम** ने **समझी गई दक्षता** (एक मेटाकॉग्निटिव [[self-assessment]]) बढ़ाई, तब भी जब अकेला [[llm]] सहायक ने नहीं बढ़ाई
 - **एक उभरता ढाँचा केंद्र में केवल व्यक्ति को नहीं, प्रणाली को भी रखता है।** 135 STEM-कक्षा अध्ययनों (24 मूल अध्ययन) का एक एक बिब्लियोमेट्रिक-[[meta-analysis-systematic-review|व्यवस्थित समीक्षा]] एक पोस्टह्यूमैनिस्ट ढाँचे को उभरता पाता है जो AI को सीखने के सह-विनियामक के रूप में स्थापित करता है, और विश्लेषण की इकाई को व्यक्तिगत प्रतिबिंब से प्रणाली-स्तरीय [[regulation]] और [[distributed-cognition|वितरित संज्ञान]] की ओर खिसकाता है ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+कठिनाई उस माँग की ऊपरी सीमा तय करती है। स्नातक असेंबली-भाषा पाठ्यक्रम में 109 सहायता-माँग प्रयासों में, मेटाकॉग्निटिव संकेतन कम-कठिनाई वाले प्रश्नों पर दुर्लभ था और मध्यम कठिनाई पर केंद्रित था, जहाँ संकेतित प्रयासों में सही उत्तर की संभावना 3.79 गुना अधिक थी ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]])। कुल मिलाकर संकेतित प्रयास सही होने के लिए कम संभावित थे (OR = 0.35), जिसे लेखक इस प्रकार पढ़ते हैं कि संकेत उन जगहों पर खर्च हुए जहाँ ज्ञान समाप्त हो गया, न कि निर्भरता के रूप में। याद के स्तर पर बना प्रश्न-बैंक वह प्रतिबिंबी संवाद उत्पन्न नहीं करेगा जिसके लिए स्कैफोल्ड बनाया गया है।
 
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] ने GPT-4o-mini को 14,100 कक्षा-प्रतिबिंबों में वाक्य-स्तर पर चार मेटाकॉग्निटिव उप-तत्वों — लक्ष्य निर्धारण, रणनीति चयन, सीखने पर प्रतिबिंब और प्रयास विनियमन — की पहचान करने के लिए सूक्ष्म-प्रशिक्षित किया। मानव विश्वसनीयता ने ऊपरी सीमा तय की: प्रारंभिक दोहरी कोडिंग κ = 0.32 से 0.51 पर सहमत हुई, अंशांकन ने सहमति को κ = 0.52 से 1.00 तक उठाया, और मॉडल सटीकता ने वही क्रम अपनाया — लक्ष्य निर्धारण 91.28%, सीखने पर प्रतिबिंब 67.44%, प्रयास विनियमन 60.74% — 18,883 लेबल किए गए नमूनों में।
 
@@ -142,6 +150,8 @@ Scheu et al. (2026) ने एक महत्वपूर्ण विभाज
 
 - **संकेत को एक मेटाकॉग्निटिव चक्र के भीतर समाहित करें।** IDEA ढाँचा जनरेटिव AI के उपयोग को इरादा, विघटन, अभिव्यक्ति और अनुकूलन के क्रम में रखता है, और संकेत को योजना और निगरानी के एक चरण बनाता है, अकेले कौशल के रूप में नहीं; इससे सिखाए गए छात्रों ने उसी तरीके से सिखाए गए साथियों की तुलना में सभी पाँच कार्य श्रेणियों में उच्च-गुणवत्ता वाले संकेत बनाए जिन्हें भूमिका–कार्य–संदर्भ–प्रारूप संकेत सिखाया गया था ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]])।
 
+शिक्षकों के मेटाकॉग्निशन संबंधी विवरणों पर भी छात्रों की स्व-सूचनाओं जितनी ही समीक्षा आवश्यक है। 25 चीनी विश्वविद्यालय शिक्षकों में, AI जो नहीं कर सकता — भावना, शारीरिकता, मेटाकॉग्निशन, अन्तर्निहित ज्ञान, निर्णय — इसके इर्द-गिर्द एक साझा सीमा हर स्थिति में दिखी, और सत्यापन 25 में से 24 में स्पष्ट साक्ष्य लेकर आया। लेकिन दोनों कोड एक सीधे प्रश्न के बाद आए — AI क्या प्रतिस्थापित नहीं कर सकता — इसलिए यह सहमति यह बताती है कि शिक्षकों ने उस प्रश्न का उत्तर कैसे दिया, न कि वे स्वतः कोई चिंता उठाए थे। प्रोटोकॉल द्वारा प्रस्तुत बौद्धिक-क्षय संप्रत्यय पर, नौ ने इसे स्वीकार किया और ग्यारह ने इसे सशर्त बनाया। यह निष्कर्ष एक मापन-संबंधी सावधानी है: संकेतन के तहत सार्वभौमिक दिखने वाली कोई मान्यता संकेत का एक कृत्रिम परिणाम हो सकती है ([[qiang-teachers-metacognitive-defense-offloading-2026|Qiang & Wang, 2026]])।
+
 ## उपकरण डिज़ाइन के लिए निहितार्थ
 
 1. **सोचने की "घर्षण" बनाए रखें:** यदि AI प्रतिबिंब लिख देता है, तो छात्र मेटाकॉग्निटिव कौशल नहीं बनाता। डायरी सहायकों को स्कैफोल्ड करना चाहिए, लेखक बनना नहीं।
@@ -165,6 +175,8 @@ AI उस **मेटाकॉग्निटिव सीमा** को बद
 - **प्रतिबिंब AI पहुँच के साथ बढ़ा, और उसने परीक्षा-अंकों के बजाय तर्क को पोषित किया।** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou, Beege और Kimmig (2026)]] ने नौ सप्ताह के पाठ्यक्रम में तीन कक्षाओं (N = 87) को तीन बिंदुओं पर मापा। ज्ञान सभी स्थितियों में सुधरा, किसी भी AI स्थिति के लिए कोई लाभ नहीं और कोई मैथ्यू प्रभाव नहीं (BF01 = 8.70), लेकिन प्रतिबिंबी उपयोग (स्रोत जाँचना और AI आउटपुट को अपनाने से पहले सत्यापित करना) AI स्थिति में नियंत्रण समूह से कहीं अधिक था (M = 3.72 बनाम 2.82, F(1, 40) = 20.21, p < 0.001) और आलोचनात्मक सोच की भविष्यवाणी की (β = 0.43, p < 0.001, R² = 0.183) जबकि किसी ज्ञान-लाभ की नहीं। प्रतिबिंब केवल उपकरण-पहुँच से ही दिखा, स्कैफोल्डिंग से नहीं, और क्योंकि इसका लाभ तर्क में आता है, एक ज्ञान परीक्षा AI-समर्थित पाठ्यक्रम के मेटाकॉग्निटिव लाभ को दर्ज नहीं करेगा।
 - **एक मेटाकॉग्निटिव स्व-सूचना उपकरण के भीतर, जागरूकता बाकी सबसे आगे निकलती है।** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai और Alshahri (2026)]] ने 649 सऊदी माध्यमिक छात्रों के साथ AI-समर्थित STEM सीखने के 45-वस्तु माप को मान्य किया (CFI = 0.983, RMSEA = 0.019; उप-स्केल ω = 0.888–0.905) और घटकों को रैंक करने के लिए इस्तेमाल किया। चार आयामों ने स्व-विनियामित सीखने के अंकों में 68% विचलन समझाया, जिसमें AI-आधारित मेटाकॉग्निटिव जागरूकता सबसे मज़बूत थी (β = 0.38, p < 0.001), संज्ञानात्मक स्थानांतरण और अनुकूलनशीलता अगले (β = 0.29, p = 0.008), और रचनात्मक तथा आलोचनात्मक AI-STEM तर्क महत्वपूर्ण नहीं (β = 0.14, p = 0.135)। जागरूकता वह घटक है जो अनुकूली प्रदर्शन लेकर आता है, लेखक उप-स्केलों को एक वैश्विक अंक के बजाय अलग-अलग सूचित करने की सलाह देते हैं, और उच्च-क्रम के तर्क को तर्क-गुणवत्ता कार्यों के लिए सुरक्षित रखते हैं; फिर भी यह माप स्व-सूचना है, इसलिए ऊपर की कार्यशाला अध्ययन की तरह यह समझी गई क्षमता पकड़ता है, प्रेक्षित रणनीति-उपयोग नहीं।
 - **मूल्यांकनकर्ता की अपनी निगरानी भी मेटाकॉग्निटिव कार्य है।** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl और Leuders (2026)]] तर्क देते हैं कि एक AI-जनित [[cognitive-diagnosis|नैदानिक अनुमान]] कच्चा साक्ष्य नहीं है, बल्कि पहले ही की गई एक व्याख्या है, इसलिए शिक्षकों को इसे अपने ही अवलोकनों के साथ एक प्रक्रिया में एकीकृत करना चाहिए जिसे वे *मेटा-निदान* कहते हैं, और जानबूझकर तय करना चाहिए कि इसे स्वीकार करना है, अस्वीकार करना है, या संशोधित करना है। यह शिक्षार्थी के लूप के बगल में एक दूसरा मेटाकॉग्निटिव लूप रखता है: केवल यह नहीं कि छात्र AI के साथ सोच का विनियमन कैसे करता है, बल्कि यह भी कि शिक्षक, प्रणाली के उस दावे का मूल्यांकन कैसे करता है जो वह उस सोच के बारे में करता है।
+
+कार्यकारी प्रकार्य पड़ोसी रचना है, और एक निष्कर्ष इन्हें स्पष्ट रूप से अलग करता है। ADHD वाले 46 महाविद्यालय छात्रों पर [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder और Stratchan]] के अध्ययन ने पाया कि संज्ञानात्मक लचीलेपन का एक प्रदर्शन-माप साक्षात्कार प्रदर्शन की भविष्यवाणी करता था, जबकि MSLQ स्व-नियमन उप-स्केल नहीं (p = 0.312)। यह जानना कि कोई कैसे नियमन करता है, दबाव में नियम बदलने में सक्षम होने के समान नहीं है, और [[executive-function|कार्यकारी प्रकार्य]] पर का पृष्ठ उस अंतर के क्षमता-पक्ष को संभालता है। [[sidorkin-extended-executive-cognition-2025|Sidorkin]] का ढाँचा उलटी दिशा लेता है, जो मनुष्य और मशीन के कार्य के बीच प्रयास के आवंटन को स्वयं एक मेटाकॉग्निटिव परिणाम मानता है।
 
 ## सामान्य भ्रांतियाँ
 

@@ -1,7 +1,7 @@
 ---
 title: "छात्रों के लिए AI उपयोग की फ्रेमिंग"
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, 
 ## मीडिया और सार्वजनिक फ्रेमिंग
 
 छात्रों को [[ai-education|शिक्षा में AI]] के आसपास के व्यापक मीडिया और सार्वजनिक प्रवचन द्वारा भी फ्रेम किया जाता है, जो किसी भी शिक्षक-संदेश से पहले उनकी आधार-अपेक्षाओं को आकार देता है। सार्वजनिक प्रवचन और इस बात का विश्लेषण कि YouTube जैसे प्लेटफ़ॉर्म शिक्षा में ChatGPT उपयोग को कैसे फ्रेम करते हैं, दिखाता है कि प्रचलित ढाँचे — प्रचार, भय-बताना, या व्यावहारिकता — यह प्रभावित करते हैं कि शिक्षार्थी और [[teacher-role|शिक्षक]] तकनीक को कैसे देखते हैं।([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) शिक्षकों की प्रभावी फ्रेमिंग का अर्थ प्रायः इन परिवेशी आख्यानों को जानबूझकर प्रतिकार या पुनर्निर्देशित करना होता है।
+
+यह फ्रेम क्रेडेंशियल को भी आगे की ओर कीमत लगाता है: ~1,750 अमेरिकी भर्ती पेशेवरों के साथ, छात्रों के AI उपयोग को सहायता के बजाय प्रतिस्थापन के रूप में वर्णित करने से साक्षात्कार की संभावना और वेतन-वार्ता की इच्छा दोनों कम हुईं, सबसे अधिक उच्च GPA आवेदकों के लिए ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]])।
 
 ## व्यावहारिक मार्गदर्शन
 

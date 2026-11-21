@@ -1,7 +1,7 @@
 ---
 title: "पुनर्प्राप्ति, अंतराल और प्रक्षेपण"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,13 +12,17 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
 connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
@@ -93,6 +97,8 @@ connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition
 - **यंत्रीकरण और मॉडलन की सीमाएँ।** संग्रह के [[knowledge-tracing]] मॉडल ठीक वहीं विफल होते हैं जहाँ अंतराल निर्णयों को इनकी आवश्यकता होती है, और लेखक पिछली सफलताओं को पूर्वव्यापी पूर्ण-डेटासेट फिटिंग के लिए ज़िम्मेदार ठहराते हैं बजाय परिनियोजन-यथार्थ मान्यकरण के। द्विभाषी साथी की फ़्लैशकार्ड गुणवत्ता सत्य-ज्ञान के विरुद्ध असत्यापित है, बिना किसी स्वतः तथ्य-जाँच परत के, और उसने कोई परिणाम अध्ययन नहीं चलाया।
 - **प्रक्षेपण का यहाँ लगभग कोई प्रत्यक्ष प्रमाण नहीं है।** जैसा ऊपर कहा गया, संग्रह में ब्लॉक-बनाम-प्रक्षेपित तुलना नहीं है, केवल एक अनुकरण जिसमें प्रक्षेपण कई में से एक चुनने योग्य रणनीति है।
 - **विषय जनसंख्या और सामग्री।** प्रमाण आधार [[higher-ed|उच्च शिक्षा]], STEM और सांख्यिकी सामग्री, तथा ज्यामिति और बहु-प्रतिगमन सामग्री के तथ्य-बनाम-कौशल भेदों पर केंद्रित है; [[k-12|के-12]] सेटिंग्स, [[humanities-education|मानविकी]] और लेखन, तथा गैर-पश्चिमी कक्षाओं तक सामान्यीकरण इन अध्ययनों द्वारा स्थापित नहीं है।
+
+[[pan-chatgpt-prequestions-memory-comprehension-2026|पैन, श्वेप्पे, तियो, इंद्रजाया और वेंज़ेल (2026)]] जेनरेटिव एआई को परीक्षण प्रभाव के अग्र पर रखते हैं: 675-शब्दों के पाठ को पढ़ने से पहले उत्तर किए गए दो ChatGPT-जनित पूर्व-प्रश्न। 90, 128, 153 और 157 वयस्कों के चार प्रयोगों में, पूर्व-प्रश्नन अकेले पढ़ने से बेहतर रहा (अभ्यस्त प्रश्नों पर d = 1.12, अनभ्यस्त प्रश्नों पर d = 0.78) और मानव-जनित प्रश्नों के बराबर रहा। शिक्षार्थी लगभग कभी सही उत्तर नहीं देते थे — प्रयोग 1 में 0.056 सटीकता — फिर भी अधिक सीखते थे, जो प्री-टेस्टिंग प्रभाव का हस्ताक्षर है। हस्तांतरण दूरी के साथ क्षीण हुआ: परीक्षित प्रश्न अनपरीक्षित समान-स्रोत प्रश्नों (d = 0.46) से बेहतर रहे, जो अनपरीक्षित भिन्न-स्रोत प्रश्नों (d = 0.32) से बेहतर रहे। प्रश्न-जनन सस्ता हो गया; पुनर्प्राप्ति अनिवार्य रही।
 
 ## सामान्य भ्रांतियाँ
 

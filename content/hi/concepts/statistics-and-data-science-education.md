@@ -8,15 +8,19 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:55:14-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-26"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [math-education, cs-education, stem-education, discipline-specific-aied, assessment-validity, automated-question-generation, personalized-learning, inquiry-based-learning, situated-learning, intelligent-tutoring, explainable-ai]
 connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-tutor-statistical-programming-adoption-2026, student-llm-use-ai-question-difficulty-data-science-2026, tactile-statistical-graphs-accessibility, guided-llm-scaffolding-independent-learning, lund-socially-accountable-data-science-xai-2026]
@@ -60,6 +64,8 @@ connected_articles: [arthur-dagflow-agentic-synthetic-data-statistics-2026, ai-t
 सबसे स्पष्ट सकारात्मक परिणाम किसी विशिष्ट पाठ्यक्रम और विशिष्ट भाषा के लिए बने उपकरणों से जुड़े हैं। होस्टेड API के चारों ओर बना एक उद्देश्य-निर्मित [[intelligent-tutoring|AI ट्यूटर]], जिसे उत्तर देने के बजाय मार्गदर्शन करने के लिए सिस्टम-प्रॉम्प्ट किया गया था, मनोविज्ञान के स्नातकों के एक सेमेस्टर-लंबे R प्रोग्रामिंग पाठ्यक्रम में तैनात किया गया: परीक्षा से संबंधित सप्ताहों में 76% से 84% छात्रों ने इसका उपयोग किया, उन्होंने [[self-report-measures|स्वयं बताया]] कि उन्होंने अपने अध्ययन-उपकरण समय का 53% इसके साथ बिताया जबकि अनिरीक्षित [[generative-ai|जनरेटिव AI]] उपकरणों के लिए यह 8% था, साप्ताहिक सामग्री के परीक्षा के लिए गिनती बंद करने पर उपयोग 50% से 58% पर गिर गया, और [[oral-assessment|मौखिक परीक्षा]] से पहले के सप्ताह में 64% तक वापस उछल गया। मूल्यांकन कैलेंडर का इतना निकट अनुसरण करने वाला अपनाना याद दिलाता है कि उपकरण-ग्रहण एक अध्ययन-व्यवहार परिघटना है, केवल गुणवत्ता का संकेत नहीं।
 
 स्कैफ़ोल्डिंग की गुणवत्ता पहुँच से स्वतंत्र रूप से मायने रखती है। निर्देशित बनाम अप्रतिबंधित [[llm]] पहुँच की एक प्रयोगात्मक तुलना ने पाया कि तर्क-केंद्रित स्कैफ़ोल्डिंग में स्पष्ट प्रशिक्षण — चरणबद्ध संकेत, सत्यापन — ने बिना सोचे-समझे निर्भरता की तुलना में बेहतर स्वतंत्र प्रदर्शन और बेहतर [[self-assessment]] अंशांकन दिया, जो शैक्षिक कार्य को मॉडल में नहीं बल्कि संरचित अंत:क्रिया में रखता है। अभिगम्यता धारा आर्टिफ़ैक्ट के लिए वही क़दम उठाती है: लगभग 1,500 पंक्तियों की एक JavaScript पाइपलाइन प्लेट के आयामों से स्पर्शनीय डिज़ाइन पैरामीटर निकालती है, पाँच मॉड्यूलर चार्ट बिल्डर प्रदान करती है, और 250 मिलीसेकंड से कम में एकल-पास [[assistive-technology|ब्रेल]] और अंग्रेज़ी लेबलिंग के साथ प्रिंट-तैयार STL उत्पन्न करती है, साथ ही वैकल्पिक रूप से अपलोड की गई छवि से चार्ट विनिर्देश निकालने के लिए एक [[multimodal|मल्टीमोडल]] मॉडल का उपयोग करती है, प्रिंट से पहले अनिवार्य [[teacher-role|शिक्षक]] समीक्षा के साथ। दोनों डिज़ाइनों में जनन के साथ मानवीय जाँच जोड़ी गई है।
+
+- **चार-चरणीय AI प्रतिपुष्टि ने आलोचनात्मक सोच को आगे बढ़ाया।** एक स्नातक विश्लेषण पाठ्यक्रम में, निष्कासन, जिज्ञासा, पुनःफ्रेमिंग और संघटन का एक संरचित चक्र ने प्रशिक्षक टिप्पणियों की तुलना में 5.64-अंक का समायोजित लाभ दिया, जबकि औपचारिक अनुमान अपरिवर्तित रहा ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin एट अल. (2026)]])।
 
 ## साक्ष्य अभी तक क्या स्थापित नहीं करता
 

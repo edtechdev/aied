@@ -1,7 +1,7 @@
 ---
 title: "STEM शिक्षा"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,13 +10,17 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
 connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
@@ -37,6 +41,8 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 ## परिचय
 
 ### STEM: AIED का प्राथमिक क्षेत्र
+
+अनुशासन विभाग विषय-पृष्ठों को चार समूहों में बाँटता है — [[humanities-education|मानविकी और कला]], [[social-sciences-education|सामाजिक विज्ञान]], STEM, और [[professions-education|व्यावसायिक अनुशासन]] — और उनमें STEM काफी बड़ा है, जो अपने आप में यह बात बताता है कि शिक्षा में AI का साक्ष्य कहाँ जमा होता है।
 
 - **गणित:** [[math-education|गणित शिक्षा]] के शोध में [[generative-ai-reduced-study-time-math|गणित सीखने पर GenAI का प्रभाव]], [[ai-powered-personalized-learning-elementary-fractions-2026|प्राथमिक स्तर की भिन्न ट्यूटरिंग]], और [[student-math-competence-clustering|दक्षता समूहबद्धता]] शामिल हैं।
 - **गणित ITS का साक्ष्य सीमित और सशर्त है।** 20 प्रकाशनों (2020 से अप्रैल 2026) की संरचित कथात्मक समीक्षा में उसी अनुकूली तंत्र पर परत के रूप में जुड़े तत्काल-निदान [[feedback]] के लिए सबसे स्पष्ट मापा गया लाभ मिला, फिर भी निष्कर्ष यह था कि उपदेशात्मक ट्यूटरिंग गणित अधिगम का समर्थन तभी करती है जब वैध [[student-modeling|अधिगमकर्ता मॉडलिंग]], अंशांकित स्कैफ़ोल्डिंग और शिक्षक-मध्यस्थता साथ आएँ, और यह कि मापनीयता तकनीकी है, शैक्षणिक नहीं ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]])।

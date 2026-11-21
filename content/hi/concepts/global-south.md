@@ -1,7 +1,7 @@
 ---
 title: "ग्लोबल साउथ"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
 connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
@@ -47,6 +51,8 @@ connected_articles: [genai-assessment-african-higher-education-review-2026, aden
 - **कम-संसाधन संदर्भों में शिक्षकों का नैतिक तर्क:** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et al. (2026)]] ने पाया कि कम-संसाधन संदर्भ में कार्यरत माध्यमिक STEAM शिक्षक औपचारिक सिद्धांत-सूचियों के बजाय व्यावसायिक पहचान, कक्षा की वास्तविकताओं और सांस्कृतिक मानदंडों के माध्यम से AI नैतिकता के बारे में तर्क करते हैं, जिससे ग्लोबल साउथ के बारे में "नैतिकता से रिक्त" मानी जाने वाली धारणाओं को चुनौती मिलती है।
 - **संदर्भ-आधारित अपनाना:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] [[generative-ai|GenAI]] के बांग्लादेशी [[engineering-education|इंजीनियरिंग]] छात्रों में अपनाने का मॉडल प्रस्तुत करते हैं, और [[connected-ai-lesson-planning-vietnam|ConnectED]] वियतनामी शिक्षा के लिए एक [[curriculum-design|पाठ्यक्रम]]-संरेखित पाठ-योजना प्रणाली तैनात करता है।
 - **अपनाना बुनियादी ढाँचे के बजाय क्षमता-निर्माण ने आगे बढ़ाया।** बांग्लादेश के 255 संकाय सदस्यों में, GenAI के प्रति अभिवृत्ति ने उपयोग की पुष्टि मज़बूती से की (β = 0.556) और क्षेत्र-विशिष्ट प्रासंगिकता ने अभिवृत्ति को चलाया (β = 0.413), जबकि संस्थागत प्रौद्योगिकी-प्रावधान और व्यक्तिपरक मानदंड उल्लेखनीय भविष्यवक्ता नहीं थे ([[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et al. (2026)]])।
+- **अफ़्रो-इक्वेडोरी शिक्षा में पहचान-प्रथम AI साक्षरता:** एस्मेराल्डास के 90 शैक्षणिक, युवा और सामुदायिक कार्यकर्ताओं ने अफ़्रो-वंशज पहचान को सबसे ऊँचा (M = 4.72) और आलोचनात्मक AI साक्षरता को सबसे कम (M = 4.60) रेट किया, और एक तीन-प्रतिभागी फ़ोकस समूह ने कभी-कभी, कार्य-बंधी उपयोग का वर्णन किया ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]])।
+
 - **संस्थागत एकीकरण और संरचनात्मक असमानता:** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] के 45 नाइजीरियाई विश्वविद्यालयों (केंद्रीय/राज्य/निजी) की तुलनात्मक सामग्री-विश्लेषण में पाया गया कि AI एकीकरण संस्था की आयु और भौगोलिक स्थान से अनुमानित होता है — शासन-प्रकार से नहीं — और यह कि अंतरराष्ट्रीय और उद्योग नेटवर्क संबंध एक-दूसरे को सुदृढ़ करते हैं (r = 0.74), इसलिए अच्छी तरह जुड़े संस्थान लाभ को संचित करते हैं जबकि अन्य और पीछे छूट जाते हैं। यह [[digital-divide|डिजिटल असमानता]] को केवल शिक्षार्थी के स्तर पर नहीं, बल्कि [[higher-ed|उच्च-शिक्षा]] संस्थानों की अपनी संरचनात्मक क्षमता में भी रखता है।
 - **[[educational-development|शैक्षणिक विकास]] को संरचनात्मक बाधा के अंतर्गत डिजिटल मध्यस्थता के रूप में:** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] दक्षिण अफ्रीका की दो ऐतिहासिक रूप से वंचित संस्थाओं (Historically Disadvantaged Institutions) में बारह शैक्षणिक विकासकर्ताओं और शिक्षण-डिज़ाइनरों से साक्षात्कार करते हैं और एक विश्लेषणात्मक रेखा खींचते हैं जिसे ग्लोबल साउथ साहित्य प्रायः धुंधली कर देती है: **डिजिटल असमानता** वितरण-संबंधी (distributive) है और सिद्धांततः पुनर्वितरण तक पहुँच के माध्यम से हल की जा सकती है, जबकि **एल्गोरिदमिक उपनिवेशवाद** (algorithmic coloniality) ज्ञान-संबंधी (epistemic) है और पूर्ण पहुँच होने पर भी बना रहता है, क्योंकि वह उन प्रणालियों में अंतर्निहित होता है जो उन्हें केंद्र में रखती हैं। दोनों परस्पर जुड़े हुए हैं लेकिन अलग-अलग उत्तर माँगते हैं, और संस्था दोहरे रूप में स्थित है — बुनियादी ढाँचे के अभाव से बाहर रखा गया, और जब शामिल किया गया तो आयातित प्रणालियों द्वारा अधीनस्थ बनाया गया जो अन्य ज्ञानों और मानदंडों को अंतर्निहित करती हैं। संस्थागत AI वाचा-विलास ("अभ्यास से अधिक प्रदर्शन") शिक्षण की भौतिक वास्तविकताओं से ढीले रूप से जुड़ी हुई पहुँचा, इसलिए विकासकर्ताओं ने वैश्विक डिजिटल-परिवर्तन की बातचीत को संदर्भ-अनुकूल व्यवहार्य अभ्यास में अनुवादित किया: सहकर्मी स्थानों में उपकरणों को परखना और जान-बूझकर "तोड़ना", कौशल के ऊपर विवेक पर ज़ोर देना, और जो विशेषज्ञता वे अभी भी अर्जित कर रहे थे उसे प्रदर्शित करने का भावनात्मक खर्च उठाना।
 - **ज्ञान-संबंधी हाशिया पर खड़ा होना:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] तर्क देते हैं कि पश्चिमी-केंद्रित प्रशिक्षण डेटा गैर-पश्चिमी और दिव्यांगता-केंद्रित ज्ञानों को हाशिए पर रखता है — जिससे ग्लोबल साउथ की चिंताएँ [[equity-in-ai-education]] और [[culturally-relevant-pedagogy]] से जुड़ती हैं।

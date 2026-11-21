@@ -1,7 +1,7 @@
 ---
 title: "स्वचालित निबंध स्कोरिंग"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,13 +10,17 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
 connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
@@ -49,6 +53,11 @@ connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-aut
 **प्रॉम्प्टिंग-आधारित AES** सबसे अधिक सुलभ दृष्टिकोण के रूप में उभरा है। **[[choi-anchor-aes-prompting-2025|Choi et al. की एंकर पेपर अध्ययन]]** दिखाता है कि प्रॉम्प्ट में उदाहरण-निबंध शामिल करने से LLM-मानव सहमति मानव-मानव विश्वसनीयता के बहुत नज़दीक पहुँच जाती है, जिसमें GPT-4o mini कम लागत पर GPT-4o के तुलनीय परिणाम प्राप्त करता है। यह व्यापक [[prompt-engineering]] अनुसंधान से जुड़ता है और AES को [[teacher-role|शिक्षक]] उपयोग के लिए व्यवहार्य बनाता है।
 
 **मनोमितीय और गुण-स्तरीय स्कोरिंग** समग्र स्कोर से आगे जाती है। **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** [[sociocultural-learning|ZPD]]-आधारित प्रतिपुष्टि के साथ गुण-अनुकूली स्कोरिंग के लिए एक मनोमितीय-सचेत ढाँचा प्रदान करता है। **[[icle-plus-plus-essay-scoring|ICLE++]]** समग्र निबंध स्कोरिंग के लिए सूक्ष्म-स्तरीय गुणों को मॉडल करता है, जिससे स्वचालित मूल्यांकन की परिशुद्धता बढ़ती है।
+
+- **व्याख्या के रूप में तर्क-चिह्न।** [[xu-explainable-ai-essay-scoring-cot-2026|Xu et al. (2026)]] ने स्कोरिंग से पहले चार IELTS गुणों के माध्यम से तर्क करने के लिए Qwen मॉडलों को सूक्ष्म-अनुकूलित (fine-tune) किया, फिर परीक्षक प्राथमिकताओं पर PPO लागू किया। औसत QWK 0.5253 (7B, केवल CoT) से बढ़कर 0.5410 (72B) हुआ, जबकि प्रतिपुष्टि BLEU PPO और CoT के साथ 0.2371 से बढ़कर 0.2873 हुआ; केवल स्केल ने थोड़ा जोड़ा, 7B से 72B तक 2.5% BLEU।
+
+- **स्कोरिंग लक्ष्य के रूप में ऑडिटेबिलिटी।** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] एक ASAP पाइपलाइन बनाता है जिसकी प्रतिपुष्टि परत प्रत्येक कमज़ोर गुण पर निबंध-साक्ष्य जोड़ती है और एक शिक्षक-समीक्षा फ़्लैग दिखाती है। मैक्रो QWK 0.738 था, जबकि इसका सर्वश्रेष्ठ शुद्ध स्कोरर 0.739 था; रूब्रिक-आधारित प्रतिपुष्टि ने 0.829 की Trait Recall@2 और 0.912 की मान्य साक्ष्य दर प्राप्त की, जबकि केवल-रूब्रिक प्रतिपुष्टि ने कुछ उद्धृत नहीं किया।
+
 - **विमा-स्तरीय गुण स्कोरिंग प्रत्येक विमा के पीछे के डेटा द्वारा सीमित होती है।** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] ने 106 इंडोनेशियाई ग्यारहवीं कक्षा के भौतिकी निबंधों (83 प्रशिक्षण के लिए, 23 परीक्षण के लिए, तीन शिक्षक मूल्यांककों द्वारा प्रत्येक विमा पर कैपा 0.78–0.84 पर सहमति) पर एनिस के FRISCO [[critical-thinking|समालोचनात्मक-चिंतन]] ढाँचे की प्रत्येक विमा के लिए एक वर्गीकर्ता प्रशिक्षित किया। सहमति तर्क के बजाय अभिव्यक्ति पर केंद्रित थी: द्विघात-भारित कैपा स्पष्टता (Clarity) के लिए 0.763 और स्थिति (Situation) के लिए 0.728 तक पहुँचा, लेकिन फोकस (Focus) के लिए केवल 0.374, कारण (Reason) के लिए 0.332 और अनुमान (Inference) के लिए 0.227। क्रमिक संकेत निर्मित था, प्रेक्षित नहीं — सिंथेटिक स्तर-1 निबंध (टेम्पलेट निर्माण, मूल लंबाई के 20–40% तक अपचय, कीवर्ड हटाना) और LLM पराफ़्रेज़िंग ने फोकस को 0.028 आधार-रेखा से +0.346 कैपा बढ़ाया — और एक विन्यास ने 0.652 शुद्धता प्राप्त की जबकि कैपा लगभग शून्य या ऋणात्मक था, इसलिए क्रमिक AES में शुद्धता उपयोगी चयन-मानदंड नहीं है।
 
 **पूर्वाग्रह और निष्पक्षता** एक महत्वपूर्ण चिंता है। **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** ने पाया कि AI स्कोरिंग भाषाई रूप से विविध पृष्ठभूमि के विद्यार्थियों को व्यवस्थित रूप से कम आँकता है, जिससे AES तैनाती में [[bias-mitigation]] और [[equity-in-ai-education]] विचारों की आवश्यकता उजागर होती है।
@@ -74,6 +83,7 @@ connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-aut
 
 **एक न्यायाधीश के बजाय प्रशिक्षण संकेत के रूप में AES।** स्कोरिंग मॉडलों का सामान्यतः मूल्यांकक के रूप में अध्ययन किया जाता है, लेकिन SWIM एक का उपयोग पुरस्कार-फलन के रूप में करता है: [[swim-student-writing-simulation-2026|Do, Kontak and Sachan (2026)]] एक बहु-गुण AES सत्यापक को स्थिर करते हैं और उसे उत्पन्न विद्यार्थी निबंधों के विरुद्ध स्कोर करते हैं, जिससे भविष्यवाणी किया गया गुण प्रोफ़ाइल GRPO के लिए एक घना प्रति-निबंध पुरस्कार बनता है (लक्ष्य प्रोफ़ाइल से माध्य गुण-सामान्यीकृत दूरी), जानबूझकर स्वयं द्विघात-भारित कैपा मेट्रिक नहीं, क्योंकि QWK लक्ष्य-भविष्यवाणी जोड़ों के बैच पर परिभाषित है और प्रति-नमूना संकेत नहीं है, जबकि बहु-गुण सेटिंग में सटीक-मेल पुरस्कार बहुत विरल होते हैं। लाभों की पुनः जाँच एक DeBERTa स्कोरर और एक केवल-मूल्यांकन सत्यापक के विरुद्ध की गई जिसके विरुद्ध नीति ने कभी प्रशिक्षण नहीं लिया (SFT के लिए 0.598 बनाम 0.479, और 0.647 बनाम 0.501), जो वह जाँच है जो वास्तविक दक्षता-नियंत्रण को [[reinforcement-learning|पुरस्कार मॉडल]] के अनुकूलन से अलग करती है। AES अनुसंधान के लिए यह एक दूसरी वैधता माँग है: प्रशिक्षण लक्ष्य के रूप में उपयोग किया गया स्कोरर स्वयं के विरुद्ध अनुकूलित किया जा रहा है, इसलिए उसका अपना गुण भारण और भाषा पूर्वाग्रह जनरेटर द्वारा सीखी गई हर चीज़ में फैलता है — इस पेज पर कहीं और प्रलेखित वही विशेषता-भारण असमानताएँ (मानव मूल्यांककों से अधिक व्याकरणिक शुद्धता, शब्दसागरीय परिष्कृतता और वाक्य-रचना जटिलता), अब केवल अंकों के बजाय प्रशिक्षण को आकार देती हुई।
 **स्कोरिंग और प्रतिपुष्टि अलग-अलग विधियाँ चाहती हैं, इसलिए एक प्रणाली को उन्हें अलग करना चाहिए।** [[wraft-automated-writing-evaluation-argumentative-2026|Labib et al. (2026)]] ने एक TOEFL तर्कसंगत-निबंध प्रणाली को तीन मॉड्यूल के रूप में बनाया — स्कोरिंग, व्याकरण और यांत्रिकी पर सतह-स्तरीय प्रतिपुष्टि, और संगठन, सुसंगति और तर्क पर गहराई-स्तरीय प्रतिपुष्टि — बजाय एक ही मॉडल के जो तीनों काम करता हो, और पाया कि एक मॉड्यूल में जो जीतता है वह दूसरे में हारता है: एक स्वामित्व-समूह के 480 बेंचमार्क-स्कोर किए गए निबंधों में से 120 पर GPT-4o का पर्यवेक्षित [[llm-training-and-fine-tuning|सूक्ष्म-अनुकूलन]], शेष 360 पर परखा गया, ने 0-5 स्केल पर 0.84 द्विघात-भारित कैपा और 0.44 RMSE प्राप्त किया, Wang और Gayed (2024) आधार-रेखा (QWK 0.78, RMSE 0.57) से आगे, फिर भी उसी सूक्ष्म-अनुकूलन ने प्रतिपुष्टि मॉड्यूल के लिए अप्रयोग्य उत्पादन किया, जहाँ Claude 3.7 की सीधी प्रॉम्प्टिंग ने ही शिक्षक-स्वीकृत टिप्पणियाँ बनाईं।
+**लाभ का अधिकांश हिस्सा रूब्रिक नहीं, प्रॉम्प्ट वहन करता है।** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao and Min (2026)]] ने स्कोर किए गए अंशांकन उदाहरण और एक अनिवार्य कारण-विवरण जोड़कर CEFR लेबलों के साथ सहमति को 0.488 कैपा से 0.829 तक बढ़ाया, जबकि केवल विस्तृत रूब्रिक देने से यह 0.460 तक गिर गया।
 
 ### अन्य अवधारणाओं से संबंध
 

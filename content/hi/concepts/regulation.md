@@ -1,7 +1,7 @@
 ---
 title: शिक्षा में AI विनियमन
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-20T17:32:04-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: पाठ्यचर्या डिज़ाइन
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
 connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
@@ -52,7 +56,11 @@ connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-
 
 भार-निर्धारण बदल देता है कि पाठ्यचर्या विश्लेषण क्या रिपोर्ट करता है: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath एट अल. (2026)]] ने GPT-o3-mini से 48 मूल्यांकनों में से प्रत्येक के लिए सात उद्यम कौशलों पर 100% वितरित कराया, जिससे विशेषज्ञ भारों के विरुद्ध Krippendorff का अल्फा 0.81 तक पहुँचा, लेकिन जिन कौशलों का विवरण स्पष्ट रूप से कभी नहीं बताते, उनके लिए सहमति ऋणात्मक (-0.19) हो गई।
 
+ऑडिट एक स्वतंत्र चरण भी हो सकता है, केवल पुनर्निर्माण का अगला हिस्सा नहीं। [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]] कार्यक्रम-समीक्षा को चार ऑडिट प्रॉम्प्ट्स में सुव्यवस्थित करता है जो एक ही बैठक में समा जाते हैं — पाठ्यचर्या स्वास्थ्य-जाँच, मिशन-उपयुक्तता परीक्षण, पाठ्यक्रम-दर-योग्यता मानचित्र और एक परिणाम-टैगिंग पास — फिर नौकरी-पोस्टिंग और विषयगत मानकों से योग्यता-मैपिंग, जिसमें संशोधन को वैकल्पिक तीसरे चरण के रूप में रखा जाता है। कोई भी योग्यता कम से कम दो सहायक संकेतों के बिना केंद्रीय प्राथमिकता नहीं बनती, जो बाज़ार-आधारित स्कैन को पाठ्यचर्या तय करने से रोकता है। शासन परत ही इस विभाजन को संचालित करती है: हर रन में अपरिवर्तित रहने वाला Curriculum Evidence Pack, संस्करण/प्रचालक/मॉडल दर्ज करने वाला प्रॉम्प्ट लॉग, दोहराव-रन जाँचें, और अनुमोदन निकाय से जुड़ा निर्णय लॉग, जिससे [[llm|LLM]] का आउटपुट समिति की विचारधारा में कोई निष्कर्ष नहीं बल्कि एक समय-छापित अधिदेय (time-stamped artifact) के रूप में प्रवेश करता है।
+
 **मॉड्यूलर संरचना वर्तमान सामग्री से अधिक टिकती है।** एक पैटर्न बार-बार आता है जहाँ क्षेत्र समीक्षा-चक्र से तेज़ चलता है: [[ai-literacy|AI साक्षरता]], आलोचनात्मक मूल्यांकन, पूर्वाग्रह-पहचान और [[ethics|नैतिकता]] का स्थिर मूल, साथ में विशेषता और स्थानीय रूप से उपलब्ध उपकरण-सामग्री मॉड्यूल के रूप में जुड़ी हुई और हर छह से बारह महीने में फिर से देखी जाने वाली ([[bursic-ai-residency-education-curriculum-2026|Bursic एट अल. (2026)]])। स्नातकोत्तर [[medical-education|चिकित्सा शिक्षा]] बताया गया मामला है, पर सिद्धांत सामान्यीकृत है: कार्यक्रम उन योग्यताओं के प्रति प्रतिबद्ध होता है जो उपकरण-बदलाव से बची रहें और उपकरण-विशिष्ट परत के प्रतिस्थापन का समय तय करता है।
+
+**नैतिकता सामग्री को सचेतना ही नहीं, सामना करने की ढाँचा चाहिए।** 584 ऐसे स्नातक छात्रों में — जिनके पास कोई एआई पाठ्यक्रम नहीं था — क्षमता ने नैतिक जागरूकता बढ़ाई (β = 0.644), जिसने चिंता बढ़ाई (β = 0.439); समस्याओं का नामकरण करने से, यह सिखाए बिना कि उन पर कैसे शासन होता है, जागरूकता बोझ बन जाती है ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]])।
 
 **एआई साक्षरता का एकीकरण** विषयों में एआई कौशल समाहित करता है। **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** एक अधिग्रहीत एआई साक्षरता ढाँचा प्रदान करता है जो सभी उम्र और शैक्षणिक चरणों में लागू होता है, जो दूसरे और तीसरे स्तर के [[digital-divide|डिजिटल विभाजन]] को संबोधित करता है। **[[tracing-genai-literacy-interaction-patterns]]** यह जाँचता है कि एआई साक्षरता संवाद पैटर्नों के माध्यम से कैसे विकसित होती है। **[[hingle-collaborative-ai-literacy-2025]]** एआई साक्षरता पाठ्यचर्या विकास के सहयोगात्मक दृष्टिकोणों का पता लगाता है, [[collaborative-learning]] से जुड़ा हुआ।
 

@@ -1,20 +1,24 @@
 ---
 title: पूर्व ज्ञान
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-20T18:49:23-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
@@ -57,6 +61,7 @@ connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-g
 - **डिज़ाइन के रूप में प्राइमिंग और सक्रियण।** [[genai-mindtool-generative-learning|GenAI mindtool approaches]] जानबूझकर "सीखने के कार्य को प्राइम" करते हैं — पूर्व ज्ञान और जिज्ञासा को प्रॉम्प्टिंग प्रश्नों, AI-जनित दृश्यों और उदाहरणों (जैसे, "पारिस्थितिकी तंत्र के बारे में आप पहले से क्या जानते हैं?") के माध्यम से नई सामग्री पेश करने से पहले सक्रिय करके — उत्तर-आपूर्ति मार्ग के बजाय स्मरण-और-एकीकरण मार्ग को मॉडल करके।
 - **छात्र मॉडलिंग और स्मृति।** AI प्रणालियाँ शिक्षार्थियों की पूर्व-ज्ञान अवस्था और अनुदैर्ध्य स्मृति का तेज़ी से मॉडल बनाती हैं (जैसे, ट्यूटरिंग स्मृति में पूर्व-ज्ञान अवस्था और विस्मृति वक्र को शामिल करना), जिससे वह जो हर शिक्षार्थी पहले से जानता है उसके ऊपर स्पेस्ड रिपिटिशन और अनुकूली समीक्षा संभव होती है।([[nie-personavlm-long-term-personalization-2026]])
 - **एक व्यक्तिगत-अनुकूलन उपकरण।** क्योंकि शिक्षार्थी पूर्व ज्ञान में व्यापक रूप से भिन्न होते हैं, अनुकूलन को व्यक्ति के अनुसार ट्यून किया जाना चाहिए — [[personalized-learning]] और अनुकूली [[scaffolding]] के लिए एक मूल तर्क जो शिक्षार्थियों को उनके वास्तविक वर्तमान राज्य में मिले, कक्षा-औसत मान्यता में नहीं।
+- **पूर्व ज्ञान एकमात्र ऐसी शिक्षार्थी विशेषता थी जिसने अनुकूली सहायता को प्रभावित किया।** जिन शिक्षार्थियों को सामग्री पहले से थी, उन्हें अधिक लाभ मिला (g = .74, 95% CI [.42, 1.05]) बनाम जिनके पास नहीं थी (g = .63 [.46, .80]), और दोनों को लाभ हुआ, जो इस बात से मेल खाता है कि अनुकूलता अनावश्यक सहायता को हटाती है, कोई विशेषज्ञता-उत्क्रम नहीं ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]])।
 
 ## AI शिक्षा में डिज़ाइन करने के लिए निहितार्थ
 
