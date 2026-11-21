@@ -32,7 +32,7 @@ reviewed_by: [editor]
 - **Agreement is high, and measured properly.** Combined kappa across the three services ranges from 0.91 to 1.00 over the 14 days. Per-service values are 0.9411 (ChatGPT), 0.9669 (DeepSeek) and 0.9670 (Gemini) in April, and 1.0000, 1.0000 and 0.9408 in June.
 - **The services converge on the same answer 94% of the time.** Of 279 service-level comparisons — 20 questions × 7 days × 2 intervals, less one question DeepSeek was not asked — 263 produced complete agreement.
 - **Within-service stability is near perfect.** Gemini returned the same answer to each question on 138 of 140 opportunities in April (99%); ChatGPT did so on 100% of opportunities in June.
-- **The two failures sit at the middle of Bloom's taxonomy.** Question 13 asked students to identify which answer better captured Verstehen, and the services split between Simmel's interest in group size and Weber's interpretive method. The other disagreement also required application rather than recall.
+- **The two failures sit at the middle of [[bloom-taxonomy|Bloom's taxonomy]].** Question 13 asked students to identify which answer better captured Verstehen, and the services split between Simmel's interest in group size and Weber's interpretive method. The other disagreement also required application rather than recall.
 - **Version transparency is the practical limit.** The services could not reliably report their own model and version, so a student's log of "ChatGPT, 24 April" does not pin down what answered.
 
 ## What the study did
@@ -49,10 +49,10 @@ That framing turns reliability into a teaching problem rather than a procurement
 
 ## What this means for practice
 
-- **Instructors:** ask for the answer *and* the reasoning, and grade the reasoning. On the two items where the services split, both answers were defensible in the abstract; only the course's own commitments settle it.
-- **Instructors:** require students to log service, version and date, but do not treat the log as reproducible evidence. The services were unable to state their versions consistently.
-- **Assessment designers:** keep higher-order and sensitive items. They are where AI answers stop being interchangeable, which makes them the items worth discussing in class rather than the items to avoid.
-- **Administrators:** a single-vendor policy buys less consistency than it appears to. Cross-service agreement was high here, and the residual risk sits in the questions, not the brand.
+- **Instructors.** ask for the answer *and* the reasoning, and grade the reasoning. On the two items where the services split, both answers were defensible in the abstract; only the course's own commitments settle it.
+- **Instructors.** require students to log service, version and date, but do not treat the log as reproducible evidence. The services were unable to state their versions consistently.
+- **Assessment designers.** keep higher-order and sensitive items. They are where AI answers stop being interchangeable, which makes them the items worth discussing in class rather than the items to avoid.
+- **Administrators.** a single-vendor policy buys less consistency than it appears to. Cross-service agreement was high here, and the residual risk sits in the questions, not the brand.
 
 ## Limitations
 

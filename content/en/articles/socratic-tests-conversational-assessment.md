@@ -12,7 +12,7 @@ confidence: high
 audience: [assessment designers, assessment professionals]
 ---
 
-> **Synthesis:** The [[socratic-method|Socratic Test]] is an automated, computer-mediated [[assessment|conversational assessment]] that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, [[multimodal|multimodal]] workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation.
+> **Synthesis:** The [[socratic-method|Socratic Test]] is an automated, computer-mediated [[assessment|conversational assessment]] that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, [[multimodal|multimodal]] workspaces, [[bloom-taxonomy|Bloom's Taxonomy]] for real-time proctoring, and the SOLO Taxonomy for structural evaluation.
 
 [[scaffolding|Graduated scaffolding]] is formalized to quantify a student's [[sociocultural-learning|Zone of Proximal Development]] (ZPD): the assessment actively maps cognitive boundaries by adapting question difficulty and support in real time, so measurement targets what a student can achieve with assistance rather than only unaided performance.
 

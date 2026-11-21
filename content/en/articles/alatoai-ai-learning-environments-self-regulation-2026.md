@@ -25,16 +25,16 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This study asks how AI-supported STEM environments shape secondary students' [[self-regulated-learning|self-regulation]], and which [[metacognition|metacognitive]] components best predict adaptive STEM performance. Working with 649 secondary students in Saudi Arabia (338 male, 311 female; mean age 15.99 years) who learned through the national Madrasati platform, the authors built and validated the AI-STEM-MLCS, a 45-item instrument with four dimensions: AI-based metacognitive awareness (AMA), AI-enhanced self-regulated learning (ASRL), [[transfer-of-learning|cognitive transfer and adaptability]] (CTA), and creative and critical AI-STEM reasoning (CCAR). Confirmatory factor analysis supported this four-factor structure with excellent fit (CFI = 0.983, RMSEA = 0.019), and every subscale showed strong internal consistency (McDonald's ω = 0.888–0.905). [[network-analysis|Network analysis]] placed CTA and ASRL at the structural center of the meta-learning network, and regression modeling showed the four dimensions predicted 68% of the variance in self-regulated learning performance, with AMA strongest. The authors conclude that [[ai-feedback-quality|AI feedback]] supports STEM learning mainly by strengthening metacognitive awareness and strategic transfer, and caution that the scale's Saudi-specific validation limits direct transfer of its structure and coefficients.
+> **Synthesis:** This study asks how AI-supported STEM environments shape secondary students' [[self-regulated-learning|self-regulation]], and which [[metacognition|metacognitive]] components best predict adaptive STEM performance. Working with 649 secondary students in Saudi Arabia (338 male, 311 female; mean age 15.99 years) who learned through the national Madrasati platform, the authors built and validated the AI-STEM-MLCS, a 45-item instrument with four dimensions: AI-based metacognitive awareness (AMA), AI-enhanced self-regulated learning (ASRL), [[transfer-of-learning|cognitive transfer and adaptability]] (CTA), and creative and critical AI-STEM reasoning (CCAR). Confirmatory factor analysis supported this four-factor structure with excellent fit on every index, and every subscale showed strong internal consistency. [[network-analysis|Network analysis]] placed CTA and ASRL at the structural center of the meta-learning network, and regression modeling showed the four dimensions predicted about two thirds of the variance in self-regulated learning performance, with AMA strongest. The authors conclude that [[ai-feedback-quality|AI feedback]] supports STEM learning mainly by strengthening metacognitive awareness and strategic transfer, and caution that the scale's Saudi-specific validation limits direct transfer of its structure and coefficients.
 
 ## Key Findings
 
 - 649 secondary students in Saudi Arabia completed the AI-STEM-MLCS; 45 items across four subscales survived expert review and factor analysis.
-- Confirmatory factor analysis on a 324-student subsample supported the four-factor model (CFI = 0.983, TLI = 0.982, RMSEA = 0.019, SRMR = 0.044).
-- Subscale reliability was strong (McDonald's ω = 0.888–0.905; Cronbach's α = 0.887–0.904), with two-week test-retest stability at ICC = 0.751–0.900.
-- The four dimensions explained 68% of the variance in self-regulated learning scores (R² = 0.68, F[4, 55] = 31.74, p < 0.001).
-- AI-based metacognitive awareness was the strongest predictor (β = 0.38, p < 0.001), followed by cognitive transfer and adaptability (β = 0.29, p = 0.008).
-- Creative and critical AI-STEM reasoning did not predict the behavioral criterion (β = 0.14, p = 0.135); networks showed dense positive edges with CTA and ASRL central.
+- Confirmatory factor analysis on a 324-student subsample supported the four-factor model with excellent fit on every index.
+- Subscale reliability was strong, with two-week test-retest stability in the same range.
+- The four dimensions explained about two thirds of the variance in self-regulated learning scores.
+- AI-based metacognitive awareness was the strongest predictor, followed by cognitive transfer and adaptability.
+- Creative and critical AI-STEM reasoning did not predict the behavioral criterion; networks showed dense positive edges with CTA and ASRL central.
 
 ## Building the AI-STEM-MLCS
 
@@ -46,7 +46,7 @@ Data adequacy was satisfactory (KMO = 0.865; Bartlett's test χ² = 5468.85, p <
 
 ## What predicts adaptive STEM learning
 
-The regression model was significant (F[4, 55] = 31.74, p < 0.001) and explained 68% of the variance in self-regulated learning performance. AMA contributed most (β = 0.38, p < 0.001), followed by CTA (β = 0.29, p = 0.008) and ASRL (β = 0.21, p = 0.040); CCAR was not significant (β = 0.14, p = 0.135). Multicollinearity was not a concern (VIF below 2), and inter-factor correlations ranged from r = 0.41 to 0.63. The authors read CCAR through the revised Bloom's taxonomy: evaluation and creation surface in distal outcomes such as reasoning quality rather than in proximal self-regulation indices. Their practical claim is that [[intelligent-tutoring|AI tutoring]] and [[adaptive-learning|adaptive]] feedback raise adaptive STEM performance mainly by [[prompt-engineering|prompting]] learners to monitor, recalibrate and reuse strategies.
+The regression model was significant (F[4, 55] = 31.74, p < 0.001) and explained 68% of the variance in self-regulated learning performance. AMA contributed most (β = 0.38, p < 0.001), followed by CTA (β = 0.29, p = 0.008) and ASRL (β = 0.21, p = 0.040); CCAR was not significant (β = 0.14, p = 0.135). Multicollinearity was not a concern (VIF below 2), and inter-factor correlations ranged from r = 0.41 to 0.63. The authors read CCAR through the revised [[bloom-taxonomy|Bloom's taxonomy]]: evaluation and creation surface in distal outcomes such as reasoning quality rather than in proximal self-regulation indices. Their practical claim is that [[intelligent-tutoring|AI tutoring]] and [[adaptive-learning|adaptive]] feedback raise adaptive STEM performance mainly by [[prompt-engineering|prompting]] learners to monitor, recalibrate and reuse strategies.
 
 ## The network view of self-regulation
 
@@ -54,10 +54,10 @@ Exploratory graph analysis modeled dimensions as nodes in a Gaussian graphical m
 
 ## What this means for practice
 
-- Treat metacognitive awareness as the primary lever: activities that make students examine errors and compare AI responses with their own reasoning carried the largest predictive weight.
-- Require strategy revision and reuse across problem contexts, since transfer and adaptability was the second strongest predictor of adaptive performance.
-- Use the scale's dimensions as a diagnostic to locate strengths and gaps across meta-learning rather than reporting one global score.
-- Assess [[critical-thinking|critical and creative reasoning]] with reasoning-quality or creative [[problem-solving|problem-solving]] tasks, not behavioral self-regulation measures.
+- **Teachers.** Treat metacognitive awareness as the primary lever: activities that make students examine errors and compare AI responses with their own reasoning carried the largest predictive weight.
+- **Teachers.** Require strategy revision and reuse across problem contexts, since transfer and adaptability was the second strongest predictor of adaptive performance.
+- **Teachers.** Use the scale's dimensions as a diagnostic to locate strengths and gaps across meta-learning rather than reporting one global score.
+- **Teachers.** Assess [[critical-thinking|critical and creative reasoning]] with reasoning-quality or creative [[problem-solving|problem-solving]] tasks, not behavioral self-regulation measures.
 
 ## Limitations
 

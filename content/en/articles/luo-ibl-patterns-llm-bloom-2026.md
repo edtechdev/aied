@@ -14,7 +14,7 @@ audience: [instructional designers, instructors, researchers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** This exploratory study of students interacting with [[llm|LLMs]] during an [[inquiry-based-learning|inquiry-based learning]] data-science writing task used Bloom's taxonomy to analyze behavioral patterns across cognitive levels. Thematic analysis of 117 interview transcripts, 370 interaction records, and 1,694 minutes of screen recordings identified **14 interaction patterns** at different levels of [[prior-knowledge|prior knowledge]]. The study highlights how [[self-efficacy|self-efficacy]] and [[metacognition|metacognitive]] monitoring shape LLM use in IBL and calls for guiding planning frameworks and [[scaffolding|scaffolding]] to mitigate AI reliance.
+> **Synthesis:** This exploratory study of students interacting with [[llm|LLMs]] during an [[inquiry-based-learning|inquiry-based learning]] data-science writing task used [[bloom-taxonomy|Bloom's taxonomy]] to analyze behavioral patterns across cognitive levels. Thematic analysis of 117 interview transcripts, 370 interaction records, and 1,694 minutes of screen recordings identified **14 interaction patterns** at different levels of [[prior-knowledge|prior knowledge]]. The study highlights how [[self-efficacy|self-efficacy]] and [[metacognition|metacognitive]] monitoring shape LLM use in IBL and calls for guiding planning frameworks and [[scaffolding|scaffolding]] to mitigate AI reliance.
 
 ## Key Findings
 

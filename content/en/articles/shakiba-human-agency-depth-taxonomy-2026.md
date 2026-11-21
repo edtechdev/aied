@@ -37,7 +37,7 @@ source_depth: full text
 
 ## Why the existing labels failed
 
-The paper opens on an old assessment problem: two identical arithmetic results, one worked by hand and one produced with a calculator, are indistinguishable without the working. A first-year student who asks a model to design the data structure for a rescue coordination app is, under Bloom's taxonomy, performing a Create-level task — whether they specified the entities, constraints and acceptance criteria, or forwarded the brief and let the model decide.
+The paper opens on an old assessment problem: two identical arithmetic results, one worked by hand and one produced with a calculator, are indistinguishable without the working. A first-year student who asks a model to design the data structure for a rescue coordination app is, under [[bloom-taxonomy|Bloom's taxonomy]], performing a Create-level task — whether they specified the entities, constraints and acceptance criteria, or forwarded the brief and let the model decide.
 
 That gap makes [[prompt-engineering|prompt engineering]] an awkward proxy for [[ai-literacy|AI literacy]]. An elaborate prompt with few-shot examples and formatting rules can still delegate the underlying problem, while a short prompt carrying the student's own analysis demonstrates substantial prior framing. Bloom's, SOLO and [[icap-framework|ICAP]] describe a task or a response, not the division of labor between a learner and an [[llm|LLM]], which is also why the taxonomy records visible delegation rather than the [[cognitive-offloading|cognitive offloading]] behind it.
 

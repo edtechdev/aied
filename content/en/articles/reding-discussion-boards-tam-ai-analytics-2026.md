@@ -1,6 +1,6 @@
 ---
 title: "Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design"
-created: "2026-11-16T09:30:00-04:00"
+created: "2026-11-16T07:34:23-05:00"
 updated: "2026-11-16T09:30:00-04:00"
 type: article
 authors: ["Reding, T.", "Gartner, A.", "Nugent, C."]
@@ -39,7 +39,7 @@ evidence_context: educational
 - **Busywork is what turns attitude negative.** Students described posts as "just another something you have to check off the list," replies as "a waste of time" when they are graded, and the format as not a discussion at all: "Discussions could just be assignments where you like do short writing assignments. Cause it's never really a discussion like legitimately." One student summarized the value-versus-effort judgment: "Seeing how other people think helps me learn, but sometimes it feels like busy work if it's just repeating what others said."
 - **Motivation is grade-shaped, and students know it.** Most participants said they were motivated to complete boards only for the grade, one reported never having had a back-and-forth exchange on a board, and another described the peer norm of superficial praise — "great job on this, good job on your insights" — offered because everyone is "kind of forced to" reply.
 - **Social risk suppresses participation for students outside their major.** A student taking an art course without art background expected the board to feel "intimidating" beside classmates who were "way more advanced," which is the participation cost the format is supposed to remove.
-- **The design response is two dashboards, not one.** The instructor-facing dashboard would classify a draft prompt by cognitive demand, for example a Bloom's Taxonomy level, and suggest revisions such as asking students to compare or justify rather than recall. The student-facing dashboard would feed back on the quality or cognitive depth of a response so that grades are not the only signal. AI theme summaries and identification of exemplary posts were also proposed, but the authors note that Canvas's summarizing feature is instructor-only and that INSIGHTS could not build a student-facing version within its budget.
+- **The design response is two dashboards, not one.** The instructor-facing dashboard would classify a draft prompt by cognitive demand, for example a [[bloom-taxonomy|Bloom's Taxonomy]] level, and suggest revisions such as asking students to compare or justify rather than recall. The student-facing dashboard would feed back on the quality or cognitive depth of a response so that grades are not the only signal. AI theme summaries and identification of exemplary posts were also proposed, but the authors note that Canvas's summarizing feature is instructor-only and that INSIGHTS could not build a student-facing version within its budget.
 
 ## How the study was done
 
@@ -54,7 +54,7 @@ AI supported the coding. Transcripts were stripped of identifiers and uploaded t
 - **Instructors revising a discussion assignment.** The findings point at the prompt before the platform. If the question can be answered by restating the reading, students will treat the board as a compliance task no matter how good the software is. Questions that ask for comparison, justification or application are the ones students described as teaching them something.
 - **Instructors deciding whether to reply.** Visible instructor presence was the external factor students credited most, and it did not require replying to everything. Replying within the week to the thread, rather than to each post, is the pattern the quoted student described.
 - **Designers of learning analytics.** The two requirements that fall out of the data are cognitive demand and navigational cost. A dashboard that flags a low-demand prompt before it is published is a different intervention from one that grades participation after the fact, and the authors argue the first is where the leverage is.
-- **Anyone planning to withhold a feature for cost reasons.** The paper is unusually candid that the student-facing summarization students asked for is the feature the project could not afford to build, and that the commercial equivalent is instructor-only. That is a statement about which users learning analytics tends to serve.
+- **Administrators.** The paper is unusually candid that the student-facing summarization students asked for is the feature the project could not afford to build, and that the commercial equivalent is instructor-only. That is a statement about which users learning analytics tends to serve.
 - **Researchers using AI for qualitative coding.** The workflow described here — identifiers removed, framework and definitions supplied, quotes re-verified by hand — is a usable template, and the gap between what the model returned and what the researchers had to check is the part worth copying.
 
 ## Limitations

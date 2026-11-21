@@ -19,7 +19,7 @@ methods: [meta-analysis-systematic-review]
 
 ## Key Findings
 
-- **Only 34.8% of studies aligned generated content with established instructional frameworks** such as Bloom's Taxonomy — a gap of design culture rather than technical capability, since specifying cognitive targets within prompts is straightforward yet most implementations treated generation as a text-production rather than an instructional-design problem.
+- **Only 34.8% of studies aligned generated content with established instructional frameworks** such as [[bloom-taxonomy|Bloom's Taxonomy]] — a gap of design culture rather than technical capability, since specifying cognitive targets within prompts is straightforward yet most implementations treated generation as a text-production rather than an instructional-design problem.
 - **An equal 34.8% reported prompting strategies in sufficient detail for reproduction**, and among those that did, the highest-rated content came from iterative refinement with structured templates — supporting [[prompt-engineering|prompt engineering]] and transparent prompt architecture as a [[research-methods-aied|methodological]] norm.
 - **GPT-4 dominated implementations (44.4%), with OpenAI models underpinning roughly two-thirds** of all model instances; [[open-source|open source]] alternatives were under-explored, creating a practical monoculture that compounds reproducibility problems.
 - **Hybrid human–AI co-creation models outperformed fully automated generation**, achieving the highest expert ratings and student satisfaction, with educators positioned as collaborators throughout generation rather than final reviewers only.

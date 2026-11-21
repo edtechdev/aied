@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 246
+**Total concepts:** 247
 
 ## Foundations of AI in education
 
@@ -72,6 +72,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`activity-theory-aied`** — Activity Theory — phrases: activity systems; activity theory; contradictions in activity systems; third generation activity theory
 - **`behaviorism`** — Behaviorism — phrases: behavioral learning theory; behavioural learning theory; behaviorism; behaviourism
+- **`bloom-taxonomy`** — Bloom's Taxonomy — phrases: bloom's taxonomy; bloom taxonomy; blooms taxonomy; bloom's revised taxonomy; revised bloom's taxonomy; anderson and krathwohl; cognitive taxonomy; taxonomy of educational objectives
 - **`cognitive-psychology`** — Cognitive Psychology — phrases: attention; cognitive processing; cognitive psychology; cognitive science; human cognition; memory; working memory
 - **`community-of-inquiry`** — Community of Inquiry — phrases: cognitive presence; coi; community of inquiry; community of inquiry framework; social presence; teaching presence
 - **`constructivist`** — Constructivism — phrases: constructionism; constructivism; constructivist; constructivist learning; constructivist theory

@@ -71,7 +71,7 @@ For each engagement type, educators decide on multimodal affordances of GenAI an
 
 ## The Dual-Track Cyber-Social Learning Model (Galla et al., 2025)
 
-This complementary model maps human vs. AI strengths across Bloom's taxonomy processes:
+This complementary model maps human vs. AI strengths across [[bloom-taxonomy|Bloom's taxonomy]] processes:
 
 | Process | Human Strengths | AI Strengths | Cyber-Social Approach |
 |---------|----------------|--------------|---------------------|

@@ -56,7 +56,7 @@ The first experiment compared AI-generated prequestions with reading only, and p
 
 ## What the questions looked like
 
-By Bloom's taxonomy, most AI questions sat at remember, understand and apply, and adding comparison instructions pushed at least three quarters of them to analyze. The generated questions were shorter than the human ones but not easier to read: every one required at least an eighth- to ninth-grade [[reading-education|reading]] level, above the passage itself. Transfer was real but bounded — prequestioning helped on questions that were not identical to the practice ones, but every question addressed the same topic, so the authors call this near transfer.
+By [[bloom-taxonomy|Bloom's taxonomy]], most AI questions sat at remember, understand and apply, and adding comparison instructions pushed at least three quarters of them to analyze. The generated questions were shorter than the human ones but not easier to read: every one required at least an eighth- to ninth-grade [[reading-education|reading]] level, above the passage itself. Transfer was real but bounded — prequestioning helped on questions that were not identical to the practice ones, but every question addressed the same topic, so the authors call this near transfer.
 
 ## Why a wrong guess helps
 
@@ -64,10 +64,10 @@ The paper proposes two sources of benefit: the guess itself, which may create a 
 
 ## What this means for practice
 
-- **Instructors:** generate two open-ended questions from the text you are about to assign, give them out before reading, and make clear the answers will be wrong — that is the point.
-- **Instructional designers:** build the guess into the task sequence. A typed response before the reading opens, with no grade attached, is enough to reproduce the design.
-- **Curriculum designers:** ask for comparison questions when you want analysis rather than recall; the default output does not get there on its own.
-- **Administrators:** treat this as a cheap improvement to an existing practice, not as a case for buying a new platform. The model is doing the writing, not the teaching.
+- **Instructors.** generate two open-ended questions from the text you are about to assign, give them out before reading, and make clear the answers will be wrong — that is the point.
+- **Instructional designers.** build the guess into the task sequence. A typed response before the reading opens, with no grade attached, is enough to reproduce the design.
+- **Curriculum designers.** ask for comparison questions when you want analysis rather than recall; the default output does not get there on its own.
+- **Administrators.** treat this as a cheap improvement to an existing practice, not as a case for buying a new platform. The model is doing the writing, not the teaching.
 
 ## Limitations
 

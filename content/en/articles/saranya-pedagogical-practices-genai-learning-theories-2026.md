@@ -33,7 +33,7 @@ methods: [meta-analysis-systematic-review]
 4. **Behaviorism is nearly unrepresented.** The authors state that only a few studies specify behavioral learning principles, and they call for further investigation of generative AI integration from a behavioral perspective.
 5. **Within higher education, the field splits four ways.** The 93 articles divide into 59 on adoption and outcome-driven learning, 22 on language learning, 5 on AI [[conversational-ai|chatbots]] and [[adaptive-learning|adaptive learning]], and 7 on ethical use and policy.
 6. **The evidence base is China- and US-dominated.** China's production doubled from 50+ articles in 2024 to 100+ in 2025, the USA moved from around 40 to 60, and *Computer and Education: Artificial Intelligence* led all sources with 31 publications.
-7. **Proposed pedagogical frameworks remain unvalidated.** The review catalogs the AICE framework, the Generative AI–Adult Learning Ecology framework, the AI-Generated Metaverse Flipped Classroom Model, and Revised Bloom's Taxonomy applications, then notes that empirical evidence for their effectiveness remains limited.
+7. **Proposed pedagogical frameworks remain unvalidated.** The review catalogs the AICE framework, the Generative AI–Adult Learning Ecology framework, the AI-Generated Metaverse Flipped Classroom Model, and Revised [[bloom-taxonomy|Bloom's Taxonomy]] applications, then notes that empirical evidence for their effectiveness remains limited.
 
 ## How the corpus was built
 

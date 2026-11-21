@@ -17,7 +17,7 @@ sources: ['raw/papers/chatgpt-writing-cognitive-impact-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Wagner-Kobayashi (2026) asks whether [[generative-ai|ChatGPT]] used inside a [[writing-education|writing-to-learn]] task helps students learn the material they write about. Because composing with elaboration prompts is theorized to build knowledge and ChatGPT supplies examples and connections on demand, H1 predicted a steeper gain for the assisted group. In a laboratory experiment, 35 German-speaking psychology students (n = 16 with ChatGPT, n = 19 without, after five exclusions from forty) spent 20 minutes elaborating an input text, then took an identical knowledge test. The group × time interaction was significant (F(70) = 5.889, p = .018) but pointed the other way: the no-ChatGPT group gained more (posttest M = 8.29 vs 6.94), with b = −1.450 against the hypothesis. Motivation (p = .009) and interest (p = .017) interacted with group, so students low in motivation or topic interest were disadvantaged. Takeaway: untrained, time-pressured ChatGPT use did not benefit learning and may have harmed it.
+> **Synthesis:** Wagner-Kobayashi (2026) asks whether [[generative-ai|ChatGPT]] used inside a [[writing-education|writing-to-learn]] task helps students learn the material they write about. Because composing with elaboration prompts is theorized to build knowledge and ChatGPT supplies examples and connections on demand, H1 predicted a steeper gain for the assisted group. In a laboratory experiment, 35 German-speaking psychology students (n = 16 with ChatGPT, n = 19 without, after five exclusions from forty) spent 20 minutes elaborating an input text, then took an identical knowledge test. The group × time interaction was significant but pointed the other way: the no-ChatGPT group gained more, and the effect ran against the hypothesis. Motivation and interest interacted with group, so students low in motivation or topic interest were disadvantaged. Takeaway: untrained, time-pressured ChatGPT use did not benefit learning and may have harmed it.
 
 ## Key Findings
 
@@ -49,13 +49,13 @@ The study is a causal test of an [[cognitive-offloading|offloading]] prediction 
 
 - **Instructors.** Teach the tool before you assign it: the experimental group produced only 2.25 of 2.94 examples and 0.88 of 1.81 connections with ChatGPT, so training could have mitigated it.
 - **Instructors.** Protect elaboration time and require a visible product of student-generated elaboration, the activity writing-to-learn credits with the learning and the assisted condition displaced; participants focused on the word requirement, and ChatGPT users pasted answers rather than seeking their own examples.
-- **Instructors.** Front-load motivation and topic-interest support whenever a task carries an AI tool: higher motivation or interest predicted a steeper gain only inside the ChatGPT group (p = .009 and p = .017), which started higher on motivation (M = 8.56 vs 7.26) yet gained less.
+- **Instructors.** Front-load motivation and topic-interest support whenever a task carries an AI tool: higher motivation or interest predicted a steeper gain only inside the ChatGPT group, which started higher on motivation yet gained less.
 
 ## Limitations
 
 - The sample of 35 is small and psychology-only, uneven across conditions, and the authors call the randomization suboptimal for lacking counterbalancing or participant matching.
 - Several RM-HLM assumptions were violated — non-normal residuals, heterogeneity of variance in two models and a level-two N below 50 — which underestimates standard errors, though floor effects at pretest plausibly explain it.
-- Ecological validity is questionable (an artificial exam-like setting, unfamiliar desktops, one 20-minute episode), the manipulation was imperfect — 3 of 20 ChatGPT-group participants never used the tool — and the unvalidated test mainly captures lower levels of Bloom's taxonomy.
+- Ecological validity is questionable (an artificial exam-like setting, unfamiliar desktops, one 20-minute episode), the manipulation was imperfect — 3 of 20 ChatGPT-group participants never used the tool — and the unvalidated test mainly captures lower levels of [[bloom-taxonomy|Bloom's taxonomy]].
 
 ## Citation
 

@@ -24,16 +24,16 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This quasi-experimental study asks whether [[generative-ai|generative AI]] is more effective for learning as a novice learner than as a teacher. Sixty-eight [[teacher-education|preservice teachers]] at a Chinese teachers' university were divided into an experimental group (n=33) that explained the flipped classroom concept to a GAI novice learner (GAI-NL) built on Baidu's ERNIE 3.5, and a control group (n=35) that asked questions of a GAI teacher (GAI-T). The GAI-NL role used dialogue strategies such as Request for Explanation, Verification Reasoning and Opposing Perspective, sequenced along Bloom's taxonomy and routed by judgment nodes. The experimental group scored significantly higher on defining the flipped classroom (M=4.18 vs 3.29, p<0.001, r=0.474) and on its teaching activities (M=4.91 vs 3.06, p<0.001, r=0.642), and generated more and higher-quality questions. [[self-efficacy|Self-efficacy]] (p=0.039, Cohen's d=0.57) and perceived usefulness (p=0.032, Cohen's d=0.54) were also higher, but planning and monitoring did not improve. Assigning GAI the student role, the authors argue, operationalizes [[learning-by-teaching|learning by teaching]] without the difficulty of finding a suitable peer.
+> **Synthesis:** This quasi-experimental study asks whether [[generative-ai|generative AI]] is more effective for learning as a novice learner than as a teacher. Sixty-eight [[teacher-education|preservice teachers]] at a Chinese teachers' university were divided into an experimental group (n=33) that explained the flipped classroom concept to a GAI novice learner (GAI-NL) built on Baidu's ERNIE 3.5, and a control group (n=35) that asked questions of a GAI teacher (GAI-T). The GAI-NL role used dialogue strategies such as Request for Explanation, Verification Reasoning and Opposing Perspective, sequenced along [[bloom-taxonomy|Bloom's taxonomy]] and routed by judgment nodes. The experimental group scored clearly higher on defining the flipped classroom and on its teaching activities, and generated more and higher-quality questions. [[self-efficacy|Self-efficacy]] and perceived usefulness were also higher, but planning and monitoring did not improve. Assigning GAI the student role, the authors argue, operationalizes [[learning-by-teaching|learning by teaching]] without the difficulty of finding a suitable peer.
 
 ## Key Findings
 
-- The novice-learner role outperformed the [[teacher-role|teacher role]] on explanation and application: scores were higher for defining the flipped classroom (M=4.18 vs 3.29, p<0.001, r=0.474) and its teaching activities (M=4.91 vs 3.06, p<0.001, r=0.642).
-- Objective questions showed no group difference (M=23.18 vs 21.57, p=0.416), so gains concentrated in explanation and application rather than factual recall.
-- Students teaching the AI generated more questions (M=3.67 vs 2.14) and higher-quality questions (M=5.67 vs 3.07), both p<0.001 with r=0.473 and r=0.478.
-- [[self-efficacy|Self-efficacy]] was significantly higher in the experimental group (M=3.85 vs 3.56, p=0.039, Cohen's d=0.57), attributed to mastery experiences from explaining content.
-- On [[metacognition|metacognition]], the experimental group scored higher on metacognitive knowledge and learning strategies (p<0.001, Cohen's d=0.41) but not on planning and monitoring (M=4.01 vs 3.78, p=0.062).
-- Perceived usefulness was significantly higher in the novice-learner condition (M=4.02 vs 3.73, p=0.032, Cohen's d=0.54), while [[technology-acceptance-model|perceived ease of use]] did not differ (p=0.122).
+- The novice-learner role outperformed the [[teacher-role|teacher role]] on explanation and application: scores were higher for defining the flipped classroom and for its teaching activities, both clearly so.
+- Objective questions showed no group difference, so gains concentrated in explanation and application rather than factual recall.
+- Students teaching the AI generated more questions and higher-quality ones, both clearly so.
+- [[self-efficacy|Self-efficacy]] was significantly higher in the experimental group (a moderate difference), attributed to mastery experiences from explaining content.
+- On [[metacognition|metacognition]], the experimental group scored higher on metacognitive knowledge and learning strategies but not on planning and monitoring.
+- Perceived usefulness was significantly higher in the novice-learner condition , while [[technology-acceptance-model|perceived ease of use]] did not differ.
 
 ## Designing a novice learner from a large language model
 
@@ -53,10 +53,10 @@ The authors explain the advantage through the mechanics of explanation: preparin
 
 ## What this means for practice
 
-- Teachers can run learning by teaching without matching students by ability: a GAI novice learner supplies a stable "learner to be taught" at any time.
-- Dialogue strategies, not the role label alone, carry the effect: embed explanation and example requests, verification reasoning and opposing perspectives.
-- Because gains appeared in explanation and question generation but not objective recall, reserve the GAI-NL dialogue for consolidation and transfer tasks.
-- To reach planning and monitoring, add explicit metacognitive prompts, learning plan guidance and progress feedback, absent from the design under study.
+- **Teachers.** Teachers can run learning by teaching without matching students by ability: a GAI novice learner supplies a stable "learner to be taught" at any time.
+- **Teachers.** Dialogue strategies, not the role label alone, carry the effect: embed explanation and example requests, verification reasoning and opposing perspectives.
+- **Teachers.** Because gains appeared in explanation and question generation but not objective recall, reserve the GAI-NL dialogue for consolidation and transfer tasks.
+- **Teachers.** To reach planning and monitoring, add explicit metacognitive prompts, learning plan guidance and progress feedback, absent from the design under study.
 
 ## Limitations
 

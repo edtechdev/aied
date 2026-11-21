@@ -42,7 +42,7 @@ methods: [quantitative-research]
 
 ## The four-phase cycle
 
-Each of the three tasks began with an independently written draft submitted through the [[edtech-platform|learning management system]]. Only then did the AI class enter a cycle it had to complete within 48 hours: Elicitation, where students explained the analytical approach and variable choices already in their draft; Inquiry, where the model posed follow-up questions about assumptions, alternatives and the strength of evidence; Reframing, where it introduced counterexamples or competing interpretations; and Consolidation, where students wrote a revised analysis explaining what they had changed. The system prompt cast the model as an experienced data analysis tutor, instructed to give specific feedback without complete solutions; the phases were tied to the upper levels of Bloom's taxonomy and to the zone of proximal development. The cycle is [[scaffolding|scaffolding]] for [[metacognition|metacognition]] rather than answer generation, because the student's own reasoning is the object the feedback works on.
+Each of the three tasks began with an independently written draft submitted through the [[edtech-platform|learning management system]]. Only then did the AI class enter a cycle it had to complete within 48 hours: Elicitation, where students explained the analytical approach and variable choices already in their draft; Inquiry, where the model posed follow-up questions about assumptions, alternatives and the strength of evidence; Reframing, where it introduced counterexamples or competing interpretations; and Consolidation, where students wrote a revised analysis explaining what they had changed. The system prompt cast the model as an experienced data analysis tutor, instructed to give specific feedback without complete solutions; the phases were tied to the upper levels of [[bloom-taxonomy|Bloom's taxonomy]] and to the zone of proximal development. The cycle is [[scaffolding|scaffolding]] for [[metacognition|metacognition]] rather than answer generation, because the student's own reasoning is the object the feedback works on.
 
 The dose was not equal. Across three tasks students completed 254 cycles and received 1,316 AI messages, averaging 14.95 messages each; the instructor class received 247 written responses, averaging 3.13. A student in the comparison class therefore got a handful of comments on each draft, while a student in the AI class worked through a structured exchange. That difference belongs to the intervention as designed, but it also means the comparison bundles structure with volume.
 
@@ -68,10 +68,10 @@ Two cautions belong here: engagement was measured once, after the intervention, 
 
 ## What this means for practice
 
-- **Instructors:** require the initial draft and the articulation step before any AI feedback is released; the design's leverage is that students commit to their reasoning first, which is also what keeps the exchange closer to [[formative-assessment|formative assessment]] than to answer checking.
-- **Faculty developers:** build the four phases into the platform trigger rather than leaving the model unconstrained — the tutor prompt withheld complete solutions, and the phases were enforced by the system, not requested of students.
-- **Administrators:** do not treat the five-and-a-half-point gap as an effect size for procurement. One class per condition is the binding constraint, and a vendor pilot with the same structure inherits it.
-- **Researchers:** when intact classes are the only feasible unit, plan more than one class per condition; otherwise [[quantitative-research|matching]] improves description without buying attribution.
+- **Instructors.** require the initial draft and the articulation step before any AI feedback is released; the design's leverage is that students commit to their reasoning first, which is also what keeps the exchange closer to [[formative-assessment|formative assessment]] than to answer checking.
+- **Faculty developers.** build the four phases into the platform trigger rather than leaving the model unconstrained — the tutor prompt withheld complete solutions, and the phases were enforced by the system, not requested of students.
+- **Administrators.** do not treat the five-and-a-half-point gap as an effect size for procurement. One class per condition is the binding constraint, and a vendor pilot with the same structure inherits it.
+- **Researchers.** when intact classes are the only feasible unit, plan more than one class per condition; otherwise [[quantitative-research|matching]] improves description without buying attribution.
 
 ## Limitations
 
@@ -80,7 +80,7 @@ Two cautions belong here: engagement was measured once, after the intervention, 
 - No unstructured-AI comparison condition was included, for ethical reasons, so the study cannot separate the four-phase structure from the provider, the mode of interaction or the quantity of feedback received.
 - The same 40 items were administered at pre-test and post-test, so change may partly reflect item familiarity or practice, and the authors state the scores are not WGCTA scores or standardized indicators of general critical thinking.
 - Engagement was measured only after the intervention, and the intervention covered three feedback cycles in one course at one institution; persistence beyond the semester and transfer to novel analytical tasks were not tested.
-- Rosenbaum bounds weaken some outcomes: at Γ = 2.00 the final grade was no longer significant (p = 0.099416), and at Γ = 2.25 only the critical-thinking total score remained so (p = 0.024).
+- Rosenbaum bounds weaken some outcomes: under a moderate hidden-bias assumption the final grade no longer reached significance, and only the critical-thinking total score survived a stronger one.
 
 ## Citation
 

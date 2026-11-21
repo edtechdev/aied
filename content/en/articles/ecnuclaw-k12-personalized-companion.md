@@ -23,7 +23,7 @@ The system draws on three theoretical strands from Chinese educational technolog
 2. **Education Brain model** — for educational system architecture
 3. **Human-AI Collaborative IQ** — for companion design philosophy
 
-Profile updates feed into an **adaptive strategy engine** that adjusts guidance intensity, encouragement frequency, and Bloom's taxonomy [[scaffolding|scaffolding]] in real time. The framework supports seven Chinese [[llm|LLM]] providers through a unified OpenAI-compatible adapter layer.
+Profile updates feed into an **adaptive strategy engine** that adjusts guidance intensity, encouragement frequency, and [[bloom-taxonomy|Bloom's taxonomy]] [[scaffolding|scaffolding]] in real time. The framework supports seven Chinese [[llm|LLM]] providers through a unified OpenAI-compatible adapter layer.
 
 ## Significance for AIED
 

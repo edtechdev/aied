@@ -25,7 +25,7 @@ methods: [qualitative-research]
 
 ## Problem Posing as a Learning Practice
 
-Problem posing — asking students to generate novel problems or meaningful variations — supports [[transfer-of-learning|transfer of learning]] and strengthens problem-solving skills in [[physics-education|physics education]]. It is challenging for novices, because posing problems involves synthesis at a high level of Bloom's taxonomy and requires thinking about both how a question can be re-framed and the feasibility of the problem in real-world contexts. Because of this difficulty, students benefit from [[scaffolding|scaffolding]]. This study positions GenAI as a tool to provide that scaffolding in ways that maximize benefits and limit risks.
+Problem posing — asking students to generate novel problems or meaningful variations — supports [[transfer-of-learning|transfer of learning]] and strengthens problem-solving skills in [[physics-education|physics education]]. It is challenging for novices, because posing problems involves synthesis at a high level of [[bloom-taxonomy|Bloom's taxonomy]] and requires thinking about both how a question can be re-framed and the feasibility of the problem in real-world contexts. Because of this difficulty, students benefit from [[scaffolding|scaffolding]]. This study positions GenAI as a tool to provide that scaffolding in ways that maximize benefits and limit risks.
 
 ## A Transfer-Based Conceptual Framework
 

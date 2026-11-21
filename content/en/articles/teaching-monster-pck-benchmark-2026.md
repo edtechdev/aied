@@ -37,7 +37,7 @@ Because measuring [[learning-gains|student learning gains]] directly from each v
 
 ## Systems and Baselines
 
-Nearly all submissions instantiate a six-stage cascade: persona parsing and routing, lesson planning, slide and script [[writing-education|composition]], visual rendering, narration synthesis, and assembly. Recurring choices include structuring the persona as JSON conditioning for every stage, difficulty-based model routing, [[rag|web-search grounding]] of lesson plans to reduce [[hallucination-risk|hallucination]], Bloom's taxonomy constraints enforced by closed-loop LLM review, split handling of conceptual versus mathematical figures, and forced alignment of narration to animation. Three organizer-built baselines bound the design space: a cascaded pipeline, a commercial black-box generator ([[generative-ai|NotebookLM]]), and a static retrieval framework that reuses existing Creative Commons videos.
+Nearly all submissions instantiate a six-stage cascade: persona parsing and routing, lesson planning, slide and script [[writing-education|composition]], visual rendering, narration synthesis, and assembly. Recurring choices include structuring the persona as JSON conditioning for every stage, difficulty-based model routing, [[rag|web-search grounding]] of lesson plans to reduce [[hallucination-risk|hallucination]], [[bloom-taxonomy|Bloom's taxonomy]] constraints enforced by closed-loop LLM review, split handling of conceptual versus mathematical figures, and forced alignment of narration to animation. Three organizer-built baselines bound the design space: a cascaded pipeline, a commercial black-box generator ([[generative-ai|NotebookLM]]), and a static retrieval framework that reuses existing Creative Commons videos.
 
 ## Findings
 

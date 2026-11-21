@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-20T07:28:37-05:00"
+updated: "2026-11-21T05:22:19-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -25,7 +25,7 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - How much would you trust a headline like 'AI tutoring boosts learning by 30%' if you learned it came from 30 students in one course at one institution? Generalizability and small samples are recurring limits, so what would you want to know before acting on any single finding?
 - A striking limitation is the 'speed problem': AI evolves faster than findings get published, so a study of one model generation may already describe an obsolete system. How should this change the confidence you place in AI education research?
 - Many studies rely on [[self-report-measures|self-reported]] attitudes and usage, and those accounts carry known distortions. Have you ever answered a survey about your own skills or behavior in a way that didn't match reality? Why do perception-based measures so often diverge from objective performance?
-- Familiar frameworks like Bloom's taxonomy are often misread as strict ladders, and even widely used theories like [[cognitive-offloading|cognitive load]] theory have been challenged. When have you seen a theory invoked as settled truth in a context where its own evidence was actually contested?
+- Familiar frameworks like [[bloom-taxonomy|Bloom's taxonomy]] are often misread as strict ladders, and even widely used theories like [[cognitive-offloading|cognitive load]] theory have been challenged. When have you seen a theory invoked as settled truth in a context where its own evidence was actually contested?
 - Most AI research depends on proprietary, opaque models whose data and updates you cannot inspect. If you cannot verify exactly what model produced a result, how much can you trust claims built on it — and what would make findings more reproducible?
 - If you are an instructor or designer without time to read primary research, how do you decide which AI claims are trustworthy enough to change your practice — given that the literature is fragmented, provisional, and written for researchers?
 

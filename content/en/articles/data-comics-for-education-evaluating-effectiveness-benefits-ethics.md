@@ -41,7 +41,7 @@ The study used a within-subjects experimental design in which 60 university stud
 
 - The 60 participants were predominantly from similar academic backgrounds (STEM), which the authors state limits generalizability to groups with different professional contexts.
 - Only four pairs of visualizations were compared, so the breadth of data-comic and visualization types assessed is narrow.
-- Evaluation covered only the first two levels of Bloom's taxonomy — retrieving data points and comprehending insights — leaving more complex cognitive tasks such as manipulating data stories untested.
+- Evaluation covered only the first two levels of [[bloom-taxonomy|Bloom's taxonomy]] — retrieving data points and comprehending insights — leaving more complex cognitive tasks such as manipulating data stories untested.
 - The comics were not embedded in instructional activities or connected to learning outcomes, and the authors note that creation still requires substantial human involvement.
 
 ## Citation

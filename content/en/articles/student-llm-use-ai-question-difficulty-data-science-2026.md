@@ -27,10 +27,10 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A 10-week classroom study at Drexel University paired four student surveys with a construct-validity audit of LLM-generated retrieval practice. Across three data science courses students used [[llm|LLMs]] heavily for debugging and concept questions and reported high satisfaction, yet perceived deep-learning benefit declined. The audit produced the sharper result: the model's Easy, Medium, and Hard labels tracked the Bloom's levels generated alongside them (ρ = 0.90) but were unrelated to how students performed (ρ = 0.06). LLM-assigned [[assessment-validity|difficulty labels]] describe question formatting, not difficulty, so [[automated-question-generation|generated item metadata]] needs calibration against student response data before instructors trust it.
+> **Synthesis:** A 10-week classroom study at Drexel University paired four student surveys with a construct-validity audit of LLM-generated [[retrieval-spacing-interleaving|retrieval practice]]. Across three data science courses students used [[llm|LLMs]] heavily for debugging and concept questions and reported high satisfaction, yet perceived deep-learning benefit declined. The audit produced the sharper result: the model's Easy, Medium, and Hard labels tracked the [[bloom-taxonomy|Bloom's levels]] generated alongside them almost perfectly but were unrelated to how students performed. LLM-assigned [[assessment-validity|difficulty labels]] describe question formatting, not difficulty, so [[automated-question-generation|generated item metadata]] needs calibration against student response data before instructors trust it.
 
 ## Key Findings
-1. **Labels track Bloom, not students.** Over 378 authored questions the LLM's difficulty rank correlated with its co-generated Bloom's Taxonomy level at Spearman ρ = 0.90, but with empirical item difficulty at only ρ = 0.06.
+1. **Labels track Bloom, not students.** Over 378 authored questions the LLM's difficulty rank correlated with its co-generated [[bloom-taxonomy|Bloom's Taxonomy]] level at Spearman ρ = 0.90, but with empirical item difficulty at only ρ = 0.06.
 2. **Difficulty is a packaging artifact.** Mean stem length rose from 15.9 to 22.1 to 30.2 words across Easy, Medium, and Hard, and the share of stems containing a digit from 5.6% to 11.9% to 26.2%.
 3. **Longer options were easier.** Mean option length correlated negatively with empirical difficulty (ρ = −0.18), the opposite of the model's apparent assumption that more text signals a harder question.
 4. **Usage rose through the term.** By the final wave debugging and understanding concepts were near universal (100%, 93%); baseline respondents named [[generative-ai|ChatGPT]] (73%) and Claude (68%), across 94 survey responses.
@@ -55,7 +55,7 @@ The recommended path is empirical calibration: estimate difficulty and discrimin
 
 ## What this means for practice
 
-- **Treat difficulty labels as a drafting aid, not a measurement.** Use them to triage a question bank quickly, then confirm difficulty against student responses before relying on them.
+- **Instructors.** Treat difficulty labels as a drafting aid, not a measurement: use them to triage a question bank quickly, then confirm difficulty against student responses before relying on them.
 - **Calibrate with p-values you can compute.** The difficulty index (1 − p) is available within a week in any quiz tool; track it per item rather than trusting form cues such as stem length.
 - **Ask about depth, not only satisfaction.** Time saved (4.29) can coexist with flat or falling [[self-report-measures|perceived learning]]; survey both when [[ai-ed-evaluation|evaluating AI]] in a course.
 - **Separate co-generated tags before auditing.** Bloom levels arriving in the same pass as difficulty labels inflate apparent agreement; score them independently.

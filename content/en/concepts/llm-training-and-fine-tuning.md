@@ -1,7 +1,7 @@
 ---
 title: LLM Training and Fine-Tuning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-21T05:22:19-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -111,7 +111,7 @@ The training data is itself something models can curate: Edu-QuRating adapts pre
 
 The same machinery is increasingly pointed at simulating students, which changes the economics of evaluating a tutor: instead of recruiting learners, you generate them.
 
-The caution is that simulated students must be validated like any other instrument. Benchmarking fine-tuned and prompted models on **382 held-out dialogues** from the largest public collection of real student–tutor mathematics dialogues — across seven metrics spanning linguistic, behavioral and cognitive aspects — produced the field's most direct test of whether simulated students behave like students ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Two further approaches push on fidelity: INSIDE fine-tunes LLMs to both *act* and *think* like students, generating internal dialogue grounded in Bloom's Taxonomy across cognitive, affective and action dimensions and training on paired think-traces and actions ([[inside-llm-student-simulator-reasoning-2026|Niousha et al., 2026]]), and history-aware profiles condition simulation on a student's prior trajectory rather than a static persona ([[history-aware-student-simulation|Duan et al., 2026]]). For a developer, the practical lesson is that a simulator is a measurement instrument and inherits every validity question that implies.
+The caution is that simulated students must be validated like any other instrument. Benchmarking fine-tuned and prompted models on **382 held-out dialogues** from the largest public collection of real student–tutor mathematics dialogues — across seven metrics spanning linguistic, behavioral and cognitive aspects — produced the field's most direct test of whether simulated students behave like students ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Two further approaches push on fidelity. INSIDE fine-tunes LLMs to both *act* and *think* like students, generating internal dialogue grounded in [[bloom-taxonomy|Bloom's Taxonomy]] across cognitive, affective and action dimensions ([[inside-llm-student-simulator-reasoning-2026|Niousha et al., 2026]]). History-aware profiles instead condition simulation on a student's prior trajectory rather than a static persona ([[history-aware-student-simulation|Duan et al., 2026]]). For a developer, the practical lesson is that a simulator is a measurement instrument and inherits every validity question that implies.
 
 Unlearning 16 Python knowledge components from Mistral-7B drops accuracy to a target level and coach-guided relearning recovers it, giving a simulator a dialable knowledge state rather than a prompted persona ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin (2026)]]).
 

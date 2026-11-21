@@ -45,6 +45,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'benchmark': ['benchmark', 'benchmark dataset', 'benchmark suite', 'benchmarking', 'benchmarks', 'evaluation benchmark'],
   'bias-mitigation': ['algorithmic bias', 'algorithmic fairness', 'bias', 'bias mitigation', 'biases', 'de-biasing', 'debiasing', 'fairness'],
   'biology-education': ['biological', 'biological education', 'biology', 'biology education', 'biology laboratory', 'biology learning', 'life sciences'],
+  'bloom-taxonomy': ['bloom\'s taxonomy', 'bloom taxonomy', 'blooms taxonomy', 'bloom\'s revised taxonomy', 'revised bloom\'s taxonomy', 'anderson and krathwohl', 'cognitive taxonomy', 'taxonomy of educational objectives'],
   'business-education': ['business degree', 'business education', 'business school', 'business schools', 'economics education', 'management education'],
   'career-development-and-readiness': ['AI career anxiety', 'career adapt-abilities', 'career adaptability', 'career development', 'career readiness', 'employability', 'workforce readiness'],
   'case-based-learning': ['case based learning', 'case discussion', 'case method', 'case study teaching', 'case-based instruction', 'cases in teaching', 'contrasting cases', 'teaching cases'],
