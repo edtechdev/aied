@@ -2,7 +2,7 @@
 title: Гуманитарное образование
 created: "2026-10-13T15:00:00-04:00"
 type: concept
-foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
+foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
