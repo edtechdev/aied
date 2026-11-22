@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-22T08:30:00-05:00"
+updated: "2026-11-22T10:10:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -126,7 +126,7 @@ The ladder has three rungs, and only the first two belong here. **Offloading** i
 
 **Affective engagement, not self-rated competence, tracks over-reliance.** Among 249 vocational foreign-language learners, fear of missing out (β = 0.50) and anthropomorphic attachment (β = 0.27) predicted self-reported over-reliance while perceived AI literacy (r = 0.08) and self-regulated learning (r = −0.03) did not; the gap between feeling literate and reporting regulation did (β = 0.21) ([[gao-too-good-to-resist-overreliance-2026|Gao et al., 2026]]).
 
-**The corpus cannot yet separate extension from substitution.** A realist synthesis of 93 studies found 69 reporting no learning measure independent of AI assistance and only four combining processing evidence with such a measure, so cognitive extension and substitution remain empirically indistinguishable ([[li-cognitive-agency-human-genai-realist-synthesis-2026|Li et al., 2026]]).
+**The field cannot yet separate extension from substitution.** A realist synthesis of 93 studies found 69 reporting no learning measure independent of AI assistance and only four combining processing evidence with such a measure, so cognitive extension and substitution remain empirically indistinguishable ([[li-cognitive-agency-human-genai-realist-synthesis-2026|Li et al., 2026]]).
 
 **The harm and the benefit can arrive in the same outcome.** Pooling 31 studies of 16,357 learners, [[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]] found dependence depressing critical thinking while rising motivation lifted it by nearly the same amount, so an association near zero records two mechanisms offsetting rather than an absent offloading effect.
 
