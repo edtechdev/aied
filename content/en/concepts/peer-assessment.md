@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T11:45:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -19,7 +19,7 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 ## Questions to Consider
 
 - Think back to a time your work was assessed by a peer—or you assessed theirs. What did you learn more from: giving feedback or receiving it, and why?
-- Why might a student's feedback be more context-aware and emotionally supportive than AI feedback, even while AI feedback is more consistent and rubric-driven? How could the two complement each other?
+- Why might a student's feedback be more context-aware and emotionally supportive than AI feedback, even while AI feedback is more consistent and [[rubrics|rubric-driven]]? How could the two complement each other?
 - Peers tend to under-grade strong work and AI tends to inflate weak work. If neither is reliably accurate across the whole quality range, what should a grade from either source be used for?
 - Peer assessment depends heavily on [[scaffolding|scaffolding]] and clear criteria, and friendship bias and social [[anxiety-and-stress|anxiety]] can make untrained peer review worse than none. What does adequate training actually look like in your context?
 - If AI can draft comments on organization and structure, does that make peer assessment redundant—or does it free peers to give the specific, audience-aware feedback only they can give?

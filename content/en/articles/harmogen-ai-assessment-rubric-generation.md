@@ -18,7 +18,7 @@ level: [higher ed]
 
 ## Why rubric generation is a bottleneck in assessment
 
-[[formative-assessment|Formative assessment]] is limited partly because developing quality rubrics is resource-intensive: authors must define criteria, observable indicators, and performance descriptors aligned with instructional objectives, then iteratively adapt them across assignments, cohorts, and learning goals. Because rubrics support consistent judgment and clarify expectations, their value derives from validity and appropriateness, not mere presence. The paper positions automated rubric generation as a way to reduce authoring effort and enable more frequent formative assessment, provided AI-produced rubrics can match human scoring outcomes.
+[[formative-assessment|Formative assessment]] is limited partly because developing quality rubrics is resource-intensive: authors must define criteria, observable indicators, and performance descriptors aligned with instructional objectives, then iteratively adapt them across assignments, cohorts, and learning goals. Because [[rubrics]] support consistent judgment and clarify expectations, their value derives from validity and appropriateness, not mere presence. The paper positions automated rubric generation as a way to reduce authoring effort and enable more frequent formative assessment, provided AI-produced rubrics can match human scoring outcomes.
 
 ## The HARMOGEN-R pipeline: reasoning-then-synthesis
 

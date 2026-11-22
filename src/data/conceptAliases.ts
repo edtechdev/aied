@@ -204,6 +204,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'remote-proctoring': ['AI proctoring', 'automated proctoring', 'e-proctoring', 'exam proctoring', 'online invigilation', 'online proctoring', 'remote proctoring'],
   'research-methods-aied': ['AIED methodology', 'AIED research methods', 'methodological', 'research', 'research design', 'research methods', 'research methods in AIED', 'researcher', 'researchers', 'study design'],
   'retrieval-spacing-interleaving': ['retrieval practice', 'retrieval-based learning', 'practice testing', 'testing effect', 'spaced practice', 'spaced repetition', 'spacing effect', 'distributed practice', 'interleaving', 'interleaved practice', 'pretesting'],
+  'rubrics': ['rubric', 'rubrics', 'scoring rubric', 'scoring rubrics', 'grading rubric', 'grading rubrics', 'analytic rubric', 'holistic rubric', 'marking rubric', 'performance descriptors'],
   'samr-model': ['SAMR', 'SAMR framework', 'SAMR model', 'Substitution Augmentation Modification Redefinition'],
   'scaffolding': ['adaptive scaffolding', 'fading', 'instructional scaffolding', 'scaffold', 'scaffolding', 'scaffolds'],
   'science-education': ['science classrooms', 'science education', 'science inquiry', 'science learning', 'science teaching'],

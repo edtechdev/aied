@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-22T11:45:00-05:00"
 connected_resources: [my-essay-feedback]
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
@@ -33,7 +33,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 ## How AI feedback quality appears in the research
 
-- **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds [[llm|LLM]] grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or [[multilingual-learning|multilingual]] work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz et al., 2026]]).
+- **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds [[llm|LLM]] grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed [[rubrics]] but degrading on complex, open-ended, or [[multilingual-learning|multilingual]] work, with feedback sometimes too generic or misaligned with the grade. It identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz et al., 2026]]).
 - **LLM-generated lesson materials matched human-created ones — when feedback was present.** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] generated scenario-based tutor-training lessons with a [[rag|retrieval-augmented]] pipeline over curated research sources and compared them in a randomized eight-condition experiment (N = 208) against carefully human-authored lessons. The human-created lesson produced higher post-test performance (0.793 vs 0.730), but only in the no-feedback condition; with immediate explanatory feedback the source difference disappeared, and feedback had no overall main effect. For content generation the finding suggests the human-vs-LLM gap is a scaffolding gap: generated materials are competitive when the learning environment supplies the explanatory feedback the lesson itself does not.
 
 Student-perceived quality is more mixed than acceptability suggests: 77 of 93 undergraduates found AI feedback easy to understand, yet 68 found it repetitive and 79 self-contradictory; only 31 agreed it grades complex or creative writing, and 81.7% preferred human scoring for a final paper worth 40% of the grade ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).

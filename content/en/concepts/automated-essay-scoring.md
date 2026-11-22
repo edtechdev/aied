@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T11:45:00-05:00"
 connected_resources: [moodle-qtype-aitext]
 type: concept
 foundations: [ai-literacy]
@@ -43,7 +43,7 @@ In upper-elementary response-to-text writing, [[correnti-erevise-validity-argume
 
 - **Reasoning traces as the explanation.** [[xu-explainable-ai-essay-scoring-cot-2026|Xu et al. (2026)]] fine-tune Qwen models to reason through the four IELTS traits before scoring, then apply PPO on examiner preferences. Average QWK rose from 0.5253 (7B, CoT only) to 0.5410 (72B), while feedback BLEU rose from 0.2371 to 0.2873 with PPO and CoT; scale alone added little, at 2.5% BLEU from 7B to 72B.
 
-- **Auditability as a scoring target.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] builds an ASAP pipeline whose feedback layer attaches essay evidence to each weak trait and exposes a teacher review flag. Macro QWK was 0.738 against 0.739 for its best pure scorer, while rubric-grounded feedback reached a Trait Recall@2 of 0.829 and a valid evidence rate of 0.912 where rubric-only feedback cited nothing.
+- **Auditability as a scoring target.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] builds an ASAP pipeline whose feedback layer attaches essay evidence to each weak trait and exposes a teacher review flag. Macro QWK was 0.738 against 0.739 for its best pure scorer, while [[rubrics|rubric-grounded]] feedback reached a Trait Recall@2 of 0.829 and a valid evidence rate of 0.912 where rubric-only feedback cited nothing.
 
 - **Dimension-level trait scoring is bounded by the data behind each dimension.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] trained one classifier per dimension of Ennis's FRISCO [[critical-thinking|critical thinking]] framework on 106 Indonesian eleventh-grade physics essays (83 for training, 23 for testing, with three teacher raters agreeing at kappa 0.78–0.84 on every dimension). Agreement concentrated on expression rather than reasoning: quadratic weighted kappa reached 0.763 for Clarity and 0.728 for Situation but only 0.374 for Focus, 0.332 for Reason and 0.227 for Inference. The ordinal signal was manufactured rather than observed. Synthetic level-1 essays (built from templates, cut to 20–40% of their original length, with keywords removed) plus LLM paraphrase lifted Focus by +0.346 kappa off a 0.028 baseline — and one configuration reached 0.652 accuracy with near-zero or negative kappa, — so accuracy is not a usable selection criterion in ordinal AES.
 

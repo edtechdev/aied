@@ -1910,6 +1910,19 @@ concepts:
     - interleaving
     - interleaved practice
     - pretesting
+  rubrics:
+    title: Rubrics
+    aliases:
+    - rubric
+    - rubrics
+    - scoring rubric
+    - scoring rubrics
+    - grading rubric
+    - grading rubrics
+    - analytic rubric
+    - holistic rubric
+    - marking rubric
+    - performance descriptors
   samr-model:
     title: SAMR Model
     aliases:
@@ -2618,6 +2631,7 @@ sections:
     - summative-assessment
     - authentic-assessment
     - process-oriented-assessment
+    - rubrics
     - group-work
     - eportfolio
     - peer-assessment

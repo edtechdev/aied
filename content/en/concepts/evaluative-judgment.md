@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-21T02:02:25-05:00"
+updated: "2026-11-22T11:45:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -19,7 +19,7 @@ connected_articles: [ahman-thoren-processes-of-patterning-ai-literacy-2026, ai-i
 ## Questions to Consider
 
 - Think of something you can judge well. How did you learn that judgment — explicitly taught, or absorbed by making and comparing — and what does that imply for how it should be assessed?
-- A rubric can be applied mechanically or understood. If a student follows criteria correctly but cannot say why one piece of work beats another, which capability has the assessment actually measured?
+- A [[rubrics|rubric]] can be applied mechanically or understood. If a student follows criteria correctly but cannot say why one piece of work beats another, which capability has the assessment actually measured?
 - When a [[llm|language model]] drafts a plausible solution, the learner's remaining work is largely judgment: what to keep, what to fix, what to discard. Is that a diminished task, or a more demanding one than producing the draft?
 - A student can accept an AI suggestion because it reads well, or because it survives their own scrutiny. From the outside the submission may look identical — what would let an assessor see the difference?
 - A multisite experiment found that direct [[ai-feedback-quality|AI feedback]] produced the largest revision gains but risked passive outsourcing of judgment. What does that trade-off suggest about how you would design feedback to build rather than bypass judgment?

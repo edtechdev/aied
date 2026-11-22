@@ -1,6 +1,6 @@
 ---
 title: "On the essay in a time of GenAI"
-created: "2026-11-13T16:30:00-05:00"
+created: "2026-11-13T16:24:05-05:00"
 updated: "2026-11-13T16:30:00-05:00"
 type: article
 published: 2026-10-16
@@ -48,7 +48,7 @@ Adorno's account: the essay "thinks in fragments," refuses completeness, resists
 
 ## What standardization turned it into, and why GenAI found it easy
 
-The assessed essay is now thesis-driven and rubric-shaped, what Andrew calls an "elaborate game" of structured demonstration. Its success conditions can be stated in advance — exactly what a language model satisfies: a criteria sheet written before any student begins tells the writer — and the model — what a good answer looks like. [[assessment-validity|Validity]] was already thin when a grader could not tell compliance from inquiry; [[generative-ai|GenAI]] made that impossible to ignore.
+The assessed essay is now thesis-driven and [[rubrics|rubric-shaped]], what Andrew calls an "elaborate game" of structured demonstration. Its success conditions can be stated in advance — exactly what a language model satisfies: a criteria sheet written before any student begins tells the writer — and the model — what a good answer looks like. [[assessment-validity|Validity]] was already thin when a grader could not tell compliance from inquiry; [[generative-ai|GenAI]] made that impossible to ignore.
 
 Predetermined criteria also misdescribe what Sadler calls divergent tasks: criteria fixed in advance cannot anticipate which features will matter in a piece that does not resemble its neighbors. Specifying them invites compliance: the task asks for exploration and rewards conformity. Bans, declarations and traffic-light rules leave this mechanism untouched; they regulate speech about the task rather than the task.
 
@@ -70,10 +70,10 @@ Holistic judgment, they concede, addresses one side, cannot secure validity alon
 
 ## What this means for practice
 
-- **Instructors:** Ask questions you do not already have an answer to, and require the working — notes, a revision trail, a note on what changed — so the text shows the process.
-- **Program leaders:** Resist replacing essays with examinations by default; the cheaper substitute measures recall and leaves the capacities the essay trained with no home.
-- **Assessment designers:** Pair holistic judgment with calibration sessions and written justifications against features of the work, and retire the criteria sheet that teaches compliance.
-- **Faculty developers:** Run exemplar-based norming where staff judge real work together and argue about quality, then have students do the same with the same exemplars.
+- **Instructors.** Ask questions you do not already have an answer to, and require the working — notes, a revision trail, a note on what changed — so the text shows the process.
+- **Program leaders.** Resist replacing essays with examinations by default; the cheaper substitute measures recall and leaves the capacities the essay trained with no home.
+- **Assessment designers.** Pair holistic judgment with calibration sessions and written justifications against features of the work, and retire the criteria sheet that teaches compliance.
+- **Faculty developers.** Run exemplar-based norming where staff judge real work together and argue about quality, then have students do the same with the same exemplars.
 
 ## Limitations
 

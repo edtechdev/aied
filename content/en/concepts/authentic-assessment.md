@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-11-21T03:15:06-05:00"
+updated: "2026-11-22T11:45:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -22,7 +22,7 @@ connected_articles: [ai-ethics-tensions-online-pedagogy-2026, assessing-student-
 - Authentic assessment examines performance on worthy, realistic intellectual tasks rather than isolated test items. Before reading, did you assume an 'authentic' task simply replicates a real-world or workplace scenario? Authenticity has evolved well beyond mere replication: what other forms can it take?
 - A central claim is that any task a language model can credibly simulate in a take-home setting loses its validity as evidence of original student competence. Which assessment in your own teaching or study would you now consider 'counterfeitable' — and what makes you say that?
 - One striking gap stands out: only 3 of 37 studies addressed social authenticity — whether assessment lets students contribute to societal change. Why do you think the social dimension of authenticity is so neglected, and what might assessing it actually look like?
-- Policing cannot produce authenticity; redesign can. When students co-author rubrics, choose what and how to submit, and engage in real-time interaction, AI use becomes expected and declared rather than concealed. How would that shift the relationship between student and assessor?
+- Policing cannot produce authenticity; redesign can. When students co-author [[rubrics]], choose what and how to submit, and engage in real-time interaction, AI use becomes expected and declared rather than concealed. How would that shift the relationship between student and assessor?
 - Oral exams and process-based portfolios are offered as AI-resistant authentic forms. But graded reflection and [[self-assessment|self-assessment]] risk becoming performative — students performing the reflection they think is wanted. How could you design for genuine reflection rather than performance?
 - Where does the student's own judgment go when AI supplies the rubric, the feedback, and the monitoring? If the tool does the evaluating, what is left for the learner to actually practice or learn?
 

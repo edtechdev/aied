@@ -25,7 +25,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Zhao and colleagues (2026) integrated an [[llm|LLM]]-based [[automated-assessment|grading]] pipeline into PrairieLearn and piloted it in two [[cs-education|computing]] courses, not to replace graders but to turn the AI's disagreements with instructors into a rubric-development instrument. The tool makes the same binary present/absent decision on each rubric item that a human grader makes, using GPT-4o with retrieval of up to five previously hand-graded submissions as few-shot examples. Across identify-the-bug and explain-in-plain-English questions, AI–human agreement reached 89–100%, comparable to or above agreement between trained human graders; on theory-of-computation explanations it fell to 75% on the detail item, and on a Markov-matrix problem with six legitimate solutions it dropped to 65%. The paper's argument is that the interesting signal is the disagreement: instructors can see which rubric item, and which wording, the AI misapplies, then revise the rubric until the instrument measures what they intended.
+> **Synthesis:** Zhao and colleagues (2026) integrated an [[llm|LLM]]-based [[automated-assessment|grading]] pipeline into PrairieLearn and piloted it in two [[cs-education|computing]] courses, not to replace graders but to turn the AI's disagreements with instructors into a [[rubrics|rubric-development]] instrument. The tool makes the same binary present/absent decision on each rubric item that a human grader makes, using GPT-4o with retrieval of up to five previously hand-graded submissions as few-shot examples. Across identify-the-bug and explain-in-plain-English questions, AI–human agreement reached 89–100%, comparable to or above agreement between trained human graders; on theory-of-computation explanations it fell to 75% on the detail item, and on a Markov-matrix problem with six legitimate solutions it dropped to 65%. The paper's argument is that the interesting signal is the disagreement: instructors can see which rubric item, and which wording, the AI misapplies, then revise the rubric until the instrument measures what they intended.
 
 ## Key Findings
 
@@ -61,7 +61,7 @@ The pilot also surfaced the familiar subjectivity of conceptual grading. In one 
 - **Budget rubric time, not just deployment time.** The workflow assumes an instructor will hand-grade about ten responses and revise the rubric before scaling; a team that treats the rubric as fixed will get the AI's interpretation of it, not the instructor's.
 - **Write items as observable checks.** Items that name a concrete feature of the answer travelled well; items that ask whether an explanation is "detailed enough" did not.
 - **Watch item-level agreement, not only the total.** A high overall agreement can hide one systematically misapplied item, which is exactly the item that needs rewriting.
-- **Do not use the first ten submissions as the validation sample.** They are convenient but may be the easiest cases; a spread of response types gives a more honest agreement estimate.
+- **Instructors.** Do not use the first ten submissions as the validation sample. They are convenient but may be the easiest cases; a spread of response types gives a more honest agreement estimate.
 - **Keep the human label authoritative.** The pilot displays AI selections for review rather than auto-publishing them, which preserves the instructor's judgment and makes the disagreement visible.
 
 ## Limitations
