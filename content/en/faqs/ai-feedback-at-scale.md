@@ -24,7 +24,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-It is week six. You have a stack of drafts, a rubric you believe in, and a growing suspicion that a third of your comments get skimmed and forgotten. A colleague mentions that a tool now comments on every draft within the hour. The department meeting needs an answer: is this an upgrade, or a faster way to produce text nobody reads?
+It is week six. You have a stack of drafts, a [[rubrics|rubric]] you believe in, and a growing suspicion that a third of your comments get skimmed and forgotten. A colleague mentions that a tool now comments on every draft within the hour. The department meeting needs an answer: is this an upgrade, or a faster way to produce text nobody reads?
 
 Here is the short answer: AI feedback earns its place on coverage, timeliness and consistency, inside a narrow band. Copy-editing-scale language work and rubric-guided first-pass comments are worth automating. Reach is the cheap part. In a cluster-randomized experiment with 1,176 first-year undergraduates, reflective and hybrid designs beat direct AI critique on delayed, AI-free [[transfer-of-learning|transfer]]. In a randomized essay experiment with 70 students, better-rated AI feedback produced no better revisions than an experienced [[teacher-role|teacher]]'s. What a student does with a comment decides the outcome, and [[feedback-literacy|feedback literacy]] separates the students who gain from the ones who copy.
 

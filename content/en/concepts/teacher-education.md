@@ -1,7 +1,7 @@
 ---
 title: "Teacher Education"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -42,7 +42,7 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 - **Local context as a design input.** Swiss student teachers rated social-utility and intrinsic motives higher than their Chinese peers, who reported greater digital teaching competence and AI enthusiasm ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). Preparation should key its entry point to each setting's [[motivation|motivational]] profile.
 - **Applications and benefits.** A scoping review of 55 studies shows AI enhances pre-service teachers' instructional design, subject instruction, practical teaching skills, evaluation, reflective practice, [[critical-thinking|critical thinking]], technology integration, and pedagogical innovation.([[harnessing-ai-preservice-teachers-scoping-2026|Ziying et al., 2026]])
 
-- **Unscaffolded genAI access scored below no genAI.** In an 11-week quasi-experiment with 52 pre-service teachers, the unscaffolded genAI class produced lower rubric-rated lesson plans than the no-genAI class (adjusted 86.54 vs 81.87, F = 8.348, p = 0.006, η² = 0.146), with no group difference in [[self-regulated-learning|self-regulated learning]] or critical thinking ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
+- **Unscaffolded genAI access scored below no genAI.** In an 11-week quasi-experiment with 52 pre-service teachers, the unscaffolded genAI class produced lower [[rubrics|rubric]]-rated lesson plans than the no-genAI class (adjusted 86.54 vs 81.87, F = 8.348, p = 0.006, η² = 0.146), with no group difference in [[self-regulated-learning|self-regulated learning]] or critical thinking ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
 - **Structured custom-GPT cycles produced four cognitive partner roles.** In a one-semester design-based study, 14 pre-service Digital Technologies teachers used LMS-integrated personalized GPT agents through Prompt–Reflect–Refine cycles, enacting conceptual tutor, co-designer, reflective mirror, and cognitive challenger roles as expertise grew ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]), and 82% of final artifacts mapped content descriptors, assessment tasks, and success criteria.
 - **[[educational-robotics|Educational robotics]] and ML.** Initial teacher training embeds coding, robotics, and [[machine-learning|machine learning]] activities (e.g., micro:bit) to build [[computational-thinking|computational thinking]] in future teachers.([[microbit-robotics-machine-learning-teacher-training-2026|Sáez-López et al., 2026]])
 - **Authentic assessment and [[metacognition|metacognition]].** AI-mediated assessment models (e.g., AAIWA) integrate [[authentic-assessment|authentic rubric-based assessment]], condition-responsive [[ai-feedback-quality|AI feedback]], and [[reflection|metacognitive reflection]] in pre-service programs.([[aaiwa-ai-authentic-assessment-metacognition-2026|Oktoma et al., 2026]])

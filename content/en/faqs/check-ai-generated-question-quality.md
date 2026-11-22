@@ -60,7 +60,7 @@ Check alignment next: does answering supply evidence for the intended outcome, o
 
 Read the wording as a student would. Is the needed information present, and has ambiguity unrelated to your construct been removed?
 
-Look at the options and the scoring rules together. Are the distractors plausible and distinct from each other and from the key, and does the key recognize legitimate alternative answers that your rubric would credit?
+Look at the options and the scoring rules together. Are the distractors plausible and distinct from each other and from the key, and does the key recognize legitimate alternative answers that your [[rubrics|rubric]] would credit?
 
 Finally, ask who the item excludes. Reading load, cultural context, visuals and formatting can impose demands unrelated to the outcome. For a multilingual or disabled student, an item that rewards fast reading is measuring something you did not intend, and [[differential-effects-across-learner-groups|subgroup performance]] is where that shows up.
 

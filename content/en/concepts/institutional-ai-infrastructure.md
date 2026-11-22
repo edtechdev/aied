@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T07:36:15-05:00"
-updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -112,7 +112,7 @@ District-scale hosted platforms report the same kind of arithmetic: PSD401 AI St
 
 A gateway can route to a local model that handles the institution's language poorly, and the resulting silence is not neutral. The infrastructure argument and the [[digital-divide|digital divide]] argument meet here: institutions with clusters and staff gain capability, and the ones without absorb whatever the vendor offers at whatever price the vendor sets. Free tiers are genuinely useful and genuinely fragile, which makes treating them as a permanent strategy a decision about which institutions get served.
 
-**Infrastructure also mediates meaning.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] treat generative AI as meaning-mediating infrastructure that reformats prompts, rubrics, feedback and genres into communicatively plausible forms, so procurement and audit must ask whose communicative styles a system recognizes, what help it normalizes, and whether expectations about pace and polish drift faster than support.
+**Infrastructure also mediates meaning.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] treat generative AI as meaning-mediating infrastructure that reformats prompts, [[rubrics|rubrics]], feedback and genres into communicatively plausible forms, so procurement and audit must ask whose communicative styles a system recognizes, what help it normalizes, and whether expectations about pace and polish drift faster than support.
 
 ## Implications for Practice
 

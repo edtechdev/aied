@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -53,7 +53,7 @@ A discourse-level system goes further by naming the defect rather than scoring t
 
 Design quality, not usage frequency, carried the motivational effect in an instructor-built tutor: across 74 undergraduates using a course-scoped Japanese GPT, out-of-class usage frequency showed no significant correlation with autonomy, competence, or relatedness, while learners rated the tutor highly for [[self-directed-learning|self-directed learning]] (M = 4.39) and cited affective safety (60.8%) ([[instructor-designed-ai-tutors-foreign-language-sdt-2026|Lee & Kwon, 2026]]).
 
-**GenAI-supported writing at the primary level.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ran a nine-week opinion-writing program with 301 Grade 5 and 6 learners in Eastern China, with eight intact classes randomly assigned to the program or to conventional instruction. The program raised learners' ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17), and lifted behavioral and emotional engagement, but it did not move growth mindset, cognitive or metacognitive engagement, or rubric-scored organization — among writing dimensions only language use improved. Two features of the design matter for language teachers: prompting was taught explicitly, through a categorized bank of prompts tied to specific writing goals, and GenAI feedback was used alongside comparison with teacher feedback and repeated revision. The authorship gains learners reported rested on that instructional structure rather than on the tool by itself, and the authors name reduced [[metacognition|self-monitoring]] and shortcut-oriented strategies as the standing risks.
+**GenAI-supported writing at the primary level.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ran a nine-week opinion-writing program with 301 Grade 5 and 6 learners in Eastern China, with eight intact classes randomly assigned to the program or to conventional instruction. The program raised learners' ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17), and lifted behavioral and emotional engagement, but it did not move growth mindset, cognitive or metacognitive engagement, or [[rubrics|rubric]]-scored organization — among writing dimensions only language use improved. Two features of the design matter for language teachers: prompting was taught explicitly, through a categorized bank of prompts tied to specific writing goals, and GenAI feedback was used alongside comparison with teacher feedback and repeated revision. The authorship gains learners reported rested on that instructional structure rather than on the tool by itself, and the authors name reduced [[metacognition|self-monitoring]] and shortcut-oriented strategies as the standing risks.
 
 **GenAI grammar instruction works through revision, not commentary.** In a ten-week quasi-experiment with 88 Ethiopian EFL students, draft–prompt–reflect–revise cycles raised grammar (η² = 0.499) and overall writing, and content scores rose although the prompt barred content feedback ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa & Abo, 2026]]).
 

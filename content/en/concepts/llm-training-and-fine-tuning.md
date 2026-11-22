@@ -1,7 +1,7 @@
 ---
 title: LLM Training and Fine-Tuning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-21T05:22:19-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -30,7 +30,7 @@ connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini
 
 ## Introduction
 
-Educational AI development runs into the same wall from two directions. General-purpose language models are post-trained on human preference for helpfulness, which in practice means answering promptly and completely; tutoring requires the opposite, because the [[pedagogy|pedagogical]] goal is to help a student reach the answer rather than to hand it over. At the same time, a general model knows nothing about your curriculum, your rubric, or your institution's voice, and no amount of prompt engineering reliably installs those.
+Educational AI development runs into the same wall from two directions. General-purpose language models are post-trained on human preference for helpfulness, which in practice means answering promptly and completely; tutoring requires the opposite, because the [[pedagogy|pedagogical]] goal is to help a student reach the answer rather than to hand it over. At the same time, a general model knows nothing about your curriculum, your [[rubrics|rubric]], or your institution's voice, and no amount of prompt engineering reliably installs those.
 
 What matters is the techniques that change a model rather than the text you send it. They sit on a **ladder of increasing commitment**: prompting, then retrieval, then parameter-efficient adaptation, then full fine-tuning, then post-training with preference or reward signals. Each rung costs more data, more compute, and more evaluation discipline than the last, and each is a worse first choice than the rung below it unless a specific measurement justifies the climb. Much of the research literature reports only the top of that ladder, which makes it easy for a developer to reach for training when retrieval would have been sufficient.
 

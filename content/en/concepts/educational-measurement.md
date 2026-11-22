@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -73,7 +73,7 @@ AI literacy is the construct with the richest instrument coverage. Two broad fam
 
 ### Assessment-quality and validity instruments
 
-- **Automated scoring and rubric instruments.** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] generates assessment rubrics; [[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]] evaluates AI-grading quality against Elaborated-[[feedback|feedback]] criteria; [[ai-assessment-scale-reform|Perkins et al., 2026]] addresses how AI disrupts traditional assessment scales.
+- **Automated scoring and [[rubrics|rubric]] instruments.** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] generates assessment rubrics; [[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]] evaluates AI-grading quality against Elaborated-[[feedback|feedback]] criteria; [[ai-assessment-scale-reform|Perkins et al., 2026]] addresses how AI disrupts traditional assessment scales.
 - **Validity-strengthening designs.** [[roe-assessment-twins-2026|assessment twins]] pair a [[generative-ai|GenAI]]-vulnerable task with a less-vulnerable equivalent assessing the same outcomes, mapping threats across Messick's six strands of validity evidence.
 - **Partitioning the outcome space by assistance.** A measurement program defines **model authorship** — how far the learner, not the system, originates an artifact's domain-level content — as a four-facet, four-level construct, and reports that of 24 audited studies nearly all measured performance with AI available and none measured after withdrawal ([[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]]).
 - **Discourse and engagement coding.** [[icap-cognitive-engagement-llm-agents|Do et al., 2026]] extends the [[icap-framework|ICAP]] framework into a 7-point cognitive-engagement coding scheme, comparing human annotation (κ = 0.906–0.998) with LLM-based labeling (κ = 0.541–0.609) — a measurement-instrument study showing automated coding still trails trained humans. Automated coding is also advancing via [[prompt-engineering|context-aware prompting]], which models contextual dependencies and fuses cognitive and social abilities to code [[collaborative-learning|collaborative problem-solving]] skills from process data at superior performance over strong baselines — enabling large-scale, real-time assessment while addressing the labor-intensity of manual coding.

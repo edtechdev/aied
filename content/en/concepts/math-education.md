@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -38,7 +38,7 @@ Mathematics education has become a primary domain for [[ai-education|AI in educa
 **Perceptual notation is itself a task-design variable:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] found that visual cue designs on order-of-operations problems split into scaffolds and desirable difficulties. Fitting cue-condition-specific BKT models to 19,952 data points from 688 sixth graders, they found congruent spacing with neutral color (CSNC) a consistent scaffold — the only condition ahead of the no-cue reference at post-test (B = 0.33, p = .011).
 Neutral spacing with incongruent color (NSIC) produced the lowest guessing rate (0.190), the highest learning rate (0.0379), and the lowest forgetting rate (0.0054).
 
-**Problem posing gains are surface-deep.** With 57 pre-service mathematics teachers posing fraction-division problems before and with Gemini, rubric scores rose from 5.95 to 6.65 out of 8. The gain sat in context and language while problem type and solvability had no room to move, and invoking a meaning of fraction division rose from a floor of 1.00 to 1.37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
+**Problem posing gains are surface-deep.** With 57 pre-service mathematics teachers posing fraction-division problems before and with Gemini, [[rubrics|rubric]] scores rose from 5.95 to 6.65 out of 8. The gain sat in context and language while problem type and solvability had no room to move, and invoking a meaning of fraction division rose from a floor of 1.00 to 1.37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
 
 **A satisfaction penalty.** Steering an LLM tutor through a [[productive-failure|productive failure]] plan instead of letting it answer raised strategy fidelity and produced 2.6 solution attempts per session in a 17-student high-school study, yet students rated the productive-failure tutor less helpful than a baseline ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 

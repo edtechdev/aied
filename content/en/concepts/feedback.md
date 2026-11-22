@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-22T11:45:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -58,7 +58,7 @@ Luo and Eaton's policy review sharpens the same point: only 14 of 50 top-ranked 
 
 LearnLens turns that mediation into a mechanism: it treats a teacher's edit as a signal of dissatisfaction rather than a correction, spending additional compute on deeper reflection instead of returning the fast answer, and its teachers' median time per assignment fell from 10–30 minutes to under five ([[zhao-learnlens-feedback-educators-loop|Zhao et al. (2025)]]).
 
-The relational reading cuts deeper than substitution. In workshops with 12 students and 18 educators, [[ai-feedback-ecosystem-higher-education-2026|Bearman et al. (2026)]] found students treated AI as an additional but flawed source, weighing it against [[rubrics]], lecture notes, discussion boards and educator comments, and using it as a holding pattern when human responses were slow; one pasted thin educator comments into a [[conversational-ai|chatbot]] to work out what to do next. AI's presence changed relations rather than merely adding comments, to the point that one student stopped trusting peer discussion-board feedback as probably AI-written. The authors therefore propose humans-as-the-loop: people helping people build stronger feedback relationships over time, in place of oversight of machine output.
+The relational reading cuts deeper than substitution. In workshops with 12 students and 18 educators, [[ai-feedback-ecosystem-higher-education-2026|Bearman et al. (2026)]] found students treated AI as an additional but flawed source, weighing it against [[rubrics|rubrics]], lecture notes, discussion boards and educator comments, and using it as a holding pattern when human responses were slow; one pasted thin educator comments into a [[conversational-ai|chatbot]] to work out what to do next. AI's presence changed relations rather than merely adding comments, to the point that one student stopped trusting peer discussion-board feedback as probably AI-written. The authors therefore propose humans-as-the-loop: people helping people build stronger feedback relationships over time, in place of oversight of machine output.
 
 [[care-full-feedback-genai|Winstone et al. (2026)]] reframe GenAI feedback as matters of care — an ethical, relational practice rather than information transfer — and name a safe-space paradox: the tool's reduced personal risk may forgo priming students for the friction of professional feedback encounters.
 

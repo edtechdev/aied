@@ -21,7 +21,7 @@ reviewed_by: [editor]
 connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
-**Playlab** is a creator platform where educators build their own AI apps instead of choosing from someone else's template. An app is [[rag|grounded in your own curriculum]], rubrics and references rather than general model knowledge, runs on a model you pick (Anthropic, OpenAI, Google, Meta) with the cost visible while you build, and can draw on pre-mapped [[knowledge-graph|knowledge graphs]] for Illustrative Mathematics, OpenSciEd, state standards and OER Commons.
+**Playlab** is a creator platform where educators build their own AI apps instead of choosing from someone else's template. An app is [[rag|grounded in your own curriculum]], [[rubrics|rubrics]] and references rather than general model knowledge, runs on a model you pick (Anthropic, OpenAI, Google, Meta) with the cost visible while you build, and can draw on pre-mapped [[knowledge-graph|knowledge graphs]] for Illustrative Mathematics, OpenSciEd, state standards and OER Commons.
 
 ## What you can do with it
 Build and remix: start from scratch or adapt one from the community gallery (hundreds of apps, student-built ones included). Steer behavior per app — image and voice input, memory and profiles, or Avoid Answer Generation, which guides students toward an answer instead of handing it over. Also available: a document editor with Docx and Drive export, Python execution, math input and image processing. Teachers can [[human-in-the-loop-ai|review any student conversation]], and automated flags can pause one and notify the teacher. Rosters connect through Clever, ClassLink or Google SSO.

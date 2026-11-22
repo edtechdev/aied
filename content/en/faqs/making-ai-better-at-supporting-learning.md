@@ -40,7 +40,7 @@ Training is real and sometimes necessary. It is the third or fourth thing to try
 
 **2.** Put retrieval over your own materials in front of the model. It is the largest single gain reported here for the cost, and it is reversible.
 
-**3.** Engineer the prompt against your rubric and iterate until improvement stops. The plateau is the signal that training might add something.
+**3.** Engineer the prompt against your [[rubrics|rubric]] and iterate until improvement stops. The plateau is the signal that training might add something.
 
 **4.** Adapt the weights with [[llm-training-and-fine-tuning|LoRA]] when the target is stable and narrow: a format, a rubric, a reading level, a domain vocabulary.
 

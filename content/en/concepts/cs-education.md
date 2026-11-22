@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -131,7 +131,7 @@ CS education connects to [[computational-thinking|computational thinking]], [[st
 
 - **"Agreement on code means the grader reads the code."** The benchmark's two instructor raters agreed at **0.815** on C++ answers: **four** models exceeded them with an interval above 100% of that ceiling and **fourteen** fell below, down to **33%**. On the same code task, a note asking for full marks raised Qwen3 235B's grade by **83.2% of the scale**, and seven models across the battery credited blank answers, so [[porcaro-ai-grading-benchmark-2026|a grading pass over student code needs failure tests beside the agreement number]].
 
-- **"The effect is the same at every stage of a course."** It grew with the work: on **60 complete Java programs** graded on a **14-level** rubric, the label's effect was **2.8 times** its short-answer size on GPT-4.1-mini and **2.4 times** on Qwen, though only **0.4 times** on Gemini. [[porcaro-ai-grader-reliability-2026|Task and rubric are part of what the effect measures]], so a size validated on short answers does not transfer to programs.
+- **"The effect is the same at every stage of a course."** It grew with the work: on **60 complete Java programs** graded on a **14-level** [[rubrics|rubric]], the label's effect was **2.8 times** its short-answer size on GPT-4.1-mini and **2.4 times** on Qwen, though only **0.4 times** on Gemini. [[porcaro-ai-grader-reliability-2026|Task and rubric are part of what the effect measures]], so a size validated on short answers does not transfer to programs.
 
 ## Common Misconceptions
 

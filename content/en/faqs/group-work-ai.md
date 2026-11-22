@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-The group presentation comes back polished and coherent, and not one member can explain the argument in it. Or the marks come out even, and you learn afterward that one student ran the whole thing through [[generative-ai|generative AI]] while three others coasted on the shared grade. Nothing in the file tells you which of those happened, and your rubric has a collaboration line that everybody met.
+The group presentation comes back polished and coherent, and not one member can explain the argument in it. Or the marks come out even, and you learn afterward that one student ran the whole thing through [[generative-ai|generative AI]] while three others coasted on the shared grade. Nothing in the file tells you which of those happened, and your [[rubrics|rubric]] has a collaboration line that everybody met.
 
 Here is the answer: decide AI's place per task rather than per course, make the group's negotiation about AI something they submit and you grade, sequence the work so it cannot be split into parallel chatbot sessions, and keep at least one component each member answers alone. All of it is task design, and none of it has been tested against a no-AI control, so you are making a design argument rather than applying a proven fix.
 

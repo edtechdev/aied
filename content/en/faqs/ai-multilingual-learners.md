@@ -112,7 +112,7 @@ Provide workable alternatives. Students need a clear path to human language supp
 
 **4.** Add one check that records the student's own meaning or decision, such as a two-sentence note on a change they accepted or rejected.
 
-**5.** If your rubric scores [[writing-education|writing quality]], separate that criterion from the conceptual one and re-read two submissions of each with the split in mind.
+**5.** If your [[rubrics|rubric]] scores [[writing-education|writing quality]], separate that criterion from the conceptual one and re-read two submissions of each with the split in mind.
 
 ## Where to go next
 

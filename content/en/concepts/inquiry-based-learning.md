@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -48,7 +48,7 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 IBL's question-driven, process-focused structure is the natural home for productive AI use: students learn *with* AI as a partner rather than *from* it as a substitute. The evidence converges on a core tension: AI can lower the friction of information retrieval and question formulation (reducing [[cognitive-offloading|cognitive load]] and enabling deeper [[reflection|reflection]]), but without design scaffolding it risks over-reliance and bypassing higher-order cognition. The facilitator's role, the design of scaffolds, and the explicit teaching of evaluation skills are the levers determining whether AI deepens or displaces inquiry.
 
-One study substitutes the facilitator rather than adding a tool beside them. In a four-week pharmacology course, 136 second-year medical students were split between facilitator-led and AI-led problem-based learning. Both arms gained significantly on pre/post multiple-choice tests and the between-group difference was not significant (p = 0.474), but facilitator-led groups scored higher on critical thinking (14.75 against 13.09, p < 0.001) and on the [[group-work|group assessment]] rubric (26.51 against 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty and Rao, 2026]]). Inquiry outcomes split by kind: content knowledge survived the substitution and the reasoning process did not, which is what it means to say the facilitator is the lever.
+One study substitutes the facilitator rather than adding a tool beside them. In a four-week pharmacology course, 136 second-year medical students were split between facilitator-led and AI-led problem-based learning. Both arms gained significantly on pre/post multiple-choice tests and the between-group difference was not significant (p = 0.474), but facilitator-led groups scored higher on critical thinking (14.75 against 13.09, p < 0.001) and on the [[group-work|group assessment]] [[rubrics|rubric]] (26.51 against 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty and Rao, 2026]]). Inquiry outcomes split by kind: content knowledge survived the substitution and the reasoning process did not, which is what it means to say the facilitator is the lever.
 
 ### Productive failure and inquiry
 

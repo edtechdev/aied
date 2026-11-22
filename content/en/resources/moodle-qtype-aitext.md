@@ -26,7 +26,7 @@ reviewed_by: [editor]
 connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
-Most AI quiz integrations send every answer to a fixed grading call. This Moodle question type does the opposite: the instructor writes the rubric. Each question carries a **prompt** telling the model how to evaluate the response and an optional **marking scheme** describing how marks are awarded, so a "write a sentence in the past tense" item can specify ten marks for no errors, zero for broken grammar, and one mark off per misspelling. The model returns a mark and [[feedback|feedback]], and an instructor can see that feedback beside the response when marking by hand.
+Most AI quiz integrations send every answer to a fixed grading call. This Moodle question type does the opposite: the instructor writes the [[rubrics|rubric]]. Each question carries a **prompt** telling the model how to evaluate the response and an optional **marking scheme** describing how marks are awarded, so a "write a sentence in the past tense" item can specify ten marks for no errors, zero for broken grammar, and one mark off per misspelling. The model returns a mark and [[feedback|feedback]], and an instructor can see that feedback beside the response when marking by hand.
 
 ## What you can do with it
 

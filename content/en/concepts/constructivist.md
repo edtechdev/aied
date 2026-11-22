@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -87,7 +87,7 @@ This mirrors the [[icap-framework|ICAP]] hierarchy — constructive and interact
 - **Constructive conflict** — adversarial AI agents that challenge a learner's design or reasoning, prompting reconsideration and deeper construction of alternatives, in the tradition of Socratic tutoring.([[ai-agents-constructive-conflict-design-education-2026|Han et al., 2026]])
 
 - **Simulated opposition is not opposition.** A counter-position that can be voiced on demand but never resists rehearses the choreography of dialogue while withholding what makes it potent: it has no embodiment, stake, or exposure to consequence, so unlike a human other it offers no route to repair ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
-- **Internal feedback via comparison** — having learners compare their own work against AI-generated exemplars so that the act of comparison itself generates learning.([[ai-internal-feedback-evaluative-judgments|Chen et al., 2026]])
+- **Internal feedback via comparison** — having learners compare their own work against AI-generated [[rubrics|exemplars]] so that the act of comparison itself generates learning.([[ai-internal-feedback-evaluative-judgments|Chen et al., 2026]])
 - **Question-type-aware prompting** — classifying learner questions into constructivist roles so the system can deliberately escalate a student from information-seeking toward exploratory, dialogic inquiry instead of mirroring whatever cognitive depth the question implies. Because facilitator and co-learner intent remain confusable for automated classifiers, this design keeps a human validating the categorization before it drives [[feedback|feedback]] or [[scaffolding|scaffolding]].([[lee-learner-question-types-ai-education-2026|Lee et al., 2026]])
 - **Community as the evaluative standard** — learners design something real for their community using AI as a design resource, while community knowledge and community practitioners serve as the standard that judges the outcome, leaving room for limitation, refusal, or strategic non-use where critical engagement requires it.([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]])
 

@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -45,7 +45,7 @@ A configurational test sharpens the point: among 498 medical undergraduates, GAI
 
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
 
-**SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative [[problem-solving|problem-solving]] their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
+**SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative [[problem-solving|problem-solving]] their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment [[rubrics|rubrics]] with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
 
 For teachers themselves, AI collaboration cuts both ways: a three-wave study of 468 university teachers found it raised work engagement through psychological availability while lowering it through work alienation, and [[teacher-ai-competency|digital competency]] strengthened the first path and weakened the second ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 

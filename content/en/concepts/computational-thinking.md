@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T05:36:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -50,7 +50,7 @@ Durable competencies shift once implementation is automated: a workshop report n
 - Measurement choice changes the verdict: computational- and critical-thinking entries reached discordant or mixed conclusions in 13 of 23 same-construct pairs, so a self-report CT survey and a task-based measure often disagree ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 - Computational thinking is also measured as a disposition: in a three-week fifth-grade game study, adjusted self-reported CT tendencies favored the GenAI class, 4.325 against 4.037 (p = .046, partial eta-squared = .052, n = 78). An algorithmic-knowledge test did not separate them (80.7 vs 74.9), so tendency and knowledge measures tracked different constructs ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
-Sub-skill profiles complicate the single CT score a pre-post design reports. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang (2026)]] ran 28 Thai undergraduates outside computing through eight weeks of three-hour sessions pairing a five-step [[design-thinking|design-thinking]] cycle with low-code app building, scoring project work on a three-point rubric. Mean computational thinking rose from 1.13 in the first session to 1.80 and then 2.49, with algorithmic thinking the strongest strand at 2.08 and a 1.46 to 1.93 to 2.86 trajectory. Logical thinking averaged 1.54 and barely moved between the first two sessions, 1.04 to 1.29, before reaching 2.29 in the third — a reminder that gains in one component do not imply the others followed.
+Sub-skill profiles complicate the single CT score a pre-post design reports. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang (2026)]] ran 28 Thai undergraduates outside computing through eight weeks of three-hour sessions pairing a five-step [[design-thinking|design-thinking]] cycle with low-code app building, scoring project work on a three-point [[rubrics|rubric]]. Mean computational thinking rose from 1.13 in the first session to 1.80 and then 2.49, with algorithmic thinking the strongest strand at 2.08 and a 1.46 to 1.93 to 2.86 trajectory. Logical thinking averaged 1.54 and barely moved between the first two sessions, 1.04 to 1.29, before reaching 2.29 in the third — a reminder that gains in one component do not imply the others followed.
 
 ## CT and the shift from AI consumers to producers, creators, and designers
 

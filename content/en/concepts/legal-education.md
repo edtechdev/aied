@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -49,7 +49,7 @@ Experimental evidence is beginning to arrive: [[xie-genai-mystery-game-legal-edu
 
 ## What the policy evidence shows
 
-Gutowski and Hurley assess policies on five dimensions with 0–5 rubrics: **prohibitiveness**, **permissiveness**, **educational integration**, **transparency and accountability**, and **depth**. Their canvass found that most law schools adopted generally prohibitive stances, often explained as buying time to study the technology, while almost all policies reserved discretion to individual instructors. The permissiveness and prohibitiveness ratings correlated inversely, as expected, and the authors report no single accepted approach: policies range from comprehensive governance to no stated policy at all.
+Gutowski and Hurley assess policies on five dimensions with 0–5 [[rubrics|rubrics]]: **prohibitiveness**, **permissiveness**, **educational integration**, **transparency and accountability**, and **depth**. Their canvass found a predominantly prohibitive pattern, usually framed as a pause for study, while nearly every policy left final discretion to individual instructors. The permissiveness and prohibitiveness ratings correlated inversely, as expected, and the authors report no single accepted approach: policies range from comprehensive governance to no stated policy at all.
 
 They also document how thin the sector's evidence is. The ABA's 2024 AI and legal education survey drew responses from only 29 schools, roughly 15% of ABA-approved law schools, so it can hardly be treated as representative; and a LexisNexis survey of 800 law students found only 9% reporting current use of generative AI for their studies, with 25% planning to adopt it. The authors read low reported use partly as a response to unclear rules, since clarity reduces the fear of breaking them.
 

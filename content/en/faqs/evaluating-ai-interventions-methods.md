@@ -49,7 +49,7 @@ The failure mode is easy to reproduce. A [[generative-ai|general-purpose tool]] 
 
 The [[ai-ed-evaluation|AI Ed Evaluation]] synthesis recommends unassisted learning gain, delayed retention, transfer to a new task, quality of reasoning, [[misconceptions|misconceptions]], feedback uptake, and subgroup performance. Engagement, satisfaction, AI-use logs, [[self-efficacy|self-efficacy]], and [[technology-acceptance-model|perceived usefulness]] are reasonable secondary measures and poor substitutes for learning. Workload and time savings count as implementation outcomes, a different question.
 
-The classroom-scale minimum is a baseline, the intervention, an immediate post-measure, and a later unassisted measure. Add a comparison condition where you can: existing practice, no AI, unrestricted AI against scaffolded AI, or two alternative designs. Score assisted and unassisted performance on separate instruments, since one rubric will blend them.
+The classroom-scale minimum is a baseline, the intervention, an immediate post-measure, and a later unassisted measure. Add a comparison condition where you can: existing practice, no AI, unrestricted AI against scaffolded AI, or two alternative designs. Score assisted and unassisted performance on separate instruments, since one [[rubrics|rubric]] will blend them.
 
 ## Read any number as a hypothesis
 

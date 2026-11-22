@@ -32,7 +32,7 @@ Here is the answer: in an asynchronous course, everything a classroom supplies f
 
 **2.** Keep one unassisted measurement on any assessment that certifies competence. The retention gap in the population data below closes once proctoring is in place.
 
-**3.** Use [[asynchronous-oral-assessment-2026|asynchronous oral assessment]] where the stakes justify the production work: just-in-time prompts, short recordings the student cannot revise, rubrics embedded, transcripts generated automatically.
+**3.** Use [[asynchronous-oral-assessment-2026|asynchronous oral assessment]] where the stakes justify the production work: just-in-time prompts, short recordings the student cannot revise, [[rubrics|rubrics]] embedded, transcripts generated automatically.
 
 **4.** Configure any AI you supply to hint instead of answer, and embed it in the course rather than linking out to something generic.
 

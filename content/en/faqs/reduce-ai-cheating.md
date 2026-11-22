@@ -144,7 +144,7 @@ A checkbox is a declaration. A checkbox records that a student clicked. A staged
 
 ## What will come back at you
 
-**"I do not have time to redesign a course this term."** Do not redesign the course. Redesign one assignment: one unassisted step, one rubric line with points. That is a two-hour change, and it is the change the 72-study review singles out.
+**"I do not have time to redesign a course this term."** Do not redesign the course. Redesign one assignment: one unassisted step, one [[rubrics|rubric]] line with points. That is a two-hour change, and it is the change the 72-study review singles out.
 
 **"Oral defenses are impossible with 300 students."** Then do not run 300 of them. Weight the closed-book component, require process artifacts, and sample oral checks on the submissions that look inconsistent with earlier work. Three hundred students do not need 300 conversations to change the calculus.
 

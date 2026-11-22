@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-21T09:01:46-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -79,7 +79,7 @@ A larger cross-sectional survey points the other way: among 1,157 Chinese gradua
 Critical thinking intersects with [[scaffolding|scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering|prompt engineering]] (formulating questions that elicit critical analysis), and [[cognitive-offloading|Over-Reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity|academic integrity]] and serves as a key dimension of [[ai-literacy|AI literacy]] frameworks across both [[k-12]] and [[higher-ed|higher education]] contexts.
 
 - **AI errors as provocations for higher-order thinking:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalizes Bloom's higher-order levels (Analyze, Evaluate, Create) by having students interrogate AI-generated mistakes in a database course, with significant pre/post gains (Cohen's *d*=1.49) in subject-matter competency.
-- **Critique of AI output is a scaffoldable skill, not a by-product of problem-solving.** Groups that only solved a related physics problem accepted a polished AI solution or critiqued it from their own [[misconceptions|misconceptions]], whereas MAPS-rubric-guided reflection produced expert-aligned critiques of missing integration and undefined notation ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **Critique of AI output is a scaffoldable skill, not a by-product of problem-solving.** Groups that only solved a related physics problem accepted a polished AI solution or critiqued it from their own [[misconceptions|misconceptions]], whereas MAPS-[[rubrics|rubric]]-guided reflection produced expert-aligned critiques of missing integration and undefined notation ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
 
 - **Critique can be borrowed from the AI's own self-assessment.** Twelve pre-service teachers comparing their water-use models with a ChatGPT-4o model produced critiques that matched weaknesses the AI had listed about itself, and none noticed a computational inconsistency retained in its output — a polished result can be admired without being verified ([[cetin-ai-comparative-reflection-modelling-2026|Çetin and Bilgili, 2026]]).
 

@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-19T13:45:26-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -28,7 +28,7 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedb
 A local variant of the pattern is documented for physics teaching. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] run a model through Ollama on an instructor's own machine, retrieve from lecture notes, textbooks and problem sets, and generate quizzes, summaries and study guides from that context. The argument is privacy first — nothing leaves the device — and disciplinary fit second, since the retrieval corpus is the course itself. The acknowledged cost is model size: what fits in roughly 8 GB of video memory is not the most capable model available.
 ## How RAG is used in education
 
-- **Domain-specific retrieval with notation awareness:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexes textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets for theoretical [[cs-education|computer science]] courses, adding mathematical entity recognition and notation-aware re-ranking; it answered all 179 instructor-authored exam questions within a 240-second timeout (mean 38.0 seconds) but produced BLEU-4 = 0.0000 and a 0.7620 rubric score, which illustrates both the value of the architecture and the limits of the metrics used to judge it.
+- **Domain-specific retrieval with notation awareness:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexes textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets for theoretical [[cs-education|computer science]] courses, adding mathematical entity recognition and notation-aware re-ranking. It answered all 179 instructor-authored exam questions within a 240-second timeout (mean 38.0 seconds) but produced BLEU-4 = 0.0000 and a 0.7620 [[rubrics|rubric]] score, which illustrates both the value of the architecture and the limits of the metrics used to judge it.
 - **Hallucination reduction:** [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] use RAG to keep AI tutor responses grounded in verified educational content, reducing [[hallucination-risk|hallucination risk]].
 - **Guidance is a dial and groundedness does not win preference.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] had nine educators and designers rank RAG-answered math questions across three prompt-guidance levels: low-guidance responses were pairwise-preferred over high-guidance 63.8% of the time even though high guidance was perceived as most grounded (mean 0.90 on a 0-2 scale). Retrieved-document relevance correlated with perceived groundedness (r = 0.56, p < 0.001) but showed no significant relationship with preference — grounding shapes what the tutor says, not whether students prefer it.
 - **Grounding is only as good as source inspection:** only 1 of 12 participants noticed a deliberately mismatched source card, so a provenance label can act as a seal of authority rather than an invitation to verify the retrieved material ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).

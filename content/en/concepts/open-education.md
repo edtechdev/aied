@@ -1,7 +1,7 @@
 ---
 title: "Open Education"
 created: "2026-10-28T18:32:28-04:00"
-updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -45,7 +45,7 @@ The AI-era literature is therefore about three things at once: the resource, the
 
 An open educational resource is content released under a license that permits reuse, revision, remixing and redistribution. Everything else in the field is downstream of that permission and of the obligation to attribute it. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] shows what the obligation looks like in a small project: eleven participants working online for two weeks produced a six-page site, a [[conversational-ai|chatbot]], a manual and five video tutorials, released under CC BY-NC-SA, and the resulting package scored high on transparency while scoring only medium on licensing, replicability, adaptability and accessibility. Open in name, partially open in use.
 
-The licensing literature is granular because the failures are granular. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] builds a seven-principle rubric for reviewing openly licensed AI literacy material from a purposive sample of sixteen core papers, a seventeen-paper extension and thirty-six targeted references. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello and Havemann (2026)]] argue that the unit of governance should move from the resource to the infrastructure that hosts it, since a commons of individual files without a maintained platform is a fragmentation problem rather than a commons.
+The licensing literature is granular because the failures are granular. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] builds a seven-principle [[rubrics|rubric]] for reviewing openly licensed AI literacy material from a purposive sample of sixteen core papers, a seventeen-paper extension and thirty-six targeted references. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello and Havemann (2026)]] argue that the unit of governance should move from the resource to the infrastructure that hosts it, since a commons of individual files without a maintained platform is a fragmentation problem rather than a commons.
 
 ## Generation collapse and the digital public goods turn
 

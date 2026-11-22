@@ -166,7 +166,7 @@ That leaves you with a reasonable bet, made cheaply. Change one assignment, keep
 
 **"Will the weaker students not just fail the unaided check?"** Sometimes they will, and that result is information rather than a verdict. A tool-free check that much of a class fails says the practice was carrying the performance, which is the thing you needed to know. Weight it as evidence, reteach what it exposes, and offer a second attempt on a parallel task. No study here tests whether reteaching after a failed unaided check recovers the learning, so that part is your professional judgment.
 
-**"Some of my students use AI as an honest scaffold. Am I supposed to stop them?"** No. A student who reads a hint, tries the step, and checks the result is doing the duplicative offloading that survives the tool being removed. What you want is a task that keeps that use available and makes the executive version less rewarding, which is a matter of what the task collects and what the rubric pays for.
+**"Some of my students use AI as an honest scaffold. Am I supposed to stop them?"** No. A student who reads a hint, tries the step, and checks the result is doing the duplicative offloading that survives the tool being removed. What you want is a task that keeps that use available and makes the executive version less rewarding, which is a matter of what the task collects and what the [[rubrics|rubric]] pays for.
 
 **"The evidence is thin, so why change anything?"** It is thin in specific places, which the limits above name. What is consistent across the studies is the direction: placement, visible checking, and an unaided measure. One changed assignment, with the unassisted result kept, is a small enough bet to run on that basis.
 

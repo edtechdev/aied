@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-21T08:52:26-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -40,7 +40,7 @@ The risk is also language-dependent: [[genai-l2-written-feedback-scoping-review-
 
 In an assessment-design pilot, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] found fabricated references and unrealistic time estimates that survived repeated prompting and required substantial academic revision — hallucination in an educator-facing drafting tool rather than in student work.
 
-**Generation and reformatting fail differently.** Asked for an IEEE-style reference list on perovskite solar cells, ChatGPT returned entries the authors found mostly hallucinated or incorrectly cited: wrong initials, year, volume and pages, and one plausible-looking article attributed to a group that never did the work ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). Asked instead to convert an already-verified reference set into APA, the same tool was accurate and saved substantial time. The risk sits in sourcing rather than in bibliographic work, which is a line an assignment rubric can state.
+**Generation and reformatting fail differently.** Asked for an IEEE-style reference list on perovskite solar cells, ChatGPT returned entries the authors found mostly hallucinated or incorrectly cited: wrong initials, year, volume and pages, and one plausible-looking article attributed to a group that never did the work ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). Asked instead to convert an already-verified reference set into APA, the same tool was accurate and saved substantial time. The risk sits in sourcing rather than in bibliographic work, which is a line an assignment [[rubrics|rubric]] can state.
 
 **Strategic [[misconceptions|misconceptions]]** are a subtler relative of overt hallucination. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] prompted seven open-weight models to produce a "[[socratic-method|Socratic]] trap" for 35 core computer-science concepts — an explanation that is fluent and authoritative while resting on a subtle, domain-specific error — and three domain experts confirmed 221 of 241 prompted segments (91.7%) as strategic misconceptions, with no significant differences between CS domains. The errors were predominantly conceptual rather than factual (66.5% vs. 33.5%) and none were purely logical, and they were rated moderately to highly persuasive (M = 3.71 on a five-point scale), with model identity explaining 43% of the variance. Because individual statements can be correct while the relation between them is wrong, fact-checking is insufficient; the authors argue [[ai-literacy|learners]] need conceptual verification and mental-model validation. They also caution that the rate measures capability under adversarial [[prompt-engineering|prompting]] rather than the prevalence of such errors in ordinary use, and that no students were tested, so no deception or learning outcome was measured.
 

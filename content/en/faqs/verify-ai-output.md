@@ -25,7 +25,7 @@ ai_assist:
 
 It is the week before grades are due and two submissions cite sources that do not exist. Both students say they checked. One opened the link. The other read the paragraph and decided it sounded right. You have already told this class to verify what the [[conversational-ai|chatbot]] gives them, and the telling did not produce the behavior.
 
-Verification is a sequence you can build into an assignment. Decide what counts as correct before the task starts, have the student commit to an expectation in writing, send them to the record instead of their impression of the prose, and grade the record they produce. A rubric line that says "checked sources" measures none of that.
+Verification is a sequence you can build into an assignment. Decide what counts as correct before the task starts, have the student commit to an expectation in writing, send them to the record instead of their impression of the prose, and grade the record they produce. A [[rubrics|rubric]] line that says "checked sources" measures none of that.
 
 ## The short version
 

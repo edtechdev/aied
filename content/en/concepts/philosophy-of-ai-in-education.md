@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -59,7 +59,7 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 
 **For instructors**
 
-- Decide, before you adopt a tool, what you are willing to count as the student's own achievement. If a polished submission produced by the system would satisfy your assessment, you have answered "nothing" — and no later rubric change recovers the question.
+- Decide, before you adopt a tool, what you are willing to count as the student's own achievement. If a polished submission produced by the system would satisfy your assessment, you have answered "nothing" — and no later [[rubrics|rubric]] change recovers the question.
 - Treat the foreclosing argument seriously when designing tasks: if GenAI that supplies the work forecloses thinking rather than merely offloading it, then "use it responsibly" is not a sufficient safeguard, because the surrounding field rewards the output. Design tasks whose evidence of thinking is produced before the tool is available.
 - Ask whose conception of learning your course encodes. Adopting a framework uncritically imports its assumptions about what a learner is, and those assumptions are contestable.
 

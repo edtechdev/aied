@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-20T09:14:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -112,7 +112,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
-- **Governance can be designed into the tool.** A six-dimension governance profile - [[pedagogy|pedagogical]] grounding, instructional authority, human accountability and control, learner agency and cognitive engagement, context specificity, and evaluation visibility - locates governance in a teaching tool's interaction model, prompts, rubrics, approval gates and [[visualization|dashboards]]. It asks whether mechanisms fit the instructional function rather than how strict or permissive a tool is ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
+- **Governance can be designed into the tool.** A six-dimension governance profile - [[pedagogy|pedagogical]] grounding, instructional authority, human accountability and control, learner agency and cognitive engagement, context specificity, and evaluation visibility - locates governance in a teaching tool's interaction model, prompts, [[rubrics|rubrics]], approval gates and [[visualization|dashboards]]. It asks whether mechanisms fit the instructional function rather than how strict or permissive a tool is ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
 - **A human-centered framework puts interpretation, not the tool, at the center.** At a mission-driven liberal arts college, faculty used a generative-AI-supported Assessment Wizard during a structured Education Day, and the authors conclude that human judgment must stay the non-negotiable interpretive authority, with verification checkpoints and governance in place before broad implementation ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). The sequence is formation and verification first, scale second.
 
 **A run record is what makes an LLM-assisted curriculum decision auditable.** [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]] builds the sequence into a program-level audit: a scope boundary, a Curriculum Evidence Pack held constant across runs, and a run record giving prompt version, operator, tool and model version, settings and verbatim output. A validation checklist, a disagreement procedure, a stability rating and a decision log tied to the approving body complete it, with repeat-run checks reserved for high-stakes uses and an equity and bias review. Because textual reproduction is unavailable, the protocol rates procedural reproducibility, output stability and decision robustness instead, and unstable output may not enter program documentation without further triangulation or committee review.

@@ -30,7 +30,7 @@ The answer is narrower than most product specs assume. Educational AI works as a
 
 **1.** Write down what the system decides and what a teacher decides. That boundary becomes the architecture.
 
-**2.** Evaluate multi-turn, discipline-aware interaction against real [[curriculum-design|curriculum]], not single prompts against a general safety rubric.
+**2.** Evaluate multi-turn, discipline-aware interaction against real [[curriculum-design|curriculum]], not single prompts against a general safety [[rubrics|rubric]].
 
 **3.** Ground responses in approved content, and keep the verifying component separate from the conversational one.
 

@@ -1,7 +1,7 @@
 ---
 title: "Environmental Education"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -37,7 +37,7 @@ A third, weaker strand treats "sustainable learning" as a [[pedagogy|pedagogical
 
 ## Teaching environmental and climate topics with AI
 
-The strongest evidence is a three-group quasi-experiment using climate change as a socio-scientific issue. Students working with an AI partner inside a structured [[inquiry-based-learning|inquiry]] task outperformed inquiry-only peers (d = 0.69) and traditional instruction (d = 1.88) on a decision-making rubric, with the largest gains on steps students entered weakest — monitoring and adaptive management, and generating alternatives. The AI condition was *additional to* inquiry rather than a replacement, and data collection and analysis did not separate the groups at all, suggesting the AI supported reasoning about trade-offs rather than evidence gathering.([[ai-assisted-inquiry-ssi-climate|Gousopoulos, 2026]])
+The strongest evidence is a three-group quasi-experiment using climate change as a socio-scientific issue. Students working with an AI partner inside a structured [[inquiry-based-learning|inquiry]] task outperformed inquiry-only peers (d = 0.69) and traditional instruction (d = 1.88) on a decision-making [[rubrics|rubric]], with the largest gains on steps students entered weakest — monitoring and adaptive management, and generating alternatives. The AI condition was *additional to* inquiry rather than a replacement, and data collection and analysis did not separate the groups at all, suggesting the AI supported reasoning about trade-offs rather than evidence gathering.([[ai-assisted-inquiry-ssi-climate|Gousopoulos, 2026]])
 
 At [[curriculum-design|curriculum]] level, the AI-SEE framework integrates AI across an [[engineering-education|engineering curriculum]] on four pillars (intelligence-driven, green-empowered, responsibility-leading, practice-integrated) rather than as a bolt-on sustainability module; a 144-student pilot reported gains in sustainability consciousness and behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels. The authors caution that this is single-institution, self-reported, single-time-point interview evidence from one Chinese transportation program.([[liu-ai-sustainable-engineering-education-2026|Liu et al., 2026]])
 

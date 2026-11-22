@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -84,7 +84,7 @@ No format holds a fixed position in this trade-off: oral assessment's observabil
 The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argue that AI glasses and earbuds can deliver covert real-time prompts inside a live viva, because wearable AI produces no gaze shift or detectable signal, so interactive orals are no longer immune.
 
 - **The scale ceiling is the design constraint.** In a workshop with 73 [[cs-education|computing]] educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy. The mitigations participants described were distribution and sampling: shared teaching-assistant pools, [[peer-assessment|peer assessment]] weighted below a [[summative-assessment|final exam]], and calling on a rotating subset of students ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
-- **Machine-scored conversation goes lenient where the interviewer scaffolds.** [[challen-conversational-assessment-chat-exams-2026|Challen and Zilles (2026)]] split a rubric-blind interviewer from a hidden evaluator; a blind re-grade of 40 attempts agreed on 35% and awarded the top grade twice where the deployed evaluator gave it 20 times.
+- **Machine-scored conversation goes lenient where the interviewer scaffolds.** [[challen-conversational-assessment-chat-exams-2026|Challen and Zilles (2026)]] split a [[rubrics|rubric]]-blind interviewer from a hidden evaluator; a blind re-grade of 40 attempts agreed on 35% and awarded the top grade twice where the deployed evaluator gave it 20 times.
 
 ## Common Misconceptions
 

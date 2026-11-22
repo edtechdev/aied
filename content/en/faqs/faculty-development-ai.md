@@ -40,7 +40,7 @@ The bottom line for the meeting: standardize a session cycle where every partici
 
 **2.** Put verification, disclosure and risk control in the working template, where they get used, so a nervous participant has somewhere to put the worry.
 
-**3.** Spend the hours on assessment and rubrics, the weakest area at baseline and the one with the largest measured gain.
+**3.** Spend the hours on assessment and [[rubrics|rubrics]], the weakest area at baseline and the one with the largest measured gain.
 
 **4.** Run [[discipline-specific-aied|discipline-specific]] cohorts, then differentiate inside them by experience.
 

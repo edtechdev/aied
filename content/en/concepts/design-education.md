@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-18T10:20:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -54,7 +54,7 @@ It is also distinct from [[design-thinking|design thinking]], a human-centered [
 
 - **Disciplines differ in which behaviours pay off.** [[same-ai-different-pathways|Shen (2026)]] compared 221 design students with 222 business students and found [[ai-literacy|AI literacy]] predicted both [[prompt-engineering|prompting]] proficiency and verification behavior (p < .001). Verification directly predicted task quality in the design cohort, calibration accuracy in business — open-ended ideation against audit-like analytic standards — and verification functioned as a [[metacognition|metacognitive]] safeguard against [[cognitive-offloading|cognitive offloading]].
 
-- **Studio judgement can be approximated when a rubric mediates.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] raised LLM–human agreement on 80 design posters from 54.75% to 81.25% by iteratively refining rubric descriptors; instructor, peer-reviewer and grant-reviewer prompts produced epistemically different feedback on the same work. The authors treat the rubric as a revisable interface between pedagogical intent and machine inference, retaining [[human-in-the-loop-ai|human oversight]] against hallucinated rationale.
+- **Studio judgement can be approximated when a [[rubrics|rubric]] mediates.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] raised LLM–human agreement on 80 design posters from 54.75% to 81.25% by iteratively refining rubric descriptors; instructor, peer-reviewer and grant-reviewer prompts produced epistemically different feedback on the same work. The authors treat the rubric as a revisable interface between pedagogical intent and machine inference, retaining [[human-in-the-loop-ai|human oversight]] against hallucinated rationale.
 
 - **Students negotiate the tools rather than simply accept them.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] surveyed 417 art and design students: performance expectancy, social influence, novelty value and creative competence predicted intention to use text-to-image tools, while effort expectancy predicted negatively, read as shortcut-oriented coursework use. Their competence paradox is that creative competence supports intention yet predicts more selective use as students weigh authorship and skill preservation — an [[assessment-validity|assessment validity]] problem in a studio where process is the assessed object. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] reached a compatible conclusion from 112 reflections in a 12-week [[design-thinking|design thinking]] course: benefits dominated (86% positive sentiment), ethical concerns drove 62% negative sentiment, and scaffolded integration moved students from skepticism to 72% positive orientation.
 - **GenAI can assist a workflow while weakening creative self-belief.** In a 36-student architectural design experiment, a DALL-E 3 workflow matched precedent search on rated performance and cognitive load, yet general creative [[self-efficacy|self-efficacy]] fell (DiD = −0.543) while task-specific confidence held ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al., 2026]]).

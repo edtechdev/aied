@@ -1,7 +1,7 @@
 ---
 title: Reflection
 created: "2026-11-04T09:37:20-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -43,7 +43,7 @@ Two further distinctions organize the literature. The first is *depth*: reflecti
 
 ## How reflection relates to self-assessment, metacognition and e-portfolios
 
-The boundary work matters more here than on most concept pages, because four adjacent pages each own part of the territory, and practitioners routinely use the words interchangeably in rubrics.
+The boundary work matters more here than on most concept pages, because four adjacent pages each own part of the territory, and practitioners routinely use the words interchangeably in [[rubrics|rubrics]].
 
 What they **share** is real. All of them turn the learner's attention back onto their own work, all are associated with [[agency|agency]] and self-awareness, all can be scaffolded and all can be performed for a grade. Every one of them is also being rewritten by generative AI in the same period, which is why the same studies recur across these pages. Reflection is the one in the group whose product is a *text*, and that is where the family resemblance stops being useful.
 

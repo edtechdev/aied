@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -31,7 +31,7 @@ connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cul
 
 AI can support teachers in making instruction culturally responsive, but its default outputs also risk **reinforcing dominant narratives** when left unprompted.
 
-- **Support for teachers:** Wang et al. (2025) built **CulturAIEd**, an [[llm|LLM]]-powered system that helps [[k-12|K-12]] teachers design culturally responsive [[ai-literacy|AI literacy]] activities by combining student demographic information with rubric-driven guidance (a CRT checklist layered into generation). In a four-teacher pilot it **enhanced teachers' confidence** in spotting opportunities for cultural responsiveness and in modifying existing activities, with 78% finding AI suggestions helpful for diversifying materials. The tool directly targets the time, training, and resource barriers that block CRP implementation.
+- **Support for teachers:** Wang et al. (2025) built **CulturAIEd**, an [[llm|LLM]]-powered system that helps [[k-12|K-12]] teachers design culturally responsive [[ai-literacy|AI literacy]] activities by combining student demographic information with [[rubrics|rubric]]-driven guidance (a CRT checklist layered into generation). In a four-teacher pilot it **enhanced teachers' confidence** in spotting opportunities for cultural responsiveness and in modifying existing activities, with 78% finding AI suggestions helpful for diversifying materials. The tool directly targets the time, training, and resource barriers that block CRP implementation.
 - **Risk of monocultural output:** [[civic-education-ai-lesson-plans|Trust et al. (2025)]] analyzed 310 AI-generated civics lesson plans (2,230 activities): **94% contained no discernible multicultural content**, and of the 144 that did, 137 sat at the lowest "Additive" level — **only one reached "Transformation" and none reached "Social Action."** All three [[conversational-ai|chatbots]] produced structurally identical, monocultural lesson templates. This is concrete evidence that AI defaults to homogenized curricula unless [[teacher-ai-competency|teachers]] actively intervene.
 
 ## Epistemic Marginalization in AI Systems

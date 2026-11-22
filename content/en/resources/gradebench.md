@@ -20,7 +20,7 @@ ai_assist:
 connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
-GradeBench asks a narrow, useful question about [[automated-assessment|automated assessment]]: given a student's handwritten answer, the instructor's rubric, a reference solution and the rubric items the instructor actually selected, does a frontier model select the same items? The gold labels are real instructor and TA rubric selections from exams and quizzes, not re-graded model output.
+GradeBench asks a narrow, useful question about [[automated-assessment|automated assessment]]: given a student's handwritten answer, the instructor's [[rubrics|rubric]], a reference solution and the rubric items the instructor actually selected, does a frontier model select the same items? The gold labels are real instructor and TA rubric selections from exams and quizzes, not re-graded model output.
 
 ## What you can do with it
 

@@ -28,7 +28,7 @@ The answer for that room, and the state of the evidence in [[higher-ed|higher ed
 
 **2.** Have them commit to their own answer before they see the model's.
 
-**3.** Grade the critique, using the rubric you already use for the task.
+**3.** Grade the critique, using the [[rubrics|rubric]] you already use for the task.
 
 **4.** Run it more than once across the term.
 

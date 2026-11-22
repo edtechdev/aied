@@ -22,7 +22,7 @@ ai_assist:
 
 You are probably holding an assignment that worked for years and now returns work you cannot defend. The grade says A; the artifact may be mostly the tool's. Or a student is contesting a low mark on grounds you cannot check, or your program is rewriting its assessment policy and asking you what should change in your course by next term.
 
-The short answer: decide what the grade is meant to be evidence **of**, put at least one step in the assignment that the student completes without the tool, and make the rubric pay for the reasoning rather than only the product. Redesign that skips the second and third steps changes how work is produced without changing what the grade can support.
+The short answer: decide what the grade is meant to be evidence **of**, put at least one step in the assignment that the student completes without the tool, and make the [[rubrics|rubric]] pay for the reasoning rather than only the product. Redesign that skips the second and third steps changes how work is produced without changing what the grade can support.
 
 ## The short version
 

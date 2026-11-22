@@ -52,7 +52,7 @@ Two families of number dominate this literature. Both measure how closely your o
 
 **Agreement scores** (QWK, quadratic weighted kappa) measure how closely the model's grades line up with a human's. A model can match the grader on the final mark while being wrong about why, and the why is the part a student learns from.
 
-A student can reach a wrong answer by a wrong route that looks like a right one, and no similarity score notices. If reasoning is the thing you care about, the measure has to read it: a rubric applied by a person, or a check written for that particular step.
+A student can reach a wrong answer by a wrong route that looks like a right one, and no similarity score notices. If reasoning is the thing you care about, the measure has to read it: a [[rubrics|rubric]] applied by a person, or a check written for that particular step.
 
 The Linear Control Systems course assistant reports this the right way. Its best configuration reached a similarity score of **0.4093** against reference answers, with the improvement measured reliably above zero, and the authors state plainly that the numbers measure wording and format ([[lora-finetuned-control-systems-course-qa-2026|Lu et al., 2026]]). The score is unimpressive and the paper is still useful, because it says what the score covers.
 

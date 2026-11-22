@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -98,7 +98,7 @@ Prompting ChatGPT-4o and Copilot produced identical labels for 33.3% (7 of 21) o
 
 [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] compare four theory-injection strategies for LLM codebook construction — Atheoretical, Theory Named, Full References Given, and Papers Provided — across 12 codebooks rated by 5 raters on 7 dimensions. Naming the theory without supplying its papers beat giving full texts on usefulness (4.40 versus 3.20 for Full References Given) and concreteness (3.80 versus 2.40 for Papers Provided), while full papers won only theoretical alignment (4.60 versus 3.60) and reproduced the four model stages despite instructions to avoid them. Human refinement remained essential in both studies: two coders merged overlapping GPT proposals, and the final codebooks settled at 11 and 15 constructs, so the workflow was collaboration, not delegation.
 
-[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] supply the first video-modality coding evidence, with GPT-4o coding of classroom transcripts reaching kappa 0.91 for Coordinated Collaboration against human-human kappa 0.83. Human raters applied the transcription rubric reliably, with ICC 0.89–0.99 across accuracy, completeness, and specificity on a double-coded subset. The staged design — MLLM transcription followed by transcript-based LLM coding — carried the result, since direct video coding agreed with humans at kappa 0.20 at best.
+[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] supply the first video-modality coding evidence, with GPT-4o coding of classroom transcripts reaching kappa 0.91 for Coordinated Collaboration against human-human kappa 0.83. Human raters applied the transcription [[rubrics|rubric]] reliably, with ICC 0.89–0.99 across accuracy, completeness, and specificity on a double-coded subset. The staged design — MLLM transcription followed by transcript-based LLM coding — carried the result, since direct video coding agreed with humans at kappa 0.20 at best.
 
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] report the largest multi-stakeholder coding case to date, fine-tuning GPT-4o-mini on 14,100 student reflections yielding 18,883 labeled samples across a school, a university, and a state education department. Accuracy was construct-dependent: Goal Setting reached 91.28%, Reflection on Learning 67.44%, and Effort Regulation 60.74%, with 81.94% overall on the final split. The nine-stage co-design workflow cost roughly 744 hours, nearly 500 of them specialist algorithm-development labor.
 

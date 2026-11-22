@@ -1,7 +1,7 @@
 ---
 title: Bloom's Taxonomy
 created: "2026-11-21T04:00:00-05:00"
-updated: "2026-11-21T04:00:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -41,7 +41,7 @@ The construct's usefulness in this field comes from being a *shared vocabulary*.
 
 The first job is instrumental. Researchers and systems use the taxonomy to code items and outputs at scale: an assessment bank tagged by level, a model's questions sorted by the level they appear to demand, a student's delegated work classified by the cognitive operation handed over. This is the job that has been tested hardest, and the results are sobering.
 
-The second job is architectural. The taxonomy orders what learners are asked to do, and so it shapes [[curriculum-design|curriculum]], task sequences and rubrics. Here the question is not whether the labels are accurate but whether the ordering is right — and whether it still holds when a machine can produce the artifact at the top of the order. The two jobs fail differently: a classification instrument fails when its labels do not survive contact with real items; a design framework fails when its sequence no longer describes how learning happens.
+The second job is architectural. The taxonomy orders what learners are asked to do, and so it shapes [[curriculum-design|curriculum]], task sequences and [[rubrics|rubrics]]. Here the question is not whether the labels are accurate but whether the ordering is right — and whether it still holds when a machine can produce the artifact at the top of the order. The two jobs fail differently: a classification instrument fails when its labels do not survive contact with real items; a design framework fails when its sequence no longer describes how learning happens.
 
 ## Bloom as a classification instrument in AIED
 

@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -66,7 +66,7 @@ The instrument itself deserves separate scrutiny. What a questionnaire, intervie
 
 ### Qualitative methods
 
-Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[hazra-safetutors-pedagogical-safety-2026|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. The full treatment is in [[qualitative-research|qualitative research]]: thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups, each with exemplars.
+Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[hazra-safetutors-pedagogical-safety-2026|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. The full treatment is in [[qualitative-research|qualitative research]]: thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups, each with [[rubrics|exemplars]].
 
 - **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, [[agency|autonomy]], and authorship.
 - **Limitations:** limited generalizability; interpretive and researcher-dependent; small samples; weaker support for causal claims; findings can be hard to synthesize across studies.

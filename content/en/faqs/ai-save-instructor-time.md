@@ -20,7 +20,7 @@ It is Thursday night in week eight. Three lesson outlines are due Monday, the la
 
 Both of you are describing the same tool. It saves time on drafting material you were going to edit anyway, and it costs time when you aim it at a judgment about a particular student. Whether the saving becomes yours depends on a decision most instructors never make: what the recovered hours are for.
 
-The bottom line for the meeting: hand over the first draft and keep the judgment. Lesson outlines, worked examples, discussion questions, [[formative-assessment|formative]] quiz items, alternative explanations, rubric wording and routine administrative text are work you can specify, check and correct. Objectives, final grades and any call about a specific learner stay with you. Name what the freed hour buys, because the evidence on saving time is evidence about where the time goes.
+The bottom line for the meeting: hand over the first draft and keep the judgment. Lesson outlines, worked examples, discussion questions, [[formative-assessment|formative]] quiz items, alternative explanations, [[rubrics|rubric]] wording and routine administrative text are work you can specify, check and correct. Objectives, final grades and any call about a specific learner stay with you. Name what the freed hour buys, because the evidence on saving time is evidence about where the time goes.
 
 ## The short version
 

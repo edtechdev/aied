@@ -1,7 +1,7 @@
 ---
 title: Undergraduate Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-15T06:35:59-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
 assessment: [formative-assessment, assessment, learning-gains]
@@ -19,7 +19,7 @@ connected_concepts: [scaffolding, help-seeking, feedback-literacy, self-regulate
 connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-use-changing-institutional-policy-physics-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, li-who-benefits-llms-prompt-engineering-equity-2026, llm-math-homework-offloading-traces-2026, patrick-ai-higher-order-thinking-systematic-review-2025, genai-reliance-human-agency-collaborative-learning-2026, genai-cognitive-offloading-learner-agency-review-2026, ai-enabled-course-development-first-year-adjustment-2026, thulin-chatbot-mental-health-students-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
-> **Synthesis:** Undergraduate education is where AI meets the largest classes and the most standardized [[assessment]]: first- and second-year gateway courses in which one instructor teaches several hundred students against a shared rubric. The trials at this level split along design rather than model. A tutor built from a course's own pedagogy beat in-class [[active-learning|active learning]], while a well-grounded course assistant deployed without instructional integration lowered grades and participation. The strongest evidence concerns [[feedback]] at scale, [[help-seeking]] [[scaffolding|scaffolds]], verified study material and outreach that moves administrative deadlines; the weakest concerns claims that a general assistant raises what students can do unaided.
+> **Synthesis:** Undergraduate education is where AI meets the largest classes and the most standardized [[assessment]]: first- and second-year gateway courses in which one instructor teaches several hundred students against a shared [[rubrics|rubric]]. The trials at this level split along design rather than model. A tutor built from a course's own pedagogy beat in-class [[active-learning|active learning]], while a well-grounded course assistant deployed without instructional integration lowered grades and participation. The strongest evidence concerns [[feedback]] at scale, [[help-seeking]] [[scaffolding|scaffolds]], verified study material and outreach that moves administrative deadlines; the weakest concerns claims that a general assistant raises what students can do unaided.
 
 ## Questions to Consider
 

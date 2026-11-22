@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -82,7 +82,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 
 Alongside the classical families, a body of theory addresses learning with AI systems specifically, and these frameworks carry the design implications that the older theories leave open. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan and Gašević 2026)]] is a mid-range example. It defines learning as durable growth in human capability rather than successful task completion, and names four mechanisms: delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support. It also states six testable propositions, among them that AI support preserving learner responsibility for problem framing, criteria setting and justification produces stronger learning than support that delivers answers.
 
-[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]'s **Pedagogical Symbiosis** makes a stronger ontological claim: the learner is a *Post-Human* entity whose cognition is hybrid rather than tool-assisted, organized by four principles: cognitive offloading and augmentation, epistemic co-construction, metacognitive symbiosis, and dynamic identity formation; operationalized as a Symbiotic Portfolio rubric and a "Cognitive Choreographer" [[teacher-role|teacher role]]; it is explicitly untested.
+[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]'s **Pedagogical Symbiosis** makes a stronger ontological claim: the learner is a *Post-Human* entity whose cognition is hybrid rather than tool-assisted, organized by four principles: cognitive offloading and augmentation, epistemic co-construction, metacognitive symbiosis, and dynamic identity formation; operationalized as a Symbiotic Portfolio [[rubrics|rubric]] and a "Cognitive Choreographer" [[teacher-role|teacher role]]; it is explicitly untested.
 
 ## Implications for Practice
 

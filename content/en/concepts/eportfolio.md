@@ -1,7 +1,7 @@
 ---
 title: E-Portfolio
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -36,7 +36,7 @@ The research shows e-portfolios are increasingly central to productive AI integr
 - **ChatGPT + e-portfolio for [[language-learning|language learning]].** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] combine ChatGPT with e-portfolio assessment (CEA model) for EFL speaking: MANOVA showed significant gains in speaking performance (F(1)=48.554, p<.001) and [[feedback-literacy|feedback literacy]] (F(1)=16.135, p<.001), with e-portfolios supporting both speaking ability and the [[metacognition|metacognitive]] abilities to use feedback effectively.
 - **Portfolios as AI-era assessment strategy.** [[responsible-assessment-ai-era-stanford-2026|Responsible assessment (2026)]] argues for shifting from one-shot testing to **continuous embedded assessment using portfolios** and competency-based approaches. [[pbl-structural-conditions-ai-2026|Rowe (2026)]] names portfolios (with orals and observed practice) as partial answers to the open problem of assessment at scale when the artifact-as-proxy has broken.
 - **Portfolios as assessable learning traces.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] use **personal learning portfolios** as a LEARN-framework mechanism — assessable learning traces (portfolios, AI-use disclosure) that make AI reliance transparent and auditable.
-- **Symbiotic portfolios for hybrid learners.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] proposes a **Symbiotic Portfolio** for the post-human/hybrid learner, assessed by a five-criterion rubric (Generative Dialogue, Epistemic Auditing, Critical Reflection, etc.) — an explicit model for evaluating human+AI collaborative work.
+- **Symbiotic portfolios for hybrid learners.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] proposes a **Symbiotic Portfolio** for the post-human/hybrid learner, assessed by a five-criterion [[rubrics|rubric]] (Generative Dialogue, Epistemic Auditing, Critical Reflection, etc.) — an explicit model for evaluating human+AI collaborative work.
 
 ## Why e-portfolios matter for AI integration
 

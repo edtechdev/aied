@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-20T09:14:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -65,7 +65,7 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 
 - **Feedback literacy in learning analytics and GenAI [[visualization|dashboards]]:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examine how students perceive GenAI-powered [[learning-analytics|learning analytics]] feedback from a feedback-literacy perspective.
 
-- **Feedback literacy as a goal of AI-literacy and [[assessment|assessment design]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] use a process-over-artifact assessment in which students critique ChatGPT output against a rubric to build feedback, psychological, and AI literacies together; [[learner-centered-feedback-ai|learner-centered AI feedback]] and [[care-full-feedback-genai|care-full feedback design]] link feedback quality to the learner's capacity to engage.
+- **Feedback literacy as a goal of AI-literacy and [[assessment|assessment design]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] use a process-over-artifact assessment in which students critique ChatGPT output against a [[rubrics|rubric]] to build feedback, psychological, and AI literacies together; [[learner-centered-feedback-ai|learner-centered AI feedback]] and [[care-full-feedback-genai|care-full feedback design]] link feedback quality to the learner's capacity to engage.
 
 - **Feedback literacy can be taught, and AI can supply the practice material.** A conceptual guide has instructors generate a graded spectrum of AI work samples — meeting all, some, and none of the criteria — then lead students through modeled critique, guided class analysis, and independent evaluation ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington and Hock (2026)]]).
 

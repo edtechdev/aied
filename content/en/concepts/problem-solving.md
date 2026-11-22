@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -43,7 +43,7 @@ The dual character of AI for problem solving is consistent across studies. On th
 
 ### Implications
 
-For educators, the balance of evidence points to structured, process-oriented integration: [[prompt-engineering|prompt engineering]] training shifts students from unfocused to productive [[student-ai-interaction|AI interaction]], embedding AI within collaborative inquiry tasks yields durable [[learning-gains|gains]], and deliberately using AI errors as provocations converts a limitation into a learning opportunity. For designers, the consistent finding that efficiency does not equal deep learning argues for AI that questions, challenges, and scaffolds rather than answers. For institutions, responsible integration requires pairing [[generative-ai|GenAI]] with explicit [[ai-literacy|AI literacy]] training and assessment rubrics that reward reasoning and justification over correct products. The recurring theme across [[cognitive-psychology|cognitive psychology]]-grounded work is that problem solving is learned through effortful engagement — and AI's role should be to preserve that effort, not erase it.
+For educators, the balance of evidence points to structured, process-oriented integration: [[prompt-engineering|prompt engineering]] training shifts students from unfocused to productive [[student-ai-interaction|AI interaction]], embedding AI within collaborative inquiry tasks yields durable [[learning-gains|gains]], and deliberately using AI errors as provocations converts a limitation into a learning opportunity. For designers, the consistent finding that efficiency does not equal deep learning argues for AI that questions, challenges, and scaffolds rather than answers. For institutions, responsible integration requires pairing [[generative-ai|GenAI]] with explicit [[ai-literacy|AI literacy]] training and assessment [[rubrics|rubrics]] that reward reasoning and justification over correct products. The recurring theme across [[cognitive-psychology|cognitive psychology]]-grounded work is that problem solving is learned through effortful engagement — and AI's role should be to preserve that effort, not erase it.
 
 ### Connections to other concepts
 

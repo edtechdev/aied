@@ -1,7 +1,7 @@
 ---
 title: Self-Assessment
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -16,7 +16,7 @@ connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment,
 connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
-> **Self-assessment** — judging your own work, competence, or progress against criteria, and the practices and instruments built on that act. The term carries two faces that are easy to collapse into one. As an **instructional technique** it is self-grading, rubric-based self-review, self-checking, and guided reflection: activities meant to develop the [[metacognition|monitoring]] and [[evaluative-judgment|judgment]] that [[self-regulated-learning|self-regulated learning]] runs on. As an **educational measure** it is a [[self-report-measures|self-report instrument]], in which a learner's estimate of their own skill, confidence, or learning stands in for an observation nobody made. It sits beside [[peer-assessment|peer assessment]] as the other half of students-as-assessors, and inherits the same dependence on [[scaffolding|scaffolding]] and explicit criteria. Both faces turn on the same faculty and both fail in the same direction: the estimate is systematically generous, and the more a learner's submitted work can be produced by a [[generative-ai|generative AI]] tool, the less that work says about whether the faculty is there at all.
+> **Self-assessment** — judging your own work, competence, or progress against criteria, and the practices and instruments built on that act. The term carries two faces that are easy to collapse into one. As an **instructional technique** it is self-grading, [[rubrics|rubric]]-based self-review, self-checking, and guided reflection: activities meant to develop the [[metacognition|monitoring]] and [[evaluative-judgment|judgment]] that [[self-regulated-learning|self-regulated learning]] runs on. As an **educational measure** it is a [[self-report-measures|self-report instrument]], in which a learner's estimate of their own skill, confidence, or learning stands in for an observation nobody made. It sits beside [[peer-assessment|peer assessment]] as the other half of students-as-assessors, and inherits the same dependence on [[scaffolding|scaffolding]] and explicit criteria. Both faces turn on the same faculty and both fail in the same direction: the estimate is systematically generous, and the more a learner's submitted work can be produced by a [[generative-ai|generative AI]] tool, the less that work says about whether the faculty is there at all.
 
 ## Questions to Consider
 

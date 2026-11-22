@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 reviewed_by: [editor]
 connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
 connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
@@ -46,7 +46,7 @@ Ethics and reliability temper enthusiasm for AI-generated visual content. [[data
 
 ## Slide, Comic, and Multi-View Tools in Practice
 
-Practical systems apply these principles at scale. AISSA combines LLM-based rubric scoring with learning analytics dashboards to deliver automated, iterative feedback on student presentation slides, processing 90 presentations in 1–3 minutes each at cents-per-evaluation cost with high perceived [[usability-research|usability]] — while students selectively applied feedback, sometimes disregarding recommendations that conflicted with their visual design. In [[cs-education|coding education]], Flowcode pairs a code-structure flowchart with a learning-oriented chat to help novice creative coders understand and extend found examples, where visualization and [[desirable-difficulties|productive friction]] steer AI use toward learning rather than bypass. Yet visual [[scaffolding|scaffolds]] are not universally effective: [[code-anchor-multi-view-visualization|Sibia et al. (2026)]] found students spent ~47% of gaze time on code despite visual scaffolds, driven by agency, representational fit, and the perceived legitimacy of metaphorical views. These [[student-experience|learner-experience]] findings caution that visualization design must attend to [[affective-computing|affective]] and social factors, not just cognitive affordances.
+Practical systems apply these principles at scale. AISSA combines LLM-based [[rubrics|rubric]] scoring with learning analytics dashboards to deliver automated, iterative feedback on student presentation slides, processing 90 presentations in 1–3 minutes each at cents-per-evaluation cost with high perceived [[usability-research|usability]] — while students selectively applied feedback, sometimes disregarding recommendations that conflicted with their visual design. In [[cs-education|coding education]], Flowcode pairs a code-structure flowchart with a learning-oriented chat to help novice creative coders understand and extend found examples, where visualization and [[desirable-difficulties|productive friction]] steer AI use toward learning rather than bypass. Yet visual [[scaffolding|scaffolds]] are not universally effective: [[code-anchor-multi-view-visualization|Sibia et al. (2026)]] found students spent ~47% of gaze time on code despite visual scaffolds, driven by agency, representational fit, and the perceived legitimacy of metaphorical views. These [[student-experience|learner-experience]] findings caution that visualization design must attend to [[affective-computing|affective]] and social factors, not just cognitive affordances.
 
 ## Implications
 

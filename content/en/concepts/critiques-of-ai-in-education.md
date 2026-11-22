@@ -1,7 +1,7 @@
 ---
 title: Critiques of AI in Education
-created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-21T15:40:00-05:00"
+created: "2026-11-21T14:03:40-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -52,7 +52,7 @@ A second cluster attacks the vocabulary rather than the machinery. Wang and Jin 
 
 ## Infrastructure, transduction and misrecognition
 
-A third cluster shifts attention from the tool to the infrastructure around it. Watson, Morgner and Brezovec treat generative AI as meaning-mediating infrastructure and name its mechanism *semantic transduction*: the reformatting of an educational demand — a prompt, brief, rubric, exam question, genre or policy — into a communicatively plausible form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec, 2026]]). Because transduction is selective, it can include or exclude. Three sites recur: access and capability divides, misrecognition through templates of what a good answer or a good student sounds like, and normative drift in what pedagogy is taken to mean. The exclusion is often a pincer rather than a ban — institutions raise expectations about pace, polish and idiomatic fluency while tightening authenticity regimes at the same time.
+A third cluster shifts attention from the tool to the infrastructure around it. Watson, Morgner and Brezovec treat generative AI as meaning-mediating infrastructure and name its mechanism *semantic transduction*: the reformatting of an educational demand — a prompt, brief, [[rubrics|rubric]], exam question, genre or policy — into a communicatively plausible form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec, 2026]]). Because transduction is selective, it can include or exclude. Three sites recur: access and capability divides, misrecognition through templates of what a good answer or a good student sounds like, and normative drift in what pedagogy is taken to mean. The exclusion is often a pincer rather than a ban — institutions raise expectations about pace, polish and idiomatic fluency while tightening authenticity regimes at the same time.
 
 ## Agenda-setting, simulated innovation and experimental futuring
 

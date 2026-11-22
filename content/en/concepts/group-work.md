@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -89,7 +89,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 
 - **Make the AI-use negotiation an assessable outcome.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] argue teams should justify and document how GenAI will and will not be used, turning an implicit peer norm into explicit, gradeable reasoning rather than leaving it to perceived risk.
 - **Assess process, not only product.** [[peer-assessment|Peer assessment]], intermediate deliverables, and reflective contributions create the interactions through which norms and shared understanding are actually constructed.
-- **Do not rely on a coherence criterion alone.** A rubric line demanding integration does not produce collaboration if the task structure still permits divide-and-conquer; the workflow has to require joint work.
+- **Do not rely on a coherence criterion alone.** A [[rubrics|rubric]] line demanding integration does not produce collaboration if the task structure still permits divide-and-conquer; the workflow has to require joint work.
 - **Design access deliberately.** Whether the group shares one AI interface or each member prompts privately changes the transparency of the collaboration and the cost of sustaining a shared cognitive model.
 - **Decide, visibly, what the AI's role is.** A neutral mediator is trusted; an advisor or challenger is not, unless that role is explicit and intended. A contrarian persona can counter groupthink, but only as a designed feature with its psychological-safety costs acknowledged.
 - **Balance efficiency against self-regulation.** Collaborative AI that maximizes task efficiency can undercut learners' regulatory engagement; design should deliberately protect space for concerted interpretation.

@@ -84,7 +84,7 @@ Devices are governed by a forming-versus-[[cognitive-offloading|offloading]] cri
 
 ## Check that the alignment is real
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes and colleagues' discourse analysis]] of 14 pieces of higher-education guidance warns that efficiency-framed advice, such as using generative AI to draft outcomes, rubrics and course outlines, produces [[assessment|alignment]] that looks aligned while neglecting the constructive half. Outcomes, activities and assessments get generated as discrete items rather than interdependent ones.
+[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes and colleagues' discourse analysis]] of 14 pieces of higher-education guidance warns that efficiency-framed advice, such as using generative AI to draft outcomes, [[rubrics|rubrics]] and course outlines, produces [[assessment|alignment]] that looks aligned while neglecting the constructive half. Outcomes, activities and assessments get generated as discrete items rather than interdependent ones.
 
 Their remedy is re-sequencing. Educators should understand constructive alignment well enough to direct, interrogate and reject AI output before delegating any part of it, because accepting a plausible surface is the same evaluative failure instructors warn students against. Where AI is used, they argue for institutionally bounded, [[rag|retrieval-augmented]] systems configured around local policy and quality standards rather than generic internet-trained defaults.
 

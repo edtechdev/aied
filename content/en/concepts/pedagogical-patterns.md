@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Patterns
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -99,7 +99,7 @@ A third write-up of the same 2024 implementation asks what students call the too
 
 ### AI critique then revision
 
-**Evidence: tested — with an important null.** Draft, prompt the AI for rubric-driven feedback, critically assess that feedback against the rubric and the sources, write a revision plan, revise, and reflect.
+**Evidence: tested — with an important null.** Draft, prompt the AI for [[rubrics|rubric]]-driven feedback, critically assess that feedback against the rubric and the sources, write a revision plan, revise, and reflect.
 
 A controlled 2 × 2 factorial experiment with 120 English majors found writing-quality gain was highest for the group trained in both filtering and appraisal (M = 7.92), against 6.10, 4.56 and 3.10 for the other conditions, with deep revision rising from 28% to 48% and the advantage persisting on a new topic and after AI support was removed ([[rethinking-ai-writing-feedback-literacy|Dai, 2026]]). The null is the instructive part: in a randomized three-group experiment with 70 students, chain-of-thought-prompted AI feedback was significantly *higher quality* than both zero-shot AI feedback (p = .01) and teacher feedback (p = .008), yet this quality advantage **did not translate into greater revision gains** — teacher feedback produced comparable improvement ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al., 2026]]).
 

@@ -86,7 +86,7 @@ Eleven rows is more than most assignments need. Collapse the table to the steps 
 
 ## Keep human feedback in the loop
 
-The largest classroom study here is [[pairr-ai-peer-review-2025|PAIRR]]: 654 students across ten writing courses and three writing-intensive [[stem-education|STEM]] courses. They drafted, completed [[peer-assessment|peer assessment]], obtained rubric-based AI feedback, compared and evaluated both sources, wrote revision plans, revised, and reflected. Fifty-eight percent preferred combined peer and AI feedback. Six percent preferred AI feedback alone. Students found AI useful for broad rubric-oriented revision advice, and peers supplied contextual knowledge and an authentic audience response.
+The largest classroom study here is [[pairr-ai-peer-review-2025|PAIRR]]: 654 students across ten writing courses and three writing-intensive [[stem-education|STEM]] courses. They drafted, completed [[peer-assessment|peer assessment]], obtained [[rubrics|rubric]]-based AI feedback, compared and evaluated both sources, wrote revision plans, revised, and reflected. Fifty-eight percent preferred combined peer and AI feedback. Six percent preferred AI feedback alone. Students found AI useful for broad rubric-oriented revision advice, and peers supplied contextual knowledge and an authentic audience response.
 
 Be exact about the claim. PAIRR measured students' experience and evaluation of feedback, not long-term [[learning-gains|learning gains]], so it is strong evidence for a feedback design and weaker evidence that writing improves months later. Keep the peer step even when the AI step is faster. Much of the [[feedback|feedback]] work happens in the comparison between the two sources, and dropping it removes the part students said they valued.
 

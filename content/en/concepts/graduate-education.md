@@ -1,7 +1,7 @@
 ---
 title: Graduate Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-19T10:16:37-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 pedagogy: [professional-training, self-regulated-learning, scaffolding, metacognition, collaborative-learning]
 technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-analytics]
@@ -68,7 +68,7 @@ Professional degrees hold most of the graduate-level evidence, organized by disc
 
 - **Simulated patients scale access, not proven skill.** SOPHIE 2.0 offers 24 clinical scenarios through a browser avatar with an LLM judge. The judge reached Pearson 0.759 and ICC 0.746 against human consensus, and 92% of 59 participants found it engaging; with no control condition, rising scores cannot be attributed to training ([[sophie-clinical-communication-ai-assessment-2026]]).
 
-- **Replacing a facilitator preserves scores and costs process.** In a four-week pharmacology course, 136 second-year medical students in facilitator-led and AI-led [[problem-based-learning|problem-based learning]] improved equally on multiple-choice tests (p = 0.474). Facilitator-led groups scored higher on critical thinking, 14.75 against 13.09 (p < 0.001), and on the group rubric, 26.51 against 24.74 (p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
+- **Replacing a facilitator preserves scores and costs process.** In a four-week pharmacology course, 136 second-year medical students in facilitator-led and AI-led [[problem-based-learning|problem-based learning]] improved equally on multiple-choice tests (p = 0.474). Facilitator-led groups scored higher on critical thinking, 14.75 against 13.09 (p < 0.001), and on the group [[rubrics|rubric]], 26.51 against 24.74 (p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
 
 - **Clinical training research has not reached competence.** A [[meta-analysis-systematic-review|scoping review]] of counselor education found 14 sources, all after 2023 and dominated by simulated clients. None measured competence, none tested a crisis scenario, and the default persona was culturally neutral unless the prompt specified culture ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026]]).
 

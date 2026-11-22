@@ -2,7 +2,7 @@
 
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -62,7 +62,7 @@ A requirement to use AI can itself be the equity harm, without unequal provision
 - **Generated imagery repeats dominant visual norms, which makes critical use a competency rather than an add-on.** Jiang et al. (2026) observe that GenAI image generation reproduces dominant multimodal norms such as visual bias, and warn that multimodal assessment which ignores this risks automating and reproducing inequalities; their framework for second language teachers therefore requires the competence to help students detect, evaluate and counter-narrate biased model outputs ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 - **Representation applies to the evidence, not only the learners.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] argues that equity in technology-supported assessment covers the contextual transferability of the knowledge underpinning a design, so a system validated in well-resourced settings carries untested assumptions elsewhere.
 
-- **Templates of good performance become cultural capital.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] show that generative AI reformats prompts, rubrics and genres into communicatively plausible forms, which can make a contribution easier to process while steering learners toward mainstream templates, so inclusion becomes conditional on assimilation to recognizable genres.
+- **Templates of good performance become cultural capital.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] show that generative AI reformats prompts, [[rubrics|rubrics]] and genres into communicatively plausible forms, which can make a contribution easier to process while steering learners toward mainstream templates, so inclusion becomes conditional on assimilation to recognizable genres.
 
 ## Outcome equity
 In a scoping review of 394 GenAI higher-education studies, equity and access were among the outcomes targeted least, alongside [[metacognition|metacognition]], ethics and [[creativity|creativity]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).

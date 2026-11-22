@@ -1,7 +1,7 @@
 ---
 title: Primary Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-15T06:45:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 pedagogy: [scaffolding, game-based-learning, self-regulated-learning, social-emotional-learning]
 technology: [adaptive-learning, intelligent-tutoring, conversational-ai, generative-ai]
@@ -18,7 +18,7 @@ connected_concepts: [developmental-psychology, math-education, reading-education
 connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
 ---
 
-> **Synthesis:** AI in primary education is used mainly to differentiate practice in early literacy and numeracy, to draft materials for teachers, and to give children something to ask questions of. The best-controlled studies show small gains that depend on [[teacher-role|teacher]] orchestration rather than the model, and a trial built to isolate [[adaptive-learning|adaptivity]] found no advantage for it. This page covers what the evidence supports in tutoring, reading, writing, and [[ai-literacy|AI literacy]], and why class-level deployment changes what good practice means at ages five to eleven.
+> **Synthesis:** AI in primary education is used mainly to differentiate practice in early literacy and numeracy, to draft materials for teachers, and to give children something to ask questions of. The best-controlled studies show small gains that depend on [[teacher-role|teacher]] orchestration rather than the model, and a trial built to isolate [[adaptive-learning|adaptivity]] found no advantage for it. The evidence supports tutoring, reading, writing, and [[ai-literacy|AI literacy]], and class-level deployment changes what good practice means at ages five to eleven.
 
 ## Questions to Consider
 
@@ -85,7 +85,7 @@ A coding unit therefore reaches one strand of four. The strand that would let a 
 
 Teaching follows constructionist logic, but with agents rather than paper. Agents appeared in 15 of 25 studies, software-focused devices in 8, and unplugged activities in 3; Teachable Machine, Jibo, Cozmo, and Alexa let children train a model without writing code. Of the 16 studies naming a framework, 8 used constructionism or constructivism and 6 used the ARCS model. The reviewers question the common sequence that teaches rule-based coding before data-driven learning, since machine learning asks a child to curate examples rather than write rules.
 
-What counts as evidence is thinner than what is taught. Surveys appeared in 19 of 25 studies, often as one-off items on readiness or intention, and only 15 of 25 reported any learning outcome. Interviews (11) and artifact rubrics (8) were where conceptual understanding showed up. This is the base beneath the validated [[self-assessment]] scale above: a sound instrument for perceived competence, in a literature that seldom tests demonstrated competence.
+What counts as evidence is thinner than what is taught. Surveys appeared in 19 of 25 studies, often as one-off items on readiness or intention, and only 15 of 25 reported any learning outcome. Interviews (11) and artifact [[rubrics|rubrics]] (8) were where conceptual understanding showed up. This is the base beneath the validated [[self-assessment]] scale above: a sound instrument for perceived competence, in a literature that seldom tests demonstrated competence.
 
 A systematic map of elementary science research arrives at the same problem from a different corpus. Across 103 Scopus-indexed publications from 2023 to early 2026, [[barokah-ai-elementary-science-review-2026|Barokah, Hermita and Putra (2026)]] found outcomes broadening into affective and regulatory territory while epistemic outcomes stayed thin. Few studies asked whether children could separate observation from inference or judge the limits of an AI-generated claim. Their assessment warning is specific to this band: upper elementary performance tasks yield partial explanations, drawings, and gestures, and a scorer that marks a developmentally productive answer as wrong removes the formative value. Contributors to both literatures concentrate in China, the United States, and Hong Kong, and the primary review adds a gender gap, with boys reporting more confidence and readiness (Dai et al., 2020, as reported in Yim and Su).
 

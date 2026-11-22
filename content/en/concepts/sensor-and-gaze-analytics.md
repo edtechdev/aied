@@ -1,7 +1,7 @@
 ---
 title: Sensor and Gaze Analytics
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -47,7 +47,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 23 studies pairing AI
 
 **Electroencephalography.** EEG records voltage fluctuations across the scalp at high temporal resolution. It is the only signal in this family that reaches cortical activity directly, which is why it attracts assessment research. Practical education systems use dry electrodes and few channels: E3Sense took four dry EEG channels at 125 Hz and analyzed two frontal ones ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Research-grade rigs take the opposite approach: Kosmyna et al. (2025) used 32-channel EEG to compare students writing with an [[llm|LLM]], a search engine, or no tool, and found the weakest neural connectivity in the LLM group ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et al., 2025]]). That study is also the clearest warning about single-channel evidence, since its central claim rests on an optional crossover session that only 18 of 54 participants attended.
 
-**fNIRS hyperscanning.** Recording two learners at once measures interbrain synchrony, not one brain: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] found human-attributed exemplars raised premotor synchrony and idea uniqueness, AI attribution lowered it, and neither behavioral gain survived withdrawal.
+**fNIRS hyperscanning.** Recording two learners at once measures interbrain synchrony, not one brain: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] found human-attributed [[rubrics|exemplars]] raised premotor synchrony and idea uniqueness, AI attribution lowered it, and neither behavioral gain survived withdrawal.
 
 **Electrodermal activity.** EDA measures sweat-gland conductance, an index of sympathetic arousal. It responds to stress, effort, and emotional intensity, and it cannot distinguish among them. The same construct appears in wristbands and in forehead electrodes fixed a few centimeters apart by an eye-tracker frame ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]).
 

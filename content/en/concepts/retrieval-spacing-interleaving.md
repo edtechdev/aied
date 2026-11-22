@@ -1,7 +1,7 @@
 ---
 title: "Retrieval, Spacing and Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -79,7 +79,7 @@ Interleaving rests on the same theoretical family as the other two techniques an
 
 - **Small samples and single contexts.** The pretesting study's analytic sample is 89 undergraduates in one applied statistics course, with 27–34 students per arm; the LLM interaction study has n = 22 with a single-group design that supports no causal claim; the teach-back study has 22 participants. The pretesting authors state that replication across domains and task types is needed for generalizability.
 - **Short or absent retention intervals.** The interaction-depth study tested immediate recall only, with no delayed measure, so its null is a null for short-term retention specifically. Memdora's retention advantage and the [[llm-interaction-depth-task-quality-recall-2026|LLM-depth dissociation]] alike are not tracked over the weeks that the spacing literature would require; the pretesting study's seven-week window is the longest available.
-- **[[self-report-measures|Self-report]] and proxy measures.** Practice effort in the pretesting study is a behavioral indicator scored by two raters against a rubric from conversation logs, which the authors explicitly note is not a measure of internal [[motivation|motivational]] state; the LLM-depth measure is a keyword-based proxy capturing the surface form of explanation-seeking rather than its quality.
+- **[[self-report-measures|Self-report]] and proxy measures.** Practice effort in the pretesting study is a behavioral indicator scored by two raters against a [[rubrics|rubric]] from conversation logs, which the authors explicitly note is not a measure of internal [[motivation|motivational]] state; the LLM-depth measure is a keyword-based proxy capturing the surface form of explanation-seeking rather than its quality.
 - **Instrumentation and modelling limits.** [[knowledge-tracing|Knowledge tracing]] models fail exactly where spacing decisions need them, and the authors attribute past successes to retroactive full-dataset fitting rather than deployment-realistic validation. The bilingual companion's flashcard quality is unverified against ground truth, with no automated fact-checking layer, and it has run no outcomes study at all.
 - **Interleaving has essentially no direct evidence.** No blocked-versus-interleaved comparison exists, only a simulation in which Interleaving is one selectable strategy among several.
 - **Subject populations and content.** The evidence base concentrates on [[higher-ed|higher education]], on STEM and statistics material, and on fact-versus-skill distinctions from geometry and multiple-regression content; generalization to [[k-12|K-12]] settings, to [[humanities-education|humanities]] and writing, and to non-Western classrooms is not established by these studies.

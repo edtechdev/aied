@@ -62,7 +62,7 @@ Two things follow. Expect the reward to be gamed, because it specifies less than
 
 ## Make the reward fire often enough to teach
 
-An exact-match reward is too sparse when the thing you care about has several dimensions. SWIM's writing [[simulation|simulator]] shows the progression cleanly: rubric-grounded prompting reached a best average trait QWK of **0.577** with Claude Sonnet and **0.422** with GPT-5.4, near zero for an open 7B model; supervised fine-tuning reached **0.474 ± 0.023** for that 7B model; GRPO with a dense, trait-normalized accuracy reward reached **0.618 ± 0.005** across every trait and prompt ([[swim-student-writing-simulation-2026|Do et al., 2026]]).
+An exact-match reward is too sparse when the thing you care about has several dimensions. SWIM's writing [[simulation|simulator]] shows the progression cleanly: [[rubrics|rubric]]-grounded prompting reached a best average trait QWK of **0.577** with Claude Sonnet and **0.422** with GPT-5.4, near zero for an open 7B model; supervised fine-tuning reached **0.474 ± 0.023** for that 7B model; GRPO with a dense, trait-normalized accuracy reward reached **0.618 ± 0.005** across every trait and prompt ([[swim-student-writing-simulation-2026|Do et al., 2026]]).
 
 The reward design produced that gap. A dense trait-normalized signal beats exact match in a multi-trait setting, and if your reward fires only on a perfect response, most of your training signal is silence.
 

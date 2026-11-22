@@ -42,7 +42,7 @@ The short answer for that meeting: AI can take search, a first screening pass, c
 
 **2.** Put the automation on screening. Keep data extraction, reconciliation, and synthesis with people.
 
-**3.** Settle the codebook and the rubric before an automated pass touches the data.
+**3.** Settle the codebook and the [[rubrics|rubric]] before an automated pass touches the data.
 
 **4.** Decide what verification means and who signs it. Agreement between a model and a coder is a similarity measure, not a quality result.
 

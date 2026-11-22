@@ -19,7 +19,7 @@ ai_assist:
 
 A vendor demo runs for forty minutes. The agent reads the syllabus, drafts next week's quiz, flags three students who have not opened the reading, and offers to email them. Your provost wants a licensing decision by the end of the month.
 
-An [[agentic-ai|agent]] plans, calls tools, keeps context, splits work into subtasks and adapts across turns, which is more than a [[conversational-ai|chatbot]] does. The student-side and instructor-side roles that opens up are real. The evidence does not show that more autonomy produces more learning: in the one head-to-head study here, an agent and a chatbot tied. Put autonomy where a person checks the output, keep the planning with the learner, and score teaching quality against your own rubric.
+An [[agentic-ai|agent]] plans, calls tools, keeps context, splits work into subtasks and adapts across turns, which is more than a [[conversational-ai|chatbot]] does. The student-side and instructor-side roles that opens up are real. The evidence does not show that more autonomy produces more learning: in the one head-to-head study here, an agent and a chatbot tied. Put autonomy where a person checks the output, keep the planning with the learner, and score teaching quality against your own [[rubrics|rubric]].
 
 ## The short version
 

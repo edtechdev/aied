@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T04:08:36-05:00"
-updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -81,7 +81,7 @@ Instructors can treat a detector's output as evidence rather than a verdict. It 
 
 Curriculum designers can keep production in the course. Making media is what made critique concrete in the studies reviewed here, and generating with AI supports it only when students examine the choices the tool made for them.
 
-Scoring the construct as performance rather than attitude moves the weak point into view. In an eight-week Code Craft trial with 28 Thai undergraduates, digital literacy rose from 1.51 to 2.82 on a three-point rubric, but managing information averaged 1.92 and creating information 2.05 against 2.36 for communicating and working with others ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]). The lowest scores sat on the producing side of the construct, where a course that stops at search and evaluation never arrives.
+Scoring the construct as performance rather than attitude moves the weak point into view. In an eight-week Code Craft trial with 28 Thai undergraduates, digital literacy rose from 1.51 to 2.82 on a three-point [[rubrics|rubric]], but managing information averaged 1.92 and creating information 2.05 against 2.36 for communicating and working with others ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]). The lowest scores sat on the producing side of the construct, where a course that stops at search and evaluation never arrives.
 
 Program leaders can put a librarian or media specialist inside the workflow. The strongest instructional result in this literature comes from a design where human consultation was built in rather than offered afterward.
 

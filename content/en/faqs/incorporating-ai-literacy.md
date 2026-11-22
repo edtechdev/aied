@@ -60,7 +60,7 @@ The pattern worth building a task around is plausible but imperfect output plus 
 
 Treat that as a competence you teach, because it does not arrive with subject knowledge. In the computing-education synthesis, students performed significantly *worse* on correcting AI-generated code than on traditional programming [[summative-assessment|examination]] tasks. That is direct evidence that evaluating and repairing output does not transfer automatically from general disciplinary skill, and that without instruction students will resubmit incorrect work without noticing. The review folds this into its VIE framework (Verification, Implementation, Equity) and argues that critical engagement should be a graded, observable component of student work, calling it the common mechanism linking every effective intervention it reviewed.
 
-Practical version: one rubric line for the error you expected them to catch, one for the repair, one for the justification. If the critique carries no points, it gets three sentences on the way out the door.
+Practical version: one [[rubrics|rubric]] line for the error you expected them to catch, one for the repair, one for the justification. If the critique carries no points, it gets three sentences on the way out the door.
 
 ## Make it specific to your field, and repeat it
 

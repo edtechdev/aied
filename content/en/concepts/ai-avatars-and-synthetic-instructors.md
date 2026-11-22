@@ -1,7 +1,7 @@
 ---
 title: AI Avatars and Synthetic Instructors
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -51,7 +51,7 @@ The material is organized by role: which role the synthetic human occupies, what
 
 **Role-play partner.** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] has children puppeteer a robotic avatar to rehearse bystander intervention. ACLIME calls this the second interaction mode: an agent holding a defined role for [[situated-learning|situated]] dialogue.
 
-**Assessment interlocutor.** The SOPHIE judge scores transcripts against a communication rubric. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] propose a voice agent that interviews students about a course instead of administering a [[self-report-measures|written survey]].
+**Assessment interlocutor.** The SOPHIE judge scores transcripts against a communication [[rubrics|rubric]]. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] propose a voice agent that interviews students about a course instead of administering a [[self-report-measures|written survey]].
 
 ## What the evidence supports, role by role
 

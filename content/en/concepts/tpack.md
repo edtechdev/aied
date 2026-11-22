@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-21T13:30:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -83,7 +83,7 @@ mediators rather than directly, and the result held after controlling for gender
 model's practical claim is a sequence with an entry point: AI literacy is necessary but insufficient, and the work of integration
 happens where technological, pedagogical, and content knowledge are combined — which is also where teachers' confidence in teaching
 the subject is built.
-- **Validation as a fourth competency.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol and Ugur (2026)]] extend the model with **AI-Validation Knowledge** — subjecting probabilistic AI output to discipline-specific verification before treating it as evidence of a legitimate decision — and pair it with a process-oriented rubric for [[design-education|design education]].
+- **Validation as a fourth competency.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol and Ugur (2026)]] extend the model with **AI-Validation Knowledge** — subjecting probabilistic AI output to discipline-specific verification before treating it as evidence of a legitimate decision — and pair it with a process-oriented [[rubrics|rubric]] for [[design-education|design education]].
 
 ## Why It Matters in AI Education
 

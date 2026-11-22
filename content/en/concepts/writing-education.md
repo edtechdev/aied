@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-22T12:10:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -33,7 +33,7 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 ### How AI in writing education appears in the research
 
-- **Automated essay scoring:** [[automated-essay-scoring|automated essay scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features. For short argumentative writing (about 150–200 words) in Spanish, AI scoring agreement varies sharply by rubric dimension ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): structure- and register-oriented items — introduction, conclusion, register, nominal agreement, subject–verb agreement — reached moderate chance-corrected agreement with human raters in the 2025 edition, while micro-level linguistic items (vocabulary, syntax, punctuation, connectors, argumentation) stayed in the fair-to-slight range. This suggests LLM assistance is most defensible for macro-level discourse features, and that low-level language conventions should keep deterministic tooling or [[human-in-the-loop-ai|human review]].
+- **Automated essay scoring:** [[automated-essay-scoring|automated essay scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features. For short argumentative writing (about 150–200 words) in Spanish, AI scoring agreement varies sharply by [[rubrics|rubric]] dimension ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): structure- and register-oriented items. Introduction, conclusion, register, nominal agreement, subject–verb agreement — reached moderate chance-corrected agreement with human raters in the 2025 edition, while micro-level linguistic items (vocabulary, syntax, punctuation, connectors, argumentation) stayed in the fair-to-slight range. This suggests LLM assistance is most defensible for macro-level discourse features, and that low-level language conventions should keep deterministic tooling or [[human-in-the-loop-ai|human review]].
 - **A quality-dependent tilt.** Out-of-the-box GPT and Llama graders agreed weakly with human raters (QWK 0.17–0.28 versus 0.72 between two humans), overscoring short, underdeveloped essays and underscoring longer, stronger ones for minor surface errors ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
 
 - **Score more samples, not bigger models.** In a Grades 3–6 universal-screening study, LLM comparative-judgment scores converged with researcher rubrics (r = .59–.73) and averaging the three screening waves raised criterion validity (β = .68–.74 for ELA scale, AUC = .82–.86 for proficiency), while greater model capability or cost added little ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
