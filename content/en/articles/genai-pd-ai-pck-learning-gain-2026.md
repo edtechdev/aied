@@ -1,4 +1,4 @@
----
+
 title: "Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers"
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-26T07:13:32-04:00"
@@ -15,7 +15,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This quasi-experimental pretest-posttest study of an intensive 8-hour generative-AI [[educational-development|professional development]] program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36, *p* < 0.001), with pre-service teachers showing statistically higher [[learning-gains|learning gains]] than experienced teachers (*p* = 0.033). The Assessment Rubrics component (the lowest pretest area) recorded the largest effect size (*d* = 2.19), identifying assessment tools rather than [[teacher-role|teaching]] methods as the sharpest gap in teachers' knowledge for an AI era.
+> **Synthesis:** This quasi-experimental pretest-posttest study of an intensive 8-hour generative-AI [[educational-development|professional development]] program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36, *p* < 0.001), with pre-service teachers showing statistically higher [[learning-gains|learning gains]] than experienced teachers (*p* = 0.033). The Assessment [[rubrics|Rubrics]] component (the lowest pretest area) recorded the largest effect size (*d* = 2.19), identifying assessment tools rather than [[teacher-role|teaching]] methods as the sharpest gap in teachers' knowledge for an AI era.
 
 ## Key Findings
 1. **Very large overall effect.** The intensive 8-hour program produced significant gains across all five AI-PCK components (*p* < 0.001) with an overall effect size of *d* = 2.36, confirming the efficacy of short-format, skills-focused professional development.

@@ -1,4 +1,4 @@
----
+
 title: "AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences"
 created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
@@ -24,7 +24,7 @@ source_depth: full text
 
 ## Key Findings
 
-1. A rubric judge applying the 45-rule standard localized rule violations far more reliably than reference-based metrics, deciding 72% of the 250 controlled pairs and scoring 88.3% accuracy against chrF's 61.2% (58 discordant pairs against 8, p < 10⁻⁴).
+1. A [[rubrics|rubric]] judge applying the 45-rule standard localized rule violations far more reliably than reference-based metrics, deciding 72% of the 250 controlled pairs and scoring 88.3% accuracy against chrF's 61.2% (58 discordant pairs against 8, p < 10⁻⁴).
 2. The full cascade — rubric, then subscore tie-break, then chrF residue — reached 85.4% accuracy at 99% coverage, while the rule-diagnosable local mode was statistically indistinguishable from chrF (63.6% accuracy on 100% of pairs, p = 0.59).
 3. Direct preference optimization did not improve on supervised fine-tuning: it lowered chrF and BERTScore on every row, raised CLIPScore everywhere, and fell below its SFT precursor on compliance in the mechanical mode on every row.
 4. Head-to-head, DPO did not beat its SFT precursor at a win rate whose lecture-clustered interval excludes 0.50 (W = .545, 95% CI [.387, .711]; and W = .625, 95% CI [.467, .781]), though the rubric mode alone ranked DPO first (6.32 vs. 5.37).
@@ -53,7 +53,7 @@ The negative [[llm-training-and-fine-tuning|post-training]] result is worth read
 - **Instructors.** Do not assume a compliant description serves your blind and low-vision students: the rubric here agreed with raters on deixis but diverged sharply on length, so treat a published guideline as a floor rather than the target.
 - **Instructors.** Where a lecture depends on diagrams, equations, or pointing, check that descriptions resolve deictic references and fit the available pauses — median pauses in this corpus were 0.5 s, so long descriptions rarely fit.
 - **Instructional designers.** Ask learners directly about length and redundancy, the two categories where raters contradicted the standard and which the authors route to user-level adaptation rather than a global rule.
-- **[[educational-technology-developers|Educational technology developers]].** Keep a standard-based check or machine judge in the loop but involve blind and low-vision people in design and evaluation, since this study's training signal came from a machine judge and its compliance scores tracked preference unevenly.
+- **Educational technology developers.** Keep a standard-based check or machine judge in the loop but involve blind and low-vision people in design and evaluation, since this study's training signal came from a machine judge and its compliance scores tracked preference unevenly.
 - **Researchers.** Measure compliance and preference as separate constructs rather than using one as a proxy for the other, and report rule-diagnosable scores in separate modes so a failure can be attributed to a specific requirement.
 
 ## Limitations

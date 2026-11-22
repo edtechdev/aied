@@ -1,4 +1,4 @@
----
+
 title: "Synthesizing AI in STEAM: Visual Storytelling as a Meaning-Making Connector Between Bio-Inspired Design and Creative Expression"
 created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T22:20:00-05:00"
@@ -51,10 +51,10 @@ The results are presented as a small set of observations tied to figures and a t
 
 ## What this means for practice
 
-- **Use visual storytelling as a bridge, not a deliverable.** The pedagogical value lies in translating technical material into a user scenario, not in producing polished images.
+- **Instructors.** Use visual storytelling as a bridge, not a deliverable. The pedagogical value lies in translating technical material into a user scenario, not in producing polished images.
 - **Keep scenario construction with students.** The work in which the student authored the need and sequence, with AI only generating imagery, is the clearest example of preserving design cognition.
 - **Teach style as a meaning choice.** Asking students to justify palette, character and sequence in relation to the story turns image generation into design reasoning.
-- **Analyze a range of works, not one exemplar.** The three-category result suggests that studios should expect varied approaches and assess them against the narrative purpose.
+- **Instructors.** Analyze a range of works, not one [[rubrics|exemplar]]. The three-category result suggests that studios should expect varied approaches and assess them against the narrative purpose.
 - **Do not assume AI raises quality.** The study shows accessibility and variety, not better design outcomes.
 
 ## Limitations

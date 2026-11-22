@@ -1,4 +1,4 @@
----
+
 title: "Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies"
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -34,7 +34,7 @@ The disruptive wake of ChatGPT left many faculty speculating about how to preven
 
 ## ISRA: Whole-Class Co-design
 
-ISRA (Information Studies Research Accelerator) is a redesigned first-year living-learning community introducing students to information studies research. Faculty applied SaP principles to restructure the yearlong program around whole-class co-design, which Bovill (2020) suggests may be the most equitable form of partnership because it allows broad participation. During the first week, students and faculty co-design course goals and policies, revisiting them throughout the term. Evaluation relies on individual reflective self-assessment rather than final products, with students grading themselves and their groups using personal goals, team goals, and a shared rubric. This structure combines faculty expertise with students' expertise in their own learning, supporting [[self-regulated-learning|self-regulated learning]] and [[motivation|motivation]].
+ISRA (Information Studies Research Accelerator) is a redesigned first-year living-learning community introducing students to information studies research. Faculty applied SaP principles to restructure the yearlong program around whole-class co-design, which Bovill (2020) suggests may be the most equitable form of partnership because it allows broad participation. During the first week, students and faculty co-design course goals and policies, revisiting them throughout the term. Evaluation relies on individual reflective self-assessment rather than final products, with students grading themselves and their groups using personal goals, team goals, and a shared [[rubrics|rubric]]. This structure combines faculty expertise with students' expertise in their own learning, supporting [[self-regulated-learning|self-regulated learning]] and [[motivation|motivation]].
 
 ## What this means for practice
 

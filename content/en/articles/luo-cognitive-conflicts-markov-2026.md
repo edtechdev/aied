@@ -1,4 +1,4 @@
----
+
 title: "Student Responses to Cognitive Conflicts in GenAI-Assisted Learning: A Covariate-Dependent Markov Chain Analysis on Human-AI Interactions"
 created: "2026-11-11T07:41:44-05:00"
 updated: "2026-11-14T10:00:00-05:00"
@@ -45,7 +45,7 @@ The study recruited 21 first- to third-year undergraduates from two English-medi
 
 The platform was built on the ChatGPT-4o API with no [[llm-training-and-fine-tuning|fine-tuning]] and no pre-prompts, a deliberately neutral starting point. Training consisted of a short lecture on the tool and a practical exercise. Chat logs and screen recordings captured every prompt and image the student sent; after the session each student sat a semi-structured stimulated-recall interview in which they watched their recording and explained their thinking at points of conflict.
 
-Two doctoral students coded conflict intensity on two dimensions, each scored 1 to 3: the discrepancy between the AI output and the student's existing beliefs, and the conceptual complexity of the output. The two scores were multiplied and the product banded as low, medium or high, with acceptable agreement between the coders. Response states were defined by four experts as negative (pointing out errors, rejecting, criticizing), neutral (no clear tendency, uncertainty, re-[[prompt-engineering|prompting]] or regenerating) and positive (acceptance, praise, revising one's own view, continuing with instructions). A subset of segments was discussed to fix the definitions and the rest were coded independently, again with acceptable agreement. Task performance was grouped after coding by clustering rubric scores for content, analysis, organization, [[writing-education|writing quality]] and word limit; the coders did not know the group when they coded.
+Two doctoral students coded conflict intensity on two dimensions, each scored 1 to 3: the discrepancy between the AI output and the student's existing beliefs, and the conceptual complexity of the output. The two scores were multiplied and the product banded as low, medium or high, with acceptable agreement between the coders. Response states were defined by four experts as negative (pointing out errors, rejecting, criticizing), neutral (no clear tendency, uncertainty, re-[[prompt-engineering|prompting]] or regenerating) and positive (acceptance, praise, revising one's own view, continuing with instructions). A subset of segments was discussed to fix the definitions and the rest were coded independently, again with acceptable agreement. Task performance was grouped after coding by clustering [[rubrics|rubric]] scores for content, analysis, organization, [[writing-education|writing quality]] and word limit; the coders did not know the group when they coded.
 
 ## How the model reads a transition
 
@@ -61,11 +61,11 @@ Their interpretation of the high-intensity convergence draws on cognitive closur
 
 ## What this means for practice
 
-- **Instructors:** Teach students to anticipate conflict, not just resolve it. Asking them to predict where they will get confused, and to plan what they will do when they do, is presented as a way to protect [[metacognition|metacognitive]] capacity during [[generative-ai|GenAI]] use.
-- **Designers:** Detect conflict while it is happening. The authors propose system responses to frustration — for example, prompting a student to try a different topic while more information is gathered — to break a negative loop before it hardens.
-- **Designers:** Differentiate by response pattern. Students who oscillate need [[scaffolding|scaffolding]] that stabilizes their judgment; students who hold a view too confidently need prompts that require them to criticize their own position.
-- **Administrators:** Treat conflict handling as part of [[ai-literacy|AI literacy]] and [[self-regulated-learning|self-regulated learning]], not as a support service bolted onto tool access. The authors argue policy should move past access and output accuracy toward the cognitive and affective demands of sustained interaction.
-- **Researchers:** Separate critical rejection from emotional rejection in the coding scheme. Until that distinction exists, a negative state cannot be read as evidence of thinking either way.
+- **Instructors.** Teach students to anticipate conflict, not just resolve it. Asking them to predict where they will get confused, and to plan what they will do when they do, is presented as a way to protect [[metacognition|metacognitive]] capacity during [[generative-ai|GenAI]] use.
+- **Designers.** Detect conflict while it is happening. The authors propose system responses to frustration — for example, prompting a student to try a different topic while more information is gathered — to break a negative loop before it hardens.
+- **Designers.** Differentiate by response pattern. Students who oscillate need [[scaffolding|scaffolding]] that stabilizes their judgment; students who hold a view too confidently need prompts that require them to criticize their own position.
+- **Administrators.** Treat conflict handling as part of [[ai-literacy|AI literacy]] and [[self-regulated-learning|self-regulated learning]], not as a support service bolted onto tool access. The authors argue policy should move past access and output accuracy toward the cognitive and affective demands of sustained interaction.
+- **Researchers.** Separate critical rejection from emotional rejection in the coding scheme. Until that distinction exists, a negative state cannot be read as evidence of thinking either way.
 
 ## Limitations
 

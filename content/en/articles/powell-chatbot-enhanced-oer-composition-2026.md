@@ -1,4 +1,4 @@
----
+
 title: "The text talks back: Chatbot-enhanced OER in asynchronous Composition II"
 published: "2026"
 created: "2026-11-17T18:30:00-05:00"
@@ -39,7 +39,7 @@ verified: [citation, numbers]
 
 The assistant is trained on the course's own materials, so its failure mode differs from a general chatbot's. A general model asked about a research proposal can invent sources, formats and expectations, and the student has no way to tell which parts came from the course. A bounded assistant that retrieves from the textbook and course documents can still be unhelpful, but it is anchored to the assignment the instructor actually set.
 
-That anchoring explains the "incorrect" pattern. When students called an answer wrong, they were often judging fit — the suggestion was generically true about writing but wrong for this genre, this rubric or this assignment. The authors' reading is that such judgments are the literacy the course is trying to teach. A student who says "that is not what my instructor wants here" is doing exactly the evaluation that [[student-ai-interaction|student AI interaction]] research says is rare.
+That anchoring explains the "incorrect" pattern. When students called an answer wrong, they were often judging fit — the suggestion was generically true about writing but wrong for this genre, this [[rubrics|rubric]] or this assignment. The authors' reading is that such judgments are the literacy the course is trying to teach. A student who says "that is not what my instructor wants here" is doing exactly the evaluation that [[student-ai-interaction|student AI interaction]] research says is rare.
 
 It also sets the limit. A bounded assistant cannot answer questions the course materials do not cover, so the design shifts the burden onto the materials: if the textbook does not state the citation convention or the proposal structure, the assistant will not invent a reliable one.
 

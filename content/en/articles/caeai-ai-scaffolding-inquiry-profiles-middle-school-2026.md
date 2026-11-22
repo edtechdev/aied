@@ -1,4 +1,4 @@
----
+
 title: "A mixed-methods analysis of AI scaffolding patterns and student inquiry profiles in a middle-school agriculture-STEM classroom"
 created: "2026-10-04T10:38:58-04:00"
 updated: "2026-10-04T10:38:58-04:00"
@@ -27,7 +27,7 @@ source_depth: full text
 ## Key Findings
 
 1. The study analyzed 42 eighth-grade students working in 12 intact groups of three to four within a 16-lesson sustainable agriculture unit at a public [[k-12|middle school]] in the rural Southeastern United States.
-2. Crossing initial artifact quality with criterion-aligned revision produced four profiles: High Achievers (n = 2), Perfectionists (n = 2), Most Improved (n = 5), and Struggling (n = 3), using the rubric midpoint of 9 on a 0-18 scale as the cut point.
+2. Crossing initial artifact quality with criterion-aligned revision produced four profiles: High Achievers (n = 2), Perfectionists (n = 2), Most Improved (n = 5), and Struggling (n = 3), using the [[rubrics|rubric]] midpoint of 9 on a 0-18 scale as the cut point.
 3. Coaching accounted for the largest share of prompt-level code presences in the Most Improved (24.6%) and High Achiever (24.1%) profiles, while Irrelevant code was most prominent in the Perfectionist (40.5%) and Struggling (24.3%) profiles.
 4. In the low-initial-quality ENA contrast, prompt-level ENA coordinates differed on SVD2, U = 6139, p = .02, |r| = .17, with the Most Improved subtraction network stronger around modeling and reflection and the Struggling network strongest on the scaffolding-irrelevant edge.
 5. Peer-discussion coding showed the Most Improved profile dominated by model uptake at 74.1% of coded engagement turns, whereas cognitive offloading and collaborative impasse together made up 80.8% of the Struggling profile's coded turns.
@@ -62,7 +62,7 @@ Read together, the ENA and transcript evidence support the authors' framing that
 
 - **Instructors.** Pair any modeled formulation with a reflection prompt and a peer-evaluation step. The study's clearest contrast is that Most Improved groups met a complete pedagogical cycle — coaching, modeling, then reflection — while Struggling groups met foundational support beside off-task exchange.
 - **Curriculum designers.** Build artifact revision around shared criteria and a group journal that requires students to justify changes rather than accept suggestions. The design that separated the low-initial-quality profiles ran through how groups negotiated AI input together, not through the tool alone.
-- **[[learning-analytics|Learning analytics]] and tool developers.** Treat interaction traces as formative signals for teachers, not automated diagnoses. Repeated off-task or generic answer-seeking prompts can flag where a group may be confused or stalled while leaving interpretation to the [[teacher-role|teacher]].
+- **Educational technology developers.** Treat interaction traces as formative signals for teachers, not automated diagnoses. Repeated off-task or generic answer-seeking prompts can flag where a group may be confused or stalled while leaving interpretation to the [[teacher-role|teacher]].
 - **Researchers.** The four profiles are descriptive and within-sample; replication needs larger, more diverse samples and methods that model nesting and sequence, since prompt-level ENA units were nested within a small number of groups.
 
 ## Limitations

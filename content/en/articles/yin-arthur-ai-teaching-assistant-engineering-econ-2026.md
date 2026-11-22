@@ -1,4 +1,4 @@
----
+
 title: "Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class"
 created: "2026-09-03T14:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
@@ -25,7 +25,7 @@ discipline: [engineering education]
 
 - **Random masking for data augmentation.** Adapting an NLP-style masking idea (Devlin et al., 2019), the authors generate augmented training copies by masking input features to "NaN" at varying probabilities α (0.1–0.9), preserving the logical dependencies of tabular solution data while [[simulating-students|simulating students]] who provide partial answers—outperforming interpolation approaches like SMOTE that would violate CFQ structure.
 
-- **XGBoost solution diagnosis backbones.** Each CFQ gets its own dedicated multi-label classification backbone mapping intermediate and final numerical answers (X) to instructor rubric mistake labels (Y). The model diagnoses mistakes from submitted numbers alone, bypassing access to full written solutions, and achieves an average precision of 0.81, recall of 0.79, and accuracy of 0.65.
+- **XGBoost solution diagnosis backbones.** Each CFQ gets its own dedicated multi-label classification backbone mapping intermediate and final numerical answers (X) to instructor [[rubrics|rubric]] mistake labels (Y). The model diagnoses mistakes from submitted numbers alone, bypassing access to full written solutions, and achieves an average precision of 0.81, recall of 0.79, and accuracy of 0.65.
 
 - **Intermediate answers and augmentation improve diagnosis.** Ablation experiments (five-fold CV, paired t-tests) show that training and testing with both intermediate and final answers yields the best performance, and that random-masking augmentation significantly improves results over full-features-only training. Training on only final answers gives good but not best results and is more straightforward to collect.
 
@@ -36,7 +36,7 @@ discipline: [engineering education]
 ## What this means for practice
 
 - **Instructors.** Start each feedback dialogue with the final answer and request intermediate answers only when the model's confidence falls below the 0.8 threshold, which preserves students' own solution approaches while reducing false positives.
-- **[[educational-technology-developers|EdTech designers]].** Augment small, imbalanced rubric datasets with random masking rather than interpolation such as SMOTE, which would violate the logical dependencies of calculated-formula solutions while masking at probabilities from 0.1 to 0.9 preserves them.
+- **Educational technology developers.** Augment small, imbalanced rubric datasets with random masking rather than interpolation such as SMOTE, which would violate the logical dependencies of calculated-formula solutions while masking at probabilities from 0.1 to 0.9 preserves them.
 - **Instructors.** Keep collecting intermediate answers during grading: models trained and tested on intermediate plus final answers outperformed those using final answers alone, which matters most for the less frequent mistakes.
 - **EdTech designers.** Budget for per-question models and course expertise — each calculated formula question needs its own XGBoost backbone and a careful identification of critical intermediate answers before deployment.
 - **Instructors.** Disclose the system's limits inside the course, as this deployment did by informing students of Arthur's limitations, enabling feedback uploads to improve the system, and offering office hours for clarification.

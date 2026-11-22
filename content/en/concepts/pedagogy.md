@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:23:33-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -46,6 +46,7 @@ Individual teaching strategies and pedagogies form a rich set, organized into fa
 [[research-methods-aied|Research]] examines pedagogy at the intersection of AI and teaching in several ways:
 
 - **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse|reducing AI misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reframe this role formally: rather than a dyadic instructor–[[student-modeling|student model]] with GenAI as an external supplement or threat, they propose a nested **instructor–student–GenAI triadic model** in which GenAI operates as a bounded *didactic-pedagogical mediator* within a shared didactic mediation space governed by institutions and stakeholders — yielding five researchable propositions on learning mediation, instructor-role transformation, AI literacy and learner agency, AI-transparent [[process-oriented-assessment|process-oriented assessment]], and institutional [[governance|governance]].
+- **Grounding is structural, not stylistic.** Across 25,795 generated instructional-design scenarios in [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]], agents combining classical ISD frameworks with reasoning outperformed both theory-only and technique-only configurations, showing that pedagogical grounding is an architectural advantage rather than a prompting style.
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
 - **Pedagogical knowledge outweighs technical knowledge.** Across 46 teachers and 2,832 students, teacher pedagogical AI knowledge predicted students' perceptions of AI for social good and their intention to learn AI, while technical knowledge alone was insufficient — and neither predicted students' AI knowledge ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **Offloading administrative work is where AI contributes most clearly.** A PRISMA review of 28 studies found AI most often enhanced instructional planning and [[assessment|assessment design]], with its most reported benefit the automation of grading, feedback and progress monitoring (18 studies, 64.2%) — while pedagogical alignment was the most cited challenge (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).

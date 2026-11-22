@@ -1,4 +1,4 @@
----
+
 title: Student Evaluation of Repeated AI Feedback Across a Semester of Writing
 created: "2026-07-20T04:33:04-04:00"
 updated: "2026-09-20T03:44:50-04:00"
@@ -23,7 +23,7 @@ The study surfaces the central tension in [[cognitive-offloading|Over-Reliance]]
 
 - **Learners.** Evaluate the feedback instead of accepting it: appraisals shifted over the semester from general acceptance to identifying generic advice, mismatch with the essay and misreadings, so judge each comment for relevance, trustworthiness and [[usability-research|usability]].
 - **Learners.** Give the tool the essay context that makes advice specific: prompt-level grounding reduced generic-advice complaints but did not settle judgments about accuracy, tone or actionability, so test advice against your own text.
-- **Learners.** Record which feedback you accept or reject and why: the study captured cohort-level appraisals, not whether individual students became better evaluators, and the completion-oriented rubric made full credit easy to obtain without revision.
+- **Learners.** Record which feedback you accept or reject and why: the study captured cohort-level appraisals, not whether individual students became better evaluators, and the completion-oriented [[rubrics|rubric]] made full credit easy to obtain without revision.
 - **Learners.** Do the reflective work yourself: descriptive reflection depth did not change across the semester, and roughly a third of essays were classified as likely generated writing - including 51% of those coded as dialogic or critical reflection.
 
 ## Limitations

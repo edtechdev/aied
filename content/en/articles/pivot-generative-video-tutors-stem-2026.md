@@ -1,4 +1,4 @@
----
+
 title: "From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning"
 created: "2026-09-22T09:22:13-04:00"
 updated: "2026-09-22T09:22:13-04:00"
@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** PIVOT treats the [[video-education|instructional video]] as something to be verified and assessed rather than merely rendered. Its three stages wrap [[generative-ai|generative AI]] output in a pedagogy-structured storyboard, a [[multimodal|multimodal]] verification harness, and misconception-aware remediation before a learner ever sees the result. Across 40 STEM topics spanning four domains, PIVOT scored 7.58 on a 10-point frame-level video rubric against 6.62 and 6.20 for two code-centric baselines, and 0.89 on narration quality. In expert evaluation, 96.9% of 32 instructors said the video → quiz → remediation workflow worked better than an instructional video alone, which is the paper's real claim: [[pedagogy|pedagogical]] structure, not rendering fidelity, is what makes generated video teach.
+> **Synthesis:** PIVOT treats the [[video-education|instructional video]] as something to be verified and assessed rather than merely rendered. Its three stages wrap [[generative-ai|generative AI]] output in a pedagogy-structured storyboard, a [[multimodal|multimodal]] verification harness, and misconception-aware remediation before a learner ever sees the result. Across 40 STEM topics spanning four domains, PIVOT scored 7.58 on a 10-point frame-level video [[rubrics|rubric]] against 6.62 and 6.20 for two code-centric baselines, and 0.89 on narration quality. In expert evaluation, 96.9% of 32 instructors said the video → quiz → remediation workflow worked better than an instructional video alone, which is the paper's real claim: [[pedagogy|pedagogical]] structure, not rendering fidelity, is what makes generated video teach.
 
 ## Key Findings
 1. **Pedagogy-guided planning beats content-only generation.** PIVOT's storyboards are built from learning objectives, prerequisite activation, stepwise explanations, visual plans, worked examples and diagnostic probes, and its videos reached an overall 7.58 out of 10 against 6.62 (TheoremExplainAgent) and 6.20 (Code2Video).

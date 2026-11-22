@@ -1,4 +1,4 @@
----
+
 title: "Amid an Epistemic Iteration: How AI Methodologies May Transform the Nature of Science Education Research"
 created: "2026-10-05T10:22:00-04:00"
 updated: "2026-10-05T10:22:00-04:00"
@@ -45,7 +45,7 @@ The authors sketch parallel stages for analyzing student learning, following Coo
 
 Each phase carries a definition, a thermometry example, a student-learning example, and guiding questions (Fig. 1); a closing figure summarizes the potential transformations (Fig. 2).
 
-**Problem framing.** Instruments change what researchers consider observable. Before thermometers, warmth and cold resisted systematic comparison; thermometry helped redefine what counted as a legitimate object of inquiry. AI methodologies may expand the range of analyzable data, including written, spoken, or [[multimodal|multimodal]] records across extended periods, and may surface overlooked aspects of learning. Yet they do not remove the need for theory: constructs, coding rubrics, and training data remain human decisions, and rubrics should be fixed before automated analyses run.
+**Problem framing.** Instruments change what researchers consider observable. Before thermometers, warmth and cold resisted systematic comparison; thermometry helped redefine what counted as a legitimate object of inquiry. AI methodologies may expand the range of analyzable data, including written, spoken, or [[multimodal|multimodal]] records across extended periods, and may surface overlooked aspects of learning. Yet they do not remove the need for theory: constructs, coding [[rubrics|rubrics]], and training data remain human decisions, and rubrics should be fixed before automated analyses run.
 
 **Instrumentation and measurement.** Chang (2004) frames the nomic-measurement problem: measuring a quantity requires a law relating it to something observable, but that law cannot be tested empirically without already knowing the quantity. Word embeddings map open-ended student reasoning into high-dimensional semantic spaces. In supervised learning the measurement function is learned from labeled examples; unsupervised learning uncovers structure in unlabeled data. Either way the mapping from data to cognitive constructs emerges from the data and optimization rather than from the researcher. The authors argue this may intensify the nomic-measurement problem, because such functions can look precise and predictive while remaining epistemically opaque.
 

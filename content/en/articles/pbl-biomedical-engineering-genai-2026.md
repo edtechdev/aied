@@ -1,4 +1,4 @@
----
+
 title: "Advancing problem-based learning in biomedical engineering in the era of generative AI"
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -14,13 +14,13 @@ confidence: medium
 audience: [curriculum designers, instructors, medical educators]
 ---
 
-> **Synthesis:** This article presents a modularized, implementation-ready [[problem-based-learning|problem-based learning]] (PBL) framework tailored to biomedical AI, positioning [[generative-ai|generative AI]] (GenAI) as a guarded knowledge-summarization and coding-support module rather than an answer engine. A three-year case study (2021–2023) across Georgia Tech and Emory University engaged 248 students in interdisciplinary teams on real biomedical AI problems, with GenAI governed by disclosure, source-anchoring, verification, and version-logging policies. The framework reframes GenAI as a [[scaffolding|scaffold]] that accelerates baseline learning and frees students for higher-order [[critical-thinking|critical thinking]] and innovation. A portable replication package (syllabi, milestones, rubrics, team procedures, and AI-usage templates) accompanies the design for adoption under variable resources.
+> **Synthesis:** This article presents a modularized, implementation-ready [[problem-based-learning|problem-based learning]] (PBL) framework tailored to biomedical AI, positioning [[generative-ai|generative AI]] (GenAI) as a guarded knowledge-summarization and coding-support module rather than an answer engine. A three-year case study (2021–2023) across Georgia Tech and Emory University engaged 248 students in interdisciplinary teams on real biomedical AI problems, with GenAI governed by disclosure, source-anchoring, verification, and version-logging policies. The framework reframes GenAI as a [[scaffolding|scaffold]] that accelerates baseline learning and frees students for higher-order [[critical-thinking|critical thinking]] and innovation. A portable replication package (syllabi, milestones, [[rubrics|rubrics]], team procedures, and AI-usage templates) accompanies the design for adoption under variable resources.
 
 ## Key Findings
 
 - **Modularized PBL+AI framework:** The design comprises four interdependent modules—problem formation via authentic biomedical problem briefs with curated deidentified datasets, AI-supported knowledge inquiry, [[problem-solving|problem-solving]] with robustness and reproducibility evaluation, and presentation through written reports, oral demos, and [[peer-assessment|peer assessment]].
-- **Grade distribution shift:** Post-integration cohorts (2021–2023) showed higher A-rates (66.4% vs. 39.1% control, Δ = +27.3 points, p = 0.042) and fewer low grades (6.1% vs. 22.4%), a trend that persisted after excluding the COVID-19-affected year (A-rate 67.4% vs. 39.1%, p = 0.0367).
-- **Coding fluency as an enabler:** Students with more coding experience performed better (exploratory OLS β ≈ +1.88 points per year, p = 0.022), suggesting foundational coding readiness enables productive GenAI use for ideation and code assistance.
+- **Grade distribution shift:** Post-integration cohorts (2021–2023) showed higher A-rates (66.4% vs. 39.1% control, a gap of 27.3 points) and fewer low grades (6.1% vs. 22.4%), a trend that persisted after excluding the COVID-19-affected year (A-rate 67.4% vs. 39.1%).
+- **Coding fluency as an enabler:** Students with more coding experience performed better in the exploratory model, suggesting foundational coding readiness enables productive GenAI use for ideation and code assistance.
 - **High [[research-methods-aied|research]] productivity:** Implementation-focused PBL yielded 16 student-authored peer-reviewed publications addressing biomedical AI problems (e.g., wearable COVID-19 detection, graph-based single-cell RNA severity classification, synthetic augmentation for transplant-rejection imaging).
 - **Strong teamwork outcomes:** Peer evaluations remained high across courses (BHI 89.8–94.6%, MIP 88.8–90.6%, biostatistics ~92–94%), indicating effective collaboration under AI-augmented PBL.
 - **Guardrailed AI use:** Approved institution-reviewed tools only (DeepSeek banned), no PII/PHI submitted, mandatory disclosure and validation logs, source-anchored literature claims, and code provenance comments preserved both transparency and PBL's learner-directed intent.

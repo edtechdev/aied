@@ -1,4 +1,4 @@
----
+
 title: "Academic erasure: The disappearance of complexity under AI-supported writing"
 created: "2026-08-26T05:52:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"
@@ -25,7 +25,7 @@ audience: [instructors, assessment designers]
 - **Two mechanisms drive it: epistemic delegation and epistemic singularity.** *Epistemic delegation* is the displacement of cognitive labor onto AI — bypassing the iterative work of formulating arguments, working through tensions, and synthesizing sources. *Epistemic singularity* is the resulting homogenization: disciplinary, cultural, and individual variation collapsing into a dominant AI-optimized register, trained on standardized English and mainstream discourse.
 - **Seven forms of erasure emerged from 49 educator posts:** (1) erasure of epistemic labor, (2) of authentic [[student-experience|student voice]], (3) of educator efficacy and [[well-being|well-being]], (4) of trust and epistemic certainty, (5) of traditional pedagogical methods, (6) of the human–AI distinction in learning infrastructure, and (7) erosion of institutional legibility.
 - **Educators bear an unacknowledged [[affective-computing|affective]] cost.** The corpus registers derealisation, grief, and burnout as educators police AI use — what the authors call affective labor at scale, worsened by inconsistent [[educational-policy-ai|institutional policy]] and the normalization of AI as infrastructure. The authors link this to [[automation-bias|automation bias]] and the instrumentalisation of higher education.
-- **Assessment culture makes AI use rational, not deviant.** Where rubrics reward fluency, polish, and citation over argumentation and intellectual risk, AI becomes the optimal response to the system's incentives. The authors therefore argue that treating AI use purely as misconduct individualizes a structural problem.
+- **Assessment culture makes AI use rational, not deviant.** Where [[rubrics|rubrics]] reward fluency, polish, and citation over argumentation and intellectual risk, AI becomes the optimal response to the system's incentives. The authors therefore argue that treating AI use purely as misconduct individualizes a structural problem.
 
 ## What this means for practice
 

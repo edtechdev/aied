@@ -1,4 +1,4 @@
----
+
 title: "Capacity and Disposition: A Framework for Understanding GenAI Engagement in Assessment Practice"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -54,17 +54,17 @@ The two axes are deliberately simple: time capacity from low to high, and dispos
 
 ## Applying the framework, and what it asks of leaders
 
-The framework is worked through ordinary assessment tasks — outcomes and [[curriculum-design|curriculum]] mapping, rubric development, [[qualitative-research|qualitative]] analysis, annual reporting and accreditation, faculty development, and student GenAI use — with each task answered differently depending on the condition. Its central claim for practice is that evidence quality, not report fluency, is the test: a rubric that reads well may not represent the intended construct, a summary of student comments may flatten important differences, and a GenAI-generated findings list may exaggerate patterns or miss discrepant cases, so fluent text still requires review before it can support an educational claim.
+The framework is worked through ordinary assessment tasks — outcomes and [[curriculum-design|curriculum]] mapping, [[rubrics|rubric]] development, [[qualitative-research|qualitative]] analysis, annual reporting and accreditation, faculty development, and student GenAI use — with each task answered differently depending on the condition. Its central claim for practice is that evidence quality, not report fluency, is the test: a rubric that reads well may not represent the intended construct, a summary of student comments may flatten important differences, and a GenAI-generated findings list may exaggerate patterns or miss discrepant cases, so fluent text still requires review before it can support an educational claim.
 
 For leaders, the first implication is to assess the conditions before judging the people, auditing workload so that GenAI does not become an excuse to do more low-value assessment faster. Leaders should create protected experimentation structures — GenAI assessment labs, prompt review sessions, summer pilot cohorts, internal mini-grants, cross-functional governance teams — each producing something reusable such as a tested workflow, a disclosure template, a risk matrix, or an item-review protocol. They should pair dispositions intentionally, putting someone who sees possibilities beside someone who sees risks, and they should normalize disclosure and risk tiering, matching oversight to consequence. The article closes with a five-part research agenda: survey work, longitudinal studies of movement between conditions, design-based evaluation of interventions, validation studies of specific workflows, and scholarship on the labor politics of who is asked to learn GenAI.
 
 ## What this means for practice
 
-- **[[teacher-role|teacher role]]** Audit the conditions before the people: ask whether an assessment professional or a colleague has protected time, approved tools, and policy clarity before treating low GenAI engagement as resistance.
+- **Instructors.** Audit the conditions before the people: ask whether an assessment professional or a colleague has protected time, approved tools, and policy clarity before treating low GenAI engagement as resistance.
 - **Instructors.** Reserve real time for validation rather than more production — a scheduled review of one generated outcome or rubric criterion beats an unfunded redesign of the reporting cycle.
 - **Assessment designers.** Write rubrics and outcomes so they can be examined against evidence: compare generated descriptors with actual student work and intended performance levels, and keep records of GenAI's contribution and the human review applied to it.
 - **Faculty developers.** Package GenAI work as repeated, job-embedded practice with a [[sociocultural-learning|community of practice]], because a single workshop can introduce vocabulary but cannot build judgment.
-- **[[administrator|administrator]]** Create risk tiers that match oversight to consequence, and recognize the labor of testing, documenting, and translating [[educational-policy-ai|GenAI policy]], or the institution benefits from innovation while denying its cost.
+- **Administrators.** Create risk tiers that match oversight to consequence, and recognize the labor of testing, documenting, and translating [[educational-policy-ai|GenAI policy]], or the institution benefits from innovation while denying its cost.
 
 ## Limitations
 

@@ -1,4 +1,4 @@
----
+
 title: "Peer and AI review + reflection (PAIRR): A human-centered approach to formative assessment"
 created: "2026-08-13T17:54:24-04:00"
 updated: "2026-09-19T10:23:54-04:00"
@@ -21,7 +21,7 @@ page_kind: [framework]
 
 - The majority of students (58%) preferred to receive feedback from both [[generative-ai|ChatGPT]] and peers, while 36% preferred peer feedback alone and only 6% preferred AI feedback alone — AI utility was experienced in the context of human feedback.
 - AI and peer feedback were often similar and mutually reinforcing: 75% of students reported similarities between peer and ChatGPT feedback, which they described as confirming and strengthening each other, increasing confidence in peer response.
-- When AI and peer feedback differed, they were complementary: AI feedback was often described as "overly general" (31%) but provided actionable revision strategies and rubric-driven feedback on organization, focus, and structure, while peer feedback was more specific and detailed (28%), drew on contextual knowledge of the course and assignment, and provided an authentic audience and emotional support.
+- When AI and peer feedback differed, they were complementary: AI feedback was often described as "overly general" (31%) but provided actionable revision strategies and [[rubrics|rubric]]-driven feedback on organization, focus, and structure, while peer feedback was more specific and detailed (28%), drew on contextual knowledge of the course and assignment, and provided an authentic audience and emotional support.
 - By evaluating AI outputs rather than taking them at face value, students developed [[ai-literacy|AI literacy]] — including learning [[ethics|ethical]] ways to use AI — while many asserted writerly agency in deciding whether to accept or reject feedback (only 5.3% of students demonstrated overconfidence in AI feedback).
 - Continued feedback conversations increased perceived utility: 35% of students continued a ChatGPT conversation, and 71% of those preferred combined feedback (vs. 50% who did not). [[self-efficacy|Self-efficacy]] did not predict continuation, and preferences did not differ statistically between small writing classes and large WI courses.
 

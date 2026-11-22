@@ -1,4 +1,4 @@
----
+
 title: "K-12 AI literacy frameworks after generative AI: A scoping review"
 created: "2026-11-01T09:09:38-05:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -43,7 +43,7 @@ source_depth: full text
 
 The protocol follows JBI scoping-review guidance and reports against PRISMA-ScR and PRISMA-S, with the protocol registered on OSF before screening. Four databases were searched on 15 January 2026 for English-language work published between January 2024 and December 2025: Academic Search Premier (55 records), Education Research Complete (70), Education Research Index (105), and Web of Science (90). Gray literature came from UNESCO, OECD, EDUCAUSE, Jisc, MIT, ACM SIGCSE and IEEE EDUCON, plus institutional repositories and the reference lists of included studies, adding 19 records for a total of 339.
 
-Removing 135 duplicates left 204 unique records. Two reviewers screened titles and abstracts independently and excluded 54. Of 150 reports read in full, 95 were excluded for lacking a framework structure, addressing teachers without student-facing expectations, or falling outside K-12, and three surviving duplicates were removed. The remaining 55 were scored against a purpose-built five-criterion checklist: grade bands, competencies, critical constructs such as bias and fairness, an assessment strategy, and classroom exemplars. Each criterion scored 1 for present, 0.5 for partial and 0 for absent; papers below 2 of 5 were dropped, leaving 50.
+Removing 135 duplicates left 204 unique records. Two reviewers screened titles and abstracts independently and excluded 54. Of 150 reports read in full, 95 were excluded for lacking a framework structure, addressing teachers without student-facing expectations, or falling outside K-12, and three surviving duplicates were removed. The remaining 55 were scored against a purpose-built five-criterion checklist: grade bands, competencies, critical constructs such as bias and fairness, an assessment strategy, and classroom [[rubrics|exemplars]]. Each criterion scored 1 for present, 0.5 for partial and 0 for absent; papers below 2 of 5 were dropped, leaving 50.
 
 A standardized matrix captured bibliographic data, country, study type, grade-band organization, competencies, critical constructs, progression model, assessment, feasibility evidence and checklist score. One reviewer charted and a second checked entries. Synthesis was narrative and organized by the five research questions.
 

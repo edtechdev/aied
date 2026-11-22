@@ -1,4 +1,4 @@
----
+
 title: "Preparing students for AI-powered materials discovery: A workflow-aligned framework for AI literacy, equity, and scientific judgment"
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -24,7 +24,7 @@ The framework also touches on [[metacognition|metacognition]] — students need 
 
 ## What this means for practice
 
-- **Instructors.** Grade scientific judgment rather than code completion: use a 0–2 rubric scoring data provenance, descriptor justification, model validation, uncertainty reporting, physics-informed reasoning, reproducibility, and [[ethics|ethics]]/equity awareness instead of asking only whether the notebook runs.
+- **Instructors.** Grade scientific judgment rather than code completion: use a 0–2 [[rubrics|rubric]] scoring data provenance, descriptor justification, model validation, uncertainty reporting, physics-informed reasoning, reproducibility, and [[ethics|ethics]]/equity awareness instead of asking only whether the notebook runs.
 - **Instructors.** Have students build a leaky benchmark and then repair it — the framework's Assignment B has them construct a naive random split that inflates performance, expose the leakage from near-duplicate compositions, and re-evaluate with grouped splits justified by chemical system.
 - **Learners.** Document where every dataset came from and why a representation is physically meaningful before reporting a model result; in materials informatics the scarce competence is judgment about AI predictions and their uncertainty, not the predictions themselves.
 - **Instructors.** Adopt the eight-week materials-informatics module sequence incrementally inside existing courses, bootcamps, or workshop formats rather than waiting for program-level reform.

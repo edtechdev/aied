@@ -1,4 +1,4 @@
----
+
 title: "LLMs Do Not Grade Essays Like Humans"
 created: "2026-08-14T23:36:44-04:00"
 updated: "2026-09-19T10:03:37-04:00"
@@ -26,7 +26,7 @@ Across several GPT (3.5/4/5) and Llama (2/3/4) models, agreement between [[autom
 
 ## Internal Consistency of Scores and Feedback
 
-[[automated-essay-scoring|LLM-generated scores]] are generally consistent with the feedback they produce: essays receiving more praise tend to receive higher scores, and essays receiving more criticism tend to receive lower scores. This suggests models follow coherent internal criteria when evaluating essays — even though those criteria differ from human raters' implicit standards. Different LLMs also rely on different subsets of rubric traits, partly explaining the variability in grading behavior across models.
+[[automated-essay-scoring|LLM-generated scores]] are generally consistent with the feedback they produce: essays receiving more praise tend to receive higher scores, and essays receiving more criticism tend to receive lower scores. This suggests models follow coherent internal criteria when evaluating essays — even though those criteria differ from human raters' implicit standards. Different LLMs also rely on different subsets of [[rubrics|rubric]] traits, partly explaining the variability in grading behavior across models.
 
 ## What this means for practice
 

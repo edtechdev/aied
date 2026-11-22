@@ -1,4 +1,4 @@
----
+
 title: "The Integration of Generative Artificial Intelligence into Tertiary Health Education: A Scoping Review"
 created: "2026-11-07T10:06:57-05:00"
 updated: "2026-11-07T14:15:00-05:00"
@@ -74,7 +74,7 @@ That recommendation outruns the evidence in an important way. Two studies engage
 - **Instructors.** Use GenAI for formative rehearsal and first-pass feedback, and keep summative judgment and item review with faculty; one trial finds parity on routine questions and expert advantage on nuanced cases.
 - **Curriculum designers.** Attach prompt writing and verification training to the clinical activity itself, since three studies trace dissatisfaction and error to prompt quality and none of the included programs reports formal literacy training.
 - **Administrators.** Restrict any activity involving patient scenarios or student work to approved, contractually governed platforms; public tools were the recurring privacy exposure in the simulated-patient studies.
-- **Faculty developers.** Build a validation step into every AI-generated item, rubric, or feedback template before it reaches students, and document who reviewed it.
+- **Faculty developers.** Build a validation step into every AI-generated item, [[rubrics|rubric]], or feedback template before it reaches students, and document who reviewed it.
 - **Researchers.** Measure competence, behavior, and longitudinal outcomes rather than satisfaction, and extend designs to nursing and allied health, where the evidence is one study per discipline.
 
 ## Limitations

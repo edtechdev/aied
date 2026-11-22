@@ -1,4 +1,4 @@
----
+
 title: "Automatic Reflection Level Classification in Hungarian Student Essays"
 created: "2026-09-27T07:21:21-04:00"
 updated: "2026-10-02T07:31:21-04:00"
@@ -38,7 +38,7 @@ reviewed_by: [editor]
 
 ## Why reflective writing is hard to score at scale
 
-Reflective thinking is named as a core competency in international frameworks such as the Tuning project, the OECD Learning Compass 2030 and the EU Key Competences. Reflective essays make that process visible and can be assessed by teachers with rubrics, but the evaluation is manual, hard to scale and subjective. Earlier work classified reflection automatically in several settings: Ullmann (2019) reached 70% to 90% accuracy over 76 student essays (Cohen's K = 0.53-0.85), roughly 10% below manual annotation, and Alrashidi et al. (2022) reached 75% to 96% over 74 essays and 1,113 annotated sentences. That work concentrates mainly on English, German or multilingual corpora. Hungarian, a morphologically rich language, had not been studied extensively at document level, and closing that gap is the point of this study.
+Reflective thinking is named as a core competency in international frameworks such as the Tuning project, the OECD Learning Compass 2030 and the EU Key Competences. Reflective essays make that process visible and can be assessed by teachers with [[rubrics|rubrics]], but the evaluation is manual, hard to scale and subjective. Earlier work classified reflection automatically in several settings: Ullmann (2019) reached 70% to 90% accuracy over 76 student essays (Cohen's K = 0.53-0.85), roughly 10% below manual annotation, and Alrashidi et al. (2022) reached 75% to 96% over 74 essays and 1,113 annotated sentences. That work concentrates mainly on English, German or multilingual corpora. Hungarian, a morphologically rich language, had not been studied extensively at document level, and closing that gap is the point of this study.
 
 ## How the 1,954-essay corpus was built
 

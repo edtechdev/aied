@@ -1,4 +1,4 @@
----
+
 title: "AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake"
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-19T10:03:37-04:00"
@@ -20,19 +20,19 @@ confidence: high
 
 - **AIFL is a measurable, two-dimensional construct.** The 16-item AIFL scale (Attitudes and Practices subscales) showed strong psychometric properties: Cronbach's alpha 0.78–0.85, composite reliability above 0.70, AVE above 0.50 (0.52–0.60), and factor loadings of 0.58–0.83, supporting convergent validity and construct integrity.
 
-- **AIFL predicts feedback uptake both directly and indirectly.** The total effect of AIFL on uptake was significant (β = 0.42, p < 0.001), with a still-significant direct effect after adding mediators (β = 0.28, p < 0.001), indicating partial mediation. AIFL raised perceived value and lowered perceived cost, which in turn positively and negatively predicted uptake respectively; both bootstrapped indirect effects were significant.
+- **AIFL predicts feedback uptake both directly and indirectly.** The total effect of AIFL on uptake was significant, with a still-significant direct effect after adding mediators, indicating partial mediation. AIFL raised perceived value and lowered perceived cost, which in turn positively and negatively predicted uptake respectively; both bootstrapped indirect effects were significant.
 
-- **Behavioral engagement outweighs attitudes.** In a multiple regression explaining 46% of variance in uptake (R² = 0.46), perceived value was the strongest predictor (β = 0.32), followed by AIFL-Practices (β = 0.27), while AIFL-Attitudes was non-significant (β = 0.08, p = 0.091). The authors interpret this as evidence that feedback literacy develops through [[embodied-learning|embodied]], [[situated-learning|situated]] practice rather than belief alone.
+- **Behavioral engagement outweighs attitudes.** In a multiple regression explaining most of the variance in uptake, perceived value was the strongest predictor, followed by AIFL-Practices, while AIFL-Attitudes was non-significant. The authors interpret this as evidence that feedback literacy develops through [[embodied-learning|embodied]], [[situated-learning|situated]] practice rather than belief alone.
 
 - **Value matters more than cost.** Perceived value was a stronger predictor of uptake than perceived cost, aligning with self-determination theory accounts in which value appraisals connect to autonomous motivation; the authors argue for designing feedback experiences that raise perceived relevance and learning value.
 
-- **AIFL is shaped by use, not demographics.** Only frequency of AI tool use significantly predicted AIFL (β = 0.29, p < 0.001); neither academic major nor year of study mattered. This shifts the equity conversation from individual disposition to structural access, warning that integration of [[ai-feedback-quality|AI feedback]] could widen [[ai-literacy|digital literacy]] gaps for students with less exposure.
+- **AIFL is shaped by use, not demographics.** Only frequency of AI tool use significantly predicted AIFL; neither academic major nor year of study mattered. This shifts the equity conversation from individual disposition to structural access, warning that integration of [[ai-feedback-quality|AI feedback]] could widen [[ai-literacy|digital literacy]] gaps for students with less exposure.
 
-- **High-AIFL students differ meaningfully.** Median-split comparisons showed high-AIFL students had significantly higher uptake (d = 0.80), higher perceived value (d = 0.64), and lower perceived cost (d = 0.60) than low-AIFL peers.
+- **High-AIFL students differ meaningfully.** Median-split comparisons showed high-AIFL students had significantly higher uptake, higher perceived value, and lower perceived cost than low-AIFL peers.
 
 ## What this means for practice
 
-- **Instructors.** Require students to act on AI feedback — revising drafts, comparing their work against rubrics, discussing it with peers — rather than only acknowledging it, because behavioral engagement predicted uptake while attitudes alone did not.
+- **Instructors.** Require students to act on AI feedback — revising drafts, comparing their work against [[rubrics|rubrics]], discussing it with peers — rather than only acknowledging it, because behavioral engagement predicted uptake while attitudes alone did not.
 - **Instructors.** Remain the critical mediator of automated input: model reflective interpretation of AI feedback and protect relational trust instead of ceding assessment to the tool.
 - **Administrators.** Scaffold and broaden access to AI-mediated feedback for students unlikely to engage with it autonomously, since frequency of AI tool use — not major, year of study, or demographics — was what predicted [[feedback-literacy|feedback literacy]].
 - **Administrators.** Design feedback environments that raise perceived value and lower perceived cost: value was the strongest single predictor of uptake in the regression model.

@@ -1,4 +1,4 @@
----
+
 title: "ChatGPT as a Cognitive Tool in Sociology: Students' Perceptions and Its Impact on Academic Writing Practices"
 created: "2026-11-17T05:40:00-05:00"
 updated: "2026-11-17T05:40:00-05:00"
@@ -45,14 +45,14 @@ Where the interviews turn is accuracy. Several students reported that the theore
 
 ## What this means for practice
 
-- **Instructors:** teach the planning use explicitly. Outlining, sequencing and reformulating are the uses students already converge on, and they are the uses that leave the argument with the student.
-- **Instructors:** make the verification step an assessed one. Students in this sample verified theory on their own initiative; the ones who did not had no way to know the explanation was wrong.
-- **Curriculum designers:** put the discipline's own standards into the AI literacy component — which theorist, which tradition, which reading — rather than generic "check the facts" advice.
-- **Instructors:** the voice worry is a real signal. Ask for a reflective note on what the student changed in AI-assisted drafts, which converts an unspoken anxiety into evidence of judgment.
+- **Instructors.** teach the planning use explicitly. Outlining, sequencing and reformulating are the uses students already converge on, and they are the uses that leave the argument with the student.
+- **Instructors.** make the verification step an assessed one. Students in this sample verified theory on their own initiative; the ones who did not had no way to know the explanation was wrong.
+- **Curriculum designers.** put the discipline's own standards into the AI literacy component — which theorist, which tradition, which reading — rather than generic "check the facts" advice.
+- **Instructors.** the voice worry is a real signal. Ask for a reflective note on what the student changed in AI-assisted drafts, which converts an unspoken anxiety into evidence of judgment.
 
 ## Limitations
 
-One Indonesian sociology program, 18 students, self-selected into interviews, with qualitative coding by a single author. The writing comparison was not blind, and "clearer organization" was judged by the research team rather than external raters or a rubric with reliability data. Recall of use is retrospective. The journal and the study are outside the main English-language sociology-education literature, so the sample's institutional context is described only briefly.
+One Indonesian sociology program, 18 students, self-selected into interviews, with qualitative coding by a single author. The writing comparison was not blind, and "clearer organization" was judged by the research team rather than external raters or a [[rubrics|rubric]] with reliability data. Recall of use is retrospective. The journal and the study are outside the main English-language sociology-education literature, so the sample's institutional context is described only briefly.
 
 ## Citation
 

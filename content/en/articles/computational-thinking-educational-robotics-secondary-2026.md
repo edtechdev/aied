@@ -1,4 +1,4 @@
----
+
 title: "Computational thinking to enhance educational robotics in secondary school's curriculum"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-10-16T14:32:42-04:00"
@@ -34,7 +34,7 @@ This is a **conceptual/literature-analysis paper** (not an empirical study). It 
 - **Curriculum designers.** Use the paper's curricular adaptation table to assess one aspect at a time — CT knowledge, practice, or perspective, or a specific competency — while still reporting against official curriculum content.
 - **Educators.** Make computational thinking concepts explicit in robotics activities so that robots serve genuine learning goals rather than isolated technical exercises.
 - **Educators.** Embed robotics and CT activities in [[project-based-learning|project-based learning]], which the paper recommends as a basic methodology for the STEM/STEAM environment.
-- **Assessment designers.** Extend the adaptation proposal with a rubric that defines degrees of acquisition for every item, since the worked example does not evaluate all items or weight them equally.
+- **Assessment designers.** Extend the adaptation proposal with a [[rubrics|rubric]] that defines degrees of acquisition for every item, since the worked example does not evaluate all items or weight them equally.
 
 ## Limitations
 

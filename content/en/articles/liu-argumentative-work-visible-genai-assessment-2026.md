@@ -1,4 +1,4 @@
----
+
 title: "Making argumentative work visible in GenAI-mediated assessment: An exploratory LLM simulation and questionnaire study in university ideological and political education"
 created: "2026-11-01T08:06:18-05:00"
 updated: "2026-11-04T16:51:25-05:00"
@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** If polished prose no longer evidences the argumentative work behind it, the assignment has to require that work in the open. This study crossed three task formats — position essay, evidence-integration memorandum, and follow-up-and-revision [[writing-education|defense]] — with three [[generative-ai|AI-use]] scenarios, had a model produce 148 texts under each combination, and scored them on five features of argumentative composition. The scenario mattered most: texts written under disclosure, verification and revision instructions averaged 3.32 on the rubric against 2.67 for simulated no-AI writing. Task format decided which argumentative feature was available at all — position essays averaged 2.63, memoranda 3.16 and defenses 3.10.
+> **Synthesis:** If polished prose no longer evidences the argumentative work behind it, the assignment has to require that work in the open. This study crossed three task formats — position essay, evidence-integration memorandum, and follow-up-and-revision [[writing-education|defense]] — with three [[generative-ai|AI-use]] scenarios, had a model produce 148 texts under each combination, and scored them on five features of argumentative composition. The scenario mattered most: texts written under disclosure, verification and revision instructions averaged 3.32 on the [[rubrics|rubric]] against 2.67 for simulated no-AI writing. Task format decided which argumentative feature was available at all — position essays averaged 2.63, memoranda 3.16 and defenses 3.10.
 
 ## Key Findings
 

@@ -1,4 +1,4 @@
----
+
 title: "Reconsidering the use of oral exams and assessments: An old way to move into a new future"
 created: "2026-08-19T17:10:00-04:00"
 updated: "2026-09-23T08:37:10-04:00"
@@ -29,7 +29,7 @@ This is a **review/essay** (not an empirical study) in *Educational [[research-m
 - **Instructors.** Publish the schedule, criteria, and question style in advance and give students a practice run at the format — unfamiliarity, not the format itself, drives much of the reported anxiety, and students were less anxious in later oral assessments once they knew what to expect (Roecker, 2007).
 - **Instructors.** Weight the assessment toward explaining and reasoning rather than recall: because the format is a dialogue, it tests comprehension and lets students demonstrate problem-solving and communication skills that written exams with static answers miss (Gaudet, 2015; Sayre, 2014).
 - **Instructors.** Add oral assessment alongside [[ai-detection|AI detection]] rather than instead of it: it is a low-tech, human-centered complement that makes unauthorized AI use impractical because answers are constructed live.
-- **Assessment designers.** Build a clear rubric keyed to levels of mastery for the skill being assessed, plus a bank of questions linked to each learning objective, so every student faces a comparable task, and consider online delivery, which cuts travel time and cost for students and educators and keeps recordings available for reviewing fail grades (Starr-Egger, 2023).
+- **Assessment designers.** Build a clear [[rubrics|rubric]] keyed to levels of mastery for the skill being assessed, plus a bank of questions linked to each learning objective, so every student faces a comparable task, and consider online delivery, which cuts travel time and cost for students and educators and keeps recordings available for reviewing fail grades (Starr-Egger, 2023).
 - **Assessment designers.** Train assessors on a shared [[prompt-engineering|prompting]] taxonomy (presenting the task, repeating information, clarifying, probing, leading) and on reflexivity, then prepare carefully for fairness: gender, ethnicity, language, speed of answering, and non-anonymous marking are all potential bias sources, while the format can still accommodate students with dyslexia (Akimov & Malin, 2020).
 
 ## Limitations

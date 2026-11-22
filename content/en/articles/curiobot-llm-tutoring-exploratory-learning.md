@@ -1,4 +1,4 @@
----
+
 title: "Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior"
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
@@ -17,7 +17,7 @@ audience: [researchers, instructional designers]
 ## What this means for practice
 
 - **Designers.** Treat curiosity as a sequencing problem, not a standing instruction. The strongest curiosity score gains followed transitions out of uncertainty — especially toward novelty and conflict — while repeated application of the same operator trended neutral or negative.
-- **Designers.** Instrument the learner side of a tutor separately from tutor-side quality. CURIOBOT improved exploratory questioning (L1: +21–32%), learner curiosity (L3: +26–35%), and conversational agency (L4: +30–34%) even where tutor-side instructional quality and cognitive load management declined significantly, so a tutor-side rubric alone will miss real learner gains.
+- **Designers.** Instrument the learner side of a tutor separately from tutor-side quality. CURIOBOT improved exploratory questioning (L1: +21–32%), learner curiosity (L3: +26–35%), and conversational agency (L4: +30–34%) even where tutor-side instructional quality and cognitive load management declined significantly, so a tutor-side [[rubrics|rubric]] alone will miss real learner gains.
 - **Researchers.** Use LLM-mediated dialogue as an experimental setting: 270 conversations across three model families, three domains, and three complexity levels let the design isolate conversational framing from content while holding time-on-task fixed.
 - **Designers.** Equalize time-on-task before comparing dialogue designs. Interaction duration scaled with complexity — 10 minutes at low, 20 at medium, 30 at high — with 120 minutes of total interaction per participant, which is what makes the roughly 2.4× increase in conversational turns interpretable.
 

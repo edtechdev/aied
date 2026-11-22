@@ -1,4 +1,4 @@
----
+
 title: "Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment"
 created: "2026-08-15T15:16:58-04:00"
 updated: "2026-09-19T10:03:37-04:00"
@@ -23,7 +23,7 @@ methods: [ai-ed-evaluation, benchmark]
 - **No model was uniformly reliable** across repeated evaluations or across TEACH elements. Mean SD ranged 0.20 (claude-haiku) to 0.52 (gemini-2.5-flash); mean entropy 0.36 to 0.85. Social & Collaborative Skills was the only element where all 8 models reached "good"/"excellent" ICC (≥0.75); Positive Behavior Expectations, Lesson Facilitation, and Perseverance had no model above threshold.
 - **Expert agreement was moderate at best.** grok-4-0709 led with exact agreement 0.55 and the lowest error (MAE 0.55); no model exceeded 55% exact agreement. claude-haiku was most stable but among the weakest against experts (EA 0.31, MAE 0.95).
 - **Reliability and accuracy decoupled:** stable models did not align better with experts, and expert-aligned models were often more variable. Reliability is a prerequisite for, not a guarantee of, valid interpretation.
-- **Explicit-cue bias:** LLMs privileged explicit, textually recoverable verbal behaviors and defaulted to low scores when behavioral directives were absent, even where the rubric allows high ratings on sustained student [[self-regulated-learning|self-regulation]] (e.g. Positive Behavior Expectations) — producing systematic rather than random disagreement.
+- **Explicit-cue bias:** LLMs privileged explicit, textually recoverable verbal behaviors and defaulted to low scores when behavioral directives were absent, even where the [[rubrics|rubric]] allows high ratings on sustained student [[self-regulated-learning|self-regulation]] (e.g. Positive Behavior Expectations) — producing systematic rather than random disagreement.
 
 ## What this means for practice
 

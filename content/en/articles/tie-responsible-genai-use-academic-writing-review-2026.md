@@ -1,4 +1,4 @@
----
+
 title: "Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps"
 published: "2026-10-21"
 created: "2026-10-28T12:23:31-04:00"
@@ -48,7 +48,7 @@ The conceptual finding is that a practice changes category with the assignment i
 
 ## Where the chain breaks, and what the corpus cannot support
 
-Only four studies define a boundary, design an intervention around it and test whether decisions aligned (Bilikozen, 2024; Chehak, 2025; Judson, 2025; Wan, 2025). Evaluation concentrates on confidence, understanding and stated intention; direct writing measures appear in only two studies, Fadhly (2026) with pre-post rubric scores and Schrepel (2026) with legal redrafting comparisons, and Carter's (2025) reported gains in clarity rested on instructor observation. Transparency, authorship and privacy are widely endorsed and rarely evaluated, so the corpus cannot say whether [[ai-use-disclosure|disclosure]] produces transparency or compliance. The Contested category is thin: its three declaration records all come from Wu et al. (2026) and its single editing record from Sullivan et al. (2024). [[discipline-specific-aied|Discipline-specific]] evidence is thin: 22 of 31 studies were mixed-disciplinary, and nothing follows students over time or across tasks.
+Only four studies define a boundary, design an intervention around it and test whether decisions aligned (Bilikozen, 2024; Chehak, 2025; Judson, 2025; Wan, 2025). Evaluation concentrates on confidence, understanding and stated intention; direct writing measures appear in only two studies, Fadhly (2026) with pre-post [[rubrics|rubric]] scores and Schrepel (2026) with legal redrafting comparisons, and Carter's (2025) reported gains in clarity rested on instructor observation. Transparency, authorship and privacy are widely endorsed and rarely evaluated, so the corpus cannot say whether [[ai-use-disclosure|disclosure]] produces transparency or compliance. The Contested category is thin: its three declaration records all come from Wu et al. (2026) and its single editing record from Sullivan et al. (2024). [[discipline-specific-aied|Discipline-specific]] evidence is thin: 22 of 31 studies were mixed-disciplinary, and nothing follows students over time or across tasks.
 
 None of this licenses an effectiveness claim. "Implemented and evaluated" means some evaluation was reported, often of a program rather than a component; no study was appraised for risk of bias; and the 16 joint records cannot carry a student-versus-staff comparison. Nor does it test whether two instructors applying the six principles would reach the same verdict, which is what a decision aid needs.
 

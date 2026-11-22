@@ -1,4 +1,4 @@
----
+
 title: "Instructional Governance by Design: A Framework for AI in Computing Education"
 created: "2026-09-24T09:35:17-04:00"
 updated: "2026-09-24T09:35:17-04:00"
@@ -32,7 +32,7 @@ source_depth: full text
 ## Key Findings
 1. **Six dimensions define a governance profile.** Pedagogical grounding, AI instructional authority, human accountability and control, learner agency and cognitive engagement, context and boundary setting, and evaluation visibility are separable dimensions, not a strict-to-permissive continuum.
 2. **Governance fit, not strictness, decides.** A forum assistant drafting the official course voice needs staff approval and edit traces; a reflection assistant is best governed by pedagogical grounding and learner agency.
-3. **Instructional artifacts carry governance.** Rubrics, objectives, scenario banks, and style guides predate the AI and encode local values: GLOW anchors on an office-hour conversation rubric, CodeStylist on a course style guide.
+3. **Instructional artifacts carry governance.** [[rubrics|Rubrics]], objectives, scenario banks, and style guides predate the AI and encode local values: GLOW anchors on an office-hour conversation rubric, CodeStylist on a course style guide.
 4. **Workflow placement is a governance mechanism.** BoilerTAI treats staff approval as the core workflow between drafting and publication; BoilerSketch places TA supervision around diagrams because visuals can look authoritative while encoding a [[misconceptions|misconception]].
 5. **Learner role design preserves agency.** Owlgorithm makes AI a reflection generator through [[self-regulated-learning|self-regulated learning]] prompts; CodeStylist keeps revision under student control; AI-Lab makes GenAI an object of critique.
 6. **External tools confirm distinct mechanisms.** CodeHelp and CodeAid govern through guarded assistance boundaries, CodeTailor through task transformation into Parsons puzzles, BISCUIT through interface mediation staging intent before executable output.

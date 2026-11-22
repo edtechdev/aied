@@ -1,4 +1,4 @@
----
+
 title: "AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI"
 created: "2026-09-24T09:35:29-04:00"
 updated: "2026-09-24T09:35:29-04:00"
@@ -30,7 +30,7 @@ source_depth: full text
 
 ## Key Findings
 1. **Attendance and interest were both flat and broad.** 118 registrants signed up and 73 joined (64 participants, nine working group members); no strategy drew even a fifth of the total, from 21 registrants down to 13.
-2. **Interest split almost evenly between two responses.** Redesigning what gets assigned drew 37 registrants; redesigning how work is verified or valued—[[oral-assessment|oral assessment]], rubrics, grading—drew 40.
+2. **Interest split almost evenly between two responses.** Redesigning what gets assigned drew 37 registrants; redesigning how work is verified or valued—[[oral-assessment|oral assessment]], [[rubrics|rubrics]], grading—drew 40.
 3. **Instructors have stopped relying on detection.** Participants reported many false positives from [[ai-detection|AI detectors]] and generated work often indistinguishable from human work, so critique moved into in-class and proctored settings.
 4. **Process evidence is collected but not graded.** Fairness-room participants were unanimous that they do not grade interaction logs, [[reflection|reflections]], or disclosure statements; the rubrics room objected that [[agentic-ai|agentic AI]] can invent a plausible process that never happened.
 5. **Scale is the binding constraint.** Oral assessment gives the strongest evidence of individual understanding and is the least scalable remedy proposed; the critique room raised it alongside 400-plus students and a handful of TAs.
@@ -49,11 +49,11 @@ Almost every remedy works at small scale and degrades at large scale. In-person 
 Participants described calibrating assignments against model capability and watching the calibration expire—a cybersecurity instructor's problems required genuine [[problem-solving|problem-solving]] seven or eight months earlier and are now simply solved. One facilitator estimated a shelf life of roughly one semester, and difficulty now partly reflects how well a student can write a prompt. The largest structural finding is that nearly every change was made by an individual instructor, in a single course, without institutional coordination; colleagues inside one department take opposite positions with nothing reconciling them, and the [[curriculum-design|curricular]] response the report argues for will not conclude in time to help students now enrolled.
 
 ## What this means for practice
-- **Apply the conditional rule first.** Where an outcome is genuinely compromised by AI use, move that outcome to a proctored, AI-free assessment rather than changing the format of your exam.
-- **Budget the grading time before adopting process evidence.** Participants collected [[ai-use-disclosure|disclosure]] statements and logs but would not stake a grade on them; treat them as [[metacognition|metacognitive]] prompts, not evidence.
-- **Stop buying detection.** Participants ruled out AI detectors on classroom experience: many false positives, and generated work is often indistinguishable from human work.
-- **Assume your AI-resistant assignment expires.** Calibrate difficulty against what students must decide, not against what models currently cannot do.
-- **Decide how you will scale before you pilot.** The only levers participants had implemented were distribution and sampling: calibrated TA pools, peer assessment capped at a fraction of the grade, calling a subset of students weekly.
+- **Assessment designers.** Apply the conditional rule first. Where an outcome is genuinely compromised by AI use, move that outcome to a proctored, AI-free assessment rather than changing the format of your exam.
+- **Instructors.** Budget the grading time before adopting process evidence. Participants collected [[ai-use-disclosure|disclosure]] statements and logs but would not stake a grade on them; treat them as [[metacognition|metacognitive]] prompts, not evidence.
+- **Instructors.** Stop buying detection. Participants ruled out AI detectors on classroom experience: many false positives, and generated work is often indistinguishable from human work.
+- **Instructors.** Assume your AI-resistant assignment expires. Calibrate difficulty against what students must decide, not against what models currently cannot do.
+- **Instructors.** Decide how you will scale before you pilot. The only levers participants had implemented were distribution and sampling: calibrated TA pools, peer assessment capped at a fraction of the grade, calling a subset of students weekly.
 
 ## Limitations
 - Participants were self-selected twice over—they registered for a workshop on adapting assessment, then chose their room—so educators convinced change is needed are over-represented.

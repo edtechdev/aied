@@ -1,4 +1,4 @@
----
+
 title: Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
@@ -50,7 +50,7 @@ When applied to the full dataset, the LLM confirmed the macroscopic trends, dete
 
 - **Instructors.** Use a custom-prompted [[llm|LLM]] to track [[computational-thinking|CT]] growth in large-enrollment courses: the model reproduced the human-coded trends when scaled across the full 936-student dataset of over 2,800 responses.
 - **Assessment professionals.** Validate automated scoring against human ground truth construct by construct before scaling it: agreement reached κ = 0.90 for Data Practices but fell to κ = 0.48 for Systems Thinking.
-- **Assessment professionals.** Do not read low automated agreement on an integrated construct as model failure — human raters were no more consistent on Systems Thinking (κ ≈ 0.48–0.51) — and instead rewrite the rubric to separate identifying system components from explaining their interactions.
+- **Assessment professionals.** Do not read low automated agreement on an integrated construct as model failure — human raters were no more consistent on Systems Thinking (κ ≈ 0.48–0.51) — and instead rewrite the [[rubrics|rubric]] to separate identifying system components from explaining their interactions.
 - **Instructors.** Check new items for [[assessment-validity|ceiling effects]] before interpreting flat growth: Modeling & Simulation showed d = 0.00 because pre-instruction means were already 1.62 out of 2, so the simulation-design prompt measured baseline knowledge rather than growth.
 - **Researchers.** Keep humans in the loop on complex constructs and retain periodically re-coded human subsamples (calibration reached only Fleiss' κ = 0.53) as a check on [[automated-assessment|automated]] drift.
 

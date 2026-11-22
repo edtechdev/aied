@@ -1,4 +1,4 @@
----
+
 title: "Confidence Estimation in Automatic Short Answer Grading with LLMs"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-20T03:43:02-04:00"
@@ -28,7 +28,7 @@ methods: [ai-ed-evaluation, benchmark]
 - **Designers.** Model dataset ambiguity explicitly — embed responses with a sentence encoder such as all-MiniLM-L6-v2, cluster them, and use within-cluster entropy — before setting an auto-grade threshold.
 - **Designers.** Fuse model-based signals with that aleatoric uncertainty through the Random Forest plus Platt scaling pipeline, which gave the best selective prediction and calibration on AUROC/AUARC and ECE/MCE/Brier.
 - **Designers.** Route by confidence rather than reviewing everything or trusting the model: high-confidence predictions can be auto-graded while low-confidence answers go to human review.
-- **Designers.** Recalibrate when the answer population or rubric changes, because the aleatoric component is a property of the dataset, not of the model.
+- **Designers.** Recalibrate when the answer population or [[rubrics|rubric]] changes, because the aleatoric component is a property of the dataset, not of the model.
 
 ## Limitations
 

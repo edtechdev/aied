@@ -1,4 +1,4 @@
----
+
 title: "Generative artificial intelligence in doctoral education: a participatory action research evaluation of the Dr. I.D.E.A. model"
 created: "2026-11-19T10:06:00-05:00"
 updated: "2026-11-19T10:06:00-05:00"
@@ -79,7 +79,7 @@ The model's transferable content is less the four-layer diagram than the routine
 - **One integrated sequence, one authentic task.** Research, AI-supported digital and creative-pedagogical competencies were exercised on the same object — a thesis chapter, a teaching design, a manuscript — rather than in separate workshops.
 - **Mandatory transfer to practice.** Each candidate adapted an AI-supported research or learning activity to one of their own courses and documented the redesign, implementation and reflection.
 - **Structured peer review with designated academic discussants**, giving written critique on authentic products *before* AI-supported revision, so revisions were socially validated rather than individually adopted.
-- **A responsible-AI layer as a rubric, not a module**: co-constructed categories of authorized, conditional and non-authorized uses, individual AI-use logbooks, and mandatory verification against indexed databases.
+- **A responsible-AI layer as a [[rubrics|rubric]], not a module**: co-constructed categories of authorized, conditional and non-authorized uses, individual AI-use logbooks, and mandatory verification against indexed databases.
 
 ## What this means for practice
 

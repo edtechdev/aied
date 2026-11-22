@@ -1,4 +1,4 @@
----
+
 title: "Assessing Learning When AI Can Produce the Product: An Integrated Framework for Cognitive Ownership and Mutual Evaluation"
 created: "2026-10-05T09:50:49-04:00"
 updated: "2026-11-03T10:05:00-05:00"
@@ -42,7 +42,7 @@ The paper opens with a familiar problem: an excellent student paper can demonstr
 
 ## Mutual evaluation and conflicting evidence
 
-Mutual evaluation is the framework's central mechanism. Learners record an evaluation before receiving instructor comments; the instructor evaluates independently before seeing the student's ratings; comparison then focuses on consequential differences, and the record states what changed and why. The process has two functions that must be separated: formatively, comparison can improve the work, while summatively the quality of the learner's explanation is itself evidence of evaluative judgment. Rothwell warns of predictable vulnerabilities — students may imitate rubric language, generate a self-critique with AI, or agree to avoid conflict, and instructors may reward students whose style resembles their own. He also stresses that insufficient ownership evidence is not automatically evidence of misconduct, so [[academic-integrity|integrity]] concerns and capability verification should follow separate decision processes. His worked graduate leadership example shows how a student's rating of a sophisticated readiness matrix can be probed against the case evidence, turning disagreement into an assessment of whether the student understands the matrix's evidentiary limits.
+Mutual evaluation is the framework's central mechanism. Learners record an evaluation before receiving instructor comments; the instructor evaluates independently before seeing the student's ratings; comparison then focuses on consequential differences, and the record states what changed and why. The process has two functions that must be separated: formatively, comparison can improve the work, while summatively the quality of the learner's explanation is itself evidence of evaluative judgment. Rothwell warns of predictable vulnerabilities — students may imitate [[rubrics|rubric]] language, generate a self-critique with AI, or agree to avoid conflict, and instructors may reward students whose style resembles their own. He also stresses that insufficient ownership evidence is not automatically evidence of misconduct, so [[academic-integrity|integrity]] concerns and capability verification should follow separate decision processes. His worked graduate leadership example shows how a student's rating of a sophisticated readiness matrix can be probed against the case evidence, turning disagreement into an assessment of whether the student understands the matrix's evidentiary limits.
 
 ## Fairness, feasibility, and the validation agenda
 

@@ -1,4 +1,4 @@
----
+
 title: "Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities"
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
@@ -35,7 +35,7 @@ The quasi-experimental training component drew 160 faculty from the baseline sam
 
 ## What this means for practice
 
-- **Faculty developers.** Require faculty to bring their own objectives, rubrics, and materials into a structured prompt-task cycle (prompt formulation, output review, material revision, written reflection), which produced larger post-test gains than conventional workshops across all seven readiness dimensions and was the only condition whose gains survived delayed testing.
+- **Faculty developers.** Require faculty to bring their own objectives, [[rubrics|rubrics]], and materials into a structured prompt-task cycle (prompt formulation, output review, material revision, written reflection), which produced larger post-test gains than conventional workshops across all seven readiness dimensions and was the only condition whose gains survived delayed testing.
 - **Faculty developers.** Use prompt logs to triage support: efficient collaborators can take on more complex course tasks, mixed users need workflow stabilization, over-revisers need criteria for when an artifact is finished, dependent users need verification routines, and exploratory users need help converting ideas into assessable classroom steps.
 - **Administrators.** Increase hands-on practice and clarify what experimentation is permitted rather than assuming motivation is the problem: prior GenAI use, recent training, resource access, perceived permission, and institutional support absorbed the country difference in readiness, and continued-use intention was the highest-rated satisfaction dimension while tool [[usability-research|usability]] was the lowest.
 - **Faculty developers.** Treat prompt design as course-level teaching-task design — objectives, constraints, assessment criteria, verification, disclosure, and risk control — since prompt design showed the largest and most durable gain.

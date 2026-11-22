@@ -1,4 +1,4 @@
----
+
 title: "A Capability–Decision Model of teacher readiness for AI integration in teaching"
 created: "2026-09-30T11:43:40-04:00"
 updated: "2026-09-30T14:20:00-04:00"
@@ -54,7 +54,7 @@ Contextual facilitating conditions are deliberately layered, drawing on the [[di
 
 ## Measurement and falsifiability
 
-Because the model rests on separating capability from belief, the paper's most concrete contribution is measurement guidance. Capability should not rely on self-report alone; four indicator types are proposed — lesson-design tasks, prompt-evaluation tasks seeded with errors, content-validity judgments, and classroom artifact rubrics. A worked exemplar asks a teacher to design a 40-minute Grade 10 [[biology-education|biology]] lesson segment on enzyme activity with AI-generated differentiated feedback, scored 0–3 on pedagogical alignment, justification quality and verification with ethical safeguards. Piloting such tasks takes roughly 30–40 minutes; the author recommends double-scoring a random 20% until inter-rater agreement reaches at least κ = .70.
+Because the model rests on separating capability from belief, the paper's most concrete contribution is measurement guidance. Capability should not rely on self-report alone; four indicator types are proposed — lesson-design tasks, prompt-evaluation tasks seeded with errors, content-validity judgments, and classroom artifact [[rubrics|rubrics]]. A worked exemplar asks a teacher to design a 40-minute Grade 10 [[biology-education|biology]] lesson segment on enzyme activity with AI-generated differentiated feedback, scored 0–3 on pedagogical alignment, justification quality and verification with ethical safeguards. Piloting such tasks takes roughly 30–40 minutes; the author recommends double-scoring a random 20% until inter-rater agreement reaches at least κ = .70.
 
 Discriminant validity between capability and perceived behavioral control is to be judged against criteria fixed in advance: a heterotrait–monotrait ratio below .85 (Henseler et al., 2015), Fornell–Larcker comparison, and a nested-model test constraining the capability–control correlation to unity. Failure on these counts is framed as evidence against the model, not as a measurement inconvenience. The testing strategy is explicitly staged: a full structural model with two latent interactions typically needs N ≥ 400, while a study of N ≈ 250 might test the capability-to-belief bridge, the TPB core and the capability-by-intention interaction, deferring the context hypotheses to a later, adequately powered study.
 
@@ -62,7 +62,7 @@ Discriminant validity between capability and perceived behavioral control is to 
 
 - **Instructors and faculty developers.** Treat AI readiness as pedagogical capability, not tool familiarity: the worked exemplar scores whether AI use is integral to the stated learning outcome, whether the justification explains why AI beats a non-AI alternative, and whether a concrete verification routine and safeguard are present.
 - **Program designers.** Measure whether the targeted mediator moved. CDM-AIR predicts that genuine capability gains show up in perceived control and attitude before they show up in intention, so post-workshop willingness is a weak evaluation criterion.
-- **[[educational-development|Professional development]] leads.** Put support at the point of translation. The model predicts that intention converts to practice at a rate conditioned by capability, which favors clinically embedded coaching and co-planning during first enactment over advance-only workshops.
+- **Faculty developers.** Put support at the point of translation. The model predicts that intention converts to practice at a rate conditioned by capability, which favors clinically embedded coaching and co-planning during first enactment over advance-only workshops.
 - **School leaders and policymakers.** Treat policy clarity, data-protection protocols and infrastructure as constitutive of readiness rather than background to it; the model predicts that confidence-building without affordances yields intention without enactment.
 - **Researchers.** Use the four disconfirmation conditions as the reporting frame, and fix discriminant-validity criteria before estimation rather than inspecting them post hoc.
 

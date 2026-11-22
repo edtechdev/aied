@@ -1,4 +1,4 @@
----
+
 title: "Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -30,7 +30,7 @@ The analysis consolidated an author-developed six-stage operationalization of co
 
 ## The Risk of Professional Drift
 
-The authors warn that AI increasingly externalizes *deep* epistemic operations — constructing examples, designing tasks, creating assessment rubrics — which Risko and Gilbert term deep offloading. While this enhances productivity, it risks transferring foundational professional cognition to algorithms, contributing to **professional drift** (adapted from cognitive drift): a gradual erosion of [[creativity|creative]] and evaluative reasoning and reduced attentional/emotional engagement with students. Teachers mitigate this by monitoring, editing, and interpreting AI outputs, but the ease of offloading can nonetheless erode judgment.
+The authors warn that AI increasingly externalizes *deep* epistemic operations — constructing examples, designing tasks, creating assessment [[rubrics|rubrics]] — which Risko and Gilbert term deep offloading. While this enhances productivity, it risks transferring foundational professional cognition to algorithms, contributing to **professional drift** (adapted from cognitive drift): a gradual erosion of [[creativity|creative]] and evaluative reasoning and reduced attentional/emotional engagement with students. Teachers mitigate this by monitoring, editing, and interpreting AI outputs, but the ease of offloading can nonetheless erode judgment.
 
 ## Reflective Depths and Orientations
 

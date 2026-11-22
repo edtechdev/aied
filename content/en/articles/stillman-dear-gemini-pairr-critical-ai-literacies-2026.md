@@ -1,4 +1,4 @@
----
+
 title: "Dear Gemini: Agency, Peer Review, and Critical AI Literacies in Student Writing Ecologies"
 created: "2026-11-04T17:21:00-05:00"
 updated: "2026-11-04T18:11:18-05:00"
@@ -41,7 +41,7 @@ verified: [citation, numbers, links]
 
 ## What PAIRR actually is, procedurally
 
-The design is worth recording because most of its parts are cheap to copy and the sequence is the point. Students first read and discuss short articles on how LLMs are built, what they do poorly, and what their ethical and cognitive stakes are. They then draft, exchange peer feedback, and only after that prompt the chatbot for feedback — with assignment descriptions, the instructor's rubrics, privacy guidance, and an explicit instruction not to rewrite the paper. They submit screenshots or transcripts of the interaction, then write a revision plan and a reflection on both feedback sources.
+The design is worth recording because most of its parts are cheap to copy and the sequence is the point. Students first read and discuss short articles on how LLMs are built, what they do poorly, and what their ethical and cognitive stakes are. They then draft, exchange peer feedback, and only after that prompt the chatbot for feedback — with assignment descriptions, the instructor's [[rubrics|rubrics]], privacy guidance, and an explicit instruction not to rewrite the paper. They submit screenshots or transcripts of the interaction, then write a revision plan and a reflection on both feedback sources.
 
 Syllabus language carries the policy: a cognitive dimension (AI "cannot think for you" and "cannot learn for you") and an ethical dimension (approval, specific acknowledgment, alignment with [[academic-integrity|academic integrity]]). The model adapts Carolus and colleagues' Bloom-based account of AI literacy, which runs from understanding a system's limits, through using it in context, to critically evaluating its output — PAIRR deliberately weights the first and last phases.
 
@@ -53,8 +53,8 @@ The paper's second analytic move is to read the role students choose against the
 
 ## What this means for practice
 
-- **Sequence the tool after the human feedback, not before it.** Peer feedback first, chatbot feedback second, and reflection on both: the order is what keeps the model supplementary rather than authoritative.
-- **Constrain the prompt in the assignment, not just in the syllabus.** Requiring a feedback-only prompt with the instructor's rubrics attached converts a use policy into a task design, and asking for screenshots makes the interaction visible.
+- **Instructors.** Sequence the tool after the human feedback, not before it: peer feedback first, chatbot feedback second, and reflection on both: the order is what keeps the model supplementary rather than authoritative.
+- **Instructors.** Constrain the prompt in the assignment, not just in the syllabus: requiring a feedback-only prompt with the instructor's rubrics attached converts a use policy into a task design, and asking for screenshots makes the interaction visible.
 - **Ask students to name what the tool is.** [[prompt-engineering|Prompting]] for tutor/collaborator/something-else produced a vocabulary the authors could analyze; the invented "vending machine" is a better outcome than any of the offered categories.
 - **Budget the instructor labor.** The authors are explicit that supporting instructors in large STEM writing courses — curating readings, building peer-review processes, clarifying expectations — was substantial, and that this burden is one vendors imposed on higher education rather than one it chose.
 - **Use prior work on ChatGPT feedback honestly.** Comparable-quality results depend on precise criteria in the prompt; the corpus holds related PAIRR trials ([[pairr-ai-peer-review-2025|the earlier PAIRR study]] and [[gift-ai-pairr-business-writing-2025|the business-writing application]]) that supply the outcome evidence this paper does not.

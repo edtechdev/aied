@@ -1,4 +1,4 @@
----
+
 title: "Artificial intelligence literacy education in primary schools: a review"
 created: "2026-11-15T06:40:00-05:00"
 updated: "2026-11-15T06:40:00-05:00"
@@ -35,7 +35,7 @@ ai_assist:
 2. **Ground the unit in making.** Of the 16 studies naming a framework, 8 use constructionism or constructivism and 6 use the ARCS model; artifacts children can explain fit this evidence better than exposition.
 3. **Reach for intelligent agents before syntax.** Agents were the most common tool (15 of 25 studies), ahead of software-focused devices (8) and unplugged activities (3); Teachable Machine, Jibo, Cozmo, and Alexa let children train a model without writing code.
 4. **Put ethics and data on the timetable.** Ten studies addressed AI ethics and 5 critical data literacy; the authors argue technical framing pushes societal implications to a supporting role.
-5. **Do not accept a satisfaction survey as evidence of literacy.** Surveys appeared in 19 of 25 studies, interviews in 11, artifacts or rubrics in 8; the review wants validated scales, not one-off attitude items.
+5. **Do not accept a satisfaction survey as evidence of literacy.** Surveys appeared in 19 of 25 studies, interviews in 11, artifacts or [[rubrics|rubrics]] in 8; the review wants validated scales, not one-off attitude items.
 6. **Treat reported gains as provisional.** Only 15 of 25 studies reported learning outcomes; where they did, students grasped neural networks, bias, and training data, and Shamir and Levin (2022) reported competency rising from 4.6 to 5 on a 5-point Likert scale.
 7. **Design for the gender and experience gaps.** Dai et al. (2020) found male students reporting higher confidence, relevance, and readiness, and Lin et al. (2021) found female students less motivated; programming routes also presume coding experience many nine-year-olds lack.
 
@@ -65,11 +65,11 @@ Three challenges recur. Tools are outdated relative to the AI they explain, and 
 
 ## What this means for practice
 
-- **Instructors:** Organize the unit around an artifact children can explain, and protect time for the ethics and data discussion most studies skip.
-- **Curriculum designers:** Cover all four components explicitly; a coding-only unit reaches the computational thinking strand and little else.
-- **Administrators:** Budget for tool refresh and teacher training, not just devices. Outdated interfaces and thin teacher AI knowledge are named barriers, and [[professional-training|professional development]] is the review's first recommendation.
-- **Designers:** Build for the child with no coding background; gender gaps in confidence and the coding prerequisite of constructionist routes argue for lower-barrier entry points.
-- **Researchers:** Report outcomes for all participants, not the subset that completed a survey, and use or develop [[assessment-validity|validated instruments]] so findings compare across studies.
+- **Instructors.** Organize the unit around an artifact children can explain, and protect time for the ethics and data discussion most studies skip.
+- **Curriculum designers.** Cover all four components explicitly; a coding-only unit reaches the computational thinking strand and little else.
+- **Administrators.** Budget for tool refresh and teacher training, not just devices. Outdated interfaces and thin teacher AI knowledge are named barriers, and [[professional-training|professional development]] is the review's first recommendation.
+- **Designers.** Build for the child with no coding background; gender gaps in confidence and the coding prerequisite of constructionist routes argue for lower-barrier entry points.
+- **Researchers.** Report outcomes for all participants, not the subset that completed a survey, and use or develop [[assessment-validity|validated instruments]] so findings compare across studies.
 
 ## Limitations
 

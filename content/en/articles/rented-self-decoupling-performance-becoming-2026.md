@@ -1,4 +1,4 @@
----
+
 title: "The rented self: How AI-enabled tools decouple performance from becoming"
 created: "2026-10-07T13:49:29-04:00"
 updated: "2026-10-09T00:49:28-04:00"
@@ -48,7 +48,7 @@ That asymmetry drives the practical split. Unclaimed competence resembles the at
 
 ## A worked course design
 
-The paper's illustrative case is a first-year history course where both students log their [[conversational-ai|chatbot]] exchanges. The [[teacher-role|teacher]] **designates the core** in week one — weighing the reliability of a source and building an argument from evidence are to be performed by students, while formatting references and checking grammar are declared peripheral — and explains the distinction by pointing at what historians do. The course then **keeps the operations with the learner** (core requests return questions and hints; a draft precedes any feedback request), has students **compare before receiving** by rating their own paragraph against the rubric first, and **returns the indices** as a private profile of predicted versus actual performance on unassisted checkpoints.
+The paper's illustrative case is a first-year history course where both students log their [[conversational-ai|chatbot]] exchanges. The [[teacher-role|teacher]] **designates the core** in week one — weighing the reliability of a source and building an argument from evidence are to be performed by students, while formatting references and checking grammar are declared peripheral — and explains the distinction by pointing at what historians do. The course then **keeps the operations with the learner** (core requests return questions and hints; a draft precedes any feedback request), has students **compare before receiving** by rating their own paragraph against the [[rubrics|rubric]] first, and **returns the indices** as a private profile of predicted versus actual performance on unassisted checkpoints.
 
 ## Assessment is a validity problem, not a cheating problem
 

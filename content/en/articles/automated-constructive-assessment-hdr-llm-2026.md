@@ -1,4 +1,4 @@
----
+
 title: "Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence"
 created: "2026-09-23T09:16:20-04:00"
 updated: "2026-09-23T09:24:05-04:00"
@@ -49,7 +49,7 @@ Feedback was standardized to address the reason for an error and the learner's g
 The paper places the work at the Modification stage of the [[samr-model|SAMR model]], arguing that automating generation, scoring, and feedback reconstructs the assessment activity rather than merely digitizing it. The strongest claim is about repetition: reusing one case invites memory and answer reuse, while a model can produce structurally equivalent but contextually different cases, which the authors say suppresses item bias in re-measurement. They see the format extending to STEM, nursing and medical, and [[legal-education|legal education]] settings. The counterweight: because LLM evaluation rewards logic and structure, students may drift toward [[ai-feedback-quality|model-friendly answers]] at the expense of depth, so the authors call for hybrid AI–human evaluation rather than replacement.
 
 ## What this means for practice
-- **Instructors.** Give the scoring prompt worked examples from your own prior grading, not just a rubric; criteria alone left the model over-penalizing answers human experts scored consistently.
+- **Instructors.** Give the scoring prompt worked examples from your own prior grading, not just a [[rubrics|rubric]]; criteria alone left the model over-penalizing answers human experts scored consistently.
 - **Assessment designers.** Build the exemplar bank as a versioned artifact: the gap between 0.42 Q2 precision without examples and 1.00 with them is your design margin.
 - **Administrators.** Price automation against the measured human cost: 138 minutes of expert scoring plus 30 minutes of consensus for 117 responses, and 860 minutes for feedback preparation, writing, and re-checking.
 - **Researchers.** Treat perceived quality and learning as separate outcomes; persuasiveness and usefulness ratings say nothing about whether feedback changes later performance.

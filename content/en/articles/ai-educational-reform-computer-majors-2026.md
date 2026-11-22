@@ -1,4 +1,4 @@
----
+
 title: "AI-Driven Educational Reform: Enhancing Talent Cultivation in Computer-Related Majors for the Digital Era"
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
@@ -45,7 +45,7 @@ The intervention had five components: [[curriculum-design|curriculum design]] re
 - Small sample (244 students) and short window (two consecutive semesters) preclude assessment of long-term effects or developmental trajectories.
 - Program-wide implementation meant no parallel control group; conclusions rest on a descriptive pre/no-reform cohort comparison.
 
-- Outcomes rely partly on self-report (student and faculty surveys) and context-specific assessment rubrics.
+- Outcomes rely partly on self-report (student and faculty surveys) and context-specific assessment [[rubrics|rubrics]].
 
 ## Citation
 

@@ -1,4 +1,4 @@
----
+
 title: "AI is ready, but are the students. From answer-making to sense-making"
 created: "2026-11-11T08:59:44-05:00"
 updated: "2026-11-11T09:20:00-05:00"
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Stone, Zhang and Utter ask a question that most AI-in-physics studies skip: if the model can now answer the test, does the student use it any differently? GPT-5 cleared 84% of the Test of Understanding Graphs in Kinematics items on average, against 43% for the earlier GPT-4 baseline, with 15 of 26 items perfect across 60 trials each. Yet the 134 student dialogues coded from a 43-student discussion section were dominated by recipe requests and answer checks: recipe-seeking and confirmation together accounted for more than three-quarters of coded phrases. The end-of-term assignment, graded and carrying a rubric that demanded at least three iterative exchanges, flipped that distribution, with think-aloud and explanation requests rising from 0% to 25% and causal reasoning from 4% to 12%. The paper's conclusion is about framing, not capability: accuracy made a peer-like role possible, but only the assignment design made students occupy it.
+> **Synthesis:** Stone, Zhang and Utter ask a question that most AI-in-physics studies skip: if the model can now answer the test, does the student use it any differently? GPT-5 cleared 84% of the Test of Understanding Graphs in Kinematics items on average, against 43% for the earlier GPT-4 baseline, with 15 of 26 items perfect across 60 trials each. Yet the 134 student dialogues coded from a 43-student discussion section were dominated by recipe requests and answer checks: recipe-seeking and confirmation together accounted for more than three-quarters of coded phrases. The end-of-term assignment, graded and carrying a [[rubrics|rubric]] that demanded at least three iterative exchanges, flipped that distribution, with think-aloud and explanation requests rising from 0% to 25% and causal reasoning from 4% to 12%. The paper's conclusion is about framing, not capability: accuracy made a peer-like role possible, but only the assignment design made students occupy it.
 
 ## Key Findings
 

@@ -1,4 +1,4 @@
----
+
 title: "AI-assisted automated short answer grading of handwritten university-level mathematics exam"
 created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"
@@ -21,7 +21,7 @@ reviewed_by: [editor]
 ## Key Findings
 
 1. The study graded a voluntary German undergraduate mathematics mock exam taken by 105 students, 54 of whom consented to the use of their answers. Problems were semi-open: students produced written reasoning and mathematics rather than selecting options, and wrote their answers in designated boxes on the exam sheet.
-2. Two extraction routes were compared: pre-cut answer boxes and whole graded pages. Two transcription engines were compared: Mathpix and GPT-4 with vision. Two [[prompt-engineering|prompting]] modes were compared: the original rubric formulations written for human staff and an itemised multi-criteria rewrite.
+2. Two extraction routes were compared: pre-cut answer boxes and whole graded pages. Two transcription engines were compared: Mathpix and GPT-4 with vision. Two [[prompt-engineering|prompting]] modes were compared: the original [[rubrics|rubric]] formulations written for human staff and an itemised multi-criteria rewrite.
 3. Agreement with human-assigned grades on the most promising workflows averaged a Krippendorff's alpha of 0.22 with the original rubric and 0.31 with itemised rules on the pre-cut box route, and 0.30 and 0.40 respectively on the whole-page route. Accuracy across the same four workflows averaged 0.62, 0.44, 0.60 and 0.31.
 4. Grading without a rubric was clearly worse: accuracy 0.50 and alpha 0.32 when taking a single GPT-4 judgment, 0.51 and 0.34 under majority or averaged aggregation, against 0.69 and 0.60 for the best rubric-based approach.
 5. Itemising the grading rules helped unevenly. It improved alpha only on the partial-credit problem and did not rescue the overall picture, which the authors read as evidence that the bottleneck is not prompt detail but the model's grasp of mathematical substance.
@@ -50,10 +50,10 @@ Fourth, the authors report preliminary follow-up evidence that GPT-4o interprets
 
 ## What this means for practice
 
-- Treat handwriting recognition and grading-rule quality as separate risks to be measured separately; a single end-to-end accuracy figure hides which one is failing.
-- Do not rely on model confidence to decide what needs human review, because a high false-positive rate among "reliable" grades is worse than uniform human checking.
-- Write rubric text for the model's limitations, including what it should ignore, and expect rules inherited from teaching assistants to produce unrequested mathematical work.
-- Design exam sheets for the scanner: full-page capture with textual markers and generous answer space, decided before the exam is administered, since layout choices are unrecoverable afterwards.
+- **Assessment designers.** Treat handwriting recognition and grading-rule quality as separate risks to be measured separately; a single end-to-end accuracy figure hides which one is failing.
+- **Assessment designers.** Do not rely on model confidence to decide what needs human review, because a high false-positive rate among "reliable" grades is worse than uniform human checking.
+- **Assessment designers.** Write rubric text for the model's limitations, including what it should ignore, and expect rules inherited from teaching assistants to produce unrequested mathematical work.
+- **Assessment designers.** Design exam sheets for the scanner: full-page capture with textual markers and generous answer space, decided before the exam is administered, since layout choices are unrecoverable afterwards.
 
 ## Limitations
 

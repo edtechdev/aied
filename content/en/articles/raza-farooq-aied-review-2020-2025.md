@@ -1,4 +1,4 @@
----
+
 title: "Review of Artificial Intelligence in Education from 2020 to 2025"
 created: "2026-08-09T08:44:33-04:00"
 updated: "2026-11-04T16:51:25-05:00"
@@ -74,10 +74,10 @@ Looking across recent scholarship and policy roadmaps, three trajectories appear
 ## What this means for practice
 
 - **Researchers.** Report total cost of ownership — teacher time saved, implementation cost, compute and energy use — alongside learning and [[equity-in-ai-education|equity]] outcomes, using the cost–time–quality template the authors propose, because many studies in this corpus report learning effects but omit those figures.
-- Sequence adoption by layer: settle [[formative-assessment|formative assessment]] and [[feedback|feedback]] routines, [[teacher-ai-competency|leadership capacity]], low-friction tools, and shared norms before adding predictive or generative components — the review treats those preconditions as what carries the layers above them.
-- Design instruction around a measure–model–adapt loop, and prefer interpretable, edge/fog or on-device models that shorten the [[feedback|feedback cycle]] and keep a human [[human-in-the-loop-ai|in the loop]] where errors are costly.
-- Constrain [[generative-ai|generative AI]] to drafts and idea generation under rubrics, exemplars, and human review; the review characterizes it as strong at drafts and inconsistent at judgment.
-- Tie evaluation to decision pathways — who acts, on what evidence, and when — rather than to model accuracy, and set equity targets before deployment so [[human-ai-collaboration|co-orchestration]] does not simply scale whatever the system already does.
+- **Program leaders.** Sequence adoption by layer: settle [[formative-assessment|formative assessment]] and [[feedback|feedback]] routines, [[teacher-ai-competency|leadership capacity]], low-friction tools, and shared norms before adding predictive or generative components — the review treats those preconditions as what carries the layers above them.
+- **Curriculum designers.** Design instruction around a measure–model–adapt loop, and prefer interpretable, edge/fog or on-device models that shorten the [[feedback|feedback cycle]] and keep a human [[human-in-the-loop-ai|in the loop]] where errors are costly.
+- **Instructors.** Constrain [[generative-ai|generative AI]] to drafts and idea generation under [[rubrics|rubrics]], exemplars, and human review; the review characterizes it as strong at drafts and inconsistent at judgment.
+- **Assessment designers.** Tie evaluation to decision pathways — who acts, on what evidence, and when — rather than to model accuracy, and set equity targets before deployment so [[human-ai-collaboration|co-orchestration]] does not simply scale whatever the system already does.
 
 ## Limitations
 

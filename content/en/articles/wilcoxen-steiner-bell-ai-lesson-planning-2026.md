@@ -1,4 +1,4 @@
----
+
 title: "Integrating AI in Lesson Planning: Critical Reflection and Thoughtful Implementation"
 created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T22:05:00-05:00"
@@ -42,7 +42,7 @@ verified: [citation, numbers]
 
 Participants were 26 full-time beginning teachers in eight school districts across two states, most in their first year, teaching across PK–12 including special education, dual-language, music and art. They worked in an induction program where two of the authors were instructors; the authors acknowledge the power dynamic and report that study data were not analyzed until final grades were submitted.
 
-The instructional cycle merged planning, revision, implementation and reflection. Teachers received a lesson-plan template, prompted an AI tool of their choice (ChatGPT, MagicSchool, Gemini and others were mentioned) to create a lesson for an assigned topic, then refined it into a 20-minute lesson with time stamps. They revised the plan collaboratively and recorded their reasoning for each change, taught the lesson to peers in a simulated classroom, and analyzed video against a rubric. The analysis used directed qualitative content analysis with a coding scheme from König et al.'s six cognitive domains of lesson planning: transforming content, creating and selecting tasks, adaptation, clarity, sequencing and phasing.
+The instructional cycle merged planning, revision, implementation and reflection. Teachers received a lesson-plan template, prompted an AI tool of their choice (ChatGPT, MagicSchool, Gemini and others were mentioned) to create a lesson for an assigned topic, then refined it into a 20-minute lesson with time stamps. They revised the plan collaboratively and recorded their reasoning for each change, taught the lesson to peers in a simulated classroom, and analyzed video against a [[rubrics|rubric]]. The analysis used directed qualitative content analysis with a coding scheme from König et al.'s six cognitive domains of lesson planning: transforming content, creating and selecting tasks, adaptation, clarity, sequencing and phasing.
 
 ## What the revisions show
 
@@ -59,7 +59,7 @@ The teachers' own framing matters. They did not describe themselves as accepting
 ## What this means for practice
 
 - **Use AI for the procedural skeleton.** Topics, objectives and activity ideas are a reasonable starting point; expect to rewrite tasks, supports and logistics.
-- **Prompt for context, but do not expect it to solve adaptation.** Even explicit age and topic prompts did not produce the grouping and differentiation detail teachers needed.
+- **Instructors.** Prompt for context, but do not expect it to solve adaptation: even explicit age and topic prompts did not produce the grouping and differentiation detail teachers needed.
 - **Make revision reasoning visible.** Asking teachers to record why they changed each element turns plan revision into evidence of pedagogical reasoning, which is useful in induction and teacher preparation.
 - **Teach the mediation role explicitly.** Beginning teachers benefited from naming what they supply that the model cannot: knowledge of students, classroom management, relationship-building and local examples.
 - **Pair AI planning with rehearsal.** The simulated 20-minute lesson surfaced problems that plan review alone would not, and gave teachers evidence for reflection.

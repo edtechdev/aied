@@ -1,4 +1,4 @@
----
+
 title: "Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing"
 created: "2026-09-22T07:52:00-04:00"
 updated: "2026-09-22T07:52:00-04:00"
@@ -56,16 +56,16 @@ Four model families were run: GPT-OSS 20B, GPT-OSS 120B, Qwen 32B and Llama 3.1 
 
 The comparison design is the paper's main methodological contribution. Locking one cohort of 114 essays across all runs, and reporting grade-distance and directional bias alongside agreement, addresses the way single-model, single-metric studies can make a rater look better than it is. Any institution evaluating a grading model can ask for the same six numbers.
 
-The boundaries matter as much as the results. The locked cohort contained only Merit and Distinction references, so the study measures Merit–Distinction discrimination within a four-band response space rather than reliability across the full Fail-to-Distinction range — and the Pass and Fail predictions are below-reference-band outputs, not evaluated against real Pass or Fail scripts. Everything comes from one filtered corpus and one shared prompt, so discipline, genre, rubric and [[prompt-engineering|prompt design]] are all held constant in a way real marking is not. Reasoning effort could not be analyzed as intended because the high-reasoning runs were unavailable and the available runs did not span a complete low–medium–high range, and disputed cases received no fresh [[human-in-the-loop-ai|human moderation]].
+The boundaries matter as much as the results. The locked cohort contained only Merit and Distinction references, so the study measures Merit–Distinction discrimination within a four-band response space rather than reliability across the full Fail-to-Distinction range — and the Pass and Fail predictions are below-reference-band outputs, not evaluated against real Pass or Fail scripts. Everything comes from one filtered corpus and one shared prompt, so discipline, genre, [[rubrics|rubric]] and [[prompt-engineering|prompt design]] are all held constant in a way real marking is not. Reasoning effort could not be analyzed as intended because the high-reasoning runs were unavailable and the available runs did not span a complete low–medium–high range, and disputed cases received no fresh [[human-in-the-loop-ai|human moderation]].
 
 The practical reading is therefore about the shape of the risk rather than a ranking. Errors are not evenly distributed: they are directional, they fall hardest on the top band, and they vary more between families than within them. A model that undergrades Distinction essays is not a harsh marker whose threshold can be shifted; it is systematically failing to detect the qualities that earn the label, which is precisely the [[assessment-validity|validity]] question that agreement statistics alone conceal.
 
 ## What this means for practice
 
-- **Pilot before trusting, and pilot on your own exemplars.** Performance swung from 18.4% to 54.4% across families on the same essays, so a model's reputation or parameter count says little about how it will read your assessments.
+- **Assessment designers.** Pilot before trusting, and pilot on your own exemplars. Performance swung from 18.4% to 54.4% across families on the same essays, so a model's reputation or parameter count says little about how it will read your assessments.
 - **Ask for the full metric set, not accuracy alone.** Request exact agreement, grade-distance error, directional bias and per-band sensitivity and specificity; those are what reveal whether a model squeezes everything toward the middle.
-- **Deploy as a second reader for triage and calibration, never as the marker.** The supported use case here is supervised support — flagging borderline scripts, checking consistency between markers, or producing a first pass a human then verifies.
-- **Do not expect temperature tuning to fix the problem.** It helped one family descriptively, changed nothing for another, and significantly worsened a third, so it is not a substitute for checking band-level performance.
+- **Instructors.** Deploy as a second reader for triage and calibration, never as the marker. The supported use case here is supervised support — flagging borderline scripts, checking consistency between markers, or producing a first pass a human then verifies.
+- **Instructors.** Do not expect temperature tuning to fix the problem. It helped one family descriptively, changed nothing for another, and significantly worsened a third, so it is not a substitute for checking band-level performance.
 - **Watch the top band specifically.** Distinction accuracy trailed Merit accuracy in every configuration, so any moderated use should keep human eyes on the highest grades and on the boundaries between bands that carry institutional consequences.
 
 ## Limitations

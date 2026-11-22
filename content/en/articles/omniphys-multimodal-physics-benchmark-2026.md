@@ -1,4 +1,4 @@
----
+
 title: "OmniPhys: A unified multimodal benchmark for physics understanding and generation from Chinese educational corpora"
 created: "2026-08-28T09:08:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -40,7 +40,7 @@ OmniPhys matters to the knowledge base for three reasons. First, it extends the 
 - **Designers.** Evaluate physics models on multimodal output, not answer selection alone: the diagram-editing subset showed that even frontier image-generation models systematically violate physical laws, and leading models remained below 70% strict mastery.
 - **Designers.** Report a text-only and a caption-substituted baseline beside the multimodal condition, because on the adversarial Test-Mini subset some architectures scored higher without the diagram, suggesting visual inputs were read as distractor noise.
 - **Researchers.** Treat monolingual benchmark scores as confounded when instructions are in English and the problems are in Chinese, since weaker performance may reflect Chinese multimodal alignment rather than physics reasoning.
-- **Researchers.** Budget human evaluation for generated physics diagrams: MLLM-based judges overestimated output quality and overlooked subtle physical inconsistencies despite the structured rubric.
+- **Researchers.** Budget human evaluation for generated physics diagrams: MLLM-based judges overestimated output quality and overlooked subtle physical inconsistencies despite the structured [[rubrics|rubric]].
 
 ## Limitations
 

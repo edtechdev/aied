@@ -1,4 +1,4 @@
----
+
 title: "Calibrating LLM Tutor Initiation to Learner Expertise: Proactive and Reactive Support for Computational Thinking"
 created: "2026-11-11T07:36:33-05:00"
 updated: "2026-11-14T10:00:00-05:00"
@@ -46,7 +46,7 @@ CodeTutor is a GPT-4o system that combines a code editor, a chat panel, a code-o
 
 Only one thing varied between conditions: initiation. In the reactive condition the tutor stayed available but spoke only when the learner asked. In the proactive condition it monitored interaction signals, including repeated errors, execution failures and extended inactivity, and intervened when those signals indicated sustained difficulty. Everything else was held constant. Both modes used [[socratic-method|Socratic]] [[prompt-engineering|prompting]] capped at two sentences, both were barred from rewriting code or giving complete answers, and both retrieved from instructor-provided course materials through a [[rag|retrieval-augmented generation]] pipeline. That constraint matters for interpretation: the experiment isolates when support arrives, not what it says.
 
-The evaluation recruited 94 students and analyzed 90 after four did not complete the second session, with stratified randomization on initial computational-thinking proficiency. In session one they completed a background survey and a pre-test. Two days later they worked on a parallel task with CodeTutor and then took a post-test without AI assistance. Each test had two parts: a natural-language pseudocode task that captured conceptual reasoning with no execution feedback, and a Python implementation task run in an IDE with continuous compiler and runtime feedback. Submissions were scored on four computational-thinking dimensions by a separate [[llm|LLM]], validated against blinded human raters, with strong agreement on the decomposition dimension and F1 scores across rubric components in the acceptable-to-good range.
+The evaluation recruited 94 students and analyzed 90 after four did not complete the second session, with stratified randomization on initial computational-thinking proficiency. In session one they completed a background survey and a pre-test. Two days later they worked on a parallel task with CodeTutor and then took a post-test without AI assistance. Each test had two parts: a natural-language pseudocode task that captured conceptual reasoning with no execution feedback, and a Python implementation task run in an IDE with continuous compiler and runtime feedback. Submissions were scored on four computational-thinking dimensions by a separate [[llm|LLM]], validated against blinded human raters, with strong agreement on the decomposition dimension and F1 scores across [[rubrics|rubric]] components in the acceptable-to-good range.
 
 ## Why the phase matters
 
@@ -58,10 +58,10 @@ The process data add a trade-off that a simple reading would miss. Diagnostic sp
 
 ## What this means for practice
 
-- **Instructors:** Do not adopt one tutor behavior for a whole class. The trial's own conclusion is that proactive support suits students with low initial proficiency or little programming experience, while reactive support suits students who can diagnose their own errors.
-- **Instructional designers:** Calibrate initiation to the phase of the task. Early conceptual work, where there is no execution feedback, is where proactive support earned its gains; during implementation, a restrained tutor avoids displacing self-diagnosis the environment already supports.
-- **Designers:** Treat the initiation policy as a tunable parameter rather than a fixed product feature, and use signals such as low diagnostic specificity, prolonged unresolved error states or repeated adoption of tutor-suggested paths to decide when to intervene and when to recede.
-- **Researchers:** Measure the interaction process, not only the post-test. The outcome data alone showed no average effect; the traces made the conditional pattern interpretable, even though the student-level mediation was underpowered.
+- **Instructors.** Do not adopt one tutor behavior for a whole class. The trial's own conclusion is that proactive support suits students with low initial proficiency or little programming experience, while reactive support suits students who can diagnose their own errors.
+- **Instructional designers.** Calibrate initiation to the phase of the task. Early conceptual work, where there is no execution feedback, is where proactive support earned its gains; during implementation, a restrained tutor avoids displacing self-diagnosis the environment already supports.
+- **Designers.** Treat the initiation policy as a tunable parameter rather than a fixed product feature, and use signals such as low diagnostic specificity, prolonged unresolved error states or repeated adoption of tutor-suggested paths to decide when to intervene and when to recede.
+- **Researchers.** Measure the interaction process, not only the post-test. The outcome data alone showed no average effect; the traces made the conditional pattern interpretable, even though the student-level mediation was underpowered.
 
 ## Limitations
 

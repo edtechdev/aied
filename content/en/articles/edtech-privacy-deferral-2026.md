@@ -1,4 +1,4 @@
----
+
 title: "\"We'll Fix It Later\": Education, AI, and the Deferral of Student Privacy in EdTech"
 created: "2026-09-24T09:11:53-04:00"
 updated: "2026-09-24T09:11:53-04:00"
@@ -54,9 +54,9 @@ AI appears as an amplifier rather than a new failure mode. P7 asked how to use A
 
 ## What this means for practice
 
-- **[[educational-technology-developers|Educational technology developers]].** Make privacy a release criterion: require a one-page data-flow summary from the feature owner before student-facing deployment — retention and model-training use, what is decided automatically, incident ownership.
+- **Educational technology developers.** Make privacy a release criterion: require a one-page data-flow summary from the feature owner before student-facing deployment — retention and model-training use, what is decided automatically, incident ownership.
 - **Instructors.** Treat the moment of upload as the decision point: confirm whether AI use is disclosed and which institutional channel owns approval before putting student information into a general-purpose model.
-- **Administrators.** Use the five audit dimensions as a lightweight procurement rubric and demand operational evidence — subprocessors, consent practice, retention, breach timelines — rather than accepting a privacy policy's existence as sufficient.
+- **Administrators.** Use the five audit dimensions as a lightweight procurement [[rubrics|rubric]] and demand operational evidence — subprocessors, consent practice, retention, breach timelines — rather than accepting a privacy policy's existence as sufficient.
 - **Policymakers and researchers.** Write specific enforceable obligations, since disclosure improves only where a rule directly governs, and stop treating privacy as a single maturity score.
 
 ## Limitations

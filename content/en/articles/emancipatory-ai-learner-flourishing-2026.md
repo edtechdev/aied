@@ -1,4 +1,4 @@
----
+
 title: An Emancipatory Vision for Designing (Generative) AI for Learner Flourishing
 created: "2026-09-09T09:05:09-04:00"
 updated: "2026-09-19T07:12:05-04:00"
@@ -41,7 +41,7 @@ Rather than accepting the productivity framing, the paper advances an emancipato
 ## Limitations
 
 - This is a position paper presented at an EC-TEL 2026 workshop: it offers tentative design principles and a proposed design methodology, with no implemented system, no participants, and no empirical evaluation of the vision.
-- The authors list the open questions themselves — concrete design methods that resolve value tensions, exemplars of AIED technology with appropriation-focused multi-level evaluations, measurement of social-group and environment-level constructs such as societal and environmental flourishing, and inherent design tensions in even open-weight LLMs.
+- The authors list the open questions themselves — concrete design methods that resolve value tensions, [[rubrics|exemplars]] of AIED technology with appropriation-focused multi-level evaluations, measurement of social-group and environment-level constructs such as societal and environmental flourishing, and inherent design tensions in even open-weight LLMs.
 - The critique of the productivity framing draws on evidence of over-reliance, metacognitive laziness, isolation, and lower well-being from naturally emerging uses of general-purpose [[generative-ai|GenAI]], not from studies of AI built specifically for education.
 - The dismissal of [[ethics|human-centered design]] approaches such as value-sensitive design is conceptual — they are judged insufficient to handle systemic drivers like economic incentives — and no empirical comparison of outcomes under the two design philosophies is provided.
 

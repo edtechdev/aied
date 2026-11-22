@@ -1,4 +1,4 @@
----
+
 title: "Bridging technology and education: The use of ChatGPT in grading pharmacy student exams"
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
@@ -14,7 +14,7 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** **Bridging technology and education: The use of ChatGPT in grading pharmacy student exams** — This mixed-format study evaluates ChatGPT-5 against human faculty (gold standard) grading of a 21-item pharmacy exam completed by 16 students across multiple-choice, select-all-that-apply, fill-in-the-blank, listing, short-answer, and essay questions, testing two rubric conditions and two submission formats. It finds near-perfect [[automated-assessment|automated assessment]] agreement for objective items but unreliable agreement for subjective open-ended responses, and shows that providing a rubric did not consistently improve [[llm|LLM]] grading. The work advances understanding of when [[generative-ai|generative AI]] can substitute for human grading in [[higher-ed|higher education]] assessment versus where [[human-in-the-loop-ai|human oversight]] remains necessary.
+> **Synthesis:** **Bridging technology and education: The use of ChatGPT in grading pharmacy student exams** — This mixed-format study evaluates ChatGPT-5 against human faculty (gold standard) grading of a 21-item pharmacy exam completed by 16 students across multiple-choice, select-all-that-apply, fill-in-the-blank, listing, short-answer, and essay questions, testing two [[rubrics|rubric]] conditions and two submission formats. It finds near-perfect [[automated-assessment|automated assessment]] agreement for objective items but unreliable agreement for subjective open-ended responses, and shows that providing a rubric did not consistently improve [[llm|LLM]] grading. The work advances understanding of when [[generative-ai|generative AI]] can substitute for human grading in [[higher-ed|higher education]] assessment versus where [[human-in-the-loop-ai|human oversight]] remains necessary.
 
 ## Key Findings
 

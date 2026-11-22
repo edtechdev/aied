@@ -1,4 +1,4 @@
----
+
 title: "Implementing a collaborative program-wide approach to redeveloping assessment in response to generative artificial intelligence (GenAI)"
 created: "2026-10-11T08:00:00-04:00"
 updated: "2026-10-11T08:00:00-04:00"
@@ -28,7 +28,7 @@ ai_assist:
 - **Emotions were strong and mostly negative.** Participants described feeling "daunted," "nervous" and "quite freaked out" in response to student GenAI use and to the work of changing assessment; the authors found these emotions central to the experience of assessment change, and the program-wide approach helped manage them.
 - **Views evolved measurably over the project.** Participants shifted from "ensuring students are avoiding GenAI use" toward "how can GenAI be used ethically and effectively to support learning," and from "I'll just build it into every assessment" to a more nuanced position — a shift one project lead called "quite fascinating" to watch over 12 months.
 - **University guidance lagged practice.** Participants repeatedly asked for clearer institutional guidance on acceptable GenAI use for staff and students, particularly on [[academic-integrity|academic integrity]]; one academic reported avoiding the question entirely: "I'm just sort of avoiding it [dealing with student use of GenAI], because I'm not clear with what we're allowing and not."
-- **The work is heavier than it looks.** Redesigning an assessment meant rewriting the assignment, redoing the rubric, going to the assessment panel, responding to feedback and updating the LMS — a sequence academics described as a significant time burden.
+- **The work is heavier than it looks.** Redesigning an assessment meant rewriting the assignment, redoing the [[rubrics|rubric]], going to the assessment panel, responding to feedback and updating the LMS — a sequence academics described as a significant time burden.
 - **Options for assuring learning are genuinely narrow.** Beyond [[oral-assessment|oral]] and performative modes — hard to scale to large cohorts and online programs — participants found few designs that minimize GenAI use; one project lead had expected "a whole range of solutions" and found that "this doesn't seem the case."
 - **Program-wide was chosen pragmatically, on resourcing grounds.** Unit-by-unit redesign was unviable on time and cost; the program-wide lens also gave better visibility of [[curriculum-design|scaffolding]] across a qualification than unit-level approaches, and let teams scaffold "from less sophisticated to more sophisticated use of [GenAI] over the program."
 - **Collaboration was the core affordance.** Assessment redesign in the GenAI era exceeds any single academic's capability: participants valued learning designers, assessment design experts, GenAI expertise and — increasingly — industry voices, with one project lead wishing for "an actual tech head" with coding knowledge too.

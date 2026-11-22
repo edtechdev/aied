@@ -1,4 +1,4 @@
----
+
 title: "ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching"
 created: "2026-08-23T08:20:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
@@ -14,7 +14,7 @@ sources: ['raw/papers/rhaimi-productivemath-2025.md']
 confidence: medium
 ---
 
-> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure|productive failure]] problems — a known challenge in PF [[pedagogy|pedagogy]]. Across three studies, they define a rubric for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive [[usability-research|usability]] perceptions and adoption intent.
+> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure|productive failure]] problems — a known challenge in PF [[pedagogy|pedagogy]]. Across three studies, they define a [[rubrics|rubric]] for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive [[usability-research|usability]] perceptions and adoption intent.
 
 ## The challenge it addresses
 

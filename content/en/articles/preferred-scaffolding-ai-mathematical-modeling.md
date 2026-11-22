@@ -1,4 +1,4 @@
----
+
 title: "Preferred scaffolding does not lead to better learning performance: Empirical evidence from AI-supported mathematical modelling"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-20T06:30:22-04:00"
@@ -16,7 +16,7 @@ page_kind: [evaluation]
 
 > **Synthesis:** Treating AI roles as [[scaffolding|scaffolding]] configurations rather than social labels, this experiment found the roles students liked most were not the roles that produced the best performance. Peer and Teaching Assistant configurations, which distributed epistemic agency and required learners to articulate their own reasoning, produced superior Model Abstraction and [[reflection|reflection]] & Iteration scores, while preferred directive roles reduced the cognitive work left to the learner. Because all four competent roles were rated similarly on usefulness, ease of use, and self-efficacy, learner preference proved a poor proxy for scaffolding effectiveness.
 
-Zhu, Yang, and Yang (2026) tested five [[student-ai-interaction|AI interaction]] roles — Tutor, Teaching Assistant (TA), Peer, Excellent Student, and Struggling Student — as distinct [[scaffolding|scaffolding]] configurations in AI-assisted mathematical modeling (MM). In a randomized within-subjects experiment, 26 university students completed an unassisted baseline plus five comparable modeling tasks (4-min limit each), the AI assuming a different role per round, with role order counterbalanced across five groups by a 5 × 5 Latin square. Responses came from DeepSeek-V3.1, and competency was rated from the interaction logs against a four-dimension rubric.
+Zhu, Yang, and Yang (2026) tested five [[student-ai-interaction|AI interaction]] roles — Tutor, Teaching Assistant (TA), Peer, Excellent Student, and Struggling Student — as distinct [[scaffolding|scaffolding]] configurations in AI-assisted mathematical modeling (MM). In a randomized within-subjects experiment, 26 university students completed an unassisted baseline plus five comparable modeling tasks (4-min limit each), the AI assuming a different role per round, with role order counterbalanced across five groups by a 5 × 5 Latin square. Responses came from DeepSeek-V3.1, and competency was rated from the interaction logs against a four-dimension [[rubrics|rubric]].
 
 The headline result is a divergence between measured performance and preference. Competency was highest with the Peer and TA roles and lowest with the Struggling Student, yet students preferred the directive Tutor and Excellent Student roles, rating them highest on usefulness, ease of use, and [[self-efficacy|self-efficacy]]. The authors conclude that preference tracked fluency and reduced uncertainty, while competency depended on active generation, epistemic [[agency|agency]], and reflective reasoning.
 
@@ -44,7 +44,7 @@ Preference and competency were shaped by different mechanisms. Directive configu
 
 - **Instructors.** Do not read enthusiasm for a directive AI assistant as evidence that it teaches well. Students here preferred the Tutor and Excellent Student roles, yet Peer and TA configurations produced significantly better Model Abstraction and Reflection & Iteration scores. Build hint-based AI interaction into those phases; reserve directive help for validation and consolidation.
 - **Instructional designers.** Adopt the authors' adaptive role alignment: because abstraction, representation, and refinement demand different support, a single static role is the wrong target. Sequence scaffolding by modeling phase, not by the persona learners find comfortable.
-- **[[educational-technology-developers|Edtech designers]].** Treat [[technology-acceptance-model|perceived usefulness]], ease of use, and satisfaction as insufficient indicators of scaffolding effectiveness — the four competent roles were rated similarly on all three while producing different competency outcomes. Prioritize architectures that make learners explain, compare, and revise, whether by role-switching within one agent or [[agentic-ai|multi-agent]] systems with complementary roles.
+- **Educational technology developers.** Treat [[technology-acceptance-model|perceived usefulness]], ease of use, and satisfaction as insufficient indicators of scaffolding effectiveness — the four competent roles were rated similarly on all three while producing different competency outcomes. Prioritize architectures that make learners explain, compare, and revise, whether by role-switching within one agent or [[agentic-ai|multi-agent]] systems with complementary roles.
 
 ## Limitations
 

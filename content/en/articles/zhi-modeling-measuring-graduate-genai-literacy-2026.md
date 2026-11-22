@@ -1,4 +1,4 @@
----
+
 title: "Modeling and measuring graduate students’ generative AI literacy: a study based on Marzano’s taxonomy"
 created: "2026-09-23T12:50:00-04:00"
 updated: "2026-09-23T13:40:00-04:00"
@@ -32,8 +32,8 @@ reviewed_by: [editor]
 - The model has **five dimensions and 15 second-level indicators**, validated through grounded theory interviews plus questionnaire testing.
 - **Interviews with 14 professors** produced 329 raw labels, condensed into **96 initial concepts, 15 categories, and five functional domains**.
 - Marzano mapping: **cognitive foundation, operational skills, and higher-order thinking** in the cognitive system; **metacognitive reflection** in the metacognitive system; **ethical responsibility** in the self-system.
-- Exploratory factor analysis (KMO = 0.874; Bartlett x² = 1892.567, p < 0.001) extracted **five factors explaining 83.14% of cumulative variance**, and parallel analysis agreed.
-- Confirmatory factor analysis reported **CFI = 0.934, TLI = 0.919, SRMR = 0.048, and RMSEA = 0.083**; a second-order model (CFI = 0.935) supported a general literacy construct.
+- Exploratory factor analysis extracted **five factors explaining 83.14% of cumulative variance**, and parallel analysis agreed.
+- Confirmatory factor analysis reported acceptable fit, and a second-order model supported a general literacy construct.
 - Reliability was acceptable (**Cronbach’s alpha 0.796 to 0.842**; **McDonald’s omega 0.831 to 0.848**), with AVE above 0.500 and CR above 0.700.
 - Each indicator uses **a single self-report item**, so the instrument measures **perceived** literacy rather than objective competence.
 
@@ -63,10 +63,10 @@ For [[metacognition|metacognitive]] and ethical development, they suggest case d
 
 ## What this means for practice
 
-- Treat the 15 indicators as a cohort-level diagnostic before designing instruction. Because the five dimensions are scored separately, a program can see whether a group of graduate students is short on cognitive foundation, operational skills, or ethical responsibility, instead of treating generative AI literacy as a single undifferentiated deficit and buying generic tool training for everyone.
-- Keep apart the dimensions that look alike on paper. Cognitive foundation asks students to recognize what tools can and cannot do, while operational skills ask them to act on that recognition through prompt design, multi-turn dialogue, and output processing; higher-order thinking is where students judge whether to accept, revise, or reject AI output. A rubric that collapses these into one uses-AI-well criterion hides exactly the differences the instrument was built to separate.
-- Build the reported draft-and-revise cycle into [[writing-education|writing instruction]]. The higher-order thinking and output processing indicators describe a workflow in which students generate material, evaluate its logical soundness and factual reliability, then restructure and integrate it with their own argument, and the authors place that practice in case discussions and academic writing workshops where [[formative-assessment|formative feedback]] can target it.
-- Read the scores as perceived capability rather than demonstrated performance, and label them that way. Each indicator rests on a single self-report item, so a high score says students believe they can do these things, not that they did them under authentic task conditions; pair the scale with performance tasks in [[authentic-assessment|authentic assessment]] before using results for a program review or a policy claim.
+- **Programme designers.** Treat the 15 indicators as a cohort-level diagnostic before designing instruction. Because the five dimensions are scored separately, a program can see whether a group of graduate students is short on cognitive foundation, operational skills, or ethical responsibility, instead of treating generative AI literacy as a single undifferentiated deficit and buying generic tool training for everyone.
+- **Assessment designers.** Keep apart the dimensions that look alike on paper. Cognitive foundation asks students to recognize what tools can and cannot do, while operational skills ask them to act on that recognition through prompt design, multi-turn dialogue, and output processing; higher-order thinking is where students judge whether to accept, revise, or reject AI output. A [[rubrics|rubric]] that collapses these into one uses-AI-well criterion hides exactly the differences the instrument was built to separate.
+- **Instructors.** Build the reported draft-and-revise cycle into [[writing-education|writing instruction]]. The higher-order thinking and output processing indicators describe a workflow in which students generate material, evaluate its logical soundness and factual reliability, then restructure and integrate it with their own argument, and the authors place that practice in case discussions and academic writing workshops where [[formative-assessment|formative feedback]] can target it.
+- **Programme designers.** Read the scores as perceived capability rather than demonstrated performance, and label them that way. Each indicator rests on a single self-report item, so a high score says students believe they can do these things, not that they did them under authentic task conditions; pair the scale with performance tasks in [[authentic-assessment|authentic assessment]] before using results for a program review or a policy claim.
 
 ## Limitations
 - The model rests on professors’ normative judgments about what students ought to know, not students’ own accounts of practice, and the sample was small and predominantly male.

@@ -1,4 +1,4 @@
----
+
 title: "From AI assessment to AI evaluative judgement: evidencing human judgement in AI-supported vocational learning"
 created: "2026-11-12T09:30:00-05:00"
 updated: "2026-11-12T09:30:00-05:00"
@@ -47,7 +47,7 @@ The AI evaluative judgment loop is presented as a control process, not a require
 
 ## Making judgment observable without surveillance
 
-Because [[self-report-measures|self-report]] cannot show whether a student actually judged anything, the framework turns to [[process-oriented-assessment|process-oriented assessment]] evidence instead: prompt and response records, accepted and rejected suggestions, version histories, rationales, final artifacts and rubric scores. Two rules keep that evidence honest. First, traces are partial rather than transparent — off-platform activity, peer help and tacit professional knowledge may be missing entirely, which is why the authors recommend triangulating interaction records, versions, explanations and rubric judgments rather than trusting any one of them. Second, the analytic unit should be a judgment episode linking an artifact, an applied criterion, an action and its consequence, not a raw count of prompts or edits. The warning cuts both ways: a polished product can conceal weak conceptual judgment, and a limited visible edit can follow careful verification and warranted acceptance. The aim is a proportionate account of decisions and their basis, with [[privacy|privacy]] and governance safeguards on the trace data.
+Because [[self-report-measures|self-report]] cannot show whether a student actually judged anything, the framework turns to [[process-oriented-assessment|process-oriented assessment]] evidence instead: prompt and response records, accepted and rejected suggestions, version histories, rationales, final artifacts and [[rubrics|rubric]] scores. Two rules keep that evidence honest. First, traces are partial rather than transparent — off-platform activity, peer help and tacit professional knowledge may be missing entirely, which is why the authors recommend triangulating interaction records, versions, explanations and rubric judgments rather than trusting any one of them. Second, the analytic unit should be a judgment episode linking an artifact, an applied criterion, an action and its consequence, not a raw count of prompts or edits. The warning cuts both ways: a polished product can conceal weak conceptual judgment, and a limited visible edit can follow careful verification and warranted acceptance. The aim is a proportionate account of decisions and their basis, with [[privacy|privacy]] and governance safeguards on the trace data.
 
 ## What vocational settings change about the criteria
 

@@ -1,4 +1,4 @@
----
+
 title: "Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program"
 created: "2026-09-20T06:06:47-04:00"
 updated: "2026-11-04T16:51:25-05:00"
@@ -19,7 +19,7 @@ source_url: https://doi.org/10.1111/bjet.70087
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This exploratory case study gives [[simulating-students|simulated student]] practice a quality test rather than a feasibility test: not whether an [[ai-avatars-and-synthetic-instructors|avatar]] can be built, but whether the resulting [[student-ai-interaction|teacher-avatar talk]] carries the interactional properties PBTE rehearsal needs. The answer is asymmetric and, the authors argue, design-congruent: participants rated the exchange clearly functional (M = 5.37) and only moderately authentic (M = 3.71), and the transcripts show the same split (87.1% versus 37.4% text coverage). The avatar acts as a responsive counter-voice that challenges and presses for reasons, which is the lever [[scaffolding|scaffolding]] wants novices to work against. Moderate authenticity is read not as a defect but as fit-for-function fidelity for novices, with peer dynamics and [[multimodal|multimodal]] cues named as levers for later iterations.
+> **Synthesis:** This exploratory case study gives [[simulating-students|simulated student]] practice a quality test rather than a feasibility test: not whether an [[ai-avatars-and-synthetic-instructors|avatar]] can be built, but whether the resulting [[student-ai-interaction|teacher-avatar talk]] carries the interactional properties PBTE rehearsal needs. The answer is asymmetric and, the authors argue, design-congruent: participants rated the exchange clearly functional and only moderately authentic, and the transcripts show the same split (87.1% versus 37.4% text coverage). The avatar acts as a responsive counter-voice that challenges and presses for reasons, which is the lever [[scaffolding|scaffolding]] wants novices to work against. Moderate authenticity is read not as a defect but as fit-for-function fidelity for novices, with peer dynamics and [[multimodal|multimodal]] cues named as levers for later iterations.
 
 Hauk, Menter and Schorling (2026) tested whether a short rehearsal with an AI-based student avatar gives [[teacher-education|preservice teachers]] a usable opportunity to practice educational dialogue in practice-based teacher education (PBTE). In a [[civic-and-political-education|Civic Education]] module at Leipzig University in the winter semester 2024/25, N = 21 preservice teachers each held a 10-minute, one-to-one voice conversation with an avatar named "Marco", a lower-secondary student whose disparaging remark about immigrants and their language skills created a controversy-oriented critical incident. Sessions used the browser-based GPTAvatar-WebGL application — Whisper [[speech-and-voice-technologies|speech recognition]], GPT-4o response generation, GoogleVoice and ElevenLabs speech output — and were followed by a 30-minute guided debriefing.
 
@@ -60,7 +60,7 @@ The metadata describe an interaction that behaves like a conversation rather tha
 - The sample was small and self-selected: N = 21 preservice Civic Education teachers from a single program, who chose the course format themselves; none reported prior hands-on experience with AI-based avatars.
 - The scenario was fixed to one controversy case, which standardizes the rehearsal but limits inference beyond that topic and may invite social-desirability effects in participants' responses.
 - Only a single brief session was captured — no longitudinal change, no transfer to classroom placements and no student-teacher learning outcomes — so no comparison with role-plays or [[simulation|simulations]] is possible.
-- Outcomes rest on self-report scales (α = 0.73) and coding performed by the authors themselves; the authors call for objective cognitive-affective indicators such as cognitive-load ratings, behavioral performance rubrics or physiological proxies.
+- Outcomes rest on self-report scales (α = 0.73) and coding performed by the authors themselves; the authors call for objective cognitive-affective indicators such as cognitive-load ratings, behavioral performance [[rubrics|rubrics]] or physiological proxies.
 
 ## Citation
 

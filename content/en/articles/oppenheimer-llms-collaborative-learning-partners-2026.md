@@ -1,4 +1,4 @@
----
+
 title: "You've Got AI Friend in Me: LLMs as Collaborative Learning Partners"
 created: "2026-09-03T14:12:57-04:00"
 updated: "2026-09-19T07:22:56-04:00"
@@ -19,10 +19,10 @@ level: [higher ed]
 
 ## Key Findings
 
-- **Students improved on all three performance dimensions** from the first to the fifth iteration of the assignment: quality of initial argument (2.58 → 2.90, t(109) = 6.22), [[prompt-engineering|prompt engineering]] (2.34 → 2.89, t(109) = 8.80), and response to AI [[feedback|feedback]] (2.41 → 2.88, t(109) = 5.44); all p < .001, with improvement roughly a full standard deviation per dimension.
+- **Students improved on all three performance dimensions** from the first to the fifth iteration of the assignment — quality of initial argument, [[prompt-engineering|prompt engineering]], and response to AI [[feedback|feedback]] — with each gain statistically significant and roughly a full standard deviation in size.
 - **Gains appeared even in essays written without LLM support.** Students' initial-draft argument quality improved over the semester, suggesting skill development rather than mere [[cognitive-offloading|tool dependency]] on the LLM — though causal attribution is limited by the lack of a control condition.
 - **Students engaged deeply rather than passively.** Blind coders found evidence of [[reflection|reflection]] in 92.7%, rebuttal of LLM claims in 87.8%, and acceptance of feedback in 93.6% of responses (inter-rater κs = 0.81–0.89), indicating students acted as [[critical-thinking|critical]] consumers who actively decided what to accept or refute.
-- **[[self-efficacy|Self-efficacy]] for generative AI grew across the semester.** Current self-efficacy was significantly higher after the fifth iteration than the first (t(177) = 4.25, p = .006), with the strongest within-assignment growth on the final iteration (t(97) = −5.65, p < .001).
+- **[[self-efficacy|Self-efficacy]] for generative AI grew across the semester.** Current self-efficacy was significantly higher after the fifth iteration than the first, with the strongest within-assignment growth on the final iteration.
 - **Affective responses were positive and durable.** Students rated the assignment useful, engaging, enjoyable, and appropriately challenging at both the first and fifth iterations (all significantly above the neutral midpoint, ps < .002), with [[student-engagement|engagement]] and enjoyment stable across the semester.
 - **A [[qualitative-research|qualitative]] [[affective-computing|sentiment analysis]] (run via GPT-4) classified 92.9% of general open-ended responses as positively valenced**, reinforcing the [[quantitative-research|quantitative]] affective results.
 
@@ -38,7 +38,7 @@ level: [higher ed]
 
 - There was no control condition. Every student in the single introductory social science elective (n = 154) worked with an LLM, and the authors state that other course elements — lectures, discussion, or generative-AI practice outside class — may account for part of the growth, so causal attribution is not possible.
 - All students sat in one class graded on a single curve, which is also why differential treatment was ruled out on logistical, [[pedagogy|pedagogical]], and ethical grounds; the study is therefore an exploratory classroom design rather than a [[rct|randomized trial]].
-- The performance measures come from one teaching assistant's rubric scoring of two assignments (iterations 1 and 5), and although the coder was blind to the study he was not blind to assignment timing, so fatigue or leniency as the term progressed could inflate the apparent gain; the first task could also have been easier than the last.
+- The performance measures come from one teaching assistant's [[rubrics|rubric]] scoring of two assignments (iterations 1 and 5), and although the coder was blind to the study he was not blind to assignment timing, so fatigue or leniency as the term progressed could inflate the apparent gain; the first task could also have been easier than the last.
 - The [[self-efficacy|self-efficacy]] and affective findings are [[self-report-measures|self-report]], using bi-valenced Likert scales and open-ended text, and the sentiment classification used to corroborate them was itself run with GPT-4 — the same class of model under study.
 
 ## Citation

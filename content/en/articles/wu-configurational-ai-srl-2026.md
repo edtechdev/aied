@@ -1,4 +1,4 @@
----
+
 title: "A Configurational Approach to Investigating the Use of Artificial Intelligence in Self-Regulated Learning From Needs Satisfaction, Learning Environments and Perceived Affordances"
 created: "2026-11-11T07:41:43-05:00"
 updated: "2026-11-14T10:00:00-05:00"
@@ -52,11 +52,11 @@ Two cautions follow from the authors' own tables. First, the abstract and conclu
 
 ## What this means for practice
 
-- **Instructors:** Do not treat ease of use as a precondition for AI-supported regulation. The highest-coverage pathway had effort expectancy absent at its core, so pair demanding tools with training, exemplars of [[prompt-engineering|prompting]] and verification, and help-desk support rather than withdrawing the tool.
-- **Instructors:** Offer choices over how AI is used — brainstorming, self-testing, feedback-based revision — and structure peer discussion of prompts and evaluation criteria. Relatedness satisfaction is a core condition in both of the highest-coverage pathways, and autonomy is core in one of them.
-- **Designers:** Build for strategy enactment, not just satisfaction: transparent options, editable steps, and prompts that ask students what the AI helped them do and what they will verify. Perceived affordance was core-absent in the instrumental pathway where self-regulation still occurred.
-- **Administrators:** Treat unequal access to devices, subscriptions and guidance as an [[equity-in-ai-education|equity]] problem. Facilitating conditions carry the largest compensatory role in the solution set, and the authors tie their uneven distribution to uneven benefits.
-- **Researchers:** Report solution coverage and consistency alongside regression results, and expect the two to disagree. Here the second-ranked pathway on coverage was non-significant in the Tobit model, which a single-pathway study would have hidden.
+- **Instructors.** Do not treat ease of use as a precondition for AI-supported regulation. The highest-coverage pathway had effort expectancy absent at its core, so pair demanding tools with training, [[rubrics|exemplars]] of [[prompt-engineering|prompting]] and verification, and help-desk support rather than withdrawing the tool.
+- **Instructors.** Offer choices over how AI is used — brainstorming, self-testing, feedback-based revision — and structure peer discussion of prompts and evaluation criteria. Relatedness satisfaction is a core condition in both of the highest-coverage pathways, and autonomy is core in one of them.
+- **Designers.** Build for strategy enactment, not just satisfaction: transparent options, editable steps, and prompts that ask students what the AI helped them do and what they will verify. Perceived affordance was core-absent in the instrumental pathway where self-regulation still occurred.
+- **Administrators.** Treat unequal access to devices, subscriptions and guidance as an [[equity-in-ai-education|equity]] problem. Facilitating conditions carry the largest compensatory role in the solution set, and the authors tie their uneven distribution to uneven benefits.
+- **Researchers.** Report solution coverage and consistency alongside regression results, and expect the two to disagree. Here the second-ranked pathway on coverage was non-significant in the Tobit model, which a single-pathway study would have hidden.
 
 ## Limitations
 

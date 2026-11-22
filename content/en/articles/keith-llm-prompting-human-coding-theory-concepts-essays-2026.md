@@ -1,4 +1,4 @@
----
+
 title: "Comparing Zero-Shot Large Language Model Prompting with Human Coding of Theory Concepts in Student Essays"
 created: "2026-11-05T20:00:00-05:00"
 updated: "2026-11-05T20:00:00-05:00"
@@ -63,7 +63,7 @@ The bias gradient made the failure mode concrete. Correctly defining carried the
 - The corpus is small and single-institution — 39 students and 67 papers from one writing-intensive course sequence — and the essays predate AI, so the ecology differs from current student writing that may itself be AI-assisted.
 - Only zero-shot prompting was tested; few-shot and chain-of-thought variants, which prior work suggests can improve agreement, were deliberately excluded to keep the comparison clean.
 - Temperature-0 outputs are not perfectly deterministic across servers and GPU operations, and the proprietary models may have changed during or after data collection, so replications across time and providers are needed.
-- The concept codebooks, and the definition-correctness judgments within them, reflect one four-person team's reading of one textbook's concepts, which limits generalization to other rubrics and content domains.
+- The concept codebooks, and the definition-correctness judgments within them, reflect one four-person team's reading of one textbook's concepts, which limits generalization to other [[rubrics|rubrics]] and content domains.
 
 ## Citation
 

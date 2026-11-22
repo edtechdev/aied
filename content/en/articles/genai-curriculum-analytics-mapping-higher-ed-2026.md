@@ -1,4 +1,4 @@
----
+
 title: "Leveraging GenAI models for Curriculum Analytics: A Human-Centered Approach for Curriculum Mapping in Higher Education"
 created: "2026-10-21T13:44:59-04:00"
 updated: "2026-10-21T13:54:03-04:00"
@@ -44,7 +44,7 @@ The study classifies its error patterns with an existing vocabulary for GenAI sk
 
 ## The trade-off between defensible and transferable mappings
 
-Chain-of-thought prompting looks like the clear winner on the first two validity dimensions: higher average ratings for Content and Substantive, and stronger inter-rater agreement (κ = 0.82 and 0.81, against 0.57 and 0.68 for Zero-shot). On generalizability the pattern reverses, with Zero-shot averaging 3.97 against 3.49. The authors read this as a specificity–scalability trade-off rather than noise: reasoning that attends closely to the features of one assessment can produce a mapping that travels less well to comparable tasks. Two results also cut against common assumptions about prompting. Few-shot prompting, which supplies worked examples, performed worse than Zero-shot for both models, possibly because the exemplars were selected for descriptive richness rather than balanced coverage across seven skills and assessment types, and because reasoning-optimized models may already decompose the task internally. One-by-one prompting, which evaluates each skill in isolation, was least consistent, plausibly because it removes the comparative context needed to distribute weights that sum to 100.
+Chain-of-thought prompting looks like the clear winner on the first two validity dimensions: higher average ratings for Content and Substantive, and stronger inter-rater agreement (κ = 0.82 and 0.81, against 0.57 and 0.68 for Zero-shot). On generalizability the pattern reverses, with Zero-shot averaging 3.97 against 3.49. The authors read this as a specificity–scalability trade-off rather than noise: reasoning that attends closely to the features of one assessment can produce a mapping that travels less well to comparable tasks. Two results also cut against common assumptions about prompting. Few-shot prompting, which supplies worked examples, performed worse than Zero-shot for both models, possibly because the [[rubrics|exemplars]] were selected for descriptive richness rather than balanced coverage across seven skills and assessment types, and because reasoning-optimized models may already decompose the task internally. One-by-one prompting, which evaluates each skill in isolation, was least consistent, plausibly because it removes the comparative context needed to distribute weights that sum to 100.
 
 ## From model output to a program-level review
 

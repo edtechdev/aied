@@ -1,4 +1,4 @@
----
+
 title: "Validating LLM-Based Essay Scorers: A Comparative Analysis in Critical Online Reasoning in Medical Education"
 created: "2026-11-17T09:40:00-05:00"
 updated: "2026-11-17T09:40:00-05:00"
@@ -23,7 +23,7 @@ ai_assist:
     role: drafting
 ---
 
-> **Synthesis:** Does a scorer for medical-education writing need medical training? This study says no. Baumartz and colleagues took 668 student responses to 12 [[critical-thinking|critical online reasoning]] tasks in medicine, 2,076 human ratings from 7 annotators, and 11 [[automated-essay-scoring|automated essay scorers]] run against 8 general-purpose [[llm|LLMs]], producing 74 configurations and 203 score features. A linear support vector machine trained on those features reconstructed human performance classes with Macro F1 of 92% for a binary split and 83% for three classes, and roughly half the features were enough. No single scorer came close, and model size made no difference. The most predictive features were tied to content and reasoning rather than surface language, which suggests the ensemble tracks the construct the rubric targets. Because the class labels are bins of unconsolidated rater means, the result demonstrates [[assessment-validity|agreement with human judgment]] rather than correct grading.
+> **Synthesis:** Does a scorer for medical-education writing need medical training? This study says no. Baumartz and colleagues took 668 student responses to 12 [[critical-thinking|critical online reasoning]] tasks in medicine, 2,076 human ratings from 7 annotators, and 11 [[automated-essay-scoring|automated essay scorers]] run against 8 general-purpose [[llm|LLMs]], producing 74 configurations and 203 score features. A linear support vector machine trained on those features reconstructed human performance classes with Macro F1 of 92% for a binary split and 83% for three classes, and roughly half the features were enough. No single scorer came close, and model size made no difference. The most predictive features were tied to content and reasoning rather than surface language, which suggests the ensemble tracks the construct the [[rubrics|rubric]] targets. Because the class labels are bins of unconsolidated rater means, the result demonstrates [[assessment-validity|agreement with human judgment]] rather than correct grading.
 
 ## Key Findings
 

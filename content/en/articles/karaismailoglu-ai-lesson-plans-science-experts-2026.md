@@ -1,4 +1,4 @@
----
+
 title: "Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts"
 created: "2026-09-03T14:30:55-04:00"
 updated: "2026-09-19T07:22:56-04:00"
@@ -37,7 +37,7 @@ methods: [qualitative-research]
 - **Instructors.** Write prompts in English or budget time to repair the output: pilot prompts in Turkish failed to convey the EDBL framework to either platform, so the study standardized an English prompt before the expert evaluation and translated the resulting plans back for review.
 - **Instructors.** Add the local context yourself. Neither platform adapted the plan to the target city of Mersin when explicitly prompted to, which the authors attribute to the tools' limited socio-cultural contextualization.
 - **Designers.** If you are choosing between platforms, prefer one with pedagogical structure built in: the education-focused tool outscored the general-purpose model on feedback-intensive stages such as evaluating and retesting, and on instructional sequencing and curriculum alignment.
-- **Faculty developers.** Train teachers to audit plans stage by stage against their own curriculum rather than judging them holistically — experts' holistic preferences did not track the rubric scores, and the largest weaknesses sat in process stages that a quick read of a well-sequenced plan will not reveal.
+- **Faculty developers.** Train teachers to audit plans stage by stage against their own curriculum rather than judging them holistically — experts' holistic preferences did not track the [[rubrics|rubric]] scores, and the largest weaknesses sat in process stages that a quick read of a well-sequenced plan will not reveal.
 
 ## Limitations
 

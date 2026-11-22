@@ -1,4 +1,4 @@
----
+
 title: "ClickSight: An LLM Framework for Interpreting Student Clickstreams Through Learning Strategies"
 published: "2026-11-01"
 created: "2026-11-03T09:27:09-05:00"
@@ -33,7 +33,7 @@ methods: [ai-ed-evaluation]
 4. **Reasoning configurations were more consistent than instruction-tuned ones.** Across 12 model backbones spanning Qwen3, GPT-OSS and GPT families, thinking variants held quality more reliably within family comparisons.
 5. **Correctness, not justification, was the weak link.** Justifiedness exceeded correctness in Beer's Law Lab under all three methods, meaning interpretations supported the wrong adherence level with evidence the student had actually produced.
 6. **External guidance helped quantitative strategies.** Providing clickstream-extracted guidance improved interpretation quality for strategies that require precise counts from the trace.
-7. **Evaluation used an LLM judge calibrated to human ratings.** Quality was scored on a four-criterion rubric, including a judge whose agreement with human expert labels was checked rather than assumed.
+7. **Evaluation used an LLM judge calibrated to human ratings.** Quality was scored on a four-criterion [[rubrics|rubric]], including a judge whose agreement with human expert labels was checked rather than assumed.
 
 ## What the framework does
 
@@ -56,7 +56,7 @@ Coverage of model families is unusually broad for this literature — 12 backbon
 ## What this means for practice
 
 - **Ask for evidence, not labels.** A strategy interpretation that names the actions behind each judgment can be checked by an instructor; a bare classification cannot.
-- **Test the pipeline in your own environment before trusting the ranking.** Performance ranged from near-ceiling to mid-0.70s across two tasks in one study, so environment difficulty dominates.
+- **Researchers.** Test the pipeline in your own environment before trusting the ranking: performance ranged from near-ceiling to mid-0.70s across two tasks in one study, so environment difficulty dominates.
 - **Watch for well-argued wrong answers.** Justifiedness above correctness means the failure mode is a confident, evidence-cited misreading, which is harder to spot than an unsupported claim.
 - **Use reasoning-capable models for this work.** Thinking variants were more consistent than instruction-tuned ones of the same family across the model comparison.
 

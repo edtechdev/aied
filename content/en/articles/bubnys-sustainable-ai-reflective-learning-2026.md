@@ -1,4 +1,4 @@
----
+
 title: "Sustainable AI-Supported Reflective Learning in Higher Education: An Integrative Review and the SAREL Design Framework"
 created: "2026-11-20T08:50:00-05:00"
 updated: "2026-11-20T08:50:00-05:00"
@@ -30,7 +30,7 @@ connected_concepts: [learning-design, cognitive-offloading, universal-design-for
 connected_articles: []
 ---
 
-> **Synthesis:** Bubnys, Butvilas, Colomer and Cañabate read 49 scholarly and policy sources and argue that "sustainable" educational technology has been reduced to a claim about access and efficiency, when [[sustainability|sustainability]] should also mean learning that lasts, inclusion, rights, institutional feasibility and proportionate use of resources. From that synthesis they propose **SAREL** (Sustainable AI-Supported Reflective Education and Learning), a five-stage design-and-audit loop — Specify, Allocate, Require, Evaluate, Loop — for [[learning-design|designing]] [[generative-ai|GenAI]]-supported [[reflection|reflective]] work in higher education. The framework's contribution is integrative: it connects existing concerns about [[cognitive-offloading|keeping reflection as learner work]], [[universal-design-for-learning|accessibility and agency]], governance and workload, and resource intensity into one task-level sequence. The authors are explicit that SAREL, its rubric and its "sustainability-adjusted learning value" construct are provisional and have not been empirically validated, so the review is a design argument rather than a test of one.
+> **Synthesis:** Bubnys, Butvilas, Colomer and Cañabate read 49 scholarly and policy sources and argue that "sustainable" educational technology has been reduced to a claim about access and efficiency, when [[sustainability|sustainability]] should also mean learning that lasts, inclusion, rights, institutional feasibility and proportionate use of resources. From that synthesis they propose **SAREL** (Sustainable AI-Supported Reflective Education and Learning), a five-stage design-and-audit loop — Specify, Allocate, Require, Evaluate, Loop — for [[learning-design|designing]] [[generative-ai|GenAI]]-supported [[reflection|reflective]] work in higher education. The framework's contribution is integrative: it connects existing concerns about [[cognitive-offloading|keeping reflection as learner work]], [[universal-design-for-learning|accessibility and agency]], governance and workload, and resource intensity into one task-level sequence. The authors are explicit that SAREL, its [[rubrics|rubric]] and its "sustainability-adjusted learning value" construct are provisional and have not been empirically validated, so the review is a design argument rather than a test of one.
 
 ## Key Findings
 

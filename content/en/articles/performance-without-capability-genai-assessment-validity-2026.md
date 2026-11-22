@@ -1,4 +1,4 @@
----
+
 title: "Performance without capability: generative AI and the validity of assessment in higher education"
 created: "2026-11-19T09:58:00-05:00"
 updated: "2026-11-19T09:58:00-05:00"
@@ -61,7 +61,7 @@ The worked example applies one task — a 2,000-word case analysis in a second-y
 
 Three implications follow, and each cuts against a common institutional reflex:
 
-- **Process evidence is necessary but not sufficient.** Drafts, reasoning traces and annotated decisions help only if they would differ between a student who understood the material and one who did not. A rubric-satisfying reflection on tool use is itself generatable.
+- **Process evidence is necessary but not sufficient.** Drafts, reasoning traces and annotated decisions help only if they would differ between a student who understood the material and one who did not. A [[rubrics|rubric]]-satisfying reflection on tool use is itself generatable.
 - **Restriction is not automatically the authentic option.** Where AI-supported practice *is* the capability being certified, excluding GenAI reduces authenticity rather than protecting it. The pivotal question is whether the outcome is what the student knows, what they can do unaided, or what they can do competently with the tool.
 - **AI intensifies existing patterns rather than disrupting them.** Students with stronger prior knowledge and better [[self-regulated-learning|self-regulation]] interrogate the tool and keep responsibility; less-proficient students more readily accept generated answers. But this is not simply advantage accumulating to the strong: GenAI can lift the immediate performance of lower-performing learners without those gains surviving the removal of support — which is precisely the performance-without-capability pattern.
 

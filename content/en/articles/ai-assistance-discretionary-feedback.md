@@ -1,4 +1,4 @@
----
+
 title: "AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education"
 created: "2026-06-04T04:33:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"
@@ -34,7 +34,7 @@ This paper's core contribution is shifting the question from *how well* AI helps
 
 ## The Intervention: AI Drafts in the Grading Workflow
 
-The study ran in a 300-level undergraduate machine learning course at a private R1 university (enrollment 130–150), where feedback was historically rare because it was optional. Written work was manually graded by 11 TAs (7 GTAs, 4 UTAs) using instructor-provided rubrics, and each question was graded by a single TA.
+The study ran in a 300-level undergraduate machine learning course at a private R1 university (enrollment 130–150), where feedback was historically rare because it was optional. Written work was manually graded by 11 TAs (7 GTAs, 4 UTAs) using instructor-provided [[rubrics|rubrics]], and each question was graded by a single TA.
 
 The intervention was a lightweight, [[llm|LLM]]-backed **Chrome extension** that integrated into the course's native grading platform. It ran a two-stage design intended to limit [[trust-calibration|over-reliance]]: TAs first completed grading independently, and only after clicking a "Done Grading" button was an AI-assisted feedback draft surfaced. In the treatment condition the draft appeared; in the control condition it did not. TAs could **use, edit, or ignore** each draft at their discretion. Question-level randomization with a rotating assignment scheme across homework (HW1–HW4) meant each TA graded both treated and control submissions, with homework-question fixed effects absorbing the assigned TA, rubric, and question characteristics.
 

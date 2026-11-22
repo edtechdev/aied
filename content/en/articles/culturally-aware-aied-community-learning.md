@@ -1,4 +1,4 @@
----
+
 title: "Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design"
 created: "2026-06-09T04:33:04-04:00"
 updated: "2026-09-18T19:55:59-04:00"
@@ -23,7 +23,7 @@ The framework emphasizes [[equity-in-ai-education|cultural contextualization]] o
 ## What this means for practice
 
 - **Instructors.** Sequence community-engaged AI design as three explicit events rather than an open-ended project: Week 3 field co-design at the museum partner, Week 4 alignment of proposals with named UN [[sustainability|Sustainable Development Goals]] (the project used SDG 4, SDG 8, SDG 11 and SDG 17), and Week 7 mutual validation in front of community partners, staff and peers.
-- **Instructors.** Recruit community partners as co-designers with a defined role — the museum contributed three bilingual (Mandarin/English) educators — so that validation criteria come from the community rather than from the course rubric.
+- **Instructors.** Recruit community partners as co-designers with a defined role — the museum contributed three bilingual (Mandarin/English) educators — so that validation criteria come from the community rather than from the course [[rubrics|rubric]].
 - **Learners.** Design for the partner's real audience and constraints: the students shipped a bilingual, high-contrast [[culturally-relevant-pedagogy|culturally contextualized]] interface because the museum's audiences read Chinese and English and included visitors needing accessibility support.
 - **Instructors.** Treat learners as knowledge producers by releasing [[collaborative-learning|student work]] as [[open-source|open source]] artifacts and giving students a stated authorial role, which moved them from "data sources" to co-authors analyzing their own learning.
 - **Administrators.** Keep [[human-in-the-loop-ai|human review]] in the loop for any AI-generated output that reaches the public or a partner, since the reported workflow assumes [[meta-analysis-systematic-review|systematic review]] of AI outputs by the project team.

@@ -1,4 +1,4 @@
----
+
 title: "Generative AI in creative education: baseline-linked evidence on learning processes, artistic performance, and authorship"
 created: "2026-10-04T09:05:00-04:00"
 updated: "2026-10-04T09:05:00-04:00"
@@ -65,7 +65,7 @@ That reframes the practical problem. If the worry is legibility rather than hone
 - The study is observational, not experimental: AI use was self-selected, so propensity-score adjustment reduces but cannot eliminate confounding by students' prior motivation and ability.
 - The sample is 133 students in a single undergraduate art course at one institution, and the authors present it as an investigation of that course rather than a generalizable estimate.
 - AI use is measured through self-reported dimensions and questionnaire responses, so the process measures carry common-method and social-desirability risk.
-- The outcome models rest on evaluator ratings of creative performance; the authors report kappa-based agreement, but a single evaluative rubric still narrows what "performance" can capture.
+- The outcome models rest on evaluator ratings of creative performance; the authors report kappa-based agreement, but a single evaluative [[rubrics|rubric]] still narrows what "performance" can capture.
 - The follow-up is post-project only, so the study cannot say whether the process gains persist or whether they later translate into artifact quality.
 
 ## Citation

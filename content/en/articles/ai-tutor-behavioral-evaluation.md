@@ -1,4 +1,4 @@
----
+
 title: "The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness"
 created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -51,7 +51,7 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 
 ## What this means for practice
 
-- **Designers.** Evaluate deployed tutors on what students do with the feedback, not only on rubric quality: two tutors that scored similarly across eight pedagogical dimensions differed by 9–21 percentage points in feedback relevance on every assignment.
+- **Designers.** Evaluate deployed tutors on what students do with the feedback, not only on [[rubrics|rubric]] quality: two tutors that scored similarly across eight pedagogical dimensions differed by 9–21 percentage points in feedback relevance on every assignment.
 - **Designers.** Make feedback students will act on a first-class design objective — misconception-aware prompting raised uptake here — and accept the trade-off, since the misconception tutor reduced answer revealing (99.65 vs. 93.95 DAMR) at some cost to immediate actionability.
 - **Researchers.** Interpret success scores before drawing conclusions: feedback marked undesired on the revealing-answer dimension achieved higher correct-application rates than desired feedback (79.4% vs. 53.0% for MisconceptionTutor), consistent with students copying a revealed answer rather than solving the problem.
 - **Researchers.** Report engagement metrics alongside pedagogical ones, because RelScore (β = 0.420) and SuccScore (β = 0.187) predicted students' perceived helpfulness more consistently than most pedagogical dimensions did (guidance β = 0.349; mistake identification β = −0.524).

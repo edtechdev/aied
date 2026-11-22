@@ -1,4 +1,4 @@
----
+
 title: "How Teachers Judge Creativity in Generative AI-Assisted Student Work: A Cross-Cultural Pathway Model for Higher Education Assessment"
 created: "2026-11-20T08:50:00-05:00"
 updated: "2026-11-20T08:52:00-05:00"
@@ -42,7 +42,7 @@ connected_articles: []
 
 ## Study 1: how teachers talked about creativity
 
-The first study ran focus groups with 20 higher-education teachers to learn which qualities they actually attend to when they look at a GenAI-assisted artifact. The cues it surfaced became the constructs for the survey. Some were adapted from earlier creativity-assessment work — novelty, resolution, aesthetics, affect, synthesis — and some were new to this context — diversity, transferability, inspiration. The move matters methodologically: rather than importing a general creativity rubric, the authors built the measurement from what teachers said they saw, then tested whether those judgments held at scale.
+The first study ran focus groups with 20 higher-education teachers to learn which qualities they actually attend to when they look at a GenAI-assisted artifact. The cues it surfaced became the constructs for the survey. Some were adapted from earlier creativity-assessment work — novelty, resolution, aesthetics, affect, synthesis — and some were new to this context — diversity, transferability, inspiration. The move matters methodologically: rather than importing a general creativity [[rubrics|rubric]], the authors built the measurement from what teachers said they saw, then tested whether those judgments held at scale.
 
 ## Study 2: the cross-cultural survey
 

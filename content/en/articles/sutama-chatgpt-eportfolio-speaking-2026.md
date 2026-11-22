@@ -1,4 +1,4 @@
----
+
 title: "Aligning ChatGPT with e-portfolio assessment as EFL learning model: its effect on students' speaking performance and feedback literacy"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
@@ -14,13 +14,13 @@ audience: [instructors, assessment designers]
 level: [higher ed]
 ---
 
-> **Synthesis:** This quasi-experimental study (N=60, first-semester vocational EFL students at Politeknik Negeri Bali) is the first to empirically test the *combined* effect of aligning ChatGPT with e-[[eportfolio|portfolio assessment]] (the "CEA" model) on both speaking performance and [[feedback-literacy|feedback literacy]], which prior [[research-methods-aied|research]] had studied only separately. One-way MANOVA found a large simultaneous effect (Wilks' λ = 0.476, p < .001, partial η² = 0.524): the experimental group outperformed the control on speaking performance (M = 82.733 vs 78.833) and feedback literacy (M = 79.666 vs 71.762). Thematic analysis of 27 interviews surfaced seven themes, including digital peer synergy, digital confidence [[scaffolding|scaffolding]], tech-enhanced autonomy, and [[metacognition|metacognitive]] awareness enhancement. The authors argue that e-portfolios support speaking ability and the metacognitive ability to use feedback, and that pedagogically structured AI integration adds value beyond raw AI access.
+> **Synthesis:** This quasi-experimental study (N=60, first-semester vocational EFL students at Politeknik Negeri Bali) is the first to empirically test the *combined* effect of aligning ChatGPT with e-[[eportfolio|portfolio assessment]] (the "CEA" model) on both speaking performance and [[feedback-literacy|feedback literacy]], which prior [[research-methods-aied|research]] had studied only separately. One-way MANOVA found a large simultaneous effect: the experimental group outperformed the control on both speaking performance and feedback literacy. Thematic analysis of 27 interviews surfaced seven themes, including digital peer synergy, digital confidence [[scaffolding|scaffolding]], tech-enhanced autonomy, and [[metacognition|metacognitive]] awareness enhancement. The authors argue that e-portfolios support speaking ability and the metacognitive ability to use feedback, and that pedagogically structured AI integration adds value beyond raw AI access.
 
 ## Key Findings
 
-- **Large simultaneous effect:** MANOVA on the two dependent variables was significant — F(2,57) = 31.313, p < .001 (Wilks' λ = 0.476), a large overall effect (partial η² = 0.524). The CEA model significantly improved students' speaking performance **and** [[feedback-literacy|feedback literacy]] together.
-- **Speaking performance:** univariate test F(1) = 48.554, p < .001, partial η² = 0.456 (large). Post-test means: experimental M = 82.733 (SD 2.381) vs control M = 78.833 (SD 1.931).
-- **Feedback literacy:** univariate test F(1) = 16.135, p < .001, partial η² = 0.218. Post-test means: experimental M = 79.666 (SD 9.830) vs control M = 71.762 (SD 4.418).
+- **Large simultaneous effect:** the CEA model significantly improved students' speaking performance **and** [[feedback-literacy|feedback literacy]] together, a large overall effect across the two outcomes.
+- **Speaking performance:** the experimental group outperformed the control on the post-test, a large effect.
+- **Feedback literacy:** the experimental group outperformed the control on the post-test.
 - **Seven [[qualitative-research|qualitative]] themes** from 27 interviews: digital feedback orchestration, systemic feedback information construction, development of adaptive [[learning-gains|learning]] strategies, digital peer synergy, digital confidence scaffolding, tech-enhanced autonomy, and metacognitive awareness enhancement.
 - **Feedback as durable record:** students reframed [[feedback|feedback]] as consultable data (stored on Padlet) rather than a temporary correction, supporting the "processes feedback information" and "commits to feedback as improvement" dimensions of [[feedback-literacy|feedback literacy]].
 - **Structured integration matters more than access:** consistent with prior work (Teng, 2024; Teng & Huang, 2026), the authors emphasize that how AI is incorporated into [[pedagogy|pedagogy]] outweighs the mere availability of the technology — CEA is an AI-grounded value-add to traditional e-portfolios, not AI access alone.
@@ -30,7 +30,7 @@ level: [higher ed]
 - **Design:** explanatory sequential [[mixed-methods-research|mixed-methods]] design combining a quasi-experiment (pretest–posttest control group, one factor with two dependent variables) with qualitative semi-structured interviews.
 - **Participants:** 60 first-semester students (2 of 6 classes, ~18–20 yrs, all non-native speakers ~9 yrs of English, CEFR B1) in the International Business Management program, English for Interpersonal Communication course, Politeknik Negeri Bali. Cluster random sampling; 27 experimental students purposively interviewed via WhatsApp.
 - **Intervention (8 weeks):** Experimental group used the CEA model — Padlet as the primary e-portfolio environment (video submissions, peer comments, collaborative [[feedback|feedback]]), with ChatGPT as a secondary individualized feedback system (voice-mode practice, idea drafting, pronunciation, archiving transcripts and [[reflection|self-reflection]]s via Google Form). Control group used a conventional e-portfolio on Google Drive with lecturer-only feedback and no structured [[generative-ai|generative AI]].
-- **Instruments:** speaking tests scored on fluency, accuracy, and complexity (rubrics adapted from Housen & Kuiken 2009; Ogawa 2022); a 14-item feedback literacy self-rated questionnaire adapted from Molloy et al. (2020). Inter-rater reliability strong (Cohen's κ 0.761–0.840).
+- **Instruments:** speaking tests scored on fluency, accuracy, and complexity ([[rubrics|rubrics]] adapted from Housen & Kuiken 2009; Ogawa 2022); a 14-item feedback literacy self-rated questionnaire adapted from Molloy et al. (2020). Inter-rater reliability strong (Cohen's κ 0.761–0.840).
 - **Analysis:** one-way MANOVA with Wilks' λ after checking normality/homogeneity/covariance assumptions; qualitative data analyzed via Braun & Clarke's (2019) six-phase thematic analysis with dual coding, peer debriefing, and audit trail.
 
 ## What this means for practice

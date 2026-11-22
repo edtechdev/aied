@@ -1,4 +1,4 @@
----
+
 title: Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 created: "2026-06-19T04:33:04-04:00"
 updated: "2026-09-20T08:08:49-04:00"
@@ -34,7 +34,7 @@ page_kind: [evaluation]
 ## Limitations
 
 - Six NGSS-aligned middle school items with 477, 538, 520, 772, 453, and 816 responses respectively, all collected from [[science-education|science classrooms]] in one region of the United States, so students' representational practices may reflect local curricular and classroom contexts.
-- Expert-provided rubric scores serve as the reference, so any systematic tendencies in human scoring may also be reflected in model performance.
+- Expert-provided [[rubrics|rubric]] scores serve as the reference, so any systematic tendencies in human scoring may also be reflected in model performance.
 - Models are trained independently for each assessment item, so nothing here shows a single scorer transferring across items or subjects.
 - The confidence metric is validated by a correlation with accuracy (r = 0.649) with expert review still under way, and the zero-shot comparison against Qwen3-VL-8B-Instruct is summarized only as lower agreement with details kept in the project repository.
 

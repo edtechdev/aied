@@ -1,4 +1,4 @@
----
+
 title: "Patterns of student cognitive offloading to AI in higher education"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"
@@ -23,7 +23,7 @@ confidence: high
 2. **The Bloom distribution was led by a higher-order level.** [[critical-thinking|Analytical]] queries topped Study 1 at 831 messages (27.28%), ahead of Understand at 724 (23.76%), Remember at 470 (15.43%), Apply at 423 (13.89%) and Create at 214 (7.03%). Evaluate was 185 (6.07%) and 200 (6.57%) were unclassifiable.
 3. **The LLM coder was checked against a human on a 200-message sample.** Agreement between GPT-4o-mini and a trained rater was substantial for question type (Cohen's κ = 0.76, 80% agreement) and for Bloom level (Cohen's κ = 0.75, 80% agreement), the basis for trusting automated classification of the full corpus.
 4. **In the 16-student subsample the profile shifted toward understanding and generation.** Across 125 dialogues, Understand took 53 (42.4%) and Create 38 (30.4%), followed by Apply at 20 (16.0%) and Remember at 10 (8.0%); Analyze (3, 2.4%) and Evaluate (1, 0.8%) were rare. The authors read this as the small subsample emphasizing [[generative-ai|generation]] more heavily than the full cohort.
-5. **Most dialogues were not offloading at all.** Of 125 coded dialogues, 62 (49.6%) were no offloading, 43 (34.4%) light offloading and 20 (16.0%) heavy offloading, using a rubric that reserves "heavy" for cases where the AI produces the first draft and constructs the core intellectual product.
+5. **Most dialogues were not offloading at all.** Of 125 coded dialogues, 62 (49.6%) were no offloading, 43 (34.4%) light offloading and 20 (16.0%) heavy offloading, using a [[rubrics|rubric]] that reserves "heavy" for cases where the AI produces the first draft and constructs the core intellectual product.
 6. **Heavy offloading clustered at the top of [[bloom-taxonomy|Bloom's taxonomy]].** 16 of the 20 heavy-offloading dialogues (80%) were Create requests, and heavy offloading accounted for 42% of all Create dialogues; Understand held most light offloading (22 of 43, 51%). Remember was exclusively no-offloading (10 of 10) and Apply split evenly (12 none, 5 light, 3 heavy).
 7. **Grade tiers differed, but not significantly.** Heavy offloading appeared at similar rates in the top (17.6%) and middle (17.5%) tiers and rarely in the bottom tier (5.9%); a χ² test found no significant difference (χ² = 5.80, df = 4, p = 0.215).
 8. **One student carried much of the top-tier pattern.** The 12 heavy-offloading dialogues in the top tier were disproportionately produced by a single student (ID 1, 7 of 12 dialogues heavy, 58%); excluding them the top-tier heavy rate falls to 8.9%, below the middle tier, which the authors read as disciplinary context (programming) shaping [[cognitive-offloading|offloading]] more than performance.

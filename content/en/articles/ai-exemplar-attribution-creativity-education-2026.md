@@ -1,4 +1,4 @@
----
+
 title: "Supporting creativity education in the age of AI: The role of perceived exemplar source"
 created: "2026-10-15T09:15:00-04:00"
 updated: "2026-11-04T16:51:25-05:00"
@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Can the same idea land differently depending on who students think wrote it? This fNIRS hyperscanning experiment with 113 dyads asked whether labeling identical [[creativity|creativity]] exemplars as human- or AI-generated changes how pairs engage in group [[problem-solving|problem-solving]]. The exemplars were produced by ChatGPT and shown unchanged; only the stated source differed. When attributed to a person, they raised idea uniqueness during stimulation above both the AI-labeled and no-exemplar control groups, while AI attribution only increased switching among ideation pathways. Neither behavioral benefit survived withdrawal of the exemplars. Human-labeled pairs also rated the exemplars as more helpful, even though their ideas overlapped the exemplars' categories and sat at the same semantic distance as the AI group's. Neural measures tracked the split: human attribution raised interbrain synchronization in premotor and supplementary motor areas during stimulation, whereas AI attribution lowered it in the supramarginal gyrus and frontopolar cortex afterward. The study reframes perceived provenance as a social cue that shapes [[student-ai-interaction|student-ai interaction]], not merely a disclosure obligation.
+> **Synthesis:** Can the same idea land differently depending on who students think wrote it? This fNIRS hyperscanning experiment with 113 dyads asked whether labeling identical [[creativity|creativity]] [[rubrics|exemplars]] as human- or AI-generated changes how pairs engage in group [[problem-solving|problem-solving]]. The exemplars were produced by ChatGPT and shown unchanged; only the stated source differed. When attributed to a person, they raised idea uniqueness during stimulation above both the AI-labeled and no-exemplar control groups, while AI attribution only increased switching among ideation pathways. Neither behavioral benefit survived withdrawal of the exemplars. Human-labeled pairs also rated the exemplars as more helpful, even though their ideas overlapped the exemplars' categories and sat at the same semantic distance as the AI group's. Neural measures tracked the split: human attribution raised interbrain synchronization in premotor and supplementary motor areas during stimulation, whereas AI attribution lowered it in the supramarginal gyrus and frontopolar cortex afterward. The study reframes perceived provenance as a social cue that shapes [[student-ai-interaction|student-ai interaction]], not merely a disclosure obligation.
 
 ## Key Findings
 

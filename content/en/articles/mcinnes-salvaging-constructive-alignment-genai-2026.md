@@ -1,4 +1,4 @@
----
+
 title: "Efficiency at what cost? Salvaging constructive alignment from the GenAI hype"
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-19T10:40:23-04:00"
@@ -19,7 +19,7 @@ confidence: high
 
 ## Key Findings
 
-- **The sampled advice promotes efficiency over pedagogical depth:** Across all 14 sources, pedagogical vocabulary was largely absent and the rationale for GenAI was expressed through techno-solutionist efficiency claims — describing it as "an effective and efficient way to draft rubrics" or able to "make course design more efficient, aligned and engaging" — reducing constructive alignment to task automation rather than co-construction.
+- **The sampled advice promotes efficiency over pedagogical depth:** Across all 14 sources, pedagogical vocabulary was largely absent and the rationale for GenAI was expressed through techno-solutionist efficiency claims — describing it as "an effective and efficient way to draft [[rubrics|rubrics]]" or able to "make course design more efficient, aligned and engaging" — reducing constructive alignment to task automation rather than co-construction.
 - **Anthropomorphic framing elevates the tool to pedagogical peer:** Texts positioned GenAI as an "educational expert and assistant," a "sparring partner," or "intelligent assistants in [[learning-design|instructional design]]," creating a "discursive partnership" that implies the system holds the same contextual and [[ethics|ethical]] discernment as an educator and reframes design as a socialised interaction with an algorithmic colleague.
 - **Academic expertise is discursively partitioned:** Staff were cast as supplying subject matter expertise while GenAI handled the "heavy lifting of developing learning objectives, organizing course content, creating course outlines, and aligning course components" — an industrial metaphor that devalues the cognitive and pedagogical labor of design and casts the expert as supervisor to a more efficient automated laborer.
 - **Two ideological formations drove the discourse:** Analysis surfaced an *AI hype* formation (innovation, disruption, inevitability — "GenAI is here to stay!" — and deference to GenAI's supposed objectivity over human blind spots) and an *institutional pressures* formation rooted in managerialist and neoliberal logics that treated constructive alignment as an auditable output to be streamlined.

@@ -1,4 +1,4 @@
----
+
 title: "Developing Feedback Taxonomy for Math: A Synergy of Perspectives through Data Mining Methods"
 created: "2026-11-05T19:50:53-05:00"
 updated: "2026-11-05T20:00:00-05:00"
@@ -61,7 +61,7 @@ The resulting taxonomy sharpens prior frameworks. Unlike Shute's (2008) broad ca
 - **Instructors.** Recognize that a large share of effective teacher feedback is scaffolding rather than correction: in this corpus the majority of clusters represent facilitative moves — Hinting, Rhetorical Question, Show Your Work, and Worked Example — so feedback that prompts rethinking may serve middle school math students better than answer-focused comments.
 - **Educational technology developers.** Use the ten-type taxonomy as a design vocabulary for feedback systems and for LLM-based feedback generation, since the authors show it can structure prompt engineering, fine-tuning objectives, and evaluation criteria around the feedback types teachers actually produce.
 - **Researchers.** Do not treat a single coding perspective as the ground truth for feedback content: agreement among six expert coders ranged from 0.955 to 0.133 by code, so multi-perspective coding (or explicit justification of one) is a reporting requirement, not an optional check.
-- **Assessment designers.** Distinguish affirmation subtypes in feedback rubrics — Targeted Affirmation, Non-specific Positivity, and Non-verbal Affirmation differ in specificity and modality — and treat "Great job!"-style comments as a real, prevalent feedback type rather than noise.
+- **Assessment designers.** Distinguish affirmation subtypes in feedback [[rubrics|rubrics]] — Targeted Affirmation, Non-specific Positivity, and Non-verbal Affirmation differ in specificity and modality — and treat "Great job!"-style comments as a real, prevalent feedback type rather than noise.
 
 ## Limitations
 

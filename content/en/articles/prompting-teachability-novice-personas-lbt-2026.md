@@ -1,4 +1,4 @@
----
+
 title: "Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts"
 created: "2026-08-14T10:45:34-04:00"
 updated: "2026-09-19T10:03:37-04:00"
@@ -21,7 +21,7 @@ audience: [researchers, instructional designers]
 
 - **30,720 combined prompts** across five writing-related domains.
 - **Three models evaluated**: Qwen3-235B, Llama 4, Kimi-K2.
-- **Outputs scored** on quiz accuracy, essay quality, and essay persuasiveness using an AI-judge rubric.
+- **Outputs scored** on quiz accuracy, essay quality, and essay persuasiveness using an AI-judge [[rubrics|rubric]].
 - **Regression analysis** compared four prompting strategy families: persona-based, misconception-based, uncertainty-based, and constraint-based.
 
 ## Key Findings

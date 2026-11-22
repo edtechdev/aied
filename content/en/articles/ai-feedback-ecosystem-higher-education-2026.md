@@ -1,4 +1,4 @@
----
+
 title: "How artificial intelligence transforms the feedback ecosystem in higher education"
 created: "2026-09-21T08:04:08-04:00"
 updated: "2026-09-26T03:02:03-04:00"
@@ -19,7 +19,7 @@ pedagogy: [self-regulated-learning]
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Bearman and colleagues argue that AI does not slot into [[feedback|feedback]] as another source of comments; it reworks the web of relations among students, educators, materials and peers, and they borrow Barnett's ecological framing to call that web a feedback ecosystem. Their evidence comes from three two-hour online workshops with 12 students and 18 educators, run so that both groups could hear each other's firsthand accounts. The findings are asymmetric in an instructive way. Students treated AI as an additional but flawed information source, weighed it against rubrics, lecture notes, discussion boards and educator comments, and mostly privileged educators they trusted, while still using AI as a holding pattern when staff feedback was slow. Educators were far less engaged, mostly piloting AI in single activities rather than integrating it. The paper's constructive proposal is a shift from [[human-in-the-loop-ai|human-in-the-loop]] oversight of AI output to humans-as-the-loop: people helping people build stronger feedback relationships over time.
+> **Synthesis:** Bearman and colleagues argue that AI does not slot into [[feedback|feedback]] as another source of comments; it reworks the web of relations among students, educators, materials and peers, and they borrow Barnett's ecological framing to call that web a feedback ecosystem. Their evidence comes from three two-hour online workshops with 12 students and 18 educators, run so that both groups could hear each other's firsthand accounts. The findings are asymmetric in an instructive way. Students treated AI as an additional but flawed information source, weighed it against [[rubrics|rubrics]], lecture notes, discussion boards and educator comments, and mostly privileged educators they trusted, while still using AI as a holding pattern when staff feedback was slow. Educators were far less engaged, mostly piloting AI in single activities rather than integrating it. The paper's constructive proposal is a shift from [[human-in-the-loop-ai|human-in-the-loop]] oversight of AI output to humans-as-the-loop: people helping people build stronger feedback relationships over time.
 
 ## Key Findings
 

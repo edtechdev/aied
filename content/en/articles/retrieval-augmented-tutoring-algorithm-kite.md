@@ -1,4 +1,4 @@
----
+
 title: Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 created: "2026-05-16T04:33:04-04:00"
 updated: "2026-10-28T00:58:16-04:00"
@@ -25,7 +25,7 @@ page_kind: [evaluation]
 - **Instructors.** Retrieve before you generate. KITE grounds every response in course materials — lecture slides, problem sets, code examples — before producing a Socratic hint, which is what keeps tutoring from drifting off your curriculum.
 - **Instructors.** Route tracing and procedural questions to step-by-step scaffolds rather than explanations. In the evaluation, simulated students produced more accurate follow-up answers after KITE's feedback especially on tracing tasks, where step-by-step reasoning is critical.
 - **Designers.** Treat content fidelity as a retrieval problem, not a prompt-wording problem. Combining a five-stage retrieval pipeline with intent-aware response generation is what let KITE hold both pedagogical appropriateness and course grounding at once.
-- **Software developers.** Adopt the three-lens evaluation — RAGAs grounding metrics, expert rubric review, and a simulated student pipeline — to shorten development cycles, but interpret the simulated-student gain as evidence that a stronger answer is recoverable, never as evidence of learning.
+- **Software developers.** Adopt the three-lens evaluation — RAGAs grounding metrics, expert [[rubrics|rubric]] review, and a simulated student pipeline — to shorten development cycles, but interpret the simulated-student gain as evidence that a stronger answer is recoverable, never as evidence of learning.
 
 ## Limitations
 

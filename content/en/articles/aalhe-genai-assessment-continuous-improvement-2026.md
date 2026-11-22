@@ -1,4 +1,4 @@
----
+
 title: "Leading Continuous Improvement: Generative Artificial Intelligence and Assessment in Higher Education"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
@@ -34,7 +34,7 @@ verified: [citation, numbers, links]
 
 1. **The bottleneck is coordination, not motivation.** The authors argue that the gap between assessment aspiration and practice is a problem of process and resources — time, infrastructure, and coordination — that rarely matches the demands placed on faculty and staff, so assessment too often becomes compliance rather than inquiry.
 2. **AI adds value in three historically expensive functions.** Synthesizing large bodies of evidence, detecting patterns across complex documents, and drafting structured outputs from human-generated inputs; these matter most at the program and institutional levels, where the volume of evidence exceeds the time available.
-3. **AI can act as a second evaluative voice that resists grade drift.** A Canvas feature that generates suggested rubric-based scores proved substantially tougher than a typical end-of-semester human grader, holding the line on rubric criteria without the softening that exhaustion invites; the authors note rising grades account for most of the increase in college graduation rates since 1990.
+3. **AI can act as a second evaluative voice that resists grade drift.** A Canvas feature that generates suggested [[rubrics|rubric]]-based scores proved substantially tougher than a typical end-of-semester human grader, holding the line on rubric criteria without the softening that exhaustion invites; the authors note rising grades account for most of the increase in college graduation rates since 1990.
 4. **Scaffolded, process-visible assignments are the strongest defense.** Requiring an annotated outline, a partial draft with feedback incorporated, and a final version with a reflective memo produces a documentary trail of reasoning that is far more resistant to AI substitution than a paper submitted in a single file.
 5. **An alignment matrix can be populated in minutes.** Using Claude Sonnet in a persistent Claude Project with the University of Southern Maine LOS program's outcomes and five core syllabi, the authors generated a 12-outcome by five-course A/X/— matrix that a faculty member with direct program knowledge confirmed as accurate; it surfaced that social responsibility is never formally assessed and that two outcomes are assessed only in the final required course.
 6. **The contamination problem is the central validity threat.** If students use AI to produce the work faculty grade, grades become evidence of AI output quality rather than student learning, and a model grading a model's output is "a hall of mirrors"; a pre- and post-2022 comparison against the same rubric is proposed as a way to investigate it.
@@ -60,7 +60,7 @@ The [[meta-analysis-systematic-review|literature review]] is candid about uneven
 
 - **Assessment professionals.** Compile the assessment artifact base before deploying AI: program learning outcomes, course syllabi, prior alignment matrices, and accreditation or program review frameworks in one persistent project environment, so the model can reason across the full corpus rather than treating each query as independent.
 - **Assessment professionals.** Use AI for synthesis and reserve human judgment for interpretation — treat the first-pass matrix or draft as a starting point, then correct errors and make the interpretive and improvement decisions yourself.
-- **[[teacher-role|teacher role]]** Redesign assignments so reasoning is visible — iterative drafts, annotated sources, reflective commentaries — because that evidence is both more resistant to AI substitution and more useful for developmental [[formative-assessment|formative assessment]].
+- **Instructors.** Redesign assignments so reasoning is visible — iterative drafts, annotated sources, reflective commentaries — because that evidence is both more resistant to AI substitution and more useful for developmental [[formative-assessment|formative assessment]].
 - **Faculty developers.** Treat AI assessment literacy as professional expertise requiring deliberate cultivation, and put the development investment before rather than after the technology deployment.
 - **Administrators.** Ask the validity question at the level of outcome data rather than adjudicating individual students, and pair any pre- and post-2022 comparison with an AIAS classification of the assignment.
 

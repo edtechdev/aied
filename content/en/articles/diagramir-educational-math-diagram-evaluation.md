@@ -1,4 +1,4 @@
----
+
 title: "DiagramIR: An automatic pipeline for educational math diagram evaluation"
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -34,7 +34,7 @@ methods: [benchmark]
 ## Limitations
 
 - The 398-instance evaluation set is drawn from one [[k-12]] curriculum (Illustrative Mathematics) and 6,000 teacher-assistant conversations, so transfer to other domains (physics diagrams, freehand sketches) is unestablished.
-- The rubric covers mathematical and spatial correctness only and leaves out [[pedagogy|pedagogical]] usefulness, which the authors call a critical but more subjective dimension of diagram quality.
+- The [[rubrics|rubric]] covers mathematical and spatial correctness only and leaves out [[pedagogy|pedagogical]] usefulness, which the authors call a critical but more subjective dimension of diagram quality.
 - The intermediate representation captures a restricted set of geometric primitives and relations, so more complex diagrams (multi-step constructions, coordinate plots) may need schema and check extensions.
 - Back-translation relies on LLMs to parse TikZ into IRs, and the authors report that this IR-generation step introduced stochastic errors.
 

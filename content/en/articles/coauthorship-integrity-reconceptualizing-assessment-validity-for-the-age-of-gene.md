@@ -1,4 +1,4 @@
----
+
 title: "Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence"
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-20T06:30:22-04:00"
@@ -25,7 +25,7 @@ Using the assessment validity framework of the *Standards for Educational and Ps
 1. **GenAI breaks the written-artifact proxy.** Fluent text can now be produced with little visible evidence of the cognitive work behind it.
 2. **All five validity sources are threatened.** Test content, response processes, internal structure, relations to other variables, and consequences each lose evidentiary force in non-proctored contexts.
 3. **Coauthorship Integrity as a new source of validity evidence.** It asks whether the student is the epistemic agent behind the ideas and reasoning in the submitted work.
-4. **Two exemplar evidence strands.** Dialogic Interaction (this paper's focus, via viva voce/interactive orals) and [[embodied-learning|Embodied]] Performance (work samples, [[simulation|simulations]], OSCE-style testing).
+4. **Two [[rubrics|exemplar]] evidence strands.** Dialogic Interaction (this paper's focus, via viva voce/interactive orals) and [[embodied-learning|Embodied]] Performance (work samples, [[simulation|simulations]], OSCE-style testing).
 5. **The AI Viva prototype.** Five item types with 30 variations covering all the six levels of the revised [[bloom-taxonomy|Bloom's taxonomy]], generated from the student's own text.
 6. **Preliminary expert validation (n = 8).** Experts rated comprehension, difficulty, scoring accuracy and feedback on a 0-10 scale; open-ended items averaged 8.38-9.00 for comprehension.
 7. **Positioned as formative, for now.** The authors state the work is not a summative solution; the planned next phase tests it with students.

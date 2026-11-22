@@ -1,4 +1,4 @@
----
+
 title: "PAIDEIA: A Human-Centered Pedagogical Framework for Responsible Generative AI Integration in Ancient Greek Literature in Translation"
 created: "2026-11-09T09:05:00-05:00"
 updated: "2026-11-09T09:05:00-05:00"
@@ -49,7 +49,7 @@ The illustrative application reuses a teaching scenario the author published in 
 
 ## Design guidance, not tested effects
 
-The paper reports no sample, no instrument, and no measured outcome, and it says the framework has not been empirically validated. Its claims are therefore design guidance: what a teacher should sequence and why, not what a sequence produces. Three constraints follow. The setting is narrow, one play in translation at one grade level in a Greek secondary collection, and the author proposes adaptation to other subjects and age groups as future work rather than claiming transfer. Assessment is left to the teacher, who sets criteria for evaluating AI output; the paper names no rubric or measure for its own aims. The ethical work is real but declarative, covering authorship, [[academic-integrity|academic integrity]], transparency, bias, and responsibility, without evidence about how students reason through those questions. Its value lies in the design argument and the distinction between AI competence and educational purpose, which future mixed-methods studies could test.
+The paper reports no sample, no instrument, and no measured outcome, and it says the framework has not been empirically validated. Its claims are therefore design guidance: what a teacher should sequence and why, not what a sequence produces. Three constraints follow. The setting is narrow, one play in translation at one grade level in a Greek secondary collection, and the author proposes adaptation to other subjects and age groups as future work rather than claiming transfer. Assessment is left to the teacher, who sets criteria for evaluating AI output; the paper names no [[rubrics|rubric]] or measure for its own aims. The ethical work is real but declarative, covering authorship, [[academic-integrity|academic integrity]], transparency, bias, and responsibility, without evidence about how students reason through those questions. Its value lies in the design argument and the distinction between AI competence and educational purpose, which future mixed-methods studies could test.
 
 ## What this means for practice
 

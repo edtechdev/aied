@@ -1,4 +1,4 @@
----
+
 title: "Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams"
 created: "2026-09-25T09:40:00-04:00"
 updated: "2026-10-02T07:31:21-04:00"
@@ -36,7 +36,7 @@ source_depth: full text
 
 ## A vulnerability one sentence wide
 
-The baseline prompt supplies question, rubric, reference solution, student notebook, grading guidelines and an item-by-item breakdown; the model returns a score, bonus and rationale. Under that neutral setup, 17 open-weights baselines span 2.85 to 7.49 MAE and nothing predicts which will break. Prepend the strict persona and the picture inverts: the graded band is 3.07× the inter-grader floor ([[peer-assessment|peer assessment]]-style agreement, MAE ≥ 8 here), 14 of 17 config-matched pairs leave it, all six [[parents-and-families|families]] represented, MAE rising ×1.69 to ×7.11. Scale does not order the damage — ρ = −0.21 (p = 0.42) between parameter count and the strict/neutral ratio, the largest ratios belonging to a 24B model that stops grading and a 14B zeroing 88% of submissions. Gemini's best moved 1.86 → 2.75, at the floor.
+The baseline prompt supplies question, [[rubrics|rubric]], reference solution, student notebook, grading guidelines and an item-by-item breakdown; the model returns a score, bonus and rationale. Under that neutral setup, 17 open-weights baselines span 2.85 to 7.49 MAE and nothing predicts which will break. Prepend the strict persona and the picture inverts: the graded band is 3.07× the inter-grader floor ([[peer-assessment|peer assessment]]-style agreement, MAE ≥ 8 here), 14 of 17 config-matched pairs leave it, all six [[parents-and-families|families]] represented, MAE rising ×1.69 to ×7.11. Scale does not order the damage — ρ = −0.21 (p = 0.42) between parameter count and the strict/neutral ratio, the largest ratios belonging to a 24B model that stops grading and a 14B zeroing 88% of submissions. Gemini's best moved 1.86 → 2.75, at the floor.
 
 ## Policy content, not tone
 

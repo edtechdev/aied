@@ -1,4 +1,4 @@
----
+
 title: "Who grades best? Comparing ChatGPT, peer, and instructor evaluations across varying levels of student project quality"
 created: "2026-09-01T10:20:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -22,7 +22,7 @@ confidence: high
 
 - **Design:** Sequential explanatory mixed-methods — [[quantitative-research|quantitative]] grade comparisons first, then thematic analysis of students' [[reflection|written reflections]] to contextualize the statistics.
 - **Sample:** 184 undergraduate students (147 female, 37 male) in a mandatory [[research-methods-aied|research]]-methods course, working in 52 self-organized groups to design an original educational questionnaire.
-- **Assessors:** Each project was graded by the course instructor, two anonymous peers (via Moodle), and ChatGPT (with a structured six-criterion prompt), all using the **same standardized rubric** (six criteria, scored 1–100).
+- **Assessors:** Each project was graded by the course instructor, two anonymous peers (via Moodle), and ChatGPT (with a structured six-criterion prompt), all using the **same standardized [[rubrics|rubric]]** (six criteria, scored 1–100).
 - **Quality tiers:** Projects split into low (≤80), medium (81–86), and high (≥87) quality based on the 33rd/67th percentiles of instructor grades.
 - **Analysis:** Repeated-measures ANOVA, Pearson correlations, and one-way ANOVA by quality tier; thematic analysis with inter-rater reliability (κ = 0.86–0.90).
 

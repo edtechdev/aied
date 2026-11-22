@@ -1,4 +1,4 @@
----
+
 title: "Hint-Writing with Deferred AI Assistance: Fostering Critical Engagement in Data Science Education"
 created: "2026-11-11T07:37:32-05:00"
 updated: "2026-11-14T11:30:00-05:00"
@@ -48,7 +48,7 @@ Each activity showed the student a correct solution and an incorrect solution si
 
 The conditions differed only in when a GPT-4 hint appeared. Baseline students wrote alone. On-demand students could click "Show [[generative-ai|ChatGPT]] Hint" at any point. Deferred students wrote a first hint, then saw the GPT hint, compared it with their own, and revised. Both AI conditions were told the hint could be incorrect or incomplete and that validating it was their responsibility. Hints were generated zero-shot so that quality varied, and 25 GPT hints were produced across the two assignments. Completion alone earned 5% of the course grade.
 
-Hint quality was scored with a two-level rubric covering accuracy, specificity, phrasing, extraneous information and redundancy. Scores ran from -6 to 1 and were mapped to a 1–7 scale; two authors reached 0.78 Cohen's Kappa on a 15% sample before the first author rated the rest. Learning was measured with a ten-item pre-test and a post-test worth 10 points that mixed single-answer and multi-answer items on data manipulation and debugging. The pre- and post-tests were not isomorphic, so the analysis compared post-test scores while controlling for [[prior-knowledge|prior knowledge]].
+Hint quality was scored with a two-level [[rubrics|rubric]] covering accuracy, specificity, phrasing, extraneous information and redundancy. Scores ran from -6 to 1 and were mapped to a 1–7 scale; two authors reached 0.78 Cohen's Kappa on a 15% sample before the first author rated the rest. Learning was measured with a ten-item pre-test and a post-test worth 10 points that mixed single-answer and multi-answer items on data manipulation and debugging. The pre- and post-tests were not isomorphic, so the analysis compared post-test scores while controlling for [[prior-knowledge|prior knowledge]].
 
 ## Why deferral helped, and where it hurt
 
@@ -66,10 +66,10 @@ The perception data run against the quality data. Baseline students were the mos
 
 ## What this means for practice
 
-- **Instructors:** require a first attempt before revealing an AI hint, and make the comparison explicit. The staged version produced better hints than either working alone or opening the hint at will.
-- **Designers:** build the reveal as a sequence with stored drafts (write, compare, revise) rather than a single help button, and expect some students to import the model's verbosity into the revision.
-- **Researchers:** hint quality is scorable at scale with a rubric, but the learning-outcome question needs a larger sample than the 55 matched students here, and a post-test that students actually complete.
-- **Administrators:** the [[personalized-learning|personalization]] pipeline is automatable, since it pairs each student's own solution with a similar wrong one from a stored repository, which makes the activity feasible in courses far larger than 97.
+- **Instructors.** require a first attempt before revealing an AI hint, and make the comparison explicit. The staged version produced better hints than either working alone or opening the hint at will.
+- **Designers.** build the reveal as a sequence with stored drafts (write, compare, revise) rather than a single help button, and expect some students to import the model's verbosity into the revision.
+- **Researchers.** hint quality is scorable at scale with a rubric, but the learning-outcome question needs a larger sample than the 55 matched students here, and a post-test that students actually complete.
+- **Administrators.** the [[personalized-learning|personalization]] pipeline is automatable, since it pairs each student's own solution with a similar wrong one from a stored repository, which makes the activity feasible in courses far larger than 97.
 
 ## Limitations
 

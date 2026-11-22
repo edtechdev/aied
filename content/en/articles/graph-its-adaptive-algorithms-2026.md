@@ -1,4 +1,4 @@
----
+
 title: "Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
@@ -37,7 +37,7 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 
 ## Results
 
-- **RQ1 (structure/navigation):** Knowledge Decomposition and Graph-based Navigation [[usability-research|Usability]] rated highest (avg 4.41, rubric level 3); Prerequisite Logic Clarity lowest (4.16).
+- **RQ1 (structure/navigation):** Knowledge Decomposition and Graph-based Navigation [[usability-research|Usability]] rated highest (avg 4.41, [[rubrics|rubric]] level 3); Prerequisite Logic Clarity lowest (4.16).
 - **RQ2 (algorithms):** measured knowledge improved in all groups — BN 0.717→0.887 (+24%, score 3), KST 0.919→0.967 (+5%, score 2), WDDI 0.871→0.882 (+1%, score 2). Final rubric scores BN 3, KST 2, WDDI 2. In a [[simulation|simulation]], BN (error 14) and a GNN baseline (20) tracked true IFL truth values best vs KST (94), WDDI (62), uniform static (100).
 - **RQ3 (tracking):** system scored "Good (3)" (11/13 tracking features, 85%). BN group logged the most per-learner records (855.9) and the most active test [[student-engagement|engagement]]; the most active learner (112 interactions) was in the KST group.
 - **Self-[[regulation|regulation]]:** most learners disregarded system recommendations (learn-followed 18–32%, repeat-followed 7–9%), indicating their own decisions took precedence over the suggested path.

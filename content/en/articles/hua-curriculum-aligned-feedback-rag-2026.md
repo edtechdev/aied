@@ -1,4 +1,4 @@
----
+
 title: "Curriculum-aligned analysis of assessment feedback: a retrieval-augmented large language model approach for revealing fine-grained student error patterns in higher education"
 created: "2026-11-22T08:24:00-05:00"
 updated: "2026-11-22T08:24:00-05:00"
@@ -43,7 +43,7 @@ verified: [citation, numbers, quotes, links]
 
 ## From feedback to curriculum evidence
 
-The paper's premise is that assessment feedback is an underused data source. Grades and rubric statistics show where a cohort struggled but not which concepts or procedures were misunderstood. A comment such as "missing justification for the chosen design speed" carries three things at once: a curriculum topic, an error type, and the link between them. Under constructive alignment that link follows from the design of the assessment, so the feedback contains information about whether the intended outcomes, teaching, and assessment actually line up. The method recovers that information at scale by embedding a knowledge base of 374 course knowledge units, retrieving the five closest units for each comment, and asking the model to decide the link over a short list rather than the whole syllabus.
+The paper's premise is that assessment feedback is an underused data source. Grades and [[rubrics|rubric]] statistics show where a cohort struggled but not which concepts or procedures were misunderstood. A comment such as "missing justification for the chosen design speed" carries three things at once: a curriculum topic, an error type, and the link between them. Under constructive alignment that link follows from the design of the assessment, so the feedback contains information about whether the intended outcomes, teaching, and assessment actually line up. The method recovers that information at scale by embedding a knowledge base of 374 course knowledge units, retrieving the five closest units for each comment, and asking the model to decide the link over a short list rather than the whole syllabus.
 
 ## Why the data-driven taxonomy won
 

@@ -1,4 +1,4 @@
----
+
 title: "CyberAGENTS: Structured autonomy for agentic gamified learning in cybersecurity"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
@@ -39,7 +39,7 @@ At runtime, a central orchestrator coordinates these agents and maintains shared
 - The **ChallengeAgent** generates competency-aligned tasks with calibrated difficulty and explicit objectives.
 - The **BuddyAgent** provides [[scaffolding|adaptive instructional support]] based on learner performance and interaction signals, offering hints and guided options.
 - The **CriticAgent** evaluates learner responses and produces [[formative-assessment|formative feedback]] anchored to explicit criteria.
-- The **RewardAgent** assigns XP, badges, and progression indicators according to a mastery-oriented reward rubric tied to [[motivation|motivational reinforcement]].
+- The **RewardAgent** assigns XP, badges, and progression indicators according to a mastery-oriented reward [[rubrics|rubric]] tied to [[motivation|motivational reinforcement]].
 
 This role-based decomposition supports the core gamified learning functions of progressive challenges, [[adaptive-learning|adaptive support]], structured feedback, and mastery-based rewards. More importantly, it enables modular control over instructional dynamics, making the loop more interpretable and stable than monolithic prompting approaches — a more transparent [[intelligent-tutoring|tutoring]] architecture.
 
@@ -75,7 +75,7 @@ CyberAGENTS was implemented as a web-based interactive system (React frontend, P
 
 - **Instructional designers.** Bound generative flexibility through *structured autonomy* rather than scripting it away or leaving it unconstrained: layer behavioral schemas that regulate instructional conduct over ontology validation that constrains domain reasoning, so [[agentic-ai|agentic learning systems]] stay in role and domain-aware in high-stakes technical domains.
 - **Instructional designers.** Anchor evaluation and [[feedback|feedback]] to explicit schema-defined criteria and return short, structured responses, so learners can interpret and act on [[formative-assessment|formative feedback]] instead of trusting an opaque generative judgment.
-- **[[educational-technology-developers|Edtech designers]].** Decompose the learning loop into specialized, schema-governed agents (challenge, support, evaluation, reward) rather than letting one model improvise across every instructional function, which keeps instructional dynamics interpretable and stable.
+- **Educational technology developers.** Decompose the learning loop into specialized, schema-governed agents (challenge, support, evaluation, reward) rather than letting one model improvise across every instructional function, which keeps instructional dynamics interpretable and stable.
 - **Edtech designers.** Treat pre-display ontology validation and schema-bounded behavior as safeguards requiring continued [[human-in-the-loop-ai|human oversight]], because cybersecurity is adversarial and a learner may act on generated procedural guidance.
 - **Researchers.** Reuse the mixed-methods plus LLM-as-judge ablation design to test whether the structural components, rather than the model, produce the gains, since the ablation here was run only descriptively.
 

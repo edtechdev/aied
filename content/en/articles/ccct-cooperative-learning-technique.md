@@ -1,4 +1,4 @@
----
+
 title: "Artificial intelligence assisted design of a novel cooperative learning technique for higher education"
 created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-19T10:43:18-04:00"
@@ -18,10 +18,10 @@ methods: [mixed-methods-research]
 ## Key Findings
 
 - A [[mixed-methods-research|mixed-methods]] explanatory sequential study with **67 sophomore prospective teachers** at Hakkari University (Turkey) in the spring 2024–2025 semester: an experimental group of **31** Guidance and Psychological Counseling students (19 female, 12 male) versus a control group of **36** Primary School [[math-education|Mathematics]] [[teacher-role|Teaching]] students, in a theoretical "[[curriculum-design|Curriculum]] Development in Education" course.
-- The intervention was designed by [[prompt-engineering|prompting]] **five AI [[conversational-ai|chatbots]] ([[generative-ai|ChatGPT]], Copilot, DeepSeek, Gemini, Qwen)** with course documents and cooperative learning principles in a single, non-iterative prompt; the [[research-methods-aied|researcher]] selected **Qwen's "Curriculum Concept Constellation Technique (CCCT)"** using a four-criterion rubric (novelty, alignment with cooperative learning principles, course context fit, clarity and practicality) — the other four proposals were judged syntheses or adaptations of existing methods.
+- The intervention was designed by [[prompt-engineering|prompting]] **five AI [[conversational-ai|chatbots]] ([[generative-ai|ChatGPT]], Copilot, DeepSeek, Gemini, Qwen)** with course documents and cooperative learning principles in a single, non-iterative prompt; the [[research-methods-aied|researcher]] selected **Qwen's "Curriculum Concept Constellation Technique (CCCT)"** using a four-criterion [[rubrics|rubric]] (novelty, alignment with cooperative learning principles, course context fit, clarity and practicality) — the other four proposals were judged syntheses or adaptations of existing methods.
 - CCCT has students collaboratively map curriculum concepts as "stars" into visual "constellations," working in heterogeneous teams of 4–6 with assigned roles (Star Finder, Constellation Designer, Metaphor Maker, Visual Artist, Navigator) across a two-week cycle ending in a gallery walk and group [[reflection|reflection]].
-- **[[learning-gains|Academic achievement]]:** the experimental group's post-test (M = 51.45, SD = 6.08) significantly outperformed the control (M = 43.89, SD = 10.76), p = 0.001, **g = 0.839**; only the experimental group improved significantly from pre-test (p = 0.005, g = 0.738) while the control showed a weak effect (g = 0.119).
-- **Co-[[regulation|regulation]]:** experimental group rose from M = 61.32 to 65.45 (p = 0.043, **g = 0.512**); **attitudes toward cooperativeness** rose from M = 68.03 to 75.19 (p = 0.007, **g = 0.751**).
+- **[[learning-gains|Academic achievement]]:** the experimental group's post-test significantly outperformed the control, and only the experimental group improved significantly from pre-test while the control showed a weak gain.
+- **Co-[[regulation|regulation]]:** the experimental group rose on co-regulated learning and on attitudes toward cooperativeness.
 - [[qualitative-research|Qualitative]] analysis yielded five themes — fostering [[agency|student agency]] and accountability, social cohesion and interpersonal growth, cognitive and [[pedagogy|pedagogical]] [[student-engagement|engagement]], [[collaborative-learning|collaborative learning]] dynamics, and structural/logistical challenges (unequal participation, time constraints).
 
 ## Study Design & Method

@@ -1,4 +1,4 @@
----
+
 title: "Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs"
 created: "2026-11-17T09:40:00-05:00"
 updated: "2026-11-17T09:40:00-05:00"
@@ -24,7 +24,7 @@ ai_assist:
     role: drafting
 ---
 
-> **Synthesis:** Can an ensemble of local, open-weight [[llm|LLMs]] hold the place of a human rater without degrading a rubric's agreement? Baumartz and colleagues prompted fifteen models with 523 rubric-based configurations to score 631 German-language responses from eight critical online reasoning tasks in economics and medicine, then swapped each human rater for a model and recomputed Krippendorff's alpha. For 91 of the 103 criteria, at least one configuration left group agreement no lower. The Alternative Annotator Test agreed: 90 criteria pass, and replacing two raters still leaves 93 criteria with no loss. The qualification is severe. Only 14.6% of tested configurations avoid a drop, the best configuration changes with task and criterion, and no supplied gold standard exists, so the result measures [[assessment-validity|alignment with observed raters]] rather than correctness. [[prompt-engineering|Prompt design]] mattered less than model size, and the two domain-tuned models bought nothing. Locally hosted models make the approach viable under [[privacy|student data protection]] rules.
+> **Synthesis:** Can an ensemble of local, open-weight [[llm|LLMs]] hold the place of a human rater without degrading a [[rubrics|rubric]]'s agreement? Baumartz and colleagues prompted fifteen models with 523 rubric-based configurations to score 631 German-language responses from eight critical online reasoning tasks in economics and medicine, then swapped each human rater for a model and recomputed Krippendorff's alpha. For 91 of the 103 criteria, at least one configuration left group agreement no lower. The Alternative Annotator Test agreed: 90 criteria pass, and replacing two raters still leaves 93 criteria with no loss. The qualification is severe. Only 14.6% of tested configurations avoid a drop, the best configuration changes with task and criterion, and no supplied gold standard exists, so the result measures [[assessment-validity|alignment with observed raters]] rather than correctness. [[prompt-engineering|Prompt design]] mattered less than model size, and the two domain-tuned models bought nothing. Locally hosted models make the approach viable under [[privacy|student data protection]] rules.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ ai_assist:
 - **Best case is not typical case.** Only 14.6% of the 20,464 tested configurations per criterion avoid a decrease in agreement, and 70% of those concern medical criteria.
 - **Human agreement sets a low bar in economics.** Just 5 of 31 economics criteria reach tentatively acceptable alpha, and the Nudging conclusion criterion sits at 0.035, so matching the group is easy there.
 - **Domain-tuned models bought nothing.** Economics-tuned Plutus and medical MedGemma 1.5 4b never held a top result outright, while Llama 3.3 70b appeared most often, including 31 medical criteria.
-- **Size beat prompt design.** Agreement correlated with parameter count at r = 0.23 and ρ = 0.33, and the SHAP proxy models ranked model size and token volume above prompt features.
+- **Size beat prompt design.** Agreement rose with parameter count, and the SHAP proxy models ranked model size and token volume above prompt features.
 
 ## Eight Tasks, 631 German Responses
 

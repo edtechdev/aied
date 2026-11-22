@@ -1,4 +1,4 @@
----
+
 title: "Students' perceptions of multiliteracies development using AI-assisted portfolio assessment"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -14,7 +14,7 @@ confidence: medium
 audience: [instructors, assessment designers]
 level: [higher ed]
 ---
-> **Synthesis:** Ni and Lam (2026) report a 16-week [[qualitative-research|qualitative]] study in which 50 first-year Tourism Management students at a Chinese university collaboratively compiled WordPress-based e-portfolios of [[multimodal|multimodal]] writing about touring-route recommendations, supported by [[generative-ai|generative AI]] (GenAI) tools as direct [[feedback|feedback]] providers and as moderators/synthesizers of peer and [[teacher-role|teacher]] feedback. Across [[reflection|reflective journals]], focus-group interviews, and narrative inquiries, students developed multiliteracies through three stages, transforming from passive to proactive learners while gaining multimodal awareness, confidence, metacognition, and professional readiness. Students perceived GenAI as a study companion offering instant, gentle, rubric-referenced [[feedback|feedback]], but also faced challenges including [[trust-calibration|over-trust]] in AI and information overload. The study positions GenAI-assisted [[eportfolio|portfolio assessment]] as a transformative literacy practice within [[formative-assessment|formative assessment]].
+> **Synthesis:** Ni and Lam (2026) report a 16-week [[qualitative-research|qualitative]] study in which 50 first-year Tourism Management students at a Chinese university collaboratively compiled WordPress-based e-portfolios of [[multimodal|multimodal]] writing about touring-route recommendations, supported by [[generative-ai|generative AI]] (GenAI) tools as direct [[feedback|feedback]] providers and as moderators/synthesizers of peer and [[teacher-role|teacher]] feedback. Across [[reflection|reflective journals]], focus-group interviews, and narrative inquiries, students developed multiliteracies through three stages, transforming from passive to proactive learners while gaining multimodal awareness, confidence, metacognition, and professional readiness. Students perceived GenAI as a study companion offering instant, gentle, [[rubrics|rubric]]-referenced [[feedback|feedback]], but also faced challenges including [[trust-calibration|over-trust]] in AI and information overload. The study positions GenAI-assisted [[eportfolio|portfolio assessment]] as a transformative literacy practice within [[formative-assessment|formative assessment]].
 
 ## Key Findings
 

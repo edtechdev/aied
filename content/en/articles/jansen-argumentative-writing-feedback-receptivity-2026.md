@@ -1,4 +1,4 @@
----
+
 title: "Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception"
 created: "2026-09-27T05:25:24-04:00"
 updated: "2026-09-27T05:25:24-04:00"
@@ -37,7 +37,7 @@ reviewed_by: [editor]
 
 ## How the study isolated individual differences
 
-Each of the 1507 students drafted an argumentative text on a randomly assigned topic, received exactly one of four predefined [[ai-feedback-quality|automated feedback]] messages, then had ten minutes to revise. Messages were drawn from a standardized set rather than generated from the draft, to avoid a confounding the authors flag in much [[generative-ai|generative AI]] work: there, students with different writing skills also receive different feedback. Receptivity was measured before writing, perceived usefulness immediately after the message. Analysis used structural equation modeling with bootstrapped confidence intervals, full-information maximum likelihood, and rubric-based text-quality indicators. The design is correlational: no receptivity dimension was manipulated, and the authors describe their evidence as "only task-level and correlative".
+Each of the 1507 students drafted an argumentative text on a randomly assigned topic, received exactly one of four predefined [[ai-feedback-quality|automated feedback]] messages, then had ten minutes to revise. Messages were drawn from a standardized set rather than generated from the draft, to avoid a confounding the authors flag in much [[generative-ai|generative AI]] work: there, students with different writing skills also receive different feedback. Receptivity was measured before writing, perceived usefulness immediately after the message. Analysis used structural equation modeling with bootstrapped confidence intervals, full-information maximum likelihood, and [[rubrics|rubric]]-based text-quality indicators. The design is correlational: no receptivity dimension was manipulated, and the authors describe their evidence as "only task-level and correlative".
 
 ## Performance responds to dispositions, not to usefulness
 
@@ -53,10 +53,10 @@ Table 1 in the paper reviews prior studies of automated feedback for argumentati
 
 ## What this means for practice
 
-- Treat receptivity as a teachable target, not a fixed trait: explain how feedback works and give repeated chances to apply it, since behavioral engagement and instrumental attitudes carried the performance effect.
-- Do not optimize feedback design around perceived usefulness alone; here it tracked interest, not revision gains.
-- Invest less in perfecting message-draft alignment, which was not systematically related to performance, interest, or usefulness.
-- For motivation, keep single messages immediately useful: that was the entire pathway to interest change.
+- **Instructors.** Treat receptivity as a teachable target, not a fixed trait: explain how feedback works and give repeated chances to apply it, since behavioral engagement and instrumental attitudes carried the performance effect.
+- **Assessment designers.** Do not optimize feedback design around perceived usefulness alone; here it tracked interest, not revision gains.
+- **Assessment designers.** Invest less in perfecting message-draft alignment, which was not systematically related to performance, interest, or usefulness.
+- **Instructors.** For motivation, keep single messages immediately useful: that was the entire pathway to interest change.
 
 ## Limitations
 

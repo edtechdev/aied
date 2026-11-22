@@ -1,4 +1,4 @@
----
+
 title: "From abstract ethics to situated practice: A bibliometric analysis of AI ethics and professional judgement"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -41,7 +41,7 @@ Although healthcare dominates citation metrics, [[ai-education|education]] emerg
 
 ## Relevance to the knowledge base
 
-This bibliometric paper provides field-level empirical grounding for the knowledge base's core themes around [[ethics|ethics]], [[ai-education|AI education]], and human-centered AI integration. It documents a documented disciplinary and conceptual shift toward practice-based, [[human-in-the-loop-ai|human-in-the-loop]], and [[human-ai-collaboration|collaborative]] framings of AI ethics — reinforcing arguments that professionals should act as ethical agents rather than implementers of predefined frameworks. Its emphasis on [[trust|trust]], interpretive practice, and professional judgment supports the knowledge base's treatment of AI not merely as a technical tool but as an ethically laden, context-sensitive technology. It also offers a [[research-methods-aied|methodological]] exemplar (bibliometric mapping) for tracing how the field's intellectual structure is evolving.
+This bibliometric paper provides field-level empirical grounding for the knowledge base's core themes around [[ethics|ethics]], [[ai-education|AI education]], and human-centered AI integration. It documents a documented disciplinary and conceptual shift toward practice-based, [[human-in-the-loop-ai|human-in-the-loop]], and [[human-ai-collaboration|collaborative]] framings of AI ethics — reinforcing arguments that professionals should act as ethical agents rather than implementers of predefined frameworks. Its emphasis on [[trust|trust]], interpretive practice, and professional judgment supports the knowledge base's treatment of AI not merely as a technical tool but as an ethically laden, context-sensitive technology. It also offers a [[research-methods-aied|methodological]] [[rubrics|exemplar]] (bibliometric mapping) for tracing how the field's intellectual structure is evolving.
 
 ## What this means for practice
 

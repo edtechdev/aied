@@ -1,4 +1,4 @@
----
+
 title: "Exploring value judgements in grading: will teachers mark down student work assisted by GenAI, and should they?"
 created: "2026-09-03T12:45:00-04:00"
 updated: "2026-09-20T06:30:22-04:00"
@@ -49,7 +49,7 @@ Validity — the degree to which grades represent what they are meant to — is 
 
 - **Instructors.** Examine the value judgments behind your grades — honesty, effort, trust — and decide whether your course rewards skillful GenAI use or independent work; left implicit, this costs grades their validity.
 - **[[educational-development|Faculty development]].** Workshops should build evaluativist reasoning: whether critical thinking must be demonstrated unaided or with GenAI.
-- **[[assessment|Assessment design]].** Review rubrics against what the assessment is meant to assess; at minimum, state your stance on GenAI in assignments and its grading consequences.
+- **[[assessment|Assessment design]].** Review [[rubrics|rubrics]] against what the assessment is meant to assess; at minimum, state your stance on GenAI in assignments and its grading consequences.
 - **Program leaders.** Where teaching assistants carry major grading responsibility (16 of 33 participants), instructors and graders need clear communication to grade consistently.
 - **Researchers.** Triangulate — observe real grading with think-aloud protocols, and analyze policies, rubrics and work samples.
 

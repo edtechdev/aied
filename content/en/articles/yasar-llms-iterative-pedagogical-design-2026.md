@@ -1,4 +1,4 @@
----
+
 title: "From evaluation to emulation: LLMs as agents of iterative pedagogical design"
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
@@ -15,7 +15,7 @@ level: [higher ed]
 methods: [design-based-research]
 ---
 
-> **Synthesis:** **From evaluation to emulation: LLMs as agents of iterative [[pedagogy|pedagogical]] design** — Yaşar, Kashyrskyy, Xie, and Bulseco (2026) reframe [[llm|large language models]] from static graders into emulators of pedagogical reasoning, showing that [[prompt-engineering|rubric-guided prompting]] and role-aware [[feedback|feedback]] [[simulation|simulations]] let GPT-4 approximate human [[evaluative-judgment|evaluative judgment]] in [[design-based-research|design-based learning]]. Using [[situated-learning|situated learning]] theory, iterative [[design-education|design pedagogy]], and a cognitive framework for scientific and engineering thinking, the authors evaluated 80 student design posters across instructor, peer-reviewer, and grant-reviewer roles, finding that iterative rubric co-refinement raised LLM–human agreement from 54.75% to 81.25% and produced role-sensitive feedback variation. The study positions the rubric as a mediating interface between human pedagogical intent and machine inference, advancing [[ai-education|AI in education]] from automation toward pedagogical emulation.
+> **Synthesis:** **From evaluation to emulation: LLMs as agents of iterative [[pedagogy|pedagogical]] design** — Yaşar, Kashyrskyy, Xie, and Bulseco (2026) reframe [[llm|large language models]] from static graders into emulators of pedagogical reasoning, showing that [[prompt-engineering|rubric-guided prompting]] and role-aware [[feedback|feedback]] [[simulation|simulations]] let GPT-4 approximate human [[evaluative-judgment|evaluative judgment]] in [[design-based-research|design-based learning]]. Using [[situated-learning|situated learning]] theory, iterative [[design-education|design pedagogy]], and a cognitive framework for scientific and engineering thinking, the authors evaluated 80 student design posters across instructor, peer-reviewer, and grant-reviewer roles, finding that iterative [[rubrics|rubric]] co-refinement raised LLM–human agreement from 54.75% to 81.25% and produced role-sensitive feedback variation. The study positions the rubric as a mediating interface between human pedagogical intent and machine inference, advancing [[ai-education|AI in education]] from automation toward pedagogical emulation.
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ methods: [design-based-research]
 
 - **Role-aware prompting yields distinct evaluative feedback.** The same artifact evaluated under instructor, peer-reviewer, and grant-reviewer prompts produced qualitatively different tone and focus — instructors were encouraging and process-oriented, peers supportive and conversational, grant reviewers formal and outcomes-oriented. These differences were epistemic, not merely stylistic, foregrounding different aspects of design practice.
 
-- **Structural alignment in clustering.** K-means clustering of human and LLM score matrices showed highly correlated cluster centroids (r = 0.89), with 85% of posters classified into the same or adjacent performance clusters, indicating LLMs can reproduce latent structure in student work when scaffolded with a semantically precise rubric.
+- **Structural alignment in clustering.** K-means clustering of human and LLM score matrices showed highly correlated cluster centroids, with 85% of posters classified into the same or adjacent performance clusters, indicating LLMs can reproduce latent structure in student work when scaffolded with a semantically precise rubric.
 
 - **LLMs as calibration and co-design partners.** Beyond scoring, LLMs served as rubric stress-testing and semantic-debugging tools, and post-revision demonstrated greater consistency than some human raters in applying performance thresholds — useful for norming sessions and [[formative-assessment|formative peer feedback]] environments.
 

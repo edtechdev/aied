@@ -1,4 +1,4 @@
----
+
 title: "Tackling the Root of Misinformation by Teaching Laypeople about Logical Fallacies via Socratic Questioning and Critical Argumentation"
 created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"
@@ -49,7 +49,7 @@ Passive Guidance is the weak point: LFTutor passed it in only 43.6% of automatic
 ## What this means for practice
 
 - **Model developers.** Treat dialogue control as a pipeline, not a prompt. The ablation evidence points to per-turn intent detection plus an independent verification step as the load-bearing parts, so build and test those as separate stages rather than folding them into one system message.
-- **Researchers.** Adopt the eight-dimension rubric when comparing fallacy or argumentation tutors, and validate any automatic judge against human labels on your own task before reporting judge-scored gains.
+- **Researchers.** Adopt the eight-dimension [[rubrics|rubric]] when comparing fallacy or argumentation tutors, and validate any automatic judge against human labels on your own task before reporting judge-scored gains.
 - **Educators.** Favor a tutor that commits to one pedagogical move per turn and holds its position under pressure; a model that concedes or mirrors the learner does not build the critical stance the exercise is meant to produce.
 - **Assessment designers.** Score tutoring dialogues at the dialogue level against explicit pass or fail criteria, and expect guidance-style dimensions to need ordered goals before a tutor can score well on them.
 

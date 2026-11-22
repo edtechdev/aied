@@ -1,4 +1,4 @@
----
+
 title: "Towards Scalable Measurement of Durable Skills"
 created: "2026-09-15T11:05:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"
@@ -15,7 +15,7 @@ level: [higher ed, secondary]
 methods: [ai-ed-evaluation, quantitative-research]
 ---
 
-> **Synthesis:** [[problem-solving|Collaborative problem solving]], [[creativity|creativity]] and [[critical-thinking|critical thinking]] are the skills employers most want and educational systems least measure, because valid [[assessment|assessment]] demands either naturalistic group interaction or psychometric control, and the two pull apart. This paper's proposal is an "Executive LLM" that plays every AI teammate in a group task with Gemini, holds the scoring rubric, and deliberately steers the conversation toward situations that force the participant to demonstrate the skill being assessed. Across 373 conversations from 188 participants, skill-matched Executive steering raised the share of conversations yielding ratable evidence to 92.4% for project management and 85% for conflict resolution, significantly above unconstrained [[agentic-ai|independent agent]] teams, while LLM scoring agreed with expert annotators about as well as the two human experts agreed with each other (Kappa 0.45–0.64). The design reframes assessment as an adaptive test of complex behavior: a [[simulating-students|simulated]] partner engineered for evidence density rather than a standardized task assumed to elicit it.
+> **Synthesis:** [[problem-solving|Collaborative problem solving]], [[creativity|creativity]] and [[critical-thinking|critical thinking]] are the skills employers most want and educational systems least measure, because valid [[assessment|assessment]] demands either naturalistic group interaction or psychometric control, and the two pull apart. This paper's proposal is an "Executive LLM" that plays every AI teammate in a group task with Gemini, holds the scoring [[rubrics|rubric]], and deliberately steers the conversation toward situations that force the participant to demonstrate the skill being assessed. Across 373 conversations from 188 participants, skill-matched Executive steering raised the share of conversations yielding ratable evidence to 92.4% for project management and 85% for conflict resolution, significantly above unconstrained [[agentic-ai|independent agent]] teams, while LLM scoring agreed with expert annotators about as well as the two human experts agreed with each other (Kappa 0.45–0.64). The design reframes assessment as an adaptive test of complex behavior: a [[simulating-students|simulated]] partner engineered for evidence density rather than a standardized task assumed to elicit it.
 
 ## Key Findings
 
@@ -59,7 +59,7 @@ The boundaries are equally clear. Participants were US-based English-native adul
 - **Assessment designers.** Treat ratable evidence as a design variable: skill-matched Executive steering produced ratable evidence in 92.4% of project-management conversations and 85% of conflict-resolution conversations, significantly more than unconstrained independent agents.
 - **Assessment designers.** Do not count on priming or task redesign to raise evidence — telling participants to attend to a skill had no significant effect (all p > 0.6), and a science versus debate task made no difference (p = 0.18 for conflict resolution, p = 0.9 for project management).
 - **Designers.** Build one steering model that holds the rubric and manufactures occasions for evidence — for example a teammate who initiates a conflict and sustains it until resolution has been observed — instead of several unconstrained agents that collaborate smoothly and surface nothing to score.
-- **[[educational-technology-developers|Edtech designers]].** Steer per skill and plan for multiple conversations per learner: matched [[collaborative-learning|collaboration]] steering raised evidence for its target skill but lowered the other's, so one conversation cannot carry a whole-profile judgment.
+- **Educational technology developers.** Steer per skill and plan for multiple conversations per learner: matched [[collaborative-learning|collaboration]] steering raised evidence for its target skill but lowered the other's, so one conversation cannot carry a whole-profile judgment.
 - **Researchers.** Report the reliability ceiling next to any automated score: two trained raters agreed at Cohen's Kappa of 0.45–0.64, and the LLM evaluator falls in the same band.
 
 ## Limitations

@@ -1,4 +1,4 @@
----
+
 title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 created: "2026-05-16T04:33:04-04:00"
 updated: "2026-09-20T08:50:26-04:00"
@@ -52,7 +52,7 @@ A critical [[research-methods-aied|methodological]] finding: **CrT was more ofte
 
 **Affordances** (when ChatGPT was embedded in structured, scaffolded designs):
 1. **Metacognitive engagement** (n=27) — Guided prompting, comparative analysis, and reflective writing enabled students to monitor thinking and exercise evaluative judgment
-2. **Argumentative structuring** (n=22) — ChatGPT as dialogic scaffold or counterargument generator, especially with argument mapping and rubric-guided evaluation
+2. **Argumentative structuring** (n=22) — ChatGPT as dialogic scaffold or counterargument generator, especially with argument mapping and [[rubrics|rubric]]-guided evaluation
 3. **Verification and error detection** (n=19) — Fact-checking and triangulation behaviors emerged when students were explicitly taught to identify [[hallucination-risk|hallucinations]]
 4. **Self-regulated learning** (n=17) — Structured prompts and revision cycles promoted planning, monitoring, and strategic adjustment
 5. **Disciplinary reasoning** (n=15) — Complex analysis emerged organically when ChatGPT was a co-developer or critique target in authentic disciplinary tasks

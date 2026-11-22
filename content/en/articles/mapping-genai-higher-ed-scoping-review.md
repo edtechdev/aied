@@ -1,4 +1,4 @@
----
+
 title: "Mapping generative AI in higher education teaching and learning: a scoping review"
 created: "2026-10-18T08:25:00-04:00"
 updated: "2026-10-18T10:37:53-04:00"
@@ -25,7 +25,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Lin and colleagues (2026) map 394 empirical studies of [[generative-ai|generative AI]] in [[higher-ed|higher education]] published between November 2022 and December 2025, and the picture is one of adoption outpacing pedagogy. GenAI was most often bolted onto tasks that already existed — [[feedback|feedback]], tutoring and [[writing-education|writing support]] — rather than used to redesign learning. The outcomes most frequently targeted were [[student-engagement|engagement]] and [[motivation|motivation]], [[technology-acceptance-model|usability and acceptance]], [[critical-thinking|critical thinking]], disciplinary knowledge and [[learning-gains|academic performance]], while [[self-regulated-learning|self-regulated learning]], [[ethics|ethics]], [[creativity|creativity]], [[ai-feedback-quality|feedback quality]] and [[equity-in-ai-education|equity]] received far less attention. The review's methodological warning is as important as its map: surveys, tests or rubrics, artifact analysis and interviews dominate, so the evidence base is shaped by short-term, easily implemented methods, and because ChatGPT-3.5-era studies dominate the corpus, many capability claims describe an older generation of models.
+> **Synthesis:** Lin and colleagues (2026) map 394 empirical studies of [[generative-ai|generative AI]] in [[higher-ed|higher education]] published between November 2022 and December 2025, and the picture is one of adoption outpacing pedagogy. GenAI was most often bolted onto tasks that already existed — [[feedback|feedback]], tutoring and [[writing-education|writing support]] — rather than used to redesign learning. The outcomes most frequently targeted were [[student-engagement|engagement]] and [[motivation|motivation]], [[technology-acceptance-model|usability and acceptance]], [[critical-thinking|critical thinking]], disciplinary knowledge and [[learning-gains|academic performance]], while [[self-regulated-learning|self-regulated learning]], [[ethics|ethics]], [[creativity|creativity]], [[ai-feedback-quality|feedback quality]] and [[equity-in-ai-education|equity]] received far less attention. The review's methodological warning is as important as its map: surveys, tests or [[rubrics|rubrics]], artifact analysis and interviews dominate, so the evidence base is shaped by short-term, easily implemented methods, and because ChatGPT-3.5-era studies dominate the corpus, many capability claims describe an older generation of models.
 
 ## Key Findings
 

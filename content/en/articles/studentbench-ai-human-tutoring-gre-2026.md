@@ -1,4 +1,4 @@
----
+
 title: "StudentBench: AI and human tutoring yield equivalent GRE learning gains"
 created: "2026-09-24T09:11:55-04:00"
 updated: "2026-09-24T09:11:55-04:00"
@@ -27,7 +27,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** StudentBench is a public platform and evaluation suite testing whether general-purpose [[llm|large language models]] match expert human tutoring on GRE [[quantitative-research|Quantitative]] and Verbal questions. Across 2,469 sessions from 2,383 adults, pooled [[intelligent-tutoring|AI tutoring]] proved statistically equivalent to human tutoring (p=.015), and both beat a no-tutoring control by about six percentage points. AI tutors were also separated on lesson planning, practice-problem creation, conversational [[pedagogy|pedagogy]], cost, and engagement: one model matched human gains at 918× lower cost per percentage point. The authors present this as the first condition of recursive human self-improvement, not as a case for replacing teachers.
+> **Synthesis:** StudentBench is a public platform and evaluation suite testing whether general-purpose [[llm|large language models]] match expert human tutoring on GRE [[quantitative-research|Quantitative]] and Verbal questions. Across 2,469 sessions from 2,383 adults, pooled [[intelligent-tutoring|AI tutoring]] proved statistically equivalent to human tutoring, and both beat a no-tutoring control by about six percentage points. AI tutors were also separated on lesson planning, practice-problem creation, conversational [[pedagogy|pedagogy]], cost, and engagement: one model matched human gains at 918× lower cost per percentage point. The authors present this as the first condition of recursive human self-improvement, not as a case for replacing teachers.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ source_depth: full text
 3. **Scale.** Analysis covers 2,469 sessions from 2,383 adults aged 18–67 (median 21): 13 AI tutors built on 12 models per GRE section, live human tutors, and a video control.
 4. **Domain roots.** In five of the seven GRE domains the best AI tutor surpassed the human tutor on average; pooled equivalence held for Quantitative but not Verbal, where human tutors stayed ahead.
 5. **Cost of an equivalent gain.** Gemma 4 31B matched expert human tutoring (p=.044) at 918× lower cost per percentage point (\$0.0052 versus \$4.81), with mean inference cost of \$0.067 per session.
-6. **Teaching quality.** Fifty-one expert tutors made 2,028 pairwise rubric comparisons of AI lesson plans and practice problems; Anthropic's Opus models were preferred, and conversational behaviors clustered by family.
+6. **Teaching quality.** Fifty-one expert tutors made 2,028 pairwise [[rubrics|rubric]] comparisons of AI lesson plans and practice problems; Anthropic's Opus models were preferred, and conversational behaviors clustered by family.
 7. **Latency chain.** In 1,137 Quantitative AI sessions, faster replies tracked with more student messages, more messages with more correct practice, and correct practice with larger gains (all p<.002); no such pattern in Verbal.
 
 ## The design behind the equivalence claim

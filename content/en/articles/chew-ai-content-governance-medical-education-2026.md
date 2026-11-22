@@ -1,4 +1,4 @@
----
+
 title: "When the Teaching Material Is the Risk: The Governance Gap for AI-Generated Content in Medical Education"
 created: "2026-11-11T08:04:45-05:00"
 updated: "2026-11-11T08:35:00-05:00"
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Chew argues that [[medical-education|medical education]] has governed the wrong end of [[generative-ai|generative AI]]. Institutions have written rules for how learners use [[conversational-ai|chatbots]] and almost nothing for how faculties use them to produce teaching material — images, vignettes, simulated patients, test items, rubrics and feedback. That second use carries a different failure structure: a plausible error in [[curriculum-design|curriculum]] content reaches every learner as established knowledge, and may never generate a signal the way a clinical error eventually does. The piece sorts AI-generated teaching content into representational, reasoning and assessment types, each with its own characteristic failure and its own kind of check, then sets out what institutional [[governance|governance]] would have to do: know what is in use, test it before learners meet it, act on findings including withdrawal, and monitor approved tools for drift.
+> **Synthesis:** Chew argues that [[medical-education|medical education]] has governed the wrong end of [[generative-ai|generative AI]]. Institutions have written rules for how learners use [[conversational-ai|chatbots]] and almost nothing for how faculties use them to produce teaching material — images, vignettes, simulated patients, test items, [[rubrics|rubrics]] and feedback. That second use carries a different failure structure: a plausible error in [[curriculum-design|curriculum]] content reaches every learner as established knowledge, and may never generate a signal the way a clinical error eventually does. The piece sorts AI-generated teaching content into representational, reasoning and assessment types, each with its own characteristic failure and its own kind of check, then sets out what institutional [[governance|governance]] would have to do: know what is in use, test it before learners meet it, act on findings including withdrawal, and monitor approved tools for drift.
 
 ## Key Findings
 

@@ -1,4 +1,4 @@
----
+
 title: Addressing symbolic obstacles in undergraduate calculus through artificial intelligence scaffolding
 created: "2026-10-21T13:32:50-04:00"
 updated: "2026-10-21T13:56:47-04:00"
@@ -53,7 +53,7 @@ The study frames the resulting activity as a recurring sequence of observing, pr
 
 ## What the interaction logs and rubrics could show
 
-Two apparatus choices carry the study's inferences. Each diagnostic sub-item received a level-of-evidence score (2 coherent, 1 partial, 0 incorrect or unsupported), and symbolic steps were scored with a symbolic-error rubric where Levels 0–1 counted as errors and Levels 2–3 as non-errors; the unit of analysis was one scorable step per problem per participant, so denominators varied. Error rate was defined as the number of incorrect symbolic steps divided by the number of evaluated symbolic steps, a normalized descriptive indicator the authors deliberately keep separate from the percentage reduction in coded error occurrences.
+Two apparatus choices carry the study's inferences. Each diagnostic sub-item received a level-of-evidence score (2 coherent, 1 partial, 0 incorrect or unsupported), and symbolic steps were scored with a symbolic-error [[rubrics|rubric]] where Levels 0–1 counted as errors and Levels 2–3 as non-errors; the unit of analysis was one scorable step per problem per participant, so denominators varied. Error rate was defined as the number of incorrect symbolic steps divided by the number of evaluated symbolic steps, a normalized descriptive indicator the authors deliberately keep separate from the percentage reduction in coded error occurrences.
 
 The AI logs recorded prompts, hint levels, responses, revisions, and outputs, which let the analysis identify when a student asked for visual support, changed a symbolic expression, compared outputs, or shifted toward explanation — process evidence of representational activity rather than a summary read off the final answer. The authors pair this with an explicit limit: the logs should not be treated as an indication of cognitive function, and NVivo reference counts indicate the prevalence of coded instances within the corpus, not effect sizes or statistical correlations. Trustworthiness rested on triangulation across the five data sources, member checking of interpretive summaries, independent coding of at least 25% of the [[qualitative-research|qualitative corpus]] by a second researcher, peer debriefing, reflexive journaling, and an audit trail of instrument versions and coding decisions.
 

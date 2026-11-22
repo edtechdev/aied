@@ -1,4 +1,4 @@
----
+
 title: "Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment"
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-09-19T09:11:03-04:00"
@@ -12,7 +12,7 @@ confidence: high
 methods: [benchmark]
 ---
 
-> **Synthesis:** Alam SM et al. (2026) present a multimodal collection of scanned examination answers paired with expert-designed Outcome-Based Education (OBE) grading metadata, intended to support [[automated-assessment|criterion-level]] [[assessment|assessment]] [[research-methods-aied|research]]. The dataset contains 485 answer submissions from 415 consenting students at four academic institutions, with eight faculty contributors supplying examination materials across nine subjects and 12 question templates. Each answer-level item links a scanned PDF to a randomized identifier, subject label, question, model answer, criterion definitions, performance-level descriptions, criterion marks, and a total mark; the 12 rubrics contain 47 criteria in total. The scans deliberately preserve realistic visual variability — handwriting, crossed-out work, equations, code, figures, and varied capture pipelines — to enable robustness and generalization studies in [[multimodal|vision-language]] document understanding and grading.
+> **Synthesis:** Alam SM et al. (2026) present a multimodal collection of scanned examination answers paired with expert-designed Outcome-Based Education (OBE) grading metadata, intended to support [[automated-assessment|criterion-level]] [[assessment|assessment]] [[research-methods-aied|research]]. The dataset contains 485 answer submissions from 415 consenting students at four academic institutions, with eight faculty contributors supplying examination materials across nine subjects and 12 question templates. Each answer-level item links a scanned PDF to a randomized identifier, subject label, question, model answer, criterion definitions, performance-level descriptions, criterion marks, and a total mark; the 12 [[rubrics|rubrics]] contain 47 criteria in total. The scans deliberately preserve realistic visual variability — handwriting, crossed-out work, equations, code, figures, and varied capture pipelines — to enable robustness and generalization studies in [[multimodal|vision-language]] document understanding and grading.
 
 ## Key Findings
 1. The dataset links visual examination evidence with question context, model answers, expert-authored OBE criteria, performance descriptions, criterion marks, and total marks at the answer level — enabling criterion-level (not just holistic) assessment.

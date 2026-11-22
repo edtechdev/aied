@@ -1,4 +1,4 @@
----
+
 title: "RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning"
 created: "2026-10-12T09:30:00-04:00"
 updated: "2026-10-12T09:30:00-04:00"
@@ -27,7 +27,7 @@ ai_assist:
 ## Key Findings
 1. **The harness lifted evidence acquisition sharply on weaker models.** Qwen3.5-4B scored 20.0 on historical evidence alone and 56.2 with RegulaTutor (a 36.2-point gain), with a paired 95% interval excluding zero.
 2. **Diagnosis improved as much as evidence.** The same backbone moved from 29.7 to 50.8 on four-class learner diagnosis, and the mean gain across four local Qwen checkpoints was 21.8 points.
-3. **Teaching quality moved only slightly.** The mean gain on the 1–5 teaching rubric across the local checkpoints was 0.016, so better evidence handling did not automatically translate into better instruction.
+3. **Teaching quality moved only slightly.** The mean gain on the 1–5 teaching [[rubrics|rubric]] across the local checkpoints was 0.016, so better evidence handling did not automatically translate into better instruction.
 4. **Stronger backbones gained less, and two lost ground on evidence.** DeepSeek-v4-pro gained 10.9 points on evidence, Gemini-3.7-flash 18.2, but GPT-5.6-sol fell 4.87 points and Kimi-k3 was flat (−1.23).
 5. **Diagnosis could regress even where evidence improved.** Gemini-3.7-flash gained 18.2 points on evidence while its diagnosis fell 7.9 points, showing the stages do not move together.
 6. **Refinement was driven by failure routing.** PairRoute distinguished harness, model and mixed failures, revised the harness first, and only then built reviewed supervision for the model failures that survived under the selected harness.
@@ -48,7 +48,7 @@ The pattern across backbones is the paper's real contribution to design practice
 - **Software developers.** Do not assume a tutoring harness helps every model: benchmark it against the specific backbone, because the gains reversed on the strongest one tested here.
 - **Software developers.** Track evidence acquisition and learner diagnosis as separate metrics; a system improved evidence by 18.2 points while its diagnosis fell 7.9 points.
 - **Researchers.** Use failure routing that distinguishes harness faults from model faults before spending supervision, since that distinction decides whether the fix is an interface change or training data.
-- **[[educational-technology-developers|Educational technology developers]].** Keep teaching policies linked to the evidence behind them so a strategy's basis can be inspected after the fact — the auditable link is what separates this design from black-box retrieval.
+- **Educational technology developers.** Keep teaching policies linked to the evidence behind them so a strategy's basis can be inspected after the fact — the auditable link is what separates this design from black-box retrieval.
 
 ## Limitations
 - All evaluation uses synthetic learner histories from one benchmark (LongTutor's 1,000 cases with 199-record histories), so gains measure benchmark performance rather than learning in a real course.

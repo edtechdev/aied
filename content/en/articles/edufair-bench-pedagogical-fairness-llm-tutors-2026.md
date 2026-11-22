@@ -1,4 +1,4 @@
----
+
 title: "EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics"
 created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-19T07:32:15-04:00"
@@ -25,7 +25,7 @@ methods: [ai-ed-evaluation, benchmark]
 5. Pedagogy-specific RL redistributes rather than removes bias — relative to its Qwen2.5-7B backbone, TutorRL-7B suppresses corrective_tone bias (chemistry 0.159 → 0.104; physics 0.294 → 0.163) but raises mistake_recognize bias (math 0.102 → 0.165; physics 0.150 → 0.212), while amplifying First Language disparities in all domains (math 0.069 → 0.144; chemistry 0.114 → 0.177; physics 0.081 → 0.137).
 6. Names alone suffice to trigger pedagogical bias, especially in physics (mean pedagogical |r| ≈ 0.142 versus ≈ 0.074 for mathematics and ≈ 0.071 for chemistry), and combined gender+ethnicity name cues reach 0.205 for LLaMA-3.1-8B and 0.185 for Qwen2.5-7B.
 7. Mismatched demographic conditioning amplifies divergence: for 11 of 15 (tutor, domain) cells the Wrong condition exceeds Correct, with Qwen2.5-7B/math rising 0.073 → 0.238, TutorRL-7B/math 0.066 → 0.154, DeepSeek-R1-70B/physics 0.043 → 0.169, and GPT-5-mini/physics 0.165 → 0.290.
-8. The LLM judge (gpt-oss-120b) was validated against three annotators on 180 tutor turns, with pre-discussion Krippendorff's α from 0.81 to 1.00 and judge–human agreement from 0.79 to 1.00 across dimensions, after four rubric-refinement workshops.
+8. The LLM judge (gpt-oss-120b) was validated against three annotators on 180 tutor turns, with pre-discussion Krippendorff's α from 0.81 to 1.00 and judge–human agreement from 0.79 to 1.00 across dimensions, after four [[rubrics|rubric]]-refinement workshops.
 
 ## Method: A Paired Demographic Audit
 

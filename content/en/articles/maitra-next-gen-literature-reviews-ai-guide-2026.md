@@ -1,4 +1,4 @@
----
+
 title: "Next-Gen Literature Reviews: A Practical AI Guide for New Scholars"
 created: "2026-11-16T09:30:00-04:00"
 updated: "2026-11-16T09:30:00-04:00"
@@ -56,9 +56,9 @@ Perovskite solar cells were selected because the second author has an establishe
 ## What this means for practice
 
 - **Use the seven steps as a syllabus, not a slogan.** The value for a mentor is that each step has a described manual version, a described AI-assisted version, and a stated failure mode. An undergraduate research course can adopt the sequence directly and assess each step's artifact.
-- **Separate formatting from sourcing in every instruction you give students.** Reformatting a verified reference list is safe and fast. Asking a model to produce the list of what should be cited is where fabricated citations appear. Write that distinction into the assignment rubric rather than hoping students infer it.
+- **Instructors.** Separate formatting from sourcing in every instruction you give students. Reformatting a verified reference list is safe and fast. Asking a model to produce the list of what should be cited is where fabricated citations appear. Write that distinction into the assignment [[rubrics|rubric]] rather than hoping students infer it.
 - **Make verification a deliverable.** The paper's own method — five criteria applied to each output, with a human observer recording errors — is assignable. A student who must submit the AI output alongside a verification table has done assessable work; a student who submits only the synthesized paragraph has not. The same discipline applies to figures: word clouds and mind maps look authoritative and omit what matters but appears rarely, so ask students to state what the figure leaves out.
-- **Reserve the analytic step for supervised human work.** If step five is delegated, the review has no argument of its own. The authors' position is that this is where mentorship is irreplaceable, and the design implication is to schedule faculty or peer review at that step rather than at the end.
+- **Instructors.** Reserve the analytic step for supervised human work. If step five is delegated, the review has no argument of its own. The authors' position is that this is where mentorship is irreplaceable, and the design implication is to schedule faculty or peer review at that step rather than at the end.
 - **Set the copyright rule before the first prompt.** Uploading a PDF a library paid for is a different act from pasting an abstract. The guide's restriction to public material is a policy a course can state in one sentence and enforce in the assignment instructions.
 
 ## Limitations

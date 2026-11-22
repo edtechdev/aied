@@ -1,4 +1,4 @@
----
+
 title: "Generative AI as a design variable: An evidence-centered framework for principled governance in STEM assessment"
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
@@ -29,7 +29,7 @@ The framework articulates three context-dependent [[governance|governance]] stan
 3. **Require** — warranted when the target construct is disciplinary [[student-ai-interaction|AI interaction]] competency itself. Tasks elicit process artifacts (prompts, critiques, revisions) that make student reasoning observable and scorable, distinguishing it from AI-generated output.
 
 ## Empirical Validation
-Two task designs deployed in an introductory [[physics-education|physics]] course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[cong-confidence-asag-2026|Cong et al., 2026]] [[research-methods-aied|research]] on making student reasoning visible and scorable.
+Two task designs deployed in an introductory [[physics-education|physics]] course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible [[rubrics|rubrics]] grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[cong-confidence-asag-2026|Cong et al., 2026]] [[research-methods-aied|research]] on making student reasoning visible and scorable.
 
 ## What this means for practice
 - **Instructors.** Set the AI-use rule per assessment by asking how GenAI would reshape the inference from a student's work product to the targeted construct, instead of applying a blanket allow-or-ban policy.

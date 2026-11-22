@@ -1,4 +1,4 @@
----
+
 title: "Science Literacy: Generative AI as Enabler of Coherence in the Teaching, Learning, and Assessment of Scientific Knowledge and Reasoning"
 created: "2026-10-23T22:41:00-04:00"
 updated: "2026-10-23T22:41:00-04:00"
@@ -50,7 +50,7 @@ The three prototypes are the chapter's evidence that the architecture is buildab
 ## What this means for practice
 
 - **Curriculum designers.** Write the assessment and the instruction together; the chapter's argument is that AI will make an existing misalignment visible and fast, not that it will supply the alignment by itself.
-- **Assessment designers.** Prefer tasks where the AI's output can be checked against a rubric a human authored, and keep the interpretive step with the teacher, as the scorer does when it hands over [[visualization|dashboards]] instead of grades.
+- **Assessment designers.** Prefer tasks where the AI's output can be checked against a [[rubrics|rubric]] a human authored, and keep the interpretive step with the teacher, as the scorer does when it hands over [[visualization|dashboards]] instead of grades.
 - **Instructors.** Treat a generated lesson as a first draft that a dialogue with the tool can improve, since the planner works by asking questions rather than by producing a finished artifact.
 - **Institutions and governance leads.** The fourth layer is the one with the least technical apparatus and the most consequence: consent, data stewardship, and who may act on an AI judgment are decisions, not settings.
 

@@ -1,4 +1,4 @@
----
+
 title: "Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning"
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -43,7 +43,7 @@ This article is a strong theoretical and empirical anchor for the knowledge base
 - **Instructors.** Teach students to pair delegation with vigilance: set tasks in which they must verify, cross-reference, or challenge AI output before it counts as their own work, and avoid treating GenAI use as something to be banned or endorsed wholesale.
 - **Instructors.** Add explicit reflection points where students articulate their evolving relationship with the tool, and require [[self-regulated-learning|self-regulation]] and [[critical-thinking|critical evaluation]] rather than output completion alone.
 - **Administrators.** Shift institutional messaging from warnings about AI shortcuts to recognizing thoughtful delegation as cognitive resource management — in this study efficiency orientation amplified both the vigilance and offloading pathways rather than suppressing [[critical-thinking|critical engagement]].
-- **Designers.** Write assessment rubrics that reward the sophistication of human-AI interaction, including strategic delegation, critical evaluation, and synergistic knowledge creation, not just the quality of the submitted artifact.
+- **Designers.** Write assessment [[rubrics|rubrics]] that reward the sophistication of human-AI interaction, including strategic delegation, critical evaluation, and synergistic knowledge creation, not just the quality of the submitted artifact.
 
 ## Limitations
 

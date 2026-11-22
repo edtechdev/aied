@@ -1,4 +1,4 @@
----
+
 title: "Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education"
 created: "2026-09-22T07:44:00-04:00"
 updated: "2026-09-22T07:44:00-04:00"
@@ -39,7 +39,7 @@ Three research questions run through the paper: differences in feedback quality 
 
 ### Key Findings
 
-1. **Round one found no quality difference at all.** Across all five dimensions — effectiveness, constructiveness, accuracy, completeness and concreteness — group feedback and ChatGPT-4o feedback scored comparably, with group feedback marginally ahead on most and the model marginally ahead on concreteness. The authors attribute this to the explicit rubric both sources were working from.
+1. **Round one found no quality difference at all.** Across all five dimensions — effectiveness, constructiveness, accuracy, completeness and concreteness — group feedback and ChatGPT-4o feedback scored comparably, with group feedback marginally ahead on most and the model marginally ahead on concreteness. The authors attribute this to the explicit [[rubrics|rubric]] both sources were working from.
 2. **By round two the model had an edge in three dimensions.** Significant differences appeared for constructiveness (p < .001), accuracy (p = .010) and concreteness (p = .021), each favoring the model, which the authors read as evidence of strong iterative assessment rather than a property that existed from the start.
 3. **Group feedback was perceived as rich but interested; model feedback as fair but mechanical.** Interviews produced complementary themes: comprehensiveness and specificity for groups, alongside subjectivity tied to personal opinions and, in some accounts, grade considerations; constructiveness, specificity and objectivity for the model, alongside templatisation and a sense of rigidity. Notably, students valued the model's adherence to the rubric as fairness rather than as inflexibility.
 4. **Acceptance was high for both, and the two sources drove different kinds of revision.** Of 127 revisions, 107 drew on one or both feedback sources — an overall acceptance rate of 85.09%, split 44.09% group-only against 37.0% model-only, with 3.15% integrating both. Group feedback generally triggered direct textual fixes; model feedback more often prompted reconsideration of the design's coherence and logic.
@@ -62,9 +62,9 @@ Two numbers deserve care when the findings are quoted. The paper's abstract refe
 
 ## What this means for practice
 
-- **Give the model the same rubric you gave the students.** Comparable quality in round one came from shared criteria; the model's later advantage came with better-aligned prompts, so rubric-aligned prompting is the part of the setup to standardize.
-- **Position AI feedback as a second reader, not a replacement assessor.** Students accepted it most when it supplemented peer review, and the study's own recommendation is supplementary use with instructor oversight.
-- **Keep peers in the loop for context, and use the model for consistency.** Group feedback captured what peers knew about the design's practical constraints; the model caught surface and criteria-level problems more evenly.
+- **Instructors.** Give the model the same rubric you gave the students: comparable quality in round one came from shared criteria; the model's later advantage came with better-aligned prompts, so rubric-aligned prompting is the part of the setup to standardize.
+- **Instructors.** Position AI feedback as a second reader, not a replacement assessor: students accepted it most when it supplemented peer review, and the study's own recommendation is supplementary use with instructor oversight.
+- **Instructors.** Keep peers in the loop for context, and use the model for consistency: group feedback captured what peers knew about the design's practical constraints; the model caught surface and criteria-level problems more evenly.
 - **Budget instructor time for verification.** The paper warns about [[hallucination-risk|hallucinations]] and pedagogically unsound suggestions, and its own limitation is that AI feedback validity was never systematically checked — review before returning machine feedback to students.
 - **Pay attention to who accepts feedback and why.** High-acceptance groups did better, so an unread or dismissed AI report is a signal worth following up, and so is uncritical acceptance, since the model's authority came largely from criteria-faithfulness rather than validated accuracy. A sixth of revisions traced to neither source, which suggests the most valuable outcome of a feedback round may be the discussion it starts rather than the edits it prescribes.
 

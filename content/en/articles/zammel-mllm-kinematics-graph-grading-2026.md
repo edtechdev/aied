@@ -1,4 +1,4 @@
----
+
 title: "Stress Testing a Multimodal Large Language Model Grading Assistant on Kinematics Graph Reading"
 created: "2026-11-18T04:35:00-05:00"
 updated: "2026-11-18T04:35:00-05:00"
@@ -43,7 +43,7 @@ The four qualitative kinematics exercises ask for position increasing throughout
 
 In the reverse direction a donor graph from another exercise was blended toward the target reference in five steps, with the interpolation weighted by a per-trajectory exponent. Three hundred trajectories per exercise gave 1,500 graded images each and 6,000 in total, graded one at a time by GPT-6 astra with partial credit scaled by closeness to each threshold and no reference graph in the prompt.
 
-The forward corpus was split by cosine distance from the reference below 0.25 and an award ratio below 0.60 into groups labeled Confusing Images and Robust-to-Noise Images; the authors state that these labels identify cases for inspection, not correctness. Exercise 3, whose rubric involves the second derivative, had the largest share in the confusing group.
+The forward corpus was split by cosine distance from the reference below 0.25 and an award ratio below 0.60 into groups labeled Confusing Images and Robust-to-Noise Images; the authors state that these labels identify cases for inspection, not correctness. Exercise 3, whose [[rubrics|rubric]] involves the second derivative, had the largest share in the confusing group.
 
 ## Where a full-credit award outran the evidence
 

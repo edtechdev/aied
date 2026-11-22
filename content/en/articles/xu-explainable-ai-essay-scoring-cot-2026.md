@@ -1,4 +1,4 @@
----
+
 title: "Explainable AI for education: Enhancing essay scoring via rubric-aligned chain-of-thought prompting"
 created: "2026-11-10T19:10:44-05:00"
 updated: "2026-11-10T20:40:00-05:00"
@@ -25,7 +25,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Xu and colleagues (2026) build QwenScore+, an [[automated-essay-scoring|automated essay scoring]] and [[feedback|feedback]] system for IELTS Task 2 writing that pairs rubric-aware chain-of-thought prompting with supervised fine-tuning and reinforcement learning from human feedback. The premise is that an LLM scorer's problem is not only accuracy but opacity: a holistic band score tells a learner nothing about which rubric dimension failed or why. QwenScore+ instead reasons through the four IELTS traits — task response, coherence and cohesion, lexical resource, and grammatical range and accuracy — and generates trait-level feedback before projecting a score. On a proprietary corpus of more than 5,000 examiner-annotated essays, the authors report average QWK rising from 0.5253 with CoT alone on Qwen-7B to 0.5410 with CoT plus rubric attention on Qwen-72B, and [[ai-feedback-quality|feedback quality]] rising from a BLEU of 0.2371 without either technique to 0.2873 with PPO and CoT together. The gains are real but modest, and the proprietary corpus means the result is not independently reproducible.
+> **Synthesis:** Xu and colleagues (2026) build QwenScore+, an [[automated-essay-scoring|automated essay scoring]] and [[feedback|feedback]] system for IELTS Task 2 writing that pairs [[rubrics|rubric]]-aware chain-of-thought prompting with supervised fine-tuning and reinforcement learning from human feedback. The premise is that an LLM scorer's problem is not only accuracy but opacity: a holistic band score tells a learner nothing about which rubric dimension failed or why. QwenScore+ instead reasons through the four IELTS traits — task response, coherence and cohesion, lexical resource, and grammatical range and accuracy — and generates trait-level feedback before projecting a score. On a proprietary corpus of more than 5,000 examiner-annotated essays, the authors report average QWK rising from 0.5253 with CoT alone on Qwen-7B to 0.5410 with CoT plus rubric attention on Qwen-72B, and [[ai-feedback-quality|feedback quality]] rising from a BLEU of 0.2371 without either technique to 0.2873 with PPO and CoT together. The gains are real but modest, and the proprietary corpus means the result is not independently reproducible.
 
 ## Key Findings
 
@@ -59,8 +59,8 @@ The scaling result is the most transferable finding. If a 72B model gains only 2
 ## What this means for practice
 
 - **Ask for trait-level evidence, not just a band.** The system's useful output is the dimension-level claim and the comment tied to it; a holistic score alone gives a student nothing to revise.
-- **Treat generated rationales as inspectable claims, not proof.** The chain-of-thought makes the score legible, but the paper does not show that the stated reasons are the reasons the model actually used; a teacher should read them as a proposed justification.
-- **Invest in rubric-annotated data before model size.** The marginal gain from 7B to 72B was small, while the trait supervision was what made the feedback possible.
+- **Instructors.** Treat generated rationales as inspectable claims, not proof: the chain-of-thought makes the score legible, but the paper does not show that the stated reasons are the reasons the model actually used; a teacher should read them as a proposed justification.
+- **Educational technology developers.** Invest in rubric-annotated data before model size: the marginal gain from 7B to 72B was small, while the trait supervision was what made the feedback possible.
 - **Do not read BLEU or ROUGE as feedback quality.** They measure similarity to examiner comments; usefulness to a learner needs a separate evaluation.
 - **Plan for domain limits.** The corpus is IELTS Task 2, and the authors note that atypical prompts, genre-divergent writing, and nonnative constructions may be underrepresented and poorly scored.
 

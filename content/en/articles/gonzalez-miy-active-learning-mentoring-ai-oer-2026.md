@@ -1,4 +1,4 @@
----
+
 title: "Active learning, mentoring and AI-open educational resources: a case study in a virtual laboratory"
 published: "2026-03-20"
 created: "2026-10-28T18:18:15-04:00"
@@ -32,7 +32,7 @@ verified: [citation, numbers]
 2. The mentor's first intervention fixed scope rather than content: participants arrived with "a chatbot for HR" and had not defined its tasks, so the opening session converted a tool choice into a function specification.
 3. A licensing question changed the platform. After the mentor asked whether ChatGPT allowed the open educational reuse the group intended, the group compared options and moved from ChatGPT to Poe, then obtained a CC BY-NC-SA license.
 4. Mapped against the CASYE framework, most components had a visible mentoring function and a matching collaborative action, but "Access to finance" was not observed because every tool was used in its free trial version, and "Impact and sustainability" was handled by laboratory coordinators who placed the outputs in a repository.
-5. On the author's rubric, the manual scored high on open licensing, replicability, adaptability, and transparency but low on accessibility; the chatbot scored low on licensing, replicability, and adaptability, and medium on accessibility and transparency.
+5. On the author's [[rubrics|rubric]], the manual scored high on open licensing, replicability, adaptability, and transparency but low on accessibility; the chatbot scored low on licensing, replicability, and adaptability, and medium on accessibility and transparency.
 6. The package as a whole scored medium on open licensing, replicability, adaptability, and accessibility, and high on transparency, which the author reads as substantial but incomplete alignment with UNESCO's [[open-education|OER]] principles.
 7. Leadership roles were assumed by participants rather than suggested by the mentor, so the author could not observe what leadership contributed to outcomes.
 

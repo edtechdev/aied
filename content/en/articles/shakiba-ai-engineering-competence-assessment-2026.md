@@ -1,4 +1,4 @@
----
+
 title: "When AI Can Build It, What Should We Assess? Rethinking Evidence of Engineering Competence"
 created: "2026-10-28T09:21:54-04:00"
 updated: "2026-10-28T12:00:00-04:00"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Shakiba (2026) reports the redesign and first deployment of a 13-week, AI-permissive, software-intensive postgraduate engineering course, built on the premise that a correct artifact no longer evidences the capability behind it. Rather than restricting AI or detecting its use, the course permits substantial delegation while reserving planning, verification, review, integration and explanation for students, structured by a six-stage accountability workflow and an assessment evidence architecture with six complementary channels — product, process/origin, verification, explanation, reflection and individual assurance — interpreted through a collect-cross-check-escalate logic. By Week 11 the deployment covered 87 students in 17 teams, supported by 957 individual weekly repositories and 34 group repositories. The author's four lessons are candid: AI shifts where rubric criteria carry evidential weight, multiple channels do not cross-check themselves, designed evidence strength can exceed what is realized, and automation scales collection far more readily than interpretation. It is a single-[[learning-design|course design]] study with no comparison condition, so it offers a [[assessment-validity|validity-oriented design pattern]] rather than proof that competence was better measured.
+> **Synthesis:** Shakiba (2026) reports the redesign and first deployment of a 13-week, AI-permissive, software-intensive postgraduate engineering course, built on the premise that a correct artifact no longer evidences the capability behind it. Rather than restricting AI or detecting its use, the course permits substantial delegation while reserving planning, verification, review, integration and explanation for students, structured by a six-stage accountability workflow and an assessment evidence architecture with six complementary channels — product, process/origin, verification, explanation, reflection and individual assurance — interpreted through a collect-cross-check-escalate logic. By Week 11 the deployment covered 87 students in 17 teams, supported by 957 individual weekly repositories and 34 group repositories. The author's four lessons are candid: AI shifts where [[rubrics|rubric]] criteria carry evidential weight, multiple channels do not cross-check themselves, designed evidence strength can exceed what is realized, and automation scales collection far more readily than interpretation. It is a single-[[learning-design|course design]] study with no comparison condition, so it offers a [[assessment-validity|validity-oriented design pattern]] rather than proof that competence was better measured.
 
 ## Key Findings
 

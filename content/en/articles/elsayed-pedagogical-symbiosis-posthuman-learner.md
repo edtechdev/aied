@@ -1,4 +1,4 @@
----
+
 title: "Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI"
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-19T09:38:08-04:00"
@@ -13,7 +13,7 @@ audience: [faculty developers, curriculum designers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Elsayed (2026) introduces **[[pedagogy|Pedagogical]] Symbiosis**, a conceptual framework that redefines the learner as a **Post-Human entity** whose cognitive processes are genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems. Synthesizing Vygotskian mediation, the extended mind thesis, critical posthumanism, and [[distributed-cognition|distributed cognition]], it proposes four mutually constitutive principles—Cognitive Offloading and Augmentation, Epistemic Co-construction, [[metacognition|Metacognitive]] Symbiosis, and Dynamic Identity Formation—underpinned by a Piagetian, Vygotskyan, and Eriksonian developmental progression. In contrast to instrumentally oriented frameworks ([[tpack|TPACK]], [[samr-model|SAMR]], [[ai-literacy|AI literacy]]), Pedagogical Symbiosis offers an ontological reorientation, treating AI not as a tool that enhances cognition but as a constitutive cognitive partner, and operationalizes this via K-16 curriculum applications, a Symbiotic [[eportfolio|Portfolio Assessment]] Rubric, a five-module [[educational-development|professional development]] structure for the 'Cognitive Choreographer' teacher role, and [[educational-policy-ai|institutional policy]] pathways.
+> **Synthesis:** Elsayed (2026) introduces **[[pedagogy|Pedagogical]] Symbiosis**, a conceptual framework that redefines the learner as a **Post-Human entity** whose cognitive processes are genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems. Synthesizing Vygotskian mediation, the extended mind thesis, critical posthumanism, and [[distributed-cognition|distributed cognition]], it proposes four mutually constitutive principles—Cognitive Offloading and Augmentation, Epistemic Co-construction, [[metacognition|Metacognitive]] Symbiosis, and Dynamic Identity Formation—underpinned by a Piagetian, Vygotskyan, and Eriksonian developmental progression. In contrast to instrumentally oriented frameworks ([[tpack|TPACK]], [[samr-model|SAMR]], [[ai-literacy|AI literacy]]), Pedagogical Symbiosis offers an ontological reorientation, treating AI not as a tool that enhances cognition but as a constitutive cognitive partner, and operationalizes this via K-16 curriculum applications, a Symbiotic [[eportfolio|Portfolio Assessment]] [[rubrics|Rubric]], a five-module [[educational-development|professional development]] structure for the 'Cognitive Choreographer' teacher role, and [[educational-policy-ai|institutional policy]] pathways.
 
 ## Key Findings
 

@@ -1,4 +1,4 @@
----
+
 title: "A framework for evaluation of large language models in essay assessment: Reliability, alignment, and causal reasoning"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -34,7 +34,7 @@ methods: [benchmark]
 ## Limitations
 
 - The dataset contained only 60 essays (1,500–2,500 words, M = 1,941, SD = 324) from non-native English speakers, a scope the authors state may limit generalizability.
-- A single standardized rubric and one fixed [[prompt-engineering|prompting]] template were applied to all five models, so prompt-induced variability was deliberately controlled rather than measured, leaving the influence of prompt wording untested.
+- A single standardized [[rubrics|rubric]] and one fixed [[prompt-engineering|prompting]] template were applied to all five models, so prompt-induced variability was deliberately controlled rather than measured, leaving the influence of prompt wording untested.
 - The comparison covers a fixed set of five models evaluated at one point in time, so the reported reliability profiles may not hold as model versions change.
 
 ## Citation

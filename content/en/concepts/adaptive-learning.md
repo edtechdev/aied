@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-21T09:01:46-05:00"
+updated: "2026-11-22T12:23:33-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -86,6 +86,8 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **Adaptation from process sequences, not aggregate scores.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] derived scaffold rules by mining the *order* of 65 students' dialogue turns in triads, moving adaptive learning from aggregated behavioral or performance measures toward individual process sequences; maximal scaffolding raised on-task behavior but also scripting, and the design is untested.
 - **Recognition outruns implementation.** Among 90 educators, 74 (82.2%) identified learners needing adaptation but only 50 (55.6%) had implemented any adaptive measure; the binding obstacle was information about learners, not technology, which 12% named ([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]]).
 - **Control is part of the treatment.** Who controls the adaptation matters as much as what is adapted: across 83 studies, system control produced g = 1.05 (95% CI [.65, 1.45]) and teacher control g = .86 [.46, 1.26] on knowledge, while learner control reached only g = .31 [−.44, 1.05] ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
+
+- **Closed-loop memory couples tutoring to practice.** [[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] stores a three-level trace forest of how a student errs, letting weaknesses exposed during tutoring shape the next generated question, for +10.8% on personalized metrics and +29.4% on general agentic reasoning.
 
 ## Implications for Practice
 

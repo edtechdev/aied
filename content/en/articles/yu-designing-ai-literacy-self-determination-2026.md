@@ -1,4 +1,4 @@
----
+
 title: "Designing for AI literacy: psychological mechanisms and self-determination"
 created: "2026-09-23T13:05:00-04:00"
 updated: "2026-09-23T13:05:00-04:00"
@@ -24,16 +24,16 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Yu, Lin and Chen (2026) ran a randomized 2 × 2 experiment with 320 university students to test how instructional approach (skills-based versus thinking-based) and task type (structured versus open-ended) shape [[ai-literacy|AI literacy]] performance, and whether autonomy, competence, and relatedness explain the effect. Performance was scored with an objective rubric on an AIGC image-generation task, while autonomy, competence, and relatedness were measured by self-report after completion. Thinking-based instruction beat skills-based instruction under both task conditions, and by a wider margin on open-ended tasks. The structural model showed that the two design choices travel through different routes: instruction worked indirectly through autonomy and competence, while task openness worked mainly through autonomy. Competence was the strongest psychological predictor of performance, and relatedness had no independent effect. A configurational analysis found three separate routes to high performance, so the study argues for alignment between instructional emphasis, task openness, and the psychological needs a design actually supports, rather than one preferred method.
+> **Synthesis:** Yu, Lin and Chen (2026) ran a randomized 2 × 2 experiment with 320 university students to test how instructional approach (skills-based versus thinking-based) and task type (structured versus open-ended) shape [[ai-literacy|AI literacy]] performance, and whether autonomy, competence, and relatedness explain the effect. Performance was scored with an objective [[rubrics|rubric]] on an AIGC image-generation task, while autonomy, competence, and relatedness were measured by self-report after completion. Thinking-based instruction beat skills-based instruction under both task conditions, and by a wider margin on open-ended tasks. The structural model showed that the two design choices travel through different routes: instruction worked indirectly through autonomy and competence, while task openness worked mainly through autonomy. Competence was the strongest psychological predictor of performance, and relatedness had no independent effect. A configurational analysis found three separate routes to high performance, so the study argues for alignment between instructional emphasis, task openness, and the psychological needs a design actually supports, rather than one preferred method.
 
 ## Key Findings
 
-- Thinking-based instruction (M = 9.21) outperformed skills-based instruction (M = 7.69) on the objectively rated AIGC task, F(1, 316) = 50.79, p < 0.001, ηp² = 0.138.
-- Open-ended tasks (M = 9.05) produced higher performance than structured tasks (M = 7.85), F(1, 316) = 31.45, p < 0.001, ηp² = 0.091.
-- Instruction and task type interacted, F(1, 316) = 7.22, p = 0.008, with a larger thinking-based advantage under open-ended tasks (10.10 versus 8.00) than structured tasks (8.33 versus 7.38).
-- Competence was the strongest psychological predictor of performance (β = 0.358), followed by autonomy (β = 0.132); relatedness had no independent effect.
-- Instructional approach worked indirectly through autonomy (β = 0.035) and competence (β = 0.079), while task openness operated mainly through autonomy (β = 0.029).
-- The model explained 43.3% of the variance in performance (R² = 0.433), and fuzzy-set analysis found three sufficient configurations for high performance (coverage 0.588, consistency 0.913).
+- Thinking-based instruction outperformed skills-based instruction on the objectively rated AIGC task, by a moderate margin.
+- Open-ended tasks produced higher performance than structured tasks, by a smaller but still clear margin.
+- Instruction and task type interacted, with a larger thinking-based advantage under open-ended tasks (10.10 versus 8.00) than structured tasks (8.33 versus 7.38).
+- Competence was the strongest psychological predictor of performance, followed by autonomy; relatedness had no independent effect.
+- Instructional approach worked indirectly through autonomy and competence, while task openness operated mainly through autonomy.
+- The model explained 43.3% of the variance in performance, and fuzzy-set analysis found three sufficient configurations for high performance (coverage 0.588, consistency 0.913).
 
 ## Study Design and Method
 

@@ -1,4 +1,4 @@
----
+
 title: "As effective as the teacher, but less motivating: A randomized controlled comparison of AI-generated and teacher feedback on students' writing performance and intrinsic motivation"
 created: "2026-11-01T08:06:18-05:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -39,7 +39,7 @@ source_depth: full text
 
 The [[rct|randomized design]] is the reason this study can say "as effective as" rather than "students preferred". Randomization succeeded: conditions did not differ on pre-test writing (*F*(2, 284) = 0.09, *p* = 0.910), GPA (*F*(2, 284) = 0.40, *p* = 0.670), age (*F*(2, 284) = 0.08, *p* = 0.919) or gender (*χ*²(2) = 1.90, *p* = 0.388). The analytic model was an ANCOVA controlling for pre-test writing, GPA and gender, with HC3 robust standard errors and Holm adjustment leaving both feedback contrasts significant at *p* < 0.001.
 
-The two feedback streams were deliberately equated on more than length. Both used the same analytic rubric covering thesis, argument structure, evidence and clarity; the instructor — a Master's graduate in Applied Linguistics with six years of [[writing-education|academic-writing teaching]] — was calibrated for two hours on five sample essays, was blind to the study hypotheses and to pre-test scores, and spent roughly 15 minutes per essay. Feedback came from Qwen2.5-27B-Instruct deployed locally and reached through its REST API, driven by a standardized rubric prompt, with temperature 0.7 and a 1,024-token cap, all generated in September 2025. Students rated the two streams as similarly useful (*M* = 4.56 on a 7-point scale).
+The two feedback streams were deliberately equated on more than length. Both used the same analytic [[rubrics|rubric]] covering thesis, argument structure, evidence and clarity; the instructor — a Master's graduate in Applied Linguistics with six years of [[writing-education|academic-writing teaching]] — was calibrated for two hours on five sample essays, was blind to the study hypotheses and to pre-test scores, and spent roughly 15 minutes per essay. Feedback came from Qwen2.5-27B-Instruct deployed locally and reached through its REST API, driven by a standardized rubric prompt, with temperature 0.7 and a 1,024-token cap, all generated in September 2025. Students rated the two streams as similarly useful (*M* = 4.56 on a 7-point scale).
 
 What the design does not control is the *content* of the feedback. The authors did not independently code accuracy, specificity, actionability or tone, so equivalence rests on rubric alignment, comparable length and student ratings rather than on verified parity of what each source actually said.
 

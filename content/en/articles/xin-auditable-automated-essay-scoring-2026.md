@@ -1,4 +1,4 @@
----
+
 title: "Auditable Automated Essay Scoring and Formative Feedback: A Rubric-Grounded Pipeline for Secondary and Higher Education"
 created: "2026-11-10T19:10:44-05:00"
 updated: "2026-11-10T20:50:00-05:00"
@@ -25,7 +25,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Xin (2026) argues that [[automated-essay-scoring|automated essay scoring]] should be evaluated as a deployable assessment pipeline rather than as a leaderboard entry, and builds RG-Score to match: a rubric-grounded scorer that produces a calibrated holistic score, weak-trait signals, evidence anchors tied to the essay, and a teacher-controlled review flag from one integrated architecture. On the public ASAP corpus of 12,976 essays across eight prompts, a prompt-adaptive centroid regressor (PACR) reaches the highest macro QWK at 0.739, and RG-Score is effectively tied at 0.738 while adding calibration, audit control, and trait grounding. The [[feedback|feedback]] layer is the paper's most educationally significant result: a rubric-grounded evidence template reaches a Trait Recall@2 of 0.829, a valid evidence rate of 0.912, and an auditability index of 0.893, against an auditability index of 0.250 for generic holistic feedback. The trade the paper defends is explicit — sacrificing 0.001 macro QWK for a traceable decision path that a teacher can inspect.
+> **Synthesis:** Xin (2026) argues that [[automated-essay-scoring|automated essay scoring]] should be evaluated as a deployable assessment pipeline rather than as a leaderboard entry, and builds RG-Score to match: a [[rubrics|rubric]]-grounded scorer that produces a calibrated holistic score, weak-trait signals, evidence anchors tied to the essay, and a teacher-controlled review flag from one integrated architecture. On the public ASAP corpus of 12,976 essays across eight prompts, a prompt-adaptive centroid regressor (PACR) reaches the highest macro QWK at 0.739, and RG-Score is effectively tied at 0.738 while adding calibration, audit control, and trait grounding. The [[feedback|feedback]] layer is the paper's most educationally significant result: a rubric-grounded evidence template reaches a Trait Recall@2 of 0.829, a valid evidence rate of 0.912, and an auditability index of 0.893, against an auditability index of 0.250 for generic holistic feedback. The trade the paper defends is explicit — sacrificing 0.001 macro QWK for a traceable decision path that a teacher can inspect.
 
 ## Key Findings
 
@@ -61,7 +61,7 @@ Two cautions sit inside the results. The trait scores that feed feedback are wea
 - **Evaluate the pipeline, not just the scorer.** A system that is 0.001 QWK behind the best model but produces a trait, an evidence anchor, and a review flag is a different product from a black-box score.
 - **Report per-prompt performance.** The spread from 0.66 to 0.82 means an average can conceal a prompt where the system should not be used without review.
 - **Make feedback cite the essay.** Trait-only feedback identifies what is weak but cannot be checked; an evidence anchor makes the comment auditable and gives the student something specific to revise.
-- **Use the review flag as a teacher-support mechanism.** The paper's deployment model is a first pass by the machine, teacher inspection of weak traits and evidence, and manual review of flagged cases before any score is released.
+- **Assessment designers.** Use the review flag as a teacher-support mechanism: the paper's deployment model is a first pass by the machine, teacher inspection of weak traits and evidence, and manual review of flagged cases before any score is released.
 - **Re-calibrate locally.** The calibration bins and thresholds are ASAP-specific; an institution adopting the pipeline needs its own rubric, its own anchor essays, and its own operating point.
 
 ## Limitations

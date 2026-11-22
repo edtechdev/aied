@@ -1,4 +1,4 @@
----
+
 title: "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System"
 created: "2026-07-16T04:33:04-04:00"
 updated: "2026-09-20T03:45:11-04:00"
@@ -24,7 +24,7 @@ The work sits within the broader literature on [[intelligent-tutoring|intelligen
 
 - **Software developers.** Treat simulation-based validation as necessary but insufficient. Synthetic learners matched student experience in Chat mode, were overoptimistic in Tutor mode, and had no mechanism to detect the quiz question-repetition bug that two of eight students described.
 - **Software developers.** Keep the orchestration layer course-agnostic and expect to rebuild what sits downstream: onboarding CMP202 and PSY555 required zero code changes to the orchestrator, mastery tracker, and [[scaffolding|scaffolding]] logic, but new [[rag|RAG]] libraries and Knowledge Component models plus modified course-specific generation logic.
-- **Designers.** Read aggregate rubric scores with suspicion. The Adaptive Feedback mean of 0.807 hid a lower Learner State Match for the Novice Variable and Struggling Eager profiles, and only three of eight students agreed that LEA adapted appropriately when they expressed uncertainty.
+- **Designers.** Read aggregate [[rubrics|rubric]] scores with suspicion. The Adaptive Feedback mean of 0.807 hid a lower Learner State Match for the Novice Variable and Struggling Eager profiles, and only three of eight students agreed that LEA adapted appropriately when they expressed uncertainty.
 - **Software developers.** Repurpose the cross-course RAGAS results as a curriculum-coverage audit: Faithfulness fell from 0.69 to 0.50 as curriculum distance grew because questions are generated from the KC model, so a low score localizes learning objectives the uploaded corpus does not cover.
 - **Researchers.** Report retrieval metrics per course rather than pooled — Answer Relevancy (0.88-0.94) and Context Precision (0.88-0.90) were stable across courses, but Faithfulness is confounded by corpus coverage.
 

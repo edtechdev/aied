@@ -1,4 +1,4 @@
----
+
 title: "BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation"
 created: "2026-10-01T19:37:00-04:00"
 updated: "2026-10-01T19:37:00-04:00"
@@ -27,7 +27,7 @@ source_depth: full text
 ## Key Findings
 
 1. Competency bias is the target: prompted LLMs solve the task too well to stand in for novices, and the paper measures this directly — Vanilla and chain-of-thought baselines reach 100% solve rates where real students do not.
-2. BEAGLE reaches the lowest behavioral divergence from real student traces, DKL = 0.31 ± 0.05 against 0.53 ± 0.18 for chain-of-thought, 0.83 ± 0.22 for an exemplar-conditioned LLM simulator, and 0.95 ± 0.04 for rule-based SimStudent.
+2. BEAGLE reaches the lowest behavioral divergence from real student traces, DKL = 0.31 ± 0.05 against 0.53 ± 0.18 for chain-of-thought, 0.83 ± 0.22 for an [[rubrics|exemplar]]-conditioned LLM simulator, and 0.95 ± 0.04 for rule-based SimStudent.
 3. It reproduces error recurrence at 86.2 ± 21.3%, the epistemic metric that operationalizes the paper's core objective — the next error should follow the pattern real students show, not appear at random.
 4. Perceptual fidelity follows: BEAGLE scores 2.44 ± 0.85 on the judge-rated realism scale against 1.64 ± 0.59 for the best baseline, and its solve rate of 10.00 ± 4.24% with 29 ± 4 steps is the profile of a struggling learner rather than a capable model.
 5. In a human Turing test with 71 raters, classification accuracy between BEAGLE traces and real student traces was 52.8% — statistically equivalent to chance (d′ = 0.15, pTOST = 0.038).

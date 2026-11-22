@@ -1,4 +1,4 @@
----
+
 title: "Effects of generative AI assisted grammar instruction on Ethiopian EFL learners' self-efficacy, metalinguistic awareness, and writing performance"
 published: "2026-10-31"
 created: "2026-11-02T09:12:23-05:00"
@@ -42,7 +42,7 @@ The intervention ran once weekly for ten weeks in Communicative English Skills s
 
 ## Gains across all five writing dimensions
 
-Compositions were scored on an analytic rubric weighting content at 30%, grammar at 25%, organization at 20%, vocabulary at 20%, and mechanics at 5%; two trained raters blind to group and occasion reached an intraclass correlation of 0.801. Every dimension favored the ChatGPT condition, broader than a grammar-only account predicts. Content is instructive: students asked only for grammatical feedback, so the gain cannot be traced to AI commentary on ideas. The explanation is procedural — repeated cycles gave students more passes over the whole text — and the authors read it as evidence that gains depend less on what the AI comments on than on how AI-supported revision is embedded in the [[writing-education|writing process]]. Effect sizes descend from grammar through content and organization to mechanics, the smallest-weighted category.
+Compositions were scored on an analytic [[rubrics|rubric]] weighting content at 30%, grammar at 25%, organization at 20%, vocabulary at 20%, and mechanics at 5%; two trained raters blind to group and occasion reached an intraclass correlation of 0.801. Every dimension favored the ChatGPT condition, broader than a grammar-only account predicts. Content is instructive: students asked only for grammatical feedback, so the gain cannot be traced to AI commentary on ideas. The explanation is procedural — repeated cycles gave students more passes over the whole text — and the authors read it as evidence that gains depend less on what the AI comments on than on how AI-supported revision is embedded in the [[writing-education|writing process]]. Effect sizes descend from grammar through content and organization to mechanics, the smallest-weighted category.
 
 ## Reflection, confidence, and the Ethiopian gap
 

@@ -1,4 +1,4 @@
----
+
 title: "STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions and Rubrics"
 created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"
@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Teachers cannot individually probe every student's reasoning in a full class, so process-level diagnosis usually collapses into a judgment about the final answer. STEPwise pairs a diagnostic framework, STEP, with an [[llm|LLM]] pipeline that turns any math word problem into stage-specific sub-questions and three-tier rubrics. STEP, co-designed with six [[math-education|mathematics education]] experts, splits [[problem-solving|problem solving]] into four stages and eight sub-skills and specifies what evidence to elicit at each. An expert review found strong [[assessment-validity|construct validity]] (91.32%) and mathematical accuracy (90.97%), but weaker level appropriateness (80.21%) and problem-context alignment (72.22%). In a month-long deployment with 5 teachers and 64 students, teachers generated materials for 90 problems and reported seeing where reasoning broke down, while students valued articulating their thinking. The authors frame the sub-questions as both a diagnostic instrument and a learning experience.
+> **Synthesis:** Teachers cannot individually probe every student's reasoning in a full class, so process-level diagnosis usually collapses into a judgment about the final answer. STEPwise pairs a diagnostic framework, STEP, with an [[llm|LLM]] pipeline that turns any math word problem into stage-specific sub-questions and three-tier [[rubrics|rubrics]]. STEP, co-designed with six [[math-education|mathematics education]] experts, splits [[problem-solving|problem solving]] into four stages and eight sub-skills and specifies what evidence to elicit at each. An expert review found strong [[assessment-validity|construct validity]] (91.32%) and mathematical accuracy (90.97%), but weaker level appropriateness (80.21%) and problem-context alignment (72.22%). In a month-long deployment with 5 teachers and 64 students, teachers generated materials for 90 problems and reported seeing where reasoning broke down, while students valued articulating their thinking. The authors frame the sub-questions as both a diagnostic instrument and a learning experience.
 
 ## Key Findings
 1. STEP refines four problem-solving stages into eight diagnostic sub-skills, specifying the evidence to elicit and assess at each so that breakdowns can be located precisely.

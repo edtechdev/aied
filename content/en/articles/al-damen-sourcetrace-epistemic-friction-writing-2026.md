@@ -1,4 +1,4 @@
----
+
 title: "SourceTrace: Designing Epistemic Friction for Source-Based Second-Language Argument Writing With Generative Artificial Intelligence"
 created: "2026-11-15T06:40:00-05:00"
 updated: "2026-11-15T06:40:00-05:00"
@@ -27,7 +27,7 @@ ai_assist:
     agent: Hermes-Agent
 ---
 
-> **Synthesis:** This trial holds the model constant and varies only what the interface demands before generated text may enter a draft. Ninety-six [[language-learning|second-language]] English majors in Jordan wrote for four supervised weeks in one of two browser workspaces built on the same [[llm|large language model]] snapshot, GPT-4o: an ordinary chatbot, or SourceTrace, which required a four-field transfer card before insertion. On a later essay written without AI, the SourceTrace group scored 1.38 points higher on a 20-point rubric, concentrated in source-evidence dimensions rather than claim sharpness or counterargument. Logs and 24 stimulated-recall interviews suggest the mechanism was not slowness but the relocation of judgment to the moment of transfer. The authors call this a proof of concept for transfer gating, not evidence for any single card field.
+> **Synthesis:** This trial holds the model constant and varies only what the interface demands before generated text may enter a draft. Ninety-six [[language-learning|second-language]] English majors in Jordan wrote for four supervised weeks in one of two browser workspaces built on the same [[llm|large language model]] snapshot, GPT-4o: an ordinary chatbot, or SourceTrace, which required a four-field transfer card before insertion. On a later essay written without AI, the SourceTrace group scored 1.38 points higher on a 20-point [[rubrics|rubric]], concentrated in source-evidence dimensions rather than claim sharpness or counterargument. Logs and 24 stimulated-recall interviews suggest the mechanism was not slowness but the relocation of judgment to the moment of transfer. The authors call this a proof of concept for transfer gating, not evidence for any single card field.
 
 ## Key Findings
 
@@ -62,10 +62,10 @@ The [[mixed-methods-research|explanatory sequential]] interviews explain the dir
 
 ## What this means for practice
 
-- **Instructors:** Require a short justification before [[generative-ai|AI-generated]] language enters source-based work — rhetorical role, whether support is direct or inferential, the relevant reading, the evidential fit. The burden was a few fields per transfer.
-- **Instructional designers:** Separate generation from adoption in the interface and log the decision point. Students here kept the same model and sources; only transfer changed.
-- **Writing program leads:** Do not expect such a gate to fix thesis precision or counterargument; those dimensions did not move.
-- **Researchers:** Treat process measures as converging evidence: source-justified uptake counts accepted suggestions only, so it misses good judgment in rejection.
+- **Instructors.** Require a short justification before [[generative-ai|AI-generated]] language enters source-based work — rhetorical role, whether support is direct or inferential, the relevant reading, the evidential fit. The burden was a few fields per transfer.
+- **Instructional designers.** Separate generation from adoption in the interface and log the decision point. Students here kept the same model and sources; only transfer changed.
+- **Writing program leads.** Do not expect such a gate to fix thesis precision or counterargument; those dimensions did not move.
+- **Researchers.** Treat process measures as converging evidence: source-justified uptake counts accepted suggestions only, so it misses good judgment in rejection.
 
 ## Limitations
 

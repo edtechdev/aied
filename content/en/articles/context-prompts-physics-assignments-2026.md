@@ -1,4 +1,4 @@
----
+
 title: "Artificial Intelligence Driven Physics Assignments using Context Prompts"
 created: "2026-09-22T09:24:11-04:00"
 updated: "2026-09-22T09:24:11-04:00"
@@ -37,7 +37,7 @@ reviewed_by: [editor]
 7. **Reflection is a proposal, not a result.** A parallel context prompt for [[reflection|self-reflection]] — elaborate a concept, apply it, transfer it — is presented as the framework's next extension rather than as an implemented classroom activity.
 
 ## The prompt is where the teaching happens
-Most AI-in-course designs hand students a tool and hope the tool behaves. This one hands them a sentence-level job description. The context prompt names the student's situation, instructs the model to act as a learning guide, asks for a Socratic approach with plain-language explanation and step-by-step mathematics, and permits suggestions of a website or video. The authors map these choices onto the six components of [[prompt-engineering|prompt engineering]] — task, context, exemplar, persona, format, and tone — and note that task and context do the heavy lifting. The practical consequence is that the [[pedagogy|pedagogical]] intent is readable and revisable: an instructor can see what the AI was told to do, and change it, without adopting a new platform.
+Most AI-in-course designs hand students a tool and hope the tool behaves. This one hands them a sentence-level job description. The context prompt names the student's situation, instructs the model to act as a learning guide, asks for a Socratic approach with plain-language explanation and step-by-step mathematics, and permits suggestions of a website or video. The authors map these choices onto the six components of [[prompt-engineering|prompt engineering]] — task, context, [[rubrics|exemplar]], persona, format, and tone — and note that task and context do the heavy lifting. The practical consequence is that the [[pedagogy|pedagogical]] intent is readable and revisable: an instructor can see what the AI was told to do, and change it, without adopting a new platform.
 
 ## What the conversation looks like in practice
 Students were told to pick two subtopics from lecture, use AI as a learning guide, ask questions when they did not understand, request examples and analogies, connect the material to their own interests, and save the full transcript for credit. The authors report that the personal-connection requirement produced the strongest evidence of learning-relevance in the submitted chats. It also produced the assignment's clearest failure mode: many students asked a long list of questions but did not answer the follow-up questions the AI asked back, which is exactly the behavior the grading criteria were meant to catch. Their conclusion is a design instruction rather than a complaint — if the goal is dialogue, the criteria, the instructions, and the modeling all have to say so.

@@ -1,4 +1,4 @@
----
+
 title: "From Fragmentation to Phronesis: A Hermeneutic Pedagogy for Business Education in the Age of Generative AI"
 created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T22:00:00-05:00"
@@ -59,7 +59,7 @@ The accompanying case is a mid-sized organization implementing an AI-enabled ent
 
 - **Start with the judgment, not the tool.** Name the professional judgment the course develops, then decide where AI helps surface alternatives and where it substitutes for the work.
 - **Make preconceptions an assignment.** A short reflexive account of how a student first framed the case gives instructors evidence that a polished deliverable cannot.
-- **Use AI to generate the perspectives students must reconcile.** Simulated stakeholders are useful when students are required to critique and revise them, not when they are accepted as findings.
+- **Instructors.** Use AI to generate the perspectives students must reconcile. Simulated stakeholders are useful when students are required to critique and revise them, not when they are accepted as findings.
 - **Assess the rationale, not the artifact.** A communication plan with a justification shows interpretive responsiveness; a clean memo does not.
 - **Keep unresolved tensions in the deliverable.** Requiring students to name what cannot be reconciled is closer to professional practice than forcing consensus.
 
@@ -67,7 +67,7 @@ The accompanying case is a mid-sized organization implementing an AI-enabled ent
 
 - This is a theoretical article, not an empirical study; REVEAL is illustrated with a constructed case and no student data.
 - The framework depends on instructors who are themselves comfortable with hermeneutic concepts, and the article does not report how faculty were prepared or how consistently the six movements can be enacted across courses.
-- No assessment instruments, rubrics or reliability evidence are provided, so claims about making judgment visible remain programmatic.
+- No assessment instruments, [[rubrics|rubrics]] or reliability evidence are provided, so claims about making judgment visible remain programmatic.
 - Phronesis is difficult to operationalize and to grade; the article does not address how an instructor distinguishes a genuinely interpretive response from a fluent imitation.
 - The business-school focus limits transfer, and the authors do not discuss workload or class size.
 

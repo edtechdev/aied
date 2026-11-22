@@ -1,4 +1,4 @@
----
+
 title: "Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change"
 created: "2026-09-02T09:00:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"
@@ -24,7 +24,7 @@ The study compared three parallel groups so the contribution of the AI could be 
 2. A non-AI inquiry group, which did the same inquiry without AI
 3. A control group
 
-Students' decision-making was scored against a rubric anchored in the structured reasoning that good scientific decisions require — naming drivers, reading data, weighing stakeholder interests, and planning actions.
+Students' decision-making was scored against a [[rubrics|rubric]] anchored in the structured reasoning that good scientific decisions require — naming drivers, reading data, weighing stakeholder interests, and planning actions.
 
 ### Motivation and rationale
 

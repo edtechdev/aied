@@ -1,4 +1,4 @@
----
+
 title: "Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale"
 created: "2026-09-23T09:29:49-04:00"
 updated: "2026-09-23T09:29:49-04:00"
@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Bespoke takes a human instructor's existing [[video-education|lecture]] transcript and regenerates the whole lecture — slides, narration, and charts — for a stated professional audience and duration. From 31 graduate lectures it produced 209 videos across healthcare, finance, energy, and a generic audience, at about \$0.22 of API cost per minute. Twenty-five domain-matched experts rated 92 of them on a five-point rubric anchored at "a standard MOOC lecture's quality," judging 87% at or above that bar (mean 3.42 out of 5). Quality held across industries, durations, and a 21-lecture held-out set; voice, slide timing, and layout were the recurring defects.
+> **Synthesis:** Bespoke takes a human instructor's existing [[video-education|lecture]] transcript and regenerates the whole lecture — slides, narration, and charts — for a stated professional audience and duration. From 31 graduate lectures it produced 209 videos across healthcare, finance, energy, and a generic audience, at about \$0.22 of API cost per minute. Twenty-five domain-matched experts rated 92 of them on a five-point [[rubrics|rubric]] anchored at "a standard MOOC lecture's quality," judging 87% at or above that bar (mean 3.42 out of 5). Quality held across industries, durations, and a 21-lecture held-out set; voice, slide timing, and layout were the recurring defects.
 
 ## Key Findings
 1. **Experts judged most regenerated lectures MOOC-comparable.** Reviewers placed 87% of 92 videos at or above the rubric midpoint written as "comparable to a standard [[online-teaching-and-learning|MOOC]] lecture" (95% CI [76%, 96%]).
@@ -52,7 +52,7 @@ The paper positions its lever against two neighbors: [[recommender-systems-and-l
 - **Instructors.** Repurpose a seed transcript you already own instead of re-recording: at about \$0.22 per video minute, an industry variant is cheap enough to trial.
 - **Instructional designers.** Spend the human pass where reviewers located the defects — voice, reveal timing, and slide rendering — rather than on audience calibration (B2 = 3.52).
 - **Administrators.** Clear rights before scaling: generated variants inherit the seed instructor's copyright and any citation obligations from retrieved case studies.
-- **[[educational-technology-developers|Educational technology developers]].** Compile slides, narration, and charts rather than generating pixel video, and route duration arithmetic, missing images, and overflow to code.
+- **Educational technology developers.** Compile slides, narration, and charts rather than generating pixel video, and route duration arithmetic, missing images, and overflow to code.
 
 ## Limitations
 - Nothing here shows learning: the study measures expert judgment of video quality, and a learner study of learning, transfer, completion, or engagement is future work.

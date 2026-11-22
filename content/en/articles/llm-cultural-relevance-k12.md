@@ -1,4 +1,4 @@
----
+
 title: "LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example"
 created: "2026-05-08T07:38:00-04:00"
 updated: "2026-09-18T19:55:59-04:00"
@@ -17,7 +17,7 @@ sources: ['raw/papers/2505.08083.md']
 
 ## Key Findings
 
-- **CulturAIEd** is an [[llm|LLM]]-powered system designed to help teachers contextualize **[[ai-literacy|AI literacy]] activities through Culturally Relevant Pedagogy (CRP)** principles, combining student demographic characteristics with rubric-driven guidance in the generative process.
+- **CulturAIEd** is an [[llm|LLM]]-powered system designed to help teachers contextualize **[[ai-literacy|AI literacy]] activities through Culturally Relevant Pedagogy (CRP)** principles, combining student demographic characteristics with [[rubrics|rubric]]-driven guidance in the generative process.
 - Teachers struggle to implement CRP due to **time, training, and resource gaps**; the study asks whether LLMs can lower these barriers (RQ1: influence on teachers' ability to design culturally responsive AI literacy activities; RQ2: perceived strengths and opportunities of such tools).
 - In an **exploratory pilot with four K-12 teachers**, CulturAIEd **enhanced teachers' confidence** in identifying opportunities for cultural responsiveness in learning activities and in making culturally responsive modifications to existing activities.
 - Teachers **valued the streamlined integration of student demographic information and immediate actionable feedback**, which they associated with high implementation efficiency.

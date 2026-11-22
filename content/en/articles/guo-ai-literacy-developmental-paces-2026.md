@@ -1,4 +1,4 @@
----
+
 title: "Demystifying AI Literacy Across Developmental Stages: An Integrative Review and the PACES Framework"
 created: "2026-11-13T00:45:00-05:00"
 updated: "2026-11-13T10:45:00-05:00"
@@ -64,14 +64,14 @@ Nine validated measures span the bands, mostly secondary; one serves early child
 
 None captures process: how a learner steers, questions and revises with AI. [[self-report-measures|Self-report]] dominates, with the familiar [[assessment-validity|validity]] limits — construct under-representation, social desirability, and self-judgment that outruns metacognitive development. Ethics is measured by agreement with abstract principles, close to the opposite of judging a case.
 
-The remedies point [[process-oriented-assessment|assessment]] toward performance evidence: rubrics scoring the dialogue and revision rather than the final artifact, scenario-based ethics tasks scored on reasoning as well as choice, and psychosocial items grounded in learners' actual interactions. The review also notes that curriculum aims and instruments part ways: a curriculum about critical use assessed by a multiple-choice test.
+The remedies point [[process-oriented-assessment|assessment]] toward performance evidence: [[rubrics|rubrics]] scoring the dialogue and revision rather than the final artifact, scenario-based ethics tasks scored on reasoning as well as choice, and psychosocial items grounded in learners' actual interactions. The review also notes that curriculum aims and instruments part ways: a curriculum about critical use assessed by a multiple-choice test.
 
 ## What this means for practice
 
-- **Instructors:** Plan by developmental band, not by tool — story and sensory work early, analogy and making in upper primary, simulation and critique in lower secondary, team projects later.
-- **Program designers:** Sequence AI literacy across years in the [[curriculum-design|curriculum]] instead of adding a standalone module, and put [[ethics|ethics]] inside tasks, not in a closing unit.
-- **Assessment designers:** Pair self-report with process evidence — dialogue rubrics, revision logs — and score ethical reasoning on the justification, not only the choice.
-- **Administrators:** Treat PACES as a provisional roadmap; fund a primary pilot with observable indicators before adopting a district-wide sequence.
+- **Instructors.** Plan by developmental band, not by tool — story and sensory work early, analogy and making in upper primary, simulation and critique in lower secondary, team projects later.
+- **Program designers.** Sequence AI literacy across years in the [[curriculum-design|curriculum]] instead of adding a standalone module, and put [[ethics|ethics]] inside tasks, not in a closing unit.
+- **Assessment designers.** Pair self-report with process evidence — dialogue rubrics, revision logs — and score ethical reasoning on the justification, not only the choice.
+- **Administrators.** Treat PACES as a provisional roadmap; fund a primary pilot with observable indicators before adopting a district-wide sequence.
 
 ## Limitations
 

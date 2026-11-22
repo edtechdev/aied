@@ -1,4 +1,4 @@
----
+
 title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring"
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-09-19T10:56:42-04:00"
@@ -46,7 +46,7 @@ TACTutor is produced through a two-stage post-training process applied to the Qw
 
 **Phase I — Supervised Fine-Tuning (SFT).** Parameter-efficient SFT with LoRA teaches TACTutor how appropriate teacher responses are expressed in authentic tutoring contexts. Each instance is formatted as a chat transcript, with tutoring instructions, learner profile, and previous dialogue forming the context and the original next teacher turn as the target. Tutor-strategy labels serve as semantic annotations rather than generation targets. A best-of-n aligned variant uses a pedagogical judge to select high-quality candidate responses, reducing dependence on a single reference response.
 
-**Phase II — Taxonomy-Aligned Group Relative Policy Optimization (GRPO).** Because SFT teaches imitation but not whether a response selects an appropriate instructional action, TACTutor is further optimized with taxonomy-grounded GRPO. For each dialogue context the policy generates multiple candidate responses using only deployment-available information; a frozen pedagogical judge scores each against hidden reference responses, gold taxonomy labels, and an evaluation rubric. The reward combines a task score with grounding, format, and strategy-shaping terms, plus penalties for answer leakage/over-helping and off-task/incoherent output, constrained by a KL term against the frozen SFT policy. This makes the reward transparent and auditable rather than an opaque optimization of a single benchmark score — a distinctly [[reinforcement-learning|reinforcement-learning-based]] approach to [[adaptive-learning|adaptive]] tutor behavior.
+**Phase II — Taxonomy-Aligned Group Relative Policy Optimization (GRPO).** Because SFT teaches imitation but not whether a response selects an appropriate instructional action, TACTutor is further optimized with taxonomy-grounded GRPO. For each dialogue context the policy generates multiple candidate responses using only deployment-available information; a frozen pedagogical judge scores each against hidden reference responses, gold taxonomy labels, and an evaluation [[rubrics|rubric]]. The reward combines a task score with grounding, format, and strategy-shaping terms, plus penalties for answer leakage/over-helping and off-task/incoherent output, constrained by a KL term against the frozen SFT policy. This makes the reward transparent and auditable rather than an opaque optimization of a single benchmark score — a distinctly [[reinforcement-learning|reinforcement-learning-based]] approach to [[adaptive-learning|adaptive]] tutor behavior.
 
 ## Evaluation and Results
 

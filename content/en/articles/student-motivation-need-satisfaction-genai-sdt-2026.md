@@ -1,4 +1,4 @@
----
+
 title: "Student motivation and need satisfaction in GenAI-supported classrooms: A self-determination theory perspective"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Schweder, Hagenauer, and Raufelder (2026) use a cross-sectional sample of 2464 lower-secondary students (grades 7–8) to compare rubric-based self-regulated competency-based learning (CBL) with and without ChatGPT integration and [[teacher-role|teacher]]-directed learning, combining person-centered [[latent-profile-analysis|latent profile analysis]] with variable-centered mean comparisons. ChatGPT use in CBL was associated with higher autonomy support and competence satisfaction but also a greater proportion of low-quality [[motivation|motivational]] profiles; those profiles nonetheless showed higher intrinsic and identified motivation than comparable profiles elsewhere, while relatedness was less pronounced in the ChatGPT-supported context.
+> **Synthesis:** Schweder, Hagenauer, and Raufelder (2026) use a cross-sectional sample of 2464 lower-secondary students (grades 7–8) to compare [[rubrics|rubric]]-based self-regulated competency-based learning (CBL) with and without ChatGPT integration and [[teacher-role|teacher]]-directed learning, combining person-centered [[latent-profile-analysis|latent profile analysis]] with variable-centered mean comparisons. ChatGPT use in CBL was associated with higher autonomy support and competence satisfaction but also a greater proportion of low-quality [[motivation|motivational]] profiles; those profiles nonetheless showed higher intrinsic and identified motivation than comparable profiles elsewhere, while relatedness was less pronounced in the ChatGPT-supported context.
 
 ## Key Findings
 

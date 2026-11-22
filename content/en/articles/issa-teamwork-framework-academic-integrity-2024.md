@@ -1,4 +1,4 @@
----
+
 title: "A teamwork framework for preventing breaches of academic integrity and improving students' collaborative skills in the AI era"
 published: "2024-10-02"
 created: "2026-11-04T07:52:09-05:00"
@@ -39,7 +39,7 @@ methods: [mixed-methods-research]
 
 ## What the framework actually does
 
-The design turns the assessment into a supervised process with several observable checkpoints. The team project plan carries 40% of the unit and runs 12 weeks from orientation to submission, with the rubric, self/peer forms and presentation criteria released on day one. The 30-minute team meeting on the work breakdown and organizational breakdown structures is where formative feedback is given, and it is also where the integrity question is asked member by member. Requiring the presentation content — including the [[group-work|group work]] artifacts such as the RACI matrix, critical path and risk register — means each student has to speak to their own role.
+The design turns the assessment into a supervised process with several observable checkpoints. The team project plan carries 40% of the unit and runs 12 weeks from orientation to submission, with the [[rubrics|rubric]], self/peer forms and presentation criteria released on day one. The 30-minute team meeting on the work breakdown and organizational breakdown structures is where formative feedback is given, and it is also where the integrity question is asked member by member. Requiring the presentation content — including the [[group-work|group work]] artifacts such as the RACI matrix, critical path and risk register — means each student has to speak to their own role.
 
 That is the paper's real argument: the assessment asks for something a model cannot hand over intact, because the student has to explain and defend a share of the work in front of the instructor who assigned it. Whether or not AI was used, the meeting is where the instructor finds out what the student knows.
 
@@ -59,7 +59,7 @@ The [[qualitative-research|qualitative]] material is the strongest part of the e
 
 - **Make the process the evidence.** If a student must present and defend their share of a team plan in a short meeting with the instructor, an AI-generated submission becomes visible without any detector being involved.
 - **Ask per person, not per team.** One self-reflective form plus one peer-reflective form per teammate gives the instructor an individual record; a single team submission gives none.
-- **Give formative feedback before the integrity question is settled.** The paper's sequence is feedback first, verification at week nine, final mark last, which keeps the meeting hospitalable rather than adversarial.
+- **Instructors.** Give formative feedback before the integrity question is settled. The paper's sequence is feedback first, verification at week nine, final mark last, which keeps the meeting hospitalable rather than adversarial.
 - **Do not repeat the misconduct claim as a finding.** The paper offers no numbers for it, and a policy audience will ask.
 - **Expect instructor time to be the real cost.** A 30-minute meeting for every team, repeated across five semesters in a unit of up to 166 students, is the load-bearing resource in this design.
 

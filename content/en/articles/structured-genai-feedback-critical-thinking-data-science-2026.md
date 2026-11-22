@@ -1,4 +1,4 @@
----
+
 title: "Effects of structured generative AI feedback on data science students' critical thinking"
 created: "2026-11-12T09:30:00-05:00"
 updated: "2026-11-14T11:30:00-05:00"
@@ -48,7 +48,7 @@ The dose was not equal. Across three tasks students completed 254 cycles and rec
 
 ## Why one class per condition caps the claim
 
-The design assigned one naturally formed section to each condition, with the same instructor, materials and rubrics. Propensity scores came from logistic regression, and one-to-one matching without replacement at a 0.2-standard-deviation caliper retained 69 of 88 treatment and 69 of 79 comparison students. Balance improved sharply where selection most plausibly operated: the standardized mean difference for GPA fell from 0.434 to 0.011 and for prior AI experience from 0.218 to 0.038. It did not improve everywhere — the gender difference rose from 0.125 to 0.146, and freshmen stayed at 0.112, above the prespecified 0.10 threshold. Those residuals matter because the claim rests on the matched sample being exchangeable with the comparison class, and it is not fully so.
+The design assigned one naturally formed section to each condition, with the same instructor, materials and [[rubrics|rubrics]]. Propensity scores came from logistic regression, and one-to-one matching without replacement at a 0.2-standard-deviation caliper retained 69 of 88 treatment and 69 of 79 comparison students. Balance improved sharply where selection most plausibly operated: the standardized mean difference for GPA fell from 0.434 to 0.011 and for prior AI experience from 0.218 to 0.038. It did not improve everywhere — the gender difference rose from 0.125 to 0.146, and freshmen stayed at 0.112, above the prespecified 0.10 threshold. Those residuals matter because the claim rests on the matched sample being exchangeable with the comparison class, and it is not fully so.
 
 More fundamentally, no covariate set can separate a feedback condition from the class that received it. The authors state that condition was completely confounded with class membership, and that class-level influences could produce the same pattern. That is the correct limit on [[interpreting-and-applying-aied-research|what a matched two-class comparison supports]], and it belongs in [[limitations-in-aied-research|limitations in AIEd research]] alongside the missing unstructured-AI arm, omitted for ethical reasons, which leaves structure indistinguishable from provider, interactivity and exposure.
 

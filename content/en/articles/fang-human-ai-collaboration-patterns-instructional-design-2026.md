@@ -1,4 +1,4 @@
----
+
 title: "Human–AI collaborative patterns in GenAI-supported instructional design among pre-service teachers: an analysis of interaction sequences and cognitive load"
 created: "2026-10-16T20:13:06-04:00"
 updated: "2026-10-17T07:09:05-04:00"
@@ -47,7 +47,7 @@ The paper reads IC→IC through [[cognitive-offloading|cognitive load]] theory a
 
 ## A quality rubric built for this study, with limited validity evidence
 
-Lesson-plan quality was scored with a rubric developed for the research context and applied by two raters, yielding an average-measure intraclass correlation of 0.853, which the authors report as excellent inter-rater consistency while stating plainly that construct and criterion-related validity were not examined and that the rubric has not been validated on other samples, tasks, or settings. Coding of interaction behavior reached Cohen's Kappa of 0.86 after a 0.82 trial round, and disagreements were mediated by the lead researcher — a procedure that raises reliability while concentrating interpretive authority in one person. The behavioral scheme itself is diagnostic rather than neutral: evaluation counts only explicitly articulated judgments, so the low-quality group's floor-level CE may reflect silent evaluation the coding could not see, a limitation the paper states and one that matters for anyone tempted to read 0.00 as "never evaluated".
+Lesson-plan quality was scored with a [[rubrics|rubric]] developed for the research context and applied by two raters, yielding an average-measure intraclass correlation of 0.853, which the authors report as excellent inter-rater consistency while stating plainly that construct and criterion-related validity were not examined and that the rubric has not been validated on other samples, tasks, or settings. Coding of interaction behavior reached Cohen's Kappa of 0.86 after a 0.82 trial round, and disagreements were mediated by the lead researcher — a procedure that raises reliability while concentrating interpretive authority in one person. The behavioral scheme itself is diagnostic rather than neutral: evaluation counts only explicitly articulated judgments, so the low-quality group's floor-level CE may reflect silent evaluation the coding could not see, a limitation the paper states and one that matters for anyone tempted to read 0.00 as "never evaluated".
 
 ## What this means for practice
 

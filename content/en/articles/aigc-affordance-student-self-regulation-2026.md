@@ -1,4 +1,4 @@
----
+
 title: "AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation"
 type: article
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -33,7 +33,7 @@ Measurement quality was high by conventional standards — factor loadings 0.891
 ## What this means for practice
 
 - **Instructors.** Structure AIGC tasks so students direct the tool — deciding what to delegate and what to work through themselves — rather than receiving finished output, because perceived affordance worked through AIGC self-efficacy (beta = 0.583, p < 0.001), the strongest lever on motivation and self-regulation in this model.
-- **Instructors.** Embed prompt-and-reflect routines and verification rubrics that require students to justify and triangulate AI output, since self-efficacy (beta = 0.565 on motivation) and motivation (beta = 0.527 on self-regulation) carried the regulatory path while good feedback did not.
+- **Instructors.** Embed prompt-and-reflect routines and verification [[rubrics|rubrics]] that require students to justify and triangulate AI output, since self-efficacy (beta = 0.565 on motivation) and motivation (beta = 0.527 on self-regulation) carried the regulatory path while good feedback did not.
 - **Designers.** Stop treating well-received AI feedback as evidence of [[learning-gains|learning gains]]: feedback quality predicted satisfaction (beta = 0.712) but not self-efficacy (beta = 0.131, n.s.), and satisfaction did not predict self-regulated learning (beta = 0.032, n.s.), so build for confidence and motivation and evaluate against regulation measures instead of satisfaction scores.
 - **Designers.** Fix program-level conditions alongside tool-level design — project variety, industry alignment and enterprise involvement — because the instructor interviews show the tool operating inside weak program structures, and the serial path only activates with authentic institutional support.
 - **Researchers.** Treat the serial order as a chain to be tested rather than assumed, collecting repeated measures of affordance, self-efficacy, motivation and self-regulation so the sequence can be examined rather than inferred from a cross-sectional survey.

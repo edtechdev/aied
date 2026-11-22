@@ -1,4 +1,4 @@
----
+
 title: "Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design"
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-09-19T14:23:47-04:00"
@@ -38,7 +38,7 @@ In all human-in-the-loop modes, Teaching Faculty retain final approval — AI ou
 ## Key Findings
 
 - **More human involvement improves quality.** Full Co-Pilot Mode consistently achieves the highest quality, improving human-rated scores by **0.5–0.9 points** over Autonomous Mode, especially on Learning Objectives, Slide Scripts, and the overall Instructional Package.
-- **Cheapest backend matches the best.** Across the three GPT backends tested (gpt-4o, gpt-4o-mini, o1-preview), a Friedman test found **no significant quality differences** (Q = 0.473, p = 0.789) — making gpt-4o-mini the default on cost grounds (~\$0.15 vs \$2.50–\$15.00 per million tokens).
+- **Cheapest backend matches the best.** Across the three GPT backends tested (gpt-4o, gpt-4o-mini, o1-preview), the authors found no significant quality differences, making gpt-4o-mini the default on cost grounds (~\$0.15 vs \$2.50–\$15.00 per million tokens).
 - **Human and LLM reviewers diverge.** LLM reviewers assign tightly clustered, moderate scores (≈2.9–3.1), while human evaluators show a broader, more discriminating range — so the authors rely on human assessment as the primary quality signal.
 - **Role specialization matters.** In ablation studies, the single-agent baseline scored worst overall (Avg = 2.33); removing the Instructional Designer sharply hurt Learning Objectives and Syllabi clarity, removing Teaching Faculty degraded syllabi and slides, and removing the Teaching Assistant lowered structural component quality.
 - **All modes clear the quality bar.** Every material type averages above 3.0/5.0 across modes, with Learning Objectives and Slides rated highest and Slide Scripts slightly lower.
@@ -46,7 +46,7 @@ In all human-in-the-loop modes, Teaching Faculty retain final approval — AI ou
 
 ## Evaluation
 
-Evaluated across 5 university-level courses (Data Mining, Foundations of [[machine-learning|Machine Learning]], Data Processing at Scale, Introduction to AI, Topics in [[reinforcement-learning|Reinforcement Learning]]) using both human and automated reviewers, with an adapted **Quality Matters (QM) [[higher-ed|Higher Education]] Rubric** covering six outputs: Learning Objectives, Syllabi, Assessments, Final Slides, Slide Scripts, and the overall Instructional Package. Key findings:
+Evaluated across 5 university-level courses (Data Mining, Foundations of [[machine-learning|Machine Learning]], Data Processing at Scale, Introduction to AI, Topics in [[reinforcement-learning|Reinforcement Learning]]) using both human and automated reviewers, with an adapted **Quality Matters (QM) [[higher-ed|Higher Education]] [[rubrics|Rubric]]** covering six outputs: Learning Objectives, Syllabi, Assessments, Final Slides, Slide Scripts, and the overall Instructional Package. Key findings:
 
 - Produces high-quality materials that are reviewed and refined by teaching faculty prior to classroom use
 - Significantly reduces time required to prepare classroom-ready content

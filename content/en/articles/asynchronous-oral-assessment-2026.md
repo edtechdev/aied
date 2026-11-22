@@ -1,4 +1,4 @@
----
+
 title: "Asynchronous oral assessments: Enhancing integrity, engagement, and communication in the AI era"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-23T08:37:10-04:00"
@@ -13,7 +13,7 @@ confidence: high
 audience: [instructors, assessment designers]
 ---
 
-> **Synthesis:** Pentland, Lowenthal & Krier (2026) evaluate Asynchronous Oral [[assessment|Assessments]] (AOAs) — web-based assessments in which prompts are delivered just-in-time, students record brief, time-limited webcam responses that cannot be revisited, and instructors grade against embedded rubrics with auto-generated transcripts. Across two studies (intermediate accounting pilot; data analytics course), students scored higher on AOAs than on in-person multiple-choice exams (Study 2, significant; Study 1, positive but non-significant trends), with moderate cross-format correlations supporting convergent [[assessment-validity|validity]]. Students reported preparing differently for AOAs, using more active study strategies, and perceiving AOAs as professionally relevant and cognitively engaging. The paper positions AOAs as an administratively scalable complement to traditional [[assessment|assessment]] that preserves the authenticity and communication value of oral exams while addressing [[academic-integrity|integrity]] concerns in the [[generative-ai|AI]] era.
+> **Synthesis:** Pentland, Lowenthal & Krier (2026) evaluate Asynchronous Oral [[assessment|Assessments]] (AOAs) — web-based assessments in which prompts are delivered just-in-time, students record brief, time-limited webcam responses that cannot be revisited, and instructors grade against embedded [[rubrics|rubrics]] with auto-generated transcripts. Across two studies (intermediate accounting pilot; data analytics course), students scored higher on AOAs than on in-person multiple-choice exams (Study 2, significant; Study 1, positive but non-significant trends), with moderate cross-format correlations supporting convergent [[assessment-validity|validity]]. Students reported preparing differently for AOAs, using more active study strategies, and perceiving AOAs as professionally relevant and cognitively engaging. The paper positions AOAs as an administratively scalable complement to traditional [[assessment|assessment]] that preserves the authenticity and communication value of oral exams while addressing [[academic-integrity|integrity]] concerns in the [[generative-ai|AI]] era.
 
 ## Core Finding
 

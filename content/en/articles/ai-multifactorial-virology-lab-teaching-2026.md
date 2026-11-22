@@ -1,4 +1,4 @@
----
+
 title: "Reconstruction and practice of an AI-enhanced multifactorial teaching model for virology laboratory testing"
 created: "2026-11-19T10:13:00-05:00"
 updated: "2026-11-19T10:13:00-05:00"
@@ -60,7 +60,7 @@ Baseline equivalence was checked across seven variables and held: age (20.3 vs. 
 | Virtual practice pass rate | 29/30 (96.7%) | 22/30 (73.3%) | χ²(1) = 6.41, p = 0.011, Cramér's V = 0.33 |
 | "Frontier technology application" items | 28/30 (93.3%) | 20/30 (66.7%) | χ²(1) = 6.67, p = 0.010, Cramér's V = 0.33 |
 
-Two of these need care. The **emergency-plan rubric included an AI-integration component**, which makes it an intervention-aligned exploratory measure rather than an independent one — the authors flag this themselves. And the **virtual-simulation comparison is confounded by design**: only the experimental group received simulation training during the intervention, so the pass-rate gap measures exposure as much as it measures the model.
+Two of these need care. The **emergency-plan [[rubrics|rubric]] included an AI-integration component**, which makes it an intervention-aligned exploratory measure rather than an independent one — the authors flag this themselves. And the **virtual-simulation comparison is confounded by design**: only the experimental group received simulation training during the intervention, so the pass-rate gap measures exposure as much as it measures the model.
 
 The AI tool proficiency check was a manipulation check rather than an outcome: 27 of 30 experimental students (90%) reached the ≥ 16/20 threshold on a 10-item checklist (Cohen's κ = 0.76), against 20.0% baseline familiarity in the control class. No inferential between-group comparison was made for it.
 

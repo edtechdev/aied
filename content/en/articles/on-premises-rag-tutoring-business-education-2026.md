@@ -1,4 +1,4 @@
----
+
 title: "On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor"
 created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-05T10:00:00-04:00"
@@ -56,13 +56,13 @@ The intended educational value lies in supporting students' own effort. Conversa
 
 - **Instructors.** Review the prebuilt banks before release: 435 questions across 65 modules remain marked instructor-reviewed: false, and the structural audits establish reproducible behavior rather than suitable difficulty or plausible distractors.
 - **Administrators.** Treat on-premises control as an ongoing operational obligation, not a one-time purchase: the replica must receive index snapshots, and quiz banks, source ledgers, and cumulative review histories require separate deployment to both nodes.
-- **[[educational-technology-developers|Educational technology developers]].** Diagnose poor answers by layer: the five-course audit recorded 93 no-match turns, and a bounded facet expansion recovered eleven of 24 affected questions without lowering the relevance floor.
+- **Educational technology developers.** Diagnose poor answers by layer: the five-course audit recorded 93 no-match turns, and a bounded facet expansion recovered eleven of 24 affected questions without lowering the relevance floor.
 - **Researchers.** Pair faculty review on held-out dialogues with explicit measurement of false refusals and source-condition errors before treating a model change as an improvement; the present sets are not representative samples.
 
 ## Limitations
 
 - Latency measurements were predominantly serial and server-local and bypassed the IIS gateway; warm timings excluded a 25.417 s cold request observed for the larger candidate, and no concurrent-user load study was completed.
-- The twelve live probes exercise keyword presence and citation behavior rather than a complete [[pedagogy|pedagogical]] rubric, and no candidate cleared both the +30% speed gate and a faculty-reviewed quality gain.
+- The twelve live probes exercise keyword presence and citation behavior rather than a complete [[pedagogy|pedagogical]] [[rubrics|rubric]], and no candidate cleared both the +30% speed gate and a faculty-reviewed quality gain.
 - Faculty ratings for usefulness and factual support remain pending, instructor approval of all banks is incomplete, and no learning-outcome or controlled classroom study is reported.
 - The diagnostic sets are small and pre-selected: ten requests in the textbook audit and twelve fixed-evidence cases in the fidelity comparison cannot support a population error estimate.
 - Students already had access to Copilot, Gemini, [[generative-ai|ChatGPT]] and other tools, so the pilot's additional value over those services is not established.

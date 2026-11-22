@@ -1,4 +1,4 @@
----
+
 title: "When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI"
 created: "2026-09-25T09:40:00-04:00"
 updated: "2026-09-25T09:40:00-04:00"
@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** MagicSchool's [[k-12]] suite serves millions of [[teacher-role|teacher]] and student messages monthly, and its offline [[ai-ed-evaluation|AI ed evaluation]] layer scores output on four dimensions: student safety, tone and instructional role, [[pedagogy|pedagogical]] value, and structural quality. As the program matured, false positives dominated the flags that route scarce analyst attention. This paper reports a production case study of an [[llm|LLM]]-as-judge panel: a second judge re-examining 140,000 failures from 2.5 million evaluations over six months failed to corroborate 94% of them. Three levers — unanimous-fail panels, per-evaluator judge-model choice, and softened rubrics — were paired with a 2,482-case synthetic [[benchmark|benchmark]] and a 570-case egregious set. Across 21 deployed evaluators, median activation reached 0.04% (16 of 21 at or below 0.2%; 8 at 0.00%) while egregious capture held at 100%, and per-flag precision rose from 0.6% to 48.9%. For an offline product-decision queue, analyst attention — not user exposure — is the binding constraint.
+> **Synthesis:** MagicSchool's [[k-12]] suite serves millions of [[teacher-role|teacher]] and student messages monthly, and its offline [[ai-ed-evaluation|AI ed evaluation]] layer scores output on four dimensions: student safety, tone and instructional role, [[pedagogy|pedagogical]] value, and structural quality. As the program matured, false positives dominated the flags that route scarce analyst attention. This paper reports a production case study of an [[llm|LLM]]-as-judge panel: a second judge re-examining 140,000 failures from 2.5 million evaluations over six months failed to corroborate 94% of them. Three levers — unanimous-fail panels, per-evaluator judge-model choice, and softened [[rubrics|rubrics]] — were paired with a 2,482-case synthetic [[benchmark|benchmark]] and a 570-case egregious set. Across 21 deployed evaluators, median activation reached 0.04% (16 of 21 at or below 0.2%; 8 at 0.00%) while egregious capture held at 100%, and per-flag precision rose from 0.6% to 48.9%. For an offline product-decision queue, analyst attention — not user exposure — is the binding constraint.
 
 ## Key Findings
 1. EvalEye evaluates a K–12 suite along four dimensions — student safety, tone and instructional role, pedagogical value, structural output quality — offline after generation rather than blocking the user path.
@@ -52,7 +52,7 @@ For a mature LLM-as-judge suite the dominant failure mode is false positives: re
 ## What this means for practice
 
 - **Instructors.** Treat an AI quality or safety flag as a prompt to exercise [[evaluative-judgment|evaluative judgment]]: read the rationale and check whether the response actually exhibits the claimed failure.
-- **[[educational-technology-developers|Edtech developers]].** Track activation rate and severe-case capture as a pair; activation falls trivially when a rubric is loosened until it stops firing.
+- **Educational technology developers.** Track activation rate and severe-case capture as a pair; activation falls trivially when a rubric is loosened until it stops firing.
 - **Assessment designers.** Ground-truth a sample of flags before trusting aggregate rates; per-flag precision here was 0.6% before calibration.
 - **Product and safety leaders.** Budget analyst attention as the binding resource and re-audit after any vendor model upgrade; one swap dropped a Factual accuracy pass rate from 97% to 11% overnight.
 

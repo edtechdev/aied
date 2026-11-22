@@ -1,4 +1,4 @@
----
+
 title: Knowledge Distillation for Automated AI Tutor Evaluation
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-20T03:45:11-04:00"
@@ -26,7 +26,7 @@ Directly advances [[intelligent-tutoring|intelligent tutoring]] evaluation and [
 
 ## Method: Distillation of Pedagogical Judgment
 
-The key idea is that pedagogical evaluation — judging whether a tutor correctly identifies a mistake, locates it, guides the learner, and offers actionable next steps — is itself a specialized NLP task with scarce expert-labeled data. FATE closes that gap by **distilling supervision from a frontier LLM**, treating the stronger model's judgments as soft targets for the smaller 8B evaluator. The resulting model can then score tutor responses against the four-track rubric at scale, making continuous, expert-aligned quality measurement of AI tutors practical for real deployments.
+The key idea is that pedagogical evaluation — judging whether a tutor correctly identifies a mistake, locates it, guides the learner, and offers actionable next steps — is itself a specialized NLP task with scarce expert-labeled data. FATE closes that gap by **distilling supervision from a frontier LLM**, treating the stronger model's judgments as soft targets for the smaller 8B evaluator. The resulting model can then score tutor responses against the four-track [[rubrics|rubric]] at scale, making continuous, expert-aligned quality measurement of AI tutors practical for real deployments.
 
 ## What this means for practice
 

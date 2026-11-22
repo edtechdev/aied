@@ -1,4 +1,4 @@
----
+
 title: "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models"
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from [[pedagogy|pedagogical]] guidance in [[llm|LLM]] tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical [[scaffolding|scaffolding]] with simply giving correct answers.
+> **Synthesis:** Pre-registered study auditing whether general-purpose helpfulness [[rubrics|rubrics]] can distinguish direct answer-giving from [[pedagogy|pedagogical]] guidance in [[llm|LLM]] tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical [[scaffolding|scaffolding]] with simply giving correct answers.
 
 ## Key Findings
 

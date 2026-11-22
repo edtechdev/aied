@@ -1,4 +1,4 @@
----
+
 title: "Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark"
 created: "2026-09-24T03:04:26-04:00"
 updated: "2026-09-24T03:04:26-04:00"
@@ -30,7 +30,7 @@ page_kind: [evaluation]
 - **Pedagogically filtered tuning lifts the pedagogical dimensions.** Pedagogy-R1-7B beats its instruction-tuned baseline by 6.49 points in pedagogical knowledge, 8.75 in essay scoring, and 31.34 in decision-making.
 - **Subject knowledge is the trade-off.** The same model falls 2.49 points in subject knowledge, and both tuned sizes sit near 24 to 27 percent against 45.96 for o4-mini.
 - **Reasoning models still trail knowledge tracing specialists.** DKT and AKT reach 77.55 and 79.31 AUC, while every language model tested lands between roughly 49 and 65.
-- **CoP changes reasoning style, not just correctness.** Self-questioning and planning codes rise and rubric-heavy [[reflection|reflection]] falls, while one CoP-distilled variant gains 33.11 accuracy points in knowledge tracing.
+- **CoP changes reasoning style, not just correctness.** Self-questioning and planning codes rise and [[rubrics|rubric]]-heavy [[reflection|reflection]] falls, while one CoP-distilled variant gains 33.11 accuracy points in knowledge tracing.
 - **Without CoP, [[metacognition|metacognition]] is absent.** No self-questioning or meta-evaluation codes appeared across any of the 42 baseline traces, and both surfaced only sparsely once pedagogical prompting was applied.
 - **Most reasoning tokens were filler.** About 65 percent were coded as noise, mainly repeated item stems and generic remarks, and underthinking ran high in essay scoring and pedagogy.
 
@@ -48,10 +48,10 @@ Pedagogy-R1-7B posted the best results in decision-making at 54.76 percent, peda
 
 ## What this means for practice
 
-- **Treat pedagogical alignment as a training target, not a prompt trick.** Most of the reported gain came from filtering training data, not scaling.
-- **Read small tuned models as viable for narrow teaching tasks.** The decision-making and feedback gains arrive at 1.5B to 7B parameters, which matters for cost.
-- **Do not read reasoning traces as explanations.** Filler loops occupied roughly two thirds of thought tokens, so trace length is not evidence of judgment.
-- **Keep knowledge tracing with specialized models.** LLM next-token prediction remained far behind DKT and AKT, with no reason to displace them.
+- **Educational technology developers.** Treat pedagogical alignment as a training target, not a prompt trick. Most of the reported gain came from filtering training data, not scaling.
+- **Instructors.** Read small tuned models as viable for narrow teaching tasks. The decision-making and feedback gains arrive at 1.5B to 7B parameters, which matters for cost.
+- **Researchers.** Do not read reasoning traces as explanations. Filler loops occupied roughly two thirds of thought tokens, so trace length is not evidence of judgment.
+- **Educational technology developers.** Keep knowledge tracing with specialized models. LLM next-token prediction remained far behind DKT and AKT, with no reason to displace them.
 
 ## Limitations
 

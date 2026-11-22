@@ -1,4 +1,4 @@
----
+
 title: "Examining AI interaction profiles in generative AI supported fraction division problem posing"
 published: "2026-11-04"
 created: "2026-11-05T09:05:00-05:00"
@@ -25,7 +25,7 @@ assessment: [learning-gains]
 methods: [mixed-methods-research, qualitative-research]
 ---
 
-> **Synthesis:** Incikabi asked 57 pre-service [[math-education|mathematics]] teachers to pose a fraction-division problem unaided and then a second one with Gemini, and scored both against a rubric that separates general-mathematical quality from content-specific meanings of fraction division. AI-supported problems scored higher overall (6.65 against 5.95), but the gain was concentrated where a model can help most: context and language improved, while problem type and solvability did not move because they had almost no room to. Coding the interaction logs produced three profiles — AI-Reliant, AI-Collaborative and AI-Assistant — and the differences between them were not statistically reliable at this sample size. The paper's value is the scoring instrument and the honest negative result, not a claim that AI improves [[problem-solving|problem posing]].
+> **Synthesis:** Incikabi asked 57 pre-service [[math-education|mathematics]] teachers to pose a fraction-division problem unaided and then a second one with Gemini, and scored both against a [[rubrics|rubric]] that separates general-mathematical quality from content-specific meanings of fraction division. AI-supported problems scored higher overall (6.65 against 5.95), but the gain was concentrated where a model can help most: context and language improved, while problem type and solvability did not move because they had almost no room to. Coding the interaction logs produced three profiles — AI-Reliant, AI-Collaborative and AI-Assistant — and the differences between them were not statistically reliable at this sample size. The paper's value is the scoring instrument and the honest negative result, not a claim that AI improves [[problem-solving|problem posing]].
 
 ## Key Findings
 
@@ -58,7 +58,7 @@ Everything also rests on one numerical structure, 4/5 divided by 2/3, chosen for
 
 - **Score the mathematics, not the wording.** A model will improve context and phrasing on request; check whether the posed problem invokes a specific meaning of the operation, because that is the part it does not fix for you.
 - **Do not read a second attempt as an AI effect.** Without a no-AI comparison group, practice and familiarity explain part of any gain, so build a control condition into your own classroom evaluation.
-- **Watch for ceiling effects before crediting an intervention.** Two of four general criteria were already at 0.98 and 0.89 out of 1 at baseline, leaving no room to detect change.
+- **Instructors.** Watch for ceiling effects before crediting an intervention. Two of four general criteria were already at 0.98 and 0.89 out of 1 at baseline, leaving no room to detect change.
 - **Faculty developers.** The three profiles are a usable discussion prompt for methods courses even though the study cannot rank them: ask pre-service teachers which profile their own last AI session matched.
 - **Curriculum designers.** If the goal is conceptual meaning-making rather than production of polished items, the tool needs prompts that force the meaning decision rather than the wording.
 

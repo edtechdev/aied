@@ -1,4 +1,4 @@
----
+
 title: "An AI Factory for Technology Education: An Agentic Pipeline with Closed Loop Audience Feedback"
 created: "2026-10-26T09:30:00-04:00"
 updated: "2026-10-26T09:30:00-04:00"
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Written guidance about technology tools ages within months, and most [[generative-ai|generative AI]] content systems still produce a document once and never check it against what an audience actually does with it. This paper describes an [[agentic-ai|agentic pipeline]], organized as a typed workflow graph, that treats instructional content production as a manufacturing process with explicit checkpoints: deterministic scripts, model steps bound to a fixed rubric, open-ended agent phases, and human approval gates. Production is split into a demand layer built from video and community sources and an authority layer built from official documentation, so that every published claim must trace back to a verified source. Over five months of continuous operation the deployed system published 26 documented guides at roughly 1.5 hours of operator time per week, and its [[feedback|feedback cycle]] turned four measurable engagement effects into binding rules for later runs, including a hook style that outperformed baseline by a factor of 1.83 in its first analysis window.
+> **Synthesis:** Written guidance about technology tools ages within months, and most [[generative-ai|generative AI]] content systems still produce a document once and never check it against what an audience actually does with it. This paper describes an [[agentic-ai|agentic pipeline]], organized as a typed workflow graph, that treats instructional content production as a manufacturing process with explicit checkpoints: deterministic scripts, model steps bound to a fixed [[rubrics|rubric]], open-ended agent phases, and human approval gates. Production is split into a demand layer built from video and community sources and an authority layer built from official documentation, so that every published claim must trace back to a verified source. Over five months of continuous operation the deployed system published 26 documented guides at roughly 1.5 hours of operator time per week, and its [[feedback|feedback cycle]] turned four measurable engagement effects into binding rules for later runs, including a hook style that outperformed baseline by a factor of 1.83 in its first analysis window.
 
 ## Key Findings
 

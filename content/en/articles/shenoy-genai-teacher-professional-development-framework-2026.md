@@ -1,4 +1,4 @@
----
+
 title: "A critical review and actionable framework for integrating generative AI into teacher professional development"
 created: "2026-11-21T13:00:00-05:00"
 updated: "2026-11-21T13:00:00-05:00"
@@ -43,7 +43,7 @@ verified: [citation, numbers, links, quotes]
 4. **TPACK extensions retain an assumption GenAI breaks** — stable, deterministic tools under teacher control — whereas outputs are probabilistic, variable and capable of confident error.
 5. **Only a minority taught prompt engineering explicitly,** about one-third guided critical evaluation, and most relied on self-report rather than performance-based assessment.
 6. **Over-reliance is designable:** require independent judgment before consulting AI, teach critical evaluation explicitly, and add structured peer observation and mentorship.
-7. **The framework turns description into testable theory** through six falsifiable propositions and observable indicators such as prompt complexity scores, seeded-error detection rates and lesson-plan rubrics.
+7. **The framework turns description into testable theory** through six falsifiable propositions and observable indicators such as prompt complexity scores, seeded-error detection rates and lesson-plan [[rubrics|rubrics]].
 
 ## The corpus and how it was synthesized
 

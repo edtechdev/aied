@@ -1,4 +1,4 @@
----
+
 title: Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-23T08:37:10-04:00"
@@ -33,7 +33,7 @@ The authors position the CS1-CR course against two related lines of prior work. 
 
 ## Design of CS1-CR
 
-In the Fall 2025 CS1 course (96 students), every coding assignment submission was followed within 48 hours by a mandatory 15-minute oral code review interview with a trained TA or the instructor. The interview probes the student's understanding of their program and the rationale behind implementation decisions, then requires them to run a set of integration test cases. Grading shifted so the rubric score counted for only 30% of each assignment, with the remaining 70% coming from the code review session; failing to schedule a session within the window resulted in a zero on the assignment. This [[formative-assessment|formative]] accountability structure incentivizes an active attempt at understanding submitted code regardless of its origin.
+In the Fall 2025 CS1 course (96 students), every coding assignment submission was followed within 48 hours by a mandatory 15-minute oral code review interview with a trained TA or the instructor. The interview probes the student's understanding of their program and the rationale behind implementation decisions, then requires them to run a set of integration test cases. Grading shifted so the [[rubrics|rubric]] score counted for only 30% of each assignment, with the remaining 70% coming from the code review session; failing to schedule a session within the window resulted in a zero on the assignment. This [[formative-assessment|formative]] accountability structure incentivizes an active attempt at understanding submitted code regardless of its origin.
 
 The design builds directly on evidence that students who [[help-seeking|over-rely]] on [[generative-ai|AI]] for code generation show poor learning gains, while those who engage [[metacognition|conceptually]] maintain or improve outcomes. By requiring students to [[learning-by-teaching|explain]] their code to a trained peer, CS1-CR converts the [[cognitive-offloading|potential cognitive offloading]] of AI use into a [[self-regulated-learning|self-regulated]] practice opportunity that deepens rather than bypasses understanding.
 

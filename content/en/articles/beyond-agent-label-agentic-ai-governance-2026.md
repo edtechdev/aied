@@ -1,4 +1,4 @@
----
+
 title: "Beyond the agent label: Evidence maturity, human monitoring, and governance of agentic AI in higher education"
 created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-19T12:17:22-04:00"
@@ -25,7 +25,7 @@ The review's central claim is that [[agency|agency]] is not a property conferred
 
 The review insists educational evidence be separated by outcome level, because a favorable result at one level does not license a claim at another:
 
-- **Artifact outcomes** — answer accuracy, rubric alignment, feedback style. Necessary but *not sufficient* evidence of learning benefit.
+- **Artifact outcomes** — answer accuracy, [[rubrics|rubric]] alignment, feedback style. Necessary but *not sufficient* evidence of learning benefit.
 - **Learner outcomes** — knowledge, transfer, [[metacognition|metacognition]], [[motivation|motivation]], cognitive demand.
 - **Educator outcomes** — time savings, workload redistribution, professional judgment, adoption.
 - **Institutional outcomes** — admissions, progression, resource assignment, compliance, cost.

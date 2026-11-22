@@ -1,4 +1,4 @@
----
+
 title: "Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching"
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
@@ -20,7 +20,7 @@ methods: [qualitative-research]
 
 ## Key Findings
 
-- Researchers built a customized [[llm-training-and-fine-tuning|AI-based role-play simulation]] using the OpenAI custom-GPT feature, [[prompt-engineering|prompting]] it to emulate a middle schooler struggling with ratio concepts; a refined prompt (Prompt B) that specified three literature-grounded misconceptions — confusing additive and multiplicative reasoning, lacking [[problem-solving|covariational thinking]], and over-relying on a single strategy — far more reliably elicited conceptual errors than a broad algebra prompt (misconception presence 0.98 vs. 0.40; χ²(1, N=200)=78.64, p<.001).
+- Researchers built a customized [[llm-training-and-fine-tuning|AI-based role-play simulation]] using the OpenAI custom-GPT feature, [[prompt-engineering|prompting]] it to emulate a middle schooler struggling with ratio concepts; a refined prompt (Prompt B) that specified three literature-grounded misconceptions — confusing additive and multiplicative reasoning, lacking [[problem-solving|covariational thinking]], and over-relying on a single strategy — far more reliably elicited conceptual errors than a broad algebra prompt (misconception presence 0.98 versus 0.40).
 - Five preservice [[teacher-education|secondary mathematics teachers]] interacted individually with Student GPT on the Orange Juice Problem in a methods course, diagnosing the simulated student's misconceptions and guiding it toward correct ratio solutions.
 - Using an inductive [[qualitative-research|qualitative content analysis]] of the chat histories, the authors developed and applied an original Affective, Communicative, Technical (ACT) coding framework for systematically assessing the chatbot's [[teacher-role|role-play]] simulation behaviors, strengths, and weaknesses.
 - In the [[student-ai-interaction|affective domain]], Student GPT reliably used positive, accepting, and encouraging language and stayed on task, but also voiced negative attitudes toward mathematics ("Math can be tricky") that preservice teachers sometimes echoed, raising concerns about impacts on their mathematical identity.
@@ -34,7 +34,7 @@ methods: [qualitative-research]
 - **Instructors.** Compensate for the simulated student's unrealistic learning curve: Student GPT grasped new strategies in a single turn and usually followed instructions without asking follow-up questions, so add pacing constraints to the role-play prompt or debrief the difference with preservice teachers.
 - **Instructors.** Debrief the moments when the bot slips roles. It mixed struggling-student, competent-student, and teacher voices and used formal, compound-complex language, which reduced the authenticity of the exchange; having preservice teachers flag those turns is itself a useful exercise.
 - **Instructors.** Watch for mirrored math attitudes: Student GPT voiced negative attitudes toward mathematics ("Math can be tricky") that preservice teachers sometimes echoed, which the authors flag as a concern for mathematical identity.
-- **Designers.** Use the ACT framework (Affective, Communicative, Technical) as a reusable rubric for evaluating any [[simulation|role-play simulation]] against clarity, relevance, error types, knowledge, and consistency before scaling it in a methods course.
+- **Designers.** Use the ACT framework (Affective, Communicative, Technical) as a reusable [[rubrics|rubric]] for evaluating any [[simulation|role-play simulation]] against clarity, relevance, error types, knowledge, and consistency before scaling it in a methods course.
 
 ## Limitations
 

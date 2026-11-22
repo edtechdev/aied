@@ -1,4 +1,4 @@
----
+
 title: "A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era"
 created: "2026-08-17T09:40:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
@@ -18,7 +18,7 @@ confidence: high
 ## Key Findings
 
 1. The WRL framework adapts the Technology Readiness Level (TRL) scale into nine behaviorally anchored competency stages grouped into three bands — awareness (WRL 1–3), applied practice (WRL 4–6), and autonomous leadership (WRL 7–9) — with stackable-credential articulation points at WRL 3, 5, and 7.
-2. Readiness is scored across four competency pillars (digital & AI literacy, cyber-physical systems fluency, human-machine collaboration, and data-driven decision making) under a "no-thin-pillar" rule that blocks certification at a stage if any single pillar falls below the rubric floor, even when the composite score looks strong.
+2. Readiness is scored across four competency pillars (digital & AI literacy, cyber-physical systems fluency, human-machine collaboration, and data-driven decision making) under a "no-thin-pillar" rule that blocks certification at a stage if any single pillar falls below the [[rubrics|rubric]] floor, even when the composite score looks strong.
 3. Across four in-depth case studies drawn from 89 sponsored capstone projects, cohort workforce-readiness indices ranged from 5.2 to 6.4, and the no-thin-pillar rule repeatedly surfaced cyber-physical (P2) and data-driven-decision (P4) gaps concealed behind otherwise strong [[learning-analytics|analytics]] profiles — binding certification in one case.
 4. Advancement to the highest readiness stages (the WRL 6→7 transition) was gated by industry-embedded experience (co-ops and Manufacturing Extension Partnership projects), not by additional coursework.
 5. The four pillars map directly onto the ABET student outcomes, so a WRL transcript doubles as accreditation evidence and the cohort-level index (WRI) supports ABET continuous-improvement reporting.

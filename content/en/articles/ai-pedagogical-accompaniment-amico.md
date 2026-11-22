@@ -1,4 +1,4 @@
----
+
 title: "Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -41,7 +41,7 @@ Its distinctive feature is a dual-mode configuration. AmicoMio orients toward te
 
 ## From Design Principles to Observable Indicators
 
-A critical gap the paper addresses is the distance between normative principles and empirical evaluation. The framework translates five design principles — transparency of system identity and limits, scaffolding toward human contact, maieutic questioning, prevention of dependency dynamics, and data minimization — into observable, measurable indicators. These indicators are treated as signals supporting professional judgment, not exhaustive KPIs, deliberately combining light [[quantitative-research|quantitative]] traces with [[qualitative-research|qualitative]] rubrics and facilitator observation. Sources include interaction logs, structured rubrics, pre/post [[self-report-measures|self-report measures]], and post-interaction questionnaires. This principle-to-indicator mapping functions as an [[ai-ed-evaluation|accountability device]], connecting to [[educational-measurement|educational measurement]] and making the intended pedagogical function testable through concrete traces. Transparency regarding system identity avoids anthropomorphic misrepresentation and builds [[trust|trust]]; data minimization and purpose limitation align with [[privacy|privacy]] concerns in educational deployment.
+A critical gap the paper addresses is the distance between normative principles and empirical evaluation. The framework translates five design principles — transparency of system identity and limits, scaffolding toward human contact, maieutic questioning, prevention of dependency dynamics, and data minimization — into observable, measurable indicators. These indicators are treated as signals supporting professional judgment, not exhaustive KPIs, deliberately combining light [[quantitative-research|quantitative]] traces with [[qualitative-research|qualitative]] [[rubrics|rubrics]] and facilitator observation. Sources include interaction logs, structured rubrics, pre/post [[self-report-measures|self-report measures]], and post-interaction questionnaires. This principle-to-indicator mapping functions as an [[ai-ed-evaluation|accountability device]], connecting to [[educational-measurement|educational measurement]] and making the intended pedagogical function testable through concrete traces. Transparency regarding system identity avoids anthropomorphic misrepresentation and builds [[trust|trust]]; data minimization and purpose limitation align with [[privacy|privacy]] concerns in educational deployment.
 
 ## Methods and the Italy–China Pilot
 
@@ -54,10 +54,10 @@ Preliminary findings are reported descriptively and interpretatively, without cl
 ## What this means for practice
 
 - **Instructors.** Adopt human-in-command as a design requirement rather than a slogan: adults retain the educational decisions, relational boundaries, and ethical oversight while the AI supplies only temporary mediation.
-- Keep the tool's role bounded and directional: cap session duration and frequency, and design each interaction to end in a next step with a teacher, peer, or community instead of more conversation with the AI.
-- Separate task support from reflective support in the interface. The two modes were valued for different purposes — structured guidance for technical clarity, maieutic questioning for reflection and motivational support — and learners treated them as complementary.
-- Evaluate by whether learners transition to human contact and act, not by engagement with the AI: the framework's indicators are transition-to-human prompts, micro-action completion rates, and pre/post communicative autonomy.
-- Instrument the safeguards before scaling: flag repeated or exclusive use patterns, solicit no sensitive data, and prompt human contact when usage thresholds are reached.
+- **Instructors.** Keep the tool's role bounded and directional: cap session duration and frequency, and design each interaction to end in a next step with a teacher, peer, or community instead of more conversation with the AI.
+- **Educational technology developers.** Separate task support from reflective support in the interface: the two modes were valued for different purposes — structured guidance for technical clarity, maieutic questioning for reflection and motivational support — and learners treated them as complementary.
+- **Program leaders.** Evaluate by whether learners transition to human contact and act, not by engagement with the AI: the framework's indicators are transition-to-human prompts, micro-action completion rates, and pre/post communicative autonomy.
+- **Administrators.** Instrument the safeguards before scaling: flag repeated or exclusive use patterns, solicit no sensitive data, and prompt human contact when usage thresholds are reached.
 
 ## Limitations
 

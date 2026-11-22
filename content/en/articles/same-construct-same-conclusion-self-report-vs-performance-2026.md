@@ -1,4 +1,4 @@
----
+
 title: "Same construct, same conclusion? A construct-observability perspective on self-report and non-self-report indicators in AI education research: a two-phase systematic review"
 created: "2026-10-19T16:24:56-04:00"
 updated: "2026-10-19T16:24:56-04:00"
@@ -50,7 +50,7 @@ Three things prevent the obvious reading that the framework failed. First, the c
 ## What this means for practice
 
 - **Instructors.** Label your outcome honestly before you measure it: if the evidence is students' judgment of their own change, report it as perceived learning rather than as demonstrated competence, and if you need a competence claim, pair it with a task, artifact or trace aligned to that specific claim.
-- **Researchers.** Do not treat a significant self-report result and a non-significant performance result as a contradiction to be explained away by duration or sample; report what each instrument measured, and give the [[assessment-validity|validity]] argument for the non-self-report measure too, since a rubric, an automatic score and a trace all carry assumptions.
+- **Researchers.** Do not treat a significant self-report result and a non-significant performance result as a contradiction to be explained away by duration or sample; report what each instrument measured, and give the [[assessment-validity|validity]] argument for the non-self-report measure too, since a [[rubrics|rubric]], an automatic score and a trace all carry assumptions.
 - **Faculty developers.** Use the three dimensions as design questions when shaping an AI assignment: ask whether the work leaves an inspectable product, whether the student gets a quality signal while working, and whether a criterion is available — the review presents them as prompts for reasoning, not as a validated scoring rule.
 - **Platform developers.** Where a product reports higher-order gains from student [[self-assessment|self-assessment]], add a directly aligned calibration task, an independently rated artifact or a validated process indicator before the claim is used in marketing.
 

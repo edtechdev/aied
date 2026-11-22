@@ -1,4 +1,4 @@
----
+
 title: "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments"
 created: "2026-06-17T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
@@ -39,7 +39,7 @@ Scaffolding describes how a tutor calibrates support to the learner's current st
 - Both metrics are scored in a single LLM-judge prompt call using GPT-5-mini, chosen on cost grounds; the authors acknowledge the single call may influence the output score and leave a split-prompt ablation to future work.
 - The authors describe metric validation as only an initial investigation: two human raters reviewed 282 chats stratified by score, agreement with the judge was moderate, and most disagreements fell on chats binned at 0.5 in the benchmark datasets.
 - Face-to-face human tutoring was deliberately excluded, so the analysis covers only chat-based student–tutor exchanges and cannot address the visual cues, intonation, or gesture that in-person tutoring carries.
-- The scaffolding rubric is derived from the AI tutor benchmarks and defines scaffolding over the trajectory from impasse to a correct solution, so turns that acknowledge a student's correct answer and restate it are scored as low scaffolding even though they appear regularly in real-world deployments.
+- The scaffolding [[rubrics|rubric]] is derived from the AI tutor benchmarks and defines scaffolding over the trajectory from impasse to a correct solution, so turns that acknowledge a student's correct answer and restate it are scored as low scaffolding even though they appear regularly in real-world deployments.
 
 ## Citation
 

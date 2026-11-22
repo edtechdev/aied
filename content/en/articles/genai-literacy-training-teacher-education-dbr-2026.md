@@ -1,4 +1,4 @@
----
+
 title: "Development and evaluation of artificial intelligence literacy training for teacher education students"
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:43:18-04:00"
@@ -26,7 +26,7 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Faculty developers.** Build GenAI literacy training around the study's four design principles: critical [[reflection|reflection]] on teachers' roles and ethics, active and [[experiential-learning|experiential learning]], [[scaffolding|scaffolding]] of [[self-regulated-learning|self-regulated learning]], and authentic [[formative-assessment|formative assessment]].
-- **Faculty developers.** Pair self-efficacy scales with artifact-based rubrics rather than relying on self-report. The 29 teacher education students reported moderate to high AI pedagogy and assessment competence, yet their [[tpack|TPACK]]-rubric lesson plans scored lowest on creative GenAI application (M = 1.64 for TPK6 and TPCK7).
+- **Faculty developers.** Pair self-efficacy scales with artifact-based [[rubrics|rubrics]] rather than relying on self-report. The 29 teacher education students reported moderate to high AI pedagogy and assessment competence, yet their [[tpack|TPACK]]-rubric lesson plans scored lowest on creative GenAI application (M = 1.64 for TPK6 and TPCK7).
 - **Instructors.** Assign [[discipline-specific-aied|discipline-specific]], [[authentic-assessment|authentic tasks]] — lesson design, assessment planning, material creation — so students practice [[critical-thinking|critical evaluation]] of GenAI outputs where they will use them; given hands-on time, the cohort explored an average of 2.67 tools.
 - **Instructors.** Scaffold self-regulation deliberately with [[metacognition|metacognitive]] checklists, guided [[prompt-engineering|prompting strategies]], and output-evaluation rubrics to counter over-reliance, and model those practices yourself.
 - **Administrators.** Treat AI competency as an ongoing, cross-disciplinary [[curriculum-design|curriculum]] effort rather than one-time certification: a single short workshop raised overall self-efficacy (median 3.79 to 4.42 on a 1–5 scale) but not AI pedagogy or assessment competence.

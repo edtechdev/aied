@@ -1,4 +1,4 @@
----
+
 title: "Black Box Assessment: Rethinking Integrity and Learning for a Time of Generative AI"
 created: "2026-11-12T15:05:00-05:00"
 updated: "2026-11-12T15:05:00-05:00"
@@ -27,7 +27,7 @@ ai_assist:
 verified: [citation]
 ---
 
-> **Synthesis:** Winstone, Gravett and Elkington treat the [[generative-ai|GenAI]] assessment problem as a wicked problem in Rittel and Webber's sense — no correct solution, no stable problem space, trade-offs everywhere — and argue that the sector's dominant responses are *discursive* rather than *structural*: traffic-light systems, declarations and permitted-use rules tell students what is allowed without changing the task. Their alternative, Black Box Assessment, keeps the task and changes what is assessed, requiring students to submit "windows" into the process — drafts, logs, reflections, records of GenAI use — and rewriting learning outcomes and rubrics so that error, revision and cognitive change earn credit. The paper is a conceptual blueprint: it reports no data, no pilot and no outcome, and it says so. Its contribution is the design argument and the four principles behind it.
+> **Synthesis:** Winstone, Gravett and Elkington treat the [[generative-ai|GenAI]] assessment problem as a wicked problem in Rittel and Webber's sense — no correct solution, no stable problem space, trade-offs everywhere — and argue that the sector's dominant responses are *discursive* rather than *structural*: traffic-light systems, declarations and permitted-use rules tell students what is allowed without changing the task. Their alternative, Black Box Assessment, keeps the task and changes what is assessed, requiring students to submit "windows" into the process — drafts, logs, reflections, records of GenAI use — and rewriting learning outcomes and [[rubrics|rubrics]] so that error, revision and cognitive change earn credit. The paper is a conceptual blueprint: it reports no data, no pilot and no outcome, and it says so. Its contribution is the design argument and the four principles behind it.
 
 ## Why the usual answers do not hold
 
@@ -65,10 +65,10 @@ They also address the workload objection with a concrete arithmetic: a 2,500-wor
 
 ## What this means for practice
 
-- **Pick one high-stakes task and add a process outcome.** Keep the product, add a learning outcome about how the work developed, and write the rubric so that evidence of iteration and cognitive change earns credit at each level.
-- **Ask for two or three windows, not a portfolio.** Combine something the work leaves behind (draft history, commit log, lab notebook) with a short reflection tied to a specific decision, and drop the essay length to keep marking flat.
-- **Write reflection prompts that cannot be answered generically.** "What did you believe at the start that you later changed your mind about, and why?" is harder to fabricate than "reflect on your process".
-- **Scaffold the unfamiliarity.** Students socialised into polished-output assessment need exemplars, assessment dialogue and formative feedback before process evidence is a fair ask.
+- **Instructors.** Pick one high-stakes task and add a process outcome: keep the product, add a learning outcome about how the work developed, and write the rubric so that evidence of iteration and cognitive change earns credit at each level.
+- **Instructors.** Ask for two or three windows, not a portfolio: combine something the work leaves behind (draft history, commit log, lab notebook) with a short reflection tied to a specific decision, and drop the essay length to keep marking flat.
+- **Instructors.** Write reflection prompts that cannot be answered generically: "What did you believe at the start that you later changed your mind about, and why?" is harder to fabricate than "reflect on your process".
+- **Instructors.** Scaffold the unfamiliarity: students socialised into polished-output assessment need exemplars, assessment dialogue and formative feedback before process evidence is a fair ask.
 
 ## Limitations
 

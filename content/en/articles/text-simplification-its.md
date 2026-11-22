@@ -1,4 +1,4 @@
----
+
 title: "MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator"
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-20T08:51:47-04:00"
@@ -19,7 +19,7 @@ page_kind: [evaluation]
 ## Key Findings
 1. **Parallel comparison workflow:** MuTSE executes `P` prompts × `M` models concurrently (bounded by the slowest model's latency, ~O(max(tᵢ))) and presents all outputs in a unified, side-by-side, toggleable matrix — removing the need to run or orchestrate inference manually.
 2. **Tiered semantic alignment engine:** A 3-tier cascade (multilingual SBERT embeddings → TF-IDF with character n-grams → normalized positional fallback) plus a user-adjustable linearity bias (λ, 0–2, default 0.5) maps source sentences to simplified counterparts, suppressing false-positive alignments and enabling CPU-only deployment.
-3. **Evaluation-agnostic human annotation:** No fixed rubric — evaluators build custom rating scales (binary through continuous 100-point) with relative weights, normalized into a weighted performance percentage, sidestepping the field's contested Likert-scale conventions.
+3. **Evaluation-agnostic human annotation:** No fixed [[rubrics|rubric]] — evaluators build custom rating scales (binary through continuous 100-point) with relative weights, normalized into a weighted performance percentage, sidestepping the field's contested Likert-scale conventions.
 4. **NLP-ready data export:** Every session persists locally and exports as standardized JSON/CSV, directly supporting fine-tuning, reward-[[llm-training-and-fine-tuning|model training]], and exploratory data analysis.
 
 ## The Challenge of Text Simplification in Education

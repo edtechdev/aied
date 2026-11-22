@@ -1,4 +1,4 @@
----
+
 title: AI Misconception and Adoption Among Indonesian K-12 Teachers
 created: "2026-10-20T09:20:00-04:00"
 updated: "2026-10-20T09:20:00-04:00"
@@ -45,7 +45,7 @@ Asked to define AI, 55.4% of teachers described a technology that mimics human i
 
 ## How Teachers and Students Use AI
 
-AI was reported across the whole teaching pipeline: 32.3% of teachers used it to generate materials such as slides and posters, 26.9% for grading or generating rubrics and answer sheets, 21.5% for information curation and administrative work, and 19.2% for planning and design such as teaching modules and learning steps. Teachers' picture of student use was far more lopsided. The single most common perception was direct answering for homework and assignments (44.6%), followed by information retrieval (19.2%) and content generation (16.2%); only 10.8% saw tutor-like support, and 9.2% reported no use or no knowledge at all. Most respondents viewed answer-seeking unfavorably, yet that judgment did not reduce their broader support for student AI use. The authors note that the familiarity is firmly professional: even when asked about AI in general, teachers reached first for academic and administrative examples, and the tool they described most often was a [[conversational-ai|conversational AI]] assistant.
+AI was reported across the whole teaching pipeline: 32.3% of teachers used it to generate materials such as slides and posters, 26.9% for grading or generating [[rubrics|rubrics]] and answer sheets, 21.5% for information curation and administrative work, and 19.2% for planning and design such as teaching modules and learning steps. Teachers' picture of student use was far more lopsided. The single most common perception was direct answering for homework and assignments (44.6%), followed by information retrieval (19.2%) and content generation (16.2%); only 10.8% saw tutor-like support, and 9.2% reported no use or no knowledge at all. Most respondents viewed answer-seeking unfavorably, yet that judgment did not reduce their broader support for student AI use. The authors note that the familiarity is firmly professional: even when asked about AI in general, teachers reached first for academic and administrative examples, and the tool they described most often was a [[conversational-ai|conversational AI]] assistant.
 
 ## Support, Risk, and Pedagogical Boundaries
 

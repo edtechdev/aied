@@ -1,4 +1,4 @@
----
+
 title: "Artificial intelligence and feedback in university education: effectiveness and student perceptions"
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -19,7 +19,7 @@ page_kind: [evaluation]
 
 ## Method (key parameters)
 - **Design:** 47 student groups (N = 238; 146 attending, 92 non-attending) randomly assigned to one of three feedback conditions — DeepSeek R1 (16 groups), expert human teacher (16), GPT-o4-mini (15). Unit of analysis = group (4–5 students each) to preserve independence.
-- **Task:** Two-stage project (PRE then POST), evaluated with a shared analytic rubric (0–30 points) co-constructed with students.
+- **Task:** Two-stage project (PRE then POST), evaluated with a shared analytic [[rubrics|rubric]] (0–30 points) co-constructed with students.
 - **AI [[prompt-engineering|prompt design]]:** Both LLMs were given all course materials plus an assignment brief, the pedagogical framework, and the co-constructed rubric via a **Retrieval-Augmented Generation (RAG)** setup; instructed to act as a university professor and give objective, justified, actionable formative feedback. The rubric + an exemplar functioned as a "calibration device" that transferred the teacher's evaluative expectations into the AI.
 - **Analyses:** Wilcoxon signed-rank (PRE–POST), Kruskal–Wallis across sources, robust linear models (HC3) for attendance moderation, and — crucially — **non-inferiority and equivalence tests** (Welch-adjusted 90% CIs, pre-specified margin ±1 point on the 30-point scale), because non-significant differences don't imply practical equivalence.
 

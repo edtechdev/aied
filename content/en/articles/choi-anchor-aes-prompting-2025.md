@@ -1,4 +1,4 @@
----
+
 title: "Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting"
 created: "2026-08-09T08:25:18-04:00"
 updated: "2026-10-03T02:57:43-04:00"
@@ -16,7 +16,7 @@ confidence: high
 > **Synthesis:** Choi, Tate, Ritchie, Nixon & Warschauer (2025) investigate the most practical approach to LLM-based [[automated-essay-scoring|automated essay scoring]] — prompting — and find that providing anchor papers (example essays with scores) significantly improves LLM-human agreement, bringing it close to human-human scoring reliability. GPT-4o mini achieves comparable results to GPT-4o at substantially lower cost, making accessible, teacher-friendly AES feasible.
 
 ## Key Findings
-1. **Anchor papers are the single most critical prompt component:** Including exemplar, pre-scored essays in prompts dramatically improved LLM-human agreement, raising GPT-4o's quadratic weighted kappa to 0.72 — close to the 0.79 human-human [[benchmark|benchmark]] and classed as "substantial" agreement
+1. **Anchor papers are the single most critical prompt component:** Including [[rubrics|exemplar]], pre-scored essays in prompts dramatically improved LLM-human agreement, raising GPT-4o's quadratic weighted kappa to 0.72 — close to the 0.79 human-human [[benchmark|benchmark]] and classed as "substantial" agreement
 2. **GPT-4o mini is a cost-efficient alternative:** It achieved scores within 0.1 QWK of GPT-4o across all prompt types at roughly 200× lower cost, removing a key adoption barrier for educators
 3. **Source materials add little value:** Adding source texts to the prompt raised QWK by only 0.06, whereas adding anchor papers produced a large jump of 0.29 — the gains come from anchors, not context
 4. **Even a single anchor per score level helps:** One anchor per score performed nearly as well as three, and anchoring the extreme scores (1 and 6) beat distributing anchors across intermediate scores

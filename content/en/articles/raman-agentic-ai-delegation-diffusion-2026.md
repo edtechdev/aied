@@ -1,4 +1,4 @@
----
+
 title: "From Generative AI to Agentic AI in Higher Education: A Behavioural Experiment on Delegation Using Diffusion of Innovations"
 created: "2026-11-21T08:20:00-05:00"
 updated: "2026-11-21T08:20:00-05:00"
@@ -51,7 +51,7 @@ Both scenarios described AI drafting of teaching content, but they differed in L
 
 ## The content–platform boundary
 
-Within the agentic condition, teachers delegated a mean of 3.21 of the six steps, but the choices were uneven: delegation rates were highest for question writing (92%) and the rubric (85%), then fell through the quiz shell (51%), settings (25%), and release scheduling (20%). Non-manual engagement averaged 2.76 of three for content steps against 1.31 of three for platform steps, a gap that survived adjustment for prior AI use, experience, discipline, gender, and self-efficacy. In the GenAI condition, teachers chose AI assistance for 3.19 of six steps even though the tool could not touch the platform.
+Within the agentic condition, teachers delegated a mean of 3.21 of the six steps, but the choices were uneven: delegation rates were highest for question writing (92%) and the [[rubrics|rubric]] (85%), then fell through the quiz shell (51%), settings (25%), and release scheduling (20%). Non-manual engagement averaged 2.76 of three for content steps against 1.31 of three for platform steps, a gap that survived adjustment for prior AI use, experience, discipline, gender, and self-efficacy. In the GenAI condition, teachers chose AI assistance for 3.19 of six steps even though the tool could not touch the platform.
 
 Comparing conditions, non-manual engagement was higher in the agentic scenario (4.07 against 3.19), but the decomposition showed why: content-drafting engagement rose sharply (2.76 against 1.99) while platform-action engagement barely moved (1.31 against 1.19). Fully manual completion for settings and release windows was chosen by 67% and 77% of agentic-condition teachers respectively. The authors are careful about attribution: the scenarios differed simultaneously in action capability, LMS integration, approval safeguards, and response options, so the boundary is an effect of assignment to one scenario as a whole, not of any single feature.
 

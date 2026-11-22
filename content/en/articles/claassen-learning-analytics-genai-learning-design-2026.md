@@ -1,4 +1,4 @@
----
+
 title: "Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education"
 created: "2026-08-27T12:05:00-04:00"
 updated: "2026-10-16T13:51:50-04:00"
@@ -21,7 +21,7 @@ audience: [instructional designers, instructors, institutions]
 
 - **LA and GenAI support different parts of [[learning-design|learning design]].** In LA discussions, the strongest co-occurrences were between contextual information, course-level design, and creative problem-solving (the technology-role↔context connection was strongest, 0.32). In GenAI discussions, the strongest were between technology role and assessment design (0.26) and technology role and design for student self-determination (0.15).
 - **Instructors use LA for problem-solving across design granularity.** LA (e.g., [[teacher-role|teaching]] [[visualization|dashboards]]) was used in tandem with contextual information to make course-, activity-, and student-support-level adjustments — confirming that LA cannot be meaningfully interpreted without understanding [[pedagogy|pedagogical]] intent and context.
-- **Instructors use GenAI for ideation and assessment development.** GenAI was used to create first drafts of assessment elements (case studies, rubrics) and to co-design course elements with students (e.g., co-created assessment rubrics in initial [[teacher-education|teacher education]]), guided by their design approach.
+- **Instructors use GenAI for ideation and assessment development.** GenAI was used to create first drafts of assessment elements (case studies, [[rubrics|rubrics]]) and to co-design course elements with students (e.g., co-created assessment rubrics in initial [[teacher-education|teacher education]]), guided by their design approach.
 - **Distinct reasoning patterns.** LA discourse emphasized [[student-support-and-success|student support]] in relation to technology more than GenAI did; GenAI discourse elicited stronger emotional responses and centered on assessment design and student self-determination. The technology-role↔student-support connection was notably weaker in GenAI discourse.
 - **Context and [[creativity|creativity]] are central across both.** The co-occurrence of technology role, contextual information, and creative problem-solving was high across both LA and GenAI networks — instructors combine tool affordances with context and creativity to solve instructional problems.
 - **SDT lens: supporting instructor needs matters.** Supporting instructors' autonomy, competence, and relatedness fosters creative problem-solving in [[learning-design|learning design]]; collaborative design and shared [[governance|institutional]] decision-making support these needs.

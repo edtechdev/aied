@@ -1,4 +1,4 @@
----
+
 title: "Teaching with generative artificial intelligence: Enhancing critical thinking and ethical awareness in academic writing"
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -39,7 +39,7 @@ audience: [instructors, instructional designers]
 
 - **Teaching intervention.** After a training session on [[ethics|responsible AI]] use (bias, hallucinations, citation accuracy, prompt engineering), students drafted the **Introduction and Innovation sections** of a research proposal using ChatGPT (GPT-4), writing precise, content-aware prompts and screenshotting the process. In the revision phase they refined drafts with Writefull for Word, documenting modifications and justifications. A reflection phase required justifying acceptance/rejection of edits and verifying ChatGPT-generated citations. Final versions were submitted via Moodle as part of [[formative-assessment|formative assessment]].
 
-- **Measures & data collection.** Multiple sources: AI-generated drafts, student revisions, interaction screenshots, analytical reflection reports (24 two-page reports guided by an assessment rubric), and final RP submissions.
+- **Measures & data collection.** Multiple sources: AI-generated drafts, student revisions, interaction screenshots, analytical reflection reports (24 two-page reports guided by an assessment [[rubrics|rubric]]), and final RP submissions.
 
 - **Data analysis.** Inductive thematic analysis (Braun & Clarke) informed by grounded-theory coding (Corbin & Strauss), with open coding → axial coding → two overarching themes. Intercoder reliability was assessed on a random 20% sample; ChatGPT was used solely as an analytic cross-check, with final coding decisions retained by [[research-methods-aied|researchers]]. Researcher reflexivity and transparent documentation supported [[trust|trustworthiness]].
 

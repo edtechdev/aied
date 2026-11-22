@@ -1,4 +1,4 @@
----
+
 title: "Process-Oriented Collaborative Essays: Empowering Undergraduate Students Through Assessment Redesign in the Age of Generative AI"
 created: "2026-10-03T12:51:45-04:00"
 updated: "2026-10-03T12:51:45-04:00"
@@ -59,7 +59,7 @@ Collaboration behaved the same way — present in every team, but uneven in qual
 
 ## What this means for practice
 
-- **Instructors.** Make process evidence carry marks rather than goodwill. In this design the criteria, not the brief's tone, are what required students to document iteration, so a reader who wants this behavior should put it in the rubric — otherwise the documentation becomes optional work that only diligent students do.
+- **Instructors.** Make process evidence carry marks rather than goodwill. In this design the criteria, not the brief's tone, are what required students to document iteration, so a reader who wants this behavior should put it in the [[rubrics|rubric]] — otherwise the documentation becomes optional work that only diligent students do.
 - **Instructors.** Write explicit boundaries for GenAI and give the reason behind each one. The paper's brief is short and specific: no generated text submitted as your own, no rewriting functions, and no AI-written reference lists — the last aimed at fabricated citations rather than at cheating.
 - **Assessment designers.** Split the task before judging the tool. Task-Technology Fit suggests asking which activities in the assessment the AI genuinely supports and which ones the assessment exists to observe; the essay is not one task, and permission granted at the level of the essay hides that difference.
 - **Faculty developers.** Teach collaboration separately from assessing it. The authors' own reading is that students arrived with uneven collaborative repertoires and needed scaffolded practice in class before group process could serve as evidence.

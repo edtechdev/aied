@@ -1,4 +1,4 @@
----
+
 title: "Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course"
 created: "2026-09-20T06:39:42-04:00"
 updated: "2026-09-20T06:39:42-04:00"
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 
 > **Synthesis:** This study documents [[generative-ai|GenAI]] inside an artifact-centered studio course, where learning is judged by what students can actually make. Its contribution is [[pedagogy|pedagogical]]: flipped preparation and readiness checks lower uncertainty before machine time, the gallery calibrates what counts as feasible, GenAI widens the early visual search space, and instructor critique plus physical sampling retain authority over technical judgment. Read with its small, non-randomized cohorts in view, the pattern of higher [[creativity|creativity]] thinking, design skills, [[problem-solving|problem solving]], and total course score is best treated as a hypothesis for other [[design-education|design education]] courses that must reconcile visual ideation with material feasibility.
 
-Qu, Ling, and Yang (2026) report an instructional framework that joins flipped learning, an exemplar gallery, and GenAI-assisted visual prototyping in an undergraduate knit yarn design course. In practice-based studio work, visual intentions must become feasible material outcomes, and in knit design those decisions are bound to yarn properties, stitch structures, machine operation, and the cost of physical sampling.
+Qu, Ling, and Yang (2026) report an instructional framework that joins flipped learning, an [[rubrics|exemplar]] gallery, and GenAI-assisted visual prototyping in an undergraduate knit yarn design course. In practice-based studio work, visual intentions must become feasible material outcomes, and in knit design those decisions are bound to yarn properties, stitch structures, machine operation, and the cost of physical sampling.
 
 The authors built a cross-device platform with pre-class micro-videos, embedded readiness checks, a curated gallery, and a GenAI ideation module, then evaluated it with a quasi-experimental historical-cohort design: a historical control cohort (n = 12) from the previous year's offering against an intervention cohort (n = 16), same course, same instructor, same rubric weighting — Creativity thinking 35%, Design skills 20%, Problem solving 20%, Presentation 15%, Attendance 10%, scored on a 0–100 scale. Questionnaire responses and brief interviews with four students and the course instructor supplemented the score comparison, and the authors read the [[quantitative-research|quantitative]] results as exploratory indicators rather than causal evidence.
 

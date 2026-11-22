@@ -1,4 +1,4 @@
----
+
 title: "Generative AI and L2 Written Feedback Studies: A Scoping Review"
 created: "2026-10-23T09:48:00-04:00"
 updated: "2026-10-23T09:48:00-04:00"
@@ -40,7 +40,7 @@ Methodologically the field has converged on quasi-experimental pre/post designs 
 
 The strongest claim the corpus supports is comparative rather than absolute. Several studies found no significant difference between AI and teacher feedback, a few found AI feedback redundant or less relevant on content, and the studies that combined the two did better than either alone. That pattern argues for [[human-in-the-loop-ai|human oversight]] as a design commitment rather than a compromise, and it is consistent with the metalinguistic-feedback findings: GenAI produced more reformulation and metalanguage than teachers, but much of it was redundant.
 
-The weakest claims are the ones the field most wants: that AI feedback raises writing quality. Seventeen studies report improvements, but the review documents how often "writing quality" was scored with a rubric unrelated to the feedback the system was asked for, how often proficiency was [[self-report-measures|self-reported]], and how small some samples were — one study with 17 participants, another with 3. Perception studies (15) point toward motivation, practicality, independence and increased [[feedback-literacy|feedback literacy]], with a recurring counter-current of confusion, mistrust and over-reliance concerns, and some evidence of superficial engagement that reduced [[creativity|creativity]] or [[student-engagement|agency]].
+The weakest claims are the ones the field most wants: that AI feedback raises writing quality. Seventeen studies report improvements, but the review documents how often "writing quality" was scored with a [[rubrics|rubric]] unrelated to the feedback the system was asked for, how often proficiency was [[self-report-measures|self-reported]], and how small some samples were — one study with 17 participants, another with 3. Perception studies (15) point toward motivation, practicality, independence and increased [[feedback-literacy|feedback literacy]], with a recurring counter-current of confusion, mistrust and over-reliance concerns, and some evidence of superficial engagement that reduced [[creativity|creativity]] or [[student-engagement|agency]].
 
 ## What this means for practice
 

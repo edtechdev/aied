@@ -1,4 +1,4 @@
----
+
 title: "Bias and Reliability in Learning-Style Inference from Student–AI Dialogues: An Evaluation of GPT-4o and Gemini 2.0 Flash"
 created: "2026-10-21T09:27:54-04:00"
 updated: "2026-10-21T09:30:00-04:00"
@@ -64,7 +64,7 @@ The authors trace part of the risk to operationalization: the ILS produces conti
 - Dialogues were short, text-based and collected through one chatbot design, and the Visual-Verbal dimension was excluded entirely.
 - The chatbot that collected the dialogues used the GPT-4o-mini API, while the classification study ran GPT-4o and Gemini 2.0 Flash; both evaluated models are superseded generations as of October 2026, so the accuracy and bias findings scope to that model vintage and this zero-temperature evaluation design rather than to dialogue-based learner-style inference in general.
 - No supervised non-LLM text classifier was run as a baseline, so the results do not show that LLMs are preferable to simpler learner-modeling approaches.
-- Prompt refinement, few-shot exemplar selection, output parsing and provider-side model updates all limit reproducibility.
+- Prompt refinement, few-shot [[rubrics|exemplar]] selection, output parsing and provider-side model updates all limit reproducibility.
 
 ## Citation
 Zamanifard, S., Goudarzi, S., & Robb, A. (2026). [*Bias and Reliability in Learning-Style Inference from Student–AI Dialogues: An Evaluation of GPT-4o and Gemini 2.0 Flash*](https://arxiv.org/abs/2610.27448). arXiv preprint arXiv:2610.27448.

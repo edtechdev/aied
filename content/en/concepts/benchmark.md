@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T12:23:33-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -42,6 +42,7 @@ Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education
 
 Benchmarks connect to [[ai-ed-evaluation|AI ed evaluation]] and [[assessment-validity|assessment validity]] — without rigorous benchmarks, claims about [[intelligent-tutoring|AI tutoring]] effectiveness are unverifiable. They also intersect with [[bias-mitigation|bias mitigation]], as benchmark design can encode or amplify biases. The tension between benchmark performance and real-world utility is explored across multiple articles, connecting to [[transfer-of-learning|transfer of learning]] concerns in [[generative-ai|generative AI]] applications.
 
+- **Diagnosis benchmarks expose evidential overconfidence.** In [[llm-cognitive-diagnosis-handwritten-math|MathCog]], all 18 evaluated LLMs fell below macro F1 0.5 on 3,036 teacher-annotated handwritten-math verdicts, over-attributing evidential strength and fabricating evidence quotes, failures the authors quantify with OverAttr and FalseAttr metrics.
 - **When the metric, not the system, is the failure:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] scored BLEU-4 = 0.0000 on all 179 theoretical [[cs-education|computer science]] exam questions while a six-criterion pedagogical [[rubrics|rubric]] gave 0.7620, because logically equivalent proofs routinely differ in notation, variable names and proof strategy. A zero score says more about n-gram overlap than about answer quality, which is the general case against treating surface metrics as the headline number for formal-domain AIED systems.
 - **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.([[cfes-p24-multimodal-slide-auditing-2026|Ma et al., 2026]])
 

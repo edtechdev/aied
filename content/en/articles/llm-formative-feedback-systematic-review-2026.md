@@ -1,4 +1,4 @@
----
+
 title: "LLM-generated formative feedback in education: A qualitative systematic literature review"
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T09:38:08-04:00"
@@ -22,7 +22,7 @@ page_kind: [synthesis]
 
 **Search and selection.** Five databases were searched; after deduplication 638 unique documents were reduced to 429 peer-reviewed journal articles, of which 90 abstracts flagged by Elicit Pro semi-automated screening were manually reviewed and 69 full texts examined; 22 were excluded (lacking empirical feedback data, non-educational domains, synthetic datasets), leaving 47 studies from groups mainly in the USA, China, and Germany.
 
-**Theoretical grounding.** Five theoretical families anchor the field: formative feedback theory (Hattie & Timperley's "Where am I going? / How am I going? / Where to next?" used as an evaluation rubric), SRL and motivational–affective theory ([[self-determination-theory|self-determination theory]], expectancy-value, control-value), general learning theories ([[sociocultural-learning|Vygotsky]]'s ZPD, [[cognitive-offloading|Cognitive Load]] Theory), domain-specific frameworks (SLA and Written Corrective Feedback, Toulmin's argumentation), and technology-acceptance/human–AI frameworks.
+**Theoretical grounding.** Five theoretical families anchor the field: formative feedback theory (Hattie & Timperley's "Where am I going? / How am I going? / Where to next?" used as an evaluation [[rubrics|rubric]]), SRL and motivational–affective theory ([[self-determination-theory|self-determination theory]], expectancy-value, control-value), general learning theories ([[sociocultural-learning|Vygotsky]]'s ZPD, [[cognitive-offloading|Cognitive Load]] Theory), domain-specific frameworks (SLA and Written Corrective Feedback, Toulmin's argumentation), and technology-acceptance/human–AI frameworks.
 
 **[[research-methods-aied|Methodological]] profile.** Studies are dominated by short-term experiments, quasi-experimental classroom studies, and expert evaluations of feedback quality, mostly in [[higher-ed|higher education]]; feedback was examined along three dimensions — feedback quality, feedback processing, and [[learning-gains|learning gains]].
 

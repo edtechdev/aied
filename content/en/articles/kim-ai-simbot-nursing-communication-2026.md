@@ -1,4 +1,4 @@
----
+
 title: "AI-Powered Simulation: Leveraging Technology to Advance Nursing Communication Skills with AI SimBot"
 created: "2026-11-16T09:00:00-04:00"
 updated: "2026-11-16T09:00:00-04:00"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 ---
-> **Synthesis:** Kim and Pankhania (2026) describe AI SimBot, a GPT-based [[simulation|virtual patient]] built to give nursing students repeated practice at adolescent substance-use screening, and evaluate it with ninety-eight prelicensure students across two campuses of one U.S. university. Students held a voice or text conversation with "Jordan," a 17-year-old nonbinary patient, administered the six-item CRAFFT screen, received rubric-based feedback, and submitted [[reflection|written reflections]]; the analysis reads two of five reflection prompts. Half the students described nervousness beforehand and 70% described increased confidence afterward, and students judged the patient realistic mainly for its adolescent language and gradual disclosure rather than for any visual fidelity. The authors are careful to call it a feasibility study: they measured perceived confidence, not competence, and they report the design failures alongside the gains. Its contribution is the build detail — one instructor-visible rubric, a per-student cost near fifty cents, and a documented reason why the feedback model had to be swapped.
+> **Synthesis:** Kim and Pankhania (2026) describe AI SimBot, a GPT-based [[simulation|virtual patient]] built to give nursing students repeated practice at adolescent substance-use screening, and evaluate it with ninety-eight prelicensure students across two campuses of one U.S. university. Students held a voice or text conversation with "Jordan," a 17-year-old nonbinary patient, administered the six-item CRAFFT screen, received [[rubrics|rubric]]-based feedback, and submitted [[reflection|written reflections]]; the analysis reads two of five reflection prompts. Half the students described nervousness beforehand and 70% described increased confidence afterward, and students judged the patient realistic mainly for its adolescent language and gradual disclosure rather than for any visual fidelity. The authors are careful to call it a feasibility study: they measured perceived confidence, not competence, and they report the design failures alongside the gains. Its contribution is the build detail — one instructor-visible rubric, a per-student cost near fifty cents, and a documented reason why the feedback model had to be swapped.
 
 ## Key Findings
 
@@ -52,11 +52,11 @@ The institutional review board determined the work was not human subjects resear
 
 ## What this means for practice
 
-- **Use a virtual patient to raise the floor on practice volume, not to certify competence.** The study supports repeated rehearsal and reduced anxiety; it does not support claims that students can now screen well, because confidence was measured and skill was not.
-- **Write the feedback rubric before choosing the feedback model.** The authors had to move evaluation from the conversational model to a reasoning model because the first produced inflated, inaccurate judgments — an instance of [[ai-sycophancy|sycophantic]] output that a rubric-anchored second pass corrected.
-- **Design for the fidelity that carries learning, then say what is missing.** Students accepted the patient as realistic on the strength of language and disclosure patterns while naming the absence of body language as a real limit, which is the honest framing to give students rather than presenting the simulation as equivalent to a live encounter.
-- **Decide the cooperation level deliberately.** Making the patient more resistant through prompt engineering risks making the scenario unwinnable or teaching students to push a reluctant adolescent into compliance, so the appropriate target is hesitation that can be worked through, not refusal that must be overcome.
-- **Budget for latency if you choose a multi-model pipeline.** The five-stage architecture is what keeps cost near fifty cents per student, and the same architecture is what produces the delays students noticed; a lower-latency build costs more, and that trade-off belongs in the adoption decision.
+- **Instructors.** Use a virtual patient to raise the floor on practice volume, not to certify competence. The study supports repeated rehearsal and reduced anxiety; it does not support claims that students can now screen well, because confidence was measured and skill was not.
+- **Assessment designers.** Write the feedback rubric before choosing the feedback model. The authors had to move evaluation from the conversational model to a reasoning model because the first produced inflated, inaccurate judgments — an instance of [[ai-sycophancy|sycophantic]] output that a rubric-anchored second pass corrected.
+- **Educational technology developers.** Design for the fidelity that carries learning, then say what is missing. Students accepted the patient as realistic on the strength of language and disclosure patterns while naming the absence of body language as a real limit, which is the honest framing to give students rather than presenting the simulation as equivalent to a live encounter.
+- **Educational technology developers.** Decide the cooperation level deliberately. Making the patient more resistant through prompt engineering risks making the scenario unwinnable or teaching students to push a reluctant adolescent into compliance, so the appropriate target is hesitation that can be worked through, not refusal that must be overcome.
+- **Administrators.** Budget for latency if you choose a multi-model pipeline. The five-stage architecture is what keeps cost near fifty cents per student, and the same architecture is what produces the delays students noticed; a lower-latency build costs more, and that trade-off belongs in the adoption decision.
 
 ## Limitations
 

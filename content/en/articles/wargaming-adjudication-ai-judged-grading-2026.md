@@ -1,4 +1,4 @@
----
+
 title: "Thumb on the scale: Using traditional wargaming adjudication practices to improve AI-judged evaluations and grading"
 created: "2026-10-26T09:30:00-04:00"
 updated: "2026-10-26T09:30:00-04:00"
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Epstein maps eleven traditional [[game-based-learning|wargaming]] adjudication practices onto the failure modes of [[automated-assessment|AI-judged evaluation]], then tests one on 378 player actions from nine games of an AI-refereed exercise with the dice held fixed. Four named methods turn out to be four grading designs already in use: Rigid is a fixed scoring rule, Semi-Rigid a rubric the judge may adjust, Free holistic grading, and the four-judge Estimative panel a [[ai-technologies|jury]]. The method, not the [[llm|judge AI]], sets how often a judge disagrees with itself: a re-run changed 2.9 to 6.1 per cent of outcomes under Semi-Rigid and 13.5 to 15.9 per cent under Free, while swapping the judge AI added about 3 percentage points. Adjudicators reassigned who passes while barely moving the pass count, and a finding resting on 15 rulings moved under four of six arms. The remedy is a published [[assessment-validity|adjudication statement]] reporting the method, the judge's harness, a repeat run, and the count of [[evaluative-judgment|graded items]] behind each conclusion.
+> **Synthesis:** Epstein maps eleven traditional [[game-based-learning|wargaming]] adjudication practices onto the failure modes of [[automated-assessment|AI-judged evaluation]], then tests one on 378 player actions from nine games of an AI-refereed exercise with the dice held fixed. Four named methods turn out to be four grading designs already in use: Rigid is a fixed scoring rule, Semi-Rigid a [[rubrics|rubric]] the judge may adjust, Free holistic grading, and the four-judge Estimative panel a [[ai-technologies|jury]]. The method, not the [[llm|judge AI]], sets how often a judge disagrees with itself: a re-run changed 2.9 to 6.1 per cent of outcomes under Semi-Rigid and 13.5 to 15.9 per cent under Free, while swapping the judge AI added about 3 percentage points. Adjudicators reassigned who passes while barely moving the pass count, and a finding resting on 15 rulings moved under four of six arms. The remedy is a published [[assessment-validity|adjudication statement]] reporting the method, the judge's harness, a repeat run, and the count of [[evaluative-judgment|graded items]] behind each conclusion.
 
 ## Key Findings
 

@@ -1,4 +1,4 @@
----
+
 title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-11-04T16:51:25-05:00"
@@ -48,7 +48,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 | Scale | Strategies |
 |-------|-----------|
 | **Individual** | Workshops on creative multimodal tasks; prompt crafting practice; reflective assignments documenting AI use |
-| **Module** | Embed GenAI literacy into [[learning-gains|learning outcomes]]; optional multimodal tasks with clear rubrics; creative/reflective critique components |
+| **Module** | Embed GenAI literacy into [[learning-gains|learning outcomes]]; optional multimodal tasks with clear [[rubrics|rubrics]]; creative/reflective critique components |
 | **Program** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, [[creativity|creativity]], digital fluency) |
 | **[[governance|Institutional]]** | Clear policies with checklists; vetted tools; [[privacy|data privacy]] protocols enforced; avoid rigid mandates in favor of flexible guidance |
 

@@ -1,4 +1,4 @@
----
+
 title: "From flipped classroom to AI-enhanced assessment: Sustained pedagogical innovations in undergraduate mathematics education"
 created: "2026-10-09T09:30:00-04:00"
 updated: "2026-10-09T09:30:00-04:00"
@@ -30,7 +30,7 @@ ai_assist:
 1. A fully flipped classroom, supported by animated lecture videos and an automated exercise generator, has been implemented across all courses taught by the author, with class sizes ranging from a dozen to three-digit figures.
 2. In a network-theory course for majors and minors, course effectiveness scores on the official SFTL survey have consistently exceeded 90 out of 100 since 2021, substantially above departmental averages.
 3. All written assessments were moved to open-book form with limited cheat sheets, and questions now ask students to explain method choices, proofread proofs, and correct errors rather than reproduce routine procedures.
-4. Oral tests, each covering a few chapters with pre-assigned questions and clear rubrics, give direct evidence of conceptual understanding and communication skills but become impractical in cohorts beyond roughly 50 students.
+4. Oral tests, each covering a few chapters with pre-assigned questions and clear [[rubrics|rubrics]], give direct evidence of conceptual understanding and communication skills but become impractical in cohorts beyond roughly 50 students.
 5. An AI-assisted grading platform, first piloted in 2024 with a Faculty Teaching Innovation Fund, improved the timeliness and detail of feedback and the consistency of rubric application, especially in courses with enrollments over 100.
 6. Multi-year SFTL data show [[teacher-role|teacher]] and course effectiveness scores frequently matched or exceeded departmental averages, with several courses in the top decile; response rates were typically over 50%.
 7. Institutional embedding followed: the Faculties of Science and Engineering jointly funded the grading license in 2025–26, and the university moved to central funding from 2026–27 onwards.

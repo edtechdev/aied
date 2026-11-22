@@ -1,4 +1,4 @@
----
+
 title: "The role of generative AI in facilitating children’s creative thinking and cognitive development: a systematic scoping review"
 created: "2026-09-23T12:50:00-04:00"
 updated: "2026-09-23T13:40:00-04:00"
@@ -42,7 +42,7 @@ Eligibility followed the PCC framework. Population was school-aged children and 
 
 ## What the Evidence Base Looks Like
 
-The 22 primary studies are small and methodologically varied: quasi-experimental pretest and posttest designs, case studies, participatory design studies, user studies, and one national survey. Samples run from around 10 children to 120 middle schoolers, plus a UK survey of 15,379 students in which three in four reported having used GenAI. Studies took place in Indonesia, China, South Korea, the United States, Finland, Israel, Türkiye, and the United Kingdom, and mostly in formal [[k-12|K-12]] settings. Outcome measures were equally varied, from normalized gain scores and PISA 2022 creative thinking rubrics to narrative rubrics, [[self-report-measures|self-report]] scales, and one fMRI comparison of 15 children (mean age 6.47 years) with 15 adults. That heterogeneity, plus the absence of formal critical appraisal, left the authors unable to pool results or run a meta-analysis, so this [[meta-analysis-systematic-review|synthesis]] stops at description.
+The 22 primary studies are small and methodologically varied: quasi-experimental pretest and posttest designs, case studies, participatory design studies, user studies, and one national survey. Samples run from around 10 children to 120 middle schoolers, plus a UK survey of 15,379 students in which three in four reported having used GenAI. Studies took place in Indonesia, China, South Korea, the United States, Finland, Israel, Türkiye, and the United Kingdom, and mostly in formal [[k-12|K-12]] settings. Outcome measures were equally varied, from normalized gain scores and PISA 2022 creative thinking [[rubrics|rubrics]] to narrative rubrics, [[self-report-measures|self-report]] scales, and one fMRI comparison of 15 children (mean age 6.47 years) with 15 adults. That heterogeneity, plus the absence of formal critical appraisal, left the authors unable to pool results or run a meta-analysis, so this [[meta-analysis-systematic-review|synthesis]] stops at description.
 
 ## Reported Benefits, Barriers, and Risks
 
@@ -56,8 +56,8 @@ The recommendations are framed as precautionary principles rather than endorseme
 
 - **Start small and supervised.** The review's recommendations are precautionary principles rather than endorsements of broad adoption: begin with small, supervised, age-appropriate pilots, keep adults in the facilitation role, and pause where child-safety protections, informed governance, trained facilitation, or reliable infrastructure are absent.
 - **Keep the creative work the child's.** Reported benefits centered on lowering the barrier between idea and artifact, yet [[cognitive-offloading|over-reliance]], prompt dependence, template-based thinking, and difficulty judging whether an AI suggestion is original were equally consistent, so [[ai-literacy|AI literacy]], authorship, [[privacy|privacy]], and unaided idea generation belong inside the activity alongside the tool.
-- **Measure independent creativity, not only polished output.** Preserve non-AI routes to participation, document when and how AI contributed to a creative work, and track unaided idea generation separately from AI-assisted products.
-- **Match the tool to the child's developmental level.** Younger children lacked the precise linguistic and [[metacognition|metacognitive]] skills that text-based prompting demands and often needed multimodal, adult-facilitated interfaces, while text-based LLMs showed stronger reported outcomes with older children and young adolescents; because no included study examined developmental readiness thresholds, modality and [[scaffolding|scaffolding]] choices should follow age rather than convenience.
+- **Instructors.** Measure independent creativity, not only polished output. Preserve non-AI routes to participation, document when and how AI contributed to a creative work, and track unaided idea generation separately from AI-assisted products.
+- **Instructors.** Match the tool to the child's developmental level. Younger children lacked the precise linguistic and [[metacognition|metacognitive]] skills that text-based prompting demands and often needed multimodal, adult-facilitated interfaces, while text-based LLMs showed stronger reported outcomes with older children and young adolescents; because no included study examined developmental readiness thresholds, modality and [[scaffolding|scaffolding]] choices should follow age rather than convenience.
 - **Treat equity claims as untested.** The corpus is nearly silent on rural, underserved, low-connectivity, disability, and linguistically diverse learners, so [[generative-ai|GenAI]] should not be presented as a proven democratizing intervention until benefits are demonstrated in those settings, and the [[digital-divide|digital divide]] is exactly where those claims remain unproven.
 
 ## Limitations

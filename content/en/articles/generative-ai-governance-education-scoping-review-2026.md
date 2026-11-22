@@ -1,4 +1,4 @@
----
+
 title: "Generative AI Governance in Education: A Scoping Review of Principles, Mechanisms, and Risks in English-Language Documents"
 created: "2026-10-23T09:21:12-04:00"
 updated: "2026-10-23T09:45:00-04:00"
@@ -42,7 +42,7 @@ The review's sharpest move is to sort documents by the authority they carry rath
 
 ## Where documentary attention concentrates
 
-Eleven principles were coded, and the procedural ones cluster tightly: safety, [[well-being|wellbeing]], and integrity in 150 documents (93.8%), accountability in 146 (91.2%), transparency with [[privacy|privacy]] and assessment trust in 142 each (88.8%). Educational commitments follow — [[equity-in-ai-education|inclusivity and equity]] in 141 (88.1%), knowledge integrity in 134 (83.8%) — with human-centeredness a clear step behind at 103 (64.4%). Civic and market principles thin further: competition and market integrity in 96 (60.0%), democracy and rule of law in 92 (57.5%), cultural heritage in 37. Risks repeat the shape, led by [[ethics|ethics and governance]], data privacy, legal compliance, and human capacity, with pedagogical quality appearing in only 29 documents. [[k-12|K–12]] exemplars state age-sensitive safeguards and risk routines; [[higher-ed|higher education]] texts are less specific. The asymmetry is a record of what issuers write about, not an estimate of which harms occur.
+Eleven principles were coded, and the procedural ones cluster tightly: safety, [[well-being|wellbeing]], and integrity in 150 documents (93.8%), accountability in 146 (91.2%), transparency with [[privacy|privacy]] and assessment trust in 142 each (88.8%). Educational commitments follow — [[equity-in-ai-education|inclusivity and equity]] in 141 (88.1%), knowledge integrity in 134 (83.8%) — with human-centeredness a clear step behind at 103 (64.4%). Civic and market principles thin further: competition and market integrity in 96 (60.0%), democracy and rule of law in 92 (57.5%), cultural heritage in 37. Risks repeat the shape, led by [[ethics|ethics and governance]], data privacy, legal compliance, and human capacity, with pedagogical quality appearing in only 29 documents. [[k-12|K–12]] [[rubrics|exemplars]] state age-sensitive safeguards and risk routines; [[higher-ed|higher education]] texts are less specific. The asymmetry is a record of what issuers write about, not an estimate of which harms occur.
 
 ## The distance from a principle to a named actor
 

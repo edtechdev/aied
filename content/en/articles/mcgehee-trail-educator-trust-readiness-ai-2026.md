@@ -1,4 +1,4 @@
----
+
 title: "The TRAIL Instrument: Development and Validation of a Diagnostic Measure of Educator Trust and Readiness for Artificial Intelligence in Learning"
 created: "2026-11-17T09:40:00-05:00"
 updated: "2026-11-17T09:40:00-05:00"
@@ -28,12 +28,12 @@ ai_assist:
     role: drafting
 ---
 
-> **Synthesis:** TRAIL is a 30-item instrument that measures ten conditions shaping whether educators take up [[generative-ai|generative AI]], built by operationalizing a prior meta-analytic synthesis and validated with 106 educators at a statewide virtual [[k-12|K-12]] school plus 13 interviews. The [[technology-acceptance-model|Technology Acceptance Model]] core, perceived usefulness, dominated every criterion: it was the only significant predictor of adoption intention (β = .63) and each scale point was associated with nearly eightfold odds of being an active user (OR = 7.72). [[trust|Trust]] proved a separate condition with a narrow role, predicting co-creative "thought partner" use (β = .26) but not adoption itself, while self-efficacy predicted how deeply educators used AI rather than whether they started. Subjective norm predicted nothing, and the facilitating-conditions subscale measured general technology provision rather than the constraint that actually gated use, which was whether an educator's role contained tasks AI could perform. The evidence comes from one nonprofit organization, and its criteria are [[self-report-measures|self-reported]].
+> **Synthesis:** TRAIL is a 30-item instrument that measures ten conditions shaping whether educators take up [[generative-ai|generative AI]], built by operationalizing a prior meta-analytic synthesis and validated with 106 educators at a statewide virtual [[k-12|K-12]] school plus 13 interviews. The [[technology-acceptance-model|Technology Acceptance Model]] core, perceived usefulness, dominated every criterion: it was the only significant predictor of adoption intention, and each scale point was associated with nearly eightfold odds of being an active user. [[trust|Trust]] proved a separate condition with a narrow role, predicting co-creative "thought partner" use but not adoption itself, while self-efficacy predicted how deeply educators used AI rather than whether they started. Subjective norm predicted nothing, and the facilitating-conditions subscale measured general technology provision rather than the constraint that actually gated use, which was whether an educator's role contained tasks AI could perform. The evidence comes from one nonprofit organization, and its criteria are [[self-report-measures|self-reported]].
 
 ## Key Findings
 
-- **Perceived usefulness carried every criterion.** It was the only significant predictor of adoption intention, and each scale point raised the odds of being an active user nearly eightfold (OR = 7.72).
-- **Trust does a specific job.** Separable from usefulness and highly reliable, it uniquely predicted higher-order "thought partner" use — co-creating rubrics or plans — and added nothing to whether educators adopted at all.
+- **Perceived usefulness carried every criterion.** It was the only significant predictor of adoption intention, and each scale point raised the odds of being an active user nearly eightfold.
+- **Trust does a specific job.** Separable from usefulness and highly reliable, it uniquely predicted higher-order "thought partner" use — co-creating [[rubrics|rubrics]] or plans — and added nothing to whether educators adopted at all.
 - **Self-efficacy governs depth, not onset.** It correlated strongly with every criterion, yet its unique effect survived only for the depth of use and vanished for adoption intention once the other conditions entered.
 - **Subjective norm predicted nothing.** No association with any criterion (all |r| ≤ .11), and the null held after correction for attenuation, whose largest disattenuated value was .165.
 - **Facilitating conditions measured the wrong facet.** The subscale detected a real support gap between full-time and part-time educators but no adoption: no item asked whether AI tools were sanctioned or whether the role contained AI-suited tasks.
@@ -66,10 +66,10 @@ What interviews called binding is absent from the items: sanctioned tools, clear
 
 ## What this means for practice
 
-- **Administrators:** Diagnose before buying. A high-support, low-use profile is a [[change-management|conversion]] problem, and another training initiative will not move it; a low-usefulness profile does call for role-specific demonstrations of time saved.
-- **Administrators:** Separate provision from conversion in your own data. Full-time educators here reported substantially more support and no more use, which is what an investment problem and a conversion problem look like when they are measured apart.
-- **Faculty developers:** Build use cases around tasks staff actually own, and check whether a centrally built curriculum has left teachers with authoring work to delegate in the first place.
-- **Researchers:** Report the task architecture of any sample you survey on AI adoption, since fixed use-case items may be measuring role structure rather than readiness.
+- **Administrators.** Diagnose before buying. A high-support, low-use profile is a [[change-management|conversion]] problem, and another training initiative will not move it; a low-usefulness profile does call for role-specific demonstrations of time saved.
+- **Administrators.** Separate provision from conversion in your own data. Full-time educators here reported substantially more support and no more use, which is what an investment problem and a conversion problem look like when they are measured apart.
+- **Faculty developers.** Build use cases around tasks staff actually own, and check whether a centrally built curriculum has left teachers with authoring work to delegate in the first place.
+- **Researchers.** Report the task architecture of any sample you survey on AI adoption, since fixed use-case items may be measuring role structure rather than readiness.
 
 ## Limitations
 

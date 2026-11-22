@@ -1,4 +1,4 @@
----
+
 title: "WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays"
 created: "2026-09-27T07:21:54-04:00"
 updated: "2026-10-02T07:31:21-04:00"
@@ -38,7 +38,7 @@ reviewed_by: [editor]
 
 ## How the study was designed
 
-The system was built on a proprietary ETS dataset of 480 TOEFL Independent Writing essays, scored by two raters on the original 0-5 scale. Essays scored 0 were excluded, so the dataset ranges from 1-5 with 0.5 increments, and the two scores were averaged where their discrepancy was no more than 1. For scoring, 120 essays were selected by score-based equal sampling for fine-tuning and the remaining 360 formed the test subset. With no feedback in the dataset, deep-level training data was curated from scratch: 90 essays were annotated by eight experienced university teachers in MS Word, after training on the rubrics and nine benchmark essays. Surface-level [[educational-nlp|grammatical error correction]] needed no annotation, since directly prompting LLMs already works there.
+The system was built on a proprietary ETS dataset of 480 TOEFL Independent Writing essays, scored by two raters on the original 0-5 scale. Essays scored 0 were excluded, so the dataset ranges from 1-5 with 0.5 increments, and the two scores were averaged where their discrepancy was no more than 1. For scoring, 120 essays were selected by score-based equal sampling for fine-tuning and the remaining 360 formed the test subset. With no feedback in the dataset, deep-level training data was curated from scratch: 90 essays were annotated by eight experienced university teachers in MS Word, after training on the [[rubrics|rubrics]] and nine benchmark essays. Surface-level [[educational-nlp|grammatical error correction]] needed no annotation, since directly prompting LLMs already works there.
 
 ## What the scoring numbers show
 

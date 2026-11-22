@@ -1,4 +1,4 @@
----
+
 title: "Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training"
 created: "2026-06-01T04:33:04-04:00"
 updated: "2026-10-02T07:31:21-04:00"
@@ -21,7 +21,7 @@ confidence: high
 The framework has two core components:
 
 1. **Two-dimensional adaptive system prompt**: Couples a difficulty-based support level ([[scaffolding|scaffolding]]) with a disability-specific [[teacher-role|teaching]] style, forming a persona-aware prompt that guides the [[intelligent-tutoring|LLM tutor]] during multi-turn dialogue.
-2. **Persona-aware Thinking Reward**: The judge rubric used to compute the training [[reinforcement-learning|reward]] is conditioned on the learner's disability profile rather than a generic student. This shapes the tutor to produce responses that are helpful, safe, and appropriately challenging for each specific persona.
+2. **Persona-aware Thinking Reward**: The judge [[rubrics|rubric]] used to compute the training [[reinforcement-learning|reward]] is conditioned on the learner's disability profile rather than a generic student. This shapes the tutor to produce responses that are helpful, safe, and appropriately challenging for each specific persona.
 
 ## Key Results
 

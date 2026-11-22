@@ -1,4 +1,4 @@
----
+
 title: "Many hands make light work? Individual and collaborative interaction with a GenAI-powered multi-agent system: Effects on learning performance and critical thinking"
 created: "2026-10-04T10:42:00-04:00"
 updated: "2026-11-04T16:51:25-05:00"
@@ -36,7 +36,7 @@ source_depth: full text
 
 ## How the comparison was built
 
-Ninety-two undergraduates began the study in a micro-course instructional design course at a public university in eastern China; five were excluded for incomplete [[self-report-measures|questionnaires]] or missing final projects, leaving 87 (32 male, 36.8%; 55 female, 63.2%), aged 18 to 21. Working with intact classes, the authors assigned students to three conditions: peer collaboration without AI support (PC, n = 26, 13 dyads), individual interaction with the GenAI multi-agent system (MAS-IL, n = 33), and paired interaction with it (MAS-CL, n = 28, 14 dyads). All conditions ran for eight weeks under the same instructor with identical objectives, content and resources. Learning performance was measured by a 10-item knowledge test (KR-20 = 0.617 pre-test, 0.788 post-test) and a 100-point design project scored on a five-criterion rubric (ICC = 0.871). Critical thinking awareness used a four-item scale (alpha = 0.774 pre-test, 0.924 post-test), and interaction was coded against Murphy's five phases with Cohen's kappa of 0.848.
+Ninety-two undergraduates began the study in a micro-course instructional design course at a public university in eastern China; five were excluded for incomplete [[self-report-measures|questionnaires]] or missing final projects, leaving 87 (32 male, 36.8%; 55 female, 63.2%), aged 18 to 21. Working with intact classes, the authors assigned students to three conditions: peer collaboration without AI support (PC, n = 26, 13 dyads), individual interaction with the GenAI multi-agent system (MAS-IL, n = 33), and paired interaction with it (MAS-CL, n = 28, 14 dyads). All conditions ran for eight weeks under the same instructor with identical objectives, content and resources. Learning performance was measured by a 10-item knowledge test (KR-20 = 0.617 pre-test, 0.788 post-test) and a 100-point design project scored on a five-criterion [[rubrics|rubric]] (ICC = 0.871). Critical thinking awareness used a four-item scale (alpha = 0.774 pre-test, 0.924 post-test), and interaction was coded against Murphy's five phases with Cohen's kappa of 0.848.
 
 ## A task-dependent split in outcomes
 

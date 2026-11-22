@@ -1,4 +1,4 @@
----
+
 title: "Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics"
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
@@ -27,7 +27,7 @@ The rapid growth of learning analytics (LA) in higher education has expanded [[g
 - **Administrators.** Run every [[learning-analytics|learning analytics]] initiative — including [[llm|LLM]], agentic, and generative student-facing systems — through the same six-pillar review (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) before deciding whether to approve, revise, pilot, or pause it.
 - **Administrators.** Schedule reassessment rather than treating approval as final, covering model performance and drift as well as the original educational rationale.
 - **Policymakers.** Treat FERPA and GDPR compliance as the floor for such review: the framework adds equity, student [[agency|agency]], institutional accountability, and educational utility to a compliance check.
-- **Researchers.** Build the [[quantitative-research|quantitative]] governance-maturity rubric the framework still lacks, so institutions can score and track ethical governance over time instead of judging it case by case.
+- **Researchers.** Build the [[quantitative-research|quantitative]] governance-maturity [[rubrics|rubric]] the framework still lacks, so institutions can score and track ethical governance over time instead of judging it case by case.
 
 ## Limitations
 

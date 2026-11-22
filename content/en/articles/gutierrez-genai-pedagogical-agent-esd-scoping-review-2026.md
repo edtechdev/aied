@@ -1,4 +1,4 @@
----
+
 title: "Generative artificial intelligence as a pedagogical agent for education for sustainable development: a scoping review"
 created: "2026-11-19T09:30:00-05:00"
 updated: "2026-11-19T09:30:00-05:00"
@@ -59,7 +59,7 @@ The competency-by-role matrix the authors planned could not be built. Nineteen o
 - **Instructors.** Name the competencies before choosing the tool, then require learners to contest, justify or revise model output rather than receive it; deliberation over a conflict with no optimal answer is where normative judgment develops.
 - **Learning designers.** Frame every generative episode with briefing, debriefing and guided reflection. Linking an activity to assessment while leaving the model's authority unexamined teaches students to accept fluent answers.
 - **Researchers.** Isolate the generative element with a comparison condition, add a delayed measure, and align an instrument to each competency you name; redesign and technology introduced together cannot be told apart.
-- **Assessment designers.** Score sustainability competencies with validated rubrics applied by trained raters, and say what the instrument measures; engagement is not systems thinking.
+- **Assessment designers.** Score sustainability competencies with validated [[rubrics|rubrics]] applied by trained raters, and say what the instrument measures; engagement is not systems thinking.
 
 ## Limitations
 

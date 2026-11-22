@@ -1,4 +1,4 @@
----
+
 title: "LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University"
 created: "2026-08-20T02:55:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -61,7 +61,7 @@ Its value lies in the practical, replicable structure and the documented boundar
 - The paired pre/post AI-readiness dataset covers only 7 clients (5 improved, 1 stayed at ceiling, 1 declined), and the authors state the instrument is preliminary and not formally validated, so the 7.4-point mean gain is descriptive context only.
 - Interviews rest on 5 clients and 2 of 4 tutors — self-selected, opt-in participants recalling sessions retrospectively, with no non-participant comparison group, so the reported mindset shift is [[self-report-measures|self-report]].
 - Layer 1 evidence comes from 54 consented survey respondents in 7 of the 18 courses, with instructor opt-in and self-report shaping both reach and attitude estimates.
-- The artifact corpus (36 portfolios, 20+ deployed applications) was inspected informally for access and task match, with no quality rubric, so artifact sophistication is not scored.
+- The artifact corpus (36 portfolios, 20+ deployed applications) was inspected informally for access and task match, with no quality [[rubrics|rubric]], so artifact sophistication is not scored.
 
 ## Citation
 

@@ -1,4 +1,4 @@
----
+
 title: Assessment in Team Problem-Solving Exercises in Computing Education
 created: "2026-07-22T04:33:04-04:00"
 updated: "2026-09-20T03:44:50-04:00"
@@ -15,7 +15,7 @@ confidence: high
 
 > **Synthesis:** Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment|formative assessment]] difficult: teams often receive delayed or incomplete [[feedback|feedback]]. This full [[research-methods-aied|research]]-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.
 
-The work situates team [[problem-solving|problem-solving]] assessment within [[cs-education|CS education]] and broader [[stem-education|STEM education]] contexts, showing how logged interaction data can drive faster, richer [[feedback|Feedback Loop]]s than manual grading. By operationalizing teamwork behaviors as measurable signals, it connects to [[learning-analytics|learning analytics]] and the [[student-experience|student experience]] of collaborative crisis-response training, with implications for [[higher-ed|higher education]] computing courses where TTXs are increasingly used but rubric reliability remains a barrier.
+The work situates team [[problem-solving|problem-solving]] assessment within [[cs-education|CS education]] and broader [[stem-education|STEM education]] contexts, showing how logged interaction data can drive faster, richer [[feedback|Feedback Loop]]s than manual grading. By operationalizing teamwork behaviors as measurable signals, it connects to [[learning-analytics|learning analytics]] and the [[student-experience|student experience]] of collaborative crisis-response training, with implications for [[higher-ed|higher education]] computing courses where TTXs are increasingly used but [[rubrics|rubric]] reliability remains a barrier.
 
 ## What this means for practice
 

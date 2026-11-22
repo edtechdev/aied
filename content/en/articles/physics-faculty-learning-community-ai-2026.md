@@ -1,4 +1,4 @@
----
+
 title: "A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community"
 created: "2026-09-22T09:38:05-04:00"
 updated: "2026-09-22T09:38:05-04:00"
@@ -32,7 +32,7 @@ reviewed_by: [editor]
 1. **Nineteen faculty participated across six biweekly sessions.** Meetings of 60 to 75 minutes drew about ten attendees each, in a large public R1 physics department with a history of systematic education reform.
 2. **Local data opened every session.** A campus survey found 80 percent of students using AI weekly and seeking instructor guidance, and a physics-specific survey issued in five courses reached roughly 350 students.
 3. **Reported use reframed the problem as shared.** Roughly 29 percent of surveyed students said they sometimes or often used AI to produce an entire solution, while most reported using it for supportive tasks when stuck — data that moved discussion from policing cheating to negotiating norms.
-4. **Faculty testing exposed correction limits.** AI solved every problem faculty tried, but its feedback on real student work was uneven, prompt-dependent, focused on surface features, and reliable only when given explicit goals and rubrics.
+4. **Faculty testing exposed correction limits.** AI solved every problem faculty tried, but its feedback on real student work was uneven, prompt-dependent, focused on surface features, and reliable only when given explicit goals and [[rubrics|rubrics]].
 5. **AI-generated content invited shallow use.** After working tasks that ask students to generate code, diagrams, [[simulation|simulations]], or explanations, faculty concluded that students prompt shallowly and modify output superficially unless productive use is modeled.
 6. **Oral defenses stood out as AI-resistant assessment.** A junior-level Electricity and Magnetism course used short booked "mini homework defenses" in which a Learning Assistant randomly selects a completed problem and the student defends it for an immediate pass or fail; several faculty have since adopted the format.
 7. **The series produced a living repository with five entries**, covering syllabus policy statements, classroom discussion materials, the student survey, AI-integrated homework tasks, and assessment structures, and the department agreed to template policies across the spectrum from no use to full use.

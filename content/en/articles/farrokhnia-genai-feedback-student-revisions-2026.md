@@ -1,4 +1,4 @@
----
+
 title: "Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions"
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-19T08:49:57-04:00"
@@ -22,7 +22,7 @@ audience: [instructors, assessment designers]
 
 ## Prompt Engineering and Feedback Quality
 
-The study directly interrogates [[prompt-engineering|prompt engineering]] as a determinant of GenAI feedback quality. The Zero-shot prompt gave ChatGPT a direct instruction to generate feedback from an argumentation rubric, while the CoT prompt guided the model through a step-by-step evaluation with an elaborated example. One-way ANOVA (F(2,67) = 6.09, p = .004, ηp² = 0.15) showed CoT feedback (M=12.90) significantly outperformed both Zero-shot (M=11.25, p=.01) and teacher feedback (M=11.20, p=.008), with no significant difference between Zero-shot and teacher. The authors interpret this as CoT's stepwise reasoning aligning GenAI outputs more closely with the cognitive demands of argumentative writing — and frame prompt design within [[explainable-ai|explainable AI]] principles. This is a valuable empirical contribution to the knowledge base's [[prompt-engineering|prompt engineering]] and [[ai-feedback-quality|AI feedback quality]] concepts.
+The study directly interrogates [[prompt-engineering|prompt engineering]] as a determinant of GenAI feedback quality. The Zero-shot prompt gave ChatGPT a direct instruction to generate feedback from an argumentation [[rubrics|rubric]], while the CoT prompt guided the model through a step-by-step evaluation with an elaborated example. One-way ANOVA (F(2,67) = 6.09, p = .004, ηp² = 0.15) showed CoT feedback (M=12.90) significantly outperformed both Zero-shot (M=11.25, p=.01) and teacher feedback (M=11.20, p=.008), with no significant difference between Zero-shot and teacher. The authors interpret this as CoT's stepwise reasoning aligning GenAI outputs more closely with the cognitive demands of argumentative writing — and frame prompt design within [[explainable-ai|explainable AI]] principles. This is a valuable empirical contribution to the knowledge base's [[prompt-engineering|prompt engineering]] and [[ai-feedback-quality|AI feedback quality]] concepts.
 
 ## Why Quality Did Not Translate into Revision Gains
 
@@ -35,9 +35,9 @@ This is a tightly controlled experimental contribution to the knowledge base's f
 ## What this means for practice
 
 - **Instructors.** Do not treat higher-rated AI feedback as a proxy for better writing: chain-of-thought feedback scored highest (M=12.90 vs. teacher M=11.20) yet produced no significantly greater revision gains.
-- Adopt hybrid feedback systems in which teachers scaffold students' interpretation and application of GenAI feedback rather than deploying it standalone, since [[feedback-literacy|feedback literacy]] and uptake, not generation quality, are the mechanism the authors identify.
+- **Instructors.** Adopt hybrid feedback systems in which teachers scaffold students' interpretation and application of GenAI feedback rather than deploying it standalone, since [[feedback-literacy|feedback literacy]] and uptake, not generation quality, are the mechanism the authors identify.
 - **Assessment designers.** Reserve teacher time for interpretation and follow-through, where the teacher's advantage lay: teacher feedback quality was calibrated across drafts while GenAI tracked the quality of the initial essay.
-- Use chain-of-thought [[prompt-engineering|prompt engineering]] when feedback quality itself is the target; it outperformed zero-shot prompting (M=11.25) as well as teacher feedback on rubric quality.
+- **Instructors.** Use chain-of-thought [[prompt-engineering|prompt engineering]] when feedback quality itself is the target; it outperformed zero-shot prompting (M=11.25) as well as teacher feedback on rubric quality.
 
 ## Limitations
 

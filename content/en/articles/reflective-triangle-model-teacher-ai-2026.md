@@ -1,4 +1,4 @@
----
+
 title: "The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development"
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
@@ -26,7 +26,7 @@ The model itself integrates three interactive dimensions that form a continuous 
 
 ## AI as a Cognitive Mediator
 
-The paper distinguishes three levels of AI mediation in education. **Task mediation** changes what teachers produce — faster lesson plans, multiple-choice questions, rubrics — answering "can AI do this for me?" **Evaluative mediation (AI-driven evaluation)** changes judgments about practice — concluding whether a lesson was good — answering "how does AI judge me?" **Epistemic mediation** neither produces artifacts nor judges practice; instead it changes how teachers approach, organize, and verify evidence so they can reach their own understanding, shifting the question from "what does AI say?" to "what does this evidence make me ask?"
+The paper distinguishes three levels of AI mediation in education. **Task mediation** changes what teachers produce — faster lesson plans, multiple-choice questions, [[rubrics|rubrics]] — answering "can AI do this for me?" **Evaluative mediation (AI-driven evaluation)** changes judgments about practice — concluding whether a lesson was good — answering "how does AI judge me?" **Epistemic mediation** neither produces artifacts nor judges practice; instead it changes how teachers approach, organize, and verify evidence so they can reach their own understanding, shifting the question from "what does AI say?" to "what does this evidence make me ask?"
 
 The Reflective Triangle locates AI at the epistemic level. Building on [[sociocultural-learning|Vygotsky]]'s account of mediation, the paper stresses that epistemic mediation is not neutral: by choosing which indicators to surface (e.g., teacher talking time) and which framework to use (e.g., [[bloom-taxonomy|Bloom's taxonomy]]), AI frames what teachers can see and therefore question. AI's three defined functions are **evidence surfacing** (making hard-to-see patterns visible), **inquiry [[prompt-engineering|prompting]]** (generating questions and alternative interpretations), and **dialogic mediation** (supplying input for dialogue with oneself and with colleagues in the PLC). Crucially, AI-generated analysis is not treated as objective evidence, and the model explicitly contrasts AI-supported reflection with AI-driven evaluation, preserving professional judgment as human-led.
 

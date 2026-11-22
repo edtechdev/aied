@@ -1,4 +1,4 @@
----
+
 title: "Measuring the impact of AI tutoring, from near transfer to standardised tests: An expanded RCT in UK mathematics classrooms"
 created: "2026-11-07T09:26:35-05:00"
 updated: "2026-11-07T12:30:00-05:00"
@@ -68,7 +68,7 @@ The authors read the coverage cost as an upfront investment. First-attempt accur
 
 Every AI message passed a human before delivery, which makes this a study of [[human-in-the-loop-ai|human-in-the-loop]] tutoring rather than an autonomous tutor. The 58 educators rotated between direct and supervisory shifts, approving, regenerating, or rewriting drafts. Edits were substantial: a median of 69% of the text changed. Tutors cited style and tone (32.5%), pedagogical scaffolding (28.6%), and engagement (22.9%), with engagement rising to 40% of late revisions.
 
-Rubric audits suggest the approval rate reflected quality. The AI tutor withheld direct answers in 98.8% of conversations, against 96.3% for experts, and asked follow-up questions in 91.3%, against 60.0%. Contextual error rates were close: 0.24% of Gemini messages against 0.18% of tutor messages.
+[[rubrics|Rubric]] audits suggest the approval rate reflected quality. The AI tutor withheld direct answers in 98.8% of conversations, against 96.3% for experts, and asked follow-up questions in 91.3%, against 60.0%. Contextual error rates were close: 0.24% of Gemini messages against 0.18% of tutor messages.
 
 The [[teacher-role|tutor role]] changed in ways outcomes do not capture. Tutors found drafts helpful in 81.9% of diaries and time-saving in 86.3%, and felt slightly more confident after supervisory shifts (4.47 out of 5) than direct ones (4.34). But they reported more difficulty managing workload (4.33 against 4.43) and less positive affect (3.59 against 3.76), and seven of eight interviewees said monitoring several chats at once remained hard.
 

@@ -1,4 +1,4 @@
----
+
 title: "Game theory of academic effort and hiring in the age of AI"
 created: "2026-10-27T09:35:41-04:00"
 updated: "2026-10-27T09:47:00-04:00"
@@ -56,9 +56,9 @@ The practical section is modest and worth taking literally: two priorities, rewa
 ## What this means for practice
 
 - **Assess depth in person, and say so in advance.** An interview that probes understanding is the model's only informative channel, so publish that it is decisive rather than an optional extra.
-- **Move as a group of departments.** Because coordination traps survive unilateral reform, hiring consortia and shared interview protocols change behavior in a way that a single department's stricter rubric may not.
-- **Treat output volume as evidence about AI access, not only about ability.** Where AI amplifies output unevenly, a longer publication list can mark the candidates who could afford the tool.
-- **For administrators, separate the reward for understanding from the reward for output.** Valuing understanding while paying only for volume reproduces the equilibrium the paper describes.
+- **Move as a group of departments.** Because coordination traps survive unilateral reform, hiring consortia and shared interview protocols change behavior in a way that a single department's stricter [[rubrics|rubric]] may not.
+- **Administrators.** Treat output volume as evidence about AI access, not only about ability: where AI amplifies output unevenly, a longer publication list can mark the candidates who could afford the tool.
+- **Administrators.** Separate the reward for understanding from the reward for output: valuing understanding while paying only for volume reproduces the equilibrium the paper describes.
 
 ## Limitations
 

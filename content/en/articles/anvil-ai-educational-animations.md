@@ -1,4 +1,4 @@
----
+
 title: "ANVIL: Analogies and Videos for Lecturers"
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
@@ -27,7 +27,7 @@ The positive educator response to perceived value and [[usability-research|usabi
 ## Key Findings
 
 1. ANVIL automates the full pipeline from a CS concept definition to a rendered, executable manim animation through intermediate representations (analogy, visual elements, screenplay), with a bounded agentic diagnose–repair–verify loop (capped at 3 iterations) that recovered all 50 end-to-end runs in the robustness analysis — 76% succeeded without any repair, and without the repair agent 24% of runs would have failed to render.
-2. In a rubric-based evaluation with 11 CS/SE educators across five institutions, analogies were rated highly (median Target Concept Coverage and Mapping Strength of 3–4 on a 4-point scale for most topics) and animations were typically faithful to their textual analogies, while expert agreement was concentrated on adequacy (Gwet's AC1 of 0.77 TCC, 0.75 ATA, 0.71 MS) with disagreement mostly between adjacent high scores.
+2. In a [[rubrics|rubric]]-based evaluation with 11 CS/SE educators across five institutions, analogies were rated highly (median Target Concept Coverage and Mapping Strength of 3–4 on a 4-point scale for most topics) and animations were typically faithful to their textual analogies, while expert agreement was concentrated on adequacy (Gwet's AC1 of 0.77 TCC, 0.75 ATA, 0.71 MS) with disagreement mostly between adjacent high scores.
 3. An LLM-based analogy evaluator validated against expert judgments achieved strong agreement on collapsed adequacy labels (α = 1.00 TCC, 0.81 MS) and found that 88% of analogies met the TCC threshold and 92% met the MS threshold, supporting scalable candidate filtering.
 4. A VLM-based screenplay-to-video fidelity proxy showed that videos more consistently preserved intended scene structure (94% met threshold) and element fidelity (88%) than fine-grained action dynamics (52%), identifying action execution and ordering as the primary failure mode.
 5. Focus groups with 9 educators surfaced four themes: ANVIL functions as a creative collaborator rather than a content replacement; adoption requires instructor control and low-effort customization; visualizations risk pedagogical mismatch (e.g., the Stack-as-pancakes animation weakening the salience of restricted access); and the tool is best suited to supplementary or asynchronous learning with modular use.

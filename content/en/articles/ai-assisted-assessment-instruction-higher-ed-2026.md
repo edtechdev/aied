@@ -1,4 +1,4 @@
----
+
 title: "AI-assisted assessment and instruction in higher education: Foundations, applications, and implications for exam design"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
@@ -40,7 +40,7 @@ The limitations it lists are the ones assessment design has to work around. Prob
 
 Four applications are reviewed. [[prompt-engineering|Prompt engineering]] is treated as a prerequisite skill rather than an optional refinement: the P.R.O.M.P.T. framework organizes a prompt around goal, role, output format, audience, presentation and tone, and is supplemented by retrieval-augmented generation, where uploaded course materials ground [[automated-question-generation|item generation]] in course-specific content instead of generic knowledge, and by low temperature settings (0.1 to 0.3) where consistency matters more than variation.
 
-Automated scoring is presented with its history in [[automated-essay-scoring|automated essay scoring]] and its advance: LLMs can apply complex multi-dimensional rubrics without task-specific training data, and their main benefit is scalability and timeliness for [[formative-assessment|formative feedback]] on open-ended responses from large cohorts. The stated risks match those documented elsewhere in this wiki — opacity, inexactness, and the legal questions raised by transmitting student work to commercial platforms. Formative [[feedback|feedback]] is configured against established criteria from Hattie and Timperley (2007): criterion-referenced, precise, focused on what matters, delivered supportively.
+Automated scoring is presented with its history in [[automated-essay-scoring|automated essay scoring]] and its advance: LLMs can apply complex multi-dimensional [[rubrics|rubrics]] without task-specific training data, and their main benefit is scalability and timeliness for [[formative-assessment|formative feedback]] on open-ended responses from large cohorts. The stated risks match those documented elsewhere in this wiki — opacity, inexactness, and the legal questions raised by transmitting student work to commercial platforms. Formative [[feedback|feedback]] is configured against established criteria from Hattie and Timperley (2007): criterion-referenced, precise, focused on what matters, delivered supportively.
 
 Item construction is where the paper is most concrete. Multiple-choice items remain central to large-cohort examinations, and constructing good ones is demanding technical work: specified objectives, unambiguous stems, exactly one defensible answer, plausible distractors drawn from typical [[misconceptions|misconceptions]], and calibration to a cognitive level. An agentic workflow of five stages — objective analysis, item construction, distractor development, quality self-review, difficulty estimation — is offered as a route to that work at scale, with the explicit condition that subject-matter experts review every generated item before operational use.
 

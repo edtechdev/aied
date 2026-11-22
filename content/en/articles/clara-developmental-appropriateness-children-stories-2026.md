@@ -1,4 +1,4 @@
----
+
 title: "CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?"
 created: "2026-10-07T09:30:00-04:00"
 updated: "2026-10-07T09:30:00-04:00"
@@ -28,7 +28,7 @@ ai_assist:
 
 ## Key Findings
 1. CLARA's structured [[educational-nlp|developmental annotation]] lifts overlap accuracy against normalized age references to 0.904, versus 0.603 for the FKGL readability formula and 0.730 for direct GPT-4o prompting.
-2. Mean developmental distance falls to 0.096 for CLARA, compared with 0.502 for FKGL and 0.672 for direct prompting; a rubric-guided GPT-4o baseline reaches only 0.835 overlap.
+2. Mean developmental distance falls to 0.096 for CLARA, compared with 0.502 for FKGL and 0.672 for direct prompting; a [[rubrics|rubric]]-guided GPT-4o baseline reaches only 0.835 overlap.
 3. In a blinded ranking study of 60 story pairs, CLARA agrees with educator developmental rankings 0.81 of the time, ahead of FKGL (0.58), direct prompting (0.67), and rubric prompting (0.73).
 4. Blinded educators scored educational [[explainable-ai|interpretability]] highest at 4.42/5, with an overall mean of 4.26/5 across five criteria covering cognitive, language, and social-emotional label quality.
 5. A taxonomy ablation isolates the label space as the main source of gains: the full taxonomy scores 0.904 overlap and 0.096 distance, a random mapping 0.611 and 0.593, and a dimension-swapped variant 0.742 and 0.366.
@@ -55,7 +55,7 @@ Independent human checks support the alignment scores. Eight early-childhood edu
 
 - **Instructors.** Use structured developmental labels to double-check your own sense of a story's demand rather than trusting an age tag or a readability score; treat an AI estimate as evidence to weigh, not a verdict.
 - **Curriculum designers.** Screen and level story collections with explicit cognitive, language, and social-emotional criteria instead of surface readability, especially across the 2–8 band where demand varies most.
-- **[[educational-technology-developers|Educational technology developers]].** Build annotation spaces that activate interpretable, taxonomy-constrained labels and keep a human in the loop, since the framework's gains come from structure rather than from a larger model.
+- **Educational technology developers.** Build annotation spaces that activate interpretable, taxonomy-constrained labels and keep a human in the loop, since the framework's gains come from structure rather than from a larger model.
 - **Researchers.** Evaluate developmental-judgment systems against blinded human rankings, not only publisher metadata, and report disagreement cases as evidence about where the labels underspecify real reasoning.
 
 ## Limitations

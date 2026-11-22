@@ -1,4 +1,4 @@
----
+
 title: "Teacher Readiness-By-Design for AI-Rich Interactive Learning"
 created: "2026-09-25T20:37:57-04:00"
 updated: "2026-09-25T21:52:24-04:00"
@@ -47,14 +47,14 @@ Professional resources enter a process of design mediation; the institutional an
 
 ## Boundary conditions, policy and professional learning
 
-The framework is intended to travel across [[k-12]] and [[higher-ed|higher education]], but not as a context-free universal. Sector is a boundary condition to be tested, because learner age, safeguarding duties, disciplinary norms, assessment regimes and teacher autonomy alter the strength of particular pathways. The sixth proposition predicts that the measurement structure is substantially invariant across sectors while selected paths differ, with safeguarding and scaffolding stronger in K-12 and assessment redesign and learner autonomy stronger in higher education. The ecology enables professional learning and resource access and moderates the translation of resources into design mediation, which is why policy clarity is positioned as pedagogical infrastructure covering acceptable use, approved platforms, [[privacy|data protection]], disclosure, assessment and human review. In the proposed pedagogical [[arts-and-media-education|design studio]], teachers start from a learning problem, produce a design dossier, have colleagues critique it against a quality rubric, then pilot, gather evidence and revise. The article also declines to equate non-use with unreadiness, since a reasoned decision to withhold AI can demonstrate readiness.
+The framework is intended to travel across [[k-12]] and [[higher-ed|higher education]], but not as a context-free universal. Sector is a boundary condition to be tested, because learner age, safeguarding duties, disciplinary norms, assessment regimes and teacher autonomy alter the strength of particular pathways. The sixth proposition predicts that the measurement structure is substantially invariant across sectors while selected paths differ, with safeguarding and scaffolding stronger in K-12 and assessment redesign and learner autonomy stronger in higher education. The ecology enables professional learning and resource access and moderates the translation of resources into design mediation, which is why policy clarity is positioned as pedagogical infrastructure covering acceptable use, approved platforms, [[privacy|data protection]], disclosure, assessment and human review. In the proposed pedagogical [[arts-and-media-education|design studio]], teachers start from a learning problem, produce a design dossier, have colleagues critique it against a quality [[rubrics|rubric]], then pilot, gather evidence and revise. The article also declines to equate non-use with unreadiness, since a reasoned decision to withhold AI can demonstrate readiness.
 
 ## What this means for practice
 
-- **Replace tool training with design-based professional learning,** giving teachers supported opportunities to solve design problems, articulate pedagogical and ethical rationales, test artifacts and revise from evidence.
-- **Write policy as decision rules and exemplars,** distinguishing low-stakes experimentation from high-stakes uses such as [[automated-assessment|automated grading]], and connecting [[academic-integrity|academic integrity]] policy to [[assessment|assessment design]].
-- **Judge quality from designs, not usage frequency.** Institutions can combine blind rubric ratings of artifacts with evidence about learner agency, participation and accessibility.
-- **Review governance in light of enacted evidence.** Approved-tool lists, disclosure guidance and professional learning priorities should be revised when evidence reveals [[misconceptions|misconceptions]], inequitable access or privacy risks.
+- **Faculty developers.** Replace tool training with design-based professional learning, giving teachers supported opportunities to solve design problems, articulate pedagogical and ethical rationales, test artifacts and revise from evidence.
+- **Administrators.** Write policy as decision rules and exemplars, distinguishing low-stakes experimentation from high-stakes uses such as [[automated-assessment|automated grading]], and connecting [[academic-integrity|academic integrity]] policy to [[assessment|assessment design]].
+- **Administrators.** Judge quality from designs, not usage frequency. Institutions can combine blind rubric ratings of artifacts with evidence about learner agency, participation and accessibility.
+- **Administrators.** Review governance in light of enacted evidence. Approved-tool lists, disclosure guidance and professional learning priorities should be revised when evidence reveals [[misconceptions|misconceptions]], inequitable access or privacy risks.
 
 ## Limitations
 

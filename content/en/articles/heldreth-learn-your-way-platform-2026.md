@@ -1,4 +1,4 @@
----
+
 title: "An experimental evaluation of an AI-powered interactive learning platform"
 created: "2026-11-11T07:36:47-05:00"
 updated: "2026-11-14T10:00:00-05:00"
@@ -46,7 +46,7 @@ Sixty high school students from the Chicago area were recruited through a resear
 
 Participants were told to imagine their [[teacher-role|teacher]] had asked them to learn the chapter and then take an assessment. The textbook group read it in a web-based PDF reader. The platform group chose a grade level and interests such as music or video games, then began in Immersive Text, which chunks the chapter and adds embedded questions, quizzes, generated images, summaries, timelines and memory aids. From there they could switch to Slides, a narrated Video deck, an Audio Lesson staged as a conversation between an AI teacher and a student, or an interactive Mindmap. They had up to 40 minutes with the tool and had to spend at least 20.
 
-Assessments were built by pedagogy experts against [[bloom-taxonomy|Bloom's Taxonomy]]. The immediate test contained short answer, single-answer and multi-answer multiple choice, and matching items, and was scored out of 12 points. The follow-up contained one short answer, one single-answer multiple choice and one matching question, scored out of 6. Short answers were scored on a 3-point rubric by a pedagogy expert, with a second rater scoring one third of the responses blind to condition. A learning-experience questionnaire followed the immediate test, and a 30-minute [[qualitative-research|qualitative]] interview closed the session. Analysis used Wilcoxon-Mann-Whitney tests because the distributions were non-normal, with correction across the experience measures, and generalized additive models to test whether time spent learning or the length of the retention interval explained the scores.
+Assessments were built by pedagogy experts against [[bloom-taxonomy|Bloom's Taxonomy]]. The immediate test contained short answer, single-answer and multi-answer multiple choice, and matching items, and was scored out of 12 points. The follow-up contained one short answer, one single-answer multiple choice and one matching question, scored out of 6. Short answers were scored on a 3-point [[rubrics|rubric]] by a pedagogy expert, with a second rater scoring one third of the responses blind to condition. A learning-experience questionnaire followed the immediate test, and a 30-minute [[qualitative-research|qualitative]] interview closed the session. Analysis used Wilcoxon-Mann-Whitney tests because the distributions were non-normal, with correction across the experience measures, and generalized additive models to test whether time spent learning or the length of the retention interval explained the scores.
 
 ## What the platform adds, and what the trial cannot separate
 

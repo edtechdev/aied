@@ -1,4 +1,4 @@
----
+
 title: "AI-Assisted Research Competency in Secondary Education: A Framework for Epistemic Agency, Authorship and Responsible Knowledge Production"
 created: "2026-09-04T09:07:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
@@ -14,7 +14,7 @@ level: [secondary, k 12]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Beau, Flaquière, and Lazar (2026) propose AI-Assisted [[research-methods-aied|Research]] Competency (AARC), an integrated capacity to conduct inquiry with [[generative-ai|generative AI]] without surrendering [[agency|authorship]], judgment, verification, or intellectual responsibility. Grounded in virtue epistemology, [[ai-literacy|AI literacy]], and AI intuition, AARC comprises seven teachable dimensions that develop from guided foundation through cross-domain transfer to autonomous inquiry. The framework translates the construct into an analytic rubric, a five-step decision routine, and three recurring commitments — verify, cite, and reflect — and is illustrated through a design case in upper-school courses. It offers [[k-12|secondary]] educators a concrete scaffold for responsible knowledge production in an AI-augmented era.
+> **Synthesis:** Beau, Flaquière, and Lazar (2026) propose AI-Assisted [[research-methods-aied|Research]] Competency (AARC), an integrated capacity to conduct inquiry with [[generative-ai|generative AI]] without surrendering [[agency|authorship]], judgment, verification, or intellectual responsibility. Grounded in virtue epistemology, [[ai-literacy|AI literacy]], and AI intuition, AARC comprises seven teachable dimensions that develop from guided foundation through cross-domain transfer to autonomous inquiry. The framework translates the construct into an analytic [[rubrics|rubric]], a five-step decision routine, and three recurring commitments — verify, cite, and reflect — and is illustrated through a design case in upper-school courses. It offers [[k-12|secondary]] educators a concrete scaffold for responsible knowledge production in an AI-augmented era.
 
 ## The Problem
 

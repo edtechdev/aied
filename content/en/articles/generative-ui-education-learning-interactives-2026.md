@@ -1,4 +1,4 @@
----
+
 title: "Harnessing Generative UI for Education: Tailored Learning Interactives"
 created: "2026-09-18T09:15:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
@@ -23,7 +23,7 @@ confidence: high
 2. **Structure, not model scale, supplies the quality.** The framework decomposes a learning objective into progressive leveled goals whose completion requires active inquiry, hypothesis testing and variable manipulation — the interactives are generated *into* that structure.
 3. **Educators remain the orchestrators.** Teachers initiate requests, approve learning objectives and select among candidate simulations, so [[teacher-role|pedagogical intent]] is preserved while the time, cost and technical barriers of bespoke development fall.
 4. **The "enhancement versus erosion" paradox is addressed by embedding guardrails in the pipeline**, rather than by relying on teacher vigilance after generation.
-5. **Expert teachers rated a varied set of 40 generated simulations** across learning-objective and UX/LX criteria, with an acceptance-criteria rubric applied to the accepted subset.
+5. **Expert teachers rated a varied set of 40 generated simulations** across learning-objective and UX/LX criteria, with an acceptance-criteria [[rubrics|rubric]] applied to the accepted subset.
 
 ## Why generative UI is a different capability from generative text
 

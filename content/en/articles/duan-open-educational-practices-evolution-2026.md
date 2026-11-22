@@ -1,4 +1,4 @@
----
+
 title: "The evolution of open educational practices: a comparative analysis of models and a new framework for the AI era"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"
@@ -48,7 +48,7 @@ Each reading is plausible and each is assembled from published models rather tha
 
 The framework proposal is the paper's real argument, and it is a claim about architecture. Duan's earlier Open TPACK added openness to Mishra and Koehler's technological, pedagogical, and content knowledge, so openness became a fourth domain a teacher had to hold. The new version responds to what the author calls a shift from digital infrastructure to generative infrastructure, in which AI changes not only the resources produced but how pedagogical processes are defined and how openness is enacted. If AI is infrastructure, it cannot sit inside technological knowledge as one more tool to master.
 
-So the model places AI as a layer beneath the four domains, following the logic Huang et al. used for enabling technologies. The roles it sketches are a [[human-ai-collaboration|co-pilot]] in learning design, an automated curator of open resources, and a personalized scaffold for open pedagogy. What the paper does not provide is any test of the framework: no case of a teacher using it, no rubric derived from it, no comparison with the earlier Open TPACK, and no data on whether design or learning changes when AI is treated as infrastructure rather than as a tool. The claim is conceptual, and the paper's abstract describes its results as empirical when what was analyzed is a set of documents.
+So the model places AI as a layer beneath the four domains, following the logic Huang et al. used for enabling technologies. The roles it sketches are a [[human-ai-collaboration|co-pilot]] in learning design, an automated curator of open resources, and a personalized scaffold for open pedagogy. What the paper does not provide is any test of the framework: no case of a teacher using it, no [[rubrics|rubric]] derived from it, no comparison with the earlier Open TPACK, and no data on whether design or learning changes when AI is treated as infrastructure rather than as a tool. The claim is conceptual, and the paper's abstract describes its results as empirical when what was analyzed is a set of documents.
 
 ## What this means for practice
 

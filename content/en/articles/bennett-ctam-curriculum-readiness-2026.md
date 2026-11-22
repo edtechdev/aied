@@ -1,4 +1,4 @@
----
+
 title: "Cultural and Digital Readiness for AI-Integrated Higher Education: A C-TAM-Informed Curriculum Design Framework"
 created: "2026-11-11T07:41:39-05:00"
 updated: "2026-11-11T08:09:35-05:00"
@@ -47,7 +47,7 @@ Measurement invariance is not assumed anywhere in the paper, because no cross-cu
 
 ## From mechanisms to a reconstruction matrix
 
-C-TAM keeps perceived usefulness and [[technology-acceptance-model|perceived ease of use]] but situates them in social, cultural, ethical and institutional conditions. Its five mechanisms are expressed as propositions P1–P6. P1 predicts that usefulness will raise responsible intention when AI activity is visibly tied to disciplinary outcomes. P2 predicts that competence, access and scaffolded practice will reduce perceived effort. P3 predicts that verification practice and ethical clarity will strengthen attitudes more than encouragement to use GenAI. P4 predicts that instructor, peer and institutional norms will matter more where authority distance is high. P5 predicts that uncertainty avoidance will lower willingness to experiment under ambiguous policy, and that the relationship will weaken with exemplars, decision rules and rehearsal. P6 adds long-term professional relevance and [[equity-in-ai-education|equitable]] access.
+C-TAM keeps perceived usefulness and [[technology-acceptance-model|perceived ease of use]] but situates them in social, cultural, ethical and institutional conditions. Its five mechanisms are expressed as propositions P1–P6. P1 predicts that usefulness will raise responsible intention when AI activity is visibly tied to disciplinary outcomes. P2 predicts that competence, access and scaffolded practice will reduce perceived effort. P3 predicts that verification practice and ethical clarity will strengthen attitudes more than encouragement to use GenAI. P4 predicts that instructor, peer and institutional norms will matter more where authority distance is high. P5 predicts that uncertainty avoidance will lower willingness to experiment under ambiguous policy, and that the relationship will weaken with [[rubrics|exemplars]], decision rules and rehearsal. P6 adds long-term professional relevance and [[equity-in-ai-education|equitable]] access.
 
 The translation into practice is the reconstruction matrix, which pairs each backward-design element with an adaptation for students combining high uncertainty avoidance with high power-distance expectations. Learning outcomes distinguish required, optional and prohibited AI uses and connect each rule to its learning purpose. Assignment instructions provide a decision tree and instructor confirmation instead of "use your judgment" without criteria. Low-stakes practice begins with instructor-modeled demonstration and guided group rehearsal before individual experimentation. Assessment requires products plus process evidence, with an exemplar of what counts. Feedback rubrics reward verification and explain the consequences of unverified claims. Participation designs use structured roles and facilitated discussion before public disagreement with peers or AI output. [[academic-integrity|Academic integrity]] guidance distinguishes misuse from good-faith error during early practice. Career relevance makes profession-specific accountability explicit, alongside critical discussion of labor, bias, privacy and environmental costs.
 
@@ -55,10 +55,10 @@ The matrix is a design heuristic, not a validated intervention. The paper is can
 
 ## What this means for practice
 
-- **Instructors:** Replace general AI encouragement with assignment-level statements that name the learning purpose, the permitted level of assistance, the required evidence and the access alternative.
-- **Administrators:** Treat policy clarity as [[pedagogy|pedagogical]] infrastructure. Institution-wide principles help, but students need consistent signals across syllabi, and staff need common access to tools or a no-cost equivalent.
-- **Designers:** Start from the outcome and its evidence, then decide where AI belongs. Build verification into tasks rather than bolting it on as a warning, and assess process artifacts instead of relying on [[ai-detection|AI detection]].
-- **Researchers:** Use the validation protocol as a checklist. The framework's propositions are only testable with current GenAI measures, individual-level cultural values and explicit invariance testing.
+- **Instructors.** Replace general AI encouragement with assignment-level statements that name the learning purpose, the permitted level of assistance, the required evidence and the access alternative.
+- **Administrators.** Treat policy clarity as [[pedagogy|pedagogical]] infrastructure. Institution-wide principles help, but students need consistent signals across syllabi, and staff need common access to tools or a no-cost equivalent.
+- **Designers.** Start from the outcome and its evidence, then decide where AI belongs. Build verification into tasks rather than bolting it on as a warning, and assess process artifacts instead of relying on [[ai-detection|AI detection]].
+- **Researchers.** Use the validation protocol as a checklist. The framework's propositions are only testable with current GenAI measures, individual-level cultural values and explicit invariance testing.
 
 ## Limitations
 

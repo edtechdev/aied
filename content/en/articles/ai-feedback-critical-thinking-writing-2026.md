@@ -1,4 +1,4 @@
----
+
 title: "Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency"
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -31,7 +31,7 @@ Writing is positioned as a cognitive process that reconstructs implicit thought 
 
 ## The WISE Agent Intervention
 
-The Writing Improvement and Smart Evaluation Agent (WISE Agent) is an AI feedback tool built on the Coze platform and powered by a DeepSeek [[llm|Large Language Model]]. It operates in a closed-loop workflow: handwritten manuscripts are processed through standardized OCR and image-stitching, the model acts as a "Senior Primary [[teacher-role|Teacher]]" delivering [[qualitative-research|qualitative]], tier-based assessments with actionable scaffolds (e.g., [[prompt-engineering|prompting]] sensory details or counterarguments), and students revise independently before teacher review. With an average correction cycle of 40 seconds, the system sharply improves feedback timeliness relative to manual methods while maintaining reliability through predefined rubrics and standardized prompts refined in pilot testing (N=120).
+The Writing Improvement and Smart Evaluation Agent (WISE Agent) is an AI feedback tool built on the Coze platform and powered by a DeepSeek [[llm|Large Language Model]]. It operates in a closed-loop workflow: handwritten manuscripts are processed through standardized OCR and image-stitching, the model acts as a "Senior Primary [[teacher-role|Teacher]]" delivering [[qualitative-research|qualitative]], tier-based assessments with actionable scaffolds (e.g., [[prompt-engineering|prompting]] sensory details or counterarguments), and students revise independently before teacher review. With an average correction cycle of 40 seconds, the system sharply improves feedback timeliness relative to manual methods while maintaining reliability through predefined [[rubrics|rubrics]] and standardized prompts refined in pilot testing (N=120).
 
 ## Methods and Measures
 

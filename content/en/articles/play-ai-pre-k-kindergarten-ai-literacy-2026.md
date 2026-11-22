@@ -1,4 +1,4 @@
----
+
 title: "Play with AI (PL-AI): A play-centered, design-based curriculum for AI literacy in pre-K and kindergarten"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -35,7 +35,7 @@ methods: [design-based-research, qualitative-research]
 
 - Design-based research with four teachers — two pre-kindergarten and two kindergarten — in two Title I schools in an urban district in the southern United States.
 - The implementation lasted one month of PL-AI stations during freeplay (20–40 minutes), supported by 32 hours of classroom video, with no control group and no validated outcome measures.
-- Evidence is teacher [[self-report-measures|self-report]], researcher field notes, observational rubrics, and participation tallies, which the authors present as formative design evidence rather than effect sizes or causal learning gains.
+- Evidence is teacher [[self-report-measures|self-report]], researcher field notes, observational [[rubrics|rubrics]], and participation tallies, which the authors present as formative design evidence rather than effect sizes or causal learning gains.
 - Two of the seven activity prototypes were discontinued mid-study, so the activity sequences are context-dependent exemplars.
 
 ## Citation

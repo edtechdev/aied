@@ -1,4 +1,4 @@
----
+
 title: "Human-AI Collaboration for Qualitative Analysis in Participatory Design: Refining the Writing Analytics Tool"
 created: "2026-11-05T20:00:00-05:00"
 updated: "2026-11-05T20:00:00-05:00"
@@ -33,7 +33,7 @@ reviewed_by: [editor]
 4. **The model required substantial human oversight.** GPT-4o occasionally excluded or reworded quotations even when prompted to return verbatim excerpts, so all quotations were reviewed and contextualized by researchers; the model did not hallucinate new quotations, and every excerpt traced to the source data.
 5. **The workflow redistributed labor rather than saving it.** The model accelerated early-stage coding, but verification, contextualization and triangulation added review layers, so the AI-assisted analysis did not reduce the overall analytic workload.
 6. **Instructors rated descriptive analytics above predictive scores.** Development of Ideas received the highest mean usefulness rating of the advanced metrics (4.75, SD 2.05), followed by Academic Focus (4.25) and Varied Sentence Structure (4.22), while Word Concreteness (2.67) rated lowest and the predictive quality scores rated lowest overall, with Overall Quality Score at 2.33 (SD 1.22).
-7. **Customization was the most valued affordance.** Uploading personalized rubrics rated highest at 4.56 (SD 1.51) and assigning multiple drafts 4.44 (SD 0.88), while creating summary writing tasks rated lowest at 2.00 (SD 1.50).
+7. **Customization was the most valued affordance.** Uploading personalized [[rubrics|rubrics]] rated highest at 4.56 (SD 1.51) and assigning multiple drafts 4.44 (SD 0.88), while creating summary writing tasks rated lowest at 2.00 (SD 1.50).
 8. **Adoption intentions were modest.** Instructors rated the likelihood that WAT would improve student outcomes at 3.33 (SD 1.41) and likelihood of using WAT at 3.00 (SD 1.58), and the lowest rating, 2.56 (SD 0.73) for effect on instructional time, signaled workload concern.
 
 ## Two focus group sessions with nine instructors
@@ -54,11 +54,11 @@ The four themes each mapped to a concrete design response. Theme 1 — instructo
 
 ## What this means for practice
 
-- **Writing analytics developers should pretest their metric vocabularies with instructors.** Instructors rated Word Concreteness at 2.67 and chose to fold Information Density into Development of Ideas, showing that semantic overlap among metrics is a usability problem, not just a labeling question.
-- **Structured feedback formats earn high marks when they stay concise.** Instructors rated feedback comments as helpful for revision at 4.11 and the Why–When–How structure at 4.11, but the reverse-coded item on adding more metric definitions scored 2.67, indicating that more detail can read as overwhelming.
-- **LMS integration is an adoption precondition, not a convenience.** The lowest survey rating, 2.56 for effect on instructional time, paired with repeated requests to embed WAT in Canvas, signals that standalone tools add perceived administrative burden regardless of feedback quality.
-- **Customization with guardrails satisfies both flexibility and interpretability.** Uploading personalized rubrics rated highest at 4.56, and instructors favored setting metric targets over changing definitions, preserving consistency while letting teachers communicate expectations.
-- **Researchers should plan for validation stages when using LLMs for qualitative analysis.** The model accelerated open coding but required review of quotations and theme labels by the core team and two external coders, so hybrid workflows need budget for verification rather than promising time savings.
+- **Educational technology developers.** Pretest metric vocabularies with instructors before relying on them: instructors rated Word Concreteness at 2.67 and chose to fold Information Density into Development of Ideas, showing that semantic overlap among metrics is a usability problem, not just a labeling question.
+- **Assessment designers.** Keep structured feedback formats concise rather than exhaustive: instructors rated feedback comments as helpful for revision at 4.11 and the Why–When–How structure at 4.11, but the reverse-coded item on adding more metric definitions scored 2.67, indicating that more detail can read as overwhelming.
+- **Program leaders.** Treat LMS integration as an adoption precondition, not a convenience: the lowest survey rating, 2.56 for effect on instructional time, paired with repeated requests to embed WAT in Canvas, signals that standalone tools add perceived administrative burden regardless of feedback quality.
+- **Educational technology developers.** Offer customization with guardrails so flexibility and interpretability survive together: uploading personalized rubrics rated highest at 4.56, and instructors favored setting metric targets over changing definitions, preserving consistency while letting teachers communicate expectations.
+- **Researchers.** Plan for validation stages when using LLMs for qualitative analysis: the model accelerated open coding but required review of quotations and theme labels by the core team and two external coders, so hybrid workflows need budget for verification rather than promising time savings.
 
 ## Limitations
 

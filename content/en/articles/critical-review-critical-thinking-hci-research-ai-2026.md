@@ -1,4 +1,4 @@
----
+
 title: "A Critical Review of Critical Thinking in HCI Research About AI"
 created: "2026-09-28T04:55:02-04:00"
 updated: "2026-09-28T05:05:00-04:00"
@@ -46,7 +46,7 @@ Extraction was done primarily by the first author, with an explicit "not enough 
 - **Administrators and institutions.** Measure [[pedagogy|pedagogical]] and cognitive influence, not efficiency and productivity alone: evaluating systems mainly on efficiency and productivity invites uncritical adoption of [[generative-ai|generative AI]], whereas measuring pedagogical and cognitive influence opens a more critical discussion.
 - **Researchers.** Do not claim durability or transfer. With 62% of studies under four hours and one follow-up measurement, there is no basis here for claims about whether [[ai-literacy|AI literacy]] practices produce lasting critical thinking ability.
 - **Researchers.** Recognize that the corpus speaks mostly to classroom-adjacent interventions: the near-absence of professional and everyday settings, and the heavy reliance on students, make it a weak basis for the [[framing-ai-use-for-students|framing AI use for students]] that reaches most learners.
-- **Researchers.** Before trusting an effect claim, look for the review's [[human-ai-collaboration|human AI collaboration]] exemplars — studies that define their construct, state a theoretical grounding, and connect both to a method — and for your own [[assessment|assessment]] of AI-supported learning, follow the concrete agenda: state a definition, say which parts of critical thinking are and are not being evaluated, and keep disposition distinct from skill. The authors place future work in three traditions — cognitive-psychological, [[philosophy-of-ai-in-education|philosophical]], and educational — each specifying what counts as evidence, and identify a [[meta-analysis-systematic-review|systematic review]] as the natural next step given the heterogeneity of this corpus.
+- **Researchers.** Before trusting an effect claim, look for the review's [[human-ai-collaboration|human AI collaboration]] [[rubrics|exemplars]] — studies that define their construct, state a theoretical grounding, and connect both to a method — and for your own [[assessment|assessment]] of AI-supported learning, follow the concrete agenda: state a definition, say which parts of critical thinking are and are not being evaluated, and keep disposition distinct from skill. The authors place future work in three traditions — cognitive-psychological, [[philosophy-of-ai-in-education|philosophical]], and educational — each specifying what counts as evidence, and identify a [[meta-analysis-systematic-review|systematic review]] as the natural next step given the heterogeneity of this corpus.
 
 ## Limitations
 

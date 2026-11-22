@@ -1,4 +1,4 @@
----
+
 title: "Integrating Slides, Mathematics, and Simulation in One Page: GenAI-Assisted HTML Learning Objects for Engineering Courses"
 created: "2026-11-13T09:12:00-05:00"
 updated: "2026-11-13T10:45:00-05:00"
@@ -62,14 +62,14 @@ Nineteen student responses survived post-hoc screening from 28; every construct 
 
 Usability told a different story. The System Usability Scale mean was 56.8 (confidence interval 52.5 to 61.1), with 13 of 19 scores in the marginal band, well below the usual average near 70. The instrument behaved inconsistently (α = 0.57), so the number is hard to read. The weakest item was orientation: only 47 percent agreed they rarely lost their place, which fits the authors' claim that split attention across files became navigation load inside one page.
 
-Twelve lecturers rated usefulness at 4.44 and intention to use at 3.67 on a five-point scale, with maintainability lowest at 3.25; their rubric ratings agreed moderately with the first author's (weighted κ = 0.60). Half considered the tolerance appropriate, and five of twelve intended to try the approach.
+Twelve lecturers rated usefulness at 4.44 and intention to use at 3.67 on a five-point scale, with maintainability lowest at 3.25; their [[rubrics|rubric]] ratings agreed moderately with the first author's (weighted κ = 0.60). Half considered the tolerance appropriate, and five of twelve intended to try the approach.
 
 ## What this means for practice
 
-- **Instructors:** Adopt the release gate before the page. Name the quantities a student can check, compute them outside the page, and refuse to publish a simulation that misses its tolerance; a plausible curve is not evidence that the solver is right.
-- **Instructional designers:** Budget for conversion and maintenance, then add navigation the workflow does not produce — a formula index, anchors and a short guided activity per simulation, since orientation was the weakest item.
-- **Developers:** Keep the format register open. MathJax for mathematics, plain JavaScript for the solver and SVG or Canvas for the visualization let a non-specialist colleague re-verify a page without learning a framework.
-- **Department leads:** Treat positive perception as a precondition for adoption, not evidence of learning, and plan a comparison condition before scaling across a program.
+- **Instructors.** Adopt the release gate before the page. Name the quantities a student can check, compute them outside the page, and refuse to publish a simulation that misses its tolerance; a plausible curve is not evidence that the solver is right.
+- **Instructional designers.** Budget for conversion and maintenance, then add navigation the workflow does not produce — a formula index, anchors and a short guided activity per simulation, since orientation was the weakest item.
+- **Developers.** Keep the format register open. MathJax for mathematics, plain JavaScript for the solver and SVG or Canvas for the visualization let a non-specialist colleague re-verify a page without learning a framework.
+- **Department leads.** Treat positive perception as a precondition for adoption, not evidence of learning, and plan a comparison condition before scaling across a program.
 
 ## Limitations
 

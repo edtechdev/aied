@@ -1,4 +1,4 @@
----
+
 title: "A Scoping Review of Generative Artificial Intelligence Boundaries in Educational Assessment Systems"
 created: "2026-11-22T09:30:00-05:00"
 updated: "2026-11-22T09:30:00-05:00"
@@ -39,7 +39,7 @@ verified: [citation, numbers, quotes, links]
 - **Conditions nest rather than form a single threshold.** Appropriateness emerged from graduated layers of explicit criteria and task boundedness, human oversight, ethical safeguards, and institutional governance, and relaxing the innermost layer carried the most immediate validity risks regardless of outer governance.
 - **Human authority stays central.** Human judgment served as the reference standard for evaluating outputs, humans acted as designers, trainers, and moderators, and human-out-of-the-loop operation was rarely endorsed and unacceptable for consequential decisions.
 - **Institutional governance is underdeveloped.** Policy articulation, assessment design, faculty training, and monitoring were largely absent from the corpus, while student AI literacy was frequently underdeveloped.
-- **Failure modes cluster where constructs are complex.** Score inflation and rubric drift appeared in writing, second-language bias and detector errors in language testing, hallucinated reasoning in STEM, inconsistent grading in medical and professional education, and cultural bias in creative assessment.
+- **Failure modes cluster where constructs are complex.** Score inflation and [[rubrics|rubric]] drift appeared in writing, second-language bias and detector errors in language testing, hallucinated reasoning in STEM, inconsistent grading in medical and professional education, and cultural bias in creative assessment.
 
 ## How the Review Was Built
 

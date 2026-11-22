@@ -1,4 +1,4 @@
----
+
 title: "Assessment twins: An approach for strengthening assessment validity in the age of generative AI"
 created: "2026-08-22T17:35:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -36,7 +36,7 @@ The approach is distinct from traditional protocols like the [[oral-assessment|o
 
 ## The design process in practice
 
-- **Step 1 — Identify vulnerabilities:** requires assessor [[ai-literacy|AI literacy]] about what GenAI can/cannot do; remote unsupervised assessments are more vulnerable; tools like the PANDORA rubric help.
+- **Step 1 — Identify vulnerabilities:** requires assessor [[ai-literacy|AI literacy]] about what GenAI can/cannot do; remote unsupervised assessments are more vulnerable; tools like the PANDORA [[rubrics|rubric]] help.
 - **Step 2 — Align outcomes & choose the twin:** both components map to the same learning outcomes; complementary modes include real-time demonstrations, oral explanations, group discussions, or Q&A. Crucially, oral/video submissions are only as valid as the work underpinning them — live, interactive components (unscripted questions, real-time discussion, in-situ [[problem-solving|problem-solving]]) mitigate pre-generated AI reliance.
 - **Step 3 — Develop interdependent marking:** either a **confirmatory threshold** (minimum twin performance required for the original mark to stand) or a **confirmatory weighting** (e.g., essay mark × oral confirmation score / 2). The worked example pairs a take-home research essay with a 15-minute oral interview.
 

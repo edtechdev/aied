@@ -1,4 +1,4 @@
----
+
 title: "The Impact of Unscaffolded GenAI Use on Pre-Service Teachers' AI Readiness, Self-Regulated Learning, Critical Thinking, and Instructional Design Performance: A Quasi-Experimental Study"
 created: "2026-09-30T12:34:11-04:00"
 updated: "2026-09-30T12:34:11-04:00"
@@ -26,16 +26,16 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This quasi-experiment compared two intact sophomore classes of pre-service chemistry teachers (26 each, N = 52) in an 11-week *Chemistry [[learning-design|Instructional Design]]* course at a normal university in Chongqing, China. One class was permitted to use [[generative-ai|generative AI]] while completing reflection questions, developing design ideas and drafting lesson plans, with no prompt templates, GenAI training or other [[scaffolding|scaffolding]]; the other class completed the same in-class tasks without GenAI. Outcomes were instructional design performance (rubric-scored lesson plans), AI readiness, [[self-regulated-learning|self-regulated learning]] and [[critical-thinking|critical thinking]], analyzed with pretest-adjusted ANCOVA and within-group paired t-tests. After controlling for pretest scores, the groups did not differ in AI readiness, SRL or critical thinking, but the control group scored higher on instructional design performance (adjusted 86.54 against 81.87, F = 8.348, p = 0.006, η² = 0.146); both groups improved in design performance and AI readiness, and neither improved in SRL or critical thinking. The most important qualification is the design itself: groups were existing classes, not randomly assigned, so the study cannot establish causal direction.
+> **Synthesis:** This quasi-experiment compared two intact sophomore classes of pre-service chemistry teachers (26 each, N = 52) in an 11-week *Chemistry [[learning-design|Instructional Design]]* course at a normal university in Chongqing, China. One class was permitted to use [[generative-ai|generative AI]] while completing reflection questions, developing design ideas and drafting lesson plans, with no prompt templates, GenAI training or other [[scaffolding|scaffolding]]; the other class completed the same in-class tasks without GenAI. Outcomes were instructional design performance ([[rubrics|rubric]]-scored lesson plans), AI readiness, [[self-regulated-learning|self-regulated learning]] and [[critical-thinking|critical thinking]], analyzed with pretest-adjusted ANCOVA and within-group paired t-tests. After controlling for pretest scores, the groups did not differ in AI readiness, SRL or critical thinking, but the control group scored higher on instructional design performance, with a substantial effect; both groups improved in design performance and AI readiness, and neither improved in SRL or critical thinking. The most important qualification is the design itself: groups were existing classes, not randomly assigned, so the study cannot establish causal direction.
 
 ## Key Findings
 
-- **Unscaffolded GenAI access did not raise [[teacher-ai-competency|AI readiness]].** With pretest scores as the covariate, the experimental group averaged 4.07 (SD = 0.37) at posttest against 4.11 (SD = 0.37) for the control group, F = 0.198, p = 0.658, η² = 0.004.
-- **Self-regulated learning was unchanged.** Both groups averaged 4.15 at posttest (experimental SD = 0.42, control SD = 0.43), F = 0.001, p = 0.977, η² = 0.000. The authors retained this ANCOVA but interpreted it cautiously because the residuals failed the Shapiro–Wilk normality test (W = 0.908, df = 52, p < 0.001).
-- **Critical thinking was unchanged.** The experimental group averaged 4.04 (SD = 0.43) and the control group 4.05 (SD = 0.42), F = 0.000, p = 0.997, η² = 0.000.
-- **Instructional design performance favored the control group.** The control group averaged 86.90 (SD = 6.67, adjusted M = 86.54, SE = 1.14) against 81.50 (SD = 6.11, adjusted M = 81.87, SE = 1.14) for the experimental group, F = 8.348, p = 0.006, η² = 0.146, which the authors read as a large effect.
-- **Both groups gained in design performance and AI readiness.** Design performance rose from 61.769 (SD = 9.139) to 81.500 (SD = 6.114) in the experimental group (t = −11.443, p < 0.001) and from 64.000 (SD = 8.319) to 86.904 (SD = 6.674) in the control group (t = −15.415, p < 0.001). AI readiness rose from 3.748 (SD = 0.368) to 4.066 (SD = 0.373) in the experimental group (t = −3.274, p = 0.003) and from 3.806 (SD = 0.409) to 4.114 (SD = 0.372) in the control group (t = −2.769, p = 0.010).
-- **Neither group moved on SRL or critical thinking.** Experimental-group SRL went from 4.066 (SD = 0.469) to 4.154 (SD = 0.421), t = −0.736, p = 0.468, and control-group SRL from 4.044 (SD = 0.387) to 4.148 (SD = 0.433), t = −0.978, p = 0.338. Experimental-group critical thinking went from 3.968 (SD = 0.427) to 4.038 (SD = 0.428), t = −0.640, p = 0.528; control-group critical thinking moved from 4.090 (SD = 0.472) to 4.051 (SD = 0.424), t = 0.326, p = 0.747.
+- **Unscaffolded GenAI access did not raise [[teacher-ai-competency|AI readiness]].** With pretest scores controlled, the two groups finished at essentially the same level, so access alone did not build competence.
+- **Self-regulated learning was unchanged.** Both groups finished at the same level, and the authors read the null result cautiously because the residuals failed the normality test.
+- **Critical thinking was unchanged.** The two groups finished at essentially identical levels.
+- **Instructional design performance favored the control group.** The class without GenAI produced higher-scoring lesson plans even after pretest adjustment, a difference the authors read as a large effect.
+- **Both groups gained in design performance and AI readiness.** Each class improved substantially on both measures over the eleven weeks, so the gains cannot be credited to GenAI access.
+- **Neither group moved on SRL or critical thinking.** Scores on both measures stayed flat from pretest to posttest in both classes.
 
 ## How the study was run
 
@@ -56,7 +56,7 @@ For SRL and critical thinking, the authors point to the absence of GenAI-specifi
 - **Do not treat GenAI access as a scaffold.** Permitting GenAI without guidance produced no measurable benefit on any outcome and a lower design score, so decide deliberately what guidance accompanies access rather than assuming exposure builds competence.
 - **Teach when and why to use GenAI, not only how.** The authors' proposed remedy is task-stage-specific direction — clarifying learning goals and GenAI's role at each design stage — so students can recognize its limits as well as its speed.
 - **Expect the cognitive cost of prompting.** Skills like prompt revision consume attention that novices need for subject pedagogy, so budget task time and sequence support accordingly.
-- **Watch for design tasks where AI output may not match the rubric.** GenAI-generated chemistry lesson plans may not reflect the disciplinary logic and assessment criteria the course emphasizes, so check output quality against course standards.
+- **Watch where AI output misses the rubric.** GenAI-generated chemistry lesson plans may not reflect the disciplinary logic and assessment criteria the course emphasizes, so check output quality against course standards.
 
 ## Limitations
 

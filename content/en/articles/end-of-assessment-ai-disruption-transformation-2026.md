@@ -1,4 +1,4 @@
----
+
 title: "The End of Assessment? Disruption and Transformation in the Age of AI"
 created: "2026-08-21T13:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -18,7 +18,7 @@ confidence: medium
 
 ## Key Findings
 
-- **AI as test-taker, test-maker, test-rater, and analyst.** LLMs ([[llm|ChatGPT, Claude, Gemini]]) can complete the same tasks used to evaluate students (essays, [[quantitative-research|quantitative]] problems, code, data analysis) and have excelled on the bar, medical licensing, and SAT. They can also generate items, rubrics, and validity documentation in seconds; score written work with speed and consistency; and synthesize [[governance|institutional]] findings for accreditation — redistributing the interpretive authority once reserved for assessment professionals.
+- **AI as test-taker, test-maker, test-rater, and analyst.** LLMs ([[llm|ChatGPT, Claude, Gemini]]) can complete the same tasks used to evaluate students (essays, [[quantitative-research|quantitative]] problems, code, data analysis) and have excelled on the bar, medical licensing, and SAT. They can also generate items, [[rubrics|rubrics]], and validity documentation in seconds; score written work with speed and consistency; and synthesize [[governance|institutional]] findings for accreditation — redistributing the interpretive authority once reserved for assessment professionals.
 - **Validity is thrown into question.** The authors anchor on [[assessment-validity|Messick's]] (1989) integrative-judgment definition of validity. When AI designs the very measures from which evidence is derived, the interpretive chain becomes opaque: are we assessing a construct grounded in human theory, or one generated from statistical patterns in training data?
 - **Justice is a validity question.** Validity is inseparable from value implications. AI can encode dominant linguistic patterns and rhetorical styles as quality markers — e.g., privileging standardized academic English and misclassifying equally sophisticated reasoning from [[multilingual-learning|multilingual]] or culturally marginalized learners — and AI image generators represent White individuals more accurately than people of color (Yang, 2025). These biases are not just [[ethics|ethical]] concerns but direct threats to validity, connecting to [[bias-mitigation|bias mitigation]] and [[equity-in-ai-education|equity]].
 - **AI literacy becomes assessment literacy.** Where traditional assessment literacy involved rubrics, reliability, and validity, AI literacy extends this to [[prompt-engineering|prompting]], data interpretation, and understanding how generative systems produce evidence. Without it, practitioners, faculty, and students risk becoming passive consumers of algorithmic judgments ([[ai-literacy|AI literacy]]).

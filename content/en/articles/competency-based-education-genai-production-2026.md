@@ -1,4 +1,4 @@
----
+
 title: "Knowledge, skills, attitudes, production: Competency-based education after generative AI"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T10:23:54-04:00"
@@ -43,7 +43,7 @@ The proposal is anchored in [[human-ai-collaboration|human AI collaboration]] an
 
 Several institutions have restructured assessment into two lanes in response to GenAI. The secure lane — proctored exams and in-person work under controlled conditions — has a clear evidentiary interpretation: it certifies what the student knows and can do unaided, and is appropriate for knowledge and some skills. The open lane, where students may use GenAI and other resources, has had no clear interpretation: institutions could say what it is *for* (developing GenAI-integrated work) but not what an open-lane grade is *evidence of*.
 
-Production supplies that missing interpretation: the open lane certifies production. This yields two advantages. First, it completes an architecture institutions are already adopting, giving the open lane's rubrics a principled basis. Second, it enforces a separation the two-lane structure implies but cannot state on its own — each lane certifies a distinct class of attributes, and neither should be read as certifying the other. A secure exam alone is not evidence of production, and an open-lane project is not evidence of unaided knowledge or skill. The classification follows the conditions of assessment rather than what any individual student did under them: a student permitted to use GenAI who declines has still produced open-lane evidence, because non-use cannot be verified and deciding to delegate nothing is itself a direction decision. This has direct implications for [[remote-proctoring|remote proctoring]] and for how [[automated-assessment|automated assessment]] instruments are interpreted.
+Production supplies that missing interpretation: the open lane certifies production. This yields two advantages. First, it completes an architecture institutions are already adopting, giving the open lane's [[rubrics|rubrics]] a principled basis. Second, it enforces a separation the two-lane structure implies but cannot state on its own — each lane certifies a distinct class of attributes, and neither should be read as certifying the other. A secure exam alone is not evidence of production, and an open-lane project is not evidence of unaided knowledge or skill. The classification follows the conditions of assessment rather than what any individual student did under them: a student permitted to use GenAI who declines has still produced open-lane evidence, because non-use cannot be verified and deciding to delegate nothing is itself a direction decision. This has direct implications for [[remote-proctoring|remote proctoring]] and for how [[automated-assessment|automated assessment]] instruments are interpreted.
 
 ## Implementation without new infrastructure
 

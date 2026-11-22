@@ -1,4 +1,4 @@
----
+
 title: "DeepTutor: Towards Agentic Personalized Tutoring"
 created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-20T17:36:00-04:00"
@@ -60,7 +60,7 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring|intelligent tutorin
 - **Designers.** Store reasoning traces rather than scalar mastery scores: the three-level trace forest is what lets agents retrieve evidence for a diagnosis.
 - **Designers.** Separate the validator from the generator so it shares no reasoning chain and runs sandboxed code execution; otherwise self-confirming errors pass as verification.
 - **Designers.** Budget for inference cost: the multi-stage pipeline trades additional inference cost for stronger controllability and personalization.
-- **Researchers.** Evaluate with profile-driven student simulators and personalized rubrics rather than generic pedagogical checklists, and report the results as simulation-bound until human learners are studied.
+- **Researchers.** Evaluate with profile-driven student simulators and personalized [[rubrics|rubrics]] rather than generic pedagogical checklists, and report the results as simulation-bound until human learners are studied.
 
 ## Limitations
 

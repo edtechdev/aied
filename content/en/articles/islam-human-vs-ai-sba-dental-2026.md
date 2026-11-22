@@ -1,4 +1,4 @@
----
+
 title: "Comparison of human versus AI-Assisted workflows for developing structured clinical single-best-answer questions in dental education"
 published: "2026-11-13"
 created: "2026-11-16T10:20:00-05:00"
@@ -28,8 +28,8 @@ evidence_context: educational
 
 ## Key Findings
 - **Eight faculty, 300 items, 150 matched pairs.** Experienced item writers at Fatima Jinnah Dental College (mean teaching and assessment experience approximately 7 years) each produced two questions per assigned learning objective, one manually and one through the platform, with the generation order counterbalanced to limit priming.
-- **Recorded finalization time dropped from 6.0 minutes to 1.0 minute per item.** Manual items averaged 6.0 min (SD 1.2; median 6.0, IQR 5.5–6.4) against 1.0 min (SD 1.4; median 1.0, IQR 0.9–1.2), an estimated 5.1 fewer minutes per item (95% CI 4.6 to 5.7; Cohen's d = 3.79; p < 0.001) from a linear mixed-effects model clustering items within faculty.
-- **Blinded expert quality ratings rose from 4.1 ± 0.8 to 4.7 ± 0.7.** The estimated mean difference was 0.65 points (95% CI 0.33 to 0.97; Cohen's d = 0.81; p < 0.001), with strong agreement among the three reviewers (ICC 0.83; 95% CI 0.78–0.87) rating content accuracy, clinical relevance, clarity, and distractor plausibility.
+- **Recorded finalization time dropped from 6.0 minutes to 1.0 minute per item.** Manual items averaged 6.0 minutes against 1.0 minute for platform items, an estimated saving of about five minutes per item from a model clustering items within faculty.
+- **Blinded expert quality ratings rose from 4.1 to 4.7 on a five-point scale.** Reviewers agreed strongly while rating content accuracy, clinical relevance, clarity, and distractor plausibility.
 - **Platform items landed in the acceptable difficulty band more often: 96% versus 80%.** Mean difficulty was 0.40 for platform items (144/150 within 0.30–0.70) against 0.46 for manual items (120/150 within range); the study reports this comparison descriptively and did not test it.
 - **Discrimination was slightly lower for platform items but met threshold more often.** Mean point-biserial discrimination was 0.24 for platform items, with 94% (141/150) at or above 0.20, versus 0.26 for manual items, with 81% (121/150) meeting the threshold; again, no formal test was run.
 - **Functional distractors were marginally more common in platform items.** Of 450 distractors per workflow, 369 platform distractors (82%; 95% CI 78% to 85%) and 360 manual distractors (80%; 95% CI 76% to 83%) were selected by more than 5% of students.
@@ -55,7 +55,7 @@ The authors are unusually careful about what the design licenses. Quality compar
 
 - **Clinical faculty.** Draft inside a fixed item template against a named source text, then verify the key and every distractor against that text before the item leaves your hands; the measured saving sits in a one-minute review pass, not in skipping the review.
 - **Assessment designers.** Cost the workflow honestly before promising a time saving: upload, generation latency, failed generations, and abandoned drafts all sit outside the 5.1-minute figure, so pilot the full cycle and count the discards.
-- **Faculty developers.** Build the review apparatus first — a small rubric across content accuracy, clinical relevance, clarity, and distractor plausibility, plus a calibration set scored by the people who will rate items — since reviewer agreement (ICC 0.83) is what made the quality comparison interpretable.
+- **Faculty developers.** Build the review apparatus first — a small [[rubrics|rubric]] across content accuracy, clinical relevance, clarity, and distractor plausibility, plus a calibration set scored by the people who will rate items — since reviewer agreement (ICC 0.83) is what made the quality comparison interpretable.
 - **Program directors.** Track difficulty, discrimination, and distractor function on the first cohorts that sit AI-drafted items, because the pooled discrimination mean moved in the less favorable direction even as threshold compliance improved.
 
 ## Limitations

@@ -1,4 +1,4 @@
----
+
 title: "When AI Agents Can Complete the Assignment: Practical Strategies for Designing Tasks That Still Require Human Thinking"
 created: "2026-09-20T16:21:27-04:00"
 updated: "2026-11-12T16:20:00-05:00"
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 ## What agents can already do to an assignment
 
-The pressure point is precise: faculty see work meeting every rubric criterion with no evidence of the [[critical-thinking|critical thinking]] learning requires — "The products look right. The process is absent." Agents inspect files, follow multi-step instructions, revise outputs and run checks with minimal human intervention; Austin cites a demonstration in which ChatGPT completed a semester-long [[engineering-education|engineering]] under a minimal-effort protocol and earned a passing grade. Three assignment categories collapse: information retrieval, surface polish, and — most damagingly — tasks with no decision history, since identical products can emerge from different reasoning pathways, and the pathway is where learning occurs. Detection cannot help: it judges the product and misfires in both directions.
+The pressure point is precise: faculty see work meeting every [[rubrics|rubric]] criterion with no evidence of the [[critical-thinking|critical thinking]] learning requires — "The products look right. The process is absent." Agents inspect files, follow multi-step instructions, revise outputs and run checks with minimal human intervention; Austin cites a demonstration in which ChatGPT completed a semester-long [[engineering-education|engineering]] under a minimal-effort protocol and earned a passing grade. Three assignment categories collapse: information retrieval, surface polish, and — most damagingly — tasks with no decision history, since identical products can emerge from different reasoning pathways, and the pathway is where learning occurs. Detection cannot help: it judges the product and misfires in both directions.
 
 ## Redesigning tasks around agent failure modes
 
@@ -40,10 +40,10 @@ Assessment here grades the reasoning trail rather than the output, and the five-
 
 ## What this means for practice
 
-- Audit for decision history first: a task graded only on its final product cannot distinguish reasoned work from an accepted AI response.
-- Convert retrieval and polish-graded tasks into staged protocols with a pre-commitment, a documented decision pivot, and a counterfactual reflection a generic agent cannot align with.
-- Grade the reasoning trail and reward transparency: pasting AI output verbatim should raise a student's grade, not lower it.
-- Address course, assignment and [[assessment|assessment design]] together; Austin grounds the protocol in UnBlooms™, Understanding by Design, and Rogers' diffusion criteria.
+- **Instructors.** Audit for decision history first: a task graded only on its final product cannot distinguish reasoned work from an accepted AI response.
+- **Instructors.** Convert retrieval and polish-graded tasks into staged protocols with a pre-commitment, a documented decision pivot, and a counterfactual reflection a generic agent cannot align with.
+- **Assessment designers.** Grade the reasoning trail and reward transparency: pasting AI output verbatim should raise a student's grade, not lower it.
+- **Programme designers.** Address course, assignment and [[assessment|assessment design]] together; Austin grounds the protocol in UnBlooms™, Understanding by Design, and Rogers' diffusion criteria.
 
 ## Limitations
 

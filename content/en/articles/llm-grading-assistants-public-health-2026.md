@@ -1,4 +1,4 @@
----
+
 title: "Large language models as grading assistants in public health education: a method-comparison study of essay-style exam assessment"
 created: "2026-09-30T11:13:23-04:00"
 updated: "2026-10-31T15:46:10-04:00"
@@ -46,7 +46,7 @@ All models received the identical prompt, the same examiner guidelines (written 
 
 The near-identical average numeric grade—3.63 for human graders against 3.73 for the five ChatGPT parallels, a non-significant difference—concealed the disagreement that the Bland-Altman plot exposed. ChatGPT graded more favorably than the humans at the low end of the scale and slightly less favorably at the high end, so the near-zero mean difference cannot be read as close agreement at the level of an individual submission.
 
-The authors compare their 50.0% exact match with the 35% reported for GPT-4 on a political science essay exam and call it a modest improvement. They also report that the broad-stroke guidelines they used contained no detailed grade mapping or rubrics, which they suggest may have limited how fully the models used the scale. Their practical recommendation is to treat the average or median of multiple assessments as the more prudent basis for real-world [[automated-assessment|automated assessment]], and to treat LLM grading as a supervised assistant rather than an autonomous grader.
+The authors compare their 50.0% exact match with the 35% reported for GPT-4 on a political science essay exam and call it a modest improvement. They also report that the broad-stroke guidelines they used contained no detailed grade mapping or [[rubrics|rubrics]], which they suggest may have limited how fully the models used the scale. Their practical recommendation is to treat the average or median of multiple assessments as the more prudent basis for real-world [[automated-assessment|automated assessment]], and to treat LLM grading as a supervised assistant rather than an autonomous grader.
 
 ## What this means for practice
 

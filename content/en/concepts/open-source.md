@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T12:23:33-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -44,6 +44,8 @@ OmniEdu releases the whole pipeline rather than just weights: capability-balance
 ## Open tools, tutors, and research infrastructure
 
 The clearest case for open code is replication. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] — the first fully open adaptive tutoring system built on ITS principles — pairs an **MIT-licensed codebase** with a **Creative Commons (CC BY) content library** from OpenStax algebra textbooks, plus [[knowledge-tracing|knowledge tracing]], A/B testing, and LTI support. Its explicit design goal is that a researcher can run an experiment and then publish the entire end-to-end framework, content, and platform as a repository link. [[stanbkt-bayesian-knowledge-tracing|StanBKT]] makes the same argument at the method layer, replacing expectation-maximization point estimates with full Bayesian inference (HMC, variational inference, Pathfinder, optimization) in an open Python package that exposes the uncertainty A/B comparisons of adaptive interventions depend on. [[deeptutor]] releases a complete [[agentic-ai|agentic]] tutoring framework with a trace-forest learner memory under Apache 2.0, and by late 2026 it is a full learning workspace rather than only the pipelines its paper benchmarks. [[mooc-to-maic|MAIC]]'s classroom generator OpenMAIC ships under MIT alongside the study that evaluates it, so a course can be generated, self-hosted and inspected rather than only read about. [[vismatic-secure-sandbox-cs-education|VISMATIC]] publishes its containerized sandbox for process-oriented monitoring, so other institutions can adopt the integrity model rather than the vendor's version of it. Open code also carries the transparency burden: the scripts for [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]'s affect-aware tutoring prompts are published for inspection and further [[llm-training-and-fine-tuning|pedagogical training]] work. Open infrastructure sets the reference point for what educational agents should do: the [[agentic-ai-education-scoping-review|scoping review of 474 agentic-AI studies]] uses a fast-growing open-source agent project as its "frontier agent paradigm" benchmark and finds educational systems still lacking governed tool orchestration, persistent memory, long-horizon planning, and auditable action.
+
+[[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] is the released-infrastructure case: Apache 2.0, past v1.6 by late 2026, exposing the same capabilities through a `deeptutor` CLI, an inspectable trace forest and an EduHub skill distribution rather than only a paper.
 
 ## Open benchmarks, datasets, and method transparency
 

@@ -1,4 +1,4 @@
----
+
 title: "Control or Support: Early Student Perceptions of Generative AI in a Course on Grading"
 created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-12T18:45:00-05:00"
@@ -38,7 +38,7 @@ verified: [citation, numbers]
 
 ## The course and the assignment
 
-The course was an Honors seminar on grading in higher education, taught in fall 2023 to juniors and seniors from varied majors. Its premise was that grades function simultaneously as mechanisms of control and as support for learning. Students first read contemporary instructor commentary on AI — two widely circulated Chronicle of Higher Education pieces, one framing ChatGPT as a plagiarism machine and one arguing that AI means professors must raise grading standards — and then examined education-specific tools, including Packback for discussion forums and a locally developed rubric-based essay feedback tool called Charlie.
+The course was an Honors seminar on grading in higher education, taught in fall 2023 to juniors and seniors from varied majors. Its premise was that grades function simultaneously as mechanisms of control and as support for learning. Students first read contemporary instructor commentary on AI — two widely circulated Chronicle of Higher Education pieces, one framing ChatGPT as a plagiarism machine and one arguing that AI means professors must raise grading standards — and then examined education-specific tools, including Packback for discussion forums and a locally developed [[rubrics|rubric]]-based essay feedback tool called Charlie.
 
 The interview assignment asked students to develop questions about grades with a peer, then conduct a real interview. AI entered in two ways: students could use it to draft and sharpen questions, and they could ask it to simulate a student interviewee, with prompts they designed themselves. Guberman deliberately left prompting open so that students would compare tools and prompts in their reflections. Nine of the 11 students chose to use AI, all of them ChatGPT.
 
@@ -62,9 +62,9 @@ The following summer, Guberman applied the findings in an online asynchronous ge
 
 - **Explain the policy, not just the rule.** Students experience an unexplained ban as control; a rationale plus a chance to experiment supports autonomy.
 - **Use AI simulation as a contrast case.** Asking students to compare AI answers with a real interview exposes what the model flattens, which is itself a lesson about the technology.
-- **Treat feedback scarcity as the reason AI feedback appeals.** The demand for AI comments is a signal about workload and response time, not proof that AI feedback is good.
+- **Instructors.** Treat feedback scarcity as the reason AI feedback appeals. The demand for AI comments is a signal about workload and response time, not proof that AI feedback is good.
 - **Distinguish shortcuts from thinking.** Name which parts of a task are busy work and which carry the learning, and design AI use around that distinction.
-- **Adapt the assignment, not just the syllabus language.** The later interventions changed what students produced and reflected on, which is where the control–support distinction becomes concrete.
+- **Instructors.** Adapt the assignment, not just the syllabus language. The later interventions changed what students produced and reflected on, which is where the control–support distinction becomes concrete.
 
 ## Limitations
 

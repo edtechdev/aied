@@ -1,4 +1,4 @@
----
+
 title: "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions"
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-19T08:58:00-04:00"
@@ -23,7 +23,7 @@ LLM-generated educational questions show varying cognitive depth; models excel a
 - **Instructors.** Do not assume that a model which can classify a Bloom level can generate at that level: classification accuracy and Bloom-level consistency were negatively correlated, with most models performing best on "Apply" while misclassifying "Analyze" and "Create".
 - **Instructors.** Use fine-grained [[prompt-engineering|prompting]] rather than chain-of-thought when you need questions at a specified cognitive level: fine-grained prompting raised question [[usability-research|usability]] and Bloom-level consistency and coverage across all six models, while chain-of-thought left more redundancy.
 - **Instructors.** Screen for upward drift before assigning generated questions: CogLeap — questions generated above the intended level — exceeded 44% of mismatched instances under chain-of-thought for every model, reaching 54.87% for LLaMA-3-8B, an abstraction bias the authors warn may overload learners.
-- **Software developers.** Automate screening but not the final judgment: the automated rubric agreed with expert annotations on uniqueness (90.75%), readability (98.08%), and answerability (95.83%), while Bloom-level agreement was only 46.58%.
+- **Software developers.** Automate screening but not the final judgment: the automated [[rubrics|rubric]] agreed with expert annotations on uniqueness (90.75%), readability (98.08%), and answerability (95.83%), while Bloom-level agreement was only 46.58%.
 - **Researchers.** Track knowledge coverage alongside cognitive level: knowledge-identification accuracy was consistently associated with coverage of the intended knowledge units, which makes identification quality part of the question-generation pipeline rather than a side task.
 
 ## Limitations

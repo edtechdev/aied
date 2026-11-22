@@ -1,4 +1,4 @@
----
+
 title: "Towards trustworthy and explainable-by-design large language models for automated teacher assessment"
 created: "2026-09-18T05:10:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
@@ -19,7 +19,7 @@ sources: ['raw/papers/li-explainable-trustworthy-llm-teacher-assessment-2025.md'
 confidence: high
 ---
 
-> **Synthesis:** Li, Yang and Fang propose an explainable-by-design framework for automated [[teacher-role|teacher]] assessment that deliberately embeds [[trust|trust]] controls in the inference path instead of adding them afterwards. Three modules do the work: Dual-Lens Hierarchical Attention, where a global lens attends over curriculum standards and a local lens over [[discipline-specific-aied|subject-specific]] rubric moves; Trust-Gated Inference, combining Monte Carlo dropout calibration with adversarial [[bias-mitigation|debiasing]]; and an On-the-Spot Explanation generator that is parameterized by the same fused representation and predicted score used to make the [[assessment|assessment]] decision. On TeacherEval-2023 the system reports 82.4% inter-rater consistency, an explanation credibility score of 0.78, a 1.8% fairness gap, and expected calibration error of 0.032, with attention-to-rubric alignment at 78% against 32% for the strongest baseline, and a 41% reduction in [[human-in-the-loop-ai|human review]] workload.
+> **Synthesis:** Li, Yang and Fang propose an explainable-by-design framework for automated [[teacher-role|teacher]] assessment that deliberately embeds [[trust|trust]] controls in the inference path instead of adding them afterwards. Three modules do the work: Dual-Lens Hierarchical Attention, where a global lens attends over curriculum standards and a local lens over [[discipline-specific-aied|subject-specific]] [[rubrics|rubric]] moves; Trust-Gated Inference, combining Monte Carlo dropout calibration with adversarial [[bias-mitigation|debiasing]]; and an On-the-Spot Explanation generator that is parameterized by the same fused representation and predicted score used to make the [[assessment|assessment]] decision. On TeacherEval-2023 the system reports 82.4% inter-rater consistency, an explanation credibility score of 0.78, a 1.8% fairness gap, and expected calibration error of 0.032, with attention-to-rubric alignment at 78% against 32% for the strongest baseline, and a 41% reduction in [[human-in-the-loop-ai|human review]] workload.
 
 ## Key Findings
 

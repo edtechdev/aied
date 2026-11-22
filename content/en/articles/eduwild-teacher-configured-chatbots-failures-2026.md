@@ -1,4 +1,4 @@
----
+
 title: "EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them"
 created: "2026-10-19T09:20:00-04:00"
 updated: "2026-10-19T09:20:00-04:00"
@@ -29,7 +29,7 @@ source_depth: full text
 
 1. Skipped or missing workflow steps were the most frequent failure, appearing in 484 of 900 end-user conversations (53.8%), more than five times the rate of incorrect content (10.1%).
 2. Bots also failed to establish their role and scope at the start (33.4%) and overloaded learners with information or multiple questions in one turn (37.1% combined).
-3. The 29-code taxonomy organizes failures into factual, workflow, diagnostic, and pedagogical categories, each judged against the teacher's own system prompt rather than a generic rubric.
+3. The 29-code taxonomy organizes failures into factual, workflow, diagnostic, and pedagogical categories, each judged against the teacher's own system prompt rather than a generic [[rubrics|rubric]].
 4. Two authors independently coded a 45-conversation sample at Cohen's κ = 0.71; the calibrated GPT-5.6-Sol judge reached κ = 0.85 on the same held-out sample and labeled the remainder.
 5. The harness adds six failure-specific prompts to the original teacher prompt, opens with a brief self-introduction, and caches extracted learner requirements with supporting quotes.
 6. With 200 college students across ten bots, mean distinct target failure codes per conversation dropped from 1.406 to 0.489, a 65.2% relative reduction with bots weighted equally.

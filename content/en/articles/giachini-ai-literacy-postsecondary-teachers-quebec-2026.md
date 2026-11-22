@@ -1,4 +1,4 @@
----
+
 title: "Artificial Intelligence Literacy and Professional Practice of Post-Secondary Teachers in Quebec"
 created: "2026-11-10T18:19:20-05:00"
 updated: "2026-11-10T18:30:00-05:00"
@@ -46,7 +46,7 @@ The design is [[mixed-methods-research|mixed methods]]: a questionnaire answered
 
 ## Professional use without pedagogical use
 
-The situations teachers described were overwhelmingly preparatory. Beyond the 74.5% tied to lessons and materials, categories ran to plagiarism prevention and counterexamples (6.8%), rubrics and feedback (6.1%), administrative writing such as letters and reports (7.9%), and text revision (7.7%). The reasons follow the same logic: after time-saving, more variety and productivity, inspiration, and a feeling of incompetence that AI complements. The authors read this through the [[technology-acceptance-model|Technology Acceptance Model]] and UTAUT, concluding that perceived usefulness — with ease of use a distant second — organizes adoption here. The interviews sharpen it: hesitation about classroom use tracked missing competence and training in discipline-specific AI use, not principled refusal, and the [[teacher-role|teacher's role]] in this evidence is still largely preparation and administration. That is a narrower picture than the workflow transformation the wider literature describes, and it suggests adoption can be broad in professional practice while barely touching [[pedagogy|pedagogy]].
+The situations teachers described were overwhelmingly preparatory. Beyond the 74.5% tied to lessons and materials, categories ran to plagiarism prevention and counterexamples (6.8%), [[rubrics|rubrics]] and feedback (6.1%), administrative writing such as letters and reports (7.9%), and text revision (7.7%). The reasons follow the same logic: after time-saving, more variety and productivity, inspiration, and a feeling of incompetence that AI complements. The authors read this through the [[technology-acceptance-model|Technology Acceptance Model]] and UTAUT, concluding that perceived usefulness — with ease of use a distant second — organizes adoption here. The interviews sharpen it: hesitation about classroom use tracked missing competence and training in discipline-specific AI use, not principled refusal, and the [[teacher-role|teacher's role]] in this evidence is still largely preparation and administration. That is a narrower picture than the workflow transformation the wider literature describes, and it suggests adoption can be broad in professional practice while barely touching [[pedagogy|pedagogy]].
 
 ## A technical gap, unevenly distributed
 

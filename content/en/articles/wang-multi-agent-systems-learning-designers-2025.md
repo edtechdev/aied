@@ -1,4 +1,4 @@
----
+
 title: "Enabling multi-agent systems as learning designers: applying learning sciences to AI instructional design"
 created: "2026-09-24T02:23:32-04:00"
 updated: "2026-09-24T05:17:09-04:00"
@@ -23,12 +23,12 @@ level: [k 12]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Wang, Xiao, Hou, and Stamper (2025) treat weak [[llm|LLM]]-generated instructional materials as a design problem rather than a prompting problem, moving [[pedagogy|pedagogical]] expertise out of the [[teacher-role|teacher]]'s prompt and into the model's architecture. They embed the Knowledge-Learning-Instruction (KLI) framework in a [[agentic-ai|multi-agent]] system and compare a single-agent baseline, a role-based system that runs the KLI stages in sequence, and a collaborative system where three agents with different [[curriculum-design|curriculum design]] personas draft, critique, and revise before a decision agent selects a final activity. Twenty practicing secondary math and science teachers rated 30 activities against the Quality Matters [[k-12]] standards. Rubric differences were small, but teachers preferred the collaborative system for [[creativity|creativity]], real-world context, and classroom readiness at far higher computational cost.
+> **Synthesis:** Wang, Xiao, Hou, and Stamper (2025) treat weak [[llm|LLM]]-generated instructional materials as a design problem rather than a prompting problem, moving [[pedagogy|pedagogical]] expertise out of the [[teacher-role|teacher]]'s prompt and into the model's architecture. They embed the Knowledge-Learning-Instruction (KLI) framework in a [[agentic-ai|multi-agent]] system and compare a single-agent baseline, a role-based system that runs the KLI stages in sequence, and a collaborative system where three agents with different [[curriculum-design|curriculum design]] personas draft, critique, and revise before a decision agent selects a final activity. Twenty practicing secondary math and science teachers rated 30 activities against the Quality Matters [[k-12]] standards. [[rubrics|Rubric]] differences were small, but teachers preferred the collaborative system for [[creativity|creativity]], real-world context, and classroom readiness at far higher computational cost.
 
 ## Key Findings
 
 - **The prompting gap motivates the architecture.** A survey of 2,232 public-school teachers found 60 percent already used AI for teaching tasks, yet unguided prompts produce shallow, misaligned materials that reviewers called "a mile high and an inch deep."
-- **Teachers rated the collaborative system highest** on all four Quality Matters criteria and the total score (10.05 against 9.55), but **only [[active-learning|active learning]] reached significance**, F(2, 38) = 4.75, p = .014, and there against only the role-based system.
+- **Teachers rated the collaborative system highest** on all four Quality Matters criteria and the total score, but **only [[active-learning|active learning]] reached significance**, and there only against the role-based system.
 - **Expert agreement was weak**: Fleiss' kappa was 0.047 and 0.053 on two criteria, -0.030 and -0.043 on the others, and -0.016 pooled, which the authors read as rubrics missing what teachers value.
 - **The collaborative system cost far more**: 272 seconds, about 71,638 tokens, and 13 requests per activity against one for the baseline, while the LLM judge separated systems by at most 0.7 points and saturated on alignment and inclusivity.
 - **The role-based pipeline scored lowest**, so collaboration between agents, not the presence of agents, mattered.
@@ -50,9 +50,9 @@ Time, tokens, and requests rise steeply from the baseline through the sequential
 ## What this means for practice
 
 - **Put the pedagogy in the tool, not the prompt.** A pipeline that carries instructional theory lets the 60 percent of teachers already using AI generate sound activities without the [[prompt-engineering|prompt engineering]] skill most lack.
-- **Judge materials by teacher utility, not only rubric alignment.** Teachers valued complete packages with worksheets, exit tickets, and teacher dialogue; alignment scores did not separate the systems, and the most common critique was that activities were too much for one period.
-- **Keep expert teachers in the loop, and budget for cost.** An automated judge missed what teachers named, and the preferred design used about ten times the time and twenty times the tokens of the baseline.
-- **Read design quality and teaching quality as separate targets.** The paper implements the principled-AI agenda of augmenting [[learning-sciences|the learning sciences]], unlike teaching [[benchmark|benchmarks]] such as TeachBench, which score instructional ability.
+- **Curriculum designers.** Judge materials by teacher utility, not only rubric alignment: teachers valued complete packages with worksheets, exit tickets, and teacher dialogue; alignment scores did not separate the systems, and the most common critique was that activities were too much for one period.
+- **Administrators.** Keep expert teachers in the loop, and budget for cost: an automated judge missed what teachers named, and the preferred design used about ten times the time and twenty times the tokens of the baseline.
+- **Researchers.** Read design quality and teaching quality as separate targets: the paper implements the principled-AI agenda of augmenting [[learning-sciences|the learning sciences]], unlike teaching [[benchmark|benchmarks]] such as TeachBench, which score instructional ability.
 
 ## Limitations
 

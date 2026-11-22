@@ -1,4 +1,4 @@
----
+
 title: "Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams"
 created: "2026-11-11T09:12:03-05:00"
 updated: "2026-11-11T09:14:54-05:00"
@@ -27,7 +27,7 @@ ai_assist:
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Can an agentic coding tool grade a stack of scanned handwritten exams as reliably as the instructor who set them? AlGhamdi gave 60 consenting students' 20-mark mid-term papers from a Saudi computer graphics course to Claude Code — an agentic deployment of Claude Opus 4.6 with three rubric files for the marking scheme, the grading rules and the output format — and compared its marks with his own. Agreement on totals was r = 0.97 with a mean absolute error of 0.85 marks, a mean AI-positive bias of 0.68 marks, and test-retest ICC = 0.96 across two sessions a week apart. The [[automated-assessment|reliability profile]] is more interesting than the headline: weighted kappa ran from 0.98 on multiple choice to 0.65 on evaluative items, and hand-drawn diagram questions reached only 55% exact agreement. The author's conclusion is that [[agentic-ai|agentic]] grading is ready to assist on objective and short-form items under review, but not to replace [[evaluative-judgment|instructor judgment]] at boundaries or on drawings.
+> **Synthesis:** Can an agentic coding tool grade a stack of scanned handwritten exams as reliably as the instructor who set them? AlGhamdi gave 60 consenting students' 20-mark mid-term papers from a Saudi computer graphics course to Claude Code — an agentic deployment of Claude Opus 4.6 with three [[rubrics|rubric]] files for the marking scheme, the grading rules and the output format — and compared its marks with his own. Agreement on totals was very strong, with a mean absolute error under one mark, a small AI-positive bias, and near-perfect test-retest consistency across two sessions a week apart. The [[automated-assessment|reliability profile]] is more interesting than the headline: weighted kappa ran from 0.98 on multiple choice to 0.65 on evaluative items, and hand-drawn diagram questions reached only 55% exact agreement. The author's conclusion is that [[agentic-ai|agentic]] grading is ready to assist on objective and short-form items under review, but not to replace [[evaluative-judgment|instructor judgment]] at boundaries or on drawings.
 
 ## Key Findings
 
@@ -55,10 +55,10 @@ The companion study of student perspectives ([[student-perspectives-ai-writing-g
 
 ## What this means for practice
 
-- **Instructors:** Use AI grading first on multiple choice and short-answer items, and keep the reasoning-heavy items. Agreement fell from 0.98 to 0.65 across that span in this exam.
-- **Instructors:** Review the boundary cases rather than every paper. The mean bias of 0.68 marks is small on a 20-mark paper, but the 95% limits of agreement span nearly three marks, which is where grade boundaries move.
-- **Assessment designers:** Do not assume hand-drawn work is gradeable from a scan. Diagram items had the lowest exact agreement (55%) and the widest consistency interval, and the paper names region-of-attention drift as the cause.
-- **Administrators:** Keep an instructor sign-off in the workflow. This design had AI grades reviewed before entering the record; the reliability evidence supports assistance, and the author explicitly does not claim it supports unsupervised deployment.
+- **Instructors.** Use AI grading first on multiple choice and short-answer items, and keep the reasoning-heavy items. Agreement fell from 0.98 to 0.65 across that span in this exam.
+- **Instructors.** Review the boundary cases rather than every paper. The mean bias of 0.68 marks is small on a 20-mark paper, but the 95% limits of agreement span nearly three marks, which is where grade boundaries move.
+- **Assessment designers.** Do not assume hand-drawn work is gradeable from a scan. Diagram items had the lowest exact agreement (55%) and the widest consistency interval, and the paper names region-of-attention drift as the cause.
+- **Administrators.** Keep an instructor sign-off in the workflow. This design had AI grades reviewed before entering the record; the reliability evidence supports assistance, and the author explicitly does not claim it supports unsupervised deployment.
 
 ## Limitations
 

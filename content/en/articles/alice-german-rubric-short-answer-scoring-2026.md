@@ -1,4 +1,4 @@
----
+
 title: "Alice: A Large-Scale German Benchmark for Rubric-Based Multi-Dimensional Automatic Short Answer Scoring"
 created: "2026-10-08T09:15:00-04:00"
 updated: "2026-10-08T09:15:00-04:00"
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** The ALICE benchmark from Sun and colleagues at the DIPF and IPN Leibniz institutes reframes [[automated-assessment|automatic short answer scoring]] as a [[benchmark|benchmark]] built from real [[science-education|science education]] classroom answers. Its 16,572 German student responses to 112 questions carry [[teacher-role|teacher]]-designed rubrics at three levels: overall learning performance, mastery of individual knowledge elements, and the presence of epistemic skills such as reasoning or claim formulation. The authors contrast three ways to score an answer — sequence classification, zero-shot [[llm|LLM]] prompting, and rubric-retrieval, in which the model picks the best-matching rubric item for each response. [[educational-nlp|Educational NLP]] encoders and [[machine-learning|machine learning]] classifiers do the scoring; rubric-retrieval generalises best to unseen questions, and lightweight decoder-based encoders edge out masked language models. ALICE is genuinely hard: even the strongest systems trail human agreement on the fine-grained knowledge-element and skill subtasks, and one-shot prompting closes the gap only on the easiest subtask.
+> **Synthesis:** The ALICE benchmark from Sun and colleagues at the DIPF and IPN Leibniz institutes reframes [[automated-assessment|automatic short answer scoring]] as a [[benchmark|benchmark]] built from real [[science-education|science education]] classroom answers. Its 16,572 German student responses to 112 questions carry [[teacher-role|teacher]]-designed [[rubrics|rubrics]] at three levels: overall learning performance, mastery of individual knowledge elements, and the presence of epistemic skills such as reasoning or claim formulation. The authors contrast three ways to score an answer — sequence classification, zero-shot [[llm|LLM]] prompting, and rubric-retrieval, in which the model picks the best-matching rubric item for each response. [[educational-nlp|Educational NLP]] encoders and [[machine-learning|machine learning]] classifiers do the scoring; rubric-retrieval generalises best to unseen questions, and lightweight decoder-based encoders edge out masked language models. ALICE is genuinely hard: even the strongest systems trail human agreement on the fine-grained knowledge-element and skill subtasks, and one-shot prompting closes the gap only on the easiest subtask.
 
 ## Key Findings
 1. **A large, rubric-annotated German corpus.** ALICE holds 16,572 student answers to 112 scientific-education questions, expanded from the earlier ALICE-LP 1.1 release of about 13K answers across 117 questions, with new knowledge-element and skill annotations.

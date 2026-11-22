@@ -1,4 +1,4 @@
----
+
 title: "Making AI-generated feedback matter: From provision to student enactment"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-21T11:30:46-04:00"
@@ -22,7 +22,7 @@ Feedback value depends on two distinct challenges: providing high-quality, timel
 
 ## The Three Workflows
 
-The study compares three theoretically distinct AI-mediated feedback workflows implemented at the platform level within RiPPLE, holding the authoring task, moderation rubric, and quality criteria constant across conditions:
+The study compares three theoretically distinct AI-mediated feedback workflows implemented at the platform level within RiPPLE, holding the authoring task, moderation [[rubrics|rubric]], and quality criteria constant across conditions:
 
 - **Directed Feedback (n=3,723):** students received a one-time set of static AI-generated feedback comments without structured support for their use and with no dialogic pathway.
 - **Self-Directed Feedback (n=3,951):** students could initiate optional, student-initiated AI-supported dialogue, but no feedback comments were generated and no prompt structured engagement.

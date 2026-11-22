@@ -1,4 +1,4 @@
----
+
 title: "Impact of automated scoring on interpreting performance and self-regulated learning: evidence from a pedagogical experiment"
 created: "2026-09-23T13:05:00-04:00"
 updated: "2026-09-23T13:05:00-04:00"
@@ -26,15 +26,15 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Chen and Liu (2026) ask what automated scoring does inside a real interpreting classroom. Over 14 weeks, 46 English Translation and Interpreting sophomores either submitted weekly renditions to the Yunyi system, which returned an immediate score, transcript, marked errors, and a reference rendition, or followed the same [[curriculum-design|curriculum]] with only collective [[teacher-role|teacher]] feedback. The automated group improved more overall (d = 1.03), but the gain stayed on the surface of language: [[automated-assessment|linguistic accuracy]] and logical coherence rose, while information fidelity and delivery fluency did not move. [[self-regulated-learning|Self-regulated learning]] was uneven in a matching way, with monitoring during practice correlating with score gains (r = 0.42) while planning and emotional motivation stayed near the scale midpoint. Interviews with seven students show learners comparing scores without analyzing causes, setting goals from the previous score, and meeting low scores with [[anxiety-and-stress|anxiety]], avoidance, or deferral. The tool reached the performance phase of the cycle, not the planning that precedes it.
+> **Synthesis:** Chen and Liu (2026) ask what automated scoring does inside a real interpreting classroom. Over 14 weeks, 46 English Translation and Interpreting sophomores either submitted weekly renditions to the Yunyi system, which returned an immediate score, transcript, marked errors, and a reference rendition, or followed the same [[curriculum-design|curriculum]] with only collective [[teacher-role|teacher]] feedback. The automated group improved more overall, but the gain stayed on the surface of language: [[automated-assessment|linguistic accuracy]] and logical coherence rose, while information fidelity and delivery fluency did not move. [[self-regulated-learning|Self-regulated learning]] was uneven in a matching way, with monitoring during practice correlating with score gains while planning and emotional motivation stayed near the scale midpoint. Interviews with seven students show learners comparing scores without analyzing causes, setting goals from the previous score, and meeting low scores with [[anxiety-and-stress|anxiety]], avoidance, or deferral. The tool reached the performance phase of the cycle, not the planning that precedes it.
 
 ## Key Findings
 
-- **The automated group outperformed the control group at post-test** (M = 85.58 vs 80.84; d = 1.03, 95% CI [0.41, 1.64]), from equivalent baselines (p = 0.735).
-- **Gains were confined to two of the four rubric dimensions**: linguistic accuracy rose from 21.04 to 24.25 of 25 and logical coherence from 7.00 to 9.08 of 10, while fidelity and fluency stayed flat.
-- **Automated and human ratings agreed unevenly** in a 40-recording pilot: coherence r = 0.79 and accuracy r = 0.63, but information fidelity only r = 0.12.
-- **Only execution and monitoring correlated with score gains** (r = 0.42, 95% CI [0.02, 0.70], p = 0.041); planning, reflection, and emotional motivation showed no significant association.
-- **High [[self-report-measures|self-reported]] reflection was not productive reflection**: evaluation and reflection carried the second-highest mean (3.87 of 5) yet a near-zero link to gains (r = 0.10).
+- **The automated group outperformed the control group at post-test**, from equivalent baselines.
+- **Gains were confined to two of the four [[rubrics|rubric]] dimensions**: linguistic accuracy rose from 21.04 to 24.25 of 25 and logical coherence from 7.00 to 9.08 of 10, while fidelity and fluency stayed flat.
+- **Automated and human ratings agreed unevenly** in a 40-recording pilot: coherence and accuracy tracked closely, but information fidelity barely aligned.
+- **Only execution and monitoring correlated with score gains**; planning, reflection, and emotional motivation showed no significant association.
+- **High [[self-report-measures|self-reported]] reflection was not productive reflection**: evaluation and reflection carried the second-highest mean (3.87 of 5) yet had a near-zero link to gains.
 - **Students compared scores but rarely analyzed causes**, and their affect split: some felt more exposed by visible submissions, others less pressure, and three deferred engagement after low scores.
 
 ## Study Design & Method
@@ -50,11 +50,11 @@ The time by group interaction was significant [F(1, 44) = 18.00, p < 0.001]. Lin
 Read through Zimmerman's three-phase model, the cycle was reinforced during and immediately after practice. Execution and monitoring (M = 3.92) and evaluation and reflection (M = 3.87) scored relatively high, while pre-learning planning (M = 3.01) and emotional motivation (M = 3.06) sat near the midpoint. Only execution and monitoring correlated with score gains (r = 0.42, p = 0.041) and was the sole significant predictor in an underpowered regression (B = 2.51, beta = 0.591, p = 0.039). Students checked the overall score first, but causal analysis was rare, several found the scoring opaque, and goals came from the previous score, not the task ahead.
 
 ## What this means for practice
-- Keep the immediacy and the individual comparison, since that is what automated scoring supplies and whole-class review cannot.
-- Then supply what it does not: a human explanation of why an error occurred, delivered while the diagnostics are fresh, so a short individualized comment lands before the next collective review.
-- Because learners set goals from the previous score, not the task ahead, add a brief task-analysis exercise before each assignment.
-- Do not read a high reflection score as productive reflection, and do not assume a visible score motivates in one direction, since it drove practice for some students and avoidance for others.
-- Treat the scores as [[scaffolding|formative scaffolding]], not a measurement instrument.
+- **Instructors.** Keep the immediacy and the individual comparison, since that is what automated scoring supplies and whole-class review cannot.
+- **Instructors.** Supply what the system does not: a human explanation of why an error occurred, delivered while the diagnostics are fresh, so a short individualized comment lands before the next collective review.
+- **Instructors.** Because learners set goals from the previous score, not the task ahead, add a brief task-analysis exercise before each assignment.
+- **Instructors.** Do not read a high reflection score as productive reflection, and do not assume a visible score motivates in one direction, since it drove practice for some students and avoidance for others.
+- **Instructors.** Treat the scores as [[scaffolding|formative scaffolding]], not a measurement instrument.
 
 ## Limitations
 - Class-level confounds such as peer dynamics cannot be excluded, so the relationships reported are associative rather than causal.

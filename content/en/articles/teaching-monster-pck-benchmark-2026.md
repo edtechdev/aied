@@ -1,4 +1,4 @@
----
+
 title: "Findings of the first Teaching Monster Challenge: A benchmark of pedagogical content knowledge in AI agents"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
@@ -53,7 +53,7 @@ The LLM-judge separates clearly weak submissions but ranks the strongest poorly.
 - **Designers.** Condition every stage of the generation cascade on the parsed learner persona, not just the topic — the matched-persona pairs show that a difference in output is attributable to the learner only when the persona is carried through planning, script, visuals, and narration.
 - **Designers.** Treat the [[pedagogical-agent|pedagogical agent]] as the design target rather than a content pipeline, since instructional video generation is itself a generative teaching act and about one video in six still contained a critical factual error.
 - **Researchers.** Keep a human comparison layer on top of automated judging: the LLM-judge scored all ten shortlisted systems near its ceiling and disagreed almost entirely with crowd preference (Spearman ρ = −0.17), ranking the eventual winner only fourth.
-- **Researchers.** Release items, rubric, scoring traces, and human judgments as a single [[ai-ed-evaluation|testbed]] so that progress on teaching systems and on the judges of teaching can advance together.
+- **Researchers.** Release items, [[rubrics|rubric]], scoring traces, and human judgments as a single [[ai-ed-evaluation|testbed]] so that progress on teaching systems and on the judges of teaching can advance together.
 
 ## Limitations
 

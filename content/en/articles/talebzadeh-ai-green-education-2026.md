@@ -1,4 +1,4 @@
----
+
 title: "The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints"
 created: "2026-08-09T08:35:52-04:00"
 updated: "2026-09-19T10:56:42-04:00"
@@ -15,13 +15,13 @@ confidence: medium
 
 ---
 
-> **Synthesis:** Talebzadeh (2026) conducts a quasi-experimental study with 28 pre-service teacher teams, finding that AI-assisted [[sustainability|Sustainable Development]] Pedagogy constraints significantly improve [[learning-design|instructional design]] quality (t(27) = 13.78, p < 0.001, Cohen's d = 2.80). The intervention transformed teachers from conventional designers into strategic educational managers.
+> **Synthesis:** Talebzadeh (2026) conducts a quasi-experimental study with 28 pre-service teacher teams, finding that AI-assisted [[sustainability|Sustainable Development]] Pedagogy constraints significantly improve [[learning-design|instructional design]] quality, with an exceptionally large effect. The intervention transformed teachers from conventional designers into strategic educational managers.
 
 ## Key Findings
 
 - **28 pre-service teacher teams** compared across Baseline and SDP phases using the Integrated AI Triad (IAT) model
-- **Statistically significant improvement** in overall design quality: t(27) = 13.78, p < 0.001
-- **Exceptionally large effect size:** Cohen's d = 2.80
+- **Statistically significant improvement** in overall design quality from the baseline phase to the constrained phase.
+- **Exceptionally large effect size:** the design-quality gain was exceptionally large, far beyond a small or moderate effect.
 - **SDP workflow compliance** showed the largest gain (+1.83 units)
 - **Zero-paper resource management** constraint acted as a catalyst for more reflective, strategic instructional design
 - **[[teacher-role|Teacher role]] transformation:** from conventional [[pedagogy|pedagogical]] designer to efficient, reflective educational manager
@@ -31,7 +31,7 @@ confidence: medium
 - **Instructors.** Replace open-ended AI access with a hard design constraint — this study used a zero-paper, fully digitalized assessment workflow — because the constrained phase produced the study's largest gain, in SDP workflow compliance (+1.83 units, d = 3.50); the authors read that as structured [[scaffolding|scaffolding]] succeeding where unstructured AI use does not.
 - **Instructors.** Re-engineer an existing lesson plan under the new constraint rather than writing a fresh one, mirroring the baseline → SDP sequence in which the same teams resubmitted their design.
 - **Faculty developers.** Train teams to write constraint-specific prompts (the SDP prompt set) alongside the general IAT prompts, so the AI supports the required workflow instead of routing around it.
-- **Faculty developers.** Score submissions on all four rubric indices — overall design score, SDP workflow compliance, strategic reflection, and complexity and innovation — so the reflection the constraint forces becomes visible and discussable.
+- **Faculty developers.** Score submissions on all four [[rubrics|rubric]] indices — overall design score, SDP workflow compliance, strategic reflection, and complexity and innovation — so the reflection the constraint forces becomes visible and discussable.
 - **Faculty developers.** Hold identical correction windows and final deadlines for both submissions and keep the two-week gap between phases that this study used, to limit practice-order and instructor-feedback confounds.
 
 ## Limitations

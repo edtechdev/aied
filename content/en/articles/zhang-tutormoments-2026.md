@@ -1,4 +1,4 @@
----
+
 title: "When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle"
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
@@ -30,7 +30,7 @@ methods: [ai-ed-evaluation, benchmark]
 
 ## Why this matters for education
 
-This paper reframes the core evaluation question for AI tutors: **not "does the tutor avoid giving the answer?" but "is the help provided appropriate for this learner at this moment?"** Prior tutoring benchmarks (e.g., MathTutorBench, MRBench, LearnLM's rubric) reward one side of the "assistance dilemma" or give underspecified guidance; TutorMoments instead conditions on teacher-judged learning moments, capturing whether a tutor scaffolds when support is needed, pushes for rigor when the student is ready, and recognizes over-scaffolding. This is directly relevant to the [[desirable-difficulties|cognitive-friction]] literature: AI tutors trained for maximal helpfulness may inadvertently remove the productive struggle that supports durable learning, echoing the [[cognitive-offloading|over-reliance and cognitive offloading]] findings elsewhere in the knowledge base.
+This paper reframes the core evaluation question for AI tutors: **not "does the tutor avoid giving the answer?" but "is the help provided appropriate for this learner at this moment?"** Prior tutoring benchmarks (e.g., MathTutorBench, MRBench, LearnLM's [[rubrics|rubric]]) reward one side of the "assistance dilemma" or give underspecified guidance; TutorMoments instead conditions on teacher-judged learning moments, capturing whether a tutor scaffolds when support is needed, pushes for rigor when the student is ready, and recognizes over-scaffolding. This is directly relevant to the [[desirable-difficulties|cognitive-friction]] literature: AI tutors trained for maximal helpfulness may inadvertently remove the productive struggle that supports durable learning, echoing the [[cognitive-offloading|over-reliance and cognitive offloading]] findings elsewhere in the knowledge base.
 
 ## What this means for practice
 

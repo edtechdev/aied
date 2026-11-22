@@ -1,4 +1,4 @@
----
+
 title: "The Evidence Base on AI in K-12: A November 2026 Review"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-11-11T06:58:29-05:00"
@@ -43,7 +43,7 @@ Three shifts matter more than the totals:
 ## Key Findings: educators
 
 1. **Time savings are real and so are unintended effects.** The earlier English trial found lesson-planning time fell without detected quality loss. The new Türkiye trial found no overall test-score effect but lower student motivation and confidence, and reduced achievement among students of below-median-performing teachers. Teachers used the tool mainly to generate materials they accepted with minimal revision (Roy et al., 2024; Sungu et al., 2026).
-2. **AI increases the quantity and quality of educator feedback.** Teaching assistants given AI drafts provided nearly twice as much feedback, covering more rubric criteria, without spending more time, and their students' revisions scored higher without post-test gains (Lu et al., 2026; Mahinpei et al., 2026).
+2. **AI increases the quantity and quality of educator feedback.** Teaching assistants given AI drafts provided nearly twice as much feedback, covering more [[rubrics|rubric]] criteria, without spending more time, and their students' revisions scored higher without post-test gains (Lu et al., 2026; Mahinpei et al., 2026).
 3. **AI-generated student feedback can match educator feedback.** Multimodal AI feedback produced similar learning gains to prewritten educator comments and was rated clearer and more motivating; German secondary results showed no significant difference in revisions or later writing (Meyer et al., 2026; Zhao et al., 2026).
 4. **Progress summaries change behavior more than achievement.** K-12 students in the U.S. were more likely to start and complete assignments when teachers received AI summaries, but class-level assignment scores did not improve (Lim et al., 2026).
 5. **Educator expertise moderates the benefit.** Real-time expert-like suggestions helped less experienced tutors most in the earlier U.S. study; a broad teaching-support tool harmed students of lower-performing teachers in the new one. Tool output quality and the expertise needed to evaluate it are the authors' candidates (Wang et al., 2025; Sungu et al., 2026).
@@ -58,10 +58,10 @@ Also unresolved: whether AI narrows or widens [[equity-in-ai-education|inequity]
 
 ## What this means for practice
 
-- **Instructors:** distinguish tasks where AI explains from tasks where it produces. The new evidence supports AI for study and feedback on the student's own work, and warns against AI that completes the artifact. Check unaided performance, not practice grades.
-- **Administrators:** evaluate the specific tool in your setting against the outcome you want. Time saved and satisfaction are the easiest things to measure and the least informative; the Türkiye trial is the case where both looked acceptable and student motivation fell.
-- **Researchers:** the field now has U.S. K-12 studies, five of them, and still no long-term follow-up. Delayed, unassisted outcomes and educator-facing designs remain the gaps worth targeting.
-- **Software developers:** adaptive sequencing, mastery gates and guidance on tool use have the best design evidence in this update; adding prompts or a pedagogical wrapper without changing the instructional content has not separated from a general chatbot.
+- **Instructors.** distinguish tasks where AI explains from tasks where it produces. The new evidence supports AI for study and feedback on the student's own work, and warns against AI that completes the artifact. Check unaided performance, not practice grades.
+- **Administrators.** evaluate the specific tool in your setting against the outcome you want. Time saved and satisfaction are the easiest things to measure and the least informative; the Türkiye trial is the case where both looked acceptable and student motivation fell.
+- **Researchers.** the field now has U.S. K-12 studies, five of them, and still no long-term follow-up. Delayed, unassisted outcomes and educator-facing designs remain the gaps worth targeting.
+- **Software developers.** adaptive sequencing, mastery gates and guidance on tool use have the best design evidence in this update; adding prompts or a pedagogical wrapper without changing the instructional content has not separated from a general chatbot.
 
 ## Limitations
 

@@ -1,4 +1,4 @@
----
+
 title: "Beyond Response Scoring: An AI-aware Cognitive Supervision Framework for Automated Mathematical Short Answer Grading"
 published: "2026-10-30"
 created: "2026-11-02T09:12:23-05:00"
@@ -30,7 +30,7 @@ source_depth: full text
 ## Key Findings
 
 1. AICG reaches MAE .0434 and QWK .927 on post-Gen-AI semesters, against .0873 and .798 for a score-only RoBERTa grader — a 50.3% error reduction.
-2. Against the strongest baseline, rubric-optimizing GradeOpt (.0788 MAE, .842 QWK), AICG cuts MAE by 44.9% and gains 8.7–15.7 points of tolerance-based and exact accuracy.
+2. Against the strongest baseline, [[rubrics|rubric]]-optimizing GradeOpt (.0788 MAE, .842 QWK), AICG cuts MAE by 44.9% and gains 8.7–15.7 points of tolerance-based and exact accuracy.
 3. Q-matrix cognitive supervision, not the extra scoring heads, drives the gain: ordinal and categorical heads move MAE from .0873 to .0823, while mastery and gain targets reach .0453.
 4. Mastery states carry more signal than learning gain: Full Scoring + State reaches .0527 MAE and .906 QWK, while gain alone reaches only .0715 and .871.
 5. AI-aware weighting lowers MAE by 4.2% over the unweighted cognitive model and improves QWK in four of five semesters, with the semester MAE reduction growing from 0.8% in F22 to 3.6–6.6% later.

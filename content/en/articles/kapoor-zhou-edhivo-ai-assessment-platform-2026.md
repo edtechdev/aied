@@ -1,4 +1,4 @@
----
+
 title: "Edhivo: An AI-Native Platform for Scalable Assessment and Instant Feedback in Higher Education"
 created: "2026-10-28T09:21:54-04:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -36,7 +36,7 @@ ai_assist:
 1. **Two models, two jobs.** Generation runs on Gemini 3 Flash for its context window and evaluation on GLM 4.7 Flash for instruction following, with JSON schemas holding the orchestration layer in a deterministic state.
 2. **Authoring time collapses.** Generation produced questions in a median of about 10 seconds, against an estimated 30 minutes of manual drafting and answer-key writing, a net saving near 25 minutes after a 5-minute review.
 3. **Open-ended grading stops scaling with headcount.** Multiple-choice items grade deterministically, a cohort's open-ended responses are evaluated in roughly 15 to 20 seconds, and a 200-[[assessment|student assessment]] falls from 1,000 minutes to 500 with audit.
-4. **The rubric is three criteria at 0 to 5.** Correctness, completeness and relevance are each scored with a chain-of-thought justification before the score, a reason-then-score design meant to reduce arbitrariness and expose its reasoning.
+4. **The [[rubrics|rubric]] is three criteria at 0 to 5.** Correctness, completeness and relevance are each scored with a chain-of-thought justification before the score, a reason-then-score design meant to reduce arbitrariness and expose its reasoning.
 5. **Unit economics are almost negligible.** At OpenRouter pricing for GLM 4.7 Flash, a 10-question assessment costs \$0.00275 per student, so the 200-student cohort in the scaling table is graded for under \$0.55.
 6. **Students endorsed the loop, not a learning gain.** Of 30 survey respondents, 100 percent agreed or strongly agreed the interface was easy and that instant feedback improved learning; no gain was measured.
 7. **The pedagogy changed with the tool.** Student presenters authored short assessments, typically three multiple-choice questions, run immediately before and after each presentation, about three cycles per 80-minute session.

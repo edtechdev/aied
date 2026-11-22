@@ -1,4 +1,4 @@
----
+
 title: "Probing AI-generated physics solutions and preparing students to critique them"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-19T10:03:37-04:00"
@@ -15,7 +15,7 @@ level: [higher ed]
 methods: [research-methods-aied]
 ---
 
-> **Synthesis:** Borse et al. (2026) examine AI-generated physics solutions from two connected angles: how [[prompt-engineering|prompt design]] shapes solution quality and how students can be prepared to critique those solutions. Using a rotational-mechanics problem and the Minnesota [[assessment|Assessment]] of Problem Solving (MAPS) rubric, they show well-specified prompts improve completeness while underspecified and multimodal prompts expose weaknesses in physics reasoning. In a student-evaluation phase with 24 introductory physics lab groups, MAPS-guided [[reflection|reflection]] produced more expert-aligned critiques than [[problem-solving|problem-solving]]-only training, which yielded uncritical or misconception-based assessments. The study grounds both model-reasoning [[benchmark|benchmarks]] and student [[ai-literacy|AI literacy]] training in [[physics-education|physics education]] research.
+> **Synthesis:** Borse et al. (2026) examine AI-generated physics solutions from two connected angles: how [[prompt-engineering|prompt design]] shapes solution quality and how students can be prepared to critique those solutions. Using a rotational-mechanics problem and the Minnesota [[assessment|Assessment]] of Problem Solving (MAPS) [[rubrics|rubric]], they show well-specified prompts improve completeness while underspecified and multimodal prompts expose weaknesses in physics reasoning. In a student-evaluation phase with 24 introductory physics lab groups, MAPS-guided [[reflection|reflection]] produced more expert-aligned critiques than [[problem-solving|problem-solving]]-only training, which yielded uncritical or misconception-based assessments. The study grounds both model-reasoning [[benchmark|benchmarks]] and student [[ai-literacy|AI literacy]] training in [[physics-education|physics education]] research.
 
 ## Key Findings
 

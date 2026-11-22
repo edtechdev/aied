@@ -1,4 +1,4 @@
----
+
 title: Uncovering Students' Mental Models of Generative Artificial Intelligence
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
@@ -28,7 +28,7 @@ Prior research on GenAI adoption has largely measured *what students know* throu
 The authors leveraged **concept mapping** as a primary elicitation technique, treating each map as an "expressed model" that externalizes a student's internal conceptual framework. Concept maps are well suited to probing abstract constructs — technical mechanisms, ethical values — that are difficult to verbalize, and can reveal [[misconceptions|misconceptions]] that structured interviews might miss.
 
 - **Sample:** 86 undergraduate students in a required technology-ethics course within the IT curriculum at George Mason University. As part of an assignment, students created a concept map representing their understanding of GenAI plus a brief written explanation; no further constraints were imposed so as not to bias their thinking.
-- **Processing:** Of 86 students, 15 did not submit, yielding 71 maps. Two [[research-methods-aied|researchers]] independently scored maps holistically on **comprehensiveness, organization, and correctness** (a 1–3 rubric with plus/minus gradations, per Besterfield-Sacre et al. 2004), mapped to a 9-point scale and grouped into four levels. Eight maps fell into the lowest (Level 1) category; two were retained as exceptional despite weak structure, so six were excluded — leaving **64 concept maps** for analysis.
+- **Processing:** Of 86 students, 15 did not submit, yielding 71 maps. Two [[research-methods-aied|researchers]] independently scored maps holistically on **comprehensiveness, organization, and correctness** (a 1–3 [[rubrics|rubric]] with plus/minus gradations, per Besterfield-Sacre et al. 2004), mapped to a 9-point scale and grouped into four levels. Eight maps fell into the lowest (Level 1) category; two were retained as exceptional despite weak structure, so six were excluded — leaving **64 concept maps** for analysis.
 - **Analysis:** Two complementary approaches — (1) frequency coding of core components via a 16-code inductive codebook, and (2) **hierarchical clustering** of how concepts co-occur and connect across maps — surfaced recurring structures in students' understanding (RQ1). A [[qualitative-research|qualitative]] pass coded each map for **declarative, procedural, and conditional** knowledge (RQ2).
 
 ## Five mental models of GenAI

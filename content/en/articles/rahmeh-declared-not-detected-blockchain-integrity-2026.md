@@ -1,4 +1,4 @@
----
+
 title: "Declared, Not Detected: A Blockchain-Anchored, Agentic Framework for Academic Integrity in the Generative AI Era"
 created: "2026-11-05T15:30:00-05:00"
 updated: "2026-11-05T15:30:00-05:00"
@@ -30,7 +30,7 @@ reviewed_by: [editor]
 3. **Within a 0.5% budget, recall is modest and precision high.** In the synthetic test partition SCRIBE refers 30.6% of misdeclarations at 97.1% precision, with a measured false accusation rate of 0.33% — 73 of 22,131 truthful submissions — whereas a simulated detector refers 0.3% at the same budget.
 4. **Process evidence has a hard ceiling.** The process channel's likelihood ratio saturates at 4.29 against prior odds of 0.356, so process evidence alone cannot exceed a posterior of 0.604, below the 0.837 referral threshold; without the oral probe, SCRIBE refers no case at all.
 5. **Evasion splits into two very different threats.** Retyping purchased text leaves referral essentially unchanged at 30.7%, but replaying a plausible writing trace cuts it to 7.2%; bypassing the editor unexpectedly raises referral to 36.4%, though under a 20% oral-capacity limit it falls to 22.9%.
-6. **The equity gain is real but incomplete.** The simulated detector wrongly accuses 61.7% of the least fluent writers at its default threshold, against 0.71% for SCRIBE and 0.44% under a fluency-aware rubric; the residual between-group ratio is 3.9.
+6. **The equity gain is real but incomplete.** The simulated detector wrongly accuses 61.7% of the least fluent writers at its default threshold, against 0.71% for SCRIBE and 0.44% under a fluency-aware [[rubrics|rubric]]; the residual between-group ratio is 3.9.
 
 ## The design: declaration, ledger, adjudication
 

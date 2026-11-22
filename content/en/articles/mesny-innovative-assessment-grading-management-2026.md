@@ -1,4 +1,4 @@
----
+
 title: "Innovative assessment and grading practices in higher education: A critical exploration for management educators"
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
@@ -29,7 +29,7 @@ level: [higher ed]
 
 ## What this means for practice
 
-- **Instructors.** Start with a single low-stakes change rather than a grading overhaul: one ungraded assignment, reassessment for one task, or one standards-based rubric — the incremental moves the authors present as feasible entry points.
+- **Instructors.** Start with a single low-stakes change rather than a grading overhaul: one ungraded assignment, reassessment for one task, or one standards-based [[rubrics|rubric]] — the incremental moves the authors present as feasible entry points.
 - **Instructors.** Redesign one assignment around a real professional product, such as a live consulting deliverable or a dashboard with an executive briefing. Management educators already run experiential and team-based activities that map onto [[authentic-assessment|authentic assessment]] without using the term.
 - **Faculty developers.** Convene program-level conversations that connect assessment redesign to [[assessment-validity|validity]], assurance of learning, accreditation, and employer signaling, because the barriers the review documents — curving, rankings, internships, students' instrumental mindset — are institutional rather than individual.
 - **Curriculum designers.** Coordinate standards-based rubrics and reassessment opportunities across a program rather than within single courses, so students meet consistent criteria as they build assessment literacy over time.

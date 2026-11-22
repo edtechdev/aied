@@ -1,4 +1,4 @@
----
+
 title: "The AI writes the code, the student writes the model: A theory and measurement programme for learning by construction with generative AI"
 created: "2026-08-24T05:31:00-04:00"
 updated: "2026-09-24T12:30:00-04:00"
@@ -14,7 +14,7 @@ audience: [curriculum designers, assessment designers, instructors]
 level: [secondary]
 ---
 
-> **Synthesis:** This theoretical paper develops **Code-to-Learn with [[generative-ai|Generative AI]] (CtL-GenAI)**, a framework for upper-secondary students (roughly fifteen to eighteen) who build software with generative AI and are meant to learn the *subject the software models* ([[physics-education|physics]], [[chemistry-education|chemistry]], a local environmental problem) rather than to learn coding itself. Its organizing claim is that the AI may write the code while the student must write the model. The paper defines a **model authorship** construct (four facets, four ordered levels, observable indicators, a partial-credit measurement model), partitions the outcome space into supported performance, unsupported performance and delayed transfer (defining the **assistance-removal gap**), recasts verification of AI output as signal detection, audits twenty-four studies, and states six hypotheses with designs, measures and falsification criteria. For instructors it yields six design principles and a rubric for judging what the student, not the AI, contributed; for researchers, a measurement model to test.
+> **Synthesis:** This theoretical paper develops **Code-to-Learn with [[generative-ai|Generative AI]] (CtL-GenAI)**, a framework for upper-secondary students (roughly fifteen to eighteen) who build software with generative AI and are meant to learn the *subject the software models* ([[physics-education|physics]], [[chemistry-education|chemistry]], a local environmental problem) rather than to learn coding itself. Its organizing claim is that the AI may write the code while the student must write the model. The paper defines a **model authorship** construct (four facets, four ordered levels, observable indicators, a partial-credit measurement model), partitions the outcome space into supported performance, unsupported performance and delayed transfer (defining the **assistance-removal gap**), recasts verification of AI output as signal detection, audits twenty-four studies, and states six hypotheses with designs, measures and falsification criteria. For instructors it yields six design principles and a [[rubrics|rubric]] for judging what the student, not the AI, contributed; for researchers, a measurement model to test.
 
 ## Key Findings
 

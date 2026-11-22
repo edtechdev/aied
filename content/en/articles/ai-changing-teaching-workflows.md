@@ -1,4 +1,4 @@
----
+
 title: "How AI Is Changing Teaching Workflows."
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -56,7 +56,7 @@ A large-scale experiment across **178 schools, ~19,000 high school seniors** tes
 Almost no teachers used follow-up prompts to iteratively refine AI output — they took the first result and edited manually. Prompt quality directly determined output quality. The teachers who need AI most (early career, under-resourced, outside expertise) are often least equipped to prompt effectively. This makes [[ai-literacy|AI literacy]] professional development a prerequisite, not a nice-to-have.
 
 ### 2. The Assessment Trap
-Nearly half of educator-AI conversations involved assessment tasks, but some teachers requested student work evaluation without specifying rubrics or criteria. AI assessments applied without human oversight risk inconsistency and bias — a [[bias-mitigation|bias mitigation]] concern directly relevant to [[automated-assessment|Automated Grading]] systems.
+Nearly half of educator-AI conversations involved assessment tasks, but some teachers requested student work evaluation without specifying [[rubrics|rubrics]] or criteria. AI assessments applied without human oversight risk inconsistency and bias — a [[bias-mitigation|bias mitigation]] concern directly relevant to [[automated-assessment|Automated Grading]] systems.
 
 ### 3. Equity Divides
 - **Student level:** AI materials lack targeted supports for multilingual learners and [[inclusive-learning|students with disabilities]] — a 30% time reduction is net negative if it comes at the expense of vulnerable learners

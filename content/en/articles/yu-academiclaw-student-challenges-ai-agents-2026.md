@@ -1,4 +1,4 @@
----
+
 title: "AcademiClaw: When Students Set Challenges for AI Agents"
 created: "2026-09-24T02:26:28-04:00"
 updated: "2026-09-24T05:18:25-04:00"
@@ -23,7 +23,7 @@ level: [undergraduate, graduate]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Yu and colleagues introduce AcademiClaw, a bilingual benchmark of 80 long-horizon academic tasks contributed by university students from their own coursework, research, competitions, and personal projects. Undergraduates submitted problems a mainstream [[agentic-ai|AI agent]] had already failed, and expert review distilled 230 candidates into 80 tasks spanning 25+ professional domains, from olympiad mathematics and linguistics to [[reinforcement-learning|reinforcement learning]] and full-stack debugging, with 16 tasks requiring CUDA GPUs. Each task runs in an isolated Docker sandbox with the scoring rubric withheld, and evaluation combines six techniques on rubrics of three to six dimensions summing to 100 points, joined to a five-category [[guardrails|safety audit]]. Across six frontier models run through OpenClaw, the best passes only 55 percent, 23 tasks defeat every model, spending is uncorrelated with score, and models settle into distinct behavioral phenotypes.
+> **Synthesis:** Yu and colleagues introduce AcademiClaw, a bilingual benchmark of 80 long-horizon academic tasks contributed by university students from their own coursework, research, competitions, and personal projects. Undergraduates submitted problems a mainstream [[agentic-ai|AI agent]] had already failed, and expert review distilled 230 candidates into 80 tasks spanning 25+ professional domains, from olympiad mathematics and linguistics to [[reinforcement-learning|reinforcement learning]] and full-stack debugging, with 16 tasks requiring CUDA GPUs. Each task runs in an isolated Docker sandbox with the scoring [[rubrics|rubric]] withheld, and evaluation combines six techniques on rubrics of three to six dimensions summing to 100 points, joined to a five-category [[guardrails|safety audit]]. Across six frontier models run through OpenClaw, the best passes only 55 percent, 23 tasks defeat every model, spending is uncorrelated with score, and models settle into distinct behavioral phenotypes.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ page_kind: [evaluation]
 - **Each task runs in an isolated Docker sandbox** with a two-layer image hierarchy; the rubric stays hidden and only agent-created files reach scoring.
 - **Scoring draws on six techniques.** Rubrics hold three to six dimensions summing to 100 points, spanning pattern matching, code execution, LLM-as-judge, vision assessment, browser testing, and structured outputs; pass is 75.
 - **The best model passed only 55 percent.** Claude Opus 4.6 led on average score (71.9) and tied Sonnet 4.6 on pass rate; 23 of 80 tasks (28.8 percent) defeated all six models, and 8 drew every model below 50.
-- **Token spending bought no quality.** Across 480 model-task evaluations, consumption and score were uncorrelated (r = -0.03), so the biggest spenders gained nothing.
+- **Token spending bought no quality.** Across 480 model-task evaluations, consumption and score were uncorrelated, so the biggest spenders gained nothing.
 
 ## Scope and how the tasks were chosen
 
@@ -48,10 +48,10 @@ Cross-category variation (26.3 points) far exceeds cross-model variation (8.8 po
 
 ## What this means for practice
 
-- **Benchmark agents on your own students' hard problems.** Problems that defeated a mainstream agent in a real course are more diagnostic than researcher-designed proxies.
+- **Researchers.** Benchmark agents on your own students' hard problems: problems that defeated a mainstream agent in a real course are more diagnostic than researcher-designed proxies.
 - **Read category profiles, not headline averages.** One overall score conceals a 26.3-point spread between the easiest and hardest domains.
 - **Do not equate effort with capability.** GPT-5.4 spent the fewest tokens (525K, 240 seconds per task) yet placed third, while Gemini 3.1 Pro burned 5.4 times as many for no quality gain; plan for reasoning depth rather than activity.
-- **Treat boundary compliance as the live safety risk.** Privilege escalation was uniformly controlled, but workspace boundary violations drove nearly all divergence; most models scored above 80 on the safety audit, Gemini 3.1 Pro the outlier at 74.9, and only aggregate statistics are public.
+- **Educational technology developers.** Treat boundary compliance as the live safety risk: privilege escalation was uniformly controlled, but workspace boundary violations drove nearly all divergence; most models scored above 80 on the safety audit, Gemini 3.1 Pro the outlier at 74.9, and only aggregate statistics are public.
 
 ## Limitations
 

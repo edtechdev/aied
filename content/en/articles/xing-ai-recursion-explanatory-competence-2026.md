@@ -1,4 +1,4 @@
----
+
 title: "Can AI Help Students Explain \"Recursion\"? A Platform-Based Intervention for Developing Explanatory Competence"
 created: "2026-11-09T09:05:00-05:00"
 updated: "2026-11-14T10:00:00-05:00"
@@ -42,7 +42,7 @@ ethics: []
 4. **Students valued balance over fluency.** The highest-rated feature was how the AI held simplicity and accuracy together, ahead of the three parallel suggestions and ahead of peer feedback; usability scored lowest of the features rated.
 5. **Independent reflection felt productive but under-supported.** Students working alone valued it for deep thinking, yet were less confident about spotting what to improve and wanted more help — the pattern the authors read as a real need for [[scaffolding|scaffolding]] rather than learned dependency.
 6. **The dialogue logs show revision actually happening.** One student moved from "cleaning a lab drawer" to "a tree growing from a trunk," keeping the image while naming self-reference, the base case and problem decomposition. That is the kind of shift the survey can only ask about.
-7. **The artifact evidence is thin.** Only 6 of the 41 students produced usable pre/post metaphor pairs, and the two sets were never scored with a common rubric, so the strongest claim about written improvement rests on a handful of cases.
+7. **The artifact evidence is thin.** Only 6 of the 41 students produced usable pre/post metaphor pairs, and the two sets were never scored with a common [[rubrics|rubric]], so the strongest claim about written improvement rests on a handful of cases.
 
 ## The design and the sample
 
@@ -64,11 +64,11 @@ The limits are as instructive as the finding. Only 6 of the 41 students had usab
 
 ## What this means for practice
 
-- **Instructors:** Adopt the three refinement angles — limit testing, structural fit, audience fit — as a checklist students can apply with or without AI. The independent group used them and reported comparable perceived gains, so the structure is the part you can trust to travel.
-- **Instructors:** Ask for a new metaphor at the end rather than a revision of the first. A fresh text shows whether the structure transferred; a polished draft shows only that one draft got better.
-- **Instructors:** Keep peer review inside AI-mediated refinement. Peer feedback was rated close to the AI's own suggestions, and the authors argue it supplies an audience perspective that neither the student nor the AI provides alone.
-- **Designers:** Build for criterion-by-criterion feedback on a submitted artifact, not open-ended chat. The logged value came from a specific metaphor being pushed on three named criteria across turns.
-- **Administrators:** Do not procure on claims of a measured learning advantage. No significant difference appeared on the perception measures, no post-test writing was scored across conditions, and the platform was built by the authors.
+- **Instructors.** Adopt the three refinement angles — limit testing, structural fit, audience fit — as a checklist students can apply with or without AI. The independent group used them and reported comparable perceived gains, so the structure is the part you can trust to travel.
+- **Instructors.** Ask for a new metaphor at the end rather than a revision of the first. A fresh text shows whether the structure transferred; a polished draft shows only that one draft got better.
+- **Instructors.** Keep peer review inside AI-mediated refinement. Peer feedback was rated close to the AI's own suggestions, and the authors argue it supplies an audience perspective that neither the student nor the AI provides alone.
+- **Designers.** Build for criterion-by-criterion feedback on a submitted artifact, not open-ended chat. The logged value came from a specific metaphor being pushed on three named criteria across turns.
+- **Administrators.** Do not procure on claims of a measured learning advantage. No significant difference appeared on the perception measures, no post-test writing was scored across conditions, and the platform was built by the authors.
 
 ## Limitations
 

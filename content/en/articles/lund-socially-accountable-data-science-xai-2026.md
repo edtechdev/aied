@@ -1,4 +1,4 @@
----
+
 title: "Toward socially accountable data science education: A conceptual framework for integrating explainable AI and accountability principles"
 created: "2026-09-17T04:10:00-04:00"
 updated: "2026-09-24T16:43:35-04:00"
@@ -21,7 +21,7 @@ institutions: [governance]
 
 1. **Accountability is taught as optional content.** Global AI ethics frameworks name transparency, fairness, and accountability almost universally, but the usual curricular response, a guest lecture or a standalone course, signals that accountability is separable from technical competence.
 2. **Four pillars are crossed with four dimensions.** Answerability, responsibility, enforcement, and reflexivity each take a technical, social, organizational, and political expression, 
-3. **Enforcement is the layer education most often omits.** Grading rarely rewards documentation, so the framework proposes rubrics, projects returned on [[ethics|ethical]] grounds, accountability peer review, and regulatory literacy in the EU AI Act and the GDPR.
+3. **Enforcement is the layer education most often omits.** Grading rarely rewards documentation, so the framework proposes [[rubrics|rubrics]], projects returned on [[ethics|ethical]] grounds, accountability peer review, and regulatory literacy in the EU AI Act and the GDPR.
 4. **Reflexivity is dropped first because it yields habits, not artifacts.** Positionality statements and design journals make it gradeable, and the authors call it unrealistic to expect instructors to build these exercises alone without [[educational-development|faculty development]].
 5. **The assignments are rated for classroom cost and failure mode.** Model cards and positionality statements fit work instructors already assign but risk superficial compliance, while audits, impact assessments, and oversight panels need [[scaffolding|scaffolding]] or budget.
 6. **Explanation alone is not accountability.** An accurate description of a model's behavior says nothing about whether the right features should have been used, and the framework is an untested design proposal rather than a validated instrument.

@@ -1,4 +1,4 @@
----
+
 title: "Development and Validation of the Generative AI Assessment Literacy Scale for Higher Education Students: Psychometric Evidence and Associations with Feedback Engagement and Academic Integrity"
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
@@ -27,7 +27,7 @@ level: [higher ed]
 
 ## Study Design & Method
 
-The study is a two-study cross-sectional scale development and validation project, following established instrument-development guidance. An initial item pool drawn from the literature on assessment literacy, AI-supported assessment, feedback engagement, and academic integrity was refined through review by an eight-member expert panel, cognitive interviews and pilot testing with students, and exploratory factor analysis, leaving a final version of 18 items with five dimensions and at least three items per dimension. Every item is written to refer explicitly to course assignments, rubrics, feedback, disclosure rules, or revision decisions; no GenAI platform was evaluated by name, and no AI system generated responses or made psychometric decisions.
+The study is a two-study cross-sectional scale development and validation project, following established instrument-development guidance. An initial item pool drawn from the literature on assessment literacy, AI-supported assessment, feedback engagement, and academic integrity was refined through review by an eight-member expert panel, cognitive interviews and pilot testing with students, and exploratory factor analysis, leaving a final version of 18 items with five dimensions and at least three items per dimension. Every item is written to refer explicitly to course assignments, [[rubrics|rubrics]], feedback, disclosure rules, or revision decisions; no GenAI platform was evaluated by name, and no AI system generated responses or made psychometric decisions.
 
 Questionnaires were returned by students at six higher education institutions in China, and 1,284 valid responses were retained and randomly split. The exploratory subsample (486) carried the item analysis and exploratory factor analysis, run as principal axis factoring with oblimin rotation. The confirmatory subsample (798) carried confirmatory factor analysis and model comparison, reliability testing, convergent and discriminant validity, measurement invariance testing across gender, discipline, and AI-use frequency, criterion-related and known-group validity checks, and structural equation modeling in which the indirect association through feedback engagement was estimated by bootstrapping. Alongside the GAA-LS, participants completed short measures of feedback engagement, academic integrity intention, and responsible AI use intention. Common-method bias was examined through procedural design plus Harman's single-factor test, a one-factor confirmatory comparison, and a common-latent-factor sensitivity check, treated as diagnostic rather than conclusive.
 

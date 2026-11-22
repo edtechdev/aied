@@ -1,4 +1,4 @@
----
+
 title: "SWIM: Student Writing Simulation via Proficiency-Conditioned Generation"
 created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"
@@ -16,7 +16,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Do, Kontak and Sachan ask whether an [[llm|LLM]] can be made to write like a student at a chosen proficiency level. They call the problem Student Writing [[simulation|simulation]] (SWIM) and formalize it as proficiency-conditioned essay generation. Given a writing prompt and a target trait-score profile from the ASAP/ASAP++ [[automated-essay-scoring|automated essay scoring]] corpus, a generator must produce an essay matching that profile. The paper compares three families of methods under one shared interface: rubric-grounded [[prompt-engineering|prompt engineering]] (contrastive trait prompting and score-level rubric lookup, with five-shot variants), supervised [[llm-training-and-fine-tuning|fine-tuning]] on real score-essay pairs, and [[reinforcement-learning|reinforcement learning]] with a Proficiency Alignment Reward (PAR) from a frozen multi-trait AES verifier. Fidelity is measured as Quadratic Weighted Kappa (QWK) between the target profile and the AES-predicted profile of the generated essay.
+> **Synthesis:** Do, Kontak and Sachan ask whether an [[llm|LLM]] can be made to write like a student at a chosen proficiency level. They call the problem Student Writing [[simulation|simulation]] (SWIM) and formalize it as proficiency-conditioned essay generation. Given a writing prompt and a target trait-score profile from the ASAP/ASAP++ [[automated-essay-scoring|automated essay scoring]] corpus, a generator must produce an essay matching that profile. The paper compares three families of methods under one shared interface: [[rubrics|rubric]]-grounded [[prompt-engineering|prompt engineering]] (contrastive trait prompting and score-level rubric lookup, with five-shot variants), supervised [[llm-training-and-fine-tuning|fine-tuning]] on real score-essay pairs, and [[reinforcement-learning|reinforcement learning]] with a Proficiency Alignment Reward (PAR) from a frozen multi-trait AES verifier. Fidelity is measured as Quadratic Weighted Kappa (QWK) between the target profile and the AES-predicted profile of the generated essay.
 > The headline result is a supervision hierarchy. Prompting gives limited and uneven control: Claude Sonnet-4.6 reaches 0.577 average trait QWK and GPT-5.4 only 0.422, while open-weight Qwen models sit near zero. SFT reaches 0.474 and 0.428 on Qwen2.5-7B and Qwen3-4B, and GRPO with PAR pushes those to 0.618 and 0.674.
 > The residual gap is behavioral realism. Prompting over-predicts proficiency and generates over-long essays, and no method reproduces authentic low-proficiency spelling, casing and grammar. For [[writing-education|writing education]], the study argues that faithful [[simulating-students|simulating students]] of writers needs explicit supervision plus a reward aimed at the whole trait profile.
 
@@ -54,7 +54,7 @@ The work is an experiment on ASAP/ASAP++, a trait-score-annotated corpus of eigh
 - **Model developers.** Treat proficiency control as a training problem, not a prompting trick: fine-tune on authentic score-essay pairs and add a group-relative reward over the whole trait profile, since prompting left open-weight models near zero.
 - **Assessment designers and researchers.** Verify simulator gains on evaluators that never entered policy optimization, as this paper does with a DeBERTa scorer and an evaluation-only verifier, because reward-derived improvements can otherwise be adaptation to the reward model.
 - **Educators using simulated writers.** Expect simulated low-proficiency students to look like weak content with clean surface form, and do not use such essays to teach error diagnosis or to calibrate feedback on spelling and grammar.
-- **Administrators and developers planning corpus use.** Recognize that small, long-form prompts are where trained simulators lose to prompting, so pair any proficiency simulator with coverage checks across prompts rather than a single average.
+- **Administrators.** Pair any proficiency simulator with coverage checks across prompts rather than a single average, since small, long-form prompts are where trained simulators lose to prompting.
 
 ## Limitations
 

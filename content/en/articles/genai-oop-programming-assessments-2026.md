@@ -1,4 +1,4 @@
----
+
 title: "Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026"
 created: "2026-08-18T09:20:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
@@ -15,7 +15,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Lepp and Kaimre (2026) evaluate five widely used GenAI systems — ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, and M365 Copilot — against authentic [[cs-education|object-oriented programming]] tests and exams from an introductory university Java course, scoring them with the same rubric applied to students and comparing against historical cohort results and the prior year. All systems except Copilot outscored the average student cohort and often earned full marks on longer programming tasks, yet they still produced occasional non-compiling code and struggled with advanced OOP concepts — interfaces, abstract classes, and certain inheritance tasks — as well as graphics-based questions requiring image interpretation. Compared with the prior year the systems improved across most assessments while repeating several recurring error patterns. The findings offer an updated, dated [[benchmark|benchmark]] of contemporary GenAI capabilities that can inform [[assessment|assessment]] design and the responsible integration of AI into [[cs-education|CS education]].
+> **Synthesis:** Lepp and Kaimre (2026) evaluate five widely used GenAI systems — ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, and M365 Copilot — against authentic [[cs-education|object-oriented programming]] tests and exams from an introductory university Java course, scoring them with the same [[rubrics|rubric]] applied to students and comparing against historical cohort results and the prior year. All systems except Copilot outscored the average student cohort and often earned full marks on longer programming tasks, yet they still produced occasional non-compiling code and struggled with advanced OOP concepts — interfaces, abstract classes, and certain inheritance tasks — as well as graphics-based questions requiring image interpretation. Compared with the prior year the systems improved across most assessments while repeating several recurring error patterns. The findings offer an updated, dated [[benchmark|benchmark]] of contemporary GenAI capabilities that can inform [[assessment|assessment]] design and the responsible integration of AI into [[cs-education|CS education]].
 
 ## Context: GenAI and introductory programming assessment
 

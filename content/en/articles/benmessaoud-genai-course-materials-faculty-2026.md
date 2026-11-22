@@ -1,4 +1,4 @@
----
+
 title: "GenAI in Course Materials: Faculty Use and Perceptions"
 created: "2026-11-16T09:00:00-04:00"
 updated: "2026-11-16T09:00:00-04:00"
@@ -37,7 +37,7 @@ reviewed_by: [editor]
 - **The institution's guidance barely reaches the syllabus.** 71% said the guidelines shaped their course materials "none" (n = 22) or "a little" (n = 18); satisfaction was mostly indifference, with 52% (n = 29) neither satisfied nor dissatisfied, 20% (n = 11) somewhat dissatisfied and 11% (n = 6) extremely dissatisfied.
 - **Ethical judgment is conditional rather than permissive.** Asked about a scenario in which no explicit rules are given, 66% (n = 37) said student use is ethical "in certain scenarios", while 16% (n = 9) answered yes, 13% (n = 7) no and 5% (n = 3) that they were not sure.
 - **The same conditional answer holds for learning.** 77% (n = 43) said GenAI supports learning outcomes "in certain scenarios", with 9% (n = 5) answering yes and 9% (n = 5) no, so the modal instructor is reserving judgment rather than endorsing or banning.
-- **A permission statement is the one element most documents carry.** Of the 16 artifacts, 8 (59%) stated acceptable use robustly, 4 (25%) in limited form and 4 (25%) not at all, which is the permission and acknowledgement disclaimer the authors' rubric was built to find.
+- **A permission statement is the one element most documents carry.** Of the 16 artifacts, 8 (59%) stated acceptable use robustly, 4 (25%) in limited form and 4 (25%) not at all, which is the permission and acknowledgement disclaimer the authors' [[rubrics|rubric]] was built to find.
 - **Data privacy is the largest gap and the area policy covers most directly.** 12 of 16 documents (75%) said nothing about GenAI and data privacy and 4 (25%) touched it only in limited form; a single document mentioned the university's data privacy policy.
 - **Citation rules, ethics discussion and revision clauses are sparse.** Citation guidance was robust in 3 documents (19%) and limited in 6 (38%); discussion of AI ethics was absent from 7 (44%); and 13 of 16 (81%) contained no suggestion that a course policy might need revising.
 - **The institutional fix is described as unfinished.** A [[governance|faculty-governance]] task force convened in spring 2024 recommended an ethics framework, a research data policy, and revisions to the student code of conduct, syllabi and promotion guidelines, and the authors note that only some of those recommendations have been implemented.
@@ -50,10 +50,10 @@ Participants were asked to upload between one and four documents from the 2023�
 
 ## What this means for practice
 
-- **Instructors:** write the AI statement as a course-specific permission and acknowledgement clause instead of a link to the university page. The documents here show what the alternative produces: a clause that says use is allowed or not allowed, and silence on citation, [[academic-integrity|academic integrity]] and what happens to student work once it is uploaded.
-- **Faculty developers:** run the session as a syllabus workshop, not a policy briefing. The gap between 71% saying guidance shaped their materials "none" or "a little" and 52% being neither satisfied nor dissatisfied suggests instructors are not refusing the guidance so much as finding nothing in it they can paste into a week-one document.
-- **Administrators:** a binding data-security rule is not teaching guidance. If the only enforceable policy sorts data into public, university-internal, restricted and critical categories and lists which tools may receive them, expect a syllabus that is silent on both ethics and citation — which is where 7 of 16 documents landed on ethics and 7 of 16 on citation.
-- **Instructional designers:** put the privacy paragraph in the template. The one gap that is both the institution's stated priority and almost entirely absent from course materials is the one a template can close without requiring an instructor to become an expert in vendor data practices.
+- **Instructors.** write the AI statement as a course-specific permission and acknowledgement clause instead of a link to the university page. The documents here show what the alternative produces: a clause that says use is allowed or not allowed, and silence on citation, [[academic-integrity|academic integrity]] and what happens to student work once it is uploaded.
+- **Faculty developers.** run the session as a syllabus workshop, not a policy briefing. The gap between 71% saying guidance shaped their materials "none" or "a little" and 52% being neither satisfied nor dissatisfied suggests instructors are not refusing the guidance so much as finding nothing in it they can paste into a week-one document.
+- **Administrators.** a binding data-security rule is not teaching guidance. If the only enforceable policy sorts data into public, university-internal, restricted and critical categories and lists which tools may receive them, expect a syllabus that is silent on both ethics and citation — which is where 7 of 16 documents landed on ethics and 7 of 16 on citation.
+- **Instructional designers.** put the privacy paragraph in the template. The one gap that is both the institution's stated priority and almost entirely absent from course materials is the one a template can close without requiring an instructor to become an expert in vendor data practices.
 
 ## Limitations
 

@@ -1,4 +1,4 @@
----
+
 title: "Can GenAI be trained to mimic human markers of extended written assignments in higher education?"
 created: "2026-11-13T16:30:00-05:00"
 updated: "2026-11-13T16:30:00-05:00"
@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 verified: [citation, numbers]
 ---
-> **Synthesis:** Whether an [[llm|LLM]] can stand in for a human marker matters to any program tempted to give students an early, [[formative-assessment|formative]] estimate of how an essay would score. Kay and colleagues had two versions of ChatGPT mark the same 50 [[biology-education|bioscience]] essays against the real rubric under four prompting conditions, comparing averages and spreads with the original human marks. The averages often looked close enough to invite adoption; the spread did not, and supplying human marks and feedback never repaired the scale, so a composite average is the wrong basis for approving [[automated-assessment|automated marking]].
+> **Synthesis:** Whether an [[llm|LLM]] can stand in for a human marker matters to any program tempted to give students an early, [[formative-assessment|formative]] estimate of how an essay would score. Kay and colleagues had two versions of ChatGPT mark the same 50 [[biology-education|bioscience]] essays against the real [[rubrics|rubric]] under four prompting conditions, comparing averages and spreads with the original human marks. The averages often looked close enough to invite adoption; the spread did not, and supplying human marks and feedback never repaired the scale, so a composite average is the wrong basis for approving [[automated-assessment|automated marking]].
 
 ## Key Findings
 
@@ -60,11 +60,11 @@ What the study can assert is firmer: adding human judgment to the context improv
 
 ## What this means for practice
 
-- **Instructors:** Do not hand a student an LLM mark as a predicted grade; make the student argue with the output against the rubric instead.
-- **Instructors:** Replace benchmarking with criteria mapping and scaffolded [[peer-assessment|peer feedback]], so students predict a grade by matching descriptors to their work.
-- **Assessment designers:** Pilot at criterion and essay level, reporting the calibration slope and change in spread rather than the mean difference.
-- **Faculty developers:** Use model marks for [[evaluative-judgment|evaluative judgment]] training, since criterion-level disagreements expose where human markers rely on tacit discrimination.
-- **Administrators:** Keep [[summative-assessment|summative]] decisions with humans, require consent before student work enters a platform, and demand per-criterion evidence, not composite agreement.
+- **Instructors.** Do not hand a student an LLM mark as a predicted grade; make the student argue with the output against the rubric instead.
+- **Instructors.** Replace benchmarking with criteria mapping and scaffolded [[peer-assessment|peer feedback]], so students predict a grade by matching descriptors to their work.
+- **Assessment designers.** Pilot at criterion and essay level, reporting the calibration slope and change in spread rather than the mean difference.
+- **Faculty developers.** Use model marks for [[evaluative-judgment|evaluative judgment]] training, since criterion-level disagreements expose where human markers rely on tacit discrimination.
+- **Administrators.** Keep [[summative-assessment|summative]] decisions with humans, require consent before student work enters a platform, and demand per-criterion evidence, not composite agreement.
 
 ## Limitations
 

@@ -1,4 +1,4 @@
----
+
 title: "Does GenAI Perform Better than Students and Novice Software Developers in Agile/Scrum Requirements Engineering Tasks?"
 created: "2026-11-12T09:30:00-05:00"
 updated: "2026-11-12T09:30:00-05:00"
@@ -39,7 +39,7 @@ methods: [qualitative-research]
 
 ## Seventeen mistake types, one checklist
 
-The dataset is marking feedback, not submissions: anonymized comments from an eLearning system on an [[authentic-assessment|authentic team assignment]] run in Semesters 1 and 2 of 2023 and 2024, before GenAI use was common on this task. [[qualitative-research|Open coding and constant comparison]] produced 17 codes, summarized into six categories — product backlog scope and content, user-story format, epics, readability and style, priorities, and effort. The checklist is deliberately distinct from the marking rubric: a rubric makes a grade transparent to markers and students, while a checklist is a pre-submission check against the failures that actually recur. Its categories map onto the three marking criteria, so completeness belongs to scope and content, user-story format to format, epics and style, and priorities and effort to their own categories. Teams typically produced 20–25 user stories, and backlogs with fewer than 20 had scope or granularity problems. The instrument is the kind of task-specific diagnostic vocabulary [[cs-education|CS education]] rarely formalizes: a checklist an instructor can hand to a team before marking, not after.
+The dataset is marking feedback, not submissions: anonymized comments from an eLearning system on an [[authentic-assessment|authentic team assignment]] run in Semesters 1 and 2 of 2023 and 2024, before GenAI use was common on this task. [[qualitative-research|Open coding and constant comparison]] produced 17 codes, summarized into six categories — product backlog scope and content, user-story format, epics, readability and style, priorities, and effort. The checklist is deliberately distinct from the marking [[rubrics|rubric]]: a rubric makes a grade transparent to markers and students, while a checklist is a pre-submission check against the failures that actually recur. Its categories map onto the three marking criteria, so completeness belongs to scope and content, user-story format to format, epics and style, and priorities and effort to their own categories. Teams typically produced 20–25 user stories, and backlogs with fewer than 20 had scope or granularity problems. The instrument is the kind of task-specific diagnostic vocabulary [[cs-education|CS education]] rarely formalizes: a checklist an instructor can hand to a team before marking, not after.
 
 ## Where teams lose marks
 

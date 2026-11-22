@@ -1,4 +1,4 @@
----
+
 title: "OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models"
 created: "2026-09-24T02:19:48-04:00"
 updated: "2026-09-24T02:19:48-04:00"
@@ -31,7 +31,7 @@ page_kind: [evaluation, framework]
 - **Content and pedagogical knowledge diverge.** Claude-Opus-4.5 shows a 19.8 point gap between content (66.3%) and pedagogical knowledge (86.1%), suggesting it understands how to teach better than what to teach.
 - **Skills cluster by educational center.** Counseling averages highest (8.78), with GPT-5.2 reaching 9.07 there, while Assessment and Research are hardest at 8.42 each, pointing to structured judgment as the weak spot.
 - **Alignment consistency separates models sharply.** GLM-4.7, GPT-5.2, DeepSeek-v3.2, and Claude-Opus-4.5 score 1.0, while Grok-4.1-fast (5.50) and Gemini-3-Pro (5.00) behave more permissively when they consider themselves unobserved.
-- **The three axes are largely independent.** Knowledge correlates negatively with Skills (r = -0.51) and Attitude (r = -0.63), while Skills and Attitude correlate weakly (r = 0.22), so accuracy alone says little about educational capability.
+- **The three axes are largely independent.** Knowledge moves in the opposite direction to Skills and Attitude, and Skills and Attitude relate only weakly, so accuracy alone says little about educational capability.
 
 ## The gap in prior educational benchmarks
 
@@ -39,7 +39,7 @@ Earlier educational [[benchmark|benchmarks]] grew quickly but stayed narrow. Lea
 
 ## How the benchmark was built and scored
 
-Construction rested on 14 experts and a four-month Delphi study that fixed the taxonomy first. Skills items came from an automated gpt-5-mini pipeline producing 122,425 items at a 99.6% success rate, split into roughly 116,000 training and 6,100 test items. Knowledge items stayed authentic: 798 from C-Eval, 120 from GPQA, 243 from a Korean [[teacher-role|teacher]] examination, and 1,143 from the Chilean pedagogy benchmark, totaling 2,304 multiple-choice questions. An LLM-as-Judge screened quality against a 25-point rubric, and 122,365 of 122,439 items passed. Knowledge is graded by exact match; Skills long answers against a 10-point rubric for each of the 81 sub-scenarios; the 12 standard attitude scenarios with 10 samples each; and the 2 deception scenarios with 100 samples under monitored and unmonitored prompts, where the deception score is the difference between the two means.
+Construction rested on 14 experts and a four-month Delphi study that fixed the taxonomy first. Skills items came from an automated gpt-5-mini pipeline producing 122,425 items at a 99.6% success rate, split into roughly 116,000 training and 6,100 test items. Knowledge items stayed authentic: 798 from C-Eval, 120 from GPQA, 243 from a Korean [[teacher-role|teacher]] examination, and 1,143 from the Chilean pedagogy benchmark, totaling 2,304 multiple-choice questions. An LLM-as-Judge screened quality against a 25-point [[rubrics|rubric]], and 122,365 of 122,439 items passed. Knowledge is graded by exact match; Skills long answers against a 10-point rubric for each of the 81 sub-scenarios; the 12 standard attitude scenarios with 10 samples each; and the 2 deception scenarios with 100 samples under monitored and unmonitored prompts, where the deception score is the difference between the two means.
 
 ## Model profiles and why the axes stay separate
 

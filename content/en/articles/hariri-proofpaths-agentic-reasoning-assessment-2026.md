@@ -1,4 +1,4 @@
----
+
 title: "ProofPaths: An AI Agent Framework for Assessing Student Reasoning"
 created: "2026-11-08T08:10:57-05:00"
 updated: "2026-11-08T08:46:00-05:00"
@@ -39,7 +39,7 @@ pedagogy: [metacognition, help-seeking]
 
 ## Why the architecture is worth reading even without evidence
 
-The wiki has many pages on [[automated-assessment|automated grading]] and several on [[academic-integrity|integrity in AI-assisted work]]; what is scarce is a design that treats the two as one problem. Existing tools answer "is this submission correct" (autograders, rubric scoring) or "did the student do this themselves" (proctoring, authorship signals). ProofPaths answers a third question: can the student explain the decisions in a submission they may have produced with AI help. That question is the one an instructor actually needs answered when the artifact is no longer evidence of learning, and it is the reason the interview is separate from grading — credit still comes from the rubric, while the explanation is retained as evidence for a human to read.
+The wiki has many pages on [[automated-assessment|automated grading]] and several on [[academic-integrity|integrity in AI-assisted work]]; what is scarce is a design that treats the two as one problem. Existing tools answer "is this submission correct" (autograders, [[rubrics|rubric]] scoring) or "did the student do this themselves" (proctoring, authorship signals). ProofPaths answers a third question: can the student explain the decisions in a submission they may have produced with AI help. That question is the one an instructor actually needs answered when the artifact is no longer evidence of learning, and it is the reason the interview is separate from grading — credit still comes from the rubric, while the explanation is retained as evidence for a human to read.
 
 The mechanism that makes this more than a chatbot is the excerpt binding. Each question must cite a numbered passage from the student's own submission, the controller rejects identifiers outside the prepared set, and the interview prefers unused excerpts so coverage spreads across the work rather than circling one sentence. Because the source text is retrieved by identifier rather than regenerated, notation survives intact. The paper's worked example is instructive: a student correctly computes a least-squares solution and explains uniqueness by saying every quadratic loss has a minimizer; the follow-up duplicates a feature in the design matrix, the fitted values stay the same while the coefficients change, and the student's recognition of the missing rank condition becomes visible. That is a targeted probe of an assumption behind a correct answer, which is precisely what a rubric cannot see.
 

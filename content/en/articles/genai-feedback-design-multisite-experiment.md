@@ -1,4 +1,4 @@
----
+
 title: "Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation"
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
@@ -66,7 +66,7 @@ g revision.**
 - **Instructors.** Pair AI critique with [[peer-assessment|peer feedback]] instead of substituting it — the hybrid condition (self-evaluation → peer feedback → GenAI critique) showed the highest immediate argument-quality gains and the clearest advantage on conceptual learning.
 - **Instructional designers.** Build the revision process into the task, not just the feedback channel: gains were partially mediated by feedback uptake and self-regulated learning during revision, and the hybrid revision memo was capped at 100–150 words to force judgment rather than transcription.
 - **Faculty developers.** Model and require the four revision steps the paper identifies — interpret critique, compare it against criteria, judge its relevance, then revise — since direct GenAI encourages students to outsource evaluative judgment.
-- **Administrators.** Fund cross-site comparability work: a shared task-design protocol and a common analytic rubric across 4 universities and 3 science domains let the 48 sections be compared at all.
+- **Administrators.** Fund cross-site comparability work: a shared task-design protocol and a common analytic [[rubrics|rubric]] across 4 universities and 3 science domains let the 48 sections be compared at all.
 
 ## Limitations
 

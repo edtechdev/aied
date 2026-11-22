@@ -1,4 +1,4 @@
----
+
 title: Automated Grading of Linux/Bash Examinations Using Large Language Models
 created: "2026-07-03T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
@@ -16,7 +16,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Alonso-Carracedo et al. (2026) ask whether frontier LLMs can stand in for expert graders on short Linux/bash command-line answers, and return a qualified yes whose limits are predictable in advance. Testing GPT 5.2, Claude Opus 4.6, Gemini 3.0 Pro and GLM 5 on 1,200 real responses under a minimal prompt and a rubric-enhanced prompt, they report that Gemini 3.0 Pro with the rubric reaches ICC(3,1) = 0.888 against a three-instructor consensus — strong, but short of the human ceiling of 0.949 — and that agreement falls monotonically as a four-level cognitive taxonomy rises. The headline design lesson is that rubric quality moves agreement more than model choice.
+> **Synthesis:** Alonso-Carracedo et al. (2026) ask whether frontier LLMs can stand in for expert graders on short Linux/bash command-line answers, and return a qualified yes whose limits are predictable in advance. Testing GPT 5.2, Claude Opus 4.6, Gemini 3.0 Pro and GLM 5 on 1,200 real responses under a minimal prompt and a [[rubrics|rubric]]-enhanced prompt, they report that Gemini 3.0 Pro with the rubric reaches ICC(3,1) = 0.888 against a three-instructor consensus — strong, but short of the human ceiling of 0.949 — and that agreement falls monotonically as a four-level cognitive taxonomy rises. The headline design lesson is that rubric quality moves agreement more than model choice.
 
 ## Overview
 
@@ -32,7 +32,7 @@ Grading command-line examinations by hand does not scale to rising enrollments i
 
 ## Key Findings
 
-- **Human grading formed an exceptionally tight reference.** Inter-rater reliability among the three instructors reached Pearson r = 0.949, ICC(2,1) = 0.949, weighted κ = 0.948 and MAE = 0.028 points, with a Bland-Altman bias of −0.008 — a ceiling no model matched.
+- **Human grading formed an exceptionally tight reference.** Inter-rater reliability among the three instructors was near-perfect across every agreement index, with negligible bias — a ceiling no model matched.
 - **Best model–prompt combination.** Gemini 3.0 Pro with the rubric achieved ICC(3,1) = 0.888, Pearson 0.888, weighted κ = 0.886, MAE = 0.100 and Bland-Altman bias = −0.014, the strongest human–AI agreement observed.
 - **Rubric mattered more than provider.** Every model improved from V1 to V2: Gemini 0.829→0.888, Claude 0.809→0.863, GLM 0.793→0.844, GPT 0.779→0.847. GPT showed the largest MAE reduction (0.184→0.132).
 - **Model spread at baseline.** GLM 5 was the most conservative, with the lowest agreement in both variants and a systematic under-grading bias (−0.093 in V1); GPT V1 was the weakest starting point (ICC = 0.779).

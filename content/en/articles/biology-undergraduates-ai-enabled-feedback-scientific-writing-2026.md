@@ -1,4 +1,4 @@
----
+
 title: "Biology Undergraduates' Use of AI-Enabled Feedback to Revise Scientific Writing: Recipience and Barriers"
 created: "2026-10-26T09:30:00-04:00"
 updated: "2026-10-26T09:30:00-04:00"
@@ -37,7 +37,7 @@ verified: [citation, numbers, links]
 4. **Prescriptive comments were used more than demanding ones.** Team 2 fully or partially addressed 6 of the 9 paragraph-specific comments but none of the 4 whole-proposal comments.
 5. **Students avoided new research.** Neither team added new citations: both teams removed citations from their first drafts, and Team 1 deleted 5 citations that were essential for supporting claims.
 6. **Self-evaluation feedback was largely ignored.** Neither team addressed the "Flow of Writing" or "Claims Are Supported" comments, which required judging the coherence of the proposal or the adequacy of support for claims.
-7. **One team shrank its draft.** Team 1's word count fell from 465 words in the first draft to 292 words in the final draft, tightening prose while omitting rubric-relevant detail.
+7. **One team shrank its draft.** Team 1's word count fell from 465 words in the first draft to 292 words in the final draft, tightening prose while omitting [[rubrics|rubric]]-relevant detail.
 
 ## The tool: instructor-configured feedback
 

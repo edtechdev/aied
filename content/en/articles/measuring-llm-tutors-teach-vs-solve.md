@@ -1,4 +1,4 @@
----
+
 title: "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact"
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
@@ -15,13 +15,13 @@ page_kind: [evaluation, framework]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Studies whether public [[llm|LLM]] tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and [[pedagogy|pedagogy]]-oriented [[benchmark|benchmark]] performance. Using MathTutorBench, shows correlation between solving and pedagogy composites is only r=0.421 across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive [[scaffolding|scaffolding]]. Recommends reporting solving and pedagogy scores separately.
+> **Synthesis:** Studies whether public [[llm|LLM]] tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and [[pedagogy|pedagogy]]-oriented [[benchmark|benchmark]] performance. Using MathTutorBench, shows only a moderate correlation between solving and pedagogy composites across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive [[scaffolding|scaffolding]]. Recommends reporting solving and pedagogy scores separately.
 
 ## Key Findings
 
 - Stronger task-solving ability does **not necessarily imply stronger learning support**: a response that looks helpful can be pedagogically harmful by giving away the answer.
-- Using public **MathTutorBench** leaderboard results across **eight publicly reported models**, the correlation between solving-oriented and pedagogy-oriented composite scores is only **r = 0.421**, and **several models shift meaningfully in rank** when evaluation moves from solving to pedagogy.
-- Analysis of the public **TutorBench sample** shows that agency-relevant behaviors are **explicitly encoded in benchmark rubrics**, especially in [[active-learning|active learning]] settings that reward **guiding questions, calibrated hints, and non-disclosive scaffolding**.
+- Using public **MathTutorBench** leaderboard results across **eight publicly reported models**, the correlation between solving-oriented and pedagogy-oriented composite scores is only moderate, and **several models shift meaningfully in rank** when evaluation moves from solving to pedagogy.
+- Analysis of the public **TutorBench sample** shows that agency-relevant behaviors are **explicitly encoded in benchmark [[rubrics|rubrics]]**, especially in [[active-learning|active learning]] settings that reward **guiding questions, calibrated hints, and non-disclosive scaffolding**.
 - The proposed diagnostic is **lightweight**: it is based on the gap between solving-oriented and pedagogy-oriented benchmark performance, requiring no new data collection.
 - The authors argue that **educational-impact evaluation should not treat task success as a sufficient proxy for learning support**.
 
@@ -31,7 +31,7 @@ The diagnostic exploits the fact that public tutoring benchmarks (MathTutorBench
 
 ## What this means for practice
 
-- **Learners.** Judge a tutor on how it teaches rather than how well it answers: across eight publicly reported models the correlation between solving-oriented and pedagogy-oriented composite scores was only r = 0.421.
+- **Learners.** Judge a tutor on how it teaches rather than how well it answers: across eight publicly reported models the correlation between solving-oriented and pedagogy-oriented composite scores was only moderate.
 - **Learners.** Look for the behaviors that tutoring rubrics already reward — guiding questions, calibrated hints, and non-disclosive scaffolding that preserves your agency — rather than a tool that produces the fastest complete answer.
 - **Software developers.** Report solving-oriented and pedagogy-oriented scores separately on tutoring leaderboards instead of a single aggregate helpfulness figure, and re-check a model shortlist under pedagogy-oriented rubrics, because several models shift meaningfully in rank between the two evaluations.
 - **Software developers.** Add a disclosure-sensitive dimension that penalizes giving away full solutions where the learner context calls for scaffolding; the diagnostic requires no new data collection and runs on rubric items that public [[benchmark|benchmarks]] such as MathTutorBench and TutorBench already publish.

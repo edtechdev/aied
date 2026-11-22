@@ -1,4 +1,4 @@
----
+
 title: "Exploring Teachers' Instrumental Orchestration and Roles in High School Mathematics Classes Using AI-Based Digital Tools"
 created: "2026-10-04T05:12:00-04:00"
 updated: "2026-10-04T05:12:00-04:00"
@@ -51,7 +51,7 @@ That last pair is where the roles concentrate. When the teacher intervened in AI
 
 - **Instructors.** Plan for the tool to be wrong. Handwritten mathematics and graphs are exactly where AI recognition fails, so budget class time for adjudicating feedback rather than assuming it lands correctly, and say out loud why you are overriding it — students learn something from the correction itself.
 - **Instructors new to AI-based tools.** The teacher in this study reached his setup by abandoning tools that did not fit: he left an AI courseware when it stopped him seeing the whole class, and added a process-capable tool when answer-only scoring was not enough. Expect to run more than one tool, and to change your mind about which.
-- **Faculty developers and instructional coaches.** The new orchestration types are observable behaviors and make a workable observation rubric: does the teacher read the dashboard and act on it, does the teacher catch and correct AI errors, does the teacher frame what the AI said for the class?
+- **Faculty developers and instructional coaches.** The new orchestration types are observable behaviors and make a workable observation [[rubrics|rubric]]: does the teacher read the dashboard and act on it, does the teacher catch and correct AI errors, does the teacher frame what the AI said for the class?
 - **Administrators.** Dashboard-monitoring only exists if the tool surfaces class-level and student-level data in a usable interface, and AI-correcting only exists if the teacher has authority to override the tool's judgment. Both are procurement and policy decisions as much as teaching ones.
 - **Researchers.** The framework extension is testable. Replicate the episode-based analysis with teachers of different experience, technology confidence and school level, and with different tools, to see which of the three new types are properties of AI-based tools and which are properties of this teacher.
 

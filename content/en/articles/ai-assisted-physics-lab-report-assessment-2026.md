@@ -1,4 +1,4 @@
----
+
 title: "AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice"
 created: "2026-09-22T09:31:48-04:00"
 updated: "2026-09-22T09:31:48-04:00"
@@ -29,7 +29,7 @@ reviewed_by: [editor]
 1. **Model generation changed what could be attempted.** GPT-3.5 handled textual review and simple conceptual errors, GPT-4 added cross-section consistency, GPT-4o added joint text-and-image processing, and reasoning-oriented models extended multistep mathematical work.
 2. **Availability of evidence is not the same as its presence in the document.** An equation, graph, table, or unit may be correctly included in a report yet not be retrieved in the processed content the model works from.
 3. **Differences from instructor grading can be extraction failures.** Because a small change to a value, unit, sign, or expression alters the physical interpretation, a disagreement need not indicate a reasoning problem.
-4. **Batch processing and conversation do different jobs.** API processing applies identical instructions and rubric criteria across many submissions; conversational review lets an instructor direct attention to one specific criterion, equation, or figure.
+4. **Batch processing and conversation do different jobs.** API processing applies identical instructions and [[rubrics|rubric]] criteria across many submissions; conversational review lets an instructor direct attention to one specific criterion, equation, or figure.
 5. **Token consumption is a design variable.** Usage depends on document length, instruction length, rubric length, and requested feedback, and per-report differences accumulate across dozens or hundreds of submissions.
 6. **Rubric items do not tolerate automation equally.** Objectives was judged the safest item to delegate after general review, while data analysis and conclusions require [[teacher-role|teacher]] verification of calculations, units, graphs, and uncertainties.
 7. **Aggregate analysis can guide teaching.** Processing a set of reports reveals which difficulties recur — uncertainties and significant figures, graph interpretation, model selection, units — supporting collective feedback instead of repeated individual comments.

@@ -1,4 +1,4 @@
----
+
 title: "Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact"
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-20T08:50:26-04:00"
@@ -74,7 +74,7 @@ This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|
 ## Limitations
 
 - Teaching-quality measures come from the NCTE Main Study, which comprises observations of roughly 350 4th and 5th-grade mathematics teachers across four U.S. school districts, so generalization from U.S. primary mathematics classrooms to all classrooms is not demonstrable here.
-- Expert ratings pertain solely to a subset of rating items on a specific rubric — 7 observation dimensions drawn from MQI and CLASS — which may limit conclusions about other tasks of classroom instructional support.
+- Expert ratings pertain solely to a subset of rating items on a specific [[rubrics|rubric]] — 7 observation dimensions drawn from MQI and CLASS — which may limit conclusions about other tasks of classroom instructional support.
 - Value-added measures are imperfect, high-variance estimates of causal impact and transcript segments are partial, lossy views of instruction; the authors present their variance decomposition as a statement about where misalignment concentrates under this measurement system, not as a definitive census of all sources of pedagogical effectiveness.
 - Estimates are conditional on the sampled items, segments, models, and prompt families (16 LLMs, 3 zero-shot prompt techniques), and the authors flag that the test set may have unobserved confounding factors in its construction.
 

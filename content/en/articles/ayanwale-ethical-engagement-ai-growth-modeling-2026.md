@@ -1,4 +1,4 @@
----
+
 title: "Cohort-level growth modeling of ethical engagement with artificial intelligence in education"
 created: "2026-10-16T07:00:00-04:00"
 updated: "2026-10-16T07:00:00-04:00"
@@ -54,7 +54,7 @@ Transformative [[learning-theories|Learning Theory]] supplies the interpretive f
 ## What this means for practice
 
 - **Instructors.** Embed ethical decision-making across the programming [[curriculum-design|curriculum]] rather than confining it to a stand-alone course, and build tasks that require students to disclose AI assistance, verify generated content, identify bias and privacy risks, and justify their reliance on automated recommendations.
-- **Assessment designers.** Use shared rubrics that score transparency, fairness, [[human-in-the-loop-ai|human judgment]], verification, privacy, and accountability, and treat verified artifacts and disclosures as evidence alongside what students say about themselves.
+- **Assessment designers.** Use shared [[rubrics|rubrics]] that score transparency, fairness, [[human-in-the-loop-ai|human judgment]], verification, privacy, and accountability, and treat verified artifacts and disclosures as evidence alongside what students say about themselves.
 - **Administrators and policymakers.** Publish assessment-specific expectations for permitted assistance, disclosure, attribution, verification, authorship, and accountability, distinguishing formative from [[summative-assessment|summative]] AI use and requiring each assessment brief to state what is allowed, restricted, or prohibited. The paper recommends cross-functional governance involving students, lecturers, [[librarians|librarians]], IT staff, disability services, data protection, quality assurance, and integrity committees.
 - **Curriculum designers.** Do not assume that students with lower initial awareness will catch up faster; the data show no compensatory pattern, so instruction should respond to demonstrated needs rather than to an assumed convergence.
 - **Faculty developers.** Pair introductory worked cases and structured reflection with advanced tasks addressing locally relevant problems — language representation, surveillance, data ownership, infrastructure inequality, and dependence on externally developed platforms — so that ethical reasoning reaches the contexts the cohort actually inhabits.

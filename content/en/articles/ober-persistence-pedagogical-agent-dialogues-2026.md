@@ -1,4 +1,4 @@
----
+
 title: "Using LLMs to Identify Indicators of Persistence from Students' Dialogues with a Pedagogical Agent"
 created: "2026-11-05T20:00:00-05:00"
 updated: "2026-11-05T20:00:00-05:00"
@@ -40,7 +40,7 @@ The chat logs came from a conversation-based assessment (CBA) built to evaluate 
 
 ## Eight LLM configurations against a human benchmark
 
-The coding task asked each "coder" to label every turn with any of five construct-level codes: persistence, self-efficacy, interest, perceived challenge, and prior KSAs (knowledge, skills, and attitudes). Prompt and construct definitions were developed collaboratively and refined through the same iterative process used to train the humans, so the comparison would be as fair as possible. Eight LLM conditions crossed model type (ChatGPT4o versus ChatGPT4o-mini) with four temperature settings (0, 0.3, 0.7, 1), and every configuration ran the identical prompt twice — once between March 30 and April 2, 2025, and again between May 28 and 30, 2025 — so that stability could be assessed on separate occasions. Codes the models invented outside the rubric, such as "Curiosity" and "Engagement" at temperature 1, were removed before analysis. Two trained human coders with over five years of assessment experience each provided the benchmark: one coded all 10,919 turns and the other a random subset of 2,092. Chance-corrected Cohen's kappa and Krippendorff's alpha were reported alongside percent agreement, because high percent agreement can mask disagreement on the rare positive cases that carry the construct.
+The coding task asked each "coder" to label every turn with any of five construct-level codes: persistence, self-efficacy, interest, perceived challenge, and prior KSAs (knowledge, skills, and attitudes). Prompt and construct definitions were developed collaboratively and refined through the same iterative process used to train the humans, so the comparison would be as fair as possible. Eight LLM conditions crossed model type (ChatGPT4o versus ChatGPT4o-mini) with four temperature settings (0, 0.3, 0.7, 1), and every configuration ran the identical prompt twice — once between March 30 and April 2, 2025, and again between May 28 and 30, 2025 — so that stability could be assessed on separate occasions. Codes the models invented outside the [[rubrics|rubric]], such as "Curiosity" and "Engagement" at temperature 1, were removed before analysis. Two trained human coders with over five years of assessment experience each provided the benchmark: one coded all 10,919 turns and the other a random subset of 2,092. Chance-corrected Cohen's kappa and Krippendorff's alpha were reported alongside percent agreement, because high percent agreement can mask disagreement on the rare positive cases that carry the construct.
 
 ## Self-consistent but not human-aligned
 

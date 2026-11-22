@@ -1,4 +1,4 @@
----
+
 title: "AI as Co-Designer and Feedback Partner: Enhancing Human Judgment"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -37,7 +37,7 @@ verified: [citation, numbers, links]
 3. **The model's answer is a prompt, not evidence.** The authors are explicit that the AI response is not treated as proof that an item is correct or flawed, but as an additional perspective that leads faculty to reconsider how a question may be interpreted.
 4. **[[conversational-ai|Chatbots]] can be resource-based rather than content-generating.** One author partnered with instructional designers to build an LMS chatbot that guides students through a milestone assessment with prompts encouraging synthesis, identification of knowledge gaps, and review of course materials — deliberately not producing the student's response.
 5. **Feedback partnerships rest on metacognition and self-regulated learning.** The authors describe static [[ai-feedback-quality|AI feedback]] systems as valuable because learners must interpret and justify feedback, and [[adaptive-learning|adaptive systems]] as supporting calibration of task complexity and just-in-time support.
-6. **Risks are named rather than solved.** The article flags [[hallucination-risk|hallucinations]] that appear credible but are wrong, privacy exposure from uploading student work and rubrics to third-party platforms, and the difficulty of distinguishing student work from AI output, which [[ai-detection|AI detection]] handle poorly.
+6. **Risks are named rather than solved.** The article flags [[hallucination-risk|hallucinations]] that appear credible but are wrong, privacy exposure from uploading student work and [[rubrics|rubrics]] to third-party platforms, and the difficulty of distinguishing student work from AI output, which [[ai-detection|AI detection]] handle poorly.
 7. **The closing framework is a design checklist.** The authors propose six considerations — AI tools and assessment design, formative assessment, summative assessment, ethical use, pedagogical purpose, and human judgment — each broken into context, potential strategies, and issues to consider.
 
 ## Co-design as augmented intelligence
@@ -54,11 +54,11 @@ The paper's practical output is a framework of six considerations for authentic 
 
 ## What this means for practice
 
-- **[[teacher-role|teacher role]]** Pre-test high-stakes items by asking your AI tool to answer them, then compare its reasoning with the keyed response; treat what it produces as a prompt to reconsider the item, not as evidence that the item is flawed.
+- **Instructors.** Pre-test high-stakes items by asking your AI tool to answer them, then compare its reasoning with the keyed response; treat what it produces as a prompt to reconsider the item, not as evidence that the item is flawed.
 - **Instructors.** Build feedback prompts that require interpretation rather than correction — static, resource-based systems that make students justify and apply feedback tend to support deeper [[metacognition|metacognitive]] engagement than systems that hand back answers.
 - **Assessment designers.** Use the six considerations as a design checklist, and pair each task with an explicit statement of what the AI may do and what the student must demonstrate unaided.
 - **Faculty developers.** Pair tool access with formation in [[prompt-engineering|prompt design]], verification, and ethical use, because the authors argue that successful implementation depends on educators' ability to align tools with learning goals rather than on the tools themselves.
-- **[[administrator|administrator]]** Budget for licensing, infrastructure, faculty training, data security, and ongoing maintenance, and assess which AI tools support current institutional priorities before committing funds.
+- **Administrators.** Budget for licensing, infrastructure, faculty training, data security, and ongoing maintenance, and assess which AI tools support current institutional priorities before committing funds.
 
 ## Limitations
 

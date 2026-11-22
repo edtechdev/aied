@@ -1,4 +1,4 @@
----
+
 title: "The shifting landscape of assessment in STEM education in the age of generative AI"
 created: "2026-09-29T09:21:15-04:00"
 updated: "2026-09-29T09:26:59-04:00"
@@ -47,7 +47,7 @@ Accepted use is socially negotiated: students use [[conversational-ai|chatbots]]
 
 If chatbots can reproduce answers to decontextualized, single-correct-answer questions, the authors argue, students see little value in mastering them. Redesign distributes evidence across the process: annotated drafts, in-class checkpoints, and reflective accounts reveal how students frame problems, respond to [[feedback|feedback]], and exercise [[evaluative-judgment|judgment]]. [[authentic-assessment|Authentic assessment]] — real-world tasks such as troubleshooting, open-ended design, and interpreting noisy data — gives students meaning, but can be gamed unless design also captures process, performance, and interaction data.
 
-[[oral-assessment|Oral exams]] are described as undergoing a renaissance, observing whether students understand key claims, choices, calculations, or code. Practices include sharing rubrics in advance, recording exams for review and calibration, offering rehearsal, and providing exemplar recordings. The paper also frames [[ai-literacy|AI literacy]] as an emerging competency distinct from foundational disciplinary competence and from judging AI-supported work.
+[[oral-assessment|Oral exams]] are described as undergoing a renaissance, observing whether students understand key claims, choices, calculations, or code. Practices include sharing [[rubrics|rubrics]] in advance, recording exams for review and calibration, offering rehearsal, and providing exemplar recordings. The paper also frames [[ai-literacy|AI literacy]] as an emerging competency distinct from foundational disciplinary competence and from judging AI-supported work.
 
 ## AI in the assessment infrastructure, and the fidelity of AI-generated materials
 

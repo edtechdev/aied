@@ -1,4 +1,4 @@
----
+
 title: "From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education"
 created: "2026-08-31T09:06:11-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -44,7 +44,7 @@ Five interdisciplinary cases — psychology theory, educational statistics, [[cs
 ## What this means for practice
 
 - **Educators.** Add a compact verification record to assignments: have students identify one to three consequential AI contributions, show the evidence chain used to examine them, state what changed, and explain the final reliance decision — keeping the record selective, since requiring every prompt produces surveillance and administrative overload without improving [[evaluative-judgment|judgment]].
-- **Educators.** Teach PEARLS as a disciplinary practice rather than a generic checklist: model a think-aloud audit of a deliberately flawed output, have students compare verified and unverified exemplars and audit in pairs, then fade the prompts as expertise develops.
+- **Educators.** Teach PEARLS as a disciplinary practice rather than a generic checklist: model a think-aloud audit of a deliberately flawed output, have students compare verified and unverified [[rubrics|exemplars]] and audit in pairs, then fade the prompts as expertise develops.
 - **Educators.** Apply a risk-based rule to decide what to verify — claims that are central, surprising, numerical, source-dependent, ethically sensitive, or difficult to reverse.
 - **Assessment designers.** Build rubrics that judge the quality of reasoning rather than the quantity of documentation, and pair documentation with brief oral explanation, executable artifacts, source annotations, or in-class verification tasks so fabricated process logs lose their value. Weigh the load against resources, since verification consumes time, database access, disciplinary language, and sometimes paid tools, and learners with fewer resources are asked to bear a larger burden to prove responsible use.
 - **Researchers.** Begin with construct clarification and content validation — expert panels testing whether the six dimensions are distinct, comprehensive, and interpreted consistently — before moving to controlled studies that compare PEARLS instruction with generic critical-thinking prompts and ordinary AI use.

@@ -1,4 +1,4 @@
----
+
 title: "From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI"
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
@@ -37,7 +37,7 @@ The framework integrates Beard's experiential [[pedagogical-patterns|learning se
 ## What this means for practice
 
 - **Instructors.** Replace detection-based responses with a designed assessment that embeds [[generative-ai|GenAI]] explicitly, and add classroom activities — debating authorship, discussing [[bias-mitigation|bias]] in AI image generation, reviewing AI-written work presented as human-authored — to build the ethical reasoning behind disclosure.
-- **Instructors.** Turn values into gradeable terms: write rubric criteria that express disclosure, accuracy, and independence as discrete acts such as statements addressing conflict of interest or omission of sources.
+- **Instructors.** Turn values into gradeable terms: write [[rubrics|rubric]] criteria that express disclosure, accuracy, and independence as discrete acts such as statements addressing conflict of interest or omission of sources.
 - **Instructors.** Prepare students for [[human-in-the-loop-ai|human-in-the-loop]] newsroom roles by having them specify source requirements, flag factual uncertainty, and maintain authorship clarity.
 - **Designers.** Reuse the values–processes–competencies triad across disciplines, since the four values and the experiential sequence are deliberately high-level, and adjust unit outcomes, local journalism codes, and tool choice per context.
 - **Administrators.** Embed GenAI assessment design in institutional quality and [[academic-integrity|integrity]] frameworks rather than treating [[ethics|ethical AI]] use as a discrete technical skill.

@@ -1,4 +1,4 @@
----
+
 title: "Building sustainable futures: Responsible development of AI-enabled open educational resources as digital public goods"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"
@@ -30,7 +30,7 @@ verified: [citation, numbers]
 2. It describes fragmentation as structural rather than transitional: resources sit on disconnected platforms, often in formats that resist reuse, without consistent metadata, and the gap widens where internet access is least reliable.
 3. It adds a distributional claim: the global OER landscape is uneven, with Global North dominance of material in English, and limited collaboration between institutions and between countries.
 4. Its remedy is a standards layer, ROAM-X (rights, openness, accessibility, multi-stakeholder participation, cross-cutting issues) for governance, described via UNESCO's 303 Internet Universality Indicators, and FAIR (findable, accessible, interoperable, reusable) for indexing and reuse.
-5. On AI it holds that benefits and risks arrive together: translation, speech output, automated quizzes and rubrics, adaptive pathways and lower production cost, against market capture by venture capital, blurred consent and attribution, energy demand and flooded low-quality content.
+5. On AI it holds that benefits and risks arrive together: translation, speech output, automated quizzes and [[rubrics|rubrics]], adaptive pathways and lower production cost, against market capture by venture capital, blurred consent and attribution, energy demand and flooded low-quality content.
 6. It argues that copyright currently works against OER creators, since United States rulings suggest AI-generated content cannot be copyrighted because the law assumes human authorship, leaving such material in the public domain.
 7. Its recommendations are legal and organizational rather than technical: open licensing of publicly funded materials, disclosure when content is machine generated, informed consent and institutional audit of learner data, independent academic review, and capacity building in data and [[ai-literacy|AI literacy]].
 

@@ -1,4 +1,4 @@
----
+
 title: "Assessing Self-Perceived Critical Thinking in AI-Mediated Academic Tasks: Development and Initial Psychometric Evidence for the Critical Thinking with AI Scale for Students (CTAI-S)"
 created: "2026-11-21T08:25:00-05:00"
 updated: "2026-11-21T08:25:00-05:00"
@@ -69,7 +69,7 @@ Of the 257 respondents answering the contextual questions, 96.5% reported previo
 
 ## Limitations
 
-- The CTAI-S is a self-report measure, so it assesses perceived rather than demonstrated critical-thinking performance; performance-based tasks, rubrics, or independently evaluated products are needed to test the relationship.
+- The CTAI-S is a self-report measure, so it assesses perceived rather than demonstrated critical-thinking performance; performance-based tasks, [[rubrics|rubrics]], or independently evaluated products are needed to test the relationship.
 - The convenience sample came from a single private university and was dominated by students who already used AI, restricting generalizability and comparisons with non-users.
 - Item selection and the confirmatory analyses ran on the same development dataset without independent cross-validation, and the exploratory analysis used pairwise missing-data handling while the confirmatory analysis used 257 complete cases.
 - Scaled and robust fit indices were not concordant, and robust indices did not support claims of excellent fit for either the one-factor or the three-domain specifications.

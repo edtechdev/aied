@@ -1,4 +1,4 @@
----
+
 title: "Addressing Resource Literacy Through Structured AI Integration in Online English Composition"
 created: "2026-09-20T16:21:35-04:00"
 updated: "2026-09-20T16:21:35-04:00"
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers]
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Erica Reed argues that the deeper instructional problem in online first-year [[writing-education|composition]] is not generative AI but resource literacy — students' ability to identify, evaluate, select, and strategically use academic supports. Drawing on three years of iteration in fully online [[higher-ed|college]] courses at Cochise College, she describes the CLEAR cycle (Clarify, Locate, Engage, Assess [[feedback|Feedback]], and Revise/Reflect), which treats [[generative-ai|generative AI]] as one optional resource among rubrics, tutors, [[librarians|librarians]], peers, and [[teacher-role|instructor]]. CLEAR rests on five design commitments: GenAI is optional, transparent, evaluated, one resource among many, and paired with [[reflection|reflection]]. Reed reports that students used GenAI mainly for brainstorming and clarification rather than full essay production; that reflection and disclosure reduced [[cognitive-offloading|overreliance]]; that comparing [[ai-feedback-quality|AI feedback]] with rubric criteria strengthened [[evaluative-judgment|evaluative judgment]] and human [[help-seeking|help-seeking]]; and that optionality preserved [[agency|agency]]. Her recommendation is design-level: embed task clarification, resource planning, feedback comparison, and structured reflection into ordinary coursework so resource use becomes teachable.
+> **Synthesis:** Erica Reed argues that the deeper instructional problem in online first-year [[writing-education|composition]] is not generative AI but resource literacy — students' ability to identify, evaluate, select, and strategically use academic supports. Drawing on three years of iteration in fully online [[higher-ed|college]] courses at Cochise College, she describes the CLEAR cycle (Clarify, Locate, Engage, Assess [[feedback|Feedback]], and Revise/Reflect), which treats [[generative-ai|generative AI]] as one optional resource among [[rubrics|rubrics]], tutors, [[librarians|librarians]], peers, and [[teacher-role|instructor]]. CLEAR rests on five design commitments: GenAI is optional, transparent, evaluated, one resource among many, and paired with [[reflection|reflection]]. Reed reports that students used GenAI mainly for brainstorming and clarification rather than full essay production; that reflection and disclosure reduced [[cognitive-offloading|overreliance]]; that comparing [[ai-feedback-quality|AI feedback]] with rubric criteria strengthened [[evaluative-judgment|evaluative judgment]] and human [[help-seeking|help-seeking]]; and that optionality preserved [[agency|agency]]. Her recommendation is design-level: embed task clarification, resource planning, feedback comparison, and structured reflection into ordinary coursework so resource use becomes teachable.
 
 ## Key Findings
 
@@ -40,10 +40,10 @@ Reed reports five recurring outcomes and labels them course-based observations r
 
 ## What this means for practice
 
-- Teach resource selection explicitly: require students to justify which support fits a task rather than assuming they will seek help appropriately.
-- Build CLEAR-style routines — clarification prompts, resource mapping, feedback comparison, structured reflection — into assignment modules as standard design.
-- Model prompting and critique in lectures and written examples; policy language alone did not appear to change behavior.
-- Keep GenAI optional alongside human supports; students who opted out completed the cycle with tutors, librarians, peers, and instructor feedback.
+- **Instructors.** Teach resource selection explicitly: require students to justify which support fits a task rather than assuming they will seek help appropriately.
+- **Instructors.** Build CLEAR-style routines — clarification prompts, resource mapping, feedback comparison, structured reflection — into assignment modules as standard design.
+- **Instructors.** Model prompting and critique in lectures and written examples; policy language alone did not appear to change behavior.
+- **Instructors.** Keep GenAI optional alongside human supports; students who opted out completed the cycle with tutors, librarians, peers, and instructor feedback.
 
 ## Limitations
 

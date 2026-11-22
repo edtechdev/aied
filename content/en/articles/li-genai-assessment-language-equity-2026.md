@@ -1,4 +1,4 @@
----
+
 title: "GenAI assessment and language equity: Drawing the line between support and substitution"
 created: "2026-09-18T04:45:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
@@ -33,7 +33,7 @@ confidence: high
 
 Construct statements in [[higher-ed|higher education]] are often implicit: staff say they assess analysis or judgment, yet allocate marks for fluency, idiomatic expression, and rhetorical confidence. For EAL students this creates construct-irrelevant variance, where the score is partly driven by language form rather than the reasoning the task purports to measure. Li anchors the point in Kane's (2013) interpretation/use argument, which requires an explicit chain of inferences from performance to scoring, generalization, and institutional decision, and in Messick's (1989) insistence that foreseeable consequences for different groups sit inside the [[assessment-validity|validity]] question.
 
-The line is illustrated with an essay in which a student has independently developed the claim that a housing policy produces unequal effects, chosen the evidence, and organized the analysis around three causal mechanisms. Asking a tool to correct grammar, shorten overlong sentences, or clarify transitions while preserving claims, evidence, paragraph order, and analytical relationships is language support, because the substantive architecture remains the student's. Asking it to decide which mechanism should lead, to combine two mechanisms into a new thesis, or to supply a counterargument is substitution, because form and substance are reshaped together. A rubric can separate the origin and quality of reasoning from the effectiveness of its communication, while recognizing that major structural revision is substantive rather than linguistic.
+The line is illustrated with an essay in which a student has independently developed the claim that a housing policy produces unequal effects, chosen the evidence, and organized the analysis around three causal mechanisms. Asking a tool to correct grammar, shorten overlong sentences, or clarify transitions while preserving claims, evidence, paragraph order, and analytical relationships is language support, because the substantive architecture remains the student's. Asking it to decide which mechanism should lead, to combine two mechanisms into a new thesis, or to supply a counterargument is substitution, because form and substance are reshaped together. A [[rubrics|rubric]] can separate the origin and quality of reasoning from the effectiveness of its communication, while recognizing that major structural revision is substantive rather than linguistic.
 
 Li also draws on [[formative-assessment|formative assessment]] and [[feedback|feedback]] scholarship (Sadler, 1989; Boud & Molloy, 2013) to argue that integrity is not protected only at the point of sanction, and that designs requiring students to evidence judgment over time serve the same end better than surveillance.
 

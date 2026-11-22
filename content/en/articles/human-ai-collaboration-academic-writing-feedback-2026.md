@@ -1,4 +1,4 @@
----
+
 title: "Human–AI collaboration in academic writing instruction: A calibrated feedback model for EAP"
 created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-05T10:00:00-04:00"
@@ -25,14 +25,14 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Farzi (2026) compares feedback on 60 argumentative essays from 30 students in a Canadian [[higher-ed|university]] English for Academic Purposes course, scored independently by the instructor and by ChatGPT-3.5 across three calibration phases. Quantitatively, the human instructor assigned a slightly higher mean (74.23) than the model (72.98), a difference that was not statistically significant (p = .104, Cohen's d = 0.27) — evidence that calibrated [[generative-ai|generative AI]] can produce scores broadly aligned with [[human-in-the-loop-ai|human judgment]]. Qualitatively, thematic analysis of a 16-item survey and an instructor memo showed that students valued the immediacy and clarity of AI [[feedback|feedback]] for grammar and vocabulary, but trusted instructor feedback more for rhetorical structure, coherence, and idea development. Most preferred a hybrid model. The paper argues that through calibrated [[prompt-engineering|prompt design]] and [[pedagogy|pedagogical]] reframing, generative AI can supplement — but not replace — human feedback, and it offers guidance for integrating these tools into [[writing-education|academic writing instruction]] while preserving instructional quality and [[agency|student agency]].
+> **Synthesis:** Farzi (2026) compares feedback on 60 argumentative essays from 30 students in a Canadian [[higher-ed|university]] English for Academic Purposes course, scored independently by the instructor and by ChatGPT-3.5 across three calibration phases. Quantitatively, the human instructor assigned a slightly higher mean (74.23) than the model (72.98), a difference that was not statistically significant — evidence that calibrated [[generative-ai|generative AI]] can produce scores broadly aligned with [[human-in-the-loop-ai|human judgment]]. Qualitatively, thematic analysis of a 16-item survey and an instructor memo showed that students valued the immediacy and clarity of AI [[feedback|feedback]] for grammar and vocabulary, but trusted instructor feedback more for rhetorical structure, coherence, and idea development. Most preferred a hybrid model. The paper argues that through calibrated [[prompt-engineering|prompt design]] and [[pedagogy|pedagogical]] reframing, generative AI can supplement — but not replace — human feedback, and it offers guidance for integrating these tools into [[writing-education|academic writing instruction]] while preserving instructional quality and [[agency|student agency]].
 
 ## Key Findings
 
 1. **Calibrated AI scores track human scores.** Across 60 essays, ChatGPT-3.5 averaged 72.98 against the instructor's 74.23; the paired t-test found no significant difference (t = 1.47, p = .104, Cohen's d = 0.27).
 2. **Surface accuracy, rhetorical blind spot.** The model reliably caught grammar and vocabulary issues but, according to students and the instructor, offered weaker [[scaffolding|scaffolding]] on coherence, tone, argument development, and genre expectations.
 3. **Students want both.** In the survey, 24 of 30 students preferred combined human and [[ai-feedback-quality|AI feedback]]; 27 valued timeliness and 25 valued the clarity of AI comments.
-4. **Three-stage calibration mattered.** The prompt progressed from the bare rubric to elaborated descriptors to embedded high, mid, and low anchor texts, tightening alignment between AI and instructor scoring.
+4. **Three-stage calibration mattered.** The prompt progressed from the bare [[rubrics|rubric]] to elaborated descriptors to embedded high, mid, and low anchor texts, tightening alignment between AI and instructor scoring.
 5. **Immediacy drove iterative revision.** Students reported that instant AI comments supported faster revision cycles, while instructor feedback remained more targeted to individual needs despite being delayed.
 6. **Supplement, not substitute.** The author concludes that with calibrated prompts and pedagogical reframing, generative AI can extend instructor capacity without displacing human judgment or lowering academic standards.
 

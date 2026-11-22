@@ -1,4 +1,4 @@
----
+
 title: "The impact of an AI-driven multimodal teaching analytics dashboard on pre-service teachers' reflective learning in microteaching"
 created: "2026-11-08T09:30:00-05:00"
 updated: "2026-11-08T09:30:00-05:00"
@@ -35,7 +35,7 @@ ethics: [privacy, trust]
 1. **The comparison isolated the narrative layer.** Both conditions drew on the same multimodal indicators; the control showed speech rate, gaze distribution and movement frequency as charts, while iTeachBoard added LLM narratives and annotated timeline slices. The arms held 27 and 26 participants, and prior reflection was equivalent (*t* = 0.22, *p* = 0.827; *M* = 46.15, *SD* = 4.02 versus *M* = 45.79, *SD* = 4.73).
 2. **Overall sense-making favored the narrated dashboard,** *F*(1, 64) = 10.642, *p* = 0.002, *η*² = 0.175, driven by data interpretation (*F*(1, 64) = 9.924, *p* = 0.003, *η*² = 0.166) and meaning construction (*F*(1, 64) = 14.092, *p* < 0.001, *η*² = 0.220).
 3. **Action did not follow.** Actionable transformation was not significantly different, *F*(1, 64) = 1.395, *p* = 0.243, *η*² = 0.027, with means of 12.89 against 12.46.
-4. **Reflective writing improved only at the top of the rubric.** The MANCOVA gave Pillai's Trace = 0.266, *F*(3, 45) = 5.441, *p* = 0.003; follow-up tests gave Analytic & Reasoning *F*(1, 47) = 82.74, *p* < 0.001, partial *η*² = 0.623 and Evaluation & Action Plan *F*(1, 47) = 83.98, *p* < 0.001, partial *η*² = 0.627, while Description (*p* = 0.453, *η*² = 0.011) and Feeling & Awareness (*p* = 0.209, *η*² = 0.031) did not move.
+4. **Reflective writing improved only at the top of the [[rubrics|rubric]].** The MANCOVA gave Pillai's Trace = 0.266, *F*(3, 45) = 5.441, *p* = 0.003; follow-up tests gave Analytic & Reasoning *F*(1, 47) = 82.74, *p* < 0.001, partial *η*² = 0.623 and Evaluation & Action Plan *F*(1, 47) = 83.98, *p* < 0.001, partial *η*² = 0.627, while Description (*p* = 0.453, *η*² = 0.011) and Feeling & Awareness (*p* = 0.209, *η*² = 0.031) did not move.
 5. **Trust came from traceability rather than fluency.** Interviewees described a "visible reasoning process" they could check against the timeline. P07: "I can see why the system said my interaction was inadequate. It shows the red points where I didn't make eye contact or pause for questions." One lower performer reported "minor discrepancies in data recognition, particularly in facial-expression analysis."
 6. **The affective layer is where users said it failed.** P01: "It noticed my gestures and tone changes, but it didn't really capture my nervousness when students didn't respond, it just said 'low interaction'."
 
@@ -67,7 +67,7 @@ This qualifies how reflection is usually scored. Depth is treated as a single la
 
 ## What this means for practice
 
-- **Keep every narrative claim clickable to its evidence.** Trust came from the link between a sentence and a marked moment on the timeline. A narrative panel without the annotation and video timestamp is a verdict, not a scaffold.
+- **Instructors.** Keep every narrative claim clickable to its evidence. Trust came from the link between a sentence and a marked moment on the timeline. A narrative panel without the annotation and video timestamp is a verdict, not a scaffold.
 - **Add the action step the dashboard cannot supply.** Because actionable transformation did not move, pair the session with a dated reteach commitment, one specific change to a lesson segment, and a follow-up observation of whether it happened.
 - **Ask for the affective account separately.** A two-question prompt before the analytic narrative — what were you unsure about, and how did the class's reaction feel — protects the dimension that stayed flat and gives a mentor something to work with.
 - **Plan batch processing, not live feedback.** Processing 53 videos of 8–10 minutes took roughly 26.5 hours on a high-performance server, so schedule overnight jobs and promise next-session feedback rather than same-day turnaround.

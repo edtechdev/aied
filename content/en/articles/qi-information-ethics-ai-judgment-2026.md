@@ -1,4 +1,4 @@
----
+
 title: "Information ethics education and artificial intelligence ethical judgment among university students"
 created: "2026-11-04T09:20:30-05:00"
 updated: "2026-11-04T12:00:00-05:00"
@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Yan Qi treats [[ethics|AI ethics]] as a [[curriculum-design|curriculum]] object rather than a policy statement, using a [[rct|cluster-randomized trial]] in which sixteen intact classes at three universities in Zhengzhou, China took a four-week information ethics module or unchanged coursework, with [[academic-integrity|academic integrity]] supplying two of six assessed scenarios. Because judgment was scored from open responses by two raters blind to arm and wave, the outcome is performance-based rather than a [[self-report-measures|self-report]] attitude scale, and the module lifted the composite by 0.35 scale points, between-arm d = 0.75, with 59.9% of that gain still visible four weeks later. The design also asks who benefits: the effect scaled with daily [[generative-ai|generative AI]] use (interaction b = 0.206) and was largest among the heaviest users, supporting [[framing-ai-use-for-students|framing AI use for students]] as a decision skill rehearsed on real cases and treating [[ai-literacy|AI literacy]] as incomplete without it. The limits are plain: sixteen clusters, a four-week horizon, one city, a study-built measure.
+> **Synthesis:** Yan Qi treats [[ethics|AI ethics]] as a [[curriculum-design|curriculum]] object rather than a policy statement, using a [[rct|cluster-randomized trial]] in which sixteen intact classes at three universities in Zhengzhou, China took a four-week information ethics module or unchanged coursework, with [[academic-integrity|academic integrity]] supplying two of six assessed scenarios. Because judgment was scored from open responses by two raters blind to arm and wave, the outcome is performance-based rather than a [[self-report-measures|self-report]] attitude scale, and the module lifted the composite by 0.35 scale points — a large between-arm difference — with 59.9% of that gain still visible four weeks later. The design also asks who benefits: the effect scaled with daily [[generative-ai|generative AI]] use and was largest among the heaviest users, supporting [[framing-ai-use-for-students|framing AI use for students]] as a decision skill rehearsed on real cases and treating [[ai-literacy|AI literacy]] as incomplete without it. The limits are plain: sixteen clusters, a four-week horizon, one city, a study-built measure.
 
 ## Key Findings
 
@@ -45,7 +45,7 @@ Sixteen intact classes from three Zhengzhou universities were pair-matched withi
 
 ## What the module changed, and for whom
 
-Against control, the intervention gained 0.354 scale points from pretest to posttest (cluster-robust SE = 0.065; bootstrap 95% CI [0.140, 0.566]) and stayed 0.225 higher at the delayed posttest (SE = 0.061; CI [0.062, 0.386]). Qi notes the size is modest: about one-third of a rubric level across the 18 scored responses. The moderation matters more for teaching. Use was measured before allocation, so the gradient identifies who arrived ready to benefit, not evidence that more use would improve the module, and added variance explained was only ΔR2 = 0.023. The mechanism offered is exposure: frequent users meet dilemmas more often, so instruction lands where decisions occur.
+Against control, the intervention gained 0.354 scale points from pretest to posttest (cluster-robust SE = 0.065; bootstrap 95% CI [0.140, 0.566]) and stayed 0.225 higher at the delayed posttest (SE = 0.061; CI [0.062, 0.386]). Qi notes the size is modest: about one-third of a [[rubrics|rubric]] level across the 18 scored responses. The moderation matters more for teaching. Use was measured before allocation, so the gradient identifies who arrived ready to benefit, not evidence that more use would improve the module, and added variance explained was only ΔR2 = 0.023. The mechanism offered is exposure: frequent users meet dilemmas more often, so instruction lands where decisions occur.
 
 ## Retention, and what four weeks cannot show
 

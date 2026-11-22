@@ -1,4 +1,4 @@
----
+
 title: "Using DeepSeek's reasoning-based AI model to support written feedback practices"
 created: "2026-10-25T00:00:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -45,7 +45,7 @@ ai_assist:
 
 - **Genre:** a technology review rather than an empirical study. There are no participants, no data collection, and no dataset; the authors state that no data were used for the research described in the article.
 - **Evidence base:** a narrative review of recent work on generative AI in writing feedback, drawing on large-scale surveys (Henderson et al., 2025), experimental studies (Boudouaia et al., 2024; Wu et al., 2025), comparative work on human and ChatGPT feedback (Steiss et al., 2024), and a reliability study of DeepSeek in EFL writing evaluation (Gao et al., 2025).
-- **Exploratory tasks:** the authors prompted DeepSeek for five uses: identifying linguistic errors, offering vocabulary improvement suggestions, analyzing text structure, giving [[feedback|feedback]] on coherence (defined in the article as the overall logical organization and flow of ideas within a text), and giving feedback against a marking rubric.
+- **Exploratory tasks:** the authors prompted DeepSeek for five uses: identifying linguistic errors, offering vocabulary improvement suggestions, analyzing text structure, giving [[feedback|feedback]] on coherence (defined in the article as the overall logical organization and flow of ideas within a text), and giving feedback against a marking [[rubrics|rubric]].
 - **Worked example:** an IELTS writing task draft, with the revision request, the step-by-step reasoning process, and the generated feedback and improvement suggestions shown in Figures 1 to 3; a follow-up request produced a second reasoning trace and a detailed elaboration on the earlier vague recommendation in Figures 4 and 5.
 - **Tool profile:** DeepSeek is described as released in January 2025 and reported to have reached 125 million monthly active users worldwide by June 2025, trained on domain-specific corpora, synthetic datasets, large-scale vision-language datasets, and curated mathematical reasoning datasets, with knowledge distillation, mixed precision, sparse attention, and expert models reducing computational load without compromising performance.
 - **Data handling:** anything a user inputs is automatically collected and stored on DeepSeek's servers, which states the data are protected by technical, administrative, and physical security measures; users can opt out of having their input used to train DeepSeek's models or optimize its technologies.

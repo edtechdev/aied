@@ -1,4 +1,4 @@
----
+
 title: "ELBench: A multi-dimensional benchmark for education-facing large language models"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
@@ -12,7 +12,7 @@ methods: [ai-ed-evaluation, benchmark]
 ethics: [pedagogical-safety]
 ---
 
-> **Synthesis:** Jiang et al. (2026) introduce **ELBench**, the first benchmark to evaluate education-facing LLMs on all four required dimensions — General Capability, Safety and [[trust|Trustworthiness]], Basic Education, and High-Level Cultivation — under a common protocol, combining curated public sources with newly synthesized safety and cultivation data. Testing nine models, they find module-level profiles are more informative than a single aggregate: the top six models are statistically indistinguishable overall yet differ substantially by module leader, and safety is anti-correlated with practical [[teacher-role|teaching]] (r = −0.83). The two education-specialized models lead neither education module, and all models share a systematic blind spot on High-Level Cultivation's structured-judgment task. The work connects to [[benchmark|benchmark]], [[ai-ed-evaluation|AI ed evaluation]], and [[pedagogical-safety|pedagogical safety]] frameworks.
+> **Synthesis:** Jiang et al. (2026) introduce **ELBench**, the first benchmark to evaluate education-facing LLMs on all four required dimensions — General Capability, Safety and [[trust|Trustworthiness]], Basic Education, and High-Level Cultivation — under a common protocol, combining curated public sources with newly synthesized safety and cultivation data. Testing nine models, they find module-level profiles are more informative than a single aggregate: the top six models are statistically indistinguishable overall yet differ substantially by module leader, and safety moves in the opposite direction to practical [[teacher-role|teaching]]. The two education-specialized models lead neither education module, and all models share a systematic blind spot on High-Level Cultivation's structured-judgment task. The work connects to [[benchmark|benchmark]], [[ai-ed-evaluation|AI ed evaluation]], and [[pedagogical-safety|pedagogical safety]] frameworks.
 
 ## An Integrated Profile, Not a Single Score
 
@@ -35,7 +35,7 @@ The self-built portions are produced by a four-stage human-in-the-loop pipeline:
 
 ## Evaluation Protocol
 
-Closed-form tasks are scored by reference matching or deterministic checks; the multi-select teaching-safety items award full credit for an exact option-set match, partial credit for a safe subset, and none for any answer admitting an unsafe option. Open-ended tasks (instructional quality, safe redirection, educational generation) are scored by rubric-based LLM judging, using a judge (Qwen3.6) selected for highest agreement with human annotation (mean κ = 0.83) with a majority vote over nine calls and randomized presentation order to control position bias. Modules are reported as normalized 0–100 scores; the overall score is the unweighted mean of the four, reported separately because averaging discards deployment-relevant trade-offs.
+Closed-form tasks are scored by reference matching or deterministic checks; the multi-select teaching-safety items award full credit for an exact option-set match, partial credit for a safe subset, and none for any answer admitting an unsafe option. Open-ended tasks (instructional quality, safe redirection, educational generation) are scored by [[rubrics|rubric]]-based LLM judging, using a judge (Qwen3.6) selected for highest agreement with human annotation (mean κ = 0.83) with a majority vote over nine calls and randomized presentation order to control position bias. Modules are reported as normalized 0–100 scores; the overall score is the unweighted mean of the four, reported separately because averaging discards deployment-relevant trade-offs.
 
 ## Results
 

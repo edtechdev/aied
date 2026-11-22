@@ -1,4 +1,4 @@
----
+
 title: "Assessment design under imperfect information: generative AI, disclosure, and student response in higher education"
 created: "2026-09-10T05:52:45-04:00"
 updated: "2026-09-23T09:52:53-04:00"
@@ -55,7 +55,7 @@ Three conclusions follow. First, the deterrent operates through discrimination; 
 
 ## Matching mechanisms to assessment purpose
 
-The framework converts the debate from policy labels to a design question. Diagnose the response region first: if the final product carries most of the grade, AI can produce it effectively, and detection is weak, the task sits close to the hidden-use region, and a ban may change the language of the rule while leaving concealment attractive. If students view disclosure as risky, permission alone has limited force. If the task asks for process evidence while the rubric still rewards mainly the final answer, redesign remains shallow.
+The framework converts the debate from policy labels to a design question. Diagnose the response region first: if the final product carries most of the grade, AI can produce it effectively, and detection is weak, the task sits close to the hidden-use region, and a ban may change the language of the rule while leaving concealment attractive. If students view disclosure as risky, permission alone has limited force. If the task asks for process evidence while the [[rubrics|rubric]] still rewards mainly the final answer, redesign remains shallow.
 
 | Assessment purpose | Where the task pulls students | Rules and monitoring | Disclosure and process evidence | What the rubric rewards |
 |---|---|---|---|---|

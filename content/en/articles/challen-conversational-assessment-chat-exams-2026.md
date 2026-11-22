@@ -1,4 +1,4 @@
----
+
 title: "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline"
 created: "2026-11-13T09:10:00-05:00"
 updated: "2026-11-13T10:45:00-05:00"
@@ -29,7 +29,7 @@ assessment: [oral-assessment, automated-assessment, formative-assessment, summat
 technology: [llm, conversational-ai, generative-ai]
 ---
 
-> **Synthesis:** Challen and Zilles (2026) take the [[oral-assessment|oral exam]] — the one [[assessment|assessment]] format an [[llm|LLM]] cannot complete for a student — and build a chat-based version that scales. A student-facing interviewer [[agentic-ai|agent]] talks to the student but never sees the rubric; a hidden evaluator holds it, tracks progress and grades. The finding that matters is that the system's leniency came from grading turn by turn rather than reading the whole conversation, which a better rubric cannot fix on its own.
+> **Synthesis:** Challen and Zilles (2026) take the [[oral-assessment|oral exam]] — the one [[assessment|assessment]] format an [[llm|LLM]] cannot complete for a student — and build a chat-based version that scales. A student-facing interviewer [[agentic-ai|agent]] talks to the student but never sees the [[rubrics|rubric]]; a hidden evaluator holds it, tracks progress and grades. The finding that matters is that the system's leniency came from grading turn by turn rather than reading the whole conversation, which a better rubric cannot fix on its own.
 
 ## Key Findings
 
@@ -60,10 +60,10 @@ Two experienced graders, calibrating on ten transcripts, agreed exactly on six a
 
 ## What this means for practice
 
-- **Instructors:** Run conversational assessment formatively first, and grade the transcript rather than the running score; a student who only answers when prompted should not reach the top band.
-- **Assessment designers:** Write the rubric so credit depends on who introduced a criterion's content, and test it against a persona that knows the material but volunteers nothing.
-- **Program designers:** Budget the audit as part of the assessment cycle, not as one-time validation; every prompt or model change re-norms the examiner.
-- **Administrators:** A chat exam composes with existing proctoring infrastructure, the only setting the authors found defensible for grade-bearing use.
+- **Instructors.** Run conversational assessment formatively first, and grade the transcript rather than the running score; a student who only answers when prompted should not reach the top band.
+- **Assessment designers.** Write the rubric so credit depends on who introduced a criterion's content, and test it against a persona that knows the material but volunteers nothing.
+- **Program designers.** Budget the audit as part of the assessment cycle, not as one-time validation; every prompt or model change re-norms the examiner.
+- **Administrators.** A chat exam composes with existing proctoring infrastructure, the only setting the authors found defensible for grade-bearing use.
 
 ## Limitations
 

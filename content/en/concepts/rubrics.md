@@ -1,7 +1,7 @@
 ---
 title: Rubrics
-created: "2026-11-22T11:30:00-05:00"
-updated: "2026-11-22T11:30:00-05:00"
+created: "2026-11-22T11:02:33-05:00"
+updated: "2026-11-22T12:23:33-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -55,6 +55,8 @@ Some of this design work is now done with models. [[harmogen-ai-assessment-rubri
 Once a rubric is machine-readable, it becomes the interface between a model and a grade. [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao and colleagues (2026)]] piloted an LLM grading pipeline in two computing courses that made the same binary present/absent decision on each rubric item a human grader makes, retrieving up to five previously hand-graded submissions as few-shot examples. AI–human agreement reached 89–100%, and the disagreements became an instrument for refining the rubric rather than a reason to distrust the model. [[rubric-aware-grading-rec-cbm|REC-CBM]] makes the rubric the model's internal representation, so the reasoning behind a score can be inspected — an answer to the objection that an accurate black-box grader is unusable because a teacher cannot verify it.
 
 Reliability figures in this literature are conditional, and the condition is the rubric. [[olvet-genai-scoring-open-ended-medical-2026|Olvet and colleagues (2026)]] ran three iterations of rubric engineering at two medical schools and reached weighted kappa up to 0.94 on three of four questions, while the one holistic item stayed at moderate agreement — a result that maps neatly onto the analytic/holistic distinction. [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko and Drlik (2025)]] benchmarked eleven models on 1,885 open-ended software-engineering responses and found almost-perfect agreement only for the strongest model, with reference-based models penalising correct-but-divergent answers. [[auto-marking-short-answer-science-2026|Morley and colleagues (2026)]] found rubric-aware, chain-of-thought and domain-augmented models performed best in short-answer auto-marking, while cautioning against unmediated high-stakes use. Across these studies the pattern is consistent: the rubric, not the model, is what calibrates, which is why [[human-in-the-loop-ai|human oversight]] keeps appearing as a design requirement rather than a temporary safeguard. [[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz and colleagues (2026)]] reach the same conclusion from the grading side: models match human raters on closed and short-answer work, but not on complex, open-ended, subjective tasks. [[ai-generated-feedback-higher-ed|Grion and colleagues (2026)]] found that an LLM given a co-constructed rubric and an exemplar was non-inferior to expert feedback, with the rubric doing the calibrating.
+
+[[yasar-llms-iterative-pedagogical-design-2026|Iterative rubric co-refinement]] with GPT-4 raised LLM–human agreement on 80 design posters from 54.75% to 81.25%, treating the rubric as a revisable interface between pedagogical intent and machine inference rather than a fixed instrument.
 
 ## Exemplars, anchor papers and norming
 

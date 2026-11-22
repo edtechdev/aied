@@ -1,4 +1,4 @@
----
+
 title: A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-09-23T08:37:10-04:00"
@@ -31,7 +31,7 @@ methods: [ai-ed-evaluation]
 3. **Tool operation has inverted shape.** Operating NumPy required narrow, deep skill; directing an agent requires broad, shallow "interactional expertise" (conversing, judging plausibility, directing work) across many ecosystems.
 4. **Verification is newly load-bearing.** A library FFT is opaque but *socially validated*; an AI simulation is opaque and *bespoke* — a population-of-one artifact whose failures arrive disguised as successes. The verification burden ecosystems amortized now lands on each student, for each artifact, every time.
 5. **Principle of validation authority.** *Delegation is safe exactly where the delegator retains the ability to validate the outputs.* "Anyone can build software with AI" holds only where correctness is observable in use ([[visualization|dashboards]], apps); a [[physics-education|physics]] simulation's correctness must be *established* by disciplinary checks.
-6. **Two-instrument assessment.** AI-free in-class coding quizzes (white-box residue) plus ten-minute oral defenses of comment-stripped AI-assisted work, scored on a five-dimension rubric with a verification gate that must reach "functional" regardless of total.
+6. **Two-instrument assessment.** AI-free in-class coding quizzes (white-box residue) plus ten-minute oral defenses of comment-stripped AI-assisted work, scored on a five-dimension [[rubrics|rubric]] with a verification gate that must reach "functional" regardless of total.
 
 ## The five pillars (tool-invariant)
 

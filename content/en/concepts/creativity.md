@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T12:23:33-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -42,6 +42,8 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Think-first collaboration sustains independent creativity:** Wong and Qiu (2026) found that students who generated their own ideas *before* using ChatGPT (a "think first, ChatGPT later" protocol) showed no immediate boost on the assisted task, yet outperformed both a free-AI group and a human-only group on a later unassisted creativity task. Freely using ChatGPT produced only transient performance that collapsed when assistance was removed — a form of [[cognitive-offloading|Over-Reliance]] rather than learning — whereas collaborative [[human-ai-collaboration|co-creation]] aimed at improving one's *own* ideas yielded durable gains in independent creativity. This gives direct experimental evidence that protecting creative agency is not merely desirable but is what converts AI-assisted work into learning.
 - **Perceived [[rubrics|exemplar]] source, not content, shapes group ideation.** Identical ChatGPT-generated exemplars labeled as human- versus AI-produced changed group creativity in an fNIRS hyperscanning study of 113 dyads: human attribution raised idea uniqueness during stimulation and interbrain synchrony in premotor and supplementary motor regions, AI attribution only increased switching among ideation pathways, and neither effect persisted once the exemplars were withdrawn ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
 - **Developmental implementation, not capacity, separates children's AI-assisted creativity.** In the first neuroimaging comparison of children and adults co-creating with ChatGPT, 6–7-year-olds and adults held the same five-minute spoken conversation inside an MRI scanner. Creativity measured outside the scanner did not differ between groups. Yet adults showed significantly stronger within-network connectivity in the frontoparietal control, salience and dorsal attention networks, and higher creativity predicted stronger frontoparietal–salience coupling in adults but not children. The authors read this as a difference in how creative cognition is *implemented* during AI dialog, not in baseline capacity. It also raises a question the scaffolding advice has not had to answer: when does the control machinery AI-assisted creative work recruits actually mature? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
+
+- **Creative gains are instructionally mediated; the failure is asymmetric.** Scaffolded inquiry tasks produced simultaneous creative and critical gains, while the most common failure mode was creative fluency rising as critical engagement declined ([[chatgpt-critical-creative-thinking-review|Li et al. (2026)]]).
 
 A counterweight from graduate research: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with [[self-report-measures|self-reported]] research creativity, far more strongly for functional, task-oriented dependence (β = 0.457) than for existential reliance (β = 0.147), with [[critical-thinking|critical thinking]] carrying roughly 85.0% of the functional pathway ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 

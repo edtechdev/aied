@@ -1,4 +1,4 @@
----
+
 title: "\"Are you biased right now, AI?\": Investigating supporting youths' systematic evaluation of GenAI"
 created: "2026-10-25T00:00:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -40,7 +40,7 @@ ai_assist:
 - **Criteria defined earlier were abandoned in the moment.** PF wrote that good images are realistic and "look like me," then rejected a "Black American girl on her birthday counting money" output as "not-so-good" because "the picture looks boring" and "I just don't like it," while accepting a "Girl shopping for Nike shoes in footlocker" image because "I like this because I like to go shoe shopping." Preference-based judgment was stronger in the open-ended activities than in the Venn diagram.
 - **Prompt specificity shaped evaluation depth.** PK prompted "a pair of little sisters inside a traditional japanese house with a small fountain and rock structures, wearing black uniforms with a unique haori for each of them," then judged the result not-so-good because "the details in the uniforms were not really accurate." PF, who described scenes rather than image elements, was left saying she was "disappointed" without saying why.
 - **Prompting shifted as learners met limitations.** PC moved from prompts about friends to lists of adjectives; PL moved from narrating a story to terse description; PB separated ideas with slashes ("Purple smoke dystopia with multiple African American robot man holding purple flames/ the world is a guy looking into VR").
-- **Rigor is costly.** The Venn diagram activity supported quantification and peer sensemaking but left learners visibly fatigued relative to the open-ended postcard work. Defining rubrics in Promptinator took enough time that the researchers dropped the feature after one try.
+- **Rigor is costly.** The Venn diagram activity supported quantification and peer sensemaking but left learners visibly fatigued relative to the open-ended postcard work. Defining [[rubrics|rubrics]] in Promptinator took enough time that the researchers dropped the feature after one try.
 
 ## Study Design
 

@@ -1,4 +1,4 @@
----
+
 title: "Optimizing large language model-driven automated essay scoring: Integrating linguistic features and prompt engineering to enhance scoring accuracy"
 created: "2026-11-13T09:15:00-05:00"
 updated: "2026-11-13T10:45:00-05:00"
@@ -29,7 +29,7 @@ assessment: [automated-essay-scoring, automated-assessment, assessment-validity,
 technology: [llm, generative-ai, educational-nlp, prompt-engineering]
 ---
 
-> **Synthesis:** Tao and Min (2026) ask what makes an [[llm|LLM]] agree with human raters when it scores essays, comparing prompt designs on essays graded A1 to C1 from a large EFL corpus, then testing whether explicit linguistic measures add predictive power. Scored examples and a required rationale did most of the work, while a detailed rubric on its own scored worse than a bare prompt. For educators, an [[automated-essay-scoring|automated scorer]] must be calibrated against judged samples before it means anything, and a holistic level is placement evidence rather than feedback.
+> **Synthesis:** Tao and Min (2026) ask what makes an [[llm|LLM]] agree with human raters when it scores essays, comparing prompt designs on essays graded A1 to C1 from a large EFL corpus, then testing whether explicit linguistic measures add predictive power. Scored examples and a required rationale did most of the work, while a detailed [[rubrics|rubric]] on its own scored worse than a bare prompt. For educators, an [[automated-essay-scoring|automated scorer]] must be calibrated against judged samples before it means anything, and a holistic level is placement evidence rather than feedback.
 
 ## Key Findings
 
@@ -62,11 +62,11 @@ In the best-fitting model, passive nominal subjects per clause, adverbial clause
 
 ## What this means for practice
 
-- **Instructors:** Before using an LLM score to place or stream students, run essays you have already graded through the same prompt and check the borderline cases; a scorer that never assigns the top or bottom level is compressing your range.
-- **Assessment designers:** Build the prompt around scored anchor scripts and a required rationale first, and add rubric detail only if it improves agreement on your own calibration set.
-- **Program designers:** Use the score for placement or triage and route borderline essays to a human reader; the paper measures a proficiency band, not readiness for a particular course.
-- **Faculty developers:** Ask for calibration scripts and a disagreement sample alongside the headline agreement figure, and review both with the raters.
-- **Researchers:** Report the error profile, including how many essays were misplaced by two levels and in which direction, because aggregate agreement hides a scorer that over-rates beginners.
+- **Instructors.** Before using an LLM score to place or stream students, run essays you have already graded through the same prompt and check the borderline cases; a scorer that never assigns the top or bottom level is compressing your range.
+- **Assessment designers.** Build the prompt around scored anchor scripts and a required rationale first, and add rubric detail only if it improves agreement on your own calibration set.
+- **Program designers.** Use the score for placement or triage and route borderline essays to a human reader; the paper measures a proficiency band, not readiness for a particular course.
+- **Faculty developers.** Ask for calibration scripts and a disagreement sample alongside the headline agreement figure, and review both with the raters.
+- **Researchers.** Report the error profile, including how many essays were misplaced by two levels and in which direction, because aggregate agreement hides a scorer that over-rates beginners.
 
 ## Limitations
 

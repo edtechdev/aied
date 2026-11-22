@@ -1,4 +1,4 @@
----
+
 title: "Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model"
 created: "2026-09-25T11:42:30-04:00"
 updated: "2026-09-25T12:56:00-04:00"
@@ -31,7 +31,7 @@ source_depth: full text
 4. PCK exact agreement ranged from 73% to 89% and item-level κ from .51 to .89; the weakest items spread across subdomains.
 5. Every comparison model struggled on PCK: RoBERTa κ .00 to .39, SBERT .00 to .55, single-prompt GPT-4o .06 to .54.
 6. Refinement ran up to six rounds per item on a 70% training split, with a 10% validation and held-out 20% test split.
-7. Data: 268 of 324 U.S. middle school mathematics teachers (82.7%), two open-ended CK and nine PCK items on 3-point rubrics; human coders agreed reliably (kappa .70 to .93).
+7. Data: 268 of 324 U.S. middle school mathematics teachers (82.7%), two open-ended CK and nine PCK items on 3-point [[rubrics|rubrics]]; human coders agreed reliably (kappa .70 to .93).
 
 ## Why coding PCK resists automation
 PCK — content-specific pedagogy covering mathematical tasks, students' mathematical thinking, and teaching mathematics — resists coding because it is contextualized. Open-ended items capture it as a construct linked to teaching quality and student [[learning-gains|learning gains]], but demand human coders needing ongoing calibration. Kersting and colleagues (2014) used Naïve Bayes classifiers on teachers' video-prompt responses, reaching QWK of .56 to .64 for CK-related content but only .36 to .47 for the PCK-related dimensions of student thinking and suggestions for improvement; Wahlen et al. (2020) found human coders agreeing at QWK .80 to .97 on economics PCK items while automated scoring managed only .38 to .77; a multi-agent LLM approach improved CK coding (F1 up to 0.88); and human-in-the-loop prompt engineering lifted an LLM's total-score agreement on [[formative-assessment|formative assessment]] to QWK .78.
@@ -53,7 +53,7 @@ The authors attribute the results to the framework rather than the particular LL
 
 ## What this means for practice
 - **Assessment designers.** A human-coder manual is a viable starting point for automated scoring, but budget for a refinement loop that clarifies categories against real disagreements, not one-pass rubric absorption.
-- **[[teacher-role|Teacher]] educators and faculty developers.** Open-ended CK and PCK measurement becomes more scalable — though the hardest teaching-reasoning items still need human oversight.
+- **Faculty developers.** Open-ended CK and PCK measurement becomes more scalable — though the hardest teaching-reasoning items still need human oversight.
 - **Researchers.** Report κ and QWK together; a large gap signals confusion between adjacent levels, not random error.
 - **Administrators and institutions.** Treat multi-agent LLM codes as a triage aid, not final scores, and keep a human decision point where agreement is weakest.
 - **Tool builders.** Role separation — grade, analyze errors, revise instructions — is cheap and looks like the source of the reliability gain.

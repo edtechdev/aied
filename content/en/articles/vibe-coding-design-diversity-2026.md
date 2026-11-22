@@ -1,4 +1,4 @@
----
+
 title: "One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity"
 created: "2026-10-01T09:07:20-04:00"
 updated: "2026-10-01T09:07:20-04:00"
@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Boussioux, Zhao, and Cho (2026) ask what happens to design diversity when a shared [[generative-ai|generative]], [[llm|LLM]]-driven tool produces the whole artifact. Seventy-three graduate students each built a website for a different real business on the [[vibe-coding|vibe coding]] platform Lovable, under a rubric that explicitly rewarded "creative and original design that avoids generic AI aesthetics." Embedding every homepage with DINOv3 and comparing 2,628 pairs, they find 73 briefs collapsing into roughly a dozen designs: six archetypes absorb 88% of sites, and a median builder's closest look-alike shares 49 index points against a 22.8-point average. A nine-session think-aloud subsample traces the mechanism: one shared generate-and-check script, 29% of voiced intentions never typed, originality in only 3.4% of 440 verdicts. Most strikingly, [[agency|felt authorship]], satisfaction, and perceived quality show no detectable association with measured originality — builders converged while believing they had not. The authors call this authored ignorance and contribute a joint outcome–process–perception strategy ([[mixed-methods-research|mixed-methods research]]).
+> **Synthesis:** Boussioux, Zhao, and Cho (2026) ask what happens to design diversity when a shared [[generative-ai|generative]], [[llm|LLM]]-driven tool produces the whole artifact. Seventy-three graduate students each built a website for a different real business on the [[vibe-coding|vibe coding]] platform Lovable, under a [[rubrics|rubric]] that explicitly rewarded "creative and original design that avoids generic AI aesthetics." Embedding every homepage with DINOv3 and comparing 2,628 pairs, they find 73 briefs collapsing into roughly a dozen designs: six archetypes absorb 88% of sites, and a median builder's closest look-alike shares 49 index points against a 22.8-point average. A nine-session think-aloud subsample traces the mechanism: one shared generate-and-check script, 29% of voiced intentions never typed, originality in only 3.4% of 440 verdicts. Most strikingly, [[agency|felt authorship]], satisfaction, and perceived quality show no detectable association with measured originality — builders converged while believing they had not. The authors call this authored ignorance and contribute a joint outcome–process–perception strategy ([[mixed-methods-research|mixed-methods research]]).
 
 ## Key Findings
 
@@ -52,7 +52,7 @@ The process data show the decoupling produced in real time: builders narrated th
 
 - **Instructors.** Grade and teach against the distribution, not the artifact. A rubric saying "avoid generic AI aesthetics" cannot work when no builder sees the cohort; show comparison sets and require a "what should this not look like" specification.
 - **Faculty developers.** Treat [[vibe-coding|vibe coding]] as a delegation skill, not a tool demo. The sessions show the failure is a thin, fast acceptance test, so coach deliberate specification and evaluation over faster prompting — an [[educational-development|educational development]] priority.
-- **[[educational-technology-developers|Educational technology developers]].** The diagnosis implies the remedy: surface an originality meter from the platform's own outputs, sample initial candidates from distinct archetypes, and add pre-generation friction funded by the 61% of generation time spent waiting.
+- **Educational technology developers.** The diagnosis implies the remedy: surface an originality meter from the platform's own outputs, sample initial candidates from distinct archetypes, and add pre-generation friction funded by the 61% of generation time spent waiting.
 - **Researchers.** Reuse the outcome–process–perception design — vision-transformer embeddings, one-second instrumentation, post-task self-report — as a replicable strategy for studying [[human-ai-collaboration|human AI collaboration]].
 
 ## Limitations

@@ -1,4 +1,4 @@
----
+
 title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"
 created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
@@ -92,7 +92,7 @@ Conventional AI writing tools that generate or rewrite text risk creating [[cogn
 ## Limitations
 
 - The prototype has not been evaluated in a controlled experimental setting with student participants; the authors state that claims about cognitive engagement preservation, writing improvement, and learning outcomes remain theoretical, and no controlled data has been collected.
-- Structured Outputs guarantee the form of the model's output, not its pedagogical quality: question quality and alignment vary across invocations, and the system has no rubric-based validation layer to reject or regenerate a weak question.
+- Structured Outputs guarantee the form of the model's output, not its pedagogical quality: question quality and alignment vary across invocations, and the system has no [[rubrics|rubric]]-based validation layer to reject or regenerate a weak question.
 - Question modules and diagnostic triggers are optimized for argumentative and persuasive essays; extending to narrative, expository, or analytical genres would require redesigning the argumentation parsing heuristics and question taxonomies.
 - Each session is treated independently, with no persistent [[student-modeling|learner model]] tracking recurring weaknesses or an improvement trajectory, and contextual highlighting relies on exact substring matching, so whitespace or punctuation differences can leave a legitimate excerpt unhighlighted.
 

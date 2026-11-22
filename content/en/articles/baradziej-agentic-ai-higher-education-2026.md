@@ -1,4 +1,4 @@
----
+
 title: "A systematic review of the roles of agentic AI in higher education"
 created: "2026-09-04T14:13:20-04:00"
 updated: "2026-09-19T12:17:22-04:00"
@@ -23,7 +23,7 @@ institutions: [governance]
 Where other syntheses (the knowledge base's [[agentic-ai-education-scoping-review|474-study scoping review]] and [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.'s conceptual survey]]) map the field's breadth, this review organizes evidence by the **role an agent plays** — a framing tailored to institutions deciding where to deploy and govern these systems. The six roles, in order of evidential weight:
 
 - **Personalized learning and adaptive tutoring (18 studies).** Agents that continuously model the learner, adjust content/pacing, and give targeted feedback without constant human orchestration. Technical foundations are [[reinforcement-learning|reinforcement learning]], NLP, [[affective-computing|affective computing]], and [[cognitive-diagnosis|cognitive modeling]]. Notable systems include the [[online-teaching-and-learning|LMS]]-embedded ELA Tutor (López-Goyez et al., 2026) and Abertay's tri-modal Learning Engagement Assistant (Chat/Tutor/Quiz). Reviews argue multi-agent cognitive architectures beat single-agent or rule-based tutors on behavior modeling, real-time feedback, and metacognitive enhancement.
-- **Automated assessment and feedback (12 studies).** Rubric-based grading, [[automated-essay-scoring|automated essay scoring]], [[formative-assessment|formative]] feedback, and real-time diagnostics — reported at 90–95% agreement with human graders and 50–70% grading-time reductions, but with persistent concerns about [[bias-mitigation|bias]] and [[metacognition|metacognitive]] erosion from instant, unreflective feedback.
+- **Automated assessment and feedback (12 studies).** [[rubrics|Rubric]]-based grading, [[automated-essay-scoring|automated essay scoring]], [[formative-assessment|formative]] feedback, and real-time diagnostics — reported at 90–95% agreement with human graders and 50–70% grading-time reductions, but with persistent concerns about [[bias-mitigation|bias]] and [[metacognition|metacognitive]] erosion from instant, unreflective feedback.
 - **Teaching assistance and augmentation (11 studies).** A spectrum from routine administrative Q&A (virtual TA) to full course delivery by an "AI instructor" — the far end raising questions about educator identity and the limits of automation.
 - **Administrative and student support (8 studies).** Enrollment/scheduling automation plus **proactive early-warning agents** that monitor data streams and reach at-risk students before problems entrench (e.g., Element451's Bolt ecosystem, Ivy Tech deployments) — inverting traditional reactive support.
 - **Curriculum design and workforce alignment (5 studies).** Agents that scan labor-market data, map course content to competency frameworks, and recommend curriculum change — small but strategically significant.

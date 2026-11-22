@@ -1,4 +1,4 @@
----
+
 title: "AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"
@@ -13,12 +13,12 @@ audience: [instructors, assessment professionals, institutions]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Cruz, da Silva, and Mamede (2026) present the design, deployment, and evaluation of a GPT-4o-based grading and [[feedback|feedback]] pipeline for a Master's-level Information Systems Project Management course, developed using Design Science [[research-methods-aied|Research]]. The artifact orchestrates submission collection (Google Forms), rubric-based scoring with rubric-linked [[qualitative-research|qualitative]] feedback (OpenAI GPT-4o via a Cloud Function), and [[learning-analytics|analytics]] storage (BigQuery) across six consecutive case-study assignments, with the AI grader supplementing rather than replacing [[teacher-role|instructor]] grading. Across 362 submissions from 66 students, the AI reproduced the instructor's mark within a pre-specified 0.5-point tolerance in 83% of cases (MAE 0.31), achieved only moderate chance-corrected agreement (ICC 0.49), and showed a small conservative bias. The pipeline operated at EUR 0.55 per student per assignment and delivered feedback within 24 hours, supporting [[llm|LLM]]s as scalable assistants for [[formative-assessment|formative assessment]] under a supplement-not-replacement design.
+> **Synthesis:** Cruz, da Silva, and Mamede (2026) present the design, deployment, and evaluation of a GPT-4o-based grading and [[feedback|feedback]] pipeline for a Master's-level Information Systems Project Management course, developed using Design Science [[research-methods-aied|Research]]. The artifact orchestrates submission collection (Google Forms), [[rubrics|rubric]]-based scoring with rubric-linked [[qualitative-research|qualitative]] feedback (OpenAI GPT-4o via a Cloud Function), and [[learning-analytics|analytics]] storage (BigQuery) across six consecutive case-study assignments, with the AI grader supplementing rather than replacing [[teacher-role|instructor]] grading. Across 362 submissions from 66 students, the AI reproduced the instructor's mark within a pre-specified 0.5-point tolerance in 83% of cases (MAE 0.31), achieved only moderate chance-corrected agreement (ICC 0.49), and showed a small conservative bias. The pipeline operated at EUR 0.55 per student per assignment and delivered feedback within 24 hours, supporting [[llm|LLM]]s as scalable assistants for [[formative-assessment|formative assessment]] under a supplement-not-replacement design.
 
 ## Key Findings
 
-- Across 362 submissions from 66 students, the AI reproduced the instructor's mark within the 0.5-point tolerance in 83% of cases, with a mean absolute error of 0.31 points and a small systematic bias of −0.16 points (95% CI [−0.19, −0.12]).
-- Chance-corrected agreement, ICC(2,1) = 0.49 (95% CI [0.33, 0.61]), was moderate at best, spanning the poor-to-moderate range; range restriction (instructor grades 2.75–5.0) attenuated the coefficient.
+- Across 362 submissions from 66 students, the AI reproduced the instructor's mark within the 0.5-point tolerance in 83% of cases, with a small systematic bias toward lower marks.
+- Chance-corrected agreement was moderate at best, spanning the poor-to-moderate range; range restriction (instructor grades 2.75–5.0) attenuated the coefficient.
 - Among 112 survey responses (31% response rate), about 80% rated the feedback useful and 77% accurate; an automated corpus analysis found 99.7% of records met Shute's Elaborated Feedback criteria with high lexical diversity.
 - The pipeline operated at EUR 0.55 per student per assignment and delivered feedback within 24 hours, deployed as an instructor supplement under GDPR safeguards.
 

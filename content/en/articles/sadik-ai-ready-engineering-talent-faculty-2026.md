@@ -1,4 +1,4 @@
----
+
 title: "Preparing AI-Ready Engineering Talent: Faculty Perspectives on Generative AI, Foundational Competence, and Workforce Readiness"
 created: "2026-09-29T14:39:22-04:00"
 updated: "2026-10-16T14:32:42-04:00"
@@ -52,7 +52,7 @@ All participants expected AI to influence engineering work, and the study treats
 - **Instructors.** Stage GenAI by developmental readiness and verification capacity rather than banning or permitting it outright: P1 supported it for seniors who already knew several programming languages but warned that first-year students would generate scripts before understanding why a loop was needed.
 - **Instructors.** Require evidence of reasoning — explanations of process, output verification, oral defense — and keep students "responsible for every line of code" (P10) rather than trying to detect tool use; [[ai-use-disclosure|disclosure]] makes the work theirs to defend.
 - **Curriculum designers.** Coordinate revision at the program level so AI literacy, ethics, communication, and higher-order problem solving recur across courses while foundational practice stays visible: nine of ten participants wanted revision, seven named AI literacy, six ethics.
-- **Faculty developers.** Build capacity for defensible [[pedagogy|pedagogical]] decisions under changing tools: five participants described uncertainty about acceptable uses, [[educational-policy-ai|policies]], and assessment design, and P4 reported no developed rubric for careful tool use.
+- **Faculty developers.** Build capacity for defensible [[pedagogy|pedagogical]] decisions under changing tools: five participants described uncertainty about acceptable uses, [[educational-policy-ai|policies]], and assessment design, and P4 reported no developed [[rubrics|rubric]] for careful tool use.
 - **Administrators.** Write policy around durable principles — disclosure, verification, task purpose, accountability — rather than around a specific tool, since participants expected tool-specific boundaries to age quickly.
 
 ## Limitations

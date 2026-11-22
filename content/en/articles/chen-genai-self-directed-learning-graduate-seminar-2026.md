@@ -1,4 +1,4 @@
----
+
 title: "Generative AI-supported learning, self-directed learning, and motivation in a graduate seminar: an exploratory single-group study"
 created: "2026-11-15T06:40:00-05:00"
 updated: "2026-11-15T06:40:00-05:00"
@@ -52,14 +52,14 @@ The qualifying theme is sharper. One participant described self-doubt on noticin
 
 The paper's most usable contribution is terminological. AI support means engaging with generated content; it is not generative learning in Wittrock's or Fiorella and Mayer's sense, where the learner builds the connections, so a course that only inspects deliverables will not notice the difference.
 
-Proposals for revised teaching, not a record of this seminar: students state a goal and initial judgment before using a tool, compare output with credible sources or a rubric, explain what they accepted or rejected, and say what they could do unaided. Assessment would pair assisted products with an oral explanation or a critique of an erroneous output, making [[scaffolding|scaffolding]] visible rather than assumed. Graded [[reflection|reflection]] should be free to criticize the AI and the course.
+Proposals for revised teaching, not a record of this seminar: students state a goal and initial judgment before using a tool, compare output with credible sources or a [[rubrics|rubric]], explain what they accepted or rejected, and say what they could do unaided. Assessment would pair assisted products with an oral explanation or a critique of an erroneous output, making [[scaffolding|scaffolding]] visible rather than assumed. Graded [[reflection|reflection]] should be free to criticize the AI and the course.
 
 ## What this means for practice
 
-- **Instructors:** Do not read end-of-course totals as evidence that AI helped; require a goal and initial attempt before tool use so planning leaves a trace.
-- **Instructors:** Keep one assessment moment unaided, because assisted performance and independent understanding can diverge.
-- **Designers:** Build the gatekeeper role into task instructions; the student who accepted AI-only group work did so because a knowledgeable reviewer checked it.
-- **Researchers:** Use stable identifiers. Losing five of 13 records to email matching left a paired sample of eight, all women.
+- **Instructors.** Do not read end-of-course totals as evidence that AI helped; require a goal and initial attempt before tool use so planning leaves a trace.
+- **Instructors.** Keep one assessment moment unaided, because assisted performance and independent understanding can diverge.
+- **Designers.** Build the gatekeeper role into task instructions; the student who accepted AI-only group work did so because a knowledgeable reviewer checked it.
+- **Researchers.** Use stable identifiers. Losing five of 13 records to email matching left a paired sample of eight, all women.
 
 ## Limitations
 

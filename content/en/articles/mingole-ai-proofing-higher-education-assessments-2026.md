@@ -1,4 +1,4 @@
----
+
 title: 'Generative AI and the Crisis of Higher Education Assessments: Examining "AI-Proofing" Strategies for College-Level Assessments'
 created: "2026-11-17T09:40:00-05:00"
 updated: "2026-11-17T09:40:00-05:00"
@@ -47,14 +47,14 @@ Grouping all 75 questions by strategy and taking the median of the per-question 
 
 ## Output formats and answer types did not constrain the models
 
-Strategy five, demanding a specific output format, produced the highest medians in the dataset: 91 without materials and 92 with, above the control group and with little variability. In the paired comparison one such item rose from 84 to 96 and the other three moved less than 3 points in either direction, so constraining the shape of an answer left the model's command of its content untouched. Answer type told the same story, and each item carried a solution file and a rubric normalized to 100 points, which separates the set from a [[benchmark|benchmark]] of multiple-choice items. Reasoning and calculation items, the largest group at 30, reached medians of 83 and 82. Programming items (13) reached 85 and 88 with the tightest distribution, fitting code generation as a well-supported capability. Graphical representation items (6) reached 86 under both conditions but varied most, with interquartile ranges of 32 to 35 points, and two humanities items averaged only 47 to 50, a reminder that [[multimodal|multimodal]] answers are unevenly supported.
+Strategy five, demanding a specific output format, produced the highest medians in the dataset: 91 without materials and 92 with, above the control group and with little variability. In the paired comparison one such item rose from 84 to 96 and the other three moved less than 3 points in either direction, so constraining the shape of an answer left the model's command of its content untouched. Answer type told the same story, and each item carried a solution file and a [[rubrics|rubric]] normalized to 100 points, which separates the set from a [[benchmark|benchmark]] of multiple-choice items. Reasoning and calculation items, the largest group at 30, reached medians of 83 and 82. Programming items (13) reached 85 and 88 with the tightest distribution, fitting code generation as a well-supported capability. Graphical representation items (6) reached 86 under both conditions but varied most, with interquartile ranges of 32 to 35 points, and two humanities items averaged only 47 to 50, a reminder that [[multimodal|multimodal]] answers are unevenly supported.
 
 ## What this means for practice
 
-- **Instructors:** Run a question through a current model before you set it, and treat format requirements as likely to raise scores rather than lower them; this study found demanding an output structure made questions easier, not harder.
-- **Instructional designers:** Build AI use into the task rather than designing around it, for example by requiring students to critique and correct a model's answer, because the evidence says the answer itself is no longer scarce and [[corbin-essay-time-genai-2026|structural redesign]] is the alternative the authors prefer.
-- **Administrators:** Stop treating question-level hardening as an [[academic-integrity|integrity]] control; fund the components this study did not test, such as [[asynchronous-oral-assessment-2026|oral]] and in-person assessment, and shift policy from prohibition toward disclosed use.
-- **Assessment designers:** Add complexity only where it carries disciplinary meaning, since stacked difficulty was the one strategy that moved scores and it still left a median of 78.
+- **Instructors.** Run a question through a current model before you set it, and treat format requirements as likely to raise scores rather than lower them; this study found demanding an output structure made questions easier, not harder.
+- **Instructional designers.** Build AI use into the task rather than designing around it, for example by requiring students to critique and correct a model's answer, because the evidence says the answer itself is no longer scarce and [[corbin-essay-time-genai-2026|structural redesign]] is the alternative the authors prefer.
+- **Administrators.** Stop treating question-level hardening as an [[academic-integrity|integrity]] control; fund the components this study did not test, such as [[asynchronous-oral-assessment-2026|oral]] and in-person assessment, and shift policy from prohibition toward disclosed use.
+- **Assessment designers.** Add complexity only where it carries disciplinary meaning, since stacked difficulty was the one strategy that moved scores and it still left a median of 78.
 
 ## Limitations
 

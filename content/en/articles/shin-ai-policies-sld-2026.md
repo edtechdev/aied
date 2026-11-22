@@ -1,4 +1,4 @@
----
+
 title: "Addressing the void of AI policies in education for students with specific learning disabilities"
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -43,7 +43,7 @@ Experts prioritized teaching AI literacy to students with SLD as an empowerment 
 
 ## Relevance to the knowledge base
 
-This paper is a cornerstone reference for the knowledge base's accessibility/disability topic, directly contributing to [[educational-policy-ai|educational AI policy]] (a concrete, validated set of AI policy recommendations), [[special-education|special education]] (SLD-specific needs and IEP/FAPE legal grounding), [[inclusive-learning|inclusive learning]] (the broad inclusion agenda), and the emerging [[accessibility|accessibility]] concept (specific assistive/accommodation features). It provides an evidence base for how AI policies must be written to serve students with disabilities, offers a [[human-in-the-loop-ai|human-in-the-loop]] methodology exemplar (LLM topic modeling + expert Delphi validation), and connects accessibility to ethics, equity, teacher preparation, assessment, and [[ai-literacy|AI literacy]].
+This paper is a cornerstone reference for the knowledge base's accessibility/disability topic, directly contributing to [[educational-policy-ai|educational AI policy]] (a concrete, validated set of AI policy recommendations), [[special-education|special education]] (SLD-specific needs and IEP/FAPE legal grounding), [[inclusive-learning|inclusive learning]] (the broad inclusion agenda), and the emerging [[accessibility|accessibility]] concept (specific assistive/accommodation features). It provides an evidence base for how AI policies must be written to serve students with disabilities, offers a [[human-in-the-loop-ai|human-in-the-loop]] methodology [[rubrics|exemplar]] (LLM topic modeling + expert Delphi validation), and connects accessibility to ethics, equity, teacher preparation, assessment, and [[ai-literacy|AI literacy]].
 
 ## What this means for practice
 

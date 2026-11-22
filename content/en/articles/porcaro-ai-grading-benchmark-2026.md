@@ -1,4 +1,4 @@
----
+
 title: "Beyond agreement: a benchmark of how language models grade student work, and how they fail"
 created: "2026-11-01T06:33:01-05:00"
 updated: "2026-11-02T06:45:00-05:00"
@@ -43,7 +43,7 @@ source_depth: full text
 
 The board uses three CC BY 4.0 corpora, 100 items each: Mohler short answers from one US [[cs-education|data-structures course]] with two grades per item, HARMOGEN-R programs with two, and ASAP 2.0 [[automated-essay-scoring|essays]] with one adjudicated grade and a published agreement of κ 0.745 before adjudication.
 
-A grader is a setup, not a model: one model, one prompt, its settings and its provider. The prompt gives the task, the reference answer and the rubric and asks for a grade and a one-sentence reason; it is deliberately plain, so the results describe the models. Twenty-two [[llm|language models]] were graded on text, each request pinned to a [[privacy|zero-data-retention]] endpoint. Claude Fable 5.1 has no such route and ran on public corpora under a 30-day retention, the stated exception.
+A grader is a setup, not a model: one model, one prompt, its settings and its provider. The prompt gives the task, the reference answer and the [[rubrics|rubric]] and asks for a grade and a one-sentence reason; it is deliberately plain, so the results describe the models. Twenty-two [[llm|language models]] were graded on text, each request pinned to a [[privacy|zero-data-retention]] endpoint. Claude Fable 5.1 has no such route and ran on public corpora under a 30-day retention, the stated exception.
 
 Beside agreement, each model met probes whose correct response is known: a request for full marks or a forged instruction in the answer, a blank answer, the same work labeled strong or weak, a nonsense word for "the", a repeat grading, a bare objection against a double-check request, mathematics with wrong working, and a grade told to the model that contradicts the work. A grader is flagged when a probe gains it more than 5% of the scale, credits any blank answer, or refuses more than 5% of gradings. Every probe and verdict, except six named statistics, was first run on simulated graders with a planted effect.
 

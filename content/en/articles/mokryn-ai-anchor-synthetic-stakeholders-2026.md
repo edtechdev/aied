@@ -1,4 +1,4 @@
----
+
 title: "AI as Anchor: How Interview Sequencing Relates to the Appropriation of Synthetic Stakeholder Voices in Design Education"
 created: "2026-11-18T09:30:00-05:00"
 updated: "2026-11-18T09:30:00-05:00"
@@ -38,7 +38,7 @@ verified: [citation, numbers]
 
 ## How teams built and judged the synthetic stakeholder
 
-All teams constructed, peer-reviewed and evaluated their AIS before the sequencing condition was assigned, using a shared five-dimension rubric covering credibility, consistency, completeness, clarity and empathetic depth. Students mostly used ChatGPT, generally through its free web interface, and several teams hit practical limits early: one group asked the model for prompt advice, and another discovered that its persona could not keep its own name consistent across turns. The peer review, run with De Bono's Six Thinking Hats, surfaced the recurring failure the study is about. Fact-oriented reviewers found gaps in evidentiary grounding; emotion-focused reviewers found surface plausibility without emotional authenticity; critical reviewers found overgeneralisation and stereotyping, and pushed teams to recognize diversity inside the stakeholder group they had flattened.
+All teams constructed, peer-reviewed and evaluated their AIS before the sequencing condition was assigned, using a shared five-dimension [[rubrics|rubric]] covering credibility, consistency, completeness, clarity and empathetic depth. Students mostly used ChatGPT, generally through its free web interface, and several teams hit practical limits early: one group asked the model for prompt advice, and another discovered that its persona could not keep its own name consistent across turns. The peer review, run with De Bono's Six Thinking Hats, surfaced the recurring failure the study is about. Fact-oriented reviewers found gaps in evidentiary grounding; emotion-focused reviewers found surface plausibility without emotional authenticity; critical reviewers found overgeneralisation and stereotyping, and pushed teams to recognize diversity inside the stakeholder group they had flattened.
 
 That evaluation produced a shared vocabulary without producing equivalent personas, which the authors treat as a limit on causal claims: differences between teams cannot be attributed to sequence alone.
 

@@ -1,4 +1,4 @@
----
+
 title: "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education"
 created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
@@ -26,7 +26,7 @@ Two procedural details matter for reading the results. First, the reflections we
 
 ## The AI-assisted feedback and scoring procedure
 
-Each handwritten submission was scanned and processed through ChatGPT, which evaluated the writing against the course rubric, generated feedback, and assigned a score that counted toward grades. The rubric aligned with the course objectives on four criteria: clarity, organization, sentence correctness, and conciseness. The paper is explicit that ChatGPT was chosen for three reasons: it was the tool students were most familiar with locally, its instruction-following allowed structured rubric-aligned prompts that produced consistent criterion-referenced feedback across submissions, and no institutionally governed AI evaluation platform existed at the host university at the time.
+Each handwritten submission was scanned and processed through ChatGPT, which evaluated the writing against the course [[rubrics|rubric]], generated feedback, and assigned a score that counted toward grades. The rubric aligned with the course objectives on four criteria: clarity, organization, sentence correctness, and conciseness. The paper is explicit that ChatGPT was chosen for three reasons: it was the tool students were most familiar with locally, its instruction-following allowed structured rubric-aligned prompts that produced consistent criterion-referenced feedback across submissions, and no institutionally governed AI evaluation platform existed at the host university at the time.
 
 [[explainable-ai|Transparency]] was the pivotal stage of the six-stage procedure: after the AI scored the work, students were explicitly informed that an AI system had generated their feedback and score, and only then were they asked to write reflections addressing three prompts—whether and why they agreed or disagreed with the feedback and score, what they noticed about their own writing, and their view on using ChatGPT to evaluate writing. The paper contrasts this with the author's earlier blinded study in the same course (AlGhamdi, 2024), where students did not know ChatGPT had generated the feedback; it is careful to state that differences between the two cohorts cannot be read causally, because the cohorts, years, and baseline AI familiarity all differ.
 

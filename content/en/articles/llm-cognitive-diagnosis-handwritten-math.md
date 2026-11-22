@@ -1,4 +1,4 @@
----
+
 title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 created: "2026-05-31T12:17:35-04:00"
 updated: "2026-09-20T08:19:03-04:00"
@@ -25,7 +25,7 @@ This paper introduces **MathCog**, a benchmark dataset of 3,036 teacher-annotate
 
 1. **MathCog Benchmark** — First benchmark for cognitive skill diagnosis from handwritten math, grounded in TIMSS 2019 cognitive framework with Evident/Vague evidential strength labels
 2. **Systematic [[llm|LLM]] Evaluation** — 18 models spanning reasoning, multimodal, and text-only architectures, all showing F1 < 0.5
-3. **Error Taxonomy** — Five systematic error patterns identified: evidence misidentification, rubric misinterpretation, over-inference, inconsistency, and hallucination
+3. **Error Taxonomy** — Five systematic error patterns identified: evidence misidentification, [[rubrics|rubric]] misinterpretation, over-inference, inconsistency, and hallucination
 4. **Evidential Calibration Metrics** — Introduces OverAttr and FalseAttr to quantify models' tendency to over-claim evidential confidence
 
 ## Core Findings

@@ -1,4 +1,4 @@
----
+
 title: "I'm Sorry, Dave. I'm Afraid This Feedback is not Constructive: Human Perspectives Versus ChatGPT Evaluations of Feedback in an Era of Artificial Intelligence"
 created: "2026-10-31T09:25:00-04:00"
 updated: "2026-10-31T09:25:00-04:00"
@@ -65,7 +65,7 @@ Asked about instructors using AI to produce feedback on their work, most partici
 
 - Study 1 tested one model, ChatGPT version 3.5-turbo on default settings for a free account, accessed on June 26, 2024; the authors report that two years later a newer version, GPT-6 Astra, aligned more closely with student perceptions, so every AI-side result describes that vintage.
 - All 45 prompts were entered in a single continuous session, which the authors flag as a limit on reproducibility, and they could not establish that the model ranked on the definition it had produced moments earlier; more broadly, students ranked 30 pairs while ChatGPT ranked all 45 at once.
-- The comparison standard is ChatGPT's own output: the six aspects shown to focus groups (specific, actionable, balanced, focused on behavior, timely, encouraging) came from the model, so divergence is measured against the model's framing rather than an independent rubric.
+- The comparison standard is ChatGPT's own output: the six aspects shown to focus groups (specific, actionable, balanced, focused on behavior, timely, encouraging) came from the model, so divergence is measured against the model's framing rather than an independent [[rubrics|rubric]].
 - Study 2 drew 20 full-time undergraduates from four colleges of one large public university in the U.S. southwest in fall 2024, recruited through two instructors of a developmental reading and writing course and library flyers, so the sample is small and single-institution.
 - Participants had not actually received AI-generated feedback in a course; they were reasoning about a hypothetical, not reporting an experience, and no classroom learning outcome was measured.
 - This is a journal pre-proof version that has not completed final copyediting and typesetting.

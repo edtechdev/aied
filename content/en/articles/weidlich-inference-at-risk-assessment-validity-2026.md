@@ -1,4 +1,4 @@
----
+
 title: "Which inference is at risk? Assessment validity reasoning and generative AI"
 created: "2026-09-21T08:06:13-04:00"
 updated: "2026-09-21T08:06:13-04:00"
@@ -32,7 +32,7 @@ reviewed_by: [editor]
 
 ## The redesign sequence and the matrix
 
-The practical contribution is a five-step sequence: specify what a high score means, specify the AI conditions under which that interpretation should hold, locate the vulnerable inference by asking which warrant the concern calls into question, choose a design response while checking what it changes elsewhere in the chain, and identify what local evidence the stakes require. Proportionality governs the last step, with low-stakes formative tasks needing condition statements, exemplars and modest monitoring, while progression, award and certification decisions need secure complementary tasks, moderation, an explicit mapping between outcomes and the assessment mix, and a review of [[equity-in-ai-education|equity]] effects. The same matrix works at both levels: an instructor uses it to decide whether a task needs redesign, extra attribution evidence or clearer conditions, while a program can see whether a [[curriculum-design|curriculum]] leans too heavily on polished take-home products. Applied to one case-analysis essay, it yields different redesigns for independent reasoning, AI-supported analysis, writing fluency, capability in target settings and formative use.
+The practical contribution is a five-step sequence: specify what a high score means, specify the AI conditions under which that interpretation should hold, locate the vulnerable inference by asking which warrant the concern calls into question, choose a design response while checking what it changes elsewhere in the chain, and identify what local evidence the stakes require. Proportionality governs the last step, with low-stakes formative tasks needing condition statements, [[rubrics|exemplars]] and modest monitoring, while progression, award and certification decisions need secure complementary tasks, moderation, an explicit mapping between outcomes and the assessment mix, and a review of [[equity-in-ai-education|equity]] effects. The same matrix works at both levels: an instructor uses it to decide whether a task needs redesign, extra attribution evidence or clearer conditions, while a program can see whether a [[curriculum-design|curriculum]] leans too heavily on polished take-home products. Applied to one case-analysis essay, it yields different redesigns for independent reasoning, AI-supported analysis, writing fluency, capability in target settings and formative use.
 
 ## Where authenticity fits
 

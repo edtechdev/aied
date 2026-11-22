@@ -1,4 +1,4 @@
----
+
 title: "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education"
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
@@ -33,7 +33,7 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 - Twelve learning engineer collaborators, all previously experienced with LLM-based educational technology and four of them also in the earlier co-design phases; no instructors or students took part.
 - Only LLaMa3 was evaluated, selected to match the partner textbook framework, and the measures adapted from the [[machine-learning|machine learning]] literature were not validated for educational contexts.
 - Pooled decision agreement reached only Krippendorff's alpha = 0.4344, below the conventional 0.67 threshold, with each participant asked to complete all 30 match-ups within one hour.
-- The evaluation used a prompt tournament under a co-designed rubric rather than classroom practice, so whether the metrics improve real teaching decisions is untested.
+- The evaluation used a prompt tournament under a co-designed [[rubrics|rubric]] rather than classroom practice, so whether the metrics improve real teaching decisions is untested.
 
 ## Citation
 

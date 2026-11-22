@@ -1,4 +1,4 @@
----
+
 title: "Learner context changes an LLM grader's marks on identical work: a within-item ablation on six models"
 created: "2026-11-01T06:33:01-05:00"
 updated: "2026-11-01T09:45:00-05:00"
@@ -29,7 +29,7 @@ source_depth: full text
 1. Six models from five developers graded the same 300 short answers under a true and a swapped attainment label. All gave identical work more under the high label: L from +0.28 on Claude Opus 5.5 to +0.75 on Qwen3-235B.
 2. The direction held on every model and inside each tail: in the high tail a false low label cost a strong student 0.30 to 0.79 points on work the same model marked higher with no label.
 3. On short answers whose attainment could be computed, the difference was 0.28 to 0.75 points on a ten-point scale, 2.8 to 7.5% of it.
-4. On 60 complete Java programs on a 14-level rubric it was larger for two of three models: 2.8 times the short-answer size on GPT-4.1-mini, 2.4 times on Qwen, 0.4 times on Gemini.
+4. On 60 complete Java programs on a 14-level [[rubrics|rubric]] it was larger for two of three models: 2.8 times the short-answer size on GPT-4.1-mini, 2.4 times on Qwen, 0.4 times on Gemini.
 5. Reasoning was no remedy: GPT-5-mini at minimal reasoning doubled its effect from 0.52 to 1.04 points, so a false low label cost a strong student 1.16 points; more reasoning changed nothing.
 6. Under RQ3, three graded examples moved Gemini's marks by the level at which they were marked: correct marks took 0.34 points off, shuffling them kept 37% of that shift, and shifting the shown marks two points moved the grade 0.39 points per point.
 7. Under RQ4, grades feeding back into the learner model that supplies the label multiplied its spread by 1.066 to 1.167 over a simulated 40-item term, on fitted effects of 0.093, 0.100, 0.140 and 0.199 marks per point of label. Runaway would take 5.9 to 12.6 times each model's effect.

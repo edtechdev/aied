@@ -1,4 +1,4 @@
----
+
 title: "From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing"
 created: "2026-09-27T12:30:36-04:00"
 updated: "2026-09-27T12:30:36-04:00"
@@ -38,7 +38,7 @@ reviewed_by: [editor]
 
 ## How the diagnostic-review routine was built and coded
 
-Ninety-six students in two intact classes (48 each) followed the same topics, rubric and scoring scale, taught by one instructor with roughly eight years of university EFL and English-writing experience. The three cycles were a problem-solution paragraph, a two-paragraph opinion response and a source-based short response; the analytic file held 288 cycle-level observations. Pretest writing (66.57 and 65.56, p = 0.418), [[feedback-literacy|feedback literacy]], [[self-regulated-learning|self-regulated learning]] and self-assessment accuracy (0.71 in both) were comparable at baseline.
+Ninety-six students in two intact classes (48 each) followed the same topics, [[rubrics|rubric]] and scoring scale, taught by one instructor with roughly eight years of university EFL and English-writing experience. The three cycles were a problem-solution paragraph, a two-paragraph opinion response and a source-based short response; the analytic file held 288 cycle-level observations. Pretest writing (66.57 and 65.56, p = 0.418), [[feedback-literacy|feedback literacy]], [[self-regulated-learning|self-regulated learning]] and self-assessment accuracy (0.71 in both) were comparable at baseline.
 
 DeepSeek-R1, accessed through its official web interface, produced the feedback in all cycles; the interface exposed no backend snapshot and its generation settings were not configurable. Each prompt supplied task requirements, the rubric and the draft and requested a score or level, issue category, location, severity, explanation and revision direction, with diagnosis separated from suggestions and no rewriting permitted. One output per draft was retained, with no documented regeneration or pre-delivery screening. Coding used fixed scales: accuracy measures 0 to 1, actionability, comprehension, revision quality and reflection quality 1 to 5, review intensity 1 to 4. Two coders calibrated on about 24 excluded records and double-coded 96 of the 288 cycle-level records (33.3%) stratified by group and cycle, reaching Cohen's kappa = 0.82, 95% CI [0.75, 0.88] and ICC(2, 1) = 0.88, 95% CI [0.83, 0.92].
 

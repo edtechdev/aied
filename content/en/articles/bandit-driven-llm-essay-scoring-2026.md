@@ -1,4 +1,4 @@
----
+
 title: "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring"
 created: "2026-08-26T09:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
@@ -25,7 +25,7 @@ confidence: high
 ## What this means for practice
 
 - **Designers.** Put prompt selection under an online controller instead of fixing a template: treat each grading recipe as an arm in a multi-armed bandit and update it on agreement between predicted and examiner scores, which cut [[llm|LLM]] calls by 78.4% while holding [[assessment-validity|scoring agreement]].
-- **Designers.** Budget tokens and latency as first-class constraints — track token usage, latency, and agreement together, because few-shot prompts with rubrics and rationales can exceed the context window of mid-tier models.
+- **Designers.** Budget tokens and latency as first-class constraints — track token usage, latency, and agreement together, because few-shot prompts with [[rubrics|rubrics]] and rationales can exceed the context window of mid-tier models.
 - **Designers.** Do not assume more rubric detail improves scoring: the simplified prompt without detailed rubric explanations matched or beat the rubric-heavy variant (QWK 0.485, MAE 0.965) at fewer tokens.
 - **Designers.** Use the multi-step recipe calibrated with annotated high- and low-scoring example essays where accuracy matters most, since it achieved the highest accuracy of the four recipes tested.
 - **Researchers.** Extend evaluation beyond a single benchmark and a single model before treating the framework as generalizable to other assessment contexts.

@@ -1,4 +1,4 @@
----
+
 title: "The pedagogical power of recognition in feedback"
 created: "2026-11-13T16:30:00-05:00"
 updated: "2026-11-13T16:30:00-05:00"
@@ -60,7 +60,7 @@ Automated and [[generative-ai|generative AI]] feedback is extra-recognitive: mut
 
 Within recognitive relationships, failure takes three forms. Misrecognition actively misrepresents identity. Under-recognition is perfunctory, as in generic comments that never acknowledge a particular learner. Conditional recognition grants standing only on terms, such as being heard if you conform to dominant cultural or linguistic norms. Each is a harm, and each is recursive: the student withdraws, the teacher stops investing, and the withdrawal confirms both parties' worst reading.
 
-Technical fixes therefore underperform: detailed rubrics, faster returns and directive language can improve [[ai-feedback-quality|measured quality]] while leaving the relation untouched.
+Technical fixes therefore underperform: detailed [[rubrics|rubrics]], faster returns and directive language can improve [[ai-feedback-quality|measured quality]] while leaving the relation untouched.
 
 ## What repair requires
 
@@ -72,10 +72,10 @@ The authors treat recognition as feedback theory's foundation rather than an add
 
 ## What this means for practice
 
-- **Instructors:** Address the student as a participant in the discipline, not just the owner of a draft: name what the work is starting to do well, and frame corrections inside that.
-- **Feedback designers:** Protect continuity between whoever comments and whoever teaches; where marking is distributed, design introductions and exemplar discussions rather than longer comments.
-- **Program leaders:** Treat outsourced marking by staff with no continuing relationship to the cohort as a pedagogical cost, and fund the contacts that let recognition form.
-- **Faculty developers:** Ask "whose standing is being withheld?" and sort complaints into misrecognition, under-recognition or conditional recognition before reaching for a template.
+- **Instructors.** Address the student as a participant in the discipline, not just the owner of a draft: name what the work is starting to do well, and frame corrections inside that.
+- **Feedback designers.** Protect continuity between whoever comments and whoever teaches; where marking is distributed, design introductions and exemplar discussions rather than longer comments.
+- **Program leaders.** Treat outsourced marking by staff with no continuing relationship to the cohort as a pedagogical cost, and fund the contacts that let recognition form.
+- **Faculty developers.** Ask "whose standing is being withheld?" and sort complaints into misrecognition, under-recognition or conditional recognition before reaching for a template.
 
 ## Limitations
 

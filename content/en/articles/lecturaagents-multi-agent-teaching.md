@@ -1,4 +1,4 @@
----
+
 title: "LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching"
 created: "2026-06-17T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
@@ -21,7 +21,7 @@ page_kind: [framework]
 - Outperforms baselines on lecture quality, embodiment, assessment, and personalization.
 - Given a lecture prompt or learning materials plus a learner profile, a **ProfessorAgent leads a collaborative team of specialized agents** through [[research-methods-aied|research]], planning, design, evaluation, and embodied delivery of lecture and study content that adapts to the individual learner.
 - The framework provides students with access to **real-time adaptive, personalized teaching and study sessions**, addressing a gap in prior educational agent frameworks that focused mainly on lecture content automation and [[simulation|simulation]].
-- Evaluation across **high school, undergraduate, and graduate-level courses** using sample-specific rubric-based analysis, with generated lecture materials and teaching actions assessed and validated by **expert educators**, shows consistent gains over existing approaches.
+- Evaluation across **high school, undergraduate, and graduate-level courses** using sample-specific [[rubrics|rubric]]-based analysis, with generated lecture materials and teaching actions assessed and validated by **expert educators**, shows consistent gains over existing approaches.
 
 ## Architecture & Method
 

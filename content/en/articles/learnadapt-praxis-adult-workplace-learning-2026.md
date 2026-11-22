@@ -1,4 +1,4 @@
----
+
 title: "LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning"
 created: "2026-10-05T09:50:49-04:00"
 updated: "2026-10-05T10:00:00-04:00"
@@ -46,7 +46,7 @@ The rehearsal crossed three fictional workplace contexts with four injected prov
 
 ## Provenance is not educational validity
 
-The application retains local analogues of provenance: project versions, activity events, and authenticated actors. The report distinguishes that from the W3C PROV model and states plainly that the JSON schema is not a conformant PROV serialisation, that it does not capture every interaction or store a tamper-evident audit log, and that a provider/model label plus a policy identifier is insufficient for exact reconstruction of a historical response. Its table of inference boundaries is the clearest part of the argument: a baseline and versioned specification support only the claim that text was saved in a particular sequence; a hint record supports only that a response and its reported origin were stored; a validation observation records that an actor described testing, not that a prototype passed; and a facilitator rubric records that an authorized reviewer supplied values, not that those ratings are reliable or calibrated. These are [[learning-analytics|process records]], not outcome measures, and conflating them would be a basic [[assessment-validity|assessment validity]] error. The report therefore separates what its evidence supports from what requires additional, human-collected data.
+The application retains local analogues of provenance: project versions, activity events, and authenticated actors. The report distinguishes that from the W3C PROV model and states plainly that the JSON schema is not a conformant PROV serialisation, that it does not capture every interaction or store a tamper-evident audit log, and that a provider/model label plus a policy identifier is insufficient for exact reconstruction of a historical response. Its table of inference boundaries is the clearest part of the argument: a baseline and versioned specification support only the claim that text was saved in a particular sequence; a hint record supports only that a response and its reported origin were stored; a validation observation records that an actor described testing, not that a prototype passed; and a facilitator [[rubrics|rubric]] records that an authorized reviewer supplied values, not that those ratings are reliable or calibrated. These are [[learning-analytics|process records]], not outcome measures, and conflating them would be a basic [[assessment-validity|assessment validity]] error. The report therefore separates what its evidence supports from what requires additional, human-collected data.
 
 ## From engineering readiness to a future learner study
 
@@ -55,7 +55,7 @@ The report positions the rehearsal as preparation for, not a substitute for, a l
 ## What this means for practice
 
 - **Instructional designers.** Separate assisted work from the moment you intend to assess: Praxis saves and locks a baseline response, requires a specification and validation observations before transfer, and rejects coaching and export during an active transfer attempt.
-- **[[educational-technology-developers|Educational technology developers]].** Treat provider failure as a first-class state: the exception and empty conditions each recorded 30 unavailable outcomes and stored zero hints, and a pending-request marker with a nonce and expiry prevented stale saves from being accepted.
+- **Educational technology developers.** Treat provider failure as a first-class state: the exception and empty conditions each recorded 30 unavailable outcomes and stored zero hints, and a pending-request marker with a nonce and expiry prevented stale saves from being accepted.
 - **Researchers.** Read the rehearsal for what it establishes — tested workflow, authority, failure-recovery and provenance properties — and design the human study separately, with a prespecified rubric, trained raters, and delayed transfer if retained reasoning is the outcome.
 - **Administrators.** Do not treat application use as consent to research: the report calls for separate consent and governance arrangements before any participant study.
 

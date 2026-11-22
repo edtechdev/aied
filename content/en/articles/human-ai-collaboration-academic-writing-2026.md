@@ -1,4 +1,4 @@
----
+
 title: "From tool to scaffold: Structured human–AI collaboration and its effects on academic writing and digital critical thinking among Saudi EFL learners"
 created: "2026-09-25T11:42:33-04:00"
 updated: "2026-09-25T12:56:00-04:00"
@@ -36,7 +36,7 @@ source_depth: full text
 6. Students reported verifying AI output before use (M = 4.00, SD = 0.86 on a 1–5 scale) far more than relying on it beyond course guidance (M = 2.10, SD = 0.30 on a 1–3 scale).
 
 ## How the intervention was designed and measured
-The study used a convergent [[mixed-methods-research|mixed-methods]] quasi-experimental pretest–posttest control-group design in a required academic writing course. Writing was scored on a 45 min timed essay of 250–300 words using a four-dimension analytic rubric (total 0–20), two raters blind to group. Digital critical thinking used the 20-item Digital Critical Thinking Scale (1–5 items, total 20–100; α = 0.97 pretest, 0.99 posttest).
+The study used a convergent [[mixed-methods-research|mixed-methods]] quasi-experimental pretest–posttest control-group design in a required academic writing course. Writing was scored on a 45 min timed essay of 250–300 words using a four-dimension analytic [[rubrics|rubric]] (total 0–20), two raters blind to group. Digital critical thinking used the 20-item Digital Critical Thinking Scale (1–5 items, total 20–100; α = 0.97 pretest, 0.99 posttest).
 
 Over 11 weeks the experimental group received instruction in five components: problem framing and prompt design; generating alternative outlines, arguments, and claims; iterative drafting and revision; verification and triangulation of claims and citations in scholarly databases; and responsible-use regulation covering attribution, reliance, and authorial ownership. Assignments required an AI-use log of prompts, outputs consulted, and accept-or-reject justifications, preserving [[agency|learner agency]].
 

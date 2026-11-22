@@ -1,4 +1,4 @@
----
+
 title: "ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment"
 created: "2026-09-15T11:05:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"
@@ -33,7 +33,7 @@ methods: [benchmark, quantitative-research]
 
 ## From Stem-Based to Process-Based Quality Assessment
 
-The paper's diagnosis is that [[automated-question-generation|automated question generation]] solved generation faster than it solved assurance. Traditional [[assessment|item quality]] review relies on subject-matter experts or small pilot studies, which cannot keep pace with a generated item library; automated alternatives mostly target multiple-choice difficulty using readability scores, n-grams or static rubrics. Both, the authors argue, inspect the item's surface. The alternative is measured on what a human expert actually does: read the stem, then simulate the solving path to see which concepts are invoked, how many reasoning steps are involved, and what kind of mathematical thinking is required.
+The paper's diagnosis is that [[automated-question-generation|automated question generation]] solved generation faster than it solved assurance. Traditional [[assessment|item quality]] review relies on subject-matter experts or small pilot studies, which cannot keep pace with a generated item library; automated alternatives mostly target multiple-choice difficulty using readability scores, n-grams or static [[rubrics|rubrics]]. Both, the authors argue, inspect the item's surface. The alternative is measured on what a human expert actually does: read the stem, then simulate the solving path to see which concepts are invoked, how many reasoning steps are involved, and what kind of mathematical thinking is required.
 
 That reframing drives the architecture. A surface view encodes the stem through a frozen pre-trained language model; a deep view extracts solving semantics from a structured reasoning tree in which each node carries both a subproblem text and a rationale text, concatenated into a node representation and propagated along dependency edges by a multi-layer Graph Isomorphism Network. The two representations are fused for prediction heads that match concepts, rank and classify difficulty, and classify competency. The authors deliberately avoid forcing the three heterogeneous dimensions into one label space, keeping task-specific objectives on top of a shared process-enriched representation.
 

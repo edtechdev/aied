@@ -1,4 +1,4 @@
----
+
 title: "ResidencyRL: Reinforcement learning in simulated clinical environments"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
@@ -39,7 +39,7 @@ A four-stage generative pipeline synthesizes and curates clinical cases. First, 
 
 ### Simulated Environment and Patient Simulator
 
-Patients are simulated with Gemini 3.5 Flash conditioned on the scenario's full medical record, conversation history, and the agent's latest message. A behavioral layer calibrates health-literacy adaptation, information asymmetry between proactive and reactive disclosures, and pacing constraints, spanning the range from cooperative and articulate patients to evasive and health-illiterate ones. Adversarial specialization layers static behavior addenda — e.g., a patient in the concealed-atypical-emergency subcategory minimizes symptoms and resists escalation — with a difficulty level (1–3) calibrating how persistently deception is sustained. The simulator validates candidate responses against eleven failure modes and is withheld from the evaluation rubric and tool calls, preventing inadvertent confirmation of the agent's hypotheses.
+Patients are simulated with Gemini 3.5 Flash conditioned on the scenario's full medical record, conversation history, and the agent's latest message. A behavioral layer calibrates health-literacy adaptation, information asymmetry between proactive and reactive disclosures, and pacing constraints, spanning the range from cooperative and articulate patients to evasive and health-illiterate ones. Adversarial specialization layers static behavior addenda — e.g., a patient in the concealed-atypical-emergency subcategory minimizes symptoms and resists escalation — with a difficulty level (1–3) calibrating how persistently deception is sustained. The simulator validates candidate responses against eleven failure modes and is withheld from the evaluation [[rubrics|rubric]] and tool calls, preventing inadvertent confirmation of the agent's hypotheses.
 
 ### Structured Reward and Auto-Grading
 

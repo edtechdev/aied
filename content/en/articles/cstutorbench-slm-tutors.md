@@ -1,4 +1,4 @@
----
+
 title: "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming"
 created: "2026-07-08T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
@@ -16,7 +16,7 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Deploying [[llm|LLM]] tutors in K-12 raises concerns around [[privacy|privacy]], cost, and reliance on proprietary models, motivating small language models (SLMs) as an alternative. The authors introduce **CSTutorBench**, a [[benchmark|benchmark]] evaluating language models as CS tutors in VEX VR, a block-based robotics environment. It comprises 17 scenario-based questions scored against a [[pedagogy|pedagogical]] rubric grounded in tutoring and [[feedback|feedback]] [[research-methods-aied|research]], using a [[human-in-the-loop-ai|human-in-the-loop]] LLM-as-judge pipeline. Across 11 models (4B–120B parameters), models handled surface-level criteria (vocabulary, tone) well but struggled with deeper pedagogical behaviors — especially avoiding answer leakage and engaging with student debugging histories. Model family and instruction-tuning predicted tutoring quality better than parameter count; a targeted prompt revision improved scores for 10 of 11 models.
+> **Synthesis:** Deploying [[llm|LLM]] tutors in K-12 raises concerns around [[privacy|privacy]], cost, and reliance on proprietary models, motivating small language models (SLMs) as an alternative. The authors introduce **CSTutorBench**, a [[benchmark|benchmark]] evaluating language models as CS tutors in VEX VR, a block-based robotics environment. It comprises 17 scenario-based questions scored against a [[pedagogy|pedagogical]] [[rubrics|rubric]] grounded in tutoring and [[feedback|feedback]] [[research-methods-aied|research]], using a [[human-in-the-loop-ai|human-in-the-loop]] LLM-as-judge pipeline. Across 11 models (4B–120B parameters), models handled surface-level criteria (vocabulary, tone) well but struggled with deeper pedagogical behaviors — especially avoiding answer leakage and engaging with student debugging histories. Model family and instruction-tuning predicted tutoring quality better than parameter count; a targeted prompt revision improved scores for 10 of 11 models.
 
 - **K-12 privacy-aware tutoring:** Motivates on-device SLMs for [[k-12]] to address [[privacy|privacy]] and cost vs proprietary LLMs.
 - **Pedagogically grounded benchmark:** 17 scenarios scored on a rubric tied to [[intelligent-tutoring|intelligent tutoring]] and [[feedback|Feedback Loop]] research, in block-based programming.

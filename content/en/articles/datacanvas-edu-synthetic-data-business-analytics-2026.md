@@ -1,4 +1,4 @@
----
+
 title: "DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education"
 created: "2026-09-18T09:15:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
@@ -17,7 +17,7 @@ sources: ['raw/papers/datacanvas-edu-synthetic-data-business-analytics-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** An, Hamdani & Fox (2026) identify a practical bottleneck in business [[learning-analytics|analytics]] teaching: authentic datasets are hard to obtain, adapt poorly to a given course, and — when they are popular — have already been absorbed into [[llm|LLM]] training data together with their worked solutions. Their response, **DataCanvas-EDU**, is an [[agentic-ai|agentic]] framework in which an instructor states teaching goals in conversation and an AI agent writes generation code, checks the resulting data, and prepares assignments, reference analyses and rubrics across four phases: Plan, Create, Verify/Test Analysis and Evaluate. The paper illustrates the approach with a 15,000-order food-delivery case containing nine deliberately designed patterns, and packages the framework as a reusable agent skill.
+> **Synthesis:** An, Hamdani & Fox (2026) identify a practical bottleneck in business [[learning-analytics|analytics]] teaching: authentic datasets are hard to obtain, adapt poorly to a given course, and — when they are popular — have already been absorbed into [[llm|LLM]] training data together with their worked solutions. Their response, **DataCanvas-EDU**, is an [[agentic-ai|agentic]] framework in which an instructor states teaching goals in conversation and an AI agent writes generation code, checks the resulting data, and prepares assignments, reference analyses and [[rubrics|rubrics]] across four phases: Plan, Create, Verify/Test Analysis and Evaluate. The paper illustrates the approach with a 15,000-order food-delivery case containing nine deliberately designed patterns, and packages the framework as a reusable agent skill.
 
 ## Key Findings
 

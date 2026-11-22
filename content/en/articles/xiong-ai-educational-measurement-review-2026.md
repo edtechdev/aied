@@ -1,4 +1,4 @@
----
+
 title: "A decade of reflection and thematic review on artificial intelligence's impact on educational measurement"
 created: "2026-08-24T12:32:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
@@ -31,7 +31,7 @@ The review surfaces both opportunities and challenges. Opportunities include sca
 ## What this means for practice
 
 - **Assessment professionals.** In high-stakes decisions, favor interpretable models over the highest-performing ones; the review names the interpretability–performance trade-off as the central challenge of AI in [[educational-measurement|measurement]].
-- **Assessment professionals.** Constrain [[llm|LLM]] scoring and feedback with rubrics and human validation — the reviewed literature shows LLMs can produce contradictory or inconsistent feedback across different aspects of a single response.
+- **Assessment professionals.** Constrain [[llm|LLM]] scoring and feedback with [[rubrics|rubrics]] and human validation — the reviewed literature shows LLMs can produce contradictory or inconsistent feedback across different aspects of a single response.
 - **Assessment professionals.** Rewrite constructs and validity arguments for human–AI collaboration rather than unassisted human performance; the review argues Classical Test Theory and [[item-response-theory|IRT]] validity models built on solo work no longer fit when AI is available to every learner.
 - **Researchers.** Log and report process evidence such as interaction traces and revision behaviors as part of the validity argument, treating it as evidence of learning-in-action rather than an incidental byproduct.
 - **Researchers.** Reconceptualize fairness and validity as properties of the whole instructional-assessment system, so that measured outcomes reflect equitable learning opportunities rather than differential access to AI tools.

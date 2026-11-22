@@ -1,4 +1,4 @@
----
+
 title: "Assessing what matters most – the shifting value proposition of human-centred work in assessment practice"
 created: "2026-10-27T07:21:08-04:00"
 updated: "2026-10-27T07:21:08-04:00"
@@ -38,7 +38,7 @@ ai_assist:
 - **Regulation is aimed at the wrong object.** Surveillance, restrictive invigilation and ever more elaborate exclusion mechanisms treat AI as something to be kept out of assessment, when the epistemic, cognitive and procedural conditions of practice have already changed, and the question is how to guide [[pedagogy|pedagogy]] in an environment where AI is an active participant.
 - **The tensions are structural, not peripheral.** Integrity, [[authentic-assessment|authenticity]] and [[equity-in-ai-education|equity]] are core contradictions of assessment practice, and prohibition-based responses can disadvantage precisely the students who rely on AI for [[accessibility|accessibility]], language support or cognitive [[scaffolding|scaffolding]].
 - **Thévenot's regimes of engagement explain why consensus is hard to reach.** Educators coordinate through justification, planning, familiarity and exploration, and speak from different grammars of commonality, so argument about AI in assessment is often two people defending different kinds of common good.
-- **Assessment is located in the assemblage, not in the task.** A rubric or [[reflection|reflective journal]] intends judgment, but what a student actually does depends on interfaces, networks, physical space, peer norms and prior history, so designing the task is not the same as designing the conditions for judgment.
+- **Assessment is located in the assemblage, not in the task.** A [[rubrics|rubric]] or [[reflection|reflective journal]] intends judgment, but what a student actually does depends on interfaces, networks, physical space, peer norms and prior history, so designing the task is not the same as designing the conditions for judgment.
 - **Constraints are the design lever, not the obstacle.** Generative constraints, composed deliberately, pace cognitive work, create low-stakes space for exploration, sustain relational routines, and make criteria explicit, rather than being limits a designer should remove to maximize freedom.
 
 ## Why tighter regulation misreads the problem

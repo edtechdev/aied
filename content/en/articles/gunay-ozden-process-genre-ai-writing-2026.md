@@ -1,4 +1,4 @@
----
+
 title: "The Effect of the Process–Genre Approach on AI-assisted and Multimodal Writing"
 created: "2026-10-29T09:15:13-04:00"
 updated: "2026-10-29T10:32:00-04:00"
@@ -28,12 +28,12 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Günay and Özden (2026) tested whether a process–genre approach to [[writing-education|writing instruction]] — planning, drafting, revising and genre analysis, taught over five weeks and thirteen lesson hours — improves seventh graders' informative writing, [[multimodal|multimodal]] text creation and [[generative-ai|AI-assisted writing]], using a nonequivalent pretest–posttest control group design with 16 students per group in a Turkish [[k-12|middle school]]. All three effects were large and the pre-test differences were not significant: informative text writing reached a post-test mean of 13.56 against 10.38 for the control group (r = 0.66), multimodal text generation 12.812 against 7.1250 (r = 0.84), and AI-assisted writing 9.8750 against 3.8125 (r = 0.86). Interviews with the experimental group describe the approach as functional, motivating and supportive of multimodal thinking, and the authors note that students built multimodal texts with pen and paper as well as digital tools. The study's contribution is to treat AI-assisted writing as a writing skill to be taught rather than a temptation to be policed.
+> **Synthesis:** Günay and Özden (2026) tested whether a process–genre approach to [[writing-education|writing instruction]] — planning, drafting, revising and genre analysis, taught over five weeks and thirteen lesson hours — improves seventh graders' informative writing, [[multimodal|multimodal]] text creation and [[generative-ai|AI-assisted writing]], using a nonequivalent pretest–posttest control group design with 16 students per group in a Turkish [[k-12|middle school]]. All three effects were large and the pre-test differences were not significant: informative text writing reached a post-test mean of 13.56 against 10.38 for the control group, multimodal text generation 12.812 against 7.1250, and AI-assisted writing 9.8750 against 3.8125. Interviews with the experimental group describe the approach as functional, motivating and supportive of multimodal thinking, and the authors note that students built multimodal texts with pen and paper as well as digital tools. The study's contribution is to treat AI-assisted writing as a writing skill to be taught rather than a temptation to be policed.
 
 ## Key Findings
 
 1. **Two intact classes, 32 students, five weeks.** Seventh-grade students at one Turkish middle school formed the experimental and control groups (16 each) in a nonequivalent pretest–posttest quasi-experiment spanning 13 lesson hours.
-2. **Pre-test equivalence held on all three rubrics.** Baseline differences were statistically non-significant (informative text p = .359, multimodal p = .443, AI-assisted writing p = .396), which supports attributing post-test differences to the intervention.
+2. **Pre-test equivalence held on all three [[rubrics|rubrics]].** Baseline differences were statistically non-significant (informative text p = .359, multimodal p = .443, AI-assisted writing p = .396), which supports attributing post-test differences to the intervention.
 3. **Informative text writing improved substantially.** Post-test means were 13.5625 for the experimental group against 10.3750 for the control group (MW-U = 30.00, Z = −3.73, p = 0.00, r = 0.66).
 4. **Multimodal text creation moved furthest among the writing outcomes.** Post-test means were 12.812 against 7.1250 (MW-U = 2.50, Z = −4.77, p = 0.000, r = 0.84).
 5. **AI-assisted writing showed the largest effect in the study.** Post-test means were 9.8750 against 3.8125 with no overlap between groups (MW-U = 0.00, Z = −4.885, p = 0.000, r = 0.86).

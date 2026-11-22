@@ -1,4 +1,4 @@
----
+
 title: "Perceived usefulness and intention to use large language model-generated feedback across three educational levels: a user-centred study in programming"
 created: "2026-09-23T12:30:00-04:00"
 updated: "2026-10-28T01:06:31-04:00"
@@ -31,14 +31,14 @@ reviewed_by: [editor]
 
 - **Students rated the generative AI feedback favourably at both layers**: response-level means of 4.24 to 4.43 across 893 answers, report-level means of 4.11 to 4.38 across 237 reports.
 - **The response-level profile was strongest on clarity and perceived accuracy and weakest on actionability and usefulness**, though differences among dimensions were small (generalized eta-squared = 0.016).
-- **Cognitive load was rated lowest and most dispersed at the report level** (M = 4.11, SD = 0.88), while relevance, intention to use, and satisfaction were highest.
-- **Only perceived accuracy differed across the three contexts**, rated lower in CTeSP (M = 4.20) than in secondary (M = 4.63) or undergraduate education (M = 4.42).
+- **Cognitive load was rated lowest and most varied at the report level**, while relevance, intention to use, and satisfaction were highest.
+- **Only perceived accuracy differed across the three contexts**, rated lower in CTeSP than in secondary or undergraduate education.
 - **Perceived usefulness was associated mainly with actionability and perceived accuracy**, which carried the largest relative weights (32.6% and 29.0%) in a model explaining 76% of the variance.
 - **Intention to use was associated mainly with motivation and personalization** (31.9% and 23.2% of relative weight), in a report-level model explaining 53% of the variance.
 
 ## Evaluating Two Layers of Feedback
 
-Feedback was produced by the IntroEduAI platform, which scored each submission against an instructor-written, criterion-referenced rubric and returned two layers of feedback. The first addressed each individual answer across clarity, specificity, accuracy, actionability, and usefulness. The second was a consolidated report summarizing strengths, weaknesses, and suggestions, rated on satisfaction, relevance, personalization, cognitive load, intention to use, and motivation. Every item captured perception on a five-point scale, so accuracy means perceived accuracy rather than verified correctness. Individual answers were evaluated with GPT-4.1-2025-04-14, with course materials supplied through [[rag|retrieval-augmented generation]] for text questions, while reports used a different configuration. Domain, task, and instrument were held constant while level varied, so [[formative-assessment|formative feedback]] perceptions could be compared across levels rather than confounded with discipline.
+Feedback was produced by the IntroEduAI platform, which scored each submission against an instructor-written, criterion-referenced [[rubrics|rubric]] and returned two layers of feedback. The first addressed each individual answer across clarity, specificity, accuracy, actionability, and usefulness. The second was a consolidated report summarizing strengths, weaknesses, and suggestions, rated on satisfaction, relevance, personalization, cognitive load, intention to use, and motivation. Every item captured perception on a five-point scale, so accuracy means perceived accuracy rather than verified correctness. Individual answers were evaluated with GPT-4.1-2025-04-14, with course materials supplied through [[rag|retrieval-augmented generation]] for text questions, while reports used a different configuration. Domain, task, and instrument were held constant while level varied, so [[formative-assessment|formative feedback]] perceptions could be compared across levels rather than confounded with discipline.
 
 ## What Students Reported
 
@@ -53,11 +53,11 @@ Across the three contexts, only perceived accuracy at the response level differe
 Regressing perceived usefulness on the remaining response-level dimensions explained 76% of the variance. Actionability (relative weight 32.6%) and perceived accuracy (29.0%) carried the largest shares, and only their standardized coefficients had bootstrap intervals excluding zero. Clarity correlated with usefulness bivariately (r = 0.68) but its unique coefficient was near zero, indicating shared variance with the other dimensions. At the report level, intention to use was regressed on the other five dimensions and the model explained 53% of the variance; motivation (31.9%) and personalization (23.2%) carried the largest relative weights and were the only coefficients whose intervals excluded zero. The authors read this as [[technology-acceptance-model|technology acceptance]] applied to feedback, where usefulness tracks whether feedback helps a learner act.
 
 ## What this means for practice
-- Favorable ratings across three contexts suggest that [[llm|LLM]]-generated feedback can be a credible part of [[formative-assessment|formative assessment]] in programming, but they describe perception rather than effect.
-- Because [[feedback|feedback]] counts when students act on it, the practical priority is actionability: feedback should point to a concrete next step rather than merely describe a fault, since actionability was the strongest correlate of perceived usefulness despite being rated lowest.
-- Perceived accuracy carried almost as much weight, which fits a setting where students must check claims against their own understanding, so designers should make the basis of a judgment visible and keep the student's judgment central.
-- For consolidated reports, motivation and personalization track intention to use, so tone and tailoring matter as much as coverage.
-- Instructors should treat these associations as design guidance to test, not as proof that raising actionability raises usefulness, and should retain oversight rather than reading high ratings as a case for unsupervised deployment.
+- **Instructors.** Favorable ratings across three contexts suggest that [[llm|LLM]]-generated feedback can be a credible part of [[formative-assessment|formative assessment]] in programming, but they describe perception rather than effect.
+- **Instructors.** Because [[feedback|feedback]] counts when students act on it, the practical priority is actionability: feedback should point to a concrete next step rather than merely describe a fault, since actionability was the strongest correlate of perceived usefulness despite being rated lowest.
+- **Instructors.** Perceived accuracy carried almost as much weight, which fits a setting where students must check claims against their own understanding, so designers should make the basis of a judgment visible and keep the student's judgment central.
+- **Instructors.** For consolidated reports, motivation and personalization track intention to use, so tone and tailoring matter as much as coverage.
+- **Instructors.** Treat these associations as design guidance to test, not as proof that raising actionability raises usefulness, and should retain oversight rather than reading high ratings as a case for unsupervised deployment.
 
 ## Limitations
 - Several boundaries limit what these ratings can support.

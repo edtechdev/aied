@@ -1,4 +1,4 @@
----
+
 title: "Evaluating Large Language Model Performance on Open-Ended Questions: Answering and Marking Capabilities"
 created: "2026-10-16T09:20:00-04:00"
 updated: "2026-10-16T09:20:00-04:00"
@@ -43,7 +43,7 @@ RQ1 asked how [[llm|LLM]] answers to open-ended biological statistics questions 
 
 ## Marking: low agreement and a compressed scale
 
-For RQ2 the same 1,344 answers were graded on a holistic five-point rubric by Expert1, an instructor with more than 20 years of statistics teaching, and by Expert2, Claude Sonnet 4.0, given identical rubric text and blinded respondent labels. Only Type 2 (ICC = 0.9035) and Type 3 (ICC = 0.9076) reached statistical significance, and their 95% CIs — [0.1200, 0.9900] and [0.1400, 0.9900] — are wide enough that the point estimates cannot be read as precise. Per student, none reached even "fair" agreement (κ ≥ 0.21) on the unweighted, linear-weighted, or quadratic-weighted kappa; Student1's unweighted kappa was negative (-0.0220) and its agreement rate 10.7143%. Behind those numbers sat a range restriction: Expert1 used the full 1-5 scale while Expert2 mostly used 2-4, a central-tendency problem the authors compare to the verbosity and self-enhancement biases documented in [[evaluative-judgment|LLM-as-judge]] systems and flag as an [[assessment-validity|assessment validity]] concern.
+For RQ2 the same 1,344 answers were graded on a holistic five-point [[rubrics|rubric]] by Expert1, an instructor with more than 20 years of statistics teaching, and by Expert2, Claude Sonnet 4.0, given identical rubric text and blinded respondent labels. Only Type 2 (ICC = 0.9035) and Type 3 (ICC = 0.9076) reached statistical significance, and their 95% CIs — [0.1200, 0.9900] and [0.1400, 0.9900] — are wide enough that the point estimates cannot be read as precise. Per student, none reached even "fair" agreement (κ ≥ 0.21) on the unweighted, linear-weighted, or quadratic-weighted kappa; Student1's unweighted kappa was negative (-0.0220) and its agreement rate 10.7143%. Behind those numbers sat a range restriction: Expert1 used the full 1-5 scale while Expert2 mostly used 2-4, a central-tendency problem the authors compare to the verbosity and self-enhancement biases documented in [[evaluative-judgment|LLM-as-judge]] systems and flag as an [[assessment-validity|assessment validity]] concern.
 
 ## Graders' internal consistency and what separated them
 

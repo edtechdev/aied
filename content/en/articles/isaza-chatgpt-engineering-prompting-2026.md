@@ -1,4 +1,4 @@
----
+
 title: "An empirical study of ChatGPT use in engineering education: Prompting and performance"
 created: "2026-08-24T12:35:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
@@ -33,7 +33,7 @@ The core finding is that **how** students prompt and integrate AI output matters
 - **Instructors.** Teach prompting as an explicit, assessed skill instead of assuming students acquire it through use: AI Query Efficiency and AI-Driven Problem-Solving were the strongest predictors of academic performance across the 128-student semester, outperforming raw usage volume.
 - **Instructors.** Grade and discuss how students integrate AI output into their reasoning, not merely whether they used it, since AI-Driven Problem-Solving remained predictive of success after controlling for cumulative GPA.
 - **Instructors.** Keep grading AI-assisted writing separate from judging conceptual understanding: the authors caution that assignment scores and writing-quality metrics may reflect AI support for writing, task completion, or organization rather than deeper conceptual learning or retention.
-- **Instructors.** Standardize task rotation and rubrics when you embed AI, as the study's repeating four-week task cycle and standardized rubrics were designed to keep difficulty and assessment comparable across AI and non-AI sessions.
+- **Instructors.** Standardize task rotation and [[rubrics|rubrics]] when you embed AI, as the study's repeating four-week task cycle and standardized rubrics were designed to keep difficulty and assessment comparable across AI and non-AI sessions.
 - **Instructors.** Advocate for prompting literacy in the [[curriculum-design|curriculum]]: the authors argue the findings support integrating [[prompt-engineering|prompting literacy]] into university curricula so graduates engage with AI critically, ethically, and creatively.
 
 ## Limitations

@@ -1,4 +1,4 @@
----
+
 title: "Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students"
 created: "2026-10-15T09:15:00-04:00"
 updated: "2026-10-15T09:15:00-04:00"
@@ -25,7 +25,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Shetty and Rao (2026) compared [[problem-based-learning|problem-based learning]] led by a human facilitator against the same sessions run with [[generative-ai|generative AI]] in a pharmacology course for second-year [[medical-education|medical students]]. Across 136 completers, both arms improved significantly on pre/post MCQs and the between-group difference was not significant, so AI-mediated PBL matched facilitator-led [[learning-gains|learning gains]]. The divergences appeared in process: facilitator-led groups scored significantly higher on a [[group-work|group assessment]] rubric and on a [[critical-thinking|critical thinking]] rubric, while AI-led students reported better access to materials and rated one item on [[student-engagement|engagement]] higher. Faculty reported strong concerns about [[academic-integrity|plagiarism]] and over-reliance on AI. The authors conclude that a hybrid model — [[intelligent-tutoring|AI support]] under [[human-in-the-loop-ai|facilitator oversight]] — is the most promising [[learning-design|instructional design]] for [[medical-education|medical education]].
+> **Synthesis:** Shetty and Rao (2026) compared [[problem-based-learning|problem-based learning]] led by a human facilitator against the same sessions run with [[generative-ai|generative AI]] in a pharmacology course for second-year [[medical-education|medical students]]. Across 136 completers, both arms improved significantly on pre/post MCQs and the between-group difference was not significant, so AI-mediated PBL matched facilitator-led [[learning-gains|learning gains]]. The divergences appeared in process: facilitator-led groups scored significantly higher on a [[group-work|group assessment]] [[rubrics|rubric]] and on a [[critical-thinking|critical thinking]] rubric, while AI-led students reported better access to materials and rated one item on [[student-engagement|engagement]] higher. Faculty reported strong concerns about [[academic-integrity|plagiarism]] and over-reliance on AI. The authors conclude that a hybrid model — [[intelligent-tutoring|AI support]] under [[human-in-the-loop-ai|facilitator oversight]] — is the most promising [[learning-design|instructional design]] for [[medical-education|medical education]].
 
 ## Key Findings
 1. Among 150 second-year medical students, 136 completed the four-week pharmacology PBL study (68 facilitator-led, 68 AI-led), and 14 students who missed one or more sessions were treated as dropouts.

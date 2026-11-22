@@ -1,4 +1,4 @@
----
+
 title: "How to train your dragon: Evaluating prompting and fine-tuning for GPT-based item generation in L2 listening assessment"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-10-02T07:31:21-04:00"
@@ -35,7 +35,7 @@ page_kind: [evaluation]
 - The evaluation covers 40 tests and 240 multiple-choice items split across four model conditions (three prompt-only iterations and one fine-tuned), all within one task family: academic lecture-based L2 listening.
 - Items were built from lecture transcripts rather than fully realized audio input, which the authors name as a further limitation.
 - The non-deterministic nature of LLMs introduced stochastic variation that the authors acknowledge may have influenced results, and the fine-tuning dataset of 245 human-generated listening items may not capture the full range of listening and content variation present in operational assessment contexts.
-- The evaluation rubric itself may be limited: professionally written distractors may appear less plausible in the analysis because they reflect likely test-taker misunderstandings or discourse-level inferences even when not tied to explicit passage wording.
+- The evaluation [[rubrics|rubric]] itself may be limited: professionally written distractors may appear less plausible in the analysis because they reflect likely test-taker misunderstandings or discourse-level inferences even when not tied to explicit passage wording.
 
 ## Citation
 

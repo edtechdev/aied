@@ -1,4 +1,4 @@
----
+
 title: "I code or AI code: A comparative evaluation of AI-rated scores in classroom observations"
 type: article
 created: "2026-09-17T09:40:00-04:00"
@@ -22,7 +22,7 @@ Classroom observation is the standard route to [[benchmark|benchmarking]] instru
 
 Its cost structure is the opening for automation. Observations consume time, scheduling capacity and funding; validated instruments demand intensive initial rater training and ongoing calibration and recalibration, particularly in projects with many raters; and observer fatigue produces measurement drift over long coding sessions. [[video-education|Video-based]] observation removes some of this burden — recordings can be reviewed repeatedly, and the observer's physical presence (and its Hawthorne effect) is removed — but it does not remove observer fatigue, rater bias or the calibration machinery.
 
-Earlier automation attempts set a low ceiling. Shapsough and Zualkernan's [[machine-learning|machine learning]] approach to the Stallings Classroom Snapshot reached 68.9 percent labeling accuracy, and only one of ten tested algorithms managed it. A pilot by Li et al. using multiple LLM agents achieved an 18-fold efficiency gain over human observation, but its rubric was restricted to binary present/not-present coding on two subscales. The present study raises the bar in two respects: it applies the *full* CLASS framework with its seven-point rating scale, and it asks a sharp question — to what extent do AI-rated scores align with human raters' scores? The authors hypothesized convergence in Instructional Support and its dimensions, since those are carried by instructional language, and were explicitly unsure about Emotional Support and Classroom Organization, whose interactions they expected to be only partially representable in a transcript.
+Earlier automation attempts set a low ceiling. Shapsough and Zualkernan's [[machine-learning|machine learning]] approach to the Stallings Classroom Snapshot reached 68.9 percent labeling accuracy, and only one of ten tested algorithms managed it. A pilot by Li et al. using multiple LLM agents achieved an 18-fold efficiency gain over human observation, but its [[rubrics|rubric]] was restricted to binary present/not-present coding on two subscales. The present study raises the bar in two respects: it applies the *full* CLASS framework with its seven-point rating scale, and it asks a sharp question — to what extent do AI-rated scores align with human raters' scores? The authors hypothesized convergence in Instructional Support and its dimensions, since those are carried by instructional language, and were explicitly unsure about Emotional Support and Classroom Organization, whose interactions they expected to be only partially representable in a transcript.
 
 ## Method: What Was Rated, and By Whom
 

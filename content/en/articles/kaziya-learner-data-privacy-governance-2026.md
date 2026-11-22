@@ -1,4 +1,4 @@
----
+
 title: "Teacher competence and institutional governance for learner data privacy in AI mediated education"
 created: "2026-11-12T05:30:00-05:00"
 updated: "2026-11-12T18:10:00-05:00"
@@ -25,7 +25,7 @@ institutions: [governance, educational-policy-ai]
 ethics: [privacy, trust]
 ---
 
-> **Synthesis:** Kaziya and Lungu (2026) develop the Learner Data Protection Competence and [[governance|Governance]] Framework to explain a familiar split in [[privacy|learner data privacy]]: a [[teacher-role|teacher]] can recognize that a disclosure is risky yet lack the authority, advice or time to avoid it, conversely, an institution can supply restricted accounts and contracts while a teacher still discloses unnecessary detail or accepts an unsupported inference. This is a conceptual framework, a purposive theory synthesis connecting [[privacy|contextual integrity]] with distinctions between demonstrated competence, confidence, perceived control and actual provision. It reports no data of any kind. Four components — risk recognition, defensible decisions, institutional enablement and accountable review — are analyzed at the decision-episode level. Two central predictions follow: support should complement judgment in discretionary tasks but substitute for particular skills in constrained ones, and reporting, correction and recurrence are separate events. Three supporting propositions, a five-domain rubric and a bounded application to [[teacher-education|teacher education]] and school placements in Zambia complete the proposal.
+> **Synthesis:** Kaziya and Lungu (2026) develop the Learner Data Protection Competence and [[governance|Governance]] Framework to explain a familiar split in [[privacy|learner data privacy]]: a [[teacher-role|teacher]] can recognize that a disclosure is risky yet lack the authority, advice or time to avoid it, conversely, an institution can supply restricted accounts and contracts while a teacher still discloses unnecessary detail or accepts an unsupported inference. This is a conceptual framework, a purposive theory synthesis connecting [[privacy|contextual integrity]] with distinctions between demonstrated competence, confidence, perceived control and actual provision. It reports no data of any kind. Four components — risk recognition, defensible decisions, institutional enablement and accountable review — are analyzed at the decision-episode level. Two central predictions follow: support should complement judgment in discretionary tasks but substitute for particular skills in constrained ones, and reporting, correction and recurrence are separate events. Three supporting propositions, a five-domain [[rubrics|rubric]] and a bounded application to [[teacher-education|teacher education]] and school placements in Zambia complete the proposal.
 
 ## Key Findings
 

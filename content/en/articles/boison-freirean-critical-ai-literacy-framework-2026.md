@@ -1,4 +1,4 @@
----
+
 title: "From competency to conscientization: a Freirean critical AI literacy framework for post-secondary education"
 created: "2026-11-12T06:08:21-05:00"
 updated: "2026-11-12T07:10:00-05:00"
@@ -68,7 +68,7 @@ The empirical program is proposed, not reported. Four propositions hold that com
 These are design proposals, not tested effects.
 
 - **Instructors.** Begin with a system students already use and ask who built it, on which data, to optimize what, so technical description opens inquiry rather than closing it.
-- **Curriculum designers.** Put a live contradiction inside disciplinary content: have students audit what an AI feedback rubric rewards and misses, whose English it treats as standard, and what that implies for professional judgment.
+- **Curriculum designers.** Put a live contradiction inside disciplinary content: have students audit what an AI feedback [[rubrics|rubric]] rewards and misses, whose English it treats as standard, and what that implies for professional judgment.
 - **Assessment designers.** Ask what widespread AI substitutability reveals about what an assessment measured, then redesign toward process, [[metacognition|metacognition]], contextual embedding, and [[oral-assessment|oral defense]] rather than detection alone.
 - **Administrators.** Treat student participation in [[governance|AI governance]] as a literacy condition: seats with effect on vendor decisions, transparent procurement, and a real mechanism for contesting AI-mediated decisions about standing or support.
 - **Faculty developers and researchers.** Prepare faculty as co-investigators who can facilitate critical dialogue, and measure conditions alongside capacity, preferring evidence about how dialogue changes students' reasoning rather than post-course satisfaction.

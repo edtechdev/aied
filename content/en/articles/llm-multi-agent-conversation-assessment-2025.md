@@ -1,4 +1,4 @@
----
+
 title: "An LLM-Enhanced Multi-Agent Architecture for Conversation-Based Assessment"
 created: "2026-10-04T05:49:36-04:00"
 updated: "2026-10-16T14:32:42-04:00"
@@ -45,7 +45,7 @@ The Peer Agent handles the response types where a student is stuck or disengaged
 
 The setting was a science-inquiry unit on thunderstorm formation, completed by 37 secondary-level students through videos, concept maps, and conversation-based assessments. The analysis here covers one of those assessments, with turn-level Formative Assessor logs available for 31 students.
 
-Two strands were measured. For agreement, two domain experts built a rubric of correct answers, trained on three students' conversations, double-coded nine, and then coded 20 percent of the data (8 students) for reliability, reaching Kappa = .62 before reconciling disagreements; disagreements were overwhelmingly between CORRECT and PARTIAL_CORRECT, which is the boundary the assessor struggled with. For conversational alignment, cohesion between each student answer and the agent's follow-up was computed with TextEvaluator on a standardized 0–100 scale and compared across answer categories with a linear mixed model that included a random effect for student.
+Two strands were measured. For agreement, two domain experts built a [[rubrics|rubric]] of correct answers, trained on three students' conversations, double-coded nine, and then coded 20 percent of the data (8 students) for reliability, reaching Kappa = .62 before reconciling disagreements; disagreements were overwhelmingly between CORRECT and PARTIAL_CORRECT, which is the boundary the assessor struggled with. For conversational alignment, cohesion between each student answer and the agent's follow-up was computed with TextEvaluator on a standardized 0–100 scale and compared across answer categories with a linear mixed model that included a random effect for student.
 
 The cohesion result is the paper's cleanest signal: correct answers drew follow-ups with the highest contextual overlap, irrelevant ones the lowest, and the model confirms the ordering — IRRELEVANT (p = .011), METACOGNITIVE (p = .003) and PARTIAL_CORRECT (p = .026) all scored lower than CORRECT, with INCORRECT marginal (p = .073). The example the authors give is a student who says the sky is getting darker; the agent acknowledges the observation, then redirects with a question that moves the assessment back on topic.
 
@@ -56,7 +56,7 @@ Two failures are reported plainly. In one exchange the agent repeated a question
 - **Assessment designers.** If you are building a conversational assessment, separate the jobs rather than prompting one model to do everything: a turn-level assessor that tags evidence, a summative pass that assembles it, and a controller that decides who speaks next. This paper's failures are mostly coordination failures rather than model failures, which is a design problem you can act on.
 - **Assessment designers and psychometricians.** Treat 52.2 percent agreement as a starting figure, not a passing one. The pattern is instructive: the assessor did not fail randomly but drifted toward PARTIAL_CORRECT and hedged where humans decided, so a rubric that forces a decision between adjacent categories is where to spend calibration effort.
 - **Software developers.** The Watcher is the component to build carefully. Both reported failures trace to it — a repeated question after an answered one, and a misread turn — so explore turn-control and instruction-update logic before tuning prompts.
-- **Instructors using conversational assessment tools.** Expect disagreement at the boundaries between partly right and right. Where a tool's category carries consequences for a student, keep a [[human-in-the-loop-ai|human review]] step rather than reporting the automated label as final.
+- **Instructors.** Expect disagreement at the boundaries between partly right and right. Where a tool's category carries consequences for a student, keep a [[human-in-the-loop-ai|human review]] step rather than reporting the automated label as final.
 - **Researchers.** The paper states its own ceiling: no baseline, one domain, and a model it describes as older. A comparison against a single-agent design in the same task would be the cheapest next experiment, and the cohesion method is reusable for it.
 
 ## Limitations

@@ -1,4 +1,4 @@
----
+
 title: "The Effects of Agent Type and Feedback Style on Self-Directed Learning: A Mixed-Methods Study"
 created: "2026-09-30T12:34:56-04:00"
 updated: "2026-09-30T12:34:56-04:00"
@@ -29,15 +29,15 @@ reviewed_by: [editor]
 
 ## Key Findings
 
-- **Customization improved the quality of the feedback itself.** Agent type showed a significant main effect on feedback accuracy (F(1,49) = 28.561, p < 0.001, η²p = 0.368) and specificity (F(1,49) = 10.492, p = 0.002, η²p = 0.176), both large or moderate effects.
-- **Feedback style moved the quality dimensions of specificity and prioritization.** Directive feedback scored higher on prioritization of essential features (F(1,49) = 10.635, p = 0.002, η²p = 0.178) and on specificity (F(1,49) = 7.269, p = 0.010, η²p = 0.129). No interaction reached significance across the five [[ai-feedback-quality|AI feedback quality]] dimensions.
-- **Socratic feedback was associated with more regulatory engagement.** Feedback style had significant main effects on task orientation (F(1,49) = 14.328, p < 0.001, η²p = 0.226) and comprehension monitoring (F(1,49) = 25.087, p < 0.001, η²p = 0.339), with both higher under Socratic feedback across the two agent types. Feedback regulation showed no main effect of either factor but a significant interaction (F(1,49) = 4.146, p = 0.047, η²p = 0.078).
-- **Directive feedback carried a higher processing cost.** Cognitive load was the only learning-experience dimension with a significant feedback-style effect (F(1,49) = 6.222, p = 0.016, η²p = 0.113), and it was higher under directive feedback. The other eight dimensions showed no significant main or interaction effects.
-- **The agent-type advantage in outcomes was conditional.** Gain scores were higher overall under Socratic feedback (F(1,49) = 15.218, p < 0.001, η²p = 0.237), and the agent-type main effect was not significant (F(1,49) = 0.961, p = 0.332, η²p = 0.019). A significant interaction emerged (F(1,49) = 4.807, p = 0.033, η²p = 0.089): under directive feedback the customized agent produced significantly higher gains than the general-purpose agent (F(1,49) = 6.843, p = 0.012, η²p = 0.123), whereas under Socratic feedback the two did not differ (F(1,49) = 0.147, p = 0.703, η²p = 0.003). Mean gain scores were 13.07 (SD = 8.37) for customized plus Socratic, 13.88 (SD = 6.28) for general-purpose plus Socratic, 11.33 (SD = 6.05) for customized plus directive and 7.67 (SD = 3.45) for general-purpose plus directive.
+- **Customization improved the quality of the feedback itself.** Customized agents produced feedback rated more accurate and more specific, with large and moderate effects respectively.
+- **Feedback style moved the quality dimensions of specificity and prioritization.** Directive feedback scored higher on prioritization of essential features and on specificity, and no interaction reached significance across the five [[ai-feedback-quality|AI feedback quality]] dimensions.
+- **Socratic feedback was associated with more regulatory engagement.** Task orientation and comprehension monitoring were both higher under Socratic feedback across the two agent types, while feedback regulation showed no main effect of either factor but a significant interaction.
+- **Directive feedback carried a higher processing cost.** Cognitive load was the only learning-experience dimension with a significant feedback-style effect, and it was higher under directive feedback; the other eight dimensions showed no significant main or interaction effects.
+- **The agent-type advantage in outcomes was conditional.** Gain scores were higher overall under Socratic feedback, and the agent-type main effect was not significant. The advantage appeared only under directive feedback, where the customized agent produced higher gains than the general-purpose agent; under Socratic feedback the two did not differ.
 
 ## How the study was built
 
-Participants were 51 master's students (46 female, 90.2%; 5 male, 9.8%) in a fall 2025 course, after three of an initial 54 were excluded for incomplete questionnaire data. The customized agent group held 27 students and the general-purpose group 24. All four agents ran on the same model (Kimi-32K) on the Coze platform with identical interfaces and latency controls, so the manipulation was configuration rather than model: customized agents added two knowledge bases (an instructional design textbook and a seven-dimension evaluation rubric) and a fixed workflow, while general-purpose agents relied on prompts alone.
+Participants were 51 master's students (46 female, 90.2%; 5 male, 9.8%) in a fall 2025 course, after three of an initial 54 were excluded for incomplete questionnaire data. The customized agent group held 27 students and the general-purpose group 24. All four agents ran on the same model (Kimi-32K) on the Coze platform with identical interfaces and latency controls, so the manipulation was configuration rather than model: customized agents added two knowledge bases (an instructional design textbook and a seven-dimension evaluation [[rubrics|rubric]]) and a fixed workflow, while general-purpose agents relied on prompts alone.
 
 Feedback quality was coded on five dimensions (criteria-based relevance, specificity, accuracy, prioritization of essential features, supportive tone) at 1-5, with inter-rater reliability ICC = 0.758. Self-regulatory behaviors were coded on three dimensions (task orientation, comprehension monitoring, feedback regulation), ICC = 0.868. Learning experiences came from a questionnaire covering [[technology-acceptance-model|technology acceptance]], engagement, [[critical-thinking|critical thinking]] disposition and cognitive load, with Cronbach's α = 0.725-0.913. [[learning-gains|Gain scores]] were the difference between revised and initial instructional design drafts, scored on a 100-point rubric. Analysis used 2 × 2 mixed-design ANOVAs in SPSS 24.0, and the qualitative strand applied Braun and Clarke's [[qualitative-research|thematic analysis]] to reflection reports, yielding 16 nodes across 10 categories in three themes.
 
@@ -52,10 +52,10 @@ Theme 3 linked customized agents to [[trust|trust]] and perceived credibility: c
 ## What this means for practice
 
 - **Match the feedback style to the goal.** Socratic feedback was associated with comprehension monitoring (η²p = 0.339) and directive feedback with higher cognitive load (η²p = 0.113); choose the style that fits whether you want reflection or efficient revision.
-- **Invest in customization where learners act directly on suggestions.** The customized agent's advantage in gain scores appeared only under directive feedback (F(1,49) = 6.843, p = 0.012), so domain grounding pays off when explicit suggestions are meant to be implemented.
+- **Assessment designers.** Invest in customization where learners act directly on suggestions: the customized agent's advantage in gain scores appeared only under directive feedback, so domain grounding pays off when explicit suggestions are meant to be implemented.
 - **Do not expect better feedback to fix everything.** Customization improved accuracy and specificity but did not significantly change self-regulatory behaviors, learning experiences or outcomes overall; learners still had to interpret and apply the feedback.
 - **Design for selective use.** Students rejected vague feedback and adopted specifics, so feedback that names a concrete problem and example is more likely to be taken up.
-- **Watch the implementation load of directive feedback.** Multiple concrete suggestions per round were described as overloading, so pacing and prioritization matter when feedback is explicit.
+- **Instructors.** Watch the implementation load of directive feedback: multiple concrete suggestions per round were described as overloading, so pacing and prioritization matter when feedback is explicit.
 
 ## Limitations
 

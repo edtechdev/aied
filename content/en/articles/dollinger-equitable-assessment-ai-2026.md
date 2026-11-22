@@ -1,4 +1,4 @@
----
+
 title: "Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence"
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
@@ -20,7 +20,7 @@ audience: [instructors, institutions, assessment designers]
 - **From individualistic to distributed success/failure:** The myth that valid knowledge resides within a single individual privileges students who excel in isolated, high-pressure performance (e.g., closed-book, time-constrained exams, which show differential outcomes by gender, socio-economic status, race, and disability) while disadvantaging collaborative, resource-rich learners. GenAI makes the inherently social, [[distributed-cognition|distributed]] nature of knowing impossible to ignore, reframing [[group-work|group work]] and collaborative process documentation as evidence of "integrated knowledge networks."
 - **From predetermined to agentic success/failure:** Standardization rooted in industrial-era values fixes [[learning-gains|learning outcomes]] before students arrive, positioning them as performers rather than [[agency|agents]]. Agentic assessment structurally enables students to participate in defining what counts as success and failure — negotiating formats, criteria, and timelines — and validates diverse ways of knowing within academic structures.
 - **Reframing around detection of learning, not detection of cheating:** Rather than asking "what can't GenAI do," educators should ask what students should learn *through* assessment: navigational choices, [[reflection|reflections]], and judgments (i.e., "detecting learning rather than detecting cheating," per Ellis & Lodge 2024).
-- **Grading reform (the "elephant in the room"):** Grades are the most powerful cultural marker of success/failure. The paper advocates competency-based or pass/fail frameworks (which can be as rigorous as rubrics), process-documented [[eportfolio|portfolios]], "persuasive portfolios," navigational-capability scoring, and student [[self-assessment|self-grading]] — noting that we might "grade our grading systems rather than our students."
+- **Grading reform (the "elephant in the room"):** Grades are the most powerful cultural marker of success/failure. The paper advocates competency-based or pass/fail frameworks (which can be as rigorous as [[rubrics|rubrics]]), process-documented [[eportfolio|portfolios]], "persuasive portfolios," navigational-capability scoring, and student [[self-assessment|self-grading]] — noting that we might "grade our grading systems rather than our students."
 
 ## What this means for practice
 

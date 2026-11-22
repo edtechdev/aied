@@ -1,4 +1,4 @@
----
+
 title: "AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education"
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"
@@ -40,7 +40,7 @@ The design assumption drew on three sources: scaffolding theory (novices learn m
 Five data sources were collected in both conditions:
 
 1. A concept inventory of **ten scenario items** on fairness, data leakage and model evaluation, administered in week 2 and again in week 7.
-2. Assignments scored by teaching assistants with a rubric covering code correctness, error diagnosis, reasoning and the responsible use of AI.
+2. Assignments scored by teaching assistants with a [[rubrics|rubric]] covering code correctness, error diagnosis, reasoning and the responsible use of AI.
 3. Pre- and post-series surveys on confidence, AI reliance, [[critical-thinking|critical evaluation]] of AI output and conceptual understanding.
 4. Full interaction logs from the Coach — hints requested, mode used, timing of requests, and the point in the task at which help was sought.
 5. Six semi-structured interviews with students from both conditions, plus recorded informal discussion notes with students and teaching assistants.

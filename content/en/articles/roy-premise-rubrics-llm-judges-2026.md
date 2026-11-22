@@ -1,4 +1,4 @@
----
+
 title: "PReMISE: Policy Rubrics as Measurement Specifications for LLM Judges"
 created: "2026-11-10T18:50:04-05:00"
 updated: "2026-11-10T20:00:00-05:00"
@@ -23,7 +23,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Roy and colleagues (2026) argue that a reusable rubric is not documentation wrapped around an LLM judge but the measurement specification itself: the same judge conditioned on two different rubrics is two different evaluators. PReMISE treats that rubric-conditioned judge as the object of study and audits any rubric set along four axes — structural adequacy, reliability, preference fit, and adversarial robustness — across four public human-preference corpora, six rubric sources, and three open-weight judges. No rubric source leads every axis, six different methods lead at least one, and high inter-judge agreement does not imply low exploitability: judges can agree on a flawed interpretation while rubric wording still admits responses that score well by violating the construct. Two repair operations move a rubric on the axes that fail — preference-rank selection raises paired-response judge accuracy from 65.0% to 68.6%, and reliability-constrained refinement cuts the rate at which exploit responses earn high scores from 46.4% to 36.0% at a small cost in agreement (α = .531 → .519). The study was not run in an educational setting; the bridge to [[automated-assessment|AI grading]] is a mechanism inference, drawn out below.
+> **Synthesis:** Roy and colleagues (2026) argue that a reusable [[rubrics|rubric]] is not documentation wrapped around an LLM judge but the measurement specification itself: the same judge conditioned on two different rubrics is two different evaluators. PReMISE treats that rubric-conditioned judge as the object of study and audits any rubric set along four axes — structural adequacy, reliability, preference fit, and adversarial robustness — across four public human-preference corpora, six rubric sources, and three open-weight judges. No rubric source leads every axis, six different methods lead at least one, and high inter-judge agreement does not imply low exploitability: judges can agree on a flawed interpretation while rubric wording still admits responses that score well by violating the construct. Two repair operations move a rubric on the axes that fail — preference-rank selection raises paired-response judge accuracy from 65.0% to 68.6%, and reliability-constrained refinement cuts the rate at which exploit responses earn high scores from 46.4% to 36.0% at a small cost in agreement (α = .531 → .519). The study was not run in an educational setting; the bridge to [[automated-assessment|AI grading]] is a mechanism inference, drawn out below.
 
 ## Key Findings
 
@@ -58,11 +58,11 @@ The paper never tests a classroom, an essay, or a course rubric; its corpora are
 
 ## What this means for practice
 
-- **Treat the rubric as the instrument and version it.** If the same model is deployed with a revised rubric, the change is a measurement change; record the rubric text, date, and judge configuration alongside the marks.
-- **Test exploitability as a separate axis from agreement.** Writing a handful of responses designed to satisfy the rubric's wording while violating its intent — and checking whether they score highly — probes something that inter-rater agreement cannot.
-- **Write grading criteria that name observable behaviors.** The refinement operators are a usable checklist: applicability gates, explicit do-not-reward clauses, maximum-score caps where appropriate, decomposition into sub-criteria, and false-positive anchors drawn from past over-crediting.
+- **Assessment designers.** Treat the rubric as the instrument and version it: if the same model is deployed with a revised rubric, the change is a measurement change; record the rubric text, date, and judge configuration alongside the marks.
+- **Assessment designers.** Test exploitability as a separate axis from agreement: writing a handful of responses designed to satisfy the rubric's wording while violating its intent — and checking whether they score highly — probes something that inter-rater agreement cannot.
+- **Assessment designers.** Write grading criteria that name observable behaviors: the refinement operators are a usable checklist: applicability gates, explicit do-not-reward clauses, maximum-score caps where appropriate, decomposition into sub-criteria, and false-positive anchors drawn from past over-crediting.
 - **Do not assume a larger judge removes the problem.** On Qwen3-32B, PReMISE with preference repair ranked below the no-rubric baseline; the paper treats judge capacity as a live constraint, and the same caution applies to smaller models schools can afford to run.
-- **Read an agreement statistic as one check, not a warrant.** The paper's central measurement claim — agreement is not validity, and it is not robustness — is the discipline an AI-grading pilot needs before it treats a kappa as the case for deployment.
+- **Assessment designers.** Read an agreement statistic as one check, not a warrant: the paper's central measurement claim — agreement is not validity, and it is not robustness — is the discipline an AI-grading pilot needs before it treats a kappa as the case for deployment.
 
 ## Limitations
 

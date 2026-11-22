@@ -1,4 +1,4 @@
----
+
 title: "Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education"
 created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-19T07:42:07-04:00"
@@ -19,7 +19,7 @@ methods: [design-based-research]
 
 - Design-Based [[research-methods-aied|Research]] (DBR) study developing and evaluating an **AI-Assisted Collaborative Learning (AACL) Model** across a single implementation cycle: an **eight-week intervention** with undergraduate students at an Indonesian public university, structured around authentic problem-based tasks with students organized into groups of four to five.
 - Expert validation by three specialists (educational technology, [[learning-design|instructional design]], [[ai-education|AI in education]]) rated the model **highly valid with an overall score of 92.4%** — Learning Design 94.1%, AI Integration 91.6%, Collaborative Learning 93.2%, and Activities 90.7% — with minor revisions focused on collaborative reflection, prompt-design guidelines, and [[ethics|ethical]] AI usage instructions.
-- **Critical thinking mean scores rose from 68.21 (SD = 7.34) to 84.63 (SD = 6.28), a 24.1% [[learning-gains|gain]]**, with the largest improvements in evidence evaluation (66.91 → 85.27, +27.4%) and analysis (67.84 → 84.11, +24.0%).
+- **Critical thinking scores rose by about a quarter**, with the largest improvements in evidence evaluation and analysis.
 - **Problem-solving performance rose from an initial project average of 70.14 to 88.72 after model refinement**; the strongest final criteria scores were team collaboration (90.02) and decision justification (89.41).
 - Student perceptions (five-point Likert questionnaire) were highly positive: **overall satisfaction 4.47**, learning [[motivation|motivation]] 4.54, collaborative learning support 4.51, problem-solving support 4.48, critical thinking enhancement 4.43, and ease of AI use 4.36.
 - [[qualitative-research|Qualitative]] analysis surfaced three recurring themes: students viewed AI as an **effective brainstorming partner that stimulated idea generation rather than replacing independent thinking**; AI-generated responses made collaborative interaction more active; and students became increasingly aware of the importance of **verifying AI-generated information against academic literature** before group decisions.
@@ -47,7 +47,7 @@ The study followed a Design-Based Research methodology with four iterative phase
 
 - The study reports a single DBR implementation cycle within one course and institution; the participants section does not report a sample size, and the paired-sample statistical analysis is described without reporting test statistics.
 - Students' initially varying AI literacy required extra instructional support, and some groups over-relied on AI-generated content before developing critical evaluation strategies.
-- The authors call for future iterations with explicit AI literacy training, [[group-work|collaborative assessment]] rubrics, longitudinal implementation across multiple academic disciplines, and additional research with larger samples and comparative experimental designs to strengthen the empirical evidence.
+- The authors call for future iterations with explicit AI literacy training, [[group-work|collaborative assessment]] [[rubrics|rubrics]], longitudinal implementation across multiple academic disciplines, and additional research with larger samples and comparative experimental designs to strengthen the empirical evidence.
 
 ## Citation
 

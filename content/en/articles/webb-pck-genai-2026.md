@@ -1,4 +1,4 @@
----
+
 title: "Revisiting Pedagogical Content Knowledge (PCK) development for the age of generative AI"
 created: "2026-11-08T09:30:00-05:00"
 updated: "2026-11-08T09:30:00-05:00"
@@ -42,7 +42,7 @@ methods: []
 
 In the RCM, the learning-context layer holds policy, classroom environment and student attributes. It shapes the flows among personal, collective and enacted PCK but does not intervene. GenAI does: it generates the draft that enters planning, produces utterances students answer, and writes the comments a teacher returns. The paper's extension moves GenAI from background condition to "active mediating agent" with AI literacy as the filter on its influence. This is a [[theory-development-aied|theory development]] move, not a new taxonomy: the elements stay and one changes status.
 
-The sharper claim concerns warrant. cPCK is not merely shared knowledge; it is knowledge legitimated through community consensus — curriculum documents, exemplars, teacher networks. A model trained on them can produce something that reads like consensus; it cannot produce the accountability that makes consensus knowledge. The authors call the result pseudo-cPCK and warn that its uncritical incorporation "risks corrupting" rather than enriching the knowledge flows the RCM describes. Unlike a [[hallucination-risk|hallucination]], which is a false claim a teacher can check against the subject, pseudo-cPCK is a plausible claim that arrives with the social authority of shared practice and no responsible community behind it; the check is procedural rather than factual: who validated this, and on what warrant?
+The sharper claim concerns warrant. cPCK is not merely shared knowledge; it is knowledge legitimated through community consensus — curriculum documents, [[rubrics|exemplars]], teacher networks. A model trained on them can produce something that reads like consensus; it cannot produce the accountability that makes consensus knowledge. The authors call the result pseudo-cPCK and warn that its uncritical incorporation "risks corrupting" rather than enriching the knowledge flows the RCM describes. Unlike a [[hallucination-risk|hallucination]], which is a false claim a teacher can check against the subject, pseudo-cPCK is a plausible claim that arrives with the social authority of shared practice and no responsible community behind it; the check is procedural rather than factual: who validated this, and on what warrant?
 
 That distinction is why the paper treats [[tpack|TPACK]] as insufficient: its technology is an inert resource, and even AI extensions add knowledge domains without asking what happens to collective knowledge when a machine can imitate it. The RCM's unit — movement between realms — is where a generated artifact does its damage.
 
@@ -62,10 +62,10 @@ The cost is that AI literacy now carries explanatory weight without a measure: t
 
 ## What this means for practice
 
-- **Give every generated artifact a named warrant before it circulates.** A shared drive of AI-drafted lesson plans is pseudo-cPCK until a named teacher has checked each against the curriculum, safety rules and local knowledge. The reviewer's name belongs on the artifact.
-- **Separate drafting from verification and budget the second step.** The marking vignette shows that efficiency is not guaranteed: at over 150 essays per cycle and nearly a thousand per year, review time has to be scheduled, or drafting time returns as unreviewed feedback.
-- **Put local constraints in the prompt, then check them item by item.** The planning vignette failed on a safety rule and on cultural depth the teacher could see was missing. Ask for the constraints explicitly, then inspect the output against them rather than against its fluency.
-- **Pair a novice with a reviewer, not only with a tool.** The paper's remedy for the developmental risk is a functioning collective — a mentor, a department, a shared standard — not more solo experimentation with a capable model.
+- **Instructors.** Give every generated artifact a named warrant before it circulates: a shared drive of AI-drafted lesson plans is pseudo-cPCK until a named teacher has checked each against the curriculum, safety rules and local knowledge. The reviewer's name belongs on the artifact.
+- **Assessment designers.** Separate drafting from verification and budget the second step: the marking vignette shows that efficiency is not guaranteed: at over 150 essays per cycle and nearly a thousand per year, review time has to be scheduled, or drafting time returns as unreviewed feedback.
+- **Instructors.** Put local constraints in the prompt, then check them item by item: the planning vignette failed on a safety rule and on cultural depth the teacher could see was missing. Ask for the constraints explicitly, then inspect the output against them rather than against its fluency.
+- **Faculty developers.** Pair a novice with a reviewer, not only with a tool: the paper's remedy for the developmental risk is a functioning collective — a mentor, a department, a shared standard — not more solo experimentation with a capable model.
 
 ## Limitations
 

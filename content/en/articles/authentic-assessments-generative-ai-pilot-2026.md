@@ -1,4 +1,4 @@
----
+
 title: "Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education"
 created: "2026-09-22T09:29:10-04:00"
 updated: "2026-09-22T09:29:10-04:00"
@@ -30,7 +30,7 @@ reviewed_by: [editor]
 
 ## Key Findings
 1. **All eight coordinators would use the tool; none would use it as an automaton.** They described it as a "partner," "thinking tool," and "insightful and efficient companion," and each retained expert oversight of the finished assessment.
-2. **It drafts six assessment components from a course guide using more than 260 lines of built-in prompts:** Assessment Overview, Assessment Task, Assessment Criteria, Timeline of Activities, Submission Instructions, and Rubrics.
+2. **It drafts six assessment components from a course guide using more than 260 lines of built-in prompts:** Assessment Overview, Assessment Task, Assessment Criteria, Timeline of Activities, Submission Instructions, and [[rubrics|Rubrics]].
 3. **[[hallucination-risk|Hallucination]] was the hardest failure.** A [[chemistry-education|chemistry]] coordinator's output contained "inaccurate or hallucinated references," and both those references and unrealistic time estimates persisted through multiple iterations, requiring substantial academic revision.
 4. **Disciplinary rigor and context were the recurring gap.** Coordinators reported generic or irrelevant content, ignored topic sequencing — one generated task asked about [[ethics|ethics]] before the topic was taught — and a rubric missing for a presentation component.
 5. **The tool modeled practice well enough to build assessment literacy.** Its rubrics, authentic contexts, and structured timelines prompted [[reflection|reflection]] on design choices, which the authors map onto cognitive [[sociocultural-learning|apprenticeship]]: modeling, coaching, scaffolding, articulation, reflection, and exploration.

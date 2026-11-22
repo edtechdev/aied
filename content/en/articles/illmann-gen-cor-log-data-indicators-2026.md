@@ -1,4 +1,4 @@
----
+
 title: "Defining Log Data Indicators for the Measurement of Generic Critical Online Reasoning (GEN-COR)"
 created: "2026-11-20T09:15:00-05:00"
 updated: "2026-11-20T09:15:00-05:00"
@@ -60,7 +60,7 @@ The data were collected in winter term 2023/24, before the AI-supported snippets
 
 ## What this means for practice
 
-- **Instructors.** Assign search work in an open browser and score the process, not only the answer. Query quality and results-page inspection came apart here, so one rubric cannot carry both.
+- **Instructors.** Assign search work in an open browser and score the process, not only the answer. Query quality and results-page inspection came apart here, so one [[rubrics|rubric]] cannot carry both.
 - **Learning designers.** Log page focus and scrolling at minimum. Results-page dwell time and scroll depth are the cheapest signals separating students who read results from those who click the first link.
 - **Researchers.** Do not sum a query-formulation score and a results-page score into a single acquisition total. The two factors were uncorrelated in this sample.
 - **Teacher educators.** Treat query formulation as [[scaffolding|scaffoldable]]: the three rated moves, opening query, search count and tuning, are visible in a transcript and coachable without measurement infrastructure.

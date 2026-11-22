@@ -1,4 +1,4 @@
----
+
 title: "Metacognitive Ownership in Human-AI Regulation: Construct Definition, Boundaries, and a Research Agenda"
 created: "2026-09-30T09:09:01-04:00"
 updated: "2026-09-30T09:09:01-04:00"
@@ -39,7 +39,7 @@ source_depth: full text
 
 ## Three components and the evidence each requires
 
-Standards appropriation asks which criterion actually guided the learner's judgment or action. Showing a rubric is not enough: evidence must show the criterion was used, and a rejected AI-proposed criterion must be replaced by an identified alternative. Monitoring-judgment governance asks how the learner reached an evaluation and requires evidence connecting something they examined — a task-relevant feature, reason, or criterion — with the judgment that followed; confidence in the AI, polished wording, and time on screen cannot establish that connection. Control authorization asks what guided the next action and whether another action was realistically usable. Accepting a revision because it is the default or the AI sounds authoritative, without evaluation or an applicable earlier decision, is **procedural approval**. An earlier instruction authorizes a later action only if the record shows the policy predated the episode, covered the action, and stayed open to withdrawal.
+Standards appropriation asks which criterion actually guided the learner's judgment or action. Showing a [[rubrics|rubric]] is not enough: evidence must show the criterion was used, and a rejected AI-proposed criterion must be replaced by an identified alternative. Monitoring-judgment governance asks how the learner reached an evaluation and requires evidence connecting something they examined — a task-relevant feature, reason, or criterion — with the judgment that followed; confidence in the AI, polished wording, and time on screen cannot establish that connection. Control authorization asks what guided the next action and whether another action was realistically usable. Accepting a revision because it is the default or the AI sounds authoritative, without evaluation or an applicable earlier decision, is **procedural approval**. An earlier instruction authorizes a later action only if the record shows the policy predated the episode, covered the action, and stayed open to withdrawal.
 
 ## Lina's three responses to the same advice
 

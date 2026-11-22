@@ -1,4 +1,4 @@
----
+
 title: "An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design"
 created: "2026-10-02T11:30:00-04:00"
 updated: "2026-10-02T11:30:00-04:00"
@@ -25,7 +25,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Riazi and Rooshenas present an educator-guided [[llm|large language model]] [[pedagogical-agent|pedagogical agent]] for [[scaffolding|scaffolded]] [[feedback|feedback]] in conceptual database design. Built into an entity–relationship diagram (ERD) editor, it separates a hidden, artifact-grounded diagnosis from the workflow that decides what support a student sees, grounding feedback in the diagram, the assignment requirements, educator-authored rubrics, and instructional resources. A four-stage, learner-controlled sequence runs from concept checks and guided application to low-detail feedback and localized clarification, with each request opening a stateful episode linked to versioned ERD states. Across three ERD environments and 383 episodes, 71.1% of observed target-level changes fully or partly incorporated the hidden diagnostic target, including many reached after only the first two stages. Staged disclosure could withhold inaccurate details or leave room for later recovery, though some errors still shaped revisions, and a self-selected survey favored delayed disclosure and student [[agency|agency]] while flagging indirectness and repetition.
+> **Synthesis:** Riazi and Rooshenas present an educator-guided [[llm|large language model]] [[pedagogical-agent|pedagogical agent]] for [[scaffolding|scaffolded]] [[feedback|feedback]] in conceptual database design. Built into an entity–relationship diagram (ERD) editor, it separates a hidden, artifact-grounded diagnosis from the workflow that decides what support a student sees, grounding feedback in the diagram, the assignment requirements, educator-authored [[rubrics|rubrics]], and instructional resources. A four-stage, learner-controlled sequence runs from concept checks and guided application to low-detail feedback and localized clarification, with each request opening a stateful episode linked to versioned ERD states. Across three ERD environments and 383 episodes, 71.1% of observed target-level changes fully or partly incorporated the hidden diagnostic target, including many reached after only the first two stages. Staged disclosure could withhold inaccurate details or leave room for later recovery, though some errors still shaped revisions, and a self-selected survey favored delayed disclosure and student [[agency|agency]] while flagging indirectness and repetition.
 
 ## Key Findings
 

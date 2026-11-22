@@ -1,4 +1,4 @@
----
+
 title: "AI-Mediated Feedback Improves Student Revisions: A Randomized Trial with FeedbackWriter in a Large Undergraduate Course"
 created: "2026-11-10T19:45:00-05:00"
 updated: "2026-11-14T11:30:00-05:00"
@@ -28,7 +28,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Lu, Ju, Dudley, Sano and Wang (2026) ran a [[rct|randomized controlled trial]] in a 354-student introductory economics course at a public R1 university, comparing handwritten teaching-assistant [[feedback|feedback]] with [[ai-feedback-quality|AI-mediated feedback]] in which TAs reviewed, adopted, edited or dismissed suggestions from FeedbackWriter. Across 1,366 graded essays, students who received AI-mediated feedback produced better revisions, by a margin the authors call moderate and compare to moving a student from the middle of the class to the seventieth percentile, and the gain grew as TAs adopted more suggestions. TAs took about half of them and corrected roughly one in nine rubric judgments. The crucial null sits beside the positive one: assignment to AI-mediated feedback did not improve post-test scores, so better revisions did not become measured learning at this dosage.
+> **Synthesis:** Lu, Ju, Dudley, Sano and Wang (2026) ran a [[rct|randomized controlled trial]] in a 354-student introductory economics course at a public R1 university, comparing handwritten teaching-assistant [[feedback|feedback]] with [[ai-feedback-quality|AI-mediated feedback]] in which TAs reviewed, adopted, edited or dismissed suggestions from FeedbackWriter. Across 1,366 graded essays, students who received AI-mediated feedback produced better revisions, by a margin the authors call moderate and compare to moving a student from the middle of the class to the seventieth percentile, and the gain grew as TAs adopted more suggestions. TAs took about half of them and corrected roughly one in nine [[rubrics|rubric]] judgments. The crucial null sits beside the positive one: assignment to AI-mediated feedback did not improve post-test scores, so better revisions did not become measured learning at this dosage.
 
 ## Key Findings
 
@@ -65,11 +65,11 @@ The quality analysis adds a mechanism. The AI condition adopted 3,141 AI feedbac
 
 ## What this means for practice
 
-- **Instructors:** Treat AI feedback as a draft for the reviewer, not a verdict for the student, and keep a human confirming every message that reaches the learner.
-- **Teaching assistants:** Expect to edit rather than simply accept; the TAs in this trial took about half the suggestions, corrected some rubric judgments, and still improved revisions because they knew when a suggestion was good enough.
-- **Course designers:** Track adoption, not just assignment. The dose-response pattern means a course where TAs ignore suggestions should not expect the same result.
-- **Program leads:** Expect artifact gains before learning gains. One revision per rubric item is unlikely to move a post-test, so plan repeated practice if durable learning is the goal.
-- **Tool builders:** Show the AI's rubric judgment with a cheap way to flip it. The checkbox and color cues let TAs correct the model at low cost, and corrections were frequent enough to matter.
+- **Instructors.** Treat AI feedback as a draft for the reviewer, not a verdict for the student, and keep a human confirming every message that reaches the learner.
+- **Teaching assistants.** Expect to edit rather than simply accept; the TAs in this trial took about half the suggestions, corrected some rubric judgments, and still improved revisions because they knew when a suggestion was good enough.
+- **Course designers.** Track adoption, not just assignment. The dose-response pattern means a course where TAs ignore suggestions should not expect the same result.
+- **Program leads.** Expect artifact gains before learning gains. One revision per rubric item is unlikely to move a post-test, so plan repeated practice if durable learning is the goal.
+- **Tool builders.** Show the AI's rubric judgment with a cheap way to flip it. The checkbox and color cues let TAs correct the model at low cost, and corrections were frequent enough to matter.
 
 ## Limitations
 

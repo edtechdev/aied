@@ -1,4 +1,4 @@
----
+
 title: "Designing for authentic assessment: a scoping review"
 created: "2026-05-07T19:55:03-04:00"
 updated: "2026-09-17T02:26:00-04:00"
@@ -40,7 +40,7 @@ This [[meta-analysis-systematic-review|scoping review]] of 37 empirical AA studi
 
 1. **Authenticity in assessment** — multiple meanings: assessment authenticity ([[eportfolio|portfolios]], projects, concept maps), professional authenticity (workplace scenarios), digital authenticity (Twitter, podcasts, YouTube, LMS), self-authenticity ([[learner-identity|student identity]], [[well-being|well-being]]), and social authenticity (citizenship, [[sustainability|sustainability]], [[ethics|ethics]]). Only **3 of 37 studies** addressed social authenticity — a critical gap.
 2. **Cognitive challenges** — knowledge construction (n=29), professional skills (n=22), and 21st-century skills (n=29, led by [[critical-thinking|critical thinking]] n=17, communication n=13). Digital literacy: only **n=5**.
-3. **Assessment criteria** — rubric use was common (n=22) but most students were **passive recipients** rather than co-authors. Only 3 studies co-designed rubrics with students; only 7 involved students as assessors via self/[[peer-assessment|peer assessment]].
+3. **Assessment criteria** — [[rubrics|rubric]] use was common (n=22) but most students were **passive recipients** rather than co-authors. Only 3 studies co-designed rubrics with students; only 7 involved students as assessors via self/[[peer-assessment|peer assessment]].
 4. **Feedback** — formative feedback dominated (n=23), [[summative-assessment|summative]] was common (n=12), but **sustainable feedback** (transferable to future contexts) appeared in only 4 studies. This mirrors the field-wide problem that AI tools also replicate: reactive, momentary feedback rather than lifelong [[evaluative-judgment|evaluative judgment]].
 5. **Student agency** — choices about what/how/when/where to submit appeared in only **n=8 studies**. [[reflection|Self-reflection]] was more common but often **assigned/graded**, making it potentially **performative** (instrumental rather than genuine).
 6. **Social collaboration** — mostly individual tasks (n=18) or group tasks (n=16), with few mixing both (n=3). Peer collaboration strategies (peer assessment, peer discussion) appeared in n=16 studies; [[teacher-role|teacher]]–student collaboration in n=16, though only 3 designed *[[equity-in-ai-education|equitable]]* teacher–[[pedagogical-partnerships|student partnership]] (roles were usually feedback-giver, monitor, facilitator — a power imbalance); external industry/community connections in only n=5. Social construction of assessment meaning was under-theorized but present.

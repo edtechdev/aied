@@ -1,4 +1,4 @@
----
+
 title: "Inclusive assessment design in the age of GenAI: Advancing pedagogy and practice"
 created: "2026-11-16T09:00:00-04:00"
 updated: "2026-11-16T09:00:00-04:00"
@@ -40,7 +40,7 @@ reviewed_by: [editor]
 - **Closed-book examinations are themselves an equity problem.** Students described them as rewarding memory and compressing everything into a single high-stakes performance, with one asking whether a professional actually needs to recall everything. Coursework, remote open-book assessments and varied formats were preferred because they let students control the environment and demonstrate strengths.
 - **Choice is valued, but only when options are equivalent and legible.** Students liked choosing between a video and an essay, then reported that peers feared the essay would be marked worse. Choice without shared criteria and clear grading logic produces strategic guessing rather than inclusion.
 - **Authenticity is the strongest signal of a worthwhile assessment.** An OSCE and a group presentation in pharmacy were praised as rehearsal for professional practice; portfolios and presentations in mathematical sciences were described as useless to the student's learning. The difference students drew was relevance to the work the degree leads to.
-- **Rubrics, formative drafts and criteria workshops build assessment literacy.** Detailed rubrics that can be used as a checklist while writing, and the chance to submit a shortened draft for feedback, were named as the practices that made expectations visible.
+- **[[rubrics|Rubrics]], formative drafts and criteria workshops build assessment literacy.** Detailed rubrics that can be used as a checklist while writing, and the chance to submit a shortened draft for feedback, were named as the practices that made expectations visible.
 - **The guidance students want is about best practice, not only restriction.** One observed that embracing the technology is unavoidable because peers will use it regardless, and another asked for guidelines that describe good use as well as prohibited use.
 
 ## How the study was done
@@ -55,10 +55,10 @@ The institutional context matters for reading the findings. At the time, the uni
 
 ## What this means for practice
 
-- **Publish what each assessment certifies, and do not outsource that judgment to a detector.** The deskilling concern is answerable only if a program can say which outcomes require unaided performance and why; where a task must be done without tools, the justification should be the competence being certified, as in the live-coding example, not suspicion of students. The literature the authors cite finds that [[ai-detection|AI detectors]] misclassify non-native English writing, which makes detector-led enforcement an equity risk rather than a safeguard.
+- **Assessment designers.** Publish what each assessment certifies, and do not outsource that judgment to a detector. The deskilling concern is answerable only if a program can say which outcomes require unaided performance and why; where a task must be done without tools, the justification should be the competence being certified, as in the live-coding example, not suspicion of students. The literature the authors cite finds that [[ai-detection|AI detectors]] misclassify non-native English writing, which makes detector-led enforcement an equity risk rather than a safeguard.
 - **License the tools or do not require them.** Students named paid versus free versions as a fairness problem, and one noted that not everyone has been taught to use a tool properly. Institutional licenses and a taught baseline are the minimum for any assessment that expects GenAI use.
-- **Diversify formats and make the options equivalent.** Multiple routes to demonstrate learning support students with different strengths, but only when criteria, rigor and marking logic are shared and explained. Without that, choice becomes a calculation about which route is marked generously.
-- **Build assessment literacy in, and ask for evidence of process.** Rubrics students can use while drafting, formative submission of a shortened version, and workshops on what the criteria mean were named as what made assessment legible. Asking for a short account of what a tool contributed, or a commentary on the AI-supported part of the work, makes [[ai-use-disclosure|disclosure]] meaningful rather than performative and creates the accountability moment that changes how students use the technology.
+- **Assessment designers.** Diversify formats and make the options equivalent. Multiple routes to demonstrate learning support students with different strengths, but only when criteria, rigor and marking logic are shared and explained. Without that, choice becomes a calculation about which route is marked generously.
+- **Assessment designers.** Build assessment literacy in, and ask for evidence of process. Rubrics students can use while drafting, formative submission of a shortened version, and workshops on what the criteria mean were named as what made assessment legible. Asking for a short account of what a tool contributed, or a commentary on the AI-supported part of the work, makes [[ai-use-disclosure|disclosure]] meaningful rather than performative and creates the accountability moment that changes how students use the technology.
 - **Co-design with students.** The study's method is also its recommendation: paid student consultants shaped the questions, ran the groups and transcribed them, and the findings reflect what peers will say to peers.
 
 ## Limitations
