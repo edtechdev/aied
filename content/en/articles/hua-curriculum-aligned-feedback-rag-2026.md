@@ -30,7 +30,7 @@ verified: [citation, numbers, quotes, links]
 
 > **Synthesis:** Hua and colleagues (2026) treat [[feedback]] written for students as evidence about the teaching that preceded it. Their method uses a [[llm|large language model]] in three steps — deriving an error taxonomy from the feedback itself, mapping each comment to curriculum content with [[rag|retrieval-augmented generation]], and aggregating the annotations into error patterns with cohort coverage — applied to 6,072 pieces of feedback across four cohorts (2022–2025) of an [[undergraduate-education|undergraduate]] [[engineering-education|engineering]] course. The data-driven taxonomy agreed with a human reviewer on 89.1% of records, against 74.7% when an expert-designed taxonomy was applied to the same data, because the expert categories asked why a student erred while marking comments usually say what is missing. In a focus group, the teaching team confirmed the patterns against their marking experience, proposed course revisions, and set the boundary that the patterns are a reference rather than a direct measure of teaching quality. The paper is a concrete case of [[learning-analytics|learning analytics]] turned around: instead of predicting students, it analyzes the feedback instructors already wrote to check the alignment between intended outcomes, teaching, and [[assessment]].
 
-*Implementation study of one undergraduate engineering course across four cohorts; the evaluation is agreement with human judgment plus a teaching-team focus group, not a controlled trial of student learning.*
+*Implementation study of one undergraduate engineering course across four cohorts; the evaluation is agreement with human judgment plus a teaching-team focus group, not a [[rct|controlled trial]] of student learning.*
 
 ## Key Findings
 
@@ -51,7 +51,7 @@ The comparison between taxonomies is the paper's most general finding. An expert
 
 ## What this means for practice
 
-- **Instructors.** Read your own feedback as evidence about your teaching: the recurring errors your comments already name are a map of what the cohort did not learn, and they can be aggregated rather than intuited.
+- **[[teacher-role|Instructors]].** Read your own feedback as evidence about your teaching: the recurring errors your comments already name are a map of what the cohort did not learn, and they can be aggregated rather than intuited.
 - **Curriculum designers.** Use [[assessment|assessment]]-to-[[curriculum-design|curriculum alignment]] checks of this kind to find modules and weeks where errors cluster, then revise the teaching rather than only the marking.
 - **Learning analytics designers.** Derive the coding categories from the data you already have instead of importing an expert codebook, because category fit — not model choice — drove the difference here.
 - **Educational technology developers.** Build the screening step so that disagreement is concentrated in a flagged subset a human reviews, rather than spread across all records.

@@ -38,7 +38,7 @@ verified: [citation, numbers, quotes, links]
 2. **The decisive measurement is largely missing.** Of 93 studies, 85 report what students delegate, 44 report how they treat AI output, and 24 report what they learn without it; 69 report no AI-independent learning measure at all, and only four combine processing evidence with one.
 3. **[[self-report-measures|Self-report]] dominates the processing evidence.** Of the 44 studies reporting how learners treat AI output, 22 rely on self-report or authors' statements rather than observed behavior.
 4. **Substitution is documented, but mostly by inference.** Substitution appears as reported dependence, inability to explain AI-assisted work, or reduced independent performance in 13 of the 16 Path A studies; one study reports a fully specified substitution configuration.
-5. **Heterogeneity is reported more often than explained.** Group or condition differences or part-sample outcomes appear in 30 studies, yet no coded learner, task, or assessment moderator shows an interpretable corpus-level association with the final pathway.
+5. **Heterogeneity is reported more often than explained.** Group or condition differences or part-sample outcomes appear in 30 studies, yet no coded learner, task, or [[assessment|assessment]] moderator shows an interpretable corpus-level association with the final pathway.
 6. **Allocation behaves as a portfolio, not a trait.** In 29 studies learners both delegated core and peripheral work and both scrutinized and accepted output within the same task, supporting continuous measurement of the share of interactions that delegate core work and the share of outputs that are verified.
 
 ## The two axes: what is offloaded, and what is done with the output
@@ -55,7 +55,7 @@ The HPDA Model converts the classification into seven propositions with an expli
 
 ## What this means for practice
 
-- **Instructors.** Treat "students used AI" as an uninformative outcome; design tasks whose score depends on a step the learner must perform without the tool, so that extension and substitution become distinguishable in the work you read.
+- **[[teacher-role|Instructors]].** Treat "students used AI" as an uninformative outcome; design tasks whose score depends on a step the learner must perform without the tool, so that extension and substitution become distinguishable in the work you read.
 - **Instructional designers.** Build prompts and activities that require the learner to verify, transform, or reject AI output, and record whether they did — scrutiny is the axis that separates extension from substitution.
 - **Researchers.** Report an AI-independent learning measure alongside any measure of AI use, and code both the work offloaded and the processing of output, so that extension and substitution can be told apart across studies.
 - **Educational technology developers.** Instrument the share of interactions that delegate core reasoning and the share of outputs that are verified, because allocation behaves as a portfolio rather than a stable disposition.
@@ -65,7 +65,7 @@ The HPDA Model converts the classification into seven propositions with an expli
 - The review synthesizes what primary studies report; under manifest coding it cannot manufacture evidence the corpus does not contain, and the authors treat design-based inference as a separate, weaker layer.
 - The corpus is limited to English-language, peer-reviewed work indexed in Scopus and Web of Science between 2021 and 2025, so it excludes book chapters, reports, and non-English studies.
 - No moderator shows an interpretable corpus-level association with the final pathway, so the model's moderator layers remain hypotheses rather than findings.
-- The review cannot test the Matthew Effect or any longitudinal claim, because no included study follows learners long enough.
+- The review cannot test the Matthew Effect or any [[longitudinal-research|longitudinal]] claim, because no included study follows learners long enough.
 - The 2 × 2 quadrants describe configurations at the point of observation; the authors note that allocation is better treated as a continuous portfolio, which the current studies do not measure that way.
 
 ## Citation

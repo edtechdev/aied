@@ -51,14 +51,14 @@ Two findings cut against the simpler stories. First, the sole-author practice (c
 
 ## What this means for practice
 
-- **Instructors.** Write assignment briefs that distinguish the practices explicitly — which of the five uses are permitted for a given task — rather than issuing a blanket ban the typology shows students will interpret unevenly.
-- **Instructional designers.** Build the evaluation of AI output into the task itself, since the study finds that students' own judgment of accuracy and quality is what the practices depend on.
-- **Administrators.** Treat [[academic-integrity|academic-integrity]] guidance as an explanation of authorship and originality, not only as a detection regime, because fear narratives alone appear to chill permitted use without clarifying the boundary.
+- **[[teacher-role|Instructors]].** Write assignment briefs that distinguish the practices explicitly — which of the five uses are permitted for a given task — rather than issuing a blanket ban the typology shows students will interpret unevenly.
+- **Instructional designers.** Build the [[ai-ed-evaluation|evaluation of AI]] output into the task itself, since the study finds that students' own judgment of accuracy and quality is what the practices depend on.
+- **[[administrator|Administrators]].** Treat [[academic-integrity|academic-integrity]] guidance as an explanation of authorship and originality, not only as a detection regime, because fear narratives alone appear to chill permitted use without clarifying the boundary.
 - **Students.** Treat the chatbot's output as something you must be able to defend in your own words, because every practice in the typology ultimately requires that competence.
 
 ## Limitations
 
-- The study is a single-site qualitative study of 61 teacher-education students at one German university, so the typology describes this group rather than the student population.
+- The study is a single-site qualitative study of 61 teacher-education students at one German [[higher-ed|university]], so the typology describes this group rather than the [[learners|student population]].
 - The authors drew the 15 interviews from a larger dataset of 34 focus groups with 121 students, and the selection rationale is that these interviews postdate the arrival of generative chatbots.
 - Focus-group accounts are retrospective and socially situated; the practices are [[self-report-measures|self-reported]] and may not match what students do when unobserved.
 - The typology is not a prevalence measure and cannot say how common each practice is.

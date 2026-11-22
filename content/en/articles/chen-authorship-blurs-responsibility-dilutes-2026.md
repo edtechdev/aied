@@ -29,13 +29,13 @@ source_depth: full text
 verified: [citation, numbers, quotes, links]
 ---
 
-> **Synthesis:** Chen and Cheng (2026) trace what happens to students' sense of ownership and accountability when the boundary between their own intellectual work and [[generative-ai|generative AI]] output becomes unclear. Across three waves seven weeks apart, 586 Chinese [[secondary-education|high school]] students (535 retained at the final wave, 91.3% overall) completed measures of human–AI co-authorship ambiguity, psychological ownership, responsibility dilution, and self-reported [[academic-integrity|GenAI-related academic behaviors]], analyzed with a random-intercept cross-lagged panel model that separates within-person change from stable between-person differences. Greater ambiguity predicted lower subsequent psychological ownership (β = −0.283 and −0.265) and greater responsibility dilution (β = 0.251 and 0.230); lower ownership predicted greater dilution (β = −0.291 and −0.275); and greater dilution predicted more frequent reported behaviors (β = 0.332 and 0.347), all p < 0.001. The authors frame authorship clarity as an [[academic-integrity|academic-integrity]] issue: students who cannot tell which ideas are theirs report feeling less responsible for the work they submit.
+> **Synthesis:** Chen and Cheng (2026) trace what happens to students' sense of ownership and accountability when the boundary between their own intellectual work and [[generative-ai|generative AI]] output becomes unclear. Across three waves seven weeks apart, 586 Chinese [[secondary-education|high school]] students (535 retained at the final wave, 91.3% overall) completed measures of human–AI co-authorship ambiguity, psychological ownership, responsibility dilution, and self-reported [[academic-integrity|GenAI-related academic behaviors]], analyzed with a random-intercept cross-lagged panel model that separates within-person change from stable between-person differences. Greater ambiguity predicted lower subsequent psychological ownership and greater responsibility dilution; lower ownership predicted greater dilution; and greater dilution predicted more frequent reported behaviors, each association surviving the model controls. The authors frame authorship clarity as an [[academic-integrity|academic-integrity]] issue: students who cannot tell which ideas are theirs report feeling less responsible for the work they submit.
 
 *[[longitudinal-research|Longitudinal]] panel study using [[self-report-measures|self-report measures]]; the outcome is self-reported behavior, not observed misconduct, and the authors state that the prospective associations are not causal effects.*
 
 ## Key Findings
 
-- **Authorship ambiguity precedes weaker ownership and accountability.** Across both intervals, greater human–AI co-authorship ambiguity predicted lower subsequent psychological ownership (β = −0.283 and −0.265) and greater responsibility dilution (β = 0.251 and 0.230; all p < 0.001).
+- **Authorship ambiguity precedes weaker ownership and accountability.** Across both intervals, greater human–AI co-authorship ambiguity predicted lower subsequent psychological ownership and greater responsibility dilution, each association surviving the model controls.
 - **Weaker ownership and weaker accountability reinforce each other.** Lower psychological ownership predicted greater responsibility dilution across both intervals, and the reverse paths were also significant, so the relationship is reciprocal rather than one-directional.
 - **Weaker accountability precedes more frequent reported behavior.** Greater responsibility dilution predicted more frequent self-reported GenAI-related academic behaviors across both intervals, and the association held over two lags.
 - **The indirect paths hold over two lags.** Two-lag indirect associations linked T1 ambiguity to T3 behavior through T2 psychological ownership and, separately, through T2 responsibility dilution.
@@ -56,15 +56,15 @@ Because the mechanism runs through felt ownership and felt responsibility rather
 
 ## What this means for practice
 
-- **Instructors.** Make the student's own contribution an explicit, graded part of any AI-assisted assignment, so that authorship stays visible and ownership has somewhere to attach.
-- **Administrators.** Frame [[academic-integrity|academic-integrity]] policy around authorship clarity and accountability rather than around detection and prohibition, which the study suggests addresses the symptom rather than the mechanism.
-- **Instructional designers.** Build verification, rewriting, and reflection steps into AI-assisted tasks, since active participation is the route through which ownership is preserved.
+- **[[teacher-role|Instructors]].** Make the student's own contribution an explicit, graded part of any AI-assisted assignment, so that authorship stays visible and ownership has somewhere to attach.
+- **[[administrator|Administrators]].** Frame [[academic-integrity|academic-integrity]] policy around authorship clarity and accountability rather than around [[ai-detection|detection]] and prohibition, which the study suggests addresses the symptom rather than the mechanism.
+- **Instructional designers.** Build verification, rewriting, and [[reflection]] steps into AI-assisted tasks, since active participation is the route through which ownership is preserved.
 - **Researchers.** Pair authorship measures with task-level records of human and AI contributions, because the within-person associations found here cannot be tied to specific practices without them.
 
 ## Limitations
 
 - Every construct is self-reported, including the outcome, so the study establishes associations among students' own accounts rather than observed behavior or misconduct.
-- Participants were recruited from 12 classrooms across three high schools in Wuhan and all had prior academic GenAI-use experience, so the findings may not generalize to other contexts or to students without such experience.
+- Participants were recruited from 12 classrooms across three [[k-12|high schools]] in Wuhan and all had prior academic GenAI-use experience, so the findings may not generalize to other contexts or to students without such experience.
 - Standard errors were estimated with a delete-one-classroom jackknife over only 12 clusters, which the authors note warrants caution.
 - The study did not observe prompting, revision, or verification practices, so the mechanisms remain interpretations rather than demonstrated processes.
 - The outcome measure captures self-reported GenAI-related academic behaviors, not verified violations, and the prospective associations should not be read as causal effects.
