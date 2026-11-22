@@ -1,6 +1,7 @@
 ---
 title: STEM Eğitimi
 created: "2026-10-14T21:35:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -9,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,18 +18,24 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
 connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
+connected_resources: [teacher-dev]
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **STEM Eğitimi** — fen, teknoloji, mühendislik ve matematik eğitimi, bilgi tabanında [[ai-education|AI in education]] [[research-methods-aied|araştırması]] için en yaygın alandır. STEM’in yapılandırılmış bilgisi, net doğru/yanlış cevapları ve hesaplamalı doğası, onu [[intelligent-tutoring|YZ özel ders]] çalışmaları ve değerlendirme için ideal bir sınama ortamı haline getirir.
+> **STEM Eğitimi** — fen, teknoloji, mühendislik ve matematik eğitimi, [[ai-education|AI in education]] [[research-methods-aied|araştırması]] için en yaygın alandır. STEM’in yapılandırılmış bilgisi, net doğru/yanlış cevapları ve hesaplamalı doğası, onu [[intelligent-tutoring|YZ özel ders]] çalışmaları ve değerlendirme için ideal bir sınama ortamı haline getirir.
 
 ## Dikkate Alınması Gereken Sorular
 
 - STEM, bilgisi yapılandırılmış ve net doğru/yanlış cevaplara sahip olduğundan YZ’ye ilişkin araştırmalar için en yaygın alandır. Bu durumun STEM’i YZ ile öğretmenin en kolay yeri yaptığını mi düşünüyorsunuz — yoksa YZ’nin sınırlarının en kolay gizlenebileceği yer mi olabilir?
-- Sayfa, okullarda YZ benimsemesinin 'disipline göre katmanlaştığını' gösteren araştırmalara atıfta bulunuyor — bilişim biliminde normalleşmiş, matematiğe ise ağır biçimde yasak getirilmiş. Ders kültürünün YZ kabulünü bu denli güçlü biçimde şekillendirdiğini düşünmenizin nedeni nedir ve bunun öğrenciler için sonuçları nelerdir?
+- Okullarda YZ benimsemesi 'disipline göre katmanlaşmıştır': bilişim biliminde normalleşmiş, matematiğe ise ağır biçimde yasak getirilmiş. Ders kültürünün YZ kabulünü bu denli güçlü biçimde şekillendirdiğini düşünmenizin nedeni nedir ve bunun öğrenciler için sonuçları nelerdir?
 - Bir matematik öğrencisi YZ’yi esas olarak çözümleri kontrol etmek ve açıklama almak için kullanıyorsa, bu bir iskele mi yoksa bir dayaak mı? Aradaki farkı ne belirler ve siz sınırı nerede çizerdiniz?
 - STEM problemlerinin sıklıkla doğrulanabilir cevaplara sahip olması göz önüne alındığında, STEM’de hangi tür YZ kullanımlarının gerçekten anlayış oluşturduğunu, hangilerinin yalnızca doğru görünen çıktı ürettiğini düşünüyorsunuz?
 - STEM’i YZ özel ders çalışmaları için ideal kılan niteliklerin kendisi — net cevaplar, hesaplanabilir doğruluk — bilim ve mühendisliğin dağınık, açık uçlu ve yargı temelli olan yönlerini nasıl azımsayabilir?
@@ -36,6 +43,8 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 ## Giriş
 
 ### STEM’in birincil AIED alanı olması
+
+Disiplinler bölümü konu sayfalarını dört kümede sıralar — [[humanities-education|beşeri bilimler ve sanatlar]], [[social-sciences-education|sosyal bilimler]], STEM ve [[professions-education|meslekler]] — ve STEM bunlar arasında geniş bir farkla en büyüğüdür; bu, Eğitimde YZ kanıtının nerede birikiyor olduğuna dair kendiliğinden de bir bulgudur.
 
 - **Matematik:** [[math-education|Matematik eğitimi]] araştırmaları [[generative-ai-reduced-study-time-math|GenAI’nin matematik öğrenimine etkisi]], [[ai-powered-personalized-learning-elementary-fractions-2026|ilkokul kesir özel ders çalışmaları]] ve [[student-math-competence-clustering|yetkinlik kümelemesi]] alanlarını kapsar.
 

@@ -10,13 +10,18 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
 connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
@@ -87,6 +92,8 @@ Konuyu daha da keskinleştiren iki uyarı vardır ve ikisi de wiki’nin konu ü
 **Tasarım gereği açıklanabilir**, sonradan sadakatin önüne geçmenin bir yanıtıdır. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang ve Fang (2025)]], bir açıklama çözücüsünü [[assessment]]yi karara bağlayan aynı birleştirilmiş gösterim ve tahmin edilen puanla parametreler; böylece [[formative-assessment|biçimlendirici]] sorgulamada düşük bir puan, yetersiz derinlemesine soru sayısını adlandıran bir gerekçe verir ve buna müfredat standartlarına ve alana özgü rubrik hamlelerine çift mercekli dikkat eşlik eder. Rubriğe dikkat hizalaması, GPT-4 sıfır atımlık koşulun %41,7’sine ve BERT’in %32,1’ine karşılık %78,0’a ulaşır ve sadakat, rubrik açısından kritik bölümlerin karşıolgusal silinmesiyle birlikte rubrik temelli bir kontrol listesi üzerindeki insan puanlarıyla sorgulanır; bu da 0,78’lik bir açıklama güvenilirlik puanı verir — BERT-base’e göre 0,31’lik bir artış. Denetim ayrıca mimari iddianın zayıfladığı yeri gösterir: duygusal ipuçlarında model, uzmanın %15,2’sine karşı dikkat ağırlığının %28,4’ünü ayırır (hizalama 0,53); burada bir başarısızlık vakası “sinirli” belirtecine %28 ayırır ve yazarlar bunu pedagojiden çok duyguya aşırı uyum olarak okuyup iyileştirme alanı olarak adlandırır. Açıklamaları karar yoluna gömmek, onları sonradan üretilen gerekçelerden daha sadık kılar; doğru kılmaz.
 
 **Bir modelin neyi kullandığını söylemesi, veri kadar model ailesine de bağlıdır.** Tek bir kohort üzerinde yedi model boyunca [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar ve ark. (2026)]], sembolik yaklaşımların bilişsel ve [[motivation|motivasyonel]] etkenlere, alt-sembolik modellerin bilişsel yönlere, öğrenilmiş bilgiye ve cinsiyete yaslandığını, her ikisinin de üstbilişsel etkenleri büyük ölçüde gözden kaçırdığını, sinir-sembolik modelin ise daha bütünleşik bir küme kullandığını bulmuştur. Aynı öğrenciler ve aynı göstergeler, neyin önemli olduğuna dair farklı anlatılar üretmiştir; böylece [[learning-theories|öğrenme kuramıyla]] uyum, doğrulukla değil atıflarla ilgili bir iddiaya dönüşmektedir.
+
+Açıklamanın niteliğini sertifikalayan kullanılan ölçütler, uyumu ölçmez. 166 katılımcıyla yapılan önceden kaydedilmiş bir çalışmada üç dikkat dağıtma yöntemi (LIME, Grad-CAM, Guided Backpropagation) karşılaştırılmış; tatmin ve güven derecelendirmeleri koşullar arasında değişmezken, görev ölçüsü Grad-CAM’ı desteklemiş ve matematiksel sadakat ölçütleri Guided Backpropagation’ı desteklemiştir — üç kanıt ailesi üç farklı yöntemi göstermektedir ([[kares-xai-evaluation-alignment-2027|Kares ve ark., 2027]]). Bazı ölçüt–performans ilişkileri, ölçütün sertifikalandırmak için kullanıldığı yönün tersine işlemiştir. Bir sadakat puanı, modele ilişkin kanıttır; bir kullanıcının açıklamaya dayanarak hareket edip edemeyeceğine ilişkin kanıt değildir.
 
 ## Açıklanabilirliği hesap verebilirlik uygulaması olarak öğretmek
 

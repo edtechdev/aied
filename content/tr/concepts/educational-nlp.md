@@ -6,7 +6,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,10 +14,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
 connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
----
+updated: "2026-11-21T17:00:00-05:00"
 
+---
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
 > **Eğitimde NLP** (Doğal Dil İşleme), dil [[ai-technologies|teknolojilerini]] öğrenmeye uygular: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]] ve [[vocabulary-difficulty-prediction]], LLM’lerin öğrenci dilinin ölçekte çözümlemesini nasıl ilerlettiğini göstermektedir ([[educational-measurement]], educational-nlp).
@@ -31,13 +36,10 @@ connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, l
 
 ## Giriş
 
-### Eğitimde NLP’nin işlevi
-
+## Eğitimde NLP’nin işlevi
 Eğitimde doğal dil işleme, hesaplama yöntemlerini öğretme ve öğrenme diline — öğrenci denemelerine, yanıtlara, tartışma gönderilerine, geri bildirime ve öğretim metnine — uygular. [[llm|LLM’ler]], otomatik olarak çözümlenebilecekleri belirgin biçimde genişletmiştir; önceden ölçekte pratik olmayan öğrenci dilinin ayrıntılı anlaşılmasını mümkün kılmıştır.
 
-Gömme modelleri, öğrenci metnini öğretilen yapıya göre değil yüzey biçimine göre de düzenleyebilir. Sentetik bir Carnot motoru kümesinde aynı hat, ifadeleri fizik yerine sözcük seçimine göre gruplandırdı; [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber ve Kortemeyer (2026)]] bunu acemi benzeri bir temsil olarak okur ve kümelemeyi puanlama için değil keşif için bir araç yapar.
-
-### Bilgi tabanında belgelenen uygulamalar
+## Araştırmada belgelenen uygulamalar
 
 - **Öğrenci dilinin çözümlenmesi.** [[llm-sentiment-analysis-education-research]], eğitim araştırmalarına LLM temelli duygu durumu çözümlemesi uygular; ölçekte öğrenci metinlerinden duygusal ve değerlendirici sinyaller çıkararak [[learning-analytics]] ve [[affective-computing]] alanlarını besler.
 
@@ -75,14 +77,16 @@ Gömme modelleri, öğrenci metnini öğretilen yapıya göre değil yüzey biç
 
 - **Ölçekte konsept etiketleme.** [[srjudge-knowledge-concept-tagging-2026|Yang ve ark. (2026)]], bilgi konsepti etiketlemeyi bir Seç–Gerekçelendir–Yargıla hattına böler — küçük bir model aday konseptleri ön listeler, LLM ön liste üzerinde akıl yürütür, ardından yargılar — modelin karar uzayını daraltarak üç kıyaslama üzerinde etiketleme doğruluğunu yükseltir.
 
-- **ASR deşifre metinlerinin varlık sadakati, sözcüksel doğruluktan ayrı bir sorudur.** Beş konuşma tanıma sistemini insan referans deşifresiyle kıyaslayan [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard ve Rosenberg (2026)]], bilgi tabanının ilk ASR/NER varlık sadakati kanıtını raporlar: sözcük hata oranları %2,43 (TurboScribe) ile %15,32 (Vosk) arasında değişmiş; yedi kategorili altın varlık türü kodlamasında GPT-5.5 0,805 doğruluğa (κ = ,726) ulaşırken spaCy 0,634’te (κ = ,488) kalmıştır.
+- **ASR deşifre metinlerinin varlık sadakati, sözcüksel doğruluktan ayrı bir sorudur.** Beş konuşma tanıma sistemini insan referans deşifresiyle kıyaslayan [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard ve Rosenberg (2026)]], ilk ASR/NER varlık sadakati kanıtını raporlar: sözcük hata oranları %2,43 (TurboScribe) ile %15,32 (Vosk) arasında değişmiş; yedi kategorili altın varlık türü kodlamasında GPT-5.5 0,805 doğruluğa (κ = ,726) ulaşırken spaCy 0,634’te (κ = ,488) kalmıştır.
 Toplam WER tek başına varlık yapısının deşifreden sağ çıktığını belgeleyemez.
 
-### Özel ders ve ölçmeye bağlantı
+## Özel ders ve ölçmeye bağlantı
 
 Eğitimde NLP, hem öğrenen dilinin çözümlenmesini ([[student-modeling]], [[knowledge-tracing]]) hem de uyarlanabilir öğretim içeriğinin üretimini ([[intelligent-tutoring]], [[scaffolding]]) destekler. [[ai-generated-interactive-fiction-education-2026]], öğrenmeye yönelik NLP güdümlü içerik üretimini gösterir; [[zerkouk-comprehensive-review-its-2025]] ise NLP’yi daha geniş [[intelligent-tutoring]] manzarası içinde konumlandırır. LLM temelli çözümleme arttıkça, NLP kaynaklı içgörülerin gerçekten öğrenmeyi iyileştirdiğini doğrulamak için [[rct]] ve [[research-methods-aied]] çerçeveleri önem kazanır.
 
 Model sıkıştırma aynı araca takımının parçasıdır: iki aşamalı bir hat, uydurulmuş bir kara kutu tahmincisini ve sonradan yorumunu küçük bir açık ağırlıklı modele damıtır; böylece 2B parametreli bir “mentee” (öğrenci model), sıradan bir dizüstü bilgisayarda çevrimdışı hem bir tahmin hem de doğal dilde bir açıklama döndürür ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
+Gömme modelleri, öğrenci metnini öğretilen yapıya göre değil yüzey biçimine göre de düzenleyebilir. Sentetik bir Carnot motoru kümesinde aynı hat, ifadeleri fizik yerine sözcük seçimine göre gruplandırdı; [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber ve Kortemeyer (2026)]] bunu acemi benzeri bir temsil olarak okur ve kümelemeyi puanlama için değil keşif için bir araç yapar.
 
 ## Yaygın yanlış anlamalar
 

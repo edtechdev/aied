@@ -1,18 +1,23 @@
 ---
 title: "Öğrenen Modellemesi ve Uyarlanabilir Öğretim"
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
 connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]
@@ -24,15 +29,15 @@ connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal
 
 ## Dikkate Alınması Gereken Sorular
 
-- Bu sayfanın ortaya koyduğu çatı sorusu şudur: bir sistem bir öğrenenin ne bildiğini nasıl bilir ve sırada neyi öğretmelidir? Okumaya başlamadan önce, 'bir öğrenenin ne bildiğini' bir makinede nasıl temsil etmeye başlardınız?
+- Bir sistemin bir öğrenenin ne bildiğini bilmesi ve sırada ne öğreteceğine karar vermesi için neler gerekir? Okumaya başlamadan önce, 'bir öğrenenin ne bildiğini' bir makinede nasıl temsil etmeye başlardınız?
 - Öğrenen modellemesi bilgi izlemeyi (bilgiyi zaman içinde izleme), bilişsel teşhisi (hangi becerilerin öğrenildiğini haritalama) ve öğrenci simülasyonunu (sentetik öğrenenler) kapsar. Her yaklaşımın hangi yönde güçlü olduğunu — ve her birinin neyi yanlış yapma riski taşıdığını — düşünüyorsunuz?
-- Her uyarlanabilir YZ, öğrenene dair bir modele bağlıdır. Bir model, ona beslenen kanıtlar kadar iyiyse, YZ sistemlerinin bir öğrenci hakkında gerçekte hangi kanıtlara sahip olduğunu ve onlara ilişkin hangi önemli şeylerin görünmez kaldığını düşünüyorsunuz?
+- Uyarlanabilir bir sistemin seçimleri, öğrenene dair varsayımları kadar iyidir. Bir model, ona beslenen kanıtlar kadar iyiyse, YZ sistemlerinin bir öğrenci hakkında gerçekte hangi kanıtlara sahip olduğunu ve onlara ilişkin hangi önemli şeylerin görünmez kaldığını düşünüyorsunuz?
 - Bir model, bir öğrencinin neyi doğru ve neyi yanlış yaptığını ama nedenini ya da nasıl hissettiğini yakalayamayabilir. Bir öğrenen modeli, uyarlanabilir bir sistemi zarar verme yolunda nasıl yanıltabilir?
 - Uyarlanabilir bir öğretmen tasarlıyor olsaydınız, sizin hakkınızdaki modelinin neleri içermesini isterdiniz — ve neleri varsaymasını açıkça yasaklamak isterdiniz?
 
 ## Giriş
 
-Öğrenen modellemesi, öğrenenlerin hesaplamalı temsilidir; uyarlanabilir öğretim ise sistemlerin bu temsille yaptığıdır. Eğitimdeki her uyarlanabilir YZ — en hafifi bile olsa — öğrenene dair bir modele bağlıdır ve her öğrenen modeli, bir öğretim kararını beslemek için var olur. Bu sayfa, bu işlem hattının çatısıdır: modelleme yöntemleri, modeller üzerinde hareket eden sistemler ve bunların birbiriyle ilişkisi.
+Öğrenen modellemesi, öğrenenlerin hesaplamalı temsilidir; uyarlanabilir öğretim ise sistemlerin bu temsille yaptığıdır. Eğitimdeki her uyarlanabilir YZ — en hafifi bile olsa — öğrenene dair bir modele bağlıdır ve her öğrenen modeli, bir öğretim kararını beslemek için var olur. Çatı, bu işlem hattını kapsar: modelleme yöntemleri, modeller üzerinde hareket eden sistemler ve bunların birbiriyle ilişkisi.
 
 ## Modelleme katmanı
 
@@ -54,7 +59,7 @@ Duygusal öğrenci modellemesi bir başka boyuttur: bir matematik öğretmeni, d
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]], matematik alıştırması sırasında kaydedilen gecikmeli başlama sinyalinin İngilizce sonuçlarını öngördüğünü buldu; kronik geciktirenlerde (13 dakikadan fazla) [[prior-knowledge|prior knowledge]] ve göreve ayrılan zaman denetlendikten sonra bile daha düşük kazanımlar görüldü (ELA β = -,11 SS) — böylece davranışsal öğrenci modelleri, ders başına yeniden eğitim olmadan dallar arasında aktarılabilir; ancak eşik noktaları yeniden türetilmelidir.
 
-Algılanan zorluk bir başka öğrenen modelleme boyutudur ve yalnızca metin istatistiklerinden değil, kişiyle ilgili özelliklerden de öngörülebilir. [[thome-perceived-text-complexity-student-profiles-2025|Thome ve ark. (2025)]], 193 Alman lise öğrencisinin 3.954 cümleyi değerlendirmesinden profile dayalı okur modelleri kurmuş; KNN-artı-XGBoost toplulukları 1,070’lik ortalama temel çizgisine karşı RMSE 0,822’ye ulaşmış ve R2 = 0,396 elde etmiştir. Okur özelliklerini içeren her regresör hem ortalama hem de ortalama karmaşıklık temel çizgilerini geçmiştir; dolayısıyla okurun kim olduğunu yakalayan bir öğrenen modeli, bir metnin ne kadar zor hissettirdiğini öngörür — bu sayfadaki diğer modellerin taşımadığı bir algı boyutu.
+Algılanan zorluk bir başka öğrenen modelleme boyutudur ve yalnızca metin istatistiklerinden değil, kişiyle ilgili özelliklerden de öngörülebilir. [[thome-perceived-text-complexity-student-profiles-2025|Thome ve ark. (2025)]], 193 Alman lise öğrencisinin 3.954 cümleyi değerlendirmesinden profile dayalı okur modelleri kurmuş; KNN-artı-XGBoost toplulukları 1,070’lik ortalama temel çizgisine karşı RMSE 0,822’ye ulaşmış ve R2 = 0,396 elde etmiştir. Okur özelliklerini içeren her regresör hem ortalama hem de ortalama karmaşıklık temel çizgilerini geçmiştir; dolayısıyla okurun kim olduğunu yakalayan bir öğrenen modeli, bir metnin ne kadar zor hissettirdiğini öngörür — ailede diğer modellerin taşımadığı bir algı boyutu.
 
 ## Uyarlanabilir öğretim katmanı
 
@@ -97,7 +102,7 @@ Gizli yanlış kanılar aynı hatayı ters yönden gösterir: [[correct-answer-t
 
 ## LLM çağında modelleme
 
-Son gelişmeler, daha zengin modelleme için [[llm|LLMs]]'leri kullanır. [[xie-hillm-cd-2026|HiLLM-CD framework]] öğrencileri yeterlilik ağaçları olarak temsil eder; [[multimodal-knowledge-graph-educational-reasoning|multimodal approaches]] çeşitli veri kaynaklarından kanıta dayalı bilgi temsilleri inşa eder; [[inside-llm-student-simulator-reasoning-2026|LLMs now simulate students with reasoning]]. LLM'ler, eğitsel metinden otomatik model inşasını ve daha yüksek sadakatli [[simulating-students|student simulation]] olanaklı kılar, uzman etiketlemeye bağımlılığı azaltır — yukarıdaki sadakat kaygılarını keskinleştirirken. Öğrenen modeli sinyalleri ayrıca LLM akıl yürütmesini *temeller*: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]], GPT-4'e bir öğrencinin Bayesçi [[knowledge-tracing]] beceri tahminini öğretmen arayüzünün yapısıyla birlikte beslemenin hata teşhisini keskin biçimde iyileştirdiğini buldu (çarpanlara ayırmada mantıksal hata tanımlama %40'tan %81'e; genel olarak ~%87,8), çok adımlı problemler ve birkaç hata içeren yanıtlar en zayıf durumlar olarak kaldı — bu, biçimsel bir öğrenen modelini LLM'ye bağlamanın gerçek bir öğrenci hakkında sağlam çıkarımı güçlendirdiğini ama garanti etmediğini gösteren kanıttır. [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]], bu bağlamanın kalıcı bir sürümünün neye benzediğini gösterir: ustalık ve çıkarılan yanlış kanılar, oturum bazında günlükler yerine (öğrenen, konu) başına saklanır, böylece kanıt oturumlar arasında birikir; bellek, LLM tarafından notlandırılan bir gözlem fonksiyonu tarafından yazılır ve öğrenene ustalık çubukları ile her üretilen sorunun hangi zayıf beceriyi araştırmak için seçildiğini adlandıran bir etiket aracılığıyla incelenebilir kalır. Kontrolleri, yazma adımını açık hale getirir — bellek okunur ama artık güncellenmediğinde, gerçekten zayıf bir beceriyi hedefleyen öğelerin payı 0,72'den 0,57'ye düşer — ve bu sayfanın nitelemesini korur: saklanan ustalık, öğrenen hakkındaki ajanın inancıdır, bilgisinin bir ölçümü değildir.
+Son gelişmeler, daha zengin modelleme için [[llm|LLMs]]'leri kullanır. [[xie-hillm-cd-2026|HiLLM-CD framework]] öğrencileri yeterlilik ağaçları olarak temsil eder; [[multimodal-knowledge-graph-educational-reasoning|multimodal approaches]] çeşitli veri kaynaklarından kanıta dayalı bilgi temsilleri inşa eder; [[inside-llm-student-simulator-reasoning-2026|LLMs now simulate students with reasoning]]. LLM'ler, eğitsel metinden otomatik model inşasını ve daha yüksek sadakatli [[simulating-students|student simulation]] olanaklı kılar, uzman etiketlemeye bağımlılığı azaltır — yukarıdaki sadakat kaygılarını keskinleştirirken. Öğrenen modeli sinyalleri ayrıca LLM akıl yürütmesini *temeller*: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]], GPT-4'e bir öğrencinin Bayesçi [[knowledge-tracing]] beceri tahminini öğretmen arayüzünün yapısıyla birlikte beslemenin hata teşhisini keskin biçimde iyileştirdiğini buldu (çarpanlara ayırmada mantıksal hata tanımlama %40'tan %81'e; genel olarak ~%87,8), çok adımlı problemler ve birkaç hata içeren yanıtlar en zayıf durumlar olarak kaldı — bu, biçimsel bir öğrenen modelini LLM'ye bağlamanın gerçek bir öğrenci hakkında sağlam çıkarımı güçlendirdiğini ama garanti etmediğini gösteren kanıttır. [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]], bu bağlamanın kalıcı bir sürümünün neye benzediğini gösterir: ustalık ve çıkarılan yanlış kanılar, oturum bazında günlükler yerine (öğrenen, konu) başına saklanır, böylece kanıt oturumlar arasında birikir. Bellek, LLM tarafından notlandırılan bir gözlem fonksiyonu tarafından yazılır ve öğrenene ustalık çubukları ile her üretilen sorunun hangi zayıf beceriyi araştırmak için seçildiğini adlandıran bir etiket aracılığıyla incelenebilir kalır. Kontrolleri, yazma adımını açık hale getirir: bellek okunur ama artık güncellenmediğinde, gerçekten zayıf bir beceriyi hedefleyen öğelerin payı 0,72'den 0,57'ye düşer. Aileyi yöneten nitelemeyi de korur, çünkü saklanan ustalık, öğrenen hakkındaki ajanın inancıdır, bilgisinin bir ölçümü değildir.
 
 Dil, temsil olarak ID gömmelerinin yerini alabilir: PLCD, LLM kaynaklı kavram şemaları ve alıştırma süreç grafiklerini önsel olarak inşa ederek XES3G5M üzerinde %83,51 doğruluğa ulaşır; en büyük kazanımlar soğuk başlangıçta — yeni kavramlar için KCD'ye göre 4,60 ACC puanı ve yeni alıştırmalar için 4,00 — görülür; geçmişi olmayan ID tabanlı modellerin yerinde ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).
 

@@ -1,6 +1,7 @@
 ---
 title: Verimli Başarısızlık
 created: "2026-10-14T21:20:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -8,13 +9,17 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
 connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
@@ -27,11 +32,11 @@ connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-ste
 ## Düşünülmesi Gerekenler
 
 - Bir şeyde ilk başarısız olmaktan, nasıl yapılacağının gösterilmesinden daha çok mu öğrendiniz? O başarısızlığı 'verimli' kılan, yalnızca caydırıcı olmaktan ayıran neydi?
-- Sayfanın temel iddiası, *sıranın* önemli olduğudur: çözümleri öğretimden *önce* üretmek için uğraşmak daha derin öğrenme üretir. Beyinde o uğraş sırasında, sonraki öğretimin üzerine inşa edebileceği ne olduğunu düşünüyorsunuz?
+- Temel iddia, *sıranın* önemli olduğudur: çözümleri öğretimden *önce* üretmek için uğraşmak daha derin öğrenme üretir. Beyinde o uğraş sırasında, sonraki öğretimin üzerine inşa edebileceği ne olduğunu düşünüyorsunuz?
 - Tüm başarısızlıklar eşit değildir: 'hatalar' (kaymalar) az teşhis değeri taşırken 'yanlışlar' gerçek yanlış kanıları ortaya çıkarır. Bunları ayırt etmek, zorlanan bir öğrenece — veya bir YZ öğretmeninin — nasıl yanıt verdiğinizi nasıl değiştirebilir?
 - 'Güvenlik Boşluğu', bir öğrencinin YZ destekli performansı ile desteksiz yeteneği arasındaki farklılımdır. Bir öğrenciyi yetenekli gösteren yardım, ne zaman henüz yapamadığı şeyi maskeler?
 - Uğraşı korumak için cevapları saklayan bir YZ, daha az yardımcı olarak algılanabilir. Bir öğrenci olsaydınız, size cevabı vermeyi reddeden bir öğretmene nasıl tepki verirdiniz — ve bu tepki öğrenmeniz için en iyi olanla örtüşür müydü?
-- Akranların (veya bir YZ’nin) önünde hata yapma korkusu, sayfanın tanımladığı verimli uğraşın kendisini nasıl kapatabilir? Başarısız olmaya yönelik bir 'güvenli alan' neyi içermek zorunda kalırdı?
+- Akranların (veya bir YZ’nin) önünde hata yapma korkusu, başarısızlığı kullanışlı kılan verimli uğraşı nasıl kapatabilir? Başarısız olmaya yönelik bir 'güvenli alan' neyi içermek zorunda kalırdı?
 
 ## Giriş
 
@@ -54,6 +59,8 @@ Verimli başarısızlık, hata merkezli öğrenme kuramının daha geniş bir ai
 ### Hatalardan öğrenme
 Hatalı işleme, özellikle öğrenenlere anlayışları üzerinde yansıtmak ve yeniden düzenlemek için fırsat verildiğinde, kalıcılığa ve kavramsal değişime yardımcı olabilir (Kapur, 2008; Schwartz & Martin, 2004). YZ çağında bu, öğrencilerin doğrudan düzeltme almaktansa kendi hatalarını teşhis edip düzelttikleri sistemlerde işlevselleşir — örneğin YZ’nin yönlendirilmiş ipuçları verdiği ve öğrenenlerin doğru çözümü çıkardığı, bilişsel yükü azaltan ve özerk düzeltmeyi destekleyen [[lukesova-clue-before-correction-2026|clue-before-correction]] görevleri. Ayrıntılı geri bildirim, yalnızca doğrulama içeren geri bildirimden belirgin biçimde daha yüksek [[learning-gains|learning gains]] üretir (Hattie & Timperley) ve geri bildirimin zamanlaması önemlidir.
 
+**Hatalar, denetimli bir YZ destekli kodlama görevinde müfredattı.** [[shen-ai-skill-formation-2026|Shen ve Tamkin (2026)]], geliştiricilerin yeni bir Python kütüphanesini bir GPT-4o asistanıyla ya da onsuz öğrenmesini sınamıştır; desteksiz grup medyan olarak üç hatayla karşılaşırken destekli grupta bu bir oldu (Q1–Q3: 2,0–5,0 karşı 0,0–3,0). Asistanın ortadan kaldırdığı hatalar, korutinlerin anlaşılmasını zorunlu kılan kütüphaneye özgü hatalardı; örneğin bekletilmemiş bir korutin ya da bir fonksiyonun beklendiği yerde geçirilen bir korutin nesnesi. Desteksiz grup daha sonra YZ’siz yapılan bir sınavda %17 daha yüksek puan aldı; en büyük fark hata ayıklamada, en küçük fark kod okumadaydı ve üretilen kodu kopyalamak yerine yeniden yazmak hiçbir farkı kapattırmadı. Yazarlar bağımsız hata çözümünü mekanizma olarak yorumlamış, ancak ölçtükleri şeyin aracılık değil bir alaka olduğunu belirtmişlerdir.
+
 ### Hatalar ve yanlışlar
 Yararlı bir ayrım: **hatalar** tipik olarak (sıklıkla dikkatsizlikten veya aşırı yüklenmeden kaynaklanan) kaymalar veya aksmalardır ve sınırlı teşhis değeri taşır; **yanlışlar** ise gerçek anlayışsızlığı veya kusurlu akıl yürütmeyi yansıtır ve ele alınabilecek bir yanlış kanıyı açığa çıkardıkları için daha verimli öğrenme materyalidir. Hata çözümlemesi — bir cevabın *neden* yanlış olduğunun belirlenmesi — hatalardan öğrenmenin merkezindedir ve kilit bir [[pedagogy|pedagogical]] beceridir (ve [[ai-feedback-quality|AI feedback]] tasarımı için bir hedeftir).
 
@@ -62,7 +69,7 @@ Hatalardan öğrenme, öğrenenlerin neyin yanlış olduğunu ve nedenini görme
 
 ## Eğitimde verimli başarısızlık ve YZ
 
-Bilgi tabanının [[research-methods-aied|research]] büyük bir tema, YZ’nin yardımcılığı ile verimli uğraşın korunması arasındaki gerilimdir:
+[[research-methods-aied|Araştırmadaki]] büyük bir tema, YZ’nin yardımcılığı ile verimli uğraşın korunması arasındaki gerilimdir:
 
 - **Risk: YZ uğraşı siler.** Aşırı "yardımcı", doğrudan cevap sunan Oracle tarzı YZ, şema inşası için gerekli verimli uğraşı ortadan kaldırabilir ve [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]]’ın **Güvenlik Boşluğu** adını verdiği şeyi yaratır — bir öğrencinin YZ destekli performansı ile içsel, desteksiz yeteneği arasındaki farklılık. Bu [[cognitive-offloading]] ile bağlantılıdır: çabanın yerini alan YZ, eğitimin inşa ettiği kapasiteleri aşındırır.
 - **Tasarım yanıtı: uğraşı iskeleleyen YZ.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]], verimli başarısızlığa dayalı öğrenmeyi destekleyen YZ için beş tasarım ilkesi türetir ([[human-ai-collaboration|human-AI collaboration]], [[usability-research|usability]], yansıtıcı tasarım, duygusal tasarım, açık bilgi) ve YZ’nin uğraşı korurken doğrudan olmayan destek sunması gerektiğini vurgular. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]], [[llm]] öğretmenlerinin verimli başarısızlık pedagojisini izleyecek biçimde *yönlendirilebileceğini* (çözümleri saklama, çoklu denemeleri ortaya çıkarma) algılanan yardımcılık pahasına gösterir. CoMeT (Hou ve ark. 2026) bu bedeli fiyatlandırır ve ortayı bulur: kademelendiren öğretmeni, istek üzerine cevap veren öğretmenden 0,42 ölçek puanı daha fazla can sıkıcıydı (p < ,001) ve yalnızca soru sorandan 0,29 daha az can sıkıcıydı (p = ,011), seanslarının %8,4’ünde sıkıntı tespit edildi, çözümü saklayan öğretmende bu oran %16,0 idi ve seansların %6,1’inde tam cevabı teslim etti. Can sıkıntısı yerine açık bir vazgeçme ifadesi üzerine açılan bir taban, aynı tasarımdan çıkar — böyle bir taban olmadan, talep yoluna en çok ihtiyacı olan öğrenenler onu çevreler.

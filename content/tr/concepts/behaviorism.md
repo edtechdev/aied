@@ -1,6 +1,7 @@
 ---
 title: Davranışçılık
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -8,13 +9,17 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
 connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
@@ -27,8 +32,8 @@ connected_articles: [ai-vocational-education-training-review, generativism-learn
 ## Düşünülmesi Gerekenler
 
 - Davranışçılık, öğrenmeyi içsel zihinsel durumların değil, uyaran–tepki ve pekiştirme tarafından yönlendirilen gözlemlenebilir davranıştaki değişim olarak ele alır. Okumadan önce: geçmişinizdeki hangi eğitim deneyimleri ödül, tekrar ve anlık geri bildirim üzerine kuruluydu? Bunlar nelerde başarılı oldu, neleri gözden kaçırmış olabilir?
-- Bu sayfadaki şaşırtıcı bir bulgu şudur: eğitim söylemi zengin yapılandırmacı kuramları savunduğu hallerde bile gerçek YZ uygulamaları ağırlıklı olarak davranışçıdır — tekrara dayalı uygulama, anlık geri bildirim, uyarlanabilir ilerleme. Kuramda modası geçmiş olmasına rağmen davranışçı mekanizmaların uygulamada neden baskın olduğunu düşünüyorsunuz?
-- Sayfa, yapay zekâyı insan öğretimini kopyalamak için değil onu güçlendirmek için kullanma anlamına gelen bir eğitimsel “Turing Tuzağı” konusunda uyarıyor. Bir YZ sistemi doğru yanıtlar ve verimlilik için iyileştirme yapıyorsa, bir öğrenenin etkin bilgi inşasında sessizce neyi iyileştirme dışı bırakabilir?
+- Şaşırtıcı bir bulgu şudur: eğitim söylemi zengin yapılandırmacı kuramları savunduğu hallerde bile gerçek YZ uygulamaları ağırlıklı olarak davranışçıdır — tekrara dayalı uygulama, anlık geri bildirim, uyarlanabilir ilerleme. Kuramda modası geçmiş olmasına rağmen davranışçı mekanizmaların uygulamada neden baskın olduğunu düşünüyorsunuz?
+- Alan, yapay zekâyı insan öğretimini kopyalamak yerine onu güçlendirmek için kullanma anlamına gelen bir eğitimsel “Turing Tuzağı” uyarısında bulunuyor: Bir YZ sistemi doğru yanıtlar ve verimlilik için iyileştirme yapıyorsa, bir öğrenenin etkin bilgi inşasında sessizce neyi iyileştirme dışı bırakabilir?
 - Davranışçı tasarımlar temel akıcılık — sözcük dağarcığı, aritmetik, kod sözdizimi — için güçlü ama tek başına yüksek düzeyli, kavramsal veya etken öğrenme için yetersiz olarak tanımlanır. Kendi öğrenmenizin neresinde tekrara dayalı bir YZ yardımcı olur, neresinde açıkça zarar verirdi?
 - Sorulan tasarım sorusu davranışçılığın “doğru” olup olmadığı değil, belirli bir sistemin mekanizmalarının öğrenme hedefine hizmet edip etmediğidir. Bir YZ öğretmeninin anlık geri bildirimli, uyarlanabilir ilerlemeli tasarımının gerçekten aktarılabilir bir anlayış mı inşa ettiğini yoksa sadece gözlemlenebilir performansı iyi mi gösterdiğini nasıl anlarsınız?
 

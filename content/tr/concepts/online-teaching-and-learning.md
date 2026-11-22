@@ -10,7 +10,8 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T04:42:33-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, assessment-validity, agentic-ai, community-of-inquiry, pedagogy, learning-design, active-learning, collaborative-learning, scaffolding, self-regulated-learning, cognitive-offloading, academic-integrity, ai-misuse-learning-harm, ai-literacy, intelligent-tutoring, personalized-learning, adaptive-learning, student-engagement, digital-divide, governance, teacher-role, human-in-the-loop-ai, authentic-assessment, guardrails, ai-detection]
-connected_articles: [ai-agents-complete-lms-assessment-validity-2026, roe-assessment-twins-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, metacognitively-discordant-completion-genai-2026, decreasing-digital-distraction-college-online-learning-2026, song-genai-learning-partner-srl-over-time-2026, genai-marketing-education-roles-2026, kirsanov-beyond-detection-ai-online-assessments-2026, reconceptualizing-community-inquiry-generative-ai, lock-integrating-ai-online-learning-higher-ed-2025, mooc-to-maic, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, elevate-genai-virtual-tutors, conversational-ai-tutors-framework, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, ai-adult-learning-guidelines-dis2026, zhao-deeptutor-agentic-personalized-tutoring-2026, mejia-domenzain-ml-findings-teachers-blended-2026, zhang-ml-student-progress-programming-2026, personalized-ai-generated-videos-preference-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, ai-training-science-teacher-tpack-distance-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, packard-thinking-partner-framework-adult-learners-2026, aggarwal-genai-cybersecurity-2026]
+connected_articles: [aggarwal-genai-cybersecurity-2026, ai-adult-learning-guidelines-dis2026, ai-agents-complete-lms-assessment-validity-2026, ai-training-science-teacher-tpack-distance-2026, asynchronous-oral-assessment-2026, brcic-effortless-trap-productive-struggle-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, conversational-ai-tutors-framework, decreasing-digital-distraction-college-online-learning-2026, dyer-social-presence-literacy-ai-2026, elevate-genai-virtual-tutors, genai-marketing-education-roles-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learnmate2-llm-adaptive-learning, llm-facilitation-timing-online-discussions, lock-integrating-ai-online-learning-higher-ed-2025, mejia-domenzain-ml-findings-teachers-blended-2026, metacognitively-discordant-completion-genai-2026, mooc-to-maic, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, packard-thinking-partner-framework-adult-learners-2026, personalized-ai-generated-videos-preference-2026, reconceptualizing-community-inquiry-generative-ai, roe-assessment-twins-2026, song-genai-learning-partner-srl-over-time-2026, zhang-ml-student-progress-programming-2026, zhao-deeptutor-agentic-personalized-tutoring-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -63,6 +68,9 @@ Bunu bir tasarım sorusundan acil bir soruya taşıyan gelişme, üretici YZ’n
 - **Ölçekte konuşmaya dayalı, diyalojik öğretmenlik.** Kanıtlanmış [[intelligent-tutoring]] teknolojisi üzerine kurulu [[conversational-ai]] öğretmenleri ([[conversational-ai-tutors-framework|keep/change/center/study çerçevesi]]), öğrenenlerin düşüncelerini, sorularını ve [[misconceptions]]’ını içeren — insan öğretmenliğinden çok daha ölçeklenebilir — yüksek kaliteli, diyalog temelli öğretmenlik vaat eder.
 - **Kolaylaştırma ve analizler.** YZ, [[collaborative-learning|çevrim içi tartışmaları]] ve [[learning-analytics]]’i destekleyebilir, katılımı öngörebilir ve öğretmenlerin dikkati dağıtmasına yardım edebilir. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao ve Cukurova (2026)]] ekler ki, LLM tarafından üretilen tartışma özetleri, geniş eşzamansız forumlarda gezinme [[scaffolding|iskeleleri]] olarak işlev görebilir — öğrencilerin akran maruziyetini ve köprüleyici sosyal sermayenin ağ koşullarını, öğrencileri ya da öğretmenleri özetleme iş yüküyle yüklenmeden genişletebilir.
 - **Risk altındaki çevrim içi öğrenenler için erken uyarı analizleri.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]], içerik etkileşim kayıtları üzerinde yorumlanabilir [[machine-learning|makine öğrenmesinin]] büyük ölçekli çevrim içi [[cs-education|programlama]] kurslarında modül düzeyinde ilerlemeyi öngördüğünü ve bırakma ("Gönderim yok") sonuçlarını modül teslim tarihlerinden 7–8 gün öncesine kadar işaretlediğini gösterir; bu da çevrim içi öğretmenlere, başarısızlığı ancak olaydan sonra keşfetmek yerine ilgisiz öğrencilerle [[teacher-role|müdahale etmek]] için somut bir zaman aralığı verir.
+- 
+**Proaktif ulaşma, eşzamanlı olmayan kursların yoksun olduğu hesap verebilirliği sağlayabilir.** İki büyük çevrim içi derste haftalık kişiselleştirilmiş sohbet botu mesajları, içerik öğretmeden, 2.483 öğrenci boyunca A/B not oranlarını dört puan artırmıştır; bunu anımsatma ile özel ders yönlendirmeleri yoluyla başarmıştır ([[chatbot-outreach-course-performance-2026|Meyer ve ark. (2026)]]).
+
 - **Erişilebilirlik ve hız.** YZ, ders materyallerini geleneksel maliyetin küçük bir bölümünde üretebilir — MAIC, MOOC kurs üretimini yaklaşık \$25K/60 saatten \$2’nin altına/30 dakikaya indirmiştir.
 
 ## YZ çağında çevrim içi öğretimin zorlukları
@@ -125,6 +133,7 @@ Bir öğretmen hangi bileşimi seçerse seçsin, onu şekillendirmesi gereken bi
 - **YZ’ye dirençli ve gözetimli/yardımsız değerlendirmeler tasarlayın.** Çevrim içi notlandırma sıklıkla desteklenmiş işi bağımsız işten ayırt edemediğinden, kötüye kullanımı ortaya çıkarmak ve caydırmak için kapalı kitap, gözetimli ya da süreci ortaya çıkaran değerlendirmeler ekleyin ([[ai-misuse-learning-harm]]).
 - **YZ okuryazarlığını açıkça öğretin.** Öğrencilerin güvenme biçimlerini tanımasına ve güveni kalibre etmesine yardım edin ([[ai-literacy]]); yük aktarımını karşılamak için [[self-regulated-learning|öz düzenlemeyi]] ve [[metacognition]] geliştirin.
 - **YZ’yi dışsal bir ek bileşen değil, öğrenme ortamına yerleştirin.** Kursa yerleşik amaca özgü, bağlama uyarlanmış yardımcılar ([[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] gibi), genel amaçlı dış sohbet robotlarını geride bırakır ve benimsemeyi artırır.
+- **Otomasyon yaparken ilişkisel varlığı koruyun.** YZ aracılı öğretimde sosyal varlık okuryazarlığı için bir çerçeve, üç bileşik risk adlandırır — görev otomasyonunun angajmanı yerini alması, azalan empati ve verimlilik öncelikli kararlara doğru kayma — ve bunları, hangi görevlerin bir araca devredilebileceğine karar vermek için değerlendir-tanı-ayarla-sına-refine döngüsüne dönüştürür ([[dyer-social-presence-literacy-ai-2026|Dyer ve ark., 2026]]).
 - **YZ kolaylaştırmasını insan ölçülülüğüne doğru kalibre edin.** Tartışmaları denetlemek için YZ kullanırken, seyrek müdahale eden ayarları yeğleyin ([[llm-facilitation-timing-online-discussions|Tsirmpas ve diğerleri]]).
 - **Yetişkin yaşam koşullarına göre tasarlayın.** Yetişkin ve uzaktan öğrenenler için mobil erişimi, çevrim dışı çalışma yeteneğini ve eşzamansız erişilebilirliği önceliklendirin ([[ai-adult-learning-guidelines-dis2026|AI-ALOE yönergeleri]]).
 

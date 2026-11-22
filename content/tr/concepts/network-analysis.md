@@ -6,7 +6,7 @@ technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,8 +14,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
 connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

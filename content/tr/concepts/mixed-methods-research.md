@@ -1,18 +1,23 @@
 ---
 title: Karma Yöntemli Araştırma
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
 connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
@@ -24,8 +29,8 @@ connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2
 
 ## Dikkate Alınması Gereken Sorular
 
-- Bir anketin öğrencilerin bir YZ aracından yüksek memnuniyet bildirdiğini gösterdiğini ama sınav puanlarının yükselmediğini varsayalım. Hangi sayı 'doğru'? Sayfa, nicel ve nitel iplikleri birleştirmenin her birinin diğerini açıklamasına izin verdiğini savunur — bir görüşme, sayıların tek başına açıklayamadığını nasıl açıklayabilir?
-- Yaygın bir görüş, sayıların nesnel ve görüşmelerin anekdotsal olduğu, dolayısıyla nicel kanıtın üstün olduğudur. Sayfa ise ikisini tamamlayıcı olarak ele alır — sayılardan genişlik ve kesinlik, sözlerden derinlik ve anlam. Bağlamsız bir sayı, ne zaman bir görüşmeden daha fazla yanıltır?
+- Bir anketin öğrencilerin bir YZ aracından yüksek memnuniyet bildirdiğini gösterdiğini ama sınav puanlarının yükselmediğini varsayalım. Hangi sayı 'doğru'? Nicel ve nitel iplikleri birleştirmek, her birinin diğerini açıklamasına izin verir. Bir görüşme, sayıların tek başına açıklayamadığını nasıl açıklayabilir?
+- Yaygın bir görüş, sayıların nesnel ve görüşmelerin anekdotsal olduğu, dolayısıyla nicel kanıtın üstün olduğudur. İkisi de tamamlayıcı olarak ele alınmalıdır: sayılardan genişlik ve kesinlik, sözlerden derinlik ve anlam. Bağlamsız bir sayı, ne zaman bir görüşmeden daha fazla yanıltır?
 - Bir tasarım örüntüsü (sıralı açıklayıcı) önce nicel veri toplar, sonra şaşırtıcı sonuçları açıklamak için görüşmeleri kullanır. Nitel anlatılar mekanizmayı ortaya çıkana kadar sayısal olarak kafa karıştırıcı olan bir eğitim sonucu düşünebiliyor musunuz?
 - Üçgenleme çekirdek değerdir: bağımsız iplikler yakınsadığında güven yükselir ve ayrıştığında tutarsızlığın kendisi bilgilendiricidir. Hiç aynı şey hakkında birbirinize çelişen iki kanıt kaynağınız oldu mu — ve çatışmadan ne öğrendiniz?
 - Karma yöntemler aynı anda etkileri (ne kadar öğrenme kazancı) ve anlamı (güven, kimlik, etkinlik) yakalayabilir — hiçbir tek anket ya da görüşmenin tek başına yakalayamadığı şeyler. Bir YZ aracının öğrencilere yardım edip etmediğini inceliyor olsaydınız, hangi nicel ve nitel soruları eşleyerdiniz ve hangi sırayla?
@@ -44,7 +49,7 @@ Karma yöntemli tasarımlar, nicel yöntemlerin genişliğini, kesinliğini ve n
 - **Yakınsayan/paralel.** Nicel ve nitel iplikler eş zamanlı yürür ve analizde bütünleştirilir. [[t2i-competence-paradox-2026|The competence-paradox study]], öğretmen odak gruplarını, öğrenci anketini ve takip görüşmelerini paralel kullanır; [[fouad-bentley-trust-utility-gap-physics-2026|the trust–utility gap study]], fizik öğrencilerinin YZ benimsemesi üzerine anket ve görüşme kanıtlarını birleştirir.
 - **Makine tarafından üretilen bir nicel iplik.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang ve ark. (2026)]], yakınsayan bir tasarım altında BREQ nicel ipliğini katılımcıların görüşme dökümlerinden üretti; yalnızca insan emeğine dayanmayan bir bütünleştirme yolu. LLM–insan korelasyonları orta ile yüksek arasında değişti (ρ = ,5 ila ,73), madde, kişi ve test düzeyindeki RMSE’ler insan yanıtlarından uzaklığı niceledi ve olumsuz ifadeli 6, 7 ve 11. maddeler en net üçgenleme getirisini işaretleyerek görüşme ile anket kanıtının ayrıştığı yeri gösterdi.
 
-## Karma yöntemler bilgi tabanında nasıl görünür
+## Karma yöntemler araştırmada nasıl görünür
 
 - **Mekanizmaları açıklamak.** [[same-ai-different-pathways]], YZ aracılı öğrenmenin mekanizmalarını disiplin-kurum bağlamları arasında çözmek için iplikleri birleştirir; burada yalnızca nicel farklılıklar opak kalırdı.
 - **Sonuç verisini deneyimle tamamlamak.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]], nicel zarar göstergelerini [[pedagogy|pedagojik]] zararın nitel anlatılarıyla eşler; [[t2i-competence-paradox-2026]], nicel anket sonuçlarını kimlik pazarlığının nitel anlatılarıyla eşler.
@@ -70,3 +75,4 @@ Karma yöntemler, [[quantitative-research|quantitative]] ve [[qualitative-resear
 - **“Karma yöntemler YZ eğitimi araştırmasında niş bir seçimdir.”** **394 GenAI yükseköğretim çalışması** genelinde karma yöntemler **en yaygın araştırma tasarımıydı (213 çalışma, %54)**; onu nicel (109, %28) ve nitel (72, %18) izledi. Alanın baskın tasarımı, yöntemsel tartışmalarının varsaydığı tasarım değildir.
 - **“Gözlem ve görüşme kanıtı bir sistem iddiasını taşıyabilir.”** Sistem gözlemini ve [[administrator|yönetici]] görüşmelerini, **sekiz dönem boyunca 8.708 öğrencinin dört yıllık randomize değerlendirmesiyle** ve **0,05 standart sapmalık** etkileri tespit etmeye güçlendirilmiş biçimde eşlemek, nitel ipliğin tek başına yapamadığını gösterir: küçük bir etkiyi güvenilir biçimde tespit etmek. Yöntemleri karıştırmak, iplikler arasında güç aktarmanın bir yolu değildir.
 - **“Üçgenleme, iki zayıf yöntemin güçlü bir iddia üretmesi demektir.”** Eşlemenin değeri, her ipliğin farklı bir soruyu yanıtlamasıdır. İkisini de yürütüp ardından nitel bulguyu nicel olanın onayı olarak raporlayan bir tasarım üçgenleme yapmamış, aynı şeyi yeniden söylemiştir.
+- **“Yakınsama bir anlatı değil, bir kabul kuralı olabilir.”** [[liu-auditable-assessment-preservice-2026|Liu (2026)]], yeniden tasarım önceliğini yalnızca beş bağımsız kaynağın en az ikisinde ve bir uygulama yüzeyli kaynakta göründüğünde saydı, böylece yalnızca algı onu yükseltemedi.

@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,17 +18,23 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, agency, well-being, anxiety-and-stress, social-emotional-learning, remote-proctoring, generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, scaffolding, metacognition, self-regulated-learning, framing-ai-use-for-students, academic-integrity, stakeholders, self-report-measures, student-engagement, social-norms-ai-use, student-support-and-success]
 connected_articles: [shame-guilt-ai-regulation-computing-education, t2i-competence-paradox-2026, best-response-student-ai-dialog-2026, chatgpt-perception-online-learning-engagement-2026, ai-tools-academic-work-cheating-2026, genai-student-experiences-uk-he-survey-2026, metacognitively-discordant-completion-genai-2026, ai-generated-interactive-fiction-education-2026, ai-in-the-wild-college, genai-availability-grades-satisfaction, student-rationalization-ai-writing, tracing-genai-literacy-interaction-patterns, misiejuk-cognitive-offloading-prompting-2026, ai-availability-student-motivation, aied-unfinished-mission-bypass, student-mental-models-genai, genai-usage-design-students-survey, spritz-ai-disciplinary-mediation-student-teams-2026, ithaka-sr-ai-skills-college-graduates-2026, student-ai-inquiry-types-cs2-2026, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, bassett-ai-detectors-education-2026, wang-safety-gap-productive-struggle-2026, aivaluate-anxiety-assessment-2026, kim-ai-anxiety-comprehensive-analysis, student-perceptions-ai-study-productivity-2026, teo-ai-adoption-tertiary-meta-analysis-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, genai-use-usefulness-student-experience-australia-2026, genai-motivation-engagement-2026, genai-decision-capability-cognitive-load-2026, genai-professionalization-metaphors-2026, sidorkin-ai-generated-course-readings-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Öğrenci deneyimi** — öğrenenlerin eğitim ortamlarında YZ araçlarını nasıl algıladığı, onlarla nasıl etkileşime girdiği ve bunlardan nasıl etkilendiği. Bilgi tabanında 85’ten fazla makale ile öğrenci deneyimi, [[ai-education|AI in education]] alanının en çok araştırılan boyutlarından biridir. YZ öğrencileri hem olumlu hem de olumsuz yönlerden etkiler ve aynı araç, nasıl tasarlandığına ve kullanıldığına bağlı olarak hem yararlı hem zararlı olabilir.
+> **Öğrenci deneyimi** — öğrenenlerin eğitim ortamlarında YZ araçlarını nasıl algıladığı, onlarla nasıl etkileşime girdiği ve bunlardan nasıl etkilendiği. 85’ten fazla çalışmayla öğrenci deneyimi, [[ai-education|AI in education]] alanının en çok araştırılan boyutlarından biridir. YZ öğrencileri hem olumlu hem de olumsuz yönlerden etkiler ve aynı araç, nasıl tasarlandığına ve kullanıldığına bağlı olarak hem yararlı hem zararlı olabilir.
 
 ## Dikkate Alınması Gereken Sorular
 
-- Sayfa, YZ’nin öğrencileri sıklıkla aynı anda hem olumlu hem olumsuz yönlerden etkilediğini; tasarım ve kullanıma bağlı olarak aynı aracın hem fayda hem zarar verebileceğini ileri sürmektedir. YZ’nin aynı anda hem yardım ettiği hem zarar verdiği kendi deneyiminizden bir örnek verebilir misiniz?
+- YZ öğrencileri hem olumlu hem olumsuz yönlerden, sıklıkla aynı anda etkiler: tasarım ve kullanıma bağlı olarak aynı araç hem fayda hem zarar verebilir. YZ’nin aynı anda hem yardım ettiği hem zarar verdiği kendi deneyiminizden bir örnek verebilir misiniz?
 - Sayfa, bir 'performans–öğrenme boşluğu' betimlemektedir: öğrenciler YZ ile daha iyi sonuç alır, ancak sonraki yardımsız görevlerde daha kötü performans gösterir. Bu boşluğun nasıl ortaya çıktığını düşünüyorsunuz ve kapanması için ne gerekir?
 - YZ’ye aşırı bağımlılık, fiilen pratik yapmanız gereken akıl yürütmeyi devretmek anlamına geliyorsa, meşru yardım ile öğrenmeyi aşındıran yük boşaltma arasındaki sınırı nerede çizerdiniz?
 - [[research-methods-aied|Araştırma]], YZ’nin mevcut olduğunun bilinmesinin tek başına öğrenci çabasını değiştirip değiştirmediğini sormaktadır. YZ farkındalığının öğrencilerin daha çok mu, daha az mı yoksa farklı mı çalışmasına neden olduğunu düşünüyorsunuz ve inancınızı nasıl sınarsınız?
@@ -100,16 +106,6 @@ Bir öğrencinin deneyimlediği en uzun vadeli çıktılar — gelecek dönem d�
 
 Öğrenci deneyimi; [[cognitive-offloading|Aşırı Bağımlılık]] (aşırı YZ bağımlılığı), [[ai-literacy]] (etkili kullanım becerileri), [[cognitive-offloading]] (YZ’nin bilişsel çalışmayı nasıl değiştirdiği) ve [[student-engagement|kavrama]] (YZ sistemlerinin öğrenci davranışını nasıl ölçtüğü ve buna nasıl yanıt verdiği) ile bağlantılıdır. [[stakeholders]] şemsiyesinin öğrenciye yönelik üyesidir ve YZ’nin öğrencileri etkilediği tüm biçimleri özetlemenin merkezidir.
 
-## Yaygın yanlış anlamalar
-
-**“YZ’den kaçınan öğrenciler geridedir.”** Kullanmamak sıklıkla bir boşluk değil, gerekçeli bir konumdur: Birleşik Krallık’ta kurumlar arası bir ankette **7.087 öğrencinin %32’si** ders çalışmak için üretken YZ’yi hiç kullanmamıştır ve kullanmayanlar işi kendileri yapmak istediklerini belirtmiştir. Bunu bir benimseme eksikliği olarak ele almak bulguyu tersine çevirir ve öğrencileri savunulabilir bir seçimden baskı altına alır.
-
-**“Öğrenci bildirimleri öğrenmenin makul bir ölçüsüdür.”** Bunlar [[self-report-measures|öz bildirim ölçümleridir]]: algıları ve niyetleri iyi, davranışı ise yaklaşık olarak yakalar. Bu literatürdeki performans-öğrenme boşluğu, öğrencilerin YZ ile daha iyi yapıp sonraki yardımsız görevlerde daha kötü yapması, tam olarak öz bildirim ile sonucun ayrıştığı durumdur; bu nedenle memnun bir öğrenci topluluğu, öğrenen bir öğrenci topluluğunun kanıtı değildir.
-
-**“Öğrenciler YZ’nin yardımcı olduğunu hissediyorsa, yardımcı olur.”** Yardım gördüğünü hissetmek deneyim hakkında gerçek bir veri, sonuç hakkında ise güvenilmez bir çıkarımdır. Boşluk belgelenmiştir ve zarar gören gruptaki öğrenciler bunu güvenilir biçimde algılamaz; bu nedenle algı ve sonuç, biri diğerinin yerine geçmeden ayrı ölçümler olarak toplanmalıdır.
-
-**“Öğrenci deneyimi sonuçlara göre yumuşak bir kaygıdır.”** O, benimseme ve açıklama için öncü bir göstergedir: kullanımlarının yargılandığını hisseden öğrenciler bunu gizler ve gizlenmiş kullanım, [[reducing-ai-misuse|kötüye kullanım]] ile zararın kurum için en az görünür olduğu koşuldur.
-
 ## Uygulama için çıkarımlar
 
 **Öğretim elemanları için**
@@ -126,3 +122,13 @@ Bir öğrencinin deneyimlediği en uzun vadeli çıktılar — gelecek dönem d�
 **Araştırmacılar için**
 
 - Kullanmayan grubun büyüklüğünü ve gerekçelerini açıkça bildirin; 7.087 öğrencilik bir örneklemin %32’si bir artık değil, bir nüfustur.
+
+## Yaygın yanlış anlamalar
+
+**“YZ’den kaçınan öğrenciler geridedir.”** Kullanmamak sıklıkla bir boşluk değil, gerekçeli bir konumdur: Birleşik Krallık’ta kurumlar arası bir ankette **7.087 öğrencinin %32’si** ders çalışmak için üretken YZ’yi hiç kullanmamıştır ve kullanmayanlar işi kendileri yapmak istediklerini belirtmiştir. Bunu bir benimseme eksikliği olarak ele almak bulguyu tersine çevirir ve öğrencileri savunulabilir bir seçimden baskı altına alır.
+
+**“Öğrenci bildirimleri öğrenmenin makul bir ölçüsüdür.”** Bunlar [[self-report-measures|öz bildirim ölçümleridir]]: algıları ve niyetleri iyi, davranışı ise yaklaşık olarak yakalar. Bu literatürdeki performans-öğrenme boşluğu, öğrencilerin YZ ile daha iyi yapıp sonraki yardımsız görevlerde daha kötü yapması, tam olarak öz bildirim ile sonucun ayrıştığı durumdur; bu nedenle memnun bir öğrenci topluluğu, öğrenen bir öğrenci topluluğunun kanıtı değildir.
+
+**“Öğrenciler YZ’nin yardımcı olduğunu hissediyorsa, yardımcı olur.”** Yardım gördüğünü hissetmek deneyim hakkında gerçek bir veri, sonuç hakkında ise güvenilmez bir çıkarımdır. Boşluk belgelenmiştir ve zarar gören gruptaki öğrenciler bunu güvenilir biçimde algılamaz; bu nedenle algı ve sonuç, biri diğerinin yerine geçmeden ayrı ölçümler olarak toplanmalıdır.
+
+**“Öğrenci deneyimi sonuçlara göre yumuşak bir kaygıdır.”** O, benimseme ve açıklama için öncü bir göstergedir: kullanımlarının yargılandığını hisseden öğrenciler bunu gizler ve gizlenmiş kullanım, [[reducing-ai-misuse|kötüye kullanım]] ile zararın kurum için en az görünür olduğu koşuldur.

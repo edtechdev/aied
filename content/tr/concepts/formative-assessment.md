@@ -1,6 +1,7 @@
 ---
 title: Biçimlendirici Değerlendirme
 created: "2026-10-14T21:50:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
 connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Biçimlendirici değerlendirme** — [[summative-assessment|toplayıcı]] değerlendirmenin aksine, süregelen öğretimi ve öğrenmeyi bilgilendirmek üzere tasarlanmış değerlendirme. Eğitimde YZ açısından biçimlendirici değerlendirme hem YZ tarafından dönüştürülür hem ona temel teşkil eder: YZ sistemleri biçimlendirici maddeleri ve geri bildirimi ölçekte üretebilir, doğrulayabilir ve uyarlayabilir; oysa biçimlendirici geri bildirim, [[intelligent-tutoring|YZ özel öğretmenlerinin]] ve [[adaptive-learning|uyarlanabilir sistemlerin]] öğrenmeyi desteklediği temel mekanizmalardan biridir. Bilgi tabanının [[research-methods-aied|araştırmaları]], YZ tarafından üretilen biçimlendirici maddeleri, YZ tarafından üretilen geri bildirimi ve bu sistemlerin tasarımı ile değerlendirilmesini inceler.
+> **Biçimlendirici değerlendirme** — [[summative-assessment|toplayıcı]] değerlendirmenin aksine, süregelen öğretimi ve öğrenmeyi bilgilendirmek üzere tasarlanmış değerlendirme. Eğitimde YZ açısından biçimlendirici değerlendirme hem YZ tarafından dönüştürülür hem ona temel teşkil eder: YZ sistemleri biçimlendirici maddeleri ve geri bildirimi ölçekte üretebilir, doğrulayabilir ve uyarlayabilir; oysa biçimlendirici geri bildirim, [[intelligent-tutoring|YZ özel öğretmenlerinin]] ve [[adaptive-learning|uyarlanabilir sistemlerin]] öğrenmeyi desteklediği temel mekanizmalardan biridir. [[research-methods-aied|Araştırma]], YZ tarafından üretilen biçimlendirici maddeleri, YZ tarafından üretilen geri bildirimi ve bu sistemlerin tasarımı ile değerlendirilmesini inceler.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -35,7 +40,7 @@ connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeli
 
 ## Giriş
 
-Biçimlendirici değerlendirme, [[ai-education|Eğitimde yapay zeka]] açısından merkezidir; çünkü [[assessment]] ile [[feedback|öğrenme geri bildiriminin]] birleştiği noktada yer alır. Amacı döngüyü kapatmaktır: öğrencilerin bildiklerini ve bilmediklerini ortaya çıkarmak ve iyileştirmek üzere üzerine hareket edebilecekleri geri bildirim sağlamak. YZ bunu ölçekte mümkün kılar — madde üretir, yanıtları puanlar ve bireyselleştirilmiş geri bildirim sunar — ama bilgi tabanının araştırmaları niteliğin madde türlerine göre belirgin biçimde değiştiğini ve geri bildirimin yalnızca öğrenciler onu gerçekten hayata geçirdiğinde yardımcı olduğunu gösterir.
+Biçimlendirici değerlendirme, [[ai-education|Eğitimde yapay zeka]] açısından merkezidir; çünkü [[assessment]] ile [[feedback|öğrenme geri bildiriminin]] birleştiği noktada yer alır. Amacı döngüyü kapatmaktır: öğrencilerin bildiklerini ve bilmediklerini ortaya çıkarmak ve iyileştirmek üzere üzerine hareket edebilecekleri geri bildirim sağlamak. YZ bunu ölçekte mümkün kılar — madde üretir, yanıtları puanlar ve bireyselleştirilmiş geri bildirim sunar — ama araştırma niteliğin madde türlerine göre belirgin biçimde değiştiğini ve geri bildirimin yalnızca öğrenciler onu gerçekten hayata geçirdiğinde yardımcı olduğunu gösterir.
 
 [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti ve ark. (2026)]], otomatik bir yazma sisteminin özgün bir biçimlendirici amaca hizmet edebileceğine dair kanıt sunar: gelişme yalnızca öznitelik puanlarında değil revizyon niteliğinde ortaya çıkmıştır, ancak yalnızca öğretmenler geri bildirimi sınıf tartışmasına yerleştirdiğinde.
 
@@ -53,9 +58,11 @@ YZ sistemleri, güvenilirliği türe göre değişen biçimlendirici değerlendi
 
 - **Yüksek sıklıklı, [[automated-assessment|otomatik puanlanan değerlendirmeler]]:** [[automated-formative-assessments-a-level-sciences|A-level fen bilimlerinde otomatik biçimlendirici değerlendirmeler]], yüksek sıklıklı ve otomatik puanlanan biçimlendirici değerlendirmenin [[learning-gains|öğrenme çıktıları]] üzerindeki etkisini inceler. [[science-education|Fen eğitiminde]] kısa cevap otomatik puanlamasına ilişkin bir kapsam tarama incelemesi (2017–2024 başı), bu biçimlendirici kısa cevap kullanım alanının gerçek çekişi olan bir alan olduğunu doğrular: BERT ailesi modeller 2021’e kadar otomatik puanlamada hâkimiyet kurdu, ardından ~2022’den itibaren daha büyük [[llm|LLM]]’lere istek metni sunuldu; alan açısından zenginleştirilmiş, rubrik duyarlı ve akıl yürütme zincirine dayalı modeller en iyi performansı gösterdi — oysa incelemenin kapsamlı değerlendirme çağrıları ve çözülmemiş [[bias-mitigation|adalet]] ile yorumlanabilirlik boşlukları, bu tür sistemlerin aracısız [[summative-assessment|toplayıcı]] veya yüksek riskli kullanıma genişletilmesine karşı uyarıyor ([[auto-marking-short-answer-science-2026]]).
 
+- **Oyunlaştırılmış bir sınav, öğretmeden keyiflendirilebilir.** Otuz dört müzik bilimleri lisans öğrencisi, uyarlanabilir bir YZ sınavını geleneksel ders öğretimiyle karşılaştırmada en düşük puanladı (M = 2,74 / 5) ve onu önerip önermeyecekleri konusunda 21’e 13 olarak bölündü; öneri, konu anlayışından (3,81’e karşı 3,62, p = 0,420) çok uygulamayı nasıl hissettirdiğine bağlandı (gelecekteki kullanım 3,52’ye karşı 1,54) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee ve ark. (2026)]]).
+
 ## YZ tarafından üretilen geri bildirim
 
-Bilgi tabanının geniş bir araştırma kümesi YZ tarafından üretilen biçimlendirici geri bildirimi inceler:
+Geniş bir araştırma kümesi YZ tarafından üretilen biçimlendirici geri bildirimi inceler:
 
 - **Hayata geçirme sorunu:** [[ai-feedback-enactment-workflow-2026|YZ Tarafından Üretilen Geri Bildirimi Önemli Kılmak]] (13.037 öğrenci; 51.296 kaynak), geri bildirim değerinin öğrencilerin onu *hayata geçirip geçirmediğine* bağlı olduğunu gösterir — öğrencilerin YZ geri bildirim önerilerini seçtiği, değerlendirdiği ve uyguladığı **Hayata Geçirilmiş Geri Bildirim** koşulu, yalnızca yönlendirilmiş geri bildirimi geride bıraktı.
 

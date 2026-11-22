@@ -1,14 +1,14 @@
 ---
 title: "Kursumda YZ ile Aldatmayı Nasıl Azaltabilirim?"
 created: "2026-10-14T10:36:01-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

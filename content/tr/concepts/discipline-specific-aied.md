@@ -1,18 +1,23 @@
 ---
 title: "Disiplinlerde AIEd"
 created: "2026-10-14T22:55:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T07:55:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
 connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
@@ -32,7 +37,7 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 
 ## Giriş
 
-Eğitimde yapay zeka disiplinler arasında farklı biçimlerde ortaya çıkar, çünkü her alanın kendine özgü imza pedagojisi vardır — bilginin inşa edilmesinin, uygulanmasının ve öğretilmesinin ayırt edici yolları. [[math-education|matematikte]] parlayan YZ ders yardımcıları, doğru yanıtlardan çok yorumlama ve yazarlığın önemli olduğu [[humanities-education|beşeri bilimlerde]] başarısız olabilir. Bu sayfa, okul derslerinden profesyonel ve uygulamalı eğitime, stüdyo pratiğine uzanan bu disipline özgü başlıkların şemsiye haritasıdır. Başlığın bir üyesi hiç öğretilen bir ders değildir: [[learning-sciences]] eğitimde yapay zeka çevresindeki araştırma alanıdır; YZ sistemlerinin işlevsel kıldığı mekanizmaları ve yargılandıkları ölçütleri sağlar — konu öncesinin hangi desteğin ne yapması gerektiğini değiştiren şey olduğu bu sayfanın öncülüne karşıt olarak kesişen görüşü benimser.
+Eğitimde yapay zeka disiplinler arasında farklı biçimlerde ortaya çıkar, çünkü her alanın kendine özgü imza pedagojisi vardır — bilginin inşa edilmesinin, uygulanmasının ve öğretilmesinin ayırt edici yolları. [[math-education|matematikte]] parlayan YZ ders yardımcıları, doğru yanıtlardan çok yorumlama ve yazarlığın önemli olduğu [[humanities-education|beşeri bilimlerde]] başarısız olabilir. Konu sayfaları dört kumeye ayrılır: [[humanities-education|beşeri bilimler ve sanatlar]], [[social-sciences-education|sosyal bilimler]], [[stem-education|STEM]] ve [[professions-education|meslekler]] — sonuncusu, müfredatı lisans, akreditasyon ve denetimli uygulama düzenine göre dizilen programları kapsar. Bu sayfa, okul derslerinden profesyonel ve uygulamalı eğitime, stüdyo pratiğine uzanan bu disipline özgü başlıkların şemsiye haritasıdır. Başlığın bir üyesi hiç öğretilen bir ders değildir: [[learning-sciences]] eğitimde yapay zeka çevresindeki araştırma alanıdır; YZ sistemlerinin işlevsel kıldığı mekanizmaları ve yargılandıkları ölçütleri sağlar — konu öncesinin hangi desteğin ne yapması gerektiğini değiştiren şey olduğu bu sayfanın öncülüne karşıt olarak kesişen görüşü benimser.
 
 ## Disipline özgü kavramlar
 
@@ -55,7 +60,9 @@ Bilgi tabanında birkaç konu alanına ilişkin ayrılmış kavram sayfaları va
 - **[[design-education]]** — ürün, hizmet, etkileşim, iç mekân ve mimari tasarımda stüdyo temelli profesyonel oluşum; burada değerlendirilen nesne görünür süreçtir ve üretken araçlar parlak yapıtı ucuzlatır: [[arts-and-media-education]]’nın kapsadığı stüdyo disiplinlerini profesyonel tasarım hattına daraltır, böylece tartışmayı malzeme ve performatif pratik değil, eleştiri, [[eportfolio|portfolyo]] ve düzenleme taşır.
 - **[[engineering-education]]** — mühendislikte profesyonel oluşum, tasarım ve [[experiential-learning|uygulamalı öğrenme]], YZ’nin [[ethics|etik]] kullanımı, [[embodied-learning|gövdeleyen]] değerlendirme ve işgücü hazırlığı.
 - **[[business-education]]** — işletme, iktisat ve yönetim eğitiminde YZ: öğrenci kaynaklı GenAI çerçeveleri, yapıcı hizalama yoluyla [[curriculum-design|müfredat]] bütünleştirmesi ve YZ bütünleşik profesyonel pratiğe hazırlık.
-- **[[humanities-education]]** — beşeri ve sosyal bilimlerde yorumlayıcı biliş, yazarlık ve anlam yapılandırma.
+- **[[humanities-education]]** — tarih, felsefe, edebiyat ve dillerde yorumlayıcı biliş, yazarlık ve anlam yapılandırma; [[arts-and-media-education|sanat ve medya]] ile [[music-education|müzik]] sayfalarının içinde değil yanında oturduğu kume.
+- **[[social-sciences-education|sosyal bilim eğitimi]]** — vatandaşlık, yönetim, iktisat ve çevre çalışmaları: insanları toplu olarak inceleyen, YZ’nin hem yöntemi hem kurumu aynı anda değiştirdiği disiplinler.
+- **[[professions-education|meslekler eğitimi]]** — lisanslı ve akrediteli programlar (tıp, hemşirelik, hukuk, öğretmenlik, tasarım, kütüphanecilik); değerlendirmesi, sertifika kazandırılan yargının adayın kendisine ait olduğunu kanıtlamak zorundadır.
 - **[[k-12]]** ve **[[higher-ed]]** — her düzeyde YZ hakkında ve YZ ile eğitim.
 
 ## Disiplinler arası temalar
@@ -69,6 +76,7 @@ Birkaç izlek tüm disiplinleri keser, ancak her birinde farklı biçimde işler
 - **Bilişsel yük devri ve aşırı güven.** [[cognitive-offloading]] ve [[cognitive-offloading|Aşırı Güven]] riski, [[math-education|matematik]], [[cs-education|BL]] ve [[writing-education|yazma]] arasında görünür, ancak devredilen “bilişsel eylem” disipline özgüdür — hesaplama karşı kod karşı kompozisyon.
 - **YZ okuryazarlığı ve eleştirel kullanım.** [[ai-literacy]], [[critical-thinking]] ve [[critical-pedagogy]] her derste sorumlu kullanımı temel alır.
 - **Disipliner temellendirme, YZ destekli üstbilişi kapılandırır.** Bir metin dilbilim seminerinde, yeni başlayanlar öncelikle konu bilgisinin çoktan pekiştiği yerlerde LLM’lerle [[metacognition|üstbilişsel]] olarak yansıtmış ve çoğu zayıf çıktıları kendi istek metinlerine değil modele yüklemiştir — [[prompt-engineering|istek metni tasarımının]] bir disiplin içinde açıkça öğretilmesi gerektiğine dair kanıt ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
+- Disiplin, ölçüm düzeneğini de bozar. Kimyaya eğitimli bir öz-düzenleme algılayıcısı Almanca transkriptlerde ~0,8 AUC koruyabilirken mantıkta ~0,6’ya düşer; çünkü model “cancel” sözcüğünü alana özgü anlamı yerine günlük anlamıyla çözümler ([[borchers-srl-language-generalization-2025|Borchers ve ark., 2025]]).
 - **Eşitlik ve erişim.** [[equity-in-ai-education]], [[digital-divide]] ve [[culturally-relevant-pedagogy]] tüm disiplinleri ilgilendirir.
 
 ## Disipline göre imza pedagojileri, yöntemleri ve kuramları
@@ -85,11 +93,22 @@ Her disiplin, YZ araştırmalarının bağlandığı özgün [[pedagogy|pedagoji
 
 - **Öğretmen eğitimi** — YZ araştırmalarının öğretmenleri YZ bütünleştirmeye hazırlamaya odaklandığı bir disiplin: akıllı-TPACK çerçeveleri ([[designing-ai-professional-development-itpack-2026|i-TPACK mesleki gelişim]]), öğretmen YZ okuryazarlığı ([[science-educators-ai-literacy-postqualification-2026|fen eğitimcileri]]), hizmet öncesi hazır bulunuşluk ([[conceptualizing-preservice-teachers-ai-readiness-2026|akıllı-TPACK hazır bulunuşluğu]]) ve hizmet içi güven ile etik ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|güven ve etik]]).
 
-- **Beşeri ve sosyal bilimler** — yorumlama, yazarlık ve eleştirel anlam yapılandırma. YZ araştırması, doğruluk için ders desteğinden ziyade yorumlayıcı bilişi ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) ve [[philosophy-of-ai-in-education|YZ felsefesini]] öne çıkarır.
+- **Beşeri bilimler** — yorumlama, yazarlık ve eleştirel anlam yapılandırma. YZ araştırması, doğruluk için ders desteğinden ziyade yorumlayıcı bilişi ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) ve [[philosophy-of-ai-in-education|YZ felsefesini]] öne çıkarır ve sektör denetimi, Sanat ve Beşeri Bilimler değerlendirme maddelerinin %58,6’sını yüksek açıklık bandına yerleştirir.
+- **Sosyal bilimler** — nüfuslar, kurumlar ve pazarlar hakkındaki iddialar; ankete, modele ve karşılaştırmayla savunulur. Vatandaşlık literatürü karakteristik başarısızlığı gösterir: 53 standart karşısında 310 YZ üretimi ders planının %90’ı alt düzey hedeflere yaslanmıştır. Psikolojinin artık kendi sayfası var, [[psychology-education|psikoloji eğitimi]], çünkü kümedeki geri kalanından çok daha fazla ders düzeyinde iş taşır; sosyoloji beş çalışmayla kümede kalır.
 
 ## Bilgi tabanında temsil edilen disiplinler
 
-Bilgi tabanının en güçlü disipline özgü kapsamı genel olarak **[[stem-education|STEM]]** alanındadır — özellikle **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]** ve **[[cs-education]]** — ardından **[[statistics-and-data-science-education]]**, matematikten ayrı bir başlık, çünkü imza pedagojisi belirlenmiş bir yanıta doğru akıl yürütmek değil veri incelemesidir. Başlığın kendi tasarım sorununa bir örnek: [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]], bağlama uygun sentetik veri kümeleri üretmek için etmenli bir işlem hattı kullanır; bu, bir istatistik dersinin ihtiyaç duyduğu materyali ele alır, açıklamasını değil ve yazarların kendi ifadesiyle veri toplama, ölçme veya [[research-methods-aied|çalışma tasarımını]] öğretemez. Bunları **[[writing-education]]**, **[[language-learning]]** (EAP/EFL/ESL için ayrı bir **[[english-education]]** başlığıyla) ve daha yakın tarihte **[[engineering-education]]**, **[[teacher-education]]** (hizmet öncesi ve hizmet içi YZ eğitimi araştırmalarının belirgin bir gövdesiyle), **[[medical-education]]** ve **[[humanities-education]]** izler. Mühendislik ve tasarımın da büyüyen bir makale gövdesi vardır. Bu yoğunlaşma daha geniş literatürü izler: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia ve ark.’nın (2026)]] derlemesi, STEM’i YZ destekli yükseköğretimde en yaygın disiplinler arası biçim olarak bulmuştur (n = 26), STEM dışı alanlardan (n = 10) ve STEAM’dan (n = 2) oldukça ileridedir. Uyarı disiplin düzeyindedir: YZ-eğitim kanıtı, YZ’nin pedagojik değerinin en büyük olduğu yerlerde değil, hesaplama araçlarının gömmesinin en kolay olduğu yerlerde en hızlı birikir. En son eklemeler başlığı akademik derslerin ötesine profesyonel ve uygulamalı eğitime — [[nursing-education|hemşirelik]], [[information-technology|bilgi teknolojisi]] ve [[vocational-education|mesleki eğitim ve öğretim]] — genişletir; burada öğrenenler doğruluk üzerinden değil, gösterilen pratik üzerinden değerlendirilir ve yetkinli sayılanı yalnızca akademi değil, işveren ve lisans veren kurum tanımlar.
+Kapsam, dört kume genelinde çok eşitsiz biçimde dağılmıştır ve bu eşitsizliğin biçimi, bölümün ana bulgusudur.
+
+**STEM açık ara en yoğundur.** [[math-education|Matematik]], [[physics-education|fizik]], [[chemistry-education|kimya]], [[biology-education|biyoloji]] ve [[cs-education|bilgisayar bilimi]] her biri kendi sayfasını ve onlarca çalışmasını taşır; [[statistics-and-data-science-education|istatistik ve veri bilimi]] ise imza pedagojisi belirlenmiş bir yanıta doğru akıl yürütmek değil veri incelemesi olan ayrı bir başlıktır. Başlığın kendi tasarım sorunu, [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]]’de görülür; bu, bağlama uygun sentetik veri kümeleri üreten etmenli bir işlem hattıdır: bir istatistik dersinin ihtiyaç duyduğu materyali sağlar, açıklamasını sağlamaz ve yazarların kendi ifadesiyle veri toplama, ölçme veya [[research-methods-aied|çalışma tasarımını]] öğretemez. [[engineering-education|Mühendislik eğitimi]] ve [[science-education|fen eğitimi]] kumeyi tamamlar.
+
+**Beşeri bilimler ve sanatlar hacimden çok tek çalışmalarda derinliğe sahiptir.** [[humanities-education|Beşeri bilimler eğitimi]], [[writing-education|yazma eğitimi]], kendine özgü [[english-education|İngilizce eğitimi]] başlığı olan [[language-learning|dil öğrenimi]], [[arts-and-media-education|sanat ve medya eğitimi]] ve [[music-education|müzik eğitimi]] hepsinin sayfası vardır, ancak kanıtlarının çoğu tek bir ders ya da tek bir stüdyodur. [[assessment-validity|Geçerlilik]] sorunu yine de bu kume için diğerlerinden daha kesin ölçülmektedir: 15.587 Sanat ve Beşeri Bilimler birim kaydına ilişkin bir denetim, değerlendirme maddelerinin %58,6’sının yüksek düzeyde açıkta olduğunu bulmuştur.
+
+**Sosyal bilimler, önemleriyle orantısız biçimde en ince olandır.** [[business-education|İşletme eğitimi]] üçünün en büyük literatürünü taşır; [[civic-and-political-education|vatandaşlık ve siyaset eğitimi]], tek bir ölçülmüş vatandaşlık sonucu olmadan demokratik bir sorunu tarif eder; [[environmental-education|çevre eğitimi]] ise YZ’nin bir öğretim aracı olarak görünmesi ile bir enerji maliyeti olarak görünmesi arasında bölünür.
+
+**Meslekler iyi kapsanmış ama en az bütünleşiktir.** [[medical-education|Tıp eğitimi]] (en çok incelenen programı [[nursing-education|hemşirelik]] olan), [[teacher-education|öğretmen eğitimi]] ve [[legal-education|hukuk eğitimi]] belirgin literatürlere sahiptir; [[information-technology|bilgi teknolojisi]], [[libraries|kütüphaneler]] ve [[vocational-education|mesleki eğitim]] başlığı pratiğe uzatır. Ortak soruları — sertifika kazandırılan yargının adayın kendisine ait olup olmadığı — programlar arasında nadiren sorulur; [[professions-education|meslekler eğitimi]] tam da bunu toplamak için vardır.
+
+Bu yoğunlaşma daha geniş literatürü izler: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia ve ark.’nın (2026)]] derlemesi, STEM’i YZ destekli yükseköğretimde en yaygın disiplinler arası biçim olarak bulmuştur (n = 26); STEM dışı alanlardan (n = 10) ve STEAM’dan (n = 2) oldukça ileridedir. Uyarı disiplin düzeyindedir: YZ-eğitim kanıtı, YZ’nin pedagojik değerinin en büyük olduğu yerlerde değil, hesaplama araçlarının gömmesinin en kolay olduğu yerlerde en hızlı birikir.
 
 Mesleki başlık o kanıt içindeki en ince olandır: mesleki eğitim ve öğretimde 26 çalışmanın bir sistematik derlemesi, mesleki eğitim ve öğretimin işe dayalı karakterine rağmen hiçbirinin iş yeri ortamlarında yapılmadığını, yalnızca beş rastgele deneysel çalışmayı ve öğrenenlere etkin bir rol tanıyan yalnızca üç tasarımı bulmuştur ([[ai-vocational-education-training-review|Deutscher ve ark. (2026)]]).
 
@@ -100,9 +119,10 @@ Bazı disiplinler bilgi tabanında ince kalmaya devam etmekte ve gelecekteki al�
 - **Hukuk ve [[legal-education|hukuk eğitimi]]** — asgari kapsam: [[llm-turing-test-italian-legal-exams-2026|LLM’ler ve İtalyan hukuk sınavları]].
 - **Psikoloji ve rehberlik** — birkaç YZ-eğitim makalesi: [[hawkins-feedback-literacy-ai-essay-writing|YZ geri bildirim okuryazarlığı]], [[critical-genai-use-predictors|eleştirel GenAI kullanımı]], [[adaptive-virtual-patient-psychotherapy-training|sanal hasta psikoterapi eğitimi]].
 - **Tarih** — yalnızca yalıtılmış makaleler: [[paternalistic-filter-llm-history-education|LLM’ler ve tarihsel akıl yürütme]].
-- **Sanatlar (görsel sanatlar, tasarım, müzik)** — ortaya çıkan kapsam: [[ai-interior-design-malaysia-2026|eğitimde iç mimari alanında YZ]], [[genai-architectural-design-studios|mimari tasarım stüdyolarında GenAI]], [[ai-vocal-pedagogy-2026|YZ vokal pedagojisi]], [[musical-education-ai-digital-transformation-2026|müzik eğitiminde YZ]], [[t2i-competence-paradox-2026|metinden-görsele yetkinlik paradoksu]]. Bu listedeki tasarım taraflı çalışmalar artık kendi evine sahiptir: [[design-education]], mimari, iç mekân tasarımı ve metinden-görsele stüdyo çalışmalarını profesyonel tasarım oluşumuna ilişkin bir sayfaya çeker ve görsel sanatları, müziği ve performansı ince kalan bölüm olarak bırakır.
+- **Beden eğitimi** — şimdiye dek tek bir nitel çalışma: 16 üniversite öğretim elemanı, *gövdeleyen disiplinelliğin itici etkisi* tanımını yapar, YZ’nin bedensel düzeltme veya sezgisel bilgi sağlayamayacağını savunur ve departmanın YZ ekipmanının genel derslerden çok seçkin takımlara gittiğini bildirir ([[yang-pe-teachers-ai-perceptions-2026|Yang, Chen & Rao, 2026]]).
+- **Sanatlar (görsel sanat, tasarım, müzik, performans)** — ortaya çıkan kapsam, artık evlerine göre sıralanmıştır: [[design-education|tasarım eğitimi]] mimari, iç mimari ve metinden-görsele stüdyo çalışmalarını alır; [[music-education|müzik eğitimi]] performans, işitsel beceri ve kaydedilmiş müziğin ekonomisini alır; [[arts-and-media-education|sanat ve medya eğitimi]] görsel sanat, dijital medya ve sahne teknolojisini tutar ve kanıtın en ince olduğu yer burasıdır.
 
-Bu yetersince temsil edilmeyen disiplinler, bilgi tabanı büyüdükçe ayrılmış kavram sayfalarından ve ek makale alımından yararlanacaktır.
+Her biri, alan büyüdükçe sürekli araştırma ilgisinden yararlanacaktır.
 
 ## Yaygın yanlış anlamalar
 

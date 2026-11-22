@@ -8,7 +8,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,8 +16,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
 connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -35,7 +41,7 @@ connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning
 
 ## Giriş
 
-SDT, giderek daha fazla, hem öğrenciye hem öğretmene yönelik YZ sistemleri için teorik bir mercek olarak eğitimde YZ [[research-methods-aied|research]] kullanılmaktadır. Kuramın merkezî iddiası — motivasyonun, öğrenenlerin sahip olduğu basit bir miktar değil, toplumsal ve teknolojik çevre tarafından şekillenen bir nitelik olduğu — onu, YZ araçlarının [[student-engagement|engagement]], direnci ve [[learning-gains|learning outcomes]] nasıl etkilediğine ilişkin sorulara doğrudan ilgili kılar. Bu bilgi tabanındaki makaleler, SDT'yi üç temel bağlamda uygular: öğretmen mesleki gelişimi, YZ aracılı öğrenme katılımı ve duygusal hesaplama.
+SDT, giderek daha fazla, hem öğrenciye hem öğretmene yönelik YZ sistemleri için teorik bir mercek olarak eğitimde YZ [[research-methods-aied|research]] kullanılmaktadır. Kuramın merkezî iddiası — motivasyonun, öğrenenlerin sahip olduğu basit bir miktar değil, toplumsal ve teknolojik çevre tarafından şekillenen bir nitelik olduğu — onu, YZ araçlarının [[student-engagement|engagement]], direnci ve [[learning-gains|learning outcomes]] nasıl etkilediğine ilişkin sorulara doğrudan ilgili kılar. Araştırma, SDT'yi üç temel bağlamda uygular: öğretmen mesleki gelişimi, YZ aracılı öğrenme katılımı ve duygusal hesaplama.
 
 Buradaki motivasyonel kazancı kolaylık değil özerklik taşımıştır. Üç kollu bir [[rct|RCT]], öğrenenleri kendi çözümlerini kurmaya devam ettiren ipucu-esirgeyen öğretmenin içsel motivasyonu yükselten tek kol olduğunu (2,82’ye karşı 2,42), yanıtı doğrudan sunan kısıtlanmamış ChatGPT’nin ise yükseltmediğini (2,64, p = ,076) bulmuştur ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner ve ark. (2026)]]).
 

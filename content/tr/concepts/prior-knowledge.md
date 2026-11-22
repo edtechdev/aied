@@ -1,19 +1,24 @@
 ---
 title: Önceki Bilgi
 created: "2026-10-14T21:36:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
@@ -27,7 +32,7 @@ connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-g
 
 - Derinden öğrendiğiniz bir şey ve öğrenmesi zor geldiğiniz bir şey nedir? Aradaki farkın ne kadarı başlarken zaten bildiklerinizden geldi?
 - Önceki bilgiye sahip olmak yeterli değil — bilgi etkin biçimde geri çağrılmalı ve bağlanmalıdır. Zaten bildiğiniz bir şeyi hatırlamanızın (veya hatırlayamamanızın) yeni bir şeyi ne kadar iyi öğrendiğinizi ne zaman değiştirdi?
-- Sayfa, önceki bilginin yanlış olduğunda (bir yanlış kanı) öğrenmeyle *çatışabileceğini* söylüyor. Yeni ve doğru bilgiyi öğrenmeyi zorlaştıran bir inancınız oldu mu?
+- Önceki bilgi yanlış olduğunda (bir yanlış kanı) öğrenmeyle *çatışabilir*. Yeni ve doğru bilgiyi öğrenmeyi zorlaştıran bir inancınız oldu mu?
 - Yanıtları önceden getiren üretici bir YZ, önceki bilgiyi etkinleştiren geri çağırma pratiğini atlatabilir. Size öğrenmenize yardımcı olmak için tasarlanmış bir araç, bildiklerinizi hatırlamanızı nasıl engelleyebilir?
 - Bir YZ kişiselleştirmek için önceki bilgi durumunuzu tahmin etmek zorundaysa, bu tahmin yanlış olduğunda ne olur? Bir sistemin zaten bildiklerinizi doğru biçimde bilebileceğinden ne kadar eminsiniz?
 - “Önceki bilgiyi etkinleştirmek”, öğrencilere [[teacher-role|öğretime]] geçmeden önce sadece bir soru sormaktan nasıl farklıdır? Bu etkinleştirmeyi, onu izleyen öğrenmeyi gerçekten derinleştiren şey ne olurdu?
@@ -56,6 +61,7 @@ connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-g
 - **Tasarım olarak hazırlama ve etkinleştirme.** [[genai-mindtool-generative-learning|Üretici YZ zihin-aracı yaklaşımları]], yeni içeriğe geçilmeden önce soru sorma, YZ tarafından üretilen görseller ve benzetmeler yoluyla önceki bilgiyi ve merakı etkinleştirerek “öğrenme görevini kasten hazırlar” (örneğin, “Ekosistemler hakkında zaten ne biliyorsunuz?”) — yanıt sunma yolu yerine geri çağırma-ve-bütünleştirme yolunu modelleyerek.
 - **Öğrenen modelleme ve bellek.** YZ sistemleri giderek daha fazla, öğrencilerin önceki bilgi durumunu ve boyuna belleğini modellemektedir (örneğin, özel ders belleğine önceki bilgi durumu ve unutma eğrilerini dahil ederek), her öğrenenin zaten bildiğinin üzerine inşa eden aralıklı tekrar ve uyarlamalı gözden geçirmeyi mümkün kılarak.([[nie-personavlm-long-term-personalization-2026]])
 - **Kişiselleştirilmiş uyarlama kaldıracı.** Öğrenenler önceki bilgide geniş ölçüde farklılaştığından, uyarlama bireye göre ayarlanmalıdır — öğrencileri bir sınıf ortalaması varsayımı yerine gerçek mevcut durumlarıyla karşılayan [[personalized-learning]] ve uyarlamalı [[scaffolding]] için temel bir argüman.
+- **Önceki bilgi, uyarlamalı desteği dengeleyen tek öğrenen özelliğiydi.** İçeriği zaten bilen öğrenenler daha fazla kazanç elde etti (g = ,74, %95 GA [,42, 1,05]); bilmeyenler ise (g = ,63 [,46, ,80]) — ikisi de yararlandı; bu, uyarlamanın bir ustalık tersineği sergilemek yerine gereksiz yardımı geri çekmesine uyar ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao ve ark., 2026]]).
 
 ## Eğitimde YZ tasarlamak için çıkarımlar
 

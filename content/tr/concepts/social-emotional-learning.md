@@ -1,6 +1,7 @@
 ---
 title: Sosyal-Duygusal Öğrenme
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -11,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
 connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
@@ -30,7 +35,7 @@ connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrativ
 ## Dikkate Alınması Gereken Sorular
 
 - CASEL çerçevesi beş yetkinlik sayar — öz farkındalık, öz yönetim, toplumsal farkındalık, ilişki becerileri ve sorumlu karar verme. Bunlardan hangilerini bir [[intelligent-tutoring|YZ özel öğretmeninin]] destekleyebileceğini düşünüyorsunuz ve hangilerini destekleyemeyeceğinden şüpheleniyorsunuz?
-- Sayfa sosyal-duygusal öğrenmeyi duygusal zekâdan ayırır. Okumaya başlamadan önce aradaki farkı nasıl tanımlardınız ve bu ayrımın okulların bu iki alana yaklaşımı açısından neden önemli olabilir?
+- Okumaya başlamadan önce, sosyal-duygusal öğrenme ile duygusal zekâ arasındaki farkı nasıl tanımlardınız ve bu ayrımın okulların bunlara yaklaşımı açısından neden önemli olabilir?
 - Eğer YZ aracılı öğrenmede yol bulmak için yalnızca tekniksel YZ okuryazarlığı “yetersizse”, sizce neyin eksik olduğunu düşünüyorsunuz — ve bu, öğrencileri (ya da kendinizi) nasıl hazırladığınız konusunda ne anlama geliyor?
 - YZ’ye ağır biçimde bel bağlamak bir öğrencinin toplumsallığını, empatisini veya güven duygusunu nasıl yeniden şekillendirebilir — ve bu değişimler eğitimin etkin biçimde tasarlaması gereken bir şey midir?
 - [[research-methods-aied|Araştırma]], SEL’in “tamamlaması, yerine geçmesinden çok” nitelikteki öğrenmenin ilişkisel boyutlarını desteklediğini göstermektedir. Teknolojinin bir insan ilişkisini güçlendirdiğini nerede gördünüz ve onun yerine ne zaman sessizce geçtiğine tanık oldunuz?
@@ -41,6 +46,7 @@ Sosyal-duygusal öğrenme, duygusal zekâdan (EI) yakından ayrı olarak onunla 
 
 ### SEL araştırmada nasıl görünür
 
+- **Empati, SEL’in duygusal kenarıdır ve değerlendirilmesi en zordur.** [[empathy]], onu öğretme ve ölçme üzerine kanıtları kapsar: rol yapma, VR ve LLM diyaloğu öz bildirim puanlarını yükseltir, gözlemci derecelendirmeleri tutarlı kalır ve bilgisayarla görme vekilleri gülümsemede ters döner. Bir programın işe yaradığına dair kanıt olarak bir empati kazancını ele almadan önce o kanıtları okuyun.
 - **SEC’nin YZ okuryazarlığına tümleştirilmesi:** [[sec-ai-literacy-narrative-review-2026|Palmquist ve ark. tarafından kaleme alınan anlatı incelemesi]], YZ okuryazarlığını sosyal-duygusal yetkinliklerle birleştiren tümleşik bir çerçeve önermekte; teknik yeterliliğin tek başına yetersiz olduğunu savunmakta — eğitimcilerin ve öğrencilerin YZ aracılı öğrenme ortamlarında yol alabilmek için hem teknolojik hem duygusal zekâya ihtiyaç duyduklarını, bunun da [[personalized-learning|kişiselleştirilmiş öğrenmeyi]], işbirliğini ve etik [[student-engagement|katılımı]] beslediğini belirtmektedir.
 - **Öğretmenler ve ilişkisel uygulama:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|YZ okuryazarlığı çerçeveleri]] ve [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|öğretmen-öğrenci güveni]] üzerine yapılan araştırmalar, öğrenmenin ilişkisel boyutlarını (öğretmen-öğrenci ve öğrenci-öğrenci ilişkileri) desteklediğini vurgular; YZ’nin bunları yerine geçmekten çok tamamlaması gerekir.
 - **Bir [[pedagogical-agent|pedagojik ajanın]] SEL’de taşıyabilecekleri ve taşıyamayacakları.** 108 kör biçimde değerlendirilmiş gözlem boyunca üretken YZ tabanlı bir pedagojik ajan, saygılı tonu ve rutin usul iskelelemesini sürdürmede eğitimcilerden daha tutarlı çıkarken; eğitimciler onu yansıtmayı yönlendirme ve sosyal-duygusal bilgiyi geliştirme konusunda geride bıraktı — iş bölümünü, ikameyi destekleyen bir bulgu ([[human-ai-complementarity-social-emotional-learning-2026|Raave ve ark., 2026]]).
@@ -52,7 +58,7 @@ Sosyal-duygusal öğrenme, duygusal zekâdan (EI) yakından ayrı olarak onunla 
 
 ## YZ çağı araştırmasında SEL’in potansiyel alt konuları
 
-Bilgi tabanı araştırmasını SEL etrafında, her biri kendi kanıt tabanına sahip birkaç ayrı alt konuda kümeler:
+Araştırma, SEL’i her biri kendi kanıt tabanına sahip birkaç ayrı alt konuda kümeler:
 
 ### Öz yeterlik ve güven
 Öğrencilerin YZ ile etkileşimini güçlü biçimde koşullayan temel bir SEL yetkinliği (öz farkındalık/öz yönetim). [[student-dependency-on-ai-literacy-self-efficacy-2026|YZ’ye öğrenci bağımlılığı]] (478 İsrailli YÖ öğrencisi), beceri temelli YZ okuryazarlığı boyutlarının YZ bağımlılığıyla *olumlu* yönde ilişkili bulunurken hem akademik hem YZ’ye özgü **öz yeterliğin** ve çaba [[regulation]] *olumsuz* yönde ilişkili olduğunu bulmuştur — yani yalnızca YZ okuryazarlığı bağımlılığa karşı koruma sağlamaz; bunu [[self-efficacy]] sağlar. [[self-efficacy-tutoring-learning|Cen ve ark. (EC-TEL 2026)]], başlangıç öz yeterliği daha düşük olan öğrencilerin uygulama biçiminden bağımsız olarak daha yüksek öğrenme kazanımları elde ettiğini ve özel öğretmene yönelik eğilimin özel öğretmene dayalı uygulamada daha fazla önem taşıdığını bulmuştur — uygulamayı güdü profillerine göre uyarlamanın değerini ortaya koyar. Bağlı kavramlar: [[self-efficacy]], [[motivation]], [[agency]].

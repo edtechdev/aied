@@ -1,7 +1,7 @@
 ---
 title: "YZ Okuryazarlığını Kursuma Nasıl Dâhil Edebilirim?"
 created: "2026-10-14T23:00:00-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 audience: [instructors, instructional designers]
@@ -9,7 +9,7 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 

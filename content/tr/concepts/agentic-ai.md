@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Etkenik YZ
 created: "2026-10-14T21:45:00-04:00"
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-21T09:43:50-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -25,8 +25,12 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
-connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
+connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -142,6 +146,8 @@ Etkenik YZ, alanın hâlâ boğuştuğu tek turlu GenAI olaylarının ötesine g
 
 Bu, etkenik YZ tartışmasını bilgi tabanının [[academic-integrity]] kapsamına bağlar; burada yanıt yalnızca tespit değil, değerlendirme yeniden tasarımı ve [[ai-literacy]] olarak çerçevelenir.
 
+- **Kontrol eseri de aracı tarafından yazılabilir.** [[pinto-student-ownership-ai-agents-code-2026|Pinto ve ark. (2026)]], 18 öğrenci çiftinin spesifikasyon odaklı geliştirme altında sistemler kurmasını sağlamış ve aracıların, öğrencileri kontrolde tutmak için tasarlanan spesifikasyonların %69'unu bazen birkaç sözcüklük bir istekten yazdığını bulmuştur; dolayısıyla öğreneni sertifikalaması beklenen spesifikasyonun kendisi aracı tarafından kaleme alınmıştır.
+
 ## Verimli sürtünme ve sosyal etkileşim
 
 Tüm etkenik davranışın pürüzsüz yardım olması gerekmez. [[ai-agents-constructive-conflict-design-education-2026|Saldırgan tasarım aracıları üzerine araştırma]], **yapıcı çatışma** gerçekleştiren aracıların acemi etkileşim tasarımcıları arasında anlamlı biçimde daha fazla tasarım yinelemesi, daha geniş alternatif keşfi ve daha yüksek puanlı nihai tasarımlar istediğini gösterir (N=48) — çatışma aracısının sinir bozucu ama nihayetinde yararlı olduğu bir *verimli sürtünme* dinamik. Bu, [[socratic-method|Sokratik sorgulamaya]] ve [[design-thinking]]'e bağlanır ve etkenik YZ'nin pasif kabul yerine derin yeniden değerlendirmeyi nasıl destekleyebileceğini gösterir.
@@ -160,6 +166,7 @@ Etkenik YZ'nin öğrenme çıktılarına *psikolojik* yerine teknolojik yollarla
 - **Öğretmen [[ai-literacy]]'sini inşa edin.** Öğretmenler ve tasarımcılar, bu sistemleri yapılandırmak, izlemek ve eleştirmek için etkenik YZ'nin doğru zihinsel modellerine ihtiyaç duyar — ve sorumlu kullanımı öğrenenler için modellemeye. Bu, [[teacher-ai-competency]] ve [[educational-development|fakülte gelişimi]]ne bağlanır.
 - **Eşitliği izleyin.** Etkenik araçlar erişim eşitsizse veya otomasyon en çok ihtiyacı olan öğrenenlere yönelik desteği aşındırırsa boşlukları genişletme riski taşır; [[equity-in-ai-education]] akılda tutarak tasarlayın.
 - **Ölçeklemeden önce kurumsal iskelelemeyi ayağa kaldırın.** Konuşlandırma sorusu yalnızca tasarım düzeyinde değil, kurum düzeyindedir. [[baradziej-agentic-ai-higher-education-2026|Baradziej'nin (2026)]] sentezi, yönetişim kanıtını üç direğe yoğunlaştırır: öğrenciler *ve* personel arasında [[ai-literacy]] geliştirin; büyük ölçekli konuşlandırmadan *önce* [[ethics|etik]] altyapı (veri koruma politikaları, algoritmik hesapverebilirlik ve akademik bütünlük çerçeveleri) kurun; ve insan etkenliğini koruyan pedagojik çerçevelere araç tanıdıklığının ötesinde giden yetkinlik temelli [[educational-development|eğitimci eğitimi]] sunun. Bazı ulusal bağlamlarda fakültenin yalnızca ~%6,5'i doğrudan YZ kullanımı bildirdiğinden, eğitim boşluğu sorumlu benimseme üzerinde bağlayıcı bir kısıttır.
+- **İnsanların yetki devrini nerede çizdiğini ölçün.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang ve Nedungadi (2026)]], 290 üniversite öğretim görevlisiyle rastgele atanmalı davranışsal bir seçim deneyi yürüttü: katılımcıların %92'si soru yazmayı devretmiş ancak yalnızca %20'si bir sınavı platforma gözetimsiz bırakmış ve yalnızca %5'i otomatik yayınlamayı seçmiştir. Yalnızca taslak ve onay kapılı yapılandırmalar tercih edilmiştir; dolayısıyla sınır içerik üretiminde değil, geri dönülemez platform eylemlerindedir.
 
 ### Etkenik YZ ile akademik bütünlüğü sağlama teknikleri
 

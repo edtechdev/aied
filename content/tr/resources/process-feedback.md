@@ -37,7 +37,7 @@ connected_concepts: [academic-integrity, metacognition, writing-education, self-
 
 ## Neler yapabilirsiniz
 
-Bir öğretmen, öğretmen panosundan tek bir öğrenci için bir rapor görüntüleyebilir veya bir kerede yüzlercesini yükleyebilir; öğrenciler kendi raporlarını görüntüleyebilir ve bunlar üzerinde [[metacognition|düşünebilir]]. Google Docs’ta tarayıcı eklentisiyle, projenin kendi yazma alanında ve Canvas gibi LMS düzenleyicilerinde çalışır; LTI entegrasyonu mevcuttur; bir rapor ayrıca PDF olarak indirilebilir ve herhangi bir platforma yüklenebilir. Proje, öğrenci öz değerlendirmesini yönlendirmek için yansıtma istem metinleri, YZ kullanım örüntülerini okuma konusunda rehberlik ve öğretmen kılavuzları yayımlar.
+Bir öğretmen, öğretmen panosundan tek bir öğrenci için bir rapor görüntüleyebilir veya bir kerede yüzlercesini yükleyebilir; öğrenciler kendi raporlarını görüntüleyebilir ve bunlar üzerinde [[reflection|düşünebilir]]. Google Docs’ta tarayıcı eklentisiyle, projenin kendi yazma alanında ve Canvas gibi LMS düzenleyicilerinde çalışır; LTI entegrasyonu mevcuttur; bir rapor ayrıca PDF olarak indirilebilir ve herhangi bir platforma yüklenebilir. Proje, öğrenci öz değerlendirmesini yönlendirmek için yansıtma istem metinleri, YZ kullanım örüntülerini okuma konusunda rehberlik ve öğretmen kılavuzları yayımlar.
 
 ## Kimin için
 

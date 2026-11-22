@@ -1,21 +1,26 @@
 ---
 title: "Öğretmen eğitimi"
 created: "2026-10-14T22:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 discipline: [teacher education]
-level: [adult learning, higher ed, k 12]
+level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
@@ -24,19 +29,19 @@ connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-g
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **[[educational-development|Mesleki gelişim]]** — öğretmenlerin hazırlanması ve süregelen mesleki gelişimi; öğretmen adayı eğitimini (ilk sertifikasyon programları) ve çalışan öğretmenlerin mesleki gelişimini kapsar. Eğitimde YZ [[research-methods-aied|araştırmasında]], öğretmen eğitimi merkezi bir kaygı haline gelmiştir; çünkü öğretmenlerin YZ okuryazarlığı, teknolojik-[[pedagogy|pedagojik]] bilgisi, [[ethics|etik]] akıcılığı ve YZ'yi öğretime bütünleştirme hazırbulunuşu, sınıflarda YZ benimsemesinin başarılı olup olmadığını belirler. Bu kavram, hem gelecekteki hem de çalışan öğretmenlerin hazırlanışını, bilgisini, inançlarını ve uygulamasını YZ'nin nasıl yeniden şekillendirdiğine dair bilgi tabanının önemli kapsamını düzenler.
+> **[[educational-development|Mesleki gelişim]]** — öğretmenlerin hazırlanması ve süregelen mesleki gelişimi; öğretmen adayı eğitimini (ilk sertifikasyon programları) ve çalışan öğretmenlerin mesleki gelişimini kapsar. Eğitimde YZ [[research-methods-aied|araştırmasında]], öğretmen eğitimi merkezi bir kaygı haline gelmiştir; çünkü öğretmenlerin YZ okuryazarlığı, teknolojik-[[pedagogy|pedagojik]] bilgisi, [[ethics|etik]] akıcılığı ve YZ'yi öğretime bütünleştirme hazırbulunuşu, sınıflarda YZ benimsemesinin başarılı olup olmadığını belirler. Kanıt, YZ'nin hem gelecekteki hem de çalışan öğretmenlerin hazırlanışını, bilgisini, inançlarını ve uygulamasını nasıl yeniden şekillendirdiğini kapsar.
 
 ## Dikkate Alınması Gereken Sorular
 
 - Buradaki öğretmen eğitimi öğretmen adayı eğitimini (sertifikasyon programlarındaki gelecekteki öğretmenler) ve çalışan öğretmenlerin mesleki gelişimini kapsar. İkisinden hangisinin YZ sınıflarına hazırlanma konusunda daha büyük zorlukla karşı karşıya olduğunu ve nedenini düşünüyorsunuz?
 - Sayfa, öğretmen eğitiminin öğretmenleri yalnızca YZ araçlarını kullanmaya değil, onları anlamaya, değerlendirmeye ve etik biçimde bütünleştirmeye hazırlaması gerektiğini — 'öğretmen olmanın anlamını yeniden tanımlayan' bir dönüşümü — öne sürüyor. Yeniden tanımın bir sertifika programının öğrettiklerini nasıl değiştirmesi gerektiğini düşünüyorsunuz?
 - AI-TPACK gibi çerçeveler klasik TPACK modelini bir YZ ve etik boyutu ekleyerek genişletir. Teknolojik-pedagojik-içerik bilgisinin 'YZ boyutu'nun bir [[conversational-ai|sohbet robotunu]] işletmeyi ötesinde gerçekte ne içermesi gerektiğini düşünüyorsunuz?
-- Sayfada atıfta bulunulan 55 çalışmanın [[meta-analysis-systematic-review|kapsam incelemesi]], YZ'nin öğretmen adaylarının öğretim tasarımını, yansıtmasını ve [[critical-thinking|eleştirel düşünmesini]] güçlendirdiğini buluyor. Ama YZ bunların bir kısmını onlar için yapabiliyorsa, öğretmen eğitiminde kullanımı ne zaman beceri inşa eder, ne zaman ihtiyaç duyacakları yargının yerini alır?
+- Öğretmen adayı eğitiminde YZ üzerine yapılmış 55 çalışma, öğretim tasarımı, yansıtma ve [[critical-thinking|eleştirel düşünmeyi]] daha iyi bildiriyor. Ama YZ bunların bir kısmını onlar için yapabiliyorsa, öğretmen eğitiminde kullanımı ne zaman beceri inşa eder, ne zaman ihtiyaç duyacakları yargının yerini alır?
 - Öğretmen eğitimi programını YZ çağı için yeniden tasarlıyor olsaydınız, her gelecekteki öğretmenden neyi deneyimlemesini isterdiniz — ve neleri YZ'ye devretmekten bilerek alıkoyardınız?
 
 ## Giriş
 
-Öğretmen eğitimi, bilgi tabanının birkaç dalının kesişiminde yer alır: bir disiplin/alan olmasının ([[medical-education]] ve [[humanities-education]] gibi) yanı sıra [[teacher-role]], [[tpack]], [[teacher-ai-competency]] ve [[ai-literacy]] genel kavramlarından da yararlanır. YZ çağında öğretmen eğitimi, öğretmenleri yalnızca YZ araçlarını kullanmaya değil onları anlamaya, değerlendirmeye ve etik biçimde bütünleştirmeye hazırlamalıdır — öğretmen olmanın anlamını yeniden tanımlayan bir dönüşüm. [[learning-sciences|Öğrenme bilimleri]], bu oluşumun taşıması gereken bilgiyi sağlar: bu alanın insanların nasıl öğrendiğini ve öğrenme ortamlarının nasıl tasarlanması gerektiğini incelediği yerde, öğretmen eğitimi, bu tür kanıtların bir öğretmenin tasarlama, öğretme ve değerlendirme kapasitesi olarak inmek zorunda olduğu mesleki oluşumdur.
+Öğretmen eğitimi, birkaç araştırma dalının kesişiminde yer alır: bir disiplin/alan olmasının ([[medical-education]] ve [[humanities-education]] gibi) yanı sıra [[teacher-role]], [[tpack]], [[teacher-ai-competency]] ve [[ai-literacy]] genel kavramlarından da yararlanır. YZ çağında öğretmen eğitimi, öğretmenleri yalnızca YZ araçlarını kullanmaya değil onları anlamaya, değerlendirmeye ve etik biçimde bütünleştirmeye hazırlamalıdır — öğretmen olmanın anlamını yeniden tanımlayan bir dönüşüm. [[learning-sciences|Öğrenme bilimleri]], bu oluşumun taşıması gereken bilgiyi sağlar: bu alanın insanların nasıl öğrendiğini ve öğrenme ortamlarının nasıl tasarlanması gerektiğini incelediği yerde, öğretmen eğitimi, bu tür kanıtların bir öğretmenin tasarlama, öğretme ve değerlendirme kapasitesi olarak inmek zorunda olduğu mesleki oluşumdur.
 
 Çapraz düzeyli kanıtlar tasarım önceliğini keskinleştirir: [[pedagogy-first-technology-second-teacher-knowledge-2026|46 öğretmen ve 2.832 ortaöğretim öğrencisinin çok düzeyli bir çalışması]], pedagojik YZ bilgisinin (TPAIK) — teknik YZ bilgisi değil — öğrencilerin sosyal iyilik için YZ algısını ve YZ'yi öğrenme niyetlerini yönlendirdiğini buldu. Öğretmen eğitimi bu nedenle "önce pedagoji, sonra teknoloji" ilkesiyle tutarlı biçimde, araç yeterliliğinin önünde *YZ ile ve YZ hakkında nasıl öğretileceğini* ön plana çıkarmalıdır.
 
@@ -80,8 +85,9 @@ Bir heutagojik damar bu tasarım önceliğinin yanında uzanır: [[heutagogical-
 - **Yaparak değil çalışarak inşa edilen kapasite.** 122 çalışan öğretmenin TPACK temelli yapısal modeli, YZ'nin fen ve yeşil enerji görevlerinde gerçek kullanımının ve SKE ile uyumlu materyaller geliştirmeye katılımın, YZ bütünleştirme yeteneğini öngördüğünü, soyut YZ bilgisi ile YZ'ye tutumların öngörmediğini buldu ([[riandi-teacher-ai-green-energy-education-2026|Riandi ve ark. (2026)]]).
 - **YZ üretimi içeriğin işbirlikçi [[ai-ed-evaluation|değerlendirmesi]] mesleki gelişim olarak.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher ve Barak (2026)]], 60 [[k-12|ortaokul]] fen öğretmeninin ChatGPT üretimi değerlendirme sorularını disipliner, pedagojik ve müfredat yargıları aracılığıyla derecelendirdiği bir atölyeyi bildirir. İşbirlikçi değerlendirmenin kendisi mesleki gelişim işlevi gördü; öğretmenlere YZ çıktısına kavramsal kesinlik ölçütlerini uygulamada yardımcı oldu ve YZ içeriğinin [[misconceptions]]'ı güçlendirme riskini yüzeye çıkardı — öğretmenleri pasif tüketiciler değil [[generative-ai|üretici YZ]] materyalinin eleştirel değerlendiricileri olarak konumlandırdı.
 - **Dil eğitimcileri için yapılandırılmış mesleki gelişim seyrek ama etkilidir.** 23 çalışmanın [[li-language-educators-genai-review-2026|sistematik bir incelemesi]] (Li ve ark. 2026), yalnızca dahil edilen üç çalışmanın yapılandırılmış mesleki gelişim bildirdiğini — gömülü bir dilbilgisi kursu modülü, devlet bir EMI programı ve gömülü sohbet robotu sorgulaması — buldu; ancak hepsi bilgi, güven ve kimlik yeniden çerçevelemesinde kazanımlarda birleşti, eğitimcilerin üretici YZ'ye bakışını "değiştirme riski"nden asistan/güçlendiriciye kaydırdı. İnceleme, mesleki gelişimin teknik beceri inşasını pratik bilgelikle eşlemesi gerektiğini savunur; [[ai-literacy|farkındalık yaratmadan]] ve etikten, uygulamalı araç ustalığına ve YZ ile güçlendirilmiş derslerin ortak tasarımına geçerek, ve iki aşamalı "arka uç sonra sınıf" uygulama stratejisi önerir.
+- **Eğitim, aracın kendisi değil, kazanımı taşıdı.** Brezilya'daki 19 ilkokul sınıfında, öğretmenlerine tek seferlik 50 dakikalık bir sayısal okuryazarlık eğitimi verilenlerin öğrencileri kontrol grubunu geride bıraktı; öğretmen aracılığıyla bir YZ sistemi eklemek ise başka bir öğrenme kazanımı üretmedi ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues ve ark. (2026)]]).
 
-Bilgi tabanının matematik için çerçeve güdümlü üretici YZ mesleki gelişiminin en net örneği, Rhodes'ın 4P çerçevesi üzerine kurulu on etkileşimli modülü tamamlayan kırsal ve yetersiz kaynaklı bölgelerden sekiz çalışan öğretmenin çalışmasıdır ([[bicer-genai-pd-math-creativity-2026]]). Burada mesleki gelişim tasarımının başka türlü eksik olduğu iki tasarım mekanizması sağlar: kasten sönen iskeleleme (erken açık rehberlik, sonra gerekçelendirme, genelleme ve görev tasarlama talepleri) ve Modül 6-10 boyunca simüle edilmiş öğrenci akıl yürütmesi; ayrıca MC, CK ve PCK'nın birlikte hareket ettiği bulgusu — katılımı yalnızca ölçerek, öğretmen bilgisini veya öğrenci öğrenmesini ölçmeden.
+Matematik için çerçeve güdümlü üretici YZ mesleki gelişiminin en net örneği, Rhodes'ın 4P çerçevesi üzerine kurulu on etkileşimli modülü tamamlayan kırsal ve yetersiz kaynaklı bölgelerden sekiz çalışan öğretmenin çalışmasıdır ([[bicer-genai-pd-math-creativity-2026]]). Burada mesleki gelişim tasarımının başka türlü eksik olduğu iki tasarım mekanizması sağlar: kasten sönen iskeleleme (erken açık rehberlik, sonra gerekçelendirme, genelleme ve görev tasarlama talepleri) ve Modül 6-10 boyunca simüle edilmiş öğrenci akıl yürütmesi; ayrıca MC, CK ve PCK'nın birlikte hareket ettiği bulgusu — katılımı yalnızca ölçerek, öğretmen bilgisini veya öğrenci öğrenmesini ölçmeden.
 - **Nitelik sonrası programlar.** Çalışan fen eğitimcilerinin YZ okuryazarlığı ve kullanımı, YZ ile ilişkili nitelik sonrası programların tasarımını besler.([[science-educators-ai-literacy-postqualification-2026]])
 
 - **Öğretmen tasarım çalışmasında YZ desteği ve rehberliği.** [[pishtari-teacher-ai-training-learning-design-2026|Pishtari, Gnadlinger & Ley (2026)]], 13 yükseköğretim öğretmeninden yarım günlük bir programda YZ yok, YZ-sohbet robotu ve YZ-artı-eğitim koşullarında etkinlikler tasarlamasını istedi. YZ erişimi, üst düzey (Bloom) görev elde edilişini yükseltti ve algılanan bilişsel çabayı düşürdü; sonraki etkileşim-eğitim oturumu kaliteyi plato yaptı ama çabayı biraz yükseltti (germane karşı yabancı yük çözümsüz). Bu, YZ çağı öğretimi için mesleki gelişimin hem pedagoji temelli tasarım çerçevelerine (Bloom, [[icap-framework|ICAP]]) hem de yapılandırılmış sohbet robotu etkileşim stratejilerine ihtiyaç duyduğunu çerçeveler; kalite kazanımlarının pedagojik kararların YZ'ye [[cognitive-offloading|yüklenmesini]] maskeleyebileceği konusunda uyarır.

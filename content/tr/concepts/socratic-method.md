@@ -1,7 +1,8 @@
 ---
 title: Sokratik Yöntem
 created: "2026-10-14T23:00:00-04:00"
-connected_resources: [matt-pocock-skills]
+updated: "2026-11-21T17:00:00-05:00"
+connected_resources: [matt-pocock-skills, context-aideatext]
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -11,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
 connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
@@ -32,7 +37,7 @@ connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-s
 - Bir öğretmenin (ya da arkadaşınızın) sorunuza başka bir soruyla yanıt verip bunun gerçekten düşünmenize yardım ettiği bir anı düşünün. Onu işe yarayan neydi ve ne zaman yalnızca can sıkıcı veya kaçamak gibi geldi?
 - Sokratik yaklaşım, ‘verimli zorlanma’yı kışkırtmak için doğrudan yanıt vermemektedir. Derin öğrenme için zorlanmanın gerekli olduğuna inanıyor musunuz, yoksa bazen yalnızca gereksiz bir sürtünme midir — ve aradaki farkı nasıl anlardınız?
 - Bir YZ Sokratik özel öğretmeni, ne zaman yönlendireceğine, ne zaman ipucu vereceğine ve ne zaman doğrudan yanıt vereceğine öğrencinin gerçek zamanlı sinyallerine dayanarak karar vermelidir. Bir sistemin (ya da bir insanın) belirli bir anda hangi hamleyi yapacağını nasıl bildiğini düşünüyorsunuz?
-- Sayfa, hüsrana uğramış bir öğrencinin Sokratik sorgulamaya dönmeden önce kısa bir doğrudan yanıta ihtiyaç duyabileceğini not eder. Bunun yalnızca soru soran tek kalıp bir yaklaşımın sınırları hakkında ne ima ettiğini düşünüyorsunuz?
+- Yalnızca soru soran bir özel öğretmen, önce doğrudan bir yanıta ihtiyaç duyan bir öğrenciyi hüsrana uğratabilir. Bunun yalnızca soru soran tek kalıp bir yaklaşımın sınırları hakkında ne ima ettiğini düşünüyorsunuz?
 - Yalnızca soru soran bir [[conversational-ai|chatbot]] ölçülebilir akıl yürütme kazanımları üretebiliyorsa, insan bir mentorla kurulan özgün Sokratik diyaloga kıyasla ne kaybedilebilir — ve ne kazanılabilir?
 
 ## Giriş
@@ -54,7 +59,7 @@ Yanıt veren doğrudan öğretim YZ özel öğretmenlerinin aksine, Sokratik YZ 
 Sokratik yaklaşım, [[llm-training-and-fine-tuning|EduQwen]] ilkesini doğrudan somutlaştırır: **“cevap verme”den çok “yönlendirme”yi ödüllendirir.** Ancak gerçek zamanlı Sokratik kalibrasyon, kâğıt üzerindeki kıyaslama pedagojisinden daha zordur: EduQwen, çoktan seçmeli bir [[benchmark]] doğru yönlendirme için optimize edilirken, canlı bir Sokratik özel öğretmeni *ne zaman* yönlendireceğine, *ne zaman* ipucu vereceğine ve *ne zaman* yanıt vereceğine — öğrencinin gerçek zamanlı sinyallerine dayanarak — karar vermelidir. [[affective-tutoring|Affective state]] kritik bir dengeleyicidir: hüsrana uğramış bir öğrenci, Sokratik kipe dönmeden önce kısa bir doğrudan yanıta ihtiyaç duyabilir.
  Daha katı bir varyant öğretmeyi tamamen kaldırır: yalnızca yoklayan bir giriş fiziği ajanı, öğrencilerden doğru bir öngörüyü değiştirilmiş tek bir değişkene karşı savunmalarını ister (mağara saptaması) ve doğru yanıttan sonraki iletiyi yanlış yanıttan sonraki iletiden ayırt edilemez tutar ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
-Bu sayfanın başka türlü kapsamadığı bir alanda ipucu tasarımının belgelenmiş bir biçimi vardır. CEFR A1–B1 düzeyinde 58 üniversite öğrencisiyle yürütülen ikinci dil revizyon görevinde tasarım, yönlendirilmiş ipuçları vermiş ve öğrenenlerden düzeltmeyi almak yerine çıkarsamalarını istemiştir ([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). Azalmış bilişsel yük ve kişiselleştirilmiş revizyon yolları, ağırlıklı olarak bir ipucuna göre hareket edecek kadar ön bilgiye zaten sahip öğrenenler için bildirilmiş ve geri bildirim derinliği öğrencinin ne kadar iyi istek metni yazdığına göre değişmiştir. Dolayısıyla düzeltmeyi saklamanın bir yeterlik tabanı vardır; bu, kalibrasyon sorununun bir çalışmanın ölçebileceği biçimidir.
+İpucu tasarımının belgelenmiş bir biçimi farklı bir alanda vardır. CEFR A1–B1 düzeyinde 58 üniversite öğrencisiyle yürütülen ikinci dil revizyon görevinde tasarım, yönlendirilmiş ipuçları vermiş ve öğrenenlerden düzeltmeyi almak yerine çıkarsamalarını istemiştir ([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). Azalmış bilişsel yük ve kişiselleştirilmiş revizyon yolları, ağırlıklı olarak bir ipucuna göre hareket edecek kadar ön bilgiye zaten sahip öğrenenler için bildirilmiş ve geri bildirim derinliği öğrencinin ne kadar iyi istek metni yazdığına göre değişmiştir. Dolayısıyla düzeltmeyi saklamanın bir yeterlik tabanı vardır; bu, kalibrasyon sorununun bir çalışmanın ölçebileceği biçimidir.
 
 ## Etkililiğe dair kanıtlar
 
@@ -77,6 +82,7 @@ Geniş kayıtlı bir giriş mekaniği dersinde kullanılan özel bir Sokratik YZ
 - Sokratik diyalog çaba gerektirir; öğrenciler verimlilik için doğrudan yanıtları tercih edebilir
 - Sohbet robotu, insan bir özel öğretmenin ilişkisel desteğini sağlayamaz
 - Bazı öğrenciler çözümsüz Sokratik döngülere takılıp kalabilir
+- Sunum, tasarımın belirttiğinden daha değişken olabilir. Bir C++ dersinde, sohbet robotunun yansıtıcı veya uygulama soruları sorup sormadığını soran madde, ankette en düşük ve en değişken madde olmuş; 5 üzerinden 3,86 (SS 1,24). Yazarlar bunu, sistem isteminde adlandırılan şeyin tutarsız sunumu olarak okur ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware ve Jiang (2026)]]).
 
 ### Bir karşıt bulgu: kısıtlı olmayan erişim, kısıtlı kiplerden üstün başarabilir
 
@@ -90,7 +96,7 @@ Kısıtlamaya ilişkin en güçlü nedensel destek tersi yönde işaret eder: bi
 
 Sadakat yapılandırmayla garanti edilmez: amaç için yapılandırılmış bir ISLE kolaylaştırıcısı, öğrencilerin tersine çevirdiği tahmin öncesi test sırasını geri getirmiş; ancak “hangisinin daha ağır olduğunu sadece bize söyleyin” diye zorlandığında hiç kimsenin ölçmediği kütle değerleri üretmiş ve sorgulamadan veri uydurmaya geçmiştir ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
 
-## Bilgi tabanındaki araştırmalar
+## Araştırma kanıtları
 
 **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]**, Sokratik yöntemin ölçekte üretken YZ aracılığıyla işletime konabileceğine dair ampirik kanıt sunar; aynı anda bir [[teacher-role|teaching]] aracı ve [[learning-analytics]] için veri toplama enstrümanı olarak işlev görür. Geçmişteki kural temelli Sokratik sistemlerin aksine, [[llm]] temelli yaklaşımlar soru dizilerini öğrenci yanıtlarına dayanarak dinamik olarak uyarlayabilir.
 

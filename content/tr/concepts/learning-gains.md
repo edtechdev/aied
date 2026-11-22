@@ -1,5 +1,6 @@
 ---
 title: Öğrenme Kazanımları
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T22:03:00-04:00"
 type: concept
 assessment: [assessment]
@@ -10,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T02:34:45-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
-connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
+connected_articles: [absent-cognitive-baseline-2026, ai-assisted-collaborative-learning-model-dbr, ai-changing-teaching-workflows, ai-education-effects-second-order-meta-analysis-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-feedback-critical-thinking-writing-2026, ai-literacy-assessment-misalignment, ai-supported-instruction-stem-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, burneo-can-edtech-close-learning-gaps-2026, ccct-cooperative-learning-technique, chatgpt-hints-human-tutor-learning-gains-2024, chen-genai-programming-understanding-2026, computational-thinking-aica-2026, contractor-learning-impact-generative-ai-2026, epistemological-audit-genai-meta-analyses-2026, gardella-copilot-fast-forgettable-2026, genai-can-harm-teaching-rct-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, generative-ai-guardrails-harm-learning, generative-ai-reduced-study-time-math, gpt4-feedback-student-activation-2026, jost-llm-programming-education-learning-outcomes, kestin-ai-tutoring-outperforms-active-learning-rct-2025, learner-ai-interaction-patterns-oop, liu-ai-literacy-interventions-meta-analysis-2026, making-ai-tutoring-productive-mastery-math-2026, mujib-ai-ibl-creative-math-2026, oecd-digital-education-outlook-2026, one-click-away-khanmigo-two-year-school-experiment-2026, oneill-presumed-effective-meta-analysis-2026, oppenheimer-llms-collaborative-learning-partners-2026, pedagogy-ai-mistakes, rachatasumrit-example-problem-ratio-2026, robot-assisted-language-learning-meta-analysis-2026, rodrigues-aied-unplugged-numeracy-2026, scaffolding-srl-feedback-genai-human-peers, smith-online-pretests-generative-ai-physics-2026, stanford-evidence-base-ai-k12-2026, stromberg-generative-ai-learning-penalty-secondary-2026, studentbench-ai-human-tutoring-gre-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, weidlich-chatgpt-effect-search-cause-2025, young-people-learning-generative-ai-rapid-review-2026, zhao-genai-higher-order-thinking-meta-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -49,11 +54,13 @@ Bilgi tabanından temel bulgular:
 - **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]**, uyarlanabilir ve YZ destekli EdTech’in ortalama olarak öğrenmeyi ~0,125 standart sapma yükselttiğini kestirmek üzere 14 RCT’den 191 etki büyüklüğünü havuzlaştırır — eğitim RCT’lerinin medyanının üzerinde — oysa üretken YZ için önceki uyarlanabilir araçlara göre hiçbir avantaj bulmaz.
 - **Kazanımlar sabitler değil, içerik–uygulama etkileşimleridir.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]], en uygun örnek–problem oranının bilgi içeriğine bağlı olduğunu gösterir: saf [[retrieval-spacing-interleaving|geri çağırma alıştırması]], kelimesi kelimesine olgular için daha yüksek kazanımlar sağlarken örnek bütünleşmeli pratik (çözümlenmiş örneklerle problemleri dönüşümlü olarak sunmak) genelleştirilebilir beceriler için daha yüksek kazanımlar sağlar — “daha fazla pratik”in her zaman daha iyi olmadığına ve kazanımların alıştırma programının öğrenilen bilgi bileşenine eşleştirilmesine bağlı olduğuna doğrudan kanıt.
 
-### YZ çağının ölçüm sorunu
+## YZ çağının ölçüm sorunu
 
 Bilgi tabanının öğrenme kazanımı araştırmasındaki temel tema, **üretken YZ’nin öğrenme kazanımı üretmeden görünür performansı şişirebilmesi** — ve bunun görünür olup olmadığını sonuç ölçüsü seçiminin belirlemesidir. [[generative-ai-reduced-study-time-math|Research]] ve [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] keskin bir ayrışma gösterir: YZ kullanımı, YZ destekli ödevlerdeki puanları iyileştirirken gözetimli, kapalı kitap, yardımsız ölçümlerdeki puanları *düşürür*. [[genai-performance-vs-learning|Performance-vs-learning research]] ve [[young-people-learning-generative-ai-rapid-review-2026|rapid reviews]] dolayısıyla anında YZ destekli performansı kalıcı öğrenmeden ayırır ve gerçek öğrenme kazanımlarının güvenilir sinyali olarak yardımsız toplu ölçüleri (bkz. [[summative-assessment]]) ele alır.
 
-### Etkililik araştırması ne gösterir
+Taban çizgisi de şişkin olabilir. 39 fizik ön test sorusunda, doğru yanıtlar 2024 sonbaharından bu yana en fazla %36 arttı — ortalama kabaca %15 — ve aracın yanlış yanıt verdiği sorularda düştü; dolayısıyla bir ön/son karşılaştırması, öğretimin hiç üretmediği bir kazancı kaydedebilir ([[smith-online-pretests-generative-ai-physics-2026|Smith ve ark., 2026]]). Başlangıç noktasını sabitleyen ön testin, son testle aynı yardımsız koşullara ihtiyacı vardır.
+
+## Etkililik araştırması ne gösterir
 
 Bilgi tabanının [[rct|RCTs]]leri, [[meta-analysis-systematic-review|meta-analyses]] ve alan çalışmaları boyunca **öğrenme etkililiğinin** (hangi YZ müdahalelerinin gerçekten öğrenme kazanımları ürettiği ve bunların ne kadar büyük olduğu) tutarlı bir tablosu ortaya çıkar:
 
@@ -73,7 +80,7 @@ Bilgi tabanının [[rct|RCTs]]leri, [[meta-analysis-systematic-review|meta-analy
 
 - **YZ mentorluğu, standart test kazanımlarında uzman insan mentorluğuna eşdeğer olabilir.** 2.383 katılımcılı bir değerlendirmede, havuzlanan YZ mentorluğu GRE öğrenme kazanımlarında uzman insan mentorluğuyla istatistiksel olarak eşdeğerdi (p = ,015), ikisi de mentorsuz kontrol grubunun üzerindeydi; yazarlar, mentorları karşılaştırmak için birim olarak kazanımın yüzdelik puanı başına maliyeti öneriyor ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
-### YZ’nin öğrenme ve başarı üzerindeki etkilerinin alan düzeyinde haritası
+## YZ’nin öğrenme ve başarı üzerindeki etkilerinin alan düzeyinde haritası
 
 Bilgi tabanının derlemi — meta analizleri, RCT’ler, yarı deneyler ve alan çalışmaları — incelikli, zaman zaman çelişkili bir tabluyu destekler. Bulgular olumlu, olumsuz ve koşullu etkilere kümelendi.
 
@@ -103,7 +110,7 @@ Bilgi tabanının derlemi — meta analizleri, RCT’ler, yarı deneyler ve alan
 - **YZ-IBL yaratıcılığı destekler ama problem çözmeyi desteklemeyebilir.** [[mujib-ai-ibl-creative-math-2026|Mujib et al.]], yaratıcı performansı ve tutumları iyileştirdi ama eleştirel problem çözmeyi iyileştirmedi.
 - **[[student-experience|Student experience]] ölçülen kazanımlardan ayrışır.** [[absent-cognitive-baseline-2026|AI-native students overestimate their learning]] ve [[ai-literacy-assessment-misalignment|self-report misaligns with performance]] — kazanım algıları onların güvenilir kanıtı değildir.
 
-### Meta analitik öğrenme kazancı kestirimleri şişkindir — temkinli okuyun
+## Meta analitik öğrenme kazancı kestirimleri şişkindir — temkinli okuyun
 
 Bu sayfanın etkililik özetine hâkim olan öğrenme kazancı sayıları — özellikle meta analizlerden gelen havuzlanmış etki büyüklükleri — güçlü bir uyarıyla okunmalıdır: alanın olumlu sentez kestirimlerini yayın yanlılığı, yapı tutarsızlığı ve yöntemsel kısayollarla şişirdiğini gösteren bir meta araştırma dalgası vardır.
 
@@ -116,21 +123,13 @@ Bu sayfanın etkililik özetine hâkim olan öğrenme kazancı sayıları — ö
 
 **Yukarıdaki kazanım sayıları için özet:** büyük havuzlanmış YZ etki büyüklüklerini nokta kestirimleri değil üst sınırlar olarak ele alın. İyi tasarlanmış [[rct|RCTs]]lerden ve yardımsız, standartlaştırılmış sonuç ölçülerine sahip alan çalışmalarından gelen öğrenme kazancı kanıtını tercih edin (yukarıda atıf yapılan koruma rayı RCT’si, Khanmigo ve NUMI deneyleri ve Dünya Bankası EdTech meta analizi) ve meta analitik kazanımları sentez kalitesi iyileşene kadar geçici ve muhtemelen olduğundan yüksek olarak okuyun. Sorun aynı zamanda düzeltmeden de büyüktür: denetlenen bir meta analizinin geri çekilmesinden sonra yayımlanan makalelerin %60’ı, onu büyük ChatGPT öğrenme kazanımları için yetkili destek olarak atıfta bulunmaya devam etti ve hiçbiri geri çekilmeyi kabul etmedi; bu nedenle geri çekilmiş bir kestirim yayılmaya devam eder. Meta analitik kanıt krizini artık ayrıntılı biçimde belgeleyen sayfa [[limitations-in-aied-research|Limitations in AIEd Research]] sayfası budur.
 
-### Önemli olanı ölçmek
+## Önemli olanı ölçmek
 
 Öğrenme kazanımları [[assessment-validity]]’ya bağlanır — [[assessment|assessments]] daha derin anlayışı yakalayamazsa, öğrenme kazancı ölçüleri yanıltıcıdır. Aynı zamanda [[cognitive-offloading|Over-Reliance]] ve [[cognitive-offloading]]’a kesişir; burada görünür performans iyileşmeleri öğrenme kayıplarını maskeleyebilir ve nedensel öğrenme kazanımlarını saptamak için altın standart tasarım olan randomize deneyler olan [[rct]]’ye ve alanın etkililik kanıtını kurmak üzere çalışmalar boyunca etki büyüklüklerini havuzlayan [[meta-analysis-systematic-review]]’ya da bağlanır.
 
 - **Hata temelli YZ [[pedagogy]]’sinden önemli test-öncesi/test-sonrası kazanımlar:** [[pedagogy-ai-mistakes|Hosseini (2026)]]’nin veri tabanı tasarımı kursu (n=13), özdeş test-öncesi/test-sonrası maddelerde büyük, önemli öğrenme kazanımları gösterdi (ortalama 4,25→6,83/7, Cohen’in *d*’si = 1,49, *p* < ,001); kazanımlar önceki YZ ya da veri tabanı güveniyle ilişkisizdi — YZ bütünleşmeli eleştiri-inceleme tasarımı, başlangıçtaki algılardan bağımsız olarak öğrencilere yarar sağladı.
 
-## Yaygın yanlış anlamalar
-
-**“Puanlar yükseldi, öyleyse müdahale öğrenme üretti.”** Bu, sayfanın önlemek için var olduğu tanımsal hatadır ve alan verileri aynı anda iki yönü de gösterir: YZ kullanımı YZ destekli ev ödevlerinde puanları iyileştirirken gözetimli, kapalı kitap ve desteksiz ölçümlerde puanları *düşürür* ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Şişmenin görünür olup olmayacağını ölçüm seçimi belirler; dolayısıyla YZ’ye izin verilen bir görevdeki kazanç, görev performansına ilişkin bir iddiadır, [[genai-performance-vs-learning|öğrenmeye]] ilişkin değil.
-
-**“Meta-analiz meseleyi çözer: etki büyüktür.”** Toplama yönü ile toplama büyüklüğü farklı olgulardır ve büyüklük incelemeden nadiren sağ çıkar. [[genai-meta-analysis-programming-learning|Programlamada üretken YZ meta-analizi]], büyük *üretkenlik* kazanımlarının yanında **anlamlı bir öğrenme kazanımı olmadığını** (g ≈ 0) bulur. [[burneo-can-edtech-close-learning-gaps-2026|Dünya Bankası meta-analizi]], 14 RKT’den 191 etki büyüklüğünü birleştirerek uyarlanabilir ve YZ etkin eğitim teknolojileri için yaklaşık 0,125 sd tahmin etmektedir; bu, eğitim RKT’lerinin ortancasına göre saygıdeğer bir değerdir, ancak **üretken YZ’nin önceki uyarlanabilir araçlara üstünlüğü yoktur**. GPT dönemi çalışmalarını kategorik bir sıçrama olarak sunmak, birleştirilmiş kanıtın gösterdiğini abartmaktadır.
-
-**“Daha fazla alıştırma ve daha fazla [[personalized-learning|kişiselleştirme]] her zaman yardımcı olur.”** Bir kazanımın büyüklüğü ne kadar desteğin sağlandığına değil neyin eğitildiğine bağlıdır. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit ve ark. (2025)]], çözümlü örnekler ile problemlerin en iyi karışımının hedef beceriyle birlikte kaydığını bildirir: saf geri çağırma alıştırması kelimesi kelimesine olgular için daha yüksek kazanım sağlarken örneklerle problemleri dönüşümlü sunmak genellenebilir beceriler için daha yüksek kazanım sağlar. [[lak2026-hint-button-unproductive-use|İpucu düğmesi araştırması]] ise ipucu hacminin öğrenmeyle negatif ilişkili olduğunu bulur. Bir bilgi bileşenine yardımcı olan aynı "destek", diğerini boşa harcayabilir.
-
-**“Gecikmeli bir son test sonucu otomatik olarak kalıcı öğrenme sonucudur.”** Gecikme gereklidir ve yeterli değildir. Bu derlemde kalıcı öğrenmeyi ayırt eden şey, gecikmeli koşullar altında *desteksiz* ölçümdür ve etkinin, aktarım sırasında yok olacak iskele tarafından taşınmadığına dair kanıttır.
+En yeni deneyler, bu örüntünün bir çelişkisini değil bir sınırını işaretler. ChatGPT verilen yeni başlayanlar, ChatGPT almayan yeni başlayanlardan çok daha fazla üretken testten geçti (410,7’ye karşı 80,7) ama anlayışları iyileşmedi; orta düzey öğrenciler ise hiç kazanç sağlamadı ([[chen-genai-programming-understanding-2026|Chen ve ark., 2026]]). İkinci bir deney, Copilot’ın 14,09 puanlık avantajının bir hafta sonra yapılan yardımsız yeni testte kaybolduğunu buldu ([[gardella-copilot-fast-forgettable-2026|Gardella ve ark., 2026]]). Kalıcılık bu literatürde istisnadır; bu nedenle kalıcılık bildiren bir çalışma, YZ yardımı hakkında değil, görev ve destek tasarımı hakkında kanıttır.
 
 ## Uygulama için çıkarımlar
 
@@ -151,3 +150,12 @@ Bu sayfanın etkililik özetine hâkim olan öğrenme kazancı sayıları — ö
 - Sonuç ölçütünü önceden kaydedin ve YZ’ye izin verilen mi yoksa desteksiz mi olduğunu belirtin. Bulgunun yönü yalnızca bu seçimle tersine dönebilir.
 - Etki büyüklüklerini soyut bir "geleneksel yaklaşımlar"a değil, adlandırılmış bir karşılaştırmaya göre raporlayın. Dünya Bankası sonucu yalnızca karşılaştırma sınıfını adlandırdığı için yorumlanabilirdir.
 - Performans şişmesini öğrenme yer değiştirmesinden açıkça ayırın; çünkü ikisi farklı çözümler ima eder: görevin yeniden tasarımı ile yeniden öğretim.
+## Yaygın yanlış anlamalar
+
+**“Puanlar yükseldi, öyleyse müdahale öğrenme üretti.”** Bu, sayfanın önlemek için var olduğu tanımsal hatadır ve alan verileri aynı anda iki yönü de gösterir: YZ kullanımı YZ destekli ev ödevlerinde puanları iyileştirirken gözetimli, kapalı kitap ve desteksiz ölçümlerde puanları *düşürür* ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Şişmenin görünür olup olmayacağını ölçüm seçimi belirler; dolayısıyla YZ’ye izin verilen bir görevdeki kazanç, görev performansına ilişkin bir iddiadır, [[genai-performance-vs-learning|öğrenmeye]] ilişkin değil.
+
+**“Meta-analiz meseleyi çözer: etki büyüktür.”** Toplama yönü ile toplama büyüklüğü farklı olgulardır ve büyüklük incelemeden nadiren sağ çıkar. [[genai-meta-analysis-programming-learning|Programlamada üretken YZ meta-analizi]], büyük *üretkenlik* kazanımlarının yanında **anlamlı bir öğrenme kazanımı olmadığını** (g ≈ 0) bulur. [[burneo-can-edtech-close-learning-gaps-2026|Dünya Bankası meta-analizi]], 14 RKT’den 191 etki büyüklüğünü birleştirerek uyarlanabilir ve YZ etkin eğitim teknolojileri için yaklaşık 0,125 sd tahmin etmektedir; bu, eğitim RKT’lerinin ortancasına göre saygıdeğer bir değerdir, ancak **üretken YZ’nin önceki uyarlanabilir araçlara üstünlüğü yoktur**. GPT dönemi çalışmalarını kategorik bir sıçrama olarak sunmak, birleştirilmiş kanıtın gösterdiğini abartmaktadır.
+
+**“Daha fazla alıştırma ve daha fazla [[personalized-learning|kişiselleştirme]] her zaman yardımcı olur.”** Bir kazanımın büyüklüğü ne kadar desteğin sağlandığına değil neyin eğitildiğine bağlıdır. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit ve ark. (2025)]], çözümlü örnekler ile problemlerin en iyi karışımının hedef beceriyle birlikte kaydığını bildirir: saf geri çağırma alıştırması kelimesi kelimesine olgular için daha yüksek kazanım sağlarken örneklerle problemleri dönüşümlü sunmak genellenebilir beceriler için daha yüksek kazanım sağlar. [[lak2026-hint-button-unproductive-use|İpucu düğmesi araştırması]] ise ipucu hacminin öğrenmeyle negatif ilişkili olduğunu bulur. Bir bilgi bileşenine yardımcı olan aynı "destek", diğerini boşa harcayabilir.
+
+**“Gecikmeli bir son test sonucu otomatik olarak kalıcı öğrenme sonucudur.”** Gecikme gereklidir ve yeterli değildir. Bu derlemde kalıcı öğrenmeyi ayırt eden şey, gecikmeli koşullar altında *desteksiz* ölçümdür ve etkinin, aktarım sırasında yok olacak iskele tarafından taşınmadığına dair kanıttır.

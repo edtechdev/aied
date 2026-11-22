@@ -1,6 +1,7 @@
 ---
 title: Edtech Platformu
 created: "2026-10-14T07:28:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [online-teaching-and-learning]
@@ -11,7 +12,7 @@ confidence: high
 connected_faqs: [designing-educational-ai-software]
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 translation_of: concepts/edtech-platform
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,13 +20,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
 connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Edtech Platformu** — bir YZ yeteneğinin öğrenenlere ve eğitimcilere ulaştırıldığı dijital sistemler, öğrenme yönetim sistemleri (LMS), özel ders sistemleri ve [[online-teaching-and-learning|çevrimiçi öğrenme]] ortamları. [[ai-education|Eğitimde YZ]] bağlamında platform, bir YZ kapasitesinin öğrencilere ulaşıp ulaşmadığını, nasıl konuşlandırıldığını (açık mı özel mı, bütünleşik mi bağımsız mı) ve kimlerin ona erişebileceğini, uyarlayabileceğini ve değerlendirebileceğini belirleyen *altyapı katmanıdır*. Bu bilgi tabanındaki araştırmalar platformları birden fazla açıdan incelemektedir: tasarımları, benimsenme ve katılım kısıtları, kurumsal yönetişimleri ve eşitlik etkileri. ([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Edtech Platformu** — bir YZ yeteneğinin öğrenenlere ve eğitimcilere ulaştırıldığı dijital sistemler, öğrenme yönetim sistemleri (LMS), özel ders sistemleri ve [[online-teaching-and-learning|çevrimiçi öğrenme]] ortamları. [[ai-education|Eğitimde YZ]] bağlamında platform, bir YZ kapasitesinin öğrencilere ulaşıp ulaşmadığını, nasıl konuşlandırıldığını (açık mı özel mı, bütünleşik mi bağımsız mı) ve kimlerin ona erişebileceğini, uyarlayabileceğini ve değerlendirebileceğini belirleyen *altyapı katmanıdır*. Araştırmalar platformları birden fazla açıdan incelemektedir: tasarımları, benimsenme ve katılım kısıtları, kurumsal yönetişimleri ve eşitlik etkileri. ([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Üzerinde Düşünülebilecek Sorular
 
@@ -49,7 +54,7 @@ Eğitimde YZ bağlamındaki platformlar birkaç ayrı işlev görür:
 - **Öğrenme verisi toplamak ve çözümlemek** — [[learning-analytics]] ve [[student-modeling]] için temel zemin.
 - **Erişimi ve konuşlandırmayı yönetmek** — [[open-source]] mı özel mülk mü, yerel mi bulut mu ve hangi kurumların ve öğrencilerin kullanabileceğine ilişkin kararlar.
 
-## Bilgi tabanı makalelerinden temel bulgular
+## Araştırmadan temel bulgular
 
 ### Kullanım, yetenekten çok sınırlayıcı olan etkendir
 

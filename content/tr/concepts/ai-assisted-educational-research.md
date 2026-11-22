@@ -1,5 +1,6 @@
 ---
 title: YZ Destekli Eğitim Araştırması
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T21:50:00-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
@@ -12,9 +13,10 @@ level: [higher ed]
 page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
+connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -24,6 +26,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
 connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
@@ -82,6 +88,8 @@ Olumlu değerlendirme, devretmeye uygunluğu ima etmedi. Yalnızca olumlu değer
 
 Bu örüntülerden yazarlar, beş uygulama düzeyi risk düzeyinden çok ifşa kademesi olan üç katmanlı PRISMA-LLM çerçevesini türetir. Test için sunulan bir öneridir, PRISMA Yürütme Kurulu tarafından onaylanmış resmi bir uzantı değildir. Makale düzeyinde sessizlik, doğrulamanın yokluğunun kanıtı değildir — ürün raporunda, protokolde veya bir depoda yaşıyor olabilir, diye uyarırlar.
 
+**Aynı otomasyona yönelik düzenleyici bir mercek.** [[zhang-executor-partner-genai-systematic-review-2026|Zhang, Wang ve Maeda (2026)]], bir derlemede GenAI’nin ne yaptığını değil, çalışmayı kimin düzenlediğini sorar. Sistematik derlemeyi düzenlenmiş bir öğrenme sistemi olarak ele alarak, derleme etkinliklerini öngörüş, performans ve yansıtma üzerine eşler ve üç rolü ayırır: GenAI, insan tanımlı yapılar içinde devredilmiş bir yürütücü; değerlendiricinin kararları üzerinde ortak düzenleyici bir etki; ve sosyal olarak paylaşılan düzenlemede bir ortak. Çerçeveyi 60 GenAI destekli kanıt sentezine uygulayarak, bildirilen kullanımın baskın biçimde yürütücü rolde olduğunu, ortak düzenlemenin aralıklı ve paylaşılan düzenlemeye dair çok az kanıt bulunduğunu bulurlar. Bu, yukarıdaki araç düzeyindeki örüntüyle tutarlıdır — otomasyon tarama ve çıkarmada yoğunlaşır — ve tanısal bir ek sunar: bir adım, prosedürel olarak yararlı olabilmesine rağmen değerlendiricinin izlemesini, yargısını ve uyarlamasını dokunulmaz bırakır.
+
 ## Nitel kodlama ve analiz
 
 Nitel analiz, yorumun ürün olduğu aşamadır; bu devretmeyi savunmayı zorlaştırır. [[qualitative-research|Nitel Araştırma]] sayfası, YZ destekli kodlamaya ilişkin korpus kanıtını toplar; bunlar arasında insan–model anlaşmasının kodlama kalitesiyle aynı şey olmadığını ve hataların zamansal analiz yoluyla birikebileceğini gösteren çalışmalar vardır. O edebiyat modeli, çıktılarının insan yargısına karşı doğrulanmasını gerektiren bir ölçekleme yardımı olarak ele alır.
@@ -94,9 +102,9 @@ Otomasyonun insan kodlamasına yalnızca yardım etmekle kalmayıp onunla eşle�
 
 [[hur-computational-analysis-teacher-group-interactions-2026|Hur ve ark. (2026)]], üç analiz aşamasının her birini — keşif, yorumlama ve doğrulama — esas olarak insan ya da bilgisayar liderliğinde olarak sınıflandıran bir aşama-liderliği tipolojisi sunar. 15 lise matematik sınıfı videosundan oluşan işlenmiş bir vaka çalışmasında, bilgisayar liderliğindeki keşfi yürüten poz tabanlı bir dedektör 317 öğretmen–grup etkileşim olayı ortaya çıkardı ve anlamlı bulgular dedektörün kendisinin ayrıcalık tanıdığı kilit noktalarda yoğunlaştı. LLM transkript göstergeleri insanlarla en çok nesnel yapılarda (açık sorular için κ = ,778; matematik tartışma için ,722) ve en az öznel olanlarda (yardım ihtiyacı için ,562; kafası karışmış olabilir için ,531) anlaştı. Yazarlar, dört kod kitabı iş akışını karşılaştıran ve insan ile YZ failliğini dönüşümlü kullanmanın en yüksek nitelikli kod kitaplarını ürettiğini bulan Barany ve ark. (2024)’e atıfta bulunarak aşama liderliğini, incelenmemiş bir varsayılan değil adlandırılabilir bir analitik seçim olarak çerçeveler.
 
-[[ober-prompt-engineering-interview-transcripts-2026|Ober ve ark. (2026)]], görüşme transkriptlerini analiz etmek için temellendirilmiş insan kodlamasını, SentenceBERT gömmelerini ve Affinity Propagation kümelemesini yinelenebilir, insan güdümlü bir hatta birleştirir. 13 ABD ortaokul ve lise öğretmeniyle altı odak grubunda hat, iletişim için 78 birinci düzey ve 32 H-kümesi, dijital okuryazarlık için 79 ve 32 küme üretti; bunlardan insan incelemesi 14 ve 16 anlamlı kümeyi korudu. ChatGPT-4o ve Copilot ile istek metni vermek, iletişim kümelerinin %33,3’ünde (21’den 7’si) ve dijital okuryazarlık kümelerinin %43,8’inde (16’dan 7’si) aynı etiketleri üretti; ortalama kosinüs benzerlikleri 0,835 ile 0,880 arasındaydı. Veriden türetilen kodlar daha sonra rafine edilmiş bir Sürüm 2 kod kitabına eşlendi; bu kitap bir “öğretim” kategorisi ekledi ve sosyal ve bağlamsal boyutları açık hâle getirdi ve her etiketin insan incelemesi belirgin bir halüsinasyon bulmadı.
+[[ober-prompt-engineering-interview-transcripts-2026|Ober ve ark. (2026)]], görüşme transkriptlerini analiz etmek için temellendirilmiş insan kodlamasını, SentenceBERT gömmelerini ve Affinity Propagation kümelemesini yinelenebilir, insan güdümlü bir hatta birleştirir. 13 ABD ortaokul ve lise öğretmeniyle altı odak grubunda hat, iletişim için 78 birinci düzey ve 32 H-kümesi, dijital okuryazarlık için 79 ve 32 küme üretti; bunlardan insan incelemesi 14 ve 16 anlamlı kümeyi korudu. ChatGPT-4o ve Copilot ile istek metni vermek, iletişim kümelerinin %33,3’ünde (21’den 7’si) ve dijital okuryazarlık kümelerinin %43,8’inde (16’dan 7’si) aynı etiketleri üretti; ortalama kosinüs benzerlikleri 0,835 ile 0,880 arasındaydı. Veriden türetilen kodlar daha sonra rafine edilmiş bir Sürüm 2 kod kitabına eşlendi; bu kitap bir “öğretim” kategorisi ekledi ve sosyal ve bağlamsal boyutları açık hâle getirdi ve her etiketin insan incelemesi [[hallucination-risk|belirgin bir halüsinasyon]] bulmadı.
 
-[[potter-participatory-design-writing-analytics-2026|Potter ve ark. (2026)]], GPT-4o’nun güvenli bir geri getirme destekli platform içinde ilk kodları ve ön temaları ürettiği, araştırmacıların ise nihai yorumlayıcı otoriteyi elinde tuttuğu uçtan uca melez tümevarımsal tematik analiz gösterir. Dokuz üniversite yazma eğitmeniyle odak gruplarında üç çekirdek araştırmacı transkriptleri bağımsız olarak yeniden kodladı, iki dış doğrulayıcı tüm veriyi inceledi ve ekip dört temayı birleştirdi — metrik ve geri bildirim netliğini iyileştirme, eğitmen özelleştirmesi ve esnekliği, mevcut araçlarla tümleşme ve arayüz iyileştirmeleri — her biri somut bir WAT-C tasarım revizyonuna eşlendi. Model zaman zaman alıntıları dışladı veya yeniden ifade etti ama hiçbirini uydurmadı ve iş akışı araştırmacı emeğini kaldırmak yerine yeniden dağıttı: doğrulama, bağlamsallaştırma ve üçgenleme zaman kazandırmak yerine inceleme katmanları ekledi.
+[[potter-participatory-design-writing-analytics-2026|Potter ve ark. (2026)]], GPT-4o’nun güvenli bir [[rag|getirme destekli]] platform içinde ilk kodları ve ön temaları ürettiği, araştırmacıların ise nihai yorumlayıcı otoriteyi elinde tuttuğu uçtan uca melez tümevarımsal tematik analiz gösterir. Dokuz üniversite yazma eğitmeniyle odak gruplarında üç çekirdek araştırmacı transkriptleri bağımsız olarak yeniden kodladı, iki dış doğrulayıcı tüm veriyi inceledi ve ekip dört temayı birleştirdi — metrik ve geri bildirim netliğini iyileştirme, eğitmen özelleştirmesi ve esnekliği, mevcut araçlarla tümleşme ve arayüz iyileştirmeleri — her biri somut bir WAT-C tasarım revizyonuna eşlendi. Model zaman zaman alıntıları dışladı veya yeniden ifade etti ama hiçbirini uydurmadı ve iş akışı araştırmacı emeğini kaldırmak yerine yeniden dağıttı: doğrulama, bağlamsallaştırma ve üçgenleme zaman kazandırmak yerine inceleme katmanları ekledi.
 
 [[zambrano-llm-human-ai-codebook-development-2026|Zambrano ve ark. (2026)]], LLM kod kitabı inşası için dört kuram enjeksiyonu stratejisini — Kuramsız, Kuram Adlandırılmış, Tam Kaynaklar Verilmiş ve Makaleler Sağlanmış — 5 puanlayıcının 7 boyutta derecelendirdiği 12 kod kitabı üzerinde karşılaştırır. Kuramı makalelerini sağlamadan adlandırmak, tam metin vermeyi kullanışlılıkta (Tam Kaynaklar Verilmiş için 4,40’a karşı 3,20) ve somutlukta (Makaleler Sağlanmış için 3,80’e karşı 2,40) geçti; tam makaleler yalnızca kuramsal uyumda kazandı (3,60’a karşı 4,60) ve kaçınılması yönündeki talimatlara rağmen dört model aşamasını yeniden üretti. İnsan arıtması her iki çalışmada da vazgeçilmez kaldı: iki kodlayıcı örtüşen GPT önerilerini birleştirdi ve nihai kod kitapları 11 ve 15 yapıda karar kıldı, dolayısıyla iş akışı devretme değil işbirliğiydi.
 
@@ -106,7 +114,7 @@ Otomasyonun insan kodlamasına yalnızca yardım etmekle kalmayıp onunla eşle�
 
 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith ve ark. (2026)]], LLM ile insan tümdengelimli kodlamasının ilk doğrudan ayrıştırmasını sunar: dört modeli 240 tasarım hücresi, 8.040 veri satırı ve 60.060 istek metni boyunca kuram-kavram makaleleri üzerinde çalıştırdılar. Varyansa model kimliği egemen oldu: korelasyon varyansının kısmi eta-kare 0,19’u ve yanlılık modelinde F = 578,36; istek metni türü ise anlamsızdı. Nitelik fiyattan ayrıldı — Claude Sonnet 4 en düşük model hata logitini (-1,90) GPT-4.1 Mini’nin -1,05’ine karşı kaydetti ve Gemini 2.5 Pro 178,13 dolara mal olurken 56,77 dolarlık GPT-4.1 Full’un altında kaldı.
 
-[[ober-persistence-pedagogical-agent-dialogues-2026|Ober ve ark. (2026)]], yapı düzeyinde kodlama anlaşmasını sistematik olarak haritalar: öğrencilerin pedagojik bir ajanla diyaloglarında beş yapı boyunca iki eğitimli insan kodlayıcıya karşı sekiz ChatGPT-4o yapılandırması çalıştırdılar. Öz-tutarlılık kappası yapılandırmalar arasında 0,865–0,890 arasında seyrederken insan-LLM kappası yalnızca 0,000–0,419 aralığındaydı; dolayısıyla insan hizalaması olmadan tutarlılık, yapının işletimselleştirilmesini — modeli değil, aracı — işaretleyen tanısal bir sinyaldir.
+[[ober-persistence-pedagogical-agent-dialogues-2026|Ober ve ark. (2026)]], yapı düzeyinde kodlama anlaşmasını sistematik olarak haritalar: öğrencilerin [[pedagogical-agent|pedagojik bir ajanla]] diyaloglarında beş yapı boyunca iki eğitimli insan kodlayıcıya karşı sekiz ChatGPT-4o yapılandırması çalıştırdılar. Öz-tutarlılık kappası yapılandırmalar arasında 0,865–0,890 arasında seyrederken insan-LLM kappası yalnızca 0,000–0,419 aralığındaydı; dolayısıyla insan hizalaması olmadan tutarlılık, yapının işletimselleştirilmesini — modeli değil, aracı — işaretleyen tanısal bir sinyaldir.
 
 ## Veri analizi ve epistemik ödünler
 

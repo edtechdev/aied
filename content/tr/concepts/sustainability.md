@@ -1,6 +1,7 @@
 ---
 title: "Sürdürülebilirlik"
 created: "2026-10-14T22:15:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -28,9 +33,9 @@ connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partn
 
 ## Dikkate Alınması Gereken Sorular
 
-- Sayfa iki yolu ayır eder: 'sürdürülebilirlik için YZ' (sürdürülebilirlik sonuçlarını ilerletmek için YZ kullanmak) ve 'sürdürülebilir YZ' (YZ'nin kendi çevresel ve etik ayak izini azaltmak). Bir YZ aracının bir hedefi ilerletirken diğerini baltalayabileceği bir yolu düşünebiliyor musunuz?
+- Alan iki yolu ayır eder: 'sürdürülebilirlik için YZ' ve 'sürdürülebilir YZ'. Bir YZ aracının bir hedefi ilerletirken diğerini baltalayabileceği bir yolu düşünebiliyor musunuz?
 - [[llm|Büyük dil modellerini]] eğitmek ve çalıştırmak gerçek bir karbon ve su ayak izi taşır. Bir kurum, sürdürülebilirliği bir değer olarak teşvik ederken enerji yoğun YZ dağıtırsa, hangi gerginlikler ortaya çıkar — ve kimler bunları tartmalıdır?
-- Okumaya başlamadan önce, 'sürdürülebilir eğitim'i nasıl tanımlarsınız? Sayfa, bunu eğitimi sürdürülebilirlik için bir araç olarak kullanmaktan ayrı, değer temelli ve insan merkezli bir proje olarak ele alır — bunlar nasıl farklıdır?
+- Okumaya başlamadan önce, 'sürdürülebilir eğitim'i nasıl tanımlarsınız? Buna, eğitimi sürdürülebilirlik için bir araç olarak kullanmaktan ayrı, değer temelli ve insan merkezli bir proje olarak yaklaşılır — bunlar nasıl farklıdır?
 - Eğitimden öğrenenlerin 'sürdürülebilirlik bilinci' inşa etmesi bekleniyorsa, YZ bunun içinde hangi rolı oynayabilir — ve müfredattaki YZ bütünleşmesi, kendi ayak izi sessizce dersi çelişirken sürdürülebilirliği öğretebilir mi?
 - Bir eğitim kurumunun YZ kullanımında gerçekten sürdürülebilir olması ne anlama gelir ve hangi kararlarını (satın alma, dağıtım, öğretim) en önemli buluyorsunuz?
 
@@ -42,7 +47,7 @@ AIED'de sürdürülebilirlik üç örtüşen çerçevelemeyi kapsar: **sürdür�
 
 ## İki parçalı taksonomi
 
-Bilgi tabanının kapsamı, [[daniel-ai-sustainability-scoping-review-2026|Daniel ve ark. (2026)]] tarafından çıpalı olarak, alanı birbirine bağlı ama ayrı iki yola düzenler:
+[[daniel-ai-sustainability-scoping-review-2026|Daniel ve ark. (2026)]] tarafından yapılan kapsam taraması, alanı birbirine bağlı ama ayrı iki yola düzenler:
 
 - **Sürdürülebilirlik için YZ** — sürdürülebilirlik sonuçlarını ilerletmek için YZ kullanmak. Eğitimde bu, enerji yönetimi için YZ, iklim izleme, yeşil kampüs programları ve öğrenenlerin sürdürülebilirlik bilincini inşa eden YZ bütünleşmeli müfredatları içerir (örn. sürdürülebilir [[engineering-education|mühendislik eğitimi]] için AI-SEE çerçevesi). Sürdürülebilir Kalkınma Eğitimi'nin küresel gündemine dayanır.
 - **Sürdürülebilir YZ** — YZ'nin kendisinin doğrudan çevresel ve etik etkilerini azaltmak. Bu, büyük dil modellerin karbon ve su ayak izini, enerji verimli ve yerinde dağıtımı ve eğitimdeki YZ kullanımının sorumlu ve sürdürülebilir olmasını güvence altına almak için gereken etik ve yönetişim çerçevelerini kapsar.
@@ -65,7 +70,9 @@ Büyüyen bir çalışma kümesi, YZ'yı [[environmental-education|sürdürüleb
 
 ## Pedagojik bir hedef olarak sürdürülebilir öğrenme
 
-İlgili bir dal, sürdürülebilirliği yalnızca çevresel veya kurumsal bir kaygı olarak değil, öğrenmenin kendisinin bir özelliği olarak çerçeveler. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu ve ark. (2026)]], YZ destekli öğrenmenin bilişsel dış kaynak kullanımına ve özgün bağlamlardan kopuşuna risk oluşturduğunu savunur ve **sürdürülebilir öğrenme** için çerçeveler (E3-HOT) önerir — kısa devre yapılmak yerine kalıcı olan, aktarılan ve gerçek sorunlara bağlı kalan öğrenme [[cognitive-offloading]] yerine. Bu, sürdürülebilirliği [[agency]] ve [[critical-thinking]] ile bağlar.
+İlgili bir dal, sürdürülebilirliği yalnızca çevresel veya kurumsal bir kaygı olarak değil, öğrenmenin kendisinin bir özelliği olarak çerçeveler. Bu yeniden çerçevelemenin belirli çıkarlara hizmet ettiğine dair daha geniş argüman, [[critiques-of-ai-in-education|Eğitimde YZ Eleştirileri]] başlığı altında toplanır. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu ve ark. (2026)]], YZ destekli öğrenmenin bilişsel dış kaynak kullanımına ve özgün bağlamlardan kopuşuna risk oluşturduğunu savunur ve **sürdürülebilir öğrenme** için çerçeveler (E3-HOT) önerir — kısa devre yapılmak yerine kalıcı olan, aktarılan ve gerçek sorunlara bağlı kalan öğrenme [[cognitive-offloading]] yerine. Bu, sürdürülebilirliği [[agency]] ve [[critical-thinking]] ile bağlar.
+
+- **Bir kapı bekçiliği hesabı.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]], pedagojik sürdürülebilirliği; ekonomik, sosyal, çevresel ve kurumsal koşullar altında sürdürülebilir biçimde üretilen kalıcı öğrenme değeri olarak tanımlar ve ardından bu değeri, beş sütundan biri olmaktan ziyade telafi edilemez bir kapı haline getirir.
 
 ## Diğer kavramlarla bağlantılar
 

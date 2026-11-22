@@ -1,6 +1,7 @@
 ---
 title: "İngilizce Eğitimi (EAP / EFL / ESL)"
 created: "2026-10-14T22:20:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -10,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,6 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_resources: [teacher-dev]
+connected_faqs: [ai-support-reading-comprehension]
 connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
 connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]
 ---
@@ -51,7 +58,7 @@ Bu kavram, **İngilizce eğitimindeki** YZ [[research-methods-aied|research]] d�
 
 [[language-learning]], herhangi bir ikinci/yabancı dilin — sözlü, yazılı ve okuryazarlık boyutlarıyla — YZ konuşma ortakları, telaffuz araçları ve konuşma pratiği yoluyla edinilmesini kapsayan daha geniş şemsiyedir. İngilizce eğitimi **İngilizceye özgü** durumdur ve bunun içinde EAP, **yazı diline özgü** durumdur:
 
-| Boyut | [[language-learning]] | **İngilizce eğitimi (bu sayfa)** |
+| Boyut | [[language-learning]] | **İngilizce eğitimi** |
 |-----------|----------------------|-----------------------------------|
 | Hedef dil | Herhangi bir L2 (Fransızca, İspanyolca, Japonca, …) | Özel olarak İngilizce |
 | Odak | Genel olarak L2 edinimi: [[speech-and-voice-technologies|sözlü diyalog]], telaffuz, okuryazarlık | Hedef dil olarak İngilizce + akademik İngilizce yazı dili |
@@ -64,7 +71,7 @@ Bu kavram, **İngilizce eğitimindeki** YZ [[research-methods-aied|research]] d�
 
 [[writing-education]], tüm diller ve disiplinler boyunca kompozisyondan akademik dürüstlüğe kadar uzanan genel bir bilişsel ve retorik beceri olarak yazmayla ilgilenir. İngilizce eğitimi özellikle **İngilizceye** ve EAP içinde **akademik yazı diline** odaklanır:
 
-| Boyut | [[writing-education]] | **İngilizce eğitimi (bu sayfa)** |
+| Boyut | [[writing-education]] | **İngilizce eğitimi** |
 |-----------|----------------------|-----------------------------------|
 | Kapsam | Genel yazma (her dil, her tür) | Hedef dil olarak İngilizce + akademik İngilizce yazı dili |
 | İmza kaygısı | Kompozisyon, düzenleme, [[agency]], yazarlık | EAP türü, akademik yazı dili, L2/EFL yazma, İngilizcede [[feedback-literacy|feedback literacy]] |

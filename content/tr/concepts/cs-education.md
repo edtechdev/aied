@@ -2,6 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: BS Eğitimi
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
 connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **BS Eğitimi** — bilgisayar [[science-education|bilimi eğitimi]], bilgi tabanında en çok araştırılan STEM alt alanıdır; YZ araçları ile programlama görevleri arasındaki doğal hizalamadan yararlanır. Kod üretimi, hata ayıklama desteği ve otomatik kod incelemesi birincil YZ uygulamalarıdır. Öğrenciler kullandıkları araçların kendilerini inşa etmeyi öğrendiğinden, BS eğitimi YZ okuryazarlığı, müfredatın yeniden tasarımı, ajanik yazılım mühendisliği ve gerçek öğrenme ile [[cognitive-offloading|aşırı güven]] arasındaki sınır tartışmalarının merkezinde yer alır.
+> **BS Eğitimi** — bilgisayar [[science-education|bilimi eğitimi]], bu literatürde en çok araştırılan STEM alt alanıdır; YZ araçları ile programlama görevleri arasındaki doğal hizalamadan yararlanır. Kod üretimi, hata ayıklama desteği ve otomatik kod incelemesi birincil YZ uygulamalarıdır. Öğrenciler kullandıkları araçların kendilerini inşa etmeyi öğrendiğinden, BS eğitimi YZ okuryazarlığı, müfredatın yeniden tasarımı, ajanik yazılım mühendisliği ve gerçek öğrenme ile [[cognitive-offloading|aşırı güven]] arasındaki sınır tartışmalarının merkezinde yer alır.
 
 ## Düşünülmesi Gereken Sorular
 
@@ -62,6 +67,8 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 
 - **Benimseme alt alanı değil ödevi izler.** Yedi ödev ve 211 öğrenci boyunca [[student-llm-use-cs-subfields-2026|Nizamani ve ark. (2026)]], LLM kullanımını algoritmalarda %89,6’dan yazılım mühendisliğinde %15,2’ye ölçtü; yayılımı konunun kendisinden ziyade ödev karmaşıklığına, doğrulanabilirliğine ve iskelelemeye bağladı.
 - **Geri bildirim, teşhis gizli kalacak biçimde aşamalandırılabilir.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]], öğrencinin veritabanı şemasının yapıta dayalı teşhisini onu yayınlayan iş akışından ayırır; aşamaları eğitimciler yazar. 383 bölüm boyunca geri bildirimlerin %71,1’i hedef düzeyine ulaştı.
+
+- **On yedi gereksinim hatası türü, 211 takım boyunca sayıldı.** Öncelik hataları önde gitti (lisans takımlarının %81’i) ve tek bir sıfır denemeli GenAI istemi, kapsam, hikâye biçimi, öncelikler ve emek açısından takımlarla eşleşti ya da onları geçti ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### Programlama pedagojisi: bloklardan bedensel, oyun temelli öğrenmeye
 
@@ -109,6 +116,7 @@ YZ desteğinin en güçlü olduğu yer programlama olduğundan, başarısızlık
 ### Eşitlik, kültür ve bilişime kimler giriyor
 
 - **Katılımı genişletmek:** [[suacode-african-students-motivations|SuaCode]], Afrika öğrencileri arasında akıllı telefona dayalı kodlamanın güdülerini belgeler (ortaokul mezunlarının %1’inden azında temel kodlama becerileri vardır), [[equity-in-ai-education|düşük kaynaklı bağlamlar]] için erişilebilir YZ destekli MOOC’ları besler.
+- **YZ’siz kapılar, YZ öncelikli iş.** [[ai-free-gates-engineering-students-india-2026|Goutham ve Gu (2026)]], 23 Hintli mühendislik öğrencisiyle görüşme gerçekleştirdi: bunların hemen hemen hepsi, YZ’yi dışlayan yerleştirme taramalarına girerken YZ’yi kullanıyor, oysa işverenler onu talep ediyordu; bu nedenle süzülen notlar daha azını onaylar.
 - **Nöroçeşitlilik ve işbirliği:** [[neurodivergent-computing-students|Nöroçeşitli bilişim öğrencileri]], belirsiz işbirliği yapılarından rahatsızlık bildirir; yapılandırılmış ödevler, daha küçük tutarlı ekipler ve açık roller [[accessibility]]’i iyileştirir — bilişim sınıflarına giren YZ araçları için tasarım dersleri.
 - **Algılanan etiği kültür şekillendirir:** [[cross-cultural-student-perceptions-genai-computing|Kanadalı ve Güney Koreli bilişim öğrencileri]], işlevsel olarak özdeş politikaya rağmen özdeş YZ destekli kodlama uygulamalarını farklı yargıladı — politika uyumlaştırması algı uyumlaştırması üretmez; bir [[academic-integrity]] ve [[equity-in-ai-education]] kaygısı.
 - **İşbirliği [[explainable-ai|şeffaflığı]]:** [[student-perception-ai-use-collaboration|Graf ve ark.]], ortakların birbirlerinin YZ kullanımına ilişkin hizasız inançlarının daha düşük proje puanlarını yönelttiğini, özellikle daha düşük performans gösteren öğrencilerde, bulur — işbirlikçi programlamada şeffaflık mekanizmalarına (açıklamalar, paylaşılan günlükler) ihtiyaç duyulabilir.
@@ -122,7 +130,7 @@ YZ desteğinin en güçlü olduğu yer programlama olduğundan, başarısızlık
 
 BS eğitimi; [[computational-thinking]], [[stem-education]], [[automated-assessment|Otomatik Notlandırma]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]] ve [[professional-training]] ile bağlantılıdır. En yakın uygulamalı komşusu [[information-technology]]’dir: BS eğitimi programı ve algoritmayı nesnesi alırken, BT eğitimi dağıtılmış kurumsal sistemi ve onun hakkında uygulayıcının yargısını alır — bu yüzden iki alan farklı YZ zararlarını tartışır: kod üretiminin programlama becerisini aşındırıp aşındırmadığına karşı YZ sorun gidermenin teşhis becerisini aşındırıp aşındırmadığına; ve mezunlarına farklı sorular sorar: bir sistemi inşa edip edemeyeceklerine karşı yönettikleri sistemleri yönetip yönetemeyeceklerine. [[ai-education|AIEd]] araçlarının hem kullanıldığı hem inşa edildiği alan orasıdır; bu da onu [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]] ve [[cognitive-offloading|Aşırı Bağımlılık]] riskleri için bir sınama ortamı haline getirir.
 
-**72 çalışmalık bir sentez ve VIE çerçevesi.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot ve Nanthaamornphong (2026)]], bilişim ve programlama eğitiminde üretken YZ üzerine ampirik literatürü (Ocak 2022 – Nisan 2026, 72 çalışma, 33 kaynak) gözden geçirdi ve disiplini ayırt edici kılan yapısal özelliğin tam olarak kendisini öne çıkardı: değerlendirilebilir yapıtı YZ üretir, böylece aracı kullanmak, beceriyi öğrenmek ve değerlendirilmek tek bir tuş vuruşunda birleşir. 14 temanın sentezi, alanın en çok çoğaltılan etkisinin — kısa vadeli verimlilik ve tamamlama kazanımları (36 çalışma) — aynı zamanda en yanıltıcı olanı olduğunu bulur: bu kazanımlar yardımsız performansa [[transfer-of-learning|aktarılmaz]] (21 çalışma) ve desteğin kalıcı bir beceri mi yoksa bir koltuk değneği mi haline geldiğini [[prior-knowledge|ön bilgi]] moderatörlük eder. [[ai-detection|Tespit]] araştırması incedir (3 çalışma), dersin yeniden tasarımı ise nispeten iyi kanıtlanmıştır (25 çalışma) ve derleme, derlemi — Doğrulama, Uygulama ve Eşitlik — üç birbirine bağımlı tasarım gerekliliğinde birleştirir; burada YZ çıktısıyla eleştirel katılım, öğrenci takdirine bırakılan bir özlemden ziyade öğrenci çalışmasının notlandırılan, gözlemlenebilir bir bileşeni olmalıdır ([[scaffolding]], [[assessment-validity]]).
+**72 çalışmalık bir sentez ve VIE çerçevesi.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot ve Nanthaamornphong (2026)]], bilişim ve programlama eğitiminde üretken YZ üzerine ampirik literatürü (Ocak 2022 – Nisan 2026, 72 çalışma, 33 kaynak) gözden geçirdi ve disiplini ayırt edici kılan yapısal özelliği öne çıkarır. Değerlendirilebilir yapıtı YZ üretir, böylece aracı kullanmak, beceriyi öğrenmek ve değerlendirilmek tek bir tuş vuruşunda birleşir. 14 temanın sentezi, alanın en çok çoğaltılan etkisinin — kısa vadeli verimlilik ve tamamlama kazanımları (36 çalışma) — aynı zamanda en yanıltıcı olanı olduğunu bulur: bu kazanımlar yardımsız performansa [[transfer-of-learning|aktarılmaz]] (21 çalışma) ve desteğin kalıcı bir beceri mi yoksa bir koltuk değneği mi haline geldiğini [[prior-knowledge|ön bilgi]] moderatörlük eder. [[ai-detection|Tespit]] araştırması incedir (3 çalışma), dersin yeniden tasarımı ise nispeten iyi kanıtlanmıştır (25 çalışma) ve derleme, 72 çalışmasını üç birbirine bağımlı tasarım gerekliliğinde birleştirir: Doğrulama, Uygulama ve Eşitlik. Her biri, YZ çıktısıyla eleştirel katılımı, öğrenci takdirine bırakılan bir özlemden ziyade öğrenci çalışmasının notlandırılan, gözlemlenebilir bir bileşeni olarak ele alır ([[scaffolding]], [[assessment-validity]]).
 
 ## Bilişim eğitmenleri için çıkarımlar
 

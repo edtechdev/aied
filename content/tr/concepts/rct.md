@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
 connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -29,7 +35,7 @@ connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-a
 
 - Bir okul size "YZ aracını kullanan öğrenciler daha yüksek puan aldı" diyorsa, fark büyük olsa bile bu neden aracın kazancı yarattığını kanıtlamaya yetmeyebilir?
 - Randomizasyon, bilinen *ve bilinmeyen* karıştırıcıları gruplar arasında dengeler. Okumadan önce, ne kadar iyi eşleştirilmiş görünürlerse görünsünler, iki bütün sınıfı karşılaştırmaktan rastgele atama neyi başarır?
-- Sayfa RCT’yi altın standart olarak adlandırır ama gerçek maliyetleri de listeler: yapay ortamlar, deneyleri eskitleyen hızlı değişen YZ, yetersiz güçte küçük örneklemler ve yardımcı araçları geri tutmada [[ethics|etik]] kısıtlamalar. Bu ödünleşimlerden hangisinin eğitim araştırması manşetlerinde en sık göz ardı edildiğini düşünüyorsunuz?
+- RCT altın standarttır ama gerçek maliyetler taşır: yapay ortamlar, deneyleri eskitleyen hızlı değişen YZ, yetersiz güçte küçük örneklemler ve yardımcı araçları geri tutmada [[ethics|etik]] kısıtlamalar. Bu ödünleşimlerden hangisinin eğitim araştırması manşetlerinde en sık göz ardı edildiğini düşünüyorsunuz?
 - 1.174 katılımcıyla bir RCT, [[generative-ai|üretici YZ]]nin eğitime dayalı bir verimlilik boşluğunun yaklaşık üçte üçünü kapattığını buldu. Ama iyi yürütülen bir RCT hâlâ yapay bir ortamda dar bir görev üzerinde yürütülebilir. Nedensel iddiaya güvenmeden önce *çıktı ölçümü* hakkında neyi kontrol etmelisiniz?
 - Etik sorunu doğrudan düşünün: bir [[intelligent-tutoring|YZ özel ders asistanının]] öğrencilerin öğrenmesine yardım ettiğine dair gerçekten makul nedeniniz olsaydı, bir sömestr boyunca onu sınıfın yarısından rastgele esirgemek savunulabilir mi? Yine de nedeni izole eden, etik açıdan sağlam bir çalışmayı nasıl tasarlardınız?
 
@@ -37,7 +43,7 @@ connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-a
 
 Randomizasyon, bir RCT’yi diğer tasarımlardan ayıran şeydir: öğrenenleri koşullara rastgele atayarak bir RCT, bilinen ve bilinmeyen karıştırıcıları gruplar arasında dengeler, böylece çıktılarda gözlemlenen her fark yüksek iç geçerlilikle müdahaleye atfedilebilir.
 
-### RCT’ler araştırmada nasıl görünür
+## RCT’ler araştırmada nasıl görünür
 
 - **Hızla değişen teknolojiye bir yanıt olarak mikro-RCT’ler:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison ve ark. (2026)]], geleneksel büyük ölçekli deneylerin, bir çalışma süresince önemli biçimde değişen özel ders [[edtech-platform|platformlarının]] hızına ayak uyduramayacağını ileri sürer ve nedensel tahmini tekrarlanabilir kılmak için İngiliz ortaokullarında [[teacher-role|öğretmen]] yönetimindeki mikro-randomize kontrollü deneyler kullanır (929 öğrenciden 644'ü sonrası testini tamamladı, g = 0,33). Ödünleşimler kendi tasarımlarında belirtilir: %30,7 kayıp (attrition), bağımsız olarak standartlaştırılmış yerine [[curriculum-design|müfredat]] uyumlu çıktılar ve yalnızca dört haftalık izleme.
 - **Nedensel etkililik iddiaları:** AIED’deki RCT’ler, bir YZ özel ders asistanının, aracının ya da pedagojik müdahalenin çıktıları iyileştirip iyileştirmediğini sınar. [[generative-ai-education-productivity-gaps|Üretici YZ üzerine randomize bir deney]] 1.174 katılımcıyla, üretici YZ’nin eğitime dayalı verimlilik boşluklarını önemli ölçüde daralttığını, başlangıç performans farkının yaklaşık üçte üçünü kapattığını buldu — YZ’nin etkisine ilişkin net bir nedensel tahmin.
@@ -55,7 +61,7 @@ Randomizasyon, bir RCT’yi diğer tasarımlardan ayıran şeydir: öğrenenleri
 - **Oturumun sonunda değil, bir gecikmeden sonra ölçülen bir sonuç.** 120 [[higher-ed|lisans öğrencisini]] aynı konuların YZ destekli ya da geleneksel çalışmasına randomize edip kalıcılığı 45 gün sonra test eden çalışmada YZ destekli grup %68,5’e karşı %57,5 puan almış, yaklaşık 11 yüzde puanlık bir fark ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
 - **Gönüllü bir okul aracı %7’lik bir dozda bile iş yükünü hareket ettirebilir.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy ve ark. (2026)]], 108 İngiliz ilkokulundaki 464 öğretmeni okul düzeyinde randomize etmiştir. Hazırlık süresi, araç derslerin %7’sini kapsamasına ve kullanım on hafta boyunca düşmesine rağmen karşılaştırma grubunun 0,76’sı çıkmıştır (95% CI 0,64 ile 0,89); bu nedenle tahmin, aracı sunmanın iş yükü için ne yaptığını sınırlar, tam benimsemenin ne yapacağını değil.
 
-### Güçlü yönler ve sınırlılıklar
+## Güçlü yönler ve sınırlılıklar
 
 - **Güçlü yönler:** en güçlü nedensel çıkarım; temiz çıktı ölçümü; etki büyüklüğü tahmini; randomizasyon yoluyla karıştırıcıları dengeleme.
 - **Sınırlılıklar:** pahalı ve yavaş; yapay ortamlar ekolojik geçerliliği düşürebilir; YZ araçları deneylerin yürütülebileceğinden hızlı değişir; küçük örneklemler sıklıkla anlamlı etkileri tespit etmekte yetersiz güçtedir; muhtemelen faydalı YZ’nin bir kontrol grubundan esirgenmesinde etik kısıtlamalar. Bu sınırlardan ikisi, atama kümelendiğinde biçim değiştirir: etkili örneklem, öğrenci sayısı değil *küme* sayısı haline gelir, dolayısıyla bir deney baş sayısına göre büyük ama bu ölçüye göre ince olabilir — Liu ve ark.'nın 2.379 öğrencisi 34 öğretim üyesi düzeyi kümesine dayanır — ve benimseme gönüllü ve düşük olduğunda, niyet-ile-değerlendirme tahmini, aracı kullanmanın değil, sunmanın çıktıları değiştirip değiştirmediğini yanıtlar.

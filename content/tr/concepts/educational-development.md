@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 title: Eğitsel Gelişim
 created: "2026-10-14T07:50:00-04:00"
 type: concept
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai]
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
 connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
@@ -52,6 +56,7 @@ Eğitsel gelişim, akademik personelin iyi tasarlama, öğretme ve değerlendirm
 - **Müfredat bütünleştirmesi:** [[institutional-change-framework-ai|Kurumsal değişim çerçeveleri]] ve [[ai-assessment-scale-reform|değerlendirme reformu]], akademik personelin yalnızca YZ araçları eklemek yerine kursları yeniden tasarlamasını gerektirir.
 - **Eğitim programları:** [[crewscaler-ai-upskilling-framework|YZ beceri yükseltme çerçeveleri]] ve [[ai-tpack-preservice-math-teachers|TPACK temelli öğretmen adayı eğitimi]], yapılandırılmış akademik personel [[ai-education|YZ eğitimi]] için modeller sunar.
 - **Talep bir ihtiyaç değerlendirmesi değildir.** 345 Quebec CEGEP öğretmeni en düşük puanı teknik anlayışta (5 üzerinden 2,706) almış, yine de disipline özgü pratik uygulamalar istemiş ve önceki oturumları fazla genel bulmuştur ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini ve ark. (2026)]]).
+- **Akademisyenler otomasyonu gönüllü olarak sunar; pedagojiyi yalnızca aracın ne yapabileceği sorulduğunda ortaya çıkarır.** 20 disiplin ve 24 ülkede beş açık soru, kurumsal politika hakkında 305 yorum karşısında verimlilik ve otomasyon hakkında 737 yorum çekmiştir; kişiselleştirme ise yeteneklerle ilgili yanıtların 74’ünde ve engel sorularının her birinde 3 kez görünür ([[sheridan-teaching-academics-genai-plans-2026|Sheridan vd., 2026]]). Adlandırdıkları kısıtlar zaman, tutarlı bir politika ve finanse edilmiş destekti; mesleki gelişim ve seyahat bütçeleri ilk kesinti görenler olarak betimlendi; azınlık ise değişimi emek ilişkileri üzerinden okuyarak kurumların onu akademik personeli azaltmak için kullanmasını bekliyordu.
 
 - **YZ aracılı mesleki yansıma.** Yansıtıcı Üçgen Model, YZ’yi profesyonel bir öğrenme topluluğunda [[reflection|öz yansıma]], işbirlikçi yansıma ve topluluk yansıması boyunca bilişsel bir aracı olarak konumlandırır; altı öğretmenle yürütülen dört haftalık bir uygulanabilirlik örneğinde sınanmıştır; çizdiği sınır, bireysel içgörünün kendiliğinden paylaşılan mesleki bilgiye dönüşmediğidir ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance]] ve politika:** [[genai-policies-higher-ed-computing|Kurumsal YZ politika çözümlemesi]], kurumsal hırslar ile akademik personel destek kapasitesi arasındaki boşluğu belgelemektedir.

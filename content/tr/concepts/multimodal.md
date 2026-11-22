@@ -2,6 +2,7 @@
 connected_resources: [drawsplat]
 title: Çok Kipli YZ
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -10,13 +11,17 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
 connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]

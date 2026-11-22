@@ -1,7 +1,7 @@
 ---
 title: YZ Avatarları ve Sentetik Eğitmenler
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,13 +21,17 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **YZ Avatarları ve Sentetik Eğitmenler** — ister kaydedilmiş bir ders anlatıcısı, ister konuşan bir öğretim aracı, bir [[pedagogical-agent|pedagojik ajan]], simüle edilmiş bir hasta ya da öğrenci, bir rol yapma ortağı ya da bir sınav sorucusu olsun, öğretim rolü üstlenen insan görünümlü [[generative-ai|YZ]] sistemleri. Kategori tek bir teknolojiyle değil, bir kişinin yerini alan bir yüz ve bir sesle tanımlanır. Bu yüzey bu sistemleri ilgi çekici kılan şeydir ve ayırt edici sorunlarının yoğunlaştığı yer de burasıdır: [[trust]] kimlik ipuçlarına yapışır, gerçekçilik etkililiği izlemez ve öğrenenler bir insanın simüle edildiğini bilmeyebilir.
+> **YZ Avatarları ve Sentetik Eğitmenler** — ister kaydedilmiş bir ders anlatıcısı, ister konuşan bir öğretim aracı, bir [[pedagogical-agent|pedagojik ajan]], simüle edilmiş bir hasta ya da öğrenci, bir rol yapma ortağı ya da bir sınav sorucusu olsun, [[teacher-role|öğretim rolü]] üstlenen insan görünümlü [[generative-ai|YZ]] sistemleri. Kategori tek bir teknolojiyle değil, bir kişinin yerini alan bir yüz ve bir sesle tanımlanır. Bu yüzey bu sistemleri ilgi çekici kılan şeydir ve ayırt edici sorunlarının yoğunlaştığı yer de burasıdır: [[trust]] kimlik ipuçlarına yapışır, gerçekçilik etkililiği izlemez ve öğrenenler bir insanın simüle edildiğini bilmeyebilir.
 
 ## Düşünülmesi Gerekenler
 
@@ -73,6 +77,8 @@ Rol yapma için REMind, çocukların savunmaya ilişkin algılanan [[self-effica
 
 Değerlendirme için en açık sonuç SOPHIE yargıcı, en zayıfı ise sesli görüşmecidir. Tamme’nin önerisi teknik bir pilot ve henüz resmi olarak analiz edilmemiş veriler bildirir; sesin neyi ortaya çıkardığına dair her iddia bir hipotez olarak kalır.([[voice-based-ai-feedback-interviews-higher-ed-2026]])
 
+Ders iletişimi bir başka roldür ve bunun kanıtı bir etki yerine bir iş akışıdır. [[wu-singing-syllabus-avatars-2026|Wu (2026)]], birinci sınıf Bilgisayar Bilimlerine Giriş müfredatını, dudak uyumlu bir avatar tarafından seslendirilen şarkılı bir videoya dönüştüren yedi aşamalı bir işlem hattını belgeler; bu hatta ChatGPT sözleri taslağını çizer, Suno AI müziği üretir ve HeyGem yüzü Colab’da sentezler. Aktarılabilir kısım kısıtlar kümesidir: doğruluk kafiye üzerine önceliklidir, dönüştürülen her politika satırı resmi müfredata geri eşlenir ve benimseyen eğitmen doğrulama maliyetini üstlenir. Wu hiçbir öğrenci verisi bildirmez; dolayısıyla katılım ve hatırlama hipotez olarak kalır ve şarkılı müfredat yazılı belgeyi yerine koymak değil onu tamamlar.
+
 ## Güven yüzden geçer
 
 Bir yüz, [[pedagogy|pedagojik içerik]] için nötr bir kap değildir. Toplam 396 katılımcıyla iki deneyde [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis ve Kyriakidou-Zacharoudiou (2026)]], avatar kimlik ipuçlarının hem değerlendirmeyi hem de eyleme dönük benimsemeyi biçimlendirdiğini buldu. Beyaz avatarlar ve STEM bağlamlarında Asyalı erkek avatarlar daha inandırıcı ve yetkin olarak değerlendirildi. Daha yaşlı Siyahi kadın avatarlar her ölçütte birikimli cezalarla karşılaştı. Katılımcılar, ırksal iç gruplarına ya da uzmanlık stereotiplerine uyan avatarlardan yönlendirmeyi daha kolay benimsedi.
@@ -81,13 +87,13 @@ Bir yüz, [[pedagogy|pedagojik içerik]] için nötr bir kap değildir. Toplam 3
 
 Otorite beden yoluyla da gelir. ELEVATE’in tasarımcıları, beden ve sesin bir öğretim aracının otoritesini büyüttüğü uyarısında bulunur. Avatarın belirsizlik göstermesini ve notlara ya da ders kitaplarına karşı doğrulamaya davet etmesini önerirler.([[elevate-genai-virtual-tutors]]) SOPHIE bir karmaşıklık ekler: aynı avatarın arkasında, daha önce daha insani yargılanan bir model bu avantajı kaybetti ve iletişim performansı arka uçlar arasında özdeşti (0,437’ye karşı 0,438). İnsanilik modele değil etkileşime aitti — sese, gecikmeye, söz sırasına.([[sophie-clinical-communication-ai-assessment-2026]])
 
-Karşı kanıt, bir istem insan çerçevesini sağlasa bile öğrencilere bu çerçeveyi askıya almanın öğretilebildiğidir. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman vd. (2026)]], 654 yazma öğrencisine sohbet botunun bir öğretim aracı, bir işbirlikçi ya da başka bir şey gibi gelip gelmediğini sordu ve yalnızca yaklaşık yarısı (%51,7) insanbiçimci seçeneklerden birini seçti. Öğrenciler onu bir araç ya da bir program olarak adlandırdı, bir robota ya da bilgisayara benzetti ya da veri karşılığında metin dağıtan bir geri bildirim otomatı gibi metaforlar üretti. Yazarlar insan çerçevesinin bu reddini okuryazarlık sonucu olarak ele alır; bu da etkiyi arayüze değil öğretime tarihlendirir.
+Karşı kanıt, bir istem insan çerçevesini sağlasa bile öğrencilere bu çerçeveyi askıya almanın öğretilebildiğidir. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman vd. (2026)]], 654 yazma öğrencisine [[conversational-ai|sohbet botunun]] bir öğretim aracı, bir işbirlikçi ya da başka bir şey gibi gelip gelmediğini sordu ve yalnızca yaklaşık yarısı (%51,7) insanbiçimci seçeneklerden birini seçti. Öğrenciler onu bir araç ya da bir program olarak adlandırdı, bir robota ya da bilgisayara benzetti ya da veri karşılığında metin dağıtan bir geri bildirim otomatı gibi [[metaphors-and-analogies|metaforlar]] üretti. Yazarlar insan çerçevesinin bu reddini okuryazarlık sonucu olarak ele alır; bu da etkiyi arayüze değil öğretime tarihlendirir.
 
 ## Varlık, gerçekçilik ve tekinsizlik
 
 Gerçekçilik bir merdiven değildir. [[aclime-pedagogical-agents-extended-reality-2026|ACLIME]], davranışsal gerçekçiliği [[community-of-inquiry|sosyal varlığın]] belirleyici yordayıcısı olarak ele alır ve daha yüksek görsel sadakatin, neredeyse insan bir ajanın ani reddi tetiklediği tekinsiz vadi riskini taşıdığı uyarısında bulunur. Ödünleşimin bedelini de hesaplar: sürükleyicilik ve ajan gerçekçiliği dışsal bilişsel yükü artırırken etkileşim, ortak çalışma belleği yoluyla içsel yükü düşürebilir. Öne çıkardığı uyarı açıktır — VR başlık kullanıcılarının kabaca %42’si siber rahatsızlık bildirir ve art etkiler yaklaşık on dakikadan birkaç saate kadar sürer.([[aclime-pedagogical-agents-extended-reality-2026]])
 
-Uygulama çalışmaları çoğunlukla bu iddianın ölçülü versiyonunu destekler. Hauk’un yazarları orta düzeyde otantikliği işlev için uygun sadakat olarak okur. İkili, yalnızca sesli bir prova acemiler için rutinleri istikrara kavuşturur; akran dinamikleri ve sözel olmayan ipuçları sonradan eklenebilir.([[hauk-student-avatars-dialogue-teacher-education-2026]]) SOPHIE’de katılımcıların %47’si bir YZ hastaya karşı gerçek empati hissetmeyi hâlâ zor buldu, oysa %66’sı bir YZ hastayla konuşmayı bir insanla konuşmaktan daha az stresli buldu.([[sophie-clinical-communication-ai-assessment-2026]])
+Uygulama çalışmaları çoğunlukla bu iddianın ölçülü versiyonunu destekler. Hauk’un yazarları orta düzeyde otantikliği işlev için uygun sadakat olarak okur. İkili, yalnızca sesli bir prova acemiler için rutinleri istikrara kavuşturur; akran dinamikleri ve sözel olmayan ipuçları sonradan eklenebilir.([[hauk-student-avatars-dialogue-teacher-education-2026]]) SOPHIE’de katılımcıların %47’si bir YZ hastaya karşı gerçek [[empathy|empati]] hissetmeyi hâlâ zor buldu, oysa %66’sı bir YZ hastayla konuşmayı bir insanla konuşmaktan daha az stresli buldu.([[sophie-clinical-communication-ai-assessment-2026]])
 
 Öğrenenler tek tip biçimde daha fazla gerçekçilik istemez. [[trikonet-trivalence-co-creativity-2026|TriKoNet]]’in keşifsel çalışmasında öğrenciler fotogerçekçi temsili oybirliğiyle reddetti. Sağlanan bir kişiliği benimsemek yerine modüler bir tasarım uzayı kullanarak kendi rol kavramlarını yazdılar.([[trikonet-trivalence-co-creativity-2026]]) ELEVATE, bedenlenmenin bazı öğrenenler için bir engel olduğunu belirtir — duyusal hassasiyeti olanlar ya da insanbiçimci ajanlardan rahatsız olanlar gibi — ve avatar yapılandırmasını bir tercih değil gereklilik haline getirir.([[elevate-genai-virtual-tutors]])
 
@@ -103,11 +109,13 @@ Deepfake okuryazarlığı aynı yeteneğin öbür yüzüdür. 199 öğrenciden o
 
 ## Kanıtın dürüst durumu
 
-Buradaki neredeyse her çalışma küçük ve kısadır. Hauk’ta 21 gönüllü ve tek oturum var. SOPHIE’de 59 tamamlayıcı ve hiç kontrol kolu yok. Psikoterapi değerlendirmesinde her biri yaklaşık 90 dakika süren iki psikolog var. PBL pilotunda 26 öğrenci ve tek vaka var. ACLIME ve Theelen kavramsal çerçevelerdir, TriKoNet’in temeli ise tek oturumlardaki sekiz gruptur.([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
+Buradaki neredeyse her çalışma küçük ve kısadır. Hauk’ta 21 gönüllü ve tek oturum var. SOPHIE’de 59 tamamlayıcı ve hiç kontrol kolu yok. Psikoterapi değerlendirmesinde her biri yaklaşık 90 dakika süren iki psikolog var. PBL pilotunda 26 öğrenci ve tek vaka var. ACLIME ve Theelen [[theories-and-frameworks|kavramsal çerçevelerdir]], TriKoNet’in temeli ise tek oturumlardaki sekiz gruptur.([[genai-simulate-patient-history-pbl-2026]])([[ai-psychotherapy-training-avatars]])([[aclime-pedagogical-agents-extended-reality-2026]])([[theelen-classroom-simulations-four-layer-framework-2026]])([[trikonet-trivalence-co-creativity-2026]])
 
 Büyük örneklemler tutumlar ve tercihlerle ilgilidir — avatar kimliği üzerine 396 katılımcı, video tercihi üzerine 493 yanıtlayan — ve ikisi de kolayda ya da tek ders popülasyonudur. Bu kümedeki hiçbir çalışma, sentetik bir eğitmenin insan bir eğitmenden daha iyi öğrenme ürettiğini göstermez. Savunulabilir iddia daha dardır: bu sistemler bir uygulama karşılaşmasını yaklaşık olarak yeniden üretebilir, tek bir alanda insan puanlayıcılara karşı kabul edilebilir uyumla puanlanabilir ve öğrenenlerin öğretimin kaynağını nasıl değerlendirdiğini değiştirebilir.
 
 Bu darlık önemlidir. Theelen’in yazarları bunu doğrudan söyler: akıcılık ve bir varlık duygusu [[assessment-validity|geçerlilik kanıtı]] değildir.([[theelen-classroom-simulations-four-layer-framework-2026]]) Bir öğretmen gibi kulağa gelmek, odadaki en kolay eşiği aşmaktır.
+
+Benimseme, etkililikten farklı bir sorudur: [[wang-ai-avatars-tam-doi-adoption-2026|Wang vd. (2026)]], 653 öğrenenin YZ avatarlarını benimseme niyetini modellemiş ve algılanan şeffaflığın güvenin en güçlü yordayıcısı olduğunu bulmuştur (β = 0,542). Model niyetin %38,9’unu açıklamıştır; göreceli avantaj (β = 0,267) ve yararlılık (β = 0,247) tutumun (β = 0,126) önündedir.
 
 ## Yaygın yanlış anlamalar
 
@@ -117,6 +125,6 @@ Bu darlık önemlidir. Theelen’in yazarları bunu doğrudan söyler: akıcıl�
 
 **“Sentetik eğitmenler tek bir teknolojidir, dolayısıyla bulgular aktarılır.”** Tercihi en üst düzeye çıkaran klonlanmış bir ders anlatıcısı, gecikmeyi en üst düzeye çıkaran bir öğretim aracı ve klinik sadakati en üst düzeye çıkaran bir hasta, farklı başarısızlık biçimleri olan farklı yapıtlardır. Bir rolden gelen kanıt, bir başkası hakkında iddialara izin vermez.
 
-**“Avatar görünümü kozmetiktir.”** Kimlik ipuçları inandırıcılık değerlendirmelerini ve yönlendirmenin gerçek benimsenmesini değiştirdi; cezalar daha yaşlı Siyahi kadın avatarlarda birikti.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Yapılandırma pedagojik ve eşitlikçi bir karardır.
+**“Avatar görünümü kozmetiktir.”** Kimlik ipuçları inandırıcılık değerlendirmelerini ve yönlendirmenin gerçek benimsenmesini değiştirdi; cezalar daha yaşlı Siyahi kadın avatarlarda birikti.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]) Yapılandırma pedagojik ve [[equity-in-ai-education|eşitlikçi]] bir karardır.
 
 **“Simüle edilmiş hasta, maliyeti düşülmüş standart hastadır.”** Kursiyer psikologlar sanal hastalarını işbirlikçi ve terapide zaten ilerlemiş buldu; davranışsal katılığı yeterince temsil etmeyen “ideal” bir vaka.([[ai-psychotherapy-training-avatars]]) Maliyet düşer; vaka geçerliliği kendiliğinden gelmez.

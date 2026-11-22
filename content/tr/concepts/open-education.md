@@ -1,7 +1,7 @@
 ---
 title: "Açık Eğitim"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-08T13:08:24-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,13 +13,17 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
@@ -45,13 +49,13 @@ Ayrıştıkları yer önemli olan yerdir. Açık kaynak bir sürüm, sistemin ye
 
 Bu bilgi tabanındaki YZ dönemi literatürü bu nedenle aynı anda üç şeyle ilgilidir: kaynak, uygulama ve üretim neredeyse bedavayken bunlardan birinin ayakta kalıp kalamayacağı. Kaynak açısından sorular şunlardır: onu kim üretiyor, kim lisanslıyor ve YZ tarafından yazılmış bir kaynak açık sayılır mı? Uygulama açısından ise açık pedagojinin öğrencilerden ne istediği ve onlara ölçülebilir bir şey öğretip öğretmediğidir.
 
-### Açıklığın gerçekte kapsadıkları
+## Açıklığın gerçekte kapsadıkları
 
 Açık eğitim kaynağı, yeniden kullanıma, revizyona, yeniden harmanlamaya ve yeniden dağıtıma izin veren bir lisans altında yayımlanmış içeriktir. Alandaki her şey bu iznin ve atıf yükümlülüğünün türevidir. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] bu yükümlülüğün küçük bir projede nasıl göründüğünü gösterir: iki hafta çevrim içi çalışan on bir katılımcı altı sayfalık bir site, bir [[conversational-ai|sohbet botu]], bir kılavuz ve beş video eğitim üretmiş ve bunları CC BY-NC-SA altında yayımlamıştır; ortaya çıkan paket şeffaflıkta yüksek puan alırken lisanslama, yinelenebilirlik, uyarlanabilirlik ve erişilebilirlikte yalnızca orta düzeyde kalmıştır. Addan açık, kullanımda kısmen açık.
 
 Lisanslama literatürü ayrıntılıdır, çünkü başarısızlıklar ayrıntılıdır. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] on altı çekirdek makale, on yedi makalelik bir genişletme ve otuz altı hedefli referanstan oluşan amaçlı bir derlemden açık lisanslı YZ okuryazarlığı materyalini incelemek üzere yedi ilkeli bir rubrik kurar. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello ve Havemann (2026)]] yönetişim biriminin kaynaktan onu barındıran altyapıya kayması gerektiğini savunur; çünkü bakımı yapılan bir platform olmadan tek tek dosyalardan oluşan bir müşterek, müşterek değil bir parçalanma sorunudur.
 
-### Üretim çöküşü ve dijital kamusal mallara dönüş
+## Üretim çöküşü ve dijital kamusal mallara dönüş
 
 Ders üretimi, değişimin hâlihazırda ölçülebildiği yerdir: [[mooc-to-maic|MAIC]], [[online-teaching-and-learning|MOOC]] üretiminin [[llm|LLM]] güdümlü [[agentic-ai|çok ajanlı]] üretimle ders başına kabaca \$25,000 ve 60 saatten \$2’nin altına ve 30 dakikaya çöktüğünü bildirir. Üretim maliyeti sıfıra yaklaşırsa OER’nin para tasarrufu sağladığı savı gücünü yitirir; geriye lisanslama özgürlüğü, doğrulanabilirlik ve kalite güvencesi kalır.
 
@@ -61,15 +65,17 @@ Bu literatürdeki politika yanıtı yeniden sınıflandırmadır. Atenas ve arka
 
 Açıklığın kurumsal gerekçesi özerklik üzerinden de kurulur. [[panda-editorial-digital-transformation-open-education-2026|Panda (2026)]] bir başyazıda açık ve esnek öğrenmedeki dijital dönüşümün teknoloji benimsemesi değil pedagojik dönüşüm olduğunu ve bir teknolojinin ancak yerel bağlamda uygun bir pedagojiyle hizalandığında inandırıcılık kazandığını savunur. [[rodes-paragarino-oer-generative-ai-framework-2026|Rodés-Paragarino ve Atenas (2026)]] bunu, belge analizi, uzman doğrulaması ve Aralık 2025’te Bilbao’da 81 katılımcıyla yapılan katılımcı bir çalıştayla kurulmuş, OER ile üretici YZ’nin sorumlu bütünleşmesine dair yedi sütunlu bir çerçeveye dönüştürür.
 
-### Açık pedagoji ve uygulama dönüşü
+## Açık pedagoji ve uygulama dönüşü
 
-Açık pedagoji öğrenciyi tüketiciden katkı sunana taşır: bir ödev yayımlanan, lisanslanan ve yeniden kullanılabilen bir şey üretir. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] fikrin alandaki en temiz sınamasını sunar. [[early-childhood-elementary-ai-education|Çocuk gelişimine giriş]] dersinin iki şubesi aynı ders kitabını güncellemiş, bunlardan biri üretici YZ araçlarıyla çalışmıştır. 113 ödev genelinde her iki şubedeki öğrenciler bilgi okuryazarlığı becerilerinin arttığını bildirmiş ve artış iki şube arasında istatistiksel olarak ayırt edilemez olmuştur: F(1, 84) = 47.30, p < 0.001 ve kısmi η2 = 0.36 düzeyindeki bir zaman etkisine karşılık F(1, 84) = 0.04, p = 0.85 düzeyinde bir zaman × şube etkileşimi. YZ şubesi daha fazla iş tamamlamış ve 180 üzerinden 173,86’ya karşı 174,73 ile biraz daha düşük puan almıştır.
+Açık pedagoji öğrenciyi tüketiciden katkı sunana taşır: bir ödev yayımlanan, lisanslanan ve yeniden kullanılabilen bir şey üretir. [[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell (2026)]] fikrin alandaki en temiz sınamasını sunar. [[early-childhood-elementary-ai-education|Çocuk gelişimine giriş]] dersinin iki şubesi aynı ders kitabını güncellemiş, bunlardan biri üretici YZ araçlarıyla çalışmıştır. 113 ödev genelinde her iki şubedeki öğrenciler [[information-and-media-literacy|bilgi okuryazarlığı]] becerilerinin arttığını bildirmiş ve artış iki şube arasında istatistiksel olarak ayırt edilemez olmuştur: F(1, 84) = 47.30, p < 0.001 ve kısmi η2 = 0.36 düzeyindeki bir zaman etkisine karşılık F(1, 84) = 0.04, p = 0.85 düzeyinde bir zaman × şube etkileşimi. YZ şubesi daha fazla iş tamamlamış ve 180 üzerinden 173,86’ya karşı 174,73 ile biraz daha düşük puan almıştır.
 
 Uygulamanın kendi olgunluk literatürü vardır. [[duan-open-educational-practices-evolution-2026|Duan (2026)]] [[meta-analysis-systematic-review|PRISMA]] 2020 uyarınca 540 kaydı eleyerek açık eğitim uygulamasının on dört modeline indirmiş, bunları üç boyutta karşılaştırmış ve üretici YZ’nin yerleşik modellerin yerini almak yerine onların altında durduğu sonucuna varmıştır; makale bu savı [[tpack|TPACK]]’e göre konumlandırır. [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] 1970’ten bu yana uzanan yapılandırılmış bir derlemede etkileşimsellik konusunda benzer bir sonuca varır: etkileşimli özellikler gösterilmiş bir etkiden çok bir tasarım savıdır ve bildirdiği en güçlü etki büyüklükleri OER içinde ölçülmek yerine daha eski [[physics-education|fizik eğitimi]] çalışmalarından ödünç alınmıştır.
 
 İki çalışma daha, uygulama katmanının ne kadar hızlı bir yönetişim katmanına dönüştüğünü gösterir. [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya ve Miranda (2026)]] UNESCO ile ICDE’nin 13 ülkeden 10 ekipte 110 katılımcıyla yürüttüğü bir ikamet programını belgeler; ancak anket tabanları yanıt oranı verilmeyen 54 kurumdan gelen 72 yanıttır ve bu, BM 2030 Gündemi’ni hedefleyen bir yol haritası için zayıf bir dayanaktır. [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu ve Gao (2026)]] ise 30 Çin ilinde 512 öğretmene YZ okuryazarlığının açık öğretim uygulamasına dönüşüp dönüşmediğini sormuş ve yenilikçi davranış üzerinden dolaylı bir yol bulmuştur: düşük kurumsal destekte 0.218 olan bu yol, yüksek destekte anlamsız 0.042’ye düşmektedir.
 
-### Eşitlik, sürdürülebilirlik ve Küresel Güney
+Açık uygulama ile [[generative-ai|üretici YZ]] çarpıştığı yer lisanslama sorunudur. [[jordan-faculty-ai-oer-creation-2025|Jordan ve ark. (2025)]], yedi öğretim üyesine sekiz haftalık bir kohortta ChatGPT ile açık materyaller oluşturması için ücret ödedi ve programın kendi çıktısının bir Creative Commons lisansı taşıyamayacağını buldu: model tarafından üretilen metin, bir lisansın bağlanabileceği bir yazarlık olmadan kamu malına girer. Yazarlar, lisanslı katmanı model tarafından üretilen katmandan ayırmayı savunuyor. İkinci bir yaklaşım modeli dersin içinde tutar: [[powell-chatbot-enhanced-oer-composition-2026|Powell ve ark. (2026)]] bir yazma asistanını tek bir açık ders kitabı ve onun ders belgeleri üzerinde eğitti; böylece asistan, kaynağı ikame etmek yerine genişletir; [[beznosko-local-ai-rag-physics-oer-2026|Beznosko ve ark. (2026)]] aynı hamlesi yerel donanımda gösterir, öğretim elemanı materyallerinden quizler üretir ve hiçbir şeyi bir satıcıya göndermez.
+
+## Eşitlik, sürdürülebilirlik ve Küresel Güney
 
 Açık içeriğin [[equity-in-ai-education|eşitlik]] savı en eskisidir: fiyatı olmayan bir kaynağın fiyatı yükseltilemez. Aynı zamanda ileri sürülmesi en kolay, sınanması en seyrek olanıdır. YZ dönemi versiyonları daha dikkatlidir. Atenas ve arkadaşları OER’yi marjinalleştirilmiş topluluklar ve veri toplamaya anlamlı katılım için bir kaldıraç olarak çerçevelerken, üretilmiş kaynaklara aşırı bağımlılığın insan [[creativity|yaratıcılığını]] ve muhakemesini değersizleştirme riski taşıdığı uyarısını yapar. Tlili ve arkadaşları üretimin bu kaldıracı bozduğu mekanizmaları adlandırır: çeviri hatası, eğitim verisi yanlılığı ve üretilmiş içeriğin bir sonraki modeli eğiten derlemlere geri döndüğü bir [[hallucination-risk|halüsinasyon]] döngüsü.
 
@@ -77,7 +83,7 @@ Sürdürülebilirlik iki kez girer: finansman ve enerji olarak. Dijital kamusal 
 
 [[global-south|Küresel Güney]] boyutu, kanıtın en çok inceldiği yerdir. Bu gruptaki Batı dışı vakalar gerçektir ama azdır: bir Latin Amerika işbirliği ikamet programı, Çinli açık üniversite öğretmenleri ve altyapının katılımın önkoşulu olarak çerçevelenmesi. Açıklığın kapasiteyi otomatik olarak yeniden dağıttığı iddiaları bu çalışmalarca desteklenmemektedir ve birkaçı bunu açıkça söyler.
 
-### Yazma ve öneri sistemlerinin argümanla kesiştiği yer
+## Yazma ve öneri sistemlerinin argümanla kesiştiği yer
 
 Bu gruptaki iki makale politika değil üretim sistemleriyle ilgilidir. [[peng-personalized-recommendation-oer-2026|Peng (2026)]] OER için hibrit bir derin önerici geliştirir ve 2,400 etkileşim kaydı üzerinde yüzde 93,6 doğruluk, yüzde 92,5 kesinlik, yüzde 91,0 duyarlılık ve 90,2 F1 puanı bildirir. Kendi karşılaştırma tablosu, eşit duyarlılıkla 90,8 F1 düzeyinde bir BERT4Rec temel çizgisi gösterir; veri kümesi bölümü ise kullanıcı sayısını, öğe sayısını ve seyrekliliği yer tutucu olarak bırakır. Modelleme iddiası ölçülüdür; kalıp tanıdıktır: güçlü bir temel çizgiye göre ilerleme, başlıktan küçüktür.
 

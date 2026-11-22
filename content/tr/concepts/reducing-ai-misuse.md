@@ -1,6 +1,6 @@
 ---
 title: YZ Kötüye Kullanımını Azaltma
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T21:05:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [ai-misuse-learning-harm, cognitive-offloading, academic-integrity, assessment, ai-literacy, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, ai-sycophancy, trust-calibration, framing-ai-use-for-students, cognitive-surrender]
 connected_articles: [ivory-psychology-assessment-integrity-2026, tuo-armada-multi-agent-debate-overreliance-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-assessment-scale-reform, critical-thinking-genai-scaffolding, aaai2026-prompting-literacy-k12, genai-declaration-frameworks-higher-education, absent-cognitive-baseline-2026, ai-literacy-power-knowledge, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ssaho-ai-academic-integrity-review-2025, young-people-learning-generative-ai-rapid-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, ai-overreliance-complex-adaptive-system-2026, burneo-can-edtech-close-learning-gaps-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, mulisa-students-genai-integrity-perspectives-2026, harerimana-remote-proctoring-nursing-scoping-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, tie-responsible-genai-use-academic-writing-review-2026, guo-overreliance-genai-feedback-2026]

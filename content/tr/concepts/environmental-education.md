@@ -1,6 +1,7 @@
 ---
 title: "Çevre Eğitimi"
 created: "2026-10-14T07:18:39-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -10,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
 connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Çevre eğitimi** — iklim, sürdürülebilirlik ve doğal dünya hakkında öğretim; [[ai-education|eğitimde YZ]] bağlamında bu aynı anda iki şey haline gelmiştir: YZ’nin [[inquiry-based-learning|sorgulama]] ve [[situated-learning|durumlu]] öğrenme yoluyla destekleyebildiği bir konu ve YZ’nin yüklediği bir maliyet, çünkü her öğrencinin dizüstü bilgisayarında çalışan enerji yoğun [[llm|dil modelleri]] kendi çevresel ayak izlerini taşır. Bilgi tabanı iki yarıyı birlikte ele alır, çünkü karbon yoğun bir araçla verilen [[sustainability|sürdürülebilirlik]] eğitimi, hiçbir tek çerçevenin tek başına yanıtlayamadığı bir soruyu gündeme getirir.
+> **Çevre eğitimi** — iklim, sürdürülebilirlik ve doğal dünya hakkında öğretim; [[ai-education|eğitimde YZ]] bağlamında bu aynı anda iki şey haline gelmiştir: YZ’nin [[inquiry-based-learning|sorgulama]] ve [[situated-learning|durumlu]] öğrenme yoluyla destekleyebildiği bir konu ve YZ’nin yüklediği bir maliyet, çünkü her öğrencinin dizüstü bilgisayarında çalışan enerji yoğun [[llm|dil modelleri]] kendi çevresel ayak izlerini taşır. İki yarı birlikte ele alınır, çünkü karbon yoğun bir araçla verilen [[sustainability|sürdürülebilirlik]] eğitimi, hiçbir tek çerçevenin tek başına yanıtlayamadığı bir soruyu gündeme getirir.
 
 ## Düşünülmesi Gerekenler
 
@@ -35,7 +40,7 @@ connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-i
 
 ## Giriş
 
-**Çevre eğitimi**, ekolojik sistemleri, iklimi ve insan–çevre karşılıklı bağımlılığını anlayışını, bunlara ilişkin eylem için gerekli eğilim ve yetkinliklerle birlikte geliştirir — kurumsal olarak genellikle Sürdürülebilir Kalkınma için Eğitim (ESD) ya da “yeşil eğitim” olarak çerçevelenir. Eğitimde YZ bağlamında bu terim, bilgi tabanının her zaman adını koymadan çarpıştığı bir gerilim taşır: **çevre eğitimi için bir araç olarak YZ** (iklim ve sürdürülebilirlik içeriğini üretici araçlarla öğretmek) ve **YZ’nin kendi çevresel ayak izi** (kurumların kullandığı modellerin karbon, su ve enerji maliyeti). Bunlar farklı kanıtlara, aktörlere ve çözümlere sahip farklı sorulardır; bazı makalelerin ve çoğu strateji belgesinin yaptığı gibi onları birbirine karıştırmak, kimin ne için sorumlu olduğunu söylemeyi olanaksız kılar.([[daniel-ai-sustainability-scoping-review-2026]])([[aied-carbon-footprint-reporting]])
+**Çevre eğitimi**, ekolojik sistemleri, iklimi ve insan–çevre karşılıklı bağımlılığını anlayışını, bunlara ilişkin eylem için gerekli eğilim ve yetkinliklerle birlikte geliştirir. Bu, kurumsal olarak genellikle Sürdürülebilir Kalkınma için Eğitim (ESD) ya da “yeşil eğitim” olarak çerçevelenir. Eğitimde YZ bağlamında bu terim, alanda her zaman adı konmadan boy gösteren bir gerilim taşır. Gerilim, **çevre eğitimi için bir araç olarak YZ**’yi (iklim ve sürdürülebilirlik içeriğini üretici araçlarla öğretmek) **YZ’nin kendi çevresel ayak izi** (kurumların kullandığı modellerin karbon, su ve enerji maliyeti) ile birbirine karşı konumlandırır. Bunlar farklı kanıtlara, aktörlere ve çözümlere sahip farklı sorulardır; bazı makalelerin ve çoğu strateji belgesinin yaptığı gibi onları birbirine karıştırmak, kimin ne için sorumlu olduğunu söylemeyi olanaksız kılar.([[daniel-ai-sustainability-scoping-review-2026]])([[aied-carbon-footprint-reporting]])
 
 ## “YZ ile çevre eğitimi” adı verilen iki şey
 
@@ -54,9 +59,9 @@ Tasarım tarafını iki daha küçük çalışma kapsıyor. Sürdürülebilir Ka
 
 ## Eğitimde YZ’nin çevresel ayak izi
 
-Bilgi tabanının en ince olduğu yer bu yarısıdır. AIED 2025 bildiri metinlerinin tümünü — 396 makaleyi — inceleyen bir çalışma “açıklama olmadan LLM benimseme”yi buldu: projelerin çoğu [[llm|LLM]] kullanıyor, 85 makale herhangi bir hesaplama maliyeti bildirmiş ve yalnızca 57’si çevresel etkiden söz etmiş — birbiriyle uyumsuz ölçütler kullanıldığı için alan kendi kanıtını bir araya getiremiyor. Yazarlar, çevresel maliyeti bildirmemekle baş başa bir [[ethics|etik]] kaygı olduğunu savunuyor ve özel mülk modeller için iki parametreli bir FLOPs tahminine ek olarak CodeCarbon’u içeren bir [[open-source]] yöntem öneriyor.([[aied-carbon-footprint-reporting]])
+Kanıtın en ince olduğu yer bu yarısıdır. AIED 2025 bildiri metinlerinin tümünü — 396 makaleyi — inceleyen bir çalışma “açıklama olmadan LLM benimseme”yi buldu: projelerin çoğu [[llm|LLM]] kullanıyor, 85 makale herhangi bir hesaplama maliyeti bildirmiş ve yalnızca 57’si çevresel etkiden söz etmiş — birbiriyle uyumsuz ölçütler kullanıldığı için alan kendi kanıtını bir araya getiremiyor. Yazarlar, çevresel maliyeti bildirmemekle baş başa bir [[ethics|etik]] kaygı olduğunu savunuyor ve özel mülk modeller için iki parametreli bir FLOPs tahminine ek olarak CodeCarbon’u içeren bir [[open-source]] yöntem öneriyor.([[aied-carbon-footprint-reporting]])
 
-Öğrenen tarafında, canlı LLM kullanımı sırasında gecikme–karbon ödünleşimini gösteren bir eko-geri bildirim arayüzü, bir bilgisayar etiği dersindeki 89 bilgisayar bilimi lisans öğrencisiyle çalışıldı: öğrenciler düşük gecikmeli etkileşimlerin yaklaşık %45’inde daha düşük karbonlu modu seçti, ancak yüksek gecikmede %5’in altında kaldı; sürdürülebilirlik bilinci bu seçimi belirgin biçimde artırdı. Örneklem küçük ve olağandışı teknik bilgilendirmeye sahip, fakat ayak izi bilgisinin öğrenenleri hareket ettirdiğine dair bilgi tabanındaki tek doğrudan kanıt — ve bağlayıcı kısıtlamanın değerler değil sabır olduğunu düşündürüyor.([[llm-environmental-impact-student-usage-2026]])
+Öğrenen tarafında, canlı LLM kullanımı sırasında gecikme–karbon ödünleşimini gösteren bir eko-geri bildirim arayüzü, bir bilgisayar etiği dersindeki 89 bilgisayar bilimi lisans öğrencisiyle çalışıldı: öğrenciler düşük gecikmeli etkileşimlerin yaklaşık %45’inde daha düşük karbonlu modu seçti, ancak yüksek gecikmede %5’in altında kaldı; sürdürülebilirlik bilinci bu seçimi belirgin biçimde artırdı. Örneklem küçük ve olağandışı teknik bilgilendirmeye sahip, fakat ayak izi bilgisinin öğrenenleri hareket ettirdiğine dair tek doğrudan kanıt — ve bağlayıcı kısıtlamanın değerler değil sabır olduğunu düşündürüyor.([[llm-environmental-impact-student-usage-2026]])
 
 Azaltım kanıtı, açık lisanslı içerikle çalışan, tek bir tüketici sınıfı GPU (12 GB VRAM) üzerinde çalışan yerinde bir [[cs-education|CS]] bilgi tabanı asistanından geliyor: sorgu başına en iyi durumda 1.8 mWh — her biri on sorgu gönderen 30 öğrencilik bir sınıf için yaklaşık 0.54 Wh — niceleme farkında [[llm-training-and-fine-tuning|ince ayar]], hem doğruluk kaybını hem de yalnızca sıkıştırmanın neden olduğu [[hallucination-risk|halüsinasyon]] artışını sınırlandırıyor. Bu bir mühendislik kıyaslaması, öğrenme çalışması değil, ancak ayak izi sorusunun yalnızca kullanım disiplini kolları değil, tasarım kolları (temellendirme, niceleme, dağıtım yeri) olduğunu gösteriyor.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
@@ -79,7 +84,7 @@ Bu literatürü düzenleyen [[meta-analysis-systematic-review|kapsam incelemesi]
 1. **Hangi soruyu yanıtladığınızı adlandırın.** “Sürdürülebilirlik” ifadesini hem iklim öğretimi için YZ hem de YZ’nin kendi ayak izi için kullanan stratejiler, [[daniel-ai-sustainability-scoping-review-2026|Daniel vd. (2026)]]’nin ortaya koyduğu hesap verebilirlik boşluğunu gizler; gündemleri ayrı, ayrı sahipleriyle tutun.
 2. **Ayak izi açıklamasını alan altyapısı olarak ele alın.** Hesaplama gücünü ve karbonu doğruluğun yanında bildirmek — ölçüm kusursuz olmasa bile bir sürdürülebilirlik beyanıyla — uyumsuz ölçütler sorunundan çıkmanın tek yolu.
 3. **Sabırsız öğrenen için tasarlayın.** Daha düşük karbonlu seçenek algılanan gecikmeye mal oluyorsa, öğrencilerin çoğu onu seçmeyecektir: gecikmeyi düşük tutun, denetimleri görünür kılın ve etkiyi soyut karbon birimleriyle değil somut sonuç terimleriyle anlatın.
-4. **Pedagojinin izin verdiği yerde daha hafif dağıtımı tercih edin.** Bir modeli lisanslı yerel bir derlemde temellendirmek ve ince ayarla nicelemek, enerjinin bir kesrinde kullanılabilir doğruluk verdi — bulut çıkarımını ölçeklendirmeden önce bu deseni yeniden kullanın.
+4. **Pedagojinin izin verdiği yerde daha hafif dağıtımı tercih edin.** Bir modeli lisanslı yerel bir veri kümesinde temellendirmek ve ince ayarla nicelemek, enerjinin bir kesrinde kullanılabilir doğruluk verdi — bulut çıkarımını ölçeklendirmeden önce bu deseni yeniden kullanın.
 5. **Öğretmen yetkinliğini farkındalık kampanyalarıyla değil materyal geliştirmeyle oluşturun** ve Kuzey Amerika ile Avrupa bağlamlarından kanıt ithal etmek yerine [[global-south|Küresel Güney]] boşluğunu doldurun.
 
 ## Yaygın yanlış anlamalar

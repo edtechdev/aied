@@ -7,7 +7,7 @@ foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

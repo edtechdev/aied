@@ -1,6 +1,7 @@
 ---
 title: "Eleştirel Pedagoji"
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -8,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,7 +17,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy, critiques-of-ai-in-education]
 connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
@@ -35,11 +40,11 @@ connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multim
 
 ## Giriş
 
-Eleştirel pedagoji, [[critical-thinking]] ten farklıdır. Eleştirel düşünme — argümanları değerlendirme, varsayımları sorgulama ve dikkatle akıl yürütme — hemen her çerçeve içinde çalıştırılabilen bir bilişsel beceridir. Eleştirel pedagoji buna karşılık bu becerileri güç, adalet, [[equity-in-ai-education|eşitlik]] ve toplumsal dönüşüm sorularına bağlayan bir *siyasi ve [[ethics|etik]] duruştur*. Bilgi tabanı bunları ilişkili ama farklı kavramlar olarak ele alır: eleştirel düşünme “bu akıl yürütme sağlam mı?” diye sorar, eleştirel pedagoji ise “bu eğitim kime hizmet eder ve kimin bilgisi geçerli sayılır?” diye sorar.
+Eleştirel pedagoji, [[critical-thinking]] ten farklıdır. Eleştirel düşünme — argümanları değerlendirme, varsayımları sorgulama ve dikkatle akıl yürütme — hemen her çerçeve içinde çalıştırılabilen bir bilişsel beceridir. Eleştirel pedagoji buna karşılık bu becerileri güç, adalet, [[equity-in-ai-education|eşitlik]] ve toplumsal dönüşüm sorularına bağlayan bir *siyasi ve [[ethics|etik]] duruştur*. Bunlar ilişkili ama farklı kavramlardır: eleştirel düşünme “bu akıl yürütme sağlam mı?” diye sorar, eleştirel pedagoji ise “bu eğitim kime hizmet eder ve kimin bilgisi geçerli sayılır?” diye sorar.
 
-### Eleştirel pedagoji ve eğitimde yapay zeka
+## Eleştirel pedagoji ve eğitimde yapay zeka
 
-[[ai-education|Eğitimde yapay zeka]], eleştirel pedagoji için keskin sorular ortaya çıkarır ve bilgi tabanı çeşitli akımları belgeler:
+[[ai-education|Eğitimde yapay zeka]], eleştirel pedagoji için keskin sorular ortaya çıkarır ve bu sorulara yönelik çeşitli çalışma akımları yanıt verir:
 
 - **Eğitimin “YZ kolonizasyonuna” eleştirisi.** Eleştirel ve feminist araştırmacılar, [[generative-ai|üretken yapay zeka]] nın eğitimi sömürgeci istismar ve çıkar örüntülerini — verinin, emeğin ve doğal kaynakların çıkarılması — güçlü olanları marjinalleştirilmiş toplulukların zararına zenginleştirerek yineler biçimde yeniden şekillendirdiğini savunur.([[avraamidou-ai-colonization-science-education]]) Bu çerçeveleme, YZ’yi tarafsız bir mucize çözüm olarak sunan “tekno-utopya” anlatısını reddeder.
 - **Uyumdan insanın gelişmesine.** Sosyalist–hümanist bir derleme, YZ okuryazarlığını uyumdan dönüşüme taşıyarak “AIgemony” — YZ’nin kurumsal güç asimetrilerini pekiştirmesi — ile görünmez insan etiketleme emeğinin “hayalet işini” adlandırır ve sahiplenme kiplerinin (“having”) yerine etkin katılımın “var olma” kipini (“being”) teşvik eder ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
@@ -55,23 +60,15 @@ Eleştirel pedagoji, [[critical-thinking]] ten farklıdır. Eleştirel düşünm
 - **Tasarım çözümleri tek başına yeterli değildir.** Değere duyarlı tasarım gibi insan merkezli tasarım yaklaşımları yetersizdir: işgücü üretkenliği çerçevelerini ve ekonomik teşvikleri oluşturan sistemsel itici güçleri dokunulmaz bırakırlar ve [[agency]] sıfır toplamlı olabilir; bu nedenle araca devredilen kapasite, öğrenenin elinde kalmayan kapasitedir ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 - **YZ yönetişimini bir oluşum olarak sınayan olarak insan hakları eğitimi.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]], BM’nin *hakkında, yoluyla ve için* çerçevesini bir hukuk programında irdeler ve zorluğun teknolojide değil pedagojide yattığını ortaya koyar: öğrenciler bu yapıtların kanıtlaması beklenen etkileşim olmadan parlak yazılı çalışmalar ve parlak oturum tasarımları sunmuşlar ve en eleştirel düşünme sınıf diyalogunda değil ders sonu yazılarında ortaya çıkmıştır. Onun sonucu eğitimcinin rolünü küçültmek yerine onu kaydırır — [[governance|YZ yönetişimi]], öğrencilerin itiraz etmek üzere eğitildiği profesyonel bir sorumluluk hâline gelir ve [[llm|araç]] yasaklanmak yerine yönlendirilir.
 
-### Değerlendirmenin bir eleştiri alanı olarak
+- **Bir çalışma biçiminde eleştiri.** Yukarıdaki sorular, müfredat yerine YZ’nin kendisine yöneltilerek [[critiques-of-ai-in-education|Eğitimde YZ Eleştirileri]] başlığı altında toplanır.
+
+## Değerlendirmenin bir eleştiri alanı olarak
 
 Eleştirel pedagoji değerlendirmeye, bir yeniden tasarımın kimin çıkarlarına hizmet ettiği sorusuyla girer. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] bu savı Pratik Mimarileri Kuramı’nı eleştirel pedagojiyle birleştirerek kurar; öyle ki bir değerlendirme reformu aynı anda üç şeyi hareket ettirmek zorundadır: bazı pratikleri düşünülebilir kılan kültürel-söylemsel dil, araçların ve kaynakların maddi-ekonomik düzenlemeleri ve gücün sosyal-politik dağılımı. Çerçevenin uyarısı belirgindir. Kaynaklar açık bir eşitlik dikkati olmadan mevcut güç yapılarından aktığında, iyi niyetli bir yeniden tasarım ele almayı amaçladığı eşitsizlikleri büyütür; bu da kaynak-güç kesişimini hem en büyük kaldıraç noktası hem de en büyük risk haline getirir. Dört aşamalı matrisi eleştirel analiz, müdahale tasarımı, eşitlik odaklı uygulama ve değerlendirme olarak işler; artımlı değişimi ve üretken gerilimi hızlı dönüşümde başarısızlık olarak değil, meşru sonuçlar olarak ele alır.
 
-### Eğitimcinin rolü
+## Eğitimcinin rolü
 
 Eleştirel pedagoji altında eğitimciler, YZ becerilerinin tarafsız aktarıcıları değil, öğrenenlerin YZ’nin siyasetini sorgulamasına yardımcı olan eleştirel muhatap ve kolaylaştırıcılardır. Bu durum bilgi tabanının [[teacher-role]] ve [[ai-literacy]] kavramlarına ve [[equity-in-ai-education]] ile [[reducing-ai-misuse]] konusundaki daha geniş kaygıya bağlanır. Eğitimcinin görevi, toplulukların YZ’yi birlikte sorgulayabileceği, ona göre uyarlayabileceği ya da onu reddedebileceği alanlar oluşturmaktır; eğitimi bir hayal gücü ve toplumsal dönüşüm yeri olarak canlı tutmak. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss ve ark. (2026)]], bu role pratik bir koşul ekler: açık uçlu eleştirel YZ okuryazarlığı çalışması, eğitimcilerin YZ uzmanı olarak gelmesini değil, yalnızca öğrencilerle birlikte keşfetmeye istekli olmasını gerektirir — belirli bir sistem üzerine ortak bir öğrenci–öğretmen soruşturması olan elektronik “geçiş izinleri” (hepsi YZ değil), [[misconceptions]] yanlış kanılarını ortaya çıkarıp üzerinde çalışırken teknik bilgiyi derinleştirmiştir. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran ve Arar (2026)]], bu role yapıcı ve bakım etiği biçiminde bir şekil verir: [[prompt-engineering|istek metni okuryazarlığını]] teknik bir en iyileştirme becerisi değil, retoriksel, etik ve yansıtıcı bir süreç olarak ele alır ve çerçevenin kapanış aşamasında öğrencilerin öğretmenleriyle birlikte Kişisel YZ Kullanım Politikası birlikte tasarlamalarını öngörür; böylece sınıfta YZ kullanımını düzenleyen normları, kendilerine verilen değil, onları yönetenler yazar.
-
-## Yaygın yanlış anlamalar
-
-**“YZ’yi eleştirel kullanmak, onu daha az kullanmak demektir.”** Eleştirel etkileşim bir kullanım miktarı değil, bir kullanım kipidir. Romanya’da bir ortaöğretim alt düzey çalışmasında **42 sınıf bölümünün 15’i (%35,71) YZ bağımlı**, **16’sı (%38,10) YZ geliştirilmiş** ve yalnızca **11’i (%26,19) YZ eleştirel** çıkmıştır; yani geliştirilmiş ve eleştirel bölümlerin ikisi de aracı içerir ve ayrım, öğrencilerin onu sorgulayıp sorgulamadığındadır. Eleştirel kipin seyrekliği bir kullanım sorunu değil, bir öğretim sorunudur.
-
-**“YZ okuryazarlığı tarafsız bir beceri kümesidir.”** Eleştirel pedagoji onu bir direniş ve toplumsal dönüşüm pratiği olarak ele alır; bu da çerçevelemenin kendisini tartışmaya açık kılar. İstek metni tekniğini öğretip sistemin kimin çıkarlarına hizmet ettiğini atlayan bir okuryazarlık [[curriculum-design|müfredatı]], bir araçtaki akıcılığı öğretmiş ama onun siyasetini eleştirmeden benimsemiştir.
-
-**“Eleştirel pedagoji, pratiğin dışından sunulan bir eleştiridir.”** O, eğitimcinin rolüne ilişkin bir duruştur: kimin yararlandığını, kimin bilgisinin ayrıcalıklı sayıldığını ve okulun gücü nasıl yeniden ürettiğini ya da ona nasıl direndiğini sormak. YZ benimsemesine uygulandığında bu, satın almayı şekillendiren kurumsal ve kapitalist mantıkları sorgulamak anlamına gelir: bir öğretim elemanının yalnızca soyut teknoloji hakkında değil, kendi kurumunun tercihleri hakkında da sorabileceği sorular.
-
-**“Marjinalleştirilmiş epistemolojileri merkeze almak, müfredat içeriğine bir eklemedir.”** Bu, kimin bilgisinin bilgi sayıldığını değiştirir; bu da ek bir okuma değil, kursun yapısına ilişkin bir sorudur. İçerik eklemeleri çerçeveyi olduğu gibi bırakır; eleştirel pedagojinin iddiası çerçeve üzerinedir.
 
 ## Uygulama için çıkarımlar
 
@@ -90,3 +87,13 @@ Eleştirel pedagoji altında eğitimciler, YZ becerilerinin tarafsız aktarıcı
 **Araştırmacılar için**
 
 - Sınıflardaki etkileşim kiplerinin dağılımını bildirin, yalnızca ortalama kullanımı değil; çünkü ortalama, herhangi bir eleştirel pratiğin var olup olmadığını gizler.
+
+## Yaygın yanlış anlamalar
+
+**“YZ’yi eleştirel kullanmak, onu daha az kullanmak demektir.”** Eleştirel etkileşim bir kullanım miktarı değil, bir kullanım kipidir. Romanya’da bir ortaöğretim alt düzey çalışmasında **42 sınıf bölümünün 15’i (%35,71) YZ bağımlı**, **16’sı (%38,10) YZ geliştirilmiş** ve yalnızca **11’i (%26,19) YZ eleştirel** çıkmıştır; yani geliştirilmiş ve eleştirel bölümlerin ikisi de aracı içerir ve ayrım, öğrencilerin onu sorgulayıp sorgulamadığındadır. Eleştirel kipin seyrekliği bir kullanım sorunu değil, bir öğretim sorunudur.
+
+**“YZ okuryazarlığı tarafsız bir beceri kümesidir.”** Eleştirel pedagoji onu bir direniş ve toplumsal dönüşüm pratiği olarak ele alır; bu da çerçevelemenin kendisini tartışmaya açık kılar. İstek metni tekniğini öğretip sistemin kimin çıkarlarına hizmet ettiğini atlayan bir okuryazarlık [[curriculum-design|müfredatı]], bir araçtaki akıcılığı öğretmiş ama onun siyasetini eleştirmeden benimsemiştir.
+
+**“Eleştirel pedagoji, pratiğin dışından sunulan bir eleştiridir.”** O, eğitimcinin rolüne ilişkin bir duruştur: kimin yararlandığını, kimin bilgisinin ayrıcalıklı sayıldığını ve okulun gücü nasıl yeniden ürettiğini ya da ona nasıl direndiğini sormak. YZ benimsemesine uygulandığında bu, satın almayı şekillendiren kurumsal ve kapitalist mantıkları sorgulamak anlamına gelir: bir öğretim elemanının yalnızca soyut teknoloji hakkında değil, kendi kurumunun tercihleri hakkında da sorabileceği sorular.
+
+**“Marjinalleştirilmiş epistemolojileri merkeze almak, müfredat içeriğine bir eklemedir.”** Bu, kimin bilgisinin bilgi sayıldığını değiştirir; bu da ek bir okuma değil, kursun yapısına ilişkin bir sorudur. İçerik eklemeleri çerçeveyi olduğu gibi bırakır; eleştirel pedagojinin iddiası çerçeve üzerinedir.

@@ -1,14 +1,16 @@
 ---
 title: Erken Çocukluk Eğitimi
 created: "2026-10-14T07:20:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
 connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
+connected_resources: [ai-guidance-by-age]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,13 +18,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [developmental-psychology, k-12, ai-literacy, computational-thinking, educational-robotics, pedagogical-agent, game-based-learning, experiential-learning, ai-education, math-education, writing-education, well-being, agency, pedagogical-safety, trust-calibration, equity-in-ai-education, digital-divide, parents-and-families]
 connected_articles: [early-childhood-ai-holistic-competencies-review-2026, preservice-early-childhood-genai-magnetism-2026, clara-developmental-appropriateness-children-stories-2026, preschool-teachers-ai-behavioral-intention-2026, ai-play-framework-early-childhood-2026, ai-toys-child-development-2026, tsingidou-ct-robotics-kindergarten-2026, ai-powered-personalized-learning-elementary-fractions-2026, elementary-writing-genai-systematic-review-2026, awareness-technological-isomorphism, icub-humanoid-storytelling-llm-hri-2025, human-ai-complementarity-social-emotional-learning-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, demir-akar-ai-media-literacy-children-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, vahedian-children-attitudes-ai-chatbot-2026, creative-project-approach-ai-early-childhood-2025, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-rated-classroom-observation-scores-2026, ai-literacy-ecec-curricula-four-country-2026, li-zhou-ai-tools-primary-english-scoping-review-2026, early-childhood-teacher-digital-media-literacy-bibliometric-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Erken çocukluk eğitimi** — küçük yaştaki çocukların eğitiminde yapay zekânın kullanılması; okul öncesi dönemi ile ilkokul (birinci kademe) yıllarını kapsar. Bu kapsam; küçük öğrenenlere yönelik YZ okuryazarlığı ve [[computational-thinking|hesapsal düşünme]] müfredatlarını, YZ destekli oyuncak ve oyunları, ilkokul derslerinde [[personalized-learning|kişiselleştirilmiş öğrenmeyi]] ve çocuklara özgü, ergenlere veya yetişkinlere kıyasla farklı olan gelişimsel, güvenlik ve eşitlik boyutlarını içerir.
+> **Erken çocukluk eğitimi** — küçük yaştaki çocukların eğitiminde yapay zekânın kullanılması; okul öncesinden ilkokulun ilk yıllarına (yaklaşık 3–8 yaş) uzanan dönemi kapsar. Bu kapsam; küçük öğrenenlere yönelik YZ okuryazarlığı ve [[computational-thinking|hesapsal düşünme]], YZ destekli oyuncak ve oyun, sınıf robotları, erken [[personalized-learning|kişiselleştirilmiş öğrenme]] ile çocuklara özgü, ergenlere veya yetişkinlere kıyasla farklı olan gelişimsel, güvenlik ve eşitlik boyutlarını içerir. İlkokulun ilerleyen sınıfları [[primary-education|ilkokul eğitimi]] sayfasındadır.
 
 ## Üzerinde Düşünülebilecek Sorular
 
@@ -35,9 +41,9 @@ connected_articles: [early-childhood-ai-holistic-competencies-review-2026, prese
 
 ## Giriş
 
-Küçük çocuklar giderek daha erken yaşta YZ ile etkileşime giriyor — YZ destekli oyuncaklar, sohbet robotları, [[adaptive-learning|uyarlanabilir öğrenme]] platformları ve sınıf robotları aracılığıyla — ancak YZ’nin eğitimde kullanımına ilişkin [[research-methods-aied|araştırmaların]] çoğunluğunda baskın konumdaki K-12 ve yükseköğretim öğrenenlerinden gelişimsel olarak farklıdırlar. Bu kavram, bilgi tabanının bu daha genç kuşağa ilişkin kapsamını bir araya toplar. Daha geniş [[k-12|K-12]] çatısı içinde yer alır; ancak kaygıların gelişimsel olarak özgül olması nedeniyle ayrışır: birincil öğrenme biçimi olarak [[game-based-learning|oyun]], yetişkin (ebeveyn/öğretmen) iskelelemesi, yaşa uygun [[ai-literacy|YZ okuryazarlığı]] ve [[well-being]] ile [[pedagogical-safety|güvenliğe]] yüksek düzeyde özen.
+Bu sayfa, oyunun baskın öğrenme biçimi olduğu ve bir yetişkinin bir araçla karşılaşmalarının çoğunu aracılık ettiği okul öncesi ve erken-ilkokul yıllarını kapsar. Konu öğretiminin ve sınıfça uygulamaların üstünlük kazandığı ilerleyen ilkokul sınıfları [[primary-education|ilkokul eğitimi]] sayfasındadır. Küçük çocuklar giderek daha erken yaşta YZ ile etkileşime giriyor — YZ destekli oyuncaklar, sohbet robotları, [[adaptive-learning|uyarlanabilir öğrenme]] platformları ve sınıf robotları aracılığıyla — ancak YZ’nin eğitimde kullanımına ilişkin [[research-methods-aied|araştırmaların]] çoğunluğunda baskın konumdaki K-12 ve yükseköğretim öğrenenlerinden gelişimsel olarak farklıdırlar. Bu daha genç kuşağın kendi kanıt tabanı vardır. Daha geniş [[k-12|K-12]] çatısı içinde yer alır; ancak kaygıların gelişimsel olarak özgül olması nedeniyle ayrışır: birincil öğrenme biçimi olarak [[game-based-learning|oyun]], yetişkin (ebeveyn/öğretmen) iskelelemesi, yaşa uygun [[ai-literacy|YZ okuryazarlığı]] ve [[well-being]] ile [[pedagogical-safety|güvenliğe]] yüksek düzeyde özen. Bu iddiaların arkasındaki gelişimsel açıklama — yeteneklerin yaşla nasıl değiştiği ve "yaşa uygun" ifadesinin neden bir etiketten ziyade bir ilişki olması gerektiği — [[developmental-psychology|gelişim psikolojisi]] sayfasındadır.
 
-### Araştırmalar nasıl kümeleniyor
+## Araştırmalar nasıl kümeleniyor
 
 - **Çevrimdışı oyun yoluyla YZ okuryazarlığı.** [[ai-play-framework-early-childhood-2026|AI-Play çerçevesi]], erken çocukluk dönemi YZ kavramlarını *çevrimdışı* (bilgisayarsız) etkinliklerle öğretir; soyut YZ fikirlerinin küçük çocuklara bedensel, oyunbaz ve somut etkinlikler aracılığıyla tanıtılabileceğini gösterir (bkz. [[game-based-learning]]) — [[ai-literacy]] ve [[computational-thinking]] için gelişimsel olarak uygun bir giriş yolu.
 
@@ -71,7 +77,20 @@ Küçük çocuklar giderek daha erken yaşta YZ ile etkileşime giriyor — YZ d
 
 - **Çocuk hikâyelerinin gelişimsel uygunluğuna ilişkin YZ tahminleri.** [[clara-developmental-appropriateness-children-stories-2026|Yin ve ark. (2026)]]’in CLARA aracı, bir hikâyenin bilişsel, dil ve sosyal-duygusal taleplerini belgeleyip yayınevi yaş referanslarıyla %0,904 oranında eşleştirir; okunabilirlik formüllerinden (0,603) ve doğrudan istek metninden (0,730) ileridedir — bir insan hakemin yerine geçen değil, destekleyici bir sinyal olarak sunulur.
 
-### Gelişimsel ve eşitlik boyutları
+- **YZ okuryazarlığı, bireysel bilgi değil sınıf içi yorumsal iş olarak.** [[konca-preschool-genai-storytelling-ai-literacy-2026|Konca ve Yigit-Gencten (2026)]], bir Türk okul öncesinde öğretmenin her Midjourney istek metnini yazdığı ve sınıfın çıktıları paylaşılan bir ekranda izlediği 17 hikâye anlatım oturumunu kodlamıştır. Çocuklar, uyuşmazlıkları sisteme düşünce, işitme ve niyet atfederek açıkladı ("iyi düşünememiş"), istek metni-çıktı bağlantılarını tartıştı ve hangi görsellerin tutulacağına oy kullandı. Öğretmenin soruları hangi açıklamaların üstlenileceğine karar verdiğinden ve bazen sorguyu tamamen kapattığından, buradaki erken YZ okuryazarlığı bir çocuğun elinde tutmaktan ziyade etkinlik boyunca dağıtılmıştır.
+- **Öğretmen adayları literatürü YZ etrafında örgütlenmemiştir.** Erken çocukluk öğretmenlerinin dijital ve medya okuryazarlığına ilişkin 86 yayınlık bir bibliyometrik harita, YZ’nin mevcut ancak bir tematik küme oluşturamayacak kadar dağınık olduğunu; dijital yetkinliğin merkezde, medya okuryazarlığının ise gevşek bağlandığını bulmuştur ([[early-childhood-teacher-digital-media-literacy-bibliometric-2026|Janegizova ve ark., 2026]]).
+
+## Çevrimdışı ve yapılandırmacı yollar, ve katılımın kanıtladığı şey
+
+Yukarıdaki çerçeveler, çevrimdışı oyunu YZ kavramlarına gelişimsel olarak uygun bir giriş olarak sunmaktadır. İlkokul literatürünün daha geniş tabanı bunu azınlıkta kalan bir tasarım olarak görür. [[yim-ai-literacy-primary-schools-review-2025|Yim ve Su (2025)]]’in incelediği 25 çalışmada ajanlar 15’te, yazılıma odaklı aygıtlar 8’de, çevrimdışı etkinlikler ise 3’te görülmüştür. Buradaki çevrimdışı çalışma, ölçülmüş bir dayanaktan ziyade savunulabilir bir [[pedagogy|pedagojik]] argümandır: onun için olan taban, ajan ve aygıt temelli tasarımlara göre daha ince.
+
+Yapılandırmacı geleneğin aktardığı yerlerde sıra tartışmalıdır. Programlama yolları, Scratch, MIT App Inventor ve Cognimates’i kullanarak kural tabanlı kodlamayı veri tabanlı öğrenmeden önce öğretir; Yim ve Su, makine öğreniminin bir öğrenenden kural yazmak yerine örnekleri seçiştirmesini istemesinden dolayı bu sırayı sorgular. Komut listesinden ibaret tek bir bilgisayar modeline sahip beş yaşındaki bir çocuk için bu, bir robotu programlamak ile öğretmek arasındaki mesafedir. Derleme ayrıca [[generative-ai|üretici YZ]]’yi bir bulgu yerine gelecek yönü olarak listeler; dolayısıyla bu sayfada betimlenen hikâye anlatım ve ajan çalışmalarının çoğu, kendisinin dayanak alabileceği kanıt tabanının sonrasına aittir.
+
+Katılım, bu tasarımların en sık rapor ettiği sonuçtur ve bu, anlayış değildir. [[barokah-ai-elementary-science-review-2026|Barokah, Hermita ve Putra (2026)]], 2023’ten 2026’nın başına kadar 103 yayılımı beş uygulama kümesine haritalar — bunların arasında robotik vardır — ve bir çocuğun bir inşaat sorgusuyla büsbütün meşgul olmasının, onun model aldığı olgu hakkında hiçbir şey öğrenmeyebileceğine dair uyarıda bulunur. Onların daha genel bulgusu, değerin öğretmenin görevi nasıl çerçeveleyip aracılık ettiğine bağlı olduğudur; bu argümanı kendi kodlamalarından ziyade alıntıladıkları çalışmalarla desteklerler.
+
+Epistemik boşluk, erken fen eğitiminin ona en çok ihtiyaç duyduğu yerdedir. Aynı harita, sonuçların bilişsel, duyuşsal, düzenleyici ve katılımcı kategorilere yayıldığını; çalışmaların ise nadiren çocukların gözlemi çıkarımdan ayırıp ayırmadığını, bir model oluşturup oluşturmadığını veya YZ tarafından üretilen bir iddianın sınırlarını fark edip etmediğini sorduğunu bulur. Harita ayrıca, üst ilkokul performans görevlerinin kısmi açıklamalar, çizimler ve jestler ürettiğini; bu nedenle gelişimsel olarak üretken bir yanıtı yanlış sayan puanlamanın, değerlendirmeyi [[formative-assessment|biçimlendirici]] işlevinden yoksun kıldığını uyarır. Altı ve yedi yaşındaki çocukları olan bir öğretmen için bu, bir modeli puanlamak yerine eseri okuyan bir yetişkini tutmanın nedenidir.
+
+## Gelişimsel ve eşitlik boyutları
 
 Küçük öğrenenler daha kırılgan oldukları ve YZ kullanımlarını daha zayıf öz düzenleyebildikleri için bu küme, **yetişkinlerce iskelelemeyi** (ebeveynler, vasiler ve öğretmenler), **yaşa uygun tasarımı** ve YZ, oyunun, keşfin ve çaba gerektiren öğrenmenin gelişimsel işini desteklemek yerine yerine geçerse [[cognitive-offloading|aşırı yüklenme]] ve [[well-being|zarar]] riskini vurgular. Eşitlik canlı bir kaygıdır: YZ’nin zenginleştirdiği erken öğrenmeye (ya da koruyucu yetişkin rehberliğine) erişim eşit dağılmamaktadır ve bu durum [[digital-divide]] ile [[equity-in-ai-education]] kavramlarına bağlanır. Kanıt tabanının büyük bölümü nedensel olmaktan çok keşfedici veya tasarıma dayalı olmaya devam etmektedir.
 

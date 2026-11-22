@@ -1,6 +1,7 @@
 ---
 title: Mühendislik Eğitimi
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -11,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,13 +20,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Mühendislik Eğitimi** — öğrencilerin mühendisliği nasıl öğrendiğini ve bunu nasıl etkili biçimde öğreteceğimizi inceleyen alan; YZ'nin mühendislik pedagojisini, değerlendirmeyi, akademik personel gelişimini ve mühendislik iş gücünü nasıl dönüştürdüğünü kapsar. Bu bilgi tabanındaki mühendislik eğitimi makaleleri birkaç tema çevresinde kümelenmektedir: öğretim görevlilerinin YZ'yi anlamlandırmak için kullandığı [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]], YZ kullanımının [[ethical-use-ai-engineering-education-review-2026|ethical governance]], kavramsal anlamanın [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] ve YZ'nin [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]] nasıl yeniden şekillendirdiği.
+> **Mühendislik Eğitimi** — öğrencilerin mühendisliği nasıl öğrendiğini ve bunu nasıl etkili biçimde öğreteceğimizi inceleyen alan; YZ'nin mühendislik pedagojisini, değerlendirmeyi, akademik personel gelişimini ve mühendislik iş gücünü nasıl dönüştürdüğünü kapsar. Mühendislik eğitimi araştırması birkaç tema çevresinde kümelenmektedir: öğretim görevlilerinin YZ'yi anlamlandırmak için kullandığı [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]], YZ kullanımının [[ethical-use-ai-engineering-education-review-2026|ethical governance]], kavramsal anlamanın [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] ve YZ'nin [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]] nasıl yeniden şekillendirdiği.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -39,13 +44,14 @@ connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engin
 
 Mühendislik eğitimi araştırması, mesleki oluşum ile titiz STEM içeriğinin kesişiminde yer alması nedeniyle kendine özgüdür. [[design-thinking|design]], problem çözmeyi, uygulamalı ve laboratuvar öğrenmesini, takım çalışmasını ve mezunları mesleki uygulamaya hazırlamayı vurgular. Tasarım aynı zamanda mühendislik eğitiminin [[design-education]] ile paylaştığı zemindir ve ikisi bunu denetlenebilir olana göre böler: mühendisliğin değerlendirilen nesnesi hesaplanabilir yapıtlara izin verir ve kamu güvenliği hesap verebilirliği taşır; tasarım eğitiminki ise yapıtın arkasındaki stüdyo sürecidir — taslak, yineleme, eleştiri — üretken araçların artık onu üreten süreç olmadan üretebildiği tam olarak bu kanıt. YZ burada kendine özgü sorular ortaya çıkarmaktadır: YZ tasarım görevlerini benzetebildiğinde veya otomatikleştirebildiğinde uygulamalı ve vüut bulmuş deneyim hâlâ önemli mi; YZ kullanımının mesleki ve etik açıdan neyin tehlikede olduğu (mühendislerin kararları kamu güvenliğini, altyapıyı ve [[sustainability]] etkiler); ve YZ'nin mezunların ihtiyaç duyduğu yetkinlikleri ile girdikleri iş gücünü nasıl yeniden şekillendirdiği.
 
-## YZ, bilgi tabanının mühendislik eğitimi araştırmalarında nasıl görünür
+## YZ, mühendislik eğitimi araştırmasında nasıl görünür
 
 - **Personelin anlayışı ve paylaşılan dil:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]], mühendislik öğretim görevlilerinin YZ'yi tanımlamak için kullandığı [[metaphors-and-analogies|mecazları]] analiz etmiş; çoğunlukla ona insan benzeri bir “sosyal varlık/ajan” veya bir “teknik araç” olarak çerçevelediğini ve aynı bölümdeki öğretim görevlilerinin temelde farklı zihinsel modeller benimsediğini bulmuştur. Mecazların hem anlayışı inşa ettiği hem kısıtladığı gerekçesiyle, paylaşılan ve doğru bir dilin [[educational-development]] ve YZ hakkındaki bölüm tartışmaları için gerekli olduğunu savunmaktadırlar.
 - **Etik ve sorumlu kullanım:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]], lisans düzeyi mühendislik eğitiminde YZ'ye ilişkin ampirik çalışmaları [[meta-analysis-systematic-review|systematically review]] yedi yinelenen etik yönerge biçimini tanımlamıştır (şeffaflık, hesap verebilirlik, öğrenci bağımsızlığı/özerkliği, gizlilik, [[academic-integrity]], adillik/[[equity-in-ai-education|equity]]/önyargı, yararlılık). Etik yönergenin ağırlıklı olarak öğrencilere yönelik ve uyum odaklı olduğunu, karşılıklı akademik personel ve kurumsal hesap verebilirliğinin ise gelişmemiş durumda olduğunu bulmaktadırlar — mühendisliğin kamu güvenliğine ve toplumsal [[well-being]] doğrudan payı nedeniyle artan bir kaygı.
 - **Vüut bulmuş ve [[multimodal]] değerlendirme:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]], mühendislik öğrencilerinin istatistiğe ilişkin kavramsal anlayışını değerlendirmek için bilgisayarlı görü jest izlemesini konuşmanın [[llm]] analiziyle bütünleştiren çok kipli bir çerçeve geliştirmiştir; jestin konuşmanın ötesinde tanı koyucu kanıt eklediğini ve sıkı jest–konuşma eşleşmesinin tutarlı anlamayı işaret ettiğini göstermiştir.
 - **İş gücü dönüşümü:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]], YZ ve mühendislik/bilişim iş gücüne ilişkin ABD gri literatürünü derleyerek “Çifte Tren Sorunu”nu (hızlı değişime karşı acil politika) çerçevelemekte ve kalıcı YZ yetkinlikleri, [[ethics]] ve [[governance]] ile ortaya çıkan roller için beceri temelli kimlik belgeleri önermektedir.
 - **Öğrenci benimsemesi ve bel bağlama:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]], Teknoloji Kabul Modelini *eleştirel kullanım* ile genişleterek mühendislik/bilişim öğrencilerinin [[generative-ai|GenAI]] kullanım niyetlerini ve bu niyetin anlama, değerlendirme, programlama ve mühendislik projesi görevlerinde bel bağlamayı nasıl yordığını modellemiştir — ılımlı ve uygun bel bağlama, anlamayla ilişkili görevlerde yoğun kullanım, ancak tam değerlendirme yazımında sınırlı kullanım bulmuştur. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]], Bangladeşli mühendislik öğrencilerinin benimsemesini modellemek için TAM'ı [[technology-acceptance-model|UTAUT]] ile bütünleştirmiş; kullanım varyansının %64'ünü açıklamakta ve işe uygunluk, sonuçların gösterilebilirliği ve öznel normları temel itici olarak vurgulamaktadır.
+- **Alışkanlık kişiyi değiştirir:** Filipinler’deki mühendislik öğrencileri ve eğitimcileri arasında, GenAI kullanılabilir olduktan sonra insanlardan daha az yardım isteme durumunu niyet değil alışkanlık yordamıştır; akademik dürüstlük kaygısı bu yer değiştirmeyi azaltan tek yapı olmuştur ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo ve Bernardo, 2026]]).
 - **[[prompt-engineering|İstek metni stratejisi]], kullanım hacmi değil performansı yordar:** 128 dördüncü sınıf mühendislik öğrencisi arasında, YZ Sorgu Verimliliği ve YZ Kaynaklı Problem Çözme, akademik başarının en güçlü yordayıcıları olmuş ve kümülatif not ortalaması denetlendiğinde anlamlılığını korumuştur ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 - **Öğrencilerin kendi mecazları, araçların sunduğunun ötesindedir:** [[ai-engineering-education-balancing-act|Kudina (2026)]], 100 mühendislik öğrencisinin BBÜ'leri en çok yazma desteği, kavramsal açıklık ve kodlama için değerli bulduğunu, ancak onlara “kâhin” ve “özel ders öğretmeni” çerçevesi uyguladığını bulmuştur — olasılıksal bir metin üretecinin sağlayamayacağı bir otorite ve [[personalized-learning|kişiselleştirme]]; doğrulama becerilerini hâlâ geliştiren öğrencilere bağlı bir “acımasız iyimserlik”.
@@ -62,11 +68,11 @@ Mühendislik eğitiminin imza kaygıları, YZ'nin nasıl benimsendiğini şekill
 
 ## İlgili kavramlarla bağlantılar
 
-Mühendislik eğitimi [[stem-education]] içinde yer alır ve [[cs-education]] (bilişim ve yazılım mühendisliği), [[math-education]] ve [[physics-education]] (mühendisliğin matematiksel ve fiziksel temelleri), [[professional-training]] ve [[educational-development]] (iş gücü ve öğretim görevlisi hazırlığı), [[assessment]] ve [[ethics]] (YZ'nin mesleki ve değerlendirme boyutlu açmazları) ve [[higher-ed]] (kurumsal bağlam) ile güçlü biçimde bağlantılıdır. Bilgi tabanının ASEE kaynaklı makaleleri için ana disiplindir.
+Mühendislik eğitimi [[stem-education]] içinde yer alır ve [[cs-education]] (bilişim ve yazılım mühendisliği), [[math-education]] ve [[physics-education]] (mühendisliğin matematiksel ve fiziksel temelleri), [[professional-training]] ve [[educational-development]] (iş gücü ve öğretim görevlisi hazırlığı), [[assessment]] ve [[ethics]] (YZ'nin mesleki ve değerlendirme boyutlu açmazları) ve [[higher-ed]] (kurumsal bağlam) ile güçlü biçimde bağlantılıdır. Alanın ASEE kaynaklı makaleleri için ana disiplinidir.
 
 ## Yetersiz kapsanan alt alanlar
 
-Bilgi tabanının mühendislik eğitimi kapsamı hâlâ gelişmektedir. Daha fazla makalenin yarar sağlayacağı alt alanlar arasında **[[discipline-specific-aied|discipline-specific]] mühendislik [[pedagogy|pedagogies]]** (makine, inşaat, kimya, elektrik, yazılım ve biyomühendislik eğitimi), **[[design-education|design]] ve yapım (maker) eğitimi**, **bitirme projesi ve [[project-based-learning|project-based learning]]** ve **mühendislik etiği eğitimi** yer alır — YZ'nin rolunun özellikle sonuçları olacağı alanlar.
+Mühendislik eğitimi kapsamı hâlâ gelişmektedir. Daha fazla makalenin yarar sağlayacağı alt alanlar arasında **[[discipline-specific-aied|discipline-specific]] mühendislik [[pedagogy|pedagogies]]** (makine, inşaat, kimya, elektrik, yazılım ve biyomühendislik eğitimi), **[[design-education|design]] ve yapım (maker) eğitimi**, **bitirme projesi ve [[project-based-learning|project-based learning]]** ve **mühendislik etiği eğitimi** yer alır — YZ'nin rolunun özellikle sonuçları olacağı alanlar.
 
 Bu boşluk artık bir alanda boş değildir: üç yıllık bir biyomedikal mühendisliği programı, üretken YZ’yi dört modüllü bir PBL dizisi içinde denetimli bir bilgi özetleme ve kodlama iskelesi olarak yürütmüş (onaylı araçlar, hasta verisi yok, açıklama günlükleri) ve YZ öncesi kohortlarda %39,1 olan A oranlarına karşılık %66,4 oranında A bildirmiştir ([[pbl-biomedical-engineering-genai-2026|Nnamdi ve ark. (2026)]]).
 

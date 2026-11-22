@@ -1,6 +1,7 @@
 ---
 title: Nöroçeşitlilik
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -8,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -79,10 +84,13 @@ Risk tarafın da kendi literatürü vardır. [[seung-basham-cognitive-offloading
 - **Örneklemler küçüktür.** Bilgisayar bilimi çalışmasında yirmi dört öğrenci ve dört görüşme; DEHB video çalışmasında 17 ve 10; akımları hâlâ birbirine bağlanmamış disleksi derlemesinde 72 çalışma.
 - **Kategori sınırları çalışmalar arasında farklılık gösterir;** bu nedenle "aynı" nörotipin çalışmalar arası karşılaştırması sınırlıdır — ve meta-analizdeki kategoriler arası farklılıklar anlamlı değil biçimde raporlanmıştır.
 - **Alanın kendi değerlendiricileri onu teknoloji öncülüğünde tanımlar;** bu, müdahale kanıtlarının tam olarak tasarım yönergelerinin en güçlü olduğu yerde zayıf olduğu anlamına gelir.
+- **Üretici YZ kullanımına ilişkin bir karşılaştırma çalışması artık var.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji ve ark. (2026)]], nörogelişimsel bozukluğu olan ve olmayan 477 Japon üniversite ve lisansüstü öğrencisini anketlemiş ve haftalık kullanım, öz değerlendirmeli beceriler, algılanan yararlar ya da destek ihtiyaçları konusunda gruplar arasında anlamlı fark bulamamıştır. Yalnızca ses ve görüntü etkileşimleri NGB grubunda biraz daha yüksekti; dolayısıyla yukarıdaki tek gruplu boşluk artık bir doğrudan karşılaştırmaya sahiptir.
 
 ## Bağlantılar
 
 Nöroçeşitlilik, [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]] ve [[equity-in-ai-education]] ile bağlantılıdır. Hem YZ’nin [[student-experience]] için nasıl devreye alındığını hem de değerlendirmelerin ve okuryazarlık programlarının bilişsel değişkenlik boyunca adil olacak biçimde nasıl tasarlandığını bilgilendirir. Bu bulguların diğer öğrenen gruplarıyla — dil, cinsiyet, sosyoekonomik düzey, coğrafya — nasıl yan yana durduğu için [[differential-effects-across-learner-groups|Öğrenen Grupları Arasındaki Farklı Etkiler]] başlığına bakın.
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh ve Natoli'nin]] DEHB'li üniversite öğrencileri için yapay zekâ alanındaki 28 çalışmayı derlemesi, kanıtları destek, tahmin ve etik olarak sınıflandırır. Tahmin en zayıf kısımdır: pupilometrik bir model AUROC 0,856'ya ulaşırken, bir SVM sınıflandırıcısı klinik kullanışlılığın altında kalan %66,1–%68,8 doğruluğa ulaşmıştır. Yürütücü işlev takası etik özüdür — bir gereksinimi telafi eden araç, aynı zamanda o gereksinimi inşa edecek pratiği de içine çekebilir ([[executive-function|yürütücü işlev]]).
 
 ## Yaygın yanlış anlamalar
 

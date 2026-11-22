@@ -1,12 +1,13 @@
 ---
 title: Bilgi Grafiği
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,8 +15,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
 connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
+connected_resources: [context-aideatext]
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -26,7 +33,7 @@ connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, 
 
 - Bir bilgi grafiği yalnızca kavramları değil, onların ilişkilerini de — ön koşulları, benzerlikleri, hiyerarşiyi — yakalar. Kavramların nasıl ilişkili olduğunu bilmek, neden uyarlanabilir bir sistem için düz bir beceri listesinden daha yararlı olabilir?
 - Sizin alanınızdaki ön koşul ilişkileri nasıldır? Öğrencilerin, grafiğin ortaya çıkaracağı temel bir kavramı kaçırdıkları için düzenli olarak zorlandığı bir konu düşünebilir misiniz?
-- Sayfa, bilgi grafiklerinin bilgi boşluklarını — öğrenenlerin temel kavramları kaçırdığı noktaları — tespit etmek için kullanılmasını tanımlar. Bu boşluğun yüzeye çıkarılması, bir YZ özel ders asistanının bundan sonra ne öğretmeye karar verdiğini nasıl değiştirebilir?
+- Bilgi grafikleri, bilgi boşluklarını — öğrenenlerin temel kavramları kaçırdığı noktaları — tespit etmek için kullanılmasını tanımlar. Bu boşluğun yüzeye çıkarılması, bir YZ özel ders asistanının bundan sonra ne öğretmeye karar verdiğini nasıl değiştirebilir?
 - Bilgi grafikleri elle oluşturulabilir ya da LLM’ler tarafından eğitim metinlerinden otomatik biçimde kurulabilir. Bir YZ’nin, özel ders asistanının üzerinde akıl yürüteceği kavram yapısını inşa etmesine izin vermenin riskleri nelerdir?
 - Bilgi grafikleri, YZ ajanlarının üzerinde akıl yürüttüğü alan yapısını sağlıyorsa, grafiğin kendisi bir hata ya da yanlı bir ilişki içerdiğinde güvene ve doğruluğa ne olur?
 - Bir bilgi grafiği, ince ayarlı tanı ve kişiselleştirilmiş yolları olanaklı kılan yapısal iskelet olarak tanımlanır. Kendi [[teacher-role|öğretim]] veya tasarımınızda, dersinizin bilgi grafiğinin neyi yakalaması gerekir — ve neyi dışarıda bırakır?
@@ -37,7 +44,7 @@ Bilgi grafikleri, birçok akıllı eğitim sisteminin yapısal iskeletini oluşt
 
 ## Bilgi grafikleri AIED’de nasıl kullanılır
 
-Bilgi grafikleri, bilgi tabanının AIED [[research-methods-aied|araştırması]] boyunca yinelenen bir yapısal mekanizmadır ve birkaç ayrı rol üstlenir:
+Bilgi grafikleri, AIED [[research-methods-aied|araştırması]] boyunca yinelenen bir yapısal mekanizmadır ve birkaç ayrı rol üstlenir:
 
 - **[[knowledge-tracing]] modelleri**, ilgili beceriler arasında öğrenci yeterlilik tahminlerini yaymak için kavram grafiklerini kullanarak veri seyrek olduğunda tahmin doğruluğunu artırır.
 - **[[student-modeling]] sistemleri**, öğrenenlerin ne bildiğini anlamsal olarak anlamlı bir biçimde temsil etmek, böylece ince ayarlı tanıyı olanaklı kılmak için bilgi grafiklerinden yararlanır.
@@ -46,6 +53,7 @@ Bilgi grafikleri, bilgi tabanının AIED [[research-methods-aied|araştırması]
 - **[[cognitive-diagnosis]] çerçeveleri**, [[xie-hillm-cd-2026|HiLLM-CD]] gibi, eğitim metinlerinden LLM’ler kullanarak kavram ağaçları oluşturarak elle etiketlemeyi ortadan kaldırır.
 - **Bilgi grafiğiyle güçlendirilmiş özel ders:** [[quantum-education-its|ITAS]], çok ajanlı bir özel ders sistemini yürütmek için kuantum kavramlarından oluşan bir bilgi grafiğini (açık ön koşul ilişkileriyle birlikte) kullanır ve sezgisel olmayan materyal için sonraki konuları seçmek üzere grafiği dolaşır.
 - **Müfredat ve kurs modellemesi:** [[coursegraph-cs-course-comparison-2026|CourseGraph]], kurumlar arasındaki bilgisayar bilimi kurs yapılarını grafik temsilleri kullanarak karşılaştırır; [[learnity-graphs-lifelong-learning-framework-2026|Learnity grafikleri]] [[lifelong-learning|ömür boyu öğrenme]] yollarını modeller.
+ Bir kurs grafiği öğretimin kendisini de temellendirebilir: bir viroloji laboratuvar modülünde asistan yalnızca bu grafikten yanıt verdi ve öğrencileri pratik kademeleri arasında yönlendirdi; yeniden tasarlanan sınıf değiştirilmemiş bir sınıfı geride bıraktı, ancak dört bileşenin hepsi birden geldi ([[ai-multifactorial-virology-lab-teaching-2026|Liu ve ark., 2026]]).
 - **Ön koşul ilişkisi öğrenimi:** [[proprl-prerequisite-relation-learning|ProPrL]], kavramlar arasındaki [[recommender-systems-and-learning-paths|ön koşul ilişkilerini]] öğrenerek öğrenerek bilgi grafiklerinin kodladığı kenarları biçimselleştirir.
 - **Öğrenilebilir önkoşul keşfi, uzman öncüllerinin yerini alır.** [[xu-graph-knowledge-tracing-survey-2026|Xu ve ark. (2026)]] tarafından yapılan bir derleme sentezi, grafik temelli izleyicilerin önkoşul yapısını eğitim sırasında yanıt verisinden öğrenerek uzman eliyle hazırlanmış öncüllerin yerini alabildiğini bulur. GKT uçtan uca öğrenilebilir bir komşuluk matrisi parametreleştirir, SKT-L eğitim sırasında önkoşulları öğrenir, PKT seyrek önkoşul grafiklerini geri kazanmak için L1 düzenlemesi uygular ve insan tarafından açıklanmış yapılara karşı F1 puanlarıyla değerlendirir, PSI-KT’nin varyasyonel Bayes çerçevesi ise temel modellerden daha iyi hizalanan yönlü önkoşul grafikleri çıkarır.
 - **Bilgi boşluğu tespiti:** [[knowledge-gap-detection-ai-tas|Bilgi boşluğu tespiti]], öğrenenlerin temel kavramları kaçırdığı noktaları belirlemek için YZ öğretim asistanlarında grafik temelli akıl yürütmeyi kullanır.
@@ -62,14 +70,6 @@ Son araştırmalar, eğitim içeriğinden bilgi grafiklerini otomatik biçimde o
 ## Diğer kavramlarla ilişki
 
 Bilgi grafikleri [[learning-design]] (ne öğretileceğini tanımlamak), [[curriculum-design]] (bunu nasıl sıralayacağımız) ve [[learning-analytics]] (öğrenci etkileşim verisinden içgörü çıkarmak) ile bağlantılıdır. Eğitim alanlarının yapılandırılmış temsillerine gereksinim duyan [[intelligent-tutoring]] sistemleri için temeldirler. YZ ajanları eğitimde yaygınlaştıkça, bilgi grafikleri [[agentic-ai|ajan tabanlı sistemlerin]] üzerinde akıl yürüttüğü alan yapısını sağlar — [[quantum-education-its|ITAS]] ve bilgi boşluğu tespiti öğretim asistanlarında görülen bir örüntü.
-
-## Yaygın yanlış anlamalar
-
-**“Bilgi grafiği, daha iyi araçlara sahip bir kavram haritasıdır.”** Ayırt edici iddia ilişkisel ve hesaplamaldır: bir grafik yararlıdır çünkü önkoşullar, benzerlik ve hiyerarşi bir algoritmanın üzerinde gezinebileceği kadar açıktır, bağlı düğümler çizdiği için değil. Bundan çıkan şey, sayfanın sürekli geri döndüğü işlevsel sorudur: grafik üzerinde hangi gezinme veya yayılım algoritması çalışır? Öğretimsel etki tam olarak bu seçimde yaşar.
-
-**“Sonuçları iyileştiren şey grafiğe sahip olmaktır.”** Sonucu değiştiren, grafik üzerindeki algoritmadır. G4L’de ustalığın Bayes bilgi yayılımıyla Evolving Knowledge Space Graph üzerinde yayılması **+%24 ölçülen bilgi** üretmiştir (0,717 → 0,887); Bilgi Uzayı temelli bir karşılaştırmada ise sonuç **+%5** olmuştur. Yapılandırılmış bir bilgi uzayına ilişkin aynı genel fikir, yayılım yöntemine göre maddi olarak farklı sonuç verir. Bir grafik satın almak veya inşa etmek tasarım probleminin başlangıcıdır, çözümü değil.
-
-**“Yapısal denetimi geçen bir LLM yapımı grafik, doğrulanmış bir grafiktir.”** Yapısal geçerlilik ile öğretimsel geçerlilik tam olarak bu biçimde ayrılır. Böyle bir grafiğin yeniden hesaplanan denetimi, her uç noktanın çözüldüğünü ve yinelenen ya da kendine bağlantı kalmadığını bulmuştur, yani temiz bir yapı; ancak 1.455 aksiyomunun 1.448’i tam olarak tek bir esere eşlenir. Dolayısıyla eserler arası yeniden kullanım seyrektir, bağlam taksonomisi iki bağlam türünü ayıramaz ve merkezi iddialar kanıtlanmamış kalır. Ölü bağlantılar ve yinelemeler otomatik bir denetimin yakaladığı başarısızlıklardır; seyrek yeniden kullanım ve ayrışmayan kategoriler ise onun geçirdiği başarısızlıklardır.
 
 ## Uygulama için çıkarımlar
 
@@ -89,3 +89,11 @@ Bilgi grafikleri [[learning-design]] (ne öğretileceğini tanımlamak), [[curri
 
 - Grafik ile temel çizgi karşılaştırmaları algoritma düzeyinde bildirilmelidir. "Bilgi grafiği temelli" bir işlem değildir; işlem, gezinme stratejisidir.
 - Aksiyom-kaynak eşlemeleri ve taksonomi ayrışabilirliği, kesinlik ve duyarlılığın yanında bildirilmelidir; çünkü buradaki denetim başarısızlıkları geleneksel grafik ölçütlerine görünmezdi.
+
+## Yaygın yanlış anlamalar
+
+**“Bilgi grafiği, daha iyi araçlara sahip bir kavram haritasıdır.”** Ayırt edici iddia ilişkisel ve hesaplamaldır: bir grafik yararlıdır çünkü önkoşullar, benzerlik ve hiyerarşi bir algoritmanın üzerinde gezinebileceği kadar açıktır, bağlı düğümler çizdiği için değil. Bundan çıkan şey, sayfanın sürekli geri döndüğü işlevsel sorudur: grafik üzerinde hangi gezinme veya yayılım algoritması çalışır? Öğretimsel etki tam olarak bu seçimde yaşar.
+
+**“Sonuçları iyileştiren şey grafiğe sahip olmaktır.”** Sonucu değiştiren, grafik üzerindeki algoritmadır. G4L’de ustalığın Bayes bilgi yayılımıyla Evolving Knowledge Space Graph üzerinde yayılması **+%24 ölçülen bilgi** üretmiştir (0,717 → 0,887); Bilgi Uzayı temelli bir karşılaştırmada ise sonuç **+%5** olmuştur. Yapılandırılmış bir bilgi uzayına ilişkin aynı genel fikir, yayılım yöntemine göre maddi olarak farklı sonuç verir. Bir grafik satın almak veya inşa etmek tasarım probleminin başlangıcıdır, çözümü değil.
+
+**“Yapısal denetimi geçen bir LLM yapımı grafik, doğrulanmış bir grafiktir.”** Yapısal geçerlilik ile öğretimsel geçerlilik tam olarak bu biçimde ayrılır. Böyle bir grafiğin yeniden hesaplanan denetimi, her uç noktanın çözüldüğünü ve yinelenen ya da kendine bağlantı kalmadığını bulmuştur, yani temiz bir yapı; ancak 1.455 aksiyomunun 1.448’i tam olarak tek bir esere eşlenir. Dolayısıyla eserler arası yeniden kullanım seyrektir, bağlam taksonomisi iki bağlam türünü ayıramaz ve merkezi iddialar kanıtlanmamış kalır. Ölü bağlantılar ve yinelemeler otomatik bir denetimin yakaladığı başarısızlıklardır; seyrek yeniden kullanım ve ayrışmayan kategoriler ise onun geçirdiği başarısızlıklardır.

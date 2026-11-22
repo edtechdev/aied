@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 title: Öğrenme Tasarımı
 created: "2026-10-14T21:52:00-04:00"
 type: concept
@@ -10,9 +10,9 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
+connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire]
 translation_of: concepts/learning-design
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -28,8 +28,12 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
-connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -125,6 +129,8 @@ Fowlin ve ark. (2026), YZ’nin nereden gireceğine karar vermek için eyleme d�
 - **Tasarımcılar özerklik değil, yönlendirilebilirlik istiyor.** Bir madde üretme platformunu test eden sekiz öğretim tasarımcısı ([[wei-perspicacious-instructional-design-2026|Wei ve ark., 2026]]) zorluk, biçim ve kaynak izlenebilirliği üzerinde kontrol istedi, platformu SUS'ta 78,8 olarak derecelendirdi ve benimseme koşulu olarak güveni adlandırdı.
 
 Zhang ve arkadaşlarının sentezinde etkileri teknolojiden çok tasarım düzenler: aynı GenAI yeteneği, öğrenen onu yönlendirdiğinde g = 0,92, özerk çalıştığında g = 0,34 üretti. Bu nedenle etkileşim kipi aracın bir özelliği değil, bir tasarım kararıdır ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang ve ark., 2026]]).
+
+**Yansıtıcı öğrenme için tasarım ve denetim döngüsü.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys ve ark. (2026)]], SAREL’i önerir — yansıtıcı yeteneği ve YZ’siz bir karşılaştırma ölçütünü belirtin; öğrenen denetimini ve eşdeğer erişilebilir bir yolu paylaştırın; yansıtma ve doğrulamayı zorunlu kılın; öğrenmeyi eşitlik, iş yükü ve kaynak kullanımıyla birlikte değerlendirin; kanıtı yeniden tasarıma döngüleyin — YZ destekli yansıtmayı, benimsenin varsayılan bir yararı yerine karşılaştırmalı bir tasarım sorusu olarak tutmanın bir yolu olarak. Beş aşama, doğrulanmamış bir yazar önerisidir; sınanmış bir yöntem değil, doğru soruları çerçevelemek için sunulur.
 
 ## Yaygın yanlış anlamalar
 

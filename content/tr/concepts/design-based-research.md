@@ -6,7 +6,7 @@ research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,8 +14,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
 connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,7 +52,7 @@ TTA tek bir tasarım değil, tipik olarak şunları kapsayan yinelemeli bir dön
 
 AIEd’deki örnekleyici örnek, dört aşamalı bir TTA döngüsü — ihtiyaç analizi, model tasarımı, Endonezyalı lisans öğrencileriyle sekiz haftalık bir sınıf uygulaması ve model geliştirme — yürüten; dört aşamalı bir öğrenme döngüsü (sorun belirleme → YZ destekli [[collaborative-learning|işbirlikçi]] sorgulama → işbirlikçi [[problem-solving]] → yansıtma ve sunum) üzerinde yineleme yapan [[ai-assisted-collaborative-learning-model-dbr|YZ Destekli İşbirlikçi Öğrenme (AACL) Modeli çalışmasıdır]].
 
-## TTA bilgi tabanında nasıl görünür
+## TTA araştırmada nasıl görünür
 
 - **Öğrenme modelleri geliştirmek.** [[ai-assisted-collaborative-learning-model-dbr|AACL Modeli çalışması]], [[higher-ed|yükseköğretim]]de [[critical-thinking|eleştirel düşünme]] ve problem çözmeyi hedefleyen YZ destekli işbirlikçi bir öğrenme modelini geliştirmek ve değerlendirmek için TTA’yı kullanır.
 - **YZ okuryazarlığı öğretmen eğitimi kurmak.** [[genai-literacy-training-teacher-education-dbr-2026|Le ve ark.]], [[teacher-education]] öğrencileri için TTA tabanlı bir üretken [[generative-ai|YZ]] okuryazarlığı eğitim müdahalesi geliştirir ve değerlendirir; [[human-centered-ai-teacher-educators-2026|Baran ve ark.]], 2023–2025 boyunca İnsan Merkezli YZ ilkelerine dayalı eleştirel [[ai-literacy|YZ okuryazarlığı]] için profesyonel öğrenme tasarlamada TTA kullanır.
@@ -78,4 +84,4 @@ TTA, [[learning-sciences|öğrenme bilimlerinin]] — öğrenmeyi ve öğrenme o
 
 **“TTA işleyen bir yapıt ürettiğine göre etkililiği kanıtlanmıştır.”** Onu birlikte üreten sahada işleyen bir tasarım yerel uygulanabilirliği kanıtlamıştır; bu, etkililikten farklı bir iddiadır. Yapıt, o bağlam için yapılmış uyarlamaları taşır ve onu aktarmak, hiçbir zaman varsayım olarak belirtilmemiş varsayımları aktarmak demektir.
 
-**“Bir aracı revize edilebilir bir tasarım yapıtı olarak ele almak TTA'dan bir sapmadır.”** Bu, TTA'nın yinelemeli karakterinin müdahaleye değil ölçüme uygulanmasıdır: bu derlemdeki bir çalışma rubriğin kendisini yapıt olarak ele almış ve bir [[llm|LLM]] ile ortak iyileştirme döngülerinden geçmiştir. Bu uzantı kayda değerdir, çünkü aracın kendi gelişimini kanıtın parçası kılar.
+**“Bir aracı revize edilebilir bir tasarım yapıtı olarak ele almak TTA'dan bir sapmadır.”** Bu, TTA'nın yinelemeli karakterinin müdahaleye değil ölçüme uygulanmasıdır: bir çalışma rubriğin kendisini yapıt olarak ele almış ve bir [[llm|LLM]] ile ortak iyileştirme döngülerinden geçmiştir. Bu uzantı kayda değerdir, çünkü aracın kendi gelişimini kanıtın parçası kılar.

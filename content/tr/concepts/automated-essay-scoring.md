@@ -1,6 +1,8 @@
 ---
 title: Otomatik Kompozisyon Puanlama
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
+connected_resources: [moodle-qtype-aitext]
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -9,13 +11,17 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
 connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
@@ -48,6 +54,11 @@ Otomatik Kompozisyon Puanlama, eğitim teknolojisinde ilk istatistiksel modeller
 **İstek metni tabanlı AES**, en erişilebilir yaklaşım olarak ortaya çıkmıştır. **[[choi-anchor-aes-prompting-2025|Choi vd. örnek çalışması]]**, istek metinlerine örnek kompozisyonların dahil edilmesinin LLM–insan uyumunu insan–insan güvenilirliğine yaklaştırdığını; GPT-4o mini’nin daha düşük maliyetle GPT-4o ile karşılaştırılabilir sonuçlar elde ettiğini göstermektedir. Bu, daha geniş [[prompt-engineering]] araştırmalarına bağlanır ve AES’yi [[teacher-role|öğretmen]] kullanımı için uygulanabilir kılar.
 
 **Psikometrik ve nitelik düzeyli puanlama** bütüncül puanların ötesine geçer. **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]**, [[sociocultural-learning|ZPD]] temelli geri bildirimle niteliğe uyarlanabilir puanlama için psikometrik olarak farkında bir çerçeve sunar. **[[icle-plus-plus-essay-scoring|ICLE++]]**, bütüncül kompozisyon puanlaması için ince taneli nitelikleri modelleyerek otomatik değerlendirmenin kesinliğini geliştirir.
+
+- **Açıklama olarak muhakeme izleri.** [[xu-explainable-ai-essay-scoring-cot-2026|Xu vd. (2026)]], Qwen modellerini puanlamadan önce dört IELTS niteliği boyunca muhakeme etmek üzere ince ayarlar, ardından incelemeci tercihlerine PPO uygular. Ortalama QWK, 0,5253’ten (7B, yalnızca CoT) 0,5410’a (72B) yükselirken geri bildirim BLEU, PPO ve CoT ile 0,2371’den 0,2873’e çıktı; yalnızca ölçek 7B’den 72B’ye %2,5 BLEU ekledi.
+
+- **Denetlenebilirlik bir puanlama hedefi olarak.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]], geri bildirim katmanı her zayıf niteliğe kompozisyon kanıtı ekleyen ve bir öğretmen inceleme bayrağı ortaya çıkaran bir ASAP işlem hattı kurar. Makro QWK, en iyi saf puanlayıcısının 0,739’una karşı 0,738’di; rubrik temelli geri bildirim, rubrik tek başına geri bildirimin hiç kanıt göstermediği yerde 0,829 Trait Recall@2 ve 0,912 geçerli kanıt oranına ulaştı.
+
 - **Boyut düzeyli nitelik puanlaması, her boyutun arkasındaki veriyle sınırlıdır.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi vd. (2026)]], Ennis’in FRISCO [[critical-thinking|eleştirel düşünme]] çerçevesinin her boyutu için ayrı bir sınıflandırıcıyı 106 Endonezyalı on birinci sınıf fizik kompozisyonu üzerinde eğitti (83’ü eğitim, 23’ü test için; üç öğretmen değerlendiricisi her boyutta kappa 0,78–0,84 oranında anlaşmıştır). Uyum, muhakemeden ziyade ifade üzerinde yoğunlaştı: karesel ağırlıklı kappa, Berraklık için 0,763 ve Durum için 0,728’e ulaştı, ancak Odak için yalnızca 0,374, Gerekçe için 0,332 ve Çıkarım için 0,227 oldu. Sıralı sinyal gözlenmek yerine üretildi. Sentetik düzey-1 kompozisyonlar (şablonlardan kurulmuş, özgün uzunluğun %20–40’ına kısaltılmış ve anahtar kelimeleri çıkarılmış) artı LLM parafrazı, Odak’ı 0,028 taban çizgisinin üzerine +0,346 kappa ile yükseltti — ve bir yapılandırma, sıfıra yakın veya negatif kappa ile 0,652 doğruluğa ulaştı; böylece doğruluk, sıralı AES’de kullanılabilir bir seçim ölçütü değildir.
 
 **Yanlılık ve adillik** kritik bir kaygıdır. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]**, YZ puanlamanın dilsel olarak çeşitli geçmişlerden gelen öğrencileri sistematik biçimde düşük değerlendirdiğini bularak AES dağıtımında [[bias-mitigation]] ve [[equity-in-ai-education]] değerlendirmelerinin gerekliliğini ortaya koymaktadır.
@@ -73,6 +84,7 @@ Jeton düzeyinde güven, olasılık ağırlıklı puanlama ve toplulaştırmanı
 
 **AES bir yargıç olmaktan çok bir eğitim sinyali olarak.** Puanlama modelleri genellikle değerlendirici olarak çalışılır, ancak SWIM birini ödül işlevi olarak kullanır. [[swim-student-writing-simulation-2026|Do, Kontak ve Sachan (2026)]], çok nitelikli bir AES doğrulayıcısını dondurur ve bunu üretilen öğrenci kompozisyonlarına karşı puanlar; tahmin edilen nitelik profilini GRPO için kompozisyon başına yoğun bir ödüle (hedef profilden ortalama nitelik normalize edilmiş uzaklık) dönüştürür — bilerek Quadratic Weighted Kappa ölçütünün kendisini değil. QWK, hedef-tahmin çiftlerinden oluşan bir topluluk üzerinde tanımlıdır ve örnek başına bir sinyal değildir; oysa kesin eşleşme ödülleri çok nitelikli ortamda çok seyrektir. Kazanımlar, politikanın hiç eğitilmediği bir DeBERTa puanlayıcıya ve yalnızca değerlendirme amaçlı bir doğrulayıcıya karşı yeniden kontrol edildi (SFT için 0,598’e karşı 0,479 ve 0,647’ye karşı 0,501); bu, gerçek yeterlilik kontrolünü [[reinforcement-learning|ödül modeline]] uyumdan ayıran kontroldür. AES araştırmaları için bu, ikinci bir geçerlilik talebidir: eğitim hedefi olarak kullanılan bir puanlayıcı optimize edilmekte olduğundan, kendi nitelik ağırlıklandırması ve dil yanlılıkları üreteçnin öğrendiği her şeye yayılır. Bu sayfanın başka yerlerinde belgelenmiş olan aynı özellik ağırlıklandırma asimetrileri (dilbilgisi doğruluğu, sözcüksel olgunluk ve sözdizimsel karmaşıklık, modellerce insan değerlendiricilerden daha fazla ağırlıklandırılır), artık yalnızca notları değil eğitimi de şekillendirmektedir.
 **Puanlama ve geri bildirim farklı yöntemler ister, bu nedenle bir sistem bunları ayırmalıdır.** [[wraft-automated-writing-evaluation-argumentative-2026|Labib vd. (2026)]], tek bir TOEFL argümantif kompozisyon sistemini tek bir modelin üç işi birden yapması yerine üç modül olarak inşa etti — puanlama, dilbilgisi ve mekanikler üzerine yüzeysel düzeyde geri bildirim, örgütlenme, tutarlılık ve argümantasyon üzerine derin düzeyde geri bildirim — ve bir modülü kazananın diğerinde kaybettiğini buldu. Tescilli bir kümenin 480 kıyaslamalı kompozisyonundan 120’si üzerinde GPT-4o’nun denetimli [[llm-training-and-fine-tuning|ince ayarı]], kalan 360’ta test edildiğinde 0-5 ölçeğinde 0,84 karesel ağırlıklı kappa ve 0,44 RMSE’ye ulaştı, Wang ve Gayed (2024) taban çizgisinin (QWK 0,78, RMSE 0,57) önündeydi. Ancak aynı ince ayar, geri bildirim modülleri için kullanılamaz çıktı üretti, orada öğretmen onaylı yorumları üreten Claude 3.7’nin doğrudan istek metniyle kullanımı oldu.
+**İstek metni, rubrik değil, kazancın çoğunu taşır.** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao ve Min (2026)]], puanlanmış kalibrasyon örnekleri ve zorunlu bir gerekçe ekleyerek CEFR etiketleriyle uyumu kappa 0,488’den 0,829’a yükseltmiş, oysa yalnızca ayrıntılı bir rubrik sunulduğunda 0,460’a düşmüştür.
 
 ### İlgili kavramlarla bağlantılar
 

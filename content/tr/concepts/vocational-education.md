@@ -1,6 +1,7 @@
 ---
 title: "Mesleki ve Teknik Eğitim"
 created: "2026-10-14T21:36:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -10,7 +11,7 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/vocational-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
 connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-education-training-review, ai-ive-pbl-vocational-design-creativity-2026, ai-supported-oral-assessment-tvet-2026, ai-pedagogical-accompaniment-amico, ai-autonomous-learning-accomplishment-2026, astra-atco-training-simulator, crewscaler-ai-upskilling-framework, genai-xr-architectural-design-education-2026, huang-ai-literacy-vocational-problem-solving-2026]
+connected_resources: [unesco-2026-integrating-ai-in-tvet-guide]
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -38,11 +45,11 @@ connected_articles: [wang-legacy-curriculum-ai-cte-renewal-2026, ai-vocational-e
 
 Mesleki ve teknik eğitim insanları belirli mesleklere hazırlar — otomotiv teknisyenleri, hava trafik kontrolörleri, iç mimarlar, bakım çalışanları — ve onun belirleyici ölçütü birikmiş kredi değil gösterilmiş yetkinliktir. Değerlendirme eğilimle performansa dayalıdır, öğretim ekipmana bağlıdır ve uygulamayı denetleyen becerili eğitmenler kıttır.
 
-Bu bilgi tabanındaki komşuları başlıca kapsamda farklılaşır. [[professional-training]], çoğunlukla halihazırda istihdam edilmiş insanlar için işyeri ve kurumsal beceri gelişimini kapsar; MTY ilk mesleki hazırlığı da kapsar. [[adult-learning]], mesleki özgüllükten çok öğrenen özelliklerini adlandırır. [[higher-ed]], derece veren eğitimi adlandırır; oysa MTY'nin çoğu NZQA birim standartları veya EQF gibi yeterlilik çerçeveleriyle düzenlenir. [[stem-education]] ile MTY teknik alanlarda örtüşür, ancak STEM eğitimi kavramsal anlayışı hedeflerken MTY kullanılabilir prosedürü hedefler. [[career-development-and-readiness]], MTY programlarının yargılandığı istihdam edilebilirlik eğilimlerini adlandırır; MTY ise bunları üretmekten sorumlu tutulan öğretim sistemini adlandırır.
+Komşu kavramlar başlıca kapsamda farklılaşır. [[professional-training]], çoğunlukla halihazırda istihdam edilmiş insanlar için işyeri ve kurumsal beceri gelişimini kapsar; MTY ilk mesleki hazırlığı da kapsar. [[adult-learning]], mesleki özgüllükten çok öğrenen özelliklerini adlandırır. [[higher-ed]], derece veren eğitimi adlandırır; oysa MTY'nin çoğu NZQA birim standartları veya EQF gibi yeterlilik çerçeveleriyle düzenlenir. [[stem-education]] ile MTY teknik alanlarda örtüşür, ancak STEM eğitimi kavramsal anlayışı hedeflerken MTY kullanılabilir prosedürü hedefler. [[career-development-and-readiness]], MTY programlarının yargılandığı istihdam edilebilirlik eğilimlerini adlandırır; MTY ise bunları üretmekten sorumlu tutulan öğretim sistemini adlandırır.
 
 MTY'de YZ'yi ayırt eden şey, sektörün istediğini söyleyişi ile kurduğu arasındaki boşluktur: [[constructivist|yapılandırmacı teori]] yaygın biçimde benimsenirken davranışçı alıştırma-uygulama sistemleri baskındır ve öğrenen failliği tasarımları nadirdir. Yinelenen tasarım sorusu YZ'nin öğretimi sunup sunamayacağı değil, personel açısından pahalı olan mesleki öğrenme bölümlerini — gerçekçi senaryoları, zamanında geri bildirimi, canlandırılan karşı tarafları, sözlü kanıtı — yetkinliği üreten uygulamayı ortadan kaldırmadan yutup yutamayacağıdır.
 
-### YZ mesleki ve teknik eğitimde nasıl görünür
+## YZ mesleki ve teknik eğitimde nasıl görünür
 
 - **Genç, parçalı ve coğrafi olarak yoğunlaşmış bir kanıt tabanı.** MTY'de YZ'nin ilk [[meta-analysis-systematic-review|sistematik derlemesi]] ([[ai-vocational-education-training-review]]), PRISMA kılavuzu altında ERIC, Web of Science ve Elicit üzerinden 2015–2026 yıllarında yayımlanmış 26 deneysel çalışma tanımladı: dokuzu teknik alan, dokuzu alan-genel, beşi işletme yönetimi ve üçü sağlık alanında. Ortamlar altı sınıf, sekiz çevrim içi, dört harmanlanmış ve sekiz simülasyon temelliydi — ve MTY'nin iş temelli karakterine rağmen hiçbiri işyerinde değildi. 26'nın 17'si Asya kökenliydi; yalnızca dokuz çalışma en az bir kaynağı paylaştı ve hiçbiri birbirine atıfta bulunmadı. Beşi rastgele atanmış deneydi ve 21'i müdahalenin hemen sonrasında sonuçları ölçen, çoğunlukla ön-deneysel veya yarı deneysel tasarımlar kullandı; yalnızca üçü öğrenenlere YZ destekli bir tasarımda etkin rol verdi. Yazarlar eğitimsel bir "Turing Tuzağı" konusunda uyarıyor — YZ'yi [[human-in-the-loop-ai|insan yargısını]] yükseltmek yerine insan öğretimini kopyalamak için kullanmak — ve baskın başarı anlatısı yerine başarısızlık durumları ve sınır koşulları çağrısında bulunuyor.
 
@@ -56,21 +63,13 @@ MTY'de YZ'yi ayırt eden şey, sektörün istediğini söyleyişi ile kurduğu a
 
 - **YZ destekli öğrenme, çabayı yerine koyduğunda psikolojik bir bedel taşır.** [[ai-autonomous-learning-accomplishment-2026]], Çin'deki 1.264 meslek lisesi öğrencisini yapısal eşitlik modellemesiyle inceleyip YZ destekli ötonom öğrenmenin dayanıklılıkla (bağlılık, kontrol, meydan okuma) olumsuz biçimde ilişkili ve azalmış akademik başarımla — olumsuz [[self-assessment|öz değerlendirmenin]] bir tükenmişlik boyutuyla — olumlu biçimde ilişkili olduğunu buldu. Dayanıklılık ilişkiyi kısmen aracılık etti. Tasarım enine kesit, öz bildirim temelli ve tek kurum üzerinedir; bu nedenle nedensellik kurulmamıştır, ancak çerçeveleme MTY için önemlidir: güvenin tekrarlanan uygulama yoluyla inşa edildiği yerde, ikame olarak YZ hem direnme eğilimini hem de ustalığın hissedilen deneyimini azaltabilir.
 
-- **Doğrulamadan vazgeçmeden [[curriculum-design|müfredat]] üretimini hızlandırmak.** [[crewscaler-ai-upskilling-framework]], YZ'yi profesyonel beceri gelişiminin beş aşamasının tümünde — bilgi edinme, içerik geliştirme, gözden geçirme ve doğrulama, [[intelligent-tutoring|öğretmen koçluğu]] ve değerlendirme geliştirme — uygularken plan tasarımını, alan uzmanı gözden geçirmesini ve [[misconceptions|yanlış kanı]] kaleme almayı insanlarda tutar. Onun dışsal doğrulaması NASBA CPE akreditasyonunu, yalnızca çerçevenin bilgi tabanını kullanarak NVIDIA sertifika sınavını geçen üç öğrenenin üçü ve 53 becerilik planına etiketlenmiş 530 soruluk bir soru bankasını içerir. Buraya ait olma nedeni, doğrulamayı birinci sınıf bir aşama olarak ele almasıdır: [[hallucination-risk|halüsinasyon]] tespiti eğitim hatlarında büyük ölçüde yoktur ve makale, varsayılan LLM öğretmenliğinin yalnızca %52–70 doğru pedagojik eylemde gerçekleştiğini bildirir.
+- **Doğrulamadan vazgeçmeden [[curriculum-design|müfredat]] üretimini hızlandırmak.** [[crewscaler-ai-upskilling-framework]], YZ'yi profesyonel beceri gelişiminin beş aşamasının tümünde — bilgi edinme, içerik geliştirme, gözden geçirme ve doğrulama, [[intelligent-tutoring|öğretmen koçluğu]] ve değerlendirme geliştirme — uygularken plan tasarımını, alan uzmanı gözden geçirmesini ve [[misconceptions|yanlış kanı]] kaleme almayı insanlarda tutar. Onun dışsal doğrulaması NASBA CPE akreditasyonunu, yalnızca çerçevenin kendi malzemelerini kullanarak NVIDIA sertifika sınavını geçen üç öğrenenin üçü ve 53 becerilik planına etiketlenmiş 530 soruluk bir soru bankasını içerir. Buraya ait olma nedeni, doğrulamayı birinci sınıf bir aşama olarak ele almasıdır: [[hallucination-risk|halüsinasyon]] tespiti eğitim hatlarında büyük ölçüde yoktur ve makale, varsayılan LLM öğretmenliğinin yalnızca %52–70 doğru pedagojik eylemde gerçekleştiğini bildirir.
 
 - **Algılanan destek kurumsal bir kaldıraçtır, öğrenci eksikliği değil.** Altı Çin yüksek meslek okulundaki 784 öğrenci arasında [[huang-ai-literacy-vocational-problem-solving-2026|Huang ve ark. (2026)]], [[ai-literacy|YZ okuryazarlığının]] öz bildirimli [[problem-solving|karmaşık problem çözmeyle]] bağlantısının (toplam 0,480) algılanan okul BİT desteğiyle güçlendiğini bulmuştur: koşullu dolaylı etkiler 0,117’den 0,176’ya ve 0,038’den 0,127’ye yükselmiştir.
 
 - **Dönemsel bir gözden geçirme değil, süregelen bir yükümlülük olarak müfredat yenileme.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]], birbiriyle etkileşen beş yenileme boyutu tanımlar: mesleki dönüşüm, müfredatın güncelliği, öğretim kadrosu kapasitesinin uyumu, program mimarisi ve dış uyum. Ayrıca bir dersin korunması, gözden geçirilmesi, bütünleştirilmesi, değiştirilmesi veya kaldırılması gerektiğine karar vermek için altı liderlik sınaması önerir.
 
-## Yaygın yanlış anlamalar
-
-**“MTY’de YZ kanıt tabanı bize mesleki eğitimi anlatır.”** Bize onun sınıf içi vekillerini anlatır ve bu bir ayrıntı değil ciddi bir boşluktur: **MTY’de YZ kanıt tabanındaki hiçbir çalışma bir işyerinde geçmez**, oysa MTY iş temelli öğrenmeyle *tanımlanır*. Simüle edilmiş bir meslek görevinde bir YZ aracına ilişkin bir bulgu, sektörü ayırt edici kılan koşullarla henüz karşılaşmamıştır: gerçek müşteriler, gerçek güvenlik sonuçları, işyeri ekipmanındaki gerçek çeşitlilik.
-
-**“Tasarım veya yaratıcı yetenek üzerindeki anlamlı bir etki mesleki yetkinliğe aktarılır.”** Buradaki en güçlü [[quantitative-research|nicel]] sonuç, **63 geçerli yanıtlı (31’e karşı 32) 12 haftalık iki gruplu yarı deneysel bir çalışmadan** gelir; burada sürükleyici aracı koşulu ANCOVA altında tasarım yeteneğinde (η²p = .138) ve yaratıcı yetenekte (η²p = .111) daha yüksek puan almış, bilişsel katılımda d = 0.90 olmuştur. Bir sınıf görevinde kol başına otuz bir öğrenci o göreve ilişkin kanıttır ve mesleki yetkinlik ölçülen sonuçlardan biri değildir.
-
-**“Öğrenenler uygulamalı eğitimde YZ’ye aşırı bağımlı hale gelir.”** Pilot kanıt tam ters yönü gösterir. Keşifsel pilotlar (**N = 30**, İtalya ve Çin, **20 sınırlandırılmış oturum**) katılımcıların sistemi sınırlandırılmış bir destek aracı olarak ele aldığını, **ikame veya bağımlılık beklentisi bildirilmediğini** bulmuştur. Bu keşifsel ve küçük bir kanıttır, yine de mesleki öğrenenlerin bir aracı otorite olarak değil ekipman olarak çerçevelemesinin tasarımda hesaba katılmaya değer bir kaynak olduğunu düşündürür.
-
-**“Öğrenenlerin simüle bir görevi onaylaması, görevin doğru şeyi ölçtüğü anlamına gelir.”** Ankete katılan **33 öğrenenin 21’i (%64)** sesli görevin gerçekçi olduğunu onaylamış ve aynı oran bildiklerini iletmenin net bir yolunu sunduğunu söylemiştir; hiçbiri gerçek zamanlı konuşmanın bu [[authentic-assessment|özgün değerlendirmeye]] uygun olduğu görüşüne katılmamıştır. Gerçekçilik ve iletişim netliği bilinmeye değerdir, geçerlilik değildir: bir görev özgün hissedebilir ve yine de temsil ettiği mesleki performansı örnekleyemez.
+- **Çıktıdan çok yargı mesleki yetkinliktir.** YZ tarafından üretilmiş işi mesleki ölçütlere — doğruluk, standartlar, uygunluk, güvenlik — karşı değerlendirmek, mesleki yetkinliğin gözlenebilir olduğu yerdir; eserin kendisinde değil ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng ve Tang (2026)]]).
 
 ## Uygulama için çıkarımlar
 
@@ -88,3 +87,13 @@ MTY'de YZ'yi ayırt eden şey, sektörün istediğini söyleyişi ile kurduğu a
 **Araştırmacılar için**
 
 - En azından bazı çalışmalar işyerlerinde yürütülmelidir. Kanıt tabanında hiç işyeri çalışması bulunmayan, iş temelli öğrenmeyle tanımlı bir sektör, merkezi iddiasını henüz sınamamıştır.
+
+## Yaygın yanlış anlamalar
+
+**“MTY’de YZ kanıt tabanı bize mesleki eğitimi anlatır.”** Bize onun sınıf içi vekillerini anlatır ve bu bir ayrıntı değil ciddi bir boşluktur: **MTY’de YZ kanıt tabanındaki hiçbir çalışma bir işyerinde geçmez**, oysa MTY iş temelli öğrenmeyle *tanımlanır*. Simüle edilmiş bir meslek görevinde bir YZ aracına ilişkin bir bulgu, sektörü ayırt edici kılan koşullarla henüz karşılaşmamıştır: gerçek müşteriler, gerçek güvenlik sonuçları, işyeri ekipmanındaki gerçek çeşitlilik.
+
+**“Tasarım veya yaratıcı yetenek üzerindeki anlamlı bir etki mesleki yetkinliğe aktarılır.”** Buradaki en güçlü [[quantitative-research|nicel]] sonuç, **63 geçerli yanıtlı (31’e karşı 32) 12 haftalık iki gruplu yarı deneysel bir çalışmadan** gelir; burada sürükleyici aracı koşulu ANCOVA altında tasarım yeteneğinde (η²p = .138) ve yaratıcı yetenekte (η²p = .111) daha yüksek puan almış, bilişsel katılımda d = 0.90 olmuştur. Bir sınıf görevinde kol başına otuz bir öğrenci o göreve ilişkin kanıttır ve mesleki yetkinlik ölçülen sonuçlardan biri değildir.
+
+**“Öğrenenler uygulamalı eğitimde YZ’ye aşırı bağımlı hale gelir.”** Pilot kanıt tam ters yönü gösterir. Keşifsel pilotlar (**N = 30**, İtalya ve Çin, **20 sınırlandırılmış oturum**) katılımcıların sistemi sınırlandırılmış bir destek aracı olarak ele aldığını, **ikame veya bağımlılık beklentisi bildirilmediğini** bulmuştur. Bu keşifsel ve küçük bir kanıttır, yine de mesleki öğrenenlerin bir aracı otorite olarak değil ekipman olarak çerçevelemesinin tasarımda hesaba katılmaya değer bir kaynak olduğunu düşündürür.
+
+**“Öğrenenlerin simüle bir görevi onaylaması, görevin doğru şeyi ölçtüğü anlamına gelir.”** Ankete katılan **33 öğrenenin 21’i (%64)** sesli görevin gerçekçi olduğunu onaylamış ve aynı oran bildiklerini iletmenin net bir yolunu sunduğunu söylemiştir; hiçbiri gerçek zamanlı konuşmanın bu [[authentic-assessment|özgün değerlendirmeye]] uygun olduğu görüşüne katılmamıştır. Gerçekçilik ve iletişim netliği bilinmeye değerdir, geçerlilik değildir: bir görev özgün hissedebilir ve yine de temsil ettiği mesleki performansı örnekleyemez.

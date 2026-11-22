@@ -1,5 +1,6 @@
 ---
 title: Niceliksel Araştırma
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T21:36:00-04:00"
 type: concept
 assessment: [educational-measurement]
@@ -7,13 +8,17 @@ research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
 connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
@@ -38,6 +43,10 @@ Niceliksel araştırma betimleyici tasarımları (yaygınlık ve örüntüleri �
 
 ## Temel niceliksel yaklaşımlar
 
+### Boylamsal ve panel tasarımları
+
+Aynı öğrenenlerin tekrarlanan ölçümü, bir korelasyonu bir yörüngeye dönüştürür: panel modelleri kararlı bir özelliği oluş-aşamasına özgü değişimden ayırır ve büyüme modelleri dalgalar genelindeki değişimin biçimini ve oranını tahmin eder. Tasarım aileleri, YZ çalışmalarında ısırık yapan tehditler (kayıp, araç sürüklenmesi, yardımlı performans) ve daha güçlü örnekler [[longitudinal-research|boylamsal araştırma]] sayfasında işlenir.
+
 ### Anket ve korelasyonel araştırma
 Yatay kesitli anketler, kendi bildirilen tutumları, algıları, motivasyonu, [[self-efficacy]] ve teknoloji kabulünü ölçer; bunlar sıklıkla varsayılan ilişkileri ve aracıları sınamak için regresyon ya da yapısal eşitlik modellemesi (SEM/PLS-SEM) ile modellenir. Bunlar bilgi tabanının derlemine hâkimdir, özellikle kabul, motivasyon ve psikolojik mekanizma sorularında. [[acceptance-ai-english-tools-2026|YZ destekli İngilizce araçlarının kabulü]] [[technology-acceptance-model|TAM]] üzerine SEM ile inşa eder; [[tian-genai-learning-adoption-pathways-2026|Üretici YZ benimseme yolları]] PLS-SEM, fsQCA ve önem–performans eşlemeyi kullanır; [[teacher-education-ai-literacy-sdt-2026|öğretmen YZ okuryazarlığı]] [[self-determination-theory]] temelli faktör doğrulamalı anketler kullanır.
 
@@ -45,6 +54,7 @@ Yatay kesitli anketler, kendi bildirilen tutumları, algıları, motivasyonu, [[
 - **Sınırlılıklar:** yatay kesitli veriler nedensellik kuramaz; kendi bildirim yanlılığı; kolaylık örneklemesi genellenebilirliği sınırlar; aracılar kovaryanstan çıkarılır, manipülasyondan değil. Bu sınırların araç tarafındaki işlenişi için [[self-report-measures]] sayfasına bakın.
 
 - **Doymuş bir aracılık modeli kendi sıralamasını sınayamaz.** 1.020 hemşirelik öğrencisiyle yapılan tek dalgalı bir anket, 1,36’lık toplam etkiyi 0,92 doğrudan ve [[self-regulated-learning|öz-düzenlemeli öğrenme]] üzerinden 0,44 dolaylı olarak ayırmıştır; dolaylı kısım toplamın %32,35’idir ve model, gözlenen kovaryanslar kadar serbest parametreye sahip olduğu için veriyi inşa gereği yeniden üretir ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li ve ark. (2026)]]).
+- **“Kısmi” etiketi neredeyse sıfıra ulaşan bir aralığa dayanabilir.** 438 Çinli üniversite öğrencisi arasında, doğrudan YZ kullanımından performansa giden yol β = 0,18, %95 GA (0,02; 0,34) olarak bulunmuştur ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan ve ark. (2026)]]).
 **Sıfıra yakın bir toplam dolaylı etki iki canlı yolu gizleyebilir.** 568 tasarım öğrencisinin tek bir öz-bildirim dalgasında dolaylı ilişki terfi odağı üzerinden 0,0929 ve önleme odağı üzerinden −0,0884 olmuş, toplamı 0,0045 verirken doğrudan yol toplamın %98,7’sini taşımıştır ([[wang-ai-disruption-design-innovation-competence-2026|Wang ve ark. (2026)]]).
 
 ### Deneysel ve yarı deneysel araştırma
@@ -82,6 +92,8 @@ Bibliyometrik analiz bir başka niceliksel ailedir: [[sriram-ethical-ai-medical-
 
 - **Güçlü yönler:** kesinlik ve istatistiksel güç; tanımlı kitlelere genellenebilirlik; nedensel çıkarım (deneysel tasarımlarla); verimli büyük örneklem kapsaması; birikimsel ve çalışmalar arasında karşılaştırılabilir.
 - **Sınırlılıklar:** ölçülebilir olanı yakalar, sıklıkla süreci, anlamı ve bağlamı kaçırır (bkz. [[qualitative-research]]); kendi bildirim yanlılığı; araçlar yanlış yapıyı ölçebilir (bkz. [[educational-measurement|ölçüm sorunları]]); nedensellik olmadan korelasyon; YZ değişimine göre yapay ve yavaş olabilir.
+- 
+**Birleştirme, derleme ölçeğinde başarısız olabilir.** Yükseköğretimde GenAI üzerine 103 çalışmalık bir PRISMA derlemesi, tasarımlar, karşılaştırmalılar ve ölçütler çok heterojen olduğu için meta-analiz yürütmemiş; bunun yerine sonuç tipolojisi uyumunu κ = 0,781 olarak bildirmiştir ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
 
 Niceliksel ve [[qualitative-research|nitel]] yöntemler birbirini tamamlayıcıdır — niceliksel çalışma kapsam genişliği ve nedensel güç sağlar, nitel çalışma derinlik ve anlam sağlar. [[mixed-methods-research|Karma yöntemli tasarımlar]] bunları birleştirir. Deneysel, anket, nitel ve diğer tasarımlar arasındaki karşıtlıklarla birlikte tam yöntem karşılaştırması için [[research-methods-aied]] sayfasına bakın.
 

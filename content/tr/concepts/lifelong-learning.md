@@ -7,7 +7,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, person
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -15,8 +15,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
 connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -26,8 +32,8 @@ connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-au
 ## Dikkate Alınması Gereken Sorular
 
 - Resmî eğitimin dışında öğrendiğiniz son yeni beceri üzerine düşünün — iş yerinde, çevrim içi veya kendi kendine. Neyi öğreneceğinize, nasıl öğreneceğinize ve ne zaman 'bitirdiğinize' kim karar verdi? YZ bu tabloyu nasıl değiştirirdi?
-- Sayfanın merkezindeki soru özerkliktir: YZ öğrenme ihtiyaçlarınızı belirlemeye, hedeflerinizi koymaya ve hatta içerik üretmeye katıldıkça, kendi öğreniminizde gerçekten [[self-directed-learning|öz yönelimli]] olarak ne kalır?
-- Resmî eğitim zamanı sabit, müfredaları ise sıralı sayar. Sayfa, öğrenenlerin yaşam boyu esnek biçimde gezindiği birbiriyle bağlantılı bilgi birimlerinden oluşan 'Learnity graphs' (öğrenme grafikleri) önermektedir. Öğrenmeyi sabit bir sıradan kurtarmakla ne kazanırsınız ve neyi kaybetme riskini göze alırsınız?
+- Merkezî soru özerkliktir: YZ öğrenme ihtiyaçlarınızı belirlemeye, hedeflerinizi koymaya ve hatta içerik üretmeye katıldıkça, kendi öğreniminizde gerçekten [[self-directed-learning|öz yönelimli]] olarak ne kalır?
+- Resmî eğitim zamanı sabit, müfredaları ise sıralı sayar. Önerilen bir tasarım olan 'Learnity graphs', öğrenenlerin yaşam boyu esnek biçimde gezindiği birbiriyle bağlantılı bilgi birimlerinden oluşan bir yapı sunar. Öğrenmeyi sabit bir sıradan kurtarmakla ne kazanırsınız ve neyi kaybetme riskini göze alırsınız?
 - YZ hem yetişkin öğrenenleri destekleyebilir hem de yetişkinlerin sürekli güncellemek zorunda olduğu becerileri değiştirebilir. YZ alanınızı yeniden şekillendirmeye devam ederse, hiçbir aracın size doğrudan veremeyeceği hangi yetilere yatırım yapardınız?
 - Yaşam boyu öğrenme çoğu zaman bir bireyin sorumluluğu olarak çerçevelenir. Ancak yaşam boyu erişim aynı zamanda bir eşitlik sorusudur. Yetişkin olarak öğrenmeye devam etmek için zamanı, kaynakları ve desteği kim alır — ve YZ bu uçurumu nasıl genişletebilir veya daraltabilir?
 
@@ -35,7 +41,7 @@ connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-au
 
 Yaşam boyu öğrenme, yaşam boyu süregelen eğitimi — beceri yükseltme, beceri dönüştürme, [[educational-development|mesleki gelişim]] ve resmî derecelerin ötesinde bilgi dışı öğrenme — ifade eder. YZ bunun giderek daha merkezî hale gelmektedir; hem yetişkin öğrenenleri destekleyen bir araç hem de yetişkinlerin sürekli güncellemek zorunda olduğu becerileri değiştiren bir güç olarak.
 
-### Araştırmalarda yaşam boyu öğrenmenin görünümü
+## Araştırmalarda yaşam boyu öğrenmenin görünümü
 
 - **Yetişkin öğrenimi için tasarım yönergeleri:** [[ai-adult-learning-guidelines-dis2026|AI-ALOE enstitüsünden çalışma]], YZ destekli yetişkin öğrenme teknolojileri için ampirik temellere dayanan tasarım yönergelerini sentezler ve pratik, bağlama duyarlı desteği öne çıkarır.
 - **YZ rehberli beceri edinme:** [[ai-guided-learning-audiovideo-2026|YZ rehberli ses/video öğrenme]], YZ’nin beceri edinmenin tüket–anla–taklit etme aşamalarını nasıl iskeleleyerek (kademeli destekleyerek) medyayı öğrenene uyarlayabildiğini göstermektedir.
@@ -45,17 +51,9 @@ Yaşam boyu öğrenme, yaşam boyu süregelen eğitimi — beceri yükseltme, be
 - **Politika ve topluluk:** [[ai-lifelong-learning-policy|Yaşam boyu öğrenme politikasında YZ]] ve [[community-centered-ai-education-adults|topluluk merkezli YZ eğitimi]], yetişkin YZ öğreniminin kurumsal ve eşitlik boyutlarını ele alır.
 - **Uzmanlığın yeniden üretimi risk altındadır.** YZ’ye en çok maruz kalan ABD mesleklerinde 22–25 yaş arası işçilerde %16’lık göreli istihdam düşüşü (Ekim 2022–Eylül 2025) görülürken 35–49 yaş arasındakiler %8’in üzerinde arttı ve YZ çıktılarını doğrulamak için gereken derin uzmanlık, düşen bu giriş düzeyi rollere bağlıdır ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
-### Bağlantılar
+## Bağlantılar
 
 Yaşam boyu öğrenme, [[adult-learning]] ve [[professional-training]] (temel bağlamları), [[personalized-learning]] ve [[adaptive-learning]] (onu destekleyen YZ mekanizmaları), [[self-regulated-learning]] ve [[metacognition]] (söz konusu öğrenen süreçleri) ve [[equity-in-ai-education]] (yaşam boyu erişim) ile bağlantılıdır. Eğiticilerin kendileri yaşam boyu öğrenen olduğu durumlarda [[educational-development]] ile de kesişir.
-
-## Yaygın yanlış anlamalar
-
-**“YZ’ye maruz kalma esas olarak giriş düzeyindeki görevleri tehdit eder, dolayısıyla deneyimli çalışanlar güvendedir.”** İstihdam örüntüsü bu varsayımın bir bölümünü tersine çevirirken uzmanlık sorunu daha derine iner. YZ’ye en çok maruz kalan ABD mesleklerinde **22–25 yaş arası çalışanlarda %16’lık göreli istihdam düşüşü (Ekim 2022–Eylül 2025)** görülürken **35–49 yaş arasındakiler %8’in üzerinde büyümüştür**; bu koruma birikmiş uzmanlığa bağlanmıştır. Ancak o uzmanlığı üreten hat, artık azaltılan giriş düzeyi işinden geçer; dolayısıyla koruma, kesitsel rakamın gizlediği biçimde zamanla sınırlıdır. **Uzmanlığın yeniden üretimi kendisi de risk altındadır**: biçimlendirici iş ortadan kalkarsa deneyimli uygulayıcı olacak kohort küçülür.
-
-**“Yaşam boyu öğrenme, yetişkinlerin daha çok kurs alması demektir.”** Kurs alma, daha geniş bir gerekliliğin tek bir sunum biçimidir: görevler değiştikçe yeterliliği sürdürmek ve yeniden inşa etmek. Sürekli yenilenme gerektiren bir iş gücünde eksik olan kurs arzı değil, yeni yeterliliğin gerçekte oluştuğu uygulama fırsatlarıdır.
-
-**“Yaşam boyu öğrenme kişisel bir sorumluluktur, dolayısıyla kurumsal tasarım ikincildir.”** Yenilenme sorunu yapısaldır; biçimlendirici işin bir yerde var olup olmadığıyla ilgilidir ve bireyler kendi gelişimlerinin gerektirdiği işi yaratamaz. Bunu motivasyon olarak çerçevelemek, yaş dağılımının alt ucunda yoğunlaşan %16’lık düşüş hakkında hiçbir şey açıklamaz.
 
 ## Uygulama için çıkarımlar
 
@@ -74,3 +72,11 @@ Yaşam boyu öğrenme, [[adult-learning]] ve [[professional-training]] (temel ba
 
 - İstihdam etkileri toplu bir yerinden etme rakamı olarak değil, yaş bandına göre bildirilmelidir; %16’ya karşı %8 karşıtlığı bulgunun kendisidir.
 - Biçimlendirici işin nerede kaybolduğu incelenmelidir, çünkü bugünkü kazanımların gelecekteki kıtlıklara dönüşme mekanizması budur.
+
+## Yaygın yanlış anlamalar
+
+**“YZ’ye maruz kalma esas olarak giriş düzeyindeki görevleri tehdit eder, dolayısıyla deneyimli çalışanlar güvendedir.”** İstihdam örüntüsü bu varsayımın bir bölümünü tersine çevirirken uzmanlık sorunu daha derine iner. YZ’ye en çok maruz kalan ABD mesleklerinde **22–25 yaş arası çalışanlarda %16’lık göreli istihdam düşüşü (Ekim 2022–Eylül 2025)** görülürken **35–49 yaş arasındakiler %8’in üzerinde büyümüştür**; bu koruma birikmiş uzmanlığa bağlanmıştır. Ancak o uzmanlığı üreten hat, artık azaltılan giriş düzeyi işinden geçer; dolayısıyla koruma, kesitsel rakamın gizlediği biçimde zamanla sınırlıdır. **Uzmanlığın yeniden üretimi kendisi de risk altındadır**: biçimlendirici iş ortadan kalkarsa deneyimli uygulayıcı olacak kohort küçülür.
+
+**“Yaşam boyu öğrenme, yetişkinlerin daha çok kurs alması demektir.”** Kurs alma, daha geniş bir gerekliliğin tek bir sunum biçimidir: görevler değiştikçe yeterliliği sürdürmek ve yeniden inşa etmek. Sürekli yenilenme gerektiren bir iş gücünde eksik olan kurs arzı değil, yeni yeterliliğin gerçekte oluştuğu uygulama fırsatlarıdır.
+
+**“Yaşam boyu öğrenme kişisel bir sorumluluktur, dolayısıyla kurumsal tasarım ikincildir.”** Yenilenme sorunu yapısaldır; biçimlendirici işin bir yerde var olup olmadığıyla ilgilidir ve bireyler kendi gelişimlerinin gerektirdiği işi yaratamaz. Bunu motivasyon olarak çerçevelemek, yaş dağılımının alt ucunda yoğunlaşan %16’lık düşüş hakkında hiçbir şey açıklamaz.

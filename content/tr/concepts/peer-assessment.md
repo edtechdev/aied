@@ -1,6 +1,7 @@
 ---
 title: Akran Değerlendirmesi
 created: "2026-10-14T08:02:11-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -9,13 +10,17 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
 connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]

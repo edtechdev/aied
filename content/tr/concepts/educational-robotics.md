@@ -1,6 +1,7 @@
 ---
 title: Eğitimde Robotlar
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -10,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
 connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Eğitimde robotlar (eğitsel robotik)** — [[teacher-role|öğretme]] ve öğrenme araçları olarak fiziksel veya benzetimli (simüle edilmiş) robotların kullanımı. Eğitsel robotik geniş bir yelpazeyi kapsamaktadır: hesaplamalı düşünme ve programlamayı öğreten programlanabilir kitlerden, özel ders veren, hikâye anlatan, işaret dili gösteren veya sosyal becerilerin provasını yapan sosyal destekleyici ve insansı robotlara kadar. Eğitsel robotik; [[problem-solving|problem çözme]], [[critical-thinking|eleştirel düşünme]], [[creativity]] ve STEAM katılımını desteklemesi ve soyut hesaplama kavramlarını vüut bulmuş etkileşim yoluyla somut kılması nedeniyle değer görmektedir. Bilgi tabanının robotik derlemi; [[curriculum-design|müfredat]] ile bütünleşmiş programlamayı, BBÜ destekli konuşma tabanlı özel ders araçlarını, sosyal destekleyici [[storytelling-in-education|hikâye anlatımı]] robotlarını ve sosyal-duygusal öğrenme için rol oyunlarını kapsamaktadır. Bu alan, burada birleştirilen iki yakından ilişkili alan üzerine kuruludur: **sosyal robotlar** (sosyal etkileşim ve ilişki kurmak üzere tasarlanmış robotlar) ve **insan–robot etkileşimi (HRI)** (insanların robotları nasıl algıladığını, güvendiğini ve onlarla nasıl öğrendiğini inceleyen alan).
+> **Eğitimde robotlar (eğitsel robotik)** — [[teacher-role|öğretme]] ve öğrenme araçları olarak fiziksel veya benzetimli (simüle edilmiş) robotların kullanımı. Eğitsel robotik geniş bir yelpazeyi kapsamaktadır: hesaplamalı düşünme ve programlamayı öğreten programlanabilir kitlerden, özel ders veren, hikâye anlatan, işaret dili gösteren veya sosyal becerilerin provasını yapan sosyal destekleyici ve insansı robotlara kadar. Eğitsel robotik; [[problem-solving|problem çözme]], [[critical-thinking|eleştirel düşünme]], [[creativity]] ve STEAM katılımını desteklemesi ve soyut hesaplama kavramlarını vüut bulmuş etkileşim yoluyla somut kılması nedeniyle değer görmektedir. Robotik kanıtları; [[curriculum-design|müfredat]] ile bütünleşmiş programlamayı, BBÜ destekli konuşma tabanlı özel ders araçlarını, sosyal destekleyici [[storytelling-in-education|hikâye anlatımı]] robotlarını ve sosyal-duygusal öğrenme için rol oyunlarını kapsamaktadır. Bu alan, burada birleştirilen iki yakından ilişkili alan üzerine kuruludur: **sosyal robotlar** (sosyal etkileşim ve ilişki kurmak üzere tasarlanmış robotlar) ve **insan–robot etkileşimi (HRI)** (insanların robotları nasıl algıladığını, güvendiğini ve onlarla nasıl öğrendiğini inceleyen alan).
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -39,7 +44,7 @@ Eğitsel robotik, [[ai-education|Eğitimde YZ]]'nin ayrı ancak yakından ilişk
 
 Kanıtlar, yapılan işin hacminden çıkarılabileceğinden daha zayıftır: eğitimde YZ ve robotiğe ilişkin bir derleme, ampirik çalışmaların çoğunun 13 yaşın altındaki öğrenenleri dört hafta veya daha kısa süreyle içerdiğini, erken yatırım yapan birkaç ülkede yoğunlaştığını, en çok incelenen sonucun [[learning-gains|öğrenme performansı]] olduğunu ve etiğin, eşitliğin ve politikanın yaygınlaştırmanın gerisinde kaldığını bulmaktadır ([[white-wu-robotics-ai-education-2026|White ve Wu (2026)]]).
 
-### Sosyal robotlar ve insan–robot etkileşimi
+## Sosyal robotlar ve insan–robot etkileşimi
 
 Eğitimde robotiğin sosyal tarafını iki akım şekillendirmektedir.
 
@@ -47,7 +52,7 @@ Eğitimde robotiğin sosyal tarafını iki akım şekillendirmektedir.
 
 **İnsan–robot etkileşimi (HRI)**, insanların ve robotların nasıl etkileşime girdiğini inceleyen disiplinler arası bir alandır; algılamayı, iletişimi, iş birliğini ve bu etkileşimin sosyal, bilişsel ve [[ethics|etik]] dinamiklerini kapsar. Eğitimde HRI, öğrenenlerin robotları nasıl algıladığının, güvendiğinin ve onlarla nasıl öğrendiğinin temelini oluşturur — ister bir robotu programlamak, ister bir özel ders robotuyla konuşmak, ister sosyal senaryoların provasını yapmak olsun. HRI [[research-methods-aied|araştırması]], robotun görünüşünün, davranışının, görev bağlamının ve gömülmesinin [[usability-research|kullanıcı deneyimini]], güveni, özerkliği ve öğrenmeyi nasıl şekillendirdiğini inceler. Eğitimde HRI'nin temel kaygıları arasında insan [[agency]] korumak, [[trust]] inşa etmek, [[self-efficacy]] desteklemek ve robotlarla etkileşimin özerkliği ve sosyal öğrenmeyi zayıflatmak yerine desteklemesini sağlamak yer alır. Bu alan robotiği [[human-ai-collaboration]] ve [[social-emotional-learning]] ile bağdaştırır.
 
-### Eğitimde robotlar nasıl kullanılır
+## Eğitimde robotlar nasıl kullanılır
 
 [[teaching-with-robots-five-types-perspective-2026|Christ ve ark. (2026)]], bir teknoloji listesi yerine bir rol tipolojisi eklemektedir: atölyeden çıkan beş sınıf robotu türü, donanıma göre değil *pedagojik işlev ve soyutlama düzeyine* göre farklılaşır. A türü, genel sosyal örüntülerin etkileşimsiz bir gösterimini işletir (tıpkı basmakalıp bir duygu tiyatrosu ve ardından yükselme veya yanlış anlama gibi dinamiklerin tartışılması); b türü, katılımcı fiziksel tiyatroyu, [[embodied-learning|vüut bulmuş öğrenmeyi]], sınır farkındalığını ve duygusal düzenlemeyi destekleyen dokunmaya tepki veren etkileşimli bir robottur; c türü, empati gösteren ve tek bir öğrenciyle etkileşimleri hatırlayan, kendini açıklama için korumalı bir birebir ortam yaratan konuşan dil ortağıdır; d türü, bir kukla gibi ek serbestlik derecelerine sahip olan ve sosyal hiyerarşiyi düzleştirmeyi amaçlayan gizli bir uzman tarafından dışarıdan yönlendirilir; e türü ise, okulda yakın zamanda gözlenen eylemleri yeniden oynatarak öğrencilerin duruma bağlı davranış üzerine düşünmesini sağlayan etkileşimsiz bir robottur — a türüyle olan karşıtlık tam olarak, genelleştirilmiş soyutlamanın aksine bağlama özgü olmasıdır. Tipoloji, tek bir ulusal ruh sağlığı programına dayanan ve doğrulanmamış bir tasarım uzayı olduğunu açıkça belirtmekte; dolayısıyla bu bir robot rollerini tasarlama ve değerlendirme menüsüdür, herhangi birinin işe yaradığına dair kanıt değildir.
 
@@ -76,11 +81,13 @@ Eğitimde robotiğin sosyal tarafını iki akım şekillendirmektedir.
 
 - **Konuşma değil, LLM planlaması.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]], [[neurodiversity|otizm spektrumundaki]] öğrenenlerle kullanılan görsel olarak yapılandırılmış etkinlikler olan Shoebox Tasks fotoğraflarını bir görsel-dil modeliyle PDDL problemine dönüştürür ve bir Nao insansı robotu bu planı yürütür ya da gösterir; plan doğruluğu altı görev boyunca puanlanır, herhangi bir öğrenen sonucu üzerinden değil.
 
-### Gömülme ve pedagoji
+## Gömülme ve pedagoji
 
 Belirleyici bir tema, robotların gerçek öğrenme hedeflerini desteklediğinde — yalıtılmış teknik alıştırmalar olarak değil — etkili olduğudur. Dizüstü ChatGPT ile eşleştirilen bir masa üstü robotik projektör, yardım mevcutken düşük kaldı (6,7'ye karşı 7,3/10, p = .41) ancak geri çekildikten sonra puanını korudu (7,0'a karşı 4,4/10, p = .003); bu, kısa vadeli aktarım puanında %60 daha yüksek bir değerdir — yazarların genel bir ikameden ziyade uzamsal bir arada bulunmaya bağladıkları göreve bağlı bir kazanç ([[aifred-desk-robotic-ai-guidance-2026|Orlando ve ark. (2026)]]). Bir robotun değeri pedagojik bağlama bağlıdır: hesaplamalı düşünme öğretmek ([[computational-thinking]]), [[stem-education|STEAM]]'i desteklemek, [[cs-education|programlama]] becerileri kazandırmak, öğrenenleri motive etmek ([[motivation]], [[student-engagement|katılım]]) veya [[social-emotional-learning]] ve [[equity-in-ai-education|kapsayıcılığı]] desteklemek. Robotik ayrıca [[project-based-learning]], [[game-based-learning]] ve [[experiential-learning]] ile bağlantılıdır. Temel tasarım ölçütleri arasında öğrenenin [[agency]] korumak, [[trust]] inşa etmek, [[self-efficacy]] desteklemek ve öğrenmeyi [[embodied-learning|vüut bulmuş etkileşimde]] temellendirmek yer alır. [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analitik kanıtlar]], vüut bulmuş robot destekli dil öğreniminin etkililiğine işaret etmektedir.
 
 - **YZ destekli robotik öğrenmeye götüren yollar.** Robotik+YZ müfredatındaki lise öğrencileri üzerine yürütülen [[educational-robotics-pathways-2026|bir nitel araştırma]], gerçek dünya uygulaması, tasarım ve oyunbaz yaratıcı ifade yoluyla öğrenme bulmuştur (yapısalcı, epistemolojik-çoğulcu bakış açısı).
+
+- Lan ve Chen (2026), beden değişiminin ne zaman yüzeysel bir uyarlama olduğunu sınamak için bir ölçüt önermektedir. Bir değişim ancak değişmez çekirdek — yani hedef, aşama sırası, dallanma kuralları, ölçütler, kişilik ve ton yasakları — ondan sağ çıkarsa kabul edilebilir; yeni beden hedefi ilerletmeden ek yük getirdiğinde o yapılandırma reddedilir ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ## Yaygın yanlış anlamalar
 

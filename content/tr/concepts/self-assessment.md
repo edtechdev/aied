@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
 connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -67,7 +73,7 @@ Bir ölçüm olarak kullanıldığında, öz değerlendirme genellikle başka bi
 
 Doğruluk baş sorundur ve yön tutarlıdır. En temiz kanıt, [[teacher-role|öğretmen]] [[ai-literacy|YZ okuryazarlığının]] paralel öz bildirim ve nesnel ölçülerini tek bir çerçeve içinde kuran bir çalışmadan gelir. 288 K-12 öğretmeni arasında, nesnel ve öz bildirimli faktörler arasındaki korelasyonlar r = 0,07 ile r = 0,24 arasında değişti ve [[latent-profile-analysis|gizil profil analizi]] altı profil buldu: 43 öğretmen kendilerini istikrarlı biçimde yüksek puanladı, nesnel ölçüde daha düşük puan aldı; 59'su ters kalıbı gösterdi ve kalan profiller ortalamanın yakınında kümelendi veya önceki YZ okuryazarlığı deneyimine göre ayrıldı. Bir becerinin iki ölçüsü, aynı ekip tarafından aynı yapı üzerine kurulmuş, neredeyse hiçbir şeyi paylaşmaz.
 
-Alan düzeyindeki tablo o tek çalışmayla örtüşür. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore ve Maat’ın 2026 öğretmen YZ okuryazarlığı ölçüm araçları derlemesi]], 2019 ile 2025 arasında yayınlanan 33 aracı değerlendirdi ve 31'inin (%93,9) algılanan özgüvenin öz bildirim ölçekleri olduğunu, yalnızca ikisinin (%6,1) bilgiyi nesnel olarak test ettiğini ve hiçbirinin performans temelli görevler kullanmadığını buldu. Yazarların okuması, bu sayfanın ölçüm yüzünün dayandığı okumadır: bir öz bildirim puanı, yeteneklikten çok bildirilen özgüveni kaydeder, böylece yetkinliğin yerini tutamaz; doğrulanmış yetenekliği bildirilen özgüvenden ayırmak için öz değerlendirmenin yanında performans görevleri ve [[item-response-theory|madde yanıt kuramı]] analizini savunurlar.
+Alan düzeyindeki tablo o tek çalışmayla örtüşür. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore ve Maat’ın 2026 öğretmen YZ okuryazarlığı ölçüm araçları derlemesi]], 2019 ile 2025 arasında yayınlanan 33 aracı değerlendirdi ve 31'inin (%93,9) algılanan özgüvenin öz bildirim ölçekleri olduğunu, yalnızca ikisinin (%6,1) bilgiyi nesnel olarak test ettiğini ve hiçbirinin performans temelli görevler kullanmadığını buldu. Yazarların okuması, ölçüm argümanının dayandığı okumadır: bir öz bildirim puanı, yeteneklikten çok bildirilen özgüveni kaydeder, böylece yetkinliğin yerini tutamaz; doğrulanmış yetenekliği bildirilen özgüvenden ayırmak için öz değerlendirmenin yanında performans görevleri ve [[item-response-theory|madde yanıt kuramı]] analizini savunurlar.
 
 Doğruluk ayrıca neyin tahmin edildiğine bağlıdır. 158 üniversite personeli ve öğrencisiyle taksonomi temelli bir üretici YZ okuryazarlığı öz değerlendirmesinin psikometrik analizi, yanıtlayanların altındaki kavramsal temellerden önce üretimde ustalık iddia ettiği ters bir profil buldu ve öğrenci ile akademik profilleri arasında yalnızca zayıf bir korelasyon (r = 0,188). [[teacher-education|Öğretmen eğitimi]] öğrencilerine ilişkin bir anket, aynı biçimi diğer taraftan buldu: neredeyse hepsi (%97,8) eleştirel medya analizini önemli buldu, yalnızca %13,8'i derslerinin bunu ele aldığını söyledi ve yarısından azı (%44,9) medya bilgisini eleştirel biçimde analiz etme becerisine sahip olduklarına inandı. Öz değerlendirilen medya yetkinliği, öz değerlendirilen önemden geri kaldı.
 

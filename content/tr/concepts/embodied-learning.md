@@ -1,13 +1,14 @@
 ---
 title: Vüut Bulmuş Öğrenme
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T13:30:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -15,8 +16,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
-connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -34,24 +39,24 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 Vüut bulmuş öğrenme, [[active-learning]], [[experiential-learning]] ve duruma bağlı/[[constructivist]] teorilerle yakından ilişkilidir. Temel iddia şudur: fiziksel, elle tutulur bir ajan, öğrenenlerin soyut fikirleri somut sonuçlara bağlamasına yardımcı olur — bir robotu hareket ettiren bir program ya da fiziksel bir robotla yapılan bir rol oyunu gibi — salt ekran temelli etkileşimin belki de sağlayamayacağı biçimde. Robotik, eğitimde YZ'nin en net vüut bulmasıdır; öğrenenlere göreceği, dokunacağı ve gözlemleyeceği bir şey sunar.
 
-### Vüut bulmuş öğrenme bilgi tabanının araştırmalarında nasıl görünür
+## Vüut bulmuş öğrenme araştırmada nasıl görünür
 
 - **Temellendirilmiş programlama:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]], [[cs-education|blok programlamayı]] vüut bulmuş robot uygulamasında temellendirerek yazma, çalıştırma, gözlemleme ve revize etme döngüsünü sıkı biçimde kurar; böylece öğrenenler kodlarının davranışa dönüştüğünü görür.
 - **Sosyal-robotik etkileşim:** [[storytelling-in-education|hikâye anlatımı]] için kullanılan [[educational-robotics|sosyal robotlar]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), rol oyunu ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) ve işaret dili ([[pepper-robot-sign-language-lis-2025|Pepper]]), ilişkisel ve [[social-emotional-learning|duygusal]] öğrenmeyi destekleyen vüut bulmuş sosyal etkileşim sağlar.
 - **Vüut bulma özellikleri sonuçları yönlendiren şey değildir.** 11 RALL çalışmasını (N = 595, g = 0,83, I² = %84,4) kapsayan bir [[meta-analysis-systematic-review|meta analiz]], robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün ikinci dil öğrenimini yönlendirmediğini bulmuştur; grup temelli biçimler birebiri formatları geçmiş, böylece etkiyi taşıyan robotun gömülmesi değil konumu olmuştur ([[robot-assisted-language-learning-meta-analysis-2026|Wang ve ark. (2026)]]).
-- **Vücut izleme, düzenlemeyi ölçülebilir bir sinyale dönüştürür.** Hareket etiketlerinin öğrenci ajanlarını yansıtılmış bir model üzerinde hareket ettirdiği karma gerçeklik bir fotosentez simülasyonunda, bir LLM hattı 40 dakikalık videoda kendini düzenleme davranışının 470 bölümünü etiketlemiş ve baskın olma davranışı %66,4 oranında gerçekleşmiştir ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles ve ark., 2026]]).
 - **Vüut bulma ve yaratıcı yazma:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Yaratıcı yazmada robot-BBÜ bütünleşmesi araştırması]], vüut bulmanın öğrenenlerin etkileşimini ve sonuçlarını nasıl etkilediğini incelemektedir.
 - **İnsan–robot etkileşimi:** [[educational-robotics|HRI]] araştırması ([[task-context-trust-educational-hri-2026|güven]], [[human-autonomy-agency-hri-review-2025|etki]]), fiziksel gömülmenin güveni, [[student-engagement|katılımı]] ve [[agency|özerkliği]] nasıl şekillendirdiğini inceler.
 - **Anlamanın kanıtı olarak jest:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew ve ark.]], bilgisayarlı görü jest izlemesini konuşmanın [[llm]] analiziyle bütünleştirerek, mühendislik öğrencilerinin istatistiğe ilişkin kavramsal anlayışının hem konuşma hem jest yoluyla ifade edildiğini göstermektedir. Yüksek güvenilirlikli açıklayıcı jestler belirli kavramlar (özellikle ortalama) çevresinde kümelenmekte ve sıkı jest–konuşma eşleşmesi, tutarlı kavramsal konuşmayı işaret ederken ayrışma, gelişmekte olan fikirleri işaret etmektedir — bu durum, vüut bulmuş eylemi yalnızca bir öğrenme mekanizması olarak değil, [[multimodal|çok kipli öğrenme analitiği]] yoluyla [[assessment-validity|değerlendirmede]] bir kanıt olarak konumlandırmaktadır.
 - **Yalnızca dille çalışan bir kolaylaştırıcı, sorgulamayı söylenebilene doğru çeker.** Bir yüksek lisans akışkanlar statiği laboratuvarında öğrenciler kaldırma kuvveti modelini önce elle kurdular; ardından Gemini temelli bir kolaylaştırıcı modeli yeni bir olguya uygulamak için katıldı. Üç ikili boyunca YZ, ISLE dizisini korudu, ancak “sadece söyle” baskısı altında kimsenin ölçmediği kütle değerleri üretti ve uzaktaki bir katılımcı fiziksel olarak doğru ama temiz ve bedensiz bir döngü tamamladı ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino ve Damiani, 2026]]). Tasarım dersi ikame değil sıradır: modeli önce bedende kurun, sonra dil modelinin onu uygulamasına izin verin.
+## Vüut bulmuş zekâ ve bedensiz YZ eleştirisi
 
-### Vüut bulmuş zekâ ve bedensiz YZ eleştirisi
-
-Bilgi tabanının vüut bulma araştırmalarının ikinci, daha teorik akımı, YZ-[[sociocultural-learning|aracılı öğrenmede]] *bedenin* rolüne ilişkindir — fiziksel robotlar aracılığıyla değil, [[ai-technologies|YZ sistemlerinin]] kendilerinin (bedensel olup olmadığı veya olup olamayacağı) sorusu aracılığıyla. Bu çalışmalar, soyut bilgi işlemeye dayalı sembolik, bedensiz YZ modellerinin egemenliğine meydan okumaktadır:
+Vüut bulma araştırmasının ikinci, daha teorik akımı, YZ-[[sociocultural-learning|aracılı öğrenmede]] *bedenin* rolüne ilişkindir — fiziksel robotlar aracılığıyla değil, [[ai-technologies|YZ sistemlerinin]] kendilerinin (bedensel olup olmadığı veya olup olamayacağı) sorusu aracılığıyla. Bu çalışmalar, soyut bilgi işlemeye dayalı sembolik, bedensiz YZ modellerinin egemenliğine meydan okumaktadır:
 
 - **Tasarım ilkesi olarak vüut bulmuş YZ.** **E3-HOT çerçevesi**, öğrenenlerin bilişsel özerkliğini ve [[critical-thinking|üst düzey düşünmeyi]] sürdürmek ([[cognitive-offloading|bilişsel dış kaynaklara devretmeyi]] teşvik etmek yerine) için YZ'nin, sanal–gerçek bütünleşik bir öğrenme ortamında *vüut bulmuş zekânın* — durumsal gömülme, vüut bulmuş katılım ve bilişsel yaratım — etrafında tasarlanması gerektiğini savunmaktadır. ([[zhu-e3-hot-embodied-intelligence-sustainable-learning]])
 - **Bedensiz [[generative-ai|üretken YZ]]'nin sınırları.** Post-bilişsel yaklaşımlar, mevcut GenAI sistemlerinde propriyosepsiyon, çok kipli etki ve vüut bulmuş uygulamanın bulunmadığını ileri sürerek; durumsallığa, ortaya çıkışa (emergence) ve duyusal-motor eşleşmeye dayalı bir “vüut bulmuş YZ”'yi savunmakta ve insan–[[student-ai-interaction|YZ etkileşimi]] için algısal–[[affective-computing|duygusal]] bir koreografi önermektedir. ([[videla-embodied-ai-education-choreography]])
+- **Eylemcilik bilişi yapısal eşleşmede yeniden konumlandırır.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross ve Aros (2026)]], bilişin temelde dünyalı olduğunu, betimsel olmadığını savunan radikal ve kapsamlı bir eylemciliği geliştirir; böylece eğitsel teknolojiler, içerik sunan bilişsel araçlar olmaktan çok algıyı ve ortak eylemi genişleten ekolojik katılımcılar haline gelir.
 - **Gömülme, durumsallık ve sosyal yapılanma.** [[science-education|Bilim öğreniminde]], YZ araçları dijital uygulama topluluklarını ve sınır geçişini mümkün kılan “aracılaştırma yapıtları” işlevi görür; vüut bulmuş, özgün soruşturmayı gerçek dünya ve disiplinler arası bağlamlara bağlar. ([[li-ai-science-situated-learning-teachers-2025]]) Bu durum, vüut bulmayı [[situated-learning]] ve [[distributed-cognition]] ile ilişkilendirir.
+- **Vücut izleme, düzenlemeyi ölçülebilir bir sinyale dönüştürür.** Hareket etiketlerinin öğrenci ajanlarını yansıtılmış bir model üzerinde hareket ettirdiği karma gerçeklik bir fotosentez simülasyonunda, bir LLM hattı 40 dakikalık videoda kendini düzenleme davranışının 470 bölümünü etiketlemiş ve baskın olma davranışı %66,4 oranında gerçekleşmiştir ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles ve ark., 2026]]).
 
 Vüut bulmuş öğrenme; [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]] ve [[social-emotional-learning]] ile bağlantılıdır.
 

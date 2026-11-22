@@ -1,6 +1,7 @@
 ---
 title: Sanal ve Artırılmış Gerçeklik
 created: "2026-10-14T21:32:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -8,13 +9,17 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
 connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
@@ -69,6 +74,8 @@ VR/AR lehine en güçlü kanıt karşılaştırmalı ve [[discipline-specific-ai
 Karşıt kanıt da aynı ölçüde bilgilendiricidir. [[inclusive-learning|engelli öğrencilere]] yönelik YZ temelli müdahalelerin ilk meta-analizinde — 29 çalışma, 239 etki büyüklüğü, orta düzeyde genel etki g = 0,588 — akıllı VR sistemleri g = 0,528 üretirken **istatistiksel olarak anlamlı değildi**; bilgisayar yazılımları 0,959, robotlar ise 0,509'a ulaştı. Yayın yanlılığı vardı ve trim-and-fill genel tahmini g = 0,269'a düşürdü. Örüntü, sürükleyiciliğin başarısız olduğu değil; etkilerinin küçük, heterojen ve belirli müdahalenin nasıl tasarlandığıyla ve karşılaştırıldığıyla hassas olduğudur.
 
 Bilgi tabanındaki en net olumsuz sonuç bir stüdyo uygulamasından gelir, modalitelerin karşılaştırılmasından değil: 27 öğrencili bir mimarlık tasarım stüdyosunda, üretici YZ artı çok kullanıcılı XR hattı kullanan ekipler, normal kurs işleyişiyle çalışan ekiplere göre tasarım [[self-efficacy]] öz yeterlilik güveninde (β = −1,675) ve sonuç beklentisinde (β = −2,088) daha fazla düşüş yaşadı; sunumlarının uzman panel değerlendirmelerinde anlamlı bir fark yoktu ([[genai-xr-architectural-design-education-2026|Xiao ve ark., 2026]]). Yazarlar bunu, gerçek sürtünmeyle birlikte aşamaya bağlı birbirini tamamlama olarak açıklıyor — belirsiz fikirleri dışa vurmak için üretici YZ, uzamsal ve ölçek değerlendirmesi için XR — buna ek olarak kontrol, boyutsal gerçekçilik, paylaşılan dikkat ve hareket konforu sorunlarının yanı sıra; bu da sürükleyici araçların yetenek kadar etkileşim maliyeti de eklediğinin bir hatırlatıcısıdır.
+
+**Literatür genç ve dağıktır.** YZ destekli VR STEM eğitiminin bibliyometrik bir haritalaması, 2005 ile 2025 arasında Dimensions’ta 241 yayına ulaştı; ancak bunların %84,6’sı 2023-2025 arasında çıktı ve büyüme kırılımı pandemide değil 2023’te yaşandı ([[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan vd., 2026]]). Atıf performansı güçlüydü: alana göre normalize edilmiş puanları olan 127 yayının 92’si küresel ortalamanın seviyesinde ya da üzerindeydi. Ancak alanın sosyal yapısı inceydi: 789 yazarın 774’ü tek bir makalede yer almıştır ve 209 mecrandan 185’i yalnızca bir kez görünür. Yukarıdaki etki çalışmalarını tartan bir okuyucu için bu yapı uyarı niteliğindedir: kanıtların çoğu yenidir ve az sayıda araştırma grubu sürekli bir program oluşturabilmiştir.
 
 ## Gerçekçilik, Varlık ve Özgünlük Boşluğu
 

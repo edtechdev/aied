@@ -1,6 +1,7 @@
 ---
 title: "Pedagojik İşbirliği"
 created: "2026-10-14T08:06:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -9,13 +10,17 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
 connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
@@ -40,7 +45,7 @@ connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-cus
 
 Pedagojik işbirliği, öğrencilerin öğretim ve öğrenmeye işbirliği için güvenilir görülmediğine ilişkin kökleşmiş varsayıma meydan okur ve geleneksel personel merkezli hiyerarşileri etkin biçimde bozar. Kavramsal olarak [[collaborative-learning]], [[agency|learner agency]] ve [[student-engagement]] ile örtüşür; ancak öğrencileri önceden tasarlanmış bir kursun içinde yalnızca etkin katılımcılar olarak değil, eğitimin *tasarımının* — müfredatın, değerlendirmenin, öğretim etkinliklerinin, açık eğitim kaynaklarının ve politikanın — merkezine yerleştirmesi bakımından ayrışır.
 
-[[generative-ai|generative AI]] çağında pedagojik işbirliği yeni bir aciliyet kazanmıştır. Yapay zeka, öğrencileri ya aldatıcı ya mağdur olarak çerçeveleyen eksiklik anlatılarını büyüttükçe (bkz. [[ai-misuse-learning-harm]] ve [[framing-ai-use-for-students]]), işbirliği bir karşı anlatı sunar: öğrencileri izlemek ya da kötüye kullanım varsaymak yerine eğitimciler ve kurumlar, öğrencileri YZ politika, araç ve uygulamalarının eş tasarımcıları olarak sürece çekebilir. Bu, öğrencilerin kurs YZ politikalarını eş tasarladığı örneklerden özel YZ araçlarını birlikte yarattığı ve değerlendirme ölçütlerini birlikte inşa ettiği örneklere, bilgi tabanının araştırmasının tamamında kendini gösterir.
+[[generative-ai|generative AI]] çağında pedagojik işbirliği yeni bir aciliyet kazanmıştır. Yapay zeka, öğrencileri ya aldatıcı ya mağdur olarak çerçeveleyen eksiklik anlatılarını büyüttükçe (bkz. [[ai-misuse-learning-harm]] ve [[framing-ai-use-for-students]]), işbirliği bir karşı anlatı sunar: öğrencileri izlemek ya da kötüye kullanım varsaymak yerine eğitimciler ve kurumlar, öğrencileri YZ politika, araç ve uygulamalarının eş tasarımcıları olarak sürece çekebilir. Bu, öğrencilerin kurs YZ politikalarını eş tasarladığı örneklerden özel YZ araçlarını birlikte yarattığı ve değerlendirme ölçütlerini birlikte inşa ettiği örneklere, araştırmanın tamamında kendini gösterir.
 
 ## İşbirliğinin biçimleri ve kapsamı
 
@@ -55,7 +60,7 @@ Bu biçimler boyunca işbirliği yalnızca bir etkinlik değil, bir *süreç ve 
 
 ## Eğitimde pedagojik işbirliği ve yapay zeka
 
-Pedagojik işbirliği ile yapay zekanın kesişimi, bilgi tabanının en hızlı büyüyen alanlarından biridir. Başlıca temalar:
+Pedagojik işbirliği ile yapay zekanın kesişimi, alandaki en hızlı büyüyen akımlardan biridir. Başlıca temalar:
 
 - **YZ politikasının eş tasarımcıları olarak öğrenciler.** Kurumların öğrencilere YZ kuralları dayatması yerine, işbirliği öğrencileri kurs ve kurum düzeyinde YZ politikasının eş yaratıcıları olarak konumlandırır. Örneğin, öğrencilerin bir [[generative-ai]] kurs politikasını eş tasarladığı yönlendirilmiş araştırma etkinliği, eğitim, standartlaştırılmış açıklama, kurumsal destek ve karar alma süreçlerine katılım çevresinde öğrenci önceliklerini ortaya çıkarmıştır ([[guided-inquiry-genai-course-policy-2026]]).
 - **YZ araçlarının eş yaratıcıları olarak öğrenciler.** Öğrenciler-ortak-olarak çerçevelerinde öğrenciler, pedagojik hedeflerle uyumlu özel YZ [[conversational-ai|chatbots]] tasarlamış ve bunları iyileştirmiştir; bu yaklaşım SaP paradigmasını YZ araçlarını da içerecek biçimde genişletir ve öğrenci sesini sorumlu YZ yeniliğinin merkezine yerleştirir ([[lo-co-creating-custom-gpts-sap-2026]]).
@@ -95,7 +100,7 @@ Pedagojik işbirliği, birkaç komşu kavramla ilişkilidir ama onlardan ayrıd�
 
 ## Pratik çıkarımlar
 
-Pedagojik işbirliğini benimsemek isteyen eğitimciler ve kurumlar için bilgi tabanının araştırmaları şunu öne sürer:
+Pedagojik işbirliğini benimsemek isteyen eğitimciler ve kurumlar için araştırma şunu öne sürer:
 
 1. **Küçük başlayın ve yineleyin.** Sınırlı sayıda katılımcıyla bir pilot gibi sınırlı bir projeyle başlayın ve katılımcı emeğini tanınmayla onurlandırın (istihdam, kredi, sertifika, yayın).
 2. **Mevcut altyapı üzerine kurun.** [[educational-development|Faculty development]] programları, öğrenci istihdam ilişkileri ve yerler arası işbirlikleri, işbirliği uygulamasını uyarlamak için temeller sağlar.

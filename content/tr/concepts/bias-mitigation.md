@@ -2,6 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Önyargı Azaltma
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -10,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,6 +19,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_faqs: [ai-bias-fairness-education]
 connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
 connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
 ---
@@ -28,7 +34,7 @@ connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai
 
 ## Düşünülmesi Gerekenler
 
-- Önyargı, YZ hattının her aşamasında girebilir — eğitim verisi, model davranışı, istek metinleri, puanlama ve konuşlandırma. Okumadan önce: o zincirde önyargının nerede yaşadığını bekliyordunuz? Bu sayfa neredeyse her yerde görünebileceğini öne sürüyor. Düşünmediğiniz bir yer neresi?
+- Önyargı, YZ hattının her aşamasında girebilir — eğitim verisi, model davranışı, istek metinleri, puanlama ve konuşlandırma. Okumadan önce: o zincirde önyargının nerede yaşadığını bekliyordunuz? Neredeyse her yerde görünebilir. Düşünmediğiniz bir yer neresi?
 - [[research-methods-aied|Araştırma]], YZ’nin [[physics-education|fizik]] puanlamasının metin temelli açıklamaları dilbilgisel kalitesi daha düşük olan öğrencilerin kavramsal anlayışını sistematik biçimde olduğundan düşük değerlendirdiğini gösteriyor — YZ anlayışı değil dili puanlıyor. İnsan puanlayıcılarla genel olarak iyi uyum sağlayan bir sistem, neden ana dili konuşanı olmayan veya daha az akıcı yazanları istikrarlı biçimde cezalandırmaya devam eder?
 - Bir çalışma, cinsiyete dayalı önyargılı bir istek metninin öğrenci kompozisyonlarında daha geniş bir “etkenlik açığı” ve daha fazla cinsiyet stereotipi içerik görünmesine yol açtığını buldu — önyargı araçtan öğrenenin kendi çalışmasına aktarıldı. Bu durum, önyargının yalnızca haksız bir puan değil aynı zamanda öğrencilerin ne ürettiğini ve kendilerini kim olarak gördüğünü yeniden şekillendirebilen bir güç olması hakkında ne söylüyor?
 - Başka bir çalışma, LLM’lerin öğrenci nitelikleriyle kişiselleştirildiğinde geri bildirimi stereotiple uyumlu biçimde değiştirdiğini gösterdi — kompozisyonlar özdeş olsa bile “işaretlenmiş” öğrenciler için övgüye yaslanmak ve eleştiriyi yumuşatmak. “Kibar” biçimde yanlı bir geri bildirim, tespit edilmesi daha zor olduğu için, açıkça yanlış bir puandan neden daha zararlı olabilir?
@@ -45,7 +51,7 @@ Adillik, YZ ile insan puanlaması literatüründe en az incelenen boyuttur: göz
 
 ## Önyargı kaynakları
 
-Bilgi tabanının araştırması, önyargının hattın birden fazla noktasında girdiğini belgeler:
+Araştırma, önyargının hattın birden fazla noktasında girdiğini belgeler:
 
 - **Dil ve puanlama önyargısı:** [[ai-scoring-language-bias-physics|YZ temelli fizik puanlaması]], metin temelli açıklamaları dilbilgisel kalitesi daha düşük olan öğrencilerin kavramsal anlayışını sistematik biçimde olduğundan düşük değerlendirir — YZ anlayışı değil dili puanlar ve ana dili konuşanı olmayan veya daha az akıcı yazanları cezalandırır. Bu, [[automated-assessment|Otomatik Puanlama]]’da doğrudan bir geçerlilik ve adillik başarısızlığıdır.
 - **LLM destekli yazmada cinsiyet önyargısı aktarımı:** [[gender-bias-transfer-llm-writing|Kontamine İşbirliği]], öğrenciler cinsiyete dayalı önyargılı bir LLM istek metniyle yazdığında kompozisyonlarının belirgin biçimde daha geniş bir etkenlik açığı ve daha fazla cinsiyet stereotipi meslek önerisi gösterdiğini ortaya koyar (N=123); önyargı aktarımı asimetriktir ve kadın hedefli kompozisyonlarda etkenliği baskılar. Bir doğrulama çalışması (N=1.600 LLM kompozisyonu, R²=.399), cinsiyete dayalı önyargılı bir istek metninin cinsiyete göre farklılaşan dili oluşturduğunu doğrular.
@@ -69,7 +75,7 @@ Bilgi tabanının araştırması, önyargının hattın birden fazla noktasında
 
 ## Azaltma yaklaşımları
 
-Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler:
+Araştırma birkaç birbirini tamamlayan stratejiyi gözler:
 
 - **Adillik duyarlı modelleme:** [[fair-explainable-edu-recommendations|Hibrit HKG-GRU çerçevesi]], açıklanabilirlik ve karşı-olgusal kararlılıkla birlikte adillik için **Group Distributionally Robust Optimization (GroupDRO)** yöntemini bütünleştirir; Moodle kayıtları üzerinde (152 öğrenci, ~150k etkileşim) değerlendirilir. Öneri sistemlerinin yalnızca doğru değil aynı zamanda adil ve şeffaf olacak biçimde eğitilebileceğini gösterir.
 - **Önyargı giderimi tahminleyicileri:** [[temporal-smoothness-debiased-kt|Temporal Smoothness Doubly Robust (TSDR) öğrenmesi]], eğilim modelini bir hata-üzerleme modeliyle birleştirerek — ikisinden biri doğruysa yansızlığı koruyarak — bilgi izleme ustalık tahminlerinden seçki önyargısını ortadan kaldırır.
@@ -104,7 +110,7 @@ Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler
 - **Sistemleri açıklanabilir kılın:** YZ kararlarına ilişkin şeffaflık, önyargının saptanması ve düzeltilmesi için esastır.
 - **Teknik ve insan azaltmasını birleştirin:** önyargı giderimi algoritmalarını insan-çalışmalı gözetimle eşleştirin, özellikle yüksek riskli veya düşük güvenli durumlarda.
 
-Bu sayfadaki her şey sistemin içindeki önyargıyla ilgilidir. [[automation-bias]], çıktısını okuyan kişideki önyargıyla ilgilidir — insanın tek başına ulaşsaydı sorgulayacağı bir öneriyi kabul etmesi — ve model doğru olsa bile varlığını sürdürür.
+Önyargı azaltma sistemin içindeki önyargıyla ilgilidir. [[automation-bias]], çıktısını okuyan kişideki önyargıyla ilgilidir — insanın tek başına ulaşsaydı sorgulayacağı bir öneriyi kabul etmesi — ve model doğru olsa bile varlığını sürdürür.
 
 ## Yaygın yanlış anlamalar
 

@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
 connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -36,9 +42,9 @@ connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-
 
 ## Giriş
 
-Tasarım odaklı düşünme yaratıcılık, zanaat ve eleştiri kesişiminde yer alır — ve giderek artan ölçüde [[generative-ai]] ile [[agentic-ai]]’nin öğrencilerin tasarım etmeyi öğrenme biçimini yeniden şekillendirdiği yerdir. Bu bilgi tabanındaki bağlantılı makaleler boyunca tasarım odaklı düşünme iki ayrı rolde görünür: bir *[[pedagogy|pedagojik]] nesne* (öğretilen ve ölçülen beceri) ve bir *pedagojik yöntem* (eğitimcilerin YZ destekli öğrenme inşa etmek için kendilerinin kullandığı süreç) olarak. Her iki rolde de aynı gerilim yinelenir: üretken araçlar fikir üretmeyi hızlandırabilir ve katılımı genişletebilir, ancak değerleri nasıl yönetildiğine, sundukları [[feedback]]’e ve öğrencinin gerçek bir [[agency]] duygusunu koruyup korumadığına bağlıdır.
+Tasarım odaklı düşünme yaratıcılık, zanaat ve eleştiri kesişiminde yer alır — ve giderek artan ölçüde [[generative-ai]] ile [[agentic-ai]]’nin öğrencilerin tasarım etmeyi öğrenme biçimini yeniden şekillendirdiği yerdir. Araştırmada tasarım odaklı düşünme iki ayrı rolde görünür: bir *[[pedagogy|pedagojik]] nesne* (öğretilen ve ölçülen beceri) ve bir *pedagojik yöntem* (eğitimcilerin YZ destekli öğrenme inşa etmek için kendilerinin kullandığı süreç) olarak. Her iki rolde de aynı gerilim yinelenir: üretken araçlar fikir üretmeyi hızlandırabilir ve katılımı genişletebilir, ancak değerleri nasıl yönetildiğine, sundukları [[feedback]]’e ve öğrencinin gerçek bir [[agency]] duygusunu koruyup korumadığına bağlıdır.
 
-## Bilgi tabanından kanıtlar
+## Araştırmadan kanıtlar
 
 - **Tasarım stüdyolarında ve mimarlıkta GenAI.** Mimari odaklı iki çalışma kavramı [[arts-and-media-education|stüdyo pedagojisine]] oturtur. [[genai-architecture-education|Gen-AI-tecture]], yerel olarak çalıştırılan, [[discipline-specific-aied|disipline özgü]] bir aracın yaratıcı akıcılığı artırdığını, farklı öğrenen profilleri arasında katılımı genişlettiğini ve YZ destekli iş akışlarına olan güveni güçlendirdiğini bulmuştur — görsel-uzamsal tasarımın daha erişilebilir hale gelmesi açısından [[equity-in-ai-education]] için önemli bir sinyal. [[genai-architectural-design-studios|Mimari tasarım stüdyolarında GenAI]] benzer biçimde, öğrencilerin erken fikir üretim aşamasında GenAI’yi görsel uyaran ve ilham kaynağı olarak, geliştirme aşamasında ise çözüm uzayını genişletmenin bir kombinatoryal yöntemi olarak kullandığını bulmuştur. Her iki çalışma da kritik biçimde, eleştirel bir ayırt etme olmadan öğrencilerin **tasarım sabitleşmesi** ya da estetik kilitlenme riski taşıdığını, bunun da [[teacher-role]]’ü [[higher-ed]]’de zanaatın aktarılmasından yaratıcı keşif üretken modellere nasıl, ne zaman ve neden devredileceğine ilişkin koçluğa kaydırdığını vurgular. Böylece [[creativity|Yaratıcılık]] korunur ve hatta güçlenir — ancak yalnızca özenli pedagojik yönetim altında.
 

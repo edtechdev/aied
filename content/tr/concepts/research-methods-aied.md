@@ -1,6 +1,7 @@
 ---
 title: AIED’de Araştırma Yöntemleri
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -11,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
 connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
@@ -61,6 +66,7 @@ Bir **etkililik çalışması**, bir müdahalenin amaçlanan öğrenme etkisini 
 - **Sınırlılıkları:** pahalı ve yavaş; yapay koşullar ekolojik geçerliliği azaltabilir; hızla değişen YZ araçları uzun deneyleri çabuk eskitir; küçük örneklemler çoğu zaman anlamlı etkilerin tespitini güçsüz bırakır; potansiyel olarak yararlı araçların esirgenmesine ilişkin [[ethics|etik]] kısıtlar.
 - **Örnekler:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **Önkayıt yalnızca deneylere değil, ikincil analizlere de uygulanır.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]], ipuçlu satırları nasıl puanladıkları bakımından yalnızca farklılaşan dört [[knowledge-tracing]] güncelleme kuralını özdeş ASSISTments kayıtları (12.716 öğrenci, 985.813 puanlanmış olay) üzerinde çalıştırdı; doğrulayıcı yarıyı, kaydın URL’sini içeren bir dosya oluşana kadar mühürlü tuttu ve dört önkayıtlı tahminin tamamının tuttuğunu bildirdi. Herhangi bir tamamlamayı ödüllendirmek, sonraki yardımsız performansı bir beceri-zorluk sabitinin hemen üzerinde tahmin etti (birleşik AUC 0,604 karşısında 0,595), buna karşılık katı bir kurala göre %72,8 olana karşılık öğrenci–beceri çiftlerinin %93,9’unu öğrenildi olarak bildirdi. Bir kayıt birkaç sonucu desteklediğinde, analizi önceden sabitlemek karşılaştırmayı güvenilir kılan şeydir.
+- **YZ dışlamasını açıkça tanımlayın.** YZ’sız bir son test, yalnızca kısıtlama belgelendiğinde ve uyum denetlendiğinde doğrulanmış bir dışlama olarak sayılır; gözetimli veya kâğıt temelli bir test tek başına bu nitelikte değildir ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### Anket ve yapısal eşitlik modelleme çalışmaları
 
@@ -105,6 +111,9 @@ DBR, [[rct|deneylerin]] nedensel denetimini ekolojik özgünlük ve yinelemeli i
 
 - **Güçlü yanları:** büyük, parçalanmış bir literatürün verimli sentezi; meta-analiz birleşik etki tahminleri üretir ve moderatörleri tespit eder; kanıta dayalı uygulama ve boşlukların belirlenmesi için zorunludur.
 - **Sınırlılıkları:** dâhil edilen çalışmaların niteliğine bağlıdır (çöp girerse çöp çıkar); yayın yanlılığı; heterojen yöntemler ve sonuç ölçüleri sentezi zorlaştırır; YZ değişim hızı göz önüne alındığında hızla yaşlanır.
+
+- Google Scholar’ın alaka sıralamaları dinamiktir, bu nedenle onu içeren bir PRISMA araması yalnızca sorgudan tam olarak tekrarlanamaz ([[ai-mathematics-education-prisma-review-2026|Omirzakova ve Tileubay (2026)]]).
+
 - **Meta-araştırma uyarısı (2026):** AIED sentez tabanının eleştirileri, erken dönem meta-analizlerinin çoğunun kavram tutarsızlığı, çözümlenmemiş heterojenlik, etki büyüklükleri arasındaki ele alınmamış bağımlılık ve geçersiz yayın yanlılığı değerlendirmesiyle baltalandığını göstermektedir — manşet YZ etki büyüklüklerini şişirir (bkz. [[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]] ve [[weidlich-chatgpt-effect-search-cause-2025]]). Birleşik AIED etki büyüklüklerini üst sınır olarak ele alın.
 - **Örnekler:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
@@ -123,7 +132,7 @@ Hesaplamalı değerlendirme, insan öğrenenleri incelemek yerine [[ai-technolog
 
 ### Diğer tasarımlar: boylamsal, vaka ve simülasyon çalışmaları
 
-Başlıca ailelerin ötesinde, bilgi tabanı öğrenenleri zaman içinde izleyen **boylamsal** tasarımları ([[ai-lms-middle-school-longitudinal|boylamsal bir LMS çalışması]]), özgün kullanımın **vaka ve doğal ortam** çalışmalarını ([[ai-in-the-wild-college|gerçek öğrenci etkileşimlerinin geniş ölçekli analizi]]) ve LLM’lerin öğrencilerin veya hastaların yerine geçtiği **simülasyon** çalışmalarını ([[llm-student-simulation-teacher-insights|simüle edilmiş öğrenciler olarak LLM’ler]], [[simulation]]) kullanır. Bunlar, gerçekçilik ve aksi hâlde gözlemlenmesi zor olgulara erişim için genişliği veya denetimi ödünleştirir.
+Başlıca ailelerin ötesinde, bilgi tabanı öğrenenleri zaman içinde izleyen **[[longitudinal-research|boylamsal]]** tasarımları ([[ai-lms-middle-school-longitudinal|boylamsal bir LMS çalışması]]), özgün kullanımın **vaka ve doğal ortam** çalışmalarını ([[ai-in-the-wild-college|gerçek öğrenci etkileşimlerinin geniş ölçekli analizi]]) ve LLM’lerin öğrencilerin veya hastaların yerine geçtiği **simülasyon** çalışmalarını ([[llm-student-simulation-teacher-insights|simüle edilmiş öğrenciler olarak LLM’ler]], [[simulation]]) kullanır. Bunlar, gerçekçilik ve aksi hâlde gözlemlenmesi zor olgulara erişim için genişliği veya denetimi ödünleştirir.
 
 ### Uzman uzlaşısı yöntemleri: Delphi tekniği
 

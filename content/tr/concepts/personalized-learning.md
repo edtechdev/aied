@@ -1,6 +1,7 @@
 ---
 title: Kişiselleştirilmiş Öğrenme
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -9,13 +10,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
 connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
@@ -27,10 +32,10 @@ connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed
 
 ## Dikkate Alınması Gereken Sorular
 
-- “Kişiselleştirilmiş öğrenme” dendiğinde aklınıza bir öğrenenin hızına göre uyarlanmış içerik mi, yoksa onun seçtiği hedeflere göre uyarlanmış içerik mi geliyor? Sayfa bunların derin şekilde farklı olduğunu söylüyor (çeşitli yollarla ulaşılan tek tip sonuçlar vs. farklı sonuçlar). Hangisini daha çok değerli buluyorsunuz ve neden?
-- Sayfa kişiselleştirilmiş öğrenmeyi (amaç) uyarlamalı öğrenmeden (bir mekanizma) ayırıyor. Gerçek zamanlı uyarlama içermeyen bir kişiselleştirme örneği düşünebilir misiniz — bu yine de kişiselleştirme sayılır mı?
+- “Kişiselleştirilmiş öğrenme” dendiğinde aklınıza bir öğrenenin hızına göre uyarlanmış içerik mi, yoksa onun seçtiği hedeflere göre uyarlanmış içerik mi geliyor? Bunlar derin şekilde farklıdır (çeşitli yollarla ulaşılan tek tip sonuçlar vs. farklı sonuçlar). Hangisini daha çok değerli buluyorsunuz ve neden?
+- Kişiselleştirilmiş öğrenme (amaç), uyarlamalı öğrenmeden (bir mekanizma) ayrıdır. Gerçek zamanlı uyarlama içermeyen bir kişiselleştirme örneği düşünebilir misiniz — bu yine de kişiselleştirme sayılır mı?
 - Bir sistem, öğrenen hiç tanınmış hissetmeden uyarlama yapabilir. “Kişiselleştirilmiş” hissettirilmeden kişiselleştirildiğinizi ne zaman yaşadınız? Aradaki fark nedir?
-- Sayfa, aşırı kişiselleştirmenin öğrenenleri düşük beklentili yollarda bırakabileceğini işaret ediyor. İyi niyetli bir YZ uyarlaması, bir öğrenenin tavanını nasıl kazara aşağı çekebilir?
+- Çok ileri giden uyarlama, öğrenenleri düşük beklentiler içinde tutabilir. İyi niyetli bir YZ uyarlaması, bir öğrenenin tavanını nasıl kazara aşağı çekebilir?
 - Kişiselleştirme ayrıntılı öğrenen verisi gerektirir; gizlilik ise veri minimizasyonunu. “Uyarlama için yeterli veri” ile “öğrenenin ifşa olacağı kadar çok veri” arasındaki çizgiyi nerede çekiyorsunuz?
 - Bir YZ’nin öğrenmenizi gerçekten kişiselleştirebilmesi için oturumlar arasında sizin hakkınızda neyi hatırlaması gerekir — ve bu şeyleri hatırlamasının riskleri nelerdir?
 
@@ -68,6 +73,8 @@ Kişiselleştirilmiş öğrenme sıklıkla [[adaptive-learning|uyarlamalı öğr
 
 22 yükseköğretim müdahalesini kapsayan bir PRISMA 2020 derlemesinde, kişiselleştirilmiş öğrenme desteği ve uyarlamalı yollar baskın YZ kullanım alanları arasındadır; ancak uygulamaların çoğu mevcut uygulamayı dönüştürmekten çok geliştirmiştir ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh ve ark. (2026)]]).
 
+2026’da 61 yükseköğretim çalışmasını kapsayan bir sistematik derleme bu ayrıma ampirik bir dayanak kazandırıyor. Öğrenen güdümlü denetim — yani öğrencilerin ne zaman, neyi ve nasıl soracaklarına karar vermeleri — 46 çalışmada (%75,4) kodlanmıştır. Amaca özel veya derse özelleştirilmiş sistemler 10 çalışmada (%16,4), belgelenmiş sistem güdümlü uyarlama ise beşinde (%8,2) görülür; derlemenin duyarlılık analizi bir tane hariç tutmuştur ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido ve ark., 2026]]). Literatürün kişiselleştirilmiş öğrenme adını verdiği şeyin çoğu, bir öğrenen modeli değil, genel bir asistanı esnek biçimde kullanmaktır.
+
 [[intelligent-tutoring|Akıllı öğretmenlik (intelligent tutoring)]] bunların arasında yer alır: ITS’ler, yapılandırılmış öğrenen modellemesi yoluyla kişiselleştirilmiş öğretim sunan kanonik *uyarlamalı* platformlardır; [[llm]] tabanlı özel ders uygulamaları ise sohbet biçiminde kişiselleştirir. Üçü de [[student-modeling|öğrenen modelleme ve uyarlamalı öğretim]] ailesinin uygulama tarafı üyeleridir — sırada ne öğretileceğine karar vermek için [[student-modeling|öğrenen modellemesi]], [[knowledge-tracing]] ve [[cognitive-diagnosis]] süreçlerinin ürettiği öğrenen gösterimlerini kullanırlar. Ayrım değerlendirme açısından önemlidir: bir sistemi “uyarlamalı”, “kişiselleştirilmiş” veya “bireyselleştirilmiş” olarak birbirinin yerine kullanan çalışmalar (aşağıya bakınız), iddia edilen faydanın gerçek zamanlı uyarlamadan, öğrenenin tercihinden mi yoksa içerik uyarlamasından mı geldiğini gizleyebilir.
 
 ## Ölçüm Sorunları
@@ -80,7 +87,7 @@ Kişiselleştirilmiş öğrenme sıklıkla [[adaptive-learning|uyarlamalı öğr
 
 ## Kişiselleştirme ve değerlendirme
 
-Kişiselleştirme ile [[assessment]], YZ kaynaklı öğrenmede birbiriyle sıkı bağlıdır. Uyarlamalı kişiselleştirme, sırada neyin uyarlanacağına karar vermek için öğrenenin ne bildiğine dair süregelen [[formative-assessment|biçimlendirici]] ölçümlere ([[knowledge-tracing]], [[student-modeling]] ve [[cognitive-diagnosis]] yoluyla) bağlıdır — dolayısıyla [[assessment]] sinyalinin güvenilirliği doğrudan kişiselleştirmenin kalitesini sınırlar. Tersine, [[summative-assessment|özetleyici değerlendirme]] öğrenen başına kişiselleştirildiğinde, [[bias-mitigation|adillik]] ve karşılaştırılabilirlik kurmak daha zor hale gelir. Bilgi tabanının [[research-methods-aied|araştırması]], yüzeysel veya gürültülü sinyallere aşırı uyarlamaya karşı uyarır: öğrenciyi yanlış ölçen [[adaptive-learning|uyarlamalı]] sistemler, öğrenmeyi desteklemek yerine azaltacak biçimlerde kişiselleştirme yapabilir; [[self-assessment|öz değerlendirmesi]] güvenilir olmayan (“var olmayan bilişsel temel”) YZ’ye doğal olarak yetişmiş öğrencilerin modellemesi daha zordur.
+Kişiselleştirme ile [[assessment]], YZ kaynaklı öğrenmede birbiriyle sıkı bağlıdır. Uyarlamalı kişiselleştirme, sırada neyin uyarlanacağına karar vermek için öğrenenin ne bildiğine dair süregelen [[formative-assessment|biçimlendirici]] ölçümlere ([[knowledge-tracing]], [[student-modeling]] ve [[cognitive-diagnosis]] yoluyla) bağlıdır — dolayısıyla [[assessment]] sinyalinin güvenilirliği doğrudan kişiselleştirmenin kalitesini sınırlar. Tersine, [[summative-assessment|özetleyici değerlendirme]] öğrenen başına kişiselleştirildiğinde, [[bias-mitigation|adillik]] ve karşılaştırılabilirlik kurmak daha zor hale gelir. [[research-methods-aied|Araştırma]], yüzeysel veya gürültülü sinyallere aşırı uyarlamaya karşı uyarır: öğrenciyi yanlış ölçen [[adaptive-learning|uyarlamalı]] sistemler, öğrenmeyi desteklemek yerine azaltacak biçimlerde kişiselleştirme yapabilir; [[self-assessment|öz değerlendirmesi]] güvenilir olmayan (“var olmayan bilişsel temel”) YZ’ye doğal olarak yetişmiş öğrencilerin modellemesi daha zordur.
 
 ## Kişiselleştirme, YZ çağında
 
@@ -110,7 +117,7 @@ Burada mevcut olan tek havuzlanmış tahmin, hepsi bilişim ve mühendislik yük
 
 Heterojenlik şiddetlidir: *Q*(3) = 25,20, I² = \%88,8, τ² = 0,41. %95 tahmin aralığı −0,42 ile 2,43 arasındadır; yani yeni bir uygulama makul biçimde sıfır ya da negatif sonuç verebilir. Dört çalışmanın ikisi ciddi yanlılık riskindeydi ve ağırlığın \%53’ünü taşıyordu. Yayın yanlılığı değerlendirilemedi; çünkü olağan testler en az on çalışma gerektirir.
 
-GRADE kesinliği çok düşük olarak derecelendirilmiştir. Dürüst okuma, nokta tahmininin büyük, aralığın ise eyleme geçemeyecek kadar belirsiz olduğudur. Havuzlanmış sonuç, genel olarak öğrenme değil, bilişim ve mühendislik derslerindeki akademik performanstı. YZ kişiselleştirmesinin işe yaradığına dair iddialar bu nitelendirmeyi taşımalıdır; çünkü bu, sayfanın kanıtının dayandığı en ince tabandır.
+GRADE kesinliği çok düşük olarak derecelendirilmiştir. Dürüst okuma, nokta tahmininin büyük, aralığın ise eyleme geçemeyecek kadar belirsiz olduğudur. Havuzlanmış sonuç, genel olarak öğrenme değil, bilişim ve mühendislik derslerindeki akademik performanstı. YZ kişiselleştirmesinin işe yaradığına dair iddialar bu nitelendirmeyi taşımalıdır; çünkü bu, kanıta dayanılan en ince tabandır.
 
 ## İstek metniyle koşullandırılmış mikro kişiselleştirme
 
@@ -118,20 +125,7 @@ GRADE kesinliği çok düşük olarak derecelendirilmiştir. Dürüst okuma, nok
 
 ## Terminolojik belirsizlik
 
-“Kişiselleştirilmiş öğrenme”nin geniş, gevşek tanımlı bir şemsiye terim olması yinelenen bir sorundur. Sistematik derlemeler ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh ve ark., 2026]]), [[adaptive-learning|uyarlamalı öğrenme]], bireyselleştirilmiş öğretim, özelleştirilmiş öğrenme ve kişiselleştirilmiş öğrenmenin birbirinin yerine kullanıldığını, evrensel olarak kabul görmüş bir tanım bulunmadığını ortaya koyar — bu, araştırma sentezini ve kanıta dayalı uygulamayı karmaşıklaştıran kavramsal bir belirsizlik kaynağıdır. Alan, giderek daha fazla, “kişiselleştirilmiş” sözcüğünün muğlak bir etiket yerine kesin ve kanıta dayalı bir iddiayı belirtmesi için bütünleşik bir çerçeve ve tanım çağrısında bulunmaktadır (bu nokta, bilgi tabanının [[limitations-in-aied-research|zayıf kavram kullanımına ilişkin eleştirisi]] ile bir kez daha pekişmektedir).
-
-## Yaygın yanlış anlamalar
-
-**“Kişiselleştirilmiş öğrenme ile uyarlamalı öğrenme aynı şeydir.”** Uyarlamalı sistemler kişiselleştirmeye giden bir *araçtır*, onun tanımı değildir. Kişiselleştirme aynı ölçüde statik öğrenen profilleri, seçim temelli yollar veya gerçek zamanlı uyarlama yapmayan insan özel öğretmeni uyarlaması yoluyla da sağlanabilir. İkisini eşanlamlı saymak, zengin öğrenen seçimi sunan ancak uyarlamalı motoru bulunmayan bir okulu kişiselleştirilmemiş gibi gösterir ve sıkı biçimde uyarlamalı bir alıştırmayı olduğundan daha öğrenen merkezli kılar.
-
-**“Kişiselleştirme daha fazla konu kapsayarak karşılığını verir.”** Bir yolun ardındaki teşhis gerçekten doğrulandığında, kişiselleştirme *kapsamdan çok yükü azaltarak* karşılığını verir: en kısa yol üzerinden düzeltme ortalama 3,82 adımda tamamlandı ve çalışma süresini %22,0 kısalttı (73,8 yerine 57,6 dakika), etkiyi ise bilişsel yük taşıdı. Fayda, saat başına daha fazla içerik değil, daha az gereksiz adımdır.
-
-**“Tutarlı bir [[curriculum-design|müfredat]] üretebilen bir model onu kişiselleştirebilir.”** Üretim ile uyarlama farklı yeteneklerdir ve aralarındaki açık büyüktür. Müfredat üreticileri ön koşul ve [[hallucination-risk|halüsinasyon]] geçerliliğinde güçlüydü (DeepSeek-V3.1 \%90,9’a ulaştı) ancak öğrenene uyarlamada zayıftı: uyarlanabilirlik en fazla \%44,7’de zirve yaptı ve DeepSeek-V3.1’in nihai geçiş oranı Temel koşulda \%29,5’e düştü. Ön koşul geçerliliği kişiselleştirme değildir.
-
-**“Materyali üretmek, gerçek içeriğin dayattığı kısıtı ortadan kaldırır.”** Üretim bir kısıtı gevşetir, diğerlerini gevşetemez. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]], bir öğrenenin belirttiği ilgiye, ders hedeflerine ve amaçlanan beceri düzeyine uygun sentetik istatistik veri kümeleri üretir (gerçek veri kümelerinin nadiren karşıladığı üç yönlü bir eşleşme); ancak yazarları sınırı açıkça belirtmektedir: sentetik veri veri toplamayı, ölçmeyi veya çalışma tasarımını öğretemez, dolayısıyla araç gerçek verinin yerine değil, onu tamamlayıcı niteliktedir.
-
-**“Bu sistemleri doğrulayan şey bildirilen [[learning-gains|öğrenme kazançları]]dır.”** Burada derlenen pekiştirmeli öğrenme ve kişiselleştirme çalışmalarında politikalar, uyarlamalı olmayan temel çizgilere karşı en sık rehberlikle ilgili uyarlamada ve duygusal değişkenlerde (test edilen çalışmaların %63'ünde) üstünlük sağlarken, öğrenme kazancı, özellikle normalleştirilmiş öğrenme kazancı, *en az* bildirilen sonuçtu. Etkileşim ve duyguyu öğrenmeden çok daha fazla bildiren bir literatür, öğrenmenin baskın olduğunun kanıtı değildir.
-
+“Kişiselleştirilmiş öğrenme”nin geniş, gevşek tanımlı bir şemsiye terim olması yinelenen bir sorundur. Sistematik derlemeler ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh ve ark., 2026]]), [[adaptive-learning|uyarlamalı öğrenme]], bireyselleştirilmiş öğretim, özelleştirilmiş öğrenme ve kişiselleştirilmiş öğrenmenin birbirinin yerine kullanıldığını, evrensel olarak kabul görmüş bir tanım bulunmadığını ortaya koyar — bu, araştırma sentezini ve kanıta dayalı uygulamayı karmaşıklaştıran kavramsal bir belirsizlik kaynağıdır. Alan, giderek daha fazla, “kişiselleştirilmiş” sözcüğünün muğlak bir etiket yerine kesin ve kanıta dayalı bir iddiayı belirtmesi için bütünleşik bir çerçeve ve tanım çağrısında bulunmaktadır (bu nokta, bir [[limitations-in-aied-research|zayıf kavram kullanımı eleştirisi]] ile bir kez daha pekişmektedir).
 ## Uygulama için çıkarımlar
 
 **Eğitmenler için**
@@ -150,3 +144,15 @@ GRADE kesinliği çok düşük olarak derecelendirilmiştir. Dürüst okuma, nok
 
 - Ölçtüğünüz yapılarda kişiselleştirmeyi uyarlamayla karıştırmayı bırakın ve etkiyi hangi mekanizmanın ürettiğini açıkça belirtin.
 - Normalleştirilmiş öğrenme kazancını birincil sonuç olarak bildirin; literatürdeki seyrekliği, devralınacak bir gelenek değil, kapatılacak bir açıktır.
+
+## Yaygın yanlış anlamalar
+
+**“Kişiselleştirilmiş öğrenme ile uyarlamalı öğrenme aynı şeydir.”** Uyarlamalı sistemler kişiselleştirmeye giden bir *araçtır*, onun tanımı değildir. Kişiselleştirme aynı ölçüde statik öğrenen profilleri, seçim temelli yollar veya gerçek zamanlı uyarlama yapmayan insan özel öğretmeni uyarlaması yoluyla da sağlanabilir. İkisini eşanlamlı saymak, zengin öğrenen seçimi sunan ancak uyarlamalı motoru bulunmayan bir okulu kişiselleştirilmemiş gibi gösterir ve sıkı biçimde uyarlamalı bir alıştırmayı olduğundan daha öğrenen merkezli kılar.
+
+**“Kişiselleştirme daha fazla konu kapsayarak karşılığını verir.”** Bir yolun ardındaki teşhis gerçekten doğrulandığında, kişiselleştirme *kapsamdan çok yükü azaltarak* karşılığını verir: en kısa yol üzerinden düzeltme ortalama 3,82 adımda tamamlandı ve çalışma süresini %22,0 kısalttı (73,8 yerine 57,6 dakika), etkiyi ise bilişsel yük taşıdı. Fayda, saat başına daha fazla içerik değil, daha az gereksiz adımdır.
+
+**“Tutarlı bir [[curriculum-design|müfredat]] üretebilen bir model onu kişiselleştirebilir.”** Üretim ile uyarlama farklı yeteneklerdir ve aralarındaki açık büyüktür. Müfredat üreticileri ön koşul ve [[hallucination-risk|halüsinasyon]] geçerliliğinde güçlüydü (DeepSeek-V3.1 \%90,9’a ulaştı) ancak öğrenene uyarlamada zayıftı: uyarlanabilirlik en fazla \%44,7’de zirve yaptı ve DeepSeek-V3.1’in nihai geçiş oranı Temel koşulda \%29,5’e düştü. Ön koşul geçerliliği kişiselleştirme değildir.
+
+**“Materyali üretmek, gerçek içeriğin dayattığı kısıtı ortadan kaldırır.”** Üretim bir kısıtı gevşetir, diğerlerini gevşetemez. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]], bir öğrenenin belirttiği ilgiye, ders hedeflerine ve amaçlanan beceri düzeyine uygun sentetik istatistik veri kümeleri üretir (gerçek veri kümelerinin nadiren karşıladığı üç yönlü bir eşleşme); ancak yazarları sınırı açıkça belirtmektedir: sentetik veri veri toplamayı, ölçmeyi veya çalışma tasarımını öğretemez, dolayısıyla araç gerçek verinin yerine değil, onu tamamlayıcı niteliktedir.
+
+**“Bu sistemleri doğrulayan şey bildirilen [[learning-gains|öğrenme kazançları]]dır.”** Burada derlenen pekiştirmeli öğrenme ve kişiselleştirme çalışmalarında politikalar, uyarlamalı olmayan temel çizgilere karşı en sık rehberlikle ilgili uyarlamada ve duygusal değişkenlerde (test edilen çalışmaların %63'ünde) üstünlük sağlarken, öğrenme kazancı, özellikle normalleştirilmiş öğrenme kazancı, *en az* bildirilen sonuçtu. Etkileşim ve duyguyu öğrenmeden çok daha fazla bildiren bir literatür, öğrenmenin baskın olduğunun kanıtı değildir.

@@ -1,6 +1,7 @@
 ---
 title: Öğrenciler için YZ Kullanımını Çerçevelemek
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -10,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -79,6 +84,8 @@ Küçük, iyi tasarlanmış mesajlar davranışı kaydırabilir. ChatGPT’nin y
 ## Medya ve kamusal çerçeveleme
 
 Öğrenciler, [[ai-education|Eğitimde yapay zeka]] etrafındaki daha geniş medya ve kamusal söylem tarafından da çerçevelenir; bu da herhangi bir öğretim elemanı mesajından önce temel beklentilerini şekillendirir. Kamusal söylemin ve YouTube gibi platformların eğitimde ChatGPT kullanımını nasıl çerçevelediğine ilişkin analizler, hâkim çerçevelerin — heyecan, kıyamet veya pragmatizm — öğrenenlerin ve [[teacher-role|eğitimcilerin]] teknolojiye yaklaşımını nasıl etkilediğini gösterir.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Öğretim elemanlarınca yapılan etkili çerçeveleme sıklıkla bu çevresel anlatıları bilinçli biçimde karşı çevirmek veya yeniden yönlendirmek demektir.
+
+Çerçeve, aynı zamanda öğrencinin ilerideki nitelik kanıtının fiyatını da belirler: yaklaşık 1.750 ABD işe alım uzmanıyla yapılan bir araştırmada, öğrencilerin YZ kullanımı “yardım” yerine “ikame” olarak tanımlandığında görüşmeye çağrılma olasılığı ile maaş pazarlığı istekliliği düşmüş; bu etki en keskin biçimde yüksek not ortalamasına sahip başvuru sahiplerinde görülmüştür ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan ve Reynolds, 2026]]).
 
 ## Pratik rehber
 

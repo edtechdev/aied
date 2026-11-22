@@ -1,6 +1,7 @@
 ---
 title: Biyoloji Eğitimi
 created: "2026-10-14T22:15:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -8,13 +9,17 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
 connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]
@@ -34,7 +39,7 @@ connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-d
 
 ## Giriş
 
-YZ konusundaki biyoloji eğitimi araştırması bir gerginlik çevresinde kümelenir: YZ biyoloji *araştırmasını* (AlphaFold, “omik”, hesaplamalı biyoloji) kökten değiştirirken, biyoloji *eğitimindeki* benimsemesi, üretici YZ kopya çekme, yanlış bilgilendirme ve eleştirel düşüncenin aşınmasına ilişkin kaygılar arasında temkinli olmuştur. Bilgi tabanının biyoloji makaleleri, YZ araçlarının laboratuvar öğretmen asistanları olarak nasıl işlediğini, YZ okuryazarlığının biyoloji derslerine nasıl gömülebileceğini, eleştirel düşüncenin YZ çağında nasıl korunması gerektiğini ve özel YZ araçlarının saha çalışması ile tür tanımayı nasıl desteklediğini birlikte inceler.
+YZ üzerine biyoloji eğitimi literatürü bir gerginlik etrafında kümeleniyor. Hesaplamalı yöntemler biyolojik keşfi dönüştürdü (AlphaFold, “omik”, hesaplamalı biyoloji), sınıf uygulamasıysa üretici YZ kopya çekme, yanlış bilgilendirme ve eleştirel düşüncenin aşınması endişeleri arasında temkinle ilerledi. Biyoloji literatürü, YZ araçlarının laboratuvar öğretmen asistanları olarak nasıl işlediğini, YZ okuryazarlığının biyoloji derslerine nasıl gömülebileceğini, eleştirel düşüncenin YZ çağında nasıl korunması gerektiğini ve özel YZ araçlarının saha çalışması ile tür tanımayı nasıl desteklediğini birlikte inceler.
 
 ### Temel araştırma temaları
 
@@ -42,7 +47,7 @@ YZ konusundaki biyoloji eğitimi araştırması bir gerginlik çevresinde kümel
 
 **Biyoloji müfredatına gömülü YZ okuryazarlığı.** **[[zha-ai-literacy-biology-case-study|Zha vd.]]**, makine öğrenmesi ve sinir ağı kavramlarını lise onur biyoloji dersine yerleştirdi; YZ bilgisinde belirgin kazanımlar ve biyoloji bağlamının YZ öğrenmesini desteklediğini buldu — bu, YZ okuryazarlığını ders dışı etkinliklere terk etmek yerine [[stem-education]] içine gömmek lehine kanıttır. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García vd.]]**, biyoloji ve matematik derslerinde **meydan okunmaya dayalı öğrenme** içinde ChatGPT kullandı; öğrencilerin aciliyeti değerli bulduğunu ama doğruluğu, [[teacher-role|öğretmen]] yerine geçmeyi ve beceri aşınmasını kaygılandığını buldu — güncellenmiş akademik dürüstlük kuralları ve YZ kullanım etiği çağrısında bulundu.
 
-**YZ çağında eleştirel düşünce.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]**, YZ biyolojik araştırmayı şekillendirdikçe **eleştirel düşüncenin** — kuşkuculuk, bağlamsal anlayış ve etik muhakeme — bilinçli olarak yetiştirilmesi gerektiğini; YZ çıktılarını doğrulamak ve [[equity-in-ai-education|önyargı]]yı önlemek için [[human-in-the-loop-ai|insan gözetimi]]nin vazgeçilmez kalması gerektiğini savunur. Bu, bilgi tabanı genelindeki [[reducing-ai-misuse]] ve [[cognitive-offloading]] kaygılarına bağlanır.
+**YZ çağında eleştirel düşünce.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]**, biyoloji öğretiminin **eleştirel düşünceyi** — kuşkuculuk, bağlamsal anlayış, etik muhakeme — açık bir öğrenme hedefi olarak ele alması gerektiğini; YZ çıktılarını doğrulamak ve [[equity-in-ai-education|önyargı]]ya karşı korunmak için [[human-in-the-loop-ai|insan gözetimi]]nin vazgeçilmez olduğunu savunur. Bu, daha geniş [[reducing-ai-misuse]] ve [[cognitive-offloading]] kaygılarına bağlanır.
 
 **Öğretmen yetiştirmede Sokratik YZ argümantasyon uygulaması.** 124 aday biyoloji öğretmeniyle yürütülen bir yarı-deneysel çalışmada, sosyo-bilimsel konularda ChatGPT-4 tabanlı bir [[socratic-method|Sokratik öğretmen]]in, çevrimdışı akran tartışmasına kıyasla argümantasyon kalitesini yükselttiği bulundu (düzeltilmiş 3,91’e karşı 3,21, F(1,121) = 14,23, p < .001); kazanımlar çürütme ve karşı kanıt becerilerinde en yüksek oldu ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva vd., 2026]]).
 

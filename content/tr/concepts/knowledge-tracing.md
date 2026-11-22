@@ -7,7 +7,7 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -15,8 +15,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
 connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -36,7 +41,7 @@ connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-
 
 Bilgi izleme, ham alıştırma yanıtlarını bir öğrencinin neyi öğrendiği ve neyi öğrenmeye hâlâ ihtiyaç duyduğuna dair tahminlere dönüştürür. Basit doğruluk izlemesinin aksine, bilgi izleme öğrenmenin zamansal dinamiğini modelleme yapar — bilginin ne zaman kazanıldığını, ne zaman zayıfladığını ve kavramların birbirleriyle nasıl ilişkili olduğunu.
 
-### Bilgi tabanında yer alan yaklaşımlar
+## Bilgi tabanında yer alan yaklaşımlar
 
 - **Bayes yaklaşımları:** [[stanbkt-bayesian-knowledge-tracing]] BKT uygulamalarını standartlaştırır; [[mbp-kt-meta-behavioral-knowledge-tracing]] ise üst-davranışsal sinyalleri dâhil eder
 - **LLM gözlem fonksiyonu ile yumuşak kanıt BKT:** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He ve ark., 2026)]] BKT yapısını korur ama standart BKT’nin girdisi olan ikili doğru/yanlış gözlemini sürekli bir gözlemle değiştirir: bir [[llm]] puanlayıcı derecelendirilmiş yeterlilik kanıtı artı bir güven ağırlığı üretir, bunlar güvenle küçültülmüş bir posteriora harmanlanır ve açıkça yanlış bir cevabın tahmini yükseltemeyeceği şekilde kapılanır; bu da güncellemeyi standart BKT’nin katı bir indirgemesi olmaktan çok onu genelleştiren bir varyant haline getirir. Bu gözlem fonksiyonunun güvenilir olup olmadığı öğrenene bağlıdır: ortalama kanıt yetenek kademelerini temiz biçimde ayırdı (0,25 zayıf / 0,67 karışık / 0,77 güçlü) oysa kademe içinde gerçek yeterlilikle korelasyon yalnızca r ≈ 0,15 / 0,48 / 0,41 kadardı; bu da izlenen durumu öğrenen hakkında kalibre edilmiş bir ölçümden çok bir ajanın inancı olarak bırakır.
@@ -56,7 +61,7 @@ Bilgi izleme, ham alıştırma yanıtlarını bir öğrencinin neyi öğrendiği
 
 - **Yalnızca anlık görüntüye dayalı izleme.** [[skill-acquisition-without-temporal-info|Nagai ve ark. (2026)]], öğrenenlerin beceri kümeleri arasındaki kapsama ilişkilerinden yalancı-zamansal bir sıra çıkarır; genişleyen beceri kümelerini öğrenme ilerleyişi olarak ele alır, böylece tek zaman noktalı anlık görüntüler izlenebilir kalır — ancak formülasyon becerilerin asla kaybolmadığını varsaydığından, gerileyen öğrenenlere yönelik uygulamalar önce açık bir unutma mekanizmasına gereksinim duyar.
 
-### Diğer kavramlarla ilişki
+## Diğer kavramlarla ilişki
 
 Bilgi izleme, [[student-modeling]] ile yakından ilişkilidir — bilgi izleme özellikle zaman içinde bilişsel bilgiyi modellerken, öğrenci modellemesi bir öğrenenin tüm yönlerini ([[affective-computing|duygusal]] durum, [[student-engagement|katılım]], tercihler) temsil etmenin daha geniş uygulamasıdır. Bilgi izleme, sırada ne öğretileceğini bilmesi gereken [[adaptive-learning]] ve [[personalized-learning]] sistemlerine ve yeterlilik tahminlerini uygun soruları seçmek için kullanan [[intelligent-tutoring]] platformlarına beslenir. Gösterge paneli ve müdahale tasarımı için [[learning-analytics]] ile, ince ayarlı beceri [[assessment]] için [[cognitive-diagnosis]] ile bağlantılıdır. Bilgi izleme yapıları ayrıca [[simulating-students|simüle edilmiş öğrencileri]] de besler — bir simüle edilmiş öğrenenin bilişsel durumu çoğu zaman bilgi izlemenin modellediği aynı yeterlilik/zayıflama dinamiğiyle biçimselleştirilir; böylece [[simulation]], izleme yöntemlerinin normalde gerçek yanıt verisinden *çıkardığı* bilgi durumlarını *üretmenin* bir yoludur.
 
@@ -72,16 +77,6 @@ Bilgi izleme, [[student-modeling]] ile yakından ilişkilidir — bilgi izleme �
 
 **Bir yetenek uyarısı: genel dil modelleri bilgiyi sıradan bir taban çizgisinin zar zor üzerinde izler.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden ve ark. (2026)]], FoundationalASSIST’i yayımladı; bu veri kümesi önceki izleme veri kümelerinin attığı tam soru metnini, öğrencilerin fiilen verdiği yanıtları ve çeldirici seçeneklerini geri getirir ve dört sınır ötesi [[llm|LLM]]’yi sıfır-atımlı izleyici olarak sınadı. En iyisi olan GPT-OSS-120B, her zaman doğru öngören bir kuralın zaten %51,3 puan aldığı duruma karşılık %56,2’ye ulaştı (AUC-ROC 0,559), daha uzun geçmişlerden iyileşme olmadan; Llama-3.3-70B ise bir öğrencinin doğru yanıtladığı hallerde %85,4 oranında haklı çıktı ama hata yaptığında yalnızca %12,6 — hazır bir modelin anlayıştan çok iyimserliği izlediğine dair kanıt; dolayısıyla bir izleyicinin görünür becerisi, görevin izin verdiği sıradan taban çizgisine karşı okunmalıdır.
 - **Tek geçişli bir LLM, herhangi bir öğrenci kaydedilmeden önce bilgiyi izleyebilir.** Hedef platform verisi olmadan tek tipli soru olarak sorgulandığında Jev, 8 öğrenci üzerinde eğitilmiş 28 derin izleme modelinin en iyisinden (.689) yüksek ortalama .706 AUC’ye ulaştı ve denetimli izleme 64–128 öğrencide yetişene kadar önde kaldı ([[system-one-llm-knowledge-tracing-2026|Lee ve Park, 2026]]).
-
-## Yaygın yanlış anlamalar
-
-**“Yeterlilik etiketi, öğrenenin o bilgiye sahip olduğu anlamına gelir.”** Yeterlilik doğruluk değildir: bir öğrenen gizli bir koşul ihlal edildiğinde bir beceriyi sistematik biçimde yanlış uygularken yeterli görünebilir ve etiketin değeri arkasındaki sayım kuralına bağlıdır. Beyan edilmiş tamamlamalara kredi vermek **113.428 öğrenci-beceri çiftinin %93,9'unu** yeterli ilan etti, katı kural altında **%72,8**'e karşılık; hoşgörülü kuralın önde ilan ettiği çiftler ise yalnızca **%70,9 yardımsız doğruluğa** ulaştı. Savunulabilir iki kural, kimin hazır ilan edildiğinde 21 puanlık bir fark üretti.
-
-**“Sıra modelleri izlemeyi doğru kılan şeydir.”** Görünen kazancın çoğu bundan daha ucuza elde edilir. 8.996 Fin öğrencisinden gelen 1.927.265 matematik yanıtı üzerinde yalnızca madde kimliği **AUC .8362**'ye ulaştı ve madde zorluğuna göreli tek bir yenilik ölçütü eklemek bunu **.866**'ya yükseltti. Derin sıra modellerinin satın aldığının büyük bir payı, madde zorluğu taban çizgisi artı yenilikten elde edilebilir; bu nedenle mimari karşılaştırmalarının anlamlı olması için bu taban çizgisi gerekir.
-
-**“Bir veri kümesinde en iyi model, sizin dersiniz için de en iyi modeldir.”** Doğruluk ortama özgüdür. OKT, canlı [[engineering-education|mühendislik]] programı LMS verisinde (2.416 öğrenci, 966 çıktı) **%89,81 AUC**'ye ulaşarak DKT, DKVMN, EKT ve SimpleKT'yi geride bıraktı, oysa ASSISTments'ta yalnızca rekabetçi sonuçlar verdi. Bir veri kümesi ailesinde kazanan aynı mimari başka birinde dikkat çekici değildir; bu nedenle başka bir yerden gelen manşet AUC, öğrencileriniz hakkında zayıf bir kanıttır.
-
-**“Unutma kanıtı olmadıkça bilgi kalıcıdır.”** Unutma, modellenmeye değer varsayılan durumdur. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan ve Carvalho (2025)]], BKT, BKT-with-Forgetting ve Additive Factors Model'i çok oturumlu bir dizi boyunca uyarladı ve model uyumunun kalıcılık temsil edildiğinde değiştiğini, bu modellerin *doğrulanma* biçiminin *dağıtılma* biçiminden farklı olduğunu buldu.
 
 ## Uygulama için çıkarımlar
 
@@ -101,3 +96,13 @@ Bilgi izleme, [[student-modeling]] ile yakından ilişkilidir — bilgi izleme �
 
 - Mimari üstünlüğü iddia etmeden önce sonuçları birden fazla veri kümesi ailesinde bildirin, çünkü OKT karşılaştırması mühendislik LMS verisi ile ASSISTments arasında tersine döner.
 - Yeterlilik sayım kuralını yöntemsel bir dipnot olarak değil, sonucun bir parametresi olarak bildirin.
+## Yaygın yanlış anlamalar
+
+**“Yeterlilik etiketi, öğrenenin o bilgiye sahip olduğu anlamına gelir.”** Yeterlilik doğruluk değildir: bir öğrenen gizli bir koşul ihlal edildiğinde bir beceriyi sistematik biçimde yanlış uygularken yeterli görünebilir ve etiketin değeri arkasındaki sayım kuralına bağlıdır. Beyan edilmiş tamamlamalara kredi vermek **113.428 öğrenci-beceri çiftinin %93,9'unu** yeterli ilan etti, katı kural altında **%72,8**'e karşılık; hoşgörülü kuralın önde ilan ettiği çiftler ise yalnızca **%70,9 yardımsız doğruluğa** ulaştı. Savunulabilir iki kural, kimin hazır ilan edildiğinde 21 puanlık bir fark üretti.
+
+**“Sıra modelleri izlemeyi doğru kılan şeydir.”** Görünen kazancın çoğu bundan daha ucuza elde edilir. 8.996 Fin öğrencisinden gelen 1.927.265 matematik yanıtı üzerinde yalnızca madde kimliği **AUC .8362**'ye ulaştı ve madde zorluğuna göreli tek bir yenilik ölçütü eklemek bunu **.866**'ya yükseltti. Derin sıra modellerinin satın aldığının büyük bir payı, madde zorluğu taban çizgisi artı yenilikten elde edilebilir; bu nedenle mimari karşılaştırmalarının anlamlı olması için bu taban çizgisi gerekir.
+
+**“Bir veri kümesinde en iyi model, sizin dersiniz için de en iyi modeldir.”** Doğruluk ortama özgüdür. OKT, canlı [[engineering-education|mühendislik]] programı LMS verisinde (2.416 öğrenci, 966 çıktı) **%89,81 AUC**'ye ulaşarak DKT, DKVMN, EKT ve SimpleKT'yi geride bıraktı, oysa ASSISTments'ta yalnızca rekabetçi sonuçlar verdi. Bir veri kümesi ailesinde kazanan aynı mimari başka birinde dikkat çekici değildir; bu nedenle başka bir yerden gelen manşet AUC, öğrencileriniz hakkında zayıf bir kanıttır.
+
+**“Unutma kanıtı olmadıkça bilgi kalıcıdır.”** Unutma, modellenmeye değer varsayılan durumdur. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan ve Carvalho (2025)]], BKT, BKT-with-Forgetting ve Additive Factors Model'i çok oturumlu bir dizi boyunca uyarladı ve model uyumunun kalıcılık temsil edildiğinde değiştiğini, bu modellerin *doğrulanma* biçiminin *dağıtılma* biçiminden farklı olduğunu buldu.
+

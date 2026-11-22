@@ -1,5 +1,6 @@
 ---
 title: "Hatırlatma (Retrieval), Aralıklı Tekrar (Spacing) ve Karıştırma (Interleaving)"
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T21:30:00-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
@@ -11,13 +12,17 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
 connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
@@ -92,6 +97,8 @@ Karıştırma’nın buradaki yerinin dayanağı bu nedenle, diğer iki teknikle
 - **Ölçümleme ve modelleme sınırları.** Derlemdeki [[knowledge-tracing]] modelleri, tam olarak aralıklılık kararlarının gerektiği yerde başarısız olur ve yazarlar geçmiş başarıları, dağıtım gerçekçisi doğrulama yerine geriye dönük tüm veri kümesi uydurmasına bağlar. İki dilli yardımcının kart kalitesi, temel gerçekliğe karşı doğrulanmamıştır, otomatik olgu kontrolü katmanı yoktur ve hiç sonuç çalışması yürütmemiştir.
 - **Karıştırma burada neredeyse hiç doğrudan kanıt içermez.** Yukarıda belirtildiği gibi, derlem bloklamalı-karıştırmalı hiçbir karşılaştırma içermez, yalnızca Karıştırma’nın birkaç strateji arasından biri olduğu bir benzetim vardır.
 - **Konu olunan kitleler ve içerik.** Kanıt tabanı, [[higher-ed|yükseköğretimde]], STEM ve istatistik materyalinde ve geometri ile çoklu regresyon içeriğinden gerçek-beceri ayrımlarında yoğunlaşır; [[k-12|K-12]] ortamlarına, [[humanities-education|beşeri bilimlere]] ve yazmaya ve Batı dışı sınıflara genelleme, bu çalışmalarla kurulmamıştır.
+
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya ve Wenzel (2026)]], üretken YZ’yi test etkisinin önüne koyar: 675 kelimelik bir metni okumadan önce yanıtlanan iki ChatGPT üretimi ön soru. 90, 128, 153 ve 157 yetişkinle yapılan dört deneyde, ön sorulama yalnızca okumayı geçmiş (çalışılan sorularda d = 1,12; çalışılmayanlarda d = 0,78) ve insan üretimi sorularla eşleşmiştir. Öğrenenler neredeyse hiç doğru yanıt vermemiştir — Deney 1’de doğruluk 0,056 — ve yine de daha fazla öğrenmiştir; bu, ön test etkisinin imzasıdır. Aktarım mesafe arttıkça solmuştur: test edilen sorular, test edilmeyen aynı kaynaklı soruları (d = 0,46) geçmiş, bunlar test edilmeyen farklı kaynaklı soruları (d = 0,32) geçmiştir. Soru üretimi ucuzladı; hatırlatma zorunlu kaldı.
 
 ## Yaygın yanlış anlamalar
 

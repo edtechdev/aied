@@ -1,6 +1,7 @@
 ---
 title: "Öğrenme Bilimleri"
 created: "2026-10-14T22:15:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -12,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,13 +21,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
 connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Öğrenme bilimleri** — insanların nasıl öğrendiğini ve öğrenmenin gerçekleştiği ortamların nasıl tasarlanacağını inceleyen disiplinler arası araştırma alanı; [[cognitive-psychology|bilişsel psikoloji]], [[learning-theories|öğrenme kuramı]], [[cs-education|bilgisayar bilimi]] ve dilbilime dayanır ve tasarımlarını kuramın tek başına değil, ampirik kanıtla yargılar. Bu bilgi tabanında okul derslerinden biri değil, [[ai-education|Eğitimde YZ]]’nin çevresindeki araştırma alanıdır: YZ sistemlerinin işlevsel kıldığı mekanizmaları (bilgi bileşenleri, [[mastery-learning|ustalık eşikleri]], [[transfer-of-learning|transfer]]), bunların gömülü olduğu tasarım nesnelerini ([[learning-design|planlanmış kurs dizileri]], [[intelligent-tutoring|mentorlar]], [[feedback]] rejimleri) ve bunların yargılandığı ölçütleri ([[learning-gains]], [[assessment-validity]], [[equity-in-ai-education|eşitlik]]) sağlar. Onun yapılandırıcı sorusu bir aracın iyi performans gösterip göstermediği değil, bir öğrenenin değişip değişmediğidir.
+> **Öğrenme bilimleri** — insanların nasıl öğrendiğini ve öğrenmenin gerçekleştiği ortamların nasıl tasarlanacağını inceleyen disiplinler arası araştırma alanı; [[cognitive-psychology|bilişsel psikoloji]], [[learning-theories|öğrenme kuramı]], [[cs-education|bilgisayar bilimi]] ve dilbilime dayanır ve tasarımlarını kuramın tek başına değil, ampirik kanıtla yargılar. Okul derslerinden biri değil, [[ai-education|Eğitimde YZ]]’nin çevresindeki araştırma alanıdır: YZ sistemlerinin işlevsel kıldığı mekanizmaları (bilgi bileşenleri, [[mastery-learning|ustalık eşikleri]], [[transfer-of-learning|transfer]]), bunların gömülü olduğu tasarım nesnelerini ([[learning-design|planlanmış kurs dizileri]], [[intelligent-tutoring|mentorlar]], [[feedback]] rejimleri) ve bunların yargılandığı ölçütleri ([[learning-gains]], [[assessment-validity]], [[equity-in-ai-education|eşitlik]]) sağlar. Onun yapılandırıcı sorusu bir aracın iyi performans gösterip göstermediği değil, bir öğrenenin değişip değişmediğidir.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -37,9 +42,9 @@ connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive
 
 ## Giriş
 
-Öğrenme bilimleri öğrenmeyi ve öğrenme ortamlarının tasarımını inceler ve konuları kadar yöntemleriyle tanımlanırlar: deneyler, sınıf denemeleri, öğrenci verisinin [[quantitative-research|nicel]] modellemesi, tasarım ve bağlamların [[qualitative-research|nitel]] analizi ile bir müdahaleyi kurduran ve onu kullanımda gözden geçiren tasarım temelli araştırma. Bu genişlik, bu sayfayı çerçeveleri, uygulamayı ve araçları sağlayan komşulardan ayırır; aşağıdaki bölüm her sınırı ve onun ötesinde alanın kurduğunu ortaya koyar.
+Öğrenme bilimleri öğrenmeyi ve öğrenme ortamlarının tasarımını inceler ve konuları kadar yöntemleriyle tanımlanırlar: deneyler, sınıf denemeleri, öğrenci verisinin [[quantitative-research|nicel]] modellemesi, tasarım ve bağlamların [[qualitative-research|nitel]] analizi ile bir müdahaleyi kurduran ve onu kullanımda gözden geçiren tasarım temelli araştırma. Bu genişlik, alanı çerçeveleri, uygulamayı ve araçları sağlayan komşu alanlardan ayırır. Her sınır önemlidir, çünkü alan onun ötesinde farklı bir şey kurmuştur.
 
-Bu sayfa, bu yöntemlerin ürettiği özsel bilgiyi kapsar — öğrenenlerin bir üretken modelle ne yaptığı, hangi düzenlemelerin sonuçları değiştirdiği ve alanın kendi araçlarının nerede başarısız olduğu. [[discipline-specific-aied]] bunun ters kesiti alır ve ders materyalinin desteğin ne yapması gerektiğini değiştirdiğini savunur; öğrenme bilimleri kesişen görüşü alır ve sınadıkları mekanizmalar [[cognitive-psychology]] altında toplanır.
+Bu yöntemlerin ürettiği özsel bilgi, öğrenenlerin bir üretken modelle ne yaptığını, hangi düzenlemelerin sonuçları değiştirdiğini ve alanın kendi araçlarının nerede başarısız olduğunu kapsar. [[discipline-specific-aied]] bunun ters kesiti alır ve ders materyalinin desteğin ne yapması gerektiğini değiştirdiğini savunur; öğrenme bilimleri kesişen görüşü alır ve sınadıkları mekanizmalar [[cognitive-psychology]] altında toplanır.
 
 ### Öğrenme bilimlerinde YZ nasıl görünür
 
@@ -67,9 +72,9 @@ Bu sayfa, bu yöntemlerin ürettiği özsel bilgiyi kapsar — öğrenenlerin bi
 
 ## Öğrenme bilimleri komşularıyla nasıl ilişkilidir
 
-[[design-based-research|Tasarım temelli araştırma]], bu alanın ödünç almak yerine geliştirdiği yöntemdir: bir müdahale, kuramsal gerekçesi onunla birlikte gözden geçirilerek çalışan bir sınıfın içinde kurulur ve revize edilir; böylece tek bir çalışma hem bir yapıt hem bir tasarım ilkesi verir. Bunu, bağlamı sabit tutarak bir nedeni yalıtan laboratuvar deneyinden ayıran budur ve alanın bulgularının etki büyüklükleri olarak değil, tasarım bilgisi olarak gelişinin nedeni budur. [[research-methods-aied]] ters kesiti alır: o sayfa bütün repertuvarı — deneyler, anketler, nitel çalışmalar, [[benchmark|kıyaslama ölçütleri]], derlemeler, uzlaşı yöntemleri — her birinin destekleyebildiği iddianın geçerliliği için tartılarak bir araç seçimi olarak tarar. Bu sayfa aynı derlemi özsel taraftan okur, repertuvarın öğrenme hakkında ne kurduğunu sorar ve bir yöntemi, tasarım iddiasının öğrenenlerle temasa ayakta kalıp kalmadığına göre yargılar.
+[[design-based-research|Tasarım temelli araştırma]], bu alanın ödünç almak yerine geliştirdiği yöntemdir: bir müdahale, kuramsal gerekçesi onunla birlikte gözden geçirilerek çalışan bir sınıfın içinde kurulur ve revize edilir; böylece tek bir çalışma hem bir yapıt hem bir tasarım ilkesi verir. Bunu, bağlamı sabit tutarak bir nedeni yalıtan laboratuvar deneyinden ayıran budur ve alanın bulgularının etki büyüklükleri olarak değil, tasarım bilgisi olarak gelişinin nedeni budur. [[research-methods-aied]] ters kesiti alır: bütün repertuvarı — deneyler, anketler, nitel çalışmalar, [[benchmark|kıyaslama ölçütleri]], derlemeler, uzlaşı yöntemleri — her birinin destekleyebildiği iddianın geçerliliği için tartılarak bir araç seçimi olarak tarar. Repertuvarın özsel okuması, onun öğrenme hakkında ne kurduğunu sorar ve bir yöntemi, tasarım iddiasının öğrenenlerle temasa ayakta kalıp kalmadığına göre yargılar.
 
-[[learning-theories]], aday çerçeveleri — [[behaviorism|davranışçılık]], bilişselcilik, [[constructivist|yapılandırmacılık]], [[sociocultural-learning|sosyokültürel]] açıklamalar, motivasyon ve [[self-regulated-learning|öz düzenleme]] — YZ’yi okumak için mercekler olarak toplar. Öğrenme bilimleri bu sözlüğü paylaşır ama bu duruşu paylaşmaz: burada bir kuram, bir tasarımın ya örneklemesi ya da çürütmesi gereken mekanizma hakkında bir iddiadır ve alanın saygınlığı bir çerçevenin tutarlılığından çok ampirik ve tasarım çalışmasına dayanır. Bir çerçevenin ne iddia ettiğini açmak için uygun olan sayfa kuram sayfasıdır; bir çerçevenin hangi kanıtı biriktirdiği için uygun olan sayfa budur.
+[[learning-theories]], aday çerçeveleri — [[behaviorism|davranışçılık]], bilişselcilik, [[constructivist|yapılandırmacılık]], [[sociocultural-learning|sosyokültürel]] açıklamalar, motivasyon ve [[self-regulated-learning|öz düzenleme]] — YZ’yi okumak için mercekler olarak toplar. Öğrenme bilimleri bu sözlüğü paylaşır ama bu duruşu paylaşmaz: burada bir kuram, bir tasarımın ya örneklemesi ya da çürütmesi gereken mekanizma hakkında bir iddiadır ve alanın saygınlığı bir çerçevenin tutarlılığından çok ampirik ve tasarım çalışmasına dayanır. Kuram, bir çerçevenin ne iddia ettiğini sağlar; öğrenme bilimleri ise bir çerçevenin biriktirdiği kanıtı sağlar.
 
 Alan aynı zamanda yalnızca ödünç alınan çerçeveleri sınamakla kalmaz, kuram da kurar: [[theory-development-aied]], öğrenenlerin, öğretmenlerin ve YZ sistemlerinin nasıl etkileşime girdiğini açıklayan kavramsal çalışmayı kapsar ve alanın kendi yapılarının ölçülmeden önce tartıldığı yer orasıdır. Tasarımlarından üretmesi genellikle istenen şey [[transfer-of-learning|transfer]]dir — mentor, ders ya da görevin ötesinde ayakta kalan bilgi ve beceri — bu nedenle bir araç içinde ölçülen kazanım, onsuz ölçülen bir kazanımdan daha zayıf bir iddia sayılır. Ve tasarlanmış bir ortam bileşik bir müdahale olduğundan, bir sonucu tek bir bileşene atfetmek alanın yerleşik ölçüm sorunudur: [[educational-measurement]], atfı tartışılabilir kılan psikometrik aygıtı sağlar; bu nedenle ölçüm soruları burada sonradan değil, erken gelir.
 
@@ -78,13 +83,6 @@ Alan aynı zamanda yalnızca ödünç alınan çerçeveleri sınamakla kalmaz, k
 [[pedagogy]] ve [[learning-design]] uygulamayı kapsar — hangi öğretme stratejisinin kullanılacağı ve hedeflerin, etkinliklerin ile değerlendirmenin bir kursa nasıl dizileneceği. İkisi de öğrenme bilimlerinin dışarıdan, betimleme ve değerlendirme nesneleri olarak inceledikleri şeydir; alan bir öğretmene sıradaki hangi taktiğe uzanacağını söylemez, taktiklerin ne yaptığının gösterildiğini bildirir. Öğrenme tasarımı daha yakın akrabadır, zira ikisi de uygulanabilir ve sınanabilir bir şey üretir; ancak tasarımcının çıktısı öğretilebilir bir kurs, alanın çıktısı ise genel olarak tasarımlar hakkında bilgidir.
 
 Bulgular yalnızca öğretime ulaştıklarında önem kazanır ve bu yolculuk üç sayfa üzerinden geçer. [[educational-development]], onları taşıyan kurumsal uygulamadır — kadro geliştirme, standartlar, politika ve [[learner-identity|kimlik çalışması]], doğrulanmış bir tasarımın sınıfa hiç ulaşıp ulaşmadığına karar verir; bu nedenle alanın kanıtı alışılmış olarak kurumların uyguladığının önünde gider. [[teacher-education]], bilginin bir öğretmen odaya girmeden önce inmek zorunda olduğu yerdir ve [[teacher-role]], ardından indiği yerdir — ne zaman müdahale edileceği, hangi aracın kullanılacağı ve bir öğrenenin ne zaman yalnız bırakılacağına ilişkin anda anda verilen yargıda. Üçü de öğrenme bilimi bulguları üretmez; üçü de o bulguların uygulamayı değiştirip değiştirmediğine karar verir.
-
-## Yaygın yanlış anlamalar
-
-- **“Yüksek bir ustalık eşiği, öğrenenin ayırt edebildiğini garanti eder.”** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ve Stamper (2026)]], [[intelligent-tutoring]] sistemleriyle **on bir deney (N = 192)** yürüttü ve **%95 ustalık eşiğinde sistemin, öğrenenler eylemin geri tutulmasını gerektiren bir vakayla karşılaşmadan önce pratiği durdurduğunu**, böylece kusurun saptanmadığını buldu. Eylemin ustalığı, onu ne zaman uygulamamak gerektiğini bilmeyi içermiyordu ve eşik yanlış yapıyı sertifikalandırdı.
-- **“Daha fazla örnek daha güvenlidir.”** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger ve Carvalho (2025)]], örnek–problem oranını bir **içerik–uygulama etkileşimi** olarak ele alır ve 2×2 bir deneyde optimumun **içeriğe bağlı** olduğunu buldu. Her yerde geçerli doğru bir oran yoktur, dolayısıyla sabit bir öğretim şablonu bir etkileşime karşı bir bahistir.
-- **“[[misconceptions|Yanlış anlamayı]] düzeltmek, öğrencilere doğru yanıtı söylemek meselesidir.”** Eksik kısıtı adlandıran [[feedback]] ile kısa süreli eyleme geçmeme pratiği, yanlış uygulamayı **%0,0-%23,1’e (Cohen’in h’si 1,70-2,44)** düşürdü ve **on üç K-12 *Decimal Point* veri kümesinin** ikincil bir analizi aynı yapısal örüntüyü buldu. Etkili müdahale, iddia yoluyla düzeltme değil, hedefli geri bildirimle ayırt edici pratiktir; [[refutation-text|çürütme]] çalışmasının genel olarak ortaya koyduğu da budur.
-- **“Daha yüksek Bloom düzeyi daha fazla [[active-learning|aktif öğrenme]] demektir.”** Öğrenme türü amaçlanan sonuç düzeyini izledi; **Kazanım, Bloom düzey 1’de etkinliklerin yaklaşık %50’sinden düzey 6’da yaklaşık %20’sine düştü**. Bilişsel talep ile etkinlik türü birlikte hareket eder ama aynı eksen değildir, bu nedenle bir görevi Bloom düzeyine göre etiketlemek, öğrenenlerin onunla ne yapacağını söylemez.
 
 ## Uygulama için çıkarımlar
 
@@ -100,3 +98,10 @@ Bulgular yalnızca öğretime ulaştıklarında önem kazanır ve bu yolculuk ü
 - Pratiği yalnızca doğruluk üzerinden durdurmayın. Geri tutma koşulunu kendi başına bir beceri olarak modelleyin, yoksa sistem aşırı genellemeyi sertifikalandırır.
 - Oranın sabit değil bir parametre olmasına izin verin, çünkü kanıt optimumun içeriğe bağlı olduğunu söyler.
 - Ölçütünüzün hangi yapıyı ölçtüğünü, doğrulamanızın hangi yapıyı ölçtüğünden ayrı olarak bildirin.
+
+## Yaygın yanlış anlamalar
+
+- **“Yüksek bir ustalık eşiği, öğrenenin ayırt edebildiğini garanti eder.”** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ve Stamper (2026)]], [[intelligent-tutoring]] sistemleriyle **on bir deney (N = 192)** yürüttü ve **%95 ustalık eşiğinde sistemin, öğrenenler eylemin geri tutulmasını gerektiren bir vakayla karşılaşmadan önce pratiği durdurduğunu**, böylece kusurun saptanmadığını buldu. Eylemin ustalığı, onu ne zaman uygulamamak gerektiğini bilmeyi içermiyordu ve eşik yanlış yapıyı sertifikalandırdı.
+- **“Daha fazla örnek daha güvenlidir.”** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger ve Carvalho (2025)]], örnek–problem oranını bir **içerik–uygulama etkileşimi** olarak ele alır ve 2×2 bir deneyde optimumun **içeriğe bağlı** olduğunu buldu. Her yerde geçerli doğru bir oran yoktur, dolayısıyla sabit bir öğretim şablonu bir etkileşime karşı bir bahistir.
+- **“[[misconceptions|Yanlış anlamayı]] düzeltmek, öğrencilere doğru yanıtı söylemek meselesidir.”** Eksik kısıtı adlandıran [[feedback]] ile kısa süreli eyleme geçmeme pratiği, yanlış uygulamayı **%0,0-%23,1’e (Cohen’in h’si 1,70-2,44)** düşürdü ve **on üç K-12 *Decimal Point* veri kümesinin** ikincil bir analizi aynı yapısal örüntüyü buldu. Etkili müdahale, iddia yoluyla düzeltme değil, hedefli geri bildirimle ayırt edici pratiktir; [[refutation-text|çürütme]] çalışmasının genel olarak ortaya koyduğu da budur.
+- **“Daha yüksek Bloom düzeyi daha fazla [[active-learning|aktif öğrenme]] demektir.”** Öğrenme türü amaçlanan sonuç düzeyini izledi; **Kazanım, Bloom düzey 1’de etkinliklerin yaklaşık %50’sinden düzey 6’da yaklaşık %20’sine düştü**. Bilişsel talep ile etkinlik türü birlikte hareket eder ama aynı eksen değildir, bu nedenle bir görevi Bloom düzeyine göre etiketlemek, öğrenenlerin onunla ne yapacağını söylemez.

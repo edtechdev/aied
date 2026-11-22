@@ -6,7 +6,7 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,8 +14,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
 connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -25,7 +31,7 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 ## Dikkate Alınması Gereken Sorular
 
 - Bir YZ bir öğrencinin cevabını puanlar ve kendinden emin görünen bir puan bildirir. Bu sayıya hangi gerekçeyle güvenirsiniz — ve modelin herhangi bir ölçüm standardına göre kalibre edilmediğini öğrendiğinizde cevabınız değişir mi?
-- Sayfa, ham model güvenini psikometrik kanıtın yerine koymaya karşı uyarıyor. Bir zamanlar inandığınız ve sonradan yanlış çıkan kendinden emin bir YZ çıktısını düşünün. Onun güvenini kazanılmamış yapan neydi ve bunun yerine "belirsizliğin farkında" bir çıktı nasıl görünürdü?
+- Ham model güveni psikometrik kanıtın yerine geçemez. Bir zamanlar inandığınız ve sonradan yanlış çıkan kendinden emin bir YZ çıktısını düşünün. Onun güvenini kazanılmamış yapan neydi ve bunun yerine "belirsizliğin farkında" bir çıktı nasıl görünürdü?
 - [[research-methods-aied|Araştırma]], aynı değerlendirme aracında insanlarla YZ (LLM) yanıt yapılarının ayrıştığını — yani modelin iyi puan almasına rağmen sınavın amaçladığından farklı bir şeyi ölçebileceğini — ortaya koydu. Bir YZ puanlayıcısı kullanan [[teacher-role|öğretmen]] olsanız, testin makine için sizin öğrencilerinizden farklı bir şey "ifade ettiğini" nasıl fark ederdiniz?
 - Madde güçlüğü tahmini, bir sorunun ne kadar zor olduğunu ölçmek için YZ (LLM) kullanır. Okumadan önce şunu düşünün: "bu soru ne kadar zor?" sorunun kendisiyle ilgili bir gerçek mi, yoksa onu yanıtlayan kişilerle (ya da modellerle) mi ilgilidir — ve bu belirsizlik sınavları kalibre etmek için YZ kullanımı için ne anlama gelir?
 - Kalibrasyon, güvenilirlik ve geçerlilik, kesin anlamlara sahip ölçüm kavramlarıdır. Bunların hangilerini kendi değerlendirme uygulamanızda gerçekten düşündünüz ve hangi noktalarda hiç kontrol edilmemiş bir YZ çıktısına güveniyor olabilirsiniz?
@@ -35,7 +41,7 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 
 YZ sistemleri giderek daha fazla yanıt puanladıkça, güçlüğü tahmin ettikçe ve [[feedback]] sundukça, temel bir risk, ölçüm ilkelerine göre doğrulanmamış, kendinden emin görünen çıktılar bildirmeleridir. Psikometrik bilinçli YZ bu durumu, YZ [[assessment]] çalışmalarını köklü psikometriye dayandırarak ele alır — çıktıları kalibre eder, belirsizliği nicelleştirir ve ham doğruluğa ya da [[self-report-measures|kendi bildirilen]] güvene güvenmek yerine [[assessment-validity]] ve [[educational-measurement]] standartlarını korur.
 
-### Psikometrik bilinçli YZ araştırmada nasıl görünür
+## Psikometrik bilinçli YZ araştırmada nasıl görünür
 
 - **Kalibrasyon ve güven:** [[automated-assessment|Confidence-aware assessment]] ve [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] çalışmaları, YZ’nin aşırı güvenli nokta tahminleri yerine anlamlı, belirsizliğin farkında puanlar bildirmesini sağlar.
 - **Model güveni tek başına yeterli değildir.** SciEntsBank üzerinde, sözel olarak ifade edilen, gizli (latent) ve tutarlılığa dayalı güvenin her biri doğru ile yanlış kısa cevapları ayırt edemedi; en iyi kalibrasyon, gömülü yanıtların küme içi entropisi olan veri kaynaklı aleatorik belirsizliğin — bir Random Forest artı Platt ölçeklemesi yoluyla — eklenmesiyle geldi ve bu, seçici otomatik puanlama ile [[human-in-the-loop-ai|insan incelemesini]] mümkün kıldı ([[cong-confidence-asag-2026|Cong ve ark. (2026)]]).
@@ -50,7 +56,7 @@ YZ sistemleri giderek daha fazla yanıt puanladıkça, güçlüğü tahmin ettik
 - **Sonuca bağlanmayı reddeden bir bel bağlama ölçeği.** Dört faktör (yansıtıcı, ihtiyatlı, düşüncesiz ve işbirlikçi kullanım) 800 yanıttan ortaya çıkmış ve farklı biçimde kurgulanmış bir görevde de ayakta kalmıştır (CFI = ,91); ölçek davranışı iyi ya da kötü diye etiketlemek yerine görev anı başına ölçer ([[genai-reliance-scale-problem-solving-2026|Hou ve ark. (2025)]]).
 - **Bir model, çoğunlukla tek bir etiketi yordarken kalibre görünebilir.** GPT-4o ve Gemini 2.0 Flash’tan 153 lisans öğrencisinin diyaloglarından öğrenme stili boyutlarını çıkarmalarını istemek orta düzeyde doğruluk üretmiş, ancak sınıf başına geri çağırma bunun baskın-etiket yordaması olduğunu göstermiştir: Sezgisel ve Küresel öğrenenler yetersiz tanımlanmış ve az-örnekli [[prompt-engineering|istek metni]] bazen yanlılığı ortadan kaldırmak yerine güçlendirmiştir ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi ve Robb (2026)]]).
 
-### Bağlantılar
+## Bağlantılar
 
 Psikometrik bilinçli YZ, [[educational-measurement]], [[assessment-validity]], [[item-response-theory]] ve [[automated-assessment|Confidence Aware AI Assessment]] kesişiminde yer alır. [[ai-ed-evaluation]] için (YZ değerlendirmesinin güvenilir olup olmadığı) merkezi öneme sahiptir ve [[llm]] tabanlı [[automated-assessment]] ile [[automated-assessment|Automated Grading]] çalışmalarına bağlanır. Geçerlilik vurgusu aynı zamanda [[ai-education|AIED]] araştırmalarının [[limitations-in-aied-research|ölçüm sınırlılıkları]] sorusunu da ele alır.
 

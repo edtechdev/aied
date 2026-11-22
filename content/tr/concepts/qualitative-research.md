@@ -6,7 +6,7 @@ research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,8 +14,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [research-methods-aied, mixed-methods-research, quantitative-research, theory-development-aied, ai-assisted-educational-research, educational-measurement, educational-nlp, ai-ed-evaluation, equity-in-ai-education, trust, agency, cognitive-offloading, self-report-measures]
 connected_articles: [chain-behind-claim-warrantability-2026, liu-tool-tutor-crutch-programming-2026, trio-ethnography-llm-programming-education, absent-cognitive-baseline-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, genai-teacher-feedback-comparison, hazra-safetutors-pedagogical-safety-2026, zha-ai-literacy-biology-case-study, becker-chatgpt-typology-physics-2026, scaffolding-critical-engagement-genai-minority-students, human-vs-llm-ordered-coding, agreement-not-quality-llm-coding-verification, same-ai-different-pathways, drummond-genai-business-schools-framework-2026, favero-critical-ai-tutors-empower-enslave-2025, genai-runaway-object-math-higher-ed, khlaif-assistive-genai-visually-impaired-2026, wu-efl-emotional-dynamics-genai-writing-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

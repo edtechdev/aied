@@ -1,7 +1,7 @@
 ---
 title: Yansıtma
 created: "2026-11-08T12:00:00-05:00"
-updated: "2026-11-08T12:00:00-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -14,13 +14,17 @@ page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
 translation_of: concepts/reflection
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
 connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
@@ -148,6 +152,7 @@ Yukarıdaki başarısızlık kiplerinin çoğunu atlatan bir başlangıç istemi
 - **Savunabileceğinizi puanlayın.** Özgüllük, bir kararın kanıtı, revizyon gerekçesi ve neyin yanlış gittiği konusunda dürüstlük puanlanabilir. İçtenlik puanlanamaz ve akıcı bir model bunların hepsinin yüzeyini taklit edebilir.
 - **Eseri devretmesi pahalı bir şeyle eşleştirin.** Kısa bir sözlü savunma, canlı bir revizyon ya da sonuçları olan bir karar — Prober sisteminin yansıtıcı kapısı ve Issa ile Hall'un üye başına doğrulama toplantıları iki işleyen kalıptır.
 - **Puanlamanın eyleme ne yaptığını izleyin.** Öz yansıtma puanlandığında gösterişe dönüşme riski taşır; bu yüzden yansıtmanın *ne için* değerlendirilmediğini belirtin ve en azından bir kısım yansıtmayı puansız tutun.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer ve Hunt (2026)]] bir dersi %60 ürün, %20 süreç belgelendirmesi ve %20 YZ kullanımı üzerine yansıtma olarak ağırlıklandırır; böylece yolculuk, varış yeriyle birlikte puanlanır.
 - **Bir puanı asla düşünmenin kanıtı saymayın.** Derinlik sınıflandırıcıları bir metnin ne kadar yansıtıcı okunduğunu tahmin eder; bu, akıcı bir ikinci taslağın üretebileceği bir özelliktir.
 
 ### Rutini sürdürmek

@@ -1,7 +1,10 @@
 ---
 title: "Uygulamada Gerçekten Değişim Yaratacak Akademik Personel Gelişimini Nasıl Tasarlarım?"
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
+connected_podcasts: [orchestrators-not-sages]
+connected_videos: [educators-ai-evolution]
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, teacher-ai-competency]
@@ -12,7 +15,7 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -23,6 +26,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 pedagogy: [tpack]
 ---

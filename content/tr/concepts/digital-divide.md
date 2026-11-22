@@ -1,13 +1,15 @@
 ---
 title: Dijital Uçurum
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T22:40:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
+connected_resources: [public-ai-libraries]
 translation_of: concepts/digital-divide
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -15,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -37,9 +43,7 @@ Dijital uçurum yaygın olarak **üç düzey** üzerinde işleyen bir olgu olara
 
 Uç çıkarım dönüşü, birinci düzey uçuruma bir donanım boyutu ekler. Özel öğretim sınavı bulutta değil tarayıcıda çalıştığında — WebLLM üzerinden [[browser-sized-agents-slm-webllm-tutor-2026|tarayıcıda yerleşik SLM özel öğretmenler]] — abonelik maliyeti engeli ortadan kalkar ama yerini bir yetkinlik engeli alır: tüketici dizüstü bilgisayarında aynı sistem deneme başına kabaca 180 saniye alırken uzak API için 10–58 saniye almış ve Chromebook sınıfı cihazlar bir 8B modelini hiç çalıştıramamıştır. Modern donanımı olan öğrenciler hızlı, kesintisiz üretim alır; eski cihazlardaki öğrenciler ise gecikme veya bellek tükenmesiyle yüzleşir; dolayısıyla yerel ve ucuz olan, varsayılan olarak eşitlikçi olanla aynı şey değildir.
 
-- **Bu uçurum internetinki kadar derin olmayabilir.** Her ülkenin 2025 üretken YZ kullanımını benzer toplam kullanıma sahip internet yılıyla eşleştiren çalışmada, eğitim uçurumu eşleştirilebilen 16 ülkenin 13’ünde daha küçük çıkmıştır ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
-
-### Dijital uçurum araştırmada nasıl görünür
+## Dijital uçurum araştırmada nasıl görünür
 
 - **Eşitlik mekanizması olarak YZ okuryazarlığı:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL çerçevesi]], eğitimin tüm aşamalarında eşit YZ okuryazarlığı için iskeleli, yaştan bağımsız bir yol sunarak açık biçimde ikinci ve üçüncü düzey uçurumları ele almak üzere tasarlanmıştır; YZ okuryazarlığının eşitlik ve katılımdan ayrılamaz olduğu savına dayanır.
 
@@ -53,8 +57,9 @@ Uç çıkarım dönüşü, birinci düzey uçuruma bir donanım boyutu ekler. Ö
 - **Kod değiştirme kendi dışlamasıdır.** [[llm|LLM]] ders araçlarının çoğu tek dilli İngilizce sesi ve güvenilir interneti varsayar; bu da İngilizce ile ana dili karışan sınıfları dışarıda bırakır. Hindistan’ın UDISE+ verileri okul internet erişimini yaklaşık %54, kentsel–kırsal farkı ise 24 puan olarak belirtir; iki dilli bir yardımcı ise cihaz üzerinde yazıya dönüştürme ve yerel öncelikli depolama ile yanıt verir ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 
 - **Kamusal dijital hizmetler uçurumu yeniden üretir.** Kenya’nın eCitizen e-devlet platformu ağırlıklı olarak İngilizce, sınırlı Svahili ve yalnızca metin arayüzlüdür; bu da düşük okuryazarlıklı, görme engelli ve kırsal gençleri dışlar. Dört geçim platformu (Ajira Digital, KRA iTax, HELB, YEDF) genelinde görüşmeler ve on bir kişilik bir yuvarlak masa, dil teknolojileri ile WCAG 2.1 temelli tasarımı kapsayıcılık kaldıraçları olarak işaret eder ([[amol-ai-egovernance-digital-inclusion-2026|Amol ve Wanzare (2026)]]).
+- **Yalnızca erişimi değil, kullanımı da ayrıntılandırın.** [[raut-ai-rural-education-india-2026|Raut'un bütünleyici derlemesi]], 14–16 yaş arası kırsal Hintli ergenler arasında erkeklerin %85,5'inin ve kızların %79,4'ünün bir akıllı telefonu kullanabildiğini söylediğini bildirir; dolayısıyla hanehalkı sahipliği, pratik kullanımdaki cinsiyet farkını hafife alır.
 
-### YZ uçurumları derinleştirir (ve kapatabilir)
+## YZ uçurumları derinleştirir (ve kapatabilir)
 
 YZ, teknolojinin eşitlik sonuçlarına yeni katmanlar ekler. Algoritmik önyargı marjinalleştirilmiş topluluklardan gelen öğrencileri orantısız biçimde etkileyebilir ve [[ai-literacy|YZ okuryazarlığı]] — YZ’nin önyargılarını ve risklerini anlama, eleştirel biçimde değerlendirme ve azaltma yetisi — YZ’nin boşlukları genişletip genişletmeyeceğinin kendisi açısından temel bir etkendir. [[research-methods-aied|Araştırmalar]], YZ okuryazarlığı daha yüksek olan eğitimcilerin önyargılı çıktıları belirlemede ve azaltmada daha etkili olduğunu göstermektedir. YZ çağında dijital uçurum bu nedenle salt teknik bir teminat sorunu değil, adalet ve katılım sorusudur: kim YZ’ye erişebilir, kim onu eleştirel biçimde kullanabilir ve kim yararlanır.
 
@@ -78,16 +83,12 @@ Okulda yapılandırılmış YZ eğitimi psikolojik bir katalizördür ama biliş
 
 - **Sanal sağlama, ekipman faturasından otomatik olarak kaçmaz.** STEM yükseköğretiminde 11 dijital ikiz çalışmasının bir [[meta-analysis-systematic-review|sistematik derlemesi]], dört çalışmada işlevsel bir iş istasyonu düğümü başına 2000–15.000 \$ donanım maliyeti, beş çalışmada ise fiziksel varlıkların eşzamanlı erişimi 1–3 öğrenciyle sınırlandırdığını bulmuş; dâhil edilen hiçbir çalışma bir yatırım getirisi analizi üretmemiştir ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez ve ark. (2026)]]). Derleme, bu giriş maliyetini 30.000 \$’dan 150.000 \$’yı aşan tutarlara kadar çıkan fiziksel karakterizasyon düzeneği maliyetleriyle [[benchmark|kıyaslar]].
 
-### İlgili kavramlarla bağlantılar
+- **Bu uçurum internetinki kadar derin olmayabilir.** Her ülkenin 2025 üretken YZ kullanımını benzer toplam kullanıma sahip internet yılıyla eşleştiren çalışmada, eğitim uçurumu eşleştirilebilen 16 ülkenin 13’ünde daha küçük çıkmıştır ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
+- **Erişimin içinde bir yetenek katmanı yatar.** Kendi cebinden aylık 20 \$ abonelik ödeyen öğretim görevlileri, kurumlara ait ödemeli hesaplarda olan meslektaşlarına kıyasla daha fazla hata ve kısıtlı işlevsellik bildirmiştir; bu, aracın erişilebilir olup olmadığından çok ne yapabileceğiyle ilgili bir uçurumdur ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
+
+## İlgili kavramlarla bağlantılar
 
 Dijital uçurum, [[equity-in-ai-education]] araştırmalarının temel bir kaygısıdır; yapısal engelleri ele almada merkezi bir mekanizma olarak konumlandırılan [[ai-literacy]] ile ve algoritmik önyargının marjinalleştirilmiş grupları orantısız biçimde etkilemesi nedeniyle [[ethics]] ile [[bias-mitigation]] ile yakından bağlantılıdır. Erişim ve yetkinlik boşluklarının görünür olduğu ortamlar olarak [[ai-education]] ve [[higher-ed]] ile bağlantı kurar ve YZ ile şekillenen öğrenmeye kimin anlamlı biçimde katılabileceğini belirlediği ölçüde [[student-experience]] ile ilişkilidir.
-
-## Yaygın yanlış anlamalar
-
-- **“Uçurum, araca erişimden ibarettir.”** Erişim ilk katmandır ve literatür onu aşmıştır. **İfade etme becerisi kendi başına ikinci düzey bir uçurumdur**: MedQA üzerinde doğruluk, istem gelişmişliğiyle **düşük okuryazarlıklı ifadede %82,4’ten uzman ifadesinde %83,4’e** yükselmiştir; bu, aynı erişime sahip iki öğrencinin aynı modelden farklı kalite aldığı anlamına gelir, çünkü biri nasıl soracağını bilmektedir. Bir istem yeniden yazma katmanı farkı daraltmıştır: uçurum yalnızca abonelikte değil, arayüzde ve kullanıcının akıcılığındadır.
-- **“Tarayıcıda çalışıyorsa kullanılabilir.”** Çoğu LLM ders aracı **tek dilli İngilizce ses ve güvenilir internet** varsayar; bu da tam olarak İngilizceyi bir ev diliyle karıştıran sınıfları dışarıda bırakır. Hindistan’ın UDISE+ verileri, okullardaki internet erişimini bu varsayımın gerektirdiği düzeyin çok altına yerleştirmiştir. Varsayılan bir altyapı üzerine kurulmuş bir araç, en güçlü ihtiyacı taşıyan ortamları sessizce dışlar.
-- **“Dijital okuryazarlık ile YZ kullanımı aynı aracı değişkendir.”** Hollanda’daki **4.497 altıncı sınıf öğrencisi** üzerinde yürütülen bir çalışma, geçmiş ve kişilik özelliklerini öğrenme kazanımlarına bağlayan **iki ayrı aracı yol** ayırmıştır: YZ kullanımı ve dijital okuryazarlık. Birbirlerinin yerine geçmezler ve birini yükselten müdahaleler otomatik olarak diğerini yükseltmez.
-- **“[[simulation|Simülasyonlar]] maliyet engelini ortadan kaldırır.”** STEM yükseköğretiminde **11 dijital ikiz çalışmasının** sistematik bir derlemesi, kurulum başına **2.000-15.000 \$** donanım maliyeti bulmuştur. Simüle edilmiş bir laboratuvar, kaçınmak için tasarlandığı ekipman faturasını yeniden üretebilir; bu nedenle sanal sağlamanın maliyet argümanı varsayılmak yerine sınanmalıdır.
 
 ## Uygulama için çıkarımlar
 
@@ -102,3 +103,9 @@ Dijital uçurum, [[equity-in-ai-education]] araştırmalarının temel bir kayg�
 - Cihaz dağıtımını uçurumu kapatmak olarak ele almayın. Ölçülebilir boşluklar ifade etme becerisinde, arayüz dilinde ve bağlantıdadır ve hiçbiri donanımla giderilmez.
 - Bir aracın varsaydığı altyapıyı yayımlayın. Açıkça belirtilen bir gereksinim, kaynakları kısıtlı bir ortamın yatırım yapmadan önce uygunluğu yargılamasını sağlar.
 - Yazılım lisansını değil, tam konuşlandırmayı maliyetlendirin. Dijital ikiz kanıtları donanım faturasının sanallaştırmadan sağ çıkabildiğini göstermektedir.
+## Yaygın yanlış anlamalar
+
+- **“Uçurum, araca erişimden ibarettir.”** Erişim ilk katmandır ve literatür onu aşmıştır. **İfade etme becerisi kendi başına ikinci düzey bir uçurumdur**: MedQA üzerinde doğruluk, istem gelişmişliğiyle **düşük okuryazarlıklı ifadede %82,4’ten uzman ifadesinde %83,4’e** yükselmiştir; bu, aynı erişime sahip iki öğrencinin aynı modelden farklı kalite aldığı anlamına gelir, çünkü biri nasıl soracağını bilmektedir. Bir istem yeniden yazma katmanı farkı daraltmıştır: uçurum yalnızca abonelikte değil, arayüzde ve kullanıcının akıcılığındadır.
+- **“Tarayıcıda çalışıyorsa kullanılabilir.”** Çoğu LLM ders aracı **tek dilli İngilizce ses ve güvenilir internet** varsayar; bu da tam olarak İngilizceyi bir ev diliyle karıştıran sınıfları dışarıda bırakır. Hindistan’ın UDISE+ verileri, okullardaki internet erişimini bu varsayımın gerektirdiği düzeyin çok altına yerleştirmiştir. Varsayılan bir altyapı üzerine kurulmuş bir araç, en güçlü ihtiyacı taşıyan ortamları sessizce dışlar.
+- **“Dijital okuryazarlık ile YZ kullanımı aynı aracı değişkendir.”** Hollanda’daki **4.497 altıncı sınıf öğrencisi** üzerinde yürütülen bir çalışma, geçmiş ve kişilik özelliklerini öğrenme kazanımlarına bağlayan **iki ayrı aracı yol** ayırmıştır: YZ kullanımı ve dijital okuryazarlık. Birbirlerinin yerine geçmezler ve birini yükselten müdahaleler otomatik olarak diğerini yükseltmez.
+- **“[[simulation|Simülasyonlar]] maliyet engelini ortadan kaldırır.”** STEM yükseköğretiminde **11 dijital ikiz çalışmasının** sistematik bir derlemesi, kurulum başına **2.000-15.000 \$** donanım maliyeti bulmuştur. Simüle edilmiş bir laboratuvar, kaçınmak için tasarlandığı ekipman faturasını yeniden üretebilir; bu nedenle sanal sağlamanın maliyet argümanı varsayılmak yerine sınanmalıdır.

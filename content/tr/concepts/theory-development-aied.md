@@ -1,6 +1,7 @@
 ---
 title: Eğitimde Yapay Zekada Teori Geliştirme
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -9,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,7 +18,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
@@ -27,11 +32,11 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 
 ## Düşünülmesi Gereken Sorular
 
-- “Eğitimde yapay zekaya bir teori uygulamaktan” sıkça söz ederiz, ama bu sayfa alanın gerçekten yeni teoriler icat edip etmediğini sorgular. Okumaya başlamadan önce: tanıdık bir çerçeve ([[behaviorism]] ya da yapılandırmacılık gibi) üretken YZ’yi kapsayacak biçimde gerildiğinde neyi doğru yakalayabilir, neyi sessizce çarpıtabilir?
+- “Eğitimde yapay zekaya bir teori uygulamaktan” sıkça söz ederiz, ama asıl soru alanın gerçekten yeni teoriler icat edip etmediğidir. Okumaya başlamadan önce: tanıdık bir çerçeve ([[behaviorism]] ya da yapılandırmacılık gibi) üretken YZ’yi kapsayacak biçimde gerildiğinde neyi doğru yakalayabilir, neyi sessizce çarpıtabilir?
 - YZ kullandığınız ve anlayışınızın arttığını hissettiğiniz — ya da tersini hissettiğiniz — bir anı düşünün. “Bir araçla öğrenme” ile “bir makineyle bilgi ortaklaşa inşa etme” arasındaki fark nedir? Bu çizgiyi nerede çizersiniz ve makinenin ortak etken olduğunu söylemek hiç anlamlı mı?
 - Birçok YZ eğitimi çalışması, teoriyi zayıf ya da hiç kullanmakla suçlanır. Bir YZ aracının “işe yaradığını” gösteren bir çalışma okusanız, bulguyu yalnızca bir etki büyüklüğünden çok kuramsal olarak anlamlı sayabilmeniz için size neden ve nasıl işe yaradığına dair ne anlatması gerekirdi?
 - Önerilen bir teori, YZ’ye doğal öğrencilerin, YZ performanslarını şişirdiği için kendi öğrenmelerini fazla tahmin ettiklerini ileri sürer. Yoğun YZ kullanımından sonra kendinizin ya da başkalarının, gerçekten gösteremeyeceklerinden daha yetkin hissettiğini fark ettiniz mi? Bunun gerçek bir olgu olduğuna — tek bir çalışmanın yapay ürünü olmadığına — dair en güçlü kanıt ne olurdu?
-- Sayfa, teoriyi (öğrenme mekanizmalarını açıklama) felsefeden (öğrenmenin ve zihnin temelde ne olduğunu sorgulama) ayırır. YZ hakkındaki düşüncenizde kendinizi ikisi arasında gezerken nerede bulursunuz — örneğin bir çerçevenin öğrenmeyi iyi açıklayıp açıklamadığını değil, öğrenmenin gerçekte ne olduğunu yakalayıp yakalamadığını sormak gibi?
+- Teori (öğrenme mekanizmalarını açıklama), felsefeden (öğrenmenin ve zihnin temelde ne olduğunu sorgulama) ayrıdır. YZ hakkındaki düşüncenizde kendinizi ikisi arasında gezerken nerede bulursunuz — örneğin bir çerçevenin öğrenmeyi iyi açıklayıp açıklamadığını değil, öğrenmenin gerçekte ne olduğunu yakalayıp yakalamadığını sormak gibi?
 - Yeni teoriler ortaya çıkıyor — üretkencilik, epistemik ortak-etkenlik, bilişsel umum mal. Bir okuyucu olarak, bunlardan birinin eski fikirlerin modası geçmiş bir yeniden etiketlenmesinden çok gerçek bir ilerleme olduğuna sizi ne ikna ederdi? YZ ile öğrenmenin iyi bir yeni teorisinin açıklayabilmesi gereken şey için kendi sınavınızı koyun.
 
 ## Giriş
@@ -51,14 +56,14 @@ Mevcut çerçeveleri uygulamak yerine YZ çağı için açıkça yeni teori yaza
 - **Bilişsel ortaklık döngüsü.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]], altı evreli yinelemeli bir model olan Bilişsel Ortaklık Döngüsünü önerir: İnsan Sorusu, YZ Genişletmesi, İnsan Yansıması, Bütünleştirme, Gözden Geçirme ve Yeni Soru. Model, öğrenmeyi istek metni inceliğinde değil öğrenenin bilişsel konumundaki değişimde konumlandırır ve aynı yinelemenin düşünmenin yerine geçtiği ya da onu çarpıttığı dört başarısızlık kipini adlandırır.
 
 Sentetik pozisyon, önerme ortaya koyan rakip bir girişim ekler: *sentetik terfi* ve *yetkisizlik* — yoğun biçimde seslendirilmiş ama sahipsiz bir benlik — adlarını verir ve bir yaşam kararı anlatısının okur tarafından atfedilen yazarlığı ile tutarlılığının ters yönlerde hareket ettiği bir çapraz etkileşim öngörür ([[synthetic-position-self-authorship-2026|Du ve ark. (2026)]]).
-- **Etkilcilik.** [[yan-agentivism-learning-theory-ai-2026|Yan ve Gašević (2026)]], Etkilcilik’i [[human-ai-collaboration|insan-YZ etkileşimi]] için orta-ölçekli bir öğrenme kuramı olarak önerir; öğrenmeyi YZ ile görevin başarıyla tamamlanmasından çok insan kapasitesindeki kalıcı büyüme olarak tanımlar ve dört mekanizma belirtir: devredilmiş etkenlik, epistemik izleme ve doğrulama, yeniden yapılandırıcı içselleştirme ve azaltılmış destek altında aktarım. Onu bu sayfadaki diğer girişimlerden ayıran şey yanlışlanabilirliktir: altı önerme ortaya koyar; bunlar arasında YZ’nin öğrenenin sorun çerçeveleme, ölçüt belirleme ve gerekçelendirme sorumluluğunu koruduğu durumlarda öğrenmenin, cevapları kendisinin sağladığı durumlara kıyasla daha güçlü olduğu; doğrulama zorunluluğunun gecikmiş performansı iyileştirmesi gerekirken, yeniden yapılandırma olmadan tekrarlanan düşük sürtünmeli devretmenin öğrenenlerin kendi yetkinliklerine ilişkin kalibrasyonunu zayıflatması gerekir.
+- **Etkilcilik.** [[yan-agentivism-learning-theory-ai-2026|Yan ve Gašević (2026)]], Etkilcilik’i [[human-ai-collaboration|insan-YZ etkileşimi]] için orta-ölçekli bir öğrenme kuramı olarak önerir; öğrenmeyi YZ ile görevin başarıyla tamamlanmasından çok insan kapasitesindeki kalıcı büyüme olarak tanımlar ve dört mekanizma belirtir: devredilmiş etkenlik, epistemik izleme ve doğrulama, yeniden yapılandırıcı içselleştirme ve azaltılmış destek altında aktarım. Onu diğer güncel girişimlerden ayıran şey yanlışlanabilirliktir: altı önerme ortaya koyar; bunlar arasında YZ’nin öğrenenin sorun çerçeveleme, ölçüt belirleme ve gerekçelendirme sorumluluğunu koruduğu durumlarda öğrenmenin, cevapları kendisinin sağladığı durumlara kıyasla daha güçlü olduğu; doğrulama zorunluluğunun gecikmiş performansı iyileştirmesi gerekirken, yeniden yapılandırma olmadan tekrarlanan düşük sürtünmeli devretmenin öğrenenlerin kendi yetkinliklerine ilişkin kalibrasyonunu zayıflatması gerekir.
 
 Öğretmen tarafı kuramsallaştırma da aynı sınanabilirlik bağlılığını yapar: Yetenek–Karar Modeli, [[tpack|YZ-TPACK]] yeteneğini tutum ve algılanan davranışsal denetimin yukarı akışına yerleştirir ve dört çürütme koşulu adlandırır — aracılık başarısızlığı, ayırt edici çöküş, yöneten sıfırlığı ve bağlam yedekliliği — ancak model sınanmamış durumdadır ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **Epistemik ortak-etkenlik.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Makinelerle Öğrenme]], öğrenenlerin ve üretken YZ sistemlerinin bilgiyi ve anlayışı birlikte nasıl ürettiğine dair kuramla beslenen bir model olan “epistemik ortak-etkenlik teorisine doğru” kurar.
 - **Eksik bilişsel taban (ACB).** [[absent-cognitive-baseline-2026|Eksik Bilişsel Taban]], YZ’ye doğal öğrencilerin akademik [[self-assessment|öz-değerlendirmesindeki]] yapısal boşluğu kuramsallaştırır — YZ performansı şişirdiğinde öğrencilerin öğrenmelerini neden fazla tahmin ettiğini açıklayan üç boyutlu bir çerçeve.
 - **Bilişsel umum mal.** [[cognitive-commons-ai-expertise-regeneration|Bilişsel umum mal ve uzmanlığın yenilenmesi]], rasyonel YZ benimseme kararlarının, mesleklerin yenilenme için gerektirdiği paylaşılan uzmanlık havuzunu nasıl tüketebileceğini açıklamak için ortak havuz kaynağı kuramından ve [[distributed-cognition|dağıtık bilişten]] yararlanır.
-- **Performans karşı öğrenme.** [[genai-performance-vs-learning|Performans karşı öğrenme]], YZ ile şişirilen görev performansı ile kalıcı öğrenme arasındaki keskin ayrışmayı kuramsallaştırır; bilgi tabanının [[learning-gains]] kanıtında yinelenen bir ayrım.
+- **Performans karşı öğrenme.** [[genai-performance-vs-learning|Performans karşı öğrenme]], YZ ile şişirilen görev performansı ile kalıcı öğrenme arasındaki keskin ayrışmayı kuramsallaştırır; [[learning-gains|öğrenme kazanımları]] kanıtlarında yinelenen bir ayrım.
 - **Epistemik [[ai-literacy|YZ okuryazarlığı]] (EAIL).** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Epistemik YZ Okuryazarlığı]], YZ okuryazarlığını, öğrencilerin üretken YZ ile ortaklaşa program yazdığında bilginin nasıl inşa edildiği ve gerekçelendirildiğine odaklanan, sürece yönelik bir epistemik yetkinlik olarak yeniden çerçeveler.
 - **Tri-Sistem Kuramı.** [[shaw-nave-cognitive-surrender-2026|Shaw ve Nave (2026)]], ikili süreç hesaplarını **Sistem 3** ile genişletir — Sistem 1 ile Sistem 2’yi destekleyebilen, yerini alabilen ya da baskılayabilen, YZ’den gelen dışsal, otomatikleşmiş, veri güdümlü akıl yürütme — ve karakteristik başarısızlığı olarak **[[cognitive-surrender|bilişsel teslimiyet]]**, yani YZ çıktısının eleştirel olmayan benimsenmesini adlandırır.
 - **Bilişsel vesayet.** [[credential-cognitive-stewardship-ai-assessment|Sertifika ve bilişsel vesayet]], YZ’nin her yerde bulunduğu değerlendirme bağlamlarında bilgiyi ve öğrenmeyi koruma [[governance|kurumsal]] sorumluluğunu kuramsallaştırır.
@@ -87,21 +92,15 @@ Sürtünme paradoksu, yerleşik teorinin bir başka uzantısını sunar: [[frict
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri ve Biagini (2026)]], Zawacki-Richter ve arkadaşlarının (2019) alanın işlevsel sınıflandırmasını ilerletir: uygulama işlevi sınıflandırılabilen 154 yayın içinde 90’ı (%58,4) bu sınıflandırmanın dört kategorisinin dışında kalmıştır ve çerçeveleri işlevi devredilmiş denetim, epistemik konum ve gömülü pedagoji ile kesiştirir.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai ve Flenady (2026)]], Honneth’un ve Brandom’un tanınma (recognition) kavramını geri bildirim teorisine taşıyarak, bir yorumun eyleme geçme nedeni olmasını bilgi kalitesinden çok karşılıklı konum atfetmesinin sağladığını savunuyor.
+
 ## AIEd’de teori kullanımı sorunu
 
 Alanın kuramsallaştırması eşit dağılmamıştır. [[limitations-in-aied-research|AIEd araştırmalarındaki sınırlılıklar]], AIEd çalışmalarının teoriyi sıkça zayıf ya da eleştirel olmadan kullandığını belgeler — tekrarlanabilirlik ve ölçüm açıklarıyla birlikte yinelenen bir yöntemsel zayıflık. İncelemeler, birçok AIEd yazısının teoriyi yüzeysel ya da hiç uygulamadığını bulur (örneğin müdahaleleri az sayıda çalışmanın öğrenme kuramına dayandırdığını not eden [[llm-critical-thinking-teamwork-review|literatür incelemeleri]]). Bu, teori *geliştirmeyi* — ve teori *kullanımını* — bilimsel bir üründen çok bir nitelik kaygısı yapar ve [[research-methods-aied|araştırma yöntemleri]] ile [[ai-ed-evaluation]] ile bağlantılıdır.
 
 ## Eğitimde yapay zeka felsefesiyle ilişkisi
 
-Teori geliştirme ile [[philosophy-of-ai-in-education|eğitimde yapay zeka felsefesi]], bilgi tabanının temel çalışmasının birbirini tamamlayan ama ayrı iki yaklaşımıdır. **Teori geliştirme**, üretkencilik, epistemik ortak-etkenlik ve eksik bilişsel taban gibi — öğrenenlerin ve YZ’nin nasıl etkileşime girdiğini açıklayan ve öngören — adlandırılmış teoriler ve çerçeveler biçiminde YZ ile öğrenmenin *mekanizmalarını* üretir ve ampirik olarak sınar. **Felsefe**, bu mekanizmaların dayandığı *ön varsayımları* sorgular: neyin bilgi sayıldığı, kimin bilen sayıldığı ve öğrenenin temelde ne olduğu. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemik ortak-etkenlik]] gibi bir teori bir mekanizma önerirken dağıtık biliş ve [[agency]] hakkında felsefi bağlılıkları örtük olarak benimser; felsefe bu bağlılıkları açık ve itiraz edilebilir kılar. Teori geliştirme bir çerçevenin öğrenmeyi iyi açıklayıp açıklamadığını sorduğu yerde, felsefe onun öğrenmenin ve zihnin gerçekte ne olduğunu yakalayıp yakalamadığını sorar — iki yaklaşım alanın en temel yazılarında buluşur ve bunlar çoğu zaman aynı anda ikisini de yapar.
-
-## Yaygın yanlış anlamalar
-
-**“Aracın işe yaradığına dair bir bulgu, kuramsal bir katkıdır.”** Değildir ve nedeni yapısaldır. Bir çerçevenin önermeleri *yapılandırmalar arasındaki farkları* öngördüğü yerde, yalnızca ortalama bir etki bildiren bir çalışma **bunları doğrulayamaz ya da çürütemez**; tasarım, teorinin söz konusu ettiği ayrımı göremez. Ortalama bir kazanım gösteren bir deneme, bir şeyin olduğunu söyler, hangi mekanizmanın ona yol açtığını değil; bu nedenle teori, öncesinde ne kadar desteklenmişse o kadar desteklenmiş olarak kalır.
-
-**“Yerleşik bir teoriyi YZ’ye uygulamak teori geliştirmedir.”** Sayfanın kendi teori kullanımı sorunu bunun tersini söyler: uygulama ilerleme değildir ve alanın yinelenen örüntüsü, sınanabilir öngörüler olarak değil söz dağarcığı olarak kullanılan ödünç alınmış yapılardır. Ayrım önemlidir, çünkü yanlışlanabilir bir fark üretemeyen ödünç bir çerçeve teori değil süslemedir.
-
-**“YZ’nin pedagojik işlevine ilişkin mevcut sınıflandırmalar bu sistemlerin yaptıklarının çoğunu zaten kapsar.”** Kapsamaz. Uygulama işlevi sınıflandırılabilen 154 yayın içinde **90’ı (%58,4) önceki çerçevenin dört kategorisinin dışında kaldı**; bu nedenle daha yeni çalışma işlevi devredilmiş denetim, epistemik konum ve gömülü pedagoji ile kesiştirir. Her beş vakadan yaklaşık üçünü yanlış sınıflandıran bir sınıflandırma alanın ortak söz dağarcığı olarak hizmet edemez ve bu boşluk bir makaledeki eksiklik değil, olgunun kendisine ilişkin bir bulgudur.
+Teori geliştirme ile [[philosophy-of-ai-in-education|eğitimde yapay zeka felsefesi]], birbirini tamamlayan ama ayrı iki yaklaşımıdır. **Teori geliştirme**, üretkencilik, epistemik ortak-etkenlik ve eksik bilişsel taban gibi — öğrenenlerin ve YZ’nin nasıl etkileşime girdiğini açıklayan ve öngören — adlandırılmış teoriler ve çerçeveler biçiminde YZ ile öğrenmenin *mekanizmalarını* üretir ve ampirik olarak sınar. **Felsefe**, bu mekanizmaların dayandığı *ön varsayımları* sorgular: neyin bilgi sayıldığı, kimin bilen sayıldığı ve öğrenenin temelde ne olduğu. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemik ortak-etkenlik]] gibi bir teori bir mekanizma önerirken dağıtık biliş ve [[agency]] hakkında felsefi bağlılıkları örtük olarak benimser; felsefe bu bağlılıkları açık ve itiraz edilebilir kılar. Teori geliştirme bir çerçevenin öğrenmeyi iyi açıklayıp açıklamadığını sorduğu yerde, felsefe onun öğrenmenin ve zihnin gerçekte ne olduğunu yakalayıp yakalamadığını sorar — iki yaklaşım alanın en temel yazılarında buluşur ve bunlar çoğu zaman aynı anda ikisini de yapar. Alanın eleştirmenlerinin bu teorilerin açtığı veya kapattığı yönler hakkında söyledikleri ayrı bir sorudur ve [[critiques-of-ai-in-education|YZ Eğitimine Yönelik Eleştiriler]] başlığı altında toplanmıştır.
 
 ## Uygulama için çıkarımlar
 
@@ -120,3 +119,11 @@ Teori geliştirme ile [[philosophy-of-ai-in-education|eğitimde yapay zeka felse
 
 - Kuramsal bir katkı amaçlanıyorsa yapılandırma karşıtlıkları için tasarım yapılmalıdır. Teori geliştirme olarak yayımlanan ortalama-etki denemesi, alanın en yaygın ve en az yararlı çıktısıdır.
 - Sunulan her çerçeveye açık yanlışlanabilir önermeler eklenmeli ve hangi yapılandırma farklarının bunları çürüteceği raporlanmalıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Aracın işe yaradığına dair bir bulgu, kuramsal bir katkıdır.”** Değildir ve nedeni yapısaldır. Bir çerçevenin önermeleri *yapılandırmalar arasındaki farkları* öngördüğü yerde, yalnızca ortalama bir etki bildiren bir çalışma **bunları doğrulayamaz ya da çürütemez**; tasarım, teorinin söz konusu ettiği ayrımı göremez. Ortalama bir kazanım gösteren bir deneme, bir şeyin olduğunu söyler, hangi mekanizmanın ona yol açtığını değil; bu nedenle teori, öncesinde ne kadar desteklenmişse o kadar desteklenmiş olarak kalır.
+
+**“Yerleşik bir teoriyi YZ’ye uygulamak teori geliştirmedir.”** Teori kullanımı sorunu bunun tersini söyler: uygulama ilerleme değildir ve alanın yinelenen örüntüsü, sınanabilir öngörüler olarak değil söz dağarcığı olarak kullanılan ödünç alınmış yapılardır. Ayrım önemlidir, çünkü yanlışlanabilir bir fark üretemeyen ödünç bir çerçeve teori değil süslemedir.
+
+**“YZ’nin pedagojik işlevine ilişkin mevcut sınıflandırmalar bu sistemlerin yaptıklarının çoğunu zaten kapsar.”** Kapsamaz. Uygulama işlevi sınıflandırılabilen 154 yayın içinde **90’ı (%58,4) önceki çerçevenin dört kategorisinin dışında kaldı**; bu nedenle daha yeni çalışma işlevi devredilmiş denetim, epistemik konum ve gömülü pedagoji ile kesiştirir. Her beş vakadan yaklaşık üçünü yanlış sınıflandıran bir sınıflandırma alanın ortak söz dağarcığı olarak hizmet edemez ve bu boşluk bir makaledeki eksiklik değil, olgunun kendisine ilişkin bir bulgudur.

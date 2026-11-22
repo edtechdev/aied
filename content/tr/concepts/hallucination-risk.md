@@ -1,6 +1,7 @@
 ---
 title: Halüsinasyon Riski
 created: "2026-10-14T21:50:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -10,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -41,11 +46,15 @@ Eğitim YZ’sinde halüsinasyon, bu bilgi tabanının makalelerinde belgelenen 
 
 125 çalışmalık bir inceleme, yaygınlık ve tespit boşluğuna bir aralık koyar: %10–40 halüsinasyon oranları, tıp öğrencilerinin YZ hatalarını yalnızca zamanın %44–55’inde tespit etmesiyle ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+Risk ayrıca dile bağlıdır: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite ve Sun (2026)]], hata tespitinin İngilizce için güçlü ancak Yunanca ve Çince için daha zayıf olduğunu, L2 yazma geri bildiriminde halüsinasyonlar ve yazar niyetinin yanlış okunmalarının görüldüğünü bulmuştur.
+
 **Çıktıdan sonra bellek çarpıtması.** 2026’da yürütülen bir deney, yanıltıcı bir YZ özetinin yalnızca yanlış bilgilendirmekle kalmadığını, 328 yetişkinin izledikleri bir video hakkında hatırladıklarını değiştirdiğini bulmuştur. Yanıltıcı özeti okuyanların yalnızca %44,8’i kritik ayrıntıyı sonradan doğru tanımlarken, tutarlı bir özet okuyanlarda bu oran %83,6’dır; etki, özet insan yazımı olarak etiketlendiğinde de sürmüştür ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger ve Kohno, 2026]]). Eşlik eden denetimde en sık hata eksiltmeydi: 20 özetin tamamı hata içeriyordu ve %95’i çarpışmanın kendisini atlamıştı. Çalışma öğrencilerle yapılmamıştır, ancak metinle biten bir halüsinasyon kontrolünün neden eksik olduğunu gösterir: hata, metin ortadan kalktıktan sonra da okuyucunun belleğinde sürebilir.
 
 **Değerlendirme halüsinasyonu** özellikle zararlıdır. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]**, bilişsel becerileri teşhis ederken LLM’lerin öğrenci el yazısında bulunmayan kanıt alıntıları uydurduğunu buldu; hatalı teşhislerin %58,5’i kanıtsal güvenin yanlış iddiasıyla birlikteydi. **[[llm-fallacy-misattribution]]**, [[llm]] muhakemesinde kanıtın sistematik aşırı atfedilmesini belgeledi — modeller var olmayan yerde kanıtsal destek iddia eder. İkisi de [[assessment-validity]] değerlendirme geçerliliğine ilişkin [[ai-ed-evaluation]] ve [[knowledge-tracing]] kaygılarına bağlanır. [[ivory-psychology-assessment-integrity-2026|Ivory ve ark. (2026)]], YZ çıktısı incelenmek yerine notlandırıldığında görülen iki hata kipi ekler: notlandırmadan geçen uydurma ayrıntılar — var olmayan, çözülemez bir DOI tamamlanmış bir incelenmiş makale ve kaynağın 329 dediği yerde 378 olarak bildirilen bir örneklem büyüklüğü — ve tek bir yanıt içinde kendi kendini çürütme, modelin doğru seçeneğe muhakeme yoluyla ulaşıp kapanış özetinde farklı bir seçenek bildirdiği yer. Referans listeleri şu anda doğruluktan ziyade biçimlendirme için notlandırıldığından, bu hata sınıfı, aynı aracı tekrar için kullanan öğrenciyi yanıltırken geçer notu alır.
 
 Bir değerlendirme tasarım pilotunda, [[authentic-assessments-generative-ai-pilot-2026|Paula ve ark. (2026)]], tekrarlanan istem çalışmalarından sağ çıkan ve önemli akademik revizyon gerektiren uydurma referanslar ve gerçekçi olmayan zaman tahminleri buldu — öğrenci çalışmasında değil, eğitimciye yönelik bir taslak aracında halüsinasyon.
+
+**Üretme ve yeniden biçimlendirme farklı başarısız olur.** Perovskite güneş pilleri üzerine IEEE tarzı bir referans listesi istendiğinde, ChatGPT yazarların çoğunlukla halüsinasyon veya yanlış atıf olarak bulduğu girişler döndürdü: yanlış baş harfler, yıl, cilt ve sayfa numaraları ile hiçbir iş yapmamış bir gruba atfedilen makul görünen bir makale ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra ve Gong, 2026]]). Zaten doğrulanmış bir referans kümesini APA biçimine dönüştürmesi istendiğinde ise aynı araç doğruydu ve önemli ölçüde zaman kazandırdı. Risk, bibliyografik işte değil kaynak bulmada yatar; bu, bir ödev rubriğinin ifade edebileceği bir çizgidir.
 
 **Stratejik [[misconceptions]]** yanlış kanılar, açık halüsinasyonun daha incelikli bir akrabasıdır. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević ve ark. (2026)]], yedi açık ağırlıklı modelden 35 temel bilgisayar bilimi kavramı için bir “[[socratic-method|Socratic]] Sokratik tuzak” üretmesini istedi — akıcı ve otoriter görünen ama ince, alana özgü bir hata üzerine oturan bir açıklama — ve üç alan uzmanı istenen 241 segmentin 221’ini (%91,7) stratejik yanlış kanı olarak doğruladı; BT alanları arasında anlamlı fark yoktu. Hatalar ağırlıklı olarak olgusal değil kavramsaldı (%66,5 karşı %33,5) ve hiçbiri salt mantıksal değildi; orta ila yüksek düzeyde ikna edici olarak derecelendirildiler (beş puanlı ölçekte M = 3,71), model kimliği varyansın %43’ünü açıklıyordu. Bireysel ifadeler doğru olabilecekken aralarındaki ilişki yanlış olduğundan, olgu denetimi yetersizdir; yazarlar [[ai-literacy|learners]] öğrenenlerin kavramsal doğrulama ve zihinsel model doğrulamasına ihtiyaç duyduğunu savunurlar. Ayrıca oranın, sıradan kullanımdaki bu tür hataların yaygınlığından ziyade düşmanca [[prompt-engineering|prompting]] istem çalışmaları altında bir yeteneği ölçtüğünü ve hiçbir öğrencinin test edilmediğini, dolayısıyla hiçbir aldatma veya öğrenme sonucunun ölçülmediğini uyarırlar.
 
@@ -60,6 +69,8 @@ Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: 
 **Etiketlenmiş güvenilmezlik bildirilen bağımlılığı düşürdü, artırmadı.** 546 katılımcı aynı GAI diyalogunu ya uydurma bilgi içeriyor ya da doğrulanmış olarak doğru etiketiyle okuduğunda, uydurma etiketi daha düşük [[trust]] güven ve algılanan denetlenebilirlik ile daha yüksek bilişsel uyumsuzluk ve hayal kırıklığı yanında *daha düşük* bağımlılık puanları üretti (M = 2,935 karşı 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu ve ark. (2026)]]). Sonuç, bu sayfanın aşırı güven mantığını nitelemektedir: bir çıktının uydurma olabileceğini görmek, ona yaslanmaya devam etmekle aynı şey değildir.
 
 **İnandırıcılık ipuçları bunun yerine boyun eğmeyi büyütebilir.** Güvenilmez bir çıktı süslenip sunulduğunda ters hareket ortaya çıkar: ARMADA tartışma arayüzüne atıf ve inandırıcılık sinyalleri eklemek, katılımcıların doğru bir başlangıç yargısından yanlış bir YZ konumuna geçme oranını %112 artırmış (%15,0’a karşı %31,8) ve elle denetim, atıf yapılan bazı vakaların ilgisiz ya da uydurma kaynaklara yanlış atfedildiğini bulmuştur ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo ve ark., 2026]]).
+
+Ayrı bir hata kipi kötü kurulmuş sorundur. [[bauyrzhan-genai-inorganic-chemistry-verification-2026|Üç sohbet botunu 42 inorganik kimya problemi üzerinde keşifsel bir ölçüt setine tabi tutan çalışmada]], her sohbet botu kusurlu ifadelere kendinden emin biçimde yanıt vermiş; kusuru işaretlemeden, açıklama istemeden ya da reddetmeden ve belirsizlik işaretleri sonuca ulaşmadan. Başarısızlık yanlış bir cevap değil, sessizce kabul edilmiş yanlış bir önermedir.
 
 ## Yaygın yanlış anlamalar
 

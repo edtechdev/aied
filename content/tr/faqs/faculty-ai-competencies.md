@@ -1,14 +1,14 @@
 ---
 title: "Akademisyenlerin YZ Konusunda Hangi Yetkinliklere İhtiyacı Var?"
 created: "2026-10-14T21:30:00-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 
@@ -42,7 +46,7 @@ ai_assist:
 
 ## Yetkinliği odayı ayırtmadan önce tanımlayın
 
-Bilgi tabanının [[ai-literacy|YZ Okuryazarlığı]] sentezi dört boyut belirliyor ve bunlar yararlı bir gündem oluşturuyor, çünkü her biri farklı türde bir oturum gerektiriyor:
+[[ai-literacy|YZ Okuryazarlığı]] sentezi dört boyut belirliyor ve bunlar yararlı bir gündem oluşturuyor, çünkü her biri farklı türde bir oturum gerektiriyor:
 
 - YZ'nin yetenekleri ve sınırlarına dair **temel anlayış**.
 - YZ araçlarını kullanmada **pratik yetkinlik**.

@@ -9,7 +9,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-11-02T09:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]
 connected_articles: [alsheikh-mapping-ai-integration-higher-education-2026, thermomix-genai-education-analogy-2026, rewriting-curriculum-genai-pedagogy-2026, crompton-faculty-technology-integration-standards-2026, elsayed-pedagogical-symbiosis-posthuman-learner, reclaiming-epistemic-agency-co-agency-2026, genai-use-changing-institutional-policy-physics-2026, jita-ai-mathematics-classrooms-inclusion-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -46,7 +52,7 @@ SAMR, öğrenme görevlerinin teknolojik dönüşümünün derinliğini betimler
 
 SAMR sıkça [[icap-framework|ICAP çerçevesi]] ile eşlenir, çünkü ikisi uyumludur: [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall & Panadero (2026)]]'in dört "yemekten öğrenmeye" senaryosu, ICAP [[student-engagement|katılım]] biçimlerini SAMR düzeylerine eşler — ICAP *Edilgen* ile SAMR *Yerine Koyma*, *Etkin* ile *Güçlendirme*, *Yapıcı* ile *Değiştirme* ve *Etkileşimli* ile *Yeniden Tanımlama* — edilgen devretmeden etkileşimli birlikte inşaya bir ilerlemeyi gösterir.
 
-## Bilgi tabanından kanıtlar
+## Araştırmadan kanıtlar
 
 - **Yükseköğretimde YZ tümleştirmesi büyük ölçüde kademeli, dönüştürücü değil.** [[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh ve ark. (2026)]], 959 kayıt arasından taranan 22 müdahale çalışmasının PRISMA sistematik derlemesinde, YZ tümleştirmesini SAMR modeliyle derecelendirdi ve çalışmaların çoğunun **Yerine Koyma veya Güçlendirme** düzeyinde kümleştiğini, daha azının Değiştirme’de olduğunu ve yalnızca birinin Yeniden Tanımlamaya yaklaştığını buldu. YZ tipik olarak müfredatları veya [[learning-gains|öğrenme çıktılarını]] yeniden kavramsallaştırmaktan ziyade mevcut uygulamayı iyileştirmek için getirildi — ağırlıklı olarak [[automated-assessment|değerlendirme otomasyonu]] ve [[personalized-learning|kişiselleştirilmiş öğrenme desteği]] tarafından domine edildi.
 - **SAMR, üretici YZ kaynaklı [[curriculum-design|müfredat]] değişimi için yaygın bir analitik mercektir.** [[rewriting-curriculum-genai-pedagogy-2026|Sabani ve ark. (2026)]], beş müfredat değişimini (statikten dinamik, aktarımdan yeteneğe, yerelden [[governance|kurumsal]]a) SAMR ve yapıcı hizalamayı içeren kurulmuş merceklere eşler; modeli, üretici YZ’nin müfredatı nasıl yeniden şekillendirdiğindeki [[pedagogy|pedagojik]] mekanizmaları açıklığa kavuşturmak için kullanır.
@@ -65,7 +71,7 @@ SAMR sıkça [[icap-framework|ICAP çerçevesi]] ile eşlenir, çünkü ikisi uy
 - **[[tpack|TPACK]]**, bir öğretmenin teknolojiyi etkin biçimde tümleştirmek için ihtiyaç duyduğu *bilgiyi* betimler — teknolojik, pedagojik ve içerik bilgisinin etkileşimi, YZ çağında YZ-TPACK/üretici YZ-TPACK’a genişletilmiş hâli.
 - **SAMR**, bir teknolojinin bir öğrenme görevini *ne kadar derinden* dönüştürdüğünü sınıflandırır, geliştirmeden yeniden tanımlamaya.
 
-SAMR, planlama ve değerlendirmede kullanılan bir tümleştirme derinliği merceği olarak en iyi anlaşılır; benimseme teorisini (yayılmayı açıklar) ve TPACK’ı (öğretmen yeteneğini açıklar) tümler. YZ çağında, en verimli biçimde, üretici YZ’nin mevcut görevleri geliştirmek için mi yoksa gerçekten yeni olanları mümkün kılmak için mi uygulandığını sormak için kullanılır — bilgi tabanının değerlendirme ve müfredat araştırması boyunca işleyen bir ayrım.
+SAMR, planlama ve değerlendirmede kullanılan bir tümleştirme derinliği merceği olarak en iyi anlaşılır; benimseme teorisini (yayılmayı açıklar) ve TPACK’ı (öğretmen yeteneğini açıklar) tümler. YZ çağında, en verimli biçimde, üretici YZ’nin mevcut görevleri geliştirmek için mi yoksa gerçekten yeni olanları mümkün kılmak için mi uygulandığını sormak için kullanılır — değerlendirme ve müfredat araştırması boyunca işleyen bir ayrım.
 
 ## Uygulama için çıkarımlar
 

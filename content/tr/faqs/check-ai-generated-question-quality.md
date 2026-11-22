@@ -24,7 +24,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Ders notlarınızdan yirmi soru istiyorsunuz. Yanıt anahtarları, açıklamalar, zorluk etiketleri ve Bloom taksonomisi kategorileriyle birlikte, bitmiş görünen biçimlendirilmiş bir belge olarak geri geliyorlar. Adınız birazdan onun üzerine gidecek.
+Ders notlarınızdan yirmi soru istiyorsunuz. Yanıt anahtarları, açıklamalar, zorluk etiketleri ve [[bloom-taxonomy|Bloom taksonomisi]] kategorileriyle birlikte, bitmiş görünen biçimlendirilmiş bir belge olarak geri geliyorlar. Adınız birazdan onun üzerine gidecek.
 
 Kısa yanıt: üretilen sorular adaylardır, bir değerlendirme değil. Her birini kendiniz çözün, maddenin öğrenciden gerçekte ne yapmasını istediğini kontrol edin ve saymaya başlamadan önce öğrencilerin ona nasıl yanıt verdiğini öğrenin. En büyük iki çalışmada ilginç sinyal, üretimin işe yaraması değil, nerede başarısız olduğudur. Derse özgü bir iş akışı içinde yinelemeli üretim, 71 üniversite sınıfında kullanılabilir çoktan seçmeli sınavlar üretti ([[assessing-quality-ai-generated-exams-field-2025|Isley ve ark., 2025]]). 311 dağıtılmış sorunun veri bilimi denetiminde, modelin zorluk etiketleri yanlarında ürettiği Bloom düzeylerini neredeyse kusursuz izledi (Spearman ρ = 0,90), öğrencilerin gerçekte ne puan aldığını ise ρ = 0,06 ile izledi ([[student-llm-use-ai-question-difficulty-data-science-2026|An ve Wang, 2026]]). Etiket, istemin bir tanımıydı; maddenin ölçümü değil.
 

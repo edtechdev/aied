@@ -1,6 +1,7 @@
 ---
 title: "Hukukî Sorunlar ve Riskler"
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -13,13 +14,17 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-10-28T18:24:42-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ai-detection, remote-proctoring, assessment-validity, privacy, regulation, governance, educational-policy-ai, ai-use-disclosure, accessibility, assistive-technology, neurodiversity, equity-in-ai-education, student-experience, hallucination-risk, reducing-ai-misuse]
 connected_articles: [munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, wright-transcription-not-generation-2026, harerimana-remote-proctoring-nursing-scoping-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, gutowski-hurley-genai-policy-legal-education-2025, qian-governing-genai-higher-ed-policy-2026, crompton-governing-genai-higher-ed-delphi-2026, sharma-judgment-visible-genai-assessment-2026, shin-ai-policies-sld-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026]

@@ -1,18 +1,23 @@
 ---
 title: Bağlamsal Öğrenme
 created: "2026-10-14T21:58:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-30T10:20:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
 connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
@@ -27,20 +32,20 @@ connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, va
 - Gerçekten iyi bildiğiniz bir şeyi — bir beceriyi, bir zanaatı, bir el sanatını — düşünün. Bunu çoğunlukla soyut öğretimden mi yoksa o işi yapan gerçek bir topluluğa katılmaktan mı öğrendiniz? Bu, bilginin aslında nerede yaşadığı konusunda ne ima eder?
 - Lave ve Wenger, acemilerin “meşru çevresel katılım” yoluyla öğrendiğini anlatır — bir uygulama topluluğunun kenarından başlayıp içe doğru ilerleyerek. Böyle bir yeni geleni nerede gözlemlediniz (ya da kendiniz öyle biri oldunuz) ve çevreden merkeze geçmesini ne sağladı?
 - Bilgi özgün bağlamlara “yerleşik” ise bu, öğrenmeyi bilerek gerçek dünya durumlarından ayıran geleneksel sınıf — ve bağlamdan soyutlanmış içerik sunmak üzere tasarlanmış YZ araçları — için ne anlama gelir?
-- Sayfa, bağlamsal öğrenmeyi YZ için bir tasarım merceği olarak ele alıyor. Uyarlanabilir bir sistem ya da benzetim, öğrenmeyi özgün uygulamada nasıl temellendirebilir, onu bağlamından çekip çıkarmak yerine?
+- Uyarlanabilir bir sistem ya da benzetim, öğrenmeyi özgün uygulamada nasıl temellendirebilir, onu bağlamından çekip çıkarmak yerine?
 - [[research-methods-aied|Araştırma]], YZ kaynaklı öğrenmenin gerçek bağlamlara yerleştirilmesinin önündeki engeller olarak neleri gösteriyor ve bunlardan hangilerini kendi kurumunuzda gördünüz?
 
 ## Giriş
 
-Bağlamsal öğrenme, bilgi tabanının [[learning-theories]] akışı içindeki etkinlik ve bağlam kuramlarından biridir. Vygotskycu temaları sosyal inşayı üzerine alır, ancak “yapma” ile “öğrenme”nin sıkı bütünleşmesine ve uygulama topluluklarının önemine güçlü bir vurgu ekler. Bir eğitim duruşu olarak, kendi gerçekliğine ilişkin becerilerin edinilmesi ve bilginin özümsenmesi için kilit bir öğe olarak öğrencinin [[sociocultural-learning|sitososyokültürel]] bağlamını öne çıkararak geleneksel, standartlaştırılmış okulla yüzleşir.
+Bağlamsal öğrenme, [[learning-theories|öğrenme kuramları]] içindeki etkinlik ve bağlam kuramlarından biridir. Vygotskycu temaları sosyal inşayı üzerine alır, ancak “yapma” ile “öğrenme”nin sıkı bütünleşmesine ve uygulama topluluklarının önemine güçlü bir vurgu ekler. Bir eğitim duruşu olarak, kendi gerçekliğine ilişkin becerilerin edinilmesi ve bilginin özümsenmesi için kilit bir öğe olarak öğrencinin [[sociocultural-learning|sitososyokültürel]] bağlamını öne çıkararak geleneksel, standartlaştırılmış okulla yüzleşir.
 
 Eğitimde YZ literatüründe bağlamsal öğrenme, [[ai-education|eğitimde YZ]] için bir tasarım merceği sağladığı için önemlidir: [[adaptive-learning|uyarlanabilir sistemler]], özgün senaryolarda [[intelligent-tutoring|YZ mentorluğu]] ve [[virtual-and-augmented-reality|sürükleyici]] [[simulation|benzetimler]], YZ kaynaklı eğitimi gerçek dünya bağlamlarına temellendirebilir; karşılığında bağlamsal öğrenme, YZ’ye özgün uygulamada ve karmaşıklıkta anlamlı bir çapa sunar. İkisi yaygın biçimde birbirini tamamlayıcı olarak ele alınır ve insan rehberliği [[ethics|etik]] temellendirme için gerekli olmaya devam eder.
 
 - **Materyalin kendisini bağlamsallaştırmak da bir bağlamsal öğrenme hamlesidir.** DagFlow-AI, öğrencinin kendi belirttiği ilgi alanı etrafında kurulmuş bir istatistik veri kümesi üretir (bir vaka çalışması, bir öğrencinin iklim değişikliği ve sağlık kaygısını kullanmıştır) ve öğrenme hedefleri ile beceri düzeyini sabit tutar ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur ve ark., 2026]]). *Veriyi* öğrenene uyarlamak, açıklamayı uyarlamak yerine, uygulama bağlamını bağlamsallaştırılması gereken şey olarak ele alır. Yazarlar sınırı kabul eder: sentetik veri, veri toplama, ölçme veya çalışma tasarımını öğretemez; bu nedenle bağlam öğrenen için gerçektir, dünya için değil.
 
-### YZ için bir tasarım merceği olarak bağlamsal öğrenme
+## YZ için bir tasarım merceği olarak bağlamsal öğrenme
 
-Bilgi tabanının araştırması, bağlamsal öğrenmeyi yalnızca soyut bir kuram olarak değil, eğitimde YZ için somut bir tasarım ve değerlendirme çerçevesi olarak ele alır:
+Araştırma, bağlamsal öğrenmeyi yalnızca soyut bir kuram olarak değil, eğitimde YZ için somut bir tasarım ve değerlendirme çerçevesi olarak ele alır:
 
 - **Fırsatlar ve engeller.** Üç on yıla yayılan 60 makaleden oluşan bir PRISMA [[meta-analysis-systematic-review|sistematik derlemesi]], YZ’nin bağlamsal öğrenmeyi güçlendirebileceğini buluyor — öğrencilerin değişen ihtiyaçlarına göre uyarlanmış sistemler, özgün senaryolara yerleştirilmiş YZ mentorluğu, idari görevlerin otomasyonu ve veri kaynaklı öğretmen desteği yoluyla — oysa başlıca engeller geleneksel okulun tek yönlü pasif öğrenmesi, önceden tanımlanmış sonuçlara aşırı vurgu ve öğretmenlerin sınırlı bağlamsal bilgisidir. İnsan rehberliği etik temellendirme için gerekli olmaya devam eder. ([[vargas-situated-learning-ai-review-2024]])
 - **YZ, eğitimi gerçekliğe bağlayan bir katalizör olarak.** YZ, eğitimi gerçeklikle ve özgün bağlamlarla bağlayarak, gerçek dünya senaryolarına temellendirilmiş öğrenmeyi mümkün kılarak bağlamsal öğrenme için bir *katalizör* görevi görebilir. ([[vargas-ai-catalyst-situated-learning-2026]])

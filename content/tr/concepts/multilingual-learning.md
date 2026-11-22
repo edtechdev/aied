@@ -2,13 +2,14 @@
 connected_resources: [mglearn]
 title: Çok Dilli Öğrenme
 created: "2026-10-14T21:50:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -27,9 +32,9 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 ## Dikkate Alınması Gereken Sorular
 
 - Çoğu YZ modeli öncelikle İngilizce gibi yüksek kaynaklı dillerde eğitilir. Farklı bir dilde düşünüyor, çalışıyor ya da değerlendiriliyorsanız, araç İngilizce'de 'çalışıyor' gibi görünse bile bu sizi nasıl sistematik şekilde dezavantajlı konuma getirebilir?
-- Sayfa, YZ’de ele alınmayan tek dilli önyargının dijital uçurumu derinleştirdiğini ve eşitliği, özellikle Küresel Güney genelinde zarara uğrattığını uyarıyor. Gerçek eşitlik, YZ içeriğini başka bir dile basitçe çevirmenin ötesinde neyi gerektirir?
+- Gerçek eşitlik, YZ içeriğini başka bir dile basitçe çevirmenin ötesinde neyi gerektirir?
 - Otomatik değerlendirme dil önyargısı sergileyebilir, hatta aynı akıl yürütme için bile ana dili konuşan olmayanları cezalandırarak. YZ puanlama uyguluyor olsaydınız, yalnızca tek bir dilde doğru olması yerine diller arasında adil olduğundan emin olmak için neyi denetlerdiniz?
-- Sayfa, düşük kaynaklı dillerin pratik donanım sınırları altında bile derlenmiş külliyatlarda [[llm-training-and-fine-tuning|ince ayar]] yapılarak hizmet görebileceğini gösterir. Verimlilik ile modelin düşük kaynaklı bir dili ne kadar sadakatle ele alması arasında hangi ödünleşimleri beklersiniz?
+- Düşük kaynaklı diller, pratik donanım sınırları altında bile derlenmiş külliyatlarda [[llm-training-and-fine-tuning|ince ayar]] yapılarak hizmet görilebilir. Verimlilik ile modelin düşük kaynaklı bir dili ne kadar sadakatle ele alması arasında hangi ödünleşimleri beklersiniz?
 - Çok dilli YZ, kültürel olarak ilgili pedagojiyi yansıtacak şekilde çevirinin ötesine geçmelidir — dilsel *ve* bağlamsal olarak uygun içerik. Kusursuz çevrilmiş içerik, yerel bağlamı ve kültürü göz ardı ederse bir öğrenci için nasıl başarısız olabilir?
 
 ## Giriş
@@ -52,6 +57,10 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 Diller arası geçiş (translanguaging), üretken [[conversational-ai|sohbet robotlarının]] eklediği ve önceki dil araçlarının sahip olmadığı bir olanaktır. 24 çalışma üzerine bir [[meta-analysis-systematic-review|sistematik derlemede]] öğrenenler, hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar istedi; derleyiciler bu kullanımı yeniden paketlenmiş değil yeni bir alt olanak olarak sınıflandırır ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
 
+Araç kullanımına geçmenin dil maliyeti ölçülebilir: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari vd. (2026)]], İngilizce öğrenenlerin iskelemeli bir ajan oluşturma eğitiminde ana dili konuşanlara göre anlamlı biçimde daha uzun sürdüğünü, açık uçlu tasarım görevinde ise fark olmadığını buldu.
+
+İngilizce, günde dört dilin kullanıldığı yerlerde bile egemenliğini koruyor. Curaçao ve Aruba’daki 42 öğrenci arasında iki üçte biri YZ için tercih ettikleri dil olarak İngilizce’yi adadı; yalnızca GPT oturumları, konuşma yerel bir konuya döndükçe Papiamentu’ya kaydı ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush vd. (2026)]]).
+
 ## Değerlendirme önyargısı
 
 Çok dilli kaygılar [[automated-assessment|otomatik değerlendirmeyi]] de etkiler: [[ai-scoring-language-bias-physics|YZ puanlaması dil önyargısı sergileyebilir]] (örneğin [[physics-education|fizikte]]), ana dili konuşan olmayanları cezalandırarak. Değerlendirme araçlarının diller arasında adil olmasını sağlamak [[assessment-validity]] bir parçasıdır.
@@ -65,6 +74,7 @@ YZ tabanlı karşılaştırmalı yargı, önyargının modelden çok insan temel
 - **Kültürü ve bağlamı yansıtın, yalnızca çeviriyi değil.** Çok dilli YZ, [[culturally-relevant-pedagogy|kültürel olarak ilgili pedagojiye]] götüren şekilde çevirinin ötesine geçmelidir — dilsel ve bağlamsal olarak uygun içerik üretmelidir ([[llm-cultural-relevance-k12|K-12 kültürel ilgisi]]).
 - **YZ’yi çok dilli destek yapılarıyla eşleyin.** Metin tabanlı YZ’nin başarısız olduğu yerlerde ses öncelikli ve sözlü kipleri kullanın ([[kutti-ai-voice-first-learning-companion|ses öncelikli arkadaşlar]]) ve iki dilli bağlamlarda [[self-regulated-learning|öz-düzenlemeyi]] destekleyin ([[bilingual-llm-lecture-companion-srl-2026|iki dilli ders arkadaşı]]).
 - **Dijital uçurumu izleyin.** YZ’deki tek dilli önyargı, [[digital-divide]] derinleştirir ve [[global-south]] genelinde erişimi zarara uğratır — araç seçimiyle birlikte eşitlikçi altyapı ve erişim için plan yapın.
+- **Uyarlama işi öğretmene düşer.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding ve Liu (2026)]], İngilizce dışındaki dilleri öğreten üniversite öğretmenlerinin istemleri uyarladığını, modelin dilini düzelttiğini, içeriği kültürel olarak yeniden bağlamsallaştırdığını ve rutin olarak araç değiştirdiğini buldu. Bu iş, zayıf dijital yetkinlikten değil dilsel hiyerarşiden dayatılır ve yalnızca aracın kullanılıp kullanılmadığını sayan benimseme istatistiklerinde görünmez.
 
 ## Yaygın yanlış anlamalar
 

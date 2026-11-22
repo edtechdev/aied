@@ -1,18 +1,23 @@
 ---
 title: Bilişsel Psikoloji
 created: "2026-10-14T21:34:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
 connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
@@ -77,6 +82,8 @@ Mayer’ın Multimedya Öğrenmesinin Bilişsel Kuramı (CTML), aynı çalışma
 2. **Öğrenciyi temsil edin, yalnızca yanıt vermeyin.** Sistemin, akıcı ama körü körüne yanıt vermek yerine çıkarımsal bilgiye uyum sağlaması için YZ diyaloğuna yapılandırılmış [[student-modeling]] ve [[knowledge-tracing]] bağlayın.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **Çalışma belleği sınırlarına saygı gösterin.** YZ kullanıcı deneyimine Bilişsel Yük Kuramı’nı uygulayın: tüm bilişsel talebi en aza indirmek yerine, dışsal yükü (sürtünme, aşırı yüklenmiş arayüzler) azaltırken faydalı işlemeyi ([[desirable-difficulties|verimli mücadele]], geri çağırma pratiği) koruyun.
 4. **Üst bilişi kalibre edin.** Öğrenenlerin ne zaman yük dışarı aktaracağını seçmesini [[metacognition]] yönettiğinden, kalibrasyon öğretimi (birinin yardımsız gerçekten neler yapabileceğini bilmek), aşırı güven karşısında bilişselci bir yanıttır (bkz. [[cognitive-offloading]]).
+
+Gelişim ayrı bir sorudur: bu mekanizmalar sabit olarak ele alınırken, [[developmental-psychology|gelişim psikolojisi]] bunların yaşla nasıl değiştiğini ve bunun yaşa göre belirlenmiş YZ kullanımı için ne anlama geldiğini sorar.
 
 ## Yaygın yanlış anlamalar
 

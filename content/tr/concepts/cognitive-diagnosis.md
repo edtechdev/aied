@@ -6,7 +6,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,8 +14,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
 connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -67,13 +73,6 @@ Bilişsel tanılama, [[intelligent-tutoring]] mimarisinin kalbinde yer alır ve 
 
 Bilişsel tanılama, [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]] ve [[assessment]] ile bağlantılıdır. Bulguları [[intelligent-tutoring]] ve [[adaptive-learning]]yi besler ve LLM çağı çalışmaları onu, [[intelligent-tutoring|YZ Ders Sistemi]] içinde yanlış kanı belirlemeyle ilişkilendirir.
 
-## Yaygın yanlış anlamalar
-
-- **“Tanılama, modeller için çözülmüş bir yetenektir.”** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang ve ark., 2026)]] tanılayıcı muhakemeyi açık bir 4B/9B/27B ailesinde dört yetenekten biri olarak denetimli eğitti ve **bilgi durumu tanılaması dördü arasında en zayıfı olarak kaldı**. Tanılama, diğerlerini üreten eğitime direnen yetenektir.
-- **“Modeller öğrenci hatalarını simüle edebildiğine göre onları tanılayabilir.”** Darboğaz ters yöndedir. Modeller **dikkat dağıtıcı izlerin %95,2'sinde** bir çözüm inşa etti ve belirli bir Eedi yanlış kanısını **0,92 doğrulukla** benzetti, yine de onları sınırlayan hatayı benzetmek değil **doğru çözümü sağlamak** oldu. Makul bir yanlış yanıt üretmek, onu tanımaktan daha kolaydır.
-- **“Tanılama elle kurulmuş bir yanlış kanı kataloğu gerektirir.”** Doğru ve yanlış önermesel mantık biçimlendirmelerinin **6.106 çifti** üzerinde bir iş akışı, 5.156 çifti (%84,44) açıklayan **248 dönüşüm kümesi** keşfetti; referans kümenin elle seçilmiş hataları için bu sayı **4.370 (%71,57)** idi. Keşif, uzman küratörlüğüne eşit oldu ya da onu aştı ve modal mantığa aktarıldı; dolayısıyla katalog bir başlangıç noktasıdır, tavan değil.
-- **“Bir tanılama ancak bir yanlış kanı adlandırırsa yararlıdır.”** Bir öğrenenin hangi kurs sonuçlarına ulaştığını tanılamak, sonuçları bunun yerine bilgi kavramları olarak ele alır ve kavram ilişkilerini uzman onaylı benzeşim eşlemeleri yoluyla sağlar. Sonuç temelli programlar için bu, daha kaba olsa da daha eyleme dönük birimdir.
-
 ## Uygulama için çıkarımlar
 
 **Eğitmenler için**
@@ -87,3 +86,10 @@ Bilişsel tanılama, [[knowledge-tracing]], [[student-modeling]], [[educational-
 - Her iki yönü de ölçün: yanlış bir yanıtı tanımayı ve doğru olanı üretmeyi. %95,2'lik çözüm kurtarma oranı, üretimin kolay yarı olduğunu ve başarısızlık kipinin tanımada yattığını düşündürür.
 - Alan yapısı izin verdiğinde statik bir katalog yerine keşfi yeğleyin ve karşılaştırmanın okunabilir olması için kapsamı bir referans kümesine göre bildirin.
 - Tanılayıcı bir puanı, hangi yapıyı ölçtüğünü ve onu üreten sinyalden bağımsız olarak nasıl doğrulandığını belirtmeden yayımlamayın.
+
+## Yaygın yanlış anlamalar
+
+- **“Tanılama, modeller için çözülmüş bir yetenektir.”** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang ve ark., 2026)]] tanılayıcı muhakemeyi açık bir 4B/9B/27B ailesinde dört yetenekten biri olarak denetimli eğitti ve **bilgi durumu tanılaması dördü arasında en zayıfı olarak kaldı**. Tanılama, diğerlerini üreten eğitime direnen yetenektir.
+- **“Modeller öğrenci hatalarını simüle edebildiğine göre onları tanılayabilir.”** Darboğaz ters yöndedir. Modeller **dikkat dağıtıcı izlerin %95,2'sinde** bir çözüm inşa etti ve belirli bir Eedi yanlış kanısını **0,92 doğrulukla** benzetti, yine de onları sınırlayan hatayı benzetmek değil **doğru çözümü sağlamak** oldu. Makul bir yanlış yanıt üretmek, onu tanımaktan daha kolaydır.
+- **“Tanılama elle kurulmuş bir yanlış kanı kataloğu gerektirir.”** Doğru ve yanlış önermesel mantık biçimlendirmelerinin **6.106 çifti** üzerinde bir iş akışı, 5.156 çifti (%84,44) açıklayan **248 dönüşüm kümesi** keşfetti; referans kümenin elle seçilmiş hataları için bu sayı **4.370 (%71,57)** idi. Keşif, uzman küratörlüğüne eşit oldu ya da onu aştı ve modal mantığa aktarıldı; dolayısıyla katalog bir başlangıç noktasıdır, tavan değil.
+- **“Bir tanılama ancak bir yanlış kanı adlandırırsa yararlıdır.”** Bir öğrenenin hangi kurs sonuçlarına ulaştığını tanılamak, sonuçları bunun yerine bilgi kavramları olarak ele alır ve kavram ilişkilerini uzman onaylı benzeşim eşlemeleri yoluyla sağlar. Sonuç temelli programlar için bu, daha kaba olsa da daha eyleme dönük birimdir.

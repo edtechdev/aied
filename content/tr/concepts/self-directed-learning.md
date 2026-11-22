@@ -1,6 +1,7 @@
 ---
 title: Öz Yönlendirilmiş Öğrenme
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -9,13 +10,17 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [matt-pocock-skills]
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
 connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
@@ -28,7 +33,7 @@ connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoug
 ## Üzerinde düşünülmesi gereken sorular
 
 - Öz yönlendirilmiş öğrenme, kendi gereksinimlerinizi tanımlamak, hedefler belirlemek ve dışsal yapı sınırlı koşullarda sonuçları değerlendirmek anlamına gelir. Okumadan önce, kendi öğrenmenizi yönlendirmek konusunda gerçekten ne kadar rahatsınız — ve bir YZ aracı, fark etmeden bunu yapma yeteneğinizi hiç *daha da zayıflattı* mı?
-- Sayfa, SDL’yi hem umulan bir kazanım hem de bir kırılganlık olarak çerçeveliyor: üretken YZ’nin kolaylığı, SDL’nin gerektirdiği özerkliği ve özyeterliliği aşındırabiliyor. Size anında yanıt veren bir araç, sonrasında kendi öğrenmenizi yönlendirmeyi neden *daha da zorlaştırsın*?
+- SDL hem umulan bir kazanım hem de bir kırılganlıktır: üretken YZ’nin kolaylığı, SDL’nin gerektirdiği özerkliği ve özyeterliliği aşındırabiliyor. Size anında yanıt veren bir araç, sonrasında kendi öğrenmenizi yönlendirmeyi neden *daha da zorlaştırsın*?
 - Üretken YZ’nin düşünmeden kullanılması — çıktıları [[critical-thinking|critical evaluation]] yapmadan benimsemek — SDL’ye hem doğrudan hem de özyeterlilik ve motivasyonu aşındırarak zarar verdiği bulundu. Bir YZ yanıtını değerlendirmeden kabul ettiğiniz bir anı hatırlıyor musunuz? Varsa, bu size ne kadara mal oldu?
 - SDL ile öz düzenlemeli öğrenme (SRL) birbiriyle yakından ilişkili ama ayrıdır: SRL, öğrenmenin an içindeki [[regulation]]yle ilgilenir; SDL ise zaman içindeki üst düzey sorumluluğu kapsar. Kendi uygulamanızda ‘bu görevi yönetmek’ ile ‘kendi öğrenmemi yönlendirmek’ arasındaki sınırı nerede görüyorsunuz?
 - Düşünmeden YZ kullanımının verdiği zarar, bazı öğrencilerde motivasyona, bazılarında ise özyeterliliğe daha sert indi. Bu psikolojik kaynakların aşınması öğrenenler arasında eşit dağılmıyorsa, YZ kolaylığından en çok kimin zarar gördüğü konusunda hangi [[equity-in-ai-education|equity]] kaygısı ortaya çıkar?
@@ -40,12 +45,12 @@ connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoug
 
 ## Üretken YZ öz yönlendirilmiş öğrenmeyi nasıl yeniden şekillendiriyor
 
-Bilgi tabanının [[research-methods-aied|research]] kayıtları, üretken YZ–SDL ilişkisinin her iki yönünü de belgeler.
+Araştırma kayıtları, üretken YZ–SDL ilişkisinin her iki yönünü de belgeler.
 
 - **YZ, SDL’yi destekleyebilir.** [[ai-lifelong-learning-policy|AI and lifelong learning]] ve [[self-directed-growth-generative-ai-learning-analytics|self-directed growth with GenAI + learning analytics]], YZ araçlarının bağımsız soruşturmayı [[scaffolding|scaffold]], talep üzerine kaynak sağlayabildiğini ve öğrenen özerkliğini güçlendiren biçimde öğrenme yollarını kişiselleştirebildiğini göstermektedir. Üretken YZ’nin eğitimsel sonuçlarına ilişkin [[genai-educational-outcomes-meta-analysis|Meta-analytic evidence]] ve [[conversational-ai-informal-learning|conversational AI in informal learning]], YZ öğrenenin yönlendirdiği bir kaynak olarak kullanıldığında olumlu potansiyel olduğunu düşündürmektedir.
 - **Öğrenenler bir kahin değil, düşünen bir eş istiyor.** Görüşme yapılan yetişkin öğrenenler, YZ’nin yanıt vermek yerine yansıtmayı ve doğrulamayı teşvik etmesini, [[recommender-systems-and-learning-paths|öğrenme yolunu]] kendi ellerinde tutmalarını sağlamasını ve onu dikte etmemesini istiyordu ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
 
-- **Hedef seçimini devretmek, onu desteklemekle aynı şey değildir.** Sayfa, hedef belirlemeyi öğrenenin çekirdek eylemi olarak ele alır ve kıyaslama kanıtı modellerin bunu farklı yaptığını söyler. 175 insana karşı GPT-5, Claude Sonnet 4.5 ve Qwen3 32B, önceki hedefi denemelerin 0,93, 0,93 ve 0,94’ünde yeniden seçti; insanlarda bu oran 0,54 ± 0,18 idi. Hedef entropisi 0,12 ile 0,20 arasındaydı, insanlarda 1,67 ± 0,14; düşünce zinciri ve persona istemleri bu açığı kapatmadı. Sırada ne öğrenileceğini öneren bir sistem, temsil ettiği öğrenenden daha dar bir arama üretir ([[llm-goal-selection-self-directed-learning-2026|Molinaro ve ark., 2026]]).
+- **Hedef seçimini devretmek, onu desteklemekle aynı şey değildir.** Hedef belirlemek öğrenenin çekirdek eylemidir ve kıyaslama kanıtı modellerin bunu farklı yaptığını söyler. 175 insana karşı GPT-5, Claude Sonnet 4.5 ve Qwen3 32B, önceki hedefi denemelerin 0,93, 0,93 ve 0,94’ünde yeniden seçti; insanlarda bu oran 0,54 ± 0,18 idi. Hedef entropisi 0,12 ile 0,20 arasındaydı, insanlarda 1,67 ± 0,14; düşünce zinciri ve persona istemleri bu açığı kapatmadı. Sırada ne öğrenileceğini öneren bir sistem, temsil ettiği öğrenenden daha dar bir arama üretir ([[llm-goal-selection-self-directed-learning-2026|Molinaro ve ark., 2026]]).
 - **Düşünmeden kullanım SDL’yi zayıflatır.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]], üretken YZ’nin **düşünmeden kullanımının** — YZ çıktılarını eleştirel değerlendirmeden benimsemenin — lisans öğrencilerinin SDL’sine hem doğrudan hem de [[self-efficacy]] özyeterlilik ve [[motivation]] motivasyonunun aşınması yoluyla anlamlı biçimde zarar verdiğini göstermektedir (model SDL varyansının %75,3’ünü açıklıyordu; TUGA β = −0,42). Motivasyon üzerindeki olumsuz etki erkek öğrencilerde, özyeterlilik üzerindeki olumsuz etki kadın öğrencilerde daha güçlüydü. Bu durum, bilgi tabanında belgelenen daha geniş [[cognitive-offloading|over-reliance]] riskine bağlanmaktadır.
 
 - **Nüfus ölçeğinde yönlendirilmemiş kullanım.** 136 Alman ortaokulunda 4.062 öğrenci arasında, görev tamamlama ve öğrenme odaklı üretken YZ kullanımı bir okul yılı boyunca arttı (d = 0,35 ve 0,33); öğrencilerin yalnızca %5’i araçları hiç kullanmadı; daha düşük önceki başarı altı dersin tamamında daha fazla sonraki kullanımı yordadı, ancak kullanımın hiçbir biçimi sonraki başarıyı yordamadı ([[scherer-self-directed-genai-use-secondary-2026|Scherer ve ark. (2026)]]).
@@ -58,16 +63,6 @@ SDL, öğrenci kaynaklı yönlendirmeyi vurguladığından, onu korumaya yöneli
 ## Araştırmaya Dayalı Öğrenmede YZ ile Bilgi Çıkarımı İskelelemesi
 
 - **Araştırmaya dayalı öğrenmede iskele olarak bilgi çıkarımı.** An ve arkadaşları (2026), [[stem-education|STEM]] alanında lisans tez tamamlanmasını desteklemek için araştırma yayınlarını yapılandırılmış, izlenebilir veri kümelerine dönüştüren bir YZ destekli bilgi çıkarım sistemi tasarlar; bu sistem, düşük düzeyli veri işleme taleplerini azaltırken kanıt–iddia ilişkilerinin incelenmesini mümkün kılan bir **epistemik iskele** olarak konumlandırılır. 80 belge üzerinde 20 öğrencili bir [[mixed-methods-research|mixed-methods]] pilotunda öğrenenler hedeflenen parametrelerin %90’ından fazlasını çıkardı, [[self-report-measures|öz bildirimle]] bildirilen literatür taraması süresi ~%65 düştü ve etkili değişkenleri belirleme becerileri %50 arttı — bu durum, [[generative-ai|AI]]’nin bilişsel yükü düzenli özetlemeden ziyade üst düzey, öz yönlendirilmiş araştırma akıl yürütmesine doğru yeniden dengelediği fikrini desteklemektedir.
-
-## Yaygın yanlış anlamalar
-
-**“Öz yönlendirilmiş öğrenme ile öz düzenlemeli öğrenme aynı yapıdır.”** Farklı zaman ölçeklerinde işlerler: SRL öğrenmenin an içindeki düzenlenmesiyle ilgilenirken, SDL zaman içinde üst düzey sorumlulukla ilgilenir: neyin öğrenileceğini seçmek, hedefi belirlemek ve yönü aylar boyunca korumak. An an düzenlemeyi iyileştiren bir müdahale, öz yönlendirilmiş bir öğrenen üretmek zorunda değildir; ve bir öğrenci bir program boyunca öz yönlendirilmiş olurken tek bir oturum içinde zayıf düzenleme yapabilir.
-
-**“YZ yapı sağladığı için öz yönlendirilmiş öğrenmeyi kolaylaştırır.”** Becerinin icrasını ortadan kaldırabilir. [[genai-thoughtless-use-self-directed-learning-2026|Zhao ve Gu (2026)]], **GenAI’nin düşünmeden kullanımının (çıktıları eleştirel değerlendirme olmadan benimsemenin) SDL’yi anlamlı biçimde zayıflattığını** göstermektedir. Kişinin kendi öğrenmesini yönlendirmesi, GenAI’nin artık kendisi için verebileceği kararları vererek pratik edilir; dolayısıyla her zaman yön sağlayan bir asistan, yönü geliştirilmekte olan yetkinliğin yerine sağlar.
-
-**“YZ’yi kullanmamak, erişim eksikliğine işaret eder.”** Kullanmayan öğrenciler arasında belirtilen gerekçe çoğu zaman bir engel değil, olumlu bir eğitimsel seçimdir: işi kendileri yapmak istemek. Kullanmamayı bir eksiklik olarak okumak, [[student-experience]] kanıtında gerekçeli olan bir konumu yanlış betimler.
-
-**“Öz yönlendirme tek başına çalışmak demektir.”** Yönün sahipliğini üstlenmek demektir; bu, yoğun biçimde desteklenen bir ortamda da uygulanabilir. Ayırt edici özellik, yardımın mevcut olup olmadığı değil, hedefi kimin belirleyip ayarladığıdır.
 
 ## Uygulama için çıkarımlar
 
@@ -85,3 +80,13 @@ SDL, öğrenci kaynaklı yönlendirmeyi vurguladığından, onu korumaya yöneli
 **Araştırmacılar için**
 
 - Bir müdahalenin hangi yapıyı hedeflediğini raporlayın; SDL ve SRL çıktıları birbirinin yerine kullanılmamalıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Öz yönlendirilmiş öğrenme ile öz düzenlemeli öğrenme aynı yapıdır.”** Farklı zaman ölçeklerinde işlerler: SRL öğrenmenin an içindeki düzenlenmesiyle ilgilenirken, SDL zaman içinde üst düzey sorumlulukla ilgilenir: neyin öğrenileceğini seçmek, hedefi belirlemek ve yönü aylar boyunca korumak. An an düzenlemeyi iyileştiren bir müdahale, öz yönlendirilmiş bir öğrenen üretmek zorunda değildir; ve bir öğrenci bir program boyunca öz yönlendirilmiş olurken tek bir oturum içinde zayıf düzenleme yapabilir.
+
+**“YZ yapı sağladığı için öz yönlendirilmiş öğrenmeyi kolaylaştırır.”** Becerinin icrasını ortadan kaldırabilir. [[genai-thoughtless-use-self-directed-learning-2026|Zhao ve Gu (2026)]], **GenAI’nin düşünmeden kullanımının (çıktıları eleştirel değerlendirme olmadan benimsemenin) SDL’yi anlamlı biçimde zayıflattığını** göstermektedir. Kişinin kendi öğrenmesini yönlendirmesi, GenAI’nin artık kendisi için verebileceği kararları vererek pratik edilir; dolayısıyla her zaman yön sağlayan bir asistan, yönü geliştirilmekte olan yetkinliğin yerine sağlar.
+
+**“YZ’yi kullanmamak, erişim eksikliğine işaret eder.”** Kullanmayan öğrenciler arasında belirtilen gerekçe çoğu zaman bir engel değil, olumlu bir eğitimsel seçimdir: işi kendileri yapmak istemek. Kullanmamayı bir eksiklik olarak okumak, [[student-experience]] kanıtında gerekçeli olan bir konumu yanlış betimler.
+
+**“Öz yönlendirme tek başına çalışmak demektir.”** Yönün sahipliğini üstlenmek demektir; bu, yoğun biçimde desteklenen bir ortamda da uygulanabilir. Ayırt edici özellik, yardımın mevcut olup olmadığı değil, hedefi kimin belirleyip ayarladığıdır.

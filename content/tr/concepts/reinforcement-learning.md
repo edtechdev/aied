@@ -10,7 +10,7 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,8 +18,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
 connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -36,11 +42,11 @@ connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teachin
 
 ## Giriş
 
-### Pekiştirmeli öğrenme AIED’de nasıl işler
+## Pekiştirmeli öğrenme AIED’de nasıl işler
 
 Pekiştirmeli öğrenme (RL), istenen davranışı ödüllendirerek bir ajanı eğitir — ajan, deneme yanılma yoluyla birikimli ödülü en üst düzeye çıkaran bir politika öğrenir. [[ai-education|Eğitimde YZ’de]] RL, tek cevaplar değil karar dizileri yapmak zorunda olan öğretmen ajanlarını ve öğrenme arkadaşlarını eğitmek için kullanılır (hangi ipucu verilir, zorluk ne zaman artırılır, pratik nasıl hızlandırılır). Bu, uzun ufuklu pedagojik kararların önemli olduğu [[adaptive-learning]] ve [[intelligent-tutoring]] için RL’yi uygun hale getirir.
 
-### Bilgi tabanında belgelenen uygulamalar
+## Belgelenen uygulamalar
 
 - **Pedagojik olarak uyumlu RL.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]], cevap vermek yerine *yönlendiren* bir modeli eğitmek için bir RL-SFT-RL hattı kullanır ve ödülü pedagojik hedeflerle uyumlu hale getirir; [[special-r1-rl-special-education]], RL’yi [[special-education]] için öğretmen tasarımına uygular.
 - **Pedagojik öğretim takibi için RL, denetimli ince ayarı geride bırakıyor.** LearnLM’in eğitimi, tercih temelli RL’nin tek başına SFT’ye kıyasla belirgin biçimde daha etkili olduğunu bulmuştur; çünkü tercih yargıları, yalnızca öğretim etiketli denetimli verilerin kısmen karşıladığı, uzun konuşmalar boyunca bağlama bağlı ayrımları yakalar ([[learnlm-improving-gemini-learning|LearnLM Ekibi (2025)]]).
@@ -50,11 +56,11 @@ Pekiştirmeli öğrenme (RL), istenen davranışı ödüllendirerek bir ajanı e
 
 - **Uzun ufuklu, güvenlik ağırlıklı RL.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin ve ark., 2026)]]; eş zamanlı [[conversational-ai|diyalog sistemlerinin]] ≤12 dönümlük ufuklarının çok ötesinde, 60 dönümlük tam klinik görüşmeleri tek başına en iyilemektedir ve güvenlikle uyumlu bir ödülle çelişkili simüle edilmiş hastalara karşı eğitim, teşis doğruluğunu 7.0% arttırmış ve gözden kaçırılan kırmızı bayrak oranlarını yaklaşık üçte bir oranında düşürmüştür.
 
-### Alan boyunca kanıt
+## Alan boyunca kanıt
 
 [[meta-analysis-systematic-review|PRISMA standardına uygun]] bir [[riedmann-reinforcement-learning-education-review-2026|eğitimde RL’nin sistematik incelemesi (Riedmann, Schaper ve Lugrin, 2025)]] 89 çalışmayı (2000–2024) sentezlemiş ve [[adaptive-learning]] ile [[intelligent-tutoring|öğretmenlik]] uygulamalarında özellikle STEM alanında (özellikle [[math-education]]) yoğunlaşan keskin bir 2016 sonrası büyüme bulmuştur. Modelden bağımsız RL’nin (n = 72) hâkim olduğunu, Q-learning’in en yaygın algoritma olduğunu; yine de klasik RL’nin Derin RL’den daha tutarlı biçimde etkili olduğunu (anlamlı üstünlük gösteren makalelerin %61’ine karşılık %36’sı); uyumun içerik çizelgelemesine (n = 53) ve rehberliğe ilişkin mekanizmalara (n = 36) ayrıldığını ve RL’nin taban çizgilerini rehberlik üzerinde daha sık yendiğini; öğrenme kazancının — özellikle normalleştirilmiş öğrenme kazancının — en etkili ödül kaynağı olduğunu bildirir. İnceleme ayrıca, çalışmaların yarıdan fazlasının (n = 54) istatistiksel testten geçmediğini ve bu nedenle alanın büyümesinin yöntemsel titizliğini aştığını uyarır.
 
-### Bilgi tabanıyla bağlantı
+## AIED tasarımına bağlantı
 
 RL, ajanın tek bir doğru yanıt değil uzun vadeli öğrenmeyi en iyilemek zorunda olduğu modern [[agentic-ai]] ve [[intelligent-tutoring]] tasarımının çoğunu besler. [[llm-training-and-fine-tuning]] (eğitim yöntemi olarak RL), [[scaffolding]] (verimli çabayı koruyan ödül tasarımı) ve [[self-regulated-learning]] (öğrenenlerin kendi stratejilerini düzenlemelerine yardım eden ajanlar) ile bağlantılıdır. Ödül tasarımı eğitim değerlerini kodladığından, AIED’de RL araştırması [[pedagogical-safety]] ile ve [[equity-in-ai-education|eşitlikçi]] öğretmen davranışının eşitlik kaygılarıyla sıkı biçimde bağlantılıdır.
 

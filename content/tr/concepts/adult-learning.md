@@ -1,6 +1,7 @@
 ---
 title: Yetişkin Öğrenenler
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -10,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,18 +19,22 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
 connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Yetişkin öğrenme** — yetişkinleri eğitme teorisi ve uygulaması (andragogi) ile YZ araç ve teknolojilerinin yetişkin öğrenenlerin [[agency|özerkliğine]], önceki deneyimlerine ve gerçek dünya ile ilgisine destek olacak biçimde nasıl tasarlanabileceği. Bu bilgi tabanındaki 13 makalede incelenmiştir.
+> **Yetişkin öğrenme** — yetişkinleri eğitme teorisi ve uygulaması (andragogi) ile YZ araç ve teknolojilerinin yetişkin öğrenenlerin [[agency|özerkliğine]], önceki deneyimlerine ve gerçek dünya ile ilgisine destek olacak biçimde nasıl tasarlanabileceği. 13 makalede incelenmiştir.
 
 ## Dikkate Alınması Gereken Sorular
 
 - Yetişkin öğrenme teorisi, öğrenenlerin [[self-directed-learning|kendi kendine yönlendirildiğini]], yaşam deneyimlerinden yararlandığını ve gerçek dünyayla ilgili olmak isteyebileceğini varsayar. Ancak YZ bilişsel işin çoğunu üstleniyorsa, görünür bir yardım almadan bir görevi tamamlayan bir öğrenen, onu gerçekten kendi yönlendirdiğini kanıtlar mı? Emin olmanızı sağlayacak şey ne olurdu?
-- Bir araca karşı davranışsal bağımsızlık, artık öğrenenin öğrenmeyi yönlendirdiğini garanti etmez. Yetişkin öğrenenler için YZ tasarlıyor olsaydınız, sessiz devretme yerine gerçek öz yönelimliliği doğrulamak için neye bakardınız?
+- Yetişkin öğrenenler için YZ tasarlıyor olsaydınız, sessiz devretme yerine gerçek öz yönelimliliği doğrulamak için neye bakardınız?
 - Yetişkin YZ araçlarına ilişkin tasarım yönergeleri, yoğun yaşamlara uyumu — mobil dostu, çevrimdışı çalışabilir, gerçek sorunlara bağlı — vurgular. Bunlardan hangileri kendi öğrenmeniz için daha önemli ve bunları göz ardı eden bir araç öğrene ne kadara mal olur?
 - Yetişkin öğrenenler genellikle işte veya evde çalışır, bu nedenle çevrimiçi sunum baskındır — esneklik getirir ama aynı zamanda yükleri devretme ve dürüstlük soruları riskleri de getirir. YZ desteğinin kolaylığı, yoğun bir yetişkin için kalıcı öğrenme hedefiyle nasıl etkileşime girer?
 - Araştırma, tüm tasarım yönergelerini karşılayan tek bir yetişkin öğrenme YZ sistemi bulunmadığını ortaya koydu — ekosistemin tamamı gerekiyordu. Bu, tek bir aracın her öğrenenin ihtiyacını karşılamasını beklemek konusunda ne öneriyor?
@@ -37,7 +42,7 @@ connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-d
 
 ## Giriş
 
-Knowles'in andragojik modeline dayanan yetişkin öğrenme, öğrenenlerin kendi kendine yönlendirildiğini, yaşam deneyiminden yararlandığını, acil ve pratik hedeflerle motive olduğunu ve öğrenme gerçek dünya rolleriyle bağlandığında en çok fayda sağladığını varsayar. Bu varsayımlar YZ tasarımı için önemlidir, çünkü üreten YZ artık öğrenmenin hemen her aşamasına katılabilir — ihtiyaçları belirlemek, hedefler koymak, bilgiyi yorumlamak, çıktılar üretmek ve performansı değerlendirmek. YZ bilişsel işin bu kadar çoğunu üstlendiğinde, araçtan davranışsal bağımsızlık, öğrenenin öğrenmeyi gerçekten yönlendirdiğini garanti etmez. Bu bilgi tabanındaki araştırma, öz yönelimliliği buna göre varsayılan bir durumdan çok aktif bir tasarım hedefi olarak yeniden çerçeveler ve yetişkin öğrenme YZ'sini hedef sahipliği, devretme kontrolü ve bilişsel geri kazanılabilirlik gibi ölçütlere göre değerlendirir.
+Knowles'in andragojik modeline dayanan yetişkin öğrenme, öğrenenlerin kendi kendine yönlendirildiğini, yaşam deneyiminden yararlandığını, acil ve pratik hedeflerle motive olduğunu ve öğrenme gerçek dünya rolleriyle bağlandığında en çok fayda sağladığını varsayar. Bu varsayımlar YZ tasarımı için önemlidir, çünkü üreten YZ artık öğrenmenin hemen her aşamasına katılabilir — ihtiyaçları belirlemek, hedefler koymak, bilgiyi yorumlamak, çıktılar üretmek ve performansı değerlendirmek. YZ bilişsel işin bu kadar çoğunu üstlendiğinde, araçtan davranışsal bağımsızlık, öğrenenin öğrenmeyi gerçekten yönlendirdiğini garanti etmez. Araştırma, öz yönelimliliği buna göre varsayılan bir durumdan çok aktif bir tasarım hedefi olarak yeniden çerçeveler ve yetişkin öğrenme YZ'sini hedef sahipliği, devretme kontrolü ve bilişsel geri kazanılabilirlik gibi ölçütlere göre değerlendirir.
 
 ## Bağlı makalelerden elde edilen kanıtlar
 
@@ -49,7 +54,7 @@ Knowles'in andragojik modeline dayanan yetişkin öğrenme, öğrenenlerin kendi
 
 ## İlgili kavramlarla bağlantılar
 
-Yetişkin öğrenme, bu bilgi tabanındaki birkaç yakından bağlantılı kavramın kesişiminde yer alır. [[higher-ed]], yetişkin ve uzaktan öğrenmenin çoğunun gerçekleştiği kurumsal bağlamı sağlar, [[professional-training]] işgücü, [[lifelong-learning]] ise sürekli eğitim boyutunu kapsar. [[vocational-education|Mesleki eğitim ve öğrenim]], bir öğrenenden çok bir mesleği adlandıran komşudur: yetişkin öğrenme, öğrenenlerin herhangi bir bağlama getirdiklerini — öz yönelimlilik, önceki deneyim, acil pratik hedefler — tanımlarken MVEP, adlandırılmış bir zanaat veya teknik rol için başlangıç düzeyindeki, uygulamaya yakın hazırlığı, ekipmanla gösterilmiş yetkinlikle yargılanan ve andragojik eğilimlerden çok nitelik çerçeveleriyle çerçevelenen bir hazırlığı adlandırır. [[online-teaching-and-learning|Çevrimiçi öğretme ve öğrenme]], yetişkin öğrenenler için — genellikle işte veya evde çalışanlar — baskın sunum ortamıdır — bu nedenle olanakları (7/24 erişim, eşzamansız destek) ve riskleri ([[academic-integrity|dürüstlük]], [[cognitive-offloading|yük devretme]]) [[learning-design|öğrenme tasarımının]] merkezindedir. [[self-regulated-learning]] ve [[agency]], YZ'nin koruması gereken öğrenen kapasitelerini adlandırır ve [[cognitive-offloading]], YZ'nin bunları destekleyebileceği veya baltalayabileceği mekanizmayı yakalar. [[inclusive-learning]] ve [[equity-in-ai-education]], yetişkin YZ araçlarının eşitlik yükümlülüklerini çerçeveler, [[human-in-the-loop-ai]] insanları sorumlu tutan tasarım örüntüsünü adlandırır ve [[scaffolding]] bu tür araçların sağlaması gereken kademeli desteği tanımlar.
+Yetişkin öğrenme, birkaç yakından bağlantılı kavramın kesişiminde yer alır. [[higher-ed]], yetişkin ve uzaktan öğrenmenin çoğunun gerçekleştiği kurumsal bağlamı sağlar, [[professional-training]] işgücü, [[lifelong-learning]] ise sürekli eğitim boyutunu kapsar. [[vocational-education|Mesleki eğitim ve öğrenim]], bir öğrenenden çok bir mesleği adlandıran komşudur: yetişkin öğrenme, öğrenenlerin herhangi bir bağlama getirdiklerini — öz yönelimlilik, önceki deneyim, acil pratik hedefler — tanımlarken MVEP, adlandırılmış bir zanaat veya teknik rol için başlangıç düzeyindeki, uygulamaya yakın hazırlığı, ekipmanla gösterilmiş yetkinlikle yargılanan ve andragojik eğilimlerden çok nitelik çerçeveleriyle çerçevelenen bir hazırlığı adlandırır. [[online-teaching-and-learning|Çevrimiçi öğretme ve öğrenme]], yetişkin öğrenenler için — genellikle işte veya evde çalışanlar — baskın sunum ortamıdır — bu nedenle olanakları (7/24 erişim, eşzamansız destek) ve riskleri ([[academic-integrity|dürüstlük]], [[cognitive-offloading|yük devretme]]) [[learning-design|öğrenme tasarımının]] merkezindedir. [[self-regulated-learning]] ve [[agency]], YZ'nin koruması gereken öğrenen kapasitelerini adlandırır ve [[cognitive-offloading]], YZ'nin bunları destekleyebileceği veya baltalayabileceği mekanizmayı yakalar. [[inclusive-learning]] ve [[equity-in-ai-education]], yetişkin YZ araçlarının eşitlik yükümlülüklerini çerçeveler, [[human-in-the-loop-ai]] insanları sorumlu tutan tasarım örüntüsünü adlandırır ve [[scaffolding]] bu tür araçların sağlaması gereken kademeli desteği tanımlar.
 
 ## Yetişkin eğitimi eğitimcileri ve tasarımcıları için çıkarımlar
 

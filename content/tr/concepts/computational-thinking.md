@@ -1,6 +1,7 @@
 ---
 title: "Hesaplamalı Düşünme"
 created: "2026-10-14T21:35:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -8,13 +9,17 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
@@ -35,9 +40,9 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Giriş
 
-### Yapay zeka çağı sınıfında hesaplamalı düşünme
+## Yapay zeka çağı sınıfında hesaplamalı düşünme
 
-Bilgi tabanının bağlı makaleleri merkezi bir iddia üzerinde birleşir: hesaplamalı düşünme (Hesaplamalı Düşünme — CT), öğrencilerin yapay zeka ile eleştirel biçimde etkileşime girebilmesi için gereken kavramsal temeldir ve aynı zamanda iyi tasarlanmış yapay zeka destekli öğrenmeyle en doğrudan biçimde derinleşen beceridir. Aşağıda kanıtlar, bağlı makalelere dayanan dört tema altında toplanmıştır.
+Araştırmalar merkezi bir iddia üzerinde birleşir: hesaplamalı düşünme (Hesaplamalı Düşünme — CT), öğrencilerin yapay zeka ile eleştirel biçimde etkileşime girebilmesi için gereken kavramsal temeldir ve aynı zamanda iyi tasarlanmış yapay zeka destekli öğrenmeyle en doğrudan biçimde derinleşen beceridir. Aşağıda kanıtlar, bağlı makalelere dayanan dört tema altında toplanmıştır.
 
 - **YZ okuryazarlığının ve eleştirel etkileşimin temeli olarak CT.** Bazı çalışmalar, öğrencilerin yapay zeka çıktılarını yalnızca tüketmek yerine değerlendirmesini sağlayan şeyin CT olduğunu göstermektedir. [[chat-debugging-human-ai-collaboration-circuits|Sohbetle hata ayıklama araştırması]], lisans öğrencilerinin LLM yardımıyla analog devrelerde hata ayıkladığında sınırlayıcı etkenin araç değil, *temel kavramlardaki ve eleştirel düşünmedeki yetersizlikleri* olduğunu bulmuştur; çünkü öğrenciler yapay zeka önerilerini değerlendirmek için gereken çekirdek fikirleri edinmemiştir. [[llm-intervention-design-cs-review|LLM müdahale tasarımı üzerine bir derleme]] benzer biçimde, etkili müdahaleleri “araç hayal kırıklığından” ayıran şeyin [[cs-education]] alanının sözdizimi ustalığı yerine hesaplamalı düşünmeye yönelmesi olduğunu sonuçlandırır. [[early-childhood-elementary-ai-education|Erken çocukluk döneminde]] [[ai-play-framework-early-childhood-2026|AI-Play çerçevesi]], çocuklara “YZ parçalardan oluşan bir sistemdir” ve “YZ örneklerden öğrenir” öğretilerek elektrik gerektirmeyen, oyuna dayalı bir biçimde [[ai-literacy]] inşa eder — CT’nin gelişimsel olarak temelli ilk katmanı. Ve [[academic-league-of-ai-2026|bir YZ akademik ligi]], CT’yi [[project-based-learning]] yoluyla gerçek yurttaş YZ projelerine bağlar ve [[ai-literacy]] uygulamaya gömer. Birlikte bu çalışmalar, CT’nin YZ okuryazarlığının aktarılabilir bilişsel çekirdeği olduğunu düşündürmektedir.
 
@@ -53,7 +58,13 @@ Kalıcı yetkinlikler, uygulama otomasyonleştirildiğinde kayar: bir atölye ra
 
 - **Doğrulanmış bir ölçüt, CT’nin nerede en zor olduğunu gösterir.** Kanıt Merkezli Tasarım ile kurulan ve 461 YZ programlama öğrencisi üzerinde madde yanıt teorisiyle doğrulanan 34 maddelik bir hesaplamalı düşünme testi, zorluğu müfredat boyunca eşit dağılmak yerine veri gösterimi, mantıksal işleç sıralaması ve döngü yapılarında yoğunlaştırmıştır ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
 
-### Yapay zeka tüketicilerinden üreticilere, yaratıcılara ve tasarımcılara geçiş ve CT
+- Ölçüm seçimi kararı değiştirir: aynı yapıya ait 23 çiftin 13’ünde hesaplamalı ve eleştirel düşünme kayıtları uyuşmaz ya da karmaşık sonuçlara ulaşmıştır; dolayısıyla bir kendilik bildirimli CT anketi ile göreve dayalı bir ölçüt sıklıkla ayrı düşer ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan ve ark. (2026)]]).
+
+- Hesaplamalı düşünme aynı zamanda bir eğilim olarak da ölçülür: üç haftalık bir beşinci sınıf oyun çalışmasında, ayarlanmış kendilik bildirimli CT eğilimleri GenAI sınıfını lehine çevirmiş, 4,037’ye karşı 4,325 (p = ,046, kısmi eta-kare = ,052, n = 78). Algoritmik bilgi testi ise onları ayırt etmemiştir (80,7’ye karşı 74,9); yani eğilim ile bilgi ölçümleri farklı yapıları izlemiştir ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou ve ark., 2026]]).
+
+Alt beceri profilleri, ön-son tasarımın bildirdiği tek CT puanını karmaşıklaştırır. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij ve Khlaisang (2026)]], bilgisayar bilimi dışındaki 28 Tay lisans öğrencisini, beş adımlı bir [[design-thinking|tasarım düşüncesi]] döngüsünü düşük kodlu uygulama geliştirme ile eşleştiren sekiz haftalık üç saatlik oturumlara sokmuş ve proje çalışmasını üç puanlık bir rubrikle puanlamıştır. Ortalama hesaplamalı düşünme ilk oturumda 1,13’ten 1,80’a ve ardından 2,49’a yükselmiş; algoritmik düşünme 2,08 ile en güçlü dal olmuş ve 1,46’dan 1,93’e, 2,86’ya bir yörunge izlemiştir. Mantıksal düşünme ortalama 1,54’tür ve ilk iki oturum arasında pek hareket etmemiş, 1,04’ten 1,29’a, üçüncü oturumda 2,29’a ulaşmıştır — bu, bir bileşendeki kazanımın diğerlerinin onu izlediğini ima etmediğinin bir hatırlatmasıdır.
+
+## Yapay zeka tüketicilerinden üreticilere, yaratıcılara ve tasarımcılara geçiş ve CT
 
 Yapay zeka çağında CT için merkezi bir hedef, öğrencileri ve öğretmenleri yapay zeka çıktılarını *pasif tüketimden* yapay zeka ile ve yapay zeka için *yaratmaya, inşa etmeye ve tasarlamaya* doğru taşımaktır — CT’yi yaparak öğrenmeyle (constructionism) uyumlu kılan bir gündem. Bilgi tabanının bağlı makaleleri bu üretici/yaratıcı/tasarımcı dönüşünü giderek daha açık biçimde ortaya koymaktadır. [[ai-writes-code-student-writes-model-2026|Model yazarlığı araştırması]], üretken YZ ile öğrenerek inşa etmeyi ölçülebilir bir “model yazarlığı” süreci olarak yeniden çerçeveler; öğrenciler yapay zeka tarafından üretilmiş kodu ya da yanıtları yalnızca tüketmek yerine YZ modellerini yazar, hata ayıklar ve üzerinde yineleme yapar. [[code-to-learn-genai-artifact-construction-2026|CtL-GenAI çerçevesi]], bunu üretken YZ çağı için [[constructivist|yapıcılık]] olarak işlevselleştirir ve öğrencilerin YZ ile inşa ettiği yapıtları CT gelişiminin motoru olarak ele alır. [[computational-thinking-ai-agent-creation|YZ ajanı yaratımı yoluyla CT]], yapay zeka ajanlarını yalnızca kullanmak değil, tasarlamak yerine ayrıştırma, soyutlama ve algoritmik akıl yürütmeyi doğrudan çalıştırdığını gösterir.
 
@@ -63,11 +74,11 @@ Pratik sonuç, CT öğretiminin öğrenenlerin *YZ ile şeyler yapmasını* sağ
 
 Başkalarının modellerini yeniden kullanmak üretici duruşuna aittir: yayımlanmış bir YZ modelini uygulamak — seçmek, kurmak, çalıştırmak ve doğrulamak — öngörülen her arıza için bir geri dönüş rotasıyla öğrenilebilir, yapılandırılmış bir beceri olarak öğretilebilir; ve programlama geçmişi olmayan üç [[chemistry-education|kimya]] lisans öğrencisi dört ay içinde bir enzim–substrat tahmin modelinin çoğaltmasını yapıp modeli genişletmiştir ([[praise-non-programmer-ai-model-implementation-2026|Achterweust ve ark. (2026)]]).
 
-### Pratik rehberlik
+## Pratik rehberlik
 
 Eğitimciler için tutarlı mesaj, CT’nin pasif YZ kullanımı yerine *açık, iskeleyeli, gözlemlenebilir* etkileşimle geliştiğidir. Robotiği müfredata açık CT kavramı eşlemesiyle eşleştirin; LLM’leri [[simulation]], doğal dille kontrol ve CT gelişiminin ölçeklenebilir değerlendirmesi için kullanırken Sistem Düşünmesi gibi yapısal öğeler için insan yargısını saklayın; ve değerlendirmeleri ham üretim yerine YZ çıktısının değerlendirmesini ve teşhisini öne çıkaran biçimde yeniden tasarlayın. Ayar ne olursa olsun — erken çocuklukta elektrik gerektirmeyen oyun, ortaöğretimde [[stem-education]] dersinde robotlar ya da [[higher-ed]] düzeyinde Sanal Öğretmenler — etkinliği, öğrencilerin bitmiş çözümler almak yerine ayrıştırma, örüntü, soyutlama ve algoritma üzerine akıl yürütmek zorunda kalacağı biçimde yapılandırın.
 
-### İlgili kavramlarla bağlantılar
+## İlgili kavramlarla bağlantılar
 
 Hesaplamalı düşünme, [[ai-literacy]] ile [[critical-thinking]] altında yükselen paylaşılan bilişsel temeldir, [[cs-education]] ve [[k-12]] bilişim eğitiminin müfredatsal çekirdeğidir ve [[educational-robotics]], [[game-based-learning]] ile [[project-based-learning]] uygulamalarının en iyi tasarlandığında hizmet etmek için hedeflediği kavramsal amaçtır. Bu beceri, [[llm|büyük dil modelleri]] ve [[generative-ai]] iskeleleme araçları olarak kullanıldığında derinleşir ve öğrenci yanlış kanı sınıflandırmalarının ile CT duyarlı değerlendirmelerin ölçmeyi hedeflediği beceridir. Öğretmenler bunu [[teacher-education]] ve [[professional-training]] yoluyla geliştirir ve bu beceri [[physics-education]] ile genel olarak [[stem-education|STEM]] başta olmak üzere alanlar arasında aktarılır.
 

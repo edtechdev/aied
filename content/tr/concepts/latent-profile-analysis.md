@@ -5,7 +5,7 @@ type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -13,8 +13,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
 connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

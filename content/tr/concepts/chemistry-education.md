@@ -1,6 +1,7 @@
 ---
 title: Kimya Eğitimi
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -9,13 +10,17 @@ discipline: [chemistry education, stem education, teacher education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
 connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
@@ -27,11 +32,11 @@ connected_articles: [ai-science-chemistry-education-systematic-review-2025, unes
 
 ## Düşünülmesi Gereken Sorular
 
-- Kimya, soyut altmikroskobik kavramları, özelleşmiş sembolik gösterimi ve uygulamalı laboratuvar çalışmasını bir araya getirir. Okumadan önce: bu üç kendine özgü talept hangisinin YZ tarafından iyi karşılandığını düşünüyorsunuz, hangisiyle zorlanabilir — özellikle de sayfanın, LLM’lerin titiz [[quantitative-research|nicel]] ve uzamsal muhakeme görevlerinde başarısız olduğuna dair uyarısı göz önüne alındığında?
+- Kimya, soyut altmikroskobik kavramları, özelleşmiş sembolik gösterimi ve uygulamalı laboratuvar çalışmasını bir araya getirir. Okumadan önce: bu üç kendine özgü talept hangisinin YZ tarafından iyi karşılandığını düşünüyorsunuz, hangisiyle zorlanabilir — özellikle de kanıtların, LLM’lerin titiz [[quantitative-research|nicel]] ve uzamsal muhakeme görevlerinde başarısız olduğunu söylemesi göz önüne alındığında?
 - Bir araştırmada öğrenciler YZ ile laboratuvar el kitapları tasarlamış, bunları uygulamalı olarak hayata geçirmiş ve profesyonellerce doğrulanmalarını sağlamıştır; bu durum deneysel özgüveni ve eleştirel düşünme becerilerini önemli ölçüde artırırken, personelin rolini gösterimden rehberliğe doğru kaydırmıştır. “Deneysel tasarım için YZ”nin sıradan bir “YZ’ye cevap sorma” eyleminden farkını ne oluşturur?
 - Sistematik kanıtlar, LLM’lerin temel kimya terimlerini tanımlayabildiğini ancak titiz nicel görevlerde zayıf performans gösterdiğini, uzamsal muhakemede (NMR gibi) zorlandığını ve aşırı güven duyduğunu göstermektedir. Eğer bir YZ size zor bir kimya problemini güvenle yanlış yanıtlarsa, bunu nasıl tespit ederdiniz — ve bu tespit hangi beceriyi gerektirir?
 - Araştırmalar, YZ’ye başarı düzeyine göre farklı roller atanmasını önermektedir — düşük başarılı öğrenciler için Sabırlı bir eğitmen, orta düzey için Kişisel bir Koç ve yüksek başarılılar için Entelektüel bir Muhatap. Aynı YZ aracının farklı öğrenciler için farklı roller oynaması gerektiğini düşünmenizin nedeni nedir ve bu, insan eğitmenden ne bekler?
-- Sayfa, “epistemik kayma” konusunda uyarıda bulunur — opak algoritmalara duyulan güvenin bilimsel sorgulamayı nedensel anlayıştan ayırmasından söz eder. Eğer YZ bir deneysel sonucu tahmin ederse, bu tahmin ne zaman kimyayı anlamanıza yardımcı olur ve ne zaman anlayışın kendisini sessizce değiştirir?
+- “Epistemik kayma” bir risktir: opak algoritmalara duyulan güven, bilimsel sorgulamayı nedensel anlayıştan ayırabilir. Eğer YZ bir deneysel sonucu tahmin ederse, bu tahmin ne zaman kimyayı anlamanıza yardımcı olur ve ne zaman anlayışın kendisini sessizce değiştirir?
 
 ## Giriş
 
@@ -48,6 +53,8 @@ Kimya eğitimi, **soyut kavramsal içerik**, **özelleşmiş sembolik temsil** v
 **Teknik doğrululuk ve eleştirel YZ okuryazarlığı.** Sistematik kanıtlar, [[llm|LLM]]lerin temel kimya terimlerini tanımlayabildiğini ancak titiz nicel görevlerde zayıf performans gösterdiğini ve uzamsal muhakemede (ör. NMR) zorlandığını, aşırı güven duyduğunu ve gösterime duyarlılık gösterdiğini ortaya koymaktadır ([[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]; [[unesco-ai-guidelines-chemical-education-2026|UNESCO bakış açısı]] içindeki ChemBench/QCBench bulguları). Bu durum, YZ çıktısıyla **değerlendirici biçimde etkileşime geçmeyi** — çıktıyı sorgulamayı, doğrulamayı ve kimya ilkeleriyle çapraz kontrol etmeyi — merkezi bir öğrenme hedefi haline getirmekte olup [[ai-literacy]], [[critical-thinking]] ve [[reducing-ai-misuse]] kavramlarına bağlanmaktadır.
 
 **Etik, politika ve epistemik kayma.** [[unesco-ai-guidelines-chemical-education-2026|UNESCO-yönergeleri bakış açısı]], **epistemik kayma** — opak algoritmaların sorgulamayı nedensel anlayıştan koparma riski — konusunda uyarır ve içerik sunumundan **bilgi yaratımına**, eleştirel YZ-kimya okuryazarlığına, insan muhakemesini önceleyen değerlendirmeye ve küresel [[digital-divide|erişim açığının]] kapatılmasına yönelik bir geçiş çağrısında bulunur.
+
+**Duygusal geri bildirim, hedeflediği kaygıyı artırabilir.** Dokuzuncu sınıf laboratuvarlarında bir dönem boyunca yapılan YZ destekli duygusal geri bildirim, laboratuvar kaygısının artmasıyla (F = 4.60) ve başarı duygusunun sabit kalmasıyla eşzamanlı olmuş; buna karşılık öğretmenin yön verdiği sorgulama sınıfı gelişme göstermiştir (F = 7.92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu ve ark. (2026)]]).
 
 ### İlgili kavramlarla bağlantılar
 

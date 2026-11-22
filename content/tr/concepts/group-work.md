@@ -1,6 +1,7 @@
 ---
 title: Grup Çalışması
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -11,13 +12,17 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
@@ -39,19 +44,19 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-as
 
 ## Giriş
 
-Grup çalışması, [[higher-ed|higher education]] yükseköğretim ve [[professional-training|professional training]] mesleki eğitimde özgün bir yere sahiptir: işbirliği, iletişim ve paylaşılan sorumluluk kurma açısından değerlidir ve [[teacher-education|teacher education]] öğretmen eğitimi gibi mesleki odaklı programlarda pedagojik olarak merkezîdir. Ancak vaadi otomatik olarak gerçekleşmez. Hem öğretmenler hem öğrenciler etkili işbirliğinin önündeki engelleri bildirir ve notlandırılmış bir grup ürünü aynı anda iki farklı iddia taşır — grubun ne başardığına ve her bireyin ne öğrendiğine ilişkin. YZ ve özellikle [[generative-ai|generative AI]] üretici YZ, ikisine de baskı yapar: işin nasıl bölüneceğini, katkıların ne kadar kolay birleştirileceğini ve her üyenin düşüncesinin bir aracın çıktısından ne kadar kolay ayrılabileceğini değiştirir. Bilgi tabanının işbirliğine dayalı öğrenme araştırmalarının büyük bir bölümü grup çalışmasına ilişkindir ve bu sayfa tek bir çalışmadan ziyade bunun çeşitli izleklerinden yararlanır.
+Grup çalışması, [[higher-ed|higher education]] yükseköğretim ve [[professional-training|professional training]] mesleki eğitimde özgün bir yere sahiptir: işbirliği, iletişim ve paylaşılan sorumluluk kurma açısından değerlidir ve [[teacher-education|teacher education]] öğretmen eğitimi gibi mesleki odaklı programlarda pedagojik olarak merkezîdir. Ancak vaadi otomatik olarak gerçekleşmez. Hem öğretmenler hem öğrenciler etkili işbirliğinin önündeki engelleri bildirir ve notlandırılmış bir grup ürünü aynı anda iki farklı iddia taşır — grubun ne başardığına ve her bireyin ne öğrendiğine ilişkin. YZ ve özellikle [[generative-ai|generative AI]] üretici YZ, ikisine de baskı yapar: işin nasıl bölüneceğini, katkıların ne kadar kolay birleştirileceğini ve her üyenin düşüncesinin bir aracın çıktısından ne kadar kolay ayrılabileceğini değiştirir. İşbirliğine dayalı öğrenme araştırmalarının büyük bir bölümü grup çalışmasına ilişkindir ve bunun birkaç izleği önem taşır; tek bir çalışma değil.
 
 ## Grup çalışması neden tasarım gereği zordur
 
 - **Bedava çıkma ve sosyal tembellik.** Bazı üyeler katkılarını azaltır ve iş yükü daha angaje akranlara yeniden dağıtılır. Görev kapsamı, grup büyüklüğü ve [[writing-education|composition]] olasılığı artırır; hesap verebilirlik mekanizmaları ve grup öz-yeterliliği azaltır.
-- **Hesap verebilirlik yapısal olduğu kadar ilişkiseldir.** Bilgi tabanının grup değerlendirme çalışmalarından birinin yürütüldüğü Hong Kong’da — lisans öğrencileri sıklıkla kişilerarası ilişkileri korumak için bedava çıkışı bildirmemeyi seçmiş, sorunla yüzleşmek yerine işi kendileri tamamlarlardı. Öğrencilerin [[agency]] özerkliği bu nedenle notu peşinde koşarken çatışmadan kaçınma biçimini alabilir.
+- **Hesap verebilirlik yapısal olduğu kadar ilişkiseldir.** Grup değerlendirme çalışmalarından birinin yürütüldüğü Hong Kong’da, lisans öğrencileri sıklıkla kişilerarası ilişkileri korumak için bedava çıkışı bildirmemeyi seçmiş, sorunla yüzleşmek yerine işi kendileri tamamlarlardı. Öğrencilerin [[agency]] özerkliği bu nedenle notu peşinde koşarken çatışmadan kaçınma biçimini alabilir.
 - **İşbirliği tasarlanmalıdır, varsayılmamalıdır.** Bir görev bağımsız alt görevlere bölünebildiği yerde öğrenciler bu yolu seçer ve grup, ortak bir entelektüel çabadan ziyade bir teslim biçimine dönüşür. [[chen-zou-genai-group-assessment-agency-2026|Chen ve Zou (2026)]], on beş grubun üçünün tam olarak bunu yaptığını buldu — işi bölerek, “bireysel platformlar” üzerinde çalışarak ve tutarlılık açık bir değerlendirme ölçütü olduğunda bile bireysel GenAI yeteneklerini asla bir araya getirmeyerek.
 - **Süreç karşı ürün.** Grup çalışması, süreç çıktıyla birlikte değerlendirildiğinde en güçlüdür; bu, tek bir final eseri yerine [[peer-assessment|peer assessment]] akran değerlendirmesi veya diğer görünür ara adımlar gerektirir.
 - **[[equity-in-ai-education|Equity]] ve [[inclusive-learning|inclusion]].** Katkı normları, dil ve özgüven gruplar içinde eşitsiz dağılır. [[neurodivergent-computing-students|Neurodivergent students]] nörofarklı öğrencilerin yapılandırılmış ödevler, küçük tutarlı ekipler ve açıkça tanımlanmış roller talep ettiğini bildirirler — “ortalama” öğrenen için sıklıkla inşa edilen YZ işbirliği araçlarının düzenli olarak karşılayamadığı gereksinimler.
 
 ## YZ grup çalışmasını nasıl değiştirir
 
-Grup çalışmasında YZ üzerine yapılan araştırmalar iki ayrı şeyi ele alır: YZ’nin bir grubun *görevine* ne eklediğini ve YZ’nin grubun *sürecine* ne yaptığını. İkisi de önemlidir ve bilgi tabanının bulguları her ikisini de kapsar.
+Grup çalışmasında YZ üzerine yapılan araştırmalar iki ayrı şeyi ele alır: YZ’nin bir grubun *görevine* ne eklediğini ve YZ’nin grubun *sürecine* ne yaptığını. İkisi de önemlidir ve bulgular her ikisini de kapsar.
 
 ### Eşgüdüm altyapısı olarak YZ
 
@@ -80,6 +85,8 @@ GenAI ve grup değerlendirmesi üzerine en doğrudan bulgu, [[chen-zou-genai-gro
 - **Tartışma gruplar düşüncesine karşı koyabilir.** [[genai-counter-learner-groupthink-2025|Wiss ve ark. (2025)]], bilerek ters yönde giderek, on iki disiplinlerarası [[problem-based-learning|PBL]] ekibine tartışmalı bakış açıları aşılamakla görevli bir YZ ajanı (CALIE) ile [[critical-thinking|critical thinking]] eleştirel düşünmeyi ve olumlu grup dinamiğini uyararak grup çalışmasının aksi halde üretebileceği uyum baskısını karşıladı. Jin ve ark. ile karşıtlığı öğreticidir — meydan okuma, tasarlanmış niyet olduğunda yardımcı olur, kabul edilmemiş bir yan etki olduğunda zararlıdır.
 - **Tarafsız arabulucu kısıtı.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], disiplinler arası ekiplerde örtük varsayımları ortaya çıkararak disiplin sınırlarını aracılık eden bir YZ, hem bilişsel destek hem de ilişkisel bir tampon olarak değer gördü — ama öğrencilerin güveni yük taşıyordu ve YZ tarafsız arabulucudan danışman veya meydan okuyucuya geçtiği an aşındı. Rol değişimleri bu nedenle sessiz değil, açık ve yapılandırılabilir olmalıdır.
 - **İşbirliğinin kendisi öğretimin nesnesi olabilir.** [[golrang-propact-pair-programming-2026|ProPACT]], analiz birimi olarak bireyi değil *ikiliyi* ele alır; ortak dikkati ve çabayı modelleyerek işbirlikçi çöküşleri 30 saniye öncesine kadar tahmin eder. Proaktif geri bildirim alan ikililer daha yüksek hata ayıklama başarısı elde etti ve sonrasında işbirlikçi [[regulation]] düzenlemede sürdürülebilir kazanımlar gösterdi: YZ bir görevi desteklemekle kalmaz, işbirliğinin kendisini öğretebilir.
+
+- **İlişkileri yerinden eden bir unsur.** Rastgele atanmış 33 takımlık bir deneyde [[nixon-social-cost-ai-teammate-2026|Nixon ve ark. (2026)]], YZ takım arkadaşının en çok konuşma süresini aldığını ancak en az yeni bilgi eklediğini bulmuştur; buna karşılık öğrenciler birbirlerine daha az karşılık vermiştir (duyarlılık g = −0,78) ve daha düşük aidiyet bildirmiştir (4,58’e karşı 5,27). YZ konuşma süresine ne kadar çok hâkim olursa, öğrenciler o kadar az değer gördüğünü hissetmiştir (r = −0,52).
 
 ### Verimlilik–düzenleme ödünleşimi
 

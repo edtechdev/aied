@@ -1,7 +1,7 @@
 ---
 title: "Öğrencilere YZ Çıktısını Nasıl Doğrulamayı Öğretebilirim?"
 created: "2026-10-14T21:30:00-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
 translation_of: faqs/verify-ai-output
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T02:02:25-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,8 @@ Doğrulama, bir ödeve yerleştirebileceğiniz bir sıralamadır. Görev başlam
 Aynı derleme ikinci bir çizgi daha çiziyor: [[trust|güven]] ile güvenme arasında. [[trust-calibration|Güven kalibrasyonu]], çıktının gerçek kalitesi göz önüne alındığında bir güvenme kararının uygun olup olmadığını sorar; bu da yargıyı tek bir karara ve tek bir çıktıya bağlar. Denetlenmiş bir çalışma, yanlış [[generative-ai|ChatGPT]] bilgisinin katılımcıların bildirdiği güveni kaydırdığını, ancak daha sonra belirli bir öneriyi kabul edip etmediklerinin hiç kaydedilmediğini bulmuştur. Bir başkası 78 çeviri öğrencisi için ChatGPT [[feedback|geri bildirimi]] üzerine kabul ve ret kararlarını kaydetmiş, ancak bağımsız bir uzman değerlendirmesi olmadığı için bir kabul uygun, bir ret ise gerekçeli sayılamaz. Çıktı kalitesine ilişkin bir referans doğru yoksa güvenme hiç sınıflandırılamaz.
 
 Tasarım sonucu budur ve düzeltilecek ilk şey de budur. Bir doğrulama görevi kurmadan önce iki kısa betimleme yazın: bu görev için doğru bir çıktı nasıl görünür ve makul ama yanlış bir çıktı nasıl görünür. Her birinden birer tane yeterlidir. Böylece öğrencilerin karşılaştıracağı bir ölçüt olur ve siz de kontrolü, öğrencinin dikkatli görünüp görünmediği dışında bir şeye göre notlandırabilirsiniz.
+
+Araştırma literatürü bu tavsiyeye henüz yetişememiştir. 65 ampirik çalışmayı kapsayan (2022–2026) sistematik bir derleme, hiçbirinin öğrenenlere YZ çıktısını yargılamanın ölçütlerini öğretmediğini ve geri bildirim okuryazarlığı iskelelerinin hiçbirinde yer almadığını bulmuştur; tasarımlar duraklatma ve açıklama istekleri sunarken, hiç sağlanmamış bir ölçütü varsayıyorlardı ([[yu-verification-without-criteria-2026|Yu ve ark. (2026)]]).
 
 ## Araç yanıtlamadan önce öğrencinin bir tutum almasını sağlayın
 

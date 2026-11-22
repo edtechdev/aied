@@ -1,14 +1,14 @@
 ---
 title: "YZ Öğrenme Deneyiminin İçine Nasıl Tasarınmalıdır?"
 created: "2026-10-14T21:30:00-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 

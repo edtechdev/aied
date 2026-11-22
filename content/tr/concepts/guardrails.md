@@ -1,6 +1,7 @@
 ---
 title: Güvenlik Rayları
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -8,13 +9,17 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
 connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
@@ -30,7 +35,7 @@ connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-f
 - Bir saha deneyinde, korumasız bir [[intelligent-tutoring|AI tutor]] YZ özel ders aracı uygulama performansını artırdı ama sonraki desteksiz sınav puanlarını düşürdü, oysa “ipucu-ver-cevap-değil” sürümü zararı ortadan kaldırdı. Öğrencilerin o anda daha iyi performans göstermeleri neden onların daha az öğrenmesine yol açabilir?
 - Bir YZ özel ders aracı “nazik” olacak biçimde tasarlanmışsa — asla karşı çıkmıyor veya düzeltici [[feedback]] geri bildirim vermiyorsa — bu nasıl bir güvenlik sorunu olur, özellik değil? Eğitim bağlamında uyumlu davranış ne zaman zararlıdır?
 - Güvenlik rayları, istemciden bilgi temellendirmesine, eğitimden denetime uzanan katmanlı bir denetim kümesi olarak tanımlanır. Bir katman seçin ve şunu düşünün: nerede başarısız olabilir ve farklı bir katman onun kaçırdığını ne yakalar?
-- Sayfa, güvenlik raylarının kendilerinin önyargılı olabileceğini — reddetmelerin ve yumuşatılmış cevapların [[learner-identity|student identity]] öğrenci kimliğine göre biçimlendiğini — not eder. Bir güvenlik filtresini, öğrenenleri “korumaya” çalışırken sessizce eşitsizliği yeniden üretmediğinden emin olmak için nasıl denetlersiniz?
+- Güvenlik raylarının kendileri önyargılı olabilir; reddetmeler ve yumuşatılmış yanıtlar [[learner-identity|student identity]] öğrenci kimliğine göre biçimlenir. Bir güvenlik filtresini, öğrenenleri “korumaya” çalışırken sessizce eşitsizliği yeniden üretmediğinden emin olmak için nasıl denetlersiniz?
 - Daha genç öğrenenler, manipülatif veya yaltaklanıcı YZ davranışını tespit etmeye en az donanımlı olarak tanımlanır. Bu, bir K-12 YZ aracı için “güvenli”nin ne anlama gelmesini bir üniversite aracına kıyasla nasıl değiştirir?
 
 ## Giriş

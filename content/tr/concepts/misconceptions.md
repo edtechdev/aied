@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 title: YZ Hakkında Yanlış Kanılar
 created: "2026-10-14T21:35:00-04:00"
 type: concept
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,11 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
-connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Giriş
 
-YZ hakkındaki yanlış kanılar önemlidir, çünkü bilgi tabanının [[cognitive-offloading|Aşırı Bağımlılık]] ve [[academic-integrity]] kaygıları altında belgelediği zararlı davranışların bilişsel öncülüdür. İnsanlar nadiren YZ’yi [[ai-misuse-learning-harm|kötüye kullanmaya]] kalkar; bunu yaparlar çünkü yanlış zihinsel modeller onları güveni yanlış yere koymaya, doğrulamayı atlamaya ve çıktıyı anlayış olarak görmeye yönlendirir. Eğitimde bu hatalar, öğrencilerin nasıl çalıştığından öğretmenlerin ve kurumların müfredatları, [[assessment]] ve politikayı nasıl tasarladığına kadar her şeyi şekillendirir.
+YZ hakkındaki yanlış kanılar önemlidir, çünkü bilgi tabanının [[cognitive-offloading|Aşırı Bağımlılık]] ve [[academic-integrity]] kaygıları altında belgelediği zararlı davranışların bilişsel öncülüdür. İnsanlar nadiren YZ’yi [[ai-misuse-learning-harm|kötüye kullanmaya]] kalkar; bunu yaparlar çünkü yanlış zihinsel modeller onları güveni yanlış yere koymaya, doğrulamayı atlamaya ve çıktıyı anlayış olarak görmeye yönlendirir. Eğitimde bu hatalar, öğrencilerin nasıl çalıştığından öğretmenlerin ve kurumların müfredatları, [[assessment]] ve politikayı nasıl tasarladığına kadar her şeyi şekillendirir. Bu yanlış kanıları ortaya çıkaran çerçeveyi sorgulayan ayrı bir çalışma alanı vardır; bkz. [[critiques-of-ai-in-education|Eğitimde YZ Eleştirileri]].
 
 ## YZ yanlış kanıları nedir
 

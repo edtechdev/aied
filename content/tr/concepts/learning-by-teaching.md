@@ -1,6 +1,7 @@
 ---
 title: Öğreterek Öğrenme
 created: "2026-10-14T21:41:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -8,13 +9,17 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
 connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
@@ -28,7 +33,7 @@ connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teac
 
 - Bir şeyi ancak başka birine açıkladıktan sonra gerçekten anladığınız bir zamanı hatırlayın. Zihinsel olarak ne oluyordu — ve öğretmenin, yalnızca çalışmaktan daha derin bir anlama üretmesini neye bağlıyorsunuz?
 - Yaygın bir görüş, öğretmenin uzmanların işi olduğu ve acemilerin sunacak bir şeyi olmadığıdır. Oysa “öğreterek öğrenme” bunun tersi öncüle dayanır: öğretmeye hazırlanmak, bilgiyi düzenlemeye ve kendi boşluklarınızı bulmaya zorlar. Bu durum, öğretmekten kimlerin yararlandığı sorusunu nasıl yeniden çerçeveler?
-- Sayfa, “öğretilebilir aracılar”ı tanımlar — öğrenmenin bir parçası olarak öğrencilerin öğrettiği yazılımlar. Bir LLM ile bir sohbet robotunu, soru soran ve hata yapan hataya açık bir acemi olarak yapılandırabilirsiniz. Gerçekten yalnızca sohbet etmek yerine öğrenmeyi iyileştirmesi için böyle bir acemiye ne tasarlamanız gerekir?
+- “Öğretilebilir aracılar”, öğrenmenin bir parçası olarak öğrencilerin öğrettiği yazılımlardır. Bir LLM ile bir sohbet robotunu, soru soran ve hata yapan hataya açık bir acemi olarak yapılandırabilirsiniz. Gerçekten yalnızca sohbet etmek yerine öğrenmeyi iyileştirmesi için böyle bir acemiye ne tasarlamanız gerekir?
 - Zorluklardan biri “hatayı mühendislikle inşa etmek”tir: YZ modelleri uzman, akıcı yanıtlar vermek üzere eğitilir; bu, öğreterek öğrenme paradigmasının istediği mücadele eden acemiye tam tersidir. Hata yapmaya eğilimli bir aracı, doğru olan bir aracıdan neden öğrenme için daha etkili olabilir?
 - ChatGPT temelli bir öğretilebilir araç öğrenmeyi iyileştirdi, ancak doğru kod üretme eğilimi hata düzeltme alıştırmasını sınırladı. Her zaman doğru cevabı veren bir araç, hataları tespit ve düzeltmeyi pratik etmesi gereken öğrenciyi nasıl gerçekte eksik bırakabilir?
 - Kendi sınıfınız için bir öğreterek öğrenme etkinliği tasarlayacak olsanız, öğretme görevini bir cevabı kopyala-yapıştır yapmak yerine gerçek çaba göstermeye itecek kadar *sonuç doğurucu* kılan şey ne olurdu?
@@ -45,7 +50,7 @@ connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teac
 
 **Öğretilebilir aracılar**, öğreterek öğrenmenin işlevsel hale getirildiği yazılım sistemleridir — öğrenci, öğrenmenin bir parçası olarak bir sistemi öğretir. Geleneksel öğretilebilir aracılar kural temelli ya da erişim temelliydi ve yalnızca sınırlı komutlara yanıt verebiliyordu; temel sınırlılıkları doğal dilde diyaloga girememesiydi. [[llm|Büyük dil modelleri]] bunu değiştirir: [[prompt-engineering|istek metni]] yoluyla esnek biçimde roller üstlenebilirler — soru soran ya da hata yapan bir “öğretilen” rolü dahil — ve açık uçlu diyaloga girebilirler; böylece LbT daha önce mümkün olmayan, daha az yapılandırılmış alanlarda (yazma, kelime bilgisi) etkinleşir.
 
-Bilgi tabanının kanıt tabanı bu dönüşümü **konuşmaya dayalı, LLM temelli öğretilebilir aracılara** bağlar:
+Kanıt tabanı bu dönüşümü **konuşmaya dayalı, LLM temelli öğretilebilir aracılara** bağlar:
 
 - **Öğretilebilir araç olarak ChatGPT** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen ve ark.]]), programlamada LbT’yi destekler; bilgi kazanımlarını, programlama yeteneğini ve [[self-regulated-learning|öz düzenlemeli öğrenmeyi]] iyileştirir — ancak doğru kod üretme eğilimi hata düzeltme alıştırmasını sınırlar.
 - **Ölçekte Explique** ([[explique-teachable-agent-algorithms-546-students-2026|Wang ve ark.]]), 11 haftalık bir dönemde 546 öğrenciye bir YZ öğretilebilir aracı (Algorithm Apprentice) konuşlandırdı; açıklama yönelimli diyalogun daha az hatalı test gönderimini öngördüğünü, dış içerik yeniden kullanımının ise daha fazlasını öngördüğünü buldu.
@@ -62,9 +67,11 @@ LLM temelli öğretilebilir aracılar için temel bir tasarım zorluğu, LLM’l
 - **Explique’in çırak kısıtları** (Wang ve ark.), aracıya (a) acemi kalmayı, (b) öğrencinin açıklaması doğru olana kadar açıklama istemeyi sürdürmeyi ve (c) hedef açıklamayı asla ifşa etmemeyi — ve rolleri tersine çevirmeye çalışan öğrencilere karşı *direnmeyi* buyurur.
 - **Hataya açıklığa giden bir yol olarak ağırlık düzeyinde unutma.** Makine unutması, Mistral-7B’de 16 hedefli bilgi bileşenini baskılar; doğruluğu %10 unutma oranında yaklaşık 0,75’ten %40’ta 0,5’in altına düşürürken temel model 0,85 civarında kaldı. Baskılanan bilgi, denetimli yeniden öğrenme ve koç eşliğindeki diyalog yoluyla geri döndü; bu nedenle aracının bilgi düzeyi bir iddia değil, ayarlanabilir bir kadrandır ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
 
+- **Denetim, ağırlama görevi olarak.** İki kursluk bir tasarım vakasında öğrenciler genel amaçlı bir asistanı işe alır, ona yol gösterir ve koçluk yapar, ardından yanlış yaptığı şeyleri belgelemektedir; öğretim elemanları, araca kuralları açıklamanın öğrenci için de o kuralları netleştirdiğini bildirmektedir ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak ve Braddock, 2025]]).
+
 ## Sorgulama, Öz Düzenleme ve Etkin Öğrenme
 
-Bilgi tabanında yinelenen iki olanak daha vardır:
+Kanıtta yinelenen iki olanak daha vardır:
 
 - **Sorular bilgi boşluklarını belirler.** LbT sistemleri boşlukları ortaya çıkarmak ve kavrayışı pekiştirmek için öğrenenlerin ürettiği soruları kullanır ve [[teaching-ai-vocabulary-lbt-llms-2026|LLM tarafından üretilen sorular]], katı şablon temelli üreticilerin yerini alır.
 - **Geri öğretme, açıklamanın kaçırdığını gün yüzüne çıkarır.** 22 katılımcılı bir ders sonrası inceleme sisteminde, bir Peer aracının yansıtıcı geri öğretmesi, öğrenenlerin anladıklarını sandıkları ile dile getirebildikleri arasındaki boşlukları tutarlı biçimde ortaya çıkardı; derse dayalı açıklama tek başına bunları gün yüzüne çıkarmamıştı ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).

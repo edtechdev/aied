@@ -8,7 +8,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,8 +16,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
 connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

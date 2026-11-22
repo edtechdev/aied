@@ -14,7 +14,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
 connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

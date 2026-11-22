@@ -1,6 +1,7 @@
 ---
 title: "Öğrenenler"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -11,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,13 +20,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
 connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Sentez:** Öğrenenler, [[ai-education|Eğitimde Yapay Zeka]]’nın birincil kitleleridir — YZ’nin artık çalışmasını, anlayışını ve benlik algısını şekillendirdiği [[k-12]], [[higher-ed]] ve [[adult-learning]] öğrencileri. Bu sayfa, bilgi tabanının öğrenen tarafı kapsamına ilişkin şemsiye sayfasıdır: öğrenenlerin ne deneyimlediği ([[student-experience]]), kim olmaya başladıkları ([[learner-identity]]), hâlâ neyi seçtikleri ([[agency]]), araçla fiilen nasıl etkileşime girdikleri ([[student-ai-interaction]]), çabaları ile [[self-regulated-learning|öz-düzenleme]] becerilerinin bunun altında ayakta kalıp kalmadığı ([[cognitive-offloading]]) ve YZ sistemlerinin onları nasıl modellemiş olduğu ([[student-modeling]]). Bu araştırma boyunca yinelenen bulgu, aynı aracın farklı öğrenenlere farklı şekilde yardım ettiği ve zarar verdiğidir — kazançlar, [[prior-knowledge|önceki bilgi]], [[ai-literacy|YZ okuryazarlığı]] ve doğrulama alışkanlıklarının zaten mevcut olduğu yerlerde yoğunlaşır; tersine dönüş ise YZ’nin, görevin geliştirmeyi amaçladığı düşünmenin yerine geçtiği yerlerde yoğunlaşır.
+> **Sentez:** Öğrenenler, [[ai-education|Eğitimde Yapay Zeka]]’nın birincil kitleleridir — YZ’nin artık çalışmasını, anlayışını ve benlik algısını şekillendirdiği [[k-12]], [[higher-ed]] ve [[adult-learning]] öğrencileri. Öğrenen tarafı kavramları tek bir aile oluşturur: öğrenenlerin ne deneyimlediği ([[student-experience]]), kim olmaya başladıkları ([[learner-identity]]), hâlâ neyi seçtikleri ([[agency]]), araçla fiilen nasıl etkileşime girdikleri ([[student-ai-interaction]]), çabaları ile [[self-regulated-learning|öz-düzenleme]] becerilerinin bunun altında ayakta kalıp kalmadığı ([[cognitive-offloading]]) ve YZ sistemlerinin onları nasıl modellemiş olduğu ([[student-modeling]]). Bu araştırma boyunca yinelenen bulgu, aynı aracın farklı öğrenenlere farklı şekilde yardım ettiği ve zarar verdiğidir — kazançlar, [[prior-knowledge|önceki bilgi]], [[ai-literacy|YZ okuryazarlığı]] ve doğrulama alışkanlıklarının zaten mevcut olduğu yerlerde yoğunlaşır; tersine dönüş ise YZ’nin, görevin geliştirmeyi amaçladığı düşünmenin yerine geçtiği yerlerde yoğunlaşır.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -38,13 +43,13 @@ connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-
 
 ## Giriş
 
-Öğrenenler bu bilgi tabanında birbirinden çok farklı iki biçimde görünür ve bu ikisini birbirine karıştırmak alandaki kafa karışıklığının çoğuna neden olur. Birincisinde öğrenenler **YZ kullanan kişilerdir**: soru sorarlar, yanıtları kabul eder veya reddederler, ayakta kalır veya tökezlerler; destek, suçluluk, kaygı ve bağımlılık deneyimlerini aktarırlar. İkincisinde öğrenenler, **YZ sistemlerinin modellemiş olduğu nesnelerdir**: [[knowledge-tracing|bilgi izleme]]de bir beceri tahmini, [[cognitive-diagnosis|bilişsel tanılamada]] gizli bir durum veya gerçek bir öğrencinin yerini tutan bir [[simulating-students|simüle edilmiş öğrenci]]. Birincisine ilişkin kanıtlar anketlerden, görüşmelerden, kayıt analizinden ve deneylerden gelir; ikincisine ilişkin kanıtlar ise ölçümün kendi makinesinden gelir — ve bir öğrenenin modeli bir öğrenci değil, bir iddiadır.
+Öğrenenler araştırmada birbirinden çok farklı iki biçimde görünür ve bu ikisini birbirine karıştırmak alandaki kafa karışıklığının çoğuna neden olur. Birincisinde öğrenenler **YZ kullanan kişilerdir**: soru sorarlar, yanıtları kabul eder veya reddederler, ayakta kalır veya tökezlerler; destek, suçluluk, kaygı ve bağımlılık deneyimlerini aktarırlar. İkincisinde öğrenenler, **YZ sistemlerinin modellemiş olduğu nesnelerdir**: [[knowledge-tracing|bilgi izleme]]de bir beceri tahmini, [[cognitive-diagnosis|bilişsel tanılamada]] gizli bir durum veya gerçek bir öğrencinin yerini tutan bir [[simulating-students|simüle edilmiş öğrenci]]. Birincisine ilişkin kanıtlar anketlerden, görüşmelerden, kayıt analizinden ve deneylerden gelir; ikincisine ilişkin kanıtlar ise ölçümün kendi makinesinden gelir — ve bir öğrenenin modeli bir öğrenci değil, bir iddiadır.
 
-Bu sayfa her ikisi için de giriş noktasıdır. Bilgi tabanının kapsadığı öğrenen tarafı kavramlarını toplar, bunların nasıl ilişkili olduğunu açıklar ve arkalarındaki çalışmalara bağlantı verir. [[stakeholders]] aynı alanın diğer tarafını kapsar — [[teacher-role|öğretmenler]], [[administrator|yöneticiler]], tasarımcılar ve politika yapıcılar — ve iki sayfa birlikte okunmak üzere tasarlanmıştır.
+İki biçimin de ayrı kanıtlara ihtiyacı vardır ve aşağıda açıklanan öğrenen tarafı kavramları onları ayrı tutar, nasıl ilişkili olduklarını gösterir ve arkalarındaki çalışmalara bağlantı verir. [[stakeholders]] aynı alanın diğer tarafını kapsar — [[teacher-role|öğretmenler]], [[administrator|yöneticiler]], tasarımcılar ve politika yapıcılar — ve iki sayfa birlikte okunmak üzere tasarlanmıştır.
 
 ## Öğrenen kim sayılır?
 
-Bilgi tabanı öğrenenleri resmi eğitimin tüm yelpazesinde ele alır: [[k-12]] ilkokul/ortaokul/lise öğrencileri, [[higher-ed|üniversite öğrencileri]], [[vocational-education|mesleki]] ve [[professional-training|profesyonel]] öğrenciler ile [[adult-learning|yetişkin]] ve [[lifelong-learning|yaşam boyu]] öğrenenler; bunlar arasında [[special-education|engelli öğrenenler]], [[neurodiversity|nörodivrjan]] öğrenenler ve [[multilingual-learning|çok dilli]] öğrenenler de bulunur. İki ayrıma dikkat etmek gerekir. Birincisi, “öğrenenler” ve “öğrenciler” kullanışlı bir biçimde birbirinin yerine kullanılamaz: *öğrenci* kurumsal bir rolü, *öğrenen* ise bir etkinliği adlandırır ve bir kişi diğeri olmadan biri olabilir ([[professional-training|iş yeri eğitimindeki]] bir çalışan öğrenendir ama öğrenci değildir). İkincisi, öğrenenler homojen bir grup değildir ve araştırmaların sürekli yüzeye çıkardığı şey tam olarak bu heterojenliktir — [[prior-knowledge|önceki bilgi]], [[self-regulated-learning|öz-düzenleme]], dil, erişim ve engellilik durumu, bir YZ aracının yardımcı olup olmayacağını değiştirir.
+Araştırma öğrenenleri resmi eğitimin tüm yelpazesinde ele alır: [[k-12]] ilkokul/ortaokul/lise öğrencileri, [[higher-ed|üniversite öğrencileri]], [[vocational-education|mesleki]] ve [[professional-training|profesyonel]] öğrenciler ile [[adult-learning|yetişkin]] ve [[lifelong-learning|yaşam boyu]] öğrenenler; bunlar arasında [[special-education|engelli öğrenenler]], [[neurodiversity|nörodivrjan]] öğrenenler ve [[multilingual-learning|çok dilli]] öğrenenler de bulunur. İki ayrıma dikkat etmek gerekir. Birincisi, “öğrenenler” ve “öğrenciler” kullanışlı bir biçimde birbirinin yerine kullanılamaz: *öğrenci* kurumsal bir rolü, *öğrenen* ise bir etkinliği adlandırır ve bir kişi diğeri olmadan biri olabilir ([[professional-training|iş yeri eğitimindeki]] bir çalışan öğrenendir ama öğrenci değildir). İkincisi, öğrenenler homojen bir grup değildir ve araştırmaların sürekli yüzeye çıkardığı şey tam olarak bu heterojenliktir — [[prior-knowledge|önceki bilgi]], [[self-regulated-learning|öz-düzenleme]], dil, erişim ve engellilik durumu, bir YZ aracının yardımcı olup olmayacağını değiştirir.
 
 ## Öğrenenlerin deneyimledikleri
 
@@ -56,7 +61,7 @@ Duygusal taraf bilişsel anlatıyla yürür: [[anxiety-and-stress]] ve [[well-be
 
 ## Kimlik, etkenlik ve yazarlık
 
-Öğrenen tarafı araştırmalar yalnızca sonuçlarla ilgili değildir. [[learner-identity]], bir öğrenenin bir disipline ve YZ’ye kıyasla kim olmaya başladığını sorar ve kanıtlar iki yönde işler: iyi tasarlanmış kullanım disipline aidiyeti iskeleye koyabilirken, dış kaynak kullanımı işin kendi işi olduğu hissini aşındırabilir. [[agency]], öğrenenin hâlâ neyi denetlediğini sorar. Bilgi tabanı ikisini de gerçekten tehlikede olan konular olarak, başarının yumuşak tamamlayıcıları olarak değil ele alır: YZ ile doğru çıktı üreten ve ardındaki akıl yürütmeyi artık tanımayan bir öğrenen, notun kaydetmediği bir şeyi kaybetmiştir. Yazarlık sorusu, öğrenenlerin kendilerinin en çok zorlandığı yerdir: [[mulisa-students-genai-integrity-perspectives-2026|GenAI ve dürüstlük üzerine görüşülen öğrenciler]], başka hiçbir yazar bulunmadığı gerekçesiyle özgünlük iddia ettiler — “Benim özgün fikrim değilse, öyleyse kimin?” — oysa diğerleri işin kendilerini temsil etmediği sonucuna vardı ve bir tanesi, YZ bir kişi olmadığı için olamayacağı bir ortak yazar olarak aracı tanıma noktasına doğru akıl yürüttü.
+Öğrenen tarafı araştırmalar yalnızca sonuçlarla ilgili değildir. [[learner-identity]], bir öğrenenin bir disipline ve YZ’ye kıyasla kim olmaya başladığını sorar ve kanıtlar iki yönde işler: iyi tasarlanmış kullanım disipline aidiyeti iskeleye koyabilirken, dış kaynak kullanımı işin kendi işi olduğu hissini aşındırabilir. [[agency]], öğrenenin hâlâ neyi denetlediğini sorar. Alan ikisini de gerçekten tehlikede olan konular olarak, başarının yumuşak tamamlayıcıları olarak değil ele alır: YZ ile doğru çıktı üreten ve ardındaki akıl yürütmeyi artık tanımayan bir öğrenen, notun kaydetmediği bir şeyi kaybetmiştir. Yazarlık sorusu, öğrenenlerin kendilerinin en çok zorlandığı yerdir: [[mulisa-students-genai-integrity-perspectives-2026|GenAI ve dürüstlük üzerine görüşülen öğrenciler]], başka hiçbir yazar bulunmadığı gerekçesiyle özgünlük iddia ettiler — “Benim özgün fikrim değilse, öyleyse kimin?” — oysa diğerleri işin kendilerini temsil etmediği sonucuna vardı. Bir tanesi, YZ bir kişi olmadığı için olamayacağı bir ortak yazar olarak aracı tanıma noktasına doğru akıl yürüttü.
 
 ## YZ ile etkileşim: öğrenenler fiilen ne yapar?
 
@@ -76,19 +81,9 @@ En uzun teknik soyolu olan öğrenen tarafı kavramlar, öğreneni sisteme temsi
 
 Faydalar önceki avantajı izlediği için öğrenen tarafı çalışma [[equity-in-ai-education]] ile ayrılmaz bir bütündür. [[digital-divide]] ve ücretli model kademelerine erişim, en güçlü araçları kimin aldığını şekillendirir; [[bias-mitigation|adillik]] kaygıları, öğrenilmiş modellerin farklı gruplara davranışını yönetir; [[inclusive-learning]], [[accessibility]], [[special-education]] ve [[neurodiversity]], ihtiyaçlarını varsayılan tasarımın göz ardı ettiği öğrenenleri kapsar. Bu araştırmanın pratik dersi, “YZ öğrencilere yardım eder” ifadesinin bir bulgu olmadığıdır — bulgu her zaman *hangi* öğrenciler, *ne* koşullarda, *ne* önceki bilgi ve erişimle olduğudur. O riskin belirgin bir payını iki grup taşır. [[wright-transcription-not-generation-2026|Wright (2026)]], “[[generative-ai|üretken YZ]]”den çok işlev etrafında yazılan yasakların, bir öğrenenin zaten kaleme aldığı işin biçimini dönüştüren transkripsiyon araçlarını yakaladığını; böylece ortaya çıkan yanlış pozitiflerin, ses-metin ve OCR’ye bel bağlayan ve yapay zekâ destekli OCR’nin kullanımdan kaldırılmış yardımcı yazılımların yerini aldığı durumlar dâhil, engelli öğrenenlere en ağır düştüğünü savunur; [[harerimana-remote-proctoring-nursing-scoping-2026|uzaktan gözetim kapsam taraması]], değerlendirme koşullarına ilişkin paralel noktayı ortaya koyar ve kimin hiç değerlendirilebileceğine bağlantı, veri maliyeti ve cihaz arızasının karar verdiğini bulur — bu teknik değil bir eşitlik bulgusudur ve düşük ve orta gelirli ülkelerde yoğunlaşmıştır.
 
-## Bu sayfanın yeri
+## Öğrenen dalı nasıl yerleşir
 
 Öğrenenin çevresindeki insanlar için [[stakeholders]], öğretmenlerin bu bulgularla ne yaptığı için [[pedagogy]] ve [[learning-design]] ile birlikte okuyun. [[assessment]], hangi öğrenen yetilerinin hiç görünür kılındığına karar verir; [[limitations-in-aied-research]], öğrenen tarafı kanıtların çoğunun neden kısa vadelik, öz-bildirimli ve uygunluk örneklemleriyle yürütüldüğünü açıklar; [[misconceptions]] ise öğrenenlerin kendileri için olağan giriş noktasıdır.
-
-## Yaygın yanlış anlamalar
-
-**“Öğrenenler ile öğrenciler aynı nüfustur.”** Yararlı bir biçimde birbirinin yerine kullanılamazlar: *öğrenci* kurumsal bir rolü adlandırır, *öğrenen* ise bir etkinliği adlandırır ve bir kişi biri olmadan diğeri olabilir; [[professional-training|işyeri eğitimindeki]] bir çalışan öğrenendir ama öğrenci değildir. İkisini birbirine karıştırmak kanıt tabanını kayıt kaydı bulunan kişilerle daraltır ve tam da [[lifelong-learning|yaşam boyu öğrenme]] araştırmasının konusu olan yetişkinleri, profesyonelleri ve öz yönelimli öğrenenleri sessizce dışarıda bırakır.
-
-**“Öğrenenler YZ'nin anlamalarını iyileştirdiğini bildiriyor, demek ki zamandan tasarruf sağlıyor.”** İki iddia anket verisinde ayrışır. Çalışma verimliliği üzerine çalışmada **%92,3**'ü YZ'nin anlamalarını iyileştirdiğini söylerken yalnızca **%38,5**'i genel çalışma süresini azalttığını söylemiştir. Manşet sayı hissedilen kavrayışı betimler; altındaki açık, iyileşen anlama ile geri kazanılan zamanın farklı sonuçlar olduğunu ve yaygın biçimde tekrarlanan "YZ zaman kazandırır" iddiasını daha küçük olan sayının taşıdığını gösterir.
-
-**“Öğrencilerin kısayol için YZ kullanması ahlaki bir kusurdur.”** Bilgi tabanı en az çaba çekimini bir karakter sorunu değil, tasarım ve politika sorunu olarak ele alır: öğrenciler bunu kendi sözcükleriyle betimler ve [[reducing-ai-misuse|kötüye kullanım]] ile [[academic-integrity|dürüstlük]] literatürü kaldıracı görev ve ortam tasarımında konumlandırır. Ahlaki çerçeveleme, aynı öğrencinin iki kursta neden farklı davrandığına ilişkin hiçbir şey açıklamaz.
-
-**“Bir suistimal iddiası yapıldığında kanıt oradadır.”** 1.162 GenAI iddiasının dosya analizi, kurumsal yanıt geldiğinde öğrenenlerin fiilen neyle karşılaştığını gösterir ve suistimal prosedürünün öğrenci tarafı literatürde kullanımın öğrenci tarafından çok daha incedir. Öğrenenler hakkında yalnızca kullanımlarını belgeleyip suçlamaya maruz kalmalarını belgelemeyen bir sayfa, deneyimin yarısını belgelemiştir.
 
 ## Uygulama için çıkarımlar
 
@@ -107,3 +102,13 @@ Faydalar önceki avantajı izlediği için öğrenen tarafı çalışma [[equity
 
 - Örneklemede öğrenen/öğrenci ayrımını açık tutun ve bu ayrımın kimleri dışarıda bıraktığını bildirin.
 - Kullanıcı kadar suçlananı da inceleyin; bu literatürün ince yarısı prosedür tarafıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Öğrenenler ile öğrenciler aynı nüfustur.”** Yararlı bir biçimde birbirinin yerine kullanılamazlar: *öğrenci* kurumsal bir rolü adlandırır, *öğrenen* ise bir etkinliği adlandırır ve bir kişi biri olmadan diğeri olabilir; [[professional-training|işyeri eğitimindeki]] bir çalışan öğrenendir ama öğrenci değildir. İkisini birbirine karıştırmak kanıt tabanını kayıt kaydı bulunan kişilerle daraltır ve tam da [[lifelong-learning|yaşam boyu öğrenme]] araştırmasının konusu olan yetişkinleri, profesyonelleri ve öz yönelimli öğrenenleri sessizce dışarıda bırakır.
+
+**“Öğrenenler YZ'nin anlamalarını iyileştirdiğini bildiriyor, demek ki zamandan tasarruf sağlıyor.”** İki iddia anket verisinde ayrışır. Çalışma verimliliği üzerine çalışmada **%92,3**'ü YZ'nin anlamalarını iyileştirdiğini söylerken yalnızca **%38,5**'i genel çalışma süresini azalttığını söylemiştir. Manşet sayı hissedilen kavrayışı betimler; altındaki açık, iyileşen anlama ile geri kazanılan zamanın farklı sonuçlar olduğunu ve yaygın biçimde tekrarlanan "YZ zaman kazandırır" iddiasını daha küçük olan sayının taşıdığını gösterir.
+
+**“Öğrencilerin kısayol için YZ kullanması ahlaki bir kusurdur.”** En az çaba çekimi bir karakter sorunu değil, tasarım ve politika sorunudur: öğrenciler bunu kendi sözcükleriyle betimler ve [[reducing-ai-misuse|kötüye kullanım]] ile [[academic-integrity|dürüstlük]] literatürü kaldıracı görev ve ortam tasarımında konumlandırır. Ahlaki çerçeveleme, aynı öğrencinin iki kursta neden farklı davrandığına ilişkin hiçbir şey açıklamaz.
+
+**“Bir suistimal iddiası yapıldığında kanıt oradadır.”** Dosyalar daha zayıf bir zemini gösterir: en sık atıf yapılan kanıt en zayıf dereceli türdendir, bir davanın ilerleyip ilerlemeyeceğini yöneten asgari bir kanıt eşiği yoktur ve ince davalar itirazlara uğrar. Öğrenenler hakkında yalnızca kullanımlarını değil, suçlamaya maruz kalmalarını da belgelemek gerekmektedir.

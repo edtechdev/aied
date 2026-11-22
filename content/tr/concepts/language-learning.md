@@ -2,6 +2,7 @@
 connected_resources: [mglearn]
 title: Dil Öğrenimi
 created: "2026-10-14T21:50:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -9,14 +10,19 @@ ethics: [equity-in-ai-education]
 discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+connected_faqs: [ai-support-reading-comprehension]
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
 connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
@@ -28,16 +34,16 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai
 
 ## Değerlendirilmesi Gereken Sorular
 
-- Dil doğası gereği etkileşimlidir, bu da onu [[conversational-ai|konuşma tabanlı YZ]] için uygun kılar — ama YZ’nin dilsel yetenekleri ana dili dışı örüntülere karşı yanlılık riskleri de doğurur. Fırsat ile risk arasındaki bu gerilimin nerede işlediğini gördünüz?
+- [[conversational-ai|Konuşma tabanlı YZ]]'nin dil pratiği vaadi ile ana dili dışı örüntelere karşı önyargı riski arasındaki gerilimi nerede gördünüz?
 - Bir çalışma, YZ puanlamasının dilsel olarak daha zayıf öğrencileri sistematik biçimde düşük değerlendirdiğini buldu; bir diğeri ise öğrencileri ana dili konuşan normlarına değil kendi önceki çalışmalarına göre karşılaştırmayı önerdi. Değerlendirme için “referans noktası”, [[ai-feedback-quality|YZ geri bildiriminin]] bir öğrenciye yardımcı olup olmadığını ya da onu cezalandırıp cezalandırmadığını nasıl değiştirir?
-- YZ muhatapleri iletişimsel pratiği ölçekte genişletebilir, ancak sayfa bunların akıcılığın gerçek konuşmaya aktarılabilmesi için insan etkileşimiyle eşleştirilmesi gerektiğini vurgular. Bir YZ ile pratik yapmak, bir insan partnerin veremeyeceği neyi kazandırır — ve neyi kaybettirir?
+- YZ muhatapleri iletişimsel pratiği ölçekte genişletebilir, ancak akıcılığın gerçek konuşmaya aktarılabilmesi için insan etkileşimiyle eşleştirilmeleri gerekir. Bir YZ ile pratik yapmak, bir insan partnerin veremeyeceği neyi kazandırır — ve neyi kaybettirir?
 - Öğretmen desteği — yalnızca YZ aracı değil — öğrencilerin başarı hedefleri üzerinden YZ destekli dil öğreniminde katılımı yürüttüğü gösterildi. Toplumsal ve [[pedagogy|pedagojik]] bağlam, öğrenenlerin bir YZ pratik aracıyla etkileşimini sürdürüp sürdürmediğini nasıl şekillendirir?
 - Bir [[meta-analysis-systematic-review|meta-analiz]], gelişmekte olan teknolojilerden küçükten orta düzeye, düzeye bağlı kazanımlar buldu; üretken becerilerin (konuşma, yazma) alıcı olanlardan daha fazla kazanım sağladığını gösterdi. Konuşma ve yazma, dinleme ve okumadan neden daha fazla yararlanabilir?
 - YZ standart İngilizce’yi ayrıcalıklı kılıyorsa ve ana dili dışı ya da çeşitli dil örüntülerini cezalandırabiliyorsa, dil öğretmenleri değerlendirmeyi ve geri bildirimi YZ’nin dilsel çeşitliliği destekleyecek biçimde nasıl tasarlamalı — onu silmek yerine?
 
 ## Giriş
 
-Dil öğrenimi, dil doğası gereği etkileşimsel olduğu için — bu da onu konuşma tabanlı YZ için uygun kılar — ve YZ’nin dilsel yetenekleri hem fırsatlar (ölçekte [[personalized-learning|kişiselleştirilmiş dil pratiği]]) hem de riskler (ana dili dışı dil örüntülerine karşı sistematik yanlılık) doğurduğu için önemli bir Eğitimde YZ alanı olarak ortaya çıktı. Bu bilgi tabanındaki makaleler bu denklemin her iki yanını da inceler. Hedef dilin özellikle **İngilizce** olduğu durumlarda — özellikle [[english-education|Akademik Amaçlar için İngilizce (EAP)]] ve EFL/ESL/L2 İngilizce [[teacher-role|öğretimi]] — genel L2 ediniminden ve genel yazmadan İngilizce’ye özgü araştırmaları ayıran özel [[english-education]] kavram sayfasına bakın.
+Dil öğrenimi, dil doğası gereği etkileşimsel olduğu için — bu da onu konuşma tabanlı YZ için uygun kılar — ve YZ’nin dilsel yetenekleri hem fırsatlar (ölçekte [[personalized-learning|kişiselleştirilmiş dil pratiği]]) hem de riskler (ana dili dışı dil örüntülerine karşı sistematik yanlılık) doğurduğu için önemli bir Eğitimde YZ alanı olarak ortaya çıktı. Araştırma bu denklemin her iki yanını da inceler. Hedef dilin özellikle **İngilizce** olduğu durumlarda — özellikle [[english-education|Akademik Amaçlar için İngilizce (EAP)]] ve EFL/ESL/L2 İngilizce [[teacher-role|öğretimi]] — genel L2 ediniminden ve genel yazmadan İngilizce’ye özgü araştırmaları ayıran özel [[english-education]] kavram sayfasına bakın.
 
 **Dil öğretmeni ve muhatapleri olarak YZ**, en gelişmiş temadır. **[[ai-interlocutor-l2-spoken-dialogue|Muhatapları Bir YZ Olduğunda Ne Değişir?]]**, L2 öğrenenleri YZ ile insanlara kıyasla konuştuğunda etkileşimsel akıcılığı ve dilsel benimsemeyi inceler. **[[tact-pedagogically-adaptive-esl-tutoring|TACT]]** pedagojik olarak uyarlanabilir ESL özel dersi sunar. **[[llm-children-reading-story-generation]]** çocukların okuma gelişimi için YZ üretimi hikâyeleri araştırır. Bunlar [[intelligent-tutoring]] ve [[generative-ai]] ile bağlantılıdır. **[[llm-agents-5e-esl-grammar-2026|Yang, Weng ve Yang (2026)]]**, [[llm]] tabanlı iki ajan tasarladı — geleneksel bir YZ İngilizce öğretmeni ve sorgulama temelli dilbilgisi öğrenimi için **5E çerçevesini** (bağlan, keşfet, açıkla, derinleştir, değerlendir) kullanan bir diğeri. **37 ESL öğrencisiyle** rastgele bir karşılaştırmada, **yüksek performans gösteren öğrenciler YZ öğretmene olumlu yanıt verdi**, düşük performans gösteren öğrenciler ise karışık tutumlar sergiledi; koşullar içsel motivasyon, bilişsel değişim ve performans açısından farklılaştı — bu da LLM ajanı tasarımının öğrenen yeterliliğine uydurulması gerektiğini gösterir.
 
@@ -93,6 +99,8 @@ Tasarım niteliği, kullanım sıklığı değil, öğretmen tarafından oluştu
 - **Sohbet robotlarının konuşma kazanımlarına ilişkin kanıt özelliğe göre eşitsizdir.** Sorunun tek sistematik sentezinde 2021–2024 arası on çalışma en güvenilir biçimde çeşitlilik ve anlaşılabilirliği iyileştirmiş, tutarlılık bir kez incelenmiş ve etkileşim neredeyse hiç incelenmemiştir; on çalışmanın dördü tek bir bütüncül puan bildirmiştir ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez ve Belda-Medina (2026)]]).
 
 **Çeviri öğrencileri yüzeysel düzeltmeden uzaklaştırılabilir.** Bir haber çevirisi dersinde [[xian-process-visualization-feedback-news-translation-2026|Xian ve ark. (2026)]], arama motoru başvurusunun oturum süresinin medyanında %15,6’dan %27,7’ye (p = 0,020, Holm düzeltmeli) ve bilgi temelli aramanın %7,2’den %28,8’e (p = 0,010) yükseldiğini buldu. Makine çevirisi kullanımı %28,5’ten %5,1’e düştü ama anlamlılığa ulaşmadı (p = 0,338) ve etkileşimli YZ kullanımı medyanda sıfırda kaldı. Kaldıraç, bir aracı yasaklamak değil öğrencilere kendi süreçlerini göstermekti.
+
+Zhang, Aubrey, Wu ve Chiu'nun 48 kontrolü çalışmanın sentezi (N = 5.196), GenAI'nin yararının varlığa değil, yapılandırmaya bağlı olduğunu buluyor. Geri bildirim ve değerlendirme kullanımı en büyük etkiyi üretti (g = 1,15); öğretimsel bütünleştirmenin etkisi g = 0,28'dir ve öğrenen güdümlü kipler (g = 0,92) otonom olanları (g = 0,34) geride bıraktı. Okumada anlamlı bir etki yoktu ve konuşmanın çarpıcı g = 1,48'i, üç aşırı aykırı değer çıkarıldıktan sonra g = 0,65'e düştü ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang ve ark., 2026]]).
 
 ## Yaygın yanlış anlamalar
 

@@ -1,6 +1,7 @@
 ---
 title: Problem Temelli Öğrenme
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -9,13 +10,17 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
@@ -28,7 +33,7 @@ connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-cond
 ## Dikkate Alınması Gereken Sorular
 
 - Problem temelli öğrenmede, [[curriculum-design|müfredatın]] itici gücü *problemdir* — başka yerde öğretilen içeriğin bir örneği değil. Gerçek bir problemi çözerek derinden bir şey öğrendiğiniz bir zamanı hatırlayabilir misiniz?
-- Sayfa, PBL’nin özelliklerinin (problem güdümlü sorgulama, işbirliği, kolaylaştırma, yansıtma) YZ’nin bir kısayol yerine üretken bir ortak haline geldiği koşullar olduğunu savunuyor. Bunun nedeni ne olabilir?
+- PBL’nin özellikleri (problem güdümlü sorgulama, işbirliği, kolaylaştırma, yansıtma), YZ’nin bir kısayol yerine üretken bir ortak haline geldiği koşullardır. Bunun nedeni ne olabilir?
 - YZ, teslim edilen bir ürün ile onu üreten çaba arasındaki bağı koparır — “ürün-vekil olarak” sorunu. Ürün yerine süreci değerlendirmek nasıl yardımcı olur ve süreç [[assessment]] zor kılan nedir?
 - PBL, kısmen mesleki yeterliliğin rutin uygulama değil, uyarlamalı yargı gerektirdiği için tıp eğitiminde doğdu. Bu ikisi arasındaki fark nedir ve YZ, hangisini eğittiğimizi nasıl değiştirir?
 - Bir YZ şimdi “inatçı problemleri” ve karmaşık gerçek dünya vakalarını daha fazla öğrenciye erişilebilir kılabiliyorsa, meydan okumaya ulaşmak daha kolay hale geldiğinde ne kaybedilebilir?
@@ -42,11 +47,11 @@ PBL, tıp eğitiminde doğdu (McMaster Üniversitesi, 1960’lar) ve o zamandan 
 
 ## YZ çağında PBL
 
-Bilgi tabanının [[research-methods-aied|araştırması]], PBL’nin üretken YZ bütünleştirmesini düşünmenin odak noktası haline geldiğini gösterir.
+[[research-methods-aied|Araştırma]], PBL’nin üretken YZ bütünleştirmesini düşünmenin odak noktası haline geldiğini gösterir.
 
 - **PBL’nin yapısal koşulları YZ bütünleştirmesini üretken kılar.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]], PBL’nin çekirdek özelliklerinin — problem güdümlü sorgulama, işbirlikçi inşa, kolaylaştırma, [[metacognition|üst bilişsel]] yansıtma — YZ’nin çevresinden kısayol değil, [[educational-development|mesleki gelişimde]] bir ortak olarak işlev gördüğü koşullar olduğunu savunur. Uyum yapısaldır, sonradan gözlemlenen değildir: PBL, mesleki yeterliliğin rutin uygulamadan çok uyarlamalı yargı gerektirdiğine dair farkındalıktan beslenerek, YZ var olmadan önce bu koşullar çevresinde tasarlanmıştır.
 - **YZ, problem karmaşıklığının tavanını yükseltir.** Aynı argüman, YZ’nin PBL’nin ele alabileceği problem kategorisini genişlettiğini, “inatçı problemleri” ve karmaşık gerçek dünya vakalarını önceden ona ulaşamayan öğrencilere erişilebilir kıldığını savurur.
-- **Ürün-vekil sorunu.** YZ, teslim edilen bir ürün ile onu üreten [[student-engagement|katılım]] arasındaki bağı koparır — PBL’nin ele almaya iyi durumda olduğu bir sorundur; çünkü PBL yalnızca ürünü değil, *süreci* ve gösterilen anlayışı değerlendirir. Bu, PBL’yi [[authentic-assessment|özgün]] ve [[process-oriented-assessment|süreç temelli değerlendirmeye]] ve bilgi tabanının [[cognitive-offloading|aşırı bağımlılık]] literatürüne bağlar.
+- **Ürün-vekil sorunu.** YZ, teslim edilen bir ürün ile onu üreten [[student-engagement|katılım]] arasındaki bağı koparır — PBL’nin ele almaya iyi durumda olduğu bir sorundur; çünkü PBL yalnızca ürünü değil, *süreci* ve gösterilen anlayışı değerlendirir. Bu, PBL’yi [[authentic-assessment|özgün]] ve [[process-oriented-assessment|süreç temelli değerlendirmeye]] ve [[cognitive-offloading|aşırı bağımlılık]] literatürüne bağlar.
 
 Üretici YZ destekli PBL’yi proje temelli öğrenme ile birleştiren üç düzeyli meta analiz, ürün ve çözüm performansını ayrı bir modelde tutar; çünkü bu, içselleştirilmiş öğrenmeden çok insan–YZ işbirlikçi çıktısını ölçer ve bu tahmin, eleştirmenlerin bildirdiği en büyük tahmindir (g = 1,958) — ancak yalnızca altı çalışmaya dayanır ve sıfırı kesen kabaca [−0,740, 4,656] %95 tahmin aralığını taşır: yukarıdaki ürün-vekil uyarısının [[quantitative-research|nicel]] biçimi ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen ve ark. 2026]]).
 - **ChatGPT, [[scaffolding|uyarlamalı iskeleleme]] olarak.** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra ve ark. (2026)]], YZ destekli bir PBL çerçevesi içinde uyarlamalı iskeleleme olarak bütünleştirilen ChatGPT’nin, K-12’de (120 sekizinci sınıf öğrencisi) [[critical-thinking|eleştirel düşünceyi]] ve [[personalized-learning|kişiselleştirilmiş öğrenmeyi]] iyileştirdiğini gösterir. Bu, YZ’yi bir yanıt makinesi değil, PBL içinde bir destek olarak ele alır.
@@ -57,17 +62,19 @@ Bilgi tabanının [[research-methods-aied|araştırması]], PBL’nin üretken Y
 - **Kanıt sentezi.** [[educators-engagement-ai-pbl-review-2026|Amdan ve ark. (2026)]], PBL’de YZ ile eğitimcilerin katılımına dair 50 çalışmayı (2015–2024) bir [[human-ai-collaboration|insan-bilgisayar etkileşimi]] çerçevesinde [[meta-analysis-systematic-review|sistematik biçimde gözden geçirir]].
 - **Senaryo temelli PBL’de üretici YZ.** [[genai-scenario-based-healthcare-education-2026|Neto ve çalışma arkadaşları (2026)]], sağlık eğitiminde üretici YZ üzerine sistematik derlemelerinde senaryo temelli yaklaşımlar arasında problem temelli öğrenmeyi dâhil eder; [[prompt-engineering|istek metni tasarımının]] öğretimsel belirtim olarak işlev gördüğünü ve melez insan–YZ işbirliğinin tam otomasyonlu yaklaşımlardan daha iyi performans gösterdiğini bulur. Derleme, üretilen içeriğin öğretim çerçeveleriyle daha güçlü uyumlanması ve PBL bağlamlarında daha yeniden üretilebilir istek metni uygulamaları gereksinimini öne çıkarır.
 
+- **Aşamalı geri çekilme, nihai seçimi bir yargı görevine dönüştürür.** [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez ve ark. (2026)]]’de 105 ikinci sınıf mühendislik öğrencisi, bir problemi keşfetmek ve prototipler üretmek için GenAI kullandı, ardından araçları bilinçli biçimde kısıtlayan ve önceden belirlenen ölçütlerle bir çözüm seçti. Yazarlar eleştirel değerlendirmeyi araca değil bu kısıtlamaya atfediyor.
+
 - **YZ, özel öğretmenin bilgi aktarımını taşıyabilir ama grup öğrenmesinin sosyal düzenlenmesini taşıyamaz.** Dört haftalık bir farmakoloji yarı deneysel çalışmasında, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty ve Rao (2026)]], YZ aracılı PBL’nin kolaylaştırıcı yönetimindeki akademik kazanımlara eşit çıktığını (gruplar arası p = 0,474), kolaylaştırıcılı gruptaysa grup dinamiğinde (26,51’e karşı 24,74, p = 0,035) ve eleştirel düşünmede (14,75’e karşı 13,09, p < 0,001) üstünlük korunduğunu bulmuştur.
 
 ## PBL ve ilgili pedagojiler
 
-PBL, [[project-based-learning|proje temelli öğrenme]] ile yakından ilişkilidir — ikisi de öğrenci merkezli ve problem/bağlam güdümlüdür — ancak PBL, çözümü sorgulama ve bilgi inşası gerektiren kötü yapılandırılmış bir *problem* üzerinde odaklanır; proje temelli öğrenme ise somut bir *ürün* veya proje üretmeye. PBL ayrıca, problem güdümlü ve kolaylaştırmacı yapıyı paylaşan vaka temelli ve [[inquiry-based-learning|sorgulama temelli öğrenmeye]] benzerdir. Bilgi tabanının eşlemelemesinde, üretken YZ bütünleştirmesi lehindeki yapısal argüman, yalnızca PBL değil, bu özellikleri paylaşan her pedagoji için geçerlidir.
+PBL, [[project-based-learning|proje temelli öğrenme]] ile yakından ilişkilidir — ikisi de öğrenci merkezli ve problem/bağlam güdümlüdür — ancak PBL, çözümü sorgulama ve bilgi inşası gerektiren kötü yapılandırılmış bir *problem* üzerinde odaklanır; proje temelli öğrenme ise somut bir *ürün* veya proje üretmeye. PBL ayrıca, problem güdümlü ve kolaylaştırmacı yapıyı paylaşan vaka temelli ve [[inquiry-based-learning|sorgulama temelli öğrenmeye]] benzerdir. Bu eşlemede, üretken YZ bütünleştirmesi lehindeki yapısal argüman, yalnızca PBL değil, bu özellikleri paylaşan her pedagoji için geçerlidir.
 
 [[case-based-learning|Vaka temelli öğrenme]] daha yakın komşudur: hazırlanmış bir vakadan ve tanımlı bir öğretim hedefinden başlar; PBL ise problemi daha açık ve sorgulamayı öğrenci güdümlü bırakır.
 
 ## YZ bütünleştirmesi açısından PBL neden önemlidir
 
-PBL, süreci, işbirliğini ve ürün üretimi karşısında gösterilen anlayışı ön plana çıkardığı için, [[ai-literacy|sorumlu YZ kullanımı]] için doğal bir yuvadır: öğrenciler YZ’yi bir ikame olarak *ondan* değil, bir ortak olarak *onunla* öğrenir. Kolaylaştırıcının rolü ve problemin tasarımı, YZ’nin öğrenmeyi destekleyip desteklemediğini belirleyen kaldıraçlar haline gelir — bilgi tabanında yinelenen aynı [[human-in-the-loop-ai|insan gözetimi]] ve değerlendirme tasarımı kaygıları.
+PBL, süreci, işbirliğini ve ürün üretimi karşısında gösterilen anlayışı ön plana çıkardığı için, [[ai-literacy|sorumlu YZ kullanımı]] için doğal bir yuvadır: öğrenciler YZ’yi bir ikame olarak *ondan* değil, bir ortak olarak *onunla* öğrenir. Kolaylaştırıcının rolü ve problemin tasarımı, YZ’nin öğrenmeyi destekleyip desteklemediğini belirleyen kaldıraçlar haline gelir — alanda yinelenen aynı [[human-in-the-loop-ai|insan gözetimi]] ve değerlendirme tasarımı kaygıları.
 
 ### Verimli başarısızlık ve PBL
 

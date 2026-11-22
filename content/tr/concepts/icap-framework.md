@@ -1,6 +1,7 @@
 ---
 title: ICAP Çerçevesi
 created: "2026-10-14T21:18:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -8,13 +9,17 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
 connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
@@ -28,7 +33,7 @@ connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-
 
 - Bir video izleyerek veya okuyarak en son bir şey ‘öğrendiğiniz’ anı düşünün. ICAP çerçevesi bunu edilgen olarak adlandırırdı. Pasif maruziyetten aslında neyi hatırlıyorsunuz, başka birine anlatmaktan neyi?
 - ICAP katılımı edilgenden etkine, etkinden yapıcıya, yapıcıdan etkileşimliye doğru sıralar. Kullandığınız yapay zeka araçları öğrenenleri genellikle hangi düzeyde tutuyor — ve uyarlanabilir alıştırmalarda ilerlemek için tıklamak gerçek katılım sayılır yoksa yalnızca bir etkinlik midir?
-- Sayfa, en önemli sonuç doğuran dönüşümün Etkin’den Yapıcı’ya olan adım olduğunu savunuyor — bilgiyi yalnızca uygulamak yerine açıklama ya da yeni eser üretmek. Yeni bir şey üretmek neden anlayışı gerçekten değiştiren adım olabilir?
+- En önemli sonuç doğuran dönüşüm, Etkin’den Yapıcı’ya olan adımdır: bilgiyi yalnızca uygulamak yerine açıklama ya da yeni eser üretmek. Yeni bir şey üretmek neden anlayışı gerçekten değiştiren adım olabilir?
 - Bir çalışma, katılım düzeylerini etiketlemede insan uzmanların yapay zeka modellerini çok aştığını buldu. Otomatik sistemler katılımı sistematik biçimde hafife aldığında, yapay zeka tarafından üretilen ‘katılım’ ölçütlerine nasıl davranmalıyız?
 - ICAP, sizin yerinize yanıtlayan bir aracın sizi edilgen tuttuğunu, soru sorup yönlendiren bir aracın ise sizi yapıcı ve etkileşimli katılıma doğru ittiğini gösterir. Kendi öğrenenleriniz için hangi tasarım tercihini yapardınız?
 - Çerçeve hem tasarım hedefi hem de değerlendirme merceği olarak kullanılır. Öğrencilerin gerçekten katıldığını, yalnızca etkin olmadığını anlamak için ICAP’ı kendi öğretiminizde veya tasarımınızda nasıl kullanabilirdiniz?
@@ -88,6 +93,8 @@ ICAP’ın üretici, süreç düzeyinde katılıma verdiği önem, öğrencileri
 2. **Öğrenenleri kipler boyunca katılıma çekin.** Etkin [[ai-literacy|YZ okuryazarlığı]] öğretimi öğrenenleri birden çok ICAP düzeyinde — pasif maruziyet, etkin elleçleme, yapıcı üretim ve etkileşimli diyalog — katılıma çeker; öğrenme hedefine uyan kipi seçer.([[hingle-collaborative-ai-literacy-2025]])
 3. **Katılımı dürüstçe ölçün.** ICAP, araştırmacılara ve tasarımcılara gerçek bilişsel katılımı sıradan etkinlikten ayırt etmeleri için ortak bir sözlük sunar — yüzeysel [[student-engagement]]’e bir düzeltici.([[icap-cognitive-engagement-llm-agents]])
 4. **İnsan–LLM etiketleme farkını izleyin.** Katılımı kodlamak için otomatik sistemler kullanılıyorsa, eğitilmiş insanlara göre gösterdikleri sistematik yetersizlik hesaba katılmalıdır.([[icap-cognitive-engagement-llm-agents]])
+
+Görev tasarımı, yalnızca araç tasarımı değil, tavanı belirler. 40 üniversite kursunda 829 kodlanmış iplik boyunca, diyaloğun Yapıcı ya da Etkileşimli olduğu ortamlarda üretilen eserlere verilen akran değerlendirmeleri nispeten daha yüksekti ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang ve ark. (2026)]]).
 
 ## Yaygın yanlış anlamalar
 

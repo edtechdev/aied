@@ -1,7 +1,7 @@
 ---
 title: Yurttaşlık ve Siyasal Eğitim
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 audience: [instructors, curriculum designers, policymakers]
 confidence: low
 translation_of: concepts/civic-and-political-education
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,13 +21,17 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
 connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Yurttaşlık ve Siyasal Eğitim** — okulun, insanları kurumları anlamaya, kamusal sorunlar üzerine akıl yürütmeye ve özel bireyler olarak değil yurttaşlar olarak eyleme hazırlayan bölümü. [[civic-education-ai-lesson-plans|Trust vd. (2025)]] bunu ayırt edici hedefleri olan bir alan olarak ele alır: iktidarla eleştirel ilişki, çokkültürlü bakış açıları ve toplumsal sorunlar üzerine eylem. Bilgi tabanı konuyu adlandırır ama üzerine çok az kanıt barındırır.
+> **Yurttaşlık ve Siyasal Eğitim** — okulun, insanları kurumları anlamaya, kamusal sorunlar üzerine akıl yürütmeye ve özel bireyler olarak değil yurttaşlar olarak eyleme hazırlayan bölümü. [[civic-education-ai-lesson-plans|Trust vd. (2025)]] bunu ayırt edici hedefleri olan bir alan olarak ele alır: iktidarla eleştirel ilişki, çokkültürlü bakış açıları ve toplumsal sorunlar üzerine eylem. Literatür konuyu adlandırır ama üzerine çok az kanıt barındırır.
 
 ## Düşünülmesi Gerekenler
 
@@ -38,7 +42,7 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 
 ## Giriş
 
-Yurttaşlık ve siyasal eğitim, okulların insanları kamusal yaşama nasıl hazırladığını kapsar: yönetim yapıları, yurttaşların hakları ve yükümlülükleri, tartışmalı sorunlar üzerine kamusal akıl yürütme, kolektif kararlara katılım ve kamusal argümanın gerektirdiği bilgi becerileri. [[critical-media-literacy-education-2026|Santos-Albardía vd. (2025)]] hedefi araç yetkinliği değil katılımcı ve eleştirel yurttaşlık olarak tanımlar. [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] bunu yurttaşlık ve insan haklarının zaten öğretildiği Sosyal Bilimler, Coğrafya ve Yaşam Yönelimi alanlarına yerleştirir. Bu sayfa alanı tanımlar ve külliyatın ne barındırdığını kaydeder: bir yurttaşlık eğitimi literatürü değil, komşu çalışmalar.
+Yurttaşlık ve siyasal eğitim, okulların insanları kamusal yaşama nasıl hazırladığını kapsar: yönetim yapıları, yurttaşların hakları ve yükümlülükleri, tartışmalı sorunlar üzerine kamusal akıl yürütme, kolektif kararlara katılım ve kamusal argümanın gerektirdiği [[information-and-media-literacy|bilgi becerileri]]. [[critical-media-literacy-education-2026|Santos-Albardía vd. (2025)]] hedefi araç yetkinliği değil katılımcı ve eleştirel yurttaşlık olarak tanımlar. [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] bunu yurttaşlık ve insan haklarının zaten öğretildiği Sosyal Bilimler, Coğrafya ve Yaşam Yönelimi alanlarına yerleştirir. Alan, bir yurttaşlık eğitimi literatürü yerine komşu çalışmalarla tanımlanır.
 
 ## Yurttaşlık eğitimi neleri kapsar
 
@@ -54,11 +58,11 @@ Yurttaşlık eğitimi bir ezber dersi değildir. Öğrencilerden Haklar Bildirge
 
 Akademik dürüstlük, teslim edilen işin öğrencinin kendi işi olup olmadığını sorar. Yurttaşlık eğitimi ise kamusal bir iddianın doğru, atfedilebilir ve itiraza açık olup olmadığını sorar. Üretken YZ ikinci soruyu, birincinin yakalayamadığı biçimlerde zorlar.
 
-Üç mekanizma yinelenir. Birincisi, uydurma kanıt: bir model, öğrencinin bağımsız olarak denetleyemeyeceği akla yatkın bir alıntı, istatistik ya da hukuki atıf üretebilir. İkincisi, üretilmiş siyasal ikna. [[rudolph-ai-myths-critical-higher-ed|Rudolph vd. (2025)]] deepfake’leri, hedefli propagandayı ve otomatik dezenformasyonu demokrasiye yönelik tehditler olarak adlandırır. [[critical-media-literacy-education-2026|Santos-Albardía vd.]], YZ’nin ve deepfake’lerin gerçeği dezenformasyondan ayırmayı zorlaştırdığı konusunda uzman uzlaşısı bildirir. Üçüncüsü, kaynak doğrulama. Bir iddiayı bir kuruma ya da adı belirli bir yazara kadar izleyemeyen bir öğrenen, onu üreten sisteme bağımlıdır.
+Üç mekanizma yinelenir. Birincisi, uydurma kanıt: bir model, öğrencinin bağımsız olarak denetleyemeyeceği akla yatkın bir alıntı, istatistik ya da hukuki atıf üretebilir. İkincisi, üretilmiş siyasal ikna. [[rudolph-ai-myths-critical-higher-ed|Rudolph vd. (2025)]] [[ai-avatars-and-synthetic-instructors|deepfake’leri]], hedefli propagandayı ve otomatik dezenformasyonu demokrasiye yönelik tehditler olarak adlandırır. [[critical-media-literacy-education-2026|Santos-Albardía vd.]], YZ’nin ve deepfake’lerin gerçeği dezenformasyondan ayırmayı zorlaştırdığı konusunda uzman uzlaşısı bildirir. Üçüncüsü, kaynak doğrulama. Bir iddiayı bir kuruma ya da adı belirli bir yazara kadar izleyemeyen bir öğrenen, onu üreten sisteme bağımlıdır.
 
 Öğrenen aynı zamanda bir üreticidir; yetkililere yazar ve kanıt dolaşıma sokar. Yurttaşlık sorusu, YZ’nin metne yardım edip etmediği değildir. Öğrencinin iddianın arkasında durabilip duramadığı ve itirazlara yanıt verebilip veremediğidir.
 
-[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz ve Castro Samayoa (2026)]] yurttaşlık savını test terimleriyle değil siyaset kuramı terimleriyle ortaya koyar. Argümanları, eğitimin demokrasiye katkısının eleştirel değerlendirme pratiği olduğu ve üretken YZ’nin içeriği değil pratiği ortadan kaldırdığıdır. Sorgulamayı, çözümlemeyi, değerlendirmeyi ve sentezi bir modele dışarı aktarmak, hem K–12’de hem yükseköğretimde bu kapasiteleri kuran alıştırmayı kısaltır. Üç mekanizma adlandırırlar: üretken sürtünmenin kaybolması, [[automation-bias|otomasyon önyargısı]] ve okul işinin amacını görev tamamlama sayan bir verimlilik çerçevesi. Buna bağladıkları bedeller külliyattaki en büyük ve en az kanıtlanmış olanlardır: yurttaşlar doğruluk iddialarını değerlendiremediğinde otoriter hükümetlerin serpildiğini ve rejimlerin bu amaçla okuryazarlığı bastırdığını yazarlar. Çözümleri bir çift okuryazarlık ve bir tasarım taahhüdüdür — eleştirel YZ ve medya okuryazarlığı, ve üründen çok süreç. Deneme, bu sayfanın başka türlü parça parça derlediği gerekçeyi sağlar ve kendine ait hiçbir veri sunmaz.
+[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz ve Castro Samayoa (2026)]] yurttaşlık savını test terimleriyle değil siyaset kuramı terimleriyle ortaya koyar. Argümanları, eğitimin demokrasiye katkısının [[critical-thinking|eleştirel değerlendirme]] pratiği olduğu ve üretken YZ’nin içeriği değil pratiği ortadan kaldırdığıdır. Sorgulamayı, çözümlemeyi, değerlendirmeyi ve sentezi bir modele dışarı aktarmak, hem K–12’de hem [[higher-ed|yükseköğretimde]] bu kapasiteleri kuran alıştırmayı kısaltır. Üç mekanizma adlandırırlar: [[desirable-difficulties|üretken sürtünmenin]] kaybolması, [[automation-bias|otomasyon önyargısı]] ve okul işinin amacını görev tamamlama sayan bir verimlilik çerçevesi. Buna bağladıkları bedeller literatürdeki en büyük ve en az kanıtlanmış olanlardır: yurttaşlar doğruluk iddialarını değerlendiremediğinde otoriter hükümetlerin serpildiğini ve rejimlerin bu amaçla okuryazarlığı bastırdığını yazarlar. Çözümleri bir çift okuryazarlık ve bir tasarım taahhüdüdür — eleştirel YZ ve medya okuryazarlığı, ve üründen çok süreç. Deneme, başka türlü parça parça derlenen gerekçeyi sağlar ve kendine ait hiçbir veri sunmaz.
 
 [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] dürüstlük çerçevesinin kaçırdığı bir mekanizma ekler. Makale, Güney Afrika’nın YZ aracılı sınır rejiminden beş yurttaşlık dijital okuryazarlık talebi türetir: algoritmik şeffaflık, veri hakları, önyargı tanıma, haklara itiraz ve [[governance|katılımcı yönetişim]]. Bir kararın algoritmik olduğunu fark edemeyen ya da itiraz yolunu bulamayan kişi, teknik bir beceri değil bir yurttaşlık kapasitesi yitirmiştir.
 
@@ -68,17 +72,17 @@ Akademik dürüstlük, teslim edilen işin öğrencinin kendi işi olup olmadı�
 
 Yurttaşlık katkısı başka bir değerlendirme becerisi değildir. Bir iletiyi yargılamaktan kurumlar üzerine eyleme geçmeye geçiştir. Medya okuryazarlığı bir öğrenciye viral bir iddianın desteksiz olduğunu söyleyebilir. Yurttaşlık eğitimi hangi organın yetkili olduğunu, hangi erişim hakkının geçerli olduğunu, bir karara nasıl itiraz edilebileceğini ve hangi katılımın neyi değiştireceğini sorar. Nkalanga’nın beş talebi bu ikinci yarıyı en açık biçimde belirtir.
 
-Çerçeveler ilk yarıyı daha iyi kapsar. Nkalanga, DigComp 2.1’in veri okuryazarlığını ve dijital güvenliği içerdiğini ama algoritmik hesap verebilirliği yetkinlik alanlarının dışında bıraktığını bulur. Güney Afrika’nın Bilişim Teknolojileri ve Sosyal Bilimler standartları çok az dijital okuryazarlık içeriği taşır ve Coğrafya izlencesinde algoritmik sistemlere dair hiçbir şey yoktur. Sonuç, kendileri hakkında alınan bir kararı sorgulayamayan yetkin araç kullanıcılarıdır.
+Çerçeveler ilk yarıyı daha iyi kapsar. Nkalanga, DigComp 2.1’in [[statistics-and-data-science-education|veri okuryazarlığını]] ve dijital güvenliği içerdiğini ama algoritmik hesap verebilirliği yetkinlik alanlarının dışında bıraktığını bulur. Güney Afrika’nın Bilişim Teknolojileri ve Sosyal Bilimler standartları çok az dijital okuryazarlık içeriği taşır ve Coğrafya izlencesinde algoritmik sistemlere dair hiçbir şey yoktur. Sonuç, kendileri hakkında alınan bir kararı sorgulayamayan yetkin araç kullanıcılarıdır.
 
-## Bilgi tabanının tuttukları ve tutmadıkları
+## Kanıtların kapsadığı ve kapsamadığı
 
 İlgili dokuz kaynak heterojendir. Trust vd. tek büyük yurttaşlık içeriği analizini sağlar. Nkalanga birincil verisi olmayan 53 belgeyi sentezledi. Santos-Albardía vd. yedi uzmanla görüştü ve tek bir üniversitede 141 öğrenciye anket uyguladı. [[fagerlund-competency-agency-purposes-ai-education-2026|13 öğretmenle yapılan bir Finlandiya görüşme çalışması]], [[ai-education|YZ eğitimi]] anlatılarında yeterliliğin baskın olduğunu, öznelleşmenin ise somut stratejilerden yoksun olduğunu buldu. Zhai vd. bir çerçeve, Rudolph vd. bir başyazı sunar; Muñiz ve Castro Samayoa demokratik savı siyaset kuramından tartışır. [[ai-lifelong-learning-policy|Theodora ve Tselios (2026)]], [[adult-learning|yetişkin öğreniminin]] ekonomik gereksinimlere mi yoksa yurttaşlık katılımına mı hizmet ettiğini sorar. [[generative-ai-governance-education-scoping-review-2026|Elmahjub vd. (2026)]], 160 yönetişim belgesinin 92’sinde demokrasi ve hukuk devletinin anıldığını, ancak dördünde hukuki bağlayıcılık bulunduğunu bulur.
 
-Külliyat yurttaşlık ve siyasal eğitime değen dokuz kaynak barındırır ve hiçbiri yurttaşlık öğrenmesini ölçmez. Bedellerin en tam ifadesi bir çalışma değil bir denemedir ve bu bilgi tabanındaki hiçbir çalışma, YZ aracılı yurttaşlık öğretimine maruz kalan öğrencilerin daha iyi bilgilendiğini, daha katılımcı olduğunu ya da manipülasyona daha dirençli hale geldiğini test etmez.
+Yurttaşlık ve siyasal eğitime değen dokuz kaynak vardır ve hiçbiri yurttaşlık öğrenmesini ölçmez. Bedellerin en tam ifadesi bir çalışma değil bir denemedir ve bu literatürdeki hiçbir çalışma, YZ aracılı yurttaşlık öğretimine maruz kalan öğrencilerin daha iyi bilgilendiğini, daha katılımcı olduğunu ya da manipülasyona daha dirençli hale geldiğini test etmez.
 
 Boşluk belirlidir. Hiçbir şey, öğrencilerin üretilmiş bir iddiayı birincil bir kaynağa karşı doğrulayıp doğrulayamadığını, algoritmik bir kararı tanıyıp itiraz yolu bulup bulamadığını ya da denetime dayanan kamusal yazı üretip üretemediğini ölçmez. Medya okuryazarlığı anketinin hazırbulunuşluk rakamları [[self-report-measures|öz değerlendirmeye]] dayanır; dolayısıyla yetkinliği değil güveni betimler.
 
-Bir araştırma programı, yerleştirilmiş uydurmalar içeren görevlerle yurttaşlık bilgisi, kamusal akıl yürütme ve kaynak doğrulama için başlangıç ve son ölçümleri gerektirirdi. Katılım için davranışsal ölçümler, iddia doğruluğu ve atıf açısından puanlanan üretim görevleri ve öğrenenlerin bir kararı betimlemek yerine ona itiraz edip edemediğini sınayan testler gerektirirdi. Sınıf koşulları, [[teacher-education|öğretmen hazırlığı]] ve eşitlik verileri gerektirirdi; özellikle de Nkalanga’nın bilgisayar laboratuvarı olmayan yaklaşık 16.000 okul bildirdiği ve bu açığı bir [[global-south|Küresel Güney]] eşitlik sorunu olarak çerçevelediği Güney Afrika’da. O zamana kadar bu sayfa bir boşluğun haritasıdır.
+Bir araştırma programı, yerleştirilmiş uydurmalar içeren görevlerle yurttaşlık bilgisi, kamusal akıl yürütme ve kaynak doğrulama için başlangıç ve son ölçümleri gerektirirdi. Katılım için davranışsal ölçümler, iddia doğruluğu ve atıf açısından puanlanan üretim görevleri ve öğrenenlerin bir kararı betimlemek yerine ona itiraz edip edemediğini sınayan testler gerektirirdi. Sınıf koşulları, [[teacher-education|öğretmen hazırlığı]] ve [[equity-in-ai-education|eşitlik]] verileri gerektirirdi; özellikle de Nkalanga’nın bilgisayar laboratuvarı olmayan yaklaşık 16.000 okul bildirdiği ve bu açığı bir [[global-south|Küresel Güney]] eşitlik sorunu olarak çerçevelediği Güney Afrika’da. O zamana kadar var olan, bir boşluğun haritasıdır.
 
 ## Yaygın yanlış anlamalar
 

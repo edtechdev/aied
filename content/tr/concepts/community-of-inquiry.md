@@ -1,6 +1,7 @@
 ---
 title: "Sorgulama Topluluğu (CoI)"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -9,13 +10,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
 connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]
@@ -47,7 +52,7 @@ CoI, [[constructivist]] ve Deweyci pragmatist geleneklere dayanır: sorgulama so
 
 ## Çevrimiçi öğretim için bir çerçeve olarak CoI
 
-CoI, [[online-teaching-and-learning]] alanında ortaya çıkmış ve en güçlü biçimde bu alanla özdeşlemiştir. Bir çevrimiçi dersin *neden* işlediğini ya da başarısız olduğunu teşhis etmek için bir söz dağarcığı sunar: asenkron derslerde düşük [[student-engagement|engagement]] ve yalıtılma genellikle sosyal ve öğretimsel varlığın başarısızlığıdır, yüzeysel tartışma ise çoğu zaman zayıf bilişsel varlığı yansıtır. Bu durum CoI’yi, çevrimiçi ortamın yarattığı koşullar — fiziksel aynı yerde bulunuşun ortadan kalkması, kasıtlı topluluk oluşturma gerekliliği ve yüz yüze iletişimin yerini alan tartışmanın yapılandırılması — için pratik bir tasarım mercezi hâline getirir. [[generative-ai]] döneminde CoI, çevrimiçi öğretmenlerin en zor yeni sorularla yüz yüze geldiği yer aynı zamandadır: [[llm]] ajanları yazı, moderasyon yaptığında ya da yanıt verdiğinde kim "mevcut" sayılır ve makine üretimi söylem bunları taklit edebilirken üç varlık nasıl anlamlı tutulur? Bilgi tabanının çevrimiçi öğretim sayfası bu nedenle Sorgulama Topluluğu’nu, önerdiği uygulamaların sosyal varlık ve topluluk oluşturma boyutu için temel çerçeve olarak ele alır.
+CoI, [[online-teaching-and-learning]] alanında ortaya çıkmış ve en güçlü biçimde bu alanla özdeşlemiştir. Bir çevrimiçi dersin *neden* işlediğini ya da başarısız olduğunu teşhis etmek için bir söz dağarcığı sunar: asenkron derslerde düşük [[student-engagement|engagement]] ve yalıtılma genellikle sosyal ve öğretimsel varlığın başarısızlığıdır, yüzeysel tartışma ise çoğu zaman zayıf bilişsel varlığı yansıtır. Bu durum CoI’yi, çevrimiçi ortamın yarattığı koşullar — fiziksel aynı yerde bulunuşun ortadan kalkması, kasıtlı topluluk oluşturma gerekliliği ve yüz yüze iletişimin yerini alan tartışmanın yapılandırılması — için pratik bir tasarım mercezi hâline getirir. [[generative-ai]] döneminde CoI, çevrimiçi öğretmenlerin en zor yeni sorularla yüz yüze geldiği yer aynı zamandadır: [[llm]] ajanları yazı, moderasyon yaptığında ya da yanıt verdiğinde kim "mevcut" sayılır ve makine üretimi söylem bunları taklit edebilirken üç varlık nasıl anlamlı tutulur? Bu nedenle Sorgulama Topluluğu, önerilen uygulamaların sosyal varlık ve topluluk oluşturma boyutu için temel çerçevedir.
 
 ## Üretken yapay zeka baskısı altında CoI
 
@@ -70,7 +75,7 @@ Bir araç, diyalojik bir ortak ya da spekülatif bir "dördüncü varlık" olmak
 ## Pratik çıkarımlar
 
 - Üretken YZ katılımı ile sorgulama kalitesi arasındaki ilişki doğrusal değil, **insan sorumluluğuna koşulludur**: sorumluluk güçlü olduğunda yüksek ya da düşük üretken YZ katılımıyla güçlü varlık ortaya çıkabilir, sorumluluk zayıf olduğunda her iki koşulda da zayıf varlık görülür.
-- Sorgulamanın [[assessment]], parlak nihai çıktılardan **sürece duyarlı kanıtlara** kaymalıdır — istek metni yazma ([[prompt-engineering|prompting]]) ve revizyon izleri, açıklama ve atıf uygulamaları, doğrulama hamleleri ve etkileşim kayıtları. Bu, bilgi tabanının [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] değerlendirmeye ve tespit temelli yanıtlardan uzaklaşmaya yönelik daha geniş dönüşümüyle uyumludur.
+- Sorgulamanın [[assessment]], parlak nihai çıktılardan **sürece duyarlı kanıtlara** kaymalıdır — istek metni yazma ([[prompt-engineering|prompting]]) ve revizyon izleri, açıklama ve atıf uygulamaları, doğrulama hamleleri ve etkileşim kayıtları. Bu, [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] değerlendirmeye ve tespit temelli yanıtlardan uzaklaşmaya yönelik daha geniş dönüşümüyle uyumludur.
 - Pedagojik olarak öğrenenlerin, üretken YZ koşullarında özgün sorgulamayı sürdürebilmek için genellikle açık eğitime ihtiyacı vardır (örneğin betikli roller ve üretken YZ karar noktalarıyla [[simulation|simulation-based]] uygulama) — ve öğretmenler, [[ai-literacy]], [[critical-thinking|critical appraisal]] becerileri ile kalibre edilmiş [[trust-calibration|trust]] oluşturmaya bağlı olarak üretilen çıktıları nasıl sorgulayacağını modellemelidir.
 
 ## Yaygın yanlış anlamalar

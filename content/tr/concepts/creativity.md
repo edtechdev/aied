@@ -1,6 +1,7 @@
 ---
 title: "Yaratıcılık"
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -9,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
-connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -37,7 +42,7 @@ connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-c
 
 Yaratıcılık, bilişsel yelpazenin ayrışık düşünme ucunu — birden fazla olanağın üretilmesini — kapsar ve tek bir doğru çözüme varan yakınsak düşünmeyle karşıtlık oluşturur. Yapay zeka sistemleri yaratıcılık açısından özellikle önemlidir, çünkü istatistiksel üreticilerdir: birçok seçenek önerebilirler (fikir oluşturmayı desteklerler) ama aynı zamanda ortalamaya doğru eğilim gösterirler ve birçok öğrenci aynı modele bel bağladığında belgelenen fikir düzeyinde homojenleşmeyi üretirler.
 
-### Yaratıcılık ve üretken yapay zeka
+## Yaratıcılık ve üretken yapay zeka
 
 - **Büyütme:** Yapay zeka bir ayrışık düşünme ortağı olarak işlev görebilir — alternatifler üzerinde beyin fırtınası yapar, karşı argümanlar üretir ve öğrenenin düşünmeyebileceği bakış açıları sunar. Rol uzmanlaşmış [[agentic-ai|çok ajanlı]] yapılandırmalar fikir çeşitliliğini geri kazandırabilir.
 
@@ -49,7 +54,7 @@ Yaratıcılık, bilişsel yelpazenin ayrışık düşünme ucunu — birden fazl
 
 - **Yaratıcı etkenliği korumak:** öğrenenin üretken sürecini döngüde tutmak — önce taslak hazırlama rutinleri, özgün sentez talep etmek ve yapay zekanın yerini almak yerine meydan okumasını sağlamak — kalıcı öğrenme üreten yaratıcı çalışmayı korur.
 - **Sürtünme yaratıcı kazanım değildir.** Karşıt görüşlü YZ personaları grupların %38,2’sinde meydan okuyup yansıtan bir söylem yaratmış, yine de ölçülebilir bir yaratıcı performans iyileşmesi üretmemiştir; bu nedenle daha zengin etkileşim örüntüleri yaratıcılığa dair kanıt değildir ([[jin-emergent-learner-agency-implicit-hai-2026|Jin ve ark. (2026)]]).
-- **Bir K–12 saha haritası: üretken YZ çoğunlukla yaratıcılığı *geliştirir*, nadiren *ölçer*.** PRISMA yönergeli bir [[meta-analysis-systematic-review|kapsam derlemesi]], 45 çalışmayı (2017–2025) dört kullanım alanına ayırır — yaratıcılık [[assessment]] (4 çalışma), insan–YZ birlikte yaratıcılığı (3), [[stakeholders]] algıları (14) ve yaratıcılık geliştirme (34) — ve alanın ne kadar dar olduğunu gösterir: dile dayalı hikâye anlatıcılığı ve yazma neredeyse her şeyi gölgede bırakırken müzik, [[embodied-learning|gövdeleşmiş]] ve uzamsal çalışmalar ile [[equity-in-ai-education|eşitlik]] odaklı çalışmalar neredeyse yok denecek kadar azdır. Yazarlığı korumuş (sesli girdi, hikâye panosu, ayrışık “birçok seçenek” istemleri) amaca yönelik olarak oluşturulmuş [[scaffolding|iskeleler]], raftan alınan platformları geride bırakmış ve [[llm]] modelleri ayrışık düşünmeyi insan değerlendiricilere yakın düzeyde puanlamıştır; yine de yazarların kendi kaygısı bu sayfanın izlediği homojenleşmenin kendisidir — daralan dilsel çeşitlilik, üslup yakınsaması, YZ kirliliği taşıyan eğitim verisi ve birlikte yazmada [[metacognition|üstbilişsel]] tembellik — bu kaygıyı Runco’nun “yapay yaratıcılık” terimiyle açıklarlar: arkasında insan deneyimi olmadan yaratıcı görünen çıktı. Aşırı bağımlılık, algı, birlikte yaratıcılık ve [[curriculum-design|müfredat]] çalışmalarında eşit biçimde bir risk olarak yeniden ortaya çıkmıştır ([[genai-creativity-k12-scoping-review-2026]]).
+- **Bir K–12 saha haritası: üretken YZ çoğunlukla yaratıcılığı *geliştirir*, nadiren *ölçer*.** PRISMA yönergeli bir [[meta-analysis-systematic-review|kapsam derlemesi]], 45 çalışmayı (2017–2025) dört kullanım alanına ayırır — yaratıcılık [[assessment]] (4 çalışma), insan–YZ birlikte yaratıcılığı (3), [[stakeholders]] algıları (14) ve yaratıcılık geliştirme (34) — ve alanın ne kadar dar olduğunu gösterir: dile dayalı hikâye anlatıcılığı ve yazma neredeyse her şeyi gölgede bırakırken [[music-education|müzik]], [[embodied-learning|gövdeleşmiş]] ve uzamsal çalışmalar ile [[equity-in-ai-education|eşitlik]] odaklı çalışmalar neredeyse yok denecek kadar azdır. Yazarlığı korumuş (sesli girdi, hikâye panosu, ayrışık “birçok seçenek” istemleri) amaca yönelik olarak oluşturulmuş [[scaffolding|iskeleler]], raftan alınan platformları geride bırakmış ve [[llm]] modelleri ayrışık düşünmeyi insan değerlendiricilere yakın düzeyde puanlamıştır; yine de yazarların kendi kaygısı bu sayfanın izlediği homojenleşmenin kendisidir — daralan dilsel çeşitlilik, üslup yakınsaması, YZ kirliliği taşıyan eğitim verisi ve birlikte yazmada [[metacognition|üstbilişsel]] tembellik — bu kaygıyı Runco’nun “yapay yaratıcılık” terimiyle açıklarlar: arkasında insan deneyimi olmadan yaratıcı görünen çıktı. Aşırı bağımlılık, algı, birlikte yaratıcılık ve [[curriculum-design|müfredat]] çalışmalarında eşit biçimde bir risk olarak yeniden ortaya çıkmıştır ([[genai-creativity-k12-scoping-review-2026]]).
 - **Birlikte yaratıcılık bir ağ etkisidir, bireysel bir özellik değil:** [[trikonet-trivalence-co-creativity-2026|Ruhland (2026)]], Eylem–Ağ Kuramı’ndan yararlanarak yaratıcılığı sosyoteknik ağların ortaya çıkan bir özelliği olarak modeller — insan ve insan olmayan eylemciler arasında dengeleme, dengeyi bozma ve yeniden dengelemenin üçlü bir oyunu; [[generative-ai|üretken yapay zeka]] ajanları eşit, yapılandırıcı ağ katılımcıları olarak ele alınır. [[pedagogy|Pedagojik]] [[ai-avatars-and-synthetic-instructors|avatarların]] yaratıcı bir ağda birlikte tasarlandığı bir çalışmada, avatar tasarımları bireysel yaratıcı eylemler değil, öğrenciler, [[research-methods-aied|araştırmacılar]] ve tasarım araçları arasındaki çeviri süreçlerinden doğmuştur. TriKoNet, hazır YZ avatarlarının yaratıcı [[agency]] etkenliği makine kaynaklı kolaylığa doğru kaydırma riskini (“Kolaylık Tuzağı”) çerçeveler ve [[learners]] ile YZ’nin eylem yapısını birlikte oluşturmanın birlikte yaratıcılığı koruduğunu savunur.
 - **Önce düşünme işbirliği bağımsız yaratıcılığı sürdürür:** Wong ve Qiu (2026), kendi fikirlerini ChatGPT’yi kullanmadan *önce* üreten öğrencilerin (“önce düşün, ChatGPT sonra” protokolü) desteklenen görevde yakın dönemde bir yükselme göstermediğini, yine de sonradan yardımsız bir yaratıcılık görevinde hem serbest-YZ grubunu hem de yalnızca insan grubunu geride bıraktıklarını bulmuştur. ChatGPT’yi serbestçe kullanmak yalnızca geçici bir performans üretmiş ve destek kaldırıldığında bu performans çökmüştür — öğrenme olmayan, [[cognitive-offloading|Aşırı Bağımlılık]] biçiminde bir sonuç — buna karşılık kendi *fikirlerini* iyileştirmeyi hedefleyen işbirlikçi [[human-ai-collaboration|birlikte yaratıcılık]], bağımsız yaratıcılıkta kalıcı kazanımlar sağlamıştır. Bu, yaratıcı etkenliği korumanın yalnızca istenen bir şey değil, YZ destekli çalışmayı öğrenmeye dönüştüren şey olduğuna dair doğrudan deneysel kanıt sunar.
 
@@ -63,7 +68,9 @@ Ulusal bir anket bu örüntüyü karmaşıklaştırır: 5.764 Çinli üniversite
 - **Gövdeleşme eşit biçimde ödeme yapmaz.** Yüksek yaratıcılıklı bir modelle eşleştirilen fiziksel bir robot, özgünlüğu insan–insan ve metin tabanlı işbirliğine göre belirgin biçimde artırmış; insan ve metin tabanlı koşullar ise görsellik ve ses alanında avantajını korumuştur — robotun YZ’nin çıktısını stilini geliştirmeden büyüttüğü bir gövdeleşme paradoksu ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]]).
 - **Yapay zeka çağında insan yaratıcılığını yeniden doğrulamak.** Üretken yapay zekanın yükselişi, eğitim alanlarını insan yaratıcılığının değerini yeniden doğrulamaya çağırır. Sanat ve tasarım eğitimi için [[project-based-learning|proje tabanlı]] bir dijital [[storytelling-in-education|hikâye anlatıcılığı]] çerçevesi, açıkça YZ’nin yoksun olduğu duygusal, kültürel ve anlatısal kapasiteleri geliştirmek üzere tasarlanmıştır; öğrenciler yerel kültürel mirattan [[multimodal]] anlatılar üretmiştir — bu da yaratıcılığı YZ bütünleşmeli öğrenmede belirgin biçimde insana özgü katkı olarak konumlandırır.
 
-### Alanlar arasında yaratıcılık
+**Öğretmenler yaratıcılığı bağlama göre farklı okuyabilir.** İki ülkeli bir çalışmada [[zhang-teachers-judge-creativity-genai-2026|Zhang ve ark. (2026)]], Çin ve ABD’deki 654 yükseköğretim öğretmeninden GenAI destekli öğrenci yapıtlarının yaratıcılığını değerlendirmelerini istedi. Yenilik, çözümleme, estetik ve duyuşsal boyut ortak bir değerlendirme çekirdeği oluştururdu, ancak örneklemler ipuçlarına farklı ağırlık verdi — Çinli öğretmenler çeşitliliğe ve aktarılabilirliğe, ABD’liler ilhama ve duyuşa daha fazla ağırlık verdi — yazarlar bu farkı temiz bir kültürel etkiden çok bağlamla ilişkili olarak okuyor. Pratik nokta: yapıtın yaratıcılığını yargılamak, yaratıcılığı öğrenciye atfetmekle aynı şey değildir ve yapıt YZ ile yapıldığında ikisi ayrışır.
+
+## Alanlar arasında yaratıcılık
 
 Yaratıcılık tek ve tek biçimli bir yeti değildir — yazmada, görsel sanatta, [[math-education|matematikte]] ve bilişimde farklı biçimlerde gerçekleşir ve üretken yapay zeka her alanın yaratıcı süreciyle farklı biçimlerde etkileşir. Bu farklılıkları anlamak, her alanın çekirdek yaratıcı eylemini koruyan değil, atlayan YZ destekli öğrenme tasarlamak açısından önemlidir.
 
@@ -75,7 +82,9 @@ Yaratıcılık tek ve tek biçimli bir yeti değildir — yazmada, görsel sanat
 
 - **Üretken YZ tasarım akışı performansı korurken yaratıcı güveni düşürebilir.** 36 öğrencili bir mimari tasarım karşılaştırmasında, üretken YZ görüntü üretimi tasarım performansında, bilişsel yükte ve göreve özgü yaratıcı öz yeterlilikte emsallerine eşit düzeyde kalmış, yine de *genel* yaratıcı öz yeterlilik düşmüştür (DiD = −0,543, %95 GA [−1,068, −0,017]) — görev desteği ile kendi yaratıcılığına güven birbirinden ayrışabilir ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao ve ark. (2026)]]).
 
-### Yaratıcılığı uygulamaya geçirmek
+- **Taklit ile tasarım arasında köprü olarak görsel hikâye anlatımı.** Biyolojiden ilham alan bir tasarım dersinde 20 öğrenci, biyolojik kaynak malzemeyi görsel hikâyelere dönüştürmek için YZ görsel araçlarını kullandı; beş eserin analizi, biyolojik fikri görsel parlaklıktan çok anlatının taşıdığını ve öğrencilerin görsel üslubu anlam için seçtiğini buldu ([[malkani-paul-ai-steam-visual-storytelling-2026|Malkani ve ark., 2026]]).
+
+## Yaratıcılığı uygulamaya geçirmek
 
 Bu bulgular boyunca yinelenen tasarım ilkesi, **öğrenenin kendi üretken eylemini döngüde tutmaktır** — bu eylem bir fikir üretmek, bir yapıt üzerinde yineleme yapmak ya da bulunan bir örneği genişletmek olsun — ve yapay zekayı onun yerine geçen değil, meydan okuyup genişleten bir ayrışık düşünme ortağı olarak kullanmaktır.
 
@@ -83,7 +92,7 @@ Bu bulgular boyunca yinelenen tasarım ilkesi, **öğrenenin kendi üretken eyle
 - **Geliştiriciler ve tasarımcılar için:** yineleme döngüsünü görünür kılıp ödüllendiren araçlar kurun — yapıyı gösterin (Flowcode’un akış şemasının yaptığı gibi), “ilk çıktıyı yayına al” anına [[desirable-difficulties|verimli sürtünme]] ekleyin ve tek bir parlak yanıt yerine alternatifler ve eleştiriler sunun. Araç bir sonraki en iyi sürümü zahmetsiz hâle getirdiğinde, önemli olan kararlar yine de öğrenenin yaratıcı kararları olsun.
 - **Araştırmacılar için:** yaratıcılığı [[discipline-specific-aied|alana özgü]] ve sonuca özgü ele alın — kazanımların [[transfer-of-learning|aktarılıp]] yakınsak ya da yardımsız görevlere taşınıp taşınmadığını ölçün, yalnızca desteklenen çıktının daha yaratıcı görünüp görünmediğini değil. Ölçüm boşluğu alanın en keskin sorunudur: 45 çalışmalık K–12 derlemi dahilinde yalnızca dört değerlendirme çalışması biçimsel bir yaratıcılık ölçütü kullanmış, çoğu çalışma yapıyı hiç tanımlamamış ve yaratıcı *süreç* — hazırlık, kuluçka, aydınlanma, doğrulama — esasen ölçülmemiştir. Bu nedenle derlemenin reçetesi önce ölçümdür: yaratıcılığı açık uçlu görevlerin içinde kanıt merkezli tasarım ve gizli [[assessment]] yoluyla göze batmadan puanlayın ve yaratıcı [[self-efficacy]] öz yeterliliği ima edilen bir yan etki olarak değil, sonucun bir parçası olarak ele alın ([[genai-creativity-k12-scoping-review-2026]]).
 
-### Bağlantılar
+## Bağlantılar
 
 Yaratıcılık, [[critical-thinking]] ile ve [[constructivist]] öğrenmeyle bağlantılıdır. Öğrenmeyi koruyan aynı [[reducing-ai-misuse]] [[scaffolding|iskeleler]] ile ve cilalı ürünlere göre özgün akıl yürütmeyi ödüllendiren [[authentic-assessment]] tasarımlarıyla korunur.
 

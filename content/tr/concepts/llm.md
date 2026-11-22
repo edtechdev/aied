@@ -9,7 +9,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
 connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -35,7 +40,7 @@ connected_articles: [assessing-quality-ai-generated-exams-field-2025, educationa
 
 ## Giriş
 
-### AIED’in motoru olarak LLM’ler
+## AIED’in motoru olarak LLM’ler
 
 LLM’ler, neredeyse her YZ eğitim uygulamasının temelini oluşturdukları için bilgi tabanında en çok atıf yapılan kavramdır (60+ makale):
 
@@ -53,7 +58,7 @@ LLM’ler, neredeyse her YZ eğitim uygulamasının temelini oluşturdukları i�
 - **Doğrulamanın üretimden ayrılması — ilişkili başarısızlık biçimleriyle.** [[eduguard-safe-rag-llm-tutor|Hossain ve ark. (2026)]], özel ders robotunun erişimini öğretim elemanının onayladığı ders materyaliyle sınırlar ve iddiaları mimarî olarak ayrı bir DeBERTa-v3-large-MNLI doğrulayıcısından geçirir; ancak her iki modelin de geniş web eğitimini paylaştıklarını ve ilişkili biçimlerde başarısız olabileceklerini, ayrıca doğrulayıcının bir kod izini çalıştırmadan denetleyemeyeceğini belirtir.
 - **Değerlendirme model dönüşümü (2017–2024):** Kısa yanıtlı [[science-education|bilim]] sorularının otomatik notlandırmasına ilişkin Morley ve ark. kapsam derlemesi, alanın 2021’e kadar baskın olan daha küçük [[educational-nlp|BERT]] modellerini ince ayarlamaktan, kabaca 2022’den itibaren daha büyük LLM’leri (GPT-1/2/3.5/4) istek metniyle yönlendirmeye doğru hareketini izler — ince ayar yerine [[prompt-engineering]] yoluyla benimsenir — alanla zenginleştirilmiş modeller, değerlendirme ölçeğine duyarlı istek metni ve düşünce zinciri ise doğruluğu yükseltir. Yine de GPT modelleri standart derlemlerde BERT’e karşı nadiren kıyaslanmış, az sayıdaki otomatik notlandırıcı notlarını açıklayabilmiş ve [[bias-mitigation|önyargı]] seyrek incelenmiştir; bunlar LLM değerlendirmesine genel olarak uygulanan uyarılardır ([[auto-marking-short-answer-science-2026]]).
 
-### Modele özgü araştırma
+## Modele özgü araştırma
 
 Bilgi tabanı hem genel amaçlı LLM’leri (GPT-4, Claude) hem de eğitime özgü uyarlamaları kapsar. [[cstutorbench-slm-tutors|Küçük dil modeli kıyasları]], özel ders desteği için SLM performansını karşılaştırır. [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev ve ark. (2026)]], SLM’lerin belirleyici araçların yükünü taşıdığı araç geliştirilmiş planlayıcılar olarak konumlandırıldığında [[agentic-ai|ajan]] özel ders için mimari açından uygun olduğunu savunur — pedagojik denetim modelde değil, yükseltme politikasında bulunur. [[educational-llm-alignment|Eğitimsel uyum]] araştırması, LLM’leri pedagojik olarak uygun kılmanın nasıl mümkün olduğunu ele alır. Üç öncü model ailesini içeren bir sınıf çalışması — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] — ChatGPT, Gemini veya Claude’un tartışmacı yazımda işbirlikçi eleştiri eşi olarak hareket edebileceğini bulmuştur: bir dönem boyunca yinelemeli kompozisyonlarda öğrenciler argüman kalitesi, [[prompt-engineering|istek metni mühendisliği]] ve YZ geri bildirimine [[ai-feedback-quality|yanıt verme]] konusunda her birinde kabaca tam bir standart sapma gelişme göstermiştir (tümü p < .001) ve derin biçimde katılım göstermiştir (LLM iddialarının %87,8’ini çürüterek); bu durum genel amaçlı LLM’leri salt cevap üreteçleri değil uygulanabilir [[collaborative-learning|işbirlikçi öğrenme]] eşleri olarak konumlandırır.
 

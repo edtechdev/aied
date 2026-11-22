@@ -1,6 +1,7 @@
 ---
 title: İyi Olma Hali
 created: "2026-10-14T21:38:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -10,13 +11,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T11:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
 connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
@@ -28,9 +33,9 @@ connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotio
 
 ## Ele Alınması Gereken Sorular
 
-- Eğitimde iyi olma hali sıklıkla öğrenme çıktılarının yanında "yumuşak" veya ikincil bir kaygı olarak ele alınır. Ancak sayfa onu YZ bütünleşmesinin merkezi, tasarlanabilir bir boyutu olarak çerçeveliyor. Öğrenen ve öğretmen iyi olma halini tasarlanacak bir şey olarak mı düşünüyorsunuz, yoksa sonradan kontrol edebileceğiniz bir yan ürün olarak mı? Onu ikinci plana atmak alanın nelerini kaybetmesine yol açabilir?
+- Eğitimde iyi olma hali sıklıkla öğrenme çıktılarının yanında "yumuşak" veya ikincil bir kaygı olarak ele alınır. Ancak bu, YZ bütünleşmesinin merkezi, tasarlanabilir bir boyutudur. Öğrenen ve öğretmen iyi olma halini tasarlanacak bir şey olarak mı düşünüyorsunuz, yoksa sonradan kontrol edebileceğiniz bir yan ürün olarak mı? Onu ikinci plana atmak alanın nelerini kaybetmesine yol açabilir?
 - YZ kullanımının kendi öğrencilerinizin güvenini, kaygısını, aidiyet duygusunu veya failliğini — iyiye ve kötüye — nasıl etkilediğini düşünün. YZ, yalnızca kolaylığın ötesinde, öğrenme veya öğretmenliğin duygusal deneyiminizi somut olarak nasıl değiştirdi?
-- Sayfa, YZ kullanımının kaygıyla iç içe geçtiğini not eder — akademik dürüstlük, YZ'ye bel bağlamanın zayıflık mı işareti olduğu, aşırı bağımlılık konusunda. YZ'nin kaygıyı azaltmak yerine nerede doğurduğunu gördünüz ve o durumda en çok kim etkilendi?
+- YZ kullanımı kaygıyla iç içe geçmiştir: akademik dürüstlük, YZ'ye bel bağlamanın zayıflık mı işareti olduğu, aşırı bağımlılık konusunda. YZ'nin kaygıyı azaltmak yerine nerede doğurduğunu gördünüz ve o durumda en çok kim etkilendi?
 - Yaygın bir sezgisel yargı, YZ'nin zor görevleri üstlenerek stresi azalttığıdır. Bunun tersinin doğru olduğu yerler neler olabilir — kısa vadeli çabayı düşüren, ancak yetkinlik, dürüstlük ya da "gerçekten nasıl yapılacağını bilmemek" konusunda kaygıyı artıran YZ? İyi olma halindeki bir değişimi yalnızca çıktıdan farklı olarak nasıl ölçerdiniz?
 - İyi olma hali duygusal, psikolojik (amaç, [[agency|özerklik]], yetkinlik) ve sosyal (aidiyet, ilişkiler) boyutları kapsar. Bunlardan birini seçin. Bir YZ aracı onu bir öğrenme ortamında nasıl sessiz sedasız iyileştirebilir veya baltalayabilir — ve kanıt olarak ne arardınız?
 - Öğretmen iyi olma hali — iş yükü, yıkıcı teknoloji konusundaki kaygı, duygusal destek sunma kapasitesi — öğrencilerinki kadar tehlike altındadır. Eğitimci veya lider iseniz, YZ bütünleşmesinin baskıya eklemek yerine eğitimcilerin iyi olma halini desteklemesi neyi gerektirirdi ve bunun hesabını kim vermeliydi?
@@ -39,7 +44,7 @@ connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotio
 
 Eğitimde iyi olma hali çok yönlüdür: duygusal iyi olma halini (olumlu duygu durumu, düşük sıkıntı), psikolojik iyi olma halini (amaç, özerklik, yetkinlik) ve sosyal iyi olma halini (aidiyet, olumlu ilişkiler) içerir. YZ çağında iyi olma hali önemlidir, çünkü YZ öğrenmeyi bu boyutları etkileyen biçimlerde yeniden şekillendirebilir — öğrencilerin güvenini düşürmekten ve [[academic-integrity|akademik dürüstlük]] konusunda kaygıyı artırmaktan, [[student-engagement|katılımı]] ve aidiyeti beslemeye veya baltalamaya kadar. Öğrencilerin sosyo-duygusal becerileri, iyi olma hali, sosyalleşme yetisi ve güven ile empati duygusu üzerindeki YZ etkisine ilişkin kaygılar (OECD ve başkaları tarafından dile getirilen), iyi olma halini sorumlu YZ bütünleşmesinde kilit bir değerlendirme ölçütü olarak konumlandırmıştır.
 
-### İyi olma hali araştırmada nasıl görünür
+## İyi olma hali araştırmada nasıl görünür
 
 - **[[ai-literacy|YZ okuryazarlığı]] ve sosyo-duygusal öğrenme:** [[sec-ai-literacy-narrative-review-2026|SEC'yi YZ okuryazarlığına bütünleştiren araştırma]], eğitimcilerin ve öğrencilerin duygusal zekâsını ve iyi olma halini beslemenin YZ aracılı [[sociocultural-learning|öğrenme]] ortamlarında yön bulmak için gerekli olduğunu savunur ve [[social-emotional-learning]] ile YZ'nin duygusal boyutlarına bağlanır.
 - **YZ kaygısı ve öğrenci deneyimi:** Öğrencilerin YZ ile etkileşimi üzerine yapılan çalışmalar (örn. [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT temelli araştırma]]), YZ kullanımının kaygı, güven ve güvenle iç içe geçtiğini; öğrencilerin iyi olma halinin akademik dürüstlük, [[creativity]] ve [[cognitive-offloading|aşırı bel bağlama]] konusundaki kaygılardan etkilendiğini bulur.
@@ -53,6 +58,10 @@ Eğitimde iyi olma hali çok yönlüdür: duygusal iyi olma halini (olumlu duygu
 - **Duygusal destek veren öğretmen iyi olma hali için otomatik olarak daha iyi değildir.** Cebir öğretmenine eklenen bir LLM farkındalık katmanı, her iki grupta durum matematik kaygısını azalttı; ancak yalnızca bilişsel ipuçları ve geri bildirimden daha fazla değil, gerçi öğrenciler farkındalıklı aracı daha destekleyici buldu — algılanan ilgiyi iyi olma hali sonucu olarak okumamaya ilişkin bir uyarı ([[mindful-llm-math-tutoring-2026|Rief ve ark., 2026]]).
 - **YZ kaygısı, uyum ve bağımlılık iyi olma hali sinyalleri olarak:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang ve ark. (2026)]], büyük bir Çin örneğinde YZ kaygısının, azalmış [[metacognition|duygu düzenlemesi]] yoluyla kısmen (cinsiyetle modere edilerek) akademik motivasyonla olumsuz biçimde ilişkili olduğunu bulur; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]], [[language-learning|Japonca]] öğrenenlerinin, teknoloji stresi ve dayanıklılık tarafından yönlendirilen ve bir dönem boyunca daha iyi uyuma doğru kaymalı uyumsuz, ılımlı ve olumlu psikolojik uyum profillerine ayrıştığını gösterir; ve [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]], [[conversational-ai]] etkileşiminin (yalnızlık, kaygı, düşük iyi olma hali) enine kesit ilişkilerinin sonuç olarak okunmaması gerektiği ve destekleyici ile zararlı deneyimlerin bir arada var olduğu konusunda uyarıyor.
 
+**Dört haftalık rastgele deney, tasarım seçimlerinin iyi olma halini hareket ettirmediğini, ancak zamanın hareket ettirdiğini buldu.** [[fang-chatbot-psychosocial-extended-use-2025|Fang ve ark. (2025)]], 981 yetişkini 28 gün boyunca GPT-4o kullanımı için arayüz (metin, nötr ses, ilgi çekici ses) ve konu (açık uçlu, kişisel olmayan, kişisel) dokuz birleşiminden birine atamıştır. Hiçbir işlem yalnızlığı, gerçek dünyadaki sosyalleşmeyi, duygusal bağımlılığı ya da sorunlu kullanımı anlamlı biçimde değiştirmedi; bu, Yan’ın uyardığı o ilişkiler üzerine şimdiye değin en güçlü deneysel sınavdır. Gönüllü günlük süre, dört sonucun tamamını zararlı yönde öngördü ve bota güvenen ya da onu arkadaş olarak gören kullanıcılar en bağımlı olanlardı; süre rastgele atanmadığı için yön hâlâ açıktır.
+
+**Boylamsal veriler aynı yöne işaret eder, ancak bir ölçüm uyarısıyla.** [[folk-dunn-chatbot-companionship-loneliness-2026|Folk ve Dunn (2026)]], dört Batı ülkesinde 2.149 yetişkini 12 ay kapsayan dört ankette izledi. Tek maddelik duygusal yalıtım ölçümünde, daha ağır sohbet robotu kullanımı dört ay sonra daha fazla yalnızlığı (β = 0,07 ile 0,08) ve yalnızlığın daha fazla kullanımı (β = 0,06) öngördü. 20 maddelik sosyal bağlantı ölçeğinde ise yalnızca ikinci yön kaldı: daha az bağlı hissetmek daha fazla kullanımı öngörürken (β = −0,09 ile −0,07), kullanım sonraki bağlantıyı anlamlı biçimde öngörmedi (p = ,369). Yazarlar analizleri keşfedici olarak adlandırıyor ve bu ayrışma, yalnızlığı birden fazla yolla ölçme gerekliliği için bir gerekçe.
+
 - **YZ bağı kurmanın koruyup korumadığı çevrim dışı ilişkilere bağlıdır.** [[ai-connectedness-adolescent-mental-health-2026|Fu ve Zhao (2026)]], ruh sağlığı etkilerinin geleneksel çevrim dışı bağlılığa göre YZ bağlılığını izlediğini, yalnızca onun yoğunluğunu değil — gerçek dünya bağları kimlik onaylama ihtiyaçlarını karşıladığında tamamlayıcı, [[parents-and-families|bakım verenler]] karşılamadığında telafi edici — ve ikisi arasında ters-U biçiminde bir ilişki öngördüğünü öne sürer.
 - **Kültürel olarak [[situated-learning|durumsal]] iyi olma hali desteği ve onun sınırları:** [[culturally-aware-student-stress-chatbot-2026|Bashir ve Afzal (2026)]], bir Random Forest stres sınıflandırıcısını (üç önem düzeyi üzerinde %89,09 doğruluk; 20 anket özelliği), Stepped Care Model ile uyumlu biçimde üç kademede ton ve destek yoğunluğunu yükselten bir [[llm]] diyalog katmanıyla eşleyen, Pakistanlı üniversite öğrencileri için hibrit bir iyi olma hali sistemi olan Sukoon'u betimler. Sistem, sıkıntıyı Urdu veya Roman Urdu ile dile getiren ve akademik, mali, ailevi ve ilişkisel stresörlere aynı anda yüz yüze gelen öğrenciler için Batı tasarımı ruh sağlığı araçlarının İngilizce dilli ve kültürel olarak uyuşmadığı düşünülerek kuruldu; yazarlar, bunun bir [[medical-education|klinik]] tanı veya terapi aracı olmadığını, yüksek sıkıntı yanıtlarının profesyonel psikolojik danışmanlığa yönlendirmesi gerektiğini ve sohbet robotu katmanının öğrencilerle kültürel uygunluk veya duygusal güvenlik açısından henüz değerlendirilmediğini açıkça belirtir.
 - **Öğretmen iyi olma hali ve rolü:** YZ'nin [[teacher-role|öğretmenler]] üzerindeki etkisi — iş yükü, yıkıcı teknolojiyle öğretme konusundaki kaygı ve duygusal destek sunma kapasitesi dahil — [[teacher-ai-competency]] ve [[educational-development|profesyonel gelişim]] ile bağlantılı yinelenen bir kaygıdır.
@@ -62,7 +71,9 @@ Eğitimde iyi olma hali çok yönlüdür: duygusal iyi olma halini (olumlu duygu
 - **Etik ve sorumlu YZ:** İyi olma hali, [[ai-education]] içinde temel bir etik değerlendirme ölçütüdür ve [[ethics]] ile, YZ'nin öğrenenlerin ruh sağlığını ve aidiyetini destekleyecek biçimde tasarlanması gerekliliğiyle bağlantılıdır.
 - **Tespit aracı kaygısı bir iyi olma hali riski olarak.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]], güvenilmez [[ai-detection|YZ tespiti]] iddiaları korkusundan kaynaklanan kaygıyı "flagxiety" olarak adlandırır — ve bilişsel özgünlüğün suçlu sayılabildiği, marjinalleştirilmiş devam eğitimi öğrenenlerinin, bilişsel kapanışı tetikleyebilecek düzenlenmemiş bir arayüz yerine ilişkisel düzenlemeye ihtiyaç duyduğunu savunur.
 
-### Tasarım ölçütü olarak iyi olma hali
+**Öğretmenler için yetkinlik, yalnızca iş doyumu üzerinden iyi olma haline ulaşır.** [[kayali-ai-literacy-tpack-wellbeing-2026|Kayalı ve ark. (2026)]], 350 görev başındaki öğretmeni modellemiş ve [[ai-literacy|YZ okuryazarlığının]] her AI-TPACK bileşenini güçlü biçimde beslediğini (β = 0,65 ile 0,73), ancak bileşenlerin doyumda ayrıldığını bulmuştur: YZ teknolojik içerik bilgisi onu yükseltmiş (β = 0,41) tek başına teknik bilgi ise düşürmüştür (β = −0,30). Doyum daha sonra etkiyi duygusal, psikolojik ve sosyal iyi olma haline taşımıştır (β = 0,42, 0,68 ve 0,57) ve hiçbir doğrudan yol ayakta kalmamıştır — ancak model doyumun yalnızca %11’ini açıklamaktadır.
+
+## Tasarım ölçütü olarak iyi olma hali
 
 Yinelenen bir tema, iyi olma halinin eğitimde YZ'de sonradan akla gelen bir şey değil, bilinçli bir tasarım ölçütü olması gerektiğidir. Bu şu anlama gelir: YZ'yi insan ilişkilerini destekleyecek biçimde tasarlamak; öğrencilerin faillik ve güvenini korumasını sağlamak, onların [[anxiety-and-stress|YZ kaynaklı kaygı]] veya aşırı bel bağlama yaşamasına izin vermemek; YZ'yi bütünleştirirken eğitimcilerin kapasitesini ve iyi olma halini desteklemek; ve [[ai-ed-evaluation|YZ sistemlerini]] yalnızca [[learning-gains|öğrenme çıktıları]] için değil, öğrencilerin ve öğretmenlerin iyi olma hali üzerindeki etkileri için de değerlendirmek. [[research-methods-aied|Araştırma]], iyi olma halini [[motivation]], [[self-regulated-learning]] ve [[student-experience]] (aidiyet ve katılım) ile bağlar. [[daoism-ai-education-philosophy-2026|Xie (2026)]] buna uygun bir eğitimsel telos savunur: Taoist "Zhenren" (真人) karşı-ideali, sürtünmesiz iyileştirmeyi "yetiştirilmiş bütünlük" ile değiştirir, öğrenmeyi benlik, toplum ve kozmosun uyumlu bütünleşimi olarak yeniden kurgular ve "hiçbir öğrenci yalnızca yönetilecek bir veri kümesi değil, huzur aşamasına ulaşmaya muktedir bir bütündür" ısrarında bulunur.
 
@@ -70,7 +81,7 @@ Yinelenen bir tema, iyi olma halinin eğitimde YZ'de sonradan akla gelen bir şe
 
 Kavramsal bir yeniden çerçeveleme, [[self-regulated-learning|duygu düzenlemesi]] desteğini yalnızca duygu tespitinden ziyade fiziksel aktivite ve kampüs ekolojisine dayandırır: hiçbir tek ifade kanalı bağlam olmadan sıkıntıyı tanımlamaz; bu nedenle YZ düzenlemeyi egzersiz yoluyla desteklemeli, yorumlamayı öğretmenler ve rehberlik uzmanları sürdürmeli, ve duygu izleme devam veya not vermeye bağlandığı anda zorlayıcı hale gelir ([[ai-emotion-regulation-sport-exercise-2026|Zhang ve ark., 2026)]]).
 
-### İlgili kavramlarla bağlantılar
+## İlgili kavramlarla bağlantılar
 
 İyi olma hali, [[student-experience]] (öğrenenlerin genel deneyiminin bir boyutu olarak), [[social-emotional-learning]] ve [[affective-computing]] (YZ'nin kesiştiği duygusal yetkinlikler), [[ethics]] (temel bir etik değerlendirme ölçütü olarak), [[motivation]] ve [[self-regulated-learning]] (iyi olma hali bunları destekler ve bunlarla desteklenir), [[teacher-ai-competency]] (eğitimcilerin kapasitesi ve iyi olma hali) ve YZ'nin iyi olma halini şekillendirdiği ortamlar olarak [[higher-ed]] ve [[k-12]] ile bağlantılıdır.
 
@@ -81,5 +92,5 @@ Duygusal destek ile bağlantı tek bir örneklem içinde zıt yönlerde hareket 
 ## Yaygın yanlış anlamalar
 
 - **“Öğrenci onayı, iyi olma halinin desteklendiğini gösterir.”** **551 birinci yılı öğrencisi** arasında **%82,76'sı dijital ve akıllı içeriğin bütünleşmesini onayladı** ve **yüksek onay sıkıntıyla bir arada bulundu, YZ görev baskısı ise yararı zayıflattı**. Onay ile sıkıntı birlikte yükselir, bu nedenle memnuniyet anketleri tam da burada yanıltıcıdır.
-- **“Refah desteği kültürel olarak nötrdür.”** [[culturally-aware-student-stress-chatbot-2026|Bashir ve Afzal (2026)]], hibrit bir iyi olma hali destek aracı olan Sukoon'u **kültürel olarak durumsal** olarak tanımlar ve sayfanın kendi çerçevelemesi sınırlarını not eder. Evrensel bir öğrenci varsayan bir destek tasarımı nüfusu yanlış okur.
+- **“Refah desteği kültürel olarak nötrdür.”** [[culturally-aware-student-stress-chatbot-2026|Bashir ve Afzal (2026)]], hibrit bir iyi olma hali destek aracı olan Sukoon'u **kültürel olarak durumsal** olarak tanımlar ve çalışmanın kendi çerçevelemesi sınırlarını not eder. Evrensel bir öğrenci varsayan bir destek tasarımı nüfusu yanlış okur.
 - **“Görev baskısı teknolojiden ayrıdır.”** Bulgu, YZ **görev baskısının** bütünleşmenin yararını zayıflattığıdır; bu da iş yükünü teknolojinin etkilerinin yanında değil içinde konumlandırır.

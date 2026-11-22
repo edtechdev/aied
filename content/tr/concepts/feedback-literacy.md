@@ -1,6 +1,7 @@
 ---
 title: Geri Bildirim Okuryazarlığı
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -9,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
-connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, yuan-genai-feedback-writing-self-regulation-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -36,9 +41,11 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 
 Geri bildirim okuryazarlığı, iyi tasarlanmış geri bildirimin yalnızca onu yorumlayıp üzerine hareket edebilen öğrencilere yardımcı olması nedeniyle önemlidir. YZ tarafından üretilen geri bildirimin doğru olup olmadığını değerlendiremeyen ya da geri bildirimi somut bir revizyona nasıl dönüştüreceğini bilmeyen bir öğrenci, aynı geri bildirimden okuryazarlığı daha yüksek bir akranından çok daha az öğrenir. YZ geri bildirim sunumunu yeniden şekillendirdikçe, geri bildirim okuryazarlığı YZ geri bildiriminin öğrenmeyi iyileştirip iyileştirmediğine ilişkin merkezi bir sınır koşulu haline gelmiştir.
 
-### Geri bildirim okuryazarlığı nedir
+[[corbin-recognition-feedback-2026|Corbin, Tai ve Flenady (2026)]], tanınırlığı okuryazarlığın önüne koyar: bir öğrenci, geri bildirim sağlayıcısına rehberlik etmesi için yetki tanımalı ve kendisine de yanıt verme yetkisi tanınmış olmalıdır; yoksa okuryazarlığın üzerinde çalışacağı bir zemin kalmaz.
 
-Geri bildirim okuryazarlığı yaygın biçimde birbiriyle ilişkili yetenekler kümesi olarak çerçevelenir — geri bildirime değer verme, yargıda bulunma, duyguları yönetme ve eyleme geçme kapasitesi (Carless ve Boud’dan sonra). Bilgi tabanının makaleleri geri bildirim okuryazarlığını birkaç yetenek çevresinde toplar:
+## Geri bildirim okuryazarlığı nedir
+
+Geri bildirim okuryazarlığı yaygın biçimde birbiriyle ilişkili yetenekler kümesi olarak çerçevelenir — geri bildirime değer verme, yargıda bulunma, duyguları yönetme ve eyleme geçme kapasitesi (Carless ve Boud’dan sonra). Literatür geri bildirim okuryazarlığını birkaç yetenek çevresinde toplar:
 
 - **Geri bildirim arama ve çıkarma** — onu pasif biçimde almak yerine etkin biçimde geri bildirim talep etmek.
 - **Yargıda bulunma** — YZ tarafından üretilen geri bildirim de dâhil olmak üzere geri bildirimin doğruluğunu ve yararlılığını değerlendirmek.
@@ -47,7 +54,7 @@ Geri bildirim okuryazarlığı yaygın biçimde birbiriyle ilişkili yetenekler 
 - **Geri bildirim üzerine hareket etmek** — geri bildirimi somut revizyonlara veya yaklaşımdaki değişikliklere dönüştürmek ([[feedback|Feedback Loop]], [[self-regulated-learning]]).
 - **Değerlendirme otoritesini yargılamak** — [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] tarafından öne sürülen bir başka kapasite: geri bildirime değer verme, yargıda bulunma, duyguları yönetme ve eyleme geçmenin yanında, YZ tarafından üretilen geri bildirim üzerine akıl yürüten öğrencilerin geri bildirim niteliğini yargılamaktan ayrı olarak *hangi kaynağın değerlendirme otoritesine sahip olduğunu* yargılaması gerekiyordu. Katılımcılara hem notu hem geri bildirimi ChatGPT ürettiği söylendiğinden, geri bildirim okuryazarlıkları yalnızca içerik üzerinde değil, değerlendirmenin kaynağı ve meşruiyeti üzerinde çalıştı ve pasif kabul yerine öğretim elemanı doğrulaması talepleri üretti.
 
-### Geri bildirim okuryazarlığı araştırmada nasıl görünüyor
+## Geri bildirim okuryazarlığı araştırmada nasıl görünüyor
 
 - **YZ geri bildiriminin değerini dengeleyici biçimde etkileyen geri bildirim okuryazarlığı:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]], geri bildirim okuryazarlığının ChatGPT kabulü ile [[self-regulated-learning]] arasındaki bağlantıyı dengeleyici biçimde etkilediğini gösterir: okuryazarlığı daha güçlü olan öğrenciler YZ geri bildiriminden daha büyük öz-düzenlemeli öğrenme yararı algılar, okuryazarlığı daha zayıf olanlar ise asgari hatta olumsuz ([[cognitive-offloading|Over-Reliance]]) etkiler gösterir. Geri bildirim okuryazarlığı, öğrencilerin YZ geri bildirimini “anlamlandırıp anlamlandıramayacağı”na ilişkin bir sınır koşuludur.
 
@@ -78,22 +85,23 @@ Geri bildirim okuryazarlığı yaygın biçimde birbiriyle ilişkili yetenekler 
 - **YZ okuryazarlığının ve [[assessment|değerlendirme tasarımının]] hedefi olarak geri bildirim okuryazarlığı:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]], öğrencilerin ChatGPT çıktısını bir rubriğe karşı eleştirdiği, geri bildirim, psikolojik ve YZ okuryazarlıklarını birlikte kuran bir süreç-ürün-üzerine değerlendirme kullanır; [[learner-centered-feedback-ai|learner-centered AI feedback]] ve [[care-full-feedback-genai|care-full feedback design]] geri bildirim niteliğini öğrenenin etkileşime geçme kapasitesine bağlar.
 
 - **Geri bildirim okuryazarlığı öğretilebilir ve YZ alıştırma malzemesini sağlayabilir.** Kavramsal bir kılavuz, eğitmenlerin tüm ölçütleri karşılayan, bir kısmını karşılayan ve hiçbirini karşılamayan derecelendirilmiş bir YZ çalışma örneği yelpazesi üretmesini, ardından öğrencileri örneklenmiş eleştiri, yönlendirilmiş sınıf analizi ve bağımsız değerlendirme yoluyla yönlendirmesini önerir ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington ve Hock (2026)]]).
+- **YZ geri bildirimiden öz-düzenlemeye giden yol geri bildirim okuryazarlığıdır.** 520 Çinli lisans öğrencisiyle yapılan iki dalgalı bir çalışmada [[yuan-genai-feedback-writing-self-regulation-2026|Yuan (2026)]], üretken YZ geri bildirimi kullanımı ile sonraki yazma öz-düzenlemesi arasındaki ilişkinin %32,4’ünün geri bildirim okuryazarlığı tarafından taşındığını, buna karşılık düşük yazma kaygısı yoluyla yalnızca %9,1’inin taşındığını bulmuştur.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], geri bildirim okuryazarlığını uygulama yoluyla geliştirilebilir bir kapasite olarak ele alır: yorum üretmek için üretken YZ ile diyalojik biçimde çalışan İngilizceyi yabancı dil olarak öğrenen akran değerlendiricileri, yalnızca sundukları yorumları değil, geri bildirimi yargılama ve kullanma kapasitelerini de geliştirmiştir.
-
-**Geri bildirim okuryazarlığı, insan kaynağı kadar makine kaynağını da kapsamalıdır.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman ve ark. (2026)]], öğrencilerden aynı taslak üzerine akran geri bildirimi ile sohbet robotu geri bildirimini aynı yansıtma içinde değerlendirmelerini ister; bu da karşılaştırmanın kendisini öğrenme görevi hâline getirir. Öğrencileri sohbet robotunun otoritesini bir öğretim elemanınınkine kıyasla düşürmüştür ve yazarlar bu düşürmeyi isteksizlik değil okuryazarlık olarak okumaktadır.
-
-### Geri bildirim okuryazarlığı neden Eğitimde YZ açısından önemli
+## Geri bildirim okuryazarlığı neden Eğitimde YZ açısından önemli
 
 YZ, geri bildirimi hem değerlendirim okuryazarlığının oyununu yükselten iki yönde değiştirir. Birincisi, YZ geri bildirimin *hacmini ve anlıklığını* belirgin biçimde artırır ([[ai-feedback-quality]], [[feedback|Feedback Loop]]), dolayısıyla öğrenciler sınıflandırıp değerlendirmek zorunda oldukları çok daha fazla geri bildirimle karşılaşır. İkincisi, YZ tarafından üretilen geri bildirim ayırt edilebilir riskler taşır — hatalılık, [[hallucination-risk|hallucination]] ve “ustalık yanılsaması” — bu da [[critical-thinking|critical evaluation]] becerileriyle Aşırı Bağımlılık ve [[llm-fallacy-misattribution|misattribution]] konusundandaki tetikte olmayı gerekli kılar. Geri bildirim okuryazarlığı bu nedenle [[ai-literacy]] çekirdek bir bileşeni haline gelir: yalnızca bir YZ’den geri bildirim için nasıl istek metni yazılacağını değil, geri bildirimin üzerine hareket etmeye değip değmeyeceğini ve onu görev tamamlamadan çok gerçek öğrenmeye nasıl dönüştüreceğini bilmeyi kapsar.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman and colleagues (2026)]] bu listeye bir başka talebi ekliyor. Atölye çalışmalarında öğrenciler tek bir geri bildirim kaynağını yönetmiyor, bir ağı yönetiyordu: eğitimci yorumlarını YZ çıktısına, rubriklere, ders materyallerine ve akranlara karşı tarttılar ve insan geri bildirimi yavaş geldiğinde, onları yanıltmışsa sonra düzeltmek üzere bir bekleme düzeni olarak YZ ile çalışmaya devam ettiler. Yazarlar, öğrencilerin bu ilişkileri granüler görevden daha geniş yörüngeye kadar yöneterek kendi “döngüde insanları” olarak davranabileceklerini düşündürüyor — bu da başlı başına bir geri bildirim okuryazarlığı kapasitesidir. Yazarların uyarısı şudur: öğrencileri doğrulanmamış kaynaklara iten, ince veya geciken eğitimci yorumlarıdır.
 
-### İlgili kavramlarla bağlantılar
+## İlgili kavramlarla bağlantılar
 
 Geri bildirim okuryazarlığı [[ai-feedback-quality]] ve [[feedback|Feedback Loop]] (tamamladığı sunum tarafı), [[formative-assessment]] (beslediği değerlendirme döngüsü) ve [[self-regulated-learning]] (desteklediği [[self-assessment]] ve uyum) ile bağlantılıdır. YZ tarafından üretilen geri bildirime uygulandığında [[ai-literacy]]’nin bir alt kümesidir, işbirlikçi bağlamlarda [[peer-assessment]] ile kesişir ve özellikle [[writing-education]] için sonuç açısından önemlidir. Ayrıca [[metacognition]] ve [[trust-calibration]] — geri bildirimin güvenilir olup olmadığına karar verme yeteneği — ile de bağlantılıdır.
 
 Geri bildirim üzerine hareket etmek, ürünü iyileştirmekle aynı şey değildir. 22 matematik öğretmeni adayı arasında, YZ ve akran geri bildirimini seçici biçimde kabul etmek normdu (44 bölümden 32’sinde), oysa yalnızca beşi tasarladıkları görevin niteliğini iyileştirdi — yazarların geri bildirim kullanımından çok [[evaluative-judgment|değerlendirici yargıya]] bağladığı bir çeviri boşluğu ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], geri bildirim okuryazarlığını uygulama yoluyla geliştirilebilir bir kapasite olarak ele alır: yorum üretmek için üretken YZ ile diyalojik biçimde çalışan İngilizceyi yabancı dil olarak öğrenen akran değerlendiricileri, yalnızca sundukları yorumları değil, geri bildirimi yargılama ve kullanma kapasitelerini de geliştirmiştir.
+
+**Geri bildirim okuryazarlığı, insan kaynağı kadar makine kaynağını da kapsamalıdır.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman ve ark. (2026)]], öğrencilerden aynı taslak üzerine akran geri bildirimi ile sohbet robotu geri bildirimini aynı yansıtma içinde değerlendirmelerini ister; bu da karşılaştırmanın kendisini öğrenme görevi hâline getirir. Öğrencileri sohbet robotunun otoritesini bir öğretim elemanınınkine kıyasla düşürmüştür ve yazarlar bu düşürmeyi isteksizlik değil okuryazarlık olarak okumaktadır.
 
 ## Yaygın yanlış anlamalar
 

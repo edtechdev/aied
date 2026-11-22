@@ -8,7 +8,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,8 +16,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
 connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -26,12 +32,12 @@ connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cog
 
 ## Düşünülmesi Gereken Sorular
 
-- İşte sayfanın belgelediği çarpıcı bir örüntü: öğrenciler YZ destekli görevlerde sıklıkla anında kazanımlar gösterir, ama YZ kaldırıldığında bu kazanımlar yok olabilir — hatta tersine dönebilir. Açıklamaları okumadan önce, o anda açıkça yardım eden bir aracın neden sonunda öğrencileri onsuz daha kötü durumda bırakabileceğini düşünüyorsunuz?
+- İşte çarpıcı bir örüntü: öğrenciler YZ destekli görevlerde sıklıkla anında kazanımlar gösterir, ama YZ kaldırıldığında bu kazanımlar yok olabilir — hatta tersine dönebilir. Açıklamaları okumadan önce, o anda açıkça yardım eden bir aracın neden sonunda öğrencileri onsuz daha kötü durumda bırakabileceğini düşünüyorsunuz?
 - Bir öğretmen, hesap makinesi veya asistanla yapmayı öğrendiğiniz ve sonra tek başınıza yapmak zorunda kaldığınız bir şeyi hatırlayın. Beceri aktarıldı mı, yoksa yardıma bağımlı mı hissettiniz? İyi aktarılan deneyimler ile aktarılmayanlar arasında farklı olan neydi?
 - Yaygın bir sezgidir ki "pratik pratiktir" — bir görevi yardımla yapmak, onu tek başına yapmakla aynı beceriyi inşa eder. Bu sezgi nerede yanıltıcı olabilir, özellikle yardım sizi sürecin içinden geçirmek yerine muhakemeyi sizin yerinize tamamlayan bir YZ olduğunda?
-- Sayfa "bir teknolojinin içindeki etkiler" ile "onun etkisi" arasında bir ayrım çizer — aracı kullanırken daha iyi performans göstermek ile onsuz daha yetkin hale gelmek. Eğitimci, tasarımcı veya öğrenciyseniz, bunlardan hangisi gerçek hedefiniz ve bunu başardığınızı nasıl anlardınız?
+- "Bir teknolojinin içindeki etkiler" ile "onun etkisi" ayrımı şudur: aracı kullanırken daha iyi performans göstermek ile onsuz daha yetkin hale gelmek. Eğitimci, tasarımcı veya öğrenciyseniz, bunlardan hangisi gerçek hedefiniz ve bunu başardığınızı nasıl anlardınız?
 - Kanıt, ne kadar bilişsel işi devrettiğinizin önemli olduğunu düşündürür: dilbilgisi gibi yüzeysel görevleri dış kaynaklığa yüklemek, derin muhakeme ve yapıyı devretmekten daha az aktarımı zedeler. Bir ödevde en son YZ kullandığınız zamanı düşünün. Hangi "katmanı" devrettiniz ve seçiminiz neyi hatırlayacağınız hakkında ne öngörüyor?
-- Sayfa, olumlu aktarımı destekleyebilecek koşullar önerir — [[pedagogy|pedagojik]] [[guardrails]], sönen destek, öğrenenin hazırbulunuşluğuna kalibrasyon. Bir YZ öğrenme aracı tasarlıyor (veya onun kullanıcısı) olsaydınız, kullanım sırasındaki kazanımların onsuz kalıcı bir yeteneğe dönüşmesini sağlamak için ısrarla neyi şart koşardınız?
+- Olumlu aktarımı destekleyebilecek bazı koşullar vardır: [[pedagogy|pedagojik]] [[guardrails]], sönen destek, öğrenenin hazırbulunuşluğuna kalibrasyon. Bir YZ öğrenme aracı tasarlıyor (veya onun kullanıcısı) olsaydınız, kullanım sırasındaki kazanımların onsuz kalıcı bir yeteneğe dönüşmesini sağlamak için ısrarla neyi şart koşardınız?
 
 ## Giriş
 
@@ -96,7 +102,7 @@ Bu, pedagojik koruyucu raylara sahip öğreticiliğe özgü araçların genel am
 3. **Bireysel farklar:** Yüksek [[prior-knowledge]] sahip öğrenciler acemilere göre daha az aktarım kaybı mı yaşar?
 4. **Beceri düzeltme:** Açık "YZ-kapalı" pratik seansları araç bağımlılığını tersine çevirebilir mi?
 
-Zaman ölçeği sorusunun artık bir biçimselleştirmesi var. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]], yardım çekildikten sonraki aralığı bilişsel yıkanma olarak adlandırır ve ona dört aday sonuç verir: esnek geri sıçrama, kısmi plato, gizil iskele ve aşırı toparlanma. Makale, ciddiyeti belirleyen şeyin geri döndürülebilirlik olduğunu savunur ve bunu ölçmek için ön kayda açık üç kollu, yirmi iki haftalık bir protokol önerir. Yukarıdaki çalışmalar aktarımı yardım sona erdikten saatler sonra sınamıştı; dolayısıyla sonraki haftalar, bu sayfanın ilk açık sorusunun gerçekten ölçülmemiş kısmıdır.
+Zaman ölçeği sorusunun artık bir biçimselleştirmesi var. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]], yardım çekildikten sonraki aralığı bilişsel yıkanma olarak adlandırır ve ona dört aday sonuç verir: esnek geri sıçrama, kısmi plato, gizil iskele ve aşırı toparlanma. Makale, ciddiyeti belirleyen şeyin geri döndürülebilirlik olduğunu savunur ve bunu ölçmek için ön kayda açık üç kollu, yirmi iki haftalık bir protokol önerir. Yukarıdaki çalışmalar aktarımı yardım sona erdikten saatler sonra sınamıştı; dolayısıyla sonraki haftalar, ilk açık sorunun gerçekten ölçülmemiş kısmıdır.
 
 ### İlgili kavramlarla bağlantılar
 
@@ -104,7 +110,7 @@ Zaman ölçeği sorusunun artık bir biçimselleştirmesi var. [[cognitive-washo
 
 ## Yaygın yanlış anlamalar
 
-**“YZ destekli görevlerdeki kazanımlar aktarılabilir öğrenmeyi gösterir.”** Bilgi tabanının bulduğu örüntü bunun tersidir: burada sentezlenen **beş çalışmanın tümü**, müdahale genel amaçlı YZ olduğunda **olumsuz ya da sıfır aktarım** bildirmiştir; alıştırma notları daha yüksek olan lise matematik öğrencileri kapalı kitap finallerinde **yaklaşık %17 daha kötü** puan almış ve bir kompozisyon yazma çalışmasında öğrencilerin **%83’ü kendi alıntılarını hatırlayamamıştır**. Anlık destekli performans, mevcut en az aktarılabilir ölçüdür.
+**“YZ destekli görevlerdeki kazanımlar aktarılabilir öğrenmeyi gösterir.”** Kanıtın bulduğu örüntü bunun tersidir: burada sentezlenen **beş çalışmanın tümü**, müdahale genel amaçlı YZ olduğunda **olumsuz ya da sıfır aktarım** bildirmiştir; alıştırma notları daha yüksek olan lise matematik öğrencileri kapalı kitap finallerinde **yaklaşık %17 daha kötü** puan almış ve bir kompozisyon yazma çalışmasında öğrencilerin **%83’ü kendi alıntılarını hatırlayamamıştır**. Anlık destekli performans, mevcut en az aktarılabilir ölçüdür.
 
 **“Bir öğrenci bunu YZ ile yapabiliyorsa, yapabiliyordur.”** Bu, başarısızlığın yokluğu değil tanımıdır. Aktarım, yeteneğin desteğin kaldırılmasından sonra varlığını sürdürmesini gerektirir ve kaldırmayı sınayan çalışmalar yeteneğin araçta olduğunu bulmuştur. Akıl yürütme başka bir yerde yürütülürken bir yapıt üretebilen öğrenen, farklı bir beceride eğitilmiştir: aracı işletmek.
 

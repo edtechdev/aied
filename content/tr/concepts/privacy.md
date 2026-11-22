@@ -2,6 +2,7 @@
 connected_resources: [drawsplat]
 title: Gizlilik
 created: "2026-10-14T21:38:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -10,13 +11,17 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
 connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
@@ -31,13 +36,13 @@ connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextu
 - Hangi öğrenci verisinin sizin hakkınızda toplanmasından rahatsız olurdunuz — öğrenmenizi iyileştirse bile? Kişiselleştirme nerede gözetime dönüşür?
 - Birçok öğrencinin, zorunlu kılınmış bir platformu kullanmaktan başka “anlamlı bir seçeneği” yoktur; bu da rızayı biçimsel kılar. Toplananın ne olduğunu ve nedenini gerçekten anlamadan bir şeye rıza gösterdiğiniz oldu mu? Bilgilendirilmiş rıza aslında neyi gerektirirdi?
 - Uyarlamalı, kişiselleştirilmiş öğrenmeyi güçlendiren aynı öğrenen verisi, kötüye kullanım ve zarar riski de yaratır. Bir miktar gizlilikle değiş-tokuşa razı olacağınız bir kişiselleştirme faydası — ve aşmayacağınız çizgi — adlandırabilir misiniz?
-- Sayfa, gizlilik önlemlerinin “yalnızca bazı öğrencileri koruyacak biçimde varsayılan olabileceğini” uyarıyor. Hangi öğrenciler en çok ifşa olabilir ve gizlilik, eşitlik ile [[bias-mitigation|adalet]] ile nasıl bağlantılıdır?
+- Gizlilik önlemleri, “yalnızca bazı öğrencileri koruyacak biçimde varsayılan olabilir.” Hangi öğrenciler en çok ifşa olabilir ve gizlilik, eşitlik ile [[bias-mitigation|adalet]] ile nasıl bağlantılıdır?
 - Sürekli YZ gözetimi — iyi niyetli olsa bile — davranışı ve [[anxiety-and-stress|kaygı]]yı şekillendirebilir. İzleniyor olmanın davranışınızı ne zaman değiştirdi ve bu, sınıftaki YZ algılaması hakkında ne öneriyor?
 - Çocuklar için gizlilik, veri korumasının ötesine geçerek güvenliğe uzanır. Genel amaçlı güvenlik araçları neden reşit olmayanlardan kaynaklanan eğitimle ilgili riskleri yakalayamayabilir ve kim sürece dâhil olmalıdır?
 
 ## Giriş
 
-Gizlilik, eğitimde güvenilir YZ’nin ön koşuludur. YZ sistemleri veriyle iyileşir — [[personalized-learning|kişiselleştirme]] ayrıntılı öğrenen profilleri, [[learning-analytics|öğrenme analitiği]] ayrıntılı etkileşim günlükleri ve [[llm-training-and-fine-tuning|ince ayarlanmış özel ders modelleri]] özgün öğrenen–özel öğretmen dökümleri gerektirir — bu nedenle uyarlamalı, ölçeklenebilir eğitimi mümkün kılan aynı veri, gözetim, kötüye kullanım ve zarar riski de yaratır. Bilgi tabanı gizliliği [[ethics]] (normatif çerçeve), [[regulation]] (yasal gereksinimler), [[governance]] (kurumsal sorumluluk) ve [[equity-in-ai-education|eşitlik]] (kim korunur, kim ifşa olur) ile ayrılmaz biçimde ele alır. Gizlilik makaleleri dört yinelenen sorun çevresinde kümellenir: ölçekte toplama, rıza ve şeffaflık, güvenlik ve anonimleştirme ve çocuklara özgü korumalar.
+Gizlilik, eğitimde güvenilir YZ’nin ön koşuludur. YZ sistemleri veriyle iyileşir — [[personalized-learning|kişiselleştirme]] ayrıntılı öğrenen profilleri, [[learning-analytics|öğrenme analitiği]] ayrıntılı etkileşim günlükleri ve [[llm-training-and-fine-tuning|ince ayarlanmış özel ders modelleri]] özgün öğrenen–özel öğretmen dökümleri gerektirir — uyarlamalı, ölçeklenebilir eğitimi mümkün kılan kapasite, aynı zamanda gözetim, kötüye kullanım ve zararı da mümkün kılandır. Gizlilik, [[ethics]] (normatif çerçeve), [[regulation]] (yasal gereksinimler), [[governance]] (kurumsal sorumluluk) ve [[equity-in-ai-education|eşitlik]] (kim korunur, kim ifşa olur) ile ayrılmazdır. Gizlilik makaleleri dört yinelenen sorun çevresinde kümellenir: ölçekte toplama, rıza ve şeffaflık, güvenlik ve anonimleştirme ve çocuklara özgü korumalar.
 
 ## Temel gizlilik sorunları
 
@@ -67,20 +72,26 @@ Gizlilik, eğitimde güvenilir YZ’nin ön koşuludur. YZ sistemleri veriyle iy
 
 - **Sohbet arayüzleri konuşmanın kendisini sızdırır.** 42 YZ sohbet platformunu denetleyen [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos ve ark. (2026)]], 21’inin konuşma başlıklarını üçüncü taraf izleyicilere gönderdiğini ve yedi eğitim platformunun her birinde ortalama yaklaşık 367 izleyici isteği bulunduğunu, beşinin bağlam sızdırdığını bulmuştur.
 
+- **Yetkinlik ve yetki ayrı ayrı başarısızlığa uğrar.** Öğrenen verisini koruma alanında bir Hipotez ve Kuram çerçevesi iki zıt başarısızlığı adlandırır: bir gizlilik sorununu fark eden ancak bu konuda harekete geçmek için yetkisi ya da onaylanmış bir alternatifi olmayan öğretmenler ile, öğretmenlerin gereksiz bilgi açıkladığı veya desteksiz çıkarımları kabul ettiği koruyucu hizmetler sunan kurumlar ([[kaziya-learner-data-privacy-governance-2026|Kaziya & Lungu (2026)]]). Bu çerçeve, öğrenen verisini toplama, aktarma, çıkarım yapma veya açıklama kararının her birini analiz birimi sayar; kanıtlanmış yetkinlik ile kurumsal olanak sağlama ayrı ayrı ölçülür.
+
 ## Çocuk güvenliği ve K-12 korumaları
 
 [[k-12]] ortamları, öğrenenler reşit olmadığı için daha güçlü gizlilik önlemleri gerektirir. Bu, gizliliği veri korumasının ötesine taşıyarak [[pedagogical-safety]] uzanır: çocukların kullandığı araçlar yalnızca verilerini korumamalı, aynı zamanda onları zarardan korumalıdır. [[child-safety-genai|Çocuk güvenliği araştırması]], genel amaçlı güvenlik sınıflandırıcılarının çocuklardan gelen eğitimle ilgili güvensiz istek metinlerini sıklıkla tespit edemediğini ve okulların standart model önlemlerinin daha genç kullanıcıları koruduğunu varsayamayacağını — çocuğa özgü değerlendirme, olaya dayalı sınama ve [[human-in-the-loop-ai|insan gözetimi]] gerektiğini — uyarır. Bu çerçeveleme, gizliliği [[equity-in-ai-education|eşitlik]] ile bağlar: varsayılan güvenlik ve gizlilik uygulamalarıyla kimin korunduğu, bir sistemin kimin güvenliğini ve özerkliğini pazarlık dışı saydığını yansıtır.
+
+- **Yaş eşikleri sözleşmeye değil, yasaya bağlıdır.** Şartları “13 yaş ve üzeri” diyen bir ürün COPPA’dan böylece kaçınmaz: kural, bir hizmet çocuklara yönelik olduğunda ya da sağlayıcının bir kullanıcının 13 yaşından küçük olduğunu gerçekten bildiğinde işler; bu yüzden yaş taraması ve veri minimizasyonu satıcının metninde değil, konuşlandırma şartlarında yer almalıdır. GDPR’nin 8 ve 12. maddeleri altında karşılaştırılabilir taban, doğrulanabilir ebeveyn rızası için genellikle 16’dır ve yaşa uygun bildirim gerekir ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
 
 ## Pratikte gizlilik
 
 - **Gizliliği bir politika sonrası düşüncesi değil, tasarım gereksinimi olarak ele alın.** [[teachlm-post-training-llms-education|TeachLM]] örneği, rıza, anonimleştirme ve güvenli veri ele almanın veri hattının kendisine inşa edilebileceğini gösterir — [[intelligent-tutoring|YZ özel ders uygulamalarını]] etkili kılan özgün verinin etik kaynaklandırılması için bir model.
 - **Veri minimizasyonu için tasarlayın.** Etkileşim verisini varsayılan olarak biriktirmek yerine yalnızca uyarlamanın gerektirdiğini toplayan yaklaşımları (uç/federe YZ, cihaz üzerinde işleme) yeğleyin. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati ve ark. (2026)]], bunun [[cognitive-diagnosis]] için somut bir feder biçimini gösterir: birden çok ticari [[llm]] API’si, bir araya getirmeden önce her modelin tahminine yerel olarak ε-yerel diferansiyel gizlilik gürültüsü ekleyerek teşhisde işbirliği yapar, böylece hiçbir sağlayıcı ham öğrenci verisini görmez — hassas öğrenen yörüngelerini merkezîleştirmeden [[intelligent-tutoring|YZ özel ders uygulamasını]] işlevsel kıtan, gizliliği koruyan bir mimari. Feder öğrenme ayrıca **veri paylaşımı olmadan kurumlar arası analitik** olanağı verir: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch ve ark. (2026)]], feder araya getirme yoluyla kurumlar arasında çok görevli bir akademik risk modeli eğitir; ham öğrenen verisi yerel kalır ve yalnızca model parametreleri paylaşılır — veri egemenliğini korurken kurumlar arası örüntüleri yakalayan, merkezî [[learning-analytics]] işbirlikçi, gizliliği koruyan bir alternatif.
+- **Kimliği yönetmek yerine ortadan kaldırın.** [[intelligent-tutoring|YZ özel ders uygulaması]], öğrencilerin hesaba gerek duymadığı ve profil bırakmadığı biçimde inşa edilmiştir: gizlilik modeli, kimlik riskini sonradan yönetmek yerine ortadan kaldıran bir tasarım seçimidir ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). Çoğu gizlilik önerisi kurumlardan denetleme, minimizasyon ve rıza istemektedir; bu daha ucuz yapısal bir alternatiftir ve bir aracın öğrenenin kim olduğunu bilmesine gerek kalmadığı her yerde geçerlidir.
+- **Kiracılığı pedagojiden önce seçin.** Wells (2026), öğrenci çalışmalarının kurumun Microsoft 365 ortamı içinde kalması için sosyoloji araştırma asistanı pilotunu bir kamu sohbet robotu yerine üniversite lisanslı Copilot üzerinde yürüttü ve erişimi beş ünitelik bir eğitim modülü ile geçme notu %80 olan beş maddelik bir sınav arkasına kilitledi ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). Gizlilik denetimi ile yetkinlik eşiği tek bir konuşlandırma kararı olarak birlikte yayına alındı.
 - **Açık ve bilgilendirilmiş rızayı güvence altına alın.** Öğrenen verisinin YZ geliştirmesini veya iyileştirmesini finanse ettiği yerlerde, kurumlar toplama, saklama ve kullanım konusunda şeffaf olmalı ve öğrencilerin zorunlu platformlar yerine gerçek seçenekleri olmalıdır.
 - **Kimin korunduğunu denetleyin.** Gizlilik önlemleri yalnızca bazı öğrencileri koruyacak biçimde varsayılan olmamalıdır; [[equity-in-ai-education|eşitlik]], aynı özenin yaş, dil, engellilik ve sosyoekonomik hatlar boyunca geçerli olmasını gerektirir.
 
 ## Bağlantılar
 
-Gizlilik, [[learning-analytics]] (veri toplayıcı), [[personalized-learning]] (veri tüketicisi), [[k-12]] (güçlendirilmiş korumalar), [[ethics]] (normatif çerçeve), [[regulation]] (yasal gereksinimler), [[governance]] (kurumsal sorumluluk), [[equity-in-ai-education]] (kim korunur), [[pedagogical-safety]] (çocuk koruma) ve [[educational-policy-ai]] bağlanır. Eğitimde her sorumlu YZ konuşlandırmasının karşılaması gereken temel kısıtlardan biridir — bilgi tabanının çerçevelemesinde güvenilir YZ’nin güvenilir veriyle başlamasının gerekçesi.
+Gizlilik, [[learning-analytics]] (veri toplayıcı), [[personalized-learning]] (veri tüketicisi), [[k-12]] (güçlendirilmiş korumalar), [[ethics]] (normatif çerçeve), [[regulation]] (yasal gereksinimler), [[governance]] (kurumsal sorumluluk), [[equity-in-ai-education]] (kim korunur), [[pedagogical-safety]] (çocuk koruma) ve [[educational-policy-ai]] bağlanır. Eğitimde her sorumlu YZ konuşlandırmasının karşılaması gereken temel kısıtlardan biridir: güvenilir YZ’nin güvenilir veriyle başlamasının gerekçesi.
 
 ## Yaygın yanlış anlamalar
 

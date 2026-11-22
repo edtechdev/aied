@@ -9,13 +9,18 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
 connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
@@ -56,6 +61,8 @@ Bilimsel çalışmalar birkaç değişim yönetimi kaldıracında birleşmektedi
 **Değerlendirme reformu**, merkezî bir değişim yönetimi mücadelesi alanıdır. [[ai-assessment-scale-reform|YZ Değerlendirme Ölçeği çalışması]], çerçeve uygulamasının bölümler arası tutarsızlıklar, iş yükü baskıları ve belirsizlik nedeniyle sekteye uğradığını; personelin süreci "biraz kaos ve delilik" olarak betimlediğini gösterir. [[ethical-ai-higher-ed-game-theory|Koordinasyon oyunu modeli]], politika beyanlarının tek başına neden yetersiz kaldığına dair biçimsel bir açıklama sunar: öğrencilerin YZ kullanımı kolektif bir norm oluşum sürecidir ve yansıtıcı değerlendirme teşviklerinde yapılan küçük, iyi ayarlanmış değişiklikler, sorumlu kullanıma yönelik hızlı, tüm kohortu kapsayan dönüşümleri tetikleyebilir; oysa zayıf veya yanlış hizalanmış teşvikler fırsatçı uygulamaların sürmesine izin verir. Bu durum, gözetim yerine pedagoji temelli yönetişimi destekler. [[ai-adaptation-gap-higher-education-2026|YZ uyum boşluğu anketi]] bir [[stakeholders|paydaş]] boyutu ekler: öğrenciler öğretim üyelerine ve idari personele kıyasla daha yüksek YZ kullanım yoğunluğu ve algılanan fayda bildirirken, ikinciler daha güçlü [[academic-integrity]] kaygıları bildirir — ve algılanan fayda, kurumsal politika netliğinden (β = 0.223) daha güçlü biçimde [[trust]] yordar (β = 0.402).
 
 Değerlendirme uygulamasına ilişkin, 73 bilişim eğitimcisinin katıldığı bir atölye, sınıf tarafındaki karşılığı sunar. Katılımcıların betimlediği değişikliklerin neredeyse tamamı, kurumsal koordinasyon olmaksızın tek bir derste bireysel bir öğretmen tarafından yapılmıştı — aynı bölümdeki meslektaşlar birbiriyle uzlaştıran hiçbir şey olmadan birbirine taban tabana zıt konumlar almıştı — ve raporun savunduğu müfredatsal yanıt, şu anda kayıtlı öğrencilere yardımcı olacak kadar erken tamamlanmayacaktır; ayrıca ödev zorluğunun kabaca bir dönem döngüsünde bayatladığı gözlemlenmiştir; bu da güncel model yetkinliğine karşı kalibrasyonu, tek seferlik bir karar yerine bayatlayan bir kurumsal varlık haline getirir ([[computing-assessment-genai-workshop-report-2026|Akbar ve ark., 2026]]).
+
+**Aynı araç kullanımı yenilik yapabilir ya da tükenmişliğe yol açabilir; kurum hangisinin olacağına karar verir.** [[ding-genai-colleague-teacher-depletion-2026|Ding ve ark. (2026)]], 436 üniversite tasarım öğretmenine anket uygulamış ve üretken YZ kullanımından iki anlamlı yol olduğunu bulmuştur. Birinci yol, öğretim [[self-efficacy|öz-yeterliliği]] (β = 0,322) ve esenliği (β = 0,300) üzerinden daha yenilikçi iş ve daha az geri çekilme yönünde ilerler; ikincisi, YZ kaygısı (β = 0,268) ve iş stresi (β = 0,262) üzerinden ters yöne gider. Algılanan kurumsal destek, olanaklılaştırıcı bağları güçlendirmiştir (b = 0,153 ve b = 0,176); psikolojik sözleşme ihlali ise tüketici bağları güçlendirmiştir (b = 0,171 ve b = 0,194). Destek, moral için ekstra bir şey değildir: bir konuşlandırmanın hangi yol boyunca ilerleyeceğine karar vermeye yardımcı olur.
 
 ## Çıkarımlar
 

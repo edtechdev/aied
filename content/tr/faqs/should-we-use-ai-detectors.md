@@ -9,9 +9,9 @@ assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -30,6 +30,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 

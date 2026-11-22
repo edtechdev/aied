@@ -1,14 +1,14 @@
 ---
 title: "Öğretmen Olarak Yapay Zeka Nasıl Zaman Kazandırır?"
 created: "2026-10-14T21:30:00-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T11:03:45-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 
@@ -50,6 +54,8 @@ Aynı çalışmadaki ikinci bir veri kümesi, 15.000'den fazla eğitimciden gele
 
 Bu, azaltma değil yeniden dağıtmadır: [[generative-ai|üretken YZ'den]] kazandığınız şey, boş bir sayfa ile tartışmaya yetecek kadar belirli bir taslak arasındaki farktır.
 
+İki öğretmen seçimleri deneyi aynı bulguyu bir saate oturtuyor. 68 İngiliz ortaokulunda, 7. ve 8. sınıf fen dersi hazırlık süresi haftada 81,5 dakikadan 56,2 dakikaya düştü; bu 25,3 dakikalık bir tasarruftur ve kalitede fark edilir bir kayıp yoktur ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy ve ark., 2024]]). Doz küçüküktü ve azalmıştır: araç ilk beş haftada belirlenen derslerin %39’unu, ikinci beş haftada %29’unu karşılamıştır. İlkokullarda yürütülen bir Aila deneyi, planlama süresini 3,32’ye karşı haftada 2,51 saat bulmuştur; bu beşte bir azalmadır ve araç derslerin %7’sine ulaşmakta ve dönem boyunca azalmaktadır ([[roy-aila-lesson-planning-teacher-choices-2026|Roy ve ark., 2026]]).
+
 ## Görevi aracın iyi yaptığı şeyle eşleştirin
 
 Kalite, planlamaya elverecek kadar istikrarlı bir örüntü içinde dengesiz. Kör değerlendiriciler ders sonuçları ve çıkış biletlerinin YZ sürümlerini, profesyonellerce tasarlanmış materyallere karşı %59,7 oranında tercih etti ve lise düzeyi içerik için YZ materyalini %59,2 oranında tercih etti. Tasarruf ayrıca güveninizin en düşük olduğu yerde büyür: kendi alanınızın dışında öğretmek, aracın size verdiği şey ile tek başınıza yazacağınız şey arasındaki en geniş farkın olduğu durumdur.
@@ -57,6 +63,8 @@ Kalite, planlamaya elverecek kadar istikrarlı bir örüntü içinde dengesiz. K
 İki kategori ters yönde çalışıyor. İlkokul düzeyi materyalde gelişimsel uygunluk açısından insanlar yaklaşık %65 oranında tercih edildi. Hedeflenmiş [[scaffolding|iskeleler]] [[multilingual-learning|çok dilli]] [[learners|öğrenenler]] ve [[special-education|özel eğitimdeki]] öğrenciler için yanlış değil nötr olarak geri geldi; bu kulağa geldiğinden daha kötüdür, çünkü nötr bir iskele baştan yeniden kuracağınız iskeledir.
 
 Bir akşamı buna harcamadan önce bunu öngören test şudur: çıktıyı denetleyebilecek kadar kesin bir tanım yapabiliyor musunuz? Tek bir kazanıma dair çıkış bileti, evet. Bir paragrafın sınıfının iki yıl gerisinde okuyan belirli bir dokuz yaşındaki çocuğa uygun olup olmadığı, hayır.
+
+Eğitim, iki etkiyi temiz biçimde ayıran vakadır. Üç kollu bir deneyde ChatGPT erişimi hazırlık süresini %34 azaltmış, önceden alınan eğitim ise bunu daha fazla %21 azaltmıştır; oysa ek eğitim kör nitelendirme puanlarında ek bir kazanım üretmemiştir ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel ve ark., 2026]]). Daha hızlı ve daha iyi ayrıştı: eğitim alan strateji, daha iyi olmadan daha hızlıydı.
 
 ## Geri kazanılan saate bir varış noktası verin
 

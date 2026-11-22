@@ -2,19 +2,24 @@
 connected_resources: [vibes-diy]
 title: "Yapılandırmacılık"
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
 connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
@@ -54,7 +59,7 @@ Kuram üzerindeki bir sınır, yapılandırmacılığın insan merkezli epistemi
 - **Logo ve mikro dünyalar.** Papert, ikonik “kaplumbağa” ile birlikte Logo’yu (1967) birlikte geliştirdi — çocukların görünür bir ajanı yöneterek ve hata ayıklayarak geometriyi ve diğer güçlü fikirleri keşfettiği bir programlama mikro dünyası. Hata ayıklama, başarısızlık değil, öğrenmenin doğal ve değerli bir parçası olarak yeniden çerçevelenir.([[mishra-control-vs-agency-history-2025]])
 - **Öğretim yerine inşa.** Yapıcılık, [[teacher-role|öğretmenlik]] yapılandırılmış bilişsel öğretmenlere karşı, anlayışyı projeler ve deneyler yoluyla inşa eden [[agentic-ai|özerk ajanlar]] olarak konumlandırır.
 - **Modern [[edtech-platform|edtech]] alanındaki soy hattı.** Logo’nun yaratıcı, elle yapılan inşaya verdiği önem [[game-based-learning]], [[project-based-learning]], [[educational-robotics|robotik]] (LEGO Mindstorms, [[cs-education|Scratch]], programlanabilir tuğlalar) ve daha geniş yapıcı hareketin temelini oluşturur.
-- **Yapay zekada yapılandırmacı miras.** Yapıcılık, yapay zeka araçlarının yanıt veren öğretmenler yerine **inşa edilecek malzemeler** olarak hizmet etmesi gerektiğini ima eder — öğrenenin yönlendirdiği düşünme araçları ve yaratıcı ortak yapıcılar. Bu, bilgi tabanının üretken yapay zeka [[genai-mindtool-generative-learning|mindtool]] çerçevesinin ve öğrenme süreci üzerinde [[agency|öğrenen etkenliğini]] koruyan tasarım bağlılıklarının doğrudan atasıdır.([[educational-robotics-pathways-2026]])
+- **Yapay zekada yapılandırmacı miras.** Yapıcılık, yapay zeka araçlarının yanıt veren öğretmenler yerine **inşa edilecek malzemeler** olarak hizmet etmesi gerektiğini ima eder — öğrenenin yönlendirdiği düşünme araçları ve yaratıcı ortak yapıcılar. Bu, üretken yapay zeka [[genai-mindtool-generative-learning|mindtool]] çerçevesinin ve öğrenme süreci üzerinde [[agency|öğrenen etkenliğini]] koruyan tasarım bağlılıklarının doğrudan atasıdır.([[educational-robotics-pathways-2026]])
 - **Üretken YZ döneminde yapıcılık: kod değil, model yazmayla öğrenmek.** Kod üreten yapay zekanın gelişi yapıcılığı zayıflatmak yerine bir tasarım yanıtı olarak *yeniden canlandırmıştır*. Gousopoulos’un **Üretken YZ ile Öğrenmek İçin Kodlama (Code-to-Learn with Generative AI — CtL-GenAI)** çerçevesi, yapay zeka ile yazılım inşa eden ortaöğretim son sınıf öğrencileri için yapıcılığı, bilişsel yük kuramını, [[self-regulated-learning]], [[icap-framework|ICAP]] etkileşim modelini, [[productive-failure|verimli başarısızlığı]] ve [[sociocultural-learning|sosyokültürel]] iskelelemeyi bütünleştirir. Çerçevenin örgütleyici iddiası — **“YZ kodu yazar, ama modeli öğrenci yazar”** — inşa hedefini yeniden çerçeveler: üretken YZ kod yazmanın sözdizimsel işini üstlendiğinde, öğrenenin inşası kodun ifade ettiği *kavramsal modeli* kurmaya ve hata ayıklamaya kayar. CtL-GenAI, model yazarlığını dört yüzeyi ve gözlemlenebilir göstergeler taşıyan sıralı düzeyleri olan bir yapı olarak tanımlar ve bu tür öğrenmenin gerçekten meydana gelip gelmediğini sınamak için kısmi kredi veren, yanlışlanabilir bir ölçüm modeli biçimselleştirir.([[code-to-learn-genai-artifact-construction-2026]])([[ai-writes-code-student-writes-model-2026]]) Bu, yapıcılığın klasik “paylaşılabilir bir şey yap ve hata ayıkla” ilkesinin, öğrencinin yaptığı ve üzerinde yansıttığı yapıtın salt kaynak kodu değil, görünür kılınmış bir zihinsel model olması biçiminde güncellenmiş hâlidir — ve iddianın ampirik olarak sınanabilir olması için kuramı açık bir ölçüm programına bağlar.
 
 Yapıcılık böylece hem bir öğrenme kuramı hem bir eleştiridir: eğitimin amacının mevcut bilgi yapılarını yeniden üretmek değil, öğrenenleri onları inşa etmek ve dönüştürmek için güçlendirmek olduğunu savunur — bu durum, eğitimde yapay zekanın yerleşik hiyerarşileri pekiştirdiği mi yoksa onlara meydan okuduğu mu sorusuna ilişkin açık sonuçları olan bir duruştur.

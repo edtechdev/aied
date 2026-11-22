@@ -1,6 +1,7 @@
 ---
 title: Evrensel Tasarımla Öğrenme
 created: "2026-10-14T22:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -9,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -29,10 +34,10 @@ connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-prod
 
 - UDL’nin çekirdek iddiası, öğrenen çeşitliliğinin kural olduğu — istisna değil — yani zorlananlara uyum sağlamak için tek bir yolu düzeltmek yerine baştan itibaren birçok yol için tasarım yapmak. Eğiliminiz ‘ortalama’ bir öğrenen için tasarlamak ve uyarlamaları sonra eklemek mi? Bu varsayılan yaklaşımda ne kaybedilebilir?
 - Yoğun bir metin, bir ders, işi göstermenin tek bir yolu gibi belirli bir biçimin sizi ya da öğrettiğiniz birini dışladığı bir zamanı düşünün. UDL’nin üç ilkesinden — bağlılık, temsil ya da eylem/ifade — hangisi söz konusuydu ve esnek bir alternatif neye benzerdi?
-- Üreten YZ (generative AI), kişiye özgü örnekler, altyazılar, özetler ve çoklu değerlendirme biçimleri üretebilir — görünüşe göre UDL için bir armağan. Ama sayfa, YZ’nin önyargıyı da kodlayabileceğini ve [[agency|öğrenen etkinliğini]] azaltabileceğini uyarır. Daha fazla okumadan önce, kişiselleştirmek için kurulmuş bir araç bazı öğrenciler için öğrenme yollarını *daraltmaya* nasıl son verebilirdi?
+- Üreten YZ (generative AI), kişiye özgü örnekler, altyazılar, özetler ve çoklu değerlendirme biçimleri üretebilir — görünüşe göre UDL için bir armağan. Ama YZ aynı zamanda önyargıyı taşıyabilir ve [[agency|öğrenen etkinliğini]] küçültebilir. Kişiselleştirmek için kurulmuş bir araç, bazı öğrenciler için öğrenme yollarını genişletmek yerine *daraltmaya* nasıl son verebilir?
 - Yaygın bir [[misconceptions|yanlış kanı]], UDL’nin standartları düşürmek ya da herkese farklı sonuçlar vermek anlamına geldiğidir. Öğrencilerin aynı öğrenme çıktısı için bir deneme, bir video, bir diyagram ya da kod teslim etmelerine izin veren bir ödevi düşünün. Bu bir standart düşürme mi, yoksa aynı yeteneği değerlendirmenin daha adil bir yolu mu? Görüşünüzü savunun.
 - UDL, ‘öğreneni düzeltmeyi’ ‘tasarımı düzeltmeye’ dönüştürür. Yaşadığınız ya da tasarladığınız hayal kırıklığı yaratan bir öğrenme deneyimi seçin. Engel bir tasarım problemi olsaydı, bir öğrenci problemi değil, onu herkes için kaldırmak için tasarımda neyi değiştirirdiniz?
-- Sayfa, tek bir iletişim tarzı varsayan ya da nörodiverjan ifadeyi cezalandıran YZ’ye karşı uyarır. YZ destekli araçlar kullanıyor ya da tasarlıyorsanız, ‘varsayılan’ tarzlar öğrenenleri nerede sessizce dışlayabilir — ve bunu denetlemek neyi gerektirirdi?
+- Tek bir iletişim tarzı varsayan ya da nörodiverjan ifadeyi cezalandıran YZ öğrenenleri dışlayabilir. YZ destekli araçlar kullanıyor ya da tasarlıyorsanız, ‘varsayılan’ tarzlar öğrenenleri nerede sessizce dışlayabilir — ve bunu denetlemek neyi gerektirirdi?
 
 ## Giriş
 
@@ -74,6 +79,8 @@ UDL, “öğreneni düzeltmeyi” “tasarımı düzeltmeye” dönüştürür. 
 - Aynı öğrenme çıktısına hizmet eden bir değerlendirme ürünü seçimi sunun (deneme, sunum, video, diyagram, kod).
 - *Örnek:* Bir proje, yazılı bir rapor, YZ destekli bir video anlatımı ya da canlı bir gösterim olarak teslim alınmasına izin verir — her kipi [[scaffolding|iskele]]ler destekler. [[assessment]] tasarımında bu, [[authentic-assessment]]’ın temsili adaletini yansıtır.
 
+Seçim ancak seçenekler eşit güvenilirlikte göründüğünde içerir. Bir Fen Fakültesi çalışmasındaki öğrenciler video ile deneme arasında seçim yapmayı sevmiş ancak akranlarının denemenin daha kötü notlandırılacağından korktuğunu bildirmiştir; dolayısıyla paylaşılan ölçütler ve açıklanmış bir notlandırma mantığı, biçim menüsünü stratejik tahmin yerine kapsamaya dönüştüren şeydir ([[mcdonald-inclusive-assessment-genai-2026|McDonald ve ark., 2026]]).
+
 **YZ okuryazarlığı ve etkinlik için tasarım yapın.**
 - Öğrencilere YZ’yi nasıl ve ne zaman kullanacaklarını öğretin ve öğrenenin (aracın değil) hesap verebilir kalmasını sağlayan denetim noktaları kurun — bkz. [[ai-literacy]] ve [[reducing-ai-misuse]].
 - *Örnek:* UDL ile uyumlu bir ödev, öğrencilerin YZ ile taslak hazırlamasına izin verir ama kendi katkıları üzerine [[metacognition|üstbilişsel]] bir yansıtma şart koşar; böylece bağlılık ve etkinlik ilkeleri korunur.
@@ -84,11 +91,13 @@ UDL, “öğreneni düzeltmeyi” “tasarımı düzeltmeye” dönüştürür. 
 
 - **Teşhisleri değil, işlevsel engelleri hedefleyin.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel ve ark. (2026)]], nörodiverjan öğrenciler için yardımcı teknolojilere dair 40 çalışmalık bir derlemin uyarlama ve teşhise bağlı araçlar etrafında örgütlendiğini bulmuş; öğrencilerin gerçekten karşılaştığı kesişen engellere göre tasarım yapmanın, bir aracı makul biçimde evrensel kılan şey olduğunu ileri sürmüştür.
 
+**Eşdeğerlilik, aynılık olmaksızın.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys ve ark. (2026)]], UDL menüsünü YZ destekli yansıtıcı çalışmaya genişletir: öğrenciler için karşılaştırılabilir yollar olmalıdır — metin ya da sesli yansıtma, YZ destekli ya da YZ’siz bir rota, eşzamanlı insan desteği, amaca bağlı olmayan teknik akıcılığı ödüllendirmeyen şeffaf ölçütler — ve, belki en önemlisi, geçerli haklar, anlamlı öğrenen seçimi ve temel erişilebilirlik, başka bir yerde sağlanan güçlü bir performansla telafi edilebilen puanlar değil, telafi edilemez ön koşullardır. İlke “eşdeğerlilik, aynılık olmaksızın”dır: farklı ortamlar ya da otomasyon düzeyleri kullanılabilir, ancak bunlar aynı çıktıyı karşılama açısından karşılaştırılabilir fırsat sunmalıdır ve kapsama, sonradan yapılan bir uyarlama olarak değil tasarımın içine gömülerek ele alınmalıdır.
+
 ## Yaygın yanlış anlamalar
 
 **“Erişilebilir materyalleri olan bir ders UDL'yi uygulamıştır.”** Erişilebilirlik, UDL'nin üç ilkesinden biridir ve denetlenmesi en kolay olanıdır, bu nedenle sıklıkla yapılan tek ilke odur. Esnek bağlılık ile eylem ve ifade yolları kurmak çerçevenin daha büyük kısmıdır ve PDF'leri etiketlenmiş ama değerlendirmeleri tek biçim kabul eden bir ders, ölçülebilir kesri tamamlamıştır.
 
-**“Erişilebilir olduğuna inanan öğretim üyeleri erişilebilirdir.”** İnanç ile pratik sistematik biçimde ayrışır. Bu derlemedeki fakülte düzeyindeki bulgular, **yanıtlayanların %90'ının erişilebilir bir öğrenme ortamı yarattığına inandığını ve %87'sinin erişilebilirliği etkin biçimde dikkate aldığını söylediğini** gösterir; denetimlerin buldukları göz önüne alındığında tümü doğru olamayacak öz bildirim oranlarıdır ve UDL uygulamasının, genellikle değerlendirildiği biçimde anketle değerlendirilemeyeceğini hatırlatır.
+**“Erişilebilir olduğuna inanan öğretim üyeleri erişilebilirdir.”** İnanç ile pratik sistematik biçimde ayrışır. Bu çalışmalardaki fakülte düzeyindeki bulgular, **yanıtlayanların %90'ının erişilebilir bir öğrenme ortamı yarattığına inandığını ve %87'sinin erişilebilirliği etkin biçimde dikkate aldığını söylediğini** gösterir; denetimlerin buldukları göz önüne alındığında tümü doğru olamayacak öz bildirim oranlarıdır ve UDL uygulamasının, genellikle değerlendirildiği biçimde anketle değerlendirilemeyeceğini hatırlatır.
 
 **“UDL, ortalama öğrenci için daha dikkatli tasarım yapmak demektir.”** Çekirdek iddia bunun tersidir: öğrenen değişkenliği istisna değil kuraldır, bu nedenle tasarım zorlananlar için tek bir yolu düzeltmek yerine baştan itibaren birçok yol sunar. UDL'nin yerini almak için var olduğu şey sonradan uyarlamadır ve tek bir iyi ayarlanmış yol hâlâ tek bir yoldur.
 

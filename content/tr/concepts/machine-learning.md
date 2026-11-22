@@ -5,7 +5,7 @@ technology: [ai-technologies, generative-ai, learning-analytics, machine-learnin
 confidence: medium
 created: "2026-10-14T22:15:00-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -13,8 +13,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
 connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

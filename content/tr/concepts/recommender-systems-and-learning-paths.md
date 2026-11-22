@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
 connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
+updated: "2026-11-21T17:00:00-05:00"
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

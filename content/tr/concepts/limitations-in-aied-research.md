@@ -1,6 +1,7 @@
 ---
 title: "AIEd Araştırmalarındaki Sınırlılıklar"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -9,9 +10,11 @@ research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
+connected_podcasts: [clapping-for-the-car]
+connected_videos: [reality-of-ai-in-ed-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,7 +22,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
@@ -32,13 +39,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - "YZ özel ders desteği öğrenmeyi %30 artırıyor" biçimindeki bir başlığa, bunun tek bir kurumda tek bir kursta 30 öğrenciden geldiğini öğrenmiş olsaydınız ne kadar güvenir diniz? Sayfa genelleştirilebilirlik ve küçük örneklemleri yinelenen sınırlar olarak işaretlemektedir — tek bir bulguya göre hareket etmeden önce neyi bilmek isterdiniz?
 - Çarpıcı bir sınırlılık "hız sorunu"dur: YZ, bulguların yayımlanmasından daha hızlı evrimleşir; dolayısıyla bir model nesline ilişkin çalışma çoktan eskimiş bir sistemi tanımlıyor olabilir. Bu durum, eğitimde YZ araştırmalarına duyduğunuz güveni nasıl değiştirmelidir?
 - Pek çok çalışma, önyargılı olan [[self-report-measures|öz bildirimli]] tutum ve kullanım verilerine dayanır — insanlar yeterliliklerini olduğundan yüksek, kötüye kullanımı olduğundan düşük bildirir. Kendi becerileriniz veya davranışınız hakkında bir ankete, gerçekle uyuşmayan bir biçimde yanıt verdiğiniz oldu mu? Algı temelli ölçümler neden objektif performanstan bu kadar sık ayrışır?
-- Sayfa, Bloom’un taksonomisi gibi tanıdık çerçevelerin sık sık katı merdivenler olarak yanlış okunduğunu ve [[cognitive-offloading|bilişsel yük]] teorisi gibi yaygın kullanılan teorilerin bile itiraza uğradığını not eder. Bir teoriyi, kendi kanıtları aslında tartışma konusu olan bir bağlamda kesinleşmiş gerçek olarak kullanıldığını ne zaman gördünüz?
+- Sayfa, [[bloom-taxonomy|Bloom’un taksonomisi]] gibi tanıdık çerçevelerin sık sık katı merdivenler olarak yanlış okunduğunu ve [[cognitive-offloading|bilişsel yük]] teorisi gibi yaygın kullanılan teorilerin bile itiraza uğradığını not eder. Bir teoriyi, kendi kanıtları aslında tartışma konusu olan bir bağlamda kesinleşmiş gerçek olarak kullanıldığını ne zaman gördünüz?
 - YZ araştırmalarının çoğu, verilerini ve güncellemelerini inceleyemeyeceğiniz tescilli ve opak modellere dayanır. Bir sonucu hangi modelin ürettiğini tam olarak doğrulayamıyorsanız, ona dayanan iddialara ne kadar güvenebilirsiniz — ve bulguları daha yeniden üretilebilir kılan şey ne olurdu?
 - Temel araştırmaları okumaya vakti olmayan bir öğretim elemanı veya tasarımcı iseniz, edebiyat parçalı, geçici ve araştırmacılar için yazılmışken, hangi YZ iddialarının uygulamanızı değiştirmeye yetecek kadar güvenilir olduğuna nasıl karar verirsiniz?
 
 ## Giriş
 
-Eğitimde YZ hızla değişen, heterojen bir alandır ve kanıt tabanı, araştırmacıların, uygulayıcıların ve politika yapıcıların herhangi bir bulguyu kullanırken tartması gereken özgün bir sınırlılık kümesi taşır. Bunların bazıları daha geniş [[learning-sciences|öğrenme bilimleri]] ve psikoloji edebiyatıyla paylaşılır; diğerleri YZ’nin doğası sayesinde yükseltilir veya tek özgünleşir. Bu sayfa onları dört alanı kesen başlık altında düzenler.
+Eğitimde YZ hızla değişen, heterojen bir alandır ve kanıt tabanı, araştırmacıların, uygulayıcıların ve politika yapıcıların herhangi bir bulguyu kullanırken tartması gereken özgün bir sınırlılık kümesi taşır. Bunların bazıları daha geniş [[learning-sciences|öğrenme bilimleri]] ve psikoloji edebiyatıyla paylaşılır; diğerleri YZ’nin doğası sayesinde yükseltilir veya tek özgünleşir. Bunlar dört alanı kesen başlıklardır. Bunlar kanıttaki sorunlardır; kanıtın hizmet ettiği amaçlara dair ayrı bir argüman gövdesi ise [[critiques-of-ai-in-education|Eğitimde YZ Eleştirileri]] altında toplanmıştır.
 
 ## Yöntemsel sınırlılıklar
 
@@ -65,6 +72,9 @@ Bilgi tabanının [[research-methods-aied|araştırma yöntemleri]] sayfası her
 - **Model tarafından üretilen etiketler gerçek değildir.** Bir sistemi eğiten veya değerlendiren etiketlerin kendileri dil modelleri tarafından üretildiği yerlerde, etiketleyenler arası uyum geçerliliği kuramaz: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado ve ark. (2026)]], iddia etiketlemelerini insan altın etiketlerine karşı hiç doğrulamamıştır ve yayımladıkları 49 kodlayıcı sınıflandırıcı bu kökeni miras alır; uygulamaların önemli boyutlarda farklılaştığı yerlerde geçerli olmayabilir. Şemaları ayrıca uzman etiketlemeli veriler üzerinde eğitilmiş ince ayarlı sınıflandırıcıdan belirgin biçimde daha düşük performans göstermiştir (makro-F1 0,673’e karşılık 0,76); bu da yüksek güven gerektiğinde uzman etiketli derlemleri değerli bırakmaktadır.
 
 - **Kanıt tabanının kendisi eşitsiz dağılmıştır.** 407 teknoloji destekli [[formative-assessment|biçimlendirici değerlendirme]] çalışmasının bir kapsam derlemesi yalnızca Web of Science ve Scopus'a dayanmıştır. Ayrıca 61 kaydı dil ölçütleriyle dışlamıştır; dolayısıyla alanın bildirdiği coğrafi dengesizlik kısmen hangi platformların dizinlendiğini yansıtıyor olabilir ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Üç koşul tasarımı eksik.** Gözden geçirilen on iki GenAI çalışmasının hiçbiri, desteklenmiş performansı, doğrulanmış dışlama ile yapılan hem hemen hem de geciktirilmiş YZ’suz bir testle birlikte ölçmedi; dolayısıyla desteklenmiş kazanımlar asla akılda tutma ile bağdaştırılmaz ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Fizibilite bir sonuç sınıfıdır, önsöz değil.** YZ ile simüle edilmiş bir hastanın iki kohortlu pilotu, davet edilen 72 öğrenciden 19’unu (%26) dahil etmiş, her karşılaşmayı ve anketi tamamlamış (%100) ve hiçbir oturumu teknik arızada bitirmemiştir — gerçek sonuçlar; ancak fizibilite ve kabul edilebilirlik sonuçları toplandıktan sonra tanımlandığından ve ilerleme ölçütleri önceden belirlenmediğinden ([[tischkau-ai-simulated-patient-formats-2026|Tischkau vd. (2026)]]). Bir tamamlama oranı yalnızca önceden sabitlenmiş ölçütlere karşı bilgilendiricidir; aksi hâlde “çalışmıştır” ile “işe yaramıştır” aynı cümledir.
 
 ## Hız sorunu: YZ, bulgulardan daha hızlı evrimleşir
 
@@ -121,6 +131,8 @@ Bu bilgi tabanının amacı, o boşluğu kapatmaya yardımcı olmaktır — aç�
 **Manşet yüzde, arama terimlerinin bir yapay ürünü olabilir.** 195 öğretmen eğitimi çalışmasının kapsam taramasında dijital yeterlilik ve [[tpack|TPACK]] açık arama tanımlayıcılarıydı, öğretim tasarımı ve değerlendirmenin ise eşdeğeri yoktu; dolayısıyla bildirilen **%46,5 ve %1,9**, alanı tanımlamadan önce erişim stratejisini tanımlar. Bir yaygınlık iddiası, ancak onu üreten sorgu kadar anlamlıdır.
 
 **Ve kimsenin belirtmediği sayı temel orandır.** Buradaki yöntemsel sınırlar izlenimsel değil, ölçülebilirdir: YZ ile eleştirel düşünme üzerine 80 insan-bilgisayar etkileşimi çalışmasının eleştirel incelemesinde **42’si (%52) hiç kontrol grubu çalıştırmamış**, geri kalanların çoğu öz bildirime dayanmıştır. Bir alanın olumlu bulgularının yarısından fazlası, YZ’nin etkisini olağan etkinlikten ayıramayan tasarımlardan geliyorsa, herhangi bir tek bulguya ilişkin uygun önsel, geçici kabul değil kuşkuculuktur.
+
+Bu sınırlılıkların pratik bir sonucu, yaygın olarak kullanılan bazı eğitsel uygulamaların dayanamayacağı kanıta dayanmasıdır; [[what-not-to-do-ai-education|YZ eğitiminde yapmamanız gerekenler]] bu uygulamaları role göre derler ve her uyarının arkasındaki belirli sınırlılığı adlandırır.
 
 ## Yaygın yanlış anlamalar
 

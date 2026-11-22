@@ -1,6 +1,7 @@
 ---
 title: Etkinlik Kuramı
 created: "2026-10-14T22:38:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -9,13 +10,17 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
 connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
@@ -36,7 +41,7 @@ connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway
 
 ## Giriş
 
-### Kavram
+## Kavram
 
 Etkinlik kuramı, Vygotsky ve Leontiev’in kültür-tarih psikolojisinden gelir (sonra Engeström tarafından geliştirilmiştir) ve daha geniş [[sociocultural-learning|sosyokültürel]] geleneğin merkezi bir koludur. Temel iddiası, insan etkinliğinin bireysel bilişe veya yalıtılmış araç kullanımına indirgenemeyeceğidir; bu bir **kolektif, nesne yönelimli, araca aracılı sistemdir**. Bir etkinlik sisteminin Engeström modeli altı etkileşen öğeden oluşur:
 
@@ -51,7 +56,7 @@ Belirleyici bir özellik **çelişkidir**: etkinlik sistemleri tarihsel olarak b
 
 **Araçlar yuvası, üretken YZ’nin zorladığı yuvadır.** 2026 tarihli sosyokültürel bir deneme, bir [[llm|LLM]]’in hem etkinliğe aracılık ettiğini hem de onun yörüngesini yeniden şekillendiren koşullu katkılar ürettiğini savunur; dolayısıyla ona araç demek etkisini hafife almak, ona işbirlikçi demek ise sahip olmadığı amaçlılık, hesap verebilirlik ve topluluk üyeliği atfetmek olur ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate ve Ritchie, 2026]]). Onların *aracı etmen* kavramı araç konumunda durur ama toplulukta bir konum tutmaz; bu da iş bölümünün yalnızca araçlar çevresinde değil katkılar çevresinde de analiz edilmesi gerektiği anlamına gelir.
 
-### Etkinlik kuramı eğitimde YZ için neden önemlidir
+## Etkinlik kuramı eğitimde YZ için neden önemlidir
 
 YZ, mevcut eğitim etkinlik sistemlerine yeni **araçlar/aracı yapıtlar** sokar; bu hem fırsatlar hem çelişkiler üretir. Etkinlik kuramı, AIED araştırmasına bu değişiklikleri analiz etmek için bir söz dağarcığı ve yöntem verir:
 
@@ -65,11 +70,11 @@ YZ, mevcut eğitim etkinlik sistemlerine yeni **araçlar/aracı yapıtlar** soka
 - **Disiplinsellik ve bağlamlar arası çeşitlilik.** Etkinlik sistemleri tarihsel ve kültürel olarak yerleşik olduğundan, etkinlik kuramı aynı YZ aracının neden disiplinler ve bağlamlar arasında farklı sonuçlar ürettiğini açıklar — her disiplin kendi kuralları, topluluğu ve iş bölümüyle bir etkinlik sistemi olarak işlev görür [[jiang-genai-activity-theory-disciplines-2026|(ör. lisans öğrencilerinin GenAI kullanımı ve beyanında akademik alanlar arasındaki farklar)]].
 - **Bir araç, iki etkinlik sistemi, eşit olmayan nüfuz.** CHAT yoluyla analiz edilen on matematik akademisyeni arasında, GenAI araştırma etkinlik sisteminde çevredeki bir araç olarak kaldı; öğretmede ise öğretmenin rolünü [[critical-thinking|eleştirel muhakemenin]] aracısına doğru yeniden şekillendirdi; benimseme [[governance|kurumsal]] politika yerine öğrenci kullanımı ve akran ağları yoluyla yayıldı ([[genai-runaway-object-math-higher-ed|Bakogianni ve ark., 2026]]).
 
-### Etkinlik kuramı ve ilgili çerçeveler
+## Etkinlik kuramı ve ilgili çerçeveler
 
 Etkinlik kuramı [[sociocultural-learning|sosyokültürel]] ailenin içinde yer alır ve sıklıkla başka çerçevelerle eşlenir veya onlara karşıt olarak konumlanır: **[[distributed-cognition|dağıtık biliş]]** ve **[[situated-learning|yerleşik öğrenme]]** bağlam ve aracılığa verdiği önemi paylaşır; **[[community-of-inquiry|sorgulama topluluğu]]** ve uygulama toplulukları kolektif yönelimini paylaşır; **technology-acceptance** modelleri (ör. [[technology-acceptance-model|TAM]]) ise benimsemenin karşıt, daha bireysel inanç temelli bir açıklamasını sunar ve etkinlik kuramı bunu kolektif ve yapısal boyutları düzleştirdiği için eleştirir. AIED araştırmasında etkinlik kuramı sıklıkla başka kuramlarla birleştirilir — ör. öğretmen-HG müdahale tasarımında [[self-determination-theory|Özbelirleme Kuramı]] ile eşlenir veya yerleşik YZ etiği çerçevelerinde ekolojik sistem kuramıyla [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli ve ark., 2026)]].
 
-### Temel araştırma temaları
+## Temel araştırma temaları
 
 - **YZ’nin iş bölümünü** öğretme, öğrenme ve araştırma etkinlik sistemlerinde nasıl yeniden dağıttığı.
 - **Sistemik çelişkiler**, YZ destekli eğitimde norm değişimi ve genişleyici dönüşümün itici gücü olarak.
@@ -78,7 +83,7 @@ Etkinlik kuramı [[sociocultural-learning|sosyokültürel]] ailenin içinde yer 
 - **Ölçümü etkinlik sistemi öğelerine temellendiren kuram çıpalı öğrenme analitiği.**
 - **YZ aracı etkinliğin nesnesi** — öğrenmenin nesnesinin ustalıktan çıktıya kayıp kaymadığı ve bunun [[learning-gains|öğrenme çıktıları]] için ne anlama geldiği.
 
-### Pratik çıkarımlar
+## Pratik çıkarımlar
 
 Tasarımcılar ve eğitimciler için etkinlik kuramı, YZ aracının kendisinin ötesine onun girdiği bütün etkinlik sistemine bakmayı öğütler: kabul edilebilir kullanımı yöneten kurallar, topluluk ve onun normları, insan ile makine arasındaki iş bölümü ve etkinliğin nesnesi/güdüsü. Sürdürülebilir YZ tümleşmesi *sistemi yeniden tasarlamayı* — çelişkileri ele almayı, normları güncellemeyi ve rolleri yeniden dengelemeyi — yalnızca daha iyi araçlar veya bireysel eğitim sağlamayı gerektirir. Araştırmacılar için etkinlik kuramı, titiz bir analiz birimi (birey değil etkinlik sistemi) ve eğitimde YZ’nin rolünü inceleme ve şekillendirme için bir yöntem ([[formative-assessment|biçimlendirici]] müdahale, çelişki analizi) sunar.
 

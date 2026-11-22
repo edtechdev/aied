@@ -1,6 +1,7 @@
 ---
 title: Teknoloji Benimseme Modelleri
 created: "2026-10-14T21:35:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -9,13 +10,17 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
@@ -59,6 +64,8 @@ Benimseme araştırmaları genellikle niyette durur; buna karşılık gerçek bi
 ### Yayılım Modeli (DOI)
 Rogers’ın DOI kuramı, benimsemeyi yeniliklerin zaman içinde popülasyonlarda yayıldığı bir sosyal süreç olarak açıklar; yenilik özniteliklerini (göreli avantaj, uyumluluk, karmaşıklık, denenebilirlik, gözlenebilirlik) ve benimseyici kategorilerini vurgular. Bilgi tabanının [[governance|kurumsal]] düzeydeki analizlerinde görülür; örneğin [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi ve ark.]], Suudi üniversitelerinde örgütsel YZ benimsemesini modellemek için Teknoloji–Örgüt–Çevre (TOE) çerçevesini DOI ile birleştirir.
 
+Öğrenci düzeyinde ise [[gocyla-genai-adoption-diffusion-2026|Gocyła ve Strzelecki (2026)]], göreli avantaj, uyumluluk, sadelik ve gözlenebilirliğin GenAI kullanım niyetini öngördüğünü ve varyansın %48,7’sini açıkladığını bulmuş; denenebilirlik ise öngörmedi (f² = 0,001): ücretsiz erişim, denemeyi bir ayırt edici özellikten çok bir temel beklentiye dönüştürebilir.
+
 ### Teknoloji–Örgüt–Çevre (TOE)
 TOE, benimsemeyi teknolojik, örgütsel ve çevresel bağlamlarla şekillenen bir süreç olarak çerçeveler — kurumsal benimsemeyi incelemek için bireysel düzeydeki TAM/UTAUT’un bir tamamlayıcısıdır (bkz. [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
@@ -84,6 +91,8 @@ Planlı Davranış Kuramı gibi inanış çerçevelerinin yanına paralel öngö
 
 22 öğretim üyesiyle iki dalgalı bir görüşme çalışmasında, YZ hakkında daha fazla şey öğrenmek bazılarını daha kabul edici değil daha temkinli yapmış; bu da modelin deneyimden kullanım kolaylığına varsayılan yönünü tersine çevirmiştir ([[stalboerger-faculty-perceptions-2026|Stalboerger ve ark., 2026]]).
 
+Temiz bir arayüz avantajı bile niyeti harekete geçirmeyebilir: 18-25 yaş arası yetişkinler bir üniversite programı bilgisini ya bir dayanaklı sohbet robotundan ya da programın web sitesinden aradığında, her algısal ölçüt sohbet robotunu lehine çıkarmış ama onu tekrar kullanmaya ilişkin davranışsal niyet farklılaşmamıştır; teknolojiye hazır bulunuşluğun avantajın büyüklüğünü düzenlediği ve en az rahat olan kullanıcıların en az kazanç elde ettiği görülmüştür ([[ai-conversational-interfaces-information-seeking-2026|Goebert ve ark., 2026]]).
+
 ## Sınırlar ve genişlemeler
 
 TAM’in bilişsel odağı YZ kullanımının duygusal ve ilişkisel boyutlarını da yetersiz kavrar. [[akbaba-nursing-ai-experiences-tam-2026|Hemşirelik öğrencileri ve öğretim üyelerine ilişkin nitel bir çalışma]], dört klasik TAM yapısının yanı sıra katılımcıların — başlıca öğrencilerin — YZ’yi psikososyal destek kaynağı olarak tanımladığını bulmuştur: stres anlarında duygusal huzur ve yansıma için gizli bir alan. Bu, algılanan yararlılığı yüksek stresli [[professional-training|mesleki eğitimde]] performans kazanımlarının ötesine [[well-being]] taşır; benimseme modellerinin yalnızca aletsel faydaya değil, duyuşsal ve psikososyal faktörlere de ilgi göstermesi gerektiğini düşündürür.
@@ -94,6 +103,8 @@ TAM’in bilişsel odağı YZ kullanımının duygusal ve ilişkisel boyutların
 
 Yakın tarihli bir genişleme alışılmış yönü tersine çevirir ve [[discipline-specific-aied|alana özgü]] motivasyonel inanışları TAM algılarının yanına değil, önüne yerleştirir. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ve Lu (2026)]], fayda değerinin algılanan yararlılığı β = 0.43 ile, başarı beklentisinin ise kullanım kolaylığını β = 0.39 ile öngördüğünü, TAM’in çekirdek yollarının ise zayıflamakla birlikte anlamlı kaldığını bildirir.
 
+**Yararlılık, araca değil görev setine aittir.** 26 STEM lisans öğrencisiyle yapılan dört odak grubunda, aynı tartışma panosu, istek metni uygulama istediğinde ya da akranların nasıl akıl yürüttüğünü gösterdiğinde zamanlarına değer olmuş; yeniden ifade istediğinde ise sıkıcı bir iş olmuştur ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner ve Nugent, 2026]]). Yazarlar sonucu bir TAM iddiası olarak söyler: algılanan yararlılık, panonun varlığından çok istek metninin nasıl kurulduğuna bağlanır.
+
 **Paralel bir yol olarak görev–teknoloji uyumu ve ayrı bir soru olarak gereklilik.** Yukarıdaki genişlemelerin çoğu inanış modelinin *içine* yapı ekler. TAM çalışmalarının nadiren taşıdığı bir kardeş çerçeve, bir aracın yeteneklerinin belirli görevin taleplerine uyup uymadığını soran Görev–Teknoloji Uyumu’dur. [[chu-design-students-ai-agent-tam-ttf-2026|Chu ve Liu (2026)]], Çin üniversitelerinde 405 tasarım yüksek lisans öğrencisinde ikisini birleştirmiş ve uyum, yararlılığın belirleyicisi değil tutuma giden ikinci bir yol olarak işlemiştir.
 
 Görev özellikleri uyumu β = 0,322, teknoloji özellikleri β = 0,266 ile beslemiştir. Uyum ardından tutumu β = 0,224 ile beslemiş; algılanan yararlılık (0,376) ve algılanan kullanım kolaylığı (0,185) bunun yanında yer almış; tutum da niyeti β = 0,388 ile beslemiştir. Öz yeterlilik en büyük yukarı akış katsayılarını taşımıştır: yararlılık üzerinde 0,458 ve kullanım kolaylığı üzerinde 0,394. Algılanan keyif kullanım kolaylığını yükseltmiş (0,220) ve yararlılığa dokunmamıştır (−0,033, p = 0,483) — klasik modelin çizmediği bir araçsal/duyuşsal ayrım.
@@ -103,6 +114,8 @@ Yöntemsel ek, daha aktarılabilir olan kısımdır. Çok katmanlı bir algılay
 **İnanışların yukarısındaki tasarım özellikleri ve gereklilik olmayan önem.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin ve Qing (2026)]], 301 Çinli üniversite öğrencisi için iki TAM inanışının önüne, uyarı–organizma–tepki çerçevesinden ödünç alarak altı sistem özelliği yerleştirir. Kişiselleştirme ve etkileşimlilik yalnızca algılanan yararlılığı, zekâ ve içerik bütünlüğü yalnızca kullanım kolaylığını hareket ettirmiştir. Yanıt verebilirlik ikisini de hareket ettirmiş, antropomorfizm hiçbirini. Model niyetin R² = 0,244’ünü açıklamıştır (SRMR = 0,033) ve kullanım kolaylığı niyet üzerinde yararlılığın önündedir (β = 0,340’a karşı 0,265). On kat çapraz doğrulanmış ağ önemi de aynı yöndedir: kullanım kolaylığı %100, yararlılık %84,70.
 
 Gerekli koşul analizi ardından etkiyi gereklilikten ayırmıştır. En üst sıradaki öngördürücü olan kullanım kolaylığı tamamen başarısız olmuştur (d = 0, p = 0,592). Yararlılık gerekliydi ama küçüktü (d = 0,027, p = 0,011). Yazarlar bu ayrımı, bir yol katsayısını taban saymaya karşı bir uyarı olarak okur. Güçlü bir katsayı, bir birim kolaylığın ortalama olarak niyet satın aldığını söyler; yalnızca gereklilik, diğer inanışın yok olup olamayacağını söyler.
+
+**Güven üzerinden yönlendirilen tasarım özellikleri, yanında DOI ile birlikte.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang ve ark. (2026)]], 653 öğrenene [[ai-avatars-and-synthetic-instructors|YZ avatarları]] hakkında anket yapmış ve birleşik TAM–DOI modelindeki en güçlü yolun algılanan şeffaflıktan [[trust|güvene]] (β = 0,542) gittiğini bulmuştur. Göreli avantaj (β = 0,267) ve algılanan yararlılık (β = 0,247), tutumdan (β = 0,126) daha fazlasıyla niyeti taşımıştır.
 
 Riskin kullanımla bağlantısı sisteme de bağlıdır: ilgili maddeleri uygulayan 49 TALIS 2024 sistemi boyunca, algılanan YZ yararlılığı 49’unun tümünde YZ kullanımıyla pozitif ilişkiliyken, algılanan risk 40 sistemde olumsuz, dokuz sistemde olumlu ilişkilidir ([[teachers-ai-belief-profiles-talis-2024-2026|Fang ve Jin (2026)]]).
 

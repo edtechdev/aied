@@ -6,14 +6,19 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-10-14T22:25:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
 connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
@@ -26,9 +31,9 @@ connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural
 ## Dikkate Alınması Gereken Sorular
 
 - Okulun çoğu zamanı sabitler, başarıyı değişken bırakır — herkes belirli sayıda haftadan sonra ilerler. Ustalık öğrenmesi bunu tersine çevirir: başarı sabit tutulurken zaman, geri bildirim ve alıştırma değişir. Hangi model, zor bir şeyi öğrenme biçiminizle daha iyi örtüşüyor?
-- Sayfadaki kritik bir uyarı: "doğruluk, ustalık değildir." Bir öğrenci anahtar bir kısıtı gözden kaçırırken doğru yanıtlar üretebilir ve sistemi ustalığı erkenden ilan etmeye kandırabilir. *Ne zaman yapmamak* gerektiğini gerçekten anlamadan doğru biçimde yerine getirebildiğiniz bir beceriyi düşünebiliyor musunuz?
+- "Doğruluk, ustalık değildir"; bir öğrenci anahtar bir kısıtı gözden kaçırırken doğru yanıtlar üretebilir ve sistemi ustalığı erkenden ilan etmeye kandırabilir. *Ne zaman yapmamak* gerektiğini gerçekten anlamadan doğru biçimde yerine getirebildiğiniz bir beceriyi düşünebiliyor musunuz?
 - Ustalık temelli YZ, öğrenenlere kendi görevlerini seçme özerkliği verir; ancak simülasyonlar, saf öz-seçimin korkunç miktarda fazla alıştırmaya yol açabileceğini gösterir. Bir öğrencinin seçim yapmasına izin vermekle ilerlemeyi verimli kılacak kısıtlar dayatmak arasındaki doğru denge nerede?
-- Sayfa, tek bir doğru performans değil kalıcı belleklenmeyi vurgular — bu yüzden ustalığı aralıklı alıştırma izlemelidir. Bir öğrenci bugün bir şeyi "ustalaşmış" gibi görünürken saatler içinde kaybedebilir mi?
+- Kalıcı belleklenme önemlidir, yalnızca tek bir doğru performans değil; bu yüzden ustalığı aralıklı alıştırma izlemelidir. Bir öğrenci bugün bir şeyi "ustalaşmış" gibi görünürken saatler içinde kaybedebilir mi?
 - Bir YZ size bir konuyu "ustalaştığınızı" söylerse, inanmadan önce neyi kontrol etmesini istersiniz — birkaç yanıtı doğru almanın ötesinde?
 
 ## Giriş

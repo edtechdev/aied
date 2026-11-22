@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
 connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -29,7 +34,7 @@ connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-on
 
 - Okumaya başlamadan önce: "çevrim içi sınavlarda akademik dürüstlük" deyince aklınıza gelen ilk içgüdü, onu nasıl koruyacağınız — ve bu içgüdü hile yapanları tespit etmek mi yoksa güven inşa etmek mi üzerine? Sayfa, bunların iki çok farklı felsefeyi yansıttığını savunuyor.
 - Uzaktan gözetimli sınav, web kamerası üzerinden bakan bir insandan, göz hareketlerini, baş duruşunu ve yüz ifadelerini analiz eden YZ sistemlerine kadar uzanır. Bir YZ sistemi "şüpheli davranış" işaretlediğinde aslında ne *gözlemler* ve ekrandan uzaklaşmanın hile olduğuna ne kadar güveniyorsunuz?
-- Sayfa, izlemenin ters etki yapabileceğini uyarır: izlenmek [[anxiety-and-stress|sınav kaygısını]] arttırır ve stres altındaki öğrenciler hileye *daha yatkın* olabilir. Zaman baskısının veya gözetlemin kendi performansınızı etkilediği bir anı hatırlayabiliyor musunuz? Bu deneyim, gözetimli sınava ilişkin gerekçeyi zayıflatıyor mu?
+- Gözetim ters geri tepebilir: gözetim altında kaygı artar ve stres altındaki öğrenciler hileye *daha yatkın* olabilir. Zaman baskısının veya gözetlemin kendi performansınızı etkilediği bir anı hatırlayabiliyor musunuz? Bu deneyim, gözetimli sınava ilişkin gerekçeyi zayıflatıyor mu?
 - Otomatik gözetimli sınav, öğrencilerin yaşam alanını, yüzünü ve sesini kaydeder; çoğu zaman gerçek bir seçim olmadan onay vermekten başka çare yoktur. Makul sınav gözetimi ile öğrencileri namusları kanıtlanana kadar suçlu sayan gözetim arasındaki çizgi nerede — ve onu kim çizmeli?
 - Araştırmalar, gözetimli sınavın zararsız davranışları şüpheli olarak işaretleyebileceğini, asılsız suçlamalara yol açtığını ve model doğruluğunun demografik gruplar ve ortamlar arasında değiştiğini göstermektedir. Bir [[administrator]] iseniz, geri kazandığı dürüstlüğü, aşındırabildiği eşitlik ve güvene karşı nasıl tartarsınız?
 - Sayfa, gözetimli sınavı bir çözüm değil bir araç olarak çerçeveler — sözlü sınav ve [[process-oriented-assessment|süreç temelli değerlendirme]] gibi alternatifler vardır. Okumaya başlamadan önce: uzak bağlamda yüksek riskli değerlendirme için hangi yaklaşımı savunurdunuz ve fikrinizi değiştirecek kanıt ne olurdu?

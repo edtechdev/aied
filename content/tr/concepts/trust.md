@@ -1,19 +1,24 @@
 ---
 title: Güven
 created: "2026-10-14T22:05:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
@@ -28,7 +33,7 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-sim
 - Bir YZ aracına ‘güvendiğinizi’ söylediğinizde bir öğretmene ya da bir meslektaşa güvendiğinizle aynı şeyi mi anlatıyorsunuz? Bir sisteme güven duymak ile bir kişiye güven duymak açısından benzer olan ne, temelden farklı olan ne?
 - ‘Güven-fayda uçurumu’ olarak belgelenen bir durum var: bir aracın görünür yetkinliği sıklıkla gerçek güvenilirliğini aşar. Etkileyici görünen ama sizi yarı yolda bırakan bir aracı ya da sınırlı görünen ama güvenilir olduğunu kanıtlayan bir aracı hatırlayın. Göründüğü ile gerçekten yapabildiği arasındaki bu uçurumu ne şekillendirdi?
 - Her zaman sizinle aynı fikirde olan ve fikirlerinizi asla sorgulamayan bir YZ düşünün. Rahat ve güvenilir gelebilir — ama hemfikir olmak güvenilir olmakla aynı şey mi? Bel bağladığınız araç size asla karşı çıkmıyorsa neyi gözden çıkarıyor olabilirsiniz?
-- Sayfa, bir öğretmenin YZ’ye güveninin öğrencilerin o YZ’ye güvenini nasıl şekillendirdiğini ileri sürüyor — iki alan birbiriyle etkileşir. İyi tanıdığınız bir derste bir öğretmenin YZ konusundaki heyecanı ya da kuşkuculuğu, öğrencilerin aracı kabul edip etmeyeceğini ya da sorgulayıp sorgulamayacağını nasıl etkilerdi?
+- Bir öğretmenin YZ konusundaki heyecanı ya da kuşkuculuğu öğrencilere yayılabilir. İyi tanıdığınız bir derste bu durum, öğrencilerin aracı kabul edip etmeyeceğini ya da sorgulayıp sorgulamayacağını nasıl etkilerdi?
 - Öğrenciler, YZ kullanımlarını açıklayıp açıklamamaya karar verirken genellikle politikadan çok öğretmenleriyle hissettikleri rahatlığa bakarlar. Bir öğrenci olsaydınız (ya da öğrenciyseniz), YZ kullandığınız konusunda dürüst olmaya sizi ne isteklendirirdi — gizlemeye ne? Bu, bir sınıfta güvenin gerçekte nasıl inşa edildiği konusunda ne söylüyor?
 - Bir bulgu: ‘Hata yapabilirim’ uyarısı veren bir YZ öğretmeni, öğrencilerin daha az değil daha fazla yardım aramasına yol açtı. Bu, sınırları kabul etmenin gerçek öğrenmeyi destekleyen güveni zayıflatıp zayıflatmadığına ya da güçlendirip güçlendirdiğine dair ne söylüyor?
 
@@ -45,7 +50,12 @@ Bu bilgi tabanındaki [[research-methods-aied|araştırma]], öğrenenlerin YZ t
 Bir sistem *ne olduğu* hakkında — sadece ne yapabildiği hakkında değil — şeffaflık da kalibrasyonu etkiler: Amico eşlik prototipi kimliğini ve sınırlarını açıkça belirtmiş olup İtalya–Çin pilotunda öğrenenler onu özerk bir öğretmen ya da ilişkisel bir yedek değil, sınırları belli bir destek aracı olarak tanımıştır; bu da insan biçiminde aşırı güveni önlemiştir ([[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]).
 
 Yükseköğretim kurumlarında kaldıraç, kurallardan çok faydalılık olabilir: tek bir üniversitede anket uygulanan 2.121 öğrenci, akademik personel ve idari personel arasında [[technology-acceptance-model|algılanan faydalılık]], YZ’ye duyulan güvenin ilişkili değişkeni olarak politika netliğinden daha ağır basmıştır (β = 0,402; politika netliği 0,223) ([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).
+
+Güvenin de faydalılıktan daha dar bir işi vardır. 106 eğitimciyle doğrulanmış 30 maddelik bir ölçekte, güven ortak üretimli “düşünce partneri” kullanımını yordamıştır ancak benimseme niyetini yordamaz; bunun etkisi tamamen faydalılık üzerinden geçmiştir ([[mcgehee-trail-educator-trust-readiness-ai-2026|McGehee (2026)]]).
+
 **Doğruluktan duyulan güvensizlik, aracı kullanabilme konusundaki güvenle bir arada var olabilir.** Dört Avustralya üniversitesindeki 8.021 öğrenciden oluşan bir ankette, %51’i GenAI’ın olgusal doğruluğuna güvenmezken %76’sı istedikleri çıktıları alma yeteneğine güveniyordu ve kullanımlarını güvene ya da kurala uyuma değil faydalılık yönlendiriyordu ([[genai-use-usefulness-student-experience-australia-2026|Chung ve ark., 2026]]).
+
+Güven ve kullanım giriş noktasında da ayrışır. Birinci sınıf mühendislik tasarım dersinde bir ders asistanı öğrencilerin %72’sini çekmiş ve ilkbahar anketine katılanların %85’i onu kullanmaya devam etmeyi planlamıştır; ancak açık uçlu soruları yanıtlayan 294 kullanıcının %20’si hâlâ güven eksikliğini dile getirmiştir ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta ve ark., 2026]]). 201 kullanmamış kişi arasında %38’i denemediğinin nedeni olarak güven eksikliğini göstermiştir — aynı itiraz, kullananlar için bir uyarı, diğerleri için kapalı bir kapıydı.
 
 [[ai-overreliance-complex-adaptive-system-2026|YZ’nin aşırı bel bağlamasının karmaşık uyarlanır bir sistem olarak modellenmesi]], güveni nüfus düzeyinde bir süreç olarak yeniden çerçeveliyor: insanların bir yardımcı doğruyken ona güvenip yanlışyken onu sınamaları, yalnızca bireysel yargıdan çok sosyal dinamikler ve geri bildirim döngülerine bağlıdır. Yağcılık (sycophancy) kalibrasyonu öteki yönden tehdit eder — [[ai-sycophancy|her zaman hemfikir olan bir YZ]], kullanıcıyı asla sorgulamadığı için tam olarak güvenilir hissedilebilir ve eleştirel olmayan kabulü davet eder ([[contextual-sycophancy-ai-literacy|bağlamsal yağcılık]] ve [[sycophantic-ai-social-interaction-2026|sosyal etkileşimde yağcı YZ]]). [[embodied-learning|Gömülü (bedensel)]] bağlamlarda, örneğin [[educational-robotics]] gibi, güven robotun görünüşünden çok davranışı tarafından şekillenir ([[task-context-trust-educational-hri-2026|görev bağlamı ve eğitim HRI’sinde güven]]); [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|avatar kimliği]] ise öğrenenlerin YZ içeriğine yönelik epistemik güvenini etkiler. [[learning-analytics|Öğrenme analitiği]] araçlarına güven de bağlama bağlıdır. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain ve ark. (2026)]], öğretmenlerin kaygılarının ve benimseme engellerinin öğrenme bağlamına göre keskin biçimde ayrıştığını bulmuştur: ters-yüz edilmiş sınıf (üniversite) öğretmenleri en çok veri anonimleştirme ve öğrenci çekilme hakkı konusunda endişelenirken, yansıtıcı yazma (mesleki eğitim) öğretmenleri meslektaşlarının aracı kötüye kullanmasından korkuyor ve verileri bağlama göre ele alma gereğini vurguluyordu — her iki grup da bir YZ güveni anketinde benzer [[self-efficacy]] ve algılanan faydaları bildirmesine rağmen. Araca duyulan güvenin veri yönetişimine ve sosyal kullanıma duyulan güvenden ayrıştığı bulgusu, analitiğe yerinde güven kurmanın sistemin görünür yetkinliğinden çok bağlama özgü kaygılara eğilim gerektirdiğini ortaya koyar.
 
@@ -60,6 +70,8 @@ Yapısal bir model, bu köprüleme rolünü ampirik olarak sınar. [[trust-calib
 **Her klasik benimseme yolunun önünde güven.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]], Zhejiang’da 450 sanat ve tasarım öğrencisiyle yaptığı ankette güveni UTAUT’a eklemiş ve onu [[generative-ai|üretken YZ]] kullanma niyetinin en güçlü doğrudan yordayıcısı bulmuştur (β = 0,425). Sosyal etki (0,155), üstbilişsel kontrol (0,146) ve performans beklentisi (0,128) onu izlemiştir. Sosyal etki ayrıca güvene giden en büyük yolu taşımış (β = 0,262) ve niyetle toplam ilişkisinin %42,1’i güven üzerinden geçmiştir.
 
 Yapı, katsayının ima ettiğinden daha incedir. Sanat değeri ekiyle araçsal teknoloji güvenini ölçer — kalibre edilmiş güvenilirlik değil, beyan edilen güven — ve 121 öğrencilik bir pilotta kendi faktörünü oluşturan iki yazarlık maddesi çıkarılmıştır. Bir öğrenci bu modele uygun ya da ayrım gözetmeden güvenebilir ve ölçme aracı ikisini birbirinden ayırt edemez.
+
+Şeffaflık, güvene giden en güçlü yol olabilir; ancak güven, kullanmaya giden en güçlü yol değildir. [[wang-ai-avatars-tam-doi-adoption-2026|Wang ve ark. (2026)]], 653 öğrenciyle [[ai-avatars-and-synthetic-instructors|YZ avatarları]] hakkında anket yapmış ve şeffaflığın güveni β = 0,542 ile yordadığını bulmuştur — modeldeki en büyük yol —; ancak bu güven, göreceli avantaj (0,267) ve algılanan faydalılığın (0,247) gerisinde, benimseme niyetini yalnızca β = 0,196 ile yordamıştır.
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]], algoritmalara duyulan güvene ilişkin **işleve özgü, küresel olmayan** bir görüşü desteklemektedir: bu 13 öğrencinin hiçbirini ne algoritmadan kaçınma ne de algoritma takdiri tanımlamamıştır; aynı anda ChatGPT’yi yüzeysel düzeydeki geri bildirim için güvenilir bulurken notlandırıcı olarak ona güvenmemektedirler. Güvenleri öğretmen denetimine koşullu olup kuşkuculukları teknofobiden değil, YZ’nin bağlamsal sınırlarından kaynaklanmaktadır — taranmış el yazısını yanlış okuması (“soyadımı yanlış yazdı ve ben yazım hatası yapmadığım halde yaptığımı düşünüyor”), öğretmenin not verme sistemini bilmemesi ve alışılmış olumluluk — bu da güven ölçümlerinin bir YZ’nin yerine getirdiği işleve ve bu işleve bağlı olanı göre ayrıştırılması gerektiğini düşündürür.
 
@@ -91,18 +103,6 @@ Birleştirici zorluk **kalibrasyondur**: güvenilen taraf bir model de olsa bir 
 
 Kalibrasyon aynı zamanda güven duyulan sistemin kendi teşvikleriyle de sınanır. YZ benimsemesine kuşkucu yaklaşan personel, benimsemede ticari çıkarı olan kuruluşlar tarafından geliştirilen [[conversational-ai|konuşma tabanlı YZ]]’yi danıştığında, sistemin benimsemeyi teşvik etmeye eğilimli olma riski vardır. On sınır ötesi modelin denetimi, çoğunun kırsal bir [[k-12]] personelinin kaygılarını (iş kaybı, ‘benim gibi insanlar için değil’ hissi) kabul ettikten sonra etkileşime yönlendirdiğini göstermiştir. Bu, güvene ilişkin saf bel bağlamayı sorgular ve [[human-in-the-loop-ai|insan denetimi]] ile YZ önerilerinin bağımsız [[ai-ed-evaluation|değerlendirmesi]]nin önemini vurgular.
 
-## Yaygın yanlış anlamalar
-
-**“Güven ve güvensizlik tek bir ölçeğin iki ucunda yer alır.”** Birbirinden ayrılabilirler ve ikisini karıştırmak öğrencilerin gerçekte ne bildirdiğini yanlış okumak demektir. **Risk algısı ile güven karşıtları değildir:** [[agentic-ai|etmen (ajant)]] GenAI’ın [[higher-ed|yükseköğretim]] bağlamında incelendiği 130 öğrencilik bir algı çalışması, algılanan riskin orta düzeyde yükseldiğini (M = 3,33, SS 0,89) *bunun yanı sıra* daha olumlu güven ve benimseme görüldüğünü bulmuştur. Bir öğrenen ikisini aynı anda taşıyabilir; bu nedenle tek bir güven puanı, bel bağlamasının yerinde olup olmadığını size söyleyemez.
-
-**“YZ’nin doğruluğuna duyulan güvensizlik, öğrencilerin ona bel bağlamayacağı anlamına gelir.”** Öğrenciler çıktıyı onu yönlendirme yeteneklerinden ayırt eder. **Dört Avustralya üniversitesindeki 8.021 öğrenciyle yürütülen bir ankette, %51’i GenAI’ın olgusal doğruluğuna güvenmezken %76’sı istedikleri çıktıları alma yeteneğine güveniyordu.** Davranışı yordayan ikinci sayıdır: çıkarım yapma konusundaki güven, doğruluk konusundaki kuşkuyla bir arada var olur ve bunlardan yalnızca biri bir güvenlik özelliğidir.
-
-**“Öğrenci güvenini inşa eden şey daha net kurallar ve politikalardır.”** Faydalılık baskındır. Bir üniversitedeki 2.121 öğrenci, akademik personel ve idari personeli kapsayan bir ankette algılanan faydalılık, **YZ’ye duyulan güvenin en güçlü ilişkili değişkeni (β = 0,402)** olmuş, algılanan politika netliği ise onun gerisinde kalmıştır. Kimsenin faydalı bulmadığı araçları sunarken kural yapımına yatırım yapan kurumlar, daha zayıf kaldıraca nişan almış olur.
-
-**“Öğrenenler ona daha çok güvenirse onu daha dikkatli, en azından yerinde kullanırlar.”** Belgelenen örüntü bunun tersidir. Doğru ve kasten yanıltıcı önerilerle Python problemleri çözen 432 lisans öğrencisi arasında daha yüksek güven **daha düşük** yerinde bel bağlamayı yordamıştır (r = -,42) ve öğrenciler yanıltıcı önerilerin %86,03’ünü kabul etmiştir. Güven, kalibrasyonun bir vekili değildir; bkz. [[trust-calibration|güven kalibrasyonu]].
-
-**“Yanılabilirlik konusunda dürüst uyarılar bir öğretmene duyulan güveni zayıflatır.”** Davranışı iyileştirirler. Bir matematik ITS’sinde [[ai-fallibility-warning-help-seeking|YZ’nin yanılabilirliğine ilişkin uyarılar]] kullanımı azaltmak yerine [[help-seeking|yardım aramayı]] artırmıştır; bu, sınırları dile getirmenin yerinde bel bağlamayı aşındırmak yerine beslediğini düşündürür.
-
 ## Uygulama için çıkarımlar
 
 **Öğretim elemanları için**
@@ -121,3 +121,17 @@ Kalibrasyon aynı zamanda güven duyulan sistemin kendi teşvikleriyle de sınan
 
 - Güveni, risk algısını ve yerinde bel bağlamayı ayrı yapılar olarak raporlayın, çünkü bunlar belirsiz olmayan yönlerde birlikte değişir; negatif yönde olanlar dahil.
 - Davranışsal sonucu (yanlış önerilerin kabul oranı) öz bildirim güvenle birlikte raporlayın; tek başına güven ölçekleri sonucu tersine çevirir.
+
+Araca duyulan güven, kullanıcısının kendini ne kadar istihdam edilebilir hissettiğinin bir parçasını taşıyabilir. 579 Çin üniversite öğrencisi arasında, üretken YZ kullanımı kendini algılanan istihdam edilebilirliği β = 0,503 ile yordamış ve üretken YZ’ye güven, toplam etkinin %19,35’ini oluşturan 0,079’luk (%95 GA [0,031, 0,137]) dolaylı bir yol taşımıştır; bu, kariyer kararı öz-yeterliliğinin 0,168’inin gerisindedir ([[yan-genai-employability-career-self-efficacy-2026|Yan (2026)]]). Tasarım kesitseldir, bu nedenle sıralama gözlenen değil kuramsaldır.
+
+## Yaygın yanlış anlamalar
+
+**“Güven ve güvensizlik tek bir ölçeğin iki ucunda yer alır.”** Birbirinden ayrılabilirler ve ikisini karıştırmak öğrencilerin gerçekte ne bildirdiğini yanlış okumak demektir. **Risk algısı ile güven karşıtları değildir:** [[agentic-ai|etmen (ajant)]] GenAI’ın [[higher-ed|yükseköğretim]] bağlamında incelendiği 130 öğrencilik bir algı çalışması, algılanan riskin orta düzeyde yükseldiğini (M = 3,33, SS 0,89) *bunun yanı sıra* daha olumlu güven ve benimseme görüldüğünü bulmuştur. Bir öğrenen ikisini aynı anda taşıyabilir; bu nedenle tek bir güven puanı, bel bağlamasının yerinde olup olmadığını size söyleyemez.
+
+**“YZ’nin doğruluğuna duyulan güvensizlik, öğrencilerin ona bel bağlamayacağı anlamına gelir.”** Öğrenciler çıktıyı onu yönlendirme yeteneklerinden ayırt eder. **Dört Avustralya üniversitesindeki 8.021 öğrenciyle yürütülen bir ankette, %51’i GenAI’ın olgusal doğruluğuna güvenmezken %76’sı istedikleri çıktıları alma yeteneğine güveniyordu.** Davranışı yordayan ikinci sayıdır: çıkarım yapma konusundaki güven, doğruluk konusundaki kuşkuyla bir arada var olur ve bunlardan yalnızca biri bir güvenlik özelliğidir.
+
+**“Öğrenci güvenini inşa eden şey daha net kurallar ve politikalardır.”** Faydalılık baskındır. Bir üniversitedeki 2.121 öğrenci, akademik personel ve idari personeli kapsayan bir ankette algılanan faydalılık, **YZ’ye duyulan güvenin en güçlü ilişkili değişkeni (β = 0,402)** olmuş, algılanan politika netliği ise onun gerisinde kalmıştır. Kimsenin faydalı bulmadığı araçları sunarken kural yapımına yatırım yapan kurumlar, daha zayıf kaldıraca nişan almış olur.
+
+**“Öğrenenler ona daha çok güvenirse onu daha dikkatli, en azından yerinde kullanırlar.”** Belgelenen örüntü bunun tersidir. Doğru ve kasten yanıltıcı önerilerle Python problemleri çözen 432 lisans öğrencisi arasında daha yüksek güven **daha düşük** yerinde bel bağlamayı yordamıştır (r = -,42) ve öğrenciler yanıltıcı önerilerin %86,03’ünü kabul etmiştir. Güven, kalibrasyonun bir vekili değildir; bkz. [[trust-calibration|güven kalibrasyonu]].
+
+**“Yanılabilirlik konusunda dürüst uyarılar bir öğretmene duyulan güveni zayıflatır.”** Davranışı iyileştirirler. Bir matematik ITS’sinde [[ai-fallibility-warning-help-seeking|YZ’nin yanılabilirliğine ilişkin uyarılar]] kullanımı azaltmak yerine [[help-seeking|yardım aramayı]] artırmıştır; bu, sınırları dile getirmenin yerinde bel bağlamayı aşındırmak yerine beslediğini düşündürür.

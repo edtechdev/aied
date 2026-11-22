@@ -30,12 +30,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Düşünülmesi Gereken Sorular
 
-1. Bir öğrenci, tesadüfen doğru olan bir YZ cevabını kabul ettiğinde, ders başarılı mı olmuştur? Kabulın kendisinin önemli olan şey olması için neyin doğru olması gerekirdi?
-2. Kendi sınırlarını bilen, kalibre bir devreden kişi, iyi ile kötüyü ayırt edemeyen bir öğrenciden nitelik olarak farklı mıdır? [[teacher-role|Bir eğitmen]], tek bir çalışmada bu farkı nasıl anlardı?
-3. YZ önerisi mevcut olduğunda olduğu gibi güven artarken doğruluk düşerse, bu öğrenenin kendi hata tespitine ne yapar?
-4. Doğrulama nerede öğretilebilir bir şeydir ve nerede [[educational-policy-ai|politika]] tarafından ele alınması gereken bir iş yükü sorunudur? Denetimin istisna değil kural haline gelmesi için bir [[curriculum-design|müfredatın]] hangi bölümlerinin değişmesi gerekirdi?
-5. Kurumlar teslimiyeti hiç ölçmeli midir, yoksa onu ölçmek, [[ai-use-disclosure|açıklama kurallarının]] zorlandığı aynı gözetim türünü davet eder mi?
-6. Bir öğrenciyi cilalanmış bir çıktı üretmekten ziyade yanlış bir YZ cevabını geçersiz kıldığı için ödüllendiren bir görev nasıl görünürdü?
+- Bir öğrenci, tesadüfen doğru olan bir YZ cevabını kabul ettiğinde, ders başarılı mı olmuştur? Kabulın kendisinin önemli olan şey olması için neyin doğru olması gerekirdi?
+- Kendi sınırlarını bilen, kalibre bir devreden kişi, iyi ile kötüyü ayırt edemeyen bir öğrenciden nitelik olarak farklı mıdır? [[teacher-role|Bir eğitmen]], tek bir çalışmada bu farkı nasıl anlardı?
+- YZ önerisi mevcut olduğunda olduğu gibi güven artarken doğruluk düşerse, bu öğrenenin kendi hata tespitine ne yapar?
+- Doğrulama nerede öğretilebilir bir şeydir ve nerede politika tarafından ele alınması gereken bir iş yükü sorunudur? Denetimin istisna değil kural haline gelmesi için bir [[curriculum-design|müfredatın]] hangi bölümlerinin değişmesi gerekirdi?
+- Kurumlar teslimiyeti hiç ölçmeli midir, yoksa onu ölçmek, [[ai-use-disclosure|açıklama kurallarının]] zorlandığı aynı gözetim türünü davet eder mi?
+- Bir öğrenciyi cilalanmış bir çıktı üretmekten ziyade yanlış bir YZ cevabını geçersiz kıldığı için ödüllendiren bir görev nasıl görünürdü?
 
 ## Giriş
 

@@ -2,6 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Erişilebilirlik
 created: "2026-10-14T22:20:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -9,13 +10,17 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, assistive-technology, learning-design, generative-ai, educational-robotics, intelligent-tutoring, adaptive-learning, agency, virtual-and-augmented-reality, speech-and-voice-technologies, legal-issues-and-risks, arts-and-media-education]
 connected_articles: [chan-ai-institutionalization-index-global-universities-2026, shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, genai-minoritized-knowledges-disability, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026, wright-transcription-not-generation-2026, ad4edu-lecture-audio-description-2026, airri-machine-resistant-reading-interface-2026]
@@ -36,7 +41,7 @@ connected_articles: [chan-ai-institutionalization-index-global-universities-2026
 
 ## Giriş
 
-Erişilebilirlik, bu bilgi tabanındaki üç komşu kavramdan farklıdır ama onlarla yakından ilişkilidir. **[[inclusive-learning]]**, tüm öğrenen çeşitliliği (fiziksel, bilişsel, duyusal, durumsal) için eğitim tasarlamanın daha geniş şemsiyesidir. **[[special-education]]**, bireysel uyarlamalar dâhil teşhis konmuş engelli öğrenenler için öğretim alanıdır. **[[universal-design-for-learning]]**, önleyici tasarım çerçevesidir ([[student-engagement|katılımın]], temsilin, eylem/ifadenin çoklu yolları). **Erişilebilirlik**, bu takımyıldızın içinde *teknik ve usul katmanı* olarak yer alır: pedagojiyi yeniden tasarlamak yerine biçimi algılama ve kullanma engellerini kaldırır. İkisi bir spektrum üzerinde ayrılabilir — erişilebilirlik “herkes bu içeriğe ve araca erişebilir mi?” diye sorarken, engelli öğrencileri desteklemek “öğretim, uyarlamalar ve engelliye özgü destek dâhil her öğrenciye anlamlı biçimde hizmet ediyor mu?” diye sorar. İkisi de önemlidir ve YZ her ikisiyle de kesişir.
+Erişilebilirlik, üç komşu kavramdan farklıdır ama onlarla yakından ilişkilidir. **[[inclusive-learning]]**, tüm öğrenen çeşitliliği (fiziksel, bilişsel, duyusal, durumsal) için eğitim tasarlamanın daha geniş şemsiyesidir. **[[special-education]]**, bireysel uyarlamalar dâhil teşhis konmuş engelli öğrenenler için öğretim alanıdır. **[[universal-design-for-learning]]**, önleyici tasarım çerçevesidir ([[student-engagement|katılımın]], temsilin, eylem/ifadenin çoklu yolları). **Erişilebilirlik**, bu takımyıldızın içinde *teknik ve usul katmanı* olarak yer alır: pedagojiyi yeniden tasarlamak yerine biçimi algılama ve kullanma engellerini kaldırır. İkisi bir spektrum üzerinde ayrılabilir — erişilebilirlik “herkes bu içeriğe ve araca erişebilir mi?” diye sorarken, engelli öğrencileri desteklemek “öğretim, uyarlamalar ve engelliye özgü destek dâhil her öğrenciye anlamlı biçimde hizmet ediyor mu?” diye sorar. İkisi de önemlidir ve YZ her ikisiyle de kesişir.
 
 ### Ayrımın neden önemli olduğu
 

@@ -1,7 +1,7 @@
 ---
 title: Sensör ve Bakış Analitiği
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,13 +12,17 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
 connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
@@ -39,7 +43,7 @@ connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-
 
 ## Giriş
 
-Sensör ve bakış analitiği, bir öğrenenin fiziksel ölçümlerini eğitsel çıkarımlara dönüştüren bir yöntem ailesini betimler. Ölçümler arasında gözlerin nerede ve ne kadar süre durduğu, kafa derisinin elektriksel etkinliği, ter bezi tepkileri, kalp atış hızındaki atıştan atışa değişkenlik ve baş ile gövdenin konumu ve hareketi bulunur. Çıkarımlar arasında dikkat, katılım, bilişsel yük, kafa karışıklığı, stres ve değerlendirme ortamlarında şüphe yer alır.
+Sensör ve bakış analitiği, bir öğrenenin fiziksel ölçümlerini eğitsel çıkarımlara dönüştüren bir yöntem ailesini betimler. Ölçümler arasında gözlerin nerede ve ne kadar süre durduğu, kafa derisinin elektriksel etkinliği, ter bezi tepkileri, kalp atış hızındaki atıştan atışa değişkenlik ve baş ile gövdenin konumu ve hareketi bulunur. Çıkarımlar arasında dikkat, katılım, bilişsel yük, kafa karışıklığı, stres ve değerlendirme ortamlarında şüphe yer alır. Odak bu ölçüm katmanıdır: daha geniş program ve iddiaları için bkz. [[affective-computing|duygusal hesaplama]]; bir çıkarıma sahip bir öğretim aracının bu çıkarıma göre nasıl hareket etmesi gerektiği için bkz. [[affective-tutoring|duygu temelli öğretim]].
 
 Cazibe açıktır. [[self-report-measures|Öz bildirimler]] geriye dönüktür ve kabadır; testler ise öğrenmeyi yalnızca birkaç anda örnekler. Sensörler sürekli çalışır ve öğrenene neredeyse hiç bilinçli çaba yüklemez. Bu bileşim algılamayı [[learning-analytics|öğrenme analitiğinin]] ve [[student-modeling|öğrenen modellemesinin]] merkezine yerleştirmiş ve algılamanın teknik olarak etkileyici, yorumun ise ince olduğu geniş bir literatür üretmiştir.
 
@@ -50,6 +54,8 @@ YZ’yi [[embodied-learning|vücut bulmuş öğrenmeyle]] eşleştiren 23 çalı
 **Bakış ve fiksasyon.** Göz izleyiciler gözün nereye baktığını, ne kadar süre orada kaldığını, ne zaman sıçradığını ve ne kadar geniş dağıldığını bildirir. WebGazer gibi ekran tabanlı sistemler bakışı bir web kamerasından tahmin ederken gözlükler gözü doğrudan izler. TutorLoop bakışı iki niceliğe dönüştürür: içerik alanı içindeki bakış noktalarının yüzdesi olarak dikkat ve dağılmış bakışın bilişsel yükü izlediği gerekçesiyle bakış entropisi olarak iş yükü ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Çocuklar için bakış bilgili bir yardımcı olan Ollie ise bir resimde ilgi alanları tanımlar ve çocuk bunlardan birine baktığında anlatımı tetikler ([[gaze-informed-ai-children|Wu vd., 2026]]).
 
 **Elektroensefalografi.** EEG, kafa derisi boyunca gerilim dalgalanmalarını yüksek zamansal çözünürlükte kaydeder. Bu ailede kortikal etkinliğe doğrudan ulaşan tek sinyaldir; değerlendirme araştırmasını çekmesinin nedeni budur. Pratik eğitim sistemleri kuru elektrotlar ve az sayıda kanal kullanır: E3Sense 125 Hz’de dört kuru EEG kanalı almış ve iki ön kanalı analiz etmiştir ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan vd., 2026]]). Araştırma düzeyindeki düzenekler tersini yapar: Kosmyna vd. (2025), öğrencilerin bir [[llm|LLM]] ile, bir arama motoruyla ya da hiçbir araç olmadan yazmasını karşılaştırmak için 32 kanallı EEG kullanmış ve en zayıf sinirsel bağlantılılığı LLM grubunda bulmuştur ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna vd., 2025]]). Bu çalışma aynı zamanda tek kanallı kanıt konusundaki en açık uyarıdır; çünkü merkezi iddiası, 54 katılımcıdan yalnızca 18’inin katıldığı isteğe bağlı bir çapraz geçiş oturumuna dayanır.
+
+**fNIRS hiperskanlama.** İki öğrenciyi aynı anda kaydetmek tek bir beyni değil, beyinler arası eşzamanlılığı ölçer: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong vd. (2026)]] insan atfı örneklerin premotor eşzamanlılığı ile fikir özgünlüğünü artırdığını, YZ atfının bunu düşürdüğünü ve örnekler geri çekildiğinde hiçbir davranışsal kazanımın sürdürülmediğini bulmuştur.
 
 **Elektrodermal aktivite.** EDA, sempatik uyarılmanın bir göstergesi olan ter bezi iletkenliğini ölçer. Strese, çabaya ve duygusal yoğunluğa yanıt verir ve bunlar arasında ayrım yapamaz. Aynı yapı bilekliklerde ve bir göz izleyici çerçevesiyle birkaç santimetre aralıkla sabitlenmiş alın elektrotlarında görünür ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan vd., 2026]]).
 
@@ -65,7 +71,7 @@ Bu sinyaller örnekleme hızı, gürültü ve ölçümleme yükü açısından f
 
 **Sınıflarda dikkat tahmini.** Bir [[multimodal|çok kipli transformer]], 57 denekli doğal bir veri kümesi olan DIPSER üzerinde yüz görüntülerini giyilebilir sinyallerle birleştirdi ve 0,283 MAE’ye ulaştı. Yalnızca görsel bir temele üstünlüğü ölçülüydü ve yazarlar yüz özelliklerinin birincil bilgi kaynağı olduğu sonucuna varır ([[student-attention-estimation-fairness-2026|Fragkiadakis vd., 2026]]).
 
-**Bilişsel yük ve geri bildirim zamanlaması.** TutorLoop, bakıştan türetilen dikkat ve iş yükünü bir pekiştirmeli öğrenme ajanıyla dört [[feedback|geri bildirim türü]] arasında seçim yapmak için kullandı. 187 katılımcı boyunca tam sistem temellere göre daha az sıklıkla müdahale etti ama yine de dikkati iyileştirdi ve iş yükünü düşürdü ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**Bilişsel yük ve geri bildirim zamanlaması.** TutorLoop, bakıştan türetilen dikkat ve iş yükünü bir [[reinforcement-learning|pekiştirmeli öğrenme]] ajanıyla dört [[feedback|geri bildirim türü]] arasında seçim yapmak için kullandı. 187 katılımcı boyunca tam sistem temellere göre daha az sıklıkla müdahale etti ama yine de dikkati iyileştirdi ve iş yükünü düşürdü ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **Gözetim ve dürüstlük.** Duruş tabanlı gözetim, kendi etiketlenmiş senaryo kümesinde tavana yakın performans bildirir: %99,56 doğruluk ve 0,9957 AUC ([[arif-automated-online-proctoring-yolov11-2026|Arif vd., 2026]]). Giyilebilir YZ aynı sorunu öbür yönden değiştirir. Akıllı gözlükler, gözetimin dayandığı bakış düşüşünü ve duruş kaymasını ortadan kaldırır; Corbin ve arkadaşları bu duruma ikili şeffaflık der ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin vd., 2026]]).
 
@@ -85,7 +91,9 @@ Sinirsel bir bağıntı bir puan değildir. EEG’den yeniden oluşturulan gör�
 
 Dikkat öğrenme değildir. TutorLoop’ta dikkat öğrenmeyle r = 0,017 düzeyinde ilişkiliydi, iş yükü ise r = -0,168 ile olumsuz yönde ilişkiliydi ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Dikkat sinyalini en üst düzeye çıkaran bir sistem, gürültüye yakın bir şeyi optimize etmiş olurdu.
 
-Bir sensör, bir çalışmanın etkileşim iddia ettiği yerde ortak bulunurluğu kaydedebilir: [[hur-computational-analysis-teacher-group-interactions-2026|Hur ve ark. (2026)]], duruş tabanlı bir dedektörün yalnızca %55 geri çağırmaya ulaştığını ve insan kodlayıcıların öğretmen–öğrenci grup etkileşimlerinde belirlediği 20 olaydan 11’ini yakaladığını buldu. Öğretmen kodlanmış kesitlerin %49,2’sinde grup sınırının içindeydi, oysa öğrenciler öğretmene yalnızca %25,4’ünde bakıyordu ve her iki karşılaştırmada da hiçbir ses özelliği değişmedi; dolayısıyla işlem hattı sürdürülen etkileşimi değil uzamsal ortak bulunurluğu kaydetti.
+Bir sinyal ayrıca yapıyı tersine çevirebilir. Kayda alınan 37 hemşirelik [[simulation|simülasyonunda]], bir gülümseme dedektörü gözlemci tarafından derecelendirilen [[empathy|empati]] ile olumsuz yönde ilişkiliydi (r = −0,322); oysa fiziksel temas tespiti dört gözlemci ölçütüyle 0,46–0,54 arasında uzlaşıyordu. Gözlemciler acı çekken bir hastaya yönelik gülümsemeyi uygunsuzluk olarak okurken model yüz hareketini okuyordu ([[nissan-nursing-empathy-computer-vision-2026|Nissan vd., 2026]]).
+
+Bir sensör, bir çalışmanın etkileşim iddia ettiği yerde ortak bulunurluğu kaydedebilir: [[hur-computational-analysis-teacher-group-interactions-2026|Hur ve ark. (2026)]], duruş tabanlı bir dedektörün yalnızca %55 geri çağırmaya ulaştığını ve insan kodlayıcıların [[teacher-role|öğretmen]]–öğrenci grup etkileşimlerinde belirlediği 20 olaydan 11’ini yakaladığını buldu. Öğretmen kodlanmış kesitlerin %49,2’sinde grup sınırının içindeydi, oysa öğrenciler öğretmene yalnızca %25,4’ünde bakıyordu ve her iki karşılaştırmada da hiçbir ses özelliği değişmedi; dolayısıyla işlem hattı sürdürülen etkileşimi değil uzamsal ortak bulunurluğu kaydetti.
 
 Fizyolojik bir profil bir tanı değildir. Sınav stresi modelleri uyarılma ve harekete dayanarak bir not kategorisi öngörür; yazarlar ise çıktının yüksek riskli bir karara değil kişisel koşulların ve ruh sağlığı bağlamının yanına ait olduğunda ısrar eder ([[physiological-signals-exam-outcomes-ml|Yamazaki ve Rimal, 2026]]).
 
@@ -101,7 +109,7 @@ Son olarak, toplama bütünleştirme değildir. Kim ve Han, çok kipli çalışm
 
 **Adillik başarısızlıkları farklı bedenlerde kümelenir.** Yüz tabanlı dikkat tahmini cilt tonuna, gözlüğe ve aydınlatmaya bağlıdır. Bakış tabanlı dikkat, göz temasından kaçınan öğrenenleri, bazı otistik ve [[neurodiversity|nöroçeşitli]] öğrenciler de dahil olmak üzere cezalandırır. Duruş tabanlı gözetim tikleri, kendini uyarıcı hareketleri ve kültürel hareket normlarını işaretler. Gözetim çalışması, işaretlenen duruşun suistimale karşılık gelip gelmediğini ya da dedektörün [[inclusive-learning|engelli öğrencilere]] veya bakıştaki kültürel farklılıklara adil davranıp davranmadığını test etmez ([[arif-automated-online-proctoring-yolov11-2026|Arif vd., 2026]]). Burada düzenleme bir çözüm değil, hatayı bir kurala aklamanın yoludur.
 
-**Adillik iddiaları denek düzeyinde kanıt gerektirir.** Cinsiyete yönelik bir düzenleyici, doğrulama MAE farkını 0,02’den 0,005’e düşürdü, sonra ayrılmış deneklerde hem farkı hem de en kötü grup hatasını artırdı ([[student-attention-estimation-fairness-2026|Fragkiadakis vd., 2026]]). Tek bir bölünmeyi adillik kanıtı olarak raporlamak, eşitlik maliyeti olan bir tasarım hatasıdır.
+**Adillik iddiaları denek düzeyinde kanıt gerektirir.** Cinsiyete yönelik bir düzenleyici, doğrulama MAE farkını 0,02’den 0,005’e düşürdü, sonra ayrılmış deneklerde hem farkı hem de en kötü grup hatasını artırdı ([[student-attention-estimation-fairness-2026|Fragkiadakis vd., 2026]]). Tek bir bölünmeyi adillik kanıtı olarak raporlamak, [[equity-in-ai-education|eşitlik]] maliyeti olan bir tasarım hatasıdır.
 
 **Gizlilik tasarıma içkin olabilir.** TutorLoop WebGazer’ı istemci tarafında çalıştırdı, böylece ham bakış tarayıcıdan hiç çıkmadı ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Bu seçim, maliyetin bir kısmının doğuştan değil mimari olduğunu gösterir. Daha zor soru, çıkarımın hiç var olup olmaması gerektiğidir.
 

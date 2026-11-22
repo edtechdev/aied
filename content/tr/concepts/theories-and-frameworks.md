@@ -8,7 +8,8 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T05:17:51-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,13 +17,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
+connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Teoriler ve çerçeveler** — bu bilgi tabanının gerçekten kullandığı açıklayıcı ve düzenleyici yapıların çalışma envanteri. Teoriler öğrenmenin neden gerçekleştiğini açıklar ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|eylem kuramı]]); çerçeveler tasarım, öğretim ve benimseme kararlarını düzenler ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|teknoloji benimseme modelleri]], [[icap-framework|ICAP]], [[universal-design-for-learning|evrensel öğrenme tasarımı]]); modeller öğrenme iddialarını sınanabilir ve hesaplanabilir kılar ([[item-response-theory|madde tepki kuramı]], [[assessment-validity]], [[knowledge-tracing]]). Bir çalışmanın dayandığı merceği bulmak ya da kendi çalışmanız için bir mercek seçmek üzere bu sayfayı kullanın.
+> **Teoriler ve çerçeveler** — eğitimde YZ araştırmasının gerçekten kullandığı açıklayıcı ve düzenleyici yapıların çalışma envanteri. Teoriler öğrenmenin neden gerçekleştiğini açıklar ([[learning-theories|öğrenme teorileri]], [[self-determination-theory|öz belirleme kuramı]], [[sociocultural-learning|sosyokültürel öğrenme]], [[activity-theory-aied|eylem kuramı]]); çerçeveler tasarım, öğretim ve benimseme kararlarını düzenler ([[tpack|TPACK]], [[samr-model|SAMR]], [[technology-acceptance-model|teknoloji benimseme modelleri]], [[icap-framework|ICAP]], [[universal-design-for-learning|evrensel öğrenme tasarımı]]); modeller öğrenme iddialarını sınanabilir ve hesaplanabilir kılar ([[item-response-theory|madde tepki kuramı]], [[assessment-validity|geçerlik]], [[knowledge-tracing|bilgi izleme]]). Bir çalışmanın dayandığı merceği bulmak ya da kendi çalışmanız için bir mercek seçmek üzere envanteri kullanın.
 
 ## Düşünülmesi Gereken Sorular
 
@@ -34,7 +39,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## Giriş
 
-Her YZ öğretmeni, geri bildirim sistemi ve panosu, tasarımcılar bunları belirtse de belirtmese de insanların nasıl öğrendiğine dair varsayımlar içerir. Bu sayfa, bu varsayımların kaynağı olduğu teorileri, çerçeveleri ve modelleri — kabaca güncel araştırma literatürünün ne ölçüde dayandığına göre sıralanmış biçimde — bir araya getirir ve her birinin neye yaradığını kısaca söyler. Üç etiket arasındaki ayrımlar gerçek ama küçüktür ve sayfanın sonunda, konunun kendisiymiş gibi değil de özetlenerek ele alınır. Pratikte önemli olan, bir iddianın hangi merceğe dayandığı ve bu merceğin iddiayı taşıyıp taşıyamayacağıdır.
+Her YZ öğretmeni, geri bildirim sistemi ve panosu, tasarımcılar bunları belirtse de belirtmese de insanların nasıl öğrendiğine dair varsayımlar içerir. Envanter, bu varsayımların kaynağı olduğu teorileri, çerçeveleri ve modelleri — kabaca güncel araştırma literatürünün ne ölçüde dayandığına göre sıralanmış biçimde — bir araya getirir ve her birinin neye yaradığını kısaca söyler. Üç etiket arasındaki ayrımlar gerçek ama küçüktür ve sayfanın sonunda, konunun kendisiymiş gibi değil de özetlenerek ele alınır. Pratikte önemli olan, bir iddianın hangi merceğe dayandığı ve bu merceğin iddiayı taşıyıp taşıyamayacağıdır.
 
 ## Literatürün uyguladığı öğrenme teorileri
 
@@ -66,6 +71,8 @@ Bunlar mekanizmaları açıklar: işi yapan parçaları adlandırır ve bu parç
 
 - **[[tpack|TPACK]]** — teknolojiyi, pedagojiyi ve içeriği harmanlayan öğretmen bilgisi; öğretmen yönelimli YZ çalışmaları için varsayılan çerçeve.
 - **[[technology-acceptance-model|Benimseme modelleri]]** — niyetin algılanan fayda ve kullanım kolaylığının bir işlevi olarak ele alınması. Alanın davranış yerine niyete dayanmasının kalıcı bir eleştiri olduğu kadar yaygın biçimde kullanılır.
+- **[[bloom-taxonomy|Bloom Taksonomisi]]** — görevlerin bilişsel talebi için ortak sözlük; hem maddeleri kodlamak hem de dizmek için kullanılır ve eğitimde YZ'de bir tasarım meselesinden çok bir ölçüm meselesi haline gelmiştir.
+- **Beklenti doğrulama modeli (BDM)** — tatminin, önceki beklentilerin doğrulanması olarak ele alınması; sonuç ilk benimsemeden çok sürekliliktir. 24 lisans öğrencisiyle yapılan bir dönemlik sosyoloji yöntemleri pilotunda %87'si Copilot'u iyi ya da mükemmel olarak derecelendirdi ve %91'i onu önerirdi, ancak yalnızca %57'si kullanmaya devam etmeyi düşünüyordu ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Fark, modelin kendi noktasıdır: memnun bir kullanıcı yine de geri dönmeyi reddedebilir; dolayısıyla tatmin ile süreklilik ayrı ayrı ölçülmelidir.
 - **[[icap-framework|ICAP]]** — katılımı pasif, etkin, yapıcı, etkileşimli olarak sıralar; bir [[student-ai-interaction|YZ etkileşiminin]] gerçekten ne tür bir kip sağladığını sormak için yararlıdır.
 - **[[samr-model|SAMR]]** — ikameden yeniden tanımlamaya. Olgunluk öyküsü olarak popüler, ölçüm aracı olarak zayıf.
 - **[[universal-design-for-learning|Evrensel öğrenme tasarımı]]**, **[[inclusive-learning|kapsayıcı öğrenme]]** ve **[[accessibility|erişilebilirlik]]** — kimin hizmet aldığını belirleyen tasarım çerçeveleri; engellilik ve [[equity-in-ai-education|eşitlik]] çalışmalarında en sık başvurulanlar.
@@ -85,7 +92,7 @@ Bunlar mekanizmaları açıklar: işi yapan parçaları adlandırır ve bu parç
 
 ## YZ çağı için adlandırılan teoriler
 
-Bilgi tabanındaki dört öneri teoriyi ödünç almak yerine inşa eder. Bunlar kavram düğümleri değil, makale sayfalarıdır; çünkü her biri tek bir argümandır:
+Dört öneri teoriyi ödünç almak yerine inşa eder. Bunlar kavram düğümleri değil, makale sayfalarıdır; çünkü her biri tek bir argümandır:
 
 - **[[generativism-learning-theory|Üretkencilik]]** — [[generative-ai|üretken YZ]] yaygınlaştıkça klasik dördün önemli kavramsal sınırlılıklar gösterdiğini ileri süren yeni bir öğrenme kuramı.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemik ortak-etkenlik]]** — öğrenenler ile YZ sistemlerinin bilgiyi ve anlayışı birlikte nasıl ürettiğine dair bir model.
@@ -103,13 +110,13 @@ Kelimeler literatürde gevşek kullanılır ve aradaki fark bir sayfa değil, bi
 
 ## İlgili katmanlar
 
-İki komşu sayfa bilerek başka bir şey üzerinedir. [[philosophy-of-ai-in-education|Eğitimde YZ felsefesi]] normatif ve kavramsal sorular sorar — eğitimin *ne için* olduğu, bir makinenin öğretip öğretemeyeceği — ve etki büyüklükleri öngörmez; bir çalışma felsefi olarak naif ve kuramsal olarak sağlam olabilir ya da tersi. [[theory-development-aied|Teori geliştirme]], var olan teoriyi sınamak yerine uygulayan çok sayıdaki [[ai-education|AIEd]] çalışmasına ilişkin kalıcı eleştiri dâhil, teoriyi inşa etme, ödünç alma ve revize etme üst-etkinliğidir. Bu sayfa envanterdir; teori geliştirme, envanteri üretmek ve revize etmekle ilgilidir.
+İki komşu sayfa bilerek başka bir şey üzerinedir. [[philosophy-of-ai-in-education|Eğitimde YZ felsefesi]] normatif ve kavramsal sorular sorar — eğitimin *ne için* olduğu, bir makinenin öğretip öğretemeyeceği — ve etki büyüklükleri öngörmez; bir çalışma felsefi olarak naif ve kuramsal olarak sağlam olabilir ya da tersi. [[theory-development-aied|Teori geliştirme]], var olan teoriyi sınamak yerine uygulayan çok sayıdaki [[ai-education|AIEd]] çalışmasına ilişkin kalıcı eleştiri dâhil, teoriyi inşa etme, ödünç alma ve revize etme üst-etkinliğidir. Çerçeveleri toplamak bir kataloglama işidir; teori geliştirme, bunları üretmek ve revize etmekle ilgilidir.
 
 ## Soru pratik olduğunda mercek seçmek
 
 - **Öğretmenler** bir sorundan yola çıkarak geriye doğru çalışabilir: öğrenenler katılmıyorsa [[icap-framework|ICAP]] ile [[self-determination-theory|SDT]] farklı nedenler adlandırır ve farklı çözümler önerir; soru bir aracı hiç benimsemekse, [[technology-acceptance-model|benimseme modelleri]] ile [[samr-model|SAMR]] onun hakkında farklı şeyler sorar.
-- **Öğrenme tasarımcıları**, [[universal-design-for-learning|UDL]], [[learning-design]] ve [[scaffolding]] gibi tasarım çerçevelerinden — iskeleleme kaldırıldığında ne olacağını öngören bir kuramla eşleştirilerek — en iyi verimi alır.
-- **Araştırmacılar** bir çalışmanın hangi düğümü iddia ettiğini ve tasarımın bunu gerçekten sınayıp sınamayacağını belirtmelidir; ölçüm modelleri ([[item-response-theory|IRT]], [[assessment-validity]], [[self-report-measures]]) bildirilen bir sonucun o iddiayı destekleyip desteklemediğine karar verir.
+- **Öğrenme tasarımcıları**, [[universal-design-for-learning|UDL]], [[learning-design|öğrenme tasarımı]] ve [[scaffolding|iskeleleme]] gibi tasarım çerçevelerinden — iskeleleme kaldırıldığında ne olacağını öngören bir kuramla eşleştirilerek — en iyi verimi alır.
+- **Araştırmacılar** bir çalışmanın hangi düğümü iddia ettiğini ve tasarımın bunu gerçekten sınayıp sınamayacağını belirtmelidir; ölçüm modelleri ([[item-response-theory|IRT]], [[assessment-validity|geçerlik]], [[self-report-measures|öz-bildirim ölçüleri]]) bildirilen bir sonucun o iddiayı destekleyip desteklemediğine karar verir.
 - **Yöneticiler** bu çerçeveleri benimseme ve değişim soruları olarak görür; burada bir aşama modeli çoğu zaman bir araç değil, olgunluk öyküsü olarak kullanılır.
 
 ## Çerçevelerin yapamadığı

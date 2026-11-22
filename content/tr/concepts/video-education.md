@@ -8,7 +8,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/video-education
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,8 +16,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, generative-ai, personalized-learning, adaptive-learning, multimodal, learning-analytics, student-engagement, pedagogical-agent, llm, trust]
 connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, personalized-ai-generated-videos-preference-2026, ai-generated-instructional-videos-computing-ed, ai-video-dual-gatekeeping-2026, courseblueprint-adaptive-video-generation, engagement-assessment-video, savvy-student-attention-video-learning, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, bilingual-llm-lecture-companion-srl-2026, adhd-video-segmentation-computing-education, ai-psychotherapy-training-avatars, gemini-lualatex-physics-video-transcription-2026, pivot-generative-video-tutors-stem-2026, lian-guideslide-narrated-slides-visual-guidance-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -36,7 +41,7 @@ connected_articles: [bespoke-industry-personalized-lecture-videos-2026, wang-cha
 
 Video, çağdaş eğitimin bir köşe taşıdır — özellikle [[online-teaching-and-learning|çevrimiçi ve karma öğrenme]] için — esnekliği, ölçeklenebilirliği ve tutarlılığı için değer görür. Bununla birlikte geleneksel öğretim videosu, öğrencilerin ilgi alanlarına, geçmişine ya da [[prior-knowledge|önceki bilgilerine]] bakılmaksızın herkese özdeş içerik sunan, herkese uyan bir yapıt olarak üretilir. Üreten YZ, videoyu statik bir yayın aracından dinamik ve bireye göre uyarlanmış bir araca kaydırmakta; aynı zamanda varlık, [[trust]], [[privacy]] ve ölçüm konusunda yeni sorular da üretmektedir.
 
-### Bilgi tabanının araştırmaları nasıl kümeleniyor
+## Bilgi tabanının araştırmaları nasıl kümeleniyor
 
 - **YZ tarafından üretilen ve kişiselleştirilmiş öğretim videosu.** Çekirdek bir soru dizgisi, öğrencilerin YZ tarafından üretilen videoyu kabul edip etmediğini ve insan kayıtlı içerikle nasıl karşılaştırıldığını sorar. [[ai-generated-instructional-videos-computing-ed|Bilişim eğitiminde öğrenci anketleri]], YZ tarafından üretilen öğretim videosuna ilişkin algıları ve tercihleri araştırır. Geniş bir uygulama dağıtımında, [[personalized-ai-generated-videos-preference-2026|Tomlinson ve ark. (2026)]], öğrencilerin kişiselleştirilmemiş insan kayıtlı derslere kıyasla YZ tarafından üretilen *kişiselleştirilmiş* videoları tercih ettiğini bulmuştur — bu tercihte kişiselleştirme etkisi, bir insan sunucuya yüklenen değerin önüne geçmiştir. [[ai-video-dual-gatekeeping-2026|Çifte eşik denetimi araştırması]], YZ video üretiminin iki aşamasında öğretmen denetiminin (“gatekeeping”) daha pedagojik temelli çıktıyı nasıl sağladığını, [[human-in-the-loop-ai|insan döngüde]] tasarıma bağlanarak göstermektedir.
 - **Uyarlanabilir ve yapılandırılmış video üretimi.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]], kurs derlemelerine dayalı uyarlanabilir pedagojik video üreten yapılandırılmış bir iş hattı sunar; açık pedagojik yapının — salt [[ai-literacy|YZ akıcılığından]] değil — etkili YZ videoyu yönlendirdiğini gösterir. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]], aynı mantığı tüm ders ölçeğinde uygular: 31 lisansüstü dersten sağlık, finans, enerji ve jenerik bir kitle için 209 video üretmiştir; bunların 92’sini değerlendiren 25 alan uzmanı, “standart bir MOOC dersinin kalitesi” olarak yazılan orta noktanın üstünde ya da eşitte %87’sini konumlandırmıştır (5 üzerinden ortalama 3,42), dakika başına yaklaşık \$0,22 API maliyetiyle — ses, slayt zamanlaması ve yerleşim, yinelenen kusurlardır.
@@ -52,23 +57,13 @@ Video, çağdaş eğitimin bir köşe taşıdır — özellikle [[online-teachin
 - **Transkript sadakati, metnin videonun yerini ne ölçüde tutabileceğini belirler.** [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard ve Rosenberg (2026)]], Crash Course U.S. History bölümlerinde beş ASR sistemini insan referans transkriptine karşı kıyaslamış; kelime hata oranları %2,43 (TurboScribe) ile %15,32 (Vosk) arasında değişmiştir. 48 transkriptin GPT-5.5 ile kodlanması, PERSON’u en sık adlandırılmış varlık kategorisi olarak bulmuş (toplam 2.033; bölüm başına M = 42,35) ve önceden tanımlanmış bir K-taraması K = 5’i seçmiş; burada LLM referans genişletmesi ASR temel çizgisinden daha net konu ayrımı üretmiştir.
 - **Bölge düzeyinde yakınlaştırma, anlatımlı slaytların eksik bıraktığı katmandır.** 24 izleyiciyle yapılan bir iç konu tasarımlı çalışma, otomatik yakınlaştırma ile eşzamanlı vurguların NASA-TLX iş yükünü 5,74’ten 4,53’e düşürdüğünü (d = 0,84) ve anlık kavrayışı yükselttiğini (d = 0,46), ancak 24 saatlik avantajın anlamlılığı kaçırdığını bulmuştur (p = ,054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian ve ark., 2026]]).
 
-### Kişiselleştirme ve insan varlığı karşı karşıya
+## Kişiselleştirme ve insan varlığı karşı karşıya
 
 Yinelenen bir gerilim, [[personalized-learning|kişiselleştirmenin]] değerinin görünür bir insan öğretmenin değerini aşıp aşamayacağıdır. [[personalized-ai-generated-videos-preference-2026|Tomlinson ve ark. (2026)]], kişiselleştirmeyi ve sosyal varlığı *öğretimsel özenin kısmen ikame edilebilir sinyalleri* olarak çerçeveler: insan sunumu [[affective-computing|duygusal]] deneyimi ve özgünlüğü güçlendirir; kişiselleştirme ise alaka düzeyini güçlendirir — ve öğrenciler birini diğeriyle ödünleşmeye isteklidir. Büyük kurs sıralama verileri (%88,4’ü bazı kişiselleştirilmiş videoyu tercih etmiş; yalnızca %73,8’i insan kayıtlı videoyu tercih etmiş), kişiselleştirmenin artık sıklıkla daha etkili etken olduğunu düşündürür; bu, insan öğretmenlerin uzmanlık ve sosyal bağlantı sağladığı, YZ’nin ise bireye uyarlanmış ortamlarla onların erişimini genişlettiği bütünleyici bir modele işaret eder.
 
-### Tasarım, etik ve ölçüm
+## Tasarım, etik ve ölçüm
 
 Etkili YZ videosu üretmek, pedagojik yapı ve insan denetimi gerektirir ve ayrı kaygılar da gündeme getirir: YZ sunucular rahatsızlık ya da güvensizlik uyandırabilir (“tuharlık vadisi”); üreten video, öğrenenlerin fark edemeyebileceği olgusal yanlışlıklar riski taşır; kişiselleştirmeyi ölçeklendirmek, öğrenen niteliklerini toplamayı ya da çıkarmayı ve buna bağlı [[privacy]], önyargı ve [[governance]] kaygılarını gerektirir; ve öğrenenlerin bir alt kesimi, YZ tarafından üretilen öğretime ilke temelli gerekçelerle itiraz eder (çevresel etki, emek, otomasyon, [[academic-integrity|akademik dürüstlük]]). Ölçüm de benzer biçimde akışkanlığını korumaktadır — kanıtların çoğu, nesnel öğrenme sonuçlarından çok belirtilen tercih ve algılanan değere dayanır; bu nedenle tercih verileri, (sıklıkla yakında gelecek olan) sonuç verileriyle birlikte okunmalıdır.
-
-## Yaygın yanlış anlamalar
-
-**“Öğrenciler YZ videosunu tercih etti, demek ki daha iyi öğretiyor.”** Tercih ile öğrenme ayrı ölçülerdir ve bu literatürün büyük bölümü ilkine dayanmaktadır. Büyük bir çevrimiçi kursta (493 yanıtlayan) öğrenciler YZ tarafından üretilen kişiselleştirilmiş videoları kişiselleştirilmemiş insan kayıtlı derslerin üzerinde sıralamış (ortalama sıra 2,26'ya karşı 2,69) ve %88,4'ü bir kişiselleştirilmiş videoyu birinci sıraya yerleştirmiştir; bu, temiz bir tercih sonucudur. Sayfanın kendi uyarısı geçerlidir: buradaki kanıt büyük ölçüde nesnel [[learning-gains|öğrenme çıktıları]] yerine belirtilen tercih ve algılanan değere dayanmaktadır, dolayısıyla tercih verileri sonuç verilerinin yerine değil, onlarla birlikte okunmalıdır. Daha iyi uyarlanmış hissettiren bir video, bu nedenle daha fazla öğretiyor değildir.
-
-**“YZ tarafından üretilen iskele yorumları bir öğretmeninkinin yerini alabilir.”** Öğretim açısından önem taşıyan bir biçimde farklılaşırlar. Deneyimli öğretmenlerden gelen 120 yorumla karşılaştırıldığında ChatGPT'nin 1.000 yorumu *daha yoğundu* ancak yapısal olarak çok daha az çeşitliydi (POS 3-gram çeşitliliği %5,5–6,2) ve 40 öğrenen insan yorumlarını zamanlama ve yardımlılık açısından anlamlı biçimde daha yüksek puanladı; ancak daha yeni bir model bu uçurumu daralttı. Hacim ve yoğunluk, iyi bir öğretmenin ürettiği çeşitli ve temposu ayarlanmış yorumla aynı şey değildir ve daralan uçurum, yerleşik bir eşdeğerlik değil izlenmesi gereken bir eğilimdir.
-
-**“Bir öğretmeni avatara klonlamak insan varlığını ölçekler.”** Üretimi ölçekler ve sunulan şeyi değiştirir. Öğretmenlerden klonlanan YZ avatarları ölçekte video üretebilir, ancak tuharlık vadisi rahatsızlığını da tetikler ve çevresel etki, emek ve [[academic-integrity|dürüstlüğü]] kapsayan [[ethics|etik]] itirazları gündeme getirir. Ölçeklenen varlık, öğretmenin bir simülasyonudur ve maliyetler simülasyona bağlıdır.
-
-**“Bir dersin çok sayıda varyantını üretmek kişiselleştirmedir.”** Varyant sayısı bir üretim göstergesidir, öğretimsel bir gösterge değildir. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]], sağlık, finans, enerji ve jenerik bir kitle için 31 lisansüstü dersten 209 video üretmiş ve bu, iş hattının kapasitesini göstermiştir; herhangi bir varyantın belirli bir öğrenenin ihtiyaçlarına uyup uymadığı, üretim sayısının yanıtlayamayacağı ayrı bir sorudur.
 
 ## Uygulama için çıkarımlar
 
@@ -88,3 +83,13 @@ Etkili YZ videosu üretmek, pedagojik yapı ve insan denetimi gerektirir ve ayr�
 
 - Tercih ve sonuç ölçülerini birlikte bildirin ve bir çalışmanın yalnızca ilkine sahip olduğu durumları açıkça belirtin.
 - Video içeriği ile [[cognitive-psychology|bilişsel işleme]] arasındaki uyumsuzluk sinirsel veride göründüğünden, zamansal hizalanmayı açıkça bildirin.
+## Yaygın yanlış anlamalar
+
+**“Öğrenciler YZ videosunu tercih etti, demek ki daha iyi öğretiyor.”** Tercih ile öğrenme ayrı ölçülerdir ve bu literatürün büyük bölümü ilkine dayanmaktadır. Büyük bir çevrimiçi kursta (493 yanıtlayan) öğrenciler YZ tarafından üretilen kişiselleştirilmiş videoları kişiselleştirilmemiş insan kayıtlı derslerin üzerinde sıralamış (ortalama sıra 2,26'ya karşı 2,69) ve %88,4'ü bir kişiselleştirilmiş videoyu birinci sıraya yerleştirmiştir; bu, temiz bir tercih sonucudur. Sayfanın kendi uyarısı geçerlidir: buradaki kanıt büyük ölçüde nesnel [[learning-gains|öğrenme çıktıları]] yerine belirtilen tercih ve algılanan değere dayanmaktadır, dolayısıyla tercih verileri sonuç verilerinin yerine değil, onlarla birlikte okunmalıdır. Daha iyi uyarlanmış hissettiren bir video, bu nedenle daha fazla öğretiyor değildir.
+
+**“YZ tarafından üretilen iskele yorumları bir öğretmeninkinin yerini alabilir.”** Öğretim açısından önem taşıyan bir biçimde farklılaşırlar. Deneyimli öğretmenlerden gelen 120 yorumla karşılaştırıldığında ChatGPT'nin 1.000 yorumu *daha yoğundu* ancak yapısal olarak çok daha az çeşitliydi (POS 3-gram çeşitliliği %5,5–6,2) ve 40 öğrenen insan yorumlarını zamanlama ve yardımlılık açısından anlamlı biçimde daha yüksek puanladı; ancak daha yeni bir model bu uçurumu daralttı. Hacim ve yoğunluk, iyi bir öğretmenin ürettiği çeşitli ve temposu ayarlanmış yorumla aynı şey değildir ve daralan uçurum, yerleşik bir eşdeğerlik değil izlenmesi gereken bir eğilimdir.
+
+**“Bir öğretmeni avatara klonlamak insan varlığını ölçekler.”** Üretimi ölçekler ve sunulan şeyi değiştirir. Öğretmenlerden klonlanan YZ avatarları ölçekte video üretebilir, ancak tuharlık vadisi rahatsızlığını da tetikler ve çevresel etki, emek ve [[academic-integrity|dürüstlüğü]] kapsayan [[ethics|etik]] itirazları gündeme getirir. Ölçeklenen varlık, öğretmenin bir simülasyonudur ve maliyetler simülasyona bağlıdır.
+
+**“Bir dersin çok sayıda varyantını üretmek kişiselleştirmedir.”** Varyant sayısı bir üretim göstergesidir, öğretimsel bir gösterge değildir. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]], sağlık, finans, enerji ve jenerik bir kitle için 31 lisansüstü dersten 209 video üretmiş ve bu, iş hattının kapasitesini göstermiştir; herhangi bir varyantın belirli bir öğrenenin ihtiyaçlarına uyup uymadığı, üretim sayısının yanıtlayamayacağı ayrı bir sorudur.
+

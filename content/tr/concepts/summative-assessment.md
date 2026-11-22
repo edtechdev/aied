@@ -1,6 +1,7 @@
 ---
 title: "Toplayıcı Değerlendirme"
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -9,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
 connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
@@ -28,9 +33,9 @@ connected_articles: [llm-grading-assistants-public-health-2026, academic-dishone
 ## Dikkate Alınması Gereken Sorular
 
 - Toplayıcı değerlendirme bir kursun sonunda öğrencinin ne öğrendiğini sertifikalarken, biçimlendirici değerlendirme süreç içinde öğrenmeyi destekler. Bu ikisi arasındaki çizginin nerede bulanıklaştığını gördünüz ve farklı işlevler görmelerinin neden önemli olabileceğini düşünüyorsunuz?
-- Sayfa, üretici YZ'yı toplayıcı değerlendirmeyi aynı anda iki yönde yeniden şekillendiren olarak çerçeveliyor: YZ sınavları puanlar ve öğrenciler sınav temelli ölçümden kaçmak için YZ kullanır. Bu iki baskıdan hangisini geçerliliğe yönelik daha büyük tehdit olarak görüyorsunuz ve neden?
+- Üretici YZ, toplayıcı değerlendirmeyi aynı anda iki yönde yeniden şekillendirir: YZ sınavları puanlar ve öğrenciler sınav temelli ölçümden kaçmak için YZ kullanır. Bu iki baskıdan hangisini geçerliliğe yönelik daha büyük tehdit olarak görüyorsunuz ve neden?
 - YZ yanıtları üretebildiğinden gözetimsiz veya evde yapılan görevler geçerliliğini yitirirse, bu, değerlendirmelerin nasıl tasarlanması gerektiği konusunda ne ima eder — ve süreçte neyin feda edilebileceğini düşünüyorsunuz?
-- Sayfada atıfta bulunulan [[research-methods-aied|Research]], LLM'lerin denemeleri insanlarla aynı biçimde puanlamadığını buluyor. Otomatik puanlama hızlı ve tutarlıysa ama farklı puanlarsa, bu bir [[bias-mitigation|fairness]] sorunu mu, bir fırsat mı, yoksa ikisi de mi?
+- [[research-methods-aied|Araştırma]], otomatik notlandırıcıların insan işaretleyicilerle ayrıştığını buluyor. Otomatik puanlama hızlı ve tutarlıysa ama farklı puanlarsa, bu bir [[bias-mitigation|fairness]] sorunu mu, bir fırsat mı, yoksa ikisi de mi?
 - Arkasındaki iş YZ tarafından üretilmiş olabilirken, yüksek getirili bir sonucun (not, sertifika, kabul) ne anlama geldiğini düşünüyorsunuz? Gerçekten güvenebileceğiniz bir değerlendirmeyi nasıl tasarlardınız?
 
 ## Giriş
@@ -39,7 +44,7 @@ Toplayıcı değerlendirme, biçimlendirici değerlendirmeden temelde farklı bi
 
 ## YZ çağında oyun: geçerlilik ve dürüstlük
 
-Bilgi tabanının araştırması, üretici YZ'nin toplayıcı değerlendirme manzarasını iki yönde temelden nasıl yeniden şekillendirdiğini belgeler: YZ sınavları ölçekte **puanlamak** için kullanılır ve YZ öğrenciler tarafından kendi öğrenmelerinin sınav temelli ölçümünden **kaçmak** için kullanılabilir.
+Araştırma, üretici YZ'nin toplayıcı değerlendirme manzarasını iki yönde temelden nasıl yeniden şekillendirdiğini belgeler: YZ sınavları ölçekte **puanlamak** için kullanılır ve YZ öğrenciler tarafından kendi öğrenmelerinin sınav temelli ölçümünden **kaçmak** için kullanılabilir.
 
 - **Puanlayıcı olarak YZ.** Toplayıcı değerlendirme, sınavların, denemelerin ve kısa yanıtların [[automated-assessment|automated scoring]] giderek artan biçimde dayanır. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]], [[llm|LLM]]'lerin denemeleri insanlarla aynı biçimde puanlamadığını bulur ve yüksek getirili otomatik puanlama için geçerlilik ve adillik soruları ortaya çıkarır. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] ve [[cong-confidence-asag-2026|automatic short-answer grading]], toplayıcı bağlamlarda LLM puanlamasının güvenilirliğini araştırır; [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] ise otomatik puanlamayı güvenilir ve uyarlanabilir tutmayı hedefler. 296 öğrencinin katıldığı elde yazılmış bir genel [[chemistry-education|kimya]] sınavı, seçici gözetimin neden gerekli olduğunu gösterir: [[multimodal|çok kipli]] bir LLM'nin asistan notlandırmasıyla toplam puan uyumu yüksekti (R² = 0,91) ancak madde düzeyinde güvenilirlik biçime göre keskin biçimde değişiyordu. Yanlış pozitiflerin (YZ'nin gerçekten yanlış yanıtları kredilendirmesi) tespit edilmeden kalma eğilimi vardı, çünkü öğrenciler nadiren itiraz eder — böylece "her şeyi puanlayan" tek tip bir YZ puanlayıcı, yüksek getirili kullanımda güven temelli insana erteleme olmadan savunulamaz ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **Sonuç uyumu, kaba madde puanlamasından sağ çıkabilir.** Yönetilmiş resmî notlara karşı, 10.364 elde yazılmış Fizik Olimpiyatı ve üniversite sayfasını puanlayan çok kipli bir LLM, r = 0,93–0,96 ile korele oldu ve aynı beş öğrencili uluslararası takımı yeniden ortaya çıkardı; ancak tam soru parçası uyumu %70'e ulaştı — bir puanlayıcı, bilgilendirdiği kararlarla yargılanır ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
@@ -51,10 +56,12 @@ Bilgi tabanının araştırması, üretici YZ'nin toplayıcı değerlendirme man
 
 ## YZ'ye dirençli toplayıcı biçimler
 
-Bilgi tabanındaki temel tema şudur: **toplayıcı biçim, YZ direncini belirler** — bir görev canlı, yüz yüze ve bireysel olarak araştırılmış performans ne kadar gerektirirse, öğrencilerin kendi öğrenmelerinin yerine YZ ikame etmeleri o kadar zorlaşır.
+Araştırmadaki temel tema şudur: **toplayıcı biçim, YZ direncini belirler** — bir görev canlı, yüz yüze ve bireysel olarak araştırılmış performans ne kadar gerektirirse, öğrencilerin kendi öğrenmelerinin yerine YZ ikame etmeleri o kadar zorlaşır.
+
+YZ’ye dirençli biçimler notu savunur ama onu yeniden düşünmez: gözetimli sınavlar ve sözlü sınavlar mevcut değerleri ve uygulamaları istikrara kavuşturur, bu nedenle reform transkriptte durur, notun temsil ettiklerinde durmaz ([[nieminen-grading-assessment-reform-2026|Nieminen ve ark. (2026)]]).
 
 - **[[oral-assessment|Sözlü sınavlar]] ve değerlendirmeler.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]], sözlü sınavın düşük teknolojili, doğal olarak YZ'ye dirençli bir toplayıcı biçim olduğunu savunur: gerçek zamanlı, etkileşimli diyaloğu anlamayı, [[critical-thinking|critical thinking]] ve akıl yürütmeyi test eder, ezberden değil; öğrencilerin YZ kullanarak yanıt üretmesini ve ezberlemesini engeller ve mesleki uygulamayı yansıtır. [[socratic-tests-conversational-assessment|Socratic tests]] ve [[code-review-genai-cs1|code-review interviews]] bunu dinamik, konuşmaya dayalı ve görüşme temelli toplayıcı değerlendirmeye uzatır.
-- **Kitapsız, gözetimli, yardımsız ölçütler.** [[generative-ai-reduced-study-time-math|Evidence]] ve [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]], öğrenciler YZ kullandığında şişirilmiş ödev veya ev işi değil, gözetimli kitapsız sınavların gerçek öğrenmenin güvenilir sinyali olduğunu gösterir. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment]] çerçeveleri, bu yardımsız ölçütleri geçerlilik odaklı bir yeniden tasarım içinde gömer. Sınavlar çevrimiçi kaldığında, [[remote-proctoring|remote proctoring]] bu rolü üstlenir ve otomatik gözetimin kurpusun iki incelemesi, tespit kazançlarının yanı sıra gizlilik ve [[bias-mitigation|fairness]] kaygıları bulur ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
+- **Kitapsız, gözetimli, yardımsız ölçütler.** [[generative-ai-reduced-study-time-math|Evidence]] ve [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]], öğrenciler YZ kullandığında şişirilmiş ödev veya ev işi değil, gözetimli kitapsız sınavların gerçek öğrenmenin güvenilir sinyali olduğunu gösterir. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment]] çerçeveleri, bu yardımsız ölçütleri geçerlilik odaklı bir yeniden tasarım içinde gömer. Sınavlar çevrimiçi kaldığında, [[remote-proctoring|remote proctoring]] bu rolü üstlenir ve otomatik gözetimin iki incelemesi, tespit kazançlarının yanı sıra gizlilik ve [[bias-mitigation|fairness]] kaygıları bulur ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
 
 - **Korumasız bir görevi onaylayan bir ikizle eşleştirin.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]], YZ'ye karşı korumasız bir görevi öğrenme değeri için korur ama aynı sonuçları değerlendiren ikinci bir görevle eşler; notu onaylayıcı bir eşik veya ağırlıklandırma aracılığıyla karşılıklı bağımlı kılar, böylece ikiz sonucu sertifikalar.
 
@@ -64,7 +71,7 @@ Yüksek getirili toplayıcı değerlendirme — giriş sınavları, standart tes
 
 ## YZ çağında toplayıcı ve biçimlendirici
 
-Bilgi tabanının değerlendirme literatürü, tutarlı biçimde [[assessment]] değerlendirmenin, [[formative-assessment|formative]] ve toplayıcı işlevleri birleştirdiğinde en etkili olduğunu vurgular — ancak YZ çağı ayrımı keskinleştirir. YZ, düşük getirili, gözetimsiz ve süreci gizli görevlerde performansı şişirdiğinden, öğrenmenin gerçekten gerçekleşip gerçekleşmediğine ilişkin **toplayıcı (özellikle gözetimli/kitapsız/yüz yüze) ölçütler çok önemli kontrol haline gelir**. Bu, özgün ve YZ'ye dirençli toplayıcı görevleri (sözlü sınavlar, kod incelemesi görüşmeleri, gözetimli sınavlar, süreç temelli [[eportfolio|portfolios]]) [[academic-integrity|integrity]] çapası olarak korurken, yolda öğrenmeyi desteklemek için biçimlendirici değerlendirmeyi kullanan bir değerlendirme yeniden tasarımını gerekçelendirir. Yapıcı tasarım yanıtı için [[authentic-assessment]] sayfasına bakın.
+Değerlendirme literatürü, tutarlı biçimde [[assessment]] değerlendirmenin, [[formative-assessment|formative]] ve toplayıcı işlevleri birleştirdiğinde en etkili olduğunu vurgular — ancak YZ çağı ayrımı keskinleştirir. YZ, düşük getirili, gözetimsiz ve süreci gizli görevlerde performansı şişirdiğinden, öğrenmenin gerçekten gerçekleşip gerçekleşmediğine ilişkin **toplayıcı (özellikle gözetimli/kitapsız/yüz yüze) ölçütler çok önemli kontrol haline gelir**. Bu, özgün ve YZ'ye dirençli toplayıcı görevleri (sözlü sınavlar, kod incelemesi görüşmeleri, gözetimli sınavlar, süreç temelli [[eportfolio|portfolios]]) [[academic-integrity|integrity]] çapası olarak korurken, yolda öğrenmeyi desteklemek için biçimlendirici değerlendirmeyi kullanan bir değerlendirme yeniden tasarımını gerekçelendirir. Yapıcı tasarım yanıtı için [[authentic-assessment]] sayfasına bakın.
 
 ## Eğitimde YZ için çıkarımlar
 

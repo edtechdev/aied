@@ -1,18 +1,23 @@
 ---
 title: "Teknolojiler"
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T06:55:12-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
 connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
@@ -41,6 +46,8 @@ connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-educat
 - **Üretken YZ.** Metin, kod, görüntü ve diğer içerikleri üreten sistemlerin daha geniş kategorisi — [[generative-ai|üretken YZ]] (başlıca LLM’ler tarafından yönlendirilen), günümüz [[ai-education|AIED]] araştırma dalgasının arkasındaki teknolojidir. Ayrıca bkz. [[multimodal|çok kipli modeller]] (metin, görüntü, ses) ve [[simulation]].
 - **Robotlar ve [[embodied-learning|gömülü]] sistemler.** [[educational-robotics|Eğitimde robotlar]], gömülü ve genellikle [[community-of-inquiry|sosyal bir varlık]] ekler — [[computational-thinking|hesaplamalı düşünme]] için programlanabilir kitler ve özel ders, [[storytelling-in-education|hikâye anlatımı]] ve rol yapma için insansı/sosyal robotlar. Robotik, [[agentic-ai|ajan YZ]] ve [[human-in-the-loop-ai|insan-razı-döngüde]] tasarımla kesişen ayrı bir teknik çizgidir.
 - **Bilgi temelli sistemler.** [[knowledge-graph|Bilgi grafikleri]] ve [[educational-nlp|eğitsel NLP]], alan bilgisini temsil eder ve işler; giderek daha fazla temellendirilmiş, açıklanabilir özel ders için LLM’lerle birleştirilmektedir.
+
+İşleve dayalı bir taksonomi, model mimarilerinin bir listesine kıyasla öğretmen mesleki gelişimine daha uzağa gider. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf ve Massey (2025)]], dokuz lise öğretmeni için YZ uygulamasının altı ailesi etrafında bir günlük atölye düzenlemiştir — sınıflandırma, tanıma, bellek, karar verme, optimizasyon ve tahmin — her biri, öğretmenlerin zaten kullandığı, istenmeyen posta filtrelemesinden kredi puanlamaya kadar bir uygulamayla eşleştirilmiştir. Öğretmenler YZ'nin bir tehdit olup olmadığı konusunda bölünmüş gelmiş; %40'ı öyle demiş, %40'ı kararsız kalmış ve her katılımcı yeni bir şey öğrendiğini bildirmiştir. Düzenleyici birim, sistemin ne yaptığıdır; bu, bir öğretmenin aracın nasıl eğitildiğini bilmeden bile sınıf aracında tanıyabileceği bir birimdir.
 
 ## Teknikler ve yöntemler
 

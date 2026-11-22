@@ -2,6 +2,7 @@
 connected_resources: [mglearn]
 title: Kapsayıcı Öğrenme
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -9,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
 connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
@@ -28,7 +33,7 @@ connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segme
 ## Dikkate Alınması Gereken Sorular
 
 - Erişilebilir bir araç, kapsayıcı öğretimi garanti etmez; yardımcı teknoloji, anlamlı bir etki gücü garanti etmez. Bir biçimdeki engeli kaldırmak ile herkesin anlamlı biçimde katılabileceği eğitimi tasarlamak arasındaki fark nedir?
-- Sayfa, kapsayıcı öğrenme, erişilebilirlik, yardımcı teknoloji, özel eğitim ve evrensel tasarımı birbirinden ayırır. Kendi bağlamınızda Eğitimde YZ nereye oturur — ve aslında hangi soruyu yanıtlamaya çalışıyorsunuz?
+- Kapsayıcı öğrenme şemsiyedir ve dört kavramın her biri farklı bir soruyu yanıtlar. Kendi bağlamınızda Eğitimde YZ nereye oturur — ve aslında hangi soruyu yanıtlamaya çalışıyorsunuz?
 - Bir çalışma, sabit duraklamalarla YZ ile bölümlenen videoların DEHB ve DEHB olmayan öğrenenler arasındaki performans farkını ortadan kaldırdığını buldu. Bir grubun ihtiyaçları için tasarım yapmak herkesin öğrenmesini nasıl iyileştirebilir?
 - YZ sistemleri, eski engelleri kaldırırken yeni erişilebilirlik boşlukları yaratma riski taşır. Metin tabanlı, görsel, her zaman çevrimiçi bir YZ aracı hangi öğrenciyi sessizce dışlayabilir?
 - Kapsayıcı değerlendirme araştırması, hile önleme önlemleri ile görsel işleme ihtiyaçları olan öğrenenlere uyum sağlama arasındaki gerginliği ortaya çıkarır. Güvenlik ve erişilebilirlik çatıştığında bu ödünleşim nasıl — ve kimler tarafından — karara bağlanmalıdır?
@@ -40,11 +45,11 @@ Kapsayıcı öğrenme, mücadele edenler için sonradan uyarlanmak yerine tüm �
 
 ## İlişkili kavramlar nasıl bir araya geliyor
 
-Kapsayıcı öğrenme **şemsiye** kavramdır; aşağıdaki sayfalar onun içinde yer alır ve her biri farklı bir soruyu yanıtlar. Örtüşürler ama birbirinin yerine kullanılamazlar — bir iddianın hangisine ait olduğunu bilmek bilgi tabanını isabetli tutar:
+Kapsayıcı öğrenme **şemsiye** kavramdır; aşağıdaki sayfalar onun içinde yer alır ve her biri farklı bir soruyu yanıtlar. Örtüşürler ama birbirinin yerine kullanılamazlar — bir iddianın hangisine ait olduğunu bilmek analizi isabetli tutar:
 
 | Kavram | Yanıtladığı temel soru | Tipik odak |
 |---|---|---|
-| **Kapsayıcı Öğrenme** *(bu sayfa)* | Tüm öğrenenlerin anlamlı biçimde katılabileceği eğitimi nasıl [[design-education|tasarlarız]]?? | Öğrenen değişkenliği boyunca geniş öğretim tasarımı |
+| **Kapsayıcı Öğrenme** *(şemsiye)* | Tüm öğrenenlerin anlamlı biçimde katılabileceği eğitimi nasıl [[design-education|tasarlarız]]? | Öğrenen değişkenliği boyunca geniş öğretim tasarımı |
 | **[[accessibility]]** | Herkes *biçimi/ortamı* algılayıp işletebilir mi? | Altyazılar, alternatif metin, transkriptler, kontrast, klavye/ekran okuyucu uyumluluğu, WCAG |
 | **[[assistive-technology]]** | Hangi araçlar/ekipmanlar bir bireyin erişim farkını köprüler? | Ekran okuyucular, metin-ses/ses-metin, braille/dokunsal, altyazılama, YZ uyumları |
 | **[[special-education]]** | Tanı almış engelliliği olan öğrenenlere öğretimi nasıl sunarız? | BEP’ler, bireyselleştirilmiş uyumlar, engelliğe özgü özel ders — **öncelikle bir [[k-12]] terimi (IDEA/hak)** |
@@ -52,7 +57,7 @@ Kapsayıcı öğrenme **şemsiye** kavramdır; aşağıdaki sayfalar onun içind
 
 Uygulamada: **UDL**, engelleri *önleyen* tasarım felsefesidir; **erişilebilirlik**, *biçim* engellerini kaldıran özelliktir; **yardımcı teknoloji**, bireylerin kullandığı *araç* katmanıdır; **özel eğitim**, tanı almış engellilikler için *öğretimsel* alandır — ve öncelikle bir **K-12** terimidir, oysa **[[higher-ed|yükseköğretim]]de** (ve giderek artan biçimde K-12’de de) daha yaygın çerçeve [[universal-design-for-learning|Evrensel Öğrenme Tasarımı]]dır. **Kapsayıcı öğrenme**, eşit katılım ortak hedefi etrafında bunların tamamını bir arada tutan şemsiyedir. Erişilebilir bir araç, kapsayıcı öğretimi garanti etmez ve yardımcı teknoloji, anlamlı etki gücü garanti etmez — şemsiyenin tümünü kapsamasının nedeni budur.
 
-Kapsayıcı öğrenme, [[equity-in-ai-education]], [[learning-design]] ve [[special-education]] kavramlarının kesişiminde yer alır ve [[assistive-technology]]’nin somut araç katmanı ile [[accessibility]]’nin tasarım özelliği tarafından desteklenir. Erişimi mevcut sistemlere sonradan ekleyen dar kapsamlı uyumların aksine, kapsayıcı öğrenme perspektifi — [[universal-design-for-learning|Evrensel Öğrenme Tasarımı]]na dayanarak — ortamların insan çeşitliliğinin tamamı için baştan tasarlanması gerektiğini savunur. Bu bilgi tabanındaki makaleler, YZ’nin bunu otomatik içerik dönüşümü, uyarlanabilir değerlendirme arayüzleri ve [[neurodiversity|nöroçeşitli kullanıcıların]] yaşanmış deneyimini başlangıç noktası olarak alan araçlarla nasıl mümkün kılabileceğini inceler.
+Kapsayıcı öğrenme, [[equity-in-ai-education]], [[learning-design]] ve [[special-education]] kavramlarının kesişiminde yer alır ve [[assistive-technology]]’nin somut araç katmanı ile [[accessibility]]’nin tasarım özelliği tarafından desteklenir. Erişimi mevcut sistemlere sonradan ekleyen dar kapsamlı uyumların aksine, kapsayıcı öğrenme perspektifi — [[universal-design-for-learning|Evrensel Öğrenme Tasarımı]]na dayanarak — ortamların insan çeşitliliğinin tamamı için baştan tasarlanması gerektiğini savunur. Araştırma, YZ’nin bunu otomatik içerik dönüşümü, uyarlanabilir değerlendirme arayüzleri ve [[neurodiversity|nöroçeşitli kullanıcıların]] yaşanmış deneyimini başlangıç noktası olarak alan araçlarla nasıl mümkün kılabileceğini inceler.
 
 ### Temel araştırma temaları
 
@@ -76,6 +81,8 @@ Denklem ağırlıklı video, elle transkribe edilmek yerine erişilebilir hale g
 
 **Uygulamada erişilebilir araçlar**, YZ’nin katılımı nasıl genişletebileceğini gösterir. **[[suacode-african-students-motivations|SuaCode]]**, yüzde 1’den azının kodlama becerisine sahip olduğu düşük kaynaklı Afrika bağlamlarındaki öğrencilere ulaşan akıllı telefon tabanlı kodlama kurslarının varlığını göstermiştir. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova ve ark.]]**, kör ve az gören müzisyenlerle çalışarak görsel olmayan öğrenme stratejileri geliştirmiş, engellilik öncülü [[embodied-learning|bedensel]] tasarımı merkeze almıştır. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]**, eğitimcileri UDL ilkeleriyle buluşturan ücretsiz, gizli, çok dilli bir YZ düşünce ortağı sunar. **[[special-r1-rl-special-education|Special-R1]]**, [[reinforcement-learning|pekiştirmeli öğrenme]]yi engellilik profilleri boyunca bilişsel ve iletişimsel çeşitliliği modelleyecek şekilde genişletir.
 
+**Politika yayılımın gerisindedir.** 100 en üst sıralı üniversiteden hiçbirinde YZ erişilebilirlik politikası yoktu; oysa %93’ü YZ destekli kampüs hizmetlerini yayınlamıştı ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
+
 ### İlişkili kavramlarla bağlantılar
 
 Kapsayıcı öğrenme, [[equity-in-ai-education]] ile derinden bağlantılıdır — erişilebilirlik yalnızca teknik bir kaygı değil, öğrenmeye kimin katılabileceği sorusudur. [[accessibility]] ile somut erişim katmanı olarak, [[assistive-technology]] ile araç katmanı olarak, [[universal-design-for-learning]] ile kuramsal temeli olarak, özel eğitim alanına özgü yaklaşımlar için [[special-education]] ile, kursların ve araçların nasıl yapılandırıldığı için [[learning-design]] ile ve farklılığı eksiklik yerine çeşitlilik olarak yeniden çerçeveleyen bakış açısı olarak [[neurodiversity]] ile bağlantı kurar. İşaret dili robotları ve dokunsal araçlar üzerine çalışmalar erişilebilirliği [[educational-robotics]] ve [[educational-nlp]] ile, metin basitleştirmesi ise [[sociocultural-learning]] ve [[adaptive-learning]] ile ilişkilendirir. [[ai-education]] ve [[generative-ai]] bağlantıları, hem vaadi (otomatik içerik uyarlaması) hem de tehlikeleri (dışlamayı yeniden üreten YZ sistemleri) öne çıkarır.
@@ -94,7 +101,7 @@ Kapsayıcı öğrenme, [[equity-in-ai-education]] ile derinden bağlantılıdır
 
 **“Erişilebilir bir araç, kapsayıcı bir derstir.”** Erişilebilirlik tek bir soruyu yanıtlar: herkes biçimi algılayıp işletebiliyor mu? Bu gereklidir ve yeterli olmaktan çok uzaktır. Kapsayıcı öğrenme ayrıca hangi araçların bireyin [[digital-divide|erişim uçurumunu]] kapattığını ve tasarımın çeşitliliği sonradan yamalamak yerine öngörmesi gerektiğini sorar. Değerlendirme yapısı sessiz bir oda, güvenilir geniş bant ve kesintisiz zaman varsayan bir derste ekran okuyucu uyumlu bir arayüz, görüntüleme problemini çözmüş ve katılım problemini olduğu gibi bırakmıştır.
 
-**“Yardımcı teknoloji sağlamak, faillik sağlamaktır.”** İkisi ayrıdır ve sayfanın kendi çerçevesi bunu söyler: yardımcı teknoloji anlamlı failliği garanti etmez. Öğrenenin gerekli görevi tamamlamasını sağlayan bir araç onu aynı görevin en dar sürümüne yönlendirebilir ve iskele ile tavan arasındaki fark benimseme ölçütünde görünmez.
+**“Yardımcı teknoloji sağlamak, faillik sağlamaktır.”** İkisi ayrıdır: yardımcı teknoloji anlamlı failliği garanti etmez. Öğrenenin gerekli görevi tamamlamasını sağlayan bir araç onu aynı görevin en dar sürümüne yönlendirebilir ve iskele ile tavan arasındaki fark benimseme ölçütünde görünmez.
 
 **“Zorlanan öğrenciler yalnızca daha iyi istem yazmayı öğrenmelidir.”** Bu, bir sistem kusurunu bir öğrenen eksikliğine dönüştürür. Alttaki görev sabit tutulduğunda model doğruluğu yalnızca **düşük okuryazarlıklı ifadede %82,4’ten uzman ifadesinde %83,4’e** yükselmiştir, bir puanlık bir fark; daha iyi [[prompt-engineering|istem yazmayı]] talep etmek ise var olan dışlamanın üzerine yeni bir dışlama ekler. Kaldıraç, düzeltici istem eğitiminde değil, dil çeşitliliğinin sistem tarafında ele alınmasındadır.
 

@@ -1,6 +1,7 @@
 ---
 title: "Kütüphaneciler"
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -11,7 +12,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,13 +20,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
 connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Kütüphaneciler** — bilgi okuryazarlığı öğreten, araştırma danışmalarını yürüten, koleksiyonlar ve erişim sistemleri kuran ve giderek YZ arama ve öneri araçlarına insan karşılığı olarak konumlanan kütüphane ve bilgi uzmanlarıdır. Bilgi tabanının araştırmalarında, bir modelin çözemeyeceği güvenilirlik sorununu — bir patentin, teknik bir standardın veya bir sektör raporunun güvenilmeye değer olup olmadığını — ele alan kişiler olarak ve ders ile politika ortak tasarımında eş olarak görünürler. [[ai-education|Eğitimde Yapay Zeka]] içindeki yerleri bu nedenle iki katlıdır: kaynak değerlendirme ve arama stratejisi öğreten eğiticiler olarak ve YZ erişimi çevresinde kurulmuş sistemlerin içindeki [[human-in-the-loop-ai|insan katmanı]] olarak.
+> **Kütüphaneciler** — bilgi okuryazarlığı öğreten, araştırma danışmalarını yürüten, koleksiyonlar ve erişim sistemleri kuran ve giderek YZ arama ve öneri araçlarına insan karşılığı olarak konumlanan kütüphane ve bilgi uzmanlarıdır. Araştırmalarda, bir modelin çözemeyeceği güvenilirlik sorununu — bir patentin, teknik bir standardın veya bir sektör raporunun güvenilmeye değer olup olmadığını — ele alan kişiler olarak ve ders ile politika ortak tasarımında eş olarak görünürler. [[ai-education|Eğitimde Yapay Zeka]] içindeki yerleri bu nedenle iki katlıdır: kaynak değerlendirme ve arama stratejisi öğreten eğiticiler olarak ve YZ erişimi çevresinde kurulmuş sistemlerin içindeki [[human-in-the-loop-ai|insan katmanı]] olarak.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -36,7 +41,7 @@ connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, gen
 
 ## Giriş
 
-Kütüphaneciler, bir öğrenenin sorusu ile bilimsel kayıt arasında duran uzmanlardır: başvuru ve irtibat kütüphanecileri, konu uzmanları, bilgi okuryazarlığı öğretimi veren öğretim kütüphanecileri ve koleksiyonlar ile depo alanlarını yöneten personel. [[ai-education|Eğitimde Yapay Zeka]] bağlamında, [[teacher-role|öğretmenlerden]] ve [[administrator|yöneticilerden]] çok daha az sık adları geçer; ancak derlem onlara özgü, sınanabilir bir rol vermektedir. Onlar, [[generative-ai]] üreten YZ’nin yarattığı güvenilirlik sorununun insan çözümü, yalnızca kaynak sağlamakla kalmayıp [[evaluative-judgment]] ve arama stratejisi öğreten eğiticiler ve — bilgi tabanındaki en güçlü vaka hâlinde — hizmetin yanında değil bir YZ sisteminin tasarlanmış bir bileşenidir.
+Kütüphaneciler, bir öğrenenin sorusu ile bilimsel kayıt arasında duran uzmanlardır: başvuru ve irtibat kütüphanecileri, konu uzmanları, bilgi okuryazarlığı öğretimi veren öğretim kütüphanecileri ve koleksiyonlar ile depo alanlarını yöneten personel. [[ai-education|Eğitimde Yapay Zeka]] bağlamında, [[teacher-role|öğretmenlerden]] ve [[administrator|yöneticilerden]] çok daha az sık adları geçer; ancak derlem onlara özgü, sınanabilir bir rol vermektedir. Onlar, [[generative-ai]] üreten YZ’nin yarattığı güvenilirlik sorununun insan çözümü, yalnızca kaynak sağlamakla kalmayıp [[information-and-media-literacy|bilgi okuryazarlığını]], [[evaluative-judgment|değerlendirici muhakemeyi]] ve arama stratejisini öğreten eğiticiler ve — bilgi tabanındaki en güçlü vaka hâlinde — hizmetin yanında değil bir YZ sisteminin tasarlanmış bir bileşenidir.
 
 Bu sayfa rolü komşularından ayrı ele alır. [[educational-technology-developers]] erişim ve öneri sistemlerini kurar; kütüphaneciler bu sistemlerin neyi sonuçlandırmak üzere güvenilmemesi gerektiğine karar verir. [[academic-integrity]] YZ kullanımını yazarlık ve açıklama çerçevesinde ele alır; kütüphanecinin çerçevesi — atıf, köken, erişim — buna komşudur ancak daha somuttur.
 

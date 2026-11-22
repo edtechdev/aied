@@ -1,6 +1,7 @@
 ---
 title: AIEd Araştırmasını Yorumlamak ve Uygulamak
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -12,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-19T14:06:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,18 +21,22 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
 connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **AIEd araştırmasını yorumlamak ve uygulamak** — bir eğitimde-yapay-zeka bulgusunun üzerine hareket etmeye değer olup olmadığına nasıl karar verileceği; ister öğretin, ister bir program yönetin, ister bir kurs tasarlayın, ister yazılım geliştirin. Bu sayfayı kullanmak için istatistik bilmeniz gerekmez. Fiilen bir soru olan uygulayıcının sorusuyla başlar — *bunu yapmalı mıyım?* — onu yanıtlayan az sayıdaki şeyi işler ve teknik ayrıntıyı isteyen veya ihtiyaç duyan herkes için sonraki bir bölümde tutar. Kısa versiyon: neyle karşılaştırıldığını, neyin ölçüldüğünü, kimin incelendiğini ve aracın çalışıldığı hâliyle hâlâ var olup olmadığını bildiğinizde bir bulgu üzerine hareket etmeye değerdir. Eğitimcilere, yöneticilere ve geliştiricilere ulaşan iddiaların çoğu bu dörtlüsünden birinde başarısız olur.
+> **AIEd araştırmasını yorumlamak ve uygulamak** — bir eğitimde-yapay-zeka bulgusunun üzerine hareket etmeye değer olup olmadığına nasıl karar verileceği; ister öğretin, ister bir program yönetin, ister bir kurs tasarlayın, ister yazılım geliştirin. İstatistik bilmeniz gerekmez. Uygulayıcının gerçekte sahip olduğu soruyla başlayın — *bunu yapmalı mıyım?* — onu yanıtlayan az sayıdaki şey üzerinden çalışın ve teknik ayrıntıyı isteyen ya da ihtiyaç duyan herkes için sonraki bir bölümde tutun. Kısa versiyon: neyle karşılaştırıldığını, neyin ölçüldüğünü, kimin incelendiğini ve aracın çalışıldığı hâliyle hâlâ var olup olmadığını bildiğinizde bir bulgu üzerine hareket etmeye değerdir. Eğitimcilere, yöneticilere ve geliştiricilere ulaşan iddiaların çoğu bu dörtlüsünden birinde başarısız olur.
 
 ## Dikkate Alınması Gereken Sorular
 
 - Bir satıcı, bir haber hikâyesi veya bir meslektaş, bir YZ aracının öğrenmeyi iyileştirdiğini söylüyor. Onu kendi kursunuzda denemeden önce görmek isteyeceğiniz tek şey ne olurdu — ve onu nerede arayacağınızı bilir miydiniz?
-- Bu bilgi tabanındaki her makale sayfası artık bir **Bunun uygulama için anlamı** bölümüne ve çoğu bir **Sınırlılıklar** bölümüne sahip. İkisini birlikte okuyarak, her biri diğerinin söylemediği neyi söyler?
+- Daha yeni özetler hem bir **Bunun uygulama için anlamı** hem de bir **Sınırlılıklar** bölümü taşır. İkisini birlikte okuyarak, her biri diğerinin söylemediği neyi söyler?
 - Öğrenciler bir YZ aracıyla pratik yapar ve pratik işlerinde daha iyi sonuç alır, sonra [[summative-assessment|kitapsız sınavda]] daha kötü sonuç alır. Bu sayılardan hangisi kursunuzun önemsediği öğrenme kazanımıdır — ve mevcut değerlendirmeleriniz farkı yakalar mıydı?
 - Bir çalışma büyük bir iyileşme vaat ediyor, ancak tek bir kurumdaki tek bir kursta 30 öğrenciyi izlemiş ve çalışılan aracın sürümü artık kimsenin kullanmadığı sürüm. Bu iki olgudan hangisi sizi daha fazla endişelendirir ve neden?
 - Birçok YZ aracı, öğrencilerin öğrendiği miktarı artırmadan onları ne kadar kullandıklarını artırır. Etkileşimi artıran bir araç ile yardımsız performansı artıran bir araç arasında seçim yapmak gerekse, bunu ne çözerdi?
@@ -39,13 +44,13 @@ connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-lea
 
 ## Giriş
 
-Bu sayfa, bir şeye karar vermek zorunda olanlar içindir: bir ödevi değiştirip değiştirmeyeceğini düşünen bir öğretmen, bir pilot tartışan bir [[administrator]], bir kurs inşa eden bir öğrenme tasarımcısı, bir özelliğin ne yapması gerektiğine karar veren bir yazılım geliştiricisi ya da bir bulguyu bunlardan herhangi birine açıklayan bir araştırmacı.
+Rehberlik, bir şeye karar vermek zorunda olanlar içindir: bir ödevi değiştirip değiştirmeyeceğini düşünen bir öğretmen, bir pilot tartışan bir [[administrator]], bir kurs inşa eden bir öğrenme tasarımcısı, bir özelliğin ne yapması gerektiğine karar veren bir yazılım geliştiricisi ya da bir bulguyu bunlardan herhangi birine açıklayan bir araştırmacı.
 
 İki alışkanlık farkı yaratır ve hiçbiri araştırma eğitimi gerektirmez.
 
 **Önce sizin için yazılmış iki bölümü okuyun.** Buradaki her makale sayfası artık bir **Bunun uygulama için anlamı** bölümü taşır — genellikle o çalışmadan türetilmiş üç ila beş somut eylem — ve çoğu çalışmanın neyi destekleyemediğini belirten bir **Sınırlılıklar** bölümü taşır. Bunları çalışmanın bulgularından önce okuyun, sonra değil. Uygulama bölümü çalışmanın neye yaradığını söyler; sınırlılıklar bölümü nerede durduğunu söyler. Uygulama bölümü eksik veya belirsizse, o sayfayı kanıt olarak değil, tamamlanmamış olarak ele alın.
 
-**İddiayı değerlendirin, iddianın özgüvenini değil.** [[ai-education|Eğitimde YZ]] hakkındaki iddialar genellikle *bir şey* hakkında isabetli ve önemsediğiniz şey hakkında yanıltıcıdır; çünkü bir çalışma ile sizin sınıfınız dört yönden farklıdır: neyle karşılaştırıldığı, ne ölçtüğü, kimin katıldığı ve aracın hangi sürümünün kullanıldığı. Bu sayfanın geri kalanı size kontrolleri sade dille verir, sonra isteyenler için her birinin ardındaki kanıtı.
+**İddiayı değerlendirin, iddianın özgüvenini değil.** [[ai-education|Eğitimde YZ]] hakkındaki iddialar genellikle *bir şey* hakkında isabetli ve önemsediğiniz şey hakkında yanıltıcıdır; çünkü bir çalışma ile sizin sınıfınız dört yönden farklıdır: neyle karşılaştırıldığı, ne ölçtüğü, kimin katıldığı ve aracın hangi sürümünün kullanıldığı. Dört kontrol sade dille açıklanır ve her birinin ardındaki kanıt isteyen okurlar için verilir.
 
 İzleyenler de komşularının yerine geçen bir şey değildir. [[research-methods-aied|AI in Education’da Araştırma Yöntemleri]] tasarımların nasıl kurulduğunu, [[limitations-in-aied-research|AIEd Araştırmasındaki Sınırlılıklar]] literatürün tekrarlayan zayıflıklarını kataloglar, [[ai-ed-evaluation|AIED Değerlendirmesi]] sistemlerin ve çıktıların nasıl değerlendirildiğini, [[differential-effects-across-learner-groups|Öğrenen Grupları Arasındaki Farklı Etkiler]] bir bulgunun kimi içerdiğini ve kimi içirmediğini kapsar.
 
@@ -63,7 +68,7 @@ Bunları bir şeye zaman, para veya bir dönem harcamadan önce sorun.
 
 ## YZ iddiaları hakkında kanıtlar ne söylüyor
 
-Bu sayfadan bir şey hatırlayacaksanız, manşet sayısının genellikle şişirilmiş olduğunu ve karşılaştırmanın genellikle zayıf olduğunu hatırlayın. Bu marjinal bir görüş değil — alanın kendi denetimlerinin bildirdiği şeydir. Birkaç iyi tasarlanmış çalışma gerçek kazanımlar göstermektedir; mesele, ispat yükünün iddiaya ait olmasıdır.
+Bir şey hatırlayacaksanız, manşet sayısının genellikle şişirilmiş olduğunu ve karşılaştırmanın genellikle zayıf olduğunu hatırlayın. Bu marjinal bir görüş değil — alanın kendi denetimlerinin bildirdiği şeydir. Birkaç iyi tasarlanmış çalışma gerçek kazanımlar göstermektedir; mesele, ispat yükünün iddiaya ait olmasıdır.
 
 - **Ortalama etkinin yaklaşık üçte ikisi**, etkileyici sonuçların yayımlandığı ve etkileyici olmayanların yayımlanmadığı olgusu için düzeltme yaptığınızda kaybolur. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš ve ark. (2026)]], 67 derlemeden 1.840 etki büyüklüğünü havuzladı ve düzeltilmiş ortalamanın yayımlanmış medyanın yaklaşık üçte biri olduğunu buldu — SMD 0,196’ya karşılık 0,67.
 - **Bir ürün adı, bir öğretim yöntemi değildir.** Öne çıkan bir meta-analizin ardındaki karşılaştırmaları denetleyerek, [[weidlich-chatgpt-effect-search-cause-2025|Weidlich ve ark. (2025)]], yalnızca **%21**’inin iyi tanımlı bir muamele, bir kontrol grubu ve geçerli bir öğrenme ölçümüne sahip olduğunu buldu — ve "ChatGPT kullanmak" için bildirilen avantaj, amaca özel olarak inşa edilmiş [[intelligent-tutoring|akıllı özel öğretim sistemleri]] için çıkan avantajdan daha büyük çıktı (g = 0,7’ye karşılık 0,66), bu bir zaferden çok bir uyarı işaretidir.
@@ -72,7 +77,7 @@ Bu sayfadan bir şey hatırlayacaksanız, manşet sayısının genellikle şişi
 - **Öz-bildirimler herkesi pohpohlar.** İnsanlar kendi [[ai-literacy|YZ becerilerini]] performans ölçümlerinin gösterdiğinden yaklaşık **%40** daha yüksek puanlar; bu nedenle memnuniyet ve özgüven anketleri üzerine hareket edebileceğiniz en zayıf kanıttır ([[self-report-measures|Öz-Bildirim Ölçümleri]], [[educational-measurement|Eğitsel Ölçüm]]).
 - **Sınıflarda hâlihazırda bulunan çoğu ürünün hiç bağımsız kanıtı yok.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners’ın 2025–26 öğrenme turu]], 20 öğrenciye yönelik YZ ürününü profillendirdi ve tam profili olan 16 üründen yalnızca yedisinin ABD’de öğrenci grupları arasında [[learning-gains|öğrenci başarısını]] inceleyen bağımsız bir incelemeye sahip olduğunu buldu; ikisi yalnızca yurt dışında çalışılmış, dördünde çalışmalar sürmekte ve üçü yalnızca iç verilere dayanıyordu. Yazarlar, öncelikli grupları kapsayan bağımsız nedensel çalışmaların tüm öğrenciye yönelik ürünler için beklenti olması gerektiğini savunur — okulların hâlihazırda kullandığı araçlar için henüz norm değil.
 
-- **Bir derleme, kendi derlemindeki bildirim eğriliğini ölçebilir.** 155 yükseköğretim çalışmasının sistematik bir derlemesi, 117’sinin (%75,5) başarılı uygulama bildirdiğini, 124’ünün (%80,0) yalnızca kısa vadeli etkiyi kapsadığını ve yalnızca 23’ünün (%14,8) [[ethics|etik]], eşitlik veya yönetişim başarısızlıklarına değindiğini bulmuştur; yukarıdaki kontrollerin betimlediği dengesizlik, derlemenin kendi kanıt tabanında ölçülmüştür ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
+- **Bir derleme, gözden geçirdiği çalışmalardaki bildirim eğriliğini ölçebilir.** 155 yükseköğretim çalışmasının sistematik bir derlemesi, 117’sinin (%75,5) başarılı uygulama bildirdiğini, 124’ünün (%80,0) yalnızca kısa vadeli etkiyi kapsadığını ve yalnızca 23’ünün (%14,8) [[ethics|etik]], eşitlik veya yönetişim başarısızlıklarına değindiğini bulmuştur; yukarıdaki kontrollerin betimlediği dengesizlik, derlemenin kendi kanıt tabanında ölçülmüştür ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 
 ## Bir bulguyu karara dönüştürmek
 
@@ -84,7 +89,7 @@ En çok boşa harcanan çabayı kurtaran dizi, sırayla:
 4. **Sürümü ve tarihi kontrol edin.** Çalışma iki yıl önceki bir model kuşağını kullandıysa, varsaymak yerine yeniden test planlayın.
 5. **Etkinleştirici koşulları adlandırın.** Maliyet, lisanslar, personel zamanı, veri kuralları ve öğrencilerin fiilen işe yarayan kademe için ödeme yapıp yapmaması gerekip gerekmediği. Çalışmalar bunları nadiren taşır ve bir müdahalenin bir dönem atlatıp atlatmayacağına onlar karar verir. [[chick-faculty-development-ethical-ai-2026|On katılımcılı bir öğretim-gelişimi çalışmasında]], herkes YZ’yi kullanmaya devam edeceğini söyledi, oysa aynı insanlar araç erişimi için kişisel abonelikler ve planladıkları yeniden tasarımlar için zaman desteği olmadığını tarif etti.
 6. **Küçük pilot yapın ve desteksiz koşulu ölçün.** Araç olmadan yapılan bir değerlendirmeyle kısa bir ön-test/son-test, bir memnuniyet anketini geride bırakır. Küçük ve dürüst, büyük ve retorikten iyidir. Bunun kurs tasarımında nereye oturduğunu görmek için bkz. [[learning-design|Öğrenme Tasarımı]].
-7. **Bir gözden geçirme tarihi günlüğe kaydedin ve iddiayı düşürmeye hazır olun.** Bir çalışmanın öncülü artık var olmayan bir yetenek olduğunda, dürüst hamle iddiayı süresiz biçimde atıflamak yerine onu emekliye ayırmaktır — bu bilgi tabanının kendi sayfalarına uyguladığı aynı disiplindir.
+7. **Bir gözden geçirme tarihi günlüğe kaydedin ve iddiayı düşürmeye hazır olun.** Bir çalışmanın öncülü artık var olmayan bir yetenek olduğunda, dürüst hamle iddiayı süresiz biçimde atıflamak yerine onu emekliye ayırmaktır.
 
 ## Araştırmada karşılaşacağınız kelimeler
 
@@ -111,7 +116,7 @@ Sade çeviriler, böylece bir çalışmayı veya satıcı sayfasını yöntem ge
 
 ## Bir araç inşa ediyorsanız veya satın alıyorsanız
 
-Aynı kontroller tasarım gereksinimlerine döner ve bilgi tabanının değerlendirme sayfaları ayrıntıyı taşır ([[ai-ed-evaluation|AIED Değerlendirmesi]], [[automated-assessment|Otomatik Değerlendirme]]).
+Aynı kontroller tasarım gereksinimlerine döner ve değerlendirme literatürü ayrıntıyı taşır ([[ai-ed-evaluation|AIED Değerlendirmesi]], [[automated-assessment|Otomatik Değerlendirme]]).
 
 - **Karşılaştırmayı özellik şartnamesinin parçası yapın.** Bir öğrenenin aksi hâlde ne yapacağına karar verin ve aracınızın onu neden geçtiğini söyleyebilin — hiçliği neden geçtiğini değil.
 - **Desteksiz koşulu ölçün.** Kazanımınız öğrenmeyse, araç olmadan tamamlanan bir görev dahil edin; yalnızca yardımlı performans sizi alıcılarınızı yanılttığı kadar yanıltacaktır.
@@ -121,13 +126,13 @@ Aynı kontroller tasarım gereksinimlerine döner ve bilgi tabanının değerlen
 
 ## Kanıtı isteyenler için
 
-Yukarıdaki kontroller halk bilgeliği değil; bu literatürdeki belgelenmiş başarısızlıklardan gelir. Bu bölüm, bir makaleyi inceleyen, bir kararı savunan veya bir aracın doğru değerlendirilmesi gerektiğini savunan herkes için ayrıntıyı tutar.
+Yukarıdaki kontroller halk bilgeliği değil; bu literatürdeki belgelenmiş başarısızlıklardan gelir. Ayrıntı, bir makaleyi inceleyen, bir kararı savunan veya bir aracın doğru değerlendirilmesi gerektiğini savunan herkes için tutulur.
 
 **Geçerlilik başarısızlıklarının yalnızca bir varlığı değil, bir dağılımı vardır.** [[oneill-presumed-effective-meta-analysis-2026|O’Neill’in (2026)]] 46 denetlenmiş çalışmasında, bağımlı değişken uyuşmazlığı en yaygın sorundu (n = 15) — ölçüm iddianın savunduğunu yakalamadı — ardından bağımsız değişken uyuşmazlığı (n = 11), deneysel tasarım sorunları (n = 7), veri çıkarımı sorunları (n = 6), kontrol grubunun yokluğu (n = 6) ve rastgele olmayan grup ataması (n = 6) geldi. 14 meta-analizden on ikisi, aynı temel çalışmadan çekilen birden çok etki büyüklüğünü bağımsız olarak ele aldı; bu, görünür kanıt tabanını şişirir.
 
 **Alt grup iddiaları, onları yapan çalışmalarda genellikle çözülemezdir.** [[ai-tutoring-micro-rct-gcse-science-2026|GCSE bilim mikro-RCT’si]], taban tabanlı **0,57 puanlık (95% GA −2,25 ila 3,39)** bir muamele-durum etkileşimi bildirir; bir grup için tabakalandırılmış tahminlerle **g = 0,28 (95% GA −0,04 ila 0,59)**, diğeri için **g = 0,35 (95% GA 0,18 ila 0,52)**. Sıfırı geçen bir aralık bir [[equity-in-ai-education|eşitlik]] bulgusu değildir; yerel bir pilot için bir sorudur.
 
-**Bir sentez kendi protokolünü tatmin edebilir ve yine de ağırlıksız kaliteyi havuzlayabilir.** [[ai-supported-instruction-stem-meta-analysis-2026|Doğan ve ark. (2026)]], hiçbir resmî kalite değerlendirme aracı kullanmadıklarını, kapsama ölçütlerini ciddiyet eşiği olarak ele aldıklarını açıkça belirtir; böylece yarı-deneysel bir çalışma ile rasgele bir çalışma eşit katkıda bulunur — ve heterojenlikleri **sabit etkili model altında I² = %82,98 ancak rastgele etkiler modeli altında %15,75** olarak okunur; modeli olmadan alıntılanan bir heterojenlik sayısının derlemin ne kadar tutarsız olduğunu size neden söyleyemeyeceğinin nedeni budur.
+**Bir sentez kendi protokolünü tatmin edebilir ve yine de ağırlıksız kaliteyi havuzlayabilir.** [[ai-supported-instruction-stem-meta-analysis-2026|Doğan ve ark. (2026)]], hiçbir resmî kalite değerlendirme aracı kullanmadıklarını, kapsama ölçütlerini ciddiyet eşiği olarak ele aldıklarını açıkça belirtir; böylece yarı-deneysel bir çalışma ile rasgele bir çalışma eşit katkıda bulunur. Heterojenlikleri **sabit etkili model altında I² = %82,98 ancak rastgele etkiler modeli altında %15,75** olarak okunur; modeli olmadan alıntılanan bir heterojenlik sayısının havuzlanmış çalışmaların ne kadar tutarsız olduğunu neden söyleyemediğinin nedeni budur.
 
 **Otomatik yargının [[assessment-validity|doğrulanması]] sonucun parçasıdır.** İnsan kodlayıcılarla anlaşma bir güvenilirlik ifadesidir ve yukarıdaki tavan onun kaliteyle aynı şey olmadığının nedenini gösterir ([[machines-misread-pedagogical-quality|makineler pedagojik kaliteyi yanlış okur]]).
 
@@ -135,7 +140,7 @@ Yukarıdaki kontroller halk bilgeliği değil; bu literatürdeki belgelenmiş ba
 
 **Kıyaslama hedefleri hareket eder**; böylece bir sistemin bugün doyurduğu veya başarısız olduğu bir sonuç bir sonraki sürümle tersine dönebilir; doyurma ve kontaminasyon kontrolleri herhangi bir kıyaslama temelli iddianın yanında yer almalıdır.
 
-**Bu literatürü kendi eleştirmenleriyle birlikte okumak burada normal uygulamadır.** Yazarlar ve hakemler için bildirim-tarafı kontrol listeleri [[reporting-interpreting-aied-research|YZ araştırmasını bildirme ve yorumlama SSS’indedir]] ve bu sayfadaki değerlendirme alışkanlıkları, bir iddia ampirik değil kuramsal olduğunda [[theory-development-aied|AI in Education’da Kuram Geliştirme]] ile eşlenir.
+**Bu literatürü kendi eleştirmenleriyle birlikte okumak burada normal uygulamadır.** Yazarlar ve hakemler için bildirim-tarafı kontrol listeleri [[reporting-interpreting-aied-research|YZ araştırmasını bildirme ve yorumlama SSS’indedir]] ve o değerlendirme alışkanlıkları, bir iddia ampirik değil kuramsal olduğunda [[theory-development-aied|AI in Education’da Kuram Geliştirme]] ile eşlenir.
 
 ## Kısa bir kontrol listesi
 
@@ -153,7 +158,7 @@ Yukarıdaki kontroller halk bilgeliği değil; bu literatürdeki belgelenmiş ba
 
 **“Yayımlanmış bir meta-analiz, eğitimde YZ hakkında yerleşik kanıttır.”** Alanın sentezleri denetimden geçmemiştir. [[oneill-presumed-effective-meta-analysis-2026|O’Neill’in (2026)]] eğitimde YZ’nin iyileştirdiğini iddia eden **14 hakemli meta-analiz** üzerine denetimi, **hiçbirinin** bu sonuç için geçerli bir temel sağlamadığını bulmuştur. Havuzlanmış bir etki büyüklüğü, ancak havuzlanan çalışmalar kadar iyidir ve bu literatürde havuzlama rutin olarak sonucu YZ’ye atfedemeyecek tasarımları içermiştir. Bir meta-analitik sayıyı aktarmadan önce neyi topladığı sorulmalıdır.
 
-**“Daha büyük etki büyüklüğü, daha iyi müdahaleye aittir.”** Çoğu zaman tersi geçerlidir. Bu sayfanın belgelediği derleme bağlamında çalışmaların yalnızca **%21’i** iyi tanımlı bir muamele, bir kontrol grubu ve geçerli bir öğrenme ölçümüne sahipti ve “ChatGPT kullanmak” için bildirilen avantaj, amaca özel olarak inşa edilmiş [[intelligent-tutoring|akıllı özel öğretim sistemlerininkinden]] *daha büyük* çıktı. Zayıf belirtilmiş muameleler şişirilmiş etkiler üretme eğilimindedir, çünkü karşılaştırma daha belirsiz ve çıktı ölçümü daha gevşektir. Daha büyük bir sayı, müdahaleyi tercih etmek için değil tasarıma bakmak için bir nedendir.
+**“Daha büyük etki büyüklüğü, daha iyi müdahaleye aittir.”** Çoğu zaman tersi geçerlidir. O karşılaştırmaları denetleyen derlemede çalışmaların yalnızca **%21’i** iyi tanımlı bir muamele, bir kontrol grubu ve geçerli bir öğrenme ölçümüne sahipti ve “ChatGPT kullanmak” için bildirilen avantaj, amaca özel olarak inşa edilmiş [[intelligent-tutoring|akıllı özel öğretim sistemlerininkinden]] *daha büyük* çıktı. Zayıf belirtilmiş muameleler şişirilmiş etkiler üretme eğilimindedir, çünkü karşılaştırma daha belirsiz ve çıktı ölçümü daha gevşektir. Daha büyük bir sayı, müdahaleyi tercih etmek için değil tasarıma bakmak için bir nedendir.
 
 **“Araç kullanılırken daha yüksek notlar, aracın daha fazla öğrettiğini gösterir.”** Bir [[k-12|K-12]] matematik çalışmasında, genel amaçlı bir [[conversational-ai|sohbet robotu]] ile pratik yapan öğrenciler daha iyi pratik notları almış ve ardından yardımsız değerlendirmede **yaklaşık %17 daha kötü** puan almıştır. Araç varken ölçülen pratik performansı şişirilmiş ölçüdür; çıktı olan ise yardımsız olandır ve yalnızca biri yükselmiştir.
 

@@ -1,6 +1,7 @@
 ---
 title: Müfredat Tasarımı
 created: "2026-10-14T22:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -12,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,8 +21,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
-connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
+connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeling-problem-generation-platform-2026, ai-particle-physics-education-redesign-2026, ai-video-dual-gatekeeping-2026, ase-26-agentic-software-engineering-curriculum, bursic-ai-residency-education-curriculum-2026, caruana-pre-university-ai-education-slr-2026, computing-assessment-genai-workshop-report-2026, critical-media-literacy-education-2026, curriculum-as-code-instructional-design-2026, finkelstein-principled-ai-education-2025, genai-curriculum-analytics-mapping-higher-ed-2026, hingle-collaborative-ai-literacy-2025, icet-ml-education-trust-2026, ithaka-sr-ai-skills-college-graduates-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, learnai-just-in-time-ai-cocreation-university-2026, lee-ai-convergence-curriculum-korean-university-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mcinnes-salvaging-constructive-alignment-genai-2026, mechanical-engineering-ai-curriculum-2026, niri-steam-ai-literacy-review-2026, refrain-amplify-genai-curriculum-2026, reshaping-cs-education-genai, rewriting-curriculum-genai-pedagogy-2026, rodafinos-llm-curriculum-audit-2026, rook-plumb-genai-curricula-student-insights-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, tracing-genai-literacy-interaction-patterns, workforce-readiness-smart-manufacturing-wrl-2026, ying-genai-journalism-assessment-2026, zhou-constructive-alignment-genai-business-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -41,7 +46,7 @@ connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-
 
 Müfredat tasarımı, eğitimin *neyini* meselesini program düzeyinde ele alır; ders düzeyinde *nasıl* meselesini ele alan [[learning-design]]’yi tamamlar. Bilgi tabanındaki makaleler, YZ’nin müfredatları disiplinler boyunca — yazılım mühendisliğinden mimariye ve yeşil eğitime — nasıl yeniden şekillendirdiğini ve eğitimcilerin disiplin temellerinden ödün vermeden YZ okuryazarlığını gömdüğü müfredatları nasıl tasarladığını inceler.
 
-### Temel araştırma temaları
+## Temel araştırma temaları
 
 **YZ çağı için müfredatı yeniden tasarlamak** merkezi zorluktur. **[[reshaping-cs-education-genai|Lee ve ark.]]**, lisans [[cs-education|BS eğitimini]] yeniden şekillendirmeye ilişkin uluslararası atölyelerden gelen bulguları sentezleyerek; üretken YZ uygulama düzeyinde programlamayı otomatikleştirdikçe müfredatın sistem tasarımına, soyutlamaya ve eleştirel değerlendirmeye kayması gerektiğini — düşük düzeyli uygulama ayrıntılarının öneminin ise azalması gerektiğini savunuyor. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]**, Ajanik Yazılım Mühendisliği’ni [[agentic-ai|YZ ajanlarını]] yönetmek için gereken “niyetin evrimi” ve uygulayıcı disiplinine odaklı 21 modüllük bir müfredatla ayrı bir disiplin olarak biçimselleştirdi. Her ikisi de [[ai-literacy]] ve [[scaffolding]] ile bağlantılıdır.
 
@@ -51,7 +56,11 @@ Değişimi eklemeli değil sistemsel olarak gözden geçiren [[rewriting-curricu
 
 Ağırlıklandırma, bir müfredat analizinin ne bildirdiğini değiştirir: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath ve ark. (2026)]], GPT-o3-mini'nin 48 değerlendirmenin her biri için yedi kurumsal beceriye %100 dağıtım yapmasını sağladı ve uzman ağırlıklarına karşı Krippendorff alfası 0,81'e ulaştı, ancak açıklamaların hiç açıkça belirtmediği becerilerde uyum negatife döndü (-0,19).
 
+Bir denetim, yeniden tasarımın ön yarısından ziyade bağımsız bir aşama olabilir. [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]], program gözden geçirmeyi tek bir toplantıya sığacak dört denetim istemiyle dizeler — müfredat sağlık taraması, misyon uygunluk testi, dersten yetkinliğe harita ve bir sonuç etiketleme geçişi — ardından iş ilanlarından ve disiplin standartlarından yetkinlik haritalama, revizyonu ise isteğe bağlı üçüncü aşamada tutar. Hiçbir yetkinlik en az iki destekleyici sinyal olmadan temel öncelik hâline gelmez; bu, bir işgücü piyasası taramasının müfredatı belirlemesini engeller. Bu ayrımı mümkün kılan şey yönetişim katmanıdır: çalışmalar boyunca sabit tutulan bir Müfredat Kanıt Paketi, sürümü, operatörü ve modeli kaydeden bir istem günlüğü, yineleme denetimleri ve onaylayan kurulla bağlantılı bir karar günlüğü; böylece bir [[llm|LLM]] çıktısı, bulgu olarak değil zaman damgalı bir ürün olarak komite görüşmesine girer.
+
 **Modüler yapı, güncel içerikten daha uzun yaşar.** Alanın gözden geçirme döngüsünden hızlı hareket ettiği bir örüntü yinelenir: [[ai-literacy|YZ okuryazarlığı]], eleştirel değerlendirme, önyargı tespiti ve [[ethics|etik]]ten oluşan istikrarlı bir çekirdek; uzmanlık ve yerelde bulunan araç içeriği ise modüller olarak eklenir ve altı ila on iki ayda bir yeniden ele alınır ([[bursic-ai-residency-education-curriculum-2026|Bursic ve ark. (2026)]]). Belirtilen vaka lisansüstü [[medical-education|tıp eğitimidir]], ama ilke genellenir: program araç devirlerine dayanan yetkinliklere bağlanır ve araca özgü katmanı değiştirilmek üzere planlar.
+
+**Etik içeriğin farkındalıktan öte bir başa çıkma çerçevesine ihtiyacı vardır.** Hiçbir YZ müfredatı olmayan 584 lisans öğrencisi arasında yetkinlik etik farkındalığı yükseltti (β = 0,644) ve bu da kaygıyı yükseltti (β = 0,439); sorunları adlandırmak ama nasıl yönetildiklerini öğretmemek, farkındalığı stres kaynağı hâline getirir ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu ve ark. (2026)]]).
 
 **YZ okuryazarlığı bütünleştirmesi**, YZ yetkinliklerini disiplinler boyunca gömer. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]**, tüm yaşlar ve eğitim aşamaları için uygulanabilir, ikinci ve üçüncü düzey [[digital-divide|dijital uçurumları]] giderme amaçlı iskelelenmiş bir YZ okuryazarlığı çerçevesi sunar. **[[tracing-genai-literacy-interaction-patterns]]**, YZ okuryazarlığının etkileşim örüntüleri yoluyla nasıl geliştiğini inceler. **[[hingle-collaborative-ai-literacy-2025]]**, [[collaborative-learning]] ile bağlantılı olarak YZ okuryazarlığı müfredatı geliştirmeye işbirlikçi yaklaşımları keşfeder.
 
@@ -95,7 +104,9 @@ Model yeteneğinin müfredat düzeyinde bir sonucu, YZ’ye dirençli tasarımı
 
 Yapı, istem metni ifadesi, üretimde YZ taslağını güvenilir kılan şeydir: [[curriculum-as-code-instructional-design-2026|Paiva (2026)]]’nin Müfredat-Olarak-Kod hattı bağlamı agresif biçimde budadı ve 28 proje bağlamında materyalleri bölüm bölüm üretti; bu, eğitmen hazırlık süresini ders başına yaklaşık sekiz saatten iki saate düşürdü ve [[human-in-the-loop-ai|insan incelemesinin]] yakalaması için kavramsal veya matematiksel hiçbir [[hallucination-risk|uydurma]] bırakmadı.
 
-### İlgili kavramlarla bağlantılar
+[[lee-ai-convergence-curriculum-korean-university-2026|Lee, Ha ve Lee (2026)]], ders örneklemek yerine bütün bir müfredatı sayarak, açıkça YZ odaklı dersleri (%1,5) YZ’yi zaten varsayan gizil adaylarından (%11,7) ayırdı; program düzeyinde yeniden tasarım savları genellikle ölçmeden öne sürdüğü için bu, açıklama boşluğunun bir nicelleştirmesidir.
+
+## İlgili kavramlarla bağlantılar
 
 Müfredat tasarımı [[learning-design]] ile doğrudan bağlantılıdır — müfredat neyi tanımlar, öğretim nasılı tanımlar. YZ yetkinliklerini gömmek birincil bir müfredat zorluğu olduğundan [[ai-literacy]] ile; müfredat değişiminin eğitimci hazırlığı gerektirmesinden ötürü [[teacher-role]] ve [[educational-development]] ile; iyi tasarlanmış müfredatların beceri gelişimini dersler ve yıllar boyunca iskelememesinden ötürü [[scaffolding]] ile bağlantılıdır. [[higher-ed]] ve [[k-12]] bağlantıları, müfredat tasarımının eğitim düzeyleri boyunca alaka düzeyini yansıtır.
 

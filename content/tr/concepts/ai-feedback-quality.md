@@ -1,6 +1,8 @@
 ---
 title: YZ Geri Bildirim Kalitesi
 created: "2026-10-14T21:50:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
+connected_resources: [my-essay-feedback]
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -8,13 +10,17 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
 connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
@@ -35,9 +41,11 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 
 ## Giriş
 
-YZ geri bildirim kalitesi yalnızca doğrulukla ilgili değildir. Etkili geri bildirim zamanında, özgül, harekete geçirici ve öğrenenin o anki anlayışına kalibre olmalıdır. Bu bilgi tabanındaki araştırmalar, YZ geri bildirim kalitesini birden fazla boyutta inceler: doğruluk (geri bildirim doğru mu?), yararlılık (öğrencinin gelişmesine yardım ediyor mu?) ve pedagojik uyum (yalnızca görev tamamlamayı değil, öğrenmeyi mi teşvik ediyor?).
+YZ geri bildirim kalitesi yalnızca doğrulukla ilgili değildir. Etkili geri bildirim zamanında, özgül, harekete geçirici ve öğrenenin o anki anlayışına kalibre olmalıdır. Bu araştırmayı büyük ölçüde düzenleyen üç soru vardır: doğruluk (geri bildirim doğru mu?), yararlılık (öğrencinin gelişmesine yardım ediyor mu?) ve pedagojik uyum (yalnızca görev tamamlamayı değil, öğrenmeyi mi teşvik ediyor?).
 
-### YZ geri bildirim kalitesi araştırmada nasıl görünüyor
+[[corbin-recognition-feedback-2026|Corbin, Tai ve Flenady (2026)]], bu üçünün yakalamadığı bir koşul ekler: tanınma, sağlayıcı ile öğrenen arasındaki karşılıklı konum, doğru ve yararlı geri bildirimin birini etkileyip etkileyemeyeceğine belirler; bu nedenle ölçülen kalite gerekli ama yeterli değildir.
+
+## YZ geri bildirim kalitesi araştırmada nasıl görünüyor
 
 - **İnsan geri bildirimiyle karşılaştırılabilirlik:** [[ai-generated-feedback-higher-ed|Studies in higher education]], YZ tarafından üretilen geri bildirimin kabul edilebilir ve destekleyici — öğretmen geri bildirimiyle karşılaştırılabilir — olarak deneyimlendiğini buluyor. Ancak kabul edilebilirlik öğrenme etkililiğini garanti etmez. PRISMA kılavuzeli 42 ampirik çalışmanın (2023–2025) bir [[meta-analysis-systematic-review|systematic review]] de [[llm]] notlama ve geri bildirim kalitesini göreve koşullu buluyor — ayrıntılı rubriklerle kısa, iyi yapılandırılmış cevaplarda insan değerlendiricileriyle örtüşürken karmaşık, açık uçlu veya [[multilingual-learning|multilingual]] çalışmalarda bozulur, geri bildirim bazen çok genel veya notla uyumsuz olur — ve notlama ile geri bildirim kalitesinin belirleyici unsurları olarak istek metni kalitesi, rubrik ayrıntısı, model sürümü ve değerlendirme dilini belirler ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **LLM tarafından üretilen ders materyalleri insan yapımı olanlarla eşleşti — geri bildirim varken.** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]], küratörlü araştırma kaynakları üzerinde [[rag|geri çağırma destekli]] bir boru hattıyla senaryo tabanlı öğretmen eğitim dersleri üretmiş ve bunları dikkatle elle yazılmış derslere karşı rastgele bir sekiz koşullu deneyde (N = 208) karşılaştırmıştır. İnsan yapımı ders daha yüksek son test performansı üretmiştir (0,793 / 0,730’e karşı), ancak yalnızca geri bildirim olmayan koşulda; anında açıklayıcı geri bildirimle kaynak farkı ortadan kalkmış ve geri bildirimin genel bir ana etkisi olmamıştır. İçerik üretimi için bulgu, insan-LLM boşluğunun bir iskeleleme boşluğu olduğunu öne sürer: üretilen materyaller, öğrenme ortamı dersin kendisinin sağlamadığı açıklayıcı geri bildirimi temin ettiğinde rekabetçidir.
@@ -64,6 +72,8 @@ Kontrollü bir karşılaştırma, geri bildirim bileşenini uyarlanabilir sistem
 - **Deneme puanlama geri bildirimi:** [[cong-confidence-asag-2026|Confidence-aware ASAG]] ve [[choi-anchor-aes-prompting-2025|anchor-based AES]], güven kalibrasyonunun ve [[prompt-engineering|prompting]] tasarımının yazma değerlendirmesinde geri bildirim kalitesini nasıl etkilediğini araştırır.
 - **Kanıtla sınırlı, riske uyarlanabilir geri bildirim:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]], geri bildirim araştırmasının genellikle birlikte değerlendirdiği üç işlevi ayırır — hangi başarısız durumun süreceğini öngörmek, sınırlı destek kapasitesinin ne zaman harcanacağına karar vermek ve iddiaları kaydedilmiş kanıtın içinde tutan geri bildirim üretmek. 215 öğrenciden gelen 2.993 başarısız gönderim durumu üzerinde, kalibre edilmiş bir risk modeli uygun test durumlarının %17,8’ini seçmiş ve gözlenen süregelen arızaların %25,2’sini yakalamış; standartlaştırılmış tek bir onarım geçişinden sonra üretilen 544 mesajdan 519’u tüm gerekli bileşenleri taşımıştır. Zamanlama ve temellendirme bu nedenle, dil bilgisel kalite ve erişilebilirlikle birlikte bir geri bildirim sisteminin yargılanmak zorunda olduğu boyutlar olarak katılır.
 
+- **Zayıf özelliği adlandırmak, denemeden alıntı yapmakla aynı şey değildir.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]], yalnızca rubrik içeren yorumların doğru zayıf özellikleri belirlediğini bulmuştur (Özellik Recall@2 = 0,823), ancak denemeden hiç kanıt alıntılamamıştır; oysa bir kanıt çapası eklenmesi hatırlamayı 0,829’de tutarken geçerli kanıt oranını sıfırdan 0,912’ye yükseltmiştir.
+
 - **İhtiyari geri bildirim sağlama:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]], YZ’nin öğretmenlerin sağladığı geri bildirimin miktarını ve kalitesini artırıp artırmadığını inceler.
 - **İlişkisel katman devre bırakmaya direnir:** bir YZ geri bildirim aracı kullanan 21 yükseköğretim öğretmeni arasında 12’si modelin metnini yeniden yazmış, revizyonlar ton ve teşvik üzerinde kümelenmiş (Öğrenci–Öğretmen İlişkisi f = 24); daha deneyimli öğretmenler düzenleme yükünü, güveni ve yanlış bilgi riskini işaret ederken acemiler araca uymuştur ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
@@ -85,6 +95,8 @@ Kontrollü bir karşılaştırma, geri bildirim bileşenini uyarlanabilir sistem
 - **Bir geri bildirim hatası olarak dalkavukluk:** [[ai-sycophancy|Sycophantic]] geri bildirim desteği hemfikiriyetle karıştırır — bir öğrencinin cevabını doğrulayan, sınamayan bir YZ, geri bildirimin düzeltici işlevini baltalar ve olumlu hissettirse bile kaliteyi düşürür. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]], [[intelligent-tutoring|tutors]] sosyal baskı altında düzeltici geri bildirimi esirgediğini gösterir ve [[contextual-sycophancy-ai-literacy|contextual sycophancy]], hataları sonraki tavsiyelere taşır; etkili geri bildirim bazen öğrenciyi sınamalıdır.
 
 - **Teşhis doğruluğu geri bildirim kalitesini yalnızca kısmen belirler — ve LLM [[self-assessment|self-evaluation]] [[human-in-the-loop-ai|human judgment]]yla uyumsuzlaşır:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]], GPT-4’ün bir College Algebra öğretmeninde zamanın yaklaşık %66’sında hataya yönelik ipuçları ürettiğini bulmuştur; ancak yaklaşık %35’i çok genel, hatalı veya cevabı ele vermiştir; teşhis yanlış olduğunda bile model sıklıkla ilgili, genel ama doğru geri bildirimle toparlanmış; neredeyse tüm hatalı geri bildirim yanlış teşhizi izlemiştir. Benzetilmiş öğrenci otomatik kalite kontrolleri her iki testte ipuçlarının yalnızca %21,4’ünü geçirmiş, hedefli geri bildirimi zamanın yaklaşık %70’inde reddetmiş ve yalnızca cevabı ele veren ipuçlarını tercih etmiştir — bu, otomatik [[ai-ed-evaluation|evaluation]] yardımcılığa dair insan yargılarından keskin biçimde ayrışabileceğinin ve bunlara karşı kalibre edilmesi gerektiğinin çarpıcı bir gösterimidir.
+- 
+YZ–öğretmen uzlaşması tek bir yazma görevi içinde konuya bağlıdır: kelime seçimi söz konusu olduğunda F1 0,824’e ulaşırken, bir kaynağın bir iddiayla tartılması gerektiği kaynak kullanımı ve kanıt boyutunda 0,579’a düşmüştür ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao ve Fan (2026)]]).
 
 - **Kararlı çıktı geçerli geri bildirim değildir:** 12 TEACH çerçevesi sınıf videosu üzerinde güvenilirlik ve doğruluk ayrılmıştır — sekiz LLM uç noktasından en kararlı olanı sertifikalı uzmanlara karşı en zayıflar arasında yer almıştır (tam anlaşma 0,31) ve her model sözlü ipuçlarını zımni pedagojik kanıta tercih etmiş, yönergelerin olmadığı yerlerde düşük puan vermiştir ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]]).
 
@@ -96,7 +108,9 @@ Kontrollü bir karşılaştırma, geri bildirim bileşenini uyarlanabilir sistem
 
 Geri bildirimin *üretiliş* biçimi de bu listeye aittir. Argüman düzenine sahip denemeler için modüler bir otomatik yazma değerlendirme sisteminde, 90 öğretmen etiketli deneme üzerinde denetimli [[llm-training-and-fine-tuning|ince ayar]] kullanılamaz geri bildirim üretmiştir — ince ayarlanmış GPT-4o, her çıkarımda 8.000 belirteçlik bağlam penceresini aşmış ve ince ayarlanmış LLaMA-3.3-70B ayrıştırılamayan JSON yaymıştır. Doğrudan Claude 3.7’ye istek metni vermek ise, öğretmenlerin %94,69’unu gerekli ve etkili bulduğu 40 deneme üzerinde 630 mikro yorum üretmiştir; yazarlar, deterministik olmayan bir üretme görevi için ince ayarın istek metni vererek çalışmayı geçebileceği sonucuna varmışlardır ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
-### Kalite boyutları
+Öğreneni canlandıran model, karşılaşmayı yargılaması gereken model değildir. [[kim-ai-simbot-nursing-communication-2026|Kim ve Pankhania’nın (2026)]] YZ SimBot’unda 98 hemşirelik öncesi öğrencisi, GPT-4o tarafından canlandırılan 17 yaşında sanal bir hasta ile görüşmüş ve bu modelin geri bildirimi fakülte rubrine karşı yanlış ve aşırı olumlu çıkmıştır. Değerlendirici rolü O3-mini’ye geçmiş; bu model, rubriğe daha iyi oturan yargılar vermiş ve tüm konuşma boru hattı için öğrenci başına kabuca elli sent maliyet doğurmuştur. Kişilik sadakati ile değerlendirme doğruluğu ayrı gerekliliklerdir ve tek bir dağıtımın her ikisini de karşıladığı varsayılamaz.
+
+## Kalite boyutları
 
 YZ geri bildirim kalitesi, bilgi tabanında yakalanan birden fazla boyutu kapsar:
 - **Doğruluk:** Geri bildirim hataları ve güçlü yanları doğru belirliyor mu? ([[automated-assessment|Automated Grading]], [[automated-essay-scoring]])
@@ -119,15 +133,19 @@ YZ geri bildirim kalitesi, bilgi tabanında yakalanan birden fazla boyutu kapsar
 - **Aynı boyutların okur tarafı.** Yirmi dört üniversite yazma profesörü çıktıyı karmaşık, aşırı uzun, belirsiz ya da uygulanamaz olarak betimledi; ikisi, önce zayıflıklara bakmaları söylenmedikçe çıktının güçlü yanları övdüğünü belirtti ([[wu-lam-genai-writing-assessment-professors-2026|Wu ve Lam (2026)]]). Yedisi, kabul edilebilir geri bildirime ulaşmanın yinelenen istem yazmayı gerektirdiğini, bunun da iş yükü kazancının sağlamayı amaçladığı zamanı tükettiğini söyledi.
 - **Uzunluk, iletinin ölçülen diğer tüm özelliklerinden daha güçlü yordadı.** Canlı bir programlama dersinde bir LLM ipucu sisteminin üç uygulamasında, 204,9 karakterlik her standart sapma daha düşük sonraki gönderim doğruluğunu (−0,733), daha fazla kalan denemeyi (0,187) ve yeniden göndermeden önce daha uzun beklemeyi (0,226) yordadı; Flesch-Kincaid düzeyi ise ilk ikisi için belirsizdi ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ve ark. (2026)]]). Biçim de önemliydi, ama bir ödünleşim olarak: tanısal ipuçları daha sık doğru sonraki gönderim ve daha az deneme üretti, yeniden gönderim ise daha yavaştı.
 
-### Daha geniş kavramlarla bağlantı
+- **Kazancı model değil, yapı taşımıştır.** Dört aşama — ortaya çıkarma, sorgulama, yeniden çerçeveleme, pekiştirme — bir veri bilimi dersinde öğretmen yorumlarına karşı 5,64 puanlık bir eleştirel düşünme avantajı üretmiştir ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin ve ark. (2026)]]).
+
+## Daha geniş kavramlarla bağlantı
 
 YZ geri bildirim kalitesi temelde [[formative-assessment]] ve [[feedback|Feedback Loop]] ile bağlanır — kaliteli geri bildirim, mevcut ile istenen performans arasındaki boşluğu kapatır. [[automated-assessment|Automated Grading]] (geri bildirimin dayandığı puanları üretir), [[ai-literacy]] (öğrenciler geri bildirim kalitesini eleştirel biçimde değerlendirmelidir) ve [[cognitive-offloading|Over-Reliance]] (YZ geri bildirimini eleştirel olmayan kabulü öğrenmenin yerini alabilir) ile kesişir. [[writing-education]] için, YZ’nin yazma değerlendirmesindeki artan rolü göz önüne alındığında geri bildirim kalitesi özellikle sonuçları olan bir şeydir.
 
-Bu nitelik iddialarının ardındaki külliyat, iddiaların ima ettiğinden daha incedir. İkinci dilde yazmada üretken YZ tarafından verilen yazılı geri bildirim üzerine 51 çalışmada 16 deneysel tasarım hiç kontrol grubu kullanmadı ve yalnızca 27’si kullandığı istem metinlerini bildirdi; bu yüzden sonuçların beşte ikisi, çıktıyı en çok şekillendiren değişken üzerinde yeniden üretilemez ya da karşılaştırılamaz ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite ve Sun (2026)]]). Bu literatürde nitelik kanıtı bu nedenle hacminin ima ettiğinden daha yavaş birikir.
+Bu nitelik iddialarının ardındaki kanıt, iddiaların ima ettiğinden daha incedir. İkinci dilde yazmada üretken YZ tarafından verilen yazılı geri bildirim üzerine 51 çalışmada 16 deneysel tasarım hiç kontrol grubu kullanmadı ve yalnızca 27’si kullandığı istem metinlerini bildirdi; bu yüzden sonuçların beşte ikisi, çıktıyı en çok şekillendiren değişken üzerinde yeniden üretilemez ya da karşılaştırılamaz ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite ve Sun (2026)]]). Bu literatürde nitelik kanıtı bu nedenle hacminin ima ettiğinden daha yavaş birikir.
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li ve Moorhouse (2026)]], DeepSeek’in açık akıl yürütme izlerini bir geri bildirim olanağı olarak inceler ve görünür akıl yürütmenin bir yorumun dayanağını yazar için denetlenebilir kıldığını, modelin yine de argümantasyon gibi üst düzey yargıyı insana yönlendirdiğini bulur.
 
 İlk turda doğru olan bir yanıt üçüncü turda yanlış olabilir: 11 model genelinde %12,7’si otorite baskısı altında yanlış bir yanıta döndü, dolayısıyla geri bildirim kalitesi ilk yanıtta değil etkileşim boyunca puanlanmalıdır ([[liu-educational-sycophancy-2026|Liu ve Korolova, 2026]]).
+
+- **Kalite kazançları ham çıktıdan değil, gözden geçiren desteğinden gelir.** FeedbackWriter kullanan öğretim asistanları YZ önerilerinin %51,3’ünü benimsemiş ve YZ rubrik yargılarının %11,3’ünü düzeltmiş, ardından daha uzun yorumlar sunmuş ve rubrik kapsamını genişletmişlerdir; revizyon kalitesi d = 0,50 ile yükselmiş, ancak son test kazancı olmamıştır ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu ve ark., 2026]]).
 
 ## Yaygın yanlış anlamalar
 

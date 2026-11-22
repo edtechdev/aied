@@ -1,5 +1,6 @@
 ---
 title: "YZ Kullanım ve Açıklama Beyanları"
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T06:55:12-04:00"
 type: concept
 foundations: [academic-integrity]
@@ -11,13 +12,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
 connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
@@ -52,6 +57,7 @@ Açıklama, YZ destekli çalışmayı *görünür* ve dolayısıyla yönetilebil
 
 - **Açıklama nadirdir ve kaygı kaynaklıdır.** Çalışmalar boyunca öğrencilerin çoğu YZ kullanımını öğretmenlerine açıklamamaktadır. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov ve ark. (2026)]] yalnızca yaklaşık %34’ünün ekonomi öğrencisinin YZ kullanımını itiraf ettiğini ve açıklamanın daha nadir olduğunu, bunun “ceza kaygısı” ile yönlendirildiğini bulmuştur. [[vetter-hidden-cost-disclosure-genai-2026|Vetter ve ark. (2026)]], öğrencilerin %66’sının hiç veya nadiren açıklama yapmadığını ve en önemli nedenin akademik ceza korkusu olduğunu belirlemiştir. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]], King’s [[business-education|İşletme Okulu]]’nda zorunlu bir beyana ilişkin **%74 uyumsuzluk** belgelemiştir.
 - **Belirsiz ve cezalandırıcı politikalar gizlemeyi körükler.** YZ kullanım politikaları net olmadığında, uygulanmadığında veya yasak olduğunda öğrenciler angajman yerine kullanımı gizler. “Belirli durumlarda sınırlı kullanım” politikaları açıklamayı en iyi biçimde öngörür; “izin verilmez” veya “farkında değil” politikaları gizlemeyi öngörür. Net, tutarlı, işbirliğine dayalı politikalar tekrar tekrar çağrılmaktadır.
+- **Yalnızca yaptırım değil, yükümlülük.** Aynı niyete sahip iki kural açıklamayı gizlemeden ayırır: [[mehreen-genai-policy-wording-2026|Mehreen ve ark. (2026)]], dürüstlük dışı çerçevelemenin öğrencilerin kullanımlarını gizlemesiyle izlendiğini, öğrencileri yanlış çıktıdan sorumlu kılmanın ise sahiplenme ve şeffaflıkla izlendiğini bulmuştur.
 - **Açıklama psikolojik bedeller taşır — ve gizli bedeller taşır.** Öğrenciler beyanları kendi suçunu itiraf olarak görür ve bazıları YZ kullanımının hesap makinesi kullanmak gibi özel olduğuna inanır. [[vetter-hidden-cost-disclosure-genai-2026|Vetter ve ark. (2026)]], “her zaman” açıklama yapan öğrencilerin suçlanma olasılığının 3 katından fazla olduğunu bulmuştur — şeffaflık şüpheyi davet edebilir. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang ve ark. (2026)]], kaygının açıklamayı bastırmak yerine akranlara yönlendirdiğini ve bunun öğrencileri öğretmen geri bildiriminden kestiğini bulmuştur.
 - **Açıklama, öz düzenlemeli öğrenmeyle iç içedir.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang ve ark. (2026)]], öğretmen yönlendirmeli açıklamayı uyum sağlayan yardım arama olarak yorumlar — yardımı görünür kılarak ve dışsal kalibrasyonu davet ederek — gizleme ise (özellikle yoğun YZ kullanıcıları arasında) uyumsuz düzenlemeyi andırır. Yapılandırılmış, biçimlendirici açıklama, etkin öz düzenlemeyi karakterize eden [[metacognition|üstbilişsel]] yansıtma ve etik akıl yürütmeyi teşvik edebilir.
 
@@ -75,6 +81,8 @@ En çok yenilikçi bulunan 50 ABD üniversitesinin GenAI rehberliğini inceleyen
 - **Açıklama bir güven cezası taşır ve meşruiyet savunulan mekanizmadır.** Başlıca ABD çevrimiçi panelistleriyle yapılan ve 4.093 gözlemde birleştirilen on üç deneyde (θ = 0,81, z = 10,52, %95 GA [0,66, 0,96]), YZ kullanımını açıklayan bir aktör, sessiz kalan birinden daha az güven görmüştür ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke ve Reimann (2025)]]). Etki, altı açıklama çerçevesini, YZ’nin kullanıldığını zaten bilen bir değerlendiriciyi ve hem zorunlu hem gönüllü rejimleri atlatmıştır. Bu, her zaman açıklama yapan öğrencilerin suçlanma olasılığının üç katından fazla olduğuna dair yukarıdaki anket bulgusunun deneysel karşılığıdır: şeffaflığın kendisi açıklayana mal olabilir. Makalenin yalnızca öğrencilere yönelik olan tek sonucu, öğrencilerin bir profesörün [[automated-assessment|YZ ile not vermeyi]] açıklaması üzerine ona daha az güvendiğidir.
 
 - **Bir içerik etiketi betimlemeyi değiştirir, hükmü değiştirmez.** “YZ Üretimi İçerik/Sentetik Video” etiketini görüp görmemeye rastgele atanan 617 yetişkinde etiket, algılanan otantikliği düşürmüş (etiketsiz 4,92’ye karşı etiketli 4,21), ancak güveni (B = -0.130, p = 0.216) ve risk, benimseme ile paylaşmayı değiştirmemiştir ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang ve Zhang (2026)]]).
+
+Öğrencilerin gerçekte aldıkları belgeler, onları yazan eğitmenlerin kastettiğinden daha az taşır. [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud ve ark. (2026)]], büyük bir kamu Midwestern araştırma üniversitesinde 56 eğitmenin gönüllü olarak verdiği 16 ders müfredatını, politika beyanını ve ödevini kodlamıştır: bir izin ve beyan ifadesi %59 oranında sağlamdı, veri gizliliği %75 oranında sessizdi, atıf kuralları %19 oranında sağlamdı ve %81’inde revizyon maddesi yoktu. Aynı eğitmenlerin %71’i kurumsal yönergelerin ders materyallerini “hiç” veya “biraz” şekillendirdiğini bildirmiştir; bu da boşluğu müfredat kadar rehberlikte de konumlandırır. Bir açıklama maddesi, arkasındaki şablon ve atıf standardı kadar iyidir.
 
 ## Etkili açıklama tasarlamak
 

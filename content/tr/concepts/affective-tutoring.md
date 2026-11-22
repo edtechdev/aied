@@ -1,6 +1,7 @@
 ---
 title: Duygusal Öğretmenlik
 created: "2026-10-14T21:35:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -9,13 +10,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-11-04T13:20:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
 connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
@@ -36,6 +41,8 @@ connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-col
 
 ## Giriş
 
+Duygusal öğretmenlik, [[affective-computing|duygusal]] bilişimin pedagojik yarısıdır: bir sistem öğrenenin duygusal durumu hakkında bir okumaya sahip olduğunda, bu okumayla ne yapmalıdır? Tasarım sorusu, hayal kırıklığını nasıl tespit edeceğiniz değil, tespit ettiğinize inandıktan sonra neleri değiştireceğinizdir — tempoyu, ipucu düzeyini, geri bildirimin tonunu ya da duyguyu kendisiyle ele alıp alamayacağınızı. Konu, karar katmanıdır: öğretmenlerin duyguyu hangi stratejilere eşlediği, bu stratejilerin yardımcı olduğuna ilişkin kanıtlar ve geri tepebilecekleri nedenler. Bu, öğrenenin kendi empatisi hakkında değildir; o, farklı bir sonuç ve farklı bir kanıt tabanına sahiptir ([[empathy|empati]]); duygunun nasıl algılandığı hakkında da değildir ([[sensor-and-gaze-analytics|sensör ve göz analitiği]]).
+
 MathBuddy, iki modalite kullanarak öğrenci duygusunu dinamik olarak modelle:
 
 - **Konuşma metni** — hayal kırıklığı, kafanın karışıklığı ve güven için anlamsal ipuçları
@@ -49,6 +56,8 @@ Duygular her iki modaliteden toplulaştırılır ve [[llm]] öğretmene [[prompt
 - **Sekiz pedagojik boyut** artı kullanıcı çalışmaları boyunca değerlendirilmiştir
 
 Bulgular, eğitim psikolojisindeki uzun süredir var olan bir hipotezi doğrular: olumlu/olumsuz duygusal durumlar öğrenme kapasitesini etkiler ve bunları hesaba katmak öğretmenlik sonuçlarını iyileştirir.
+
+MathBuddy bir sistemdir, yaklaşımın tanımı değil; aşağıdaki bölümler ondan genelleme yapar. Temel sinyallerin neyi ölçüp neyi ölçemediği için bkz. [[sensor-and-gaze-analytics|sensör ve göz analitiği]].
 
 ## Risk: Tuzak Olarak Empati
 
@@ -79,18 +88,6 @@ Diyaloglardan duygu çıkarımına bir sınır: [[ecnuclaw-k12-personalized-comp
 
 Duygusal öğretmenlik, [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] ile [[motivation|motivasyonel]]-duygusal zarar boyutunda kesişir. "Fazla destekleyici" olan bir duygusal öğretmen, verimli mücadeleyi ve [[self-regulated-learning|öz düzenlemeyi]] yönlendiren hayal kırıklığını bastırabilir. Ayrıca bkz. [[llm-fallacy-misattribution]] — öğrenciler duygusal desteği gerçek ilişkiye bağlayabilir ve bağımlılığı güçlendirebilir.
 
-## Yaygın yanlış anlamalar
-
-**“+23 puanlık kazanma oranı, duygusal öğretmenlerin daha iyi öğrettiğini gösterir.”** Daha dar bir şeyi gösterir. Karşılaştırma, tek bir sistem olan MathBuddy için duygusal olmayan bir temele karşı elde edilen kazanma oranıdır ve sekiz pedagojik boyut ile kullanıcı çalışmaları üzerinden puanlanmıştır; kazanma oranı bir tercih sonucudur, gerçek bir derste kalıcı öğrenmenin ölçüsü değildir. Dürüst iddia, duygudan haberdar strateji seçiminin yargılanan yanıt niteliğinde duygudan bağımsız strateji seçimini geçtiğidir; bu, etkileşim hakkında güçlü, [[learning-gains]] hakkında zayıf bir sonuçtur.
-
-**“Öğretmen empatik hissettiriyorsa öğrenciye yardım ediliyordur.”** Anlaşıldığını hissetmek ile öğretilmek birbirinden ayrılabilir ve zarar tam bu ikisinin arasındaki boşlukta yer alır. [[favero-critical-ai-tutors-empower-enslave-2025|Favero ve ark.]] parasosyal bağımlılığı tipik başarısızlık olarak tanımlar: öğrenci, kendini önemseyen bir sistemle ilişki kurabilirken [[metacognition|üstbilişsel]] angajmanı sessizce düşebilir ve empatinin kendisi bu kopuşun fark edilmesini zorlaştırır. [[llm-fallacy-misattribution|Yanlış atıf]] literatürü aynı bıçağın diğer yüzüdür; öğrenciler sisteme gerçek bir ilişki atfeder.
-
-**“Daha fazla duygusal destek her zaman daha azından güvenlidir.”** Belli bir noktadan sonra destek müdahaleye dönüşür. Hayal kırıklığını güvenilir biçimde ortadan kaldıran bir öğretmen, [[self-regulated-learning|öz düzenlemenin]] dayandığı [[desirable-difficulties|verimli mücadeleyi]] bastırabilir; bu nedenle [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] motivasyonel-duygusal zararı, faydanın yokluğu değil, ayrı bir güvenlik boyutu olarak ele alır.
-
-**“Yüzden duygu tespit eden bir öğretmen öğrencinin durumunu bilir.”** Duygu gözlemlenmez, çıkarılır ve bu çıkarım tam olarak bahsin en yüksek olduğu yerde en zayıftır. [[ecnuclaw-k12-personalized-companion|Zhou, Li ve Zhang (2026)]] beş boyutlu bir öğrenen profilinde duygusal bir boyut tutar ama bu boyutu anahtar kelime sözlükleriyle doldurur; dolayısıyla hayal kırıklığını sözlükte bulunmayan sözcüklerle ifade eden bir öğrenci profillenmez ve profil uzman yargısına karşı doğrulanmamıştır. Yüzden yakalama, metinden çıkarımın gerektirmediği sürekli bir video akışı ve gizlilik maruziyeti ekler.
-
-**“Farklı anlarda alınan duygu ölçümleri birbirinin yerine geçebilir.”** [[epistemic-emotions-collaborative-problem-solving|Anindho ve ark. (2026)]], sıralı duygunun kısa menzilli kalıcılık ve yönelimli geçişler gösterdiğini, probla yakalanan raporların, yani merak ve kafa karışıklığı çevresindeki öz döngülerin, hayal kırıklığı ve şaşkınlık gibi kendiliğinden yakalananlardan farklı bir ölçüm olduğunu bulmuştur. İkisini özet bir frekansa indirgeyerek ortalamak, sinyali taşıyan diziyi elden çıkarır.
-
 ## Duygusal öğretmenliği uygulamaya geçirmek
 
 **Eğitmenler için**
@@ -110,3 +107,15 @@ Duygusal öğretmenlik, [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] 
 
 - Kazanma oranının hangi temele karşı ölçüldüğü bildirilmeli ve bunun karşılaştırmalı bir yargı olduğu açıkça belirtilmelidir. Ardından alanın gerçekte ihtiyaç duyduğu şey ölçülmelidir: uyarlanabilir olmayan bağlamlara aktarım, öğretmen çekildikten sonra kalıcılık ve duygusal kanal kapalıyken kazanımların sürüp sürmediği.
 - Duygu profilleri bağımsız değişken olarak kullanılmadan önce uzman yargısına karşı doğrulanmalıdır.
+
+## Yaygın yanlış anlamalar
+
+**“+23 puanlık kazanma oranı, duygusal öğretmenlerin daha iyi öğrettiğini gösterir.”** Daha dar bir şeyi gösterir. Karşılaştırma, tek bir sistem olan MathBuddy için duygusal olmayan bir temele karşı elde edilen kazanma oranıdır ve sekiz pedagojik boyut ile kullanıcı çalışmaları üzerinden puanlanmıştır; kazanma oranı bir tercih sonucudur, gerçek bir derste kalıcı öğrenmenin ölçüsü değildir. Dürüst iddia, duygudan haberdar strateji seçiminin yargılanan yanıt niteliğinde duygudan bağımsız strateji seçimini geçtiğidir; bu, etkileşim hakkında güçlü, [[learning-gains]] hakkında zayıf bir sonuçtur.
+
+**“Öğretmen empatik hissettiriyorsa öğrenciye yardım ediliyordur.”** Anlaşıldığını hissetmek ile öğretilmek birbirinden ayrılabilir ve zarar tam bu ikisinin arasındaki boşlukta yer alır. [[favero-critical-ai-tutors-empower-enslave-2025|Favero ve ark.]] parasosyal bağımlılığı tipik başarısızlık olarak tanımlar: öğrenci, kendini önemseyen bir sistemle ilişki kurabilirken [[metacognition|üstbilişsel]] angajmanı sessizce düşebilir ve empatinin kendisi bu kopuşun fark edilmesini zorlaştırır. [[llm-fallacy-misattribution|Yanlış atıf]] literatürü aynı bıçağın diğer yüzüdür; öğrenciler sisteme gerçek bir ilişki atfeder.
+
+**“Daha fazla duygusal destek her zaman daha azından güvenlidir.”** Belli bir noktadan sonra destek müdahaleye dönüşür. Hayal kırıklığını güvenilir biçimde ortadan kaldıran bir öğretmen, [[self-regulated-learning|öz düzenlemenin]] dayandığı [[desirable-difficulties|verimli mücadeleyi]] bastırabilir; bu nedenle [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] motivasyonel-duygusal zararı, faydanın yokluğu değil, ayrı bir güvenlik boyutu olarak ele alır.
+
+**“Yüzden duygu tespit eden bir öğretmen öğrencinin durumunu bilir.”** Duygu gözlemlenmez, çıkarılır ve bu çıkarım tam olarak bahsin en yüksek olduğu yerde en zayıftır. [[ecnuclaw-k12-personalized-companion|Zhou, Li ve Zhang (2026)]] beş boyutlu bir öğrenen profilinde duygusal bir boyut tutar ama bu boyutu anahtar kelime sözlükleriyle doldurur; dolayısıyla hayal kırıklığını sözlükte bulunmayan sözcüklerle ifade eden bir öğrenci profillenmez ve profil uzman yargısına karşı doğrulanmamıştır. Yüzden yakalama, metinden çıkarımın gerektirmediği sürekli bir video akışı ve gizlilik maruziyeti ekler.
+
+**“Farklı anlarda alınan duygu ölçümleri birbirinin yerine geçebilir.”** [[epistemic-emotions-collaborative-problem-solving|Anindho ve ark. (2026)]], sıralı duygunun kısa menzilli kalıcılık ve yönelimli geçişler gösterdiğini, probla yakalanan raporların, yani merak ve kafa karışıklığı çevresindeki öz döngülerin, hayal kırıklığı ve şaşkınlık gibi kendiliğinden yakalananlardan farklı bir ölçüm olduğunu bulmuştur. İkisini özet bir frekansa indirgeyerek ortalamak, sinyali taşıyan diziyi elden çıkarır.

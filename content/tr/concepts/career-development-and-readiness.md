@@ -1,19 +1,24 @@
 ---
 title: Kariyer Gelişimi ve Hazırbulunuşluk
 created: "2026-10-14T22:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
 connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
@@ -36,7 +41,7 @@ connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-em
 
 YZ meslekleri dönüştürdükçe, eğitimin kariyer gelişimindeki rolü belge sahibi olmaktan **uyum yeteneği** inşa etmeye doğru genişledi — değişen roller arasında yol bulma, ayarlama ve gelişme kapasitesi. Bu kavram eğitimi istihdam edilebilirliğe bağlar ve [[anxiety-and-stress]] ile ilişkilidir: daha güçlü kariyer uyum becerilerine sahip öğrenciler daha az YZ kaygısı yaşar.
 
-## Bilgi tabanında kariyer gelişimi ve hazırbulunuşluğun görünümü
+## Araştırmada kariyer gelişimi ve hazırbulunuşluğun görünümü
 
 - **Kariyer uyum yeteneği YZ kaygısını azaltır.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]], kariyer uyum becerilerinin İngilizce öğrencileri arasında YZ kaygısını belirgin ve olumsuz biçimde yordadığını, ilişkinin çekirdek öz değerlendirmelerce kısmi olarak aracılık edildiğini gösterir; düşük uyum yeteneğine sahip grup en yüksek YZ kaygısını sergiledi. [[duan-ai-anxiety-career-decisions-college-2026|Duan vd.]], mekanizmayı SEM ile doğrular: YZ kaygısı, aşınmış kariyer uyum yeteneği yoluyla büyük ölçüde kariyer kararlarını bozar (toplam etkinin yüzde 63,35’i) ve öz yeterlilik sınırlı bir tamponluk sundu. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]], 1.057 öğrenci arasında YZ kaygısı ve olumsuz YZ tutumlarının mezuniyet sonrası iş bulma kaygısını yordadığını ekler; kadınlar, sosyal bilimler alanında okuyanlar ve ikinci yıl öğrencileri en çok etkilenenlerdi. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ vd.]], bunu sağlık bilimleri öğrencilerine geniletir (821, r = 0,233). Kariyer hazırbulunuşluğu böylece [[anxiety-and-stress|kariyer bağlantılı YZ kaygısı]]na karşı ampirik olarak doğrulanmış bir tampondur.
 
@@ -60,6 +65,7 @@ YZ meslekleri dönüştürdükçe, eğitimin kariyer gelişimindeki rolü belge 
 - **Alana özgü hazırbulunuşluk çerçeveleri.** [[workforce-readiness-smart-manufacturing-wrl-2026|Akıllı imalat için iş gücü hazırbulunuşluğu]] ve [[ai-engineering-computing-workforce-grey-literature-2026|mühendislik/bilişim iş gücünün geleceği]], genel istihdam edilebilirliği [[discipline-specific-aied|alana özgü]] yetkinlik çerçevelerine dönüştürür.
 - **İş gücü geçişleri.** [[post-covid-ict-career-aspirations|ICT kariyer hedefleri]] çalışması, öğrencilerin kariyer niyetlerinin teknolojik değişime karşı nasıl değiştiğini inceler.
 - **Kuramsal temel.** [[kim-ai-anxiety-comprehensive-analysis|YZ Kaygısı kapsamlı analizi]], YZ kaygısının birincil itici gücü olarak **YZ tarafından yerinin alınması korkusu**nu belirler — bu kavramın doğrudan ele aldığı kariyer boyutu.
+- **LLM kariyer tavsiyesi Batı varsayımı taşır.** Altı modelden, on Afrika ülkesinde giriş düzeyi bilgisayar işlerinin ne gerektirdiği sorulduğunda, yerel ekosistemleri, dil ihtiyaçlarını ve ulusal politikayı yalnızca %35,4 oranında tanımıştır; dolayısıyla teknik tavsiye aktarılır ama bağlam aktarılmaz ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn ve Berhane, 2026]]).
 
 ## Kariyer hazırbulunuşluğu koruyucu ve gelişimsel bir hedef olarak
 
@@ -74,3 +80,7 @@ Kariyer gelişimi ve hazırbulunuşluk, [[professional-training]] ile (mesleki b
 - **“YZ kaygısı, teselliyle giderilebilecek genel bir eğilimdir.”** [[duan-ai-anxiety-career-decisions-college-2026|Duan ve ark.]], SEM ile YZ kaygısının **kariyer kararlarını büyük ölçüde aşınmış kariyer uyum yeteneği üzerinden bozduğunu (toplam etkinin %63,35’i)** doğrular. Mekanizma özgüldür: kaygı, uyum sağlama kapasitesini ortadan kaldırarak işler; bu nedenle duygulara yönelen teselli, etkiyi taşıyan aracıyı ıskalar.
 - **“Kariyer uyum yeteneği, teknik yeterliğin ardından gelen yumuşak bir beceridir.”** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]], kariyer uyum yeteneğinin **YZ kaygısını azalttığını** gösterir; bu da onu aşağı akışta bir sonuç değil, yukarı akışta bir müdahale kılar. Uyum yeteneğini inşa etmek mekanizmayı ele alır; onu hoş bir ek olarak görmek aracıyı bozulmadan bırakır.
 - **“YZ kaygısı eşit dağılmıştır.”** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün ve Danacıoğlu]], YZ kaygısı ve olumsuz YZ tutumlarının **1.057 öğrenci** arasında mezuniyet sonrası iş bulma kaygısını yordadığını, örüntülerin **kadınlar ve sosyal bilimler öğrencileri** için farklılaştığını bulur. Tek tip bir müdahale desteği yanlış tahsis eder.
+
+Program düzeyinde bir çerçeve, kurumsal adımları açık hale getirir, ancak bir program olarak değerlendirilmemiştir. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] altı aşama önerir: sezinme, paydaş doğrulaması, program teşhisi, müfredat yeniden tasarımı, uygulanma ve yetkinlik ile sonuç gözden geçirmesi. Her aşama adlandırılmış bir karar hakkı ve hesap verebilir bir çıktı taşır ve YZ, dört sınırlı destek işleviyle kısıtlanır: iş gücü piyasası bilgileri üzerinde örüntü tespiti, yetkinlik haritalama, insan değerlendirmesi için müfredat seçenekleri üretimi ve uygulama göstergelerinin izlenmesi. Değeri, bir kariyer hazırlığı stratejisinin genellikle örtük bıraktığı yönetişim adımlarını adlandırmasındadır.
+
+1.445 Çinli üniversite öğrencisine yapılan bir anket, faydalılık inançlarından YZ kullanımı üzerinden kariyer keşfine uzanan bir yol izler. Üretken YZ’nin algılanan faydası, kullanımı β = 0,569 ile yordarken kariyer öz-yeterliliği bunu yalnızca β = 0,082 ile yordamıştır. Kullanım daha sonra kariyer keşfi davranışıyla β = 0,423 ile ilişkiliyken, öz-yeterlilik keşfin kendisinin en güçlü bilişsel yordayıcısı olmaya devam etmiştir (β = 0,285) ve model, keşfin varyansının %50,5’ini açıklamıştır ([[lu-career-cognitions-genai-exploration-2026|Lü vd. (2026)]]). Dolaylı yollar istatistiksel ve kesitseldir, boylamsal değildir.

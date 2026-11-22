@@ -1,6 +1,7 @@
 ---
 title: Öğrenci–YZ Etkileşimi
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -9,13 +10,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
 connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
@@ -29,13 +34,15 @@ connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-co
 
 - Bir YZ sistemine (veya bir öğrenciye) yazdığınız son birkaç istek metnini düşünün. Bunların çoğunu doğrudan cevabı istemek mi, yoksa YZ’den açıklama, sorgulama veya değerlendirme yapmasını istemek mi olarak tanımlarsınız? Bu örüntünün öğrenme üzerindeki etkisinin ne olduğunu düşünüyorsunuz?
 - Araştırma, öğrenci taleplerinin çoğunu az sayıda soru türünün oluşturduğunu ve soruların bir görev ilerledikçe değiştiğini bulmaktadır. Öğrencilerin soru sormasının daralmasının nedenini ne olarak düşünüyorsunuz ve bu durum aracı nasıl kullandıkları konusunda neye işaret ediyor?
-- Sayfa, yüzeysel ve cevap arayan istek metinlerinin azalmış öğrenme ve aşırı bağımlılıkla ilişkili olduğunu, yansıtıcı ve doğrulama odaklı etkileşimin ise anlayışı desteklediğini ileri sürmektedir. 'İyi' bir istek metnini 'kötü' birinden ayıranın ne olduğunu düşünüyorsunuz — ve bu öğrencinin sorumluluğu mu, aracın tasarımının mı?
+- Yüzeysel, cevap arayan istek metinleri öğrenmeyi azaltıyor ve aşırı bağımlılığı teşvik ediyor mu; yansıtıcı, doğrulama odaklı etkileşim anlayışı mı inşa ediyor? 'İyi' bir istek metnini 'kötü' birinden ayıranın ne olduğunu düşünüyorsunuz — ve bu öğrencinin sorumluluğu mu, aracın tasarımının mı?
 - Etkileşim niteliği, öğrencinin sabit bir niteliği olmaktan çok görev bağlamı ve iskeleleme tarafından şekilleniyorsa, bir kurs veya araç daha geniş ve daha verimli bir sorgulama yelpazesini davet edecek biçimde nasıl yeniden tasarlanabilir?
 - Bir öğrencinin akıcı YZ diyalogunun gerçek öğrenmeyi mi yoksa yalnızca becerikli devretmeyi mi yansıttığını nasıl anlarsınız — ve bunu belirlemek için neyi kontrol ederdiniz?
 
 ## Giriş
 
 Öğrenci–YZ etkileşimi, öğrenenlerin üretici YZ ile [[student-engagement|kavramasının]] gözlemlenebilir yüzeyidir — sordukları sorular, yazdıkları istek metinleri, YZ çıktısını görüşme ve doğrulama biçimleri ile bu örüntülerin görev aşamaları boyunca ve zaman içinde nasıl değiştiği. [[student-experience]], [[prompt-engineering]] ve [[learning-analytics]] kesişiminde yer alır ve eğitimde YZ kullanımının gerçek öğrenme mi yoksa [[cognitive-offloading|aşırı bağımlılık mı]] temsil ettiğine ilişkin tartışmaların merkezindedir. [[human-ai-collaboration]] insanlar ile modeller arasındaki bilişsel işbölümünün üst düzey çerçevesini sunarken, öğrenci–YZ etkileşimi bu ilişkinin somut, ölçülebilir gerçekleşimidir — öğrenenlerin ana ana yaptığı belirli sorgulamalar, istek metinleri ve görüşme hamleleri.
+
+Etkileşim her zaman aletsel değildir. Boyd ve Markowitz'ın makine ile tümleşik ilişkisel uyarlama modeli, YZ'yı öğrenenin sistemi doğrudan ilişkiye aldığı *ilişkisel bir partner* olarak, sistemin insanlar arasındaki iletişimi yeniden şekillendirdiği *ilişkisel bir aracı* olarak ayırır ([Boyd & Markowitz, 2026](https://doi.org/10.1177/17456916251404394)). İkincisi daha az görünür olan durumdur; örneğin bir YZ'nin taslağını görüp onu öğretmeninin sesi olarak okuduğu bir geri bildirim. Model bir bulgu değil bir çerçevedir ve bir sınıfta sınanmamıştır. Yine de etkileşim araştırmasının sıklıkla bir arada gördüğü bir ayrımı adlandırır, çünkü yoldaş biçimli bir özel ders aracı ile akran ya da öğretmen iletişimini süzen bir aracı, güven ve bağımlılık konusunda farklı sorular doğurur.
 
 ### Öğrenciler YZ’den ne istiyor
 
@@ -56,6 +63,8 @@ Tamamlayıcı bir akış, etkileşimin *biçimini* öğrenmeye bağlar. Yüzeyse
 
 Etkileşimi değil aracı yolun belirleyicisi yapar: yaklaşık 1.000 lise matematik öğrencisiyle yürütülen saha deneyinde, kısıtlamasız GPT-4 alıştırma puanlarını yüzde 48 artırmış ancak yardımsız sınav puanlarını yüzde 17 düşürmüştür; öğretmen tasarımı ipuçlarıyla sınırlandırılmış aynı model ise alıştırmayı yüzde 127 artırmış ve açığı büyük ölçüde gidermiştir ([[naim-bypass-offload-scaffold-llm-learning-2026|Lee, 2026]]).
 
+Kontrollü bir kodlama görevi bu etkileşim türlerine çıktı numaralarını koyar. [[shen-ai-skill-formation-2026|Shen ve Tamkin (2026)]], 52 çalışan geliştiriciyi tanımadıkları bir Python kütüphanesini bir GPT-4o asistanıyla veya onsuz öğrenmeye rastgele atamış ve her sorguyu ekran kayıtlarına karşı kodlamıştır. Altı örüntü ortaya çıkmış ve öğreneni bilişsel işi yapan üç örüntü, işi devreden üç örüntüden çok daha yüksek puan almıştır: yalnızca kavramsal sorgulama (%65), hibrit kod açıklaması (%68) ve sonra anlama üreten üretim (%86); bunlara karşılık YZ devretme (%39), aşamalı bağımlılık (%35) ve yinelemeli YZ hata ayıklama (%24). Devretme en hızlı örüntüydü, 19,5 dakika; asistan üzerinden hata ayıklama hem daha yavaştı (31 dakika) hem de en kötüsüydü. Sıralama, belirleyici hamlenin değişimin öğrenenin modelini geliştirip geliştirmediği ya da onu ikame ettiğidir.
+
 Öğrencilerin ne kadar değil, etkili biçimde istek metni yazıp yazmadığı başarıyı izlemiştir: YZ Sorgu Verimliliği ile YZ Kaynaklı Problem Çözme, 128 mühendislik öğrencisi boyunca akademik performansın en güçlü öngörücüleri olmuş ve not ortalaması denetlendiğinde dahi anlamlı kalmıştır ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez ve arkadaşları (2026)]]).
 
 Davranışsal bağlam, sorunun kendisinden ayrı bir sinyaldir: TutorTrace’in dört uygulamasında (480 öğrenen, yaklaşık 180.000 IDE olayı) yardımı öğrenenin son davranışsal durumuna bağlamak, bağımsız çalışma içermeyen sorgular arasındaki aralıkları yüzde 50,0’dan yüzde 20,7’ye düşürmüş ve yaklaşan sorguların yalnızca davranıştan öngörülebilir olduğunu göstermiştir (AUROC = .726) ([[tutortrace-learner-behavioral-states-2026|Barron ve arkadaşları (2026)]]).
@@ -64,9 +73,12 @@ Yoğunluk mekanizma değildir: öğrencileri ses ile metin arasında dönüşüm
 
 Bir doğrulama döngüsü yine de yüzeysel kalabilir: bir lisans veritabanı kursunda dört haftalık bir LLM ajanı uygulamasının gecikmeli ardışık analizinde anlamlı bir Sorgu–Değerlendirme–Sorgu döngüsü bulunmuş, ancak alt düzey durumlarda güçlü öz geçiş döngüleri görülmüş ve etkileşimlerin yalnızca yüzde 3,92’si üst düzey bilişe ulaşmıştır ([[li-dbagent-llm-educational-agent-cs-2026|Li ve arkadaşları (2026)]]).
 
+Konuşmada kopuşun kendi taksonomisi vardır — alay etme, kaybolma, yansıma, yanıtı saklama, sahte yanıtlama — ve 246 ortaokul matematik diyaloğu boyunca bunların yalnızca yanıtı saklama çözülmeden sürmüştür; dolayısıyla zarar veren örüntü toparlanma başarısızlığıdır ([[rho-disengaged-conversational-behaviors-2026|Rho ve ark. (2026)]]).
+
 Bernstein ve Sibia (2026), BB2 öğrencilerinin GenAI açıklamalarını ele alma biçiminde yinelemeli bir süzme örüntüsü belgeler ([[student-reception-genai-analogies-computing-2026]]): öğrenciler açıklamaları ders notlarıyla çapraz referanslarlar, kaynağını sormakta ("böyle bir şey olmadan çok daha şüpheci olurdum...") ve tutarsızlık için takip sorularıyla yoklamakta olup tek bir kabul ya da ret kararı vermemektedirler. Öğrenciler ayrıca hangi bilgi ve geçmişe sahip olduğunu varsaydıkları açıklamaları da okumaktadır — müfredatın ötesinde varsayılan [[prior-knowledge|ön bilgi]], varsayılan spor ve oyun referansları ("bilişimin daha çok erkek egemen tarafı") ve aşırı tekrar, hayali okur hakkında sinyal olarak işlev görmüştür; aşırı iskeleleme yalnızca verimsiz değil küçümseyici olarak okunmuştur.
 
 Bir görevdeki doğru *noktada* YZ’ye danışmak, tek bir istek metninin ifade biçimi kadar önemlidir: aynı çalışmada [[yan-cognitive-outsourcing-genai-assessments-2026|Yan ve arkadaşları (2026)]] yeniden dağıtım odaklı azınlığın bağımsız çalışmayı GenAI danışmasıyla dönüşümlü olarak yürüttüğini ve toplam çabanın değişmediğini ancak odakta kayma olduğunu — kaynakların aramadan argümantasyon niteliğini ve dengeyi denetlemeye kaydığını ve yüzeysel akılda tutmaya karşı önlem olarak oturumlardan sonra yansıtma notları yazdığını — bulmuştur; buna karşılık ustalık hedefleri olan ancak [[ai-literacy|YZ okuryazarlığı]] zayıf öğrenenler, "niyetle değil, varsayılan olarak" yük boşaltarak bir "verimlilik paradoksu"na düşmüştür.
+**Öğrencilerin modeli betimlemesi, onu nasıl kullandıklarını izler.** [[cs-students-llm-conceptualizations-prompting-2026|Donekal Chandrashekar ve ark. (2026)]], CS1 sonrası 283 öğrencinin %68’inin bir LLM’yi bir insan olarak ("akıllı arkadaş", "özel öğretmen") tanımladığını bulmuştur; makine çerçevesi ise biraz daha yüksek mekanizma bilgisi ve bağlam zengini istek metinleriyle birlikte gitmiştir.
 
 ### Etkileşimden pedagojiye
 
@@ -80,9 +92,12 @@ Kullanmama da kendisi [[pedagogy]]’nin planlaması gereken bir etkileşim ör�
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], üretici YZ ile açık uçlu diyaloğun akran değerlendirmesine ne kattığını belgeler: modele ilk önerisini kabul etmek yerine sorular yönelten öğrenciler, akranların daha yüksek puanladığı geri bildirim üretmiş ve daha fazla görev keyfi ile daha az [[anxiety-and-stress|kaygı]] bildirmiştir.
 
+Kaygıyı gidermek için diyalog sosyal de olabilir, teknik değil: 596 Mısırlı İngilizce öğretmenliği öğrencisi ve sekiz görüşme boyunca öğrenenler, araca tekrar tekrar "baskı yok ve kimse yargılamıyor" diye sorduklarını anlatmıştır ([[alshammari-interactive-ai-efl-tam-2026|Alshammari ve Abdelaty (2026)]]).
+
 ## Öğrenci–YZ Sohbetinde Disiplin ve Bilişsel Kavrama
 
 - **Öğrenci–YZ sohbetinde disiplinle ilişkili bilişsel kavrama.** Chang ve Li (2026), kişi içi ve disiplinler arası bir tasarımla 116 kurstaki YZ’ye yönelik öğrenci istek metinlerini analiz etmekte olup öğrenci–YZ konuşmalarının sabit bireysel etkileşim tarzlarından çok **disiplinle ilişkili** bilişsel kavramayı yansıttığını göstermektedir. İstek metinlerin yaklaşık yüzde 62’si genel olarak üst düzey bilişsel talebi kodlamış olsa da Bloom düzeyi profilleri disipline göre keskin biçimde farklılaşmıştır: [[stem-education|STEM]] kursları Uygulama ağırlıklı istek metinler (yüzde 20,8), dil kursları Anlama ağırlıklı (yüzde 31,7) ve sosyal bilimler kursları Yaratma ağırlıklı (yüzde 33,8) talepler uyarmıştır. Kişi içi eşleştirilmiş karşılaştırmalar, aynı öğrencilerin sosyal bilimler kurslarında STEM kurslarına kıyasla belirgin biçimde daha fazla üst düzey istek metni ürettiğini doğrulamıştır (birleştirilmiş n = 16, p < .001) ve kurs düzeyindeki çeşitlilik öğrenci düzeyindeki çeşitliliği aşmıştır — bu, YZ öğretim asistanlarının disiplinsel bağlam göz önünde bulundurularak tasarlanması ve değerlendirilmesi yönünde güçlü bir argümandır.
+- **Kullanım, işin problem biçiminde olduğu yerde yoğunlaşır.** Beş ABD üniversitesinde 991 öğrencik bir yinelemede öğrenciler, doğa bilimleri derslerinin %88’inde YZ kullanırken beşeri bilimlerde %52 ve sosyal bilimlerde %36 oranında kullandığını bildirmiştir; çalışma, en yaygın görev olarak yazmayı yerini almıştır ([[burke-ai-proliferation-college-students-replication-2026|Burke ve ark., 2026]]).
 - **Öğrencilerin YZ'yi ne kadar kullanması, onun hakkında ne hissettiklerini yordamadı.** 819 öğrenci arasında cinsiyet, kendi bildirdiği YZ uzmanlığı ve kullanım sıklığının hiçbiri bir MANOVA'da anlamlılığa ulaşmadı (Wilks Lambda 0.997, p = 0.551; 0.990, p = 0.295). Bu örneklemde yoğun ve seyrek kullanıcılar aynı görüşleri taşıyordu ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 - **"Bir öğrenci puanlayıcının notunu değiştiremez."** Değiştirebilir ve bu, bataryadaki en kalıcı başarısızlıktır: **22 modelin 17'si**, çıplak bir itirazın ardından ikinci bir bakış talebinin ardından olduğundan daha fazla not yükseltmiştir; bu 17 model arasında her oyunlaştırma ve boş yanıt denetimini geçen **sekizin altısı** da vardır. En büyük artış Llama 3.2 3B'de ölçeğin **+%33,2'si** olmuş ve ikinci bakış talebinin kendisi 17 modelin **onunda** notları düşürmüştür; dolayısıyla karşıtlık itirazın ham etkisi değildir. [[porcaro-ai-grading-benchmark-2026|Öğrencinin itiraz edebildiği notlar, alışverişin bir kaydını gerektirir]].

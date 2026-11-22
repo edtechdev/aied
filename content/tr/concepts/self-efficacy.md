@@ -1,6 +1,7 @@
 ---
 title: Öz Yeterlilik
 created: "2026-10-14T21:40:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -9,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:50:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
 connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
@@ -37,9 +42,10 @@ connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-pr
 
 Öz yeterlilik gerçek yetkinlikten ayrıdır: davranışı yönlendiren bir kapasite inancıdır. Yeteneklere dair günlük *güven* kavramıyla yakından ilişkilidir ve çoğu zaman onunla birbirinin yerine kullanılır. Öz yeterlilik [[motivation]], [[self-regulated-learning]] ve [[student-experience]] ile yakından bağlantılıdır. YZ bağlamında YZ öz yeterliliği (YZ ile çalışma güveni), YZ okuryazarlığından ayrı bir yapıdır ve araştırmalar, öğrenenlerin YZ ile ilgili bilgiyi gerçekten etkinleştirip uygulayıp uygulamadığında çok önemli bir rol oynadığını göstermektedir.
 
-### Öz yeterlilik bilgi tabanının araştırmalarında nasıl görünüyor
+## Öz yeterlilik araştırmalarda nasıl görünüyor
 
 - **Üretken YZ + XR stüdyo çalışmalarında düşüşler:** 27 öğrencili bir mimari [[arts-and-media-education|design studio]], [[generative-ai|GenAI]] ve çok kullanıcılı XZ hattı kullanan ekiplerin, normal iş akışını sürdüren ekiplere kıyasla tasarım öz yeterlilik güveninde (β = −1,675, p = 0,021) ve sonuç beklentisinde (β = −2,088, p = 0,002) görece ön–son düşüşü daha büyüktü; sunumlarının kör panel puanlamalarında ise anlamlı fark yoktu ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Araç bakımından zengin ortamlar, işin kendisi eşdeğer bulunduğunda bile yeterlilik inançlarını baskılayabilir.
+- **Yetkinlikteki düşüş öğrenmenin ta kendisi olabilir.** Asenkron bir hitabet kursunda algılanan yetkinlik 5,63’ten 5,12’ye (p < .01), iyi yapabileceğine dair inanç ise 6,02’den 5,51’e düştü (p = .03) ve [[petricini-ai-literacy-communication-equity-2026|Petricini ve Cruz (2026)]] bunu yeniden kalibrasyon olarak okur: sınır vakalarıyla tanışmak, başlangıçtaki aşırı güveni yumuşatmıştır.
 - **YZ öz yeterliliği ve kariyer hazırlığı:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]], YZ öz yeterliliğinin YZ okuryazarlığı ile YZ hazırlığı arasındaki ilişkiyi dengeleyici etki yaptığını göstermektedir: okuryazarlık, yalnızca öğrenenlerin YZ kullanımına güveni olduğunda hazırlığa dönüşür ve öz yeterlilik [[career-development-and-readiness|career adaptability]] doğrudan öngörür.
 
 - **Güven her zaman kaldıraç değildir.** 502 üniversite akademik personeli üzerinde yapılan kesitsel bir SEM çalışmasında teknolojik öz yeterlilik, [[well-being|YZ iyi oluşunun]] küçük bir öngördürücüsü (β = 0,082) iken YZ okuryazarlığı baskın çıkmıştır (β = 0,713); bu da güvenin YZ sonuçlarını koşulladığı iddiasını sınırlandırır: iyi oluş için bilgi güvenin önüne geçmiştir ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
@@ -63,6 +69,8 @@ YZ destekli alıştırmanın isteklilikle ilişkilendirildiği kaygı yolu, güv
 - **Bir dönemlik [[rct|RKT’de]] işlem etkisi yok — güven kurs süresiyle yükseldi:** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer's (2026)]] Pazarlama İlkeleri dersindeki 454 lisans öğrencisiyle yürüttüğü rastgele alan deneyinde öz yeterlilik dönem boyunca tüm öğrencilerde yükseldi (zaman etkisi β = 0,099, p = 0,0009, Cohen ƒ2 = 0,025); buna karşın grup etkisi (p = 0,1162) ve grup × zaman etkileşimi (p = 0,5306, d = 0,023) anlamlı değildi, yani [[rag|RAG]] sohbet robotu hiçbir katkı sağlamamıştır. YZ destekli derslerdeki güven kazanımları, aracın değil kursun ilerleyişini izleyebilir — alanın neredeyse tümüyle [[self-report-measures|self-report]] yoluyla ölçtüğü bir yapı için bir atıf riski.
 - **Güven davranışın tersi yönde hareket edebilir.** Rekabetçi programlamada yarışmayı bırakan öğrenenler, aktif akranlarından daha *yüksek* teorik güven bildirmiş olmasına rağmen çözümleme ve akran çevresi alışkanlıklarında belirgin biçimde daha zayıftı (p < .001); dolayısıyla yalnızca bir öz yeterlilik sinyali bir erken uyarı sistemini yanıltır ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]]).
 - **Güven yükselirken ardındaki kapasite düşebilir.** Üniversite öğrencileri arasında sık üretken YZ kullanımı, algılanan güveni ve verimliliği yükseltmiş *ve* aynı öğrenenlerde teknolojik bağımlılığı artırmıştır; dolayısıyla YZ destekli çalışma sırasında alınan bir öz yeterlilik puanı, alttaki beceri aşındığı anda bile yüksek okuyabilir ([[genai-performance-vs-learning|Yan et al., 2025]]).
+- **Ayrışmanın sınava dayalı bir örneği vardır.** Sekiz haftalık bir çapraz ıslah kursunda, genetik analiz öz yeterliği YZ kolunu geleneksel koladan d = 2,84 ile ayırdı; oysa her iki kohortta de final sınavı puanları anlamlı biçimde farklılaşmadı ([[wang-ai-assisted-blended-teaching-crop-breeding-2026|Wang vd. (2026)]]).
+- **Güven insanlardan yukarı değil uzağa hareket edebilir.** Birinci sınıf öğrencileri ChatGPT yorumlu FORTRAN’ı okuduktan sonra, uzun karmaşık bir programda hata ayıklamada (p = .0073) ve sıkıştığında bir sorunu aşmanın yollarını bulmada (p = .0000011) güven yükseldi, ancak aranacak biri olan bir projeyi tamamlamada düştü (p = .0069) ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart vd. (2026)]]).
 - **YZ kullanımı güvenle birlikte arttı, ama güven devamı öngörmedi.** 291 Portekizli öğrenenciyle bir PLS-SEM anketinde genel YZ kullanımı, bağımsız öğrenme öz yeterliliğiyle pozitif ilişkiliydi (β = 0,266, f² = 0,106). Yapı, Bandura’nın dört kaynağı — ustalık deneyimi, vekil deneyim, sözlü ikna ve duygusal durum — üzerinden ikinci dereceden biçimlendirici bir bileşik olarak modellenmiştir. Öz yeterlilik ise devamsızlığı öngörmemiştir (β = −0,068, p = 0,276), her ne kadar YZ kullanımı ayrıca daha yüksek devamsızlıkla ilişkili olsa da (β = 0,148, f² = 0,029). YZ kullanımı → öz yeterlilik yolu erkeklerde kadınlara göre belirgin biçimde daha güçlüydü (β = 0,449 / 0,159; Δβ = −0,289, p = 0,013) ve bu kısmi ölçüm değişmezliği altındadır ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 
 - **Yapılandırılmış bir protokol sonrası güven, yapıyı izledi, dozu değil.** Benzer problemleri bağımsız çözme konusunda protokol sonrası güven, 1–10 ölçeğinde ortalama 7.18’di (σ = 1.62, n = 217); kurumsal ortalamalar dört kampüste yalnızca 6.86 ile 7.52 arasında değişti. Güven, YZ açıklamasının algılanan yararını (r_s = 0.37) ve yinelenen alıştırmanın yararını (r_s = 0.35) izledi, önceki YZ güvenini daha zayıf izledi (r_s = 0.20), kullanım sıklığını (r_s = 0.02, p = 0.749) ya da öz bildirimli GPA’yı (r_s = 0.13, p = 0.064) izlemedi ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Bu, araçta daha fazla zaman değil, bir ustalık rotasıdır — yazarca kurgulanmış zorluk, ardından bağımsız bir deneme; sayfanın eksik olduğu ayrım buydu. Çalışma hiçbir öğrenme çıktısı ölçmedi, dolayısıyla öğrencilerin neye inandığını sınırlar.
@@ -80,6 +88,8 @@ YZ destekli alıştırmanın isteklilikle ilişkilendirildiği kaygı yolu, güv
 - **Yararlılık için gerekli, yalnızca onunla ilişkili değil.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu ve Liu (2026)]], 405 tasarım yüksek lisans öğrencisi için YZ öz yeterliliğini iki kabul inancının önüne yerleştirdi ve her ikisinin de en güçlü öncülü olduğunu buldu: algılanan yararlılık üzerinde β = 0,458 ve [[technology-acceptance-model|algılanan kullanım kolaylığı]] üzerinde β = 0,394. Gerekli koşul analizi, yukarıdaki yol iddiasından daha güçlü bir iddia biçimi ekler. Yeterlik, algılanan yararlılık için gerekli olarak tanımlanan tek koşuldu (d = 0,125, p = 0,015). Ölçeğinin %80, %90 ve %100’ünde yararlılık, yeterliliğin %10,0, %30,0 ve %50,0’ını gerektiriyordu. Dolayısıyla güven, araçsal yargının altında bir taban olarak durur, birkaç katkıdan biri olarak değil. Tasarım enine kesitlidir ve model niyetin R² = 0,150’sini açıklar, bu yüzden eşikleri örneklem içi olarak ele alın.
 
 - **Davranışsal izler sinyali taşıyabilir, ama sınırı etiketler belirler.** İki üniversiteli bir işlem hattı, etkileşim izlerinden düşük öz yeterliliği tespit etmiştir; anketteki ölçüm anına ait etiketler dönem ortası bölünmesini geçmiş ve tek başına MSLQ alt ölçeği, tam ölçek kadar iyi etiketleme yapmıştır ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
+
+- **YZ’nin kariyer boyutları iki rota üzerinden ayrışır.** 415 Çinli üniversite öğrencisi arasında [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]], olumlu algıların kariyer planlama üzerinden, olumsuz algıların ise yalnızca kariyer kaygısı üzerinden kariyer kararı öz yeteriliğine ulaştığını bulmuştur (dolaylı β = −0,184).
 
 ## Yaygın yanlış anlamalar
 

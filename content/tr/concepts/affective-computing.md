@@ -1,6 +1,7 @@
 ---
 title: Duygusal Hesaplama
 created: "2026-10-14T21:32:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -8,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,13 +17,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
 connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> Eğitimdeki **duygusal hesaplama**, öğrenen duygusunu algılamak ve öğretimi uyarlamak için fizyolojik ve davranışsal sinyalleri kullanır — bkz. [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]] ve [[kar-mathbuddy-affective-math-tutoring-2025]]. Bilgi tabanı ayrıca [[student-ai-interaction|YZ etkileşimi]] dahil olmak üzere [[sycophantic-ai-social-interaction-2026]] ve [[shame-guilt-ai-regulation-computing-education]]'nin duygusal risklerini de belgeler.
+> Eğitimdeki **duygusal hesaplama**, öğrenen duygusunu algılamak ve öğretimi uyarlamak için fizyolojik ve davranışsal sinyalleri kullanır — bkz. [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]] ve [[kar-mathbuddy-affective-math-tutoring-2025]]. [[student-ai-interaction|YZ etkileşiminin]] duygusal riskleri de önemlidir; [[sycophantic-ai-social-interaction-2026|Ibrahim ve ark. (2026)]] ve [[shame-guilt-ai-regulation-computing-education|Hamilton ve ark. (2026)]] dahildir.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -35,7 +40,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 
 ## Giriş
 
-### Öğretimi uyarlamak için duyguyu algılama
+## Öğretimi uyarlamak için duyguyu algılama
 
 Duygusal hesaplama, YZ sistemlerinin yalnızca öğrenenlerin ne yaptığına değil nasıl hissettiklerine de yanıt verebilmesi için duygusal olarak farkında olmalarını amaçlar. Eğitimde bu, hayal kırıklığını, kafanın karışıklığını, güveni, can sıkıntısını veya katılımı algılamak ve öğretimi buna göre uyarlamak anlamına gelir. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]], yaklaşımı iki modaliteden — konuşma metninden ve gerçek zamanlı yüz ifadesinden — duyguyu modelleyerek ve öğretmene [[prompt-engineering|istek metni iletmeden]] önce toplulaştırılmış duygusal durumu [[pedagogy|pedagojik]] stratejilerle eşleyerek gösterir.
 
@@ -43,7 +48,7 @@ Sinyallerin kendileri belirsizdir: tek bir ifade kanalı, onları üreten kişi,
 
 - **Ortaokul matematiğinde duygusal ve yansıtıcı YZ desteği:** [[mindful-llm-math-tutoring-2026|Rief ve ark. (2026)]], 7. sınıf öğrencilerine yönelik bir cebir [[intelligent-tutoring|öğretmeni]] üzerine dinamik sohbetler, nefes egzersizleri ve farkında hata-geri bildirim dili yoluyla farkındalık katmanı ekledi. Küçük bir sınıf [[rct]]'sinde (252 katılımcıdan 42 tamamlayan) farkında sürüm, yalnızca bilişsel desteğe kıyasla daha az zaman alarak ve daha az istenmiş ipucuyla benzer cebir öğrenmesine ulaştı — daha yüksek öğrenme verimliliği ve daha dengeli [[help-seeking]] — ancak durum-matematiği kaygısı azalması koşullar arasında anlamlı biçimde farklılık göstermedi.
 
-### Faydalar ve riskler
+## Faydalar ve riskler
 
 Duygu farkında öğretmenlik ölçülebilir kazanımlar sağlayabilir, ancak aynı incelik riskler de taşır:
 
@@ -52,9 +57,9 @@ Duygu farkında öğretmenlik ölçülebilir kazanımlar sağlayabilir, ancak ay
 
 - **Katılım, öğrenmenin vekili değildir.** Beyin algılama çalışması, kısıtlı, uyarlanabilir bir arayüzün bilişsel katılımı artırdığını (p = .018) bulurken sınırsız sohbet robotunun daha yüksek [[learning-gains|öğrenme kazanımları]] ürettiğini (p < .03, d > 0.80) buldu; böylece bir duygu veya katılım sinyali, hizmet ettiği sonuçtan uzağa işaret edebilir ([[socratic-nuclear-ai-learning|Clin Deffarges ve ark. (2026)]]).
 
-### Duygusal hesaplama ve daha geniş AIED
+## Duygusal hesaplama ve daha geniş AIED
 
-Duygusal hesaplama, [[affective-tutoring]] (pedagojik uygulaması), [[student-modeling]] (duygu dahil tüm öğreneni temsil etme) ve [[learning-analytics]] (öğrenen verilerinden sinyal türetme) kesişiminde yer alır. [[intelligent-tutoring]] tasarımına ve [[pedagogical-safety]] — YZ'nin öğrenen duygusunu desteklemesi, manipüle etmemesi ilkesine — bağlanır.
+Duygusal hesaplama, [[affective-tutoring]] (pedagojik uygulaması), [[student-modeling]] (duygu dahil tüm öğreneni temsil etme) ve [[learning-analytics]] (öğrenen verilerinden sinyal türetme) kesişiminde yer alır. [[intelligent-tutoring]] tasarımına ve [[pedagogical-safety]] — YZ'nin öğrenen duygusunu desteklemesi, manipüle etmemesi ilkesine — bağlanır. Duygu algılama, beslediği pedagojiden ayrıdır: [[affective-tutoring|duygusal özel ders]] bir öğretmenin bir duygu okumasına nasıl davranması gerektiğini, [[sensor-and-gaze-analytics|sensör ve bakış analitiği]] ise sinyallerin kendilerinin neyi destekleyebileceğini kapsar.
 
 - **Gerçek zamanlı, uç tabanlı sınıf duygusu izleme.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen ve ark. (2026)]], duygusal hesaplamayı özgün, geniş ölçekli ortamlara taşıyan bir duygu farkında sınıf kalitesi değerlendirme sistemi kurar. **IoT/edge aygıtları** için özelleştirilen sistem, öğrenenlerin duygusal ve katılım örüntülerini gerçek zamanlı yakalamak için birden fazla aracıyı koordine ederken yük dengeleme ve gecikmeyi ele alır. **Classroom Emotion Dataset**'te değerlendirilmiştir (gerçek Vietnam K–12 sınıflarından 1.500 etiketli görüntü ve 300 sınıf videosu), çok kişili, saha içi duygusal etkileşime odaklanarak — laboratuvar modellerinden konuşlandırılabilir sınıf izlemeye duygu tanımanın ölçeklendirilmesinin bir gösterimi, bu tür izlemenin yarattığı gizlilik ve [[pedagogical-safety]] değerlendirmeleriyle birlikte.
 - **Duygusal olarak zeki değerlendirme aracıları.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], [[llm]] destekli duygusal olarak zeki bir [[conversational-ai|konuşmaya dayalı ajan]], performansa dayalı değerlendirmeler sırasında [[anxiety-and-stress|öğrenci kaygısını]] ve sosyal baskıyı azaltırken [[usability-research|kullanılabilirliği]] korudu.

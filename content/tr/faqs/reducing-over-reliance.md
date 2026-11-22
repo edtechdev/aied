@@ -1,7 +1,7 @@
 ---
 title: "Öğrencilerin YZ’ye Aşırı Güvenmesini Nasıl Önlerim?"
 created: "2026-10-14T10:36:01-04:00"
-updated: "2026-11-15T16:08:48-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -13,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: Uyarlanabilir Öğrenme
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T22:48:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -14,8 +15,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
-connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
+connected_articles: [adapt-adaptive-lesson-plan-transformer, adaptive-ai-scaffold-collaborative-problem-solving-2026, adaptive-pretesting-retention, adaptive-scaffolding-cognitive-engagement-its, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-student-engagement-online-learning-review-2025, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, ayasrah-adaptive-assessment-conceptual-mastery-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, bin-bakheet-adaptive-ai-stem-deep-learning-2026, burneo-can-edtech-close-learning-gaps-2026, chudziak-ai-math-tutoring-platform, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026, context-based-ai-secondary-chemistry-2026, deceptive-overgeneralization-adaptive-learning-2026, graph-its-adaptive-algorithms-2026, khalifeh-redefining-personalized-learning-ai-2026, making-ai-tutoring-productive-mastery-math-2026, mars-momentum-aware-adaptive-rating-assessment-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, riedmann-reinforcement-learning-education-review-2026, simon-student-engagement-adaptive-learning-2026, stanford-evidence-base-ai-k12-2026, turano-ai-tutoring-not-a-monolith-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, zerkouk-comprehensive-review-its-2025, zhao-deeptutor-agentic-personalized-tutoring-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -33,15 +38,16 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 ## Giriş
 
-### Temel mekanizmalar
+## Temel mekanizmalar
 
 - **Ölç-model-uyarla döngüsü:** [[knowledge-tracing]] öğrencinin ne bildiğini tahmin eder, [[student-modeling]] öğrenciyi temsil eder ve sistem buna göre zorluğu, içeriği ve [[feedback]]’i uyarlar.
 - **Ölçekte kişiselleştirme:** [[personalized-learning]] sistemleri, her öğrenciye özgü öğrenme yolları sunmak için uyarlanabilir algoritmalar kullanır. [[deeptutor]] ve [[ai-powered-personalized-learning-elementary-fractions-2026|ilkokul kesir öğretmenleri]] uyarlanabilir kişiselleştirmeyi uygulamada gösterir.
 - **İçerik sıralama:** [[adaptive-pretesting-retention|Uyarlanabilir ön sınav]] ve [[adapt-adaptive-lesson-plan-transformer|ders planı dönüştürücüleri]] sunulan içeriğin sırasını ve türünü optimize eder.
 - **ITS tümleşmesi:** [[intelligent-tutoring|Akıllı öğretim sistemleri]] kanonik uyarlanabilir [[edtech-platform|öğrenme platformudur]]; teşhis ile uyarlamayı birleştirir.
 - **AutoML kaynaklı profilleme ve teşhis:** Geleneksel eğitim modelleri çok kaynaklı, heterojen öğrenme davranışı verisini işlemekte zorlanır; bu da öğrenci profillemesini ve teşhis modeli gelişimini sınırlar. Otomatik [[machine-learning|makine öğrenmesi]] ile yönlendirilen kişiselleştirilmiş bir sinirsel bilişsel mimari arama çerçevesi, [[multimodal|çok yöntemli]] heterojen eğitim verisini heterojen yöntemlerle tümleştirir, heterojen öğrenci profillerine uyarlanmış teşhis modelleri üretir ve öğrenme süreçlerinin dinamik analizini statik analize tercih eder.
+- **Kapsam bir tasarım kısıtıdır, yan etki değil.** [[ayasrah-adaptive-assessment-conceptual-mastery-2026|Simülasyon temelli tasarım denetimleri olan küme rastgeleleştirmeli bir protokol]], ön koşul kapılı uyarlanabilir sıralamanın sabit bir diziye karşı 8 kavramdan 6,3’e ulaştığını bulmuştur; dolayısıyla protokol, müfredat kapsamını ön koşul kapısının belirlemesine bırakmak yerine açık bir taban olarak belirler.
 
-### Etkililik kanıtı
+## Etkililik kanıtı
 
 Bilgi tabanı karışık kanıt belgeler: uyarlanabilir sistemler, uyarlama güvenilir [[student-modeling|öğrenci modellerine]] dayandığında sonuçları iyileştirir; ama kötü kalibre edilmiş uyarlama öğrenmeye zarar verebilir. [[personalized-learning|Kişiselleştirme araştırması]], etkili uyarlamayı yüzeysel özelleştirmeden ayırır. [[khalifeh-redefining-personalized-learning-ai-2026|Sistematik derlemeler]], “uyarlanabilir”, “kişiselleştirilmiş”, “bireyselleştirilmiş” ve “özelleştirilmiş” öğrenmenin tutarsız biçimde kullanıldığını bulur — dolayısıyla etki büyüklükleri uyarlamanın nasıl işletimselleştirildiğine ağır biçimde bağlıdır ve alan bütünleşik bir çerçeve çağrısında bulunur.
 
@@ -53,15 +59,15 @@ Bilgi tabanı karışık kanıt belgeler: uyarlanabilir sistemler, uyarlama güv
 
 44 çalışmanın PRISMA uyumlu bir derlemesi, katılım literatürünün [[student-engagement|davranışsal katılıma]] yattığını ve etken katılımda en ince olduğunu bulur; ALEKS ve W-Pal boylamsal çalışmalarında aracın yeniliği solduğunda zaman içinde azalan katılım biçiminde bir yenilik etkisi bildirir ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng ve Fryer (2026)]]).
 
-### YZ çağı: LLM temelli uyarlama ve riskleri
+## YZ çağı: LLM temelli uyarlama ve riskleri
 
 [[generative-ai|Üretken yapay zeka]], uyarlanabilir sistemlerin yapabileceklerini genişletti — konuşmalı [[agentic-ai|etken]] öğretmenler, [[rag]] temelli içerik ve [[llm]] kaynaklı [[intelligent-tutoring|özel ders]] yalnızca problem zorluğunu değil dili ve açıklama biçimini de uyarlar (ör. [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|çok etkenli uyarlanabilir özel ders]]). Bununla birlikte LLM temelli uyarlama yeni riskler getirir: güvenilir [[student-modeling|öğrenci modelleri]] olmadan uyarlama yüzeysel sinyallere dayanabilir; aşırı uyarlama öğrencilerin ihtiyaç duyduğu üretken mücadeleyi azaltabilir ([[desirable-difficulties]], [[cognitive-offloading]] sayfalarına bakın); kişiselleştirme ile öğrenci [[agency]]’sini koruma arasındaki denge açık bir tasarım sorusudur ([[agentic-ai|etken YZ]] sayfasına bakın). Uyarlamanın öğrenci kaynaklı bir çeşidi hiçbir [[student-modeling|öğrenci modeli]] olmadan çalışır: Sidorkin’in (2026) yüksek lisans kursunda okumalar, yalnızca öğrenciler onları yeniden çerçevelemek, derinleştirmek, sadeleştirmek veya yerelleştirmek için takip soruları sorduğunda ayarlanmıştır ve anlama yönelimli istekler güvenilir biçimde daha yoğun [[scaffolding|iskeleleme]] üretmiştir (temel metinden 3,4 kata 8,7 kata daha fazla tanımsal işaretleyici). Her okuma için en az üç takip sorusu isteğe bağlamak materyali bir etkileşime dönüştürmüştür. Aynı zamanda uyarlama yükünü öğrenciye taşır: burada uyarlama yalnızca öğrenci ne isteyeceğini biliyorsa gerçekleşir.
 
-### Kişiselleştirilmiş öğrenme ve akıllı öğretimle ilişkisi
+## Kişiselleştirilmiş öğrenme ve akıllı öğretimle ilişkisi
 
 Uyarlanabilir öğrenme sıklıkla [[personalized-learning|kişiselleştirilmiş öğrenme]] ile karıştırılır ama ikisi farklıdır. **Uyarlanabilir öğrenme** *mekanizmadır* — bir öğrenci modeline dayalı içerik, hız ve zorluğun gerçek zamanlı ayarı. **Kişiselleştirilmiş öğrenme**, bütün öğrenme deneyimini bir bireye uydarmanın *daha geniş hedefidir*; gerçek zamanlı uyarlama bunun bir uygulamasıdır. Uyarlanabilir sistemler kişiselleştirmeye giden kanonik *araçlardır*. [[intelligent-tutoring|Akıllı öğretim]] klasik *platformdur*: ITS teşhis (öğrenci modelleme, bilgi izleme) ile uyarlamayı birleştirir ve LLM temelli öğretmenler konuşmaya dayalı biçimde uyarlar. [[personalized-learning|Kişiselleştirilmiş öğrenme]] ile birlikte uyarlanabilir öğrenme, [[student-modeling|öğrenci modelleme ve uyarlanabilir öğretim]] ailesinin uygulama tarafı bir üyesidir — [[student-modeling|öğrenci modelleme]], [[knowledge-tracing]] ve [[cognitive-diagnosis]] ürettiği öğrenci temsillerini tüketir.
 
-### Araştırma kanıtı
+## Araştırma kanıtı
 
 - **Uyarlanabilir + YZ araçlarına ilişkin [[meta-analysis-systematic-review|meta-analitik]] kanıt.** [[burneo-can-edtech-close-learning-gaps-2026|Dünya Bankası meta-analizi]], 14 [[rct|RCT]]’yi birleştirerek uyarlanabilir bilgisayar destekli öğrenme, akıllı öğretim ve üretken YZ’yi ortak bir ölçekte toplar; iki teknoloji kuşağı arasında anlamlı fark olmaksızın ortalama öğrenme kazancını yaklaşık 0,125 standart sapma olarak tahmin eder — kazanımları itenin uyarlama mekanizması, belirli araç kuşağı olmadığının kanıtı.
 - **Dinamik alanlarda karşılaştırılan uyarlanabilir algoritmalar.** [[graph-its-adaptive-algorithms-2026|Grafik temelli ITS araştırması]], dinamik müfredatlar için [[knowledge-graph|grafik temelli bir bilgi]] temsili çerçevesinde çoklu uyarlanabilir öğrenme algoritmasını (Bayesyen bilgi yayılımı ve sezgitsel bulanık mantık dâhil) karşılaştırır.
@@ -81,14 +87,8 @@ Uyarlanabilir öğrenme sıklıkla [[personalized-learning|kişiselleştirilmiş
 - **Ustalık kararlarını kural temelli tutun ve makine öğrenmesini izlemeye hapsedin.** Altıncı sınıfın 30 öğrencisi için sekiz haftalık uyarlanabilir bir STEM programı, yolları kural temelli ustalıkla yönetirken performansı makine öğrenmesiyle izlemiş ve uyarlamayı denetlenebilir tutmuştur; ama ön sınav olmadan ve koşul başına tek sınıfla kazançları yerelde doğrulanacak bir pilot şablonudur ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026|Bin Bakheet ve ark., 2026]]).
 - **Zayıf ortalamayı değil darboğaz özniteliğini uyarlayın.** Bilgi durumlarının geçiş modellemesi, [[critical-thinking|analitik düşünmeyi]] kazanılması en zor ve kaybedilmesi en kolay olarak sıralamıştır — en düşük ileri geçiş olasılığı 0,31 ve en yüksek geri 0,22–0,23 — işaretlenen özniteliğin yeniden alıştırılmasını genel ustalıktan daha keskin bir uyarlama hedefi yapmıştır ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng ve Huang, 2026)]]).
 - **Toplu puanlardan değil süreç dizilerinden uyarlama.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela ve Cukurova (2026)]], üçlülerdeki 65 öğrencinin diyalog dönüşlerinin *sırasını* madencilik yaparak iskeleleme kuralları türetmiş; uyarlanabilir öğrenmeyi toplanmış davranışsal veya performans ölçülerinden bireysel süreç dizilerine taşımıştır; azami iskeleleme görev üzerinde davranışı yükseltmiş ama betimlemesini de artırmış ve tasarım sınanmamıştır.
-
-## Yaygın yanlış anlamalar
-
-- **“Uyarlanabilir, kişiselleştirilmiş ve bireyselleştirilmiş aynı şeydir.”** [[khalifeh-redefining-personalized-learning-ai-2026|Sistematik derlemeler]] bu dört terimin **literatürde tutarsız biçimde** kullanıldığını bulur; bu da bildirilen etki büyüklüklerinin uyarlamanın kendisine değil, büyük ölçüde uyarlamanın nasıl işletimselleştirildiğine bağlı olduğu anlamına gelir. Sözcükleri farklı kullanan çalışmaları birleştiren bir meta-analiz farklı müdahaleleri birleştirmektedir ve ortalama hiçbirini betimlemez.
-- **“Sistemde ulaşılan ustalık, öğrenilen ustalıktır.”** **6.000 öğrencili bir ortaokul saha deneyinde**, YZ destekli üst üste üç doğru ustalık kuralı **platform tanımlı erişimi yaklaşık 28,7 yüzde puanı yükseltmiş, ancak** bir aktarım ölçüsünü iyileştirmemiştir. Kural, platformun kendi ölçütünü en iyilemiştir. Bu, ustalık sinyalinin öğrenmenin bir modeli olduğunun, öğrenmenin kendisi olmadığının en açık göstergesidir.
-- **“Doğruluk temelli uyarlama ne zaman duracağını bilir.”** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ve Stamper (2026)]], ustalığı doğruluktan çıkaran sistemlerin **alıştırmayı çok erken sonlandırma** riski taşıdığını bulmuştur: sistem doğru bir diziyi anlama olarak okur ve öğrenenin hâlâ ihtiyaç duyduğu alıştırmayı geri çeker. Başarıyla duran uyarlama, kalıcılığı üreten denemeleri tam olarak eksiltebilir.
-- **“Darboğaz, uyarlamanın ne kadar iyi olduğudur.”** **İki yıllık bir ilçe RCT’sinde** bağlayıcı kısıt **benimsemeydi**: kaydı tek adıma indirmek, yalnızca tasarım değişiklikleriyle ilk oturum benimsemesini yaklaşık **%45’ten %83’e** çıkarmış ve niyet-ile-tedavi kazanımları buna koşut olarak büyümüştür. En akıllı uyarlama, ona hiç ulaşmayan kimseye hizmet etmez.
-- **“Katılım bir kez kurulduğunda sürer.”** **44 çalışmanın** PRISMA uyumlu bir derlemesi, katılım literatürünün davranışsal katılıma yattığını ve etken katılımda en ince olduğunu bulmuş ve bir **yenilik etkisi** bildirmiştir: ALEX ve benzeri sistemlerin boylamsal çalışmalarında katılım zaman içinde azalmaktadır. Erken katılım, tasarımın kararlı bir özelliği değildir.
+- **Tanıma uygulamanın önüne geçer.** 90 eğitimci arasında, 74’ü (%82,2) uyarlanmaya ihtiyaç duyan öğrencileri belirlemiş ancak yalnızca 50’si (%55,6) herhangi bir uyarlanabilir önlem uygulamıştır; bağlayıcı engel teknoloji değil, öğrencilere ilişkin bilgiydi ve bunu %12 adlandırmıştır ([[hilali-adaptive-learning-challenges-2026|Hilali ve Chergui (2026)]]).
+- **Denetim tedavinin parçasıdır.** Uyarlamayı kimin kontrol ettiği, neyin uyarlandığı kadar önemlidir: 83 çalışma genelinde sistem kontrolü bilgi üzerinde g = 1,05 (%95 GA [0,65; 1,45]), öğretmen kontrolü g = 0,86 [0,46; 1,26] üretirken öğrenci kontrolü yalnızca g = 0,31 [−0,44; 1,05]’e ulaşmıştır ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao ve ark., 2026]]).
 
 ## Uygulama için çıkarımlar
 
@@ -104,3 +104,10 @@ Uyarlanabilir öğrenme sıklıkla [[personalized-learning|kişiselleştirilmiş
 
 - Adlandırılan her etki büyüklüğünün yanında “uyarlanabilir”in işletimsel tanımı bildirilmelidir, çünkü literatürün tanımları birbirinden ayrışır ve birleştirilmiş sayılar bu belirsizliği devralır.
 - Kendi doğrulamada ustalık ölçütü öğrenme sonuçlarından ayrılmalıdır. Doğrulama ölçüsü uyarlamayı yürüten sinyalin kendisiyse, o ölçü bağımsız kanıt değildir.
+## Yaygın yanlış anlamalar
+
+- **“Uyarlanabilir, kişiselleştirilmiş ve bireyselleştirilmiş aynı şeydir.”** [[khalifeh-redefining-personalized-learning-ai-2026|Sistematik derlemeler]] bu dört terimin **literatürde tutarsız biçimde** kullanıldığını bulur; bu da bildirilen etki büyüklüklerinin uyarlamanın kendisine değil, büyük ölçüde uyarlamanın nasıl işletimselleştirildiğine bağlı olduğu anlamına gelir. Sözcükleri farklı kullanan çalışmaları birleştiren bir meta-analiz farklı müdahaleleri birleştirmektedir ve ortalama hiçbirini betimlemez.
+- **“Sistemde ulaşılan ustalık, öğrenilen ustalıktır.”** **6.000 öğrencili bir ortaokul saha deneyinde**, YZ destekli üst üste üç doğru ustalık kuralı **platform tanımlı erişimi yaklaşık 28,7 yüzde puanı yükseltmiş, ancak** bir aktarım ölçüsünü iyileştirmemiştir. Kural, platformun kendi ölçütünü en iyilemiştir. Bu, ustalık sinyalinin öğrenmenin bir modeli olduğunun, öğrenmenin kendisi olmadığının en açık göstergesidir.
+- **“Doğruluk temelli uyarlama ne zaman duracağını bilir.”** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ve Stamper (2026)]], ustalığı doğruluktan çıkaran sistemlerin **alıştırmayı çok erken sonlandırma** riski taşıdığını bulmuştur: sistem doğru bir diziyi anlama olarak okur ve öğrenenin hâlâ ihtiyaç duyduğu alıştırmayı geri çeker. Başarıyla duran uyarlama, kalıcılığı üreten denemeleri tam olarak eksiltebilir.
+- **“Darboğaz, uyarlamanın ne kadar iyi olduğudur.”** **İki yıllık bir ilçe RCT’sinde** bağlayıcı kısıt **benimsemeydi**: kaydı tek adıma indirmek, yalnızca tasarım değişiklikleriyle ilk oturum benimsemesini yaklaşık **%45’ten %83’e** çıkarmış ve niyet-ile-tedavi kazanımları buna koşut olarak büyümüştür. En akıllı uyarlama, ona hiç ulaşmayan kimseye hizmet etmez.
+- **“Katılım bir kez kurulduğunda sürer.”** **44 çalışmanın** PRISMA uyumlu bir derlemesi, katılım literatürünün davranışsal katılıma yattığını ve etken katılımda en ince olduğunu bulmuş ve bir **yenilik etkisi** bildirmiştir: ALEX ve benzeri sistemlerin boylamsal çalışmalarında katılım zaman içinde azalmaktadır. Erken katılım, tasarımın kararlı bir özelliği değildir.

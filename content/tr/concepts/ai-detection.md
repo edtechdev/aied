@@ -13,13 +13,18 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
+updated: "2026-11-21T17:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
 connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
@@ -58,6 +63,7 @@ Araştırmalar tutarlı biçimde tespitin tek başına güvenilmemesine karşı 
 - **Geçerlilik ve adalet açıkları:** tespit araçları ana dili İngilizce olmayan yazarlara karşı önyargılı olabilir, öğrencileri haksız yere cezalandıran yanlış pozitifler üretebilir; bu kaygı [[bias-mitigation]] ve [[equity-in-ai-education]] ile bağlantılıdır.
 - **Dikkate değer hata oranları ve güven erozyonu:** güvenilmez tespit, öğrenci [[trust]] ve değerlendirme sürecinin bütünlüğünü baltalar.
 - **Göreve bağımlılık:** öz tespit çalışmasının da gösterdiği gibi doğruluk görev türüne göre keskin biçimde değişir; dolayısıyla hiçbir tek dedektör tüm değerlendirmelerde güvenilir değildir.
+- **Ayrıntı düzeyi hükmü değiştirir.** Köken etiketli PISA 2025 denemelerinde bir gömme (embedding) dedektörü, öğrenci tarzı yeniden yazımda tüm metin YZ geri çağırma oranını 0,94 ve üzerinde tutarken, tümcecik düzeyindeki geri çağırma 0,59'a kadar düşmüştür ([[schaller-ai-text-detection-authentic-writing-2026|Schaller ve ark. (2026)]]).
 - **Doğrulanmış bir dedektör bile tarihsel bir tabana dayanır:** Altı yıllık bir CS2 çalışması, dedektörünü LLM öncesi bir tabana karşı doğrulamıştır: LLM’ler halka açılmadan önce H puanları sıfıra yakındı ve 2026’ya kadar ortalaması 11,9’a yükseldi ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **Nicelendirilmiş bütünlük çıkmazı.** [[karr-ai-detection-humanization-2026|A controlled study of 642 published abstracts (Karr et al. 2026)]], [[educational-policy-ai|policy]] açığının yalnızca kavramsal değil, ölçülmüş olduğunu gösterir: kılavuza uygun hafif YZ rötuşu %38–80 oranında işaretlenir, değiştirilmemiş güncel özgün metinler %9–15 (STEM dışı STEM’den çok daha yüksek), insansılaştırıcı destekli YZ metni ise vakaların %96’sından fazlasında tespitten kaçar. Dedektörler yüzey üslubuna (uzun belirteç ve akademik kelime yoğunluğu) bağlı kaldığından, yazarlık niyetine değil, dürüst YZ yardımı yaptırıma uğrarken kasıtlı insansılaştırma kaçışı paçayı kurtarır — yazarlar dedektör puanlarının tek başına asla ispat unsuru olmaması gerektiğini savunur.
 
@@ -91,6 +97,8 @@ Tespit araştırması ayrıca, doğruluk sorularından daha uzun ömürlü bir g
 Bassett ve ark., YZ tespitinin gözetim ve ceza yoluyla çözülemeyecek bir soruna yönelik işlevsiz bir çözüm olduğu sonucuna varır: odak, [[assessment|assessment design]] — YZ’nin öğrenmedeki rolünü ve denetimsiz değerlendirmelerin güvenliğinin sağlanamayacağı gerçeğini tanıyan bir tasarıma — kaymalıdır. Bu, bilgi tabanının [[beyond-detection-authentic-assessment-ai-2025|beyond-detection]] duruşmasını, tespit araçlarını emekliye ayırmaya yönelik doğrudan ve kanıta dayalı bir argümanla birleştirir.
 
 16 türü kapsayan 40 psikoloji değerlendirmesinden 36’sı (%90), geçme notuna yetecek kadar yeterli görülen ChatGPT çıktısı üretmiştir; dört başarısızlık, fiziksel hazır bulunmayı, görsel bir yapıtı veya öğrencinin kendi veri kümesini gerektiren görevlerdi — bu, YZ işinin başarı sayılıp sayılmayacağına tespit değil, geçme sınırının karar verdiğini gösterir ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
+
+**Uygulama, kanıtların gerisindedir.** 127 kurumu inceleyen [[making-ai-work-for-students-ofs-2026|OfS ve Advance HE (2026)]], araştırma uzlaşının aksine dedektör kullanımının yıllar sonra sürdüğünü bulmuştur. Çalışanlar, puanların disiplin davasına destekleyici kanıt olarak girdiğini anlatmış; bazı kurumlar dedektörleri tamamen kullanımdan kaldırmış ve Turnitin araştırmacılara aracının çıktısının yazarlık belirlenirken tek bir veri noktası olması gerektiğini söylemiştir. Öğrenciler de alıcı ucunu tarif etmiştir: bir kez işaretlenince yazarlığını kanıtlama yolu yoktur ve tümden uzun tire kaldırma ya da bilerek hata ekleme gibi puanı düşürmeye yönelik stratejiler geliştirmektedir.
 
 ### Dedektör önyargısı ve silahlanma yarışının mekanizması
 

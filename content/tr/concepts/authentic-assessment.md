@@ -1,6 +1,7 @@
 ---
 title: Özgün Değerlendirme
 created: "2026-10-14T22:30:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 foundations: [academic-integrity]
@@ -10,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T03:15:06-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
-connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
+connected_articles: [ai-ethics-tensions-online-pedagogy-2026, assessing-student-drive-framework-2025, asynchronous-oral-assessment-2026, austin-bloom-taxonomy-generative-ai-2026, authentic-assessments-generative-ai-pilot-2026, authentic-products-authenticated-processes-2026, benali-genai-academic-writing-2026, beyond-detection-authentic-assessment-ai-2025, chen-zou-genai-group-assessment-agency-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, cong-confidence-asag-2026, dollinger-equitable-assessment-ai-2026, fenton-oral-exams-ai-authentic-assessment-2025, genai-simulate-patient-history-pbl-2026, hadra-ai-detector-accuracy-efl-2026, ivory-psychology-assessment-integrity-2026, llm-fallacy-misattribution, lodge-adaptive-capabilities-genai-future-2026, mesny-innovative-assessment-grading-management-2026, munoz-misconduct-allegation-evidence-2026, ni-lam-multiliteracies-ai-portfolio-2026, paternalistic-filter-llm-history-education, pbl-structural-conditions-ai-2026, pedlow-genai-selfassessment-2026, responsible-assessment-ai-era-stanford-2026, roe-assessment-twins-2026, sharma-judgment-visible-genai-assessment-2026, ssaho-ai-academic-integrity-review-2025, sutama-chatgpt-eportfolio-speaking-2026, teacher-educators-ai-integration-preservice-2026, thapa-lewis-process-oriented-assessment-2026, tool-invariant-framework-agentic-ai, universities-ai-era-rethinking, villanueva-ai-vulnerability-assessment-audit-2026, wright-transcription-not-generation-2026, ying-genai-journalism-assessment-2026, zhan-boud-du-authentic-assessment-scoping-review-2025]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -59,6 +64,7 @@ Bilgi tabanının değerlendirme yeniden tasarımı literatürü, özgünlüğü
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] (Tespit Ötesi), özgünlüğün varlığına polislikle zorlanamayacağını; tasarlanması gerektiğini, YZ’yi beyan edilmiş bir işbirlikçi olarak konumlandırarak ve gözetim yerine özgün, [[process-oriented-assessment|süreç temelli değerlendirmeyi]] önceliklendirerek savunur.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] (Sorumlu Değerlendirme), değerlendirmeyi geçerlilik kanıtı ve öğrencilerin gelecek çalışmalarını yansıtan özgün görevler çevresinde yeniden çerçeveler.
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] (Özgün ürünler, doğrulanmış süreçler), YZ açısından zengin [[higher-ed|yükseköğretimin]] hem gerçek çıktıları hem onları üreten süreçleri nasıl değerlendirebileceğini inceler.
+- **Yönetim, öğrenciye değerlendirme tasarımı yoluyla ulaşır.** Algılanan [[governance|YZ yönetişimi]] kalitesinin, politika farkındalığını çok aşan bir biçimde algılanan özgün değerlendirmeyi yordadığı (β = 0,36’ya karşı 0,12) ve özgün değerlendirmenin Çin’deki üniversitelerde 644 öğrenci boyunca [[student-engagement|katılıma]] giden yolu tamamen taşıdığı bildirilmektedir ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 
 - **YZ taslak ortağı yargıyı yine de ortada bırakır.** [[authentic-assessments-generative-ai-pilot-2026|Paula vd. (2026)]], bir GPT-4.1 değerlendirme tasarımcısını sekiz koordinatörle pilot etti: kullanılabilir genel bakışlar, görevler, ölçütler, zaman çizelgeleri ve rubrikler üretti, ancak tekrar tekrar disiplinsel bağlamı ve konu sıralamasını ıskaladı ve sekiz koordinatörün tümü uçtan uca otomasyonu reddederek [[evaluative-judgment|akademik yargıyı]] modelde değil kendilerinde konumlandırdı.
 - [[tool-invariant-framework-agentic-ai|Araca dayanıklı çerçeve]], araca özgü çıktılar yerine hesaplama yöntemlerini ve süreci değerlendirmeyi savunur; sözlü savunma ve doğrulama kullanır.
@@ -74,6 +80,8 @@ Bilgi tabanının değerlendirme yeniden tasarımı literatürü, özgünlüğü
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]], bütünlük odaklı tasarım ile özgün tasarımın aynı şey olmadığını; farkın stilistik değil epistemik olduğunu savunur. Özgünlük, bir görevin değerli gerçek dünya uygulamasını yansıtıp yansıtmadığını sorar; bütünlük odaklı tasarım, öğrenenlerin kararlarını gerekçelendirip disiplin standartlarına ilişkin sorumluluk alıp alamayacağını sorar; bu da bütünlüğü, gerçekçiliğin tesadüfü bir yan ürünü olmaktan ziyade görev mimarisine gömülü açık, değerlendirilebilir bir ölçüt haline getirir. Sunduğu uygulamalar — açıklamalı karar izleri, Üretken YZ katkılı iddiaların doğrulanması, sözlü savunma ve diyalojik hesap verebilirlik, sürüm geçmişiyle taslak farkları — tanınabilir biçimde özgün değerlendirme biçimleridir. Ancak gerçekçilikleri için değil, görünür kıldıkları [[evaluative-judgment|yargı]] için seçilmişlerdir — bu da özgün görünen ancak özünde taklit edilebilir kalan görevler için faydalı bir düzelticidir. Onun ikazı da bu sayfaya aittir: belgelendirilmiş muhakeme gerektirmek, [[reflection|yansıtıcı söyleme]] daha hâkim öğrenenleri ayrıcalıklı kılar ve kanıt olarak yargı "mekanik olarak doğrulanabilir olmaktan ziyade ilişkisel ve duruma bağlı kalır"; bu nedenle tasarım kendi yorumsal güvenilirlik yükünü taşır.
 
 Aynı soru, [[thapa-lewis-process-oriented-assessment-2026|Thapa ve Lewis (2026)]] tarafından yeniden çerçevelenir; onlar bir görevin ne *doğrulaması* gerektiğini adlandırır, gerçek görünüp görünmediğini değil: epistemik özgünlük, değerlendirmenin yorumlama, değerlendirici yargı, muhakeme ve bilgi inşasıyla gerçek etkileşimi ne ölçüde yakaladığıdır. Onların argümanı, özgünlüğün tek başına üretken YZ’den sağ çıkmadığıdır, çünkü kanıtı tek bir gözetimsiz ürün olan özgün bir görev, yerine geçtiği kompozisyonla aynı ikame sorununa maruz kalır. Muhakemeyi görünür kılmak bunun yerine aşamalı gönderimler, yansıtıcı gerekçelendirme, diyalojik etkileşim ve değerlendirici şeffaflık gerektirir. Yukarıdaki ikazı tasarıma taşırlar: yansıtıcı ve diyalojik görevler, kapsayıcı biçimde tasarlanıp iskelelenmedikçe akademik öz ifadesinde kendine güvenen öğrencileri ayrıcalıklı kılabilir ve ilişkisel çalışma, büyük veya kaynak kısıtlı ortamlarda eğitimcinin duygusal emeğini yoğunlaştırır.
+
+- **Sıralamadan ziyade özyineleme.** Austin, Gulya ve Kassorla (2026), üretken YZ’nin taksonomiye göre sıralanmış değerlendirmenin arkasındaki varsayımı — bitmiş bir ürünün onu üreten düşünceye kanıt olarak hizmet ettiği — bozduğunu savunur ve YZ destekli bir eserden geriye doğru değerlendirme, analiz ve revizyon yolculuğuyla çalışmayı ya da merdiveni özyineli, problem merkezli bir döngüyle değiştirmeyi önerir. Değerlendirilebilir kanıt, üründen öğrenenin ona uyguladığı sorgulama, uyarlama ve etik yönlendirmeye kayar ([[austin-bloom-taxonomy-generative-ai-2026|Austin vd., 2026]]).
 
 ## Uygulayıcılar denetlenen biçimlere geri çekildiğinde
 

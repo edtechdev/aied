@@ -1,19 +1,24 @@
 ---
 title: Proje Temelli Öğrenme
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
@@ -38,7 +43,7 @@ PBL [[active-learning]], [[experiential-learning]], [[collaborative-learning]] v
 
 Proje temelli öğrenme, [[problem-based-learning|problem-based learning]] yakından ilişkili ama ondan ayrıdır: ikisi de öğrenen merkezli ve bağlam kaynaklıdır, ancak probleme dayalı öğrenme, çözümü sorgulama ve bilgi inşası gerektiren iyi yapılandırılmamış bir *problem* üzerinde durur; proje temelli öğrenme ise somut bir *proje* veya yapıt üretmeye odaklanır. İkisi sık sık karıştırılır ve birçok YZ eğitimi çerçevesi her ikisinden de yararlanır (YZ çağı ele alışı için [[problem-based-learning|problem-based learning]] sayfasına bakın).
 
-### Bilgi tabanının araştırmasında PBL nasıl görünür
+### Araştırmada PBL nasıl görünür
 
 - **Robotik projeleri:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]], uygulamalı bir [[cs-education|computer science]] programında robotik öğretmeye yönelik çevik, bir dönemi kapsayan proje temelli bir yaklaşım sunar ve kuram-uygulama boşluğunu ele alır.
 - **YZ ajanlarıyla erken çocukluk döneminde Proje Yaklaşımı:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]], PBL’nin temel biçimini — gerçek dünya konusunun geniş çaplı işbirlikçi bir incelemesi olan Proje Yaklaşımı (Katz & Chard) — [[early-childhood-elementary-ai-education|early childhood]] taşır ve [[agentic-ai|AI agents]] ile [[educational-robotics|robots]] (kodlayan robotlar ve üretken sosyal robotlar) projelere bütünleştiren, küçük çocukların [[creativity|creative learning]] besleyen beş adımlı bir **Yaratıcı Proje Yaklaşımı** önerir. Beş adım — öğrenme ihtiyaçlarını belirlemek, [[teacher-role|teacher]] yönlendirmesinde çocuk-robot etkileşimini kolaylaştırmak, YZ’yi bağlamlara yerleştirmek, otomasyon/yaratıcılık dengesini ayarlamak ve sonuçları değerlendirmek — öğretmeni sorgulamayı yönlendiren bir kolaylaştırıcı olarak tutar; PBL’yi en genç öğrenenlerde gelişimsel olarak uygun YZ kullanımı için doğal araç olarak konumlandırır.
@@ -62,13 +67,6 @@ PBL, [[active-learning]], [[experiential-learning]], [[collaborative-learning]],
 
 - Proje temelli öğrenme, [[storytelling-in-education|digital storytelling]] ile birleştiğinde sanat ve tasarım eğitiminde [[generative-ai|generative AI]] pedagojik bir yanıt sunar. 426 lisans öğrencisiyle 15 haftalık gömülü bir durum çalışması, dijital hikâye anlatımının öğrencilerin yerel kültürel mirası duygusal yankı uyandıran, [[multimodal]] anlatılara dönüştürmeleri için birincil metodoloji olarak hizmet ettiği bir PBL-DS çerçevesi uyguladı; YZ’nin yoksun olduğu yaratıcı kapasiteleri besledi.
 
-## Yaygın yanlış anlamalar
-
-- **“PBL’in etkisi büyüktür, dolayısıyla YZ ile PBL güvenilir biçimde büyüktür.”** Bu eşleşmenin tek üç düzeyli meta analizi **22 kontrollü çalışmayı (66 etki büyüklüğü)** bir araya toplar ve büyük bir etki tahmin eder, **g = 0,819, %95 GA [0,655, 0,983]**; ancak bir PET-PEESE düzeltmesi bunu düşürür ve tahmin, genel olarak tasarımı değil, toplulaştırılan çalışmaları betimler.
-- **“Aracı özelleştirmek sonucu iyileştirir.”** Araç türü etkiyi anlamlı biçimde düzenledi (**QM = 14,301, p < 0,001**) ve yön sezgiye aykırıdır: **doğrudan kullanılan genel bir sohbet robotu daha yüksek toplulaştı (g = 0,970)**; kurs platformlarına, sanal hastalara veya ajanlara **özelleştirilmiş sistemlerden (g = 0,455)**. Çıplak araç, mühendislikle kurulmuş olanı geride bıraktı; bu da amaca özel ürünlerin daha iyi bir satın alma olduğunu varsaymaya karşı çıkar.
-- **“Öğrenciler açık uçluluğu zor kısım olarak bulur.”** Öğrenci algı verilerinde **açık uçluluk en güçlü olumlu tema (%22,3)** iken **belirsiz talimatlar olumsuzların başında (%23,7)** yer aldı. Öğrenciler özgürlüğü benimsedi ve belirsizliğe itiraz etti; bu ayrım önemlidir çünkü çözüm farklıdır: daha az açık uçlu iş değil, daha net görev çerçevelemesi.
-- **“Hoşuna giden öğrenciler daha çok öğrendi.”** Algılanan öğrenme, test puanlarıyla yalnızca **mütevazı biçimde (r = 0,161-0,315)** ilişkiliydi. Memnuniyet ile ölçülen öğrenme burada zayıf ilişkilidir, dolayısıyla olumlu bir PBL değerlendirmesi tek başına öğrenme hedeflerine ulaşıldığının kanıtı değildir.
-
 ## Uygulama için çıkarımlar
 
 **Eğitimciler için**
@@ -82,3 +80,9 @@ PBL, [[active-learning]], [[experiential-learning]], [[collaborative-learning]],
 
 - Düzenleyici bulgu bir ürün uyarısıdır: bir sohbet robotunu amaca özel bir ortama mühendislikle yerleştirmek *daha küçük* bir toplulaştırılmış etkiyle örtüştü. Özelleştirmenin varsayılan kolaylık değil öğrenme değeri kattığını doğrulayın.
 - Bir PBL modülü sunuyorsanız sonucu kazanan özellik model değil, talimat katmanıdır.
+## Yaygın yanlış anlamalar
+
+- **“PBL’in etkisi büyüktür, dolayısıyla YZ ile PBL güvenilir biçimde büyüktür.”** Bu eşleşmenin tek üç düzeyli meta analizi **22 kontrollü çalışmayı (66 etki büyüklüğü)** bir araya toplar ve büyük bir etki tahmin eder, **g = 0,819, %95 GA [0,655, 0,983]**; ancak bir PET-PEESE düzeltmesi bunu düşürür ve tahmin, genel olarak tasarımı değil, toplulaştırılan çalışmaları betimler.
+- **“Aracı özelleştirmek sonucu iyileştirir.”** Araç türü etkiyi anlamlı biçimde düzenledi (**QM = 14,301, p < 0,001**) ve yön sezgiye aykırıdır: **doğrudan kullanılan genel bir sohbet robotu daha yüksek toplulaştı (g = 0,970)**; kurs platformlarına, sanal hastalara veya ajanlara **özelleştirilmiş sistemlerden (g = 0,455)**. Çıplak araç, mühendislikle kurulmuş olanı geride bıraktı; bu da amaca özel ürünlerin daha iyi bir satın alma olduğunu varsaymaya karşı çıkar.
+- **“Öğrenciler açık uçluluğu zor kısım olarak bulur.”** Öğrenci algı verilerinde **açık uçluluk en güçlü olumlu tema (%22,3)** iken **belirsiz talimatlar olumsuzların başında (%23,7)** yer aldı. Öğrenciler özgürlüğü benimsedi ve belirsizliğe itiraz etti; bu ayrım önemlidir çünkü çözüm farklıdır: daha az açık uçlu iş değil, daha net görev çerçevelemesi.
+- **“Hoşuna giden öğrenciler daha çok öğrendi.”** Algılanan öğrenme, test puanlarıyla yalnızca **mütevazı biçimde (r = 0,161-0,315)** ilişkiliydi. Memnuniyet ile ölçülen öğrenme burada zayıf ilişkilidir, dolayısıyla olumlu bir PBL değerlendirmesi tek başına öğrenme hedeflerine ulaşıldığının kanıtı değildir.

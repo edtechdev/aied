@@ -7,7 +7,7 @@ pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -15,8 +15,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
 connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -66,14 +71,6 @@ Problem çözme, [[critical-thinking|eleştirel düşünmenin]] ve [[computation
 
 - [[collaborative-learning|İşbirlikçi problem çözme (CPS)]] yetkinliğini ölçmek tipik olarak, davranışın benzetilmiş görev süreç verisinden belirli CPS becerilerine kodlanmasını gerektirir. Önceden eğitilmiş dil modellerinin [[prompt-engineering|bağlam duyarlı isteme yöntemi]], bu kodlamayı otomatikleştirebilir; bağlamsal bağımlılıkları modelleyerek, bilişsel ve sosyal yetileri birleştirerek CPS görev veri kümelerinde güçlü temel yöntemleri aşan üstün performans elde eder ve manuel kodlamanın emek yoğunluğunu gidererek ölçekli, gerçek zamanlı değerlendirmeyi olanaklı kılar.
 
-## Yaygın yanlış anlamalar
-
-**“Öğrencilerin bakış açılarını keşfetmesine yardım eden YZ, onların düşünmesine yardım ediyordur.”** Aynı davranış çok farklı iki sonucu destekler: YZ araçları öğrencilerin çoklu bakış açılarını keşfetmesine ve kendi problemlerini üretmesine yardım eder, ama üstbilişsel tembelliği de teşvik edebilir. Ayırt edici soru, çerçevelemeyi öğrencinin mi yaptığı yoksa onu teslim mi aldığıdır: aday bakış açıları sunan bir sistem, alıştırmanın talep etmek için var olduğu üretici adımı zaten gerçekleştirmiştir.
-
-**“Hedef problem çözmedir, dolayısıyla problem ortaya koyma bir ektir.”** Transfer, problem ortaya koymada inşa edilir; çünkü bu, öğrenenin sistemin sağladığı yapının içinde işlemek yerine yapıyı kurmasını gerektirir. Yalnızca iyi biçimlendirilmiş problemler sunan bir [[curriculum-design|müfredat]], iyi biçimlendirilmiş problemler üzerinde performans eğitir; bu da öğrencilerin sonrasında karşılaştığı koşul değildir.
-
-**“İşbirlikçi problem çözmenin benzetimi, işbirliğinin yerini alır.”** Bir benzetim etkileşim örüntüsünü yeniden üretir; geliştirilen beceri ise fiilen hazır bulunan katılımcıların ortak bir problemi düzenlemesidir. Gerçek işbirlikçileri modelleyen katılımcıya özgü ajanlar, bu düzenlemeyi incelemek için bir araştırma aracıdır: süreç hakkında açığa çıkardıkları bakımından yararlıdır, öğrencilere akranlar olmadan pratik sağlamanın bir yolu değildir.
-
 ## Uygulama için çıkarımlar
 
 **Eğitimciler için**
@@ -90,3 +87,11 @@ Problem çözme, [[critical-thinking|eleştirel düşünmenin]] ve [[computation
 **Araştırmacılar için**
 
 - Katılımcıya özgü ajan benzetimleri, işbirlikçi düzenlemeyi incelemek için güçlü bir araçtır. Bunları denetimsiz öğrenci işbirliğine dair kanıt olarak değil, bu nitelikleriyle bildirin.
+## Yaygın yanlış anlamalar
+
+**“Öğrencilerin bakış açılarını keşfetmesine yardım eden YZ, onların düşünmesine yardım ediyordur.”** Aynı davranış çok farklı iki sonucu destekler: YZ araçları öğrencilerin çoklu bakış açılarını keşfetmesine ve kendi problemlerini üretmesine yardım eder, ama üstbilişsel tembelliği de teşvik edebilir. Ayırt edici soru, çerçevelemeyi öğrencinin mi yaptığı yoksa onu teslim mi aldığıdır: aday bakış açıları sunan bir sistem, alıştırmanın talep etmek için var olduğu üretici adımı zaten gerçekleştirmiştir.
+
+**“Hedef problem çözmedir, dolayısıyla problem ortaya koyma bir ektir.”** Transfer, problem ortaya koymada inşa edilir; çünkü bu, öğrenenin sistemin sağladığı yapının içinde işlemek yerine yapıyı kurmasını gerektirir. Yalnızca iyi biçimlendirilmiş problemler sunan bir [[curriculum-design|müfredat]], iyi biçimlendirilmiş problemler üzerinde performans eğitir; bu da öğrencilerin sonrasında karşılaştığı koşul değildir.
+
+**“İşbirlikçi problem çözmenin benzetimi, işbirliğinin yerini alır.”** Bir benzetim etkileşim örüntüsünü yeniden üretir; geliştirilen beceri ise fiilen hazır bulunan katılımcıların ortak bir problemi düzenlemesidir. Gerçek işbirlikçileri modelleyen katılımcıya özgü ajanlar, bu düzenlemeyi incelemek için bir araştırma aracıdır: süreç hakkında açığa çıkardıkları bakımından yararlıdır, öğrencilere akranlar olmadan pratik sağlamanın bir yolu değildir.
+

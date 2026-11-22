@@ -8,7 +8,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -16,8 +16,13 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
+    agent: hermes-agent
 connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
 connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
+updated: "2026-11-21T17:00:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

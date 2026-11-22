@@ -1,6 +1,7 @@
 ---
 title: Yardım Arama
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-21T17:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -10,13 +11,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
 connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
@@ -26,8 +31,6 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 
 > **Yardım Arama** — yardıma duyulan ihtiyacı tanıma ve onu stratejik biçimde talep etme süreci ve bu sürecin YZ destekli öğrenme ortamlarında nasıl geçerli bulunduğu. [[ai-education|AI in education]] Eğitimde YZ bağlamında yardım arama, YZ araçlarının öğrenmeyi destekleyip desteklemediğinin merkezindedir: yardım aramanın *kalitesi* (öğrenenlerin ne zaman, nasıl ve ne istediği) sonuçları güçlü biçimde şekillendirir ve YZ özel ders araçları, ipuçları ve [[pedagogy|pedagogical]] pedagojik ajanlar, cevap aramaktan ziyade verimli yardım aramayı ortaya çıkarmak için tasarlanır.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
 
-Proaktif erişim, öğrenme materyallerinde hiçbir değişiklik yapmadan yardım aramayı artırabilir. Büyük kayıtlı lisans derslerinde önceden kaydedilmiş bir deneyde, öğrencilere bir akademik sohbet robotu yoluyla mesaj gönderildi ve özel ders ile destekleyici öğretimin daha fazla benimsendiği bulundu; aracılık analizi, not etkisinin %17,8’ini bu artan yardım aramaya atfetti (p = 0,041) ([[chatbot-outreach-course-performance-2026]]).
-
 ## Dikkate Alınması Gereken Sorular
 
 - Tıkandığınızda, doğrudan bir cevap mı isteme eğilimindesiniz, yoksa kendiniz çözmenizi sağlayan bir kılavuzluk mu? Her bir seçimin gerçekte belleğinizde kalan şeye ne yaptığını düşünüyorsunuz?
@@ -35,11 +38,11 @@ Proaktif erişim, öğrenme materyallerinde hiçbir değişiklik yapmadan yardı
 - Kalıcı bir “ipucu düğmesi”, yardımın her zaman orada olduğunu işaretleyerek bir öğrenme görevini kopyalama alıştırmasına dönüştürebilir. Yardımın çok kolay erişilebilir olmasının yapmanız gereken düşünmeyi atlamanıza neden olduğu bir anı hatırlıyor musunuz?
 - Bir çalışma, öğrencilere bir YZ’nin hata yapabileceği konusunda basitçe uyarmanın aslında yardım aramalarını artırdığını buldu. Sağlıklı kuşkuculuk, öğrencilerin bir özel ders aracıyla angaje olma biçimini kör güvene kıyasla nasıl değiştirebilir?
 - Güçlük çeken öğrenciler sıklıkla kendiliklerinden yardım aramaya en az eğilimli olanlardır. En çok desteğe ihtiyaç duyan öğrenciler ulaşmıyorsa, YZ araçları ve öğretmenler nasıl karşılık vermelidir?
-- Sayfa, ipuçlarını geciktirmeyi ve tasarım sorusunu yardımı “sağlamak istenip istenmediğinden” “nasıl sağlanacağına” taşımayı önerir. Öğrenenleriniz için iyi tasarlanmış bir yardım deneyimi nasıl görünürdü — ve onu gerçekten benimsemelerini ne sağlardı?
+- Tasarım önerisi, ipuçlarını geciktirmek ve soruyu yardımı “sağlamak istenip istenmediğinden” “nasıl sağlanacağına” taşımaktır. Öğrenenleriniz için iyi tasarlanmış bir yardım deneyimi nasıl görünürdü — ve onu gerçekten benimsemelerini ne sağlardı?
 
 ## Giriş
 
-Yardım arama, öğrenme araştırmalarında iyi kökleşmiş bir yapıttır ve [[self-regulated-learning]] öz-düzenleyici öğrenme ile [[metacognition]] üstbilişe yakından bağlıdır: öğrenenlerin kendi anlayışlarını izlemelerini, bir boşluğu tanımalarını, yardımın gerekli olduğuna karar vermelerini ve etkili bir talep formüle etmelerini gerektirir. [[generative-ai|generative AI]] üretici YZ özel ders araçlarının yükselişiyle yardım arama yeni bir önem — ve yeni hata kipleri — kazanmıştır. Öğrenenler sıklıkla YZ’yi öğrenme için *kullanmayı* amaçlar ama varsayılan olarak doğrudan cevaplar isterler; bilgi tabanındaki araştırmaların alanlar ve yaş grupları arasında belgelediği bir boşluk. Klasik model, bir talebin isteyenin sahip olmadığı bilgi içindiğini varsayar. Operasyonel destek talebi bu varsayımı karmaşıklaştırır: 4.093 sorgu boyunca en az %20,4’ü bilgi için değil, bekleyen bir teslimin durumu hakkında sordu; getiriye bağlı bir asistanın yalnızca zamanın %1,3’ünde hizmet ettiği bir sınıf [[student-query-demand-hybrid-ai-support-2026|Gupta ve ark. (2026)]].([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+Yardım arama, öğrenme araştırmalarında iyi kökleşmiş bir yapıttır ve [[self-regulated-learning]] öz-düzenleyici öğrenme ile [[metacognition]] üstbilişe yakından bağlıdır: öğrenenlerin kendi anlayışlarını izlemelerini, bir boşluğu tanımalarını, yardımın gerekli olduğuna karar vermelerini ve etkili bir talep formüle etmelerini gerektirir. [[generative-ai|generative AI]] üretici YZ özel ders araçlarının yükselişiyle yardım arama yeni bir önem — ve yeni hata kipleri — kazanmıştır. Öğrenenler sıklıkla YZ’yi öğrenme için *kullanmayı* amaçlar ama varsayılan olarak doğrudan cevaplar isterler; araştırmaların alanlar ve yaş grupları arasında belgelediği bir boşluk. Klasik model, bir talebin isteyenin sahip olmadığı bilgi içindiğini varsayar. Gerçek öğrenci talebi başka bir şeyi içerir: [[student-query-demand-hybrid-ai-support-2026|Gupta ve ark. (2026)]], getiriye bağlı bir asistanın bekleyen bir teslimin durumu hakkındaki sorguların yalnızca %1,3’ünü karşıladığını bulmuştur.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 
 ## Verimli ve verimsiz yardım arama
 
@@ -47,7 +50,7 @@ Literatürdeki merkezi ayrım, öğrenmeyi destekleyen yardım arama ile öğren
 
 ### Verimsiz yardım arama davranışları
 
-Bu bilgi tabanındaki araştırmalar, özellikle [[intelligent-tutoring|intelligent tutoring systems]] zeki özel ders sistemlerinde verimsiz yardım aramanın somut, gözlemlenebilir örüntülerini tanımlar:
+Araştırmalar, özellikle [[intelligent-tutoring|intelligent tutoring systems]] zeki özel ders sistemlerinde verimsiz yardım aramanın somut, gözlemlenebilir örüntülerini tanımlar:
 
 - **Erken ipucu talepleri** — herhangi bir çözüm denemesinden önce yardım istemek. Hatta emin olmayan öğrenciler bile önce deneyerek daha fazla öğrenir.([[lak2026-hint-button-unproductive-use]])
 - **Yüzeysel ipucu okuma** — ipuçlarını okumak için fazla hızlı ilerlemek (~4 kelime/saniye kıyaslamasında işaretlenir), sıklıkla doğrudan cevabı açığa çıkaran en kapsamlı ipucuna atlamak.([[lak2026-hint-button-unproductive-use]])
@@ -74,7 +77,7 @@ Etkileşim maliyeti aynı sorunun bir parçasıdır. [[penquiry-pen-based-llm-qa
 
 İskeleleme görevden önce değil, görevin içinde de sunulabilir. [[helpcoach-ai-help-seeking-scaffolding-2026|Jin ve ark. (2026)]], bir öğrencinin yardımı ne kadar özgün istediğini değerlendiren ve bir soru çok belirsiz olduğunda revizyon isteyen, sohbet arayüzlerine eklenen HelpCoach’u inşa etti; böylece bilgi bileşenini ve iskele türünü açık kıldı. Web programlama öğrenen 40 üniversite öğrencisiyle katılımcılar arası bir çalışmada, HelpCoach katılımcıları görev öncesi eğitim karşılaştırma grubundan ilk taslaklarında önemli ölçüde daha yüksek oranda özgün soru yazdı (%57,3 karşı %40,5) ve bir hafta sonra önemli ölçüde daha fazla bilgi korudu (d = 1,100), oysa üçüncü görev özgüllük farkı artık anlamlı değildi (%43,7 karşı %32,1). Yazarlar, koruma kazancının henüz daha hedefli sohbet robotu yanıtlarına atfedilemeyeceğini uyarır.
 
-Sorma maliyeti üzerindeki üçüncü kaldıraç, yardımın *nereden* geldiğidir. [[course-specific-rag-help-seeking-higher-ed-2026|Gray ve Hobbs (2026)]], tek bir programlama modülünün onaylanmış materyallerinde temellendirilmiş, kursa özgü bir [[rag|retrieval-augmented]] getiri ile güçlendirilmiş asistan olan Beacon’u inşa etti ve on beş bilişim öğrencisi ve dört akademisyenle değerlendirdi. Katılımcıların %89’u cevaplarını kurs materyalleriyle yüksek düzeyde uyumlu buldu ve %66,7’si öğrenmelerini desteklediğini söyledi, oysa yalnızca yaklaşık yarıdan %60’a kadar olan kısım anlama veya güven artışı bildirdi. Motivasyon, bu bölümün belgelediği bariyerdir: bu öğrencilerin %62,5’i ihtiyaç duyduklarında bazen yardım istemekten kaçındıklarını ve %75’i bir konuyu anlamadıklarında [[anxiety-and-stress|kaygı]] duyduklarını bildirdi, böylece özel, modüle temellendirilmiş bir kanal bir hocaya başvurmadan önceki ilk basamak olarak sunulur. Görüşülen akademisyenler karşı argümanı canlı tuttular — Beacon’un tam çözümleri esirgemesini değerli buldular ve sınırsız araçların öğrencilerin bir gelişim aşamasını atlamalarına izin verdiğinden endişe ettiler — bu yüzden tasarım yerini işi tamamlamayı reddederek kazanır.
+Sorma maliyeti üzerindeki üçüncü kaldıraç, yardımın *nereden* geldiğidir. [[course-specific-rag-help-seeking-higher-ed-2026|Gray ve Hobbs (2026)]], tek bir programlama modülünün onaylanmış materyallerinde temellendirilmiş, kursa özgü bir [[rag|retrieval-augmented]] getiri ile güçlendirilmiş asistan olan Beacon’u inşa etti ve on beş bilişim öğrencisi ve dört akademisyenle değerlendirdi. Katılımcıların %89’u cevaplarını kurs materyalleriyle yüksek düzeyde uyumlu buldu ve %66,7’si öğrenmelerini desteklediğini söyledi, oysa yalnızca yaklaşık yarıdan %60’a kadar olan kısım anlama veya güven artışı bildirdi. Motivasyon, belgelenmiş bir bariyerdir: bu öğrencilerin %62,5’i ihtiyaç duyduklarında bazen yardım istemekten kaçındıklarını ve %75’i bir konuyu anlamadıklarında [[anxiety-and-stress|kaygı]] duyduklarını bildirdi, böylece özel, modüle temellendirilmiş bir kanal bir hocaya başvurmadan önceki ilk basamak olarak sunulur. Görüşülen akademisyenler karşı argümanı canlı tuttular — Beacon’un tam çözümleri esirgemesini değerli buldular ve sınırsız araçların öğrencilerin bir gelişim aşamasını atlamalarına izin verdiğinden endişe ettiler — bu yüzden tasarım yerini işi tamamlamayı reddederek kazanır.
 
 ### Şeffaflık yoluyla güveni kalibre etmek
 
@@ -91,19 +94,23 @@ Yardımı kaldırmak yerine, araştırmalar bunun nasıl sunulduğunu yeniden ta
 - ***İstenip istenmediğinden nasıla* geçmek** — anahtar tasarım sorusu, ipuçların tam olarak sağlanıp sağlanmayacağı değil, ipucu sunumunun verimli mücadele ilkeleriyle uyumlu biçimde nasıl yapılandırılacağıdır.([[lak2026-hint-button-unproductive-use]])
 
 - **Öğrenci denetimli sunum için meta-analitik destek.** 18 ABD K-12 deneyini havuzlayan çalışmada çözümlü örnekler (g = 0,324) ve talep üzerine ipuçları (g = 0,316) anlamlıyken otomatik tetiklenen tam zamanında ipuçları anlamlı değildi — ancak yazarlar, öz-düzenlemesi daha zayıf öğrenenlerin talep üzerine özellikleri oyunlaştırabileceği konusunda uyarır ([[leite-its-k12-meta-analysis-2025|Leite ve ark., 2025]]).
+- **Mesaj uzunluğu, teslim araştırmasının gerçekten ölçtüğü kaldıraçtır.** Canlı bir programlama dersinde, daha uzun LLM ipuçları bir sonraki gönderimin doğruluğunun daha kötü olmasını, daha fazla kalan denemeyi ve daha yavaş yeniden göndermeyi öngörmüştür; 14.809 öğrenci-alıştırma çiftinde 204,9 karakterlik standart sapma başına ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ve ark., 2026]]). Okunabilirlik hiçbir çıktıyı neredeyse hiç hareket ettirmemiştir; dolayısıyla hacim, güçlükten daha önemliydi.
+- **Aynı ders bölümündeki önceki ipuçları, bütünleştirici adımda daha düşük başarıyla izlenmiştir.** Bir projenin önceki adımlarında geri bildirim alan öğrenciler son adımlarını %95,6 oranında çözmüş, almayanlarda bu oran %98,1 olmuştur; log-odds katsayısı −1,096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ve ark., 2026]]). Yazarlar bunu zarar olarak okumaz, çünkü ipucu arayan öğrenciler büyük olasılıkla orada zaten zorlanacak olanlardır; bu da bir [[self-regulated-learning|izleme]] sorusudur.
 
 ### LLM özel ders araçlarında benimseme sorunu
 
 Gerçek dünyadaki öğrenciler sıklıkla bir [[conversational-ai|chatbot]] sohbet robotunun [[scaffolding]] iskelemesini **atlar** — mutlaka zararlı değil, ama sıklıkla sohbet robotunun pedagojik çerçevesi ile öğrencinin kendi öğrenme hedefleri arasında bir uyumsuzluk olduğu için. Değerlendirme hatları bu nedenle yalnızca bir özel ders aracının iskele kurup kurmadığını değil, öğrencilerin o iskelemeyi *benimseyip benimsemediğini* de ölçmelidir, benimseyeceklerini varsaymak yerine.([[rethinking-scaffolding-llm-tutors]])
 
-- **Mesaj uzunluğu, teslim araştırmasının gerçekten ölçtüğü kaldıraçtır.** Canlı bir programlama dersinde, daha uzun LLM ipuçları bir sonraki gönderimin doğruluğunun daha kötü olmasını, daha fazla kalan denemeyi ve daha yavaş yeniden göndermeyi öngörmüştür; 14.809 öğrenci-alıştırma çiftinde 204,9 karakterlik standart sapma başına ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ve ark., 2026]]). Okunabilirlik hiçbir çıktıyı neredeyse hiç hareket ettirmemiştir; dolayısıyla hacim, güçlükten daha önemliydi.
-- **Aynı ders bölümündeki önceki ipuçları, bütünleştirici adımda daha düşük başarıyla izlenmiştir.** Bir projenin önceki adımlarında geri bildirim alan öğrenciler son adımlarını %95,6 oranında çözmüş, almayanlarda bu oran %98,1 olmuştur; log-odds katsayısı −1,096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ve ark., 2026]]). Yazarlar bunu zarar olarak okumaz, çünkü ipucu arayan öğrenciler büyük olasılıkla orada zaten zorlanacak olanlardır; bu da sayfanın gündeme getirdiği [[self-regulated-learning|izleme]] sorusudur.
-
 - **İsteğe bağlı bir yardım düğmesine tıklanmaz.** Üç beşinci sınıf sınıfında öğrenciler, tasarımın özerkliği korumak için bilerek isteğe bağlı bıraktığı yardımcı aracıyı nadiren çağırmış, bunun yerine [[teacher-role|bir öğretmen]]i çağırmış ve aracın kurulduğu kafa karışıklığı sürmüştür ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg ve ark., 2025]]).
+- Üç haftalık bir beşinci sınıf rol oynama oyununda, GenAI koşulundaki 42 öğrencinin tamamı oyundaki öğretmeni sorgulamış ve %61,9’u soru sorma fırsatını değer verdiği şeyler arasında saymıştır; bazıları gerçek öğretmene sormaktan korktukları soruları sorduklarını söylemiştir ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou ve ark., 2026]]).
 
 ## Yardım arama ve öz-düzenleyici öğrenme
 
-Yardım arama, [[self-regulated-learning]] öz-düzenleyici öğrenmenin ayrılmaz bir parçasıdır: verimli yardım arama, öğrenenlerin anlayışı izlemelerini, yardımın ne zaman gerekli olduğuna karar vermelerini ve uygun kaynakları seçmelerini gerektirir. GenAI bağlamlarında bu daha da zorlayıcı hale gelir, çünkü öğrenciler YZ üzerinde ayrıca [[agency]] özerklik kullanmalı ve ona boyun eğmek yerine epistemik tetikte olmalıdır. Bu bilgi tabanındaki araştırmalar, daha [[agentic-ai|agentic]] özerkliğe dayalı ve epistemik olarak proaktif YZ kullanımını teşvik eden [[scaffolding|scaffolds]] iskelelerin gerekliliğini destekler ve yardım arama koşulsuz cevap aramaya dönüştüğünde [[cognitive-offloading|Over-Reliance]] aşırı güven ve [[cognitive-offloading]] bilişsel yük boşaltma riskini vurgular.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+Yardım arama, [[self-regulated-learning]] öz-düzenleyici öğrenmenin ayrılmaz bir parçasıdır: verimli yardım arama, öğrenenlerin anlayışı izlemelerini, yardımın ne zaman gerekli olduğuna karar vermelerini ve uygun kaynakları seçmelerini gerektirir. GenAI bağlamlarında bu daha da zorlayıcı hale gelir, çünkü öğrenciler YZ üzerinde ayrıca [[agency]] özerklik kullanmalı ve ona boyun eğmek yerine epistemik tetikte olmalıdır. Araştırmalar, daha [[agentic-ai|agentic]] özerkliğe dayalı ve epistemik olarak proaktif YZ kullanımını teşvik eden [[scaffolding|scaffolds]] iskelelerin gerekliliğini destekler ve yardım arama koşulsuz cevap aramaya dönüştüğünde [[cognitive-offloading|Over-Reliance]] aşırı güven ve [[cognitive-offloading]] bilişsel yük boşaltma riskini vurgular.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+Nüfus ölçeğindeki kanıtlar ikame senaryosunu karmaşıklaştırır: dört Çin bölgesinden 12.191 PISA 2025 öğrencisi arasında okul işleri için daha sık GenAI kullanımı, daha az değil daha fazla akademik yardım aramayla birlikte gitmiştir (β = 0,169) ([[wu-genai-scientific-literacy-china-2026|Wu ve ark. (2026)]]).
+
+Kayıtlar talebi hem saat hem madde üzerine oturtur. 215 öğrencilik bir Statik dersinde, ders kitabının ChatGPT destekli asistanına gönderilen istemler pazar ve pazartesi günlerinde, ofis saatlerinin kapalı olduğu 01–03 arasında zirve yapmıştır ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry ve Dosse, 2026]]). Öğrencilerin ne için sorduğu zorluğu izler: yüksek lisans seviyesinde montaj dili dersinde istemle başlatılan denemelerin doğru olma olasılığı daha düşüktü (OR = 0,35) ve üstbilişsel istemleme orta zorlukta maddelerde yoğunlaşmıştır; bu maddelerde istemle başlatılan denemeler başarı olasılığının 3,79 katını taşımaktadır ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang ve ark., 2026]]). Yardımın yansıtıcılığa dönüp dönmemesine ipucu tasarımından çok madde zorluğu karar verir.
 
 ### LLM aracılı yardım arama dört aşamalı bir süreç olarak
 
@@ -119,6 +126,8 @@ Tamamen çevrimiçi [[english-education|composition]] yazım dersinde, aracın e
 
 **İkinci bir hat aynı soruyu altyapı tarafından sorar.** [[taufer-human-ai-interaction-haidl-2026|Taufer ve ark. (2026)]], insan-YZ alışverişinin kendi başına bir veri sınıfı olduğunu savunur: temsilleri, talebi doğuran hesaplama durumunu, talebi, yanıtı, kullanıcının yanıt değerlendirmesini ve ardından gelen yürütmeyi tek bir nesne olarak kaydeder. Sorgular daha sonra bu bağlamdan hata kurtarma, sonraki adımda takılma, kavramsal yardım veya doğrulama olarak sınıflandırılır. 140 öğrenci-ödev çiftini kapsayan 35 öğrencilik bir JupyterLab konuşlandırmasında, düz etkileşim sayıları başarıyla yürütülen hücrelerle yalnızca r = 0,12 düzeyinde korelasyona girmiş; 37 çift erişimi olduğu hâlde hiç kullanmamış ve 26 çift atandığı koşulun dışında kullanmıştır.
 
+- Bir özel ders kaydı notlandırılabildiğinde, talepten kaçınmak rasyoneldir; dolayısıyla yardım aramanın yokluğu ihtiyacın yokluğu olarak okunamaz: aynı kayıt göstergesi değerlendirme altında farklı bir şey ifade eder ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
+
 ## Tasarım ve araştırma için çıkarımlar
 
 1. **Yardım arama imkanlarını kasıtlı biçimde tasarlayın.** Kalıcı, belirgin yardım düğmeleri atlama stratejilerini etkinleştirebilir; [[desirable-difficulties|productive struggle]] verimli mücadeleyi desteklemek için erişimi geciktirin ve sunumu yapılandırın.([[lak2026-hint-button-unproductive-use]])
@@ -126,9 +135,16 @@ Tamamen çevrimiçi [[english-education|composition]] yazım dersinde, aracın e
 3. **Güveni kalibre etmek için şeffaflık kullanın.** YZ’nin yanılabileceğine ilişkin uyarma, uygun yardım aramayı ve etkileşimi artırabilir.([[ai-fallibility-warning-help-seeking]])
 4. **Yalnızca iskeleleme değil, benimsemeyi ölçün.** Özel ders aracının sağlamasından yalnızca değil, öğrencilerin pedagojik çerçeveleyle gerçekten angaje olup olmadığını değerlendirin.([[rethinking-scaffolding-llm-tutors]])
 5. **İzlemeyi ve özerkliği destekleyin.** Yardım arama iskeleleri [[metacognition]] üstbilişi ve [[self-regulated-learning]] öz-düzenleyici öğrenmeyi güçlendirmeli, [[cognitive-offloading|Over-Reliance]] aşırı güvene karşı korumalıdır.
+6. **Sormayan öğrencilere ulaşın.** Proaktif erişim, öğrenme materyallerine dokunmadan yardım aramayı artırabilir: büyük kayıtlı lisans derslerinde yürütülen önceden kaydedilmiş bir deney, öğrencilere akademik bir sohbet robotu yoluyla mesaj göndermiş ve özel ders ile destekleyici öğretimin benimsemesini artırmıştır; aracılık analizi, not etkisinin %17,8’ini artan yardım aramaya atfetmiştir (p = ,041) ([[chatbot-outreach-course-performance-2026|Meyer ve ark., 2026]]).
 
 ## Yaygın yanlış anlamalar
 
 - **“Yardıma ihtiyacı olan öğrenciler bunu istemez.”** Büyük kayıtlı lisans derslerinde yürütülen **önceden kayıtlı bir deney**, öğrencilere bir akademik sohbet robotu üzerinden mesaj göndermiş ve **özel ders ile destekleyici desteğe katılımın arttığını** bulmuştur. Dürtme davranışı hareket ettirmiştir; dolayısıyla engel isteklilik değil, [[prompt-engineering|istemle yönlendirme]]ydi.
 - **“Yardım arama talepleri öğrenmeyle ilgilidir.”** **İşletimsel destek talebi** bu varsayımı karmaşıklaştırır: **4.093 sorgu** genelinde en az **%20,4’ü bilgi değil, bekleyen bir teslimin durumunu sormuştur**. Yardım talebinin beşte biri idariydi.
 - **“Bir YZ öğretmeni kullanmak, kendi öğrenmesini izlemek anlamına gelir.”** Bir GenAI öğretmeni kullanan **98 dokuzuncu sınıf öğrencisi** üzerine yapılan bir çalışmada etkileşimler, **kendi öğrenmelerini izleme veya değerlendirme neredeyse hiç olmadan araçsal taleplerce yönetilmiştir**. Yanıt istemek, yapının kastettiği anlamda yardım arama değildir.
+
+## Alışkanlık Sormayı İkame Ettiğinde
+
+Yardım arama genellikle bir karar olarak incelenir — sormanın maliyetine değip değmeyeceğine ilişkin bir yargı. Filipinler’deki 392 mühendislik öğrencisi ve eğitimci üzerine yapılan 2026 PLS-SEM çalışması, [[generative-ai|üretici YZ]] yerleştikten sonra kararın büyük ölçüde çoktan verildiğini düşündürmektedir: **alışkanlık, insan yardım aramasının ikamesini β = 0,711 ile öngörmüştür**, oysa [[technology-acceptance-model|davranışsal niyet]] bunu β = 0,039 ile öngörmüştür; sıfırdan istatistiki olarak ayırt edilemeyen bir yol. Örneklemdeki GenAI kullanıcılarının yarısı (%49,6) bir insandan daha az yardım istediğini bildirmiş ve takıldıklarında ilk kaynak olarak yalnızca %15,8’i insanı, %30,4’ü ise bir aracı göstermiştir.
+
+Yardım aramasının nasıl iskelelenmesi gerektiği konusunda iki çıkarım ortaya çıkar. Birincisi, tutumlara ya da sormayı daha çekici hale getirmeye yönelik müdahaleler, halihazırda kendiliğinden olan bir rutinle yarışır — önce inançları değil, rutini hedeflemeleri gerekir. İkincisi, ikameyi *azaltan* tek yapı [[academic-integrity|akademik dürüstlük]] endişesidir (β = −0,329); bu, insan danışmanlığını korumanın mesajlaşmadan çok zorunlu kişilerarası kontrol noktaları — akran değerlendirmesi, sözlü savunma, denetimli laboratuvar yardımı — yoluyla daha olası biçimde sağlanabileceğine işaret eder.([[habit-over-intention-genai-help-seeking-engineering-2026|Pao ve ark., 2026]])

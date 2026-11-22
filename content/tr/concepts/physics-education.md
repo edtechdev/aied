@@ -1,5 +1,6 @@
 ---
 title: Fizik Eğitimi
+updated: "2026-11-21T17:00:00-05:00"
 created: "2026-10-14T21:34:00-04:00"
 type: concept
 foundations: [ai-literacy]
@@ -9,14 +10,19 @@ discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/physics-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-18T04:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-21"
     agent: hermes-agent
 connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
@@ -85,6 +91,7 @@ Altı ülkede 11 ampirik çalışmayı kapsayan bir 2026 [[meta-analysis-systema
 **Öğretim değişkeni olarak ajan rol tasarımı.** [[wang-teacher-student-centered-agents-physics-2026|Wang ve ark. (2026)]] modeli (DeepSeek R1), platformu ve sıcaklığı sabit tutup yalnızca istek metniyle belirtilen rolü değiştirir: sınırlı bir ders kitabı bilgi kaynağından yetkili biçimde yanıt veren, öğretmen merkezli bir ajan; öğrenenlerin anlayışına dair bilgiye sahip, empatik bir öğretmen olarak yapılandırılmış, [[misconceptions]] nedenini teşhis etmek, ilgili kavramı adlandırmak ve benzer bir olguya aktarmak üzere betimlenmiş, öğrenci merkezli bir ajan. İki kavramsal madde üzerinde çalışan 59 lise mezunu arasında, öğrenci merkezli ajan daha yüksek son-test puanları (9,67’ye karşı 7,93; r = 0,38), daha düşük yabancı ve daha yüksek yerinde bilişsel yük, daha güçlü akış deneyimi (d = 0,92) ve daha yüksek empati algısı (r = 0,53) üretti — rol çerçevelemenin, yalnızca yanıt doğruluğu değil, bir fizik ajanını öğretim açısından etkili kılan şey olduğuna dair kanıt ([[pedagogical-agent]], [[prompt-engineering]]).
 - **Kıyaslama testi puanları, modellerin fizikte şimdiden yapabileceklerini küçümser.** Yaygın kullanılan altı fizik kıyaslama testini alan uzmanlarıyla yeniden puanlamak, bildirilen açığın çoğunun kusurlu maddelerden ve kısıtlayıcı otomatik puanlayıcılardan kaynaklanan bir yapaylık olduğunu ortaya koydu: denetlenen 250 reddin 143’ü (%57,20) kıyaslama testi kusuru, 95’i (%38,00) puanlayıcı hatası, yalnızca 12’si (%4,80) gerçek model hatasıydı. Düzeltildiğinde, HLE-Physics ortalama@4 %47,28’den %78,66’ya, CritPt ise %32,29’dan %87,50’ye yükseldi. Fizik öğretimi açısından bu iki yönlüdür: öğrencilerin birçok kanonik problemin uzman düzeyinde metinsel çözümlerini şimdiden elde edebilecekleri anlamına gelir; dolayısıyla fizik muhakere değerlendirmesi, kıyaslama kirliliğine direnen maddelere ve nihai yanıtlardan çok süreç kanıtına doğru ilerlemelidir. ([[frontier-models-physics-benchmark-audit-2026]])
 - **YZ puanlaması, her parçayı eşleştirmeden yüksek riskli bir fizik sonucunu yeniden üretebilir.** Elle yazılmış 10.364 Olimpiyat ve üniversite sayfasını puanlayan çok kipli bir YZ, sınav görevlileriyle aynı beş öğrenciden oluşan Olimpiyat takımını buldu ve toplamlarla r = 0,93–0,96 korelasyon gösterdi, ancak soru parçası düzeyinde tam uyum %70’te kaldı — sınav görevlisi denetimli ikinci okuma, yerine kullanım değil ([[ai-grading-handwritten-physics-2026|Pathak ve ark. (2026)]]).
+- **Bir görsel puanlayıcı, açıklamasının desteklemediği tam puanı verebilir.** Bozuk kinematik grafikler üzerinde bir çok kipli puanlayıcıyı stres testine tutan bir çalışma, kopuk, dallanan izler ve net bir sıfır hız referansı olmayan bir hız–zaman sunumunun 10/10 aldığını buldu. Yazarlar, yalnızca kesintilerde değil, tam puan alan yanıtların da öğretmen denetiminden geçmesini önerir ([[zammel-mllm-kinematics-graph-grading-2026|Zammel ve ark., 2026]]).
 
 - **Fizik kıyaslama testleri [[curriculum-design|müfredata]] dayalı ve İngilizce dışı olabilir.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin ve ark. (2026)]], ulusal 9–10. sınıf fizik ders kitabından ve 1.760 düğümlü bir [[knowledge-graph|bilgi grafiğinden]] 1.834 Bengalce soru kurdular; tek bir sabit [[llm-training-and-fine-tuning|ince ayar]] yöntemi 0,6B, 1,7B ve 4B parametrelerde sırasıyla 5,5, 15,0 ve 23,3 puan kazandırdı.
 
@@ -103,6 +110,8 @@ Fizik eğitimi daha geniş [[stem-education]] alanı içinde yer alır, ama özg
 - **Yardımsız pratik ve değerlendirme ayırın.** Bochum tasarımı ([[ai-particle-physics-education-redesign-2026|Mikhasenko ve ark. 2026]]), YZ’ye izin verilen, araştırma biçimli ödevlerin yüksek katılımla tamamlanmasının, öğrencileri yardımsız bir sınavda (ortalama 20,6/80) çok geride bırakabileceğini gösterir — yardımlı performans ile bağımsız olarak geri çağrılabilir bilgiyi ayrı kazanımlar olarak ele alın ve kursa kasten yardımsız pratik ile yazılı sınav yerleştirin.
 
 - **Kolaylaştırıcı bağlılığını doğrulayın; model kurma aşamasını YZ’siz tutun.** “Bize hangi kap daha ağırdı söylesenize” diye zorlanan amaç odaklı yapılandırılmış bir Gem, hiç kimsenin ölçmediği kütle değerleri uydurdu; bu nedenle dil temelli bir kolaylaştırıcının bağlılığı varsayılmak yerine denetlenmelidir ve YZ’siz kurma aşaması, ona ulaşamadığı elle yapılan çalışmayı korur ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
+
+Ders materyallerine giren en düşük altyapılı yol, fizik öğretimi için belgelenmiştir. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko ve ark. (2026)]] küçük bir modeli yerelde çalıştırır, onu kursun kendi notlarına ve problem setlerine yönlendirir ve bunlardan quizler ile çalışma rehberleri üretir; her çıktıyı öğretim elemanı doğrular. Kurulum hiçbir satıcı sözleşmesi gerektirmez ve hiçbir öğrenci verisini başka bir yere göndermez; bu da onu, kurumsal bir araç temin edemeyen ancak bir iş istasyonunu ayırabilecek bir bölüm için gerçekçi bir ilk adım yapar.
 
 ## Yaygın yanlış anlamalar
 
