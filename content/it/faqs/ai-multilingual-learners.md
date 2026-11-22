@@ -1,7 +1,7 @@
 ---
 title: "Come può l'IA sostenere gli studenti multilingui senza fraintendere le loro conoscenze o cancellare la loro voce?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-15T15:40:11-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -116,7 +120,7 @@ Offri alternative praticabili. Gli studenti hanno bisogno di un percorso chiaro 
 
 **4.** Aggiungi un controllo che registri il significato o la decisione dello studente, come una nota di due frasi su un cambiamento accettato o rifiutato.
 
-**5.** Se la tua rubrica valuta la [[writing-education|qualità della scrittura]], separa quel criterio da quello concettuale e rileggi due elaborati per tipo tenendo presente la distinzione.
+**5.** Se la tua [[rubrics|rubrica]] valuta la [[writing-education|qualità della scrittura]], separa quel criterio da quello concettuale e rileggi due elaborati per tipo tenendo presente la distinzione.
 
 ## Dove andare adesso
 

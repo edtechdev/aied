@@ -28,7 +28,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-15T15:40:57-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -46,7 +50,7 @@ La risposta breve per quella riunione: l'IA può prendersi la ricerca, un primo 
 
 **2.** Metti l'automazione sullo screening. Tieni estrazione dei dati, riconciliazione e sintesi con le persone.
 
-**3.** Fissa il codebook e la rubrica prima che un passaggio automatizzato tocchi i dati.
+**3.** Fissa il codebook e la [[rubrics|rubrica]] prima che un passaggio automatizzato tocchi i dati.
 
 **4.** Decidi cosa significa verifica e chi la firma. L'accordo tra un modello e un codificatore è una misura di somiglianza, non un risultato di qualità.
 

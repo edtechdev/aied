@@ -9,9 +9,9 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-updated: "2026-11-15T15:48:26-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/verify-ai-output
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T02:02:25-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -23,13 +23,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
 È la settimana prima della consegna dei voti e due elaborati citano fonti che non esistono. Entrambi gli studenti dicono di aver controllato. Uno ha aperto il link. L'altro ha letto il paragrafo e ha deciso che suonava giusto. Hai già detto a questa classe di verificare quello che il [[conversational-ai|chatbot]] le dà, e dirlo non ha prodotto il comportamento.
 
-La verifica è una sequenza che puoi costruire dentro un compito. Decidi che cosa conta come corretto prima che il compito inizi, fai in modo che lo studente si pronunci per iscritto su un'aspettativa, mandalo al documento invece che alla sua impressione sulla prosa, e valuta il documento che produce. Una riga di rubrica che dice "fonti controllate" non misura nulla di tutto questo.
+La verifica è una sequenza che puoi costruire dentro un compito. Decidi che cosa conta come corretto prima che il compito inizi, fai in modo che lo studente si pronunci per iscritto su un'aspettativa, mandalo al documento invece che alla sua impressione sulla prosa, e valuta il documento che produce. Una riga di [[rubrics|rubrica]] che dice "fonti controllate" non misura nulla di tutto questo.
 
 ## La versione breve
 
@@ -53,6 +57,7 @@ La stessa rassegna traccia una seconda linea, tra [[trust|fiducia]] e affidament
 
 Questa è la conseguenza progettuale, ed è la prima cosa da sistemare. Prima di impostare un compito di verifica, scrivi due brevi descrizioni: che cosa sembra un output corretto per questo compito, e che cosa sembra un output plausibile ma sbagliato. Una per tipo basta. Gli studenti hanno allora uno standard rispetto a cui controllare, e tu hai qualcosa su cui correggere il controllo che non sia se lo studente sembra accurato.
 
+La letteratura di ricerca non ha ancora raggiunto quel consiglio. Una revisione sistematica di 65 studi empirici (2022–2026) ha riscontrato che nessuno insegnava ai discenti i criteri per giudicare l'output dell'IA, e che gli scaffold di feedback literacy non comparivano in nessuno di essi: i design inducevano pause e spiegazioni presupponendo uno standard che non fornivano mai ([[yu-verification-without-criteria-2026|Yu et al. (2026)]]).
 ## Falli pronunciare prima che lo strumento risponda
 
 [[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]] costruisce un programma di misura intorno a *prevedi prima di eseguire*: chi apprende dichiara che cosa dovrebbe succedere, poi il comportamento dell'artefatto è giudicato rispetto a quella previsione su basi di dominio e non in base al fatto che funzioni. Il ragionamento esiste prima dell'output, ed è ciò che lo rende valutabile.

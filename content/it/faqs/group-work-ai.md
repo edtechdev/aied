@@ -11,7 +11,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-15T15:40:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/group-work-ai
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -29,11 +29,15 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-La presentazione di gruppo torna rifinita e coerente, e nemmeno un membro sa spiegare l'argomentazione che contiene. Oppure i voti escono uguali, e scopri dopo che uno studente ha fatto passare tutto il lavoro attraverso l'[[generative-ai|IA generativa]] mentre altri tre si sono fatti trascinare dal voto condiviso. Nulla nel file ti dice quale delle due cose è successa, e la tua rubrica ha una riga sulla collaborazione che tutti hanno soddisfatto.
+La presentazione di gruppo torna rifinita e coerente, e nemmeno un membro sa spiegare l'argomentazione che contiene. Oppure i voti escono uguali, e scopri dopo che uno studente ha fatto passare tutto il lavoro attraverso l'[[generative-ai|IA generativa]] mentre altri tre si sono fatti trascinare dal voto condiviso. Nulla nel file ti dice quale delle due cose è successa, e la tua [[rubrics|rubrica]] ha una riga sulla collaborazione che tutti hanno soddisfatto.
 
 Ecco la risposta: decidi il posto dell'IA per compito invece che per corso, fai in modo che la negoziazione del gruppo sull'IA sia qualcosa che consegnano e che tu valuti, metti in sequenza il lavoro così che non possa essere diviso in sessioni parallele di chatbot, e mantieni almeno una componente a cui ogni membro risponde da solo. Tutto questo è progettazione del compito, e nulla di esso è stato testato contro un controllo senza IA, quindi stai facendo un argomento di progetto e non applicando una soluzione dimostrata.
 

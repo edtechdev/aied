@@ -6,7 +6,7 @@ weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-updated: "2026-11-15T15:43:50-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/incorporating-ai-literacy
 source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -66,7 +70,7 @@ Il pattern su cui vale la pena costruire un compito è un output plausibile ma i
 
 Trattala come una competenza che insegni, perché non arriva con la conoscenza della materia. Nella sintesi sulla formazione informatica, gli studenti andavano significativamente *peggio* nel correggere codice generato dall'IA che nei compiti di [[summative-assessment|esame]] di programmazione tradizionale. È evidenza diretta che valutare e riparare l'output non si trasferisce automaticamente dalla competenza disciplinare generale, e che senza istruzione gli studenti riconsegneranno lavoro scorretto senza accorgersene. La rassegna inserisce questo nel suo quadro VIE (Verification, Implementation, Equity) e sostiene che il confronto critico dovrebbe essere una componente valutata e osservabile del lavoro dello studente, chiamandola "il meccanismo comune che collega ogni intervento efficace nel corpus".
 
-Versione pratica: una riga di rubrica per l'errore che ti aspettavi cogliessero, una per la riparazione, una per la giustificazione. Se la critica non porta punti, si riduce a tre frasi sulla via dell'uscita.
+Versione pratica: una riga di [[rubrics|rubrica]] per l'errore che ti aspettavi cogliessero, una per la riparazione, una per la giustificazione. Se la critica non porta punti, si riduce a tre frasi sulla via dell'uscita.
 
 ## Rendila specifica per la tua disciplina, e ripetila
 

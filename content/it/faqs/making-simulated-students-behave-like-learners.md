@@ -26,7 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-15T15:48:26-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -96,7 +100,7 @@ Due confronti mostrano quanto costa la validazione.
 
 Valutando nove metodi di simulazione contro sette metriche basate su riferimento su 382 dialoghi tenuti fuori dal più grande corpus pubblico di dialoghi reali studente-tutor in matematica, il prompting è rimasto dietro al [[llm-training-and-fine-tuning|fine-tuning]] sugli atti dialogici (0,4998 contro 0,6840), su ROUGE-L (0,1648 contro 0,3212) e sulla similarità coseno (0,5460 contro 0,7390). Il metodo migliore testato, l'ottimizzazione delle preferenze su un modello da 8B, batteva solo marginalmente il fine-tuning supervisionato ed era peggiore sugli errori, e una valutazione umana con tre tutor ha riprodotto quella graduatoria ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). La cima di questa scala sta vicino al mezzo, quindi la linea di base che riporti decide quanto impressionante sembra il tuo numero.
 
-SWIM è il confronto più chiaro tra prompting, fine-tuning e apprendimento per rinforzo, perché valuta ogni saggio generato contro un profilo di tratto obiettivo invece di giudicarlo impressionisticamente. Il prompting fondato su rubrica dava un controllo limitato anche per modelli proprietari forti, con un QWK medio di tratto migliore di 0,577 (Claude Sonnet) e 0,422 (GPT-5.4), e vicino a zero per un modello aperto da 7B. Il fine-tuning supervisionato su coppie reali voto-saggio ha raggiunto 0,474 ± 0,023 per quel modello da 7B. GRPO con una ricompensa derivata dalla [[automated-essay-scoring|valutazione automatica dei saggi]] ha raggiunto 0,618 ± 0,005, con i guadagni che tenevano su due valutatori indipendenti su cui la policy non si era mai addestrata ([[swim-student-writing-simulation-2026]]).
+SWIM è il confronto più chiaro tra prompting, fine-tuning e apprendimento per rinforzo, perché valuta ogni saggio generato contro un profilo di tratto obiettivo invece di giudicarlo impressionisticamente. Il prompting fondato su [[rubrics|rubrica]] dava un controllo limitato anche per modelli proprietari forti, con un QWK medio di tratto migliore di 0,577 (Claude Sonnet) e 0,422 (GPT-5.4), e vicino a zero per un modello aperto da 7B. Il fine-tuning supervisionato su coppie reali voto-saggio ha raggiunto 0,474 ± 0,023 per quel modello da 7B. GRPO con una ricompensa derivata dalla [[automated-essay-scoring|valutazione automatica dei saggi]] ha raggiunto 0,618 ± 0,005, con i guadagni che tenevano su due valutatori indipendenti su cui la policy non si era mai addestrata ([[swim-student-writing-simulation-2026]]).
 
 Il prompting ha anche prodotto una popolazione idealizzata invece che realistica: punteggio complessivo normalizzato medio 0,74 contro 0,58 degli studenti reali, e una lunghezza mediana di 304 parole contro 167. I modelli addestrati hanno recuperato le distribuzioni umane di punteggio e lunghezza senza alcuna supervisione sulla lunghezza. Una cosa è rimasta difficile: la forma autentica di bassa competenza. I modelli addestrati recuperavano la sintassi ma scrivevano troppi pochi errori di ortografia e grammatica, mentre il prompting simulava la debolezza attraverso una corruzione superficiale, errori di ortografia spruzzati su una prosa altrimenti competente.
 

@@ -9,7 +9,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-updated: "2026-11-15T15:50:01-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/institutional-ai-policy
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -61,7 +65,7 @@ Guarda cosa pubblicano i programmi quando nulla obbliga a porsi la domanda. [[in
 
 Le materie trattate erano più strette di quanto il volume suggerisca. L'[[academic-integrity|integrità accademica]] era la parola chiave più frequente (n = 139), davanti a citazione (59), [[assessment|valutazione]] (50) e plagio (38). [[ai-use-disclosure|La dichiarazione dell'uso dell'IA]] e il contract cheating comparivano una volta ciascuno. HIPAA compariva cinque volte, FERPA undici, e le cartelle cliniche elettroniche mai. Il vocabolario dell'equità era quasi assente: inclusione (n = 9), accessibilità (n = 9), accesso equo (n = 2).
 
-Questa è attenzione senza un impegno vincolante dietro, che è il difetto più economico da correggere. Conta i verbi modali e scrivi una conseguenza dove ne intendi una. Definisci plagio e usi vietati con parole che uno studente del primo anno possa applicare. Poi valuta il risultato con lo strumento che [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski e Hurley (2025)]] hanno costruito: cinque dimensioni con rubriche esplicite, che coprono il grado di divieto, il grado di permissività, l'integrazione didattica, la trasparenza e la responsabilità, e la profondità. La maggior parte delle istituzioni del loro settore assumeva posizioni generalmente proibitive riservando però discrezionalità ai singoli docenti. Nessun approccio era accettato come unico, e la chiarezza stessa era trattata come la precondizione di un'applicazione difendibile. Le loro raccomandazioni sono procedurali: linee guida complete qualunque sia la tua posizione, portatori di interesse coinvolti nella stesura, formazione proattiva, governance progettata per adattarsi e cicli di revisione.
+Questa è attenzione senza un impegno vincolante dietro, che è il difetto più economico da correggere. Conta i verbi modali e scrivi una conseguenza dove ne intendi una. Definisci plagio e usi vietati con parole che uno studente del primo anno possa applicare. Poi valuta il risultato con lo strumento che [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski e Hurley (2025)]] hanno costruito: cinque dimensioni con [[rubrics|rubriche]] esplicite, che coprono il grado di divieto, il grado di permissività, l'integrazione didattica, la trasparenza e la responsabilità, e la profondità. La maggior parte delle istituzioni del loro settore assumeva posizioni generalmente proibitive riservando però discrezionalità ai singoli docenti. Nessun approccio era accettato come unico, e la chiarezza stessa era trattata come la precondizione di un'applicazione difendibile. Le loro raccomandazioni sono procedurali: linee guida complete qualunque sia la tua posizione, portatori di interesse coinvolti nella stesura, formazione proattiva, governance progettata per adattarsi e cicli di revisione.
 
 ## Decidi chi ne è titolare e chi siede nel comitato
 

@@ -28,7 +28,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-15T15:48:26-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -60,7 +64,7 @@ Due famiglie di numeri dominano questa letteratura. Entrambe misurano quanto il 
 
 **I punteggi di accordo** (QWK, kappa quadratica ponderata) misurano quanto i voti del modello si allineino con quelli di una persona. Un modello può corrispondere al valutatore sul voto finale pur sbagliando sul perché, e il perché è la parte da cui lo studente impara.
 
-Uno studente può arrivare a una risposta sbagliata per una via sbagliata che sembra giusta, e nessun punteggio di somiglianza se ne accorge. Se il ragionamento è la cosa che ti interessa, la misura deve leggerlo: una rubrica applicata da una persona, o un controllo scritto per quel passaggio particolare.
+Uno studente può arrivare a una risposta sbagliata per una via sbagliata che sembra giusta, e nessun punteggio di somiglianza se ne accorge. Se il ragionamento è la cosa che ti interessa, la misura deve leggerlo: una [[rubrics|rubrica]] applicata da una persona, o un controllo scritto per quel passaggio particolare.
 
 L'assistente del corso Linear Control Systems lo riporta nel modo giusto. La sua configurazione migliore ha raggiunto un punteggio di somiglianza di **0,4093** rispetto alle risposte di riferimento, con il miglioramento misurato in modo affidabile sopra lo zero, e gli autori dichiarano chiaramente che i numeri misurano formulazione e formato ([[lora-finetuned-control-systems-course-qa-2026]]). Il punteggio è poco impressionante e l'articolo è comunque utile, perché dice cosa copre il punteggio.
 

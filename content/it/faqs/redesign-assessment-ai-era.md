@@ -16,7 +16,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-19T19:40:00-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/redesign-assessment-ai-era
 source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -26,7 +30,7 @@ translation_note: "*Traduzione automatica della pagina in inglese, non ancora ri
 
 Probabilmente hai in mano un compito che ha funzionato per anni e che ora restituisce lavori che non riesci a difendere. Il voto dice A; l'elaborato potrebbe essere in gran parte dello strumento. Oppure uno studente contesta un voto basso su basi che non puoi verificare, o il tuo programma sta riscrivendo la sua policy di valutazione e ti chiede cosa dovrebbe cambiare nel tuo corso entro il prossimo semestre.
 
-La risposta breve: decidi **di cosa** il voto deve essere prova, inserisci nel compito almeno un passaggio che lo studente svolge senza lo strumento, e fai pagare alla rubrica il ragionamento e non solo il prodotto. Una riprogettazione che salta il secondo e il terzo passaggio cambia come viene prodotto il lavoro senza cambiare cosa il voto può sostenere.
+La risposta breve: decidi **di cosa** il voto deve essere prova, inserisci nel compito almeno un passaggio che lo studente svolge senza lo strumento, e fai pagare alla [[rubrics|rubrica]] il ragionamento e non solo il prodotto. Una riprogettazione che salta il secondo e il terzo passaggio cambia come viene prodotto il lavoro senza cambiare cosa il voto può sostenere.
 
 ## La versione breve
 

@@ -1,7 +1,7 @@
 ---
 title: "Come faccio a capire se le domande di quiz ed esami generate dall'IA sono davvero buone?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-15T15:40:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -60,7 +64,7 @@ Controlla poi l'allineamento: rispondere fornisce evidenza per l'esito previsto 
 
 Leggi la formulazione come la leggerebbe uno studente. L'informazione necessaria è presente, e l'ambiguità non legata al tuo costrutto è stata rimossa?
 
-Guarda insieme le opzioni e le regole di punteggio. I distrattori sono plausibili e distinti tra loro e dalla chiave, e la chiave riconosce risposte alternative legittime che la tua rubrica accrediterebbe?
+Guarda insieme le opzioni e le regole di punteggio. I distrattori sono plausibili e distinti tra loro e dalla chiave, e la chiave riconosce risposte alternative legittime che la tua [[rubrics|rubrica]] accrediterebbe?
 
 Infine, chiedi chi esclude l'item. Il carico di lettura, il contesto culturale, le immagini e la formattazione possono imporre richieste non legate all'esito. Per uno studente multilingue o con disabilità, un item che premia la lettura veloce misura qualcosa che non volevi misurare, e [[differential-effects-across-learner-groups|la prestazione dei sottogruppi]] è dove questo emerge.
 

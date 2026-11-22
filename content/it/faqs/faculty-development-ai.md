@@ -12,7 +12,7 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 pedagogy: [tpack]
 ---
 
@@ -41,7 +46,7 @@ La sintesi per la riunione: standardizza un ciclo di incontri in cui ogni partec
 
 **2.** Metti verifica, dichiarazione e controllo del rischio nel modello di lavoro, dove vengono usati, così un partecipante nervoso ha un posto dove mettere la preoccupazione.
 
-**3.** Dedica le ore a valutazione e rubriche, l'area più debole alla baseline e quella con il guadagno misurato più ampio.
+**3.** Dedica le ore a valutazione e [[rubrics|rubriche]], l'area più debole alla baseline e quella con il guadagno misurato più ampio.
 
 **4.** Gestisci coorti [[discipline-specific-aied|specifiche per disciplina]], poi differenzia al loro interno per esperienza.
 

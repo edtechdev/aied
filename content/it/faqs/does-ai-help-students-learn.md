@@ -8,7 +8,7 @@ pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-updated: "2026-11-15T15:40:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/does-ai-help-students-learn
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -21,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -93,7 +97,7 @@ Come gli studenti usano lo strumento conta più di se ce l'hanno. In [[yan-cogni
 
 La lezione [[pedagogy|pedagogica]] è che permessi generalizzati e divieti generalizzati lasciano entrambi gli studenti a indovinare. Ciò che ha cambiato il comportamento, nel resoconto di quello studio, è stata una guida specifica per il compito su quale lavoro cognitivo gli studenti dovessero trattenere e quale assistenza fosse appropriata, la direzione di design sviluppata in [[reduce-ai-cheating|ridurre i voti con l'IA]] e [[reducing-ai-misuse|ridurre l'uso improprio dell'IA]].
 
-Quindi rendi il pensiero trattenuto un artefatto che puoi valutare. In matematica, chiedi la soluzione tentata prima che venga richiesto l'aiuto, poi fai usare agli studenti un prompt come «individua il primo passaggio che dovrei rivedere, dammi un suggerimento utile e chiedimi di riprovare», e richiedi una nuova soluzione più una spiegazione invece di una riproduzione della risposta dell'IA. In scrittura, fai valutare agli studenti la loro bozza contro la rubrica prima di chiedere una critica, poi fai spiegare quali suggerimenti hanno accettato, modificato o rifiutato. Se l'obiettivo è la costruzione di un'argomentazione, la prosa dell'IA non può sostituire la prova che lo studente sa costruire un'argomentazione. Se l'obiettivo è valutare revisioni alternative, confrontare esempi completi è appropriato. Le pagine su [[writing-education|insegnamento della scrittura]] e [[feedback-literacy|alfabetizzazione al feedback]] contengono il dettaglio.
+Quindi rendi il pensiero trattenuto un artefatto che puoi valutare. In matematica, chiedi la soluzione tentata prima che venga richiesto l'aiuto, poi fai usare agli studenti un prompt come «individua il primo passaggio che dovrei rivedere, dammi un suggerimento utile e chiedimi di riprovare», e richiedi una nuova soluzione più una spiegazione invece di una riproduzione della risposta dell'IA. In scrittura, fai valutare agli studenti la loro bozza contro la [[rubrics|rubrica]] prima di chiedere una critica, poi fai spiegare quali suggerimenti hanno accettato, modificato o rifiutato. Se l'obiettivo è la costruzione di un'argomentazione, la prosa dell'IA non può sostituire la prova che lo studente sa costruire un'argomentazione. Se l'obiettivo è valutare revisioni alternative, confrontare esempi completi è appropriato. Le pagine su [[writing-education|insegnamento della scrittura]] e [[feedback-literacy|alfabetizzazione al feedback]] contengono il dettaglio.
 
 Il requisito di design della revisione è la stessa mossa a livello di corso: la verifica, cioè leggere, testare, modificare, spiegare e criticare l'output dell'IA, resa una componente valutata e osservabile invece di un'aspirazione lasciata alla discrezione dello studente. E non ogni esito legittimo deve essere dimostrato senza IA. Un corso può insegnare deliberatamente un lavoro efficace supportato dall'IA, e in quel caso valuti la capacità dello studente di selezionare, verificare, rivedere e difendere il proprio uso dello strumento insieme alle fondamenta indipendenti che la disciplina richiede. [[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]] propone quella distinzione tripartita tra capacità indipendente, prestazione aumentata dall'IA e responsabilità di verifica. È un quadro concettuale, non uno strumento validato.
 

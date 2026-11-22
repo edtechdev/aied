@@ -7,7 +7,7 @@ assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feed
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-15T15:46:40-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -20,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -89,7 +93,7 @@ Undici righe sono più di quanto serva alla maggior parte dei compiti. Riduci la
 
 ## Tieni il feedback umano nel circuito
 
-Lo studio in aula più ampio in questo campo è [[pairr-ai-peer-review-2025|PAIRR]]: 654 studenti in dieci corsi di scrittura e tre corsi [[stem-education|STEM]] a forte componente di scrittura. Hanno steso una bozza, svolto la [[peer-assessment|valutazione tra pari]], ottenuto un feedback dell'IA basato su rubriche, confrontato e valutato entrambe le fonti, scritto piani di revisione, rivisto e riflettuto. Il 58% ha preferito il feedback combinato dei pari e dell'IA. Il 6% ha preferito il solo feedback dell'IA. Gli studenti hanno trovato l'IA utile per consigli di revisione ampi e orientati alla rubrica, mentre i pari fornivano conoscenza contestuale e una risposta autentica di pubblico.
+Lo studio in aula più ampio in questo campo è [[pairr-ai-peer-review-2025|PAIRR]]: 654 studenti in dieci corsi di scrittura e tre corsi [[stem-education|STEM]] a forte componente di scrittura. Hanno steso una bozza, svolto la [[peer-assessment|valutazione tra pari]], ottenuto un feedback dell'IA basato su [[rubrics|rubriche]], confrontato e valutato entrambe le fonti, scritto piani di revisione, rivisto e riflettuto. Il 58% ha preferito il feedback combinato dei pari e dell'IA. Il 6% ha preferito il solo feedback dell'IA. Gli studenti hanno trovato l'IA utile per consigli di revisione ampi e orientati alla rubrica, mentre i pari fornivano conoscenza contestuale e una risposta autentica di pubblico.
 
 Sii preciso sull'affermazione. PAIRR ha misurato l'esperienza e la valutazione del feedback da parte degli studenti, non i [[learning-gains|guadagni di apprendimento]] a lungo termine, quindi è un'evidenza forte per un design del feedback e più debole per il fatto che la scrittura migliori mesi dopo. Mantieni il passaggio tra pari anche quando quello con l'IA è più veloce. Gran parte del lavoro sul [[feedback]] avviene nel confronto tra le due fonti, e toglierlo elimina la parte che gli studenti dicevano di apprezzare.
 

@@ -1,7 +1,7 @@
 ---
 title: "Come può l'IA aiutarmi a dare un feedback migliore su larga scala?"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-15T15:40:11-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -28,11 +28,15 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-È la sesta settimana. Hai una pila di bozze, una rubrica in cui credi e il sospetto crescente che un terzo dei tuoi commenti venga scorso di traverso e dimenticato. Un collega accenna al fatto che uno strumento ora commenta ogni bozza entro un'ora. La riunione di dipartimento ha bisogno di una risposta: è un miglioramento, o un modo più rapido di produrre testo che nessuno legge?
+È la sesta settimana. Hai una pila di bozze, una [[rubrics|rubrica]] in cui credi e il sospetto crescente che un terzo dei tuoi commenti venga scorso di traverso e dimenticato. Un collega accenna al fatto che uno strumento ora commenta ogni bozza entro un'ora. La riunione di dipartimento ha bisogno di una risposta: è un miglioramento, o un modo più rapido di produrre testo che nessuno legge?
 
 Ecco la risposta breve: il feedback dell'IA si guadagna il suo posto su copertura, tempestività e coerenza, dentro una fascia stretta. Il lavoro linguistico su scala di revisione di bozza e i commenti di prima passata guidati da una rubrica vale la pena di essere automatizzato. La portata è la parte economica. In un esperimento randomizzato a grappoli con 1.176 studenti al primo anno, i design riflessivi e ibridi hanno battuto la critica diretta dell'IA nel [[transfer-of-learning|transfert]] differito e senza IA. In un esperimento randomizzato sulla scrittura di saggi con 70 studenti, un feedback dell'IA valutato meglio non ha prodotto revisioni migliori di quelle di un'[[teacher-role|insegnante]] esperta. È ciò che lo studente fa con un commento a decidere l'esito, e l'[[feedback-literacy|alfabetizzazione al feedback]] separa gli studenti che guadagnano da quelli che copiano.
 

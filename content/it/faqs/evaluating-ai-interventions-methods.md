@@ -6,7 +6,7 @@ weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-11-15T15:43:21-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -56,7 +60,7 @@ Il modo in cui va storto è facile da riprodurre. Uno [[generative-ai|strumento 
 
 La sintesi [[ai-ed-evaluation|Valutazione nell'AIED]] raccomanda il guadagno di apprendimento senza assistenza, la ritenzione differita, il transfer a un compito nuovo, la qualità del ragionamento, i [[misconceptions|fraintendimenti]], la ripresa del feedback e la prestazione dei sottogruppi. Coinvolgimento, soddisfazione, log d'uso dell'IA, [[self-efficacy|fiducia in sé]] e [[technology-acceptance-model|utilità percepita]] sono misure secondarie ragionevoli e sostituti scadenti dell'apprendimento. Carico di lavoro e risparmio di tempo sono esiti di implementazione, cioè una domanda diversa.
 
-Il minimo alla scala di una classe è una baseline, l'intervento, una misura immediata e una misura successiva senza assistenza. Aggiungi una condizione di confronto dove puoi: la pratica attuale, nessuna IA, IA senza restrizioni contro IA con impalcatura, o due progettazioni alternative. Punteggia la prestazione assistita e quella non assistita su strumenti separati, perché una rubrica sola le mescolerà.
+Il minimo alla scala di una classe è una baseline, l'intervento, una misura immediata e una misura successiva senza assistenza. Aggiungi una condizione di confronto dove puoi: la pratica attuale, nessuna IA, IA senza restrizioni contro IA con impalcatura, o due progettazioni alternative. Punteggia la prestazione assistita e quella non assistita su strumenti separati, perché una [[rubrics|rubrica]] sola le mescolerà.
 
 ## Leggi ogni numero come un'ipotesi
 

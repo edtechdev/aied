@@ -11,7 +11,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-11-15T15:48:47-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/developing-ai-tutor
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -159,7 +163,7 @@ La scrittura non ha un'unica risposta corretta, quindi la verifica è giudizio e
 
 **Un modello di capacità.** Traccia argomentazione (specificità della tesi, allineamento tra affermazione ed evidenza, controargomentazione), organizzazione (focus del paragrafo, progressione logica, transizioni), evidenza (pertinenza delle fonti, integrazione, interpretazione), revisione (revisione globale e a livello di frase, valutazione del feedback) e stile (chiarezza, grammatica, voce). Ognuno diventa un segnale separato nel modello dello studente, che è ciò che rende possibile un feedback mirato.
 
-**Radica il coach nel compito.** Recupera le istruzioni, la rubrica dell'insegnante, le letture del corso, i requisiti di citazione, le convenzioni di genere, gli esempi dell'insegnante e la politica sull'uso dell'IA, così che il feedback possa dire «la rubrica del tuo insegnante ti chiede di collegare ogni affermazione principale a evidenze da almeno due letture del corso» invece di inventare aspettative generiche. Il consiglio generico è il fallimento predefinito di uno strumento di scrittura non radicato, e gli studenti se ne accorgono entro due sessioni.
+**Radica il coach nel compito.** Recupera le istruzioni, la [[rubrics|rubrica]] dell'insegnante, le letture del corso, i requisiti di citazione, le convenzioni di genere, gli esempi dell'insegnante e la politica sull'uso dell'IA, così che il feedback possa dire «la rubrica del tuo insegnante ti chiede di collegare ogni affermazione principale a evidenze da almeno due letture del corso» invece di inventare aspettative generiche. Il consiglio generico è il fallimento predefinito di uno strumento di scrittura non radicato, e gli studenti se ne accorgono entro due sessioni.
 
 **Imposta i permessi per fase.** Il coinvolgimento dell'IA in fasi diverse influisce diversamente sulla percezione di proprietà. Il supporto nella pianificazione riduce la proprietà meno del supporto nella stesura, e la stesura generata dall'IA produce la riduzione maggiore ([[ai-writing-support-stage-ownership-2026|From Planning to Revision]]). Quel risultato si traduce direttamente in una tabella dei permessi. In pianificazione, il coach fa domande, confronta posizioni, mette in discussione le assunzioni e critica le scalette, e non genera l'argomentazione. In stesura, lo studente produce prima la prosa e il coach sviluppa invece di prendere il controllo. In revisione, il coach diagnostica e si ferma lì: affermazioni poco chiare, evidenze mancanti, evidenze che non sostengono l'affermazione, problemi organizzativi, la bozza rispetto alla rubrica. In editing, dopo la revisione, si occupa di grammatica, punteggiatura, concisione e formattazione delle citazioni.
 

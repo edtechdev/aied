@@ -21,7 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-15T15:48:26-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/reducing-over-reliance
 source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -173,7 +177,7 @@ Ti resta una scommessa ragionevole, fatta a basso costo. Cambia una consegna, ti
 
 **«Gli studenti più deboli non falliranno e basta il controllo senza aiuto?»** A volte sì, e quel risultato è informazione e non verdetto. Un controllo senza strumento che gran parte della classe fallisce dice che era la pratica a portare la prestazione, ed è la cosa che ti serviva sapere. Pesalo come prova, rinsegna ciò che mette in luce, e offri un secondo tentativo su un compito parallelo. Nessuno studio qui verifica se rinsegnare dopo un controllo senza aiuto fallito recuperi l'apprendimento, quindi quella parte è il tuo giudizio professionale.
 
-**«Alcuni miei studenti usano l'IA come impalcatura onesta. Dovrei fermarli?»** No. Uno studente che legge un indizio, prova il passo e controlla il risultato sta facendo lo scaricamento duplicativo che sopravvive alla rimozione dello strumento. Quello che vuoi è un compito che tenga disponibile quell'uso e renda meno remunerativa la versione esecutiva, e questo dipende da cosa il compito raccoglie e da cosa premia la rubrica.
+**«Alcuni miei studenti usano l'IA come impalcatura onesta. Dovrei fermarli?»** No. Uno studente che legge un indizio, prova il passo e controlla il risultato sta facendo lo scaricamento duplicativo che sopravvive alla rimozione dello strumento. Quello che vuoi è un compito che tenga disponibile quell'uso e renda meno remunerativa la versione esecutiva, e questo dipende da cosa il compito raccoglie e da cosa premia la [[rubrics|rubrica]].
 
 **«Le prove sono sottili, quindi perché cambiare qualcosa?»** Sono sottili in punti specifici, che i limiti sopra nominano. Ciò che è coerente tra gli studi è la direzione: collocazione, controllo visibile e una misura senza aiuto. Una consegna cambiata, con il risultato non assistito conservato, è una scommessa abbastanza piccola da fare su quella base.
 

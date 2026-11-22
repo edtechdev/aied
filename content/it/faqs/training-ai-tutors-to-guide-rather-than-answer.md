@@ -1,6 +1,7 @@
 ---
 title: "Come addestriamo un tutor di IA a guidare gli studenti anziché rispondere loro?"
 created: "2026-10-14T21:58:00-04:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq
@@ -30,6 +31,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -69,7 +74,7 @@ Ne seguono due cose. Aspettati che la ricompensa venga aggirata, perché specifi
 
 ## Fai in modo che la ricompensa scatti abbastanza spesso da insegnare
 
-Una ricompensa a corrispondenza esatta è troppo sparsa quando la cosa che ti interessa ha più dimensioni. Il [[simulation|simulatore]] di scrittura SWIM mostra la progressione con chiarezza: il prompting ancorato a una rubrica ha raggiunto un QWK medio migliore per tratto di **0,577** con Claude Sonnet e **0,422** con GPT-5.4, quasi zero per un modello aperto da 7B; il fine-tuning supervisionato ha raggiunto **0,474 ± 0,023** per quel modello da 7B; il GRPO con una ricompensa densa, normalizzata per tratto, ha raggiunto **0,618 ± 0,005** su ogni tratto e ogni prompt ([[swim-student-writing-simulation-2026]]).
+Una ricompensa a corrispondenza esatta è troppo sparsa quando la cosa che ti interessa ha più dimensioni. Il [[simulation|simulatore]] di scrittura SWIM mostra la progressione con chiarezza: il prompting ancorato a una [[rubrics|rubrica]] ha raggiunto un QWK medio migliore per tratto di **0,577** con Claude Sonnet e **0,422** con GPT-5.4, quasi zero per un modello aperto da 7B; il fine-tuning supervisionato ha raggiunto **0,474 ± 0,023** per quel modello da 7B; il GRPO con una ricompensa densa, normalizzata per tratto, ha raggiunto **0,618 ± 0,005** su ogni tratto e ogni prompt ([[swim-student-writing-simulation-2026]]).
 
 Quel divario è prodotto dal disegno della ricompensa. Un segnale denso e normalizzato per tratto batte la corrispondenza esatta in un contesto multi-tratto, e se la tua ricompensa scatta solo su una risposta perfetta, la maggior parte del tuo segnale di addestramento è silenzio.
 

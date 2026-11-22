@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-11-15T15:43:21-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T11:03:45-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -28,7 +32,7 @@ ai_assist:
 
 State descrivendo lo stesso strumento. Fa risparmiare tempo sulla stesura di materiale che avresti comunque modificato, e fa perdere tempo quando lo punti su un giudizio riguardante un singolo studente. Se il risparmio diventi tuo dipende da una decisione che la maggior parte dei docenti non prende mai: a che cosa servono le ore recuperate.
 
-La sintesi per la riunione: consegna la prima bozza e tieni il giudizio. Scalette di lezione, esempi svolti, domande di discussione, item di quiz [[formative-assessment|formativo]], spiegazioni alternative, formulazione delle rubriche e testo amministrativo di routine sono lavoro che sai specificare, controllare e correggere. Obiettivi, voti finali e qualsiasi decisione su un singolo studente restano a te. Di' che cosa compra l'ora liberata, perché le prove sul risparmio di tempo sono prove su dove va il tempo.
+La sintesi per la riunione: consegna la prima bozza e tieni il giudizio. Scalette di lezione, esempi svolti, domande di discussione, item di quiz [[formative-assessment|formativo]], spiegazioni alternative, formulazione delle [[rubrics|rubriche]] e testo amministrativo di routine sono lavoro che sai specificare, controllare e correggere. Obiettivi, voti finali e qualsiasi decisione su un singolo studente restano a te. Di' che cosa compra l'ora liberata, perché le prove sul risparmio di tempo sono prove su dove va il tempo.
 
 ## La versione breve
 
@@ -50,6 +54,7 @@ Un secondo insieme di dati nello stesso lavoro, più di 104.000 messaggi di oltr
 
 È riallocazione, non riduzione: quello che guadagni dall'[[generative-ai|IA generativa]] è la differenza tra una pagina bianca e una bozza abbastanza specifica da poterne discutere.
 
+Due sperimentazioni su scelte docenti collocano lo stesso risultato in una prospettiva temporale. In 68 scuole secondarie inglesi, il tempo di preparazione delle lezioni di scienze per gli anni 7 e 8 è sceso da 81,5 a 56,2 minuti a settimana, un risparmio di 25,3 minuti, senza alcuna perdita di qualità rilevata ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). La dose era piccola e si è ridotta: lo strumento copriva il 39% delle lezioni nominate nelle prime cinque settimane e il 29% nella seconda. Una sperimentazione Aila nelle scuole primarie ha rilevato un tempo di pianificazione di 2,51 ore a settimana contro 3,32, un quinto in meno, con uno strumento che raggiungeva il 7% delle lezioni e diminuiva nel corso del trimestre ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 ## Fai corrispondere il compito a ciò che lo strumento fa bene
 
 La qualità è disomogenea secondo uno schema abbastanza stabile da poterci pianificare sopra. I revisori in cieco hanno preferito le versioni IA delle conclusioni di lezione e dei biglietti d'uscita nel 59,7% dei casi rispetto a materiali progettati da professionisti, e hanno preferito il materiale IA per i contenuti delle scuole superiori nel 59,2% dei casi. Il risparmio cresce anche dove la tua sicurezza è più bassa: insegnare fuori dalla propria materia è il caso con il divario più ampio tra ciò che lo strumento ti consegna e ciò che avresti scritto da solo.
@@ -58,6 +63,7 @@ Due categorie vanno nella direzione opposta. Sul materiale di livello elementare
 
 Il test che lo prevede prima che tu spenda una serata: sai enunciare la specifica con precisione sufficiente a controllare l'output? Un biglietto d'uscita su un obiettivo, sì. Se un paragrafo sia adatto a una bambina di nove anni che legge due anni sotto la sua classe, no.
 
+La formazione è il caso che separa chiaramente i due effetti. In una sperimentazione a tre bracci, l'accesso a ChatGPT ha ridotto il tempo di preparazione del 34%, e la formazione precedente l'ha ridotto di un ulteriore 21%, mentre la formazione aggiuntiva non ha prodotto alcun guadagno nelle valutazioni di qualità in cieco ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Più veloce e migliore si sono separati: la strategia formata era più rapida senza essere migliore.
 ## Dai all'ora recuperata una destinazione
 
 La prova più chiara che il risparmio è reale, e che da solo non fa nulla, viene da un grande esperimento su 178 scuole e circa 19.000 studenti dell'ultimo anno delle superiori riguardo al feedback automatizzato sui saggi. Gli studenti il cui feedback veniva dal sistema hanno guadagnato quanto quelli corretti da persone. I valutatori umani costavano circa 0,85 dollari a saggio e non aggiungevano alcun beneficio misurabile in più.

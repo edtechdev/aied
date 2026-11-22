@@ -7,7 +7,7 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-updated: "2026-11-15T15:43:50-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/ai-literacy-evidence
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -20,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -35,7 +39,7 @@ La risposta per quella stanza, e lo stato delle prove nell'[[higher-ed|istruzion
 
 **2.** Fai loro fissare la propria risposta prima di vedere quella del modello.
 
-**3.** Valuta la critica, con la rubrica che già usi per quel compito.
+**3.** Valuta la critica, con la [[rubrics|rubrica]] che già usi per quel compito.
 
 **4.** Fallo più di una volta nell'arco del semestre.
 

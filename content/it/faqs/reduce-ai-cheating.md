@@ -16,7 +16,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-15T15:40:57-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/reduce-ai-cheating
 source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -147,7 +151,7 @@ Una casella è una dichiarazione. Una casella registra che uno studente ha clicc
 
 ## Cosa ti tornerà indietro
 
-**"Non ho tempo di riprogettare un corso questo semestre."** Non riprogettare il corso. Riprogetta un compito: un passo senza assistenza, una riga di rubrica con punti. È un cambiamento di due ore, ed è quello che la revisione di 72 studi isola.
+**"Non ho tempo di riprogettare un corso questo semestre."** Non riprogettare il corso. Riprogetta un compito: un passo senza assistenza, una riga di [[rubrics|rubrica]] con punti. È un cambiamento di due ore, ed è quello che la revisione di 72 studi isola.
 
 **"Le discussioni orali sono impossibili con 300 studenti."** Allora non farne 300. Dai peso alla componente a libri chiusi, richiedi artefatti di processo e campiona controlli orali sugli elaborati che sembrano incoerenti con il lavoro precedente. Trecento studenti non hanno bisogno di 300 conversazioni per cambiare il calcolo.
 

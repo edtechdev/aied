@@ -6,7 +6,7 @@ connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-11-19T19:35:52-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
 source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -20,13 +20,17 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
 Una demo di un fornitore dura quaranta minuti. L'agente legge il programma del corso, abbozza il quiz della settimana prossima, segnala tre studenti che non hanno aperto la lettura e si offre di scrivere loro. Il tuo prorettore vuole una decisione sulla licenza entro la fine del mese.
 
-Un [[agentic-ai|agente]] pianifica, chiama strumenti, mantiene il contesto, divide il lavoro in sotto-compiti e si adatta tra i turni, che è più di quanto faccia un [[conversational-ai|chatbot]]. I ruoli lato studente e lato insegnante che questo apre sono reali. L'evidenza non mostra che più autonomia produca più apprendimento: nell'unico studio di confronto diretto qui presente, un agente e un chatbot sono finiti alla pari. Metti l'autonomia dove una persona controlla l'output, lascia la pianificazione allo studente e valuta la qualità dell'insegnamento con la tua rubrica.
+Un [[agentic-ai|agente]] pianifica, chiama strumenti, mantiene il contesto, divide il lavoro in sotto-compiti e si adatta tra i turni, che è più di quanto faccia un [[conversational-ai|chatbot]]. I ruoli lato studente e lato insegnante che questo apre sono reali. L'evidenza non mostra che più autonomia produca più apprendimento: nell'unico studio di confronto diretto qui presente, un agente e un chatbot sono finiti alla pari. Metti l'autonomia dove una persona controlla l'output, lascia la pianificazione allo studente e valuta la qualità dell'insegnamento con la tua [[rubrics|rubrica]].
 
 ## La versione breve
 

@@ -1,7 +1,7 @@
 ---
 title: "Posso usare l'IA per valutare il lavoro degli studenti in modo equo e affidabile?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-15T15:40:11-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -20,11 +20,15 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-Hai una rubrica in cui credi, più elaborati che ore e uno strumento che restituisce un punteggio e diversi paragrafi sicuri di sé nel tempo che serve a leggere un solo saggio. Lo provi su lavori che hai già valutato. Metà dei punteggi sembra giusta. Uno è stranamente generoso, uno stranamente severo, e non riesci ancora a capire se dipenda dallo strumento o dal saggio.
+Hai una [[rubrics|rubrica]] in cui credi, più elaborati che ore e uno strumento che restituisce un punteggio e diversi paragrafi sicuri di sé nel tempo che serve a leggere un solo saggio. Lo provi su lavori che hai già valutato. Metà dei punteggi sembra giusta. Uno è stranamente generoso, uno stranamente severo, e non riesci ancora a capire se dipenda dallo strumento o dal saggio.
 
 Ecco la risposta breve: la valutazione con l'IA si guadagna un posto come assistente supervisionato o secondo lettore, su compiti in cui l'hai verificata contro lavori che hai già corretto. L'accordo non si trasferisce da un tipo di valutazione all'altro. In un esame di farmacia con sedici studenti, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] hanno trovato un accordo quasi perfetto sui tipi di item oggettivi e un accordo inaffidabile sulle risposte aperte. In tre università inglesi, [[opraise-automated-marking-ai-assessment-2026|il progetto OpRaise]] ha trovato che valutatori IA e umani concordavano sulla fascia di laurea tra il 35% e il 65% delle volte a seconda dell'istituzione, con i voti compressi verso il centro. Una giustificazione fluente non è prova che i tuoi criteri siano stati applicati. Se il risultato sia [[assessment-validity|valido per la tua decisione]] è una questione locale a cui devi rispondere tu, e [[human-in-the-loop-ai|una persona resta responsabile]] di tutto ciò che diventa un voto registrato.
 

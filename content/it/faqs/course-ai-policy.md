@@ -13,7 +13,7 @@ level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
 contributors: [editor]
-updated: "2026-11-15T15:48:26-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/course-ai-policy
 source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -25,6 +25,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -144,7 +148,7 @@ Scrivere la politica è la comunicazione. Kim et al. hanno trovato cinque sedi i
 
 **"Gli studenti lo nasconderanno e basta."** Alcuni lo faranno, e la domanda di progettazione è quali studenti la tua regola tenta. La deterrenza passa per la **capacità di discriminazione** di un rilevatore tra uso nascosto e lavoro legittimo, non per il suo tasso di intercettazione grezzo. Quando una sensibilità maggiore produce più falsi positivi nuovi che veri positivi nuovi, **un monitoraggio più forte può rendere l'occultamento relativamente più attraente**, perché gli studenti onesti vengono penalizzati più in fretta di quanto gli utenti nascosti vengano identificati. Permesso e dichiarazione sono leve separate: il permesso sposta il confine dell'uso accettabile, la dichiarazione cambia la visibilità. Diagnostica dove il tuo compito attira lo studente più tentato di occultare, e progetta per quello studente.
 
-**"Non voglio vietare strumenti che non riesco a rilevare."** Non devi. La proibizione è una delle quattro risposte di progettazione, insieme al monitoraggio, all'uso permesso con dichiarazione e alla riprogettazione. La riprogettazione cambia ciò che il compito premia, e resta cosmetica se la rubrica continua a valutare soprattutto il prodotto finale. [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] mostra i livelli resi espliciti: nel corso introduttivo di programmazione l'IA è esclusa, perché esternalizzare i primi cicli toglie la cosa che si sta insegnando; nei progetti di strutture dati è incoraggiata (Copilot permesso) ed è esclusa dagli esami carta e penna; nel corso avanzato di sistemi è un aiuto allo studio e alla revisione; e nel corso sull'IA stesso è **obbligatoria**, dove un solo confine portava quasi tutto il peso. Il modello può scrivere codice, e le riflessioni devono essere nella voce dello studente. Gli esami sono stati eliminati del tutto, e la valutazione si è spostata su lavoro che un modello non può scrivere di nascosto in silenzio.
+**"Non voglio vietare strumenti che non riesco a rilevare."** Non devi. La proibizione è una delle quattro risposte di progettazione, insieme al monitoraggio, all'uso permesso con dichiarazione e alla riprogettazione. La riprogettazione cambia ciò che il compito premia, e resta cosmetica se la [[rubrics|rubrica]] continua a valutare soprattutto il prodotto finale. [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] mostra i livelli resi espliciti: nel corso introduttivo di programmazione l'IA è esclusa, perché esternalizzare i primi cicli toglie la cosa che si sta insegnando; nei progetti di strutture dati è incoraggiata (Copilot permesso) ed è esclusa dagli esami carta e penna; nel corso avanzato di sistemi è un aiuto allo studio e alla revisione; e nel corso sull'IA stesso è **obbligatoria**, dove un solo confine portava quasi tutto il peso. Il modello può scrivere codice, e le riflessioni devono essere nella voce dello studente. Gli esami sono stati eliminati del tutto, e la valutazione si è spostata su lavoro che un modello non può scrivere di nascosto in silenzio.
 
 **"La politica della mia istituzione copre già questo."** Meno di quanto pensi. Il divario va in entrambe le direzioni: il 92% dei programmi dà linee guida esplicite, le regole locali divergono dalle indicazioni istituzionali, e solo 47 istituzioni avevano entrambi i livelli rilevabili. Appalti, dati e cicli di revisione appartengono a [[institutional-ai-policy|Come scriviamo e attuiamo una politica istituzionale sull'IA?]], ma la traduzione in aula è tua. Nash e Burriss concludono che le istituzioni devono attrezzare i docenti a resistere oltre che ad adottare, con l'orientamento e lo [[educational-development|sviluppo professionale]] che permettono a un docente di declinare un uso specifico dell'IA senza essere dipinto come fuori tempo. Il tecnodeterminismo dei loro partecipanti contraddiceva i loro stessi impegni [[pedagogy|pedagogici]]. Una politica istituzionale non è una copertura per il tuo giudizio.
 

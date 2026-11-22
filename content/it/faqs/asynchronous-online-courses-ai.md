@@ -1,6 +1,7 @@
 ---
 title: "Come dovremmo progettare e facilitare corsi online asincroni quando l'IA può fare il lavoro?"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq
@@ -25,6 +26,10 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -39,7 +44,7 @@ Ecco la risposta: in un corso asincrono, tutto ciò che un'aula fornisce gratis 
 
 **2.** Mantieni una misurazione senza assistenza in ogni valutazione che certifica una competenza. Il divario di ritenzione nei dati di popolazione qui sotto si chiude quando la sorveglianza è in atto.
 
-**3.** Usa la [[asynchronous-oral-assessment-2026|valutazione orale asincrona]] dove la posta in gioco giustifica il lavoro di produzione: prompt just-in-time, registrazioni brevi che lo studente non può rivedere, rubriche incorporate, trascrizioni generate automaticamente.
+**3.** Usa la [[asynchronous-oral-assessment-2026|valutazione orale asincrona]] dove la posta in gioco giustifica il lavoro di produzione: prompt just-in-time, registrazioni brevi che lo studente non può rivedere, [[rubrics|rubriche]] incorporate, trascrizioni generate automaticamente.
 
 **4.** Configura qualunque IA tu fornisca perché suggerisca invece di rispondere, e integrala nel corso invece di rimandare a qualcosa di generico.
 

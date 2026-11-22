@@ -1,7 +1,7 @@
 ---
 title: "Dovremmo usare i rilevatori di IA?"
 created: "2026-10-14T22:50:00-04:00"
-updated: "2026-11-15T15:48:26-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -108,7 +112,7 @@ Chiudi con una decisione che sai enunciare senza il punteggio. O lo studente ha 
 
 ## Inserisci nel compito un passaggio in cui lo strumento non può stare
 
-Le [[oral-assessment|valutazioni orali]] asincrone, costruite come domande a risposta rapida con brevi risposte registrate a tempo e corrette con rubriche incorporate, si sono comportate in modo paragonabile agli esami a scelta multipla in presenza in uno studio e significativamente meglio in un altro, con studenti che riferivano una preparazione più attiva e una maggiore percezione di rilevanza professionale. Per un [[administrator|amministratore]], la proprietà che conta è che questo si scala senza sorveglianza ([[asynchronous-oral-assessment-2026]]).
+Le [[oral-assessment|valutazioni orali]] asincrone, costruite come domande a risposta rapida con brevi risposte registrate a tempo e corrette con [[rubrics|rubriche]] incorporate, si sono comportate in modo paragonabile agli esami a scelta multipla in presenza in uno studio e significativamente meglio in un altro, con studenti che riferivano una preparazione più attiva e una maggiore percezione di rilevanza professionale. Per un [[administrator|amministratore]], la proprietà che conta è che questo si scala senza sorveglianza ([[asynchronous-oral-assessment-2026]]).
 
 Ridisegnare il compito fa più lavoro che irrigidire il controllo. Uno studio di caso su studenti di economia triennale ha rilevato che solo circa un terzo dichiarava un qualche uso dell'IA, con la dichiarazione esplicita ancora più rara, e leggeva la non dichiarazione come cautela razionale sotto una policy ambigua più che come disonestà. Gli stessi studenti indicavano compiti basati su dati reali come soluzione ([[kirsanov-beyond-detection-ai-online-assessments-2026]]). Aspettarsi, dichiarare ed esaminare l'uso dell'IA batte il controllarlo, perché l'[[authentic-assessment|autenticità]] va progettata, non imposta ([[beyond-detection-authentic-assessment-ai-2025]]).
 

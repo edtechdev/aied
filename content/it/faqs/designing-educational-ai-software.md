@@ -1,6 +1,7 @@
 ---
 title: "Quali sono le migliori pratiche e i consigli per progettare software di IA educativa efficace?"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]
@@ -19,6 +20,10 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -31,7 +36,7 @@ La risposta è più stretta di quanto la maggior parte delle specifiche di prodo
 
 **1.** Scrivi cosa decide il sistema e cosa decide un insegnante. Quel confine diventa l'architettura.
 
-**2.** Valuta l'interazione a più turni e consapevole della disciplina su un [[curriculum-design|curriculum]] reale, non singoli prompt contro una rubrica di sicurezza generica.
+**2.** Valuta l'interazione a più turni e consapevole della disciplina su un [[curriculum-design|curriculum]] reale, non singoli prompt contro una [[rubrics|rubrica]] di sicurezza generica.
 
 **3.** Ancora le risposte a contenuti approvati, e tieni il componente di verifica separato da quello conversazionale.
 

@@ -11,7 +11,7 @@ assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
-updated: "2026-11-19T19:35:52-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 source_updated: "2026-11-18T16:55:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -55,7 +59,7 @@ Cinque convinzioni decidono se il resto dell'argomento conta. Ognuna prende un s
 
 In un esperimento sul campo con quasi 1.000 studenti delle superiori di [[math-education|matematica]], l'accesso senza restrizioni all'IA generativa ha migliorato la prestazione durante la pratica assistita e ridotto la prestazione successiva all'esame senza assistenza. Una versione con guardrail, che forniva suggerimenti invece di risposte complete, ha eliminato il [[ai-misuse-learning-harm|danno all'apprendimento]] osservato ([[generative-ai-guardrails-harm-learning|Generative AI Without Guardrails Can Harm Learning]]). Entrambi i risultati sono reali, e stanno su misure diverse: solo una di esse è la misura che un transcript certifica. Lo studio ti dà una direzione e nessuna dimensione dell'effetto per il tuo corso.
 
-Gli studenti fanno la stessa inferenza sul proprio lavoro, e la risposta è la stessa: il prodotto mostra ciò che lo studente e lo strumento hanno realizzato insieme. Quattro domande poste con la finestra della chat chiusa ti dicono cosa è successo. Sanno spiegare il ragionamento? Risolvere un problema simile? Trovare i punti deboli nella risposta generata? Portare l'idea in un contesto nuovo? Se le risposte oneste sono no, stai guardando una prestazione assistita sotto il nome di apprendimento. Metti una di quelle quattro nella [[assessment]] e dichiaralo nella rubrica.
+Gli studenti fanno la stessa inferenza sul proprio lavoro, e la risposta è la stessa: il prodotto mostra ciò che lo studente e lo strumento hanno realizzato insieme. Quattro domande poste con la finestra della chat chiusa ti dicono cosa è successo. Sanno spiegare il ragionamento? Risolvere un problema simile? Trovare i punti deboli nella risposta generata? Portare l'idea in un contesto nuovo? Se le risposte oneste sono no, stai guardando una prestazione assistita sotto il nome di apprendimento. Metti una di quelle quattro nella [[assessment]] e dichiaralo nella [[rubrics|rubrica]].
 
 ### "Agli studenti piace il feedback, quindi il feedback funziona."
 

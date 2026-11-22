@@ -1,7 +1,7 @@
 ---
 title: "Come dovrebbe essere progettata l'IA nell'esperienza di apprendimento?"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-15T15:40:57-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -85,7 +89,7 @@ I dispositivi sono governati da un criterio di formazione contro [[cognitive-off
 
 ## Verifica che l'allineamento sia reale
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|l'analisi del discorso di McInnes e colleghi]] su 14 documenti di orientamento dell'istruzione superiore avverte che i consigli inquadrati sull'efficienza, come usare l'IA generativa per redigere esiti, rubriche e programmi dei corsi, producono un [[assessment|allineamento]] che sembra allineato trascurando la metà costruttiva. Esiti, attività e valutazioni vengono generati come elementi separati invece che interdipendenti.
+[[mcinnes-salvaging-constructive-alignment-genai-2026|l'analisi del discorso di McInnes e colleghi]] su 14 documenti di orientamento dell'istruzione superiore avverte che i consigli inquadrati sull'efficienza, come usare l'IA generativa per redigere esiti, [[rubrics|rubriche]] e programmi dei corsi, producono un [[assessment|allineamento]] che sembra allineato trascurando la metà costruttiva. Esiti, attività e valutazioni vengono generati come elementi separati invece che interdipendenti.
 
 Il loro rimedio è la ri-sequenziazione. Gli educatori dovrebbero capire l'allineamento costruttivo abbastanza bene da dirigere, interrogare e rifiutare l'output dell'IA prima di delegarne qualsiasi parte, perché accettare una superficie plausibile è lo stesso fallimento valutativo contro cui i docenti mettono in guardia gli studenti. Dove si usa l'IA, sostengono sistemi delimitati a livello istituzionale e [[rag|aumentati dal recupero]], configurati intorno alle politiche e agli standard di qualità locali invece che ai default generici addestrati su internet.
 

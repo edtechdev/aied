@@ -28,7 +28,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-updated: "2026-11-15T15:48:26-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -48,7 +52,7 @@ L'addestramento è reale e a volte necessario. È la terza o la quarta cosa da p
 
 **2.** Metti il retrieval sui tuoi materiali davanti al modello. È il guadagno singolo più grande riportato qui rispetto al costo, ed è reversibile.
 
-**3.** Ingegnerizza il prompt rispetto alla tua rubrica e itera finché il miglioramento si ferma. Il plateau è il segnale che l'addestramento potrebbe aggiungere qualcosa.
+**3.** Ingegnerizza il prompt rispetto alla tua [[rubrics|rubrica]] e itera finché il miglioramento si ferma. Il plateau è il segnale che l'addestramento potrebbe aggiungere qualcosa.
 
 **4.** Adatta i pesi con [[llm-training-and-fine-tuning|LoRA]] quando l'obiettivo è stabile e ristretto: un formato, una rubrica, un livello di lettura, un vocabolario di dominio.
 

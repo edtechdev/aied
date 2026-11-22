@@ -11,7 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-updated: "2026-11-15T15:48:26-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: faqs/reporting-interpreting-aied-research
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -85,7 +89,7 @@ Tratta lo strumento come un bersaglio mobile. I sistemi proprietari cambiano sen
 
 ## Valida i giudizi automatizzati
 
-La [[ai-ed-evaluation|valutazione nell'AIED]] delega sempre più l'assegnazione dei punteggi ai modelli, il che rende la procedura di validazione parte del risultato e non un'appendice. Il resoconto di Khan Academy sulle metriche del suo [[intelligent-tutoring|tutor IA]] riporta che l'engagement cognitivo viene valutato da un giudice [[llm]] calibrato su esperti pedagogici umani con F1 0,83, e che i movimenti della metrica sono venuti da più di 40 esperimenti in produzione in cinque mesi invece che da valutazione offline ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] mostrano che il disaccordo tra umani e macchine sulla qualità delle [[formative-assessment|domande di pretest]] è sistematico e non casuale, e che l'operativizzazione della rubrica conta più del [[prompt-engineering|prompting]] che parte dalla motivazione.
+La [[ai-ed-evaluation|valutazione nell'AIED]] delega sempre più l'assegnazione dei punteggi ai modelli, il che rende la procedura di validazione parte del risultato e non un'appendice. Il resoconto di Khan Academy sulle metriche del suo [[intelligent-tutoring|tutor IA]] riporta che l'engagement cognitivo viene valutato da un giudice [[llm]] calibrato su esperti pedagogici umani con F1 0,83, e che i movimenti della metrica sono venuti da più di 40 esperimenti in produzione in cinque mesi invece che da valutazione offline ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] mostrano che il disaccordo tra umani e macchine sulla qualità delle [[formative-assessment|domande di pretest]] è sistematico e non casuale, e che l'operativizzazione della [[rubrics|rubrica]] conta più del [[prompt-engineering|prompting]] che parte dalla motivazione.
 
 L'accordo con i codificatori umani è una cosa separata dalla qualità, e riportarlo come se fosse qualità è un bersaglio per i revisori. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] hanno fatto giudicare a un esperto indipendente 855 insiemi di codici a coppie, in cieco rispetto alla fonte. L'accordo umano-LLM è risultato a una Jaccard media di 0,30 contro 0,52 per l'accordo umano-umano, mentre il verificatore in cieco preferiva la codifica umana e quella della macchina a tassi indistinguibili (51,5% contro 48,5%, p = 0,537). Riporta l'obiettivo di calibrazione, lo standard di riferimento e chi ha arbitrato il disaccordo. Sono queste tre voci che permettono a un lettore di decidere quanto peso può portare il punteggio automatizzato.
 
