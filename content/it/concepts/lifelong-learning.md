@@ -1,7 +1,7 @@
 ---
 title: "Apprendimento permanente"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [self-directed-learning, adult-learning, professional-training, personalized-learning, adaptive-learning, self-regulated-learning, metacognition, equity-in-ai-education, higher-ed, educational-development, scaffolding, intelligent-tutoring, cognitive-offloading]
 connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-audiovideo-2026, learnity-graphs-lifelong-learning-framework-2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, community-centered-ai-education-adults, cognitive-commons-ai-expertise-regeneration, kim-ai-andragogy-2026]
@@ -56,14 +60,6 @@ L'apprendimento permanente si riferisce all'educazione continua lungo tutto l'ar
 
 L'apprendimento permanente si collega all'[[adult-learning]] e alla [[professional-training]] (i suoi contesti primari), al [[personalized-learning]] e all'[[adaptive-learning]] (i meccanismi di IA che lo supportano), al [[self-regulated-learning]] e alla [[metacognition]] (i processi di chi apprende coinvolti), e all'[[equity-in-ai-education]] (l'accesso lungo l'arco della vita). Si interseca inoltre con l'[[educational-development]] quando gli educatori stessi sono chi apprende per tutta la vita.
 
-## Idee sbagliate comuni
-
-**"L'esposizione all'IA minaccia soprattutto i compiti di livello base, quindi i lavoratori esperti sono al sicuro."** Il pattern occupazionale inverte parte di questa assunzione mentre il problema dell'expertise è più profondo. Nelle occupazioni statunitensi più esposte all'IA, i lavoratori di età compresa tra **22 e 25 anni hanno visto un calo occupazionale relativo del 16% (ottobre 2022–settembre 2025)** mentre quelli tra **35 e 49 anni sono cresciuti di oltre l'8%** — una protezione legata all'expertise accumulata. Ma il percorso che produce quell'expertise passa attraverso il lavoro di livello base che oggi viene ridotto, quindi la protezione è limitata nel tempo in un modo che la cifra trasversale nasconde. **La rigenerazione dell'expertise è essa stessa a rischio**: se il lavoro formativo scompare, la coorte che sarebbe diventata i professionisti esperti è più piccola.
-
-**"L'apprendimento permanente significa che gli adulti seguono più corsi."** Frequentare corsi è una sola forma di erogazione di un requisito più ampio: mantenere e ricostruire la competenza man mano che i compiti cambiano. Una forza lavoro che ha bisogno di rigenerazione continua non è a corto di offerta formativa; è a corto delle occasioni di pratica in cui la nuova competenza si forma davvero.
-
-**"L'apprendimento permanente è una responsabilità personale, quindi la progettazione istituzionale è secondaria."** Il problema della rigenerazione è strutturale — riguarda dove il lavoro formativo esista affatto — e gli individui non possono creare il lavoro che il loro stesso sviluppo richiede. Inquadrarlo come motivazione non spiega nulla del calo del 16% concentrato nella parte bassa della distribuzione per età.
-
 ## Implicazioni per la pratica
 
 **Per i datori di lavoro e i progettisti della formazione**
@@ -81,3 +77,11 @@ L'apprendimento permanente si collega all'[[adult-learning]] e alla [[profession
 
 - Riportate gli effetti occupazionali per fascia di età anziché come cifra aggregata di sostituzione; il contrasto tra 16% e 8% è il risultato.
 - Studiate dove il lavoro formativo sta scomparendo, poiché è il meccanismo per cui i guadagni attuali diventano carenze future.
+## Idee sbagliate comuni
+
+**"L'esposizione all'IA minaccia soprattutto i compiti di livello base, quindi i lavoratori esperti sono al sicuro."** Il pattern occupazionale inverte parte di questa assunzione mentre il problema dell'expertise è più profondo. Nelle occupazioni statunitensi più esposte all'IA, i lavoratori di età compresa tra **22 e 25 anni hanno visto un calo occupazionale relativo del 16% (ottobre 2022–settembre 2025)** mentre quelli tra **35 e 49 anni sono cresciuti di oltre l'8%** — una protezione legata all'expertise accumulata. Ma il percorso che produce quell'expertise passa attraverso il lavoro di livello base che oggi viene ridotto, quindi la protezione è limitata nel tempo in un modo che la cifra trasversale nasconde. **La rigenerazione dell'expertise è essa stessa a rischio**: se il lavoro formativo scompare, la coorte che sarebbe diventata i professionisti esperti è più piccola.
+
+**"L'apprendimento permanente significa che gli adulti seguono più corsi."** Frequentare corsi è una sola forma di erogazione di un requisito più ampio: mantenere e ricostruire la competenza man mano che i compiti cambiano. Una forza lavoro che ha bisogno di rigenerazione continua non è a corto di offerta formativa; è a corto delle occasioni di pratica in cui la nuova competenza si forma davvero.
+
+**"L'apprendimento permanente è una responsabilità personale, quindi la progettazione istituzionale è secondaria."** Il problema della rigenerazione è strutturale — riguarda dove il lavoro formativo esista affatto — e gli individui non possono creare il lavoro che il loro stesso sviluppo richiede. Inquadrarlo come motivazione non spiega nulla del calo del 16% concentrato nella parte bassa della distribuzione per età.
+

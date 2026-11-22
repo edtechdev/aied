@@ -1,7 +1,7 @@
 ---
 title: Sostenibilità
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
 connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
@@ -70,7 +74,9 @@ Il secondo percorso riguarda l'impronta propria dell'IA nei contesti educativi:
 
 ## L'apprendimento sostenibile come obiettivo pedagogico
 
-Un filone correlato inquadra la sostenibilità non solo come una preoccupazione ambientale o istituzionale, ma come una proprietà dell'apprendimento stesso. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostengono che l'apprendimento assistito dall'IA rischia l'esternalizzazione cognitiva e il distacco dai contesti autentici, e propongono framework (E3-HOT) per l'**apprendimento sostenibile** — un apprendimento che persiste, si trasferisce e rimane connesso ai problemi reali, anziché essere cortocircuitato dal [[cognitive-offloading]]. Questo collega la sostenibilità all'[[agency]] e al [[critical-thinking]].
+Un filone correlato inquadra la sostenibilità non solo come una preoccupazione ambientale o istituzionale, ma come una proprietà dell'apprendimento stesso. L'argomento più ampio, che questa ricadratura serva interessi particolari, è raccolto sotto [[critiques-of-ai-in-education|Critiche dell'IA nell'educazione]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostengono che l'apprendimento assistito dall'IA rischia l'esternalizzazione cognitiva e il distacco dai contesti autentici, e propongono framework (E3-HOT) per l'**apprendimento sostenibile** — un apprendimento che persiste, si trasferisce e rimane connesso ai problemi reali, anziché essere cortocircuitato dal [[cognitive-offloading]]. Questo collega la sostenibilità all'[[agency]] e al [[critical-thinking]].
+
+- **Un approccio di gatekeeping.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] definisce la sostenibilità pedagogica come valore di apprendimento durevole prodotto sotto condizioni economiche, sociali, ambientali e istituzionali che possono essere mantenute, e fa poi di quel valore un gate non compensabile anziché un pilastro tra cinque.
 
 ## Connessioni con altri concetti
 

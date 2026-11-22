@@ -1,7 +1,7 @@
 ---
 title: "Biblioteche"
 created: "2026-11-08T12:00:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [information-and-media-literacy, librarians, ai-literacy, digital-divide, governance, generative-ai, higher-ed]
 connected_articles: [ayinde-ai-academic-libraries-systematic-review-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026]
@@ -69,3 +73,10 @@ La funzione più antica della biblioteca — fornire un accesso che i singoli no
 - **Mantenere un percorso di escalation umano in qualsiasi servizio di IA.** L'evidenza sostiene l'IA per il reperimento e la stesura, e il personale umano per il giudizio sulle fonti; i progetti che cancellano il secondo per scalare il primo rimuovono la parte che gli utenti non possono ottenere altrove.
 - **Strumentare lo spostamento della ricerca invece di rilevarlo con questionari.** I registri dei prestiti e del discovery esistono già; una biblioteca che li affianca ai dati sull'istruzione saprà di più sull'effetto dell'IA di quanto possa mostrare un'indagine una tantum sugli studenti.
 - **Non fatturare l'alfabetizzazione all'IA come alfabetizzazione informativa.** Condividono personale e quadri, ma differiscono in ciò che valutano; confonderle produce un programma che non misura nessuna delle due.
+
+## Idee sbagliate comuni
+
+- **L'IA nelle biblioteche significa un chatbot al banco di reference.** L'adozione si concentra sul lavoro transazionale — domande di orientamento, catalogazione, trascrizioni di chat — mentre il giudizio resta umano.
+- **Gli studenti hanno abbandonato la biblioteca.** I motori di ricerca restano il punto di partenza dominante, e nove anni di registri di prestito non mostrano alcun cambiamento del punto di rottura nei prestiti.
+- **Il finanziamento è l'unica barriera.** Le lacune di competenze e la scarsa qualità dei dati sono citate più spesso del denaro, il che rende questo un problema di capacità tanto quanto di bilancio.
+- **Una letteratura in crescita significa che il campo si sta trasformando.** Il volume delle pubblicazioni è aumentato senza alcun cambiamento misurato nella pratica; le revisioni rilevano entusiasmo prima dell'effetto.

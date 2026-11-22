@@ -1,7 +1,7 @@
 ---
 title: Apprendimento socio-emotivo
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
 connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
@@ -46,6 +50,7 @@ L'apprendimento socio-emotivo è strettamente correlato, ma distinto, dall'intel
 
 ### Come il SEL appare nella ricerca
 
+- **L'empatia è il margine affettivo del SEL, e la più difficile da valutare.** Le evidenze su come insegnarla e misurarla sono raccolte in [[empathy|empatia]]: role-play, VR e dialogo con LLM aumentano tutti i punteggi auto-dichiarati, le valutazioni degli osservatori restano coerenti, e i proxy della visione artificiale si invertono sul sorriso. Leggete quelle evidenze prima di considerare un guadagno di empatia la prova che un programma ha funzionato.
 - **Integrare le SEC nell'alfabetizzazione sull'IA:** [[sec-ai-literacy-narrative-review-2026|la revisione narrativa di Palmquist et al.]] propone un framework integrato che combina l'alfabetizzazione sull'IA con le competenze socio-emotive, sostenendo che la sola competenza tecnica è insufficiente — educatori e studenti hanno bisogno sia di intelligenza tecnologica sia emotiva per orientarsi negli ambienti di apprendimento mediati dall'IA, favorendo l'[[personalized-learning|apprendimento personalizzato]], la collaborazione e il [[student-engagement|coinvolgimento]] etico degli studenti.
 
 - **Insegnanti e pratica relazionale:** La ricerca sui [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|framework di alfabetizzazione sull'IA]] e sulla [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|fiducia insegnante-studente]] sottolinea che il SEL sostiene le dimensioni relazionali dell'apprendimento (le relazioni insegnante-studente e studente-studente), che l'IA deve complementare anziché sostituire.

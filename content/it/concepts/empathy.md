@@ -1,7 +1,7 @@
 ---
 title: "Empatia"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -19,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [affective-tutoring, affective-computing, social-emotional-learning, professional-training, simulation, medical-education, nursing-education, sensor-and-gaze-analytics, assessment-validity, self-report-measures, human-ai-collaboration, ai-sycophancy, pedagogical-safety, well-being, arts-and-media-education]
 connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, nissan-nursing-empathy-computer-vision-2026, muller-role-prompted-gpt-empathetic-communication-2026, ismail-affective-domain-ai-healthcare-review-2026, lim-ai-wearables-environmental-empathy-2024, shastry-gray-empathy-offloading-2026, ai-empathy-scale-psychometric-evaluation-2026, empathy-coaching-chatbot, wang-teacher-student-centered-agents-physics-2026, akbaba-nursing-ai-experiences-tam-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Sintesi:** L'empatia entra nell'educazione da tre direzioni contemporaneamente: come esito che gli educatori cercano di insegnare, come costrutto che cercano di misurare e come qualcosa che si dice sempre più spesso che i sistemi di IA esibiscano. Le prove sono disomogenee in tutte e tre. Insegnare l'empatia funziona — role-play, VR e dialogo con gli [[llm|LLM]] producono tutti guadagni pre-post misurabili — ma l'effetto si riduce man mano che l'esperienza diventa meno incarnata, e gli studi comparativi confondono la modalità con il tempo sul compito. Misurare l'empatia è più difficile che insegnarla: le valutazioni degli osservatori reggono, mentre i proxy di computer vision concordano sul contatto fisico, non concordano sul contatto visivo e si invertono sul sorriso. L'IA può esercitare la conversazione empatica su larga scala, ma lo studio meglio controllato mostra una competenza autovalutata che cresce senza un controllo della prestazione osservata. E la preoccupazione più recente va nella direzione opposta: credere che l'IA possa fornire empatia rende le persone meno disposte a fornirla esse stesse ([[shastry-gray-empathy-offloading-2026|Shastry e Gray, 2026]]).
+> **Sintesi:** L'empatia entra nell'educazione da tre direzioni contemporaneamente: come esito che gli educatori cercano di insegnare, come costrutto che cercano di misurare e come qualcosa che si dice sempre più spesso che i sistemi di IA esibiscano. Le prove sono disomogenee in tutte e tre. Insegnare l'empatia funziona — role-play, VR e dialogo con gli [[llm|LLM]] producono tutti guadagni pre-post misurabili — ma l'effetto si riduce man mano che l'esperienza diventa meno incarnata, e gli studi comparativi confondono la modalità con il tempo sul compito. Misurare l'empatia è più difficile che insegnarla: le valutazioni degli osservatori reggono, mentre i proxy di [[sensor-and-gaze-analytics|computer vision]] concordano sul contatto fisico, non concordano sul contatto visivo e si invertono sul sorriso. L'IA può esercitare la conversazione empatica su larga scala, ma lo studio meglio controllato mostra una competenza autovalutata che cresce senza un controllo della prestazione osservata. E la preoccupazione più recente va nella direzione opposta: credere che l'IA possa fornire empatia rende le persone meno disposte a fornirla esse stesse ([[shastry-gray-empathy-offloading-2026|Shastry e Gray, 2026]]).
 
 ## Domande da considerare
 

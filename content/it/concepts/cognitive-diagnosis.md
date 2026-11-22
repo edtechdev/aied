@@ -1,7 +1,7 @@
 ---
 title: Diagnosi cognitiva
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
@@ -19,13 +19,15 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
 connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-
-> La **diagnosi cognitiva** — l'inferenza dello stato di conoscenza latente di chi apprende — i concetti, le abilità e le misconcezioni specifiche che possiede o di cui è privo — a partire dalle sue risposte o dal suo comportamento. È la controparte valutativa del [[knowledge-tracing]], incentrata sulla caratterizzazione di *cosa* uno studente sa piuttosto che sulla sola previsione della sua performance successiva.
 
 ## Domande da considerare
 
@@ -37,7 +39,7 @@ connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-tr
 
 ## Introduzione
 
-Laddove il knowledge tracing stima tipicamente una padronanza scalare nel tempo, la diagnosi cognitiva produce un profilo più granulare: quali componenti di conoscenza sono padroneggiate, quali sono fragili e quali misconcezioni sono presenti. Questo profilo è il sostrato per [[personalized-learning|l'apprendimento personalizzato]], [[intelligent-tutoring|i tutor intelligenti]] e [[adaptive-learning|l'apprendimento adattivo]].
+Laddove il [[knowledge-tracing|knowledge tracing]] stima tipicamente una padronanza scalare nel tempo, la diagnosi cognitiva produce un profilo più granulare: quali componenti di conoscenza sono padroneggiate, quali sono fragili e quali misconcezioni sono presenti. Questo profilo è il sostrato per [[personalized-learning|l'apprendimento personalizzato]], [[intelligent-tutoring|i tutor intelligenti]] e [[adaptive-learning|l'apprendimento adattivo]].
 
 ### Come funziona la diagnosi cognitiva
 
@@ -60,7 +62,7 @@ Una diagnosi accurata consente all'istruzione di puntare sulle lacune reali anzi
 
 ### Relazione con il knowledge tracing e il tutoring intelligente
 
-La diagnosi cognitiva sta al cuore dell'architettura dell'[[intelligent-tutoring|intelligent tutoring]] ed è la controparte valutativa del [[knowledge-tracing]]:
+La diagnosi cognitiva sta al cuore dell'architettura dell'[[intelligent-tutoring|intelligent tutoring]] ed è la controparte valutativa della pagina [[knowledge-tracing|knowledge tracing]]:
 
 - **Diagnosi vs. tracing — viste temporali complementari.** Il [[knowledge-tracing|knowledge tracing]] segue le *dinamiche temporali* della padronanza — stimando come uno stato di conoscenza scalare evolve attraverso gli esercizi e prevedendo la risposta successiva. La diagnosi cognitiva produce l'*istantanea statica e a grana fine* di quali componenti di conoscenza, abilità o misconcezioni uno studente possiede attualmente. Un tutor ha bisogno di entrambi: il knowledge tracing per sequenziare cosa insegnare dopo, la diagnosi cognitiva per sapere *cosa* effettivamente non va. I modelli diagnostici basati su [[item-response-theory|IRT]] e [[educational-measurement|misurazione]], e i modelli di diagnosi cognitiva che mappano gli item su molteplici componenti, istanziano il lato diagnostico.
 - **Diagnosi nell'era degli LLM.** Gli [[llm|LLM]] estendono la diagnosi dalle risposte a scelta multipla al lavoro a risposta aperta, scritto a mano e conversazionale, identificando le [[misconceptions|misconcezioni]] specifiche dietro un errore (ad esempio la «trappola della risposta corretta», dove una risposta giusta nasconde un ragionamento fallace). [[xie-hillm-cd-2026|HiLLM-CD]] usa gli LLM per la costruzione automatizzata di alberi di concetti e l'inferenza gerarchica della competenza, collegando diagnosi e tracing. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] spingono oltre, federando la diagnosi attraverso molteplici API commerciali di LLM con privacy differenziale ε-locale, mostrando che una diagnosi accurata e preservante la privacy è fattibile senza che alcun modello veda i dati grezzi degli studenti.
@@ -68,14 +70,7 @@ La diagnosi cognitiva sta al cuore dell'architettura dell'[[intelligent-tutoring
 
 ## Connessioni
 
-La diagnosi cognitiva si collega al [[knowledge-tracing]], alla [[student-modeling|modellazione dello studente]], alla [[educational-measurement|misurazione educativa]] e alla [[assessment|valutazione]]. Le sue intuizioni alimentano l'[[intelligent-tutoring|intelligent tutoring]] e l'[[adaptive-learning|apprendimento adattivo]], e il lavoro dell'era degli LLM la collega all'identificazione delle misconcezioni nell'[[intelligent-tutoring|AI Tutoring]].
-
-## Idee sbagliate comuni
-
-- **"La diagnosi è una capacità risolta per i modelli."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] ha supervisionato il ragionamento diagnostico come una di quattro capacità in una famiglia aperta 4B/9B/27B, e **la diagnosi dello stato di conoscenza è rimasta la più debole** delle quattro. La diagnosi è la capacità che ha resistito all'addestramento che ha prodotto le altre.
-- **"I modelli possono simulare gli errori degli studenti, quindi possono diagnosticarli."** Il collo di bottiglia è il contrario. I modelli hanno costruito una soluzione nel **95,2% delle tracce di distrattori** e simulato una specifica misconcezione di Eedi con **accuratezza 0,92**, eppure **fornire la soluzione corretta** — non simulare l'errore — era ciò che li limitava. Generare una risposta sbagliata plausibile è più facile che riconoscerla.
-- **"La diagnosi richiede un catalogo di misconcezioni costruito a mano."** Su **6.106 coppie** di formalizzazioni in logica proposizionale corrette e scorrette, un flusso di lavoro ha scoperto **248 cluster di trasformazioni che spiegano 5.156 coppie (84,44%)**, contro **4.370 (71,57%)** per gli errori selezionati a mano dell'insieme di riferimento. La scoperta ha eguagliato o superato la curatela esperta, e si è trasferita alla logica modale — quindi il catalogo è un punto di partenza, non un tetto.
-- **"Una diagnosi è utile solo se nomina una misconcezione."** Diagnosticare quali esiti di corso un discente ha raggiunto tratta gli esiti come i concetti di conoscenza, fornendo le relazioni tra concetti tramite mappature di affinità validate da esperti. Per i programmi basati sugli esiti è l'unità più azionabile, anche se più grossolana.
+La diagnosi cognitiva si collega al [[knowledge-tracing|knowledge tracing]], alla [[student-modeling|modellazione dello studente]], alla [[educational-measurement|misurazione educativa]] e alla [[assessment|valutazione]]. Le sue intuizioni alimentano l'[[intelligent-tutoring|intelligent tutoring]] e l'[[adaptive-learning|apprendimento adattivo]], e il lavoro dell'era degli LLM la collega all'identificazione delle misconcezioni nell'[[intelligent-tutoring|AI Tutoring]].
 
 ## Implicazioni per la pratica
 
@@ -90,3 +85,10 @@ La diagnosi cognitiva si collega al [[knowledge-tracing]], alla [[student-modeli
 - Strumenta entrambe le direzioni: riconoscere una risposta sbagliata e produrre quella giusta. Il dato del 95,2% di recupero della soluzione suggerisce che la generazione è la metà facile e che la modalità di fallimento sta nel riconoscimento.
 - Preferisci la scoperta a un catalogo statico dove la struttura del dominio lo consente, e riporta la copertura rispetto a un insieme di riferimento così che il confronto sia leggibile.
 - Non distribuire un punteggio diagnostico senza dichiarare quale costrutto misura e come è stato validato indipendentemente dal segnale che lo ha prodotto.
+
+## Idee sbagliate comuni
+
+- **"La diagnosi è una capacità risolta per i modelli."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] ha supervisionato il ragionamento diagnostico come una di quattro capacità in una famiglia aperta 4B/9B/27B, e **la diagnosi dello stato di conoscenza è rimasta la più debole** delle quattro. La diagnosi è la capacità che ha resistito all'addestramento che ha prodotto le altre.
+- **"I modelli possono simulare gli errori degli studenti, quindi possono diagnosticarli."** Il collo di bottiglia è il contrario. I modelli hanno costruito una soluzione nel **95,2% delle tracce di distrattori** e simulato una specifica misconcezione di Eedi con **accuratezza 0,92**, eppure **fornire la soluzione corretta** — non simulare l'errore — era ciò che li limitava. Generare una risposta sbagliata plausibile è più facile che riconoscerla.
+- **"La diagnosi richiede un catalogo di misconcezioni costruito a mano."** Su **6.106 coppie** di formalizzazioni in logica proposizionale corrette e scorrette, un flusso di lavoro ha scoperto **248 cluster di trasformazioni che spiegano 5.156 coppie (84,44%)**, contro **4.370 (71,57%)** per gli errori selezionati a mano dell'insieme di riferimento. La scoperta ha eguagliato o superato la curatela esperta, e si è trasferita alla logica modale — quindi il catalogo è un punto di partenza, non un tetto.
+- **"Una diagnosi è utile solo se nomina una misconcezione."** Diagnosticare quali esiti di corso un discente ha raggiunto tratta gli esiti come i concetti di conoscenza, fornendo le relazioni tra concetti tramite mappature di affinità validate da esperti. Per i programmi basati sugli esiti è l'unità più azionabile, anche se più grossolana.

@@ -1,7 +1,7 @@
 ---
 title: Educazione STEM
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
 connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
@@ -42,6 +46,7 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 
 ### Le STEM come dominio primario dell'AIED
 
+La sezione delle discipline ordina le pagine per materia in quattro raggruppamenti — [[humanities-education|scienze umanistiche e arti]], [[social-sciences-education|scienze sociali]], le STEM e le [[professions-education|professioni]] — e le STEM sono il più grande di tutti con ampio margine, il che è a sua volta un dato su dove si accumula l'evidenza sull'IA nell'educazione.
 - **Matematica:** la [[math-education|ricerca sull'educazione matematica]] spazia dall'[[generative-ai-reduced-study-time-math|impatto della GenAI sull'apprendimento della matematica]], al [[ai-powered-personalized-learning-elementary-fractions-2026|tutoraggio sulle frazioni nella scuola elementare]], fino al [[student-math-competence-clustering|clustering delle competenze]].
 - **Le evidenze sugli ITS per la matematica sono limitate e condizionali.** Una revisione narrativa strutturata di 20 pubblicazioni (2020–aprile 2026) ha trovato il vantaggio misurato più chiaro nel [[feedback]] diagnostico in tempo reale applicato allo stesso sistema adattivo, concludendo però che il tutoraggio intelligente sostiene l'apprendimento della matematica solo quando [[student-modeling|modellazione dello studente]] valida, scaffolding calibrato e mediazione dell'insegnante si combinano, e che la scalabilità è tecnica, non educativa ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Fisica:** l'[[physics-education|educazione fisica]] include [[becker-chatgpt-typology-physics-2026|studi di tipologia su ChatGPT]], [[hashmi-socratic-physics-chatbot-2025|chatbot socratici di fisica]] e [[ai-scoring-language-bias-physics|analisi dei bias di punteggio]].

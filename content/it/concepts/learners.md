@@ -1,7 +1,7 @@
 ---
 title: "Studenti"
 created: "2026-10-14T22:20:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
 connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
@@ -85,16 +89,6 @@ Poiché i benefici seguono il vantaggio pregresso, il lavoro sul lato studentesc
 
 Da leggere con [[stakeholders]] per le persone intorno allo studente, e con [[pedagogy]] e [[learning-design]] per ciò che i docenti fanno di questi risultati. L'[[assessment|valutazione]] determina quali capacità dello studente siano mai rese visibili; [[limitations-in-aied-research]] spiega perché tanta parte dell'evidenza sul lato studentesco sia a breve termine, auto-riportata e condotta su campioni di comodo; e [[misconceptions]] è il punto di ingresso abituale per gli studenti stessi.
 
-## Idee sbagliate comuni
-
-**"Studenti e discenti sono la stessa popolazione."** Non sono intercambiabili in modo utile: *studenti* nomina un ruolo istituzionale, *discenti* nomina un'attività, e una persona può essere l'una senza essere l'altra — un dipendente in [[professional-training|formazione in azienda]] è un discente ma non uno studente. Confonderli restringe la base di evidenza a chi ha un'iscrizione registrata e scarta silenziosamente proprio gli adulti, i professionisti e i discenti [[self-directed-learning|autodiretti]] di cui si occupa la ricerca sull'[[lifelong-learning|apprendimento permanente]].
-
-**"Gli studenti riferiscono che l'IA migliora la loro comprensione, quindi fa risparmiare loro tempo."** Le due affermazioni si separano nei dati d'indagine. Nel lavoro sulla produttività dello studio, il **92,3%** ha detto che l'IA migliorava la propria comprensione, mentre solo il **38,5%** ha detto che riduceva il tempo di studio complessivo. Il numero di apertura descrive la comprensione percepita; il divario sotto di esso mostra che comprensione migliorata e tempo recuperato sono esiti diversi, e l'affermazione largamente ripetuta "l'IA fa risparmiare tempo" è portata dalla cifra più piccola.
-
-**"Gli studenti che usano l'IA per scorciatoie commettono una colpa morale."** La knowledge base tratta l'attrazione del minimo sforzo come un problema di progettazione e di politica anziché di carattere — gli studenti la descrivono con parole proprie, e la letteratura su [[reducing-ai-misuse|uso improprio]] e [[academic-integrity|integrità]] colloca la leva nel design del compito e dell'ambiente. Inquadrarla moralmente non spiega nulla del perché lo stesso studente si comporti diversamente in due corsi.
-
-**"Quando viene fatta un'accusa di scorrettezza, l'evidenza c'è."** L'analisi dei fascicoli di 1.162 accuse di GenAI mostra che cosa affrontano davvero gli studenti quando arriva la risposta istituzionale, e il lato studentesco della procedura per scorrettezza è molto più sottile nella letteratura del lato studentesco dell'uso. Una pagina sugli studenti che documenta solo il loro uso e non la loro esposizione all'accusa ha documentato metà dell'esperienza.
-
 ## Implicazioni per la pratica
 
 **Per i docenti**
@@ -112,3 +106,13 @@ Da leggere con [[stakeholders]] per le persone intorno allo studente, e con [[pe
 
 - Mantieni esplicita la distinzione discente/studente nel campionamento, e riporta chi ne è escluso.
 - Studia l'accusato oltre all'utente; il lato procedurale è la metà sottile di questa letteratura.
+
+## Idee sbagliate comuni
+
+**"Studenti e discenti sono la stessa popolazione."** Non sono intercambiabili in modo utile: *studenti* nomina un ruolo istituzionale, *discenti* nomina un'attività, e una persona può essere l'una senza essere l'altra — un dipendente in [[professional-training|formazione in azienda]] è un discente ma non uno studente. Confonderli restringe la base di evidenza a chi ha un'iscrizione registrata e scarta silenziosamente proprio gli adulti, i professionisti e i discenti [[self-directed-learning|autodiretti]] di cui si occupa la ricerca sull'[[lifelong-learning|apprendimento permanente]].
+
+**"Gli studenti riferiscono che l'IA migliora la loro comprensione, quindi fa risparmiare loro tempo."** Le due affermazioni si separano nei dati d'indagine. Nel lavoro sulla produttività dello studio, il **92,3%** ha detto che l'IA migliorava la propria comprensione, mentre solo il **38,5%** ha detto che riduceva il tempo di studio complessivo. Il numero di apertura descrive la comprensione percepita; il divario sotto di esso mostra che comprensione migliorata e tempo recuperato sono esiti diversi, e l'affermazione largamente ripetuta "l'IA fa risparmiare tempo" è portata dalla cifra più piccola.
+
+**"Gli studenti che usano l'IA per scorciatoie commettono una colpa morale."** La knowledge base tratta l'attrazione del minimo sforzo come un problema di progettazione e di politica anziché di carattere — gli studenti la descrivono con parole proprie, e la letteratura su [[reducing-ai-misuse|uso improprio]] e [[academic-integrity|integrità]] colloca la leva nel design del compito e dell'ambiente. Inquadrarla moralmente non spiega nulla del perché lo stesso studente si comporti diversamente in due corsi.
+
+**"Quando viene fatta un'accusa di scorrettezza, l'evidenza c'è."** L'analisi dei fascicoli di 1.162 accuse di GenAI mostra che cosa affrontano davvero gli studenti quando arriva la risposta istituzionale, e il lato studentesco della procedura per scorrettezza è molto più sottile nella letteratura del lato studentesco dell'uso. Una pagina sugli studenti che documenta solo il loro uso e non la loro esposizione all'accusa ha documentato metà dell'esperienza.

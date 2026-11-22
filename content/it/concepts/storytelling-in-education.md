@@ -8,7 +8,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
 connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
@@ -54,6 +58,8 @@ La narrazione si fonda sulle [[learning-theories|teorie dell'apprendimento]] del
 - **La narrazione generata è facile da produrre e difficile da mantenere coerente.** Con 22 studenti STEM, la fiction interattiva generata dall'IA otteneva buone valutazioni su chiarezza narrativa (M = 4,11) e lunghezza (M = 4,14), ma il coinvolgimento si fermava al punto neutro (M = 3,08) e la coerenza del contenuto narrativo era la dimensione più debole (M = 2,92) ([[ai-generated-interactive-fiction-education-2026]]). La co-creazione eredita quella debolezza proprio nello strato in cui una storia dovrebbe fare il suo lavoro.
 
 La narrazione si collega al [[student-engagement]], alla [[motivation]], alla [[creativity]], all'[[educational-robotics]], al [[language-learning]], al [[social-emotional-learning]] e all'[[educational-robotics]].
+
+- **La storia è il quadro valutativo, non solo la destinazione dell'output.** In una scuola materna turca, 22 bambini hanno costruito libri illustrati con un'insegnante che scriveva ogni prompt delle immagini. I loro giudizi sulle immagini generate riguardavano la coerenza con la storia — quale delle quattro candidate la classe avrebbe tenuto, se un oggetto in più "come un pilota" appartenesse, se un'immagine fosse brutta perché mancava un fiore richiesto — affiancati a giudizi di plausibilità come "una farfalla con gli occhiali non può esistere" ([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca e Yigit-Gencten, 2026]]). La narrazione ha dato alla classe un motivo per ispezionare gli output elemento per elemento, ed è questo che ha reso visibile il loro ragionamento sullo strumento.
 
 ## Idee sbagliate comuni
 

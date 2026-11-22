@@ -1,7 +1,7 @@
 ---
 title: Valutazione sommativa
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, assessment, formative-assessment, authentic-assessment, automated-assessment, assessment-validity, academic-integrity, ai-ed-evaluation, higher-ed, k-12]
 connected_articles: [llm-grading-assistants-public-health-2026, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, fenton-oral-exams-ai-authentic-assessment-2025, stromberg-generative-ai-learning-penalty-secondary-2026, chirikov-ai-grade-inflation-2026, generative-ai-reduced-study-time-math, generative-ai-guardrails-harm-learning, assessing-quality-ai-generated-exams-field-2025, llms-do-not-grade-essays-like-humans-2026, llm-automated-assessment-student-self-explanations, cong-confidence-asag-2026, psyscore-essay-scoring-zpd-feedback, socratic-tests-conversational-assessment, code-review-genai-cs1, responsible-assessment-ai-era-stanford-2026, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, brcic-effortless-trap-productive-struggle-2026, ai-vs-human-assessment-efl-tpck-2026, roe-assessment-twins-2026, ai-grading-handwritten-physics-2026, mesny-innovative-assessment-grading-management-2026, cvengros-grading-handwritten-chemistry-ai-2026, vogt-ai-mcq-recognition-medical-assessment-2026]
@@ -50,7 +54,7 @@ La ricerca della base di conoscenze documenta come l'IA generativa abbia rimodel
 - **La concordanza sugli esiti può sopravvivere a una correzione imprecisa dei singoli item.** Rispetto ai voti ufficiali moderati, un LLM multimodale che correggeva 10.364 pagine manoscritte delle Olimpiadi di Fisica e di esami universitari correlava a r = 0,93–0,96 e recuperava la stessa squadra internazionale di cinque studenti, sebbene la concordanza esatta sulle singole parti di quesito raggiungesse il 70% — un correttore va giudicato dalle decisioni che esso informa ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **L'IA come elusione.** Poiché l'IA generativa è in grado di produrre risposte a domande scritte, i compiti sommativi non sorvegliati e da svolgere a casa perdono validità: [[generative-ai-reduced-study-time-math|misure proctored e senza assistenza sono essenziali]] perché le prestazioni non sorvegliate risultano gonfiate dall'IA, e gli [[generative-ai-guardrails-harm-learning|strumenti con guardrail (suggerimento anziché risposta)]] possono eliminare la penalizzazione d'esame causata dall'IA priva di vincoli. Il quasi-esperimento di [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] su oltre 500.000 voti rende concreto il meccanismo: dopo il rilascio di ChatGPT, i corsi con una maggiore presenza di compiti esposti all'IA hanno visto la quota di voti A aumentare di 13 punti percentuali, e l'effetto si è concentrato nei **corsi a forte carico di compiti a casa** (ulteriori 16 pp nella stima a triple differenze) — prova diretta del fatto che i compiti a casa non sorvegliati, e non i reali [[learning-gains|guadagni di apprendimento]], sono il punto in cui l'IA gonfia gli esiti sommativi.
 
-- **Il candidato e il correttore sono la stessa capacità.** Nei test e nell'esame dello stesso corso introduttivo di programmazione a oggetti in Java, cinque sistemi del 2026 valutati con la rubrica degli studenti hanno battuto la media della coorte in tutti i casi tranne uno (14,61 contro 13,76 al test 1; 14,87 contro 13,39 al test 2). Spesso ottenevano il massimo nei compiti più lunghi pur fallendo ancora su interfacce, classi astratte e domande basate su immagini ([[genai-oop-programming-assessments-2026|Lepp e Kaimre (2026)]]).
+- **Il candidato e il correttore sono la stessa capacità.** Nei test e nell'esame dello stesso corso introduttivo di programmazione a oggetti in Java, cinque sistemi del 2026 valutati con la [[rubrics|rubrica]] degli studenti hanno battuto la media della coorte in tutti i casi tranne uno (14,61 contro 13,76 al test 1; 14,87 contro 13,39 al test 2). Spesso ottenevano il massimo nei compiti più lunghi pur fallendo ancora su interfacce, classi astratte e domande basate su immagini ([[genai-oop-programming-assessments-2026|Lepp e Kaimre (2026)]]).
 
 - **Esami generati dall'IA.** [[assessing-quality-ai-generated-exams-field-2025|Un ampio studio sul campo]] e la [[ai-vs-human-assessment-efl-tpck-2026|ricerca sulla valutazione in EFL]] esaminano se l'IA possa *generare* esami e compiti di valutazione di alta qualità — un uso emergente dell'IA nella progettazione sommativa.
 - **Gli studenti non riconoscono in modo affidabile gli item scritti dall'IA.** In un esame accreditato di medicina di famiglia, [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] non hanno trovato alcuna differenza significativa nell'attribuzione della fonte tra 30 item a scelta multipla generati dall'IA e 30 item di esame di abilitazione, con un riconoscimento corretto medio dal 68,6 al 77,5 per cento, e il 18,2 per cento degli item generati eliminato in [[human-in-the-loop-ai|revisione umana]].
@@ -58,6 +62,8 @@ La ricerca della base di conoscenze documenta come l'IA generativa abbia rimodel
 ## Formati sommativi resistenti all'IA
 
 Un tema centrale della base di conoscenze è che il **formato sommativo determina la resistenza all'IA** — quanto più un compito richiede una prestazione dal vivo, in presenza e sondata individualmente, tanto più è difficile per gli studenti sostituire l'IA al proprio apprendimento.
+
+I formati resistenti all'IA difendono il voto anziché ripensarlo: gli esami sorvegliati e gli orali stabilizzano valori e pratiche esistenti, quindi la riforma si ferma sul curriculum anziché arrivare a ciò che un voto rappresenta ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 - **[[oral-assessment|Esami orali]] e valutazioni orali.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] sostiene che l'esame orale è un formato sommativo a bassa tecnologia e intrinsecamente resistente all'IA: il suo dialogo interattivo in tempo reale verifica la comprensione, il [[critical-thinking|pensiero critico]] e il ragionamento anziché la memorizzazione, impedisce agli studenti di usare l'IA per generare e memorizzare risposte, e rispecchia la pratica professionale. I [[socratic-tests-conversational-assessment|test socratici]] e i [[code-review-genai-cs1|colloqui di revisione del codice]] estendono questo approccio a una valutazione sommativa dinamica, conversazionale e basata sul colloquio.
 - **Misure a libro chiuso, sorvegliate e senza assistenza.** Le [[generative-ai-reduced-study-time-math|prove]] e i [[stromberg-generative-ai-learning-penalty-secondary-2026|dati su larga scala raccolti sul campo]] mostrano che gli esami a libro chiuso e sorvegliati — e non i compiti a casa o le prove da svolgere a domicilio dai risultati gonfiati — costituiscono il segnale affidabile dell'apprendimento effettivo quando gli studenti usano l'IA. I framework di [[responsible-assessment-ai-era-stanford-2026|valutazione responsabile]] inseriscono queste misure senza assistenza all'interno di una riprogettazione guidata dalla validità. Laddove gli esami restano online, il [[remote-proctoring|proctoring remoto]] assume tale ruolo, e le due revisioni del corpus relative al proctoring automatico individuano problemi di privacy e di [[bias-mitigation|equità]] accanto ai guadagni in termini di rilevamento ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).

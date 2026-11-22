@@ -1,7 +1,7 @@
 ---
 title: Ricerca con metodi misti
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, qualitative-research, quantitative-research, educational-measurement, learning-gains, theory-development-aied, ai-ed-evaluation, student-experience]
 connected_articles: [genai-over-reliance-learning-2026, t2i-competence-paradox-2026, fouad-bentley-trust-utility-gap-physics-2026, same-ai-different-pathways, genai-feedback-design-multisite-experiment, hazra-safetutors-pedagogical-safety-2026, becker-chatgpt-typology-physics-2026, edtech-privacy-deferral-2026, bluesky-aied-discourse-social-media-analysis-2026]
@@ -77,3 +81,4 @@ I metodi misti si collocano tra le tradizioni [[quantitative-research|quantitati
 - **"I metodi misti sono una scelta di nicchia nella ricerca sull'IA in educazione."** Su **394 studi sull'IA generativa nell'istruzione superiore**, i metodi misti sono stati il **disegno di ricerca più comune (213 studi, 54%)**, seguiti dal quantitativo (109, 28%) e dal qualitativo (72, 18%). Il disegno dominante del campo non è quello che i suoi dibattiti metodologici presuppongono.
 - **"Evidenza osservativa e di colloquio può sostenere un'affermazione di sistema."** Abbinare l'osservazione del sistema e le discussioni con gli [[administrator|amministratori]] a una **valutazione randomizzata quadriennale di 8.708 studenti su otto semestri**, potenziata per rilevare effetti di **0,05 deviazioni standard**, mostra ciò che il filone qualitativo non può fare da solo: rilevare in modo affidabile un effetto piccolo. Mescolare i metodi non è un modo per trasferire potenza tra i filoni.
 - **"La triangolazione significa che due metodi deboli producono un'affermazione forte."** Il valore dell'abbinamento è che ciascun filone risponde a una domanda diversa. Un disegno che esegue entrambi e poi riporta il risultato qualitativo come conferma di quello quantitativo non ha triangolato, ha ripetuto.
+- **La convergenza può essere una regola di ammissione, non una narrativa.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] ha contato una priorità di ridisegno solo quando compariva in almeno due delle cinque fonti indipendenti e in una fonte centrata sull'attuazione, cosicché la sola percezione non potesse promuoverla.

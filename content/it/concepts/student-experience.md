@@ -1,7 +1,7 @@
 ---
 title: Esperienza dello studente
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, agency, well-being, anxiety-and-stress, social-emotional-learning, remote-proctoring, generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, scaffolding, metacognition, self-regulated-learning, framing-ai-use-for-students, academic-integrity, stakeholders, self-report-measures, student-engagement, social-norms-ai-use, student-support-and-success]
 connected_articles: [shame-guilt-ai-regulation-computing-education, t2i-competence-paradox-2026, best-response-student-ai-dialog-2026, chatgpt-perception-online-learning-engagement-2026, ai-tools-academic-work-cheating-2026, genai-student-experiences-uk-he-survey-2026, metacognitively-discordant-completion-genai-2026, ai-generated-interactive-fiction-education-2026, ai-in-the-wild-college, genai-availability-grades-satisfaction, student-rationalization-ai-writing, tracing-genai-literacy-interaction-patterns, misiejuk-cognitive-offloading-prompting-2026, ai-availability-student-motivation, aied-unfinished-mission-bypass, student-mental-models-genai, genai-usage-design-students-survey, spritz-ai-disciplinary-mediation-student-teams-2026, ithaka-sr-ai-skills-college-graduates-2026, student-ai-inquiry-types-cs2-2026, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, bassett-ai-detectors-education-2026, wang-safety-gap-productive-struggle-2026, aivaluate-anxiety-assessment-2026, kim-ai-anxiety-comprehensive-analysis, student-perceptions-ai-study-productivity-2026, teo-ai-adoption-tertiary-meta-analysis-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, genai-use-usefulness-student-experience-australia-2026, genai-motivation-engagement-2026, genai-decision-capability-cognitive-load-2026, genai-professionalization-metaphors-2026, sidorkin-ai-generated-course-readings-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
@@ -107,16 +111,6 @@ Gli esiti di più lungo periodo che uno studente vive — se torna il semestre s
 
 L'esperienza dello studente si collega all'[[cognitive-offloading|eccesso di dipendenza]] (dipendenza eccessiva dall'IA), all'[[ai-literacy]] (competenze per un uso efficace), al [[cognitive-offloading]] (come l'IA cambia il lavoro cognitivo) e allo [[student-engagement|coinvolgimento]] (come i sistemi di IA misurano e rispondono al comportamento dello studente). È il membro rivolto a chi apprende dell'ombreglio degli [[stakeholders]], e la casa per riassumere tutti i modi in cui l'IA incide sugli studenti.
 
-## Idee sbagliate comuni
-
-**"Gli studenti che evitano l'IA sono indietro."** Il non-uso è spesso una posizione ragionata anziché una lacuna: un'indagine inter-istituzionale britannica su **7.087 studenti** ha trovato che il **32% non usava affatto la GenAI per studiare**, con i non utenti che citavano il voler fare il lavoro da sé. Trattarlo come un deficit di adozione rovescia il risultato e spinge gli studenti fuori da una scelta difendibile.
-
-**"Le dichiarazioni degli studenti sono una misura ragionevole dell'apprendimento."** Sono [[self-report-measures|misure di autovalutazione]]: catturano bene percezioni e intenzioni e il comportamento solo approssimativamente. Il divario tra prestazione e apprendimento in questa letteratura — studenti che vanno meglio con l'IA e peggio in compiti successivi senza assistenza — è proprio il caso in cui autovalutazione ed esito divergono, quindi un corpo studentesco soddisfatto non è la prova di un corpo studentesco che apprende.
-
-**"Se gli studenti sentono che l'IA aiuta, allora aiuta."** Sentirsi aiutati è un dato reale sull'esperienza e un'inferenza inaffidabile sull'esito. Il divario è documentato e gli studenti nel gruppo danneggiato non lo percepiscono in modo affidabile, quindi percezione ed esito vanno raccolti come misure separate anziché l'una al posto dell'altra.
-
-**"L'esperienza dello studente è una preoccupazione soft rispetto agli esiti."** È un indicatore anticipatore dell'adozione e della dichiarazione: gli studenti che sentono che il loro uso è giudicato lo nascondono, e l'uso nascosto è la condizione in cui l'[[reducing-ai-misuse|uso improprio]] e il danno sono meno visibili per l'istituzione.
-
 ## Implicazioni per la pratica
 
 **Per i docenti**
@@ -133,3 +127,13 @@ L'esperienza dello studente si collega all'[[cognitive-offloading|eccesso di dip
 **Per i ricercatori**
 
 - Riporta esplicitamente la dimensione e le ragioni del gruppo dei non utenti; il 32% di un campione di 7.087 studenti è una popolazione, non un residuo.
+## Idee sbagliate comuni
+
+**"Gli studenti che evitano l'IA sono indietro."** Il non-uso è spesso una posizione ragionata anziché una lacuna: un'indagine inter-istituzionale britannica su **7.087 studenti** ha trovato che il **32% non usava affatto la GenAI per studiare**, con i non utenti che citavano il voler fare il lavoro da sé. Trattarlo come un deficit di adozione rovescia il risultato e spinge gli studenti fuori da una scelta difendibile.
+
+**"Le dichiarazioni degli studenti sono una misura ragionevole dell'apprendimento."** Sono [[self-report-measures|misure di autovalutazione]]: catturano bene percezioni e intenzioni e il comportamento solo approssimativamente. Il divario tra prestazione e apprendimento in questa letteratura — studenti che vanno meglio con l'IA e peggio in compiti successivi senza assistenza — è proprio il caso in cui autovalutazione ed esito divergono, quindi un corpo studentesco soddisfatto non è la prova di un corpo studentesco che apprende.
+
+**"Se gli studenti sentono che l'IA aiuta, allora aiuta."** Sentirsi aiutati è un dato reale sull'esperienza e un'inferenza inaffidabile sull'esito. Il divario è documentato e gli studenti nel gruppo danneggiato non lo percepiscono in modo affidabile, quindi percezione ed esito vanno raccolti come misure separate anziché l'una al posto dell'altra.
+
+**"L'esperienza dello studente è una preoccupazione soft rispetto agli esiti."** È un indicatore anticipatore dell'adozione e della dichiarazione: gli studenti che sentono che il loro uso è giudicato lo nascondono, e l'uso nascosto è la condizione in cui l'[[reducing-ai-misuse|uso improprio]] e il danno sono meno visibili per l'istituzione.
+

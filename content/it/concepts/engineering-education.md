@@ -1,7 +1,7 @@
 ---
 title: Ingegneria — educazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T11:33:13-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
@@ -51,6 +55,7 @@ La ricerca sull'educazione ingegneristica è distintiva perché si colloca all'i
 - **Valutazione incarnata e [[multimodal|multimodale]]:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] sviluppano un framework multimodale che integra il tracciamento dei gesti tramite visione artificiale con l'analisi del parlato tramite [[llm|LLM]] per valutare la comprensione concettuale della statistica negli studenti di ingegneria, mostrando che il gesto aggiunge evidenza diagnostica rispetto al parlato e che uno stretto accoppiamento gesto-parlato segnala una comprensione coerente.
 - **Trasformazione della forza lavoro:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] passano in rassegna la letteratura grigia statunitense sull'IA e la forza lavoro dell'ingegneria/informatica, inquadrando il "Dual Train Problem" (cambiamento rapido contro urgenza politica) e raccomandando competenze durevoli in materia di IA, [[ethics|etica]] e [[governance|governance]], e credenziali basate sulle competenze per i ruoli emergenti.
 - **Adozione e dipendenza degli studenti:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] estendono il Technology Acceptance Model con l'*uso critico* per modellare come gli studenti di ingegneria/informatica formino le intenzioni di usare l'[[generative-ai|IA generativa]] e come tale intenzione predica la dipendenza nei compiti di comprensione, valutazione, programmazione e progetto ingegneristico — rilevando una dipendenza moderata e appropriata e un uso intenso per i compiti legati alla comprensione, ma un uso limitato per la scrittura completa di una valutazione. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrano il TAM con [[technology-acceptance-model|l'UTAUT]] per modellare l'adozione da parte di studenti di ingegneria bengalesi, spiegando il 64% della varianza d'uso e mettendo in evidenza la rilevanza per il lavoro, la dimostrabilità dei risultati e le norme soggettive come fattori chiave.
+- **L'abitudine sposta la persona:** non l'intenzione ma l'abitudine prediceva se studenti ed educatori filipini di ingegneria chiedevano aiuto alle persone meno spesso una volta disponibile la GenAI, e la preoccupazione per l'integrità accademica era l'unico costrutto che riduceva quello spostamento ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo & Bernardo, 2026]]).
 - **La [[prompt-engineering|strategia di prompting]] predice la performance, non il volume d'uso:** tra 128 studenti di ingegneria del quarto anno, l'Efficienza della Query IA e la Risoluzione di Problemi Guidata dall'IA erano i predittori più forti del successo accademico e sono rimasti significativi dopo il controllo sul GPA cumulativo ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 - **Le metafore degli studenti stessi superano ciò che gli strumenti offrono:** [[ai-engineering-education-balancing-act|Kudina (2026)]] ha rilevato che 100 studenti di ingegneria apprezzavano di più gli LLM per il supporto alla scrittura, il chiarimento concettuale e la programmazione, e tuttavia li inquadravano come "oracolo" e "tutor" — autorità e [[personalized-learning|personalizzazione]] che un generatore probabilistico di testo non può fornire, un'"cruel optimism" che dipende da competenze di verifica che gli studenti stanno ancora costruendo.

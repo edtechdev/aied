@@ -1,7 +1,7 @@
 ---
 title: "Apprendimento basato sui casi"
 created: "2026-11-08T12:00:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [problem-based-learning, productive-failure]
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
 connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
@@ -57,7 +61,7 @@ I casi sono un ponte dalla conoscenza astratta al giudizio situato. Offrono agli
 
 Il meccanismo non è semplicemente "esempi del mondo reale". Un caso può essere realistico e insegnare molto poco se la discussione non chiede mai agli studenti di discriminare, giustificare o confrontare. I progetti più solidi usano i casi per creare uno spazio-problema prima della spiegazione, che è il legame con [[productive-failure]]: gli studenti affrontano un caso, incontrano i limiti del loro modello attuale e poi ricevono un'istruzione che affronta quel divario. I casi contrastanti affinano ulteriormente questo effetto. Quando due casi differiscono su una caratteristica che conta, gli studenti vedono la caratteristica invece della storia superficiale. Lo studio esistente su un corso GenAI di tre settimane per 78 studenti di un programma preparatorio per minoranze etniche ha usato la modellazione del docente con casi contrastanti per spostare gli studenti dalla copia efficiente alla co-creazione critica ([[scaffolding-critical-engagement-genai-minority-students]]). È un progetto di confronto tra casi, non un test dell'apprendimento basato sui casi in ambito giuridico o aziendale, ma mostra il meccanismo in un'aula reale.
 
-I casi hanno anche una dimensione sociale. La discussione di un caso rende pubblico il ragionamento: gli studenti propongono interpretazioni, ascoltano alternative e rivedono le proprie. Le domande del docente fanno il lavoro che un manuale non può fare. È per questo che sostituire un caso con un riassunto o una lezione può conservare il contenuto perdendo l'apprendimento. È anche per questo che un'IA che risponde alle domande del caso al posto dello studente può cortocircuitare la discussione anche quando le sue risposte sono accurate.
+I casi hanno anche una dimensione sociale. La discussione di un caso rende pubblico il ragionamento: gli studenti propongono interpretazioni, ascoltano alternative e rivedono le proprie. Le domande del docente fanno il lavoro che un manuale non può fare. È per questo che sostituire un caso con un riassunto o una lezione può conservare il contenuto perdendo l'apprendimento. È anche per questo che un'IA che risponde alle domande del caso al posto dello studente può cortocircuitare la discussione anche quando le sue risposte sono accurate. Il contrasto di formato trova supporto anche al di là dei casi: una meta-analisi sull'insegnamento dell'etica ha rilevato che gli esiti morali miglioravano quando l'erogazione era basata sulla discussione e non si muovevano quando era solo espositiva ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2026]]).
 
 ## Che cosa cambia l'IA
 

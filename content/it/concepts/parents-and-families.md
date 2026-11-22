@@ -1,7 +1,7 @@
 ---
 title: Genitori e famiglie
 created: "2026-10-14T21:59:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
 connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
@@ -45,6 +49,8 @@ connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-p
 Una grande quota del tempo che i bambini passano con l'IA avviene fuori dalla classe, in un contesto che la letteratura di ricerca tratta perlopiù come sfondo. Il lavoro sui risultati del tutoring e dell'apprendimento è solitamente basato sulla scuola, mentre il lavoro sulle linee guida per le famiglie è solitamente di tipo consultivo anziché verificato, così le famiglie sono simultaneamente il bersaglio di una grande quantità di indicazioni sull'uso [[ethics|responsabile dell'IA]] e l'oggetto di pochissime evidenze sul fatto che quelle indicazioni funzionino.
 
 Questa pagina tratta il nucleo familiare come un attore a pieno titolo. Copre il tutoring genitore–figlio mediato dall'IA, i compagni e gli strumenti di lettura che i bambini incontrano a casa, ciò che le scuole dicono e non dicono alle famiglie sull'uso dell'IA, l'[[ai-literacy|alfabetizzazione all'IA]] dei genitori stessi e ciò che è noto delle loro opinioni, e le condizioni di accesso e di costo in cui le famiglie usano questi strumenti. Dove le evidenze sono sottili, la pagina lo dice anziché colmare il vuoto.
+
+Ciò che un bambino può fare con uno strumento a una certa età è una questione di sviluppo, non di preferenza; la [[developmental-psychology|psicologia dello sviluppo]] porta quella spiegazione.
 
 ## I genitori come co-educatori a casa
 

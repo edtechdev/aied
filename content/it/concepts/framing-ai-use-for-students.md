@@ -1,6 +1,7 @@
 ---
 title: Inquadrare l'uso dell'IA per gli studenti
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -17,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -79,6 +84,8 @@ L'inquadramento si collega alla [[motivation]] attraverso la [[self-determinatio
 ## Inquadramento mediatico e pubblico
 
 Gli studenti sono inquadrati anche dal discorso mediatico e pubblico più ampio sull'[[ai-education|IA nell'educazione]], che plasma le loro aspettative di base prima di qualsiasi messaggio del docente. Le analisi del discorso pubblico e del modo in cui piattaforme come YouTube inquadrano l'uso di ChatGPT nell'educazione mostrano che gli inquadramenti prevalenti — hype, catastrofismo o pragmatismo — influenzano il modo in cui chi apprende e i [[teacher-role|docenti]] si avvicinano alla tecnologia.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Un inquadramento efficace da parte dei docenti significa spesso contrastare o riorientare deliberatamente queste narrative ambientali.
+
+L'inquadramento prezza anche il titolo a valle: con circa 1.750 professionisti delle assunzioni statunitensi, descrivere l'uso dell'IA da parte degli studenti come sostituzione anziché come assistenza riduceva la probabilità di un colloquio e la disponibilità a negoziare lo stipendio, soprattutto per i candidati con GPA alto ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Indicazioni pratiche
 

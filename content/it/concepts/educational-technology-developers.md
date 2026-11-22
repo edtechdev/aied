@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Sviluppatori di Tecnologia Educativa"
 created: "2026-10-14T21:58:00-04:00"
-updated: "2026-11-08T11:33:13-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -23,13 +23,17 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [edtech-platform, learning-design, curriculum-design, design-based-research, educational-development, open-source, learning-analytics, intelligent-tutoring, human-in-the-loop-ai, human-ai-collaboration, teacher-ai-competency, technology-acceptance-model, universal-design-for-learning, assessment-validity, ai-ed-evaluation, governance, educational-policy-ai, sustainability, privacy]
 connected_articles: [oatutor-open-source-adaptive-tutor-2023, moodle-ai-tutoring-deep-learning, learnlm-improving-gemini-learning, savvy-student-attention-video-learning, xai-teachers-trust-edtech-recommendations-2026, oneill-presumed-effective-meta-analysis-2026, a4l-analytics-pipeline, stanbkt-bayesian-knowledge-tracing, instructional-agents-multi-agent-course-gen, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, credential-cognitive-stewardship-ai-assessment, reclaiming-epistemic-agency-co-agency-2026, genai-mindtool-generative-learning, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, vocabulary-difficulty-prediction, shen-sustainable-ai-knowledge-base-cs-education-2026, tuo-armada-multi-agent-debate-overreliance-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> Gli **Sviluppatori di Tecnologia Educativa** — le persone e le organizzazioni che costruiscono tecnologia educativa: progettisti di prodotto, sviluppatori software, learning engineer, progettisti di learning analytics, e le aziende edtech, i laboratori universitari e i progetti [[open-source]] in cui lavorano. Nell'[[ai-education|IA in educazione]] questo è il ruolo che trasforma una capacità del modello in qualcosa che un [[teacher-role|insegnante]] o uno studente può effettivamente usare. Porta con sé decisioni che nessuna fase successiva può annullare: su quale evidenza poggia un'affermazione di design, quanto una pipeline di [[learning-analytics|analytics]] o un sistema di [[intelligent-tutoring|tutoraggio]] sia fondato sul materiale con licenza proprio dell'istituzione, se insegnanti e studenti siano inclusi nel design. Fissa anche quali ipotesi di [[learning-design|progettazione didattica]] siano incorporate nelle impostazioni predefinite, e cosa accada al prodotto dopo la fine dei finanziamenti. Attraverso le relazioni sui sistemi e gli studi di dispiegamento della knowledge base, la lezione ricorrente è che il contesto di dispiegamento, non il modello, è solitamente il vincolo stringente.
+> **Sviluppatori di tecnologie educative** — le persone e le organizzazioni che costruiscono tecnologie educative: progettisti di prodotto, sviluppatori software, learning engineer, progettisti di [[learning-analytics|learning analytics]], e le aziende edtech, i laboratori universitari e i progetti [[open-source|open source]] in cui lavorano. Nell'[[ai-education|IA nell'educazione]] è il ruolo che trasforma una capacità del modello in qualcosa che un [[teacher-role|docente]] o un discente può effettivamente usare. Comporta decisioni che nessuna fase successiva può annullare: su quale evidenza poggia un'affermazione di design, quanto una pipeline analitica o un sistema di [[intelligent-tutoring|tutoraggio]] siano fondati sul materiale concesso in licenza dall'istituzione, e se docenti e discenti sono inclusi nella progettazione. Fissa anche quali assunti di [[learning-design|design didattico]] restano incorporati nei default, e cosa succede al prodotto quando finisce il finanziamento. Attraverso resoconti di sistema e studi di dispiegamento, la lezione ricorrente è che il contesto di dispiegamento, non il modello, è di solito il vincolo stringente.
 
 ## Domande da considerare
 
@@ -75,13 +79,6 @@ Il ruolo è anche distinto dai suoi vicini. [[learning-design]] e [[curriculum-d
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] fornisce gli input di cui una decisione di acquisto ha bisogno: una soglia hardware di 12 GB di VRAM, un tetto di accuratezza per un modello di classe 7B, energia per query, e un ordinamento delle scelte — retrieval per primo (senza di esso il modello otteneva il 52,3%, al di sotto di una baseline TF-IDF), poi fine-tuning, poi compressione quantization-aware. La licenza aperta è la precondizione per servire un corpus localmente. [[reclaiming-epistemic-agency-co-agency-2026]] inquadra la stessa decisione come governance: i requisiti di trasparenza trasformano l'acquisto in governance epistemologica, la contestabilità e la provenienza diventano condizioni, e i distretti con minore capacità si trovano di fronte alla soglia più alta. [[credential-cognitive-stewardship-ai-assessment]] aggiunge che la governance dei fornitori è apparsa in solo il 29% di 30 pacchetti di policy verificati, i quali specificavano molto più prontamente cosa l'IA possa fare che quale evidenza di apprendimento rimanesse. [[genai-mindtool-generative-learning]] pone la domanda di design — il prodotto incoraggia l'apprendimento *con* lo strumento o scarica il lavoro cognitivo — e [[vocabulary-difficulty-prediction]] mostra il compromesso in miniatura: il modello [[explainable-ai|black-box]] col punteggio più alto (r > 0,91) era meno spiegabile di quello interpretabile (r > 0,77).
 
-## Idee sbagliate comuni
-
-- **"Le meta-analisi sostengono l'affermazione di prodotto."** Non lo fanno, e la ragione è specifica più che una questione di grado. Un audit di **14 meta-analisi** che affermano che l'IA migliora l'educazione ha trovato che **nessuna giustificava le proprie affermazioni** — tutte tranne due fallivano sul piano metodologico — e una **meta-analisi ritrattata era ancora citata come autorevole dal 60% degli articoli successivi campionati**. La ritrattazione si è propagata più in fretta della correzione, il che significa che la letteratura che una roadmap è probabilmente destinata a citare contiene affermazioni che il campo ha già ritirato.
-- **"Aggiungere citazioni e provenienza rende un sistema più affidabile."** In un contesto di dibattito [[agentic-ai|multi-agente]], aggiungere citazioni e segnali di autorevolezza alla posizione dell'IA **ha innalzato l'abbandono di un giudizio corretto dal 15,0% al 31,8%**. La provenienza non era informazione neutrale: rendeva la risposta sbagliata più persuasiva. I segnali di credibilità devono essere prove di correttezza, non decorazione attorno a un'affermazione.
-- **"La co-progettazione con gli utenti valida il progetto."** La co-progettazione risponde a una domanda diversa da quella dell'efficacia. Quando uno strumento è co-progettato con gli studenti e **il 96% dice di volerlo mantenuto**, quello è un risultato sull'accettabilità. Se l'apprendimento sia migliorato è una misurazione separata, e le due possono puntare in direzioni opposte senza che nessuna sia sbagliata.
-- **"Gli agenti sono il livello di capacità successivo."** L'ablazione di [[instructional-agents-multi-agent-course-gen|Instructional Agents]] è il controesempio utile: la baseline ad agente singolo ha ottenuto il **punteggio peggiore** e la configurazione Full Co-Pilot ha **superato** quella Autonomous. Più autonomia non era il progetto migliore; lo era l'assetto co-pilot. Le scelte di architettura vanno valutate anziché date per migliori con l'aumentare della capacità.
-
 ## Implicazioni per la pratica
 
 **Per sviluppatori e progettisti**
@@ -95,3 +92,10 @@ Il ruolo è anche distinto dai suoi vicini. [[learning-design]] e [[curriculum-d
 
 - Chiedi come lo strumento è stato valutato sul compito che intendi usare, e se la valutazione era co-pilot o autonoma. Le due non sono intercambiabili.
 - Chiedi quando è avvenuta la valutazione. Le affermazioni di capacità legate a una versione del modello non dichiarata invecchiano in fretta e descrivono un sistema che non eseguirai.
+
+## Idee sbagliate comuni
+
+- **"Le meta-analisi sostengono l'affermazione di prodotto."** Non lo fanno, e la ragione è specifica più che una questione di grado. Un audit di **14 meta-analisi** che affermano che l'IA migliora l'educazione ha trovato che **nessuna giustificava le proprie affermazioni** — tutte tranne due fallivano sul piano metodologico — e una **meta-analisi ritrattata era ancora citata come autorevole dal 60% degli articoli successivi campionati**. La ritrattazione si è propagata più in fretta della correzione, il che significa che la letteratura che una roadmap è probabilmente destinata a citare contiene affermazioni che il campo ha già ritirato.
+- **"Aggiungere citazioni e provenienza rende un sistema più affidabile."** In un contesto di dibattito [[agentic-ai|multi-agente]], aggiungere citazioni e segnali di autorevolezza alla posizione dell'IA **ha innalzato l'abbandono di un giudizio corretto dal 15,0% al 31,8%**. La provenienza non era informazione neutrale: rendeva la risposta sbagliata più persuasiva. I segnali di credibilità devono essere prove di correttezza, non decorazione attorno a un'affermazione.
+- **"La co-progettazione con gli utenti valida il progetto."** La co-progettazione risponde a una domanda diversa da quella dell'efficacia. Quando uno strumento è co-progettato con gli studenti e **il 96% dice di volerlo mantenuto**, quello è un risultato sull'accettabilità. Se l'apprendimento sia migliorato è una misurazione separata, e le due possono puntare in direzioni opposte senza che nessuna sia sbagliata.
+- **"Gli agenti sono il livello di capacità successivo."** L'ablazione di [[instructional-agents-multi-agent-course-gen|Instructional Agents]] è il controesempio utile: la baseline ad agente singolo ha ottenuto il **punteggio peggiore** e la configurazione Full Co-Pilot ha **superato** quella Autonomous. Più autonomia non era il progetto migliore; lo era l'assetto co-pilot. Le scelte di architettura vanno valutate anziché date per migliori con l'aumentare della capacità.

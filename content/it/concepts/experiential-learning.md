@@ -6,7 +6,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-updated: "2026-11-08T13:51:25-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -19,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
 connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Apprendimento esperienziale** — l'apprendimento attraverso l'esperienza diretta, la riflessione e l'applicazione della conoscenza in contesti autentici o pratici ("imparare facendo"). Attingendo al ciclo di apprendimento esperienziale di Kolb (esperienza concreta, osservazione riflessiva, concettualizzazione astratta, sperimentazione attiva), gli approcci esperienziali enfatizzano che chi apprende apprende più profondamente quando agisce, osserva i risultati e riflette. Nell'[[ai-education|educazione all'IA]], l'apprendimento esperienziale comprende laboratori pratici, lavoro basato su progetti, [[educational-robotics|robotica]], [[simulation|simulazioni]] e [[problem-solving|risoluzione di problemi]] del mondo reale.
+> **Apprendimento esperienziale** — apprendimento attraverso l'esperienza diretta, la riflessione e l'applicazione della conoscenza in contesti autentici o pratici ("imparare facendo"). Attingendo al ciclo dell'apprendimento esperienziale di Kolb (esperienza concreta, osservazione riflessiva, concettualizzazione astratta, sperimentazione attiva), gli approcci esperienziali enfatizzano che si impara più profondamente quando si agisce, si osservano i risultati e si riflette. Nell'[[ai-education|IA nell'educazione]], l'apprendimento esperienziale comprende laboratori pratici, lavoro basato su progetti, la [[educational-robotics|robotica educativa]], le [[simulation|simulazioni]] e la [[problem-solving|risoluzione di problemi]] nel mondo reale.
 
 ## Domande da considerare
 
@@ -70,16 +74,6 @@ L'esperienza integrata nel lavoro può essere la condizione vincolante per la co
 
 Su 26 studi con coinvolgimento della comunità, l'IA si concentrava nella preparazione (18) e nell'azione (15) e si diradava nella valutazione (8) e nella riflessione (3), così che le fasi successive e integrative del ciclo restano la lacuna di progettazione nel service-learning ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
-## Idee sbagliate comuni
-
-**"L'apprendimento esperienziale significa attività pratica."** L'attività è la superficie; il meccanismo di apprendimento è il ciclo di fare, riflettere, concettualizzare e verificare. Una sessione di laboratorio senza riflessione strutturata produce familiarità anziché cambiamento concettuale, ed è per questo che "abbiamo aggiunto una componente pratica" non è evidenza di apprendimento esperienziale.
-
-**"L'IA può sostituire l'esperienza nell'apprendimento esperienziale."** Può simulare alcuni sistemi e non può fornire l'esperienza che forma la competenza in domini applicati come l'IA, la cybersecurity e la robotica, dove gli studenti sviluppano abilità lavorando con gli strumenti e i sistemi reali. Un ambiente di sicurezza simulato insegna la procedura; un sistema funzionante insegna la conseguenza di una configurazione errata.
-
-**"Più [[authentic-assessment|compiti autentici]] sono senz'altro meglio."** L'autenticità alza insieme il valore di trasferimento e il problema della valutazione: i sistemi reali producono evidenze variabili e difficili da valutare, e più il compito è autentico meno l'esito somiglia a un punteggio. Il design deve tenere entrambe le cose, ed è per questo che la struttura di riflessione pesa quanto il compito.
-
-**"[[intelligent-tutoring|Il tutoring IA]] si adatta all'apprendimento esperienziale come si adatta ai contenuti frontali."** L'adattamento è più debole, perché un tutor può fornire spiegazioni e non può fornire l'incontro con il sistema. Il suo posto naturale in questa [[pedagogy|pedagogia]] è attorno alle fasi di riflessione e concettualizzazione, dove chi apprende dà senso a ciò che è accaduto — non al posto del fare. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generano l'incontro anziché sceneggiarlo: a partire dagli obiettivi di chi apprende, GELLI costruisce scene situate con personaggi, supporto e riflessione a runtime, e in uno studio within-subjects con 40 studenti giapponesi ha superato i video scritti da esperti sul richiamo lessicale (d = 0,45) e sulla fiducia (d = 0,45) ma non sul parlato.
-
 ## Implicazioni per la pratica
 
 **Per i docenti**
@@ -96,3 +90,13 @@ Su 26 studi con coinvolgimento della comunità, l'IA si concentrava nella prepar
 **Per i progettisti di programmi**
 
 - Verifica che i programmi applicati contengano lavoro applicato anziché proxy di laboratorio; l'affermazione di trasferimento poggia sull'autenticità dell'incontro.
+
+## Idee sbagliate comuni
+
+**"L'apprendimento esperienziale significa attività pratica."** L'attività è la superficie; il meccanismo di apprendimento è il ciclo di fare, riflettere, concettualizzare e verificare. Una sessione di laboratorio senza riflessione strutturata produce familiarità anziché cambiamento concettuale, ed è per questo che "abbiamo aggiunto una componente pratica" non è evidenza di apprendimento esperienziale.
+
+**"L'IA può sostituire l'esperienza nell'apprendimento esperienziale."** Può simulare alcuni sistemi e non può fornire l'esperienza che forma la competenza in domini applicati come l'IA, la cybersecurity e la robotica, dove gli studenti sviluppano abilità lavorando con gli strumenti e i sistemi reali. Un ambiente di sicurezza simulato insegna la procedura; un sistema funzionante insegna la conseguenza di una configurazione errata.
+
+**"Più [[authentic-assessment|compiti autentici]] sono senz'altro meglio."** L'autenticità alza insieme il valore di trasferimento e il problema della valutazione: i sistemi reali producono evidenze variabili e difficili da valutare, e più il compito è autentico meno l'esito somiglia a un punteggio. Il design deve tenere entrambe le cose, ed è per questo che la struttura di riflessione pesa quanto il compito.
+
+**"[[intelligent-tutoring|Il tutoring IA]] si adatta all'apprendimento esperienziale come si adatta ai contenuti frontali."** L'adattamento è più debole, perché un tutor può fornire spiegazioni e non può fornire l'incontro con il sistema. Il suo posto naturale in questa [[pedagogy|pedagogia]] è attorno alle fasi di riflessione e concettualizzazione, dove chi apprende dà senso a ciò che è accaduto — non al posto del fare. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generano l'incontro anziché sceneggiarlo: a partire dagli obiettivi di chi apprende, GELLI costruisce scene situate con personaggi, supporto e riflessione a runtime, e in uno studio within-subjects con 40 studenti giapponesi ha superato i video scritti da esperti sul richiamo lessicale (d = 0,45) e sulla fiducia (d = 0,45) ma non sul parlato.

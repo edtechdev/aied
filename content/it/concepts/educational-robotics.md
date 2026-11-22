@@ -1,7 +1,7 @@
 ---
 title: Robot nell'educazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T11:33:13-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
 connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
@@ -86,6 +90,8 @@ L'**interazione uomo-robot (HRI)** è lo studio interdisciplinare di come person
 Un tema definente è che i robot sono efficaci quando sostengono obiettivi di apprendimento genuini — non come esercizi tecnici isolati. Un proiettore robotico montato su scrivania ha pareggiato con il ChatGPT su laptop quando l'aiuto era disponibile (6,7 vs. 7,3/10, p = 0,41), ma ha mantenuto il proprio punteggio dopo il ritiro (7,0 vs. 4,4/10, p = 0,003), un punteggio di trasferimento a breve termine superiore del 60% — un guadagno dipendente dal compito che gli autori attribuiscono alla co-locazione spaziale anziché a una sostituzione generale ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). Il valore di un robot dipende dal contesto pedagogico: insegnare il pensiero computazionale ([[computational-thinking]]), sostenere le [[stem-education|STEAM]], costruire abilità di [[cs-education|programmazione]], motivare chi apprende ([[motivation|motivazione]], [[student-engagement|coinvolgimento]]), o sostenere l'[[social-emotional-learning|apprendimento socio-emotivo]] e l'[[equity-in-ai-education|inclusione]]. La robotica si collega anche all'[[project-based-learning|apprendimento basato su progetti]], al [[game-based-learning|game-based learning]] e all'[[experiential-learning|apprendimento esperienziale]]. Le considerazioni progettuali chiave includono preservare l'[[agency|agentività]] di chi apprende, costruire la [[trust|fiducia]], sostenere l'[[self-efficacy|autoefficacia]] e ancorare l'apprendimento all'[[embodied-learning|interazione incarnata]]. Nell'[[language-learning|apprendimento linguistico]], le [[robot-assisted-language-learning-meta-analysis-2026|evidenze meta-analitiche]] indicano l'efficacia dell'apprendimento linguistico robot-assistito incarnato.
 
 - **Percorsi verso l'apprendimento della robotica potenziata dall'IA.** [[educational-robotics-pathways-2026|Uno studio qualitativo]] su studenti della scuola superiore in un curricolo robotica+IA ha rilevato apprendimento attraverso la pratica nel mondo reale, la progettazione e l'espressione creativa giocosa (ottica costruttivista, epistemologicamente pluralista).
+
+- Lan e Chen (2026) propongono un test per capire quando un cambio di corpo è adattamento di superficie. Una sostituzione è accettabile solo se il nucleo invariante — obiettivo, ordine delle fasi, regole di ramifica, criteri, persona e proibizioni di tono — gli sopravvive, e una configurazione è respinta quando il nuovo corpo aggiunge esigenze senza far avanzare l'obiettivo ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ## Idee sbagliate comuni
 

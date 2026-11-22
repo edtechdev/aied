@@ -1,7 +1,7 @@
 ---
 title: Imparare insegnando
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
 connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
@@ -65,6 +69,8 @@ Una sfida progettuale centrale per gli agenti insegnabili basati su LLM è che g
 - **[[socrates-students-instructors-llms-lbt-2025|Lacune di conoscenza ingegnerizzate]]** (Yang et al.) progetta problemi che l'LLM non può risolvere senza una conoscenza posseduta solo dallo studente, rendendo necessaria l'azione di insegnare e contrastando l'iperaffidamento passivo tipico dell'uso dell'LLM come tutor.
 - **I vincoli dell'apprendista di Explique** (Wang et al.) impongono all'allievo di (a) restare un principiante, (b) continuare a chiedere chiarimenti finché la spiegazione dello studente non è accurata e (c) non rivelare mai la spiegazione obiettivo — e di *resistere* agli studenti che tentano di invertire i ruoli chiedendo all'allievo di spiegare a sua volta.
 - **L'unlearning come via a livello di pesi verso la fallibilità.** Il machine unlearning sopprime 16 componenti di conoscenza mirati in Mistral-7B, facendo scendere l'accuratezza da circa 0,75 con un rapporto di dimenticanza del 10% a meno di 0,5 al 40%, mentre il modello base si manteneva vicino a 0,85. La conoscenza soppressa è riemersa tramite riapprendimento supervisionato e dialogo guidato dal tutor, per cui il livello di conoscenza dell'allievo è una manopola di regolazione piuttosto che un'affermazione ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+
+- **La supervisione come compito dell'allievo.** In un caso di progettazione condotto su due corsi, gli studenti assumono, formano e affiancano un assistente di uso generale e poi documentano che cosa ha sbagliato; i docenti riferiscono che spiegare le convenzioni allo strumento ha chiarito quelle convenzioni per lo studente ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## Interrogare, autoregolazione e apprendimento attivo
 

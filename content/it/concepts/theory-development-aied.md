@@ -1,7 +1,7 @@
 ---
 title: Sviluppo della teoria nell'IA nell'educazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -79,6 +83,8 @@ Altri lavori estendono la teoria esistente nel contesto dell'IA anziché fondare
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin e Chang (2026)]] estendono l'[[self-regulated-learning|apprendimento autoregolato]] e la regolazione umano–IA nominando ciò che lo studente governa — standard, [[evaluative-judgment|giudizi valutativi]] e autorizzazione del controllo — anziché solo ciò che l'IA fa.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai e Flenady (2026)]] importano il riconoscimento di Honneth e Brandom nella teoria del feedback, sostenendo che l'attribuzione reciproca di status, non la qualità dell'informazione, è ciò che fa di un commento una ragione per agire.
+
 Il paradosso dell'attrito offre un'altra estensione di una teoria consolidata: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] applica le [[desirable-difficulties|difficoltà desiderabili]] di Bjork e Bjork e il [[productive-failure|fallimento produttivo]] di Kapur agli incontri relazionali nell'educazione all'estero, sostenendo che ciò che conta è quanta agenzia interpretativa uno studente [[transfer-of-learning|trasferisce]] a un assistente generativo, non quanto spesso lo usi. Il quadro è concettuale ed enuncia cinque proposizioni come ipotesi concorrenti.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri e Biagini (2026)]] fanno avanzare la tassonomia funzionale del campo di Zawacki-Richter et al. (2019): tra le 154 pubblicazioni con una funzione applicativa classificabile, 90 (58,4%) sfuggivano alle sue quattro categorie, e il loro quadro incrocia la funzione con il controllo delegato, la posizione epistemica e la pedagogia incorporata.
@@ -97,15 +103,7 @@ La teorizzazione del campo è diseguale. [[limitations-in-aied-research|I limiti
 
 ## Relazione con la filosofia dell'IA nell'educazione
 
-Lo sviluppo della teoria e [[philosophy-of-ai-in-education|la filosofia dell'IA nell'educazione]] sono filoni complementari ma distinti del lavoro fondativo della knowledge base. **Lo sviluppo della teoria** produce e verifica empiricamente i *meccanismi* dell'apprendimento-con-IA — teorie e quadri di riferimento nominati come il generativismo, la co-agentività epistemica e la linea di base cognitiva assente che spiegano e prevedono come studenti e IA interagiscono. **La filosofia** interroga le *presupposizioni* su cui quei meccanismi poggiano: cosa conta come conoscenza, chi conta come conoscente, e cosa lo studente fondamentalmente è. Una teoria come [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|la co-agentività epistemica]] propone un meccanismo adottando implicitamente impegni filosofici sulla cognizione distribuita e sull'[[agency|agentività]]; la filosofia rende quegli impegni espliciti e contestabili. Laddove lo sviluppo della teoria chiede se un quadro di riferimento spieghi bene l'apprendimento, la filosofia chiede se colga ciò che apprendimento e mente realmente sono — i due filoni si incontrano negli articoli più fondativi del campo, che spesso fanno entrambe le cose allo stesso tempo.
-
-## Idee sbagliate comuni
-
-**"Un risultato che dimostra che lo strumento ha funzionato è un contributo teorico."** Non lo è, e la ragione è strutturale. Laddove le proposizioni di un quadro predicono *differenze tra configurazioni*, uno studio che riporta solo un effetto medio **non può confermarle né confutarle** — il disegno non vede la distinzione di cui la teoria parla. Una sperimentazione che mostra un guadagno medio dice che qualcosa è accaduto, non quale meccanismo lo ha causato, quindi la teoria resta esattamente tanto sostenuta quanto lo era prima.
-
-**"Applicare una teoria consolidata all'IA è sviluppo della teoria."** Il problema dell'uso della teoria che questa pagina stessa documenta dice il contrario: l'applicazione non è avanzamento, e il modello ricorrente del campo è quello di costrutti presi in prestito usati come vocabolario anziché come predizioni verificabili. La distinzione conta perché un quadro preso in prestito che non riesce a generare una differenza falsificabile è decorazione, non teoria.
-
-**"Le tassonomie esistenti della funzione pedagogica dell'IA coprono già ciò che questi sistemi fanno."** Non ne coprono gran parte. Tra 154 pubblicazioni con una funzione applicativa classificabile, **90 (58,4%) sfuggivano alle quattro categorie** del quadro precedente, ed è per questo che il lavoro più recente incrocia la funzione con il controllo delegato, la posizione epistemica e la pedagogia incorporata. Una tassonomia che classifica male quasi tre casi su cinque non può servire come vocabolario comune del campo, e quel divario è un risultato sul fenomeno, non una lacuna di un articolo.
+Lo sviluppo della teoria e [[philosophy-of-ai-in-education|la filosofia dell'IA nell'educazione]] sono filoni complementari ma distinti del lavoro fondativo della knowledge base. **Lo sviluppo della teoria** produce e verifica empiricamente i *meccanismi* dell'apprendimento-con-IA — teorie e quadri di riferimento nominati come il generativismo, la co-agentività epistemica e la linea di base cognitiva assente che spiegano e prevedono come studenti e IA interagiscono. **La filosofia** interroga le *presupposizioni* su cui quei meccanismi poggiano: cosa conta come conoscenza, chi conta come conoscente, e cosa lo studente fondamentalmente è. Una teoria come [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|la co-agentività epistemica]] propone un meccanismo adottando implicitamente impegni filosofici sulla cognizione distribuita e sull'[[agency|agentività]]; la filosofia rende quegli impegni espliciti e contestabili. Laddove lo sviluppo della teoria chiede se un quadro di riferimento spieghi bene l'apprendimento, la filosofia chiede se colga ciò che apprendimento e mente realmente sono — i due filoni si incontrano negli articoli più fondativi del campo, che spesso fanno entrambe le cose allo stesso tempo. Che cosa dicono i critici del campo sulle direzioni che quelle teorie aprono o chiudono è una questione separata, raccolta sotto [[critiques-of-ai-in-education|Critiche dell'IA nell'educazione]].
 
 ## Implicazioni per la pratica
 
@@ -124,3 +122,11 @@ Lo sviluppo della teoria e [[philosophy-of-ai-in-education|la filosofia dell'IA 
 
 - Progetta contrasti tra configurazioni se intendi dare un contributo teorico. Una sperimentazione a effetto medio pubblicata come sviluppo della teoria è l'output più comune e meno utile del campo.
 - Allega proposizioni falsificabili esplicite a qualsiasi quadro tu introduca, e riporta quali differenze tra configurazioni le avrebbero confutate.
+## Idee sbagliate comuni
+
+**"Un risultato che dimostra che lo strumento ha funzionato è un contributo teorico."** Non lo è, e la ragione è strutturale. Laddove le proposizioni di un quadro predicono *differenze tra configurazioni*, uno studio che riporta solo un effetto medio **non può confermarle né confutarle** — il disegno non vede la distinzione di cui la teoria parla. Una sperimentazione che mostra un guadagno medio dice che qualcosa è accaduto, non quale meccanismo lo ha causato, quindi la teoria resta esattamente tanto sostenuta quanto lo era prima.
+
+**"Applicare una teoria consolidata all'IA è sviluppo della teoria."** Il problema dell'uso della teoria che questa pagina stessa documenta dice il contrario: l'applicazione non è avanzamento, e il modello ricorrente del campo è quello di costrutti presi in prestito usati come vocabolario anziché come predizioni verificabili. La distinzione conta perché un quadro preso in prestito che non riesce a generare una differenza falsificabile è decorazione, non teoria.
+
+**"Le tassonomie esistenti della funzione pedagogica dell'IA coprono già ciò che questi sistemi fanno."** Non ne coprono gran parte. Tra 154 pubblicazioni con una funzione applicativa classificabile, **90 (58,4%) sfuggivano alle quattro categorie** del quadro precedente, ed è per questo che il lavoro più recente incrocia la funzione con il controllo delegato, la posizione epistemica e la pedagogia incorporata. Una tassonomia che classifica male quasi tre casi su cinque non può servire come vocabolario comune del campo, e quel divario è un risultato sul fenomeno, non una lacuna di un articolo.
+

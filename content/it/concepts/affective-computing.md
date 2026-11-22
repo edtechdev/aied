@@ -1,7 +1,7 @@
 ---
 title: "Computazione affettiva"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T11:15:12-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
 connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
@@ -58,7 +62,7 @@ Il tutoring emotivamente consapevole può produrre guadagni misurabili, ma la st
 
 ## L'affective computing e il più ampio ambito dell'AIED
 
-L'affective computing si trova all'intersezione tra [[affective-tutoring]] (la sua applicazione pedagogica), [[student-modeling]] (rappresentare l'intera persona che apprende, emozione inclusa) e [[learning-analytics]] (derivare segnali dai dati di chi apprende). Si collega alla progettazione dell'[[intelligent-tutoring]] e alla [[pedagogical-safety]] — il principio per cui l'IA dovrebbe sostenere, non manipolare, l'emozione di chi apprende.
+L'affective computing si trova all'intersezione tra l'[[affective-tutoring|tutoraggio affettivo]] (la sua applicazione pedagogica), lo [[student-modeling|student modeling]] (rappresentare l'intera persona che apprende, emozione inclusa) e il [[learning-analytics|learning analytics]] (derivare segnali dai dati di chi apprende). Si collega alla progettazione dell'[[intelligent-tutoring|tutoraggio intelligente]] e alla [[pedagogical-safety|sicurezza pedagogica]] — il principio per cui l'IA dovrebbe sostenere, non manipolare, l'emozione di chi apprende. La percezione dell'affetto è distinta dalla pedagogia che alimenta: l'[[affective-tutoring|tutoraggio affettivo]] riguarda come un tutor debba agire su una lettura dell'affetto, e la [[sensor-and-gaze-analytics|sensor and gaze analytics]] riguarda ciò che i segnali stessi possono sostenere.
 
 - **Monitoraggio emotivo in classe in tempo reale su edge.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] costruiscono un sistema di valutazione della qualità della classe emotivamente consapevole che porta l'affective computing in contesti autentici e su larga scala. Pensato per **dispositivi IoT/edge**, il sistema affronta il bilanciamento del carico e la latenza coordinando molteplici agenti per catturare in tempo reale gli schemi emotivi e di engagement degli studenti. È stato valutato sul **Classroom Emotion Dataset** (1.500 immagini etichettate e 300 video di classe provenienti da classi reali vietnamite della K–12) con un'attenzione all'interazione affettiva multi-persona in condizioni reali — una dimostrazione del passaggio di scala del riconoscimento delle emozioni da modelli da laboratorio a monitoraggio in classe dispiegabile, insieme alle considerazioni di privacy e [[pedagogical-safety]] che tale monitoraggio solleva.
 - **Agenti di valutazione emotivamente intelligenti.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], un agente [[conversational-ai|conversazionale]] emotivamente intelligente potenziato da [[llm]], ha ridotto l'[[anxiety-and-stress|ansia]] e la pressione sociale degli studenti durante valutazioni basate sulla performance, preservando al contempo l'[[usability-research|usabilità]].

@@ -1,7 +1,7 @@
 ---
 title: Apprendimento basato sui progetti
 created: "2026-10-14T22:35:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
@@ -67,13 +71,6 @@ Il PBL si collega all'[[active-learning|apprendimento attivo]], all'[[experienti
 
 - L'apprendimento basato sui progetti abbinato alla [[storytelling-in-education|narrazione digitale]] offre una risposta pedagogica all'[[generative-ai|IA generativa]] nell'educazione all'arte e al design. Uno studio di caso integrato di 15 settimane con 426 studenti universitari ha implementato un framework PBL-DS in cui la narrazione digitale fungeva da metodologia primaria per tradurre il patrimonio culturale locale in narrazioni [[multimodal|multimodali]] dal forte impatto emotivo, coltivando le capacità creative che l'IA non possiede.
 
-## Idee sbagliate comuni
-
-- **"L'effetto del PBL è ampio, quindi il PBL con l'IA è affidabilmente ampio."** L'unica meta-analisi a tre livelli di questo abbinamento raggruppa **22 studi controllati (66 dimensioni dell'effetto)** e stima un effetto ampio, **g = 0,819, IC al 95% [0,655, 0,983]** — ma una correzione PET-PEESE lo riduce, e la stima descrive gli studi raggruppati, non il design in generale.
-- **"Personalizzare lo strumento migliora l'esito."** Il tipo di strumento moderava l'effetto in modo significativo (**QM = 14,301, p < 0,001**), e la direzione è controintuitiva: un **chatbot generico usato direttamente otteneva un valore aggregato più alto (g = 0,970)** rispetto a sistemi **personalizzati e integrati nelle piattaforme dei corsi, pazienti virtuali o agenti (g = 0,455)**. Lo strumento nudo superava quello ingegnerizzato, il che depone contro l'assunzione che i prodotti costruiti per lo scopo siano l'acquisto migliore.
-- **"Gli studenti trovano l'apertura la parte difficile."** Nei dati sulla percezione degli studenti, **l'apertura era il tema positivo principale (22,3%)** mentre **le istruzioni poco chiare primeggiavano tra i negativi (23,7%)**. Gli studenti accoglievano la libertà e contestavano l'ambiguità — una distinzione che conta perché la soluzione è diversa: inquadramento del compito più chiaro, non meno lavoro aperto.
-- **"Gli studenti a cui è piaciuto hanno imparato di più."** L'apprendimento percepito correlava con i punteggi dei quiz solo **modestamente (r = 0,161-0,315)**. Soddisfazione e apprendimento misurato sono qui debolmente legati, quindi una valutazione positiva del PBL non è di per sé prova che gli obiettivi di apprendimento siano stati raggiunti.
-
 ## Implicazioni per la pratica
 
 **Per i docenti**
@@ -87,3 +84,10 @@ Il PBL si collega all'[[active-learning|apprendimento attivo]], all'[[experienti
 
 - Il risultato sulla moderazione è un avvertimento di prodotto: ingegnerizzare un chatbot dentro un ambiente su misura coincideva con un effetto aggregato *più piccolo*. Verificare che la personalizzazione aggiunga valore di apprendimento anziché comodità presunta.
 - Se distribuite un modulo PBL, il livello di istruzione è la caratteristica che guadagna l'esito, non il modello.
+## Idee sbagliate comuni
+
+- **"L'effetto del PBL è ampio, quindi il PBL con l'IA è affidabilmente ampio."** L'unica meta-analisi a tre livelli di questo abbinamento raggruppa **22 studi controllati (66 dimensioni dell'effetto)** e stima un effetto ampio, **g = 0,819, IC al 95% [0,655, 0,983]** — ma una correzione PET-PEESE lo riduce, e la stima descrive gli studi raggruppati, non il design in generale.
+- **"Personalizzare lo strumento migliora l'esito."** Il tipo di strumento moderava l'effetto in modo significativo (**QM = 14,301, p < 0,001**), e la direzione è controintuitiva: un **chatbot generico usato direttamente otteneva un valore aggregato più alto (g = 0,970)** rispetto a sistemi **personalizzati e integrati nelle piattaforme dei corsi, pazienti virtuali o agenti (g = 0,455)**. Lo strumento nudo superava quello ingegnerizzato, il che depone contro l'assunzione che i prodotti costruiti per lo scopo siano l'acquisto migliore.
+- **"Gli studenti trovano l'apertura la parte difficile."** Nei dati sulla percezione degli studenti, **l'apertura era il tema positivo principale (22,3%)** mentre **le istruzioni poco chiare primeggiavano tra i negativi (23,7%)**. Gli studenti accoglievano la libertà e contestavano l'ambiguità — una distinzione che conta perché la soluzione è diversa: inquadramento del compito più chiaro, non meno lavoro aperto.
+- **"Gli studenti a cui è piaciuto hanno imparato di più."** L'apprendimento percepito correlava con i punteggi dei quiz solo **modestamente (r = 0,161-0,315)**. Soddisfazione e apprendimento misurato sono qui debolmente legati, quindi una valutazione positiva del PBL non è di per sé prova che gli obiettivi di apprendimento siano stati raggiunti.
+

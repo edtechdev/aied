@@ -1,7 +1,7 @@
 ---
 title: Fraintendimenti sull'IA
 created: "2026-10-14T22:25:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -27,6 +27,10 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
@@ -46,7 +50,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Introduzione
 
-I fraintendimenti sull'IA contano perché sono il precursore cognitivo dei comportamenti dannosi che la knowledge base documenta sotto le voci [[cognitive-offloading|Over-Reliance]] e preoccupazioni di [[academic-integrity|integrità accademica]]. Le persone raramente si propongono di [[ai-misuse-learning-harm|fare un uso improprio]] dell'IA; lo fanno perché modelli mentali inaccurate le inducono a collocare male la fiducia, a saltare la verifica e a trattare l'output come comprensione. Nell'educazione questi errori plasmano tutto, da come gli studenti studiano a come insegnanti e istituzioni progettano curricoli, [[assessment|valutazione]] e politiche.
+I fraintendimenti sull'IA contano perché sono il precursore cognitivo dei comportamenti dannosi che la knowledge base documenta sotto le voci [[cognitive-offloading|Over-Reliance]] e preoccupazioni di [[academic-integrity|integrità accademica]]. Le persone raramente si propongono di [[ai-misuse-learning-harm|fare un uso improprio]] dell'IA; lo fanno perché modelli mentali inaccurate le inducono a collocare male la fiducia, a saltare la verifica e a trattare l'output come comprensione. Nell'educazione questi errori plasmano tutto, da come gli studenti studiano a come insegnanti e istituzioni progettano curricoli, [[assessment|valutazione]] e politiche. Un altro filone di lavoro mette in discussione l'inquadramento che produce questi fraintendimenti in primo luogo; si veda [[critiques-of-ai-in-education|Critiche dell'IA nell'educazione]].
 
 ## Cosa sono i fraintendimenti sull'IA
 

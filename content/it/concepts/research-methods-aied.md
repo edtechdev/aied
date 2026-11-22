@@ -1,7 +1,7 @@
 ---
 title: Metodi di ricerca nell'AIED
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
 connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
@@ -67,6 +71,7 @@ Uno **studio di efficacia** verifica se un intervento produce l'effetto di appre
 - **Limiti:** costosi e lenti; condizioni artificiali possono ridurre la validità ecologica; strumenti di IA in rapido cambiamento fanno datare rapidamente gli esperimenti lunghi; campioni piccoli spesso hanno potenza insufficiente per rilevare effetti significativi; vincoli [[ethics|etici]] nel negare strumenti potenzialmente utili.
 - **Esemplari:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **La preregistrazione si applica alle analisi secondarie, non solo agli studi sperimentali.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ha eseguito quattro regole di aggiornamento del [[knowledge-tracing]] su log ASSISTments identici (12.716 studenti, 985.813 eventi valutati) che differivano solo nel modo in cui valutavano le righe con suggerimenti, ha mantenuto la metà confirmatory sigillata fino all'esistenza di un file contenente l'URL della registrazione, e ha riportato che tutte e quattro le predizioni preregistrate sono state confermate. Attribuire credito a qualsiasi completamento prediceva la prestazione successiva senza aiuto a malapena al di sopra di una costante di difficoltà dell'abilità (AUC pooled 0,604 contro 0,595) dichiarando il 93,9% delle coppie studente–abilità come apprese contro il 72,8% con una regola severa. Quando un singolo log supporta diverse conclusioni, fissare l'analisi in anticipo è ciò che rende credibile il confronto.
+- **Codificare esplicitamente l'esclusione dell'IA.** Un post-test senza IA conta come esclusione verificata solo quando la restrizione è documentata e l'aderenza è controllata; un test supervisionato o su carta da solo non qualifica ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### Studi d'indagine e di modellizzazione con equazioni strutturali
 
@@ -81,7 +86,7 @@ Lo strumento stesso merita uno scrutinio separato. Ciò che un questionario, un'
 
 ### Metodi qualitativi
 
-Interviste, focus group e analisi tematica producono resoconti ricchi e contestuali di come studenti e insegnanti vivono gli strumenti di IA, dei significati che vi attribuiscono, e delle tensioni e dei danni che le misure standardizzate non colgono. [[hazra-safetutors-pedagogical-safety-2026|La ricerca sulla sicurezza dei tutor di IA]] e [[ai-changing-teaching-workflows|su come l'IA cambia i flussi di lavoro dell'insegnamento]] si basano pesantemente su evidenze qualitative. Si veda la pagina concetto dedicata alla [[qualitative-research]] per il trattamento completo degli approcci qualitativi — analisi tematica, grounded theory, fenomenologia/fenomenografia, analisi del discorso, osservazione ed etnografia, studi di caso, e interviste/focus group — ciascuno con esemplari dalla knowledge base.
+Interviste, focus group e analisi tematica producono resoconti ricchi e contestuali di come studenti e insegnanti vivono gli strumenti di IA, dei significati che vi attribuiscono, e delle tensioni e dei danni che le misure standardizzate non colgono. [[hazra-safetutors-pedagogical-safety-2026|La ricerca sulla sicurezza dei tutor di IA]] e [[ai-changing-teaching-workflows|su come l'IA cambia i flussi di lavoro dell'insegnamento]] si basano pesantemente su evidenze qualitative. Si veda la pagina concetto dedicata alla [[qualitative-research]] per il trattamento completo degli approcci qualitativi — analisi tematica, grounded theory, fenomenologia/fenomenografia, analisi del discorso, osservazione ed etnografia, studi di caso, e interviste/focus group — ciascuno con [[rubrics|esemplari]] dalla knowledge base.
 
 - **Punti di forza:** approfondimento ecologico e concettuale; porta in superficie fenomeni, rischi e meccanismi inattesi; essenziale per la costruzione di teoria e per lo studio di costrutti contestati come fiducia, [[agency|autonomia]] e paternità.
 - **Limiti:** generalizzabilità limitata; interpretativo e dipendente dal ricercatore; campioni piccoli; supporto più debole per le affermazioni causali; i risultati possono essere difficili da sintetizzare tra studi.
@@ -111,6 +116,7 @@ Le revisioni sintetizzano la base di evidenze anziché condurre un nuovo esperim
 
 - **Punti di forza:** sintesi efficiente di una letteratura ampia e frammentata; la meta-analisi produce stime di effetto aggregate e rileva moderatori; essenziale per la pratica basata sulle evidenze e per identificare le lacune.
 - **Limiti:** dipendono dalla qualità degli studi inclusi (garbage-in/garbage-out); bias di pubblicazione; metodi e misure di esito eterogenei rendono difficile la sintesi; invecchiano rapidamente dato il ritmo del cambiamento nell'IA.
+- **La riproducibilità della ricerca.** Le classifiche di pertinenza di Google Scholar sono dinamiche, quindi una ricerca PRISMA che le include non può essere completamente riprodotta dalla sola query ([[ai-mathematics-education-prisma-review-2026|Omirzakova e Tileubay (2026)]]).
 - **Avvertenza meta-ricerca (2026):** le critiche alla base di sintesi dell'AIED mostrano che molte meta-analisi precoci sono minate da incoerenza dei costrutti, eterogeneità irrisolta, dipendenza non affrontata tra le dimensioni dell'effetto, e valutazione invalida del bias di pubblicazione — gonfiando le dimensioni dell'effetto headline dell'IA (si vedano [[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]] e [[weidlich-chatgpt-effect-search-cause-2025]]). Trattate le dimensioni dell'effetto aggregate dell'AIED come limiti superiori.
 - **Esemplari:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
@@ -129,7 +135,7 @@ La valutazione computazionale valuta i [[ai-technologies|sistemi di IA]] diretta
 
 ### Altri disegni: studi longitudinali, di caso e di simulazione
 
-Oltre le famiglie principali, la knowledge base usa disegni **longitudinali** che seguono chi apprende nel tempo ([[ai-lms-middle-school-longitudinal|uno studio longitudinale su un LMS]]), studi **di caso e in the wild** su usi autentici ([[ai-in-the-wild-college|analisi su larga scala di interazioni reali tra studenti]]), e studi di **simulazione** in cui gli LLM sostituiscono studenti o pazienti ([[llm-student-simulation-teacher-insights|gli LLM come studenti simulati]], [[simulation]]). Questi scambiano ampiezza o controllo con realismo e con l'accesso a fenomeni altrimenti difficili da osservare.
+Oltre le famiglie principali, la knowledge base usa disegni **[[longitudinal-research|longitudinali]]** che seguono chi apprende nel tempo ([[ai-lms-middle-school-longitudinal|uno studio longitudinale su un LMS]]), studi **di caso e in the wild** su usi autentici ([[ai-in-the-wild-college|analisi su larga scala di interazioni reali tra studenti]]), e studi di **simulazione** in cui gli LLM sostituiscono studenti o pazienti ([[llm-student-simulation-teacher-insights|gli LLM come studenti simulati]], [[simulation]]). Questi scambiano ampiezza o controllo con realismo e con l'accesso a fenomeni altrimenti difficili da osservare.
 
 ### Metodi di consenso tra esperti: la tecnica Delphi
 

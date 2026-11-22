@@ -1,7 +1,7 @@
 ---
 title: "E-portfolio (portafoglio elettronico)"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T13:51:25-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -22,24 +22,28 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
 connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **E-Portfolio (e-portfolio)** — una raccolta digitale del lavoro di chi apprende, delle sue riflessioni e delle prove del suo raggiungimento, utilizzata per la [[assessment|valutazione]], l'apprendimento e la valutazione complessiva. Nell'era dell'IA, gli e-portfolio si sono affermati come una forma di valutazione relativamente **robusta rispetto all'IA e assistita dall'IA**: catturano il *processo* di apprendimento (ragionamento, stesura, riflessione) anziché solo il manufatto finale, il che li rende preziosi di fronte al crollo del manufatto-come-proxy, e l'[[generative-ai|IA generativa]] può supportarne la creazione, il [[feedback]] e la valutazione.
+> **E-Portfolio (e-portfolio)** — una raccolta digitale dei lavori, delle riflessioni e delle evidenze di realizzazione di chi apprende, usata per la [[assessment|valutazione]], l'apprendimento e il controllo. Nell'era dell'IA, gli e-portfolio sono emersi come una forma di valutazione relativamente **robusta rispetto all'IA e assistita dall'IA**: catturano il *processo* dell'apprendimento (ragionamento, stesura, riflessione) anziché solo l'artefatto finale.
 
 ## Domande da considerare
 
 - Un e-portfolio cattura il processo di apprendimento — bozze, revisioni, riflessioni — non solo il manufatto finale. Perché il processo potrebbe essere esattamente ciò che l'IA non può facilmente fabbricare, e cosa rende i portfolio utili in una classe fortemente basata sull'IA?
 - Con l'IA in grado di produrre prodotti finali rifiniti su richiesta, il 'manufatto-come-proxy' dell'apprendimento è crollato. Cosa pensi che un valutatore possa apprendere da un portfolio che non può più trarre da un singolo saggio o esame consegnato?
 - Alcune ricerche raccomandano portfolio annotati, difese orali e percorsi registrati per sondare il ragionamento in tempo reale, a specchio della pratica professionale. Quanto diverso renderebbe tutto ciò la valutazione rispetto ai saggi e agli esami che avete sostenuto — ed equo o più difficile da scalare?
-- L'IA può supportare il processo stesso del portfolio — fornendo feedback, aiutando la stesura e [[prompt-engineering|sollecitando]] la riflessione. Dov'è il confine tra l'IA che aiuta genuinamente uno studente a imparare e l'IA che compie silenziosamente il ragionamento che il portfolio è destinato a rivelare?
+- L'IA può supportare il processo stesso del portfolio — fornendo [[feedback|feedback]], aiutando la stesura e [[prompt-engineering|sollecitando]] la riflessione. Dov'è il confine tra l'IA che aiuta genuinamente uno studente a imparare e l'IA che compie silenziosamente il ragionamento che il portfolio è destinato a rivelare?
 
 ## Introduzione
 
-Gli e-portfolio sono una forma di [[authentic-assessment|valutazione autentica]] e di [[formative-assessment|valutazione formativa]]: raccolgono il lavoro degli studenti nel tempo, spesso con commenti riflessivi, in un corpo di evidenze che può essere valutato in modo olistico. La loro forza è che mettono in luce il *processo* di apprendimento — bozze, revisioni, feedback e [[reflection|autoriflessione]] — che è esattamente ciò che l'IA non può facilmente fabbricare e che i valutatori devono esaminare per valutare l'apprendimento genuino. Questo rende i portfolio un candidato privilegiato per la riprogettazione della valutazione nell'era dell'IA generativa.
+Gli e-portfolio sono una forma di [[authentic-assessment|valutazione autentica]] e di [[formative-assessment|valutazione formativa]]: raccolgono il lavoro degli studenti nel tempo, spesso con commenti riflessivi, in un corpo di evidenze che può essere valutato in modo olistico. La loro forza è che mettono in luce il *processo* di apprendimento — bozze, revisioni, feedback e [[reflection|autoriflessione]] — che è esattamente ciò che l'IA non può facilmente fabbricare e che i valutatori devono esaminare per valutare l'apprendimento genuino. Questo rende i portfolio un candidato privilegiato per la riprogettazione della valutazione nell'era dell'[[generative-ai|IA generativa]].
 
 ## E-portfolio nell'era dell'IA
 
@@ -55,16 +59,6 @@ La ricerca della knowledge base mostra che gli e-portfolio sono sempre più cent
 ## Perché gli e-portfolio contano per l'integrazione dell'IA
 
 Poiché gli e-portfolio mettono in primo piano **processo, riflessione e comprensione dimostrata** rispetto a un singolo manufatto finale, affrontano direttamente il problema centrale dell'IA: quando l'IA può produrre un prodotto rifinito, il prodotto non testimonia più il coinvolgimento che sta dietro di esso. Gli e-portfolio spostano la valutazione verso le evidenze che sopravvivono — bozze, revisioni, tracce di ragionamento e [[self-assessment|autovalutazione]] riflessiva — mentre l'IA stessa può assistere nella generazione di feedback, nell'[[scaffolding|impalcatura]] della riflessione e (con un'adeguata progettazione della rubrica) nel supporto alla valutazione. Questo rende gli e-portfolio un caposaldo della [[authentic-assessment|valutazione autentica]], della [[formative-assessment|valutazione formativa]] e della [[process-oriented-assessment|valutazione basata sul processo]] nell'era dell'[[generative-ai|IA generativa]], e una sede naturale per la [[feedback-literacy|competenza sul feedback]] e l'[[self-regulated-learning|apprendimento autoregolato]].
-
-## Idee sbagliate comuni
-
-**"Un e-portfolio è una cartella digitale di lavori finiti."** Il valore valutativo viene dalla cattura del *processo* — ragionamento, stesura, revisione, riflessione — più che dal manufatto finale. È precisamente per questo che gli e-portfolio sono relativamente robusti rispetto all'IA: quando il manufatto può essere generato, una valutazione costruita sul processo conserva le evidenze che una costruita sul prodotto ha perso.
-
-**"L'IA rende gli e-portfolio facili da falsificare quanto i saggi."** La modalità di fallimento è diversa, e le evidenze mostrano il formato che si muove nella direzione opposta. Combinare ChatGPT con la valutazione tramite e-portfolio (un modello CEA) nel parlato in EFL ha prodotto guadagni significativi nella performance oratoria (**F(1) = 48,554, p<.001**) e nella [[feedback-literacy|competenza sul feedback]] (**F(1) = 16,135, p<.001**), con gli e-portfolio a sostenere lo strato riflessivo. Il portfolio non è diventato l'anello debole quando l'IA è entrata nel corso; ha portato la valutazione.
-
-**"Un risultato multivariato significativo prova che il portfolio era l'ingrediente attivo."** Prova che il pacchetto ha mosso gli esiti. Lo studio combinava uno strumento di IA, una struttura di portfolio e compiti di parlato, e un disegno di quella forma non può isolare quale componente abbia prodotto il guadagno. L'affermazione difendibile riguarda la combinazione, e vale la cautela dei [[learning-gains|guadagni di apprendimento]]: i guadagni riportati vanno ricondotti a una componente prima di poter essere riusati.
-
-**"Gli e-portfolio sostituiscono la necessità di una valutazione senza assistenza."** La completano. Un portfolio testimonia processo e crescita nel tempo; non testimonia ciò che un discente sa fare senza supporto, e confondere le due cose reintroduce il problema del manufatto-come-proxy che il formato era stato adottato per risolvere.
 
 ## Implicazioni per la pratica
 
@@ -82,3 +76,13 @@ Poiché gli e-portfolio mettono in primo piano **processo, riflessione e compren
 **Per i ricercatori**
 
 - Progetta per isolare le componenti quando studi pacchetti IA-più-portfolio; altrimenti il campo accumula effetti di combinazione che non riesce a scomporre.
+
+## Idee sbagliate comuni
+
+**"Un e-portfolio è una cartella digitale di lavori finiti."** Il valore valutativo viene dalla cattura del *processo* — ragionamento, stesura, revisione, riflessione — più che dal manufatto finale. È precisamente per questo che gli e-portfolio sono relativamente robusti rispetto all'IA: quando il manufatto può essere generato, una valutazione costruita sul processo conserva le evidenze che una costruita sul prodotto ha perso.
+
+**"L'IA rende gli e-portfolio facili da falsificare quanto i saggi."** La modalità di fallimento è diversa, e le evidenze mostrano il formato che si muove nella direzione opposta. Combinare ChatGPT con la valutazione tramite e-portfolio (un modello CEA) nel parlato in EFL ha prodotto guadagni significativi nella performance oratoria (**F(1) = 48,554, p<.001**) e nella [[feedback-literacy|competenza sul feedback]] (**F(1) = 16,135, p<.001**), con gli e-portfolio a sostenere lo strato riflessivo. Il portfolio non è diventato l'anello debole quando l'IA è entrata nel corso; ha portato la valutazione.
+
+**"Un risultato multivariato significativo prova che il portfolio era l'ingrediente attivo."** Prova che il pacchetto ha mosso gli esiti. Lo studio combinava uno strumento di IA, una struttura di portfolio e compiti di parlato, e un disegno di quella forma non può isolare quale componente abbia prodotto il guadagno. L'affermazione difendibile riguarda la combinazione, e vale la cautela dei [[learning-gains|guadagni di apprendimento]]: i guadagni riportati vanno ricondotti a una componente prima di poter essere riusati.
+
+**"Gli e-portfolio sostituiscono la necessità di una valutazione senza assistenza."** La completano. Un portfolio testimonia processo e crescita nel tempo; non testimonia ciò che un discente sa fare senza supporto, e confondere le due cose reintroduce il problema del manufatto-come-proxy che il formato era stato adottato per risolvere.

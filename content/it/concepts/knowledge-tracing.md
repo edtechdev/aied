@@ -1,7 +1,7 @@
 ---
 title: "Tracciamento delle conoscenze"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learners, student-modeling, knowledge-graph, adaptive-learning, personalized-learning, intelligent-tutoring, learning-analytics, formative-assessment, ai-education, ai-ed-evaluation, multimodal, teacher-role, cognitive-offloading, llm, simulating-students, recommender-systems-and-learning-paths, student-support-and-success]
 connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-interpretable-knowledge-tracing-2026, thymen-temporal-hypergraph-knowledge-tracing-2026, skill-acquisition-without-temporal-info, xie-hillm-cd-2026, zerkouk-comprehensive-review-its-2025, graph-its-adaptive-algorithms-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, schuetze-knowledge-tracing-forgetting-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, crediting-assisted-work-inflates-mastery-2026, system-one-llm-knowledge-tracing-2026, knowledge-tracing-compression-math-2026]
@@ -84,16 +88,6 @@ Il knowledge tracing è strettamente correlato alla [[student-modeling|modellazi
 
 - **Un LLM a passaggio singolo può tracciare la conoscenza prima che qualsiasi studente sia registrato.** Interrogato come una sola domanda tipizzata senza dati della piattaforma bersaglio, Jev ha raggiunto un'AUC media di .706, al di sopra del migliore di 28 modelli di tracing profondi addestrati su 8 studenti (.689) e in testa finché il tracing supervisionato non lo raggiunge a 64-128 studenti ([[system-one-llm-knowledge-tracing-2026|Lee & Park, 2026]]).
 
-## Idee sbagliate comuni
-
-**"Un'etichetta di padronanza significa che il discente la possiede."** La padronanza non è la correttezza — un discente può apparire padroneggiato e applicare sistematicamente male un'abilità ogni volta che una condizione nascosta è violata — e il valore dell'etichetta dipende dalla regola di conteggio che la sottende. Accreditare i completamenti dichiarati ha marcato come padroneggiate **il 93,9% di 113.428 coppie studente-abilità** contro il **72,8%** con una regola rigorosa, e le coppie che la regola indulgente dichiarava avanti raggiungevano solo il **70,9% di accuratezza non assistita**. Due regole difendibili hanno prodotto una differenza di 21 punti su chi veniva dichiarato pronto.
-
-**"Sono i modelli sequenziali a rendere accurato il tracing."** Gran parte del guadagno apparente costa meno di così. Su 1.927.265 risposte di matematica di 8.996 studenti finlandesi, la sola identità dell'item raggiungeva **AUC 0,8362**, e aggiungere una singola misura di recenza rispetto alla difficoltà dell'item la portava a **0,866**. Una quota ampia di ciò che i modelli sequenziali profondi acquistano è disponibile da una baseline di difficoltà dell'item più la recenza, quindi i confronti tra architetture hanno bisogno di quella baseline per essere significativi.
-
-**"Il modello migliore su un dataset è il modello migliore per il tuo corso."** L'accuratezza è specifica del contesto. OKT raggiungeva **l'89,81% di AUC** sui dati LMS reali di un programma di [[engineering-education|ingegneria]] (2.416 studenti, 966 esiti), battendo DKT, DKVMN, EKT e SimpleKT — mentre su ASSISTments dava solo risultati competitivi. La stessa architettura che vince su una famiglia di dataset è insignificante su un'altra, quindi un'AUC da prima pagina ottenuta altrove è un'evidenza debole sui tuoi studenti.
-
-**"La conoscenza persiste se non c'è evidenza di dimenticanza."** La dimenticanza è il default che vale la pena modellare. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan e Carvalho (2025)]] hanno adattato BKT, BKT-with-Forgetting e l'Additive Factors Model lungo una sequenza multi-sessione e hanno trovato che l'adattamento cambia quando la ritenzione è rappresentata, e che il modo in cui questi modelli sono *validati* differisce da come sono *dispiegati*.
-
 ## Implicazioni per la pratica
 
 **Per gli insegnanti**
@@ -112,3 +106,13 @@ Il knowledge tracing è strettamente correlato alla [[student-modeling|modellazi
 
 - Riportate i risultati su più di una famiglia di dataset prima di rivendicare superiorità architetturale, poiché il contrasto di OKT si inverte tra i dati LMS di ingegneria e ASSISTments.
 - Riportate la regola di conteggio della padronanza come parametro del risultato, non come nota metodologica.
+
+## Idee sbagliate comuni
+
+**"Un'etichetta di padronanza significa che il discente la possiede."** La padronanza non è la correttezza — un discente può apparire padroneggiato e applicare sistematicamente male un'abilità ogni volta che una condizione nascosta è violata — e il valore dell'etichetta dipende dalla regola di conteggio che la sottende. Accreditare i completamenti dichiarati ha marcato come padroneggiate **il 93,9% di 113.428 coppie studente-abilità** contro il **72,8%** con una regola rigorosa, e le coppie che la regola indulgente dichiarava avanti raggiungevano solo il **70,9% di accuratezza non assistita**. Due regole difendibili hanno prodotto una differenza di 21 punti su chi veniva dichiarato pronto.
+
+**"Sono i modelli sequenziali a rendere accurato il tracing."** Gran parte del guadagno apparente costa meno di così. Su 1.927.265 risposte di matematica di 8.996 studenti finlandesi, la sola identità dell'item raggiungeva **AUC 0,8362**, e aggiungere una singola misura di recenza rispetto alla difficoltà dell'item la portava a **0,866**. Una quota ampia di ciò che i modelli sequenziali profondi acquistano è disponibile da una baseline di difficoltà dell'item più la recenza, quindi i confronti tra architetture hanno bisogno di quella baseline per essere significativi.
+
+**"Il modello migliore su un dataset è il modello migliore per il tuo corso."** L'accuratezza è specifica del contesto. OKT raggiungeva **l'89,81% di AUC** sui dati LMS reali di un programma di [[engineering-education|ingegneria]] (2.416 studenti, 966 esiti), battendo DKT, DKVMN, EKT e SimpleKT — mentre su ASSISTments dava solo risultati competitivi. La stessa architettura che vince su una famiglia di dataset è insignificante su un'altra, quindi un'AUC da prima pagina ottenuta altrove è un'evidenza debole sui tuoi studenti.
+
+**"La conoscenza persiste se non c'è evidenza di dimenticanza."** La dimenticanza è il default che vale la pena modellare. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan e Carvalho (2025)]] hanno adattato BKT, BKT-with-Forgetting e l'Additive Factors Model lungo una sequenza multi-sessione e hanno trovato che l'adattamento cambia quando la ritenzione è rappresentata, e che il modo in cui questi modelli sono *validati* differisce da come sono *dispiegati*.

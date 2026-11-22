@@ -1,7 +1,7 @@
 ---
 title: Sorveglianza degli esami a distanza
 created: "2026-10-14T22:00:00-04:00"
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -22,6 +22,10 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
 connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
 ---
@@ -34,7 +38,7 @@ connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-on
 
 - Prima di leggere: quando immaginate l'"integrità accademica negli esami online", qual è il vostro primo istinto su come preservarla — e quell'istinto riguarda l'individuare chi bara o il costruire fiducia? La pagina sostiene che i due riflettono filosofie molto diverse.
 - La sorveglianza degli esami a distanza va da un essere umano che osserva via webcam a sistemi di IA che analizzano i movimenti degli occhi, la postura della testa e le espressioni facciali. Cosa osserva *effettivamente* un sistema di IA quando segnala un "comportamento sospetto", e quanto siete sicuri che guardare via dallo schermo equivalga a barare?
-- La pagina avverte che il monitoraggio può essere controproducente: essere osservati aumenta l'[[anxiety-and-stress|ansia da esame]], e gli studenti stressati possono essere *più* propensi a barare. Riuscite a pensare a un momento in cui la pressione o la sorveglianza hanno inciso sul vostro rendimento? Quell'esperienza indebolisce il caso a favore della sorveglianza?
+- La pagina avverte che il monitoraggio può essere controproducente: essere osservati aumenta l'ansia da esame, e gli studenti stressati possono essere *più* propensi a barare. Riuscite a pensare a un momento in cui la pressione o la sorveglianza hanno inciso sul vostro rendimento? Quell'esperienza indebolisce il caso a favore della sorveglianza?
 - La sorveglianza automatizzata cattura lo spazio abitativo, il volto e la voce degli studenti, spesso con poca scelta reale se non quella di acconsentire. Dov'è il confine tra una supervisione ragionevole dell'esame e una sorveglianza che presume gli studenti colpevoli fino a prova contraria — e chi dovrebbe tracciarlo?
 - La ricerca mostra che la sorveglianza può segnalare comportamenti innocui come sospetti, producendo accuse infondate, e che l'accuratezza dei modelli varia tra dati demografici e ambienti. Se siete un [[administrator]], come soppesate l'integrità che recupera contro l'equità e la fiducia che può erodere?
 - La pagina inquadra la sorveglianza come uno strumento, non una soluzione — esistono alternative come la valutazione orale e la [[process-oriented-assessment|valutazione basata sul processo]]. Prima di leggere: quale approccio difendereste per una valutazione ad alte poste in gioco in un contesto a distanza, e quali evidenze vi farebbero cambiare idea?

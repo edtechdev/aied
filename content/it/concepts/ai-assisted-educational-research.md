@@ -1,7 +1,7 @@
 ---
 title: Ricerca educativa assistita dall'IA
 created: "2026-10-14T23:30:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 translation_of: "concepts/ai-assisted-educational-research"
 source_updated: "2026-11-17T11:05:00-05:00"
@@ -82,6 +86,8 @@ La loro conclusione è una divisione del lavoro anziché un passaggio di consegn
 Una valutazione favorevole non implicava idoneità alla delega. Tra 118 articoli su LLM con valutazioni solo positive, il 52% riportava comunque almeno una preoccupazione che il flusso di lavoro scendesse sotto il livello richiesto per il proprio ruolo. L'accesso ai modelli era in misura schiacciante proprietario: l'84.1% dell'uso di LLM si basava su sistemi proprietari o ospitati, l'11.0% era misto, e solo il 4.9% era a pesi aperti.
 
 Da questi schemi gli autori derivano PRISMA-LLM, un quadro a tre livelli i cui cinque livelli di implementazione sono fasce di divulgazione anziché fasce di rischio. È una proposta offerta per essere testata, non un'estensione ufficiale avallata dal PRISMA Executive. Il silenzio a livello di articolo, avvertono, non è prova che la validazione sia assente — può risiedere in un rapporto di prodotto, in un protocollo o in un repository.
+
+**Una lente regolatoria sulla stessa automazione.** [[zhang-executor-partner-genai-systematic-review-2026|Zhang, Wang e Maeda (2026)]] chiedono non cosa fa la GenAI in una revisione, ma chi regola il lavoro. Trattando una revisione sistematica come un sistema di apprendimento regolato, mappano le attività della revisione su previsione, prestazione e riflessione, poi distinguono tre ruoli: la GenAI come esecutore delegato all'interno di strutture definite dall'umano, come influenza co-regolatoria sulle decisioni del revisore, e come partner nella regolazione socialmente condivisa. Applicando il framework a 60 sintesi di evidenze assistite da GenAI, hanno rilevato un uso dichiarato schiacciante nel ruolo di esecutore, con co-regolazione episodica e poca evidenza di regolazione condivisa. Ciò è coerente con lo schema a livello di strumento qui sopra, dove l'automazione si concentra nella selezione e nell'estrazione, e aggiunge una diagnosi: un passaggio può essere utile sul piano procedurale lasciando intatti monitoraggio, giudizio e adattamento del revisore.
 
 ## Codifica e analisi qualitativa
 

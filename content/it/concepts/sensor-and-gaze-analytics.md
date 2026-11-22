@@ -1,7 +1,7 @@
 ---
 title: Sensori e analisi dello sguardo
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
 connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
@@ -39,7 +43,7 @@ connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-
 
 ## Introduzione
 
-Sensori e analisi dello sguardo descrivono una famiglia di metodi che trasformano misurazioni fisiche di chi apprende in inferenze educative. Le misurazioni includono dove si posano gli occhi e per quanto tempo, l'attività elettrica del cuoio capelluto, le risposte delle ghiandole sudoripare, la variazione battito per battito della frequenza cardiaca e la posizione e il movimento di testa e tronco. Le inferenze includono attenzione, coinvolgimento, carico cognitivo, confusione, stress e, nei contesti di valutazione, sospetto.
+Sensori e analisi dello sguardo descrivono una famiglia di metodi che trasformano misurazioni fisiche di chi apprende in inferenze educative. Le misurazioni includono dove si posano gli occhi e per quanto tempo, l'attività elettrica del cuoio capelluto, le risposte delle ghiandole sudoripare, la variazione battito per battito della frequenza cardiaca e la posizione e il movimento di testa e tronco. Le inferenze includono attenzione, coinvolgimento, carico cognitivo, confusione, stress e, nei contesti di valutazione, sospetto. L'focus è quel livello di misurazione: per il programma più ampio e le sue affermazioni, si veda [[affective-computing|affective computing]]; per come un tutor dovrebbe agire su un'inferenza quando ne dispone, si veda [[affective-tutoring|affective tutoring]].
 
 L'attrattiva è diretta. Le [[self-report-measures|autovalutazioni]] sono retrospettive e grossolane, e i quiz campionano l'apprendimento in pochi momenti. I sensori funzionano in continuo e costano a chi apprende poco sforzo cosciente. Quella combinazione ha reso il rilevamento centrale per la [[learning-analytics|learning analytics]] e la [[student-modeling|modellazione dello studente]], e ha prodotto una letteratura ampia in cui il rilevamento è tecnicamente impressionante e l'interpretazione è sottile.
 
@@ -50,6 +54,8 @@ Una [[meta-analysis-systematic-review|rassegna sistematica]] di 23 studi che acc
 **Sguardo e fissazione.** Gli eye tracker riportano dove punta l'occhio, per quanto tempo si sofferma, quando compie saccadi e quanto ampiamente si disperde. Sistemi basati sullo schermo come WebGazer stimano lo sguardo da una webcam, mentre gli occhiali tracciano l'occhio direttamente. TutorLoop converte lo sguardo in due quantità: l'attenzione come percentuale di punti di sguardo dentro l'area dei contenuti, e il carico come entropia dello sguardo, sul ragionamento che uno sguardo disperso segua il carico cognitivo ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Ollie, un assistente informato dallo sguardo per bambini, definisce invece aree di interesse in un'immagine e avvia la narrazione quando un bambino ne guarda una ([[gaze-informed-ai-children|Wu et al., 2026]]).
 
 **Elettroencefalografia.** L'EEG registra fluttuazioni di tensione sul cuoio capelluto con alta risoluzione temporale. È l'unico segnale di questa famiglia che raggiunge direttamente l'attività corticale, ed è per questo che attira la ricerca sulla valutazione. I sistemi educativi pratici usano elettrodi asciutti e pochi canali: E3Sense ha preso quattro canali EEG asciutti a 125 Hz e ne ha analizzati due frontali ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Gli impianti di livello di ricerca fanno il contrario: Kosmyna et al. (2025) hanno usato EEG a 32 canali per confrontare studenti che scrivevano con un [[llm|LLM]], con un motore di ricerca o senza strumenti, e hanno trovato la connettività neurale più debole nel gruppo LLM ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et al., 2025]]). Quello studio è anche l'avvertimento più chiaro sull'evidenza a canale singolo, perché la sua tesi centrale si regge su una sessione di crossover facoltativa a cui hanno partecipato solo 18 dei 54 partecipanti.
+
+**Iperscansione fNIRS.** Registrare due persone che apprendono insieme misura la sincronia inter-cerebrale, non un unico cervello: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] hanno trovato che i [[rubrics|esemplari]] attribuiti ad esseri umani aumentavano la sincronia premotoria e l'unicità delle idee, che l'attribuzione all'IA la riduceva, e che nessuno dei due guadagni comportamentali sopravviveva alla sospensione.
 
 **Attività elettrodermica.** L'EDA misura la conduttanza delle ghiandole sudoripare, un indice dell'attivazione simpatica. Risponde a stress, sforzo e intensità emotiva, e non sa distinguerli. Lo stesso costrutto compare nei bracciali e negli elettrodi frontali fissati a pochi centimetri di distanza da una montatura di eye tracker ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]).
 
@@ -84,6 +90,8 @@ La [[assessment-validity|validazione]] può gonfiare il modello. Un benchmark di
 Un correlato neurale non è un punteggio. Le immagini ricostruite dall'EEG correlavano con la prestazione al test a R² = 0,79 su 55 osservazioni partecipante-video. Gli item risposti correttamente mostravano anche una similarità semantica più alta di quelli sbagliati. Eppure un partecipante ha prodotto ricostruzioni di alta qualità e ha risposto in modo errato, quindi la qualità della ricostruzione non può essere letta come correttezza ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 L'attenzione non è apprendimento. In TutorLoop l'attenzione correlava con l'apprendimento a r = 0,017, mentre il carico correlava negativamente a r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un sistema che massimizzasse il segnale di attenzione avrebbe ottimizzato qualcosa di molto vicino al rumore.
+
+Un segnale può anche invertire il costrutto. In 37 [[simulation|simulazioni]] infermieristiche registrate, un rilevatore di sorrisi correlava negativamente con l'[[empathy|empatia]] valutata dagli osservatori (r = −0,322), mentre il rilevamento del contatto fisico concordava con quattro misure degli osservatori tra 0,46 e 0,54; gli osservatori leggevano un sorriso davanti a un paziente in dolore come incongruenza, e il modello leggeva l'azione facciale ([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
 
 Un sensore può registrare la co-presenza dove uno studio afferma l'interazione: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] hanno trovato che un rilevatore basato sulla posa raggiungeva solo il 55% di recall, cogliendo 11 dei 20 eventi identificati dai codificatori umani nelle interazioni di gruppo insegnante–studenti. L'[[teacher-role|insegnante]] era presente dentro il confine del gruppo nel 49,2% dei segmenti codificati mentre gli studenti guardavano l'insegnante solo nel 25,4%, e nessuna caratteristica audio cambiava in nessuno dei due confronti, quindi la pipeline registrava la co-presenza spaziale anziché l'interazione sostenuta.
 

@@ -1,7 +1,7 @@
 ---
 title: Risoluzione dei problemi
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
 connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
@@ -57,7 +61,7 @@ Il carattere duplice dell'IA per la risoluzione dei problemi è coerente attrave
 
 ### Implicazioni
 
-Per gli educatori, il bilancio delle evidenze punta a un'integrazione strutturata e orientata al processo: l'addestramento al [[prompt-engineering|prompt engineering]] sposta gli studenti da un'[[student-ai-interaction|interazione con l'IA]] improduttiva a produttiva, l'incorporare l'IA all'interno di compiti di indagine collaborativa produce [[learning-gains|guadagni]] durevoli, e l'uso deliberato degli errori dell'IA come provocazioni converte una limitazione in un'opportunità di apprendimento. Per i designer, il rinvenimento coerente che l'efficienza non equivale ad apprendimento profondo argomenta a favore di un'IA che mette in questione, sfida e sostiene con scaffold anziché risponde. Per le istituzioni, l'integrazione responsabile richiede di abbinare la [[generative-ai|GenAI]] a un addestramento esplicito all'[[ai-literacy|alfabetizzazione sull'IA]] e a rubriche di valutazione che premiano il ragionamento e la giustificazione rispetto ai prodotti corretti. Il tema ricorrente nei lavori fondati sulla [[cognitive-psychology|psicologia cognitiva]] è che la risoluzione dei problemi si apprende attraverso un coinvolgimento faticoso — e il ruolo dell'IA dovrebbe essere preservare quello sforzo, non cancellarlo.
+Per gli educatori, il bilancio delle evidenze punta a un'integrazione strutturata e orientata al processo: l'addestramento al [[prompt-engineering|prompt engineering]] sposta gli studenti da un'[[student-ai-interaction|interazione con l'IA]] improduttiva a produttiva, l'incorporare l'IA all'interno di compiti di indagine collaborativa produce [[learning-gains|guadagni]] durevoli, e l'uso deliberato degli errori dell'IA come provocazioni converte una limitazione in un'opportunità di apprendimento. Per i designer, il rinvenimento coerente che l'efficienza non equivale ad apprendimento profondo argomenta a favore di un'IA che mette in questione, sfida e sostiene con scaffold anziché risponde. Per le istituzioni, l'integrazione responsabile richiede di abbinare la [[generative-ai|GenAI]] a un addestramento esplicito all'[[ai-literacy|alfabetizzazione sull'IA]] e a [[rubrics|rubriche]] di valutazione che premiano il ragionamento e la giustificazione rispetto ai prodotti corretti. Il tema ricorrente nei lavori fondati sulla [[cognitive-psychology|psicologia cognitiva]] è che la risoluzione dei problemi si apprende attraverso un coinvolgimento faticoso — e il ruolo dell'IA dovrebbe essere preservare quello sforzo, non cancellarlo.
 
 ### Collegamenti con altri concetti
 
@@ -70,14 +74,6 @@ La risoluzione dei problemi è l'esito applicato del [[critical-thinking|pensier
 ### Codifica automatizzata delle abilità CPS
 
 - Misurare la competenza di [[collaborative-learning|risoluzione collaborativa dei problemi (CPS)]] richiede tipicamente di codificare il comportamento a partire da dati di processo di compiti simulati in abilità CPS specifiche. Il [[prompt-engineering|prompting consapevole del contesto]] di modelli linguistici pre-addestrati può automatizzare questa codifica, modellando le dipendenze contestuali e fondendo abilità cognitive e sociali per ottenere prestazioni superiori a robuste baseline sui dataset di compiti CPS — affrontando l'intensità di lavoro della codifica manuale e abilitando una valutazione su larga scala e in tempo reale.
-
-## Idee sbagliate comuni
-
-**«Un'IA che aiuta gli studenti a esplorare prospettive li sta aiutando a pensare.»** Lo stesso comportamento sostiene due esiti molto diversi: gli strumenti di IA aiutano gli studenti a esplorare molteplici prospettive e a generare i propri problemi, e possono anche incoraggiare la pigrizia metacognitiva. La domanda che distingue è se è lo studente a fare l'inquadramento o a riceverlo — un sistema che fornisce prospettive candidate ha già svolto il passo generativo che l'esercizio esisteva per richiedere.
-
-**«La risoluzione dei problemi è l'obiettivo, quindi porre problemi è un extra.»** Porre problemi è dove si costruisce il transfer, perché richiede a chi apprende di costruire la struttura anziché operare dentro una struttura fornita dal sistema. Un [[curriculum-design|curricolo]] che fornisce sempre e solo problemi ben formati addestra la prestazione su problemi ben formati, che non è la condizione che gli studenti incontrano dopo.
-
-**«Simulare la risoluzione collaborativa dei problemi sostituisce la collaborazione.»** Una simulazione riproduce il pattern di interazione, e l'abilità che si sviluppa è la regolazione di un problema congiunto da parte di partecipanti realmente presenti. Gli agenti specifici per partecipante che modellano collaboratori reali sono uno strumento di ricerca per studiare quella regolazione — utili per ciò che rivelano sul processo, non un modo per dare agli studenti la pratica senza i pari.
 
 ## Implicazioni per la pratica
 
@@ -95,3 +91,11 @@ La risoluzione dei problemi è l'esito applicato del [[critical-thinking|pensier
 **Per i ricercatori**
 
 - Le simulazioni con agenti specifici per partecipante sono uno strumento forte per studiare la regolazione collaborativa. Riportatele come tali, non come evidenza sulla collaborazione non supervisionata tra studenti.
+## Idee sbagliate comuni
+
+**«Un'IA che aiuta gli studenti a esplorare prospettive li sta aiutando a pensare.»** Lo stesso comportamento sostiene due esiti molto diversi: gli strumenti di IA aiutano gli studenti a esplorare molteplici prospettive e a generare i propri problemi, e possono anche incoraggiare la pigrizia metacognitiva. La domanda che distingue è se è lo studente a fare l'inquadramento o a riceverlo — un sistema che fornisce prospettive candidate ha già svolto il passo generativo che l'esercizio esisteva per richiedere.
+
+**«La risoluzione dei problemi è l'obiettivo, quindi porre problemi è un extra.»** Porre problemi è dove si costruisce il transfer, perché richiede a chi apprende di costruire la struttura anziché operare dentro una struttura fornita dal sistema. Un [[curriculum-design|curricolo]] che fornisce sempre e solo problemi ben formati addestra la prestazione su problemi ben formati, che non è la condizione che gli studenti incontrano dopo.
+
+**«Simulare la risoluzione collaborativa dei problemi sostituisce la collaborazione.»** Una simulazione riproduce il pattern di interazione, e l'abilità che si sviluppa è la regolazione di un problema congiunto da parte di partecipanti realmente presenti. Gli agenti specifici per partecipante che modellano collaboratori reali sono uno strumento di ricerca per studiare quella regolazione — utili per ciò che rivelano sul processo, non un modo per dare agli studenti la pratica senza i pari.
+

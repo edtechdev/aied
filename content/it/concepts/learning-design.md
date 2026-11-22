@@ -1,7 +1,7 @@
 ---
 title: Progettazione dell'apprendimento
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -28,8 +28,12 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 translation_of: "concepts/learning-design"
-source_updated: "2026-11-20T09:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
@@ -74,7 +78,7 @@ Laddove i materiali generati risultano carenti è nell'aderenza al curricolo: se
 
 **Vincolare lo strumento per proteggere il pensiero.** Una progettazione di scrittura argomentativa di nove settimane ha sequenziato [[conversational-ai|chatbot]] delimitati dall'insegnante che fanno domande e rifiutano di generare la prosa dello studente, e quattro studenti delle superiori sono passati da consumatori passivi dell'IA a valutatori che respingevano gli output — il vincolo strategico, non la generatività senza restrizioni, ha tracciato i guadagni ([[making-ai-annoying-constrained-writing-2026|Konradt, Boote & Taub (2026)]]).
 
-**Il prompting guidato dalla rubrica come leva di progettazione.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] hanno dimostrato che la rubrica funziona come interfaccia mediatrice tra intenzione pedagogica umana e inferenza della macchina: trattare i criteri di valutazione come artefatti di progettazione revisionabili — anziché come strumenti fissi — e co-perfezionarli iterativamente con l'LLM ha innalzato l'accordo LLM–umano sul lavoro di progettazione degli studenti dal 54,75% all'81,25%. Le rubriche ingegnerizzate per gli LLM devono bilanciare precisione e flessibilità — troppo vaghe invitano la libera interpretazione, troppo rigide riducono il modello al pattern-matching — e il prompting consapevole del ruolo (istruttore, revisore tra pari, revisore di sovvenzioni) produceva feedback valutativi distinti. Questo posiziona l'ingegnerizzazione delle rubriche come una pratica concreta di progettazione dell'apprendimento per plasmare il comportamento valutativo dell'IA, con la supervisione human-in-the-loop che resta essenziale.
+**Il prompting guidato dalla rubrica come leva di progettazione.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] hanno dimostrato che la [[rubrics|rubrica]] funziona come interfaccia mediatrice tra intenzione pedagogica umana e inferenza della macchina: trattare i criteri di valutazione come artefatti di progettazione revisionabili — anziché come strumenti fissi — e co-perfezionarli iterativamente con l'LLM ha innalzato l'accordo LLM–umano sul lavoro di progettazione degli studenti dal 54,75% all'81,25%. Le rubriche ingegnerizzate per gli LLM devono bilanciare precisione e flessibilità — troppo vaghe invitano la libera interpretazione, troppo rigide riducono il modello al pattern-matching — e il prompting consapevole del ruolo (istruttore, revisore tra pari, revisore di sovvenzioni) produceva feedback valutativi distinti. Questo posiziona l'ingegnerizzazione delle rubriche come una pratica concreta di progettazione dell'apprendimento per plasmare il comportamento valutativo dell'IA, con la supervisione human-in-the-loop che resta essenziale.
 
 **Gli agenti IA per la progettazione didattica** estendono il campo verso l'[[agentic-ai|IA agentica]]. L'**[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** è il primo benchmark standardizzato e fondato sulla teoria per valutare agenti di progettazione didattica basati su LLM — la sua Context Matrix di 25.795 scenari (51 variabili contestuali × 33 sotto-passi ISD dell'ADDIE) mostra che gli agenti fondati su framework ISD classici (ADDIE, Dick & Carey, Rapid Prototyping ISD) superano gli agenti privi di teoria, validando empiricamente che la progettazione didattica è una disciplina strutturata anziché un compito di prompting generico. Gli agenti non sono solo *costruttori* di progettazioni ma anche *critici* di esse: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] usano un singolo agente web autonomo che naviga una lezione online a più passaggi come uno studente per valutare una progettazione dell'apprendimento *prima* che studenti reali vi si impegnino — la sua descrizione dell'[[student-experience|esperienza dello studente]] predice dove i novizi abbandoneranno e porta alla luce feedback di progettazione azionabile, superando ogni baseline e persino una coorte simulata di studenti su un corso globale di CS1. Questo inquadra la valutazione agentica pre-lancio come un complemento a basso costo dell'iterazione umana della progettazione. I **[[wang-multi-agent-systems-learning-designers-2025]]** e gli **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** esplorano framework multi-agente che orchestrano agenti basati sul ruolo attorno a modelli di progettazione didattica, mentre l'**[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** esamina come insegnanti e agenti applichino congiuntamente la conoscenza tecnologica-pedagogica-dei contenuti. Questo lavoro collega la progettazione didattica al [[benchmark|benchmarking]], alla [[ai-ed-evaluation|valutazione dell'IA in educazione]] e alla progettazione del [[curriculum-design|curricolo]] su larga scala.
 
@@ -128,6 +132,8 @@ Fowlin et al. (2026) aggiungono una mossa operativa per decidere dove entra l'IA
 - **I progettisti chiedono governabilità, non autonomia.** Otto progettisti didattici che testavano una piattaforma di generazione di item ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]) volevano controllo su difficoltà, formato e provenienza, la valutavano 78,8 sulla SUS, e indicavano la fiducia come condizione per l'adozione.
 
 La progettazione modera gli effetti più della tecnologia nella sintesi di Zhang e colleghi: la stessa capacità della GenAI produceva g = 0,92 quando era il discente a dirigerla e g = 0,34 quando correva in autonomia. La modalità di interazione è quindi una decisione progettuale anziché una proprietà dello strumento ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
+**Un ciclo di progettazione e verifica per l'apprendimento riflessivo.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] propongono SAREL — specificare la capacità riflessiva e un comparatore non basato sull'IA; assegnare il controllo a chi apprende e un percorso accessibile equivalente; richiedere riflessione e verifica; valutare l'apprendimento insieme a equità, carico di lavoro e uso delle risorse; riportare l'evidenza nel ridisegno — come modo per mantenere la riflessione supportata dall'IA una questione progettuale comparativa anziché un beneficio assunto dell'adozione. Le cinque fasi sono una proposta di autore non validata, offerta per inquadrare le domande giuste anziché come un metodo testato.
 
 ## Fraintendimenti comuni
 

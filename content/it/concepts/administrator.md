@@ -1,7 +1,7 @@
 ---
 title: Amministratori
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T11:15:12-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-31"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [educational-policy-ai, governance, regulation, higher-ed, edtech-platform, learning-analytics, privacy, llm, generative-ai, student-experience, stakeholders, educational-development, teacher-role, ai-literacy, student-support-and-success]
 connected_articles: [sposato-ai-educational-leadership-taxonomy-2025, baroudi-anticipatory-governance-ai-higher-ed-2026, alrahmi-org-drivers-ai-adoption-he-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, genai-policies-higher-ed-computing, institutional-change-framework-ai, edtech-privacy-deferral-2026, students-at-stake-ai-deployment-risks-2026]
@@ -60,14 +64,7 @@ L'adozione dell'IA in educazione non è una decisione puramente di classe; è an
 
 ## Collegamenti
 
-La prospettiva dell'amministratore si collega alle [[educational-policy-ai|politiche educative sull'IA]] (formazione delle politiche), alla [[governance|governance]] e alla [[regulation|regolamentazione]] (governance), alle [[edtech-platform|piattaforme edtech]] (approvvigionamento e infrastrutture), alle [[learning-analytics|learning analytics]] (dati istituzionali) e all'[[higher-ed|istruzione superiore]]. Le decisioni degli amministratori abilitano o limitano il lavoro su [[educational-development|sviluppo educativo]], [[teacher-role|ruolo del docente]] e [[ai-literacy|alfabetizzazione sull'IA]] trattato altrove nella knowledge base.
-
-## Idee sbagliate comuni
-
-- **"La priorità strategica implica capacità strategica."** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] ha rilevato che solo il **7% delle istituzioni aveva creato ruoli dirigenziali senior per l'IA** anche se il **49% trattava l'IA come priorità strategica**. Il divario non è indifferenza: è che l'intento è stato dichiarato mentre la struttura che dovrebbe portarlo non è stata finanziata. Leggere una strategia di IA pubblicata come evidenza di prontezza istituzionale sopravvaluta ciò che esiste.
-- **"Le cifre di adozione misurano la prontezza."** L'uso dichiarato e l'uso governato sono quantità diverse, e le evidenze di questa pagina le separano: le istituzioni riportano intento strategico in circa metà della popolazione e capacità di leadership in meno di un decimo. Un'indagine che mostra che il personale usa l'IA dice che cosa gli individui hanno già fatto senza permesso, non che cosa l'istituzione possa sostenere o supervisionare.
-- **"L'approvvigionamento è un passaggio amministrativo."** Dove la capacità si acquista anziché costruirla, i termini contrattuali decidono che cosa diventa possibile in seguito — proprietà dei dati, accesso all'audit e se lo strumento possa essere valutato in assoluto. Una decisione sui fornitori presa come compito d'acquisto preclude domande di valutazione che l'istituzione non ha ancora posto.
-- **"La governance può seguire l'adozione."** L'affermazione sulla sequenza è comune e qui non è supportata: le evidenze documentano il modello opposto, con politiche e strutture di leadership che inseguono un uso già in corso. Una governance inquadrata come qualcosa da costruire dopo il dispiegamento è una governance costruita da una posizione di minore leva.
+La prospettiva dell'amministratore si collega alle [[educational-policy-ai|politiche educative sull'IA]] (formazione delle politiche), alla [[governance|governance]] e alla [[regulation|regolamentazione]] (governance), alle [[edtech-platform|piattaforme edtech]] (approvvigionamento e infrastrutture), alle [[learning-analytics|learning analytics]] (dati istituzionali) e all'[[higher-ed|istruzione superiore]]. Le decisioni degli amministratori abilitano o limitano il lavoro su [[educational-development|sviluppo educativo]], [[teacher-role|ruolo del docente]] e [[ai-literacy|alfabetizzazione sull'IA]] che da esse dipende.
 
 ## Implicazioni per la pratica
 
@@ -75,5 +72,14 @@ La prospettiva dell'amministratore si collega alle [[educational-policy-ai|polit
 
 - Metta a budget il ruolo di leadership, non solo il documento di strategia. Quando il 49% dichiara l'IA come priorità e il 7% crea ruoli senior, il vincolo stringente è l'allocazione anziché la convinzione.
 - Chieda su che cosa uno strumento possa essere valutato prima di firmare. Se il contratto non consente l'accesso agli esiti, ai dati di audit o ai dettagli d'uso, l'istituzione ha acquistato una capacità che non può valutare.
+- **Definisca la sede amministrativa prima del dispiegamento.** Ospiti un canale di supporto centralizzato dove si trovano già i suoi dati e considera la condivisione dei dati tra uffici come un'infrastruttura di valutazione: alla CSUN la proprietà del Registrar ha sostenuto il programma per quattro anni, mentre registri non condivisi hanno reso la maggior parte delle campagne mirate non valutabile ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page (2026)]]).
 - Indaghi l'uso effettivo anziché l'uso autorizzato, perché i due divergono e il numero non autorizzato è quello che porta un rischio a cui si è già esposti.
 - Anticipi la politica rispetto al dispiegamento dove la leva esiste ancora. Una volta che l'uso è diffuso, la politica diventa negoziazione con una pratica già assestata.
+
+
+## Idee sbagliate comuni
+
+- **"La priorità strategica implica capacità strategica."** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] ha rilevato che solo il **7% delle istituzioni aveva creato ruoli dirigenziali senior per l'IA** anche se il **49% trattava l'IA come priorità strategica**. Il divario non è indifferenza: è che l'intento è stato dichiarato mentre la struttura che dovrebbe portarlo non è stata finanziata. Leggere una strategia di IA pubblicata come evidenza di prontezza istituzionale sopravvaluta ciò che esiste.
+- **"Le cifre di adozione misurano la prontezza."** L'uso dichiarato e l'uso governato sono quantità diverse, e le evidenze di questa pagina le separano: le istituzioni riportano intento strategico in circa metà della popolazione e capacità di leadership in meno di un decimo. Un'indagine che mostra che il personale usa l'IA dice che cosa gli individui hanno già fatto senza permesso, non che cosa l'istituzione possa sostenere o supervisionare.
+- **"L'approvvigionamento è un passaggio amministrativo."** Dove la capacità si acquista anziché costruirla, i termini contrattuali decidono che cosa diventa possibile in seguito — proprietà dei dati, accesso all'audit e se lo strumento possa essere valutato in assoluto. Una decisione sui fornitori presa come compito d'acquisto preclude domande di valutazione che l'istituzione non ha ancora posto.
+- **"La governance può seguire l'adozione."** L'affermazione sulla sequenza è comune e qui non è supportata: le evidenze documentano il modello opposto, con politiche e strutture di leadership che inseguono un uso già in corso. Una governance inquadrata come qualcosa da costruire dopo il dispiegamento è una governance costruita da una posizione di minore leva.

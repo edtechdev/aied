@@ -1,7 +1,7 @@
 ---
 title: "Scienze dell'apprendimento"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-22T11:00:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
 connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
@@ -82,13 +86,6 @@ La [[pedagogy|pedagogia]] e la [[learning-design|progettazione dell'apprendiment
 
 I risultati contano solo una volta che raggiungono l'insegnamento, e quel viaggio passa attraverso tre pagine. Lo [[educational-development|sviluppo educativo]] è la pratica istituzionale che li veicola — sviluppo della facoltà, standard, policy e [[learner-identity|lavoro sull'identità]] decidono se una progettazione validata raggiunge mai un'aula, ed è per questo che l'evidenza del campo guida regolarmente ciò che le istituzioni hanno implementato. La [[teacher-education|formazione degli insegnanti]] è dove la conoscenza deve atterrare prima che un insegnante entri in classe, e il [[teacher-role|ruolo dell'insegnante]] è dove atterra dopo, nel giudizio momento per momento su quando intervenire, quale strumento usare, e quando lasciare uno studente da solo. Nessuna delle tre produce risultati di scienze dell'apprendimento; tutte e tre decidono se quei risultati cambiano la pratica.
 
-## Idee sbagliate comuni
-
-- **"Una soglia di padronanza alta garantisce che chi apprende sappia discriminare."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] hanno condotto **undici esperimenti (N = 192)** con sistemi di [[intelligent-tutoring|tutoring intelligente]] e hanno trovato che a una **soglia di padronanza del 95% il sistema arrestava la pratica prima che chi apprendeva incontrasse un caso che richiedeva di trattenere l'azione**, per cui il difetto restava non rilevato. La padronanza dell'azione non includeva il sapere quando non applicarla, e la soglia certificava il costrutto sbagliato.
-- **"Più esempi sono più sicuri."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] trattano il rapporto esempio-problema come un'**interazione contenuto-trattamento**, e in un esperimento 2×2 l'ottimo **dipendeva dal contenuto**. Non esiste un rapporto globalmente corretto, quindi un template didattico fisso è una scommessa contro un'interazione.
-- **"Correggere l'[[misconceptions|idea sbagliata]] è questione di dire agli studenti la risposta giusta."** Una breve pratica "non agire" con [[feedback]] che nomina il vincolo mancante ha ridotto l'applicazione erronea a **0,0%-23,1% (h di Cohen 1,70-2,44)**, e un'analisi secondaria di **tredici dataset K-12 di *Decimal Point*** ha trovato lo stesso schema strutturale. L'intervento efficace era la pratica discriminante con feedback mirato, non la correzione per asserzione — che è ciò che il lavoro sulla [[refutation-text|confutazione]] stabilisce in generale.
-- **"Un livello di Bloom più alto significa più [[active-learning|apprendimento attivo]]."** Il tipo di apprendimento seguiva il livello di esito atteso, con l'**Acquisizione che scendeva da circa il 50% delle attività al livello 1 di Bloom a circa il 20% al livello 6**. La domanda cognitiva e il tipo di attività si muovono insieme ma non sono lo stesso asse, quindi etichettare un compito per livello di Bloom non dice che cosa gli studenti ne faranno.
-
 ## Implicazioni per la pratica
 
 **Per gli insegnanti**
@@ -103,3 +100,10 @@ I risultati contano solo una volta che raggiungono l'insegnamento, e quel viaggi
 - Non fermate la pratica sulla sola correttezza. Modellate la condizione di trattenimento come un'abilità a sé, o il sistema certificherà l'ipergeneralizzazione.
 - Lasciate che il rapporto sia un parametro anziché una costante, perché l'evidenza dice che l'ottimo dipende dal contenuto.
 - Riportate quale costrutto misura il vostro criterio, separatamente da quale costrutto misura la vostra validazione.
+
+## Idee sbagliate comuni
+
+- **"Una soglia di padronanza alta garantisce che chi apprende sappia discriminare."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] hanno condotto **undici esperimenti (N = 192)** con sistemi di [[intelligent-tutoring|tutoring intelligente]] e hanno trovato che a una **soglia di padronanza del 95% il sistema arrestava la pratica prima che chi apprendeva incontrasse un caso che richiedeva di trattenere l'azione**, per cui il difetto restava non rilevato. La padronanza dell'azione non includeva il sapere quando non applicarla, e la soglia certificava il costrutto sbagliato.
+- **"Più esempi sono più sicuri."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] trattano il rapporto esempio-problema come un'**interazione contenuto-trattamento**, e in un esperimento 2×2 l'ottimo **dipendeva dal contenuto**. Non esiste un rapporto globalmente corretto, quindi un template didattico fisso è una scommessa contro un'interazione.
+- **"Correggere l'[[misconceptions|idea sbagliata]] è questione di dire agli studenti la risposta giusta."** Una breve pratica "non agire" con [[feedback]] che nomina il vincolo mancante ha ridotto l'applicazione erronea a **0,0%-23,1% (h di Cohen 1,70-2,44)**, e un'analisi secondaria di **tredici dataset K-12 di *Decimal Point*** ha trovato lo stesso schema strutturale. L'intervento efficace era la pratica discriminante con feedback mirato, non la correzione per asserzione — che è ciò che il lavoro sulla [[refutation-text|confutazione]] stabilisce in generale.
+- **"Un livello di Bloom più alto significa più [[active-learning|apprendimento attivo]]."** Il tipo di apprendimento seguiva il livello di esito atteso, con l'**Acquisizione che scendeva da circa il 50% delle attività al livello 1 di Bloom a circa il 20% al livello 6**. La domanda cognitiva e il tipo di attività si muovono insieme ma non sono lo stesso asse, quindi etichettare un compito per livello di Bloom non dice che cosa gli studenti ne faranno.
