@@ -23,7 +23,7 @@ ai_assist:
     date: "2026-10-31"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

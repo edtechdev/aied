@@ -23,8 +23,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

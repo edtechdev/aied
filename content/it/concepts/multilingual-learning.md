@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

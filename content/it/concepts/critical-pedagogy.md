@@ -21,7 +21,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy, critiques-of-ai-in-education]
 connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
