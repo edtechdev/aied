@@ -1,0 +1,88 @@
+---
+title: "A Scoping Review of Generative Artificial Intelligence Boundaries in Educational Assessment Systems"
+created: "2026-11-22T09:30:00-05:00"
+updated: "2026-11-22T09:30:00-05:00"
+published: "2026-09-01"
+type: article
+authors: ["Ali Mikaeili", "Reyhaneh Bastani", "Soroush Sabbaghan"]
+venue: "Canadian Journal of Learning and Technology"
+evidence_context: educational
+foundations: [ai-education, academic-integrity, limitations-in-aied-research]
+technology: [generative-ai, llm, human-in-the-loop-ai, prompt-engineering]
+assessment: [assessment-validity, automated-assessment, feedback, automated-essay-scoring, formative-assessment, summative-assessment, evaluative-judgment]
+methods: [meta-analysis-systematic-review]
+institutions: [governance, educational-policy-ai, institutional-ai-infrastructure]
+ethics: [equity-in-ai-education, privacy, trust, automation-bias, hallucination-risk]
+research_method: [literature review]
+level: [higher ed]
+audience: [researchers, instructors, instructional designers, administrators, policymakers]
+page_kind: [synthesis]
+sources: ["raw/papers/mikaeili-genai-boundaries-assessment-systems-scoping-review-2026.md"]
+confidence: high
+contributors: [editor]
+ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: drafting
+    date: "2026-11-22"
+    agent: hermes-agent
+source_depth: full text
+verified: [citation, numbers, quotes, links]
+---
+
+> **Synthesis:** Mikaeili, Bastani, and Sabbaghan (2026) map how [[generative-ai|generative artificial intelligence]] functions across [[assessment|educational assessment]] systems and what boundaries govern its defensible use. Following PRISMA-ScR reporting guidance, they searched ERIC, Web of Science, and Scopus for English-language peer-reviewed articles published between January 2023 and December 2025, retrieving 1,360 records on January 7, 2026 and retaining 43 that met inclusion criteria. [[automated-assessment|Automated scoring]] and grading dominate the corpus, while [[feedback]] generation, analytic support, item generation, integrity surveillance, and administration form smaller clusters. Across studies, acceptable use is framed as conditional rather than autonomous, bounded by validity, reliability, fairness, interpretability, [[privacy]], [[pedagogy|pedagogical]] alignment, and [[governance]], and no included study supported fully autonomous high-stakes assessment. Human judgment remains the reference standard, humans act as designers, trainers, and moderators, and institutions carry unevenly specified responsibilities for policy, training, and validation. The authors conclude that reliability and responsibility are emergent properties of assessment system design rather than technical metrics, so generative AI does not relax the foundational requirements of [[assessment-validity|assessment validity]].
+
+## Key Findings
+
+- **Scoring and grading dominate.** Seventy percent of the 43 included studies made automated scoring or grading the primary role of generative AI, with feedback generation at 14 percent, analytic support at 9 percent, and design, integrity surveillance, and administration each at 2 or 3 percent.
+- **Use is conditional, never autonomous.** Acceptable use was consistently bounded by validity, reliability, fairness, interpretability, privacy, pedagogical alignment, and governance, and none of the 43 studies supported fully autonomous high-stakes assessment.
+- **Six boundary types recur.** Validity, reliability, interpretability, fairness and bias, ethical and privacy, and pedagogical alignment structured appropriateness, and violations were treated as threats to the interpretive validity of outcomes rather than minor technical shortcomings.
+- **Conditions nest rather than form a single threshold.** Appropriateness emerged from graduated layers of explicit criteria and task boundedness, human oversight, ethical safeguards, and institutional governance, and relaxing the innermost layer carried the most immediate validity risks regardless of outer governance.
+- **Human authority stays central.** Human judgment served as the reference standard for evaluating outputs, humans acted as designers, trainers, and moderators, and human-out-of-the-loop operation was rarely endorsed and unacceptable for consequential decisions.
+- **Institutional governance is underdeveloped.** Policy articulation, assessment design, faculty training, and monitoring were largely absent from the corpus, while student AI literacy was frequently underdeveloped.
+- **Failure modes cluster where constructs are complex.** Score inflation and rubric drift appeared in writing, second-language bias and detector errors in language testing, hallucinated reasoning in STEM, inconsistent grading in medical and professional education, and cultural bias in creative assessment.
+
+## How the Review Was Built
+
+This is a [[meta-analysis-systematic-review|scoping review]] that followed PRISMA-ScR reporting guidance as a transparent reporting framework rather than a methodological prescription. The search ran on January 7, 2026, in ERIC, Web of Science, and Scopus using Boolean strings that combined model-specific and category-level generative AI terms with assessment terms, limited to peer-reviewed English-language journal articles on student assessment published between January 2023 and December 2025. The search yielded 1,360 records: 617 from ERIC, 296 from Web of Science, and 447 from Scopus. Two reviewers independently screened titles and abstracts against principled boundary language, system-level assessment framing, explicit educational context, and specified limits or human roles, reducing the corpus to 195; 25 duplicates were then removed, leaving 170 for full-text review. Full-text eligibility required substantive engagement with assessment systems, operationalized as addressing at least two of six assessment functions (scoring, grading, feedback generation, item generation, analytic coding, and integrity monitoring) and at least one of six boundary categories (validity, reliability, fairness, governance, interpretability, or human oversight), or explicit articulation of human–AI role configurations. A further 127 were excluded, yielding 43 studies.
+
+Both reviewers charted all 43 studies independently with a structured template recording bibliographic characteristics, assessment context, GenAI function, judgment configuration, boundary type, governance framing, and supporting evidence, resolving disagreements through discussion or adjudication. Analysis proceeded across four dimensions derived a priori from the research questions: assessment functions, conditions governing use, configurations of judgment, and system-level considerations of validity, integrity, and governance. Seven of the 43 studies addressed STEM contexts such as science and [[medical-education|medical education]], and none focused primarily on programming or [[cs-education|computer science]] assessment; publication counts clustered in recent years. The included studies spanned [[higher-ed|higher education]], second-language writing, medical education, and large-scale testing contexts.
+
+## Where GenAI Sits in the Assessment Lifecycle
+
+The most prevalent use was [[automated-assessment|automated scoring]] of written and constructed responses, with many studies treating [[llm|large language models]] as rubric-applying raters for essays, short answers, and extended responses. Rubrics were analytic (assessing performance across multiple distinct criteria) or holistic (assigning a single overall score), and generated scores were compared with human ratings for agreement, reliability, and bias. Scoring proved highly sensitive to prompt design and rubric specification, with small variations producing meaningful shifts in score distributions and agreement metrics; some work positioned GenAI instead as a bounded design aid supporting rubric mediation, assessment structure, or system-level alignment.
+
+Presence categories were assigned by relative frequency. Scoring and grading were predominant; [[feedback|feedback]] generation and rubric mediation were common; item generation and analytic support were moderate; administration was rare; and integrity surveillance was emerging. Figure 4 concentrates the distribution: 70 percent covered [[automated-essay-scoring|automated essay scoring]], rubric-based grading, and placement scoring, 14 percent feedback generation and formative assessment support, 9 percent analytic support, and 2 to 3 percent each for design, integrity surveillance, and administration. GenAI was rarely deployed as a fully autonomous assessor; it operated within established assessment logics such as rubrics, proficiency frameworks, and psychometric pipelines. Across the included studies, it was most frequently examined in relation to [[evaluative-judgment|evaluative judgment]] tasks within existing systems. Uses extended toward decision support, with generated analytic rubric scores aggregated into placement bands and automated scoring examined in admissions and placement contexts. Upstream roles included task and rubric generation within human-in-the-loop workflows, critique of standards alignment, and encoding open-ended data into analytic indicators. Only one study positioned GenAI as an assessment [[administrator]], describing a [[conversational-ai|conversational agent]] conducting a structured [[self-regulated-learning|self-regulated learning]] interview. Integrity surveillance work covered [[academic-integrity|academic integrity]] detection infrastructures and assessment redesign. The review treats these as distinct capabilities across the assessment lifecycle rather than one tool, with [[formative-assessment|formative]] and [[summative-assessment|summative]] purposes carrying different stakes.
+
+## Six Boundaries and Nested Conditions
+
+Across the 43 studies, appropriate use was articulated through six recurring boundary categories rather than a single approval threshold. Validity covered construct interpretation accuracy and captured concerns such as construct underrepresentation, figurative language errors, and weak convergent validity. Reliability covered output consistency across runs, with non-determinism, low intraclass correlation and quadratic weighted kappa values, and hallucinated outputs reported. Interpretability covered transparent scoring rationales and was threatened by black-box scoring, rationale mismatches, and opaque behavior. [[equity-in-ai-education|Fairness]] and bias covered the absence of systematic bias, with multilingual bias, detector false positives, and data imbalance documented. Ethical and [[privacy|privacy]] boundaries covered data protection compliance, including FERPA and GDPR gaps, proprietary opacity, and data exposure. Pedagogical alignment covered instruction–assessment coherence and raised [[cognitive-offloading|overreliance]], higher-order misalignment, and inadequate [[scaffolding]].
+
+Violations were treated not as minor technical shortcomings but as threats to the interpretive validity of assessment outcomes, and the same boundary carried different weight depending on stakes: constraints were repeatedly described as non-negotiable in high-stakes contexts and mitigable only in low-stakes or formative uses. Appropriateness emerged from nested conditions rather than a single threshold: explicit criteria and task boundedness at the innermost layer, then human oversight, ethical safeguards, and [[governance|institutional governance]] as progressively broader structural support. The framework is graduated rather than binary. Uses satisfying inner conditions but lacking outer layers may remain acceptable in lower-stakes or formative contexts with reduced precision and interpretive authority, while relaxing the innermost conditions introduces the most immediate validity risks regardless of outer structures. Failure patterns clustered where constructs are complex, culturally mediated, or consequential: score inflation and rubric drift in writing, second-language bias and detector errors in language testing, [[hallucination-risk|hallucinated]] reasoning in STEM, inconsistent grading in medical and professional education, and cultural bias with opaque scoring in creative assessment.
+
+## Who Holds Judgment Authority
+
+Across the corpus, humans were positioned as the primary epistemic authorities while GenAI systems were framed as supportive, assistive, or augmentative technologies whose outputs require human interpretation, validation, and governance. Human judgment served as the reference standard: GenAI performance was assessed through agreement with calibrated human ratings, rater training, reliability analysis, and adjudication procedures, and final authority remained with human evaluators even when alignment was high. [[teacher-role|Educators]] designed the systems and the conditions of use, defining constructs, learning outcomes, rubrics, scoring criteria, and validity [[benchmark|benchmarks]], with [[prompt-engineering|prompt design]] and calibration treated as professional responsibilities.
+
+Three oversight configurations recurred. [[human-in-the-loop-ai|Human-in-the-loop]] arrangements requiring human approval formed the baseline; human-on-the-loop monitoring of flagged cases was a middle position; and human-out-of-the-loop operation was rarely endorsed and remained unacceptable for consequential decisions because of construct-drift risk. Hybrid configurations were widely recommended, with AI performing preliminary analysis and humans reviewing, arbitrating, and validating consequential judgments. The literature also documented a redistribution of assessment labor: AI took routine analytic tasks such as initial scoring and feedback drafting, while human roles shifted toward validation, interpretation, and governance, and authors warned that fluent AI outputs can weaken independent scrutiny without robust safeguards.
+
+Institutional responsibilities were acknowledged but unevenly operationalized. Policy articulation, assessment design and construct alignment, faculty training and [[ai-literacy|AI literacy]], and monitoring, audit, and validation were largely absent from the corpus, while student AI literacy was frequently underdeveloped. Governance itself operated at workflow, institutional, and regulatory levels — prompt calibration and escalation pathways, policies and validation procedures, and accreditation and privacy frameworks — but few studies connected the layers. The discussion notes a live disagreement: statistical agreement with calibrated human raters often functions as the primary indicator of defensibility, while other work argues that agreement alone cannot sustain interpretive validity because construct representation, linguistic nuance, subgroup fairness, and cross-prompt generalizability remain vulnerable, complicating [[trust]] in automated judgments. The field has not established a shared evidentiary standard for defensible GenAI-supported judgments, and [[educational-policy-ai|policy]] discourse remains thinner than the technical literature.
+
+## What this means for practice
+
+- **Assessment designers.** Specify explicit rubrics, constrained task scopes, and documented prompting strategies before deploying GenAI, because the review finds that relaxing inner conditions introduces the most immediate validity risks regardless of outer governance.
+- **Instructors.** Keep interpretive authority with people: treat generated scores and feedback as provisional evidence to be reviewed, arbitrated, and validated, especially where construct meaning, [[creativity]], or disciplinary nuance is central.
+- **Administrators.** Build the governance layer the corpus lacks: documented prompting protocols, bias auditing, human override pathways, institutional validation cycles, and escalation processes for consequential decisions.
+- **Policymakers.** Require transparency and contestability in high-stakes uses: publish permissible-use boundaries, mandate data protection safeguards, and demand validity and fairness evidence rather than agreement metrics alone.
+- **Researchers.** Move beyond agreement with human raters as the sole defensibility indicator and report prompt design, rubric specificity, and calibration decisions, since small design variations shifted score distributions and classification.
+
+## Limitations
+
+- The search was limited to English-language articles, which may privilege anglophone research perspectives and underrepresent discussion of AI governance, linguistic bias, and fairness from non-English educational systems.
+- The review conducted no formal quality appraisal, because its goal was to map boundary discourse rather than evaluate effects, so the corpus is characterized but not graded for rigour.
+- The requirement for explicit boundary language may underrepresent technically oriented studies that examine GenAI capabilities without engaging governance or assessment-system framing.
+- The evidence base is concentrated in writing and language assessment; professional licensing, STEM [[problem-solving]], creative assessment, and high-integrity online testing remain underexplored despite requiring integrative judgment.
+- Findings reflect a rapidly evolving technical landscape, so some practices and interpretations may be time-sensitive.
+
+## Citation
+
+Mikaeili, A., Bastani, R., & Sabbaghan, S. (2026). [A Scoping Review of Generative Artificial Intelligence Boundaries in Educational Assessment Systems](https://doi.org/10.21432/cjlt29380). *Canadian Journal of Learning and Technology, 52*(2), 1–31.*
