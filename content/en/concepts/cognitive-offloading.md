@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-22T08:30:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -123,6 +123,10 @@ The ladder has three rungs, and only the first two belong here. **Offloading** i
 
 **Dependence has a trajectory, and it is not monotonic.** Across four waves over 18 months (n = 524), [[technology-acceptance-model|perceived usefulness]] predicted *lower* later academic dependence rather than more, so an escalation story keyed to how useful students find the tool gets the direction wrong ([[zhang-usefulness-dependence-genai-2026|Zhang, 2026]]).
 **Attentional control is the measured path from dependence to achievement.** In 1,461 Chinese adolescents, generative-AI dependence predicted lower attentional control, and that path carried 76.19% of the total indirect association with examination performance, ahead of physical fitness ([[su-genai-dependence-academic-performance-adolescents-2026|Su et al., 2026]]).
+
+**Affective engagement, not self-rated competence, tracks over-reliance.** Among 249 vocational foreign-language learners, fear of missing out (β = 0.50) and anthropomorphic attachment (β = 0.27) predicted self-reported over-reliance while perceived AI literacy (r = 0.08) and self-regulated learning (r = −0.03) did not; the gap between feeling literate and reporting regulation did (β = 0.21) ([[gao-too-good-to-resist-overreliance-2026|Gao et al., 2026]]).
+
+**The corpus cannot yet separate extension from substitution.** A realist synthesis of 93 studies found 69 reporting no learning measure independent of AI assistance and only four combining processing evidence with such a measure, so cognitive extension and substitution remain empirically indistinguishable ([[li-cognitive-agency-human-genai-realist-synthesis-2026|Li et al., 2026]]).
 
 **The harm and the benefit can arrive in the same outcome.** Pooling 31 studies of 16,357 learners, [[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]] found dependence depressing critical thinking while rising motivation lifted it by nearly the same amount, so an association near zero records two mechanisms offsetting rather than an absent offloading effect.
 

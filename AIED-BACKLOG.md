@@ -6,8 +6,46 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-19
-**Total backlog:** 29 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-22
+**Total backlog:** 43 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Weekly journal RSS scan (2026-11-22)
+
+The RSS sweep checked 186 feed items: 121 already had pages or raw sources, 65 were new, and
+19 of those cleared the AI-in-education relevance filter. Three of the 19 were already
+ingested under earlier titles (`appel-genai-teacher-lesson-preparation-experiment-2026`,
+`fong-chatgpt-feedback-evaluations-2026`, `genai-curriculum-analytics-mapping-higher-ed-2026`),
+so they are not listed again. Five were ingested this run from full text (`li-cognitive-agency-…`,
+`chen-authorship-blurs-…`, `grothe-hammer-studying-ai-chatbots-…`, `gao-too-good-to-resist-…`,
+`hua-curriculum-aligned-feedback-rag-…`). The 14 below are in scope but were not ingested this
+run to keep the batch bounded; all are open access, so the landing page (not a supplied PDF)
+unblocks each one.
+
+**Computers and Education: Artificial Intelligence (CAEAI)**
+
+- [Modeling the relationships between university students’ AI competence, AI ethical awareness, and AI anxiety: A dual-stage PLS-SEM and ANN analysis](https://doi.org/10.1016/j.caeai.2026.100687) — [DOI: 10.1016/j.caeai.2026.100687](https://doi.org/10.1016/j.caeai.2026.100687)
+- [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in astronomical image understanding](https://doi.org/10.1016/j.caeai.2026.100673) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673)
+- [From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students’ STEM knowledge and competencies](https://doi.org/10.1016/j.caeai.2026.100651) — [DOI: 10.1016/j.caeai.2026.100651](https://doi.org/10.1016/j.caeai.2026.100651)
+- [Conceptualizations of GenAI and students’ professionalization: Within the multi-layered environment of learning for higher education](https://doi.org/10.1016/j.caeai.2026.100636) — [DOI: 10.1016/j.caeai.2026.100636](https://doi.org/10.1016/j.caeai.2026.100636)
+- [Students’ multimodal prompting practices as epistemic work in AI literacy development](https://doi.org/10.1016/j.caeai.2026.100635) — [DOI: 10.1016/j.caeai.2026.100635](https://doi.org/10.1016/j.caeai.2026.100635)
+- [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://doi.org/10.1016/j.caeai.2026.100620) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
+
+**Computers and Education Open (CEAO)**
+
+- [Navigating AI’s educational future: expert scenarios and implications for teaching and teacher preparation](https://doi.org/10.1016/j.caeo.2026.100422) — [DOI: 10.1016/j.caeo.2026.100422](https://doi.org/10.1016/j.caeo.2026.100422)
+- [Ethical principles of AI in education: Exploring teachers’ contextual ethical reasoning through an STS lens](https://doi.org/10.1016/j.caeo.2026.100423) — [DOI: 10.1016/j.caeo.2026.100423](https://doi.org/10.1016/j.caeo.2026.100423)
+- [Exploring basic school leaders' AI readiness: The role of professional development](https://doi.org/10.1016/j.caeo.2026.100409) — [DOI: 10.1016/j.caeo.2026.100409](https://doi.org/10.1016/j.caeo.2026.100409)
+- [What Makes AI-Chatbots Pedagogically Valuable for L2 Literacy? Initial Psychometric Evaluation of a Design-Features Framework](https://doi.org/10.1016/j.caeo.2026.100436) — [DOI: 10.1016/j.caeo.2026.100436](https://doi.org/10.1016/j.caeo.2026.100436)
+- [Appreciation for the struggle: undergraduate perceptions of academic writing with and without generative artificial intelligence](https://doi.org/10.1016/j.caeo.2026.100435) — [DOI: 10.1016/j.caeo.2026.100435](https://doi.org/10.1016/j.caeo.2026.100435)
+
+**Frontiers in Psychology**
+
+- [AI leadership readiness profiles and competence gaps among school leaders during digital transformation: a comparative study of China and Kazakhstan](https://doi.org/10.3389/fpsyg.2026.1973288) — [DOI: 10.3389/fpsyg.2026.1973288](https://doi.org/10.3389/fpsyg.2026.1973288)
+- [Redefining efficiency in post-editing of LLM-generated translation: why expert translators take more time](https://doi.org/10.3389/fpsyg.2026.1848312) — [DOI: 10.3389/fpsyg.2026.1848312](https://doi.org/10.3389/fpsyg.2026.1848312)
+
+**Intersection: A Journal at the Intersection of Assessment and Learning (AALHE)**
+
+- [Assessment Professionals' Journey to Owning GenAI Adoption](https://doi.org/10.61669/001c.172641) — [DOI: 10.61669/001c.172641](https://doi.org/10.61669/001c.172641)
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-19)
 

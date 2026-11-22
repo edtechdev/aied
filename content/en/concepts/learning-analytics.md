@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T09:26:00-05:00"
+updated: "2026-11-22T08:30:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -48,6 +48,7 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 - **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Completion rates can hide an engagement collapse.** In a group-randomized [[higher-ed|university]] trial, a course-integrated [[intelligent-tutoring|AI tutor]] left homework submission unchanged while platform participation fell sharply — page views by 0.37 standard deviations, active days by 0.51 — so the analytics signal that mattered was the activity the tool displaced, not the completion metric that stayed flat ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
+- **Feedback as evidence about teaching.** A retrieval-augmented pipeline turned 6,072 pieces of marking feedback from four cohorts into curriculum-aligned error patterns, agreeing with a human reviewer on 89.1% of records against 74.7% for an expert-designed taxonomy, and the teaching team used the patterns to propose course revisions ([[hua-curriculum-aligned-feedback-rag-2026|Hua et al., 2026]]).
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
 - **Privacy tensions:** [[privacy|privacy]] concerns grow as analytics become more granular and AI-driven.
 - **A governance review framework for student data.** LEAGUE proposes six pillars — Lawfulness, [[equity-in-ai-education|Equity]], Agency, Governance, Utility, and Ethics by Design — treating FERPA and GDPR compliance as the floor and recommending scheduled reassessment as models drift ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).

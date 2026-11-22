@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-17T09:20:00-05:00"
+updated: "2026-11-22T08:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -80,6 +80,8 @@ Design levers can shift that default: in a roughly 70-student asynchronous physi
 Teacher-authored prompts are one such lever, but enacted rigor lags the target: across 1,479 conversations, 38% under-reached the teacher's intended Depth-of-Knowledge level, approaching 50% at DOK 3, while explicit finish lines narrowed that gap by 0.22 levels and a "no direct answers" guardrail cut AI final-answer rates by 8.5 percentage points ([[teacher-authored-prompts-student-ai-dialogue|Liu et al. (2026)]]).
 
 Non-use is itself an interaction pattern that [[pedagogy|pedagogy]] must plan for. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], studying 85 [[teacher-education|student teachers]] in three courses where GenAI use in [[assessment|assessment]] was explicitly permitted, found that 62.4% (53 of 85) declined to use it at all, far below the 79–83% adoption seen in comparable UK and Australian surveys, and that adopters' use was shallow and corrective rather than generative (proofreading 43.8%, clarity checks 34.4%, text generation only 18.8%). Their choices tracked assessment design and institutional culture rather than technical difficulty: 41.5% of non-adopters feared being wrongly accused of [[academic-integrity|plagiarism]], and nine of eleven interviewees read the permissive policy itself as a possible "trap." The gap between 32 survey-reported users and 28 self-declarations shows that students' *reported* AI interaction is shaped by graded consequences — a measurement caveat for learning-analytics accounts of student-AI interaction.
+
+- **A practice typology separates five ways of using a chatbot.** Fifteen focus groups with 61 German students distinguished support tool, learning facilitator, sole author, first author, and second author practices, and found non-use could be a source of pride rather than a deficit ([[grothe-hammer-studying-ai-chatbots-typology-2026|Grothe-Hammer et al., 2026]]).
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] document what open-ended dialogue with generative AI adds in peer review: students who interrogated the model rather than accepting its first suggestion produced feedback peers rated higher, and reported more task enjoyment and less [[anxiety-and-stress|anxiety]].
 
