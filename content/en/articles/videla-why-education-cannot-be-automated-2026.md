@@ -7,7 +7,7 @@ type: article
 authors: ["Ronnie Videla", "Wendy Ross", "May Britt Aros"]
 venue: "unplaced manuscript"
 source_url: pdf-sources/videla-why-education-cannot-be-automated-2026.pdf
-evidence_context: non_educational
+evidence_context: educational
 foundations: [philosophy-of-ai-in-education, agency]
 pedagogy: [embodied-learning, situated-learning]
 technology: [generative-ai, llm, adaptive-learning]
@@ -78,4 +78,4 @@ That mismatch matters pedagogically as well as technically. Instructional AI ali
 
 ## Citation
 
-Videla, R., Ross, W., & Aros, M. B. (2026). *Why Education Cannot Be Automated: Enactive Pedagogy, AI, and the Crisis of Meaning*. Accepted manuscript; the supplied PDF prints no venue or DOI.
+Videla, R., Ross, W., & Aros, M. B. (2026). [*Why Education Cannot Be Automated: Enactive Pedagogy, AI, and the Crisis of Meaning*](https://kclpure.kcl.ac.uk/portal/en/publications/why-education-cannot-be-automated-enactive-pedagogy-ai-and-the-cr/). Preprint, King's College London research portal; the supplied PDF prints no venue or DOI.
