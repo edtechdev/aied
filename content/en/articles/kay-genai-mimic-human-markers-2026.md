@@ -1,6 +1,6 @@
-
+---
 title: "Can GenAI be trained to mimic human markers of extended written assignments in higher education?"
-created: "2026-11-13T16:30:00-05:00"
+created: "2026-11-13T16:24:05-05:00"
 updated: "2026-11-13T16:30:00-05:00"
 type: article
 published: 2026-08-11

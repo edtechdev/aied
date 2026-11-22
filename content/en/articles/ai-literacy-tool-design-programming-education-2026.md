@@ -1,4 +1,4 @@
-
+---
 title: "AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education"
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"

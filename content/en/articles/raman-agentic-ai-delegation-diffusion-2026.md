@@ -1,4 +1,4 @@
-
+---
 title: "From Generative AI to Agentic AI in Higher Education: A Behavioural Experiment on Delegation Using Diffusion of Innovations"
 created: "2026-11-21T08:20:00-05:00"
 updated: "2026-11-21T08:20:00-05:00"

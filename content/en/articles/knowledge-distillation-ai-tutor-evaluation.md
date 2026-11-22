@@ -1,4 +1,4 @@
-
+---
 title: Knowledge Distillation for Automated AI Tutor Evaluation
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-20T03:45:11-04:00"

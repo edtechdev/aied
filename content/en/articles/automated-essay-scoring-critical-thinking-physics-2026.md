@@ -1,4 +1,4 @@
-
+---
 title: "Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays"
 created: "2026-09-27T07:33:07-04:00"
 updated: "2026-09-27T07:33:07-04:00"

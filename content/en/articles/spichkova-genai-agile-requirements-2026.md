@@ -1,4 +1,4 @@
-
+---
 title: "Does GenAI Perform Better than Students and Novice Software Developers in Agile/Scrum Requirements Engineering Tasks?"
 created: "2026-11-12T09:30:00-05:00"
 updated: "2026-11-12T09:30:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Artificial learning: how sessional academics view contract cheating and digital academic misconduct in assessment"
 created: "2026-10-22T11:59:17-04:00"
 updated: "2026-10-22T11:59:17-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact"
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-20T08:50:26-04:00"

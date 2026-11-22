@@ -1,4 +1,4 @@
-
+---
 title: "Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change"
 created: "2026-09-02T09:00:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "A proposal for open learning practices in response to Generative Artificial Intelligence"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-26T07:13:32-04:00"

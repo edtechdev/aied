@@ -1,4 +1,4 @@
-
+---
 title: "Revisiting Pedagogical Content Knowledge (PCK) development for the age of generative AI"
 created: "2026-11-08T09:30:00-05:00"
 updated: "2026-11-08T09:30:00-05:00"

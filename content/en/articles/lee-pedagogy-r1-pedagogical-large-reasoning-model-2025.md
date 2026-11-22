@@ -1,4 +1,4 @@
-
+---
 title: "Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark"
 created: "2026-09-24T03:04:26-04:00"
 updated: "2026-09-24T03:04:26-04:00"
@@ -40,7 +40,7 @@ The pipeline follows DeepSeek-R1's distillation recipe with a pedagogical filter
 
 ## The Well-balanced Educational Benchmark
 
-WBEB exists because earlier educational [[benchmark|benchmarks]] mostly measured content knowledge, ignoring feedback, [[scaffolding|scaffolding]], and classroom discourse. Its five dimensions mix public and newly curated sources. Subject knowledge uses 805 multiple-choice items translated from Chinese [[k-12|junior high]] exams. Pedagogical knowledge uses 292 items from three Korean certification sets (124, 104 and 64), cleaned by OCR and translated, and these stay internal because the exams are copyright restricted; released models are trained without them. Knowledge tracing adds three sequence datasets of 3,146, 5,000, and 3,992 samples in zero-shot and five-shot forms. Essay scoring uses 3,462 essays from a 2024 Kaggle competition, and decision-making draws on 1,660 anonymized fourth and fifth grade math transcripts from the NCTE study, available only under data-sharing agreements.
+WBEB exists because earlier educational [[benchmark|benchmarks]] mostly measured content knowledge, ignoring feedback, [[scaffolding|scaffolding]], and classroom discourse. Its five dimensions mix public and newly curated sources. Subject knowledge uses 805 multiple-choice items translated from Chinese [[k-12|junior high]] exams. Pedagogical knowledge uses 124, 104 and 64 items from three Korean certification sets, cleaned by OCR and translated, and these stay internal because the exams are copyright restricted; released models are trained without them. Knowledge tracing adds three sequence datasets of 3,146, 5,000, and 3,992 samples in zero-shot and five-shot forms. Essay scoring uses 3,462 essays from a 2024 Kaggle competition, and decision-making draws on 1,660 anonymized fourth and fifth grade math transcripts from the NCTE study, available only under data-sharing agreements.
 
 ## What the evaluation and traces showed
 

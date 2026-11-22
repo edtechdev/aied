@@ -1,4 +1,4 @@
-
+---
 title: "AI Literacy of Teachers: Prompt Engineering and Model Selection as Predictors of AI-Feedback Quality"
 type: article
 created: "2026-09-17T09:40:00-04:00"

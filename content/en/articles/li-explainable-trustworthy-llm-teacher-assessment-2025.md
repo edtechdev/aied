@@ -1,4 +1,4 @@
-
+---
 title: "Towards trustworthy and explainable-by-design large language models for automated teacher assessment"
 created: "2026-09-18T05:10:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Assisting the grading of a handwritten general chemistry exam with artificial intelligence"
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"

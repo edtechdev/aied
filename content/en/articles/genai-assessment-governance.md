@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI as a design variable: An evidence-centered framework for principled governance in STEM assessment"
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"

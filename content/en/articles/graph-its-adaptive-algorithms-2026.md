@@ -1,4 +1,4 @@
-
+---
 title: "Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
@@ -38,8 +38,8 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 ## Results
 
 - **RQ1 (structure/navigation):** Knowledge Decomposition and Graph-based Navigation [[usability-research|Usability]] rated highest (avg 4.41, [[rubrics|rubric]] level 3); Prerequisite Logic Clarity lowest (4.16).
-- **RQ2 (algorithms):** measured knowledge improved in all groups — BN 0.717→0.887 (+24%, score 3), KST 0.919→0.967 (+5%, score 2), WDDI 0.871→0.882 (+1%, score 2). Final rubric scores BN 3, KST 2, WDDI 2. In a [[simulation|simulation]], BN (error 14) and a GNN baseline (20) tracked true IFL truth values best vs KST (94), WDDI (62), uniform static (100).
-- **RQ3 (tracking):** system scored "Good (3)" (11/13 tracking features, 85%). BN group logged the most per-learner records (855.9) and the most active test [[student-engagement|engagement]]; the most active learner (112 interactions) was in the KST group.
+- **RQ2 (algorithms):** measured knowledge improved in all groups — BN 0.717→0.887 (+24%, score 3), KST 0.919→0.97 (+5%, score 2), and WDDI more moderately (score 2). Final rubric scores BN 3, KST 2, WDDI 2. A [[simulation|simulation]] compared each algorithm's aggregated relative error, where 100 marks the maximum.
+- **RQ3 (tracking):** system scored "Good (3)" (11/13 tracking features, 85%). BN group logged the most per-learner records (more than 855) and the most active test [[student-engagement|engagement]]; the most active learner (112 interactions) was in the KST group.
 - **Self-[[regulation|regulation]]:** most learners disregarded system recommendations (learn-followed 18–32%, repeat-followed 7–9%), indicating their own decisions took precedence over the suggested path.
 
 ## Key Strengths and Caveats
@@ -54,7 +54,7 @@ This is a development article that demonstrates a complete, implemented pipeline
 ## What this means for practice
 
 - **Designers.** Keep a teacher in the loop when GenAI generates course content: G4L's assistant drafted knowledge units, prerequisite relations, and quiz items from existing documentation, but every item passed through expert refinement before use.
-- **Designers.** Prefer Bayesian knowledge propagation over KST and WDDI for coarse-grained curricula — it delivered +24% measured knowledge (0.717 → 0.887) against +5% (KST) and +1% (WDDI), and tracked true mastery values with the lowest error (14 vs 20 for a graph-neural-network baseline and 94 for KST).
+- **Designers.** Prefer Bayesian knowledge propagation over KST and WDDI for coarse-grained curricula — it delivered +24% measured knowledge (0.717 → 0.887) against +5% for KST, and the authors conclude it yielded the highest overall learning gains.
 - **Designers.** Model forgetting explicitly, as G4L does with an Ebbinghaus decay driven by elapsed time and repetitions, and schedule review of the units most vulnerable to decay instead of relying on the most recent score.
 - **Designers.** Let learners override recommendations: in this study only 18–32% of learn-recommendations and 7–9% of repeat-recommendations were followed, so learners treat the suggested path as advice rather than a mandate.
 - **Researchers.** Verify that an algorithm's internal mastery estimates match observed performance before reporting gains — KST's predicted-mastery values saturated at 1.000 here, which the authors flag as warranting caution.

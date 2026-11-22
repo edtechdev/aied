@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-22T12:23:33-05:00"
+updated: "2026-11-22T14:15:40-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -72,6 +72,7 @@ AI changes feedback in three consequential directions, each raising the stakes o
 - **Explanations must be tested, not trusted.** For rubric-based teaching-quality scoring, model-agnostic SHAP attributions proved more faithful than LLM-generated rationales: deleting top-ranked sentences shifted predictions more coherently, and SHAP transferred across architectures while LLM self-explanations did not ([[shap-llm-rationales-teaching-quality-assessment|Bueno et al., 2026]]).
 - **Evaluation demands on the learner.** Because AI feedback can be inaccurate or hallucinated, students must judge whether to [[trust|trust]] and act on it. This is where [[feedback-literacy|feedback literacy]] and [[trust-calibration|trust calibration]] become decisive: [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that only feedback-literate students convert AI feedback into [[self-regulated-learning|self-regulated learning]] gains, while [[llm-fallacy-misattribution|the LLM fallacy]] captures how students may over-credit AI feedback to their own competence.
 - **Utility and authority are separate verdicts.** Thirteen undergraduates told ChatGPT had scored their writing found the feedback clear and useful, yet almost all separated that judgment from accepting the system as grader, a two-verdict trust split that makes transparency an instructional intervention ([[student-perspectives-ai-writing-grading-2026|AlGhamdi, 2026]]).
+- **Rubric critique of a machine draft builds the judge.** In one second-year psychology assessment, students graded a ChatGPT-drafted media release against the marking rubric before revising it; 94% rated its coverage of aims and methods at credit level or lower while 92% passed its style, and early rubric engagement predicted better script revisions (d = 0.36) ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls, 2025]]).
 
 - **Feedback literacy is built by use, not demographics.** In 486 EFL undergraduates, only frequency of AI tool use predicted AI feedback literacy (β = 0.29) — not major or year of study — so scaffolding access to AI-mediated feedback is an [[equity-in-ai-education|equity]] question as much as a design one ([[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]]).
 - **Lab approval is not semester use.** All 18 students reacted positively to the GenAI explanation function in lab sessions, yet only half used it during the term, citing mismatch, irrelevance, and redundancy when educator feedback was already clear ([[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]]).

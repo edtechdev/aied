@@ -1,4 +1,4 @@
-
+---
 title: "Will It Teach as Intended? How Teachers Configure Educational AI Chatbots"
 created: "2026-09-25T09:40:00-04:00"
 updated: "2026-09-25T09:40:00-04:00"

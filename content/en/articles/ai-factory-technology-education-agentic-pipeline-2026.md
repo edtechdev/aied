@@ -1,4 +1,4 @@
-
+---
 title: "An AI Factory for Technology Education: An Agentic Pipeline with Closed Loop Audience Feedback"
 created: "2026-10-26T09:30:00-04:00"
 updated: "2026-10-26T09:30:00-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "SCAN: A Decision-Making Framework for Task Assignment with Generative AI"
 created: "2026-09-18T12:05:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Future Faculty Development in the Age of AI: University Teachers’ Roles, Needs, and Institutional Support"
 created: "2026-11-16T09:00:00-05:00"
 updated: "2026-11-16T09:00:00-05:00"

@@ -1,6 +1,6 @@
-
+---
 title: "What Do Digital Traces Predict? Task Effects, Student Differences, and Critical Online Reasoning"
-created: "2026-11-17T09:40:00-05:00"
+created: "2026-11-17T09:29:23-05:00"
 updated: "2026-11-17T09:40:00-05:00"
 type: article
 authors: ["Konca, M.", "Mehler, A."]

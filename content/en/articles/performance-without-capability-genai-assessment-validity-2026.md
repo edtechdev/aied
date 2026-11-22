@@ -1,4 +1,4 @@
-
+---
 title: "Performance without capability: generative AI and the validity of assessment in higher education"
 created: "2026-11-19T09:58:00-05:00"
 updated: "2026-11-19T09:58:00-05:00"

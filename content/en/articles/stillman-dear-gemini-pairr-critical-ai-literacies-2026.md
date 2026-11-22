@@ -1,4 +1,4 @@
-
+---
 title: "Dear Gemini: Agency, Peer Review, and Critical AI Literacies in Student Writing Ecologies"
 created: "2026-11-04T17:21:00-05:00"
 updated: "2026-11-04T18:11:18-05:00"

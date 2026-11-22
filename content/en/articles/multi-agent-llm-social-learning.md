@@ -1,4 +1,4 @@
-
+---
 title: "Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing"
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-10-16T13:16:04-04:00"

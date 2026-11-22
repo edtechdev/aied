@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar"
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-16T15:50:31-04:00"

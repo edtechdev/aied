@@ -1,4 +1,4 @@
-
+---
 title: "Rubric-Guided Generative AI for Scalable Creativity Assessment in Educational Games"
 created: "2026-09-18T14:00:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"

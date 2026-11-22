@@ -1,4 +1,4 @@
-
+---
 title: "What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education"
 created: "2026-09-08T02:39:20-04:00"
 updated: "2026-09-19T07:12:05-04:00"

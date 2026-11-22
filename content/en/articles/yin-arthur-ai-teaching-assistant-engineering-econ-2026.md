@@ -1,4 +1,4 @@
-
+---
 title: "Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class"
 created: "2026-09-03T14:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"

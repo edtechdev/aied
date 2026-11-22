@@ -1,4 +1,4 @@
-
+---
 title: "CyberAGENTS: Structured autonomy for agentic gamified learning in cybersecurity"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"

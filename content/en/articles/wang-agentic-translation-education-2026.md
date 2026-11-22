@@ -1,4 +1,4 @@
-
+---
 title: "Beyond agentic translation: A design-based framework for human-AI collaboration in translator education"
 created: "2026-10-12T10:33:55-04:00"
 updated: "2026-10-12T10:33:55-04:00"
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Wang (2026) proposes a [[design-based-research|design-based research]] framework reorienting translator education away from routine translation skills — increasingly performed end-to-end by agentic translation systems — toward four competencies: cross-disciplinary knowledge (D1), AI orchestration competence (D2), higher-order strategic judgment (D3), and critical AI evaluation (D4). The framework includes a translation-task displacement inventory mapping 18 sub-tasks to current AI capability and remaining human role, draft assessment [[rubrics|rubrics]], and a pre-registered 12-month DBR protocol (5-person co-design team, five pilot participants). As a protocol paper it reports no empirical data: the framework's effectiveness is untested and contingent on the planned pilot's results, and its transferability beyond a single Chinese institutional context is a hypothesis, not a finding.
+> **Synthesis:** Wang (2026) proposes a [[design-based-research|design-based research]] framework reorienting translator education away from routine translation skills — increasingly performed end-to-end by agentic translation systems — toward four competencies: cross-disciplinary knowledge (D1), AI orchestration competence (D2), higher-order strategic judgment (D3), and critical [[ai-ed-evaluation|AI evaluation]] (D4). The framework includes a translation-task displacement inventory mapping 18 sub-tasks to current AI capability and remaining human role, draft assessment [[rubrics|rubrics]], and a pre-registered 12-month DBR protocol (5-person co-design team, five pilot participants). As a protocol paper it reports no empirical data: the framework's effectiveness is untested and contingent on the planned pilot's results, and its transferability beyond a single Chinese institutional context is a hypothesis, not a finding.
 
 ## Summary
 

@@ -1,4 +1,4 @@
-
+---
 title: "A decade of reflection and thematic review on artificial intelligence's impact on educational measurement"
 created: "2026-08-24T12:32:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Modeling and measuring graduate students’ generative AI literacy: a study based on Marzano’s taxonomy"
 created: "2026-09-23T12:50:00-04:00"
 updated: "2026-09-23T13:40:00-04:00"

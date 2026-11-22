@@ -1,4 +1,4 @@
-
+---
 title: "Human-AI Collaboration for Qualitative Analysis in Participatory Design: Refining the Writing Analytics Tool"
 created: "2026-11-05T20:00:00-05:00"
 updated: "2026-11-05T20:00:00-05:00"
@@ -23,7 +23,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Potter, Serhan, Patne, Öncel, Ahmed, Arner, Islam, Roscoe, Allen, Crossley and McNamara report a participatory design cycle for the Writing Analytics Toolkit (WAT), an open-source platform that provides [[formative-assessment|formative feedback]] on student writing. Nine experienced college writing instructors evaluated the alpha version of WAT Classroom (WAT-C) in two focus group sessions, and the team analyzed the transcripts with a hybrid [[human-ai-collaboration|human-AI]] workflow in which GPT-4o generated inductive codes and preliminary themes inside a secure, retrieval-augmented platform that researchers then reviewed, critiqued and refined. Focus group themes and a post-session survey converged on four design priorities — clearer, more concise feedback, increased instructor customization, reduced administrative burden, and a simplified user interface — which directly informed revisions including a redesigned feedback display, customizable metric targets, [[learning-analytics|LMS]] integration and a streamlined layout. The study is an empirical, [[design-based-research|design-based research]] case of [[ai-assisted-educational-research|LLM-assisted qualitative analysis]] in which the model accelerated early coding but redistributed rather than removed researcher labor.
+> **Synthesis:** Potter, Serhan, Patne, Öncel, Ahmed, Arner, Islam, Roscoe, Allen, Crossley and McNamara report a participatory design cycle for the Writing Analytics Toolkit (WAT), an open-source platform that provides [[formative-assessment|formative]] [[feedback|feedback]] on student writing. Nine experienced college writing instructors evaluated the alpha version of WAT Classroom (WAT-C) in two focus group sessions, and the team analyzed the transcripts with a hybrid [[human-ai-collaboration|human-AI]] workflow in which GPT-4o generated inductive codes and preliminary themes inside a secure, retrieval-augmented platform that researchers then reviewed, critiqued and refined. Focus group themes and a post-session survey converged on four design priorities — clearer, more concise feedback, increased instructor customization, reduced administrative burden, and a simplified user interface — which directly informed revisions including a redesigned feedback display, customizable metric targets, [[learning-analytics|LMS]] integration and a streamlined layout. The study is an empirical, [[design-based-research|design-based research]] case of [[ai-assisted-educational-research|LLM-assisted qualitative analysis]] in which the model accelerated early coding but redistributed rather than removed researcher labor.
 
 ## Key Findings
 

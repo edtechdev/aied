@@ -1,4 +1,4 @@
-
+---
 title: "When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle"
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
@@ -35,7 +35,7 @@ This paper reframes the core evaluation question for AI tutors: **not "does the 
 ## What this means for practice
 
 - **Software developers.** Do not ship a pedagogical scorer built against one model family. The prompts were developed primarily with Claude 4.6 Opus and performance only somewhat generalized to the other frontier models tested, and LMs may favor their own outputs when scoring.
-- **Software developers.** Budget for asymmetric detection and route the weak side to humans: the pipeline identified [[scaffolding|scaffolding]] at F1 ≈ 0.95 on the held-out split but rigor pushes at F1 ≈ 0.62 (precision 0.73–0.79, recall 0.43–0.58), so missing rigor is the expected error.
+- **Software developers.** Budget for asymmetric detection and route the weak side to humans: the pipeline identified [[scaffolding|scaffolding]] at F1 ≈ 0.95 on the held-out split but rigor pushes at F1 0.5553–0.6401 (precision 0.7260–0.7931, recall 0.4326–0.5549) across held-out models, so missing rigor is the expected error.
 - **Instructors.** Reuse the annotation protocol as a lightweight audit of your own tool: teachers marked key moments across 122 transcripts to produce 1,536 unique decision points, a template you can run on course-specific [[math-education|math]] material.
 - **Instructors.** Staff the audit with practicing teachers. All 27 annotators had more than three years of math teaching experience and 14 had more than ten, and the paper notes that even experienced instructors struggle to define rigor consistently.
 - **Software developers.** Treat a replay score as an upper bound on tutor quality. The simulated student is an "oracle student" that returns the human student's actual responses, so the benchmark does not measure how a tutor handles a learner diverging from the transcript.

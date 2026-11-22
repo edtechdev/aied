@@ -1,4 +1,4 @@
-
+---
 title: "Cohort-level growth modeling of ethical engagement with artificial intelligence in education"
 created: "2026-10-16T07:00:00-04:00"
 updated: "2026-10-16T07:00:00-04:00"

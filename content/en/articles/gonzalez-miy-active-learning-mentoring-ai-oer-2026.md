@@ -1,4 +1,4 @@
-
+---
 title: "Active learning, mentoring and AI-open educational resources: a case study in a virtual laboratory"
 published: "2026-03-20"
 created: "2026-10-28T18:18:15-04:00"

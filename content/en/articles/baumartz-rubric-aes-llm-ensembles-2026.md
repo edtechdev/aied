@@ -1,6 +1,6 @@
-
+---
 title: "Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs"
-created: "2026-11-17T09:40:00-05:00"
+created: "2026-11-17T09:29:23-05:00"
 updated: "2026-11-17T09:40:00-05:00"
 type: article
 authors: ["Baumartz, D.", "Mehler, A.", "Schrottenbacher, P.", "Hammerla, L.", "Gombert, S."]

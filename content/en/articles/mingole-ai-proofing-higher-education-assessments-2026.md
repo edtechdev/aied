@@ -1,6 +1,6 @@
-
+---
 title: 'Generative AI and the Crisis of Higher Education Assessments: Examining "AI-Proofing" Strategies for College-Level Assessments'
-created: "2026-11-17T09:40:00-05:00"
+created: "2026-11-17T09:29:23-05:00"
 updated: "2026-11-17T09:40:00-05:00"
 type: article
 authors: ["Mingole, B.", "Yadav, D.", "Lee, H. M.", "Sundar, S. S.", "Yadav, A."]

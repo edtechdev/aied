@@ -1,4 +1,4 @@
-
+---
 title: "The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development"
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"

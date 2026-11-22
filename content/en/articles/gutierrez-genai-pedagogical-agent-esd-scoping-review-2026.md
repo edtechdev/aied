@@ -1,6 +1,6 @@
-
+---
 title: "Generative artificial intelligence as a pedagogical agent for education for sustainable development: a scoping review"
-created: "2026-11-19T09:30:00-05:00"
+created: "2026-11-19T09:28:26-05:00"
 updated: "2026-11-19T09:30:00-05:00"
 type: article
 sources: ['raw/papers/gutierrez-genai-pedagogical-agent-esd-scoping-review-2026.md']

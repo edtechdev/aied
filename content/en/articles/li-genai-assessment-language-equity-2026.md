@@ -1,4 +1,4 @@
-
+---
 title: "GenAI assessment and language equity: Drawing the line between support and substitution"
 created: "2026-09-18T04:45:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"

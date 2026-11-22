@@ -1,4 +1,4 @@
-
+---
 title: "The End of Assessment? Disruption and Transformation in the Age of AI"
 created: "2026-08-21T13:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Making argumentative work visible in GenAI-mediated assessment: An exploratory LLM simulation and questionnaire study in university ideological and political education"
 created: "2026-11-01T08:06:18-05:00"
 updated: "2026-11-04T16:51:25-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes"
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"

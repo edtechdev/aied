@@ -1,4 +1,4 @@
-
+---
 title: "When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI"
 created: "2026-09-25T09:40:00-04:00"
 updated: "2026-09-25T09:40:00-04:00"

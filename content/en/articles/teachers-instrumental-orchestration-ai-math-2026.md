@@ -1,4 +1,4 @@
-
+---
 title: "Exploring Teachers' Instrumental Orchestration and Roles in High School Mathematics Classes Using AI-Based Digital Tools"
 created: "2026-10-04T05:12:00-04:00"
 updated: "2026-10-04T05:12:00-04:00"

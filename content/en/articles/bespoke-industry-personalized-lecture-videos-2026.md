@@ -1,4 +1,4 @@
-
+---
 title: "Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale"
 created: "2026-09-23T09:29:49-04:00"
 updated: "2026-09-23T09:29:49-04:00"

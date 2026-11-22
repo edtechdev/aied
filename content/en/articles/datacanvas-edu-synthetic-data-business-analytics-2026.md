@@ -1,4 +1,4 @@
-
+---
 title: "DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education"
 created: "2026-09-18T09:15:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"

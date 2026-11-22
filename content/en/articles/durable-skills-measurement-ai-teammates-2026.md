@@ -1,4 +1,4 @@
-
+---
 title: "Towards Scalable Measurement of Durable Skills"
 created: "2026-09-15T11:05:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"

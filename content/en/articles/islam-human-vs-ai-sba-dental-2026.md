@@ -1,4 +1,4 @@
-
+---
 title: "Comparison of human versus AI-Assisted workflows for developing structured clinical single-best-answer questions in dental education"
 published: "2026-11-13"
 created: "2026-11-16T10:20:00-05:00"

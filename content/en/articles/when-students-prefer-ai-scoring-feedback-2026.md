@@ -1,4 +1,4 @@
-
+---
 title: "When Do Undergraduate Students Prefer AI? Insights into AI Scoring and Feedback"
 created: "2026-09-30T13:46:36-04:00"
 updated: "2026-09-30T13:46:36-04:00"

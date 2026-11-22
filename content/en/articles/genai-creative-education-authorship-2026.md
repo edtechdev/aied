@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI in creative education: baseline-linked evidence on learning processes, artistic performance, and authorship"
 created: "2026-10-04T09:05:00-04:00"
 updated: "2026-10-04T09:05:00-04:00"

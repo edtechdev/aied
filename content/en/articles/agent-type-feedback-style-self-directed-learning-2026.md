@@ -1,4 +1,4 @@
-
+---
 title: "The Effects of Agent Type and Feedback Style on Self-Directed Learning: A Mixed-Methods Study"
 created: "2026-09-30T12:34:56-04:00"
 updated: "2026-09-30T12:34:56-04:00"

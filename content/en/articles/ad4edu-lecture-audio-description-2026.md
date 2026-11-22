@@ -1,4 +1,4 @@
-
+---
 title: "AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences"
 created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"

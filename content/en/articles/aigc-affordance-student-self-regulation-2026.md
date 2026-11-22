@@ -1,4 +1,4 @@
-
+---
 title: "AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation"
 type: article
 pedagogy: [motivation, self-efficacy, self-regulated-learning]

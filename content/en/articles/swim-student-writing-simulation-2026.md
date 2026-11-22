@@ -1,4 +1,4 @@
-
+---
 title: "SWIM: Student Writing Simulation via Proficiency-Conditioned Generation"
 created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"

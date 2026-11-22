@@ -1,4 +1,4 @@
-
+---
 title: Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 created: "2026-06-19T04:33:04-04:00"
 updated: "2026-09-20T08:08:49-04:00"

@@ -1,7 +1,7 @@
 ---
 title: Primary Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T14:15:40-05:00"
 type: concept
 pedagogy: [scaffolding, game-based-learning, self-regulated-learning, social-emotional-learning]
 technology: [adaptive-learning, intelligent-tutoring, conversational-ai, generative-ai]
@@ -63,6 +63,8 @@ The system is never the whole treatment. A teacher decides who uses it, for how 
 
 - **A nine-week [[generative-ai|GenAI]] writing program moved affect, not depth.** With 301 Grade 5 and 6 students in eastern China assigned by class, the program raised the ideal second-language writing self and academic buoyancy and improved language use. It did not move growth mindset, cognitive or metacognitive engagement, or organization, and effects were small: partial η² of .030 for [[motivation]] and .014 for language use ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]).
 
+- **Screening writing with model comparisons beat rubric scoring at scale.** Seven LLMs judged Grades 3–6 informational writing pairwise rather than against absolute rubric scores; scores converged with researcher ratings (r = .59–.73), averaged three-wave scores classified ELA proficiency at AUC = .82–.86, and costlier models added little validity ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed, 2026]]).
+
 Contingent feedback on a child's own attempt does work generic guidance cannot, and the gain grows when an adult takes up what the feedback raised.
 
 ## AI literacy and children's own use of chatbots
@@ -76,6 +78,8 @@ Contingent feedback on a child's own attempt does work generic guidance cannot, 
 - **A validated self-report scale exists for the upper primary years.** The 15-item AI Literacy [[self-assessment]] Questionnaire covers learning about AI, how AI works, and life with AI for Grades 4 to 6, with CFI = .994 and alpha = .934. Its authors state that it measures perceived, not demonstrated, competence ([[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon, 2025]]).
 
 AI literacy here is not one [[curriculum-design|curriculum]] made simpler. A framework for a nine-year-old and one for a seventeen-year-old differ in kind: the younger learner needs stories, [[metaphors-and-analogies|analogy]], and making, while the older one can critique a system and account for a decision.
+
+The primary years carry the least evidence of any band: five of 118 reviewed studies cover early childhood to lower primary, against twenty-seven in upper primary, and none of the nine validated instruments records the process of working with AI ([[guo-ai-literacy-developmental-paces-2026|Guo et al., 2026]]).
 
 ## What AI literacy contains, and what the studies measure
 
@@ -95,7 +99,11 @@ A systematic map of elementary science research arrives at the same problem from
 
 - **Count the verification labor.** Teachers in the numeracy trial valued ready-made exercise lists but named photographing, waiting, and correcting recognition errors as the cost. Workload was negatively associated with gains, most clearly for mental demand, −2.569.
 
+- **Keep the behavioral moment adult-owned.** In 923 case-grounded dialogues drawn from special-education literature, the strongest of 11 tutors met a documented intervention in only 43.3% of long-term plans, defaulting to reassurance where a case prescribed verifying work first ([[tutor-case-bench-challenging-behaviors-2026|Park et al., 2026]]).
+
 - **Train before you scale.** Only 19.2% of 302 Turkish primary teachers surveyed had any AI training, and training and frequency of use were the variables most consistently associated with favorable perceptions. Willingness (M = 3.98) ran well ahead of experience (M = 3.00) ([[cigerci-primary-teachers-perceptions-ai-mathematics-2026|Ciğerci and Uygun, 2026]]).
+
+- **An AI observer is input to professional judgment, not an evaluation.** Across 12 primary classroom videos scored on the TEACH Primary framework, eight LLM endpoints disagreed with certified experts beyond 55% exact agreement, repeated runs varied widely, and reliable models were often the least accurate — because they credited explicit verbal cues over sustained student [[self-regulated-learning|self-regulation]] ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]]).
 
 - **Protect the boundary between personal and shared knowledge.** Generated lesson plans can look like collectively validated practice while carrying no community warrant. The risk falls hardest on novices, whose [[pedagogy|pedagogical]] content knowledge is still forming ([[webb-pck-genai-2026|Webb et al., 2026]]).
 

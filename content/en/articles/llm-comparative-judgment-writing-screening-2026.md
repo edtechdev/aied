@@ -1,4 +1,4 @@
-
+---
 title: "Validity of Large Language Model Comparative Judgment for Universal Writing Screening"
 created: "2026-09-03T09:00:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community"
 created: "2026-09-22T09:38:05-04:00"
 updated: "2026-09-22T09:38:05-04:00"

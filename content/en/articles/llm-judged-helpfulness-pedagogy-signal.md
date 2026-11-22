@@ -1,4 +1,4 @@
-
+---
 title: "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models"
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"

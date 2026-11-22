@@ -1,4 +1,4 @@
-
+---
 title: "Examining AI interaction profiles in generative AI supported fraction division problem posing"
 published: "2026-11-04"
 created: "2026-11-05T09:05:00-05:00"

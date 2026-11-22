@@ -1,4 +1,4 @@
-
+---
 title: "Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps"
 published: "2026-10-21"
 created: "2026-10-28T12:23:31-04:00"

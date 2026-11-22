@@ -1,4 +1,4 @@
-
+---
 title: "AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model"
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T07:42:07-04:00"

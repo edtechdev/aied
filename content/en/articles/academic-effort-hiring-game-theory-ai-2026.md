@@ -1,4 +1,4 @@
-
+---
 title: "Game theory of academic effort and hiring in the age of AI"
 created: "2026-10-27T09:35:41-04:00"
 updated: "2026-10-27T09:47:00-04:00"

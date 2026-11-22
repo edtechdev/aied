@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI as meaning-mediating infrastructure in education: a critical integrative review of inclusion, exclusion, and semantic transduction"
 created: "2026-11-21T13:00:00-05:00"
 updated: "2026-11-21T13:00:00-05:00"

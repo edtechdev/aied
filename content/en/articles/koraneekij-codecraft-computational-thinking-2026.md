@@ -1,6 +1,6 @@
-
+---
 title: "Code Craft: the digital design thinking and learning platform to enhance computational thinking and digital literacy"
-created: "2026-11-16T09:30:00-04:00"
+created: "2026-11-16T07:34:23-05:00"
 updated: "2026-11-16T09:30:00-04:00"
 type: article
 authors: ["Koraneekij, P.", "Khlaisang, J."]

@@ -1,4 +1,4 @@
-
+---
 title: "VARIA: Benchmarking Frontier LLMs on Construct-Equivalent Assessment Variant Generation"
 created: "2026-09-07T09:09:07-04:00"
 updated: "2026-09-19T11:14:39-04:00"

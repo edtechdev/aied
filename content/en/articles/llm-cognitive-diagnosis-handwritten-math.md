@@ -1,4 +1,4 @@
-
+---
 title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 created: "2026-05-31T12:17:35-04:00"
 updated: "2026-09-20T08:19:03-04:00"

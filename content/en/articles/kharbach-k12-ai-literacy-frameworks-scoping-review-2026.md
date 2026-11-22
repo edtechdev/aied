@@ -1,4 +1,4 @@
-
+---
 title: "K-12 AI literacy frameworks after generative AI: A scoping review"
 created: "2026-11-01T09:09:38-05:00"
 updated: "2026-11-02T06:45:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Control or Support: Early Student Perceptions of Generative AI in a Course on Grading"
 created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-12T18:45:00-05:00"

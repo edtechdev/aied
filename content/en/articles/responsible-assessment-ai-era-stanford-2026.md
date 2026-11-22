@@ -1,4 +1,4 @@
-
+---
 title: "Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Fostering feedback literacy by scaffolding self-regulated feedback: a comparative study of GenAI and human peers"
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-21T11:27:24-04:00"

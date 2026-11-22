@@ -1,4 +1,4 @@
-
+---
 title: "Generative artificial intelligence and creativity in K–12 education: A systematic scoping review"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T12:17:22-04:00"

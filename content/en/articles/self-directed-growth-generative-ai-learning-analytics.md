@@ -1,4 +1,4 @@
-
+---
 title: "Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework"
 created: "2026-08-16T04:26:01-04:00"
 updated: "2026-09-21T11:30:46-04:00"

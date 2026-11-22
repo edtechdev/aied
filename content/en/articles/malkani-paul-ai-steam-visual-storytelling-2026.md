@@ -1,4 +1,4 @@
-
+---
 title: "Synthesizing AI in STEAM: Visual Storytelling as a Meaning-Making Connector Between Bio-Inspired Design and Creative Expression"
 created: "2026-11-10T19:39:31-05:00"
 updated: "2026-11-10T22:20:00-05:00"

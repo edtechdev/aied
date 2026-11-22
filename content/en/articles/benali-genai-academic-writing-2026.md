@@ -1,4 +1,4 @@
-
+---
 title: "Teaching with generative artificial intelligence: Enhancing critical thinking and ethical awareness in academic writing"
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"

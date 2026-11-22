@@ -1,4 +1,4 @@
-
+---
 title: "A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment"
 created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-19T07:09:40-04:00"

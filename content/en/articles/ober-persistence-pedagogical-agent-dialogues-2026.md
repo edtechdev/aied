@@ -1,4 +1,4 @@
-
+---
 title: "Using LLMs to Identify Indicators of Persistence from Students' Dialogues with a Pedagogical Agent"
 created: "2026-11-05T20:00:00-05:00"
 updated: "2026-11-05T20:00:00-05:00"
@@ -23,7 +23,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Ober, Zhang, Zapata-Rivera, Schroeder and Botelho report a secondary analysis in which eight configurations of ChatGPT4o — regular and mini models at temperatures 0, 0.3, 0.7 and 1 — coded indicators of persistence, self-efficacy, interest, perceived challenge and prior knowledge from more than 10,000 chat-log turns that 107 English-learner middle school students produced in a [[conversational-ai|conversation-based assessment]] with [[pedagogical-agent|pedagogical agents]]. Every configuration re-coded the dataset with high self-consistency (Cohen's kappa above 0.86 and percent agreement above 88%), yet alignment with two trained human coders stayed poor to fair (kappa from 0.000 to 0.419), and counts of every construct correlated negatively with task performance. The authors read these patterns as evidence that ambiguous construct definitions, not the models, are the main barrier to [[ai-assisted-educational-research|LLM-assisted coding]] in [[educational-measurement|educational measurement]].
+> **Synthesis:** Ober, Zhang, Zapata-Rivera, Schroeder and Botelho report a secondary analysis in which eight configurations of ChatGPT4o — regular and mini models at temperatures 0, 0.3, 0.7 and 1 — coded indicators of persistence, [[self-efficacy|self-efficacy]], interest, perceived challenge and prior knowledge from more than 10,000 chat-log turns that 107 English-learner middle school students produced in a [[conversational-ai|conversation-based assessment]] with [[pedagogical-agent|pedagogical agents]]. Every configuration re-coded the dataset with high self-consistency (Cohen's kappa above 0.86 and percent agreement above 88%), yet alignment with two trained human coders stayed poor to fair (kappa from 0.000 to 0.419), and counts of every construct correlated negatively with task performance. The authors read these patterns as evidence that ambiguous construct definitions, not the models, are the main barrier to [[ai-assisted-educational-research|LLM-assisted coding]] in [[educational-measurement|educational measurement]].
 
 ## Key Findings
 

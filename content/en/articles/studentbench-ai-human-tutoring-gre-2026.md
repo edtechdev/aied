@@ -1,4 +1,4 @@
-
+---
 title: "StudentBench: AI and human tutoring yield equivalent GRE learning gains"
 created: "2026-09-24T09:11:55-04:00"
 updated: "2026-09-24T09:11:55-04:00"

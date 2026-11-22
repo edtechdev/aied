@@ -1,4 +1,4 @@
-
+---
 title: "Developing AI literacy OER: A literature-informed rubric for design and review"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"

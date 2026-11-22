@@ -1,4 +1,4 @@
-
+---
 title: "AI is ready, but are the students. From answer-making to sense-making"
 created: "2026-11-11T08:59:44-05:00"
 updated: "2026-11-11T09:20:00-05:00"

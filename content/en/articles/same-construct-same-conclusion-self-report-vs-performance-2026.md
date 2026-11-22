@@ -1,4 +1,4 @@
-
+---
 title: "Same construct, same conclusion? A construct-observability perspective on self-report and non-self-report indicators in AI education research: a two-phase systematic review"
 created: "2026-10-19T16:24:56-04:00"
 updated: "2026-10-19T16:24:56-04:00"

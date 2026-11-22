@@ -1,4 +1,4 @@
-
+---
 title: "Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements"
 created: "2026-09-29T17:53:57-04:00"
 updated: "2026-09-29T17:53:57-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Bias and Reliability in Learning-Style Inference from Student–AI Dialogues: An Evaluation of GPT-4o and Gemini 2.0 Flash"
 created: "2026-10-21T09:27:54-04:00"
 updated: "2026-10-21T09:30:00-04:00"

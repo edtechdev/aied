@@ -1,4 +1,4 @@
-
+---
 title: "AcademiClaw: When Students Set Challenges for AI Agents"
 created: "2026-09-24T02:26:28-04:00"
 updated: "2026-09-24T05:18:25-04:00"

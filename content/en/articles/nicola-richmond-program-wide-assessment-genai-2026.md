@@ -1,4 +1,4 @@
-
+---
 title: "Implementing a collaborative program-wide approach to redeveloping assessment in response to generative artificial intelligence (GenAI)"
 created: "2026-10-11T08:00:00-04:00"
 updated: "2026-10-11T08:00:00-04:00"

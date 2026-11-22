@@ -1,4 +1,4 @@
-
+---
 title: "Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study"
 created: "2026-09-18T05:10:00-04:00"
 updated: "2026-09-19T10:43:18-04:00"

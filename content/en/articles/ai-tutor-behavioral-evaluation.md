@@ -1,4 +1,4 @@
-
+---
 title: "The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness"
 created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"

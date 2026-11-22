@@ -1,4 +1,4 @@
-
+---
 title: "The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints"
 created: "2026-08-09T08:35:52-04:00"
 updated: "2026-09-19T10:56:42-04:00"

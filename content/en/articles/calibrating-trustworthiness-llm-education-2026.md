@@ -1,4 +1,4 @@
-
+---
 title: "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education"
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"

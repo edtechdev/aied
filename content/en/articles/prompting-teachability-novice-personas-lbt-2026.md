@@ -1,4 +1,4 @@
-
+---
 title: "Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts"
 created: "2026-08-14T10:45:34-04:00"
 updated: "2026-09-19T10:03:37-04:00"

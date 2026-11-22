@@ -1,4 +1,4 @@
-
+---
 title: "Teacher competence and institutional governance for learner data privacy in AI mediated education"
 created: "2026-11-12T05:30:00-05:00"
 updated: "2026-11-12T18:10:00-05:00"

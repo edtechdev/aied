@@ -1,4 +1,4 @@
-
+---
 title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-11-04T16:51:25-05:00"

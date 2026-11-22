@@ -1,4 +1,4 @@
-
+---
 title: "Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training"
 created: "2026-06-01T04:33:04-04:00"
 updated: "2026-10-02T07:31:21-04:00"

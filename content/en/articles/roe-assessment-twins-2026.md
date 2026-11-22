@@ -1,4 +1,4 @@
-
+---
 title: "Assessment twins: An approach for strengthening assessment validity in the age of generative AI"
 created: "2026-08-22T17:35:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Artificial intelligence literacy education in primary schools: a review"
 created: "2026-11-15T06:40:00-05:00"
 updated: "2026-11-15T06:40:00-05:00"
@@ -27,7 +27,7 @@ ai_assist:
     agent: Hermes-Agent
 ---
 
-> **Synthesis:** This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] maps what [[ai-literacy|AI literacy]] looks like when it is taught to children rather than to computer science undergraduates, synthesizing 25 empirical studies published between 2019 and March 2024. Its central move is definitional: primary-school AI literacy is assembled from digital literacy for interacting with AI, computational thinking, critical data literacy, and [[ethics|AI ethics]] held together, with ethics treated as core content. The dominant pedagogy is [[constructivist|constructionist]] — [[project-based-learning|project-based work]], programming, and interaction with intelligent agents — and it is usually assessed by self-report survey. Reported outcomes are positive, but the base is small, short-term, geographically narrow, and largely silent on children without coding experience.
+> **Synthesis:** This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] maps what [[ai-literacy|AI literacy]] looks like when it is taught to children rather than to computer science undergraduates, synthesizing 25 empirical studies published between 2019 and March 2024. Its central move is definitional: primary-school AI literacy is assembled from digital literacy for interacting with AI, [[computational-thinking|computational thinking]], critical data literacy, and [[ethics|AI ethics]] held together, with ethics treated as core content. The dominant pedagogy is [[constructivist|constructionist]] — [[project-based-learning|project-based work]], programming, and interaction with intelligent agents — and it is usually assessed by self-report survey. Reported outcomes are positive, but the base is small, short-term, geographically narrow, and largely silent on children without coding experience.
 
 ## Key Findings
 

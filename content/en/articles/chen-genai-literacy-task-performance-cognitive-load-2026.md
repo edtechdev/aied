@@ -1,4 +1,4 @@
-
+---
 title: "Beyond access: How GenAI literacy relates to task performance, motivation, cognitive load and interaction patterns in AI-assisted learning environment"
 created: "2026-11-02T12:39:28-05:00"
 updated: "2026-11-02T13:20:00-05:00"

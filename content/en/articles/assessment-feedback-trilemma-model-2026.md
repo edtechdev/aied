@@ -1,4 +1,4 @@
-
+---
 title: "Trade-offs in assessment and feedback design: a trilemma-based model"
 created: "2026-10-17T03:41:52-04:00"
 updated: "2026-10-17T07:09:05-04:00"

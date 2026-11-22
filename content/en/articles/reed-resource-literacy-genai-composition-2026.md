@@ -1,4 +1,4 @@
-
+---
 title: "Addressing Resource Literacy Through Structured AI Integration in Online English Composition"
 created: "2026-09-20T16:21:35-04:00"
 updated: "2026-09-20T16:21:35-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Distinguishing performance gains from learning when using generative AI"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-26T07:13:32-04:00"

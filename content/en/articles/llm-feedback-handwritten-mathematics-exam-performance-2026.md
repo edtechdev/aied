@@ -1,4 +1,4 @@
-
+---
 title: "Evaluating LLM-Generated Feedback on Handwritten Mathematics: Feedback Quality and Subsequent Exam Performance"
 created: "2026-10-21T09:27:54-04:00"
 updated: "2026-10-21T09:30:00-04:00"

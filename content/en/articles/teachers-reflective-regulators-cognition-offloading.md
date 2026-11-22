@@ -1,4 +1,4 @@
-
+---
 title: "Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T09:24:40-04:00"

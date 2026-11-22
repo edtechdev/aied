@@ -1,4 +1,4 @@
-
+---
 title: "From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning"
 created: "2026-09-22T09:22:13-04:00"
 updated: "2026-09-22T09:22:13-04:00"

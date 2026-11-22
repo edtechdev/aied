@@ -1,4 +1,4 @@
-
+---
 title: "Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts"
 created: "2026-09-03T14:30:55-04:00"
 updated: "2026-09-19T07:22:56-04:00"

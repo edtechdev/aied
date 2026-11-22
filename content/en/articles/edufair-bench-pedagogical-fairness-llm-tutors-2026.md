@@ -1,4 +1,4 @@
-
+---
 title: "EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics"
 created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-19T07:32:15-04:00"

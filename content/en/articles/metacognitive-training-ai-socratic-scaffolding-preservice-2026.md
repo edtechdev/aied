@@ -1,4 +1,4 @@
-
+---
 title: "Metacognitive training and AI-based Socratic scaffolding in pre-service teachers' reflective practice: a dual-study experimental design"
 created: "2026-10-15T09:15:00-04:00"
 updated: "2026-10-15T09:15:00-04:00"

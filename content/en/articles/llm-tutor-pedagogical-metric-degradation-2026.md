@@ -1,4 +1,4 @@
-
+---
 title: "The learner who does not learn: when optimizing a pedagogical metric degrades LLM tutoring"
 created: "2026-10-09T09:30:00-04:00"
 updated: "2026-10-09T09:30:00-04:00"

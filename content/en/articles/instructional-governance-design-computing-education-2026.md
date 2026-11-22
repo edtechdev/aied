@@ -1,4 +1,4 @@
-
+---
 title: "Instructional Governance by Design: A Framework for AI in Computing Education"
 created: "2026-09-24T09:35:17-04:00"
 updated: "2026-09-24T09:35:17-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Rethinking artificial-intelligence literacy through the lens of teacher educators: The adaptive AI model"
 created: "2026-09-21T12:17:00-04:00"
 updated: "2026-09-21T12:17:00-04:00"

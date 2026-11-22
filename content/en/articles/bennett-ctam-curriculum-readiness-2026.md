@@ -1,4 +1,4 @@
-
+---
 title: "Cultural and Digital Readiness for AI-Integrated Higher Education: A C-TAM-Informed Curriculum Design Framework"
 created: "2026-11-11T07:41:39-05:00"
 updated: "2026-11-11T08:09:35-05:00"

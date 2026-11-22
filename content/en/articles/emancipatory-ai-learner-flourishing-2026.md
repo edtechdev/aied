@@ -1,4 +1,4 @@
-
+---
 title: An Emancipatory Vision for Designing (Generative) AI for Learner Flourishing
 created: "2026-09-09T09:05:09-04:00"
 updated: "2026-09-19T07:12:05-04:00"

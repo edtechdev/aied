@@ -1,4 +1,4 @@
-
+---
 title: "The Impact of Unscaffolded GenAI Use on Pre-Service Teachers' AI Readiness, Self-Regulated Learning, Critical Thinking, and Instructional Design Performance: A Quasi-Experimental Study"
 created: "2026-09-30T12:34:11-04:00"
 updated: "2026-09-30T12:34:11-04:00"

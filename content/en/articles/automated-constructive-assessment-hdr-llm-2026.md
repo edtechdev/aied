@@ -1,4 +1,4 @@
-
+---
 title: "Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence"
 created: "2026-09-23T09:16:20-04:00"
 updated: "2026-09-23T09:24:05-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Innovative assessment and grading practices in higher education: A critical exploration for management educators"
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"

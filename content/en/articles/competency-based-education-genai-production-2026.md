@@ -1,4 +1,4 @@
-
+---
 title: "Knowledge, skills, attitudes, production: Competency-based education after generative AI"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T10:23:54-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Black Box Assessment: Rethinking Integrity and Learning for a Time of Generative AI"
 created: "2026-11-12T15:05:00-05:00"
 updated: "2026-11-12T15:05:00-05:00"

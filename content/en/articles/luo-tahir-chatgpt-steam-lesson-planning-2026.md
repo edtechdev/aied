@@ -1,4 +1,4 @@
-
+---
 title: "ChatGPT-assisted lesson planning for children's STEAM arts education: An experimental study on benefits, challenges, methods, and a prompt framework"
 created: "2026-09-03T14:03:23-04:00"
 updated: "2026-11-16T22:58:00-05:00"

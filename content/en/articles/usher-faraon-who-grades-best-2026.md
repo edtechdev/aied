@@ -1,4 +1,4 @@
-
+---
 title: "Who grades best? Comparing ChatGPT, peer, and instructor evaluations across varying levels of student project quality"
 created: "2026-09-01T10:20:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"

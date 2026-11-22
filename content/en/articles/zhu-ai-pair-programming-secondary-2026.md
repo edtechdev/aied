@@ -1,4 +1,4 @@
-
+---
 title: "AI-Supported Programming Environments and Pair Programming Role Strategies in Secondary School: An Exploratory Study"
 created: "2026-11-21T08:25:00-05:00"
 updated: "2026-11-21T08:25:00-05:00"

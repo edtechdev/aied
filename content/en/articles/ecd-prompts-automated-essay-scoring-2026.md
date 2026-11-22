@@ -1,4 +1,4 @@
-
+---
 title: "Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring"
 created: "2026-10-14T09:27:34-04:00"
 updated: "2026-10-14T09:30:00-04:00"

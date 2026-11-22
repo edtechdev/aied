@@ -1,4 +1,4 @@
-
+---
 title: Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"

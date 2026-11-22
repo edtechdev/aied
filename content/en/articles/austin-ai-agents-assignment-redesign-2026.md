@@ -1,4 +1,4 @@
-
+---
 title: "When AI Agents Can Complete the Assignment: Practical Strategies for Designing Tasks That Still Require Human Thinking"
 created: "2026-09-20T16:21:27-04:00"
 updated: "2026-11-12T16:20:00-05:00"

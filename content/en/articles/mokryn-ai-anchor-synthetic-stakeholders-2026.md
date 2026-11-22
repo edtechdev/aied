@@ -1,6 +1,6 @@
-
+---
 title: "AI as Anchor: How Interview Sequencing Relates to the Appropriation of Synthetic Stakeholder Voices in Design Education"
-created: "2026-11-18T09:30:00-05:00"
+created: "2026-11-18T09:22:29-05:00"
 updated: "2026-11-18T09:30:00-05:00"
 type: article
 pedagogy: [experiential-learning, project-based-learning]

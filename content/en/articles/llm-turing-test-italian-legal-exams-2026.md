@@ -1,4 +1,4 @@
-
+---
 title: What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-10-28T01:06:31-04:00"

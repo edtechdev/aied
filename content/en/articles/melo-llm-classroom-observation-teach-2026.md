@@ -1,4 +1,4 @@
-
+---
 title: "Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment"
 created: "2026-08-15T15:16:58-04:00"
 updated: "2026-09-19T10:03:37-04:00"

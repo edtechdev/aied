@@ -1,4 +1,4 @@
-
+---
 title: "LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University"
 created: "2026-08-20T02:55:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"

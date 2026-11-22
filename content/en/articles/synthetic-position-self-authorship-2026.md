@@ -1,4 +1,4 @@
-
+---
 title: "The synthetic position: generative artificial intelligence and the suspension of self-authorship in emerging adulthood"
 created: "2026-09-30T11:00:37-04:00"
 updated: "2026-09-30T14:00:00-04:00"

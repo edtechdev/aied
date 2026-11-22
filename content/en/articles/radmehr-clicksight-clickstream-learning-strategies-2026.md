@@ -1,4 +1,4 @@
-
+---
 title: "ClickSight: An LLM Framework for Interpreting Student Clickstreams Through Learning Strategies"
 published: "2026-11-01"
 created: "2026-11-03T09:27:09-05:00"

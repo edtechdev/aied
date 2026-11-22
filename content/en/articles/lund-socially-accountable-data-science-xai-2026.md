@@ -1,4 +1,4 @@
-
+---
 title: "Toward socially accountable data science education: A conceptual framework for integrating explainable AI and accountability principles"
 created: "2026-09-17T04:10:00-04:00"
 updated: "2026-09-24T16:43:35-04:00"

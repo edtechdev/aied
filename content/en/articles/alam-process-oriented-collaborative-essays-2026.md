@@ -1,4 +1,4 @@
-
+---
 title: "Process-Oriented Collaborative Essays: Empowering Undergraduate Students Through Assessment Redesign in the Age of Generative AI"
 created: "2026-10-03T12:51:45-04:00"
 updated: "2026-10-03T12:51:45-04:00"

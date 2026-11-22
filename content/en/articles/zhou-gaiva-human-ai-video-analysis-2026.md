@@ -1,4 +1,4 @@
-
+---
 title: "GAIVA: A Generative AI Framework for Human–AI Collaboration in Educational Video Analysis"
 created: "2026-11-05T20:00:00-05:00"
 updated: "2026-11-05T20:00:00-05:00"
@@ -21,7 +21,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Zhou, Kang and Nguyen introduce GAIVA (Generative Artificial Intelligence for Video Analysis), a four-phase framework that pairs [[multimodal|multimodal large language models]] with text-only [[llm|large language models]] to transcribe, code, and interpret classroom video while keeping researchers in the loop at every stage. In a case study of five recordings from a simulation-based collaborative science activity, the role-assignment prompt produced the most balanced LLaVA transcriptions, and GPT-4o applied the resulting five-category codebook with inter-rater reliability comparable to human coders, reaching κ = 0.91 for Coordinated Collaboration against a human–human κ of 0.83. The pipeline also surfaced Peripheral Engagement, a construct absent from the guiding theories but stable across all ten coding batches, showing that [[ai-assisted-educational-research|AI-assisted video analysis]] can support both deductive alignment and inductive discovery.
+> **Synthesis:** Zhou, Kang and Nguyen introduce GAIVA ([[generative-ai|Generative Artificial Intelligence]] for Video Analysis), a four-phase framework that pairs [[multimodal|multimodal large language models]] with text-only [[llm|large language models]] to transcribe, code, and interpret classroom video while keeping researchers in the loop at every stage. In a case study of five recordings from a simulation-based collaborative science activity, the role-assignment prompt produced the most balanced LLaVA transcriptions, and GPT-4o applied the resulting five-category codebook with inter-rater reliability comparable to human coders, reaching κ = 0.91 for Coordinated Collaboration against a human–human κ of 0.83. The pipeline also surfaced Peripheral Engagement, a construct absent from the guiding theories but stable across all ten coding batches, showing that [[ai-assisted-educational-research|AI-assisted video analysis]] can support both deductive alignment and inductive discovery.
 
 ## Key Findings
 

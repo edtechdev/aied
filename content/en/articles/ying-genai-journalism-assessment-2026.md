@@ -1,4 +1,4 @@
-
+---
 title: "From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI"
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"

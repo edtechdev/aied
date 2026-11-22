@@ -1,4 +1,4 @@
-
+---
 title: "From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"

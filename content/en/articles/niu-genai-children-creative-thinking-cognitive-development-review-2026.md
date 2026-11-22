@@ -1,4 +1,4 @@
-
+---
 title: "The role of generative AI in facilitating children’s creative thinking and cognitive development: a systematic scoping review"
 created: "2026-09-23T12:50:00-04:00"
 updated: "2026-09-23T13:40:00-04:00"

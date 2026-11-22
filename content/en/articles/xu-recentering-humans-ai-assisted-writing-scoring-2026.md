@@ -1,4 +1,4 @@
-
+---
 title: "Re-centering the role of humans in AI-assisted writing scoring: A scoping review from a critical perspective"
 created: "2026-10-25T00:00:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"

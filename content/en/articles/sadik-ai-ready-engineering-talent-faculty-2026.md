@@ -1,4 +1,4 @@
-
+---
 title: "Preparing AI-Ready Engineering Talent: Faculty Perspectives on Generative AI, Foundational Competence, and Workforce Readiness"
 created: "2026-09-29T14:39:22-04:00"
 updated: "2026-10-16T14:32:42-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "A mixed-methods analysis of AI scaffolding patterns and student inquiry profiles in a middle-school agriculture-STEM classroom"
 created: "2026-10-04T10:38:58-04:00"
 updated: "2026-10-04T10:38:58-04:00"

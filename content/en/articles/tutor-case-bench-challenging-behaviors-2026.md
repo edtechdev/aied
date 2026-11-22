@@ -1,4 +1,4 @@
-
+---
 title: "TutorCaseBench: A Case-Grounded Benchmark for Evaluating LLM Tutors in Supporting Students with Challenging Behaviors"
 created: "2026-10-23T09:21:12-04:00"
 updated: "2026-10-23T09:45:00-04:00"

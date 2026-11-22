@@ -1,4 +1,4 @@
-
+---
 title: "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System"
 created: "2026-07-16T04:33:04-04:00"
 updated: "2026-09-20T03:45:11-04:00"

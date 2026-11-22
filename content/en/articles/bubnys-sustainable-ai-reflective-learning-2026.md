@@ -1,4 +1,4 @@
-
+---
 title: "Sustainable AI-Supported Reflective Learning in Higher Education: An Integrative Review and the SAREL Design Framework"
 created: "2026-11-20T08:50:00-05:00"
 updated: "2026-11-20T08:50:00-05:00"

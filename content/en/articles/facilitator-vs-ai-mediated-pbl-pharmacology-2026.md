@@ -1,4 +1,4 @@
-
+---
 title: "Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students"
 created: "2026-10-15T09:15:00-04:00"
 updated: "2026-10-15T09:15:00-04:00"

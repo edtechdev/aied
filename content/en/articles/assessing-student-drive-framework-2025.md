@@ -1,4 +1,4 @@
-
+---
 title: "Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI"
 created: "2026-08-24T05:31:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"

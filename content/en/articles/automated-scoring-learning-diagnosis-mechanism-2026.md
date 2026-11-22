@@ -1,4 +1,4 @@
-
+---
 title: "From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing"
 created: "2026-09-27T12:30:36-04:00"
 updated: "2026-09-27T12:30:36-04:00"

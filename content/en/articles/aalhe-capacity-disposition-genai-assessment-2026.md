@@ -1,4 +1,4 @@
-
+---
 title: "Capacity and Disposition: A Framework for Understanding GenAI Engagement in Assessment Practice"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"

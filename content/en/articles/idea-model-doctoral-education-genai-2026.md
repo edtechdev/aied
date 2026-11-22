@@ -1,4 +1,4 @@
-
+---
 title: "Generative artificial intelligence in doctoral education: a participatory action research evaluation of the Dr. I.D.E.A. model"
 created: "2026-11-19T10:06:00-05:00"
 updated: "2026-11-19T10:06:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model"
 created: "2026-09-25T11:42:30-04:00"
 updated: "2026-09-25T12:56:00-04:00"

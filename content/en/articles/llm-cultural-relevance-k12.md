@@ -1,4 +1,4 @@
-
+---
 title: "LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example"
 created: "2026-05-08T07:38:00-04:00"
 updated: "2026-09-18T19:55:59-04:00"

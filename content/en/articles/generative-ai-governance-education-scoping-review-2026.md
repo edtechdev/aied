@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI Governance in Education: A Scoping Review of Principles, Mechanisms, and Risks in English-Language Documents"
 created: "2026-10-23T09:21:12-04:00"
 updated: "2026-10-23T09:45:00-04:00"

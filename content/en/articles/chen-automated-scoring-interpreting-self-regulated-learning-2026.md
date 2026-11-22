@@ -1,4 +1,4 @@
-
+---
 title: "Impact of automated scoring on interpreting performance and self-regulated learning: evidence from a pedagogical experiment"
 created: "2026-09-23T13:05:00-04:00"
 updated: "2026-09-23T13:05:00-04:00"
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Chen and Liu (2026) ask what automated scoring does inside a real interpreting classroom. Over 14 weeks, 46 English Translation and Interpreting sophomores either submitted weekly renditions to the Yunyi system, which returned an immediate score, transcript, marked errors, and a reference rendition, or followed the same [[curriculum-design|curriculum]] with only collective [[teacher-role|teacher]] feedback. The automated group improved more overall, but the gain stayed on the surface of language: [[automated-assessment|linguistic accuracy]] and logical coherence rose, while information fidelity and delivery fluency did not move. [[self-regulated-learning|Self-regulated learning]] was uneven in a matching way, with monitoring during practice correlating with score gains while planning and emotional motivation stayed near the scale midpoint. Interviews with seven students show learners comparing scores without analyzing causes, setting goals from the previous score, and meeting low scores with [[anxiety-and-stress|anxiety]], avoidance, or deferral. The tool reached the performance phase of the cycle, not the planning that precedes it.
+> **Synthesis:** Chen and Liu (2026) ask what automated scoring does inside a real interpreting classroom. Over 14 weeks, 46 English Translation and Interpreting sophomores either submitted weekly renditions to the Yunyi system, which returned an immediate score, transcript, marked errors, and a reference rendition, or followed the same [[curriculum-design|curriculum]] with only collective [[teacher-role|teacher]] [[feedback|feedback]]. The automated group improved more overall, but the gain stayed on the surface of language: [[automated-assessment|linguistic accuracy]] and logical coherence rose, while information fidelity and delivery fluency did not move. [[self-regulated-learning|Self-regulated learning]] was uneven in a matching way, with monitoring during practice correlating with score gains while planning and emotional [[motivation|motivation]] stayed near the scale midpoint. Interviews with seven students show learners comparing scores without analyzing causes, setting goals from the previous score, and meeting low scores with [[anxiety-and-stress|anxiety]], avoidance, or deferral. The tool reached the performance phase of the cycle, not the planning that precedes it.
 
 ## Key Findings
 

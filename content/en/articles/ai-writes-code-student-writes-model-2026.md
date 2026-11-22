@@ -1,4 +1,4 @@
-
+---
 title: "The AI writes the code, the student writes the model: A theory and measurement programme for learning by construction with generative AI"
 created: "2026-08-24T05:31:00-04:00"
 updated: "2026-09-24T12:30:00-04:00"

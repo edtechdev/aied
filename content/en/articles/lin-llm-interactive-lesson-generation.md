@@ -1,4 +1,4 @@
-
+---
 title: "Automatic Large Language Models Creation of Interactive Learning Lessons"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-19T10:03:37-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Optimizing large language model-driven automated essay scoring: Integrating linguistic features and prompt engineering to enhance scoring accuracy"
 created: "2026-11-13T09:15:00-05:00"
 updated: "2026-11-13T10:45:00-05:00"

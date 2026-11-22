@@ -1,6 +1,6 @@
-
+---
 title: "The pedagogical power of recognition in feedback"
-created: "2026-11-13T16:30:00-05:00"
+created: "2026-11-13T16:24:05-05:00"
 updated: "2026-11-13T16:30:00-05:00"
 type: article
 published: 2026-02-25

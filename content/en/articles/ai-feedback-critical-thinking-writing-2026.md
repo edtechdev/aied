@@ -1,4 +1,4 @@
-
+---
 title: "Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency"
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-09-19T07:37:16-04:00"

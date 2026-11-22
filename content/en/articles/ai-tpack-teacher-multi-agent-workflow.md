@@ -1,4 +1,4 @@
-
+---
 title: "Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design"
 created: "2026-05-17T04:33:04-04:00"
 updated: "2026-09-24T06:37:39-04:00"

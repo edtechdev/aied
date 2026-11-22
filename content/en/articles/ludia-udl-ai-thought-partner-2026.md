@@ -1,4 +1,4 @@
-
+---
 title: "LUDIA: A Design and Evidence Statement"
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-09-19T10:43:18-04:00"

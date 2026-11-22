@@ -1,4 +1,4 @@
-
+---
 title: "Mapping generative AI in higher education teaching and learning: a scoping review"
 created: "2026-10-18T08:25:00-04:00"
 updated: "2026-10-18T10:37:53-04:00"

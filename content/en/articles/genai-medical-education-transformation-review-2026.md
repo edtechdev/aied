@@ -1,4 +1,4 @@
-
+---
 title: "Generative artificial intelligence and the transformation of medical education: a scoping review"
 created: "2026-09-30T11:13:13-04:00"
 updated: "2026-09-30T11:13:13-04:00"

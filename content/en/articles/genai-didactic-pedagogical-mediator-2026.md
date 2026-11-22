@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI as a Didactic-Pedagogical Mediator: Rethinking Human Roles and Pedagogical Design in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-26T07:13:32-04:00"

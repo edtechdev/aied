@@ -1,6 +1,6 @@
-
+---
 title: "Inclusive assessment design in the age of GenAI: Advancing pedagogy and practice"
-created: "2026-11-16T09:00:00-04:00"
+created: "2026-11-16T07:34:23-05:00"
 updated: "2026-11-16T09:00:00-04:00"
 type: article
 authors: ["McDonald, S.", "Saunders, G.", "Kennedy, E.", "Tansell, A."]

@@ -1,4 +1,4 @@
-
+---
 title: Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-10-28T00:58:16-04:00"

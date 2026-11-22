@@ -1,4 +1,4 @@
-
+---
 title: "From unified to differentiated materials: Generative AI–supported adaptation of EAP reading materials"
 created: "2026-08-13T05:14:23-04:00"
 updated: "2026-09-19T12:17:22-04:00"

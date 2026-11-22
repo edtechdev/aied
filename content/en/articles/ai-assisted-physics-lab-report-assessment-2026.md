@@ -1,4 +1,4 @@
-
+---
 title: "AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice"
 created: "2026-09-22T09:31:48-04:00"
 updated: "2026-09-22T09:31:48-04:00"

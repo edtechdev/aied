@@ -1,4 +1,4 @@
-
+---
 title: "Alice: A Large-Scale German Benchmark for Rubric-Based Multi-Dimensional Automatic Short Answer Scoring"
 created: "2026-10-08T09:15:00-04:00"
 updated: "2026-10-08T09:15:00-04:00"

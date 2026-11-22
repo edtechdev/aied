@@ -1,4 +1,4 @@
-
+---
 title: "ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"

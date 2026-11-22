@@ -1,4 +1,4 @@
-
+---
 title: "A metacognitive approach to learning and performance in human-AI interaction"
 published: "2026-10-30"
 created: "2026-11-03T04:09:19-05:00"

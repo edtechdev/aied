@@ -1,4 +1,4 @@
-
+---
 title: "Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities"
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"

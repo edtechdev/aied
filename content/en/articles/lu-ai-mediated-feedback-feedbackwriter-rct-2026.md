@@ -1,4 +1,4 @@
-
+---
 title: "AI-Mediated Feedback Improves Student Revisions: A Randomized Trial with FeedbackWriter in a Large Undergraduate Course"
 created: "2026-11-10T19:45:00-05:00"
 updated: "2026-11-14T11:30:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff"
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"

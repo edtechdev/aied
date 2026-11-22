@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI in Higher Education Instructional Design: A Systematic Review of AI Roles, Educator Competences, and Professional Development Approaches"
 created: "2026-10-26T04:10:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"

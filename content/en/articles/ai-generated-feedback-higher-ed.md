@@ -1,4 +1,4 @@
-
+---
 title: "Artificial intelligence and feedback in university education: effectiveness and student perceptions"
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education"
 created: "2026-08-31T09:06:11-04:00"
 updated: "2026-09-19T08:33:23-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects"
 created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-19T09:08:46-04:00"

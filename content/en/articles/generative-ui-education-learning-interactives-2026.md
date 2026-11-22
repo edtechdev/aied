@@ -1,4 +1,4 @@
-
+---
 title: "Harnessing Generative UI for Education: Tailored Learning Interactives"
 created: "2026-09-18T09:15:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"

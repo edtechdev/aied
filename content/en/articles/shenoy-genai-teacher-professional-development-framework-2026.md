@@ -1,4 +1,4 @@
-
+---
 title: "A critical review and actionable framework for integrating generative AI into teacher professional development"
 created: "2026-11-21T13:00:00-05:00"
 updated: "2026-11-21T13:00:00-05:00"

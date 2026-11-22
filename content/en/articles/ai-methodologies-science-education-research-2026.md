@@ -1,4 +1,4 @@
-
+---
 title: "Amid an Epistemic Iteration: How AI Methodologies May Transform the Nature of Science Education Research"
 created: "2026-10-05T10:22:00-04:00"
 updated: "2026-10-05T10:22:00-04:00"

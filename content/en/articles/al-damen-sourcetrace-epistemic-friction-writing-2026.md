@@ -1,4 +1,4 @@
-
+---
 title: "SourceTrace: Designing Epistemic Friction for Source-Based Second-Language Argument Writing With Generative Artificial Intelligence"
 created: "2026-11-15T06:40:00-05:00"
 updated: "2026-11-15T06:40:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI"
 created: "2026-09-24T09:35:29-04:00"
 updated: "2026-09-24T09:35:29-04:00"

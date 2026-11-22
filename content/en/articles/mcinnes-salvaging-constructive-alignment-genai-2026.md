@@ -1,4 +1,4 @@
-
+---
 title: "Efficiency at what cost? Salvaging constructive alignment from the GenAI hype"
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-19T10:40:23-04:00"

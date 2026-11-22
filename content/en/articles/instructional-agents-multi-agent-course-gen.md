@@ -1,4 +1,4 @@
-
+---
 title: "Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design"
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-09-19T14:23:47-04:00"

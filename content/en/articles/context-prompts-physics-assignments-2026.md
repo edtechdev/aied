@@ -1,4 +1,4 @@
-
+---
 title: "Artificial Intelligence Driven Physics Assignments using Context Prompts"
 created: "2026-09-22T09:24:11-04:00"
 updated: "2026-09-22T09:24:11-04:00"

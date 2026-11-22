@@ -1,4 +1,4 @@
-
+---
 title: "Evolution of AI in Education: Agentic Workflows"
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"

@@ -1,6 +1,6 @@
-
+---
 title: "The TRAIL Instrument: Development and Validation of a Diagnostic Measure of Educator Trust and Readiness for Artificial Intelligence in Learning"
-created: "2026-11-17T09:40:00-05:00"
+created: "2026-11-17T09:29:23-05:00"
 updated: "2026-11-17T09:40:00-05:00"
 type: article
 authors: ["McGehee, N."]

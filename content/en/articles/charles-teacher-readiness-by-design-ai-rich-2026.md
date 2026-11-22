@@ -1,4 +1,4 @@
-
+---
 title: "Teacher Readiness-By-Design for AI-Rich Interactive Learning"
 created: "2026-09-25T20:37:57-04:00"
 updated: "2026-09-25T21:52:24-04:00"

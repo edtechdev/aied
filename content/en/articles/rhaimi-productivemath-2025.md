@@ -1,4 +1,4 @@
-
+---
 title: "ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching"
 created: "2026-08-23T08:20:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"

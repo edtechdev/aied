@@ -1,4 +1,4 @@
-
+---
 title: "Multidimensional engagement effects of generative AI adoption among minority ethnic international students in UK higher education"
 created: "2026-10-11T08:05:00-04:00"
 updated: "2026-10-11T08:05:00-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Metacognitive Ownership in Human-AI Regulation: Construct Definition, Boundaries, and a Research Agenda"
 created: "2026-09-30T09:09:01-04:00"
 updated: "2026-09-30T09:09:01-04:00"

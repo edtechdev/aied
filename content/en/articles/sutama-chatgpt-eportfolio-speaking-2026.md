@@ -1,4 +1,4 @@
-
+---
 title: "Aligning ChatGPT with e-portfolio assessment as EFL learning model: its effect on students' speaking performance and feedback literacy"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"

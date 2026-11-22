@@ -1,4 +1,4 @@
-
+---
 title: "Reconsidering the use of oral exams and assessments: An old way to move into a new future"
 created: "2026-08-19T17:10:00-04:00"
 updated: "2026-09-23T08:37:10-04:00"

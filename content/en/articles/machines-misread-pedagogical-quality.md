@@ -1,4 +1,4 @@
-
+---
 title: "Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation"
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"

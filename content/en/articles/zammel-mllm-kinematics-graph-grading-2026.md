@@ -1,6 +1,6 @@
-
+---
 title: "Stress Testing a Multimodal Large Language Model Grading Assistant on Kinematics Graph Reading"
-created: "2026-11-18T04:35:00-05:00"
+created: "2026-11-18T04:25:22-05:00"
 updated: "2026-11-18T04:35:00-05:00"
 type: article
 evidence_context: educational

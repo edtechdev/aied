@@ -1,4 +1,4 @@
-
+---
 title: "Unravelling undergraduates' development of evaluative judgments through AI-supported internal feedback"
 created: "2026-08-11T06:10:03-04:00"
 updated: "2026-09-19T07:37:16-04:00"
@@ -14,7 +14,7 @@ discipline: [writing education]
 audience: [instructors, faculty developers]
 ---
 
-> **Synthesis:** Unravelling undergraduates' development of [[evaluative-judgment|evaluative judgments]] through AI-supported internal feedback
+> **Synthesis:** Unravelling undergraduates' development of [[evaluative-judgment|evaluative judgments]] through AI-supported internal [[feedback|feedback]]
 
 ## Key Findings
 

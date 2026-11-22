@@ -1,4 +1,4 @@
-
+---
 title: "Teaching students to question the machine: An AI literacy intervention improves students' regulation of LLM use in a science task"
 created: "2026-09-17T02:58:21-04:00"
 updated: "2026-09-19T10:43:18-04:00"

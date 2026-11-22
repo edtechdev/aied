@@ -1,4 +1,4 @@
-
+---
 title: "Declared, Not Detected: A Blockchain-Anchored, Agentic Framework for Academic Integrity in the Generative AI Era"
 created: "2026-11-05T15:30:00-05:00"
 updated: "2026-11-05T15:30:00-05:00"

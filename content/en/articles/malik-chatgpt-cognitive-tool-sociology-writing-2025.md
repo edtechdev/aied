@@ -1,4 +1,4 @@
-
+---
 title: "ChatGPT as a Cognitive Tool in Sociology: Students' Perceptions and Its Impact on Academic Writing Practices"
 created: "2026-11-17T05:40:00-05:00"
 updated: "2026-11-17T05:40:00-05:00"

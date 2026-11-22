@@ -1,4 +1,4 @@
-
+---
 title: "Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting"
 created: "2026-08-09T08:25:18-04:00"
 updated: "2026-10-03T02:57:43-04:00"

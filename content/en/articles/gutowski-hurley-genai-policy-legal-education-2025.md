@@ -1,4 +1,4 @@
-
+---
 title: "Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education"
 created: "2026-09-18T05:20:00-04:00"
 updated: "2026-09-19T12:17:22-04:00"

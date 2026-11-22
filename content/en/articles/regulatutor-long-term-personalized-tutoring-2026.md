@@ -1,4 +1,4 @@
-
+---
 title: "RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning"
 created: "2026-10-12T09:30:00-04:00"
 updated: "2026-10-12T09:30:00-04:00"

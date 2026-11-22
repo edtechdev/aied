@@ -1,4 +1,4 @@
-
+---
 title: "Development and evaluation of artificial intelligence literacy training for teacher education students"
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:43:18-04:00"

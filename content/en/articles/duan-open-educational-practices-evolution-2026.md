@@ -1,4 +1,4 @@
-
+---
 title: "The evolution of open educational practices: a comparative analysis of models and a new framework for the AI era"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"

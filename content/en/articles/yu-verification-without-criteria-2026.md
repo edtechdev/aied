@@ -1,4 +1,4 @@
-
+---
 title: "Verification Without Criteria: An Epistemic Network Analysis of Metacognitive Laziness in Generative AI Research"
 created: "2026-11-21T02:05:00-05:00"
 updated: "2026-11-21T02:05:00-05:00"

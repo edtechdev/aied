@@ -1,4 +1,4 @@
-
+---
 title: "Information literacy through open pedagogy: What's the role of AI tools?"
 published: "2026-08-25"
 created: "2026-10-28T18:18:15-04:00"

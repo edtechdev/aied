@@ -1,4 +1,4 @@
-
+---
 title: "An empirical study of ChatGPT use in engineering education: Prompting and performance"
 created: "2026-08-24T12:35:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"

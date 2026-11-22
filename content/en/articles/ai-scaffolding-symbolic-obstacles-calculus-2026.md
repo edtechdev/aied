@@ -1,4 +1,4 @@
-
+---
 title: Addressing symbolic obstacles in undergraduate calculus through artificial intelligence scaffolding
 created: "2026-10-21T13:32:50-04:00"
 updated: "2026-10-21T13:56:47-04:00"

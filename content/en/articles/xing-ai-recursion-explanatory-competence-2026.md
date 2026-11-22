@@ -1,4 +1,4 @@
-
+---
 title: "Can AI Help Students Explain \"Recursion\"? A Platform-Based Intervention for Developing Explanatory Competence"
 created: "2026-11-09T09:05:00-05:00"
 updated: "2026-11-14T10:00:00-05:00"

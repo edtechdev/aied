@@ -1,4 +1,4 @@
-
+---
 title: "Large language models as grading assistants in public health education: a method-comparison study of essay-style exam assessment"
 created: "2026-09-30T11:13:23-04:00"
 updated: "2026-10-31T15:46:10-04:00"

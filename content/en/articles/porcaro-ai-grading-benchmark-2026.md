@@ -1,4 +1,4 @@
-
+---
 title: "Beyond agreement: a benchmark of how language models grade student work, and how they fail"
 created: "2026-11-01T06:33:01-05:00"
 updated: "2026-11-02T06:45:00-05:00"

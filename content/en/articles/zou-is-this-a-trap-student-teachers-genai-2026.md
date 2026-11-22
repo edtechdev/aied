@@ -1,4 +1,4 @@
-
+---
 title: "\"Is this a trap?\": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses"
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"

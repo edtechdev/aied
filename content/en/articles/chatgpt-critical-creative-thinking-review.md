@@ -1,4 +1,4 @@
-
+---
 title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 created: "2026-05-16T04:33:04-04:00"
 updated: "2026-09-20T08:50:26-04:00"

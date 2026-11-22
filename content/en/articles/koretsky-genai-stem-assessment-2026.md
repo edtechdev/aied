@@ -1,4 +1,4 @@
-
+---
 title: "The shifting landscape of assessment in STEM education in the age of generative AI"
 created: "2026-09-29T09:21:15-04:00"
 updated: "2026-09-29T09:26:59-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course"
 created: "2026-09-20T06:39:42-04:00"
 updated: "2026-09-20T06:39:42-04:00"

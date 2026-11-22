@@ -1,4 +1,4 @@
-
+---
 title: "How artificial intelligence transforms the feedback ecosystem in higher education"
 created: "2026-09-21T08:04:08-04:00"
 updated: "2026-09-26T03:02:03-04:00"

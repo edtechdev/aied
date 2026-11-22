@@ -1,4 +1,4 @@
-
+---
 title: "OmniPhys: A unified multimodal benchmark for physics understanding and generation from Chinese educational corpora"
 created: "2026-08-28T09:08:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"

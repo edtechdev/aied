@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)"
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-19T10:43:18-04:00"

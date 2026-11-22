@@ -1,4 +1,4 @@
-
+---
 title: "Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing"
 created: "2026-09-22T07:52:00-04:00"
 updated: "2026-09-22T07:52:00-04:00"
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Eight model configurations from four families were asked to place 114 authentically marked university essays into a four-band grade scheme (Fail, Pass, Merit, Distinction) under one shared prompt. Exact band agreement ranged from 18.4% to 54.4% — a spread wider than any single headline number, and one that tracks the model family rather than the model's size. The best run, Llama 3.1 8B at temperature 0.5, matched the human band on 54.4% of essays and landed within one band on 98.2%. The weakest, GPT-OSS 120B, agreed 18.4% of the time and undergraded systematically, by an average of 1.316 bands at temperature 0.5, missing Distinction essays in particular. Temperature did not cure calibration: it helped one model descriptively, changed nothing for another, and significantly hurt a third. The paper's conclusion is narrow and defensible — useful as a supervised second reader, not as an autonomous [[automated-assessment|grader]] — and its sharpest line is that model size is not a proxy for assessment validity.
+> **Synthesis:** Eight model configurations from four families were asked to place 114 authentically marked university essays into a four-band grade scheme (Fail, Pass, Merit, Distinction) under one shared prompt. Exact band agreement ranged from 18.4% to 54.4% — a spread wider than any single headline number, and one that tracks the model family rather than the model's size. The best run, Llama 3.1 8B at temperature 0.5, matched the human band on 54.4% of essays and landed within one band on 98.2%. The weakest, GPT-OSS 120B, agreed 18.4% of the time and undergraded systematically, by an average of 1.316 bands at temperature 0.5, missing Distinction essays in particular. Temperature did not cure calibration: it helped one model descriptively, changed nothing for another, and significantly hurt a third. The paper's conclusion is narrow and defensible — useful as a supervised second reader, not as an autonomous [[automated-assessment|grader]] — and its sharpest line is that model size is not a proxy for [[assessment-validity|assessment validity]].
 
 ### Overview
 

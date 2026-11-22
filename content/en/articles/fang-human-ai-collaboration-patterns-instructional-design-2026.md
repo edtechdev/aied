@@ -1,4 +1,4 @@
-
+---
 title: "Human–AI collaborative patterns in GenAI-supported instructional design among pre-service teachers: an analysis of interaction sequences and cognitive load"
 created: "2026-10-16T20:13:06-04:00"
 updated: "2026-10-17T07:09:05-04:00"

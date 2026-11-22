@@ -1,4 +1,4 @@
-
+---
 title: "EduGuard: A Safe RAG-Based LLM Tutor for Programming Education"
 created: "2026-07-20T04:33:04-04:00"
 updated: "2026-09-20T03:44:50-04:00"

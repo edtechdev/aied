@@ -1,4 +1,4 @@
-
+---
 title: "Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams"
 created: "2026-09-25T09:40:00-04:00"
 updated: "2026-10-02T07:31:21-04:00"

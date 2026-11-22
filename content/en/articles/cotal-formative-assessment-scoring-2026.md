@@ -1,4 +1,4 @@
-
+---
 title: "CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"

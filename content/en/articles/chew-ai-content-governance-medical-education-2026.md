@@ -1,4 +1,4 @@
-
+---
 title: "When the Teaching Material Is the Risk: The Governance Gap for AI-Generated Content in Medical Education"
 created: "2026-11-11T08:04:45-05:00"
 updated: "2026-11-11T08:35:00-05:00"

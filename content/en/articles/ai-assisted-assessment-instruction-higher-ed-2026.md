@@ -1,4 +1,4 @@
-
+---
 title: "AI-assisted assessment and instruction in higher education: Foundations, applications, and implications for exam design"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"

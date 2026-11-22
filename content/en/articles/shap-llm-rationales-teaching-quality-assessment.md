@@ -1,4 +1,4 @@
-
+---
 title: "From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment"
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"

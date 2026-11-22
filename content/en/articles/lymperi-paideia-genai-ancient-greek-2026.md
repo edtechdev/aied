@@ -1,4 +1,4 @@
-
+---
 title: "PAIDEIA: A Human-Centered Pedagogical Framework for Responsible Generative AI Integration in Ancient Greek Literature in Translation"
 created: "2026-11-09T09:05:00-05:00"
 updated: "2026-11-09T09:05:00-05:00"

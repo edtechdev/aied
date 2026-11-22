@@ -1,4 +1,4 @@
-
+---
 title: "BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation"
 created: "2026-10-01T19:37:00-04:00"
 updated: "2026-10-01T19:37:00-04:00"

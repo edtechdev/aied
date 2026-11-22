@@ -1,4 +1,4 @@
-
+---
 title: "AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?"
 created: "2026-09-16T08:12:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"

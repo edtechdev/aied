@@ -1,4 +1,4 @@
-
+---
 title: "An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design"
 created: "2026-10-02T11:30:00-04:00"
 updated: "2026-10-02T11:30:00-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "'Co-pilot won't teach you to be a nurse': Nursing academics' perspectives on GenAI use in undergraduate education"
 created: "2026-09-18T04:11:08-04:00"
 updated: "2026-09-19T10:43:18-04:00"

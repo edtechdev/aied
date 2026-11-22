@@ -1,4 +1,4 @@
-
+---
 title: "Perceived Benefits and Reported Uses of Generative AI for Accessibility: An Exploratory Survey of Minnesota Educators"
 created: "2026-11-21T08:10:00-05:00"
 updated: "2026-11-21T08:10:00-05:00"

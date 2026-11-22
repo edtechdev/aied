@@ -1,4 +1,4 @@
-
+---
 title: "Beyond Score Accuracy: Examining the Diagnostic Quality of LLM-Generated Structured Assessment in Higher Education"
 created: "2026-10-08T09:15:00-04:00"
 updated: "2026-10-08T09:15:00-04:00"

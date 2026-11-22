@@ -1,4 +1,4 @@
-
+---
 title: "Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education"
 created: "2026-08-09T08:44:33-04:00"
 updated: "2026-09-19T10:56:42-04:00"

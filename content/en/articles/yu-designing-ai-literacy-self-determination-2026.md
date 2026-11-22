@@ -1,4 +1,4 @@
-
+---
 title: "Designing for AI literacy: psychological mechanisms and self-determination"
 created: "2026-09-23T13:05:00-04:00"
 updated: "2026-09-23T13:05:00-04:00"

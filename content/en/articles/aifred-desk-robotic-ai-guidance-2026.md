@@ -1,4 +1,4 @@
-
+---
 title: "AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk"
 created: "2026-10-01T09:06:36-04:00"
 updated: "2026-10-01T09:06:36-04:00"

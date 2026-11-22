@@ -1,4 +1,4 @@
-
+---
 title: "Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence"
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"

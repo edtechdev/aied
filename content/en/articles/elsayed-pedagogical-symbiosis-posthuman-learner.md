@@ -1,4 +1,4 @@
-
+---
 title: "Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI"
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-19T09:38:08-04:00"
@@ -27,7 +27,7 @@ page_kind: [framework]
 
 - **Symbiotic Literacy and curriculum.** Symbiotic Literacy extends AI literacy from capability ('using AI competently') to character ('partnering with AI wisely'), comprising five competencies: Epistemic Auditing, Cognitive Delegation, Dialogic [[student-engagement|Engagement]], [[ethics|Ethical]] Reasoning, and Identity Negotiation. It is operationalized in [[discipline-specific-aied|subject-specific]] K-16 applications across Language Arts, [[math-education|Mathematics]], Science, and Social Studies.
 
-- **Assessment and the Cognitive Choreographer.** Because unassisted performance measures only a fraction of a hybrid learner's capability, the paper proposes a **Symbiotic Portfolio** assessed by a five-criterion rubric (Generative Dialogue, Epistemic Auditing, Critical Engagement, Ethical Reasoning, Final Artifact Quality). The educator role shifts from transmitter/facilitator to **Cognitive Choreographer**, who designs the conditions for productive human-AI partnership rather than performing cognitive labor, supported by a five-module (40-60 hour) professional development structure.
+- **Assessment and the Cognitive Choreographer.** Because unassisted performance measures only a fraction of a hybrid learner's capability, the paper proposes a **Symbiotic Portfolio** assessed by a five-criterion rubric (Generative Dialogue, Epistemic Auditing, Critical Engagement, Ethical Reasoning, Final Artifact Quality). The educator role shifts from transmitter/facilitator to **Cognitive Choreographer**, who designs the conditions for productive human-AI partnership rather than performing cognitive labor, supported by a five-module professional development structure.
 
 - **[[equity-in-ai-education|Equity]], safeguards, and counterarguments.** The framework engages the humanist autonomy objection via relational autonomy, resists techno-determinism via cognitive reversibility and deliberate 'AI-free zones', and answers the 'black box' epistemology objection through epistemic auditing that triangulates AI outputs against external criteria. It also foregrounds the digital divide, data sovereignty/privacy, and destructive cognitive dependency as equity and ethical imperatives.
 

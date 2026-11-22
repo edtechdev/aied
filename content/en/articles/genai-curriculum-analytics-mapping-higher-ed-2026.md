@@ -1,4 +1,4 @@
-
+---
 title: "Leveraging GenAI models for Curriculum Analytics: A Human-Centered Approach for Curriculum Mapping in Higher Education"
 created: "2026-10-21T13:44:59-04:00"
 updated: "2026-10-21T13:54:03-04:00"

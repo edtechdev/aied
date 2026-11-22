@@ -1,4 +1,4 @@
-
+---
 title: "Science Literacy: Generative AI as Enabler of Coherence in the Teaching, Learning, and Assessment of Scientific Knowledge and Reasoning"
 created: "2026-10-23T22:41:00-04:00"
 updated: "2026-10-23T22:41:00-04:00"

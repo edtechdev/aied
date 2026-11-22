@@ -1,4 +1,4 @@
-
+---
 title: "AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education"
 created: "2026-08-24T08:46:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"

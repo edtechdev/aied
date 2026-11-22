@@ -1,4 +1,4 @@
-
+---
 title: "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments"
 created: "2026-06-17T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"

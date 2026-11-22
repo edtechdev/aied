@@ -1,4 +1,4 @@
-
+---
 title: "I code or AI code: A comparative evaluation of AI-rated scores in classroom observations"
 type: article
 created: "2026-09-17T09:40:00-04:00"
@@ -40,7 +40,7 @@ The AI rater was a prompt-engineered Perplexity GPT-5.0 model, given the CLASS f
 4. Overall inter-rater agreement between consolidated human scores and AI scores was moderate: weighted κ = 0.681, 95% CI [0.646, 0.716], p < .001, with individual raters against AI ranging from .515 to .712 — a level the CLASS protocol treats as acceptable when dimensions agree to within one scale point (κ ≈ 0.60–0.75).
 5. Mean differences were substantial where they existed. Raters scored the Emotional Support domain higher than AI by 0.806 points (d = 1.343), driven by Positive Climate (1.152, d = 1.523) and a very large Negative Climate gap (1.084, d = 2.732, with adjusted df because of unequal variances). Raters scored the Instructional Support domain *lower* than AI by 0.284 points (d = 0.343), driven by Concept Development (−0.406, p = .021, d = 0.392). Classroom Organization showed no domain-level difference (−0.013, p = .912), and Language Modeling approached but did not reach significance (−0.255, p = .056).
 6. Negative Climate exposed a ceiling effect in human ratings that the model did not share: raters gave a 7 (maximum, meaning least negativity) in 63 of 71 observations and a score between 6 and 7 in the remaining eight, while AI scores clustered at 6 (n = 51), with 13 fives, six sevens and one four.
-7. Distributionally, the two parties agreed on the level of Classroom Organization (raters 5.121 vs AI 5.134) and on Instructional Support being the weakest domain (2.937 vs 3.221), but disagreed by 0.805 points on Emotional Support (5.490 vs 4.685).
+7. Distributionally, the two parties agreed on the level of Classroom Organization (raters 5.121 vs AI 5.134) and on Instructional Support being the weakest domain (2.937 vs 3.221), but disagreed on Emotional Support (5.490 vs 4.685).
 
 ## Reading the Pattern: Verbatim Constructs Converge, Enacted Ones Do Not
 

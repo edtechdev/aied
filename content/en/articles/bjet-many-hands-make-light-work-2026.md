@@ -1,4 +1,4 @@
-
+---
 title: "Many hands make light work? Individual and collaborative interaction with a GenAI-powered multi-agent system: Effects on learning performance and critical thinking"
 created: "2026-10-04T10:42:00-04:00"
 updated: "2026-11-04T16:51:25-05:00"

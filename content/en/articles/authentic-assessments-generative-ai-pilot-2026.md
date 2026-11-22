@@ -1,4 +1,4 @@
-
+---
 title: "Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education"
 created: "2026-09-22T09:29:10-04:00"
 updated: "2026-09-22T09:29:10-04:00"

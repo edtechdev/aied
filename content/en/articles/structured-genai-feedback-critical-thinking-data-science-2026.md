@@ -1,4 +1,4 @@
-
+---
 title: "Effects of structured generative AI feedback on data science students' critical thinking"
 created: "2026-11-12T09:30:00-05:00"
 updated: "2026-11-14T11:30:00-05:00"

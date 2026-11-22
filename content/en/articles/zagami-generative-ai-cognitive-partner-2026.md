@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI as a cognitive partner: personalised GPTs and differentiated learning in undergraduate teacher education"
 created: "2026-10-18T21:25:57-04:00"
 updated: "2026-10-18T21:25:57-04:00"

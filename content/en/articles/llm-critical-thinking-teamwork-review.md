@@ -1,4 +1,4 @@
-
+---
 title: "Can large language models foster critical thinking, teamwork, and problem-solving skills in higher education? A literature review"
 created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-19T10:43:18-04:00"

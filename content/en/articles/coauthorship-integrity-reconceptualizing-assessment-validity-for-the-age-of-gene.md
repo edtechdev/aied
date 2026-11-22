@@ -1,4 +1,4 @@
-
+---
 title: "Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence"
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-20T06:30:22-04:00"

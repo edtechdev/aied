@@ -1,4 +1,4 @@
-
+---
 title: "How Children Design and Reason about Trustworthy AI Chatbots"
 created: "2026-10-19T09:20:00-04:00"
 updated: "2026-10-19T09:20:00-04:00"

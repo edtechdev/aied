@@ -1,4 +1,4 @@
-
+---
 title: "AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Integrating Slides, Mathematics, and Simulation in One Page: GenAI-Assisted HTML Learning Objects for Engineering Courses"
 created: "2026-11-13T09:12:00-05:00"
 updated: "2026-11-13T10:45:00-05:00"

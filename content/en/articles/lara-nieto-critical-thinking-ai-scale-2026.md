@@ -1,4 +1,4 @@
-
+---
 title: "Assessing Self-Perceived Critical Thinking in AI-Mediated Academic Tasks: Development and Initial Psychometric Evidence for the Critical Thinking with AI Scale for Students (CTAI-S)"
 created: "2026-11-21T08:25:00-05:00"
 updated: "2026-11-21T08:25:00-05:00"

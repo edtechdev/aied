@@ -1,4 +1,4 @@
-
+---
 title: "Testing the validity of embedding-based similarity and clustering for handwritten physics solutions"
 created: "2026-10-23T08:02:28-04:00"
 updated: "2026-10-23T08:02:28-04:00"

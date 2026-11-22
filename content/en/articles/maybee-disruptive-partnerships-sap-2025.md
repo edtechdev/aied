@@ -1,4 +1,4 @@
-
+---
 title: "Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies"
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"

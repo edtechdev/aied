@@ -1,4 +1,4 @@
-
+---
 title: "An experimental evaluation of an AI-powered interactive learning platform"
 created: "2026-11-11T07:36:47-05:00"
 updated: "2026-11-14T10:00:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "Prompts to Practice: A Pedagogical Framework for Human-Centered AI Engagement"
 created: "2026-09-14T11:12:30-04:00"
 updated: "2026-09-19T07:32:15-04:00"

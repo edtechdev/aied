@@ -1,4 +1,4 @@
-
+---
 title: "A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era"
 created: "2026-08-17T09:40:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"

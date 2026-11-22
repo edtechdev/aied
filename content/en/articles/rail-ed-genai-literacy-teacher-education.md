@@ -1,4 +1,4 @@
-
+---
 title: "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education"
 created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"

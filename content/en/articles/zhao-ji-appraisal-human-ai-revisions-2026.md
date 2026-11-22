@@ -1,4 +1,4 @@
-
+---
 title: "Human-written and AI-generated revisions: An appraisal analysis of dialogic positioning in argumentative writing"
 created: "2026-09-30T06:07:03-04:00"
 updated: "2026-09-30T06:07:03-04:00"

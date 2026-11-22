@@ -1,4 +1,4 @@
-
+---
 title: "Bridging technology and education: The use of ChatGPT in grading pharmacy student exams"
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"

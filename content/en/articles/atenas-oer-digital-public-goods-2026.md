@@ -1,4 +1,4 @@
-
+---
 title: "Building sustainable futures: Responsible development of AI-enabled open educational resources as digital public goods"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"

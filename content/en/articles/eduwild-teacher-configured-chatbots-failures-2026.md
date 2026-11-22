@@ -1,4 +1,4 @@
-
+---
 title: "EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them"
 created: "2026-10-19T09:20:00-04:00"
 updated: "2026-10-19T09:20:00-04:00"

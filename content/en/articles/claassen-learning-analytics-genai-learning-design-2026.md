@@ -1,4 +1,4 @@
-
+---
 title: "Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education"
 created: "2026-08-27T12:05:00-04:00"
 updated: "2026-10-16T13:51:50-04:00"

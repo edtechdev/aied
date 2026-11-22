@@ -1,4 +1,4 @@
-
+---
 title: "\"We'll Fix It Later\": Education, AI, and the Deferral of Student Privacy in EdTech"
 created: "2026-09-24T09:11:53-04:00"
 updated: "2026-09-24T09:11:53-04:00"

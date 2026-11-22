@@ -1,4 +1,4 @@
-
+---
 title: "Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior"
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"

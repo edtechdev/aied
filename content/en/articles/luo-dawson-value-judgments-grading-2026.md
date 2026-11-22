@@ -1,4 +1,4 @@
-
+---
 title: "Exploring value judgements in grading: will teachers mark down student work assisted by GenAI, and should they?"
 created: "2026-09-03T12:45:00-04:00"
 updated: "2026-09-20T06:30:22-04:00"
@@ -16,7 +16,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** An exploratory [[qualitative-research|qualitative]] interview study of 33 teachers documenting how grading [[generative-ai|GenAI]]-assisted work becomes a site of competing, largely unexamined values. Four clusters emerge: person-oriented (honesty, diligence), capability-oriented (independence, GenAI skill, disciplinary mastery), relation-oriented (trust) and justice-oriented (fairness, beneficence), across 66 value-judgment instances. The authors explain the variation via epistemological stages, disciplinary traditions and [[sociocultural-learning|sociocultural]] context, then argue that [[assessment-validity|validity]] should govern marking down and that the remedy is two-way transparency.
+> **Synthesis:** An exploratory [[qualitative-research|qualitative]] interview study of 33 teachers documenting how grading [[generative-ai|GenAI]]-assisted work becomes a site of competing, largely unexamined values. Four clusters emerge: person-oriented (honesty, diligence), capability-oriented (independence, GenAI skill, disciplinary mastery), relation-oriented ([[trust|trust]]) and justice-oriented (fairness, beneficence), across 66 value-judgment instances. The authors explain the variation via epistemological stages, disciplinary traditions and [[sociocultural-learning|sociocultural]] context, then argue that [[assessment-validity|validity]] should govern marking down and that the remedy is two-way transparency.
 
 Luo and Dawson (2026) ask the question students keep asking: will I get lower grades if I use GenAI? Their answer is that there may never be a definitive one. Drawing on scenario-based interviews with 33 university teachers across the Greater Bay Area of China, the study shows that grading GenAI-assisted work is not a technical application of criteria but an exercise in value judgment — teachers conjecture about who the student is, what they are capable of, how they relate to others and whether the decision does good.
 

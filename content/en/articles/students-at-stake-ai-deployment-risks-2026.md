@@ -1,4 +1,4 @@
-
+---
 title: "Students at Stake: Risks of AI Deployment in Higher Education"
 created: "2026-09-30T06:50:00-04:00"
 updated: "2026-10-01T20:36:14-04:00"

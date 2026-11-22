@@ -1,4 +1,4 @@
-
+---
 title: "One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity"
 created: "2026-10-01T09:07:20-04:00"
 updated: "2026-10-01T09:07:20-04:00"

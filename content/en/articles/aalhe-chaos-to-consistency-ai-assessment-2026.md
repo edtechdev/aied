@@ -1,4 +1,4 @@
-
+---
 title: "From Chaos to Consistency: A Human-Centered Framework for AI-Supported Assessment at a Mission-Driven Liberal Arts College"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"

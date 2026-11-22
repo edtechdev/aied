@@ -1,4 +1,4 @@
-
+---
 title: "Auditable assessment redesign for teaching readiness in preservice teacher education under generative AI"
 created: "2026-11-10T18:19:20-05:00"
 updated: "2026-11-10T18:30:00-05:00"

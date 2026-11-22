@@ -1,4 +1,4 @@
-
+---
 title: "Reconstruction and practice of an AI-enhanced multifactorial teaching model for virology laboratory testing"
 created: "2026-11-19T10:13:00-05:00"
 updated: "2026-11-19T10:13:00-05:00"

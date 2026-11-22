@@ -1,4 +1,4 @@
-
+---
 title: "As effective as the teacher, but less motivating: A randomized controlled comparison of AI-generated and teacher feedback on students' writing performance and intrinsic motivation"
 created: "2026-11-01T08:06:18-05:00"
 updated: "2026-11-02T06:45:00-05:00"

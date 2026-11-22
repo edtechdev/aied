@@ -1,4 +1,4 @@
-
+---
 title: "Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions"
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-19T08:49:57-04:00"

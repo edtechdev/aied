@@ -1,4 +1,4 @@
-
+---
 title: "Beyond Response Scoring: An AI-aware Cognitive Supervision Framework for Automated Mathematical Short Answer Grading"
 published: "2026-10-30"
 created: "2026-11-02T09:12:23-05:00"

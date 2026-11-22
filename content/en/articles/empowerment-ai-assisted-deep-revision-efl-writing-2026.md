@@ -1,4 +1,4 @@
-
+---
 title: "Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing"
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"

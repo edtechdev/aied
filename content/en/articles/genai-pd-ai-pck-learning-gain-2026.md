@@ -1,4 +1,4 @@
-
+---
 title: "Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers"
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-26T07:13:32-04:00"

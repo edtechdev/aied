@@ -1,4 +1,4 @@
-
+---
 title: AI Misconception and Adoption Among Indonesian K-12 Teachers
 created: "2026-10-20T09:20:00-04:00"
 updated: "2026-10-20T09:20:00-04:00"

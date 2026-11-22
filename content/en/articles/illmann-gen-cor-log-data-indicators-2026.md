@@ -1,4 +1,4 @@
-
+---
 title: "Defining Log Data Indicators for the Measurement of Generic Critical Online Reasoning (GEN-COR)"
 created: "2026-11-20T09:15:00-05:00"
 updated: "2026-11-20T09:15:00-05:00"

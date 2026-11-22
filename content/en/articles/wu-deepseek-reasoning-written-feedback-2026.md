@@ -1,4 +1,4 @@
-
+---
 title: "Using DeepSeek's reasoning-based AI model to support written feedback practices"
 created: "2026-10-25T00:00:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models"
 created: "2026-09-24T02:19:48-04:00"
 updated: "2026-09-24T02:19:48-04:00"

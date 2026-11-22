@@ -1,4 +1,4 @@
-
+---
 title: "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring"
 created: "2026-08-26T09:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"

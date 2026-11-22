@@ -1,4 +1,4 @@
-
+---
 title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"
 created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"

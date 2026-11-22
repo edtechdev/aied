@@ -1,4 +1,4 @@
-
+---
 title: "Replicating and expanding a validity argument for eRevise as a formative assessment: Empirical support for theories of conceptual change"
 created: "2026-10-25T00:00:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"

@@ -1,4 +1,4 @@
-
+---
 title: "A systematic review of the roles of agentic AI in higher education"
 created: "2026-09-04T14:13:20-04:00"
 updated: "2026-09-19T12:17:22-04:00"

@@ -1,4 +1,4 @@
-
+---
 title: "REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading"
 created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-19T08:58:00-04:00"
