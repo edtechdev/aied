@@ -1,7 +1,7 @@
 ---
 title: Istruzione di livello magistrale e dottorale
 created: "2026-11-22T11:00:00-05:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 pedagogy: [professional-training, self-regulated-learning, scaffolding, metacognition, collaborative-learning]
 technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-analytics]
@@ -14,7 +14,7 @@ ai_assist:
     date: "2026-11-22"
     agent: hermes-agent
 translation_of: concepts/graduate-education
-source_updated: "2026-11-19T10:16:37-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
 connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
@@ -72,7 +72,7 @@ I titoli professionali detengono la maggior parte dell'evidenza di livello magis
 
 - **I pazienti simulati ampliano l'accesso, non una competenza provata.** SOPHIE 2.0 offre 24 scenari clinici attraverso un avatar nel browser con un giudice LLM. Il giudice ha raggiunto Pearson 0,759 e ICC 0,746 contro il consenso umano, e il 92% dei 59 partecipanti lo ha trovato coinvolgente; senza condizione di controllo, i punteggi in salita non possono essere attribuiti all'addestramento ([[sophie-clinical-communication-ai-assessment-2026]]).
 
-- **Sostituire un facilitatore preserva i punteggi e costa il processo.** In un corso di farmacologia di quattro settimane, 136 studenti di medicina del secondo anno in [[problem-based-learning|apprendimento basato su problemi]] guidato da facilitatori e guidato dall'IA sono migliorati ugualmente nei test a scelta multipla (p = 0,474). I gruppi guidati da facilitatori hanno punteggiato più alto sul pensiero critico, 14,75 contro 13,09 (p < 0,001), e sulla rubrica di gruppo, 26,51 contro 24,74 (p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
+- **Sostituire un facilitatore preserva i punteggi e costa il processo.** In un corso di farmacologia di quattro settimane, 136 studenti di medicina del secondo anno in [[problem-based-learning|apprendimento basato su problemi]] guidato da facilitatori e guidato dall'IA sono migliorati ugualmente nei test a scelta multipla (p = 0,474). I gruppi guidati da facilitatori hanno punteggiato più alto sul pensiero critico, 14,75 contro 13,09 (p < 0,001), e sulla [[rubrics|rubrica]] di gruppo, 26,51 contro 24,74 (p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
 
 - **La ricerca sulla formazione clinica non ha raggiunto la competenza.** Una [[meta-analysis-systematic-review|revisione di scoping]] sulla formazione dei counselor ha trovato 14 fonti, tutte dal 2023 in poi e dominate da clienti simulati. Nessuna misurava la competenza, nessuna testava uno scenario di crisi, e il personaggio di default era culturalmente neutro a meno che il prompt non specificasse la cultura ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026]]).
 

@@ -1,7 +1,7 @@
 ---
 title: Apprendimento basato sull'indagine
 created: "2026-10-14T22:04:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
 connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
@@ -62,7 +66,7 @@ L'apprendimento basato sull'indagine si centra sulle domande generate dagli stud
 
 La struttura dell'IBL guidata dalle domande e focalizzata sul processo è la casa naturale per l'uso produttivo dell'IA: gli studenti imparano *con* l'IA come partner piuttosto che *da* essa come sostituto. L'evidenza della knowledge base converge su una tensione centrale — l'IA può ridurre l'attrito del recupero delle informazioni e della formulazione delle domande (riducendo il [[cognitive-offloading|carico cognitivo]] e abilitando una [[reflection|riflessione]] più profonda), ma senza impalcature progettuali rischia l'eccessivo affidamento e il bypass della cognizione di ordine superiore. Il ruolo del facilitatore, la progettazione delle impalcature e l'insegnamento esplicito delle competenze di valutazione sono le leve che determinano se l'IA approfondisce o soppianta l'indagine.
 
-Uno studio sostituisce il facilitatore anziché aggiungere uno strumento accanto a lui. In un corso di farmacologia di quattro settimane, 136 studenti del secondo anno di medicina sono stati divisi tra apprendimento basato sui problemi guidato da un facilitatore e guidato dall'IA. Entrambi i bracci guadagnavano significativamente ai test a scelta multipla pre/post e la differenza tra gruppi non era significativa (p = 0,474), ma i gruppi guidati dal facilitatore segnavano più alto nel pensiero critico (14,75 contro 13,09, p < 0,001) e nella rubrica di [[group-work|valutazione di gruppo]] (26,51 contro 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty e Rao, 2026]]). Gli esiti dell'indagine si dividono per tipo: la conoscenza dei contenuti è sopravvissuta alla sostituzione e il processo di ragionamento no, che è ciò che significa dire che il facilitatore è la leva.
+Uno studio sostituisce il facilitatore anziché aggiungere uno strumento accanto a lui. In un corso di farmacologia di quattro settimane, 136 studenti del secondo anno di medicina sono stati divisi tra apprendimento basato sui problemi guidato da un facilitatore e guidato dall'IA. Entrambi i bracci guadagnavano significativamente ai test a scelta multipla pre/post e la differenza tra gruppi non era significativa (p = 0,474), ma i gruppi guidati dal facilitatore segnavano più alto nel pensiero critico (14,75 contro 13,09, p < 0,001) e nella [[rubrics|rubrica]] di [[group-work|valutazione di gruppo]] (26,51 contro 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty e Rao, 2026]]). Gli esiti dell'indagine si dividono per tipo: la conoscenza dei contenuti è sopravvissuta alla sostituzione e il processo di ragionamento no, che è ciò che significa dire che il facilitatore è la leva.
 
 ### Fallimento produttivo e indagine
 

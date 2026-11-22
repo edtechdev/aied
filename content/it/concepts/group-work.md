@@ -1,7 +1,7 @@
 ---
 title: Lavoro di gruppo
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-11-08T13:51:25-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: "concepts/group-work"
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
@@ -85,6 +89,7 @@ Una seconda linea di ricerca tratta l'IA come partecipante piuttosto che come st
 - **La controversia può contrastare il pensiero di gruppo.** [[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]] hanno deliberatamente preso la direzione opposta: un agente di IA (CALIE) istruito a iniettare punti di vista controversi in dodici squadre di [[problem-based-learning|PBL]] interprofessionali ha stimolato il [[critical-thinking|pensiero critico]] e dinamiche di gruppo positive, contrastando la pressione alla conformità che il lavoro di gruppo può altrimenti produrre. Il contrasto con Jin et al. è istruttivo — la sfida aiuta quando è la progettazione intenzionale, e nuoce quando è un effetto collaterale non riconosciuto.
 - **Il vincolo del mediatore neutrale.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], un'IA che media i confini disciplinari nelle squadre interdisciplinari portando alla superficie gli assunti impliciti, è stata apprezzata sia come supporto cognitivo sia come cuscinetto relazionale — ma la fiducia degli studenti era portante e si è erosa nel momento in cui l'IA passava da mediatore neutrale a consigliere o sfidante. I cambi di ruolo devono quindi essere espliciti e configurabili, non silenziosi.
 - **La collaborazione può essere essa stessa oggetto di istruzione.** [[golrang-propact-pair-programming-2026|ProPACT]] tratta la *diade* — non l'individuo — come unità di analisi, modellando l'attenzione e lo sforzo congiunti per prevedere i cedimenti della collaborazione fino a 30 secondi in anticipo. Le diadi che ricevevano feedback proattivo ottenevano un successo di debugging più alto e mostravano guadagni sostenuti nella [[regulation]] collaborativa successivamente: l'IA può insegnare la collaborazione stessa, non solo supportare un compito.
+- **Un dislocatore relazionale.** In un esperimento randomizzato su 33 squadre, [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] hanno riscontrato che il compagno di squadra IA occupava la parte maggiore del tempo di parola ma aggiungeva la minor quantità di nuove informazioni, mentre gli studenti rispondevano meno l'uno all'altro (reattività g = −0,78) e riferivano un senso di appartenenza più basso (4,58 contro 5,27). Più l'IA dominava il tempo di parola, meno gli studenti si sentivano valorizzati (r = −0,52).
 
 ### Il compromesso efficienza–regolazione
 
@@ -102,7 +107,8 @@ Una seconda linea di ricerca tratta l'IA come partecipante piuttosto che come st
 
 - **Rendi la negoziazione sull'uso dell'IA un risultato valutabile.** [[chen-zou-genai-group-assessment-agency-2026|Chen e Zou (2026)]] sostengono che le squadre dovrebbero giustificare e documentare come la GenAI sarà e non sarà usata, trasformando una norma implicita tra pari in un ragionamento esplicito e valutabile piuttosto che lasciandola al rischio percepito.
 - **Valuta il processo, non solo il prodotto.** La [[peer-assessment|valutazione tra pari]], i deliverable intermedi e i contributi riflessivi creano le interazioni attraverso cui le norme e la comprensione condivisa sono effettivamente costruite.
-- **Non fare affidamento sul solo criterio di coerenza.** Una riga di rubriche che esige integrazione non produce collaborazione se la struttura del compito consente ancora il dividi-e-conquista; il flusso di lavoro deve richiedere lavoro congiunto.
+- **Valuta la rete, non l'esecutore isolato.** Una riconsiderazione concettuale dell'equità nell'era della GenAI sostiene che il lavoro di gruppo dovrebbe essere valutato come una sintesi documentata attraverso le prospettive, una "rete integrata di conoscenza", piuttosto che come prestazione isolata sotto vincoli artificiali ([[dollinger-equitable-assessment-ai-2026|Dollinger e Nieminen, 2026]]).
+- **Non fare affidamento sul solo criterio di coerenza.** Una riga di [[rubrics|rubriche]] che esige integrazione non produce collaborazione se la struttura del compito consente ancora il dividi-e-conquista; il flusso di lavoro deve richiedere lavoro congiunto.
 - **Progetta l'accesso deliberatamente.** Che il gruppo condivida un'unica interfaccia di IA o che ciascun membro scriva prompt privatamente cambia la trasparenza della collaborazione e il costo del mantenimento di un modello cognitivo condiviso.
 - **Decidi, in modo visibile, quale sia il ruolo dell'IA.** Un mediatore neutrale è degno di fiducia; un consigliere o uno sfidante non lo è, a meno che quel ruolo non sia esplicito e intenzionale. Una persona contraria può contrastare il pensiero di gruppo, ma solo come caratteristica progettata con i suoi costi per la sicurezza psicologica riconosciuti.
 - **Bilancia efficienza e autoregolazione.** L'IA collaborativa che massimizza l'efficienza del compito può minare il coinvolgimento regolativo degli studenti; la progettazione dovrebbe proteggere deliberatamente spazio per l'interpretazione concertata.

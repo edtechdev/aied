@@ -1,7 +1,7 @@
 ---
 title: AI multimodale
 created: "2026-10-14T23:10:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_resources: [drawsplat]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
 connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
@@ -84,7 +88,7 @@ L'AI multimodale amplia sia il *contenuto* della valutazione sia il *segnale* us
 - **I sistemi di feedback multimodali** integrano testo strutturato, riferimenti alle slide e narrazione audio in streaming. In uno studio, il [[ai-feedback-quality|feedback multimodale dell'AI]] eguagliava il feedback degli educatori sull'apprendimento *superandolo significativamente* sulle percezioni degli studenti.([[multimodal-ai-feedback-learning]])
 - **La stima dei parametri degli item multimodali** usa LLM multimodali messi a punto per ricostruire le curve caratteristiche degli item (IRT / 3PL) direttamente dalle probabilità predette delle opzioni su item composti di immagine e testo, collegando l'AI multimodale alla [[educational-measurement|misura educativa]] e alla [[item-response-theory|teoria della risposta all'item]]. ([[multimodal-item-parameter-estimation-2026]])
 - **La valutazione di modelli vision-language educativi** e la [[mllm-scientific-visualization-literacy|literacy degli LLM multimodali]] estendono il toolkit valutativo del campo al ragionamento multimodale e alla [[visualization|visualizzazione]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
-- **La correzione multimodale della [[chemistry-education|chimica]] scritta a mano espone un confine di capacità dipendente dal formato:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros e Kortemeyer]] hanno corretto pagina per pagina l'esame finale scritto a mano di chimica generale di 296 studenti, confrontandolo con immagini di rubriche mediante un LLM multimodale con ragionamento, ottenendo punteggi affidabili sulle risposte testuali e sulle equazioni di reazione chimica (F1 normalizzato massimo) ma risultati su disegni e grafici *peggiori del caso* — le griglie di sfondo distraggono visivamente la visione dell'AI, e i diagrammi scientifici e le strutture chimiche restano difficili da interpretare — confermando che la visione dell'AI multimodale non è robusta sul lavoro ricco di rappresentazioni e si dispiega al meglio con la [[human-in-the-loop-ai|rinuncia all'uomo]] sugli item grafici ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+- **La correzione multimodale della [[chemistry-education|chimica]] scritta a mano espone un confine di capacità dipendente dal formato:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros e Kortemeyer]] hanno corretto pagina per pagina l'esame finale scritto a mano di chimica generale di 296 studenti, confrontandolo con immagini di [[rubrics|rubriche]] mediante un LLM multimodale con ragionamento, ottenendo punteggi affidabili sulle risposte testuali e sulle equazioni di reazione chimica (F1 normalizzato massimo) ma risultati su disegni e grafici *peggiori del caso* — le griglie di sfondo distraggono visivamente la visione dell'AI, e i diagrammi scientifici e le strutture chimiche restano difficili da interpretare — confermando che la visione dell'AI multimodale non è robusta sul lavoro ricco di rappresentazioni e si dispiega al meglio con la [[human-in-the-loop-ai|rinuncia all'uomo]] sugli item grafici ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **Il riconoscimento del costrutto e il giudizio comparativo sono abilità separabili.** [[cfes-p24-multimodal-slide-auditing-2026|Ma et al. (2026)]] esprimono sei principi dell'apprendimento multimediale come modifiche reversibili alle slide più controlli sham di equivalenza visiva, e trovano che entrambi i modelli recuperavano ogni operazione, principio e riparazione (8/8) mentre la calibrazione della severità falliva del tutto (0/8) — un punteggio composito nasconderebbe quale strato fallisce.
 
 - **I guadagni di correttezza possono essere validati fino all'esistenza.** Uno stimatore dell'attenzione multimodale batteva una baseline solo-visiva solo modestamente, e il suo regolarizzatore MAE-gap mirato al genere riduceva il divario di validazione da 0,02 a 0,005 aumentando però il divario e l'errore del peggior gruppo su soggetti tenuti fuori — quindi è richiesta una validazione ripetuta a livello di singolo soggetto e consapevole dei sottogruppi prima del dispiegamento ([[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]).

@@ -1,7 +1,7 @@
 ---
 title: Ricerca educativa assistita dall'IA
 created: "2026-10-14T23:30:00-04:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -27,8 +27,12 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 translation_of: "concepts/ai-assisted-educational-research"
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
 connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
@@ -109,7 +113,7 @@ La sollecitazione di ChatGPT-4o e Copilot ha prodotto etichette identiche per il
 
 [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] confrontano quattro strategie di iniezione teorica per la costruzione di codebook con LLM — Ateorica, Teoria nominata, Riferimenti completi forniti e Articoli forniti — su 12 codebook valutati da 5 valutatori su 7 dimensioni. Nominare la teoria senza fornirne gli articoli ha superato il dare i testi completi su utilità (4,40 contro 3,20 per Riferimenti completi forniti) e concretezza (3,80 contro 2,40 per Articoli forniti), mentre gli articoli completi vincevano solo sull'allineamento teorico (4,60 contro 3,60) e riproducevano le quattro fasi del modello nonostante le istruzioni di evitarle. Il raffinamento umano è rimasto essenziale in entrambi gli studi: due codificatori hanno unito proposte GPT sovrapposte, e i codebook finali si sono assestati su 11 e 15 costrutti, quindi il flusso di lavoro era collaborazione, non delega.
 
-[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] forniscono la prima evidenza di codifica sulla modalità video, con la codifica GPT-4o delle trascrizioni di classe che raggiunge un kappa di 0,91 per la Collaborazione coordinata contro un kappa umano-umano di 0,83. I valutatori umani hanno applicato affidabilmente la rubrica di trascrizione, con ICC 0,89–0,99 su accuratezza, completezza e specificità in un sottoinsieme a doppia codifica. Il design a stadi — trascrizione MLLM seguita da codifica LLM basata sulla trascrizione — ha portato il risultato, poiché la codifica diretta del video concordava con gli umani al massimo a un kappa di 0,20.
+[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] forniscono la prima evidenza di codifica sulla modalità video, con la codifica GPT-4o delle trascrizioni di classe che raggiunge un kappa di 0,91 per la Collaborazione coordinata contro un kappa umano-umano di 0,83. I valutatori umani hanno applicato affidabilmente la [[rubrics|rubrica]] di trascrizione, con ICC 0,89–0,99 su accuratezza, completezza e specificità in un sottoinsieme a doppia codifica. Il design a stadi — trascrizione MLLM seguita da codifica LLM basata sulla trascrizione — ha portato il risultato, poiché la codifica diretta del video concordava con gli umani al massimo a un kappa di 0,20.
 
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] riportano il più ampio caso di codifica multi-portatore di interesse fino ad oggi, con un fine-tuning di GPT-4o-mini su 14.100 riflessioni degli studenti che ha prodotto 18.883 campioni etichettati attraverso una scuola, un'università e un dipartimento statale dell'istruzione. L'accuratezza dipendeva dal costrutto: la Definizione degli obiettivi raggiungeva il 91,28%, la Riflessione sull'apprendimento il 67,44% e la Regolazione dello sforzo il 60,74%, con l'81,94% complessivo nella suddivisione finale. Il flusso di lavoro di co-progettazione in nove fasi è costato circa 744 ore, quasi 500 delle quali di lavoro specialistico di sviluppo di algoritmi.
 

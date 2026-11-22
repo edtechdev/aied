@@ -1,7 +1,7 @@
 ---
 title: "Educazione ambientale"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T13:51:25-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
 connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -51,7 +55,7 @@ Un terzo filone, più debole, tratta l'"apprendimento sostenibile" come una prop
 
 ## Insegnare argomenti ambientali e climatici con l'IA
 
-L'evidenza più forte è un quasi-esperimento a tre gruppi che usa il cambiamento climatico come questione socio-scientifica. Gli studenti che lavoravano con un partner IA all'interno di un compito di [[inquiry-based-learning|inquiry]] strutturato hanno superato i pari con sola inquiry (d = 0,69) e l'insegnamento tradizionale (d = 1,88) su una rubrica di processo decisionale, con i guadagni maggiori sui passaggi in cui gli studenti entravano più deboli — monitoraggio e gestione adattiva, e generazione di alternative. La condizione con IA era *aggiuntiva* rispetto all'inquiry anziché una sua sostituzione, e la raccolta e l'analisi dei dati non hanno separato affatto i gruppi, il che suggerisce che l'IA abbia sostenuto il ragionamento sui compromessi piuttosto che la raccolta di evidenze.([[ai-assisted-inquiry-ssi-climate]])
+L'evidenza più forte è un quasi-esperimento a tre gruppi che usa il cambiamento climatico come questione socio-scientifica. Gli studenti che lavoravano con un partner IA all'interno di un compito di [[inquiry-based-learning|inquiry]] strutturato hanno superato i pari con sola inquiry (d = 0,69) e l'insegnamento tradizionale (d = 1,88) su una [[rubrics|rubrica]] di processo decisionale, con i guadagni maggiori sui passaggi in cui gli studenti entravano più deboli — monitoraggio e gestione adattiva, e generazione di alternative. La condizione con IA era *aggiuntiva* rispetto all'inquiry anziché una sua sostituzione, e la raccolta e l'analisi dei dati non hanno separato affatto i gruppi, il che suggerisce che l'IA abbia sostenuto il ragionamento sui compromessi piuttosto che la raccolta di evidenze.([[ai-assisted-inquiry-ssi-climate]])
 
 A livello di [[curriculum-design|curricolo]], il framework AI-SEE integra l'IA in un [[engineering-education|curricolo di ingegneria]] su quattro pilastri (guidato dall'intelligenza, potenziato dal verde, guidato dalla responsabilità, integrato nella pratica) anziché come modulo di sostenibilità aggiuntivo; un pilota con 144 studenti ha riportato guadagni nella coscienza della sostenibilità e nel [[student-engagement|coinvolgimento]] comportamentale a livello personale, accademico, professionale e sociale. Gli autori mettono in guardia sul fatto che si tratta di evidenza tratta da interviste in un'unica istituzione, autoriferita e in un unico momento temporale, proveniente da un unico programma cinese dei trasporti.([[liu-ai-sustainable-engineering-education-2026]])
 

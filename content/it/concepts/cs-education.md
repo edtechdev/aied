@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: Educazione informatica
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T11:33:13-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
 connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
@@ -65,6 +69,7 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 
 - **L'adozione segue il compito, non il sottocampo.** Attraverso sette compiti e 211 studenti, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] hanno misurato l'uso di LLM dall'89,6% negli algoritmi al 15,2% nell'ingegneria del software, attribuendo lo scarto alla complessità del compito, alla verificabilità e allo scaffolding anziché alla materia stessa.
 - **Il feedback può essere messo in scena così che la diagnosi resti nascosta.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] separano una diagnosi fondata sull'artefatto dello schema del database di uno studente dal flusso di lavoro che lo rilascia, con gli educatori che autoriali fasi; attraverso 383 episodi, il 71,1% del feedback ha raggiunto il proprio livello bersaglio.
+- **Diciassette tipi di errore sui requisiti, conteggiati su 211 team.** Gli errori di priorità guidavano (81% dei team di Bachelor), e un unico prompt GenAI zero-shot eguagliava o superava i team su portata, formato dello story, priorità e sforzo ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### Pedagogia della programmazione: dai blocchi all'apprendimento incorporato e basato sul gioco
 
@@ -112,6 +117,7 @@ Poiché la programmazione è dove l'assistenza dell'IA è più potente, è anche
 ### Equità, cultura, e chi entra nell'informatica
 
 - **Ampliare la partecipazione:** [[suacode-african-students-motivations|SuaCode]] documenta le motivazioni per la codifica basata su smartphone tra gli studenti africani (meno dell'1% di coloro che terminano la scuola secondaria ha competenze fondamentali di codifica), informando MOOC accessibili supportati dall'IA per i [[equity-in-ai-education|contesti a basse risorse]].
+- **Porte senza IA, lavoro con IA prima.** [[ai-free-gates-engineering-students-india-2026|Goutham e Gu (2026)]] hanno intervistato 23 studenti di ingegneria indiani: tutti tranne uno usavano l'IA per i colloqui di selezione che la escludevano mentre i datori di lavoro la richiedevano, quindi i voti filtrati certificano meno.
 - **Neurodivergenza e collaborazione:** gli [[neurodivergent-computing-students|studenti di informatica neurodivergenti]] riportano disagio con le strutture di collaborazione ambigue; compiti strutturati, squadre più piccole e consistenti, e ruoli espliciti migliorano l'[[accessibility|accessibilità]] — lezioni di design per gli strumenti di IA che entrano nelle classi di informatica.
 - **La cultura plasma l'etica percepita:** gli [[cross-cultural-student-perceptions-genai-computing|studenti di informatica canadesi contro sudcoreani]] hanno giudicato pratiche identiche di codifica assistita dall'IA in modo diverso nonostante politiche funzionalmente identiche — l'armonizzazione delle politiche non produce armonizzazione della percezione, una preoccupazione di [[academic-integrity]] e [[equity-in-ai-education|equità]].
 - **Trasparenza della collaborazione [[explainable-ai|spiegabile]]:** [[student-perception-ai-use-collaboration|Graf et al.]] trovano che le credenze disallineate dei partner sull'uso dell'IA dell'altro predicono punteggi di progetto più bassi, specialmente per gli studenti con rendimento inferiore — meccanismi di trasparenza (divulgazioni, log condivisi) possono essere necessari nella programmazione collaborativa.
@@ -143,7 +149,7 @@ L'educazione informatica si collega al [[computational-thinking|pensiero computa
 
 - **"L'accordo sul codice significa che il valutatore legge il codice."** I due valutatori istruttori del benchmark concordavano a **0,815** sulle risposte C++: **quattro** modelli li superavano con un intervallo sopra il 100% di quel tetto e **quattordici** restavano sotto, fino al **33%**. Sullo stesso compito di codice, una nota che chiedeva il punteggio pieno alzava il voto di Qwen3 235B di **83,2% della scala**, e sette modelli dell'intera batteria accreditavano risposte vuote, quindi [[porcaro-ai-grading-benchmark-2026|una valutazione automatica del codice degli studenti ha bisogno di test di fallimento accanto al numero di accordo]].
 
-- **"L'effetto è lo stesso a ogni fase di un corso."** Cresceva con il lavoro: su **60 programmi Java completi** valutati con una rubrica a **14 livelli**, l'effetto dell'etichetta era **2,8 volte** la sua dimensione sulle risposte brevi su GPT-4.1-mini e **2,4 volte** su Qwen, sebbene solo **0,4 volte** su Gemini. [[porcaro-ai-grader-reliability-2026|Compito e rubrica fanno parte di ciò che l'effetto misura]], quindi una dimensione validata sulle risposte brevi non si trasferisce ai programmi.
+- **"L'effetto è lo stesso a ogni fase di un corso."** Cresceva con il lavoro: su **60 programmi Java completi** valutati con una [[rubrics|rubrica]] a **14 livelli**, l'effetto dell'etichetta era **2,8 volte** la sua dimensione sulle risposte brevi su GPT-4.1-mini e **2,4 volte** su Qwen, sebbene solo **0,4 volte** su Gemini. [[porcaro-ai-grader-reliability-2026|Compito e rubrica fanno parte di ciò che l'effetto misura]], quindi una dimensione validata sulle risposte brevi non si trasferisce ai programmi.
 
 ## Idee sbagliate comuni
 

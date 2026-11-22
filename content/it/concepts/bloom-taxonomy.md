@@ -1,7 +1,7 @@
 ---
 title: Tassonomia di Bloom
 created: "2026-11-22T11:00:00-05:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -16,8 +16,12 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 translation_of: concepts/bloom-taxonomy
-source_updated: "2026-11-21T04:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 connected_concepts: [learning-theories, critical-thinking, metacognition, icap-framework, tpack, mastery-learning, scaffolding, inquiry-based-learning, automated-question-generation, automated-assessment, educational-measurement, assessment-validity, formative-assessment, generative-ai, llm, machine-learning, cognitive-offloading, higher-ed, k-12, curriculum-design]
 connected_articles: [austin-bloom-taxonomy-generative-ai-2026, bloom-classifier-ai-assisted-questions-2026, bloom-taxonomy-llm-item-classification-2026, cross-dataset-bloom-question-classification, bloom-aligned-educational-control-llms, llm-educational-question-cognitive-depth, stewart-tag-question-categorization-competency-2026, luo-ibl-patterns-llm-bloom-2026, student-llm-use-ai-question-difficulty-data-science-2026, student-cognitive-offloading-ai-higher-ed-2026]
@@ -45,7 +49,7 @@ L'utilità del costrutto in questo campo deriva dall'essere un *vocabolario cond
 
 Il primo compito è strumentale. Ricercatori e sistemi usano la tassonomia per codificare item e output su larga scala: una banca di item etichettata per livello, le domande di un modello ordinate per il livello che sembrano esigere, il lavoro delegato da uno studente classificato per l'operazione cognitiva ceduta. È il compito che è stato messo alla prova più duramente, e i risultati sono scomodi.
 
-Il secondo compito è architettonico. La tassonomia ordina ciò che si chiede di fare agli apprendenti, e quindi modella il [[curriculum-design|curriculum]], le sequenze di attività e le rubric. Qui la domanda non è se le etichette siano accurate, ma se l'ordine sia giusto — e se regge ancora quando una macchina può produrre l'artefatto in cima all'ordine. I due compiti falliscono in modo diverso: uno strumento di classificazione fallisce quando le sue etichette non sopravvivono al contatto con item reali; un quadro di progettazione fallisce quando la sua sequenza non descrive più come avviene l'apprendimento.
+Il secondo compito è architettonico. La tassonomia ordina ciò che si chiede di fare agli apprendenti, e quindi modella il [[curriculum-design|curriculum]], le sequenze di attività e le [[rubrics|rubric]]. Qui la domanda non è se le etichette siano accurate, ma se l'ordine sia giusto — e se regge ancora quando una macchina può produrre l'artefatto in cima all'ordine. I due compiti falliscono in modo diverso: uno strumento di classificazione fallisce quando le sue etichette non sopravvivono al contatto con item reali; un quadro di progettazione fallisce quando la sua sequenza non descrive più come avviene l'apprendimento.
 
 ## Bloom come strumento di classificazione nell'AIED
 

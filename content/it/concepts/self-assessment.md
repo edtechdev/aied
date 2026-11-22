@@ -1,7 +1,7 @@
 ---
 title: Autovalutazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,13 +24,17 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [evaluative-judgment, self-report-measures, peer-assessment, metacognition, self-regulated-learning, feedback-literacy, formative-assessment, assessment-validity, self-efficacy, scaffolding, cognitive-offloading, cognitive-surrender, trust-calibration, assessment, learning-gains, educational-measurement, ai-literacy, reflection]
 connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-tiered-ai-literacy-guidebooks-2026, chatgpt-critical-creative-thinking-review, yasir-llm-tutoring-agents-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026]
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **L'autovalutazione** — giudicare il proprio lavoro, la propria competenza o i propri progressi rispetto a criteri, e le pratiche e gli strumenti costruiti su quell'atto. Il termine ha due volti che è facile far collassare in uno. Come **tecnica didattica** è l'autovalutazione, l'autorevisione basata su rubriche, l'autoverifica e la riflessione guidata: attività pensate per sviluppare il [[metacognition|monitoraggio]] e il [[evaluative-judgment|giudizio]] su cui si regge l'[[self-regulated-learning|apprendimento autoregolato]]. Come **misura educativa** è uno [[self-report-measures|strumento di autovalutazione]], in cui la stima che lo studente dà della propria abilità, della propria sicurezza o del proprio apprendimento sostituisce un'osservazione che nessuno ha fatto. Siede accanto alla [[peer-assessment|valutazione tra pari]] come l'altra metà degli studenti-in-quanto-valutatori, ed eredita la stessa dipendenza dallo [[scaffolding|supporto graduale]] e da criteri espliciti. Entrambi i volti fanno leva sulla stessa facoltà ed entrambi falliscono nella stessa direzione: la stima è sistematicamente generosa, e quanto più il lavoro consegnato da uno studente può essere prodotto da uno strumento di [[generative-ai|IA generativa]], tanto meno quel lavoro dice se la facoltà sia presente o meno.
+> **L'autovalutazione** — giudicare il proprio lavoro, la propria competenza o i propri progressi rispetto a criteri, e le pratiche e gli strumenti costruiti su quell'atto. Il termine ha due volti che è facile far collassare in uno. Come **tecnica didattica** è l'autovalutazione, l'autorevisione basata su [[rubrics|rubriche]], l'autoverifica e la riflessione guidata: attività pensate per sviluppare il [[metacognition|monitoraggio]] e il [[evaluative-judgment|giudizio]] su cui si regge l'[[self-regulated-learning|apprendimento autoregolato]]. Come **misura educativa** è uno [[self-report-measures|strumento di autovalutazione]], in cui la stima che lo studente dà della propria abilità, della propria sicurezza o del proprio apprendimento sostituisce un'osservazione che nessuno ha fatto. Siede accanto alla [[peer-assessment|valutazione tra pari]] come l'altra metà degli studenti-in-quanto-valutatori, ed eredita la stessa dipendenza dallo [[scaffolding|supporto graduale]] e da criteri espliciti. Entrambi i volti fanno leva sulla stessa facoltà ed entrambi falliscono nella stessa direzione: la stima è sistematicamente generosa, e quanto più il lavoro consegnato da uno studente può essere prodotto da uno strumento di [[generative-ai|IA generativa]], tanto meno quel lavoro dice se la facoltà sia presente o meno.
 
 ## Domande su cui riflettere
 
@@ -73,6 +77,8 @@ Usata come misura, l'autovalutazione di solito arriva travestita da qualcos'altr
 L'accuratezza è il problema principale, e la direzione è coerente. L'evidenza più pulita viene da uno studio che ha costruito misure autodichiarate e misure oggettive parallele dell'[[ai-literacy|alfabetizzazione in IA]] degli [[teacher-role|insegnanti]] all'interno di un'unica cornice. Tra 288 insegnanti della scuola K-12, le correlazioni tra i fattori oggettivi e quelli autodichiarati sono risultate comprese tra r = 0,07 e r = 0,24, e l'[[latent-profile-analysis|analisi dei profili latenti]] ha individuato sei profili: 43 insegnanti si sono valutati costantemente alti pur ottenendo punteggi più bassi sulla misura oggettiva, 59 hanno mostrato il pattern inverso, e i profili rimanenti si raggruppavano vicino alla media o si dividevano in base all'esperienza pregressa di alfabetizzazione in IA. Due misure di un'unica abilità, costruite dallo stesso team sullo stesso costrutto, non condividono quasi nulla.
 
 Il quadro a livello di campo corrisponde a quel singolo studio. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 review of teacher AI literacy measurement tools]] ha valutato 33 strumenti pubblicati tra il 2019 e il 2025 e ha trovato che 31 (93,9%) erano scale autodichiarate di sicurezza percepita, solo due (6,1%) testavano oggettivamente la conoscenza, e nessuno usava compiti basati sulla prestazione. La lettura degli autori è quella su cui ruota il volto di misurazione di questa pagina: un punteggio autodichiarato registra la sicurezza riportata piuttosto che la capacità, quindi non può sostituirsi alla competenza, ed essi sostengono compiti di prestazione e analisi secondo la [[item-response-theory|teoria della risposta all'item]] accanto all'autovalutazione, per separare la capacità validata dalla sicurezza riportata.
+
+Una revisione sistematica di 67 studi su ChatGPT e cognizione rende concreto il limite di misurazione: il pensiero creativo veniva misurato di solito con compiti di prestazione diretta, mentre il pensiero critico si appoggiava alle [[self-report-measures|autodichiarazioni]], quindi le differenze apparenti tra i due riflettono in parte la strumentazione piuttosto che la cognizione ([[chatgpt-critical-creative-thinking-review|Li et al. (2026)]]).
 
 L'accuratezza dipende anche da ciò che viene stimato. Un'analisi psicometrica di un'autovalutazione dell'alfabetizzazione in GenAI basata su tassonomie, con 158 membri del personale universitario e studenti, ha trovato un profilo invertito, con i rispondenti che dichiaravano padronanza della creazione prima delle fondamenta concettuali su cui essa poggia, e solo una correlazione debole (r = 0,188) tra i profili degli studenti e quelli del personale accademico. Un'indagine sugli studenti dei [[teacher-education|corsi di formazione docente]] ha trovato la stessa forma dall'altro lato: quasi tutti (97,8%) hanno valutato importante l'analisi critica dei media, mentre solo il 13,8% ha detto che il proprio percorso formativo la affrontava, e meno della metà (44,9%) credeva di avere le competenze per analizzare criticamente le informazioni mediatiche. La competenza mediatica autovalutata era in ritardo rispetto all'importanza autovalutata.
 

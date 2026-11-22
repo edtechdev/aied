@@ -1,7 +1,7 @@
 ---
 title: Sistemi di raccomandazione e percorsi di apprendimento
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
 connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
@@ -73,7 +77,7 @@ La struttura dei prerequisiti funziona anche come lente diagnostica sul curricol
 
 La qualità del ranking non stabilisce se qualcuno debba seguirlo. [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor, Cukurova, Kent e Alexandron (2025)]] adattano agli insegnanti di [[chemistry-education|chimica]] il modello di fiducia nell'automazione di Hoff e Bashir e lo verificano con 41 insegnanti in servizio usando lo strumento di raccomandazione GrouPer. L'[[explainable-ai|spiegabilità]] ha aumentato la [[trust|fiducia]] indirettamente, aumentando la comprensibilità, e la *forma* della spiegazione ha contato più della sua presenza: il passaggio degli insegnanti da spiegazioni di importanza delle feature ("basate sui dati") a spiegazioni semantiche in linguaggio curricolare ("basate sul dominio") ha aumentato significativamente comprensibilità (W = 80,5, p = 0,005), fiducia [[trust-calibration|appresa]] (W = 52, p = 0,002) e accettazione (W = 22,5, p = 0,003), e tutti e sette gli insegnanti del think-aloud hanno riportato le spiegazioni basate sul dominio come più influenti. Sono comparsi altri due fattori di accettazione, entrambi situazionali anziché epistemici: allineamento pedagogico (riportato da 8 su 11) e riduzione del carico di lavoro (6 su 11). Diversi insegnanti hanno anche detto che la sola spiegazione era insufficiente — volevano esperienza in classe con lo strumento prima di fidarsene, un'indicazione forte che la fiducia in un sistema di raccomandazione si costruisce con l'uso, non si consegna in una legenda.
 
-L'audit di equità pone una domanda diversa: le raccomandazioni di chi sono peggiori? Lo studio Graph-GRU è un utile esempio lavorato perché nomina ciò che il suo audit non poteva vedere. L'equità è stata operazionalizzata attraverso coorti basate sulla partecipazione perché il dataset pubblico di Moodle era privo di rendimento, [[prior-knowledge|conoscenze pregresse]], profili di apprendimento e attributi demografici, quindi il risultato è un audit del comportamento tra livelli di [[student-engagement|coinvolgimento]] anziché una valutazione completa dell'[[equity-in-ai-education|equità educativa]]; uno studente a bassa attività potrebbe essere in difficoltà, disimpegnato, o già familiare con il materiale. La spiegabilità assume qui la forma di analisi basate sui percorsi e controfattuali, con una stabilità controfattuale mediana CR@10 = 1,0 per molti studenti ma un persistente bias di popolarità a livello di catalogo riflesso in alte metriche di esposizione di Gini. La lezione è che la [[bias-mitigation|mitigazione del bias]] deve essere misurata a livello di esposizione e di gruppi di studenti, non inferita dall'accuratezza o dalla presenza di un modulo di spiegazione, e che la supervisione [[human-in-the-loop-ai|human-in-the-loop]] è significativa solo se l'essere umano vede l'evidenza a livello di gruppo.
+L'audit di equità pone una domanda diversa: le raccomandazioni di chi sono peggiori? Lo studio Graph-GRU è un utile [[rubrics|esempio]] lavorato perché nomina ciò che il suo audit non poteva vedere. L'equità è stata operazionalizzata attraverso coorti basate sulla partecipazione perché il dataset pubblico di Moodle era privo di rendimento, [[prior-knowledge|conoscenze pregresse]], profili di apprendimento e attributi demografici, quindi il risultato è un audit del comportamento tra livelli di [[student-engagement|coinvolgimento]] anziché una valutazione completa dell'[[equity-in-ai-education|equità educativa]]; uno studente a bassa attività potrebbe essere in difficoltà, disimpegnato, o già familiare con il materiale. La spiegabilità assume qui la forma di analisi basate sui percorsi e controfattuali, con una stabilità controfattuale mediana CR@10 = 1,0 per molti studenti ma un persistente bias di popolarità a livello di catalogo riflesso in alte metriche di esposizione di Gini. La lezione è che la [[bias-mitigation|mitigazione del bias]] deve essere misurata a livello di esposizione e di gruppi di studenti, non inferita dall'accuratezza o dalla presenza di un modulo di spiegazione, e che la supervisione [[human-in-the-loop-ai|human-in-the-loop]] è significativa solo se l'essere umano vede l'evidenza a livello di gruppo.
 
 ## I percorsi di apprendimento nella pratica
 

@@ -1,7 +1,7 @@
 ---
 title: Avatar IA e istruttori sintetici
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,13 +13,17 @@ level: [higher ed]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
@@ -59,7 +63,7 @@ Questa pagina è organizzata per ruolo: quale ruolo occupa l'umano sintetico, qu
 
 **Partner di role-play.** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] fa manovrare ai bambini un avatar robotico per provare l'intervento del bystander. ACLIME chiama questa la seconda modalità di interazione: un agente che tiene un ruolo definito per un dialogo [[situated-learning|situato]].
 
-**Interlocutore della valutazione.** Il giudice di SOPHIE valuta le trascrizioni rispetto a una rubrica di comunicazione. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] propongono un agente vocale che intervista gli studenti su un corso invece di somministrare un [[self-report-measures|questionario scritto]].
+**Interlocutore della valutazione.** Il giudice di SOPHIE valuta le trascrizioni rispetto a una [[rubrics|rubrica]] di comunicazione. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] propongono un agente vocale che intervista gli studenti su un corso invece di somministrare un [[self-report-measures|questionario scritto]].
 
 ## Cosa sostiene l'evidenza, ruolo per ruolo
 

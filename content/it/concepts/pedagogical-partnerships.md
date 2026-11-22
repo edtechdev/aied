@@ -1,7 +1,7 @@
 ---
 title: "Partnership pedagogiche"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogy, collaborative-learning, agency, self-directed-learning, curriculum-design, learning-design, assessment, authentic-assessment, teacher-role, student-engagement, student-experience, educational-policy-ai, governance, equity-in-ai-education, inclusive-learning, human-ai-collaboration, student-ai-interaction, generative-ai]
 connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-custom-gpts-sap-2026, williams-ingle-assessment-co-creation-ai-2025, matthews-five-guiding-principles-ai-sap-trust-2025, chang-co-designing-ai-youth-relational-privacy-2025, fawns-entangled-pedagogy-genai-students-2026, anastasia-shared-agency-partnership-framework-2026, maybee-disruptive-partnerships-sap-2025, student-centered-genai-responsible-framework-2026, zangari-student-created-ai-agents-codesigned-instruction-2026]
@@ -67,7 +71,7 @@ L'intersezione tra partnership pedagogica e IA è uno dei filoni in più rapida 
 
 - **Co-creazione su larga scala, misurata con cautela.** In un corso di progettazione software da 710 studenti, gli studenti hanno costruito un [[intelligent-tutoring|tutor IA]] per un pari anziché usarne uno. La libertà progettuale è stato il tema positivo principale (22,3%) e le istruzioni poco chiare il reclamo principale (23,7%), ma l'apprendimento percepito correlava con i punteggi dei quiz solo a r = 0,161–0,315 e il progetto non aveva un gruppo di controllo ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Costruire lo strumento è una pedagogia plausibile e, su queste evidenze, non provata, motivo per cui il caso a suo favore poggia sull'attività di progettazione anziché sui guadagni di esito.
 
-- **Co-progettazione dell'intera classe, valutata tramite [[self-assessment|autovalutazione]].** Un programma di primo anno in information studies aveva fatto co-progettare a studenti e docenti obiettivi e politiche del corso nella prima settimana, per poi rivisitarli durante il semestre, con gli studenti che valutavano se stessi e i propri gruppi rispetto a obiettivi personali, obiettivi di gruppo e una rubrica condivisa, anziché rispetto ai prodotti finali ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
+- **Co-progettazione dell'intera classe, valutata tramite [[self-assessment|autovalutazione]].** Un programma di primo anno in information studies aveva fatto co-progettare a studenti e docenti obiettivi e politiche del corso nella prima settimana, per poi rivisitarli durante il semestre, con gli studenti che valutavano se stessi e i propri gruppi rispetto a obiettivi personali, obiettivi di gruppo e una [[rubrics|rubrica]] condivisa, anziché rispetto ai prodotti finali ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **Co-creazione nella valutazione e nell'IA.** Partnership studente-personale hanno co-valutato output generati dall'IA nelle prove di corso e co-progettato criteri di valutazione, migliorando la comprensione dei benefici e dei limiti dell'IA e sostenendo l'[[self-regulated-learning|apprendimento autoregolato]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **Partnership per preservare la fiducia pedagogica.** Di fronte all'incertezza indotta dall'IA e alla "vergogna per l'IA", le pratiche di partnership che nutrono la *fiducia pedagogica* — una relazione di apprendimento fiduciosa e reciproca, aperta all'incertezza e co-navigata attraverso il dialogo — offrono un modo per sostenere il nucleo relazionale dell'educazione ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **Giovani come co-progettisti di sistemi di IA.** Gli approcci di progettazione partecipativa coinvolgono studenti storicamente minorizzati come partner nella progettazione dei sistemi di IA che incideranno sulle loro aule, portando in superficie i valori e gli impegni [[ethics|etici]] degli studenti ([[chang-co-designing-ai-youth-relational-privacy-2025]]).

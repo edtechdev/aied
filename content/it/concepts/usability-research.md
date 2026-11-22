@@ -1,7 +1,7 @@
 ---
 title: Ricerca sull'usabilità
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
 connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
@@ -55,7 +59,7 @@ La ricerca su usabilità ed UX risponde a domande come: gli studenti riescono a 
 - **Interazione uomo-robot e [[conversational-ai|IA conversazionale]].** [[icub-humanoid-storytelling-llm-hri-2025|Lo studio sull'umanoide narratore]] è uno studio di usabilità esplicito sull'interazione alimentata da [[llm|LLM]]; [[conversational-ai-agents-umbrella-review-2026|una revisione ombrello degli agenti di IA conversazionale]] identifica l'usabilità e la qualità dell'interazione come tema ricorrente.
 - **Progettazione e raffinamento.** I risultati sull'usabilità alimentano la progettazione iterativa (vedi [[design-thinking|design thinking]] e [[learning-design|progettazione dell'apprendimento]]), migliorando gli strumenti prima o insieme ai test di efficacia.
 - **Uno strumento attraverso contesti diversi, e il tetto che lo limita.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] hanno mantenuto costanti dominio, compito e strumento mentre il livello educativo variava, così che le valutazioni di 144 studenti su 893 risposte di feedback e 237 report confrontino contesti anziché discipline — e solo l'accuratezza percepita differiva tra i livelli. Lo studio nomina anche il limite di questo tipo di valutazione con utenti: dal 72,2 all'86,4 percento degli studenti si collocava in media ad almeno 4 su 5, e gli autori dichiarano che le loro differenze non significative non stabiliscono l'equivalenza perché nessun margine è stato fissato in anticipo.
-- **La progettazione dei valutatori riportata come parte del risultato.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hanno fatto giudicare a 25 esperti abbinati al dominio 92 lezioni rigenerate rispetto a una rubrica ancorata alla «qualità di una [[online-teaching-and-learning|lezione MOOC]] standard», assegnando ogni video a un singolo revisore (k = 1) per distribuire il panel su una parte più ampia del corpus anziché raccogliere valutazioni ripetute. Il compromesso è modellato anziché nascosto: un modello a intercetta casuale attribuisce circa il 35 percento della varianza residua al revisore (ICC = 0,35) e gli intervalli sono raggruppati per revisore, ed è così che un panel di esperti può riportare «87 percento pari o superiore alla soglia» con un intervallo onesto.
+- **La progettazione dei valutatori riportata come parte del risultato.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hanno fatto giudicare a 25 esperti abbinati al dominio 92 lezioni rigenerate rispetto a una [[rubrics|rubrica]] ancorata alla «qualità di una [[online-teaching-and-learning|lezione MOOC]] standard», assegnando ogni video a un singolo revisore (k = 1) per distribuire il panel su una parte più ampia del corpus anziché raccogliere valutazioni ripetute. Il compromesso è modellato anziché nascosto: un modello a intercetta casuale attribuisce circa il 35 percento della varianza residua al revisore (ICC = 0,35) e gli intervalli sono raggruppati per revisore, ed è così che un panel di esperti può riportare «87 percento pari o superiore alla soglia» con un intervallo onesto.
 
 ## Relazione con le altre famiglie di ricerca
 

@@ -1,7 +1,7 @@
 ---
 title: Equità
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: "concepts/equity-in-ai-education"
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -80,7 +80,7 @@ Un obbligo di usare l'IA può essere esso stesso il danno di equità, senza una 
 
 - **La rappresentazione riguarda l'evidenza, non solo i discenti.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] sostiene che l'equità nella valutazione supportata dalla tecnologia copre la trasferibilità contestuale della conoscenza che sta alla base di un progetto, così che un sistema validato in contesti ben dotati di risorse porta con sé assunti non verificati altrove.
 
-- **I modelli di buona prestazione diventano capitale culturale.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner e Brezovec (2026)]] mostrano che l'IA generativa reformatta prompt, rubriche e generi in forme comunicativamente plausibili, il che può rendere un contributo più facile da elaborare guidando al tempo stesso chi apprende verso modelli mainstream, così che l'inclusione diventa condizionata all'assimilazione a generi riconoscibili.
+- **I modelli di buona prestazione diventano capitale culturale.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner e Brezovec (2026)]] mostrano che l'IA generativa reformatta prompt, [[rubrics|rubriche]] e generi in forme comunicativamente plausibili, il che può rendere un contributo più facile da elaborare guidando al tempo stesso chi apprende verso modelli mainstream, così che l'inclusione diventa condizionata all'assimilazione a generi riconoscibili.
 
 ## Equità degli esiti
 

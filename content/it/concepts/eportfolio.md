@@ -1,7 +1,7 @@
 ---
 title: "E-portfolio (portafoglio elettronico)"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ La ricerca della knowledge base mostra che gli e-portfolio sono sempre più cent
 - **ChatGPT + e-portfolio per l'[[language-learning|apprendimento delle lingue]].** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] combinano ChatGPT con la valutazione tramite e-portfolio (modello CEA) per il parlato in EFL: la MANOVA ha mostrato guadagni significativi nella performance oratoria (F(1)=48,554, p<.001) e nella [[feedback-literacy|competenza sul feedback]] (F(1)=16,135, p<.001), con gli e-portfolio che supportano sia la capacità oratoria sia le abilità [[metacognition|metacognitive]] per usare il feedback in modo efficace.
 - **Portfolio come strategia di valutazione nell'era dell'IA.** [[responsible-assessment-ai-era-stanford-2026|Responsible assessment (2026)]] sostiene il passaggio dai test una tantum alla **valutazione continua e incorporata tramite portfolio** e ad approcci basati sulle competenze. [[pbl-structural-conditions-ai-2026|Rowe (2026)]] indica i portfolio (con gli orali e la pratica osservata) come risposte parziali al problema aperto della valutazione su larga scala quando il manufatto-come-proxy si è rotto.
 - **Portfolio come tracce di apprendimento valutabili.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] utilizzano i **portfolio di apprendimento personale** come meccanismo del framework LEARN — tracce di apprendimento valutabili (portfolio, dichiarazione dell'uso dell'IA) che rendono trasparente e verificabile il ricorso all'IA.
-- **Portfolio simbiotici per chi apprende in modo ibrido.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone un **Portfolio Simbiotico** per chi apprende in modo post-umano/ibrido, valutato con una rubrica a cinque criteri (Dialogo Generativo, Revisione Epistemica, Riflessione Critica, ecc.) — un modello esplicito per valutare il lavoro collaborativo umano+IA.
+- **Portfolio simbiotici per chi apprende in modo ibrido.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone un **Portfolio Simbiotico** per chi apprende in modo post-umano/ibrido, valutato con una [[rubrics|rubrica]] a cinque criteri (Dialogo Generativo, Revisione Epistemica, Riflessione Critica, ecc.) — un modello esplicito per valutare il lavoro collaborativo umano+IA.
 
 ## Perché gli e-portfolio contano per l'integrazione dell'IA
 

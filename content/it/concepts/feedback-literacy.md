@@ -9,8 +9,8 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: "concepts/feedback-literacy"
-updated: "2026-11-08T13:51:25-05:00"
-source_updated: "2026-11-04T17:45:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
 connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, yuan-genai-feedback-writing-self-regulation-2026]
@@ -41,7 +45,9 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 
 La literacy del feedback conta perché un feedback ben progettato aiuta solo gli studenti in grado di interpretarlo e di agire su di esso. Uno studente che non sa valutare se un feedback generato dall'IA sia accurato, o che non sa come trasformare il feedback in una revisione concreta, impara molto meno dallo stesso feedback rispetto a un compagno con maggiore literacy del feedback. Mentre l'IA rimodella l'erogazione del feedback, la literacy del feedback è diventata una condizione limite centrale per stabilire se il feedback basato sull'IA migliori l'apprendimento.
 
-### Che cos'è la literacy del feedback
+[[corbin-recognition-feedback-2026|Corbin, Tai e Flenady (2026)]] collocano il riconoscimento prima della literacy: lo studente deve riconoscere al fornitore la legittimità di guidare, e ottenere a sua volta la legittimità di rispondere, altrimenti non c'è nulla su cui la literacy possa operare.
+
+## Che cos'è la literacy del feedback
 
 La literacy del feedback è ampiamente inquadrata come un insieme di capacità interrelate — la capacità di apprezzare il feedback, formulare giudizi, gestire gli aspetti affettivi e agire (secondo Carless & Boud). Gli articoli della knowledge base raggruppano la literacy del feedback attorno a diverse capacità:
 
@@ -52,7 +58,7 @@ La literacy del feedback è ampiamente inquadrata come un insieme di capacità i
 - **Agire sul feedback** — tradurre il feedback in revisioni concrete o in cambiamenti di approccio ([[feedback|Feedback Loop]], [[self-regulated-learning]]).
 - **Giudicare l'autorità valutativa** — un'ulteriore capacità proposta da [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]: oltre ad apprezzare il feedback, formulare giudizi, gestire gli aspetti affettivi e agire, gli studenti che ragionavano sul feedback prodotto dall'IA dovevano giudicare *quale fonte detiene l'autorità valutativa*, separatamente dal giudizio sulla qualità del feedback. Poiché ai partecipanti era stato detto che ChatGPT aveva generato sia il punteggio sia il feedback, la loro literacy del feedback era esercitata sulla fonte e sulla legittimità della valutazione, non solo sul suo contenuto, e questo produceva richieste di convalida da parte del docente invece di un'accettazione passiva.
 
-### Come la literacy del feedback appare nella ricerca
+## Come la literacy del feedback appare nella ricerca
 
 - **La literacy del feedback come moderatore del valore del feedback basato sull'IA:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] mostrano che la literacy del feedback modera il legame tra accettazione di ChatGPT e [[self-regulated-learning]]: gli studenti con literacy più forte percepiscono un beneficio SRL maggiore dal feedback basato sull'IA, mentre quelli con literacy più debole mostrano effetti minimi o addirittura negativi ([[cognitive-offloading|Over-Reliance]]). La literacy del feedback è una condizione limite perché gli studenti possano "dare senso" al feedback dell'IA.
 
@@ -69,17 +75,18 @@ La literacy del feedback è ampiamente inquadrata come un insieme di capacità i
 - **Feedback tra pari e literacy del feedback:** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]] collocano la GenAI all'interno del feedback tra pari in EFL per addestrare la literacy del feedback e abilitarne l'adozione nelle lezioni di speaking, e gli [[scaffolding-srl-feedback-genai-human-peers|studi sullo scaffolding]] confrontano la GenAI con i pari umani nel favorire un feedback autoregolato.
 - **Feedback conservato come dato durevole e consultabile.** Abbinare ChatGPT a un [[eportfolio|e-portfolio]] ha elevato insieme la performance nello speaking e la literacy del feedback (η² parziale = 0,218 per quest'ultima), poiché gli studenti trattavano il feedback archiviato di docente, pari e IA come un dato da riconciliare piuttosto che come una correzione una tantum ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
 - **La literacy del feedback nel learning analytics e nelle [[visualization|dashboard]] GenAI:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] esaminano come gli studenti percepiscano il feedback generato dalla GenAI nei [[learning-analytics]] da una prospettiva di literacy del feedback.
-- **La literacy del feedback come obiettivo del design dell'IA-literacy e della [[assessment|valutazione]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] utilizzano una valutazione centrata sul processo piuttosto che sull'artefatto, in cui gli studenti criticano l'output di ChatGPT rispetto a una rubrica per costruire insieme literacy del feedback, psicologica e dell'IA; il [[learner-centered-feedback-ai|feedback basato sull'IA centrato sullo studente]] e il [[care-full-feedback-genai|design di feedback care-full]] collegano la qualità del feedback alla capacità di chi apprende di confrontarsi con esso.
+- **La literacy del feedback come obiettivo del design dell'IA-literacy e della [[assessment|valutazione]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] utilizzano una valutazione centrata sul processo piuttosto che sull'artefatto, in cui gli studenti criticano l'output di ChatGPT rispetto a una [[rubrics|rubrica]] per costruire insieme literacy del feedback, psicologica e dell'IA; il [[learner-centered-feedback-ai|feedback basato sull'IA centrato sullo studente]] e il [[care-full-feedback-genai|design di feedback care-full]] collegano la qualità del feedback alla capacità di chi apprende di confrontarsi con esso.
 
 - **La literacy del feedback può essere insegnata, e l'IA può fornire il materiale di pratica.** Una guida concettuale fa generare ai docenti uno spettro graduato di campioni di lavoro prodotti dall'IA — che soddisfano tutti, alcuni o nessuno dei criteri — per poi condurre gli studenti attraverso la critica modellata, l'analisi guidata in classe e la valutazione indipendente ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington e Hock (2026)]]).
+- **La literacy del feedback è la via dal feedback dell'IA all'autoregolazione.** In uno studio a due ondate con 520 studenti universitari cinesi, [[yuan-genai-feedback-writing-self-regulation-2026|Yuan (2026)]] ha trovato che la literacy del feedback trasportava il 32,4% dell'associazione tra l'uso del feedback generativo e l'autoregolazione della scrittura successiva, contro il 9,1% attraverso una minore ansia da scrittura.
 
-### Perché la literacy del feedback conta per l'IA in educazione
+## Perché la literacy del feedback conta per l'IA in educazione
 
 L'IA cambia il feedback in due direzioni che entrambe alzano la posta in gioco della literacy del feedback. Primo, l'IA aumenta drasticamente il *volume e l'immediatezza* del feedback ([[ai-feedback-quality]], [[feedback|Feedback Loop]]), quindi gli studenti si confrontano con molto più feedback che devono selezionare e valutare. Secondo, il feedback generato dall'IA comporta rischi distinti — inaccuratezza, [[hallucination-risk|allucinazione]] e l'"illusione della padronanza" — che richiedono capacità di [[critical-thinking|valutazione critica]] e vigilanza contro l'Over-Reliance e la [[llm-fallacy-misattribution|misattribuzione]]. La literacy del feedback diventa perciò una componente centrale dell'[[ai-literacy]]: sapere non solo come chiedere un feedback all'IA, ma come giudicare se quel feedback valga la pena di essere messo in atto e come convertirlo in apprendimento genuino invece che in completamento del compito.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman and colleagues (2026)]] aggiungono un'ulteriore richiesta a questo elenco. Nel loro studio basato su workshop, gli studenti non gestivano un'unica fonte di feedback ma una rete: soppesavano i commenti del docente rispetto all'output dell'IA, alle rubriche, ai materiali del corso e ai pari, e quando il feedback umano era lento continuavano a lavorare con l'IA come soluzione temporanea, correggendo in seguito se li aveva fuorviati. Gli autori suggeriscono che gli studenti possono agire come un proprio human-as-the-loop gestendo quelle relazioni dal compito granulare alla traiettoria più ampia, e questo è a sua volta una capacità di literacy del feedback. Il loro monito è che commenti del docente scarni o in ritardo sono ciò che spinge gli studenti verso fonti non verificate.
 
-### Connessioni con concetti correlati
+## Connessioni con concetti correlati
 
 La literacy del feedback si collega ad [[ai-feedback-quality]] e [[feedback|Feedback Loop]] (il lato dell'erogazione che completa), a [[formative-assessment]] (il ciclo di valutazione che alimenta) e a [[self-regulated-learning]] (l'[[self-assessment]] e l'adattamento che sostiene). È un sottoinsieme dell'[[ai-literacy]] quando applicata al feedback generato dall'IA, si interseca con [[peer-assessment]] nei contesti collaborativi, ed è particolarmente rilevante per la [[writing-education]]. Si collega inoltre a [[metacognition]] e a [[trust-calibration]] — la capacità di giudicare se un feedback sia affidabile.
 

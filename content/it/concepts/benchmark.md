@@ -1,7 +1,7 @@
 ---
 title: "Benchmark (riferimento di confronto)"
 created: "2026-10-14T22:03:00-04:00"
-updated: "2026-11-08T11:15:12-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
@@ -51,11 +55,11 @@ I benchmark fungono da fondamento probatorio della [[ai-education|ricerca sull'I
 
 - **L'adattamento a chi apprende come criterio esplicito di benchmark.** Il Teaching Monster Challenge valuta l'adattamento a una persona di apprendimento specificata, ma il suo giudice LLM automatico ha separato solo una coda debole: i sistemi migliori hanno totalizzato vicino al suo tetto massimo e la sua classifica era in disaccordo con la preferenza della folla (Spearman ρ = −0,17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
-### Perché i benchmark contano nell'AIED
+## Perché i benchmark contano nell'AIED
 
 I benchmark si collegano alla [[ai-ed-evaluation|valutazione dell'IA in educazione]] e alla [[assessment-validity|validità della valutazione]] — senza benchmark rigorosi, le affermazioni sull'efficacia del [[intelligent-tutoring|tutoraggio IA]] sono inverificabili. Si intersecano inoltre con la [[bias-mitigation|mitigazione del bias]], poiché la progettazione di un benchmark può codificare o amplificare i bias. La tensione tra prestazione nei benchmark e utilità nel mondo reale è esplorata in molteplici articoli, collegandosi alle preoccupazioni sul [[transfer-of-learning|trasferimento dell'apprendimento]] nelle applicazioni di [[generative-ai|IA generativa]].
 
-- **Quando il fallimento è della metrica, non del sistema:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] ha totalizzato BLEU-4 = 0.0000 su tutte le 179 domande teoriche di esame di [[cs-education|informatica]], mentre una rubrica pedagogica a sei criteri ha dato 0,7620, perché dimostrazioni logicamente equivalenti differiscono sistematicamente per notazione, nomi delle variabili e strategia di dimostrazione. Un punteggio zero dice più sulla sovrapposizione di n-gram che sulla qualità della risposta, ed è il caso generale contro il trattare le metriche superficiali come numero di testa per i sistemi AIED in domini formali.
+- **Quando il fallimento è della metrica, non del sistema:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] ha totalizzato BLEU-4 = 0.0000 su tutte le 179 domande teoriche di esame di [[cs-education|informatica]], mentre una [[rubrics|rubrica]] pedagogica a sei criteri ha dato 0,7620, perché dimostrazioni logicamente equivalenti differiscono sistematicamente per notazione, nomi delle variabili e strategia di dimostrazione. Un punteggio zero dice più sulla sovrapposizione di n-gram che sulla qualità della risposta, ed è il caso generale contro il trattare le metriche superficiali come numero di testa per i sistemi AIED in domini formali.
 - **Benchmark controfattuali a livello di costrutto.** CFES-P24 esprime i principi dell'apprendimento multimediale come trasformazioni deterministiche e reversibili delle slide per verificare se gli MLLM rispondono a costrutti specifici della progettazione didattica anziché produrre valutazioni olistiche plausibili. Un pilota congelato ha mostrato il riconoscimento dei costrutti (operazione, principio, riparazione, localizzazione dell'evidenza) a 8/8, mentre il giudizio comparativo (direzione 6/8) e la calibrazione della severità (0/8) fallivano — un argomento a favore di schede di punteggio stratificate rispetto ai punteggi compositi.([[cfes-p24-multimodal-slide-auditing-2026]])
 - **Ancorare l'[[hallucination-risk|allucinazione]] e l'energia nella valutazione, non solo l'accuratezza.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] hanno valutato l'allucinazione come implicazione rispetto ai frammenti open-license recuperati (κ = 0,76 rispetto al giudizio esperto) e hanno registrato 1,8 mWh per query, e la loro ablazione ha messo il recupero al primo posto: un LLM locale senza recupero ha totalizzato 52,3%, sotto la baseline TF-IDF del 55,4%.
 - **La verifica può battere il giudizio sui contenuti generati.** [[diagramir-educational-math-diagram-evaluation|Kumar et al. (2025)]] ritraducono i diagrammi matematici generati in una rappresentazione intermedia vincolata da uno schema ed eseguono controlli deterministici basati su regole, raggiungendo un accordo con i valutatori umani più alto (κ di Cohen 0,48–0,56) rispetto a LLM-as-a-Judge (0,39–0,47) e consentendo a un modello piccolo di eguagliare il miglior giudice a un costo 10 volte inferiore.
@@ -79,6 +83,22 @@ La stabilità a livello di item tra le esecuzioni si è mantenuta al 79,0%-85,4%
 - **Riportare l'abilità del modello come livello calibrato, non solo come accuratezza.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] mappano 624 item annotati da esperti su livelli di competenza denominati usando 2.050 risposte di chi apprende, e trovano che i modelli di frontiera superano il tetto calibrato — un limite che una percentuale nasconde.
 
 - **Una regola di punteggio può essere aggirata dal modello che addestra.** Una metrica di [[adaptive-learning|adattività]] massimizzata ripetendo un'unica decisione migliore mostra che la progettazione di un benchmark dovrebbe pubblicare l'argmax, valutare l'adattamento come differenza e riportare baseline sopra il caso ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
+
+- **I benchmark di diagnosi espongono l'eccesso di fiducia probatorio.** In [[llm-cognitive-diagnosis-handwritten-math|MathCog]], tutti i 18 LLM valutati sono scesi sotto una macro F1 di 0,5 su 3.036 verdicti di matematica scritta a mano annotati dai docenti, sovra-attribuendo forza probatoria e fabbricando citazioni di evidenza, fallimenti che gli autori quantificano con le metriche OverAttr e FalseAttr.
+
+**La regola di abbinamento fa parte della misurazione, e la sua entità non è marginale.** [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah e colleghi (2026)]] hanno punteggiato 11 configurazioni — modelli di embedding, configurazioni [[generative-ai|LLM generativi]] e un agente ReAct — rispetto a un benchmark annotato ESCO di 926 campioni di annunci di lavoro recanti 1.696 competenze gold, per poi ripunteggiare ciascuna attraverso una pipeline di abbinamento a otto livelli. La pipeline andava dalla corrispondenza esatta di stringhe a un cutoff di similarità di embedding di 0,85, e la recall misurata saliva di 11-72 punti percentuali su tutte e 11 le configurazioni.
+
+## Dove vivono i benchmark
+
+Un benchmark non è sempre un paper. Tre superfici ospitano ormai la maggior parte della lettura operativa, e differiscono in ciò che consentono di verificare.
+
+Le classifiche trasformano un benchmark in un confronto corrente. [GradeBench](/resources/gradebench/) punteggia modelli di frontiera su 464 risposte STEM scritte a mano da 45 corsi universitari rispetto agli item di rubrica effettivamente selezionati dagli insegnanti, e il modello migliore raggiunge il 57,3% di corrispondenza esatta con la rubrica. L'asse del costo conta più della classifica: un modello 0,8 punti indietro costa circa un settimo in meno per mille risposte. Misura la correzione, non l'apprendimento.
+
+Le classifiche dei rilevatori rispondono a una domanda diversa. La [classifiche RAID](/resources/raid-benchmark-leaderboard/) punteggia modelli di rilevamento tra domini, impostazioni di decodifica e attacchi avversariali, e il suo tasso di veri positivi a un tasso di falsi positivi dell'1% è la colonna che conta a scala istituzionale, dove l'1% sono centinaia di studenti.
+
+Alcuni benchmark esistono per confrontare l'accesso piuttosto che la capacità. [Fab AI](/resources/fab-ai-benchmark-leaderboard/) valuta modelli per l'educazione in paesi a reddito basso e medio su pedagogia, alfabetizzazione di base, educazione speciale e ragionamento visivo, con colonne di prezzo, numero di parametri e open-weight accanto al punteggio. La diffusione, modelli di frontiera sulle ultime novantine e modelli open sotto i 2B tra il 21% e il 43%, rende esplicito il compromesso di dispiegamento.
+
+La distinzione vale la pena di essere mantenuta. Un punteggio in classifica è un'affermazione su un insieme fisso di item e mai sull'aula, e questi tre strumenti discordano su ciò che la misurazione educativa serve a fare.
 
 ## Idee sbagliate comuni
 

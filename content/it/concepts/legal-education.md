@@ -1,7 +1,7 @@
 ---
 title: Formazione giuridica
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
 connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
@@ -62,7 +66,7 @@ L'evidenza sperimentale comincia ad arrivare: [[xie-genai-mystery-game-legal-edu
 
 ## Cosa mostra l'evidenza delle policy
 
-Gutowski e Hurley valutano le policy su cinque dimensioni con rubriche 0–5: **proibitività**, **permissività**, **integrazione educativa**, **trasparenza e responsabilità** e **profondità**. La loro ricognizione ha rilevato che la maggior parte delle facoltà di giurisprudenza ha adottato posizioni generalmente proibitive, spesso spiegate come un modo per guadagnare tempo per studiare la tecnologia, mentre quasi tutte le policy riservavano la discrezionalità ai singoli docenti. I giudizi di permissività e di proibitività correlavano inversamente, come atteso, e gli autori non segnalano alcun approccio unico accettato: le policy vanno dalla governance completa all'assenza di qualsiasi policy dichiarata.
+Gutowski e Hurley valutano le policy su cinque dimensioni con [[rubrics|rubriche]] 0–5: **proibitività**, **permissività**, **integrazione educativa**, **trasparenza e responsabilità** e **profondità**. La loro ricognizione ha rilevato che la maggior parte delle facoltà di giurisprudenza ha adottato posizioni generalmente proibitive, spesso spiegate come un modo per guadagnare tempo per studiare la tecnologia, mentre quasi tutte le policy riservavano la discrezionalità ai singoli docenti. I giudizi di permissività e di proibitività correlavano inversamente, come atteso, e gli autori non segnalano alcun approccio unico accettato: le policy vanno dalla governance completa all'assenza di qualsiasi policy dichiarata.
 
 Essi documentano anche quanto sia sottile l'evidenza del settore. L'indagine ABA del 2024 sull'IA e la formazione giuridica ha raccolto risposte da sole 29 scuole, circa il 15% delle facoltà di giurisprudenza approvate dall'ABA, per cui difficilmente può essere trattata come rappresentativa; e un'indagine LexisNexis su 800 studenti di giurisprudenza ha rilevato che solo il 9% dichiarava un uso corrente dell'IA generativa per i propri studi, mentre il 25% ne prevedeva l'adozione. Gli autori leggono il basso uso dichiarato in parte come risposta a regole poco chiare, dal momento che la chiarezza riduce il timore di infrangerle.
 

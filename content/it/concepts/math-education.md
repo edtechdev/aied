@@ -1,7 +1,7 @@
 ---
 title: Educazione matematica
 created: "2026-10-14T22:30:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
 connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
@@ -51,7 +55,7 @@ L'educazione matematica è diventata un dominio primario per la [[ai-education|r
 **La notazione percettiva è essa stessa una variabile di progettazione del compito:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] hanno rilevato che i design dei cue visivi nei problemi sull'ordine delle operazioni si dividono in impalcature e difficoltà desiderabili. Adattando modelli BKT specifici per condizione del cue a 19.952 punti dati di 688 studenti di prima media, hanno trovato che la spaziatura congruente con colore neutro (CSNC) era un'impalcatura coerente — l'unica condizione davanti al riferimento senza cue al post-test (B = 0,33, p = 0,011).
 La spaziatura neutra con colore incongruente (NSIC) produceva il tasso di indovinamento più basso (0,190), il tasso di apprendimento più alto (0,0379) e il tasso di oblio più basso (0,0054).
 
-**I guadagni nella formulazione di problemi sono superficiali.** Con 57 futuri insegnanti di matematica che hanno formulato problemi di divisione di frazioni prima e poi con Gemini, i punteggi della rubrica sono saliti da 5,95 a 6,65 su 8. Il guadagno risiedeva nel contesto e nel linguaggio, mentre il tipo di problema e la risolvibilità non avevano margine di movimento, e l'attivazione di un significato della divisione di frazioni è passata da un minimo di 1,00 a 1,37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
+**I guadagni nella formulazione di problemi sono superficiali.** Con 57 futuri insegnanti di matematica che hanno formulato problemi di divisione di frazioni prima e poi con Gemini, i punteggi della [[rubrics|rubrica]] sono saliti da 5,95 a 6,65 su 8. Il guadagno risiedeva nel contesto e nel linguaggio, mentre il tipo di problema e la risolvibilità non avevano margine di movimento, e l'attivazione di un significato della divisione di frazioni è passata da un minimo di 1,00 a 1,37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
 
 **Una penalità nella soddisfazione.** Guidare un tutor LLM attraverso un piano di [[productive-failure|fallimento produttivo]] anziché lasciarlo rispondere ha alzato la fedeltà alla strategia e prodotto 2,6 tentativi di soluzione per sessione in uno studio su 17 studenti delle superiori, eppure gli studenti hanno valutato il tutor basato sul fallimento produttivo meno utile di una baseline ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Apprendimento delle lingue
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: "concepts/language-learning"
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
 connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
@@ -66,7 +70,7 @@ Un sistema a livello di discorso va oltre denominando il difetto anziché assegn
 
 La qualità della progettazione, non la frequenza d'uso, ha veicolato l'effetto motivazionale in un tutor costruito da un insegnante: su 74 studenti universitari che usavano un GPT di giapponese limitato al corso, la frequenza d'uso fuori dalla classe non mostrava alcuna correlazione significativa con autonomia, competenza o relazione, mentre chi apprende valutava il tutor molto positivamente per l'[[self-directed-learning|apprendimento autodiretto]] (M = 4,39) e citava la sicurezza affettiva (60,8%) ([[instructor-designed-ai-tutors-foreign-language-sdt-2026|Lee & Kwon, 2026]]).
 
-**La scrittura supportata dall'IA generativa a livello primario.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] hanno condotto un programma di scrittura opinativa di nove settimane con 301 studenti di quinta e sesta elementare nella Cina orientale, con otto classi intatte assegnate casualmente al programma o all'insegnamento convenzionale. Il programma ha accresciuto il sé ideale di scrittura in L2 degli studenti (differenza media corretta 0,20) e la resilienza accademica (0,17), e ha innalzato il coinvolgimento comportamentale ed emotivo, ma non ha mosso la mentalità di crescita, il coinvolgimento cognitivo o metacognitivo, né l'organizzazione valutata con rubriche — tra le dimensioni della scrittura, solo l'uso della lingua è migliorato. Due caratteristiche della progettazione contano per gli insegnanti di lingue: la formulazione dei prompt è stata insegnata esplicitamente, attraverso una banca categorizzata di prompt legata a obiettivi di scrittura specifici, e il feedback dell'IA generativa è stato usato insieme al confronto con il feedback dell'insegnante e alla revisione ripetuta. I guadagni di authorship riportati da chi apprende poggiavano su quella struttura didattica piuttosto che sullo strumento di per sé, e gli autori indicano la ridotta [[metacognition|auto-regolazione]] e le strategie orientate alla scorciatoia come i rischi permanenti.
+**La scrittura supportata dall'IA generativa a livello primario.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] hanno condotto un programma di scrittura opinativa di nove settimane con 301 studenti di quinta e sesta elementare nella Cina orientale, con otto classi intatte assegnate casualmente al programma o all'insegnamento convenzionale. Il programma ha accresciuto il sé ideale di scrittura in L2 degli studenti (differenza media corretta 0,20) e la resilienza accademica (0,17), e ha innalzato il coinvolgimento comportamentale ed emotivo, ma non ha mosso la mentalità di crescita, il coinvolgimento cognitivo o metacognitivo, né l'organizzazione valutata con [[rubrics|rubriche]] — tra le dimensioni della scrittura, solo l'uso della lingua è migliorato. Due caratteristiche della progettazione contano per gli insegnanti di lingue: la formulazione dei prompt è stata insegnata esplicitamente, attraverso una banca categorizzata di prompt legata a obiettivi di scrittura specifici, e il feedback dell'IA generativa è stato usato insieme al confronto con il feedback dell'insegnante e alla revisione ripetuta. I guadagni di authorship riportati da chi apprende poggiavano su quella struttura didattica piuttosto che sullo strumento di per sé, e gli autori indicano la ridotta [[metacognition|auto-regolazione]] e le strategie orientate alla scorciatoia come i rischi permanenti.
 
 **L'istruzione grammaticale con la GenAI funziona attraverso la revisione, non il commento.** In un quasi-esperimento di dieci settimane con 88 studenti etiopi di EFL, i cicli bozza–prompt–riflessione–revisione hanno innalzato la grammatica (η² = 0,499) e la scrittura complessiva, e i punteggi sui contenuti sono saliti benché il prompt vietasse il feedback sui contenuti ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa & Abo, 2026]]).
 
@@ -95,6 +99,8 @@ La qualità della progettazione, non la frequenza d'uso, ha veicolato l'effetto 
 - **Le evidenze sui guadagni orali dei chatbot sono disomogenee per caratteristica.** Nell'unica sintesi sistematica della questione, dieci studi dal 2021 al 2024 miglioravano più affidabilmente l'ampiezza e l'intelligibilità, mentre la coerenza era esaminata una sola volta e l'interazione quasi mai; quattro dei dieci riportavano un unico punteggio olistico ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
 **Gli studenti di traduzione possono essere spostati via dalla correzione superficiale.** In un corso di traduzione giornalistica, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] hanno rilevato la consultazione dei motori di ricerca salire da una mediana del 15,6% al 27,7% del tempo di sessione (p = 0,020, corretto Holm) e la ricerca basata sulla conoscenza dal 7,2% al 28,8% (p = 0,010). L'uso della traduzione automatica è calato dal 28,5% al 5,1% senza raggiungere la significatività (p = 0,338), e l'uso interattivo dell'IA è rimasto a una mediana di zero. La leva era mostrare agli studenti il proprio processo anziché vietare uno strumento.
+
+La sintesi di 48 studi controllati (N = 5196) di Zhang, Aubrey, Wu e Chiu rileva che il beneficio della GenAI dipende dalla configurazione piuttosto che dalla presenza. L'uso per feedback e valutazione ha prodotto l'effetto maggiore (g = 1,15) contro g = 0,28 per l'integrazione didattica, e le modalità guidate da chi apprende (g = 0,92) hanno superato quelle autonome (g = 0,34). La lettura non mostrava alcun effetto significativo, e il valore di rilievo per il parlato g = 1,48 scendeva a g = 0,65 una volta rimossi tre outlier estremi ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 ## Idee sbagliate comuni
 

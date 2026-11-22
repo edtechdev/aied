@@ -1,7 +1,7 @@
 ---
 title: Rischio di allucinazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T13:51:25-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
 connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
@@ -46,11 +50,15 @@ L'allucinazione nell'IA educativa assume diverse forme documentate negli articol
 
 Una revisione di 125 studi fornisce un intervallo sulla prevalenza e sul divario di individuazione: tassi di allucinazione del 10–40%, con studenti di medicina che individuavano gli errori dell'IA solo nel 44–55% dei casi ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+Il rischio dipende anche dalla lingua: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite e Sun (2026)]] hanno rilevato un'individuazione degli errori forte per l'inglese ma più debole per il greco e il cinese, con allucinazioni e interpretazioni errate dell'intento dell'autore nel feedback scritto in L2.
+
 **Distorsione della memoria dopo l'output.** Un esperimento del 2026 ha rilevato che un riassunto fuorviante dell'IA faceva più che disinformare: cambiava ciò che 328 adulti ricordavano di un video che avevano visto. Solo il 44,8% di chi aveva letto il riassunto fuorviante individuava poi correttamente il dettaglio critico, contro l'83,6% di chi ne aveva letto uno coerente, e l'effetto reggeva anche quando il riassunto era etichettato come scritto da un umano ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger e Kohno, 2026]]). L'omissione era l'errore più comune nell'audit di accompagnamento: tutti e 20 i riassunti contenevano errori, e il 95% ometteva la collisione stessa. Lo studio non ha testato studenti, ma mostra perché un controllo delle allucinazioni che si ferma al testo è incompleto: l'errore può persistere nella memoria del lettore dopo che il testo è sparito.
 
 **L'allucinazione nella valutazione** è particolarmente dannosa. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** ha rilevato che gli LLM fabbricano citazioni di prove non presenti nella scrittura a mano degli studenti quando diagnosticano le abilità cognitive, con il 58,5% delle diagnosi errate accompagnate da false affermazioni di confidenza probatoria. **[[llm-fallacy-misattribution]]** ha documentato la sovra-attribuzione sistematica di prove nel ragionamento degli [[llm]] — i modelli affermano supporto probatorio dove non ne esiste. Entrambi si collegano alle questioni di [[ai-ed-evaluation]] e di [[knowledge-tracing|tracciamento delle conoscenze]] sulla [[assessment-validity|validità della valutazione]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] aggiungono due modalità di fallimento visibili quando l'output dell'IA viene valutato anziché ispezionato: particolari fabbricati che sopravvivono alla correzione — un articolo recensito che non esiste, completo di un DOI irrisolvibile, e una numerosità campionaria riportata come 378 dove la fonte diceva 329 — e l'auto-contraddizione all'interno di una singola risposta, dove il modello ha ragionato fino all'opzione corretta e poi ne ha riportata una diversa nel riepilogo finale. Poiché le liste di riferimenti sono attualmente valutate per la formattazione anziché per l'accuratezza, questa classe di errori raggiunge un voto sufficiente pur fuorviando lo studente che usa lo stesso strumento per ripassare.
 
 In un pilota di progettazione della valutazione, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] hanno rilevato riferimenti fabbricati e stime temporali irrealistiche sopravvissuti a richieste ripetute e che hanno richiesto una revisione accademica sostanziale — allucinazione in uno strumento di stesura rivolto ai docenti anziché nel lavoro degli studenti.
+
+**Generare e riformattare falliscono in modo diverso.** Interrogato per un elenco di riferimenti in stile IEEE sulle celle solari a perovskite, ChatGPT ha restituito voci che gli autori hanno trovato per lo più allucinate o citate in modo errato: iniziali, anno, volume e pagine sbagliati, e un articolo dall'aspetto plausibile attribuito a un gruppo che non aveva mai fatto quel lavoro ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra e Gong, 2026]]). Invitato invece a convertire in APA un insieme di riferimenti già verificati, lo stesso strumento si è dimostrato accurato e ha fatto risparmiare molto tempo. Il rischio sta nell'approvvigionamento dei riferimenti piuttosto che nel lavoro bibliografico, una linea che una [[rubrics|rubrica]] di compito può indicare.
 
 Le **[[misconceptions|concezioni errate]] strategiche** sono un parente più sottile dell'allucinazione manifesta. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] hanno indotto sette modelli open-weight a produrre una «[[socratic-method|trappola socratica]]» per 35 concetti fondamentali dell'informatica — una spiegazione fluida e autorevole che poggia su un errore sottile e specifico del dominio — e tre esperti di dominio hanno confermato 221 dei 241 segmenti sollecitati (91,7%) come concezioni errate strategiche, senza differenze significative tra i domini dell'informatica. Gli errori erano prevalentemente concettuali anziché fattuali (66,5% contro 33,5%) e nessuno era puramente logico, ed erano stati valutati da moderatamente ad altamente persuasivi (M = 3,71 su una scala a cinque punti), con l'identità del modello a spiegare il 43% della varianza. Poiché le singole affermazioni possono essere corrette mentre la relazione tra esse è sbagliata, la verifica fattuale è insufficiente; gli autori sostengono che [[ai-literacy|chi apprende]] ha bisogno di verifica concettuale e validazione del modello mentale. Essi avvertono inoltre che il tasso misura la capacità sotto [[prompt-engineering|prompting]] avversariale anziché la prevalenza di tali errori nell'uso ordinario, e che nessuno studente è stato testato, quindi non è stato misurato alcun inganno o esito di apprendimento.
 
@@ -65,6 +73,8 @@ Le difese contro tali manipolazioni comportano il proprio compromesso: una pipel
 **L'inaffidabilità dichiarata ha abbassato la dipendenza riportata anziché alzarla.** Quando 546 partecipanti hanno letto lo stesso dialogo con IA generativa etichettato o come contenente informazioni fabbricate o come verificato accurato, l'etichetta «fabbricato» ha prodotto minore [[trust|fiducia]] e controllabilità percepita e maggiore dissonanza cognitiva e frustrazione insieme a punteggi di dipendenza *più bassi* (M = 2,935 contro 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Il risultato qualifica la logica della dipendenza eccessiva di questa pagina: vedere che un output può essere fabbricato non equivale a continuare ad appoggiarvisi.
 
 **I segnali di credibilità possono invece amplificare la deferenza.** Il movimento opposto compare quando un output inaffidabile viene agghindato: aggiungere citazioni e segnali di credibilità all'interfaccia di dibattito ARMADA ha alzato del 112% la frazione di partecipanti che abbandonavano un giudizio iniziale corretto per una posizione errata dell'IA (31,8% contro 15,0%), e il controllo manuale ha rilevato alcuni casi citati attribuiti male a riferimenti irrilevanti o fittizi ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+Una modalità di fallimento distinta è il problema posto male. In [[bauyrzhan-genai-inorganic-chemistry-verification-2026|un benchmark esplorativo di tre chatbot su 42 problemi di chimica inorganica]], ogni chatbot ha risposto con sicurezza a enunciati difettosi, senza segnalare il difetto, chiedere chiarimenti o rifiutarsi, e gli indicatori di incertezza non hanno mai raggiunto la conclusione. Il fallimento non è una risposta sbagliata ma una premessa falsa accettata in silenzio.
 
 ## Idee sbagliate comuni
 

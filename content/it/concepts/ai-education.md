@@ -1,7 +1,7 @@
 ---
 title: "IA in educazione"
 created: "2026-10-14T21:57:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-22T11:55:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -132,7 +136,7 @@ Ciò che non cambia è che un umano detiene il giudizio. Gli studenti di un semi
 
 L'IA trasforma sia come valutiamo i discenti sia come valutiamo i sistemi di IA stessi:
 
-- **Valutazione e feedback:** [[assessment|valutazione]], [[formative-assessment|valutazione formativa]], [[summative-assessment|valutazione sommativa]], [[authentic-assessment|valutazione autentica]], [[eportfolio|e-portfolio]], [[feedback|feedback]] e [[feedback-literacy|alfabetizzazione al feedback]], [[ai-feedback-quality|qualità del feedback con IA]], [[peer-assessment|valutazione tra pari]], [[oral-assessment|valutazione orale]], [[automated-assessment|valutazione automatizzata]], [[automated-essay-scoring|correzione automatizzata dei saggi]] e [[automated-question-generation|generazione automatizzata di domande]]. Poiché un modello può ora produrre su richiesta lavori finiti plausibili, la knowledge base mette in primo piano la capacità che resta propria del discente: il [[evaluative-judgment|giudizio valutativo]], la capacità di apprezzare la qualità del proprio lavoro, del lavoro dei pari e dell'output dell'IA rispetto a criteri ragionati. È il costrutto su cui convergono diversi studi sul feedback e sulla valutazione autentica — la condizione di feedback ibrido che supera il feedback diretto dell'IA in un esperimento multi-sito, il divario di sostenibilità nel feedback formativo dell'IA, e la mossa pratica di valutare le decisioni che gli studenti prendono anziché solo l'artefatto — ed è una ragione centrale per cui la riprogettazione nell'era dell'IA si sposta dal [[ai-detection|rilevamento]] verso compiti la cui integrità sopravvive all'ispezione. Anche il [[group-work|lavoro di gruppo]] è valutato lungo sia il processo sia il prodotto, laddove i team devono negoziare quale e che tipo di coinvolgimento dell'IA conti come accettabile.
+- **Valutazione e feedback:** [[assessment|valutazione]], [[formative-assessment|valutazione formativa]], [[summative-assessment|valutazione sommativa]], [[authentic-assessment|valutazione autentica]], [[eportfolio|e-portfolio]], [[feedback|feedback]] e [[feedback-literacy|alfabetizzazione al feedback]], [[ai-feedback-quality|qualità del feedback con IA]], [[peer-assessment|valutazione tra pari]], [[oral-assessment|valutazione orale]], [[automated-assessment|valutazione automatizzata]], [[automated-essay-scoring|correzione automatizzata dei saggi]] e [[automated-question-generation|generazione automatizzata di domande]], e le [[rubrics|rubriche]]. Le rubriche sono lo strumento che porta i criteri: le dimensioni dichiarate e i descrittori di livello che rendono riproducibile una lettura di un lavoro, e la specifica che un modello legge quando corregge. Poiché un modello può ora produrre su richiesta lavori finiti plausibili, la knowledge base mette in primo piano la capacità che resta propria del discente: il [[evaluative-judgment|giudizio valutativo]], la capacità di apprezzare la qualità del proprio lavoro, del lavoro dei pari e dell'output dell'IA rispetto a criteri ragionati. È il costrutto su cui convergono diversi studi sul feedback e sulla valutazione autentica — la condizione di feedback ibrido che supera il feedback diretto dell'IA in un esperimento multi-sito, il divario di sostenibilità nel feedback formativo dell'IA, e la mossa pratica di valutare le decisioni che gli studenti prendono anziché solo l'artefatto — ed è una ragione centrale per cui la riprogettazione nell'era dell'IA si sposta dal [[ai-detection|rilevamento]] verso compiti la cui integrità sopravvive all'ispezione. Anche il [[group-work|lavoro di gruppo]] è valutato lungo sia il processo sia il prodotto, laddove i team devono negoziare quale e che tipo di coinvolgimento dell'IA conti come accettabile.
 - **Misurazione e validità:** [[assessment-validity|validità della valutazione]], [[psychometrically-aware-ai|IA psicometricamente consapevole]], [[educational-measurement|misurazione educativa]], [[item-response-theory|teoria della risposta all'item]], [[self-report-measures|misure di autovalutazione]] (lo strumento dietro a una quota rilevante di queste evidenze, e una limitazione ricorrente), [[ai-detection|rilevamento dell'IA]], [[remote-proctoring|sorveglianza d'esame a distanza]] e [[academic-integrity|integrità accademica]].
 
 ## Metodi di ricerca e valutazione

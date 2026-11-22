@@ -1,7 +1,7 @@
 ---
 title: Studi di primo ciclo
 created: "2026-11-22T11:00:00-05:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
 assessment: [formative-assessment, assessment, learning-gains]
@@ -9,10 +9,14 @@ technology: [generative-ai, conversational-ai, intelligent-tutoring, llm]
 level: [undergraduate, higher ed]
 confidence: medium
 translation_of: concepts/undergraduate-education
-source_updated: "2026-11-15T06:35:59-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
@@ -23,7 +27,7 @@ connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-u
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Sintesi:** l'istruzione universitaria di primo ciclo è dove l'IA incontra le classi più grandi e la [[assessment|valutazione]] più standardizzata: corsi propedeutici del primo e del secondo anno in cui un docente insegna a diverse centinaia di studenti contro una rubrica condivisa. I trial a questo livello si dividono per disegno piuttosto che per modello. Un tutor costruito a partire dalla pedagogia del corso ha battuto l'[[active-learning|apprendimento attivo]] in classe, mentre un assistente di corso ben ancorato distribuito senza integrazione didattica ha abbassato voti e partecipazione. L'evidenza più forte riguarda il [[feedback]] su scala, la [[help-seeking|ricerca di aiuto]] e lo [[scaffolding|sostenimento]], il materiale di studio verificato e l'outreach che sposta le scadenze amministrative; quella più debole riguarda le affermazioni per cui un assistente generale aumenta ciò che gli studenti sanno fare senza aiuto.
+> **Sintesi:** l'istruzione universitaria di primo ciclo è dove l'IA incontra le classi più grandi e la [[assessment|valutazione]] più standardizzata: corsi propedeutici del primo e del secondo anno in cui un docente insegna a diverse centinaia di studenti contro una [[rubrics|rubrica]] condivisa. I trial a questo livello si dividono per disegno piuttosto che per modello. Un tutor costruito a partire dalla pedagogia del corso ha battuto l'[[active-learning|apprendimento attivo]] in classe, mentre un assistente di corso ben ancorato distribuito senza integrazione didattica ha abbassato voti e partecipazione. L'evidenza più forte riguarda il [[feedback]] su scala, la [[help-seeking|ricerca di aiuto]] e lo [[scaffolding|sostenimento]], il materiale di studio verificato e l'outreach che sposta le scadenze amministrative; quella più debole riguarda le affermazioni per cui un assistente generale aumenta ciò che gli studenti sanno fare senza aiuto.
 
 ## Domande da considerare
 

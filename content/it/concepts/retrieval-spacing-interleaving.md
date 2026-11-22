@@ -1,7 +1,7 @@
 ---
 title: "Recupero, spaziatura e interleaving"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
 connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
@@ -51,7 +55,7 @@ Il recupero — tentare di richiamare il materiale anziché rileggerlo — raffo
 
 Il test più informativo nel corpus è una dissociazione. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] ha registrato le interazioni con l'[[llm]] prompt per prompt di 22 studenti postgraduate durante un compito di caso di neuroeconomia, separando la *profondità* (la proporzione di prompt che cercano spiegazioni del tipo "perché/come/spiega") dal volume e dal ritmo. La profondità prediceva la qualità del compito, valutata in modo indipendente (β = 6,27, p = ,006), ma aveva un'associazione nulla con il ricordo al post-test immediato (β = −0,014, p = ,728), con i guadagni di ricordo guidati invece dalla conoscenza di partenza. L'interpretazione che ne dà l'autore è che l'elaborazione guida la comprensione mentre il recupero guida la consolidazione — e che nello studio supportato dall'LLM, in assenza di richieste esplicite di recupero, chi apprende può sperimentare un'elevata fluidità senza alcuna necessità di richiamare nulla da solo. È un risultato sul recupero enunciato come un'assenza: il meccanismo non è stato attivato, quindi l'esito di ritenzione non si è mosso.
 
-Il recupero non è una leva universale, e il corpus lo dice. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] hanno condotto un esperimento 2×2 con 95 partecipanti incrociando il contenuto di conoscenza (fatti testuali vs. abilità generalizzabili, materiali di geometria sulle aree) con la schedulazione dell'addestramento. Hanno trovato un'interazione contenuto–trattamento (β = 0,41, p = ,038, d = 0,38): il puro test di pratica produceva guadagni di apprendimento maggiori per i **fatti**, mentre la pratica integrata con esempi produceva guadagni maggiori per le **abilità**. Gli autori osservano inoltre che i guadagni del recupero spesso non si estendono a problemi non familiari. Dunque il recupero è più forte quando l'obiettivo è la memoria di contenuti specifici, e va affiancato a esempi svolti quando l'obiettivo è un'abilità generalizzabile — ed è anche il motivo per cui la loro implicazione per la progettazione dell'IA è che l'[[intelligent-tutoring]] dovrebbe adattare il rapporto esempi–pratica al componente di conoscenza che si sta apprendendo.
+Il recupero non è una leva universale, e il corpus lo dice. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] hanno condotto un esperimento 2×2 con 95 partecipanti incrociando il contenuto di conoscenza (fatti testuali vs. abilità generalizzabili, materiali di geometria sulle aree) con la schedulazione dell'addestramento. Hanno trovato un'interazione contenuto–trattamento (β = 0,41, p = ,038, d = 0,38): il puro test di pratica produceva guadagni di apprendimento maggiori per i **fatti**, mentre la pratica integrata con [[rubrics|esempi]] produceva guadagni maggiori per le **abilità**. Gli autori osservano inoltre che i guadagni del recupero spesso non si estendono a problemi non familiari. Dunque il recupero è più forte quando l'obiettivo è la memoria di contenuti specifici, e va affiancato a esempi svolti quando l'obiettivo è un'abilità generalizzabile — ed è anche il motivo per cui la loro implicazione per la progettazione dell'IA è che l'[[intelligent-tutoring]] dovrebbe adattare il rapporto esempi–pratica al componente di conoscenza che si sta apprendendo.
 
 La stessa logica attraversa lo studio sul biglietto d'aiuto: [[student-cheat-sheets-make-or-take|Chen, Sakhnini e Istead]] trattano la *costruzione* di un biglietto d'aiuto come una strategia di studio attiva e generativa (selezione, condensazione, organizzazione) anziché come una questione logistica, e inquadrano il rischio dell'era dell'IA come la delega a un sistema della costruzione dell'artefatto e la perdita della ripetizione metacognitiva che costruirlo forniva.
 
@@ -97,6 +101,8 @@ L'inclusione dell'interleaving qui poggia quindi sulla stessa famiglia teorica d
 - **Limiti di strumentazione e modellazione.** I modelli di [[knowledge-tracing]] nel corpus falliscono esattamente dove le decisioni di spaziatura ne hanno bisogno, e gli autori attribuiscono i successi passati all'adattamento retrospettivo sul dataset completo anziché a una validazione realistica per il dispiegamento. La qualità delle flashcard del compagno bilingue non è verificata rispetto alla ground truth, senza alcuno strato automatizzato di fact-checking, e non ha condotto alcuno studio di esiti.
 - **L'interleaving non ha essenzialmente alcuna evidenza diretta qui.** Come detto sopra, il corpus non contiene alcun confronto blocking contro interleaved, soltanto una simulazione in cui Interleaving è una strategia selezionabile tra diverse altre.
 - **Popolazioni oggetto e contenuti.** La base di evidenza si concentra sull'[[higher-ed|istruzione superiore]], su materiale STEM e di statistica, e sulle distinzioni fatto–abilità tratte da geometria e regressione multipla; la generalizzazione alle scuole [[k-12|K-12]], alle [[humanities-education|discipline umanistiche]] e alla scrittura, e alle classi non occidentali non è stabilita da questi studi.
+
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya e Wenzel (2026)]] hanno messo l'IA generativa al centro dell'effetto del test: due pre-domande generate da ChatGPT alle quali rispondere prima di leggere un testo di 675 parole. In quattro esperimenti con 90, 128, 153 e 157 adulti, il prequestionamento batteva la sola lettura (d = 1,12 sulle domande praticate, d = 0,78 su quelle non praticate) e pareggiava le domande generate da umani. Gli studenti quasi mai rispondevano correttamente — accuratezza dello 0,056 nell'esperimento 1 — eppure imparavano di più, il che è la firma dell'effetto del pretest. Il trasferimento decadeva con la distanza: le domande testate battevano le domande non testate della stessa fonte (d = 0,46), le quali battevano le domande non testate di fonte diversa (d = 0,32). La generazione delle domande era diventata economica; il recupero restava obbligatorio.
 
 ## Idee sbagliate comuni
 

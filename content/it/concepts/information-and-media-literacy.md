@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -49,6 +53,8 @@ L'oggetto dell'alfabetizzazione informativa è la fonte, e la sua domanda centra
 
 Le letterature empiriche riflettono la scissione. Un'indagine su 236 studenti universitari statunitensi ha chiesto dove iniziano le ricerche accademiche e ha trovato i motori di ricerca al 45,5%, la homepage della biblioteca al 27,9% e un chatbot IA al 26,6%, con gli studenti internazionali che sostituiscono le risorse bibliotecarie con l'IA a un tasso circa doppio rispetto ai colleghi nazionali ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Una [[meta-analysis-systematic-review|revisione sistematica]] di 32 studi ha rilevato che l'integrazione dell'[[ai-literacy|alfabetizzazione all'IA]] nell'insegnamento dell'alfabetizzazione informativa è a uno "stadio infantile", erogata tramite LibGuides e laboratori anziché attraverso il curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). Sul versante mediatico, interviste a sette esperti e un'indagine su 141 studenti hanno rilevato che l'inclusione della tecnologia nel curriculum di alfabetizzazione mediatica critica è "limitata e spesso superficiale", con insegnanti poco formati su strumenti che producono disinformazione e deepfake ([[critical-media-literacy-education-2026|the critical media literacy study, 2026]]).
 
+La valutazione internazionale sta per fondere i due costrutti. PISA 2029 introduce una valutazione di Media and AI Literacy (MAIL) per i quindicenni, e la revisione 2026 di iRAISE costruisce la propria definizione sulla stessa integrazione — l'alfabetizzazione all'IA come strato più recente dell'alfabetizzazione digitale, a sua volta appoggiata su decenni di alfabetizzazione mediatica e informativa ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). L'integrazione comporta un costo di implementazione che l'argomento della divergenza prevede. La mappatura UNESCO 2025 ha rilevato che 171 dei 194 Stati membri menzionano l'alfabetizzazione mediatica e informativa nei quadri nazionali, ma solo 84 (43%) includono negli curricula elementi oltre le competenze digitali tecniche — così il costrutto che la valutazione misurerà è quello che le scuole insegnano meno.
+
 ## Come l'IA complica l'alfabetizzazione informativa
 
 La prima complicazione è la fabbricazione su larga scala. Un modello produce testi convincenti, riferimenti plausibili e statistiche sicure che possono non esistere; il lettore riceve una sintesi la cui traccia di ricerca è stata cancellata. Il controllo diventa un'abilità diversa: non "questa è una buona fonte" ma "questa fonte esiste, e dice ciò che la risposta sostiene".
@@ -60,6 +66,8 @@ La terza è la capacità. In un'indagine su 412 bibliotecari accademici di 38 is
 ## Come l'IA complica l'alfabetizzazione mediatica
 
 Le domande fondative dell'alfabetizzazione mediatica presupponevano un creatore con uno scopo. I deepfake, il clonaggio vocale e i bot automatizzati infrangono quell'assunto in tre modi: l'artefatto può non avere un autore umano, il pubblico può essere sintetico, e l'intenzione può essere l'ottimizzazione per il coinvolgimento anziché la persuasione da parte di qualcuno.
+
+**L'argomentazione personalizzata è l'attuale modello di minaccia della persuasione.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] hanno randomizzato 900 adulti statunitensi in dibattiti online di dieci minuti contro un umano o GPT-4, con o senza sei campi demografici ordinari. Il GPT-4 non personalizzato era statisticamente indistinguibile da un avversario umano, mentre il GPT-4 personalizzato ha aumentato le probabilità di accordo dopo il dibattito dell'81,2% ed era più persuasivo nel 64,4% dei casi. I partecipanti hanno identificato un avversario IA in circa tre dibattiti su quattro eppure si sono spostati ulteriormente quando credevano che l'avversario fosse un'IA, quindi l'individuazione della fonte non ha funzionato come inoculazione. La manipolazione era invisibile nella prosa: le misure di stile differivano poco tra le condizioni, collocando il vantaggio in quali argomenti venissero scelti piuttosto che in come fossero scritti.
 
 Le prove curricolari suggeriscono che le scuole non hanno recuperato. Le interviste agli esperti descrivono la [[teacher-education|formazione degli insegnanti]] come il vincolo decisivo, non la resistenza degli studenti, e sostengono una cornice di [[critical-pedagogy]] che tratta la valutazione come pratica etica e partecipativa invece che come addestramento agli strumenti. Un rapporto commissionato per i media di servizio pubblico ha rilevato che l'offerta per i 14–19 anni pende verso competenze IA funzionali e si allontana dalla valutazione critica, pur avendo esaminato più di 40 quadri e intervistato 35 esperti ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
 
@@ -75,12 +83,25 @@ Letti insieme, i due lati del bilancio suggeriscono una regola: l'IA può portar
 
 ## Che cosa significa per la pratica
 
-- **Insegnare una procedura, due oggetti.** La routine verificabile — risalire dall'affermazione alla fonte, dalla fonte all'autore, chiedere che cosa sta facendo l'artefatto — funziona per una citazione e per un video. Nominare quale oggetto valuta il compito.
-- **Trattare il rilevamento come prova, non come verdetto.** L'output di un rilevatore è una probabilità; insegnare agli studenti a corroborarlo con un secondo metodo e a dire che cosa cambierebbe loro idea.
-- **Mantenere la produzione nel curriculum.** Creare media era la pedagogia che rendeva concreta la critica; generare con l'IA può sostenerla solo se gli studenti esaminano le scelte che lo strumento ha fatto per loro.
-- **Mettere un bibliotecario o uno specialista dei media dentro il flusso di lavoro.** Il risultato didattico più forte in questa letteratura viene da un progetto in cui la consulenza umana era incorporata, non offerta dopo.
-- **Valutare la capacità del personale prima di scrivere il programma.** Il deficit misurato sta nella progettazione degli obiettivi e nella valutazione degli esiti, non nell'uso degli strumenti.
+Gli insegnanti possono insegnare una procedura contro due oggetti. Risalire dall'affermazione alla fonte, dalla fonte all'autore, poi chiedere che cosa sta facendo l'artefatto. La routine funziona per una citazione e per un video, e il compito dovrebbe nominare quale oggetto valuta.
+
+Gli insegnanti possono trattare l'output di un rilevatore come una prova anziché come un verdetto. Si tratta di una probabilità, quindi gli studenti dovrebbero corroborarlo con un secondo metodo e dire che cosa cambierebbe loro idea.
+
+I progettisti curricolari possono mantenere la produzione nel corso. Creare media è ciò che ha reso concreta la critica negli studi qui esaminati, e generare con l'IA la sostiene solo se gli studenti esaminano le scelte che lo strumento ha fatto per loro.
+
+Valutare il costrutto come prestazione anziché come atteggiamento mette in vista il punto debole. In una prova di otto settimane di Code Craft con 28 studenti universitari thailandesi, l'alfabetizzazione digitale è salita da 1,51 a 2,82 su una [[rubrics|rubrica]] a tre punti, ma gestire l'informazione era in media 1,92 e creare informazione 2,05 contro 2,36 per comunicare e lavorare con gli altri ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij e Khlaisang, 2026]]). I punteggi più bassi sedevano sul lato produttivo del costrutto, dove un corso che si ferma a ricerca e valutazione non arriva mai.
+
+I responsabili di programma possono mettere un bibliotecario o uno specialista dei media dentro il flusso di lavoro. Il risultato didattico più forte di questa letteratura viene da un progetto in cui la consulenza umana era incorporata, non offerta dopo.
+
+Chi si occupa di sviluppo dei docenti può valutare la capacità del personale prima che un dipartimento scriva il proprio programma. Il deficit misurato sta nella progettazione degli obiettivi e nella valutazione degli esiti, non nell'uso degli strumenti.
 
 ## Limiti delle prove
 
 La maggior parte degli studi qui è piccola, autodichiarata o entrambe: 236 studenti in un'indagine, 36 bambini in un intervento, 412 bibliotecari che si autovalutano. La visibilità bibliometrica non è pratica, e gli autori scientometrici lo dicono esplicitamente. Nessuno studio nel corpus valuta un curriculum combinato di alfabetizzazione informativa e mediatica, e gli strumenti di rilevamento e fact-checking raccomandati dalla letteratura pratica sono in gran parte non misurati in queste fonti. L'affermazione che la verifica potenziata dall'IA migliori gli esiti va trattata come ipotesi di progetto finché qualcuno non la verifica contro un controllo.
+
+## Idee sbagliate comuni
+
+- **Un rilevatore risolve la questione.** Un rilevatore restituisce una probabilità; corroboratela con un secondo metodo anziché trattarla come una chiave di risposta.
+- **Le due alfabetizzazioni sono un'abilità unica sotto due nomi.** I loro oggetti differiscono — credibilità della fonte contro autorialità e intenzione — quindi una singola rubrica non valuta bene nessuna delle due.
+- **Individuare l'IA inocula contro di essa.** Nel più forte esperimento di persuasione qui esaminato, l'individuazione era alta e lo spostamento verso la posizione dell'IA è comunque cresciuto.
+- **La competenza del bibliotecario si trasferisce all'alfabetizzazione all'IA.** La carenza di personale si manifesta nella progettazione degli obiettivi (M = 2,70) e nella valutazione degli esiti (M = 2,62), non nell'uso degli strumenti.

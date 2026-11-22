@@ -1,7 +1,7 @@
 ---
 title: Valutazione autentica
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T11:15:12-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
 connected_articles: [ai-ethics-tensions-online-pedagogy-2026, assessing-student-drive-framework-2025, asynchronous-oral-assessment-2026, austin-bloom-taxonomy-generative-ai-2026, authentic-assessments-generative-ai-pilot-2026, authentic-products-authenticated-processes-2026, benali-genai-academic-writing-2026, beyond-detection-authentic-assessment-ai-2025, chen-zou-genai-group-assessment-agency-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, cong-confidence-asag-2026, dollinger-equitable-assessment-ai-2026, fenton-oral-exams-ai-authentic-assessment-2025, genai-simulate-patient-history-pbl-2026, hadra-ai-detector-accuracy-efl-2026, ivory-psychology-assessment-integrity-2026, llm-fallacy-misattribution, lodge-adaptive-capabilities-genai-future-2026, mesny-innovative-assessment-grading-management-2026, munoz-misconduct-allegation-evidence-2026, ni-lam-multiliteracies-ai-portfolio-2026, paternalistic-filter-llm-history-education, pbl-structural-conditions-ai-2026, pedlow-genai-selfassessment-2026, responsible-assessment-ai-era-stanford-2026, roe-assessment-twins-2026, sharma-judgment-visible-genai-assessment-2026, ssaho-ai-academic-integrity-review-2025, sutama-chatgpt-eportfolio-speaking-2026, teacher-educators-ai-integration-preservice-2026, thapa-lewis-process-oriented-assessment-2026, tool-invariant-framework-agentic-ai, universities-ai-era-rethinking, villanueva-ai-vulnerability-assessment-audit-2026, wright-transcription-not-generation-2026, ying-genai-journalism-assessment-2026, zhan-boud-du-authentic-assessment-scoping-review-2025]
@@ -36,7 +40,7 @@ connected_articles: [ai-ethics-tensions-online-pedagogy-2026, assessing-student-
 - La valutazione autentica esamina la prestazione su compiti intellettuali meritevoli e realistici anziché item di test isolati. Prima di leggere, davate per scontato che un compito "autentico" semplicemente replichi uno scenario reale o lavorativo? Questa pagina sostiene che l'autenticità si è evoluta ben oltre la mera replicazione — quali altre forme può assumere?
 - Un'affermazione centrale è che qualunque compito un modello linguistico possa simulare in modo credibile in un contesto take-home perde la sua validità come evidenza della competenza originale dello studente. Quale valutazione nel vostro insegnamento o studio considerereste ora "contraffabile" — e su cosa vi basate per dirlo?
 - La pagina evidenzia un divario sorprendente: solo 3 studi su 37 affrontavano l'autenticità sociale — se la valutazione aiuti gli studenti a contribuire al cambiamento della società. Perché pensate che la dimensione sociale dell'autenticità sia così trascurata, e come potrebbe concretamente assomigliare una sua valutazione?
-- La base di conoscenza sostiene che l'autenticità debba essere "riprogettata, non vigilata". Quando gli studenti co-creano le rubriche, scelgono cosa e come consegnare e si impegnano in un'interazione in tempo reale, l'uso dell'IA diventa atteso e dichiarato anziché nascosto. Come cambierebbe questo il rapporto tra studente e valutatore?
+- La base di conoscenza sostiene che l'autenticità debba essere "riprogettata, non vigilata". Quando gli studenti co-creano le [[rubrics|rubriche]], scelgono cosa e come consegnare e si impegnano in un'interazione in tempo reale, l'uso dell'IA diventa atteso e dichiarato anziché nascosto. Come cambierebbe questo il rapporto tra studente e valutatore?
 - Gli esami orali e i portfolio basati sul processo sono offerti come forme autentiche resistenti all'IA. Ma la riflessione valutata e l'[[self-assessment|autovalutazione]] rischiano di diventare performative — gli studenti mettono in scena la riflessione che credono sia richiesta. Come potreste progettare per una riflessione genuina anziché performativa?
 - Quando l'IA fornisce la rubrica, il feedback e il monitoraggio, la pagina avverte che la pratica metacognitiva dello studente può essere spiazzata. Se lo strumento fa la valutazione, cosa resta al discente da praticare o apprendere davvero?
 
@@ -63,6 +67,7 @@ La letteratura della base di conoscenza sulla riprogettazione della valutazione 
 
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] sostiene che l'autenticità non può essere imposta con la vigilanza; deve essere progettata, posizionando l'IA come collaboratore dichiarato anziché come applicazione di imbroglio, e dando priorità alla valutazione autentica e [[process-oriented-assessment|basata sul processo]] rispetto alla sorveglianza.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reinquadra la valutazione attorno all'evidenza di validità e a compiti autentici che rispecchiano il lavoro futuro degli studenti.
+- **La governance arriva agli studenti attraverso il design della valutazione.** La qualità percepita della [[governance|governance dell'IA]] prediceva la valutazione autentica percepita ben oltre la consapevolezza delle politiche (β = 0,36 contro 0,12), e la valutazione autentica portava interamente il percorso verso il [[student-engagement|coinvolgimento]] su 644 studenti di università cinesi ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] esamina come la [[higher-ed|formazione superiore]] ricca di IA possa valutare sia gli output genuini sia i processi che li hanno prodotti.
 
 - **Un partner di stesura IA lascia comunque il giudizio allo studente.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] hanno testato un progettista di valutazioni GPT-4.1 con otto coordinatori: produceva panoramiche, compiti, criteri, tempistiche e rubriche utilizzabili ma perdeva ripetutamente il contesto disciplinare e la sequenza degli argomenti, e tutti e otto rifiutarono l'automazione end-to-end, situando il [[evaluative-judgment|giudizio accademico]] nel docente anziché nel modello.
@@ -79,6 +84,8 @@ La letteratura della base di conoscenza sulla riprogettazione della valutazione 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] sostiene che la progettazione orientata all'integrità e la progettazione autentica non sono la stessa cosa, e che la differenza è epistemica anziché stilistica. L'autenticità chiede se un compito rispecchi una pratica reale meritevole; la progettazione orientata all'integrità chiede se i discenti sappiano giustificare le proprie decisioni e assumersi responsabilità in relazione agli standard disciplinari, il che rende l'integrità un criterio esplicito e valutabile incorporato nell'architettura del compito anziché un sottoprodotto incidentale del realismo. Le pratiche che offre — tracce di decisione annotate, verifica delle affermazioni contribuite dalla GenAI, difesa orale e responsabilità dialogica, differenze tra bozze con cronologia delle versioni — sono riconoscibilmente forme di valutazione autentica. Sono selezionate, tuttavia, per il [[evaluative-judgment|giudizio]] che rendono visibile anziché per il loro realismo — un utile correttivo per i compiti che appaiono autentici e restano contraffabili nella sostanza. La sua cautela appartiene anche a questa pagina: richiedere un ragionamento documentato privilegia i discenti più sciolti nel [[reflection|discorso riflessivo]], e il giudizio come evidenza "resta relazionale e situato anziché meccanicamente verificabile", quindi la progettazione porta con sé il proprio carico di affidabilità interpretativa.
 
 La stessa domanda è reinquadrata da [[thapa-lewis-process-oriented-assessment-2026|Thapa e Lewis (2026)]], che nominano ciò che un compito dovrebbe *autenticare* anziché se appaia reale: l'autenticità epistemica, la misura in cui la valutazione cattura un impegno genuino con l'interpretazione, il giudizio valutativo, il ragionamento e la costruzione di conoscenza. Il loro argomento è che l'autenticità da sola non sopravvive all'IA generativa, perché un compito autentico la cui evidenza è un singolo prodotto non sorvegliato è esposto allo stesso problema di sostituzione del saggio che ha sostituito. Rendere visibile il ragionamento richiede invece consegne scaglionate, giustificazione riflessiva, impegno dialogico e trasparenza valutativa. Portano la cautela di cui sopra nella progettazione: i compiti riflessivi e dialogici possono privilegiare gli studenti sicuri nell'autoarticolazione accademica a meno che non siano progettati in modo inclusivo e supportati da scaffolding, e il lavoro relazionale intensifica il lavoro emotivo degli educatori in contesti numerosi o con risorse limitate.
+
+- **La ricorsione contro la sequenza.** Austin, Gulya e Kassorla (2026) sostengono che l'IA generativa spezza il presupposto alla base della valutazione ordinata per tassonomia — che un prodotto finito evidenzi il pensiero che lo ha prodotto — e propongono di lavorare a ritroso da un artefatto assistito dall'IA attraverso valutazione, analisi e revisione, o di sostituire la scala con un ciclo ricorsivo centrato sul problema. L'evidenza valutabile si sposta dal prodotto all'interrogazione, all'adattamento e alla direzione etica che il discente vi applica ([[austin-bloom-taxonomy-generative-ai-2026|Austin et al., 2026]]).
 
 ## Quando i praticanti ripiegano sui formati vigilati
 

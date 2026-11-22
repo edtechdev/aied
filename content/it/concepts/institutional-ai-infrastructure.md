@@ -1,7 +1,7 @@
 ---
 title: Infrastruttura istituzionale per l'IA
 created: "2026-11-22T11:00:00-05:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -17,7 +17,7 @@ ai_assist:
     date: "2026-11-22"
     agent: hermes-agent
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai, critiques-of-ai-in-education]
 connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026, watson-generative-ai-meaning-mediating-infrastructure-2026]
@@ -116,7 +116,7 @@ Le piattaforme ospitate a scala di distretto riportano la stessa aritmetica: PSD
 
 Un gateway può instradare verso un modello locale che gestisce male la lingua dell'istituzione, e il silenzio risultante non è neutro. L'argomento dell'infrastruttura e quello della [[digital-divide|frattura digitale]] si incontrano qui: le istituzioni con cluster e personale acquisiscono capacità, e quelle senza assorbono ciò che il fornitore offre al prezzo che il fornitore fissa. I piani gratuiti sono genuinamente utili e genuinamente fragili, il che rende trattarli come strategia permanente una decisione su quali istituzioni vengono servite.
 
-**L'infrastruttura media anche il significato.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner e Brezovec (2026)]] trattano l'IA generativa come infrastruttura mediatrice del significato che reraforma prompt, rubric, feedback e generi in forme comunicativamente plausibili, quindi approvvigionamento e audit devono chiedere quali stili comunicativi un sistema riconosce, quali aiuti normalizza e se le aspettative su ritmo e lucentezza derivano più in fretta del sostegno.
+**L'infrastruttura media anche il significato.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner e Brezovec (2026)]] trattano l'IA generativa come infrastruttura mediatrice del significato che reraforma prompt, [[rubrics|rubric]], feedback e generi in forme comunicativamente plausibili, quindi approvvigionamento e audit devono chiedere quali stili comunicativi un sistema riconosce, quali aiuti normalizza e se le aspettative su ritmo e lucentezza derivano più in fretta del sostegno.
 
 ## Implicazioni per la pratica
 

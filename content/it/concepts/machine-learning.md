@@ -5,8 +5,8 @@ technology: [ai-technologies, generative-ai, learning-analytics, machine-learnin
 confidence: medium
 created: "2026-10-14T22:05:00-04:00"
 translation_of: concepts/machine-learning
-updated: "2026-11-08T14:09:36-05:00"
-source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:30:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
 connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
@@ -47,7 +51,7 @@ L'apprendimento automatico è ciò che trasforma le tracce educative in intellig
 
 Sul versante del [[knowledge-tracing]], [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] mostrano che un modello ricorrente può essere calibrato sulla struttura propria di un [[curriculum-design|curriculum]]: il loro modello OKT tratta gli esiti dei corsi di Outcome-Based Education come concetti di conoscenza, accoppia mappature di affinità OBE validate da esperti (relazioni tra esiti di corso e di programma) con una Memory Augmented Neural Network per l'impatto trasversale tra esiti, e abbina una backbone GRU a embedding BERT domain-adattivi — raggiungendo l'89,81% di AUC e superando DKT, DKVMN, EKT e SimpleKT su dati reali di programmi di ingegneria.
 
-**Diagnosi da risposte numeriche tabellari.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] mostrano alberi con gradient boosting che risolvono il versante della *diagnosi* del tutoring in un dominio a lungo precluso all'IA: per le Engineering Economics Calculated Formula Questions, dove le soluzioni scritte a mano dagli studenti mancano di dati digitali strutturati, addestrano una backbone [[intelligent-tutoring|XGBoost]] multi-label dedicata per ciascuna domanda per mappare le risposte numeriche intermedie e finali presentate alle etichette di errore della rubrica del docente (precisione media 0,81, recall 0,79, accuratezza 0,65). L'aumento dei dati tramite mascheramento casuale — mascherando le feature di input a "NaN" con probabilità variabili — preserva le dipendenze logiche delle soluzioni tabellari meglio dei metodi di interpolazione come SMOTE e migliora significativamente la diagnosi, e includere le risposte intermedie aiuta di più. È evidenza che modelli basati su alberi più augmentation strutturata possono far partire il feedback di tutoring dove i metodi generativi mancano di dati di addestramento.
+**Diagnosi da risposte numeriche tabellari.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] mostrano alberi con gradient boosting che risolvono il versante della *diagnosi* del tutoring in un dominio a lungo precluso all'IA: per le Engineering Economics Calculated Formula Questions, dove le soluzioni scritte a mano dagli studenti mancano di dati digitali strutturati, addestrano una backbone [[intelligent-tutoring|XGBoost]] multi-label dedicata per ciascuna domanda per mappare le risposte numeriche intermedie e finali presentate alle etichette di errore della [[rubrics|rubrica]] del docente (precisione media 0,81, recall 0,79, accuratezza 0,65). L'aumento dei dati tramite mascheramento casuale — mascherando le feature di input a "NaN" con probabilità variabili — preserva le dipendenze logiche delle soluzioni tabellari meglio dei metodi di interpolazione come SMOTE e migliora significativamente la diagnosi, e includere le risposte intermedie aiuta di più. È evidenza che modelli basati su alberi più augmentation strutturata possono far partire il feedback di tutoring dove i metodi generativi mancano di dati di addestramento.
 
 Una visione a livello di campo del sottoinsieme [[reinforcement-learning|RL]] è fornita dalla [[riedmann-reinforcement-learning-education-review-2026|revisione sistematica di Riedmann, Schaper & Lugrin (2025)]] di 89 studi di RL nell'educazione: conferma che l'RL è una importante linea di discendenza dell'ML per indurre politiche adattive di tutoring e scaffolding, ma rileva che i metodi classici (Q-learning) sono più coerentemente efficaci del Deep RL (61% contro 36% di superiorità significativa) e segnala che oltre metà degli studi non conduce alcun test statistico — una cautela [[research-methods-aied|metodologica]] che fa eco alle preoccupazioni di validazione esposte sotto.
 

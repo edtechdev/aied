@@ -1,7 +1,7 @@
 ---
 title: Apprendimento multilingue
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_resources: [mglearn]
 type: concept
 technology: [llm]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
 connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
@@ -57,11 +61,15 @@ L'AI multilingue deve andare oltre la traduzione per riflettere una [[culturally
 
 Il translanguaging è una possibilità che i [[conversational-ai|chatbot]] generativi aggiungono e che gli strumenti linguistici precedenti non offrivano. In una [[meta-analysis-systematic-review|revisione sistematica]] di 24 studi, gli apprendenti chiedevano frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo — un uso che i revisori classificano come una nuova sotto-possibilità anziché come una versione riconfezionata di una esistente ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
 
+Il costo linguistico dell'onboarding agli strumenti è misurabile: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] hanno rilevato che gli apprendenti di inglese impiegavano significativamente più tempo rispetto ai madrelingua in un tutorial supportato sulla costruzione di agenti, mentre il compito di progettazione aperto non mostrava differenze.
+
+L'inglese domina anche dove quattro lingue sono in uso quotidiano. Tra 42 studenti a Curaçao e Aruba, due terzi indicavano l'inglese come lingua preferita per l'IA, e solo le sessioni con GPT si spostavano verso il papiamento man mano che la conversazione diventava locale ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al., 2026]]).
+
 ## Bias nella valutazione
 
 Le preoccupazioni multilingui riguardano anche la [[automated-assessment|valutazione automatizzata]]: la [[ai-scoring-language-bias-physics|valutazione tramite AI può esibire un bias linguistico]] (ad es. nella [[physics-education|fisica]]), penalizzando chi non è madrelingua. Garantire che gli strumenti di valutazione siano equi tra le lingue fa parte della [[assessment-validity|validità della valutazione]].
 
-Il giudizio comparativo basato su LLM è un caso in cui il bias seguiva la linea di base umana anziché il modello: i punteggi per la scrittura informativa delle classi 3–6 convergevano con le rubriche dei ricercatori (r = 0,59–0,73) e mostravano pattern di bias predittivo per gli apprendenti multilingui simili a quelli della valutazione umana, senza evidenza che una maggiore capacità o un costo maggiore del modello migliorassero la validità ([[llm-comparative-judgment-writing-screening-2026|Mercer e Reed (2026)]]).
+Il giudizio comparativo basato su LLM è un caso in cui il bias seguiva la linea di base umana anziché il modello: i punteggi per la scrittura informativa delle classi 3–6 convergevano con le [[rubrics|rubriche]] dei ricercatori (r = 0,59–0,73) e mostravano pattern di bias predittivo per gli apprendenti multilingui simili a quelli della valutazione umana, senza evidenza che una maggiore capacità o un costo maggiore del modello migliorassero la validità ([[llm-comparative-judgment-writing-screening-2026|Mercer e Reed (2026)]]).
 
 ## Implicazioni per i docenti in contesti multilingui
 
@@ -70,6 +78,8 @@ Il giudizio comparativo basato su LLM è un caso in cui il bias seguiva la linea
 - **Riflettere cultura e contesto, non solo traduzione.** L'AI multilingue deve andare oltre la traduzione verso una [[culturally-relevant-pedagogy|pedagogia culturalmente rilevante]] — generare contenuti appropriati linguisticamente e contestualmente ([[llm-cultural-relevance-k12|rilevanza culturale nella K-12]]).
 - **Abbinare l'AI a strutture di supporto multilingui.** Usare modalità vocali e orali ([[kutti-ai-voice-first-learning-companion|compagni vocali]]) dove l'AI basata sul testo fallisce, e supportare l'[[self-regulated-learning|autoregolazione]] in contesti bilingui ([[bilingual-llm-lecture-companion-srl-2026|compagno di lezione bilingue]]).
 - **Osservare il divario digitale.** Il bias monolingue nell'AI approfondisce il [[digital-divide|divario digitale]] e mina l'accesso nel [[global-south|Sud del mondo]] — pianificare infrastrutture e accesso equi insieme alla scelta degli strumenti.
+
+- **Il lavoro adattivo ricade sul docente.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding e Liu (2026)]] hanno rilevato che i docenti universitari di lingue diverse dall'inglese adattano i prompt, correggono la lingua del modello, ricontestualizzano culturalmente i contenuti e cambiano strumenti per abitudine. Il lavoro è imposto dalla gerarchia linguistica piuttosto che da una debole competenza digitale, ed è invisibile nelle statistiche di adozione che contano solo se lo strumento è stato usato.
 
 ## Idee sbagliate comuni
 

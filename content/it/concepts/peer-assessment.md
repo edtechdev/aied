@@ -1,7 +1,7 @@
 ---
 title: Valutazione tra pari
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
 connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
@@ -56,7 +60,7 @@ Il meccanismo ricorre in tutta la letteratura. In una revisione sistematica [[me
 
 ## Addestramento, calibrazione e alfabetizzazione al feedback
 
-La valutazione tra pari fallisce in modo prevedibile quando gli studenti non sono formati. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen e Yan (2026)]] hanno condotto un quasi-esperimento [[mixed-methods-research|metodi misti]] con 118 [[higher-ed|studenti universitari]] del primo anno in Cina, confrontando ChatGPT-4o sotto criteri pre-addestrati con schede di revisione tra pari strutturate corredate da un esempio di alta qualità. L'alfabetizzazione al feedback è cresciuta leggermente di più nel gruppo GenAI (ANCOVA p = 0,049, η²p = 0,03), ma i risultati [[qualitative-research|qualitativi]] contano di più: gli studenti dei gruppi tra pari sceglievano le fonti di feedback per comodità sociale — pari vicini, pari della stessa disciplina, coinquilini — raramente si ponevano obiettivi di feedback specifici e dovevano affrontare ansia sociale nel cercare feedback. La valutazione tra pari era più spesso distorta dal pregiudizio dovuto all'amicizia e dalla competenza percepita dei pari, e la riflessione tra pari era spesso rimandata agli esami successivi. Gli autori raccomandano progettazioni multifase con feedback tra pari anonimo, poiché la revisione tra pari costruisce comunque in modo unico la consapevolezza del pubblico e il giudizio valutativo attraverso il dare feedback.
+La valutazione tra pari fallisce in modo prevedibile quando gli studenti non sono formati. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen e Yan (2026)]] hanno condotto un quasi-esperimento [[mixed-methods-research|metodi misti]] con 118 [[higher-ed|studenti universitari]] del primo anno in Cina, confrontando ChatGPT-4o sotto criteri pre-addestrati con schede di revisione tra pari strutturate corredate da un [[rubrics|esempio]] di alta qualità. L'alfabetizzazione al feedback è cresciuta leggermente di più nel gruppo GenAI (ANCOVA p = 0,049, η²p = 0,03), ma i risultati [[qualitative-research|qualitativi]] contano di più: gli studenti dei gruppi tra pari sceglievano le fonti di feedback per comodità sociale — pari vicini, pari della stessa disciplina, coinquilini — raramente si ponevano obiettivi di feedback specifici e dovevano affrontare ansia sociale nel cercare feedback. La valutazione tra pari era più spesso distorta dal pregiudizio dovuto all'amicizia e dalla competenza percepita dei pari, e la riflessione tra pari era spesso rimandata agli esami successivi. Gli autori raccomandano progettazioni multifase con feedback tra pari anonimo, poiché la revisione tra pari costruisce comunque in modo unico la consapevolezza del pubblico e il giudizio valutativo attraverso il dare feedback.
 
 I framework di progettazione puntano a questi colli di bottiglia. [[irwin-muller-efl-peer-feedback-literacy|Irwin e Muller (2026)]] propongono due ruoli della GenAI nel feedback tra pari EFL/ESL sullo speaking, un caso che ritengono più difficile della scrittura a causa della pressione temporale, della prestazione orale effimera e del coinvolgimento affettivo accentuato: un Trainer che supporta chi fornisce feedback attraverso la calibrazione basata su esempi e il feedback sul feedback, e un Synthesizer che aggrega i commenti tra pari in un rapporto di ricezione collegato ai criteri, normalizzando i formati, preservando le opinioni di minoranza e segnalando le contraddizioni. I loro principi sono un'attenta temporizzazione e sequenziazione, brevi unità ripetute del Trainer, preservare la voce di chi fornisce il feedback, e [[guardrails]] che mantengono il [[teacher-role|docente]] nel circuito, senza [[automated-assessment|votazione automatizzata]]. L'articolo è concettuale, senza nuovi dati empirici.
 

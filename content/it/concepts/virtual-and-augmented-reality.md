@@ -1,7 +1,7 @@
 ---
 title: Realtà virtuale e aumentata
 created: "2026-10-14T22:25:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,7 +9,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [simulation, embodied-learning, multimodal, situated-learning, experiential-learning, game-based-learning, professional-training, generative-ai, prompt-engineering, agentic-ai, pedagogical-agent, rag, intelligent-tutoring, visualization, medical-education, accessibility, inclusive-learning, trust-calibration, cognitive-offloading, edtech-platform, arts-and-media-education, ai-avatars-and-synthetic-instructors]
 connected_articles: [genai-ar-physics-simulation-prompt-2026, mixed-reality-engineering-learning, medgame-llm-medical-education-gamification, tech-enhanced-tabletop-cybersecurity-education, genai-xr-architectural-design-education-2026, ai-ive-pbl-vocational-design-creativity-2026, luminote-llm-vr-stage-lighting-education-2026]
@@ -63,7 +67,7 @@ Le sue lacune definiscono la frontiera attuale dello schema. La valutazione era 
 
 Il tentativo più chiaro finora a quella misurazione mancante proviene da uno studio di design [[arts-and-media-education|professionale]] piuttosto che da un contesto clinico. In un corso di interior design di 12 settimane, un ambiente VR (visori più uno strumento di modellazione 3D) con un assistente supportato da LLM reso come un umano digitale è stato confrontato con l'istruzione [[project-based-learning|basata su progetti]] convenzionale, con l'assistente cui veniva assegnato un ruolo distinto per fase — raccomandazione di risorse e scomposizione dei compiti, interrogazione stratificata con mappe della conoscenza, effetti di design simulati e rilevamento dei difetti, poi registrazione del discorso per il docente ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Attraverso 63 risposte valide la condizione immersivo-più-agente ha prodotto abilità di design (η²p = ,138) e abilità creativa (η²p = ,111), coinvolgimento cognitivo (d = 0,90) e comportamentale (d = 0,75) [[student-engagement|engagement]], e motivazione (d = 0,74) e soddisfazione (d = 0,69) significativamente più alti, con [[cognitive-offloading|carico cognitivo]] riportato *più basso*, non più alto (d = −0,52), che gli autori attribuiscono all'assistente che riduce lo sforzo di ricerca e di integrazione interdisciplinare. Due limiti impediscono a questo di chiudere la questione: la novità ideativa e il coinvolgimento [[affective-computing|affettivo]] non si sono mossi, e ogni esito è [[self-report-measures|autovalutazione]], senza valutazioni degli artefatti né log del visore.
 
-Il contrasto con un impiego comparabile nella [[design-education|formazione al design]] è istruttivo. Uno studio di architettura che usava una pipeline [[generative-ai|GenAI]] più XR multiutente ha trovato *decrescente* fiducia nella [[self-efficacy|self-efficacy]] di design per i team che la usavano e nessun vantaggio nelle valutazioni di un panel in cieco. La differenza tra i due è meno l'hardware che l'orchestrazione: lo studio professionale fissò la struttura delle fasi, il ruolo dell'assistente in ciascuna fase e la rubrica di valutazione prima dell'intervento, e misurò l'abilità produttiva separatamente dalla novità ideativa.
+Il contrasto con un impiego comparabile nella [[design-education|formazione al design]] è istruttivo. Uno studio di architettura che usava una pipeline [[generative-ai|GenAI]] più XR multiutente ha trovato *decrescente* fiducia nella [[self-efficacy|self-efficacy]] di design per i team che la usavano e nessun vantaggio nelle valutazioni di un panel in cieco. La differenza tra i due è meno l'hardware che l'orchestrazione: lo studio professionale fissò la struttura delle fasi, il ruolo dell'assistente in ciascuna fase e la [[rubrics|rubrica]] di valutazione prima dell'intervento, e misurò l'abilità produttiva separatamente dalla novità ideativa.
 
 La versione rivolta al docente dello stesso schema è più giovane e più fragile. [[luminote-llm-vr-stage-lighting-education-2026|Liang et al. (2026)]] hanno fatto sì che un docente di illuminazione teatrale esprimesse a voce la propria intenzione in una scena VR con un puntatore laser come ancoraggio spaziale, e che un [[llm]] la trasformasse in annotazioni spaziali revisionabili dal docente, dimostrazioni di illuminazione eseguibili e spiegazioni del gergo su richiesta. Su 55 prompt e 531 azioni generate, l'assistenza è stata più forte su obiettivi espressivi e sotto-specificati (212 delle 245 azioni di effetto visivo applicate, 86,5%) e più debole sulle richieste a livello di apparecchio, dove 26 delle 28 azioni rifiutate risalivano a riferimenti direzionali come "left light" che il modello risolveva con l'apparecchio sbagliato — l'ancoraggio al sistema di riferimento spaziale della scena, non l'eseguibilità, era il vincolo stringente. I docenti usavano i suggerimenti come un [[human-in-the-loop-ai|processo di raffinamento controllabile]] piuttosto che come una risposta: 127 delle 147 azioni rifiutate o modificate (86,4%) erano seguite da un nuovo prompt, e solo una da una correzione manuale. Il risultato più cautelativo dello studio è rappresentazionale — le annotazioni che esternalizzavano il ragionamento esperto non si allineavano in modo affidabile con ciò che i novizi comprendevano, quindi l'istruzione immersiva con IA porta sia il problema di ancoraggio dei casi tutoriali sopra sia un secondo, che la competenza del docente e la comprensione dello studente non sono lo stesso bersaglio.
 
@@ -74,6 +78,8 @@ L'evidenza più forte per la VR/AR è comparativa e [[discipline-specific-aied|s
 La controevidenza è altrettanto informativa. Nella prima meta-analisi degli interventi basati sull'IA per gli [[inclusive-learning|studenti con disabilità]] — 29 studi, 239 dimensioni d'effetto, effetto complessivo medio g = 0,588 — i sistemi di VR intelligenti hanno prodotto g = 0,528, **non statisticamente significativo**, mentre il software per computer raggiungeva 0,959 e i robot 0,509. Il bias di pubblicazione era presente e il trim-and-fill riduceva la stima complessiva a g = 0,269. Lo schema non è che l'immersione fallisca, ma che i suoi effetti sono piccoli, eterogenei e sensibili a come il particolare intervento è stato progettato e confrontato.
 
 Il risultato negativo più netto nella base di conoscenza proviene da un impiego in studio anziché da un confronto di modalità: in uno studio di progettazione architettonica con 27 studenti, i team che usavano una pipeline GenAI più XR multiutente sono diminuiti più degli altri nella fiducia nella [[self-efficacy|self-efficacy]] di design (β = −1,675) e nell'aspettativa di esito (β = −2,088) rispetto ai team che seguivano il flusso di lavoro normale del corso, senza differenza significativa nelle valutazioni di un panel di esperti delle loro presentazioni ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Gli autori lo spiegano come complementarità dipendente dalla fase con attrito reale — GenAI per esternalizzare idee tentative, XR per la valutazione spaziale e di scala — accanto a problemi di controllo, fedeltà dimensionale, attenzione condivisa e comfort di movimento, monito che la strumentazione immersiva aggiunge costi di interazione oltre che capacità.
+
+**La letteratura è giovane e dispersa.** Una mappatura bibliometrica dell'educazione STEM in VR potenziata dall'IA ha trovato 241 pubblicazioni in Dimensions tra il 2005 e il 2025, ma l'84,6% di esse è apparso tra il 2023 e il 2025, con l'inflessione di crescita nel 2023 anziché durante la pandemia ([[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan et al., 2026]]). Le prestazioni di citazione erano forti: 92 delle 127 pubblicazioni con punteggi normalizzati per campo si collocavano alla media globale o al di sopra. La struttura sociale del campo era però sottile: 774 dei 789 autori risultavano accreditati su un solo articolo e 185 delle 209 venue comparivano una sola volta. Per chi valuta gli studi degli effetti riportati sopra, quella struttura è il caveat: gran parte dell'evidenza è recente e pochi gruppi di ricerca hanno accumulato un programma sostenuto.
 
 ## Fedeltà, presenza e il divario di autenticità
 

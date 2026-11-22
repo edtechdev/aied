@@ -6,9 +6,9 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-10-14T22:15:00-04:00"
-updated: "2026-11-13T13:20:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
 connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
@@ -63,7 +67,7 @@ Infine, l'evidenza ammonisce dal dare per scontato che il supporto generato dall
 
 - **Il mastery learning a controllo condiviso è efficiente solo quanto la strategia di selezione dei compiti dello studente.** Uno studio di simulazione (1.000 [[simulating-students|studenti simulati]] per esecuzione, parametri AFM e BKT adattati a log reali di MathTutor e DataShop) ha confrontato nove strategie di selezione dei compiti. L'efficienza varia di un ordine di grandezza: la strategia avversa al rischio "Minimize Worst Case Loss" — che sceglie l'abilità la cui perdita di padronanza nel caso peggiore è minore — produce un sovraccarico di pratica di 30,28x nella risoluzione di equazioni (28,93x nell'interpretazione di grafici), contro 1,73 +/- 0,38 in media per le altre strategie. Vincoli di sistema mirati lo correggono chirurgicamente: i vincoli sulla selezione dei compiti riducono il sovraccarico di pratica a 12,88/14,46x, e un bias di selezione dei problemi "Prefer Harder" lo riduce a 1,98x (d di Cohen = 1,86) — mentre le strategie già efficienti non sono influenzate. L'implicazione progettuale: i vincoli dovrebbero essere consapevoli della strategia, proteggendo gli auto-regolatori patologici senza tassare quelli buoni, e una riprogettazione simulation-first evita di esporre gli studenti a un sovraccarico di pratica di 30x per scoprire il fix. ([[simulating-learner-task-selection]])
 
-La valutazione basata su standard è la controparte valutativa del mastery learning, e [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] la identificano tra le cinque pratiche innovative allineate alla "valutazione per l'apprendimento" che gli educatori dell'istruzione superiore potrebbero adottare — ma la trovano praticamente assente dal discorso sull'educazione manageriale. Attribuiscono questo fatto a barriere normative: la valutazione norm-referenziata "curva di voto", la segnalazione esterna (classifiche, tirocini, accreditamento) e la mentalità strumentale degli studenti resistono tutti ad approcci orientati al mastery e privi di voto. La loro raccomandazione è la sperimentazione incrementale — ad esempio, introdurre rubriche basate su standard per un singolo compito prima di scalare — sostenuta da un coordinamento a livello di programma e da evidenza documentata della Scholarship of [[teacher-role|Teaching]] and Learning.
+La valutazione basata su standard è la controparte valutativa del mastery learning, e [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] la identificano tra le cinque pratiche innovative allineate alla "valutazione per l'apprendimento" che gli educatori dell'istruzione superiore potrebbero adottare — ma la trovano praticamente assente dal discorso sull'educazione manageriale. Attribuiscono questo fatto a barriere normative: la valutazione norm-referenziata "curva di voto", la segnalazione esterna (classifiche, tirocini, accreditamento) e la mentalità strumentale degli studenti resistono tutti ad approcci orientati al mastery e privi di voto. La loro raccomandazione è la sperimentazione incrementale — ad esempio, introdurre [[rubrics|rubriche]] basate su standard per un singolo compito prima di scalare — sostenuta da un coordinamento a livello di programma e da evidenza documentata della Scholarship of [[teacher-role|Teaching]] and Learning.
 
 ## Idee sbagliate comuni
 

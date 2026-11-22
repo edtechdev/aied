@@ -1,7 +1,7 @@
 ---
 title: "RAG (Generazione Aumentata da Recupero)"
 created: "2026-10-14T22:08:00-04:00"
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: "concepts/rag"
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
@@ -39,7 +43,9 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedb
 
 ## Introduzione
 
-### Come si usa il RAG nell'educazione
+Una variante locale del pattern è documentata per l'insegnamento della fisica. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] fanno girare un modello tramite Ollama sulla macchina personale di un docente, recuperano da appunti delle lezioni, manuali e raccolte di problemi, e generano quiz, riassunti e guide allo studio da quel contesto. L'argomento è la privacy prima di tutto — nulla lascia il dispositivo — e l'adeguatezza disciplinare poi, poiché il corpus di recupero è il corso stesso. Il costo riconosciuto è la dimensione del modello: ciò che sta in circa 8 GB di memoria video non è il modello più capiente disponibile.
+
+## Come si usa il RAG nell'educazione
 
 - **Recupero specifico di dominio con consapevolezza della notazione:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indicizza libri di testo, 847 slide di lezione, 312 problemi pratici risolti, 156 template di dimostrazioni svolte e 89 schede di lavoro sulla complessità per corsi teorici di [[cs-education|informatica]], aggiungendo riconoscimento di entità matematiche e re-ranking consapevole della notazione; ha risposto a tutte le 179 domande d'esame redatte dagli istruttori entro un timeout di 240 secondi (media 38,0 secondi) ma ha prodotto BLEU-4 = 0,0000 e un punteggio di rubric di 0,7620, il che illustra sia il valore dell'architettura sia i limiti delle metriche usate per giudicarla.
 - **Riduzione delle allucinazioni:** [[eduguard-safe-rag-llm-tutor|EduGuard]] ed [[eduzone-llm-safety-k12|EduZone]] usano il RAG per mantenere le risposte del tutor di IA ancorate a contenuti educativi verificati, riducendo il [[hallucination-risk|rischio di allucinazione]].
@@ -47,17 +53,23 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedb
 - **L'orientamento è una manopola e l'ancoraggio non vince la preferenza.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] hanno chiesto a nove educatori e progettisti di ordinare domande di matematica risposte via RAG su tre livelli di orientamento del prompt: le risposte a basso orientamento sono state preferite a coppie rispetto a quelle ad alto orientamento nel 63,8% dei casi, anche se l'alto orientamento era percepito come il più ancorato (media 0,90 su una scala 0-2). La pertinenza dei documenti recuperati correlava con l'ancoraggio percepito (r = 0,56, p < 0,001) ma non mostrava alcuna relazione significativa con la preferenza — l'ancoraggio modella ciò che il tutor dice, non se gli studenti lo preferiscono.
 
 - **L'ancoraggio vale solo quanto l'ispezione delle fonti:** solo 1 dei 12 partecipanti ha notato una scheda di fonte volutamente non corrispondente, quindi un'etichetta di provenienza può agire da sigillo di autorità anziché da invito a verificare il materiale recuperato ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
-- **Tutoring ancorato al curricolo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera i materiali curricolari rilevanti per informare le risposte di tutoring, assicurando l'allineamento con i contenuti del corso.
+
+- **L'ancoraggio ha migliorato il modo in cui il feedback veniva giudicato, non ciò che gli studenti ne facevano.** Aggiungere il recupero a uno strumento di revisione basato sull'IA ha aumentato la qualità percepita (d = 0,45) e l'utilità percepita (d = 0,67) in due coorti di scrittura graduate, mentre l'azione percepita non si è mossa (d = −0,06) ([[hughes-rag-ai-feedback-implementation-2026|Hughes et al. (2026)]]).
+
+- **Tutoring ancorato al curricolo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera i materiali curricolari rilevanti per informare le risposte di tutoring, assicurando l'allineamento con i contenuti del corso. Il recupero può anche correre su un grafo di conoscenza del corso anziché su un indice di documenti: in un modulo di laboratorio di virologia l'assistente rispondeva solo da quel grafo, e la classe insegnata con l'assistente, l'instradamento adattivo e la simulazione ha superato una classe invariata ([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]).
 - **Dispiegamento on-premise per il controllo istituzionale:** CourseChat esegue un tutor RAG multi-corso per l'[[business-education|educazione economica e aziendale]] universitaria su host edge locali, con un database vettoriale locale e un modello 8B servito da Ollama, mantenendo i materiali del corso e il dialogo degli studenti sull'infrastruttura del campus; la scelta del modello è diventata una decisione congiunta di hardware e serving quando i candidati più grandi non hanno superato una soglia di latenza ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
 - **Il recupero fondato sul curricolo non si è distinto sui tempi.** Aila recupera dai piani curricolari di qualità garantita dell'Oak National Academy, e gli insegnanti del suo trial hanno speso 0,76 del tempo di preparazione delle lezioni del gruppo di confronto ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]). Il rapporto lo legge come simile allo 0,69 del trial generale su [[generative-ai|ChatGPT]], quindi l'ancoraggio a contenuti curricolari verificati non è stato ciò che li ha separati.
 - **Indicizzazione di libri di testo e materiali:** [[book-level-synthetic-textbook-organization|l'organizzazione sintetica di libri di testo]] indicizza i contenuti educativi per il recupero. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] estende il recupero ai diagrammi strutturati.
 - **Integrazione nella pipeline di addestramento:** l'[[llm-training-and-fine-tuning|addestramento di LLM pedagogiche]] usa il RAG per ancorare l'addestramento del tutor alle migliori pratiche educative.
 - **[[student-support-and-success|Supporto accademico]] specifico del corso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera dai materiali didattici approvati di un singolo modulo di programmazione per servire gli studenti che esitano ad avvicinare un docente, e l'89% dei 15 studenti valutatori ha giudicato le sue risposte fortemente allineate ai materiali del corso. Il punto di design è che l'ancoraggio è una risposta istituzionale al disallineamento tra le [[llm|LLM]] di uso generale e le aspettative a livello di modulo.
+
+- **Il lavoro di dispiegamento è curatela dell'indice e definizione dell'ambito.** Gupta e colleghi (2026) hanno configurato un assistente di corso caricando materiali con metadati chiari e impostando un prompt di personaggio il cui ambito teneva le risposte dentro la base di conoscenza del corso, e l'inesattezza è stata la preoccupazione principale per il 54% dei 294 utenti che hanno risposto alle domande aperte ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al. (2026)]]).
+
 - **Struttura in fase di ingestione vs. recupero in fase di interrogazione:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] ha compilato lo stesso corpus del corso di [[machine-learning|machine learning]] DS3001 in sette pagine di concetti wiki incrociate e provviste di citazioni alle fonti, e lo ha messo a confronto con una baseline RAG vettoriale ottimizzata basata sul recupero per chunk con embedding. Su 59 domande redatte da umani il wiki compilato ha risposto meglio dell'indice ottimizzato, 9,95 contro 9,05 su 10, con un intervallo di confidenza bootstrap sulla differenza che esclude lo zero) ed è stato più spesso ancorato al materiale che il rispondente aveva effettivamente visto (98% vs. 81%), con entrambi gli scarti che si sono pressoché triplicati sulle domande che richiedevano materiale da più di una pagina (punteggi cross-page 9,93 vs. 8,14, dove il tasso di ancoraggio del RAG è sceso dall'87% al 64%). Lo scarto di ancoraggio non era un fallimento del recupero: solo 2 delle 11 risposte non ancorate del RAG vettoriale erano mancati recuperi, mentre le altre 9 avevano gli estratti rilevanti nel contesto e aggiungevano comunque dettagli non supportati — evidenza che la struttura in fase di ingestione vincola l'elaborazione, non solo l'accesso.
 
-- **Recuperare su un riassunto anziché sulle parole dello studente (LC-RAG).** Il discorso collaborativo spesso non ha legame semantico con la base di conoscenza: gli studenti dicono «metti quel blocco di posizione lì», quindi un retriever basato solo sul discorso restituisce frammenti non pertinenti, e l'esempio degli autori è un passaggio su un cartone animato degli anni Novanta estratto da un manuale di fisica e informatica. Il RAG contestualizzato dal log fa riassumere a un LLM ogni segmento di lavoro a partire dal suo discorso più il log dell'ambiente (quale componente del modello viene modificato), poi recupera su quel riassunto. Su 216 segmenti di modellazione collaborativa e cinque modelli di embedding giudicati da GPT-4o, ha battuto la baseline del discorso in quattro modelli, con tassi di vittoria da 0,403 a 0,620, e ha recuperato un insieme più stretto di frammenti (167 unici contro 267 su 7.386). Ha perso in un modello perché i riassunti diventavano più specifici del compito di quanto lo fosse il corpus generale dei manuali: l'ambito della query e l'ambito del corpus vanno allineati deliberatamente ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+- **Recuperare su un riassunto anziché sulle parole dello studente (LC-RAG).** Il discorso collaborativo spesso non ha legame semantico con la base di conoscenza: gli studenti dicono «metti quel blocco di posizione lì», quindi un retriever basato solo sul discorso restituisce frammenti non pertinenti, e l'[[rubrics|esempio]] degli autori è un passaggio su un cartone animato degli anni Novanta estratto da un manuale di fisica e informatica. Il RAG contestualizzato dal log fa riassumere a un LLM ogni segmento di lavoro a partire dal suo discorso più il log dell'ambiente (quale componente del modello viene modificato), poi recupera su quel riassunto. Su 216 segmenti di modellazione collaborativa e cinque modelli di embedding giudicati da GPT-4o, ha battuto la baseline del discorso in quattro modelli, con tassi di vittoria da 0,403 a 0,620, e ha recuperato un insieme più stretto di frammenti (167 unici contro 267 su 7.386). Ha perso in un modello perché i riassunti diventavano più specifici del compito di quanto lo fosse il corpus generale dei manuali: l'ambito della query e l'ambito del corpus vanno allineati deliberatamente ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
-### RAG vs. fine-tuning
+## RAG vs. fine-tuning
 
 Il RAG ha un ruolo complementare al fine-tuning delle [[llm]] — il recupero fornisce un ancoraggio aggiornato e specifico di dominio senza riaddestramento, mentre il fine-tuning incorpora i comportamenti [[pedagogy|pedagogici]]. La ricerca della knowledge base esplora entrambi gli approcci e la loro combinazione.
 

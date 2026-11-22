@@ -1,7 +1,7 @@
 ---
 title: "Pattern pedagogici"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -28,8 +28,12 @@ ai_assist:
     role: translation
     date: "2026-10-31"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
 connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
@@ -37,7 +41,7 @@ connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Pattern pedagogici** — le *sequenze ordinate* di attività che la ricerca di questa base di conoscenza ha testato, con attenzione a dove entra l'[[generative-ai|IA generativa]] nella sequenza e dove deve restare il [[human-in-the-loop-ai|giudizio umano]]. Là dove la [[pedagogy|pedagogia]] cataloga gli approcci ([[active-learning|apprendimento attivo]], [[problem-based-learning|apprendimento basato su problemi]], [[collaborative-learning|apprendimento collaborativo]]) e il [[learning-design|learning design]] descrive come è progettato un corso, questa pagina cataloga che cosa fanno effettivamente studenti e docenti, in quale ordine, e che cosa è accaduto quando è stato provato. PAIRR — stesura, revisione tra pari, revisione dell'IA, riflessione, revisione finale — è l'esempio meglio documentato, e il pattern che ne è alla base ricorre attraverso le discipline: prima lo sforzo, poi l'IA, il giudizio umano nei punti critici.
+> **Pattern pedagogici** — le *sequenze ordinate* di attività che la ricerca di questa base di conoscenza ha testato, con attenzione a dove entra l'[[generative-ai|IA generativa]] nella sequenza e dove deve restare il [[human-in-the-loop-ai|giudizio umano]]. Là dove la [[pedagogy|pedagogia]] cataloga gli approcci ([[active-learning|apprendimento attivo]], [[problem-based-learning|apprendimento basato su problemi]], [[collaborative-learning|apprendimento collaborativo]]) e il [[learning-design|learning design]] descrive come è progettato un corso, questa pagina cataloga che cosa fanno effettivamente studenti e docenti, in quale ordine, e che cosa è accaduto quando è stato provato. PAIRR — stesura, revisione tra pari, revisione dell'IA, riflessione, revisione finale — è l'[[rubrics|esempio]] meglio documentato, e il pattern che ne è alla base ricorre attraverso le discipline: prima lo sforzo, poi l'IA, il giudizio umano nei punti critici.
 
 ## Domande da considerare
 
@@ -151,6 +155,14 @@ Un quasi-esperimento con 68 insegnanti in formazione ha trovato che spiegare a u
 **Evidenza: testato, ma in contesti controllati o non controllati anziché nelle aule ordinarie.** Due discenti condividono un'unica IA e ricevono ruoli espliciti con regole di rotazione; l'IA è configurata per assumere un ruolo quando necessario e il suo output va all'intero gruppo. In una variante di programmazione in coppia l'IA condivisa modella l'attenzione e lo sforzo congiunti della diade, prevede un collasso fino a 30 secondi prima, e aumenta gli scaffold a livelli dal non fare nulla fino al suggerimento direttivo.
 
 Un esperimento within-subjects con 26 diadi ha trovato che la condizione con feedback otteneva un successo di debugging più alto (t[49,96] = −13,51, p < ,0001) e finiva più rapidamente (t[44,70] = 4,39, p < ,0001), benché richiedesse hardware di [[sensor-and-gaze-analytics|eye-tracking]] e pupillometria duale e non testasse il trasferimento al lavoro di coppia non supervisionato ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Un quasi-esperimento con 58 studenti magistrali in 16 gruppi ha trovato che la progettazione dei ruoli alzava i punteggi di contenuto delle mappe mentali da 3,65 a 4,59 su una scala SOLO 1–5 (z = 3,771, p < 0,001) mentre i conteggi di nodi e rami restavano piatti — ma in assenza di un gruppo di controllo, gli effetti di pratica non possono essere esclusi ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+
+### Bozze iterate con collaborazione valutata
+
+**Evidenza: descrizione di pratica — una sola prima applicazione, nessuna condizione di confronto, nessun esito misurato.**
+
+Gli studenti scrivono un saggio in piccoli team attraverso almeno due fasi documentate, scelgono tra un insieme fisso di titoli e vengono valutati sia sull'evidenza dell'iterazione e della collaborazione sia sul prodotto; la GenAI è consentita entro confini dichiarati anziché vietata o obbligatoria.
+
+In un modulo di apprendistato per la laurea in Business Analyst del primo anno alla Queen Mary University of London, 23 studenti in 11 team auto-selezionati hanno scritto in questo modo un saggio iterato di 1.500 parole, con la GenAI esclusa dal consegnare testo generato e dal produrre elenchi di riferimenti. Gli autori descrivono una riprogettazione [[pedagogy|pedagogica]] a livello di programma e riportano intuizioni emergenti anziché esiti. La loro tesi è che sono stati i criteri di correzione, non le istruzioni, a rendere l'evidenza del processo preponderante, e che dove gli studenti usavano lo strumento alcuni trattavano il suo output come una tesi da contestare — controargomenti da verificare, strutture da accettare o rifiutare ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 ### Discussione assistita dall'IA
 

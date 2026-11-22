@@ -1,7 +1,7 @@
 ---
 title: "Formazione degli insegnanti"
 created: "2026-10-14T22:12:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -10,7 +10,7 @@ discipline: [teacher education]
 level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
@@ -36,7 +40,7 @@ connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-g
 - La formazione dei docenti qui abbraccia la formazione pre-servizio (futuri docenti nei programmi di certificazione) e lo sviluppo professionale in servizio (docenti in servizio). Quale delle due ritiene che affronti la sfida più grande nel prepararsi alle classi con l'IA, e perché?
 - La pagina suggerisce che la formazione dei docenti debba prepararli non solo a usare gli strumenti di IA, ma a comprenderli, valutarli e integrarli in modo etico — uno spostamento che «ridefinisce che cosa significhi essere un docente». Come dovrebbe questa ridefinizione cambiare ciò che insegna un programma di certificazione?
 - Framework come AI-TPACK estendono il classico modello TPACK aggiungendo una dimensione dell'IA e dell'etica. Che cosa dovrebbe contenere concretamente una «dimensione IA» della conoscenza tecnologica-pedagogica-dei contenuti, al di là di come si fa funzionare un [[conversational-ai|chatbot]]?
-- Una [[meta-analysis-systematic-review|revisione di portata]] di 55 studi citata nella pagina rileva che l'IA potenzia la progettazione didattica, la riflessione e il pensiero critico dei docenti in formazione. Ma se l'IA può fare parte di questo al posto loro, quando il suo uso nella formazione dei docenti costruisce un'abilità e quando invece sostituisce proprio il giudizio di cui avranno bisogno?
+- Una revisione di portata di 55 studi citata nella pagina rileva che l'IA potenzia la progettazione didattica, la riflessione e il pensiero critico dei docenti in formazione. Ma se l'IA può fare parte di questo al posto loro, quando il suo uso nella formazione dei docenti costruisce un'abilità e quando invece sostituisce proprio il giudizio di cui avranno bisogno?
 - Se dovesse riprogettare un programma di formazione dei docenti per l'era dell'IA, che cosa richiederebbe a ogni futuro docente di sperimentare — e che cosa le impedirebbe deliberatamente di delegare all'IA?
 
 ## Introduzione
@@ -56,7 +60,7 @@ La formazione iniziale (pre-servizio) degli insegnanti prepara i futuri docenti 
 - **Applicazioni e benefici.** Una revisione di portata di 55 studi mostra che l'IA potenzia la progettazione didattica, l'insegnamento disciplinare, le abilità pratiche di insegnamento, la valutazione, la pratica riflessiva, il [[critical-thinking|pensiero critico]], l'integrazione tecnologica e l'innovazione pedagogica dei docenti in formazione.([[harnessing-ai-preservice-teachers-scoping-2026]])
 - **Il contesto locale come input di progetto.** I docenti in formazione svizzeri valutavano le motivazioni di utilità sociale e intrinseche più dei loro pari cinesi, che riportavano maggiore competenza didattica digitale ed entusiasmo per l'IA ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). La preparazione dovrebbe ancorare il proprio punto di ingresso al profilo [[motivation|motivazionale]] di ciascun contesto.
 
-- **Un accesso non impalcato alla GenAI ha ottenuto punteggi inferiori all'assenza di GenAI.** In un quasi-esperimento di 11 settimane con 52 docenti in formazione, la classe con GenAI non impalcata ha prodotto piani di lezione valutati con rubrica inferiori a quelli della classe senza GenAI (86,54 corretti vs 81,87, F = 8,348, p = 0,006, η² = 0,146), senza differenza tra i gruppi nell'[[self-regulated-learning|apprendimento auto-regolato]] o nel pensiero critico ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
+- **Un accesso non impalcato alla GenAI ha ottenuto punteggi inferiori all'assenza di GenAI.** In un quasi-esperimento di 11 settimane con 52 docenti in formazione, la classe con GenAI non impalcata ha prodotto piani di lezione valutati con [[rubrics|rubrica]] inferiori a quelli della classe senza GenAI (86,54 corretti vs 81,87, F = 8,348, p = 0,006, η² = 0,146), senza differenza tra i gruppi nell'[[self-regulated-learning|apprendimento auto-regolato]] o nel pensiero critico ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
 - **[[educational-robotics|Robotica educativa]] e machine learning.** La formazione iniziale degli insegnanti incorpora attività di coding, robotica e [[machine-learning|machine learning]] (per es. micro:bit) per costruire il [[computational-thinking|pensiero computazionale]] nei futuri docenti.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Valutazione autentica e [[metacognition|metacognizione]].** I modelli di valutazione mediati dall'IA (per es. AAIWA) integrano la [[authentic-assessment|valutazione autentica basata su rubriche]], il [[ai-feedback-quality|feedback dell'IA]] sensibile alle condizioni e la [[reflection|riflessione metacognitiva]] nei programmi pre-servizio.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
 - **L'indagine supportata dall'IA nella [[science-education|formazione scientifica]].** Un quasi-esperimento con 48 docenti in formazione scientifica in Turchia ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) ha integrato l'apprendimento basato sui problemi e sulla progettazione in un programma di indagine guidata supportato dall'IA di 8 settimane su fotosintesi e respirazione. Ha prodotto guadagni significativi nella comprensione concettuale dei due processi [[biology-education|biologici]], ma *nessun* effetto significativo sull'alfabetizzazione in IA o sul [[computational-thinking|pensiero computazionale]] auto-percepito — un promemoria del fatto che l'IBL con l'IA può approfondire la comprensione disciplinare nei candidati docenti senza costruire automaticamente le loro competenze in IA/CT, che richiedono una progettazione esplicita e mirata.
@@ -84,6 +88,7 @@ Lo sviluppo professionale in servizio sostiene i docenti in servizio nell'integr
 - **La capacità si costruisce facendo, non studiando.** Un modello strutturale basato sul TPACK su 122 docenti in servizio ha rilevato che l'uso effettivo dell'IA in compiti di scienze ed energia verde e il coinvolgimento nello sviluppo di materiali allineati all'EDS predicevano la capacità di integrazione dell'IA, mentre la conoscenza astratta dell'IA e gli atteggiamenti verso l'IA non lo facevano ([[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]]).
 - **La [[ai-ed-evaluation|valutazione collaborativa]] dei contenuti generati dall'IA come sviluppo professionale.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher e Barak (2026)]] riferiscono di un workshop in cui 60 docenti di scienze della [[k-12|scuola media]] hanno valutato domande di verifica generate da ChatGPT attraverso il proprio giudizio disciplinare, pedagogico e curricolare. La valutazione collaborativa ha essa stessa funzionato come sviluppo professionale, aiutando i docenti ad applicare criteri di precisione concettuale all'output dell'IA e a portare alla luce il rischio che i contenuti dell'IA rafforzino i [[misconceptions|concetti errati]] — collocando i docenti nel ruolo di valutatori critici dei materiali [[generative-ai|GenAI]] anziché di consumatori passivi.
 - **Lo sviluppo professionale strutturato per gli educatori linguistici è raro ma efficace.** Una [[li-language-educators-genai-review-2026|revisione sistematica di 23 studi]] (Li et al. 2026) ha rilevato che solo tre studi inclusi riferivano uno sviluppo professionale strutturato — un modulo incorporato in un corso di grammatica, un programma governativo EMI e un'indagine incorporata con chatbot — eppure tutti convergevano su guadagni in conoscenza, fiducia e riframmentazione dell'identità, spostando il modo in cui gli educatori vedevano la GenAI da «rischio di sostituzione» ad assistente/potenziamento. La revisione sostiene che lo sviluppo professionale dovrebbe abbinare la costruzione di abilità tecniche alla saggezza pratica, muovendo dalla [[ai-literacy|sensibilizzazione]] e dall'etica alla padronanza pratica degli strumenti fino alla co-progettazione di lezioni potenziate dall'IA, e raccomanda una strategia di implementazione in due fasi «prima il back-end, poi la classe».
+- **La formazione, non lo strumento, ha apportato il guadagno.** Su 19 classi elementari brasilianne, gli studenti dei docenti che avevano ricevuto un'unica formazione di 50 minuti sulla numeracy hanno superato i controlli, mentre aggiungere un sistema IA mediato dal docente non ha prodotto ulteriori guadagni di apprendimento ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 L'istanza più chiara nella base di conoscenza di sviluppo professionale su GenAI guidato da un framework per la matematica è uno studio su otto docenti in servizio provenienti da distretti rurali e sotto-attrezzati che hanno completato dieci moduli interattivi costruiti sul framework 4P di Rhodes ([[bicer-genai-pd-math-creativity-2026]]). Fornisce due meccanismi di progettazione che altrimenti mancano qui nella progettazione dello sviluppo professionale in servizio: un'impalcatura che si ritira deliberatamente (guida esplicita all'inizio, poi richieste di giustificare, generalizzare e progettare compiti) e il ragionamento simulato degli studenti nei Moduli 6-10, accanto al rilievo che MC, CK e PCK si muovevano insieme — misurando però solo il coinvolgimento, non la conoscenza del docente né l'apprendimento degli studenti.
 - **Programmi post-qualifica.** L'alfabetizzazione e l'uso dell'IA da parte degli educatori scientifici in servizio informano la progettazione di programmi post-qualifica legati all'IA.([[science-educators-ai-literacy-postqualification-2026]])

@@ -1,7 +1,7 @@
 ---
 title: Valutazione orale
 created: "2026-10-14T21:57:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -26,8 +26,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
 connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
@@ -39,7 +43,7 @@ connected_articles: [ai-second-language-listening-speaking-assessment-2025, corb
 
 ## Domande da considerare
 
-- Gli orali vengono promossi nell'era dell'IA perché una macchina non può sedersi nella stanza e rispondere al posto tuo. Eppure il corpus che argomenta ciò non contiene alcuno [[rct|studio randomizzato]] che confronti la valutazione orale con quella scritta. Cosa bisognerebbe vedere prima di trattare quell'argomentazione come definitiva?
+- Gli orali vengono promossi nell'era dell'IA perché una macchina non può sedersi nella stanza e rispondere al posto tuo. Eppure il corpus che argomenta ciò non contiene alcuno studio randomizzato che confronti la valutazione orale con quella scritta. Cosa bisognerebbe vedere prima di trattare quell'argomentazione come definitiva?
 - Lo stesso corpo di lavoro riporta due meccanismi diversi per la riduzione dell'[[anxiety-and-stress|ansia]]: rimuovere l'osservazione diretta dell'[[teacher-role|insegnante]] e familiarizzare con il formato attraverso la pratica. Questi implicano progetti diversi. Quale si adatta al tuo contesto, e quale ti fideresti di generalizzare?
 - Il punteggio basato solo sul parlato può scambiare la fluidità verbale per comprensione concettuale. Se chi apprende gesticola correttamente ma dice la parola sbagliata, o dice la parola giusta senza comprenderla, cosa sta misurando esattamente la tua valutazione?
 - Ogni progetto orale di questo corpus si scontra con lo stesso muro: il tempo del personale e delle aule. Se il vincolo è di ventotto ore di contatto per semestre per quindici studenti, la risposta onesta è un numero minore di elaborati difesi, un team didattico più ampio, o un formato diverso?
@@ -56,6 +60,8 @@ Questo ribaltamento è ora visibile in tutto il corpus di ricerca, ma in modo di
 
 La versione onesta dell'affermazione sull'integrità è più ristretta di come viene spesso enunciata. Gli orali rendono più difficile nascondere la sostituzione; il corpus non dimostra che riducano l'uso dell'IA. In [[code-review-genai-cs1|lo studio CS1 sul colloquio orale di revisione del codice]], colloqui settimanali di quindici minuti pesavano il settanta per cento del voto di ogni elaborato, e i caratteri incollati rispetto al totale sono comunque saliti dal 61,0 per cento al 68,1 per cento (p < 0,0001) lungo tre semestri, mentre i punteggi d'esame si sono mossi di un due per cento statisticamente non significativo. Il novanta per cento degli studenti ha detto che le revisioni li hanno motivati a comprendere meglio il proprio codice e il sessantacinque per cento che hanno aiutato a evitare un'eccessiva dipendenza dall'IA, ma il comportamento misurato non ha seguito. La valutazione orale ha cambiato ciò che poteva essere nascosto, non ciò che gli studenti hanno fatto.
 
+La versione limitata di quella salvaguardia compare nel modello di valutazione di Webb-Davies, Ratner e Bassett, in cui un viva voce è innescato solo quando il valutatore non riesce a ricostruire un collegamento plausibile tra una baseline di ragionamento osservata e la consegna finale. Gli autori dichiarano esplicitamente che non si tratta di un orale di routine: chiede come si è sviluppata una posizione o perché sono state scelte certe evidenze, e una ricostruzione confermata non comporta alcuna penalità. Il progetto mantiene la valutazione orale abbastanza rara da essere scalabile, concessando che il giudizio stesso non può essere automatizzato ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
+
 ## Lo spazio progettuale che il corpus copre effettivamente
 
 I formati nel corpus abbracciano un'ampia gamma di automazione e sincronicità, e ciascuno risolve una parte diversa del problema.
@@ -66,7 +72,11 @@ I formati nel corpus abbracciano un'ampia gamma di automazione e sincronicità, 
 
 **Erogazione e punteggio automatizzati.** [[ai-supported-oral-assessment-tvet-2026|Un sistema basato sulla voce sperimentato in classi professionali di automobilistica e ingegneria]] ha valutato trentatré apprendenti, dei quali ventuno hanno concordato che il compito vocale dal vivo sembrasse realistico e nessuno ha dissentito sul fatto che parlare in tempo reale si adattasse meglio al compito di un [[eportfolio|portfolio]] scritto. Il numero di parole per domande identiche variava di cinque-otto volte tra gli apprendenti, la fluidità non conferiva alcun vantaggio di accuratezza sugli item chiusi, e una valutazione preliminare di un agente coincideva con quella del tutor umano nel novantacinque per cento delle prove adiacenti di orticoltura e lattiero-caseario. [[socratic-tests-conversational-assessment|Un test socratico conversazionale]] imbocca la strada progettuale opposta, puntando all'interrogazione concettuale; la sua evidenza è un'indagine con autovalutazione di novantotto studenti, in cui l'80,6 per cento ha concordato che l'IA fornisse uno scaffold efficace e il cinquantadue per cento ha riportato uno stress minore rispetto agli esami tradizionali. Entrambi gli articoli misurano l'accettazione piuttosto che l'apprendimento.
 
+**L'IA come impalcatura logistica per orali dal vivo monitorati dall'umano.** Una terza disposizione mantiene l'insegnante in veste di esaminatore e usa l'IA per rendere fattibile la prova in coppie. Nei [[onodipe-enhance-not-replace-ai-classroom-2026|corsi di statistica aziendale di Onodipe et al. (2025)]], i colloqui Zoom dal vivo uno-a-uno non potevano raggiungere ogni studente entro il limite di tempo, quindi gli studenti hanno lavorato in coppie nelle stanze di breakout con un prompt strutturato di ChatGPT coprente i tipi di domande che l'esame avrebbe posto, mentre l'insegnante ruotava tra le stanze per sondare il ragionamento. L'articolo riporta la logistica e la riduzione del carico del docente ma nessun confronto di esiti, quindi è un progetto da testare anziché una prova che la prova mediata dall'IA preservi ciò che un orale certifica. Il suo interesse è che mira al vincolo di pianificazione e ore di contatto nominato da Fenton senza automatizzare né l'erogazione né il punteggio.
+
 **L'evidenza orale come difesa anziché esame.** [[tool-invariant-framework-agentic-ai|Un framework di valutazione invariante rispetto agli strumenti]] abbina quiz in classe senza IA a difese orali di dieci minuti di lavori assistiti dall'IA e privati dei commenti, valutate su comprensione del codice, comprensione del metodo, terminologia, interpretazione e verifica, con la verifica richiesta per il superamento a prescindere dal totale. Il progetto è argomentato anziché validato; l'aritmetica dello stesso articolo per quindici studenti è di due ore e mezza di contatto per elaborato e circa ventotto ore di contatto per semestre su undici elaborati difesi.
+
+**Sondaggio campionario, non copertura completa.** Deng (2026) propone di esaminare un estratto casuale del lavoro consegnato dallo studente faccia a faccia, sotto quattro condizioni di credibilità: più di un sondatore, sessioni registrate e verificabili, un percorso di ricorso e un consulente che non è il certificatore ([[deng-certification-consultation-university-teaching-2026|Deng, 2026]]). Il progetto è argomentato anziché testato, ma affronta il muro delle ore di contatto campionando piuttosto che esaminando tutto.
 
 Il formato di interazione decide che cosa può certificare un compito di parlato mediato dall'IA. I compiti dialogici del Duolingo English Test, 713 nel pilota, richiedevano la selezione di una risposta anziché un parlato reattivo, il che, secondo i revisori, disallinea le richieste cognitive del compito dal costrutto che il test dichiara di misurare ([[ai-second-language-listening-speaking-assessment-2025|Goh e Aryadoust (2025)]]).
 
@@ -89,6 +99,7 @@ Nessun formato ha una posizione fissa in questo compromesso: l'osservabilità de
 Anche la ragione d'integrità dell'orale ha un limite temporale: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] sostengono che occhiali e auricolari con IA possono consegnare suggerimenti nascosti in tempo reale dentro un viva voce dal vivo, perché l'IA indossabile non produce spostamenti dello sguardo né segnali rilevabili, quindi gli orali interattivi non sono più immuni.
 
 - **Il soffitto della scala è il vincolo progettuale.** In un workshop con 73 educatori di [[cs-education|informatica]], la valutazione orale e interattiva è stata riportata come la più forte evidenza disponibile della comprensione individuale e il rimedio meno scalabile; le mitigazioni descritte dai partecipanti erano la distribuzione e il campionamento - pool condivisi di assistenti didattici, [[peer-assessment|valutazione tra pari]] pesata al di sotto di un [[summative-assessment|esame finale]], e chiamare a rispondere un sottoinsieme rotante di studenti ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+- **La conversazione valutata dalla macchina diventa indulgente dove l'intervistatore fa da impalcatura.** [[challen-conversational-assessment-chat-exams-2026|Challen e Zilles (2026)]] hanno separato un intervistatore cieco rispetto alla [[rubrics|rubrica]] da un valutatore nascosto; una rivalutazione cieca di 40 tentativi concordava nel 35% dei casi e assegnava il voto massimo due volte laddove il valutatore dispiegato lo aveva assegnato 20 volte.
 
 ## Idee sbagliate comuni
 

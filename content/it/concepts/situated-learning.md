@@ -6,8 +6,8 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: "concepts/situated-learning"
-updated: "2026-10-31T06:30:00-04:00"
-source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T12:30:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
 connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
@@ -51,7 +55,7 @@ La ricerca della knowledge base tratta l'apprendimento situato non semplicemente
 - **L'IA come catalizzatore del collegamento fra educazione e realtà.** L'IA può agire come *catalizzatore* dell'apprendimento situato collegando l'educazione alla realtà e a contesti autentici, consentendo un apprendimento ancorato in scenari reali.([[vargas-ai-catalyst-situated-learning-2026]])
 - **Artefatti mediali nell'indagine autentica.** Nell'[[science-education|apprendimento delle scienze]], gli strumenti di IA (laboratori virtuali, simulazioni, tutoraggio intelligente) funzionano come "artefatti mediali" che estendono l'apprendimento situato consentendo comunità di pratica digitali e l'attraversamento di confini fra scuola, mondo reale e contesti interdisciplinari — trasformando gli studenti da "fruitori di conoscenza" in "praticanti della scienza."([[li-ai-science-situated-learning-teachers-2025]])
 - **Dispositivi curricolari [[curriculum-design|curricolari]] situati.** L'[[ai-literacy|alfabetizzazione sull'IA]] può essere sviluppata attraverso *Episodes of Situated Learning* — strumenti attivi di [[teacher-role|insegnamento]] (anticipare, produrre, riflettere) che costruiscono competenze sull'IA attraverso il [[problem-solving|problem-solving]] reale anziché l'istruzione astratta.([[panciroli-ai-literacy-episodes-situated-learning]])
-- **Valutazione situata nell'apprendimento [[design-based-research|basato sulla progettazione]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] hanno fondato il loro studio sulla teoria dell'apprendimento situato e su una [[pedagogy|pedagogia]] progettuale iterativa, valutando 80 poster progettuali di studenti nei ruoli di docente, revisore tra pari e revisore di sovvenzioni. Il [[prompt-engineering|prompting]] consapevole del ruolo ha prodotto feedback valutativi qualitativamente differenti — i docenti incoraggianti e orientati al processo, i pari di supporto e conversazionali, i revisori di sovvenzioni formali e orientati agli esiti — differenze epistemiche, non meramente stilistiche, che mettevano in primo piano aspetti diversi della pratica progettuale. Questo mostra come la valutazione situata e specifica per ruolo possa essere emulata da un [[llm|LLM]] quando è sostenuta da una rubrica semanticamente precisa, e come la valutazione nell'apprendimento basato sulla progettazione emerga dal compito autentico e dai suoi ruoli anziché esserne separata.
+- **Valutazione situata nell'apprendimento [[design-based-research|basato sulla progettazione]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] hanno fondato il loro studio sulla teoria dell'apprendimento situato e su una [[pedagogy|pedagogia]] progettuale iterativa, valutando 80 poster progettuali di studenti nei ruoli di docente, revisore tra pari e revisore di sovvenzioni. Il [[prompt-engineering|prompting]] consapevole del ruolo ha prodotto feedback valutativi qualitativamente differenti — i docenti incoraggianti e orientati al processo, i pari di supporto e conversazionali, i revisori di sovvenzioni formali e orientati agli esiti — differenze epistemiche, non meramente stilistiche, che mettevano in primo piano aspetti diversi della pratica progettuale. Questo mostra come la valutazione situata e specifica per ruolo possa essere emulata da un [[llm|LLM]] quando è sostenuta da una [[rubrics|rubrica]] semanticamente precisa, e come la valutazione nell'apprendimento basato sulla progettazione emerga dal compito autentico e dai suoi ruoli anziché esserne separata.
 - **Etica dell'IA situata.** Il ragionamento etico sull'IA è esso stesso trattato al meglio come *situato* — ancorato nel contesto storico-culturale ed ecologico anziché in principi astratti.([[raffaghelli-situated-ai-ethics-2026]])
 
 L'apprendimento situato si collega strettamente all'[[embodied-learning|apprendimento incarnato]] (entrambi sottolineano l'ancoraggio della cognizione nel contesto e nell'azione), alla [[distributed-cognition|cognizione distribuita]] (apprendimento distribuito fra persone, strumenti e contesti), all'[[experiential-learning|apprendimento esperienziale]] e alla teoria [[constructivist|costruttivista]]. Nell'educazione all'IA fonda la critica all'apprendimento decontestualizzato e disincarnato: una progettazione dell'IA che mantiene chi apprende ancorato nella pratica autentica preserva la situatezza che l'apprendimento durevole richiede.

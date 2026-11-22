@@ -1,17 +1,21 @@
 ---
 title: Istruzione primaria
 created: "2026-11-22T11:00:00-05:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 pedagogy: [scaffolding, game-based-learning, self-regulated-learning, social-emotional-learning]
 technology: [adaptive-learning, intelligent-tutoring, conversational-ai, generative-ai]
 level: [primary education, k 12]
 confidence: medium
 translation_of: concepts/primary-education
-source_updated: "2026-11-15T06:45:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
@@ -87,7 +91,7 @@ Una rassegna del 2025 di 25 studi empirici sulla primaria completa i contenuti d
 
 Un'unità di coding raggiunge quindi uno dei quattro filoni. Il filone che permetterebbe a un bambino di nove anni di vedere come i dati di addestramento plasmiano ciò che dice un classificatore è quello che la letteratura salta per lo più. Yim e Su leggono il pattern come un inquadramento tecnico che rimanda le implicazioni sociali a un ruolo di supporto.
 
-L'insegnamento segue la logica costruzionista, ma con agenti piuttosto che con la carta. Gli agenti sono apparsi in 15 dei 25 studi, i dispositivi incentrati sul software in 8 e le attività unplugged in 3; Teachable Machine, Jibo, Cozmo e Alexa hanno permesso ai bambini di addestrare un modello senza scrivere codice. Dei 16 studi che nominano un framework, 8 usavano il costruzionismo o il costruttivismo e 6 il modello ARCS. I revisori mettono in discussione la sequenza comune che insegna la programmazione basata su regole prima dell'apprendimento basato sui dati, poiché il machine learning chiede a un bambino di curare esempi piuttosto che scrivere regole.
+L'insegnamento segue la logica costruzionista, ma con agenti piuttosto che con la carta. Gli agenti sono apparsi in 15 dei 25 studi, i dispositivi incentrati sul software in 8 e le attività unplugged in 3; Teachable Machine, Jibo, Cozmo e Alexa hanno permesso ai bambini di addestrare un modello senza scrivere codice. Dei 16 studi che nominano un framework, 8 usavano il costruzionismo o il costruttivismo e 6 il modello ARCS. I revisori mettono in discussione la sequenza comune che insegna la programmazione basata su regole prima dell'apprendimento basato sui dati, poiché il machine learning chiede a un bambino di curare [[rubrics|esempi]] piuttosto che scrivere regole.
 
 Ciò che conta come evidenza è più sottile di ciò che si insegna. I questionari sono apparsi in 19 dei 25 studi, spesso come item unici su prontezza o intenzione, e solo 15 dei 25 riportavano qualche esito di apprendimento. Le interviste (11) e le rubriche di artefatti (8) erano dove compariva la comprensione concettuale. Questa è la base sotto la scala [[self-assessment|di autovalutazione]] validata sopra: uno strumento solido per la competenza percepita, in una letteratura che raramente verifica la competenza dimostrata.
 

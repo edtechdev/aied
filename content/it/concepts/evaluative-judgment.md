@@ -1,7 +1,7 @@
 ---
 title: Giudizio valutativo
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T13:51:25-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
 connected_articles: [ahman-thoren-processes-of-patterning-ai-literacy-2026, ai-internal-feedback-evaluative-judgments, ai-written-admissions-essays-penalized-2026, austin-ai-agents-assignment-redesign-2026, authentic-assessments-generative-ai-pilot-2026, beyond-detection-authentic-assessment-ai-2025, chatgpt-peer-feedback-evaluative-judgement-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, elkington-human-centred-assessment-value-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, genai-feedback-design-multisite-experiment, hadra-ai-detector-accuracy-efl-2026, judgment-centred-software-engineering-education-2026, learner-centered-feedback-ai, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, pairr-ai-peer-review-2025, rethinking-ai-writing-feedback-literacy, sharma-judgment-visible-genai-assessment-2026, student-perspectives-ai-writing-grading-2026, teichmann-detecting-undetectable-misconduct-2026, valiassist-programming-feedback-validation-by-demonstration-2026, wright-transcription-not-generation-2026, wu-lam-genai-writing-assessment-professors-2026, yan-accountable-judgement-language-assessment-2026, yu-verification-without-criteria-2026, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, zhang-teachers-judge-creativity-genai-2026]
@@ -33,7 +37,7 @@ connected_articles: [ahman-thoren-processes-of-patterning-ai-literacy-2026, ai-i
 ## Domande da considerare
 
 - Pensa a qualcosa che sai giudicare bene. Come hai imparato quel giudizio — insegnato esplicitamente, o assorbito facendo e confrontando — e cosa implica per come dovrebbe essere valutato?
-- Una rubrica può essere applicata meccanicamente o compresa. Se uno studente segue correttamente i criteri ma non sa dire perché un lavoro è migliore di un altro, quale capacità ha effettivamente misurato la valutazione?
+- Una [[rubrics|rubrica]] può essere applicata meccanicamente o compresa. Se uno studente segue correttamente i criteri ma non sa dire perché un lavoro è migliore di un altro, quale capacità ha effettivamente misurato la valutazione?
 - Quando un [[llm|modello linguistico]] stende una soluzione plausibile, il lavoro che resta a chi apprende è in gran parte giudizio: cosa tenere, cosa correggere, cosa scartare. È un compito diminuito, o più impegnativo che produrre la bozza?
 - Uno studente può accettare un suggerimento dell'IA perché legge bene, o perché sopravvive al proprio scrutinio. Dall'esterno la consegna può apparire identica — cosa permetterebbe a un valutatore di vedere la differenza?
 - Un esperimento multisito ha trovato che il [[ai-feedback-quality|feedback diretto dell'IA]] produceva i maggiori guadagni nelle revisioni ma rischiava l'esternalizzazione passiva del giudizio. Cosa suggerisce quel compromesso su come progettereste un feedback che costruisca anziché eluda il giudizio?
@@ -69,6 +73,8 @@ Un ulteriore livello riguarda la *fonte* di un giudizio, non solo il suo contenu
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] conferisce al costrutto la sua collocazione più forte nella letteratura sull'integrità. Estendendo l'inquadramento post-plagio di Eaton (2023) da orientamento [[ethics|etico]] a progettazione della valutazione, sostiene che i modelli di [[academic-integrity|integrità]] fondati su rilevamento e verifica sono disallineati rispetto a un lavoro in cui giudizio umano e generazione della macchina sono intrecciati, e Riformula l'integrità come pratica pedagogica attuata attraverso il giudizio valutativo — la capacità di chi apprende di soppesare opzioni, giustificare le scelte accademiche e assumersi la responsabilità sotto incertezza epistemica. Le sue quattro pratiche (percorsi decisionali annotati, verifica e responsabilità, [[oral-assessment|difesa orale]] e responsabilità dialogica, differenze tra bozze con cronologia delle versioni) rendono quel giudizio visibile come evidenza anziché inferirlo dal manufatto, e separa il giudizio dai costrutti con cui è spesso confuso: la [[reflection|pratica riflessiva]] considera il proprio pensiero retrospettivamente, la [[metacognition]] è la consapevolezza e la regolazione dei processi cognitivi, mentre il giudizio valuta opzioni rispetto a standard e ne accetta le conseguenze sotto incertezza. Nomina anche la modalità di fallimento che questa pagina segue — richiedere un ragionamento documentato rischia "la sostituzione di un regime di conformità con un altro", poiché il giudizio come evidenza "resta relazionale e situato anziché meccanicamente verificabile".
 
+- **Il giudizio responsabile aggiunge la mediazione culturale al costrutto.** Yan (2026) estende il giudizio valutativo alla valutazione linguistica e di traduzione mediata dall'IA: chi apprende deve giustificare le decisioni linguistiche, comunicative, di mediazione culturale ed etiche, perché un testo di arrivo fluente può nascondere problemi di registro e culturali irrisolti ([[yan-accountable-judgement-language-assessment-2026|Yan, 2026]]).
+
 ## Evidenza: come si sviluppa il giudizio, e cosa gli fa l'IA
 
 La letteratura [[collaborative-learning|collaborativa]] e valutativa della knowledge base fornisce evidenza convergente che il giudizio valutativo sia *apprendibile*, *surrogabile* e *progettabile* — e che l'IA tagli in entrambi i versi.
@@ -92,6 +98,8 @@ La letteratura [[collaborative-learning|collaborativa]] e valutativa della knowl
 - **Il giudizio conta quando è cablato alla revisione, non solo quando è presente.** In 67 docenti in formazione che progettavano piani di lezione con la GenAI, la valutazione esplicita era quasi assente nel gruppo di qualità più bassa (0,67 contro 0,00); ciò che separava la qualità era un ciclo bidirezionale valutazione–revisione (CE→RE Z = 2,80, RE→CE Z = 2,50) e un auto-anello di revisione (RE→RE Z = 4,24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **I criteri dei docenti possono essere esternalizzati revisionando l'output dell'IA.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] hanno inferito regole di validazione riutilizzabili dalle modifiche di 16 docenti al feedback di programmazione generato da LLM e hanno alzato l'allineamento con il loro intento pedagogico dal 57% al 91%, rendendo i criteri taciti ispezionabili anziché lasciandoli non dichiarati.
 
+- **Il ciclo, non la lista di controllo.** Il giudizio valutativo dell'IA opera in modo ricorsivo: valutare rispetto a criteri professionali, accettare, rivedere o rifiutare e rilanciare il prompt, poi verificare e giustificare, tornando alla valutazione finché l'artefatto non è idoneo ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng e Tang (2026)]]).
+
 ## Come l'uso improprio surroga il giudizio
 
 Il rischio più chiaro è la surrogazione, ed è evidenziato nella letteratura sul feedback anziché solo teorizzato. Quando lo strumento fornisce la rubrica, il feedback e il monitoraggio, la pratica [[metacognition|metacognitiva]] e valutativa di chi apprende viene surrogata anziché supportata — la valutazione diventa un'esibizione del giudizio che lo studente non ha mai esercitato, la stessa modalità di fallimento del [[cognitive-offloading|sovraccarico cognitivo]] espressa nel registro valutativo. Il feedback diretto dell'IA generativa nell'esperimento multisito spingeva esattamente verso questa esternalizzazione passiva. La pressione della valutazione la compone: laddove l'autovalutazione o la riflessione sull'uso dell'IA è essa stessa valutata, gli studenti possono produrre la riflessione che la rubrica vuole anziché il ragionamento, così che il giudizio genuino richiede di rendere l'esercizio consequenziale — una decisione che si manifesta in un lavoro successivo, una spiegazione orale, o una motivazione documentata che sia essa stessa esaminata.
@@ -99,6 +107,8 @@ Il rischio più chiaro è la surrogazione, ed è evidenziato nella letteratura s
 Lo stesso ragionamento ammette una versione strutturale. [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman e Thorén (2026)]] nominano il **patterning** come il lavoro di sviluppo che organizza la complessità in strutture che chi apprende trova significative, e sostengono che un sistema che pre-ordina la rilevanza rimuove le condizioni che quel lavoro richiede. Il loro termine per il risultato è **giudizio preso in prestito**: chi apprende valuta materiale che il sistema ha già strutturato, così il giudizio viene eseguito ma mai guadagnato. L'articolo è un'analisi teorica senza dati propri — la piattaforma Tentaklar illustra il meccanismo anziché testarlo — quindi la modalità di fallimento è argomentata dalla progettazione, non osservata negli studenti.
 
 La surrogazione ha una versione lato docente, ed è ciò che ha portato diversi professori di scrittura a rifiutare del tutto l'esternalizzazione della correzione. Cinque dei ventiquattro dicevano che correggere è come un docente arriva a capire i propri studenti, quindi delegarla costa quella comprensione e non solo le ore ([[wu-lam-genai-writing-assessment-professors-2026|Wu e Lam (2026)]]). Diciotto dei ventiquattro trattavano il giudizio umano come ciò che coglie gli errori dello strumento e ne detiene la responsabilità.
+
+La prescrizione è inoltre, per ora, non attuata nel record empirico. Una revisione sistematica e un'analisi epistemica della rete di 65 studi (2022–2026) hanno trovato che nessuno insegnava ai partecipanti i criteri necessari per valutare l'output dell'IA; gli interventi sollecitavano pause, spiegazioni e dichiarazioni di fiducia, e le impalcature di alfabetizzazione al feedback non comparivano in nessuno ([[yu-verification-without-criteria-2026|Yu et al. (2026)]]). I disegni presupponevano uno standard valutativo anziché fornirlo.
 
 ## Implicazioni per la pratica
 
@@ -111,6 +121,8 @@ La surrogazione ha una versione lato docente, ed è ciò che ha portato diversi 
 - **Abbinatelo a processi e orali.** I manufatti di processo e le brevi spiegazioni orali mostrano il giudizio in azione là dove un prodotto finale non può, ed è una ragione centrale per cui la riprogettazione valutativa dell'era dell'IA vi fa affidamento.
 
 - **Rendete visibile il giudizio trattenuto con sonde di debito di comprensione.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] definisce quattro obbligazioni trasversali — spiegare, verificare, modificare e rendere conto — che rendono visibile la competenza trattenuta a ogni livello di integrazione dell'IA, e propone richieste di modifica differite, percorsi di codice, test progettati indipendentemente, localizzazione dei difetti e debugging dal vivo come sonde che confrontano ciò che è stato prodotto con ciò che può essere in seguito dimostrato. Sotto la capacità [[agentic-ai|agentica]] il bersaglio della valutazione si sposta sulla supervisione — contratti di compito, confini di permesso, sandbox, ambienti di valutazione, revisione dei diff, rollback e responsabilità umana — spostando la valutazione dall'autorialità visibile verso il giudizio visibile.
+
+**Giudicare un manufatto non è giudicare lo studente.** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] rendono esplicita la distinzione per il lavoro assistito da GenAI: i giudizi dei docenti a livello di prodotto su novità, risoluzione, estetica e affetto — un nucleo condiviso tra 654 docenti in Cina e negli Stati Uniti — descrivono il manufatto, non il contributo dello studente ad esso, e i due divergono quando il manufatto è realizzato con l'IA. Raccomandano di abbinare i criteri di prodotto a evidenze di processo — prompt, decisioni di revisione, razionali riflessivi — lo stesso spostamento dal prodotto al giudizio [[process-oriented-assessment|orientato al processo]].
 
 ## Idee sbagliate comuni
 

@@ -1,7 +1,7 @@
 ---
 title: Riflessione
 created: "2026-11-08T12:00:00-05:00"
-updated: "2026-11-08T12:00:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -14,13 +14,17 @@ page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
 translation_of: concepts/reflection
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
 connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
@@ -47,7 +51,7 @@ Due ulteriori distinzioni organizzano la letteratura. La prima è la *profondit�
 
 ## Come la riflessione si rapporta all'autovalutazione, alla metacognizione e agli e-portfolio
 
-Il lavoro sui confini conta qui più che sulla maggior parte delle pagine concettuali, perché quattro pagine adiacenti possiedono ciascuna una parte del territorio, e i professionisti usano abitualmente le parole in modo intercambiabile nelle rubriche.
+Il lavoro sui confini conta qui più che sulla maggior parte delle pagine concettuali, perché quattro pagine adiacenti possiedono ciascuna una parte del territorio, e i professionisti usano abitualmente le parole in modo intercambiabile nelle [[rubrics|rubriche]].
 
 Ciò che **condividono** è reale. Tutte riportano l'attenzione del discente sul proprio lavoro, tutte sono associate all'[[agency|agentività]] e alla consapevolezza di sé, tutte possono essere sostenute da scaffolding e tutte possono essere eseguite per un voto. Ognuna di esse, inoltre, viene riscritta nello stesso periodo dall'IA generativa, ed è per questo che gli stessi studi ricorrono attraverso queste pagine. La riflessione è l'unica del gruppo il cui prodotto è un *testo*, ed è lì che la somiglianza di famiglia smette di essere utile.
 
@@ -148,6 +152,7 @@ Un prompt iniziale che sopravvive alla maggior parte dei modi di fallire sopra e
 - **Valuta ciò che puoi difendere.** La specificità, l'evidenza di una decisione, il ragionamento di revisione e l'onestà su ciò che è andato storto sono valutabili. La sincerità no, e un modello fluente può imitare la superficie di tutto questo.
 - **Abbina l'artefatto a qualcosa che costa delegare.** Una breve difesa orale, una revisione dal vivo o una decisione che ha conseguenze — il gate riflessivo del sistema Prober e le riunioni di verifica per singolo membro di Issa e Hall sono due schemi che funzionano.
 - **Guarda cosa fa la valutazione all'atto.** Quando l'autoriflessione è valutata rischia di diventare performativa, quindi dichiara per cosa la riflessione *non* è valutata e lascia almeno una parte della riflessione non valutata.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer e Hunt (2026)]] ponderano un corso per il 60% sul prodotto, il 20% sulla documentazione del processo e il 20% sulla riflessione sull'uso dell'IA, così che il percorso sia valutato insieme alla destinazione.
 - **Non trattare mai un punteggio come prova del pensiero.** I classificatori di profondità stimano quanto un testo risulta riflessivo a chi lo legge, una proprietà che una seconda bozza fluente può fabbricare.
 
 ### Sostenere la routine

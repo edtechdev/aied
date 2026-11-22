@@ -1,7 +1,7 @@
 ---
 title: Critiche dell'IA nell'educazione
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-22T12:30:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,10 +13,14 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
@@ -56,7 +60,7 @@ Un secondo gruppo attacca il vocabolario piuttosto che la macchinaria. Wang e Ji
 
 ## Infrastruttura, trasduzione e mancato riconoscimento
 
-Un terzo gruppo sposta l'attenzione dallo strumento all'infrastruttura che lo circonda. Watson, Morgner e Brezovec trattano l'IA generativa come un'infrastruttura mediatrice del significato e battezzano il suo meccanismo *trasduzione semantica*: la riformulazione di una richiesta educativa — un prompt, una consegna, una rubrica, una domanda d'esame, un genere o una politica — in una forma comunicativamente plausibile ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner e Brezovec (2026)]]). Poiché la trasduzione è selettiva, può includere o escludere. Tre luoghi ricorrono: le fratture di accesso e di capacità, il mancato riconoscimento attraverso modelli di come suona una buona risposta o un buon studente, e la deriva normativa in ciò che si intende per pedagogia. L'esclusione è spesso una tenaglia piuttosto che un divieto: le istituzioni innalzano le aspettative su ritmo, rifinitura e fluidità idiomatica restringendo al tempo stesso i regimi di autenticità.
+Un terzo gruppo sposta l'attenzione dallo strumento all'infrastruttura che lo circonda. Watson, Morgner e Brezovec trattano l'IA generativa come un'infrastruttura mediatrice del significato e battezzano il suo meccanismo *trasduzione semantica*: la riformulazione di una richiesta educativa — un prompt, una consegna, una [[rubrics|rubrica]], una domanda d'esame, un genere o una politica — in una forma comunicativamente plausibile ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner e Brezovec (2026)]]). Poiché la trasduzione è selettiva, può includere o escludere. Tre luoghi ricorrono: le fratture di accesso e di capacità, il mancato riconoscimento attraverso modelli di come suona una buona risposta o un buon studente, e la deriva normativa in ciò che si intende per pedagogia. L'esclusione è spesso una tenaglia piuttosto che un divieto: le istituzioni innalzano le aspettative su ritmo, rifinitura e fluidità idiomatica restringendo al tempo stesso i regimi di autenticità.
 
 ## Definizione dell'agenda, innovazione simulata e futurizzazione sperimentale
 
