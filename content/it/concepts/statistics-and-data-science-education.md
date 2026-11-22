@@ -10,7 +10,7 @@ confidence: medium
 created: "2026-10-27T03:55:14-04:00"
 updated: "2026-11-08T14:18:00-05:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-21T05:39:02-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

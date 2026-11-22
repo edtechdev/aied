@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ L'adozione dell'IA in educazione non è una decisione puramente di classe; è an
 
 [[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] fornisce uno screening di approvvigionamento portabile proprio per la decisione che gli amministratori affrontano: prima di distribuire un prodotto di IA, chiedersi quale problema viene risolto, se esiste capacità di governance, se l'istituzione è trasparente e se il dispiegamento crea valore per gli studenti — inquadrando la scelta come una questione di diritti, opzioni, finanze e futuri degli studenti anziché come una transazione di approvvigionamento.
 
-### Come appare la prospettiva dell'amministratore nella ricerca
+## Come appare la prospettiva dell'amministratore nella ricerca
 
 - **Politiche e processi decisionali istituzionali:** la [[ai-uk-higher-education-policy-2026|ricerca sulle politiche di IA nell'istruzione superiore britannica]] rileva che l'integrazione dell'IA sta accelerando ma è frammentata, con un divario tra l'ambizione delle politiche di alto livello e l'implementazione istituzionale — un tema ricorrente per gli amministratori che navigano la strategia senza una guida operativa chiara.
 
@@ -58,7 +58,7 @@ L'adozione dell'IA in educazione non è una decisione puramente di classe; è an
 - **Benessere ed esperienza degli studenti:** gli [[ai-campus-wellbeing-tools|strumenti di benessere sul campus basati sull'IA]] esaminano come le istituzioni distribuiscono l'IA per il [[student-support-and-success|supporto agli studenti]], collegando le scelte degli amministratori ai risultati di [[student-experience|esperienza studentesca]].
 - **Governance e regolamentazione:** Le decisioni degli amministratori interagiscono con [[educational-policy-ai|le politiche educative sull'IA]], la [[governance|governance]] e la [[regulation|regolamentazione]] — le istituzioni traducono la capacità dell'IA in framework di uso accettabile, regole di valutazione e standard di governance dei dati (vedi l'[[genai-policies-higher-ed-computing|analisi delle politiche istituzionali sulla GenAI]]).
 
-### Collegamenti
+## Collegamenti
 
 La prospettiva dell'amministratore si collega alle [[educational-policy-ai|politiche educative sull'IA]] (formazione delle politiche), alla [[governance|governance]] e alla [[regulation|regolamentazione]] (governance), alle [[edtech-platform|piattaforme edtech]] (approvvigionamento e infrastrutture), alle [[learning-analytics|learning analytics]] (dati istituzionali) e all'[[higher-ed|istruzione superiore]]. Le decisioni degli amministratori abilitano o limitano il lavoro su [[educational-development|sviluppo educativo]], [[teacher-role|ruolo del docente]] e [[ai-literacy|alfabetizzazione sull'IA]] trattato altrove nella knowledge base.
 

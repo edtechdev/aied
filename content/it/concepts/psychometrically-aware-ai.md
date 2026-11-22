@@ -7,7 +7,7 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: "concepts/psychometrically-aware-ai"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 
 Man mano che i sistemi di IA valutano risposte, predicono la difficoltà e forniscono [[feedback]], un rischio chiave è che producano output che suonano sicuri senza essere stati validati rispetto ai principi di misurazione. L'AI consapevole della psicometria affronta questo problema ancorando la [[assessment|valutazione]] basata sull'IA alla psicometria consolidata — calibrando gli output, quantificando l'incertezza e preservando gli standard di [[assessment-validity]] e [[educational-measurement]] invece di fare affidamento sull'accuratezza grezza o sulla confidenza [[self-report-measures|auto-riferita]].
 
-### Come appare l'AI consapevole della psicometria nella ricerca
+## Come appare l'AI consapevole della psicometria nella ricerca
 
 - **Calibrazione e confidenza:** la [[automated-assessment|valutazione consapevole della confidenza]] e la [[llm-psychometric-calibration-cdp|calibrazione psicometrica tramite LLM]] garantiscono che l'IA restituisca punteggi significativi e consapevoli dell'incertezza, anziché stime puntuali sovraconfidenti.
 - **La confidenza del modello non basta.** Su SciEntsBank, la confidenza verbalizzata, latente e basata sulla consistenza non è riuscita a separare le risposte brevi corrette da quelle errate; la calibrazione migliore è arrivata aggiungendo l'incertezza aleatorica derivata dal dataset — l'entropia intra-cluster delle risposte incorporate — tramite Random Forest e scaling di Platt, consentendo la correzione automatica selettiva e la [[human-in-the-loop-ai|revisione umana]] ([[cong-confidence-asag-2026|Cong et al. (2026)]]).
@@ -54,7 +54,7 @@ Man mano che i sistemi di IA valutano risposte, predicono la difficoltà e forni
 - **Pipeline di abilità latente e standard setting:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] forniscono un modello concreto di valutazione consapevole della psicometria in un esame nazionale: i punteggi degli item della rubric non vengono mai sommati direttamente ma inseriti in un modello [[item-response-theory|IRT]] le cui stime di abilità latente vengono tagliate con il metodo Bookmark in Proficient / Close to Proficiency / Insufficient, con il superamento che richiede almeno due sezioni Proficient e la restante almeno Close to Proficiency. Gli autori hanno riprodotto quella pipeline in forma automatizzata (una probabilità del 67% di rispondere correttamente ad almeno 7 item della rubric per il taglio inferiore e ad almeno 10 per quello superiore), consentendo di confrontare i punteggi degli item prodotti dall'IA e dagli umani rispetto a criteri decisionali identici anziché sulla mera concordanza grezza.
 - **Metriche bilanciate smascherano un modello solo apparentemente calibrato.** Chiedere a GPT-4o e a Gemini 2.0 Flash di inferire dimensioni di stile di apprendimento dai dialoghi di 153 studenti universitari ha prodotto un'accuratezza moderata che il recall per classe ha mostrato essere predizione della classe dominante, con i discenti Intuitivi e Globali sottidentificati e il [[prompt-engineering|prompting]] few-shot che a volte amplificava il bias anziché rimuoverlo ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi e Robb (2026)]]).
 
-### Connessioni
+## Connessioni
 
 L'AI consapevole della psicometria si colloca all'intersezione tra [[educational-measurement]], [[assessment-validity]], [[item-response-theory]] e [[automated-assessment|Confidence Aware AI Assessment]]. È centrale per [[ai-ed-evaluation]] (se la valutazione tramite IA sia affidabile) e si collega alla [[automated-assessment]] basata sulle [[llm]] e alla [[automated-assessment|Automated Grading]]. La sua enfasi sulla validità parla anche dei [[limitations-in-aied-research|limiti di misurazione]] della ricerca su [[ai-education|AIED]].
 

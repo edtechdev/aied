@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: "concepts/affective-tutoring"
-source_updated: "2026-11-04T13:20:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

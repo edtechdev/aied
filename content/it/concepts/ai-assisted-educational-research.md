@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 translation_of: "concepts/ai-assisted-educational-research"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
 connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]

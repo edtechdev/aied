@@ -18,7 +18,7 @@ ai_assist:
     agent: hermes-agent
 updated: "2026-11-15T15:40:57-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 

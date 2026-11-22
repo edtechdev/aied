@@ -7,7 +7,7 @@ pedagogy: [constructivist, experiential-learning, learning-theories, situated-le
 confidence: high
 translation_of: "concepts/situated-learning"
 updated: "2026-10-31T06:30:00-04:00"
-source_updated: "2026-10-30T10:20:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Nella letteratura sull'[[ai-education|IA nell'educazione]], l'apprendimento situ
 
 - **Contestualizzare il materiale stesso è una mossa di apprendimento situato.** DagFlow-AI genera un dataset statistico costruito attorno a un interesse dichiarato dallo studente — un caso di studio usava la preoccupazione di uno studente per il cambiamento climatico e la salute — mentre mantiene fissi gli obiettivi di apprendimento e il livello di abilità ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Far corrispondere i *dati* a chi apprende, anziché far corrispondere la spiegazione, tratta il contesto della pratica come la cosa che va situata. Gli autori ammettono il limite: i dati sintetici non possono insegnare la raccolta dei dati, la misurazione o il disegno dello studio, quindi il contesto è reale per chi apprende ma non per il mondo.
 
-### L'apprendimento situato come lente progettuale per l'IA
+## L'apprendimento situato come lente progettuale per l'IA
 
 La ricerca della knowledge base tratta l'apprendimento situato non semplicemente come una teoria astratta, ma come un quadro concreto di progettazione e valutazione dell'IA nell'educazione:
 

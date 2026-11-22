@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -45,11 +45,11 @@ L'uso improprio dell'IA è distinto dall'uso dell'IA. L'uso descrive l'impiego d
 
 Il danno atteso è esso stesso documentato: in dati svedesi da indagine e focus group, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] riportano la stessa paura dai dati svedesi: il 51% dei partecipanti (n = 106) pensava che l'uso della GenAI potesse ostacolare lo sviluppo individuale, indicando l'erosione del [[critical-thinking|pensiero critico]], della [[creativity|creatività]] e dell'autonomia anziché violazioni di regole.
 
-### Il divario performance–apprendimento
+## Il divario performance–apprendimento
 
 Il concetto centrale, articolato in [[genai-performance-vs-learning|distinguere i guadagni di performance dall'apprendimento]], è che l'IA generativa aumenta facilmente la **performance** — efficienza immediata e qualità dell'output — bypassando spesso l'elaborazione cognitiva e [[metacognition|metacognitiva]] profonda richiesta per l'**apprendimento**. Uno strumento che ottimizza per la performance può quindi minare l'apprendimento. Il divario è ora dimostrato causalmente su scala di campo: un [[rct|trial controllato randomizzato]] ha trovato che l'assistenza dell'IA senza guardrail innalzava la performance sulla pratica ma riduceva i punteggi agli esami successivi non assistiti.
 
-### Meccanismi del danno
+## Meccanismi del danno
 
 - **La [[cognitive-surrender|resa cognitiva]]** — il termine che i ricercatori usano per gli studenti che scaricano il pensiero sull'IA come dipendenza passiva e non riflessiva, in opposizione alla forma deliberata e strategica dello [[cognitive-offloading|scaricamento cognitivo]]. Produce un declino misurabile a livello di popolazione della conoscenza durevole.
 - **La copia delle risposte come stampella** — l'uso improprio è guidato meno dagli errori dell'IA che inducono in errore gli studenti che dagli studenti che copiano le risposte anziché imparare. Quando l'analisi dello [[student-engagement|engagement]] mostra che gli studenti per lo più "chiedono la risposta", il danno all'apprendimento segue.
@@ -57,13 +57,13 @@ Il concetto centrale, articolato in [[genai-performance-vs-learning|distinguere 
 - **Lo spiazzamento dell'apprendimento** — la sostituzione degli output dell'IA ai processi faticosi (elaborazione, richiamo, auto-spiegazione) che consolidano la conoscenza, coerente con il [[cognitive-offloading|sovra-affidamento]].
 - **La confusione letta come intenzione.** Quando gli insegnanti non nominano il ruolo previsto dell'IA in un compito, gli studenti lo definiscono in base a ciò che è più facile, e il corpo docente legge il disallineamento risultante come imbroglio piuttosto che come un confine che non è mai stato enunciato ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
-### La base di evidenze
+## La base di evidenze
 
 - **RCT causale sul campo (≈1.000 studenti di matematica delle scuole superiori):** un tutor in stile ChatGPT senza guardrail ha innalzato la performance sulla pratica assistita **+48%** ma ridotto i punteggi all'[[summative-assessment|esame a libro chiuso]] non assistito **−17%** — gli studenti che non avevano mai avuto accesso all'IA superavano quelli che lo avevano avuto. Un tutor con guardrail di tipo "suggerimento non risposta" eliminava il danno. È notevole che gli studenti nel braccio danneggiato non percepivano di aver imparato meno.
 - **Dati comportamentali su scala di popolazione (3,2 milioni di interazioni ALEKS):** il tempo di studio sui problemi suscettibili all'IA è sceso **−26,9%** cumulativamente per gli studenti universitari (scuole superiori −31,3%) dopo il rilascio di ChatGPT, con un **declino del 25% nelle probabilità di una risposta corretta sugli item di ritenzione sorvegliati**. L'effetto svaniva interamente sotto sorveglianza, ancorandolo all'uso dell'IA fuori piattaforma.
 - **Un grande risultato nullo:** sfruttando il calo stagionale dell'uso di ChatGPT durante l'estate si è mostrato **nessun cambiamento netto nelle medie dei test standardizzati delle scuole superiori** — probabilmente perché il danno dell'uso improprio è compensato in aggregato dall'uso produttivo dell'IA. Questo non contraddice il danno causale all'apprendimento durevole; avverte di non sovra-generalizzare a partire dai punteggi aggregati dei test.
 
-### La dipendenza come percorso verso il burnout
+## La dipendenza come percorso verso il burnout
 
 L'uso improprio danneggia più del risultato. Un'indagine su 276 studenti universitari cinesi
 ([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) ha modellato la dipendenza dall'IA come mediatrice tra
@@ -77,19 +77,19 @@ contrastandone gli effetti a posteriori. Gli autori segnalano un'avvertenza di m
 Addiction Test e la sua validità di contenuto per l'IA non è stata stabilita — quindi il percorso è meglio trattato come
 un'ipotesi ben modellata che come una dimensione dell'effetto stabilita.
 
-### La natura del danno dipendente dalla valutazione
+## La natura del danno dipendente dalla valutazione
 
 La sfumatura pratica più importante è che il danno è **selettivo per tipo di valutazione**. Emerge su misure **sorvegliate, a libro chiuso e non assistite** della conoscenza durevole. Sui normali lavori valutati del corso che non riescono a distinguere il lavoro assistito dall'IA da quello indipendente, l'uso improprio può *gonfiare* i voti immediati. Questo è il motivo per cui il divario percepito-vs-effettivo è pericoloso: studenti (e a volte insegnanti) vedono guadagni di performance a breve termine e mancano l'erosione dell'apprendimento che emerge solo quando lo strumento viene rimosso.
 
 **Quale affidamento, non quanto.** Un'indagine su 118 studenti in 12 corsi intensivi di IA ([[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. 2026]]) separa due comportamenti che le misure di frequenza d'uso collassano. L'**affidamento cognitivo** — usare la GenAI per organizzare, valutare, combinare e scomporre — era il predittore più forte dell'impatto positivo percepito (β = ,495, p < ,001), e lo scaricamento che descrive non è uniformemente dannoso: organizzare e riassumere idee e scoprire nuove intuizioni si collocavano tra le caratteristiche associate al miglior apprendimento percepito. L'**affidamento precoce** — consultare la GenAI *prima* del pensiero indipendente, di una ricerca tradizionale o di un insegnante — prediceva il beneficio accademico (β = ,301, p < ,001) *e* l'impatto negativo (β = ,402, p = ,004) allo stesso tempo. La moderazione è la parte che riguarda il rimedio di alfabetizzazione sopra: l'associazione tra affidamento precoce e impatto negativo era assente a bassa [[ai-literacy|alfabetizzazione valutativa]] (b = ,025, p = ,861) e più forte tra gli studenti che giudicano meglio gli output dell'IA (b = ,688, p < ,001), quindi l'abilità valutativa non proteggeva dal costo del chiedere prima all'IA — gli studenti meglio piazzati per accorgersi del costo erano quelli che lo riportavano. L'implicazione operativa è che l'uso improprio è in parte una questione di *tempistica* rispetto al tentativo proprio del discente, non solo di volume, ed è il motivo per cui gli interventi che bersagliano quando l'IA viene consultata si affiancano ai rimedi di progettazione della valutazione sotto.
 
-### Implicazioni e rimedi
+## Implicazioni e rimedi
 
 - **I [[guardrails|guardrail]] sull'accesso grezzo:** il [[prompt-engineering|prompting]] di tipo suggerimento-non-risposta e lo [[scaffolding|scaffolding]] autorevole dell'insegnante neutralizzano l'effetto stampella (vedi [[generative-ai-guardrails-harm-learning|la GenAI senza guardrail può danneggiare l'apprendimento]]).
 - **La [[assessment|progettazione della valutazione]]:** servono valutazioni resistenti all'IA e sorvegliate/non assistite per portare alla luce — e scoraggiare — l'uso improprio.
 - **Alfabetizzazione e metacognizione:** la formazione all'[[ai-literacy|alfabetizzazione sull'IA]] e all'[[self-regulated-learning|apprendimento autoregolato]] che aiuta gli studenti a riconoscere i modelli di affidamento e il costo del bypassare il proprio lavoro cognitivo.
 
-### Il disimpegno conversazionale nell'era degli LLM
+## Il disimpegno conversazionale nell'era degli LLM
 
 La letteratura sul gaming-the-system (abuso dei suggerimenti, indovinare sistematicamente) ha una controparte dell'era del dialogo: il disimpegno conversazionale — deridere l'agente, rispondere deliberatamente in modo errato, ignorarlo, specchiare il suo testo, o trattenere le risposte. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] danno a questo fenomeno il suo primo trattamento sistematico nel [[student-ai-interaction|dialogo studente-IA]], e la loro lezione centrale è interpretativa piuttosto che allarmistica. Un *turno* disimpegnato è una mossa interazionale, non uno stato stabile di disimpegno. L'apparente associazione del False Answering con i punteggi post-test non è sopravvissuta a un controllo di sensibilità con annotazione umana, e gli autori la leggono come una sonda *all'interno* di traiettorie che spesso tornano all'engagement (il cluster con le prestazioni più alte si è ripreso a p = 0,42). Il comportamento che separava effettivamente le traiettorie era il Withholding — il rifiuto di rispondere, che persisteva anziché risolversi. Per i progettisti questo inverte la priorità usuale: il disimpegno rumoroso e visibile è spesso auto-correttivo, mentre il ritiro silenzioso segnala che l'interazione si è rotta.
 

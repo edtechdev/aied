@@ -7,7 +7,7 @@ research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: "concepts/design-based-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

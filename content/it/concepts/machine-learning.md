@@ -6,7 +6,7 @@ confidence: medium
 created: "2026-10-14T22:05:00-04:00"
 translation_of: concepts/machine-learning
 updated: "2026-11-08T14:09:36-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

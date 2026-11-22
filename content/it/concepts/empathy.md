@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: "concepts/empathy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

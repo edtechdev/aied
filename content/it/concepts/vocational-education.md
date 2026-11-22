@@ -11,7 +11,7 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: "concepts/vocational-education"
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ I suoi vicini in questa knowledge base differiscono principalmente per ambito. [
 
 Ciò che è distintivo dell'IA nella VET è un divario tra ciò che il settore dice di volere e ciò che costruisce: la [[constructivist|teoria costruttivista]] è ampiamente professata mentre dominano i sistemi comportamentisti di esercitazione e pratica e i progetti basati sull'agenzia del discente restano rari. La domanda progettuale ricorrente non è se l'IA possa erogare istruzione, ma se possa assorbire le parti dell'apprendimento vocazionale costose da presidiare — scenari realistici, feedback tempestivo, controparti simulate, evidenze orali — senza soppiantare la pratica che produce competenza.
 
-### Come l'IA appare nell'istruzione e formazione professionale
+## Come l'IA appare nell'istruzione e formazione professionale
 
 - **Una base di evidenze giovane, frammentata e geograficamente concentrata.** La prima [[meta-analysis-systematic-review|revisione sistematica]] dell'IA nella VET ([[ai-vocational-education-training-review]]) ha identificato 26 studi empirici pubblicati tra il 2015 e il 2026 attraverso ERIC, Web of Science ed Elicit sotto le linee guida PRISMA: nove in domini tecnici, nove generali, cinque in amministrazione aziendale e tre in salute. Gli ambienti erano sei in aula, otto online, quattro misti e otto basati su simulazione — e nessuno in un luogo di lavoro, nonostante il carattere lavorativo della VET. Diciassette dei 26 provenivano dall'Asia; solo nove studi condividevano almeno un riferimento e nessuno citava gli altri. Cinque erano esperimenti randomizzati e 21 usavano progetti pre-sperimentali o quasi-sperimentali, misurando per lo più gli esiti immediatamente dopo l'intervento, e solo tre davano ai discenti un ruolo attivo in un progetto potenziato dall'IA. Gli autori avvertono di una "Turing Trap" educativa — usare l'IA per replicare l'istruzione umana piuttosto che aumentare il [[human-in-the-loop-ai|giudizio umano]] — e chiedono casi di fallimento e condizioni al contorno al posto della narrazione del successo prevalente.
 

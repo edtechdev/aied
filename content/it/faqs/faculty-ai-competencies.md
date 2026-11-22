@@ -8,7 +8,7 @@ audience: [faculty developers, instructors]
 level: [adult learning]
 updated: "2026-11-15T15:43:50-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

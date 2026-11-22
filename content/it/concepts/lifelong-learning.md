@@ -8,7 +8,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, person
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ connected_articles: [ai-adult-learning-guidelines-dis2026, ai-guided-learning-au
 
 L'apprendimento permanente si riferisce all'educazione continua lungo tutto l'arco della vita — potenziamento delle competenze, riqualificazione, [[educational-development|sviluppo professionale]] e apprendimento informale oltre i titoli formali. L'IA è sempre più centrale in questo ambito, sia come strumento che supporta chi apprende da adulto sia come forza che modifica le competenze che gli adulti devono aggiornare continuamente.
 
-### Come l'apprendimento permanente appare nella ricerca
+## Come l'apprendimento permanente appare nella ricerca
 
 - **Linee guida progettuali per l'apprendimento degli adulti:** [[ai-adult-learning-guidelines-dis2026|la ricerca dell'istituto AI-ALOE]] sintetizza linee guida progettuali fondate su evidenze empiriche per tecnologie di apprendimento degli adulti basate sull'IA, con enfasi su un supporto pratico e sensibile al contesto.
 - **Acquisizione di competenze guidata dall'IA:** [[ai-guided-learning-audiovideo-2026|l'apprendimento audio/video guidato dall'IA]] mostra come l'IA possa sostenere con impalcature le fasi di consumo–comprensione–imitazione dell'acquisizione di competenze, adattando i media a chi apprende.
@@ -52,7 +52,7 @@ L'apprendimento permanente si riferisce all'educazione continua lungo tutto l'ar
 - **Politiche e comunità:** le [[ai-lifelong-learning-policy|politiche sull'IA nell'apprendimento permanente]] e [[community-centered-ai-education-adults|l'educazione all'IA centrata sulla comunità]] affrontano le dimensioni istituzionali e di equità dell'apprendimento con l'IA degli adulti.
 - **La rigenerazione dell'expertise è essa stessa a rischio.** Nelle occupazioni statunitensi più esposte all'IA, i lavoratori di età compresa tra 22 e 25 anni hanno visto un calo occupazionale relativo del 16% (ottobre 2022–settembre 2025) mentre quelli tra 35 e 49 anni sono cresciuti di oltre l'8%, e l'expertise approfondita necessaria per validare gli output dell'IA dipende dai ruoli di livello base la cui diminuzione rimuove ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
-### Connessioni
+## Connessioni
 
 L'apprendimento permanente si collega all'[[adult-learning]] e alla [[professional-training]] (i suoi contesti primari), al [[personalized-learning]] e all'[[adaptive-learning]] (i meccanismi di IA che lo supportano), al [[self-regulated-learning]] e alla [[metacognition]] (i processi di chi apprende coinvolti), e all'[[equity-in-ai-education]] (l'accesso lungo l'arco della vita). Si interseca inoltre con l'[[educational-development]] quando gli educatori stessi sono chi apprende per tutta la vita.
 

@@ -35,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Domande da considerare
 
-1. Quando uno studente accetta una risposta dell'IA che casualmente è corretta, la lezione ha avuto successo? Cosa dovrebbe essere vero perché sia l'accettazione stessa a contare?
-2. Chi delega in modo calibrato e conosce i propri limiti è diverso in natura da uno studente che semplicemente non sa distinguere? In che modo [[teacher-role|un docente]] potrebbe cogliere la differenza in un singolo elaborato?
-3. Se la fiducia cresce mentre l'accuratezza cala — come avviene quando è disponibile un consiglio dell'IA — che effetto ha questo sul rilevamento degli errori da parte di chi apprende?
-4. Dove la verifica è insegnabile, e dove è un problema di carico di lavoro [[educational-policy-ai|politico]]? Quali parti di un [[curriculum-design|curricolo]] dovrebbero cambiare perché la verifica sia la norma anziché l'eccezione?
-5. Le istituzioni dovrebbero misurare affatto la resa, o misurarla invita la stessa sorveglianza con cui faticano le [[ai-use-disclosure|regole di dichiarazione]]?
-6. Come sarebbe un compito che premia uno studente per aver sovrascritto una risposta dell'IA errata piuttosto che per averne prodotta una rifinita?
+- Quando uno studente accetta una risposta dell'IA che casualmente è corretta, la lezione ha avuto successo? Cosa dovrebbe essere vero perché sia l'accettazione stessa a contare?
+- Chi delega in modo calibrato e conosce i propri limiti è diverso in natura da uno studente che semplicemente non sa distinguere? In che modo [[teacher-role|un docente]] potrebbe cogliere la differenza in un singolo elaborato?
+- Se la fiducia cresce mentre l'accuratezza cala — come avviene quando è disponibile un consiglio dell'IA — che effetto ha questo sul rilevamento degli errori da parte di chi apprende?
+- Dove la verifica è insegnabile, e dove è un problema di carico di lavoro politico? Quali parti di un [[curriculum-design|curricolo]] dovrebbero cambiare perché la verifica sia la norma anziché l'eccezione?
+- Le istituzioni dovrebbero misurare affatto la resa, o misurarla invita la stessa sorveglianza con cui faticano le [[ai-use-disclosure|regole di dichiarazione]]?
+- Come sarebbe un compito che premia uno studente per aver sovrascritto una risposta dell'IA errata piuttosto che per averne prodotta una rifinita?
 
 ## Introduzione
 

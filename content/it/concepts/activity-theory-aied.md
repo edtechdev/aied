@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway
 
 ## Introduzione
 
-### Il concetto
+## Il concetto
 
 La teoria dell'attività discende dalla psicologia culturale-storica di Vygotskij e Leont'ev (con il successivo sviluppo di Engeström) ed è un filone centrale della più ampia tradizione [[sociocultural-learning|socioculturale]]. La sua affermazione centrale è che l'attività umana non è riducibile alla cognizione individuale o all'uso isolato di strumenti; essa è un **sistema collettivo, orientato all'oggetto e mediato da strumenti**. Il modello canonico di Engeström di un sistema di attività comprende sei elementi interagenti:
 
@@ -56,7 +56,7 @@ Una caratteristica definente è la **contraddizione**: i sistemi di attività co
 
 Il posto degli strumenti è quello che l'IA generativa mette sotto tensione. Un saggio socioculturale del 2026 sostiene che un [[llm|LLM]] media l'attività e al contempo genera contributi contingenti che ne rimodellano la traiettoria, per cui chiamarlo strumento sottostima la sua influenza, mentre chiamarlo collaboratore gli attribuisce intenzionalità, responsabilità e appartenenza alla comunità che non possiede ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate e Ritchie, 2026]]). Il loro *agente mediatorio* si colloca nella posizione dello strumento senza occupare una posizione nella comunità, il che significa che la divisione del lavoro deve essere analizzata attorno ai contributi e non soltanto agli strumenti.
 
-### Perché la teoria dell'attività conta per l'IA nell'educazione
+## Perché la teoria dell'attività conta per l'IA nell'educazione
 
 L'IA introduce nuovi **strumenti/artefatti mediatori** nei sistemi di attività educativa esistenti, il che produce sia opportunità sia contraddizioni. La teoria dell'attività dà alla ricerca AIED un vocabolario e un metodo per analizzare questi cambiamenti:
 
@@ -70,11 +70,11 @@ L'IA introduce nuovi **strumenti/artefatti mediatori** nei sistemi di attività 
 - **Disciplinarietà e variazione tra contesti.** Poiché i sistemi di attività sono storicamente e culturalmente situati, la teoria dell'attività spiega perché lo stesso strumento di IA produca esiti diversi tra discipline e contesti — ogni disciplina funzionando come un sistema di attività con proprie regole, comunità e divisione del lavoro [[jiang-genai-activity-theory-disciplines-2026|(ad esempio le differenze nell'uso e nella dichiarazione della GenAI tra gli studenti di laurea nei diversi ambiti accademici)]].
 - **Uno strumento, due sistemi di attività, penetrazione irregolare.** Tra dieci accademici di matematica analizzati attraverso la CHAT, la GenAI è rimasta uno strumento periferico nel sistema di attività della ricerca, mentre rimodellava il ruolo del docente verso mediatore del [[critical-thinking|ragionamento critico]] nell'insegnamento, con l'adozione che si diffondeva attraverso l'uso degli studenti e le reti tra pari piuttosto che attraverso la politica [[governance|istituzionale]] ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
-### La teoria dell'attività e i framework correlati
+## La teoria dell'attività e i framework correlati
 
 La teoria dell'attività si colloca nella famiglia [[sociocultural-learning|socioculturale]] ed è spesso abbinata a, o contrapposta a, altri framework: la **[[distributed-cognition|cognizione distribuita]]** e l'**[[situated-learning|apprendimento situato]]** condividono la sua enfasi sul contesto e la mediazione; la **[[community-of-inquiry|comunità di indagine]]** e le comunità di pratica condividono il suo orientamento collettivo; e i modelli di **technology-acceptance** (ad esempio il [[technology-acceptance-model|TAM]]) offrono un resoconto contrastante e più individuale dell'adozione, che la teoria dell'attività critica per l'appiattimento delle dimensioni collettive e strutturali. Nella ricerca AIED, la teoria dell'attività è frequentemente combinata con altre teorie — ad esempio abbinata alla [[self-determination-theory|Teoria dell'Autodeterminazione]] nella progettazione degli interventi di sviluppo professionale dei docenti, o con la teoria dei sistemi ecologici nei framework di etica dell'IA situata [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
 
-### Temi chiave di ricerca
+## Temi chiave di ricerca
 
 - **Come l'IA ridistribuisce la divisione del lavoro** nei sistemi di attività dell'insegnamento, dell'apprendimento e della ricerca.
 - **Le contraddizioni sistemiche** come motori del cambiamento delle norme e della trasformazione espansiva nell'educazione aumentata dall'IA.
@@ -83,7 +83,7 @@ La teoria dell'attività si colloca nella famiglia [[sociocultural-learning|soci
 - **Gli analytics ancorati alla teoria** che fondano la misurazione negli elementi del sistema di attività.
 - **L'oggetto dell'attività mediata dall'IA** — se l'oggetto dell'apprendimento si sposti dalla padronanza all'output, e cosa ciò significhi per gli [[learning-gains|esiti di apprendimento]].
 
-### Implicazioni pratiche
+## Implicazioni pratiche
 
 Per progettisti ed educatori, la teoria dell'attività consiglia di guardare oltre lo strumento di IA stesso all'intero sistema di attività in cui esso entra: le regole che governano l'uso accettabile, la comunità e le sue norme, la divisione del lavoro tra umano e macchina, e l'oggetto/motivo dell'attività. L'integrazione sostenibile dell'IA richiede di *riprogettare il sistema* — affrontare le contraddizioni, aggiornare le norme e riequilibrare i ruoli — non semplicemente fornire strumenti migliori o formazione individuale. Per i ricercatori, la teoria dell'attività offre un'unità di analisi rigorosa (il sistema di attività, non l'individuo) e un metodo (intervento [[formative-assessment|formativo]], analisi delle contraddizioni) per studiare e plasmare il ruolo dell'IA nell'educazione.
 

@@ -14,7 +14,7 @@ page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
 updated: "2026-10-31T06:30:00-04:00"
-source_updated: "2026-10-28T18:24:42-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

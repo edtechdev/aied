@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: "concepts/affective-computing"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 
 ## Introduzione
 
-### Percepire l'emozione per adattare l'insegnamento
+## Percepire l'emozione per adattare l'insegnamento
 
 L'affective computing mira a rendere i sistemi di IA emotivamente consapevoli, così che possano rispondere a come si sente chi apprende, non solo a ciò che fa. In educazione questo significa percepire frustrazione, confusione, fiducia, noia o engagement e adattare l'insegnamento di conseguenza. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] dimostra l'approccio modellando l'affetto a partire da due modalità — il testo conversazionale e l'espressione facciale in tempo reale — e mappando lo stato emotivo aggregato su strategie [[pedagogy|pedagogiche]] prima di [[prompt-engineering|formulare il prompt]] per il tutor.
 
@@ -48,7 +48,7 @@ I segnali stessi sono ambigui: un singolo canale espressivo non può distinguere
 
 - **Supporto emotivo e riflessivo di un LLM nella matematica della scuola media:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] hanno stratificato la mindfulness su un [[intelligent-tutoring|tutor]] di algebra per alunni di settima classe attraverso chat dinamiche, esercizi di respirazione e un linguaggio di feedback sugli errori improntato alla mindfulness. In un piccolo [[rct]] in classe (42 completanti su 252 partecipanti) la versione mindfulness ha raggiunto un apprendimento dell'algebra simile in meno tempo e con un minor numero di hint richiesti rispetto al solo supporto cognitivo — maggiore efficienza di apprendimento e [[help-seeking|richiesta di aiuto]] più equilibrata — benché la riduzione dell'ansia verso la matematica legata allo stato non differisse in modo significativo tra le condizioni.
 
-### I benefici e i rischi
+## I benefici e i rischi
 
 Il tutoring emotivamente consapevole può produrre guadagni misurabili, ma la stessa sofisticatezza comporta rischi:
 
@@ -56,7 +56,7 @@ Il tutoring emotivamente consapevole può produrre guadagni misurabili, ma la st
 - **Rischi.** Un'automazione dall'apparenza empatica può favorire [[cognitive-offloading|l'affidamento eccessivo]] e dipendenze parasociali, mascherare un genuino [[metacognition|disimpegno metacognitivo]] e sollevare preoccupazioni relative alla [[privacy]] derivanti dal monitoraggio affettivo continuo. [[ai-sycophancy|L'adulazione dell'IA]] è un rischio affettivo centrale: un'IA emotivamente compiacente che conferma anziché sfidare può erodere il giudizio critico e persino sostituirsi alle relazioni umane reali — [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] mostrano che un'IA adulatrice ha portato gli utenti a cercare consigli personali dall'IA quasi con la stessa frequenza con cui li cercavano presso amici stretti e familiari, con una soddisfazione inferiore nell'interazione nel mondo reale. [[ai-fatigue-academic-contexts]] e [[ai-campus-wellbeing-tools]] collegano ulteriormente l'IA affettiva al [[well-being|benessere]] di chi apprende.
 - **L'engagement non è un proxy dell'apprendimento.** Uno studio con sensori cerebrali ha separato engagement e apprendimento: un'interfaccia vincolata e adattiva aumentava l'engagement cognitivo (p = .018) mentre il chatbot senza vincoli produceva maggiori [[learning-gains|guadagni di apprendimento]] (p < .03, d > 0.80), per cui un segnale affettivo può disallinearsi dall'esito che serve ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
-### L'affective computing e il più ampio ambito dell'AIED
+## L'affective computing e il più ampio ambito dell'AIED
 
 L'affective computing si trova all'intersezione tra [[affective-tutoring]] (la sua applicazione pedagogica), [[student-modeling]] (rappresentare l'intera persona che apprende, emozione inclusa) e [[learning-analytics]] (derivare segnali dai dati di chi apprende). Si collega alla progettazione dell'[[intelligent-tutoring]] e alla [[pedagogical-safety]] — il principio per cui l'IA dovrebbe sostenere, non manipolare, l'emozione di chi apprende.
 

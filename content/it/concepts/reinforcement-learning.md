@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: "concepts/reinforcement-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -40,11 +40,11 @@ connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teachin
 
 ## Introduzione
 
-### Come funziona l'apprendimento per rinforzo nell'AIED
+## Come funziona l'apprendimento per rinforzo nell'AIED
 
 L'apprendimento per rinforzo (RL) addestra un agente ricompensando il comportamento desiderato — l'agente apprende una policy che massimizza la ricompensa cumulativa attraverso tentativi ed errori. Nell'[[ai-education|IA per l'istruzione]], l'RL è usato per addestrare agenti tutor e compagni di apprendimento le cui decisioni si concatenano nell'arco di una sessione — quale suggerimento dare, quando aumentare la difficoltà, come gestire il ritmo della pratica — anziché risolvere una risposta alla volta. Questo rende l'RL particolarmente adatto all'[[adaptive-learning]] e all'[[intelligent-tutoring]], dove contano le decisioni pedagogiche a lungo orizzonte.
 
-### Applicazioni documentate nella knowledge base
+## Applicazioni documentate nella knowledge base
 
 - **RL allineato alla pedagogia.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa una pipeline RL-SFT-RL per addestrare un modello che *guida* anziché rispondere, allineando la ricompensa agli obiettivi pedagogici; [[special-r1-rl-special-education]] applica l'RL alla progettazione di tutor per la [[special-education]].
 - **L'RL batte il supervised fine-tuning nell'istruzione pedagogica.** L'addestramento di LearnLM ha rilevato che l'RL basato sulle preferenze è significativamente più efficace del solo SFT, perché i giudizi di preferenza catturano distinzioni dipendenti dal contesto nelle conversazioni lunghe che i dati supervisionati etichettati per istruzioni gestiscono solo in parte ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
@@ -54,11 +54,11 @@ L'apprendimento per rinforzo (RL) addestra un agente ricompensando il comportame
 
 - **RL a lungo orizzonte, pesato sulla sicurezza.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] ottimizza interi incontri clinici di 60 turni — ben oltre gli orizzonti di ≤12 turni dei [[conversational-ai|sistemi di dialogo]] contemporanei — e l'addestramento contro pazienti simulati avversariali con una ricompensa allineata alla sicurezza ha aumentato l'accuratezza diagnostica del 7,0% e ridotto di circa un terzo i tassi di mancato riconoscimento dei segnali di allarme.
 
-### Evidenze nel campo
+## Evidenze nel campo
 
 Una revisione sistematica dell'RL nell'istruzione secondo lo standard [[meta-analysis-systematic-review|PRISMA]] ([[riedmann-reinforcement-learning-education-review-2026|systematic review of RL in education (Riedmann, Schaper & Lugrin, 2025)]]) ha sintetizzato 89 studi (2000–2024), rilevando una netta crescita post-2016 delle applicazioni di [[adaptive-learning]] e [[intelligent-tutoring|tutoristica]] concentrate nelle discipline STEM (in particolare la [[math-education]]). Riporta che l'RL model-free ha dominato (n = 72) con il Q-learning come algoritmo più comune, eppure l'RL classico è stato più coerentemente efficace del Deep RL (61% contro 36% degli articoli che mostrano una superiorità significativa). L'adattamento si è diviso in meccanismi di schedulazione dei contenuti (n = 53) e legati alla guida (n = 36), , con l'RL che batte le baseline più spesso sulla guida, e il guadagno di apprendimento — in particolare il guadagno di apprendimento normalizzato — è stata la fonte di ricompensa più efficace. La revisione avverte inoltre che oltre la metà degli studi (n = 54) ha saltato i test statistici, quindi la crescita del campo ha superato il suo rigore metodologico.
 
-### Connessione con la knowledge base
+## Connessione con la knowledge base
 
 L'RL è alla base di gran parte della progettazione moderna dell'[[agentic-ai]] e dell'[[intelligent-tutoring]], dove l'agente deve ottimizzare l'apprendimento a lungo termine anziché una singola risposta corretta. Si collega alla [[llm-training-and-fine-tuning]] (l'RL come metodo di addestramento), allo [[scaffolding]] (il progetto della ricompensa che preserva la lotta produttiva) e all'[[self-regulated-learning]] (agenti che aiutano chi apprende a regolare la propria strategia). Poiché il progetto della ricompensa codifica valori educativi, la ricerca sull'RL nell'AIED è strettamente legata alla [[pedagogical-safety]] e alle considerazioni di equità di un comportamento del tutor [[equity-in-ai-education|equo]].
 

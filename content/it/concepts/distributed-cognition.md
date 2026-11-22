@@ -7,7 +7,7 @@ foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari
 
 Questo è un concetto di teoria dell'apprendimento all'interno del filone [[learning-theories]] della base di conoscenza, strettamente correlato a [[embodied-learning]], [[situated-learning]] e [[cognitive-offloading]]. La cognizione distribuita (DCog), originatasi nel lavoro di Edwin Hutchins e colleghi, descrive come processi cognitivi come memoria, ragionamento e [[problem-solving]] siano distribuiti tra molteplici agenti e sistemi materiali anziché risiedere in una sola testa. Nell'[[ai-education|educazione con IA]] questo conta perché i sistemi di IA funzionano sempre più come autentici partner cognitivi che portano parte del carico di pensiero, sollevando la domanda su *dove* l'apprendimento avvenga effettivamente e su *chi* ne sia responsabile.
 
-### Come l'IA sposta la distribuzione della cognizione
+## Come l'IA sposta la distribuzione della cognizione
 
 I sistemi di IA generativa e interattiva ridistribuiscono il lavoro cognitivo in modi in cui strumenti precedenti non lo facevano. La base di conoscenza documenta diverse dimensioni di questo spostamento:
 
@@ -56,7 +56,7 @@ I sistemi di IA generativa e interattiva ridistribuiscono il lavoro cognitivo in
 
 - **La cognizione estesa come scelta di design, non come proprietà dello strumento.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa e Duarte Arias (2026)]] sostengono che l'IA generativa sia sostitutiva per impostazione predefinita perché svolge il compito cognitivo, ma lo stesso sistema diventa complementare quando critica una bozza o fornisce un feedback che il discente deve valutare. Il loro quadro della mente estesa rende unità di analisi l'artefatto più il suo uso, che è la versione normativa della domanda di distribuzione di questa pagina.
 
-### Cognizione distribuita e prospettive correlate
+## Cognizione distribuita e prospettive correlate
 
 La base di conoscenza tratta la cognizione distribuita insieme alle tradizioni teoriche vicine, che si sovrappongono ma non sono identiche:
 
@@ -65,11 +65,11 @@ La base di conoscenza tratta la cognizione distribuita insieme alle tradizioni t
 - **[[cognitive-offloading]]** è il meccanismo pratico con cui il lavoro cognitivo viene trasferito a sistemi esterni (inclusa l'IA), ed è la controparte carica di rischi rispetto al resoconto descrittivo della DCog.
 - **Cognizione estesa / tesi della mente estesa** (usata nel lavoro postumanista) sostiene che gli artefatti esterni possono essere parti *costitutive* di un sistema cognitivo, non meri strumenti — un'affermazione più forte, che l'IA è parte della mente stessa del discente.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Di chi è la cognizione? Il problema dell'unità di analisi
+## Di chi è la cognizione? Il problema dell'unità di analisi
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] spinge quella domanda sull'unità di analisi più a fondo della maggior parte del lavoro in questa tradizione. La sua tesi è che l'alfabetizzazione non sia un possesso individuale ma qualcosa che si attua con materiali e macchine, il che rende il singolo discente l'unità di analisi sbagliata. Un quadro di competenze centrato sulla persona non può quindi registrare i contributi infrastrutturali o non umani, così il campo continua a nominare la distribuzione e poi a risolverla di nuovo sul discente. Il margine di equità è il suo argomento sulla difficoltà: la riflessività dipende dall'esperienza vissuta e dalle relazioni di potere, quindi gli studenti le cui pratiche linguistiche o di scrittura stanno più lontane dalla norma codificata portano il costo maggiore. L'argomento è teorico e non riporta alcun dataset, e i suoi orientamenti di design restano proposte non testate.
 
-### Perché conta per il design e la valutazione dell'IA
+## Perché conta per il design e la valutazione dell'IA
 
 La cognizione distribuita fornisce sia una lente di design sia una lente di valutazione. Per il design, chiede come ripartire il lavoro cognitivo tra discenti e IA per preservare (non erodere) l'agenzia, la [[metacognition]] e l'auto-regolazione del discente umano. Per la valutazione, riformula le metriche di successo: anziché chiedere solo "la performance è migliorata?", la DCog chiede se la distribuzione della cognizione supporti apprendimento duraturo, agenzia epistemica e giustizia educativa — una prospettiva che si collega alle preoccupazioni della base di conoscenza su [[ai-ed-evaluation]] e [[learning-theories]].
 

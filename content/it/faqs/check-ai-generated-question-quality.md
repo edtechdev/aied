@@ -24,7 +24,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-Chiedi venti domande dai tuoi appunti delle lezioni. Te le restituiscono con chiavi di risposta, spiegazioni, etichette di difficoltà e categorie della tassonomia di Bloom, in un documento formattato che sembra finito. Il tuo nome sta per finirci sopra.
+Chiedi venti domande dai tuoi appunti delle lezioni. Te le restituiscono con chiavi di risposta, spiegazioni, etichette di difficoltà e categorie della [[bloom-taxonomy|tassonomia di Bloom]], in un documento formattato che sembra finito. Il tuo nome sta per finirci sopra.
 
 Ecco la risposta breve: le domande generate sono candidate, non una valutazione. Risolvi ogni domanda da solo, controlla cosa l'item chiede davvero di fare a uno studente e scopri come gli studenti vi rispondono prima che conti. Nei due studi più ampi, il segnale interessante non è che la generazione funziona, ma dove fallisce. Una generazione iterativa dentro un flusso di lavoro specifico per il corso ha prodotto esami a scelta multipla utilizzabili in 71 corsi universitari ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In un audit di scienza dei dati su 311 domande somministrate, le etichette di difficoltà del modello seguivano quasi perfettamente i livelli di Bloom che aveva generato insieme a esse (ρ di Spearman = 0,90) mentre seguivano il punteggio effettivo degli studenti a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). L'etichetta era una descrizione del prompt, non una misura dell'item.
 

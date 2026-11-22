@@ -8,7 +8,7 @@ pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: "concepts/embodied-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T13:30:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 L'apprendimento incarnato è strettamente correlato all'[[active-learning|apprendimento attivo]], all'[[experiential-learning|apprendimento esperienziale]] e alle teorie situate/[[constructivist|costruttiviste]]. L'affermazione chiave è che un agente fisico e manipolabile aiuta chi apprende a collegare idee astratte a esiti concreti — un programma che fa muovere un robot, o un gioco di ruolo con un robot fisico — in modi che una pura interazione su schermo può non consentire. La robotica è l'incarnazione più chiara dell'IA in educazione, dando a chi apprende qualcosa da vedere, toccare e osservare.
 
-### Come l'apprendimento incarnato appare nella ricerca della knowledge base
+## Come l'apprendimento incarnato appare nella ricerca della knowledge base
 
 - **Programmazione fondata:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] fonda la [[cs-education|programmazione a blocchi]] nell'esecuzione incarnata del robot, creando un ciclo stretto di authoring, esecuzione, osservazione e revisione così che chi apprende veda il proprio codice diventare comportamento.
 - **Interazione socio-robotica:** i [[educational-robotics|robot sociali]] usati per lo [[storytelling-in-education|storytelling]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), il gioco di ruolo ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) e la lingua dei segni ([[pepper-robot-sign-language-lis-2025|Pepper]]) forniscono interazione sociale incarnata che sostiene l'apprendimento relazionale ed [[social-emotional-learning|emotivo]].
@@ -55,7 +55,7 @@ L'apprendimento incarnato è strettamente correlato all'[[active-learning|appren
 
 - **La letteratura più corporea misura meno il corpo.** Di 32 etichette di esito, gli esiti cognitivi prendevano il 43,8%, quelli affettivi il 34,4% e quelli psicomotori il 21,9%, un ordinamento che reggeva tra i 16 paper con valutazione più alta (24,0% di 25 etichette). Gli autori attribuiscono la cosa alla difficoltà di selezionare misure psicomotorie e all'abitudine di privilegiare i guadagni cognitivi, non a un effetto debole sulle abilità corporee. Nessuno dei sistemi esaminati era progettato per discenti che agiscono insieme; la collaborazione che appare è cooperazione tra [[teacher-role|insegnante]] e IA ([[kim-ai-embodied-learning-review-2026|Kim e Han (2026)]]).
 
-### Intelligenza incarnata e la critica dell'IA disincarnata
+## Intelligenza incarnata e la critica dell'IA disincarnata
 
 Un secondo filone, più teorico, della ricerca della knowledge base sull'incarnazione riguarda il ruolo del *corpo* nell'apprendimento mediato dall'IA-[[sociocultural-learning|socioculturale]] — non attraverso robot fisici, ma attraverso la domanda se i [[ai-technologies|sistemi di IA]] stessi siano (o possano essere) incarnati. Questo lavoro contesta il dominio dei modelli di IA simbolica e disincarnata costruiti sull'elaborazione astratta dell'informazione:
 

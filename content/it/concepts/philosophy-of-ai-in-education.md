@@ -8,7 +8,7 @@ pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 Questa è una pagina concettuale sui fondamenti filosofici e teorici dell'[[ai-education|IA nell'educazione]]. Mentre le [[learning-theories]] documentano le teorie empiriche e orientate alla progettazione ([[behaviorism|comportamentismo]], [[constructivist|costruttivismo]], [[cognitive-offloading|carico cognitivo]], [[self-regulated-learning|apprendimento autoregolato]], ecc.), il filone filosofico affronta le questioni ontologiche, epistemologiche ed etiche che quelle teorie presuppongono. I due sono strettamente connessi: le posizioni filosofiche plasmano quali teorie dell'apprendimento appaiano plausibili e quali obiettivi educativi valga la pena perseguire.
 
-### Le principali questioni filosofiche
+## Le principali questioni filosofiche
 
 - **La natura della mente e della cognizione.** Pensare richiede coscienza e un corpo? L'IA può partecipare a processi genuinamente cognitivi? Framework come la **cognizione d'insieme** sostengono che l'IA eserciti *agentività funzionale* — genuina efficacia causale nei processi cognitivi — senza coscienza, e che il pensiero emerga dall'interazione dinamica uomo–[[student-ai-interaction|IA]]. ([[ensemble-cognition-philosophy-ai-education]]) La [[distributed-cognition|cognizione distribuita]] e la tesi della mente estesa avanzano affermazioni analoghe sul fatto che la cognizione si estenda attraverso sistemi.
 - **Chi è lo studente?** La filosofia postumanista riconcettualizza lo studente come un'entità "post-umana" i cui processi cognitivi sono genuinamente ibridi e distribuiti tra sistemi [[biology-education|biologici]] e artificiali. ([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Questo sfida l'assunzione che lo studente sia una mente individuale autonoma e delimitata.
@@ -59,11 +59,11 @@ Questa è una pagina concettuale sui fondamenti filosofici e teorici dell'[[ai-e
 - **Agentività senza rispondibilità.** Un'analisi del discorso assistita da corpus di 366 abstract sull'istruzione superiore relativi alla GenAI rileva che l'[[generative-ai|IA]] è nominata 2.050 volte ed entra in 447 associazioni strette attore–predicato — l'attore più frequente del campo — eppure i predicati d'azione le dominano (78,7%) e nessuna frase rende un sistema responsabile: su 166 espressioni di obbligo, nessuna attribuisce responsabilità a un sistema, e l'unica clausola che collega l'IA alla responsabilità dice che l'IA non è responsabile. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] legge questo come agentività funzionale riconosciuta nel linguaggio senza la responsabilità relazionale che la legherebbe a qualcuno.
 **Né strumento né collaboratore: l'agente mediazionale.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate e Ritchie (2026)]] sostengono che chiamare l'IA generativa un mero strumento ne sminuisce l'influenza interazionale, mentre chiamarla una collaboratrice le attribuisce erroneamente intenzionalità e responsabilità, e propongono l'*agente mediazionale* — un sistema responsivo e non responsabile la cui novità è la partecipazione anziché l'intelligenza.
 
-### Relazione con le teorie dell'apprendimento
+## Relazione con le teorie dell'apprendimento
 
 La filosofia dell'IA nell'educazione e le [[learning-theories]] sono lenti complementari. Le teorie dell'apprendimento spiegano i meccanismi dell'apprendimento (ad esempio, come [[feedback]], [[scaffolding]] o il carico cognitivo plasmino gli esiti); la filosofia interroga i presupposti di quei meccanismi — che cosa conta come conoscenza, chi conta come conoscente, e che cosa sia fondamentalmente lo studente. In particolare il lavoro postumanista e critico-filosofico sfida il campo ad andare oltre i framework strumentalisti come [[tpack]] e SAM, verso una più profonda riorientazione ontologica. ([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Relazione con lo sviluppo della teoria
+## Relazione con lo sviluppo della teoria
 
 La filosofia dell'IA nell'educazione e lo [[theory-development-aied|sviluppo della teoria nell'AIEd]] sono complementari ma distinti. La filosofia pone le domande ontologiche ed epistemologiche — che cosa siano fondamentalmente mente, conoscenza e studente in condizioni mediate dall'IA — mentre lo sviluppo della teoria produce e testa empiricamente i *meccanismi* che rendono operative le risposte a quelle domande (generativismo, co-agentività epistemica, la baseline cognitiva assente). I due si informano reciprocamente: la filosofia chiarisce i presupposti che le teorie portano con sé (ad esempio, la [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agentività epistemica]] presume un modello di cognizione distribuito e non individualista), mentre lo sviluppo della teoria dà forma verificabile e falsificabile alle posizioni filosofiche. Gli articoli più fondamentali del campo fanno entrambe le cose insieme, collocandosi al confine tra i due concetti.
 

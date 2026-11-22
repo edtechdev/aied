@@ -37,7 +37,7 @@ connected_concepts: [academic-integrity, metacognition, writing-education, self-
 
 ## Cosa puoi farci
 
-Un docente può visualizzare il report di un singolo studente o caricarne centinaia in una volta dalla dashboard, e gli studenti possono consultare i propri report e [[metacognition|riflettere]] su di essi. Funziona in Google Docs tramite un'estensione per browser, nello spazio di scrittura proprio del progetto e negli editor degli LMS come Canvas, con integrazione LTI disponibile; un report può anche essere scaricato in PDF e caricato su qualsiasi piattaforma. Il progetto pubblica domande di riflessione per guidare l'autovalutazione dello studente, indicazioni su come leggere gli schemi di uso dell'IA e guide per i docenti.
+Un docente può visualizzare il report di un singolo studente o caricarne centinaia in una volta dalla dashboard, e gli studenti possono consultare i propri report e [[reflection|riflettere]] su di essi. Funziona in Google Docs tramite un'estensione per browser, nello spazio di scrittura proprio del progetto e negli editor degli LMS come Canvas, con integrazione LTI disponibile; un report può anche essere scaricato in PDF e caricato su qualsiasi piattaforma. Il progetto pubblica domande di riflessione per guidare l'autovalutazione dello studente, indicazioni su come leggere gli schemi di uso dell'IA e guide per i docenti.
 
 ## A chi è rivolto
 

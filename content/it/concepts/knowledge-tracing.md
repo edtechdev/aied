@@ -8,7 +8,7 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, huang-
 
 Il knowledge tracing trasforma le risposte grezze agli esercizi in stime di ciò che uno studente ha padroneggiato e di ciò che deve ancora imparare. A differenza del semplice tracciamento della correttezza, il knowledge tracing modella la dinamica temporale dell'apprendimento — quando la conoscenza viene acquisita, quando decade e come i concetti si relazionano tra loro.
 
-### Approcci rappresentati nella knowledge base
+## Approcci rappresentati nella knowledge base
 
 - **Approcci bayesiani:** [[stanbkt-bayesian-knowledge-tracing]] standardizza le implementazioni BKT, mentre [[mbp-kt-meta-behavioral-knowledge-tracing]] incorpora segnali meta-comportamentali
 
@@ -66,7 +66,7 @@ Il knowledge tracing trasforma le risposte grezze agli esercizi in stime di ciò
 
 - **La granularità delle componenti di conoscenza è essa stessa una decisione di modellizzazione.** [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny e Meurers (2026)]] hanno confrontato 19 modelli di componenti di conoscenza su 11 livelli di una gerarchia di tutoraggio linguistico, su 153.819 risposte di primo tentativo di 1.059 studenti di seconda media. Il vincitore dipende dal bersaglio di predizione: l'ID di elemento actionable a grana fine guidava la predizione bloccata per studente (RMSE 0,4083), mentre l'ID di proprietà semanticamente fondato più il tipo di esercizio guidava la predizione bloccata per item (RMSE 0,4243). Gli identificatori a grana fine mostravano anche tassi di apprendimento medi quasi nulli (ID di elemento actionable 0,000).
 
-### Relazione con altri concetti
+## Relazione con altri concetti
 
 Il knowledge tracing è strettamente correlato alla [[student-modeling|modellazione dello studente]] — mentre il knowledge tracing modella specificamente la conoscenza cognitiva nel tempo, la modellazione dello studente è la pratica più ampia di rappresentare tutti gli aspetti di uno studente (stato [[affective-computing|affettivo]], [[student-engagement|coinvolgimento]], preferenze). Il knowledge tracing alimenta i sistemi di [[adaptive-learning|apprendimento adattivo]] e di [[personalized-learning|apprendimento personalizzato]] che devono sapere cosa insegnare dopo, e le piattaforme di [[intelligent-tutoring|tutoraggio intelligente]] che usano le stime di padronanza per selezionare i problemi appropriati. Si collega ai [[learning-analytics|learning analytics]] per la progettazione di dashboard e interventi, e alla [[cognitive-diagnosis|diagnosi cognitiva]] per la [[assessment|valutazione]] fine delle abilità. I costrutti del knowledge tracing informano anche gli [[simulating-students|studenti simulati]] — lo stato cognitivo di uno studente simulato è spesso formalizzato con le stesse dinamiche di padronanza/decadenza che i modelli di knowledge tracing modellano, quindi la [[simulation]] è un modo di *generare* gli stati di conoscenza che i metodi di tracing normalmente *inferiscono* dai dati reali di risposta.
 

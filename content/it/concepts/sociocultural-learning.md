@@ -8,7 +8,7 @@ pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learnin
 technology: [generative-ai]
 confidence: high
 translation_of: "concepts/sociocultural-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-media
 
 ## Introduzione
 
-### Il concetto
+## Il concetto
 
 La teoria socioculturale (Vygotskij, 1978; Lurija; Leont'ev) sostiene che le funzioni mentali superiori si sviluppano attraverso la partecipazione ad attività culturalmente organizzate. Diversamente dalle teorie che collocano l'apprendimento esclusivamente nell'elaborazione dell'informazione da parte dell'individuo, la prospettiva socioculturale sottolinea che:
 
@@ -46,13 +46,13 @@ La teoria socioculturale (Vygotskij, 1978; Lurija; Leont'ev) sostiene che le fun
 - **L'apprendimento è sociale.** Le funzioni mentali superiori compaiono prima fra le persone (intersoggettivamente, nell'interazione) e solo successivamente nell'individuo. L'apprendimento sorge attraverso la partecipazione con [[teacher-role|insegnanti]], pari e comunità — in processi come lo [[scaffolding|supporto]], l'apprendistato e il movimento attraverso la ZPD.
 - **La [[distributed-cognition|cognizione è distribuita]].** Il lavoro cognitivo è distribuito fra persone, artefatti e ambienti (Hutchins; Clark & Chalmers; Pea), anziché essere contenuto nella mente individuale. La [[distributed-cognition|cognizione distribuita]], l'[[situated-learning|apprendimento situato]] e le comunità di pratica estendono il filone socioculturale.
 
-### La Zona di Sviluppo Prossimale (ZPD)
+## La Zona di Sviluppo Prossimale (ZPD)
 
 La ZPD (Vygotskij) è il concetto socioculturale più ampiamente applicato nel [[intelligent-tutoring|tutoraggio IA]]: lo spazio fra ciò che chi apprende può fare da solo e ciò che può fare con assistenza. L'apprendimento avviene con maggiore efficacia quando l'istruzione mira a questa zona — abbastanza sfidante da spingere lo sviluppo, abbastanza supportata da permettere il progresso. È il fondamento teorico dello [[scaffolding|supporto]]: un sostegno temporaneo e regolabile, ritirato man mano che la competenza cresce. Nell'IA nell'educazione, la ZPD inquadra la questione progettuale centrale di quanto supporto un [[intelligent-tutoring|tutor IA]] debba fornire, perché l'apprendimento avanzi senza che la risposta venga rivelata — si veda [[stanford-evidence-base-ai-k12-2026]].
 
 L'aiuto prodotto dalla macchina può cadere dentro quella zona. In uno studio randomizzato su 274 [[adult-learning|studenti adulti]] attraverso quattro materie matematiche, i suggerimenti con soluzione svolta generati da ChatGPT hanno prodotto un guadagno pre-post del 17,00% contro l'1,85% senza suggerimenti, mentre i suggerimenti scritti da tutor umani hanno prodotto l'11,62%; le due condizioni di aiuto non erano statisticamente separabili ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos e Bhandari, 2024]]). Il tasso di errore qualifica l'equivalenza: il 32% dei suggerimenti generati falliva i controlli di qualità finché il [[prompt-engineering|prompting]] di auto-coerenza non lo ha ridotto quasi a zero nelle tre materie algebriche e al 13% in statistica. Un altro più competente che sbaglia una volta su tre resta comunque un agente mediatore, ed è per questo che il contributo della macchina va verificato prima che chi apprende vi costruisca sopra.
 
-### L'apprendimento socioculturale nell'educazione all'IA
+## L'apprendimento socioculturale nell'educazione all'IA
 
 La teoria socioculturale plasma la [[research-methods-aied|ricerca]] AIED in diversi modi distinti:
 
@@ -72,7 +72,7 @@ La teoria socioculturale plasma la [[research-methods-aied|ricerca]] AIED in div
 
 - **Validare le misure del discorso richiede i giovani il cui discorso viene misurato.** Ri-contestualizzare le definizioni di mosse del discorso con quattro studenti focali ha aumentato la F1 di classificazione dell'[[llm|LLM]] di +0,104 per Claim e +0,23 per Question, e le interpretazioni degli studenti stessi divergono dalle inquadrature degli adulti e del modello — un limite strutturale della classificazione testuale, non un problema di dimensione dei dati ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
-### Collegamento con il carico cognitivo e la metacognizione
+## Collegamento con il carico cognitivo e la metacognizione
 
 Il filone socioculturale è strettamente accoppiato alla Teoria del [[cognitive-offloading|Carico Cognitivo]] (il supporto dovrebbe gestire il carico senza eliminare lo sforzo produttivo) e alla [[metacognition|metacognizione]] (chi si trova nella zona sta attivamente monitorando e regolando la propria comprensione). [[stanford-evidence-base-ai-k12-2026]] sintetizza l'evidenza [[k-12|K-12]] secondo cui gli strumenti di IA funzionano meglio quando mantengono chi apprende nella ZPD anziché rispondere al posto suo, e la ricerca su [[human-in-the-loop-ai|l'umano nel ciclo dell'IA]] affronta il modo in cui il supporto umano e quello dell'IA definiscono congiuntamente la zona del discente.
 

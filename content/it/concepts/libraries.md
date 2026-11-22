@@ -14,7 +14,7 @@ page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
 translation_of: concepts/libraries
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

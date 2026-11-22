@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
 updated: "2026-11-08T14:18:00-05:00"
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobud
 
 La narrazione si fonda sulle [[learning-theories|teorie dell'apprendimento]] della [[motivation]], del [[student-engagement]] e [[constructivist]]. Sostiene il [[language-learning]], la [[creativity]], il [[social-emotional-learning]] e la comprensione. Nell'era dell'IA, la narrazione [[llm|basata su LLM]] e mediata dai robot consente la co-creazione, in cui chi apprende e gli [[agentic-ai|agenti di IA]] costruiscono insieme storie, e una narrativa interattiva che risponde a chi apprende.
 
-### Come la narrazione appare nella ricerca della knowledge base
+## Come la narrazione appare nella ricerca della knowledge base
 
 - **Narrazione mediata da robot:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] usa un robot di narrazione digitale interattiva dall'aspetto umano, riscontrando guadagni significativi nel coinvolgimento comportamentale e cognitivo rispetto ai metodi basati su carta e PowerPoint; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] consente agli insegnanti di creare attività di narrazione scenarizzate e basate su LLM a partire dai contenuti del [[curriculum-design|curricolo]].
 

@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-a
 
 La randomizzazione è ciò che distingue un RCT da altri disegni: assegnando casualmente gli studenti alle condizioni, un RCT bilancia i confondenti noti e ignoti tra i gruppi, così che ogni differenza osservata negli esiti può essere attribuita all'intervento con un'elevata validità interna.
 
-### Come gli RCT compaiono nella ricerca
+## Come gli RCT compaiono nella ricerca
 
 - **Micro-RCT come risposta alla tecnologia in rapida evoluzione:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] sostengono che le sperimentazioni su larga scala convenzionali non riescono a tenere il passo delle [[edtech-platform|piattaforme]] di tutoring che cambiano in modo rilevante durante uno studio, e impiegano micro-randomized controlled trial condotti dagli [[teacher-role|insegnanti]] nelle scuole secondarie inglesi (644 studenti su 929 che hanno completato il post-test, g = 0,33) per mantenere ripetibile la stima causale. I compromessi sono dichiarati nel loro stesso disegno: 30,7% di abbandono, esiti allineati al [[curriculum-design|curricolo]] anziché standardizzati in modo indipendente, e solo quattro settimane di follow-up.
 - **Affermazioni di efficacia causale:** gli RCT nell'AIED verificano se un tutor di IA, uno strumento o un trattamento pedagogico migliori gli esiti. [[generative-ai-education-productivity-gaps|Un esperimento randomizzato sull'IA generativa]] con 1.174 partecipanti ha rilevato che la GenAI riduce sensibilmente i divari di produttività legati all'educazione, colmando circa tre quarti della differenza iniziale di rendimento — una chiara stima causale dell'effetto dell'IA.
@@ -59,7 +59,7 @@ La randomizzazione è ciò che distingue un RCT da altri disegni: assegnando cas
 - **Randomizzazione all'interno di sezioni intatte, con una baseline pre-trattamento.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] hanno randomizzato 454 studenti universitari all'interno di tre sezioni di marketing intatte dopo il drop/add e hanno misurato tutti e quattro gli esiti a T1, prima che qualsiasi studente avesse accesso al [[conversational-ai|chatbot]], così che il confronto sull'intero trimestre poggia su una baseline misurata anziché presunta. Il risultato piatto (nessuna interazione gruppo × tempo ha raggiunto la significatività; il maggiore effetto riportato è stato d = 0,050, sull'interesse) è riportato insieme all'adozione — 0,89 accessi a settimana contro l'assegnazione di uno a settimana — il che evita che un nullo su un trattamento debolmente usato venga letto come un nullo sullo strumento.
 - **Crossover within-subject, e un controllo al meglio delle prassi.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] hanno fatto svolgere a ciascuno dei 194 studenti di scienze della vita di Harvard due lezioni di fisica — una in una sessione in classe di [[active-learning|apprendimento attivo]] e una con il tutor di IA del corso, in ordine controbilanciato con pre- e post-test attorno a ciascuna — così che ogni studente funge da controllo di sé stesso e il confronto tra *modalità di erogazione* non è confuso da chi è stato assegnato a quale. La seconda scelta di disegno conta quanto la prima: il termine di confronto era l'apprendimento attivo basato sulla ricerca anziché la lezione frontale, quindi il vantaggio (mediana del post-test 4,5 contro 3,5) è misurato rispetto alla prassi migliore attuale e non può essere letto come "l'IA batte l'insegnamento".
 
-### Punti di forza e limiti
+## Punti di forza e limiti
 
 - **Punti di forza:** inferenza causale più forte; misurazione pulita degli esiti; supporta la stima della dimensione dell'effetto; bilancia i confondenti tramite la randomizzazione.
 - **Limiti:** costoso e lento; i contesti artificiali possono ridurre la validità ecologica; gli strumenti di IA cambiano più rapidamente di quanto possano durare le sperimentazioni; i campioni piccoli spesso hanno potenza insufficiente per rilevare effetti significativi; vincoli etici nel negare un'IA potenzialmente benefica al gruppo di controllo. Due di questi limiti cambiano forma quando l'assegnazione è per cluster: il campione effettivo diventa il numero di *cluster* anziché il numero di studenti, quindi una sperimentazione può essere grande per numero di partecipanti e sottile secondo questa misura — i 2.379 studenti di Liu et al. poggiano su 34 cluster a livello di insegnante — e quando l'adozione è volontaria e bassa, una stima intent-to-treat risponde alla domanda se l'*offerta* dello strumento abbia cambiato gli esiti, non se il suo uso lo abbia fatto.
