@@ -1,5 +1,5 @@
 ---
-title: Освіта в галузі гуманітарних та соціальних наук
+title: Освіта в галузі гуманітарних наук
 created: "2026-10-13T21:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]

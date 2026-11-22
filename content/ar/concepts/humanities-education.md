@@ -1,5 +1,5 @@
 ---
-title: تعليم العلوم الإنسانية والاجتماعية
+title: تعليم العلوم الإنسانية
 created: "2026-10-12T16:12:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]

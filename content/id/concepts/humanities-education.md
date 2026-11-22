@@ -1,5 +1,5 @@
 ---
-title: "Pendidikan Humaniora dan Ilmu Sosial"
+title: "Pendidikan Humaniora"
 created: "2026-08-16T09:22:41-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]

@@ -1,5 +1,5 @@
 ---
-title: Elimu ya Sayansi za Binadamu na Jamii
+title: Elimu ya Sayansi za Binadamu
 created: "2026-10-13T04:58:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
