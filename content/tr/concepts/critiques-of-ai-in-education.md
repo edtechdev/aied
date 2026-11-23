@@ -1,7 +1,7 @@
 ---
 title: Eğitimde YZ Eleştirileri
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Bu, “öğretmenlerin yerleri alınıyor” iddiasından daha güçlü bir iddi
 
 ## Altyapı, semantik dönüştürme ve yanlış tanınma
 
-Üçüncü bir küme, dikkati aracın kendisinden onun çevresindeki altyapıya kaydırır. Watson, Morgner ve Brezovec, üretken YZ'yi anlamı aracılık eden altyapı olarak ele alır ve mekanizmasını *semantik dönüştürme* olarak adlandırır: bir eğitim talebinin — bir istem, brifing, rubrik, sınav sorusu, bir tür ya da politika — iletişimsel olarak akla yatkın bir biçime yeniden biçimlendirilmesi ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner ve Brezovec (2026)]]). Dönüştürme seçici olduğu için dâhil edebilir ya da dışlayabilir. Üç yer tekrarlanır: erişim ve yetkinlik uçurumları, iyi bir yanıtın ya da iyi bir öğrencinin nasıl olması gerektiğine dair kalıplar yoluyla yanlış tanınma ve pedagojinin ne anlama geldiğine dair normatif kayma. Dışlama çoğu zaman bir yasaktan çok bir kıskaçtır — kurumlar tempoyla, cilayla ve idiomatik akıcılıkla ilgili beklentileri yükseltirken aynı anda otantisite rejimlerini de sıkılaştırır.
+Üçüncü bir küme, dikkati aracın kendisinden onun çevresindeki altyapıya kaydırır. Watson, Morgner ve Brezovec, üretken YZ'yi anlamı aracılık eden altyapı olarak ele alır ve mekanizmasını *semantik dönüştürme* olarak adlandırır: bir eğitim talebinin — bir istem, brifing, [[rubrics|rubrik]], sınav sorusu, bir tür ya da politika — iletişimsel olarak akla yatkın bir biçime yeniden biçimlendirilmesi ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner ve Brezovec (2026)]]). Dönüştürme seçici olduğu için dâhil edebilir ya da dışlayabilir. Üç yer tekrarlanır: erişim ve yetkinlik uçurumları, iyi bir yanıtın ya da iyi bir öğrencinin nasıl olması gerektiğine dair kalıplar yoluyla yanlış tanınma ve pedagojinin ne anlama geldiğine dair normatif kayma. Dışlama çoğu zaman bir yasaktan çok bir kıskaçtır — kurumlar tempoyla, cilayla ve idiomatik akıcılıkla ilgili beklentileri yükseltirken aynı anda otantisite rejimlerini de sıkılaştırır.
 
 ## Gündem belirleme, simüle edilmiş yenilik ve deneysel gelecek kurgulama
 

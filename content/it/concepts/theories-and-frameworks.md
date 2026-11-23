@@ -1,7 +1,7 @@
 ---
 title: Teorie e quadri di riferimento
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -71,11 +75,14 @@ Queste spiegano i meccanismi: nominano le parti che fanno il lavoro e prevedono 
 
 - **[[tpack|TPACK]]** — la conoscenza dell'insegnante che fonde tecnologia, pedagogia e contenuto; il quadro di riferimento predefinito per gli studi sull'IA rivolti agli insegnanti.
 - **[[technology-acceptance-model|Modelli di adozione]]** — l'intenzione come funzione dell'utilità percepita e della facilità d'uso. Usati così ampiamente che la dipendenza del campo dall'intenzione anziché dal comportamento è una critica ricorrente.
+- **[[bloom-taxonomy|Tassonomia di Bloom]]** — il vocabolario condiviso per la domanda cognitiva dei compiti, usato sia per codificare gli item sia per sequenziarli; nell'IA in educazione è diventata tanto un problema di misurazione quanto uno di progettazione.
 - **[[icap-framework|ICAP]]** — classifica il coinvolgimento come passivo, attivo, costruttivo, interattivo; utile per chiedersi quale modalità un'[[student-ai-interaction|interazione con l'IA]] offra effettivamente.
 - **[[samr-model|SAMR]]** — dalla sostituzione alla ridefinizione. Popolare come storia di maturità, debole come strumento di misurazione.
 - **[[universal-design-for-learning|Universal design for learning]]**, [[inclusive-learning|apprendimento inclusivo]] e **[[accessibility|accessibilità]]** — cornici di progetto per chi viene servito, e le più spesso invocate nel lavoro su disabilità ed [[equity-in-ai-education|equità]].
 - **[[learning-design|Progettazione dell'apprendimento]]**, [[curriculum-design|progettazione curricolare]] e **[[design-thinking|design thinking]]** — come sono strutturati compiti, sequenze e programmi prima che venga scelto qualsiasi strumento.
 - **[[change-management|Gestione del cambiamento]]** — se un sistema viene effettivamente adottato, che è di solito una questione istituzionale anziché pedagogica.
+
+- **Modello di conferma delle aspettative (ECM)** — la soddisfazione come conferma delle aspettative precedenti, con il prosieguo d'uso anziché l'adozione iniziale come esito. In un pilota di un semestre sui metodi della sociologia con 24 studenti universitari, l'87% valutava Copilot buono o eccellente e il 91% lo raccomandava, ma solo il 57% intendeva continuare a usarlo ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Il divario è il punto del modello: un utente soddisfatto può comunque decidere di non tornare, quindi soddisfazione e prosieguo richiedono misure separate.
 
 ## Modelli di misurazione e computazionali
 
@@ -109,6 +116,7 @@ Le parole sono usate liberamente nella letteratura, e la differenza merita un pa
 ## Livelli collegati
 
 Due pagine vicine riguardano deliberatamente qualcos'altro. [[philosophy-of-ai-in-education|La filosofia dell'IA nell'educazione]] pone domande normative e concettuali — a cosa serve *l'educazione*, se una macchina può insegnare — e non prevede dimensioni dell'effetto; uno studio può essere filosoficamente ingenuo e teoricamente solido, o il contrario. [[theory-development-aied|Lo sviluppo della teoria]] è la meta-attività di costruire, prendere a prestito e rivedere teoria, inclusa la critica ricorrente che gran parte del lavoro in [[ai-education|AIED]] applica teoria esistente anziché verificarla. Questa pagina è l'inventario; lo sviluppo della teoria riguarda il produrre e rivedere l'inventario.
+Gli [[learning-environments-as-systems|ambienti di apprendimento intesi come sistemi]] sono un terzo vicino. Non sono una teoria dell'apprendimento e non prevedono dimensioni dell'effetto, ma una posizione su l'unità di analisi: un ambiente di apprendimento è un sistema multi-livello le cui parti interagiscono, quindi il livello che uno studio misura è una decisione teorica, non una convenienza di campionamento.
 
 ## Scegliere una lente quando la domanda è pratica
 

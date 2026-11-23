@@ -8,8 +8,8 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-21T05:17:51-05:00"
-updated: "2026-11-21T17:00:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -110,7 +110,7 @@ Kelimeler literatürde gevşek kullanılır ve aradaki fark bir sayfa değil, bi
 
 ## İlgili katmanlar
 
-İki komşu sayfa bilerek başka bir şey üzerinedir. [[philosophy-of-ai-in-education|Eğitimde YZ felsefesi]] normatif ve kavramsal sorular sorar — eğitimin *ne için* olduğu, bir makinenin öğretip öğretemeyeceği — ve etki büyüklükleri öngörmez; bir çalışma felsefi olarak naif ve kuramsal olarak sağlam olabilir ya da tersi. [[theory-development-aied|Teori geliştirme]], var olan teoriyi sınamak yerine uygulayan çok sayıdaki [[ai-education|AIEd]] çalışmasına ilişkin kalıcı eleştiri dâhil, teoriyi inşa etme, ödünç alma ve revize etme üst-etkinliğidir. Çerçeveleri toplamak bir kataloglama işidir; teori geliştirme, bunları üretmek ve revize etmekle ilgilidir.
+İki komşu sayfa bilerek başka bir şey üzerinedir. [[philosophy-of-ai-in-education|Eğitimde YZ felsefesi]] normatif ve kavramsal sorular sorar — eğitimin *ne için* olduğu, bir makinenin öğretip öğretemeyeceği — ve etki büyüklükleri öngörmez; bir çalışma felsefi olarak naif ve kuramsal olarak sağlam olabilir ya da tersi. [[theory-development-aied|Teori geliştirme]], var olan teoriyi sınamak yerine uygulayan çok sayıdaki [[ai-education|AIEd]] çalışmasına ilişkin kalıcı eleştiri dâhil, teoriyi inşa etme, ödünç alma ve revize etme üst-etkinliğidir. Çerçeveleri toplamak bir kataloglama işidir; teori geliştirme, bunları üretmek ve revize etmekle ilgilidir. [[learning-environments-as-systems|Öğrenme ortamları bir sistem olarak]] üçüncü bir komşudur. Öğrenmenin bir kuramı değildir ve hiçbir etki büyüklüğü öngörmez; analiz birimi hakkında bir duruştur: öğrenme ortamı, bileşenleri etkileşimli çok düzeyli bir sistemdir, dolayısıyla bir çalışmanın ölçtüğü düzey teorik bir karardır, örnekleme kolaylığı değil.
 
 ## Soru pratik olduğunda mercek seçmek
 

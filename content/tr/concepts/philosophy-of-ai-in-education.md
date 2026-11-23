@@ -1,14 +1,14 @@
 ---
 title: Eğitimde YZ Felsefesi
 created: "2026-10-14T21:32:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -84,7 +84,7 @@ Eğitimde YZ felsefesi ile [[theory-development-aied|AIEd’de kuram gelişimi]]
 
 **Eğitmenler için**
 
-- Bir aracı benimsemeden önce öğrencinin kendi başarısı olarak neyi saymaya razı olduğunuza karar verin. Sistem tarafından üretilen cilalı bir teslim, değerlendirmenizi karşılayacaksa "hiçbir şey" yanıtını vermişsinizdir ve sonradan yapılan hiçbir rubrik değişikliği bu soruyu geri getirmez.
+- Bir aracı benimsemeden önce öğrencinin kendi başarısı olarak neyi saymaya razı olduğunuza karar verin. Sistem tarafından üretilen cilalı bir teslim, değerlendirmenizi karşılayacaksa "hiçbir şey" yanıtını vermişsinizdir ve sonradan yapılan hiçbir [[rubrics|rubrik]] değişikliği bu soruyu geri getirmez.
 - Görevleri tasarlarken kapatma argümanını ciddiye alın: işi hazır sunan üretici YZ düşünmeyi yalnızca dışa aktarmak yerine kapatıyorsa, "sorumlu kullanın" yeterli bir güvence değildir, çünkü çevredeki alan çıktıyı ödüllendirir. Düşünme kanıtının araç kullanılabilir hale gelmeden önce üretildiği görevler tasarlayın.
 - Dersinizin kimin öğrenme anlayışını kodladığını sorun. Bir çerçeveyi eleştirmeden benimsemek, onun öğrenenin ne olduğuna dair varsayımlarını içe aktarır ve bu varsayımlar tartışmaya açıktır.
 

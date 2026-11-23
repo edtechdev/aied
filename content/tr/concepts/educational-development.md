@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 title: Eğitsel Gelişim
 created: "2026-10-14T07:50:00-04:00"
 type: concept
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai]
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-11-20T08:06:12-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -113,7 +113,7 @@ Yargı, bir yetkinlik maddesinden çok bir koşul olarak ele alınmalıdır. [[j
 
 Gelişimin birimi bölümden küçük, kişiden büyük olabilir. [[chen-future-faculty-development-ai-2027|Chen ve ark. (2026)]] yedi öğretmen rolü ortaya koyar, ancak bunların tek bir akademisyende bulunması gerekmediğinde ısrar eder: insan merkezli eğitimci ve disiplin uzmanı evrensel temellerdir; öğrenme mimarisi, değerlendirme yeniden tasarımı, teknik yetkinlik, etik vesayet ve disiplinli deney ise bir öğretim ekibi boyunca dağıtılabilir. Koşulları, herkesin temel teknik ve etik kapasiteyi korumasıdır; böylece paylaşılan uzmanlık paylaşılan cehalete dönüşmez.
 
-**Diziyi, dışarıdan ithal edilmiş örnek uygulamalar yerine odanın kendi verisiyle yürütün.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum ve Finkelstein (2026)]], büyük bir devlet R1 fizik bölümünden işleyen bir modeli belgelemektedir: 60–75 dakikalık iki haftada bir düzenlenen altı oturum; dizide on dokuz akademik personel katılımcı, her toplantıda yaklaşık on kişi; her oturum yerel veriyle veya bölüm kaynaklı materyallerle açılmış, gerçek anonimleştirilmiş öğrenci ödevlerine karşı YZ’nin küçük grup sınamasına geçmiş ve kolektif tartışmayla kapanmıştır. Akademik personelin sınama yoluyla buldukları, kolaylaştırıcıların ithal edebileceği herhangi bir paketten daha yararlı olmuştur — YZ denedikleri her problemi çözmüş, ancak gerçek öğrenci çalışmalarına ilişkin geri bildirimi, açık hedefler ve derecelendirme ölçekleri verilmediğinde düzensiz, istek metnine bağımlı ve yüzeysel kalmıştır; öğrenciler de verimli kullanım modellenmedikçe basit istek metinleri yazmış ve çıktıyı yüzeysel biçimde değiştirmiştir. İlk somut çıktı, ders programı politika beyanları, sınıf tartışma materyalleri, öğrenci anketi, YZ ile bütünleşen ödev görevleri ve değerlendirme yapıları olmak üzere beş girdilik canlı bir havuz olmuştur — bu nedenle yazarlar, sunduğu herhangi bir içerikten çok oturum yapısının kendisini savunulan argüman olarak ele almaktadır.
+**Diziyi, dışarıdan ithal edilmiş örnek uygulamalar yerine odanın kendi verisiyle yürütün.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum ve Finkelstein (2026)]], büyük bir devlet R1 fizik bölümünden işleyen bir modeli belgelemektedir: 60–75 dakikalık iki haftada bir düzenlenen altı oturum; dizide on dokuz akademik personel katılımcı, her toplantıda yaklaşık on kişi; her oturum yerel veriyle veya bölüm kaynaklı materyallerle açılmış, gerçek anonimleştirilmiş öğrenci ödevlerine karşı YZ’nin küçük grup sınamasına geçmiş ve kolektif tartışmayla kapanmıştır. Akademik personelin sınama yoluyla buldukları, kolaylaştırıcıların ithal edebileceği herhangi bir paketten daha yararlı olmuştur — YZ denedikleri her problemi çözmüş, ancak gerçek öğrenci çalışmalarına ilişkin geri bildirimi, açık hedefler ve [[rubrics|derecelendirme ölçekleri]] verilmediğinde düzensiz, istek metnine bağımlı ve yüzeysel kalmıştır; öğrenciler de verimli kullanım modellenmedikçe basit istek metinleri yazmış ve çıktıyı yüzeysel biçimde değiştirmiştir. İlk somut çıktı, ders programı politika beyanları, sınıf tartışma materyalleri, öğrenci anketi, YZ ile bütünleşen ödev görevleri ve değerlendirme yapıları olmak üzere beş girdilik canlı bir havuz olmuştur — bu nedenle yazarlar, sunduğu herhangi bir içerikten çok oturum yapısının kendisini savunulan argüman olarak ele almaktadır.
 
 **Bir yeterlilik çerçevesine dayandırın.** Gelişim ayrıca **pedagojik [[prompt-engineering|istek metni okuryazarlığı]]** oluşturmalıdır — pedagojik niyetleri istek metinlerine kodlama kapasitesi — çünkü [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]]], öğretmenlerin YZ destekli tasarım çalışmalarının kalitesini belirleyen şeyin YZ akıcılığı değil, pedagojik uzmanlık olduğunu bulmaktadır. ([[crewscaler-ai-upskilling-framework]]) ([[ai-tpack-preservice-math-teachers]]) ([[talebzadeh-ai-group-activity-roles-2026]])
 

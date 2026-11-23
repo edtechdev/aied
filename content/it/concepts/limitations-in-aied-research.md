@@ -1,7 +1,7 @@
 ---
 title: "Limiti nella ricerca AIEd"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -37,13 +41,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Quanta fiducia riporreste in un titolo come "la tutorizzazione con l'IA aumenta l'apprendimento del 30%" se veniste a sapere che deriva da 30 studenti di un unico corso in un'unica istituzione? La pagina segnala generalizzabilità e campioni ridotti come limiti ricorrenti — cosa vorreste sapere prima di agire in base a un singolo risultato?
 - Un limite sorprendente è il "problema della velocità": l'IA si evolve più rapidamente di quanto i risultati vengano pubblicati, quindi uno studio su una generazione di modelli può già descrivere un sistema obsoleto. Come dovrebbe cambiare la fiducia che riponete nella ricerca sull'IA in educazione?
 - Molti studi si basano su atteggiamenti e usi [[self-report-measures|auto-riferiti]], che sono distorti: le persone sovrastimano le proprie competenze e sotto-segnalano l'uso improprio. Avete mai risposto a un'indagine sulle vostre capacità o sul vostro comportamento in modo non corrispondente alla realtà? Perché le misure basate sulla percezione divergono così spesso dalla performance oggettiva?
-- La pagina osserva che framework familiari come la tassonomia di Bloom sono spesso fraintesi come scale rigide, e che persino teorie ampiamente usate come la teoria del [[cognitive-offloading|carico cognitivo]] sono state messe in discussione. Quando avete visto una teoria invocata come verità acquisita in un contesto in cui le sue stesse evidenze erano di fatto contestate?
+- La pagina osserva che framework familiari come la [[bloom-taxonomy|tassonomia di Bloom]] sono spesso fraintesi come scale rigide, e che persino teorie ampiamente usate come la teoria del [[cognitive-offloading|carico cognitivo]] sono state messe in discussione. Quando avete visto una teoria invocata come verità acquisita in un contesto in cui le sue stesse evidenze erano di fatto contestate?
 - La maggior parte della ricerca sull'IA dipende da modelli proprietari e opachi, i cui dati e aggiornamenti non si possono ispezionare. Se non potete verificare esattamente quale modello abbia prodotto un risultato, quanta fiducia potete riporre nelle affermazioni che su di esso si fondano — e cosa renderebbe i risultati più riproducibili?
 - Se siete un docente o un progettista senza tempo per leggere la ricerca primaria, come decidete quali affermazioni sull'IA siano sufficientemente affidabili da modificare la vostra pratica — dato che la letteratura è frammentata, provvisoria e scritta per i ricercatori?
 
 ## Introduzione
 
-L'IA in educazione è un campo in rapida evoluzione ed eterogeneo, e la sua base di evidenze presenta un insieme caratteristico di limiti che ricercatori, professionisti e decisori politici dovrebbero soppesare nell'uso di qualsiasi risultato. Alcuni di essi sono condivisi con la più ampia letteratura delle [[learning-sciences|scienze dell'apprendimento]] e della psicologia; altri sono amplificati o resi unici dalla natura stessa dell'IA. Questa pagina li organizza in quattro aree trasversali.
+L'IA in educazione è un campo in rapida evoluzione ed eterogeneo, e la sua base di evidenze presenta un insieme caratteristico di limiti che ricercatori, professionisti e decisori politici dovrebbero soppesare nell'uso di qualsiasi risultato. Alcuni di essi sono condivisi con la più ampia letteratura delle [[learning-sciences|scienze dell'apprendimento]] e della psicologia; altri sono amplificati o resi unici dalla natura stessa dell'IA. Questa pagina li organizza in quattro aree trasversali. Si tratta di problemi nelle evidenze; un insieme separato di argomentazioni sui fini cui le evidenze servono è raccolto nella pagina [[critiques-of-ai-in-education|Critiche sull'IA in educazione]].
 
 ## Limiti metodologici
 
@@ -70,6 +74,9 @@ La pagina sui [[research-methods-aied|metodi di ricerca]] della knowledge base d
 - **Le etichette generate dai modelli non sono ground truth.** Quando le etichette che addestrano o valutano un sistema sono esse stesse prodotte da modelli linguistici, l'accordo tra annotatori non può stabilire la validità: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] non hanno mai validato le loro annotazioni di asserzioni contro etichette d'oro umane, e i 49 classificatori a encoder che rilasciano ereditano quella provenienza e potrebbero non essere validi laddove le applicazioni differiscano in dimensioni significative. Il loro schema ha anche reso nettamente peggio del classificatore fine-tuned addestrato su dati annotati da esperti (macro-F1 0,673 contro 0,76), il che rende i corpus etichettati da esperti ancora degni di essere costruiti quando è richiesta un'elevata confidenza.
 
 - **La base di evidenze è essa stessa distribuita in modo disomogeneo.** Una scoping review di 407 studi sulla [[formative-assessment|valutazione formativa]] supportata dalla tecnologia ha attinto solo a Web of Science e Scopus. Ha inoltre escluso 61 record per criteri linguistici, quindi lo squilibrio geografico che il campo riporta può riflettere in parte quali sedi sono indicizzate ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Il progetto a tre condizioni è assente.** Tra dodici studi GenAI esaminati, nessuno ha misurato la performance assistita insieme sia a un test immediato senza IA sia a uno differito con esclusione verificata, quindi i guadagni assistiti non sono mai legati alla ritenzione ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**La fattibilità è una classe di esito, non un preambolo.** Un pilota a due coorti su un paziente simulato con IA ha reclutato 19 degli 82 studenti invitati (26%), ne ha completati ogni incontro e questionario (100%) e non ha chiuso alcuna sessione con un fallimento tecnico — risultati reali, ma gli esiti di fattibilità e accettabilità erano definiti dopo la raccolta e nessun criterio di progressione era stato prespecificato ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Un tasso di completamento è informativo solo rispetto a criteri fissati in anticipo; altrimenti "ha funzionato" e "è riuscito" sono la stessa frase.
 
 ## Il problema della velocità: l'IA si evolve più rapidamente dei risultati
 
@@ -126,6 +133,8 @@ Due pratiche di resoconto specifiche gonfiano o distorcono una sintesi, ed entra
 **La percentuale principale può essere un artefatto dei termini di ricerca.** In una scoping review di 195 studi sulla formazione degli insegnanti, la competenza digitale e [[tpack|TPACK]] erano descrittori di ricerca espliciti mentre la progettazione didattica e la valutazione non avevano equivalenti, quindi il **46,5% e 1,9%** riportati descrivono la strategia di reperimento prima ancora del campo. Un'affermazione di prevalenza è tanto significativa quanto la query che ha prodotto il corpus.
 
 **E il tasso di base è il numero che nessuno dichiara.** I limiti metodologici qui sono misurabili anziché impressionistici: in una revisione critica di 80 studi HCI sul pensiero critico con l'IA, **42 (52%) non prevedevano alcun gruppo di controllo** e la maggior parte dei restanti si basava sull'autovalutazione. Quando più della metà dei risultati positivi di un campo proviene da progetti che non possono separare l'effetto dell'IA dall'attività ordinaria, l'ipotesi preliminare appropriata per qualsiasi singolo risultato è lo scetticismo, non l'accettazione provvisoria.
+
+Una conseguenza pratica di questi limiti è che diverse pratiche educative ampiamente usate poggiano su evidenze che non possono sostenerle; la pagina [[what-not-to-do-ai-education|cosa gli educatori dovrebbero evitare di fare con l'IA]] raccoglie quelle pratiche per ruolo e nomina il limite specifico dietro ciascuna cautela.
 
 ## Idee sbagliate comuni
 

@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Birlikte okunduğunda, bakiyenin iki tarafı bir kural önerir: YZ *pratik* yük
 
 Müfredat tasarımcıları üretimi dersin içinde tutabilir. Bu çalışmalarda eleştiriyi somutlaştıran şey medya üretmektir ve YZ ile üretim yalnızca öğrenciler aracın onlar adına yaptığı seçimleri incelediğinde bunu destekler.
 
-Yapıyı tutumdan çok performans olarak puanlamak zayıf noktayı görünür kılar. 28 Tayland lisans öğrencisiyle yapılan sekiz haftalık Code Craft denemesinde dijital okuryazarlık üç puanlık bir rubrikte 1,51’den 2,82’ye yükseldi, ancak bilgiyi yönetme ortalama 1,92 ve bilgi oluşturma 2,05’tir; iletişim ve başkalarıyla çalışma ise 2,36’dır ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij ve Khlaisang, 2026]]). En düşük puanlar, arama ve değerlendirmede duran bir dersin hiç varamadığı yapının üreten tarafındaydı.
+Yapıyı tutumdan çok performans olarak puanlamak zayıf noktayı görünür kılar. 28 Tayland lisans öğrencisiyle yapılan sekiz haftalık Code Craft denemesinde dijital okuryazarlık üç puanlık bir [[rubrics|rubrik]]te 1,51’den 2,82’ye yükseldi, ancak bilgiyi yönetme ortalama 1,92 ve bilgi oluşturma 2,05’tir; iletişim ve başkalarıyla çalışma ise 2,36’dır ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij ve Khlaisang, 2026]]). En düşük puanlar, arama ve değerlendirmede duran bir dersin hiç varamadığı yapının üreten tarafındaydı.
 
 Program liderleri iş akışının içine bir kütüphaneci veya medya uzmanı yerleştirebilir. Bu literatürdeki en güçlü öğretim sonucu, insan danışmanlığının sonradan sunulduğu değil işin içine gömüldüğü bir tasarımdan gelir.
 

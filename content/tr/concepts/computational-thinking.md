@@ -1,7 +1,7 @@
 ---
 title: "Hesaplamalı Düşünme"
 created: "2026-10-14T21:35:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,17 @@ Kalıcı yetkinlikler, uygulama otomasyonleştirildiğinde kayar: bir atölye ra
 
 - Hesaplamalı düşünme aynı zamanda bir eğilim olarak da ölçülür: üç haftalık bir beşinci sınıf oyun çalışmasında, ayarlanmış kendilik bildirimli CT eğilimleri GenAI sınıfını lehine çevirmiş, 4,037’ye karşı 4,325 (p = ,046, kısmi eta-kare = ,052, n = 78). Algoritmik bilgi testi ise onları ayırt etmemiştir (80,7’ye karşı 74,9); yani eğilim ile bilgi ölçümleri farklı yapıları izlemiştir ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou ve ark., 2026]]).
 
-Alt beceri profilleri, ön-son tasarımın bildirdiği tek CT puanını karmaşıklaştırır. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij ve Khlaisang (2026)]], bilgisayar bilimi dışındaki 28 Tay lisans öğrencisini, beş adımlı bir [[design-thinking|tasarım düşüncesi]] döngüsünü düşük kodlu uygulama geliştirme ile eşleştiren sekiz haftalık üç saatlik oturumlara sokmuş ve proje çalışmasını üç puanlık bir rubrikle puanlamıştır. Ortalama hesaplamalı düşünme ilk oturumda 1,13’ten 1,80’a ve ardından 2,49’a yükselmiş; algoritmik düşünme 2,08 ile en güçlü dal olmuş ve 1,46’dan 1,93’e, 2,86’ya bir yörunge izlemiştir. Mantıksal düşünme ortalama 1,54’tür ve ilk iki oturum arasında pek hareket etmemiş, 1,04’ten 1,29’a, üçüncü oturumda 2,29’a ulaşmıştır — bu, bir bileşendeki kazanımın diğerlerinin onu izlediğini ima etmediğinin bir hatırlatmasıdır.
+Alt beceri profilleri, ön-son tasarımın bildirdiği tek CT puanını karmaşıklaştırır. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij ve Khlaisang (2026)]], bilgisayar bilimi dışındaki 28 Tay lisans öğrencisini, beş adımlı bir [[design-thinking|tasarım düşüncesi]] döngüsünü düşük kodlu uygulama geliştirme ile eşleştiren sekiz haftalık üç saatlik oturumlara sokmuş ve proje çalışmasını üç puanlık bir [[rubrics|rubrik]]le puanlamıştır. Ortalama hesaplamalı düşünme ilk oturumda 1,13’ten 1,80’a ve ardından 2,49’a yükselmiş; algoritmik düşünme 2,08 ile en güçlü dal olmuş ve 1,46’dan 1,93’e, 2,86’ya bir yörunge izlemiştir. Mantıksal düşünme ortalama 1,54’tür ve ilk iki oturum arasında pek hareket etmemiş, 1,04’ten 1,29’a, üçüncü oturumda 2,29’a ulaşmıştır — bu, bir bileşendeki kazanımın diğerlerinin onu izlediğini ima etmediğinin bir hatırlatmasıdır.
+
+## Sistem düşünmesi, CT bir uygulaması olarak
+
+Sistem düşünmesi, Weintrop ve arkadaşları tarafından geliştirilen matematik ve fen bilimleri için hesaplamalı düşünme sınıflandırmasındaki dört alandan biridir; diğerleri Veri Uygulamaları, Hesaplamalı Problem Çözme Uygulamaları ile Modelleme ve Benzetim Uygulamaları'dır. Tanımı kesindir: **sistem sınırlarını tanımlama ve mikro düzey etkileşimleri makro düzey davranışa sentezleme becerisi**. Bu, öğrenen düzeyinde bilişsel bir kapasitedir — bir sistem üzerine akıl yürütme biçimidir — ve öğrenme ortamını bir sistem olarak ele alma tutumu olan çevre düzeyindeki duruştan ([[learning-environments-as-systems|öğrenme ortamları bir sistem olarak]]) ayrılır.
+
+Aynı zamanda değerlendirmenin ilk önce bozulduğu alan da budur. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch ve Rebello (2026)]], giriş düzeyindeki bir hesaplamalı fizik dersinde 936 öğrencinin yazılı açıklamalarını bu sınıflandırmaya göre kodlamış, 10 öğrenci üzerinde insan temel ölçütünü (60 yanıt, Fleiss' κ = 0,53) kalibre etmiş ve ardından 50 öğrenciyi (300 yanıt) çoğunluk oyuyla kodlamıştır. Öğrenciler en çok Veri Uygulamaları'nda büyümüştür (p < 0,001, d = 1,03); orta düzeyde kazanımlar Hesaplamalı Problem Çözme'de (d = 0,52) ve Sistem Düşünmesi'nde (d = 0,45) görülür. Ancak Sistem Düşünmesi, *hem* insanlar hem de modeller için en az güvenilir yapısal öğe olmuştur: insan uzlaşması κ = 0,51 ve LLM κ = 0,48; Veri Uygulamaları için κ = 0,90 ve Modelleme ve Benzetim için κ = 0,78 karşısında. Yazarların okumasına göre zorluk, model eksikliğinden değil yapısal öğenin karmaşıklığından kaynaklanmaktadır — bileşenleri belirlemeyi *ve* bunların etkileşimini ve sonuçlarını açıklamayı zorunlu kılan çok bileşenli bir yapısal öğe, iyi tanımlanmış bir yapısal öğeden daha zor kodlanır. Modelleme ve Benzetim, alakasız bir nedenle d = 0,00 göstermiştir: tavan etkisidir; ön öğretim ortalaması zaten 2 üzerinden 1,62 idi, dolayısıyla o madde büyümeyi değil temel bilgiyi ölçmüştür.
+
+Pratik sonuç, model sorunu değil bir rubrik tasarımı sorunudur. Yazarların önerisi, sistemin bileşenlerini belirlemeyi, bileşenlerin nasıl etkileşime girdiğini açıklamaktan ayrı puanlayacak biçimde rubriği yeniden yazmaktır ve entegre bir yapısal öğede düşük otomatik uzlaşmayı, otomasyondan vazgeçmek yerine ölçme aracını gözden geçirme işareti olarak okumaktır. Bu, [[rubrics|rubrik]] araştırmasının puanlama tarafından vardığı aynı hamledir: kalibrasyonu yapan model değil, ölçme aracıdır.
+
+Bu yapısal öğe fiziğin ötesine taşınır. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz ve Castro Samayoa (2026)]], Aoun'un *robot-proof* (robota dirençli) adını verdiği yetkinlikler arasında sistem düşünmesini sayar — eleştirel düşünme, sistem düşünmesi ve kültürel çeviklik; bunlar pratiğin inşa ettiği, delegasyonun kurmadığı yetkinliklerdir. [[huang-ai-literacy-vocational-problem-solving-2026|Huang ve arkadaşları (2026)]] kendi "sistematik düşünme" yapısal öğelerini bundan ayırarak kendi ölçülerini dar, dört boyutlu bir ölçüm (yapılandırma, akıl yürütme, önceliklendirme, bütünleştirme) olarak sunar ve geniş anlamda sistem düşünmesi olarak adlandırmayı açıkça reddeder. [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea ve Valencia-Silva (2026)]] ise katılımın sistem düşünmesi olmadığı konusunda uyarır — bu ayrım, bir rubrik ölçmek için yazılmadığı bir yeterliliği sertifikalandırmak için kullanıldığında önem kazanır.
 
 ## Yapay zeka tüketicilerinden üreticilere, yaratıcılara ve tasarımcılara geçiş ve CT
 

@@ -1,7 +1,7 @@
 ---
 title: Progettazione dell'apprendimento
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -32,8 +32,12 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 translation_of: "concepts/learning-design"
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
@@ -134,6 +138,8 @@ Fowlin et al. (2026) aggiungono una mossa operativa per decidere dove entra l'IA
 La progettazione modera gli effetti più della tecnologia nella sintesi di Zhang e colleghi: la stessa capacità della GenAI produceva g = 0,92 quando era il discente a dirigerla e g = 0,34 quando correva in autonomia. La modalità di interazione è quindi una decisione progettuale anziché una proprietà dello strumento ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 **Un ciclo di progettazione e verifica per l'apprendimento riflessivo.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] propongono SAREL — specificare la capacità riflessiva e un comparatore non basato sull'IA; assegnare il controllo a chi apprende e un percorso accessibile equivalente; richiedere riflessione e verifica; valutare l'apprendimento insieme a equità, carico di lavoro e uso delle risorse; riportare l'evidenza nel ridisegno — come modo per mantenere la riflessione supportata dall'IA una questione progettuale comparativa anziché un beneficio assunto dell'adozione. Le cinque fasi sono una proposta di autore non validata, offerta per inquadrare le domande giuste anziché come un metodo testato.
+
+**Progettare per i livelli al di sopra e al di sotto del corso.** Un corso è un livello dentro un sistema più ampio: chi apprende arriva con [[prior-knowledge|conoscenze pregresse]] e obblighi fuori classe, e l'istituzione che lo circonda fissa carico di lavoro, regole di acquisto e valutazione. Gli [[learning-environments-as-systems|ambienti di apprendimento intesi come sistemi]] nominano la posizione che tratta questi livelli come interagenti, così che uno strumento scelto a livello di corso viene verificato rispetto ai vincoli dell'istituzione e alla situazione reale di chi apprende anziché valutato come se il corso fosse chiuso.
 
 ## Fraintendimenti comuni
 

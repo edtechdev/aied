@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Etkenik YZ
 created: "2026-10-14T21:45:00-04:00"
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-21T09:43:50-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -80,7 +80,7 @@ Bilgi tabanındaki [[research-methods-aied|araştırma]] tasarım ve değerlendi
 - **Alan uygulamaları:** etkenik sistemler alanlar boyunca görünür; bunlar arasında [[learnmate2-llm-adaptive-learning|uyarlanabilir öğrenme aracıları]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagojik YZ aracıları]], [[guided-llm-scaffolding-independent-learning|yönlendirmeli YZ iskelelemesi]], [[cyberagents-gamified-cybersecurity-learning-2026|oyunlaştırılmış siber güvenlik öğrenme aracıları]] ve [[hdr-brachytherapy-agentic-ai-simulation-2026|klinik simülasyon aracıları]] vardır.
 - **Öğrenme deneyimi değerlendiricileri olarak web aracıları:** bir çevrimiçi [[learning-design|ders]] boyunca bir öğrenci gibi gezinen tek özerk bir "tarif eden" web aracısı — [[ai-web-agents-lesson-design-2025|Wang, Mitchell ve Piech (2025)]] — öğrenci bırakışını öngörmeye ve tasarımcıya gerçek öğrenenler katılmadan önce eyleme dönüştürülebilir geri bildirim sağlamaya yetecek kadar zengin bir tarif üretir; genel bir CS1 kursunda tam bir simüle kohortu ve her temel referanstan üstün performans gösterir. Bu, etkenik değerlendirmeyi (bir öğrenme deneyiminin vekil eleştirmeni olarak bir aracı) öğreten veya tasarlayan aracıların yanında etkenik YZ'nin ayrı, düşük maliyetli bir kullanımı olarak konumlandırır.
 
-- **Etkenik notlandırma, iş yükü değil güvenilirlik sorunudur.** Etkenik bir Claude Code kurulumuna üç rubrik dosyası ve bir bilgisayar grafiği dersinden 60 taranmış el yazısı ara sınav kâğıdı verilmiştir. Notları eğitmenle r = 0,97 düzeyinde uyuşmuş; 20 puanlık bir kâğıtta ortalama mutlak hata 0,85 puan, ortalama YZ lehine yanlılık 0,68 ve bir hafta arayla iki oturumda test-tekrar test ICC = 0,96 olmuştur. Toplam, nerede başarısız olduğunu gizler: ağırlıklı kappa çoktan seçmelide 0,98'den değerlendirici maddelerde 0,65'e inmiş, en zayıf durum elle çizilmiş şemalar olmuştur ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Tek bir ders, tek bir eğitmen ve tek bir rubrik kümesi varyansın yerini gösterir; etkenik notlandırmanın genellenebilir olduğunu kanıtlamaz.
+- **Etkenik notlandırma, iş yükü değil güvenilirlik sorunudur.** Etkenik bir Claude Code kurulumuna üç [[rubrics|rubrik]] dosyası ve bir bilgisayar grafiği dersinden 60 taranmış el yazısı ara sınav kâğıdı verilmiştir. Notları eğitmenle r = 0,97 düzeyinde uyuşmuş; 20 puanlık bir kâğıtta ortalama mutlak hata 0,85 puan, ortalama YZ lehine yanlılık 0,68 ve bir hafta arayla iki oturumda test-tekrar test ICC = 0,96 olmuştur. Toplam, nerede başarısız olduğunu gizler: ağırlıklı kappa çoktan seçmelide 0,98'den değerlendirici maddelerde 0,65'e inmiş, en zayıf durum elle çizilmiş şemalar olmuştur ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Tek bir ders, tek bir eğitmen ve tek bir rubrik kümesi varyansın yerini gösterir; etkenik notlandırmanın genellenebilir olduğunu kanıtlamaz.
 
 Etkenik mimariler, kesinlikte ölçülebilir bir bedel karşılığında kapsam satın alır. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah ve ark.'nın (2026)]] 926 iş ilanı örneği ve 1.696 altın standart beceri içeren kıyaslamasında, ESCO arama aracı kullanan bir ReAct aracısı %89,7 ile en yüksek geri çağırmayı elde etmiş; en iyi üretken yapılandırma %83,7'de, en iyi gömme modeli %49,1'de kalmıştır. Kesinliği %22,7 olmuş ve F1 %36,3'te kalarak araç temelli Gemini 2.5 Flash'ın %51,6'sının altında kalmış; örnek başına yaklaşık 16 saniye çalışmıştır. Bir insan danışman listeyi budayacaksa geri çağırma doğru ölçüttür; aracısız çıktı ise araç temelli alternatifi gerektirir.
 

@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 title: Öğretmenlik
 created: "2026-10-14T21:30:00-04:00"
 type: concept
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-21T02:34:45-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,8 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 - **Öğretmenlerin öğrenenleri tanıdığı yer olarak notlandırma.** [[wu-lam-genai-writing-assessment-professors-2026|Wu ve Lam (2026)]], 24 profesörün 5'inin notlandırmayı öğrenenlerini anlama biçimi olarak gördüğünü bildirir; dolayısıyla onu YZ'ye devretmek yalnızca saatleri değil, bir pedagojik bilgi kaynağını da ortadan kaldırır.
 - **Yönetişimin sınıf koşullarına çevirmeni.** [[socorro-philosophical-leadership-ai-2026|Socorro Márquez, Reyes Ortiz ve Torrez Meruvia (2026)]], 137 kaynağı üç evreli bir *felsefi liderlik* rolünde sentezler: kullanımdan önce etik yargı, kullanım sırasında pedagojik yönlendirme ve politika çevirisi. Burada öğretmen uluslarüstü yönlendirmeyi — gizlilik, şeffaflık, hesap verebilirlik — istek metni koşullarına, değerlendirme koşullarına ve öğrencilerin uygulanışını izleyebildiği retlere dönüştürür. Derlemenin işlenmiş örneği kişisel olarak tanımlanabilir bilgiyi istek metinlerinin dışında tutar ve modellemeyi duyurmak yerine açıkça gösterir. Rol ölçülmekten çok savunulmuştur: derleme felsefi liderliğin uygulamayı değiştirip değiştirmediğine dair hiçbir test bildirmez.
 
+**Devir standarta dayalıdır.** [[farooq-standard-anchored-delegation-teachers-2026|Farooq, Khan ve Raza (2026)]], Pakistan’ın Punjab bölgesinde 13 öğretmenle görüşmüş ve öğretmenlerin, harici bir standart — bir ders kitabı, müfredat ya da rubrik — sonuca uygulayabilecekleri doğru bir çıktıyı tanımladığında görev birimini üretken YZ’ye devrettiklerini bulmuştur; hiçbir öğretmen YZ tarafından taslağı yapılmış öğrenme hedeflerini kabul etmemiştir. Standart sahip olmak her zaman yeterli olmuyordu: bazı devlet okulu öğretmenleri, cevap anahtarları varken bile YZ ile not vermeyi reddetmiştir.
+
 ### Değişen rol fiilen nasıl görünüyor: somut örnekler
 
 "Orkestratör" soyutlamasını kavramak, öğretmen işindeki somut, gündelik kaymalar üzerinden daha kolaydır:
@@ -78,11 +80,13 @@ Dolayısıyla teşvik, en çok rapor kullanımının hâlâ büyüyebileceği ye
 
 Bilgi tabanındaki baskın metafor *orkestrasyondur*: öğretmenler insan öğrenenleri, [[intelligent-tutoring|YZ öğreticilerini]] ve müfredat kaynaklarını koordine eder. Bu, yerine koyma anlatılarıyla tezat oluşturur — YZ insan öğretiminin yerine geçmek yerine onu genişletir. Ampirik kanıt bu duruşu destekler: 42 çalışmayı (2023–2025) inceleyen PRISMA yönergeli bir [[meta-analysis-systematic-review|sistematik derleme]], LLM’lerin kısa ve iyi yapılandırılmış görevlerde insan derecelendiricileriyle eşitlendiğini, ancak uzun, çok dilli ve nüanslı işlerde performansın düştüğünü bulmuş — LLM’lerin öğretmenleri tam olarak yerine koyamayacağı ve hibrit, insan-devresinde (human-in-the-loop) değerlendirme sistemlerinin en yüksek not verme etkililiğine ulaştığı sonucuna varmıştır ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). Orkestrasyon merceği, öğretmenin temel becerisini *yargı* olarak yeniden çerçeveler: belirli bir öğrenen ve an için bir insanın, bir YZ’nin veya tasarlanmış bir öğrenme etkinliğinin doğru araç olup olmadığına karar vermek. [[teacher-intervention-k12-ai-based-instruction-2026]] üzerine yapılan 29 çalışmalık bir 2026 PRISMA derlemesi metaforu dört aşamalı bir döngüye keskinleştirir — izleme, yargı, müdahale, orkestrasyon — ve hiçbir aşamanın varsayılamayacağını gösterir. Öğretmenler paylaşımlalı denetimi tercih etmiş; YZ önerilerini kabul etmiş, değiştirmiş, reddetmiş veya geçersiz kılmış; bazıları müdahaleyi öğrenciler verimli biçimde zorlanarak çalışabilsin diye kasten ertelemiş; farkındalığı genişleten panolar dikkati aşırı yükleyebilir veya tek bir öğretmenin fiilen gerçekleştirebileceğinin ötesine geçebilmiştir. Bu panoların üç stratejisi — YZ çıktısının pedagojik çevirisi, öğrenme desteğinin tasarımı ve etkileşim yapılarının yeniden inşası — işi onaylamadan ziyade bağlama yeniden yerleştirme olarak tanımlar; bu da öğretmeni insan-devresinde (human-in-the-loop) gözden geçiren rolünden ziyade arabulucuya daha yakın konumlandırır. Sınıf gözlemi aynı davranışları türler olarak adlandırır. Deneyimli bir öğretmenin izlendiği altı ders, Drijvers’ın dört türüne üç orkestrasyon türü eklemiştir — pano-izleme, YZ-düzeltme ve YZ-aracılık — öğretmenin içerik ve etik rolleri en çok, YZ tarafından üretilen geri bildirimi düzelttiğinde görünür olmuştur ([[teachers-instrumental-orchestration-ai-math-2026|Noh ve Kim, 2026]]).
 
-Solistten çok orkestra şefi daha doğru bir figürdür. [[chen-future-faculty-development-ai-2027|Chen ve ark. (2026)]], tüm uzmanlığı kendisi sağlamak yerine uzmanlığı koordine eden bir öğretmen betimler; çok şubeli büyük bir kursta bir iki meslektaş görevleri ve rubrikleri yeniden tasarlarken diğerleri öğrenme mimarisini, araç değerlendirmesini veya kanıt toplamayı üstlenebilir. Bu dağıtımın bir tabanı vardır: ekibin her üyesi temel teknik ve etik yetkinliği korur; böylece rol dışarıya devredilmez, yönetilir.
+Solistten çok orkestra şefi daha doğru bir figürdür. [[chen-future-faculty-development-ai-2027|Chen ve ark. (2026)]], tüm uzmanlığı kendisi sağlamak yerine uzmanlığı koordine eden bir öğretmen betimler; çok şubeli büyük bir kursta bir iki meslektaş görevleri ve [[rubrics|rubrik]]leri yeniden tasarlarken diğerleri öğrenme mimarisini, araç değerlendirmesini veya kanıt toplamayı üstlenebilir. Bu dağıtımın bir tabanı vardır: ekibin her üyesi temel teknik ve etik yetkinliği korur; böylece rol dışarıya devredilmez, yönetilir.
 
 ### Evrilen ve eleştirel öğretmen rolleri
 
 Son çalışmalar orkestrasyon metaforunu daha zengin rol kavramsallaştırmalarına genişletir:
+
+- **YZ tarafından üretilen planların denetçisi olarak öğretmen.** On bir fen eğitimi uzmanı, YZ tarafından üretilmiş iki altıncı sınıf ders planını değerlendirmiş ve her ikisinin içeriği iyi karşıladığını ancak en düşük puanları yinelemeli mühendislik aşamalarında aldığını bulmuştur; dolayısıyla araçların planları, bitmiş öğretim değil, öğretmenin uyarlaması gereken taslaklardır ([[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu ve ark., 2026]]).
 
 - **Etkinlik geçişlerinde eş-orkestratör.** [[teacher-student-agency-orchestration|Yang ve ark. (2026)]], 17 öğretmen ve 13 öğrenciyle katılımcı hızlı tanışma (participatory speed dating) yöntemini kullanarak denetimin, bir sınıf etkinliğinin aşamalarına — bireysel ve işbirlikçi çalışma arasındaki öncesi, sırasında ve sonrası geçişlere — nasıl dağıtılması gerektiğini haritalar. Ortaya çıkan tasarım ilkesi, denetimin *sabit bir nokta olmadığıdır*: öğretmenler ve öğrenciler her aşamada farklı miktarda ajans ister; araç, öğretmenin gruplamayı, etkinlik geçişlerini ve müdahale zamanlamasını gerçek zamanlı olarak ayarlamasına, öğretmenin geçersiz kılma yetkisini korumasına izin vermelidir. Bu, öğretmeni **tüm canlı öğrenme ortamının eş-orkestratörü** olarak konumlandırır — genel orkestrasyon metaforundan daha özgül bir rol; kimin kiminle, ne zaman ve hangi destekle çalıştığına ilişkin ayrıntılı, ana ana kararlara odaklanır ve bireysel öğretim araştırmasını sınıf düzeyinde tasarıma bağlar.
 - **"Bilişsel koreograf."** Posthümanist çerçeveler, öğretmeni [[biology-education|biyolojik]] ve yapay sistemler arasına dağılmış bilişi orkestre eden bir *bilişsel koreograf* olarak yeniden çerçeveler; [[tpack]] ve SAM gibi enstrümantalist modellerin ötesine geçer.([[elsayed-pedagogical-symbiosis-posthuman-learner]])

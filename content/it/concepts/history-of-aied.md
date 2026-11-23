@@ -1,14 +1,14 @@
 ---
 title: Storia dell'IA nell'educazione
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -76,16 +80,6 @@ L'arrivo dell'[[generative-ai|IA generativa]] — un'ampia famiglia che include 
 - **Pesa il controllo contro l'agentività deliberatamente.** Che l'IA debba ottimizzare verso esiti standard o abilitare esiti diversi e diretti dallo studente è una scelta autentica con conseguenze istituzionali e politiche, non un dato tecnico.
 - **Preserva l'agentività dello studente.** La resistenza ricorrente alla standardizzazione e al controllo a favore di approcci aperti e centrati sullo studente è un filo durevole che vale la pena difendere.
 
-## Idee sbagliate comuni
-
-**"L'IA nell'educazione è cominciata con ChatGPT."** Non è così, e la convinzione è costosa perché rende invisibile ogni lezione precedente. Il [[intelligent-tutoring|tutoraggio intelligente]] discende dal lavoro sulla ricerca euristica e sui sistemi esperti degli anni '60 e '70, e la comunità AIED si è formata attorno a esso decenni prima dei [[llm|grandi modelli linguistici]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] mostrano i dibattiti attuali che riproducono una divisione già esplicita nei tutor cognitivi di Anderson e nel costruttivismo di Papert, quindi chi data il campo al 2022 ripercorrerà argomenti che il campo aveva già risolto, abbandonato o perso una volta.
-
-**"Il campo ha progressivamente abbandonato l'IA-come-analogia in favore degli strumenti applicati, e l'IA generativa continua quella tendenza."** È la correzione più istruttiva della pagina, perché la traiettoria è reale ma non monotona. L'analisi posizionale di [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian e Doroudi]] su AIED 1985, 1993, 2021 e 2024 e su IJAIED 2004, 2014 e 2021 mostra effettivamente una deriva da un campo misto verso una strumentalità applicata quasi esclusiva entro gli anni 2000. Ma ad AIED 2024, tre dei quattro articoli nel quadrante IA-come-analogia erano basati su LLM, incluso il lavoro di best-paper sugli agenti insegnabili basati su LLM. L'IA generativa **inverte** in parte la tendenza anziché estenderla, ed è per questo che trattarla come "il prossimo tutor intelligente" legge male dove si è effettivamente spostata la frontiera della ricerca.
-
-**"La personalizzazione significa adattare la difficoltà a ciascuno studente."** È solo uno dei due sensi incompatibili, e confonderli nasconde una scelta politica. Nel primo senso l'esito resta fisso e varia solo il percorso, con la discendenza che va dalle macchine per insegnare di Skinner al tutoraggio basato sulla padronanza. Nel secondo gli esiti stessi si diversificano, mentre gli studenti perseguono interessi individuali non vincolati da un curricolo standard (Zhao, 2024). Un [[intelligent-tutoring|ITS]] realizza il primo; il [[constructivist|costruttivismo]] il secondo. Uno strumento descritto come "personalizzato" non ti ha detto nulla finché non sai quale dei due intende.
-
-**"'Intelligenza artificiale' era semplicemente il nome ovvio per il campo."** Il termine fu una scelta deliberata. Quando McCarthy progettò il progetto di Dartmouth del 1956 preferì *intelligenza artificiale* a *cibernetica* in parte per prendere le distanze dalla tradizione del feedback analogico di Wiener. Quella singola decisione inquadrò le macchine in diretta comparazione con la cognizione umana, e l'inquadratura antropomorfa che ha installato continua a plasmare le priorità di ricerca, il linguaggio dei prodotti e le domande etiche che il pubblico pone.
-
 ## Indicazioni pratiche
 
 **Per docenti e progettisti didattici**
@@ -103,3 +97,13 @@ L'arrivo dell'[[generative-ai|IA generativa]] — un'ampia famiglia che include 
 
 - Usa i corpora storici come base di confronto anziché trattare il presente come l'unico confronto disponibile. I proceedings AIED del 1985, 1993, 2021 e 2024 e IJAIED del 2004, 2014 e 2021 sono un campione longitudinale già pronto delle affermazioni del campo stesso.
 - Cita la discendenza quando rivendichi novità. Un'affermazione che un sistema "personalizza l'apprendimento" o "modella lo studente" è nuova solo rispetto a una specifica tradizione precedente, e la tradizione è documentata.
+## Idee sbagliate comuni
+
+**"L'IA nell'educazione è cominciata con ChatGPT."** Non è così, e la convinzione è costosa perché rende invisibile ogni lezione precedente. Il [[intelligent-tutoring|tutoraggio intelligente]] discende dal lavoro sulla ricerca euristica e sui sistemi esperti degli anni '60 e '70, e la comunità AIED si è formata attorno a esso decenni prima dei [[llm|grandi modelli linguistici]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] mostrano i dibattiti attuali che riproducono una divisione già esplicita nei tutor cognitivi di Anderson e nel costruttivismo di Papert, quindi chi data il campo al 2022 ripercorrerà argomenti che il campo aveva già risolto, abbandonato o perso una volta.
+
+**"Il campo ha progressivamente abbandonato l'IA-come-analogia in favore degli strumenti applicati, e l'IA generativa continua quella tendenza."** È la correzione più istruttiva della pagina, perché la traiettoria è reale ma non monotona. L'analisi posizionale di [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian e Doroudi]] su AIED 1985, 1993, 2021 e 2024 e su IJAIED 2004, 2014 e 2021 mostra effettivamente una deriva da un campo misto verso una strumentalità applicata quasi esclusiva entro gli anni 2000. Ma ad AIED 2024, tre dei quattro articoli nel quadrante IA-come-analogia erano basati su LLM, incluso il lavoro di best-paper sugli agenti insegnabili basati su LLM. L'IA generativa **inverte** in parte la tendenza anziché estenderla, ed è per questo che trattarla come "il prossimo tutor intelligente" legge male dove si è effettivamente spostata la frontiera della ricerca.
+
+**"La personalizzazione significa adattare la difficoltà a ciascuno studente."** È solo uno dei due sensi incompatibili, e confonderli nasconde una scelta politica. Nel primo senso l'esito resta fisso e varia solo il percorso, con la discendenza che va dalle macchine per insegnare di Skinner al tutoraggio basato sulla padronanza. Nel secondo gli esiti stessi si diversificano, mentre gli studenti perseguono interessi individuali non vincolati da un curricolo standard (Zhao, 2024). Un [[intelligent-tutoring|ITS]] realizza il primo; il [[constructivist|costruttivismo]] il secondo. Uno strumento descritto come "personalizzato" non ti ha detto nulla finché non sai quale dei due intende.
+
+**"'Intelligenza artificiale' era semplicemente il nome ovvio per il campo."** Il termine fu una scelta deliberata. Quando McCarthy progettò il progetto di Dartmouth del 1956 preferì *intelligenza artificiale* a *cibernetica* in parte per prendere le distanze dalla tradizione del feedback analogico di Wiener. Quella singola decisione inquadrò le macchine in diretta comparazione con la cognizione umana, e l'inquadratura antropomorfa che ha installato continua a plasmare le priorità di ricerca, il linguaggio dei prodotti e le domande etiche che il pubblico pone.
+

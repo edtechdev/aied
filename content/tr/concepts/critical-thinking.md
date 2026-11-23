@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Eleştirel Düşünme
 created: "2026-10-14T22:20:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-21T09:01:46-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -88,7 +88,7 @@ Daha geniş bir enine kesit anket tersi yönü işaret etmektedir: 1.157 Çinli 
 Eleştirel düşünme; bilişsel talebi ayakta tutan YZ desteği tasarlamakla [[scaffolding]], eleştirel analizi ortaya çıkaran sorular formüle etmekle [[prompt-engineering]] ve YZ’ye ne zaman güvenileceğini ve ne zaman sorgulanacağını bilmekle [[cognitive-offloading|Aşırı Bağımlılık]] ile kesişir. [[academic-integrity]] için temeldir ve hem [[k-12]] hem [[higher-ed]] bağlamlarında [[ai-literacy]] çerçevelerinin kilit bir boyutu olarak hizmet eder.
 
 - **Üst düzey düşünme için provokasyon olarak YZ hataları:** [[pedagogy-ai-mistakes|Hosseini (2026)]], Bloom’un üst düzey düzeylerini (Analiz Etme, Değerlendirme, Oluşturma) öğrencilerin bir veritabanı dersinde YZ tarafından üretilmiş hataları sorgulamasıyla devreye sokar; konu alanı yetkinliğinde anlamlı ön/son kazanımlar (Cohen’ın *d*=1,49) görülür.
-- **YZ çıktısının eleştirisi, problem çözmenin bir yan ürünü değil, iskelelenebilir bir beceridir.** Yalnızca ilgili bir fizik problemini çözen gruplar, cilalı bir YZ çözümünü kabul etti veya kendi [[misconceptions|yanlış kanılarından]] onu eleştirdi; MAPS rubriğiyle yönlendirilen yansıtma ise eksik bütünleştirme ve tanımsız gösterime ilişkin uzmanla uyumlu eleştiriler üretti ([[probing-ai-generated-physics-solutions-2026|Borse ve ark. (2026)]]).
+- **YZ çıktısının eleştirisi, problem çözmenin bir yan ürünü değil, iskelelenebilir bir beceridir.** Yalnızca ilgili bir fizik problemini çözen gruplar, cilalı bir YZ çözümünü kabul etti veya kendi [[misconceptions|yanlış kanılarından]] onu eleştirdi; MAPS [[rubrics|rubriğiyle]] yönlendirilen yansıtma ise eksik bütünleştirme ve tanımsız gösterime ilişkin uzmanla uyumlu eleştiriler üretti ([[probing-ai-generated-physics-solutions-2026|Borse ve ark. (2026)]]).
 
 - **Eleştiri, YZ’nin kendi öz değerlendirmesinden ödünç alınabilir.** Su kullanımı modellerini bir ChatGPT-4o modeliyle karşılaştıran on iki hizmet öncesi öğretmen, YZ’nin kendisi hakkında listelediği zayıflıklarla örtüşen eleştiriler üretti ve hiçbiri çıktısında kalan bir hesap tutarsızlığını fark etmedi — cilalı bir sonuç, doğrulanmadan hayranlık uyandırabilir ([[cetin-ai-comparative-reflection-modelling-2026|Çetin ve Bilgili, 2026]]).
 

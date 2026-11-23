@@ -1,7 +1,7 @@
 ---
 title: Progettazione curricolare
 created: "2026-10-14T22:25:00-04:00"
-updated: "2026-11-22T12:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
 connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeling-problem-generation-platform-2026, ai-particle-physics-education-redesign-2026, ai-video-dual-gatekeeping-2026, ase-26-agentic-software-engineering-curriculum, bursic-ai-residency-education-curriculum-2026, caruana-pre-university-ai-education-slr-2026, computing-assessment-genai-workshop-report-2026, critical-media-literacy-education-2026, curriculum-as-code-instructional-design-2026, finkelstein-principled-ai-education-2025, genai-curriculum-analytics-mapping-higher-ed-2026, hingle-collaborative-ai-literacy-2025, icet-ml-education-trust-2026, ithaka-sr-ai-skills-college-graduates-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, learnai-just-in-time-ai-cocreation-university-2026, lee-ai-convergence-curriculum-korean-university-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mcinnes-salvaging-constructive-alignment-genai-2026, mechanical-engineering-ai-curriculum-2026, niri-steam-ai-literacy-review-2026, refrain-amplify-genai-curriculum-2026, reshaping-cs-education-genai, rewriting-curriculum-genai-pedagogy-2026, rodafinos-llm-curriculum-audit-2026, rook-plumb-genai-curricula-student-insights-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, tracing-genai-literacy-interaction-patterns, workforce-readiness-smart-manufacturing-wrl-2026, ying-genai-journalism-assessment-2026, zhou-constructive-alignment-genai-business-2026]
@@ -112,7 +116,7 @@ La struttura, non la formulazione del prompt, è ciò che rende affidabile la re
 
 ## Collegamenti con i concetti correlati
 
-La progettazione curricolare si collega direttamente a [[learning-design|la progettazione dell'apprendimento]] — il curricolo definisce il cosa, l'insegnamento definisce il come. Si collega a [[ai-literacy|l'alfabetizzazione sull'IA]] perché integrare le competenze sull'IA è una sfida curricolare primaria, a [[teacher-role|il ruolo dell'insegnante]] e a [[educational-development|lo sviluppo educativo]] perché il cambiamento curricolare richiede la preparazione degli educatori, e a [[scaffolding|lo scaffolding]] perché i curricoli ben progettati supportano lo sviluppo delle competenze attraverso corsi e anni. I collegamenti con [[higher-ed|l'istruzione superiore]] e [[k-12|il K-12]] riflettono la rilevanza della progettazione curricolare attraverso i livelli educativi.
+La progettazione curricolare si collega direttamente a [[learning-design|la progettazione dell'apprendimento]] — il curricolo definisce il cosa, l'insegnamento definisce il come. Si collega a [[ai-literacy|l'alfabetizzazione sull'IA]] perché integrare le competenze sull'IA è una sfida curricolare primaria, a [[teacher-role|il ruolo dell'insegnante]] e a [[educational-development|lo sviluppo educativo]] perché il cambiamento curricolare richiede la preparazione degli educatori, e a [[scaffolding|lo scaffolding]] perché i curricoli ben progettati supportano lo sviluppo delle competenze attraverso corsi e anni. I collegamenti con [[higher-ed|l'istruzione superiore]] e [[k-12|il K-12]] riflettono la rilevanza della progettazione curricolare attraverso i livelli educativi. A livello di programma è uno dei livelli che gli [[learning-environments-as-systems|ambienti di apprendimento intesi come sistemi]] trattano come interagenti con il corso, l'istituzione e la politica.
 
 **Scegliere un framework di alfabetizzazione sull'IA significa scegliere un vocabolario che nessuno ha raccordato.** In una revisione di scoping di 50 framework K-12, [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] hanno trovato definizioni di competenza convergenti su dimensioni cognitive, affettive, comportamentali, etiche e sociali, mentre le etichette e i costrutti non si allineavano. Solo il framework ABCE si avvicinava a una tradizione di misurazione condivisa, validata tra Hong Kong, Shanghai e Taiwan, e la progressione tra i gradi scolastici era proposta ripetutamente e verificata da nessuna parte.
 

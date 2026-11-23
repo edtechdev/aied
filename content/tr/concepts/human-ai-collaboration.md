@@ -1,14 +1,14 @@
 ---
 title: İnsan–YZ İşbirliği
 created: "2026-10-14T07:52:47-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-21T09:01:46-05:00"
+source_updated: "2026-11-23T09:48:57-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -104,6 +104,8 @@ Bu durum insan–YZ işbirliğini teknik bir kavram kadar *pedagojik* bir kavram
 - **Yönlendirmek, söylemek değil, bir ajanı yargılamak için kendi ölçütünü gerektirir.** Öğretmen kolaylaştırmasını yansıtmayı amaçlayan bir tasarım vakası, küratörlü bir tabana sınırlandırılmış bir bilgi ajanının doğruluk üzerinden değerlendirilebildiğini, öğrencileri kendi yanıtlarına yönlendirmesi beklenen bir ajanın ise değerlendirilemediğini buldu ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg ve ark., 2025]]).
 
 - **Ortaklık yalnızca öğrenci öğrenmesine değil araştırma sürecinin kendisine de uzanır** — [[potter-participatory-design-writing-analytics-2026|Potter ve ark. (2026)]], güvenli bir RAG platformunda GPT-4o'ya kodlar ve ön temalar yazdırırken üç çekirdek araştırmacı ve iki dış doğrulayıcı yorumlayıcı otoriteyi korumuş ve dört nihai temada birleşmiştir. Hibrit iş akışı araştırmacı emeğini ortadan kaldırmak yerine yeniden dağıtmıştır.
+
+- **Yetkinlik, hesap verebilir devir biçimi olarak.** [[li-human-ai-professional-competence-2026|Li ve Torrisi-Steele (2026)]], İnsan–YZ Mesleki Yetkinliği kavramını sunar ve 560 öğrenen ile 240 öğretim üyesi üzerinde, bilişsel devrin tek başına bunu öngörmediğini (β = −0,041, p = 0,242), buna karşılık bilişsel sahipliğin ve deneyimsel yargının öngördüğünü bulur; öğretim üyesi de devredilebilir uygulamayı devredilemeyen doğrulama ve yargıdan ayırır.
 
 ## Bağlantılar
 

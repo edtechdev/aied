@@ -1,7 +1,7 @@
 ---
 title: Pensiero computazionale
 created: "2026-10-14T22:05:00-04:00"
-updated: "2026-11-22T12:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -61,6 +65,16 @@ Le competenze durevoli si spostano quando l'implementazione è automatizzata: un
 - Il pensiero computazionale è anche misurato come disposizione: in uno studio di terza media di tre settimane con il gioco, le tendenze CT auto-riferite corrette favorivano la classe GenAI, 4,325 contro 4,037 (p = ,046, eta quadrato parziale = ,052, n = 78). Un test di conoscenza algoritmica non li separava (80,7 vs 74,9), quindi tendenza e conoscenza misuravano costrutti diversi ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 I profili per sotto-abilità complicano il singolo punteggio CT che un disegno pre-post riporta. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij e Khlaisang (2026)]] hanno sottoposto 28 studenti universitari thailandesi fuori dal campo informatico a otto settimane di sessioni di tre ore che abbinavano un ciclo [[design-thinking|design-thinking]] in cinque passi alla costruzione di app low-code, punteggiando il lavoro di progetto con una [[rubrics|rubrica]] a tre punti. Il pensiero computazionale medio è salito da 1,13 nella prima sessione a 1,80 e poi 2,49, con il pensiero algoritmico come filo più forte a 2,08 e una traiettoria di 1,46→1,93→2,86. Il pensiero logico era in media 1,54 e si è mosso appena tra le prime due sessioni, da 1,04 a 1,29, prima di raggiungere 2,29 nella terza — un promemoria che i guadagni in una componente non implicano che le altre abbiano seguito.
+
+## Il pensiero sistemico come pratica di CT
+
+Il pensiero sistemico è uno dei quattro domini della tassonomia del pensiero computazionale per la matematica e le scienze sviluppata da Weintrop e colleghi, accanto alle Pratiche sui Dati, alle Pratiche di Risoluzione Computazionale dei Problemi e alle Pratiche di Modellizzazione e Simulazione. La sua definizione è precisa: **la capacità di definire i confini di un sistema e di sintetizzare le interazioni a livello micro in un comportamento a livello macro**. Si tratta di una capacità cognitiva a livello di chi apprende — un modo di ragionare su un sistema — ed è distinta dalla posizione a livello di ambiente che tratta un ambiente di apprendimento come un sistema ([[learning-environments-as-systems|ambienti di apprendimento intesi come sistemi]]).
+
+È anche il dominio in cui la valutazione si rompe per prima. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch e Rebello (2026)]] hanno codificato le spiegazioni scritte di 936 studenti in un corso introduttivo di fisica computazionale rispetto alla tassonomia, calibando una baseline umana su 10 studenti (60 risposte, κ di Fleiss = 0,53) e codificando poi 50 studenti (300 risposte) per maggioranza. Gli studenti sono cresciuti soprattutto nelle Pratiche sui Dati (p < 0,001, d = 1,03), con guadagni moderati nella Risoluzione Computazionale dei Problemi (d = 0,52) e nel Pensiero Sistemico (d = 0,45). Ma il Pensiero Sistemico era il costrutto meno affidabile *sia* per gli umani *sia* per i modelli: accordo umano κ = 0,51 e LLM κ = 0,48, contro κ = 0,90 per le Pratiche sui Dati e κ = 0,78 per la Modellizzazione e Simulazione. La lettura degli autori è che la difficoltà deriva dalla complessità del costrutto anziché da una carenza del modello: un costrutto multi-componente che chiede allo studente di identificare i componenti *e* di spiegarne le interazioni e le conseguenze è più difficile da codificare di uno ben definito. La Modellizzazione e Simulazione mostrava d = 0,00 per un motivo non correlato, un effetto soffitto: la media pre-istruzione era già 1,62 su 2, quindi quell'item misurava la conoscenza di base anziché la crescita.
+
+La conseguenza pratica è un problema di progettazione delle rubriche, non un problema del modello. La loro raccomandazione è riscrivere la rubrica in modo che l'identificazione dei componenti del sistema venga valutata separatamente dalla spiegazione di come questi componenti interagiscono, e leggere il basso accordo automatizzato su un costrutto integrato come un segnale di rivedere lo strumento anziché abbandonare l'automazione. È la stessa mossa alla quale la ricerca sulle [[rubrics|rubriche]] arriva dal lato del punteggio: è lo strumento, non il modello, a calibrare.
+
+Il costrutto viaggia oltre la fisica. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz e Castro Samayoa (2026)]] nominano il pensiero sistemico come una delle capacità che Aoun definisce *a prova di robot* — pensiero critico, pensiero sistemico e agilità culturale — quelle che la pratica costruisce e la delega no. [[huang-ai-literacy-vocational-problem-solving-2026|Huang e colleghi (2026)]] delimitano il proprio costrutto di "pensiero sistematico" rispetto ad esso, trattando il loro come una misura stretta a quattro dimensioni (strutturazione, ragionamento, prioritizzazione, integrazione) e rifiutando esplicitamente di chiamarlo pensiero sistemico nel senso ampio. E [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea e Valencia-Silva (2026)]] avvertono che l'impegno non è pensiero sistemico — una distinzione che conta quando una rubrica viene usata per certificare una competenza che non era stata scritta per misurare.
 
 ## Il CT e il passaggio dal consumo di IA alla produzione, creazione e progettazione
 

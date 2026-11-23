@@ -1,7 +1,7 @@
 ---
 title: "Identità dello studente"
 created: "2026-10-14T22:05:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -41,6 +45,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Introduzione
 
 L'identità dello studente riguarda chi uno studente comprende di essere, e chi sta diventando, all'interno di un dominio — un costrutto motivazionale e sviluppoale distinto dalle credenze di abilità come l'[[self-efficacy|autoefficacia]], che rispondono alla domanda più ristretta *so farlo?* L'identità si forma attraverso partecipazione, riconoscimento e paternità: vedersi riflessi in un campo e vedere quella propria visione di sé confermata dagli altri. L'IA rimodella tutte e tre le condizioni, perché cambia chi compie il lavoro, che cosa conta come contributo proprio e se uno studente è riconosciuto come autore del proprio apprendimento ([[agency|agency]], [[metacognition|metacognizione]]).
+
+I voti sono una relazione oltre che un simbolo: gli studenti finiscono per vedersi attraverso di essi, quindi una riforma che lascia intatto il libretto lascia intatta anche quella relazione ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Perché l'identità conta per l'IA nell'educazione
 
@@ -64,6 +70,10 @@ Una condizione di paternità distinta, non solo una minaccia alla paternità: qu
 - **Adozione guarding: uso selettivo dell'IA come protezione dell'identità.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] ha sondato 484 studenti in un'università australiana e ha trovato che gli studenti con risultati più alti riportavano un impegno attivo *inferiore* verso l'[[generative-ai|IA generativa]], un affetto positivo inferiore verso l'IA, un impatto percepito [[self-report-measures|sull'apprendimento]] inferiore e un distacco legato all'IA inferiore, con le associazioni più forti a rho = -0,395 per l'impatto percepito sull'apprendimento e rho = -0,359 per l'affetto positivo. Le loro risposte aperte descrivevano un uso selettivo (chiarificazione, riassunto, supporto al flusso di lavoro), verificato e tenuto subordinato al proprio giudizio, e i risultati a livello di item mostravano un accordo maggiore sul fatto che l'affidarsi all'IA ostacoli il [[critical-thinking|pensiero critico]] e la [[problem-solving|risoluzione autonoma dei problemi]]. Gli autori lo leggono come lavoro identitario: per studenti il cui senso di sé come studenti di successo poggia sul proprio sforzo e giudizio, delimitare l'uso dell'IA difende l'[[agency|agency epistemica]] da cui l'identità dipende — il che significa anche che il modello non è né tecnofobia né basso impegno.
 
 - **Uno scopo dichiarato non governa necessariamente una decisione sull'IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] hanno intervistato 14 studenti universitari e codificato ogni intervista per il rapporto tra lo [[self-determination-theory|scopo]] dello studente — un'intenzione personalmente significativa di contribuire oltre il sé — e le sue scelte sull'IA. Solo alcuni stabilivano il collegamento: una rifiutava l'IA perché i suoi costi ambientali e umani contraddicevano il suo scopo, e tre lasciavano che l'identità professionale futura plasmasse le loro scelte ("contribuisce alla psicologa che sarò nel mondo un giorno"). Altri con un senso di scopo altrettanto chiaro non facevano alcun collegamento, descrivendo scopo e IA come "una cosa separata", quindi avere un'identità da proteggere non equivaleva ad attingervi. Il lavoro separa anche le ragioni che gli studenti danno per tenere proprio il lavoro — sviluppo di competenze, [[evaluative-judgment|paternità e orgoglio]], e obiezione morale — che arrivano attraverso meccanismi diversi e non dovrebbero essere accorpate in un unico motivo.
+
+- **La capacità può arrivare prima dell'appartenenza.** Un'autoetnografia di 73 giorni su un educatore di bioinformatica che costruiva un gioco in un dominio a lui estraneo ha trovato che la [[generative-ai|GenAI]] forniva la capacità ma non l'identità: l'appartenenza arrivava attraverso la partecipazione alle comunità di pratica e un sensmaking ripetuto, e raggiungerla richiedeva un ritmo umano ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+
+- Anche il rifiuto è lavoro identitario: tra cinque apprendisti secondari di colore, il non-uso affermava controllo, rispettava le regole istituzionali o segnalava valori epistemici, mentre le risposte neutre dell'IA producevano una «banalizzazione culturale» che lasciava le loro esperienze senza riconoscimento ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Rapporto con l'agenzia dello studente
 

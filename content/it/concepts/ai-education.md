@@ -1,7 +1,7 @@
 ---
 title: "IA in educazione"
 created: "2026-10-14T21:57:00-04:00"
-updated: "2026-11-22T12:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-22T11:55:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -90,7 +94,7 @@ Queste due dimensioni non sono separate: [[ai-literacy|usare bene l'IA]] richied
 
 ## Fondamenti dell'IA in educazione
 
-I concetti trasversali e fondativi del campo ancorano la copertura della knowledge base e compaiono per primi nella barra laterale. Si aprono con un gruppo **Fondamentali** — i concetti da cui ogni lettore dovrebbe partire: l'ombrello stesso, i [[misconceptions|fraintendimenti sull'IA]], l'[[ai-literacy|alfabetizzazione sull'IA]], l'[[agentic-ai|IA agentica]], il [[cognitive-offloading|cognitive offloading]], il [[framing-ai-use-for-students|modo in cui l'uso dell'IA è inquadrato per gli studenti]], la [[reducing-ai-misuse|riduzione dell'uso improprio dell'IA]], l'[[academic-integrity|integrità accademica]], il [[teacher-role|ruolo dell'insegnante]], la [[learning-design|progettazione dell'apprendimento]] e lo [[educational-development|sviluppo educativo]]. Il filone del **campo** copre poi [[history-of-aied|la storia del campo]], le [[limitations-in-aied-research|limitazioni trasversali della base di evidenze]], la [[philosophy-of-ai-in-education|sua filosofia]], la mappa delle [[theories-and-frameworks|teorie e dei framework]] e la [[theory-development-aied|sviluppo della teoria]]. I temi trasversali — [[human-ai-collaboration|collaborazione umano–IA]], [[agency|agency del discente]], [[learner-identity|identità del discente]], [[design-thinking|design thinking]], [[curriculum-design|progettazione curricolare]], [[critical-thinking|pensiero critico]] e [[computational-thinking|pensiero computazionale]] — attraversano ogni filone, perché i modelli mentali inaccurati che le persone hanno dell'IA stanno a monte dell'[[ai-misuse-learning-harm|uso improprio]] e di una [[trust-calibration|fiducia]] sotto-calibrata.
+I concetti trasversali e fondativi del campo ancorano la copertura della knowledge base e compaiono per primi nella barra laterale. Si aprono con un gruppo **Fondamentali** — i concetti da cui ogni lettore dovrebbe partire: l'ombrello stesso, i [[misconceptions|fraintendimenti sull'IA]], l'[[ai-literacy|alfabetizzazione sull'IA]], l'[[agentic-ai|IA agentica]], il [[cognitive-offloading|cognitive offloading]], il [[framing-ai-use-for-students|modo in cui l'uso dell'IA è inquadrato per gli studenti]], la [[reducing-ai-misuse|riduzione dell'uso improprio dell'IA]], l'[[academic-integrity|integrità accademica]], il [[teacher-role|ruolo dell'insegnante]], la [[learning-design|progettazione dell'apprendimento]] e lo [[educational-development|sviluppo educativo]]. Il filone del **campo** copre poi [[history-of-aied|la storia del campo]], le [[limitations-in-aied-research|limitazioni trasversali della base di evidenze]], la [[philosophy-of-ai-in-education|sua filosofia]], la mappa delle [[theories-and-frameworks|teorie e dei framework]], la [[theory-development-aied|sviluppo della teoria]] e gli [[learning-environments-as-systems|ambienti di apprendimento intesi come sistemi]], che tratta un ambiente di apprendimento come un sistema multi-livello le cui parti interagiscono. Uno strumento o una politica introdotta a un livello produce effetti sugli altri. I temi trasversali — [[human-ai-collaboration|collaborazione umano–IA]], [[agency|agency del discente]], [[learner-identity|identità del discente]], [[design-thinking|design thinking]], [[curriculum-design|progettazione curricolare]], [[critical-thinking|pensiero critico]] e [[computational-thinking|pensiero computazionale]] — attraversano ogni filone, perché i modelli mentali inaccurati che le persone hanno dell'IA stanno a monte dell'[[ai-misuse-learning-harm|uso improprio]] e di una [[trust-calibration|fiducia]] sotto-calibrata.
 
 ## Apprendimento e istruzione
 

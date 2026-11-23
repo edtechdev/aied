@@ -1,5 +1,5 @@
 ---
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 title: "Öğretmen YZ Yetkinliği"
 created: "2026-10-14T22:20:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-18T10:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -72,7 +72,7 @@ Bilgi tabanının araştırması, birbiriyle bağlantılı birkaç boyutta birle
 
 - Beş ülkedeki 1.405 K-12 öğretmeninin anketinde, YZ hazırbulunuşu, üretici YZ'nin öğretimsel değerine ilişkin olumlu inançları öngördü (B = .59, R² = .50) ama *daha fazla* [[creativity]] kaygısını öngördü (B = .18) ve aynı öngörücüler kaygının yalnızca %7'sini ve %6'sını açıkladı — yalnızca hazırbulunuş inşası kaygıyı dokunulmaz bırakır ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu ve ark. (2026)]]).
 
-Hazırbulunuş buna göre sıralanmalı ve ölçülmelidir: Yetenek–Karar Modeli, gösterilmiş YZ yeteneğini tutum ve güvenin önünde konumlandırır ve yalnızca öz bildirim yerine performans göstergeleri önerir — ders tasarım görevleri, hata tohumlu istek değerlendirme görevleri, içerik geçerliliği yargıları ve sınıf ürünü derecelendirme ölçekleri ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+Hazırbulunuş buna göre sıralanmalı ve ölçülmelidir: Yetenek–Karar Modeli, gösterilmiş YZ yeteneğini tutum ve güvenin önünde konumlandırır ve yalnızca öz bildirim yerine performans göstergeleri önerir — ders tasarım görevleri, hata tohumlu istek değerlendirme görevleri, içerik geçerliliği yargıları ve sınıf ürünü [[rubrics|derecelendirme ölçekleri]] ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **Duygusal ve ahlaki hazırbulunuş ayrı bir boyuttur.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]], bir Malta [[higher-ed|üniversitesinin]] akademik personelini (109 katılımcı) anketledi ve dört ahlaki-duygu maddesinden bir YZ Suçluluk Dizini (α = 0,88) oluşturdu; kullanımdan sonra yaşanan pişmanlığın üzerinde *önceden beklenen* suçluluğun ağır bastığını buldu: en güçlü onay, YZ kullanımının inandırıcılığı baltalayacağı endişesiydi (%34,9 onaylayan), sonra onu kullanırken [[academic-integrity|hile]] yapıyormuş gibi hissetmek (%25,7); kullanım sonrası pişmanlık ise yalnızca %9,2 çekti. Yetkinlik çerçeveleri için önemli olan bulgular şunlardır: kullanmayanlar kullananlardan *daha yüksek* suçluluk bildirdi (M = 3,25'e karşı M = 2,32) ve suçluluk kariyer güvencesi arttıkça düştü — kariyerinin başındaki akademisyenler en yükseğini bildirdi (M = 2,71), kıdemli akademisyenler en düşüğünü (M = 2,03). Duygusal hazırbulunuş bu nedenle beceri veya güven ölçütleriyle yakalanmaz ve makale, yetkinlik çerçevelerinin suçluluğu ve kimlik kaygısını düzeltilmesi gereken kusurlar değil normal geçiş yanıtları olarak ele alması gerektiğini savunur.
 

@@ -1,7 +1,7 @@
 ---
 title: Öğrenen Etkenliği
 created: "2026-10-14T21:38:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -133,6 +133,8 @@ Gerçekleştirilmiş etkenlik ile kalıcı kimlik arasındaki bu ayrım, reddetm
 Çerçevenin sınır koşulu **itiraz edilebilirliği** (YZ çıktısını sorgulama ve çapraz denetleme kapasitesi), **kaynağı** (eğitim verilerinin ve çıktının nereden geldiğini bilme) ve **ahlaki ve fikri kredinin devredilmemesini** (öğrenen refahı, akademik durum ve notlar hakkında yüksek riskli yargıların yalnızca YZ tarafından belirlenmemesi) gerektirir. Bu, eğitimcilere ve [[stakeholders|politika yapıcılara]], insan ve yapay katkılar arasındaki bulanık "denge"den daha kesin bir kelime dağarcığı verir; etkenliği [[ethics]], [[assessment]], [[equity-in-ai-education]] ve [[governance]]'ya bağlar.
 
 Yakından ilişkili bir çerçeveleme, **ilişkisel epistemik etkenliktir** ([[du-yuan-epistemic-dependence-2026|Du ve Yuan 2026]]); bu da etkenliğin toplumsal olarak mümkün kılındığını ve teknolojik olarak aracılandığını, bağımlılıktan yalıtım meselesi olmadığını kabul eder. Ekolojik Ortak Etkenlik Çerçevesi'nin insan epistemik hesapverebilirliğini pazarlığa kapalı bir sınır olarak vurguladığı yerde, Du ve Yuan açık bir *asimetri* korur: YZ sistemleri karşılıklı sorumluluk veya meşru otoriteye sahip olmadan akıl yürütmeyi şekillendirebilir ve genişletebilir. Altı tanı ölçütleri — itiraz edilebilirlik, geri kazanılabilirlik, aktarma, izlenebilirlik, dağıtılmış sorumluluk ve epistemik çoğulluk — bir insan–YZ ilişkisinin, iddiaların nasıl oluşturulduğuna, değerlendirildiğine ve kabul edildiğine katılım kapasitesini ne zaman koruduğuna karşılık yalnızca bir ürün teslim ettiğine dair pratik bir test sağlar. Bu hesapta etkenlik, araçlardan bağımsızlık değil, bilgiyi aracılandıran sistemlerle *birlikte, yoluyla ve karşısında* sorumlu biçimde yargılama kapasitesidir.
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]], yapay zekâ yetkinliğinin, yargıyı sonuçsal kılan kurumsal koşullar olmadan yetersiz olduğunu savunur — bildirim, anlaşılır gerekçeler, insan incelemesi, itiraz ve geçersiz kılma ile belgelenmiş hesap verebilirlik — ve etkenliği bireysel olarak sahip olunan bir şeyden çok kurumsal otoriteyle kurulan etkileşimde elde edilen bir şey olarak yeniden çerçeveler. Üniversiteler; satın alan, değerlendirme otoritesi ve gözetim kullanıcısı olarak onu mümkün kılabilir veya kısıtlayabilir; bu da soruyu yalnızca öğrenen yetkinliğinden, yargının YZ aracılı kararları değiştirdiği haklar ve usuller üzerine kaydırır.
 
 - **Devredilmiş etkenlik, yalnızca bir risk değil bir mekanizmadır.** [[yan-agentivism-learning-theory-ai-2026|Yan ve Gašević (2026)]], bilişsel işin YZ'ye devredilmesini öğrenmenin nasıl gerçekleştiğinin bir parçası olarak ele alır, yalnızca ona yönelik bir tehdit olarak değil: hesaplarında yardımlı performans, öğrenen problemi çerçeveleme, ölçüt belirleme ve yanıtları gerekçelendirme sorumluluğunu elinde tuttuğunda kalıcı bir yeteneğe dönüşür; devredilmiş etkenlik adını verdikleri bir iş bölümü. Bu, tahsisin kendisini tasarım değişkeni yapar, çünkü aynı araç hangi sorumlulukları özümsediğine bağlı olarak öğrenen etkenliğini koruyabilir veya çözebilir.
 
