@@ -6,8 +6,31 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-22
-**Total backlog:** 43 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-23
+**Total backlog:** 57 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-23)
+
+Ingested 11 papers from full text: five Frontiers journal articles, one Springer Discover Education
+systematic review with meta-analysis, three arXiv preprints (including one physics.ed-ph), and two
+IJAIPIL journal articles. Fourteen further candidates cleared the relevance filter but were not
+ingested to keep the batch bounded. The four BMC Medical Education papers below are blocked at the
+publisher (Springer Nature Link serves the abstract only and the PDF endpoint returns a bot page), so
+they await a supplied PDF; the rest are open access and the landing page unblocks each one.
+
+- [Effects of AI-assisted case discussion and virtual patient consultation on medical students' learning outcomes](https://doi.org/10.1186/s12909-026-10901-8) — [DOI: 10.1186/s12909-026-10901-8](https://doi.org/10.1186/s12909-026-10901-8) — *BMC Medical Education*; 207 undergraduates, two between-subjects experiments. Abstract only.
+- [Generative artificial intelligence-related concerns among medical students in the West Bank, Palestine: a cross-sectional study](https://doi.org/10.1186/s12909-026-10896-2) — [DOI: 10.1186/s12909-026-10896-2](https://doi.org/10.1186/s12909-026-10896-2) — *BMC Medical Education*; 399 students, FAME scale. Abstract only.
+- [Accuracy and explanation quality of three large language models on European anaesthesiology board examination practice questions](https://doi.org/10.1186/s12909-026-10913-4) — [DOI: 10.1186/s12909-026-10913-4](https://doi.org/10.1186/s12909-026-10913-4) — *BMC Medical Education*; 262 questions, three models. Abstract only.
+- [Students experiences of using artificial intelligence to learn research methodology: an experiential qualitative study](https://doi.org/10.1186/s12909-026-10914-3) — [DOI: 10.1186/s12909-026-10914-3](https://doi.org/10.1186/s12909-026-10914-3) — *BMC Medical Education*; 14 students. Abstract only.
+- [Exploring Cognitive Synergy Framework on Computing Students Epistemic Agency in Robotics Education](https://doi.org/10.1177/07356331261511181) — [DOI: 10.1177/07356331261511181](https://doi.org/10.1177/07356331261511181) — *Journal of Educational Computing Research*; 410 undergraduates across six universities. Full text retrieved, not ingested this run.
+- [Consequential Human Agency in AI-Enabled Higher Education: Capability, Institutional Authority, and the Right to Contest](https://doi.org/10.46787/ijaipil.v1i3.8277) — [DOI: 10.46787/ijaipil.v1i3.8277](https://doi.org/10.46787/ijaipil.v1i3.8277) — *IJAIPIL*; conceptual framework. Full text retrieved, not ingested this run.
+- [A Frugal AI Framework for India: Responsible and Right-sized AI](https://arxiv.org/abs/2611.27189) — arXiv:2611.27189 — white paper on right-sized AI for low-resource settings.
+- [Beyond Math, Code, and Logic: Do Reasoning Models Transfer to Scientific Argumentation?](https://arxiv.org/abs/2611.27722) — arXiv:2611.27722 — seven argumentation tasks; adjacent (non-educational) evidence.
+- [Retrieval-Augmented Virtual Patients for Eating Disorders](https://osf.io/z6gnv) — PsyArXiv/OSF preprint; medical education + RAG.
+- [Cognitive variability on stable ground: A narrative review of cognitive fluctuation in childhood and adolescence](https://osf.io/5yqvk) — PsyArXiv/OSF preprint; adjacent educational psychology.
+- [Using AI to Improve Interpersonal Skills in Undergraduate Teams: A Focused Review and Classroom Exercise](https://doi.org/10.46787/ijaipil.v1i5.8299) — [DOI: 10.46787/ijaipil.v1i5.8299](https://doi.org/10.46787/ijaipil.v1i5.8299) — *IJAIPIL*; focused review of nine studies.
+- [Structural Equation Modelling of ChatGPT Adoption: Testing a Modified UTAUT Model with Modating Variables](https://doi.org/10.53761/51sy5y07) — [DOI: 10.53761/51sy5y07](https://doi.org/10.53761/51sy5y07) — technology-adoption SEM.
+- [Medical Reasoning in Large Language Models: Development and Evaluation of the MedEvalArena Benchmark](https://doi.org/10.2196/96885) — [DOI: 10.2196/96885](https://doi.org/10.2196/96885) — *JMIR*; scrape blocked.
 
 ## Weekly journal RSS scan (2026-11-22)
 

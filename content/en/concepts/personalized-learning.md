@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T09:46:14-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: medium
 reviewed_by: [editor]
 connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
-connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]
+connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026, nawarathne-genai-learning-styles-2026]
 ---
 
 > **Personalized learning** — tailoring educational experiences to individual [[student-modeling|learner profiles]], including prior knowledge, learning pace, preferences, and [[affective-computing|affective]] states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.
@@ -98,6 +98,7 @@ Personalization can also assemble all three learner variables into one pipeline 
 They rank materials with the lightweight EASE recommender (AUROC 0.955), re-rank the top-10 by DeepIRT proficiency estimates (best MCC 0.34), and filter items a survival forest flags as high dropout risk (C-index 0.662).
 Each learner's entry difficulty is set to the level whose predicted probability of a correct answer sits closest to 0.75.
 
+**Generative AI reopens the learning-styles question without settling it.** [[nawarathne-genai-learning-styles-2026|Nawarathne, Haddela and Kodagoda (2026)]] reviewed 41 studies mapping Generative AI onto VARK, Kolb, Felder-Silverman and Honey & Mumford, and found the value lies in multimodal flexibility — the same content in several formats at once — rather than in matching a fixed style preference. The review also records the longstanding criticism that learning-style theories lack robust empirical evidence.
 ## How strong is the evidence
 
 The only pooled estimate available here comes from a [[meta-analysis-systematic-review|meta-analysis]] of four controlled studies covering 420 students, all in computing and engineering higher education ([[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor & García Ortiz, 2026]]). The random-effects pooled effect is large, *g* = 1.01 (95% CI 0.33–1.68), and that number should be read as a caution rather than a headline. With four studies, the Hartung-Knapp adjustment widens the interval to −0.10 to 2.11 (*p* = .063), which includes no effect.
