@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,10 +10,14 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-17T08:35:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -32,6 +36,7 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
+connected_resources: [gradebench, raid-benchmark-leaderboard, fab-ai-benchmark-leaderboard]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -63,7 +68,8 @@ Los puntos de referencia constituyen la base probatoria de la [[ai-education|inv
 
 Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la IA educativa]] y la [[assessment-validity|validez de la evaluación]]: sin puntos de referencia rigurosos, las afirmaciones sobre la eficacia de la [[intelligent-tutoring|tutoría con IA]] no son verificables. También se cruzan con la [[bias-mitigation|mitigación de sesgos]], ya que el diseño de un punto de referencia puede codificar o amplificar sesgos. La tensión entre el rendimiento en puntos de referencia y la utilidad en el mundo real se explora en varios artículos, y conecta con las preocupaciones sobre la [[transfer-of-learning|transferencia del aprendizaje]] en aplicaciones de [[generative-ai|IA generativa]].
 
-- **Cuando el fallo está en la métrica y no en el sistema:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] obtuvo BLEU-4 = 0,0000 en las 179 preguntas teóricas de examen de [[cs-education|informática]], mientras que una rúbrica pedagógica de seis criterios dio 0,7620, porque demostraciones lógicamente equivalentes difieren habitualmente en notación, nombres de variables y estrategia de demostración. Una puntuación de cero dice más sobre el solapamiento de n-gramas que sobre la calidad de la respuesta, que es el argumento general contra tratar las métricas superficiales como la cifra principal para los sistemas de IAED en dominios formales.
+- **Los puntos de referencia de diagnóstico exponen un exceso de confianza probatoria.** En [[llm-cognitive-diagnosis-handwritten-math|MathCog]], los 18 LLM evaluados quedaron por debajo de un F1 macro de 0,5 en 3.036 veredictos de matemáticas manuscritas anotados por docentes, sobreatribuyendo fuerza probatoria y fabricando citas de evidencia, fallos que los autores cuantifican con las métricas OverAttr y FalseAttr.
+- **Cuando el fallo está en la métrica y no en el sistema:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] obtuvo BLEU-4 = 0,0000 en las 179 preguntas teóricas de examen de [[cs-education|informática]], mientras que una [[rubrics|rúbrica]] pedagógica de seis criterios dio 0,7620, porque demostraciones lógicamente equivalentes difieren habitualmente en notación, nombres de variables y estrategia de demostración. Una puntuación de cero dice más sobre el solapamiento de n-gramas que sobre la calidad de la respuesta, que es el argumento general contra tratar las métricas superficiales como la cifra principal para los sistemas de IAED en dominios formales.
 - **Puntos de referencia contrafactuales a nivel de constructo.** CFES-P24 expresa principios del aprendizaje multimedia como transformaciones deterministas y reversibles de diapositivas, para auditar si los MLLM responden a constructos específicos de diseño instruccional en lugar de producir valoraciones holísticas plausibles. Un piloto congelado mostró reconocimiento de constructos (operación, principio, reparación, localización de evidencia) de 8/8, mientras que el juicio comparativo (dirección 6/8) y la calibración de la severidad (0/8) fallaron, lo que aboga por tarjetas de puntuación por capas en lugar de puntuaciones compuestas.([[cfes-p24-multimodal-slide-auditing-2026|Ma et al., 2026]])
 
 - **Incluir la [[hallucination-risk|alucinación]] y la energía en la evaluación, no solo la exactitud.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] puntuaron la alucinación como implicación respecto a los fragmentos recuperados de licencia abierta (κ = 0,76 con el juicio experto) y registraron 1,8 mWh por consulta, y su ablación situó la recuperación en primer lugar: un LLM local sin ella obtuvo un 52,3%, por debajo del 55,4% de la línea base TF-IDF.

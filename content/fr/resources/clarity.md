@@ -1,7 +1,7 @@
 ---
 title: "Clarity"
 created: "2026-09-24T05:29:55-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "Une Agent Skill open source et un éditeur de navigateur privé qui transforment dix-huit règles pour une écriture plus claire en modes brouillon, réécriture et relecture pour la prose."
 url: https://clarity.addy.ie/
@@ -29,6 +29,10 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engineering, feedback, assessment, writing-education]
 ---
 
@@ -36,7 +40,7 @@ connected_concepts: [ai-literacy, critical-thinking, generative-ai, prompt-engin
 
 **Clarity** associe une Agent Skill à un éditeur de navigateur, tous deux construits autour de dix-huit règles pour une écriture qui « gagne son lecteur ». La Skill s'installe dans des agents de codage tels que Claude Code et Codex avec `npx skills add addyosmani/clarity`, puis fonctionne en trois modes : le mode relecture critique un brouillon et laisse le fichier intact, le mode réécriture modifie un brouillon sur place, et le mode entretien pose d'abord des questions à l'auteur et coécrit à partir des réponses. Le [[feedback|retour]] qu'un auteur reçoit vise la substance avant le style. Les règles demandent à qui le texte est destiné et ce que ces lecteurs savent déjà, exigent des affirmations plutôt que des sujets et des précisions plutôt que des abstractions, et traitent le remplissage comme un problème de non-savoir de la finalité du texte plutôt que comme un problème de vocabulaire.
 
-L'éditeur de navigateur s'exécute localement dans la page et ne téléverse aucun brouillon. Il signale les marques de la prose produite par une machine, la lisibilité et les manques de substance, ce qui le rend utile pour relire un texte qu'une [[generative-ai|IA générative]] a produit avant qu'il n'atteigne un lecteur. Le projet affirme explicitement que l'objectif est une écriture qui reste reconnaissable comme celle de son propre auteur, plutôt qu'une prose fabriquée pour échapper à la [[ai-literacy|détection d'IA]], distinction que les enseignants reconnaîtront lorsqu'ils fixeront une politique sur l'[[writing-education|écriture]] assistée par IA.
+L'éditeur de navigateur s'exécute localement dans la page et ne téléverse aucun brouillon. Il signale les marques de la prose produite par une machine, la lisibilité et les manques de substance, ce qui le rend utile pour relire un texte qu'une [[generative-ai|IA générative]] a produit avant qu'il n'atteigne un lecteur. Le projet affirme explicitement que l'objectif est une écriture qui reste reconnaissable comme celle de son propre auteur, plutôt qu'une prose fabriquée pour échapper à la [[ai-detection|détection d'IA]], distinction que les enseignants reconnaîtront lorsqu'ils fixeront une politique sur l'[[writing-education|écriture]] assistée par IA.
 
 ## Ce qu'il faut savoir avant de l'adopter
 

@@ -1,7 +1,7 @@
 ---
 title: "Limites de la recherche en AIED"
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
-connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Quelle confiance accorderiez-vous à un titre comme « le tutorat par IA augmente l'apprentissage de 30 % » si vous appreniez qu'il provient de 30 étudiants dans un seul cours d'une seule institution ? La généralisabilité et les petits échantillons sont des limites récurrentes ; que voudriez-vous savoir avant d'agir sur la base d'un résultat isolé ?
 - Une limite frappante est le « problème de la vitesse » : l'IA évolue plus vite que les résultats ne sont publiés, si bien qu'une étude portant sur une génération de modèles peut déjà décrire un système obsolète. Comment cela devrait-il changer la confiance que vous accordez à la recherche sur l'IA en éducation ?
 - De nombreuses études s'appuient sur des attitudes et des usages [[self-report-measures|auto-déclarés]], et ces déclarations portent des distorsions connues. Avez-vous déjà répondu à une enquête sur vos propres compétences ou comportements d'une manière qui ne correspondait pas à la réalité ? Pourquoi les mesures fondées sur la perception divergent-elles si souvent de la performance objective ?
-- Des cadres familiers comme la taxonomie de Bloom sont souvent mal lus comme des échelles strictes, et même des théories largement utilisées comme celle de la [[cognitive-offloading|charge cognitive]] ont été contestées. Quand avez-vous vu une théorie invoquée comme une vérité établie dans un contexte où ses propres preuves étaient en réalité contestées ?
+- Des cadres familiers comme la [[bloom-taxonomy|taxonomie de Bloom]] sont souvent mal lus comme des échelles strictes, et même des théories largement utilisées comme celle de la [[cognitive-offloading|charge cognitive]] ont été contestées. Quand avez-vous vu une théorie invoquée comme une vérité établie dans un contexte où ses propres preuves étaient en réalité contestées ?
 - La plupart des recherches sur l'IA dépendent de modèles propriétaires et opaques dont vous ne pouvez inspecter les données ni les mises à jour. Si vous ne pouvez pas vérifier exactement quel modèle a produit un résultat, quelle confiance pouvez-vous accorder aux affirmations bâties sur lui — et qu'est-ce qui rendrait les résultats plus reproductibles ?
 - Si vous êtes un enseignant ou un concepteur sans le temps de lire la recherche primaire, comment décidez-vous quelles affirmations sur l'IA sont assez fiables pour changer votre pratique — étant donné que la littérature est fragmentée, provisoire, et écrite pour des chercheurs ?
 
 ## Introduction
 
-L'IA en éducation est un champ en évolution rapide et hétérogène, et son corpus de données probantes porte un ensemble distinctif de limites que les chercheurs, les praticiens et les décideurs devraient peser avant d'utiliser un résultat quelconque. Certaines sont partagées avec la littérature plus large sur les [[learning-sciences|sciences de l'apprentissage]] et la psychologie ; d'autres sont amplifiées ou rendues uniques par la nature même de l'IA. Elles se répartissent en quatre domaines transversaux.
+L'IA en éducation est un champ en évolution rapide et hétérogène, et son corpus de données probantes porte un ensemble distinctif de limites que les chercheurs, les praticiens et les décideurs devraient peser avant d'utiliser un résultat quelconque. Certaines sont partagées avec la littérature plus large sur les [[learning-sciences|sciences de l'apprentissage]] et la psychologie ; d'autres sont amplifiées ou rendues uniques par la nature même de l'IA. Elles se répartissent en quatre domaines transversaux. Ce sont des problèmes de l'évidence ; un corpus distinct d'arguments portant sur les finalités que cette évidence sert est rassemblé sous [[critiques-of-ai-in-education|Critiques de l'IA en éducation]].
 
 ## Limites méthodologiques
 
@@ -66,6 +70,8 @@ La littérature sur les [[research-methods-aied|méthodes de recherche]] détail
 - **Les étiquettes générées par des modèles ne sont pas la vérité terrain.** Lorsque les étiquettes qui entraînent ou évaluent un système sont elles-mêmes produites par des modèles de langue, l'accord entre annotateurs ne peut établir la validité : [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] n'ont jamais validé leurs annotations d'assertions contre des étiquettes de référence humaines, et les 49 classifieurs à encodeur qu'ils publient héritent de cette provenance et peuvent ne pas être valides là où les applications diffèrent sur des dimensions significatives. Leur schéma a aussi nettement sous-performé par rapport au classifieur ajusté entraîné sur des données annotées par des experts (macro-F1 0,673 contre 0,76), ce qui laisse les jeux de données étiquetés par des experts dignes d'intérêt lorsqu'une grande confiance est requise.
 - **La base de preuves elle-même est inégalement répartie.** Une revue de cadrage de 407 études sur l'[[formative-assessment|évaluation formative]] soutenue par la technologie ne s'est appuyée que sur Web of Science et Scopus. Elle a aussi exclu 61 enregistrements sur des critères de langue, de sorte que le déséquilibre géographique que le domaine signale peut refléter en partie les revues indexées ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 - **Le dispositif à trois conditions manque.** Sur douze études d'IA générative examinées, aucune ne mesurait la performance assistée à la fois par un test sans IA immédiat et un test sans IA différé avec exclusion vérifiée, si bien que les gains assistés ne sont jamais reliés à la rétention ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**La faisabilité est une catégorie de résultats, pas un préambule.** Un pilote sur deux cohortes d'un patient simulé par IA a recruté 19 des 72 étudiants invités (26 %), a mené à terme toutes les rencontres et tous les questionnaires (100 %) et n'a interrompu aucune session pour une défaillance technique — des résultats réels, mais les critères de faisabilité et d'acceptabilité ont été définis après la collecte et aucun critère de progression n'avait été préspécifié ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Un taux d'achèvement n'est informatif que rapporté à des critères fixés à l'avance ; sinon « ça a tourné » et « ça a marché » sont la même phrase.
 
 ## Le problème de la vitesse : l'IA évolue plus vite que les résultats
 

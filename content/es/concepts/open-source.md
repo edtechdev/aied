@@ -1,7 +1,7 @@
 ---
 title: Código abierto
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,10 +14,14 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy, mindrouter, amplify-genai]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-13"
@@ -53,7 +57,7 @@ En términos generales, «abierto» en la educación con IA significa que cuatro
 
 ## Modelos abiertos y pesos abiertos
 
-Los pesos abiertos importan sobre todo allí donde los datos del estudiantado no pueden salir del campus. [[lata-ferpa-compliant-local-llm-autograder|LaTA]] es un corrector automático local de [[llm|LLM]] que se integra sin fricción y cumple FERPA, para trabajos de [[stem-education|STEM]] de cursos superiores, construido sobre rúbricas y soluciones de referencia escritas por el profesorado, con coste marginal cero por entrega. [[programming-its|SCRIPT]], un sistema de [[intelligent-tutoring|tutoría]] en Python de la Universidad de Bielefeld, **evita deliberadamente las API comerciales de LLM** y autoaloja un modelo Llama-70B de pesos abiertos para cumplir con el RGPD y el Reglamento de IA de la UE (que clasifica algunos usos de la IA en educación como de alto riesgo), separando los registros de IP del sistema de tutoría, usando nombres de usuario seudónimos y registrando pulsaciones de teclas solo con consentimiento explícito, una elección a la que los autores también atribuyen un menor impacto ambiental y una mejor reproducibilidad.
+Los pesos abiertos importan sobre todo allí donde los datos del estudiantado no pueden salir del campus. [[lata-ferpa-compliant-local-llm-autograder|LaTA]] es un corrector automático local de [[llm|LLM]] que se integra sin fricción y cumple FERPA, para trabajos de [[stem-education|STEM]] de cursos superiores, construido sobre [[rubrics|rúbricas]] y soluciones de referencia escritas por el profesorado, con coste marginal cero por entrega. [[programming-its|SCRIPT]], un sistema de [[intelligent-tutoring|tutoría]] en Python de la Universidad de Bielefeld, **evita deliberadamente las API comerciales de LLM** y autoaloja un modelo Llama-70B de pesos abiertos para cumplir con el RGPD y el Reglamento de IA de la UE (que clasifica algunos usos de la IA en educación como de alto riesgo), separando los registros de IP del sistema de tutoría, usando nombres de usuario seudónimos y registrando pulsaciones de teclas solo con consentimiento explícito, una elección a la que los autores también atribuyen un menor impacto ambiental y una mejor reproducibilidad.
 
 La calidad ya no es el precio automático de la apertura. [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] aplica [[reinforcement-learning|aprendizaje por refuerzo]] (DAPO) y ajuste fino supervisado a una familia de modelos abiertos, extrayendo 440 negativos difíciles, generando 40.000 respuestas sintéticas reducidas a 1.050 ejemplos ordenados por dificultad, y alcanza el **96,52%** en el punto de referencia de pedagogía, por encima del 90,55% de Gemini-3 Pro, con 32B de parámetros densos. [[aiawe-automated-writing-evaluation|AiAWE]] llega a conclusiones similares para la [[automated-essay-scoring|evaluación automatizada de la escritura]]: un Gemma-3-27B-it de pesos abiertos adaptado con LoRA supera a LLaMA-3.3-70B y a una línea base de GPT-3.5 ajustada en 480 ensayos TOEFL y se ejecuta en un servidor de gama de consumo, con el llamativo hallazgo subsidiario de que el número de parámetros *no* es un predictor fiable del rendimiento posterior bajo adaptación LoRA. La contraevidencia merece el mismo espacio: [[mllm-scientific-visualization-literacy|un punto de referencia de seis MLLM]] (tres cerrados, tres abiertos) encontró que todos los modelos de código abierto quedaban por debajo de la línea base humana en alfabetización de [[visualization|visualización]] científica, mientras que Gemini superaba la media humana en varios subconjuntos. La apertura eleva el techo del control, no el de la capacidad.
 
@@ -62,6 +66,8 @@ OmniEdu publica todo el flujo de trabajo, no solo los pesos: una supervisión eq
 ## Herramientas, tutores e infraestructura de investigación abiertos
 
 El caso más claro a favor del código abierto es la replicación. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] —el primer sistema de tutoría adaptativa totalmente abierto construido sobre principios de ITS— combina un **código con licencia MIT** con una **biblioteca de contenido Creative Commons (CC BY)** procedente de los manuales de álgebra de OpenStax, además de [[knowledge-tracing|traza de conocimiento]], pruebas A/B y soporte LTI; su objetivo de diseño explícito es que una persona investigadora pueda ejecutar un experimento y luego publicar todo el marco, el contenido y la plataforma de extremo a extremo como un enlace a un repositorio. [[stanbkt-bayesian-knowledge-tracing|StanBKT]] defiende lo mismo en la capa de método, sustituyendo las estimaciones puntuales por maximización de la expectativa por inferencia bayesiana completa (HMC, inferencia variacional, Pathfinder, optimización) en un paquete abierto de Python que expone la incertidumbre de la que dependen las comparaciones A/B de intervenciones adaptativas. [[deeptutor|DeepTutor]] publica un marco completo de tutoría [[agentic-ai|agéntica]] con una memoria de estudiante en forma de bosque de trazas —Apache 2,0, y para finales de 2026 un espacio de trabajo de aprendizaje completo y no solo los flujos que evalúa su artículo— y el generador de aulas OpenMAIC de [[mooc-to-maic|MAIC]] se distribuye bajo MIT junto con el estudio que lo evalúa, de modo que un curso puede generarse, autoalojarse e inspeccionarse en lugar de solo leerse; [[vismatic-secure-sandbox-cs-education|VISMATIC]] publica su sandbox en contenedores para la monitorización orientada a procesos, de modo que otras instituciones puedan adoptar el modelo de integridad y no la versión del proveedor. El código abierto también conlleva la carga de transparencia: los scripts de los prompts de tutoría afectiva de [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] se publican para su inspección y para más trabajo de [[llm-training-and-fine-tuning|entrenamiento pedagógico]]. La infraestructura abierta fija el punto de referencia de lo que deberían hacer los agentes educativos: la [[agentic-ai-education-scoping-review|revisión de alcance de 474 estudios sobre IA agéntica]] usa un proyecto de agentes de código abierto en rápido crecimiento como su punto de referencia del «paradigma de agente de frontera» y encuentra que los sistemas educativos siguen careciendo de orquestación de herramientas gobernada, memoria persistente, planificación de horizonte largo y acción auditable.
+
+[[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] es el caso de infraestructura liberada: Apache 2,0, por encima de la v1.6 para finales de 2026, que expone las mismas capacidades a través de una interfaz de línea de comandos `deeptutor`, un bosque de trazas inspeccionable y una distribución de habilidades de EduHub, y no solo de un artículo.
 
 ## Puntos de referencia, conjuntos de datos y transparencia de método abiertos
 

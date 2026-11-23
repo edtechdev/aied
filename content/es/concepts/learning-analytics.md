@@ -11,11 +11,15 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-17T09:26:00-05:00"
-updated: "2026-11-17T15:00:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -74,6 +78,7 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 - **Analítica del compromiso:** la [[student-engagement|medición del compromiso]] y la [[engagement-intensity-learner-modeling|modelización de la intensidad]] cuantifican cómo interactúa el estudiantado con los sistemas de IA.
 - **Las tasas de finalización pueden esconder un colapso del compromiso.** En un ensayo [[higher-ed|universitario]] aleatorizado por grupos, un [[intelligent-tutoring|tutor de IA]] integrado en el curso dejó sin cambios la entrega de tareas mientras la participación en la plataforma caía con fuerza: las visitas a páginas 0,37 desviaciones estándar y los días activos 0,51. La señal analítica que importaba era la actividad que la herramienta desplazó, no la métrica de finalización que se mantuvo plana ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 - **Analítica de la retroalimentación:** la [[teaching-feedback-classification-benchmark|clasificación de la retroalimentación]] y la [[ai-feedback-quality|evaluación de su calidad]] analizan la retroalimentación que recibe el estudiantado.
+- **La retroalimentación como evidencia sobre la docencia.** Una cadena de generación aumentada por recuperación convirtió 6.072 comentarios de corrección de cuatro cohortes en patrones de error alineados con el currículo, coincidiendo con una persona revisora en el 89,1% de los registros frente al 74,7% de una taxonomía diseñada por expertos, y el equipo docente usó los patrones para proponer revisiones del curso ([[hua-curriculum-aligned-feedback-rag-2026|Hua et al., 2026]]).
 - **Análisis de redes:** el [[misiejuk-cognitive-offloading-prompting-2026|análisis de redes de coocurrencia]] y el [[epistemic-emotions-collaborative-problem-solving|análisis de redes epistémicas]] revelan patrones de interacción.
 - **Tensiones de privacidad:** las preocupaciones sobre la [[privacy|privacidad]] crecen a medida que la analítica se vuelve más granular y más impulsada por la IA.
 - **Un marco de revisión de la gobernanza de los datos del estudiantado.** LEAGUE propone seis pilares, a saber, legalidad, [[equity-in-ai-education|equidad]], agencia, gobernanza, utilidad y ética desde el diseño, y trata el cumplimiento de FERPA y del RGPD como el suelo mínimo, recomendando reevaluaciones programadas a medida que los modelos se desplazan ([[league-ethical-governance-student-data-2026|Varadaraju y Vijayakumar (2026)]]).
@@ -141,7 +146,7 @@ Los métodos de red son centrales en la analítica del aprendizaje: el [[network
 
 ## Conexiones
 
-La analítica del aprendizaje se conecta con el [[knowledge-tracing|traza de conocimiento]] (el análisis central), la [[formative-assessment|evaluación formativa]] (evaluación impulsada por analítica), la [[student-modeling|modelización del estudiantado]] (la representación del estudiante que la analítica puebla), la [[privacy|privacidad]] (la restricción [[ethics|ética]]) y la [[edtech-platform|plataforma educativa]] (donde se despliega la analítica). Como la analítica prescriptiva se evalúa cada vez más con [[simulating-students|estudiantes simulados]], donde cohortes sintéticas sustituyen a las reales en pruebas controladas, la analítica del aprendizaje también se conecta con la simulación de estudiantado.
+La analítica del aprendizaje se conecta con el [[knowledge-tracing|traza de conocimiento]] (el análisis central), la [[formative-assessment|evaluación formativa]] (evaluación impulsada por analítica), la [[student-modeling|modelización del estudiantado]] (la representación del estudiante que la analítica puebla), la [[privacy|privacidad]] (la restricción [[ethics|ética]]) y la [[edtech-platform|plataforma educativa]] (donde se despliega la analítica). Como la analítica prescriptiva se evalúa cada vez más con [[simulating-students|estudiantes simulados]], donde cohortes sintéticas sustituyen a las reales en pruebas controladas, la analítica del aprendizaje también se conecta con la simulación de estudiantado. Es una de las tradiciones en las que se apoya [[learning-environments-as-systems|los entornos de aprendizaje como sistemas]], y el bucle que cierra es el que esa postura pide alinear con el nivel superior.
 
 - **Lo que los paneles hacen visible decide sobre qué actúa el profesorado.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]] revisaron 27 estudios empíricos (2016-2025) y construyeron una taxonomía sociotécnica de la toma de decisiones del profesorado apoyada por IA en ocho tipos de decisión: instruccional, curricular, de evaluación, de retroalimentación, de entorno de aprendizaje, emocional, administrativa y ética. Los paneles de analítica del aprendizaje fueron el sistema más reportado, y la codificación muestra que el apoyo se concentraba en las decisiones instruccionales, de retroalimentación y de evaluación que el texto conductual y los datos de registro pueden informar, mientras las decisiones emocionales, éticas, curriculares y de entorno de aprendizaje rara vez recibían apoyo. Los autores leen esto como un efecto de atención y no como un límite de capacidad: como los sistemas hacían visible y accionable el dato conductual del estudiantado, las preocupaciones sobre motivación, [[metacognition|metacognición]], emoción y entorno quedaban fuera de lo que los datos invitaban a considerar.
 

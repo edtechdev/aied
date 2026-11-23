@@ -1,14 +1,14 @@
 ---
 title: Résolution de problèmes
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
 connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
@@ -57,7 +61,7 @@ Le double caractère de l'IA dans la résolution de problèmes est cohérent d'u
 
 ### Implications
 
-Pour les éducateurs, l'ensemble des données probantes penche vers une intégration structurée et axée sur le processus : la formation au [[prompt-engineering|ingénierie des invites]] fait passer les étudiants d'une interaction avec l'[[student-ai-interaction|IA]] non focalisée à une interaction productive, l'intégration de l'IA au sein de tâches d'investigation collaborative produit des [[learning-gains|gains]] durables, et l'utilisation délibérée des erreurs de l'IA comme provocations convertit une limitation en occasion d'apprentissage. Pour les concepteurs, le constat constant que l'efficience n'égale pas l'apprentissage profond plaide en faveur d'une IA qui questionne, met au défi et soutient, plutôt qu'elle ne répond. Pour les institutions, une intégration responsable requiert d'associer l'[[generative-ai|IA générative]] à une formation explicite à l'[[ai-literacy|littératie en IA]] et à des grilles d'évaluation qui récompensent le raisonnement et la justification plutôt que les produits corrects. Le thème récurrent des travaux ancrés dans la [[cognitive-psychology|psychologie cognitive]] est que la résolution de problèmes s'apprend par un engagement exigeant — et que le rôle de l'IA devrait être de préserver cet effort, non de l'effacer.
+Pour les éducateurs, l'ensemble des données probantes penche vers une intégration structurée et axée sur le processus : la formation au [[prompt-engineering|ingénierie des invites]] fait passer les étudiants d'une interaction avec l'[[student-ai-interaction|IA]] non focalisée à une interaction productive, l'intégration de l'IA au sein de tâches d'investigation collaborative produit des [[learning-gains|gains]] durables, et l'utilisation délibérée des erreurs de l'IA comme provocations convertit une limitation en occasion d'apprentissage. Pour les concepteurs, le constat constant que l'efficience n'égale pas l'apprentissage profond plaide en faveur d'une IA qui questionne, met au défi et soutient, plutôt qu'elle ne répond. Pour les institutions, une intégration responsable requiert d'associer l'[[generative-ai|IA générative]] à une formation explicite à l'[[ai-literacy|littératie en IA]] et à des [[rubrics|grilles d'évaluation]] qui récompensent le raisonnement et la justification plutôt que les produits corrects. Le thème récurrent des travaux ancrés dans la [[cognitive-psychology|psychologie cognitive]] est que la résolution de problèmes s'apprend par un engagement exigeant — et que le rôle de l'IA devrait être de préserver cet effort, non de l'effacer.
 
 ### Connexions avec d'autres concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Éducation ouverte"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-15T11:54:18-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,13 +13,17 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [open-source, legal-issues-and-risks, regulation, generative-ai, educational-policy-ai, governance, equity-in-ai-education, curriculum-design, active-learning, collaborative-learning, authentic-assessment, sustainability, global-south, ai-literacy, digital-divide, accessibility, change-management]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, powell-chatbot-enhanced-oer-composition-2026, jordan-faculty-ai-oer-creation-2025, tlili-double-edged-sword-oer-generative-ai-2026, atenas-oer-digital-public-goods-2026, deimann-rethinking-openness-ai-2026, clinton-lisell-open-pedagogy-ai-tools-2026, duan-open-educational-practices-evolution-2026, guo-teachers-ai-literacy-open-education-practices-2026, rodes-paragarino-oer-generative-ai-framework-2026, gonzalez-miy-active-learning-mentoring-ai-oer-2026, ryu-developing-ai-literacy-oer-2026, ahmadfard-interactive-oer-review-2026, patino-ai-international-cooperation-open-education-2026, peng-personalized-recommendation-oer-2026, panda-editorial-digital-transformation-open-education-2026]
@@ -49,7 +53,7 @@ La littérature de l'ère de l'IA porte sur trois choses à la fois : la ressour
 
 Une ressource éducative ouverte (REO) est un contenu publié sous une licence qui autorise la réutilisation, la révision, le remixage et la redistribution. Tout le reste du champ découle de cette autorisation et de l'obligation d'en attribuer la paternité. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] montre cette obligation à l'œuvre dans un petit projet : onze participants travaillant en ligne pendant deux semaines ont produit un site de six pages, un [[conversational-ai|agent conversationnel]], un manuel et cinq tutoriels vidéo publiés sous CC BY-NC-SA, et l'ensemble a obtenu un score élevé en transparence mais seulement moyen en licence, reproductibilité, adaptabilité et accessibilité. Ouvert de nom, partiellement ouvert à l'usage.
 
-La littérature sur les licences est granulaire parce que les défaillances le sont. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construit une grille de sept principes pour évaluer des ressources de littératie en IA sous licence ouverte, à partir d'un échantillon raisonné de seize articles centraux, de dix-sept articles complémentaires et de trente-six références ciblées. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello et Havemann (2026)]] soutiennent que l'unité de gouvernance devrait passer de la ressource à l'infrastructure qui l'héberge : un commun de fichiers isolés sans plateforme maintenue relève de la fragmentation, non du commun.
+La littérature sur les licences est granulaire parce que les défaillances le sont. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construit une [[rubrics|grille]] de sept principes pour évaluer des ressources de littératie en IA sous licence ouverte, à partir d'un échantillon raisonné de seize articles centraux, de dix-sept articles complémentaires et de trente-six références ciblées. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello et Havemann (2026)]] soutiennent que l'unité de gouvernance devrait passer de la ressource à l'infrastructure qui l'héberge : un commun de fichiers isolés sans plateforme maintenue relève de la fragmentation, non du commun.
 
 ## L'effondrement de la génération et le tournant des biens publics numériques
 
@@ -68,6 +72,8 @@ La pédagogie ouverte fait passer l'étudiant de consommateur à contributeur : 
 La pratique a sa propre littérature de maturité. [[duan-open-educational-practices-evolution-2026|Duan (2026)]] a criblé 540 enregistrements pour retenir quatorze modèles de pratique éducative ouverte selon [[meta-analysis-systematic-review|PRISMA]] 2020, les a comparés sur trois dimensions et conclut que l'IA générative se loge sous les modèles établis sans les supplanter, argument que l'article situe face au [[tpack|TPACK]]. [[ahmadfard-interactive-oer-review-2026|Ahmadfard (2026)]] aboutit à une conclusion voisine sur l'interactivité dans une revue structurée qui remonte à 1970 : les dispositifs interactifs relèvent d'un argument de conception plus que d'un effet démontré, et les tailles d'effet les plus fortes qu'il rapporte proviennent de travaux antérieurs en [[physics-education|didactique de la physique]], non de mesures dans des REO.
 
 Deux autres études montrent la vitesse à laquelle la pratique devient gouvernance. [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya et Miranda (2026)]] documentent une résidence UNESCO–ICDE réunissant 110 participants de 13 pays en 10 équipes, mais leur enquête compte 72 réponses de 54 établissements sans taux de réponse : appui mince pour une feuille de route visant l'Agenda 2030 de l'ONU. Et [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu et Gao (2026)]] ont interrogé 512 enseignants de 30 provinces chinoises sur la manière dont la littératie en IA se traduit en pratique d'enseignement ouverte : ils trouvent un chemin indirect par le comportement innovant de 0,218 lorsque le soutien institutionnel est faible, qui tombe à 0,042 non significatif lorsque le soutien est élevé.
+
+Le problème des licences est le point où la pratique ouverte et l'[[generative-ai|IA générative]] entrent en collision sur le terrain. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] ont rémunéré sept enseignants pour construire des ressources ouvertes avec ChatGPT dans une cohorte de huit semaines, et ont constaté que la production du programme elle-même ne pouvait porter de licence Creative Commons : les textes générés par le modèle tombent dans le domaine public sans la paternité à laquelle une licence doit s'attacher. Ils plaident pour séparer la couche licenciée de celle générée par le modèle. Une second approche garde le modèle à l'intérieur du cours : [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] ont entraîné un assistant de rédaction sur un manuel ouvert et ses documents de cours, de sorte que l'assistant prolonge la ressource au lieu de la remplacer, et [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] montrent le même geste sur matériel local, en générant des quiz à partir des documents de l'enseignant sans rien envoyer à un fournisseur.
 
 ## Équité, durabilité et Sud global
 

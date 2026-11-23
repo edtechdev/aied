@@ -1,7 +1,7 @@
 ---
 title: "L'agence de l'apprenant"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026, wang-consequential-human-agency-higher-education-2026]
@@ -134,6 +138,8 @@ Cette distinction entre agence mise en acte et identité stable s'applique au re
 La condition aux limites du cadre exige la **contestabilité** (la capacité à questionner et recouper les productions de l'IA), la **provenance** (savoir d'où viennent les données d'entraînement et les productions) et la **non-délégation du crédit moral et intellectuel** (les jugements à enjeux élevés concernant le bien-être des étudiants, leur statut académique et leurs notes ne doivent pas être déterminés par la seule IA). Cela donne aux éducateurs et aux [[stakeholders|décideurs]] un vocabulaire plus précis que le vague « équilibre » entre contributions humaines et artificielles, reliant l'agence à l'[[ethics]], l'[[assessment]], l'[[equity-in-ai-education]] et la [[governance]].
 
 Un cadrage étroitement lié est celui de l'**agence épistémique relationnelle** ([[du-yuan-epistemic-dependence-2026|Du et Yuan 2026]]), qui s'accorde sur le fait que l'agence est socialement habilitée et technologiquement médiatisée plutôt qu'une question d'isolement vis-à-vis de la dépendance. Là où le cadre de co-agence écologique souligne la responsabilité épistémique humaine comme frontière non négociable, Du et Yuan retiennent une *asymétrie* explicite : les systèmes d'IA peuvent façonner et étendre le raisonnement sans posséder de responsabilité réciproque ni d'autorité légitime. Leurs six critères diagnostiques — contestabilité, recouvrabilité, transfert, traçabilité, responsabilité distribuée et pluralité épistémique — fournissent un test pratique pour déterminer quand une relation humain–IA préserve la capacité de l'apprenant à participer à la formation, à l'évaluation et à l'acceptation des affirmations, et quand elle se contente de livrer un produit. L'agence, selon ce compte, n'est pas l'indépendance vis-à-vis des outils mais la capacité à juger de manière responsable *avec, à travers et contre* les systèmes qui médiatisent le savoir.
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]] soutient que la compétence en IA ne suffit pas sans des conditions institutionnelles qui rendent le jugement conséquent — notification, raisons intelligibles, révision humaine, droit d'appel et de substitution, et responsabilité documentée — et reformule l'agence comme accomplie dans l'interaction avec l'autorité institutionnelle plutôt que détenue individuellement. Les universités peuvent la rendre possible ou la contraindre en tant qu'acheteuses, autorités d'évaluation et utilisatrices de surveillance, déplaçant la question de la seule compétence de l'apprenant vers les droits et les procédures par lesquels le jugement modifie les décisions médiatisées par l'IA.
 
 - **L'agence déléguée comme mécanisme, et pas seulement comme risque.** [[yan-agentivism-learning-theory-ai-2026|Yan et Gašević (2026)]] traitent la délégation du travail cognitif à l'IA comme une partie de la manière dont l'apprentissage advient, et non comme une simple menace pesant sur lui : dans leur compte, la performance assistée ne devient une capacité durable que lorsque l'apprenant conserve la responsabilité de problématiser, de fixer les critères et de justifier les réponses — une division du travail qu'ils nomment agence déléguée. C'est l'allocation elle-même qui devient ainsi la variable de conception, puisque le même outil peut préserver ou dissoudre l'agence de l'apprenant selon les responsabilités qu'il absorbe.
 

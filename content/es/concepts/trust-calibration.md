@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-17T16:30:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_concepts: [automation-bias, explainable-ai, ai-literacy, cognitive-offloading, hallucination-risk, metacognition, self-regulated-learning, human-ai-collaboration, misconceptions, reducing-ai-misuse, pedagogical-safety, self-report-measures, ai-misuse-learning-harm, cognitive-surrender]
 connected_articles: [shi-human-ai-complementarity-safety-2026, children-verification-ai-suggestions-game-2026, student-perspectives-ai-writing-grading-2026, tuo-armada-multi-agent-debate-overreliance-2026, du-yuan-epistemic-dependence-2026, icet-ml-education-trust-2026, pearls-epistemic-verification-2026, fouad-bentley-trust-utility-gap-physics-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, agentic-literacy-debt, trust-reliance-ai-education-2026, calibrating-trustworthiness-llm-education-2026, llm-fallacy-misattribution, ai-partner-science-epistemic-vigilance, ai-advice-suppresses-ikt-suspension-2026, ai-overreliance-complex-adaptive-system-2026, xai-teachers-trust-edtech-recommendations-2026, student-reception-genai-analogies-computing-2026, trust-calibration-chatbots-design-problem-2026, humble-prompt-injection-ai-grading-red-team-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, gpt4-handwritten-math-exam-grading-2026, bounded-reliance-ai-writing-feedback-2026, abramson-trust-interaction-design-ai-enabled-systems-review-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, ren-metacognitive-awareness-genai-reliance-2026, trust-calibration-genai-collaborative-regulation-2026, hu-psychological-predictors-continued-chatgpt-use-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, student-llm-use-ai-question-difficulty-data-science-2026, nazaretsky-trust-instrument-ai-edtech-2025, children-design-trustworthy-ai-chatbots-2026, yang-ai-advice-agreement-trust-self-efficacy-pe-2026, kim-overtrust-ai-literacy-2026, trust-ai-assistants-consistently-wrong-2026, bego-course-guided-chatgpt-trust-attitudes-2026, jacobs-young-learners-multimodal-genai-scratch-2026]
@@ -74,6 +78,8 @@ Las percepciones sociales asociadas al agente, y no la precisión, construyeron 
 ### La calibración como problema de diseño
 
 Tratar la descalibración puramente como un déficit del usuario, algo que se arregla enseñando a la gente a comprobar la producción de la IA, puede ser un error de categoría. [[trust-calibration-chatbots-design-problem-2026|Jaidka y Cai (2026)]] sostienen que las affordances de transparencia son *inertes*: esperan que un usuario actúe sobre ellas, y la mayoría no lo hace. En un estudio de seguimiento pasivo con 900 adultos estadounidenses, los lectores que vieron un resumen generado por IA hicieron clic en una fuente citada dentro de él solo en el 1% de las visitas, y hicieron clic en cualquier enlace de resultado aproximadamente la mitad de a menudo que los lectores que no vieron ningún resumen. La evidencia de encuestas muestra la misma brecha a escala: en un estudio de 81.000 personas en 159 países, la falta de fiabilidad fue la preocupación más citada sobre la IA, mientras que más de 48.000 encuestados en 47 países usaban en gran medida la IA a diario incluso cuando decían no confiar en ella. Confianza y dependencia se han separado, y el artículo sitúa la causa en señales de superficie: la fluidez, la seguridad y la velocidad sustituyen a la verificabilidad, de modo que confianza y corrección se desacoplan. En particular, la autoría de máquina puede inflar la credibilidad: los lectores calificaron los resúmenes científicos como más creíbles y más fiables cuando los escribía GPT que cuando los escribía un humano, sobre todo porque el modelo escribía en un lenguaje más sencillo.
+
+La propia salida de probabilidad de la IA también puede enseñar la habilidad. Con 300 personas novatas juzgando imágenes, un modelo cuyas probabilidades mostradas estaban mal calibradas respecto a su propia exactitud mejoró la calibración humana posterior (de 0,063 a 0,041), mientras que una presentación recalibrada y las categorías sin más no cambiaron nada ([[hegeman-miscalibrated-ai-human-calibration-2026|Hegeman et al., 2026]]).
 
 La implicación de diseño es una tipología bidimensional de usuarios, la *capacidad* de verificar la producción de un [[conversational-ai|chatbot]] cruzada con la *motivación* para hacerlo, que predice qué usuarios se descalibrarán y en qué dirección. Los autores la emparejan con dos familias de intervención que deben operar juntas: affordances de [[explainable-ai|interpretabilidad]] (justificaciones, citas, señales de incertidumbre) que hacen posible la evaluación, y mecanismos de implicación que hacen que ocurra de verdad, dispuestos a través del modelo del queso suizo de Reason en ocho proposiciones comprobables. La [[ai-literacy|alfabetización en IA]] se sitúa como la capa duradera por debajo de ambas, moviendo a los usuarios entre celdas de la tipología. El reencuadre importa para la educación porque desplaza la responsabilidad: si las citas transparentes no se clican en la población general, entonces exponer a los estudiantes a explicaciones de la IA no los calibrará; la affordance tiene que estar diseñada para forzar la comprobación.
 

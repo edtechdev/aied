@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 weight: 73
 type: faq
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-02"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -56,7 +60,7 @@ Dos familias de números dominan esta literatura. Las dos miden cuán de cerca s
 
 **Puntuaciones de concordancia** (QWK, kappa cuadrática ponderada) miden cuán de cerca se alinean las calificaciones del modelo con las de una persona. Un modelo puede coincidir con el evaluador en la nota final y equivocarse en el porqué, y el porqué es la parte de la que aprende el estudiante.
 
-Un estudiante puede llegar a una respuesta incorrecta por una ruta equivocada que parece correcta, y ninguna puntuación de similitud lo nota. Si el razonamiento es lo que le importa, la medida tiene que leerlo: una rúbrica aplicada por una persona, o una comprobación escrita para ese paso en particular.
+Un estudiante puede llegar a una respuesta incorrecta por una ruta equivocada que parece correcta, y ninguna puntuación de similitud lo nota. Si el razonamiento es lo que le importa, la medida tiene que leerlo: una [[rubrics|rúbrica]] aplicada por una persona, o una comprobación escrita para ese paso en particular.
 
 El asistente del curso de Sistemas de Control Lineal informa esto de la manera correcta. Su mejor configuración alcanzó una puntuación de similitud de **0,4093** frente a las respuestas de referencia, con la mejora medida de forma fiable por encima de cero, y los autores declaran con claridad que los números miden redacción y formato ([[lora-finetuned-control-systems-course-qa-2026]]). La puntuación es poco impresionante y el artículo sigue siendo útil, porque dice qué cubre la puntuación.
 

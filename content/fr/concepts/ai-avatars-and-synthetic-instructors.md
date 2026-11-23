@@ -1,7 +1,7 @@
 ---
 title: "Avatars IA et instructeurs synthétiques"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,13 +13,17 @@ level: [higher ed]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
@@ -55,7 +59,7 @@ Le propos est organisé par rôle : quel rôle l'humain synthétique occupe, que
 
 **Partenaire de jeu de rôle.** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] fait manipuler par des enfants un avatar robotique pour répéter l'intervention du témoin. ACLIME appelle cela le second mode d'interaction : un agent tenant un rôle défini pour un dialogue [[situated-learning|situé]].
 
-**Interlocuteur d'évaluation.** Le juge de SOPHIE note des transcriptions selon une grille de communication. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et coll. (2026)]] proposent un agent vocal qui interroge les étudiants sur un cours au lieu d'administrer une [[self-report-measures|enquête écrite]].
+**Interlocuteur d'évaluation.** Le juge de SOPHIE note des transcriptions selon une [[rubrics|grille]] de communication. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et coll. (2026)]] proposent un agent vocal qui interroge les étudiants sur un cours au lieu d'administrer une [[self-report-measures|enquête écrite]].
 
 ## Ce que les preuves soutiennent, rôle par rôle
 
@@ -72,6 +76,8 @@ Pour les [[simulating-students|étudiants simulés]], les preuves portent sur la
 Pour le jeu de rôle, REMind rapporte un gain significatif avant-après dans l'[[self-efficacy|auto-efficacité]] perçue des enfants à se défendre, avec des croyances mieux calibrées sur le fait que confronter un harceleur l'arrête. Cela représente 18 enfants de neuf à dix ans dans un contexte de test de jeu, ce qui soutient une promesse plutôt qu'un changement de comportement durable.([[remind-robot-mediated-roleplay-antibullying-2026]])
 
 Pour l'évaluation, le juge de SOPHIE est le résultat le plus clair et l'intervieweur vocal le moins. La proposition de Tamme rapporte un pilote technique et des données pas encore analysées formellement ; toute affirmation sur ce que la voix suscite reste une hypothèse.([[voice-based-ai-feedback-interviews-higher-ed-2026]])
+
+La communication de cours est un rôle de plus, et les preuves à son sujet tiennent d'un flux de travail plutôt que d'un effet. [[wu-singing-syllabus-avatars-2026|Wu (2026)]] documente un pipeline en sept étapes qui transforme le syllabus d'introduction à l'informatique de première année en une vidéo chantée interprétée par un avatar lipsyncé, ChatGPT rédigeant les paroles, Suno AI générant la musique et HeyGem synthétisant le visage dans Colab. Ce qui est transférable est l'ensemble des contraintes : l'exactitude prime sur la rime, chaque ligne de politique transformée est rattachée au syllabus officiel, et l'enseignant adoptant absorbe le coût de vérification. Wu ne rapporte aucune donnée étudiante, si bien que l'engagement et le rappel restent des hypothèses, et le syllabus chanté s'ajoute au document écrit plutôt qu'il ne le remplace.
 
 ## La confiance passe par le visage
 

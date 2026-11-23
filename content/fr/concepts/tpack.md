@@ -1,7 +1,7 @@
 ---
 title: "Le savoir technologique, pédagogique et disciplinaire (TPACK)"
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-15T15:48:57-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-15T15:46:54-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,14 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 pedagogy: [tpack]
 connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
-connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026, shenoy-genai-teacher-professional-development-framework-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -63,6 +68,7 @@ Le TPACK soutient que l'intégration efficace de la technologie n'est pas la som
 
 L'ère de l'IA a poussé le cadre vers une lecture de la technologie dotée d'intelligence. Plutôt qu'un outil passif, l'IA générative est un agent actif qui peut planifier, générer des contenus, tutoriser et s'adapter — si bien que le savoir d'intégration inclut de plus en plus **l'orchestration** : décider quand et comment l'IA agit, étaye, ou cède devant le [[human-in-the-loop-ai|jugement humain]].
 
+- **L'hypothèse de l'outil stable se brise.** [[shenoy-genai-teacher-professional-development-framework-2026|Shenoy et Saarela (2026)]] soutiennent que le TPACK a été bâti pour des outils déterministes dont les productions sont stables et vérifiables, de sorte qu'une production probabiliste de GenAI ne peut pas s'accumuler comme savoir d'outil ; ce qui se développe plutôt, c'est la compétence à interroger les productions.
 - **Au-delà des connaissances discrètes.** Les [[ai-tpack-teacher-multi-agent-workflow|recherches sur l'AI-TPACK]] soutiennent qu'une intégration efficace de l'IA n'émerge pas de la possession de domaines séparés, mais de l'interaction dynamique de la **pensée systémique**, des **croyances pédagogiques** et de l'**[[self-efficacy|auto-efficacité]]** — mettant au défi les modèles statiques et fondés sur des listes de contrôle de la compétence des enseignants en IA. Les archétypes d'enseignants (optimiseurs systématiques, créateurs prolifiques, observateurs passifs) émergent de la manière dont les enseignants conçoivent les flux de travail pédagogiques multi-agents.
 - **Ce que les cadres d'intégration laissent de côté.** Une critique de la co-agency soutient que le TPACK et le [[samr-model|SAMR]] traitent du savoir de l'enseignant et des niveaux d'adoption, mais laissent le pouvoir, la propriété des données et la responsabilité sans réponse, si bien que le savoir d'intégration exige une frontière éthique explicite plutôt qu'un domaine de connaissance supplémentaire ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 - 
@@ -86,7 +92,7 @@ Un avertissement complémentaire sur la mesure vient du modèle Capacité–Déc
 
 La chaîne sérielle complète (littératie en IA → AI-TPACK → auto-efficacité → intention) était significative, de même que les voies indirectes distinctes passant par l'AI-TPACK et par l'auto-efficacité ; prises ensemble, l'essentiel de l'association de la littératie en IA avec l'intention passait par ces médiateurs plutôt que directement, et le résultat tenait après contrôle du genre, de l'année d'études, de la filière et de la fréquence d'usage de l'IA. L'affirmation pratique du modèle est une séquence dotée d'un point d'entrée : la littératie en IA est nécessaire mais insuffisante, et le travail d'intégration se produit là où les savoirs technologique, pédagogique et disciplinaire sont combinés — ce qui est aussi le lieu où se construit la confiance des enseignants dans l'enseignement de la matière.
 
-- **La validation comme quatrième compétence.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol et Ugur (2026)]] étendent le modèle par le **savoir de validation par l'IA** — soumettre les productions probabilistes de l'IA à une vérification propre à la discipline avant de les traiter comme des preuves d'une décision légitime — et l'associent à une grille axée sur le processus pour l'[[design-education|enseignement du design]].
+- **La validation comme quatrième compétence.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol et Ugur (2026)]] étendent le modèle par le **savoir de validation par l'IA** — soumettre les productions probabilistes de l'IA à une vérification propre à la discipline avant de les traiter comme des preuves d'une décision légitime — et l'associent à une [[rubrics|grille]] axée sur le processus pour l'[[design-education|enseignement du design]].
 
 ## Pourquoi cela compte en IA éducative
 
@@ -96,6 +102,8 @@ Le TPACK est le cadre organisateur du versant enseignant des données probantes.
 **Les composantes ne pèsent pas également dans le cas de l'IA.** Parmi 988 enseignants en formation initiale, la TCK (β = 0.67) et la TPK (β = 0.41) prédisaient l'AI-TPACK intégré, alors que la seule TK ne le prédisait pas (β = −0.10, p = 0.066), et le TPACK intégré prédisait l'attitude envers l'IA générative (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
 
 **La mise en œuvre, et non la révision, sous contrainte de ressources.** Des enseignants d'une université du Somaliland décrivaient un usage façonné par le soutien institutionnel, l'absence de politique et un abonnement mensuel de 20 $ qu'ils payaient eux-mêmes — un contexte que le TPACK accueille sans en changer les composantes ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
+
+- **Le sentiment d'efficacité personnelle n'est pas la compétence.** Une étude par la conception sur la formation à la littératie en GenAI de 29 étudiants en formation des enseignants a montré qu'un seul atelier élevait le sentiment d'efficacité personnelle en IA mais non la compétence pédagogique ou en évaluation, les plans de leçon notés selon le TPACK obtenant les scores les plus bas en application créative de la GenAI (M = 1,64) ([[genai-literacy-training-teacher-education-dbr-2026|Le et al., 2026]]).
 
 ## Implications pour la conception
 

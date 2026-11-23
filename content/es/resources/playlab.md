@@ -1,7 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-24T08:38:48-04:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: resource
 summary: "Una plataforma de creación sin ánimo de lucro en la que el profesorado crea, comparte y evalúa sus propias aplicaciones de IA, fundamentadas en su currículo, ejecutadas con el modelo que elija y con visibilidad para el profesorado integrada."
 url: https://www.playlab.ai/
@@ -26,12 +26,16 @@ ai_assist:
     role: translation
     date: "2026-09-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**Playlab** es una plataforma de creación en la que el profesorado construye sus propias aplicaciones de IA en lugar de elegir la plantilla de otra persona. Una aplicación está [[rag|fundamentada en su propio currículo]], sus rúbricas y sus referencias, y no en el conocimiento general del modelo; funciona con el modelo que usted elija (Anthropic, OpenAI, Google, Meta) con el coste visible mientras la construye, y puede nutrirse de [[knowledge-graph|grafos de conocimiento]] ya cartografiados para Illustrative Mathematics, OpenSciEd, los estándares estatales y OER Commons.
+**Playlab** es una plataforma de creación en la que el profesorado construye sus propias aplicaciones de IA en lugar de elegir la plantilla de otra persona. Una aplicación está [[rag|fundamentada en su propio currículo]], las [[rubrics|rúbricas]] y sus referencias, y no en el conocimiento general del modelo; funciona con el modelo que usted elija (Anthropic, OpenAI, Google, Meta) con el coste visible mientras la construye, y puede nutrirse de [[knowledge-graph|grafos de conocimiento]] ya cartografiados para Illustrative Mathematics, OpenSciEd, los estándares estatales y OER Commons.
 
 ## Qué puede hacer con ella
 Crear y remezclar: empiece desde cero o adapte una aplicación de la galería de la comunidad (cientos de aplicaciones, incluidas algunas creadas por estudiantes). Ajuste el comportamiento en cada aplicación: entrada de imagen y voz, memoria y perfiles, o Avoid Answer Generation, que guía al estudiante hacia una respuesta en lugar de dársela. También hay disponible un editor de documentos con exportación a Docx y Drive, ejecución de Python, entrada matemática y procesamiento de imágenes. El profesorado puede [[human-in-the-loop-ai|revisar cualquier conversación del estudiante]], y las alertas automáticas pueden pausar una y avisar al docente. Las listas de clase se conectan mediante Clever, ClassLink o el inicio de sesión único de Google.

@@ -1,7 +1,7 @@
 ---
 title: "Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-19T19:40:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
@@ -23,13 +23,19 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
+connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
 Vous tenez probablement un devoir qui a fonctionné pendant des années et qui revient désormais avec du travail que vous ne pouvez pas défendre. La note dit A ; la production est peut-être en grande partie celle de l'outil. Ou bien un étudiant conteste une note basse pour des raisons que vous ne pouvez pas vérifier, ou bien votre programme réécrit sa politique d'évaluation et vous demande ce qui devrait changer dans votre cours d'ici le prochain trimestre.
 
-La réponse courte : décidez de quoi la note est censée être la preuve, placez dans le devoir au moins une étape que l'étudiant réalise sans l'outil, et faites en sorte que la grille paie le raisonnement plutôt que seulement le produit. Une refonte qui saute la deuxième et la troisième étape change la façon dont le travail est produit sans changer ce que la note peut étayer.
+La réponse courte : décidez de quoi la note est censée être la preuve, placez dans le devoir au moins une étape que l'étudiant réalise sans l'outil, et faites en sorte que la [[rubrics|grille]] paie le raisonnement plutôt que seulement le produit. Une refonte qui saute la deuxième et la troisième étape change la façon dont le travail est produit sans changer ce que la note peut étayer.
 
 ## La version courte
 

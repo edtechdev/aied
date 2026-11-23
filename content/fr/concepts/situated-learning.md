@@ -1,16 +1,20 @@
 ---
 title: Apprentissage situé
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -51,7 +55,7 @@ La recherche traite l'apprentissage situé non pas comme une simple théorie abs
 - **L'IA comme catalyseur reliant l'éducation à la réalité.** L'IA peut agir comme un *catalyseur* de l'apprentissage situé en reliant l'éducation à la réalité et à des contextes authentiques, en permettant un apprentissage ancré dans des scénarios du monde réel. ([[vargas-ai-catalyst-situated-learning-2026]])
 - **Artefacts médiationnels dans l'investigation authentique.** Dans l'[[science-education|apprentissage des sciences]], les outils d'IA (laboratoires virtuels, simulations, tutorat intelligent) fonctionnent comme des « artefacts médiationnels » qui étendent l'apprentissage situé en permettant des communautés de pratique numériques et le franchissement de frontières entre l'école, le monde réel et les contextes interdisciplinaires — transformant les étudiants de « apprenants de connaissances » en « praticiens scientifiques ». ([[li-ai-science-situated-learning-teachers-2025]])
 - **Dispositifs de [[curriculum-design|programme]] situés.** La [[ai-literacy|littératie en IA]] peut se développer par des *Episodes of Situated Learning* — instruments actifs d'[[teacher-role|enseignement]] (anticiper, produire, réfléchir) qui bâtissent les compétences en IA par la [[problem-solving|résolution de problèmes]] réelle plutôt que par un enseignement abstrait. ([[panciroli-ai-literacy-episodes-situated-learning]])
-- **Évaluation située dans l'apprentissage [[design-based-research|fondé sur la conception]] par la [[pedagogy|pédagogie]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et coll. (2026)]] ont ancré leur étude dans la théorie de l'apprentissage situé et la pédagogie de conception itérative, en évaluant 80 affiches de conception d'étudiants selon les rôles d'enseignant, d'évaluateur par les pairs et d'évaluateur de subventions. Un [[prompt-engineering|incitation]] sensible aux rôles a produit des retours d'information évaluatifs qualitativement différents — encourageants et orientés processus de la part des enseignants, bienveillants et conversationnels de la part des pairs, formels et orientés résultats de la part des évaluateurs de subventions — des différences qui étaient épistémiques, et pas seulement stylistiques, mettant au premier plan différents aspects de la pratique de la conception. Cela montre comment une évaluation située et propre à un rôle peut être imitée par un [[llm|LLM]] lorsqu'il est étayé par une grille sémantiquement précise, et comment l'évaluation dans l'apprentissage fondé sur la conception émerge de la tâche authentique et de ses rôles, plutôt que d'en être séparée.
+- **Évaluation située dans l'apprentissage [[design-based-research|fondé sur la conception]] par la [[pedagogy|pédagogie]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et coll. (2026)]] ont ancré leur étude dans la théorie de l'apprentissage situé et la pédagogie de conception itérative, en évaluant 80 affiches de conception d'étudiants selon les rôles d'enseignant, d'évaluateur par les pairs et d'évaluateur de subventions. Un [[prompt-engineering|incitation]] sensible aux rôles a produit des retours d'information évaluatifs qualitativement différents — encourageants et orientés processus de la part des enseignants, bienveillants et conversationnels de la part des pairs, formels et orientés résultats de la part des évaluateurs de subventions — des différences qui étaient épistémiques, et pas seulement stylistiques, mettant au premier plan différents aspects de la pratique de la conception. Cela montre comment une évaluation située et propre à un rôle peut être imitée par un [[llm|LLM]] lorsqu'il est étayé par une [[rubrics|grille]] sémantiquement précise, et comment l'évaluation dans l'apprentissage fondé sur la conception émerge de la tâche authentique et de ses rôles, plutôt que d'en être séparée.
 - **Éthique située de l'IA.** Le raisonnement éthique sur l'IA se traite lui aussi au mieux comme *situé* — ancré dans un contexte culturel-historique et écologique plutôt que dans des principes abstraits. ([[raffaghelli-situated-ai-ethics-2026]])
 - **Scénarios et actifs réutilisables comme infrastructure.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]] opérationnalise l'apprentissage situé sous forme de scénario — objectif, agents spécialisés par rôle, connaissances interrogeables et un banc de travail à état — plus une mémoire d'actifs qui conserve les enregistrements de processus et les traces d'expérience avec leur provenance, afin que les scénarios ultérieurs puissent retrouver une pratique antérieure. Deux essais randomisés préenregistrés à trois bras ont trouvé un avantage de 7,0 points de gain d'apprentissage sur un assistant standard en raisonnement juridique (d = 0,56) et une part plus grande atteignant la maîtrise critériée en programmation compétitive (68 % contre 45 %), tandis qu'inviter le même modèle à jouer le rôle d'un enseignant ne produisait aucun bénéfice détectable. C'est un test rare de l'affirmation selon laquelle la situation et l'espace de travail portent davantage de l'apprentissage que l'explication conversationnelle.
 

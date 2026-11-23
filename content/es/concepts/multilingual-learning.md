@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Aprendizaje multilingüe
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -61,7 +65,7 @@ El inglés domina incluso allí donde se usan a diario cuatro lenguas. Entre 42 
 
 Las preocupaciones multilingües también afectan a la [[automated-assessment|evaluación automatizada]]: [[ai-scoring-language-bias-physics|la calificación con IA puede mostrar sesgo lingüístico]] (por ejemplo, en [[physics-education|física]]), penalizando a quienes no son hablantes nativos. Garantizar que las herramientas de evaluación sean justas entre lenguas forma parte de la [[assessment-validity|validez de la evaluación]].
 
-El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la línea base humana y no al modelo: las puntuaciones de escritura informativa de los cursos 3.º a 6.º convergieron con las rúbricas de los investigadores (r = .59–.73) y mostraron patrones de sesgo predictivo para quienes aprenden en varias lenguas similares a los de la calificación humana, sin evidencia de que una mayor capacidad o coste del modelo mejorara la validez ([[llm-comparative-judgment-writing-screening-2026|Mercer y Reed (2026)]]).
+El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la línea base humana y no al modelo: las puntuaciones de escritura informativa de los cursos 3.º a 6.º convergieron con las [[rubrics|rúbricas]] de los investigadores (r = .59–.73) y mostraron patrones de sesgo predictivo para quienes aprenden en varias lenguas similares a los de la calificación humana, sin evidencia de que una mayor capacidad o coste del modelo mejorara la validez ([[llm-comparative-judgment-writing-screening-2026|Mercer y Reed (2026)]]).
 
 ## Implicaciones para el profesorado en contextos multilingües
 
@@ -70,6 +74,7 @@ El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la lí
 - **Refleje la cultura y el contexto, no solo la traducción.** La IA multilingüe debe ir más allá de la traducción hacia una [[culturally-relevant-pedagogy|pedagogía culturalmente relevante]]: genere contenido lingüística y contextualmente apropiado ([[llm-cultural-relevance-k12|relevancia cultural en K-12]]).
 - **Combine la IA con estructuras de apoyo multilingües.** Use modos orales y con la voz como primer medio ([[kutti-ai-voice-first-learning-companion|compañeros con la voz como primer medio]]) allí donde la IA basada en texto falla, y apoye la [[self-regulated-learning|autorregulación]] en contextos bilingües ([[bilingual-llm-lecture-companion-srl-2026|compañero de clase bilingüe]]).
 - **Vigile la brecha digital.** El sesgo monolingüe de la IA profundiza la [[digital-divide|brecha digital]] y socava el acceso en todo el [[global-south|Sur global]]: planifique una infraestructura y un acceso equitativos junto con la elección de herramientas.
+- **El trabajo adaptativo recae sobre el docente.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding y Liu (2026)]] encontraron que el profesorado universitario de lenguas distintas del inglés adapta las consignas, corrige la lengua del modelo, recontextualiza el contenido culturalmente y cambia de herramienta como parte de su rutina.
 
 ## Concepciones erróneas
 

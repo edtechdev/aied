@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills, context-aideatext]
 title: "La méthode socratique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
 connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
@@ -85,6 +89,7 @@ L'écart entre les « compétences fondées sur les connaissances » (4.0/5) et 
 - Le dialogue socratique demande un effort ; les étudiants peuvent préférer les réponses directes par souci d'efficacité
 - Le chatbot ne peut fournir le soutien relationnel d'un tuteur humain
 - Certains étudiants peuvent rester enfermés dans des boucles socratiques sans résolution
+- La livraison peut varier davantage que la conception ne le précise. Dans un cours de C++, l'item demandant si le chatbot posait des questions réflexives ou d'application était le plus bas et le plus variable de l'enquête, à 3.86 sur 5 (ÉT 1.24), ce que les auteurs lisent comme une livraison inégale de ce que l'invite système nommait ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware et Jiang (2026)]]).
 
 ### Un contre-résultat : l'accès sans restriction peut surpasser les modes contraints
 

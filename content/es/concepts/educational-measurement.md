@@ -1,7 +1,7 @@
 ---
 title: Medición educativa
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,10 +9,14 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-13"
@@ -97,7 +101,7 @@ La alfabetización en IA es el constructo con la cobertura de instrumentos más 
 
 ### Instrumentos de calidad de la evaluación y validez
 
-- **Instrumentos de puntuación automatizada y rúbricas.** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] genera rúbricas de evaluación; [[ai-assisted-instructor-supervised-grading-feedback]] evalúa la calidad de la calificación con IA contra criterios de [[feedback|retroalimentación]] elaborada; [[ai-assessment-scale-reform]] aborda cómo la IA altera las escalas de evaluación tradicionales.
+- **Instrumentos de puntuación automatizada y [[rubrics|rúbricas]].** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] genera rúbricas de evaluación; [[ai-assisted-instructor-supervised-grading-feedback]] evalúa la calidad de la calificación con IA contra criterios de [[feedback|retroalimentación]] elaborada; [[ai-assessment-scale-reform]] aborda cómo la IA altera las escalas de evaluación tradicionales.
 - **Diseños que refuerzan la validez.** [[roe-assessment-twins-2026|Los gemelos de evaluación]] emparejan una tarea vulnerable a la [[generative-ai|IA generativa]] con una equivalente menos vulnerable que evalúa los mismos resultados, y mapean las amenazas en las seis vertientes de evidencia de validez de Messick.
 - **Particionar el espacio de resultados según la asistencia.** Un programa de medición define la **autoría del modelo** —hasta qué punto quien aprende, y no el sistema, origina el contenido de dominio de un artefacto— como un constructo de cuatro facetas y cuatro niveles, e informa de que, de 24 estudios auditados, casi todos midieron el rendimiento con la IA disponible y ninguno después de retirarla ([[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]]).
 - **Codificación del discurso y de la implicación.** [[icap-cognitive-engagement-llm-agents]] extiende el [[icap-framework|marco ICAP]] a un esquema de codificación de la implicación cognitiva de 7 puntos, comparando la anotación humana (κ = 0,906–0,998) con el etiquetado basado en LLM (κ = 0,541–0,609): un estudio de instrumento de medición que muestra que la codificación automatizada todavía va por detrás de personas entrenadas. La codificación automatizada también avanza mediante [[prompt-engineering|prompts conscientes del contexto]], que modelan dependencias contextuales y fusionan habilidades cognitivas y sociales para codificar habilidades de [[collaborative-learning|resolución colaborativa de problemas]] a partir de datos de proceso con un desempeño superior al de referencias sólidas, lo que permite una evaluación a gran escala y en tiempo real a la vez que aborda la intensidad de trabajo de la codificación manual.

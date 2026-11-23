@@ -1,7 +1,7 @@
 ---
 title: Patrones pedagógicos
 created: "2026-09-30T16:48:24-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
 connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
@@ -99,7 +103,7 @@ Un tercer informe de la misma implementación de 2024 pregunta cómo llama el es
 
 ### Crítica de la IA y luego revisión
 
-**Evidencia: probada — con un nulo importante.** Redactar un borrador, pedir a la IA retroalimentación guiada por la rúbrica, evaluar críticamente esa retroalimentación frente a la rúbrica y las fuentes, escribir un plan de revisión, revisar y reflexionar.
+**Evidencia: probada — con un nulo importante.** Redactar un borrador, pedir a la IA retroalimentación guiada por la [[rubrics|rúbrica]], evaluar críticamente esa retroalimentación frente a la rúbrica y las fuentes, escribir un plan de revisión, revisar y reflexionar.
 
 Un experimento factorial 2 × 2 controlado con 120 estudiantes de filología inglesa encontró que la ganancia de calidad de escritura fue mayor para el grupo entrenado tanto en el filtrado como en la valoración (M = 7,92), frente a 6,10, 4,56 y 3,10 de las otras condiciones, con la revisión profunda subiendo de 28% a 48% y la ventaja persistiendo en un tema nuevo y después de retirar el apoyo de la IA ([[rethinking-ai-writing-feedback-literacy|Dai, 2026]]). El nulo es la parte instructiva: en un experimento aleatorizado de tres grupos con 70 estudiantes, la retroalimentación de la IA con prompting de cadena de pensamiento fue significativamente de *mayor calidad* que tanto la retroalimentación de la IA de cero disparos (p = 0,01) como la retroalimentación docente (p = 0,008), y sin embargo esa ventaja de calidad **no se tradujo en mayores ganancias de revisión** — la retroalimentación docente produjo una mejora comparable ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al., 2026]]).
 

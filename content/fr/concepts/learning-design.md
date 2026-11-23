@@ -1,7 +1,7 @@
 ---
 title: "Conception pédagogique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,6 +12,10 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire, elearning-prompt-library]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -25,7 +29,7 @@ ai_assist:
     date: "2026-11-17"
     agent: hermes-agent
 translation_of: concepts/learning-design
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
@@ -70,7 +74,7 @@ La qualité de la prose est l'autre point faible, et elle ne se confond pas avec
 
 **Contraindre l'outil pour protéger la pensée.** Une conception d'écriture argumentative de neuf semaines a séquencé des [[conversational-ai|agents conversationnels]] délimités par l'enseignant, qui posent des questions et refusent de générer la prose de l'étudiant, et quatre lycéens sont passés de consommateurs passifs d'IA à des évaluateurs qui contestaient les productions — la contrainte stratégique, et non la générativité sans entraves, suivait les gains ([[making-ai-annoying-constrained-writing-2026|Konradt, Boote & Taub (2026)]]).
 
-**L'ingénierie d'invites guidée par une grille comme levier de conception.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] ont démontré que la grille fonctionne comme une interface de médiation entre l'intention pédagogique humaine et l'inférence de la machine : traiter les critères d'évaluation comme des artefacts de conception révisables — plutôt que comme des instruments fixes — et les affiner itérativement avec le LLM a fait passer l'accord LLM-humain sur les travaux de conception des étudiants de 54.75% à 81.25%. Les grilles conçues pour les LLM doivent équilibrer précision et flexibilité — trop vague invite à la libre interprétation, trop rigide réduit le modèle à de l'appariement de motifs — et une ingénierie d'invites sensible au rôle (enseignant, évaluateur pair, évaluateur de subvention) produisait des rétroactions évaluatives distinctes. Cela positionne l'ingénierie de grilles comme une pratique concrète de conception pédagogique pour façonner le comportement d'évaluation de l'IA, la supervision avec l'humain dans la boucle demeurant essentielle.
+**L'ingénierie d'invites guidée par une grille comme levier de conception.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] ont démontré que la [[rubrics|grille d'évaluation]] fonctionne comme une interface de médiation entre l'intention pédagogique humaine et l'inférence de la machine : traiter les critères d'évaluation comme des artefacts de conception révisables — plutôt que comme des instruments fixes — et les affiner itérativement avec le LLM a fait passer l'accord LLM-humain sur les travaux de conception des étudiants de 54.75% à 81.25%. Les grilles conçues pour les LLM doivent équilibrer précision et flexibilité — trop vague invite à la libre interprétation, trop rigide réduit le modèle à de l'appariement de motifs — et une ingénierie d'invites sensible au rôle (enseignant, évaluateur pair, évaluateur de subvention) produisait des rétroactions évaluatives distinctes. Cela positionne l'ingénierie de grilles comme une pratique concrète de conception pédagogique pour façonner le comportement d'évaluation de l'IA, la supervision avec l'humain dans la boucle demeurant essentielle.
 
 **Les agents d'IA pour la conception pédagogique** étendent le champ vers l'[[agentic-ai|IA agentique]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** est le premier référentiel (benchmark) standardisé et fondé théoriquement pour évaluer les agents de conception pédagogique à base de LLM. Sa Context Matrix de 25,795 scénarios (51 variables contextuelles × 33 sous-étapes ISD issues de l'ADDIE) montre que les agents ancrés dans des cadres ISD classiques (ADDIE, Dick & Carey, Rapid Prototyping ISD) surpassent les agents sans théorie, validant empiriquement que la conception pédagogique est une discipline structurée plutôt qu'une tâche d'ingénierie d'invites générique. Les agents ne sont pas seulement des *constructeurs* de conceptions mais aussi des *critiques* de celles-ci : [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] emploient un agent web autonome unique qui navigue dans une leçon en ligne en plusieurs étapes comme le ferait un étudiant, pour évaluer une conception pédagogique *avant* que de vrais apprenants ne s'y engagent. Sa description de l'[[student-experience|expérience étudiante]] prédit où les novices décrocheront et fait apparaître une rétroaction de conception actionnable, surpassant toutes les lignes de base et même une cohorte simulée d'étudiants sur un cours global d'introduction à l'informatique. Cela fait de l'évaluation agentique avant lancement un complément à faible coût de l'itération de conception humaine. **[[wang-multi-agent-systems-learning-designers-2025|Wang et al. (2025)]]** et **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explorent des cadres multi-agents qui orchestrent des agents fondés sur les rôles autour de modèles de conception pédagogique, tandis que **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examine comment les enseignants et les agents appliquent conjointement les connaissances technologiques, pédagogiques et disciplinaires. Ces travaux relient la conception pédagogique à l'[[benchmark|évaluation comparative]], à l'[[ai-ed-evaluation|évaluation de l'IA en éducation]], et à la conception de [[curriculum-design|curricula]] à l'échelle.
 
@@ -126,6 +130,10 @@ Fowlin et al. (2026) ajoutent un geste opérationnel pour décider où l'IA inte
 - **Les concepteurs demandent la pilotabilité, pas l'autonomie.** Huit concepteurs pédagogiques testant une plateforme de génération d'items ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]) voulaient le contrôle de la difficulté, du format et de la provenance, ont attribué 78.8 au SUS, et ont nommé la confiance comme condition de l'adoption.
 
 La conception modère les effets plus que la technologie ne le fait dans la synthèse de Zhang et de ses collègues : la même capacité de GenAI produisait g = 0.92 lorsque l'apprenant la dirigeait et g = 0.34 lorsqu'elle fonctionnait de manière autonome. Le mode d'interaction est donc une décision de conception plutôt qu'une propriété de l'outil ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
+**Une boucle de conception et d'audit de l'apprentissage réflexif.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] proposent SAREL — spécifier la capacité réflexive et un comparateur sans IA ; allouer le contrôle de l'apprenant et une voie accessible équivalente ; exiger réflexion et vérification ; évaluer l'apprentissage en même temps que l'équité, la charge de travail et l'usage des ressources ; réinjecter les preuves dans la refonte — comme manière de maintenir la réflexion assistée par IA comme une question comparative de conception plutôt que comme un bénéfice supposé de l'adoption. Les cinq étapes sont une proposition d'auteur non validée, offerte pour formuler les bonnes questions plutôt que comme une méthode testée.
+
+**Concevoir pour les niveaux au-dessus et en dessous du cours.** Un cours est un niveau dans un système plus large : les apprenants qui s'y trouvent arrivent avec des [[prior-knowledge|connaissances préalables]] et des obligations extérieures à la classe, et l'institution qui l'entoure fixe la charge de travail, les règles d'approvisionnement et celles de l'évaluation. [[learning-environments-as-systems|Les environnements d'apprentissage considérés comme des systèmes]] nomment la posture qui traite ces niveaux comme interagissants, de sorte qu'un outil choisi au niveau du cours est confronté aux contraintes de l'institution et à la situation réelle de l'apprenant plutôt qu'évalué comme si le cours était un système fermé.
 
 ## Idées fausses courantes
 

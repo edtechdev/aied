@@ -1,7 +1,7 @@
 ---
 title: Conocimiento Tecnológico, Pedagógico y de Contenido (TPACK)
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-11-15T15:48:57-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,10 +9,14 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-15T15:46:54-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -23,7 +27,7 @@ ai_assist:
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
-connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026, shenoy-genai-teacher-professional-development-framework-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -63,6 +67,7 @@ El TPACK sostiene que una integración eficaz de la tecnología no es la suma de
 
 La era de la IA ha empujado el marco hacia una lectura de la tecnología con inteligencia. Más que una herramienta pasiva, la IA generativa es un agente activo que puede planificar, generar contenido, tutorizar y adaptarse, así que el conocimiento de la integración incluye cada vez más la **orquestación**: decidir cuándo y cómo la IA actúa, andamia o cede ante el [[human-in-the-loop-ai|juicio humano]].
 
+- **La suposición de herramienta estable se rompe.** [[shenoy-genai-teacher-professional-development-framework-2026|Shenoy y Saarela (2026)]] sostienen que el TPACK se construyó para herramientas deterministas cuyas salidas son estables y verificables, de modo que la salida probabilística de la IA generativa no puede acumularse como conocimiento de herramienta; lo que se desarrolla en su lugar es la competencia para interrogar las salidas.
 - **Más allá del conocimiento discreto.** [[ai-tpack-teacher-multi-agent-workflow|La investigación sobre AI-TPACK]] sostiene que una integración eficaz de la IA no surge de poseer dominios separados, sino de la interacción dinámica entre el **pensamiento sistémico**, las **creencias pedagógicas** y la **[[self-efficacy|autoeficacia]]**, lo que cuestiona los modelos estáticos y basados en listas de verificación de la competencia del profesorado en IA. Los arquetipos docentes (optimizadores sistemáticos, creadores prolíficos, observadores pasivos) surgen de cómo diseña el profesorado flujos de trabajo instruccionales con múltiples agentes.
 - **Lo que los marcos de integración dejan fuera.** Una crítica desde la coagencia sostiene que el TPACK y el [[samr-model|SAMR]] abordan el conocimiento y los niveles de adopción del profesorado, pero dejan sin tratar el poder, la propiedad de los datos y la rendición de cuentas, de modo que el conocimiento de integración necesita un límite ético explícito en lugar de otro dominio de conocimiento ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 - El marco de Competencia de Colaboración entre Personas e IA (HACC) reasigna el trabajo integrador que el TPACK asigna a la pedagogía del profesorado a la propia metacognición de quien aprende, de modo que la integración del lado de quien aprende queda fuera del alcance del TPACK ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
@@ -84,7 +89,7 @@ Una advertencia de medición complementaria procede del Modelo de Capacidad–De
 
 La cadena serial completa (alfabetización en IA → AI-TPACK → autoeficacia → intención) fue significativa, como también lo fueron las rutas indirectas separadas a través del AI-TPACK y de la autoeficacia; en conjunto, la mayor parte de la asociación de la alfabetización en IA con la intención pasaba por estos mediadores y no de forma directa, y el resultado se mantuvo tras controlar el género, el año de estudio, la especialidad y la frecuencia de uso de IA. La afirmación práctica del modelo es una secuencia con un punto de entrada: la alfabetización en IA es necesaria pero insuficiente, y el trabajo de integración ocurre allí donde se combinan el conocimiento tecnológico, pedagógico y de contenido, que es también donde se construye la confianza del profesorado para enseñar la materia.
 
-- **La validación como cuarta competencia.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol y Ugur (2026)]] amplían el modelo con el **Conocimiento de Validación de IA** —someter la salida probabilística de la IA a una verificación específica de la disciplina antes de tratarla como evidencia de una decisión legítima— y lo acompañan de una rúbrica orientada a procesos para la [[design-education|educación en diseño]].
+- **La validación como cuarta competencia.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol y Ugur (2026)]] amplían el modelo con el **Conocimiento de Validación de IA** —someter la salida probabilística de la IA a una verificación específica de la disciplina antes de tratarla como evidencia de una decisión legítima— y lo acompañan de una [[rubrics|rúbrica]] orientada a procesos para la [[design-education|educación en diseño]].
 - **La [[ethics|ética]] como mediadora integradora, no como frontera.** En una encuesta a 454 docentes universitarios, el conocimiento tecnológico sobre IA aislado tenía una asociación directa *negativa* con el AI-TPACK integrado (β = −0,303) mientras su efecto total seguía siendo positivo (β = 0,639), canalizado a través del conocimiento pedagógico, de contenido y ético ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]). El conocimiento ético canalizó además el efecto hacia delante, prediciendo tanto el conocimiento pedagógico (β = 0,353) como el de contenido (β = 0,269).
 
 ## Por qué importa en la educación con IA
@@ -95,6 +100,7 @@ El TPACK es el marco organizador del lado docente de la base de evidencia. Expli
 **Los componentes no pesan igual en el caso de la IA.** Entre 988 futuros docentes, el TCK (β = 0,67) y el TPK (β = 0,41) predijeron el AI-TPACK integrado mientras que el TK por sí solo no lo hizo (β = −0,10, p = 0,066), y el TPACK integrado predijo la actitud hacia la IA generativa (β = 0,75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
 
 **Puesta en práctica, y no revisión, bajo restricciones de recursos.** El profesorado de una universidad de Somalilandia describió un uso condicionado por el apoyo institucional, la ausencia de políticas y una suscripción mensual de 20 dólares que pagaban de su propio bolsillo: un contexto que el TPACK acomoda sin cambiar sus componentes ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
+- **La autoeficacia no es competencia.** Un estudio basado en el diseño sobre formación en alfabetización de IA con 29 estudiantes de magisterio encontró que un único taller elevaba la autoeficacia percibida en competencia de IA, pero no la competencia pedagógica ni la de evaluación, y las planificaciones de clase calificadas con rúbrica TPACK obtuvieron la puntuación más baja en aplicación creativa de la IA generativa (M = 1,64) ([[genai-literacy-training-teacher-education-dbr-2026|Le et al., 2026]]).
 
 ## Implicaciones de diseño
 

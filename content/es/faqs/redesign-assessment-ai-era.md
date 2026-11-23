@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puedo rediseñar la evaluación para que una calificación siga diciéndome algo defendible sobre lo que el estudiante sabe o puede hacer?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-11-19T19:40:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
@@ -12,6 +12,10 @@ translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -26,7 +30,7 @@ ai_assist:
 
 Probablemente tenga entre manos una tarea que funcionó durante años y que ahora devuelve trabajos que no puede defender. La nota dice A; puede que el trabajo sea en su mayor parte de la herramienta. O un estudiante está impugnando una calificación baja por motivos que usted no puede comprobar, o su programa está reescribiendo su política de evaluación y le pregunta qué debería cambiar en su curso para el próximo semestre.
 
-La respuesta breve: decida de qué debe ser evidencia la nota, incluya en la tarea al menos un paso que el estudiante complete sin la herramienta y haga que la rúbrica puntúe el razonamiento y no solo el producto. Un rediseño que se salte el segundo y el tercer paso cambia cómo se produce el trabajo sin cambiar qué puede sustentar la nota.
+La respuesta breve: decida de qué debe ser evidencia la nota, incluya en la tarea al menos un paso que el estudiante complete sin la herramienta y haga que la [[rubrics|rúbrica]] puntúe el razonamiento y no solo el producto. Un rediseño que se salte el segundo y el tercer paso cambia cómo se produce el trabajo sin cambiar qué puede sustentar la nota.
 
 ## La versión breve
 

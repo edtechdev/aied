@@ -1,7 +1,7 @@
 ---
 title: "La vie privée"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 connected_resources: [drawsplat]
 translation_of: concepts/privacy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,11 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
 connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---
@@ -84,11 +89,14 @@ Un vérificateur en deux étapes a porté la précision à 0.8893 là où les fa
 
 Les contextes du [[k-12|primaire et du secondaire]] exigent des garanties de protection de la vie privée plus fortes parce que les apprenants sont mineurs. Cela étend la vie privée au-delà de la protection des données vers la [[pedagogical-safety|sécurité pédagogique]] : les outils que les enfants utilisent doivent non seulement protéger leurs données mais aussi les protéger du préjudice. La [[child-safety-genai|recherche sur la sécurité des enfants]] montre que les classificateurs de sécurité généralistes échouent souvent à détecter les invites non sûres liées à l'éducation émanant d'enfants, avertissant que les écoles ne peuvent pas présumer que les garanties standard des modèles protègent les utilisateurs plus jeunes — ils ont besoin d'une évaluation spécifique à l'enfance, de tests ancrés dans des incidents et d'une [[human-in-the-loop-ai|supervision humaine]]. Ce cadrage rattache la vie privée à l'[[equity-in-ai-education|équité]] : qui est protégé par la sécurité et les pratiques de confidentialité par défaut reflète dont la sécurité et l'autonomie un système traite comme non négociables.
 
+- **Les seuils d'âge sont légaux, non contractuels.** Un produit dont les conditions disent « 13 ans ou plus » n'échappe pas pour autant au COPPA : la règle s'attache lorsqu'un service est destiné aux enfants ou lorsque le fournisseur a connaissance effective qu'un utilisateur a moins de 13 ans, si bien que le filtrage par âge et la minimisation des données appartiennent aux conditions de déploiement plutôt qu'au texte du fournisseur. Aux articles 8 et 12 du RGPD, le plancher comparable est généralement de 16 ans pour le consentement parental vérifiable, avec un avis adapté à l'âge ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
+
 ## La vie privée en pratique
 
 - **Traiter la vie privée comme une exigence de conception, non une réflexion politique après coup.** L'exemple de [[teachlm-post-training-llms-education|TeachLM]] montre que le consentement, l'anonymisation et le traitement sécurisé des données peuvent être intégrés au pipeline de données lui-même — un modèle pour sourcer éthiquement les données authentiques qui rendent les [[intelligent-tutoring|tuteurs d'IA]] efficaces.
 - **Concevoir pour la minimisation des données.** Privilégiez les approches qui ne collectent que ce que l'adaptation exige (IA en périphérie ou fédérée, traitement sur l'appareil) plutôt que d'accumuler par défaut les données d'interaction. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et coll. (2026)]] en démontrent une forme fédérée concrète pour le [[cognitive-diagnosis|diagnostic cognitif]] : plusieurs API commerciales de [[llm|grands modèles de langue]] collaborent au diagnostic tout en ajoutant localement un bruit de confidentialité différentielle ε-local à la prédiction de chaque modèle avant agrégation, si bien qu'aucun fournisseur ne voit les données brutes des étudiants — une architecture préservant la vie privée qui maintient fonctionnel le [[intelligent-tutoring|tutorat par IA]] sans centraliser les trajectoires sensibles des apprenants. L'apprentissage fédéré permet aussi une **analytique interinstitutionnelle sans partage de données** : [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et coll. (2026)]] entraînent un modèle de risque académique multitâche à travers les institutions par agrégation fédérée, si bien que les données brutes des apprenants restent en local et que seuls les paramètres du modèle sont partagés — une alternative collaborative et préservant la vie privée à l'[[learning-analytics|analytique de l'apprentissage]] centralisée, qui préserve la souveraineté des données tout en capturant les motifs interinstitutionnels.
 - **Supprimer l'identité plutôt que la gérer.** [[intelligent-tutoring|AI Tutor Pro]] est conçu pour que les étudiants n'aient besoin d'aucun compte et ne laissent aucun profil : le modèle de confidentialité est un choix de conception qui élimine le risque d'identité au lieu de le gouverner après coup ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). La plupart des conseils sur la vie privée demandent aux institutions d'auditer, de minimiser et de recueillir le consentement ; il s'agit de l'alternative structurelle moins coûteuse, applicable partout où un outil n'a pas besoin de savoir qui est l'apprenant.
+- **Choisir le mode d'hébergement avant la pédagogie.** Wells (2026) a mené un pilote d'assistant de recherche en sociologie sur un Copilot sous licence universitaire plutôt qu'un chatbot public, afin que le travail des étudiants demeure dans l'environnement Microsoft 365 de l'institution, et a conditionné l'accès à un module de formation de cinq unités et à un quiz de cinq items à 80 % de réussite ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). Le contrôle de confidentialité et le seuil de compétence ont été livrés comme une seule décision de déploiement.
 - **Sécuriser un consentement explicite et éclairé.** Lorsque les données d'apprenant financent le développement ou l'amélioration de l'IA, les institutions devraient être transparentes sur la collecte, le stockage et l'usage — et les étudiants devraient disposer d'options réelles, et non de plateformes imposées.
 - **Auditer qui est protégé.** Les garanties de protection de la vie privée ne devraient pas par défaut ne protéger que certains apprenants ; l'[[equity-in-ai-education|équité]] exige que le même soin s'applique à travers les lignes de l'âge, de la langue, du handicap et du statut socioéconomique.
 

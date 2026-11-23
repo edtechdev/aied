@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage collaboratif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:55:53-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
 connected_resources: [nowcomment]
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,8 +24,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
-connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026, xu-llm-role-configurations-preservice-teachers-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -120,6 +124,8 @@ L'apprentissage collaboratif occupe le sommet du [[icap-framework|cadre ICAP]] (
 Le statut de pair se gagne socialement. La capacité mathématique n'entrait guère dans les jugements. Sept chercheurs experts ont chacun passé environ vingt minutes à résoudre des équations du second degré avec un agent LLM adaptatif porteur d'un persona informé par le Big Five, puis ont expliqué leurs jugements en entretien. Ils l'évaluaient presque entièrement sur le comportement : il créait un espace sans jugement, raisonnait avec prudence plutôt qu'en affirmant, montrait une imperfection appropriée et laissait intactes les idées de l'apprenant. Pour la conception d'[[agentic-ai|agents]], cela inverse la priorité habituelle — un solveur capable qui se présente comme une autorité sape le cadre collaboratif, quelle que soit la qualité de ses réponses ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]]).
 
 - Une estimation méta-analytique directe existe désormais pour le soutien adaptatif : sur 83 études expérimentales et quasi expérimentales rapportées dans 80 articles (2004–2023), le soutien adapté à l'activité collaborative se regroupait à g = .73, IC à 95 % [.56, .90], le plus fort pour les connaissances individuelles (g = .93) et le plus faible pour l'affect (g = .28) ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
+
+- **Le rôle assigné au LLM change la collaboration, pas seulement la production.** Avec 210 enseignants en formation initiale, [[xu-llm-role-configurations-preservice-teachers-2026|Xu, Lu et Yang (2026)]] ont constaté qu'un rôle de soutien élevait la littératie en IA et abaissait la charge mentale, tandis qu'un rôle exigeant doublait à peu près la densité d'intégration au prix d'un effort mental plus élevé.
 
 ## Idées fausses courantes
 

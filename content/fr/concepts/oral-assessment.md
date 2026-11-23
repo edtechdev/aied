@@ -1,7 +1,7 @@
 ---
 title: "Évaluation orale"
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -15,7 +15,7 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
 connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
@@ -92,7 +96,7 @@ Aucun format n'occupe une position fixe dans ce compromis : l'observabilité de 
 L'argument d'intégrité de l'oral est aussi limité dans le temps : [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et coll. (2026)]] soutiennent que des lunettes et des écouteurs d'IA peuvent fournir des suggestions en temps réel et de façon dissimulée pendant une soutenance en direct, parce que l'IA portable ne produit aucun déplacement du regard ni signal détectable, de sorte que les oraux interactifs n'en sont plus protégés.
 
 - **Le plafond d'échelle est la contrainte de conception.** Dans un atelier réunissant 73 éducateurs en [[cs-education|informatique]], l'évaluation orale et interactive a été rapportée comme la meilleure preuve disponible de la compréhension individuelle et le remède le moins extensible. Les atténuations que les participants décrivaient étaient la distribution et l'échantillonnage : des viviers partagés d'assistants d'enseignement, une [[peer-assessment|évaluation par les pairs]] pondérée sous un [[summative-assessment|examen final]], et le fait d'interpeller un sous-ensemble tournant d'étudiants ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
-- **La conversation notée par machine devient indulgente là où l'intervieweur étaye.** [[challen-conversational-assessment-chat-exams-2026|Challen et Zilles (2026)]] séparent un intervieweur aveugle au barème d'un évaluateur caché ; une renotation à l'aveugle de 40 tentatives concordait à 35 % et attribuait deux fois la note maximale là où l'évaluateur déployé la donnait 20 fois.
+- **La conversation notée par machine devient indulgente là où l'intervieweur étaye.** [[challen-conversational-assessment-chat-exams-2026|Challen et Zilles (2026)]] séparent un intervieweur aveugle à la [[rubrics|grille d'évaluation]] d'un évaluateur caché ; une renotation à l'aveugle de 40 tentatives concordait à 35 % et attribuait deux fois la note maximale là où l'évaluateur déployé la donnait 20 fois.
 
 ## Idées fausses courantes
 

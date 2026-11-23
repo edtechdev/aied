@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo compruebo si las preguntas de cuestionario y examen generadas por IA son realmente buenas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -24,11 +24,15 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-Pide veinte preguntas a partir de sus apuntes de clase. Vuelven con claves de respuesta, explicaciones, etiquetas de dificultad y categorías de la taxonomía de Bloom, en un documento formateado que parece terminado. Su nombre está a punto de ir en él.
+Pide veinte preguntas a partir de sus apuntes de clase. Vuelven con claves de respuesta, explicaciones, etiquetas de dificultad y categorías de la [[bloom-taxonomy|taxonomía de Bloom]], en un documento formateado que parece terminado. Su nombre está a punto de ir en él.
 
 Respuesta breve para dar a un colega: las preguntas generadas son candidatas, no una evaluación. Resuelva cada una usted mismo, compruebe qué tiene que hacer realmente un estudiante para responderla y averigüe cómo responden los estudiantes antes de que cuente. En los dos estudios más grandes, la señal interesante no es que la generación funcione, sino dónde falla. La generación iterativa dentro de un flujo de trabajo específico del curso produjo exámenes de opción múltiple utilizables en 71 clases universitarias ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). En una auditoría de ciencia de datos de 311 preguntas desplegadas, las etiquetas de dificultad del modelo siguieron casi a la perfección los niveles de Bloom que había generado junto a ellas (ρ de Spearman = 0,90), mientras que siguieron lo que los estudiantes puntuaron de verdad con ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang, 2026]]). La etiqueta era una descripción del prompt, no una medición del ítem.
 
@@ -64,7 +68,7 @@ Revise a continuación la alineación: ¿responder aporta evidencia del resultad
 
 Lea la redacción como lo haría un estudiante. ¿Está presente la información necesaria, y se ha eliminado la ambigüedad ajena a su constructo?
 
-Mire las opciones y las reglas de puntuación juntas. ¿Son los distractores plausibles y distintos entre sí y de la clave, y reconoce la clave las respuestas alternativas legítimas que su rúbrica acreditaría?
+Mire las opciones y las reglas de puntuación juntas. ¿Son los distractores plausibles y distintos entre sí y de la clave, y reconoce la clave las respuestas alternativas legítimas que su [[rubrics|rúbrica]] acreditaría?
 
 Por último, pregunte a quién excluye el ítem. La carga de lectura, el contexto cultural, los elementos visuales y el formato pueden imponer exigencias ajenas al resultado. Para un estudiante multilingüe o con discapacidad, un ítem que premia la lectura rápida está midiendo algo que usted no pretendía, y el [[differential-effects-across-learner-groups|rendimiento por subgrupos]] es donde eso aparece.
 

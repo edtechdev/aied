@@ -1,7 +1,7 @@
 ---
 title: Creatividad
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-17T16:10:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-11-16T21:05:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,8 +26,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [critical-thinking, constructivist, writing-education, student-experience, generative-ai, reducing-ai-misuse, authentic-assessment, collaborative-learning, design-thinking, problem-solving, inquiry-based-learning, cognitive-offloading, scaffolding, arts-and-media-education]
-connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026]
+connected_articles: [malkani-paul-ai-steam-visual-storytelling-2026, wei-genai-configurations-creative-phases-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, bicer-genai-pd-math-creativity-2026, incipit-axiom-grounded-scaffolding-literary-creation-2026, jin-emergent-learner-agency-implicit-hai-2026, chatgpt-critical-creative-thinking-review, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, t2i-competence-paradox-2026, mujib-ai-ibl-creative-math-2026, flowcode-ai-creative-coding, trikonet-trivalence-co-creativity-2026, genai-creativity-k12-scoping-review-2026, multi-agent-llm-social-learning, genai-dependence-research-creativity-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, ai-dependence-creativity-motivation-literacy-2026, ai-exemplar-attribution-creativity-education-2026, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -59,9 +63,11 @@ La creatividad abarca el extremo del pensamiento divergente del espectro cogniti
 
 - **La colaboración de «pensar primero» sostiene la creatividad independiente:** Wong y Qiu (2026) encontraron que el estudiantado que generaba sus propias ideas *antes* de usar ChatGPT (un protocolo de «piensa primero, ChatGPT después») no mostraba una mejora inmediata en la tarea asistida, pero superaba tanto a un grupo con IA libre como a un grupo solo humano en una tarea de creatividad posterior sin ayuda. Usar ChatGPT libremente producía un rendimiento solo transitorio que se derrumbaba al retirar la asistencia —una forma de [[cognitive-offloading|dependencia excesiva]] más que de aprendizaje—, mientras que la [[human-ai-collaboration|cocreación]] colaborativa orientada a mejorar las ideas *propias* producía ganancias duraderas en creatividad independiente. Esto ofrece evidencia experimental directa de que proteger la agencia creativa no es solo deseable, sino que es lo que convierte el trabajo asistido por IA en aprendizaje.
 
-- **La fuente percibida del ejemplar, y no su contenido, da forma a la ideación grupal.** Ejemplares idénticos generados por ChatGPT y etiquetados como producidos por personas frente a por IA cambiaron la creatividad grupal en un estudio de hiperescaneo con fNIRS de 113 díadas: la atribución humana elevó la unicidad de las ideas durante la estimulación y la sincronía interencefálica en las regiones premotora y motora suplementaria, la atribución a la IA solo aumentó el cambio entre vías de ideación, y ninguno de los dos efectos persistió una vez retirados los ejemplares ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
+- **La fuente percibida del [[rubrics|ejemplar]], y no su contenido, da forma a la ideación grupal.** Ejemplares idénticos generados por ChatGPT y etiquetados como producidos por personas frente a por IA cambiaron la creatividad grupal en un estudio de hiperescaneo con fNIRS de 113 díadas: la atribución humana elevó la unicidad de las ideas durante la estimulación y la sincronía interencefálica en las regiones premotora y motora suplementaria, la atribución a la IA solo aumentó el cambio entre vías de ideación, y ninguno de los dos efectos persistió una vez retirados los ejemplares ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
 
 - **La implementación evolutiva, no la capacidad, separa la creatividad asistida por IA de la infancia.** En la primera comparación de neuroimagen entre personas menores y adultas cocreando con ChatGPT, el alumnado de 6–7 años y las personas adultas mantuvieron la misma conversación hablada de cinco minutos dentro de un escáner de resonancia magnética. La creatividad medida fuera del escáner no difería entre grupos. Sin embargo, las personas adultas mostraron una conectividad intrarred significativamente más fuerte en las redes de control frontoparietal, de prominencia y de atención dorsal, y una creatividad más alta predijo un acoplamiento frontoparietal–prominencia más fuerte en las personas adultas pero no en la infancia. Quienes firman el estudio lo interpretan como una diferencia en cómo la cognición creativa se *implementa* durante el diálogo con la IA, no en la capacidad de base. Plantea además una pregunta que los consejos de andamiaje no han tenido que responder: ¿cuándo madura realmente la maquinaria de control que reclama el trabajo creativo asistido por IA? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
+
+- **Las ganancias creativas están mediadas por la instrucción; el fracaso es asimétrico.** Las tareas de indagación con andamiaje produjeron ganancias creativas y críticas simultáneas, mientras que el modo de fallo más frecuente fue que la fluencia creativa aumentara al tiempo que disminuía la implicación crítica ([[chatgpt-critical-creative-thinking-review|Li et al. (2026)]]).
 
 Un contrapeso procedente de la investigación de posgrado: entre 1.157 estudiantes de posgrado chinos, la dependencia de la [[generative-ai|IA generativa]] se asoció positivamente con la creatividad investigadora [[self-report-measures|autodeclarada]], mucho más fuertemente para la dependencia funcional y orientada a tareas (β = 0,457) que para la dependencia existencial (β = 0,147), y el [[critical-thinking|pensamiento crítico]] cargaba aproximadamente el 85,0% de la vía funcional ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 
@@ -70,6 +76,8 @@ Una encuesta nacional matiza ese patrón: en 5.764 estudiantes universitarios ch
 - **La corporeización rinde de forma desigual.** Un robot físico emparejado con un modelo de alta creatividad elevó significativamente la originalidad frente a la colaboración entre personas y la basada en texto, mientras que las condiciones humanas y basadas en texto conservaron la ventaja en imaginería y voz: una paradoja de la corporeización en la que el robot amplificó la producción de la IA sin mejorar el estilo ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu y Song (2026)]]).
 
 - **Reafirmar la creatividad humana en la era de la IA.** El auge de la IA generativa desafía a los campos educativos a reafirmar el valor de la creatividad humana. Un marco de [[storytelling-in-education|narrativa]] digital [[project-based-learning|basada en proyectos]] para la educación artística y de diseño se diseñó explícitamente para cultivar capacidades emocionales, culturales y narrativas de las que carece la IA, con el estudiantado produciendo narrativas [[multimodal|multimodales]] a partir del patrimonio cultural local, lo que sitúa la creatividad como la contribución específicamente humana en el aprendizaje integrado con IA.
+
+**El profesorado puede leer la creatividad de forma distinta según el contexto.** En un estudio de dos países, [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] pidieron a 654 docentes de educación superior en China y Estados Unidos que juzgaran la creatividad de artefactos estudiantiles asistidos por IA generativa. La novedad, la resolución, la estética y el afecto formaron un núcleo evaluativo compartido, pero las muestras ponderaron las señales de forma distinta —el profesorado chino dio más peso a la diversidad y la transferibilidad, y el estadounidense a la inspiración y el afecto—, una diferencia que los autores leen como asociada al contexto y no como un efecto cultural limpio. El punto práctico: juzgar la creatividad del artefacto no es lo mismo que atribuir creatividad a quien aprende, y ambas cosas divergen cuando el artefacto está hecho con IA.
 
 ## La creatividad en distintos dominios
 

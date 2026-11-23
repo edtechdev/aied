@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las buenas prácticas para desarrollar un tutor de IA eficaz?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 audience: [educational technology developers, software developers, instructional designers]
@@ -18,6 +18,10 @@ translation_of: faqs/developing-ai-tutor
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -160,7 +164,7 @@ La escritura no tiene una única respuesta correcta, así que la verificación e
 
 **Un modelo de capacidades.** Rastrea argumentación (especificidad de la tesis, alineación entre afirmación y evidencia, contraargumento), organización (foco del párrafo, progresión lógica, transiciones), evidencia (pertinencia de las fuentes, integración, interpretación), revisión (revisión global y a nivel de frase, evaluación de la retroalimentación) y estilo (claridad, gramática, voz). Cada uno se convierte en una señal separada en el modelo del estudiante, que es lo que hace posible la retroalimentación focalizada.
 
-**Ancle el entrenador en la tarea.** Recupere las instrucciones, la rúbrica del docente, las lecturas del curso, los requisitos de citación, las convenciones del género, los ejemplos del docente y la política de uso de IA, de modo que la retroalimentación pueda decir "la rúbrica de su docente le pide conectar cada afirmación principal con evidencia de al menos dos lecturas del curso" en lugar de inventar expectativas genéricas. El consejo genérico es el fallo por defecto de una herramienta de escritura sin anclaje, y los estudiantes lo notan en dos sesiones.
+**Ancle el entrenador en la tarea.** Recupere las instrucciones, la [[rubrics|rúbrica]] del docente, las lecturas del curso, los requisitos de citación, las convenciones del género, los ejemplos del docente y la política de uso de IA, de modo que la retroalimentación pueda decir "la rúbrica de su docente le pide conectar cada afirmación principal con evidencia de al menos dos lecturas del curso" en lugar de inventar expectativas genéricas. El consejo genérico es el fallo por defecto de una herramienta de escritura sin anclaje, y los estudiantes lo notan en dos sesiones.
 
 **Fije permisos por etapa.** La participación de la IA en distintas etapas afecta de manera diferente la percepción de autoría. El apoyo en la planificación reduce menos la autoría que el apoyo en el borrador, y el borrador generado por IA produce la mayor disminución ([[ai-writing-support-stage-ownership-2026|From Planning to Revision]]). Ese hallazgo se convierte directamente en una tabla de permisos. En la planificación, el entrenador hace preguntas, compara posturas, cuestiona supuestos y critica esquemas, y no genera el argumento. En el borrador, el estudiante produce primero la prosa y el entrenador desarrolla en lugar de apropiarse. En la revisión, el entrenador diagnostica y se detiene ahí: afirmaciones poco claras, evidencia faltante, evidencia que no sostiene la afirmación, problemas de organización, el borrador frente a la rúbrica. En la edición, después de la revisión, se ocupa de la gramática, la puntuación, la concisión y el formato de las citas.
 

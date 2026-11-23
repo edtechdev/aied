@@ -1,7 +1,7 @@
 ---
 title: Teoría de la autodeterminación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,13 +9,17 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
 connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
@@ -56,7 +60,7 @@ Una prueba configuracional afina el argumento: entre 498 estudiantes universitar
 
 - **ChatGPT y las necesidades de la SDT en el aprendizaje de idiomas:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] usaron una lente basada en la SDT con 25 estudiantes universitarios malasios y encontraron que ChatGPT apoya la autonomía, la relación con los demás y la competencia en el [[language-learning|aprendizaje del inglés]], mejorando tareas de gramática, escritura y conversación y permitiendo que los [[teacher-role|educadores]] se centren en la formación de orden superior.
 
-**La SDT aplicada a la propia práctica de los formadores mediada por IA.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] usaron la SDT como lente interpretativa sobre cómo los formadores integran la [[learning-analytics|analítica del aprendizaje]] y la IA generativa en el [[learning-design|diseño del aprendizaje]], encontrando que apoyar las necesidades básicas de los formadores (autonomía, competencia, relación con los demás) fomenta la [[problem-solving|resolución de problemas]] creativa que exige su trabajo de diseño. En su análisis ENA, el uso de IA generativa se asoció con diseñar para la autodeterminación del estudiantado (por ejemplo, cocrear con los estudiantes las rúbricas de evaluación), lo que extiende la SDT de quienes aprenden a los educadores que construyen entornos mediados por IA que apoyan las necesidades.
+**La SDT aplicada a la propia práctica de los formadores mediada por IA.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] usaron la SDT como lente interpretativa sobre cómo los formadores integran la [[learning-analytics|analítica del aprendizaje]] y la IA generativa en el [[learning-design|diseño del aprendizaje]], encontrando que apoyar las necesidades básicas de los formadores (autonomía, competencia, relación con los demás) fomenta la [[problem-solving|resolución de problemas]] creativa que exige su trabajo de diseño. En su análisis ENA, el uso de IA generativa se asoció con diseñar para la autodeterminación del estudiantado (por ejemplo, cocrear con los estudiantes las [[rubrics|rúbricas]] de evaluación), lo que extiende la SDT de quienes aprenden a los educadores que construyen entornos mediados por IA que apoyan las necesidades.
 
 Para el propio profesorado, la colaboración con la IA corta en ambos sentidos: un estudio de tres oleadas con 468 docentes universitarios encontró que elevaba la implicación laboral a través de la disponibilidad psicológica y a la vez la reducía a través de la alienación laboral, y que la [[teacher-ai-competency|competencia digital]] reforzaba la primera vía y debilitaba la segunda ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 

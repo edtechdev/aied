@@ -1,7 +1,7 @@
 ---
 title: Trabajo en grupo
 created: "2026-09-28T21:09:40-04:00"
-updated: "2026-11-15T10:13:53-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,13 +12,17 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026, rothwell-ai-interpersonal-skills-undergraduate-teams-2026]
@@ -49,6 +53,7 @@ El trabajo en grupo ocupa un lugar distintivo en la [[higher-ed|educación super
 - **La colaboración hay que diseñarla, no darla por supuesta.** Cuando una tarea puede dividirse en subtareas independientes, el estudiantado toma ese camino y el grupo se convierte en un formato de entrega y no en un empeño intelectual conjunto. [[chen-zou-genai-group-assessment-agency-2026|Chen y Zou (2026)]] encontraron tres de sus quince grupos haciendo exactamente eso: dividir el trabajo, trabajar en «plataformas individuales» y no reunir nunca sus capacidades individuales con IA generativa, incluso cuando la coherencia era un criterio de evaluación explícito.
 - **Proceso frente a producto.** El trabajo en grupo es más sólido cuando el proceso se evalúa junto con el producto, lo que exige [[peer-assessment|evaluación entre pares]] u otros productos intermedios visibles y no un único artefacto final.
 - **[[equity-in-ai-education|Equidad]] e [[inclusive-learning|inclusión]].** Las normas de contribución, el idioma y la confianza se distribuyen de forma desigual dentro de los grupos. El estudiantado [[neurodivergent-computing-students|neurodivergente]] informa de que necesita tareas estructuradas, equipos pequeños y estables y roles definidos explícitamente, requisitos que las herramientas de colaboración con IA, a menudo construidas para quien aprende «medio», no suelen satisfacer.
+- **Ensayar la conversación difícil.** El momento más evitado del trabajo en grupo suele ser interpersonal: decir a un compañero de equipo que no cumplió sus plazos e invitarlo a dar su versión. Una revisión narrativa centrada de nueve estudios ([[rothwell-ai-interpersonal-skills-undergraduate-teams-2026|Rothwell, 2026]]) separa tres resultados que el profesorado tiende a confundir —la confianza del estudiantado tras ensayar con un chatbot, el desempeño mientras siguen disponibles las sugerencias de la IA y el desempeño sin ayuda junto a una persona— y encuentra que solo el tercero establece transferencia, con evidencia directa del trabajo en equipos de grado todavía limitada. El ejercicio propuesto organiza, por tanto, una conversación triádica de línea base, un ensayo con chatbot con retroalimentación basada en la conducta y rondas de transferencia cercana sin la herramienta y de retención diferida, de modo que la mejora no pueda atribuirse a los prompts disponibles en el momento del desempeño.
 
 ## Cómo cambia la IA el trabajo en grupo
 
@@ -99,7 +104,8 @@ Una segunda línea de investigación trata la IA como participante y no como her
 
 - **Haga de la negociación del uso de IA un resultado evaluable.** [[chen-zou-genai-group-assessment-agency-2026|Chen y Zou (2026)]] sostienen que los equipos deben justificar y documentar cómo se usará y cómo no se usará la IA generativa, convirtiendo una norma implícita entre pares en razonamiento explícito y calificable, en lugar de dejarlo al riesgo percibido.
 - **Evalúe el proceso, no solo el producto.** La [[peer-assessment|evaluación entre pares]], las entregas intermedias y las contribuciones reflexivas crean las interacciones mediante las cuales se construyen de verdad las normas y el entendimiento compartido.
-- **No se apoye solo en un criterio de coherencia.** Una línea de rúbrica que exige integración no produce colaboración si la estructura de la tarea sigue permitiendo dividir y vencer; el flujo de trabajo tiene que exigir trabajo conjunto.
+- **Califique la red, no a la persona actuando aislada.** Una reevaluación conceptual de la equidad en la era de la IA generativa sostiene que el trabajo en grupo debería evaluarse como una síntesis documentada entre perspectivas, una «red de conocimiento integrada», y no como un desempeño aislado bajo restricciones artificiales ([[dollinger-equitable-assessment-ai-2026|Dollinger y Nieminen, 2026]]).
+- **No se apoye solo en un criterio de coherencia.** Una línea de [[rubrics|rúbrica]] que exige integración no produce colaboración si la estructura de la tarea sigue permitiendo dividir y vencer; el flujo de trabajo tiene que exigir trabajo conjunto.
 - **Diseñe el acceso de forma deliberada.** Que el grupo comparta una interfaz de IA o que cada integrante escriba prompts en privado cambia la transparencia de la colaboración y el coste de mantener un modelo cognitivo compartido.
 - **Decida, de forma visible, cuál es el papel de la IA.** Un mediador neutral inspira confianza; una consejera o una cuestionadora no, salvo que ese papel sea explícito y previsto. Una persona contraria puede contrarrestar el pensamiento de grupo, pero solo como rasgo diseñado y con sus costes de seguridad psicológica reconocidos.
 - **Equilibre la eficiencia con la autorregulación.** La IA colaborativa que maximiza la eficiencia de la tarea puede socavar la implicación reguladora de quienes aprenden; el diseño debe proteger deliberadamente espacio para la interpretación concertada.

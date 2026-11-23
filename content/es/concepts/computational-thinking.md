@@ -1,7 +1,7 @@
 ---
 title: Pensamiento computacional
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,10 +9,14 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -59,6 +63,16 @@ Al automatizarse la implementación, las competencias duraderas cambian: un info
 - El pensamiento computacional también se mide como disposición: en un estudio de juegos de tres semanas con estudiantado de quinto grado, las tendencias autodeclaradas de PC ajustadas favorecieron a la clase con IA generativa, 4,325 frente a 4,037 (p = 0,046, eta cuadrado parcial = 0,052, n = 78). Una prueba de conocimiento algorítmico no separó a los grupos (80,7 frente a 74,9), de modo que las medidas de tendencia y de conocimiento rastreaban constructos distintos ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 Los perfiles de subhabilidades complican la puntuación única de PC que informa un diseño pre-post. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij y Khlaisang (2026)]] llevaron a 28 estudiantes de grado tailandeses de fuera de informática por ocho semanas de sesiones de tres horas que combinaban un ciclo de [[design-thinking|pensamiento de diseño]] de cinco pasos con la construcción de aplicaciones de bajo código, puntuando el trabajo de proyecto con una rúbrica de tres puntos. La media de pensamiento computacional subió de 1,13 en la primera sesión a 1,80 y luego a 2,49, con el pensamiento algorítmico como el hilo más fuerte, 2,08, y una trayectoria de 1,46 a 1,93 y 2,86. El pensamiento lógico promedió 1,54 y apenas se movió entre las dos primeras sesiones, de 1,04 a 1,29, antes de llegar a 2,29 en la tercera: un recordatorio de que las ganancias en un componente no implican que los demás hayan seguido.
+
+## El pensamiento sistémico como práctica del PC
+
+El pensamiento sistémico es uno de los cuatro dominios de la taxonomía del pensamiento computacional para matemáticas y ciencias desarrollada por Weintrop y sus colegas, junto con las Prácticas de Datos, las Prácticas Computacionales de Resolución de Problemas y las Prácticas de Modelado y Simulación. Su definición es precisa: **la capacidad de definir los límites de un sistema y sintetizar interacciones de nivel micro en un comportamiento de nivel macro**. Se trata de una capacidad cognitiva a nivel de quien aprende —una forma de razonar sobre un sistema— y es distinta de la postura a nivel de entorno que consiste en tratar el entorno de aprendizaje como un sistema ([[learning-environments-as-systems|los entornos de aprendizaje como sistemas]]).
+
+Es también el dominio donde la evaluación se rompe primero. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch y Rebello (2026)]] codificaron 936 explicaciones escritas del estudiantado en un curso introductorio de física computacional según la taxonomía, calibrando una línea de base humana con 10 estudiantes (60 respuestas, κ de Fleiss = 0,53) y codificando después a 50 estudiantes (300 respuestas) por votación mayoritaria. El crecimiento fue mayor en las Prácticas de Datos (p < 0,001, d = 1,03), con ganancias moderadas en la Resolución Computacional de Problemas (d = 0,52) y el Pensamiento Sistémico (d = 0,45). Pero el Pensamiento Sistémico fue el constructo menos fiable tanto para humanos como para modelos: concordancia humana κ = 0,51 y κ del LLM = 0,48, frente a κ = 0,90 para las Prácticas de Datos y κ = 0,78 para el Modelado y la Simulación. La lectura de los autores es que la dificultad proviene de la complejidad del constructo y no de una deficiencia del modelo: un constructo con múltiples componentes que pide identificar componentes *y* explicar sus interacciones y consecuencias es más difícil de codificar que uno bien definido. El Modelado y la Simulación mostró d = 0,00 por una razón ajena, un efecto techo: la media previa a la instrucción ya era de 1,62 sobre 2, así que ese ítem medía el conocimiento de partida y no el crecimiento.
+
+La consecuencia práctica es un problema de diseño de rúbricas, no de modelos. Su recomendación es reescribir la [[rubrics|rúbrica]] para que identificar los componentes del sistema se puntúe por separado de explicar cómo interactúan esos componentes, y leer la baja concordancia automatizada en un constructo integrado como una señal para revisar el instrumento en lugar de abandonar la automatización. Es el mismo movimiento al que llega la investigación sobre [[rubrics|rúbricas]] desde el lado de la puntuación: lo que calibra es el instrumento, no el modelo.
+
+El constructo viaja más allá de la física. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz y Castro Samayoa (2026)]] nombran el pensamiento sistémico como una de las capacidades que Aoun llama *a prueba de robots* —pensamiento crítico, pensamiento sistémico y agilidad cultural—, las que la práctica construye y la delegación no. [[huang-ai-literacy-vocational-problem-solving-2026|Huang y sus colegas (2026)]] delimitan su propio constructo de «pensamiento sistemático» frente a él, tratando el suyo como una medida estrecha de cuatro dimensiones (estructurar, razonar, priorizar, integrar) y declinando explícitamente llamarlo pensamiento sistémico en sentido amplio. Y [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea y Valencia-Silva (2026)]] advierten de que la implicación no es pensamiento sistémico, una distinción que importa cuando se usa una rúbrica para certificar una competencia para la que no fue escrita.
 
 ## El PC y el giro de consumidores de IA a productores, creadores y diseñadores
 

@@ -1,13 +1,13 @@
 ---
 title: "Comment intégrer la littératie en IA dans mon cours ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -24,6 +24,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -70,7 +75,7 @@ Le schéma autour duquel bâtir une tâche est une production plausible mais imp
 
 Traitez cela comme une compétence que vous enseignez, car elle n'arrive pas avec les connaissances de la matière. Dans la synthèse sur l'enseignement de l'informatique, les étudiants réussissaient significativement *moins bien* à corriger du code généré par IA qu'à des tâches d'[[summative-assessment|examen]] de programmation classiques. C'est la preuve directe que l'évaluation et la réparation d'une production ne se transfèrent pas automatiquement depuis la compétence disciplinaire générale, et que sans enseignement les étudiants rendront du travail incorrect sans le remarquer. La revue intègre cela dans son cadre VIE (Vérification, Implémentation, Équité) et soutient que l'engagement critique devrait être une composante notée et observable du travail de l'étudiant, en l'appelant « le mécanisme commun qui relie chaque intervention efficace du corpus ».
 
-Version pratique : une ligne de grille pour l'erreur que vous attendiez qu'ils repèrent, une pour la réparation, une pour la justification. Si la critique ne rapporte aucun point, elle se réduit à trois phrases à la sortie.
+Version pratique : une ligne de [[rubrics|grille]] pour l'erreur que vous attendiez qu'ils repèrent, une pour la réparation, une pour la justification. Si la critique ne rapporte aucun point, elle se réduit à trois phrases à la sortie.
 
 ## Rendez-la spécifique à votre discipline, et répétez-la
 

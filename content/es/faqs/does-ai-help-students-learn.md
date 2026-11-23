@@ -1,7 +1,7 @@
 ---
 title: "¿Usar IA ayuda de verdad a que mi estudiantado aprenda?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 audience: [instructors]
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -97,7 +101,7 @@ Cómo usan los estudiantes la herramienta importa más que si la tienen. En [[ya
 
 La lección [[pedagogy|pedagógica]] es que los permisos generales y las prohibiciones generales dejan por igual a los estudiantes adivinando. Lo que cambió la conducta, según el relato de ese estudio, fue una orientación específica para la tarea sobre qué trabajo cognitivo debían retener los estudiantes y qué asistencia era apropiada, la dirección de diseño que se desarrolla en [[reduce-ai-cheating|¿Cómo puedo reducir las trampas con IA en mi curso?]] y [[reducing-ai-misuse|reducir el mal uso de la IA]].
 
-Así que convierta el pensamiento retenido en un artefacto que pueda calificar. En matemáticas, pida la solución intentada antes de que se solicite ayuda, y luego haga que los estudiantes usen un prompt como "identifica el primer paso que debería reconsiderar, dame una pista útil y pídeme que lo intente de nuevo", y exija una nueva solución más una explicación en lugar de una reproducción de la respuesta de la IA. En escritura, haga que los estudiantes evalúen su borrador con la rúbrica antes de pedir crítica, y luego expliquen qué sugerencias aceptaron, modificaron o rechazaron. Si la construcción de argumentos es el objetivo, la prosa de la IA no puede sustituir la evidencia de que el estudiante puede construir un argumento. Si evaluar revisiones alternativas es el objetivo, comparar ejemplos completos es apropiado. Las páginas de [[writing-education|enseñanza de la escritura]] y [[feedback-literacy|alfabetización en retroalimentación]] llevan el detalle.
+Así que convierta el pensamiento retenido en un artefacto que pueda calificar. En matemáticas, pida la solución intentada antes de que se solicite ayuda, y luego haga que los estudiantes usen un prompt como "identifica el primer paso que debería reconsiderar, dame una pista útil y pídeme que lo intente de nuevo", y exija una nueva solución más una explicación en lugar de una reproducción de la respuesta de la IA. En escritura, haga que los estudiantes evalúen su borrador con la [[rubrics|rúbrica]] antes de pedir crítica, y luego expliquen qué sugerencias aceptaron, modificaron o rechazaron. Si la construcción de argumentos es el objetivo, la prosa de la IA no puede sustituir la evidencia de que el estudiante puede construir un argumento. Si evaluar revisiones alternativas es el objetivo, comparar ejemplos completos es apropiado. Las páginas de [[writing-education|enseñanza de la escritura]] y [[feedback-literacy|alfabetización en retroalimentación]] llevan el detalle.
 
 El requisito de diseño de la revisión es el mismo movimiento a nivel de curso: la verificación, es decir, leer, probar, modificar, explicar y criticar la salida de la IA, convertida en un componente calificado y observable en lugar de una aspiración dejada a la discreción del estudiante. Y no todo resultado legítimo tiene que demostrarse sin IA. Un curso puede enseñar deliberadamente el trabajo eficaz asistido por IA, y en ese caso evalúa la capacidad del estudiante de seleccionar, verificar, revisar y defender su uso de la herramienta junto con los fundamentos independientes que exija la disciplina. [[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]] propone esa distinción triple entre capacidad independiente, desempeño aumentado por IA y responsabilidad de verificación. Es un marco conceptual, no un instrumento validado.
 

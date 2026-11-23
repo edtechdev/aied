@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage des langues"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -12,10 +12,14 @@ level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
 connected_faqs: [ai-support-reading-comprehension]
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -67,7 +71,7 @@ Un système au niveau du discours va plus loin en nommant le défaut plutôt qu'
 
 La qualité de la conception, et non la fréquence d'usage, a porté l'effet motivationnel dans un tuteur construit par l'enseignant : sur 74 étudiants de premier cycle utilisant un GPT japonais cantonné au cours, la fréquence d'usage hors classe ne montrait aucune corrélation significative avec l'autonomie, la compétence ou le sentiment d'appartenance, tandis que les apprenants évaluaient très positivement le tuteur pour l'[[self-directed-learning|apprentissage autodirigé]] (M = 4.39) et citaient la sécurité affective (60.8%) ([[instructor-designed-ai-tutors-foreign-language-sdt-2026|Lee & Kwon, 2026]]).
 
-**L'écriture soutenue par l'IA générative au niveau du primaire.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ont mené un programme d'écriture d'opinion de neuf semaines auprès de 301 élèves de 5e et 6e année de l'Est de la Chine, huit classes intactes ayant été attribuées aléatoirement au programme ou à un enseignement conventionnel. Le programme a élevé le soi idéal en écriture L2 des apprenants (différence moyenne ajustée de 0.20) et leur résilience scolaire (0.17), et a accru l'engagement comportemental et émotionnel, mais il n'a pas modifié l'état d'esprit de croissance, ni l'engagement cognitif ou métacognitif, ni l'organisation évaluée par grille — parmi les dimensions de l'écriture, seul l'usage de la langue s'est amélioré. Deux traits de la conception importent pour les enseignants de langue : la sollicitation était enseignée explicitement, par une banque d'invites catégorisées rattachées à des objectifs d'écriture spécifiques, et la rétroaction de l'IA générative était utilisée conjointement à une comparaison avec la rétroaction de l'enseignant et à des révisions répétées. Les gains d'auctorialité que les apprenants ont rapportés reposaient sur cette structure pédagogique plutôt que sur l'outil seul, et les auteurs désignent la réduction de l'[[metacognition|autosurveillance]] et les stratégies orientées vers le raccourci comme les risques permanents.
+**L'écriture soutenue par l'IA générative au niveau du primaire.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ont mené un programme d'écriture d'opinion de neuf semaines auprès de 301 élèves de 5e et 6e année de l'Est de la Chine, huit classes intactes ayant été attribuées aléatoirement au programme ou à un enseignement conventionnel. Le programme a élevé le soi idéal en écriture L2 des apprenants (différence moyenne ajustée de 0.20) et leur résilience scolaire (0.17), et a accru l'engagement comportemental et émotionnel, mais il n'a pas modifié l'état d'esprit de croissance, ni l'engagement cognitif ou métacognitif, ni l'organisation évaluée par [[rubrics|grille]] — parmi les dimensions de l'écriture, seul l'usage de la langue s'est amélioré. Deux traits de la conception importent pour les enseignants de langue : la sollicitation était enseignée explicitement, par une banque d'invites catégorisées rattachées à des objectifs d'écriture spécifiques, et la rétroaction de l'IA générative était utilisée conjointement à une comparaison avec la rétroaction de l'enseignant et à des révisions répétées. Les gains d'auctorialité que les apprenants ont rapportés reposaient sur cette structure pédagogique plutôt que sur l'outil seul, et les auteurs désignent la réduction de l'[[metacognition|autosurveillance]] et les stratégies orientées vers le raccourci comme les risques permanents.
 
 **L'enseignement de la grammaire assisté par l'IA générative agit par la révision, et non par le commentaire.** Dans une quasi-expérience de dix semaines menée auprès de 88 étudiants éthiopiens d'anglais langue étrangère, les cycles brouillon–invite–réflexion–révision ont élevé la grammaire (η² = 0.499) et la qualité globale de l'écriture, et les scores de contenu ont augmenté bien que l'invite interdise toute rétroaction sur le contenu ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa et Abo, 2026]]).
 
@@ -99,6 +103,8 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 **Les étudiants en traduction peuvent être détournés de la correction de surface.** Dans un cours de traduction de presse, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] ont constaté que la consultation de moteurs de recherche passait d'une médiane de 15,6% à 27,7% du temps de session (p = 0.020, corrigé de Holm) et la recherche fondée sur les connaissances de 7,2% à 28,8% (p = 0.010). L'usage de la traduction automatique baissait de 28,5% à 5,1% sans atteindre la signification (p = 0.338), et l'usage interactif de l'IA restait à une médiane de zéro. Le levier consistait à montrer aux étudiants leur propre processus plutôt qu'à interdire un outil.
 
 La synthèse de Zhang, Aubrey, Wu et Chiu portant sur 48 études contrôlées (N = 5196) constate que le bénéfice de GenAI dépend de sa configuration plutôt que de sa présence. L'usage pour la rétroaction et l'évaluation produisait l'effet le plus important (g = 1.15) contre g = 0.28 pour l'intégration pédagogique, et les modes dirigés par l'apprenant (g = 0.92) surpassaient les modes autonomes (g = 0.34). La lecture ne montrait aucun effet significatif, et le g de 1.48 affiché pour l'expression orale tombait à g = 0.65 une fois trois valeurs extrêmes retirées ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
+Ce qui rend un chatbot pédagogiquement valuable se juge de manière holistique. Une évaluation psychométrique menée auprès de 533 enseignants thaïs en formation initiale, en poste et universitaires a élaboré un réservoir de 47 caractéristiques de conception pour des chatbots de lecture-écriture en langue seconde ludifiés et construits à cette fin, puis l'a resserré à 39 items provisoires ([[wiboolyasarin-ai-chatbots-l2-literacy-2026|Wiboolyasarin et coll., 2026]]). Une structure interprétable à trois composantes — soutien adaptatif et intégré à la classe, motivation ludifiée et suivi des progrès, et contenu pédagogiquement riche et culturellement pertinent — coexistait avec des corrélations factorielles très élevées (0,883–0,926) et échouait aux tests de validité discriminante. Un modèle bifactoriel s'ajustait le mieux : les éducateurs notent une large perception générale de la qualité de conception pédagogique avec des composantes plus petites propres à chaque domaine, si bien que les trois domaines organisent les priorités de conception mais ne constituent pas des sous-échelles validées. L'instrument est provisoire et demande une validation indépendante avant tout usage évaluatif.
 
 - **Les données probantes sur les gains d'expression orale avec les chatbots sont inégales selon les fonctionnalités.** Dans la seule synthèse systématique de la question, dix études menées de 2021 à 2024 ont amélioré l'étendue et l'intelligibilité de la manière la plus fiable, tandis que la cohérence n'a été examinée qu'une fois et l'interaction presque jamais ; quatre des dix rapportaient un score holistique unique ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez et Belda-Medina (2026)]]).
 

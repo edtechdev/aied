@@ -1,16 +1,20 @@
 ---
 title: "Quelles compétences les enseignants doivent-ils posséder à l'égard de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -23,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*

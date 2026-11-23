@@ -1,13 +1,13 @@
 ---
 title: "¿Cómo puede ahorrarme tiempo la IA como docente?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-11-05T16:18:46-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T11:03:45-05:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
     role: translation
     date: "2026-09-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -28,7 +32,7 @@ Es jueves por la noche de la semana ocho. Tres esquemas de lección vencen el lu
 
 Los dos están describiendo la misma herramienta. Ahorra tiempo en redactar material que de todos modos iba a editar, y cuesta tiempo cuando usted la apunta a un juicio sobre un estudiante concreto. Que el ahorro llegue a ser suyo depende de una decisión que la mayoría del profesorado nunca toma: para qué son las horas recuperadas.
 
-El mensaje para la reunión: entregue el primer borrador y quédese con el juicio. Los esquemas de lección, los ejemplos resueltos, las preguntas de discusión, los ítems de cuestionario [[formative-assessment|formativo]], las explicaciones alternativas, la redacción de rúbricas y el texto administrativo de rutina son trabajo que usted puede especificar, comprobar y corregir. Los objetivos, las notas finales y cualquier decisión sobre un estudiante concreto se quedan con usted. Nombre qué compra la hora liberada, porque la evidencia sobre ahorrar tiempo es evidencia sobre adónde va el tiempo.
+El mensaje para la reunión: entregue el primer borrador y quédese con el juicio. Los esquemas de lección, los ejemplos resueltos, las preguntas de discusión, los ítems de cuestionario [[formative-assessment|formativo]], las explicaciones alternativas, la redacción de [[rubrics|rúbricas]] y el texto administrativo de rutina son trabajo que usted puede especificar, comprobar y corregir. Los objetivos, las notas finales y cualquier decisión sobre un estudiante concreto se quedan con usted. Nombre qué compra la hora liberada, porque la evidencia sobre ahorrar tiempo es evidencia sobre adónde va el tiempo.
 
 ## La versión breve
 
@@ -50,6 +54,8 @@ Un segundo conjunto de datos del mismo trabajo, más de 104.000 mensajes de más
 
 Eso es reasignación y no reducción: lo que usted gana con la [[generative-ai|IA generativa]] es la diferencia entre una página en blanco y un borrador lo bastante concreto como para discutirlo.
 
+Dos ensayos sobre decisiones docentes sitúan el mismo hallazgo en un reloj. En 68 centros de secundaria ingleses, el tiempo de preparación de clases para ciencias de los cursos 7 y 8 bajó de 81,5 a 56,2 minutos semanales, un ahorro de 25,3 minutos, sin pérdida de calidad detectada ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). La dosis fue pequeña y se redujo: la herramienta cubrió el 39% de las lecciones nominadas en las primeras cinco semanas y el 29% en las siguientes. Un ensayo de Aila en escuelas de primaria encontró un tiempo de planificación de 2,51 horas semanales frente a 3,32, un quinto menos, con una herramienta que alcanzó el 7% de las lecciones y decayó a lo largo del trimestre ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
+
 ## Empareje la tarea con lo que la herramienta hace bien
 
 La calidad es desigual siguiendo un patrón lo bastante estable como para planificar con él. Los revisores ciegos prefirieron las versiones de IA de conclusiones de lección y tickets de salida el 59,7% de las veces frente a materiales diseñados por profesionales, y prefirieron material de IA para contenido de secundaria el 59,2% de las veces. El ahorro también crece donde su confianza es más baja: enseñar fuera de su propia materia es el caso con la brecha más amplia entre lo que la herramienta le entrega y lo que usted habría escrito solo.
@@ -57,6 +63,8 @@ La calidad es desigual siguiendo un patrón lo bastante estable como para planif
 Dos categorías van en la dirección contraria. En material de nivel de primaria, se prefirió a los humanos alrededor del 65% de las veces por adecuación evolutiva. Los [[scaffolding|andamiajes]] dirigidos a [[learners|estudiantes]] [[multilingual-learning|multilingües]] y a estudiantes de [[special-education|educación especial]] volvieron neutros más que erróneos, lo cual es peor de lo que suena, ya que un andamiaje neutro es uno que hay que rehacer desde el principio.
 
 La prueba que predice esto antes de que gaste una tarde en ello: ¿puede enunciar la especificación con la precisión suficiente para comprobar la salida? Un ticket de salida sobre un objetivo, sí. Si un párrafo le sirve a una niña concreta de nueve años que lee dos cursos por debajo de su clase, no.
+
+La formación es el caso que separa con claridad los dos efectos. En un ensayo de tres brazos, el acceso a ChatGPT redujo el tiempo de preparación un 34%, y la formación previa lo redujo un 21% adicional, mientras que la formación extra no produjo ninguna ganancia adicional en las calificaciones de calidad a ciegas ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Más rápido y mejor se separaron: la estrategia entrenada era más rápida sin ser mejor.
 
 ## Dé un destino a la hora recuperada
 

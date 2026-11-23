@@ -1,7 +1,7 @@
 ---
 title: "EduPrompts"
 created: "2026-09-27T02:34:40-04:00"
-updated: "2026-11-11T00:15:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: resource
 summary: "La biblioteca gratuita y en crecimiento de Eric Curts con más de 160 prompts de IA ya preparados para centros educativos, organizada por tarea docente y en transición de Gemini Gems a Gemini Skills."
 url: https://www.eduprompts.ai/
@@ -22,6 +22,10 @@ translation_note: "Esta es una traducción automática de la página en inglés 
 source_updated: "2026-11-11T00:15:00-05:00"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-11"
@@ -37,7 +41,7 @@ connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-de
 
 La biblioteca se organiza por tarea, no por modelo. **Planificación de lecciones y diseño curricular** abarca planes 5E, planes de unidad, desglose de estándares, generadores PBL, rutinas de pensamiento, tableros de elección, rotaciones por estaciones y reelaboración de lecciones UDL. **Materiales didácticos y contenido** abarca hojas de trabajo, apuntes guiados, textos decodificables e informativos, listas de vocabulario, presentaciones, novelas gráficas, letras de canciones y mapas educativos. **Participación y juegos** reúne los formatos Jeopardy, 20 Questions, Would You Rather, el intruso y dos verdades y una mentira, además de debates y simulaciones.
 
-Cinco categorías atienden a alumnado y tareas concretos. **Apoyo al alumnado y diferenciación** incluye estrategias de diferenciación, andamiaje y tareas de base baja y techo alto. **Evaluación, datos y calificación** reúne constructores de rúbricas, evaluación alternativa, un analizador de datos y generadores de preguntas para niveles DOK. **Alfabetización, lectura, escritura y lengua** cubre comprensión lectora, acompañamiento de tesis y escritura, arranques de frase, reescritura y diálogo lingüístico. **Matemáticas, ciencia y STEM** contiene generadores por materia. **Tareas profesionales y administración** cubre correos a familias, cartas de recomendación, planes de desarrollo profesional, un coach de aprendizaje profesional y círculos de justicia restaurativa. Un estante de **uso e integración de la IA** reúne las metaherramientas: declaraciones de expectativas, un coach de integración, un arquitecto y un doctor de prompts, una reflexión sobre el uso de la IA, una actividad [[samr-model|SAMR]] y el EduPrompt Generator, que crea prompts nuevos. Las **herramientas para el alumnado** forman categoría propia, algo que importa a quien decide qué dar a una clase.
+Cinco categorías atienden a alumnado y tareas concretos. **Apoyo al alumnado y diferenciación** incluye estrategias de diferenciación, andamiaje y tareas de base baja y techo alto. **Evaluación, datos y calificación** reúne [[rubrics|constructores de rúbricas]], evaluación alternativa, un analizador de datos y generadores de preguntas para niveles DOK. **Alfabetización, lectura, escritura y lengua** cubre comprensión lectora, acompañamiento de tesis y escritura, arranques de frase, reescritura y diálogo lingüístico. **Matemáticas, ciencia y STEM** contiene generadores por materia. **Tareas profesionales y administración** cubre correos a familias, cartas de recomendación, planes de desarrollo profesional, un coach de aprendizaje profesional y círculos de justicia restaurativa. Un estante de **uso e integración de la IA** reúne las metaherramientas: declaraciones de expectativas, un coach de integración, un arquitecto y un doctor de prompts, una reflexión sobre el uso de la IA, una actividad [[samr-model|SAMR]] y el EduPrompt Generator, que crea prompts nuevos. Las **herramientas para el alumnado** forman categoría propia, algo que importa a quien decide qué dar a una clase.
 
 Los prompts más recientes aparecen en la página de inicio, y el profesorado puede enviar los suyos por el formulario de Google enlazado para que se consideren. El sitio ofrece además suscripción a un boletín, un personalizador para adaptar un prompt existente y una dirección de contacto directo con el curador.
 

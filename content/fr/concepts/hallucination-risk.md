@@ -1,7 +1,7 @@
 ---
 title: "Risque d'hallucination"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,8 +27,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -58,6 +62,8 @@ L'**hallucination dans l'évaluation** est particulièrement dommageable. **[[ll
 
 Dans un pilote de conception d'évaluation, [[authentic-assessments-generative-ai-pilot-2026|Paula et coll. (2026)]] ont trouvé des références fabriquées et des estimations de temps irréalistes qui ont survécu à des invites répétées et ont requis une révision académique substantielle — une hallucination dans un outil de rédaction destiné aux éducateurs plutôt que dans les travaux des étudiants.
 
+**La génération et la reconfiguration échouent différemment.** Interrogé sur une liste de références au format IEEE portant sur les cellules solaires pérovskites, ChatGPT a renvoyé des notices que les auteurs ont jugées pour la plupart hallucinées ou mal citées : initiales, année, volume et pages erronés, et un article à l'apparence vraisemblable attribué à un groupe qui n'en était pas l'auteur ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra et Gong, 2026]]). Invité à convertir en APA un ensemble de références déjà vérifié, le même outil s'est montré exact et a fait gagner un temps considérable. Le risque se situe dans la recherche de sources plutôt que dans le travail bibliographique, ce qu'une [[rubrics|grille d'évaluation]] de devoir peut énoncer.
+
 Les **[[misconceptions|idées fausses]] stratégiques** sont un parent plus subtil de l'hallucination ouverte. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et coll. (2026)]] ont invité sept modèles ouverts à produire un « piège [[socratic-method|socratique]] » pour 35 concepts fondamentaux d'informatique — une explication fluide et autoritaire reposant sur une erreur subtile, propre au domaine — et trois experts du domaine ont confirmé 221 des 241 segments produits sur invite (91.7%) comme des idées fausses stratégiques, sans différences significatives entre les domaines de l'informatique. Les erreurs étaient conceptuelles plutôt que factuelles de manière prédominante (66.5% contre 33.5%), aucune n'était purement logique, et elles ont été jugées modérément à fortement persuasives (M = 3.71 sur une échelle à cinq points), l'identité du modèle expliquant 43% de la variance. Parce que des énoncés individuels peuvent être corrects tandis que la relation entre eux est fausse, la vérification factuelle est insuffisante ; les auteurs soutiennent que les [[ai-literacy|apprenants]] ont besoin d'une vérification conceptuelle et d'une validation des modèles mentaux. Ils mettent aussi en garde : le taux mesure une capacité sous [[prompt-engineering|ingénierie des invites]] adversariale plutôt que la prévalence de telles erreurs dans un usage ordinaire, et aucun étudiant n'a été testé, de sorte qu'aucune tromperie ni aucun résultat d'apprentissage n'a été mesuré.
 
 **Des preuves manipulées plutôt que fabriquées.** Un mode de défaillance apparenté dans la [[automated-assessment|notation automatisée]] est la production déplacée depuis l'extérieur. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] a soumis à un test d'intrusion un flux de travail de notation par IA ordinaire et a montré que des instructions cachées à l'intérieur du fichier soumis augmentaient la note d'une dissertation en échec, sans avertissement visible, dans 9 itérations sur 9 pour une stratégie et 17 sur 18 pour une autre. Deux détails importent pour la [[trust-calibration|confiance]] : une injection détectée a été bloquée en désactivant silencieusement le dialogue, et n'a jamais été signalée à l'utilisateur ; et, lors d'une exécution où l'outil avait annoncé qu'il ne suivrait que les consignes officielles du travail, six nouvelles exécutions du même fichier ont malgré tout augmenté la note. Une note obtenue de cette manière n'emporte aucune revendication d'[[assessment-validity|validité]], et, parce que la manipulation ne laisse aucune trace durable, l'[[human-in-the-loop-ai|enseignant]] reste le seul véritable contrôle sur des productions conçues pour ne pas être visibles.
@@ -71,6 +77,8 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 **Un étiquetage de la non-fiabilité a abaissé la dépendance déclarée plutôt que de l'augmenter.** Lorsque 546 participantes et participants ont lu le même dialogue d'IAG étiqueté soit comme contenant des informations fabriquées, soit comme vérifié exact, l'étiquette « fabriqué » a produit une [[trust|confiance]] et un contrôle perçu plus faibles, ainsi qu'une dissonance cognitive et une frustration plus élevées, accompagnées de scores de dépendance *plus faibles* (M = 2.935 contre 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Le résultat nuance la logique de dépendance excessive : voir qu'une production peut être fabriquée n'est pas la même chose que continuer de s'y appuyer.
 
 **Les indices de crédibilité peuvent au contraire amplifier la déférence.** Le mouvement inverse apparaît lorsqu'une production peu fiable est habillée : ajouter des citations et des signaux de crédibilité à l'interface de débat ARMADA a fait grimper de 112% la proportion de participants abandonnant un jugement initial correct pour une position incorrecte de l'IA (31.8% contre 15.0%), et une vérification manuelle a trouvé que certains cas cités étaient attribués à des références hors sujet ou fictives ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+Un mode de défaillance distinct est le problème mal posé. Dans [[bauyrzhan-genai-inorganic-chemistry-verification-2026|un benchmark exploratoire de trois chatbots sur 42 problèmes de chimie inorganique]], chaque chatbot a répondu avec assurance à des énoncés défectueux, sans signaler le défaut, demander des précisions ni refuser, et les marqueurs d'incertitude n'atteignaient jamais la conclusion. La défaillance n'est pas une mauvaise réponse mais une prémisse fausse acceptée en silence.
 
 ## Idées fausses courantes
 

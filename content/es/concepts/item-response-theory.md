@@ -1,16 +1,20 @@
 ---
 title: Teoría de respuesta al ítem
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-15T10:12:47-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -59,7 +63,7 @@ La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, disc
 - **Estimación de dificultad con LLM frente a parámetros de TRT de Rasch:** [[razavi-powers-item-difficulty-llm-2026|Razavi y Powers (2026)]] evalúan si GPT-4o puede estimar la dificultad de ítems de evaluación de matemáticas y lectura de K-5 (N = 5170) calibrados bajo el modelo de TRT de Rasch. Un enfoque de estimación directa en cero disparos correlacionó de moderada a fuertemente con las dificultades reales de Rasch (r = 0,83 en matemáticas, r = 0,81 en lectura), pero fue desigual entre cursos y a menudo no mejor que un regresor ficticio de media de curso para los cursos K y 1, probablemente por la restricción de rango en las dificultades de los ítems de los cursos inferiores. Una estrategia basada en características — características cognitivas y lingüísticas extraídas por LLM introducidas en modelos de árboles — superó la estimación directa (correlaciones de hasta r = 0,87), con el nivel de curso y el número de palabras como mejores predictores. El estudio subraya que las estimaciones de dificultad de los LLM deben validarse contra parámetros de TRT ajustados empíricamente, y que la extracción estructurada de características puede afinar la predicción allí donde el juicio holístico en cero disparos se queda corto.
 
 - **Simular a los respondientes puede recuperar lo que la regresión sobre el estímulo no puede:** un LLM [[multimodal]] ajustado finamente que reproduce las probabilidades de elección de opción del estudiantado a través de los niveles de habilidad aproximó la dificultad retenida en r = 0,85, por encima de las líneas base de regresión de MathBERT (0,68) y MetaMath (0,75), y recuperó el parámetro de adivinación c en 0,48 mientras que la discriminación a se mantuvo débil (0,31) ([[multimodal-item-parameter-estimation-2026|Ormerod y Kim, 2026]]).
-- **Defectos de redacción de ítems como cribado previo al despliegue de los parámetros de TRT:** [[item-writing-flaws-irt-difficulty-2026|Schmucker y Moore (2026)]] comprueban si las rúbricas de defectos de redacción de ítems (IWF) — una evaluación textual, general al dominio y que no requiere datos del estudiantado — predicen la dificultad y la discriminación de la TRT estimadas empíricamente. En **7.126 preguntas de opción múltiple** de [[stem-education|STEM]] (ciencias físicas, [[math-education|matemáticas]], ciencias de la vida y de la Tierra), usaron codificación automatizada asistida por LLM para mostrar que las rúbricas IWF tienen validez predictiva respecto a los parámetros empíricos de la TRT, lo que ofrece un cribado escalable previo al despliegue que complementa o sustituye parcialmente las pruebas piloto intensivas en recursos.
+- **Defectos de redacción de ítems como cribado previo al despliegue de los parámetros de TRT:** [[item-writing-flaws-irt-difficulty-2026|Schmucker y Moore (2026)]] comprueban si las [[rubrics|rúbricas]] de defectos de redacción de ítems (IWF) — una evaluación textual, general al dominio y que no requiere datos del estudiantado — predicen la dificultad y la discriminación de la TRT estimadas empíricamente. En **7.126 preguntas de opción múltiple** de [[stem-education|STEM]] (ciencias físicas, [[math-education|matemáticas]], ciencias de la vida y de la Tierra), usaron codificación automatizada asistida por LLM para mostrar que las rúbricas IWF tienen validez predictiva respecto a los parámetros empíricos de la TRT, lo que ofrece un cribado escalable previo al despliegue que complementa o sustituye parcialmente las pruebas piloto intensivas en recursos.
 - **Filtrado de riesgo basado en TRT para la calificación selectiva con IA:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros y Kortemeyer]] ajustan un modelo de TRT logístico de dos parámetros a datos de química manuscrita calificados por IA y definen el «riesgo» de aceptar un juicio de la IA como la desviación absoluta entre la puntuación normalizada de la IA y la probabilidad de crédito esperada por la TRT (Riesgo = |s−p|); aceptar solo los ítems dentro de una tolerancia elegida respecto a esta expectativa bayesiana marca las puntuaciones de IA «sorprendentes» para [[human-in-the-loop-ai|revisión humana]], lo que convierte la TRT de una herramienta pura de agregación de puntuaciones en un mecanismo operativo de aceptación o aplazamiento para la [[automated-assessment|evaluación automatizada]], uno que logró una alineación con la calificación humana similar a la de umbrales de crédito parcial más simples, pero con menor carga humana, aunque su lógica es menos transparente para audiencias no técnicas.
 
 - **La TRT como capa de calibración dentro de un modelo diagnóstico:** PLCD añade una cabeza de adivinación y deslizamiento inspirada en la TRT sobre las respuestas a nivel de ejercicio, mejorando la calidad de la probabilidad más que la precisión —el error de calibración esperado cayó de 0,071 a 0,037 en XES3G5M—, lo que convierte la TRT en una corrección interna del ruido de respuesta y no solo en un modelo de puntuación ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).

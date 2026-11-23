@@ -1,14 +1,14 @@
 ---
 title: "Apprentissage incarné"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T13:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
-connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -55,6 +59,7 @@ Un second fil, plus théorique, de la recherche sur l'incarnation porte sur le r
 
 - **L'IA incarnée comme principe de conception.** Le cadre **E3-HOT** soutient que, pour soutenir l'agence cognitive des apprenants et leur [[critical-thinking|pensée d'ordre supérieur]] (plutôt que d'encourager la [[cognitive-offloading|délégation cognitive]]), l'IA devrait être conçue autour d'une *intelligence incarnée* — ancrage situationnel, participation incarnée et création cognitive — au sein d'un environnement d'apprentissage intégrant le virtuel et le réel.([[zhu-e3-hot-embodied-intelligence-sustainable-learning]])
 - **Les limites de l'[[generative-ai|IA générative]] désincarnée.** Des travaux post-cognitivistes soutiennent que les systèmes actuels d'IA générative manquent de proprioception, d'agence multimodale et de pratique incarnée, et plaident pour une « IA incarnée » ancrée dans la situationnalité, l'émergence et le couplage sensorimoteur, en proposant une chorégraphie perceptivo-[[affective-computing|affective]] pour l'interaction humain–[[student-ai-interaction|IA]].([[videla-embodied-ai-education-choreography]])
+- **L'enactivisme replace la cognition dans le couplage structurel.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross et Aros (2026)]] développent un enactivisme radical et extensif, dans lequel la cognition est constitutivement ancrée dans le monde plutôt que représentationnelle, si bien que les technologies éducatives deviennent des participants écologiques qui élargissent la perception et l'action conjointe au lieu d'être des outils cognitifs livrant du contenu.
 - **L'incarnation, la situationnalité et la construction sociale.** Dans l'[[science-education|apprentissage des sciences]], les outils d'IA fonctionnent comme des « artefacts de médiation » qui permettent des communautés de pratique numériques et le franchissement de frontières, reliant l'enquête incarnée et authentique à des contextes réels et interdisciplinaires.([[li-ai-science-situated-learning-teachers-2025]]) Cela rattache l'incarnation à l'[[situated-learning|apprentissage situé]] et à la [[distributed-cognition|cognition distribuée]].
 
 L'apprentissage incarné rejoint la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], l'[[active-learning|apprentissage actif]], l'[[experiential-learning|apprentissage expérientiel]], l'[[situated-learning|apprentissage situé]], la [[distributed-cognition|cognition distribuée]], la [[computational-thinking|pensée informatique]] et l'[[social-emotional-learning|apprentissage socioémotionnel]].

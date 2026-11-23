@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*

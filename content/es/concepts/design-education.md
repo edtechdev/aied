@@ -1,7 +1,7 @@
 ---
 title: "Educación en diseño"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-11-16T22:52:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [design-thinking, creativity, generative-ai, ai-literacy, higher-ed, arts-and-media-education, engineering-education, professional-training, assessment-validity, assessment, cognitive-offloading, critical-thinking, scaffolding, desirable-difficulties, human-in-the-loop-ai, curriculum-design, teacher-role, equity-in-ai-education, discipline-specific-aied, regulation]
 connected_articles: [ai-agents-constructive-conflict-design-education-2026, ai-mediated-cognitive-divergence-2026, ai-interior-design-malaysia-2026, genai-architecture-education, genai-architectural-design-studios, genai-usage-design-students-survey, project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, same-ai-different-pathways, yasar-llms-iterative-pedagogical-design-2026, rana-genai-design-thinking-2025, critsly-design-education-ai-critique-2026, caeai-genai-architectural-design-creative-self-efficacy-2026, human-ai-collaboration-design-education-rubric-2026, wang-ai-disruption-design-innovation-competence-2026, chu-design-students-ai-agent-tam-ttf-2026, han-prompt-literacy-ai-dependence-design-2026, mokryn-ai-anchor-synthetic-stakeholders-2026]
@@ -52,6 +56,7 @@ También es distinta del [[design-thinking|pensamiento de diseño]], un método 
 - **Una herramienta local [[discipline-specific-aied|específica de la disciplina]] amplió el espacio de búsqueda e igualó la participación.** [[genai-architecture-education|Kapsalis (2026)]] llevó a dos grupos focales de ocho estudiantes de arquitectura de Derby por una sesión de 90 minutos con un flujo de trabajo de ComfyUI ejecutado localmente: las puntuaciones creativas fueron más altas en generación de ideas (4,5) y experimentación (4,2) y más bajas en el refinamiento de decisiones (3,7), mientras que los ítems de inclusividad oscilaron entre 3,8 y 4,1 y se correlacionaron con seguir el ritmo independientemente del uso previo de IA (ρ = 0,81). La confianza adquirida en la sesión no se transfirió: la confianza en usar estas habilidades profesionalmente fue de 2,6, una brecha que el autor califica de problema de nivel curricular.
 
 - **Los novatos sin apoyo no revisan; un agente adversarial cambia eso.** [[ai-agents-constructive-conflict-design-education-2026|Han y Martelaro (2026)]] realizaron un experimento intergrupos con 45 diseñadores de interacción novatos en un sitio de reporte cívico. Su grupo de autorreflexión no revisó ni eliminó una sola idea; el estudiantado que interactuó con el agente hizo aproximadamente 3,6 veces más ediciones, llegó a preocupaciones de las partes interesadas que los otros grupos pasaron por alto ([[accessibility|accesibilidad]], [[privacy|privacidad]], reticencia hacia la automatización) y produjo propuestas más sólidas. El agente fue valorado como una contribución (M = 5,33), pero una persona participante se sintió criticada «en todos los aspectos», y los autores insisten en que las objeciones simuladas no sustituyen la interlocución con públicos reales.
+- **El orden decide si una parte interesada sintética enmarca o confirma.** Los equipos que entrevistaron a una parte interesada simulada por IA antes que a la persona la trataron como un marco provisional; los equipos que empezaron con la persona la usaron solo para validación ([[mokryn-ai-anchor-synthetic-stakeholders-2026|Mokryn et al., 2026]]).
 
 - **Un proceso estructurado mantiene la autoría en el estudiantado a escala.** [[project-based-digital-storytelling-art-design-2026|Tian et al. (2026)]] estudiaron un proyecto final de narrativa de 15 semanas en el que 426 estudiantes de grado y 48 mentores (aproximadamente 1:9) convirtieron el patrimonio local en narrativas [[multimodal|multimodales]]. Las valoraciones de expertos de los 92 trabajos fueron más fuertes en novedad (M = 4,21) y más débiles en integridad (M = 3,68): las ideas llegaron más fácilmente que la integración. Las puntuaciones de pensamiento creativo en un subgrupo de 31 estudiantes subieron de 77,23 a 94,68 (d = 0,82). La IA organizó información y editó; el estudiantado conservó la elección del tema, la interpretación y las decisiones finales, y 31 trabajos fueron adoptados por una oficina regional de Cultura y Turismo.
 
@@ -64,7 +69,7 @@ También es distinta del [[design-thinking|pensamiento de diseño]], un método 
 
 - **Las disciplinas difieren en qué comportamientos rinden.** [[same-ai-different-pathways|Shen (2026)]] comparó a 221 estudiantes de diseño con 222 de empresa y encontró que la [[ai-literacy|alfabetización en IA]] predecía tanto la competencia en la [[prompt-engineering|formulación de prompts]] como el comportamiento de verificación (p < 0,001). La verificación predecía directamente la calidad de la tarea en la cohorte de diseño y la precisión de la calibración en la de empresa —ideación abierta frente a estándares analíticos de tipo auditoría—, y la verificación funcionó como salvaguarda [[metacognition|metacognitiva]] frente a la [[cognitive-offloading|descarga cognitiva]].
 
-- **El juicio de taller puede aproximarse cuando media una rúbrica.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] elevaron la concordancia entre LLM y personas en 80 pósteres de diseño del 54,75% al 81,25% refinando iterativamente los descriptores de la rúbrica; los prompts de docente, de par evaluador y de revisor de subvenciones produjeron retroalimentación epistémicamente distinta sobre un mismo trabajo. Los autores tratan la rúbrica como una interfaz revisable entre la intención pedagógica y la inferencia de la máquina, y mantienen la [[human-in-the-loop-ai|supervisión humana]] frente a las justificaciones alucinadas.
+- **El juicio de taller puede aproximarse cuando media una [[rubrics|rúbrica]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] elevaron la concordancia entre LLM y personas en 80 pósteres de diseño del 54,75% al 81,25% refinando iterativamente los descriptores de la rúbrica; los prompts de docente, de par evaluador y de revisor de subvenciones produjeron retroalimentación epistémicamente distinta sobre un mismo trabajo. Los autores tratan la rúbrica como una interfaz revisable entre la intención pedagógica y la inferencia de la máquina, y mantienen la [[human-in-the-loop-ai|supervisión humana]] frente a las justificaciones alucinadas.
 
 - **El estudiantado negocia con las herramientas en lugar de aceptarlas sin más.** [[t2i-competence-paradox-2026|Liu, Meng y Zhang (2026)]] encuestaron a 417 estudiantes de arte y diseño: la expectativa de rendimiento, la influencia social, el valor de la novedad y la competencia creativa predecían la intención de usar herramientas de texto a imagen, mientras que la expectativa de esfuerzo predecía negativamente, lo que se interpreta como un uso de atajo en los trabajos de curso. Su paradoja de la competencia es que la competencia creativa sostiene la intención pero predice un uso más selectivo a medida que el estudiantado sopesa la autoría y la preservación de habilidades, un problema de [[assessment-validity|validez de la evaluación]] en un taller donde el proceso es el objeto evaluado. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] llegaron a una conclusión compatible a partir de 112 reflexiones en un curso de [[design-thinking|pensamiento de diseño]] de 12 semanas: los beneficios dominaron (86% de sentimiento positivo), las preocupaciones éticas impulsaron el 62% del sentimiento negativo, y la integración con andamiaje llevó al estudiantado del escepticismo a una orientación positiva del 72%.
 

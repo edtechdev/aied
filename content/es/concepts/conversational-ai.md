@@ -1,16 +1,20 @@
 ---
 title: IA conversacional
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -68,7 +72,7 @@ La consistencia de las respuestas es un problema de infraestructura y no de prom
 
 Quién usa el agente también varía: entre 97 estudiantes de posgrado de estadística, más de una cuarta parte nunca usó el chatbot StatBot, y las estudiantes mujeres lo usaron con una frecuencia significativamente mayor (W = 679,5, p = 0,015), lo que los autores leen como una IA conversacional que rebaja el riesgo social percibido de hacer preguntas ([[lee-wu-gender-motivation-genai-achievement-2026|Lee y Wu (2026)]]).
 
-La adopción no es homogénea: agrupar 192 respuestas de estudiantado y profesorado produce cuatro personas — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters y Engaged Enthusiasts — que los modelos de aceptación basados en efectos promedio ocultan, con el estudiantado priorizando la [[feedback|retroalimentación]] inmediata y el profesorado la exactitud del contenido y la [[academic-integrity|integridad académica]] ([[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi y Ahmed (2026)]]). **Se ha observado durabilidad en un despliegue institucional.** Una evaluación aleatorizada de cuatro años de un chatbot no generativo basado en una base de conocimiento en la California State University, Northridge (N = 8.708) encontró que el estudiantado siguió siendo receptivo a lo largo de ocho semestres —las tasas anuales de baja nunca superaron el 4%— mientras que los impactos se concentraron en tareas administrativas sensibles al tiempo, como la matrícula temprana en asignaturas (34 puntos porcentuales más de probabilidad de inscribirse antes del plazo), y no aparecieron efectos estadísticamente significativos en la nota media, los créditos ni la permanencia ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell y Page 2026]], un documento de trabajo). Su lección de medición afecta a cómo se cuenta la implicación con la CAI: con una tasa de baja cercana a cero junto a una implicación activa de en torno al 5% en campañas interactivas, las conclusiones sobre la implicación sostenida dependen de si un estudio cuenta solo las respuestas directas o también la implicación pasiva, en la que el estudiantado actúa según la información sin responder por mensaje.
+La adopción no es homogénea: agrupar 192 respuestas de estudiantado y profesorado produce cuatro personas — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters y Engaged Enthusiasts — que los modelos de aceptación basados en efectos promedio ocultan, con el estudiantado priorizando la [[feedback|retroalimentación]] inmediata y el profesorado la exactitud del contenido y la [[academic-integrity|integridad académica]] ([[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi y Ahmed (2026)]]). **Se ha observado durabilidad en un despliegue institucional.** Una evaluación aleatorizada de cuatro años de un chatbot no generativo basado en una base de conocimiento en la California State University, Northridge (N = 8.708) encontró que el estudiantado siguió siendo receptivo a lo largo de ocho semestres —las tasas anuales de baja nunca superaron el 4%— mientras que los impactos se concentraron en tareas administrativas sensibles al tiempo, como la matrícula temprana en asignaturas (34 puntos porcentuales más de probabilidad de inscribirse antes del plazo), y no aparecieron efectos estadísticamente significativos en la nota media, los créditos ni la permanencia ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell y Page 2026]], un documento de trabajo). Su lección de medición afecta a cómo se cuenta la implicación con la CAI: con una tasa de baja cercana a cero junto a una implicación activa de en torno al 5% en campañas interactivas, las conclusiones sobre la implicación sostenida dependen de si un estudio cuenta solo las respuestas directas o también la implicación pasiva, en la que el estudiantado actúa según la información sin responder por mensaje. Una comparación directa en una tarea de búsqueda de información pone el efecto de la interfaz en perspectiva: un chatbot anclado únicamente en los documentos de un programa respondió las preguntas sobre el programa universitario más rápido y con mayor exactitud que el propio sitio web del programa, pero perdió la única pregunta cuya respuesta era un nombre de persona a quien contactar ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
 
 **Riesgos y ética.** Los agentes de CAI conllevan riesgos persistentes de [[cognitive-offloading|dependencia excesiva]] y [[cognitive-offloading|descarga cognitiva]] (la principal preocupación ética de la revisión paraguas), además de limitaciones técnicas, [[hallucination-risk|alucinación]], sesgo, [[ai-detection|plagio]] y barreras de [[equity-in-ai-education|equidad]]. Estas preocupaciones animan la [[ai-literacy|alfabetización en IA]] y la [[reducing-ai-misuse|reducción del mal uso de la IA]] y exigen respuestas de [[educational-policy-ai|política]] y de [[governance|gobernanza]] ética. Surge además una preocupación de confianza en torno al consejo de adopción que el personal recibe cada vez más: se insta al personal a consultar a la IA conversacional sobre si adoptar IA, pero esos sistemas los construyen organizaciones con un interés comercial en la adopción. Una auditoría de diez LLM de frontera encontró que la mayoría reconoce las preocupaciones de las personas usuarias escépticas antes de reorientarlas hacia encuadres de implicación, lo que plantea dudas sobre la neutralidad del consejo sobre adopción de IA.
 

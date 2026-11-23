@@ -1,7 +1,7 @@
 ---
 title: Desarrollo teórico en la IA en la educación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-15T10:24:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,7 +18,11 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
-connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
@@ -95,7 +99,7 @@ La teorización del campo es desigual. [[limitations-in-aied-research|Las limita
 
 ## Relación con la filosofía de la IA en la educación
 
-El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA en la educación]] son líneas complementarias pero distintas del trabajo fundacional. El **desarrollo teórico** produce y pone a prueba empíricamente los *mecanismos* del aprendizaje con IA —teorías y marcos con nombre propio como el generativismo, la co-agencia epistémica y la línea base cognitiva ausente, que explican y predicen cómo interactúan quienes aprenden y la IA—. La **filosofía** interroga los *presupuestos* en los que se apoyan esos mecanismos: qué cuenta como conocimiento, quién cuenta como conocedor y qué es fundamentalmente quien aprende. Una teoría como la [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agencia epistémica]] propone un mecanismo mientras adopta implícitamente compromisos filosóficos sobre la cognición distribuida y la [[agency|agencia]]; la filosofía hace explícitos y contestables esos compromisos. Donde el desarrollo teórico pregunta si un marco explica bien el aprendizaje, la filosofía pregunta si capta lo que el aprendizaje y la mente realmente son: las dos líneas se encuentran en los artículos más fundacionales del campo, que a menudo hacen ambas cosas a la vez.
+El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA en la educación]] son líneas complementarias pero distintas del trabajo fundacional. El **desarrollo teórico** produce y pone a prueba empíricamente los *mecanismos* del aprendizaje con IA —teorías y marcos con nombre propio como el generativismo, la co-agencia epistémica y la línea base cognitiva ausente, que explican y predicen cómo interactúan quienes aprenden y la IA—. La **filosofía** interroga los *presupuestos* en los que se apoyan esos mecanismos: qué cuenta como conocimiento, quién cuenta como conocedor y qué es fundamentalmente quien aprende. Una teoría como la [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agencia epistémica]] propone un mecanismo mientras adopta implícitamente compromisos filosóficos sobre la cognición distribuida y la [[agency|agencia]]; la filosofía hace explícitos y contestables esos compromisos. Donde el desarrollo teórico pregunta si un marco explica bien el aprendizaje, la filosofía pregunta si capta lo que el aprendizaje y la mente realmente son: las dos líneas se encuentran en los artículos más fundacionales del campo, que a menudo hacen ambas cosas a la vez. Lo que dice la crítica del campo sobre las direcciones que esas teorías abren o cierran es una pregunta distinta, recogida en [[critiques-of-ai-in-education|Críticas a la IA en la educación]].
 
 ## Implicaciones para la práctica
 

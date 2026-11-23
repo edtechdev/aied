@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle m'aider à donner de meilleures rétroactions à grande échelle ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
@@ -31,11 +31,16 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-C'est la sixième semaine. Vous avez une pile de brouillons, une grille à laquelle vous croyez, et la suspicion grandissante qu'un tiers de vos commentaires est survolé puis oublié. Un collègue mentionne qu'un outil commente désormais chaque brouillon dans l'heure. La réunion de département attend une réponse : est-ce une amélioration, ou une façon plus rapide de produire du texte que personne ne lit ?
+C'est la sixième semaine. Vous avez une pile de brouillons, une [[rubrics|grille]] à laquelle vous croyez, et la suspicion grandissante qu'un tiers de vos commentaires est survolé puis oublié. Un collègue mentionne qu'un outil commente désormais chaque brouillon dans l'heure. La réunion de département attend une réponse : est-ce une amélioration, ou une façon plus rapide de produire du texte que personne ne lit ?
 
 Voici la réponse courte : la rétroaction par IA gagne sa place sur la couverture, la rapidité et la cohérence, dans une bande étroite. Le travail linguistique de niveau relecture et les commentaires de premier passage guidés par une grille valent d'être automatisés. La portée est la partie bon marché. Dans une expérience randomisée par grappes portant sur 1.176 étudiants de première année, les conceptions réflexives et hybrides ont battu la critique directe par IA sur le [[transfer-of-learning|transfert]] différé et sans IA. Dans une expérience randomisée sur dissertation portant sur 70 étudiants, une rétroaction par IA mieux notée n'a produit pas de meilleures révisions que celle d'un [[teacher-role|enseignant]] expérimenté. Ce que l'étudiant fait d'un commentaire décide du résultat, et la [[feedback-literacy|littératie en rétroaction]] sépare les étudiants qui gagnent de ceux qui copient.
 

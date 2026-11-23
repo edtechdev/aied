@@ -1,7 +1,7 @@
 ---
 title: "Théories et cadres"
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
@@ -70,6 +74,8 @@ Celles-ci expliquent des mécanismes : elles nomment les pièces qui font le tra
 ## Cadres d'enseignement, d'intégration et d'adoption
 
 - **Le [[tpack|TPACK]]** — le savoir de l'enseignant qui mêle technologie, pédagogie et contenu ; le cadre par défaut des études d'IA tournées vers les enseignants.
+- **La [[bloom-taxonomy|taxonomie de Bloom]]** — le vocabulaire partagé pour la demande cognitive des tâches, utilisé tant pour coder les items que pour les séquencer ; en IA en éducation, elle est devenue un problème de mesure autant que de conception.
+- **Le modèle de confirmation des attentes (ECM)** — la satisfaction comme confirmation des attentes antérieures, pour un résultat de continuité plutôt que d'adoption initiale. Dans un pilote d'un semestre sur les méthodes de sociologie avec 24 étudiants de premier cycle, 87 % ont jugé Copilot bon ou excellent et 91 % le recommanderaient, mais seuls 57 % avaient l'intention de continuer à l'utiliser ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). L'écart est précisément le point du modèle : un utilisateur satisfait peut refuser de revenir, si bien que satisfaction et continuité exigent des mesures distinctes.
 - **Les [[technology-acceptance-model|modèles d'adoption]]** — l'intention comme fonction de l'utilité perçue et de la facilité d'usage perçue. Assez utilisés pour que le recours du champ à l'intention plutôt qu'au comportement constitue une critique récurrente.
 - **Le [[icap-framework|cadre ICAP]]** — classe l'engagement en passif, actif, constructif et interactif ; utile pour demander quel mode une [[student-ai-interaction|interaction avec l'IA]] rend réellement possible.
 - **Le [[samr-model|SAMR]]** — de la substitution à la redéfinition. Populaire comme récit de maturité, faible comme instrument de mesure.
@@ -108,7 +114,7 @@ Les mots sont employés librement dans la littérature, et la différence mérit
 
 ## Couches connexes
 
-Deux pages voisines portent délibérément sur autre chose. La [[philosophy-of-ai-in-education|philosophie de l'IA en éducation]] pose des questions normatives et conceptuelles — à quoi l'éducation sert-elle, une machine peut-elle enseigner — et ne prédit pas de tailles d'effet ; une étude peut être philosophiquement naïve et théoriquement solide, ou l'inverse. Le [[theory-development-aied|développement théorique]] est la méta-activité de construction, d'emprunt et de révision de la théorie, incluant la critique récurrente selon laquelle une grande partie des travaux en [[ai-education|AIED]] applique la théorie existante plutôt qu'ils ne la testent. Rassembler des cadres est un travail de catalogage ; le développement théorique porte sur leur production et leur révision.
+Deux pages voisines portent délibérément sur autre chose. La [[philosophy-of-ai-in-education|philosophie de l'IA en éducation]] pose des questions normatives et conceptuelles — à quoi l'éducation sert-elle, une machine peut-elle enseigner — et ne prédit pas de tailles d'effet ; une étude peut être philosophiquement naïve et théoriquement solide, ou l'inverse. Le [[theory-development-aied|développement théorique]] est la méta-activité de construction, d'emprunt et de révision de la théorie, incluant la critique récurrente selon laquelle une grande partie des travaux en [[ai-education|AIED]] applique la théorie existante plutôt qu'ils ne la testent. Rassembler des cadres est un travail de catalogage ; le développement théorique porte sur leur production et leur révision. [[learning-environments-as-systems|Les environnements d'apprentissage considérés comme des systèmes]] sont un troisième voisin. Ce n'est pas une théorie de l'apprentissage et elle ne prédit aucune taille d'effet, mais une position sur l'unité d'analyse : un environnement d'apprentissage est un système à plusieurs niveaux dont les parties interagissent, si bien que le niveau mesuré par une étude est une décision théorique, et non une commodité d'échantillonnage.
 
 ## Choisir une lunette lorsque la question est pratique
 

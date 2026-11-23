@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-11-05T16:18:46-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 weight: 72
 type: faq
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-02"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -66,7 +70,7 @@ De ahí se siguen dos cosas. Cuente con que la recompensa se exploite, porque es
 
 ## Haga que la recompensa se active con la frecuencia suficiente para enseñar
 
-Una recompensa de coincidencia exacta es demasiado escasa cuando lo que le importa tiene varias dimensiones. El [[simulation|simulador]] de escritura de SWIM muestra la progresión con claridad: la indicación anclada en rúbrica alcanzó un QWK medio del mejor rasgo de **0,577** con Claude Sonnet y de **0,422** con GPT-5.4, casi cero en un modelo abierto de 7B; el ajuste fino supervisado llegó a **0,474 ± 0,023** con ese modelo de 7B; y GRPO con una recompensa densa de exactitud normalizada por rasgo llegó a **0,618 ± 0,005** en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
+Una recompensa de coincidencia exacta es demasiado escasa cuando lo que le importa tiene varias dimensiones. El [[simulation|simulador]] de escritura de SWIM muestra la progresión con claridad: la indicación [[rubrics|anclada en rúbrica]] alcanzó un QWK medio del mejor rasgo de **0,577** con Claude Sonnet y de **0,422** con GPT-5.4, casi cero en un modelo abierto de 7B; el ajuste fino supervisado llegó a **0,474 ± 0,023** con ese modelo de 7B; y GRPO con una recompensa densa de exactitud normalizada por rasgo llegó a **0,618 ± 0,005** en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
 
 El diseño de la recompensa produjo esa brecha. Una señal densa normalizada por rasgo supera a la coincidencia exacta en un entorno de varios rasgos, y si su recompensa solo se activa con una respuesta perfecta, la mayor parte de su señal de entrenamiento es silencio.
 

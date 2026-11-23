@@ -1,7 +1,7 @@
 ---
 title: "L'engagement des étudiants"
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-11-15T11:54:18-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, community-of-inquiry, eportfolio, online-teaching-and-learning, motivation, self-determination-theory, student-experience, learning-analytics, educational-measurement, self-regulated-learning, cognitive-offloading, metacognition, student-modeling, adaptive-learning, research-methods-aied, higher-ed, framing-ai-use-for-students, stakeholders, self-report-measures, productive-failure, reflection]
 connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, rho-disengaged-conversational-behaviors-2026, assigned-ai-preclass-student-engagement-2026, confident-but-absent-ai-use-absenteeism-2026, gai-advocacy-practice-art-education-2026, e3sense-multimodal-learner-engagement-sensing-2026, student-attention-estimation-fairness-2026, ai-student-engagement-online-learning-review-2025, long-ai-higher-ed-engagement-teaching-methods-2026, genai-motivation-engagement-2026, critical-engagement-code-completion, icap-cognitive-engagement-llm-agents, genai-tutor-engagement-patterns, polished-artifacts-fragile-engagement-2026, ai-availability-student-motivation, genai-performance-vs-learning, scaffolding-critical-engagement-genai-minority-students, engagement-intensity-learner-modeling, learning-engagement-assistant-lea, engagement-assessment-video, engagement-forecasting-its, interactive-learning-dashboards-engagement, tts-dialogue-lessons-learner-characteristics-2026, wang-goal-setting-ai-engagement-2026, chatbot-engagement-genai-competency-emotion-2026, student-ai-conversations-cognitive-engagement-2026, gpt4-feedback-student-activation-2026, genai-writing-program-primary-l2-motivation-engagement, ai-ive-pbl-vocational-design-creativity-2026, domain-specific-chatbot-stem-enthusiasm-2025, ai-literacy-learning-engagement-psych-capital-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, eight-mode-ai-engagement-typology-2026, al-nafjan-genai-eap-writing-engagement-2026, reding-discussion-boards-tam-ai-analytics-2026]
@@ -81,6 +85,8 @@ L'engagement est opérationnalisé par une gamme de signaux observables. **Les m
 - **Six familles d'applications d'IA et une mesure multi-méthodes :** la [[ai-student-engagement-online-learning-review-2025|revue systématique de Zhou (2025)]] portant sur 24 études de la base WoS cartographie six applications de l'IA à l'engagement — [[conversational-ai|agents conversationnels]] dans la conception de cours, reconnaissance des émotions, du visage et de la voix et [[sensor-and-gaze-analytics|oculométrie]], apprentissage automatique pour l'analyse des données, soutien à l'interaction enseignant-étudiant, rétroaction et recommandations personnalisées, et robots à base d'IA dans les environnements d'apprentissage intelligents. Elle constate que l'intégration de multiples modalités et sources de données d'IA donne une vision plus exacte et en temps réel de l'engagement cognitif, émotionnel et comportemental que les approches fondées sur une source unique — ce qui renforce le problème du choix de métrique évoqué plus haut.
 
 Le choix de la métrique est définitoire : une étude qui mesure l'engagement en termes de *temps consacré à la tâche* peut conclure qu'un outil d'IA améliore l'engagement lorsque les étudiants passent plus de temps à interagir avec lui, tandis qu'une étude qui mesure l'engagement en termes de *traitement critique* peut aboutir à la conclusion inverse pour le même outil. C'est pourquoi la recherche distingue l'engagement (participation) de l'apprentissage (gain cognitif réel) — voir [[genai-performance-vs-learning|performance contre apprentissage]] — et pourquoi les métriques d'engagement doivent être validées par rapport à ce qu'elles prétendent mesurer.
+
+Lorsque les publications sont notées, un simple décompte de messages ne peut pas distinguer l'engagement de la conformité. Dans quatre groupes de discussion réunissant 26 étudiants de premier cycle en STIM, la plupart ont déclaré ne publier que pour satisfaire à la note, et l'un d'eux a décrit le travail de discussion comme « juste une chose de plus à cocher sur la liste » ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner et Nugent, 2026]]). Une métrique comportementale est la plus faible précisément là où l'activité est évaluée, parce que la note fournit l'activité que la métrique enregistre.
 
 **L'auto-déclaration et les traces comportementales du même usage peuvent diverger presque complètement.** Keith, Wood et Posey (2026) ont mesuré deux fois les modes d'engagement avec l'IA chez les mêmes 171 étudiants : une fois avec un instrument auto-déclaratif de 29 items, et une fois en classant 1,353 tours de transcription. Aucune corrélation appariée de profil n'a survécu à la correction à |r| ≥ .30, la distance moyenne de variation totale était de .701 et seulement .002 plus proche qu'un réappariement aléatoire, et la composition comportementale augmentait la variance expliquée de .166 contre .031 pour l'auto-déclaration ; seuls les profils observés suivaient les scores de quiz, où les tours de recherche d'explication accompagnaient des scores plus élevés (r = .33, p < .001) ([[eight-mode-ai-engagement-typology-2026]]). Une auto-déclaration de la manière dont un étudiant s'engage ne portait presque aucune information sur la manière dont cet étudiant s'engageait réellement, ce qui fait de l'avertissement sur le choix de métrique ci-dessus un résultat mesuré plutôt qu'une mise en garde.
 

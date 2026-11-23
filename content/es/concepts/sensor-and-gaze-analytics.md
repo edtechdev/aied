@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores y de la mirada
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -13,9 +13,13 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -55,7 +59,7 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 23 estudios qu
 
 **Electroencefalografía.** La EEG registra fluctuaciones de voltaje en el cuero cabelludo con alta resolución temporal. Es la única señal de esta familia que llega directamente a la actividad cortical, y por eso atrae a la investigación en evaluación. Los sistemas educativos prácticos usan electrodos secos y pocos canales: E3Sense tomó cuatro canales EEG secos a 125 Hz y analizó dos frontales ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). Los equipos de investigación hacen lo contrario: Kosmyna et al. (2025) usaron EEG de 32 canales para comparar a estudiantes que escribían con un [[llm|LLM]], con un buscador o sin herramienta, y encontraron la conectividad neuronal más débil en el grupo del LLM ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et al., 2025]]). Ese estudio es también la advertencia más clara sobre la evidencia de un solo canal, ya que su afirmación central descansa en una sesión cruzada opcional a la que solo asistieron 18 de 54 participantes.
 
-**Hiperescaneo con fNIRS.** Registrar a dos personas que aprenden a la vez mide la sincronía entre cerebros, no un solo cerebro: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] encontraron que los ejemplares atribuidos a humanos elevaron la sincronía premotora y la singularidad de las ideas, la atribución a la IA la redujo, y ninguna ganancia conductual sobrevivió a la retirada del apoyo.
+**Hiperescaneo con fNIRS.** Registrar a dos personas que aprenden a la vez mide la sincronía entre cerebros, no un solo cerebro: [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] encontraron que los [[rubrics|ejemplares]] atribuidos a humanos elevaron la sincronía premotora y la singularidad de las ideas, la atribución a la IA la redujo, y ninguna ganancia conductual sobrevivió a la retirada del apoyo.
 
 **Actividad electrodérmica.** La EDA mide la conductancia de las glándulas sudoríparas, un índice de activación simpática. Responde al estrés, al esfuerzo y a la intensidad emocional, y no los distingue entre sí. El mismo constructo aparece en pulseras y en electrodos frontales fijados a pocos centímetros de distancia por el marco de un rastreador ocular ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]).
 

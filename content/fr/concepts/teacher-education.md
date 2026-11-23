@@ -1,7 +1,7 @@
 ---
 title: "Formation des enseignants"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-15T11:54:18-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -10,10 +10,14 @@ discipline: [teacher education]
 level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -56,7 +60,7 @@ La formation initiale des enseignants prépare les futurs enseignants pendant le
 - **Le contexte local comme donnée de conception.** Des étudiants enseignants suisses ont accordé une valeur plus élevée aux motifs d'utilité sociale et intrinsèques que leurs pairs chinois, ces derniers déclarant une plus grande compétence numérique d'enseignement et un plus grand enthousiasme pour l'IA ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). La préparation devrait donc caler son point d'entrée sur le profil [[motivation|motivationnel]] de chaque contexte.
 - **Applications et bénéfices.** Une revue de cadrage de 55 études montre que l'IA améliore la conception pédagogique des enseignants en formation initiale, l'enseignement disciplinaire, les compétences pratiques d'enseignement, l'évaluation, la pratique réflexive, la [[critical-thinking|pensée critique]], l'intégration des technologies et l'innovation pédagogique.([[harnessing-ai-preservice-teachers-scoping-2026]])
 
-- **Un accès non étayé à l'IA générative a obtenu des scores inférieurs à l'absence d'IA générative.** Dans une quasi-expérience de 11 semaines menée auprès de 52 enseignants en formation initiale, la classe à accès non étayé à l'IA générative a produit des plans de leçon notés à la rubrique plus faibles que la classe sans IA générative (86,54 contre 81,87 ajustés, F = 8,348, p = 0,006, η² = 0,146), sans différence entre les groupes en [[self-regulated-learning|apprentissage autorégulé]] ni en pensée critique ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
+- **Un accès non étayé à l'IA générative a obtenu des scores inférieurs à l'absence d'IA générative.** Dans une quasi-expérience de 11 semaines menée auprès de 52 enseignants en formation initiale, la classe à accès non étayé à l'IA générative a produit des plans de leçon notés selon une [[rubrics|grille d'évaluation]] plus faibles que la classe sans IA générative (86,54 contre 81,87 ajustés, F = 8,348, p = 0,006, η² = 0,146), sans différence entre les groupes en [[self-regulated-learning|apprentissage autorégulé]] ni en pensée critique ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
 - **Des cycles structurés de GPT personnalisés ont produit quatre rôles de partenaire cognitif.** Dans une étude fondée sur la conception menée sur un semestre, 14 enseignants en formation initiale de technologies numériques ont utilisé des agents GPT personnalisés intégrés au LMS à travers des cycles invite, réflexion, affinage, endossant les rôles de tuteur conceptuel, de co-concepteur, de miroir réflexif et de contradicteur cognitif à mesure que leur expertise grandissait ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]), et 82 % des artefacts finaux mettaient en correspondance les descripteurs de contenu, les tâches d'évaluation et les critères de réussite.
 - **[[educational-robotics|Robotique éducative]] et apprentissage automatique.** La formation initiale des enseignants intègre des activités de codage, de robotique et de [[machine-learning|apprentissage automatique]] (par exemple micro:bit) pour développer la [[computational-thinking|pensée computationnelle]] chez les futurs enseignants.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Évaluation authentique et [[metacognition|métacognition]].** Les modèles d'évaluation médiatisés par l'IA (par exemple AAIWA) intègrent l'[[authentic-assessment|évaluation authentique fondée sur une rubrique]], la [[ai-feedback-quality|rétroaction par IA]] sensible aux conditions et la [[reflection|réflexion métacognitive]] dans les programmes de formation initiale.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
@@ -69,6 +73,8 @@ La formation initiale des enseignants prépare les futurs enseignants pendant le
 
 - **La politique ne régit pas la pratique.** Quatre semestres de données d'enquête issus d'un programme de formation des enseignants aux États-Unis montrent l'usage de l'IA générative pour la préparation à l'évaluation passer de 57 % à 83 % et pour l'étude de 44 % à 76 %, alors même que les institutions envisageaient des logiciels de [[ai-detection|détection de l'IA]], l'incertitude éthique croissant d'une vague à l'autre ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
 - **Aucune étude en formation initiale ne mesurait l'apprentissage des élèves.** Une revue qui ne pouvait inclure que sept sources a constaté que l'éthique était reconnue mais rarement enseignée ou évaluée, et que les enseignants en formation initiale étaient trop confiants quant à leur capacité à critiquer l'IA ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
+
+- **Le soutien institutionnel se cumule.** Dans une enquête menée auprès de 618 enseignants en formation initiale à Oman, le soutien institutionnel perçu pour l'IA prédisait les pratiques de citoyenneté numérique à la fois directement et indirectement par le sentiment d'efficacité personnelle face à l'IA ([[al-harthi-institutional-ai-support-teacher-education-2026|Al-Harthi et al., 2026]]) ; les programmes qui fournissent à la fois soutien et confiance font bouger la pratique plus que l'un ou l'autre seul.
 
 ### Le développement professionnel en cours d'emploi
 

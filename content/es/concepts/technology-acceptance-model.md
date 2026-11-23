@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,10 +10,14 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -86,6 +90,8 @@ Añadir una capacidad de la familia [[tpack|TPACK]] junto a marcos de creencias 
 - **Aceptación medida al nivel de los materiales didácticos (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang y Wu (2026)]] operacionalizaron la expectativa de rendimiento, la expectativa de esfuerzo, la diversión percibida y la intención conductual para dos guías de alfabetización en IA por franjas de edad usadas por 794 estudiantes de [[k-12|K-12]] y 37 docentes, y validaron la estructura de cuatro factores con AFE y AFC sobre muestras divididas, además de respaldar la invariancia de medición entre las ediciones de 9-12 y 13-18 años. Quienes aprenden más jóvenes declararon niveles más altos en los cuatro constructos, y la diversión fue el correlato más fuerte de la intención en ambas cohortes, con un coeficiente estandarizado de diversión a intención superior a 1,00 en el grupo más joven y un HTMT de 0,950 entre los dos constructos. Los autores lo interpretan como solapamiento de constructos y posible supresión, y no como un efecto enorme, un recordatorio útil de que los instrumentos de aceptación aplicados a materiales pueden producir factores empíricamente entrelazados que complican la interpretación estructural.
 
 En un estudio de entrevistas en dos oleadas con 22 miembros del profesorado, aprender más sobre la IA volvió a algunas personas más cautas en lugar de más receptivas, lo que invierte la dirección que el modelo supone desde la experiencia hacia la facilidad de uso ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
+
+Incluso una victoria clara de la interfaz no tiene por qué mover la intención: cuando personas adultas de 18 a 25 años buscaron información sobre programas universitarios a través de un chatbot fundamentado o del sitio web del programa. Todas las medidas perceptivas favorecieron al chatbot, mientras que la intención conductual de volver a usarlo no difirió, y la predisposición tecnológica moderó el tamaño de la ventaja, con quienes se sentían menos cómodos ganando menos ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
 
 ## Límites y ampliaciones
 

@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du droit"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
 connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
@@ -62,7 +66,7 @@ Des données probantes expérimentales commencent à arriver : [[xie-genai-myste
 
 ## Ce que montrent les données probantes sur les politiques
 
-Gutowski et Hurley évaluent les politiques selon cinq dimensions avec des barèmes de 0 à 5 : le **caractère prohibitif**, le **caractère permissif**, l'**intégration pédagogique**, la **transparence et la responsabilité**, et la **profondeur**. Leur recensement a montré que la plupart des écoles de droit avaient adopté des positions généralement prohibitives, souvent expliquées comme un moyen de gagner du temps pour étudier la technologie, tandis que presque toutes les politiques réservaient leur pouvoir d'appréciation aux enseignants individuels. Les évaluations de caractère permissif et prohibitif étaient corrélées négativement, comme prévu, et les auteurs ne relèvent aucune approche unanimement acceptée : les politiques vont de la gouvernance complète à l'absence totale de politique déclarée.
+Gutowski et Hurley évaluent les politiques selon cinq dimensions avec des [[rubrics|barèmes]] de 0 à 5 : le **caractère prohibitif**, le **caractère permissif**, l'**intégration pédagogique**, la **transparence et la responsabilité**, et la **profondeur**. Leur recensement a montré que la plupart des écoles de droit avaient adopté des positions généralement prohibitives, souvent expliquées comme un moyen de gagner du temps pour étudier la technologie, tandis que presque toutes les politiques réservaient leur pouvoir d'appréciation aux enseignants individuels. Les évaluations de caractère permissif et prohibitif étaient corrélées négativement, comme prévu, et les auteurs ne relèvent aucune approche unanimement acceptée : les politiques vont de la gouvernance complète à l'absence totale de politique déclarée.
 
 Ils documentent aussi combien les données probantes du secteur sont minces. L'enquête de 2024 de l'ABA sur l'IA et la formation juridique n'a recueilli de réponses que de la part de 29 écoles, soit environ 15 % des écoles de droit agréées par l'ABA, si bien qu'elle peut difficilement être considérée comme représentative ; et une enquête de LexisNexis menée auprès de 800 étudiants en droit a révélé que seulement 9 % déclaraient un usage actuel de l'IA générative dans leurs études, 25 % envisageant de l'adopter. Les auteurs interprètent le faible usage déclaré en partie comme une réponse à des règles peu claires, puisque la clarté réduit la crainte de les enfreindre.
 

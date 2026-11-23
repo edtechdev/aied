@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie culturellement pertinente"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
 connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
@@ -45,7 +49,8 @@ connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cul
 
 L'IA peut aider les enseignants à rendre l'enseignement culturellement adapté, mais ses productions par défaut risquent aussi de **renforcer les récits dominants** lorsqu'on les laisse sans consigne.
 
-- **Soutien aux enseignants :** Wang et al. (2025) ont conçu **CulturAIEd**, un système [[llm|LLM]]-powered qui aide les enseignants du [[k-12|primaire et secondaire]] à concevoir des activités de [[ai-literacy|littératie en IA]] culturellement adaptées, en combinant des informations démographiques sur les élèves avec des consignes guidées par une grille de critères (une liste de vérification CRT intégrée à la génération). Dans un pilote mené auprès de quatre enseignants, il a **renforcé la confiance des enseignants** dans le repérage d'occasions d'adaptation culturelle et dans la modification d'activités existantes, 78% d'entre eux jugeant les suggestions de l'IA utiles pour diversifier les supports. L'outil cible directement les obstacles de temps, de formation et de ressources qui bloquent la mise en œuvre de la pédagogie culturellement pertinente.
+- **Soutien aux enseignants :** Wang et al. (2025) ont conçu **CulturAIEd**, un système [[llm|LLM]]-powered qui aide les enseignants du [[k-12|primaire et secondaire]] à concevoir des activités de [[ai-literacy|littératie en IA]] culturellement adaptées, en combinant des informations démographiques sur les élèves avec des consignes guidées par une [[rubrics|grille d'évaluation]] (une liste de vérification CRT intégrée à la génération). Dans un pilote mené auprès de quatre enseignants, il a **renforcé la confiance des enseignants** dans le repérage d'occasions d'adaptation culturelle et dans la modification d'activités existantes, 78% d'entre eux jugeant les suggestions de l'IA utiles pour diversifier les supports. L'outil cible directement les obstacles de temps, de formation et de ressources qui bloquent la mise en œuvre de la pédagogie culturellement pertinente.
+- **Un processus d'adaptation par étapes, et non une simple invite.** Le pilote CulturAIEd a fait passer les enseignants par une adaptation autonome, une révision guidée par la liste de vérification, puis un affinement assisté par l'outil, et les auteurs avertissent que les modèles fondés sur des données larges peuvent reproduire des clichés culturels, de sorte que la production reste un brouillon à réviser au regard de la connaissance de ses propres élèves ([[llm-cultural-relevance-k12|Wang et al., 2025]]).
 - **Risque de productions monoculturelles :** [[civic-education-ai-lesson-plans|Trust et al. (2025)]] ont analysé 310 plans de leçon d'éducation civique générés par l'IA (2,230 activités) : **94% ne contenaient aucun contenu multiculturel discernable**, et, parmi les 144 qui en contenaient, 137 se situaient au niveau « Additive » le plus bas — **un seul atteignait « Transformation » et aucun n'atteignait « Social Action ».** Les trois [[conversational-ai|agents conversationnels]] produisaient des modèles de leçon structurellement identiques et monoculturels. C'est la preuve concrète que l'IA produit par défaut des programmes homogénéisés si les [[teacher-ai-competency|enseignants]] n'interviennent pas activement.
 
 ## La marginalisation épistémique dans les systèmes d'IA

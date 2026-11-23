@@ -4,12 +4,16 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -43,7 +47,7 @@ El aprendizaje automático es lo que convierte los rastros educativos en intelig
 
 En el terreno del [[knowledge-tracing|seguimiento del conocimiento]], [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] muestran que un modelo recurrente puede ajustarse a la propia estructura de un [[curriculum-design|currículo]]: su modelo OKT trata los resultados de aprendizaje de la educación basada en resultados como conceptos de conocimiento, combina asignaciones de afinidad OBE validadas por expertos (relaciones entre resultados de asignatura y de programa) con una red neuronal con memoria aumentada para el impacto entre resultados, y empareja una columna vertebral GRU con embeddings BERT adaptados al dominio, alcanzando un AUC de 89,81% y superando a DKT, DKVMN, EKT y SimpleKT con datos reales de un programa de ingeniería.
 
-**Diagnóstico a partir de respuestas numéricas tabulares.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] muestran árboles potenciados por gradiente resolviendo el lado del *diagnóstico* de la tutoría en un dominio largamente cerrado a la IA: para preguntas de fórmula calculada de economía de la ingeniería, donde las soluciones manuscritas del estudiantado carecen de datos digitales estructurados, entrenan una columna vertebral multi-etiqueta de [[intelligent-tutoring|XGBoost]] específica por pregunta para asignar las respuestas numéricas intermedias y finales entregadas a las etiquetas de error de la rúbrica del profesorado (precisión media 0,81, exhaustividad 0,79, exactitud 0,65). El aumento de datos por enmascaramiento aleatorio —enmascarar características de entrada como «NaN» con probabilidades variables— preserva mejor las dependencias lógicas de las soluciones tabulares que métodos de interpolación como SMOTE y mejora significativamente el diagnóstico, y incluir las respuestas intermedias ayuda sobre todo. Es evidencia de que los modelos basados en árboles más un aumento consciente de la estructura pueden arrancar retroalimentación tutorial allí donde los métodos generativos carecen de datos de entrenamiento.
+**Diagnóstico a partir de respuestas numéricas tabulares.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] muestran árboles potenciados por gradiente resolviendo el lado del *diagnóstico* de la tutoría en un dominio largamente cerrado a la IA: para preguntas de fórmula calculada de economía de la ingeniería, donde las soluciones manuscritas del estudiantado carecen de datos digitales estructurados, entrenan una columna vertebral multi-etiqueta de [[intelligent-tutoring|XGBoost]] específica por pregunta para asignar las respuestas numéricas intermedias y finales entregadas a las etiquetas de error de la [[rubrics|rúbrica]] del profesorado (precisión media 0,81, exhaustividad 0,79, exactitud 0,65). El aumento de datos por enmascaramiento aleatorio —enmascarar características de entrada como «NaN» con probabilidades variables— preserva mejor las dependencias lógicas de las soluciones tabulares que métodos de interpolación como SMOTE y mejora significativamente el diagnóstico, y incluir las respuestas intermedias ayuda sobre todo. Es evidencia de que los modelos basados en árboles más un aumento consciente de la estructura pueden arrancar retroalimentación tutorial allí donde los métodos generativos carecen de datos de entrenamiento.
 
 Una visión de campo del subconjunto de [[reinforcement-learning|aprendizaje por refuerzo]] la ofrece la [[riedmann-reinforcement-learning-education-review-2026|revisión sistemática de Riedmann, Schaper y Lugrin (2025)]] sobre 89 estudios de RL en educación: confirma que el RL es una línea principal del aprendizaje automático para inducir políticas adaptativas de tutoría y andamiaje, pero encuentra que los métodos clásicos (Q-learning) son más consistentemente eficaces que el RL profundo (61% frente a 36% de superioridad significativa) y señala que más de la mitad de los estudios no realiza ninguna prueba estadística, una cautela [[research-methods-aied|metodológica]] que resuena con las preocupaciones de validación que se exponen más abajo.
 

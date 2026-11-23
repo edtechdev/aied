@@ -1,7 +1,7 @@
 ---
 title: Evaluación entre pares
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
 connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
@@ -29,7 +33,7 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 ## Preguntas para reflexionar
 
 - Piense en alguna ocasión en que un par evaluó su trabajo, o en que usted evaluó el suyo. ¿De qué aprendió más: de dar los comentarios o de recibirlos, y por qué?
-- ¿Por qué los comentarios de un estudiante podrían ser más conscientes del contexto y más afectuosos que los de una IA, aun cuando los de la IA son más consistentes y se guían por una rúbrica? ¿Cómo podrían complementarse ambos?
+- ¿Por qué los comentarios de un estudiante podrían ser más conscientes del contexto y más afectuosos que los de una IA, aun cuando los de la IA son más consistentes y se guían por una [[rubrics|rúbrica]]? ¿Cómo podrían complementarse ambos?
 - Los pares tienden a calificar por debajo el trabajo bueno y la IA tiende a inflar el trabajo flojo. Si ninguna de las dos fuentes es fiablemente precisa en todo el rango de calidad, ¿para qué debería usarse una nota procedente de cualquiera de ellas?
 - La evaluación entre pares depende en gran medida del [[scaffolding|andamiaje]] y de criterios claros, y el sesgo de amistad y la [[anxiety-and-stress|ansiedad]] social pueden hacer que una revisión entre pares sin formación sea peor que ninguna. ¿Cómo es una formación adecuada en su contexto?
 - Si la IA puede redactar comentarios sobre la organización y la estructura, ¿eso hace redundante la evaluación entre pares o libera a los pares para dar los comentarios específicos y conscientes del público destinatario que solo ellos pueden dar?

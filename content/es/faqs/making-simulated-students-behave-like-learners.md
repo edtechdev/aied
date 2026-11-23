@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo hacemos que un estudiante simulado se comporte como un estudiante real?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-02"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -92,7 +96,7 @@ Dos comparaciones muestran cuánto cuesta validar.
 
 Al comparar nueve métodos de simulación con siete métricas basadas en referencias sobre 382 diálogos reservados de la mayor colección pública de diálogos reales entre estudiantes y tutores de matemáticas, el uso de prompts quedó por detrás del [[llm-training-and-fine-tuning|ajuste fino]] en actos de diálogo (0,4998 frente a 0,6840), ROUGE-L (0,1648 frente a 0,3212) y similitud coseno (0,5460 frente a 0,7390). El mejor método probado, la optimización de preferencias sobre un modelo de 8B, superó al ajuste fino supervisado solo de forma marginal y fue peor en errores, y una evaluación humana con tres tutores reprodujo ese orden ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). La cima de esta escala queda cerca del medio, así que la línea base que informe decide lo impresionante que parece su propia cifra.
 
-SWIM es la comparación más clara entre prompts, ajuste fino y aprendizaje por refuerzo, porque puntúa cada ensayo generado contra un perfil de rasgo objetivo en lugar de juzgarlo de forma impresionista. El uso de prompts anclado en rúbricas dio un control limitado incluso en modelos propietarios fuertes, con un mejor promedio de QWK de rasgo de 0,577 (Claude Sonnet) y 0,422 (GPT-5.4), y casi nulo en un modelo abierto de 7B. El ajuste fino supervisado con pares reales de puntuación y ensayo alcanzó 0,474 ± 0,023 en ese modelo de 7B. GRPO con una recompensa derivada de la [[automated-essay-scoring|puntuación automatizada de ensayos]] alcanzó 0,618 ± 0,005, con ganancias que se mantuvieron en dos evaluadores independientes con los que la política nunca se entrenó ([[swim-student-writing-simulation-2026]]).
+SWIM es la comparación más clara entre prompts, ajuste fino y aprendizaje por refuerzo, porque puntúa cada ensayo generado contra un perfil de rasgo objetivo en lugar de juzgarlo de forma impresionista. El uso de prompts anclado en [[rubrics|rúbricas]] dio un control limitado incluso en modelos propietarios fuertes, con un mejor promedio de QWK de rasgo de 0,577 (Claude Sonnet) y 0,422 (GPT-5.4), y casi nulo en un modelo abierto de 7B. El ajuste fino supervisado con pares reales de puntuación y ensayo alcanzó 0,474 ± 0,023 en ese modelo de 7B. GRPO con una recompensa derivada de la [[automated-essay-scoring|puntuación automatizada de ensayos]] alcanzó 0,618 ± 0,005, con ganancias que se mantuvieron en dos evaluadores independientes con los que la política nunca se entrenó ([[swim-student-writing-simulation-2026]]).
 
 El uso de prompts produjo además una población idealizada y no realista: una puntuación general normalizada media de 0,74 frente a 0,58 de los estudiantes reales, y una longitud mediana de 304 palabras frente a 167. Los modelos entrenados recuperaron las distribuciones humanas de puntuación y longitud sin supervisión alguna de longitud. Una cosa siguió siendo difícil: la forma auténtica de baja competencia. Los modelos entrenados recuperaron la sintaxis pero escribieron demasiado pocos errores ortográficos y gramaticales, mientras que los prompts simulaban la debilidad mediante corrupción superficial, faltas de ortografía esparcidas sobre una prosa por lo demás competente.
 

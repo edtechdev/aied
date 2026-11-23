@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las mejores prácticas para informar e interpretar la investigación sobre IA en educación?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -17,6 +17,10 @@ translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -85,7 +89,7 @@ Trate la herramienta como un blanco móvil. Los sistemas propietarios cambian si
 
 ## Valide los juicios automatizados
 
-[[ai-ed-evaluation|La evaluación en AIED]] delega cada vez más la puntuación en modelos, lo que convierte el procedimiento de validación en parte del resultado y no en un apéndice. El relato de Khan Academy sobre las métricas de su [[intelligent-tutoring|tutor de IA]] informa de que la implicación cognitiva se puntúa con un juez [[llm|LLM]] calibrado frente a expertos pedagógicos humanos con un F1 de 0,83, y que los movimientos de las métricas procedieron de más de 40 experimentos en vivo en cinco meses y no de una evaluación fuera de línea ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] muestran que el desacuerdo entre humanos y máquinas sobre la calidad de las [[formative-assessment|preguntas de pretest]] es sistemático y no aleatorio, y que la operacionalización de la rúbrica importa más que el [[prompt-engineering|prompting]] que empieza por el razonamiento.
+[[ai-ed-evaluation|La evaluación en AIED]] delega cada vez más la puntuación en modelos, lo que convierte el procedimiento de validación en parte del resultado y no en un apéndice. El relato de Khan Academy sobre las métricas de su [[intelligent-tutoring|tutor de IA]] informa de que la implicación cognitiva se puntúa con un juez [[llm|LLM]] calibrado frente a expertos pedagógicos humanos con un F1 de 0,83, y que los movimientos de las métricas procedieron de más de 40 experimentos en vivo en cinco meses y no de una evaluación fuera de línea ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] muestran que el desacuerdo entre humanos y máquinas sobre la calidad de las [[formative-assessment|preguntas de pretest]] es sistemático y no aleatorio, y que la operacionalización de la [[rubrics|rúbrica]] importa más que el [[prompt-engineering|prompting]] que empieza por el razonamiento.
 
 La concordancia con codificadores humanos es cosa distinta de la calidad, e informar de ella como si fuera calidad es un blanco para los revisores. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] hicieron que un experto independiente juzgara 855 conjuntos de códigos por pares a ciegas respecto de la fuente. La concordancia entre humano y LLM fue de un Jaccard medio de 0,30 frente a 0,52 en la concordancia entre humanos, mientras que el verificador ciego prefirió la codificación humana y la de máquina en proporciones indistinguibles (51,5% frente a 48,5%, p = 0,537). Informe del objetivo de calibración, del estándar de referencia y de quién adjudicó el desacuerdo. Esos tres elementos son los que permiten al lector decidir cuánto peso puede soportar la puntuación automatizada.
 

@@ -1,7 +1,7 @@
 ---
 title: "Travail en groupe"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026, rothwell-ai-interpersonal-skills-undergraduate-teams-2026]
@@ -53,6 +57,7 @@ Le travail en groupe occupe une place distinctive dans l'[[higher-ed|enseignemen
 - **La collaboration doit être conçue, non présupposée.** Lorsqu'une tâche peut être partitionnée en sous-tâches indépendantes, les étudiants empruntent cette voie et le groupe devient un format de soumission plutôt qu'une entreprise intellectuelle conjointe. [[chen-zou-genai-group-assessment-agency-2026|Chen et Zou (2026)]] ont trouvé trois de leurs quinze groupes faisant exactement cela — divisant le travail, travaillant sur des « plateformes individuelles » et ne mutualisant jamais leurs capacités individuelles d'IA générative, même lorsque la cohérence était un critère d'évaluation explicite.
 - **Le processus plutôt que le produit.** Le travail en groupe est le plus solide lorsque le processus est évalué aux côtés de la production, ce qui requiert une [[peer-assessment|évaluation par les pairs]] ou d'autres étapes intermédiaires visibles, plutôt qu'un seul artefact final.
 - **L'[[equity-in-ai-education|équité]] et l'[[inclusive-learning|inclusion]].** Les normes de contribution, la langue et la confiance se répartissent inégalement à l'intérieur des groupes. Les [[neurodivergent-computing-students|étudiants neurodivergents]] déclarent avoir besoin de travaux structurés, de petites équipes stables et de rôles explicitement définis — des exigences que les outils de collaboration avec l'IA, souvent conçus pour l'apprenant « moyen », ne parviennent pas régulièrement à satisfaire.
+- **Répéter la conversation difficile.** Le moment le plus évité du travail en groupe est souvent interpersonnel : dire à un coéquipier que ses échéances ont été manquées et l'inviter à rendre compte. Une revue narrative ciblée de neuf études ([[rothwell-ai-interpersonal-skills-undergraduate-teams-2026|Rothwell, 2026]]) distingue trois résultats que les enseignants tendent à confondre — la confiance des apprenants après une répétition avec un chatbot, la performance pendant que les suggestions de l'IA restent disponibles, et la performance sans aide avec un partenaire humain — et constate que seule la dernière établit le transfert, les preuves directes issues du travail d'équipe de premier cycle restant limitées. L'exercice proposé met donc en place une conversation de référence en triade, une répétition avec chatbot assortie d'une rétroaction fondée sur le comportement, puis des passages de quasi-transfert sans l'outil et de rétention différée, afin que l'amélioration ne puisse pas être attribuée aux invites disponibles au moment de la performance.
 
 ## Comment l'IA change le travail en groupe
 
@@ -103,7 +108,8 @@ Une seconde lignée de recherche traite l'IA comme un participant plutôt que co
 
 - **Faites de la négociation sur l'usage de l'IA un résultat évaluable.** [[chen-zou-genai-group-assessment-agency-2026|Chen et Zou (2026)]] soutiennent que les équipes devraient justifier et documenter comment l'IA générative sera et ne sera pas employée, transformant une norme implicite entre pairs en un raisonnement explicite et notable, plutôt que de le laisser au risque perçu.
 - **Évaluez le processus, pas seulement le produit.** L'[[peer-assessment|évaluation par les pairs]], les livrables intermédiaires et les contributions réflexives créent les interactions par lesquelles les normes et la compréhension partagée se construisent réellement.
-- **Ne vous fiez pas au seul critère de cohérence.** Une ligne de grille exigeant l'intégration ne produit pas la collaboration si la structure de la tâche permet encore le diviser pour régner ; le flux de travail doit exiger le travail conjoint.
+- **Notez le réseau, pas le performeur isolé.** Une réévaluation conceptuelle de l'équité à l'ère de l'IA générative soutient que le travail en groupe devrait être évalué comme une synthèse documentée à travers les perspectives, un « réseau de connaissances intégré », plutôt que comme une performance isolée sous des contraintes artificielles ([[dollinger-equitable-assessment-ai-2026|Dollinger & Nieminen, 2026]]).
+- **Ne vous fiez pas au seul critère de cohérence.** Une ligne de [[rubrics|grille]] exigeant l'intégration ne produit pas la collaboration si la structure de la tâche permet encore le diviser pour régner ; le flux de travail doit exiger le travail conjoint.
 - **Concevez l'accès délibérément.** Le fait que le groupe partage une interface d'IA unique ou que chaque membre interroge l'IA en privé change la transparence de la collaboration et le coût du maintien d'un modèle cognitif partagé.
 - **Décidez visiblement du rôle de l'IA.** Un médiateur neutre est digne de confiance ; un conseiller ou un provocateur ne l'est pas, à moins que ce rôle ne soit explicite et voulu. Un persona contestataire peut contrer la pensée de groupe, mais seulement comme une fonctionnalité conçue, ses coûts pour la sécurité psychologique étant reconnus.
 - **Équilibrez l'efficacité et l'autorégulation.** Une IA collaborative qui maximise l'efficacité de la tâche peut saper l'engagement régulateur des apprenants ; la conception devrait délibérément protéger un espace pour l'interprétation concertée.

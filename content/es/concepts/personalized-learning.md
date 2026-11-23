@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje personalizado
 created: "2026-09-25T04:31:17-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
 connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026, nawarathne-genai-learning-styles-2026]
@@ -112,11 +116,13 @@ Bernstein y Sibia (2026) afinan una distinción entre la personalización por in
 
 Una tercera dimensión de la personalización es la *meta*, y es la entrada que peor manejan los planificadores de IA. [[personapath-personalized-learning-paths-2026|Liu et al. (2026)]] emparejaron 2.000 personas sintéticas de estudiantes con un grafo de prerrequisitos de 347 libros de texto y 4.092 conceptos, y pidieron a diez LLM que planificaran, paso a paso, qué conocimiento debería estudiar quien aprende para alcanzar una unidad objetivo declarada. Los modelos produjeron currículos estructuralmente sólidos (DeepSeek-V3.1 alcanzó un 90,9% en validez de prerrequisitos y de [[hallucination-risk|alucinación]]), pero no lograron adaptarlos a quien aprende: la adaptabilidad se quedó en un máximo del 44,7%, la tasa de aprobación final de DeepSeek-V3.1 fue del 29,5% en educación básica y del 14,6% en educación superior, y eliminar el campo de dominio de la persona costó hasta 26,1 puntos porcentuales de adaptabilidad, mientras que dejó la validez casi intacta. Generar todo el itinerario de una sola vez en lugar de hacerlo de forma interactiva elevó la validez hasta 30,8 puntos, pero recortó la adaptabilidad en 28,8. La afirmación «personalizado» es una afirmación sobre la respuesta al estado de quien aprende, y la variable de estado es justamente la parte de la que estos planificadores pueden prescindir con más facilidad: una réplica computacional de la preocupación de medición anterior.
 
-Una cuarta dimensión es el *público destinatario* y no la persona que aprende: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenera una clase existente para un grupo profesional concreto (sanidad, finanzas o energía), y sus evaluadores expertos puntuaron las versiones enmarcadas por sector 0,32 puntos más alto en profundidad de personalización (3,97 frente a 3,65), mientras que la calibración al público se quedó atrás (3,52). Ajustar para un grupo y no para una persona es una forma más barata y más manejable de personalización, pero la rúbrica que la midió evaluaba el ajuste juzgado, no los resultados de aprendizaje.
+Una cuarta dimensión es el *público destinatario* y no la persona que aprende: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenera una clase existente para un grupo profesional concreto (sanidad, finanzas o energía), y sus evaluadores expertos puntuaron las versiones enmarcadas por sector 0,32 puntos más alto en profundidad de personalización (3,97 frente a 3,65), mientras que la calibración al público se quedó atrás (3,52). Ajustar para un grupo y no para una persona es una forma más barata y más manejable de personalización, pero la [[rubrics|rúbrica]] que la midió evaluaba el ajuste juzgado, no los resultados de aprendizaje.
 
 La personalización puede superar a un presentador humano: en un curso en línea grande (493 encuestados), el estudiantado clasificó los vídeos personalizados generados por IA por encima de los grabados por personas sin personalizar (rango medio 2,26 frente a 2,69) y el 88,4% situó algún vídeo personalizado en primer lugar, frente al 73,8% de los grabados por personas ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
 
 La personalización también puede reunir las tres variables de quien aprende en un único flujo de trabajo en una plataforma real de segundas lenguas: [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] combinan modelos de preferencia, competencia e implicación sobre registros de NedBox de 7.346 personas que aprenden. Ordenan los materiales con el recomendador ligero EASE (AUROC 0,955), reordenan los 10 primeros según las estimaciones de competencia de DeepIRT (mejor MCC 0,34) y filtran los ítems que un bosque de supervivencia marca como de alto riesgo de abandono (índice C 0,662). La dificultad de entrada de cada persona se fija en el nivel cuya probabilidad prevista de respuesta correcta se sitúa más cerca de 0,75.
+
+**La IA generativa reabre la cuestión de los estilos de aprendizaje sin zanjarla.** [[nawarathne-genai-learning-styles-2026|Nawarathne, Haddela y Kodagoda (2026)]] revisaron 41 estudios que mapeaban la IA generativa sobre VARK, Kolb, Felder-Silverman y Honey y Mumford, y encontraron que el valor reside en la flexibilidad multimodal —el mismo contenido en varios formatos a la vez— y no en ajustarse a una preferencia de estilo fija. La revisión recoge además la crítica de larga data de que las teorías de los estilos de aprendizaje carecen de evidencia empírica sólida.
 
 ## La solidez de la evidencia
 

@@ -1,7 +1,7 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-15T10:15:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 connected_resources: [public-ai-libraries]
 type: concept
@@ -9,7 +9,7 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,8 +29,12 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -64,6 +68,7 @@ El giro hacia la inferencia en el borde añade una dimensión de hardware a la b
 
 - **El cambio de código es su propia exclusión.** La mayoría de las [[llm|herramientas de IA]] para clases magistrales presuponen audio monolingüe en inglés e internet fiable, lo que excluye a las aulas que mezclan el inglés con una lengua del hogar; los datos UDISE+ de la India situaban el acceso a internet en las escuelas cerca del 54%, con una brecha urbano-rural de 24 puntos, y un compañero bilingüe responde con transcripción en el dispositivo y almacenamiento local primero ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 
+- **Desagregue el uso, no solo el acceso.** [[raut-ai-rural-education-india-2026|La revisión integradora de Raut]] informa de que entre adolescentes rurales de India de 14 a 16 años, el 85,5% de los chicos y el 79,4% de las chicas dijeron que podían usar un teléfono inteligente, de modo que la disponibilidad en el hogar subestima una brecha de género en el uso práctico.
 - **Los servicios digitales públicos reproducen la brecha.** La plataforma de gobierno electrónico eCitizen de Kenia está principalmente en inglés, con un uso limitado del suajili y una interfaz solo de texto, lo que excluye a jóvenes con baja alfabetización, con discapacidad visual y de zonas rurales; las entrevistas y una mesa redonda de once personas en cuatro plataformas de medios de vida (Ajira Digital, KRA iTax, HELB, YEDF) apuntan a las tecnologías lingüísticas y a un diseño basado en WCAG 2.1 como las palancas de inclusión ([[amol-ai-egovernance-digital-inclusion-2026|Amol y Wanzare (2026)]]).
 
 ## La IA profundiza las brechas (y puede cerrarlas)

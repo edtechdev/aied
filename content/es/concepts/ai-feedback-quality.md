@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -10,10 +10,14 @@ assessment: [ai-feedback-quality, automated-assessment, feedback, formative-asse
 connected_resources: [my-essay-feedback]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -51,7 +55,7 @@ La calidad de la retroalimentación de IA no se reduce a la corrección. Una ret
 
 ## Cómo aparece la calidad de la retroalimentación de IA en la investigación
 
-- **Comparabilidad con la retroalimentación humana:** [[ai-generated-feedback-higher-ed|los estudios en educación superior]] encuentran que la retroalimentación generada por IA se experimenta como aceptable y de apoyo, comparable a la del docente. Pero la aceptabilidad no garantiza la eficacia para el aprendizaje. Una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios empíricos (2023-2025) también encuentra que la calidad de la calificación y de la retroalimentación de los [[llm|LLM]] depende de la tarea: iguala a los evaluadores humanos en respuestas cortas y bien estructuradas con rúbricas detalladas, pero se degrada en trabajos complejos, abiertos o [[multilingual-learning|multilingües]], con una retroalimentación a veces demasiado genérica o desalineada con la nota, y señala la calidad de la indicación, el detalle de la rúbrica, la versión del modelo y el idioma de la evaluación como los determinantes dominantes de la calidad de la calificación y de la retroalimentación ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz et al., 2026]]).
+- **Comparabilidad con la retroalimentación humana:** [[ai-generated-feedback-higher-ed|los estudios en educación superior]] encuentran que la retroalimentación generada por IA se experimenta como aceptable y de apoyo, comparable a la del docente. Pero la aceptabilidad no garantiza la eficacia para el aprendizaje. Una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios empíricos (2023-2025) también encuentra que la calidad de la calificación y de la retroalimentación de los [[llm|LLM]] depende de la tarea: iguala a los evaluadores humanos en respuestas cortas y bien estructuradas con [[rubrics|rúbricas]] detalladas, pero se degrada en trabajos complejos, abiertos o [[multilingual-learning|multilingües]], con una retroalimentación a veces demasiado genérica o desalineada con la nota, y señala la calidad de la indicación, el detalle de la rúbrica, la versión del modelo y el idioma de la evaluación como los determinantes dominantes de la calidad de la calificación y de la retroalimentación ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz et al., 2026]]).
 - **Los materiales de clase generados por LLM igualaron a los creados por humanos cuando había retroalimentación.** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] generaron lecciones de formación de tutores basadas en escenarios con una canalización de [[rag|generación aumentada por recuperación]] sobre fuentes de investigación seleccionadas y las compararon en un experimento aleatorizado de ocho condiciones (N = 208) con lecciones cuidadosamente escritas por humanos. La lección creada por humanos produjo un mejor rendimiento en el postest (0,793 frente a 0,730), pero solo en la condición sin retroalimentación; con retroalimentación explicativa inmediata la diferencia de fuente desapareció, y la retroalimentación no tuvo un efecto principal global. Para la generación de contenido, el hallazgo sugiere que la brecha entre humanos y LLM es una brecha de andamiaje: los materiales generados son competitivos cuando el entorno de aprendizaje aporta la retroalimentación explicativa que la lección misma no ofrece.
 
 La calidad percibida por los estudiantes es más desigual de lo que sugiere la aceptabilidad: 77 de 93 estudiantes de grado encontraron fácil de entender la retroalimentación de IA, pero 68 la consideraron repetitiva y 79 autocontradictoria; solo 31 estuvieron de acuerdo en que califica escritura compleja o creativa, y el 81,7% prefirió la puntuación humana para un trabajo final que valía el 40% de la nota ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
@@ -111,6 +115,8 @@ El estilo es una dimensión de calidad con un costo: con el mismo modelo, la ret
 Cómo se *produce* la retroalimentación pertenece también a esa lista. En un sistema modular de evaluación automatizada de la escritura para ensayos argumentativos, el [[llm-training-and-fine-tuning|ajuste fino]] supervisado sobre 90 ensayos anotados por docentes produjo retroalimentación inservible: el GPT-4o ajustado superó su ventana de contexto de 8.000 tokens en cada inferencia y el LLaMA-3.3-70B ajustado emitía JSON que no se podía analizar, mientras que indicar directamente a Claude 3.7 generó 630 microcomentarios en 40 ensayos que los docentes juzgaron necesarios y eficaces en el 94,69% de los casos, lo que llevó a los autores a concluir que, para una tarea de generación no determinista, la indicación puede superar al ajuste fino ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
 El modelo que interpreta al paciente no es el modelo que debería juzgar el encuentro. En el SimBot de IA de [[kim-ai-simbot-nursing-communication-2026|Kim y Pankhania (2026)]], 98 estudiantes de enfermería previos a la licenciatura entrevistaron a una paciente virtual de 17 años interpretada por GPT-4o, y la retroalimentación de ese modelo resultó inexacta y excesivamente positiva frente a la rúbrica del profesorado. El papel de evaluador pasó a O3-mini, que emitió juicios mejor anclados en la rúbrica, por unos cincuenta centavos por estudiante para toda la canalización de voz. La fidelidad de la persona simulada y la exactitud evaluativa son requisitos distintos, y no cabe suponer que un mismo despliegue satisfaga ambos.
+
+- **Las ganancias en exactitud superficial no llegan a la argumentación.** Un metaanálisis PRISMA de 44 estudios (unos 28.400 estudiantes, 19 países) encontró un efecto agrupado moderado para los sistemas de retroalimentación adaptativa (g = 0,42), pero con una pendiente pronunciada: la gramática y la exactitud superficial mejoraron más (g = 0,74), mientras que la calidad de la argumentación no mostró un efecto significativo (g = 0,09) ([[al-washahi-ai-adaptive-feedback-meta-analysis-2026|Al Washahi, 2026]]).
 
 ## Dimensiones de calidad
 

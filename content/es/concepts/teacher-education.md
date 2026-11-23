@@ -1,7 +1,7 @@
 ---
 title: "Formación docente"
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-11-15T10:32:41-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -10,7 +10,7 @@ discipline: [teacher education]
 level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
@@ -64,7 +68,7 @@ La formación inicial prepara a los futuros docentes durante sus programas de ce
 - **El contexto local como insumo de diseño.** Los futuros docentes suizos valoraron más los motivos de utilidad social y los intrínsecos que sus pares chinos, quienes declararon mayor competencia digital docente y más entusiasmo por la IA ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). La preparación debería ajustar su punto de entrada al perfil [[motivation|motivacional]] de cada contexto.
 - **Aplicaciones y beneficios.** Una revisión de alcance de 55 estudios muestra que la IA mejora el diseño instruccional, la enseñanza de la asignatura, las habilidades prácticas de enseñanza, la evaluación, la práctica reflexiva, el [[critical-thinking|pensamiento crítico]], la integración tecnológica y la innovación pedagógica del profesorado en formación.([[harnessing-ai-preservice-teachers-scoping-2026|Ziying et al., 2026]])
 
-- **El acceso a IA generativa sin andamiaje puntuó por debajo de no usar IA generativa.** En un cuasi-experimento de 11 semanas con 52 docentes en formación, la clase con IA generativa sin andamiaje produjo planes de clase peor valorados con rúbrica que la clase sin IA generativa (86,54 frente a 81,87 ajustados; F = 8,348; p = 0,006; η² = 0,146), sin diferencias entre grupos en [[self-regulated-learning|aprendizaje autorregulado]] ni en pensamiento crítico ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
+- **El acceso a IA generativa sin andamiaje puntuó por debajo de no usar IA generativa.** En un cuasi-experimento de 11 semanas con 52 docentes en formación, la clase con IA generativa sin andamiaje produjo planes de clase peor valorados con [[rubrics|rúbrica]] que la clase sin IA generativa (86,54 frente a 81,87 ajustados; F = 8,348; p = 0,006; η² = 0,146), sin diferencias entre grupos en [[self-regulated-learning|aprendizaje autorregulado]] ni en pensamiento crítico ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
 - **Los ciclos estructurados con GPT personalizados produjeron cuatro roles de socio cognitivo.** En un estudio de diseño de un semestre, 14 docentes en formación de Tecnologías Digitales usaron agentes GPT personalizados e integrados en el LMS mediante ciclos de indicar, reflexionar y refinar, y asumieron los roles de tutor conceptual, codiseñador, espejo reflexivo y desafiador cognitivo a medida que crecía su pericia ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]); el 82% de los artefactos finales relacionaron descriptores de contenido, tareas de evaluación y criterios de logro.
 - **[[educational-robotics|Robótica educativa]] y aprendizaje automático.** La formación inicial integra actividades de programación, robótica y [[machine-learning|aprendizaje automático]] (por ejemplo, micro:bit) para desarrollar el [[computational-thinking|pensamiento computacional]] en los futuros docentes.([[microbit-robotics-machine-learning-teacher-training-2026|Sáez-López et al., 2026]])
 - **Evaluación auténtica y [[metacognition|metacognición]].** Los modelos de evaluación mediados por IA (por ejemplo, AAIWA) integran [[authentic-assessment|evaluación auténtica basada en rúbricas]], [[ai-feedback-quality|retroalimentación con IA]] sensible a las condiciones y [[reflection|reflexión metacognitiva]] en los programas de formación inicial.([[aaiwa-ai-authentic-assessment-metacognition-2026|Oktoma et al., 2026]])
@@ -79,6 +83,7 @@ La formación inicial prepara a los futuros docentes durante sus programas de ce
 - **La política no gobierna la práctica.** Cuatro semestres de datos de encuesta de un programa estadounidense de formación docente muestran que el uso de IA generativa para preparar evaluaciones pasó del 57% al 83% y para estudiar, del 44% al 76%, incluso mientras las instituciones consideraban software de [[ai-detection|detección de IA]], con una incertidumbre ética creciente a lo largo de las oleadas ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
 
 - **Ningún estudio con profesorado en formación midió el aprendizaje del alumnado.** Una revisión que solo pudo incluir siete fuentes encontró que la ética se reconoce pero rara vez se enseña o se evalúa, y que el profesorado en formación está demasiado confiado al criticar la IA ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
+- **El respaldo institucional se compone.** En una encuesta a 618 docentes en formación en Omán, el apoyo institucional percibido para la IA predijo las prácticas de ciudadanía digital tanto directamente como indirectamente a través de la autoeficacia con la IA ([[al-harthi-institutional-ai-support-teacher-education-2026|Al-Harthi et al., 2026]]); los programas que ofrecen respaldo y confianza a la vez mueven más la práctica que cualquiera de los dos por separado.
 
 ### Desarrollo profesional en servicio
 

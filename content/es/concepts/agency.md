@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-11-15T10:16:20-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,10 +10,14 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -144,6 +148,8 @@ Esta distinción entre la agencia puesta en acto y la identidad estable se aplic
 La condición límite del marco exige **contestabilidad** (la capacidad de cuestionar y contrastar la salida de la IA), **procedencia** (saber de dónde vienen los datos de entrenamiento y la salida) y **no delegación del crédito moral e intelectual** (los juicios de alto riesgo sobre el bienestar del estudiantado, su situación académica y sus calificaciones no deben determinarse únicamente por la IA). Esto ofrece a quienes educan y a quienes elaboran [[stakeholders|políticas]] un vocabulario más preciso que el vago «equilibrio» entre las contribuciones humanas y artificiales, y conecta la agencia con la [[ethics|ética]], la [[assessment|evaluación]], la [[equity-in-ai-education|equidad]] y la [[governance|gobernanza]].
 
 Un encuadre estrechamente relacionado es el de la **agencia epistémica relacional** ([[du-yuan-epistemic-dependence-2026|Du y Yuan 2026]]), que coincide en que la agencia se habilita socialmente y se media tecnológicamente, y no consiste en aislarse de la dependencia. Donde el marco de coagencia ecológica subraya la responsabilidad epistémica humana como un límite no negociable, Du y Yuan mantienen una *asimetría* explícita: los sistemas de IA pueden dar forma y extender el razonamiento sin tener responsabilidad recíproca ni autoridad legítima. Sus seis criterios diagnósticos (contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica) ofrecen una prueba práctica para saber cuándo una relación entre personas y IA preserva la capacidad de quien aprende de participar en cómo se forman, se evalúan y se aceptan las afirmaciones, y cuándo se limita a entregar un producto. La agencia, desde esta perspectiva, no es independencia de las herramientas, sino la capacidad de juzgar con responsabilidad *con*, *a través de* y *contra* los sistemas que median el conocimiento.
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]] sostiene que la competencia en IA no basta sin las condiciones institucionales que hacen que el juicio tenga consecuencias —la notificación, las razones inteligibles, la revisión humana, la posibilidad de apelar y anular, y una rendición de cuentas documentada— y reformula la agencia como algo que se logra en interacción con la autoridad institucional en lugar de algo que se posee individualmente. Las universidades pueden habilitarla o limitarla en su papel de compradoras, autoridades de evaluación y usuarias de vigilancia, lo que desplaza la pregunta desde la competencia de quien aprende sola hacia los derechos y los procedimientos mediante los cuales el juicio altera las decisiones mediadas por la IA.
 
 - **La agencia delegada como mecanismo, no solo como riesgo.** [[yan-agentivism-learning-theory-ai-2026|Yan y Gašević (2026)]] tratan la delegación del trabajo cognitivo en la IA como parte de cómo ocurre el aprendizaje, y no solo como una amenaza para él: en su planteamiento, el desempeño asistido se convierte en capacidad duradera solo cuando quien aprende conserva la responsabilidad de enmarcar el problema, fijar los criterios y justificar las respuestas, una división del trabajo que llaman agencia delegada. Eso convierte la propia asignación en la variable de diseño, ya que una misma herramienta puede preservar o disolver la agencia de quien aprende según qué responsabilidades absorba.
 

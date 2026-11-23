@@ -1,7 +1,7 @@
 ---
 title: "Biais d'automatisation"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -9,7 +9,7 @@ ethics: [trust-calibration, automation-bias]
 audience: [instructors, learners, administrators, software developers]
 confidence: high
 translation_of: concepts/automation-bias
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 contributors: [editor]
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -95,6 +99,8 @@ Deux articles soutiennent que le contrepoids est une disposition plutôt qu'une 
 ### Quand le biais est nommé comme risque plutôt que mesuré
 
 Une part importante de la littérature inscrit le biais d'automatisation dans un modèle de menace sans le tester, et la distinction compte pour le poids que le concept peut porter. [[ahmadfard-interactive-oer-review-2026|La revue des REL interactives (2026)]] le range parmi les risques récurrents qui érodent l'agentivité des apprenants et des enseignants, cité plutôt que mesuré. [[alshahrani-health-sciences-ai-use-2026|L'enquête en sciences de la santé (2026)]] lit les préoccupations [[ethics|éthiques]] de 310 étudiants comme un argument pour une [[professional-training|formation professionnelle]] qui couvre explicitement le biais d'automatisation. [[ai-literacy-legal-translation-2026|L'étude sur la traduction juridique (2026)]] demande que la post-édition et la vérification soient enseignées comme des compétences notées, en nommant les pressions du biais d'automatisation et de l'illusion de qualité qui rendent les erreurs de traduction faciles à manquer. [[morales-cevallos-ai-forensic-science-education-2026|La revue en sciences forensiques (2026)]] trouve le biais d'automatisation documenté dans les études qu'elle inclut et propose des exercices de cas construits à partir de défaillances rapportées. [[rana-genai-design-thinking-2025|L'étude sur la pensée design (2025)]] en fait une exigence de conception : des [[scaffolding|étayages]] qui maintiennent le jugement humain au centre, contrant à la fois le déchargement et le biais d'automatisation.
+
+Un autre biais siège dans la production plutôt que dans l'utilisateur. À Esmeraldas, en Équateur, 90 acteurs éducatifs et communautaires ont décrit des outils d'image modifiant le teint, la texture des cheveux et les traits du visage de participants afro-équatoriens, l'un d'eux évoquant « une forme de racisme, même s'il est numérique » — un préjudice représentationnel qu'aucune métrique d'exactitude n'enregistre ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Là où les preuves sont minces, mitigées ou inversées
 

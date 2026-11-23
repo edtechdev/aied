@@ -1,7 +1,7 @@
 ---
 title: Interacción entre el estudiantado y la IA
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-17T09:20:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
 connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026, richter-generative-ai-appropriation-comparative-2026]
@@ -86,6 +90,10 @@ Las palancas de diseño pueden desplazar ese valor por defecto: en un curso de f
 Los prompts escritos por el docente son una de esas palancas, pero el rigor efectivo va por detrás del objetivo: en 1.479 conversaciones, el 38% no alcanzó el nivel de profundidad de conocimiento (DOK) pretendido por el docente, acercándose al 50% en DOK 3, mientras que metas explícitas de finalización redujeron esa brecha en 0,22 niveles y una barrera de «sin respuestas directas» recortó las tasas de respuesta final de la IA en 8,5 puntos porcentuales ([[teacher-authored-prompts-student-ai-dialogue|Liu et al. (2026)]]).
 
 La no utilización es en sí misma un patrón de interacción que la [[pedagogy|pedagogía]] debe prever. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], al estudiar a 85 [[teacher-education|futuros docentes]] en tres cursos donde el uso de IA generativa en la [[assessment|evaluación]] estaba explícitamente permitido, encontraron que el 62,4% (53 de 85) optó por no usarla en absoluto, muy por debajo del 79–83% de adopción observado en encuestas comparables del Reino Unido y Australia, y que el uso de quienes la adoptaron era superficial y correctivo más que generativo (corrección de pruebas 43,8%, comprobaciones de claridad 34,4%, generación de texto solo 18,8%). Sus decisiones seguían el diseño de la evaluación y la cultura institucional más que la dificultad técnica: el 41,5% de quienes no la adoptaron temía ser acusado injustamente de [[academic-integrity|plagio]], y nueve de los once entrevistados interpretaron la propia política permisiva como una posible «trampa». La brecha entre los 32 usuarios que declaró la encuesta y las 28 autodeclaraciones muestra que la interacción con la IA que el estudiantado *reporta* está modelada por las consecuencias de la calificación: una advertencia de medición para los relatos de la analítica del aprendizaje sobre la interacción entre el estudiantado y la IA.
+
+- **Una tipología de prácticas separa cinco formas de usar un chatbot.** Quince grupos focales con 61 estudiantes alemanes distinguieron las prácticas de herramienta de apoyo, facilitador de aprendizaje, autor único, primer autor y segundo autor, y hallaron que la no utilización podía ser una fuente de orgullo y no un déficit ([[grothe-hammer-studying-ai-chatbots-typology-2026|Grothe-Hammer et al., 2026]]).
+
+La teoría de la práctica replantea esas prácticas como apropiación. En entrevistas episódicas con 29 estudiantes de Indonesia, Malasia y Alemania, [[richter-generative-ai-appropriation-comparative-2026|Richter et al. (2026)]] encontraron una postura predominantemente instrumental: la IA se adoptó como herramienta, alivio práctico o compañera de conversación situada, pero no como algo que cambie lo que significa escribir, investigar o estudiar. Como el estudiantado se presenta como quien sigue teniendo el control y describe los grados como basados en tareas y orientados a productos, las operaciones delegadas se vuelven mecánicamente verificables y el uso de la IA estabiliza los regímenes epistémicos existentes en lugar de alterarlos. En esta lectura, la adopción depende de qué tan bien la tecnología encaja en las prácticas preexistentes, de modo que las reglas institucionales y las posibilidades de la herramienta importan menos que el significado práctico que el estudiantado atribuye a su trabajo.
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang y Guo (2026)]] documentan qué aporta el diálogo abierto con IA generativa en la revisión entre pares: el estudiantado que interrogó al modelo en lugar de aceptar su primera sugerencia produjo retroalimentación que sus pares valoraron mejor, y declaró más disfrute de la tarea y menos [[anxiety-and-stress|ansiedad]].
 

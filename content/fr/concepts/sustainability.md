@@ -1,7 +1,7 @@
 ---
 title: "Durabilité"
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -23,8 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -70,7 +74,9 @@ La seconde voie concerne l'empreinte propre de l'IA dans les contextes éducatif
 
 ## L'apprentissage durable comme objectif pédagogique
 
-Un axe connexe conçoit la durabilité non seulement comme une préoccupation environnementale ou institutionnelle, mais comme une propriété de l'apprentissage lui-même. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] soutiennent que l'apprentissage assisté par l'IA risque une externalisation cognitive et un détachement des contextes authentiques, et proposent des cadres (E3-HOT) pour un **apprentissage durable** — un apprentissage qui persiste, se transfère et reste relié à des problèmes réels plutôt que d'être court-circuité par le [[cognitive-offloading|délestage cognitif]]. Cela rattache la durabilité à l'[[agency|autonomie]] et à la [[critical-thinking|pensée critique]].
+Un axe connexe conçoit la durabilité non seulement comme une préoccupation environnementale ou institutionnelle, mais comme une propriété de l'apprentissage lui-même. L'argument plus large selon lequel ce recadrage sert des intérêts particuliers est rassemblé sous [[critiques-of-ai-in-education|Critiques de l'IA en éducation]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] soutiennent que l'apprentissage assisté par l'IA risque une externalisation cognitive et un détachement des contextes authentiques, et proposent des cadres (E3-HOT) pour un **apprentissage durable** — un apprentissage qui persiste, se transfère et reste relié à des problèmes réels plutôt que d'être court-circuité par le [[cognitive-offloading|délestage cognitif]]. Cela rattache la durabilité à l'[[agency|autonomie]] et à la [[critical-thinking|pensée critique]].
+
+- **Une conception de verrou.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] définit la durabilité pédagogique comme une valeur durable d'apprentissage produite dans des conditions économiques, sociales, environnementales et institutionnelles qui peuvent être maintenues, puis fait de cette valeur un verrou non compensable plutôt qu'un pilier parmi cinq.
 
 ## Connexions avec d'autres concepts
 

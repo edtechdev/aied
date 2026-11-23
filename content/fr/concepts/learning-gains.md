@@ -1,7 +1,7 @@
 ---
 title: "Gains d'apprentissage"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T02:34:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,12 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
-connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
+connected_articles: [absent-cognitive-baseline-2026, ai-assisted-collaborative-learning-model-dbr, ai-changing-teaching-workflows, ai-education-effects-second-order-meta-analysis-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-feedback-critical-thinking-writing-2026, ai-literacy-assessment-misalignment, ai-supported-instruction-stem-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, burneo-can-edtech-close-learning-gaps-2026, ccct-cooperative-learning-technique, chatgpt-hints-human-tutor-learning-gains-2024, chen-genai-programming-understanding-2026, computational-thinking-aica-2026, contractor-learning-impact-generative-ai-2026, epistemological-audit-genai-meta-analyses-2026, gardella-copilot-fast-forgettable-2026, genai-can-harm-teaching-rct-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, generative-ai-guardrails-harm-learning, generative-ai-reduced-study-time-math, gpt4-feedback-student-activation-2026, jost-llm-programming-education-learning-outcomes, kestin-ai-tutoring-outperforms-active-learning-rct-2025, learner-ai-interaction-patterns-oop, liu-ai-literacy-interventions-meta-analysis-2026, making-ai-tutoring-productive-mastery-math-2026, mujib-ai-ibl-creative-math-2026, oecd-digital-education-outlook-2026, one-click-away-khanmigo-two-year-school-experiment-2026, oneill-presumed-effective-meta-analysis-2026, oppenheimer-llms-collaborative-learning-partners-2026, pedagogy-ai-mistakes, rachatasumrit-example-problem-ratio-2026, robot-assisted-language-learning-meta-analysis-2026, rodrigues-aied-unplugged-numeracy-2026, scaffolding-srl-feedback-genai-human-peers, smith-online-pretests-generative-ai-physics-2026, stanford-evidence-base-ai-k12-2026, stromberg-generative-ai-learning-penalty-secondary-2026, studentbench-ai-human-tutoring-gre-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, weidlich-chatgpt-effect-search-cause-2025, young-people-learning-generative-ai-rapid-review-2026, zhao-genai-higher-order-thinking-meta-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -57,6 +61,8 @@ Principaux résultats de la recherche :
 ## Le problème de mesure à l'ère de l'IA
 
 Un thème central de la recherche sur les gains d'apprentissage est que **l'IA générative peut gonfler la performance apparente sans produire de gains d'apprentissage** — et le choix de la mesure de résultat décide si cet écart apparaît. [[generative-ai-reduced-study-time-math|La recherche]] et [[stromberg-generative-ai-learning-penalty-secondary-2026|les données de terrain à grande échelle]] montrent une divergence marquée : l'usage de l'IA améliore les scores sur les devoirs assistés par l'IA tout en *abaissant* les scores sur les mesures surveillées, à livre fermé et sans assistance. [[genai-performance-vs-learning|La recherche sur la performance opposée à l'apprentissage]] et [[young-people-learning-generative-ai-rapid-review-2026|les revues rapides]] distinguent donc la performance immédiate soutenue par l'IA de l'apprentissage durable, et traitent les mesures sommatives sans assistance (voir l'[[summative-assessment|évaluation sommative]]) comme le signal fiable des gains d'apprentissage authentiques.
+
+Le point de départ peut lui aussi être gonflé. Sur 39 questions de prétest de physique, les bonnes réponses ont augmenté jusqu'à 36 % à partir de l'automne 2024 — environ 15 % en moyenne — avec des baisses sur les questions où l'outil répondait mal, de sorte qu'une comparaison prétest/post-test peut enregistrer un gain que l'enseignement n'a jamais produit ([[smith-online-pretests-generative-ai-physics-2026|Smith et al., 2026]]). Le prétest qui fixe le point de départ doit réunir les mêmes conditions sans assistance que le post-test.
 
 ## Ce que montre la recherche sur l'efficacité
 

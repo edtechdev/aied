@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour développer un tuteur d'IA efficace ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 74
 audience: [educational technology developers, software developers, instructional designers]
 type: faq
@@ -29,6 +29,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -163,7 +168,7 @@ L'écriture n'a pas de réponse unique correcte, si bien que la vérification re
 
 **Un modèle de capacités.** Suivez l'argumentation (précision de la thèse, alignement affirmation-preuves, contre-argument), l'organisation (focalisation des paragraphes, progression logique, transitions), les preuves (pertinence des sources, intégration, interprétation), la révision (révision globale et au niveau de la phrase, évaluation de la rétroaction) et le style (clarté, grammaire, voix). Chacun devient un signal distinct dans le modèle de l'apprenant, ce qui est la condition même d'une rétroaction ciblée.
 
-**Ancrez le coach dans le devoir.** Recherchez les consignes, la grille de l'enseignant, les lectures du cours, les exigences de citation, les conventions de genre, les exemples de l'enseignant et la politique d'usage de l'IA, afin que la rétroaction puisse dire « la grille de votre enseignant vous demande de relier chaque affirmation majeure à des preuves tirées d'au moins deux lectures du cours » au lieu d'inventer des attentes génériques. Le conseil générique est la défaillance par défaut d'un outil d'écriture non ancré, et les étudiants le repèrent en deux séances.
+**Ancrez le coach dans le devoir.** Recherchez les consignes, la [[rubrics|grille d'évaluation]] de l'enseignant, les lectures du cours, les exigences de citation, les conventions de genre, les exemples de l'enseignant et la politique d'usage de l'IA, afin que la rétroaction puisse dire « la grille de votre enseignant vous demande de relier chaque affirmation majeure à des preuves tirées d'au moins deux lectures du cours » au lieu d'inventer des attentes génériques. Le conseil générique est la défaillance par défaut d'un outil d'écriture non ancré, et les étudiants le repèrent en deux séances.
 
 **Fixez les permissions par étape.** L'implication de l'IA à différentes étapes affecte différemment le sentiment de propriété. Le soutien à la planification réduit moins la propriété que le soutien à la rédaction, et la rédaction générée par l'IA produit la baisse la plus forte ([[ai-writing-support-stage-ownership-2026|From Planning to Revision]]). Ce résultat se traduit directement en un tableau de permissions. À la planification, le coach pose des questions, compare des positions, conteste des présupposés et critique des plans, et ne génère pas l'argument. À la rédaction, l'apprenant produit d'abord la prose et le coach développe plutôt qu'il ne prend la main. À la révision, le coach diagnostique et s'arrête là : affirmations floues, preuves manquantes, preuves qui ne soutiennent pas l'affirmation, problèmes d'organisation, brouillon confronté à la grille. À la correction, après la révision, il traite la grammaire, la ponctuation, la concision et la mise en forme des citations.
 

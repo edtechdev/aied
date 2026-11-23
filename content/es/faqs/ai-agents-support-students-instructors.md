@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo pueden los agentes de IA apoyar a estudiantes y docentes?"
 created: "2026-09-22T18:34:19-04:00"
-updated: "2026-11-19T19:35:52-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66
@@ -21,13 +21,17 @@ ai_assist:
     role: translation
     date: "2026-09-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 Un proveedor hace una demostración de cuarenta minutos. El agente lee el programa, redacta el cuestionario de la semana siguiente, señala a tres estudiantes que no han abierto la lectura y se ofrece a escribirles. Su vicerrector quiere una decisión sobre la licencia para final de mes.
 
-Un [[agentic-ai|agente]] planifica, llama a herramientas, mantiene el contexto, divide el trabajo en subtareas y se adapta a lo largo de los turnos, lo que es más de lo que hace un [[conversational-ai|chatbot]]. Los roles que eso abre del lado del estudiante y del lado del docente son reales. La evidencia no muestra que más autonomía produzca más aprendizaje: en el único estudio comparativo directo que hay aquí, un agente y un chatbot empataron. Ponga la autonomía donde una persona revise el resultado, deje la planificación en manos del estudiante y puntúe la calidad docente con su propia rúbrica.
+Un [[agentic-ai|agente]] planifica, llama a herramientas, mantiene el contexto, divide el trabajo en subtareas y se adapta a lo largo de los turnos, lo que es más de lo que hace un [[conversational-ai|chatbot]]. Los roles que eso abre del lado del estudiante y del lado del docente son reales. La evidencia no muestra que más autonomía produzca más aprendizaje: en el único estudio comparativo directo que hay aquí, un agente y un chatbot empataron. Ponga la autonomía donde una persona revise el resultado, deje la planificación en manos del estudiante y puntúe la calidad docente con su propia [[rubrics|rúbrica]].
 
 ## La versión breve
 

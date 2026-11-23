@@ -1,7 +1,7 @@
 ---
 title: "¿Qué evidencia existe sobre las intervenciones de alfabetización en IA en la educación superior?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 audience: [instructors, researchers, administrators]
@@ -22,6 +22,10 @@ ai_assist:
     role: translation
     date: "2026-09-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -36,7 +40,7 @@ La respuesta para esa sala, y el estado de la evidencia en la [[higher-ed|educac
 
 **2.** Haga que se comprometan con su propia respuesta antes de ver la del modelo.
 
-**3.** Califique la crítica con la rúbrica que ya usa para la tarea.
+**3.** Califique la crítica con la [[rubrics|rúbrica]] que ya usa para la tarea.
 
 **4.** Ejecútela más de una vez a lo largo del semestre.
 

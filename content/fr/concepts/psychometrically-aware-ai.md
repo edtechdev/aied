@@ -1,13 +1,13 @@
 ---
 title: IA psychométriquement informée
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
 connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
@@ -51,7 +55,7 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 - **Validité de la structure latente :** [[assessment-latent-structure-human-llm-2026|Strugatski et coll. (2026)]] montrent qu'une posture psychométriquement informée doit aussi vérifier qu'une évaluation mesure le *même construit latent* chez les LLM que chez les humains. Parce que les structures factorielles des réponses des LLM et des humains divergent sur les mêmes instruments, même des modèles qui notent bien peuvent ne pas mesurer le construit que l'examen prétend mesurer — une réserve pour toute évaluation par l'IA qui emprunte des preuves de validité établies sur des humains.
 - **Une étiquette peut mesurer plus, ou moins, que ce qu'elle nomme.** La vectorisation des 55 construits et 272 items de 12 instruments de [[ai-literacy|littératie en IA]] a fait apparaître des paires jangle (même étiquette, mesure différente) et des paires jingle (étiquettes différentes, formulations quasi identiques), retrouvant la fidélité à r = 0,49 — un contrôle pré-collecte montrant que les distinctions de construits survivent jusque dans la formulation des items ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et coll. (2026)]]).
 - **Une échelle de dépendance qui refuse l'ancrage sur les résultats.** Quatre facteurs (usage réflexif, prudent, irréfléchi et collaboratif) ont émergé de 800 réponses et se maintenaient sur une tâche de forme différente (CFI = .91), mesurant le comportement à chaque instant de la tâche plutôt que de l'étiqueter comme bon ou mauvais ([[genai-reliance-scale-problem-solving-2026|Hou et coll. (2025)]]).
-- **Chaînes de traitement des capacités latentes et fixation des seuils :** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et coll. (2026)]] fournissent un modèle concret de notation psychométriquement informée dans un examen national : les scores des items de la grille ne sont jamais sommés directement, mais introduits dans un modèle [[item-response-theory|IRT]] dont les estimations de capacité latente sont découpées par la méthode de fixation des seuils Bookmark en Proficient / Close to Proficiency / Insufficient, la réussite exigeant au moins deux sections Proficient et la restante au moins Close to Proficiency. Les auteurs ont reproduit cette chaîne de traitement sous forme automatisée (une probabilité de 67% de répondre correctement à au moins 7 items de la grille pour le seuil inférieur et à au moins 10 pour le seuil supérieur), permettant de comparer les scores des items produits par l'IA et par des humains au regard de critères de décision identiques plutôt que sur le seul accord brut.
+- **Chaînes de traitement des capacités latentes et fixation des seuils :** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et coll. (2026)]] fournissent un modèle concret de notation psychométriquement informée dans un examen national : les scores des items de la [[rubrics|grille]] ne sont jamais sommés directement, mais introduits dans un modèle [[item-response-theory|IRT]] dont les estimations de capacité latente sont découpées par la méthode de fixation des seuils Bookmark en Proficient / Close to Proficiency / Insufficient, la réussite exigeant au moins deux sections Proficient et la restante au moins Close to Proficiency. Les auteurs ont reproduit cette chaîne de traitement sous forme automatisée (une probabilité de 67% de répondre correctement à au moins 7 items de la grille pour le seuil inférieur et à au moins 10 pour le seuil supérieur), permettant de comparer les scores des items produits par l'IA et par des humains au regard de critères de décision identiques plutôt que sur le seul accord brut.
 - **Un modèle peut sembler calibré tout en prédisant surtout une seule étiquette.** Demander à GPT-4o et Gemini 2.0 Flash d'inférer des dimensions de style d'apprentissage à partir des dialogues de 153 étudiants de premier cycle a produit une exactitude modérée que le rappel par classe a révélée comme une prédiction de l'étiquette dominante, les apprenants Intuitifs et Globaux étant sous-identifiés et le [[prompt-engineering|prompting]] few-shot amplifiant parfois le biais au lieu de le supprimer ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi et Robb (2026)]]).
 
 ## Connexions

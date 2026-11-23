@@ -1,13 +1,13 @@
 ---
 title: "¿Cómo puedo reducir las trampas con IA en mi curso?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -150,7 +154,7 @@ Una casilla es una declaración. Una casilla registra que un estudiante hizo cli
 
 ## Lo que le van a responder
 
-**"No tengo tiempo para rediseñar un curso este semestre."** No rediseñe el curso. Rediseñe una tarea: un paso sin asistencia, una línea de la rúbrica con puntos. Es un cambio de dos horas, y es el cambio que destaca la revisión de 72 estudios.
+**"No tengo tiempo para rediseñar un curso este semestre."** No rediseñe el curso. Rediseñe una tarea: un paso sin asistencia, una línea de la [[rubrics|rúbrica]] con puntos. Es un cambio de dos horas, y es el cambio que destaca la revisión de 72 estudios.
 
 **"Las defensas orales son imposibles con 300 estudiantes."** Entonces no haga 300. Dé más peso al componente a libro cerrado, exija artefactos de proceso y haga comprobaciones orales por muestreo en las entregas que parecen incoherentes con el trabajo anterior. Trescientos estudiantes no necesitan 300 conversaciones para cambiar el cálculo.
 

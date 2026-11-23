@@ -1,7 +1,7 @@
 ---
 title: "Pensée informatique"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T11:55:53-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -61,6 +65,18 @@ Les compétences durables se déplacent dès lors que la mise en œuvre est auto
 - **Un instrument validé situe là où la pensée informatique est la plus difficile.** Un test de pensée informatique à 34 items, construit avec une conception centrée sur les données probantes et validé par la théorie de la réponse à l'item auprès de 461 étudiants en programmation assistée par IA, a concentré la difficulté dans la représentation des données, le séquencement des opérateurs logiques et les structures de boucles, plutôt que de la répartir uniformément sur le programme ([[zhang-ct-ai-training-test-2026|Zhang et Zhang (2026)]]).
 
 - La pensée informatique se mesure aussi comme une disposition : dans une étude de jeu de trois semaines en cinquième année, les tendances autodéclarées de pensée informatique ajustées favorisaient la classe avec IA générative, 4.325 contre 4.037 (p = .046, êta-carré partiel = .052, n = 78). Un test de connaissances algorithmiques ne les séparait pas (80.7 contre 74.9), de sorte que les mesures de tendance et de connaissances traçaient des construits différents ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
+
+Les profils de sous-compétences compliquent le score unique de pensée informatique que rapporte une conception pré-post. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij et Khlaisang (2026)]] ont fait passer 28 étudiants thaïlandais de premier cycle hors informatique par huit semaines de séances de trois heures associant un cycle de [[design-thinking|design thinking]] en cinq étapes à la construction d'applications en faible codage, notant le travail de projet sur une [[rubrics|grille]] à trois points. La pensée informatique moyenne est passée de 1,13 à la première séance à 1,80 puis 2,49, la pensée algorithmique étant le filon le plus fort à 2,08 avec une trajectoire de 1,46 à 1,93 puis 2,86. La pensée logique se situait en moyenne à 1,54 et a à peine bougé entre les deux premières séances, de 1,04 à 1,29, avant d'atteindre 2,29 à la troisième — un rappel que les progrès d'une composante n'impliquent pas que les autres ont suivi.
+
+## La pensée systémique comme pratique de la pensée informatique
+
+La pensée systémique est l'un des quatre domaines de la taxinomie de la pensée informatique pour les mathématiques et les sciences développée par Weintrop et ses collègues, aux côtés des Pratiques de données, des Pratiques de résolution de problèmes computationnels et des Pratiques de modélisation et de simulation. Sa définition est précise : **la capacité de définir les frontières d'un système et de synthétiser les interactions au niveau micro en un comportement au niveau macro**. C'est une capacité cognitive située au niveau de l'apprenant — une manière de raisonner sur un système — et elle se distingue de la posture, située au niveau de l'environnement, qui consiste à traiter un environnement d'apprentissage comme un système ([[learning-environments-as-systems|les environnements d'apprentissage comme systèmes]]).
+
+C'est aussi le domaine où l'évaluation se rompt en premier. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch et Rebello (2026)]] ont codé les explications écrites de 936 étudiants dans un cours d'introduction à la physique computationnelle selon cette taxinomie, en calibrant une ligne de base humaine sur 10 étudiants (60 réponses, κ de Fleiss = 0,53) puis en codant 50 étudiants (300 réponses) par vote majoritaire. Les étudiants ont le plus progressé en Pratiques de données (p < 0,001, d = 1,03), avec des gains modérés en Résolution de problèmes computationnels (d = 0,52) et en Pensée systémique (d = 0,45). Mais la Pensée systémique était le construit le moins fiable pour *les deux*, humains et modèles : accord humain κ = 0,51 et κ du LLM = 0,48, contre κ = 0,90 pour les Pratiques de données et κ = 0,78 pour la Modélisation et la simulation. Les auteurs lisent cette difficulté comme venant de la complexité du construit plutôt que d'une déficience du modèle — un construit à plusieurs composantes qui demande à l'étudiant d'identifier les composantes *et* d'expliquer leurs interactions et conséquences est plus difficile à coder qu'un construit bien défini. La Modélisation et la simulation a affiché d = 0,00 pour une raison sans rapport, un effet plafond : la moyenne avant enseignement était déjà de 1,62 sur 2, si bien que cet item mesurait des connaissances préalables plutôt que la progression.
+
+L'implication pratique est un problème de conception de grille, non de modèle. Leur recommandation est de réécrire la [[rubrics|grille d'évaluation]] pour que l'identification des composantes du système soit notée séparément de l'explication de leurs interactions, et de lire un faible accord automatisé sur un construit intégré comme un signal de réviser l'instrument plutôt que d'abandonner l'automatisation. C'est le même geste que la recherche sur les grilles d'évaluation atteint du côté de la notation : c'est l'instrument, et non le modèle, qui calibre.
+
+Le construit voyage au-delà de la physique. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz et Castro Samayoa (2026)]] nomment la pensée systémique comme l'une des capacités qu'Aoun dit *à l'épreuve des robots* — la pensée critique, la pensée systémique et l'agilité culturelle — celles que la pratique construit et que la délégation ne construit pas. [[huang-ai-literacy-vocational-problem-solving-2026|Huang et ses collègues (2026)]] délimitent leur propre construit de « pensée systématique » par rapport à elle, traitant le leur comme une mesure étroite à quatre dimensions (structuration, raisonnement, priorisation, intégration) et refusant explicitement de l'appeler pensée systémique au sens large. Et [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea et Valencia-Silva (2026)]] avertissent que l'engagement n'est pas la pensée systémique — une distinction qui compte lorsqu'une grille sert à certifier une compétence qu'elle n'a pas été écrite pour mesurer.
 
 ## CT and the shift from AI consumers to producers, creators, and designers
 

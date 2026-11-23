@@ -1,7 +1,7 @@
 ---
 title: "Tipo de pregunta de texto con IA para Moodle"
 created: "2026-11-12T20:15:00-05:00"
-updated: "2026-11-13T14:15:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: resource
 summary: "Un tipo de pregunta de Moodle de código abierto (GPL v3) que califica respuestas de texto libre con un modelo de lenguaje grande contra una instrucción por pregunta y un esquema de calificación opcional, usando OpenAI, Azure o un modelo Ollama autoalojado y mostrando la retroalimentación de la IA a una persona que califica."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -21,6 +21,10 @@ translation_of: resources/moodle-qtype-aitext
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -30,7 +34,7 @@ connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-ass
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-La mayoría de las integraciones de cuestionarios con IA envían cada respuesta a una llamada de calificación fija. Este tipo de pregunta de Moodle hace lo contrario: el profesorado escribe la rúbrica. Cada pregunta lleva una **instrucción** que dice al modelo cómo evaluar la respuesta y un **esquema de calificación** opcional que describe cómo se otorgan los puntos, de modo que un ítem como «escriba una frase en pasado» puede especificar diez puntos sin errores, cero por gramática rota y un punto menos por cada falta de ortografía. El modelo devuelve una nota y [[feedback|retroalimentación]], y el profesorado puede ver esa retroalimentación junto a la respuesta cuando califica a mano.
+La mayoría de las integraciones de cuestionarios con IA envían cada respuesta a una llamada de calificación fija. Este tipo de pregunta de Moodle hace lo contrario: el profesorado escribe la [[rubrics|rúbrica]]. Cada pregunta lleva una **instrucción** que dice al modelo cómo evaluar la respuesta y un **esquema de calificación** opcional que describe cómo se otorgan los puntos, de modo que un ítem como «escriba una frase en pasado» puede especificar diez puntos sin errores, cero por gramática rota y un punto menos por cada falta de ortografía. El modelo devuelve una nota y [[feedback|retroalimentación]], y el profesorado puede ver esa retroalimentación junto a la respuesta cuando califica a mano.
 
 ## Qué puede hacer con él
 

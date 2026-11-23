@@ -2,7 +2,7 @@
 
 title: "La fracture numérique"
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 connected_resources: [public-ai-libraries]
@@ -10,10 +10,14 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -27,7 +31,7 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -61,6 +65,8 @@ Le tournant de l'inférence en périphérie ajoute une dimension matérielle à 
 - **L'alternance codique est une exclusion à elle seule.** La plupart des outils de cours par [[llm|LLM]] supposent un flux audio anglais monolingue et une connexion Internet fiable, ce qui exclut les classes mêlant l'anglais et une langue familiale ; les données indiennes UDISE+ situent l'accès à Internet dans les écoles près de 54 % avec un écart urbain-rural de 24 points, et un compagnon bilingue répond par une transcription sur appareil et un stockage local d'abord ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 
 - **Les services numériques publics reproduisent la fracture.** La plateforme de gouvernement électronique eCitizen du Kenya est principalement en anglais, avec un swahili limité et une interface uniquement textuelle, ce qui exclut les jeunes peu lettrés, les personnes malvoyantes et les jeunes ruraux ; des entretiens et une table ronde de onze personnes portant sur quatre plateformes de moyens de subsistance (Ajira Digital, KRA iTax, HELB, YEDF) désignent les technologies linguistiques et une conception inspirée des WCAG 2.1 comme les leviers d'inclusion ([[amol-ai-egovernance-digital-inclusion-2026|Amol et Wanzare (2026)]]).
+
+- **Désagréger l'usage, pas seulement l'accès.** La [[raut-ai-rural-education-india-2026|revue intégrative de Raut]] rapporte que parmi les adolescents ruraux indiens de 14 à 16 ans, 85,5 % des garçons et 79,4 % des filles ont dit pouvoir utiliser un smartphone, si bien que la disponibilité du foyer sous-estime un écart de genre dans l'usage concret.
 
 ## L'IA creuse (et peut combler) les fractures
 

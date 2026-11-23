@@ -1,7 +1,7 @@
 ---
 title: L'éthique
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T11:56:30-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,10 +9,14 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -68,6 +72,8 @@ L'usage éthique de l'IA n'est pas seulement une affaire de principes mais aussi
 - **Les cadres normatifs ne sont pas interchangeables.** Parmi 151 étudiants de premier cycle espagnols, l'équité morale était une condition nécessaire de l'intention d'utiliser des LLM pour la préparation aux examens (d = 0.338) mais pas un prédicteur suffisant, tandis que les jugements conséquentialiste (β = 0.350) et déontologique (β = 0.329) l'étaient — les étudiants appliquent plusieurs cadres normatifs ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **Une structure multidimensionnelle partagée.** Les six thèmes de [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — couvrant l'éthique des données, l'éthique des algorithmes et l'éthique pédagogique — forment une chaîne causale interconnectée allant des principes fondamentaux (transparence, responsabilité, équité, autonomie) aux résultats comportementaux, soulignant que l'usage responsable de l'IA dépend autant de feuilles de route institutionnelles claires que de la conscience individuelle.
 
+- **La saillance éthique augmente avec le niveau de formation.** [[licardo-students-ethical-challenges-genai-2026|Licardo et Šindić (2026)]] ont interrogé 1 299 étudiants slovènes de l'enseignement primaire, secondaire et supérieur et ont constaté que l'importance perçue des défis éthiques de l'IA générative augmentait de manière monotone avec le niveau. Les connaissances autoévaluées en IA et la familiarité n'ajoutaient rien de détectable, si bien que c'est l'axe du niveau plutôt que les connaissances préalables qui organisait la préoccupation éthique.
+
 ## Des principes à la gouvernance institutionnelle
 
 La recherche situe de plus en plus l'éthique dans les institutions et les structures, et pas seulement dans les individus :
@@ -106,6 +112,8 @@ Ce plaidoyer pratique est renforcé par des travaux empiriques sur la manière d
 
 La conscience éthique, le raisonnement réflexif et les pratiques responsables [[self-report-measures|autodéclarées]] se développent largement indépendamment. Sur trois vagues annuelles portant sur 350 [[higher-ed|étudiants de premier cycle]] nigérians en informatique, [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] ont constaté que les trois progressaient nettement, mais que leurs facteurs de croissance étaient quasi non corrélés et que la conscience initiale ne prédisait pas la croissance ultérieure.
 
+La confiance dans la procédure éthique peut augmenter tandis que la connaissance de soi reste là où elle était. [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones et Hoover (2026)]] ont intégré GenAI dans un cours au choix de premier cycle sur l'éthique du leadership, en séquençant la même [[case-based-learning|étude de cas]] une fois sans aide et une fois avec ChatGPT, et ont analysé 38 enquêtes de confiance appariées auprès d'environ 80 étudiants. Sur une échelle de 0 à 10, la capacité autoévaluée à reconnaître le dilemme éthique passait de 7.24 à 8.39 et celle de prendre une décision solide et justifiable de 7.24 à 8.45, toutes deux à p < .001, et l'usage de théories éthiques pour expliquer une décision passait de 5.39 à 7.08. Les deux items introspectifs — identifier ses propres vertus, valeurs et droits (p = .063) et expliquer comment les valeurs personnelles affectent une décision (p = .124) — ne bougeaient pas, ce qui situe le gain dans la compétence procédurale plutôt que dans la connaissance morale de soi.
+
 ## Connexions
 
 L'éthique est liée à l'[[equity-in-ai-education|équité dans l'IA en éducation]], à la [[privacy|vie privée]], à la [[bias-mitigation|réduction des biais]], à la [[regulation|réglementation]], à la [[pedagogical-safety|sécurité pédagogique]], à l'[[academic-integrity|intégrité académique]] et à la [[governance|gouvernance]]. Elle est le fondement normatif de tous les autres concepts de l'IA en éducation — le cadre à l'intérieur duquel les questions d'équité, de transparence, d'autonomie et de sécurité sont posées et résolues.
@@ -115,3 +123,9 @@ L'éthique est liée à l'[[equity-in-ai-education|équité dans l'IA en éducat
 - **« Le cadre de la tricherie suffit pour penser l'éthique de l'IA générative. »** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] soutiennent que les établissements devraient trancher les questions d'IA générative par une **éthique de partenariat plutôt que par un cadre de tricherie**. Le cadre détermine quelles questions sont posées, et un cadre de faute ne peut pas interroger la finalité pédagogique.
 - **« Les enseignants et les étudiants s'accordent sur ce qui est éthique. »** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç et Sever (2026)]], une étude [[mixed-methods-research|à méthodes mixtes]] portant sur **971 étudiants et 135 enseignants**, constatent que les dimensions éthiques divergent entre les groupes. Une politique écrite depuis une seule perspective décrira mal l'autre.
 - **« Le consensus éthique précède l'usage. »** **L'usage croît plus vite que le consensus éthique** : sur quatre semestres dans un programme américain de formation des enseignants, l'usage de l'IA générative par les étudiants **est passé de 57 % à 83 % pour la préparation des évaluations**. Les normes se forment par la pratique plutôt que l'inverse.
+
+## L'enseignement de l'éthique fonctionne-t-il vraiment ?
+
+L'enseignement de l'éthique de l'IA est souvent justifié par une hypothèse que personne ne teste : que l'[[ethics|enseignement de l'éthique]] change quelque chose. Une revue systématique et méta-analyse de 2024 portant sur 66 études et 9 978 étudiants est le meilleur test disponible de cette hypothèse dans l'éducation en général. Les interventions éthiques ont relevé les résultats éthiques et moraux de g = 0.55 par rapport aux conditions de contrôle, et 73 % des effets réels dépassaient le seuil d'utilité préenregistré — mais **c'est le format de délivrance qui portait la modération** : les formats fondés sur la discussion et la discussion-plus-didactique fonctionnaient (g = 0.56 et g = 0.68), tandis que l'enseignement par cours magistral seul ne différait pas de zéro (g = 0.10). La délivrance en ligne n'était pas distinguishable de la présence en classe. ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+Le transfert vers l'éthique de l'IA est une inférence plutôt qu'un résultat de cette étude, mais c'est une inférence solide : un module d'éthique de l'IA délivré sous forme de cours sur les biais et l'intégrité est, sur ces données probantes, le format le plus faible disponible.

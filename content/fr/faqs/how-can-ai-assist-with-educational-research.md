@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle assister la recherche en éducation ?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -20,6 +20,10 @@ translation_of: faqs/how-can-ai-assist-with-educational-research
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -42,7 +46,7 @@ La réponse courte pour cette réunion : l'IA peut prendre la recherche document
 
 **2.** Placez l'automatisation sur le dépistage. Gardez l'extraction des données, la réconciliation et la synthèse chez des personnes.
 
-**3.** Arrêtez le livre de codes et la grille avant qu'une passe automatisée ne touche aux données.
+**3.** Arrêtez le livre de codes et la [[rubrics|grille d'évaluation]] avant qu'une passe automatisée ne touche aux données.
 
 **4.** Décidez ce que vérifier veut dire et qui le signe. L'accord entre un modèle et un codeur est une mesure de similarité, pas un résultat de qualité.
 

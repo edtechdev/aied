@@ -1,7 +1,7 @@
 ---
 title: "Théories de l'apprentissage"
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
 connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
@@ -82,7 +86,7 @@ Des travaux théoriques récents étendent le fil classique dans plusieurs direc
 
 ## Comment les théories s'articulent
 
-Plutôt que de traiter les théories de l'apprentissage comme une philosophie abstraite, chacune est ancrée dans la recherche en IA en éducation qui l'utilise. Les pages [[constructivist|constructivisme]] et [[behaviorism|béhaviorisme]] documentent comment les conceptions d'IA incarnent (ou trahissent) chaque théorie ; la théorie de la charge cognitive, l'[[self-regulated-learning|apprentissage autorégulé]], la [[metacognition|métacognition]] et le [[transfer-of-learning|transfert d'apprentissage]] relient la théorie à des mécanismes et résultats spécifiques de l'IA. Cela reflète la manière dont d'autres domaines parapluies tels que la [[feedback|rétroaction]] et l'[[assessment|évaluation]] sont traités, comme un système cohérent de concepts en interaction plutôt que des pages isolées.
+Plutôt que de traiter les théories de l'apprentissage comme une philosophie abstraite, chacune est ancrée dans la recherche en IA en éducation qui l'utilise. Les pages [[constructivist|constructivisme]] et [[behaviorism|béhaviorisme]] documentent comment les conceptions d'IA incarnent (ou trahissent) chaque théorie ; la théorie de la charge cognitive, l'[[self-regulated-learning|apprentissage autorégulé]], la [[metacognition|métacognition]] et le [[transfer-of-learning|transfert d'apprentissage]] relient la théorie à des mécanismes et résultats spécifiques de l'IA. Cela reflète la manière dont d'autres domaines parapluies tels que la [[feedback|rétroaction]] et l'[[assessment|évaluation]] sont traités, comme un système cohérent de concepts en interaction plutôt que des pages isolées. La frontière mérite d'être nommée : les [[learning-environments-as-systems|environnements d'apprentissage comme systèmes]] ne sont pas une théorie de l'apprentissage. Ils ne font aucune affirmation sur ce qui se passe à l'intérieur d'un apprenant ; ils traitent l'environnement comme un système à plusieurs niveaux et demandent comment y placer les interventions et la mesure.
 
 ## Théories de l'apprentissage et « éducation à propos de l'IA »
 
@@ -94,7 +98,7 @@ Les théories de l'apprentissage apparaissent aussi comme contenu dans les progr
 
 Aux côtés des familles classiques, un ensemble de théories porte spécifiquement sur l'apprentissage avec des systèmes d'IA, et ces cadres portent les implications de conception que les théories plus anciennes laissent ouvertes. L'[[yan-agentivism-learning-theory-ai-2026|agentivisme (Yan et Gašević 2026)]] en est un exemple de portée moyenne. Il définit l'apprentissage comme une croissance durable de la capacité humaine plutôt que comme l'accomplissement réussi d'une tâche, et nomme quatre mécanismes : agence déléguée, surveillance et vérification épistémiques, intériorisation reconstructive, et transfert sous soutien réduit. Il énonce aussi six propositions testables, parmi lesquelles que le soutien d'IA préservant la responsabilité de l'apprenant dans le cadrage des problèmes, la fixation des critères et la justification produit un apprentissage plus fort qu'un soutien qui livre les réponses.
 
-La **Symbiose pédagogique** d'[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] formule une affirmation ontologique plus forte : l'apprenant est une entité *post-humaine* dont la cognition est hybride plutôt qu'assistée par l'outil, organisée par quatre principes : délestage et augmentation cognitifs, co-construction épistémique, symbiose métacognitive, et formation dynamique de l'identité ; opérationnalisée par une grille de portfolio symbiotique et un [[teacher-role|rôle d'enseignant]] « chorégraphe cognitif » ; elle est explicitement non testée.
+La **Symbiose pédagogique** d'[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] formule une affirmation ontologique plus forte : l'apprenant est une entité *post-humaine* dont la cognition est hybride plutôt qu'assistée par l'outil, organisée par quatre principes : délestage et augmentation cognitifs, co-construction épistémique, symbiose métacognitive, et formation dynamique de l'identité ; opérationnalisée par une [[rubrics|grille d'évaluation]] de portfolio symbiotique et un [[teacher-role|rôle d'enseignant]] « chorégraphe cognitif » ; elle est explicitement non testée.
 
 ## Implications pour la pratique
 

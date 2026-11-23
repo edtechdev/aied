@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-17T16:30:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,10 +11,14 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -135,3 +139,9 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 - **«El estudiantado que necesita ayuda no la pide.»** Un **experimento preregistrado** en asignaturas de grado con matrícula numerosa envió mensajes al estudiantado a través de un chatbot académico y encontró una **mayor adopción de la tutoría y el apoyo complementario**. El empujón movió la conducta, así que la barrera era el [[prompt-engineering|diseño de la indicación]] y no la disposición.
 - **«Las peticiones de ayuda tienen que ver con el aprendizaje.»** La **demanda de apoyo operativo** complica ese supuesto: en **4.093 consultas**, al menos el **20,4% preguntaba por el estado de una entrega pendiente y no por conocimiento**. Un quinto de la demanda de ayuda era administrativa.
 - **«Usar un tutor de IA significa supervisar el propio aprendizaje.»** En un estudio con **98 estudiantes de 9.º grado** que usaban un tutor de IA generativa, las interacciones estuvieron **dominadas por peticiones instrumentales, con casi ninguna supervisión ni evaluación de su propio aprendizaje**. Pedir respuestas no es búsqueda de ayuda en el sentido del constructo.
+
+## Cuando el hábito sustituye a preguntar
+
+La búsqueda de ayuda se estudia habitualmente como una decisión —un juicio sobre si preguntar merece el costo—. Un estudio PLS-SEM de 2026 con 392 estudiantes de ingeniería y docentes en Filipinas sugiere que, una vez que la [[generative-ai|IA generativa]] está integrada, la decisión ya está tomada en gran medida: **el hábito predijo el desplazamiento de la búsqueda de ayuda humana con β = 0,711**, mientras que la [[technology-acceptance-model|intención conductual]] la predijo con β = 0,039, una vía estadísticamente indistinguible de cero. La mitad de quienes usaban IA generativa en esa muestra (49,6%) declaró pedir ayuda a una persona con menos frecuencia, y solo el 15,8% nombró a una persona como primer recurso cuando se atascaba, frente al 30,4% que nombró una herramienta.
+
+De ahí se derivan dos implicaciones sobre cómo se andamia la búsqueda de ayuda. Primera, las intervenciones orientadas a las actitudes o a hacer más atractivo preguntar compiten con una rutina ya automática: necesitan apuntar a la rutina, no a la creencia. Segunda, el único constructo que *redujo* el desplazamiento fue la preocupación por la [[academic-integrity|integridad académica]] (β = −0,329), lo que sugiere que preservar la consulta humana es más plausible mediante puntos de control interpersonales obligatorios —revisión entre pares, defensa oral, ayuda supervisada en el laboratorio— que mediante mensajes. ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])

@@ -1,19 +1,23 @@
 ---
 title: "Educación primaria"
 created: "2026-11-15T10:10:19-05:00"
-updated: "2026-11-15T10:10:19-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [scaffolding, game-based-learning, self-regulated-learning, social-emotional-learning]
 technology: [adaptive-learning, intelligent-tutoring, conversational-ai, generative-ai]
 level: [primary education, k 12]
 confidence: medium
 translation_of: concepts/primary-education
-source_updated: "2026-11-15T06:45:00-05:00"
+source_updated: "2026-11-22T14:15:40-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-15"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 contributors: [editor]
 connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
@@ -67,6 +71,8 @@ El sistema nunca es todo el tratamiento. Un docente decide quién lo usa, durant
 
 - **Un programa de escritura con [[generative-ai|IA generativa]] de nueve semanas movió lo afectivo, no la profundidad.** Con 301 estudiantes de quinto y sexto grado del este de China asignados por clase, el programa elevó el yo ideal de escritura en segunda lengua y la flotabilidad académica y mejoró el uso de la lengua. No movió la mentalidad de crecimiento, el compromiso cognitivo o metacognitivo ni la organización, y los efectos fueron pequeños: η² parcial de .030 para la [[motivation|motivación]] y de .014 para el uso de la lengua ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]).
 
+- **Cribar la escritura con comparaciones entre modelos superó a la puntuación por rúbrica a escala.** Siete LLM juzgaron la escritura informativa de los cursos 3.º a 6.º por pares y no contra puntuaciones absolutas de rúbrica; las puntuaciones convergieron con las valoraciones de los investigadores (r = .59–.73), la media de las puntuaciones de tres oleadas clasificó la competencia en inglés como lengua extranjera con un AUC = .82–.86, y los modelos más caros apenas añadieron validez ([[llm-comparative-judgment-writing-screening-2026|Mercer y Reed, 2026]]).
+
 La retroalimentación contingente sobre el propio intento del niño logra lo que una guía genérica no puede, y la ganancia crece cuando un adulto retoma lo que la retroalimentación planteó.
 
 ## Alfabetización en IA y el uso propio de chatbots por parte de los niños
@@ -81,6 +87,8 @@ La retroalimentación contingente sobre el propio intento del niño logra lo que
 
 La alfabetización en IA aquí no es un [[curriculum-design|currículo]] hecho más simple. Un marco para un niño de nueve años y otro para uno de diecisiete difieren en especie: el aprendiz más joven necesita historias, [[metaphors-and-analogies|analogías]] y hacer cosas, mientras que el mayor puede criticar un sistema y dar cuenta de una decisión.
 
+Los años de primaria son los que menos evidencia aportan de cualquier franja: cinco de 118 estudios revisados cubren la primera infancia y la primaria inferior, frente a veintisiete en la primaria superior, y ninguno de los nueve instrumentos validados registra el proceso de trabajo con la IA ([[guo-ai-literacy-developmental-paces-2026|Guo et al., 2026]]).
+
 ## Qué contiene la alfabetización en IA y qué miden los estudios
 
 Una revisión de 2025 de 25 estudios empíricos de primaria completa el contenido de esa afirmación: el constructo que traza tiene cuatro hilos, y se enseñan en proporciones muy desiguales. [[yim-ai-literacy-primary-schools-review-2025|Yim y Su (2025)]] encontraron alfabetización digital para interactuar con la IA en 19 de los 25 estudios, pensamiento computacional en 10, ética de la IA en 10 y alfabetización crítica de datos solo en 5.
@@ -89,7 +97,7 @@ Una unidad de programación, por tanto, alcanza uno de cada cuatro hilos. El hil
 
 La enseñanza sigue la lógica construccionista, pero con agentes en lugar de papel. Los agentes aparecieron en 15 de 25 estudios, los dispositivos centrados en software en 8 y las actividades sin conexión en 3; Teachable Machine, Jibo, Cozmo y Alexa permitieron a los niños entrenar un modelo sin escribir código. De los 16 estudios que nombran un marco, 8 usaron el construccionismo o el constructivismo y 6 el modelo ARCS. Los revisores cuestionan la secuencia habitual que enseña programación basada en reglas antes del aprendizaje basado en datos, ya que el aprendizaje automático pide al niño curar ejemplos en lugar de escribir reglas.
 
-Lo que cuenta como evidencia es más delgado que lo que se enseña. Las encuestas aparecieron en 19 de 25 estudios, a menudo como ítems únicos sobre disposición o intención, y solo 15 de 25 informaron algún resultado de aprendizaje. Las entrevistas (11) y las rúbricas de artefactos (8) fueron donde apareció la comprensión conceptual. Esta es la base bajo la escala de [[self-assessment|autoevaluación]] validada más arriba: un instrumento sólido para la competencia percibida, en una literatura que rara vez pone a prueba la competencia demostrada.
+Lo que cuenta como evidencia es más delgado que lo que se enseña. Las encuestas aparecieron en 19 de 25 estudios, a menudo como ítems únicos sobre disposición o intención, y solo 15 de 25 informaron algún resultado de aprendizaje. Las entrevistas (11) y las [[rubrics|rúbricas]] de artefactos (8) fueron donde apareció la comprensión conceptual. Esta es la base bajo la escala de [[self-assessment|autoevaluación]] validada más arriba: un instrumento sólido para la competencia percibida, en una literatura que rara vez pone a prueba la competencia demostrada.
 
 Un mapa sistemático de la investigación en ciencias de primaria llega al mismo problema desde otro corpus. En 103 publicaciones indexadas en Scopus de 2023 a principios de 2026, [[barokah-ai-elementary-science-review-2026|Barokah, Hermita y Putra (2026)]] encontraron que los resultados se ampliaban hacia territorio afectivo y regulatorio mientras los resultados epistémicos seguían siendo escasos. Pocos estudios preguntaron si los niños podían separar la observación de la inferencia o juzgar los límites de una afirmación generada por IA. Su advertencia sobre la evaluación es específica de esta franja: las tareas de desempeño de la primaria superior producen explicaciones parciales, dibujos y gestos, y un evaluador que marca como incorrecta una respuesta productiva para el desarrollo elimina el valor formativo. Los autores de ambas literaturas se concentran en China, Estados Unidos y Hong Kong, y la revisión de primaria añade una brecha de género, con los niños informando más confianza y disposición (Dai et al., 2020, según se informa en Yim y Su).
 
@@ -99,7 +107,11 @@ Un mapa sistemático de la investigación en ciencias de primaria llega al mismo
 
 - **Cuente el trabajo de verificación.** El profesorado del ensayo de aritmética valoraba las listas de ejercicios ya preparadas, pero señaló la fotografía, la espera y la corrección de errores de reconocimiento como el costo. La carga de trabajo se asoció negativamente con las ganancias, de forma más clara para la demanda mental, −2.569.
 
+- **Mantenga el momento conductual en manos del adulto.** En 923 diálogos fundamentados en casos extraídos de la literatura sobre educación especial, el más fuerte de 11 tutores cumplió una intervención documentada solo en el 43,3 % de los planes a largo plazo, y recurrió a la tranquilidad cuando el caso prescribía verificar primero el trabajo ([[tutor-case-bench-challenging-behaviors-2026|Park et al., 2026]]).
+
 - **Forme antes de escalar.** Solo el 19.2 % de 302 docentes de primaria turcos encuestados tenía alguna formación en IA, y la formación y la frecuencia de uso fueron las variables asociadas de forma más consistente con percepciones favorables. La disposición (M = 3.98) iba muy por delante de la experiencia (M = 3.00) ([[cigerci-primary-teachers-perceptions-ai-mathematics-2026|Ciğerci y Uygun, 2026]]).
+
+- **Un observador de IA es una entrada para el juicio profesional, no una evaluación.** En 12 vídeos de aulas de primaria puntuados con el marco TEACH Primary, ocho puntos finales de LLM discreparon de personas expertas certificadas por encima del 55 % de acuerdo exacto, las repeticiones variaron mucho y los modelos fiables fueron a menudo los menos exactos, porque dieron crédito a las señales verbales explícitas por encima de la [[self-regulated-learning|autorregulación]] sostenida del estudiantado ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]]).
 
 - **Proteja la frontera entre el conocimiento personal y el compartido.** Los planes de clase generados pueden parecer práctica validada colectivamente sin llevar ninguna garantía comunitaria. El riesgo recae con más fuerza sobre los novatos, cuyo conocimiento [[pedagogy|pedagógico]] del contenido aún se está formando ([[webb-pck-genai-2026|Webb et al., 2026]]).
 

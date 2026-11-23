@@ -1,7 +1,7 @@
 ---
 title: "Premier cycle universitaire"
 created: "2026-11-15T11:52:55-05:00"
-updated: "2026-11-15T11:52:55-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
 assessment: [formative-assessment, assessment, learning-gains]
@@ -9,7 +9,7 @@ technology: [generative-ai, conversational-ai, intelligent-tutoring, llm]
 level: [undergraduate, higher ed]
 confidence: medium
 translation_of: concepts/undergraduate-education
-source_updated: "2026-11-15T06:35:59-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -17,13 +17,17 @@ ai_assist:
     role: translation
     date: "2026-11-15"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [scaffolding, help-seeking, feedback-literacy, self-regulated-learning, desirable-difficulties, process-oriented-assessment, self-report-measures, ai-detection, learning-analytics, student-support-and-success, equity-in-ai-education, writing-education, stem-education]
 connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-use-changing-institutional-policy-physics-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, li-who-benefits-llms-prompt-engineering-equity-2026, llm-math-homework-offloading-traces-2026, patrick-ai-higher-order-thinking-systematic-review-2025, genai-reliance-human-agency-collaborative-learning-2026, genai-cognitive-offloading-learner-agency-review-2026, ai-enabled-course-development-first-year-adjustment-2026, thulin-chatbot-mental-health-students-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Synthèse :** Le premier cycle universitaire est le lieu où l'IA rencontre les plus grands effectifs et l'[[assessment|évaluation]] la plus standardisée : des cours d'introduction de première et deuxième année où un enseignant forme plusieurs centaines d'étudiants selon une grille commune. Les essais à ce niveau se divisent selon la conception plutôt que selon le modèle. Un tuteur construit à partir de la pédagogie propre à un cours a battu l'[[active-learning|apprentissage actif]] en classe, tandis qu'un assistant de cours bien ancré, déployé sans intégration pédagogique, a fait baisser les notes et la participation. Les données les plus solides portent sur la [[feedback|rétroaction]] à grande échelle, les [[help-seeking|dispositifs d'aide]] [[scaffolding|d'étayage]], le matériel d'étude vérifié et les relances qui déplacent les échéances administratives ; les plus faibles sur l'idée qu'un assistant général accroît ce que les étudiants savent faire sans aide.
+> **Synthèse :** Le premier cycle universitaire est le lieu où l'IA rencontre les plus grands effectifs et l'[[assessment|évaluation]] la plus standardisée : des cours d'introduction de première et deuxième année où un enseignant forme plusieurs centaines d'étudiants selon une [[rubrics|grille commune]]. Les essais à ce niveau se divisent selon la conception plutôt que selon le modèle. Un tuteur construit à partir de la pédagogie propre à un cours a battu l'[[active-learning|apprentissage actif]] en classe, tandis qu'un assistant de cours bien ancré, déployé sans intégration pédagogique, a fait baisser les notes et la participation. Les données les plus solides portent sur la [[feedback|rétroaction]] à grande échelle, les [[help-seeking|dispositifs d'aide]] [[scaffolding|d'étayage]], le matériel d'étude vérifié et les relances qui déplacent les échéances administratives ; les plus faibles sur l'idée qu'un assistant général accroît ce que les étudiants savent faire sans aide.
 
 ## Questions à examiner
 

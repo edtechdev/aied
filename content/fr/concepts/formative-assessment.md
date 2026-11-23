@@ -1,7 +1,7 @@
 ---
 title: L'évaluation formative
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
 connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
@@ -52,7 +56,7 @@ Les systèmes d'IA génèrent des items d'évaluation formative selon diverses m
 - **Une banque d'items générés trop faciles ne donne aucun signal formatif.** Lors d'un déploiement de 10 semaines, environ 70% des items d'exercice générés par l'IA recevaient une réponse correcte de la part de tous les étudiants (p = 1.0), si bien que les quiz à faibles enjeux, qui se déroulaient toutes les 15 à 20 minutes, étaient bien accueillis mais ne portaient presque aucune information discriminante pour adapter l'enseignement ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 - **La notation automatisée des dissertations :** les cadres multi-agents (par exemple MASS) améliorent la cohérence par rapport à des [[llm|LLM]] isolés pour la [[automated-essay-scoring|notation des dissertations]], bien que l'[[explainable-ai|interprétabilité]] des décisions de notation multi-agents demeure un défi ouvert.
 - **Les pipelines de notation formative :** [[cotal-formative-assessment-scoring-2026|CoTAL]] couple le prompting par chaîne de pensée (Chain-of-Thought) à l'[[active-learning|apprentissage actif]] et à l'Evidence-Centered Design pour produire une notation d'évaluation formative généralisable, avec une [[prompt-engineering|ingénierie des consignes]] impliquant un humain dans la boucle.
-- **Les évaluations à haute fréquence [[automated-assessment|notées automatiquement]] :** les [[automated-formative-assessments-a-level-sciences|évaluations formatives automatisées en sciences de niveau A]] examinent l'effet d'une évaluation formative à haute fréquence, notée automatiquement, sur les [[learning-gains|résultats d'apprentissage]]. Une revue de cadrage de la notation automatique des réponses courtes en [[science-education|sciences]] (2017–début 2024) confirme que ce cas d'usage formatif des réponses courtes est un domaine doté d'une réelle traction : les modèles de la famille BERT ont dominé la notation automatique jusqu'en 2021, avant le prompting de [[llm|LLM]] plus grands à partir d'environ 2022, et les modèles augmentés par le domaine, sensibles aux grilles et fondés sur la chaîne de pensée ont obtenu les meilleures performances — et pourtant les appels de la revue en faveur d'une évaluation exhaustive, ainsi que les écarts non résolus en matière d'[[bias-mitigation|équité]] et d'explicabilité, invitent à la prudence avant d'étendre de tels systèmes à un usage [[summative-assessment|sommative]] non médiatisé ou à enjeux élevés ([[auto-marking-short-answer-science-2026]]).
+- **Les évaluations à haute fréquence [[automated-assessment|notées automatiquement]] :** les [[automated-formative-assessments-a-level-sciences|évaluations formatives automatisées en sciences de niveau A]] examinent l'effet d'une évaluation formative à haute fréquence, notée automatiquement, sur les [[learning-gains|résultats d'apprentissage]]. Une revue de cadrage de la notation automatique des réponses courtes en [[science-education|sciences]] (2017–début 2024) confirme que ce cas d'usage formatif des réponses courtes est un domaine doté d'une réelle traction : les modèles de la famille BERT ont dominé la notation automatique jusqu'en 2021, avant le prompting de [[llm|LLM]] plus grands à partir d'environ 2022, et les modèles augmentés par le domaine, sensibles aux [[rubrics|grilles]] et fondés sur la chaîne de pensée ont obtenu les meilleures performances — et pourtant les appels de la revue en faveur d'une évaluation exhaustive, ainsi que les écarts non résolus en matière d'[[bias-mitigation|équité]] et d'explicabilité, invitent à la prudence avant d'étendre de tels systèmes à un usage [[summative-assessment|sommative]] non médiatisé ou à enjeux élevés ([[auto-marking-short-answer-science-2026]]).
 
 - **Un quiz ludifié peut être apprécié sans enseigner.** Trente-quatre étudiants de premier cycle en musicologie ont le plus mal noté un quiz adaptatif par IA comparé à un enseignement magistral traditionnel (M = 2.74 sur 5) et se sont partagés 21 contre 13 sur la question de le recommander, la recommandation suivant la sensation d'usage de l'application (usage futur 3.52 contre 1.54) plutôt que la compréhension du sujet (3.81 contre 3.62, p = 0.420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 

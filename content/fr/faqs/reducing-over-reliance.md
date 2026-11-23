@@ -1,7 +1,7 @@
 ---
 title: "Comment éviter que les étudiants ne dépendent excessivement de l'IA ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
@@ -11,11 +11,15 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -28,6 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -176,7 +181,7 @@ Il vous reste un pari raisonnable, fait à peu de frais. Changez un devoir, cons
 
 **« Les étudiants les plus faibles ne vont-ils pas simplement échouer au contrôle sans aide ? »** Parfois oui, et ce résultat est une information plutôt qu'un verdict. Un contrôle sans outil que la majorité d'une classe échoue dit que l'entraînement portait la performance, ce qui est précisément ce que vous aviez besoin de savoir. Pesez-le comme une preuve, réenseignez ce qu'il révèle et proposez une seconde tentative sur une tâche parallèle. Aucune étude ici ne teste si un réenseignement après un contrôle sans aide échoué récupère l'apprentissage : cette partie relève de votre jugement professionnel.
 
-**« Certains de mes étudiants utilisent l'IA comme un étayage honnête. Dois-je les en empêcher ? »** Non. Un étudiant qui lit un indice, essaie l'étape et vérifie le résultat pratique la décharge duplicative qui survit au retrait de l'outil. Ce que vous voulez, c'est une tâche qui garde cet usage disponible et rend la version exécutive moins récompensée, ce qui dépend de ce que la tâche recueille et de ce que la grille rémunère.
+**« Certains de mes étudiants utilisent l'IA comme un étayage honnête. Dois-je les en empêcher ? »** Non. Un étudiant qui lit un indice, essaie l'étape et vérifie le résultat pratique la décharge duplicative qui survit au retrait de l'outil. Ce que vous voulez, c'est une tâche qui garde cet usage disponible et rend la version exécutive moins récompensée, ce qui dépend de ce que la tâche recueille et de ce que la [[rubrics|grille]] rémunère.
 
 **« Les données sont minces, alors pourquoi changer quoi que ce soit ? »** Elles sont minces à des endroits précis, que les limites ci-dessus nomment. Ce qui est constant d'une étude à l'autre, c'est la direction : le placement, la vérification visible et une mesure sans aide. Un devoir changé, avec le résultat sans assistance conservé, est un pari assez petit pour être couru sur cette base.
 

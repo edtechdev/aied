@@ -1,7 +1,7 @@
 ---
 title: Portafolio electrónico
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-15T10:15:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,13 +10,17 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [assessment, authentic-assessment, formative-assessment, feedback, feedback-literacy, generative-ai, self-regulated-learning, metacognition, student-engagement, language-learning, higher-ed, reflection]
 connected_articles: [ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, elsayed-pedagogical-symbiosis-posthuman-learner, pbl-structural-conditions-ai-2026, learn-framework-responsible-genai-pbl-2026]
@@ -46,7 +50,7 @@ La investigación muestra que los portafolios electrónicos son cada vez más ce
 - **ChatGPT + portafolio electrónico para el [[language-learning|aprendizaje de idiomas]].** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] combinan ChatGPT con la evaluación por portafolio electrónico (modelo CEA) para la expresión oral en inglés como lengua extranjera: el MANOVA mostró mejoras significativas en el desempeño oral (F(1)=48,554, p<0,001) y en la [[feedback-literacy|alfabetización en retroalimentación]] (F(1)=16,135, p<0,001), con los portafolios electrónicos apoyando tanto la capacidad de expresión oral como las capacidades [[metacognition|metacognitivas]] para usar la retroalimentación de forma eficaz.
 - **Los portafolios como estrategia de evaluación de la era de la IA.** [[responsible-assessment-ai-era-stanford-2026|Evaluación responsable (2026)]] aboga por pasar de las pruebas puntuales a la **evaluación continua e integrada mediante portafolios** y enfoques basados en competencias. [[pbl-structural-conditions-ai-2026|Rowe (2026)]] señala los portafolios (con defensas orales y práctica observada) como respuestas parciales al problema abierto de la evaluación a escala cuando el producto como indicio se ha roto.
 - **Los portafolios como rastros de aprendizaje evaluables.** [[learn-framework-responsible-genai-pbl-2026|Uden y Hwang (2026)]] usan los **portafolios personales de aprendizaje** como mecanismo del marco LEARN: rastros de aprendizaje evaluables (portafolios, declaración del uso de IA) que hacen transparente y auditable la dependencia de la IA.
-- **Portafolios simbióticos para estudiantes híbridos.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone un **Portafolio Simbiótico** para quien aprende en un contexto posthumano o híbrido, evaluado con una rúbrica de cinco criterios (Diálogo Generativo, Auditoría Epistémica, Reflexión Crítica, etc.): un modelo explícito para evaluar el trabajo colaborativo entre humanos e IA.
+- **Portafolios simbióticos para estudiantes híbridos.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone un **Portafolio Simbiótico** para quien aprende en un contexto posthumano o híbrido, evaluado con una [[rubrics|rúbrica]] de cinco criterios (Diálogo Generativo, Auditoría Epistémica, Reflexión Crítica, etc.): un modelo explícito para evaluar el trabajo colaborativo entre humanos e IA.
 
 ## Por qué los portafolios electrónicos importan para la integración de la IA
 

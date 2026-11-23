@@ -1,7 +1,7 @@
 ---
 title: Gestión del cambio
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-11-15T10:14:19-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,10 +10,14 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -73,6 +77,8 @@ En las instituciones donde la estrategia va por delante de la infraestructura, e
 **Para quienes [[administrator|administran]] y para los [[educational-policy-ai|responsables de política educativa]]**, la evidencia aboga por una gobernanza participativa, la inversión en infraestructura y el desarrollo de capacidades por encima de los documentos estratégicos aspiracionales, traduciendo la política nacional en un apoyo concreto al profesorado en lugar de emitir mandatos de arriba abajo. **Para el profesorado**, la gestión del cambio significa pasar de adoptante a experimentador guiado por la indagación, implicar al [[pedagogical-partnerships|estudiantado como socio]] y anclar la reforma en principios pedagógicos duraderos en lugar de en herramientas que pueden quedar obsoletas en meses, con la advertencia de que el desarrollo profesional debe apuntar a un ciclo de diseño completo (evaluación de necesidades, retroalimentación) y no solo al uso de herramientas, como demuestra la [[dot-framework-survey-2026|encuesta sobre el marco DOT]].
 
 Un estudio de caso institucional traza un arco de difusión de una década en matemáticas de grado, que pasa de la iniciativa individual y los talleres entre pares a la licencia conjunta del profesorado y la financiación central ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
+
+[[learning-environments-as-systems|Los entornos de aprendizaje como sistemas]] aportan el análisis para esto: un esfuerzo de cambio orientado a un nivel produce efectos en los demás, de modo que un programa de desarrollo del profesorado que nunca llega a la carga de trabajo, la contratación o la política cambia las condiciones que deciden si la nueva práctica sobrevive.
 
 El rediseño de un curso tiene un coste que las instituciones deberían presupuestar en lugar de dar por supuesto: adoptar un curso con IA integrada supuso entre 15 y 20 horas de trabajo de rediseño por curso antes de cualquier ajuste continuo ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
 

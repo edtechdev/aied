@@ -1,7 +1,7 @@
 ---
 title: "Open source"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,7 +14,7 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy, mindrouter, amplify-genai]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [open-education, intelligent-tutoring, llm-training-and-fine-tuning, adaptive-learning, edtech-platform, privacy, regulation, governance, agentic-ai, automated-assessment, benchmark, knowledge-tracing, rag, pedagogical-safety, sustainability, research-methods-aied, writing-education, academic-integrity, educational-technology-developers]
 connected_articles: [shen-sustainable-ai-knowledge-base-cs-education-2026, oatutor-open-source-adaptive-tutor-2023, singh-eduqwen-pedagogical-rl-2026, lata-ferpa-compliant-local-llm-autograder, programming-its, aiawe-automated-writing-evaluation, stanbkt-bayesian-knowledge-tracing, zhao-deeptutor-agentic-personalized-tutoring-2026, vismatic-secure-sandbox-cs-education, kar-mathbuddy-affective-math-tutoring-2025, cdpk-pedagogy-benchmark-llms, astra-multi-agent-tutoring-benchmark-2026, mllm-scientific-visualization-literacy, iks-instruct-dataset-indian-knowledge, aied-carbon-footprint-reporting, egai-power-systems-education, mooc-to-maic, agentic-ai-education-scoping-review, yu-academiclaw-student-challenges-ai-agents-2026, omniedu-open-educational-foundation-models-2026]
@@ -49,7 +53,7 @@ Lâchement, « ouvert » en IA éducative signifie que quatre sortes d'artefacts
 
 ## Modèles ouverts et poids ouverts
 
-Les poids ouverts importent le plus là où les données des étudiants ne peuvent pas quitter le campus. [[lata-ferpa-compliant-local-llm-autograder|LaTA]] est un correcteur automatique local-[[llm|LLM]] conforme à la FERPA, prêt à l'emploi, pour des travaux de [[stem-education|STIM]] de deuxième cycle universitaire, construit sur des barèmes et des solutions de référence rédigés par les enseignants, à coût marginal nul par remise. [[programming-its|SCRIPT]], un système de [[intelligent-tutoring|tutorat]] en Python de l'université de Bielefeld, évite délibérément les **API commerciales de grands modèles de langue** et auto-héberge un modèle Llama-70B à poids ouverts pour satisfaire au RGPD et à la loi européenne sur l'IA (qui classe certains usages de l'IA en éducation comme à haut risque), en séparant les journaux d'adresses IP du système de tutorat, en utilisant des noms d'utilisateur pseudonymes, et en enregistrant les frappes au clavier uniquement avec un consentement explicite — un choix que les auteurs créditent aussi d'un impact environnemental plus faible et d'une meilleure reproductibilité.
+Les poids ouverts importent le plus là où les données des étudiants ne peuvent pas quitter le campus. [[lata-ferpa-compliant-local-llm-autograder|LaTA]] est un correcteur automatique local-[[llm|LLM]] conforme à la FERPA, prêt à l'emploi, pour des travaux de [[stem-education|STIM]] de deuxième cycle universitaire, construit sur des [[rubrics|barèmes]] et des solutions de référence rédigés par les enseignants, à coût marginal nul par remise. [[programming-its|SCRIPT]], un système de [[intelligent-tutoring|tutorat]] en Python de l'université de Bielefeld, évite délibérément les **API commerciales de grands modèles de langue** et auto-héberge un modèle Llama-70B à poids ouverts pour satisfaire au RGPD et à la loi européenne sur l'IA (qui classe certains usages de l'IA en éducation comme à haut risque), en séparant les journaux d'adresses IP du système de tutorat, en utilisant des noms d'utilisateur pseudonymes, et en enregistrant les frappes au clavier uniquement avec un consentement explicite — un choix que les auteurs créditent aussi d'un impact environnemental plus faible et d'une meilleure reproductibilité.
 
 La qualité n'est plus le prix automatique de l'ouverture. [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] applique l'[[reinforcement-learning|apprentissage par renforcement]] (DAPO) et l'ajustement fin supervisé à une famille de modèles ouverts, en extrayant 440 négatifs difficiles, en générant 40 000 réponses synthétiques réduites à 1 050 exemples ordonnés par difficulté, et en atteignant **96,52 %** sur le repère de pédagogie — au-dessus des 90,55 % de Gemini-3 Pro — avec 32B de paramètres denses. [[aiawe-automated-writing-evaluation|AiAWE]] parvient à des conclusions similaires pour l'[[automated-essay-scoring|évaluation automatisée de l'écriture]] : un Gemma-3-27B-it à poids ouverts adapté par LoRA surpasse LLaMA-3.3-70B et une référence GPT-3.5 ajustée sur 480 dissertations TOEFL et tourne sur un serveur de qualité grand publique, avec le constat subsidiaire frappant que le nombre de paramètres n'est *pas* un prédicteur fiable de la performance en aval sous adaptation LoRA. La contre-preuve mérite autant de place : [[mllm-scientific-visualization-literacy|un repère de six grands modèles de langue multimodaux]] (trois fermés, trois ouverts) a trouvé chaque modèle à code source ouvert sous la référence humaine en littératie de la [[visualization|visualisation]] scientifique, tandis que Gemini dépassait la moyenne humaine sur plusieurs sous-ensembles. L'ouverture élève le plafond du contrôle, et non celui de la capacité.
 
@@ -58,6 +62,8 @@ OmniEdu publie tout le pipeline plutôt que seulement les poids : une supervisio
 ## Outils ouverts, tuteurs et infrastructure de recherche
 
 Le cas le plus clair en faveur du code ouvert est la réplication. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] — le premier système de tutorat adaptatif entièrement ouvert construit sur des principes de STI — associe une **base de code sous licence MIT** à une **bibliothèque de contenu Creative Commons (CC BY)** issue des manuels d'algèbre OpenStax, plus le [[knowledge-tracing|traçage des connaissances]], des tests A/B et la prise en charge de LTI. Son objectif de conception explicite est qu'un chercheur puisse mener une expérience puis publier l'ensemble du cadre, du contenu et de la plateforme de bout en bout sous forme de lien vers un dépôt. [[stanbkt-bayesian-knowledge-tracing|StanBKT]] fait le même argument au niveau de la méthode, remplaçant les estimations ponctuelles par maximisation de l'espérance par une inférence bayésienne complète (HMC, inférence variationnelle, Pathfinder, optimisation) dans un paquet Python ouvert qui expose l'incertitude dont dépendent les comparaisons A/B d'interventions adaptatives. [[deeptutor]] publie un cadre complet de tutorat [[agentic-ai|agentique]] doté d'une mémoire d'apprenant en forêt de traces, sous Apache 2.0, et, fin 2026, c'est un espace de travail d'apprentissage complet plutôt que seulement les pipelines que son article évalue comparativement. Le générateur de cours OpenMAIC de [[mooc-to-maic|MAIC]] est livré sous MIT aux côtés de l'étude qui l'évalue, si bien qu'un cours peut être généré, auto-hébergé et inspecté plutôt que seulement lu. [[vismatic-secure-sandbox-cs-education|VISMATIC]] publie son bac à sable conteneurisé pour la surveillance orientée vers le processus, afin que d'autres institutions puissent adopter le modèle d'intégrité plutôt que la version qu'en donne le fournisseur. Le code ouvert porte aussi la charge de transparence : les scripts des invites de tutorat conscient de l'affect de [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] sont publiés pour inspection et poursuite du travail de [[llm-training-and-fine-tuning|formation pédagogique]]. L'infrastructure ouverte fixe le point de référence de ce que les agents éducatifs devraient faire : la [[agentic-ai-education-scoping-review|revue de cadrage de 474 études sur l'IA agentique]] utilise un projet d'agent à code source ouvert en croissance rapide comme sa « frontière...
+
+[[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] est le cas de l'infrastructure publiée : licence Apache 2.0, au-delà de la version 1.6 fin 2026, exposant les mêmes capacités par une interface en ligne de commande `deeptutor`, une forêt de traces inspectable et une distribution de compétences EduHub plutôt que par un seul article.
 
 ## Repères ouverts, jeux de données et transparence des méthodes
 

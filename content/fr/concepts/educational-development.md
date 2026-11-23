@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Le développement éducatif
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -56,6 +60,7 @@ Le développement éducatif est le travail professionnel et institutionnel par l
 - **L'intégration au curriculum :** les [[institutional-change-framework-ai|cadres de changement institutionnel]] et la [[ai-assessment-scale-reform|réforme de l'évaluation]] exigent que les enseignants repensent les cours, et pas seulement qu'ils y ajoutent des outils d'IA.
 - **Les programmes de formation :** les [[crewscaler-ai-upskilling-framework|cadres de montée en compétences sur l'IA]] et la [[ai-tpack-preservice-math-teachers|formation en formation initiale fondée sur le TPACK]] fournissent des modèles pour une [[ai-education|formation structurée des enseignants à l'IA]].
 - **La demande n'est pas une analyse des besoins.** 345 enseignants de cégep du Québec obtenaient leur score le plus bas en compréhension technique (2.706 sur 5) et demandaient pourtant des applications pratiques propres à leur discipline, jugeant les séances antérieures trop générales ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
+- **Les universitaires se portent volontaires pour l'automatisation, et ne révèlent leur pédagogie que lorsqu'on leur demande ce que l'outil pourrait faire.** Dans 20 disciplines et 24 pays, cinq questions ouvertes ont tiré 737 commentaires sur l'efficacité et l'automatisation contre 305 sur la politique institutionnelle, tandis que la personnalisation apparaissait dans 74 réponses sur les capacités et 3 dans chacune des questions sur les obstacles ([[sheridan-teaching-academics-genai-plans-2026|Sheridan et al., 2026]]). Les contraintes qu'ils nommaient étaient le temps, une politique cohérente et un soutien financé, le développement professionnel et les budgets de déplacement étant décrits comme les premières choses sacrifiées ; une minorité lisait le changement à travers les relations de travail, s'attendant à ce que les institutions s'en servent pour réduire le personnel universitaire.
 
 - **La réflexion professionnelle médiatisée par l'IA.** Le Reflective Triangle Model positionne l'IA comme un médiateur cognitif entre l'[[reflection|auto-réflexion]], la réflexion collaborative et la réflexion communautaire au sein d'une communauté d'apprentissage professionnel, testé dans une étude de faisabilité de quatre semaines auprès de six enseignants ; la frontière qu'il trace est que l'insight individuel ne devient pas automatiquement un savoir professionnel partagé ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|La gouvernance]] et la politique :** les [[genai-policies-higher-ed-computing|analyses des politiques institutionnelles sur l'IA]] documentent l'écart entre les ambitions institutionnelles et la capacité de soutien aux enseignants.
@@ -112,7 +117,7 @@ Le jugement se traite mieux comme une condition que comme un item de compétence
 
 L'unité de développement peut être plus petite que le département et plus grande que la personne. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] exposent sept rôles enseignants mais insistent sur le fait qu'ils n'ont pas à résider chez un seul universitaire : l'éducateur centré sur l'humain et l'expert disciplinaire sont des fondations universelles, tandis que l'architecture d'apprentissage, la refonte de l'évaluation, la compétence technique, la responsabilité éthique et l'expérimentation disciplinée peuvent être réparties dans une équipe pédagogique. Leur condition est que chacun conserve une capacité technique et éthique de base, pour que l'expertise partagée ne devienne pas une ignorance partagée.
 
-**Animer la série sur les données de la salle elle-même plutôt que sur des bonnes pratiques importées.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum and Finkelstein (2026)]] documentent un modèle éprouvé issu d'un grand département de physique public de type R1 : six séances bimensuelles de 60 à 75 minutes, dix-neuf enseignants participant à la série et environ dix à chaque rencontre, où chaque séance s'ouvrait sur des données locales ou des supports issus du département, se poursuivait par un test en petits groupes de l'IA sur de véritables devoirs d'étudiants anonymisés, et se concluait par une discussion collective. Ce que les enseignants ont découvert en testant s'est révélé plus utile que tout paquet que les animateurs auraient pu importer — l'IA a résolu chaque problème qu'ils ont essayé, mais sa rétroaction sur de véritables travaux d'étudiants était inégale, dépendante des consignes et superficielle, à moins qu'on ne lui fournisse des objectifs et des grilles explicites, et les étudiants formulaient des consignes peu approfondies et modifiaient superficiellement les productions, à moins qu'un usage productif ne soit modelé. La première production concrète a été un répertoire vivant de cinq entrées — énoncés de politique de programme de cours, supports de discussion en classe, l'enquête auprès des étudiants, des tâches de devoirs intégrant l'IA et des structures d'évaluation — ce qui explique pourquoi les auteurs traitent la structure même des séances comme l'argument, plutôt que comme un contenu qu'elle aurait délivré.
+**Animer la série sur les données de la salle elle-même plutôt que sur des bonnes pratiques importées.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum and Finkelstein (2026)]] documentent un modèle éprouvé issu d'un grand département de physique public de type R1 : six séances bimensuelles de 60 à 75 minutes, dix-neuf enseignants participant à la série et environ dix à chaque rencontre, où chaque séance s'ouvrait sur des données locales ou des supports issus du département, se poursuivait par un test en petits groupes de l'IA sur de véritables devoirs d'étudiants anonymisés, et se concluait par une discussion collective. Ce que les enseignants ont découvert en testant s'est révélé plus utile que tout paquet que les animateurs auraient pu importer — l'IA a résolu chaque problème qu'ils ont essayé, mais sa rétroaction sur de véritables travaux d'étudiants était inégale, dépendante des consignes et superficielle, à moins qu'on ne lui fournisse des objectifs et des [[rubrics|grilles d'évaluation]] explicites, et les étudiants formulaient des consignes peu approfondies et modifiaient superficiellement les productions, à moins qu'un usage productif ne soit modelé. La première production concrète a été un répertoire vivant de cinq entrées — énoncés de politique de programme de cours, supports de discussion en classe, l'enquête auprès des étudiants, des tâches de devoirs intégrant l'IA et des structures d'évaluation — ce qui explique pourquoi les auteurs traitent la structure même des séances comme l'argument, plutôt que comme un contenu qu'elle aurait délivré.
 
 **S'ancrer dans un cadre de compétences.** Le développement devrait aussi construire une **littératie en [[prompt-engineering|consignes]] pédagogique** — la capacité d'encoder des intentions pédagogiques dans des consignes — puisque [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] constate que c'est l'expertise pédagogique, et non la maîtrise de l'IA, qui détermine la qualité des travaux de conception assistée par l'IA des enseignants. ([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 

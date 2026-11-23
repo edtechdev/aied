@@ -1,7 +1,7 @@
 ---
 title: "Patrons pédagogiques"
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-15T11:54:18-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -13,9 +13,13 @@ connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -103,7 +107,7 @@ Une troisième publication de la même mise en œuvre de 2024 demande comment le
 
 ### Critique par l'IA puis révision
 
-**Preuves : testé — avec un nul important.** Rédiger un brouillon, solliciter l'IA pour une rétroaction fondée sur le barème, évaluer de manière critique cette rétroaction par rapport au barème et aux sources, rédiger un plan de révision, réviser, et réfléchir.
+**Preuves : testé — avec un nul important.** Rédiger un brouillon, solliciter l'IA pour une rétroaction fondée sur les [[rubrics|critères]], évaluer de manière critique cette rétroaction par rapport au barème et aux sources, rédiger un plan de révision, réviser, et réfléchir.
 
 Une expérience factorielle contrôlée 2 × 2 portant sur 120 étudiants en anglais a trouvé que le gain de qualité d'écriture était le plus élevé pour le groupe formé à la fois au filtrage et à l'appréciation (M = 7,92), contre 6,10, 4,56 et 3,10 pour les autres conditions, la révision profonde passant de 28 % à 48 % et l'avantage persistant sur un nouveau sujet et après le retrait du soutien de l'IA ([[rethinking-ai-writing-feedback-literacy|Dai, 2026]]). Le nul est la partie instructive : dans une expérience randomisée à trois groupes portant sur 70 étudiants, la rétroaction de l'IA sollicitée par chaîne de pensée était significativement de *meilleure qualité* que la rétroaction de l'IA en zéro-coup (p = ,01) et que la rétroaction de l'enseignant (p = ,008), et pourtant cet avantage de qualité **ne s'est pas traduit par de plus grands gains de révision** — la rétroaction de l'enseignant produisait une amélioration comparable ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al., 2026]]).
 

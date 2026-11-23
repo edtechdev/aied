@@ -1,7 +1,7 @@
 ---
 title: "Comment gérer l'IA dans les travaux de groupe et collaboratifs ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -32,12 +32,16 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-La présentation de groupe revient soignée et cohérente, et aucun membre ne sait expliquer l'argument qu'elle contient. Ou bien les notes sont identiques, et vous apprenez ensuite qu'un étudiant a fait passer tout le travail par l'[[generative-ai|IA générative]] pendant que trois autres se laissaient porter par la note commune. Rien dans le fichier ne vous dit laquelle de ces deux choses s'est produite, et votre grille d'évaluation comporte une ligne sur la collaboration que tout le monde a validée.
+La présentation de groupe revient soignée et cohérente, et aucun membre ne sait expliquer l'argument qu'elle contient. Ou bien les notes sont identiques, et vous apprenez ensuite qu'un étudiant a fait passer tout le travail par l'[[generative-ai|IA générative]] pendant que trois autres se laissaient porter par la note commune. Rien dans le fichier ne vous dit laquelle de ces deux choses s'est produite, et votre [[rubrics|grille d'évaluation]] comporte une ligne sur la collaboration que tout le monde a validée.
 
 Voici la réponse : décidez la place de l'IA tâche par tâche plutôt que cours par cours, faites de la négociation du groupe sur l'IA quelque chose qu'il remet et que vous notez, séquencez le travail pour qu'il ne puisse pas être découpé en séances parallèles avec un agent conversationnel, et conservez au moins une composante que chaque membre traite seul. Tout cela relève de la conception de tâche, et rien n'a été testé contre une condition sans IA : vous construisez donc un argument de conception plutôt que vous n'appliquez une solution éprouvée.
 

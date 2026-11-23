@@ -8,12 +8,16 @@ technology: [generative-ai, simulation, intelligent-tutoring]
 audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 translation_of: "concepts/case-based-learning"
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -57,7 +61,7 @@ Les cas sont un pont entre le savoir abstrait et le jugement situé. Ils donnent
 
 Le mécanisme n'est pas simplement « des exemples du monde réel ». Un cas peut être réaliste et n'enseigner que très peu si la discussion ne demande jamais aux étudiants de discriminer, de justifier ou de comparer. Les conceptions les plus solides utilisent les cas pour créer un espace de problème avant l'explication, ce qui est le lien avec l'[[productive-failure|échec productif]] : les étudiants tentent un cas, rencontrent les limites de leur modèle actuel, puis reçoivent un enseignement qui comble l'écart. Les cas contrastés affinent cela davantage. Quand deux cas diffèrent sur une caractéristique qui compte, les apprenants peuvent voir la caractéristique plutôt que l'histoire de surface. L'étude existante d'un cours d'IA générative de trois semaines destiné à 78 étudiants d'un programme préparatoire issus de minorités ethniques a utilisé le [[teacher-role|modelage par l'enseignant]] avec des cas contrastés pour faire passer les étudiants de la copie efficace vers la cocréation critique ([[scaffolding-critical-engagement-genai-minority-students]]). C'est une conception de comparaison de cas, et non un test de l'apprentissage par cas en droit ou en gestion, mais elle montre le mécanisme dans une vraie classe.
 
-Les cas portent aussi une dimension sociale. Une discussion de cas rend le raisonnement public : les étudiants proposent des interprétations, entendent des alternatives et révisent. Les questions de l'enseignant font le travail qu'un manuel ne peut pas faire. C'est pourquoi remplacer un cas par un résumé ou un cours magistral peut conserver le contenu tout en perdant l'apprentissage. C'est aussi pourquoi une IA qui répond aux questions du cas à la place de l'étudiant peut court-circuiter la discussion même lorsque ses réponses sont exactes.
+Les cas portent aussi une dimension sociale. Une discussion de cas rend le raisonnement public : les étudiants proposent des interprétations, entendent des alternatives et révisent. Les questions de l'enseignant font le travail qu'un manuel ne peut pas faire. C'est pourquoi remplacer un cas par un résumé ou un cours magistral peut conserver le contenu tout en perdant l'apprentissage. C'est aussi pourquoi une IA qui répond aux questions du cas à la place de l'étudiant peut court-circuiter la discussion même lorsque ses réponses sont exactes. Le contraste de format trouve un appui au-delà des cas : une méta-analyse de l'enseignement de l'éthique a trouvé que les résultats moraux s'amélioraient lorsque la prestation était fondée sur la discussion et ne bougeait pas lorsqu'elle était limitée au cours magistral ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et coll., 2026]]).
 
 ## Ce que l'IA change
 

@@ -28,6 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*

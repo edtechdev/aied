@@ -1,7 +1,7 @@
 ---
 title: "Educación jurídica"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-15T10:26:22-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
 connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
@@ -61,7 +65,7 @@ Está empezando a llegar evidencia experimental: [[xie-genai-mystery-game-legal-
 
 ## Qué muestra la evidencia sobre políticas
 
-Gutowski y Hurley evalúan las políticas en cinco dimensiones con rúbricas de 0 a 5: **prohibitividad**, **permisividad**, **integración educativa**, **transparencia y rendición de cuentas** y **profundidad**. Su sondeo encontró que la mayoría de las facultades de derecho adoptó posturas generalmente prohibitivas, explicadas a menudo como una forma de ganar tiempo para estudiar la tecnología, mientras que casi todas las políticas se reservaban la discreción de cada docente. Las valoraciones de permisividad y prohibitividad se correlacionaron de forma inversa, como era de esperar, y los autores informan de que no hay un único enfoque aceptado: las políticas van de una gobernanza integral a la ausencia total de política declarada.
+Gutowski y Hurley evalúan las políticas en cinco dimensiones con [[rubrics|rúbricas]] de 0 a 5: **prohibitividad**, **permisividad**, **integración educativa**, **transparencia y rendición de cuentas** y **profundidad**. Su sondeo encontró que la mayoría de las facultades de derecho adoptó posturas generalmente prohibitivas, explicadas a menudo como una forma de ganar tiempo para estudiar la tecnología, mientras que casi todas las políticas se reservaban la discreción de cada docente. Las valoraciones de permisividad y prohibitividad se correlacionaron de forma inversa, como era de esperar, y los autores informan de que no hay un único enfoque aceptado: las políticas van de una gobernanza integral a la ausencia total de política declarada.
 
 También documentan lo escasa que es la evidencia del sector. La encuesta de la ABA de 2024 sobre IA y educación jurídica recibió respuestas de solo 29 facultades, en torno al 15% de las facultades aprobadas por la ABA, así que difícilmente puede tratarse como representativa; y una encuesta de LexisNexis a 800 estudiantes de derecho encontró que solo el 9% declaraba usar IA generativa en ese momento para sus estudios, con un 25% que planeaba adoptarla. Los autores leen el bajo uso declarado en parte como respuesta a reglas poco claras, ya que la claridad reduce el miedo a incumplirlas.
 

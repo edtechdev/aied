@@ -1,7 +1,7 @@
 ---
 title: "Critiques de l'IA en éducation"
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,13 +13,17 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [philosophy-of-ai-in-education, critical-pedagogy, limitations-in-aied-research, theory-development-aied, misconceptions, ai-literacy, agency, cognitive-offloading, equity-in-ai-education, digital-divide, institutional-ai-infrastructure, educational-policy-ai, governance, sustainability, teacher-role, educational-development, higher-ed, trust, automation-bias, critical-thinking]
 connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026, komodromos-generative-ai-pedagogical-sustainability-2026, videla-why-education-cannot-be-automated-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, tlili-double-edged-sword-oer-generative-ai-2026, fajardo-ramos-teacher-education-ai-agenda-2026, li-mroziak-reorienting-critical-ai-literacy, ai-literacy-power-knowledge, caeai-ai-companions-learning-over-performance-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, beyond-agent-label-agentic-ai-governance-2026]
@@ -56,7 +60,7 @@ Un second ensemble s'attaque au vocabulaire plutôt qu'à la machinerie. Wang et
 
 ## Infrastructure, transduction et méconnaissance
 
-Un troisième ensemble déplace l'attention de l'outil vers l'infrastructure qui l'entoure. Watson, Morgner et Brezovec traitent l'IA générative comme une infrastructure médiatrice de sens et nomment son mécanisme la *transduction sémantique* : le reformatage d'une demande éducative — une invite, un brief, une grille, une question d'examen, un genre ou une politique — en une forme plausible sur le plan communicationnel ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner et Brezovec, 2026]]). Parce que la transduction est sélective, elle peut inclure ou exclure. Trois sites reviennent : les fractures d'accès et de capacité, la méconnaissance par des modèles de ce que doit sonner une bonne réponse ou un bon étudiant, et la dérive normative de ce que la pédagogie est censée signifier. L'exclusion est souvent une tenaille plutôt qu'une interdiction — les institutions élèvent les attentes de rythme, de soin et de fluidité idiomatique tout en resserrant parallèlement les régimes d'authenticité.
+Un troisième ensemble déplace l'attention de l'outil vers l'infrastructure qui l'entoure. Watson, Morgner et Brezovec traitent l'IA générative comme une infrastructure médiatrice de sens et nomment son mécanisme la *transduction sémantique* : le reformatage d'une demande éducative — une invite, un brief, une [[rubrics|grille]], une question d'examen, un genre ou une politique — en une forme plausible sur le plan communicationnel ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner et Brezovec, 2026]]). Parce que la transduction est sélective, elle peut inclure ou exclure. Trois sites reviennent : les fractures d'accès et de capacité, la méconnaissance par des modèles de ce que doit sonner une bonne réponse ou un bon étudiant, et la dérive normative de ce que la pédagogie est censée signifier. L'exclusion est souvent une tenaille plutôt qu'une interdiction — les institutions élèvent les attentes de rythme, de soin et de fluidité idiomatique tout en resserrant parallèlement les régimes d'authenticité.
 
 ## Fixation de l'agenda, innovation simulée et prospective expérimentale
 

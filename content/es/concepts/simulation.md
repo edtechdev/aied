@@ -2,16 +2,20 @@
 connected_resources: [openmaic, primer]
 title: Simulación
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -48,7 +52,7 @@ La simulación ocupa el núcleo de las [[pedagogy|pedagogías]] [[experiential-l
 ### La IA y la simulación
 
 - **Entornos impulsados por IA:** las simulaciones adaptativas ajustan la dificultad y los escenarios al estado de quien aprende, lo que enlaza con el [[adaptive-learning|aprendizaje adaptativo]] y con el entrenamiento basado en el [[reinforcement-learning|aprendizaje por refuerzo]].
-- **El [[virtual-and-augmented-reality|entorno virtual]] y la capa de IA son ganancias separables.** En una unidad de tres semanas sobre la ley de Ohm en 9.º grado, el rendimiento ajustado fue 23,45 sobre 30 con un laboratorio virtual apoyado por IA, 20,51 con el mismo laboratorio sin IA y 16,57 en un laboratorio físico ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li y Ahmad (2026)]]). Las clases intactas se asignaron con un docente distinto en cada una, así que describe tres configuraciones de aula, no el agente por sí solo.
+- **El [[virtual-and-augmented-reality|entorno virtual]] y la capa de IA son ganancias separables.** En una unidad de tres semanas sobre la ley de Ohm en 9.º grado, el rendimiento ajustado fue 23,45 sobre 30 con un laboratorio virtual apoyado por IA, 20,51 con el mismo laboratorio sin IA y 16,57 en un laboratorio físico ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li y Ahmad (2026)]]). Las clases intactas se asignaron con un docente distinto en cada una, así que describe tres configuraciones de aula, no el agente por sí solo. Un módulo de laboratorio de virología muestra el problema de atribución opuesto: su clase aprobaba la práctica virtual con mucha más frecuencia, pero la simulación llegó con un grafo del curso, un asistente fundamentado y enrutamiento adaptativo, de modo que su propia contribución no puede aislarse ([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]).
 - **Las simulaciones generadas por prompt ponen un laboratorio a medida al alcance.** Quien enseña puede generar modelos ejecutables en el navegador del tema que necesita un curso a partir de una plantilla de prompt reutilizable (controles deslizantes, animación, gráficos dependientes del tiempo), validando cada uno dos veces —primero técnicamente y luego frente a la solución analítica conocida— en lugar de aceptar la simulación publicada más parecida ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
 - **Automatizar la contraparte humana.** [[astra-atco-training-simulator|Chew et al. (2026)]] sustituyen a los especialistas que interpretan papeles en las simulaciones de control de tránsito aéreo por simuladores de piloto autónomos basados en [[llm|LLM]], eliminando un cuello de botella de capacidad de formación; su canalización de voz ajustada redujo la tasa de error de palabras en habla aeronáutica con acento singapurense del 107,80% al 23,45%, aunque todas las evaluaciones fueron a nivel de componente y sin cohorte de alumnos.
@@ -78,6 +82,7 @@ El coste y el formato de impartición son cuestiones separables de la fidelidad.
 - **Un gemelo digital es una simulación con una factura de hardware, y la factura determina quién puede participar.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 11 estudios de gemelos digitales en [[engineering-education|ingeniería]] y la [[higher-ed|educación superior]] STEM encontró que todas las implementaciones entregaban un prototipo funcional con sincronización en tiempo real, pero solo tres informaron [[learning-gains|ganancias de aprendizaje]] estadísticamente significativas. Los equipos físicos limitaron el acceso a 1-3 estudiantes simultáneos en cinco estudios, y la reducción de la interacción social fue el desafío pedagógico más citado, en seis ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
 
 - **La simulación basada en agentes puede modelar una teoría de la [[metacognition|metacognición]] como un sistema comprobable.** Un marco basado en agentes inspirado en el gemelo digital que combina el modelo AMERT de cinco niveles con una simulación en NetLogo permitió a quienes investigan variar los arquetipos de quien aprende y las condiciones de la tarea y observar trayectorias metacognitivas, aunque los autores subrayan que la salida es generación de hipótesis y no evidencia sobre personas que aprenden reales ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). La simulación se convierte en un laboratorio virtual para una teoría que de otro modo es difícil de observar.
+- **Las ganancias de razonamiento se midieron dentro de casos guionizados.** Una revisión de alcance de treinta estudios sobre simulación clínica con IA en la [[medical-education|educación médica]] de grado encontró que veintitrés de ellos (76,7 %) se basaban en pacientes virtuales basados en texto o chatbots, y los casos estaban sobre todo delimitados, con elementos de datos preseleccionados y variabilidad limitada ([[hernandez-ai-clinical-simulation-scoping-2026|Hernández Rincón et al., 2026]]). Así, las ganancias de razonamiento clínico reportadas describen el desempeño dentro de un escenario curado y no la gestión de uno mal definido. La contribución más duradera de la revisión es la evidencia de proceso: los registros con marca temporal y las transcripciones expusieron una recogida de datos estrecha, hipótesis no revisadas y exceso de confianza detrás de un desempeño diagnóstico débil, algo que un examen escrito no puede ver.
 - **El currículo es la unidad que decide el valor de una simulación.** El Modelo de Puente Curricular sostiene que el rendimiento de la simulación depende de cómo se secuencian las experiencias a lo largo de un programa —reutilización de contextos, variación de las exigencias de razonamiento, evidencia que alimenta la progresión— y no de la fidelidad de la plataforma ([[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno, 2026]]).
 - **Los clientes simulados superaron a la evidencia.** Una revisión de alcance de 14 fuentes sobre IA generativa en la formación de consejeros encontró que los clientes simulados por IA eran la aplicación dominante, pero ningún estudio midió la competencia del estudiantado en formación, usó una condición de comparación ni puso a prueba escenarios de crisis y de evaluación de riesgos ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026]]).
 

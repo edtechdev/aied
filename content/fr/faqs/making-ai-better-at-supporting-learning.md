@@ -1,7 +1,7 @@
 ---
 title: "Comment rendre l'IA meilleure pour soutenir l'apprentissage dans notre propre discipline ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -28,6 +28,10 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -44,7 +48,7 @@ L'entraînement est réel et parfois nécessaire. C'est la troisième ou la quat
 
 **2.** Placez une récupération sur vos propres supports devant le modèle. C'est le gain unique le plus important rapporté ici pour son coût, et il est réversible.
 
-**3.** Travaillez l'invite contre votre grille d'évaluation et itérez jusqu'à ce que l'amélioration s'arrête. Le plateau est le signal que l'entraînement pourrait apporter quelque chose.
+**3.** Travaillez l'invite contre votre [[rubrics|grille d'évaluation]] et itérez jusqu'à ce que l'amélioration s'arrête. Le plateau est le signal que l'entraînement pourrait apporter quelque chose.
 
 **4.** Adaptez les poids avec [[llm-training-and-fine-tuning|LoRA]] quand la cible est stable et étroite : un format, une grille, un niveau de lecture, un vocabulaire de domaine.
 

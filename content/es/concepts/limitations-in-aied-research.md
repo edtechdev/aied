@@ -1,7 +1,7 @@
 ---
 title: Limitaciones de la investigación en AIEd
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,10 +12,14 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -24,7 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
-connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
@@ -37,13 +41,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - ¿Cuánto confiaría en un titular como «la tutoría con IA mejora el aprendizaje un 30%» si supiera que proviene de 30 estudiantes de un solo curso en una sola institución? La generalizabilidad y las muestras pequeñas son límites recurrentes, así que ¿qué le gustaría saber antes de actuar a partir de un único hallazgo?
 - Una limitación llamativa es el «problema de la velocidad»: la IA evoluciona más rápido de lo que se publican los hallazgos, así que un estudio de una generación de modelos puede describir ya un sistema obsoleto. ¿Cómo debería cambiar eso la confianza que deposita en la investigación sobre educación e IA?
 - Muchos estudios se basan en actitudes y usos [[self-report-measures|autoinformados]], y esos relatos arrastran distorsiones conocidas. ¿Ha respondido alguna vez a una encuesta sobre sus propias habilidades o conducta de una forma que no coincidía con la realidad? ¿Por qué las medidas basadas en la percepción divergen tan a menudo del rendimiento objetivo?
-- Marcos familiares como la taxonomía de Bloom se leen a menudo como escaleras estrictas, y hasta teorías muy usadas como la teoría de la [[cognitive-offloading|carga cognitiva]] han sido cuestionadas. ¿Cuándo ha visto invocar una teoría como verdad establecida en un contexto donde su propia evidencia estaba en disputa?
+- Marcos familiares como la [[bloom-taxonomy|taxonomía de Bloom]] se leen a menudo como escaleras estrictas, y hasta teorías muy usadas como la teoría de la [[cognitive-offloading|carga cognitiva]] han sido cuestionadas. ¿Cuándo ha visto invocar una teoría como verdad establecida en un contexto donde su propia evidencia estaba en disputa?
 - La mayor parte de la investigación sobre IA depende de modelos propietarios y opacos cuyos datos y actualizaciones no se pueden inspeccionar. Si no puede verificar exactamente qué modelo produjo un resultado, ¿cuánto puede confiar en las afirmaciones construidas sobre él, y qué haría que los hallazgos fueran más reproducibles?
 - Si usted es docente o diseñador y no tiene tiempo para leer investigación primaria, ¿cómo decide qué afirmaciones sobre IA son lo bastante fiables como para cambiar su práctica, dado que la literatura es fragmentada, provisional y está escrita para investigadores?
 
 ## Introducción
 
-La IA en la educación es un campo heterogéneo y de rápido movimiento, y su base de evidencia arrastra un conjunto característico de limitaciones que investigadores, profesionales y responsables de políticas deberían sopesar al usar cualquier hallazgo. Algunas son compartidas con la literatura más amplia de las [[learning-sciences|ciencias del aprendizaje]] y la psicología; otras se amplifican o se vuelven únicas por la naturaleza de la propia IA. Se distribuyen en cuatro áreas transversales.
+La IA en la educación es un campo heterogéneo y de rápido movimiento, y su base de evidencia arrastra un conjunto característico de limitaciones que investigadores, profesionales y responsables de políticas deberían sopesar al usar cualquier hallazgo. Algunas son compartidas con la literatura más amplia de las [[learning-sciences|ciencias del aprendizaje]] y la psicología; otras se amplifican o se vuelven únicas por la naturaleza de la propia IA. Se distribuyen en cuatro áreas transversales. Son problemas de la evidencia; un cuerpo de argumentación distinto sobre los propósitos que sirve la evidencia se reúne bajo [[critiques-of-ai-in-education|Críticas a la IA en la educación]].
 
 ## Limitaciones metodológicas
 

@@ -1,7 +1,7 @@
 ---
 title: "GradeBench"
 created: "2026-11-17T06:39:43-05:00"
-updated: "2026-11-17T13:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "Un classement public de modèles de pointe qui notent de vraies réponses STEM universitaires manuscrites selon les éléments de grille sélectionnés par l'enseignant."
 url: https://gradebench.com/
@@ -22,12 +22,16 @@ ai_assist:
     role: translation
     date: "2026-11-19"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-GradeBench pose une question étroite et utile sur l'[[automated-assessment|évaluation automatisée]] : étant donné la réponse manuscrite d'un étudiant, la grille d'évaluation de l'enseignant, une solution de référence et les éléments de grille que l'enseignant a réellement sélectionnés, un modèle de pointe sélectionne-t-il les mêmes éléments ? Les étiquettes de référence sont de véritables sélections d'éléments de grille par des enseignants et des assistants d'enseignement, issues d'examens et de quiz, et non des sorties de modèle re-notées.
+GradeBench pose une question étroite et utile sur l'[[automated-assessment|évaluation automatisée]] : étant donné la réponse manuscrite d'un étudiant, la [[rubrics|grille d'évaluation]] de l'enseignant, une solution de référence et les éléments de grille que l'enseignant a réellement sélectionnés, un modèle de pointe sélectionne-t-il les mêmes éléments ? Les étiquettes de référence sont de véritables sélections d'éléments de grille par des enseignants et des assistants d'enseignement, issues d'examens et de quiz, et non des sorties de modèle re-notées.
 
 ## Ce que vous pouvez en faire
 

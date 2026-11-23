@@ -1,7 +1,7 @@
 ---
 title: "¿Deberíamos usar detectores de IA?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -30,6 +30,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -109,7 +113,7 @@ Cierre con una decisión que pueda enunciar sin la puntuación. O el estudiante 
 
 ## Ponga en la tarea un paso en el que la herramienta no pueda meterse
 
-Las [[oral-assessment|evaluaciones orales]] asincrónicas, construidas como consignas de último momento con respuestas grabadas breves y de tiempo limitado, calificadas con rúbricas integradas, rindieron de forma comparable a exámenes presenciales de opción múltiple en un estudio y significativamente mejor en otro, con estudiantes que informaron de una preparación más activa y una mayor relevancia profesional percibida. Para un [[administrator|administrador]], el rasgo que importa es que esto escala sin necesidad de vigilancia ([[asynchronous-oral-assessment-2026]]).
+Las [[oral-assessment|evaluaciones orales]] asincrónicas, construidas como consignas de último momento con respuestas grabadas breves y de tiempo limitado, calificadas con [[rubrics|rúbricas]] integradas, rindieron de forma comparable a exámenes presenciales de opción múltiple en un estudio y significativamente mejor en otro, con estudiantes que informaron de una preparación más activa y una mayor relevancia profesional percibida. Para un [[administrator|administrador]], el rasgo que importa es que esto escala sin necesidad de vigilancia ([[asynchronous-oral-assessment-2026]]).
 
 Rediseñar la tarea hace más trabajo que blindar la comprobación. Un estudio de caso con estudiantes de grado de economía encontró que solo alrededor de un tercio declaraba algún uso de IA, con una declaración aún más rara, y leía la no declaración como una cautela racional bajo una política ambigua y no como deshonestidad. Esos mismos estudiantes preferían tareas realistas y basadas en datos como solución ([[kirsanov-beyond-detection-ai-online-assessments-2026]]). Esperar, declarar y escudriñar el uso de IA supera a vigilarlo, porque la [[authentic-assessment|autenticidad]] tiene que diseñarse y no imponerse ([[beyond-detection-authentic-assessment-ai-2025]]).
 

@@ -1,14 +1,14 @@
 ---
 title: "¿Cómo debería incorporar la alfabetización en IA a mi curso?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-11-05T16:18:46-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -67,7 +71,7 @@ El patrón sobre el que vale la pena construir una tarea es una salida verosími
 
 Trátelo como una competencia que se enseña, porque no llega con el conocimiento de la materia. En la síntesis sobre educación en informática, los estudiantes rindieron significativamente *peor* al corregir código generado por IA que en tareas tradicionales de [[summative-assessment|examen]] de programación. Es evidencia directa de que evaluar y reparar la salida no se transfiere automáticamente desde la habilidad disciplinar general, y de que, sin instrucción, los estudiantes volverán a entregar trabajo incorrecto sin darse cuenta. La revisión integra esto en su marco VIE (Verification, Implementation, Equity) y sostiene que el compromiso crítico debería ser un componente calificado y observable del trabajo del estudiante, al que llama "el mecanismo común que vincula todas las intervenciones eficaces que revisó".
 
-Versión práctica: una línea de la rúbrica para el error que esperaba que detectaran, otra para la reparación y otra para la justificación. Si la crítica no lleva puntos, se queda en tres frases camino de la puerta.
+Versión práctica: una línea de la [[rubrics|rúbrica]] para el error que esperaba que detectaran, otra para la reparación y otra para la justificación. Si la crítica no lleva puntos, se queda en tres frases camino de la puerta.
 
 ## Hágalo específico para su campo, y repítalo
 

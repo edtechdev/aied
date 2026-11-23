@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage par la recherche (Inquiry-Based Learning)"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
 connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
@@ -62,7 +66,7 @@ L'apprentissage par la recherche est centré sur les questions portées par l'é
 
 La structure de l'IBL, guidée par les questions et centrée sur le processus, est le terrain naturel d'un usage productif de l'IA : les étudiants apprennent *avec* l'IA comme partenaire plutôt que *d'elle* comme substitut. Les données probantes convergent vers une tension centrale : l'IA peut abaisser le coût de la recherche d'informations et de la formulation des questions (en réduisant la [[cognitive-offloading|charge cognitive]] et en permettant une [[reflection|réflexion]] plus approfondie), mais sans étayage conceptuel elle expose à la dépendance excessive et au contournement de la cognition d'ordre supérieur. Le rôle du facilitateur, la conception des étayages et l'enseignement explicite des compétences d'évaluation sont les leviers qui déterminent si l'IA approfondit ou déplace la recherche.
 
-Une étude remplace le facilitateur plutôt que d'ajouter un outil à côté de lui. Dans un cours de pharmacologie de quatre semaines, 136 étudiants de deuxième année de médecine ont été répartis entre un apprentissage par problèmes mené par un facilitateur et un apprentissage mené par l'IA. Les deux bras ont progressé significativement aux tests à choix multiples pré/post et la différence entre groupes n'était pas significative (p = 0,474), mais les groupes menés par un facilitateur ont obtenu de meilleurs scores en pensée critique (14,75 contre 13,09, p < 0,001) et sur la grille d'[[group-work|évaluation de groupe]] (26,51 contre 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty et Rao, 2026]]). Les résultats d'enquête se séparent selon leur nature : les connaissances de contenu ont survécu à la substitution et le processus de raisonnement non, ce qui est précisément ce que signifie dire que le facilitateur est le levier.
+Une étude remplace le facilitateur plutôt que d'ajouter un outil à côté de lui. Dans un cours de pharmacologie de quatre semaines, 136 étudiants de deuxième année de médecine ont été répartis entre un apprentissage par problèmes mené par un facilitateur et un apprentissage mené par l'IA. Les deux bras ont progressé significativement aux tests à choix multiples pré/post et la différence entre groupes n'était pas significative (p = 0,474), mais les groupes menés par un facilitateur ont obtenu de meilleurs scores en pensée critique (14,75 contre 13,09, p < 0,001) et sur la [[rubrics|grille d'évaluation]] d'[[group-work|évaluation de groupe]] (26,51 contre 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty et Rao, 2026]]). Les résultats d'enquête se séparent selon leur nature : les connaissances de contenu ont survécu à la substitution et le processus de raisonnement non, ce qui est précisément ce que signifie dire que le facilitateur est le levier.
 
 ### L'échec productif et la recherche
 

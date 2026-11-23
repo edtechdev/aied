@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'ingénierie"
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
@@ -51,6 +56,7 @@ La recherche sur l'enseignement de l'ingénierie est distinctive parce qu'elle s
 - **L'évaluation incarnée et [[multimodal|multimodale]] :** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et collègues]] développent un cadre multimodal intégrant le suivi des gestes par vision par ordinateur à l'analyse de la parole par [[llm]], afin d'évaluer la compréhension conceptuelle des statistiques chez les étudiants en ingénierie, montrant que le geste ajoute une preuve diagnostique au-delà de la parole et qu'un couplage étroit entre geste et parole signale une compréhension cohérente.
 - **La transformation de la main-d'œuvre :** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et collègues]] passent en revue la littérature grise américaine sur l'IA et la main-d'œuvre de l'ingénierie et de l'informatique, en formulant le « Dual Train Problem » (changement rapide contre urgence des politiques) et en recommandant des compétences en IA durables, de l'[[ethics|éthique]] et de la [[governance|gouvernance]], ainsi que des titres fondés sur les compétences pour les rôles émergents.
 - **L'adoption et la dépendance des étudiants :** [[tam-critical-use-genai-engineering-2026|Nguyen et collègues]] étendent le modèle d'acceptation de la technologie par l'*usage critique*, pour modéliser la manière dont les étudiants en ingénierie et en informatique forment des intentions d'utiliser l'[[generative-ai|IA générative]] et dont cette intention prédit la dépendance selon les tâches de compréhension, d'évaluation, de programmation et de projet d'ingénierie — constatant une dépendance modérée et appropriée et un usage intensif pour les tâches liées à la compréhension, mais un usage limité pour la rédaction complète d'évaluations. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] intègrent le TAM à l'[[technology-acceptance-model|UTAUT]] pour modéliser l'adoption par des étudiants bangladais en ingénierie, expliquant 64% de la variance d'usage et soulignant la pertinence pour l'emploi, la démontrabilité des résultats et les normes subjectives comme facteurs clés.
+- **L'habitude déplace la personne :** l'habitude, et non l'intention, prédisait si les étudiants et les éducateurs en ingénierie philippins demandaient moins souvent de l'aide à des personnes une fois GenAI disponible, et la préoccupation d'intégrité académique était le seul construit qui réduisait ce déplacement ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo & Bernardo, 2026]]).
 - **La [[prompt-engineering|stratégie d'interrogation]] prédit la performance, et non le volume d'usage :** parmi 128 étudiants en ingénierie de quatrième année, l'efficacité des requêtes adressées à l'IA et la résolution de problèmes pilotée par l'IA étaient les plus forts prédicteurs de la réussite scolaire, et sont demeurés significatifs après contrôle de la moyenne cumulative ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 - **Les métaphores propres des étudiants dépassent ce que livrent les outils :** [[ai-engineering-education-balancing-act|Kudina (2026)]] a montré que 100 étudiants en ingénierie valorisaient surtout les LLM pour le soutien à l'écriture, la clarification conceptuelle et le code, tout en les cadrant comme un « oracle » et un « tuteur » — une autorité et une [[personalized-learning|personnalisation]] qu'un générateur de texte probabiliste ne peut pas fournir, un « optimisme cruel » qui dépend de compétences de vérification que les étudiants sont encore en train de bâtir.
 - **Intégrer l'IA dans la discipline, et non à côté d'elle :** un [[curriculum-design|programme]] d'ingénierie thermique par projets a plié l'apprentissage automatique dans les sujets thermiques existants, aux niveaux introductif, appliqué et avancé, plutôt que d'ajouter des cours d'informatique, et des étudiants de premier cycle ne satisfaisant qu'aux exigences d'entrée minimales ont produit des projets plus faibles que leurs pairs de troisième cycle ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).

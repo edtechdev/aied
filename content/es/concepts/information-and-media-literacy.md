@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-05"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -85,7 +89,7 @@ El profesorado puede tratar la salida de un detector como evidencia y no como ve
 
 Quienes diseñan currículos pueden mantener la producción en el curso. Crear medios es lo que hizo concreta la crítica en los estudios revisados aquí, y generar con IA la apoya solo cuando el estudiantado examina las elecciones que la herramienta hizo por él.
 
-Puntuar el constructo como desempeño y no como actitud pone en evidencia el punto débil. En un ensayo de ocho semanas de Code Craft con 28 estudiantes de grado tailandeses, la alfabetización digital subió de 1,51 a 2,82 en una rúbrica de tres puntos, pero la gestión de la información promedió 1,92 y la creación de información 2,05 frente a 2,36 en comunicación y trabajo con otras personas ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij y Khlaisang, 2026]]). Las puntuaciones más bajas se situaron en el lado productivo del constructo, allí donde un curso que se detiene en la búsqueda y la evaluación nunca llega.
+Puntuar el constructo como desempeño y no como actitud pone en evidencia el punto débil. En un ensayo de ocho semanas de Code Craft con 28 estudiantes de grado tailandeses, la alfabetización digital subió de 1,51 a 2,82 en una [[rubrics|rúbrica]] de tres puntos, pero la gestión de la información promedió 1,92 y la creación de información 2,05 frente a 2,36 en comunicación y trabajo con otras personas ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij y Khlaisang, 2026]]). Las puntuaciones más bajas se situaron en el lado productivo del constructo, allí donde un curso que se detiene en la búsqueda y la evaluación nunca llega.
 
 Quienes dirigen programas pueden integrar a un bibliotecario o especialista en medios en el flujo de trabajo. El resultado instruccional más sólido de esta literatura proviene de un diseño en el que la consulta humana estaba integrada y no se ofrecía después.
 

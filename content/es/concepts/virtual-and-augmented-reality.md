@@ -1,7 +1,7 @@
 ---
 title: Realidad virtual y aumentada
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,10 +9,14 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-16T22:52:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -59,7 +63,7 @@ Sus lagunas definen la frontera actual del patrón. La evaluación fueron métri
 
 El intento más claro hasta la fecha de esa medición ausente procede de un [[arts-and-media-education|estudio de diseño vocacional]] y no de un entorno clínico. En un curso de diseño de interiores de 12 semanas, se comparó un entorno de RV (visores más una herramienta de modelado 3D) con un asistente respaldado por LLM representado como humano digital frente a la instrucción convencional basada en [[project-based-learning|proyectos]]. Al asistente se le asignó un papel distinto en cada fase: recomendación de recursos y descomposición de tareas, preguntas por capas con mapas de conocimiento, simulación de efectos de diseño y detección de fallos, y registro del discurso para el profesorado ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). En 63 respuestas válidas, la condición inmersiva con agente produjo una capacidad de diseño significativamente mayor (η²p = 0,138) y una capacidad creativa mayor (η²p = 0,111), más [[student-engagement|implicación]] cognitiva (d = 0,90) y conductual (d = 0,75), y más motivación (d = 0,74) y satisfacción (d = 0,69), con una [[cognitive-offloading|carga cognitiva]] declarada *menor*, no mayor (d = −0,52), lo que los autores atribuyen a que el asistente recorta el esfuerzo de búsqueda e integración interdisciplinar. Dos límites impiden que esto zanje la cuestión: la novedad ideacional y la implicación [[affective-computing|afectiva]] no se movieron, y todos los resultados son [[self-report-measures|autoinformes]], sin valoraciones de artefactos ni registros del visor.
 
-El contraste con un despliegue comparable en educación de diseño es instructivo. Un estudio de arquitectura que usó una canalización de [[generative-ai|IA generativa]] más XR multiusuario encontró una confianza en la [[self-efficacy|autoeficacia]] de diseño *en descenso* en los equipos que la usaron y ninguna ventaja en las valoraciones a ciegas de un panel. La diferencia entre ambos casos es menos el hardware que la orquestación: el estudio vocacional fijó la estructura de fases, el papel del asistente en cada fase y la rúbrica de evaluación antes de la intervención, y midió la capacidad productiva por separado de la novedad ideacional.
+El contraste con un despliegue comparable en educación de diseño es instructivo. Un estudio de arquitectura que usó una canalización de [[generative-ai|IA generativa]] más XR multiusuario encontró una confianza en la [[self-efficacy|autoeficacia]] de diseño *en descenso* en los equipos que la usaron y ninguna ventaja en las valoraciones a ciegas de un panel. La diferencia entre ambos casos es menos el hardware que la orquestación: el estudio vocacional fijó la estructura de fases, el papel del asistente en cada fase y la [[rubrics|rúbrica]] de evaluación antes de la intervención, y midió la capacidad productiva por separado de la novedad ideacional.
 
 La versión de este mismo patrón orientada al profesorado es más joven y más frágil. [[luminote-llm-vr-stage-lighting-education-2026|Liang et al. (2026)]] dejaron que un docente de iluminación escénica dictara su intención en una escena de RV con un puntero láser como ancla espacial, y que un [[llm|LLM]] la convirtiera en anotaciones espaciales revisables por el docente, demostraciones de iluminación ejecutables y explicaciones de jerga a demanda. A lo largo de 55 prompts y 531 acciones generadas, la asistencia fue más fuerte en los objetivos expresivos y poco especificados (212 de 245 acciones de efecto visual aplicadas, 86,5%) y más débil en las peticiones a nivel de aparato, donde 26 de las 28 acciones rechazadas se remontaban a referencias direccionales como «luz izquierda» que el modelo resolvía al aparato equivocado: el anclaje en el marco de referencia espacial de la escena, y no la ejecutabilidad, era la restricción vinculante. El profesorado usó las sugerencias como un [[human-in-the-loop-ai|proceso de refinamiento controlable]] y no como una respuesta: 127 de las 147 acciones rechazadas o modificadas (86,4%) fueron seguidas de un nuevo prompt, y solo una de un ajuste manual. El resultado más aleccionador del estudio es de representación: las anotaciones que externalizaban el razonamiento experto no se alineaban de forma fiable con lo que entendían las personas novatas, así que la instrucción inmersiva con IA arrastra tanto el problema de anclaje de los casos de tutoría anteriores como un segundo: la competencia del profesorado y la comprensión de quien aprende no son el mismo objetivo.
 

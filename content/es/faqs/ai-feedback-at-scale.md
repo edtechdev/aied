@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede ayudarme la IA a dar mejor retroalimentación a escala?"
 created: "2026-09-22T18:40:51-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -16,6 +16,10 @@ translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -36,7 +40,7 @@ ai_assist:
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
-Es la sexta semana. Tiene una pila de borradores, una rúbrica en la que cree y la sospecha creciente de que un tercio de sus comentarios se leen por encima y se olvidan. Un colega menciona que una herramienta ya comenta todos los borradores en menos de una hora. La reunión de departamento necesita una respuesta: ¿es una mejora o una forma más rápida de producir texto que nadie lee?
+Es la sexta semana. Tiene una pila de borradores, una [[rubrics|rúbrica]] en la que cree y la sospecha creciente de que un tercio de sus comentarios se leen por encima y se olvidan. Un colega menciona que una herramienta ya comenta todos los borradores en menos de una hora. La reunión de departamento necesita una respuesta: ¿es una mejora o una forma más rápida de producir texto que nadie lee?
 
 Respuesta breve para dar a un colega: la retroalimentación con IA se gana su lugar en cobertura, puntualidad y consistencia, dentro de una banda estrecha. El trabajo lingüístico de nivel de corrección y los comentarios de primera pasada guiados por rúbrica merecen automatizarse. El alcance es la parte barata. En un experimento aleatorizado por conglomerados con 1.176 estudiantes universitarios de primer año, los diseños reflexivos e híbridos superaron a la crítica directa de la IA en la [[transfer-of-learning|transferencia]] diferida y sin IA. En un experimento aleatorizado de ensayos con 70 estudiantes, una retroalimentación de IA mejor valorada no produjo mejores revisiones que la de un docente experimentado. Lo que un estudiante hace con un comentario decide el resultado, y la [[feedback-literacy|alfabetización en retroalimentación]] separa a los estudiantes que ganan de los que copian.
 

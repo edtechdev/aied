@@ -1,7 +1,7 @@
 ---
 title: "Utiliser l'IA aide-t-il réellement mes étudiants à apprendre ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 90
 audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]
@@ -26,6 +26,12 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
+connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -96,7 +102,7 @@ La façon dont les étudiants utilisent l'outil compte plus que le fait de l'avo
 
 La leçon [[pedagogy|pédagogique]] est que les autorisations générales et les interdictions générales laissent également les étudiants deviner. Ce qui a changé les comportements, selon le compte rendu de cette étude, c'est un accompagnement propre à la tâche indiquant quel travail cognitif les étudiants devaient retenir et quelle assistance était appropriée, la direction de conception développée dans [[reduce-ai-cheating]] et [[reducing-ai-misuse]].
 
-Faites donc de la pensée retenue un artefact que vous pouvez noter. En mathématiques, demandez la solution tentée avant que l'aide soit sollicitée, puis faites utiliser aux étudiants une consigne du type « identifie la première étape que je devrais reconsidérer, donne-moi un indice utile, et demande-moi de réessayer », et exigez une nouvelle solution accompagnée d'une explication plutôt que la reproduction de la réponse de l'IA. En écriture, faites évaluer aux étudiants leur brouillon contre la grille avant de demander une critique, puis faites-leur expliquer quelles suggestions ils ont acceptées, modifiées ou rejetées. Si la construction d'arguments est l'objectif, la prose de l'IA ne peut pas tenir lieu de preuve que l'étudiant sait construire un argument. Si l'évaluation de révisions alternatives est l'objectif, comparer des exemples complets est approprié. Les pages sur l'[[writing-education|enseignement de l'écriture]] et la [[feedback-literacy|littératie en rétroaction]] contiennent le détail.
+Faites donc de la pensée retenue un artefact que vous pouvez noter. En mathématiques, demandez la solution tentée avant que l'aide soit sollicitée, puis faites utiliser aux étudiants une consigne du type « identifie la première étape que je devrais reconsidérer, donne-moi un indice utile, et demande-moi de réessayer », et exigez une nouvelle solution accompagnée d'une explication plutôt que la reproduction de la réponse de l'IA. En écriture, faites évaluer aux étudiants leur brouillon contre la [[rubrics|grille]] avant de demander une critique, puis faites-leur expliquer quelles suggestions ils ont acceptées, modifiées ou rejetées. Si la construction d'arguments est l'objectif, la prose de l'IA ne peut pas tenir lieu de preuve que l'étudiant sait construire un argument. Si l'évaluation de révisions alternatives est l'objectif, comparer des exemples complets est approprié. Les pages sur l'[[writing-education|enseignement de l'écriture]] et la [[feedback-literacy|littératie en rétroaction]] contiennent le détail.
 
 L'exigence de conception de la revue est le même geste au niveau du cours : la vérification — lire, tester, modifier, expliquer et critiquer la production de l'IA — rendue composante notée et observable plutôt qu'aspiration laissée à la discrétion de l'étudiant. Et tout résultat légitime n'a pas à être démontré sans IA. Un cours peut enseigner délibérément un travail efficace soutenu par l'IA, auquel cas vous évaluez la capacité de l'étudiant à sélectionner, vérifier, réviser et défendre son usage de l'outil, à côté des fondations indépendantes que la discipline exige. [[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]] propose cette distinction à trois volets entre capacité indépendante, performance augmentée par l'IA et responsabilité de vérification. C'est un cadre conceptuel, pas un instrument validé.
 

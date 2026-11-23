@@ -1,7 +1,7 @@
 ---
 title: "Idées fausses sur l'IA"
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Introduction
 
-Les idées fausses sur l'IA importent parce qu'elles sont le précurseur cognitif des comportements nuisibles que documentent les rubriques de la [[cognitive-offloading|dépendance excessive]] et des préoccupations relatives à l'[[academic-integrity|intégrité académique]]. Les gens se mettent rarement à [[ai-misuse-learning-harm|abuser]] de l'IA à dessein ; ils le font parce que des modèles mentaux inexacts les conduisent à mal placer leur confiance, à sauter la vérification, et à traiter la production comme de la compréhension. En éducation, ces erreurs façonnent tout, de la manière dont les étudiants étudient à la façon dont les enseignants et les institutions conçoivent les programmes, l'[[assessment|évaluation]] et les politiques.
+Les idées fausses sur l'IA importent parce qu'elles sont le précurseur cognitif des comportements nuisibles que documentent les rubriques de la [[cognitive-offloading|dépendance excessive]] et des préoccupations relatives à l'[[academic-integrity|intégrité académique]]. Les gens se mettent rarement à [[ai-misuse-learning-harm|abuser]] de l'IA à dessein ; ils le font parce que des modèles mentaux inexacts les conduisent à mal placer leur confiance, à sauter la vérification, et à traiter la production comme de la compréhension. En éducation, ces erreurs façonnent tout, de la manière dont les étudiants étudient à la façon dont les enseignants et les institutions conçoivent les programmes, l'[[assessment|évaluation]] et les politiques. Un autre corpus de travaux interroge le cadrage qui produit ces idées fausses au départ ; voir [[critiques-of-ai-in-education|Critiques de l'IA en éducation]].
 
 ## Ce que sont les idées fausses sur l'IA
 

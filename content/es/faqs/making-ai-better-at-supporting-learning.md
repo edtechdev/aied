@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-11-05T16:18:46-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 weight: 74
 type: faq
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
@@ -20,6 +20,10 @@ translation_of: faqs/making-ai-better-at-supporting-learning
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -44,7 +48,7 @@ El entrenamiento es real y a veces necesario. Es la tercera o la cuarta cosa que
 
 **2.** Ponga la recuperación sobre sus propios materiales delante del modelo. Es la mayor ganancia única que se reporta aquí en relación con su costo, y es reversible.
 
-**3.** Diseñe el prompt contra su rúbrica e itere hasta que la mejora se detenga. La meseta es la señal de que el entrenamiento podría añadir algo.
+**3.** Diseñe el prompt contra su [[rubrics|rúbrica]] e itere hasta que la mejora se detenga. La meseta es la señal de que el entrenamiento podría añadir algo.
 
 **4.** Adapte los pesos con [[llm-training-and-fine-tuning|LoRA]] cuando el objetivo sea estable y estrecho: un formato, una rúbrica, un nivel de lectura, un vocabulario de dominio.
 

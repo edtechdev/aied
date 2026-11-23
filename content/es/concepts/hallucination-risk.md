@@ -1,7 +1,7 @@
 ---
 title: Riesgo de alucinación
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-17T16:50:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,8 +27,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -58,7 +62,7 @@ La **alucinación en la evaluación** es especialmente dañina. **[[llm-cognitiv
 
 En un piloto de diseño de evaluación, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] hallaron referencias fabricadas y estimaciones de tiempo poco realistas que sobrevivían a repetidos prompts y exigían una revisión académica sustancial: alucinación en una herramienta de borradores orientada al docente más que en el trabajo del estudiantado.
 
-**La generación y el reformateo fallan de manera distinta.** Cuando se le pidió una lista de referencias en estilo IEEE sobre células solares de perovskita, ChatGPT devolvió entradas que quienes escribieron el estudio encontraron en su mayoría alucinadas o mal citadas: iniciales, año, volumen y páginas incorrectos, y un artículo de aspecto plausible atribuido a un grupo que nunca hizo ese trabajo ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra y Gong, 2026]]).
+**La generación y el reformateo fallan de manera distinta.** Cuando se le pidió una lista de referencias en estilo IEEE sobre células solares de perovskita, ChatGPT devolvió entradas que quienes escribieron el estudio encontraron en su mayoría alucinadas o mal citadas: iniciales, año, volumen y páginas incorrectos, y un artículo de aspecto plausible atribuido a un grupo que nunca hizo ese trabajo ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra y Gong, 2026]]). Cuando en cambio se le pidió convertir un conjunto de referencias ya verificadas a APA, la misma herramienta fue exacta y ahorró un tiempo sustancial. El riesgo reside en la búsqueda de las fuentes más que en el trabajo bibliográfico, y esa es una línea que la [[rubrics|rúbrica]] de una tarea puede enunciar.
 
 Las **[[misconceptions]] estratégicas** son un pariente más sutil de la alucinación manifiesta. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] pidieron a siete modelos de pesos abiertos que produjeran una «[[socratic-method|socrática]] trampa» para 35 conceptos nucleares de informática — una explicación fluida y autorizada que descansa sobre un error sutil y específico del dominio — y tres expertos del dominio confirmaron 221 de 241 segmentos solicitados (91,7%) como ideas erróneas estratégicas, sin diferencias significativas entre los dominios de informática. Los errores eran predominantemente conceptuales más que factuales (66,5% frente a 33,5%) y ninguno era puramente lógico, y fueron valorados como de moderada a altamente persuasivos (M = 3,71 en una escala de cinco puntos), con la identidad del modelo explicando el 43% de la varianza. Dado que afirmaciones individuales pueden ser correctas mientras que la relación entre ellas es errónea, la verificación de hechos resulta insuficiente; los autores sostienen que los [[ai-literacy|estudiantes]] necesitan verificación conceptual y validación de modelos mentales. También advierten de que la tasa mide la capacidad bajo un [[prompt-engineering|prompting]] adversarial más que la prevalencia de tales errores en el uso ordinario, y de que no se puso a prueba a ningún estudiante, de modo que no se midió ningún engaño ni resultado de aprendizaje.
 
@@ -73,6 +77,8 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 **La falta de fiabilidad etiquetada redujo la dependencia declarada en lugar de aumentarla.** Cuando 546 participantes leyeron el mismo diálogo de GAI etiquetado como portador de información fabricada o como verificado y exacto, la etiqueta de fabricación produjo menor [[trust]] y controlabilidad percibida, y mayor disonancia cognitiva y frustración junto a puntuaciones de dependencia *inferiores* (M = 2,935 frente a 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). El resultado matiza la lógica de la dependencia excesiva: ver que una salida puede estar fabricada no es lo mismo que seguir apoyándose en ella.
 
 **Las señales de credibilidad pueden amplificar la deferencia en lugar de atenuarla.** El movimiento opuesto aparece cuando una salida poco fiable se presenta disfrazada: añadir citas y señales de credibilidad a la interfaz de debate de ARMADA elevó un 112% la fracción de participantes que abandonaban un juicio inicial correcto en favor de una posición incorrecta de la IA (31,8% frente a 15,0%), y la comprobación manual encontró algunos casos citados mal atribuidos a referencias irrelevantes o ficticias ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+Un modo de fallo distinto es el problema mal planteado. En [[bauyrzhan-genai-inorganic-chemistry-verification-2026|un benchmark exploratorio de tres chatbots sobre 42 problemas de química inorgánica]], todos los chatbots respondieron con seguridad a enunciados defectuosos sin señalar el defecto, pedir aclaraciones o negarse, y los marcadores de incertidumbre nunca llegaban a la conclusión. El fallo no es una respuesta incorrecta, sino una premisa falsa aceptada en silencio.
 
 ## Concepciones erróneas
 

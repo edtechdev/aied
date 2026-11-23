@@ -1,7 +1,7 @@
 ---
 title: "Analyse par capteurs et suivi du regard"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,13 +12,17 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
 connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
@@ -51,7 +55,7 @@ Une [[meta-analysis-systematic-review|revue systématique]] de 23 études associ
 
 **L'électroencéphalographie.** L'EEG enregistre les fluctuations de tension à travers le cuir chevelu à haute résolution temporelle. C'est le seul signal de cette famille qui atteint directement l'activité corticale, ce qui explique l'intérêt de la recherche en évaluation. Les systèmes éducatifs utilisent des électrodes sèches et peu de canaux : E3Sense a pris quatre canaux EEG secs à 125 Hz et en a analysé deux frontaux ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et coll., 2026]]). Les dispositifs de recherche font l'inverse : Kosmyna et coll. (2025) ont utilisé un EEG à 32 canaux pour comparer des étudiants écrivant avec un [[llm|LLM]], un moteur de recherche ou aucun outil, et ont trouvé la connectivité neuronale la plus faible dans le groupe LLM ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et coll., 2025]]). Cette étude est aussi l'avertissement le plus clair sur les preuves à canal unique : son affirmation centrale repose sur une session croisée facultative à laquelle 18 des 54 participants seulement ont assisté.
 
-**Hyperscanning en fNIRS.** Enregistrer deux apprenants à la fois mesure la synchronie inter-cerveaux, et non un seul cerveau : [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et coll. (2026)]] ont constaté que des exemples attribués à des humains élevaient la synchronie prémotrice et l'unicité des idées, que l'attribution à l'IA l'abaissait, et qu'aucun des gains comportementaux ne survivait au retrait.
+**Hyperscanning en fNIRS.** Enregistrer deux apprenants à la fois mesure la synchronie inter-cerveaux, et non un seul cerveau : [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et coll. (2026)]] ont constaté que des [[rubrics|exemples]] attribués à des humains élevaient la synchronie prémotrice et l'unicité des idées, que l'attribution à l'IA l'abaissait, et qu'aucun des gains comportementaux ne survivait au retrait.
 
 **L'activité électrodermale.** L'EDA mesure la conductance des glandes sudoripares, un indice de l'activation sympathique. Elle répond au stress, à l'effort et à l'intensité émotionnelle, et elle ne peut les distinguer. Le même construit apparaît dans des bracelets et dans des électrodes frontales fixées à quelques centimètres l'une de l'autre par un cadre d'oculomètre ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et coll., 2026]]).
 

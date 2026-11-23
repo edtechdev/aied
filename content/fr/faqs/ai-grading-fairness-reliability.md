@@ -1,7 +1,7 @@
 ---
 title: "Puis-je utiliser l'IA pour noter le travail des étudiants de façon équitable et fiable ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -20,11 +20,15 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-Vous avez une grille à laquelle vous croyez, plus de copies que d'heures, et un outil qui rend une note et plusieurs paragraphes assurés dans le temps qu'il faut pour lire une seule copie. Vous l'essayez sur des travaux que vous avez déjà notés. La moitié des notes semble juste. Une est étrangement généreuse, une autre étrangement sévère, et vous ne savez pas encore si c'est l'outil ou la copie.
+Vous avez une [[rubrics|grille]] à laquelle vous croyez, plus de copies que d'heures, et un outil qui rend une note et plusieurs paragraphes assurés dans le temps qu'il faut pour lire une seule copie. Vous l'essayez sur des travaux que vous avez déjà notés. La moitié des notes semble juste. Une est étrangement généreuse, une autre étrangement sévère, et vous ne savez pas encore si c'est l'outil ou la copie.
 
 Voici la réponse courte : la notation par IA gagne sa place comme assistante supervisée ou comme second lecteur, sur des tâches où vous l'avez vérifiée contre des travaux que vous avez déjà notés. La concordance ne se transfère pas d'un type d'évaluation à l'autre. Dans un examen de pharmacie portant sur seize étudiants, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] ont trouvé une concordance quasi parfaite sur les types d'items objectifs et une concordance non fiable sur les réponses ouvertes. Dans trois universités anglaises, [[opraise-automated-marking-ai-assessment-2026|le projet OpRaise]] a trouvé que les évaluateurs IA et humains s'accordaient sur la classe de diplôme entre 35% et 65% du temps selon l'établissement, avec des notes comprimées vers le milieu. Une justification fluide n'est pas la preuve que vos critères ont été appliqués. La question de savoir si le résultat est [[assessment-validity|valide pour votre décision]] est une question locale que vous devez trancher vous-même, et [[human-in-the-loop-ai|une personne reste responsable]] de tout ce qui devient une note consignée.
 

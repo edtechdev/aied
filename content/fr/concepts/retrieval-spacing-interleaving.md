@@ -1,7 +1,7 @@
 ---
 title: "Récupération, espacement et entrelacement"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-15T11:53:36-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
 connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
@@ -93,7 +97,7 @@ L'entrelacement repose sur la même famille théorique que les deux autres techn
 
 - **Petits échantillons et contextes uniques.** L'échantillon analytique de l'étude de prétest est de 89 étudiants de premier cycle dans un seul cours de statistiques appliquées, avec 27 à 34 étudiants par bras ; l'étude d'interaction avec le LLM a n = 22 avec un dispositif à groupe unique qui ne soutient aucune affirmation causale ; l'étude de ré-enseignement a 22 participants. Les auteurs de l'étude de prétest énoncent qu'une réplication à travers les domaines et les types de tâches est nécessaire pour la généralisabilité.
 - **Intervalles de rétention courts ou absents.** L'étude de profondeur d'interaction n'a testé que le rappel immédiat, sans mesure différée, de sorte que son résultat nul est un nul pour la rétention à court terme spécifiquement. L'avantage de rétention de Memdora et la [[llm-interaction-depth-task-quality-recall-2026|dissociation liée à la profondeur du LLM]] ne sont pas davantage suivis sur les semaines qu'exigerait la littérature sur l'espacement ; la fenêtre de sept semaines de l'étude de prétest est la plus longue disponible.
-- **Mesures [[self-report-measures|auto-déclarées]] et mesures indirectes.** L'effort de pratique dans l'étude de prétest est un indicateur comportemental noté par deux évaluateurs selon une grille appliquée aux journaux de conversation, ce dont les auteurs notent explicitement que ce n'est pas une mesure de l'état [[motivation|motivationnel]] interne ; la mesure de profondeur du LLM est un indicateur fondé sur les mots-clés qui capte la forme apparente de la recherche d'explication plutôt que sa qualité.
+- **Mesures [[self-report-measures|auto-déclarées]] et mesures indirectes.** L'effort de pratique dans l'étude de prétest est un indicateur comportemental noté par deux évaluateurs selon une [[rubrics|grille]] appliquée aux journaux de conversation, ce dont les auteurs notent explicitement que ce n'est pas une mesure de l'état [[motivation|motivationnel]] interne ; la mesure de profondeur du LLM est un indicateur fondé sur les mots-clés qui capte la forme apparente de la recherche d'explication plutôt que sa qualité.
 - **Limites d'instrumentation et de modélisation.** Les modèles de [[knowledge-tracing|traçage des connaissances]] échouent exactement là où les décisions d'espacement en ont besoin, et les auteurs attribuent les réussites passées à un ajustement rétroactif sur l'ensemble des données plutôt qu'à une validation réaliste au regard du déploiement. La qualité des cartes mémoire du compagnon bilingue n'est pas vérifiée par rapport à une vérité de référence, sans couche automatisée de vérification des faits, et aucune étude de résultats n'y a été menée.
 - **L'entrelacement n'a essentiellement aucune preuve directe.** Aucune comparaison bloqué contre entrelacé n'existe, seulement une simulation dans laquelle l'Entrelacement est une stratégie sélectionnable parmi plusieurs.
 - **Populations de sujets et contenus.** La base de preuves se concentre sur l'[[higher-ed|enseignement supérieur]], sur les matériaux STEM et statistiques, et sur des distinctions fait-compétence issues de contenus de géométrie et de régression multiple ; la généralisation aux contextes du [[k-12|primaire et du secondaire]], aux [[humanities-education|humanités]] et à l'écriture, et aux classes non occidentales n'est pas établie par ces études.

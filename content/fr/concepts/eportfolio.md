@@ -1,7 +1,7 @@
 ---
 title: "Portefeuille électronique (e-portfolio)"
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,10 +10,14 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -50,7 +54,7 @@ La recherche montre que les portefeuilles électroniques occupent une place de p
 - **ChatGPT + portefeuille électronique pour l'[[language-learning|apprentissage des langues]].** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et coll. (2026)]] associent ChatGPT à l'évaluation par portefeuille électronique (modèle CEA) pour l'expression orale en EFL : la MANOVA a montré des gains significatifs en performance orale (F(1)=48.554, p<.001) et en [[feedback-literacy|littératie de la rétroaction]] (F(1)=16.135, p<.001), les portefeuilles électroniques soutenant à la fois la capacité orale et les capacités [[metacognition|métacognitives]] à exploiter efficacement la rétroaction.
 - **Les portefeuilles comme stratégie d'évaluation à l'ère de l'IA.** [[responsible-assessment-ai-era-stanford-2026|Responsible assessment (2026)]] plaide pour passer de l'épreuve unique à une **évaluation continue et intégrée par les portefeuilles** et aux approches par compétences. [[pbl-structural-conditions-ai-2026|Rowe (2026)]] désigne les portefeuilles (accompagnés d'oraux et de pratique observée) comme des réponses partielles au problème ouvert de l'évaluation à grande échelle lorsque l'artefact-comme-indicateur s'est brisé.
 - **Les portefeuilles comme traces d'apprentissage évaluables.** [[learn-framework-responsible-genai-pbl-2026|Uden et Hwang (2026)]] emploient des **portefeuilles d'apprentissage personnels** comme mécanisme du cadre LEARN — des traces d'apprentissage évaluables (portefeuilles, déclaration des usages de l'IA) qui rendent la dépendance à l'IA transparente et vérifiable.
-- **Portefeuilles symbiotiques pour les apprenants hybrides.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propose un **portefeuille symbiotique** pour l'apprenant post-humain/hybride, évalué au moyen d'une grille à cinq critères (dialogue génératif, audit épistémique, réflexion critique, etc.) — un modèle explicite pour évaluer le travail collaboratif humain + IA.
+- **Portefeuilles symbiotiques pour les apprenants hybrides.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propose un **portefeuille symbiotique** pour l'apprenant post-humain/hybride, évalué au moyen d'une [[rubrics|grille d'évaluation]] à cinq critères (dialogue génératif, audit épistémique, réflexion critique, etc.) — un modèle explicite pour évaluer le travail collaboratif humain + IA.
 
 ## Pourquoi les portefeuilles électroniques importent pour l'intégration de l'IA
 

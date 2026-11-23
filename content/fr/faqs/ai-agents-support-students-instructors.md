@@ -1,7 +1,7 @@
 ---
 title: "Comment les agents d'IA peuvent-ils aider les étudiants et les enseignants ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-19T19:35:52-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
@@ -25,13 +25,17 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
 Une démonstration commerciale dure quarante minutes. L'agent lit le programme, rédige le quiz de la semaine prochaine, signale trois étudiants qui n'ont pas ouvert la lecture et propose de leur écrire. Votre vice-recteur veut une décision de licence avant la fin du mois.
 
-Un [[agentic-ai|agent]] planifie, appelle des outils, conserve le contexte, découpe le travail en sous-tâches et s'adapte au fil des tours, ce qui va plus loin qu'un [[conversational-ai|agent conversationnel]]. Les rôles côté étudiant et côté enseignant que cela ouvre sont réels. Les preuves ne montrent pas que plus d'autonomie produit plus d'apprentissage : dans la seule étude comparative directe disponible ici, un agent et un agent conversationnel arrivent à égalité. Placez l'autonomie là où une personne vérifie la sortie, laissez la planification à l'apprenant, et notez la qualité de l'enseignement selon votre propre grille.
+Un [[agentic-ai|agent]] planifie, appelle des outils, conserve le contexte, découpe le travail en sous-tâches et s'adapte au fil des tours, ce qui va plus loin qu'un [[conversational-ai|agent conversationnel]]. Les rôles côté étudiant et côté enseignant que cela ouvre sont réels. Les preuves ne montrent pas que plus d'autonomie produit plus d'apprentissage : dans la seule étude comparative directe disponible ici, un agent et un agent conversationnel arrivent à égalité. Placez l'autonomie là où une personne vérifie la sortie, laissez la planification à l'apprenant, et notez la qualité de l'enseignement selon votre propre [[rubrics|grille]].
 
 ## La version courte
 

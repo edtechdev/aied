@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement des STIM"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
 connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
@@ -42,6 +46,8 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 ## Introduction
 
 ### Les STIM comme domaine principal de l'AIED
+
+La section disciplines répartit les pages de matières en quatre groupes — [[humanities-education|humanités et arts]], [[social-sciences-education|sciences sociales]], STIM et [[professions-education|professions]] — et les STIM sont de loin le plus vaste, ce qui est en soi un constat sur l'endroit où s'accumulent les données probantes sur l'IA en éducation.
 
 - **Mathématiques :** la recherche sur l'[[math-education|enseignement des mathématiques]] couvre l'[[generative-ai-reduced-study-time-math|impact de l'IA générative sur l'apprentissage des mathématiques]], le [[ai-powered-personalized-learning-elementary-fractions-2026|tutorat sur les fractions à l'école élémentaire]] et le [[student-math-competence-clustering|regroupement par compétences]].
 - **Les preuves sur le tutorat intelligent en mathématiques sont bornées et conditionnelles.** Une revue narrative structurée de 20 publications (2020 à avril 2026) a trouvé l'avantage mesuré le plus clair pour un [[feedback|retour]] diagnostique en temps réel superposé au même système adaptatif, mais conclut que le tutorat intelligent ne soutient l'apprentissage des mathématiques que lorsque se combinent une [[student-modeling|modélisation valide de l'apprenant]], un étayage calibré et une médiation de l'enseignant, et que la mise à l'échelle est un problème technique et non pédagogique ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).

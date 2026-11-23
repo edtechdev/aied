@@ -1,7 +1,7 @@
 ---
 title: "Snorkl"
 created: "2026-10-08T04:31:36-04:00"
-updated: "2026-10-08T04:31:36-04:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: resource
 summary: "Una herramienta de aula que da al alumnado retroalimentación instantánea con IA sobre explicaciones habladas y dibujadas de su razonamiento, y ofrece al profesorado analíticas sobre esas explicaciones."
 url: https://snorkl.app/
@@ -25,6 +25,10 @@ ai_assist:
     role: translation
     date: "2026-10-08"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multimodal, speech-and-voice-technologies, learning-analytics, k-12]
 ---
 
@@ -34,7 +38,7 @@ connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multim
 
 ## Qué puede hacer con ella
 
-El alumnado graba una explicación de voz mientras dibuja en una pizarra. La retroalimentación vuelve en segundos sobre esa respuesta [[multimodal|multimodal]]. El profesorado crea sus propias actividades o recurre a una biblioteca de actividades alineadas con los estándares, de modo que los criterios de retroalimentación siguen el currículo y no los del proveedor: las preguntas frecuentes afirman que la herramienta admite todas las asignaturas y edades de K-12 y enumeran 64 idiomas para la retroalimentación, ya sea en el idioma que habla el estudiante o en uno que elija el docente. Un panel para el profesorado muestra patrones de clase como errores conceptuales frecuentes y ejemplos destacados; las tareas se distribuyen mediante un enlace del LMS o un código de acceso, con inicio de sesión de Google, Microsoft o Clever.
+El alumnado graba una explicación de voz mientras dibuja en una pizarra. La retroalimentación vuelve en segundos sobre esa respuesta [[multimodal|multimodal]]. El profesorado crea sus propias actividades o recurre a una biblioteca de actividades alineadas con los estándares, de modo que los criterios de retroalimentación siguen el currículo y no los del proveedor: las preguntas frecuentes afirman que la herramienta admite todas las asignaturas y edades de K-12 y enumeran 64 idiomas para la retroalimentación, ya sea en el idioma que habla el estudiante o en uno que elija el docente. Un panel para el profesorado muestra patrones de clase como errores conceptuales frecuentes y [[rubrics|ejemplares]]; las tareas se distribuyen mediante un enlace del LMS o un código de acceso, con inicio de sesión de Google, Microsoft o Clever.
 
 ## Para quién es
 

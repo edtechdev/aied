@@ -1,13 +1,13 @@
 ---
 title: "Apprentissage adaptatif"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T11:54:44-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
-connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
+connected_articles: [adapt-adaptive-lesson-plan-transformer, adaptive-ai-scaffold-collaborative-problem-solving-2026, adaptive-pretesting-retention, adaptive-scaffolding-cognitive-engagement-its, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-student-engagement-online-learning-review-2025, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, ayasrah-adaptive-assessment-conceptual-mastery-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, bin-bakheet-adaptive-ai-stem-deep-learning-2026, burneo-can-edtech-close-learning-gaps-2026, chudziak-ai-math-tutoring-platform, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026, context-based-ai-secondary-chemistry-2026, deceptive-overgeneralization-adaptive-learning-2026, graph-its-adaptive-algorithms-2026, khalifeh-redefining-personalized-learning-ai-2026, making-ai-tutoring-productive-mastery-math-2026, mars-momentum-aware-adaptive-rating-assessment-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, riedmann-reinforcement-learning-education-review-2026, simon-student-engagement-adaptive-learning-2026, stanford-evidence-base-ai-k12-2026, turano-ai-tutoring-not-a-monolith-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, zerkouk-comprehensive-review-its-2025, zhao-deeptutor-agentic-personalized-tutoring-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -45,6 +49,7 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 - **Séquençage du contenu :** le [[adaptive-pretesting-retention|prétest adaptatif]] et les [[adapt-adaptive-lesson-plan-transformer|transformateurs de plans de cours]] optimisent l'ordre et le type de contenu présenté.
 - **Intégration aux STI :** les [[intelligent-tutoring|systèmes de tutorat intelligent]] constituent la [[edtech-platform|plateforme]] canonique de l'apprentissage adaptatif, combinant diagnostic et adaptation.
 - **Profilage et diagnostic pilotés par l'AutoML :** les modèles éducatifs traditionnels peinent à traiter des données de comportement d'apprentissage hétérogènes et multi-sources, ce qui limite le profilage des apprenants et le développement de modèles de diagnostic. Un cadre de recherche neuronale cognitive personnalisée piloté par l'[[machine-learning|apprentissage automatique]] intègre des données éducatives [[multimodal|multimodales]] à des méthodes hétérogènes, produisant des modèles de diagnostic adaptés à des profils d'apprenants hétérogènes et permettant une analyse dynamique plutôt que statique des processus d'apprentissage.
+- **La couverture est une contrainte de conception, pas un effet secondaire.** [[ayasrah-adaptive-assessment-conceptual-mastery-2026|Un protocole randomisé par grappes avec vérifications de conception par simulation]] a constaté que le séquençage adaptatif filtré par prérequis atteignait 6,3 concepts sur 8, contre 8,0 pour une séquence fixe ; le protocole définit donc la couverture du programme comme un plancher explicite plutôt que de laisser le filtrage par prérequis en décider.
 
 ## Données probantes sur l'efficacité
 
@@ -87,6 +92,7 @@ L'apprentissage adaptatif est fréquemment confondu avec l'[[personalized-learni
 
 - **La reconnaissance dépasse la mise en œuvre.** Parmi 90 éducateurs, 74 (82.2%) identifiaient des apprenants nécessitant une adaptation, mais seulement 50 (55.6%) avaient mis en œuvre une mesure adaptative ; l'obstacle déterminant était l'information sur les apprenants, non la technologie, citée par 12% ([[hilali-adaptive-learning-challenges-2026|Hilali et Chergui (2026)]]).
 - **Le contrôle fait partie du traitement.** Qui contrôle l'adaptation compte autant que ce qui est adapté : sur 83 études, le contrôle par le système produisait g = 1.05 (IC à 95% [.65, 1.45]) et le contrôle par l'enseignant g = .86 [.46, 1.26] sur les connaissances, tandis que le contrôle par l'apprenant n'atteignait que g = .31 [−.44, 1.05] ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
+- **Une mémoire en boucle fermée couple le tutorat à la pratique.** [[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] stocke une forêt de traces à trois niveaux des erreurs d'un étudiant, ce qui permet aux faiblesses révélées pendant le tutorat de façonner la question générée suivante, soit +10,8 % sur les mesures personnalisées et +29,4 % sur le raisonnement agentique général.
 
 ## Implications pour la pratique
 **Pour les enseignants et les concepteurs**

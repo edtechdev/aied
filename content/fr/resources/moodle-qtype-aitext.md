@@ -1,7 +1,7 @@
 ---
 title: "Type de question Texte IA pour Moodle"
 created: "2026-11-12T11:18:00-05:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "Un type de question Moodle open source (GPL v3) qui note des réponses en texte libre avec un grand modèle de langage selon une invite par question et un barème facultatif, en utilisant OpenAI, Azure ou un modèle Ollama auto-hébergé et en montrant le retour de l'IA à un correcteur humain."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -25,12 +25,16 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-assessment, assessment-validity, open-source, academic-integrity]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-La plupart des intégrations de quiz IA envoient chaque réponse à un appel de notation fixe. Ce type de question Moodle fait l'inverse : l'enseignant écrit le barème. Chaque question porte une **invite** indiquant au modèle comment évaluer la réponse et un **barème** facultatif décrivant comment les points sont attribués, si bien qu'un item « écrire une phrase au passé » peut préciser dix points sans erreur, zéro pour une grammaire cassée et un point retiré par faute d'orthographe. Le modèle renvoie une note et un [[feedback|retour]], et un enseignant peut voir ce retour à côté de la réponse lorsqu'il corrige à la main.
+La plupart des intégrations de quiz IA envoient chaque réponse à un appel de notation fixe. Ce type de question Moodle fait l'inverse : l'enseignant écrit le [[rubrics|barème]]. Chaque question porte une **invite** indiquant au modèle comment évaluer la réponse et un **barème** facultatif décrivant comment les points sont attribués, si bien qu'un item « écrire une phrase au passé » peut préciser dix points sans erreur, zéro pour une grammaire cassée et un point retiré par faute d'orthographe. Le modèle renvoie une note et un [[feedback|retour]], et un enseignant peut voir ce retour à côté de la réponse lorsqu'il corrige à la main.
 
 ## Ce que vous pouvez en faire
 

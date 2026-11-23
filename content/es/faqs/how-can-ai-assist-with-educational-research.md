@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA ayudar en la investigación educativa?"
 created: "2026-10-05T12:43:10-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -20,6 +20,10 @@ translation_of: faqs/how-can-ai-assist-with-educational-research
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -46,7 +50,7 @@ La respuesta breve para esa reunión: la IA puede encargarse de la búsqueda, de
 
 **2.** Ponga la automatización en el cribado. Deje la extracción de datos, la conciliación y la síntesis en manos de personas.
 
-**3.** Fije el libro de códigos y la rúbrica antes de que una pasada automatizada toque los datos.
+**3.** Fije el libro de códigos y la [[rubrics|rúbrica]] antes de que una pasada automatizada toque los datos.
 
 **4.** Decida qué significa verificar y quién lo firma. La concordancia entre un modelo y quien codifica es una medida de similitud, no un resultado de calidad.
 

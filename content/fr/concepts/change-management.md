@@ -1,7 +1,7 @@
 ---
 title: "Conduite du changement"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-15T12:02:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
 connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
@@ -73,6 +77,8 @@ Dans les établissements où la stratégie devance les infrastructures, le trava
 **Pour les [[administrator|administrateurs]] et les [[educational-policy-ai|décideurs publics]]**, les données probantes plaident en faveur d'une gouvernance participative, d'un investissement dans les infrastructures et du renforcement des capacités plutôt que de documents de stratégie aspirationnels, en traduisant la politique nationale en un soutien concret aux enseignants plutôt qu'en injonctions descendantes. **Pour les enseignants**, la conduite du changement signifie passer du statut d'adoptant à celui d'expérimentateur guidé par l'enquête, en engageant les [[pedagogical-partnerships|étudiants comme partenaires]] et en ancrant la réforme dans des principes pédagogiques durables plutôt que dans des outils susceptibles d'être obsolètes en quelques mois — avec la réserve que le développement professionnel doit viser un cycle de conception complet (analyse des besoins, rétroaction) et non le seul usage des outils, comme le montre l'[[dot-framework-survey-2026|enquête sur le cadre DOT]].
 
 Une étude de cas institutionnelle retrace un arc de diffusion de dix ans en mathématiques de premier cycle, allant de l'initiative individuelle et des ateliers entre pairs à l'acquisition conjointe de licences par le corps enseignant et au financement central ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
+
+Les [[learning-environments-as-systems|environnements d'apprentissage comme systèmes]] fournissent l'instrument d'analyse : un effort de changement visant un niveau produit des effets aux autres, si bien qu'un programme de développement pédagogique qui n'atteint jamais la charge de travail, les marchés publics ou la politique modifie les conditions qui décident si la nouvelle pratique survit.
 
 La refonte d'un cours a un coût que les établissements devraient budgéter plutôt que présumer : adopter un cours intégrant l'IA représentait environ 15 à 20 heures de travail de refonte par cours avant tout ajustement continu [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **L'engagement s'explique par la capacité et la disposition, non par l'enthousiasme.** Un cadre pour la pratique de l'évaluation soutient qu'une adoption inégale de l'IA générative reflète quatre conditions — la capacité, la disposition, et les soutiens et contraintes qui les entourent — plutôt qu'une résistance, et qu'un atelier unique construit un vocabulaire mais pas un jugement ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Nommer la condition manquante indique à un établissement s'il doit former, doter en ressources ou changer l'incitation.

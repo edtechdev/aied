@@ -1,7 +1,7 @@
 ---
 title: "Comment savoir si une IA éducative fonctionne correctement, et pas seulement qu'elle obtient de bons scores ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
@@ -20,6 +20,10 @@ translation_of: faqs/checking-whether-educational-ai-works
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -56,7 +60,7 @@ Deux familles de chiffres dominent cette littérature. Les deux mesurent à quel
 
 **Les scores d'accord** (QWK, kappa quadratique pondéré) mesurent à quel point les notes du modèle s'alignent sur celles d'un humain. Un modèle peut reproduire la note finale du correcteur tout en se trompant sur le pourquoi, et le pourquoi est la partie dont l'étudiant apprend.
 
-Un étudiant peut atteindre une réponse fausse par une voie fausse qui ressemble à une voie juste, et aucun score de similarité ne le remarque. Si le raisonnement est ce qui vous importe, la mesure doit le lire : une grille appliquée par une personne, ou une vérification écrite pour cette étape particulière.
+Un étudiant peut atteindre une réponse fausse par une voie fausse qui ressemble à une voie juste, et aucun score de similarité ne le remarque. Si le raisonnement est ce qui vous importe, la mesure doit le lire : une [[rubrics|grille d'évaluation]] appliquée par une personne, ou une vérification écrite pour cette étape particulière.
 
 L'assistant du cours Linear Control Systems rapporte cela correctement. Sa meilleure configuration atteignait un score de similarité de **0.4093** face à des réponses de référence, l'amélioration étant mesurée de façon fiable au-dessus de zéro, et les auteurs déclarent clairement que les chiffres mesurent la formulation et le format ([[lora-finetuned-control-systems-course-qa-2026]]). Le score n'impressionne pas et l'article reste utile, parce qu'il dit ce que le score couvre.
 

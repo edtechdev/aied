@@ -1,7 +1,7 @@
 ---
 title: "Devrait-on utiliser des détecteurs d'IA ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -9,11 +9,15 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -34,6 +38,7 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -112,7 +117,7 @@ Terminez par une décision que vous pouvez énoncer sans le score. Soit l'étudi
 
 ## Placez dans le devoir une étape dans laquelle l'outil ne peut pas s'insérer
 
-Les [[oral-assessment|évaluations orales]] asynchrones, conçues comme des invites au moment opportun avec de brèves réponses enregistrées et limitées dans le temps, notées selon des grilles intégrées, ont obtenu des résultats comparables à ceux d'examens à choix multiples en présentiel dans une étude et nettement meilleurs dans une autre, les étudiants rapportant une préparation plus active et une pertinence professionnelle perçue plus élevée. Pour un [[administrator]], la propriété qui compte est que cela passe à l'échelle sans surveillance ([[asynchronous-oral-assessment-2026]]).
+Les [[oral-assessment|évaluations orales]] asynchrones, conçues comme des invites au moment opportun avec de brèves réponses enregistrées et limitées dans le temps, notées selon des [[rubrics|grilles d'évaluation]] intégrées, ont obtenu des résultats comparables à ceux d'examens à choix multiples en présentiel dans une étude et nettement meilleurs dans une autre, les étudiants rapportant une préparation plus active et une pertinence professionnelle perçue plus élevée. Pour un [[administrator]], la propriété qui compte est que cela passe à l'échelle sans surveillance ([[asynchronous-oral-assessment-2026]]).
 
 Reconcevoir la tâche fait plus de travail que durcir le contrôle. Une étude de cas auprès d'étudiants de premier cycle en économie a constaté qu'environ un tiers seulement déclaraient un usage de l'IA, la déclaration étant plus rare encore, et elle interprète la non-déclaration comme une prudence rationnelle sous une politique ambiguë plutôt que comme de la malhonnêteté. Ces mêmes étudiants préféraient des tâches ancrées dans le réel et fondées sur des données comme solution ([[kirsanov-beyond-detection-ai-online-assessments-2026]]). Attendre, déclarer et examiner l'usage de l'IA vaut mieux que le policer, parce que l'[[authentic-assessment|authenticité]] doit être conçue et non imposée ([[beyond-detection-authentic-assessment-ai-2025]]).
 

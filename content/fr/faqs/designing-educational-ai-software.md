@@ -1,13 +1,13 @@
 ---
 title: "Quelles sont les bonnes pratiques et les conseils pour concevoir un logiciel éducatif d'IA efficace ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -24,6 +24,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -36,7 +41,7 @@ La réponse est plus étroite que ne le supposent la plupart des spécifications
 
 **1.** Écrivez ce que le système décide et ce qu'un enseignant décide. Cette frontière devient l'architecture.
 
-**2.** Évaluez l'interaction multi-tours et sensible à la discipline contre un vrai [[curriculum-design|programme]], pas des prompts isolés contre une grille de sécurité générique.
+**2.** Évaluez l'interaction multi-tours et sensible à la discipline contre un vrai [[curriculum-design|programme]], pas des prompts isolés contre une [[rubrics|grille de sécurité]] générique.
 
 **3.** Ancrez les réponses dans un contenu approuvé, et gardez le composant de vérification séparé du composant conversationnel.
 

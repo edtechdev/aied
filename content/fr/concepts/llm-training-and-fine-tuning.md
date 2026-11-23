@@ -1,7 +1,7 @@
 ---
 title: "Entraînement et ajustement fin des grands modèles de langue"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
 connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
 ---
@@ -44,7 +49,7 @@ connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini
 
 ## Introduction
 
-Le développement de l'IA éducative se heurte au même mur par deux directions. Les modèles de langue généralistes sont post-entraînés sur la préférence humaine en faveur de l'utilité, ce qui signifie en pratique répondre promptement et complètement ; le tutorat exige l'inverse, parce que l'objectif [[pedagogy|pédagogique]] est d'aider un étudiant à parvenir à la réponse plutôt que de la lui remettre. Dans le même temps, un modèle généraliste ne sait rien de votre programme, de votre barème, ni du ton de votre institution, et aucune quantité d'ingénierie des invites ne les installe de manière fiable.
+Le développement de l'IA éducative se heurte au même mur par deux directions. Les modèles de langue généralistes sont post-entraînés sur la préférence humaine en faveur de l'utilité, ce qui signifie en pratique répondre promptement et complètement ; le tutorat exige l'inverse, parce que l'objectif [[pedagogy|pédagogique]] est d'aider un étudiant à parvenir à la réponse plutôt que de la lui remettre. Dans le même temps, un modèle généraliste ne sait rien de votre programme, de votre [[rubrics|barème]], ni du ton de votre institution, et aucune quantité d'ingénierie des invites ne les installe de manière fiable.
 
 Ce qui compte, ce sont les techniques qui changent un modèle plutôt que le texte que vous lui envoyez. Elles se situent sur une **échelle d'engagement croissant** : l'ingénierie des invites, puis la recherche documentaire, puis l'adaptation économe en paramètres, puis l'ajustement fin complet, puis le post-entraînement par signaux de préférence ou de récompense. Chaque échelon coûte plus de données, plus de calcul et plus de discipline d'évaluation que le précédent, et chacun est un premier choix moins bon que l'échelon inférieur, à moins qu'une mesure spécifique ne justifie la montée. Une grande partie de la littérature de recherche ne rapporte que le sommet de cette échelle, ce qui rend facile pour un développeur de se tourner vers l'entraînement là où la recherche documentaire aurait suffi.
 
@@ -125,7 +130,7 @@ Les données d'entraînement sont elles-mêmes quelque chose que des modèles pe
 
 La même machinerie est de plus en plus pointée vers la simulation d'étudiants, ce qui change l'économie de l'évaluation d'un tuteur : au lieu de recruter des apprenants, vous les générez.
 
-La mise en garde est que les étudiants simulés doivent être validés comme tout autre instrument. Évaluer comparativement des modèles ajustés et sollicités sur **382 dialogues** réservés issus de la plus grande collection publique de véritables dialogues d'apprentissage des mathématiques entre étudiants et tuteurs — sur sept métriques couvrant les aspects linguistiques, comportementaux et cognitifs — a produit le test le plus direct du champ sur la question de savoir si les étudiants simulés se comportent comme des étudiants ([[simulated-students-tutoring-dialogues-2026]]). Deux approches supplémentaires poussent sur la fidélité : INSIDE ajuste des grands modèles de langue pour qu'ils *agissent* et *pensent* comme des étudiants, générant un dialogue interne ancré dans la taxonomie de Bloom à travers les dimensions cognitive, affective et d'action, et s'entraînant sur des traces de pensée et des actions appariées ([[inside-llm-student-simulator-reasoning-2026]]), et des profils conscients de l'historique conditionnent la simulation à la trajectoire antérieure d'un étudiant plutôt qu'à une persona statique ([[history-aware-student-simulation]]). Pour un développeur, la leçon pratique est qu'un simulateur est un instrument de mesure et hérite de toutes les questions de validité que cela implique.
+La mise en garde est que les étudiants simulés doivent être validés comme tout autre instrument. Évaluer comparativement des modèles ajustés et sollicités sur **382 dialogues** réservés issus de la plus grande collection publique de véritables dialogues d'apprentissage des mathématiques entre étudiants et tuteurs — sur sept métriques couvrant les aspects linguistiques, comportementaux et cognitifs — a produit le test le plus direct du champ sur la question de savoir si les étudiants simulés se comportent comme des étudiants ([[simulated-students-tutoring-dialogues-2026]]). Deux approches supplémentaires poussent sur la fidélité : INSIDE ajuste des grands modèles de langue pour qu'ils *agissent* et *pensent* comme des étudiants, générant un dialogue interne ancré dans la [[bloom-taxonomy|taxonomie de Bloom]] à travers les dimensions cognitive, affective et d'action, et s'entraînant sur des traces de pensée et des actions appariées ([[inside-llm-student-simulator-reasoning-2026]]), et des profils conscients de l'historique conditionnent la simulation à la trajectoire antérieure d'un étudiant plutôt qu'à une persona statique ([[history-aware-student-simulation]]). Pour un développeur, la leçon pratique est qu'un simulateur est un instrument de mesure et hérite de toutes les questions de validité que cela implique.
 
 Désapprendre 16 composantes de connaissances en Python de Mistral-7B fait chuter l'exactitude à un niveau cible, et un réapprentissage guidé par un coach la rétablit, ce qui donne à un simulateur un état de connaissances réglable plutôt qu'une persona sollicitée ([[simulating-novice-students-machine-unlearning-2026|Song, Guo et Lin (2026)]]).
 

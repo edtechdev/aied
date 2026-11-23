@@ -1,12 +1,12 @@
 ---
 title: "Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T11:03:45-05:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -23,6 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -31,7 +36,7 @@ C'est jeudi soir, semaine huit. Trois plans de cours sont à rendre lundi, les r
 
 Vous décrivez tous les deux le même outil. Il fait gagner du temps sur la rédaction de matériel que vous alliez de toute façon réviser, et il en coûte quand vous le pointez vers un jugement sur un étudiant en particulier. Que l'économie vous revienne dépend d'une décision que la plupart des enseignants ne prennent jamais : à quoi servent les heures récupérées.
 
-L'essentiel pour la réunion : confiez le premier brouillon et gardez le jugement. Les plans de cours, les exemples résolus, les questions de discussion, les items de quiz [[formative-assessment|formatif]], les explications alternatives, la formulation des grilles d'évaluation et le texte administratif courant sont un travail que vous pouvez spécifier, vérifier et corriger. Les objectifs, les notes finales et tout appel concernant un apprenant précis restent chez vous. Nommez ce que l'heure libérée achète, parce que les preuves sur le gain de temps sont des preuves sur l'endroit où va le temps.
+L'essentiel pour la réunion : confiez le premier brouillon et gardez le jugement. Les plans de cours, les exemples résolus, les questions de discussion, les items de quiz [[formative-assessment|formatif]], les explications alternatives, la formulation des [[rubrics|grilles d'évaluation]] et le texte administratif courant sont un travail que vous pouvez spécifier, vérifier et corriger. Les objectifs, les notes finales et tout appel concernant un apprenant précis restent chez vous. Nommez ce que l'heure libérée achète, parce que les preuves sur le gain de temps sont des preuves sur l'endroit où va le temps.
 
 ## La version courte
 
@@ -53,6 +58,8 @@ Un second jeu de données dans le même travail, plus de 104.000 messages de plu
 
 C'est une réaffectation plutôt qu'une réduction : ce que vous gagnez avec l'[[generative-ai|IA générative]], c'est la différence entre une page blanche et un brouillon assez précis pour qu'on puisse le contester.
 
+Deux essais sur les choix des enseignants situent le même constat en heures. Dans 68 écoles secondaires anglaises, le temps de préparation des cours de sciences des Year 7 et 8 est passé de 81,5 à 56,2 minutes par semaine, une économie de 25,3 minutes, sans perte de qualité détectée ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). La dose était faible et a diminué : l'outil couvrait 39 % des cours nominés durant les cinq premières semaines et 29 % durant la seconde. Un essai Aila dans des écoles primaires a trouvé un temps de planification de 2,51 heures par semaine contre 3,32, soit un cinquième de moins, avec un outil qui atteignait 7 % des cours et déclinait au long du trimestre ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
+
 ## Faites correspondre la tâche à ce que l'outil fait bien
 
 La qualité est inégale selon un schéma assez stable pour qu'on planifie autour. Les réviseurs en aveugle ont préféré les versions générées par IA des conclusions de cours et des billets de sortie dans 59.7% des cas à du matériel conçu par des professionnels, et préféré le matériel d'IA pour des contenus de niveau secondaire dans 59.2% des cas. L'économie augmente aussi là où votre confiance est la plus faible : enseigner hors de sa propre discipline est le cas où l'écart est le plus large entre ce que l'outil vous donne et ce que vous auriez écrit seul.
@@ -60,6 +67,8 @@ La qualité est inégale selon un schéma assez stable pour qu'on planifie autou
 Deux catégories vont dans l'autre sens. Sur du matériel de niveau primaire, les humains étaient préférés dans environ 65% des cas pour la pertinence développementale. Les [[scaffolding|étayages]] ciblés pour les [[learners|apprenants]] [[multilingual-learning|plurilingues]] et les élèves en [[special-education|éducation spécialisée]] revenaient neutres plutôt que faux, ce qui est pire que cela en a l'air, puisqu'un étayage neutre est un étayage qu'on reconstruit depuis le début.
 
 Le test qui prédit cela avant que vous n'y passiez une soirée : pouvez-vous énoncer la spécification assez précisément pour vérifier la sortie ? Un billet de sortie sur un objectif, oui. Si un paragraphe convient à une enfant de neuf ans précise qui lit avec deux ans de retard sur sa classe, non.
+
+La formation est le cas qui sépare proprement les deux effets. Dans un essai à trois bras, l'accès à ChatGPT a réduit le temps de préparation de 34 %, et une formation préalable l'a encore réduit de 21 %, tandis que la formation supplémentaire n'a produit aucun gain additionnel dans les évaluations de qualité en aveugle ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Rapidité et qualité se sont dissociées : la stratégie entraînée était plus rapide sans être meilleure.
 
 ## Donnez une destination à l'heure récupérée
 

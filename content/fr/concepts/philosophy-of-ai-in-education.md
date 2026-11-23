@@ -1,14 +1,14 @@
 ---
 title: Philosophie de l'IA en éducation
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-15T11:55:51-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
-connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -39,13 +43,14 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Introduction
 
-Ceci est une page de concept portant sur les fondements philosophiques et théoriques de l'[[ai-education|IA en éducation]]. Alors que les [[learning-theories]] documentent les théories empiriques et orientées vers la conception (le [[behaviorism]], le [[constructivist|constructivisme]], la [[cognitive-offloading|charge cognitive]], l'[[self-regulated-learning|apprentissage autorégulé]], etc.), le volet philosophique engage les questions ontologiques, épistémologiques et éthiques que ces théories présupposent. Les deux sont étroitement liés : les positions philosophiques façonnent les théories de l'apprentissage qui semblent plausibles et les buts éducatifs qui méritent d'être poursuivis.
+Ceci est une page de concept portant sur les fondements philosophiques et théoriques de l'[[ai-education|IA en éducation]]. Alors que les [[learning-theories]] documentent les théories empiriques et orientées vers la conception (le [[behaviorism]], le [[constructivist|constructivisme]], la [[cognitive-offloading|charge cognitive]], l'[[self-regulated-learning|apprentissage autorégulé]], etc.), le volet philosophique engage les questions ontologiques, épistémologiques et éthiques que ces théories présupposent. Les deux sont étroitement liés : les positions philosophiques façonnent les théories de l'apprentissage qui semblent plausibles et les buts éducatifs qui méritent d'être poursuivis. Le volet normatif de ce travail, les arguments sur ce que l'IA en éducation est en train de transformer l'éducation, est rassemblé sous les [[critiques-of-ai-in-education|Critiques de l'IA en éducation]].
 
 ## Questions philosophiques clés
 
 - **La nature de l'esprit et de la cognition.** Penser requiert-il la conscience et un corps ? L'IA peut-elle participer à des processus véritablement cognitifs ? Des cadres tels que la **cognition d'ensemble** soutiennent que l'IA exerce une *agence fonctionnelle* — une efficacité causale réelle dans les processus cognitifs — sans conscience, et que la pensée émerge d'une interaction dynamique entre l'humain et l'[[student-ai-interaction|IA]]. ([[ensemble-cognition-philosophy-ai-education]]) La [[distributed-cognition|cognition distribuée]] et la thèse de l'esprit étendu formulent des affirmations apparentées sur une cognition répartie entre systèmes.
 - **Qu'est-ce que l'apprenant ?** La philosophie posthumaniste reconceptualise l'apprenant comme une entité « post-humaine » dont les processus cognitifs sont véritablement hybrides et distribués entre des systèmes [[biology-education|biologiques]] et artificiels. ([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Cela met au défi l'hypothèse selon laquelle l'apprenant est un esprit individuel borné et autonome.
 - **L'incarnation et les limites d'une IA désincarnée.** La philosophie de l'[[embodied-learning|incarnation]] et le post-cognitivisme critiquent la domination des modèles d'IA symboliques et désincarnés, soutenant que la cognition est ancrée dans la situationnalité, l'émergence et le couplage sensori-moteur dont l'actuelle [[generative-ai|IA générative]] est dépourvue. ([[videla-embodied-ai-education-choreography]])
+- **L'automatisation comme continuité, non rupture.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross et Aros (2026)]] soutiennent que l'intelligence artificielle s'insère dans la scolarisation parce qu'elle prolonge un modèle cognitiviste et instructionnel traitant l'apprentissage comme un traitement de l'information et l'enseignement comme une transmission ; automatiser l'éducation est donc une illusion ontologique qui abstrait l'apprentissage des conditions incarnées et relationnelles où naissent le sens et la responsabilité.
 - **Le travail émotionnel comme cas de test pour les esprits machiniques.** Les arguments du domaine sur la capacité de l'IA à enseigner portent souvent sur sa capacité à *prendre soin*, une question débattue bien avant que l'[[affective-computing|informatique affective]] n'existe. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] reconstruit le débat de 1950–1996, dans lequel l'affirmation de Ziff selon laquelle seuls les êtres vivants peuvent avoir littéralement des sentiments a reçu une réponse de la théorie de l'identité de Smart et du critère comportemental de Putnam, laissant trois ontologies rivales non résolues. Sa conclusion est une charge de justification plutôt qu'une affirmation d'impossibilité — la représentation, la simulation et la mimésis sous-déterminent le travail émotionnel — ce qui met la charge sur quiconque voudrait déléguer le travail pastoral à un système.
 - **Agence, auctorialité et sens.** Lorsque l'IA médiatise l'interprétation et la production de sens, la philosophie demande comment l'auctorialité, l'[[agency|agence épistémique]] et l'autonomie interprétative sont reconfigurées. ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu, 2026]])
 - **L'ontologie des objets scientifiques générés par l'IA.** En [[chemistry-education|chimie]], les composés et les courbes de titrage prédits par l'IA occupent un « espace ontologique liminal » — ni tout à fait hypothétiques ni pleinement réels jusqu'à ce qu'ils soient empiriquement prouvés — ce qui déplace la discipline du réalisme vers une vision constructiviste dans laquelle la réalité est une collaboration de l'humain et de la machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes et Regala (2026)]]).
@@ -72,7 +77,7 @@ La philosophie de l'IA en éducation et le [[theory-development-aied|développem
 
 **Pour les enseignants**
 
-- Décidez, avant d'adopter un outil, ce que vous êtes prêt à compter comme l'accomplissement propre de l'étudiant. Si un travail poli produit par le système satisferait votre évaluation, vous avez répondu « rien » — et aucun changement ultérieur de grille ne récupère la question.
+- Décidez, avant d'adopter un outil, ce que vous êtes prêt à compter comme l'accomplissement propre de l'étudiant. Si un travail poli produit par le système satisferait votre évaluation, vous avez répondu « rien » — et aucun changement ultérieur de [[rubrics|grille]] ne récupère la question.
 - Prenez au sérieux l'argument de l'empêchement lorsque vous concevez des tâches : si l'IA générative qui fournit le travail empêche la pensée plutôt qu'elle ne la déleste simplement, alors « utilisez-la de manière responsable » n'est pas une sauvegarde suffisante, parce que le champ environnant récompense la production. Concevez des tâches dont les preuves de pensée sont produites avant que l'outil ne soit disponible.
 - Demandez quelle conception de l'apprentissage votre cours encode. Adopter un cadre sans esprit critique importe ses présupposés sur ce qu'est un apprenant, et ces présupposés sont contestables.
 

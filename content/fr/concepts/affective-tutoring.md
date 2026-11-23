@@ -1,7 +1,7 @@
 ---
 title: "Tutorat affectif"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [llm-training-and-fine-tuning, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, metacognition, self-regulated-learning, collaborative-learning, human-in-the-loop-ai, knowledge-tracing, socratic-method]
 connected_articles: [ecnuclaw-k12-personalized-companion, epistemic-emotions-collaborative-problem-solving, kar-mathbuddy-affective-math-tutoring-2025, shastry-gray-empathy-offloading-2026]
@@ -88,18 +92,6 @@ Une limite à l'inférence de l'affect à partir du dialogue : [[ecnuclaw-k12-pe
 
 Le tutorat affectif recoupe les [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] dans la dimension des préjudices [[motivation|motivationnels]] et affectifs. Un tuteur affectif « trop bienveillant » peut supprimer la frustration qui alimente la lutte productive et l'[[self-regulated-learning|autorégulation]]. Voir aussi [[llm-fallacy-misattribution]] — les étudiants peuvent attribuer le soutien émotionnel à une véritable relation, ce qui renforce la dépendance.
 
-## Idées fausses courantes
-
-**« Le taux de victoire de +23 points montre que les tuteurs affectifs enseignent mieux. »** Il montre quelque chose de plus étroit. La comparaison est un taux de victoire contre une ligne de base non affective pour un seul système, MathBuddy, noté sur huit dimensions pédagogiques et des études utilisateurs ; un taux de victoire est un résultat de préférence, non une mesure d'apprentissage durable dans un cours réel. L'affirmation honnête est que la sélection de stratégie sensible à l'affect a battu la sélection aveugle à l'affect sur la qualité jugée des réponses, ce qui est un résultat solide sur l'interaction et faible sur les [[learning-gains|gains d'apprentissage]].
-
-**« Si le tuteur paraît empathique, l'étudiant est aidé. »** Se sentir compris et être enseigné sont séparables, et l'écart entre les deux est là où réside le dommage. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et coll.]] identifient la dépendance parasociale comme l'échec caractéristique : un étudiant peut nouer une relation avec un système conçu pour paraître bienveillant tandis que son engagement [[metacognition|métacognitif]] baisse discrètement, et l'empathie elle-même rend ce désengagement plus difficile à remarquer. La littérature sur la [[llm-fallacy-misattribution|mauvaise attribution]] constitue l'autre tranchant de la même lame, lorsque les étudiants créditent le système d'une relation authentique.
-
-**« Plus de soutien émotionnel est toujours plus sûr que moins. »** Au-delà d'un certain point, le soutien devient une interférence. Un tuteur qui supprime régulièrement la frustration peut supprimer la [[desirable-difficulties|lutte productive]] dont dépend l'[[self-regulated-learning|autorégulation]], et c'est pourquoi [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] traite le dommage motivationnel-affectif comme une dimension de sécurité distincte plutôt que comme une absence de bénéfice.
-
-**« Un tuteur qui détecte l'émotion sur un visage connaît l'état de l'étudiant. »** L'affect est inféré, non observé, et l'inférence est la plus faible précisément là où les enjeux sont les plus élevés. [[ecnuclaw-k12-personalized-companion|Zhou, Li et Zhang (2026)]] maintiennent une dimension émotionnelle dans un profil d'apprenant à cinq dimensions mais la peuplent de dictionnaires de mots-clés : un étudiant qui exprime sa frustration avec des mots absents du dictionnaire n'est simplement pas profilé, et le profil n'a pas été validé contre un jugement d'expert. La capture faciale ajoute un flux vidéo continu et une exposition à la vie privée que l'inférence textuelle ne comporte pas.
-
-**« Des mesures émotionnelles prises à des moments différents sont interchangeables. »** [[epistemic-emotions-collaborative-problem-solving|Anindho et coll. (2026)]] constatent que l'affect ordonné montre une persistance à courte portée et des transitions directionnelles, et que les rapports saisis par sonde, les boucles réflexives autour de la curiosité et de la confusion, constituent une mesure différente de ceux saisis spontanément, comme la frustration et la surprise. Faire la moyenne des deux en une fréquence résumée écarte la séquence qui porte le signal.
-
 ## Mettre le tutorat affectif en pratique
 
 **Pour les enseignants**
@@ -119,3 +111,15 @@ Le tutorat affectif recoupe les [[hazra-safetutors-pedagogical-safety-2026|SafeT
 
 - Rapportez la ligne de base contre laquelle votre taux de victoire est mesuré, et indiquez clairement qu'il s'agit d'un jugement comparatif. Mesurez ensuite ce dont le champ a réellement besoin : le transfert vers des contextes non adaptatifs, la rétention après retrait du tuteur, et la persistance des gains lorsque le canal émotionnel est coupé.
 - Validez les profils affectifs contre un jugement d'expert avant de les utiliser comme variables indépendantes.
+
+## Idées fausses courantes
+
+**« Le taux de victoire de +23 points montre que les tuteurs affectifs enseignent mieux. »** Il montre quelque chose de plus étroit. La comparaison est un taux de victoire contre une ligne de base non affective pour un seul système, MathBuddy, noté sur huit dimensions pédagogiques et des études utilisateurs ; un taux de victoire est un résultat de préférence, non une mesure d'apprentissage durable dans un cours réel. L'affirmation honnête est que la sélection de stratégie sensible à l'affect a battu la sélection aveugle à l'affect sur la qualité jugée des réponses, ce qui est un résultat solide sur l'interaction et faible sur les [[learning-gains|gains d'apprentissage]].
+
+**« Si le tuteur paraît empathique, l'étudiant est aidé. »** Se sentir compris et être enseigné sont séparables, et l'écart entre les deux est là où réside le dommage. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et coll.]] identifient la dépendance parasociale comme l'échec caractéristique : un étudiant peut nouer une relation avec un système conçu pour paraître bienveillant tandis que son engagement [[metacognition|métacognitif]] baisse discrètement, et l'empathie elle-même rend ce désengagement plus difficile à remarquer. La littérature sur la [[llm-fallacy-misattribution|mauvaise attribution]] constitue l'autre tranchant de la même lame, lorsque les étudiants créditent le système d'une relation authentique.
+
+**« Plus de soutien émotionnel est toujours plus sûr que moins. »** Au-delà d'un certain point, le soutien devient une interférence. Un tuteur qui supprime régulièrement la frustration peut supprimer la [[desirable-difficulties|lutte productive]] dont dépend l'[[self-regulated-learning|autorégulation]], et c'est pourquoi [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] traite le dommage motivationnel-affectif comme une dimension de sécurité distincte plutôt que comme une absence de bénéfice.
+
+**« Un tuteur qui détecte l'émotion sur un visage connaît l'état de l'étudiant. »** L'affect est inféré, non observé, et l'inférence est la plus faible précisément là où les enjeux sont les plus élevés. [[ecnuclaw-k12-personalized-companion|Zhou, Li et Zhang (2026)]] maintiennent une dimension émotionnelle dans un profil d'apprenant à cinq dimensions mais la peuplent de dictionnaires de mots-clés : un étudiant qui exprime sa frustration avec des mots absents du dictionnaire n'est simplement pas profilé, et le profil n'a pas été validé contre un jugement d'expert. La capture faciale ajoute un flux vidéo continu et une exposition à la vie privée que l'inférence textuelle ne comporte pas.
+
+**« Des mesures émotionnelles prises à des moments différents sont interchangeables. »** [[epistemic-emotions-collaborative-problem-solving|Anindho et coll. (2026)]] constatent que l'affect ordonné montre une persistance à courte portée et des transitions directionnelles, et que les rapports saisis par sonde, les boucles réflexives autour de la curiosité et de la confusion, constituent une mesure différente de ceux saisis spontanément, comme la frustration et la surprise. Faire la moyenne des deux en une fréquence résumée écarte la séquence qui porte le signal.

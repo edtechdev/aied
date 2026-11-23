@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-21T02:02:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
@@ -33,8 +33,12 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, self-regulated-learning, self-assessment, cognitive-offloading, scaffolding, agentic-ai, formative-assessment, ai-literacy, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
-connected_articles: [clerc-ai-literacy-workshop-llm-regulation-2026, student-ai-interaction-consecutive-interpreting-2026, du-yuan-epistemic-dependence-2026, llm-interaction-depth-task-quality-recall-2026, layer-sensitive-cognitive-offloading-writing-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, cui-motivation-roles-metacognitive-genai-2026, metacognitive-training-optimal-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, idea-framework-metacognitive-genai-2026, haiml-human-centered-ai-metacognitive-model-2026, metacognitively-discordant-completion-genai-2026, ai-metacognition-stem-review, ai-making-us-stupid, stanford-evidence-base-ai-k12-2026, ai-advice-suppresses-ikt-suspension-2026, agentic-ai-pedagogical-best-practice-2026, cognitive-offloading-speedup-illusion, lodge-loble-cognitive-offloading-2026, pedagogy-ai-mistakes, kim-ai-productive-failure-adult-2026, lukesova-clue-before-correction-2026, miles-prompt-literacy-human-centered-genai-framework-2026, ren-metacognitive-awareness-genai-reliance-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, davor-ai-supported-learning-higher-order-outcomes-2026, iqbal-human-genai-support-essay-revision-2026, wang-genai-novice-learner-learning-by-teaching-2026, melanou-genai-learning-dynamics-longitudinal-2026, alatoai-ai-learning-environments-self-regulation-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, dang-human-ai-collaboration-competency-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, ai-cognitive-partner-reflective-thought-2026, karaki-think-aloud-ethical-genai-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, braun-cognitive-dormancy-ai-affordances-2026, ai-metacognition-three-level-meta-analysis-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, wilder-adhd-ai-interview-eye-tracking-2025, sidorkin-extended-executive-cognition-2025, huang-multi-agent-self-regulated-learning-cs-2026]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, ai-advice-suppresses-ikt-suspension-2026, ai-cognitive-partner-reflective-thought-2026, ai-making-us-stupid, ai-metacognition-stem-review, ai-metacognition-three-level-meta-analysis-2026, alatoai-ai-learning-environments-self-regulation-2026, braun-cognitive-dormancy-ai-affordances-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, clerc-ai-literacy-workshop-llm-regulation-2026, cognitive-offloading-metacognitive-review-2026, cognitive-offloading-speedup-illusion, cui-motivation-roles-metacognitive-genai-2026, dang-human-ai-collaboration-competency-2026, davor-ai-supported-learning-higher-order-outcomes-2026, du-yuan-epistemic-dependence-2026, fan-metacognitive-offloading-sync-model-2026, guo-overreliance-genai-feedback-2026, haiml-human-centered-ai-metacognitive-model-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, huang-multi-agent-self-regulated-learning-cs-2026, idea-framework-metacognitive-genai-2026, iqbal-human-genai-support-essay-revision-2026, karaki-think-aloud-ethical-genai-2026, kim-ai-productive-failure-adult-2026, layer-sensitive-cognitive-offloading-writing-2026, llm-interaction-depth-task-quality-recall-2026, lodge-loble-cognitive-offloading-2026, lukesova-clue-before-correction-2026, melanou-genai-learning-dynamics-longitudinal-2026, metacognitive-ownership-human-ai-regulation-2026, metacognitive-processes-genai-interaction-logs-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, metacognitive-training-optimal-cognitive-offloading-2026, metacognitively-discordant-completion-genai-2026, miles-prompt-literacy-human-centered-genai-framework-2026, pedagogy-ai-mistakes, ren-metacognitive-awareness-genai-reliance-2026, sidorkin-extended-executive-cognition-2025, skill-sustaining-reliance-reflective-ai-engagement-2026, stanford-evidence-base-ai-k12-2026, student-ai-interaction-consecutive-interpreting-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, wang-genai-novice-learner-learning-by-teaching-2026, wilder-adhd-ai-interview-eye-tracking-2025, xiao-metacognitive-disengagement-knowledge-innovation-2026, yu-verification-without-criteria-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -81,6 +85,8 @@ Hallazgos clave:
 
 La fluidez es la razón de que la pérdida pase inadvertida. Quien aprende juzga su aprendizaje en parte por la facilidad con que procesa el material, y Bjork et al. (2013) muestran que las señales de fluidez llevan a las personas a sobreestimar su comprensión cuando el contenido se siente fácil; el texto fluido generado por IA produce esa sensación tanto si hubo comprensión como si no, lo que crea las condiciones para una ilusión de competencia fabricada. El [[generativism-learning-theory|generativismo]] lo trata como la razón por la que no puede darse por supuesta una metacognición adaptativa: quien aprende tiene que preguntarse si la facilidad de lectura refleja comprensión, en lugar de leer esa facilidad como la respuesta.
 
+El mecanismo tiene una prueba directa con IA generativa. Manteniendo el contenido constante y manipulando solo la fluidez de la explicación, Zhang (2026) encontró juicios de aprendizaje del 70,79% frente al 61,00% del texto convencional mientras el rendimiento se mantenía estable, y una recuperación no asistida de tres minutos redujo la pendiente entre fluidez y juicio de aprendizaje de 9,13 a 1,65 ([[zhang-processing-fluency-genai-metacognitive-judgments-2026|Zhang, 2026]]).
+
 **La conciencia no garantiza que la finalización se detenga.** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] nombra la *finalización metacognitivamente discordante*: quien aprende invirtió esfuerzo real, sostiene un veredicto en primera persona ya formado de que la comprensión no ha llegado, y aun así entrega el trabajo —el caso que tanto el relato de la ilusión de fluidez como el del esfuerzo retirado dan por supuesto.
 
 Quien aprende también está mal calibrado respecto a los costes de la IA: los participantes predijeron con precisión sus tiempos en solitario pero subestimaron el tiempo asistido por IA, e informaron de un menor esfuerzo (0,61 puntos en el NASA-TLX) mientras que la IA solo aceleró tres de 24 tareas —un sesgo ausente cuando el ayudante imaginado era otra persona ([[cognitive-offloading-speedup-illusion|Yu et al. (2026)]]).
@@ -122,6 +128,8 @@ La dificultad fija el techo de esa demanda. En 109 intentos de búsqueda de ayud
 [[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao et al. (2026)]] convirtieron el riesgo de supresión en una cantidad medida a lo largo de cuatro experimentos con 728 adultos. Una mayor asistencia de IA elevó la desimplicación a nivel de tarea de 3,96 a 4,82 (*d* = 0,67), y la [[cognitive-offloading|descarga cognitiva]] transportó el 58,0% del efecto (indirecto 0,51, IC del 95% [0,32, 0,72]). Evaluadores expertos puntuaron después más bajo las propuestas delegadas: la calidad cayó de 4,78 a 3,95 (*d* = 0,75), con el 57,8% de esa caída pasando por la desimplicación (indirecto -0,48, IC del 95% [-0,68, -0,30]).
 
 El coste es condicional. La complejidad de la tarea reforzó esa ruta (índice -0,39, IC del 95% [-0,62, -0,16]) mientras que la [[ai-literacy|alfabetización en IA]] la debilitó (índice 0,30, IC del 95% [0,09, 0,52]). Así que la monitorización no es solo una capacidad que predice un mejor uso; omitirla es un paso cuya ausencia se ve en la calidad de la salida a través de una ruta de descarga. Dos límites acotan la afirmación. La IA era un banco de respuestas guionizado por los investigadores, no un modelo en vivo, y no se informó de la ocupación ni de la condición de estudiante, así que no es ni un estudio de aula ni uno de lugar de trabajo.
+
+En 65 estudios, la monitorización y la evaluación se informaron en un 93,85% cada una y la planificación en un 78,46%, pero allí donde se informó de la pereza [[metacognition|metacognitiva]], la planificación quedaba apartada de ese grupo —una configuración que los autores denominan *verificación sin criterios*: una fase de previsión nunca completada y no un descenso del rendimiento ([[yu-verification-without-criteria-2026|Yu et al., 2026]]).
 
 ## La distinción entre implicación y motivación
 

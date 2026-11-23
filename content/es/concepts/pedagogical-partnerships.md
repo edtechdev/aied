@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,10 +10,14 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -70,7 +74,7 @@ La intersección entre la alianza pedagógica y la IA es uno de los hilos de má
 - **El estudiantado como cocreador de herramientas de IA.** En los marcos de estudiantes como socios, el estudiantado ha codiseñado y refinado [[conversational-ai|chatbots]] de IA personalizados y alineados con objetivos pedagógicos, un enfoque que extiende el paradigma SaP hasta incluir las propias herramientas de IA y sitúa la voz del estudiantado en el centro de una innovación responsable en IA ([[lo-co-creating-custom-gpts-sap-2026|Lo et al., 2026]]).
 - **Cocreación a escala, medida con cautela.** En un curso de diseño de software de 710 estudiantes, el estudiantado construyó un [[intelligent-tutoring|tutor de IA]] para un par en lugar de usar uno. La libertad de diseño fue el tema positivo principal (22,3%) y las instrucciones poco claras la queja principal (23,7%), pero el aprendizaje percibido se correlacionó con las puntuaciones de los cuestionarios solo entre r = 0,161 y 0,315, y el diseño no tenía grupo de control ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Construir la herramienta es una pedagogía plausible y, según esta evidencia, no probada, y por eso el argumento a su favor descansa en la actividad de diseño y no en ganancias de resultados.
 
-- **Codiseño con toda la clase, evaluado mediante [[self-assessment|autoevaluación]].** Un programa de estudios de la información de primer año hizo que estudiantes y profesorado codiseñaran los objetivos y las políticas del curso en la primera semana y volvieran sobre ellos a lo largo del semestre, con el estudiantado calificándose a sí mismo y a sus grupos según objetivos personales, objetivos de equipo y una rúbrica compartida, en lugar de según los productos finales ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand y Fundator (2025)]]).
+- **Codiseño con toda la clase, evaluado mediante [[self-assessment|autoevaluación]].** Un programa de estudios de la información de primer año hizo que estudiantes y profesorado codiseñaran los objetivos y las políticas del curso en la primera semana y volvieran sobre ellos a lo largo del semestre, con el estudiantado calificándose a sí mismo y a sus grupos según objetivos personales, objetivos de equipo y una [[rubrics|rúbrica]] compartida, en lugar de según los productos finales ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand y Fundator (2025)]]).
 - **Cocreación en la evaluación y la IA.** Las alianzas entre estudiantado y personal han coevaluado resultados generados por IA en evaluaciones de curso y han codiseñado criterios de evaluación, lo que mejora la comprensión de los beneficios y los límites de la IA y apoya el [[self-regulated-learning|aprendizaje autorregulado]] ([[williams-ingle-assessment-co-creation-ai-2025|Williams et al., 2025]]).
 - **La alianza para preservar la confianza pedagógica.** Frente a la incertidumbre que impulsa la IA y a la "vergüenza por la IA", las prácticas de alianza que cultivan la *confianza pedagógica*, entendida como una relación de aprendizaje segura y recíproca, abierta a la incertidumbre y conavigada mediante el diálogo, ofrecen una vía para sostener el núcleo relacional de la educación ([[matthews-five-guiding-principles-ai-sap-trust-2025|Matthews, 2025]]).
 - **La juventud como codesñadora de sistemas de IA.** Los enfoques de diseño participativo implican a estudiantado históricamente minorizado como socio en el diseño de los sistemas de IA que afectarán a sus aulas, y hacen aflorar sus valores y compromisos [[ethics|éticos]] ([[chang-co-designing-ai-youth-relational-privacy-2025|Chang et al., 2025]]).

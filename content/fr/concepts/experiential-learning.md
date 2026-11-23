@@ -1,13 +1,13 @@
 ---
 title: L'apprentissage expérientiel
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [active-learning, project-based-learning, embodied-learning, simulation, educational-robotics, higher-ed, learning-theories, pedagogy, virtual-and-augmented-reality, reflection]
 connected_articles: [zwolinski-teaching-empathy-real-virtual-ai-2026, genai-counter-learner-groupthink-2025, workforce-readiness-smart-manufacturing-wrl-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, genai-cybersecurity-ocr-multimodal-instruction-2025, bots-blocks-project-based-robotics-education-2026, edusim-llm-robotic-simulation-education-2026, white-wu-robotics-ai-education-2026, ai-lms-middle-school-longitudinal, li-ai-science-situated-learning-teachers-2025, ai-personas-fieldwork-experiential-learning-2026, hands-on-learning-necessity-age-of-ai-review-2026, shi-genai-experiential-learning-management-education-2026, gelli-experiential-language-learning-2026, li-ahmad-ai-virtual-lab-flipped-physics-2026, metacognitive-awareness-experiential-vs-instructional, yusuf-service-learning-mapping-2026]
@@ -40,7 +44,7 @@ L'apprentissage expérientiel est étroitement lié à l'[[active-learning|appre
 
 ## Comment l'apprentissage expérientiel apparaît dans la recherche
 
-- **Une substitution d'urgence, avec un critère d'évaluation de ce qu'elle permet.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] documentent une substitution imposée par le conflit de 2024 au Liban : les étudiants d'un cours d'apprentissage expérientiel de niveau master à l'American University of Beyrouth, dans l'incapacité d'atteindre des communautés pour réaliser des analyses de besoins, ont interrogé des personas de parties prenantes générés par ChatGPT à la place. Deux évaluateurs ont noté les dix consignes de groupe et la répartition s'est révélée instructive — l'alignement sur les objectifs pédagogiques (moyenne 5.00) et la diversité des perspectives (4.90) étaient élevés, tandis que l'authenticité et le réalisme (4.38) et surtout la dynamique et la cohérence de groupe (3.80, avec un groupe de discussion de 30 personas qui s'est effondré en entretiens séquentiels) ainsi que les limites et les manques (3.20) étaient faibles, ce dernier point en raison de la platitude émotionnelle, de l'absence de contradiction et de la faible spécificité culturelle revenues dans chaque contexte. La conclusion des auteurs est une frontière plutôt qu'un verdict : les personas fonctionnent comme répétition et comme solution de dépannage là où l'accès est impossible ou dangereux, mais pas là où la complexité émotionnelle, la spécificité culturelle et la dynamique interpersonnelle *constituent* l'objectif d'apprentissage. Leur mesure d'atténuation est structurelle — associer le jeu de rôle simulé à de véritables entretiens afin que les étudiants puissent comparer, et former les étudiants à interroger les productions des personas pour y déceler biais et généralisations au lieu de les traiter comme des preuves de terrain.
+- **Une substitution d'urgence, avec une [[rubrics|grille d'évaluation]] de ce qu'elle permet.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] documentent une substitution imposée par le conflit de 2024 au Liban : les étudiants d'un cours d'apprentissage expérientiel de niveau master à l'American University of Beyrouth, dans l'incapacité d'atteindre des communautés pour réaliser des analyses de besoins, ont interrogé des personas de parties prenantes générés par ChatGPT à la place. Deux évaluateurs ont noté les dix consignes de groupe et la répartition s'est révélée instructive — l'alignement sur les objectifs pédagogiques (moyenne 5.00) et la diversité des perspectives (4.90) étaient élevés, tandis que l'authenticité et le réalisme (4.38) et surtout la dynamique et la cohérence de groupe (3.80, avec un groupe de discussion de 30 personas qui s'est effondré en entretiens séquentiels) ainsi que les limites et les manques (3.20) étaient faibles, ce dernier point en raison de la platitude émotionnelle, de l'absence de contradiction et de la faible spécificité culturelle revenues dans chaque contexte. La conclusion des auteurs est une frontière plutôt qu'un verdict : les personas fonctionnent comme répétition et comme solution de dépannage là où l'accès est impossible ou dangereux, mais pas là où la complexité émotionnelle, la spécificité culturelle et la dynamique interpersonnelle *constituent* l'objectif d'apprentissage. Leur mesure d'atténuation est structurelle — associer le jeu de rôle simulé à de véritables entretiens afin que les étudiants puissent comparer, et former les étudiants à interroger les productions des personas pour y déceler biais et généralisations au lieu de les traiter comme des preuves de terrain.
 
 - **Laboratoires de cybersécurité :** les [[genai-cybersecurity-ocr-multimodal-instruction-2025|laboratoires de cybersécurité assistés par LLM]] intègrent un assistant pédagogique de [[generative-ai|type génératif]] dans une plateforme de laboratoire virtuel, soutenant le développement de compétences expérientiel et concret.
 - **Projets de robotique :** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] adopte une démarche par projet et concrète pour enseigner la robotique, répondant au manque d'expérience pratique des programmes classiques.

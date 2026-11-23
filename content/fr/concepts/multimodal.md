@@ -2,7 +2,7 @@
 title: "IA multimodale"
 connected_resources: [drawsplat]
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,10 +11,14 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -82,7 +86,7 @@ L'IA multimodale élargit à la fois le *contenu* de l'évaluation et le *signal
 - **Les systèmes de rétroaction multimodaux** intègrent du texte structuré, des références à des diapositives et une narration audio en flux continu. Dans une étude, la [[ai-feedback-quality|rétroaction multimodale par l'IA]] égalait la rétroaction des éducateurs pour l'apprentissage tout en les *surpassant significativement* sur les perceptions des étudiants.([[multimodal-ai-feedback-learning]])
 - **L'estimation multimodale des paramètres d'items** utilise des grands modèles de langue multimodaux ajustés pour reconstruire des courbes caractéristiques d'items (IRT / 3PL) directement à partir des probabilités d'option prédites sur des items associant image et texte, reliant l'IA multimodale à l'[[educational-measurement|mesure en éducation]] et à l'[[item-response-theory|théorie de la réponse à l'item]].([[multimodal-item-parameter-estimation-2026]])
 - **L'évaluation des modèles éducatifs vision-langage** et la [[mllm-scientific-visualization-literacy|littératie des grands modèles de langue multimodaux]] étendent la boîte à outils d'évaluation du champ au raisonnement multimodal et à la [[visualization|visualisation]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
-- **La notation multimodale de la [[chemistry-education|chimie]] manuscrite expose une frontière de capacité dépendante du format :** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros et Kortemeyer]] ont noté, page par page et par rapport à des images de barème, un examen final de chimie générale manuscrit de 296 étudiants avec un grand modèle de langue multimodal doté de capacités de raisonnement, notant de manière fiable les réponses textuelles et les équations de réaction chimique (F1 normalisé le plus élevé) mais les dessins et les graphiques *moins bien que le hasard* — les quadrillages de fond distraient visuellement la vision de l'IA et les diagrammes scientifiques/structures chimiques restent difficiles à interpréter — ce qui renforce que la vision de l'IA multimodale n'est pas robuste face à un travail riche en représentations et se déploie au mieux avec un [[human-in-the-loop-ai|renvoi humain]] des items graphiques ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+- **La notation multimodale de la [[chemistry-education|chimie]] manuscrite expose une frontière de capacité dépendante du format :** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros et Kortemeyer]] ont noté, page par page et par rapport à des images de [[rubrics|barème]], un examen final de chimie générale manuscrit de 296 étudiants avec un grand modèle de langue multimodal doté de capacités de raisonnement, notant de manière fiable les réponses textuelles et les équations de réaction chimique (F1 normalisé le plus élevé) mais les dessins et les graphiques *moins bien que le hasard* — les quadrillages de fond distraient visuellement la vision de l'IA et les diagrammes scientifiques/structures chimiques restent difficiles à interpréter — ce qui renforce que la vision de l'IA multimodale n'est pas robuste face à un travail riche en représentations et se déploie au mieux avec un [[human-in-the-loop-ai|renvoi humain]] des items graphiques ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **La reconnaissance des construits et le jugement comparatif sont des compétences séparables.** [[cfes-p24-multimodal-slide-auditing-2026|Ma et al. (2026)]] expriment six principes de l'apprentissage multimédia sous forme de modifications réversibles de diapositives accompagnées de témoins simulés d'équivalence visuelle, et constatent que les deux modèles ont récupéré chaque opération, principe et réparation (8 sur 8) tandis que la calibration de la gravité échouait entièrement (0 sur 8) — un score composite masquerait quelle couche échoue.
 
 - **Des gains d'équité peuvent être validés jusqu'à exister.** Un estimateur multimodal de l'attention n'a battu une référence purement visuelle que modestement, et son régulariseur ciblé sur l'écart de MAE selon le genre a réduit l'écart de validation de 0,02 à 0,005 tout en augmentant l'écart et l'erreur du pire groupe sur des sujets réservés — si bien qu'une validation répétée au niveau des sujets et consciente des sous-groupes est requise avant le déploiement ([[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]).

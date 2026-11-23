@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo deberíamos diseñar y facilitar cursos en línea asíncronos cuando la IA puede hacer el trabajo?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq
@@ -18,6 +18,10 @@ translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -44,7 +48,7 @@ La respuesta que dar a un colega: en un curso asíncrono, todo lo que un aula of
 
 **2.** Conserve una medición sin ayuda en toda evaluación que certifique competencia. La brecha de retención de los datos poblacionales que aparecen más abajo se cierra en cuanto hay vigilancia.
 
-**3.** Use la [[asynchronous-oral-assessment-2026|evaluación oral asíncrona]] donde el riesgo justifique el trabajo de producción: consignas en el momento oportuno, grabaciones breves que el estudiante no puede revisar, rúbricas integradas, transcripciones generadas automáticamente.
+**3.** Use la [[asynchronous-oral-assessment-2026|evaluación oral asíncrona]] donde el riesgo justifique el trabajo de producción: consignas en el momento oportuno, grabaciones breves que el estudiante no puede revisar, [[rubrics|rúbricas]] integradas, transcripciones generadas automáticamente.
 
 **4.** Configure cualquier IA que entregue para que dé pistas en lugar de respuestas, e intégrela en el curso en vez de enlazar a algo genérico.
 

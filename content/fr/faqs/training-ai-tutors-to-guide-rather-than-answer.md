@@ -1,7 +1,7 @@
 ---
 title: "Comment entraîner un tuteur d'IA à guider les étudiants plutôt qu'à leur répondre ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq
@@ -27,6 +27,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -66,7 +70,7 @@ Deux conséquences en découlent. Attendez-vous à ce que la récompense soit d�
 
 ## Faire en sorte que la récompense se déclenche assez souvent pour enseigner
 
-Une récompense par correspondance exacte est trop clairsemée quand ce qui vous intéresse a plusieurs dimensions. Le [[simulation|simulateur]] d'écriture SWIM montre clairement la progression : le prompting ancré sur une grille d'évaluation atteignait un QWK moyen de trait au mieux de **0.577** avec Claude Sonnet et de **0.422** avec GPT-5.4, et près de zéro pour un modèle ouvert de 7B ; l'affinage supervisé atteignait **0.474 ± 0.023** pour ce modèle 7B ; le GRPO avec une récompense dense et normalisée par trait atteignait **0.618 ± 0.005** sur tous les traits et tous les prompts ([[swim-student-writing-simulation-2026]]).
+Une récompense par correspondance exacte est trop clairsemée quand ce qui vous intéresse a plusieurs dimensions. Le [[simulation|simulateur]] d'écriture SWIM montre clairement la progression : le prompting ancré sur une [[rubrics|grille d'évaluation]] atteignait un QWK moyen de trait au mieux de **0.577** avec Claude Sonnet et de **0.422** avec GPT-5.4, et près de zéro pour un modèle ouvert de 7B ; l'affinage supervisé atteignait **0.474 ± 0.023** pour ce modèle 7B ; le GRPO avec une récompense dense et normalisée par trait atteignait **0.618 ± 0.005** sur tous les traits et tous les prompts ([[swim-student-writing-simulation-2026]]).
 
 C'est la conception de la récompense qui a produit cet écart. Un signal dense et normalisé par trait bat la correspondance exacte dans un cadre multi-traits, et si votre récompense ne se déclenche que sur une réponse parfaite, l'essentiel de votre signal d'entraînement est du silence.
 

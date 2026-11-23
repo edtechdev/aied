@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: "Détection de l'IA"
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,10 +14,14 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -99,6 +103,8 @@ La recherche sur la détection porte aussi un argument de validité qui survit a
 Bassett et al. concluent que la détection de l'IA est une solution inapplicable à un problème qui ne peut être résolu par la surveillance et la punition : l'attention doit se porter sur la [[assessment|conception de l'évaluation]], qui reconnaisse le rôle de l'IA dans l'apprentissage et la réalité selon laquelle des évaluations non surveillées ne peuvent être sécurisées. Cela consolide la position [[beyond-detection-authentic-assessment-ai-2025|au-delà de la détection]] par un argument direct et fondé sur les preuves en faveur du retrait des outils de détection.
 
 Sur 40 évaluations de psychologie relevant de 16 types, 36 (90%) ont produit des productions de ChatGPT jugées convenables pour une réussite, et les quatre échecs concernaient les tâches exigeant la présence, un artefact visuel ou le propre jeu de données de l'étudiant — la preuve que c'est le seuil de réussite, et non la détection, qui a décidé si un travail d'IA comptait comme un accomplissement ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
+
+**La pratique accuse du retard sur les preuves.** En étudiant 127 établissements, [[making-ai-work-for-students-ofs-2026|OfS et Advance HE (2026)]] ont constaté que l'usage des détecteurs se poursuivait des années après le consensus de recherche qui s'y opposait. Le personnel a décrit des scores entrant dans les dossiers de faute comme preuves à l'appui, certains établissements avaient complètement cessé d'utiliser les détecteurs, et Turnitin a dit aux chercheurs que la production de son outil devait constituer un seul point de données pour établir l'autorité d'un texte. Les étudiants ont décrit l'autre versant : une fois signalés, aucune voie pour prouver leur autorité, et des stratégies comme retirer les tirets demi-cadratin ou ajouter des erreurs délibérées pour abaisser le score.
 
 ### Le biais des détecteurs et le mécanisme de la course aux armements
 

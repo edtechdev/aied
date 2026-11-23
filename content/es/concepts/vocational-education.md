@@ -1,7 +1,7 @@
 ---
 title: Educación y formación profesional
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-11-15T10:24:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -11,7 +11,7 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/vocational-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_resources: [unesco-2026-integrating-ai-in-tvet-guide]
 connected_concepts: [professional-training, adult-learning, higher-ed, career-development-and-readiness, simulation, authentic-assessment, intelligent-tutoring, human-in-the-loop-ai, cognitive-offloading, self-efficacy]
@@ -54,7 +58,7 @@ Lo distintivo de la IA en la VET es una brecha entre lo que el sector dice quere
 
 - **La simulación absorbe la escasez de actores.** [[astra-atco-training-simulator]] apunta a una restricción de capacidad en la formación de controladores de tráfico aéreo: los *simpilots*, formadores humanos especializados que interpretan a la vez a pilotos y a controladores en un espacio aéreo simulado. ASTRA sustituye a esos actores humanos por sim-pilotos autónomos impulsados por un [[llm|LLM]], mantiene la complejidad del escenario y elimina el cuello de botella de personal, lo que permite una práctica [[adaptive-learning|adaptativa]] a escala. Es una descripción de sistema y no un ensayo de eficacia, pero nombra un mecanismo que reaparece en toda la IA en la VET: cuando el insumo escaso es una persona cualificada que interpreta una contraparte, un agente puede sostener el papel y dejar que la práctica se amplíe.
 
-- **El trabajo por proyectos inmersivo y asistido por agentes puede elevar la capacidad de diseño, de forma selectiva.** [[ai-ive-pbl-vocational-design-creativity-2026]] especifica AI-IVE-PBL, un modelo de cuatro dimensiones y cinco fases (descubrimiento, visualización, modelado, comunicación y refinamiento) ejecutado en realidad virtual con un asistente humano digital respaldado por un LLM en un curso de diseño de interiores de primer año de un centro de formación profesional chino. En un cuasiexperimento de 12 semanas con dos grupos (63 respuestas válidas; 31 frente a 32), la condición inmersiva con agente obtuvo puntuaciones más altas en capacidad de diseño (η²p = 0,138) y capacidad creativa (η²p = 0,111) según un ANCOVA. La implicación cognitiva fue d = 0,90, la [[student-engagement|implicación conductual]] d = 0,75, motivación d = 0,74, satisfacción d = 0,69 y una carga cognitiva menor (d = −0,52). El pensamiento innovador y la implicación afectiva no alcanzaron significación, algo que los autores atribuyen a techos de corto plazo sobre patrones cognitivos arraigados. Todos los resultados son [[self-report-measures|autoinformados]], sin artefactos de diseño ni valoraciones de expertos. Leído frente a [[genai-xr-architectural-design-education-2026]], donde una cadena de [[generative-ai|IA generativa]] más XR produjo un descenso de la [[self-efficacy|autoeficacia]] de diseño y ninguna ventaja en un panel ciego, la diferencia parece menos cuestión de hardware que de quién sostiene la estructura de fases y la rúbrica.
+- **El trabajo por proyectos inmersivo y asistido por agentes puede elevar la capacidad de diseño, de forma selectiva.** [[ai-ive-pbl-vocational-design-creativity-2026]] especifica AI-IVE-PBL, un modelo de cuatro dimensiones y cinco fases (descubrimiento, visualización, modelado, comunicación y refinamiento) ejecutado en realidad virtual con un asistente humano digital respaldado por un LLM en un curso de diseño de interiores de primer año de un centro de formación profesional chino. En un cuasiexperimento de 12 semanas con dos grupos (63 respuestas válidas; 31 frente a 32), la condición inmersiva con agente obtuvo puntuaciones más altas en capacidad de diseño (η²p = 0,138) y capacidad creativa (η²p = 0,111) según un ANCOVA. La implicación cognitiva fue d = 0,90, la [[student-engagement|implicación conductual]] d = 0,75, motivación d = 0,74, satisfacción d = 0,69 y una carga cognitiva menor (d = −0,52). El pensamiento innovador y la implicación afectiva no alcanzaron significación, algo que los autores atribuyen a techos de corto plazo sobre patrones cognitivos arraigados. Todos los resultados son [[self-report-measures|autoinformados]], sin artefactos de diseño ni valoraciones de expertos. Leído frente a [[genai-xr-architectural-design-education-2026]], donde una cadena de [[generative-ai|IA generativa]] más XR produjo un descenso de la [[self-efficacy|autoeficacia]] de diseño y ninguna ventaja en un panel ciego, la diferencia parece menos cuestión de hardware que de quién sostiene la estructura de fases y la [[rubrics|rúbrica]].
 
 - **La evaluación es donde el problema de autenticidad es más agudo.** [[ai-supported-oral-assessment-tvet-2026]] documenta AkoVoice, probado en cuatro clases de Nivel 3 de Automoción y una de Nivel 3 de Ingeniería, diseñado para que la IA haga aflorar evidencia de la rúbrica mientras la persona evaluadora juzga. De 33 estudiantes encuestados, 21 (64%) coincidieron en que la tarea de voz era realista y la misma proporción dijo que le daba una forma clara de comunicar lo que sabía; ninguno se mostró en desacuerdo con que hablar en tiempo real se ajustaba mejor a esta [[authentic-assessment|evaluación auténtica]] que un portafolio escrito. El número de palabras para preguntas idénticas varió entre cinco y ocho veces de un estudiante a otro sin mejorar la exactitud en las preguntas de hechos, y nueve estudiantes que respondieron con entre 2 y 13 palabras fueron calificados correctamente, con la respuesta más corta de dos palabras, "3500 kgs", coincidente en el valor. Un ciclo completo de captura, almacenamiento, redacción del juicio de la IA y notificación al docente funcionó sin conexión en un único portátil Windows con 8 GB de memoria gráfica (Mistral 7B mediante Ollama, faster-whisper, Chatterbox), evaluando hasta 12 estudiantes a la vez en un taller donde la estructura de acero impide el wifi, con las grabaciones cifradas y eliminadas a los 90 días. El artículo señala que el Reglamento Europeo de IA considera de alto riesgo la IA que evalúa resultados de aprendizaje en formación profesional, mientras que Nueva Zelanda no tiene un marco específico para la TVET.
 

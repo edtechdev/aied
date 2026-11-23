@@ -1,7 +1,7 @@
 ---
 title: "Jugement évaluatif"
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
-connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
+connected_articles: [ahman-thoren-processes-of-patterning-ai-literacy-2026, ai-internal-feedback-evaluative-judgments, ai-written-admissions-essays-penalized-2026, austin-ai-agents-assignment-redesign-2026, authentic-assessments-generative-ai-pilot-2026, beyond-detection-authentic-assessment-ai-2025, chatgpt-peer-feedback-evaluative-judgement-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, elkington-human-centred-assessment-value-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, genai-feedback-design-multisite-experiment, hadra-ai-detector-accuracy-efl-2026, judgment-centred-software-engineering-education-2026, learner-centered-feedback-ai, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, pairr-ai-peer-review-2025, rethinking-ai-writing-feedback-literacy, sharma-judgment-visible-genai-assessment-2026, student-perspectives-ai-writing-grading-2026, teichmann-detecting-undetectable-misconduct-2026, valiassist-programming-feedback-validation-by-demonstration-2026, wright-transcription-not-generation-2026, wu-lam-genai-writing-assessment-professors-2026, yan-accountable-judgement-language-assessment-2026, yu-verification-without-criteria-2026, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -33,7 +37,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 ## Questions à examiner
 
 - Songez à quelque chose que vous savez bien juger. Comment avez-vous appris ce jugement — par un enseignement explicite ou de manière absorbée, en produisant et en comparant — et qu'est-ce que cela implique quant à la manière dont il devrait être évalué ?
-- Une grille d'évaluation peut être appliquée mécaniquement ou comprise. Si un étudiant applique correctement les critères mais ne peut pas expliquer pourquoi un travail l'emporte sur un autre, quelle capacité l'évaluation a-t-elle réellement mesurée ?
+- Une [[rubrics|grille d'évaluation]] peut être appliquée mécaniquement ou comprise. Si un étudiant applique correctement les critères mais ne peut pas expliquer pourquoi un travail l'emporte sur un autre, quelle capacité l'évaluation a-t-elle réellement mesurée ?
 - Lorsqu'un [[llm|modèle de langue]] rédige une solution plausible, le travail restant de l'apprenant est largement du jugement : que conserver, que corriger, que jeter. Est-ce une tâche diminuée, ou une tâche plus exigeante que de produire le brouillon ?
 - Un étudiant peut accepter une suggestion d'IA parce qu'elle se lit bien, ou parce qu'elle survit à son propre examen critique. De l'extérieur, le travail soumis peut sembler identique — qu'est-ce qui permettrait à un évaluateur de voir la différence ?
 - Une expérience multisite a montré que la [[ai-feedback-quality|rétroaction]] directe par IA produisait les plus grands gains de révision, mais risquait un transfert passif du jugement. Qu'est-ce que ce compromis suggère quant à la manière dont vous concevriez la rétroaction pour construire le jugement plutôt que le contourner ?
@@ -68,6 +72,7 @@ Une couche supplémentaire concerne la *source* d'un jugement, et pas seulement 
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] donne au construit sa place la plus forte dans la littérature sur l'intégrité. Étendant le cadrage post-plagiat d'Eaton (2023) d'une orientation [[ethics|éthique]] à la conception de l'évaluation, il soutient que les modèles d'[[academic-integrity|intégrité]] fondés sur la détection et la vérification sont mal ajustés à des travaux où le jugement humain et la production machine s'entremêlent. Il reconçoit l'intégrité comme une pratique pédagogique mise en œuvre par le jugement évaluatif — la capacité de l'apprenant à peser les options, à justifier des choix académiques et à assumer ses responsabilités face à l'incertitude épistémique. Ses quatre pratiques (pistes de décision annotées, vérification et reddition de comptes, [[oral-assessment|soutenance orale]] et responsabilité dialogique, différences entre brouillons avec historique des versions) rendent ce jugement visible comme preuve, plutôt que de l'inférer de l'artefact. Il distingue le jugement des construits auxquels on le réduit souvent : la [[reflection|pratique réflexive]] considère sa propre pensée rétrospectivement, la [[metacognition]] est la conscience et la régulation des processus cognitifs, tandis que le jugement évalue des options au regard de références et en assume les conséquences dans l'incertitude. Il nomme aussi un mode d'échec propre à l'exigence d'un raisonnement documenté : il risque « le remplacement d'un régime de conformité par un autre », puisque le jugement comme preuve « demeure relationnel et situé plutôt que mécaniquement vérifiable ».
 - **Le jugement se cultive par des contraintes composées, et non en les supprimant.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] soutient que des contraintes génératives — un court brouillon visuel avant un artefact final, ou une limite de trois extraits d'entretien — rythment le travail cognitif et rendent le jugement visible, parce que les contraintes créent les moments où l'appréciation se pratique.
+- **Le jugement responsable ajoute une médiation culturelle au construit.** Yan (2026) étend le jugement évaluatif à l'évaluation des langues et de la traduction médiatisées par l'IA : les apprenants doivent justifier leurs décisions linguistiques, communicationnelles, de médiation culturelle et éthiques, parce qu'un texte cible fluide peut masquer des problèmes de registre et de culture non résolus ([[yan-accountable-judgement-language-assessment-2026|Yan, 2026]]).
 
 ## Données probantes : comment le jugement se développe, et ce que l'IA lui fait
 
@@ -102,6 +107,8 @@ Le même raisonnement admet une version structurelle. [[ahman-thoren-processes-o
 
 Le déplacement a une version du côté de l'enseignant, et c'est elle qui a retourné plusieurs professeurs d'écriture contre l'externalisation complète de la notation. Cinq des vingt-quatre ont déclaré que la notation est la manière dont un enseignant en vient à comprendre ses apprenants, si bien que la déléguer coûte cette compréhension et pas seulement des heures ([[wu-lam-genai-writing-assessment-professors-2026|Wu et Lam (2026)]]). Dix-huit des vingt-quatre traitaient le jugement humain comme ce qui attrape les erreurs de l'outil et en assume la responsabilité.
 
+La prescription est aussi, jusqu'ici, non mise en œuvre dans le dossier empirique. Une revue systématique et une analyse de réseaux épistémiques portant sur 65 études (2022–2026) ont montré que pas une seule n'enseignait aux apprenants les critères requis pour évaluer les productions de l'IA ; les interventions incitaient à faire des pauses, des explications et des déclarations de confiance, et aucun échafaudage de littératie de la rétroaction n'est apparu ([[yu-verification-without-criteria-2026|Yu et al., 2026]]). Les dispositifs présupposaient une norme évaluative plutôt qu'ils ne la fournissaient.
+
 ## Implications pour la pratique
 
 - **Énoncez-le comme un résultat.** Si apprécier la qualité d'un travail — y compris les productions de l'IA — est ce qui compte, inscrivez-le dans les [[learning-gains|résultats d'apprentissage]] et évaluez-le, plutôt que de le laisser comme un sous-produit de la tâche.
@@ -113,6 +120,8 @@ Le déplacement a une version du côté de l'enseignant, et c'est elle qui a ret
 - **Associez-le au processus et aux oraux.** Les artefacts de processus et les courtes explications orales montrent le jugement en action là où un produit final ne le peut pas, ce qui est une raison essentielle pour laquelle la refonte de l'évaluation à l'ère de l'IA s'appuie sur eux.
 
 - **Rendez le jugement conservé visible par des sondages de la dette de compréhension.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] définit quatre obligations transversales — expliquer, vérifier, modifier et rendre compte — qui rendent visible la compétence conservée à chaque niveau d'intégration de l'IA, et propose des demandes de modification différées, des revues de code, des tests conçus indépendamment, la localisation de défauts et le débogage en direct comme autant de sondages comparant ce qui a été produit à ce qui peut être démontré ultérieurement. Sous la capacité [[agentic-ai|agentique]], la cible de l'évaluation se déplace vers la supervision — contrats de tâche, frontières d'autorisation, bacs à sable, harnais d'évaluation, revue des diffs, retour en arrière et responsabilité humaine — déplaçant l'évaluation de l'auteur visible vers le jugement visible.
+
+**Juger un artefact n'est pas juger l'étudiant.** [[zhang-teachers-judge-creativity-genai-2026|Zhang et coll. (2026)]] rendent la distinction explicite pour les travaux assistés par IA générative : les jugements des enseignants sur la nouveauté, la résolution, l'esthétique et l'affect du produit — un noyau partagé chez 654 enseignants en Chine et aux États-Unis — décrivent l'artefact, et non la contribution de l'étudiant à cet artefact, et les deux divergent lorsque l'artefact est produit avec l'IA. Ils recommandent d'associer les critères de produit à des preuves de processus — invites, décisions de révision, justifications réflexives — le même déplacement de la production vers le jugement [[process-oriented-assessment|axé sur le processus]].
 
 ## Idées fausses courantes
 

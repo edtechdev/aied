@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en casos
 created: "2026-11-07T13:00:00-05:00"
-updated: "2026-11-15T10:14:19-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [problem-based-learning, productive-failure]
@@ -10,13 +10,17 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/case-based-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, productive-failure, inquiry-based-learning, pedagogical-patterns, simulation, professional-training, legal-education, business-education, medical-education, nursing-education, critical-thinking, ai-literacy, hallucination-risk, human-in-the-loop-ai, assessment, higher-ed]
 connected_articles: [trewren-ai-perioperative-case-based-learning-2026, higashitsuji-chatgpt-case-creation-nursing-2025, wei-ai-pbl-cbl-medical-dental-meta-analysis-2025, scaffolding-critical-engagement-genai-minority-students, ai-standardized-patient-scaffolding-medical-2026, genai-medical-education-transformation-review-2026, hardie-genai-nursing-scoping-review-2026, lorteau-sarro-ai-legal-education-2025, csaszar-ai-management-education-2026, ethics-education-meta-analysis-moral-outcomes-2026]
@@ -57,7 +61,7 @@ Los casos son un puente entre el conocimiento abstracto y el juicio situado. Dan
 
 El mecanismo no es simplemente «ejemplos del mundo real». Un caso puede ser realista y enseñar muy poco si la discusión nunca pide al estudiantado discriminar, justificar o comparar. Los diseños más sólidos usan casos para crear un espacio de problema antes de la explicación, que es el vínculo con el [[productive-failure|fracaso productivo]]: el estudiantado intenta un caso, encuentra los límites de su modelo actual y luego recibe instrucción que aborda esa brecha. Los casos contrastantes agudizan esto aún más. Cuando dos casos difieren en un rasgo que importa, quienes aprenden pueden ver el rasgo y no la historia superficial. El estudio existente de un curso de IA generativa de tres semanas para 78 estudiantes de minorías étnicas de un programa preparatorio usó el [[teacher-role|modelado docente]] con casos contrastantes para llevar al estudiantado de la copia eficiente a la cocreación crítica ([[scaffolding-critical-engagement-genai-minority-students]]). Es un diseño de comparación de casos, no una prueba del aprendizaje basado en casos en derecho o en administración de empresas, pero muestra el mecanismo en un aula real.
 
-Los casos también tienen una dimensión social. Una discusión de casos hace público el razonamiento: el estudiantado propone interpretaciones, escucha alternativas y revisa. Las preguntas del docente hacen el trabajo que un libro de texto no puede hacer. Por eso sustituir un caso por un resumen o una clase magistral puede conservar el contenido y perder el aprendizaje. También por eso una IA que responde las preguntas del caso por el estudiante puede cortocircuitar la discusión incluso cuando sus respuestas son correctas.
+Los casos también tienen una dimensión social. Una discusión de casos hace público el razonamiento: el estudiantado propone interpretaciones, escucha alternativas y revisa. Las preguntas del docente hacen el trabajo que un libro de texto no puede hacer. Por eso sustituir un caso por un resumen o una clase magistral puede conservar el contenido y perder el aprendizaje. También por eso una IA que responde las preguntas del caso por el estudiante puede cortocircuitar la discusión incluso cuando sus respuestas son correctas. El contraste de formatos tiene apoyo más allá de los casos: un metaanálisis sobre la enseñanza de la ética encontró que los resultados morales mejoraban cuando la modalidad era basada en la discusión y no variaban cuando era solo exposición magistral ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod y colegas, 2026]]).
 
 ## Qué cambia la IA
 

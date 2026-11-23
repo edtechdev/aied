@@ -1,7 +1,7 @@
 ---
 title: "Comment aborder les idées fausses courantes sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-19T19:35:52-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -18,6 +18,10 @@ translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -60,7 +64,7 @@ Cinq croyances déterminent si le reste de l'argument a une importance. Chacune 
 
 Dans une expérience de terrain menée auprès de près de 1 000 lycéens en [[math-education|mathématiques]], un accès libre à l'IA générative a amélioré la performance pendant la pratique assistée et réduit la performance ultérieure à l'examen sans assistance. Une version encadrée par des garde-fous, fournissant des indices plutôt que des réponses complètes, a éliminé le [[ai-misuse-learning-harm|préjudice d'apprentissage]] observé ([[generative-ai-guardrails-harm-learning|Generative AI Without Guardrails Can Harm Learning]]). Les deux résultats sont réels, et ils portent sur des mesures différentes : une seule d'entre elles est la mesure qu'un relevé de notes atteste. L'étude vous donne une orientation et aucune taille d'effet pour votre cours.
 
-Les étudiants font la même inférence sur leur propre travail, et la réponse est la même : le produit montre ce que l'étudiant et l'outil ont produit ensemble. Quatre questions posées fenêtre de discussion fermée vous disent ce qui s'est passé. Savent-ils expliquer le raisonnement ? Résoudre un problème semblable ? Repérer les faiblesses de la réponse générée ? Transposer l'idée dans un nouveau contexte ? Si les réponses honnêtes sont non, vous regardez une performance assistée sous le nom d'apprentissage. Placez l'une de ces quatre exigences dans l'[[assessment]] et dites-le dans la grille d'évaluation.
+Les étudiants font la même inférence sur leur propre travail, et la réponse est la même : le produit montre ce que l'étudiant et l'outil ont produit ensemble. Quatre questions posées fenêtre de discussion fermée vous disent ce qui s'est passé. Savent-ils expliquer le raisonnement ? Résoudre un problème semblable ? Repérer les faiblesses de la réponse générée ? Transposer l'idée dans un nouveau contexte ? Si les réponses honnêtes sont non, vous regardez une performance assistée sous le nom d'apprentissage. Placez l'une de ces quatre exigences dans l'[[assessment]] et dites-le dans la [[rubrics|grille d'évaluation]].
 
 ### « Les étudiants aiment la rétroaction, donc la rétroaction fonctionne. »
 

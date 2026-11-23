@@ -1,7 +1,7 @@
 ---
 title: "Educación ambiental"
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-11-15T10:15:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,10 +11,14 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -47,7 +51,7 @@ Una tercera línea, más débil, trata el «aprendizaje sostenible» como una pr
 
 ## Enseñar temas ambientales y climáticos con IA
 
-La evidencia más sólida es un cuasi-experimento de tres grupos que usa el cambio climático como cuestión sociocientífica. El estudiantado que trabajó con un socio de IA dentro de una tarea estructurada de [[inquiry-based-learning|indagación]] superó a sus pares de solo indagación (d = 0,69) y a la instrucción tradicional (d = 1,88) en una rúbrica de toma de decisiones, con las mayores ganancias en los pasos con los que el estudiantado llegaba más débil: la monitorización y la gestión adaptativa, y la generación de alternativas. La condición con IA era *adicional a* la indagación, no un sustituto, y la recogida y el análisis de datos no separaron en absoluto a los grupos, lo que sugiere que la IA apoyó el razonamiento sobre los compromisos mutuos y no la recopilación de pruebas.([[ai-assisted-inquiry-ssi-climate]])
+La evidencia más sólida es un cuasi-experimento de tres grupos que usa el cambio climático como cuestión sociocientífica. El estudiantado que trabajó con un socio de IA dentro de una tarea estructurada de [[inquiry-based-learning|indagación]] superó a sus pares de solo indagación (d = 0,69) y a la instrucción tradicional (d = 1,88) en una [[rubrics|rúbrica]] de toma de decisiones, con las mayores ganancias en los pasos con los que el estudiantado llegaba más débil: la monitorización y la gestión adaptativa, y la generación de alternativas. La condición con IA era *adicional a* la indagación, no un sustituto, y la recogida y el análisis de datos no separaron en absoluto a los grupos, lo que sugiere que la IA apoyó el razonamiento sobre los compromisos mutuos y no la recopilación de pruebas.([[ai-assisted-inquiry-ssi-climate]])
 
 En el plano del [[curriculum-design|currículo]], el marco AI-SEE integra la IA en todo un [[engineering-education|currículo de ingeniería]] en cuatro pilares (impulsado por la inteligencia, empoderado por lo verde, liderazgo responsable, integrado con la práctica) en lugar de como un módulo de sostenibilidad añadido; un piloto con 144 estudiantes informó de mejoras en la conciencia de sostenibilidad y en la [[student-engagement|implicación]] conductual en los niveles personal, académico, profesional y social. Los autores advierten de que se trata de evidencia de entrevistas de una sola institución, autoinformada y en un único punto temporal, de un programa chino de transporte.([[liu-ai-sustainable-engineering-education-2026]])
 

@@ -1,7 +1,7 @@
 ---
 title: Infraestructura institucional de IA
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -12,15 +12,19 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-16T20:30:23-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
-connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
-connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai, critiques-of-ai-in-education]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026, watson-generative-ai-meaning-mediating-infrastructure-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -38,7 +42,7 @@ connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, ro
 
 ## Introducción
 
-Las instituciones pasaron los primeros años de la [[generative-ai|IA generativa]] comprando acceso: una licencia de [[conversational-ai|chatbot]] aquí, un asistente de escritura allá, cada uno con sus propios términos y su propia ruta de datos. El resultado es una cartera que nadie puede describir en una frase, y un conjunto de preguntas (adónde fue ese prompt, quién aprobó este modelo, cuánto gastamos) que ninguna oficina puede responder por sí sola.
+Las instituciones pasaron los primeros años de la [[generative-ai|IA generativa]] comprando acceso: una licencia de [[conversational-ai|chatbot]] aquí, un asistente de escritura allá, cada uno con sus propios términos y su propia ruta de datos. El resultado es una cartera que nadie puede describir en una frase, y un conjunto de preguntas (adónde fue ese prompt, quién aprobó este modelo, cuánto gastamos) que ninguna oficina puede responder por sí sola. El argumento de que esta capa media el significado y no se limita a entregar herramientas se desarrolla en las [[critiques-of-ai-in-education|críticas a la IA en la educación]].
 
 Tratar la IA como infraestructura es la respuesta. Significa una capa de servicio compartida, una pasarela que aplica las reglas de la institución a cada petición y telemetría suficiente para ver coste, carga y fallo. La afirmación de la literatura no es que esto sea más barato. Es que convierte a la institución en la parte que decide, lo cual es un tipo de afirmación distinto y más difícil de contrastar.
 
@@ -104,7 +108,7 @@ El hallazgo sobre la adopción es el que deberían retener quienes planifican in
 
 [[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] sostiene que la evidencia necesaria para interpretar el aprendizaje ya existe pero está fragmentada entre sistemas que no pueden leerse entre sí. Su marco tiene seis capas funcionales, tres fronteras inferenciales que limitan lo que una instantánea puede sostener y siete requisitos de gobernanza, incluidos la auditabilidad, la estimación de la incertidumbre y la anulación humana. Es un marco y no un despliegue, y los autores lo dicen.
 
-[[lata-ferpa-compliant-local-llm-autograder|LaTA]] aporta el caso más estrecho: un modelo de razonamiento local que elimina la cuestión de [[privacy|FERPA]] sobre enviar trabajos de estudiantes a un proveedor en lugar de gestionarla. Juntos sugieren que la infraestructura de evaluación no es una función de una plataforma de aprendizaje, sino un problema separado con su propio modelo de datos y sus propios modos de fallo.
+[[lata-ferpa-compliant-local-llm-autograder|LaTA]] aporta el caso más estrecho: un modelo de razonamiento local que elimina la cuestión de [[privacy|FERPA]] sobre enviar trabajos de estudiantes a un proveedor en lugar de gestionarla. Juntos sugieren que la infraestructura de evaluación no es una función de una plataforma de aprendizaje, sino un problema separado con su propio modelo de datos y sus propios modos de fallo. Este es el nivel de infraestructura de los [[learning-environments-as-systems|entornos de aprendizaje como sistemas]]: la capa que decide si una herramienta a nivel de curso puede sostenerse en absoluto.
 
 ## Coste, latencia y el problema de la visibilidad
 
@@ -115,6 +119,8 @@ Las plataformas alojadas a escala de distrito informan del mismo tipo de aritmé
 ## La soberanía tiene una dimensión de equidad
 
 Una pasarela puede enrutar hacia un modelo local que trata mal el idioma de la institución, y el silencio resultante no es neutro. El argumento de la infraestructura y el de la [[digital-divide|brecha digital]] se encuentran aquí: las instituciones con clústeres y personal ganan capacidad, y las que no los tienen absorben lo que el proveedor ofrezca al precio que el proveedor fije. Las versiones gratuitas son genuinamente útiles y genuinamente frágiles, lo que hace que tratarlas como una estrategia permanente sea una decisión sobre qué instituciones reciben servicio.
+
+**La infraestructura también media el significado.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner y Brezovec (2026)]] tratan la IA generativa como una infraestructura mediadora del significado que reformatea prompts, [[rubrics|rúbricas]], retroalimentación y géneros en formas comunicativamente plausibles, de modo que la contratación y la auditoría tienen que preguntar qué estilos comunicativos reconoce un sistema, qué ayuda normaliza y si las expectativas sobre ritmo y pulido derivan más rápido que el apoyo.
 
 ## Implicaciones para la práctica
 

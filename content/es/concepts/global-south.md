@@ -1,7 +1,7 @@
 ---
 title: Sur global
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-15T10:13:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,10 +9,14 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -47,6 +51,7 @@ La investigación convencional sobre IA y tecnología educativa ha estado histó
 - **Razonamiento ético del profesorado en contextos de bajos recursos:** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et al. (2026)]] encontraron que el profesorado de secundaria STEAM en ejercicio de un contexto de bajos recursos razona sobre la ética de la IA a través de su identidad profesional, las realidades del aula y las normas culturales, y no mediante listas formales de principios, lo que contradice los supuestos de un Sur global «vacío de ética».
 - **Adopción contextual:** [[socio-cognitive-genai-adoption-engineering-2026|Asag y Al Mamun]] modelan la adopción de la [[generative-ai|IA generativa]] entre estudiantado de [[engineering-education|ingeniería]] de Bangladés, y [[connected-ai-lesson-planning-vietnam|ConnectED]] despliega un sistema de planificación de clases alineado con el [[curriculum-design|currículo]] para la educación vietnamita.
 - **La creación de capacidad, y no la infraestructura, impulsó la adopción del profesorado.** Entre 255 docentes de Bangladés, la actitud hacia la IA generativa predijo con fuerza su uso (β = 0,556) y la relevancia específica de dominio impulsó la actitud (β = 0,413), mientras que la dotación tecnológica institucional y las normas subjetivas no fueron predictores significativos ([[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et al. (2026)]]).
+- **Alfabetización en IA centrada en la identidad en la educación afroecuatoriana:** 90 actores educativos, juveniles y comunitarios de Esmeraldas valoraron la identidad afrodescendiente como lo más alto (M = 4,72) y la alfabetización crítica en IA como lo más bajo (M = 4,60), y un grupo focal de tres participantes describió un uso ocasional y acotado a tareas ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales y García Iturralde, 2026]]).
 - **Integración institucional y desigualdad estructural:** [[adeniranye-ai-integration-nigerian-higher-education-2026|El análisis de contenido comparativo de Adeniranye et al. (2026)]] sobre 45 universidades nigerianas (federales, estatales y privadas) encontró que la integración de la IA se predice por la antigüedad de la institución y su ubicación geográfica — y no por el tipo de gobernanza —, y que los vínculos con redes internacionales y de la industria se refuerzan mutuamente (r = 0,74), de modo que las instituciones bien conectadas acumulan ventaja mientras otras se quedan cada vez más atrás. Sitúa la [[digital-divide|desigualdad digital]] no solo en el plano de quien aprende, sino en la capacidad estructural de las propias instituciones de [[higher-ed|educación superior]].
 - **El [[educational-development|desarrollo académico]] como mediación digital bajo restricciones estructurales:** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] entrevista a doce desarrolladores académicos y diseñadores de aprendizaje de dos instituciones sudafricanas históricamente desfavorecidas y traza una línea analítica que la literatura sobre el Sur global a menudo difumina: la **desigualdad digital** es distributiva y en principio respondible mediante redistribución y acceso, mientras que la **colonialidad algorítmica** es epistémica y persiste incluso con acceso pleno, porque es inherente a lo que los sistemas codifican y a cuyo conocimiento ponen en el centro. Las dos están entrelazadas, pero exigen respuestas distintas, y la institución queda doblemente posicionada: excluida por la escasez de infraestructura y, cuando queda incluida, subordinada por sistemas importados que codifican otros conocimientos y normas. La retórica institucional sobre la IA («más rendimiento que práctica») llegó acoplada de forma laxa a las realidades materiales de la docencia, así que quienes diseñaban tradujeron el discurso global de transformación digital en una práctica contextualmente viable: probar y «romper» deliberadamente las herramientas en espacios entre pares, insistir en el juicio por encima de la habilidad y absorber el coste afectivo de proyectar una pericia que aún estaban adquiriendo.
 - **Marginación epistémica:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] sostiene que los datos de entrenamiento centrados en Occidente marginan los conocimientos no occidentales y los centrados en la discapacidad, conectando las preocupaciones del Sur global con la [[equity-in-ai-education|equidad en la educación con IA]] y la [[culturally-relevant-pedagogy|pedagogía culturalmente relevante]].

@@ -30,6 +30,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*

@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -14,7 +14,7 @@ level: [higher ed]
 confidence: medium
 connected_resources: [code-viva]
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, assessment, authentic-assessment, assessment-validity, academic-integrity, automated-assessment, ai-detection, speech-and-voice-technologies, multimodal, anxiety-and-stress, feedback, higher-ed]
 connected_articles: [ai-second-language-listening-speaking-assessment-2025, corbin-ai-glasses-wearable-ai-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, asynchronous-oral-assessment-2026, ai-supported-oral-assessment-tvet-2026, aivaluate-anxiety-assessment-2026, code-review-genai-cs1, multimodal-embodied-cognition-oral-explanations-2026, socratic-tests-conversational-assessment, tool-invariant-framework-agentic-ai, ai-standardized-patient-scaffolding-medical-2026, pgr-students-genai-uses-qualitative-2026, computing-assessment-genai-workshop-report-2026, assessment-feedback-trilemma-model-2026, onodipe-enhance-not-replace-ai-classroom-2026, deng-certification-consultation-university-teaching-2026, webb-davies-voice-first-written-assessment-2026, challen-conversational-assessment-chat-exams-2026]
@@ -93,7 +97,7 @@ La justificación de integridad del oral también tiene fecha de caducidad: [[co
 
 - **El techo de escala es la restricción de diseño.** En un taller con 73 docentes de [[cs-education|informática]], la evaluación oral e interactiva se señaló como la evidencia más sólida disponible del entendimiento individual y el remedio menos escalable. Las mitigaciones que describieron quienes participaron fueron la distribución y el muestreo: bolsas compartidas de ayudantes docentes, [[peer-assessment|evaluación entre pares]] con menos peso que un [[summative-assessment|examen final]] y preguntar a un subconjunto rotatorio de estudiantes ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
-- **La conversación puntuada por máquina se vuelve indulgente cuando quien entrevista andamia.** [[challen-conversational-assessment-chat-exams-2026|Challen y Zilles (2026)]] separaron a un entrevistador ciego a la rúbrica de un evaluador oculto; una recalificación ciega de 40 intentos coincidió en el 35% y otorgó la nota máxima dos veces donde el evaluador desplegado la dio 20 veces.
+- **La conversación puntuada por máquina se vuelve indulgente cuando quien entrevista andamia.** [[challen-conversational-assessment-chat-exams-2026|Challen y Zilles (2026)]] separaron a un entrevistador ciego a la [[rubrics|rúbrica]] de un evaluador oculto; una recalificación ciega de 40 intentos coincidió en el 35% y otorgó la nota máxima dos veces donde el evaluador desplegado la dio 20 veces.
 
 ## Concepciones erróneas
 

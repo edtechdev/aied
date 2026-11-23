@@ -1,7 +1,7 @@
 ---
 title: Avatares de IA e instructores sintéticos
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-17T16:10:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -14,9 +14,13 @@ audience: [instructors, instructional designers]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -55,7 +59,7 @@ El material se organiza por rol: qué rol ocupa el ser humano sintético, qué e
 
 **Compañero de juego de rol.** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] hace que los niños manejen un avatar robótico para ensayar la intervención como testigos. ACLIME llama a esto el segundo modo de interacción: un agente que sostiene un rol definido para el diálogo [[situated-learning|situado]].
 
-**Interlocutor de evaluación.** El juez de SOPHIE puntúa transcripciones con una rúbrica de comunicación. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] proponen un agente de voz que entrevista al estudiantado sobre un curso en lugar de administrar una [[self-report-measures|encuesta escrita]].
+**Interlocutor de evaluación.** El juez de SOPHIE puntúa transcripciones con una [[rubrics|rúbrica]] de comunicación. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] proponen un agente de voz que entrevista al estudiantado sobre un curso en lugar de administrar una [[self-report-measures|encuesta escrita]].
 
 ## Qué respalda la evidencia, rol por rol
 

@@ -1,7 +1,7 @@
 ---
 title: "Référentiel"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,14 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
+connected_resources: [gradebench, raid-benchmark-leaderboard, fab-ai-benchmark-leaderboard]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -54,7 +60,8 @@ Les référentiels servent de fondement probant à la [[ai-education|recherche e
 
 Les référentiels rejoignent l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et l'[[assessment-validity|validité de l'évaluation]] — sans référentiels rigoureux, les affirmations sur l'efficacité du [[intelligent-tutoring|tutorat par IA]] sont invérifiables. Ils croisent aussi la [[bias-mitigation|réduction des biais]], car la conception d'un référentiel peut encoder ou amplifier les biais. La tension entre performance sur référentiel et utilité réelle est explorée dans de multiples articles, rejoignant les préoccupations de [[transfer-of-learning|transfert des apprentissages]] dans les applications d'[[generative-ai|IA générative]].
 
-- **Quand la métrique, et non le système, est la défaillance :** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] a obtenu un score BLEU-4 = 0.0000 sur les 179 questions d'examen théoriques de [[cs-education|informatique]] alors qu'une grille pédagogique à six critères donnait 0.7620, parce que des démonstrations logiquement équivalentes diffèrent régulièrement de notation, de noms de variables et de stratégie de preuve. Un score nul en dit plus sur le recouvrement des n-grammes que sur la qualité de la réponse, ce qui constitue le cas général contre le fait de traiter les métriques de surface comme le chiffre phare pour les systèmes d'AIED en domaine formel.
+- **Les référentiels de diagnostic exposent la surconfiance évidentielle.** Dans [[llm-cognitive-diagnosis-handwritten-math|MathCog]], les 18 LLM évalués tombaient tous sous un macro F1 de 0,5 sur 3 036 verdicts manuscrits de mathématiques annotés par des enseignants, sur-attribuant la force évidentielle et fabriquant des citations de preuves, défaillances que les auteurs quantifient avec les métriques OverAttr et FalseAttr.
+- **Quand la métrique, et non le système, est la défaillance :** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] a obtenu un score BLEU-4 = 0.0000 sur les 179 questions d'examen théoriques de [[cs-education|informatique]] alors qu'une [[rubrics|grille pédagogique]] à six critères donnait 0.7620, parce que des démonstrations logiquement équivalentes diffèrent régulièrement de notation, de noms de variables et de stratégie de preuve. Un score nul en dit plus sur le recouvrement des n-grammes que sur la qualité de la réponse, ce qui constitue le cas général contre le fait de traiter les métriques de surface comme le chiffre phare pour les systèmes d'AIED en domaine formel.
 - **Les référentiels contrefactuels au niveau du construit.** CFES-P24 exprime les principes de l'apprentissage multimédia sous forme de transformations déterministes et réversibles de diapositives, afin d'auditer si les MLLM réagissent à des construits spécifiques de conception pédagogique plutôt que de produire des évaluations globales plausibles. Un pilote figé a montré une reconnaissance des construits (opération, principe, réparation, localisation des preuves) à 8/8 alors que le jugement comparatif (direction 6/8) et le calibrage de la sévérité (0/8) échouaient — ce qui plaide pour des tableaux de scores à plusieurs niveaux plutôt que pour des scores composites. ([[cfes-p24-multimodal-slide-auditing-2026]])
 - **Ancrer l'[[hallucination-risk|hallucination]] et l'énergie dans l'évaluation, et pas seulement l'exactitude.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] ont évalué l'hallucination comme une implication par rapport aux fragments récupérés sous licence ouverte (κ = 0.76 par rapport au jugement d'experts) et ont enregistré 1.8 mWh par requête, et leur ablation plaçait la récupération en premier : un LLM local sans récupération obtenait 52.3%, sous la ligne de base TF-IDF de 55.4%.
 - **La vérification peut battre le jugement sur le contenu généré.** [[diagramir-educational-math-diagram-evaluation|Kumar et al. (2025)]] rétrotraduisent des schémas mathématiques générés en une représentation intermédiaire contrainte par un schéma et exécutent des contrôles de règles déterministes, atteignant un accord supérieur avec les évaluateurs humains (κ de Cohen 0.48–0.56) que LLM-as-a-Judge (0.39–0.47) et permettant à un petit modèle d'égaler le meilleur juge à un coût 10 fois plus faible.
@@ -76,6 +83,21 @@ La stabilité des items allait de 79.0% à 85.4%, le kappa de Cohen moyen inter-
 - **La règle de notation fait partie de l'instrument.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] fait tourner quatre règles de mise à jour du traçage des connaissances sur les mêmes séquences d'événements ASSISTments 2012–13, ne différant que par la manière de noter les lignes assistées par indices, et pré-enregistre les comparaisons derrière une barrière qui retient la moitié confirmatoire des étudiants jusqu'à présence du fichier d'enregistrement. Créditer toute complétion dépasse à peine une constante de difficulté de compétence (AUC regroupée 0.604 contre 0.595 sur 985.813 événements notés) et déclare 93.9% des paires étudiant–compétence maîtrisées contre 72.8% sous une règle qui lit les lignes assistées comme des premières tentatives échouées (0.658) — la leçon générale étant qu'une étiquette de maîtrise est définie par la règle de preuve, et non par le journal.
 - **Rapporter la capacité d'un modèle comme un niveau calibré, et pas seulement comme une exactitude.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] projettent 624 items annotés par des experts sur des niveaux de compétence nommés en utilisant 2.050 réponses d'apprenants, et constatent que les modèles de pointe dépassent le plafond calibré — une limite qu'un pourcentage masque.
 - **Une règle de notation peut être contournée par le modèle qu'elle entraîne.** Une métrique d'[[adaptive-learning|adaptativité]] maximisée en répétant une seule meilleure décision montre que la conception d'un référentiel devrait publier l'argmax, noter l'adaptation comme une différence et rapporter des lignes de base au-dessus du hasard ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo et Fernández De la Cruz, 2026]]).
+
+
+La règle d'appariement fait partie de la mesure, et sa taille n'est pas marginale. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et coll. (2026)]] ont noté 11 configurations — modèles d'embeddings, dispositifs LLM [[generative-ai|génératifs]] et un agent ReAct — sur un référentiel annoté ESCO de 926 échantillons d'offres d'emploi portant 1 696 compétences de référence, puis re-noté chacune à travers un pipeline d'appariement à huit couches. Le pipeline allait de la correspondance exacte de chaînes à un seuil de similarité d'embedding de 0,85, et le rappel mesuré a grimpé de 11 à 72 points de pourcentage sur les 11 configurations. Le plus grand bond, 70,9 points, est allé à Gemini 2.5 Pro avec chaîne de pensée, dont les descriptions correspondaient sémantiquement aux étiquettes de référence mais rarement lexicalement — une oscillation que les auteurs lisent comme la preuve que l'évaluation par correspondance exacte mesurait la mise en forme autant que la capacité.
+
+## Où vivent les référentiels
+
+Un référentiel n'est pas toujours un article. Trois surfaces portent désormais l'essentiel de la lecture opérationnelle, et elles diffèrent par ce qu'elles permettent au lecteur de vérifier.
+
+Les classements transforment un référentiel en comparaison permanente. [GradeBench](/resources/gradebench/) note les modèles de pointe sur 464 réponses manuscrites de STIM issues de 45 cours universitaires, par rapport aux items de grille que les instructeurs ont réellement sélectionnés, et le meilleur modèle atteint 57,3 % de correspondance exacte aux items de la grille. L'axe du coût importe plus que le classement : un modèle devancé de 0,8 point coûte environ sept fois moins cher par millier de réponses. Il mesure la notation, non l'apprentissage.
+
+Les classements de détecteurs répondent à une autre question. Le [classement RAID](/resources/raid-benchmark-leaderboard/) note les modèles de détection à travers des domaines, des réglages de décodage et des attaques adverses, et son taux de vrais positifs à 1 % de faux positifs est la colonne qui compte à l'échelle institutionnelle, où 1 % représente des centaines d'étudiants.
+
+Certains référentiels existent pour comparer l'accès plutôt que la capacité. [Fab AI](/resources/fab-ai-benchmark-leaderboard/) évalue des modèles pour l'éducation dans des pays à revenu faible ou intermédiaire sur la pédagogie, la littératie fondamentale, les besoins éducatifs particuliers et le handicap, ainsi que le raisonnement visuel, avec des colonnes de prix, de nombre de paramètres et de poids ouverts à côté du score. L'écart — les modèles de pointe proches de 90 % et les modèles ouverts de moins de 2B entre 21 % et 43 % — rend l'arbitrage de déploiement explicite.
+
+La distinction mérite d'être conservée. Un score de classement est une affirmation portant sur un ensemble d'items fixe, jamais sur une classe, et ces trois instruments ne s'accordent pas sur ce que l'évaluation éducative a pour but.
 
 ## Idées fausses courantes
 

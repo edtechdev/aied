@@ -1,13 +1,13 @@
 ---
 title: "¿Cómo se debería diseñar la IA dentro de la experiencia de aprendizaje?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -90,7 +94,7 @@ Los dispositivos se rigen por un criterio de formación frente a [[cognitive-off
 
 ## Compruebe que la alineación es real
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|El análisis del discurso de McInnes y sus colegas]] sobre 14 documentos de orientación para la educación superior advierte de que los consejos enmarcados en la eficiencia, como usar IA generativa para redactar resultados, rúbricas y esquemas de curso, producen una [[assessment|alineación]] que parece alineada mientras descuida la mitad constructiva. Los resultados, las actividades y las evaluaciones se generan como elementos discretos y no como elementos interdependientes.
+[[mcinnes-salvaging-constructive-alignment-genai-2026|El análisis del discurso de McInnes y sus colegas]] sobre 14 documentos de orientación para la educación superior advierte de que los consejos enmarcados en la eficiencia, como usar IA generativa para redactar resultados, [[rubrics|rúbricas]] y esquemas de curso, producen una [[assessment|alineación]] que parece alineada mientras descuida la mitad constructiva. Los resultados, las actividades y las evaluaciones se generan como elementos discretos y no como elementos interdependientes.
 
 Su remedio es la resecuenciación. Los educadores deberían entender la alineación constructiva lo bastante bien como para dirigir, interrogar y rechazar la producción de la IA antes de delegar cualquier parte de ella, porque aceptar una superficie plausible es el mismo fallo evaluativo contra el que los docentes advierten a sus estudiantes. Donde se usa IA, abogan por sistemas delimitados institucionalmente y [[rag|aumentados por recuperación]], configurados en torno a las políticas y los estándares de calidad locales y no a valores por defecto genéricos entrenados con internet.
 

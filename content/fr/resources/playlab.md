@@ -1,7 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-03T13:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "Plateforme de création à but non lucratif où les enseignants construisent, partagent et évaluent leurs propres applications d'IA, ancrées dans leur programme, exécutées sur le modèle de leur choix, avec une visibilité intégrée pour l'enseignant."
 url: https://www.playlab.ai/
@@ -30,12 +30,17 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-**Playlab** est une plateforme de création où les enseignants conçoivent leurs propres applications d'IA au lieu de choisir dans un modèle conçu par d'autres. Une application est [[rag|ancrée dans votre propre programme]], vos grilles d'évaluation et vos références plutôt que sur la connaissance générale du modèle ; elle fonctionne sur le modèle que vous choisissez (Anthropic, OpenAI, Google, Meta) avec le coût visible pendant la construction, et peut exploiter des [[knowledge-graph|graphes de connaissances]] préétablis pour Illustrative Mathematics, OpenSciEd, les normes des États et OER Commons.
+**Playlab** est une plateforme de création où les enseignants conçoivent leurs propres applications d'IA au lieu de choisir dans un modèle conçu par d'autres. Une application est [[rag|ancrée dans votre propre programme]], vos [[rubrics|grilles d'évaluation]] et vos références plutôt que sur la connaissance générale du modèle ; elle fonctionne sur le modèle que vous choisissez (Anthropic, OpenAI, Google, Meta) avec le coût visible pendant la construction, et peut exploiter des [[knowledge-graph|graphes de connaissances]] préétablis pour Illustrative Mathematics, OpenSciEd, les normes des États et OER Commons.
 
 ## Ce que vous pouvez faire avec
 Construire et remixer : partir de zéro ou adapter une application de la galerie communautaire (des centaines d'applications, y compris créées par des élèves). Orienter le comportement de chaque application : entrée d'images et de voix, mémoire et profils, ou Avoid Answer Generation, qui guide les élèves vers une réponse au lieu de la leur donner. Sont également disponibles : un éditeur de documents avec export Docx et Drive, l'exécution de Python, la saisie mathématique et le traitement d'images. Les enseignants peuvent [[human-in-the-loop-ai|consulter n'importe quelle conversation d'élève]], et des signalements automatiques peuvent en suspendre une et avertir l'enseignant. Les listes d'élèves se connectent via Clever, ClassLink ou Google SSO.

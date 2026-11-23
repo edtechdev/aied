@@ -1,7 +1,7 @@
 ---
 title: "Comment concevoir un développement professionnel sur l'IA qui change réellement les pratiques enseignantes ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, teacher-ai-competency]
@@ -11,11 +11,15 @@ audience: [faculty developers, administrators]
 discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -29,6 +33,7 @@ ai_assist:
     date: "2026-10-09"
     agent: hermes-agent
 pedagogy: [tpack]
+connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -45,7 +50,7 @@ L'essentiel pour la réunion : standardisez un cycle de séances où chaque part
 
 **2.** Placez la vérification, la déclaration et la maîtrise des risques dans le modèle de travail, là où elles servent, pour qu'un participant inquiet ait un endroit où déposer son inquiétude.
 
-**3.** Consacrez les heures à l'évaluation et aux grilles d'évaluation, le domaine le plus faible au départ et celui où le gain mesuré est le plus grand.
+**3.** Consacrez les heures à l'évaluation et aux [[rubrics|grilles d'évaluation]], le domaine le plus faible au départ et celui où le gain mesuré est le plus grand.
 
 **4.** Constituez des cohortes [[discipline-specific-aied|propres à chaque discipline]], puis différenciez à l'intérieur selon l'expérience.
 

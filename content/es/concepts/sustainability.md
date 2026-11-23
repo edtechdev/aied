@@ -1,7 +1,7 @@
 ---
 title: Sostenibilidad
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-11-15T10:32:41-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,12 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -70,7 +74,9 @@ La segunda vía se ocupa de la propia huella de la IA en entornos educativos:
 
 ## El aprendizaje sostenible como objetivo pedagógico
 
-Una línea relacionada enmarca la sostenibilidad no solo como una preocupación ambiental o institucional, sino como una propiedad del propio aprendizaje. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostienen que el aprendizaje asistido por IA corre el riesgo de descarga cognitiva y de desvinculación de contextos auténticos, y proponen marcos (E3-HOT) para el **aprendizaje sostenible**: un aprendizaje que persiste, se transfiere y sigue conectado a problemas reales en lugar de quedar cortocircuitado por la [[cognitive-offloading|descarga cognitiva]]. Esto conecta la sostenibilidad con la [[agency|agencia]] y el [[critical-thinking|pensamiento crítico]].
+Una línea relacionada enmarca la sostenibilidad no solo como una preocupación ambiental o institucional, sino como una propiedad del propio aprendizaje. El argumento más amplio de que este reencuadre sirve a intereses particulares se recoge bajo las [[critiques-of-ai-in-education|críticas a la IA en la educación]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostienen que el aprendizaje asistido por IA corre el riesgo de descarga cognitiva y de desvinculación de contextos auténticos, y proponen marcos (E3-HOT) para el **aprendizaje sostenible**: un aprendizaje que persiste, se transfiere y sigue conectado a problemas reales en lugar de quedar cortocircuitado por la [[cognitive-offloading|descarga cognitiva]]. Esto conecta la sostenibilidad con la [[agency|agencia]] y el [[critical-thinking|pensamiento crítico]].
+
+- **Una explicación de puerta de control.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] define la sostenibilidad pedagógica como el valor duradero de aprendizaje producido bajo condiciones económicas, sociales, ambientales e institucionales que pueden mantenerse, y convierte ese valor en una puerta no compensable y no en un pilar entre cinco.
 
 ## Conexiones con otros conceptos
 

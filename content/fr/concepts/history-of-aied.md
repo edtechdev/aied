@@ -1,17 +1,21 @@
 ---
 title: "Histoire de l'IA en éducation"
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -76,16 +80,6 @@ L'arrivée de l'[[generative-ai|IA générative]] — une large famille qui incl
 - **Pesez délibérément le contrôle contre l'autonomie.** La question de savoir si l'IA devrait optimiser vers des résultats standards ou permettre des résultats divers et dirigés par l'apprenant est un choix authentique, aux conséquences institutionnelles et politiques, et non une donnée technique.
 - **Préservez l'autonomie de l'apprenant.** La résistance récurrente à la standardisation et au contrôle en faveur d'approches ouvertes et centrées sur l'apprenant est un fil durable qui vaut la peine d'être défendu.
 
-## Idées fausses courantes
-
-**« L'IA en éducation a commencé avec ChatGPT. »** Non, et cette croyance coûte cher parce qu'elle rend invisible tout ce que les périodes antérieures ont appris. Les [[intelligent-tutoring|tuteurs intelligents]] descendent des travaux de recherche heuristique et de systèmes experts des années 1960 et 1970, et la communauté AIED s'est constituée autour d'eux des décennies avant les [[llm|grands modèles de langage]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] montrent que les débats actuels reproduisent une division déjà explicite chez les tuteurs cognitifs d'Anderson et le constructionnisme de Papert : un lecteur qui date le champ de 2022 redécouvrira des arguments que le champ avait tranchés, abandonnés ou perdus une première fois.
-
-**« Le champ a progressivement abandonné l'IA-comme-analogie au profit d'outils appliqués, et l'IA générative prolonge cette tendance. »** La trajectoire est réelle mais non monotone, ce qui en fait la correction la plus instructive. L'analyse positionnelle de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian et Doroudi]] portant sur AIED 1985, 1993, 2021 et 2024 et sur IJAIED 2004, 2014 et 2021 montre bien une dérive d'un champ mixte vers une instrumentalité appliquée quasi exclusive dans les années 2000. Mais à AIED 2024, trois des quatre communications du quadrant IA-comme-analogie reposaient sur des LLM, dont un travail primé sur des agents enseignables fondés sur les LLM. L'IA générative **inverse** en partie la tendance plutôt qu'elle ne la prolonge, ce qui explique pourquoi la traiter comme « le prochain tuteur intelligent » se trompe sur l'endroit où la frontière de la recherche s'est réellement déplacée.
-
-**« La personnalisation signifie adapter la difficulté à chaque apprenant. »** Ce n'est que l'un de deux sens incompatibles, et les confondre masque un choix politique. Dans le premier sens, le résultat est tenu fixe et seul le chemin varie, lignée qui va des machines à enseigner de Skinner aux tuteurs fondés sur la maîtrise. Dans le second, les résultats eux-mêmes se diversifient, les apprenants poursuivant des intérêts individuels sans être contraints par un programme standard (Zhao, 2024). Un [[intelligent-tutoring|STI]] met en œuvre le premier ; le [[constructivist|constructionnisme]] le second. Un outil décrit comme « personnalisé » ne vous a rien dit tant que vous ignorez lequel des deux il désigne.
-
-**« Le terme "intelligence artificielle" était simplement le nom évident du champ. »** Ce fut un choix délibéré. Lorsque McCarthy prépara le projet de Dartmouth en 1956, il préféra *intelligence artificielle* à *cybernétique*, en partie pour distancier ces travaux de la tradition du retour analogique de Wiener. Cette décision unique a cadré les machines en comparaison directe avec la cognition humaine, et le cadrage anthropomorphique qu'elle a installé façonne encore les priorités de recherche, le langage des produits et les questions éthiques que pose le public.
-
 ## Mettre en pratique
 
 **Pour les enseignants et les concepteurs pédagogiques**
@@ -103,3 +97,13 @@ L'arrivée de l'[[generative-ai|IA générative]] — une large famille qui incl
 
 - Utilisez les actes historiques comme référence plutôt que de traiter le présent comme la seule comparaison disponible. Les actes d'AIED pour 1985, 1993, 2021 et 2024 et ceux d'IJAIED pour 2004, 2014 et 2021 constituent un échantillon longitudinal tout prêt des propres affirmations du champ.
 - Citez la lignée lorsque vous revendiquez une nouveauté. Une affirmation selon laquelle un système « personnalise l'apprentissage » ou « modélise l'apprenant » n'est nouvelle que par rapport à une tradition antérieure précise, et cette tradition est documentée.
+
+## Idées fausses courantes
+
+**« L'IA en éducation a commencé avec ChatGPT. »** Non, et cette croyance coûte cher parce qu'elle rend invisible tout ce que les périodes antérieures ont appris. Les [[intelligent-tutoring|tuteurs intelligents]] descendent des travaux de recherche heuristique et de systèmes experts des années 1960 et 1970, et la communauté AIED s'est constituée autour d'eux des décennies avant les [[llm|grands modèles de langage]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] montrent que les débats actuels reproduisent une division déjà explicite chez les tuteurs cognitifs d'Anderson et le constructionnisme de Papert : un lecteur qui date le champ de 2022 redécouvrira des arguments que le champ avait tranchés, abandonnés ou perdus une première fois.
+
+**« Le champ a progressivement abandonné l'IA-comme-analogie au profit d'outils appliqués, et l'IA générative prolonge cette tendance. »** La trajectoire est réelle mais non monotone, ce qui en fait la correction la plus instructive. L'analyse positionnelle de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian et Doroudi]] portant sur AIED 1985, 1993, 2021 et 2024 et sur IJAIED 2004, 2014 et 2021 montre bien une dérive d'un champ mixte vers une instrumentalité appliquée quasi exclusive dans les années 2000. Mais à AIED 2024, trois des quatre communications du quadrant IA-comme-analogie reposaient sur les LLM, dont un travail primé sur des agents enseignables fondés sur les LLM. L'IA générative **inverse** en partie la tendance plutôt qu'elle ne la prolonge, ce qui explique pourquoi la traiter comme « le prochain tuteur intelligent » se trompe sur l'endroit où la frontière de la recherche s'est réellement déplacée.
+
+**« La personnalisation signifie adapter la difficulté à chaque apprenant. »** Ce n'est que l'un de deux sens incompatibles, et les confondre masque un choix politique. Dans le premier sens, le résultat est tenu fixe et seul le chemin varie, lignée qui va des machines à enseigner de Skinner aux tuteurs fondés sur la maîtrise. Dans le second, les résultats eux-mêmes se diversifient, les apprenants poursuivant des intérêts individuels sans être contraints par un programme standard (Zhao, 2024). Un [[intelligent-tutoring|STI]] met en œuvre le premier ; le [[constructivist|constructionnisme]] le second. Un outil décrit comme « personnalisé » ne vous a rien dit tant que vous ignorez lequel des deux il désigne.
+
+**« Le terme "intelligence artificielle" était simplement le nom évident du champ. »** Ce fut un choix délibéré. Lorsque McCarthy prépara le projet de Dartmouth en 1956, il préféra *intelligence artificielle* à *cybernétique*, en partie pour distancier ces travaux de la tradition du retour analogique de Wiener. Cette décision unique a cadré les machines en comparaison directe avec la cognition humaine, et le cadrage anthropomorphique qu'elle a installé façonne encore les priorités de recherche, le langage des produits et les questions éthiques que pose le public.

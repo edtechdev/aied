@@ -1,7 +1,7 @@
 ---
 title: Bienestar
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,10 +11,14 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-17T11:40:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -64,6 +68,8 @@ El bienestar en la educación es multifacético: incluye el bienestar emocional 
 - **Bienestar y rol del profesorado:** el impacto de la IA en el [[teacher-role|profesorado]] —incluidas la carga de trabajo, la ansiedad por enseñar con tecnología disruptiva y la capacidad de ofrecer apoyo emocional— es una preocupación recurrente, que conecta con la [[teacher-ai-competency|competencia del profesorado en IA]] y el [[educational-development|desarrollo profesional]].
 
 Un modelo de ecuaciones estructurales con 502 docentes universitarios encontró que la alfabetización en IA predecía el bienestar con la IA mucho más fuertemente (β = 0,713) que la [[self-efficacy|autoeficacia]] tecnológica (β = 0,082), y que el apoyo social y organizativo solo llegaba al bienestar de forma indirecta: la competencia, y no el ánimo, cargaba con el efecto ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
+
+**Bienestar ocupacional del personal administrativo.** [[zeng-ai-adoption-wellbeing-higher-ed-management-2026|Zeng y Kasim (2026)]] encuestaron a 320 miembros del personal de gestión de universidades de Guangzhou y modelizaron la adopción de la IA mediante la lente de demandas y recursos del puesto: la adopción no mostró asociación directa con el bienestar ocupacional, pero elevó el tecnoestrés, que redujo el bienestar, mientras que el apoyo organizativo percibido amortiguó esa vía de estrés. La intensidad de la adopción no puede sustituir a unos mejores resultados ocupacionales, así que las universidades deberían seguir el tecnoestrés y el apoyo junto con el despliegue.
 
 - **La densificación relacional como criterio evaluativo del desarrollo docente apoyado por IA:** [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] sostienen que la IA apoya el desarrollo socioemocional del profesorado solo cuando funciona como infraestructura relacional y no como sustituto simbólico del acompañamiento humano. Proponen la **densificación relacional** como criterio para juzgar las iniciativas de desarrollo profesional apoyadas por IA —si fortalecen la confianza, la mentoría, el apoyo entre pares, la colaboración, la seguridad psicológica y la reducción del aislamiento— y señalan que estas relaciones tienen efectos posteriores en el estudiantado a través del clima de aula, la capacidad de respuesta [[pedagogy|pedagógica]] y el apoyo socioemocional. La síntesis también advierte que la [[governance|gobernanza]] de los datos afectivos y la economía política de la IA educativa conllevan riesgos éticos distintos, y enmarca la [[ai-literacy|alfabetización crítica en IA]] como una competencia socioemocional.
 

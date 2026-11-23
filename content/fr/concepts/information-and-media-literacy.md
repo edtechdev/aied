@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -87,6 +91,8 @@ Les enseignants peuvent appliquer une procédure à deux objets. Remonter l'affi
 Les enseignants peuvent traiter la sortie d'un détecteur comme une preuve plutôt qu'un verdict. C'est une probabilité, si bien que les étudiants devraient la corroborer par une seconde méthode et énoncer ce qui changerait leur avis.
 
 Les concepteurs de programmes peuvent garder la production dans le cours. Faire des médias est ce qui rendait la critique concrète dans les études examinées ici, et générer avec l'IA ne la soutient que lorsque les étudiants examinent les choix que l'outil a faits pour eux.
+
+Noter le construit comme une performance plutôt qu'une attitude déplace le point faible dans la lumière. Dans un essai Code Craft de huit semaines mené auprès de 28 étudiants thaïlandais de premier cycle, la littératie numérique est passée de 1,51 à 2,82 sur une [[rubrics|grille d'évaluation]] à trois points, mais la gestion de l'information s'établissait en moyenne à 1,92 et la création d'information à 2,05, contre 2,36 pour la communication et le travail avec autrui ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij et Khlaisang, 2026]]). Les scores les plus faibles siégeaient du côté de la production du construit, là où un cours qui s'arrête à la recherche et à l'évaluation n'arrive jamais.
 
 Les responsables de programme peuvent placer un bibliothécaire ou un spécialiste des médias dans le flux de travail. Le résultat d'enseignement le plus fort de cette littérature vient d'une conception où la consultation humaine était intégrée plutôt que proposée après coup.
 

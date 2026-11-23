@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: "L'enseignement de l'informatique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,10 +11,14 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -150,7 +154,7 @@ L'enseignement de l'informatique se relie à la [[computational-thinking|pensée
 
 - **« Un accord sur le code signifie que le correcteur lit le code. »** Les deux évaluateurs enseignants du banc d'essai s'accordaient à **0.815** sur des réponses en C++ : **quatre** modèles les dépassaient avec un intervalle entièrement au-dessus de ce plafond et **quatorze** tombaient en dessous, jusqu'à **33%**. Sur la même tâche de code, une note demandant la totalité des points a relevé la note de Qwen3 235B de **83.2% de l'échelle**, et sept modèles de la batterie ont crédité des réponses vides, de sorte que [[porcaro-ai-grading-benchmark-2026|une passe de notation sur le code des étudiants exige des tests d'échec à côté du chiffre d'accord]].
 
-- **« L'effet est le même à chaque étape d'un cours. »** Il croissait avec le travail : sur **60 programmes Java complets** notés selon une grille à **14 niveaux**, l'effet de l'étiquette valait **2.8 fois** sa taille sur réponses courtes chez GPT-4.1-mini et **2.4 fois** chez Qwen, mais seulement **0.4 fois** chez Gemini. [[porcaro-ai-grader-reliability-2026|La tâche et la grille font partie de ce que l'effet mesure]], si bien qu'une ampleur validée sur des réponses courtes ne se transfère pas aux programmes.
+- **« L'effet est le même à chaque étape d'un cours. »** Il croissait avec le travail : sur **60 programmes Java complets** notés selon une [[rubrics|grille d'évaluation]] à **14 niveaux**, l'effet de l'étiquette valait **2.8 fois** sa taille sur réponses courtes chez GPT-4.1-mini et **2.4 fois** chez Qwen, mais seulement **0.4 fois** chez Gemini. [[porcaro-ai-grader-reliability-2026|La tâche et la grille font partie de ce que l'effet mesure]], si bien qu'une ampleur validée sur des réponses courtes ne se transfère pas aux programmes.
 
 ## Idées fausses courantes
 

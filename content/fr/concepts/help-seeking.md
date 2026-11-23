@@ -1,7 +1,7 @@
 ---
 title: "Recherche d'aide"
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-15T15:48:57-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-15T15:46:26-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
 connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
@@ -109,6 +114,8 @@ La recherche d'aide fait partie intégrante de l'[[self-regulated-learning|appre
 
 Les données à l'échelle de la population compliquent le récit de la substitution : parmi 12,191 étudiants PISA 2025 de quatre régions chinoises, un usage plus fréquent de GenAI pour les travaux scolaires allait de pair avec une recherche d'aide académique plus importante (β = 0.169), et non moindre ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
 
+Les journaux mettent la demande sur une horloge et sur l'item. Dans un cours de statique de 215 étudiants, les invites adressées à l'assistant adossé au manuel ChatGPT culminaient le dimanche et le lundi, puis entre 1 h et 3 h du matin, aux heures où les permanences étaient fermées ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry et Dosse, 2026]]). Ce que les étudiants demandent suit la difficulté : dans un cours d'assembleur de troisième cycle, les tentatives avec invite étaient moins susceptibles d'être correctes (OR = 0,35), et les invites métacognitives se concentraient sur les items moyens, où les tentatives avec invite comportaient 3,79 fois plus de chances de succès ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]]). La difficulté de l'item, plus que la conception des indices, décide si l'aide devient réflexive.
+
 ### La recherche d'aide médiée par les grands modèles de langue comme processus en quatre étapes
 
 [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et coll. (2026)]] montrent que, dans l'étude quotidienne des STIM, la recherche d'aide par grands modèles de langue n'est pas un acte unique, mais un processus stratifié et dépendant du contexte en quatre étapes : (1) *décider si une aide est nécessaire* — les étudiants tentent d'abord les tâches de manière indépendante pour préserver la valeur d'apprentissage ; (2) *choisir à qui demander* — ChatGPT comme premier pas à faible barrière, puis les pairs pour la négociation conceptuelle, puis les enseignants pour les questions complexes ou à fort enjeu ; (3) *déterminer le type d'aide* — des indices et des explications à l'[[problem-solving|résolution de problèmes]] étayée, en passant par la rationalisation du travail routinier et l'extension de l'apprentissage ; et (4) *juger l'aide reçue* — exercer une confiance sélective et vérifier les productions de l'IA par rapport aux travaux de cours ou avec des humains. De manière cruciale, les étudiants ont privilégié la **recherche d'aide instrumentale** (améliorer la compréhension) à la **recherche d'aide exécutive** (obtenir des solutions), une distinction que les auteurs proposent d'adapter en de nouveaux items de mesure de l'autorégulation pour les grands modèles de langue.
@@ -139,3 +146,9 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 - **« Les étudiants qui ont besoin d'aide ne la demandent pas. »** Une **expérience préenregistrée** dans des cours de premier cycle à fort effectif a adressé des messages aux étudiants via un agent conversationnel académique et a constaté **un recours plus élevé au tutorat et aux dispositifs de soutien complémentaire**. L'incitation a déplacé le comportement, si bien que l'obstacle était la [[prompt-engineering|sollicitation]] plutôt que la volonté.
 - **« Les demandes d'aide portent sur l'apprentissage. »** **La demande de soutien opérationnel** complique cette hypothèse : sur **4 093 requêtes**, au moins **20,4 % portaient sur le statut d'une remise en attente plutôt que sur un savoir**. Un cinquième de la demande d'aide était administratif.
 - **« Utiliser un tuteur d'IA signifie surveiller son propre apprentissage. »** Dans une étude portant sur **98 élèves de 9e année** utilisant un tuteur GenAI, les interactions étaient **dominées par des demandes instrumentales avec presque aucune surveillance ni évaluation de leur propre apprentissage**. Demander des réponses n'est pas de la recherche d'aide au sens où ce construit l'entend.
+
+## Quand l'habitude remplace la demande
+
+La recherche d'aide est généralement étudiée comme une décision — un jugement sur le point de savoir si demander vaut le coût. Une étude PLS-SEM de 2026 portant sur 392 étudiants et éducateurs en ingénierie aux Philippines suggère que, une fois l'[[generative-ai|IA générative]] intégrée, la décision est déjà largement prise : **l'habitude prédisait le déplacement de la recherche d'aide humaine à β = 0,711**, tandis que l'[[technology-acceptance-model|intention comportementale]] la prédisait à β = 0,039, une voie statistiquement indiscernable de zéro. La moitié des utilisateurs de GenAI de cet échantillon (49,6 %) ont déclaré demander moins souvent de l'aide à une personne, et seulement 15,8 % nommaient un humain comme première ressource lorsqu'ils étaient bloqués, contre 30,4 % qui nommaient un outil.
+
+Deux implications en découlent pour la manière dont la recherche d'aide est étayée. Premièrement, les interventions visant les attitudes ou le fait de rendre la demande plus attrayante rivalisent avec une routine déjà automatique — elles doivent viser la routine, non la croyance. Deuxièmement, le seul construit qui *réduisait* le déplacement était la préoccupation d'[[academic-integrity|intégrité académique]] (β = −0,329), ce qui suggère que préserver la consultation humaine passe plus plausiblement par des points de contrôle interpersonnels requis — évaluation par les pairs, soutenance orale, aide supervisée en laboratoire — que par la communication ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]]).

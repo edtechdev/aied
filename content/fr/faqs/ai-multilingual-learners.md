@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle soutenir les apprenants multilingues sans mal juger leurs connaissances ni effacer leur voix ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -116,7 +120,7 @@ Offrez des alternatives praticables. Les étudiants ont besoin d'un chemin clair
 
 **4.** Ajoutez une vérification qui consigne le sens ou la décision propre à l'étudiant, par exemple une note de deux phrases sur un changement qu'il a accepté ou refusé.
 
-**5.** Si votre grille note la [[writing-education|qualité de l'écriture]], séparez ce critère du critère conceptuel et relisez deux copies de chaque avec cette séparation en tête.
+**5.** Si votre [[rubrics|grille]] note la [[writing-education|qualité de l'écriture]], séparez ce critère du critère conceptuel et relisez deux copies de chaque avec cette séparation en tête.
 
 ## Où aller ensuite
 

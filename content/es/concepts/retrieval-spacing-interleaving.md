@@ -1,7 +1,7 @@
 ---
 title: "Recuperación, espaciado e intercalado"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-15T10:17:24-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,10 +12,14 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -89,7 +93,7 @@ La inclusión del intercalado aquí se apoya, por tanto, en la misma familia te�
 
 - **Muestras pequeñas y contextos únicos.** La muestra analítica del estudio de pretest son 89 estudiantes de grado de un único curso de estadística aplicada, con 27–34 estudiantes por brazo; el estudio de interacción con LLM tiene n = 22 con un diseño de un solo grupo que no permite ninguna afirmación causal; el estudio de teach-back tiene 22 participantes. Los autores del estudio de pretest afirman que hace falta replicación en distintos ámbitos y tipos de tarea para la generalización.
 - **Intervalos de retención cortos o ausentes.** El estudio de profundidad de interacción solo midió el recuerdo inmediato, sin medida diferida, así que su resultado nulo es un nulo para la retención a corto plazo en concreto. Tanto la ventaja de retención de Memdora como la [[llm-interaction-depth-task-quality-recall-2026|disociación de profundidad del LLM]] no se siguen durante las semanas que exigiría la literatura sobre el espaciado; la ventana de siete semanas del estudio de pretest es la más larga disponible.
-- **Medidas de [[self-report-measures|autoinforme]] y medidas indirectas.** El esfuerzo de práctica del estudio de pretest es un indicador conductual puntuado por dos evaluadores con una rúbrica a partir de los registros de conversación, que los autores señalan explícitamente que no es una medida del estado [[motivation|motivacional]] interno; la medida de profundidad del LLM es un indicador indirecto basado en palabras clave que capta la forma superficial de la búsqueda de explicación y no su calidad.
+- **Medidas de [[self-report-measures|autoinforme]] y medidas indirectas.** El esfuerzo de práctica del estudio de pretest es un indicador conductual puntuado por dos evaluadores con una [[rubrics|rúbrica]] a partir de los registros de conversación, que los autores señalan explícitamente que no es una medida del estado [[motivation|motivacional]] interno; la medida de profundidad del LLM es un indicador indirecto basado en palabras clave que capta la forma superficial de la búsqueda de explicación y no su calidad.
 - **Límites de instrumentación y modelado.** Los modelos de [[knowledge-tracing|seguimiento del conocimiento]] fallan justo donde las decisiones de espaciado los necesitan, y los autores atribuyen los éxitos anteriores a un ajuste retrospectivo con el conjunto de datos completo y no a una validación realista de despliegue. La calidad de las tarjetas del compañero bilingüe no está verificada contra una referencia, no tiene capa automática de verificación de hechos y no ha ejecutado ningún estudio de resultados.
 - **El intercalado no tiene prácticamente evidencia directa aquí.** Como se ha dicho, no existe ninguna comparación entre bloques e intercalado, solo una simulación en la que el intercalado es una estrategia seleccionable entre varias.
 - **Poblaciones y contenido.** La base de evidencia se concentra en la [[higher-ed|educación superior]], en materiales de STEM y estadística, y en distinciones entre hechos y habilidades procedentes de contenidos de geometría y de regresión múltiple; la generalización a contextos de [[k-12|K-12]], a las [[humanities-education|humanidades]] y la escritura y a aulas no occidentales no queda establecida por estos estudios.

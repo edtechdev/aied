@@ -1,7 +1,7 @@
 ---
 title: "idstack"
 created: "2026-09-27T03:11:55-04:00"
-updated: "2026-09-27T03:11:55-04:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: resource
 summary: "Un conjunto de código abierto de once habilidades para Claude Code que auditan un curso contra la base de evidencias del diseño instruccional y etiquetan cada recomendación con su nivel de evidencia."
 url: https://idstack.org/
@@ -29,12 +29,16 @@ ai_assist:
     role: translation
     date: "2026-09-27"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [learning-design, design-thinking, online-teaching-and-learning, accessibility, universal-design-for-learning, assessment, generative-ai, open-source]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**idstack** es una colección de código abierto de once habilidades para el [[learning-design|diseño instruccional]] basado en la evidencia, distribuida como un complemento de Claude Code con una extensión complementaria de panel lateral para Chrome. En lugar de redactar un curso, las habilidades auditan uno: clasifican los objetivos según la taxonomía de Bloom revisada, comprueban la alineación constructiva entre objetivos, actividades y evaluaciones, señalan problemas de carga cognitiva y revisan la accesibilidad según WCAG 2.1 AA y el Diseño Universal para el Aprendizaje. Cada recomendación incluye un nivel de evidencia, desde T1 para metaanálisis y ensayos aleatorizados hasta T5 para la opinión de personas expertas. El proyecto afirma que sus citas se basan en 108 estudios revisados por pares de once ámbitos de investigación; ese recuento es una afirmación del propio proyecto, y su bibliografía se publica en Markdown para que quien revise pueda comprobarla.
+**idstack** es una colección de código abierto de once habilidades para el [[learning-design|diseño instruccional]] basado en la evidencia, distribuida como un complemento de Claude Code con una extensión complementaria de panel lateral para Chrome. En lugar de redactar un curso, las habilidades auditan uno: clasifican los objetivos según la [[bloom-taxonomy|taxonomía de Bloom revisada]], comprueban la alineación constructiva entre objetivos, actividades y evaluaciones, señalan problemas de carga cognitiva y revisan la accesibilidad según WCAG 2.1 AA y el Diseño Universal para el Aprendizaje. Cada recomendación incluye un nivel de evidencia, desde T1 para metaanálisis y ensayos aleatorizados hasta T5 para la opinión de personas expertas. El proyecto afirma que sus citas se basan en 108 estudios revisados por pares de once ámbitos de investigación; ese recuento es una afirmación del propio proyecto, y su bibliografía se publica en Markdown para que quien revise pueda comprobarla.
 
 Los cursos entran a través de una conexión con la API de Canvas, un archivo IMS Common Cartridge, un paquete SCORM, una exportación a PDF desde una herramienta de autoría o documentos pegados. Un manifiesto de proyecto compartido recuerda el curso entre sesiones, y una habilidad de canalización encadena las etapas de diseño mientras omite el trabajo ya completado. Las revisiones se presentan según los ocho estándares de Quality Matters y el marco de la Comunidad de Indagación, que separa la presencia docente, social y cognitiva, y después clasifican las recomendaciones por gravedad.
 

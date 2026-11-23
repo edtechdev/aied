@@ -1,16 +1,20 @@
 ---
 title: "Educación de posgrado"
 created: "2026-11-15T10:10:19-05:00"
-updated: "2026-11-15T10:10:19-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [professional-training, self-regulated-learning, scaffolding, metacognition, collaborative-learning]
 technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-analytics]
 level: [graduate, higher ed]
 confidence: medium
 translation_of: concepts/graduate-education
-source_updated: "2026-11-15T06:45:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-15"
@@ -72,7 +76,7 @@ Los títulos profesionales concentran la mayor parte de la evidencia de nivel de
 
 - **Los pacientes simulados escalan el acceso, no una habilidad demostrada.** SOPHIE 2.0 ofrece 24 escenarios clínicos mediante un avatar de navegador con un juez LLM. El juez alcanzó Pearson 0.759 e ICC 0.746 frente al consenso humano, y el 92 % de 59 participantes lo encontró atractivo; sin condición de control, el aumento de las puntuaciones no puede atribuirse a la formación ([[sophie-clinical-communication-ai-assessment-2026]]).
 
-- **Sustituir a un facilitador conserva las puntuaciones y cuesta proceso.** En un curso de farmacología de cuatro semanas, 136 estudiantes de segundo año de medicina en [[problem-based-learning|aprendizaje basado en problemas]] dirigido por un facilitador y dirigido por IA mejoraron por igual en las pruebas de opción múltiple (p = 0.474). Los grupos con facilitador puntuaron más alto en pensamiento crítico, 14.75 frente a 13.09 (p < 0.001), y en la rúbrica de grupo, 26.51 frente a 24.74 (p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
+- **Sustituir a un facilitador conserva las puntuaciones y cuesta proceso.** En un curso de farmacología de cuatro semanas, 136 estudiantes de segundo año de medicina en [[problem-based-learning|aprendizaje basado en problemas]] dirigido por un facilitador y dirigido por IA mejoraron por igual en las pruebas de opción múltiple (p = 0.474). Los grupos con facilitador puntuaron más alto en pensamiento crítico, 14.75 frente a 13.09 (p < 0.001), y en la [[rubrics|rúbrica]] de grupo, 26.51 frente a 24.74 (p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
 
 - **La investigación en formación clínica no ha llegado a la competencia.** Una [[meta-analysis-systematic-review|revisión de alcance]] de la formación de consejeros encontró 14 fuentes, todas posteriores a 2023 y dominadas por clientes simulados. Ninguna midió la competencia, ninguna probó un escenario de crisis, y la persona por defecto era culturalmente neutra a menos que el prompt especificara cultura ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026]]).
 
@@ -128,3 +132,9 @@ La educación de posgrado hereda los problemas sectoriales de integridad, [[asse
 - **«La IA puede sustituir al facilitador sin costo».** Las ganancias en opción múltiple fueron equivalentes en el aprendizaje basado en problemas dirigido por IA, pero el pensamiento crítico y el proceso grupal no, y solo el 15.8 % del profesorado encuestado había escrito alguna política de uso de IA.
 
 - **«La [[ai-literacy|alfabetización en IA]] de posgrado significa dominio de la herramienta».** El marco de posgrado separa la base cognitiva, las habilidades operativas, el pensamiento de orden superior, la reflexión metacognitiva y la responsabilidad ética.
+
+## La IA generativa en el desarrollo doctoral
+
+Los programas de doctorado adoptan la IAG en dos direcciones a la vez —como instrumento de investigación y como algo que los candidatos deben aprender a enseñar—, y un estudio de investigación-acción participativa de 2026 en Cuba comprobó si una sola secuencia podía servir a ambas. Treinta y cuatro candidatos doctorales que además enseñan trabajaron con un único modelo integrado (el modelo Dr. I.D.E.A.) en el que la investigación y las competencias digitales y pedagógico-creativas apoyadas por IA se ejercitaban sobre la misma tarea auténtica. Los 34 integraron la IAG en un curso, 26 sostuvieron un rediseño documentado durante al menos tres semanas y 25 seguían usando prácticas apoyadas por IA en el seguimiento.([[idea-model-doctoral-education-genai-2026|Padrón Alvarez y Estrada Molina, 2026]])
+
+Las ganancias de competencia autoinformadas (d = 1,69 a 2,10) deben leerse como cambio percibido sin grupo de comparación; la contribución duradera es la capa de operación: categorías de uso co-construidas, bitácoras individuales de uso de IA y verificación obligatoria en bases de datos indexadas.

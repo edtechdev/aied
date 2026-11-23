@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo evito que el estudiantado dependa en exceso de la IA?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -12,7 +12,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -173,7 +177,7 @@ Eso le deja una apuesta razonable, hecha a bajo costo. Cambie una tarea, conserv
 
 **"¿No van a suspender los estudiantes más débiles la comprobación sin ayuda?"** A veces sí, y ese resultado es información y no un veredicto. Una comprobación sin herramienta que suspende buena parte de una clase dice que la práctica estaba sosteniendo el rendimiento, que es lo que usted necesitaba saber. Péselo como evidencia, vuelva a enseñar lo que expone y ofrezca un segundo intento en una tarea paralela. Ningún estudio de aquí prueba si volver a enseñar tras una comprobación sin ayuda fallida recupera el aprendizaje, así que esa parte es su juicio profesional.
 
-**"Algunos de mis estudiantes usan la IA como andamiaje honesto. ¿Se supone que debo impedirlo?"** No. Un estudiante que lee una pista, intenta el paso y comprueba el resultado está haciendo la delegación duplicativa que sobrevive a la retirada de la herramienta. Lo que usted quiere es una tarea que mantenga disponible ese uso y haga menos gratificante la versión ejecutiva, y eso depende de lo que la tarea recoge y de lo que la rúbrica paga.
+**"Algunos de mis estudiantes usan la IA como andamiaje honesto. ¿Se supone que debo impedirlo?"** No. Un estudiante que lee una pista, intenta el paso y comprueba el resultado está haciendo la delegación duplicativa que sobrevive a la retirada de la herramienta. Lo que usted quiere es una tarea que mantenga disponible ese uso y haga menos gratificante la versión ejecutiva, y eso depende de lo que la tarea recoge y de lo que la [[rubrics|rúbrica]] paga.
 
 **"La evidencia es escasa, así que ¿por qué cambiar nada?"** Es escasa en lugares concretos, que los límites anteriores nombran. Lo que es consistente entre los estudios es la dirección: ubicación, comprobación visible y una medida sin ayuda. Una tarea cambiada, conservando el resultado sin asistencia, es una apuesta lo bastante pequeña como para correrla sobre esa base.
 

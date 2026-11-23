@@ -1,7 +1,7 @@
 ---
 title: Críticas a la IA en la educación
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Un segundo grupo ataca el vocabulario antes que la maquinaria. Wang y Jin leen d
 
 ## Infraestructura, transducción y reconocimiento erróneo
 
-Un tercer grupo desplaza la atención de la herramienta a la infraestructura que la rodea. Watson, Morgner y Brezovec tratan la IA generativa como una infraestructura mediadora del significado y denominan a su mecanismo *transducción semántica*: la reformulación de una demanda educativa —una indicación, un encargo, una rúbrica, una pregunta de examen, un género o una política— en una forma comunicativamente plausible ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner y Brezovec (2026)]]). Como la transducción es selectiva, puede incluir o excluir. Tres lugares se repiten: las brechas de acceso y de capacidad, el reconocimiento erróneo a través de plantillas sobre cómo suena una buena respuesta o una buena persona estudiante, y la deriva normativa en lo que se entiende por pedagogía. La exclusión suele ser una tenaza y no una prohibición: las instituciones elevan las expectativas sobre el ritmo, el pulido y la fluidez idiomática mientras endurecen al mismo tiempo los regímenes de autenticidad.
+Un tercer grupo desplaza la atención de la herramienta a la infraestructura que la rodea. Watson, Morgner y Brezovec tratan la IA generativa como una infraestructura mediadora del significado y denominan a su mecanismo *transducción semántica*: la reformulación de una demanda educativa —una indicación, un encargo, una [[rubrics|rúbrica]], una pregunta de examen, un género o una política— en una forma comunicativamente plausible ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner y Brezovec (2026)]]). Como la transducción es selectiva, puede incluir o excluir. Tres lugares se repiten: las brechas de acceso y de capacidad, el reconocimiento erróneo a través de plantillas sobre cómo suena una buena respuesta o una buena persona estudiante, y la deriva normativa en lo que se entiende por pedagogía. La exclusión suele ser una tenaza y no una prohibición: las instituciones elevan las expectativas sobre el ritmo, el pulido y la fluidez idiomática mientras endurecen al mismo tiempo los regímenes de autenticidad.
 
 ## El establecimiento de la agenda, la innovación simulada y la prospectiva experimental
 

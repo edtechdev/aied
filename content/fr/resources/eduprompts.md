@@ -1,7 +1,7 @@
 ---
 title: "EduPrompts"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-11-11T00:15:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "La bibliothèque gratuite et croissante d'Eric Curts : plus de 160 invites d'IA prêtes à l'emploi pour les écoles, classées par tâche pédagogique et en transition des Gemini Gems vers les Gemini Skills."
 url: https://www.eduprompts.ai/
@@ -22,6 +22,10 @@ translation_note: "Traduction automatique de la page anglaise, non encore relue 
 source_updated: "2026-11-11T00:15:00-05:00"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-11"
@@ -37,7 +41,7 @@ connected_concepts: [prompt-engineering, generative-ai, ai-literacy, learning-de
 
 La bibliothèque est organisée par tâche, non par modèle. **Planification de cours et conception curriculaire** couvre les plans de leçon 5E, plans d'unité, décodage des standards, générateurs PBL, routines de pensée, tableaux de choix, rotations d'ateliers et remixage de leçons UDL. **Matériel pédagogique et contenus** couvre fiches d'exercices, notes guidées, textes déchiffrables et informatifs, listes de vocabulaire, diaporamas, romans graphiques, paroles de chansons et cartes éducatives. **Engagement et jeux** regroupe les formats Jeopardy, 20 Questions, Would You Rather, l'intrus et deux vérités et un mensonge, ainsi que des invites de discussion et des simulations.
 
-Cinq catégories s'adressent à des apprenants et à des travaux précis. **Soutien aux élèves et différenciation** comprend stratégies de différenciation, étayage et tâches à faible barrière et haut plafond. **Évaluation, données et notation** regroupe générateurs de grilles, évaluation alternative, un analyseur de données d'évaluation et des générateurs de questions pour les niveaux DOK. **Littératie, lecture, écriture et langues** couvre la compréhension de lecture, l'accompagnement de thèse et d'écriture, les amorces de phrases, la réécriture et le dialogue linguistique. **Mathématiques, sciences et STIM** contient des générateurs par matière. **Tâches professionnelles et administration** couvre les courriels aux parents, lettres de recommandation, plans de développement professionnel, un coach d'apprentissage professionnel et les cercles de justice réparatrice. Un rayon **Usage et intégration de l'IA** rassemble les méta-outils : déclarations d'attentes, un coach d'intégration, un architecte et un médecin des invites, une réflexion sur l'usage de l'IA, une activité [[samr-model|SAMR]] et l'EduPrompt Generator, qui construit de nouvelles invites. Les **outils destinés aux élèves** forment une catégorie à part, ce qui compte pour qui décide ce qu'il remet à une classe.
+Cinq catégories s'adressent à des apprenants et à des travaux précis. **Soutien aux élèves et différenciation** comprend stratégies de différenciation, étayage et tâches à faible barrière et haut plafond. **Évaluation, données et notation** regroupe générateurs de [[rubrics|grilles d'évaluation]], évaluation alternative, un analyseur de données d'évaluation et des générateurs de questions pour les niveaux DOK. **Littératie, lecture, écriture et langues** couvre la compréhension de lecture, l'accompagnement de thèse et d'écriture, les amorces de phrases, la réécriture et le dialogue linguistique. **Mathématiques, sciences et STIM** contient des générateurs par matière. **Tâches professionnelles et administration** couvre les courriels aux parents, lettres de recommandation, plans de développement professionnel, un coach d'apprentissage professionnel et les cercles de justice réparatrice. Un rayon **Usage et intégration de l'IA** rassemble les méta-outils : déclarations d'attentes, un coach d'intégration, un architecte et un médecin des invites, une réflexion sur l'usage de l'IA, une activité [[samr-model|SAMR]] et l'EduPrompt Generator, qui construit de nouvelles invites. Les **outils destinés aux élèves** forment une catégorie à part, ce qui compte pour qui décide ce qu'il remet à une classe.
 
 Les invites les plus récentes figurent sur la page d'accueil, et les enseignants peuvent soumettre les leurs via le formulaire Google lié pour examen. Le site propose aussi une inscription à une lettre d'information, un personnalisateur pour adapter une invite existante et une adresse de contact directe pour le curateur.
 

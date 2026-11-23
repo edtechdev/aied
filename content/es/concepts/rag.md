@@ -1,7 +1,7 @@
 ---
 title: RAG (Generación Aumentada por Recuperación)
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-11-16T09:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
@@ -43,14 +47,16 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedb
 
 ## Introducción
 
+Una variante local del patrón está documentada para la enseñanza de la física. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] ejecutan un modelo con Ollama en la propia máquina del docente, recuperan de apuntes de clase, libros de texto y conjuntos de problemas, y generan cuestionarios, resúmenes y guías de estudio a partir de ese contexto. El argumento es la privacidad ante todo —nada sale del dispositivo— y la adecuación disciplinar en segundo lugar, ya que el corpus de recuperación es el propio curso. El coste reconocido es el tamaño del modelo: lo que cabe en unos 8 GB de memoria de vídeo no es el modelo más capaz disponible.
+
 ## Cómo se usa RAG en educación
 
-- **Recuperación específica de dominio con conciencia de notación:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexa libros de texto, 847 diapositivas de clase, 312 problemas de práctica resueltos, 156 plantillas de demostración desarrolladas y 89 hojas de trabajo de complejidad para cursos teóricos de [[cs-education|ciencias de la computación]], añadiendo reconocimiento de entidades matemáticas y un reranking consciente de la notación; respondió las 179 preguntas de examen redactadas por el profesorado dentro de un tiempo límite de 240 segundos (media 38,0 segundos), pero produjo BLEU-4 = 0,0000 y una puntuación de rúbrica de 0,7620, lo que ilustra tanto el valor de la arquitectura como los límites de las métricas usadas para juzgarla.
+- **Recuperación específica de dominio con conciencia de notación:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexa libros de texto, 847 diapositivas de clase, 312 problemas de práctica resueltos, 156 plantillas de demostración desarrolladas y 89 hojas de trabajo de complejidad para cursos teóricos de [[cs-education|ciencias de la computación]], añadiendo reconocimiento de entidades matemáticas y un reranking consciente de la notación; respondió las 179 preguntas de examen redactadas por el profesorado dentro de un tiempo límite de 240 segundos (media 38,0 segundos), pero produjo BLEU-4 = 0,0000 y una puntuación de [[rubrics|rúbrica]] de 0,7620, lo que ilustra tanto el valor de la arquitectura como los límites de las métricas usadas para juzgarla.
 - **Reducción de alucinaciones:** [[eduguard-safe-rag-llm-tutor|EduGuard]] y [[eduzone-llm-safety-k12|EduZone]] usan RAG para mantener las respuestas del tutor de IA fundamentadas en contenido educativo verificado, reduciendo el [[hallucination-risk|riesgo de alucinación]].
 - **La orientación es un dial y la fundamentación no gana la preferencia.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] hicieron que nueve educadores y diseñadores clasificaran preguntas de matemáticas respondidas con RAG en tres niveles de orientación del prompt: las respuestas de baja orientación fueron preferidas en comparaciones por pares sobre las de alta orientación el 63,8% de las veces, aunque la alta orientación se percibió como la más fundamentada (media 0,90 en una escala de 0 a 2). La relevancia del documento recuperado se correlacionó con la fundamentación percibida (r = 0,56, p < 0,001), pero no mostró relación significativa con la preferencia: la fundamentación moldea lo que dice el tutor, no si el estudiantado lo prefiere.
 - **La fundamentación solo es tan buena como la inspección de la fuente:** solo 1 de 12 participantes advirtió una tarjeta de fuente deliberadamente mal emparejada, así que una etiqueta de procedencia puede actuar como un sello de autoridad en lugar de como una invitación a verificar el material recuperado ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **La fundamentación mejoró cómo se juzgó la retroalimentación, no lo que el estudiantado hizo con ella.** Añadir recuperación a una herramienta de revisión con IA elevó la calidad percibida (d = 0,45) y la utilidad percibida (d = 0,67) en dos cohortes de posgrado de escritura, mientras que la accionabilidad percibida no se movió (d = −0,06) ([[hughes-rag-ai-feedback-implementation-2026|Hughes et al. (2026)]]).
-- **Tutoría fundamentada en el currículo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera materiales curriculares relevantes para informar las respuestas de tutoría, asegurando la alineación con el contenido del curso.
+- **Tutoría fundamentada en el currículo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera materiales curriculares relevantes para informar las respuestas de tutoría, asegurando la alineación con el contenido del curso. La recuperación también puede ejecutarse sobre un grafo de conocimiento del curso y no sobre un índice de documentos: en un módulo de laboratorio de virología, el asistente respondió solo a partir de ese grafo, y la clase impartida con el asistente, la ruta adaptativa y la simulación superó a otra sin cambios ([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]).
 - **Indexación de libros de texto y materiales:** [[book-level-synthetic-textbook-organization|La organización sintética de libros de texto]] indexa contenido educativo para su recuperación. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extiende la recuperación a diagramas estructurados.
 - **Integración en el pipeline de entrenamiento:** [[llm-training-and-fine-tuning|El entrenamiento pedagógico de LLM]] usa RAG para fundamentar el entrenamiento de tutores en las mejores prácticas educativas.
 - **[[student-support-and-success|Apoyo académico]] específico de cada curso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera de los materiales didácticos aprobados de un único módulo de programación para atender a estudiantes que dudan en acudir a un docente, y el 89% de los 15 estudiantes evaluadores calificó sus respuestas como muy alineadas con los materiales del curso. El punto de diseño es que la fundamentación es una respuesta institucional al desajuste entre los [[llm|LLM]] de propósito general y las expectativas a nivel de módulo.

@@ -4,12 +4,16 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -47,7 +51,7 @@ L'apprentissage automatique est ce qui transforme les traces éducatives en inte
 
 Du côté du [[knowledge-tracing]], [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] montrent qu'un modèle récurrent peut être calé sur la structure propre d'un [[curriculum-design|programme]] : leur modèle OKT traite les acquis de cours de l'Outcome-Based-Education comme des concepts de connaissance, couple des correspondances d'affinité OBE validées par des experts (relations entre acquis de cours et acquis de programme) avec un Memory Augmented Neural Network pour l'impact entre acquis, et associe un backbone GRU à des plongements BERT adaptés au domaine — atteignant 89,81 % d'AUC et battant DKT, DKVMN, EKT et SimpleKT sur des données réelles de programme d'ingénierie.
 
-**Diagnostic à partir de réponses numériques tabulaires.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] montrent des arbres à gradient boosting résolvant le versant *diagnostic* du tutorat dans un domaine longtemps fermé à l'IA : pour les Engineering Economics Calculated Formula Questions, où les solutions manuscrites des élèves manquent de données numériques structurées, ils entraînent un backbone [[intelligent-tutoring|XGBoost]] multi-label dédié par question pour mapper les réponses numériques intermédiaires et finales soumises aux libellés d'erreur de la grille de l'enseignant (précision moyenne 0,81, rappel 0,79, exactitude 0,65). L'augmentation de données par masquage aléatoire — masquer des caractéristiques d'entrée à « NaN » avec des probabilités variables — préserve mieux que des méthodes d'interpolation comme SMOTE les dépendances logiques des solutions tabulaires et améliore significativement le diagnostic, et l'inclusion des réponses intermédiaires aide le plus. C'est la preuve que des modèles à base d'arbres augmentés par une augmentation sensible à la structure peuvent amorcer un retour de tutorat là où les méthodes génératives manquent de données d'entraînement.
+**Diagnostic à partir de réponses numériques tabulaires.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] montrent des arbres à gradient boosting résolvant le versant *diagnostic* du tutorat dans un domaine longtemps fermé à l'IA : pour les Engineering Economics Calculated Formula Questions, où les solutions manuscrites des élèves manquent de données numériques structurées, ils entraînent un backbone [[intelligent-tutoring|XGBoost]] multi-label dédié par question pour mapper les réponses numériques intermédiaires et finales soumises aux libellés d'erreur des [[rubrics|grilles de l'enseignant]] (précision moyenne 0,81, rappel 0,79, exactitude 0,65). L'augmentation de données par masquage aléatoire — masquer des caractéristiques d'entrée à « NaN » avec des probabilités variables — préserve mieux que des méthodes d'interpolation comme SMOTE les dépendances logiques des solutions tabulaires et améliore significativement le diagnostic, et l'inclusion des réponses intermédiaires aide le plus. C'est la preuve que des modèles à base d'arbres augmentés par une augmentation sensible à la structure peuvent amorcer un retour de tutorat là où les méthodes génératives manquent de données d'entraînement.
 
 Une vue au niveau du champ du sous-ensemble [[reinforcement-learning|RL]] est fournie par la [[riedmann-reinforcement-learning-education-review-2026|revue systématique de Riedmann, Schaper & Lugrin (2025)]] portant sur 89 études de RL en éducation : elle confirme que la RL est une lignée majeure de l'apprentissage automatique pour induire des politiques de tutorat et d'étayage adaptatifs, mais constate que les méthodes classiques (Q-learning) sont plus régulièrement efficaces que la Deep RL (61 % contre 36 % de supériorité significative) et signale que plus de la moitié des études ne conduisent aucun test statistique — une mise en garde [[research-methods-aied|méthodologique]] qui fait écho aux préoccupations de validation exposées plus bas.
 

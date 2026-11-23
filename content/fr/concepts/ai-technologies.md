@@ -1,13 +1,13 @@
 ---
 title: "Technologies de l'IA"
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-15T11:56:52-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
 connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
@@ -46,6 +50,8 @@ L'[[ai-education|IA en éducation]] fonctionne sur une pile technique spécifiqu
 - **L'IA générative.** La catégorie plus large de systèmes qui produisent du texte, du code, des images et d'autres contenus — l'[[generative-ai|IA générative]] (portée principalement par les LLM) est la technologie qui sous-tend la vague actuelle de recherche en [[ai-education|AIED]]. Voir aussi les [[multimodal|modèles multimodaux]] (texte, image, audio) et la [[simulation|simulation]].
 - **Les robots et les systèmes [[embodied-learning|incarnés]].** Les [[educational-robotics|robots en éducation]] ajoutent une présence incarnée et souvent [[community-of-inquiry|sociale]] — des kits programmables pour la [[computational-thinking|pensée informatique]] et des robots humanoïdes ou sociaux pour le tutorat, la [[storytelling-in-education|narration]] et le jeu de rôle. La robotique est un fil technique distinct qui recoupe l'[[agentic-ai|IA agentique]] et la conception [[human-in-the-loop-ai|avec intervention humaine]].
 - **Les systèmes fondés sur les connaissances.** Les [[knowledge-graph|graphes de connaissances]] et le [[educational-nlp|TAL éducatif]] représentent et traitent le savoir du domaine, de plus en plus combinés aux LLM pour un tutorat ancré et explicable.
+
+Une taxonomie fondée sur les fonctions voyage plus loin dans le développement professionnel des enseignants qu'une liste d'architectures de modèles. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf et Massey (2025)]] ont organisé un atelier d'une journée pour neuf enseignants du secondaire autour de six familles d'applications de l'IA — classification, reconnaissance, mémoire, prise de décision, optimisation et prédiction — chacune associée à une application que les enseignants utilisaient déjà, du filtrage des courriers indésirables à l'évaluation du crédit. Les enseignants arrivaient divisés sur la question de savoir si l'IA était une menace, 40 % répondant par l'affirmative et 40 % indécis, et chaque participant a déclaré avoir appris quelque chose de nouveau. L'unité d'organisation est ce que fait le système, ce qu'un enseignant peut reconnaître dans un outil de classe sans savoir comment il a été entraîné.
 
 ## Les techniques et les méthodes
 

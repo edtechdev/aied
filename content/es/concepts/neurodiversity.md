@@ -1,7 +1,7 @@
 ---
 title: Neurodiversidad
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,10 +9,14 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -84,6 +88,8 @@ El lado del riesgo tiene su propia literatura. [[seung-basham-cognitive-offloadi
 - **Las muestras son pequeñas.** Veinticuatro estudiantes y cuatro entrevistas en el estudio sobre informática; 17 y 10 en el estudio de vídeo sobre TDAH; 72 estudios en la revisión sobre dislexia con las líneas todavía sin acoplar.
 - **Los límites entre categorías difieren entre estudios,** por lo que la comparación entre estudios del «mismo» neurotipo es limitada, y las diferencias entre categorías del metaanálisis se informan como no significativas.
 - **Los propios revisores del campo lo describen como impulsado por la tecnología,** lo que significa que la evidencia sobre intervenciones es escasa justo donde la orientación de diseño es más sólida.
+
+- **Ya existe un estudio con comparador para el uso de IA generativa.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] encuestaron a 477 estudiantes universitarios y de posgrado japoneses con y sin trastornos del neurodesarrollo y no encontraron diferencias significativas entre los grupos en el uso semanal, las habilidades autovaloradas, los beneficios percibidos o las necesidades de apoyo. Solo las interacciones por voz e imagen se situaron ligeramente más altas en el grupo con trastorno del desarrollo, así que la brecha de un solo grupo descrita arriba ya cuenta con un comparador directo.
 
 ## Conexiones
 

@@ -12,12 +12,16 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-05"
@@ -47,7 +51,7 @@ Dos distinciones más organizan la literatura. La primera es la *profundidad*: l
 
 ## Cómo se relaciona la reflexión con la autoevaluación, la metacognición y los e-portafolios
 
-El trabajo de delimitación importa aquí más que en la mayoría de las páginas de conceptos, porque cuatro páginas adyacentes poseen cada una parte del territorio, y los profesionales suelen usar las palabras de forma intercambiable en las rúbricas.
+El trabajo de delimitación importa aquí más que en la mayoría de las páginas de conceptos, porque cuatro páginas adyacentes poseen cada una parte del territorio, y los profesionales suelen usar las palabras de forma intercambiable en las [[rubrics|rúbricas]].
 
 Lo que **comparten** es real. Todas vuelven la atención del estudiante hacia su propio trabajo, todas se asocian con la [[agency|agencia]] y la autoconciencia, todas pueden andamiarse y todas pueden ejecutarse para una calificación. Todas ellas están siendo reescritas además por la IA generativa en el mismo periodo, y por eso los mismos estudios reaparecen en estas páginas. La reflexión es la única del grupo cuyo producto es un *texto*, y ahí es donde el parecido de familia deja de ser útil.
 
@@ -115,6 +119,8 @@ Para el profesorado, el constructo funciona también como [[educational-developm
 [[teachers-reflective-regulators-cognition-offloading|Ho y Chen (2026)]] añaden la visión de proceso a partir de 18 docentes de China continental y Hong Kong, cuyos relatos se resuelven en reconocer la necesidad de usar IA generativa, redistribuir la cognición y reimplicarse reflexivamente después del uso. [[reflective-triangle-model-teacher-ai-2026|El Modelo del Triángulo Reflexivo (2026)]] conecta la autorreflexión, la reflexión colaborativa y la reflexión comunitaria en una comunidad de aprendizaje profesional, en un caso de cuatro semanas con seis docentes, con la IA como mediadora cognitiva y no como evaluadora.
 
 La preparación también importa con independencia de la herramienta. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] cruzaron el entrenamiento en estrategias metacognitivas con un módulo placebo y un LLM configurado como socio de reflexión [[socratic-method|socrático]] frente a herramientas digitales tradicionales, en un diseño 2 × 2 con 60 docentes en formación. Ambos efectos principales fueron significativos para la calidad de la reflexión escrita en el postest.
+
+La reflexión también puede desencadenarse por los propios límites de la herramienta. En un estudio de caso único de tres semanas, [[nuzzo-ai-reflective-partner-tpack-2026|Nuzzo y De Marco (2026)]] siguieron a una docente de humanidades de secundaria que diseñaba una clase sobre el *Laborintus* de Sanguineti: la lectura de la IA generativa era fluida, pero colapsaba el poema en categorías genéricas, y la brecha entre la plausibilidad retórica y la precisión hermenéutica produjo lo que los autores llaman disonancia pedagógica y reencuadre reflexivo. En lugar de aceptar o descartar la salida, reconstruyó la ficha de trabajo en torno a «¿Qué se le escapó a la IA?», convirtiendo la interpretación generada en objeto de escrutinio estudiantil. La coagencia humano-IA siguió siendo asimétrica en todo momento: el sistema ofrecía alternativas, mientras la responsabilidad epistémica y pedagógica permanecía en la docente.
 
 En un mapeo de 26 estudios sobre IA en el aprendizaje-servicio, la reflexión fue la fase menos atendida —tres estudios la alcanzaron y uno cubrió las cuatro—, de modo que la fase que convierte el servicio en aprendizaje es donde el apoyo de la IA es más escaso ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 

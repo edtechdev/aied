@@ -1,7 +1,7 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
-updated: "2026-11-23T13:10:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
@@ -28,6 +28,10 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
 connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
@@ -47,7 +51,7 @@ connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fa
 
 ## Introducción
 
-La ingeniería de prompts es central para el uso eficaz de la [[generative-ai|IA generativa]] en educación. A diferencia de las interfaces de programación tradicionales, los LLM responden al lenguaje natural, pero la calidad, la exactitud y el valor [[pedagogy|pedagógico]] de esas respuestas dependen en gran medida del diseño del prompt. La investigación revela que el prompting no es un acto neutro: refleja cómo piensa, planifica y distribuye el esfuerzo cognitivo el estudiantado. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran y Arar (2026)]] precisan qué abarca el término al distinguir la ingeniería de prompts, la optimización técnica de las entradas para el rendimiento, de la alfabetización en prompts, el trabajo retórico, ético y reflexivo de clarificar el propósito, leer críticamente el resultado y revisar con razones declaradas. Su Ciclo de Alfabetización en Prompts (Clarificar el Propósito, Elaborar el Prompt, Interactuar con el Resultado, Refinar el Prompt, Reflexionar) y una rúbrica de proceso de muestra hacen enseñable la distinción, y sostienen que una instrucción que optimiza solo los resultados deja intactas las dimensiones éticas y epistemológicas del uso de los LLM.
+La ingeniería de prompts es central para el uso eficaz de la [[generative-ai|IA generativa]] en educación. A diferencia de las interfaces de programación tradicionales, los LLM responden al lenguaje natural, pero la calidad, la exactitud y el valor [[pedagogy|pedagógico]] de esas respuestas dependen en gran medida del diseño del prompt. La investigación revela que el prompting no es un acto neutro: refleja cómo piensa, planifica y distribuye el esfuerzo cognitivo el estudiantado. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran y Arar (2026)]] precisan qué abarca el término al distinguir la ingeniería de prompts, la optimización técnica de las entradas para el rendimiento, de la alfabetización en prompts, el trabajo retórico, ético y reflexivo de clarificar el propósito, leer críticamente el resultado y revisar con razones declaradas. Su Ciclo de Alfabetización en Prompts (Clarificar el Propósito, Elaborar el Prompt, Interactuar con el Resultado, Refinar el Prompt, Reflexionar) y una [[rubrics|rúbrica]] de proceso de muestra hacen enseñable la distinción, y sostienen que una instrucción que optimiza solo los resultados deja intactas las dimensiones éticas y epistemológicas del uso de los LLM.
 
 ## Cómo aparece la ingeniería de prompts en la investigación
 

@@ -1,7 +1,7 @@
 ---
 title: "La recherche sur l'utilisabilité"
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
 connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
@@ -55,7 +59,7 @@ La recherche sur l'utilisabilité et l'UX répond à des questions telles que : 
 - **L'interaction humain-robot et l'[[conversational-ai|IA conversationnelle]].** [[icub-humanoid-storytelling-llm-hri-2025|L'étude du robot humanoïde conteur]] est une étude d'utilisabilité explicite de l'interaction propulsée par les [[llm|LLM]] ; [[conversational-ai-agents-umbrella-review-2026|une revue parapluie des agents d'IA conversationnelle]] identifie l'utilisabilité et la qualité de l'interaction comme un thème récurrent.
 - **La conception et l'affinage.** Les constats d'utilisabilité alimentent la conception itérative (voir le [[design-thinking|conception par le design]] et la [[learning-design|conception pédagogique]]), améliorant les outils avant ou parallèlement aux tests d'efficacité.
 - **Un instrument unique à travers les contextes, et le plafond qui le limite.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] ont maintenu constants le domaine, la tâche et l'instrument, tandis que le niveau éducatif variait, de sorte que les notations par 144 étudiants de 893 réponses de rétroaction et 237 rapports comparent les contextes plutôt que les disciplines — et seule l'exactitude perçue différait selon les niveaux. L'étude nomme aussi la limite de ce type d'évaluation par les utilisateurs : de 72.2 à 86.4 pour cent des étudiants se situaient en moyenne au moins à 4 sur 5, et les auteurs déclarent que leurs différences non significatives n'établissent pas l'équivalence, aucune marge n'ayant été fixée à l'avance.
-- **La conception de la notation rapportée comme partie du constat.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait juger par 25 experts appariés au domaine 92 cours régénérés au regard d'un référentiel ancré à « la qualité d'un cours [[online-teaching-and-learning|MOOC]] standard », en assignant chaque vidéo à un seul évaluateur (k = 1) afin de répartir le panel sur une plus grande part de l'ensemble des cours plutôt que de collecter des notations répétées. Le compromis est modélisé plutôt que dissimulé : un modèle à intercepts aléatoires attribue environ 35 pour cent de la variance résiduelle à l'évaluateur (ICC = 0.35) et les intervalles sont regroupés par évaluateur, ce qui permet à un panel d'experts de rapporter « 87 pour cent au niveau ou au-dessus du seuil » avec une fourchette honnête.
+- **La conception de la notation rapportée comme partie du constat.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait juger par 25 experts appariés au domaine 92 cours régénérés au regard d'une [[rubrics|grille d'évaluation]] ancrée à « la qualité d'un cours [[online-teaching-and-learning|MOOC]] standard », en assignant chaque vidéo à un seul évaluateur (k = 1) afin de répartir le panel sur une plus grande part de l'ensemble des cours plutôt que de collecter des notations répétées. Le compromis est modélisé plutôt que dissimulé : un modèle à intercepts aléatoires attribue environ 35 pour cent de la variance résiduelle à l'évaluateur (ICC = 0.35) et les intervalles sont regroupés par évaluateur, ce qui permet à un panel d'experts de rapporter « 87 pour cent au niveau ou au-dessus du seuil » avec une fourchette honnête.
 
 ## Relation avec les autres familles de recherche
 

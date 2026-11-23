@@ -1,19 +1,23 @@
 ---
 title: Aprendizaje situado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
 connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
@@ -46,7 +50,7 @@ La investigación trata el aprendizaje situado no solo como una teoría abstract
 - **La IA como catalizador que conecta la educación con la realidad.** La IA puede actuar como *catalizador* del aprendizaje situado al conectar la educación con la realidad y con contextos auténticos, habilitando un aprendizaje anclado en escenarios del mundo real.([[vargas-ai-catalyst-situated-learning-2026]])
 - **Artefactos de mediación en la indagación auténtica.** En el [[science-education|aprendizaje de las ciencias]], las herramientas de IA (laboratorios virtuales, simulaciones, tutoría inteligente) funcionan como «artefactos de mediación» que amplían el aprendizaje situado al habilitar comunidades de práctica digitales y el cruce de fronteras entre la escuela, el mundo real y contextos interdisciplinares, transformando al estudiantado de «aprendices de conocimiento» en «practicantes científicos».([[li-ai-science-situated-learning-teachers-2025]])
 - **Dispositivos de [[curriculum-design|diseño curricular]] situados.** La [[ai-literacy|alfabetización en IA]] puede desarrollarse mediante *Episodios de Aprendizaje Situado*: instrumentos activos de [[teacher-role|enseñanza]] (anticipar, producir, reflexionar) que construyen competencias en IA a través de la [[problem-solving|resolución de problemas]] del mundo real y no de la instrucción abstracta.([[panciroli-ai-literacy-episodes-situated-learning]])
-- **Evaluación situada en el aprendizaje [[design-based-research|basado en el diseño]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] fundamentaron su estudio en la teoría del aprendizaje situado y en la [[pedagogy|pedagogía]] del diseño iterativo, y evaluaron 80 pósteres de diseño del estudiantado en los roles de docente, revisor par y revisor de subvenciones. El [[prompt-engineering|prompting]] consciente del rol produjo retroalimentación evaluativa cualitativamente distinta —docentes que animan y se orientan al proceso, pares que apoyan y conversan, revisores de subvenciones formales y orientados a los resultados—, diferencias que eran epistémicas y no meramente estilísticas, al poner en primer plano aspectos distintos de la práctica del diseño. Esto muestra cómo una evaluación situada y específica de cada rol puede ser emulada por un [[llm|LLM]] cuando se le dota de andamiaje mediante una rúbrica semánticamente precisa, y cómo la evaluación en el aprendizaje basado en el diseño emerge de la tarea auténtica y de sus roles en lugar de separarse de ellos.
+- **Evaluación situada en el aprendizaje [[design-based-research|basado en el diseño]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] fundamentaron su estudio en la teoría del aprendizaje situado y en la [[pedagogy|pedagogía]] del diseño iterativo, y evaluaron 80 pósteres de diseño del estudiantado en los roles de docente, revisor par y revisor de subvenciones. El [[prompt-engineering|prompting]] consciente del rol produjo retroalimentación evaluativa cualitativamente distinta —docentes que animan y se orientan al proceso, pares que apoyan y conversan, revisores de subvenciones formales y orientados a los resultados—, diferencias que eran epistémicas y no meramente estilísticas, al poner en primer plano aspectos distintos de la práctica del diseño. Esto muestra cómo una evaluación situada y específica de cada rol puede ser emulada por un [[llm|LLM]] cuando se le dota de andamiaje mediante una [[rubrics|rúbrica]] semánticamente precisa, y cómo la evaluación en el aprendizaje basado en el diseño emerge de la tarea auténtica y de sus roles en lugar de separarse de ellos.
 - **Ética situada de la IA.** El razonamiento ético sobre la IA se trata mejor, también, como algo *situado*: anclado en el contexto cultural-histórico y ecológico y no en principios abstractos.([[raffaghelli-situated-ai-ethics-2026]])
 
 El aprendizaje situado conecta estrechamente con el [[embodied-learning|aprendizaje corporeizado]] (ambos subrayan el anclaje de la cognición en el contexto y la acción), con la [[distributed-cognition|cognición distribuida]] (el aprendizaje distribuido entre personas, herramientas y contextos), con el [[experiential-learning|aprendizaje experiencial]] y con la teoría [[constructivist|constructivista]]. En la educación con IA fundamenta la crítica del aprendizaje descontextualizado y descorporeizado: un diseño de IA que mantiene a quien aprende anclado en la práctica auténtica preserva la situacionalidad que exige un aprendizaje duradero.

@@ -23,6 +23,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*

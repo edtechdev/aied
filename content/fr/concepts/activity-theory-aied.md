@@ -1,7 +1,7 @@
 ---
 title: "Théorie de l'activité"
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,10 +10,14 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -71,6 +75,8 @@ L'IA introduit de nouveaux **outils et artefacts médiateurs** dans les système
 ## La théorie de l'activité et les cadres apparentés
 
 La théorie de l'activité se situe dans la famille [[sociocultural-learning|socioculturelle]] et est souvent associée à d'autres cadres, ou mise en contraste avec eux : la **[[distributed-cognition|cognition distribuée]]** et l'**[[situated-learning|apprentissage situé]]** partagent son insistance sur le contexte et la médiation ; la **[[community-of-inquiry|communauté d'enquête]]** et les communautés de pratique partagent son orientation collective ; et les modèles d'**acceptation technologique** (par exemple le [[technology-acceptance-model|TAM]]) offrent un compte concurrent, davantage centré sur les croyances individuelles, de l'adoption, que la théorie de l'activité critique pour aplatir les dimensions collective et structurelle. Dans la recherche en AIED, la théorie de l'activité est fréquemment combinée à d'autres théories — par exemple associée à la [[self-determination-theory|théorie de l'autodétermination]] dans la conception d'interventions de développement professionnel des enseignants, ou à la théorie des systèmes écologiques dans les cadres d'éthique situationnelle de l'IA [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
+
+La théorie de l'activité est l'une des traditions systémiques dont s'inspirent les [[learning-environments-as-systems|environnements d'apprentissage considérés comme des systèmes]]. Son système d'activité — sujet, objet, outils, communauté, règles, division du travail — est le modèle de composantes et d'interactions le plus pleinement spécifié, et son insistance sur le fait que les contradictions sont le moteur du développement en fait un instrument de diagnostic, et pas seulement une description.
 
 ## Thèmes clés de la recherche
 

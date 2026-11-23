@@ -1,7 +1,7 @@
 ---
 title: Sesgo de automatización
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-15T10:12:29-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -11,12 +11,16 @@ confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 contributors: [editor]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -95,6 +99,8 @@ Dos trabajos sostienen que el contrapeso es una disposición y no una regla. [[a
 ### Cuando el sesgo se nombra como riesgo en lugar de medirse
 
 Una parte importante de la literatura incluye el sesgo de automatización en un modelo de amenazas sin ponerlo a prueba, y la distinción importa para cuánto peso puede cargar el concepto. [[ahmadfard-interactive-oer-review-2026|La revisión de REA interactivos (2026)]] lo incluye entre los riesgos recurrentes que erosionan la agencia de estudiantes y docentes, enumerado y no medido. [[alshahrani-health-sciences-ai-use-2026|La encuesta de ciencias de la salud (2026)]] lee las preocupaciones [[ethics|éticas]] de 310 estudiantes como un argumento a favor de una [[professional-training|formación profesional]] que cubra el sesgo de automatización de forma explícita. [[ai-literacy-legal-translation-2026|El estudio de traducción jurídica (2026)]] pide que la posedición y la verificación se enseñen como habilidades calificadas, y nombra las presiones del sesgo de automatización y de la ilusión de calidad que hacen fácil pasar por alto las malas traducciones. [[morales-cevallos-ai-forensic-science-education-2026|La revisión de ciencias forenses (2026)]] encuentra el sesgo de automatización documentado en sus estudios incluidos y propone ejercicios de casos construidos a partir de fallos reportados. [[rana-genai-design-thinking-2025|El estudio de pensamiento de diseño (2025)]] lo convierte en un requisito de diseño: [[scaffolding|andamiajes]] que mantienen el juicio humano en el centro y contrarrestan tanto la descarga como el sesgo de automatización.
+
+Un sesgo distinto se asienta en la salida y no en la persona usuaria. En Esmeraldas (Ecuador), 90 actores educativos y comunitarios describieron que las herramientas de imagen alteraban el tono de piel, la textura del cabello y los rasgos faciales de participantes afroecuatorianos; uno lo calificó de «una forma de racismo, aunque sea digital»: un daño representacional que ninguna métrica de exactitud registra ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales y García Iturralde, 2026]]).
 
 ## Dónde la evidencia es escasa, mixta o inversa
 

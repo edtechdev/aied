@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour rapporter et interpréter la recherche sur l'IA en éducation ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
@@ -28,6 +28,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -88,7 +93,7 @@ Traitez l'outil comme une cible mouvante. Les systèmes propriétaires changent 
 
 ## Valider les jugements automatisés
 
-[[ai-ed-evaluation|L'évaluation en IA en éducation]] délègue de plus en plus la notation aux modèles, ce qui fait de la procédure de validation une partie du résultat plutôt qu'une annexe. Le compte rendu de Khan Academy sur les métriques de son [[intelligent-tutoring|tuteur IA]] indique que l'engagement cognitif est noté par un juge [[llm|LLM]] calibré contre des experts pédagogiques humains à F1 0.83, et que les mouvements de ces métriques venaient de plus de 40 expériences en production en cinq mois plutôt que d'une évaluation hors ligne ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] montrent que le désaccord homme-machine sur la qualité des [[formative-assessment|questions de pré-test]] est systématique et non aléatoire, et que l'opérationnalisation de la grille compte plus que l'[[prompt-engineering|invite]] qui commence par la justification.
+[[ai-ed-evaluation|L'évaluation en IA en éducation]] délègue de plus en plus la notation aux modèles, ce qui fait de la procédure de validation une partie du résultat plutôt qu'une annexe. Le compte rendu de Khan Academy sur les métriques de son [[intelligent-tutoring|tuteur IA]] indique que l'engagement cognitif est noté par un juge [[llm|LLM]] calibré contre des experts pédagogiques humains à F1 0.83, et que les mouvements de ces métriques venaient de plus de 40 expériences en production en cinq mois plutôt que d'une évaluation hors ligne ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] montrent que le désaccord homme-machine sur la qualité des [[formative-assessment|questions de pré-test]] est systématique et non aléatoire, et que l'opérationnalisation de la [[rubrics|grille]] compte plus que l'[[prompt-engineering|invite]] qui commence par la justification.
 
 L'accord avec des codeurs humains est une chose distincte de la qualité, et le rapporter comme s'il s'agissait de la qualité est une cible pour les évaluateurs. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] ont fait juger par un expert indépendant 855 ensembles de codes par paires, à l'aveugle de leur source. L'accord humain-LLM s'établissait à un indice de Jaccard moyen de 0.30 contre 0.52 pour l'accord entre humains, tandis que le vérificateur à l'aveugle préférait le codage humain et le codage machine à des taux indiscernables (51.5% contre 48.5%, p = 0.537). Rapportez la cible de calibration, l'étalon de référence et qui a arbitré le désaccord. Ces trois éléments sont ce qui permet à un lecteur de décider quel poids le score automatisé peut porter.
 

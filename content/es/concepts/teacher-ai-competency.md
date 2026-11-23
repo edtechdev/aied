@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,10 +13,14 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-16T08:24:32-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -78,7 +82,7 @@ La investigación converge en varias dimensiones interconectadas:
 
 - En una encuesta de cinco países con 1.405 docentes de K-12, la preparación en IA predijo creencias positivas sobre el valor instruccional de la IA generativa (B = 0,59, R² = 0,50) pero predijo una *mayor* preocupación por la [[creativity|creatividad]] (B = 0,18), y esos mismos predictores explicaron solo el 7% y el 6% de la preocupación: construir preparación por sí solo deja la preocupación intacta ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 
-La preparación debería ordenarse y medirse en consecuencia: el modelo Capacidad–Decisión sitúa la capacidad demostrada de IA antes que la actitud y la confianza y propone indicadores de desempeño en lugar de autoinforme únicamente —tareas de diseño de clases, tareas de evaluación de prompts sembradas con errores, juicios de validez de contenido y rúbricas de artefactos de aula ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+La preparación debería ordenarse y medirse en consecuencia: el modelo Capacidad–Decisión sitúa la capacidad demostrada de IA antes que la actitud y la confianza y propone indicadores de desempeño en lugar de autoinforme únicamente —tareas de diseño de clases, tareas de evaluación de prompts sembradas con errores, juicios de validez de contenido y [[rubrics|rúbricas]] de artefactos de aula ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **La preparación emocional y moral es una dimensión distinta.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] encuestó al personal académico de una [[higher-ed|universidad]] maltesa (109 respuestas) y construyó un Índice de Culpa por IA (α = 0,88) a partir de cuatro ítems de emoción moral, y encontró que la culpa *anticipatoria* pesaba más que el remordimiento experimentado después del uso: la afirmación más respaldada era la preocupación de que usar IA menoscabe la propia credibilidad (34,9% de acuerdo), seguida de sentirse como si se hiciera [[academic-integrity|trampa]] al usarla (25,7%), mientras que el remordimiento posterior al uso solo alcanzó el 9,2%. Los hallazgos que importan para los marcos de competencia son que quienes no la usaban declararon *más* culpa que quienes la usaban (M = 3,25 frente a M = 2,32) y que la culpa descendía a medida que aumentaba la seguridad profesional: el personal académico al inicio de su carrera declaró la más alta (M = 2,71) y el personal sénior la más baja (M = 2,03). La preparación emocional no queda, por tanto, recogida por las medidas de habilidad o de confianza, y el artículo sostiene que los marcos de competencia deberían tratar la culpa y la preocupación identitaria como respuestas transitorias normales y no como defectos que corregir.
 
@@ -143,6 +147,8 @@ La configuración de creencias es un segundo eje de perfilado: entre 40.680 doce
 - **El personal docente prefiere la fluidez pero atribuye el aprendizaje al andamiaje.** En 41 docentes, una línea base de GPT-4o fue preferida en conjunto (21 frente a 13), pero al modelo de tres pasos ajustado (identificar, explorar, desarrollar) se le atribuyó más a menudo el aprendizaje (18 frente a 13), y ambos juicios coincidieron solo el 39% de las veces ([[teachingcoach-chatbot-instructor-guidance|Molnar et al. (2026)]]).
 - **Apoyo institucional:** el [[educational-development|desarrollo profesional]] debe ir acompañado de infraestructura institucional ([[educational-policy-ai|política]], [[institutional-change-framework-ai|cambio institucional]]) para una adopción sostenible.
 - **Las herramientas de autoría no garantizan la fidelidad pedagógica.** [[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]] estudiaron a 27 docentes de secundaria que configuraban [[conversational-ai|chatbots]] educativos en talleres de desarrollo profesional, y analizaron grupos focales junto con registros de configuración e interacción. El profesorado trataba el chatbot como un andamiaje instruccional acotado por reglas definidas por él mismo, pero la alineación basada en registros entre intención y conducta era más fuerte para la capacidad de respuesta (88,9%) y la persona (81,5%) que para las reglas (70,4%) y el propósito (59,3%). Los controles configurables por sí solos no trasladan la intención pedagógica a la conducta, así que expresar, probar y refinar la pedagogía de un chatbot es en sí mismo una competencia que las herramientas de autoría tienen que apoyar.
+
+- **El apoyo llega a la competencia a través del conocimiento, no de la provisión.** En 782 docentes de 16 escuelas chinas, el apoyo escolar percibido no tuvo una ruta directa significativa hacia la competencia docente percibida en IA; la asociación pasó por el AI-TPACK, la autoeficacia, la resiliencia y la ansiedad ante la IA, con el AI-TPACK como el canal principal ([[zhou-school-support-teacher-ai-competence-2026|Zhou, Xie y Chen, 2026]]).
 
 Un contraejemplo basado en el diseño trata la competencia como situacional y no como un peldaño de una escalera. [[adaptive-ai-model-teacher-educators-2025|El estudio basado en el diseño de Eyal (2025) con 22 formadores de docentes de educación superior]] hizo que las personas participantes examinaran cinco marcos de evaluación publicados y codiseñaran una alternativa organizada en torno a tres ejes interrelacionados: la adecuación al contexto (infraestructura, factores socioculturales, necesidades locales, etapa de desarrollo), las necesidades profesionales (disciplina, pedagogía, liderazgo, apoyo) y el desarrollo dinámico. El modelo rechaza los niveles de competencia fijos y permite una progresión no lineal, y se acompaña de un cuestionario de autoevaluación reflexiva de 20 ítems valorado de 1 a 5. Su validación es solo [[qualitative-research|cualitativa]], sin pruebas [[quantitative-research|cuantitativas]] de fiabilidad, por lo que se sostiene como contribución de diseño y no como instrumento validado.
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las mejores prácticas para la enseñanza de la escritura en el contexto de la IA?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -94,7 +98,7 @@ Once filas son más de lo que necesitan la mayoría de las asignaciones. Reduzca
 
 ## Mantenga la retroalimentación humana en el circuito
 
-El mayor estudio de aula de este conjunto es [[pairr-ai-peer-review-2025|PAIRR]]: 654 estudiantes en diez cursos de escritura y tres cursos intensivos en escritura de [[stem-education|STEM]]. Redactaron, completaron una [[peer-assessment|evaluación entre pares]], obtuvieron retroalimentación de la IA basada en rúbricas, compararon y evaluaron ambas fuentes, escribieron planes de revisión, revisaron y reflexionaron. El 58% prefirió la combinación de retroalimentación de pares y de IA. El 6% prefirió solo la retroalimentación de la IA. El estudiantado encontró útil la IA para consejos generales de revisión orientados por la rúbrica, y los pares aportaron conocimiento contextual y una respuesta de audiencia auténtica.
+El mayor estudio de aula de este conjunto es [[pairr-ai-peer-review-2025|PAIRR]]: 654 estudiantes en diez cursos de escritura y tres cursos intensivos en escritura de [[stem-education|STEM]]. Redactaron, completaron una [[peer-assessment|evaluación entre pares]], obtuvieron retroalimentación de la IA basada en [[rubrics|rúbricas]], compararon y evaluaron ambas fuentes, escribieron planes de revisión, revisaron y reflexionaron. El 58% prefirió la combinación de retroalimentación de pares y de IA. El 6% prefirió solo la retroalimentación de la IA. El estudiantado encontró útil la IA para consejos generales de revisión orientados por la rúbrica, y los pares aportaron conocimiento contextual y una respuesta de audiencia auténtica.
 
 Sea exacto con la afirmación. PAIRR midió la experiencia y la evaluación que el estudiantado hace de la retroalimentación, no [[learning-gains|ganancias de aprendizaje]] a largo plazo, así que es evidencia sólida para un diseño de retroalimentación y evidencia más débil de que la escritura mejore meses después. Mantenga el paso de pares incluso cuando el paso de la IA sea más rápido. Buena parte del trabajo de [[feedback|retroalimentación]] ocurre en la comparación entre las dos fuentes, y eliminarlo suprime la parte que el estudiantado dijo valorar.
 

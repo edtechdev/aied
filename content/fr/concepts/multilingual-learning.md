@@ -2,14 +2,14 @@
 title: "Apprentissage multilingue"
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,8 +21,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -59,11 +63,13 @@ Le translanguaging est une affordance que les [[conversational-ai|agents convers
 
 Le coût linguistique de l'entrée en formation aux outils est mesurable : [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] ont constaté que les apprenants de l'anglais passaient significativement plus de temps sur un tutoriel guidé de construction d'agents que les locuteurs natifs, tandis que la tâche de conception ouverte ne montrait aucune différence.
 
+L'anglais domine même là où quatre langues sont d'usage quotidien. Parmi 42 étudiants de Curaçao et d'Aruba, deux tiers ont désigné l'anglais comme leur langue préférée pour l'IA, et seules les sessions GPT basculaient vers le papiamentu lorsque la conversation devenait locale ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## Biais d'évaluation
 
 Les préoccupations multilingues affectent aussi l'[[automated-assessment|évaluation automatisée]] : [[ai-scoring-language-bias-physics|la notation par IA peut présenter un biais linguistique]] (par exemple, en [[physics-education|physique]]), pénalisant les locuteurs non natifs. Garantir que les outils d'évaluation sont équitables entre les langues fait partie de l'[[assessment-validity|évaluation de la validité]].
 
-Le jugement comparatif fondé sur les grands modèles de langue est un cas où le biais suivait la référence humaine plutôt que le modèle : les scores pour les écrits informationnels des niveaux 3 à 6 convergeaient avec les barèmes des chercheurs (r = ,59–,73) et montraient des profils de biais prédictif pour les apprenants multilingues similaires à ceux de la notation humaine, sans aucune preuve qu'une plus grande capacité ou un coût plus élevé du modèle améliorait la validité ([[llm-comparative-judgment-writing-screening-2026|Mercer et Reed (2026)]]).
+Le jugement comparatif fondé sur les grands modèles de langue est un cas où le biais suivait la référence humaine plutôt que le modèle : les scores pour les écrits informationnels des niveaux 3 à 6 convergeaient avec les [[rubrics|barèmes]] des chercheurs (r = ,59–,73) et montraient des profils de biais prédictif pour les apprenants multilingues similaires à ceux de la notation humaine, sans aucune preuve qu'une plus grande capacité ou un coût plus élevé du modèle améliorait la validité ([[llm-comparative-judgment-writing-screening-2026|Mercer et Reed (2026)]]).
 
 ## Implications pour les enseignants en contextes multilingues
 
@@ -72,6 +78,8 @@ Le jugement comparatif fondé sur les grands modèles de langue est un cas où l
 - **Reflétez la culture et le contexte, pas seulement la traduction.** L'IA multilingue doit aller au-delà de la traduction vers la [[culturally-relevant-pedagogy|pédagogie culturellement pertinente]] — générez un contenu linguistiquement et contextuellement approprié ([[llm-cultural-relevance-k12|pertinence culturelle dans le primaire et le secondaire]]).
 - **Associez l'IA à des structures de soutien multilingues.** Utilisez des modes vocaux d'abord et oraux ([[kutti-ai-voice-first-learning-companion|compagnons vocaux d'abord]]) là où l'IA fondée sur le texte échoue, et soutenez l'[[self-regulated-learning|autorégulation]] dans les contextes bilingues ([[bilingual-llm-lecture-companion-srl-2026|compagnon de cours bilingue]]).
 - **Surveillez la fracture numérique.** Le biais monolingue dans l'IA creuse la [[digital-divide|fracture numérique]] et sape l'accès dans les pays du [[global-south|Sud global]] — planifiez des infrastructures et un accès équitables en même temps que le choix de l'outil.
+
+- **Le travail adaptatif retombe sur l'enseignant.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] ont constaté que les enseignants universitaires de langues autres que l'anglais adaptent les invites, corrigent la langue du modèle, recontextualisent le contenu culturellement et changent d'outil de façon courante. Ce travail est imposé par la hiérarchie linguistique plutôt que par une faible compétence numérique, et il est invisible dans les statistiques d'adoption qui ne comptent que si l'outil a été utilisé.
 
 ## Idées fausses courantes
 

@@ -1,7 +1,7 @@
 ---
 title: Évaluation par les pairs
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,10 +10,14 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -33,7 +37,7 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 ## Questions à examiner
 
 - Repensez à un moment où votre travail a été évalué par un pair — ou où vous avez évalué le sien. De quoi avez-vous le plus appris : donner un retour ou en recevoir un, et pourquoi ?
-- Pourquoi le retour d'un étudiant pourrait-il être plus sensible au contexte et plus soutenant sur le plan émotionnel que le retour de l'IA, alors même que le retour de l'IA est plus cohérent et davantage guidé par une grille ? Comment les deux pourraient-ils se compléter ?
+- Pourquoi le retour d'un étudiant pourrait-il être plus sensible au contexte et plus soutenant sur le plan émotionnel que le retour de l'IA, alors même que le retour de l'IA est plus cohérent et davantage guidé par une [[rubrics|grille d'évaluation]] ? Comment les deux pourraient-ils se compléter ?
 - Les pairs ont tendance à sous-noter les travaux solides et l'IA a tendance à gonfler les travaux faibles. Si ni l'un ni l'autre n'est fiable sur l'ensemble de l'échelle de qualité, à quoi une note issue de l'une ou l'autre source devrait-elle servir ?
 - L'évaluation par les pairs dépend fortement du [[scaffolding]] et de critères clairs, et le biais d'amitié et l'[[anxiety-and-stress|anxiété]] sociale peuvent rendre une revue entre pairs non entraînée pire que pas de revue du tout. À quoi ressemble concrètement un entraînement adéquat dans votre contexte ?
 - Si l'IA peut rédiger des commentaires sur l'organisation et la structure, cela rend-il l'évaluation par les pairs redondante — ou cela libère-t-il les pairs pour qu'ils donnent le retour spécifique et sensible au public que seuls ils peuvent donner ?

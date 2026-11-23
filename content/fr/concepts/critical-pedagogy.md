@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie critique"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
-connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy, critiques-of-ai-in-education]
 connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
 ---
 
@@ -59,6 +63,8 @@ L'[[ai-education|IA en éducation]] soulève des questions aiguës pour la péda
 - **Le discours d'alignement « l'efficacité d'abord » comme effacement du contexte.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] appliquent le modèle tridimensionnel de Fairclough à 14 textes de littérature grise (novembre 2022 – avril 2025) conseillant aux praticiens de l'enseignement supérieur d'utiliser l'[[generative-ai|IA générative]] pour l'alignement constructif, et y trouvent un discours techno-solutionniste dans lequel l'outil est anthropomorphisé en « expert et assistant éducatif » tandis que le personnel académique est positionné comme fournisseur d'« expertise disciplinaire » pendant que le système accomplit le travail pédagogique. L'analyse nomme l'effacement du contexte situé, disciplinaire et critique comme l'un des trois modes de défaillance — aux côtés de la performativité (un alignement qui n'en a que l'apparence) et de l'alignement superficiel, qui confond la dimension constructive avec celle qui est alignée — preuve que même des conseils sur la [[learning-design|conception de cours]], matière technique en apparence neutre, portent la logique dépolitisation que les pédagogues critiques critiquent ailleurs.
 - **Les remèdes de conception ne suffisent pas à eux seuls.** Les démarches de conception centrée sur l'humain, comme la conception sensible aux valeurs, sont insuffisantes : elles laissent intacts les moteurs systémiques — les cadrages en termes de productivité de la main-d'œuvre et les incitations économiques — et l'[[agency]] peut être à somme nulle, de sorte que la capacité concédée à l'outil est une capacité que l'apprenant ne conserve pas ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 - **L'éducation aux droits humains comme cas d'épreuve de la gouvernance de l'IA comme formation.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] déploie le cadre onusien *about, through, for* dans un programme de droit et situe la difficulté non pas dans la technologie mais dans la pédagogie : les étudiants remettaient des travaux écrits polis et des conceptions de séance polies, sans l'engagement que ces artefacts sont censés attester, et la pensée la plus critique apparaissait dans les écrits de fin de cours plutôt que dans le dialogue en classe. Sa conclusion déplace le rôle de l'éducateur plutôt qu'elle ne le réduit — la [[governance|gouvernance de l'IA]] devient une responsabilité professionnelle que les étudiants sont formés à contester, et l'[[llm|outil]] est orienté plutôt qu'interdit.
+
+- **La critique comme corpus de travaux.** Les questions ci-dessus, tournées vers l'IA elle-même plutôt que vers le curriculum, sont rassemblées sous l'appellation [[critiques-of-ai-in-education|Critiques de l'IA en éducation]].
 
 ## L'évaluation comme lieu de critique
 

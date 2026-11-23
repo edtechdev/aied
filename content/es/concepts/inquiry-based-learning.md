@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en la indagación
 created: "2026-09-28T21:10:00-04:00"
-updated: "2026-11-15T10:11:22-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,10 +9,14 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -62,7 +66,7 @@ El aprendizaje basado en la indagación se centra en las preguntas que plantea e
 
 La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el hogar natural de un uso productivo de la IA: el estudiantado aprende *con* la IA como compañera y no *de* ella como sustituto. La evidencia converge en una tensión central: la IA puede reducir la fricción de la recuperación de información y de la formulación de preguntas (disminuyendo la [[cognitive-offloading|carga cognitiva]] y habilitando una [[reflection|reflexión]] más profunda), pero sin un andamiaje de diseño arriesga la dependencia excesiva y saltarse la cognición de orden superior. El papel de quien facilita, el diseño de los andamiajes y la enseñanza explícita de habilidades de evaluación son las palancas que determinan si la IA profundiza o desplaza la indagación.
 
-Un estudio sustituye a quien facilita en lugar de añadir una herramienta a su lado. En un curso de farmacología de cuatro semanas, 136 estudiantes de segundo año de medicina se dividieron entre aprendizaje basado en problemas dirigido por una persona facilitadora y dirigido por IA. Ambos grupos mejoraron significativamente en las pruebas de opción múltiple previas y posteriores, y la diferencia entre grupos no fue significativa (p = 0,474), pero los grupos dirigidos por una persona facilitadora obtuvieron puntuaciones más altas en pensamiento crítico (14,75 frente a 13,09, p < 0,001) y en la rúbrica de [[group-work|evaluación grupal]] (26,51 frente a 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty y Rao, 2026]]). Los resultados de indagación se dividieron por tipo: el conocimiento de contenido sobrevivió a la sustitución y el proceso de razonamiento no, que es lo que significa decir que quien facilita es la palanca.
+Un estudio sustituye a quien facilita en lugar de añadir una herramienta a su lado. En un curso de farmacología de cuatro semanas, 136 estudiantes de segundo año de medicina se dividieron entre aprendizaje basado en problemas dirigido por una persona facilitadora y dirigido por IA. Ambos grupos mejoraron significativamente en las pruebas de opción múltiple previas y posteriores, y la diferencia entre grupos no fue significativa (p = 0,474), pero los grupos dirigidos por una persona facilitadora obtuvieron puntuaciones más altas en pensamiento crítico (14,75 frente a 13,09, p < 0,001) y en la [[group-work|evaluación grupal]] [[rubrics|rúbrica]] (26,51 frente a 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty y Rao, 2026]]). Los resultados de indagación se dividieron por tipo: el conocimiento de contenido sobrevivió a la sustitución y el proceso de razonamiento no, que es lo que significa decir que quien facilita es la palanca.
 
 ### Fracaso productivo e indagación
 

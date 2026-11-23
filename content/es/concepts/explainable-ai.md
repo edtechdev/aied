@@ -1,7 +1,7 @@
 ---
 title: IA explicable
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
 connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
@@ -103,7 +107,7 @@ Las métricas que se usan para certificar la calidad de una explicación no mide
 
 Si la calidad de la explicación decide si la XAI es útil, entonces producir explicaciones tiene que enseñarse como un hábito profesional y no demostrarse como una capacidad. [[lund-socially-accountable-data-science-xai-2026|Lund y sus colegas (2026)]] proponen hacerlo en torno a cuatro pilares: **capacidad de respuesta** (la obligación de dar razones a quienes se ven afectados), **responsabilidad** (el daño anticipado a lo largo del ciclo de vida y no defendido a posteriori), **exigibilidad** (consecuencias dentro del curso) y **reflexividad** (examen documentado de los propios supuestos), cada uno con sus propias tareas y su propio costo en el aula.
 
-Para la explicabilidad en concreto, las tareas que importan son las que obligan a sacar la explicación del cuaderno: tarjetas de modelo calificadas y ponderadas junto a las métricas de exactitud, y auditorías de explicación estructuradas en las que los estudiantes aplican herramientas de interpretabilidad a sus propios modelos y luego presentan los resultados a una audiencia sin formación técnica compartida. La exigibilidad es el pilar que más a menudo falta en los cursos cercanos a la ética y el que hace que los demás sean algo más que simbólico: rúbricas que recompensan la documentación responsable, proyectos que pueden devolverse para revisión por razones [[ethics|éticas]] y [[peer-assessment|revisión entre iguales]] realizada contra criterios de rendición de cuentas y no solo técnicos. El artículo es franco en que las herramientas difieren mucho en costo: las tarjetas de modelo y las declaraciones de posicionalidad no necesitan software nuevo y solo arriesgan un cumplimiento superficial, mientras que los paneles de iguales y la participación de las partes interesadas requieren coordinación y adhesión institucional, y por eso recomienda una adopción por etapas y no un compromiso de todo o nada. Véase [[curriculum-design]] para ver dónde encajan en un programa.
+Para la explicabilidad en concreto, las tareas que importan son las que obligan a sacar la explicación del cuaderno: tarjetas de modelo calificadas y ponderadas junto a las métricas de exactitud, y auditorías de explicación estructuradas en las que los estudiantes aplican herramientas de interpretabilidad a sus propios modelos y luego presentan los resultados a una audiencia sin formación técnica compartida. La exigibilidad es el pilar que más a menudo falta en los cursos cercanos a la ética y el que hace que los demás sean algo más que simbólico: [[rubrics|rúbricas]] que recompensan la documentación responsable, proyectos que pueden devolverse para revisión por razones [[ethics|éticas]] y [[peer-assessment|revisión entre iguales]] realizada contra criterios de rendición de cuentas y no solo técnicos. El artículo es franco en que las herramientas difieren mucho en costo: las tarjetas de modelo y las declaraciones de posicionalidad no necesitan software nuevo y solo arriesgan un cumplimiento superficial, mientras que los paneles de iguales y la participación de las partes interesadas requieren coordinación y adhesión institucional, y por eso recomienda una adopción por etapas y no un compromiso de todo o nada. Véase [[curriculum-design]] para ver dónde encajan en un programa.
 
 ## Concepciones erróneas comunes
 

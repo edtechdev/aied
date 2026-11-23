@@ -1,7 +1,7 @@
 ---
 title: Entrenamiento y ajuste fino de LLM
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-11-15T10:18:59-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
 connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
@@ -44,7 +48,7 @@ connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini
 
 ## Introducción
 
-El desarrollo de IA educativa choca con el mismo muro desde dos direcciones. Los modelos de lenguaje de propósito general reciben un postentrenamiento basado en la preferencia humana por la utilidad, lo que en la práctica significa responder con prontitud y exhaustividad; la tutoría exige lo contrario, porque el objetivo [[pedagogy|pedagógico]] es ayudar al estudiante a llegar a la respuesta en vez de entregársela. Al mismo tiempo, un modelo general no sabe nada de su currículo, su rúbrica ni la voz de su institución, y ninguna cantidad de ingeniería de prompts instala esas cosas de forma fiable.
+El desarrollo de IA educativa choca con el mismo muro desde dos direcciones. Los modelos de lenguaje de propósito general reciben un postentrenamiento basado en la preferencia humana por la utilidad, lo que en la práctica significa responder con prontitud y exhaustividad; la tutoría exige lo contrario, porque el objetivo [[pedagogy|pedagógico]] es ayudar al estudiante a llegar a la respuesta en vez de entregársela. Al mismo tiempo, un modelo general no sabe nada de su currículo, su [[rubrics|rúbrica]] ni la voz de su institución, y ninguna cantidad de ingeniería de prompts instala esas cosas de forma fiable.
 
 Esta página cubre las técnicas que cambian el modelo y no el texto que se le envía. Se sitúan en una **escalera de compromiso creciente**: el prompting, luego la recuperación, luego la adaptación eficiente en parámetros, luego el ajuste fino completo y, por último, el postentrenamiento con señales de preferencia o de recompensa. Cada peldaño cuesta más datos, más cómputo y más disciplina de evaluación que el anterior, y cada uno es una peor primera opción que el peldaño de abajo salvo que una medición concreta justifique la subida. Buena parte de la literatura de investigación solo informa de lo más alto de la escalera, lo que hace fácil que quien desarrolla recurra al entrenamiento cuando la recuperación habría bastado.
 
@@ -125,7 +129,7 @@ Los propios datos de entrenamiento son algo que los modelos pueden depurar: Edu-
 
 La misma maquinaria se dirige cada vez más a simular estudiantes, lo que cambia la economía de evaluar a un tutor: en vez de reclutar a quienes aprenden, se generan.
 
-La cautela es que los estudiantes simulados deben validarse como cualquier otro instrumento. Evaluar modelos ajustados e incitados sobre **382 diálogos reservados** de la mayor colección pública de diálogos reales de matemáticas entre estudiante y tutor —con siete métricas que abarcan aspectos lingüísticos, conductuales y cognitivos— produjo la prueba más directa del campo sobre si los estudiantes simulados se comportan como estudiantes ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Dos enfoques más presionan sobre la fidelidad: INSIDE ajusta LLM para que *actúen* y *piensen* como estudiantes, generando diálogo interno fundamentado en la Taxonomía de Bloom a través de dimensiones cognitivas, afectivas y de acción y entrenando con pares de rastros de pensamiento y acciones ([[inside-llm-student-simulator-reasoning-2026|Niousha et al., 2026]]), y los perfiles conscientes del historial condicionan la simulación a la trayectoria previa de un estudiante y no a una persona estática ([[history-aware-student-simulation|Duan et al., 2026]]). Para quien desarrolla, la lección práctica es que un simulador es un instrumento de medición y hereda todas las preguntas de validez que eso implica.
+La cautela es que los estudiantes simulados deben validarse como cualquier otro instrumento. Evaluar modelos ajustados e incitados sobre **382 diálogos reservados** de la mayor colección pública de diálogos reales de matemáticas entre estudiante y tutor —con siete métricas que abarcan aspectos lingüísticos, conductuales y cognitivos— produjo la prueba más directa del campo sobre si los estudiantes simulados se comportan como estudiantes ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Dos enfoques más presionan sobre la fidelidad: INSIDE ajusta LLM para que *actúen* y *piensen* como estudiantes, generando diálogo interno fundamentado en la [[bloom-taxonomy|Taxonomía de Bloom]] a través de dimensiones cognitivas, afectivas y de acción y entrenando con pares de rastros de pensamiento y acciones ([[inside-llm-student-simulator-reasoning-2026|Niousha et al., 2026]]), y los perfiles conscientes del historial condicionan la simulación a la trayectoria previa de un estudiante y no a una persona estática ([[history-aware-student-simulation|Duan et al., 2026]]). Para quien desarrolla, la lección práctica es que un simulador es un instrumento de medición y hereda todas las preguntas de validez que eso implica.
 
 Desaprender 16 componentes de conocimiento de Python de Mistral-7B reduce la exactitud hasta un nivel objetivo y el reaprendizaje guiado por un coach la recupera, lo que da a un simulador un estado de conocimiento ajustable en lugar de una persona incitada ([[simulating-novice-students-machine-unlearning-2026|Song, Guo y Lin (2026)]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "Déclarations d'utilisation et de divulgation de l'IA"
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
 connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
@@ -80,6 +84,8 @@ En passant en revue les recommandations sur l'IA générative des 50 université
 
 - **La divulgation entraîne une pénalité de confiance, et la légitimité en est le mécanisme avancé.** Dans treize expériences, menées pour la plupart auprès de panélistes en ligne américains et regroupées en 4,093 observations (θ = 0.81, z = 10.52, 95 % CI [0.66, 0.96]), un acteur qui divulguait son usage de l'IA était moins digne de confiance qu'un acteur qui se taisait ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke et Reimann (2025)]]). L'effet a résisté à six formulations de la divulgation, à un évaluateur qui savait déjà que l'IA avait été utilisée, et aux régimes obligatoires comme volontaires. C'est la contrepartie expérimentale du résultat d'enquête évoqué plus haut selon lequel les étudiants divulguant toujours encouraient plus de trois fois plus de risques d'accusation : la transparence elle-même peut coûter cher à celui qui divulgue. Le seul résultat de cet article tourné vers les étudiants est que les étudiants accordaient moins de confiance à une enseignante lorsqu'elle divulguait une [[automated-assessment|notation par l'IA]].
 - **Une étiquette de contenu change la description, pas le verdict.** Avec 617 adultes assignés au hasard à voir ou non une étiquette « Contenu généré par IA / Vidéo synthétique », l'étiquette abaissait l'authenticité perçue (moyennes de 4.92 sans et 4.21 avec) mais laissait la confiance (B = -0.130, p = 0.216), le risque, l'adoption et le partage inchangés ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang et Zhang (2026)]]).
+
+Les documents que les étudiants reçoivent réellement contiennent moins que ce que les enseignants qui les ont rédigés croient y avoir mis. [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud et al. (2026)]] ont codé 16 syllabi, déclarations de politique et travaux confiés volontairement par 56 enseignants d'une grande université publique du Midwest : une mention de permission et de reconnaissance était solide dans 59 % des cas, la protection des données restait silencieuse dans 75 % des cas, les règles de citation étaient solides dans 19 %, et 81 % ne comportaient aucune clause de révision. Les mêmes enseignants déclaraient à 71 % que les directives institutionnelles n'avaient façonné leurs documents de cours « pas du tout » ou « un peu », ce qui situe l'écart dans les directives autant que dans le syllabi. Une clause de divulgation ne vaut que par le gabarit et la norme de citation qui la soutiennent.
 
 ## Concevoir une divulgation efficace
 

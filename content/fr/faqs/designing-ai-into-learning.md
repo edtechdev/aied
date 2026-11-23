@@ -1,12 +1,12 @@
 ---
 title: "Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -27,6 +27,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -89,7 +94,7 @@ Les dispositifs sont régis par un critère de formation contre [[cognitive-offl
 
 ## Vérifier que l'alignement est réel
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|L'analyse de discours de McInnes et de ses collègues]] portant sur 14 documents d'orientation de l'enseignement supérieur avertit que des conseils formulés en termes d'efficacité, comme l'usage de l'IA générative pour rédiger des objectifs, des grilles d'évaluation et des plans de cours, produisent un [[assessment|alignement]] qui paraît aligné tout en négligeant la moitié constructive. Les objectifs, les activités et les évaluations sont générés comme des éléments distincts plutôt que comme des éléments interdépendants.
+[[mcinnes-salvaging-constructive-alignment-genai-2026|L'analyse de discours de McInnes et de ses collègues]] portant sur 14 documents d'orientation de l'enseignement supérieur avertit que des conseils formulés en termes d'efficacité, comme l'usage de l'IA générative pour rédiger des objectifs, des [[rubrics|grilles d'évaluation]] et des plans de cours, produisent un [[assessment|alignement]] qui paraît aligné tout en négligeant la moitié constructive. Les objectifs, les activités et les évaluations sont générés comme des éléments distincts plutôt que comme des éléments interdépendants.
 
 Leur remède est le reséquençage. Les enseignants devraient comprendre l'alignement constructif assez bien pour piloter, interroger et rejeter une sortie d'IA avant d'en déléguer une partie, car accepter une surface plausible est exactement la défaillance évaluative contre laquelle ils mettent leurs étudiants en garde. Là où l'IA est utilisée, ils plaident pour des systèmes [[rag|augmentés par récupération]] et bornés par l'institution, configurés selon les politiques et les normes de qualité locales plutôt que selon des réglages génériques entraînés sur internet.
 

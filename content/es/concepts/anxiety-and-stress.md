@@ -1,7 +1,7 @@
 ---
 title: Ansiedad y estrés
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,10 +12,14 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -25,7 +29,7 @@ ai_assist:
     date: "2026-10-09"
     agent: hermes-agent
 connected_concepts: [career-development-and-readiness, well-being, remote-proctoring, social-emotional-learning, affective-computing, affective-tutoring, academic-integrity, privacy, student-experience, motivation, self-regulated-learning, ai-literacy, equity-in-ai-education, ethics, teacher-role, assessment, social-norms-ai-use]
-connected_articles: [chatbots-oral-proficiency-efl-systematic-review, mu-ai-competence-ethical-awareness-anxiety-2026, ai-anxiety-strategic-regulation-writing-2026, aivaluate-anxiety-assessment-2026, ai-campus-wellbeing-tools, affective-text-wearable-student-health, academic-dishonesty-automated-proctoring-ai-2026, automated-online-exam-proctoring-decade-review-2026, moral-panic-genai-classroom, acceptance-ai-english-tools-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, qu-wang-disclose-or-not-genai-2026, kim-ai-anxiety-comprehensive-analysis, wang-career-adapt-abilities-ai-anxiety-english-2026, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, farazouli-navigating-uncertainty-teachers-genai-2026, culturally-aware-student-stress-chatbot-2026, school-support-ai-learning-anxiety-control-value-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, chick-faculty-development-ethical-ai-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, parlant-emotional-micro-interventions-2026, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-attitude-latent-profiles-career-development-2026, ai-speaking-practice-communicative-readiness-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, tischkau-ai-simulated-patient-formats-2026]
+connected_articles: [academic-dishonesty-automated-proctoring-ai-2026, acceptance-ai-english-tools-2026, affective-text-wearable-student-health, ai-anxiety-strategic-regulation-writing-2026, ai-attitude-latent-profiles-career-development-2026, ai-campus-wellbeing-tools, ai-employment-threat-career-anxiety-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-speaking-practice-communicative-readiness-2026, aivaluate-anxiety-assessment-2026, automated-online-exam-proctoring-decade-review-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, chatbots-oral-proficiency-efl-systematic-review, chick-faculty-development-ethical-ai-2026, culturally-aware-student-stress-chatbot-2026, dag-ai-perceptions-career-anxiety-health-2026, duan-ai-anxiety-career-decisions-college-2026, farazouli-navigating-uncertainty-teachers-genai-2026, kim-ai-anxiety-comprehensive-analysis, moral-panic-genai-classroom, mu-ai-competence-ethical-awareness-anxiety-2026, parlant-emotional-micro-interventions-2026, perceived-ai-intelligence-medical-students-mental-health-2026, petricini-ai-literacy-communication-equity-2026, qu-wang-disclose-or-not-genai-2026, school-support-ai-learning-anxiety-control-value-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, tischkau-ai-simulated-patient-formats-2026, ustun-ai-anxiety-job-finding-anxiety-2026, vassallo-ai-guilt-complex-faculty-2026, wang-career-adapt-abilities-ai-anxiety-english-2026, watson-rainie-ai-challenge-faculty-survey-2026, zhao-genai-stress-scale-k12-teachers-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -64,6 +68,9 @@ Más allá de la supervisión de exámenes, el propio uso de la IA genera ansied
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] encuentra que **la ansiedad ante la IA puede ser productiva**: una mayor ansiedad ante la IA se asoció positivamente con conductas de verificación y revisión (β=0,24, p<0,01), y la capacidad evaluativa predijo una [[student-engagement|implicación]] activa (β=0,46, p<0,001). Los cuatro tipos regulatorios de Kim (Dependencia acrítica 18,7%, Integración selectiva 34,6%, Transformación evaluativa 31,8%, Rechazo estratégico 14,9%) muestran que el escrutinio impulsado por la ansiedad puede transformar al estudiantado en personas usuarias más deliberadas y autorreguladas de la [[generative-ai|IA generativa]], en lugar de adoptantes pasivas. Esto reencuadra la ansiedad ante la IA: de barrera pasa a ser una señal potencialmente útil que fomenta un escrutinio más atento.
 
 Ese reencuadre tiene un límite en la expresión oral: entre 708 [[multilingual-learning|estudiantes de inglés]], el vínculo entre ansiedad al hablar y disposición a comunicarse fue de −0,371 con una autoeficacia oral baja pero de +0,137 con una alta, y solo 55 participantes (7,8%) quedaban por encima del umbral superior de Johnson-Neyman ([[ai-speaking-practice-communicative-readiness-2026|Wang y Li (2026)]]).
+
+- **Una segunda interacción, en la dirección opuesta.** Entre 898 estudiantes universitarios chinos y malayos, la pendiente de la autoeficacia a la disposición fue de 0,24 con ansiedad oral baja y de 0,52 con ansiedad alta, así que la eficacia se convertía en disposición más fácilmente a medida que aumentaba la ansiedad ([[chen-human-ai-conversation-l2-willingness-to-communicate-2026|Chen y Wang, 2026]]).
+- **Un constructo de estrés del lado docente distinto de la ansiedad ante la IA.** [[zhao-genai-stress-scale-k12-teachers-2026|Zhao, Li, Fang y Long (2026)]] desarrollaron y validaron inicialmente la Escala de Estrés por IAG para docentes chinos de K-12 (T-GenAISS) con 612 respondentes, modelando el estrés por IAG como una valoración transaccional —demandas que superan los recursos— y no como un miedo flotante a la tecnología. Surgieron siete dimensiones, entre ellas la dependencia tecnológica, la sustitución laboral, la violación de la privacidad y la transgresión ética, de modo que el constructo está ligado al estímulo y es específico del profesorado en lugar de una instancia renombrada de la ansiedad ante la IA de quien aprende.
 
 - [[acceptance-ai-english-tools-2026|Los estudios de aceptación]] muestran que la ansiedad determina si quienes aprenden adoptan herramientas de IA, y [[teacher-education-ai-literacy-sdt-2026|la investigación sobre formación docente]] vincula la ansiedad ante la IA con la motivación y la [[self-regulated-learning|autorregulación]].
 - **El dilema de la declaración.** En una encuesta a 409 estudiantes de grado, la comodidad con el profesorado y la percepción de que los pares lo declaran —y no la desvinculación moral— fueron los predictores más fuertes de declarar el uso de IA generativa, y la no declaración se leía como una adaptación estratégica a las normas de los pares y a una baja confianza interpretativa, y no como negligencia ([[qu-wang-disclose-or-not-genai-2026|Qu y Wang (2026)]]).

@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,10 +9,14 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -65,6 +69,7 @@ Las estrategias de enseñanza y las pedagogías individuales forman un conjunto 
 La [[research-methods-aied|investigación]] examina la pedagogía en la intersección de la IA y la enseñanza de varias maneras:
 
 - **La IA como agente pedagógico.** Las herramientas de IA encarnan pedagogías: un [[intelligent-tutoring|tutor]] construido sobre el [[socratic-method|cuestionamiento socrático]] incita a quien aprende a razonar, mientras que un chatbot que genera respuestas puede recurrir por defecto a darlas directamente (véase [[reducing-ai-misuse]] sobre por qué importa la postura pedagógica). La literatura sobre [[agentic-ai|IA agéntica]] muestra que fundamentar los agentes en la teoría del diseño instruccional supera a la [[prompt-engineering|ingeniería de prompts]] sin más. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reformulan este papel de manera formal: en lugar de una relación diádica entre instructor y [[student-modeling|modelo del estudiantado]] con la IA generativa como suplemento o amenaza externa, proponen un **modelo triádico anidado de instructor, estudiantado e IA generativa** en el que la IA generativa opera como *mediador didáctico-pedagógico* acotado dentro de un espacio compartido de mediación didáctica gobernado por instituciones y actores, y del que se derivan cinco proposiciones investigables sobre la mediación del aprendizaje, la transformación del papel docente, la alfabetización en IA y la agencia de quien aprende, la [[process-oriented-assessment|evaluación procesual y transparente respecto a la IA]], y la [[governance]] institucional.
+- **La fundamentación es estructural, no estilística.** En 25.795 escenarios de diseño instruccional generados en [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]], los agentes que combinan marcos clásicos de diseño instruccional con razonamiento superaron tanto a las configuraciones basadas solo en la teoría como a las basadas solo en la técnica, lo que muestra que la fundamentación pedagógica es una ventaja arquitectónica y no un estilo de prompting.
 - **La pedagogía determina el efecto de la IA.** Un hallazgo recurrente es que *cómo* se usa la IA importa tanto como *si* se usa. La [[instructional-guidance-genai-learning|investigación sobre la orientación instruccional]] y los [[generative-ai-guardrails-harm-learning|ensayos controlados aleatorizados con tutores con barreras]] muestran que la misma IA puede perjudicar o ayudar según el envoltorio pedagógico (pistas frente a respuestas, uso estructurado frente a uso abierto).
 - **El conocimiento pedagógico pesa más que el técnico.** En 46 docentes y 2.832 estudiantes, el conocimiento pedagógico de la IA del profesorado predijo las percepciones del estudiantado sobre la IA para el bien social y su intención de aprender IA, mientras que el conocimiento técnico por sí solo resultó insuficiente, y ninguno de los dos predijo el conocimiento de IA del estudiantado ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **Descargar trabajo administrativo es donde más claramente contribuye la IA.** Una revisión PRISMA de 28 estudios encontró que la IA mejoraba con mayor frecuencia la planificación didáctica y el diseño de la [[assessment|evaluación]], y que su beneficio más reportado era la automatización de la calificación, la retroalimentación y el seguimiento del progreso (18 estudios, 64,2%), mientras que la alineación pedagógica era el desafío más citado (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar e Ilgaz (2026)]]).

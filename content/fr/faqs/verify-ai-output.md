@@ -1,7 +1,7 @@
 ---
 title: "Comment apprendre aux étudiants à vérifier les productions de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T02:02:25-05:00"
 translation_of: faqs/verify-ai-output
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -26,13 +26,18 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
 C'est la semaine avant la remise des notes et deux copies citent des sources qui n'existent pas. Les deux étudiants affirment avoir vérifié. L'un a ouvert le lien. L'autre a lu le paragraphe et a décidé que cela sonnait juste. Vous avez déjà dit à cette classe de vérifier ce que le [[conversational-ai|chatbot]] lui donne, et le fait de le dire n'a pas produit le comportement.
 
-La vérification est une séquence que vous pouvez intégrer à un devoir. Décidez de ce qui compte comme correct avant que la tâche commence, faites consigner à l'étudiant une attente par écrit, renvoyez-le au document de référence plutôt qu'à son impression de la prose, et évaluez la trace qu'il produit. Une ligne de barème qui dit « sources vérifiées » ne mesure rien de tout cela.
+La vérification est une séquence que vous pouvez intégrer à un devoir. Décidez de ce qui compte comme correct avant que la tâche commence, faites consigner à l'étudiant une attente par écrit, renvoyez-le au document de référence plutôt qu'à son impression de la prose, et évaluez la trace qu'il produit. Une ligne de [[rubrics|grille d'évaluation]] qui dit « sources vérifiées » ne mesure rien de tout cela.
 
 ## La version courte
 
@@ -56,6 +61,8 @@ La même revue trace une seconde ligne, entre la [[trust|confiance]] et le fait 
 
 Voilà la conséquence pour la conception, et c'est la première chose à corriger. Avant de fixer une tâche de vérification, écrivez deux courtes descriptions : à quoi ressemble une production correcte pour cette tâche, et à quoi ressemble une production plausible mais fausse. Une de chaque suffit. Les étudiants disposent alors d'une norme à laquelle se rapporter, et vous avez de quoi évaluer la vérification autrement qu'en jugeant si l'étudiant semble prudent.
 
+
+La littérature de recherche n'a pas rattrapé ce conseil. Une revue systématique de 65 études empiriques (2022–2026) a constaté qu'aucune n'enseignait aux apprenants les critères de jugement des productions de l'IA, et que les étayages de littératie en rétroaction n'apparaissaient dans aucune d'elles — les dispositifs invitaient à faire des pauses et à s'expliquer tout en présupposant une norme qu'ils ne fournissaient jamais ([[yu-verification-without-criteria-2026|Yu et al., 2026]]).
 ## Faites-les s'engager avant que l'outil réponde
 
 [[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]] construit un dispositif de mesure autour du principe *prédire avant d'exécuter* : l'apprenant énonce ce qui devrait se produire, puis le comportement de l'artefact est jugé par rapport à cette prédiction sur des critères de domaine plutôt que sur sa capacité à s'exécuter. Le raisonnement existe avant la production, et c'est ce qui le rend évaluable.

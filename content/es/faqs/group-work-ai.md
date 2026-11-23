@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo debería manejar la IA en los trabajos grupales y colaborativos?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -33,11 +33,15 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-La presentación en grupo vuelve pulida y coherente, y ni un solo miembro sabe explicar el argumento que contiene. O las notas salen igualadas y usted se entera después de que un estudiante pasó todo el trabajo por [[generative-ai|IA generativa]] mientras otros tres se dejaron llevar por la nota compartida. Nada en el expediente le dice cuál de esas dos cosas ocurrió, y su rúbrica tiene una línea de colaboración que todo el mundo cumplió.
+La presentación en grupo vuelve pulida y coherente, y ni un solo miembro sabe explicar el argumento que contiene. O las notas salen igualadas y usted se entera después de que un estudiante pasó todo el trabajo por [[generative-ai|IA generativa]] mientras otros tres se dejaron llevar por la nota compartida. Nada en el expediente le dice cuál de esas dos cosas ocurrió, y su [[rubrics|rúbrica]] tiene una línea de colaboración que todo el mundo cumplió.
 
 La respuesta que daría a un colega: decida el lugar de la IA tarea por tarea y no curso por curso, convierta la negociación del grupo sobre la IA en algo que el grupo entrega y usted califica, secuencie el trabajo de modo que no pueda dividirse en sesiones paralelas de chatbot, y mantenga al menos un componente que cada miembro responda solo. Todo esto es diseño de tareas, y nada de ello se ha probado contra un control sin IA, así que usted está haciendo un argumento de diseño y no aplicando una solución probada.
 

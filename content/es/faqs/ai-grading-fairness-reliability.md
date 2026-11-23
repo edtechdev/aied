@@ -1,7 +1,7 @@
 ---
 title: "¿Puedo usar la IA para calificar el trabajo de los estudiantes de forma justa y fiable?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -24,11 +24,15 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-Tiene una rúbrica en la que cree, más entregas que horas y una herramienta que devuelve una nota y varios párrafos seguros de sí mismos en el tiempo que tarda en leer un ensayo. La prueba con trabajo que ya calificó. La mitad de las notas parecen correctas. Una es extrañamente generosa, otra extrañamente dura, y todavía no puede saber si eso es la herramienta o el ensayo.
+Tiene una [[rubrics|rúbrica]] en la que cree, más entregas que horas y una herramienta que devuelve una nota y varios párrafos seguros de sí mismos en el tiempo que tarda en leer un ensayo. La prueba con trabajo que ya calificó. La mitad de las notas parecen correctas. Una es extrañamente generosa, otra extrañamente dura, y todavía no puede saber si eso es la herramienta o el ensayo.
 
 Respuesta breve para dar a un colega: la calificación con IA se gana un lugar como asistente supervisado o como segundo lector, en tareas donde la ha contrastado con trabajo que ya había puntuado. La concordancia no se traslada entre tipos de evaluación. En un examen de farmacia con dieciséis estudiantes, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] encontraron una concordancia casi perfecta en los tipos de ítem objetivos y una concordancia no fiable en las respuestas abiertas. En tres universidades inglesas, [[opraise-automated-marking-ai-assessment-2026|el proyecto OpRaise]] encontró que evaluadores de IA y humanos coincidían en la banda de grado entre el 35% y el 65% de las veces según la institución, con las notas comprimidas hacia el centro. Una justificación fluida no es evidencia de que se hayan aplicado sus criterios. Si el resultado es [[assessment-validity|válido para su decisión]] es una pregunta local que tiene que responder usted mismo, y [[human-in-the-loop-ai|una persona sigue siendo responsable]] de todo lo que se convierta en una nota registrada.
 

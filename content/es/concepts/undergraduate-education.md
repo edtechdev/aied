@@ -1,7 +1,7 @@
 ---
 title: "Educación de grado"
 created: "2026-11-15T10:10:19-05:00"
-updated: "2026-11-15T10:10:19-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
 assessment: [formative-assessment, assessment, learning-gains]
@@ -9,9 +9,13 @@ technology: [generative-ai, conversational-ai, intelligent-tutoring, llm]
 level: [undergraduate, higher ed]
 confidence: medium
 translation_of: concepts/undergraduate-education
-source_updated: "2026-11-15T06:35:59-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-15"
@@ -23,7 +27,7 @@ connected_articles: [guardrails-ai-teaching-assistants-programming-2026, genai-u
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** La educación de grado es donde la IA se encuentra con las clases más numerosas y la [[assessment|evaluación]] más estandarizada: cursos de acceso en primero y segundo año en los que un docente enseña a varios cientos de estudiantes con una rúbrica compartida. Los ensayos en este nivel se dividen por el diseño, no por el modelo. Un tutor construido a partir de la propia pedagogía de un curso superó al [[active-learning|aprendizaje activo]] en el aula, mientras que un asistente de curso bien fundamentado pero desplegado sin integración instruccional bajó las notas y la participación. La evidencia más sólida se refiere a la [[feedback|retroalimentación]] a escala, a los [[scaffolding|andamiajes]] para la [[help-seeking|búsqueda de ayuda]], a los materiales de estudio verificados y a la divulgación que mueve plazos administrativos; la más débil, a las afirmaciones de que un asistente general eleva lo que el alumnado puede hacer sin ayuda.
+> **Síntesis:** La educación de grado es donde la IA se encuentra con las clases más numerosas y la [[assessment|evaluación]] más estandarizada: cursos de acceso en primero y segundo año en los que un docente enseña a varios cientos de estudiantes con una [[rubrics|rúbrica]] compartida. Los ensayos en este nivel se dividen por el diseño, no por el modelo. Un tutor construido a partir de la propia pedagogía de un curso superó al [[active-learning|aprendizaje activo]] en el aula, mientras que un asistente de curso bien fundamentado pero desplegado sin integración instruccional bajó las notas y la participación. La evidencia más sólida se refiere a la [[feedback|retroalimentación]] a escala, a los [[scaffolding|andamiajes]] para la [[help-seeking|búsqueda de ayuda]], a los materiales de estudio verificados y a la divulgación que mueve plazos administrativos; la más débil, a las afirmaciones de que un asistente general eleva lo que el alumnado puede hacer sin ayuda.
 
 ## Preguntas para reflexionar
 

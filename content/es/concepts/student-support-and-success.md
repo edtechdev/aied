@@ -1,7 +1,7 @@
 ---
 title: Apoyo y éxito estudiantil
 created: "2026-10-02T01:17:18-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-19T10:16:37-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-02"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
 connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
@@ -112,3 +116,9 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 **«La escalera de resultados se colapsa: la implicación es la retención.»** Cada peldaño mide algo distinto —adherirse, responder, persistir, completar— y un programa puede mover los peldaños inferiores dejando planos los superiores. Informar la proporción de respuestas como un éxito comete precisamente esa sustitución.
 
 **«Una preocupación de equidad es una razón para dejar de usar los datos.»** Es una razón para actuar sobre las puntuaciones con cuidado. Actuar sobre un predictor puede distribuir apoyo y puede distribuir sospecha, y el riesgo se concentra en el estudiantado que el modelo clasifica de forma menos favorable, lo que hace que el remedio sea la gobernanza del uso y no el abandono de la medición.
+
+## Chatbots frente a sitios web para la información institucional
+
+Los servicios al estudiantado atienden cada vez más preguntas a través de un asistente conversacional, y un experimento aleatorizado de 2026 puso a prueba directamente la disyuntiva: 299 personas adultas de 18 a 25 años buscaron cinco datos sobre un programa a través del sitio web de una universidad o de un asistente GPT-4o fundamentado en los PDF del programa. El chatbot fue más rápido (312 s frente a 505 s) y más exacto (95,6% frente a 78,5%, OR = 7,84), y obtuvo mejor valoración en todas las medidas perceptivas excepto en la intención conductual, que no difirió ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
+
+La excepción es la operativamente importante: en la pregunta sobre a quién contactar por una convalidación de asignatura, el sitio web ganó, 96,5% frente a 85,2%. La información vinculada a una persona o a una oficina con nombre es donde un sitio navegable sigue ganando a una respuesta generada, de modo que el asistente se despliega mejor como una capa sobre el sitio que como su sustituto.

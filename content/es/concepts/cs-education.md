@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: Enseñanza de la informática
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,6 +30,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
 connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
@@ -151,7 +155,7 @@ La educación en ciencias de la computación se conecta con [[computational-thin
 - **La supervisión trata de la idoneidad, no de la corrección (2026):** Al codificar 962 turnos de estudiantes e IA de 145 estudiantes de primer año de ingeniería de software, [[novice-se-students-oversight-genai-2026|Shakiba y Chaffey (2026)]] encontraron que el 74,4% de las intervenciones nombraban problemas de idoneidad frente al 16,9% que nombraban la corrección, y que el 51,0% de las respuestas modificaban la salida y no el prompt.
 - **«Que haya acuerdo sobre el código significa que el calificador lee el código.»** Los dos evaluadores humanos del benchmark coincidieron en **0,815** en respuestas de C++: **cuatro** modelos los superaron con un intervalo por encima del 100% de ese techo y **catorce** quedaron por debajo, hasta el **33%**. En la misma tarea de código, una nota que pedía la puntuación completa elevó la calificación de Qwen3 235B en **83,2% de la escala**, y siete modelos de la batería dieron crédito a respuestas en blanco, así que [[porcaro-ai-grading-benchmark-2026|una pasada de calificación sobre código de estudiantado necesita pruebas de fallo junto al número de acuerdo]].
 
-- **«El efecto es el mismo en todas las etapas de un curso.»** Creció con el trabajo: en **60 programas Java completos** calificados con una rúbrica de **14 niveles**, el efecto de la etiqueta fue **2,8 veces** su tamaño en respuestas cortas con GPT-4.1-mini y **2,4 veces** con Qwen, aunque solo **0,4 veces** con Gemini. [[porcaro-ai-grader-reliability-2026|La tarea y la rúbrica forman parte de lo que el efecto mide]], así que un tamaño validado con respuestas cortas no se transfiere a programas.
+- **«El efecto es el mismo en todas las etapas de un curso.»** Creció con el trabajo: en **60 programas Java completos** calificados con una [[rubrics|rúbrica]] de **14 niveles**, el efecto de la etiqueta fue **2,8 veces** su tamaño en respuestas cortas con GPT-4.1-mini y **2,4 veces** con Qwen, aunque solo **0,4 veces** con Gemini. [[porcaro-ai-grader-reliability-2026|La tarea y la rúbrica forman parte de lo que el efecto mide]], así que un tamaño validado con respuestas cortas no se transfiere a programas.
 
 ## Concepciones erróneas
 

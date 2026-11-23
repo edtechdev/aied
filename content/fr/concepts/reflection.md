@@ -12,15 +12,19 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-05"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
 connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026, nuzzo-ai-reflective-partner-tpack-2026]
@@ -47,7 +51,7 @@ Deux autres distinctions organisent la littérature. La première est la *profon
 
 ## Comment la réflexion se rapporte à l'auto-évaluation, à la métacognition et aux portfolios
 
-Le travail de démarcation importe ici plus que sur la plupart des pages de concepts, car quatre pages adjacentes possèdent chacune une partie du territoire, et les praticiens emploient couramment les termes de manière interchangeable dans leurs grilles d'évaluation.
+Le travail de démarcation importe ici plus que sur la plupart des pages de concepts, car quatre pages adjacentes possèdent chacune une partie du territoire, et les praticiens emploient couramment les termes de manière interchangeable dans leurs [[rubrics|grilles d'évaluation]].
 
 Ce qu'elles **partagent** est réel. Toutes ramènent l'attention de l'apprenant sur son propre travail, toutes sont associées à [[agency|l'agentivité]] et à la conscience de soi, toutes peuvent être étayées et toutes peuvent être réalisées pour une note. Chacune d'elles est aussi en train d'être réécrite par l'IA générative dans la même période, ce qui explique pourquoi les mêmes études reviennent sur ces pages. La réflexion est celle du groupe dont le produit est un *texte*, et c'est là que la ressemblance familiale cesse d'être utile.
 
@@ -115,6 +119,8 @@ Pour les enseignants, le construit fait double emploi avec le [[educational-deve
 [[teachers-reflective-regulators-cognition-offloading|Ho et Chen (2026)]] ajoutent la perspective du processus à partir de 18 enseignants en Chine continentale et à Hong Kong, dont les récits se résolvent en reconnaissance du besoin d'utiliser la GenAI, redistribution de la cognition et réengagement réflexif après l'utilisation. [[reflective-triangle-model-teacher-ai-2026|le modèle du triangle réflexif (2026)]] relie la réflexion individuelle, la réflexion collaborative et la réflexion communautaire au sein d'une communauté d'apprentissage professionnelle dans une étude de cas de quatre semaines avec six enseignants, l'IA servant de médiateur cognitif plutôt que d'évaluateur.
 
 La préparation importe aussi indépendamment de l'outil. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] ont croisé une formation aux stratégies métacognitives avec un module placebo et un LLM configuré comme partenaire de réflexion [[socratic-method|socratique]] par rapport à des outils numériques traditionnels, dans un plan 2 × 2 avec 60 enseignants en formation initiale. Les deux effets principaux étaient significatifs pour la qualité de la réflexion écrite au post-test.
+
+La réflexion peut aussi être déclenchée par les limites de l'outil lui-même. Dans une étude de cas unique de trois semaines, [[nuzzo-ai-reflective-partner-tpack-2026|Nuzzo et De Marco (2026)]] ont suivi une enseignante d'humanités du secondaire concevant une leçon sur le *Laborintus* de Sanguineti : la lecture par la GenAI était fluide mais ramenait le poème à des catégories génériques, et l'écart entre la plausibilité rhétorique et la précision herméneutique a produit ce que les auteurs appellent dissonance pédagogique et recadrage réflexif. Plutôt qu'accepter ou écarter la production, elle a reconstruit la fiche de travail autour de « Qu'est-ce que l'IA a manqué ? », transformant l'interprétation générée en objet d'examen par les élèves. La co-agence humain–IA est restée asymétrique tout au long — le système offrait des alternatives, tandis que la responsabilité épistémique et pédagogique demeurait celle de l'enseignante.
 
 Dans une cartographie de 26 études sur l'IA dans l'apprentissage par le service, la réflexion était la phase la moins servie — trois études l'atteignaient et une seule couvrait les quatre — si bien que la phase qui transforme le service en apprentissage est celle où le soutien de l'IA est le plus ténu ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 

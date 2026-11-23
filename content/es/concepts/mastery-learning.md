@@ -6,15 +6,19 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [adaptive-learning, personalized-learning, intelligent-tutoring, knowledge-tracing, student-modeling, self-regulated-learning, formative-assessment, desirable-difficulties, retrieval-spacing-interleaving]
 connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, neural-symbolic-knowledge-tracing, mesny-innovative-assessment-grading-management-2026, crediting-assisted-work-inflates-mastery-2026, simulating-learner-task-selection, schuetze-knowledge-tracing-forgetting-2026]
@@ -58,7 +62,7 @@ Por último, la evidencia advierte contra dar por supuesto que el apoyo generado
 
 - **El aprendizaje para el dominio de control compartido es tan eficiente como la estrategia de selección de tareas de quien aprende.** Un estudio de simulación (1.000 [[simulating-students|estudiantes simulados]] por ejecución, con parámetros de AFM y BKT ajustados a registros reales de MathTutor y DataShop) comparó nueve estrategias de selección de tareas. La eficiencia varía en un orden de magnitud: la estrategia aversa al riesgo de «minimizar la peor pérdida» —elegir la habilidad cuya peor pérdida de dominio es menor— produce 30,28x de sobrepráctica en la resolución de ecuaciones (28,93x en la interpretación de gráficos), frente a 1,73 ± 0,38 de media para las demás estrategias. Las restricciones del sistema lo rescatan de forma quirúrgica: las restricciones de selección de tareas reducen la sobrepráctica a 12,88/14,46x, y un sesgo de selección de problemas de «preferir lo más difícil» la reduce a 1,98x (d de Cohen = 1,86), mientras que las estrategias ya eficientes no se ven afectadas. La implicación de diseño es que las restricciones deben ser conscientes de la estrategia: proteger a quienes se autorregulan de forma patológica sin penalizar a quienes lo hacen bien, y el rediseño mediante simulación en primer lugar evita exponer al estudiantado a 30x de sobrepráctica para descubrir después la solución. ([[simulating-learner-task-selection|Noh et al., 2026]])
 
-La calificación basada en estándares es la contraparte evaluativa del aprendizaje para el dominio, y [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] la identifican entre cinco prácticas innovadoras alineadas con la «evaluación para el aprendizaje» que el profesorado de educación superior podría adoptar, pero la encuentran prácticamente ausente del discurso de la educación en gestión. Lo atribuyen a barreras normativas: la calificación normativa «por curva», el señalamiento externo (rankings, prácticas, acreditación) y la mentalidad instrumental del estudiantado resisten los enfoques orientados al dominio y sin notas. Su recomendación es la experimentación incremental —por ejemplo, introducir rúbricas basadas en estándares para una sola tarea antes de escalarlas— con el apoyo de una coordinación a nivel de programa y evidencia documentada del Scholarship of [[teacher-role|Teaching]] and Learning.
+La calificación basada en estándares es la contraparte evaluativa del aprendizaje para el dominio, y [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] la identifican entre cinco prácticas innovadoras alineadas con la «evaluación para el aprendizaje» que el profesorado de educación superior podría adoptar, pero la encuentran prácticamente ausente del discurso de la educación en gestión. Lo atribuyen a barreras normativas: la calificación normativa «por curva», el señalamiento externo (rankings, prácticas, acreditación) y la mentalidad instrumental del estudiantado resisten los enfoques orientados al dominio y sin notas. Su recomendación es la experimentación incremental —por ejemplo, introducir [[rubrics|rúbricas]] basadas en estándares para una sola tarea antes de escalarlas— con el apoyo de una coordinación a nivel de programa y evidencia documentada del Scholarship of [[teacher-role|Teaching]] and Learning.
 
 ## Concepciones erróneas
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos abordar las concepciones erróneas más comunes sobre la IA en educación?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-11-19T19:35:52-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 connected_podcasts: [confident-and-wrong-misconceptions]
 connected_videos: [ai-myths-in-education]
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -60,7 +64,7 @@ Cinco creencias deciden si el resto del argumento importa. Cada una toma una se�
 
 En un experimento de campo con casi 1.000 estudiantes de [[math-education|matemáticas]] de secundaria, el acceso sin restricciones a la IA generativa mejoró el rendimiento durante la práctica asistida y redujo el rendimiento posterior en el examen sin ayuda. Una versión con barreras de protección que ofrecía pistas en lugar de respuestas completas eliminó el [[ai-misuse-learning-harm|daño al aprendizaje]] observado ([[generative-ai-guardrails-harm-learning|Generative AI Without Guardrails Can Harm Learning]]). Ambos resultados son reales y se sitúan en medidas distintas: solo una de ellas es la medida que certifica un expediente académico. El estudio le da una dirección y ningún tamaño del efecto para su curso.
 
-Los estudiantes hacen la misma inferencia con su propio trabajo, y la respuesta es la misma: el producto muestra lo que el estudiante y la herramienta produjeron juntos. Cuatro preguntas formuladas con la ventana de chat cerrada le dicen qué ocurrió. ¿Pueden explicar el razonamiento? ¿Resolver un problema similar? ¿Encontrar las debilidades en la respuesta generada? ¿Llevar la idea a un contexto nuevo? Si las respuestas honestas son no, está usted ante un rendimiento asistido bajo el nombre de aprendizaje. Incluya una de esas cuatro en la [[assessment|evaluación]] y dígalo en la rúbrica.
+Los estudiantes hacen la misma inferencia con su propio trabajo, y la respuesta es la misma: el producto muestra lo que el estudiante y la herramienta produjeron juntos. Cuatro preguntas formuladas con la ventana de chat cerrada le dicen qué ocurrió. ¿Pueden explicar el razonamiento? ¿Resolver un problema similar? ¿Encontrar las debilidades en la respuesta generada? ¿Llevar la idea a un contexto nuevo? Si las respuestas honestas son no, está usted ante un rendimiento asistido bajo el nombre de aprendizaje. Incluya una de esas cuatro en la [[assessment|evaluación]] y dígalo en la [[rubrics|rúbrica]].
 
 ### "A los estudiantes les gusta la retroalimentación, así que la retroalimentación funciona."
 

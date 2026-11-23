@@ -2,7 +2,7 @@
 title: "Notation automatisée de dissertations"
 connected_resources: [moodle-qtype-aitext]
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
 connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
@@ -57,7 +61,7 @@ Dans l'écriture de réponse à un texte en fin d'école élémentaire, [[corren
 
 - **Les traces de raisonnement comme explication.** [[xu-explainable-ai-essay-scoring-cot-2026|Xu et al. (2026)]] ajustent des modèles Qwen pour raisonner à travers les quatre traits de l'IELTS avant de noter, puis appliquent un PPO sur les préférences des examinateurs. Le QWK moyen est passé de 0.5253 (7B, CoT seul) à 0.5410 (72B), tandis que le BLEU de la rétroaction est passé de 0.2371 à 0.2873 avec PPO et CoT ; l'échelle seule n'a ajouté que peu, soit 2.5% de BLEU de 7B à 72B.
 
-- **L'auditabilité comme cible de notation.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] construit un pipeline ASAP dont la couche de rétroaction attache des preuves tirées de la copie à chaque trait faible et expose un indicateur de révision par l'enseignant. Le QWK macro était de 0.738 contre 0.739 pour son meilleur notateur pur, tandis que la rétroaction ancrée dans la grille atteignait un Trait Recall@2 de 0.829 et un taux de preuves valides de 0.912 là où une rétroaction fondée uniquement sur la grille ne citait rien.
+- **L'auditabilité comme cible de notation.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] construit un pipeline ASAP dont la couche de rétroaction attache des preuves tirées de la copie à chaque trait faible et expose un indicateur de révision par l'enseignant. Le QWK macro était de 0.738 contre 0.739 pour son meilleur notateur pur, tandis que la rétroaction ancrée dans les [[rubrics|grilles d'évaluation]] atteignait un Trait Recall@2 de 0.829 et un taux de preuves valides de 0.912 là où une rétroaction fondée uniquement sur la grille ne citait rien.
 - **La notation au niveau des dimensions est bornée par les données derrière chaque dimension.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] ont entraîné un classificateur par dimension du cadre de [[critical-thinking|pensée critique]] FRISCO d'Ennis sur 106 dissertations de physique de terminale indonésienne (83 pour l'entraînement, 23 pour le test, trois enseignants-évaluateurs s'accordant à kappa 0.78–0.84 sur chaque dimension). L'accord s'est concentré sur l'expression plutôt que sur le raisonnement : le kappa quadratique pondéré a atteint 0.763 pour Clarity et 0.728 pour Situation mais seulement 0.374 pour Focus, 0.332 pour Reason et 0.227 pour Inference. Le signal ordinal a été fabriqué plutôt qu'observé. Des dissertations synthétiques de niveau 1 (construites à partir de gabarits, réduites à 20–40% de leur longueur d'origine, mots-clés retirés) auxquelles s'ajoute la paraphrase par LLM ont fait grimper Focus de +0.346 kappa par rapport à une base de 0.028 — et une configuration a atteint 0.652 d'exactitude avec un kappa nul ou négatif, si bien que l'exactitude n'est pas un critère de sélection utilisable en AES ordinal.
 
 **Les biais et l'équité** constituent une préoccupation critique. **[[ai-scoring-language-bias-physics|Feser et Tschisgale]]** ont constaté que la notation par IA sous-estime systématiquement les étudiants issus de milieux linguistiquement variés, soulignant la nécessité de prendre en compte la [[bias-mitigation|réduction des biais]] et l'[[equity-in-ai-education|équité]] dans le déploiement de l'AES. Un biais [[ai-scoring-language-bias-physics|linguistique]] dans la notation est une défaillance directe de validité.

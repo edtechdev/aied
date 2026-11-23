@@ -1,7 +1,7 @@
 ---
 title: "Quelles mesures et méthodes de recherche un enseignant peut-il utiliser pour évaluer les interventions liées à l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 55
 audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
@@ -24,6 +24,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -60,7 +65,7 @@ Le mode de défaillance est facile à reproduire. Un [[generative-ai|outil polyv
 
 La synthèse [[ai-ed-evaluation|Évaluation en IA éducative]] recommande le gain d'apprentissage sans assistance, la rétention différée, le transfert à une nouvelle tâche, la qualité du raisonnement, les [[misconceptions|conceptions erronées]], l'appropriation du retour d'information et la performance des sous-groupes. L'engagement, la satisfaction, les journaux d'utilisation de l'IA, le [[self-efficacy|sentiment d'efficacité personnelle]] et l'[[technology-acceptance-model|utilité perçue]] sont des mesures secondaires raisonnables et de piètres substituts à l'apprentissage. La charge de travail et les gains de temps relèvent des résultats de mise en œuvre, ce qui est une autre question.
 
-Le minimum à l'échelle de la classe comprend une mesure de base, l'intervention, une post-mesure immédiate et une mesure ultérieure sans assistance. Ajoutez une condition de comparaison lorsque vous le pouvez : la pratique habituelle, l'absence d'IA, une IA sans encadrement opposée à une IA étayée, ou deux conceptions alternatives. Notez la performance assistée et la performance non assistée sur des instruments distincts, car une seule grille d'évaluation les mélangera.
+Le minimum à l'échelle de la classe comprend une mesure de base, l'intervention, une post-mesure immédiate et une mesure ultérieure sans assistance. Ajoutez une condition de comparaison lorsque vous le pouvez : la pratique habituelle, l'absence d'IA, une IA sans encadrement opposée à une IA étayée, ou deux conceptions alternatives. Notez la performance assistée et la performance non assistée sur des instruments distincts, car une seule [[rubrics|grille d'évaluation]] les mélangera.
 
 ## Lisez tout chiffre comme une hypothèse
 

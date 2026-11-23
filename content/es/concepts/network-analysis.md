@@ -1,19 +1,23 @@
 ---
 title: Análisis de redes
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
 connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
@@ -71,7 +75,8 @@ Los métodos de redes se usan en toda la base de evidencia para responder pregun
 1. **Preferir métodos de proceso frente a métricas solo de producto.** Para evaluar si las herramientas de IA apoyan el aprendizaje, modelar cómo interactúa realmente el estudiantado (aprovechamiento, diálogo, revisión) con métodos de secuencia y de redes, en lugar de depender solo de las puntuaciones finales.
 2. **Usar el ENA para comparar la estructuración cognitiva.** Cuando se pregunta cómo estructuran su razonamiento distintos estudiantes o modos (humano frente a IA), el ENA ofrece una comparación visual y directa de redes de coocurrencia: una técnica muy adecuada para el [[student-modeling|modelado del estudiantado]] de cómo quien aprende conecta ideas.
 3. **Validar la codificación automatizada.** Con grandes conjuntos de registros, la clasificación basada en [[llm|LLM]] es potente, pero debe contrastarse con la codificación humana (informar del acuerdo entre evaluadores) antes de interpretar la estructura de la red.
-4. **Diseñar para la diferenciación.** El análisis de redes revela a menudo que la *misma* herramienta de IA produce patrones de interacción distintos entre subgrupos de estudiantes, lo que informa un diseño adaptativo en lugar de una evaluación uniforme.
+4. **Tratar el entorno como un sistema.** El [[learning-environments-as-systems|enfoque de los entornos de aprendizaje como sistemas]] utiliza métodos de redes para operacionalizar la imagen de las partes y sus interacciones a través de los distintos niveles.
+5. **Diseñar para la diferenciación.** El análisis de redes revela a menudo que la *misma* herramienta de IA produce patrones de interacción distintos entre subgrupos de estudiantes, lo que informa un diseño adaptativo en lugar de una evaluación uniforme.
 
 ## Validación con ENA del diálogo colaborativo simulado
 

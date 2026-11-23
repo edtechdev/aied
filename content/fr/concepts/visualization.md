@@ -5,9 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 translation_of: concepts/visualization
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
 connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
@@ -58,11 +62,13 @@ Un second volet majeur porte sur l'IA produisant directement des visualisations.
 
 La génération de graphiques à partir d'une invite soulève une question différente de celle de savoir si l'IA peut produire une visualisation compétente : celle de savoir si l'apprenant accomplit encore le travail analytique et de codage qui rend l'artefact éducatif. Un cadre de 2026 nomme cela la fracture processus–résultat et propose la transparence, l'invitation et l'estompage comme ligne d'agentivité entre [[scaffolding|étayage]] et substitution ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
 
+La fréquence n'est pas la signification, et cet écart est un objet d'enseignement. Un nuage de mots généré à partir du manuscrit sur les pérovskites des auteurs a fait ressortir « PSC », « stabilité » et « PCE » tout en sous-pondérant « applications spatiales », « fabrication » et « modélisation du dispositif », et a inclus des mots non techniques comme « peut » et « un » ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra et Gong, 2026]]). Une carte mentale tirée du même brouillon organisait le domaine assez bien pour être utile, si bien que les auteurs demandent aux étudiants d'indiquer ce que chaque figure laisse de côté plutôt que de la lire comme un résumé.
+
 L'éthique et la fiabilité tempèrent l'enthousiasme pour les contenus visuels générés par l'IA. [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] a montré que les bandes dessinées de données assistées par l'[[generative-ai|IA générative]] amélioraient l'[[student-engagement|engagement]] et la compréhension par rapport aux visualisations conventionnelles, indépendamment de la littératie en visualisation préalable, alors même que les participants soulevaient des préoccupations quant au risque de désinformation et à l'attribution de l'[[academic-integrity|autorialité]], et que deux tiers signalaient des inconvénients tels que la surcharge d'information due à des mises en page trop chargées. La référence contrefactuelle CFES-P24 étend ce scrutin à l'[[cfes-p24-multimodal-slide-auditing-2026|audit de diapositives]], montrant que les LLM multimodaux peuvent reconnaître de manière fiable les construits de [[learning-design|conception pédagogique]] (opérations, principes, localisation des preuves), tout en divergeant fortement sur le jugement comparatif et le calibrage de la gravité — preuve que les scores composites dissimulent quelle capacité échoue et que la confiance n'est pas la fiabilité. Ensemble, ces travaux plaident pour une [[ai-ed-evaluation|évaluation en couches]] des visuels générés par l'IA plutôt que pour des notations holistiques.
 
 ## Outils de diapositives, de bandes dessinées et multi-vues en pratique
 
-Des systèmes pratiques appliquent ces principes à l'échelle. AISSA combine la notation par rubrique fondée sur les LLM aux tableaux de bord d'analytiques de l'apprentissage pour fournir une rétroaction automatisée et itérative sur les diapositives de présentation des étudiants, traitant 90 présentations en 1–3 minutes chacune à un coût de quelques centimes par évaluation, avec une [[usability-research|utilisabilité]] perçue élevée — alors même que les étudiants appliquaient la rétroaction de manière sélective, écartant parfois des recommandations qui entraient en conflit avec leur conception visuelle. Dans l'[[cs-education|enseignement de l'informatique]], Flowcode associe un organigramme de structure du code à un chat orienté apprentissage pour aider les codeurs créatifs novices à comprendre et à étendre les exemples trouvés, où la visualisation et la [[desirable-difficulties|friction productive]] orientent l'usage de l'IA vers l'apprentissage plutôt que vers le contournement. Pourtant, les [[scaffolding|étayages]] visuels ne sont pas universellement efficaces : [[code-anchor-multi-view-visualization]] a montré que les étudiants consacraient environ 47% de leur temps de regard au code malgré les étayages visuels, sous l'effet de l'agentivité, de l'adéquation représentationnelle et de la légitimité perçue des vues métaphoriques. Ces constats sur l'[[student-experience|expérience des apprenants]] avertissent que la conception de la visualisation doit prendre en compte des facteurs [[affective-computing|affectifs]] et sociaux, et pas seulement des affordances cognitives.
+Des systèmes pratiques appliquent ces principes à l'échelle. AISSA combine la notation fondée sur des [[rubrics|grilles d'évaluation]] et les LLM aux tableaux de bord d'analytiques de l'apprentissage pour fournir une rétroaction automatisée et itérative sur les diapositives de présentation des étudiants, traitant 90 présentations en 1–3 minutes chacune à un coût de quelques centimes par évaluation, avec une [[usability-research|utilisabilité]] perçue élevée — alors même que les étudiants appliquaient la rétroaction de manière sélective, écartant parfois des recommandations qui entraient en conflit avec leur conception visuelle. Dans l'[[cs-education|enseignement de l'informatique]], Flowcode associe un organigramme de structure du code à un chat orienté apprentissage pour aider les codeurs créatifs novices à comprendre et à étendre les exemples trouvés, où la visualisation et la [[desirable-difficulties|friction productive]] orientent l'usage de l'IA vers l'apprentissage plutôt que vers le contournement. Pourtant, les [[scaffolding|étayages]] visuels ne sont pas universellement efficaces : [[code-anchor-multi-view-visualization]] a montré que les étudiants consacraient environ 47% de leur temps de regard au code malgré les étayages visuels, sous l'effet de l'agentivité, de l'adéquation représentationnelle et de la légitimité perçue des vues métaphoriques. Ces constats sur l'[[student-experience|expérience des apprenants]] avertissent que la conception de la visualisation doit prendre en compte des facteurs [[affective-computing|affectifs]] et sociaux, et pas seulement des affordances cognitives.
 
 ## Implications
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo diseño un desarrollo profesional docente en IA que cambie realmente la práctica?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -12,7 +12,7 @@ audience: [faculty developers, administrators]
 discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 pedagogy: [tpack]
 ---
@@ -46,7 +50,7 @@ La conclusión de fondo para la reunión: estandarice un ciclo de sesiones en el
 
 **2.** Ponga la verificación, la declaración y el control de riesgos en la plantilla de trabajo, donde se usan, para que un participante nervioso tenga dónde colocar su preocupación.
 
-**3.** Dedique las horas a la evaluación y a las rúbricas, el área más débil al inicio y la que registra la mayor ganancia medida.
+**3.** Dedique las horas a la evaluación y a las [[rubrics|rúbricas]], el área más débil al inicio y la que registra la mayor ganancia medida.
 
 **4.** Organice cohortes [[discipline-specific-aied|específicas por disciplina]] y después diferencie dentro de ellas según la experiencia.
 

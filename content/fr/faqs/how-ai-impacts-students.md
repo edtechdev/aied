@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*

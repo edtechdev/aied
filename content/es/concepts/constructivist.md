@@ -2,20 +2,24 @@
 connected_resources: [vibes-diy]
 title: Constructivismo
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-15T10:15:23-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
 connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
@@ -99,7 +103,7 @@ Esto refleja la jerarquía del [[icap-framework|ICAP]] —la implicación constr
 
 - **La oposición simulada no es oposición.** Una contrapostura que puede formularse a demanda pero nunca se resiste ensaya la coreografía del diálogo mientras retiene lo que lo hace potente: no tiene corporalidad, interés ni exposición a consecuencias, así que, a diferencia de un otro humano, no ofrece ninguna vía de reparación ([[synthetic-position-self-authorship-2026|Du et al. (2026)]])).
 
-- **Retroalimentación interna mediante la comparación** — hacer que quien aprende compare su propio trabajo con ejemplos generados por IA, de modo que el propio acto de comparar genere aprendizaje.([[ai-internal-feedback-evaluative-judgments]])
+- **Retroalimentación interna mediante la comparación** — hacer que quien aprende compare su propio trabajo con [[rubrics|ejemplares]] generados por IA, de modo que el propio acto de comparar genere aprendizaje.([[ai-internal-feedback-evaluative-judgments]])
 - **Prompting consciente del tipo de pregunta** — clasificar las preguntas de quien aprende en roles constructivistas para que el sistema pueda escalar deliberadamente al estudiante desde la búsqueda de información hacia una indagación exploratoria y dialógica, en lugar de reflejar la profundidad cognitiva que implique la pregunta. Como la intención de facilitador y de coprendiz sigue siendo confundible para los clasificadores automáticos, este diseño mantiene a una persona validando la categorización antes de que esta impulse la [[feedback|retroalimentación]] o el [[scaffolding|andamiaje]].([[lee-learner-question-types-ai-education-2026]])
 - **La comunidad como estándar evaluativo** — quien aprende diseña algo real para su comunidad usando la IA como recurso de diseño, mientras que el conocimiento y los profesionales de la comunidad sirven de estándar que juzga el resultado, dejando espacio para la limitación, la negativa o el no uso estratégico cuando la implicación crítica lo exige.([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles y Peppler (2026)]])
 

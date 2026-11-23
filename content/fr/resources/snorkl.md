@@ -1,7 +1,7 @@
 ---
 title: "Snorkl"
 created: "2026-10-07T09:15:00-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "Un outil de classe qui donne aux élèves un retour d'IA instantané sur des explications orales et dessinées enregistrées de leur réflexion, et fournit aux enseignants une analytique de ces explications."
 url: https://snorkl.app/
@@ -21,6 +21,10 @@ source_updated: "2026-10-07T09:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -34,7 +38,7 @@ connected_concepts: [formative-assessment, ai-feedback-quality, feedback, multim
 
 ## Ce que vous pouvez en faire
 
-Les élèves enregistrent une explication orale tout en dessinant sur un tableau blanc. Le retour revient en quelques secondes sur cette réponse [[multimodal|multimodale]]. Les enseignants créent leurs propres activités ou puisent dans une bibliothèque d'activités alignées sur les normes, si bien que les critères de retour suivent le programme plutôt que ceux du fournisseur : la FAQ dit que l'outil prend en charge toutes les matières et tous les âges de la maternelle au lycée, et liste 64 langues pour le retour, soit dans la langue parlée de l'élève, soit dans une langue que l'enseignant choisit. Un tableau de bord enseignant fait apparaître des schémas au niveau de la classe, comme les idées fausses communes et les exemples remarquables ; les devoirs sont distribués par lien LMS ou code d'accès, avec connexion Google, Microsoft ou Clever.
+Les élèves enregistrent une explication orale tout en dessinant sur un tableau blanc. Le retour revient en quelques secondes sur cette réponse [[multimodal|multimodale]]. Les enseignants créent leurs propres activités ou puisent dans une bibliothèque d'activités alignées sur les normes, si bien que les critères de retour suivent le programme plutôt que ceux du fournisseur : la FAQ dit que l'outil prend en charge toutes les matières et tous les âges de la maternelle au lycée, et liste 64 langues pour le retour, soit dans la langue parlée de l'élève, soit dans une langue que l'enseignant choisit. Un tableau de bord enseignant fait apparaître des schémas au niveau de la classe, comme les idées fausses communes et les [[rubrics|exemples]] ; les devoirs sont distribués par lien LMS ou code d'accès, avec connexion Google, Microsoft ou Clever.
 
 ## À qui cela s'adresse
 

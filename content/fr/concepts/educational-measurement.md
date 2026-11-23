@@ -1,7 +1,7 @@
 ---
 title: "La mesure en éducation"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, item-response-theory, assessment-validity, psychometrically-aware-ai, knowledge-tracing, student-modeling, educational-nlp, learning-analytics, ai-ed-evaluation, ai-assisted-educational-research, automated-assessment, limitations-in-aied-research, ai-literacy, technology-acceptance-model, self-efficacy, benchmark, self-report-measures, motivation, student-engagement]
 connected_articles: [guo-ai-literacy-developmental-paces-2026, human-in-the-loop-ai-scoring-national-assessment-2026, semantic-variability-llm-conversation-assessment-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, jin-glat-genai-literacy-assessment, icap-cognitive-engagement-llm-agents, roe-assessment-twins-2026, ai-literacy-heptagon-2026, ai-literacy-assessment-misalignment, teacher-education-ai-literacy-sdt-2026, acceptance-ai-english-tools-2026, llm-difficulty-calibration-programming-exams-2026, llm-item-difficulty-prediction, multimodal-item-parameter-estimation-2026, ai-scoring-language-bias-physics, ai-writes-code-student-writes-model-2026, assessing-student-drive-framework-2025, xiong-ai-educational-measurement-review-2026, questionnaire-teachers-genai-uses-validation-2026, personalized-neural-cognitive-architecture-search-2026, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, age-tiered-ai-literacy-guidebooks-2026, proiqa-math-item-quality-assessment-2026, competent-generative-ai-use-measures-review-2026, bayesian-consensus-irt-item-banks-2026, el-salvador-ai-tutoring-selection-claim-2026, know-when-to-trust-ai-scoring-reliability-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, mental-health-literacy-students-llms-2026, studentbench-ai-human-tutoring-gre-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, synthetic-educational-data-structural-fidelity-2026, ai-empathy-scale-psychometric-evaluation-2026, genai-srl-l2-writing-scale-2026, bloom-taxonomy-llm-item-classification-2026, llm-benchmark-secondary-science-topics-2026, worden-foundationalassist-knowledge-tracing-dataset-2026, same-construct-same-conclusion-self-report-vs-performance-2026, chang-ai-cognitive-offloading-scale-2026, tassilova-ai-anxiety-scale-russian-2026]
@@ -87,7 +91,7 @@ La littératie en IA est le construit dont la couverture instrumentale est la pl
 
 ### Instruments de qualité de l'évaluation et de validité
 
-- **La notation automatisée et les instruments à grille de critères.** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] génère des grilles d'évaluation ; [[ai-assisted-instructor-supervised-grading-feedback]] évalue la qualité de la notation par l'IA au regard de critères de [[feedback|rétroaction]] élaborée ; [[ai-assessment-scale-reform]] traite de la manière dont l'IA bouleverse les échelles d'évaluation traditionnelles.
+- **La notation automatisée et les instruments à [[rubrics|grille d'évaluation]].** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] génère des grilles d'évaluation ; [[ai-assisted-instructor-supervised-grading-feedback]] évalue la qualité de la notation par l'IA au regard de critères de [[feedback|rétroaction]] élaborée ; [[ai-assessment-scale-reform]] traite de la manière dont l'IA bouleverse les échelles d'évaluation traditionnelles.
 - **Les dispositifs qui renforcent la validité.** Les [[roe-assessment-twins-2026|jumeaux d'évaluation]] associent une tâche vulnérable à l'[[generative-ai|IA générative]] à un équivalent moins vulnérable évaluant les mêmes résultats, en cartographiant les menaces à travers les six volets de données de validité de Messick.
 - **Partitionner l'espace des résultats selon l'assistance.** Un programme de mesure définit la **paternité par le modèle** — la mesure dans laquelle c'est l'apprenant, et non le système, qui est à l'origine du contenu de domaine d'un artefact — comme un construit à quatre facettes et quatre niveaux, et rapporte que, sur 24 études auditées, presque toutes mesuraient la performance avec l'IA disponible et aucune ne mesurait après retrait ([[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]]).
 - **Le codage du discours et de l'engagement.** [[icap-cognitive-engagement-llm-agents]] étend le [[icap-framework|cadre ICAP]] en un schéma de codage de l'engagement cognitif sur 7 points, comparant l'annotation humaine (κ = 0.906–0.998) à l'étiquetage fondé sur les LLM (κ = 0.541–0.609) — une étude d'instrument de mesure montrant que le codage automatisé reste à la traîne des humains entraînés. Le codage automatisé progresse aussi par l'[[prompt-engineering|ingénierie des invites sensible au contexte]], qui modélise les dépendances contextuelles et fusionne les capacités cognitives et sociales pour coder les compétences de [[collaborative-learning|résolution collaborative de problèmes]] à partir des données de processus, avec une performance supérieure à de solides références — permettant une évaluation à grande échelle et en temps réel tout en répondant à l'intensité de travail du codage manuel.

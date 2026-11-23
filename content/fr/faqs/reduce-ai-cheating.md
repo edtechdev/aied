@@ -1,12 +1,12 @@
 ---
 title: "Comment puis-je réduire la triche par IA dans mon cours ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -23,6 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -149,7 +154,7 @@ Une case à cocher est une déclaration. Une case à cocher atteste qu'un étudi
 
 ## Ce qui vous reviendra dessus
 
-**« Je n'ai pas le temps de refondre un cours ce trimestre. »** Ne refondez pas le cours. Refondez un devoir : une étape sans assistance, une ligne de grille avec des points. C'est un changement de deux heures, et c'est celui que la revue de 72 études isole.
+**« Je n'ai pas le temps de refondre un cours ce trimestre. »** Ne refondez pas le cours. Refondez un devoir : une étape sans assistance, une ligne de [[rubrics|grille]] avec des points. C'est un changement de deux heures, et c'est celui que la revue de 72 études isole.
 
 **« Les soutenances orales sont impossibles avec 300 étudiants. »** Alors n'en faites pas 300. Donnez du poids à la composante à livre fermé, exigez des artefacts de processus, et faites des vérifications orales par échantillon sur les copies qui semblent incompatibles avec le travail antérieur. Trois cents étudiants n'ont pas besoin de 300 conversations pour changer le calcul.
 

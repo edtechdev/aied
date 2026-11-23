@@ -1,7 +1,7 @@
 ---
 title: "Comment concevoir et animer des cours en ligne asynchrones quand l'IA peut faire le travail ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 68
 type: faq
 foundations: [academic-integrity, cognitive-offloading, learning-design]
@@ -17,6 +17,10 @@ translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -29,6 +33,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -43,7 +48,7 @@ Voici la réponse : dans un cours asynchrone, tout ce qu'une salle de classe fou
 
 **2.** Conservez une mesure non assistée dans toute évaluation qui certifie une compétence. L'écart de rétention observé dans les données de population ci-dessous se referme dès que la surveillance des examens est en place.
 
-**3.** Utilisez l'[[asynchronous-oral-assessment-2026|évaluation orale asynchrone]] là où les enjeux justifient le travail de production : consignes juste à temps, courts enregistrements que l'étudiant ne peut pas retravailler, grilles intégrées, transcriptions générées automatiquement.
+**3.** Utilisez l'[[asynchronous-oral-assessment-2026|évaluation orale asynchrone]] là où les enjeux justifient le travail de production : consignes juste à temps, courts enregistrements que l'étudiant ne peut pas retravailler, [[rubrics|grilles]] intégrées, transcriptions générées automatiquement.
 
 **4.** Configurez toute IA que vous fournissez pour suggérer plutôt que répondre, et intégrez-la au cours au lieu de renvoyer par un lien vers quelque chose de générique.
 

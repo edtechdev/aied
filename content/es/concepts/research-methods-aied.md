@@ -1,7 +1,7 @@
 ---
 title: Métodos de investigación en AIED
 created: "2026-09-25T03:54:15-04:00"
-updated: "2026-11-15T10:17:24-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
 connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026, nouri-ai-research-methodology-students-2026]
@@ -46,6 +50,8 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 La tensión central de la investigación en AIED es que los diseños más sólidos para la inferencia causal (los experimentos aleatorizados) suelen ser los más difíciles de llevar a cabo con herramientas de IA auténticas en aulas reales, mientras que los entornos más auténticos (despliegues sobre el terreno, estudios de caso, análisis de datos de registro) ofrecen un control causal más débil. Ningún método resuelve esto por sí solo; el campo avanza triangulando entre métodos y siendo explícito sobre qué tipo de afirmación puede sostener cada diseño. Todo método arrastra además limitaciones transversales (la generalizabilidad, la validez de la medición, el ritmo rápido del cambio en la IA, la reproducibilidad y un uso débil de la teoría) que quien lee debe sopesar; véase [[limitations-in-aied-research|las limitaciones de la investigación en AIEd]].
 
 El método, y no los hallazgos, es el tema. Las [[learning-sciences|ciencias del aprendizaje]] son el campo sustantivo al que sirven estos métodos: el foco está en cómo debería diseñarse, medirse y comunicarse un estudio, mientras que ese campo cubre lo que se ha establecido sobre cómo aprende la gente y cómo deberían diseñarse los entornos de aprendizaje, y trata los métodos basados en el diseño y los mixtos como los enfoques característicos de las ciencias del aprendizaje y no como dos opciones entre muchas.
+
+Una segunda pregunta de encuadre es el nivel de análisis. El [[learning-environments-as-systems|enfoque de los entornos de aprendizaje como sistemas]] sostiene que el nivel que mide un estudio —estudiante, curso, institución, política— es una decisión teórica con consecuencias, porque los efectos introducidos en un nivel se propagan a los demás; un diseño que solo mide el nivel de introducción puede perderse el mecanismo por completo.
 
 Una línea vecina es la [[ai-assisted-educational-research|Investigación Educativa Asistida por IA]], que cubre la IA como instrumento del trabajo del propio campo: búsqueda bibliográfica, cribado, automatización de revisiones, codificación cualitativa, análisis y escritura. Su alcance incluye la investigación de profesionales, como la beca de la enseñanza y el aprendizaje, y se mantiene distinta de los diseños empíricos que se usan para establecer si la IA funciona.
 
@@ -82,7 +88,9 @@ El instrumento mismo merece un examen aparte. Lo que un cuestionario, una entrev
 
 ### Métodos cualitativos
 
-Las entrevistas, los grupos de discusión y el análisis temático producen relatos ricos y contextuales de cómo el estudiantado y el profesorado viven las herramientas de IA, los significados que les atribuyen y las tensiones y los daños que las medidas estandarizadas pasan por alto. [[hazra-safetutors-pedagogical-safety-2026|La investigación sobre la seguridad de los tutores de IA]] y [[ai-changing-teaching-workflows|cómo la IA cambia los flujos de trabajo docentes]] se apoyan en gran medida en evidencia cualitativa. Véase la página de concepto específica de [[qualitative-research|investigación cualitativa]] para el tratamiento completo de los enfoques cualitativos (el análisis temático, la teoría fundamentada, la fenomenología y la fenomenografía, el análisis del discurso, las observaciones y la etnografía, los estudios de caso y las entrevistas y grupos de discusión), cada uno con ejemplos.
+Las entrevistas, los grupos de discusión y el análisis temático producen relatos ricos y contextuales de cómo el estudiantado y el profesorado viven las herramientas de IA, los significados que les atribuyen y las tensiones y los daños que las medidas estandarizadas pasan por alto. [[hazra-safetutors-pedagogical-safety-2026|La investigación sobre la seguridad de los tutores de IA]] y [[ai-changing-teaching-workflows|cómo la IA cambia los flujos de trabajo docentes]] se apoyan en gran medida en evidencia cualitativa. Véase la página de concepto específica de [[qualitative-research|investigación cualitativa]] para el tratamiento completo de los enfoques cualitativos (el análisis temático, la teoría fundamentada, la fenomenología y la fenomenografía, el análisis del discurso, las observaciones y la etnografía, los estudios de caso y las entrevistas y grupos de discusión), cada uno con [[rubrics|ejemplares]].
+
+La misma tradición puede extenderse a lo largo de todo un curso. En un estudio cualitativo vivencial, [[nouri-ai-research-methodology-students-2026|Nouri, Panahi y Ghalavand (2026)]] recogieron 138 formularios de registro de experiencias de 14 estudiantes de Biblioteconomía y Ciencias de la Información Médica a lo largo de un curso de métodos de investigación de 17 semanas, y después aplicaron análisis temático sobre los registros repetidos y vinculados a cada participante. El estudiantado describió la IA como una compañera de investigación que reducía la incertidumbre y le ayudaba a empezar propuestas, al tiempo que informaba de referencias fabricadas, un razonamiento independiente menguante y dudas sobre si el uso permitido contaba como apoyo al aprendizaje o como trampa. Los autores lo interpretan como un mediador cognitivo que introduce tensión epistemológica y ética, y argumentan que la educación en metodología de la investigación necesita orientación explícita en alfabetización crítica en IA, y no solo acceso a la herramienta.
 
 - **Fortalezas:** una comprensión ecológica y conceptual profunda; saca a la luz fenómenos, riesgos y mecanismos inesperados; esenciales para construir teoría y para estudiar constructos disputados como la confianza, la [[agency|autonomía]] y la autoría.
 - **Limitaciones:** generalizabilidad limitada; interpretativos y dependientes de quien investiga; muestras pequeñas; apoyo más débil a las afirmaciones causales; los hallazgos pueden ser difíciles de sintetizar entre estudios.

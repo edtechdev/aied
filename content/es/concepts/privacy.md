@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidad
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,10 +11,14 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-16T05:34:25-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -85,6 +89,8 @@ La privacidad es la condición previa para una IA fiable en la educación. Dado 
 ## Seguridad infantil y protecciones en K-12
 
 Los entornos de [[k-12|educación K-12]] exigen salvaguardas de privacidad más estrictas porque quienes aprenden son menores. Esto extiende la privacidad más allá de la protección de datos y la adentra en la [[pedagogical-safety|seguridad pedagógica]]: las herramientas que usan los niños no solo deben proteger sus datos, sino también protegerlos de daños. La [[child-safety-genai|investigación sobre seguridad infantil]] muestra que los clasificadores de seguridad de uso general a menudo no detectan prompts inseguros relacionados con la educación procedentes de niños, y advierte de que las escuelas no pueden dar por hecho que las salvaguardas estándar de los modelos protegen a los usuarios más jóvenes: necesitan evaluación específica para la infancia, pruebas basadas en incidentes y [[human-in-the-loop-ai|supervisión humana]]. Este planteamiento conecta la privacidad con la [[equity-in-ai-education|equidad]]: a quién protegen por defecto las prácticas de seguridad y privacidad refleja a quién considera un sistema que su seguridad y su autonomía no son negociables.
+
+- **Los umbrales de edad son estatutarios, no contractuales.** Un producto cuyos términos dicen «13 años o más» no escapa por ello de COPPA: la norma se aplica cuando un servicio está dirigido a la infancia o el proveedor tiene conocimiento real de que una persona usuaria tiene menos de 13 años, de modo que la comprobación de edad y la minimización de datos pertenecen a las condiciones de despliegue y no al texto del proveedor. Según los artículos 8 y 12 del RGPD, el suelo comparable es generalmente los 16 años para el consentimiento parental verificable, con información adaptada a la edad ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
 
 ## La privacidad en la práctica
 

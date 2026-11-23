@@ -1,7 +1,7 @@
 ---
 title: "Éducation à l'environnement"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
 connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -51,7 +55,7 @@ Un troisième volet, plus faible, traite l'« apprentissage durable » comme une
 
 ## Enseigner les sujets environnementaux et climatiques avec l'IA
 
-La donnée probante la plus solide est une quasi-expérience à trois groupes utilisant le changement climatique comme question socio-scientifique. Les étudiants qui travaillaient avec un partenaire d'IA au sein d'une tâche d'[[inquiry-based-learning|enquête]] structurée ont surpassé leurs camarades en enquête seule (d = 0.69) et ceux suivant un enseignement traditionnel (d = 1.88) sur une grille de prise de décision, avec les gains les plus importants sur les étapes où les étudiants entraient les plus faibles — le suivi et la gestion adaptative, et la production d'alternatives. La condition IA était *additionnelle* à l'enquête plutôt qu'un remplacement, et le recueil et l'analyse des données n'ont pas séparé les groupes du tout, ce qui suggère que l'IA a soutenu le raisonnement sur les compromis plutôt que la collecte de preuves.([[ai-assisted-inquiry-ssi-climate]])
+La donnée probante la plus solide est une quasi-expérience à trois groupes utilisant le changement climatique comme question socio-scientifique. Les étudiants qui travaillaient avec un partenaire d'IA au sein d'une tâche d'[[inquiry-based-learning|enquête]] structurée ont surpassé leurs camarades en enquête seule (d = 0.69) et ceux suivant un enseignement traditionnel (d = 1.88) sur une [[rubrics|grille]] de prise de décision, avec les gains les plus importants sur les étapes où les étudiants entraient les plus faibles — le suivi et la gestion adaptative, et la production d'alternatives. La condition IA était *additionnelle* à l'enquête plutôt qu'un remplacement, et le recueil et l'analyse des données n'ont pas séparé les groupes du tout, ce qui suggère que l'IA a soutenu le raisonnement sur les compromis plutôt que la collecte de preuves.([[ai-assisted-inquiry-ssi-climate]])
 
 Au niveau du [[curriculum-design|programme]], le cadre AI-SEE intègre l'IA dans un [[engineering-education|programme d'ingénierie]] selon quatre piliers (piloté par l'intelligence, renforcé par le vert, porté par la responsabilité, intégré à la pratique) plutôt que comme un module de durabilité rapporté ; un pilote mené auprès de 144 étudiants a rapporté des gains de conscience du développement durable et d'[[student-engagement|engagement]] comportemental aux niveaux personnel, académique, professionnel et social. Les auteurs mettent en garde : il s'agit de données d'entretien issues d'un seul établissement, auto-déclarées, recueillies à un seul moment, dans un seul programme chinois des transports.([[liu-ai-sustainable-engineering-education-2026]])
 

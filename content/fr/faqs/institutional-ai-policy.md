@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 65
 type: faq
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research, adopting-ai-options-and-issues]
@@ -26,6 +26,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -65,7 +69,7 @@ Regardez ce que les programmes publient quand rien ne force la question. [[insti
 
 Le sujet traité était plus étroit que le volume ne le suggère. L'[[academic-integrity|intégrité académique]] était le mot-clé le plus fréquent (n = 139), devant la citation (59), l'[[assessment|évaluation]] (50) et le plagiat (38). La [[ai-use-disclosure|déclaration d'usage de l'IA]] et le recours à des rédacteurs à la carte apparaissaient chacun une fois. HIPAA apparaissait cinq fois, FERPA onze, et les dossiers médicaux électroniques pas du tout. Le vocabulaire de l'équité était quasi absent : inclusion (n = 9), accessibilité (n = 9), accès équitable (n = 2).
 
-C'est de l'attention sans engagement contraignant derrière, ce qui est le défaut le moins coûteux à corriger. Comptez vos verbes modaux et écrivez une conséquence là où vous en voulez une. Définissez le plagiat et les usages interdits dans des mots qu'un étudiant de première année peut appliquer. Puis notez le résultat contre l'instrument que [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski et Hurley (2025)]] ont construit : cinq dimensions avec des grilles explicites, couvrant le caractère prohibitif, la permissivité, l'intégration pédagogique, la transparence et la responsabilité, et la profondeur. La plupart des établissements de leur secteur adoptaient des positions généralement prohibitives tout en réservant la discrétion aux enseignants individuels. Aucune approche ne faisait consensus, et la clarté elle-même était traitée comme la condition préalable d'une application défendable. Leurs recommandations sont procédurales : des lignes directrices complètes quelle que soit votre position, les parties prenantes associées à la rédaction, une formation proactive, une gouvernance conçue pour s'adapter, et des cycles de révision.
+C'est de l'attention sans engagement contraignant derrière, ce qui est le défaut le moins coûteux à corriger. Comptez vos verbes modaux et écrivez une conséquence là où vous en voulez une. Définissez le plagiat et les usages interdits dans des mots qu'un étudiant de première année peut appliquer. Puis notez le résultat contre l'instrument que [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski et Hurley (2025)]] ont construit : cinq dimensions avec des [[rubrics|grilles d'évaluation]] explicites, couvrant le caractère prohibitif, la permissivité, l'intégration pédagogique, la transparence et la responsabilité, et la profondeur. La plupart des établissements de leur secteur adoptaient des positions généralement prohibitives tout en réservant la discrétion aux enseignants individuels. Aucune approche ne faisait consensus, et la clarté elle-même était traitée comme la condition préalable d'une application défendable. Leurs recommandations sont procédurales : des lignes directrices complètes quelle que soit votre position, les parties prenantes associées à la rédaction, une formation proactive, une gouvernance conçue pour s'adapter, et des cycles de révision.
 
 ## Décider qui en est responsable et qui siège au comité
 

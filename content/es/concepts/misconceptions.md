@@ -1,7 +1,7 @@
 ---
 title: Ideas erróneas sobre la IA
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,10 +11,14 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-13"
@@ -23,7 +27,7 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
-connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Introducción
 
-Las ideas erróneas sobre la IA importan porque son el precursor cognitivo de las conductas dañinas que se documentan bajo la [[cognitive-offloading|dependencia excesiva]] y las preocupaciones de [[academic-integrity|integridad académica]]. Rara vez alguien se propone [[ai-misuse-learning-harm|hacer un mal uso]] de la IA; lo hace porque modelos mentales inexactos lo llevan a confiar mal, omitir la verificación y tratar la salida como comprensión. En educación, estos errores moldean desde cómo estudia el estudiantado hasta cómo el profesorado y las instituciones diseñan los planes de estudio, la [[assessment|evaluación]] y las políticas.
+Las ideas erróneas sobre la IA importan porque son el precursor cognitivo de las conductas dañinas que se documentan bajo la [[cognitive-offloading|dependencia excesiva]] y las preocupaciones de [[academic-integrity|integridad académica]]. Rara vez alguien se propone [[ai-misuse-learning-harm|hacer un mal uso]] de la IA; lo hace porque modelos mentales inexactos lo llevan a confiar mal, omitir la verificación y tratar la salida como comprensión. En educación, estos errores moldean desde cómo estudia el estudiantado hasta cómo el profesorado y las instituciones diseñan los planes de estudio, la [[assessment|evaluación]] y las políticas. Un cuerpo de trabajo distinto cuestiona el encuadre que produce esas ideas erróneas en primer lugar; véase [[critiques-of-ai-in-education|Críticas a la IA en la educación]].
 
 ## Qué son las ideas erróneas sobre la IA
 

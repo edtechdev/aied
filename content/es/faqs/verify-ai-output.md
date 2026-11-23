@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo enseño a los estudiantes a verificar los resultados de la IA?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-11-05T16:18:46-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -10,11 +10,15 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T02:02:25-05:00"
 translation_of: faqs/verify-ai-output
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -47,11 +51,13 @@ La verificación es una secuencia que se puede incorporar a una tarea. Decida qu
 
 ## Decida qué significa correcto antes de que nadie compruebe nada
 
-[[verification-quality-reliance-calibration-genai-2026|Wei y Shang (2026)]], tras revisar 493 registros deduplicados y mapear 14 estudios empíricos prioritarios, separan siete cosas que el "uso crítico de la IA" colapsa en una: evaluación epistémica, inicio de la verificación, calidad del proceso, éxito de la verificación, decisiones de dependencia, desempeño inmediato en la tarea y aprendizaje independiente. Su rúbrica dice "comprobó las fuentes", lo que se sitúa en el segundo paso y no le dice nada sobre si la comprobación fue competente ni sobre si cambió la respuesta del estudiante. Iniciar no es tener éxito. Un proceso sólido puede terminar sin conclusión, uno débil puede acertar la respuesta, y un estudiante que hizo una búsqueda y se quedó confundido puntúa igual que uno que resolvió la pregunta.
+[[verification-quality-reliance-calibration-genai-2026|Wei y Shang (2026)]], tras revisar 493 registros deduplicados y mapear 14 estudios empíricos prioritarios, separan siete cosas que el "uso crítico de la IA" colapsa en una: evaluación epistémica, inicio de la verificación, calidad del proceso, éxito de la verificación, decisiones de dependencia, desempeño inmediato en la tarea y aprendizaje independiente. Su [[rubrics|rúbrica]] dice "comprobó las fuentes", lo que se sitúa en el segundo paso y no le dice nada sobre si la comprobación fue competente ni sobre si cambió la respuesta del estudiante. Iniciar no es tener éxito. Un proceso sólido puede terminar sin conclusión, uno débil puede acertar la respuesta, y un estudiante que hizo una búsqueda y se quedó confundido puntúa igual que uno que resolvió la pregunta.
 
 La misma revisión traza una segunda línea, entre la [[trust|confianza]] y la dependencia. La [[trust-calibration|calibración de la dependencia]] pregunta si una decisión de depender fue apropiada dada la calidad real de la salida, lo que ata el juicio a una decisión y a una salida. Un estudio auditado encontró que la información falsa de [[generative-ai|ChatGPT]] modificaba la confianza declarada de los participantes y nunca registró si después aceptaban o rechazaban una recomendación concreta. Otro registró decisiones de aceptación y rechazo sobre la [[feedback|retroalimentación]] de ChatGPT para 78 estudiantes de traducción, pero sin una evaluación experta independiente una aceptación no puede llamarse apropiada ni un rechazo justificado. Sin verdad de referencia sobre la calidad de la salida, la dependencia no puede clasificarse en absoluto.
 
 Esa es la consecuencia para el diseño, y es lo primero que hay que arreglar. Antes de plantear una tarea de verificación, escriba dos descripciones breves: cómo se ve una salida correcta para esta tarea y cómo se ve una salida verosímil pero incorrecta. Con una de cada una basta. Los estudiantes tienen entonces un estándar contra el que comprobar, y usted tiene algo contra lo que calificar la comprobación distinto de si el estudiante suena cuidadoso.
+
+La literatura de investigación no se ha puesto al día con ese consejo. Una revisión sistemática de 65 estudios empíricos (2022-2026) encontró que ninguno enseñaba al estudiantado los criterios para juzgar las salidas de IA, y que ningún diseño incluía andamiajes de alfabetización en retroalimentación: las propuestas pedían pausas y explicaciones mientras presuponían un estándar que nunca llegaban a proporcionar ([[yu-verification-without-criteria-2026|Yu et al., 2026]]).
 
 ## Haga que se comprometan antes de que la herramienta responda
 

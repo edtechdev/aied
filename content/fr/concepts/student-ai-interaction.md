@@ -1,7 +1,7 @@
 ---
 title: "L'interaction élève-IA"
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
 connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026, richter-generative-ai-appropriation-comparative-2026]
@@ -93,6 +97,10 @@ Les invites rédigées par les enseignants sont un tel levier, mais la rigueur m
 
 Le non-usage est lui-même un schéma d'interaction que la [[pedagogy|pédagogie]] doit anticiper. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], étudiant 85 [[teacher-education|étudiants en enseignement]] dans trois cours où l'usage de l'IA générative dans l'[[assessment|évaluation]] était explicitement autorisé, ont constaté que 62.4% (53 sur 85) refusaient de l'utiliser, bien en dessous de l'adoption de 79–83% observée dans des enquêtes comparables au Royaume-Uni et en Australie, et que l'usage des adoptants était superficiel et correctif plutôt que génératif (relecture 43.8%, vérifications de clarté 34.4%, génération de texte seulement 18.8%). Leurs choix suivaient la conception de l'évaluation et la culture institutionnelle plutôt que la difficulté technique : 41.5% des non-adoptants craignaient d'être accusés à tort de [[academic-integrity|plagiat]], et neuf des onze personnes interrogées lisaient la politique permissive elle-même comme un possible « piège ». L'écart entre 32 utilisateurs déclarés à l'enquête et 28 auto-déclarations montre que l'interaction avec l'IA telle que les étudiants la *déclarent* est façonnée par les conséquences sur les notes — une réserve de mesure pour les comptes rendus fondés sur les learning analytics de l'interaction élève-IA.
 
+- **Une typologie de pratiques distingue cinq manières d'utiliser un chatbot.** Quinze groupes de discussion avec 61 étudiants allemands ont distingué des pratiques d'outil de soutien, de facilitateur d'apprentissage, d'auteur unique, de premier auteur et de second auteur, et ont constaté que le non-usage pouvait être une source de fierté plutôt qu'un déficit ([[grothe-hammer-studying-ai-chatbots-typology-2026|Grothe-Hammer et al., 2026]]).
+
+La théorie de la pratique recadre ces pratiques comme appropriation. Dans des entretiens épisodiques avec 29 étudiants en Indonésie, en Malaisie et en Allemagne, [[richter-generative-ai-appropriation-comparative-2026|Richter et al. (2026)]] ont trouvé une posture majoritairement instrumentale : l'IA était adoptée comme un outil, un soulagement pratique ou un partenaire de conversation situé, mais pas comme quelque chose qui change ce qu'écrire, rechercher ou étudier veut dire. Parce que les étudiants se présentent comme gardant la maîtrise et décrivent les diplômes comme fondés sur le devoir et orientés vers la production, les opérations déléguées deviennent mécaniquement vérifiables et l'usage de l'IA stabilise les régimes épistémiques existants plutôt qu'il ne les perturbe. L'adoption devient, dans ce compte, une question de degré d'ajustement de la technologie aux pratiques préexistantes, si bien que les règles institutionnelles et les affordances de l'outil comptent moins que le sens pratique que les étudiants attachent à leur travail.
+
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang et Guo (2026)]] documentent ce qu'un dialogue ouvert avec l'IA générative apporte à la révision par les pairs : les étudiants qui interrogeaient le modèle au lieu d'accepter sa première suggestion produisaient une rétroaction mieux notée par leurs pairs, et déclaraient plus de plaisir à la tâche et moins d'[[anxiety-and-stress|anxiété]].
 
 L'anxiété que le dialogue soulage peut être sociale plutôt que technique : chez 596 étudiants égyptiens en anglais langue étrangère (EFL) et huit entretiens, les apprenants décrivaient avoir interrogé l'outil à plusieurs reprises parce qu'« il n'y a pas de pression, et personne ne juge » ([[alshammari-interactive-ai-efl-tam-2026|Alshammari et Abdelaty (2026)]]).
@@ -100,6 +108,7 @@ L'anxiété que le dialogue soulage peut être sociale plutôt que technique : c
 ## La discipline et l'engagement cognitif dans la conversation élève-IA
 
 - **Engagement cognitif associé à la discipline dans la conversation élève-IA.** Chang et Li (2026) analysent les invites des élèves à l'IA dans 116 cours selon un devis intra-personne et interdisciplinaire, montrant que les conversations élève-IA traduisent un engagement cognitif **associé à la discipline** plutôt que des styles d'interaction individuels fixes. Environ 62% des invites encodaient une demande cognitive d'ordre supérieur dans l'ensemble, mais les profils selon les niveaux de Bloom différaient fortement par discipline : les cours de [[stem-education|STIM]] suscitaient des invites à prédominance « Appliquer » (20.8%), les cours de langue à prédominance « Comprendre » (31.7%), et les cours de sciences sociales à prédominance « Créer » (33.8%). Des comparaisons appariées intra-personne ont confirmé que les mêmes étudiants produisaient significativement plus d'invites d'ordre supérieur dans les cours de sciences sociales que dans les cours de STIM (n groupé = 16, p < .001), et la variation au niveau du cours excédait la variation au niveau de l'étudiant — un argument fort pour que les assistants d'enseignement par IA soient conçus et évalués en tenant compte du contexte disciplinaire.
+- **L'usage se concentre là où le travail prend la forme d'un problème.** Dans une réplication de 991 étudiants dans cinq universités américaines, les étudiants rapportaient utiliser l'IA dans 88 % de leurs cours de sciences naturelles contre 52 % des cours de lettres et 36 % des cours de sciences sociales, et l'étude avait déplacé l'écriture comme tâche la plus fréquente ([[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]).
 - **L'intensité de l'usage de l'IA par les étudiants ne prédisait pas ce qu'ils en ressentaient.** Parmi 819 étudiants, le genre, l'expertise en IA auto-évaluée et la fréquence d'usage n'atteignaient tous pas le seuil de signification dans une MANOVA (Lambda de Wilks 0.997, p = 0.551 ; 0.990, p = 0.295). Les utilisateurs intensifs et occasionnels de cet échantillon partageaient les mêmes opinions ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 - **« Un étudiant ne peut pas faire bouger la note d'un correcteur. »** Il le peut, et c'est la défaillance la plus persistante de la batterie : **17 modèles sur 22** relevaient davantage leur note après une objection nue qu'après une demande de second regard, y compris **six des huit** qui avaient passé tous les contrôles de jeu et de réponse vide. Le plus fort était Llama 3.2 3B à **+33.2% de l'échelle**, et la demande de second regard elle-même abaissait les notes de **dix** des 17, de sorte que le contraste n'est pas l'effet brut de l'objection. [[porcaro-ai-grading-benchmark-2026|Les notes qu'un étudiant peut contester exigent un enregistrement de l'échange]].

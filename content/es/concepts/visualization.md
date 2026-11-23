@@ -5,9 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-17T17:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 translation_of: concepts/visualization
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-analytics, multimodal, generative-ai, ai-technologies, ai-literacy, storytelling-in-education, learning-design, assessment-validity, virtual-and-augmented-reality]
 connected_articles: [interactive-learning-dashboards-engagement, mllm-scientific-visualization-literacy, nuclear-diffusion-text-to-image-learning-2026, data-comics-for-education-evaluating-effectiveness-benefits-ethics, cfes-p24-multimodal-slide-auditing-2026, mejia-domenzain-ml-findings-teachers-blended-2026, genai-visualization-education-framework-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
@@ -60,7 +64,7 @@ La ética y la fiabilidad templan el entusiasmo por el contenido visual generado
 
 ## Herramientas de diapositivas, cómics y vistas múltiples en la práctica
 
-Los sistemas prácticos aplican estos principios a escala. AISSA combina la puntuación por rúbricas basada en LLM con paneles de analíticas de aprendizaje para ofrecer retroalimentación automatizada e iterativa sobre las diapositivas de presentación de los estudiantes, procesando 90 presentaciones en 1–3 minutos cada una con un coste de céntimos por evaluación y una alta [[usability-research|usabilidad]] percibida — aunque los estudiantes aplicaban la retroalimentación de forma selectiva, a veces descartando recomendaciones que chocaban con su diseño visual. En la [[cs-education|educación en programación]], Flowcode combina un diagrama de flujo de la estructura del código con un chat orientado al aprendizaje para ayudar a programadores creativos novatos a entender y ampliar ejemplos encontrados, donde la visualización y la [[desirable-difficulties|fricción productiva]] orientan el uso de la IA hacia el aprendizaje en lugar de hacia la elusión. Sin embargo, los [[scaffolding|andamiajes]] visuales no son universalmente efectivos: [[code-anchor-multi-view-visualization]] halló que los estudiantes dedicaban ~47% del tiempo de mirada al código a pesar de los andamiajes visuales, impulsado por la agencia, el ajuste representacional y la legitimidad percibida de las vistas metafóricas. Estos hallazgos de [[student-experience|experiencia del estudiante]] advierten que el diseño de la visualización debe atender a factores [[affective-computing|afectivos]] y sociales, no solo a las posibilidades cognitivas.
+Los sistemas prácticos aplican estos principios a escala. AISSA combina la puntuación por [[rubrics|rúbricas]] basada en LLM con paneles de analíticas de aprendizaje para ofrecer retroalimentación automatizada e iterativa sobre las diapositivas de presentación de los estudiantes, procesando 90 presentaciones en 1–3 minutos cada una con un coste de céntimos por evaluación y una alta [[usability-research|usabilidad]] percibida — aunque los estudiantes aplicaban la retroalimentación de forma selectiva, a veces descartando recomendaciones que chocaban con su diseño visual. En la [[cs-education|educación en programación]], Flowcode combina un diagrama de flujo de la estructura del código con un chat orientado al aprendizaje para ayudar a programadores creativos novatos a entender y ampliar ejemplos encontrados, donde la visualización y la [[desirable-difficulties|fricción productiva]] orientan el uso de la IA hacia el aprendizaje en lugar de hacia la elusión. Sin embargo, los [[scaffolding|andamiajes]] visuales no son universalmente efectivos: [[code-anchor-multi-view-visualization]] halló que los estudiantes dedicaban ~47% del tiempo de mirada al código a pesar de los andamiajes visuales, impulsado por la agencia, el ajuste representacional y la legitimidad percibida de las vistas metafóricas. Estos hallazgos de [[student-experience|experiencia del estudiante]] advierten que el diseño de la visualización debe atender a factores [[affective-computing|afectivos]] y sociales, no solo a las posibilidades cognitivas.
 
 ## Implicaciones
 

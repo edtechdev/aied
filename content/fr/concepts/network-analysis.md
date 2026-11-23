@@ -1,13 +1,13 @@
 ---
 title: "Analyse de réseaux"
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
 connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
@@ -76,7 +80,8 @@ Les méthodes de réseau sont utilisées à travers les données probantes pour 
 1. **Préférer les méthodes de processus aux métriques centrées sur le seul produit.** Pour évaluer si les outils d'IA soutiennent l'apprentissage, modélisez la manière dont les apprenants s'engagent réellement (appropriation, dialogue, révision) avec des méthodes de séquence/réseau plutôt que de vous appuyer sur les seuls scores finaux.
 2. **Utiliser l'ENA pour comparer la structuration cognitive.** Lorsqu'on demande comment différents apprenants ou modes (humain contre IA) structurent leur raisonnement, l'ENA fournit une comparaison directe et visuelle des réseaux de cooccurrence — une technique bien adaptée à la [[student-modeling|modélisation de l'apprenant]] de la manière dont les apprenants connectent les idées.
 3. **Valider le codage automatisé.** Avec de grands jeux de données de journaux, la classification fondée sur les [[llm|grands modèles de langue]] est puissante, mais doit être confrontée au codage humain (rapporter l'accord inter-juges) avant d'interpréter la structure du réseau.
-4. **Concevoir pour la différenciation.** L'analyse de réseaux révèle souvent que le *même* outil d'IA produit des régularités d'interaction différentes selon les sous-groupes d'apprenants — ce qui éclaire une conception adaptative plutôt qu'une évaluation uniforme.
+4. **Traiter l'environnement comme un système.** Les [[learning-environments-as-systems|environnements d'apprentissage comme systèmes]] utilisent les méthodes de réseau pour opérationnaliser la représentation en parties et interactions à travers les niveaux.
+5. **Concevoir pour la différenciation.** L'analyse de réseaux révèle souvent que le *même* outil d'IA produit des régularités d'interaction différentes selon les sous-groupes d'apprenants — ce qui éclaire une conception adaptative plutôt qu'une évaluation uniforme.
 
 ## Validation par ENA du dialogue collaboratif simulé
 

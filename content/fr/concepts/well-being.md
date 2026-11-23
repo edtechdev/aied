@@ -1,7 +1,7 @@
 ---
 title: "Le bien-être"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
 connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026, zeng-ai-adoption-wellbeing-higher-ed-management-2026]
@@ -68,6 +72,8 @@ Le bien-être en éducation est multiforme : il inclut le bien-être émotionnel
 - **Le bien-être des enseignants et le rôle :** l'impact de l'IA sur les [[teacher-role|enseignants]] — y compris la charge de travail, l'anxiété face à l'enseignement avec une technologie disruptive, et la capacité d'apporter un soutien émotionnel — est une préoccupation récurrente, en lien avec la [[teacher-ai-competency|compétence des enseignants en IA]] et le [[educational-development|développement professionnel]].
 
 Un modèle d'équations structurelles portant sur 502 enseignants-chercheurs universitaires a montré que la littératie en IA prédisait le bien-être lié à l'IA bien plus fortement (β = 0.713) que l'[[self-efficacy|auto-efficacité]] technologique (β = 0.082), le soutien social et organisationnel n'atteignant le bien-être qu'indirectement — c'est la compétence, et non l'encouragement, qui portait l'effet ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
+
+**Le bien-être professionnel du personnel administratif.** [[zeng-ai-adoption-wellbeing-higher-ed-management-2026|Zeng et Kasim (2026)]] ont interrogé 320 membres du personnel de gestion d'universités de Canton et modélisé l'adoption de l'IA à travers le prisme exigences–ressources du travail : l'adoption ne présentait aucune association directe avec le bien-être professionnel, mais accroissait le technostress, qui abaissait le bien-être, tandis que le soutien organisationnel perçu atténuait ce chemin de stress. L'intensité de l'adoption ne peut tenir lieu de meilleurs résultats professionnels ; les universités devraient donc suivre le technostress et le soutien en même temps que le déploiement.
 
 - **La densification relationnelle comme critère d'évaluation du développement des enseignants soutenu par l'IA :** [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] soutiennent que l'IA soutient le développement socioémotionnel des enseignants uniquement lorsqu'elle fonctionne comme une infrastructure relationnelle plutôt que comme un substitut symbolique de l'accompagnement humain. Ils proposent la **densification relationnelle** comme critère pour juger les initiatives de développement professionnel soutenues par l'IA — selon qu'elles renforcent la confiance, le mentorat, le soutien par les pairs, la collaboration, la sécurité psychologique et la réduction de l'isolement — et notent que ces relations ont des effets en aval sur les étudiants, par le climat de la classe, la réactivité [[pedagogy|pédagogique]] et le soutien socioémotionnel. La synthèse avertit aussi que la [[governance|gouvernance]] des données affectives et l'économie politique de l'IA éducative comportent des risques éthiques distincts, cadrant la [[ai-literacy|littératie critique en IA]] comme une compétence socioémotionnelle.
 - **L'éthique et l'IA responsable :** le bien-être est une considération éthique centrale dans l'[[ai-education|IA en éducation]], en lien avec l'[[ethics|éthique]] et l'impératif de concevoir une IA qui soutienne plutôt qu'elle ne nuise à la santé mentale et à l'appartenance des apprenants.

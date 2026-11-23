@@ -1,7 +1,7 @@
 ---
 title: Teorías del aprendizaje
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-15T10:18:59-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
 connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
@@ -88,7 +92,7 @@ El trabajo teórico reciente amplía la línea clásica en varias direcciones, y
 
 ## Cómo se conectan las teorías
 
-En lugar de tratar las teorías del aprendizaje como filosofía abstracta, cada una se fundamenta en la investigación sobre IA en la educación que la utiliza. Las páginas sobre el [[constructivist|constructivismo]] y el [[behaviorism|conductismo]] documentan cómo los diseños de IA encarnan (o traicionan) cada teoría; la Teoría de la Carga Cognitiva, el [[self-regulated-learning|aprendizaje autorregulado]], la [[metacognition|metacognición]] y la [[transfer-of-learning|transferencia del aprendizaje]] conectan la teoría con mecanismos y resultados concretos de la IA. Esto refleja cómo se tratan otros dominios generales como la [[feedback|retroalimentación]] y la [[assessment|evaluación]]: un sistema coherente de conceptos que interactúan y no páginas aisladas.
+En lugar de tratar las teorías del aprendizaje como filosofía abstracta, cada una se fundamenta en la investigación sobre IA en la educación que la utiliza. Las páginas sobre el [[constructivist|constructivismo]] y el [[behaviorism|conductismo]] documentan cómo los diseños de IA encarnan (o traicionan) cada teoría; la Teoría de la Carga Cognitiva, el [[self-regulated-learning|aprendizaje autorregulado]], la [[metacognition|metacognición]] y la [[transfer-of-learning|transferencia del aprendizaje]] conectan la teoría con mecanismos y resultados concretos de la IA. Esto refleja cómo se tratan otros dominios generales como la [[feedback|retroalimentación]] y la [[assessment|evaluación]]: un sistema coherente de conceptos que interactúan y no páginas aisladas. Conviene declarar la frontera: los [[learning-environments-as-systems|entornos de aprendizaje como sistemas]] no son una teoría del aprendizaje. No afirman nada sobre lo que ocurre dentro de quien aprende; tratan el entorno como un sistema multinivel y preguntan cómo deben situarse en él las intervenciones y la medición.
 
 ## Las teorías del aprendizaje y la «educación sobre la IA»
 
@@ -100,7 +104,7 @@ Las teorías del aprendizaje también aparecen como contenido en los currículos
 
 Junto a las familias clásicas, hay un cuerpo de teoría escrito específicamente para el aprendizaje con sistemas de IA, y estas aportan las implicaciones de diseño que las teorías más antiguas dejan abiertas. El [[yan-agentivism-learning-theory-ai-2026|agentivismo (Yan y Gašević 2026)]] es un ejemplo de alcance medio: define el aprendizaje como un crecimiento duradero de la capacidad humana y no como la mera finalización exitosa de una tarea, nombra cuatro mecanismos (agencia delegada, supervisión y verificación epistémicas, internalización reconstructiva y transferencia con apoyo reducido) y enuncia seis proposiciones contrastables, entre ellas que el apoyo de IA que preserva la responsabilidad de quien aprende sobre el planteamiento del problema, el establecimiento de criterios y la justificación produce un aprendizaje más sólido que el apoyo que entrega respuestas.
 
-[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone una **Simbiosis Pedagógica** con una afirmación ontológica más fuerte: quien aprende es una entidad *posthumana* cuya cognición es híbrida en lugar de asistida por herramientas, organizada según cuatro principios: delegación cognitiva y aumento, coconstrucción epistémica, simbiosis metacognitiva y formación dinámica de la identidad; se operacionaliza mediante una rúbrica de Portafolio Simbiótico y un [[teacher-role|rol docente]] de «Coreógrafo Cognitivo»; es explícitamente no probada.
+[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone una **Simbiosis Pedagógica** con una afirmación ontológica más fuerte: quien aprende es una entidad *posthumana* cuya cognición es híbrida en lugar de asistida por herramientas, organizada según cuatro principios: delegación cognitiva y aumento, coconstrucción epistémica, simbiosis metacognitiva y formación dinámica de la identidad; se operacionaliza mediante una [[rubrics|rúbrica]] de Portafolio Simbiótico y un [[teacher-role|rol docente]] de «Coreógrafo Cognitivo»; es explícitamente no probada.
 
 ## Implicaciones para la práctica
 

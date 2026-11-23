@@ -1,7 +1,7 @@
 ---
 title: Dificultades deseables
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_resources: [agentic-builds]
 connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
@@ -92,6 +96,8 @@ La tensión central del aprendizaje apoyado por IA es que la [[generative-ai|IA 
 - **El coste también llega tarde.** Un panel de diferencias en diferencias de 26.811 estudiantes de secundaria chinos encontró puntuaciones de tareas un 18% más altas y un tiempo de realización un 30% menor, mientras que las puntuaciones de los [[summative-assessment|exámenes sin apuntes]] cayeron un 20% en seis meses. Las puntuaciones del examen de ingreso cayeron un 18% (Gaokao) y un 24% (Zhongkao), y la penalización completa solo apareció después de unos dos años ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei y Wu, 2026]]). Una demora medida en semanas puede mostrar la dirección del intercambio, pero no su magnitud.
 - **El mismo modelo, dos salvaguardas, resultados opuestos:** el estudiantado que recibió GPT-4 sin restricciones lo usó como muleta y rindió peor que el grupo de control una vez retirado, mientras que quienes recibieron un tutor con salvaguardas rindieron como el grupo de control: la fricción, y no el modelo, decidió si la herramienta ayudaba ([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al. (2026)]]).
 - **Reintroducir el esfuerzo por diseño.** Los diseños didácticos pueden preservar deliberadamente un procesamiento productivo: rutinas de escribir un borrador primero, tutoría que da pistas y no respuestas, retroalimentación diferida y protocolos de teach-back y explicación. Son los andamiajes concretos que se exploran en [[reducing-ai-misuse|reducir el mal uso de la IA]] y [[structured-llm-feedback-programming]]. Una extensión conceptual de 2026 ([[friction-paradox-generative-ai-education-abroad-2026|Gupta]]) lleva la misma lógica más allá de las tareas académicas estructuradas, hasta la dificultad dentro de los encuentros relacionales: en la educación en el extranjero sostiene que la pregunta educativa no es cuánta IA generativa hay, sino qué dificultades disuelve, y propone un *gradiente de mediación* que ordena los usos por la [[agency|agencia]] interpretativa transferida al sistema y no por el volumen de uso.
+
+**La orientación que ayuda a los novatos puede perjudicar a las personas expertas.** En cuatro experimentos de ocho semanas con estudiantes de tercer curso de informática, el apoyo de la IA generativa redujo la carga extraña y elevó el desempeño autónomo de programación en quienes tenían menor pericia, mientras que produjo ganancias menores en quienes tenían más, y la orientación detallada produjo una reversión cruzada de la pericia: aumentó la carga extraña y debilitó el desempeño entre las personas más conocedoras ([[yusuf-genai-expertise-reversal-cognitive-load-2026|Yusuf et al., 2026]]). La dificultad deseable no es uniforme, por tanto: su valor depende de si el apoyo sigue siendo cognitivamente necesario para quien aprende.
 
 **La U invertida y la paradoja del esfuerzo.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom e Inzlicht (2026)]] ofrecen la formulación reciente más aguda de por qué eliminar la fricción de la IA no es automáticamente bueno. Distinguen la IA de las [[ai-technologies|tecnologías]] anteriores que ahorraban trabajo por dos motivos: se dirige al trabajo intelectual y creativo y no al físico o administrativo, y su eliminación de fricción es *extrema*. Las tecnologías anteriores eliminaban el exceso de fricción, «obstáculos tediosos o insalvables que aportan poco al aprendizaje o al sentido», mientras que [[conversational-ai|un chatbot]] permite a quien aprende pasar de la ideación a la evaluación «sin esforzarse de forma significativa, sin cuestionar la salida y sin poner en marcha los procesos cognitivos que fomentan la apropiación, la retención o el pensamiento crítico». Su afirmación organizadora es que la relación entre esfuerzo y sentido es curvilínea: una fricción moderada mejora el sentido y la motivación, mientras que una fricción excesiva abruma, de modo que el riesgo de la IA es pasarse de largo hacia una fricción demasiado escasa y no hacia el exceso. Dos consecuencias importan pedagógicamente: el esfuerzo es en sí mismo una habilidad entrenable (recompensar el proceso y no el producto aumenta la tendencia a esforzarse y perseverar), y los beneficios motivacionales del esfuerzo se erosionan justamente en los ámbitos en los que la IA los sustituye, lo que produce un ciclo de dependencia creciente ([[cognitive-offloading|descarga cognitiva]], [[motivation|motivación]]).
 

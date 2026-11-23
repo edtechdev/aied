@@ -1,7 +1,7 @@
 ---
 title: "¿Qué medidas y métodos de investigación puede usar un docente para evaluar intervenciones relacionadas con la IA?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]
@@ -13,6 +13,10 @@ translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -57,7 +61,7 @@ El modo de fallo es fácil de reproducir. Una [[generative-ai|herramienta de pro
 
 La síntesis [[ai-ed-evaluation|Evaluación en IA educativa]] recomienda la ganancia de aprendizaje sin ayuda, la retención diferida, la transferencia a una tarea nueva, la calidad del razonamiento, las [[misconceptions|ideas erróneas]], la adopción de la retroalimentación y el desempeño por subgrupos. El compromiso, la satisfacción, los registros de uso de IA, la [[self-efficacy|autoeficacia]] y la [[technology-acceptance-model|utilidad percibida]] son medidas secundarias razonables y sustitutos pobres del aprendizaje. La carga de trabajo y el ahorro de tiempo cuentan como resultados de implementación, que es una pregunta distinta.
 
-El mínimo a escala de aula es una línea base, la intervención, una medida posterior inmediata y una medida posterior sin ayuda. Añada una condición de comparación cuando pueda: la práctica habitual, nada de IA, IA sin restricciones frente a IA con andamiaje, o dos diseños alternativos. Puntúe el desempeño asistido y el no asistido con instrumentos separados, ya que una sola rúbrica los mezclará.
+El mínimo a escala de aula es una línea base, la intervención, una medida posterior inmediata y una medida posterior sin ayuda. Añada una condición de comparación cuando pueda: la práctica habitual, nada de IA, IA sin restricciones frente a IA con andamiaje, o dos diseños alternativos. Puntúe el desempeño asistido y el no asistido con instrumentos separados, ya que una sola [[rubrics|rúbrica]] los mezclará.
 
 ## Lea cualquier número como una hipótesis
 

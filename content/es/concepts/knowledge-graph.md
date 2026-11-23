@@ -1,14 +1,14 @@
 ---
 title: Grafo de conocimiento
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-11-15T10:26:22-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 connected_resources: [context-aideatext]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [adaptive-learning, knowledge-tracing, intelligent-tutoring, cognitive-diagnosis, student-modeling, learning-analytics, curriculum-design, learning-design, generative-ai, llm, rag, agentic-ai, ai-technologies, recommender-systems-and-learning-paths]
 connected_articles: [incipit-axiom-grounded-scaffolding-literary-creation-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, learnity-graphs-lifelong-learning-framework-2026, veriforge-narrative-drafting-scaffolding-2026, quantum-education-its, multimodal-knowledge-graph-educational-reasoning, coursegraph-cs-course-comparison-2026, proprl-prerequisite-relation-learning, knowledge-gap-detection-ai-tas, visual-query-tracer-declarative-logic-learning, fair-explainable-edu-recommendations, hybrid-cf-kg-recommendation-multimodal-teaching-2026, xie-hillm-cd-2026, graph-its-adaptive-algorithms-2026, cogevol-learning-environment-generation-2026, ai-multifactorial-virology-lab-teaching-2026]
@@ -51,7 +55,7 @@ Los grafos de conocimiento son un mecanismo estructural recurrente en la [[resea
 - **La elección de algoritmo sobre el grafo cambia los resultados.** En G4L, propagar el dominio a través de un Evolving Knowledge Space Graph con propagación bayesiana del conocimiento produjo un +24% de conocimiento medido (0,717 → 0,887), frente a un +5% de la Knowledge Space Theory y un +1% de la Weighted Distance Dependent Induction ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes y Kovács, 2026]]).
 - Los marcos de **[[cognitive-diagnosis|diagnóstico cognitivo]]** como [[xie-hillm-cd-2026|HiLLM-CD]] construyen árboles de conceptos a partir de texto educativo usando LLM, eliminando la anotación manual.
 - **Tutoría aumentada con grafos de conocimiento:** [[quantum-education-its|ITAS]] usa un grafo de conocimiento de conceptos de física cuántica (con relaciones de prerrequisito explícitas) para impulsar un sistema de tutoría multiagente, recorriendo el grafo para seleccionar los siguientes temas de material contraintuitivo.
-- **Modelado de currículos y cursos:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compara estructuras de cursos de informática entre instituciones usando representaciones de grafo; los [[learnity-graphs-lifelong-learning-framework-2026|grafos Learnity]] modelan itinerarios de [[lifelong-learning|aprendizaje a lo largo de la vida]].
+- **Modelado de currículos y cursos:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compara estructuras de cursos de informática entre instituciones usando representaciones de grafo; los [[learnity-graphs-lifelong-learning-framework-2026|grafos Learnity]] modelan itinerarios de [[lifelong-learning|aprendizaje a lo largo de la vida]]. Un grafo de cursos también puede fundamentar la propia enseñanza: en un módulo de laboratorio de virología, el asistente respondió solo a partir de ese grafo y dirigió al estudiantado entre niveles de práctica, y la clase rediseñada superó a otra sin cambios, aunque los cuatro componentes llegaron juntos ([[ai-multifactorial-virology-lab-teaching-2026|Liu et al., 2026]]).
 - **Aprendizaje de relaciones de prerrequisito:** [[proprl-prerequisite-relation-learning|ProPrL]] aprende [[recommender-systems-and-learning-paths|relaciones de prerrequisito]] entre conceptos, formalizando las aristas que codifican los grafos de conocimiento.
 - **El descubrimiento aprendible de prerrequisitos sustituye a las estructuras previas de los expertos.** Una síntesis de [[xu-graph-knowledge-tracing-survey-2026|Xu et al. (2026)]] halla que los rastreadores basados en grafos pueden aprender la estructura de prerrequisitos a partir de los datos de respuesta durante el entrenamiento, sustituyendo las estructuras previas elaboradas por expertos. GKT parametriza una matriz de adyacencia aprendible de extremo a extremo, SKT-L aprende los prerrequisitos mientras entrena, PKT aplica regularización L1 para recuperar grafos de prerrequisitos dispersos evaluados frente a estructuras de referencia con puntuaciones F1, y el marco bayesiano variacional de PSI-KT infiere grafos de prerrequisitos dirigidos que se alinean con los prerrequisitos anotados por personas mejor que los modelos de referencia.
 - **Detección de lagunas de conocimiento:** [[knowledge-gap-detection-ai-tas|la detección de lagunas de conocimiento]] usa razonamiento basado en grafos en asistentes docentes de IA para identificar dónde carece quien aprende de conceptos fundacionales.

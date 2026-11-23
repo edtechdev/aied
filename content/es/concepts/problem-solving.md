@@ -1,14 +1,14 @@
 ---
 title: Resolución de problemas
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-15T10:14:15-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [critical-thinking, computational-thinking, collaborative-learning, problem-based-learning, inquiry-based-learning, creativity, scaffolding, self-regulated-learning, cognitive-psychology]
 connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, ai-assisted-collaborative-learning-model-dbr, llm-critical-thinking-teamwork-review, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-assisted-problem-posing-physics-2026, genai-feedback-design-multisite-experiment, dai-chatbots-problem-posing-primary-2026, llm-computational-thinking-physics-2026, rule-integrated-llm-tutoring-primary-math-2026, rachatasumrit-example-problem-ratio-2026]
@@ -57,7 +61,7 @@ El doble carácter de la IA para la resolución de problemas es consistente entr
 
 ### Implicaciones
 
-Para el profesorado, el equilibrio de la evidencia apunta a una integración estructurada y orientada al proceso: la formación en [[prompt-engineering|ingeniería de prompts]] desplaza al estudiantado de una [[student-ai-interaction|interacción con la IA]] dispersa a otra productiva, integrar la IA en tareas de indagación colaborativa produce [[learning-gains|ganancias]] duraderas, y usar deliberadamente los errores de la IA como provocaciones convierte una limitación en una oportunidad de aprendizaje. Para quienes diseñan, el hallazgo consistente de que eficiencia no equivale a aprendizaje profundo aboga por una IA que pregunte, cuestione y andamie en lugar de responder. Para las instituciones, la integración responsable exige acompañar la [[generative-ai|IA generativa]] con formación explícita en [[ai-literacy|alfabetización en IA]] y con rúbricas de evaluación que premien el razonamiento y la justificación por encima de los productos correctos. El tema recurrente en los trabajos anclados en la [[cognitive-psychology|psicología cognitiva]] es que la resolución de problemas se aprende mediante un esfuerzo sostenido, y que el papel de la IA debería ser preservar ese esfuerzo, no borrarlo.
+Para el profesorado, el equilibrio de la evidencia apunta a una integración estructurada y orientada al proceso: la formación en [[prompt-engineering|ingeniería de prompts]] desplaza al estudiantado de una [[student-ai-interaction|interacción con la IA]] dispersa a otra productiva, integrar la IA en tareas de indagación colaborativa produce [[learning-gains|ganancias]] duraderas, y usar deliberadamente los errores de la IA como provocaciones convierte una limitación en una oportunidad de aprendizaje. Para quienes diseñan, el hallazgo consistente de que eficiencia no equivale a aprendizaje profundo aboga por una IA que pregunte, cuestione y andamie en lugar de responder. Para las instituciones, la integración responsable exige acompañar la [[generative-ai|IA generativa]] con formación explícita en [[ai-literacy|alfabetización en IA]] y con [[rubrics|rúbricas]] de evaluación que premien el razonamiento y la justificación por encima de los productos correctos. El tema recurrente en los trabajos anclados en la [[cognitive-psychology|psicología cognitiva]] es que la resolución de problemas se aprende mediante un esfuerzo sostenido, y que el papel de la IA debería ser preservar ese esfuerzo, no borrarlo.
 
 ### Conexiones con otros conceptos
 

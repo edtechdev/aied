@@ -1,7 +1,7 @@
 ---
 title: "Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
@@ -25,6 +25,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -39,7 +44,7 @@ La réponse pour cette salle, et l'état des preuves dans l'[[higher-ed|enseigne
 
 **2.** Faites-les s'engager sur leur propre réponse avant de voir celle du modèle.
 
-**3.** Notez la critique, avec la grille que vous utilisez déjà pour la tâche.
+**3.** Notez la critique, avec la [[rubrics|grille d'évaluation]] que vous utilisez déjà pour la tâche.
 
 **4.** Faites-la tourner plus d'une fois dans le trimestre.
 

@@ -78,6 +78,16 @@ export const VIDEOS: Video[] = [
     faqs: [],
   },
   {
+    slug: 'agentic-ai-overview',
+    youtubeId: 'fB-vaGb0nxg',
+    title: 'Agentic AI  Overview',
+    summary:
+      'A walkthrough of what makes an AI system agentic — goals, tools and memory over time — and where that stops being a better chatbot and starts being a different relationship with the work.',
+    seconds: 571,
+    concepts: ['agentic-ai'],
+    faqs: [],
+  },
+  {
     slug: 'a-new-ai-literacy',
     youtubeId: 'Vn_4vBLp-4s',
     title: 'A New AI Literacy',

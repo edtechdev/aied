@@ -1,7 +1,7 @@
 ---
 title: Investigación educativa asistida por IA
 created: "2026-10-05T12:43:08-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-05"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_resources: [learning-design-wiki]
 connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
@@ -112,7 +116,7 @@ La evidencia cuantificada de que la automatización puede igualar la codificaci�
 
 [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] comparan cuatro estrategias de inyección de teoría para la construcción de libros de códigos con LLM (ateórica, teoría nombrada, referencias completas proporcionadas y artículos proporcionados) en 12 libros de códigos calificados por 5 evaluadores en 7 dimensiones. Nombrar la teoría sin aportar sus artículos superó a dar los textos completos en utilidad (4,40 frente a 3,20 de referencias completas proporcionadas) y en concreción (3,80 frente a 2,40 de artículos proporcionados), mientras que los artículos completos solo ganaron en alineación teórica (4,60 frente a 3,60) y reprodujeron las cuatro etapas del modelo a pesar de las instrucciones de evitarlas. El refinamiento humano siguió siendo esencial en ambos estudios: dos codificadores fusionaron propuestas de GPT que se solapaban, y los libros de códigos finales quedaron en 11 y 15 constructos, así que el flujo de trabajo fue colaboración y no delegación.
 
-[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] aportan la primera evidencia de codificación en la modalidad de vídeo, con la codificación de transcripciones de aula por GPT-4o alcanzando un kappa de 0,91 en Colaboración Coordinada frente al kappa de 0,83 entre personas. Los evaluadores humanos aplicaron la rúbrica de transcripción de forma fiable, con ICC de 0,89 a 0,99 en exactitud, exhaustividad y especificidad en un subconjunto codificado por duplicado. El diseño por etapas (transcripción con MLLM seguida de codificación con LLM basada en la transcripción) fue el que sostuvo el resultado, ya que la codificación directa del vídeo coincidió con las personas como máximo en un kappa de 0,20.
+[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] aportan la primera evidencia de codificación en la modalidad de vídeo, con la codificación de transcripciones de aula por GPT-4o alcanzando un kappa de 0,91 en Colaboración Coordinada frente al kappa de 0,83 entre personas. Los evaluadores humanos aplicaron la [[rubrics|rúbrica]] de transcripción de forma fiable, con ICC de 0,89 a 0,99 en exactitud, exhaustividad y especificidad en un subconjunto codificado por duplicado. El diseño por etapas (transcripción con MLLM seguida de codificación con LLM basada en la transcripción) fue el que sostuvo el resultado, ya que la codificación directa del vídeo coincidió con las personas como máximo en un kappa de 0,20.
 
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] reportan el mayor caso de codificación con múltiples partes interesadas hasta la fecha, con un ajuste fino de GPT-4o-mini sobre 14.100 reflexiones de estudiantes que produjo 18.883 muestras etiquetadas en una escuela, una universidad y un departamento estatal de educación. La exactitud dependía del constructo: el Establecimiento de Objetivos alcanzó el 91,28%, la Reflexión sobre el Aprendizaje el 67,44% y la Regulación del Esfuerzo el 60,74%, con un 81,94% global en la partición final. El flujo de trabajo de codiseño de nueve etapas costó unas 744 horas, casi 500 de ellas de labor especializada de desarrollo de algoritmos.
 

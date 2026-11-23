@@ -1,7 +1,7 @@
 ---
 title: "Recherche éducative assistée par IA"
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -15,7 +15,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 connected_resources: [learning-design-wiki]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [research-methods-aied, ai-ed-evaluation, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, qualitative-research, quantitative-research, mixed-methods-research, benchmark, educational-measurement, assessment-validity, learning-gains, simulating-students, simulation, student-modeling, knowledge-tracing, generative-ai, llm, human-in-the-loop-ai, ai-literacy, academic-integrity, ai-use-disclosure, hallucination-risk, trust, higher-ed, educational-development]
 connected_articles: [ai-methodologies-science-education-research-2026, scaffolding-systematic-reviews-2026, dai-chan-responsible-genai-research-ai-literacy-2026, citation-errors-hallucinations-computing-education-2026, prisma-llm-ai-assisted-systematic-reviews-2026, genai-academic-search-workshop, persistent-ai-agents-academic-research, ai-assisted-writing-research-teams, educlaw-bench-pedagogical-llm-agents-2026, beagle-grounded-learner-emulation-2026, llm-student-simulation-misconception-faithfulness, llm-judged-helpfulness-pedagogy-signal]
 ---
@@ -104,7 +109,7 @@ Des preuves quantifiées que l'automatisation peut égaler le codage humain, et 
 
 [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] comparent quatre stratégies d'injection de théorie pour la construction de codebooks par LLM — Athéorique, Théorie nommée, Références complètes fournies et Articles fournis — sur 12 codebooks évalués par 5 évaluateurs sur 7 dimensions. Nommer la théorie sans fournir ses articles battait la fourniture des textes complets sur l'utilité (4.40 contre 3.20 pour Références complètes fournies) et le caractère concret (3.80 contre 2.40 pour Articles fournis), tandis que les articles complets ne l'emportaient que sur l'alignement théorique (4.60 contre 3.60) et reproduisaient les quatre étapes du modèle malgré la consigne de les éviter. Le raffinement humain restait essentiel : deux codeurs ont fusionné des propositions GPT qui se chevauchaient, et les codebooks finaux se sont stabilisés à 11 et 15 construits — une collaboration, non une délégation.
 
-[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] fournissent les premières preuves de codage en modalité vidéo, le codage GPT-4o de transcriptions de classe atteignant un kappa de 0.91 pour Coordinated Collaboration contre un kappa humain–humain de 0.83. Les évaluateurs humains ont appliqué la grille de transcription de manière fiable, avec des ICC de 0.89 à 0.99 sur l'exactitude, la complétude et la spécificité d'un sous-ensemble doublement codé. La conception par étapes — transcription MLLM suivie d'un codage LLM fondé sur les transcriptions — portait le résultat, puisque le codage vidéo direct ne s'accordait avec les humains qu'à un kappa de 0.20 au mieux.
+[[zhou-gaiva-human-ai-video-analysis-2026|Zhou et al. (2026)]] fournissent les premières preuves de codage en modalité vidéo, le codage GPT-4o de transcriptions de classe atteignant un kappa de 0.91 pour Coordinated Collaboration contre un kappa humain–humain de 0.83. Les évaluateurs humains ont appliqué la [[rubrics|grille d'évaluation]] de transcription de manière fiable, avec des ICC de 0.89 à 0.99 sur l'exactitude, la complétude et la spécificité d'un sous-ensemble doublement codé. La conception par étapes — transcription MLLM suivie d'un codage LLM fondé sur les transcriptions — portait le résultat, puisque le codage vidéo direct ne s'accordait avec les humains qu'à un kappa de 0.20 au mieux.
 
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] rendent compte du plus vaste cas de codage multi-acteurs à ce jour, ajustant GPT-4o-mini sur 14,100 réflexions d'étudiants et produisant 18,883 échantillons étiquetés dans une école, une université et un département d'éducation d'un État. L'exactitude dépendait du construit : la fixation d'objectifs atteignait 91.28%, la réflexion sur l'apprentissage 67.44% et la régulation de l'effort 60.74%, avec 81.94% au total sur la partition finale. Le flux de co-conception en neuf étapes a coûté environ 744 heures, dont près de 500 de développement spécialisé d'algorithmes.
 

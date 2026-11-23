@@ -1,7 +1,7 @@
 ---
 title: "Sud global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,10 +9,14 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -51,6 +55,7 @@ La recherche dominante sur l'IA et sur les technologies éducatives a historique
 - **Le raisonnement éthique des enseignants dans les contextes à faibles ressources :** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et coll. (2026)]] ont montré que des enseignants du secondaire en STIM, en poste dans un contexte à faibles ressources, raisonnent sur l'éthique de l'IA à travers leur identité professionnelle, les réalités de la classe et les normes culturelles, plutôt qu'à travers des listes formelles de principes, contredisant les hypothèses d'« éthique vide » portées sur le Sud global.
 - **Adoption contextuelle :** [[socio-cognitive-genai-adoption-engineering-2026|Asag et Al Mamun]] modélisent l'adoption de l'[[generative-ai|IA générative]] chez des étudiants bangladais en [[engineering-education|ingénierie]], et [[connected-ai-lesson-planning-vietnam|ConnectED]] déploie un système de planification de cours aligné sur les [[curriculum-design|programmes]] pour l'éducation vietnamienne.
 - **C'est le renforcement des capacités, non les infrastructures, qui a fait évoluer l'adoption par les enseignants-chercheurs.** Parmi 255 enseignants-chercheurs bangladais, l'attitude envers l'IA générative prédisait fortement l'usage (β = 0.556) et la pertinence propre au domaine déterminait l'attitude (β = 0.413), tandis que la fourniture technologique institutionnelle et les normes subjectives n'étaient pas des prédicteurs significatifs ([[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et coll. (2026)]]).
+- **Une littératie en IA centrée sur l'identité dans l'éducation afro-équatorienne :** 90 acteurs éducatifs, jeunesse et communauté d'Esmeraldas ont évalué l'identité afro-descendante comme la plus haute (M = 4.72) et la littératie critique en IA comme la plus basse (M = 4.60), et un groupe de discussion de trois participants a décrit un usage occasionnel, limité à des tâches ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales et García Iturralde, 2026]]).
 - **Intégration institutionnelle et inégalité structurelle :** l'analyse de contenu comparative menée par [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et coll. (2026)]] sur 45 universités nigérianes (fédérales, d'État, privées) a montré que l'intégration de l'IA est prédite par l'âge de l'établissement et sa situation géographique — et non par le type de gouvernance — et que les liens avec les réseaux internationaux et industriels se renforcent mutuellement (r = 0.74), de sorte que les établissements bien connectés cumulent les avantages tandis que les autres prennent davantage de retard. Elle situe l'[[digital-divide|inégalité numérique]] non seulement au niveau de l'apprenant, mais dans la capacité structurelle des établissements d'[[higher-ed|enseignement supérieur]] eux-mêmes.
 - **Le [[educational-development|développement pédagogique du corps enseignant]] comme médiation numérique sous contrainte structurelle :** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] interroge douze développeurs pédagogiques et concepteurs d'apprentissage au sein de deux institutions historiquement défavorisées d'Afrique du Sud et trace une ligne analytique que la littérature sur le Sud global brouille souvent : l'**inégalité numérique** est distributive et peut en principe être traitée par la redistribution et l'accès, tandis que la **colonialité algorithmique** est épistémique et persiste même en situation d'accès total, parce qu'elle réside dans ce que les systèmes encodent et dans le savoir qu'ils centrent. Les deux sont entremêlées mais appellent des réponses différentes, et l'établissement est doublement positionné — exclu par la rareté des infrastructures, et, lorsqu'il est inclus, subordonné par des systèmes importés qui encodent d'autres savoirs et d'autres normes. La rhétorique institutionnelle sur l'IA (« la performance plus que la pratique ») est arrivée faiblement couplée aux réalités matérielles de l'enseignement ; les développeurs ont donc traduit le discours mondial de la transformation numérique en une pratique contextuellement viable : tester et « casser » délibérément les outils entre pairs, insister sur le jugement plutôt que sur la compétence technique, et absorber le coût affectif de projeter une expertise qu'ils étaient encore en train d'acquérir.
 - **Marginalisation épistémique :** [[genai-minoritized-knowledges-disability|Tali-Otmani]] soutient que les données d'entraînement centrées sur l'Occident marginalisent les savoirs non occidentaux et centrés sur le handicap — reliant les préoccupations du Sud global à l'[[equity-in-ai-education|équité dans l'IA en éducation]] et à la [[culturally-relevant-pedagogy|pédagogie culturellement pertinente]].

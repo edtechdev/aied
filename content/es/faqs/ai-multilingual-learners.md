@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA apoyar a los estudiantes multilingües sin juzgar mal sus conocimientos ni borrar su voz?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -17,6 +17,10 @@ translation_of: faqs/ai-multilingual-learners
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
@@ -120,7 +124,7 @@ Ofrezca alternativas viables. Los estudiantes necesitan una vía clara al apoyo 
 
 **4.** Añada una comprobación que registre el significado o la decisión del propio estudiante, como una nota de dos frases sobre un cambio que aceptó o rechazó.
 
-**5.** Si su rúbrica puntúa la [[writing-education|calidad de la escritura]], separe ese criterio del conceptual y relea dos entregas de cada tipo con la separación en mente.
+**5.** Si su [[rubrics|rúbrica]] puntúa la [[writing-education|calidad de la escritura]], separe ese criterio del conceptual y relea dos entregas de cada tipo con la separación en mente.
 
 ## Adónde ir después
 

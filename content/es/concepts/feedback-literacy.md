@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en retroalimentación
 created: "2026-09-28T19:12:31-04:00"
-updated: "2026-11-15T10:12:36-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
-connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, yuan-genai-feedback-writing-self-regulation-2026]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -81,8 +85,9 @@ La alfabetización en retroalimentación se enmarca ampliamente como un conjunto
 
 - **La alfabetización en retroalimentación en la analítica del aprendizaje y los [[visualization|paneles]] de IA generativa:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examinan cómo percibe el estudiantado la retroalimentación de la [[learning-analytics|analítica del aprendizaje]] impulsada por IA generativa desde una perspectiva de alfabetización en retroalimentación.
 
-- **La alfabetización en retroalimentación como objetivo del diseño de la alfabetización en IA y de la [[assessment|evaluación]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond y Nicholls (2025)]] emplean una evaluación centrada en el proceso y no en el artefacto, en la que el estudiantado critica la salida de ChatGPT contra una rúbrica para construir a la vez la alfabetización en retroalimentación, la psicológica y la de IA; la [[learner-centered-feedback-ai|retroalimentación con IA centrada en quien aprende]] y el [[care-full-feedback-genai|diseño de retroalimentación cuidadoso]] vinculan la calidad de la retroalimentación con la capacidad de implicación de quien aprende.
+- **La alfabetización en retroalimentación como objetivo del diseño de la alfabetización en IA y de la [[assessment|evaluación]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond y Nicholls (2025)]] emplean una evaluación centrada en el proceso y no en el artefacto, en la que el estudiantado critica la salida de ChatGPT contra una [[rubrics|rúbrica]] para construir a la vez la alfabetización en retroalimentación, la psicológica y la de IA; la [[learner-centered-feedback-ai|retroalimentación con IA centrada en quien aprende]] y el [[care-full-feedback-genai|diseño de retroalimentación cuidadoso]] vinculan la calidad de la retroalimentación con la capacidad de implicación de quien aprende.
 - **La alfabetización en retroalimentación se puede enseñar, y la IA puede aportar el material de práctica.** Una guía conceptual hace que el profesorado genere un espectro graduado de muestras de trabajo de IA —que cumplen todos los criterios, algunos y ninguno— y luego conduzca al estudiantado a través de una crítica modelada, un análisis guiado en clase y una evaluación independiente ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington y Hock (2026)]]).
+- **La alfabetización en retroalimentación es la vía de la retroalimentación con IA a la autorregulación.** En un estudio de dos olas con 520 estudiantes universitarios chinos, [[yuan-genai-feedback-writing-self-regulation-2026|Yuan (2026)]] encontró que la alfabetización en retroalimentación cargó con el 32,4 % de la asociación entre el uso de retroalimentación generada por IA y la autorregulación posterior de la escritura, frente al 9,1 % a través de una menor ansiedad ante la escritura.
 
 ## Por qué la alfabetización en retroalimentación importa para la IA en la educación
 

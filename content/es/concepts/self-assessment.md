@@ -1,7 +1,7 @@
 ---
 title: Autoevaluación
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,10 +12,14 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -26,7 +30,7 @@ connected_articles: [self-directed-growth-generative-ai-learning-analytics, age-
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La autoevaluación** — juzgar el propio trabajo, la propia competencia o el propio progreso con arreglo a criterios, y las prácticas e instrumentos construidos sobre ese acto. El término tiene dos caras que es fácil fundir en una. Como **técnica instruccional** es la autocalificación, la autorrevisión con rúbricas, la autocomprobación y la reflexión guiada: actividades destinadas a desarrollar la [[metacognition|monitorización]] y el [[evaluative-judgment|juicio]] sobre los que funciona el [[self-regulated-learning|aprendizaje autorregulado]]. Como **medida educativa** es un [[self-report-measures|instrumento de autoinforme]], en el que la estimación que hace quien aprende de su propia destreza, confianza o aprendizaje sustituye a una observación que nadie hizo. Se sitúa junto a la [[peer-assessment|evaluación entre pares]] como la otra mitad del estudiantado como evaluador, y hereda la misma dependencia del [[scaffolding|andamiaje]] y de criterios explícitos. Ambas caras giran sobre la misma facultad y ambas fallan en la misma dirección: la estimación es sistemáticamente generosa, y cuanto más pueda producir un trabajo entregado por una herramienta de [[generative-ai|IA generativa]], menos dice ese trabajo sobre si la facultad existe siquiera.
+> **La autoevaluación** — juzgar el propio trabajo, la propia competencia o el propio progreso con arreglo a criterios, y las prácticas e instrumentos construidos sobre ese acto. El término tiene dos caras que es fácil fundir en una. Como **técnica instruccional** es la autocalificación, la autorrevisión con [[rubrics|rúbricas]], la autocomprobación y la reflexión guiada: actividades destinadas a desarrollar la [[metacognition|monitorización]] y el [[evaluative-judgment|juicio]] sobre los que funciona el [[self-regulated-learning|aprendizaje autorregulado]]. Como **medida educativa** es un [[self-report-measures|instrumento de autoinforme]], en el que la estimación que hace quien aprende de su propia destreza, confianza o aprendizaje sustituye a una observación que nadie hizo. Se sitúa junto a la [[peer-assessment|evaluación entre pares]] como la otra mitad del estudiantado como evaluador, y hereda la misma dependencia del [[scaffolding|andamiaje]] y de criterios explícitos. Ambas caras giran sobre la misma facultad y ambas fallan en la misma dirección: la estimación es sistemáticamente generosa, y cuanto más pueda producir un trabajo entregado por una herramienta de [[generative-ai|IA generativa]], menos dice ese trabajo sobre si la facultad existe siquiera.
 
 ## Preguntas para reflexionar
 
@@ -69,6 +73,8 @@ Usada como medida, la autoevaluación suele llegar disfrazada de otra cosa: una 
 La exactitud es el problema principal, y la dirección es coherente. La evidencia más limpia viene de un estudio que construyó medidas paralelas autoinformadas y objetivas de la [[ai-literacy|alfabetización en IA]] [[teacher-role|docente]] dentro de un único marco. En 288 docentes de K-12, las correlaciones entre los factores objetivos y los autoinformados iban de r = 0,07 a r = 0,24, y el [[latent-profile-analysis|análisis de perfiles latentes]] encontró seis perfiles: 43 docentes se valoraban de forma consistentemente alta mientras puntuaban más bajo en la medida objetiva, 59 mostraban el patrón inverso, y los perfiles restantes se agrupaban cerca de la media o se dividían según la experiencia previa con IA. Dos medidas de una misma destreza, construidas por el mismo equipo sobre el mismo constructo, comparten casi nada.
 
 El panorama a nivel de campo coincide con ese único estudio. [[assessing-teachers-ai-literacy-measurement-tools-2026|La revisión de Zainal, Mohd Matore y Maat (2026) sobre los instrumentos de medición de la alfabetización en IA docente]] evaluó 33 instrumentos publicados entre 2019 y 2025 y encontró que 31 (93,9%) eran escalas de autoinforme sobre la confianza percibida, solo dos (6,1%) medían el conocimiento de forma objetiva y ninguno usaba tareas basadas en el rendimiento. La lectura de los autores es aquello sobre lo que gira el argumento de la medición: una puntuación de autoinforme registra la confianza declarada y no la capacidad, así que no puede sustituir a la competencia, y abogan por tareas de rendimiento y análisis de [[item-response-theory|teoría de respuesta al ítem]] junto a la autoevaluación para separar la capacidad validada de la confianza declarada.
+
+Una revisión sistemática de 67 estudios sobre ChatGPT y la cognición concretiza la advertencia de medición: el pensamiento creativo se medía habitualmente con tareas de rendimiento directo, mientras que el pensamiento crítico se apoyaba en [[self-report-measures|autoinformes]], de modo que las diferencias aparentes entre ambos reflejan en parte la instrumentación y no la cognición ([[chatgpt-critical-creative-thinking-review|Li et al. (2026)]]).
 
 La exactitud depende también de qué se esté estimando. Un análisis psicométrico de una autoevaluación de alfabetización en IA generativa basada en una taxonomía con 158 miembros del personal y estudiantes universitarios encontró un perfil invertido, con las personas encuestadas declarando dominio de la creación antes que de los fundamentos conceptuales que la sustentan, y solo una correlación débil (r = 0,188) entre los perfiles del estudiantado y del personal académico. Una encuesta a estudiantes de [[teacher-education|formación docente]] encontró la misma forma desde el otro lado: casi todos (97,8%) valoraban como importante el análisis crítico de medios, mientras que solo el 13,8% decía que su plan de estudios lo abordaba, y menos de la mitad (44,9%) creía tener las destrezas para analizar información mediática de forma crítica. La competencia mediática autoevaluada iba por detrás de la importancia autoevaluada.
 

@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour enseigner l'écriture dans le contexte de l'IA ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
@@ -25,6 +25,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -93,7 +98,7 @@ Onze lignes, c'est plus que ce dont la plupart des devoirs ont besoin. Réduisez
 
 ## Gardez la rétroaction humaine dans la boucle
 
-La plus grande étude de classe citée ici est [[pairr-ai-peer-review-2025|PAIRR]] : 654 étudiants dans dix cours d'écriture et trois cours [[stem-education|STIM]] à fort contenu rédactionnel. Ils ont rédigé, réalisé une [[peer-assessment|évaluation par les pairs]], obtenu une rétroaction par IA fondée sur une grille, comparé et évalué les deux sources, écrit des plans de révision, révisé et réfléchi. Cinquante-huit pour cent ont préféré la combinaison de la rétroaction des pairs et de l'IA. Six pour cent ont préféré la rétroaction par IA seule. Les étudiants ont trouvé l'IA utile pour des conseils de révision généraux orientés par la grille, et les pairs ont apporté des connaissances contextuelles et la réponse d'un public authentique.
+La plus grande étude de classe citée ici est [[pairr-ai-peer-review-2025|PAIRR]] : 654 étudiants dans dix cours d'écriture et trois cours [[stem-education|STIM]] à fort contenu rédactionnel. Ils ont rédigé, réalisé une [[peer-assessment|évaluation par les pairs]], obtenu une rétroaction par IA fondée sur une [[rubrics|grille]], comparé et évalué les deux sources, écrit des plans de révision, révisé et réfléchi. Cinquante-huit pour cent ont préféré la combinaison de la rétroaction des pairs et de l'IA. Six pour cent ont préféré la rétroaction par IA seule. Les étudiants ont trouvé l'IA utile pour des conseils de révision généraux orientés par la grille, et les pairs ont apporté des connaissances contextuelles et la réponse d'un public authentique.
 
 Soyez exact sur ce que l'étude établit. PAIRR a mesuré l'expérience des étudiants et leur évaluation de la rétroaction, non des [[learning-gains|gains d'apprentissage]] à long terme ; c'est donc une preuve solide pour une conception de la rétroaction et une preuve plus faible que l'écriture s'améliore des mois plus tard. Gardez l'étape entre pairs même quand l'étape par IA est plus rapide. Une grande partie du travail de [[feedback|rétroaction]] se fait dans la comparaison entre les deux sources, et la supprimer retire la part que les étudiants disaient apprécier.
 

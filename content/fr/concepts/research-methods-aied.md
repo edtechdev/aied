@@ -1,7 +1,7 @@
 ---
 title: "Les méthodes de recherche en AIED"
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-15T11:55:51-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
 connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026, nouri-ai-research-methodology-students-2026]
 ---
@@ -46,6 +51,8 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 La tension centrale de la recherche en AIED est que les dispositifs les plus solides pour l'inférence causale — les expériences randomisées — sont souvent les plus difficiles à mettre en œuvre avec des outils d'IA authentiques dans de véritables classes, tandis que les cadres les plus authentiques (déploiements sur le terrain, études de cas, analyses de données de journalisation) offrent un contrôle causal plus faible. Aucune méthode unique ne résout cela ; le champ avance par la triangulation entre méthodes, et en étant explicite sur le type d'affirmation que chaque dispositif peut supporter. Chaque méthode porte aussi des limites transversales — généralisabilité, validité de la mesure, rythme rapide du changement en IA, reproductibilité, et usage faible de la théorie — que les lecteurs doivent peser ; voir [[limitations-in-aied-research]].
 
 La méthode, et non les résultats, est le sujet. Les [[learning-sciences|sciences de l'apprentissage]] sont le champ de fond que ces méthodes servent. L'accent porte sur la manière dont une étude devrait être conçue, mesurée et rapportée, tandis que ce champ couvre ce qui est établi sur la façon dont les personnes apprennent et dont les environnements d'apprentissage devraient être conçus. Il traite les approches par la conception et les méthodes mixtes comme les approches signatures des sciences de l'apprentissage plutôt que comme deux options parmi d'autres.
+
+Une seconde question de cadrage est le niveau d'analyse. [[learning-environments-as-systems|Les environnements d'apprentissage comme systèmes]] soutiennent que le niveau qu'une étude mesure — apprenant, cours, institution, politique — est une décision théorique aux conséquences, parce que les effets introduits à un niveau se propagent vers les autres ; une conception qui ne mesure que le niveau d'introduction peut manquer entièrement le mécanisme.
 
 Un courant voisin, la [[ai-assisted-educational-research|recherche éducative assistée par IA]], couvre l'IA comme instrument du propre travail du champ : recherche bibliographique, tri, automatisation des revues, codage qualitatif, analyse et rédaction. Son périmètre inclut la recherche menée par des praticiens comme la scholarship of teaching and learning, et elle reste distincte des dispositifs empiriques qui servent à établir si l'IA fonctionne.
 
@@ -80,7 +87,9 @@ L'instrument lui-même mérite un examen distinct. Ce qu'un questionnaire, un en
 
 ### Les méthodes qualitatives
 
-Les entretiens, les groupes de discussion et l'analyse thématique produisent des comptes rendus riches et contextuels de la manière dont les étudiants et les enseignants vivent les outils d'IA, des significations qu'ils y attachent, et des tensions et préjudices que les mesures standardisées manquent. La [[hazra-safetutors-pedagogical-safety-2026|recherche sur la sécurité des tuteurs d'IA]] et [[ai-changing-teaching-workflows|la manière dont l'IA change les flux de travail enseignants]] reposent largement sur des données probantes qualitatives. Le traitement complet se trouve dans [[qualitative-research]] : analyse thématique, théorie ancrée, phénoménologie/phénoménographie, analyse du discours, observations et ethnographie, études de cas, et entretiens/groupes de discussion, chacune avec des exemples.
+Les entretiens, les groupes de discussion et l'analyse thématique produisent des comptes rendus riches et contextuels de la manière dont les étudiants et les enseignants vivent les outils d'IA, des significations qu'ils y attachent, et des tensions et préjudices que les mesures standardisées manquent. La [[hazra-safetutors-pedagogical-safety-2026|recherche sur la sécurité des tuteurs d'IA]] et [[ai-changing-teaching-workflows|la manière dont l'IA change les flux de travail enseignants]] reposent largement sur des données probantes qualitatives. Le traitement complet se trouve dans [[qualitative-research]] : analyse thématique, théorie ancrée, phénoménologie/phénoménographie, analyse du discours, observations et ethnographie, études de cas, et entretiens/groupes de discussion, chacune avec des [[rubrics|exemples]].
+
+La même tradition peut être étirée sur tout un cours. Dans une étude qualitative expérientielle, [[nouri-ai-research-methodology-students-2026|Nouri, Panahi et Ghalavand (2026)]] ont recueilli 138 formulaires d'enregistrement d'expériences auprès de 14 étudiants en science de l'information et documentation médicale sur un cours de méthodes de recherche de 17 semaines, puis ont mené une analyse thématique sur ces traces répétées et rattachées aux participants. Les étudiants décrivaient l'IA comme un compagnon de recherche soutenant qui réduisait l'incertitude et les aidait à amorcer des propositions, tout en signalant des références fabriquées, un raisonnement indépendant diminué et l'incertitude de savoir si un usage autorisé comptait comme soutien à l'apprentissage ou comme tricherie. Les auteurs lisent cela comme un médiateur cognitif qui introduit une tension épistémologique et éthique, et soutiennent que la formation aux méthodes de recherche exige une orientation explicite en littératie critique de l'IA plutôt que le seul accès aux outils.
 
 - **Forces :** une perspicacité écologique et conceptuelle profonde ; fait émerger des phénomènes, des risques et des mécanismes inattendus ; essentielle pour la construction de théorie et pour l'étude de construits contestés comme la confiance, l'[[agency|autonomie]] et la paternité.
 - **Limites :** généralisabilité limitée ; caractère interprétatif et dépendant du chercheur ; petits échantillons ; soutien plus faible des affirmations causales ; les résultats peuvent être difficiles à synthétiser entre études.

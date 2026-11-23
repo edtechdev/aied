@@ -1,7 +1,7 @@
 ---
 title: Infrastructure institutionnelle d'IA
 created: "2026-11-12T12:35:00-05:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -12,15 +12,19 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
-connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai]
-connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai, critiques-of-ai-in-education]
+connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026, watson-generative-ai-meaning-mediating-infrastructure-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -38,7 +42,7 @@ connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, ro
 
 ## Introduction
 
-Les établissements ont passé les premières années de l'[[generative-ai|IA générative]] à acheter de l'accès : une licence d'[[conversational-ai|agent conversationnel]] ici, un assistant de rédaction là, chacun avec ses propres conditions et son propre chemin de données. Le résultat est un portefeuille que personne ne peut décrire en une phrase, et un ensemble de questions — où est partie cette invite, qui a approuvé ce modèle, combien avons-nous dépensé — auxquelles aucun bureau unique ne peut répondre.
+Les établissements ont passé les premières années de l'[[generative-ai|IA générative]] à acheter de l'accès : une licence d'[[conversational-ai|agent conversationnel]] ici, un assistant de rédaction là, chacun avec ses propres conditions et son propre chemin de données. Le résultat est un portefeuille que personne ne peut décrire en une phrase, et un ensemble de questions — où est partie cette invite, qui a approuvé ce modèle, combien avons-nous dépensé — auxquelles aucun bureau unique ne peut répondre. L'argument selon lequel cette couche médiatise le sens plutôt qu'elle ne se contente de livrer des outils est développé dans la page [[critiques-of-ai-in-education|Critiques de l'IA en éducation]].
 
 Traiter l'IA comme une infrastructure est la réponse. Cela signifie une couche de service partagée, une passerelle qui applique les règles de l'établissement à chaque requête, et assez de télémétrie pour voir le coût, la charge et les défaillances. L'affirmation de la littérature n'est pas que cela coûte moins cher. Elle est que cela fait de l'établissement la partie qui décide, ce qui est un type d'affirmation différent et plus difficile à tester.
 
@@ -61,6 +65,8 @@ Le domaine décrit six formes, non deux. Elles diffèrent par qui détient les d
 **L'IA dans les outils que vous exploitez déjà.** Un type de question Moodle, le partenaire d'IA d'une plateforme de discussion, un outil de rétroaction sur les dissertations. La charge organisationnelle est faible et le changement arrive cours par cours, ce qui est aussi sa limite : rien au centre n'en apprend.
 
 Ces formes s'emboîtent. Une passerelle peut précéder une plateforme hébergée ; une plateforme hébergée peut appeler un modèle local ; un outil gratuit peut être le pilote qui ne justifie aucune des formes précédentes. La question utile n'est pas quelle forme est la meilleure mais quelle décision chaque forme prend silencieusement pour vous.
+
+**Le véritable choix par défaut du secteur est un siège sur le tenant d'un fournisseur.** Toutes les institutions ne font pas ce choix délibérément. [[making-ai-work-for-students-ofs-2026|OfS et Advance HE (2026)]], étudiant 127 établissements, ont constaté que la plupart fournissent des outils via les licences Microsoft 365 existantes, le plus souvent Copilot Chat, apprécié parce que son environnement fermé maintient les données institutionnelles dans l'enveloppe de conformité. Le personnel des établissements sans licence s'est tourné vers des outils gratuits plus puissants, parfois avec des données étudiantes, et les participants ont signalé que l'offre gratuite ou bon marché d'aujourd'hui devient l'augmentation de prix non budgétée de demain.
 
 ## La couche de passerelle
 
@@ -102,7 +108,7 @@ Le résultat d'adoption est celui que les planificateurs d'infrastructure devrai
 
 [[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] soutient que les preuves nécessaires pour interpréter l'apprentissage existent déjà mais sont fragmentées entre des systèmes incapables de se lire mutuellement. Son cadre comporte six couches fonctionnelles, trois frontières inférentielles qui limitent ce qu'un instantané peut soutenir, et sept exigences de gouvernance dont l'auditabilité, l'estimation de l'incertitude et la reprise humaine. C'est un cadre plutôt qu'un déploiement, et les auteurs le disent.
 
-[[lata-ferpa-compliant-local-llm-autograder|LaTA]] fournit le cas plus étroit : un modèle de raisonnement local qui supprime la question [[privacy|FERPA]] liée à l'envoi de travaux étudiants à un fournisseur plutôt que de la gérer. Ensemble, ils suggèrent que l'infrastructure d'évaluation n'est pas une fonctionnalité d'une plateforme d'apprentissage mais un problème distinct avec son propre modèle de données et ses propres modes de défaillance.
+[[lata-ferpa-compliant-local-llm-autograder|LaTA]] fournit le cas plus étroit : un modèle de raisonnement local qui supprime la question [[privacy|FERPA]] liée à l'envoi de travaux étudiants à un fournisseur plutôt que de la gérer. Ensemble, ils suggèrent que l'infrastructure d'évaluation n'est pas une fonctionnalité d'une plateforme d'apprentissage mais un problème distinct avec son propre modèle de données et ses propres modes de défaillance. C'est le niveau infrastructure des [[learning-environments-as-systems|environnements d'apprentissage considérés comme des systèmes]] : la couche qui décide si un outil de niveau cours peut être soutenu du tout.
 
 ## Coût, latence et le problème de visibilité
 
@@ -113,6 +119,8 @@ Les plateformes hébergées à l'échelle d'un district rapportent le même type
 ## La souveraineté a une dimension d'équité
 
 Une passerelle peut router vers un modèle local qui traite mal la langue de l'établissement, et le silence qui en résulte n'est pas neutre. L'argument de l'infrastructure et celui de la [[digital-divide|fracture numérique]] se rejoignent ici : les établissements dotés de clusters et de personnel gagnent en capacité, et ceux qui n'en ont pas absorbent ce que le fournisseur offre au prix que le fournisseur fixe. Les offres gratuites sont réellement utiles et réellement fragiles, ce qui fait de leur traitement comme stratégie permanente une décision sur les établissements qui sont servis.
+
+**L'infrastructure médiatise aussi le sens.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner et Brezovec (2026)]] traitent l'IA générative comme une infrastructure médiatisant le sens qui reformatte les invites, les [[rubrics|grilles]], la rétroaction et les genres en formes communicativement plausibles, si bien que l'approvisionnement et l'audit doivent demander quels styles communicatifs un système reconnaît, quelle aide il normalise, et si les attentes en matière de rapidité et de soin glissent plus vite que le soutien.
 
 ## Implications pour la pratique
 

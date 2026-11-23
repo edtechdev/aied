@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo redacto una política de IA para un curso y la comunico al estudiantado?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 weight: 70
 type: faq
@@ -13,11 +13,15 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -144,7 +148,7 @@ Escribir la política es la comunicación. Kim et al. encontraron cinco sitios d
 
 **"Los estudiantes simplemente lo ocultarán."** Algunos lo harán, y la pregunta de diseño es a qué estudiantes tienta su regla. La disuasión pasa por la **discriminación** de un detector entre el uso oculto y el trabajo legítimo, no por su tasa bruta de aciertos. Cuando una sensibilidad extra produce más falsos positivos nuevos que verdaderos positivos nuevos, **una vigilancia más fuerte puede hacer el ocultamiento relativamente más atractivo**, porque los estudiantes honestos son penalizados más rápido de lo que se identifica a los usuarios ocultos. El permiso y la declaración son palancas separadas: el permiso mueve el límite del uso aceptable, la declaración cambia la visibilidad. Diagnostique dónde su tarea atrae más al estudiante tentado a ocultar, y diseñe para ese estudiante.
 
-**"No quiero prohibir herramientas que no puedo detectar."** No tiene por qué. La prohibición es una de cuatro respuestas de diseño, junto con la vigilancia, el uso permitido con declaración y el rediseño. El rediseño cambia lo que la tarea recompensa, y se queda en cosmético si la rúbrica sigue calificando principalmente el producto final. [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] muestra los niveles explicitados: la IA está vetada en el [[cs-education|curso introductorio de programación]], porque externalizar los primeros bucles elimina lo que se está enseñando; se fomenta en los proyectos de estructuras de datos (se permite Copilot) y está vetada en los exámenes en papel; es una ayuda de estudio y repaso en el curso avanzado de sistemas; y es **obligatoria** en el propio curso de IA, donde un solo límite cargó con casi todo el peso. El modelo puede escribir código, y las reflexiones deben estar en la voz del propio estudiante. Los exámenes se eliminaron por completo y la evaluación se trasladó a trabajo que un modelo no puede escribir en la sombra sin que se note.
+**"No quiero prohibir herramientas que no puedo detectar."** No tiene por qué. La prohibición es una de cuatro respuestas de diseño, junto con la vigilancia, el uso permitido con declaración y el rediseño. El rediseño cambia lo que la tarea recompensa, y se queda en cosmético si la [[rubrics|rúbrica]] sigue calificando principalmente el producto final. [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] muestra los niveles explicitados: la IA está vetada en el [[cs-education|curso introductorio de programación]], porque externalizar los primeros bucles elimina lo que se está enseñando; se fomenta en los proyectos de estructuras de datos (se permite Copilot) y está vetada en los exámenes en papel; es una ayuda de estudio y repaso en el curso avanzado de sistemas; y es **obligatoria** en el propio curso de IA, donde un solo límite cargó con casi todo el peso. El modelo puede escribir código, y las reflexiones deben estar en la voz del propio estudiante. Los exámenes se eliminaron por completo y la evaluación se trasladó a trabajo que un modelo no puede escribir en la sombra sin que se note.
 
 **"La política de mi institución ya cubre esto."** Menos de lo que usted cree. La brecha va en ambos sentidos: el 92% de los programas da directrices explícitas, las reglas locales se alejan de la orientación institucional y solo 47 instituciones tenían ambos niveles detectables. La contratación, los datos y los ciclos de revisión corresponden a [[institutional-ai-policy|¿Cómo escribimos e implementamos una política institucional de IA?]], pero la traducción al aula es suya. Nash y Burriss concluyen que las instituciones deben capacitar al profesorado para resistir además de adoptar, con la orientación y el [[educational-development|desarrollo profesional]] que permitan a un docente declinar un uso específico de la IA sin quedar enmarcado como desfasado. El tecnodeterminismo de sus participantes contradecía sus propios compromisos [[pedagogy|pedagógicos]]. Una política institucional no es cobertura para su decisión personal.
 

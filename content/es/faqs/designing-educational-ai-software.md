@@ -1,14 +1,14 @@
 ---
 title: "¿Cuáles son las mejores prácticas y consejos para diseñar software educativo de IA eficaz?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -33,7 +37,7 @@ La respuesta es más estrecha de lo que suponen la mayoría de las especificacio
 
 **1.** Escriba qué decide el sistema y qué decide un docente. Esa frontera se convierte en la arquitectura.
 
-**2.** Evalúe la interacción de varios turnos y sensible a la disciplina con el [[curriculum-design|currículo]] real, no prompts sueltos contra una rúbrica general de seguridad.
+**2.** Evalúe la interacción de varios turnos y sensible a la disciplina con el [[curriculum-design|currículo]] real, no prompts sueltos contra una [[rubrics|rúbrica]] general de seguridad.
 
 **3.** Ancle las respuestas en contenido aprobado y mantenga el componente verificador separado del conversacional.
 

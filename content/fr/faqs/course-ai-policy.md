@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger une politique d'usage de l'IA pour un cours et la communiquer aux étudiants ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,7 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -29,6 +29,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -147,7 +152,7 @@ Rédiger la politique, c'est la communication. Kim et al. ont trouvé cinq lieux
 
 **« Les étudiants vont simplement le cacher. »** Certains le feront, et la question de conception est de savoir quels étudiants votre règle tente. La dissuasion passe par la **discrimination** d'un détecteur entre usage caché et travail légitime plutôt que par son taux de détection brut. Quand une sensibilité accrue produit plus de nouveaux faux positifs que de nouveaux vrais positifs, **une surveillance plus forte peut rendre la dissimulation relativement plus attrayante**, parce que les étudiants honnêtes sont pénalisés plus vite que les utilisateurs cachés ne sont identifiés. La permission et la divulgation sont deux leviers distincts : la permission déplace la frontière de l'usage acceptable, la divulgation change la visibilité. Diagnostiquez où votre tâche attire l'étudiant le plus tenté de dissimuler, et concevez pour cet étudiant.
 
-**« Je ne veux pas interdire des outils que je ne peux pas détecter. »** Vous n'y êtes pas obligé. L'interdiction est l'une des quatre réponses de conception, avec la surveillance, l'usage permis avec divulgation et la refonte. La refonte change ce que la tâche récompense, et reste cosmétique si la grille d'évaluation note encore principalement le produit final. [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] montre les niveaux explicités : l'IA est bannie du cours d'[[cs-education|introduction à la programmation]], parce qu'externaliser les premières boucles retire ce qui est enseigné ; encouragée sur les projets de structures de données (Copilot permis) et bannie des examens sur papier ; aide à l'étude et à la révision dans le cours de systèmes de niveau supérieur ; et **obligatoire** dans le cours sur l'IA lui-même, où une seule frontière portait l'essentiel du poids. Le modèle peut écrire du code, et les réflexions doivent être dans la voix propre de l'étudiant. Les examens ont été entièrement supprimés, et l'évaluation s'est déplacée vers un travail qu'un modèle ne peut pas écrire en secret.
+**« Je ne veux pas interdire des outils que je ne peux pas détecter. »** Vous n'y êtes pas obligé. L'interdiction est l'une des quatre réponses de conception, avec la surveillance, l'usage permis avec divulgation et la refonte. La refonte change ce que la tâche récompense, et reste cosmétique si la [[rubrics|grille d'évaluation]] note encore principalement le produit final. [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] montre les niveaux explicités : l'IA est bannie du cours d'[[cs-education|introduction à la programmation]], parce qu'externaliser les premières boucles retire ce qui est enseigné ; encouragée sur les projets de structures de données (Copilot permis) et bannie des examens sur papier ; aide à l'étude et à la révision dans le cours de systèmes de niveau supérieur ; et **obligatoire** dans le cours sur l'IA lui-même, où une seule frontière portait l'essentiel du poids. Le modèle peut écrire du code, et les réflexions doivent être dans la voix propre de l'étudiant. Les examens ont été entièrement supprimés, et l'évaluation s'est déplacée vers un travail qu'un modèle ne peut pas écrire en secret.
 
 **« La politique de mon institution couvre déjà cela. »** Moins que vous ne le pensez. L'écart va dans les deux sens : 92% des plans de cours donnent des lignes directrices explicites, les règles locales s'écartent des orientations institutionnelles, et seules 47 institutions présentaient les deux niveaux détectables. Les achats, les données et les cycles de révision relèvent de [[institutional-ai-policy|Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?]], mais la traduction en classe vous revient. Nash et Burriss concluent que les institutions doivent outiller les enseignants pour résister autant que pour adopter, avec les conseils et le [[educational-development|développement professionnel]] qui permettent à un enseignant de refuser un usage précis de l'IA sans être dépeint comme en retard. Le technodéterminisme de leurs participants contredisait leurs propres engagements [[pedagogy|pédagogiques]]. Une politique institutionnelle ne couvre pas votre jugement.
 

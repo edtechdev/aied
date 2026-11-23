@@ -1,7 +1,7 @@
 ---
 title: "Comment faire en sorte qu'un étudiant simulé se comporte comme un apprenant réel ?"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -25,6 +25,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -92,7 +96,7 @@ Deux comparaisons montrent ce que coûte la validation.
 
 En comparant neuf méthodes de simulation à sept métriques fondées sur des références sur 382 dialogues tenus à l'écart, tirés du plus grand corpus public de vrais dialogues mathématiques élève-tuteur, l'invite en langage naturel est restée derrière l'[[llm-training-and-fine-tuning|ajustement fin]] sur les actes de dialogue (0.4998 contre 0.6840), le ROUGE-L (0.1648 contre 0.3212) et la similarité cosinus (0.5460 contre 0.7390). La meilleure méthode testée, l'optimisation par préférence sur un modèle 8B, n'a battu l'ajustement supervisé que marginalement et était pire sur les erreurs, et une évaluation humaine à trois tuteurs a reproduit ce classement ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Le haut de cette échelle est proche du milieu, donc la référence que vous rapportez décide de l'impression que fait votre propre chiffre.
 
-SWIM est la comparaison la plus claire entre invite, ajustement fin et apprentissage par renforcement, parce qu'il note chaque essai généré contre un profil de traits cible plutôt que de le juger impressionnistiquement. L'invite ancrée dans une grille d'évaluation n'a donné qu'un contrôle limité, même pour les modèles propriétaires forts, avec un QWK moyen de trait au mieux de 0.577 (Claude Sonnet) et 0.422 (GPT-5.4), et proche de zéro pour un modèle ouvert de 7B. L'ajustement supervisé sur de vraies paires copie-note a atteint 0.474 ± 0.023 pour ce modèle 7B. GRPO avec une récompense dérivée de la [[automated-essay-scoring|notation automatisée d'essais]] a atteint 0.618 ± 0.005, les gains tenant sur deux correcteurs indépendants contre lesquels la politique n'a jamais été entraînée ([[swim-student-writing-simulation-2026]]).
+SWIM est la comparaison la plus claire entre invite, ajustement fin et apprentissage par renforcement, parce qu'il note chaque essai généré contre un profil de traits cible plutôt que de le juger impressionnistiquement. L'invite ancrée dans une [[rubrics|grille d'évaluation]] n'a donné qu'un contrôle limité, même pour les modèles propriétaires forts, avec un QWK moyen de trait au mieux de 0.577 (Claude Sonnet) et 0.422 (GPT-5.4), et proche de zéro pour un modèle ouvert de 7B. L'ajustement supervisé sur de vraies paires copie-note a atteint 0.474 ± 0.023 pour ce modèle 7B. GRPO avec une récompense dérivée de la [[automated-essay-scoring|notation automatisée d'essais]] a atteint 0.618 ± 0.005, les gains tenant sur deux correcteurs indépendants contre lesquels la politique n'a jamais été entraînée ([[swim-student-writing-simulation-2026]]).
 
 L'invite produisait aussi une population idéalisée plutôt que réaliste : score global normalisé moyen de 0.74 contre 0.58 pour de vrais élèves, et une longueur médiane de 304 mots contre 167. Les modèles entraînés ont retrouvé les distributions humaines de score et de longueur sans aucune supervision de longueur. Une chose est restée difficile : la forme authentique de faible compétence. Les modèles entraînés retrouvaient la syntaxe mais faisaient trop peu de fautes d'orthographe et de grammaire, tandis que l'invite simulait la faiblesse par une corruption superficielle, des fautes de frappe pulvérisées sur une prose par ailleurs compétente.
 

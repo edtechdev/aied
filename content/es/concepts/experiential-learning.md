@@ -1,16 +1,20 @@
 ---
 title: Aprendizaje experiencial
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-15T10:12:07-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -39,7 +43,7 @@ El aprendizaje experiencial está estrechamente relacionado con el [[active-lear
 
 ## Cómo aparece el aprendizaje experiencial en la investigación
 
-- **Sustitución de emergencia, con una rúbrica sobre hasta dónde llega.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] documentan una sustitución forzada por el conflicto de 2024 en el Líbano: el estudiantado de un curso de posgrado de Aprendizaje Experiencial de la Universidad Americana de Beirut, incapaz de llegar a las comunidades para hacer evaluaciones de necesidades, entrevistó en su lugar a personas interesadas generadas por ChatGPT. Dos evaluadores puntuaron los diez prompts grupales y encontraron que la división era instructiva: la alineación con los objetivos educativos (media 5,00) y la diversidad de perspectivas (4,90) eran sólidas, mientras que la autenticidad y el realismo (4,38) y, sobre todo, la dinámica de grupo y la coherencia (3,80, con un grupo focal de 30 personas que colapsó en entrevistas secuenciales) y las limitaciones y lagunas (3,20) eran débiles, esto último porque la planitud emocional, la ausencia de contradicción y la escasa especificidad cultural se repetían en todos los contextos. La conclusión de los autores es un límite y no un veredicto: las personas simuladas sirven como ensayo y como solución provisional donde el acceso es imposible o inseguro, pero no donde la complejidad emocional, la especificidad cultural y la dinámica interpersonal *son* el objetivo de aprendizaje. Su mitigación es estructural: emparejar el juego de roles simulado con entrevistas reales para que el estudiantado pueda comparar, y formar al estudiantado para interrogar la salida de las personas simuladas en busca de sesgos y generalizaciones en lugar de tratarla como evidencia de campo.
+- **Sustitución de emergencia, con una [[rubrics|rúbrica]] sobre hasta dónde llega.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] documentan una sustitución forzada por el conflicto de 2024 en el Líbano: el estudiantado de un curso de posgrado de Aprendizaje Experiencial de la Universidad Americana de Beirut, incapaz de llegar a las comunidades para hacer evaluaciones de necesidades, entrevistó en su lugar a personas interesadas generadas por ChatGPT. Dos evaluadores puntuaron los diez prompts grupales y encontraron que la división era instructiva: la alineación con los objetivos educativos (media 5,00) y la diversidad de perspectivas (4,90) eran sólidas, mientras que la autenticidad y el realismo (4,38) y, sobre todo, la dinámica de grupo y la coherencia (3,80, con un grupo focal de 30 personas que colapsó en entrevistas secuenciales) y las limitaciones y lagunas (3,20) eran débiles, esto último porque la planitud emocional, la ausencia de contradicción y la escasa especificidad cultural se repetían en todos los contextos. La conclusión de los autores es un límite y no un veredicto: las personas simuladas sirven como ensayo y como solución provisional donde el acceso es imposible o inseguro, pero no donde la complejidad emocional, la especificidad cultural y la dinámica interpersonal *son* el objetivo de aprendizaje. Su mitigación es estructural: emparejar el juego de roles simulado con entrevistas reales para que el estudiantado pueda comparar, y formar al estudiantado para interrogar la salida de las personas simuladas en busca de sesgos y generalizaciones en lugar de tratarla como evidencia de campo.
 
 - **Laboratorios de ciberseguridad:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|la enseñanza de ciberseguridad asistida por LLM]] integra un asistente didáctico de [[generative-ai|IA generativa]] en una plataforma de laboratorio virtual, apoyando la construcción práctica de destrezas experienciales.
 - **Proyectos de robótica:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] utiliza un enfoque práctico y basado en proyectos para enseñar robótica, abordando la falta de experiencia práctica de los programas clásicos.

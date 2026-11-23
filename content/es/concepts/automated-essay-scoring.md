@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada de ensayos
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-15T10:12:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_resources: [moodle-qtype-aitext]
 connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
@@ -57,7 +61,7 @@ En la escritura de respuesta a un texto de los últimos cursos de primaria, [[co
 
 - **Las trazas de razonamiento como explicación.** [[xu-explainable-ai-essay-scoring-cot-2026|Xu et al. (2026)]] ajustan modelos Qwen para que razonen a través de los cuatro rasgos del IELTS antes de puntuar y después aplican PPO sobre las preferencias de las personas examinadoras. El QWK medio subió de 0,5253 (7B, solo CoT) a 0,5410 (72B), mientras que el BLEU de la retroalimentación subió de 0,2371 a 0,2873 con PPO y CoT; la escala por sí sola añadió poco: un 2,5% de BLEU de 7B a 72B.
 
-- **La auditabilidad como objetivo de la puntuación.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] construye una canalización ASAP cuya capa de retroalimentación adjunta evidencia del ensayo a cada rasgo débil y expone una marca de revisión docente. El QWK macro fue de 0,738 frente a 0,739 de su mejor puntuador puro, mientras que la retroalimentación fundamentada en la rúbrica alcanzó un Trait Recall@2 de 0,829 y una tasa de evidencia válida de 0,912 donde la retroalimentación basada solo en la rúbrica no citaba nada.
+- **La auditabilidad como objetivo de la puntuación.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] construye una canalización ASAP cuya capa de retroalimentación adjunta evidencia del ensayo a cada rasgo débil y expone una marca de revisión docente. El QWK macro fue de 0,738 frente a 0,739 de su mejor puntuador puro, mientras que la retroalimentación [[rubrics|fundamentada en rúbricas]] alcanzó un Trait Recall@2 de 0,829 y una tasa de evidencia válida de 0,912 donde la retroalimentación basada solo en la rúbrica no citaba nada.
 
 - **La puntuación de rasgos a nivel de dimensión está acotada por los datos que hay detrás de cada dimensión.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] entrenaron un clasificador por cada dimensión del marco de [[critical-thinking|pensamiento crítico]] FRISCO de Ennis sobre 106 ensayos de física de undécimo grado indonesios (83 para entrenamiento y 23 para prueba, con tres docentes evaluadores que coincidían entre kappa 0,78–0,84 en todas las dimensiones). El acuerdo se concentró en la expresión y no en el razonamiento: la kappa cuadrática ponderada alcanzó 0,763 en Claridad y 0,728 en Situación, pero solo 0,374 en Foco, 0,332 en Razón y 0,227 en Inferencia. La señal ordinal fue fabricada y no observada —ensayos sintéticos de nivel 1 (generación por plantilla, degradación al 20–40% de la longitud original, eliminación de palabras clave) más paráfrasis por LLM elevaron el Foco en +0,346 kappa partiendo de una línea base de 0,028—, y una configuración alcanzó 0,652 de precisión con kappa cercana a cero o negativa, de modo que la precisión no es un criterio de selección utilizable en la AES ordinal.
 

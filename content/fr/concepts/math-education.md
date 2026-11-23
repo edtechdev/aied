@@ -1,7 +1,7 @@
 ---
 title: L'enseignement des mathématiques
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -11,10 +11,14 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/math-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -52,7 +56,7 @@ L'enseignement des mathématiques est devenu un domaine primordial pour la reche
 **La notation perceptuelle est elle-même une variable de conception des tâches :** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et Pradhan (2026)]] ont constaté que les indices visuels sur des problèmes d’ordre des opérations se répartissaient entre étayages et difficultés souhaitables. En ajustant des modèles BKT par condition d’indice sur 19 952 points de données de 688 élèves de sixième, l’espacement congruent à couleur neutre (CSNC) s’est révélé un étayage constant — la seule condition à devancer la référence sans indice au post-test (B = 0,33, p = ,011).
 L’espacement neutre à couleur incongruente (NSIC) a donné le plus faible taux de devinette (0,190), le plus haut taux d’apprentissage (0,0379) et le plus faible taux d’oubli (0,0054).
 
-**Les gains de la formulation de problèmes sont superficiels.** Avec 57 futurs enseignants de mathématiques posant des problèmes de division de fractions avant et avec Gemini, les scores à la grille sont passés de 5,95 à 6,65 sur 8. Le gain résidait dans le contexte et le langage, tandis que le type de problème et la solubilité n'avaient aucune marge de progression, et le recours à une signification de la division de fractions est passé d'un plancher de 1,00 à 1,37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
+**Les gains de la formulation de problèmes sont superficiels.** Avec 57 futurs enseignants de mathématiques posant des problèmes de division de fractions avant et avec Gemini, les scores à la [[rubrics|grille d'évaluation]] sont passés de 5,95 à 6,65 sur 8. Le gain résidait dans le contexte et le langage, tandis que le type de problème et la solubilité n'avaient aucune marge de progression, et le recours à une signification de la division de fractions est passé d'un plancher de 1,00 à 1,37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
 
 **Une pénalité de satisfaction.** Piloter un tuteur LLM selon un plan d'[[productive-failure|échec productif]] plutôt que de le laisser répondre a augmenté la fidélité à la stratégie et produit 2,6 tentatives de solution par session dans une étude menée auprès de 17 élèves du secondaire, et pourtant les élèves ont jugé le tuteur d'échec productif moins utile qu'une condition de référence ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 

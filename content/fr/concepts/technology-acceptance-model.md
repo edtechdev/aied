@@ -1,7 +1,7 @@
 ---
 title: "Les modèles d'adoption des technologies"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
@@ -89,6 +93,8 @@ Ajouter une capacité de la famille du [[tpack|TPACK]] aux côtés de cadres de 
 
 Dans une étude par entretiens en deux vagues auprès de 22 enseignants, en apprendre davantage sur l'IA en a rendu certains plus prudents plutôt que plus acceptants, inversant la direction que le modèle suppose entre expérience et facilité d'usage ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
+
+Même une victoire nette sur l'interface ne déplace pas l'intention : lorsque des adultes de 18 à 25 ans cherchaient des informations sur un programme universitaire via un chatbot ancré ou le site web du programme, toutes les mesures perceptuelles favorisaient le chatbot tandis que l'intention comportementale de l'utiliser à nouveau ne différait pas, et la maturité technologique modérait l'ampleur de l'avantage, les utilisateurs les moins à l'aise en tirant le moins ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
 ## Limites et extensions
 
 L'accent cognitif du TAM sous-capture aussi les dimensions émotionnelles et relationnelles de l'usage de l'IA. Une [[akbaba-nursing-ai-experiences-tam-2026|étude qualitative portant sur des étudiants en soins infirmiers et des enseignants]] a montré qu'aux côtés des quatre construits classiques du TAM, les participants — principalement les étudiants — décrivaient l'IA comme une source de soutien psychosocial : réconfort émotionnel pendant le stress et espace confidentiel de réflexion. Cela étend l'utilité perçue au-delà des gains de performance jusqu'au [[well-being|bien-être]] dans une [[professional-training|formation professionnelle]] à fort enjeu, suggérant que les modèles d'adoption devraient prendre en compte les facteurs affectifs et psychosociaux, et pas seulement l'utilité instrumentale.
@@ -98,6 +104,8 @@ L'accent cognitif du TAM sous-capture aussi les dimensions émotionnelles et rel
 **La perception du risque comme extension propre à une dimension.** Une enquête menée auprès de 814 étudiants universitaires chinois ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen (2026)]]) intègre la théorie de l'évaluation cognitive et la théorie de la motivation à se protéger dans le TAM/UTAUT2 pour demander non pas si les étudiants adoptent l'[[generative-ai|IA générative]], mais ce qu'ils en retirent. L'hypothèse de la famille de modèles selon laquelle le risque supprime uniformément l'adoption ne survit pas : la perception du risque se décompose en dimensions informationnelle, sécuritaire, technique, [[ethics|éthique]] et juridique qui font évoluer les bénéfices dans des directions opposées. Le risque sécuritaire — une menace que les étudiants croient pouvoir maîtriser par leurs [[privacy|pratiques de confidentialité]] — était associé *positivement* à l'assistance académique perçue et au développement des compétences, conformément à un ajustement centré sur le problème, tandis que le risque informationnel, que les apprenants ne peuvent facilement vérifier, érodait le soutien psychologique et émotionnel ainsi que les bénéfices liés à la vie quotidienne et aux loisirs, par l'évitement. Des analyses de seuil ont en outre montré des effets qui changent de signe au-delà de points de coupure propres à chaque dimension, et l'expérience d'usage importait indépendamment : les étudiants comptant plus d'un an d'usage de l'IA générative déclaraient des bénéfices plus élevés dans quatre domaines. L'implication pratique pour la recherche sur l'acceptation est que le « risque perçu » est un construit trop grossier pour être modélisé — c'est la contrôlabilité, et non la simple présence du risque, qui détermine si les étudiants s'engagent ou se retirent.
 
 Une extension récente inverse la direction habituelle, en plaçant les croyances motivationnelles [[discipline-specific-aied|propres à la discipline]] en amont des perceptions du TAM plutôt qu'à côté. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi et Lu (2026)]] rapportent que la valeur d'utilité prédit l'utilité perçue à β = 0.43 et que l'attente de réussite prédit la facilité d'usage à β = 0.39, tandis que les chemins centraux du TAM s'atténuent mais restent significatifs.
+
+**L'utilité peut appartenir à l'ensemble de tâches plutôt qu'à l'outil.** Dans quatre groupes de discussion réunissant 26 étudiants de STIM de premier cycle, le même forum de discussion valait leur temps lorsque l'invite demandait une application ou montrait comment des camarades raisonnaient, et relevait du travail en marge lorsqu'elle demandait de reformuler ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner et Nugent, 2026]]). Les auteurs énoncent la conclusion comme une affirmation TAM : l'utilité perçue se rattache à la manière dont l'invite est construite plutôt qu'à la présence du forum.
 
 **L'adéquation tâche–technologie comme chemin parallèle, et la nécessité comme question à part.** La plupart des extensions ci-dessus ajoutent des construits *à l'intérieur* du modèle de croyances. Un cadre frère que les études TAM portent rarement est l'adéquation tâche–technologie (Task–Technology Fit), qui demande si les capacités d'un outil correspondent aux exigences de la tâche spécifique. [[chu-design-students-ai-agent-tam-ttf-2026|Chu et Liu (2026)]] ont réuni les deux auprès de 405 étudiants de troisième cycle en design d'universités chinoises, et l'adéquation agissait comme une seconde voie vers l'attitude plutôt que comme un déterminant de l'utilité.
 

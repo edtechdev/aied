@@ -1,16 +1,20 @@
 ---
 title: IA psicométricamente consciente
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-15T10:32:41-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -48,7 +52,7 @@ A medida que los sistemas de IA puntúan respuestas, predicen dificultad y ofrec
 - **Validez de la estructura latente:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] muestran que una postura psicométricamente consciente también debe verificar que una evaluación mida el *mismo constructo latente* en los LLM que en las personas. Como las estructuras factoriales de las respuestas de los LLM y de las personas divergen en los mismos instrumentos, incluso los modelos con buenas puntuaciones pueden no estar midiendo el constructo que el examen dice medir, una advertencia para cualquier evaluación con IA que tome prestada evidencia de validez humana.
 - **Una etiqueta puede medir más, o menos, de lo que nombra.** Incrustar los 55 constructos y 272 ítems de 12 instrumentos de [[ai-literacy|alfabetización en IA]] sacó a la luz pares jangle (misma etiqueta, medición distinta) y pares jingle (etiquetas distintas, redacción casi idéntica), recuperando la fiabilidad en r = 0,49, una comprobación previa a la recogida de que las distinciones entre constructos sobreviven a la redacción de los ítems ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
 - **Una escala de dependencia que rechaza el anclaje en los resultados.** Cuatro factores (uso reflexivo, cauteloso, irreflexivo y colaborativo) surgieron de 800 respuestas y se mantuvieron en una tarea con una forma distinta (CFI = 0,91), midiendo la conducta de cada momento de la tarea en lugar de etiquetarla como buena o mala ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
-- **Canalizaciones de habilidad latente y fijación de estándares:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] ofrecen una plantilla concreta de calificación psicométricamente consciente en un examen nacional: las puntuaciones de los ítems de la rúbrica nunca se suman directamente, sino que se introducen en un modelo [[item-response-theory|IRT]] cuyas estimaciones de habilidad latente se cortan con el método de fijación de estándares Bookmark en Competente / Cerca de la competencia / Insuficiente, y para aprobar se exige al menos dos secciones Competentes y la restante al menos Cerca de la competencia. Los autores reprodujeron esa canalización de forma automatizada (una probabilidad del 67% de responder correctamente al menos 7 ítems de la rúbrica para el corte inferior y al menos 10 para el superior), lo que permite comparar las puntuaciones de ítems de la IA y de las personas frente a criterios de decisión idénticos y no solo por su concordancia bruta.
+- **Canalizaciones de habilidad latente y fijación de estándares:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] ofrecen una plantilla concreta de calificación psicométricamente consciente en un examen nacional: las puntuaciones de los ítems de la [[rubrics|rúbrica]] nunca se suman directamente, sino que se introducen en un modelo [[item-response-theory|IRT]] cuyas estimaciones de habilidad latente se cortan con el método de fijación de estándares Bookmark en Competente / Cerca de la competencia / Insuficiente, y para aprobar se exige al menos dos secciones Competentes y la restante al menos Cerca de la competencia. Los autores reprodujeron esa canalización de forma automatizada (una probabilidad del 67% de responder correctamente al menos 7 ítems de la rúbrica para el corte inferior y al menos 10 para el superior), lo que permite comparar las puntuaciones de ítems de la IA y de las personas frente a criterios de decisión idénticos y no solo por su concordancia bruta.
 
 ## Conexiones
 

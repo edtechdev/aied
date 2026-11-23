@@ -1,16 +1,20 @@
 ---
 title: "Apprentissage par le jeu"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-15T11:53:21-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-11-14T21:52:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -52,6 +56,8 @@ Le GBL s'appuie sur les théories de la [[motivation]], de l'[[student-engagemen
 - **Scinder l'IA en un coach de dialogue et un moteur de difficulté.** Un environnement Roblox amélioré par l'IA pour la pensée computationnelle au secondaire supérieur associait un personnage non joueur GPT-4, limité à deux ou trois phrases et interdit de donner des réponses, à un moteur fondé sur des règles qui fixait la difficulté à partir du temps de résolution et du taux d'erreur ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang et Kanjug, 2026]]).
 
 - **Les escape rooms avec un chatbot intégré au jeu.** Une construction de deux mois a produit une escape room 3D dans le navigateur pour la cybersécurité au primaire et au secondaire, avec un panneau GPT-4o intégré sous la forme d'un robot que les élèves peuvent interroger ; les enseignants ont rejoint la deuxième itération et ont fermé un raccourci dans l'enchaînement des énigmes ([[na-yang-escape-room-cybersecurity-2026|Na et Yang (2026)]]).
+
+Un tour de devinette peut enseigner ce que la rédaction d'une invite seule n'enseigne pas. [[kumar-picprompt-game-prompt-engineering-k12-2026|Kumar, Lim, Sotelo et Driscoll (2026)]] ont construit PicPrompt, où un joueur rédige une invite qu'un modèle texte-en-image rend visible et où les autres joueurs devinent l'invite originale avant de voter pour la tentative la plus proche, et l'ont mis en œuvre avec 22 élèves de la 2ᵉ à la 9ᵉ année dans un lieu d'apprentissage informel. Rédiger une invite et voir l'image enseigne la relation de cause à effet, mais deviner l'invite d'un autre joueur à partir de l'image est le moment où la lecture du spectateur s'avère ne pas correspondre à l'intention de l'auteur, et c'est cela qui fait compter le choix des mots et la précision. La connaissance autoévaluée de la rédaction d'invites est passée de 2,23 à 2,73 sur une échelle en quatre points (p = ,118, d = 0,35), et la part de ceux qui n'avaient jamais rédigé d'invite est tombée de 8 sur 22 à 1.
 
 ## Ludification
 

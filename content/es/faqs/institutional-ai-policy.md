@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo redactamos e implantamos una política institucional sobre la IA?"
 created: "2026-09-22T18:53:09-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research, adopting-ai-options-and-issues]
 weight: 65
 type: faq
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 ---
 
@@ -61,7 +65,7 @@ Mire qué publican los programas cuando nada obliga a plantear la pregunta. [[in
 
 La temática era más estrecha de lo que sugiere el volumen. La [[academic-integrity|integridad académica]] fue la palabra clave más frecuente (n = 139), por delante de citación (59), [[assessment|evaluación]] (50) y plagio (38). La [[ai-use-disclosure|declaración del uso de IA]] y la compra de trabajos aparecieron una vez cada una. HIPAA apareció cinco veces, FERPA once y los historiales clínicos electrónicos ninguna. El vocabulario de equidad estaba casi ausente: inclusión (n = 9), accesibilidad (n = 9), acceso equitativo (n = 2).
 
-Eso es atención sin un compromiso vinculante detrás, y es el defecto más barato de corregir. Cuente sus verbos modales y escriba una consecuencia donde quiere que la haya. Defina el plagio y los usos prohibidos con palabras que un estudiante de primer año pueda aplicar. Después puntúe el resultado con el instrumento que construyeron [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]]: cinco dimensiones con rúbricas explícitas, que cubren el grado de prohibición, el grado de permisividad, la integración educativa, la transparencia y la rendición de cuentas, y la profundidad. La mayoría de las instituciones de su sector adoptaron posiciones generalmente prohibitivas y a la vez se reservaron la discrecionalidad de cada docente. Ningún enfoque fue aceptado, y la claridad misma se trató como condición previa para una aplicación defendible. Sus recomendaciones son de procedimiento: directrices completas sea cual sea su postura, partes interesadas implicadas en la redacción, formación proactiva, gobernanza diseñada para adaptarse y ciclos de revisión.
+Eso es atención sin un compromiso vinculante detrás, y es el defecto más barato de corregir. Cuente sus verbos modales y escriba una consecuencia donde quiere que la haya. Defina el plagio y los usos prohibidos con palabras que un estudiante de primer año pueda aplicar. Después puntúe el resultado con el instrumento que construyeron [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]]: cinco dimensiones con [[rubrics|rúbricas]] explícitas, que cubren el grado de prohibición, el grado de permisividad, la integración educativa, la transparencia y la rendición de cuentas, y la profundidad. La mayoría de las instituciones de su sector adoptaron posiciones generalmente prohibitivas y a la vez se reservaron la discrecionalidad de cada docente. Ningún enfoque fue aceptado, y la claridad misma se trató como condición previa para una aplicación defendible. Sus recomendaciones son de procedimiento: directrices completas sea cual sea su postura, partes interesadas implicadas en la redacción, formación proactiva, gobernanza diseñada para adaptarse y ciclos de revisión.
 
 ## Decida quién es su responsable y quién se sienta en el comité
 

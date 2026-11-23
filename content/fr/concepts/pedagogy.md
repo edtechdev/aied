@@ -1,7 +1,7 @@
 ---
 title: Pédagogies et stratégies d'enseignement
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
 connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
@@ -61,6 +65,7 @@ Les stratégies d'enseignement et les pédagogies individuelles forment un ensem
 La [[research-methods-aied|recherche]] examine la pédagogie à l'intersection de l'IA et de l'enseignement de plusieurs manières :
 
 - **L'IA comme agent pédagogique.** Les outils d'IA incarnent des pédagogies — un [[intelligent-tutoring|tuteur]] bâti sur l'interrogation [[socratic-method|socratique]] incite les apprenants à raisonner, tandis qu'un chatbot générateur de réponses peut par défaut fournir directement (voir [[reducing-ai-misuse]] pour comprendre pourquoi la posture pédagogique importe). La littérature sur l'[[agentic-ai|IA agentique]] montre que le fait d'ancrer les agents dans la théorie de la conception pédagogique surpasse la [[prompt-engineering|simple formulation de consignes]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] formalisent ce rôle : plutôt qu'un modèle dyadique enseignant–[[student-modeling|étudiant]] avec l'IA générative comme supplément ou menace externe, ils proposent un **modèle triadique enseignant–étudiant–IA générative** imbriqué, dans lequel l'IA générative opère comme un *médiateur didactico-pédagogique* borné au sein d'un espace de médiation didactique partagé, gouverné par les institutions et les parties prenantes — ce qui produit cinq propositions vérifiables sur la médiation de l'apprentissage, la transformation du rôle de l'enseignant, la littératie IA et l'agency de l'apprenant, l'évaluation [[process-oriented-assessment|axée sur le processus]] et transparente en matière d'IA, et la [[governance]] institutionnelle.
+- **L'ancrage est structurel, non stylistique.** Sur 25 795 scénarios de conception pédagogique générés dans [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]], les agents combinant des cadres classiques de conception pédagogique et le raisonnement surpassaient les configurations fondées sur la théorie seule et sur la technique seule, montrant que l'ancrage pédagogique est un avantage architectural plutôt qu'un style de formulation d'invites.
 - **La pédagogie détermine l'effet de l'IA.** Un résultat récurrent est que la *manière* dont l'IA est utilisée importe autant que le fait *qu*'elle soit utilisée. La [[instructional-guidance-genai-learning|recherche sur les guidages pédagogiques]] et les [[generative-ai-guardrails-harm-learning|essais randomisés sur les tuteurs encadrés]] montrent qu'une même IA peut nuire ou aider selon l'enveloppe pédagogique (indices contre réponses, usage structuré contre usage ouvert).
 - **Le savoir pédagogique l'emporte sur le savoir technique.** Sur 46 enseignants et 2 832 étudiants, le savoir pédagogique des enseignants sur l'IA prédisait les perceptions qu'avaient les étudiants de l'IA au service du bien commun et leur intention d'apprendre l'IA, tandis que le savoir technique seul était insuffisant — et aucun des deux ne prédisait les connaissances des étudiants sur l'IA ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **La contribution la plus claire de l'IA est le délestage du travail administratif.** Une revue PRISMA de 28 études a constaté que l'IA améliorait le plus souvent la planification pédagogique et la [[assessment|conception de l'évaluation]], son bénéfice le plus rapporté étant l'automatisation de la notation, des retours et du suivi des progrès (18 études, 64,2 %) — tandis que l'alignement pédagogique constituait le défi le plus cité (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).

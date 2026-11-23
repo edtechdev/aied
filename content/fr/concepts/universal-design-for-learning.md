@@ -1,7 +1,7 @@
 ---
 title: "Conception universelle de l'apprentissage"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -23,7 +27,7 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -79,6 +83,8 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 - Offrez un choix de production évaluée (essai, exposé, vidéo, schéma, code) aligné sur le même résultat d'apprentissage.
 - *Exemple :* un projet autorise le rendu sous forme de rapport écrit, de vidéo explicative assistée par l'IA ou de démonstration en direct — avec des [[scaffolding|étayages]] d'IA soutenant chaque mode. Dans la conception de l'[[assessment|évaluation]], cela rejoint l'équité représentationnelle de l'[[authentic-assessment|évaluation authentique]].
 
+Le choix n'est inclusif que lorsque les options semblent également crédibles. Les étudiants d'une étude menée dans une faculté des sciences aimaient choisir entre une vidéo et un essai, mais rapportaient que leurs pairs craignaient que l'essai soit moins bien noté ; ce sont des critères partagés et une logique de notation expliquée qui transforment un menu de formats en inclusion plutôt qu'en devinette stratégique ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Concevoir pour la littératie en IA et l'autonomie.**
 - Enseignez aux élèves comment et quand utiliser l'IA, et instaurez des points de contrôle qui maintiennent l'apprenant (et non l'outil) responsable — voir [[ai-literacy|littératie en IA]] et [[reducing-ai-misuse|réduction des usages abusifs de l'IA]].
 - *Exemple :* un devoir aligné sur l'UDL laisse les élèves utiliser l'IA pour rédiger mais exige une réflexion [[metacognition|métacognitive]] sur leur propre contribution, préservant les principes d'engagement et d'autonomie.
@@ -88,6 +94,8 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 - Prémunissez-vous contre une IA qui présuppose un seul style de communication ou pénalise l'expression neurodivergente — reliez cela à l'[[accessibility|accessibilité]], à l'[[equity-in-ai-education|équité]] et à la [[neurodiversity|neurodiversité]].
 
 - **Cibler les obstacles fonctionnels, et non les diagnostics.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] ont constaté que le corpus de 40 études sur les technologies d'assistance destinées aux élèves neurodivergents s'organisait autour de l'aménagement et d'outils conditionnés par le diagnostic, et soutiennent que concevoir en fonction des obstacles transversaux que les élèves rencontrent réellement est ce qui rend un outil plausiblement universel.
+
+**L'équivalence sans l'identique.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] étendent le menu de l'UDL au travail réflexif assisté par IA : les étudiants devraient disposer de voies comparables — réflexion textuelle ou audio, parcours assisté par IA ou sans IA, soutien humain synchrone, critères transparents qui ne récompensent pas une aisance technique sans rapport avec l'objectif — et, surtout, les droits applicables, un choix significatif de l'apprenant et l'accessibilité essentielle sont des prérequis non compensatoires plutôt que des notes qu'une forte performance ailleurs peut contrebalancer. Le principe est « l'équivalence sans l'identique » : différents médias ou niveaux d'automatisation peuvent être utilisés, mais ils doivent offrir des possibilités comparables d'atteindre le même résultat, et l'inclusion doit être conçue plutôt que traitée comme un aménagement apporté après coup.
 
 ## Idées fausses courantes
 

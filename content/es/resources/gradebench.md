@@ -1,7 +1,7 @@
 ---
 title: "GradeBench"
 created: "2026-11-17T15:00:00-05:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: resource
 summary: "Una clasificación pública para modelos frontera que califican respuestas manuscritas reales de estudiantes universitarios de áreas STEM según los ítems de rúbrica que seleccionó el docente."
 url: https://gradebench.com/
@@ -22,12 +22,16 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [automated-assessment, assessment-validity, benchmark]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-GradeBench plantea una pregunta estrecha y útil sobre la [[automated-assessment|evaluación automatizada]]: dada una respuesta manuscrita de un estudiante, la rúbrica del docente, una solución de referencia y los ítems de la rúbrica que el docente seleccionó realmente, ¿un modelo frontera selecciona los mismos ítems? Las etiquetas de referencia son selecciones reales de rúbrica hechas por docentes y asistentes de docencia en exámenes y pruebas cortas, no resultados de modelos recalificados.
+GradeBench plantea una pregunta estrecha y útil sobre la [[automated-assessment|evaluación automatizada]]: dada una respuesta manuscrita de un estudiante, la [[rubrics|rúbrica]] del docente, una solución de referencia y los ítems de la rúbrica que el docente seleccionó realmente, ¿un modelo frontera selecciona los mismos ítems? Las etiquetas de referencia son selecciones reales de rúbrica hechas por docentes y asistentes de docencia en exámenes y pruebas cortas, no resultados de modelos recalificados.
 
 ## Qué puede hacer con él
 

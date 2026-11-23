@@ -1,7 +1,7 @@
 ---
 title: Investigación sobre usabilidad
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-15T10:13:56-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,13 +9,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
 connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
@@ -51,7 +55,7 @@ La investigación sobre usabilidad y UX responde a preguntas como: ¿puede el es
 - **Interacción persona-robot y [[conversational-ai|IA conversacional]].** [[icub-humanoid-storytelling-llm-hri-2025|El estudio del humanoide narrador]] es un estudio de usabilidad explícito de la interacción impulsada por [[llm|LLM]]; [[conversational-ai-agents-umbrella-review-2026|una revisión paraguas de agentes de IA conversacional]] identifica la usabilidad y la calidad de la interacción como un tema recurrente.
 - **Diseño y refinamiento.** Los hallazgos de usabilidad alimentan el diseño iterativo (véase el [[design-thinking|pensamiento de diseño]] y el [[learning-design|diseño del aprendizaje]]), mejorando las herramientas antes o junto a las pruebas de eficacia.
 - **Un instrumento en distintos contextos, y el techo que lo limita.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] mantuvieron constantes el dominio, la tarea y el instrumento mientras variaba el nivel educativo, de modo que las valoraciones de 144 estudiantes sobre 893 respuestas de retroalimentación y 237 informes comparan contextos y no disciplinas, y solo la exactitud percibida difirió entre niveles. El estudio también nombra el límite de este tipo de evaluación por personas usuarias: entre el 72,2 y el 86,4 por ciento del estudiantado promedió al menos 4 de 5, y los autores afirman que sus diferencias no significativas no establecen equivalencia porque no se fijó de antemano ningún margen.
-- **El diseño de los evaluadores, informado como parte del hallazgo.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hicieron que 25 expertos emparejados por dominio juzgaran 92 clases regeneradas frente a una rúbrica anclada en «la calidad de una clase de [[online-teaching-and-learning|MOOC]] estándar», asignando cada vídeo a un único revisor (k = 1) para repartir el panel entre una mayor parte del conjunto de clases en lugar de recoger valoraciones repetidas. El compromiso se modela en lugar de ocultarse: un modelo de intercepto aleatorio atribuye alrededor del 35 por ciento de la varianza residual a quien revisa (ICC = 0,35) y los intervalos se agrupan por revisor, que es como un panel de expertos puede informar «el 87 por ciento en el umbral o por encima» con un rango honesto.
+- **El diseño de los evaluadores, informado como parte del hallazgo.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hicieron que 25 expertos emparejados por dominio juzgaran 92 clases regeneradas frente a una [[rubrics|rúbrica]] anclada en «la calidad de una clase de [[online-teaching-and-learning|MOOC]] estándar», asignando cada vídeo a un único revisor (k = 1) para repartir el panel entre una mayor parte del conjunto de clases en lugar de recoger valoraciones repetidas. El compromiso se modela en lugar de ocultarse: un modelo de intercepto aleatorio atribuye alrededor del 35 por ciento de la varianza residual a quien revisa (ICC = 0,35) y los intervalos se agrupan por revisor, que es como un panel de expertos puede informar «el 87 por ciento en el umbral o por encima» con un rango honesto.
 
 ## Relación con otras familias de investigación
 

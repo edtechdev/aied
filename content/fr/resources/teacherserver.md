@@ -1,7 +1,7 @@
 ---
 title: "TeacherServer"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-24T08:38:48-04:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "Une vaste bibliothèque gratuite de générateurs pédagogiques à finalité unique — plans de leçon, fiches de travail, objectifs d'IEP, grilles d'évaluation, études de cas, problèmes de mathématiques — pour les enseignants de la maternelle au lycée et les enseignants du supérieur."
 url: https://teacherserver.com/
@@ -27,6 +27,10 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-competency, online-teaching-and-learning, automated-question-generation, higher-ed, special-education]
 ---
 
@@ -36,7 +40,7 @@ connected_concepts: [generative-ai, llm, formative-assessment, teacher-ai-compet
 
 ## Ce que vous pouvez en faire
 
-Pour la maternelle au lycée : générateurs de plan de leçon, de fiche de travail, d'[[special-education|objectif d'IEP]], de problème de mathématiques à énoncé, d'activité de lecture, de plan de leçon de sciences et d'expérience scientifique, un coach de phonétique et de lecture, un ajusteur de score Lexile, un [[automated-question-generation|créateur de quiz de programme]], un générateur de perspective historique et des scénarios d'éthique technologique. Pour les enseignants du supérieur : un correcteur de texte, un paraphraseur, un générateur d'étude de cas, un générateur d'idées de recherche, un [[feedback|retour sur les devoirs]], des invites de discussion et un générateur de grille d'évaluation. Le site republie aussi des résumés de recherches récentes sur l'IA en éducation.
+Pour la maternelle au lycée : générateurs de plan de leçon, de fiche de travail, d'[[special-education|objectif d'IEP]], de problème de mathématiques à énoncé, d'activité de lecture, de plan de leçon de sciences et d'expérience scientifique, un coach de phonétique et de lecture, un ajusteur de score Lexile, un [[automated-question-generation|créateur de quiz de programme]], un générateur de perspective historique et des scénarios d'éthique technologique. Pour les enseignants du supérieur : un correcteur de texte, un paraphraseur, un générateur d'étude de cas, un générateur d'idées de recherche, un [[feedback|retour sur les devoirs]], des invites de discussion et un [[rubrics|générateur de grille d'évaluation]]. Le site republie aussi des résumés de recherches récentes sur l'IA en éducation.
 
 ## Remarques
 

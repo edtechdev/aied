@@ -1,7 +1,7 @@
 ---
 title: "Les difficultés souhaitables"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/desirable-difficulties
 connected_resources: [agentic-builds]
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,11 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+
 connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026, yusuf-genai-expertise-reversal-cognitive-load-2026]
 ---
@@ -88,6 +93,8 @@ La tension centrale pour l'apprentissage soutenu par l'IA tient à ce que l'[[ge
 - **Le coût arrive aussi tard.** Un panel de différences en différences portant sur 26 811 élèves chinois du secondaire a trouvé des scores de devoirs en hausse de 18 % et un temps d'achèvement en baisse de 30 %, tandis que les scores aux [[summative-assessment|examens à livres fermés]] chutaient de 20 % en six mois. Les scores aux examens d'entrée diminuaient de 18 % (Gaokao) et de 24 % (Zhongkao), la pénalité complète n'apparaissant qu'au bout d'environ deux ans ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu, 2026]]). Un délai mesuré en semaines peut montrer l'orientation de l'arbitrage mais non son ampleur.
 - **Un même modèle, deux garde-fous, des résultats opposés :** les étudiants à qui l'on donnait un GPT-4 sans restriction l'ont utilisé comme une béquille et ont moins bien réussi que les contrôles dès qu'il leur était retiré, tandis que les étudiants dotés d'un tuteur muni de garde-fous ont obtenu des résultats comparables aux contrôles — c'est la friction, et non le modèle, qui a décidé si l'outil aidait ([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al. (2026)]]).
 - **Reconcevoir la lutte de l'intérieur.** Les dispositifs pédagogiques peuvent délibérément préserver le traitement productif : des routines « brouillon d'abord », un tutorat qui suggère plutôt que ne donne la réponse, une rétroaction différée, et des protocoles de réexplication et d'explication. Ce sont là les étayages concrets explorés sous les bannières [[reducing-ai-misuse]] et [[structured-llm-feedback-programming]]. Une extension conceptuelle de 2026 ([[friction-paradox-generative-ai-education-abroad-2026|Gupta]]) pousse la même logique au-delà des tâches académiques structurées, vers la difficulté à l'intérieur des rencontres relationnelles : dans l'éducation à l'étranger, elle soutient que la question éducative n'est pas de savoir quelle quantité d'IA générative est présente, mais quelles difficultés elle dissout, et propose un *gradient de médiation* qui ordonne les usages selon l'[[agency]] interprétative transférée au système plutôt que selon le volume d'usage.
+
+**Une aide qui profite aux novices peut nuire aux experts.** Dans quatre expériences de huit semaines auprès d'étudiants en informatique de troisième année, le soutien par GenAI a réduit la charge extranéenne et amélioré la performance de programmation autonome des apprenants moins experts, tout en produisant des gains plus faibles chez les plus experts, et un conseil détaillé a provoqué un renversement croisé de l'effet de l'expertise — accroissant la charge extranéenne et affaiblissant la performance des plus savants ([[yusuf-genai-expertise-reversal-cognitive-load-2026|Yusuf et al., 2026]]). La difficulté souhaitable n'est donc pas uniforme : sa valeur dépend de ce que le soutien reste ou non cognitivement nécessaire à l'apprenant.
 
 **Le U inversé et le paradoxe de l'effort.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom et Inzlicht (2026)]] formulent la plus incisive affirmation récente de ce pourquoi la suppression de friction par l'IA n'est pas automatiquement bonne. Ils distinguent l'IA des [[ai-technologies|Technologies de l'IA]] antérieures d'économie de travail sur deux plans : elle vise le travail intellectuel et créatif plutôt que le travail physique ou administratif, et sa suppression de friction est *extrême* — les technologies antérieures éliminaient la friction excédentaire, « les obstacles fastidieux ou insurmontables qui offrent peu de bénéfice pour l'apprentissage ou le sens », tandis qu'un [[conversational-ai|chatbot]] permet à un apprenant de passer de l'idéation à l'évaluation « sans déployer d'effort significatif, sans questionner les productions, et sans engager les processus cognitifs qui nourrissent l'appropriation, la rétention ou la pensée critique ». Leur thèse organisatrice est que la relation entre effort et sens est curvilinéaire : une friction modérée accroît le sens et la motivation tandis qu'une friction excessive submerge, de sorte que le risque de l'IA est de dépasser la borne vers trop peu de friction plutôt que vers l'excès. Deux conséquences importent pédagogiquement — l'effort est lui-même une compétence entraînable (récompenser le processus plutôt que le produit accroît la tendance à s'efforcer et à persévérer), et les bénéfices motivationnels de l'effort s'érodent précisément dans les domaines où l'IA s'y substitue, produisant un cycle de dépendance croissante ([[cognitive-offloading]], [[motivation]]).
 

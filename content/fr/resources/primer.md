@@ -1,7 +1,7 @@
 ---
 title: "Primer"
 created: "2026-11-13T18:05:00-05:00"
-updated: "2026-11-13T18:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: resource
 summary: "Un système de création open source des Generative AI Labs de Wharton qui transforme un entretien structuré avec un enseignant en une simulation d'apprentissage exécutable et adaptative, dotée de ses propres agents mentor, entraînement et rétroaction."
 url: https://gail.wharton.upenn.edu/primer/
@@ -26,6 +26,10 @@ ai_assist:
     role: translation
     date: "2026-11-13"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [simulation, open-source, agentic-ai, learning-design, scaffolding, teacher-role]
 ---
 
@@ -35,7 +39,7 @@ Primer est un [[open-source|système open source]] pour construire une [[simulat
 
 ## Ce que vous pouvez en faire
 
-L'entretien pose une question à la fois : la leçon, le niveau et les connaissances préalables des étudiants, les idées fausses courantes, l'approche de l'enseignant et la manière dont la réussite sera évaluée. Les enseignants peuvent parler ou écrire, et téléverser des programmes, des plans de cours ou des grilles d'évaluation. En retour vient un document de conception qui couvre les objectifs, le déroulé du scénario, les personnages, les enjeux et la logique d'adaptation ; l'enseignant le révise et l'approuve comme un plan de cours. Cinq agents le construisent ensuite : Intake, Design, Casting Director, Image Generation et Experience Builder, qui assemble le résultat pour un seul étudiant ou une classe entière.
+L'entretien pose une question à la fois : la leçon, le niveau et les connaissances préalables des étudiants, les idées fausses courantes, l'approche de l'enseignant et la manière dont la réussite sera évaluée. Les enseignants peuvent parler ou écrire, et téléverser des programmes, des plans de cours ou des [[rubrics|grilles d'évaluation]]. En retour vient un document de conception qui couvre les objectifs, le déroulé du scénario, les personnages, les enjeux et la logique d'adaptation ; l'enseignant le révise et l'approuve comme un plan de cours. Cinq agents le construisent ensuite : Intake, Design, Casting Director, Image Generation et Experience Builder, qui assemble le résultat pour un seul étudiant ou une classe entière.
 
 À l'exécution, trois agents font face à l'étudiant. Un mentor active les connaissances préalables et fait émerger les idées fausses. Un agent d'entraînement joue un interlocuteur de jeu de rôle ou un élève en teachback, où l'étudiant explique un concept et révise son explication lorsqu'on le questionne. Un agent de rétroaction travaille à partir de la transcription, en discutant de moments précis et de la façon dont l'apprentissage se prolonge au-delà du scénario. Chaque agent a un personnage dans l'univers et une couche pédagogique qui suit les objectifs et recueille des preuves, et l'enseignant reçoit des rapports individuels et agrégés.
 

@@ -1,20 +1,24 @@
 ---
 title: "Enseignement primaire"
 created: "2026-11-15T11:52:55-05:00"
-updated: "2026-11-15T11:52:55-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [scaffolding, game-based-learning, self-regulated-learning, social-emotional-learning]
 technology: [adaptive-learning, intelligent-tutoring, conversational-ai, generative-ai]
 level: [primary education, k 12]
 confidence: medium
 translation_of: concepts/primary-education
-source_updated: "2026-11-15T06:45:00-05:00"
+source_updated: "2026-11-22T14:15:40-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-15"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [developmental-psychology, math-education, reading-education, writing-education, digital-divide, equity-in-ai-education, teacher-role, curriculum-design, privacy, assessment]
 connected_articles: [ai-elementary-language-education-review-2026, guo-ai-literacy-developmental-paces-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yim-ai-literacy-primary-schools-review-2025, barokah-ai-elementary-science-review-2026, karampa-students-game-designers-ai-literacy-2026, llm-comparative-judgment-writing-screening-2026, melo-llm-classroom-observation-teach-2026, age-tiered-ai-literacy-guidebooks-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, tutor-case-bench-challenging-behaviors-2026, llm-simulating-student-scientific-thinking-2026, human-ai-complementarity-social-emotional-learning-2026]
@@ -67,6 +71,8 @@ Le système n'est jamais tout le traitement. Un enseignant décide qui l'utilise
 
 - **Un programme d'écriture de neuf semaines avec l'[[generative-ai|IA générative]] a modifié l'affect, pas la profondeur.** Avec 301 élèves de 5e et 6e année dans l'est de la Chine répartis par classe, le programme a élevé le soi idéal d'écriture en langue seconde et la résilience académique et amélioré l'usage de la langue. Il n'a pas modifié l'état d'esprit de croissance, l'engagement cognitif ou métacognitif, ni l'organisation, et les effets étaient faibles : êta-carré partiel de .030 pour la [[motivation]] et de .014 pour l'usage de la langue ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]).
 
+- **Dépister l'écriture par comparaisons de modèles a battu la notation par grille à grande échelle.** Sept LLM ont jugé en comparaison par paires des textes informatifs de la 3e à la 6e année plutôt que de les noter sur des scores absolus de grille ; les notes convergeaient avec les notations des chercheurs (r = .59–.73), les notes moyennées sur trois vagues classaient la compétence en ELA avec un AUC de .82–.86, et les modèles plus coûteux n'ajoutaient guère de validité ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed, 2026]]).
+
 Une rétroaction contingente sur la tentative propre de l'enfant fait ce que des consignes génériques ne peuvent pas faire, et le gain s'accroît lorsqu'un adulte reprend ce que la rétroaction a soulevé.
 
 ## Littératie en IA et usage des chatbots par les enfants
@@ -81,6 +87,8 @@ Une rétroaction contingente sur la tentative propre de l'enfant fait ce que des
 
 La littératie en IA ici n'est pas un [[curriculum-design|programme]] rendu plus simple. Un cadre pour un enfant de neuf ans et un pour un adolescent de dix-sept ans diffèrent par nature : le plus jeune a besoin d'histoires, d'[[metaphors-and-analogies|analogies]] et de fabrication, tandis que l'aîné peut critiquer un système et rendre compte d'une décision.
 
+Les années du primaire portent le moins de preuves de toutes les bandes : cinq des 118 études examinées couvrent la petite enfance jusqu'au début du primaire, contre vingt-sept pour la fin du primaire, et aucun des neuf instruments validés ne consigne le processus de travail avec l'IA ([[guo-ai-literacy-developmental-paces-2026|Guo et al., 2026]]).
+
 ## Ce que contient la littératie en IA, et ce que les études mesurent
 
 Une revue de 2025 de 25 études empiriques au primaire précise le contenu de cette affirmation : le construit qu'elle cartographie comporte quatre fils, enseignés en proportions très inégales. [[yim-ai-literacy-primary-schools-review-2025|Yim et Su (2025)]] ont trouvé la littératie numérique pour interagir avec l'IA dans 19 des 25 études, la pensée computationnelle dans 10, l'éthique de l'IA dans 10, et la littératie critique des données dans seulement 5.
@@ -89,7 +97,7 @@ Une unité de programmation n'atteint donc qu'un fil sur quatre. Le fil qui perm
 
 L'enseignement suit une logique constructionniste, mais avec des agents plutôt qu'avec du papier. Les agents apparaissaient dans 15 des 25 études, les dispositifs centrés sur logiciel dans 8, et les activités débranchées dans 3 ; Teachable Machine, Jibo, Cozmo et Alexa permettaient aux enfants d'entraîner un modèle sans écrire de code. Sur les 16 études nommant un cadre, 8 utilisaient le constructionnisme ou le constructivisme et 6 le modèle ARCS. Les auteurs questionnent la séquence courante qui enseigne la programmation fondée sur des règles avant l'apprentissage fondé sur les données, puisque l'apprentissage automatique demande à l'enfant de sélectionner des exemples plutôt que d'écrire des règles.
 
-Ce qui compte comme preuve est plus mince que ce qui est enseigné. Les enquêtes apparaissaient dans 19 des 25 études, souvent sous forme d'items ponctuels sur la disposition ou l'intention, et seulement 15 des 25 rapportaient un résultat d'apprentissage. Les entretiens (11) et les grilles d'évaluation de productions (8) étaient les lieux où la compréhension conceptuelle apparaissait. C'est la base sous l'échelle validée d'[[self-assessment|auto-évaluation]] citée plus haut : un instrument solide pour la compétence perçue, dans une littérature qui teste rarement la compétence démontrée.
+Ce qui compte comme preuve est plus mince que ce qui est enseigné. Les enquêtes apparaissaient dans 19 des 25 études, souvent sous forme d'items ponctuels sur la disposition ou l'intention, et seulement 15 des 25 rapportaient un résultat d'apprentissage. Les entretiens (11) et les [[rubrics|grilles d'évaluation]] de productions (8) étaient les lieux où la compréhension conceptuelle apparaissait. C'est la base sous l'échelle validée d'[[self-assessment|auto-évaluation]] citée plus haut : un instrument solide pour la compétence perçue, dans une littérature qui teste rarement la compétence démontrée.
 
 Une carte systématique de la recherche en sciences à l'élémentaire arrive au même problème depuis un autre corpus. Sur 103 publications indexées dans Scopus de 2023 au début de 2026, [[barokah-ai-elementary-science-review-2026|Barokah, Hermita et Putra (2026)]] ont trouvé des résultats qui s'élargissent vers le territoire affectif et régulateur tandis que les résultats épistémiques restent minces. Peu d'études demandaient si les enfants pouvaient séparer l'observation de l'inférence ou juger les limites d'une affirmation produite par l'IA. Leur avertissement sur l'évaluation est propre à ce cycle : les tâches de performance de la fin du primaire produisent des explications partielles, des dessins et des gestes, et un correcteur qui marque comme fausse une réponse développementalement productive supprime la valeur formative. Les contributeurs des deux littératures se concentrent en Chine, aux États-Unis et à Hong Kong, et la revue au primaire ajoute un écart de genre, les garçons déclarant plus de confiance et de préparation (Dai et al., 2020, cité dans Yim et Su).
 
@@ -99,7 +107,11 @@ Une carte systématique de la recherche en sciences à l'élémentaire arrive au
 
 - **Compter le travail de vérification.** Dans l'essai de numératie, les enseignants appréciaient les listes d'exercices prêtes à l'emploi mais citaient la photographie, l'attente et la correction des erreurs de reconnaissance comme coût. La charge de travail était associée négativement aux gains, le plus nettement pour la demande mentale, −2.569.
 
+- **Garder le moment comportemental du ressort de l'adulte.** Sur 923 dialogues ancrés dans des cas tirés de la littérature sur l'éducation spécialisée, le meilleur des 11 tuteurs n'atteignait une intervention documentée que dans 43.3 % des plans à long terme, se rabattant sur la réassurance là où un cas prescrivait de vérifier d'abord le travail ([[tutor-case-bench-challenging-behaviors-2026|Park et al., 2026]]).
+
 - **Former avant de généraliser.** Seuls 19.2 % des 302 enseignants du primaire turcs interrogés avaient reçu une formation à l'IA, et la formation et la fréquence d'usage étaient les variables les plus systématiquement associées à des perceptions favorables. La volonté (M = 3.98) dépassait nettement l'expérience (M = 3.00) ([[cigerci-primary-teachers-perceptions-ai-mathematics-2026|Ciğerci et Uygun, 2026]]).
+
+- **Un observateur d'IA est une entrée pour le jugement professionnel, pas une évaluation.** Sur 12 vidéos de classe primaire notées selon le cadre TEACH Primary, huit points d'arrivée LLM ont divergé des experts certifiés au-delà de 55 % d'accord exact, les exécutions répétées variaient fortement, et les modèles fiables étaient souvent les moins exacts — parce qu'ils créditaient les indices verbaux explicites plutôt que l'[[self-regulated-learning|autorégulation]] soutenue de l'élève ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]]).
 
 - **Protéger la frontière entre savoir personnel et savoir partagé.** Les plans de cours générés peuvent ressembler à une pratique collectivement validée sans porter aucune caution communautaire. Le risque pèse le plus lourd sur les novices, dont les connaissances [[pedagogy|pédagogiques]] de contenu sont encore en formation ([[webb-pck-genai-2026|Webb et al., 2026]]).
 

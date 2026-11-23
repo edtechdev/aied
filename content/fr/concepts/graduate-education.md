@@ -1,20 +1,24 @@
 ---
 title: "Cycles supérieurs"
 created: "2026-11-15T11:52:55-05:00"
-updated: "2026-11-15T11:52:55-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 pedagogy: [professional-training, self-regulated-learning, scaffolding, metacognition, collaborative-learning]
 technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-analytics]
 level: [graduate, higher ed]
 confidence: medium
 translation_of: concepts/graduate-education
-source_updated: "2026-11-15T06:45:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-15"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [academic-integrity, assessment-validity, ai-literacy, cognitive-offloading, evaluative-judgment, professional-training, medical-education, business-education, career-development-and-readiness, oral-assessment]
 connected_articles: [genai-medical-education-transformation-review-2026, packard-thinking-partner-framework-adult-learners-2026, issa-teamwork-framework-academic-integrity-2024, genai-dependence-research-creativity-2026, giancotti-data-provenance-health-ai-curricula-2026, ai-tutor-modality-randomized-field-experiment-2026, assigned-ai-preclass-student-engagement-2026, llm-grading-assistants-public-health-2026, genai-cognitive-offloading-learner-agency-review-2026, patrick-ai-higher-order-thinking-systematic-review-2025, morales-cevallos-ai-forensic-science-education-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026, idea-model-doctoral-education-genai-2026]
@@ -72,7 +76,7 @@ Les diplômes professionnels contiennent l'essentiel des données de niveau sup�
 
 - **Les patients simulés élargissent l'accès, pas la compétence prouvée.** SOPHIE 2.0 propose 24 scénarios cliniques par un avatar de navigateur avec un juge LLM. Le juge atteignait un Pearson de 0.759 et un ICC de 0.746 contre le consensus humain, et 92 % des 59 participants le trouvaient engageant ; sans condition de contrôle, la hausse des scores ne peut pas être attribuée à la formation ([[sophie-clinical-communication-ai-assessment-2026]]).
 
-- **Remplacer un facilitateur préserve les scores et coûte du processus.** Dans un cours de pharmacologie de quatre semaines, 136 étudiants de deuxième année de médecine en [[problem-based-learning|apprentissage par problèmes]] dirigé par un facilitateur ou par l'IA se sont améliorés également aux tests à choix multiples (p = 0.474). Les groupes dirigés par un facilitateur ont mieux noté la pensée critique, 14.75 contre 13.09 (p < 0.001), et la grille de groupe, 26.51 contre 24.74 (p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
+- **Remplacer un facilitateur préserve les scores et coûte du processus.** Dans un cours de pharmacologie de quatre semaines, 136 étudiants de deuxième année de médecine en [[problem-based-learning|apprentissage par problèmes]] dirigé par un facilitateur ou par l'IA se sont améliorés également aux tests à choix multiples (p = 0.474). Les groupes dirigés par un facilitateur ont mieux noté la pensée critique, 14.75 contre 13.09 (p < 0.001), et la [[rubrics|grille]] de groupe, 26.51 contre 24.74 (p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026]]).
 
 - **La recherche sur la formation clinique n'a pas atteint la compétence.** Une [[meta-analysis-systematic-review|revue de portée]] de la formation des conseillers a trouvé 14 sources, toutes postérieures à 2023 et dominées par des clients simulés. Aucune ne mesurait la compétence, aucune ne testait un scénario de crise, et la persona par défaut était culturellement neutre sauf si l'invite précisait une culture ([[van-patten-freeman-rath-ai-counselor-education-scoping-2026]]).
 
@@ -128,3 +132,9 @@ Les cycles supérieurs héritent des problèmes sectoriels d'intégrité, de [[a
 - **« L'IA peut remplacer le facilitateur sans coût. »** Les gains aux choix multiples étaient équivalents en apprentissage par problèmes mené par l'IA, mais la pensée critique et le processus de groupe ne l'étaient pas, et seulement 15.8 % des enseignants interrogés avaient rédigé une politique d'usage de l'IA.
 
 - **« La [[ai-literacy|littératie en IA]] de cycle supérieur signifie la maîtrise des outils. »** Le cadre de cycle supérieur sépare les fondations cognitives, les compétences opérationnelles, la pensée d'ordre supérieur, la réflexion métacognitive et la responsabilité éthique.
+
+## La GenAI dans le développement doctoral
+
+Les programmes doctoraux adoptent la GenAI dans deux directions à la fois — comme instrument de recherche et comme un objet que les candidats doivent apprendre à enseigner avec — et une étude de recherche-action participative menée en 2026 à Cuba a testé si une seule séquence pouvait servir les deux. Trente-quatre candidats au doctorat qui enseignent également ont travaillé dans un modèle intégré unique (le modèle Dr. I.D.E.A.), où la recherche, les compétences numériques soutenues par l'IA et les compétences pédagogico-créatives étaient exercées sur la même tâche authentique. Les 34 ont intégré la GenAI dans un cours, 26 ont maintenu une refonte documentée pendant au moins trois semaines et 25 utilisaient encore une pratique soutenue par l'IA au moment du suivi. ([[idea-model-doctoral-education-genai-2026|Padrón Alvarez et Estrada Molina, 2026]])
+
+Les gains de compétence auto-déclarés (d = 1,69 à 2,10) doivent être lus comme un changement perçu sans groupe de comparaison ; la contribution durable tient à la couche opératoire — des catégories d'usage co-construites, des carnets individuels d'usage de l'IA et une vérification obligatoire dans des bases indexées.

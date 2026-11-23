@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-11-15T10:26:22-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,6 +30,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_faqs: [ai-support-reading-comprehension]
 connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
@@ -75,7 +79,7 @@ Un sistema a nivel de discurso va más allá y nombra el defecto en lugar de pun
 
 La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto motivacional en un tutor creado por el profesorado: en 74 estudiantes universitarios que usaban un GPT de japonés acotado al curso, la frecuencia de uso fuera de clase no mostró correlación significativa con la autonomía, la competencia ni la relación, mientras que el estudiantado valoró muy bien al tutor para el [[self-directed-learning|aprendizaje autodirigido]] (M = 4,39) y citó la seguridad afectiva (60,8%) ([[instructor-designed-ai-tutors-foreign-language-sdt-2026|Lee y Kwon, 2026]]).
 
-**La escritura apoyada por IA generativa en la etapa primaria.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] llevaron a cabo un programa de escritura de opinión de nueve semanas con 301 estudiantes de quinto y sexto grado (grados 5 y 6) en el este de China, con ocho clases intactas asignadas aleatoriamente al programa o a la instrucción convencional. El programa elevó el yo ideal de escritura en L2 del estudiantado (diferencia de medias ajustada 0,20) y su capacidad de recuperación académica (0,17), y subió la implicación conductual y emocional, pero no movió la mentalidad de crecimiento, la implicación cognitiva o metacognitiva ni la organización puntuada por rúbrica: entre las dimensiones de la escritura, solo mejoró el uso de la lengua. Dos rasgos del diseño importan al profesorado de lenguas: se enseñó explícitamente a formular prompts, mediante un banco categorizado de prompts ligados a metas de escritura concretas, y el feedback de IA generativa se usó junto con la comparación con el feedback del profesorado y la revisión repetida. Las ganancias de autoría que el estudiantado declaró se apoyaban en esa estructura instruccional y no en la herramienta por sí sola, y los autores señalan el [[metacognition|autocontrol]] reducido y las estrategias orientadas a atajos como los riesgos permanentes.
+**La escritura apoyada por IA generativa en la etapa primaria.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] llevaron a cabo un programa de escritura de opinión de nueve semanas con 301 estudiantes de quinto y sexto grado (grados 5 y 6) en el este de China, con ocho clases intactas asignadas aleatoriamente al programa o a la instrucción convencional. El programa elevó el yo ideal de escritura en L2 del estudiantado (diferencia de medias ajustada 0,20) y su capacidad de recuperación académica (0,17), y subió la implicación conductual y emocional, pero no movió la mentalidad de crecimiento, la implicación cognitiva o metacognitiva ni la organización puntuada por [[rubrics|rúbrica]]: entre las dimensiones de la escritura, solo mejoró el uso de la lengua. Dos rasgos del diseño importan al profesorado de lenguas: se enseñó explícitamente a formular prompts, mediante un banco categorizado de prompts ligados a metas de escritura concretas, y el feedback de IA generativa se usó junto con la comparación con el feedback del profesorado y la revisión repetida. Las ganancias de autoría que el estudiantado declaró se apoyaban en esa estructura instruccional y no en la herramienta por sí sola, y los autores señalan el [[metacognition|autocontrol]] reducido y las estrategias orientadas a atajos como los riesgos permanentes.
 
 **La instrucción gramatical con IA generativa funciona mediante la revisión, no mediante el comentario.** En un cuasiexperimento de diez semanas con 88 estudiantes etíopes de inglés como lengua extranjera, los ciclos de borrador, prompt, reflexión y revisión elevaron la gramática (η² = 0,499) y la escritura global, y las puntuaciones de contenido subieron aunque el prompt prohibía la retroalimentación sobre el contenido ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa y Abo, 2026]]).
 
@@ -106,6 +110,8 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 **El estudiantado de traducción puede desplazarse fuera de la corrección superficial.** En un curso de traducción periodística, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] encontraron que la consulta de motores de búsqueda subió de una mediana del 15,6% al 27,7% del tiempo de sesión (p = 0,020, corregido por Holm) y la búsqueda basada en conocimiento del 7,2% al 28,8% (p = 0,010). El uso de traducción automática cayó del 28,5% al 5,1% sin alcanzar significación (p = 0,338), y el uso interactivo de IA se mantuvo en una mediana de cero. La palanca fue mostrar al estudiantado su propio proceso en lugar de prohibir una herramienta.
 
 La síntesis de Zhang, Aubrey, Wu y Chiu de 48 estudios controlados (N = 5196) encuentra que el beneficio de la IA generativa depende de la configuración y no de su presencia. El uso para retroalimentación y evaluación produjo el mayor efecto (g = 1.15) frente a g = 0.28 de la integración instruccional, y los modos dirigidos por quien aprende (g = 0.92) superaron a los autónomos (g = 0.34). La lectura no mostró ningún efecto significativo, y el g = 1.48 destacado en expresión oral cayó a g = 0.65 una vez eliminados tres valores atípicos extremos ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
+Lo que hace pedagógicamente valioso a un chatbot se juzga de forma holística. Una evaluación psicométrica con 533 futuros docentes tailandeses, docentes en ejercicio y profesores universitarios desarrolló un conjunto de 47 ítems de características de diseño para chatbots gamificados de lectura y escritura en L2 construidos a propósito, y lo depuró hasta 39 ítems provisionales ([[wiboolyasarin-ai-chatbots-l2-literacy-2026|Wiboolyasarin et al., 2026]]). Una estructura interpretable de tres componentes (apoyo adaptativo e integrado en el aula, motivación gamificada y seguimiento del progreso, y contenido pedagógicamente rico y culturalmente relevante) convivió con correlaciones factoriales muy altas (0,883–0,926) y no superó las pruebas de validez discriminante. Un modelo bifactorial ajustó mejor: el profesorado valora una percepción general amplia de la calidad del diseño pedagógico con componentes más pequeños específicos del dominio, de modo que los tres dominios organizan las prioridades de diseño pero no son subescalas validadas. El instrumento es provisional y necesita validación independiente antes de usarse con fines evaluativos.
 
 ## Concepciones erróneas
 

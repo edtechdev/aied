@@ -1,7 +1,7 @@
 ---
 title: "Les mesures auto-déclarées"
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-15T11:55:14-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -26,8 +26,12 @@ ai_assist:
     role: translation
     date: "2026-11-01"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
-connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
+connected_articles: [adaptive-pretesting-retention, ai-literacy-assessment-misalignment, ai-literacy-self-assessment-questionnaire-primary-2025, ai-use-critical-thinking-medical-students-2026, ai-vocational-education-training-review, assessing-teachers-ai-literacy-measurement-tools-2026, capability-decision-model-teacher-readiness-2026, competent-generative-ai-use-measures-review-2026, engagement-intensity-learner-modeling, fouad-bentley-trust-utility-gap-physics-2026, genai-motivation-engagement-2026, genai-student-experiences-uk-he-survey-2026, hawkins-feedback-literacy-ai-essay-writing, high-school-genai-acceptance-tam-physics-2026, huang-genai-academic-information-resources-2026, jarvie-jiving-llms-programming-self-efficacy-2026, jelson-students-chatgpt-essay-writing-2026, jin-glat-genai-literacy-assessment, kares-xai-evaluation-alignment-2027, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, martinez-genai-accessibility-minnesota-educators-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, onodipe-enhance-not-replace-ai-classroom-2026, pause-ai-cognitive-offloading-self-reflection-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, predicting-attrition-competitive-programming, same-construct-same-conclusion-self-report-vs-performance-2026, student-genai-use-views-writing, student-llm-interaction-taxonomy-review-2026, tischkau-ai-simulated-patient-formats-2026, tracing-genai-literacy-interaction-patterns, voice-based-ai-feedback-interviews-higher-ed-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -54,7 +58,7 @@ Ce n'est pas une faiblesse dont il faudrait s'excuser. De nombreux construits d'
 
 ## Ce que l'auto-déclaration peut et ne peut pas établir
 
-L'auto-déclaration convient bien aux attitudes, croyances, intentions, perceptions d'un outil, états affectifs, et confiance ou difficulté auto-jugées. Une revue de portée de 394 études sur l'IAG dans l'enseignement supérieur a trouvé les échelles d'enquête comme méthode d'évaluation la plus fréquemment rapportée (269 études, 68,3 %), devant les tests, quiz et grilles d'évaluation (185, 47,0 %) et l'analyse d'artefacts (167, 42,4 %) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). Elle convient mal au comportement, et elle ne peut aucunement mesurer l'apprentissage : la croyance d'une personne qu'elle a appris quelque chose est elle-même une perception, et l'apprentissage perçu est traité comme une quantité distincte des [[learning-gains|gains d'apprentissage]].
+L'auto-déclaration convient bien aux attitudes, croyances, intentions, perceptions d'un outil, états affectifs, et confiance ou difficulté auto-jugées. Une revue de portée de 394 études sur l'IAG dans l'enseignement supérieur a trouvé les échelles d'enquête comme méthode d'évaluation la plus fréquemment rapportée (269 études, 68,3 %), devant les tests, quiz et [[rubrics|grilles d'évaluation]] (185, 47,0 %) et l'analyse d'artefacts (167, 42,4 %) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). Elle convient mal au comportement, et elle ne peut aucunement mesurer l'apprentissage : la croyance d'une personne qu'elle a appris quelque chose est elle-même une perception, et l'apprentissage perçu est traité comme une quantité distincte des [[learning-gains|gains d'apprentissage]].
 
 La conséquence est un ensemble d'affirmations qui se ressemblent dans une section de résultats mais diffèrent en force :
 
@@ -79,6 +83,7 @@ Les profils dérivés de l'auto-déclaration se comportent de la même manière.
 
 Les traces comportementales peuvent séparer des apprenants qu'une échelle d'auto-déclaration ne sépare pas : [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] ont constaté que la charge cognitive auto-déclarée ne différait pas significativement entre des profils de délestage allant de 80 % à 2 % de rédaction des dissertations, alors même que les étudiants au délestage le plus fort rapportaient la demande mentale la plus élevée.
 
+Deux items peuvent fabriquer cet écart. Dans [[martinez-genai-accessibility-minnesota-educators-2026|une enquête menée auprès d'éducateurs du Minnesota]], 83,1 % approuvaient l'affirmation selon laquelle l'IA générative profite à l'accessibilité tandis que 31,9 % rapportaient l'utiliser à cette fin. Le second item était à sélection multiple, si bien qu'une non-sélection confond « ne pas utiliser » avec « ne pas avoir vu l'option » — un artefact de formulation de l'item plutôt qu'un résultat sur les éducateurs.
 [[ai-literacy-assessment-misalignment|Une étude qui a construit des mesures parallèles auto-déclarées et objectives de la littératie en IA des enseignants]] a trouvé un **faible accord entre les facteurs auto-déclarés et objectifs (r = 0,07 à r = 0,24)** dans un échantillon de 288 enseignants. L'analyse factorielle confirmatoire étayait la validité de construit des deux mesures tout en montrant une **faible corrélation entre les facteurs auto-déclarés et objectifs**. Les deux instruments étaient crédibles ; ils mesuraient simplement des choses différentes. Dans l'échantillon complet de 288 enseignants, les corrélations entre facteurs objectifs et auto-déclarés allaient de r = 0,07 à r = 0,24, et l'[[latent-profile-analysis|analyse de profils latents]] a trouvé 43 enseignants qui se sont notés haut tout en obtenant moins à la mesure objective, contre 59 montrant le schéma inverse.
 
 [[jin-glat-genai-literacy-assessment|GLAT]] parvient à la même conclusion dans la direction opposée : son test de performance de 20 items prédisait la performance aux tâches d'apprentissage soutenues par l'[[generative-ai|IA générative]] dans une étude intra-sujet portant sur 83 étudiants, **tandis que la littératie à ChatGPT auto-déclarée ne le faisait pas**. Le cadrage des auteurs est abrupt — les instruments de ce domaine s'appuient massivement sur des sondages auto-déclarés, « qui captent la compétence perçue plutôt que réelle et sont sujets aux biais et à la surestimation ».
@@ -132,6 +137,8 @@ Quatre propriétés séparent un sondage qui peut étayer une affirmation d'un q
 
 Une enquête récente auprès du corps professoral montre l'échec sous sa forme extrême. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] ont administré 300 items à 315 enseignants universitaires, rapporté α = 0,997 pour l'échelle totale et n'ont réalisé aucune analyse factorielle, alors qu'un modèle Naive Bayes classait correctement 314 des 315 répondants (précision 0,9968) en bandes de compétence faible, moyenne et élevée. Un instrument dont les items se comportent comme des quasi-doublons peut être prédit presque parfaitement à partir de quelques variables démographiques et institutionnelles parce qu'il porte peu d'information indépendante : les auteurs ont trouvé que l'affiliation était le plus grand contributeur global dans leur analyse SHAP, et les points de coupure définissant les trois bandes n'ont pas été conservés.
 
+Le libellé pré-post peut fabriquer le changement qu'il rapporte. Dans un pilote à deux cohortes d'un patient simulé par IA, [[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]] ont formulé les items pré-rencontre comme des attentes et les items post-rencontre comme de l'expérience, si bien que les scores de différence comparaient une attente à un souvenir. Leur BSLS-P provisoire a retourné des alphas de sous-échelle allant de −0,39 à 0,87 selon les passations, et des ensembles d'items qui ne variaient pas ensemble portaient néanmoins une affirmation de sécurité psychologique.
+
 ## Échantillonnage, réponse et non-réponse
 
 Parce que les sondages sont peu coûteux à administrer, c'est généralement dans les problèmes d'échantillonnage que l'affirmation de généralisabilité échoue. Les études les rapportent explicitement et de façon instructive :
@@ -157,12 +164,14 @@ Les réponses constructives sont constantes, et aucune n'exige d'abandonner les 
 - **Noter le comportement contre une grille plutôt que de l'interroger.** [[adaptive-pretesting-retention|Le travail sur la rétention]] traite l'effort de pratique comme un indicateur comportemental dérivé des journaux d'interaction, et explicitement pas comme une mesure de l'état [[motivation|motivationnel]] interne.
 - **Trianguler.** Les [[genai-over-reliance-learning-2026|dispositifs à méthode mixte]] et la [[mixed-methods-research|recherche à méthodes mixtes]] en général échangent la taille d'échantillon contre la capacité de recouper une source de données par une autre ; [[ai-vocational-education-training-review|une revue systématique de l'éducation professionnelle]] est instructive sur le déséquilibre, notant que, parmi les études quantitatives examinées, 2 reposaient exclusivement sur l'auto-déclaration tandis que 5 n'employaient que des mesures objectives.
 - **Mesurer le résultat qui vous importe.** Si l'affirmation porte sur l'apprentissage, les [[learning-gains|gains d'apprentissage]] doivent être mesurés, et non inférés de la satisfaction.
+- **Confronter les auto-déclarations au registre.** [[pinto-student-ownership-ai-agents-code-2026|Pinto et al. (2026)]] ont demandé à 33 étudiants en génie logiciel ce qu'ils avaient écrit et ont comparé les réponses avec leur propre historique de commits : la paternité rapportée n'avait aucun rapport avec ce que déclarent les commits, si bien que le propre récit de leur contribution ne pouvait tenir lieu de preuve.
 
 ## Comment lire une affirmation fondée sur l'auto-déclaration
 
 - Demandez de quel type d'affirmation il s'agit. Les perceptions sont jouables ; le comportement est approché ; l'apprentissage et la compétence ne sont pas atteignables de cette manière.
 - Vérifiez qui a répondu et qui ne l'a pas. Le taux de réponse, la base d'échantillonnage et l'auto-sélection décident de ce que décrivent les pourcentages — une étude sur les étudiants d'une institution décrit ce cadre, et non les étudiants en général.
 - Vérifiez l'instrument. A-t-il été validé pour ce construit et cette population, et, si des groupes sont comparés, l'invariance a-t-elle été testée ?
+- Vérifiez la distribution avant de vous fier au test. Les deux facteurs d'une échelle validée d'auto-efficacité en programmation ont bougé aux tests de signes (p = .0074 et p = .012) tandis que la médiane du facteur 1 restait à 5,87 du pré-test au post-test, et tous les facteurs étaient asymétriques négativement ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]]).
 - Soyez attentif aux dispositifs à source unique. Si les prédicteurs et les résultats proviennent tous deux du même questionnaire au même point temporel, les associations sont compatibles avec la variance de méthode commune aussi bien qu'avec la théorie proposée.
 - Traitez la satisfaction comme un signal de conception, non comme un résultat d'apprentissage. Une satisfaction élevée plus un apprentissage non testé est la configuration standard dans l'évaluation d'outils d'IA, et les données probantes montrent les deux divergeant.
 - Préférez les études qui montrent leur travail : taux de réponse énoncés, limitations énoncées, et au moins une source de données probantes qui ne vient pas du fait de demander.

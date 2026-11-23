@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-16T09:20:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
 connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
@@ -82,6 +86,8 @@ Una intervención de valor de utilidad no es uniformemente beneficiosa: una vers
 - **La autoeficacia es la raíz del disfrute del profesorado con la IAG.** En un estudio PLS-SEM de 434 docentes en activo, la autoeficacia era la única variable exógena del modelo y su mayor efecto fue sobre el disfrute percibido (β = 0,805, f² = 1,839), alimentando a su vez la utilidad percibida y la facilidad de uso ([[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez et al., 2026]]).
 
 **La paradoja del esfuerzo y el círculo vicioso de la asistencia.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom e Inzlicht (2026)]] sostienen que la IA no simplemente ayuda o estorba a la motivación, sino que la redistribuye: los humanos suelen tomar el camino de menor resistencia, pero también buscan el esfuerzo —la paradoja del esfuerzo— porque el esfuerzo señala que las acciones importan y porque la recompensa ligada al proceso más que al producto aumenta la tendencia a esforzarse y perseverar. De ahí se siguen dos afirmaciones. Primera: la relación entre esfuerzo y significado es una U invertida, de modo que el objetivo motivacional es una fricción moderada, y el riesgo de una IA sin fricción es pasarse hacia demasiado poco. Segunda: un círculo vicioso, pues a medida que la IA sustituye el esfuerzo en un ámbito, se erosionan los beneficios motivacionales del esfuerzo en ese ámbito, lo que hace a los usuarios más dependientes de la IA, lo que erosiona aún más la motivación. También separan el suplemento del sustituto según la etapa de desarrollo: quienes aprenden en etapas tempranas corren el riesgo de saltarse las experiencias que construyen la perseverancia, mientras que quienes ya tienen habilidades establecidas pueden usar la IA para ahorrar tiempo ([[desirable-difficulties]], [[self-efficacy]]).
+
+[[motivational-gain-trumping-cognitive-offloading-2026|Wang, Guo y Gong, 2026]] sopesan juntos los dos lados de ese ciclo y los encuentran casi equilibrados: donde el uso de la IA elevó la motivación del estudiantado por aprender, el pensamiento crítico mejoró, y donde se convirtió en un sustituto del pensar, el pensamiento crítico cayó aproximadamente lo mismo. Eso convierte la ganancia motivacional en un beneficio real que la dependencia puede cancelar, y no en una razón para relajarse con la dependencia excesiva.
 
 **La literatura mide la motivación sin una teoría de ella.** Una [[meta-analysis-systematic-review|revisión de alcance]] de 156 estudios de 2003 a 2025 encontró que 133 (85,3%) no se guiaban por ninguna teoría motivacional específica, la variable más común era una motivación académica generalizada (n = 89) y 88 estudios (56,4%) procedían de un único contexto nacional ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
 
