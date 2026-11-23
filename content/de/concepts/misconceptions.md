@@ -1,7 +1,7 @@
 ---
 title: Missverständnisse über KI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-18T18:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,10 +11,14 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-18T16:55:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
@@ -46,7 +50,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Einführung
 
-Missverständnisse über KI zählen, weil sie der kognitive Vorläufer der schädlichen Verhaltensweisen sind, die die Wissensbasis unter [[cognitive-offloading|Überabhängigkeit]] und [[academic-integrity|akademischer Integrität]] dokumentiert. Menschen machen sich selten daran, KI [[ai-misuse-learning-harm|zu missbrauchen]]; sie tun es, weil ungenaue mentale Modelle sie dazu bringen, Vertrauen falsch zu platzieren, Verifikation zu überspringen und Output als Verstehen zu behandeln. In der Bildung prägen diese Fehler alles davon, wie Studierende lernen, bis dazu, wie Lehrende und Institutionen Curricula, [[assessment|Assessment]] und Politik gestalten.
+Missverständnisse über KI zählen, weil sie der kognitive Vorläufer der schädlichen Verhaltensweisen sind, die die Wissensbasis unter [[cognitive-offloading|Überabhängigkeit]] und [[academic-integrity|akademischer Integrität]] dokumentiert. Menschen machen sich selten daran, KI [[ai-misuse-learning-harm|zu missbrauchen]]; sie tun es, weil ungenaue mentale Modelle sie dazu bringen, Vertrauen falsch zu platzieren, Verifikation zu überspringen und Output als Verstehen zu behandeln. In der Bildung prägen diese Fehler alles davon, wie Studierende lernen, bis dazu, wie Lehrende und Institutionen Curricula, [[assessment|Assessment]] und Politik gestalten. Ein gesonderter Forschungsstrang hinterfragt das Framing, das jene Missverständnisse überhaupt erzeugt; siehe [[critiques-of-ai-in-education|Kritik an KI in der Bildung]].
 
 ## Was KI-Missverständnisse sind
 

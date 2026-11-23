@@ -1,7 +1,7 @@
 ---
 title: Grenzen der AIED-Forschung
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,10 +12,14 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -37,13 +41,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Wie viel würden Sie einer Überschrift wie „KI-Tutoring steigert Lernen um 30%" vertrauen, wenn Sie erführen, sie stamme von 30 Lernenden in einem Kurs an einer Institution? Die Seite markiert Generalisierbarkeit und kleine Stichproben als wiederkehrende Grenzen —, was würden Sie wissen wollen, bevor Sie auf irgendeinen einzelnen Befund hin handeln?
 - Eine frappierende Grenze ist das „Geschwindigkeitsproblem": KI entwickelt sich schneller, als Befunde publiziert werden, sodass eine Studie über eine Modellgeneration möglicherweise bereits ein veraltetes System beschreibt. Wie sollte das die Zuversicht verändern, die Sie der KI-Bildungsforschung entgegenbringen?
 - Viele Studien stützen sich auf [[self-report-measures|selbstberichtete]] Einstellungen und Nutzung, die verzerrt sind — Menschen überschätzen ihre Kompetenz und berichten Missbrauch unter. Haben Sie schon einmal eine Umfrage über Ihre eigenen Fähigkeiten oder Ihr Verhalten auf eine Weise beantwortet, die der Realität nicht entsprach? Warum divergieren wahrnehmungsbasierte Maße so oft von objektiver Leistung?
-- Die Seite hält fest, dass vertraute Rahmenwerke wie Blooms Taxonomie oft als strenge Leitern falsch gelesen werden, und dass selbst weit genutzte Theorien wie [[cognitive-offloading|Cognitive-Load-Theorie]] infrage gestellt wurden. Wann haben Sie gesehen, wie eine Theorie als gesicherte Wahrheit in einem Kontext aufgerufen wurde, in dem ihre eigene Evidenz tatsächlich bestritten war?
+- Die Seite hält fest, dass vertraute Rahmenwerke wie [[bloom-taxonomy|Blooms Taxonomie]] oft als strenge Leitern falsch gelesen werden, und dass selbst weit genutzte Theorien wie [[cognitive-offloading|Cognitive-Load-Theorie]] infrage gestellt wurden. Wann haben Sie gesehen, wie eine Theorie als gesicherte Wahrheit in einem Kontext aufgerufen wurde, in dem ihre eigene Evidenz tatsächlich bestritten war?
 - Die meiste KI-Forschung hängt von proprietären, opaken Modellen ab, deren Daten und Updates Sie nicht inspizieren können. Wenn Sie nicht verifizieren können, welches Modell genau ein Ergebnis erzeugt hat —, wie sehr können Sie dann darauf gebauten Behauptungen vertrauen, und was würde Befunde reproduzierbarer machen?
 - Wenn Sie eine Lehrkraft oder gestaltende Person ohne Zeit sind, Primärforschung zu lesen —, wie entscheiden Sie, welche KI-Behauptungen vertrauenswürdig genug sind, Ihre Praxis zu verändern —, angesichts dessen, dass die Literatur fragmentiert, vorläufig und für Forschende geschrieben ist?
 
 ## Einführung
 
-KI in der Bildung ist ein sich schnell bewegendes, heterogenes Feld, und seine Evidenzbasis trägt eine unverwechselbare Menge an Grenzen, die Forschende, Praktikerinnen und Praktiker und politisch Verantwortliche abwägen sollten, wenn sie irgendeinen Befund nutzen. Manche davon teilt sie mit der breiteren [[learning-sciences|Lernwissenschafts]]- und Psychologieliteratur; andere werden durch das Wesen von KI selbst verstärkt oder einzigartig gemacht. Diese Seite organisiert sie in vier querschnittende Bereiche.
+KI in der Bildung ist ein sich schnell bewegendes, heterogenes Feld, und seine Evidenzbasis trägt eine unverwechselbare Menge an Grenzen, die Forschende, Praktikerinnen und Praktiker und politisch Verantwortliche abwägen sollten, wenn sie irgendeinen Befund nutzen. Manche davon teilt sie mit der breiteren [[learning-sciences|Lernwissenschafts]]- und Psychologieliteratur; andere werden durch das Wesen von KI selbst verstärkt oder einzigartig gemacht. Diese Seite organisiert sie in vier querschnittende Bereiche. Dies sind Probleme in der Evidenz; ein gesonderter Argumentationsstrang über die Zwecke, denen die Evidenz dient, ist unter [[critiques-of-ai-in-education|Kritik an KI in der Bildung]] gesammelt.
 
 ## Methodologische Grenzen
 

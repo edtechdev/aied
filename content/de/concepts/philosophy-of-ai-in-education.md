@@ -1,17 +1,21 @@
 ---
 title: Philosophie von KI in der Bildung
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -39,13 +43,14 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Einführung
 
-Dies ist eine Konzeptseite zu den philosophischen und theoretischen Grundlagen von [[ai-education|KI in der Bildung]]. Während [[learning-theories|Lerntheorien]] die empirischen und designorientierten Theorien dokumentiert ([[behaviorism|Behaviorismus]], [[constructivist|Konstruktivismus]], [[cognitive-offloading|cognitive load]], [[self-regulated-learning|selbstreguliertes Lernen]] usw.), bearbeitet der Philosophiestrang die ontologischen, erkenntnistheoretischen und ethischen Fragen, die diese Theorien voraussetzen. Beide sind eng verbunden: Philosophische Positionen prägen, welche Lerntheorien plausibel erscheinen und welche Bildungsziele es wert sind, verfolgt zu werden.
+Dies ist eine Konzeptseite zu den philosophischen und theoretischen Grundlagen von [[ai-education|KI in der Bildung]]. Während [[learning-theories|Lerntheorien]] die empirischen und designorientierten Theorien dokumentiert ([[behaviorism|Behaviorismus]], [[constructivist|Konstruktivismus]], [[cognitive-offloading|cognitive load]], [[self-regulated-learning|selbstreguliertes Lernen]] usw.), bearbeitet der Philosophiestrang die ontologischen, erkenntnistheoretischen und ethischen Fragen, die diese Theorien voraussetzen. Beide sind eng verbunden: Philosophische Positionen prägen, welche Lerntheorien plausibel erscheinen und welche Bildungsziele es wert sind, verfolgt zu werden. Der normative Strang dieser Arbeit, die Argumente darüber, worin KI in der Bildung die Bildung verwandelt, ist unter [[critiques-of-ai-in-education|Kritik an KI in der Bildung]] gesammelt.
 
 ## Zentrale philosophische Fragen
 
 - **Das Wesen von Geist und Kognition.** Erfordert Denken Bewusstsein und einen Körper? Kann KI an genuin kognitiven Prozessen teilhaben? Rahmenwerke wie die **ensemble cognition** argumentieren, dass KI *funktionale Handlungsfähigkeit* ausübt — genuine kausale Wirksamkeit in kognitiven Prozessen — ohne Bewusstsein, und dass Denken aus dynamischer Mensch-[[student-ai-interaction|KI-Interaktion]] entsteht.([[ensemble-cognition-philosophy-ai-education|Jho et al., 2026]]) [[distributed-cognition|Verteilte Kognition]] und die Extended-Mind-These machen verwandte Aussagen darüber, dass Kognition über Systeme hinweg ausgebreitet ist.
 - **Was ist die lernende Person?** Posthumanistische Philosophie konzeptualisiert die lernende Person als „post-humane" Entität neu, deren kognitive Prozesse tatsächlich hybrid sind und über [[biology-education|biologische]] und künstliche Systeme verteilt sind.([[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed, 2026]]) Das stellt die Annahme infrage, die lernende Person sei ein begrenzter, autonomer individueller Geist.
 - **Verkörperung und die Grenzen entkörperter KI.** [[embodied-learning|Verkörperte]] und post-kognitivistische Philosophie kritisiert die Dominanz symbolischer, entkörperter KI-Modelle und argumentiert, Kognition sei in Situiertheit, Emergenz und sensomotorischer Kopplung begründet, der es [[generative-ai|generativer KI]] gegenwärtig mangele.([[videla-embodied-ai-education-choreography|Videla et al., 2026]])
+- **Automatisierung als Kontinuität, nicht als Bruch.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross und Aros (2026)]] argumentieren, dass künstliche Intelligenz zur Schule passt, weil sie ein kognitives und instruktionales Modell erweitert, das Lernen als Informationsverarbeitung und Lehren als Übermittlung behandelt; die Automatisierung von Bildung ist daher eine ontologische Illusion, die Lernen von den verkörperten, relationalen Bedingungen abstrahiert, unter denen Sinn und Verantwortung entstehen.
 - **Emotionale Arbeit als Testfall für maschinelle Geister.** Die Debatten des Felds darüber, ob KI lehren kann, drehen sich oft darum, ob sie *fürsorgen* kann — eine Frage, die lange vor der [[affective-computing|affektiven Informatik]] erörtert wurde. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] rekonstruiert die Debatte von 1950 bis 1996, in der Ziffs Behauptung, nur lebende Wesen könnten buchstäblich Gefühle haben, von Smarts Identitätstheorie und Putnams Verhaltenskriterium beantwortet wurde, sodass drei konkurrierende Ontologien ungeklärt blieben. Seine Schlussfolgerung ist eine Begründungslast statt einer Unmöglichkeitsbehauptung — Repräsentation, Simulation und Mimikry unterbestimmen emotionale Arbeit —, was die Last all jenen auferlegt, die pastorale Arbeit an ein System delegieren würden.
 - **Handlungsfähigkeit, Urheberschaft und Bedeutung.** Wenn KI Interpretation und Sinnbildung vermittelt, fragt die Philosophie, wie Urheberschaft, epistemische [[agency|Handlungsfähigkeit]] und interpretative Autonomie neu konfiguriert werden.([[voicu-ai-interpretive-cognition-ssh-2026|Voicu, 2026]])
 - **Die Ontologie KI-generierter wissenschaftlicher Objekte.** In der [[chemistry-education|Chemie]] besetzen KI-vorhergesagte Verbindungen und Titrationskurven einen „liminalen ontologischen Raum" — bis zum empirischen Beweis weder ganz hypothetisch noch vollständig real —, was das Fach von einem Realismus hin zu einer konstruktivistischen Sicht verschiebt, in der Realität eine Kollaboration von Mensch und Maschine ist ([[philosophy-experimentation-ai-chemistry-2026|Reyes und Regala (2026)]]).
@@ -72,7 +77,7 @@ Die Philosophie von KI in der Bildung und [[theory-development-aied|Theorieentwi
 
 **Für Lehrende**
 
-- Legen Sie fest, bevor Sie ein Werkzeug einführen, was Sie als eigenständige Leistung der Lernenden zählen wollen. Würde eine vom System erzeugte, ausgereifte Abgabe Ihre Bewertung erfüllen, haben Sie mit „nichts" geantwortet — und keine spätere Änderung des Bewertungsrasters holt die Frage zurück.
+- Legen Sie fest, bevor Sie ein Werkzeug einführen, was Sie als eigenständige Leistung der Lernenden zählen wollen. Würde eine vom System erzeugte, ausgereifte Abgabe Ihre Bewertung erfüllen, haben Sie mit „nichts" geantwortet — und keine spätere Änderung der [[rubrics|Rubrik]] holt die Frage zurück.
 - Nehmen Sie das Verunmöglichungsargument bei der Gestaltung von Aufgaben ernst: Wenn GenAI, die die Arbeit *liefert*, Denken verunmöglicht, statt es bloß auszulagern, dann ist „nutzen Sie es verantwortungsvoll" keine hinreichende Schutzmaßnahme, weil das umgebende Feld den Output belohnt. Gestalten Sie Aufgaben, deren Nachweise des Denkens entstehen, bevor das Werkzeug verfügbar ist.
 - Fragen Sie, wessen Vorstellung von Lernen Ihr Kurs einschreibt. Wer einen Rahmen unkritisch übernimmt, importiert dessen Annahmen darüber, was eine lernende Person ist, und diese Annahmen sind bestreitbar.
 

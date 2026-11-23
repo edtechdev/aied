@@ -1,7 +1,7 @@
 ---
 title: Lehre
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,10 +11,14 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
@@ -70,15 +74,19 @@ Ermutigung zählt also am meisten dort, wo die Berichtsnutzung noch wachsen kann
 
 - Lan und Chen (2026) schlagen vor, die Urheberschaft von Lehrkräften anhand der Provenienz zu beurteilen: Ein Agent gilt nur dann als Zwilling einer Lehrkraft, wenn seine Autorität auf eine namentlich genannte Lehrkraft zurückgeht, die verantwortlich bleibt, Urteil in eine prüfbare Spezifikation übersetzt hat und Kapazität erweitert, ohne die Urheberschaft zu verlagern; Plattformvorgaben ergeben dagegen einen Stellvertreter, keinen Zwilling ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
+**Delegation ist standardgebunden.** [[farooq-standard-anchored-delegation-teachers-2026|Farooq, Khan und Raza (2026)]] interviewten 13 Lehrkräfte in Punjab, Pakistan, und fanden, dass sie eine Aufgabenkomponente an generative KI weitergaben, wenn ein externer Standard — ein Lehrbuch, ein Syllabus oder eine Rubrik — einen korrekten Output definierte, den sie auf das Ergebnis anwenden konnten; niemand akzeptierte KI-entworfene Lernziele. Die Existenz eines Standards reichte nicht immer: Mehrere Lehrkräfte staatlicher Schulen lehnten KI-Benotung selbst dann ab, wenn Antwortschlüssel existierten.
+
 ### Die Orchestrierungsmetapher
 
 Die dominante Metapher in der Wissensbasis ist *Orchestrierung*: Lehrkräfte koordinieren menschliche Lernende, [[intelligent-tutoring|KI-Tutoren]] und Curriculum-Ressourcen. Das kontrastiert mit Ersetzungsnarrativen — KI erweitert statt menschliches Lehren zu substituieren. Empirische Evidenz stützt diese Haltung: Ein PRISMA-geleiteter [[meta-analysis-systematic-review|systematischer Review]] von 42 Studien (2023–2025) fand, dass LLMs menschlichen Bewertenden bei kurzen, gut strukturierte Aufgaben gleichkommen, dass die Leistung aber bei längeren, mehrsprachigen und nuancierten Arbeiten sinkt — und schließt, dass LLMs Lehrkräfte nicht vollständig ersetzen können und dass hybride Human-in-the-Loop-Assessment-Systeme die höchste Benotungswirksamkeit erzielen ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). Die Orchestrierungslinse rahmt die Kernfähigkeit der Lehrenden als *Urteil*: entscheiden, wann ein Mensch, eine KI oder eine gestaltete Lernaktivität das richtige Instrument für eine bestimmte lernende Person und einen bestimmten Moment ist. Ein PRISMA-Review von 2026 über 29 Studien zu [[teacher-intervention-k12-ai-based-instruction-2026|Lehrkräfte-Intervention in KI-basiertem K-12-Unterricht]] schärft die Metapher zu einem vierphasigen Zyklus — Überwachen, Urteil, Intervention, Orchestrierung — und zeigt, warum keine Phase angenommen werden kann. Lehrkräfte bevorzugten geteilte Kontrolle und akzeptierten, veränderten, lehnten ab oder überschrieben KI-Vorschläge; manche verzögerten Intervention absichtsvoll, damit Studierende zuerst produktiv kämpfen konnten; und Dashboards, die Bewusstsein erweiterten, konnten Aufmerksamkeit auch überlasten oder übersteigen, was eine Lehrkraft physisch tun kann. Ihre drei Strategien — pädagogische Übersetzung von KI-Ausgabe, Design von Lernunterstützung, und Rekonstruktion von Interaktionsstrukturen — beschreiben die Arbeit als Rekontextualisierung statt als Zustimmung, was die Lehrkraft näher an Mediatorin als an die Human-in-the-Loop-Reviewer-Rolle rückt. Klassenraumbeobachtung benennt dieselben Verhaltensweisen als Typen. Sechs Stunden mit einer erfahrenen Lehrkraft fügten Drijvers' vier drei Orchestrierungstypen hinzu — Dashboard-Überwachung, KI-Korrigieren und KI-Vermittlung — wobei die inhaltliche und ethische Rolle der Lehrkraft am sichtbarsten waren, als sie KI-generiertes Feedback korrigierte ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
 
-Der Dirigent ist die treffendere Figur als der Solist. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] beschreiben eine Lehrkraft, die Expertise koordiniert, statt sie vollständig zu liefern, da in einem großen Kurs mit vielen Sektionen ein oder zwei Kolleginnen und Kollegen die Aufgaben und Rubriken neu gestalten können, während andere Lernarchitektur, Werkzeugevaluation oder Evidenzsammlung übernehmen. Ihre Verteilung hat einen Boden: Jedes Teammitglied behält grundlegende technische und ethische Kompetenz, sodass die Rolle dirigiert statt ausgelagert wird.
+Der Dirigent ist die treffendere Figur als der Solist. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] beschreiben eine Lehrkraft, die Expertise koordiniert, statt sie vollständig zu liefern, da in einem großen Kurs mit vielen Sektionen ein oder zwei Kolleginnen und Kollegen die Aufgaben und [[rubrics|Rubriken]] neu gestalten können, während andere Lernarchitektur, Werkzeugevaluation oder Evidenzsammlung übernehmen. Ihre Verteilung hat einen Boden: Jedes Teammitglied behält grundlegende technische und ethische Kompetenz, sodass die Rolle dirigiert statt ausgelagert wird.
 
 ### Sich entwickelnde und kritische Rollen von Lehrkräften
 
 Neuere Arbeit weitet die Orchestrierungsmetapher in reichere Rollenkonzepte aus:
+
+- **Lehrkraft als Auditorin von KI-generierten Plänen.** Elf naturwissenschaftspädagogische Expertinnen und Experten, die zwei KI-erzeugte Pläne für die sechste Klasse beurteilten, fanden, dass beide Inhalte gut handhabten, aber in iterativen Engineering-Phasen am niedrigsten abschnitten — die Pläne der Werkzeuge sind also Entwürfe, die die Lehrkraft anpassen muss, keine fertige Unterrichtsinstruktion ([[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu et al., 2026]]).
 
 - **Co-Orchesterin über Aktivitätsübergänge.** [[teacher-student-agency-orchestration|Yang et al. (2026)]] nutzen partizipatives Speed Dating mit 17 Lehrkräften und 13 Studierenden, um zu kartieren, wie Kontrolle über die Stufen einer Klassenzimmeraktivität verteilt sein sollte — die Vorher-, Während- und Nachher-Übergänge zwischen individueller und kollaborativer Arbeit — in einem Co-Orchestrierungs-Werkzeug, das dynamische Paarung in Echtzeit unterstützt. Das emergierende Designprinzip ist, dass Kontrolle *kein* fixer Punkt ist: Lehrkräfte und Studierende wollen auf jeder Stufe unterschiedliche Mengen an Handlungsfähigkeit, und das Werkzeug sollte die Lehrkraft Gruppierung, Aktivitätsübergänge und Interventions-Timing in Echtzeit anpassen lassen, während ein Override der Lehrkraft erhalten bleibt. Das positioniert die Lehrkraft als **Co-Orchesterin der gesamten lebenden Lernumgebung** — eine Rolle, die spezifischer ist als die allgemeine Orchestrierungsmetapher, fokussiert auf die granularen Moment-zu-Moment-Entscheidungen darüber, wer mit wem wann und mit welcher Unterstützung arbeitet — und sie verbindet individuelles Tutoring mit Design auf Klassenstufe.
 - **Die „kognitive Choreographin“.** Posthumanistische Frameworks setzen die Lehrkraft neu als *kognitive Choreographin*, die Kognition orchestriert, die über [[biology-education|biologische]] und künstliche Systeme verteilt ist, und gehen über instrumentalistische Modelle wie [[tpack|TPACK]] und SAM hinaus.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
@@ -121,6 +129,8 @@ Die Evidenz der Wissensbasis konvergiert auf eine Reihe konkreter Anpassungen:
 **Für das Liefermedium planen.** Anpassung ist nicht mediumneutral: [[online-teaching-and-learning|Online-Unterricht]] mit KI vervielfacht sowohl die Gelegenheiten (skalierbare [[personalized-learning|Personalisierung]], jederzeitige Unterstützung) als auch die Risiken (Integrität, Entlastung). Den KI-Wrapper online genauso absichtsvoll gestalten wie in Präsenzkontexten.([[lopez-pernas-llm-appropriate-student-support-2026]])
 
 **Auf den Thread antworten, nicht auf jeden Beitrag.** Sichtbare Präsenz war der externe Faktor, den Studierende in vier Fokusgruppen mit 26 MINT-Studierenden am stärksten anrechneten, und das beschriebene Muster war eine Lehrkraft, die Diskussion anstößt, Studierende auffordert, aufeinander zu antworten, und später in der Woche selbst antwortet ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner und Nugent, 2026]]). Begrenzte Präsenz auf Thread-Ebene genügte; auf jeden Beitrag zu antworten war nicht das, was die Anrechnung einbrachte.
+
+**Entscheiden, was automatisiert wird und was menschlich bleibt.** Ein Rahmenwerk für KI-vermitteltes Online-Lehren behandelt soziale Präsenz als Designkriterium und nicht als Ergebnis: Drei Risiken — Automatisierung von Aufgaben, die das Engagement verdrängt, verminderte Empathie und eine Drift hin zu effizienzgeleiteten Entscheidungen — verstärken sich gegenseitig, und eine fünfstufige Schleife Evaluieren–Identifizieren–Anpassen–Testen–Verfeinern verwandelt das in eine Routine. Die zusätzliche Verantwortung der Lehrkraft ist zu urteilen, welche relationale Arbeit ein Werkzeug übernehmen darf und welche eine Person erfordert ([[dyer-social-presence-literacy-ai-2026|Dyer et al., 2026]]).
 
 ## KI-Kompetenz in das Lehren einbauen
 

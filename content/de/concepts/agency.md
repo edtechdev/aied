@@ -1,7 +1,7 @@
 ---
 title: Handlungsfähigkeit der Lernenden
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-18T18:55:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026, wang-consequential-human-agency-higher-education-2026]
@@ -133,6 +137,8 @@ Diese Unterscheidung zwischen vollzogener Handlungsfähigkeit und stabiler Ident
 Die Randbedingung des Frameworks verlangt **Anfechtbarkeit** (die Fähigkeit, KI-Ausgaben zu hinterfragen und gegenzuprüfen), **Provenienz** (zu wissen, wo Trainingsdaten und Ausgaben herkommen) und **Nicht-Delegation moralischer und intellektueller Anerkennung** (folgenschwere Urteile über Wohl der Studierenden, akademischen Status und Noten dürfen nicht allein durch KI bestimmt werden). Das gibt Lehrenden und [[stakeholders|politisch Verantwortlichen]] ein präziseres Vokabular an die Hand als das vage „Gleichgewicht“ zwischen menschlichen und künstlichen Beiträgen, und verbindet Handlungsfähigkeit mit [[ethics|Ethik]], [[assessment|Assessment]], [[equity-in-ai-education|Gerechtigkeit]] und [[governance|Governance]].
 
 Eine eng verwandte Rahmung ist **relationale epistemische Handlungsfähigkeit** ([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]), die zustimmt, dass Handlungsfähigkeit sozial ermöglicht und technologisch vermittelt ist und nicht eine Frage der Isolation von Abhängigkeit. Wo das Ecological Co-Agency Framework menschliche epistemische Rechenschaftspflicht als nicht verhandelbare Grenze betont, behalten Du und Yuan eine explizite *Asymmetrie*: KI-Systeme können Denken formen und erweitern, ohne reziproke Verantwortung oder legitime Autorität zu besitzen. Ihre sechs diagnostischen Kriterien — Anfechtbarkeit, Wiederherstellbarkeit, Transfer, Nachvollziehbarkeit, verteilte Verantwortung und epistemische Pluralität — liefern einen praktischen Test dafür, wann eine Mensch-KI-Beziehung die Fähigkeit der lernenden Person bewahrt, daran teilzuhaben, wie Behauptungen gebildet, bewertet und akzeptiert werden, und wann sie bloß ein Produkt liefert. Handlungsfähigkeit ist dieser Lesart nach nicht Unabhängigkeit von Werkzeugen, sondern die Fähigkeit, verantwortungsvoll *mit, durch und gegen* die Systeme zu urteilen, die Wissen vermitteln.
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]] argumentiert, dass KI-Kompetenz ohne institutionelle Bedingungen, die Urteilen Konsequenz verleihen — Benachrichtigung, nachvollziehbare Gründe, menschliche Überprüfung, Widerspruch und Überstimmung sowie dokumentierte Rechenschaftspflicht —, nicht ausreicht, und rahmt Handlungsfähigkeit neu als das, was in der Interaktion mit institutioneller Autorität erreicht wird, statt individuell besessen zu werden. Universitäten können sie als Käuferinnen und Käufer, als Prüfungsbehörden und als Überwachungsnutzende ermöglichen oder einschränken, wodurch sich die Frage von der Kompetenz der Lernenden allein zu den Rechten und Verfahren verschiebt, durch die Urteile KI-vermittelte Entscheidungen verändern.
 
 - **Delegierte Handlungsfähigkeit als Mechanismus, nicht nur als Risiko.** [[yan-agentivism-learning-theory-ai-2026|Yan und Gašević (2026)]] behandeln die Delegation kognitiver Arbeit an KI als Teil davon, wie Lernen geschieht, und nicht bloß als Bedrohung dafür: In ihrem Account wird assistierte Leistung nur dann dauerhafte Fähigkeit, wenn die lernende Person die Verantwortung für das Rahmen des Problems, das Setzen von Kriterien und das Begründen von Antworten behält, eine Arbeitsteilung, die sie delegierte Handlungsfähigkeit nennen. Das macht die Zuteilung selbst zur Designvariable, da dasselbe Werkzeug Handlungsfähigkeit der Lernenden bewahren oder auflösen kann, je nachdem, welche Verantwortlichkeiten es absorbiert.
 

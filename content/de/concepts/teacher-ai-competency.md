@@ -1,7 +1,7 @@
 ---
 title: KI-Kompetenz von Lehrkräften
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,10 +13,14 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-18T10:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
@@ -72,7 +76,7 @@ Die Forschung der Wissensbasis konvergiert auf mehrere verbundene Dimensionen:
 
 - In einer Befragung von 1,405 K-12-Lehrkräften über fünf Länder hinweg sagte KI-Bereitschaft positive Überzeugungen über den Instruktionswert von GenAI voraus (B = .59, R² = .50), sagte aber *größere* [[creativity|Kreativitäts]]besorgnis voraus (B = .18), und dieselben Prädiktoren erklärten nur 7% bzw. 6% der Besorgnis — Bereitschaftsaufbau allein lässt Besorgnis unberührt ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 
-Bereitschaft sollte entsprechend geordnet und gemessen werden: das Capability–Decision Model platziert demonstrierte KI-Fähigkeit stromaufwärts von Haltung und Zuversicht und schlägt Leistungsindikatoren statt allein Selbstauskunft vor — Aufgaben des Unterrichtsdesigns, Prompt-Bewertungsaufgaben, die mit Fehlern bestückt sind, Urteile der Inhaltsvalidität und Rubriken für Kursraum-Artefakte ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+Bereitschaft sollte entsprechend geordnet und gemessen werden: das Capability–Decision Model platziert demonstrierte KI-Fähigkeit stromaufwärts von Haltung und Zuversicht und schlägt Leistungsindikatoren statt allein Selbstauskunft vor — Aufgaben des Unterrichtsdesigns, Prompt-Bewertungsaufgaben, die mit Fehlern bestückt sind, Urteile der Inhaltsvalidität und [[rubrics|Rubriken]] für Kursraum-Artefakte ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **Emotionale und moralische Bereitschaft ist eine eigene Dimension.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] befragte das akademische Personal einer maltesischen [[higher-ed|Universität]] (109 Antwortende) und baute einen AI Guilt Index (α = 0.88) aus vier moralischen Emotionsitems und fand, dass *antizipatorische* Schuld die nach der Nutzung erlebte Reue übertraf: die stärkste Zustimmung war Sorge, dass KI-Nutzung die eigene Glaubwürdigkeit untergräbt (34.9% stimmten zu), dann sich anzufühlen wie [[academic-integrity|Betrug]] bei ihrer Nutzung (25.7%), während Reue nach der Nutzung nur 9.2% zog. Die für Kompetenzrahmenwerke bedeutsamen Befunde sind, dass Nicht-Nutzende *höhere* Schuld berichteten als Nutzende (M = 3.25 gegenüber M = 2.32), und dass Schuld fiel, während berufliche Sicherheit stieg — Berufseinsteigerinnen und Berufseinsteiger berichteten die meisten (M = 2.71) und Seniorinnen und Senioren am wenigsten (M = 2.03). Emotionale Bereitschaft wird daher nicht durch Fähigkeits- oder Zuversichtmaße erfasst, und das Papier argumentiert, Kompetenzrahmenwerke sollten Schuld und Identitätsanliegen als normale Übergangsantworten behandeln statt als zu korrigierende Fehler.
 

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Kritisches Denken
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,10 +11,14 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-19T09:58:08-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -84,12 +88,18 @@ Eine größere Querschnittsstudie weist in die andere Richtung: Bei 1.157 chines
 - **Ein Semester mit KI-Zugang ließ das kritische Denken unverändert, während reflektierte Nutzung damit einherging.** Melanou, Beege und Kimmig (2026) begleiteten 87 Studierende der Wirtschaftsinformatik über einen neunwöchigen Kurs mit drei parallelen Bedingungen (KI in Tutor-Rolle, unangeleitete KI und keine KI) und drei Messzeitpunkten. Das Wissen nahm in jeder Gruppe zu, ohne Vorteil für eine der beiden KI-Bedingungen und ohne Matthäus-Effekt (BF01 = 8,70), während das selbstberichtete kritische Denken und die [[motivation|Motivation]] stabil blieben. Was die Studierenden unterschied, war die reflektierte Nutzung — die Praxis, Quellen zu prüfen und KI-Ausgaben zu verifizieren, bevor man sie übernimmt: Sie war in der KI-Bedingung höher als in der Kontrollgruppe (Mittelwerte von 3,72 vs. 2,82) und sagte das kritische Denken beim letzten Messzeitpunkt voraus (R² = 0,183, β = 0,43, p < 0,001). Das Ergebnis relativiert jede Erwartung, dass ein Kurs mit KI-Nutzung das kritische Denken von sich aus verändert: [[metacognition|Metakognitive]] Regulation, nicht der Zugang zum Werkzeug, ist der Ort, an dem sich der Zusammenhang zeigt, und die Autoren merken an, dass ein Semester wahrscheinlich zu kurz ist, um dauerhafte Veränderungen zu erkennen. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
 - **Bewertung veränderte sich; formale Deduktion nicht.** Vierphasiges KI-Feedback erhöhte die Bewertung von Argumenten um 1,74 adjustierte Punkte, während sich Deduktion um 0,30 veränderte (p = 0,383) — der Zugewinn lag damit im Beurteilen von Behauptungen und nicht in der formalen Logik ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
+- **Online-Reasoning lässt sich aus Suchverhalten messen und zerfällt in zwei Faktoren.** Bei 459 Erstjahresstudierenden mit analysierbaren Protokollen, die das offene Web durchsuchten, fanden [[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)], dass Query-Formulierung und Inspection der Ergebnisseiten separate, unkorrelierte Faktoren bildeten — ein einzelner Akquisitions-Score stellt das Konstrukt also falsch dar.
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez et al. (2026)]] lieferten das erste zweckgebundene Messinstrument für kritisches Denken mit KI und fanden, dass seine drei vorgeschlagenen Domänen zu stark überlappten, um getrennt zu werden: Die latenten Korrelationen waren sehr hoch, die durchschnittlich extrahierte Varianz fiel unter die quadrierten Korrelationen, und das Kriterium der Diskriminanzvalidität wurde für keinen Faktor erfüllt. Der Gesamtscore ist reliabel, aber die Dimensionen bleiben provisorisch.
+
 ## Verbindungen zu anderen Konzepten
 
 Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unterstützung so gestalten, dass sie kognitive Anforderung aufrechterhält), [[prompt-engineering|Prompt Engineering]] (Fragen formulieren, die kritische Analyse anregen) und [[cognitive-offloading|übermäßiger Abhängigkeit]] (wissen, wann man KI vertrauen und wann man sie hinterfragen sollte). Es ist grundlegend für [[academic-integrity|akademische Integrität]] und dient als zentrale Dimension von [[ai-literacy|KI-Kompetenz]]-Frameworks in [[k-12|K-12]]- und [[higher-ed|Hochschulbildungskontexten]] gleichermaßen.
 
 - **KI-Fehler als Provokationen für höherstufiges Denken:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalisiert Blooms höherstufige Niveaus (Analysieren, Bewerten, Erschaffen), indem Studierende KI-generierte Fehler in einem Datenbankkurs hinterfragen, mit signifikanten Zuwächsen vor/nach der Maßnahme (Cohen's *d*=1.49) in fachlicher Kompetenz.
-- **Kritik an KI-Ausgaben ist eine scaffoldbare Fähigkeit, kein Nebenprodukt des Problemlösens.** Gruppen, die nur ein verwandtes Physikproblem lösten, akzeptierten eine ausgefeilte KI-Lösung oder kritisierten sie aus ihren eigenen [[misconceptions|Missverständnissen]], während MAPS-Rubrik-geleitete Reflexion expertenausgerichtete Kritik an fehlender Integration und undefinierter Notation hervorbrachte ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **Kritik an KI-Ausgaben ist eine scaffoldbare Fähigkeit, kein Nebenprodukt des Problemlösens.** Gruppen, die nur ein verwandtes Physikproblem lösten, akzeptierten eine ausgefeilte KI-Lösung oder kritisierten sie aus ihren eigenen [[misconceptions|Missverständnissen]], während eine MAPS-[[rubrics|Rubrik]]-geleitete Reflexion expertenausgerichtete Kritik an fehlender Integration und undefinierter Notation hervorbrachte ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+
+- **Kritik kann der Selbstbewertung der KI entlehnt werden.** Zwölf Lehramtsstudierende, die ihre Wasserverbrauchsmodelle mit einem ChatGPT-4o-Modell verglichen, produzierten Kritiken, die mit Schwächen übereinstimmten, die die KI über sich selbst genannt hatte, und keine bemerkte eine rechnerische Inkonsistenz, die in ihrer Ausgabe blieb — ein poliertes Ergebnis kann bewundert werden, ohne verifiziert zu werden ([[cetin-ai-comparative-reflection-modelling-2026|Çetin und Bilgili, 2026]]).
 
 - **Die KI begrenzen, um kognitive Handlungsfähigkeit zu bewahren.** Die E3-HOT-Blaupause bildet drei [[embodied-learning|verkörperte]] Wege — situative Einbettung, verkörperte Teilnahme, kognitive Erschaffung — auf Analysieren, Bewerten und Erschaffen ab und beschränkt die KI auf Prompts, Kritik und Strategievorschläge, damit Studierende Begründungen artikulieren und Belege anführen müssen, bevor eine Behauptung akzeptiert wird ([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]]).
 

@@ -1,7 +1,7 @@
 ---
 title: Informatisches Denken
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,10 +9,14 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -59,7 +63,17 @@ Dauerhafte Kompetenzen verschieben sich, sobald die Implementierung automatisier
 - Die Wahl der Messmethode verändert das Urteil: Einträge zu computational thinking und kritischem Denken gelangten in 13 von 23 Paaren mit demselben Konstrukt zu abweichenden oder gemischten Schlussfolgerungen, sodass eine CT-Umfrage auf Selbstauskunftsbasis und eine aufgabenbasierte Messung häufig nicht übereinstimmen ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 - Computational thinking wird auch als Disposition gemessen: in einer dreiwöchigen Spielestudie in der fünften Klasse fielen die bereinigten selbstberichteten CT-Tendenzen zugunsten der GenAI-Klasse aus, 4,325 gegenüber 4,037 (p = 0,046, partielles Eta-Quadrat = 0,052, n = 78). Ein Test zum algorithmischen Wissen trennte sie nicht (80,7 vs. 74,9), sodass Tendenz- und Wissensmaße unterschiedliche Konstrukte erfassten ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
-Profile von Teilfähigkeiten komplizieren den einzelnen CT-Wert, den ein Prä-Post-Design berichtet. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij und Khlaisang (2026)]] ließen 28 thailändische Studierende außerhalb der Informatik über acht Wochen an dreistündigen Sitzungen teilnehmen, die einen fünfstufigen [[design-thinking|Design-Thinking]]-Zyklus mit Low-Code-App-Entwicklung verbanden, und bewerteten die Projektarbeiten mit einem dreistufigen Bewertungsraster. Das mittlere computational thinking stieg von 1,13 in der ersten Sitzung auf 1,80 und dann 2,49, wobei algorithmisches Denken mit 2,08 der stärkste Strang war und eine Trajektorie von 1,46 über 1,93 auf 2,86 zeigte. Logisches Denken lag im Mittel bei 1,54 und bewegte sich zwischen den ersten beiden Sitzungen kaum, von 1,04 auf 1,29, bevor es in der dritten 2,29 erreichte — eine Erinnerung daran, dass Zuwächse in einer Komponente nicht bedeuten, dass die anderen nachfolgten.
+Profile von Teilfähigkeiten komplizieren den einzelnen CT-Wert, den ein Prä-Post-Design berichtet. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij und Khlaisang (2026)]] ließen 28 thailändische Studierende außerhalb der Informatik über acht Wochen an dreistündigen Sitzungen teilnehmen, die einen fünfstufigen [[design-thinking|Design-Thinking]]-Zyklus mit Low-Code-App-Entwicklung verbanden, und bewerteten die Projektarbeiten mit einer dreistufigen [[rubrics|Bewertungsraster]]. Das mittlere computational thinking stieg von 1,13 in der ersten Sitzung auf 1,80 und dann 2,49, wobei algorithmisches Denken mit 2,08 der stärkste Strang war und eine Trajektorie von 1,46 über 1,93 auf 2,86 zeigte. Logisches Denken lag im Mittel bei 1,54 und bewegte sich zwischen den ersten beiden Sitzungen kaum, von 1,04 auf 1,29, bevor es in der dritten 2,29 erreichte — eine Erinnerung daran, dass Zuwächse in einer Komponente nicht bedeuten, dass die anderen nachfolgten.
+
+## Systemisches Denken als CT-Praxis
+
+Systemisches Denken ist eine der vier Domänen der Taxonomie des Computational Thinking für Mathematik und Naturwissenschaften, die von Weintrop und Kolleginnen und Kollegen entwickelt wurde, neben Datenpraktiken, Praktiken des computergestützten Problemlösens sowie Modellierungs- und Simulationspraktiken. Seine Definition ist präzise: **die Fähigkeit, Systemgrenzen zu bestimmen und Interaktionen auf Mikroebene zu Verhaltensweisen auf Makroebene zu synthetisieren**. Das ist eine kognitive Fähigkeit auf Lernendenebene — eine Art, über ein System nachzudenken — und sie unterscheidet sich von der Haltung auf Umgebungsebene, eine Lernumgebung als System zu behandeln ([[learning-environments-as-systems|Lernumgebungen als Systeme]]).
+
+Es ist auch die Domäne, in der Assessment zuerst zusammenbricht. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch und Rebello (2026)]] kodierten die schriftlichen Erklärungen von 936 Studierenden in einem Einführungskurs in computergestützter Physik anhand der Taxonomie, kalibrierten eine menschliche Baseline an 10 Studierenden (60 Antworten, Fleiss' κ = 0,53) und kodieren dann 50 Studierende (300 Antworten) per Mehrheitsentscheid. Die Studierenden wuchsen am stärksten in den Datenpraktiken (p < 0,001, d = 1,03), mit moderaten Zuwächsen im computergestützten Problemlösen (d = 0,52) und im systemischen Denken (d = 0,45). Aber systemisches Denken war für *sowohl* Menschen als auch Modelle das unzuverlässigste Konstrukt: menschliche Übereinstimmung κ = 0,51 und LLM κ = 0,48, gegenüber κ = 0,90 für Datenpraktiken und κ = 0,78 für Modellierung und Simulation. Die Lesart der Autorinnen und Autoren ist, dass die Schwierigkeit aus der Komplexität des Konstrukts stammt und nicht aus einem Modelldefizit — ein multi-komponentiges Konstrukt, das von einer lernenden Person verlangt, Komponenten *und* ihre Interaktionen und Konsequenzen zu erklären, ist schwieriger zu kodieren als ein wohldefiniertes. Modellierung und Simulation zeigte d = 0,00 aus einem anderen Grund, einen Deckeneffekt: der Mittelwert vor der Instruktion lag bereits bei 1,62 von 2, sodass dieser Aspekt Basiswissen statt Wachstum maß.
+
+Die praktische Konsequenz ist ein Rubrik-Design-Problem, kein Modellproblem. Ihre Empfehlung lautet, die Rubrik so neu zu schreiben, dass das Identifizieren von Systemkomponenten getrennt davon bewertet wird, wie diese Komponenten interagieren, und niedrige automatisierte Übereinstimmung bei einem integrierten Konstrukt als Signal zum Überarbeiten des Instruments zu lesen statt zur Aufgabe der Automatisierung. Das ist derselbe Schritt, zu dem die [[rubrics|Rubrik]]-Forschung von der Scoring-Seite gelangt: Das Instrument, nicht das Modell, ist das, was kalibriert.
+
+Das Konstrukt reist über die Physik hinaus. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz und Castro Samayoa (2026)]] nennen systemisches Denken als eine der Fähigkeiten, die Aoun *robot-proof* nennt — kritisches Denken, systemisches Denken und kulturelle Agilität — jene, die Praxis aufbaut und Delegation nicht. [[huang-ai-literacy-vocational-problem-solving-2026|Huang und Kolleginnen und Kollegen (2026)]] grenzen ihr eigenes Konstrukt des „systematischen Denkens" dagegen ab und behandeln ihres als eine schmale vierdimensionale Messung (Strukturieren, Schlussfolgern, Priorisieren, Integrieren) und verzichten explizit darauf, es im weiteren Sinn systemisches Denken zu nennen. Und [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea und Valencia-Silva (2026)]] warnen, dass Engagement kein systemisches Denken ist — eine Unterscheidung, die wichtig wird, wenn eine Rubrik genutzt wird, um eine Kompetenz zu zertifizieren, für die sie nicht geschrieben wurde.
 
 ## CT und der Wandel von KI-Konsumierenden hin zu Produzierenden, Schaffenden und Gestaltenden
 

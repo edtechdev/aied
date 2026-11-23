@@ -1,7 +1,7 @@
 ---
 title: Theorien und Rahmenwerke
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,10 +9,14 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -70,6 +74,7 @@ Diese erklären Mechanismen: sie benennen die Teile, die die Arbeit tun, und sag
 ## Lehr-, Integrations- und Übernahmerahmenwerke
 
 - **[[tpack|TPACK]]** — das Lehrkraftwissen, das Technologie, Pädagogik und Inhalt verschmilzt; das Standardrahmenwerk für lehrkraftseitige KI-Studien.
+- **[[bloom-taxonomy|Blooms Taxonomie]]** — das geteilte Vokabular für die kognitive Anforderung von Aufgaben, das sowohl zum Kodieren von Items als auch zu ihrer Sequenzierung genutzt wird; in der KI in der Bildung ist es ebenso sehr ein Messproblem geworden wie ein Designproblem.
 - **[[technology-acceptance-model|Adoptionsmodelle]]** — Absicht als Funktion von wahrgenommener Nützlichkeit und Nutzungsleichtigkeit. Weit genug genutzt, dass das Vertrauen des Felds auf Absicht statt auf Verhalten eine stehende Kritik ist.
 - **Expectation-confirmation model (ECM)** — Zufriedenheit als Bestätigung vorheriger Erwartungen, mit Weiternutzung statt erstmaliger Adoption als Ergebnisgröße. In einem einsemestrigen Pilotprojekt zu Methoden der Soziologie mit 24 Bachelorstudierenden bewerteten 87% Copilot als gut oder ausgezeichnet und 91% würden ihn weiterempfehlen, aber nur 57% beabsichtigten, ihn weiterzunutzen ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Die Lücke ist genau der Punkt des Modells: Auch zufriedene Nutzende können sich gegen eine Rückkehr entscheiden, Zufriedenheit und Weiternutzung brauchen also getrennte Messungen.
 - **[[icap-framework|ICAP]]** — ordnet Engagement als passiv, aktiv, konstruktiv, interaktiv; nützlich, um zu fragen, welchen Modus eine [[student-ai-interaction|KI-Interaktion]] tatsächlich ermöglicht.
@@ -109,7 +114,7 @@ Die Wörter werden in der Literatur lose genutzt, und der Unterschied ist einen 
 
 ## Verwandte Schichten
 
-Zwei benachbarte Seiten handeln absichtsvoll von etwas anderem. [[philosophy-of-ai-in-education|Philosophie der KI in der Bildung]] stellt normative und konzeptuelle Fragen —, wozu Bildung *da ist*, ob eine Maschine lehren kann —, und sagt keine Effektstärken vorher; eine Studie kann philosophisch naiv und theoretisch solide sein, oder umgekehrt. [[theory-development-aied|Theorieentwicklung]] ist die Meta-Aktivität des Bauens, Borgens und Revidierens von Theorie, einschließlich der stehenden Kritik, dass viel [[ai-education|AIED]]-Arbeit bestehende Theorie anwendet, statt sie zu testen. Diese Seite ist das Inventar; Theorieentwicklung handelt davon, das Inventar zu produzieren und zu revidieren.
+Zwei benachbarte Seiten handeln absichtsvoll von etwas anderem. [[philosophy-of-ai-in-education|Philosophie der KI in der Bildung]] stellt normative und konzeptuelle Fragen —, wozu Bildung *da ist*, ob eine Maschine lehren kann —, und sagt keine Effektstärken vorher; eine Studie kann philosophisch naiv und theoretisch solide sein, oder umgekehrt. [[theory-development-aied|Theorieentwicklung]] ist die Meta-Aktivität des Bauens, Borgens und Revidierens von Theorie, einschließlich der stehenden Kritik, dass viel [[ai-education|AIED]]-Arbeit bestehende Theorie anwendet, statt sie zu testen. Diese Seite ist das Inventar; Theorieentwicklung handelt davon, das Inventar zu produzieren und zu revidieren. [[learning-environments-as-systems|Lernumgebungen als Systeme]] ist eine dritte Nachbarin. Es ist keine Lerntheorie und sagt keine Effektstärken vorher, sondern eine Haltung zur Analyseeinheit: Eine Lernumgebung ist ein mehrstufiges System, dessen Teile interagieren, sodass die Ebene, die eine Studie misst, eine theoretische Entscheidung ist und keine Stichprobenbequemlichkeit.
 
 ## Eine Linse wählen, wenn die Frage praktisch ist
 

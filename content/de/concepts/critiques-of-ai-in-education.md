@@ -1,7 +1,7 @@
 ---
 title: Kritik an KI in der Bildung
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Ein zweites Cluster greift die Vokabeln und nicht die Maschinerie an. Wang und J
 
 ## Infrastruktur, Transduktion und Fehlaneignung
 
-Ein drittes Cluster verlagert die Aufmerksamkeit vom Werkzeug auf die Infrastruktur um es herum. Watson, Morgner und Brezovec behandeln generative KI als sinnvermittelnde Infrastruktur und benennen ihren Mechanismus als *semantische Transduktion* (semantic transduction): die Umformung einer Bildungsanforderung — eines Prompts, eines Briefings, einer Rubrik, einer Prüfungsfrage, eines Genres oder einer Politik — in eine kommunikativ plausible Form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner und Brezovec, 2026]]). Weil die Transduktion selektiv ist, kann sie einschließen oder ausschließen. Drei Orte kehren wieder: Zugangs- und Fähigkeitskluften, Fehlaneignung durch Vorlagen dafür, wie eine gute Antwort oder eine gute Lernende klingt, und die normative Verschiebung dessen, was als Pädagogik gilt. Die Ausgrenzung ist oft eine Zange und kein Verbot — Institutionen erhöhen die Erwartungen an Tempo, Glätte und idiomatische Flüssigkeit und verschärfen zugleich die Authentizitätsregime.
+Ein drittes Cluster verlagert die Aufmerksamkeit vom Werkzeug auf die Infrastruktur um es herum. Watson, Morgner und Brezovec behandeln generative KI als sinnvermittelnde Infrastruktur und benennen ihren Mechanismus als *semantische Transduktion* (semantic transduction): die Umformung einer Bildungsanforderung — eines Prompts, eines Briefings, einer [[rubrics|Rubrik]], einer Prüfungsfrage, eines Genres oder einer Politik — in eine kommunikativ plausible Form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner und Brezovec, 2026]]). Weil die Transduktion selektiv ist, kann sie einschließen oder ausschließen. Drei Orte kehren wieder: Zugangs- und Fähigkeitskluften, Fehlaneignung durch Vorlagen dafür, wie eine gute Antwort oder eine gute Lernende klingt, und die normative Verschiebung dessen, was als Pädagogik gilt. Die Ausgrenzung ist oft eine Zange und kein Verbot — Institutionen erhöhen die Erwartungen an Tempo, Glätte und idiomatische Flüssigkeit und verschärfen zugleich die Authentizitätsregime.
 
 ## Agenda-Setting, simulierte Innovation und experimentelles Futuring
 

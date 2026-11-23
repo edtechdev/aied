@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Agentische KI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-18T18:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,10 +13,14 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-18T15:25:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
@@ -80,7 +84,7 @@ Während [[agentic-ai-education-scoping-review|das Scoping-Review mit 474 Studie
 - **Adversariales Robustheitstesten:** [[adversarial-stress-testing-role-playing-agents|Multi-Agenten-Stresstests]] koordinieren Verhörer-, Ziel- und Richter-Agenten, um Fehlermodi sichtbar zu machen, die für das Testen mit einer einzelnen Strategie unsichtbar bleiben, und senken die Robustheitswerte um 0,17–0,20 Punkte — kritisch für Konsistenz der Persona und [[pedagogical-safety|sicheren Einsatz]] mit Lernenden.
 - **Domänenanwendungen:** Agentische Systeme treten in vielen Domänen auf, darunter [[learnmate2-llm-adaptive-learning|adaptive Lernagenten]], [[educlaw-bench-pedagogical-llm-agents-2026|pädagogische LLM-Agenten]], [[guided-llm-scaffolding-independent-learning|begleitetes LLM-Scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamifizierte Lernagenten für Cybersicherheit]] und [[hdr-brachytherapy-agentic-ai-simulation-2026|Agenten für klinische Simulation]].
 - **Web-Agenten als Evaluatoren von Lernerfahrungen:** Ein einzelner autonomer „beschreibender“ Web-Agent, der eine Online-[[learning-design|Unterrichtsstunde]] wie ein Lernender navigiert — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — erzeugt eine Beschreibung, die reichhaltig genug ist, um Studienabbrüche vorherzusagen und der gestaltenden Person noch vor dem Einsatz echter Lernender verwertbares Feedback zu geben; er übertrifft eine vollständig simulierte Kohorte und jede Baseline in einem globalen CS1-Kurs. Das positioniert agentische Evaluation (ein Agent als Ersatz für einen Kritiker einer Lernerfahrung) als eigenständige, kostengünstige Nutzung agentischer KI neben Agenten, die lehren oder gestalten.
-- **Agentisches Benoten ist eine Reliabilitätsfrage, bevor es eine Arbeitslastfrage ist.** Einem agentischen Claude-Code-Einsatz wurden drei Rubrikdateien und 60 gescannte handschriftliche Zwischenprüfungsarbeiten aus einem Computergrafikkurs übergeben. Seine Bewertungen stimmten mit der Lehrkraft bei r = 0.97 überein, mit einem mittleren absoluten Fehler von 0.85 Punkten bei einer 20-Punkte-Arbeit, einem mittleren KI-positiven Bias von 0.68 und einer Test-Retest-ICC = 0.96 über zwei Sitzungen eine Woche auseinander. Das Aggregat verbirgt, wo es scheitert: Das gewichtete Kappa reichte von 0.98 bei Multiple Choice bis 0.65 bei bewertenden Items, wobei handgezeichnete Diagramme der schwächste Fall waren ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Ein Kurs, eine Lehrkraft und ein Rubriksatz lokalisieren die Varianz; sie belegen nicht, dass agentisches Benoten generalisiert.
+- **Agentisches Benoten ist eine Reliabilitätsfrage, bevor es eine Arbeitslastfrage ist.** Einem agentischen Claude-Code-Einsatz wurden drei [[rubrics|Rubrikdateien]] und 60 gescannte handschriftliche Zwischenprüfungsarbeiten aus einem Computergrafikkurs übergeben. Seine Bewertungen stimmten mit der Lehrkraft bei r = 0.97 überein, mit einem mittleren absoluten Fehler von 0.85 Punkten bei einer 20-Punkte-Arbeit, einem mittleren KI-positiven Bias von 0.68 und einer Test-Retest-ICC = 0.96 über zwei Sitzungen eine Woche auseinander. Das Aggregat verbirgt, wo es scheitert: Das gewichtete Kappa reichte von 0.98 bei Multiple Choice bis 0.65 bei bewertenden Items, wobei handgezeichnete Diagramme der schwächste Fall waren ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Ein Kurs, eine Lehrkraft und ein Rubriksatz lokalisieren die Varianz; sie belegen nicht, dass agentisches Benoten generalisiert.
 
 Agentische Architekturen erkaufen Abdeckung zu messbaren Kosten an Präzision. In [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al.s (2026)]] Benchmark aus 926 Stichproben von Stellenanzeigen und 1,696 Goldstandard-Fähigkeiten führte ein ReAct-Agent mit ESCO-Lookup-Werkzeug beim erweiterten Recall mit 89.7%, gegenüber 83.7% für die beste generative Konfiguration und 49.1% für das beste Embedding-Modell. Seine Präzision lag bei 22.7%, was F1 bei 36.3% beließ, unter einem werkzeuggestützten Gemini 2.5 Flash mit 51.6%, und er lief mit etwa 16 Sekunden pro Stichprobe. Recall ist die richtige Metrik, wenn ein menschlicher Berater die Liste ausdünnt; unvermittelte Ausgabe braucht die verankerte Alternative.
 
@@ -144,6 +148,8 @@ Agentische KI birgt eigene Bedrohungen der Integrität, die über die Fälle ein
 - **Kognitive Schulden häufen sich unbemerkt an.** Ghost Students lassen Lernende die anstrengungsvollen Prozesse umgehen, die Verständnis aufbauen, und häufen [[cognitive-offloading|kognitive Schulden]] an, die erst sichtbar werden, wenn unabhängige Leistung gefordert ist. Integrität ist daher an echtes Lernen gebunden, nicht nur an Regelbefolgung.
 - **Es vergrößert Gerechtigkeitslücken.** Lernende mit Zugang zu leistungsfähigeren agentischen Systemen verschaffen sich einen überproportionalen Vorteil, und automatisierte Unterstützung kann die Hilfe für jene erodieren lassen, die sie am meisten brauchen — eine [[equity-in-ai-education]]-Dimension der Integrität.
 
+- **Auch das Kontrollartefakt kann von Agenten geschrieben werden.** [[pinto-student-ownership-ai-agents-code-2026|Pinto et al. (2026)]] ließen 18 Studierendenpaare Systeme im spec-driven development bauen und fanden, dass Agenten 69 % der Spezifikationen schrieben, die Studierende eigentlich in Kontrolle halten sollten, mitunter aus wenigen Prompt-Worten — die Spezifikation, die die lernende Person zertifizieren sollte, war also selbst agentisch verfasst.
+
 Das verbindet die Diskussion um agentische KI mit der Abdeckung von [[academic-integrity]] in der Wissensbasis, welche die Antwort als Neugestaltung des Assessments und [[ai-literacy]] statt als Erkennung allein rahmt.
 
 ## Produktive Friktion und soziale Interaktion
@@ -164,6 +170,8 @@ Für Lehrende, Fakultäten und [[learning-design|Instruktionsdesigner]] verände
 - **[[ai-literacy]] der Lehrenden aufbauen.** Lehrende und Designer brauchen zutreffende mentale Modelle agentischer KI, um diese Systeme zu konfigurieren, zu überwachen und zu kritisieren — und um verantwortungsvolle Nutzung für Lernende vorzuleben. Das verknüpft sich mit [[teacher-ai-competency]] und [[educational-development|Fakultätsentwicklung]].
 - **Auf Gerechtigkeit achten.** Agentische Werkzeuge riskieren, Lücken zu vergrößern, wenn der Zugang ungleich ist oder wenn Automatisierung die Unterstützung für die Lernenden erodiert, die sie am meisten brauchen; gestalten Sie mit [[equity-in-ai-education]] im Blick.
 - **Institutionelles Gerüst vor der Skalierung aufstellen.** Die Einsatzfrage ist nicht nur Design-, sondern Institutionsebene. [[baradziej-agentic-ai-higher-education-2026|Baradziejs (2026)]] Synthese verdichtet die Governance-Evidenz auf drei Säulen: [[ai-literacy]] bei Studierenden *und* Personal entwickeln; [[ethics|ethische]] Infrastruktur (Datenschutzrichtlinien, Frameworks für algorithmische Rechenschaftspflicht und akademische Integrität) *vor* dem großen Einsatz aufbauen; und kompetenzbasiertes [[educational-development|Training für Lehrende]] liefern, das über Werkzeugvertrautheit hinaus zu pädagogischen Frameworks geht, die menschliche Handlungsfähigkeit bewahren. Da in manchen nationalen Kontexten nur ~6,5 % der Fakultäten direkte KI-Nutzung berichten, ist die Trainingslücke eine bindende Einschränkung verantwortungsvoller Einführung.
+
+- **Messen, wo Menschen die Delegationsgrenze ziehen.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang & Nedungadi (2026)]] führten ein randomisiertes Verhaltenswahl-Experiment mit 290 Hochschullehrenden durch: 92 % delegierten die Fragenerstellung, aber nur 20 % ließen ein Quiz unbeaufsichtigt auf der Plattform laufen, und nur 5 % wählten die automatische Veröffentlichung. Entwurfs-only- und genehmigungsgesteuerte Konfigurationen wurden bevorzugt — die Grenze liegt also bei irreversiblen Plattformaktionen und nicht bei der Inhaltsgenerierung.
 
 ### Techniken zur Sicherung akademischer Integrität bei agentischer KI
 

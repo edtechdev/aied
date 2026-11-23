@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Lehr- und Curriculumsentwicklung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-18T05:55:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
@@ -113,7 +117,7 @@ Urteil sollte besser als Bedingung denn als Kompetenzposten behandelt werden. [[
 
 Die Einheit der Entwicklung kann kleiner als die Abteilung und größer als die Person sein. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] legen sieben Lehrrollen dar, bestehen aber darauf, dass sie nicht in einer Person sitzen müssen: menschzentrierte Bildnerin und Fachexpertise sind universelle Grundlagen, während Lernarchitektur, Assessment-Neugestaltung, technische Kompetenz, ethische Aufsicht und disziplinierte Experimentation über ein Lehrteam verteilt werden können. Ihre Bedingung ist, dass alle eine grundlegende technische und ethische Fähigkeit behalten, damit geteilte Expertise nicht geteilte Unwissenheit wird.
 
-**Führen Sie die Reihe an den eigenen Daten des Raums statt an importierter Best Practice.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum und Finkelstein (2026)]] dokumentieren ein ausgearbeitetes Modell aus einer großen öffentlichen R1-Physikabteilung: sechs zweiwöchentliche Sitzungen von 60 bis 75 Minuten, neunzehn Fakultäten über die Reihe hinweg teilnehmend und etwa zehn bei jedem Treffen, in denen jede Sitzung mit lokalen Daten oder abteilungsbezogenen Materialien eröffnete, zum Testen von KI in Kleingruppen gegen echte anonymisierte Hausaufgaben überging, und in kollektiver Diskussion schloss. Was Fakultäten durch Testen fanden, war nützlicher als jedes Paket, das die Facilitators hätten importieren können — KI löste jedes Problem, das sie versuchten, aber ihr Feedback zu echter Studierendenarbeit war ungleich, promptabhängig und oberflächenfokussiert, solange ihr keine ausdrücklichen Ziele und Rubriken gegeben wurden, und Lernende prompteten flach und modifizierten Ausgabe oberflächlich, solange produktive Nutzung nicht modelliert wurde. Die erste konkrete Ausgabe war ein lebendiges Repository mit fünf Einträgen — Syllabus-Politikerklärungen, Kursraumdiskussionsmaterialien, die Studierendenumfrage, KI-integrierte Hausaufgaben und Assessmentstrukturen — weshalb die Autoren die Sitzungsstruktur selbst als das Argument behandeln statt jeden Inhalt, den sie lieferte.
+**Führen Sie die Reihe an den eigenen Daten des Raums statt an importierter Best Practice.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum und Finkelstein (2026)]] dokumentieren ein ausgearbeitetes Modell aus einer großen öffentlichen R1-Physikabteilung: sechs zweiwöchentliche Sitzungen von 60 bis 75 Minuten, neunzehn Fakultäten über die Reihe hinweg teilnehmend und etwa zehn bei jedem Treffen, in denen jede Sitzung mit lokalen Daten oder abteilungsbezogenen Materialien eröffnete, zum Testen von KI in Kleingruppen gegen echte anonymisierte Hausaufgaben überging, und in kollektiver Diskussion schloss. Was Fakultäten durch Testen fanden, war nützlicher als jedes Paket, das die Facilitators hätten importieren können — KI löste jedes Problem, das sie versuchten, aber ihr Feedback zu echter Studierendenarbeit war ungleich, promptabhängig und oberflächenfokussiert, solange ihr keine ausdrücklichen Ziele und [[rubrics|Rubriken]] gegeben wurden, und Lernende prompteten flach und modifizierten Ausgabe oberflächlich, solange produktive Nutzung nicht modelliert wurde. Die erste konkrete Ausgabe war ein lebendiges Repository mit fünf Einträgen — Syllabus-Politikerklärungen, Kursraumdiskussionsmaterialien, die Studierendenumfrage, KI-integrierte Hausaufgaben und Assessmentstrukturen — weshalb die Autoren die Sitzungsstruktur selbst als das Argument behandeln statt jeden Inhalt, den sie lieferte.
 
 **Verankern Sie in einem Kompetenzrahmenwerk.** Entwicklung sollte auch **pädagogische [[prompt-engineering|Prompt-Kompetenz]]** aufbauen — die Fähigkeit, pädagogische Absichten in Prompts zu kodieren — da [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] findet, dass es pädagogische Expertise ist, nicht KI-Flüssigkeit, die die Qualität der KI-assistierten Designarbeit der Lehrenden bestimmt.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 

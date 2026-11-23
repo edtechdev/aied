@@ -1,7 +1,7 @@
 ---
 title: Theorieentwicklung in der KI in der Bildung
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,10 +10,14 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -100,7 +104,7 @@ Das Theoretisieren des Felds ist ungleich. [[limitations-in-aied-research|Grenze
 
 ## Beziehung zur Philosophie der KI in der Bildung
 
-Theorieentwicklung und [[philosophy-of-ai-in-education|die Philosophie der KI in der Bildung]] sind komplementäre, aber distincte Stränge der grundlegenden Arbeit der Wissensbasis. **Theorieentwicklung** produziert und testet empirisch die *Mechanismen* des Lernens-mit-KI — benannte Theorien und Rahmenwerke wie Generativismus, epistemische Ko-Handlungsfähigkeit und die abwesende kognitive Baseline, die erklären und vorhersagen, wie Lernende und KI interagieren. **Philosophie** befragt die *Voraussetzungen*, auf denen jene Mechanismen ruhen: was als Wissen zählt, wer als Wissende zählt, und was die lernende Person grundlegend ist. Eine Theorie wie [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemische Ko-Handlungsfähigkeit]] schlägt einen Mechanismus vor, während sie implizit philosophische Verpflichtungen zu verteilter Kognition und [[agency|Handlungsfähigkeit]] annimmt; Philosophie macht jene Verpflichtungen explizit und bestreitbar. Wo Theorieentwicklung fragt, ob ein Rahmenwerk Lernen gut erklärt, fragt Philosophie, ob es einfängt, was Lernen und Geist wirklich sind —, die beiden Stränge treffen sich in den grundlegendsten Artikeln des Felds, die oft beides auf einmal tun.
+Theorieentwicklung und [[philosophy-of-ai-in-education|die Philosophie der KI in der Bildung]] sind komplementäre, aber distincte Stränge der grundlegenden Arbeit der Wissensbasis. **Theorieentwicklung** produziert und testet empirisch die *Mechanismen* des Lernens-mit-KI — benannte Theorien und Rahmenwerke wie Generativismus, epistemische Ko-Handlungsfähigkeit und die abwesende kognitive Baseline, die erklären und vorhersagen, wie Lernende und KI interagieren. **Philosophie** befragt die *Voraussetzungen*, auf denen jene Mechanismen ruhen: was als Wissen zählt, wer als Wissende zählt, und was die lernende Person grundlegend ist. Eine Theorie wie [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemische Ko-Handlungsfähigkeit]] schlägt einen Mechanismus vor, während sie implizit philosophische Verpflichtungen zu verteilter Kognition und [[agency|Handlungsfähigkeit]] annimmt; Philosophie macht jene Verpflichtungen explizit und bestreitbar. Wo Theorieentwicklung fragt, ob ein Rahmenwerk Lernen gut erklärt, fragt Philosophie, ob es einfängt, was Lernen und Geist wirklich sind —, die beiden Stränge treffen sich in den grundlegendsten Artikeln des Felds, die oft beides auf einmal tun. Was die Kritikerinnen und Kritiker des Feldes über die Richtungen sagen, die jene Theorien eröffnen oder verschließen, ist eine gesonderte Frage, die unter [[critiques-of-ai-in-education|Kritik an KI in der Bildung]] gesammelt wird.
 
 ## Verbreitete Fehlvorstellungen
 

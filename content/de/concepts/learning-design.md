@@ -1,7 +1,7 @@
 ---
 title: Lerndesign
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,10 +12,14 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire, elearning-prompt-library]
 translation_of: concepts/learning-design
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
@@ -70,7 +74,7 @@ Sprachqualität ist die andere Lücke, und sie ist nicht dasselbe wie das Leseni
 
 **Das Werkzeug begrenzen, um das Denken zu schützen.** Ein neunwöchiges argumentatives Schreibdesign sequenzierte lehrkraftbegrenzte [[conversational-ai|Chatbots]], die Fragen stellen und sich weigern, Studierendenprosa zu generieren, und vier Sekundarstufenschülerinnen und -schüler bewegten sich von passiven KI-Konsumenten zu Evaluierenden, die gegen Output zurückdrängten — strategische Begrenzung, nicht uneingeschränkte Generativität, verfolgte die Zuwächse ([[making-ai-annoying-constrained-writing-2026|Konradt, Boote & Taub (2026)]]).
 
-**Rubrikgeführtes Prompting als Designhebel.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] demonstrierten, dass die Rubrik als vermittelndes Interface zwischen menschlicher pädagogischer Absicht und Maschineninferenz fungiert: Assessmentkriterien als revisable Designartefakte zu behandeln — statt als feste Instrumente — und sie iterativ mit dem LLM zu ko-verfeinern hob die LLM-Mensch-Übereinstimmung bei studentischer Designarbeit von 54,75% auf 81,25%. Für LLMs entwickelte Rubriken müssen Präzision und Flexibilität ausbalancieren — zu vage lädt freie Interpretation ein, zu starr reduziert das Modell auf Mustererkennung — und rollenbewusstes Prompting (Lehrkraft, Peer-Reviewer, Grant-Reviewer) ergab verschiedene evaluative Feedbacks. Das positioniert Rubrikengineering als konkrete Lerndesignpraxis für das Formen von KI-Evaluationsverhalten, wobei Human-in-the-Loop-Aufsicht essenziell bleibt.
+**Rubrikgeführtes Prompting als Designhebel.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] demonstrierten, dass die [[rubrics|Rubrik]] als vermittelndes Interface zwischen menschlicher pädagogischer Absicht und Maschineninferenz fungiert: Assessmentkriterien als revisable Designartefakte zu behandeln — statt als feste Instrumente — und sie iterativ mit dem LLM zu ko-verfeinern hob die LLM-Mensch-Übereinstimmung bei studentischer Designarbeit von 54,75% auf 81,25%. Für LLMs entwickelte Rubriken müssen Präzision und Flexibilität ausbalancieren — zu vage lädt freie Interpretation ein, zu starr reduziert das Modell auf Mustererkennung — und rollenbewusstes Prompting (Lehrkraft, Peer-Reviewer, Grant-Reviewer) ergab verschiedene evaluative Feedbacks. Das positioniert Rubrikengineering als konkrete Lerndesignpraxis für das Formen von KI-Evaluationsverhalten, wobei Human-in-the-Loop-Aufsicht essenziell bleibt.
 
 **KI-Agenten für Instruktionsdesign** erweitern das Feld in [[agentic-ai|agentische KI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** ist der erste standardisierte, theoriegegründete Benchmark zur Evaluation LLM-basierter Instruktionsdesignagenten — seine 25.795-Szenario-Context-Matrix (51 Kontextvariablen × 33 ISD-Teilschritte aus ADDIE) zeigt, dass Agenten, die in klassischen ISD-Rahmenwerken (ADDIE, Dick & Carey, Rapid Prototyping ISD) gegründet sind, theoriefreie Agenten übertreffen, was empirisch validiert, dass Instruktionsdesign eine strukturierte Disziplin ist statt eine generische Promptingaufgabe. Agenten sind nicht nur *Bauer* von Designs, sondern auch *Kritiker* derselben: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] nutzen einen einzelnen autonomen Webagenten, der eine mehrstufige Onlinelektion wie eine lernende Person navigiert, um ein Lerndesign zu evaluieren, *bevor* echte Lernende sich einlassen — seine Beschreibung der [[student-experience|Studierendenerfahrung]] sagt vorher, wo Novizen aussteigen, und bringt umsetzbares Designfeedback, wobei es jede Baseline und sogar eine simulierte Kohorte von Studierenden auf einem globalen CS1-Kurs übertrifft. Das rahmt eine agentische Evaluation vor dem Start als kostengünstige Ergänzung menschlicher Designiteration. **[[wang-multi-agent-systems-learning-designers-2025]]** und **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** erkunden Multi-Agenten-Rahmenwerke, die rollenbasierte Agenten um Instruktionsdesignmodelle orchestrieren, während **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** untersucht, wie Lehrkräfte und Agenten gemeinsam technologisches-pädagogisches-Inhaltswissen anwenden. Diese Arbeit verbindet Instruktionsdesign mit [[benchmark|Benchmarking]], [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und dem Design von [[curriculum-design|Curriculum]] in großem Maßstab.
 
@@ -125,7 +129,11 @@ Fowlin et al. (2026) fügen einen operativen Zug hinzu, um zu entscheiden, wo KI
 
 - **Designerinnen und Designer erbitten Steuerbarkeit, nicht Autonomie.** Acht Instruktionsdesignerinnen und -designer, die eine Item-Generierungsplattform testeten ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]), wollten Kontrolle über Schwierigkeit, Format und Provenienz, bewerteten sie mit 78.8 auf der SUS und nannten Vertrauen als Bedingung für die Übernahme.
 
-Design moderiert Effekte stärker als Technologie in der Synthese von Zhang und Kolleginnen und Kollegen: Dieselbe GenAI-Fähigkeit erzeugte g = 0.92, wenn die lernende Person sie steuerte, und g = 0.34, wenn sie autonom lief. Der Interaktionsmodus ist daher eine Designentscheidung statt eine Eigenschaft des Werkzeugs ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+Design moderiert Effekte stärker als Technologie in der Synthese von Zhang und Kolleginnen und Kollegen: Dieselbe GenAI-Fähigkeit erzeugte g = 0,92, wenn die lernende Person sie steuerte, und g = 0,34, wenn sie autonom lief. Die Interaktionsmodalität ist also eine Designentscheidung statt eine Eigenschaft des Werkzeugs ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
+**Eine Reflexionslern-Design- und Audit-Schleife.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] schlagen SAREL vor — die reflexive Fähigkeit und einen Nicht-KI-Vergleichsfall spezifizieren; Lernendensteuerung und einen gleichwertigen barrierefreien Weg zuteilen; Reflexion und Verifikation verlangen; Lernen neben Gerechtigkeit, Arbeitslast und Ressourcenverbrauch evaluieren; die Evidenz in die Neugestaltung zurückführen — als Weg, KI-unterstützte Reflexion zu einer vergleichenden Designfrage zu machen statt zu einem angenommenen Nutzen der Annahme. Die fünf Stufen sind ein unvalidiertes Autorinnenvorhaben, angeboten, um die richtigen Fragen zu rahmen, nicht als getestete Methode.
+
+**Für die Ebenen oberhalb und unterhalb des Kurses gestalten.** Ein Kurs ist eine Ebene in einem größeren System: Die Lernenden kommen mit [[prior-knowledge|Vorwissen]] und außercurricularen Verpflichtungen herein, und die Institution um ihn herum setzt Arbeitslast, Beschaffung und Prüfungsregeln. [[learning-environments-as-systems|Lernumgebungen als Systeme]] benennt die Haltung, die jene Ebenen als interagierend behandelt, sodass ein auf Kursebene gewähltes Werkzeug gegen die Randbedingungen der Institution und die tatsächliche Situation der Lernenden geprüft wird, statt so bewertet, als wäre der Kurs geschlossen.
 
 ## Verbreitete Fehlvorstellungen
 

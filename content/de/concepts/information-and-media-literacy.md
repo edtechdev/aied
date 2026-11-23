@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -85,7 +89,7 @@ Lehrende können die Ausgabe eines Detektors als Indiz statt als Urteil behandel
 
 Curriculumsentwickler können die Produktion im Kurs belassen. Das Erstellen von Medien war es, was Kritik in den hier betrachteten Studien konkret machte, und das Generieren mit AI unterstützt sie nur dann, wenn Lernende die Entscheidungen untersuchen, die das Werkzeug für sie getroffen hat.
 
-Wird das Konstrukt als Leistung statt als Einstellung bewertet, rückt die Schwachstelle ins Blickfeld. In einem achtwöchigen Code-Craft-Experiment mit 28 thailändischen Bachelorstudierenden stieg die digitale Kompetenz auf einer dreistufigen Rubrik von 1,51 auf 2,82, doch das Verwalten von Informationen erreichte im Mittel nur 1,92 und das Erstellen von Informationen 2,05 — gegenüber 2,36 für das Kommunizieren und Zusammenarbeiten mit anderen ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij und Khlaisang, 2026]]). Die niedrigsten Werte lagen auf der produzierenden Seite des Konstrukts — dort, wo ein Kurs, der bei Suche und Bewertung stehenbleibt, niemals ankommt.
+Wird das Konstrukt als Leistung statt als Einstellung bewertet, rückt die Schwachstelle ins Blickfeld. In einem achtwöchigen Code-Craft-Experiment mit 28 thailändischen Bachelorstudierenden stieg die digitale Kompetenz auf einer dreistufigen [[rubrics|Rubrik]] von 1,51 auf 2,82, doch das Verwalten von Informationen erreichte im Mittel nur 1,92 und das Erstellen von Informationen 2,05 — gegenüber 2,36 für das Kommunizieren und Zusammenarbeiten mit anderen ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij und Khlaisang, 2026]]). Die niedrigsten Werte lagen auf der produzierenden Seite des Konstrukts — dort, wo ein Kurs, der bei Suche und Bewertung stehenbleibt, niemals ankommt.
 
 Programmverantwortliche können eine Bibliothekskraft oder Medienfachkraft in den Arbeitsablauf einbinden. Das stärkste didaktische Ergebnis in dieser Literatur stammt aus einem Design, bei dem menschliche Beratung fest eingebaut war, statt erst nachträglich angeboten zu werden.
 
