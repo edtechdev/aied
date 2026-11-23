@@ -1,7 +1,7 @@
 ---
 title: למידה מותאמת אישית
 created: "2026-10-12T20:45:00-04:00"
-updated: "2026-11-23T12:15:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-23"
@@ -115,6 +119,8 @@ Bernstein and Sibia (2026) מחדדים הבחנה בין התאמת-אישית 
 התאמה אישית יכולה גם להרכיב את כל שלושת משתני הלומד לצינור אחד בפלטפורמת שפה שנייה אמיתית: [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] משלבים מודלי העדפה, שליטה ומעורבות על יומני NedBox של 7,346 לומדים.
 הם מדרגים חומרים באמצעות ממליץ EASE הקל (AUROC 0.955), מדרגים מחדש את עשרת המובילים לפי אומדני שליטה של DeepIRT (MCC הטוב ביותר 0.34), ומסננים פריטים שמודל יער-הישרדות מסמן כבעלי סיכון נשירה גבוה (C-index 0.662).
 קושי הכניסה של כל לומד נקבע לרמה שההסתברות החזויה שלה לתשובה נכונה קרובה ביותר ל-0.75.
+
+**GenAI פותח מחדש את שאלת סגנונות הלמידה מבלי לסגור אותה.** [[nawarathne-genai-learning-styles-2026|Nawarathne, Haddela and Kodagoda (2026)]] סקרו 41 מחקרים שממפים בינה מלאכותית יוצרת ל-VARK, קולב, פלדר-סילברמן והאני ומאמפורד, ומצאו שהערך טמון בגמישות רב-מודלית — אותו תוכן במספר פורמטים בו-זמנית — ולא בהתאמת העדפת סגנון קבועה. הסקירה מתעדת גם את הביקורת הוותיקה שתאוריות סגנונות הלמידה חסרות ראיה אמפירית מוצקה.
 
 ## עד כמה הראיות חזקות
 

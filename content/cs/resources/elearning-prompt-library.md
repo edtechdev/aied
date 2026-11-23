@@ -1,7 +1,7 @@
 ---
 title: "Knihovna promptů pro eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sbírka na GitHubu od Sunila Iyera pod licencí MIT: 22 kopírovatelných AI promptů pro instruktážní designéry a vývojáře eLearningu, každý označený teorií učení, kterou uplatňuje."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Pro instruktážní designéry a vývojáře vzdělávacích technologií, kteř
 - **Označování teorií je autorovo vlastní mapování.** Nic nepotvrzuje, že prompt uplatňuje teorii, kterou uvádí. „Založené na důkazech“ a „připravené do produkce“ jsou autorova tvrzení a každý výstup potřebuje ještě odbornou kontrolu obsahu, než vstoupí do kurzu.
 - **Velmi mladé a neověřené.** Jeden přispěvatel, dvě hvězdičky, žádná publikovaná vydání k listopadu 2026 a repozitář vytvořený 15. listopadu 2026 — starý několik dní, ne udržovaná sbírka. Počty adopcí jsou platné ke dni 23. listopadu 2026.
 - **Licence MIT.** Volné kopírování a úpravy, včetně komerčních, s uvedením autora.
-
-## Propojené koncepty
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

@@ -11,7 +11,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-22T12:23:33-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,11 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+updated: "2026-11-23T13:15:00-05:00"
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026, rothwell-ai-interpersonal-skills-undergraduate-teams-2026]
 ---
@@ -57,6 +61,7 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-as
 - **يجب تصميم التعاون، لا افتراضه.** وحيث يمكن تقسيم مهمّة إلى مهام فرعية مستقلّة، يسلك الطلاب هذا الطريق وتصبح المجموعة صيغة تسليم لا مسعى فكريًا مشتركًا. وجد [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] ثلاثًا من مجموعاتهم الخمس عشرة تفعل هذا تمامًا — تقسيم العمل، والعمل على «منصّات فردية»، وعدم تجميع قدراتهم الفردية على الذكاء الاصطناعي التوليدي أبدًا حتى حين كان التماسك معيار تقويم صريح.
 - **العملية مقابل المنتج.** العمل الجماعي أقوى ما يكون عندما تُقوَّم العملية جنبًا إلى جنب مع المخرجات، ما يتطلّب [[peer-assessment|التقويم بالأقران]] أو وسائط مرئية أخرى لا أثرًا نهائيًا واحدًا.
 - **[[equity-in-ai-education|الإنصاف]] و[[inclusive-learning|الإدماج]].** أعراف المساهمة واللغة والثقة تتوزّع بشكل غير متكافئ داخل المجموعات. و[[neurodivergent-computing-students|يُفيد طلاب ذوو اختلافات عصبية]] بحاجتهم إلى مهام منظّمة وفرق صغيرة متّسقة وأدوار محدّدة صراحةً — متطلّبات تُخفق فيها روتينيًا أدوات تعاون الذكاء الاصطناعي، المُبنية في الغالب لـ«المتعلّم المتوسّط».
+- **التدرّب على المحادثة الصعبة.** اللحظة التي يتجنّبها العمل الجماعي أكثر ما تكون شخصية: إخبار زميل بأن مواعيده النهائية فاتت وطلب تفسيره. يفصل عرض سردي مركّز لتسع دراسات ([[rothwell-ai-interpersonal-skills-undergraduate-teams-2026|Rothwell, 2026]]) بين ثلاث نتائج يميل المعلّمون إلى الخلط بينها — ثقة المتعلّمين بعد التدرّب مع روبوت المحادثة، والأداء ما دامت اقتراحات الذكاء الاصطناعي متاحة، والأداء بلا مساعدة مع شريك بشري — ويجد أن النتيجة الثالثة وحدها هي التي تُثبت الانتقال، مع بقاء الدليل المباشر من عمل الفرق الجامعية محدودًا. ومن ثم تعرض التمارين المقترحة محادثة ثلاثية لخط الأساس، ثم تدرّبًا مع روبوت المحادثة بتغذية راجعة قائمة على السلوك، ثم جولات انتقال قريب واحتفاظ مؤجّل بلا الأداة، حتى لا يُنسب التحسّن إلى مطالبات كانت متاحة لحظة الأداء.
 
 ## كيف يُغيّر الذكاء الاصطناعي العمل الجماعي
 

@@ -1,7 +1,7 @@
 ---
 title: "Biblioteca de prompturi pentru eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Colecția lui Sunil Iyer de pe GitHub, cu licență MIT: 22 de prompturi IA gata de copiat pentru designeri instrukcionali și dezvoltatori eLearning, fiecare etichetat cu teoria de învățare pe care o aplică."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Pentru designeri instruccionali și dezvoltatori de tehnologie educațională ca
 - **Etichetarea teoriei este o corespondență a autorului însuși.** Nimic nu validează că un prompt aplică teoria pe care o indică. „Bazat pe dovezi” și „gata de producție” sunt afirmații ale autorului, iar fiecare rezultat are nevoie încă de o verificare de fond înainte de a intra într-un curs.
 - **Foarte tânăr și neverificat.** Un singur colaborator, două stele, nicio versiune publicată până în noiembrie 2026 și un depozit creat pe 15 noiembrie 2026 — are câteva zile, nu este o colecție întreținută. Numerele de adoptare au fost citite pe 23 noiembrie 2026.
 - **Cu licență MIT.** Liber de copiat și adaptat, inclusiv comercial, cu atribuire.
-
-## Concepte conectate
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

@@ -1,7 +1,7 @@
 ---
 title: "eLearning 프롬프트 라이브러리"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer의 MIT 라이선스 GitHub 모음집으로, 교수 설계자와 eLearning 개발자를 위한 복사-붙여넣기용 AI 프롬프트 22개를 각각 적용하는 학습 이론 태그와 함께 담고 있습니다."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **이론 태그는 저자 스스로의 대응입니다.** 프롬프트가 명시한 이론을 실제로 적용한다고 검증해 주는 것은 아무것도 없습니다. "증거 기반"과 "제작 준비 완료"는 저자의 주장이며, 각 출력은 강좌에 넣기 전에 여전히 주제 내용 확인이 필요합니다.
 - **매우 새롭고 검토되지 않았습니다.** 기여자 1명, 스타 2개, 2026년 11월 기준 공개 릴리스 없음, 저장소 생성일은 2026년 11월 15일 — 며칠 된 것일 뿐 유지 관리되는 모음집이 아닙니다. 채택 수는 2026년 11월 23일 현재 읽은 값입니다.
 - **MIT 라이선스.** 출처 표기를 조건으로 상업적 용도를 포함해 자유롭게 복제하고 각색할 수 있습니다.
-
-## 연결된 개념
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

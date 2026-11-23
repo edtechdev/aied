@@ -1,7 +1,7 @@
 ---
 title: רפלקציה
-created: "2026-11-08T11:00:00-05:00"
-updated: "2026-11-08T11:00:00-05:00"
+created: "2026-11-08T11:00:00-04:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -14,10 +14,14 @@ page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
 translation_of: concepts/reflection
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -115,6 +119,8 @@ connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-refl
 [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] מוסיפים את מבט התהליך מ-18 מורים בסין היבשתית ובהונג קונג, שתיאוריהם מתגבשים לזיהוי הצורך להשתמש ב-GenAI, לחלוקה מחדש של קוגניציה, ולהתחברות מחודשת רפלקטיבית לאחר השימוש. [[reflective-triangle-model-teacher-ai-2026|מודל המשולש הרפלקטיבי (2026)]] מחבר רפלקציה עצמית, רפלקציה שיתופית ורפלקציה קהילתית בקהילה מקצועית לומדת במקרה בן ארבעה שבועות עם שישה מורים, כאשר הבינה המלאכותית היא מתווך קוגניטיבי ולא מעריך.
 
 גם ההכנה חשובה באופן בלתי תלוי בכלי. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] בחנו אימון באסטרטגיות מטאקוגניטיביות מול מודול פלצבו עם LLM שהוגדר כשותף רפלקציה [[socratic-method|סוקרטי]] מול כלים דיגיטליים מסורתיים, בתכנון 2 × 2 עם 60 מורים פרה-סרביס. שני האפקטים העיקריים היו מובהקים עבור איכות הרפלקציה הכתובה במדידת אחרי-מבחן.
+
+רפלקציה יכולה להיעור גם ממגבלותיו של הכלי עצמו. במחקר מקרה בודד בן שלושה שבועות, [[nuzzo-ai-reflective-partner-tpack-2026|Nuzzo and De Marco (2026)]] עקבו אחר מורה לאנגביה בחטיבת ביניים שתכנן שיעור על *Laborintus* של סנגינטי: הקריאה של GenAI הייתה רהורה אך ריכזה את השיר בקטגוריות כלליות, והפער בין היתכנות רטורית לדיוק הרמנוויטי הפיק מה שהמחברים מכנים דיסוננס פדגוגי ומסגור רפלקטיבי. במקום לקבל או לדחות את הפלט, היא בנתה מחדש את דף העבודה סביב "מה ה-AI פספס?", והפכה את הפרשנות שנוצרה למושא לבחינה של התלמידים. הסוכנות המשותפת בין אדם לבינה מלאכותית נותרה א-סימטרית לאורך כל הדרך — המערכת הציעה אלטרנטיבות, בעוד האחריות האפיסטמית והפדגוגית נשארה אצל המורה.
 
 במיפוי של 26 מחקרי AI בלמידה דרך שירות, רפלקציה הייתה השלב שזכה למענה המועט ביותר — שלושה מחקרים הגיעו אליו ואחד כיסה את כל ארבעתם — כך שהשלב שהופך שירות ללמידה הוא המקום שבו תמיכת הבינה המלאכותית דקה ביותר ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 

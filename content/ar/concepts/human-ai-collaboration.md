@@ -1,14 +1,14 @@
 ---
 title: التعاون بين الإنسان والذكاء الاصطناعي
 created: "2026-10-12T20:37:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-21T09:01:46-05:00"
+source_updated: "2026-11-23T09:48:57-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
 connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, ai-integration-instructional-design-collaboratory-2026, ai-overreliance-complex-adaptive-system-2026, ai-standardized-patient-scaffolding-medical-2026, bjet-many-hands-make-light-work-2026, bounded-reliance-ai-writing-feedback-2026, choi-teacher-ai-interaction-lesson-design-2026, conversational-ai-agents-umbrella-review-2026, dang-human-ai-collaboration-competency-2026, ethics-training-agents-group-ethics-discussion-2026, generative-ai-mediational-agent-sociocultural-2026, haiml-human-centered-ai-metacognitive-model-2026, hao-human-ai-collaborative-problem-solving-cognition, hong-authorship-legitimation-deficit-human-ai-co-creation-2026, human-ai-collaboration-academic-writing-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, liao-role-adaptive-ai-companion-book-talk-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, niari-ai-pedagogical-mediator-collaborative-learning, nixon-social-cost-ai-teammate-2026, ojeda-ramirez-community-based-ai-learning, oppenheimer-llms-collaborative-learning-partners-2026, principal-trait-analysis-human-ai-skills-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, robinson-lesson-study-dialogic-engagement-ai-2026, scan-framework-task-assignment-generative-ai-2025, spritz-ai-disciplinary-mediation-student-teams-2026, student-mental-models-genai, substitution-to-scaffolding-ai-harm-cycle-2026, sun-student-genai-entanglement-literacy-demands-2026, talebzadeh-ai-group-activity-roles-2026, tang-chatbots-learning-design-2026, teacher-ai-collaboration-work-engagement-2026, think-first-chatgpt-later-2026, tuo-armada-multi-agent-debate-overreliance-2026, wang-agentic-translation-education-2026, wang-genai-novice-learner-learning-by-teaching-2026, wang-teacher-ai-co-design-review-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, xu-genai-collaborative-space-2026, zhu-ai-pair-programming-secondary-2026, li-human-ai-professional-competence-2026]
@@ -104,6 +108,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, ai
 - **امتلاك عمل ليس هو تأليفه.** يسمّي [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] *عجز مشروعية التأليف*: قد يختبر الشخص مخرجًا بوصفه ملكه ومع ذلك يعجز عن تبرير دور المؤلف، لأن الملكية النفسية، والإحساس بـ[[agency|الفاعلية]]، والمساءلة عن إطلاق العمل مسارات منفصلة لا يلزم أن تتوافق. ويصنّف «عقدة العمل» للتأليف المساهمات دورًا بدور، فيمكن لسجل واحد أن يدعم ادعاءً تحريريًا ويفشل في ادعاء مؤلف وحيد في الوقت نفسه. والحساب تحليل مفاهيمي بلا بيانات ولا نموذج مُختبَر، فالعجز بناء مقترح تبقى تنبؤاته غير مُختبَرة.
 - **تمتد الشراكة إلى عملية البحث نفسها، لا إلى تعلّم الطلاب فقط** — جعل [[potter-participatory-design-writing-analytics-2026|Potter وآخرون (2026)]] GPT-4o يصوغ الرموز والموضوعات الأولية في منصّة استرجاع آمنة بينما احتفظ ثلاثة باحثين أساسيين ومُصدِّقَين خارجيين بالسلطة التفسيرية، فدمجوا أربعة موضوعات نهائية. وأعاد سير العمل الهجين توزيع عمل الباحثين بدل أن يزيله.
 - **تدوير الأدوار رافعة تعاون مستقلة عن الذكاء الاصطناعي.** وجد [[zhu-ai-pair-programming-secondary-2026|Zhu et al. (2026)]] أن تدوير أدوار السائق–الموجّه في البرمجة الثنائية خفض العبء المعرفي والقلق من البرمجة سواء أكان دعم الذكاء الاصطناعي موجودًا أم غير موجود، فجزء من الفائدة يعود إلى الازدواج البشري لا إلى الأداة.
+- **الكفاءة بوصفها تفويضًا مسؤولًا.** يقدّم [[li-human-ai-professional-competence-2026|Li and Torrisi-Steele (2026)]] كفاءة مهنية للتعاون بين الإنسان والذكاء الاصطناعي، وعبر 560 متعلّمًا و240 عضو هيئة تدريس يجدان أن التفويض المعرفي وحده لا يتنبأ بها (β = −.041، p = .242) بينما يفعل ذلك الامتلاك المعرفي والحكم التجريبي؛ ويفصل أعضاء هيئة التدريس أيضًا بين التنفيذ القابل للتفويض والتحقق والحكم غير القابلين له.
 
 ## الوصلات
 

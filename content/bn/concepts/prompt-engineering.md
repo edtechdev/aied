@@ -10,9 +10,9 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 connected_resources: [eduprompts, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop, elearning-prompt-library]
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 translation_of: "concepts/prompt-engineering"
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-11-03"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, vibe-coding, guardrails, scaffolding, ai-literacy, agentic-ai, metacognition, curriculum-design, cognitive-offloading, writing-education, k-12, generative-ai, learning-design, cs-education, higher-ed, ai-technologies]
-connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, li-who-benefits-llms-prompt-engineering-equity-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
+connected_articles: [li-who-benefits-llms-prompt-engineering-equity-2026, lei-fan-genai-prompting-strategies-2026, wang-teacher-student-centered-agents-physics-2026, gpt-item-generation-l2-listening-2026, llm-interaction-depth-task-quality-recall-2026, ye-arpg-real-time-coaching-llm-prompting-2026, dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026, prompt-privilege-equitable-ai-access-2026, principal-trait-analysis-human-ai-skills-2026, llms-text-linguistics-teaching-2026, idea-framework-metacognitive-genai-2026, lin-llm-interactive-lesson-generation, aaai2026-prompting-literacy-k12, ase-26-agentic-software-engineering-curriculum, choi-anchor-aes-prompting-2025, guided-llm-scaffolding-independent-learning, learning-to-prompt-adaptive-tutoring, misiejuk-cognitive-offloading-prompting-2026, tracing-genai-literacy-interaction-patterns, unesco-ai-guidelines-chemical-education-2026, isaza-chatgpt-engineering-prompting-2026, student-ai-conversations-cognitive-engagement-2026, yasar-llms-iterative-pedagogical-design-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, miles-prompt-literacy-human-centered-genai-framework-2026, teacher-ai-literacy-prompt-feedback-quality-2026, llm-feedback-focus-adaptivity-student-writing-2026, middle-school-genai-steam-interactions-2026, ecd-prompts-automated-essay-scoring-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, han-prompt-literacy-ai-dependence-design-2026, gold-genai-curriculum-design-preservice-2026, kumar-picprompt-game-prompt-engineering-k12-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*

@@ -1,7 +1,7 @@
 ---
 title: "eLearning پرامپٹ لائبریری"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "سنیل ایئر کا MIT لائسنس یافتہ GitHub مجموعہ: تدریسی ڈیزائنرز اور eLearning ڈویلپرز کے لیے 22 نقل اور چسپاں کرنے والے AI پرامپٹس، ہر ایک اُس سیکھنے کے نظریے کے ساتھ نشان زد ہے جو وہ لاگو کرتا ہے۔"
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **نظریے کا نشان زد کرنا مصنف کی اپنی منسلک کاری ہے۔** کوئی چیز اس بات کی تصدیق نہیں کرتی کہ پرامپٹ اُس نظریے کو لاگو کرتا ہے جو وہ نام لیتا ہے۔ "شواہد پر مبنی" اور "پیداوار کے لیے تیار" مصنف کے دعوے ہیں، اور ہر نتیجے کو کورس میں جانے سے پہلے مضمونی جانچ کی اب بھی ضرورت ہے۔
 - **بہت نیا اور غیر جانچا ہوا۔** ایک شراکت دار، 2 ستارے، نومبر 2026 تک کوئی شائع شدہ اجراء نہیں، اور 15 نومبر 2026 کو بنایا گیا ایک مخزن — یہ دنوں کا ہے، برقرار رکھا جانے والا مجموعہ نہیں۔ اپنانے کی گنتیاں 23 نومبر 2026 کو پڑھی گئی تھیں۔
 - **MIT لائسنس۔** حوالہ دے کر نقل اور اپنایا جا سکتا ہے، تجارتی استعمال سمیت۔
-
-## منسلک تصورات
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

@@ -1,7 +1,7 @@
 ---
 title: "Thư viện Prompt eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Bộ sưu tập GitHub được cấp phép MIT của Sunil Iyer gồm 22 prompt AI sao chép-dán sẵn dành cho nhà thiết kế giảng dạy và nhà phát triển eLearning, mỗi prompt được gắn thẻ lý thuyết học tập mà nó áp dụng."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Nhà thiết kế giảng dạy và nhà phát triển công nghệ giáo dục 
 - **Việc gắn thẻ lý thuyết là cách tác giả tự xếp.** Không có gì kiểm chứng rằng một prompt áp dụng đúng lý thuyết mà nó nêu. "Evidence-based" và "production-ready" là các tuyên bố của tác giả, và mỗi đầu ra vẫn cần kiểm tra nội dung chuyên môn trước khi đưa vào khóa học.
 - **Rất mới và chưa được kiểm định.** Một người đóng góp, 2 sao, không có bản phát hành công khai tính đến tháng 11 năm 2026, và kho được tạo vào ngày 15 tháng 11 năm 2026 — mới vài ngày tuổi, chưa phải bộ sưu tập được duy trì. Số liệu áp dụng được đọc vào ngày 23 tháng 11 năm 2026.
 - **Cấp phép MIT.** Tự do sao chép và chỉnh sửa, kể cả thương mại, với ghi nguồn.
-
-## Khái niệm liên quan
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

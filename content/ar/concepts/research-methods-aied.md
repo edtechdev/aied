@@ -1,7 +1,7 @@
 ---
 title: مناهج البحث في AIED
 created: "2026-10-12T18:30:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
 connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026, nouri-ai-research-methodology-students-2026]
@@ -50,6 +54,8 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 التوتر المركزي في أبحاث AIED هو أن أقوى التصاميم للاستدلال السببي — التجارب المعشّاة — هي غالبًا الأصعب تنفيذًا بأدوات ذكاء اصطناعي أصيلة في فصول دراسية حقيقية، بينما توفر السياقات الأكثر أصالة (النشر الميداني، ودراسات الحالة، وتحليلات بيانات السجلات) تحكمًا سببيًا أضعف. لا يحسم أي منهج واحد هذا الأمر؛ يتقدم المجال بالتثليث بين المناهج، وبالتصريح الصريح عن نوع الادعاء الذي يمكن لكل تصميم أن يدعمه. يحمل كل منهج أيضًا قيودًا متقاطعة — قابلية التعميم، وصلاحية القياس، وسرعة تغير الذكاء الاصطناعي، وقابلية إعادة الإنتاج، والاستخدام الضعيف للنظرية — يجب على القراء موازنتها؛ انظر [[limitations-in-aied-research|قيود أبحاث AIED]].
 
 موضوع هذه الصفحة هو المنهج لا النتائج. [[learning-sciences|علوم التعلّم]] هي المجال الجوهري الذي تخدمه هذه المناهج: حيث تغطي هذه الصفحة كيف يجب تصميم الدراسة وقياسها والإبلاغ عنها، تغطي تلك الصفحة ما أسّسه المجال حول كيفية تعلّم الناس وكيفية تصميم بيئات التعلّم، وتتعامل مع المنهجين التصميمي والمختلط بوصفهما النهجين المميزين لعلوم التعلّم لا مجرد خيارين بين خيارات كثيرة.
+
+وثاني سؤال تأطيري هو مستوى التحليل. يجادل [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]] بأن المستوى الذي تقيسه الدراسة — المتعلّم، أو المساق، أو المؤسسة، أو السياسة — قرار نظري له عواقب، لأن الآثار التي تُدخَل على مستوى تنتشر إلى المستويات الأخرى؛ فالتصميم الذي يقيس مستوى الإدخال وحده قد يفوّت الآلية كلها.
 
 مجاور لهذه الصفحة [[ai-assisted-educational-research|البحث التعليمي بمساعدة الذكاء الاصطناعي]]، الذي يغطي الذكاء الاصطناعي بوصفه أداة لعمل المجال نفسه: البحث في الأدبيات، والفرز، وأتمتة المراجعات، والتكويد النوعي، والتحليل، والكتابة. يشمل نطاقه بحث الممارسين مثل منح دراسات التعليم والتعلم، ويبقى متمايزًا عن التصاميم التي تصفها هذه الصفحة.
 
@@ -86,6 +92,8 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 ### المناهج النوعية
 
 تنتج المقابلات ومجموعات التركيز والتحليل الموضوعي أوصافًا غنية وسياقية لكيفية تجربة الطلاب والمعلمين لأدوات الذكاء الاصطناعي، والمعاني التي يعلقونها عليها، والتوترات والأضرار التي تغفلها القياسات المعيارية. يعتمد [[hazra-safetutors-pedagogical-safety-2026|البحث في سلامة مدرسي الذكاء الاصطناعي]] و[[ai-changing-teaching-workflows|كيف يغير الذكاء الاصطناعي سير عمل التعليم]] بشكل كبير على الأدلة النوعية. انظر صفحة المفهوم المخصصة [[qualitative-research|البحث النوعي]] للمعالجة الكاملة للمقاربات النوعية — التحليل الموضوعي، والنظرية المؤصلة، والفينومينولوجيا/الفينومينوغرافيا، وتحليل الخطاب، والملاحظة والإثنوغرافيا، ودراسات الحالة، والمقابلات/مجموعات التركيز — لكل منها [[rubrics|نماذج]] من قاعدة المعارف.
+
+ويمكن للتقليد نفسه أن يمتد عبر مساق كامل. في دراسة نوعية تجريبية، جمع [[nouri-ai-research-methodology-students-2026|Nouri وPanahi وGhalavand (2026)]] 138 استمارة تسجيل تجربة من 14 طالبًا في علم المكتبات والمعلومات الطبية عبر مساق مناهج بحث دام 17 أسبوعًا، ثم أجروا تحليلًا موضوعيًا فوق السجلات المتكررة المرتبطة بالمشاركين. فوصف الطلاب الذكاء الاصطناعي رفيق بحث داعمًا يقلل عدم اليقين ويعينهم على بدء المقترحات، مع إبلاغهم أيضًا عن مراجع مختلقة وتفكير مستقل متقوّض وعدم يقين عمّا إذا كان الاستخدام المسموح به يُحسب دعمًا للتعلّم أم غشًا. يقرأ المؤلفون ذلك بوصفه وسيطًا معرفيًا يُدخل توترًا معرفيًا وأخلاقيًا، ويرون أن تعليم مناهج البحث يحتاج إرشادًا صريحًا في ثقافة الذكاء الاصطناعي النقدية لا مجرد وصول إلى الأداة.
 
 - **نقاط القوة:** بصيرة إيكولوجية ومفاهيمية عميقة؛ تكشف عن ظواهر ومخاطر وآليات غير متوقعة؛ ضرورية لبناء النظرية ودراسة مبادئ متنازع عليها مثل الثقة و[[agency|الاستقلالية]] والملكية الفكرية.
 - **القيود:** قابلية محدودة للتعميم؛ تفسيرية ومعتمدة على الباحث؛ عينات صغيرة؛ دعم أضعف للادعاءات السببية؛ قد يصعب تركيب النتائج عبر الدراسات.

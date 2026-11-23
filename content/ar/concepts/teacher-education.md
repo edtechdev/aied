@@ -9,11 +9,15 @@ discipline: [teacher education]
 level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-22T12:10:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -76,6 +80,8 @@ connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-g
 - **السياسة لا تحكم الممارسة.** تُظهر أربعة فصول دراسية من بيانات استطلاعية في برنامج أمريكي لتعليم المعلمين أن استخدام الذكاء الاصطناعي التوليدي في التحضير للتقويم يرتفع من 57% إلى 83% وفي الدراسة من 44% إلى 76%، حتى مع تداول المؤسسات فكرة برامج [[ai-detection|كشف الذكاء الاصطناعي]]، مع ارتفاع عدم اليقين الأخلاقي عبر موجات الاستطلاع ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]])).
 
 - **لا دراسة قبل الخدمة قاست تعلّم التلاميذ.** وجد استعراض لم يتمكن من تضمين سوى سبعة مصادر أن الأخلاقيات مُعترَف بها لكنها نادرًا ما تُدرَّس أو تُقيَّم، وأن معلمي ما قبل الخدمة يفرطون في الثقة بقدرتهم على نقد الذكاء الاصطناعي ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
+
+- **الدعم المؤسسي يضاعف الأثر.** في مسح شمل 618 معلمًا قبل الخدمة في عُمان، تنبأ الدعم المؤسسي المُدرَك للذكاء الاصطناعي بممارسات المواطنة الرقمية مباشرةً وعبر الكفاءة الذاتية في الذكاء الاصطناعي ([[al-harthi-institutional-ai-support-teacher-education-2026|الحارثي وآخرون، 2026]])؛ فالبرامج التي توفّر الدعم والثقة معًا تحرّك الممارسة أكثر مما يفعل أيٌّ منهما وحده.
 
 ### التطوير المهني أثناء الخدمة
 

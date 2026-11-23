@@ -1,7 +1,7 @@
 ---
 title: קשיים רצויים
 created: "2026-10-12T19:23:00-04:00"
-updated: "2026-11-23T04:42:57-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026, yusuf-genai-expertise-reversal-cognitive-load-2026]
@@ -92,6 +96,8 @@ connected_resources: [agentic-builds]
 - **העלות גם מגיעה באיחור.** פאנל הבדלים-בהבדלים של 26,811 תלמידי תיכון סיניים מצא ציוני שיעורי בית גבוהים ב-18% וזמן השלמה נמוך ב-30% בעוד שציוני [[summative-assessment|מבחנים סגורים]] ירדו ב-20% בתוך חצי שנה. ציוני בחינות הכניסה ירדו ב-18% (גאוקאו) וב-24% (ג'ונגקאו), כאשר העונש המלא הופיע רק לאחר כשנתיים ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei & Wu, 2026]]). השהיה הנמדדת בשבועות יכולה להראות את כיוון העסקה אך לא את גודלה.
 - **אותו מודל, שני מעקות בטיחות, תוצאות מנוגדות:** סטודנטים שקיבלו GPT-4 בלתי-מוגבל השתמשו בו כקביה והתנהגו גרוע יותר מקרת-המחקר כאשר הוא הוסר, בעוד סטודנטים שקיבלו חונך עם מעקות בטיחות התנהגו כמו קרת-המחקר — החיכוך, לא המודל, קבע אם הכלי עזר ([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al. (2026)]]).
 - **עיצוב המאבק בחזרה.** עיצובי הוראה יכולים לשמר בכוונה עיבוד פרודוקטיבי: שגרות "טיוטה-תחילה", חונכות "רמז-לא-תשובה", משוב מעוכב, ופרוטוקולי הוראה-חוזרת/הסבר. אלה הם הפיגומים הקונקרטיים הנחקרים תחת [[reducing-ai-misuse]] ו[[structured-llm-feedback-programming]]. הרחבה קונספטואלית מ-2026 ([[friction-paradox-generative-ai-education-abroad-2026|Gupta]]) דוחפת את אותו ההיגיון מעבר למשימות אקדמיות מובנות אל קושי בתוך מפגשים יחסיים: בחינוך בחו"ל היא טוענת שהשאלה החינוכית אינה כמה בינה מלאכותית יוצרת נוכחת אלא אילו קשיים היא ממיסה, ומציעה *מדרון תיווך* שמסדיר שימושים לפי ה[[agency|סוכנות]] הפרשנית המועברת למערכת ולא לפי נפח השימוש.
+
+**הדרכה שעוזרת למתחילים עלולה לפגוע במומחים.** בארבעה ניסויים בת שמונה שבועות עם תלמידי מדעי המחשב בשנה שלישית, תמיכת GenAI הפחיתה עומס זר והרימה את הביצוע העצמאי בתכנות ללומדים בעלי מיומנות נמוכה יותר, בעוד שהרווחים לבעלי מיומנות גבוהה היו קטנים יותר, והדרכה מפורטת הפיקה *היפוך מיומנות* — העלתה עומס זר והחלישה ביצוע בקרב בעלי הידע הרב יותר ([[yusuf-genai-expertise-reversal-cognitive-load-2026|Yusuf et al., 2026]]). קושי רצוי אינו אחיד אפוא: ערכו תלוי בשאלה האם התמיכה נותרת נחוצה קוגניטיבית ללומד.
 
 **ה-U הפוך והפרדוקס של המאמץ.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] מספקים את הנוסחה החדה ביותר לאחרונה מדוע הסרת-החיכוך של בינה מלאכותית אינה טובה אוטומטית. הם מבחינים בין בינה מלאכותית לבין [[ai-technologies|טכנולוגיות]] חסכוניות-עבודה קודמות בשני יסודות. היא מכוונת לעבודה אינטלקטואלית ויצירתית ולא לעבודה פיזית או משרדית, והסרת-החיכוך שלה היא *קיצונית*. טכנולוגיות קודמות חיסלו חיכוך עודף, "מכשולים מייגעים או בלתי-ניתנים-לגבור שמעניקים תועלת מעטה ללמידה או למשמעות". [[conversational-ai|צ'אטבוט]], לעומת זאת, מאפשר ללומד לעבור מרעיון להערכה "בלי להפעיל מאמץ משמעותי, בלי לשאול על הפלט, ובלי לעורב בתהליכים הקוגניטיבים שמטפחים בעלות, שמירה או חשיבה ביקורתית". הטענה המארגנת שלהם היא שהיחס בין מאמץ למשמעות הוא קמירותי: חיכוך מתון מגדיל משמעות ומוטיבציה בעוד חיכוך מופרז מכריע, ולכן הסיכון של בינה מלאכותית הוא חריגה לחיכוך מועט מדי ולא מופרז. שתי השלכות חשובות מבחינה פדגוגית — מאמץ הוא עצמו מיומנות ניתנת לאימון (תגמול על תהליך במקום על תוצר מגדיל את הנטייה לשאוף ולהתמדות), והיתרונות המוטיבציוניים של מאמץ נשחקים בדיוק בתחומים שבהם בינה מלאכותית מחליפה אותו, ומייצרים מחזור של תלות גוברת ([[cognitive-offloading]], [[motivation]]).
 

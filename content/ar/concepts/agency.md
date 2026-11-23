@@ -9,8 +9,8 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026, wang-consequential-human-agency-higher-education-2026]
@@ -140,6 +144,8 @@ connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-
 يشترط الشرط الحدّي للإطار **قابلية المنازعة** (القدرة على التساؤل والتحقق المتقاطع من مخرجات الذكاء الاصطناعي)، و**الإسناد** (معرفة مصدر بيانات التدريب والمخرجات)، و**عدم تفويض الجدارة الأدبية والفكرية** (الأحكام عالية المخاطر بشأن رفاه الطلاب وموقعهم الأكاديمي ودرجاتهم يجب ألا يحددها الذكاء الاصطناعي منفردًا). وهذا يمنح المربّين و[[stakeholders|صانعي السياسات]] مفردات أدق من "التوازن" الغامض بين المساهمات البشرية والاصطناعية، ويربط الفاعلية ب[[ethics|الأخلاقيات]]، و[[assessment|التقويم]]، و[[equity-in-ai-education|الإنصاف في تعليم الذكاء الاصطناعي]]، و[[governance|الحوكمة]].
 
 وتأطير وثيق الصلة هو **الفاعلية المعرفية العلائقية** ([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]])، الذي يتفق على أن الفاعلية ممكنة اجتماعيًا ووسيطها التقنية لا مسألة عزل عن الاعتماد. وحيث يؤكد إطار الفاعلية المشتركة البيئي المساءلة المعرفية البشرية بوصفها حدًّا غير قابل للتفاوض، يحتفظ Du وYuan بـ*عدم تماثل* صريح: يمكن لأنظمة الذكاء الاصطناعي أن تشكّل الاستدلال وتمدّه دون أن تمتلك مسؤولية متبادلة أو سلطة مشروعة. وتوفّر معاييرهم التشخيصية الستة — قابلية المنازعة، والقابلية للاستعادة، والنقل، والقابلية للتتبّع، والمسؤولية الموزّعة، والتعدّد المعرفي — اختبارًا عمليًا لمتى تحفظ علاقة الإنسان–الذكاء الاصطناعي قدرة المتعلّم على المشاركة في كيف تُشكّل الادعاءات وتُقيَّم وتُقبل، مقابل متى كانت ت delivering ناتجًا فقط. والفاعلية في هذا الحساب ليست الاستقلال عن الأدوات بل القدرة على الحكم بمسؤولية *مع، وعبر، وضد* الأنظمة التي توسط المعرفة.
+
+يجادل [[wang-consequential-human-agency-higher-education-2026|وانغ (2026)]] بأن كفاءة الذكاء الاصطناعي غير كافية ما لم تتوفر شروط مؤسسية تجعل الحكم ذا أثر فعلي — الإخطار، وأسباب مفهومة، ومراجعة بشرية، واستئناف وتجاوز، ومساءلة موثّقة — ويعيد تأطير الفاعلية بوصفها تتحقق في التفاعل مع السلطة المؤسسية بدلًا من أن تكون ملكًا فرديًا. ويمكن للجامعات أن تُتيحها أو تُقيّدها في موقعها كمشترِطة وسلطات للتقويم ومستخدِمة للمراقبة، وهو ما ينقل السؤال من كفاءة المتعلّم وحدها إلى الحقوق والإجراءات التي يُعدّل بها الحكم القرارات التي يتوسطها الذكاء الاصطناعي.
 
 - **الفاعلية المفوّضة بوصفها آلية، لا خطرًا فقط.** يتعامل [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] مع تفويض العمل المعرفي إلى الذكاء الاصطناعي بوصفه جزءًا من كيفية حدوث التعلّم، لا تهديدًا له فحسب: ففي حسابهم لا يصبح الأداء المعانى قدرةً دائمة إلا حين يحتفظ المتعلّم بمسؤولية صياغة المشكلة ووضع المعايير وتبرير الإجابات، وهو تقسيم عمل يسمّونه الفاعلية المفوّضة. وهذا يجعل التخصيص نفسه متغيّر التصميم، لأن الأداة نفسها يمكن أن تحفظ فاعلية المتعلّم أو تحلّها بحسب المسؤوليات التي تمتصّها.
 

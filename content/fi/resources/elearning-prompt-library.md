@@ -1,7 +1,7 @@
 ---
 title: "eLearning-kehotekirjasto"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyerin MIT-lisensoitu GitHub-kokoelma: 22 kopioitavaa tekoälykehottetta opeuttajasuunnittelijoille ja eLearning-kehittäjille, jokainen merkittynä sillä oppimisteorilla, jonka se soveltaa."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,3 @@ Opeuttajasuunnittelijoille ja opetusteknologian kehittäjille, jotka haluavat te
 - **Teoriamerkintä on tekijän oma kartoitus.** Mikään ei vahvista, että kehote soveltaa niitä nimittämiään teorioita. ”Todisteisiin perustuva” ja ”tuotantoon valmis” ovat tekijän väitteitä, ja jokainen tuotos tarvitsee vielä asiantuntijatarkastuksen ennen kuin se menee kurssille.
 - **Hyvin nuori ja tarkastamaton.** Yksi osallistuja, kaksi tähteä, ei julkaistuja versioita marraskuussa 2026 ja varasto, joka luotiin 15. marraskuuta 2026 — päiviä vanha, ei ylläpidetty kokoelma. Käyttöönoton lukumäärät ovat sellaisina kuin luettiin 23. marraskuuta 2026.
 - **MIT-lisensoitu.** Vapaasti kopioitavissa ja mukautettavissa, myös kaupallisesti, mainitsemalla alkuperä.
-
-## Liittyvät käsitteet
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

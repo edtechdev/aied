@@ -1,7 +1,7 @@
 ---
 title: "eLearning-promptbibliotheek"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyers MIT-gelicenseerde GitHub-verzameling van 22 kopieer-en-plakbare AI-prompts voor instructional designers en eLearning-ontwikkelaars, elk voorzien van de leertheorie die het toepast."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Instructional designers en ontwikkelaars van educatieve technologie die een met 
 - **Theorietagging is de eigen mapping van de auteur.** Niets valideert dat een prompt de theorie toepast die hij noemt. "Evidence-based" en "production-ready" zijn claims van de auteur, en elke uitvoer moet nog worden gecontroleerd op vakinhoud voordat hij in een cursus terechtkomt.
 - **Heel jong en ongecontroleerd.** Een bijdrager, twee sterren, geen gepubliceerde releases per november 2026, en een repository die op 15 november 2026 is aangemaakt — dagen oud, geen onderhouden collectie. De adoptieaantallen zijn zo gelezen op 23 november 2026.
 - **MIT-gelicenseerd.** Vrij te kopiëren en aan te passen, ook commercieel, met vermelding van de bron.
-
-## Verbonden concepten
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

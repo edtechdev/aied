@@ -1,7 +1,7 @@
 ---
 title: "Bibliothèque de prompts eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "La collection GitHub sous licence MIT de Sunil Iyer : 22 invites d'IA prêtes à copier-coller pour concepteurs pédagogiques et développeurs eLearning, chacune étiquetée avec la théorie de l'apprentissage qu'elle applique."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,3 @@ Aux concepteurs pédagogiques et aux développeurs de technologies éducatives q
 - **L'étiquetage des théories est le propre découpage de l'auteur.** Rien ne valide qu'une invite applique la théorie qu'elle nomme. « Fondé sur des preuves » et « prêt pour la production » sont des affirmations de l'auteur, et chaque production doit encore être vérifiée sur le fond avant d'entrer dans un cours.
 - **Très jeune et jamais évalué.** Un contributeur, deux étoiles, aucune version publiée à la date de novembre 2026, et un dépôt créé le 15 novembre 2026 — âgé de jours, pas une collection entretenue. Les décomptes d'adoption sont ceux lus le 23 novembre 2026.
 - **Sous licence MIT.** Libre de copier et d'adapter, y compris à des fins commerciales, avec attribution.
-
-## Concepts liés
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

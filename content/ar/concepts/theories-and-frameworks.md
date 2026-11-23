@@ -8,10 +8,14 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-21T05:17:51-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,7 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
@@ -115,7 +119,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## الطبقات ذات الصلة
 
-صفحتان مجاورتان تتعلقان بشيء آخر عن قصد. إذ تطرح [[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي في التعليم]] أسئلة معيارية ومفاهيمية — ما الذي يُعدّ [[ai-education|التعليم]] *من أجله*، وهل تستطيع آلة أن تُعلّم — ولا تتنبأ بمقادير الأثر؛ فيمكن لبحث أن يكون ساذجًا فلسفيًا وسليمًا نظريًا، أو العكس. أما [[theory-development-aied|تطوير النظرية]] فهو النشاط الفوقي لبناء النظرية واستعارتها ومراجعتها، بما يشمل النقد القائل إن كثيرًا من أعمال AIEd يطبّق النظرية القائمة بدلًا من اختبارها. وهذه الصفحة هي الجرد؛ أما تطوير النظرية فيتعلق بإنتاج الجرد ومراجعته.
+صفحتان مجاورتان تتعلقان بشيء آخر عن قصد. إذ تطرح [[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي في التعليم]] أسئلة معيارية ومفاهيمية — ما الذي يُعدّ [[ai-education|التعليم]] *من أجله*، وهل تستطيع آلة أن تُعلّم — ولا تتنبأ بمقادير الأثر؛ فيمكن لبحث أن يكون ساذجًا فلسفيًا وسليمًا نظريًا، أو العكس. أما [[theory-development-aied|تطوير النظرية]] فهو النشاط الفوقي لبناء النظرية واستعارتها ومراجعتها، بما يشمل النقد القائل إن كثيرًا من أعمال AIEd يطبّق النظرية القائمة بدلًا من اختبارها. وهذه الصفحة هي الجرد؛ أما تطوير النظرية فيتعلق بإنتاج الجرد ومراجعته. وتشكّل [[learning-environments-as-systems|بيئات التعلّم بوصفها منظومات]] جارًا ثالثًا. فهي ليست نظرية تعلّم ولا تتنبأ بمقادير الأثر، بل موقف من وحدة التحليل: فبيئة التعلّم منظومة متعددة المستويات تتفاعل أجزاؤها، ومن ثمّ فالمستوى الذي تقيسه الدراسة قرار نظري لا سهمة عيّنات.
 
 ## اختيار عدسة عندما يكون السؤال عمليًا
 

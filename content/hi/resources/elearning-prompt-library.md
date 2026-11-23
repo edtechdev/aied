@@ -1,7 +1,7 @@
 ---
 title: "ई-लर्निंग प्रॉम्प्ट लाइब्रेरी"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer का MIT-लाइसेंस वाला GitHub संग्रह: शिक्षण-डिज़ाइनरों और ई-लर्निंग डेवलपर्स के लिए 22 कॉपी-पेस्ट एआई प्रॉम्प्ट, प्रत्येक उस सीखने के सिद्धांत से अंकित जिसे वह लागू करता है।"
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **सिद्धांत-अंकन लेखक का अपना मैपिंग है।** कोई भी पुष्टि नहीं करता कि प्रॉम्प्ट उस सिद्धांत को लागू करता है जो वह बताता है। "प्रमाण-आधारित" और "निर्माण-हेतु तैयार" लेखक के दावे हैं, और हर आउटपुट को कोर्स में डालने से पहले विषय-वस्तु की जाँच करनी पड़ती है।
 - **बहुत छोटा और बिना समीक्षित।** एक योगदानकर्ता, दो स्टार, नवंबर 2026 तक कोई प्रकाशित रिलीज़ नहीं, और 15 नवंबर 2026 को बनाई गई रिपॉज़िटरी — दिनों की उम्र, बनाई-बनाई रखा संग्रह नहीं। अंगीकृति संख्याएँ 23 नवंबर 2026 को पढ़े गए अनुसार हैं।
 - **MIT लाइसेंस।** श्रेय देते हुए, व्यावसायिक उपयोग सहित, प्रतिलिपि बनाने और अनुकूलित करने के लिए मुफ़्त।
-
-## संबंधित अवधारणाएँ
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

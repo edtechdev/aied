@@ -1,7 +1,7 @@
 ---
 title: التعلّم المخصّص
 created: "2026-10-12T20:40:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [adaptive-learning, intelligent-tutoring, student-modeling, knowledge-tracing, cognitive-diagnosis, scaffolding, student-experience, learning-analytics, formative-assessment, summative-assessment, generative-ai, edtech-platform, higher-ed, online-teaching-and-learning, recommender-systems-and-learning-paths]
 connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed-2026, bespoke-industry-personalized-lecture-videos-2026, prompt-engineering-personalization-ai-teaching-assistant-2026, turano-ai-tutoring-not-a-monolith-2026, mishra-control-vs-agency-history-2025, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ontology-layered-hybrid-knowledge-model-personalized-elearning-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-coaching-rl-skill-development, personalized-ai-generated-videos-preference-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, graph-its-adaptive-algorithms-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, marked-pedagogies-linguistic-bias-writing-feedback, alsheikh-mapping-ai-integration-higher-education-2026, riedmann-reinforcement-learning-education-review-2026, student-reception-genai-analogies-computing-2026, personalization-paradox-adaptive-learning-emotions-2026, personapath-personalized-learning-paths-2026, govea-sotomayor-personalized-learning-meta-analysis-2026, nawarathne-genai-learning-styles-2026]
@@ -113,6 +117,8 @@ connected_articles: [aybar-bellido-genai-individualization-sustainable-higher-ed
 وقد يتجاوز التخصيص مقدّمًا بشريًا: ففي مقرر كبير عبر الإنترنت (493 مستجيبًا)، رتّب الطلاب الفيديوهات المخصّصة المولّدة بالذكاء الاصطناعي فوق المسجّلة بشريًا غير المخصّصة (متوسط رتبة 2.26 مقابل 2.69) ورتّب 88.4% بعض الفيديو المخصّص أولًا، مقابل 73.8% للمسجّل بشريًا ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
 
 ويمكن للتخصيص أيضًا أن يجمع متغيرات المتعلّم الثلاثة كلها في خط أنابيب واحد على منصّة حقيقية للغة الثانية: يجمع [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] نماذج التفضيل والكفاءة والانخراط عبر سجلات NedBox من 7,346 متعلّمًا. ويرتّبون المواد بموصي EASE الخفيف (AUROC 0.955)، ويعيدون ترتيب العشرة الأوائل بتقديرات كفاءة DeepIRT (أفضل MCC 0.34)، ويصفّون العناصر التي تشير غابة البقاء إلى خطر انسحاب مرتفع لها (C-index 0.662). وتُضبط صعوبة الدخول لكل متعلّم على المستوى الذي تقترب فيه الاحتمالية المتوقعة للإجابة الصحيحة من 0.75.
+
+**الذكاء الاصطناعي التوليدي يعيد فتح مسألة أنماط التعلّم دون حسمها.** راجع [[nawarathne-genai-learning-styles-2026|Nawarathne وHaddela وKodagoda (2026)]] 41 دراسة ترسم خرائط للذكاء الاصطناعي التوليدي على VARK وKolb وFelder-Silverman وHoney & Mumford، فوجدوا أن القيمة تكمن في المرونة متعددة الوسائط — المحتوى نفسه بصيغ عدة في آن واحد — لا في مطابقة تفضيل نمط ثابت. وتُسجّل المراجعة أيضًا النقد القديم القائل بأن نظريات أنماط التعلّم تفتقر إلى دليل تجريبي متين.
 
 ## ما قوة الأدلة
 

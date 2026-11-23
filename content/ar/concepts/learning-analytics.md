@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-22T08:30:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,11 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+updated: "2026-11-23T13:15:00-05:00"
 connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
 connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
@@ -135,7 +139,7 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 
 ## الروابط
 
-ترتبط تحليلات التعلّم بـ[[knowledge-tracing|تتبع المعرفة]] (التحليل الجوهري)، و[[formative-assessment|التقويم التكويني]] (التقويم المقود بالتحليلات)، و[[student-modeling|نمذجة الطالب]] (التمثيل الذي تملؤه التحليلات)، و[[privacy|الخصوصية]] (القيد [[ethics|الأخلاقي]])، و[[edtech-platform|منصة التقنية التعليمية]] (حيث تُنشر التحليلات). ولأن التحليلات التوجيهية تُقيّم بشكل متزايد على [[simulating-students|متعلمين محاكون]] — حيث تحل دفعات الطلاب التركيبية محل الدفعات الحقيقية في الاختبارات المضبوطة — ترتبط تحليلات التعلّم أيضًا بمحاكاة الطلاب.
+ترتبط تحليلات التعلّم بـ[[knowledge-tracing|تتبع المعرفة]] (التحليل الجوهري)، و[[formative-assessment|التقويم التكويني]] (التقويم المقود بالتحليلات)، و[[student-modeling|نمذجة الطالب]] (التمثيل الذي تملؤه التحليلات)، و[[privacy|الخصوصية]] (القيد [[ethics|الأخلاقي]])، و[[edtech-platform|منصة التقنية التعليمية]] (حيث تُنشر التحليلات). ولأن التحليلات التوجيهية تُقيّم بشكل متزايد على [[simulating-students|متعلمين محاكون]] — حيث تحل دفعات الطلاب التركيبية محل الدفعات الحقيقية في الاختبارات المضبوطة — ترتبط تحليلات التعلّم أيضًا بمحاكاة الطلاب. وهي أحد التقاليد التي تستند إليها [[learning-environments-as-systems|البيئات التعليمية بوصفها نظمًا]]، والحلقة التي تغلقها هي الحلقة التي تطلب تلك النظرة مواءمتها مع المستوى الأعلى.
 
 - **ما تجعله لوحات المعلومات مرئيًا يقرر ما يتصرف بناءً عليه المعلمون.** راجع [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]] 27 دراسة تجريبية (2016–2025) وبنى تصنيفًا اجتماعيًا تقنيًا لصنع قرار المحاضر المدعوم بالذكاء الاصطناعي عبر ثمانية أنواع من القرارات: تعليمية، ومنهجية، وتقويمية، وتغذية راجعة، وبيئة تعلّم، وعاطفية، وإدارية، وأخلاقية. كانت لوحات معلومات تحليلات التعلّم النظام الأكثر ذكرًا، ويُظهر التكويد أن الدعم تركز في القرارات التعليمية والتغذية الراجعة والتقويمية التي يمكن أن تُعلمها النصوص والبيانات السلوكية، بينما كانت القرارات العاطفية والأخلاقية والمنهجية وبيئة التعلّم نادرًا ما دُعمت. يقرأ المؤلفون ذلك كأثر انتباه لا كحد قدرة: لأن الأنظمة جعلت بيانات الطلاب السلوكية مرئية وقابلة للتنفيذ، وقعت هموم الدافعية و[[metacognition|ما وراء المعرفة]] والعاطفة والبيئة خارج ما دعا البيانات المحاضرين إلى النظر فيه.
 

@@ -1,7 +1,7 @@
 ---
 title: איכות המשוב של בינה מלאכותית
 created: "2026-10-12T21:29:00-04:00"
-updated: "2026-11-23T12:00:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, automated-assessment, feedback, formative-asse
 confidence: high
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 contributors: [editor]
 ai_assist:
   - model: meituan/longcat-2.5:free
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
 connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026, al-washahi-ai-adaptive-feedback-meta-analysis-2026]
@@ -314,6 +318,8 @@ connected_resources: [my-essay-feedback]
 ([[wraft-automated-writing-evaluation-argumentative-2026|לביב ושות' (2026)]]).
 
 המודל שמשחק את הלומד אינו המודל שאמור לשפוט את המפגש. ב-AI SimBot של [[kim-ai-simbot-nursing-communication-2026|Kim and Pankhania’s (2026)]], 98 סטודנטים לסיעוד בתקופת ההכשרה ראיינו מטופלת וירטואלית בת 17 שגולמה על ידי GPT-4o, והמשוב של אותו מודל התברר כלא-מדויק ויותר מדי חיובי מול רובריקת הסגל. תפקיד המעריך עבר ל-O3-mini, שהעניק החלטות מעוגנות טוב יותר ברובריקה, בעלות של כחצי דולר לסטודנט לכל צינור הנאום. נאמנות הפרסונה והדיוק האבחוני הם דרישות נפרדות, ואין להניח שפריסה אחת תספק את שתיהן.
+
+- **רווחי דיוק על פני השטח אינם מגיעים לארגומנטציה.** מטא-אנליזה מונחית-PRISMA של 44 מחקרים (כ-28,400 סטודנטים, 19 מדינות) מצאה אפקט מאוגר מתון למערכות משוב אדפטיביות (g = 0.42) אך מדרון תלול: דקדוק ודיוק על-פני-השטח השתפרו ביותר (g = 0.74), בעוד איכות ארגומנטציה לא הראתה אפקט מובהק (g = 0.09) ([[al-washahi-ai-adaptive-feedback-meta-analysis-2026|Al Washahi, 2026]]).
 
 ## ממדי איכות
 

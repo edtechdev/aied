@@ -95,3 +95,6 @@ backups/
 
 # Scratch drafts with absolute local paths and unpublished prose (never published)
 drafts/
+
+# Agent working briefs: they carry absolute local paths (/home/...) and are never published
+.hermes-*.md

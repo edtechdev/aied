@@ -1,7 +1,7 @@
 ---
 title: نظريات التعلُّم
 created: "2026-10-12T18:25:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [behaviorism, cognitive-psychology, constructivist, metacognition, distributed-cognition, self-regulated-learning, self-determination-theory, self-efficacy, motivation, sociocultural-learning, scaffolding, transfer-of-learning, learning-gains, desirable-difficulties, active-learning, experiential-learning, collaborative-learning, embodied-learning, cognitive-offloading, learning-design, learning-sciences, philosophy-of-ai-in-education, ai-education, pedagogy]
 connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, airis-hybrid-human-ai-cognition-2026, voicu-ai-interpretive-cognition-ssh-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, self-directed-growth-generative-ai-learning-analytics, generativism-learning-theory, ai-vocational-education-training-review, genai-educational-outcomes-meta-analysis, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, generative-ai-mediational-agent-sociocultural-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, rachatasumrit-example-problem-ratio-2026, saranya-pedagogical-practices-genai-learning-theories-2026]
@@ -87,7 +91,7 @@ connected_articles: [yan-agentivism-learning-theory-ai-2026, deceptive-overgener
 
 ## كيف تنظّم قاعدة المعارف هذا الخيط
 
-بدل معاملة نظريات التعلُّم فلسفةً مجرّدة، تؤسّس قاعدة المعارف كلًّا منها في أبحاث الذكاء الاصطناعي في التعليم التي تستخدمه. وتوثّق صفحتَا [[constructivist]] و[[behaviorism]] كيف تجسّد تصميمات الذكاء الاصطناعي كل نظرية (أو تخونها)؛ وتربط نظرية الحمل المعرفي و[[self-regulated-learning]] و[[metacognition]] و[[transfer-of-learning]] النظرية بآليات الذكاء الاصطناعي ونتائجه المحدّدة. وهذا يحاكي كيف تعامل قاعدة المعارف مجالات مظلية أخرى كـ[[feedback]] و[[assessment]] — نظام متماسك من المفاهيم المتفاعلة لا صفحات معزولة.
+بدل معاملة نظريات التعلُّم فلسفةً مجرّدة، تؤسّس قاعدة المعارف كلًّا منها في أبحاث الذكاء الاصطناعي في التعليم التي تستخدمه. وتوثّق صفحتَا [[constructivist]] و[[behaviorism]] كيف تجسّد تصميمات الذكاء الاصطناعي كل نظرية (أو تخونها)؛ وتربط نظرية الحمل المعرفي و[[self-regulated-learning]] و[[metacognition]] و[[transfer-of-learning]] النظرية بآليات الذكاء الاصطناعي ونتائجه المحدّدة. وهذا يحاكي كيف تعامل قاعدة المعارف مجالات مظلية أخرى كـ[[feedback]] و[[assessment]] — نظام متماسك من المفاهيم المتفاعلة لا صفحات معزولة. ويجدر بيان الحدّ: فـ[[learning-environments-as-systems|بيئات التعلُّم بوصفها أنظمة]] ليست نظرية تعلُّم؛ فهي لا تزعم شيئًا عمّا يحدث داخل المتعلّم، بل تعامل البيئة نظامًا متعدد المستويات وتسأل كيف ينبغي وضع التدخّلات والقياس داخله.
 
 ## نظريات التعلُّم و"التعليم عن الذكاء الاصطناعي"
 

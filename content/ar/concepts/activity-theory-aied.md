@@ -1,7 +1,7 @@
 ---
 title: نظرية النشاط
 created: "2026-10-12T18:48:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [sociocultural-learning, learning-theories, distributed-cognition, situated-learning, agency, teacher-role, learning-analytics, generative-ai, technology-acceptance-model]
 connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway-object-math-higher-ed, raffaghelli-situated-ai-ethics-2026, activity-theory-teachers-adoption-ai-sem-2026, lee-anson-k12-teachers-ai-activity-theory, ai-disruption-engineering-education-chat-2026, activity-theory-teacher-pd-ai-agent-design-2026, chat-anchored-learning-analytics-ai-literacy-2026, llm-family-education-activity-theory-2026, generative-ai-mediational-agent-sociocultural-2026]
@@ -71,6 +75,8 @@ connected_articles: [jiang-genai-activity-theory-disciplines-2026, genai-runaway
 ## Activity theory and related frameworks
 
 تقبع نظرية النشاط داخل العائلة [[sociocultural-learning|الاجتماعية الثقافية]] وغالبًا ما تُقرن بأطر أخرى أو تُقابل بها: فـ**[[distributed-cognition|الإدراك الموزّع]]** و**[[situated-learning|التعلّم الموضوع]]** يشاركانها تركيزها على السياق والوساطة؛ و**[[community-of-inquiry|مجتمع التحقيق]]** و**مجتمعات الممارسة** يشاركانها توجّهها الجماعي؛ وتقدّم نماذج **القبول التقني** (مثل [[technology-acceptance-model|TAM]]) حسابًا مقابلاً للتبنّي أقرب للإيمان الفردي تنتقده نظرية النشاط لتسطيحه الأبعاد الجماعية والبنيوية. وفي بحوث تعليم الذكاء الاصطناعي، تُدمج نظرية النشاط كثيرًا بنظريات أخرى — مثلًا مقرونةً بـ[[self-determination-theory|نظرية تقرير المصير]] في تصميم تدخّل التطوير المهني للمعلّم، أو بنظرية الأنظمة البيئية في أطر أخلاقيات الذكاء الاصطناعي الموضوعية [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
+
+نظرية النشاط واحدة من تقاليد الأنظمة التي يقوم عليها [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]]. فنظام النشاط — الفاعل والموضوع والأدوات والمجتمع والقواعد وتقسيم العمل — هو نموذج الأجزاء وتفاعلاتها الأكثر تحديدًا، وإصراره على أن التناقضات هي محرّك التطوّر يجعله أداة تشخيصية لا وصفًا فحسب.
 
 ## Key research themes
 

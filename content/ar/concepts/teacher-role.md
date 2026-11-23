@@ -10,11 +10,15 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-22T12:23:33-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -78,6 +82,8 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 رفع تشجيع المعلّمين على عرض تقرير الواجب إتمامَ الواجب التالي (Anderson-Rubin F = 4.092، p = 0.044؛ نقطتان مئويتان على الأقل إجمالًا). وفي الصفوف دون 44 طالبًا كان المكسب 24.5 نقطة مئوية على الأقل (F = 7.475، p = 0.007)؛ أما المعلّمون الذين لديهم أكثر من 43 طالبًا فقد كانوا يعرضون التقارير بمعدلات مرتفعة أصلًا سواء شُجّعوا أم لا (77% مقابل 75%) — وهم على الأرجح مَن لا مجال لتحريكهم. فالتشجيع يهمّ أكثر حيث يبقى لاستخدام التقارير مجال للنمو.
 
 - يقترح Lan وChen (2026) الحكم على تأليف المعلّم بالسند: فلا يُعدّ الوكيل توأمًا للمعلّم إلا إذا كان سنده يعود إلى معلّم واحد مسمّى يحتفظ بالمسؤولية، ويكون قد ترجم حكمه إلى مواصفة قابلة للفحص، ويوسّع القدرة دون نقل التأليف، بينما تُنتج إعدادات المنصّة الافتراضية وكيلًا بديلًا لا توأمًا ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
+
+**التفويض مرتكز إلى معيار.** أجرى [[farooq-standard-anchored-delegation-teachers-2026|فاروق وخان ورضا (2026)]] مقابلات مع 13 معلمًا في البنجاب باكستان، فوجدوا أنهم يفوّضون جزءًا من المهمة إلى الذكاء الاصطناعي حين يحدّد معيار خارجي — كتاب مدرسي أو منهاج أو سلّم تقدير — مخرجًا صحيحًا يستطيعون تطبيقه على النتيجة؛ ولم يقبل أحدهم أهدافَ تعلّمٍ صاغها الذكاء الاصطناعي. ولم يكن وجود معيار كافيًا دائمًا: فبعض معلمي المدارس الحكومية ما زالوا يرفضون تصحيح الذكاء الاصطناعي عند وجود مفاتيح إجابات.
 
 ### استعارة التنسيق
 

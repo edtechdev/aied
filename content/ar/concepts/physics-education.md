@@ -10,8 +10,8 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-11-22T12:10:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T10:40:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026, liang-quantum-education-textbooks-2026, hirschenberger-lecture-board-readability-2026]
@@ -99,6 +103,10 @@ connected_resources: [teacher-dev]
 - **يمكن لمصحّح رسومي أن يمنح الدرجة الكاملة دون أن يدعمها شرحه.** عند اختبار مصحّح متعدد الوسائط تحت الضغط على رسوم بيانية حركية مشوّهة، نال تقديم بسرعات–زمن بآثار غير متصلة ومتفرعة وبلا مرجع واضح لسرعة صفر الدرجة 10/10. ويوصي المؤلفون بمراجعة المعلّم للإجابات ذات الدرجة الكاملة، لا للخصومات فقط ([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]).
 
 - **يمكن أن تكون مقاييس الفيزياء المرجعية مؤسَّسة على [[curriculum-design|المنهج]] وغير إنجليزية.** بنى [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] 1,834 سؤالاً بالبنغالية من كتاب الفيزياء الوطني للصفين التاسع والعاشر و[[knowledge-graph|رسم بياني معرفي]] من 1,760 عقدة؛ ونال وصفة [[llm-training-and-fine-tuning|ضبط دقيق]] واحدة ثابتة 5.5 و15.0 و23.3 نقطة عند 0.6B و1.7B و4B من المعالم.
+
+**بنية الكتاب المدرسي متغيّر منهجي لا خلفية.** قام [[liang-quantum-education-textbooks-2026|Liang وPoot وSchuck وHeusler (2026)]] بترميز 36 كتابًا جامعيًا لميكانيكا الكم، فوجدوا موضوعات متطابقة تحتل أدوارًا منهجية مختلفة؛ وينحلّ ثنائي الانطلاق من الموجة أو من اللف إلى خمس نموذجات أولى لنقطة الدخول، مع عشرة من أربعة عشر نصًا متقدمًا تبدأ من البديهيات. لذا فتغيّر الانتقال من المرحلة الجامعية إلى الدراسات العليا يغيّر كيف تُنظَّم النظرية، لا مدى صعوبتها فقط.
+
+**الكتابة على السبورة إشارة تعليمية قابلة للقياس.** يعامل [[hirschenberger-lecture-board-readability-2026|Hirschenberger وSegal وBen Zion (2026)]] سبورة المحاضرة نفسها بيانات: 2,645 إطارًا من 56 مساقًا مؤرشَفًا في الفيزياء والرياضيات التطبيقية درّسها 18 محاضرًا، يقيس كلٌّ منها 50 مرةً بـ[[multimodal|نموذج لغة-بصري]] على قابلية القراءة والتنظيم والعناصر البصرية. فتبعت قابلية القراءة على مستوى المساق وضوحَ الطلاب المُقيَّم (r = .434) وتنظيمَه (r = .455)، وكان المتنبئ الوحيد الباقي بعد التحكم في حجم الصف ومتوسط الدرجة وسنة الدراسة، لكنه لم يبلغ الدلالة قط بالنسبة للاهتمام وصمد بصورة واحدة فقط لكل محاضرة. ويتبع ذلك تحفظان. فالمقياس يتتبع الوضوح المُدرَك لا التعلّم، لذا ينتمي إلى جانب أدلة [[student-experience|الإدراك]] لا أن يحلّ محلها؛ ويسرُ القياس ليس صلةً بيداغوجية — فالغنى البصري كان البعد الذي اتفق عليه المقيّمون والنماذج أكثر، وهو الأقل صلة بمدى وضوح تجربة الطلاب للتعليم.
 
 ### صلات بمفاهيم ذات صلة
 

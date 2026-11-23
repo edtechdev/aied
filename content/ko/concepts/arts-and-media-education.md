@@ -1,7 +1,7 @@
 ---
 title: 예술 및 미디어 교육
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 translation_of: concepts/arts-and-media-education
-source_updated: "2026-11-17T17:06:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -19,7 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
-connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education]
 connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 

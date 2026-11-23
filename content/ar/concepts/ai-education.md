@@ -1,7 +1,7 @@
 ---
 title: الذكاء الاصطناعي في التعليم
 created: "2026-09-22T14:35:26-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-22T11:55:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -97,7 +101,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## أسس الذكاء الاصطناعي في التعليم
 
-المفاهيم الشاملة والأساسية في المجال تُرسّخ تغطية قاعدة المعارف وتظهر أولًا في الشريط الجانبي. وهي تبدأ بمجموعة **الأساسيات**، أي المفاهيم التي ينبغي لكل قارئ أن يبدأ بها: المفهوم الجامع نفسه، و[[misconceptions|المفاهيم الخاطئة عن الذكاء الاصطناعي]]، و[[ai-literacy|الثقافة بالذكاء الاصطناعي]]، و[[agentic-ai|الذكاء الاصطناعي الوكيلي]]، و[[cognitive-offloading|التفريغ المعرفي]]، و[[framing-ai-use-for-students|كيف يُؤطَّر استخدام الذكاء الاصطناعي للطلاب]]، و[[reducing-ai-misuse|تقليل سوء استخدام الذكاء الاصطناعي]]، و[[academic-integrity|النزاهة الأكاديمية]]، و[[teacher-role|التدريس]]، و[[learning-design|تصميم التعلّم]]، و[[educational-development|التطوير التربوي]]. ثم يغطّي محور **المجال** [[history-of-aied|تاريخ المجال]]، و[[limitations-in-aied-research|الحدود المشتركة لقاعدة الأدلة]]، و[[philosophy-of-ai-in-education|فلسفته]]، وخريطة [[theories-and-frameworks|النظريات والأطر]]، و[[theory-development-aied|تطوير النظرية]]. أما الموضوعات الشاملة، وهي [[human-ai-collaboration|التعاون بين الإنسان والذكاء الاصطناعي]] و[[agency|فاعلية المتعلّم]] و[[learner-identity|هوية المتعلّم]] و[[design-thinking|التفكير التصميمي]] و[[curriculum-design|تصميم المناهج]] و[[critical-thinking|التفكير النقدي]] و[[computational-thinking|التفكير الحاسوبي]]، فهي تقطع كل محور، لأن النماذج الذهنية غير الدقيقة التي يحملها الناس عن الذكاء الاصطناعي تسبق [[ai-misuse-learning-harm|سوء الاستخدام]] و[[trust-calibration|الثقة]] غير المعايَرة معايرةً سليمة.
+المفاهيم الشاملة والأساسية في المجال تُرسّخ تغطية قاعدة المعارف وتظهر أولًا في الشريط الجانبي. وهي تبدأ بمجموعة **الأساسيات**، أي المفاهيم التي ينبغي لكل قارئ أن يبدأ بها: المفهوم الجامع نفسه، و[[misconceptions|المفاهيم الخاطئة عن الذكاء الاصطناعي]]، و[[ai-literacy|الثقافة بالذكاء الاصطناعي]]، و[[agentic-ai|الذكاء الاصطناعي الوكيلي]]، و[[cognitive-offloading|التفريغ المعرفي]]، و[[framing-ai-use-for-students|كيف يُؤطَّر استخدام الذكاء الاصطناعي للطلاب]]، و[[reducing-ai-misuse|تقليل سوء استخدام الذكاء الاصطناعي]]، و[[academic-integrity|النزاهة الأكاديمية]]، و[[teacher-role|التدريس]]، و[[learning-design|تصميم التعلّم]]، و[[educational-development|التطوير التربوي]]. ثم يغطّي محور **المجال** [[history-of-aied|تاريخ المجال]]، و[[limitations-in-aied-research|الحدود المشتركة لقاعدة الأدلة]]، و[[philosophy-of-ai-in-education|فلسفته]]، وخريطة [[theories-and-frameworks|النظريات والأطر]]، و[[theory-development-aied|تطوير النظرية]]، و[[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]] التي تُعامل بيئة التعلّم نظامًا متعدد المستويات تتفاعل أجزاؤه؛ فالأداة أو السياسة التي تُدخَل في مستوى تُنتج آثارًا في المستويات الأخرى. أما الموضوعات الشاملة، وهي [[human-ai-collaboration|التعاون بين الإنسان والذكاء الاصطناعي]] و[[agency|فاعلية المتعلّم]] و[[learner-identity|هوية المتعلّم]] و[[design-thinking|التفكير التصميمي]] و[[curriculum-design|تصميم المناهج]] و[[critical-thinking|التفكير النقدي]] و[[computational-thinking|التفكير الحاسوبي]]، فهي تقطع كل محور، لأن النماذج الذهنية غير الدقيقة التي يحملها الناس عن الذكاء الاصطناعي تسبق [[ai-misuse-learning-harm|سوء الاستخدام]] و[[trust-calibration|الثقة]] غير المعايَرة معايرةً سليمة.
 
 ## التعلّم والتدريس
 

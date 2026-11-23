@@ -10,8 +10,8 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-22T12:10:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T09:48:57-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, ai-use-disclosure, remote-proctoring, ethics, higher-ed, privacy, bias-mitigation, academic-integrity, ai-literacy, learning-analytics, student-experience, educational-policy-ai, regulation, summative-assessment, ai-misuse-learning-harm, trust-calibration, generative-ai, stakeholders, student-support-and-success]
 connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-management-higher-ed-2026, jones-care-ethics-ai-governance-higher-education-2026, generative-ai-governance-education-scoping-review-2026, ai-literacy-sdg-governance-framework-2026, tan-aigem-ai-educational-management-2026, institutional-ai-policy-health-informatics-2026, guided-inquiry-genai-course-policy-2026, learning-analytics-to-educational-interventions-2026, gonsalves-student-non-compliance-ai-declarations-2025, vetter-hidden-cost-disclosure-genai-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, weidlich-inference-at-risk-assessment-validity-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, ai-refusal-higher-education-diagnostic-non-use-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, leveraging-complex-systems-leading-for-transformative-change, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, beyond-detection-authentic-assessment-ai-2025, genai-policies-higher-ed-computing, genai-declaration-frameworks-higher-education, genai-assessment-governance, ai-uk-higher-education-policy-2026, raza-farooq-aied-review-2020-2025, cognitive-commons-ai-expertise-regeneration, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, genai-higher-ed-agency-responsibility-discourse-2026, instructional-governance-design-computing-education-2026, genai-governance-australian-higher-ed-2026, wong-sun-agentic-ai-assessment-governance-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, li-su-teacher-genai-decision-making-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, kaziya-learner-data-privacy-governance-2026, tian-transnational-faculty-development-governance-2027, rodafinos-llm-curriculum-audit-2026, isaifan-ai-governance-quality-assurance-accreditation-2026, sigalapalli-childai-gov-edtech-policy-2026]
@@ -63,6 +67,7 @@ connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-
 ## كيف يظهر الذكاء الاصطناعي في الحوكمة وفقًا للأبحاث
 
 - **التبني المؤسسي على نطاق واسع:** يُظهر [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|دراسة AIDA في الجامعة المفتوحة]] كيف صمّمت مؤسسةٌ مساعدًا للذكاء الاصطناعي التوليدي ونشرته وقيّمته، محدّدةً أن النشر المسؤول على مستوى النظام يتطلب بنى حوكمة (مجموعة توجيه الذكاء الاصطناعي)، ورعايةً من القيادة العليا، ومواءمةً مع استراتيجية المؤسسة — لا القدرة التقنية فحسب.
+- **الحوكمة سؤال مستويات، لا سؤال قواعد فحسب.** يصوّر [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]] المشكلة بوصفها مواءمةً للضبط عبر المستويات: فالقاعدة الصحيحة على مستوى المقرّر قد لا تتّسق مع حوافز المؤسسة أو مع ما تسمح به بيئة السياسة، ولهذا ينتج الإرشاد ذاته سلوكًا مختلفًا في الأقسام المختلفة.
 
 - **القيادة والتغيير المنظومي:** يؤطّر [[leveraging-complex-systems-leading-for-transformative-change|SPARK]] الحوكمة داخل نظرية قيادة التعقيد، مجادلًا بأن القادة يجب أن يوازنوا بين الاستقرار الإداري والابتكار الناشئ، مُدمجين آليات الحوكمة (السياسات، وأنظمة التقويم، وأطر المساءلة) بحيث يمكن استدامة ابتكارات الفضاء التكيّفي وتوسيعها.
 
@@ -89,6 +94,8 @@ connected_articles: [chew-ai-content-governance-medical-education-2026, kaze-ai-
 - **الأخلاقيات والخصوصية والانحياز:** تُجرّد آليات الحوكمة المبادئ الأخلاقية ([[ethics]]، [[privacy]]، [[bias-mitigation]]) التي تُدرك غالبًا ولا تُنفَّذ، متصلةً بالذكاء الاصطناعي المسؤول وبمناقشات [[regulation|التنظيم]] في التعليم.
 
 - **مصفوفة قيمة/عُرف للحوكمة.** تُرسّخ [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]]، وهي [[meta-analysis-systematic-review|مراجعة منهجية]] لـ 25 مقالًا، أخلاقيات التعليم بالذكاء الاصطناعي في ست قيم أخلاقية رئيسية (عدم التمييز، والرعاية بالبيانات، و[[human-in-the-loop-ai|الإشراف البشري]]، وحسن النية، والقابلية للتفسير، والملاءمة التعليمية)، وترسم الأعراف الأخلاقية المستخرجة من الأدبيات على مصفوفة صاحب مصلحة × قيمة. وهذا الرسم يجعل الأعراف قواعد قابلة للتنفيذ لتحقيق قيم محددة ويوفّر أساسًا لبناء أطر أخلاقية وتنظيمية مفصّلة لتعليم الذكاء الاصطناعي — مانحًا المؤسسات التعليمية والمطوّرين والمنظّمين أعرافًا ملموسة للتنفيذ. وتتمركز أعراف الإشراف البشري على المعاهد التعليمية والمستخدمين النهائيين، والملاءمة التعليمية على المعاهد التعليمية والمنظّمين، أما أعراف حسن النية الموجّهة للمنظّمين فهي أكثر عددًا بكثير (تسعة) من أي مجموعة أخرى، ما يُشير إلى دور المنظّمين في ضمان استفادة المتعلمين من التعليم بالذكاء الاصطناعي عبر السياسة والتشريع.
+
+- **حقوق الطفل بُعدٌ للتدقيق.** يبني [[sigalapalli-childai-gov-edtech-policy-2026|Sigalapalli, Liang and Crivellaro (2026)]] أداة ChildAI-Gov التي تُقيّم سياسة الخصوصية أو سياسة الذكاء الاصطناعي لأداة تقنية تعليمية مقابل خمسة أبعاد من حقوق الطفل، مؤسسةً كلّ درجة على أحكام مسترجعة من قانون الاتحاد الأوروبي للذكاء الاصطناعي وإرشاد اليونيسف. وعبر 57 سياسة حقيقية لتقنيات التعليم لم تكن أيٌّ منها ممتثلةً تمامًا (33 غير ممتثلة و24 جزئية)، وجعل التأسيسُ التقييم أكثر صرامة مع الحفاظ على الترتيبات.
 
 ### التعليم في الحوكمة
 

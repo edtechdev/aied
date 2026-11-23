@@ -9,7 +9,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,11 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+updated: "2026-11-23T13:15:00-05:00"
 connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
 connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
@@ -76,6 +80,8 @@ connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustainin
 **لـ[[administrator|الإداريين]] و[[educational-policy-ai|واضعي السياسات]]**، تُحاجّ الأدلة بحوكمة تشاركية، واستثمار في البنية التحتية، وبناء القدرات على وثائق الاستراتيجية الطموحة، بنقل السياسة الوطنية إلى دعم ملموس للمدرّبين بدل إصدار أوامر نازلة من الأعلى. **وللمدرّبين**، تعني إدارة التغيير الانتقال من متبنٍّ إلى مُجرِّب مدفوع بالاستقصاء، بإشراك [[pedagogical-partnerships|الطلاب كشركاء]]، ورسو الإصلاح في مبادئ تربوية متينة بدل أدوات قد تصبح قديمة خلال أشهر — مع التحفّظ من أن التطوير المهني ينبغي أن يستهدف دورة تصميم كاملة (تقدير الاحتياجات، والتغذية الراجعة) بدل استخدام الأداة وحده، كما يُظهر [[dot-framework-survey-2026|مسح إطار DOT]].
 
 وتُتبّع دراسة حالة مؤسسية قوس انتشار دام عشر سنوات في الرياضيات الجامعية، من مبادرة فردية وورش أقران إلى ترخيص مشترك لأعضاء هيئة التدريس وتمويل مركزي ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
+
+يوفّر [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]] التحليل لهذا: فجهد تغيير موجّه إلى مستوى واحد يُنتج آثارًا في المستويات الأخرى، لذا فإن برنامج تطوير أعضاء هيئة التدريس الذي لا يبلغ عبء العمل أو المشتريات أو السياسة يُغيّر الشروط التي تقرّر ما إذا كانت الممارسة الجديدة ستبقى.
 
 إعادة تصميم المقرر كلفةٌ ينبغي أن ترصدها المؤسسات لا أن تفترضها: فقد بلغ اعتماد مقرر مُدمج بالذكاء الاصطناعي نحو 15 إلى 20 ساعة من عمل إعادة التصميم لكل مقرر قبل أي تعديل مستمر ([[packard-thinking-partner-framework-adult-learners-2026|باكارد وزملاءه (2026)]]).
 - **يُفسَّر الانخراط بالقدرة والاستعداد لا بالحماسة.** يُحاجّ إطار لممارسة التقويم بأن تفاوت تبنّي GenAI يعكس أربعة شروط — القدرة، والاستعداد، والدعم والقيود المحيطة بهما — لا مقاومةً، وأن ورشة واحدة تبني المفردات لا الحكم ([[aalhe-capacity-disposition-genai-assessment-2026|ميلر، 2026]]). وتسمية الشرط الغائب تخبر المؤسسة بما إذا كان عليها أن تدرّب أو توفّر الموارد أو تغيّر الحافز.

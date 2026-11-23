@@ -1,7 +1,7 @@
 ---
 title: "eLearning İstek Kütüphanesi"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer'ın MIT lisanslı GitHub koleksiyonu: öğretim tasarımcıları ve eLearning geliştiricileri için 22 kopyalama-yapıştırma AI istek metni, her biri uyguladığı öğrenme kuramıyla etiketlenmiş."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,3 @@ Boş bir istek metni kutusu yerine kuramla etiketlenmiş bir başlangıç noktas
 - **Kuram etiketleme yazarın kendi eşlemesidir.** Bir istek metninin belirttiği kuramı gerçekten uyguladığını doğrulayan hiçbir şey yok. "Kanıta dayalı" ve "üretime hazır" yazarın iddialarıdır ve her çıktı bir kursa girmeden önce hâlâ konu denetimi gerektirir.
 - **Çok genç ve denetlenmemiş.** Bir katılımcı, 2 yıldız, Kasım 2026 itibarıyla yayımlanmış sürüm yok ve 15 Kasım 2026'da oluşturulmuş bir depo — günler önce, sürdürülen bir koleksiyon değil. Benimseme sayımları 23 Kasım 2026 tarihinde görülen değerlerdir.
 - **MIT lisanslı.** Atıf koşuluyla ticari kullanım da dahil olmak üzere kopyalama ve uyarlama ücretsizdir.
-
-## Bağlı kavramlar
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

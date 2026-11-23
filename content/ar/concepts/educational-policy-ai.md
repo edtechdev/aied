@@ -11,8 +11,8 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-22T12:10:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics, teacher-ai-competency, framing-ai-use-for-students, summative-assessment, chemistry-education, biology-education, stakeholders, student-support-and-success]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-cheating-habitus-ai-governance-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, generative-ai-governance-education-scoping-review-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, gai-advocacy-practice-art-education-2026, nash-preservice-teachers-classroom-ai-policies-2026, human-in-the-loop-ai-scoring-national-assessment-2026, mccorkle-aligned-genai-course-policy-2025, chirikov-regulate-ai-syllabi-2026, chirikov-ai-grade-inflation-2026, crompton-governing-genai-higher-ed-delphi-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, institutional-ai-policy-health-informatics-2026, credential-cognitive-stewardship-ai-assessment, adarkwah-genai-unesco-policy-2026, genai-policies-higher-ed-computing, institutional-change-framework-ai, ai-assessment-scale-reform, stanford-evidence-base-ai-k12-2026, ai-uk-higher-education-policy-2026, policy-deficit-ai-sel-2026, agarwal-ethical-values-norms-aied-2026, perrotta-zero-shot-governance-2026, el-salvador-ai-tutoring-selection-claim-2026, watson-rainie-ai-challenge-faculty-survey-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, genai-use-changing-institutional-policy-physics-2026, genai-pisa-decline-countries-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, pandey-davies-he-governance-administrative-ai-2026, chan-ai-policy-gap-2026, jiang-faculty-development-japan-2027, making-ai-work-for-students-ofs-2026]
@@ -58,7 +62,7 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, hashem-che
 
 ## مستويات السياسة
 
-تُصنع السياسة على عدة مستويات في وقت واحد، وهي لا تتحرّك معًا. وتسمّي البنود أدناه المستوى والبحث الذي يوثّقه.
+تُصنع السياسة على عدة مستويات في وقت واحد، وهي لا تتحرّك معًا. وتسمّي البنود أدناه المستوى والبحث الذي يوثّقه. تلك البنية العمودية هي موضوع [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]]، التي تعامل السياسة والمؤسسة والمقرّر والمتعلّم مستوياتٍ متفاعلة لبيئة واحدة بدل ميادين منفصلة — لذا يغيّر الإذن الوطني ما تستطيع الجامعة تمويله، وهو ما يغيّر ما يستطيع القسم اشتراطه، وهو ما يغيّر ما يستطيع المعلّم وضعه.
 
 - **السياسة المؤسسية:** تُقارن [[genai-policies-higher-ed-computing|تحليلات السياسة المؤسسية]] كيف تطوّر الجامعات سياسات الذكاء الاصطناعي. وتوفّر [[institutional-change-framework-ai|أطر التغيير المؤسسي]] نماذج لتطوير السياسات. وقد رمّز [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] صفحات الذكاء الاصطناعي الرئيسية للـ50 جامعة أمريكية المصنَّفة كالأكثر ابتكارًا في 2025، فوجد أن 6 فقط أطرتها كـ«سياسة» بينما نشرت 44 إرشادات وتوجيهات ومبادئ أو مراكز موارد، وأن 33 من 50 حدّدت المعلّمين بوصفهم المترجمين الأساسيين لتوقعات المؤسسة إلى قواعد المقرّر — أي أن السياسة المؤسسية تُكتب عن قصد كإرشاد قابل للتكيّف للتفسير على مستوى المقرّر بدل قاعدة ثابتة.
 - **السياسة الحكومية:** [[ai-lifelong-learning-policy|سياسة التعلّم مدى الحياة]] تفحص المناهج التنظيمية على المستويين الوطني والإقليمي. والرؤية النقدية على مستوى البنية التحتية للذكاء الاصطناعي في صنع السياسات الحكومية هي [[perrotta-zero-shot-governance-2026|Perrotta (2026)]]، الذي يُظهر تحليله لنموذج Redbox المدني البريطاني المبني على [[llm]] كيف يدخل الذكاء الاصطناعي متعدد الأغراض في مجموعة أدوات صناعة السياسة عبر «الحوكمة الصفرية-النماذج» — أي نماذج أساسية مستقلة عن المجال تتدخّل في القرارات، مغلّفةً بسقالات رقيقة [[discipline-specific-aied|خاصة بالمجال]] [[scaffolding|سقالات]].

@@ -6,8 +6,8 @@ research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-11-22T12:10:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [research-methods-aied, rct, quantitative-research, qualitative-research, mixed-methods-research, usability-research, learning-design, educational-measurement, learning-gains, limitations-in-aied-research, theory-development-aied, learning-sciences]
 connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literacy-training-teacher-education-dbr-2026, crompton-faculty-technology-integration-standards-2026, human-centered-ai-teacher-educators-2026, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, critical-thinking-genai-scaffolding, science-integrated-ai-literacy-curriculum-dbr-2026, play-ai-pre-k-kindergarten-ai-literacy-2026, yasar-llms-iterative-pedagogical-design-2026]
@@ -77,7 +81,7 @@ connected_articles: [ai-assisted-collaborative-learning-model-dbr, genai-literac
 
 ## العلاقة بالأساليب الأخرى
 
-البحث القائم على التصميم هو الأسلوب المُميّز [[learning-sciences|لعلوم التعلّم]] — المجال المتعدد الاختصاصات الذي يدرس التعلّم وتصميم بيئات التعلّم، والذي يعامل بناء تدخّل ودراسته كنشاط واحد لا اثنين. وهو مُكمّل لأساليب البحث الأخرى لا منافس لها (انظر [[research-methods-aied]] للمشهد الكامل). فحيث تُرسّخ [[rct|التجارب]] السببية وتُرسّخ [[quantitative-research|الاستبيانات]] الاتساع، يُرسّخ البحث القائم على التصميم *الجدوى والمعرفة التصميمية* — ما إذا كان تدخّلًا يمكن بناءه ليعمل في ممارسة أصيلة وما مبادئ التصميم التي تدعمه. وهو يُزاوج في كثير من الأحيان بـ[[usability-research|تقييم قابلية الاستخدام]] (لتنقيح الواجهة) و[[qualitative-research|الأساليب الكيفية]] (لفهم كيفية تجربة المتعلّمين للتدخّل). وبرنامج البحث القائم على التصميم الناضج يُتوَّج عادةً بـ[[rct|تجربة فعالية]] أو دراسة [[educational-measurement|قياس]] تختبر الآثار السببية للتدخّل المُطوَّر على نطاق واسع.
+البحث القائم على التصميم هو الأسلوب المُميّز [[learning-sciences|لعلوم التعلّم]] — المجال المتعدد الاختصاصات الذي يدرس التعلّم وتصميم بيئات التعلّم، والذي يعامل بناء تدخّل ودراسته كنشاط واحد لا اثنين. وهو مُكمّل لأساليب البحث الأخرى لا منافس لها (انظر [[research-methods-aied]] للمشهد الكامل). فحيث تُرسّخ [[rct|التجارب]] السببية وتُرسّخ [[quantitative-research|الاستبيانات]] الاتساع، يُرسّخ البحث القائم على التصميم *الجدوى والمعرفة التصميمية* — ما إذا كان تدخّلًا يمكن بناءه ليعمل في ممارسة أصيلة وما مبادئ التصميم التي تدعمه. وهو يُزاوج في كثير من الأحيان بـ[[usability-research|تقييم قابلية الاستخدام]] (لتنقيح الواجهة) و[[qualitative-research|الأساليب الكيفية]] (لفهم كيفية تجربة المتعلّمين للتدخّل). وبرنامج البحث القائم على التصميم الناضج يُتوَّج عادةً بـ[[rct|تجربة فعالية]] أو دراسة [[educational-measurement|قياس]] تختبر الآثار السببية للتدخّل المُطوَّر على نطاق واسع. ودوراته هي أيضًا الأداة الطبيعية [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]]، حيث يجب إعادة دراسة تدخّلٍ أُدخِل على مستوىً في سائر المستويات.
 
 ## المفاهيم الخاطئة الشائعة
 

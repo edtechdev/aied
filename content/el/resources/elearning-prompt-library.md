@@ -1,7 +1,7 @@
 ---
 title: "Βιβλιοθήκη προτροπών eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Η συλλογή GitHub του Sunil Iyer με άδεια MIT: 22 προτροπές ΤΝ έτοιμες για αντιγραφή και επικόλληση για ειδικούς σχεδιασμού μάθησης και προγραμματιστές eLearning, η καθεμία με ετικέτα τη θεωρία μάθησης που εφαρμόζει."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **Η ετικέτα θεωρίας είναι δική του συγγραφέα αντιστοίχιση.** Τίποτα δεν επικυρώνει ότι μια προτροπή εφαρμόζει τη θεωρία που ονομάζει. Τα «βασισμένο σε στοιχεία» και «έτοιμο για παραγωγή» είναι ισχυρισμοί του συγγραφέα, και κάθε έξοδος χρειάζεται ακόμη έλεγχο περιεχομένου πριν μπει σε ένα μάθημα.
 - **Πολύ νέο και άνευ αξιολόγησης.** Ένας συνεισφέρων, δύο αστέρια, καμία δημοσιευμένη έκδοση έως τον Νοέμβριο του 2026, και ένα αποθετήριο που δημιουργήθηκε στις 15 Νοεμβρίου 2026 — ημερών, όχι μια συντηρούμενη συλλογή. Οι μετρήσεις υιοθέτησης είναι όπως διαβάστηκαν στις 23 Νοεμβρίου 2026.
 - **Με άδεια MIT.** Ελεύθερο για αντιγραφή και προσαρμογή, και εμπορικά, με αναφορά δημιουργού.
-
-## Συνδεδεμένες έννοιες
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,11 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+updated: "2026-11-23T13:15:00-05:00"
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
 connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeling-problem-generation-platform-2026, ai-particle-physics-education-redesign-2026, ai-video-dual-gatekeeping-2026, ase-26-agentic-software-engineering-curriculum, bursic-ai-residency-education-curriculum-2026, caruana-pre-university-ai-education-slr-2026, computing-assessment-genai-workshop-report-2026, critical-media-literacy-education-2026, curriculum-as-code-instructional-design-2026, finkelstein-principled-ai-education-2025, genai-curriculum-analytics-mapping-higher-ed-2026, hingle-collaborative-ai-literacy-2025, icet-ml-education-trust-2026, ithaka-sr-ai-skills-college-graduates-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, learnai-just-in-time-ai-cocreation-university-2026, lee-ai-convergence-curriculum-korean-university-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mcinnes-salvaging-constructive-alignment-genai-2026, mechanical-engineering-ai-curriculum-2026, niri-steam-ai-literacy-review-2026, refrain-amplify-genai-curriculum-2026, reshaping-cs-education-genai, rewriting-curriculum-genai-pedagogy-2026, rodafinos-llm-curriculum-audit-2026, rook-plumb-genai-curricula-student-insights-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, tracing-genai-literacy-interaction-patterns, workforce-readiness-smart-manufacturing-wrl-2026, ying-genai-journalism-assessment-2026, zhou-constructive-alignment-genai-business-2026]
 ---
@@ -112,7 +116,7 @@ connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeli
 
 ## الصلات بالمفاهيم ذات الصلة
 
-يتصل تصميم المنهج مباشرةً بـ[[learning-design]] — المنهج يحدّد ما هو، والتدريس يحدّد كيف. ويتصل بـ[[ai-literacy]] لأن تضمين كفاءات الذكاء الاصطناعي تحدٍّ منهجي رئيسي، و[[teacher-role|بدور المدرّس]] و[[educational-development]] لأن تغيير المنهج يتطلب إعداد المعلّمين، و[[scaffolding|بالسقالة]] لأن المناهج المصممة جيدًا تسلّك تطور المهارات عبر المقررات والسنوات. ووصلتا [[higher-ed]] و[[k-12]] تعكسان ملاءمة تصميم المنهج للمراحل التعليمية المختلفة.
+يتصل تصميم المنهج مباشرةً بـ[[learning-design]] — المنهج يحدّد ما هو، والتدريس يحدّد كيف. ويتصل بـ[[ai-literacy]] لأن تضمين كفاءات الذكاء الاصطناعي تحدٍّ منهجي رئيسي، و[[teacher-role|بدور المدرّس]] و[[educational-development]] لأن تغيير المنهج يتطلب إعداد المعلّمين، و[[scaffolding|بالسقالة]] لأن المناهج المصممة جيدًا تسلّك تطور المهارات عبر المقررات والسنوات. ووصلتا [[higher-ed]] و[[k-12]] تعكسان ملاءمة تصميم المنهج للمراحل التعليمية المختلفة. وعلى مستوى البرنامج، هو أحد المستويات التي تعامل [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]] بوصفها تتفاعل مع المقرّر والمؤسسة والسياسة.
 
 **اختيار إطار واحد لثقافة الذكاء الاصطناعي يعني اختيار مفردات لم يوائم بينها أحد.** في مراجعة نطاقية لـ50 إطارًا في K-12، وجد [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach وآخرون (2026)]] أن تعريفات الكفاءة تتقارب على أبعاد معرفية ووجدانية وسلوكية وأخلاقية واجتماعية بينما لم تتحاذَ التسميات والبنى. ولم يقترب إطار ABCE وحده من تقليد قياس مشترك، مُتحقَّقًا منه عبر هونغ كونغ وشنغهاي وتايوان، بينما اقتُرح التدرّج عبر نطاقات الصفوف مرارًا ولم يُختبر في أي مكان.
 

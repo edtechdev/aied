@@ -1,7 +1,7 @@
 ---
 title: "eLearning-promptbibliotek"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyers MIT-licenserede GitHub-samling med 22 kopible AI-prompts til undervisningsdesignere og eLearning-udvikleren, hver mærket med den læringsteori, den anvender."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Til undervisningsdesignere og udvikleren af uddannelsesteknologier, der vil have
 - **Teorimærkningen er forfatterens egen kortlægning.** Intet validerer, at en prompt anvender den teori, den angiver. »Evidensbaseret« og »produktionsklar« er forfatterens påstande, og hvert output skal stadig kontrolleres af en fagkyndig, før det kommer i et kursus.
 - **Meget ungt og uvurderet.** En bidragyder, to stjerner, ingen udgivne udgivelser pr. november 2026 og et repository oprettet den 15. november 2026 — dage gammelt, ikke en vedligeholdt samling. Adoptionsantal er som læst den 23. november 2026.
 - **MIT-licenseret.** Frit at kopiere og tilpasse, også kommercielt, med kildeangivelse.
-
-## Forbundne koncepter
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

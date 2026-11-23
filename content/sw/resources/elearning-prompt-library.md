@@ -1,7 +1,7 @@
 ---
 title: "Maktaba ya Ilani za eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Mkusanyiko wa GitHub wa Sunil Iyer wenye leseni ya MIT wa ilani 22 za AI zinazoweza kunakiliwa na kubandikwa kwa wabunifu wa mafunzo na watengenezaji wa eLearning, kila moja ikiwa imewekwa alama ya nadharia ya kujifunza inayotumika."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,3 @@ Wabunifu wa mafunzo na watengenezaji wa teknolojia za elimu ambao wanataka hatua
 - **Kuweka alama nadharia ni uwekaji wa mwandishi mwenyewe.** Hakuna chochote kinachothibitisha kwamba ilani inatumia nadharia inayotaja. "Inayotegemea ushahidi" na "tayari kwa uzalishaji" ni madai ya mwandishi, na kila pato bado linahitaji ukaguzi wa mada kabla ya kuingia kwenye kozi.
 - **Mpya sana na haijakaguliwa.** Mchangi mmoja, nyota 2, hakuna matoleo yaliyochapishwa kufikia Novemba 2026, na hazina iliyoundwa tarehe 15 Novemba 2026 — ni ya siku chache, si mkusanyiko unaolelewa. Hesabu za matumizi zimesomwa tarehe 23 Novemba 2026.
 - **Leseni ya MIT.** Huru kunakiliwa na kubadilishwa, pamoja na kwa matumizi ya kibiashara, kwa kutaja chanzo.
-
-## Dhana Zilizounganishwa
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

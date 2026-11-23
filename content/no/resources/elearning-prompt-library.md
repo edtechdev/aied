@@ -1,7 +1,7 @@
 ---
 title: "eLearning-ledetekstbibliotek"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyers MIT-lisensierte GitHub-samling med 22 kopier-og-lim inn AI-ledetekster for instruksjonsdesignere og eLearning-utviklere, hver merket med læringsteorien den bruker."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Instruksjonsdesignere og utviklere av utdanningsteknologi som vil ha et utgangsp
 - **Teorimerkinga er forfatterens egen kartlegging.** Ingenting validerer at en ledetekst bruker teorien den navngir. «Evidence-based» og «production-ready» er forfatterens påstander, og hvert resultat må faglig sjekkes før det går inn i et kurs.
 - **Svært ungt og uprøvd.** En bidragsyter, to stjerner, ingen publiserte utgivelser per november 2026, og et depot opprettet 15. november 2026 — dager gammelt, ikke en vedlikeholdt samling. Adopsjonsantallene er lest 23. november 2026.
 - **MIT-lisensiert.** Fritt å kopiere og tilpasse, også kommersielt, med kreditering.
-
-## Tilknyttede konsepter
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

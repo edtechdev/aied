@@ -1,14 +1,14 @@
 ---
 title: שיתוף פעולה בין אדם לבינה מלאכותית
 created: "2026-10-12T19:00:00-04:00"
-updated: "2026-11-23T10:00:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-21T09:01:46-05:00"
+source_updated: "2026-11-23T09:48:57-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
 connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, ai-integration-instructional-design-collaboratory-2026, ai-overreliance-complex-adaptive-system-2026, ai-standardized-patient-scaffolding-medical-2026, bjet-many-hands-make-light-work-2026, bounded-reliance-ai-writing-feedback-2026, choi-teacher-ai-interaction-lesson-design-2026, conversational-ai-agents-umbrella-review-2026, dang-human-ai-collaboration-competency-2026, ethics-training-agents-group-ethics-discussion-2026, generative-ai-mediational-agent-sociocultural-2026, haiml-human-centered-ai-metacognitive-model-2026, hao-human-ai-collaborative-problem-solving-cognition, hong-authorship-legitimation-deficit-human-ai-co-creation-2026, human-ai-collaboration-academic-writing-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, liao-role-adaptive-ai-companion-book-talk-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, niari-ai-pedagogical-mediator-collaborative-learning, nixon-social-cost-ai-teammate-2026, ojeda-ramirez-community-based-ai-learning, oppenheimer-llms-collaborative-learning-partners-2026, principal-trait-analysis-human-ai-skills-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, robinson-lesson-study-dialogic-engagement-ai-2026, scan-framework-task-assignment-generative-ai-2025, spritz-ai-disciplinary-mediation-student-teams-2026, student-mental-models-genai, substitution-to-scaffolding-ai-harm-cycle-2026, sun-student-genai-entanglement-literacy-demands-2026, talebzadeh-ai-group-activity-roles-2026, tang-chatbots-learning-design-2026, teacher-ai-collaboration-work-engagement-2026, think-first-chatgpt-later-2026, tuo-armada-multi-agent-debate-overreliance-2026, wang-agentic-translation-education-2026, wang-genai-novice-learner-learning-by-teaching-2026, wang-teacher-ai-co-design-review-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, xu-genai-collaborative-space-2026, zhu-ai-pair-programming-secondary-2026, li-human-ai-professional-competence-2026]
@@ -100,6 +104,8 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, ai
 - **הנחיה ולא אמירה דורשת קריטריון משלה לשיפוט סוכן.** מקרה עיצוב שביקש לשקף הנחיית מורה מצא שסוכן ידע החסום למאגר מסודר ניתן לשפוט לפי דיוק, בעוד שסוכן שנועד להוביל סטודנטים לתשובות משלהם לא ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 - **השותפות מתרחבת לתהליך המחקר עצמו, לא רק ללמידת סטודנטים** — [[potter-participatory-design-writing-analytics-2026|Potter et al. (2026)]] הנחו את GPT-4o לנסח קודים ותמות ראשוניות בפלטפורמת RAG מאובטחת, בעוד שלושה חוקרי ליבה ושני מאמתים חיצוניים שמרו על הסמכות הפרשנית ואיחדו ארבע תמות סופיות. זרימת העבודה ההיברידית חילקה מחדש את עבודת החוקרים במקום להסירה.
 - **רוטציית תפקידים היא מנוף שיתוף פעולה בלתי תלוי בבינה המלאכותית.** [[zhu-ai-pair-programming-secondary-2026|Zhu et al. (2026)]] מצאו שרוטציה של תפקידי נהג–נווט בתכנות בזוג הפחיתה עומס קוגניטיבי וחרדת תכנות בין אם היה סיוע בינה מלאכותית ובין אם לא, ולכן חלק מהתועלת שייך להתאום האנושי ולא לכלי.
+
+- **מיומנות כהאצלת אחריות.** [[li-human-ai-professional-competence-2026|Li and Torrisi-Steele (2026)]] מציגים את מיומנות העבודה המקצועית בין אדם לבינה מלאכותית, ועל פני 560 לומדים ו-240 חברי סגל מוצאים שהאצלה קוגניטיבית בלבד אינה מנבאת אותה (β = −.041, p = .242), בעוד בעלות קוגניטיבית ושיפוט ניסיוני כן; חברי סגל מפרידים באופן דומה בין ביצוע שניתן להאצלה לבין אימות ושיפוט שאינם ניתנים להאצלה.
 
 ## קשרים
 

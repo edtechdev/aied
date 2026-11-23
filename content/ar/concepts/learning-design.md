@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire, elearning-prompt-library]
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision
@@ -32,8 +32,12 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 translation_of: concepts/learning-design
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
@@ -130,6 +134,8 @@ connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-lea
 يعدّل التصميم الآثار أكثر من التقنية في تركيب Zhang وزملائه: فالقدرة نفسها في الذكاء الاصطناعي التوليدي أنتجت g = 0.92 حين وجّهها المتعلّم وg = 0.34 حين عملت مستقلة. فنمط التفاعل قرار تصميمي لا خاصية أداة ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 **حلقة تصميم وتدقيق للتعلّم التأمّلي.** يقترح [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] إطار SAREL — تحديد القدرة التأمّلية ومقابلٍ من غير الذكاء الاصطناعي؛ تخصيص تحكّم المتعلّم ومسار بديل مُتاح مكافئ؛ اشتراط التأمّل والتحقّق؛ تقييم التعلّم إلى جانب الإنصاف والعبء واستخدام الموارد؛ ثم إعادة الدليل إلى إعادة التصميم في حلقة — كطريق لإبقاء التأمّل المدعوم بالذكاء الاصطناعي سؤال تصميم مقارن لا منفعة مفترضة للتبنّي. والمراحل الخمس اقتراح مؤلّفين غير مُتحقَّق منه، قُدّم لتأطير الأسئلة الصحيحة لا بوصفه طريقة مُختبَرة.
+
+**صمّم لأجل المستويين فوق المقرّر وتحته.** المقرّر مستوى واحد في نظام أكبر: يصل إليه المتعلّمون ومعهم [[prior-knowledge|المعرفة السابقة]] والتزامات خارج الصف، وتضع المؤسسة المحيطة به قواعد العبء والمشتريات والتقويم. و[[learning-environments-as-systems|البيئات التعليمية بوصفها نظمًا]] تسمّي النظرة التي تعامل تلك المستويات على أنها متفاعلة، فتُفحص الأداة المختارة على مستوى المقرّر مقابل قيود المؤسسة ووضع المتعلّم الفعلي بدل أن تُقوَّم كأن المقرّر عالم مغلق.
 
 ## المفاهيم الخاطئة الشائعة
 

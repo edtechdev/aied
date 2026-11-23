@@ -1,7 +1,7 @@
 ---
 title: "ספריית ההנחיות ל-eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "אוסף GitHub ברישיון MIT של Sunil Iyer: 22 הנחיות AI להעתקה והדבקה למעצבי הוראה ומפתחי eLearning, כל אחת מתויגת עם תורת הלמידה שהיא מיישמת."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **תיוג התיאוריות הוא מיפוי משל המחבר.** שום דבר אינו מאמת שההנחיה מיישמת את התיאוריה שהיא מציינת. "מבוסס ראיות" ו"מוכן לייצור" הן טענותיו של המחבר, וכל פלט עדיין דורש בדיקת תוכן מקצועית לפני שהוא נכנס לקורס.
 - **צעיר מאוד ולא מבודק.** תורם אחד, שתי כוכבים, אין מהדורות מפורסמות נכון לנובמבר 2026, ומאגר שנוצר ב-15 בנובמבר 2026 — בן ימים, לא אוסף מתוחזק. ספירות האימוץ הן כפי שנקראו ב-23 בנובמבר 2026.
 - **ברישיון MIT.** חופשי להעתיק ולהתאים, לרבות למטרות מסחריות, בכפוף לייחוס.
-
-## מושגים מחוברים
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

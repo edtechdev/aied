@@ -11,13 +11,17 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
-updated: "2026-11-22T17:00:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [open-source, rag, privacy, governance, edtech-platform, llm, digital-divide, assessment, shadow-ai, critiques-of-ai-in-education]
 connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, rodenbeck-purdue-on-prem-genai-inference-2025, rahaman-soa-on-prem-ai-gateway-2026, sheneman-mindrouter-institutional-ai-sovereignty-2026, guadalupe-academic-chatbot-local-llm-2026, zulfiqar-iqbal-local-ai-infrastructure-slms-primary-2026, pardos-borchers-institutional-workflows-oecd-2026, mcnamara-aimcai-continuous-assessment-infrastructure-2026, on-premises-rag-tutoring-business-education-2026, lata-ferpa-compliant-local-llm-autograder, making-ai-work-for-students-ofs-2026, watson-generative-ai-meaning-mediating-infrastructure-2026]
@@ -104,7 +108,7 @@ connected_articles: [huijts-suilen-institutional-ai-sovereignty-gateway-2025, ro
 
 يجادل [[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] بأن الأدلة اللازمة لتأويل التعلّم موجودة فعلًا لكنها مجزّأة عبر أنظمة لا تستطيع قراءة بعضها بعضًا. وإطاره له ست طبقات وظيفية، وثلاث حدود استدلالية تقيد ما يمكن لِلمحطة أن تدعمه، وسبعة متطلبات حوكمة تشمل قابلية التدقيق وتقدير عدم اليقين واستباق الحكم البشري. وهو إطار لا نشر، ويقول المؤلفون ذلك.
 
-وتوفّر [[lata-ferpa-compliant-local-llm-autograder|LaTA]] الحالة الأضيق: نموذج استدلال محلي يرفع سؤال [[privacy|FERPA]] عن إرسال عمل الطلاب إلى مورّد بدلًا من إدارته. ومجتمعين يوحيان بأن البنية التحتية للتقويم ليست ميزة في منصة تعلّم بل مشكلة منفصلة لها نموذج بياناتها وأنماط فشلها.
+وتوفّر [[lata-ferpa-compliant-local-llm-autograder|LaTA]] الحالة الأضيق: نموذج استدلال محلي يرفع سؤال [[privacy|FERPA]] عن إرسال عمل الطلاب إلى مورّد بدلًا من إدارته. ومجتمعين يوحيان بأن البنية التحتية للتقويم ليست ميزة في منصة تعلّم بل مشكلة منفصلة لها نموذج بياناتها وأنماط فشلها. وهذه هي طبقة البنية التحتية في [[learning-environments-as-systems|البيئات التعليمية بوصفها نظمًا]]: الطبقة التي تقرّر ما إذا كان يمكن استدامة أداة على مستوى المقرّر أم لا.
 
 ## الكلفة وزمن الاستجابة ومشكلة الرؤية
 

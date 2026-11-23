@@ -11,7 +11,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-22T12:23:33-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 updated: "2026-11-23T13:15:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026, rothwell-ai-interpersonal-skills-undergraduate-teams-2026]
@@ -57,6 +61,8 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-as
 - **השיתוף פעולה חייב להיות מעוצב, לא מונח.** היכן שמשימה ניתנת לחלוקה לתתי-משימות עצמאיות, סטודנטים נוקטים במסלול הזה והקבוצה הופכת לפורמט הגשה ולא למאמץ אינטלקטואלי משותף. [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] מצאו שלוש מקבוצותיהם חמש-עשרה עושות בדיוק זאת — מחלקות את העבודה, עובדות ב"פלטפורמות פרטיות," ומעולם לא מאגדות את יכולות ה-GenAI הפרטיות שלהן גם כאשר קוהרנטיות הייתה קריטריון הערכה מפורש.
 - **תהליך לעומת תוצר.** עבודה בקבוצות היא החזקה ביותר כאשר התהליך מוערך לצד הפלט, מה שדורש [[peer-assessment|הערכת עמיתים]] או ביניים גלויים אחרים ולא חפץ סופי בודד.
 - **[[equity-in-ai-education|שוויון]] ו[[inclusive-learning|הכלה]].** נורמות תרומה, שפה, וביטחון מתחלקים באופן לא שווה בתוך קבוצות. [[neurodivergent-computing-students|סטודנטים נוירו-מגוונים]] מדווחים שהם זקוקים למשימות מובנות, צוותים קטנים ועקביים, ותפקידים המוגדרים במפורש — דרישות שכלי שיתוף פעולה AI, הבנויים לרוב עבור הלומד "הממוצע," נכשלים בהם באופן שגרתי.
+
+- **חיזור השיחה הקשה.** הרגע הכי נמנע בעבודה בקבוצות הוא לעתים קרובות בין-אישי: לומר לחבר צוות שהמועדים שהבטיח לא כובדו, ולבקש ממנו הסבר. סקירה נרטיבית ממוקדת של תשעה מחקרים ([[rothwell-ai-interpersonal-skills-undergraduate-teams-2026|Rothwell, 2026]]) מפרידה בין שלוש תוצאות שמדריכים נוטים לערבב ביניהן — הביטחון של הלומדים לאחר חזרה מול צ'אטבוט, ביצוע כאשר הצעות הבינה המלאכותית עדיין זמינות, וביצוע ללא סיוע עם שותף אנושי — ומצאה שרק השלישית מקיימת העברה, כאשר ראיה ישירה מעבודת צוות אוניברסיטאית עדיין מוגבלת. התרגיל המוצע שם לכן שיחת בסיס בשלושה, חזרה מול צ'אטבוט עם משוב מבוסס-התנהגות, וסבבי העברה-קרובה ללא הכלי ושמירה מושהית, כך שלא ניתן לייחס שיפור להנחיות שהיו זמינות ברגע הביצוע.
 
 ## כיצד AI משנה עבודה בקבוצות
 

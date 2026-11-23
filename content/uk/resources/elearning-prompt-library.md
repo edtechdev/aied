@@ -1,7 +1,7 @@
 ---
 title: "Бібліотека підказок для eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Колекція Sunil Iyer на GitHub з ліцензією MIT: 22 підказки ШІ, що копіюються й вставляються, для інструкційних дизайнерів і розробників eLearning, кожна позначена теорією навчання, яку вона застосовує."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **Позначення теорії — це власне зіставлення автора.** Ніщо не підтверджує, що підказка застосовує теорію, яку називає. "На основі доказів" і "готове до виробництва" — це заявки автора, і кожен результат усе ще потребує перевірки предметного змісту перед потраплянням у курс.
 - **Дуже молода й неперевірена.** Один учасник, 2 зірки, опублікованих релізів немає станом на листопад 2026 року, і сховище, створене 15 листопада 2026 року — їй дні, а не підтримувана колекція. Підрахунки впровадження — станом на 23 листопада 2026 року.
 - **Ліцензія MIT.** Вільно копіювати й адаптувати, зокрема комерційно, з посиланням на джерело.
-
-## Пов’язані поняття
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

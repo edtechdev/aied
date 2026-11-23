@@ -6,8 +6,8 @@ technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
 connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
@@ -76,7 +80,8 @@ connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-trans
 1. **فضّل مناهج السيرورة على مقاييس المنتج وحدها.** لتقييم ما إذا كانت أدوات الذكاء الاصطناعي تدعم التعلّم، صُغ كيف ينخرط المتعلمون فعلاً (الاستيعاب والحوار والمراجعة) بمناهج التسلسل/الشبكات بدلاً من الاعتماد على الدرجات النهائية وحدها.
 2. **استخدم ENA لمقارنة البناء المعرفي.** حين تسأل كيف يبني متعلمون أو أنماط مختلفة (بشر مقابل ذكاء اصطناعي) استدلالهم، يوفّر ENA مقارنةً مباشرة بصريةً لشبكات التشارك في الحدوث — وهي تقنية مناسبة تماماً لـ[[student-modeling|نمذجة المتعلّم]] لكيف يربط المتعلمون الأفكار.
 3. **تحقق من الترميز الآلي.** مع مجموعات السجلات الكبيرة، التصنيف المبني على [[llm|نماذج اللغة الكبيرة]] قوي لكنه يجب أن يُفحَص مقابل الترميز البشري (بلاغ اتفاق المقيّمين) قبل تفسير بنية الشبكة.
-4. **صمّم للتمايز.** يكشف تحليل الشبكات غالباً أن أداة الذكاء الاصطناعي *ذاتها* تُنتج أنماط تفاعل مختلفة عبر تحت-مجموعات المتعلمين — مما يُفيد التصميم التكيّفي بدلاً من التقييم الأحادي المقاس.
+4. **عامِل البيئة بوصفها نظامًا.** تستخدم [[learning-environments-as-systems|بيئات التعلُّم بوصفها أنظمة]] مناهج الشبكات لتجسيم صورة الأجزاء والتفاعلات عبر المستويات.
+5. **صمّم للتمايز.** يكشف تحليل الشبكات غالباً أن أداة الذكاء الاصطناعي *ذاتها* تُنتج أنماط تفاعل مختلفة عبر تحت-مجموعات المتعلمين — مما يُفيد التصميم التكيّفي بدلاً من التقييم الأحادي المقاس.
 
 ## تحقق ENA من الحوار التعاوني المحاكى
 

@@ -1,7 +1,7 @@
 ---
 title: "eLearning プロンプト ライブラリ"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer による MIT ライセンスの GitHub コレクション。インストラクショナル・デザイナーと eLearning 開発者向けの、コピー＆ペーストできる AI プロンプト 22 件を、それぞれ適用する学習理論ごとにタグ付けして収録しています。"
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **理論のタグ付けは著者自身の対応づけです。** プロンプトが名乗った理論を実際に適用していると裏づけるものはありません。「エビデンスに基づく」「制作就緒」は著者の主張であり、各出力はコースに入れる前に専門内容の確認が必要です。
 - **ごく若く、未検証です。** 貢献者 1 名、スター 2 つ、2026 年 11 月時点で公開リリースなし、リポジトリの作成は 2026 年 11 月 15 日 —— 維持管理されたコレクションではなく、数日しか経っていません。採用数の計数は 2026 年 11 月 23 日時点の値です。
 - **MIT ライセンス。** 帰属を条件に、商用も含めて自由に複製・改変できます。
-
-## 関連コンセプト
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

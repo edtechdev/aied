@@ -8,8 +8,8 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-22T12:10:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -62,6 +66,16 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 - يُقاس التفكير الحاسوبي أيضًا بوصفه نزعة: في دراسة ألعاب مع تلاميذ الصف الخامس دامت ثلاثة أسابيع، مالت ميول التفكير الحاسوبي المُعدَّلة بالتقرير الذاتي إلى صفّ GenAI، 4.325 مقابل 4.037 (p = .046، η² الجزئي = .052، n = 78). ولم يفصل اختبار المعرفة الخوارزمية بينهما (80.7 مقابل 74.9)، فتتبع الميول والمعرفة منشأين مختلفين ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 تُعقّد مصائف المهارات الفرعية الدرجةَ الواحدة للتفكير الحاسوبي التي يبلّغ عنها تصميم قبل–بعد. أجرى [[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang (2026)]] 28 طالبًا جامعيًا تايلانديًا خارج تخصص الحوسبة عبر ثمانية أسابيع من جلسات ثلاث ساعات تقرن بين دورة [[design-thinking|تفكير التصميم]] من خمس خطوات وبناء تطبيقات منخفضة الشيفرة، مع تقييم عمل المشاريع على [[rubrics|سلّم تقدير]] من ثلاث نقاط. ارتفع متوسط التفكير الحاسوبي من 1.13 في الجلسة الأولى إلى 1.80 ثم 2.49، وكان التفكير الخوارزمي أقوى الخيوط عند 2.08 مع مسار من 1.46 إلى 1.93 ثم 2.86. أما التفكير المنطقي فبلغ متوسطه 1.54 وتحرك بالكاد بين أول جلستين، من 1.04 إلى 1.29، قبل أن يبلغ 2.29 في الثالثة — تذكير بأن المكاسب في أحد المكوّنات لا تعني أن غيره تبعها.
+
+## تفكير الأنظمة كممارسة للتفكير الحاسوبي
+
+تفكير الأنظمة أحد المجالات الأربعة في تصنيف التفكير الحاسوبي للرياضيات والعلوم الذي وضعه Weintrop وزملاؤه، إلى جانب ممارسات البيانات وممارسات حل المسائل الحاسوبية وممارسات النمذجة والمحاكاة. وتعريفه دقيق: **القدرة على تحديد حدود النظام وتخليق التفاعلات الجزئية في سلوك كلي**. وهو قدرة معرفية على مستوى المتعلّم — طريقة للاستدلال عن نظام — ويختلف عن الموقف على مستوى البيئة المتمثل في معاملة بيئة التعلّم نظامًا ([[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]]).
+
+وهو أيضًا المجال الذي يتعثّر فيه التقويم أولًا. رمّز [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch and Rebello (2026)]] 936 شرحًا مكتوبًا لطلاب في مقرر فيزياء حاسوبية تمهيدي وفق التصنيف، بعد معايرة خطّ أساس بشري على 10 طلاب (60 استجابة، Fleiss' κ = 0.53) ثم ترميز 50 طالبًا (300 استجابة) بالتصويت الغالب. وقد نما الطلاب أكثر ما يكون في ممارسات البيانات (p < 0.001، d = 1.03)، مع مكاسب متوسطة في حل المسائل الحاسوبية (d = 0.52) وفي تفكير الأنظمة (d = 0.45). لكن تفكير الأنظمة كان أقل المنشآت موثوقية لدى البشر والنماذج على حدّ سواء: فالاتفاق البشري κ = 0.51 واتفاق النموذج اللغوي الكبير κ = 0.48، مقابل κ = 0.90 لممارسات البيانات وκ = 0.78 للنمذجة والمحاكاة. ويذهب تفسير المؤلفين إلى أن الصعوبة تنبع من تعقيد المنشأ لا من نقص النموذج — فالمنشأ متعدد المكوّنات الذي يطلب من الطالب تحديدَ المكوّنات *و*شرحَ تفاعلاتها ونتائجها أصعبُ ترميزًا من منشأ جيّد التحديد. وأظهرت النمذجة والمحاكاة d = 0.00 لسبب لا علاقة له بذلك، وهو تأثير السقف: إذ بلغ المتوسط قبل التعليم 1.62 من أصل 2 أصلًا، فصار ذلك البند يقيس المعرفة السابقة لا النمو.
+
+والدلالة العملية مشكلة تصميم سلّم تقدير لا مشكلة نموذج. فتوصيتهم إعادةُ كتابة سلّم التقدير بحيث يُفصَل تحديد مكوّنات النظام عن شرح كيفية تفاعلها، وقراءةُ اتفاق الآلة المنخفض في منشأ متكامل إشارةً إلى مراجعة الأداة لا إلى التخلّي عن الأتمتة. وهو التحرّك نفسه الذي تصله بحوث [[rubrics|سلّم تقدير]] من جهة التصحيح: فالذي يحقّق المعايرة هو الأداة لا النموذج.
+
+وينتقل المنشأ إلى ما وراء الفيزياء. يُعدّ [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] تفكير الأنظمة إحدى القدرات التي يسمّيها Aoun *robot-proof* — التفكير النقدي وتفكير الأنظمة والرشاقة الثقافية — وهي التي تبنيها الممارسة ولا يبنيها التفويض. ويفصل [[huang-ai-literacy-vocational-problem-solving-2026|Huang and colleagues (2026)]] منشأهم «التفكير المنهجي» عنه، معاملين منه قياسًا ضيّقًا رباعي الأبعاد (التنظيم، والاستدلال، وترتيب الأولويات، والدمج) ورافضين صراحةً تسميته تفكير أنظمة بالمعنى الواسع. ويحذّر [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea and Valencia-Silva (2026)]] من أن الانخراط ليس تفكير أنظمة — فرقٌ يهمّ حين يُستخدم سلّم التقدير للشهادة بكفاءة لم يُكتب لقياسها.
 
 ## التفكير الحاسوبي والتحوّل من مستهلكي الذكاء الاصطناعي إلى منتجيه ومبتكريه ومصمميه
 

@@ -1,7 +1,7 @@
 ---
 title: Ensino de artes e mídia
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 translation_of: concepts/arts-and-media-education
-source_updated: "2026-11-17T17:06:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education, design-education]
+connected_concepts: [creativity, design-thinking, generative-ai, project-based-learning, embodied-learning, authentic-assessment, ai-literacy, equity-in-ai-education, virtual-and-augmented-reality, discipline-specific-aied, design-education, music-education, humanities-education]
 connected_articles: [project-based-digital-storytelling-art-design-2026, t2i-competence-paradox-2026, luminote-llm-vr-stage-lighting-education-2026, playing-bias-epistemic-games-text-to-image-2026, zhu-creative-agency-trust-genai-art-2026]
 ---
 

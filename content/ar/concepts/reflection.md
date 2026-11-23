@@ -1,7 +1,7 @@
 ---
 title: التأمل
 created: "2026-11-08T11:40:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
 translation_of: concepts/reflection
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
 connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026, nuzzo-ai-reflective-partner-tpack-2026]
@@ -119,6 +123,8 @@ connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-refl
 ويضيف [[teachers-reflective-regulators-cognition-offloading|Ho & Chen (2026)]] منظور العملية من 18 معلمًا في الصين القارية وهونغ كونغ، تنحلّ رواياتهم إلى إدراك الحاجة إلى استخدام الذكاء الاصطناعي التوليدي، وإعادة توزيع الإدراك، وإعادة الانخراط تأمليًا بعد الاستخدام. و[[reflective-triangle-model-teacher-ai-2026|نموذج المثلث التأملي (2026)]] يربط التأمل الذاتي والتأمل التعاوني وتأمل المجتمع عبر مجتمع تعلّم مهني في حالة أربعة أسابيع مع ستة معلمين، مع الذكاء الاصطناعي وسيطًا معرفيًا لا مقيّمًا.
 
 والتحضير يهم أيضًا استقلالًا عن الأداة. فـ[[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] قابلوا تدريبًا على استراتيجيات ما وراء المعرفة بوحدة دواء وهمي، مع نموذج لغوي كبير مهيأ بوصفه شريك تأمل [[socratic-method|سقراطيًا]] مقابل أدوات رقمية تقليدية، في تصميم 2 × 2 مع 60 معلمًا قبل الخدمة. وكان كلا الأثرين الرئيسين دالًّا في جودة الكتابة التأملية في الاختبار البعدي.
+
+يمكن أيضًا أن يُستثار التأمل بحدود الأداة نفسها. في دراسة حالة واحدة دامت ثلاثة أسابيع، تابع [[nuzzo-ai-reflective-partner-tpack-2026|Nuzzo وDe Marco (2026)]] معلّمة علوم إنسانية في مدرسة ثانوية تصمم درسًا عن *Laborintus* لـSanguineti: فكان قراءة الذكاء الاصطناعي التوليدي فصيحة لكنها أوقعت القصيدة في فئات عامة، وأنتجت الفجوة بين الاحتمال البلاغي والدقة التأويلية ما يسميه المؤلفان التنافر البيداغوجي وإعادة التأطير التأملي. فبدلاً من قبول المخرج أو طرحه، أعادت بناء ورقة العمل حول سؤال «ما الذي فاته الذكاء الاصطناعي؟»، محوّلةً التأويل المولّد إلى موضوع لفحص الطلاب. وبقي فعل المشاركة بين الإنسان والذكاء الاصطناعي غير متماثل طوال الوقت — فقد قدّم النظام بدائل، بينما بقيت المسؤولية المعرفية والبيداغوجية مع المعلّمة.
 
 وفي خرائط 26 دراسة عن الذكاء الاصطناعي في التعلّم الخدمي، كان التأمل أقل المراحل خدمةً — بلغتها ثلاث دراسات وغطّاها جميعًا في واحدة — فالمرحلة التي تحوّل الخدمة إلى تعلّم هي حيث دعم الذكاء الاصطناعي أرقّ ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 

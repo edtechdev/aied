@@ -1,7 +1,7 @@
 ---
 title: "ই-লার্নিং প্রম্পট লাইব্রেরি"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer-এর MIT-লাইসেন্সপ্রাপ্ত GitHub সংগ্রহ — ইনস্ট্রাকশনাল ডিজাইনার ও ই-লার্নিং ডেভেলপারদের জন্য ২২টি কপি-পেস্টযোগ্য এআই প্রম্পট, প্রতিটি তা প্রয়োগ করা শেখার তত্ত্ব দিয়ে চিহ্নিত।"
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **তত্ত্ব-চিহ্ন লেখকের নিজস্ব ম্যাপিং।** কোনো প্রম্পট তার উল্লিখিত তত্ত্ব প্রয়োগ করে কি না তা যাচাইকারী কিছুই নেই। «প্রমাণ-ভিত্তিক» ও «উৎপাদন-প্রস্তুত» হলো লেখকের দাবি, আর কোর্সে বসানোর আগে প্রতিটি আউটপুটে এখনও বিষয়-বিশেষজ্ঞের পরীক্ষা দরকার।
 - **খুব নতুন ও অপরীক্ষিত।** একজন অবদানকারী, দুটি তারকা, নভেম্বর ২০২৬ পর্যন্ত কোনো প্রকাশিত রিলিজ নেই, আর রিপোজিটরিটি ১৫ নভেম্বর ২০২৬-এ তৈরি — কয়েকদিনের বয়সী, পরিচালিত সংগ্রহ নয়। গ্রহণ-সংখ্যা ২৩ নভেম্বর ২০২৬ অনুযায়ী।
 - **MIT-লাইসেন্সপ্রাপ্ত।** কৃতিত্ব দিয়ে কপি ও অভিযোজনে বাধা নেই, বাণিজ্যিকভাবেও।
-
-## সংযুক্ত ধারণা
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

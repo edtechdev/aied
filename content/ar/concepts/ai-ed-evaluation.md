@@ -1,7 +1,7 @@
 ---
 title: "تقييم الذكاء الاصطناعي في التعليم (AI Ed Evaluation)"
 created: "2026-10-12T19:10:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
@@ -94,7 +98,7 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-ped
 
 ## الروابط بالمفاهيم ذات الصلة
 
-يجلس تقييم الذكاء الاصطناعي في التعليم في مركز أساليب قاعدة المعارف ومخاطرها. فهو يُشغّل [[assessment-validity|صلاحية التقويم]] و[[educational-measurement|القياس التعليمي]] و[[benchmark|المحك]] داخل [[assessment|التقويم]] و[[automated-assessment|التقويم الآلي]]. ويربط نداؤه للإشراف البشري بـ[[human-in-the-loop-ai|البشر في الحلقة]] و[[teacher-role|دور المعلّم]]، بينما يربط تركيزه على الموثوقية بـ[[hallucination-risk|خطر الهلوسة]] و[[automated-assessment|التقويم الواعي بالذكاء الاصطناعي]] و[[trust-calibration|معايرة الثقة]]. ويربط التمييز بين تقييم الأداء وتقييم التعلّم بـ[[genai-performance-vs-learning|الأداء مقابل التعلّم]] وبـ[[student-modeling|نمذجة الطالب]]؛ وتقييم الوكلاء التربويين بـ[[intelligent-tutoring|أنظمة التعليم الذكية]] و[[llm-training-and-fine-tuning|تدريب النماذج اللغوية وضبطها الدقيق]] و[[pedagogical-safety|السلامة التربوية]].
+يجلس تقييم الذكاء الاصطناعي في التعليم في مركز أساليب قاعدة المعارف ومخاطرها. فهو يُشغّل [[assessment-validity|صلاحية التقويم]] و[[educational-measurement|القياس التعليمي]] و[[benchmark|المحك]] داخل [[assessment|التقويم]] و[[automated-assessment|التقويم الآلي]]. ويربط نداؤه للإشراف البشري بـ[[human-in-the-loop-ai|البشر في الحلقة]] و[[teacher-role|دور المعلّم]]، بينما يربط تركيزه على الموثوقية بـ[[hallucination-risk|خطر الهلوسة]] و[[automated-assessment|التقويم الواعي بالذكاء الاصطناعي]] و[[trust-calibration|معايرة الثقة]]. ويربط التمييز بين تقييم الأداء وتقييم التعلّم بـ[[genai-performance-vs-learning|الأداء مقابل التعلّم]] وبـ[[student-modeling|نمذجة الطالب]]؛ وتقييم الوكلاء التربويين بـ[[intelligent-tutoring|أنظمة التعليم الذكية]] و[[llm-training-and-fine-tuning|تدريب النماذج اللغوية وضبطها الدقيق]] و[[pedagogical-safety|السلامة التربوية]]. والمستوى الذي تُجرى عنده ذلك التقييم — المتعلّم أو المقرّر أو المؤسسة أو السياسة — هو قرار في ذاته، وهو موضوع [[learning-environments-as-systems|بيئات التعلّم بوصفها أنظمة]].
 
 ## تقييم مكاسب التعلّم
 

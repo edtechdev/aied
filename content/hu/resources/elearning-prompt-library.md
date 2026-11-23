@@ -1,7 +1,7 @@
 ---
 title: "E-learning promptkönyvtár"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer MIT-licencű GitHub-gyűjteménye 22 másolható-beilleszthető MI-promptból oktatásszervezőknek és e-learning fejlesztőknek, mindegyik az általa alkalmazott tanuláselmélettel jelölve."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Oktatásszervezőknek és oktatástechnológia-fejlesztőknek, akik elmélettel 
 - **Az elméletjelölés a szerző saját leképezése.** Semmi sem igazolja, hogy egy prompt azt az elméletet alkalmazza, amelyet megnevez. A „bizonyítékokon alapuló" és a „gyártásra kész" a szerző állításai, és minden kimenetet még tárgyi ellenőrzésen kell átesni, mielőtt kurzusba kerül.
 - **Nagyon fiatal és nem ellenőrzött.** Egy közreműködő, két csillag, nincs közzétett kiadás 2026 novemberéig, és egy 2026. november 15-én létrehozott adattár — napokra öreg, nem tartott gyűjtemény. Az adoptációs számok 2026. november 23-án olvasva.
 - **MIT licenc.** Szabad másolni és adaptálni, kereskedelmi céllal is, szerzői megjelöléssel.
-
-## Kapcsolódó fogalmak
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

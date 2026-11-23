@@ -8,8 +8,8 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-22T12:10:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
 connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026, al-washahi-ai-adaptive-feedback-meta-analysis-2026]
@@ -99,6 +103,8 @@ connected_resources: [my-essay-feedback]
 كيف تُنتَج التغذية الراجعة *ينتمي* إلى تلك القائمة أيضاً. في نظام تقييم كتابة آلي معياري للمقالات الحجاجية، أنتج [[llm-training-and-fine-tuning|الضبط الدقيق المُراقب]] على 90 مقالة مُعلَّمة من المدرّبين تغذية راجعة غير قابلة للاستخدام — إذ تجاوز GPT-4o المضبوط نافذة سياقه البالغة 8,000 رمز في كل استنتاج وأصدر LLaMA-3.3-70B المضبوط JSON لا يُحلَّل — في حين ولّد موجّه Claude 3.7 مباشرةً 630 تعليقاً دقيقاً عبر 40 مقالة حكم 94.69% منها المدرّبون بأنها ضرورية وفعّالة، مما دفع المؤلفين إلى الاستنتاج بأنه في مهمة توليد غير حتمية يمكن أن يتفوّق الموجّه على الضبط الدقيق ([[wraft-automated-writing-evaluation-argumentative-2026|لبيب وآخرون، 2026]]).
 
 النموذج الذي يلعب دور المتعلّم ليس هو النموذج الذي ينبغي أن يحكم على اللقاء. في نموذج [[kim-ai-simbot-nursing-communication-2026|Kim and Pankhania’s (2026)]] AI SimBot، أجرى 98 طالبًا قبل الترخيص في التمريض مقابلة مع مريض افتراضي يبلغ 17 عامًا يؤدي دوره GPT-4o، فتبيّن أن تغذية ذلك النموذج الراجعة غير دقيقة وإيجابية أكثر مما ينبغي مقابل سلّم تقدير الهيئة. وانتقلت مهمة المُقيِّم إلى O3-mini، الذي أعطى أحكامًا أوسع تأسيسًا في سلّم التقدير، بتكلفة نحو خمسين سنتًا للطالب لخط معالجة الخطاب بكامله. فالإخلاص للشخصية والدقة التقييمية متطلبان منفصلان، ولا يمكن افتراض أن نشرًا واحدًا يحققهما معًا.
+
+- **مكاسب الدقة السطحية لا تصل إلى الحجاج.** وجد تحليل تجميعي بتوجيهات PRISMA لـ44 دراسة (نحو 28,400 طالبًا في 19 دولة) أثرًا مجمّعًا متوسطًا لأنظمة التغذية الراجعة التكيّفية (g = 0.42) لكن بتدرّج حاد: تحسّن النحو والدقة السطحية أكثر (g = 0.74) بينما لم تُظهر نوعية الحجاج أثرًا ذا دلالة (g = 0.09) ([[al-washahi-ai-adaptive-feedback-meta-analysis-2026|الوشاحي، 2026]]).
 
 ## أبعاد الجودة
 

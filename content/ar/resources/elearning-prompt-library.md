@@ -1,7 +1,7 @@
 ---
 title: "مكتبة مطالبات التعلّم الإلكتروني"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "مجموعة GitHub المرخَّصة بـMIT من Sunil Iyer تضم 22 مطالبة ذكاء اصطناعي جاهزة للنسخ واللصق لمصمّمي التعليم ومطوّري التعلّم الإلكتروني، وكل واحدة موسومة بنظرية التعلّم التي تطبّقها."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **وسم النظريات اجتهاد خاص بالمؤلف.** لا شيء يتحقق من أن المطالبة تطبّق النظرية التي تسمّيها. و«مبني على الأدلة» و«جاهز للإنتاج» ادعاءان للمؤلف، وكل مخرَج يحتاج فحصاً من مختص بالمحتوى قبل أن يدخل مقرراً.
 - **حديث جداً وغير مُختبَر.** مساهم واحد، ونجمتان، ولا إصدارات منشورة حتى نوفمبر 2026، ومستودع أُنشئ في 15 نوفمبر 2026 — عمره أيام، لا مجموعة تُدار. وأعداد التبنّي كما قُرئت في 23 نوفمبر 2026.
 - **مرخَّصة بـMIT.** يسمح بالنسخ والتكييف، بما في ذلك تجارياً، مع نسب العمل.
-
-## المفاهيم المتصلة
-
-[[prompt-engineering]]، [[learning-design]]، [[learning-theories]]

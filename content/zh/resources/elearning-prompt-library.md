@@ -1,7 +1,7 @@
 ---
 title: "eLearning 提示库"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer 的 MIT 许可 GitHub 合集，收录 22 条面向教学设计师和 eLearning 开发者的现成 AI 提示，每条都标注了它所应用的学习理论。"
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ connected_concepts: [prompt-engineering, learning-design, learning-theories, gen
 - **理论标注是作者自己的对应。** 没有任何东西能验证一条提示真的应用了它所标注的理论。“Evidence-based”和“production-ready”是作者的主张，每份输出进入课程之前仍需做专业内容核查。
 - **非常年轻，且未经审核。** 截至 2026 年 11 月，只有一位贡献者、2 颗星、没有已发布的版本，仓库创建于 2026 年 11 月 15 日——只有几天历史，并非一个受维护的合集。采用数据为 2026 年 11 月 23 日读取的值。
 - **MIT 许可。** 可自由复制和改编，包括商业用途，只需署名。
-
-## 相关概念
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

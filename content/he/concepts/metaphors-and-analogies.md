@@ -10,7 +10,7 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/metaphors-and-analogies
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

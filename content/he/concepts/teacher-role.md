@@ -1,7 +1,7 @@
 ---
 title: הוראה
 created: "2026-10-12T19:30:00-04:00"
-updated: "2026-11-23T10:00:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-22T12:23:33-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 מורים שעודדו לצפות בדוח המטלה העלו את השלמת המטלה הבאה (Anderson-Rubin F = 4.092, p = 0.044; לפחות 2 נקודות אחוז בסך הכל). בכיתות מתחת ל-44 תלמידים הרווח היה לפחות 24.5 נקודות אחוז (F = 7.475, p = 0.007); מורים עם יותר מ-43 תלמידים כבר צפו בדוחות בשיעורים גבוהים בין אם עודדו ובין אם לא (77% לעומת 75%) — כנראה תמיד-מקבלים בלי מקום לזוז. ולכן עידוד חשוב ביותר היכן ששימוש בדוחות עוד יכול לגדול.
 
 - Lan ו-Chen (2026) מציעים לשפוט מחברות של מורה לפי מקור: סוכן נחשב לתאום של מורה רק אם סמכותו נגזרת ממורה אחד בשם שממשיך לשאת באחריות, תרגם את שיפוטו למפרט שניתן לבדיקה, ומרחיב יכולת בלי להעתיק מחברות, בעוד ברירות מחדל של פלטפורמה מניבות פרוקסי ולא תאום ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
+
+**האצלה מעוגנת בסטנדרט.** [[farooq-standard-anchored-delegation-teachers-2026|Farooq, Khan and Raza (2026)]] ראיינו 13 מורים בפנג'אב, פקיסטן, ומצאו שהם האצילו רכיב משימה לבינה מלאכותית יוצרת כאשר סטנדרט חיצוני — ספר לימוד, סילבוס או מחוון — הגדיר פלט נכון שהם יכלו ליישם על התוצאה; אף אחד לא קיבל מטרות למידה שנוצרו על ידי בינה מלאכותית. הימצאות סטנדרט לא תמיד הספיקה: מספר מורים בבתי ספר ממשלתיים עדיין סירבו לסימון בבינה מלאכותית כשהיו מפתחות תשובות.
 
 ### המטפורה של הניצוח
 

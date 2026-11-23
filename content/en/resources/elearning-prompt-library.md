@@ -1,7 +1,7 @@
 ---
 title: "eLearning Prompt Library"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T09:12:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyer's MIT-licensed GitHub collection of 22 copy-paste AI prompts for instructional designers and eLearning developers, each tagged with the learning theory it applies."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -44,7 +44,3 @@ Instructional designers and educational technology developers who want a theory-
 - **Theory tagging is the author's own mapping.** Nothing validates that a prompt applies the theory it names. "Evidence-based" and "production-ready" are the author's claims, and each output still needs subject-matter checking before it goes into a course.
 - **Very young and unvetted.** One contributor, two stars, no published releases as of November 2026, and a repository created on 15 November 2026 — days old, not a maintained collection. Adoption counts are as read on 23 November 2026.
 - **MIT licensed.** Free to copy and adapt, including commercially, with attribution.
-
-## Connected Concepts
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

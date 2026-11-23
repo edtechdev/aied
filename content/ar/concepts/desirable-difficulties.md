@@ -8,8 +8,8 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026, yusuf-genai-expertise-reversal-cognitive-load-2026]
@@ -90,6 +94,8 @@ connected_resources: [agentic-builds]
 
 - **النموذج نفسه، حاجزا حماية، نتيجتان متعاكستان:** الطلاب الذين أُعطي لهم GPT-4 بلا قيود استخدموه عكازًا وأدّوا أسوأ من الضوابط بمجرد إزالته، بينما أدّى الطلاب الذين أُعطي لهم مُعلّمٌ محميّ بحواجز حماية كالضوابط — فالاحتكاك، لا النموذج، هو ما قرر ما إذا كانت الأداة تُفيد ([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al. (2026)]]).
 - **تصميم الكفاح بإعادة إدخاله.** يمكن للتصاميم التعليمية أن تحفظ المعالجة المُنتجة بقصد: روتينات "المسودة أولًا"، والإرشاد الذي يُعطي تلميحات لا أجوبة، والتغذية الراجعة المؤجّلة، وبروتوكولات الشرح التعليمي/التوضيح. وهذه هي السقالات الملموسة المستكشفة تحت [[reducing-ai-misuse]] و[[structured-llm-feedback-programming]]. وامتدادٌ مفاهيمي عام 2026 ([[friction-paradox-generative-ai-education-abroad-2026|Gupta]]) يدفع المنطق نفسه خارج المهام الأكاديمية المُهيكلة إلى الصعوبة داخل اللقاءات العلائقية: في التعليم في الخارج تجادل بأن السؤال التربوي ليس كم من الذكاء الاصطناعي التوليدي موجود بل أيّ الصعوبات يُذيبها، وتقترح *تدرجًا وسيطًا* يرتّب الاستخدامات بحسب [[agency|الفاعلية]] التأويلية المنقولة إلى النظام لا بحسب حجم الاستخدام.
+
+**التوجيه الذي يُعين المبتدئين قد يضرّ الخبراء.** عبر أربع تجارب مدّة كلٍّ منها ثمانية أسابيع مع طلاب علوم حاسب في السنة الثالثة، خفّض دعم GenAI الحمل الدخيل ورفع أداء البرمجة المستقل لدى المتعلّمين ذوي الخبرة الأقل مع إنتاجه مكاسب أصغر لذوي الخبرة الأعلى، وأنتج التوجيه المفصّل انعكاسًا تقاطعيًا للخبرة — رافعًا الحمل الدخيل ومضعِفًا الأداء بين الأكثر معرفة ([[yusuf-genai-expertise-reversal-cognitive-load-2026|Yusuf et al., 2026]]). فالصعوبة المرغوبة ليست موحّدة: قيمتها تتوقف على ما إذا كان الدعم يظلّ ضروريًا معرفيًا للمتعلّم.
 
 **حرف U المقلوب ومفارقة الجهد.** يُقدّم [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] أحدث صياغة قاطعة لسبب كون إزالة الاحتكاك في الذكاء الاصطناعي غير مفيدة تلقائيًا. فيُميّزون الذكاء الاصطناعي عن [[ai-technologies|تقنيات]] توفير العمل الأقدم على أساسين. فهو يستهدف العمل الفكري والإبداعي لا العمل الجسدي أو الكتابي، وإزالة الاحتكاك فيه *متطرفة*. فالتقنيات الأقدم أزالت الاحتكاك الزائد، "العقائق المُملّة أو المستحيلة التي تُقدّم فائدة قليلة للتعلّم أو للمعنى". أما [[conversational-ai|روبوت المحادثة]]، في المقابل، فيتيح للمتعلّم أن ينتقل من توليد الأفكار إلى التقييم "دون بذل جهد ذي معنى، ودون التساؤل عن المخرجات، ودون الانخراط في العمليات المعرفية التي تُنمّي التملك أو الاستبقاء أو الفكر النقدي". وادعاؤهم المنظّم أن علاقة الجهد بالمعنى علاقةٌ منحنية: فالاحتكاك المعتدل يُعزّز المعنى والدافعية بينما يُغرق الاحتكاك المفرط، لذا فخطر الذكاء الاصطناعي هو الإفراط في ناحية الاحتكاك القليل لا ناحية الفائض. ونتيجتان تهمان تربويًا — الجهد نفسه مهارة قابلة للتدريب (إذ إن مكافأة العملية لا المنتج تُزيد الميل إلى السعي والمواصلة)، وفوائد الجهد الدافعية تتآكل تحديدًا في المجالات التي يحل الذكاء الاصطناعي فيها محله، مُنتجةً دورةً من الاعتماد المتزايد ([[cognitive-offloading]]، [[motivation|الدافعية]]).
 

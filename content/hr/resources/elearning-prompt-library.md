@@ -1,7 +1,7 @@
 ---
 title: "Knjižnica poticaja za e-learning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Sunil Iyerova MIT-licencirana GitHub zbirka od 22 AI poticaja za kopiranje i lijepljenje, namijenjenih obrazovnim dizajnerima i e-learning programerima, svaki označen teorijom učenja koju primjenjuje."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Za obrazovne dizajnere i programere obrazovnih tehnologija koji žele početnu t
 - **Označavanje teorija je autorovo vlastito mapiranje.** Ništa ne potvrđuje da poticaj primjenjuje teoriju koju navodi. „Temeljeno na dokazima" i „spremno za proizvodnju" su autorove tvrdnje, a svaki rezultat još treba provjeriti iz predmetnog područja prije nego što uđe u tečaj.
 - **Vrlo mlado i neprovjereno.** Jedan doprinositelj, dvije zvjezdice, nema objavljenih izdanja do studenoga 2026., i repozitorij stvoren 15. studenoga 2026. — star nekoliko dana, a ne održavana zbirka. Brojevi prihvaćanja onako kako su pročitani 23. studenoga 2026.
 - **MIT licenca.** Slobodno se kopira i prilagođava, uključujući i komercijalno, s navođenjem autora.
-
-## Povezani pojmovi
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]

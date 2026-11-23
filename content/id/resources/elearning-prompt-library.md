@@ -1,7 +1,7 @@
 ---
 title: "Pustaka Prompt eLearning"
 created: "2026-11-23T09:12:00-05:00"
-updated: "2026-11-23T15:30:00-05:00"
+updated: "2026-11-23T13:10:00-05:00"
 type: resource
 summary: "Koleksi GitHub berlisensi MIT oleh Sunil Iyer: 22 prompt AI siap salin-tempel untuk perancang instruksional dan pengembang eLearning, masing-masing ditandai dengan teori belajar yang diterapkannya."
 url: https://github.com/linuxsunil/elearning-prompt-library
@@ -18,7 +18,7 @@ technology: [generative-ai, prompt-engineering]
 audience: [instructional designers, educational technology developers, curriculum designers]
 connected_resources: []
 translation_of: resources/elearning-prompt-library
-source_updated: "2026-11-23T09:12:00-05:00"
+source_updated: "2026-11-23T13:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,3 @@ Untuk perancang instruksional dan pengembang teknologi pendidikan yang mengingin
 - **Penandaan teori adalah pemetaan milik penulis.** Tidak ada yang memvalidasi bahwa sebuah prompt menerapkan teori yang disebutkannya. "Berbasis bukti" dan "siap produksi" adalah klaim penulis, dan setiap keluaran masih perlu diperiksa substansinya sebelum masuk ke dalam kursus.
 - **Sangat muda dan belum ditinjau.** Satu kontributor, dua bintang, tidak ada rilis terbitan per November 2026, dan repositori dibuat pada 15 November 2026 — berumur hitungan hari, bukan koleksi yang dipelihara. Jumlah adopsi sebagaimana dibaca pada 23 November 2026.
 - **Berlisensi MIT.** Bebas disalin dan diadaptasi, termasuk untuk komersial, dengan atribusi.
-
-## Konsep terkait
-
-[[prompt-engineering]], [[learning-design]], [[learning-theories]]
