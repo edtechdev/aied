@@ -5,8 +5,8 @@ technology: [ai-technologies, generative-ai, learning-analytics, machine-learnin
 confidence: medium
 created: "2026-10-12T23:59:00-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
 connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
@@ -47,7 +51,7 @@ connected_articles: [at-risk-students-ml-prediction, trace-course-grade-predicti
 
 وفي جانب [[knowledge-tracing]]، يُظهر [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] أن نموذجاً متكرراً يمكن ضبطه على بنية [[curriculum-design|منهاج]] معيّن: فنموذج OKT يعامل مخرجات مقررات التعليم القائم على النتائج كمفاهيم معرفية، ويربط خرائط ألفة OBE المُصدَّقة من الخبراء (العلاقات بين مخرجات المقرر والبرنامج) مع شبكة عصبية معزوزة الذاكرة لأثر المخرجات المتقاطع، ويزامن عمود GRU الفقري مع تعبيرات BERT المُكيّفة للمجال — فوصل إلى AUC قدره 89.81% وتفوّق على DKT، وDKVMN، وEKT، وSimpleKT على بيانات برامج هندسية حيّة.
 
-**التشخيص من الأجوبة العددية الجدولية.** يُظهر [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] أشجاراً معزوزة التدرّج تحلّ جانب *التشخيص* في التدريس في مجال دراسي ظلّ طويلاً مغلقاً أمام الذكاء الاصطناعي: فبالنسبة لأسئلة الصيغ المحسوبة في الاقتصاد الهندسي، حيث تفتقر حلول الطلاب المكتوبة بخط اليد إلى بيانات رقمية بنيوية، يدرّبون عموداً فقرياً متعدد الأوسمة من نوع [[intelligent-tutoring|XGBoost]] مخصصاً لكل سؤال لربط الأجوبة العددية الوسيطة والنهائية المُقدَّمة بأوسمة أخطاء مُعايير المدرّس (دقة متوسطة 0.81، استدعاء 0.79، صحة 0.65). وتحسين بيانات حجب عشوائي — بحجب خصائص المُدخل إلى «NaN» باحتمالات مختلفة — يحفظ التبعيات المنطقية للحلول الجدولية أفضل من طرق الاستكمال مثل SMOTE ويُحسّن التشخيص بشكل دال، وإدراج الأجوبة الوسيطة هو الأكثر نفعاً. وهذا دليل على أن النماذج الشجرية زائد التحسين الواعي بالبنية يمكنها تدشين التغذية الراجعة التعليمية حيث تفتقر المناهج التوليدية إلى بيانات التدريب.
+**التشخيص من الأجوبة العددية الجدولية.** يُظهر [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] أشجاراً معزوزة التدرّج تحلّ جانب *التشخيص* في التدريس في مجال دراسي ظلّ طويلاً مغلقاً أمام الذكاء الاصطناعي: فبالنسبة لأسئلة الصيغ المحسوبة في الاقتصاد الهندسي، حيث تفتقر حلول الطلاب المكتوبة بخط اليد إلى بيانات رقمية بنيوية، يدرّبون عموداً فقرياً متعدد الأوسمة من نوع [[intelligent-tutoring|XGBoost]] مخصصاً لكل سؤال لربط الأجوبة العددية الوسيطة والنهائية المُقدَّمة بأوسمة أخطاء [[rubrics|مُعايير المدرّس]] (دقة متوسطة 0.81، استدعاء 0.79، صحة 0.65). وتحسين بيانات حجب عشوائي — بحجب خصائص المُدخل إلى «NaN» باحتمالات مختلفة — يحفظ التبعيات المنطقية للحلول الجدولية أفضل من طرق الاستكمال مثل SMOTE ويُحسّن التشخيص بشكل دال، وإدراج الأجوبة الوسيطة هو الأكثر نفعاً. وهذا دليل على أن النماذج الشجرية زائد التحسين الواعي بالبنية يمكنها تدشين التغذية الراجعة التعليمية حيث تفتقر المناهج التوليدية إلى بيانات التدريب.
 
 ويُقدّم المنظور الميداني للمجموعة الفرعية من [[reinforcement-learning|التعلم المعزّز]] [[riedmann-reinforcement-learning-education-review-2026|مراجعة Riedmann, Schaper & Lugrin (2025)]] المنهجية لـ89 دراسة في التعليم المعزّز: فهي تُؤكّد أن التعلم المعزّز سلالة كبرى في تعلّم الآلة لاستحداث سياسات التدريس والسقالة التكيّفية، لكنها تجد المناهج الكلاسيكية (التعلّم Q) أكثر فعالية ثباتاً من التعلم المعزّز العميق (61% مقابل 36% تفوّق دال) وتُشير إلى أن أكثر من نصف الدراسات لا تُجري أي اختبار إحصائي — وهو تحفّظ [[research-methods-aied|منهجي]] يطابق هموم التحقق أدناه.
 

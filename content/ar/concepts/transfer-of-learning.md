@@ -1,7 +1,7 @@
 ---
 title: نقل التعلّم
 created: "2026-10-12T18:36:00-04:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -20,7 +20,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
 connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]
 ---

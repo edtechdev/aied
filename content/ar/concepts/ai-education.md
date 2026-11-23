@@ -1,7 +1,7 @@
 ---
 title: الذكاء الاصطناعي في التعليم
 created: "2026-09-22T14:35:26-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-22T11:55:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -138,7 +142,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 ## التقييم والقياس
 يغيّر الذكاء الاصطناعي طريقة تقييمنا المتعلّمين وطريقة تقويمنا لأنظمة الذكاء الاصطناعي نفسها:
 
-- **التقييم والتغذية الراجعة:** [[assessment|التقييم]]، و[[formative-assessment|التقييم التكويني]]، و[[summative-assessment|التقييم الختامي]]، و[[authentic-assessment|التقييم الأصيل]]، و[[eportfolio|الملف الإلكتروني]]، و[[feedback|التغذية الراجعة]] و[[feedback-literacy|الثقافة في التغذية الراجعة]]، و[[ai-feedback-quality|جودة التغذية الراجعة بالذكاء الاصطناعي]]، و[[peer-assessment|تقييم الأقران]]، و[[oral-assessment|التقييم الشفهي]]، و[[automated-assessment|التقييم الآلي]]، و[[automated-essay-scoring|التصحيح الآلي للمقالات]]، و[[automated-question-generation|التوليد الآلي للأسئلة]]. ولأن النموذج يستطيع الآن أن ينتج عملًا منجزًا مقنعًا عند الطلب، تُبرز قاعدة المعارف القدرة التي تبقى للمتعلّم نفسه: [[evaluative-judgment|الحكم التقييمي]]، أي القدرة على تقدير جودة عمله هو وعمل أقرانه ومخرجات الذكاء الاصطناعي في ضوء معايير معلَّلة. وهو المُتغيّر الذي تتقارب عليه عدة دراسات في التغذية الراجعة والتقييم الأصيل: شرط التغذية الراجعة المهجّن الذي تفوّق على التغذية الراجعة المباشرة بالذكاء الاصطناعي في تجربة متعددة المواقع، وفجوة الاستدامة في التغذية الراجعة التكوينية بالذكاء الاصطناعي، والخطوة العملية المتمثلة في تقييم القرارات التي يتخذها الطلاب لا المخرَج وحده؛ وهو سبب جوهري في أن إعادة التصميم في عصر الذكاء الاصطناعي تنتقل من [[ai-detection|الكشف]] نحو مهام تصمد نزاهتها عند الفحص. ويُقيَّم [[group-work|العمل الجماعي]] بالمثل على أساس العملية والمخرَج معًا، حيث يتعيّن على الفرق أن تتفاوض على أي انخراط مع الذكاء الاصطناعي وأي نوع منه يُعدّ مقبولًا.
+- **التقييم والتغذية الراجعة:** [[assessment|التقييم]]، و[[formative-assessment|التقييم التكويني]]، و[[summative-assessment|التقييم الختامي]]، و[[authentic-assessment|التقييم الأصيل]]، و[[eportfolio|الملف الإلكتروني]]، و[[feedback|التغذية الراجعة]] و[[feedback-literacy|الثقافة في التغذية الراجعة]]، و[[ai-feedback-quality|جودة التغذية الراجعة بالذكاء الاصطناعي]]، و[[peer-assessment|تقييم الأقران]]، و[[oral-assessment|التقييم الشفهي]]، و[[automated-assessment|التقييم الآلي]]، و[[automated-essay-scoring|التصحيح الآلي للمقالات]]، و[[automated-question-generation|التوليد الآلي للأسئلة]]، و[[rubrics|سلّم التقدير]]. فسُلَّم التقدير هو الأداة التي تحمل المعايير: الأبعاد المُصرَّح بها وواصفات المستويات التي تجعل قراءة عملٍ ما قابلة للتكرار، وهو المواصفة التي يقرؤها النموذج عندما يصحّح. ولأن النموذج يستطيع الآن أن ينتج عملًا منجزًا مقنعًا عند الطلب، تُبرز قاعدة المعارف القدرة التي تبقى للمتعلّم نفسه: [[evaluative-judgment|الحكم التقييمي]]، أي القدرة على تقدير جودة عمله هو وعمل أقرانه ومخرجات الذكاء الاصطناعي في ضوء معايير معلَّلة. وهو المُتغيّر الذي تتقارب عليه عدة دراسات في التغذية الراجعة والتقييم الأصيل: شرط التغذية الراجعة المهجّن الذي تفوّق على التغذية الراجعة المباشرة بالذكاء الاصطناعي في تجربة متعددة المواقع، وفجوة الاستدامة في التغذية الراجعة التكوينية بالذكاء الاصطناعي، والخطوة العملية المتمثلة في تقييم القرارات التي يتخذها الطلاب لا المخرَج وحده؛ وهو سبب جوهري في أن إعادة التصميم في عصر الذكاء الاصطناعي تنتقل من [[ai-detection|الكشف]] نحو مهام تصمد نزاهتها عند الفحص. ويُقيَّم [[group-work|العمل الجماعي]] بالمثل على أساس العملية والمخرَج معًا، حيث يتعيّن على الفرق أن تتفاوض على أي انخراط مع الذكاء الاصطناعي وأي نوع منه يُعدّ مقبولًا.
 - **القياس والصدق:** [[assessment-validity|صدق التقييم]]، و[[psychometrically-aware-ai|الذكاء الاصطناعي المدرك للقياس النفسي]]، و[[educational-measurement|القياس التربوي]]، و[[item-response-theory|نظرية الاستجابة للمفردة]]، و[[self-report-measures|مقاييس التقرير الذاتي]] (وهي الأداة وراء نصيب كبير من هذه الأدلة، وحدّ متكرر منها)، و[[ai-detection|كشف الذكاء الاصطناعي]]، و[[remote-proctoring|المراقبة عن بُعد]]، و[[academic-integrity|النزاهة الأكاديمية]].
 
 ## مناهج البحث والتقويم

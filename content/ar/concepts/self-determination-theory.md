@@ -1,7 +1,7 @@
 ---
 title: نظرية تحديد الذات
 created: "2026-10-13T00:04:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
 connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
@@ -60,7 +64,7 @@ connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning
 
 - **ChatGPT وحاجات SDT في تعلّم اللغات:** استخدم [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] عدسة SDT مع 25 طالباً جامعياً ماليزياً، فوجد أن ChatGPT يدعم الاستقلالية والترابط والكفاءة في [[language-learning|تعلّم اللغة الإنجليزية]] — بما يعزّز مهام القواعد والكتابة والمحادثة مع إفساح المجال لـ[[teacher-role|المعلمين]] للتركيز على التدريب العالي المستوى.
 
-**SDT مطبَّقاً على ممارسة المدرّسين أنفسهم بوساطة الذكاء الاصطناعي.** استخدم [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] SDT كعدسة تفسيرية على كيفية دمج المدرّسين لـ[[learning-analytics|تحليلات التعلّم]] والذكاء الاصطناعي التوليدي في [[learning-design|تصميم التعلّم]] — فوجد أن دعم الحاجات الأساسية للمدرّسين (الاستقلالية، والكفاءة، والترابط) يُعزّز [[problem-solving]] الإبداعي الذي تتطلبه أعمالهم التصميمية. وفي تحليلهما بـENA، كان استخدام الذكاء الاصطناعي التوليديا مرتبطاً بالتصميم لتحديد الذات للطلاب (مثل الإنشاء المشترك لمعايير التقويم مع الطلاب)، بما يمدّ SDT من المتعلّمين إلى المعلمين الذين يبنون بيئات وسيطة بالذكاء الاصطناعي داعمة للحاجات.
+**SDT مطبَّقاً على ممارسة المدرّسين أنفسهم بوساطة الذكاء الاصطناعي.** استخدم [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] SDT كعدسة تفسيرية على كيفية دمج المدرّسين لـ[[learning-analytics|تحليلات التعلّم]] والذكاء الاصطناعي التوليدي في [[learning-design|تصميم التعلّم]] — فوجد أن دعم الحاجات الأساسية للمدرّسين (الاستقلالية، والكفاءة، والترابط) يُعزّز [[problem-solving]] الإبداعي الذي تتطلبه أعمالهم التصميمية. وفي تحليلهما بـENA، كان استخدام الذكاء الاصطناعي التوليديا مرتبطاً بالتصميم لتحديد الذات للطلاب (مثل الإنشاء المشترك لـ[[rubrics|سلالم التقدير]] مع الطلاب)، بما يمدّ SDT من المتعلّمين إلى المعلمين الذين يبنون بيئات وسيطة بالذكاء الاصطناعي داعمة للحاجات.
 
 وبالنسبة للمدرّسين أنفسهم، فالتعاون مع الذكاء الاصطناعي يسير في الاتجاهين: فدراسة بثلاث موجات على 468 معلّماً جامعياً وجدت أنه رفع المشاركة في العمل عبر الإتاحة النفسية وخفضها عبر اغتراب العمل، وعزّز [[teacher-ai-competency|الكفاءة الرقمية]] المسار الأول وأضعفت الثاني ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 

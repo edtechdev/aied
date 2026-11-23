@@ -13,8 +13,8 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

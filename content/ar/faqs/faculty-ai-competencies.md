@@ -1,14 +1,14 @@
 ---
 title: "ما الكفاءات التي يحتاجها أعضاء هيئة التدريس فيما يتعلق بالذكاء الاصطناعي؟"
 created: "2026-10-12T18:45:00-04:00"
-updated: "2026-11-15T16:08:20-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

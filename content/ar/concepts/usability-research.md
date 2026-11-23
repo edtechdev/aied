@@ -8,7 +8,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [research-methods-aied, qualitative-research, human-ai-collaboration, student-experience, ai-ed-evaluation, learning-design, design-thinking, intelligent-tutoring]
 connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivemath-2025, supplynet-visual-exploratory-learning, anvil-ai-educational-animations, code-anchor-multi-view-visualization, learn-framework-responsible-genai-pbl-2026, feedback-futures-genai, llm-chatbots-cs-multiple-choice, conversational-ai-agents-umbrella-review-2026]
 ---
@@ -55,7 +59,7 @@ connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivem
 - **التفاعل بين الإنسان والروبوت و[[conversational-ai|الذكاء الاصطناعي الحواري]].** [[icub-humanoid-storytelling-llm-hri-2025|دراسة الروبوت البشري الراوي]] دراسة صريحة لقابلية استخدام تفاعل مدفوع بـ[[llm]]؛ و[[conversational-ai-agents-umbrella-review-2026|مراجعة مظلة لوكلاء الذكاء الاصطناعي الحواري]] تُحدد قابلية الاستخدام وجودة التفاعل كسمة متكررة.
 - **التصميم والتنقية.** تُغذّي نتائج قابلية الاستخدام التصميم التكراري (انظر [[design-thinking]] و[[learning-design]])، محسّنةً الأدوات قبل اختبار الفعالية أو جنباً إلى جنب معه.
 - **أداة واحدة عبر سياقات، والسقف الذي يُحدّها.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] ثبتوا المجال والمهمة والأداة في حين تفاوت المستوى التعليمي، فتُقارن تقييمات 144 طالباً لـ893 جواب تغذية راجعة و237 تقريراً سياقات لا مجالات دراسية — وتفاوتت الفائدة المُدركة وحدها عبر المستويات. تسمّي الدراسة أيضاً حد هذا النوع من تقييم المستخدم: 72.2 إلى 86.4 بالمئة من الطلاب بمتوسط 4 من 5 على الأقل، ويذكر المؤلفون أن فروقهم غير الدالة لا تُثبت التكافؤ لأنه لم يُحدَّد هامش مسبقاً.
-- **تصميم المقيِّم مُبلَّغاً كجزء من النتيجة.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] جعلوا 25 خبيراً مطابقاً للمجال يحكمون على 92 محاضرة مُعاد توليدها مقابل معيار مرجعي مرسي عند «جودة محاضرة [[online-teaching-and-learning|MOOC]] معيارية»، مُسندين كل فيديو إلى مراجع واحد (k = 1) لتوزيع اللجنة على أكبر جزء من المجموعة بدل جمع تقييمات متكررة. المقايضة مُنمذجة لا مُخفاة: يُنسب نموذج اعتراض عشوائي نحو 35 بالمئة من التباين المتبقي إلى المراجع (ICC = 0.35) وتكون الفواصل مُجمَّعة بالمراجع، وهكذا تستطيع لجنة خبراء الإبلاغ عن «87 بالمئة عند البار أو فوقه» بنطاق صادق.
+- **تصميم المقيِّم مُبلَّغاً كجزء من النتيجة.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] جعلوا 25 خبيراً مطابقاً للمجال يحكمون على 92 محاضرة مُعاد توليدها مقابل [[rubrics|سلّم تقدير]] مرسي عند «جودة محاضرة [[online-teaching-and-learning|MOOC]] معيارية»، مُسندين كل فيديو إلى مراجع واحد (k = 1) لتوزيع اللجنة على أكبر جزء من المجموعة بدل جمع تقييمات متكررة. المقايضة مُنمذجة لا مُخفاة: يُنسب نموذج اعتراض عشوائي نحو 35 بالمئة من التباين المتبقي إلى المراجع (ICC = 0.35) وتكون الفواصل مُجمَّعة بالمراجع، وهكذا تستطيع لجنة خبراء الإبلاغ عن «87 بالمئة عند البار أو فوقه» بنطاق صادق.
 
 ## العلاقة بعائلات البحث الأخرى
 

@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,9 +22,14 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
 connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
+connected_resources: [ai-guidance-by-age]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -45,6 +50,8 @@ connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-p
 يجري جزء كبير من وقت الأطفال مع الذكاء الاصطناعي خارج الصف الدراسي، في سياق تعالجه أدبيات البحث في معظمه كخلفية. فأعمال الدرس الخاص ونتائج التعلّم عادةً ما تكون مدرسية الأساس، في حين أن أعمال إرشاد الأسرة عادةً ما تكون استشارية لا مُختبرة، فالأسر هي في الوقت نفسه هدف قدر كبير من الإرشادات بشأن الاستخدام [[ethics|المسؤول للذكاء الاصطناعي]] وموضوع قدر قليل جدًا من الأدلة عما إذا كان ذلك الإرشاد ينفع.
 
 تعالج هذه الصفحة الأسرة المعيشية كفاعل في حد ذاتها. وهي تغطي الدرس الخاص الموجه بين الأب/الأم والطفل بوساطة الذكاء الاصطناعي، وأدوات الصاحب والقراءة التي يلقاها الأطفال في المنزل، وما تفعله المدارس وما لا تفعله في إبلاغ الأسر باستخدام الذكاء الاصطناعي، و[[ai-literacy|ثقافة الآباء]] في الذكاء الاصطناعي وما يُعرف عن وجهات نظرهم، وشروط الوصول والتكلفة التي تستخدم فيها الأسر هذه الأدوات. وحيث يكون الدليل ضعيفًا، تقول الصفحة ذلك بدل ملء الفجوة.
+
+ما يستطيع الطفل فعله بأداة في سن معيّنة مسألة نمائية لا مسألة تفضيل؛ و[[developmental-psychology|علم النفس النمائي]] يتولّى تقديم ذلك التفسير.
 
 ## الآباء كمعلّمين مشاركين في المنزل
 

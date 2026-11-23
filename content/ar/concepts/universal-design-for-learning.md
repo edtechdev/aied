@@ -1,7 +1,7 @@
 ---
 title: التصميم الشامل للتعلّم
 created: "2026-10-12T19:00:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -79,6 +83,8 @@ connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-prod
 - وفّر اختيار منتَج التقويم (مقال أو عرض تقديمي أو فيديو أو رسم تخطيطي أو شيفرة) متماشيًا مع ناتج التعلّم ذاته.
 - *مثال:* تتيح مهمّة التسليم كتقرير مكتوب أو مُوضّح مرئي بمساعدة الذكاء الاصطناعي أو عرض حيّ — مع سقالات [[scaffolding|ذكاء اصطناعي]] تدعم كل نمط. وفي تصميم [[assessment]]، يوازي هذا العدالة التمثيلية لـ[[authentic-assessment]].
 
+إن الاختيار لا يتضمّن إلا حين تبدو الخيارات متساوية المصداقية. فطلاب في دراسة بكلية علوم أحبّوا الاختيار بين فيديو ومقال، لكنهم أبلغوا أن الأقران يخشون أن يُصحَّح المقال أسوأ، فالمعايير المشتركة ومنطق التصحيح المُوضَّح هما ما يحوّلان قائمة الصيغ إلى إدماج لا تخمينًا استراتيجيًّا ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **صمّم لثقافة الذكاء الاصطناعي والفاعلية.**
 - علّم الطلاب كيف ومتى يستخدمون الذكاء الاصطناعي، وابنِ نقاط تفتيش تُبقي المتعلّم (لا الأداة) مسؤولًا — انظر [[ai-literacy]] و[[reducing-ai-misuse]].
 - *مثال:* تتيح مهمّة متماشية مع التصميم الشامل للتعلّم للطلاب استخدام الذكاء الاصطناعي للصياغة لكنها تتطلّب تأمّلًا [[metacognition|ما وراء معرفي]] على مساهمتهم الخاصة، حافظةً مبدأي المشاركة والفاعلية.
@@ -88,6 +94,8 @@ connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-prod
 - احرس ضد الذكاء الاصطناعي الذي يفترض أسلوب تواصل واحدًا أو يعاقب التعبير ذا الاختلاف العصبي — ارتبط بـ[[accessibility]] و[[equity-in-ai-education]] و[[neurodiversity]].
 
 - **استهدف الحواجز الوظيفية، لا التشخيصات.** وجد [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] أن مجمّع الدراسات الأربعين للتقنيات المساندة للطلاب ذوي الاختلافات العصبية منظّم حول التسهيلات والأدوات المُشترَطة بالتشخيص، ويُحاجّان بأن التصميم للحواجز المتقاطعة التي يواجهها الطلاب فعلًا هو ما يجعل الأداة شاملةً بشكل قابل للتصديق.
+
+**التكافؤ دون التماثل.** يمدّ [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] قائمة التصميم الشامل للتعلّم إلى العمل التأمّلي المدعوم بالذكاء الاصطناعي: فينبغي أن تتوافر للطلاب مسارات متناظرة — تأمّل كتابي أو صوتي، أو طريق بمساعدة الذكاء الاصطناعي أو بلاه، أو دعم بشري متزامن، ومعايير شفافة لا تكافئ الطلاقة التقنية غير المرتبطة بالهدف — والأهمّ أن الحقوق القابلة للتطبيق والاختيار المعنوي للمتعلّم وإمكانية الوصول الجوهرية شروط سابقة غير قابلة للتعويض، لعناصر لا يستطيع أداء قوي في مواضع أخرى أن يعوّضها. والمبدأ هو «التكافؤ دون التماثل»: قد تُستخدم وسائط أو مستويات أتمتة مختلفة، لكن يجب أن تتيح فرصة متناظرة لبلوغ النتيجة ذاتها، ويجب تصميم الإدماج منذ البداية بدل معاملته تسهيلًا بأثر رجعي.
 
 ## المفاهيم الخاطئة الشائعة
 

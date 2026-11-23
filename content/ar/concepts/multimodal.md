@@ -9,7 +9,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [generative-ai, llm, knowledge-graph, intelligent-tutoring, ai-literacy, prompt-engineering, feedback, assessment, educational-measurement, item-response-theory, student-modeling, socratic-method, scaffolding, ai-ed-evaluation, benchmark, higher-ed, equity-in-ai-education, privacy, stem-education, inclusive-learning, ai-technologies, virtual-and-augmented-reality, speech-and-voice-technologies, arts-and-media-education, sensor-and-gaze-analytics]
 connected_articles: [elkington-human-centred-assessment-value-2026, burriss-multimodal-composition-critical-ai-literacy-2026, student-attention-estimation-fairness-2026, omniphys-multimodal-physics-benchmark-2026, drawedumath-vlm-struggling-students-2026, multimodal-learning-genai, syal-multimodal-dialogue-stem-2026, multimodal-ai-feedback-learning, multimodal-prompting-ai-literacy, multimodal-item-parameter-estimation-2026, ai-guided-learning-audiovideo-2026, multimodal-knowledge-graph-educational-reasoning, mllm-scientific-visualization-literacy, multimodal-affective-its-presentation, kar-mathbuddy-affective-math-tutoring-2025, llm-cognitive-diagnosis-handwritten-math, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, genai-cybersecurity-ocr-multimodal-instruction-2025, cfes-p24-multimodal-slide-auditing-2026, ai-grading-handwritten-physics-2026, lu-ai-multimodal-writing-critical-thinking-2026, cvengros-grading-handwritten-chemistry-ai-2026, geovad-bench-visual-chain-of-thought-geometry-2026, muse-vlm-artistic-image-benchmark-2026, ai-assisted-physics-lab-report-assessment-2026, kim-ai-embodied-learning-review-2026]
 ---
@@ -81,7 +85,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, burriss-mult
 - **أنظمة التغذية الراجعة متعددة الوسائط** تدمج نصًا منظمًا وإحالات إلى شرائح وسردًا صوتيًا متدفقًا. وفي إحدى الدراسات، طابقت [[ai-feedback-quality|التغذية الراجعة متعددة الوسائط بالذكاء الاصطناعي]] تغذية المربين بالنسبة للتعلّم بينما *تفوّقت عليها تفوقًا دالًّا* في تصورات الطلاب.([[multimodal-ai-feedback-learning]])
 - **تقدير استجابة البند متعدد الوسائط** يستخدم نماذج لغة كبيرة متعددة الوسائط مضبوطة دقيقًا لإعادة بناء منحنيات خصائص البند (IRT / 3PL) مباشرةً من احتمالات الخيار المتوقعة على بنود صور ونصوص، موصلًا الذكاء الاصطناعي متعدد الوسائط بـ[[educational-measurement]] و[[item-response-theory]].([[multimodal-item-parameter-estimation-2026]])
 - **تقييم نموذج بصري لغوي تعليمي** و[[mllm-scientific-visualization-literacy|ثقافة نموذج لغة كبير متعدد الوسائط]] يمدان مجموعة أدوات التقييم الميدانية إلى الاستدلال متعدد الوسائط و[[visualization]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
-- **التقييم متعدد الوسائط لكيمياء [[chemistry-education|الكيمياء]] المكتوبة بخط اليد يكشف حد قدرة معتمد على الصيغة:** قدّم [[cvengros-grading-handwritten-chemistry-ai-2026|كفنغروس وكورتيماير]] تقييمًا صفحة بصفحة لصفحة نهائية مكتوبة بخط اليد في كيمياء عامة لـ296 طالبًا مقابل صور سلّم باستخدام نموذج لغة كبير متعدد الوسائط استدلالي، فسجّل الإجابات النصية ومعادلات التفاعل الكيميائي بموثوقية (أعلى F1 منظم) لكن الرسم والتمثيل البياني *أدنى من العشوائي* — فالشبكات الخلفية تصرف بصريًا انتباه رؤية الذكاء الاصطناعي والمخططات العلمية/البنى الكيميائية تبقى صعبة التأويل — معززًا أن رؤية الذكاء الاصطناعي متعدد الوسائط ليست متينة في العمل الغني بالتمثيل وأفضل ما تُنشر به مع إحالة [[human-in-the-loop-ai|بشرية]] للبنود البيانية ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+- **التقييم متعدد الوسائط لكيمياء [[chemistry-education|الكيمياء]] المكتوبة بخط اليد يكشف حد قدرة معتمد على الصيغة:** قدّم [[cvengros-grading-handwritten-chemistry-ai-2026|كفنغروس وكورتيماير]] تقييمًا صفحة بصفحة لصفحة نهائية مكتوبة بخط اليد في كيمياء عامة لـ296 طالبًا مقابل صور [[rubrics|سلّم التقدير]] باستخدام نموذج لغة كبير متعدد الوسائط استدلالي، فسجّل الإجابات النصية ومعادلات التفاعل الكيميائي بموثوقية (أعلى F1 منظم) لكن الرسم والتمثيل البياني *أدنى من العشوائي* — فالشبكات الخلفية تصرف بصريًا انتباه رؤية الذكاء الاصطناعي والمخططات العلمية/البنى الكيميائية تبقى صعبة التأويل — معززًا أن رؤية الذكاء الاصطناعي متعدد الوسائط ليست متينة في العمل الغني بالتمثيل وأفضل ما تُنشر به مع إحالة [[human-in-the-loop-ai|بشرية]] للبنود البيانية ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **تعريف البناء والحكم المقارن مهارتان منفصلتان.** يعبّر [[cfes-p24-multimodal-slide-auditing-2026|ما وزملاؤه (2026)]] عن ستة مبادئ للتعلّم متعدد الوسائط كتعديلات عكوسية على الشرائح إضافةً إلى ضوابط وهمية بالتكامل البصري، ويجد أن كلا النموذجين استعاد كل عملية ومبدأ وإصلاح (8/8) بينما فشلت معايرة الخطورة بالكامل (0/8) — فالدرجة المركبة ستخفي أي طبقة تفشل.
 
 - **مكاسب الإنصاف يمكن التحقق من وجودها.** تفوق مقدّر انتباه متعدد الوسائط على خط أساس بصري فقط تفوقًا متواضعًا، ونظام ضبطه التنظيمي الموجّه بالنوع لفجوة متوسط الخطأ المطلق خفض فجوة التحقق من 0.02 إلى 0.005 مع أنه زاد الفجوة وخطأ أسوأ مجموعة على مواد محجوزة — فالتدقيق المتكرر الواعي بالمجموعات الفرعية على مستوى المواد مطلوب قبل النشر ([[student-attention-estimation-fairness-2026|فراغياداكيس وزملاؤه، 2026]]).

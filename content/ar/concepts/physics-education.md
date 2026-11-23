@@ -10,8 +10,8 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
 connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
+connected_resources: [teacher-dev]
 ---
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
@@ -72,7 +77,7 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-a
 **معايرة الذكاء الاصطناعي متعدد الوسائط على مسائل فيزياء أصيلة.** يُقدّم [[omniphys-multimodal-physics-benchmark-2026|Chen et al. (2026)]] **OmniPhys**، وهو [[multimodal]] [[benchmark|مقياس مرجعي]] كبير النطاق (15,246 سؤالاً و19,850 صورة) يمتد من مستوى المدارس المتوسطة إلى مستوى الجامعة في الفيزياء من مواد تعليمية صينية. وغير معتاد، أنه يقيّم ليس فقط استيعاب *المدخلات* متعددة الوسائط بل توليد *المخرجات* متعددة الوسائط — ما إذا كانت النماذج تستطيع تجميع مخططات فيزيائية منظّمة، وهي عنصر أساسي في حل المشكلات الأصيل. وتكشف تقييمات واسعة فجوات حرجة في نماذج اللغة الكبيرة متعددة الوسائط الحالية، خصوصاً في الاستدلال المركّب والتوليد البصري.
 
 **أطر التصميم التعليمي للتعليم المعزّز بالذكاء الاصطناعي.** يقترح **[[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]]** إطار **AIRIS** (Activate–Inquire–Reflect with Intelligent Support) — بنية من ثلاث مراحل للاستخدام المعرفي المُنشَّط للذكاء الاصطناعي في الفيزياء: يتنبأ الطلاب ويرسمون النتائج المنتظرة قبل الذكاء الاصطناعي (Activate)، ويُسنِدون الخطوات الحاسوبية والتمثيلية للذكاء الاصطناعي مع مقارنة ناتجه نقدياً بتنبؤاتهم (Inquire)، ويؤولون ويفحصون الاتساق عبر التمثيلات ويتأملون في ما ساهم به الذكاء الاصطناعي بعد ذلك (Reflect). ومؤسَّساً على [[self-regulated-learning|التعلّم الذاتي التنظيم]] ونظرية [[cognitive-offloading|الحمل المعرفي]] والتمثيلات الخارجية المتعددة و[[human-ai-collaboration|التعاون بين الإنسان والذكاء الاصطناعي]]، يؤطّر التحدي المحوري بوصفه [[learning-design|التصميم التعليمي]] لا الغش أو اختيار الأداة، ويدعو إلى تجارب "شرط السحب" تختبر ما إذا كان التعلّم ينجو من إزالة دعم الذكاء الاصطناعي.
-- **علّم نقد حلول الذكاء الاصطناعي بمعيار تقييم.** حددت 24 مجموعة مختبر فيزياء تمهيدية نقدت حلاً بالذكاء الاصطناعي بتأمل موجّه بـMAPS تكاملاً رقمياً متخطّىً وترميزاً غير معرَّفاً ورسماً نوعياً بدلاً من كمياً، في حين قبلت المجموعات التي حلّت مشكلةً ذات صلة فقط الناتج المصقول أو رفضته انطلاقاً من مفاهيمها الخاطئة ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **علّم نقد حلول الذكاء الاصطناعي ب[[rubrics|سلّم التقدير]].** حددت 24 مجموعة مختبر فيزياء تمهيدية نقدت حلاً بالذكاء الاصطناعي بتأمل موجّه بـMAPS تكاملاً رقمياً متخطّىً وترميزاً غير معرَّفاً ورسماً نوعياً بدلاً من كمياً، في حين قبلت المجموعات التي حلّت مشكلةً ذات صلة فقط الناتج المصقول أو رفضته انطلاقاً من مفاهيمها الخاطئة ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
 
 - **التصورات المسبقة عن الطاقة تحدّد ما إذا يصبح الذكاء الاصطناعي حديثاً مفاهيمياً أم مجرد بحث.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] أجرى أربع عشرة مجموعة من المعلّمين قيد الإعداد عبر أشكال الطاقة وحفظها في Go-Lab مع روبوت محادثة [[metacognition|ماوراء معرفي]] متاح عند الطلب. المجموعات التي أجاب أعضاؤها بشكل مختلف على اختبار قبلي عن الطاقة طرحت الأنواع نفسها من الأسئلة كالمجموعات المماثلة، لكنها وضعت التفاوض على استعلامات الذكاء الاصطناعي في مركز شبكة تفاعلها وأبقت على تقييم إيجابي أو محايد لإجاباته، بينما سارت المجموعات المماثلة في مسار خطي من الاستعلام ثم القراءة. وقد بلغ الالتباس المفاهيمي f = 87 مقابل 36، مع تغطية حالات 88.9% مقابل 57.1%.
 
@@ -91,6 +96,8 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-a
 - **درجات المقاييس المرجعية تُقلّل مما تستطيع النماذج فعله في الفيزياء أصلاً.** أظهرت إعادة تصحيح ستة مقاييس مرجعية للفيزياء شائعة الاستخدام بخبراء في المجال أن معظم النقص المبلَّغ عنه كان أثراً لعناصر معيبة ودرجات آلية مقيّدة: إذ كانت 143 (57.20%) من 250 رفضاً مدقَّقاً عيوباً في المقياس المرجعي و95 (38.00%) أخطاء مُصحّح آلي، و12 (4.80%) فقط أخطاء نموذج حقيقية. ومصحّحةً، ارتفع متوسط HLE-Physics@4 من 47.28% إلى 78.66% وCritPt من 32.29% إلى 87.50%. وهذا يقطع في اتجاهين بالنسبة لتعليم الفيزياء: فهو يعني أن الطلاب يستطيعون أصلاً الحصول على حلول نصية بمستوى خبير للعديد من المسائل القانونية، لذا ينبغي أن ينتقل تقويم استدلال الفيزياء نحو عناصر تقاوم تلوث المقاييس المرجعية ونحو أدلة على السيرورة لا الإجابات النهائية. ([[frontier-models-physics-benchmark-audit-2026]])
 - **يمكن للتصحيح بالذكاء الاصطناعي أن يُنتج نتيجة فيزياء عالية المخاطر دون مطابقة كل جزء.** بتصحيح 10,364 صفحة مكتوبة بخط اليد من أولمبياد وجامعات، استعاد نموذج لغة كبير متعدد الوسائط فريق الأولمبياد ذاته من خمسة طلاب الذي استعادَه الممتحنون وارتبط بالمجموعات عند r = 0.93–0.96، لكن اتفاق جزء السؤال الدقيق بلغ 70% — قراءة ثانية يتحكم فيها الممتحن لا استبدال ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 
+- **يمكن لمصحّح رسومي أن يمنح الدرجة الكاملة دون أن يدعمها شرحه.** عند اختبار مصحّح متعدد الوسائط تحت الضغط على رسوم بيانية حركية مشوّهة، نال تقديم بسرعات–زمن بآثار غير متصلة ومتفرعة وبلا مرجع واضح لسرعة صفر الدرجة 10/10. ويوصي المؤلفون بمراجعة المعلّم للإجابات ذات الدرجة الكاملة، لا للخصومات فقط ([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]).
+
 - **يمكن أن تكون مقاييس الفيزياء المرجعية مؤسَّسة على [[curriculum-design|المنهج]] وغير إنجليزية.** بنى [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] 1,834 سؤالاً بالبنغالية من كتاب الفيزياء الوطني للصفين التاسع والعاشر و[[knowledge-graph|رسم بياني معرفي]] من 1,760 عقدة؛ ونال وصفة [[llm-training-and-fine-tuning|ضبط دقيق]] واحدة ثابتة 5.5 و15.0 و23.3 نقطة عند 0.6B و1.7B و4B من المعالم.
 
 ### صلات بمفاهيم ذات صلة
@@ -108,6 +115,8 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-a
 - **احتفظ بتدريب وتقويم غير مُساعَدين.** يُظهر إعادة تصميم بوخوم ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]]) أن أعمالاً منزلية على شكل أبحاث مسموحاً فيها بالذكاء الاصطناعي أُكملت بمشاركة عالية يمكن أن تترك الطلاب متأخرين كثيراً في امتحان غير مُساعَد (متوسط 20.6/80) — عامل الأداء المُساعَد والمعرفة القابلة للاسترجاع باستقلال بوصفهما متمايزين، وابنِ تدريباً غير مُساعَد متعمَّداً وامتحاناً كتابياً في المساق.
 
 - **تحقق من أمانة الميسّر؛ أبقِ مرحلة بناء النموذج خالية من الذكاء الاصطناعي.** عندما ضُغط عليه "أخبرنا فقط" أي الكتلتين أثقل، اخترع Gem مُضبَط لهذا الغرض قيم كتلة لم يقسها أحد، لذا يجب التحقق من أمانة ميسّر قائم على اللغة لا افتراضها، ومرحلة البناء الخالية من الذكاء الاصطناعي تحفظ العمل العملي الذي لا يبلغه ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino وDamiani (2026)]]).
+
+أدنى سبل البنية التحتية إلى مواد المساق موثّقة في تعليم الفيزياء. يشغّل [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] نموذجًا صغيرًا محليًا، ويوجّهه إلى ملاحظات المساق نفسها ومجموعات مسائله، ويولّد منها اختبارات قصيرة وأدلة دراسة، مع تحقّق المعلّم من كل مخرج. فلا يحتاج الإعداد اتفاقًا مع بائع ولا يرسل أي بيانات طلابية إلى أي مكان، وهو ما يجعله خطوة أولى واقعية لقسم لا يستطيع شراء أداة مؤسسية لكنه يستطيع توفير محطة عمل.
 
 ## المفاهيم الخاطئة الشائعة
 

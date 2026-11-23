@@ -1,7 +1,7 @@
 ---
 title: تقويم المقالات الآلي
 created: "2026-10-12T19:30:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
 connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
+connected_resources: [moodle-qtype-aitext]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -53,6 +58,10 @@ connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-aut
 برز **تقويم المقالات الآلي القائم على الموجّهات** كأكثر المقاربات إتاحة. ويُظهر **[[choi-anchor-aes-prompting-2025|دراسة تشوي وآخرون الورقة المرتكزة]]** أن تضمين مقالات نموذجية في الموجّهات يُقرّب اتفاق النموذج اللغوي الكبير مع الإنسان من موثوقية اتفاق الإنسان مع الإنسان، مع تحقيق GPT-4o mini نتائج مماثلة لـGPT-4o بكلفة أدنى. ويرتبط ذلك ببحث [[prompt-engineering]] الأوسع ويجعل تقويم المقالات الآلي ممكناً لاستخدام [[teacher-role|المعلّم]].
 
 **التقييم القياسي النفسي وتقييم السمات** يتجاوز الدرجات الشاملة. ويُوفّر **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** إطاراً واعياً قياسياً نفسياً للتقييم التكيّفي مع السمات مع تغذية راجعة مؤسّسة على [[sociocultural-learning|منطقة التطوير القريب]]. ويُنمذج **[[icle-plus-plus-essay-scoring|ICLE++]]** سمات دقيقة للتقييم الشمولي للمقالات، مُقدّماً دقة التقييم الآلي.
+
+- **آثار التفكير بوصفها التفسير.** ضبطت [[xu-explainable-ai-essay-scoring-cot-2026|شو وآخرون (2026)]] نماذج Qwen لتستدل عبر خصائص IELTS الأربع قبل التصحيح، ثم طبّقت PPO على تفضيلات الممتحنين. ارتفعت كابا QWK المتوسطة من 0.5253 (7B، CoT فقط) إلى 0.5410 (72B)، بينما ارتفع BLEU للتغذية الراجعة من 0.2371 إلى 0.2873 مع PPO وCoT؛ أما الحجم وحده فأضاف قليلاً، 2.5% BLEU من 7B إلى 72B.
+
+- **قابلية التدقيق كهدف للتصحيح.** بنى [[xin-auditable-automated-essay-scoring-2026|شين (2026)]] مسار ASAP تُرفَق فيه طبقة التغذية الراجعة بأدلة المقالة بكل سمة ضعيفة وتُكشف فيه راية مراجعة للمعلّم. بلغت كابا QWK الكلية 0.738 مقابل 0.739 لأفضل مُقيّم خالص، بينما بلغت التغذية الراجعة المؤسّسة على [[rubrics|سلّم التقدير]] استدعاء سمة Recall@2 بمقدار 0.829 ومعدل دليل صالح 0.912 حيث لم تستشهد التغذية الراجعة القائمة على السلّم وحده بشيء.
 - **تقييم السمات على مستوى البُعد مقيَّد بالبيانات الكامنة وراء كل بُعد.** درّب [[automated-essay-scoring-critical-thinking-physics-2026|فرداوسي وآخرون (2026)]] مصنّفاً واحداً لكل بُعد من أبعاد إطار [[critical-thinking|التفكير النقدي]] FRISCO لإينيس على 106 مقالات فيزياء للصف الحادي عشر في إندونيسيا (83 للتدريب، 23 للاختبار، مع اتفاق ثلاثة مقيّمين من المدرّبين عند كابا 0.78–0.84 على كل بُعد). وتركّز الاتفاق على التعبير لا على الاستدلال: فبلغت كابا التربيعية المُرجَّحة 0.763 للوضوح و0.728 للحالة لكنها بلغت 0.374 فقط للتركيز و0.332 للسبب و0.227 للاستنتاج. وكانت الإشارة الترتيبية مُصنَّعة لا مُراقَبة. فقد رفعت مقالات المستوى 1 التركيبية (مبنية من قوالب، ومقتطعة إلى 20–40% من طولها الأصلي، ومع إزالة كلمات مفتاحية) بالإضافة إلى إعادة الصياغة بالنموذج اللغوي الكبير التركيز بمقدار +0.346 كابا فوق خط أساس 0.028 — وبلغت تهيئة واحدة دقة 0.652 مع كابا قريبة من الصفر أو سالبة، لذا فإن الدقة ليست معيار اختيار صالحاً في تقويم المقالات الآلي الترتيبي.
 
 **التحيّز والإنصاف** هما مصدر قلق بالغ الأهمية. وجد **[[ai-scoring-language-bias-physics|فيسر وتشيسغال]]** أن تقويم الذكاء الاصطناعي يُقدّر الطلاب من الخلفيات اللغوية المتنوّعة تقديراً أقل منه بشكل منتظم، مُبرِزَين الحاجة إلى [[bias-mitigation]] واعتبارات [[equity-in-ai-education]] في نشر تقويم المقالات الآلي.
@@ -78,6 +87,7 @@ connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-aut
 
 **تقويم المقالات الآلي كإشارة تدريب لا كحكم.** تُدرس نماذج التصحيح عادةً كمُقيّمين، لكن SWIM يستخدم واحدة كدالة مكافأة: يجمد [[swim-student-writing-simulation-2026|دو وكونتاك وساتشان (2026)]] مدقّق تقويم مقالات آلي متعدد السمات ويُقيّمه مقابل مقالات طلابية مُولَّدة، محوّلاً ملف السمات المتنبّأ به إلى مكافأة كثيفة لكل مقالة (المتوسط المُطبَّع للسمات للمسافة عن ملف الهدف) لـGRPO، متجنباً متريّة كابا التربيعية المُرجَّحة نفسها بشكل مقصود. فـQWK مُعرَّفة على دفعة من أزواج الهدف-التنبؤ وليست إشارة لكل عيّنة، في حين مكافآت المطابقة التامة متفرّقة جداً في بيئة متعددة السمات. وأُعيد فحص المكاسب مقابل مُقيّم DeBERTa ومدقّق للتقييم فقط لم يتدرب السياسة ضده أبداً (0.598 مقابل 0.479 لـSFT، و0.647 مقابل 0.501)، وهو الفحص الذي يفصل التحكم الحقيقي في الإجادة عن التكيّف مع [[reinforcement-learning|نموذج المكافأة]]. ولكفاءة بحث تقويم المقالات الآلي، هذا مطلب صدق ثانٍ: فالمُقيّم المستخدم كهدف تدريب يُحسَّن ضده، لذا تنتشر ترجيحه للسمات وتحيزاته اللغوية في كل ما يتعلمه المولّد - وهي عدم تناظرات ترجيح الخصائص نفسها (الدقة النحوية والرصانة المعجمية والتعقيد التركيبي مرجَّحة أكثر من النماذج من المقيّمين البشريين) الموثّقة في موضع آخر من هذه الصفحة، صائرةً الآن تشكّل التدريب لا الدرجات فحسب.
 **يريد التصحيح والتغذية الراجعة مناهج مختلفة، لذا ينبغي أن يفصل النظام بينهما.** بنى [[wraft-automated-writing-evaluation-argumentative-2026|لبيب وآخرون (2026)]] نظاماً واحداً لمقالات TOEFL الحجاجية كثلاث وحدات — التصحيح، والتغذية الراجعة على مستوى السطح للنحو والميكانيكا، والتغذية الراجعة على المستوى العميق للتنظيم والتماسك والحجاجة — بدلاً من نموذج واحد يؤدي المهام الثلاث. فما يفوز في وحدة يخسر في أخرى: إذ بلغ [[llm-training-and-fine-tuning|الضبط الدقيق]] المُراقب لـGPT-4o على 120 مقالة من مجموعة مملوكة من 480 مقالة مصحّحة كمعيار، مختبرة على الـ360 الباقية، كابا تربيعية مُرجَّحة 0.844 وRMSE 0.44 على مقياس 0-5، متقدماً على خط أساس وانغ وغايد (2024) (QWK 0.78 وRMSE 0.57)، غير أن الضبط الدقيق نفسه أنتج مخرَجاً غير قابل للاستخدام لوحدات التغذية الراجعة، حيث كان موجّه Claude 3.7 المباشر هو ما ولّد تعليقات أقره المدرّبون.
+**الموجّه لا سلّم التقدير هو الذي يحمل معظم المكسب.** رفعت [[llm-automated-essay-scoring-prompt-engineering-2026|تاو ومين (2026)]] الاتفاق مع وسوم CEFR من كابا 0.488 إلى 0.829 بإضافة أمثلة معايرة مصحّحة وسبب إلزامي، في حين أنزل سلّم تقييم مفصّل مُورّد وحده الاتفاق إلى 0.460.
 
 ### الصلة بالمفاهيم ذات الصلة
 

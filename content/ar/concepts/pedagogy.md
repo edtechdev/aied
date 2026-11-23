@@ -1,7 +1,7 @@
 ---
 title: "أصول التدريس واستراتيجيات التعليم"
 created: "2026-10-12T15:32:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
 connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
@@ -61,6 +65,7 @@ connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-te
 تفحص [[research-methods-aied|أبحاث]] قاعدة المعارف أصول التدريس عند تقاطع الذكاء الاصطناعي والتدريس على وجوه عدة:
 
 - **الذكاء الاصطناعي كوكيل تربوي.** فأدوات الذكاء الاصطناعي تُجسّد بيداغوجيا — فـ[[intelligent-tutoring|مدرّس]] مبني على [[socratic-method|الاستجواب السقراطي]] يحفّز المتعلّمين على الاستدلال، بينما قد يميل روبوت المحادثة المولّد للأجوبة إلى الإعطاء المباشر (انظر [[reducing-ai-misuse]] لمعرفة سبب أهمية الموقف التربوي). وتُظهر أدبيات [[agentic-ai|الذكاء الاصطناعي الوكيلي]] أن تأسيس الوكلاء في نظرية التصميم التعليمي يتفوّق على [[prompt-engineering|صياغة المطالبات]] الخام. ويعيد [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] صياغة هذا الدور صياغةً رسمية: فبدلًا من نموذج ثنائي بين [[student-modeling|المدرّس ونموذج الطالب]] تكون فيه أدوات التوليد مكمّلًا خارجيًا أو تهديدًا، يقترحون **نموذجًا ثلاثيًا: المدرّس–الطالب–الذكاء الاصطناعي التوليدي** يعمل فيه الأخير كـ*وسيط تربوي–ديداكتيكي* محدود داخل فضاء وساطة ديداكتيكية مشترك تحكمه المؤسسات وأصحاب المصلحة — مما يُنتج خمس مسلّمات قابلة للبحث حول وساطة التعلّم، وتحوّل دور المدرّس، والثقافة بالذكاء الاصطناعي وفاعلية المتعلّم، والتقييم [[process-oriented-assessment|الموجَّه نحو العملية]] الشفاف تجاه الذكاء الاصطناعي، و[[governance]] المؤسسية.
+- **التأسيس بنيوي لا أسلوبي.** عبر 25,795 سيناريو تصميم تعليمي مُولَّد في [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]، تفوّقت الوكلاء التي تجمع بين أطر ISD الكلاسيكية والاستدلال على كل من التشكيلات القائمة على النظرية وحدها وتلك القائمة على التقنية وحدها، مما يُظهر أن التأسيس التربوي ميزة معمارية لا أسلوب صياغة مطالبات.
 - **البيداغوجيا تحدّد أثر الذكاء الاصطناعي.** فمن النتائج المتكررة أن *كيفية* استخدام الذكاء الاصطناعي مهمة بقدر *ما إذا* كان يُستخدم. ويُظهر [[instructional-guidance-genai-learning|بحث التوجيه التعليمي]] و[[generative-ai-guardrails-harm-learning|التجارب العشوائية المضبوطة للمدرّس المضبوط بضوابط]] أن الذكاء الاصطناعي نفسه قد يضرّ أو يفيد بحسب الغلاف التربوي (تلميحات مقابل أجوبة، استخدام منظَّم مقابل استخدام مفتوح).
 - **المعرفة التربوية ترجح على المعرفة التقنية.** فعبر 46 معلّمًا و2,832 طالبًا، تنبّأت معرفةُ المعلّم التربوية بالذكاء الاصطناعي بإدراك الطلاب للذكاء الاصطناعي كخير اجتماعي وبنيتهم لتعلمه، بينما كانت المعرفة التقنية وحدها غير كافية — ولم تنبّأ أيٌّ منهما بمعرفة الطلاب بالذكاء الاصطناعي ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **إفراغ العمل الإداري هو أوضح ما يسهم به الذكاء الاصطناعي.** فراجع مراجعةٌ منهجية وفق PRISMA لـ28 دراسة فوجدت أن الذكاء الاصطناعي عزّز في الغالب تخطيط التعليم و[[assessment|تصميم التقويم]]، وكان أكثر منفعته إبلاغًا هو أتمتة التصحيح والتغذية الراجعة ورصد التقدم (18 دراسة، 64.2%) — بينما كان التوافق التربوي أكثر تحدي ورد ذكره (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
@@ -73,7 +78,7 @@ connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-te
 
 - **تعليم الثقافة بالذكاء الاصطناعي يحرّك المعرفة بأسرع ما يُحرّكها.** فحلَّلَ [[meta-analysis-systematic-review|تحليلٌ بَعدي]] على ثلاثة مستويات لـ59 دراسة (172 حجم أثر) فوجد أن التدخّلات المتمركزة على المعرفة (g ≈ .97) تجاوزت بوضوح تلك الموجهة إلى المهارات (≈ .67) أو الاتجاهات (≈ .68) أو [[ethics]] (≈ .64)، لذا فإن إقران تعليم المفاهيم بالممارسة المستمرة يستهدف المخرجات التي تقاوم التعليم ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **أصول التدريس في ممارسة المعلّم.** يفحص [[teacher-role]] و[[teacher-ai-competency]] كيف يتبنّى المعلّمون الذكاء الاصطناعي في ذخيرتهم التربوية القائمة، ويدرس [[llm-training-and-fine-tuning]] و[[pedagogical-agent]] أدوات ذكاء اصطناعي مدرَّبة على اتباع مبادئ تربوية.
-
+- يضع تجربة عشوائية مضبوطة مجمّعية لـ108 مدارس حدًّا لذلك الادعاء: خفّضت Aila زمن التخطيط بمقدار 0.81 ساعة في الأسبوع عند تغطية دروس بنسبة 7%، مع تراجع الاستخدام عبر عشرة أسابيع ودون قياس أي نتيجة للتلاميذ ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]).
 ## العلاقة بنظريات التعلّم
 
 ترتبط أصول التدريس بنظريات التعلّم ارتباطًا وثيقًا: فكل بيداغوجيا تُشغّل نظريةً أو أكثر. فـ[[project-based-learning]] مثلًا يُشغّل النظريات [[constructivist]] و[[experiential-learning|التجريبية]]؛ ويستند [[socratic-method]] إلى [[sociocultural-learning]] و[[metacognition]]؛ وتنبع [[scaffolding]] من [[sociocultural-learning|منطقة النمو القريب]]. وتتعامل قاعدة المعارف مع [[learning-theories]] كأساس مفاهيمي ومع هذه الصفحة كمحور جامع للممارسة التعليمية — انظر أيضًا [[learning-design]] الذي يخصّ العملية المنهجية لاختيار الاستراتيجيات وترتيبها. أما [[learning-sciences|علوم التعلّم]] فتقع أبعدَ خطوة أخرى: فهذه الصفحة تغطّي ممارسة التدريس والاستراتيجيات التي يختارها المربّون، بينما تدرس علوم التعلّم تلك الممارسة تجريبيًا — فتصف وتنمذج وتُقوّم التصاميم لتُحدِّد أيّها يغيّر التعلّم.
@@ -89,6 +94,8 @@ connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-te
 - **الاستراتيجيات السقراطية والحوارية** ([[socratic-method]]) تستهدف التفكير والاستدلال من الرتبة العليا — وهي مكاسب أصعب في القياس من مكاسب المهارة لكنها محورية لـ[[critical-thinking]].
 
 والنتيجة القاطعة الشاملة، المتسقة مع بحوث [[learning-gains]] في قاعدة المعارف، هي أن **أثر الاستراتيجية على التعلّم يتوقف أكثر على كيفية حفظها لمجهود المتعلّم وصراعه المنتج من التصنيف الذي تحمله** — فأي بيداغوجيا، حتى «الجيدة» منها، تفشل إذا ضُبِط الذكاء الاصطناعي ليتجاوز العمل المعرفي الذي أُريد منه إثارة ذلك العمل (انظر [[cognitive-offloading]] و[[desirable-difficulties]]).
+
+تفوّق مدرّس مُهندَس من الممارسات السبع القائمة على البحث نفسها التي بُنيت عليها حصة الصف: في مقرر الفيزياء التمهيدي في هارفارد، بلغت وسيط مكاسب التعلّم لدى 194 طالبًا أكثر من ضعف مكاسب صف التعلّم النشط، في زمن أقل، مع إسناد المؤلفين ذلك إلى التغذية الراجعة المخصَّصة عند الطلب والوتيرة الذاتية ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin (2025)]]).
 
 تُقرأ [[student-ai-interaction|تفاعل الطالب مع الذكاء الاصطناعي]] على أنها عملية متحولة لتوزيع العمل المعرفي لا كاعتماد ثابت: فعبر 53 محادثة ChatGPT من مقرر [[engineering-education|هندسي]] متعدد التخصصات، كان الامتداد (تفكير مشترك كثيف وتكراري) أكثر أنواع التفاعل تكرارًا بنسبة 53.3% من 321 ترميزًا على مستوى المحفّز، متقدمًا على التفريغ الخارجي عند 29.6% ([[cognitive-distribution-student-genai-interaction-2026|ويلكوكس ولين وأريكان (2026)]]).
 

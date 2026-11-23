@@ -8,7 +8,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
 connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
 ---
@@ -93,6 +97,8 @@ connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-
 2. **أشرك المتعلّمين عبر الأنماط.** يُشرك تعليم [[ai-literacy|الثقافة بالذكاء الاصطناعي]] الفعّال المتعلّمين على مستويات ICAP متعددة — التعرّض السلبي، والتلاعب النشط، والتوليد البنّاء، والحوار التفاعلي — باختيار النمط الذي يناسب هدف التعلّم.([[hingle-collaborative-ai-literacy-2025]])
 3. **قِس الانخراط بأمانة.** يُعطي ICAP الباحثين والمصمّمين معجمًا مشتركًا للتمييز بين الانخراط المعرفي الحقيقي ومجرد النشاط — وهو تصحيح لـ[[student-engagement|مشاركة الطلاب]] السطحية.([[icap-cognitive-engagement-llm-agents]])
 4. **راقب فجوة التعليق بين الإنسان والنموذج اللغوي الكبير.** إذا استُخدمت أنظمة آلية لترميز الانخراط، ينبغي أن يُحسَب تقصيرها المنهجي بالنسبة إلى البشر المدرَّبين.([[icap-cognitive-engagement-llm-agents]])
+
+تصميم المهمة، لا تصميم الأداة فقط، هو ما يضع السقف. فعبر 829 خيطًا مُرمَّزًا في 40 مقررًا جامعيًا، المنتجات التي أُنتجت حيث كان الحوار بنّاءً أو تفاعليًا حظيت بتقييمات أقران أعلى بقليل للجودة النهائية ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## المفاهيم الخاطئة الشائعة
 

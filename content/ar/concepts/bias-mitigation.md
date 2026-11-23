@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: تخفيف الانحياز
 created: "2026-10-12T18:40:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,7 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
 connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
+connected_faqs: [ai-bias-fairness-education]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

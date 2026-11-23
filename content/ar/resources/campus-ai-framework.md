@@ -29,6 +29,7 @@ translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 connected_concepts: [educational-policy-ai, change-management, ai-literacy, governance]
+connected_resources: [campus-ai-development]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

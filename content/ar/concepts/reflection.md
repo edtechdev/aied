@@ -1,7 +1,7 @@
 ---
 title: التأمل
 created: "2026-11-08T11:40:00-05:00"
-updated: "2026-11-08T11:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -14,13 +14,17 @@ page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
 translation_of: concepts/reflection
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
 connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
@@ -47,7 +51,7 @@ connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-refl
 
 ## كيف يرتبط التأمل بالتقويم الذاتي وما وراء المعرفة والملفات الإلكترونية
 
-عمل الحدود أهم هنا منه في معظم صفحات المفاهيم، لأن أربع صفحات مجاورة تملك كل منها جزءًا من الإقليم، ولأن الممارسين يستخدمون الكلمات بالتبادل في سلالم التقدير.
+عمل الحدود أهم هنا منه في معظم صفحات المفاهيم، لأن أربع صفحات مجاورة تملك كل منها جزءًا من الإقليم، ولأن الممارسين يستخدمون الكلمات بالتبادل في [[rubrics|سلالم التقدير]].
 
 ما **يتشاركونه** حقيقي. فكلها تعيد توجيه انتباه المتعلّم إلى عمله هو، وكلها مرتبطة بـ[[agency|الوكالة]] والوعي بالذات، وكلها يمكن دعمها بالسقالات وكلها يمكن أداؤها من أجل درجة. وكل واحدة منها أيضًا يعيد الذكاء الاصطناعي التوليدي كتابتها في الفترة نفسها، ولذلك تتكرر الدراسات نفسها عبر هذه الصفحات. والتأمل هو الفرد في المجموعة الذي منتجه *نص*، وهنا يتوقف الشبه العائلي عن أن يكون مفيدًا.
 
@@ -148,6 +152,7 @@ connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-refl
 - **قيّموا ما تستطيعون الدفاع عنه.** التحديد، ودليل قرار، واستدلال المراجعة، والصدق بشأن ما لم ينجح أمور قابلة للتقويم. أما الإخلاص فليس كذلك، ونموذج فصيح يستطيع محاكاة سطحها كله.
 - **اقرنوا الأثر بشيء مكلف التفويض.** دفاع لفظي قصير، أو مراجعة حيّة، أو قرار له عواقب — بوابة نظام Prober التأملية واجتماعات التحقق لكل عضو عند Issa وHall نمطان عاملان.
 - **راقبوا ما يفعله التقويم بالفعل.** حين يُقيَّم التأمل الذاتي فإنه يخاطر بأن يصير أدائيًا، فصرّحوا بما *لا* يُقيَّم التأمل عليه وأبقوا بعض التأمل غير مُقيَّم على الأقل.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer & Hunt (2026)]] يوزّعون مقررًا دراسيًا بنسبة 60% للمنتج و20% لتوثيق العملية و20% للتأمل في استخدام الذكاء الاصطناعي، فتُقيَّم الرحلة إلى جانب الوجهة.
 - **لا تعاملوا درجة أبدًا كدليل على تفكير.** مصنّفات العمق تقدّر مدى قراءة النص تأمليًا، وهي خاصية يستطيع نص فصيح في مسودة ثانية تصنيعها.
 
 ### إدامة الروتين

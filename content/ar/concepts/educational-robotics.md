@@ -1,7 +1,7 @@
 ---
 title: "الروبوتات في التعليم"
 created: "2026-10-12T18:15:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
 connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
@@ -44,7 +48,7 @@ connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, r
 
 الدليل أرقّ مما يُوحّي به حجم العمل: تجد مراجعة للذكاء الاصطناعي والروبوتات في التعليم أن معظم الدراسات التجريبية تخصّ متعلّمين دون سنّ الثالثة عشرة لأربعة أسابيع أو أقلّ، مُركَّزةً في بضعة دول مُستثمِرة مبكّرة، مع كون [[learning-gains|أداء التعلّم]] النتيجة الأكثر دراسةً وتخلّف الأخلاقيات والإنصاف والسياسة عن الانتشار ([[white-wu-robotics-ai-education-2026|White and Wu (2026)]]).
 
-### الروبوتات الاجتماعية والتفاعل بين الإنسان والروبوت
+## الروبوتات الاجتماعية والتفاعل بين الإنسان والروبوت
 
 يُشكّل خيطان الجانب الاجتماعي للروبوتات في التعليم.
 
@@ -52,7 +56,7 @@ connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, r
 
 **التفاعل بين الإنسان والروبوت (HRI)** هو الدراسة بينية التخصصات لكيفية تفاعل الناس والروبوتات، مُشتملةً على الإدراك والتواصل والتعاون والديناميات الاجتماعية والمعرفية و[[ethics|الأخلاقية]] لذلك التفاعل. في التعليم، يُؤسّس HRI كيف يُدرك المتعلّمون الروبوتات ويثقون بها ويتعلمون معها — سواءً ببرمجة روبوت أو محادثة روبوت مدرّس أو التدرّب على سيناريوهات اجتماعية. يفحص بحث HRI [[research-methods-aied|المبحثي]] كيف يُشكّل مظهر الروبوت وسلوكه وسياق المهمة وتجسّده [[usability-research|تجربة المستخدم]] والثقة والمبادرة والتعلّم. تشمل المخاوف الجوهرية في HRI التعليمي الحفاظ على [[agency]] البشرية، وبناء [[trust]]، ودعم [[self-efficacy]]، وضمان أن التفاعل مع الروبوتات يساند الاستقلالية والتعلّم الاجتماعي لا أن يُضعفهما. ويربط الروبوتات بـ[[human-ai-collaboration]] و[[social-emotional-learning]].
 
-### كيف تُستخدم الروبوتات في التعليم
+## كيف تُستخدم الروبوتات في التعليم
 
 يُضيف **[[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]]** تصنيفًا للأدوار لا قائمةً للتقنيات: أنواع الروبوتات الصفّية الخمسة المستخرَجة من ورشات عمل تختلف بـ*الوظيفة البيداغوجية ومستوى التجريد* لا بالعتاد. النوع أ يُجري عرضًا غير تفاعلي لأنماط اجتماعية عامة (مسرح عاطفي مُسجَّل مسبقًا متبوعًا بمناقشة لديناميات كالتصعيد أو سوء الفهم)؛ والنوع ب روبوت تفاعلي يستجيب للمسّ يدعم المسرح المادي التشاركي و[[embodied-learning|التعلّم المُتجسِّد]] وإدراك الحدود وضبط العاطفة؛ والنوع ج شريك باللغة المنطوقة يُظهر التعاطف ويتذكّر التفاعلات مع تلميذ واحد، مُنشئًا إعدادًا محميًّا فرديًّا للبوح الذاتي؛ والنوع د موجَّه خارجيًّا من متخصّص مخفي كلعبة بدرجات حرية إضافية، يهدف لتسطيح التراتبية الاجتماعية؛ والنوع هـ روبوت غير تفاعلي يُعيد تشغيل أفعال رُصدت مؤخّرًا في المدرسة حتى يتمكّن التلاميذ من التأمّل في السلوك الموقوفي — والتباين مع النوع أ كونه تحديدًا تجريدًا خاصًّا بالسياق لا معمّمًا. التصنيف صريح في كونه فضاء تصميم غير مُصادَق عليه ومُؤسَّسًا على برنامج وطني واحد للصحة النفسية، فهو قائمة لتصميم أدوار الروبوت وتقييمها لا دليلًا على أن أيًّا منها يعمل.
 
@@ -71,11 +75,13 @@ connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, r
 
 - **تخطيط بالنماذج اللغوية الكبيرة لا محاورة.** يستخدم [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] نموذجًا لغويًا بصريًا لتحويل صور مهام صندوق الأحذية (Shoebox Tasks) — أنشطة منظّمة بصريًا تُستخدم مع المتعلّمين على طيف [[neurodiversity|التوحد]] — إلى مسألة PDDL ينفّذها هيومانويد Nao أو يعرضها، مع تقييم صحة الخطة عبر ست مهام لا أي نتيجة للمتعلّم.
 
-### التجسّد والبيداغوجيا
+## التجسّد والبيداغوجيا
 
 الموضوع الحاكم هو أن الروبوتات فعّالة عندما تدعم أهدافًا تعلّمية حقيقية — لا كتمارين تقنية منفصلة. ربطَ عارضٌ روبوتي مُثبَّت على الطاولة مع ChatGPT على الحاسوب المحمول مساعدةً متاحة (6.7 مقابل 7.3/10، p = .41) لكنه حفظ درجته بعد السحب (7.0 مقابل 4.4/10، p = .003)، وهي درجة تحويل قصير الأمد أعلى بـ60% — مكسبٌ يعتمد على المهمة يعزوه المؤلفون إلى التماس المكاني لا إلى الإحلال العام ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). تعتمد قيمة الروبوت على السياق البيداغوجي: تعليم التفكير الحاسوبي ([[computational-thinking]])، ودعم [[stem-education|العلوم والتقنية والهندسة والفنون والرياضيات]]، وبناء مهارات [[cs-education|البرمجة]]، وتحفيز المتعلّمين ([[motivation]]، [[student-engagement|المشاركة]])، أو دعم [[social-emotional-learning]] و[[equity-in-ai-education|الشمول]]. تربط الروبوتات أيضًا بـ[[project-based-learning]] و[[game-based-learning]] و[[experiential-learning]]. تشمل الاعتبارات التصميمية الجوهرية الحفاظَ على [[agency]] المتعلّم، وبناء [[trust]]، ودعم [[self-efficacy]]، وتأسيس التعلّم في [[embodied-learning|التفاعل المُتجسِّد]]. وفي [[language-learning]]، يشير [[robot-assisted-language-learning-meta-analysis-2026|الدليل البعدي]] إلى فعالية التعلّم المُساعَد بالروبوت المُتجسِّد للغة.
 
 - **مسالك التعلّم نحو الروبوتات المدفوعة بالذكاء الاصطناعي.** وجدت [[educational-robotics-pathways-2026|دراسة نوعية]] لطلاب المرحلة الثانوية في منهج الروبوتات مع الذكاء الاصطناعي تعلّمًا عبر الممارسة الواقعية والتصميم والتعبير الإبداعي المَلْهُو (بعدسة بنائية ومعرفية-تعدّدية).
+
+- يقترح Lan وChen (2026) اختبارًا لأعندما يكون تغيّر الجسد تكيّفًا سطحيًا. فالاستبدال مقبول فقط إذا نجا منه النواة الثابتة، أي الهدف وترتيب الأطوار وقواعد التفريع والمعايير ومحاذير الشخصية والنبرة، وتُرفض التهيئة حين يضيف الجسد الجديد مطالب دون تقديم الهدف ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
 ## المفاهيم الخاطئة الشائعة
 

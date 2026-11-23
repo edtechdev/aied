@@ -9,7 +9,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
-connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
+connected_articles: [ahman-thoren-processes-of-patterning-ai-literacy-2026, ai-internal-feedback-evaluative-judgments, ai-written-admissions-essays-penalized-2026, austin-ai-agents-assignment-redesign-2026, authentic-assessments-generative-ai-pilot-2026, beyond-detection-authentic-assessment-ai-2025, chatgpt-peer-feedback-evaluative-judgement-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, elkington-human-centred-assessment-value-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, genai-feedback-design-multisite-experiment, hadra-ai-detector-accuracy-efl-2026, judgment-centred-software-engineering-education-2026, learner-centered-feedback-ai, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, pairr-ai-peer-review-2025, rethinking-ai-writing-feedback-literacy, sharma-judgment-visible-genai-assessment-2026, student-perspectives-ai-writing-grading-2026, teichmann-detecting-undetectable-misconduct-2026, valiassist-programming-feedback-validation-by-demonstration-2026, wright-transcription-not-generation-2026, wu-lam-genai-writing-assessment-professors-2026, yan-accountable-judgement-language-assessment-2026, yu-verification-without-criteria-2026, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -33,7 +37,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 ## أسئلة للتفكير
 
 - فكّر في شيء ما تستطيع الحكم عليه بإتقان. كيف تعلّمت ذلك الحكم — عُلّم صراحةً، أم استُوعب عبر الإنتاج والمقارنة — وما الذي يترتب على ذلك فيما يخص كيفية تقويمه؟
-- يمكن تطبيق معيار تقويمي (rubric) آليًا أو فهمه. إذا تبع طالب المعايير بشكل صحيح لكنه لم يستطع تفسير لماذا يتفوق عمل على آخر، فأيّ قدرة قاس التقويم في الواقع؟
+- يمكن تطبيق [[rubrics|سلّم التقدير]] آليًا أو فهمه. إذا تبع طالب المعايير بشكل صحيح لكنه لم يستطع تفسير لماذا يتفوق عمل على آخر، فأيّ قدرة قاس التقويم في الواقع؟
 - عندما تصوغ [[llm|نماذج اللغة]] حلًا معقولًا، فإن العمل المتبقّي للمتعلّم هو في الأغلب الحكم: ما يُحتفظ به، وما يُصلَح، وما يُستبعد. فهل هذه مهمة مُضعَّفة، أم أكثر إلحاحًا من إنتاج المسوّدة ذاتها؟
 - يمكن لطالب أن يقبل اقتراحًا من الذكاء الاصطناعي لأنه يبدو جيدًا، أو لأنه يصمد أمام تدقيقه الخاص. من الخارج قد تبدو التسليمتان متطابقتين — فما الذي يمكّن المُقوِّم من رؤية الفرق؟
 - وجدت تجربة متعددة المواقع أن [[ai-feedback-quality|التغذية الراجعة من الذكاء الاصطناعي]] المباشرة أنتجت أكبر مكاسب في المراجعة، لكنها عرضت خطر التنازل السلبي عن الحكم. فما الذي يقترحه هذا المقايض بشأن كيفية تصميم تغذية راجعة تبني الحكم بدلًا من تجاوزه؟
@@ -68,6 +72,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 تتعلق طبقة إضافية بـ*مصدر* الحكم، لا بمحتواه فقط. يمنح [[student-perspectives-ai-writing-grading-2026|الغامدي (2026)]] تلك الطبقة معجمًا أدق: إذ أصدر طلابه الثلاثة عشر في الحوسبة السعودية حكمين مستقلين داخل حدث تقويمي واحد — ما إذا كانت التغذية الراجعة مفيدة، وما إذا كان مصدرها يملك سلطة منح الدرجة. قبلوا جميعًا التغذية الراجعة القائمة على المعيار من ChatGPT بوصفها واضحة ومحددة، مع تحفّظهم الواسع على منح الدرجة للمدرّس ("أوافقه، لكن بشرط واحد، أن يتحقق الدكتور من التغذية الراجعة")، ما يقترح أن الحكم التقييمي في التقويم المُتوسّط بالذكاء الاصطناعي يجب أن يشمل الآن الاستدلال حول السلطة التقييمية ذاتها، لا حول جودة التغذية الراجعة المتلقاة فحسب.
 
 يمنح [[sharma-judgment-visible-genai-assessment-2026|شارما (2026)]] البناء المفاهيمي أقوى موقع له في أدبيات [[academic-integrity|النزاهة]]. فبتمديده تأطير إيتون (2023) لما بعد الانتحال الأدبي من توجّه [[ethics|أخلاقي]] إلى تصميم تقويمي، يجادل بأن نماذج النزاهة القائمة على الكشف والتحقق غير متوافقة مع أعمال يتشابك فيها الحكم البشري والتوليد الآلي. ويعيد تأطير النزاهة بوصفها ممارسة بيداغوجية تُنفَّذ عبر الحكم التقييمي — قدرة المتعلّم على وزن الخيارات وتبرير الاختيارات الأكاديمية وتحمل المسؤولية في ظل عدم اليقين المعرفي. إن ممارساته الأربع (مسارات القرار المُعلَّقة، والتحقق والمحاسبة، و[[oral-assessment|الدفاع الشفوي]] والمحاسبة الحوارية، واختلافات المسوّدات مع تاريخ الإصدارات) تجعل ذلك الحكم مرئيًا كدليل بدلًا من استنتاجه من المُنتَج، ويفصل الحكم عن البناءات التي يُختزل فيها كثيرًا: [[reflection|الممارسة التأملية]] تنظر في تفكير المرء بأثر رجعي، و[[metacognition]] هو الوعي بالعمليات المعرفية وتنظيمها، بينما الحكم يقيّم الخيارات مقابل المعايير ويقبل النتائج في ظل عدم اليقين. وهو يسمّي كذلك نمط الفشل الذي تتابعه هذه الصفحة — فطلب الاستدلال الموثَّق يخاطر بـ"استبدال نظام امتثال بآخر"، لأن الحكم بوصفه دليلًا "يبقى علائقيًا ومرتبطًا بالسياق لا قابلًا للتحقق الآلي".
+- **الحكم القابل للمحاسبة يضيف وساطة ثقافيّةً إلى البناء المفاهيمي.** يوسّع يان (2026) الحكم التقييمي في تقويم اللغة والترجمة بوساطة الذكاء الاصطناعي: إذ ينبغي للمتعلّمين تبرير القرارات اللغويّة والتواصليّة والوسيطة ثقافيًّا والأخلاقيّة، لأن النصّ الهدف المُتقَن قد يخفي مشكلات غير محلولة تتعلّق بالسجل والثقافة ([[yan-accountable-judgement-language-assessment-2026|يان، 2026]]).
 
 ## الأدلة: كيف يتطور الحكم، وما يفعله الذكاء الاصطناعي به
 
@@ -90,6 +95,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 - **تُقترح بدائل على مستوى الصف كمؤشرات على الحكم.** يضيف [[austin-ai-agents-assignment-redesign-2026|أوستن (2026)]] إشارتين سلوكيتين إلى تسلسل مهمة مُعاد تصميمه: *معدل التمييز* في UnBlooms™، أي نسبة مخرجات الذكاء الاصطناعي التي يستجوبها المتعلّم أو يتحدّاها أو يعيد صياغتها بدلًا من قبولها، و*معدل القبول من المرور الأول*. ولا أحد منهما مُتحقَّق منه — إذ يُقدَّمان بوصفهما تشخيصات رخيصة لكل مهمة — لكنهما يجعلان البناء المفاهيمي قابلًا للملاحظة داخل التقويم العادي، حيث يُقرأ معدل تمييز قريب من الصفر عبر عدة مهام كإشارة على تصميم المهمة لا كنقص فردي.
 - **الحكم يُسجَّل عندما يُوصَل بالتنقيح، لا بمجرد حضوره.** في 67 معلّمًا قبل الخدمة يصمّمون خطط دروس بالذكاء الاصطناعي التوليدي، كان التقييم الصريح شبه غائب في مجموعة الجودة الأدنى (0.67 مقابل 0.00)؛ وما فصَل الجودة دورة تقييم–تنقيح ثنائية الاتجاه (CE←RE Z = 2.80، RE←CE Z = 2.50) وحلقة تنقيح ذاتية (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang وآخرون (2026)]]).
 - **يمكن إخراج معايير المعلّمين إلى العلن بتنقيح مخرجات الذكاء الاصطناعي.** استنبط [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang وآخرون (2026)]] قواعد تحقق قابلة لإعادة الاستخدام من تعديلات 16 معلّمًا على تغذية راجعة مولّدة بالنماذج اللغوية الكبيرة في البرمجة، ورفعوا محاذاتها لنيّتهم التربوية من 57% إلى 91%، فصار المعيار الضمني قابلًا للفحص بعد أن كان غير مصرَّح به.
+- **الحلقة لا القائمة التحققية.** يجري الحكم التقييمي بالذكاء الاصطناعي بصورة تعاوديّة: يُقيَّم مقابل المعايير المهنيّة، ثم يُقبَل أو يُنقَّح أو يُرفض ويُعاد إصدار المطالبة، ثم يُتحقَّق منه ويُبرَّر، عائدًا إلى التقييم ما دام الأثر غير صالح ([[zheng-ai-evaluative-judgement-vocational-2026|تشنغ وتانغ (2026)]]).
 
 ## كيف تُزيح إساءة الاستخدام الحكم
 
@@ -98,6 +104,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 ويقبل الاستدلال نفسه نسخة بنيوية. يسمّي [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman و Thorén (2026)]] **التنميط** بوصفه العمل التطوّري المتمثّل في تنظيم التعقيد في بنى يجدها المتعلّم ذات معنى، ويرى أن نظامًا يُرتّب الملاءمة مسبقًا يزيل الشروط التي يقتضيها ذلك العمل. ومصطلحهم للنتيجة هو **الحكم المُستعار**: فالمتعلّم يُقيّم مادة سبق أن نظّمها النظام، فيُؤدّى الحكم لكنه لا يُكتسب أبدًا. والورقة تحليل نظري بلا بيانات خاصة بها — فمنصة Tentaklar تُوضّح الآلية بدل أن تختبرها — لذا فالنمط مُستدَلّ عليه من التصميم لا ملاحَظ في المتعلّمين.
 
 وللإزاحة نسخة على جانب المعلّم، وهي ما حوّل عدة أساتذة كتابة عن تفويض التصحيح كليًا. فقد قال خمسة من الأربعة والعشرين إن التصحيح هو كيف يفهم المعلّم متعلّميه، فتفويضه يكلّف ذلك الفهم لا الساعات وحدها ([[wu-lam-genai-writing-assessment-professors-2026|Wu وLam (2026)]]). وعامل ثمانية عشر من الأربعة والعشرين الحكم البشري بأنه ما يلتقط أخطاء الأداة ويتحمّل المساءلة عنها.
+
+والوصفة أيضًا، حتى الآن، غير منفَّذة في السجل التجريبي. وجدت مراجعة منهجيّة وتحليل شبكة معرفيّة لـ 65 دراسة (2022–2026) أن واحدةً منها لم تعلّم المتعلّمين المعايير اللازمة لتقييم مخرجات الذكاء الاصطناعي؛ فقد حثّت التدخلات على التوقّفات والتفسيرات وإقرارات الثقة، ولم تظهر سقالات ثقافة التغذية الراجعة في أيٍّ منها ([[yu-verification-without-criteria-2026|يو وآخرون (2026)]]). ولقد افترضت التصاميم معيارًا تقييميًّا بدل أن توفّره.
 
 ## آثار عملية
 
@@ -110,6 +118,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 - **اقرنها بالعملية والعروض الشفوية.** فإن مُنتَجات العملية والتفسيرات الشفوية القصيرة تُظهر الحكم أثناء العمل حيث لا يقدر المُنتَج النهائي، وهو سبب جوهري لاعتماد إعادة تصميم التقويم في عصر الذكاء الاصطناعي عليها.
 
 - **اجعل الحكم المحتفظ به مرئيًا بمجسّات دين الفهم.** يحدّد [[judgment-centred-software-engineering-education-2026|محمود (2026)]] أربعة التزامات متقاطعة — التفسير، والتحقق، والتعديل، والمحاسبة — تجعل الكفاءة المحتفظ بها مرئية على كل مستوى من تكامل الذكاء الاصطناعي، ويقترح طلبات تغيير مؤجلة، ومراجعة الأكواد خطوةً بخطوة، واختبارات مصممة باستقلال، وتحديد موقع العيوب، وتصحيح الأخطاء المباشر بوصفها مجسّات تقارن ما أُنتج بما يمكن إظهاره لاحقًا. وفي ظل القدرة [[agentic-ai|الوكيلة]] ينتقل هدف التقويم إلى الإشراف — عقود المهام، وحدود التصاريح، وبيئات الاختبار المعزولة، ومنصات التقييم، ومراجعة الفروق، والتراجع، والمحاسبة البشرية — منتقلًا بالتقويم من التأليف المرئي إلى الحكم المرئي.
+
+**الحكم على الأثر ليس حكمًا على الطالب.** يجعل [[zhang-teachers-judge-creativity-genai-2026|تشانغ وآخرون (2026)]] الفرق صريحًا في الأعمال المُنجزة بمعاونة الذكاء الاصطناعي التوليدي: فأحكام المعلّمين على مستوى المنتج للجِدّة والحلّ والجماليّة والوجدان — وهي نواة مشتركة بين 654 معلّمًا في الصين والولايات المتحدة — تصف الأثر لا مساهمة الطالب فيه، ويختلف الاثنان حين يُنتَج الأثر بالذكاء الاصطناعي. ويوصون بمقارنة معايير المنتج بأدلّة العمليّة — المطالبات، وقرارات التنقيح، والمبرّرات التأمّليّة — وهو التحويل ذاته من المخرَج إلى الحكم [[process-oriented-assessment|القائم على العمليّة]].
 
 ## المفاهيم الخاطئة الشائعة
 

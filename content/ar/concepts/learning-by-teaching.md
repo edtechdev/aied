@@ -1,7 +1,7 @@
 ---
 title: "التعلّم بالتعليم"
 created: "2026-10-12T19:40:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
 connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
@@ -65,6 +69,7 @@ connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teac
 - **[[socrates-students-instructors-llms-lbt-2025|الفجوات المعرفية المُهندسة]]** (يانغ وآخرون) تُصمّم مشكلات لا يستطيع النموذج اللغوي حلّها دون معرفة يملكها الطالب وحده، فتجعل التعليم ضرورة وتُواجه الاعتماد المفرط السلبي لاستخدام النموذج اللغوي كمعلّم.
 - **قيود التلميذ في Explique** (وانغ وآخرون) تطلب من المتعلّم الموهَّم أن (أ) يبقى مبتدئًا، (ب) يستمر في طلب التوضيح حتى يكون شرح الطالب دقيقًا، و(ج) لا يفصح عن الشرح المستهدف أبدًا — وأن *يقاوم* الطلاب الذين يحاولون عكس الأدوار وجعل المتعلّم الموهَّم يشرح بالمقابل.
 - **فكّ التعلّم كطريق على مستوى الأوزان إلى قابلية الخطأ.** يكبت فكّ تعلّم الآلة 16 مكوّنًا معرفيًا مستهدفًا في Mistral-7B، فتنخفض الدقة من نحو 0.75 عند نسبة نسيان 10% إلى ما دون 0.5 عند 40% بينما يحفظ النموذج الأساسي نحو 0.85. وعادت المعرفة المكبوتة عبر إعادة التعلّم المُوجَّه والحوار المُوجَّه بالمدرّب، فيصير مستوى معرفة المتعلّم الموهَّم مقياسًا لا تأكيدًا ([[simulating-novice-students-machine-unlearning-2026|سونغ وگو ولين، 2026]]).
+- **الإشراف كمهمة للمتعلّم الموهَّم.** في حالة تصميم لمقررَين، يستأجر الطلاب مساعدًا عام الغرض ويُدخِلونه في العمل ويُدرّبونه ثم يوثّقون ما أخطأ فيه؛ ويُبلِغ المدرّسون أن شرح الاتفاقات للأداة أوضح تلك الاتفاقات للطالب ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## الاستقصاء والتنظيم الذاتي والتعلّم النشط
 

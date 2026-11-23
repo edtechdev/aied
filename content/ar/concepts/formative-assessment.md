@@ -10,7 +10,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [pedagogical-patterns, assessment, educational-measurement, automated-assessment, automated-question-generation, assessment-validity, feedback, ai-feedback-quality, feedback-literacy, self-assessment, learning-analytics, personalized-learning, adaptive-learning, scaffolding, self-regulated-learning, human-in-the-loop-ai, intelligent-tutoring, ai-ed-evaluation, summative-assessment, reflection]
 connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeling-competency-assessment-2026, nicola-richmond-programwide-assessment-genai-2025, ai-feedback-enactment-workflow-2026, care-full-feedback-genai, feedback-futures-genai, sequenced-ai-feedback-learning, learner-centered-feedback-ai, automated-scoring-learning-diagnosis-mechanism-2026, ai-internal-feedback-evaluative-judgments, cotal-formative-assessment-scoring-2026, automated-formative-assessments-a-level-sciences, ai-generated-feedback-higher-ed, ai-learning-tools-engineering-education-needs, genai-teacher-feedback-comparison, chatgpt-feedback-engagement-genai, code-gen, responsible-assessment-ai-era-stanford-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, automated-grading-linux-bash-examinations-large-language-models, instructor-ai-roles-chatgpt-formative-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, harmogen-ai-assessment-rubric-generation, ai-assisted-instructor-supervised-grading-feedback, adaptive-scaffolding-cognitive-engagement-its, yasar-llms-iterative-pedagogical-design-2026, auto-marking-short-answer-science-2026, gpt4-feedback-student-activation-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, mesny-innovative-assessment-grading-management-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, ai-feedback-adaptivity-children-plans-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, mendonca-llm-feedback-perceived-usefulness-programming-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, student-llm-use-ai-question-difficulty-data-science-2026, mcnamara-aim-cai-continuous-assessment-2026, etq-ai-conversational-teacher-training-2026, assessment-feedback-trilemma-model-2026, lee-ai-music-quiz-disciplinary-thinking-2026]
 ---
@@ -52,7 +56,8 @@ connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeli
 - **بنك بنود مولَّد سهل لا يعطي إشارة بنّاءة.** في نشر مدته عشرة أسابيع، أجاب كل طلاب بشكل صحيح على نحو 70% من بنود التدريب المولّدة بالذكاء الاصطناعي (p = 1.0)، فكانت الاختبارات القصيرة التي تُدار كل 15 إلى 20 دقيقة موضع ترحيب لكنها حملت معلومات تمييزية شبه معدومة لتكييف التعليم ([[student-llm-use-ai-question-difficulty-data-science-2026|آن ووانغ (2026)]]).
 - **تصحيح المقالات آليًا:** تحسّن أُطر الوكلاء المتعددين (مثل MASS) الاتساق مقارنة بـ [[llm|LLMs]] المنفردة في [[automated-essay-scoring|تصحيح المقالات]]، رغم أن [[explainable-ai|القابلية للتفسير]] لقرارات التصحيح متعددة الوكلاء تبقى تحديًا مفتوحًا.
 - **خطوط أنابيب التصحيح البنّاء:** يُزاوج [[cotal-formative-assessment-scoring-2026|CoTAL]] تلقين سلسلة الأفكار مع [[active-learning|التعلّم النشط]] والتصميم المتمركز حول الأدلة لإنتاج تصحيح تقويم بنّاء قابل للتعميم مع هندسة التلقين [[prompt-engineering|هندسة التلقين]] بإنسان في الحلقة.
-- **التقويمات الآلية [[automated-assessment|المصححة آليًا]] عالية التكرار:** يفحص [[automated-formative-assessments-a-level-sciences|التقويم البنّاء الآلي في علوم المستوى A]] أثر التقويم البنّاء عالي التكرار والمصحح آليًا على [[learning-gains|نواتج التعلّم]]. تؤكد مراجعة نطاق للتصحيح الآلي للإجابات القصيرة في [[science-education|العلوم]] (2017–أوائل 2024) أن حالة الاستخدام البنّاءة القصيرة هذه مجال له جذب حقيقي: سيطرت نماذج عائلة BERT على التصحيح الآلي حتى 2021 قبل تلقين [[llm|LLMs]] أكبر من ~2022، وأدّت النماذج المعزّزة بالمجال والواعية بمعايير التقييم وسلسلة الأفكار أفضل أداء — لكنها ما زالت نداءات المراجعة للتقييم الشامل وفجوات [[bias-mitigation|الإنصاف]] والقابلية للتفسير غير المحلولة تحذّر من تمديد مثل هذه الأنظمة إلى استخدام [[summative-assessment|ختامي]] أو عالي المخاطر بلا وساطة ([[auto-marking-short-answer-science-2026]]).
+- **التقويمات الآلية [[automated-assessment|المصححة آليًا]] عالية التكرار:** يفحص [[automated-formative-assessments-a-level-sciences|التقويم البنّاء الآلي في علوم المستوى A]] أثر التقويم البنّاء عالي التكرار والمصحح آليًا على [[learning-gains|نواتج التعلّم]]. تؤكد مراجعة نطاق للتصحيح الآلي للإجابات القصيرة في [[science-education|العلوم]] (2017–أوائل 2024) أن حالة الاستخدام البنّاءة القصيرة هذه مجال له جذب حقيقي: سيطرت نماذج عائلة BERT على التصحيح الآلي حتى 2021 قبل تلقين [[llm|LLMs]] أكبر من ~2022، وأدّت النماذج المعزّزة بالمجال و[[rubrics|الواعية بسلّم التقدير]] وسلسلة الأفكار أفضل أداء — لكنها ما زالت نداءات المراجعة للتقييم الشامل وفجوات [[bias-mitigation|الإنصاف]] والقابلية للتفسير غير المحلولة تحذّر من تمديد مثل هذه الأنظمة إلى استخدام [[summative-assessment|ختامي]] أو عالي المخاطر بلا وساطة ([[auto-marking-short-answer-science-2026]]).
+- **يمكن الاستمتاع باختبار مُمَلَّع دون أن يعلّم.** قيّم أربعة وثلاثون طالبًا جامعيًا في علم الموسيقى اختبارًا تكيّفيًا بالذكاء الاصطناعي بأدنى درجة في المقارنة مع التعليم التوجيهي التقليدي (M = 2.74 من 5) وانقسموا 21 مقابل 13 بشأن ما إذا كانوا سيوصون به، بينما تتبع التوصية شعورهم باستخدام التطبيق (استخدام مستقبلي 3.52 مقابل 1.54) لا فهم الموضوع (3.81 مقابل 3.62، p = 0.420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|لي وآخرون (2026)]]).
 
 ## التغذية الراجعة المولّدة بالذكاء الاصطناعي
 

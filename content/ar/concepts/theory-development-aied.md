@@ -9,8 +9,8 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-08T09:30:45-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
@@ -90,6 +94,8 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 
 يوسّع [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] [[self-regulated-learning|التعلم المنظّم ذاتيًا]] والتنظيم بين الإنسان والذكاء الاصطناعي بتسمية ما يحكمه المتعلّم — المعايير، و[[evaluative-judgment|الأحكام التقويمية]]، وتفويض الضبط — بدلًا من الاقتصار على ما يفعله الذكاء الاصطناعي.
 
+يستورد [[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]] مفاهيم Honneth وBrandom عن الاعتراف إلى نظرية التغذية الراجعة، مجادلًا بأن الإسناد المتبادل للمكانة، لا جودة المعلومات، هو ما يجعل التعليق سببًا للفعل.
+
 ويقدّم مفارقة الاحتكاك امتدادًا آخر لنظرية راسخة: يطبّق [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] [[desirable-difficulties|الصعوبات المرغوبة]] عند Bjork وBjork و[[productive-failure|الفشل المنتج]] عند Kapur على اللقاءات العلائقية في التعليم بالخارج، مجادلًا بأن المهم هو قدر فاعلية التفسير التي [[transfer-of-learning|ينقلها]] الطالب إلى مساعد توليدي لا عدد مرات استخدامه. والإطار تصوري ويعبّر عن خمسة مقترحات بوصفها فرضيات متنافسة.
 
 ويُنهض [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] بالتصنيف الوظيفي للميدان عند Zawacki-Richter et al. (2019): فمن بين 154 منشورًا لها وظيفة تطبيقية قابلة للتصنيف، أفلت 90 (58.4%) من فئاته الأربع، وإطارهما يتقاطع بين الوظيفة والضبط المفوَّض والموضع المعرفي والتربية المُضمَّنة.
@@ -108,15 +114,7 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 
 ## العلاقة بفلسفة الذكاء الاصطناعي في التعليم
 
-تطوير النظرية و[[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي في التعليم]] خيطان متكاملان لكنهما متميزان في العمل التأسيسي لقاعدة المعارف. فـ**تطوير النظرية** يُنتج *آليات* التعلّم مع الذكاء الاصطناعي ويختبرها تجريبيًا — نظريات وأطر مُسمّاة كالتوليدية والوكالة المعرفية المشتركة والأساس المعرفي الغائب تشرح كيفية تفاعل المتعلّمين والذكاء الاصطناعي وتتنبأ بها. أمّا **الفلسفة** فتستجوب *الافتراضات المسبقة* التي تستند إليها تلك الآليات: ما يُعدّ معرفة، ومن يُعدّ عارفًا، وما المتعلّم في الأساس. فنظرية كـ[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|الوكالة المعرفية المشتركة]] تقترح آلية مع تبنّيها ضمنيًا التزامات فلسفية حول المعرفة الموزّعة و[[agency|الفاعلية]]؛ والفلسفة تُبرز تلك الالتزامات صراحةً وجعلها قابلة للطعن. فحيث يسأل تطوير النظرية عمّا إذا كان إطار ما يفسر التعلّم جيدًا، تسأل الفلسفة عمّا إذا كان يُدرك ما التعلّم والعقل فعلًا — ويجتمع الخيطان في أكثر مقالات الميدان تأسيسًا، وهي غالبًا ما تفعلان الأمرين في وقت واحد.
-
-## المفاهيم الخاطئة الشائعة
-
-**«نتيجة بأن الأداة نفعت مساهمة نظرية.»** ليست كذلك، والسبب بنيوي. فحيث تتنبأ مقترحات إطار بفروق بين التشكيلات، لا تستطيع دراسة تُبلغ عن أثر متوسط فقط تأكيدها ولا دحضها — فالتصميم لا يرى التمييز الذي تتناوله النظرية. وتجربة تُظهر مكسبًا متوسطًا تخبرك بأن شيئًا ما حدث، لا بأي آلية حدث، فتبقى النظرية مدعومة بالقدر نفسه الذي كانت عليه قبلها.
-
-**«تطبيق نظرية راسخة على الذكاء الاصطناعي هو تطوير للنظرية.»** تقول مشكلة استخدام النظرية في هذه الصفحة خلاف ذلك: فالتطبيق ليس نهوضًا، والنمط المتكرر في الميدان هو مفاهيم مستعارة تُستخدم مفردات لا تنبؤات قابلة للاختبار. والتمييز مهم لأن إطارًا مستعارًا لا يستطيع توليد فرق قابل للدحض هو زينة لا نظرية.
-
-**«التصنيفات القائمة للوظيفة التربوية للذكاء الاصطناعي تغطي بالفعل ما تفعله هذه الأنظمة.»** إنها لا تغطي كثيرًا منه. فمن بين 154 منشورًا لها وظيفة تطبيقية قابلة للتصنيف، **أفلت 90 (58.4%) من الفئات الأربع** للإطار السابق، ولهذا يتقاطع العمل الأحدث بين الوظيفة والضبط المفوَّض والموضع المعرفي والتربية المُضمَّنة. وتصنيف يخطئ في نحو ثلاثة من كل خمس حالات لا يصلح مفردات مشتركة للميدان، والفجوة نتيجة عن الظاهرة لا ثغرة في ورقة.
+تطوير النظرية و[[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي في التعليم]] خيطان متكاملان لكنهما متميزان في العمل التأسيسي لقاعدة المعارف. فـ**تطوير النظرية** يُنتج *آليات* التعلّم مع الذكاء الاصطناعي ويختبرها تجريبيًا — نظريات وأطر مُسمّاة كالتوليدية والوكالة المعرفية المشتركة والأساس المعرفي الغائب تشرح كيفية تفاعل المتعلّمين والذكاء الاصطناعي وتتنبأ بها. أمّا **الفلسفة** فتستجوب *الافتراضات المسبقة* التي تستند إليها تلك الآليات: ما يُعدّ معرفة، ومن يُعدّ عارفًا، وما المتعلّم في الأساس. فنظرية كـ[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|الوكالة المعرفية المشتركة]] تقترح آلية مع تبنّيها ضمنيًا التزامات فلسفية حول المعرفة الموزّعة و[[agency|الفاعلية]]؛ والفلسفة تُبرز تلك الالتزامات صراحةً وجعلها قابلة للطعن. فحيث يسأل تطوير النظرية عمّا إذا كان إطار ما يفسر التعلّم جيدًا، تسأل الفلسفة عمّا إذا كان يُدرك ما التعلّم والعقل فعلًا — ويجتمع الخيطان في أكثر مقالات الميدان تأسيسًا، وهي غالبًا ما تفعلان الأمرين في وقت واحد. وما يقوله نقاد الميدان عن الاتجاهات التي تفتحها تلك النظريات أو تغلقها سؤال منفصل، مجمّع تحت [[critiques-of-ai-in-education|نقد الذكاء الاصطناعي في التعليم]].
 
 ## آثار على الممارسة
 
@@ -135,3 +133,11 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 
 - صمّم لتباينات التشكيل إن كنت تنوي مساهمة نظرية. فتجربة بأثر متوسط تُنشر بوصفها تطويرًا للنظرية هي أكثر مخرجات الميدان شيوعًا وأقلّها فائدة.
 - أرفق مقترحات صريحة قابلة للدحض بأي إطار تقدّمه، وأبلغ عن فروق التشكيلات التي كانت ستدحضها.
+## المفاهيم الخاطئة الشائعة
+
+**«نتيجة بأن الأداة نفعت مساهمة نظرية.»** ليست كذلك، والسبب بنيوي. فحيث تتنبأ مقترحات إطار بفروق بين التشكيلات، لا تستطيع دراسة تُبلغ عن أثر متوسط فقط تأكيدها ولا دحضها — فالتصميم لا يرى التمييز الذي تتناوله النظرية. وتجربة تُظهر مكسبًا متوسطًا تخبرك بأن شيئًا ما حدث، لا بأي آلية حدث، فتبقى النظرية مدعومة بالقدر نفسه الذي كانت عليه قبلها.
+
+**«تطبيق نظرية راسخة على الذكاء الاصطناعي هو تطوير للنظرية.»** تقول مشكلة استخدام النظرية في هذه الصفحة خلاف ذلك: فالتطبيق ليس نهوضًا، والنمط المتكرر في الميدان هو مفاهيم مستعارة تُستخدم مفردات لا تنبؤات قابلة للاختبار. والتمييز مهم لأن إطارًا مستعارًا لا يستطيع توليد فرق قابل للدحض هو زينة لا نظرية.
+
+**«التصنيفات القائمة للوظيفة التربوية للذكاء الاصطناعي تغطي بالفعل ما تفعله هذه الأنظمة.»** إنها لا تغطي كثيرًا منه. فمن بين 154 منشورًا لها وظيفة تطبيقية قابلة للتصنيف، **أفلت 90 (58.4%) من الفئات الأربع** للإطار السابق، ولهذا يتقاطع العمل الأحدث بين الوظيفة والضبط المفوَّض والموضع المعرفي والتربية المُضمَّنة. وتصنيف يخطئ في نحو ثلاثة من كل خمس حالات لا يصلح مفردات مشتركة للميدان، والفجوة نتيجة عن الظاهرة لا ثغرة في ورقة.
+

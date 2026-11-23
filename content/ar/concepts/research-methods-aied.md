@@ -1,7 +1,7 @@
 ---
 title: مناهج البحث في AIED
 created: "2026-10-12T18:30:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
 connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
@@ -67,6 +71,7 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 - **القيود:** مكلفة وبطيئة؛ الظروف الاصطناعية قد تقلص الصحة الإيكولوجية؛ أدوات الذكاء الاصطناعي سريعة التغير تجعل التجارب الطويلة تتقادم سريعًا؛ العينات الصغيرة كثيرًا ما تفتقر القدرة على كشف آثار ذات معنى؛ القيود [[ethics|الأخلاقية]] على حجب أدوات قد تكون مفيدة.
 - **نماذج:** [[access-not-enough-ai-tutoring-2026]]، [[genai-can-harm-teaching-rct-2026]]، [[adaptive-pretesting-retention]]، [[agent-voice-accents-k12-group-learning]]، [[ai-use-critical-thinking-medical-students-2026]].
 - **ينطبق التسجيل المسبق على التحليلات الثانوية أيضًا لا على التجارب فقط.** شغّل [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] أربع قواعد تحديث لتتبع المعرفة [[knowledge-tracing]] على سجلات ASSISTments متطابقة (12,716 طالبًا، 985,813 حدثًا مقيَّمًا) اختلفت فقط في كيفية تسجيلها الصفوف ذات التلميحات، وأبقى النصف التأكيدي مختومًا حتى وُجد ملف يحتوي رابط التسجيل، وأفاد بأن جميع التوقعات الأربع المسجلة مسبقًا تحققت. تنبأ إسناد أي إكمال بالأداء اللاحق دون مساعدة بأقل من ثابت صعوبة المهارة بقليل (AUC مجمّع 0.604 مقابل 0.595) مع إعلان إتقان 93.9% من أزواج الطالب–المهارة مقابل 72.8% بموجب قاعدة صارمة. عندما يدعم سجل واحد عدة استنتاجات، تثبيت التحليل مسبقًا هو ما يجعل المقارنة ذات مصداقية.
+- **أدرج استبعاد الذكاء الاصطناعي صراحةً.** لا يُعدّ الاختبار البعدي بلا ذكاء اصطناعي استبعادًا موثقًا إلا عندما يكون القيد موثقًا وتُفحص الالتزام به؛ فالخضوع للإشراف أو الاختبار الورقي وحده لا يفي بذلك ([[wei-assisted-performance-unaided-retention-2026|واي (2026)]]).
 
 ### الدراسات المسحية ونمذجة المعادلات البنائية
 
@@ -80,7 +85,7 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 
 ### المناهج النوعية
 
-تنتج المقابلات ومجموعات التركيز والتحليل الموضوعي أوصافًا غنية وسياقية لكيفية تجربة الطلاب والمعلمين لأدوات الذكاء الاصطناعي، والمعاني التي يعلقونها عليها، والتوترات والأضرار التي تغفلها القياسات المعيارية. يعتمد [[hazra-safetutors-pedagogical-safety-2026|البحث في سلامة مدرسي الذكاء الاصطناعي]] و[[ai-changing-teaching-workflows|كيف يغير الذكاء الاصطناعي سير عمل التعليم]] بشكل كبير على الأدلة النوعية. انظر صفحة المفهوم المخصصة [[qualitative-research|البحث النوعي]] للمعالجة الكاملة للمقاربات النوعية — التحليل الموضوعي، والنظرية المؤصلة، والفينومينولوجيا/الفينومينوغرافيا، وتحليل الخطاب، والملاحظة والإثنوغرافيا، ودراسات الحالة، والمقابلات/مجموعات التركيز — لكل منها نماذج من قاعدة المعارف.
+تنتج المقابلات ومجموعات التركيز والتحليل الموضوعي أوصافًا غنية وسياقية لكيفية تجربة الطلاب والمعلمين لأدوات الذكاء الاصطناعي، والمعاني التي يعلقونها عليها، والتوترات والأضرار التي تغفلها القياسات المعيارية. يعتمد [[hazra-safetutors-pedagogical-safety-2026|البحث في سلامة مدرسي الذكاء الاصطناعي]] و[[ai-changing-teaching-workflows|كيف يغير الذكاء الاصطناعي سير عمل التعليم]] بشكل كبير على الأدلة النوعية. انظر صفحة المفهوم المخصصة [[qualitative-research|البحث النوعي]] للمعالجة الكاملة للمقاربات النوعية — التحليل الموضوعي، والنظرية المؤصلة، والفينومينولوجيا/الفينومينوغرافيا، وتحليل الخطاب، والملاحظة والإثنوغرافيا، ودراسات الحالة، والمقابلات/مجموعات التركيز — لكل منها [[rubrics|نماذج]] من قاعدة المعارف.
 
 - **نقاط القوة:** بصيرة إيكولوجية ومفاهيمية عميقة؛ تكشف عن ظواهر ومخاطر وآليات غير متوقعة؛ ضرورية لبناء النظرية ودراسة مبادئ متنازع عليها مثل الثقة و[[agency|الاستقلالية]] والملكية الفكرية.
 - **القيود:** قابلية محدودة للتعميم؛ تفسيرية ومعتمدة على الباحث؛ عينات صغيرة؛ دعم أضعف للادعاءات السببية؛ قد يصعب تركيب النتائج عبر الدراسات.
@@ -110,6 +115,9 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 
 - **نقاط القوة:** تركيب فعّال لأدبيات كبيرة ومجزأة؛ تنتج التحليلات التجميعية تقديرات أثر مجمّعة وتكشف عوامل التعديل؛ ضرورية للممارسة القائمة على الأدلة وتحديد الفجوات.
 - **القيود:** تعتمد على جودة الدراسات المضمنة (دخل فاسد فخرج فاسد)؛ انحياز النشر؛ تباين المناهج ومقاييس النتائج يجعل التركيب صعبًا؛ تتقادم سريعًا بالنظر إلى سرعة تغير الذكاء الاصطناعي.
+- 
+إن ترتيبات الملاءمة في Google Scholar ديناميكية، لذا لا يمكن إعادة إنتاج بحث PRISMA يتضمنه انطلاقًا من الاستعلام وحده ([[ai-mathematics-education-prisma-review-2026|Omirzakova and Tileubay (2026)]]).
+
 - **تحفظ أبحاث حول الأبحاث (2026):** تُظهر نقد قاعدة التركيب في AIED أن كثيرًا من التحليلات التجميعية المبكرة تتعثر بعدم اتساق البنية، وعدم حل التباين، وإهمال الاعتماد بين أحجام الأثر، وتقييم غير صالح لانحياز النشر — مما يضخم أحجام أثر الذكاء الاصطناعي الرئيسية (انظر [[bartos-ai-learning-meta-meta-analysis-2026]]، [[oneill-presumed-effective-meta-analysis-2026]]، و[[weidlich-chatgpt-effect-search-cause-2025]]). تعامل مع أحجام أثر AIED المجمّعة كحدود عليا.
 - **نماذج:** [[zerkouk-comprehensive-review-its-2025]]، [[genai-higher-education-systematic-review-2026]]، [[chatgpt-critical-creative-thinking-review]]، [[zerkouk-comprehensive-review-its-2025]]، [[agentic-ai-education-scoping-review]].
 
@@ -128,7 +136,7 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 
 ### تصاميم أخرى: الطولية ودراسات الحالة والمحاكاة
 
-إلى جانب العائلات الكبرى، تستخدم قاعدة المعارف تصاميم **طولية** تتابع المتعلمين عبر الزمن ([[ai-lms-middle-school-longitudinal|دراسة طولية لنظام إدارة تعلّم]])، ودراسات **حالة وفي الميدان الطبيعي** للاستخدام الأصيل ([[ai-in-the-wild-college|تحليل واسع النطاق لتفاعلات طلاب حقيقية]])، ودراسات **محاكاة** تقف فيها نماذج اللغة مقام الطلاب أو المرضى ([[llm-student-simulation-teacher-insights|نماذج اللغة كمتعلمين محاكون]]، [[simulation|المحاكاة]]). تقايض هذه التصاميم الاتساع أو التحكم مقابل الواقعية وضد الوصول إلى ظواهر يصعب ملاحظتها لولا ذلك.
+إلى جانب العائلات الكبرى، تستخدم قاعدة المعارف تصاميم **[[longitudinal-research|طولية]]** تتابع المتعلمين عبر الزمن ([[ai-lms-middle-school-longitudinal|دراسة طولية لنظام إدارة تعلّم]])، ودراسات **حالة وفي الميدان الطبيعي** للاستخدام الأصيل ([[ai-in-the-wild-college|تحليل واسع النطاق لتفاعلات طلاب حقيقية]])، ودراسات **محاكاة** تقف فيها نماذج اللغة مقام الطلاب أو المرضى ([[llm-student-simulation-teacher-insights|نماذج اللغة كمتعلمين محاكون]]، [[simulation|المحاكاة]]). تقايض هذه التصاميم الاتساع أو التحكم مقابل الواقعية وضد الوصول إلى ظواهر يصعب ملاحظتها لولا ذلك.
 
 ### مناهج إجماع الخبراء: تقنية دلفي
 

@@ -1,7 +1,7 @@
 ---
 title: التقويم الأصيل
 created: "2026-10-12T20:35:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [learner-identity, eportfolio, problem-based-learning, assessment, assessment-validity, formative-assessment, automated-assessment, academic-integrity, ai-detection, self-regulated-learning, metacognition, ai-ed-evaluation, higher-ed, generative-ai, ai-education, feedback, summative-assessment, arts-and-media-education, reflection]
-connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychology-assessment-integrity-2026, paternalistic-filter-llm-history-education, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, benali-genai-academic-writing-2026, ying-genai-journalism-assessment-2026, pedlow-genai-selfassessment-2026, dollinger-equitable-assessment-ai-2026, sutama-chatgpt-eportfolio-speaking-2026, ni-lam-multiliteracies-ai-portfolio-2026, genai-simulate-patient-history-pbl-2026, pbl-structural-conditions-ai-2026, zhan-boud-du-authentic-assessment-scoping-review-2025, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, tool-invariant-framework-agentic-ai, cong-confidence-asag-2026, llm-fallacy-misattribution, universities-ai-era-rethinking, ssaho-ai-academic-integrity-review-2025, fenton-oral-exams-ai-authentic-assessment-2025, roe-assessment-twins-2026, lodge-adaptive-capabilities-genai-future-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, mesny-innovative-assessment-grading-management-2026, chen-zou-genai-group-assessment-agency-2026, teacher-educators-ai-integration-preservice-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, authentic-assessments-generative-ai-pilot-2026, ai-ethics-tensions-online-pedagogy-2026, villanueva-ai-vulnerability-assessment-audit-2026]
+connected_articles: [ai-ethics-tensions-online-pedagogy-2026, assessing-student-drive-framework-2025, asynchronous-oral-assessment-2026, austin-bloom-taxonomy-generative-ai-2026, authentic-assessments-generative-ai-pilot-2026, authentic-products-authenticated-processes-2026, benali-genai-academic-writing-2026, beyond-detection-authentic-assessment-ai-2025, chen-zou-genai-group-assessment-agency-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, cong-confidence-asag-2026, dollinger-equitable-assessment-ai-2026, fenton-oral-exams-ai-authentic-assessment-2025, genai-simulate-patient-history-pbl-2026, hadra-ai-detector-accuracy-efl-2026, ivory-psychology-assessment-integrity-2026, llm-fallacy-misattribution, lodge-adaptive-capabilities-genai-future-2026, mesny-innovative-assessment-grading-management-2026, munoz-misconduct-allegation-evidence-2026, ni-lam-multiliteracies-ai-portfolio-2026, paternalistic-filter-llm-history-education, pbl-structural-conditions-ai-2026, pedlow-genai-selfassessment-2026, responsible-assessment-ai-era-stanford-2026, roe-assessment-twins-2026, sharma-judgment-visible-genai-assessment-2026, ssaho-ai-academic-integrity-review-2025, sutama-chatgpt-eportfolio-speaking-2026, teacher-educators-ai-integration-preservice-2026, thapa-lewis-process-oriented-assessment-2026, tool-invariant-framework-agentic-ai, universities-ai-era-rethinking, villanueva-ai-vulnerability-assessment-audit-2026, wright-transcription-not-generation-2026, ying-genai-journalism-assessment-2026, zhan-boud-du-authentic-assessment-scoping-review-2025]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -36,7 +40,7 @@ connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychol
 - يفحص التقويم الأصيل الأداء في مهام فكرية جديرة وواقعية بدلًا من عناصر اختبار معزولة. قبل القراءة، هل افترضت أن المهمة "الأصيلة" مجرد محاكاة لسيناريو واقعي أو من مكان العمل؟ تدّعي هذه الصفحة أن الأصالة تطوّرت إلى ما هو أبعد بكثير من المحاكاة المجردة — فأي أشكال أخرى يمكن أن تتخذها؟
 - ادعاء مركزي هو أن أي مهمة يستطيع نموذج لغوي محاكاتها بمعقولية في سياق العمل المنزلي تفقد صلاحيتها كدليل على كفاءة أصلية للطالب. أي تقويم في تعليمك أو دراستك تعتبره الآن "قابلاً للتزييف" — وما الذي يدفعك إلى قول ذلك؟
 - تبرز الصفحة فجوة لافتة: تناولت 3 دراسات فقط من أصل 37 الأصالة الاجتماعية — ما إذا كان التقويم يساعد الطلاب على المساهمة في تحوّل المجتمع. لماذا تعتقد أن البُعد الاجتماعي للأصالة مهمَل هذا الإهمال، وكيف قد يبدو تقويمه فعلًا؟
-- تجادل قاعدة المعارف بأن الأصالة يجب أن "تُعاد تصميمها لا أن تُراقَب بالقوة". عندما يُؤلِّف الطلاب سلالم التقدير مشتركين، ويختارون ما يُقدَّم وكيف، وينخرطون في تفاعل في الزمن الحقيقي، يصبح استخدام الذكاء الاصطناعي متوقعًا ومُعلنًا لا مخفيًا. كيف سيحوّل ذلك العلاقة بين الطالب والمُقيّم؟
+- تجادل قاعدة المعارف بأن الأصالة يجب أن "تُعاد تصميمها لا أن تُراقَب بالقوة". عندما يُؤلِّف الطلاب [[rubrics|سلالم التقدير]] مشتركين، ويختارون ما يُقدَّم وكيف، وينخرطون في تفاعل في الزمن الحقيقي، يصبح استخدام الذكاء الاصطناعي متوقعًا ومُعلنًا لا مخفيًا. كيف سيحوّل ذلك العلاقة بين الطالب والمُقيّم؟
 - تُقدَّم الامتحانات الشفوية والحافظ المبني على العملية كأشكال أصيلة مقاومة للذكاء الاصطناعي. لكن التأمل المصنَّف و[[self-assessment|التقييم الذاتي]] يخاطران بأن يصبحا تمثيليين — طلاب يؤدّون التأمل الذي يظنون أنه المطلوب. كيف تصمّم للتأمل الأصيل لا للأداء؟
 - عندما يوفّر الذكاء الاصطناعي سلم التقدير والتغذية الراجعة والمراقبة، تحذّر الصفحة من أن ممارسة الطالب ما وراء المعرفية قد تُزاح. إذا كانت الأداة هي التي تُقيّم، فما الباقي للمتعلّم ليمارسه أو يتعلّمه فعلًا؟
 
@@ -64,6 +68,7 @@ connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychol
 - يزعم [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] أن الأصالة لا يمكن مراقبتها بالقوة حتى توجد؛ بل يجب تصميمها، بتموضع الذكاء الاصطناعي كشريك مُعلَن لا كتطبيق غش، وإعطاء الأولوية للتقويم [[process-oriented-assessment|القائم على العملية]] الأصيل على المراقبة.
 - يعيد [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] تأطير التقويم حول أدلة الصلاحية والمهام الأصيلة التي تعكس العمل المستقبلي للطلاب.
 - يفحص [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] كيف يستطيع [[higher-ed|التعليم العالي]] الغني بالذكاء الاصطناعي تقويم المخرجات الأصيلة والعمليات التي أنتجتها معًا.
+- **الحوكمة تصل إلى الطلاب عبر تصميم التقويم.** تنبّأ تصوّر جودة [[governance|حوكمة الذكاء الاصطناعي]] بالتقويم الأصيل المتصوَّر بما يفوق الوعي بالسياسة بكثير (β = 0.36 مقابل 0.12)، وحمل التقويم الأصيل كاملًا المسار إلى [[student-engagement|الانخراط]] عبر 644 طالبًا في جامعات صينية ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 
 - **شريك صياغة بالذكاء الاصطناعي لا يزال يترك الحكم.** جرّب [[authentic-assessments-generative-ai-pilot-2026|Paula وآخرون (2026)]] مصمّم تقويم بـGPT-4.1 مع ثمانية منسّقين: أنتج نظرات عامة قابلة للاستخدام ومهامًا ومعايير وجداول زمنية وسلالم تقدير لكنه أخطأ مرارًا في السياق التخصصي وتسلسل المواضيع، ورفض الثمانية جميعًا الأتمتة الشاملة، واضعين [[evaluative-judgment|الحكم الأكاديمي]] لا في النموذج.
 - تجادل [[tool-invariant-framework-agentic-ai|الأداة المستقلة عن الأداة]] بتقويم الطرق الحاسوبية والعملية بدلًا من مخرجات خاصة بأداة معيّنة، باستخدام الدفاع الشفوي والتحقق.
@@ -79,6 +84,8 @@ connected_articles: [thapa-lewis-process-oriented-assessment-2026, ivory-psychol
 يجادل [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] بأن التصميم الموجّه للنزاهة والتصميم الأصيل ليسا الشيء نفسه، وأن الفرق معرفي لا أسلوبي. تسأل الأصالة عما إذا كانت المهمة تعكس ممارسة واقعية جديرة؛ ويسأل التصميم الموجّه للنزاهة عما إذا كان المتعلّمون قادرين على تبرير قراراتهم وتحمّل المسؤولية في علاقتهم بالمعايير التخصصية، ما يجعل النزاهة معيارًا صريحًا قابلًا للتقويم مدمجًا في بنية المهمة لا نتيجة عرضية للواقعية. والممارسات التي يقدّمها — مسارات قرار مشروحة، والتحقق من ادعاءات GenAI المساهَمة، والدفاع الشفوي والمسؤولية الحوارية، واختلافات المسوّدات مع تاريخ الإصدارات — أشكالًا من التقويم الأصيل يمكن التعرف عليها. لكنها مُنتقاة، مع ذلك، من أجل [[evaluative-judgment|الحكم]] الذي تجعله مرئيًا لا من أجل واقعيتها، وهو تصحيح مفيد لمهام تبدو أصيلة وتبقى قابلة للتزييف في الجوهر. وتحذيره ينتمي إلى هذه الصفحة أيضًا: فاشتراط الاستدلال الموثّق يمنح أفضلية للمتعلّمين الأكثر طلاقة في [[reflection|الخطاب التأملي]]، والحكم كدليل "يبقى علائقيًا وموضعيًا لا قابلاً للتحقق آليًا"، لذا يحمل التصميم عبء موثوقية تفسيرية خاصًا به.
 
 ويُعاد تأطير السؤال نفسه على يد [[thapa-lewis-process-oriented-assessment-2026|Thapa وLewis (2026)]]، اللذين يُسمّيان ما ينبغي أن *تُوثّقه* المهمة لا عما إذا كانت تبدو حقيقية: الأصالة المعرفية، أي مدى التقاط التقويم للانخراط الأصيل في التأويل والحكم التقويمي والاستدلال وبناء المعرفة. وحجّتهما أن الأصالة وحدها لا تنجو من الذكاء الاصطناعي التوليدي، لأن المهمة الأصيلة التي يكون دليلها منتجًا واحدًا غير مُشرَف عليه معرّضة لمسألة الاستبدال نفسها التي عالجها المقال الذي حلّت محله. وجعل الاستدلال مرئيًا يقتضي بدلًا من ذلك تسليمات مرحلية، وتبريرًا تأمليًا، وانخراطًا حوارًا، وشفافية تقويمية. وينقلان التحذير أعلاه إلى التصميم: تستطيع المهام التأملية والحوارية أن تمنح أفضلية للطلاب الواثقين في التعبير الأكاديمي عن الذات ما لم تُصمَّم بشكل شامل وسقالي، ويعمّق العمل العلائقي العمل العاطفي للمعلمين في البيئات الكبيرة أو المحدودة الموارد.
+
+- **الارتداد بدل التسلسل.** يجادل Austin وGulya وKassorla (2026) بأن الذكاء الاصطناعي التوليدي يكسر الافتراض الكامن وراء التقويم المرتّب بحسب تصنيف بلوم — أن المنتج المكتمل يُثبت التفكير الذي أنتجه — ويقترحون العمل من مصنوع مدعوم بالذكاء الاصطناعي إلى الوراء عبر التقويم والتحليل والتنقيح، أو استبدال السلّم بحلقة ارتدادية متمركزة حول المشكلة. وتتحوّل الأدلة القابلة للتقويم من المنتج إلى الاستجواب والتكييف والتوجيه الأخلاقي الذي يطبّقه المتعلّم عليه ([[austin-bloom-taxonomy-generative-ai-2026|Austin et al., 2026]]).
 
 ## عندما يتراجع الممارسون إلى الصيغ المراقَبة بالقوة
 

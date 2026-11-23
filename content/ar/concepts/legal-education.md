@@ -14,8 +14,8 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-07T13:45:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
 connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
@@ -61,7 +65,7 @@ connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-gena
 
 ## ما تُظهره أدلة السياسة
 
-يقيّم Gutowski and Hurley السياسات على خمسة أبعاد بسلالم من 0 إلى 5: **المنع**، و**الإذن**، و**الدمج التعليمي**، و**الشفافية والمساءلة**، و**العمق**. وجد مسحهما أن معظم كليات الحقوق تبنت مواقف منعية عمومًا، يُفسَّر كثير منها بأنها شراء وقت لدراسة التقنية، بينما حُفظ في كل السياسات تقريبًا تقدير المعلمين الفرديين. ارتبط تقييما الإذن والمنع ارتباطًا عكسيًا كما هو متوقع، ويذكر المؤلفان عدم وجود مقاربة مقبولة واحدة: السياسات تمتد من حكومة شاملة إلى عدم وجود سياسة معلنة على الإطلاق.
+يقيّم Gutowski and Hurley السياسات على خمسة أبعاد بـ[[rubrics|سلالم التقدير]] من 0 إلى 5: **المنع**، و**الإذن**، و**الدمج التعليمي**، و**الشفافية والمساءلة**، و**العمق**. وجد مسحهما أن معظم كليات الحقوق تبنت مواقف منعية عمومًا، يُفسَّر كثير منها بأنها شراء وقت لدراسة التقنية، بينما حُفظ في كل السياسات تقريبًا تقدير المعلمين الفرديين. ارتبط تقييما الإذن والمنع ارتباطًا عكسيًا كما هو متوقع، ويذكر المؤلفان عدم وجود مقاربة مقبولة واحدة: السياسات تمتد من حكومة شاملة إلى عدم وجود سياسة معلنة على الإطلاق.
 
 يوثّقان أيضًا كم هي رقيقة أدلة القطاع. أخذ مسح ABA لعام 2024 عن الذكاء الاصطناعي والتعليم القانوني ردودًا من 29 كلية فقط، نحو 15% من كليات الحقوق المعتمدة من ABA، فيكاد لا يُمكن اعتباره تمثيليًا؛ ووجد مسح LexisNexis لـ800 طالب حقوق أن 9% فقط أبلغوا عن استخدام حالي للذكاء الاصطناعي التوليدي في دراستهم، مقابل 25% يخططون لتبنيه. يقرأ المؤلفان الاستخدام المُبلَّغ المنخفض جزئيًا كاستجابة لقواعد غير واضحة، إذ إن الوضوح يقلل الخوف من خرقها.
 

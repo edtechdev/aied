@@ -1,7 +1,7 @@
 ---
 title: تعليم الرياضيات
 created: "2026-10-12T15:55:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
 connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
@@ -51,7 +55,7 @@ connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-mat
 **الترميز الإدراكي نفسه متغيّر تصميمي للمهمة:** وجد [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang وآخرون (2026)]] أن تصاميم الإشارات البصرية في مسائل ترتيب العمليات تنقسم إلى سقالات وصعوبات مرغوبة. وبملاءمة نماذج BKT خاصة بكل شرط إشاري على 19,952 نقطة بيانات من 688 طالبًا في الصف السادس، وجدوا أن التباعد المتطابق مع لون محايد (CSNC) سقالة ثابتة — وهو الشرط الوحيد الذي تقدّم على مرجع بلا إشارة في الاختبار البعدي (B = 0.33، p = .011).
 والتباعد المحايد مع لون غير متطابق (NSIC) أنتج أدنى معدل تخمين (0.190)، وأعلى معدل تعلّم (0.0379)، وأدنى معدل نسيان (0.0054).
 
-**مكاسب طرح المسائل سطحية.** مع 57 معلّمًا للرياضيات قبل الخدمة يطرحون مسائل قسمة الكسور قبل استخدام Gemini ومعه، ارتفعت درجات سلم التقدير من 5.95 إلى 6.65 من 8. وقع المكسب في السياق واللغة بينما لم يكن لنوع المسألة وقابليتها للحل مجال للحركة، وارتفع استدعاء معنى لقسمة الكسور من حد أدنى 1.00 إلى 1.37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi، 2026]]).
+**مكاسب طرح المسائل سطحية.** مع 57 معلّمًا للرياضيات قبل الخدمة يطرحون مسائل قسمة الكسور قبل استخدام Gemini ومعه، ارتفعت درجات [[rubrics|سلّم التقدير]] من 5.95 إلى 6.65 من 8. وقع المكسب في السياق واللغة بينما لم يكن لنوع المسألة وقابليتها للحل مجال للحركة، وارتفع استدعاء معنى لقسمة الكسور من حد أدنى 1.00 إلى 1.37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi، 2026]]).
 
 **ثمنٌ على الرضا.** إن توجيه مدرّس خاص من النماذج اللغوية الكبيرة عبر خطة [[productive-failure|فشل منتج]] بدل تركه يجيب رفع وفاء الاستراتيجية وأنتج 2.6 محاولة حل لكل جلسة في دراسة على 17 طالبًا في المرحلة الثانوية، ومع ذلك قوّم الطلاب مدرّس الفشل المنتج بأنه أقل نفعًا من خط الأساس ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 

@@ -1,7 +1,7 @@
 ---
 title: تعليم الكيمياء
 created: "2026-10-12T19:35:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T19:30:19-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
@@ -52,6 +56,9 @@ connected_articles: [ai-science-chemistry-education-systematic-review-2025, unes
 **التقويم البنّاء بوساطة الذكاء الاصطناعي والتعاون بين الإنسان والذكاء الاصطناعي.** وجد **[[instructor-ai-roles-chatgpt-formative-assessment-2026|راتنيوم وزملاءه]]** أن معلّمي [[teacher-role|معلّمي]] العلوم قبل الخدمة يُدركون أدوارًا متميزة قائمة على الإنجاز: المدرّس البشري كخبير تكيفي (المبسّط/المفصّل)، وChatGPT كأداة تعلّم ذاتي تنظيم شخصية تنتقل من *المدرّس [[intelligent-tutoring|المدرّس]] الصبور* (الضعاف في الإنجاز) إلى *المدرب الشخصي* (المتوسطون) إلى *شريك المناظرة الفكرية* (القويون) — مقترحَين **نظام تعلّم تآزري بين المدرّس والذكاء الاصطناعي**. وهذا يُطوّر أبحاث [[human-ai-collaboration]] و[[formative-assessment]] و[[self-regulated-learning]].
 
 **الدقة التقنية وثقافة الذكاء الاصطناعي النقدية.** تُظهر الأدلة المنهجية أن [[llm|النماذج اللغوية الكبيرة]] تستطيع تعريف المصطلحات الكيميائية الأساسية لكنها تؤدي أداءً ضعيفًا في المهام الكمية الصارمة وتجد صعوبة في الاستدلال المكاني (مثل NMR)، مع ثقة مفرطة وحساسية للترميز ([[ai-science-chemistry-education-systematic-review-2025|إيروميت وأوزدمير صاريالي أوغلو]]؛ ونتائج ChemBench/QCBench في [[unesco-ai-guidelines-chemical-education-2026|منظور اليونسكو]]). وهذا يجعل **المشاركة التقييمية مع مخرجات الذكاء الاصطناعي** — استجوابها والتحقق منها والمقابلة المتبادلة معها مقابل المبادئ الكيميائية — هدفًا تعلّميًا مركزيًا، متصلًا بـ [[ai-literacy]] و[[critical-thinking]] و[[reducing-ai-misuse]].
+
+**التغذية الراجعة العاطفية قد ترفع القلق الذي تستهدفه.** تزامنت سنة من التغذية الراجعة العاطفية بالذكاء الاصطناعي في مختبرات الصف التاسع مع ارتفاع القلق المختبري (F = 4.60) وشعور بالإنجاز راكد، في حين كسبت شعبة الاستقصاء بقيادة المعلّم (F = 7.92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
+
 
 **الأخلاقيات والسياسة والانحراف المعرفي.** يحذّر [[unesco-ai-guidelines-chemical-education-2026|منظور إرشادات اليونسكو]] من **الانحراف المعرفي** — خطر أن تسحب الخوارزميات المعتمة الاستقصاء بعيداً عن الفهم السببي — ويدعو إلى انتقال من توصيل المحتوى إلى **خلق المعرفة**، وثقافة كيميائية نقدية بالذكاء الاصطناعي، وتقويم يعطي الأولوية للاستدلال البشري، وإغلاق فجوة الوصول [[digital-divide|العالمية]].
 

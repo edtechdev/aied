@@ -9,8 +9,8 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-04T17:45:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
 connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
@@ -33,7 +37,7 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 ## أسئلة يجب التفكر فيها
 
 - استرجع مرةً قُيّم فيها عملك من قريب — أو قيّمت عمله. ماذا تعلمت منه أكثر: إعطاء التغذية الراجعة أم استلامها، ولماذا؟
-- لماذا قد تكون تغذية الطالب الراجعة أكثر وعياً بالسياق ودعماً عاطفياً من تغذية الذكاء الاصطناعي، حتى حين تكون تغذية الذكاء الاصطناعي أكثر اتساقاً وقائمة على معايير مرجعية؟ كيف يمكن أن يُكمّل الاثنان بعضهما؟
+- لماذا قد تكون تغذية الطالب الراجعة أكثر وعياً بالسياق ودعماً عاطفياً من تغذية الذكاء الاصطناعي، حتى حين تكون تغذية الذكاء الاصطناعي أكثر اتساقاً و[[rubrics|قائمة على سلّم التقدير]]؟ كيف يمكن أن يُكمّل الاثنان بعضهما؟
 - يميل الأقران إلى تقليل درجات العمل القوي ويميل الذكاء الاصطناعي إلى تضخيم العمل الضعيف. إذا لم يكن أيٌّ منهما دقيقاً بموثوقية عبر نطاق الجودة كله، فلماذا ينبغي أن تُستخدم درجة من أي من المصدرين؟
 - يعتمد التقويم بالأقران بشكل كبير على [[scaffolding]] وعلى معايير واضحة، وانحياز الصداقة والقلق [[anxiety-and-stress|الاجتماعي]] يمكن أن يجعل مراجعة الأقران غير المدربة أسوأ من لا مراجعة. كيف يبدو التدريب الملائم فعلاً في سياقك؟
 - إذا كان الذكاء الاصطناعي يستطيع صياغة تعليقات حول التنظيم والبنية، فهل يجعل ذلك التقويم بالأقران زائداً — أم يُحرّر الأقران ليقدموا التغذية الراجعة المحددة والواعية بالجمهور التي لا يمكنهم غيرهم تقديمها؟
@@ -105,4 +109,5 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 - **«الدفاع الشفهي يوقف العمل المدعوم بالذكاء الاصطناعي.»** ارتفعت نسبة الأحرف الملصوقة إلى الكلي **من 61.0% إلى 68.1% (p < 0.0001)** بعد أن صار كل تسليم في CS1 خاضعًا **لمراجعة شفهية للشيفرة مدتها 15 دقيقة تُحتسب 70% من الدرجة**. فالسلوك الذي استهدفه التدخل زاد — ولم **تنخفض درجات الامتحان وبقي وقت المهمة ثابتًا**، في حين قال **90% من الطلاب إن المراجعات حفّزتهم**. فقد عمل التدخل على الفهم لا على اللصق.
 - **«كشف الغش هو غرض [[oral-assessment|التقويم الشفهي]].»** كانت المخرجات المقيسة الفهمَ والتحفيز، لا تقليل النص الملصوق. فالحكم على التصميم بمعدل كشفه يقرأ خطأً ما أنجزه.
 - **«مراجعة الأقران بديل أرخص لتغذية المدرّس الراجعة.»** [[learning-by-teaching|التعلّم بالتعليم]] هو الآلية، ويظهر حتى بين الآلات: كان خطاب يشبه تعلّم الأقران بين أكثر من **2.4 مليون وكيل ذكاء اصطناعي** معظمه **تقريرًا لا استقصاءً**. فإنتاج النقد فعل مختلف عن تلقّيه.
+
 - **النماذج التأملية للأقران والذات كسجل خلف درجة جماعية.** استخدم [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] نموذجًا تأمليًا واحدًا للأقران لكل زميل بالإضافة إلى نموذج تأملي ذاتي واحد لكل طالب في وحدة إدارة مشاريع أعمال في الدراسات العليا، إلى جانب اجتماع مدته 30 دقيقة مع كل فريق سُئل فيه الأعضاء هل كانت مساهمتهم أصيلة. ولم تُقيَّم النماذج كتبادل تغذية راجعة. بل كانت الدليلَ الفردي الذي مكّن المدرّس من الدفاع عن علامة فردية داخل تقويم فريقي بنسبة 40%. وارتفاع علامة الإطار من 27/40 إلى 31/40 مشوب بمحاضر جديد، وادعاؤه في النزاهة غير مُكمَّم، لذا فالجزء القابل للنقل هو بنية حفظ السجلات لا حجم الأثر.

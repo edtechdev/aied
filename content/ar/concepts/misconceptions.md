@@ -10,8 +10,8 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,11 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
-connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
@@ -46,7 +50,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## مقدمة
 
-تُهمّ المفاهيم الخاطئة حول الذكاء الاصطناعي لأنها السلَف المعرفي للسلوكيات الضارة التي توثّقها قاعدة المعارف تحت عناوين [[cognitive-offloading|الاعتماد المفرط]] و[[academic-integrity]]. فنادراً ما ينوي الناس [[ai-misuse-learning-harm|إساءة]] استخدام الذكاء الاصطناعي؛ لكنهم يفعلون ذلك لأن نماذجهم الذهنية غير الدقيقة تقودهم إلى إسكان الثقة في غير موضعها، وتخطّي التحقق، ومعاملة المخرج كأنه فهم. وفي التعليم تشكّل هذه الأخطاء كل شيء من طريقة دراسة الطلاب إلى كيفية تصميم المدرّسين والمؤسسات للمناهج و[[assessment]] والسياسات.
+تُهمّ المفاهيم الخاطئة حول الذكاء الاصطناعي لأنها السلَف المعرفي للسلوكيات الضارة التي توثّقها قاعدة المعارف تحت عناوين [[cognitive-offloading|الاعتماد المفرط]] و[[academic-integrity]]. فنادراً ما ينوي الناس [[ai-misuse-learning-harm|إساءة]] استخدام الذكاء الاصطناعي؛ لكنهم يفعلون ذلك لأن نماذجهم الذهنية غير الدقيقة تقودهم إلى إسكان الثقة في غير موضعها، وتخطّي التحقق، ومعاملة المخرج كأنه فهم. وفي التعليم تشكّل هذه الأخطاء كل شيء من طريقة دراسة الطلاب إلى كيفية تصميم المدرّسين والمؤسسات للمناهج و[[assessment]] والسياسات. وثمة مجموعة أبحاث منفصلة تشكّك في التأطير الذي يُنتج تلك المفاهيم الخاطئة أصلًا؛ انظر [[critiques-of-ai-in-education|نقد الذكاء الاصطناعي في التعليم]].
 
 ## ما المفاهيم الخاطئة حول الذكاء الاصطناعي
 المفهوم الخاطئ هنا ليس مجرد جهل بكيفية عمل نموذج — إنه معتقد مُمسَك به بنشاط، ومُعزِّز لنفسه في الغالب، يُنتج أخطاءً منهجية في كيفية تفاعل الطلاب مع الذكاء الاصطناعي. وهي شبيهة تماماً بالمفاهيم الخاطئة المجالية المدروسة في [[learning-sciences|علم تعلّم التعلّم]]: مستقرة ومعقولة ومقاومة للتصحيح حتى تُواجَه. وتصحيحها هدف محوري لتعليم [[ai-literacy]] و[[trust-calibration]].

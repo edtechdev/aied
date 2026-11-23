@@ -12,7 +12,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
 connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
 ---
@@ -91,13 +91,6 @@ connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive
 
 ولا تهم النتائج إلا عندما تصل إلى التعليم، ويمر ذلك الرحلة عبر ثلاث صفحات. فـ[[educational-development|التطوير التعليمي]] هو الممارسة المؤسسية التي تحملها — فالتطوير الأكاديمي والمعايير والسياسات و[[learner-identity|عمل الهوية]] يقرر ما إذا كان تصميم متحقَّق سيصل إلى صف أبدًا، ولهذا تسبق أدلة الحقل رأسًا ما نفّذته المؤسسات. و[[teacher-education|تعليم المعلم]] هو الموضع الذي ينبغي أن تهبط فيه المعرفة قبل أن يدخل معلم إلى الغرفة، و[[teacher-role|دور المعلم]] هو موضع هبوطها بعد ذلك، في الحكم لحظة بلحظة عن متى يتدخل، وأي أداة يستخدم، ومتى يترك متعلّمًا لحاله. ولا تُنتج أي من الثلاثة نتائج علوم التعلّم؛ لكن الثلاثة تقرر ما إذا كانت تلك النتائج ستغيّر الممارسة.
 
-## المفاهيم الخاطئة الشائعة
-
-- **«عتبة تمكّن عالية تضمن أن المتعلّم يستطيع التمييز.»** أجرى [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] **إحدى عشرة تجربة (N = 192)** بأنظمة [[intelligent-tutoring|تدريس ذكي]] ووجد أن عند **عتبة تمكّن 95% أوقف النظامُ التدريب قبل أن يلاقي المتعلّمون حالةً تتطلب حجب الفعل**، فمرّ العيب دون كشف. فتمكّن الفعل لم يتضمّن معرفة متى لا يُطبَّق، والعتبة صدّقت على بناء خاطئ.
-- **«مزيد من الأمثلة أأمن.»** يعامل [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] نسبة المثال-المسألة **تفاعلًا بين المحتوى والمعالجة**، وفي تجربة 2×2 **اعتمد الأمثل على المحتوى**. فلا نسبة صحيحة عالميًا، والقالب التعليمي الثابت رهانٌ ضد تفاعل.
-- **«إصلاح [[misconceptions|المفهوم الخاطئ]] مسألة أن تُخبر الطلاب بالجواب الصحيح.»** خفّض تدريبٌ قصير على «لا تفعل» مع [[feedback|تغذية راجعة]] تسمّي القيد الغائب سوء التطبيق إلى **0.0%–23.1% (h كوهين 1.70–2.44)**، ووجد تحليل ثانوي لـ**ثلاث عشرة مجموعة بيانات K-12 من *Decimal Point*** النمط البنيوي نفسه. فالتدخّل الفعّال كان تدريبًا تمييزيًا بتغذية راجعة موجّهة لا تصحيحًا بالإخبار — وهو ما تُرسيه أعمال [[refutation-text|النصوص الداحضة]] عمومًا.
-- **«مستوى بلوم الأعلى يعني [[active-learning|تعلّمًا أنشط]].»** تتبّع نوع التعلّم مستوى الناتج المقصود، مع **انخفاض الاكتساب من نحو 50% من الأنشطة عند مستوى بلوم 1 إلى نحو 20% عند المستوى 6**. فالطلب المعرفي ونوع النشاط يتحرّكان معًا لكنهما ليسا المحور نفسه، فوسم مهمةٍ بمستوى بلوم لا يخبرك بما سيفعله المتعلّمون بها.
-
 ## ما يعنيه هذا للممارسة
 
 **للمدرّسين**
@@ -112,3 +105,10 @@ connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive
 - لا توقف التدريب على الصحة وحدها. نمذج شرط الحجب كمهارة مستقلة، وإلا صدّق النظام على تعميم مفرط.
 - اجعل النسبة معاملًا لا ثابتًا، لأن الدليل يقول إن الأمثل معتمد على المحتوى.
 - أبلغ عن البناء الذي يقيسه معيارك، منفصلًا عن البناء الذي يقيسه تحقّقك.
+
+## المفاهيم الخاطئة الشائعة
+
+- **«عتبة تمكّن عالية تضمن أن المتعلّم يستطيع التمييز.»** أجرى [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] **إحدى عشرة تجربة (N = 192)** بأنظمة [[intelligent-tutoring|تدريس ذكي]] ووجد أن عند **عتبة تمكّن 95% أوقف النظامُ التدريب قبل أن يلاقي المتعلّمون حالةً تتطلب حجب الفعل**، فمرّ العيب دون كشف. فتمكّن الفعل لم يتضمّن معرفة متى لا يُطبَّق، والعتبة صدّقت على بناء خاطئ.
+- **«مزيد من الأمثلة أأمن.»** يعامل [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] نسبة المثال-المسألة **تفاعلًا بين المحتوى والمعالجة**، وفي تجربة 2×2 **اعتمد الأمثل على المحتوى**. فلا نسبة صحيحة عالميًا، والقالب التعليمي الثابت رهانٌ ضد تفاعل.
+- **«إصلاح [[misconceptions|المفهوم الخاطئ]] مسألة أن تُخبر الطلاب بالجواب الصحيح.»** خفّض تدريبٌ قصير على «لا تفعل» مع [[feedback|تغذية راجعة]] تسمّي القيد الغائب سوء التطبيق إلى **0.0%–23.1% (h كوهين 1.70–2.44)**، ووجد تحليل ثانوي لـ**ثلاث عشرة مجموعة بيانات K-12 من *Decimal Point*** النمط البنيوي نفسه. فالتدخّل الفعّال كان تدريبًا تمييزيًا بتغذية راجعة موجّهة لا تصحيحًا بالإخبار — وهو ما تُرسيه أعمال [[refutation-text|النصوص الداحضة]] عمومًا.
+- **«مستوى بلوم الأعلى يعني [[active-learning|تعلّمًا أنشط]].»** تتبّع نوع التعلّم مستوى الناتج المقصود، مع **انخفاض الاكتساب من نحو 50% من الأنشطة عند مستوى بلوم 1 إلى نحو 20% عند المستوى 6**. فالطلب المعرفي ونوع النشاط يتحرّكان معًا لكنهما ليسا المحور نفسه، فوسم مهمةٍ بمستوى بلوم لا يخبرك بما سيفعله المتعلّمون بها.

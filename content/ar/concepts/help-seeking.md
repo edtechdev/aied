@@ -10,8 +10,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-08T08:56:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
 connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
 ---
@@ -30,8 +34,6 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
 > **طلب المساعدة** — عملية المتعلّم في إدراك الحاجة إلى عون وطلبه استراتيجيًا، وكيف تجري تلك العملية في بيئات التعلُّم المدعومة بالذكاء الاصطناعي. في [[ai-education|الذكاء الاصطناعي في التعليم]]، يعدّ طلب المساعدة محوريًا في ما إذا كانت أدوات الذكاء الاصطناعي تدعم التعلُّم أو تُضعفه: فإن *جودة* طلب المساعدة (متى، وكيف، وما يطلبه المتعلّمون) تشكّل النتائج تشكيلًا قويًا، ومدرّبو الذكاء الاصطناعي والتلميحات والوكلاء [[pedagogy|البيداغوجية]] مصمّمة بالضبط لإثارة طلب مساعدة منتج لا طلب أجوبة.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
-يمكن للتواصل الاستباقي أن يرفع طلب المساعدة دون أي تغيير في مواد التعلُّم. فقد أجرت تجربة مسجّلة مسبقًا في مقررات بكالوريوس واسعة الانتساب مراسلةَ الطلاب عبر روبوت دردشة أكاديمي ووجدت تبنّيًا أكبر للتدريس الفاحص والتعليم التكميلي؛ ونسب تحليل الوساطة 17.8% من أثر الدرجة إلى ذلك الارتفاع في طلب المساعدة (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
 
 ## أسئلة تستحق النظر
 
@@ -103,10 +105,15 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 كثيرًا ما يتجاوز طلاب الواقع [[conversational-ai|روبوت دردشة]] [[scaffolding]] خاصًّا — لا بالضرر بالضرورة، لكن غالبًا لوجود اختلال بين التأطير البيداغوجي لروبوت الدردشة وأهداف التعلُّم الذاتية للطالب. ولهذا يجب أن تقيس خطوط تقييم ما إذا كان المُدرِّب يمسالِد فحسب، بل ما إذا كان الطلاب *يتبنّون* تلك المسقالدة، بدل افتراض أنهم سيفعلون.([[rethinking-scaffolding-llm-tutors]])
 
 - **زرّ مساعدة اختياري لا يُنقر.** في ثلاثة صفوف خامسة ابتدائي، نادرًا ما استدعى الطلاب وكيل عون تركه التصميم اختياريًا عمدًا لحماية الفاعلية، فاستدعوا [[teacher-role|معلّمًا]] بدلًا منه بينما بقي الالتباس الذي بُني من أجله قائمًا ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- وفي لعبة تمثيل أدوار لمدة ثلاثة أسابيع في الصف الخامس، سأل جميع الطلاب الأربعة والأربعين في شرط GenAI المعلّمَ داخل اللعبة، وسمّى 61.9% منهم فرصة السؤال من بين ما قيّموه؛ وقال عدد منهم إنهم سألوا أسئلة كانوا يخشون طرحها على المعلّم الحقيقي ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## طلب المساعدة والتعلُّم المنظّم ذاتيًا
 
 طلب المساعدة جزء لا يتجزأ من [[self-regulated-learning]]: فطلب المساعدة المنتج يطلب من المتعلّمين أن يراقبوا الفهم، ويحكموا متى يكون العون لازمًا، ويختاروا المصادر الملائمة. وفي سياقات GenAI، يصبح ذلك أشدّ إلزامًا، إذ يجب على الطلاب أن يمارسوا [[agency]] على الذكاء الاصطناعي أيضًا وأن يحافظوا على يقظة معرفية لا أن يحيلوا إليه. وتدعم الأبحاث الواردة في قاعدة المعارف هذه الحاجة إلى [[scaffolding|سقالات]] تعزّز استخدامًا أكثر [[agentic-ai|وكالية]] واقدامًا معرفيًا للذكاء الاصطناعي، وتُبرز خطر [[cognitive-offloading|الاعتماد المفرط]] و[[cognitive-offloading]] حين يتردّى طلب المساعدة إلى طلب أجوبة غير مشروط.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+وتعقّد الأدلة على مستوى السكان رواية الاستبدال: فبين 12,191 طالبًا في اختبار PISA 2025 في أربع مناطق صينية، ذهب الاستخدام الأكثر تكرارًا للذكاء الاصطناعي التوليدي في الأعمال المدرسية مع طلب مساعدة أكاديمية أكثر (β = 0.169) لا أقل ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
+
+وتضع السجلات الطلب على ساعة وعلى المفردة. ففي مقرر سكونيات مع 215 طالبًا، بلغت المثيرات إلى مساعد الكتاب الدراسي المدعوم بـChatGPT ذروتها أيام الأحد والاثنين وبين الواحدة والثالثة فجرًا، وهي الساعات التي تكون فيها ساعات المكاتب مغلقة ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry and Dosse, 2026]]). وما يطلبه الطلاب يتبع الصعوبة: فالمحاولات المستثار فيها في مقرر لغة التجميع للدراسات العليا كانت أرجحية صحة أقل (OR = 0.35)، وتركّزت المثيرات ما-وراء-المعرفية على المفردات المتوسطة، حيث حملت المحاولات المستثار فيها 3.79 ضعف أرجحية النجاح ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]]). فصعوبة المفردة، أكثر من تصميم التلميح، هي ما تقرّر هل يتحوّل العون إلى تأمل.
 
 ### طلب المساعدة بوساطة نموذج لغوي كبير كعملية من أربع مراحل
 
@@ -122,6 +129,8 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 
 **خطّ معالجة ثانٍ يطرح السؤال نفسه من جهة البنية التحتية.** يرى [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] أن التبادل بين الإنسان والذكاء الاصطناعي صنف بيانات قائم بذاته: فتمثيلهم يسجّل الحالة الحوسبية التي أثارت الطلب، والطلب، والاستجابة، وتقييم المستخدم لها، والتنفيذ الذي تلاه، ككائن واحد. ثم تُصنَّف الاستعلامات، من ذلك السياق، إلى استعادة بعد خطأ، وخطوة تالية متعثّرة، وعون مفاهيمي، أو تحقّق. وفي نشر لـJupyterLab مع 35 طالبًا امتدّ على 140 زوجًا من طالب-تكليف، ارتبطت أعداد التفاعل المجرّدة بالخلايا المنفَّذة بنجاح عند r = 0.12 فقط، بينما كان 37 زوجًا يملك الوصول ولم يستخدمه قط، واستخدمه 26 خارج الشرط المخصَّص لهم.
 
+- حيث يمكن أن يُدرَج سجل التدريس الفاحص في التقييم، فكتم الطلب عقلاني، فلا يمكن قراءة غياب طلب المساعدة على أنه غياب الحاجة: فمؤشر السجل نفسه يعني شيئًا مختلفًا تحت التقييم ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
+
 ## انعكاسات على التصميم والبحث
 
 1. **صمّم إتاحات طلب المساعدة بتعمد.** فأزرار العون الدائمة والبارزة يمكن أن تمكّن استراتيجيات التجاوز؛ فأخّر الوصول وهيكل التقديم لدعم [[desirable-difficulties|الكفاح المنتج]].([[lak2026-hint-button-unproductive-use]])
@@ -129,9 +138,16 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 3. **استخدم الشفافية لمعايرة الثقة.** فالتحذير من قابلية خطأ الذكاء الاصطناعي يمكن أن يرفع طلب المساعدة الملائم والاندماج.([[ai-fallibility-warning-help-seeking]])
 4. **قِس التبنّي لا المسقالدة فحسب.** قيّم ما إذا كان الطلاب ينخرطون فعلًا في التأطير البيداغوجي، لا ما إذا كان المُدرِّب يقدّمه فقط.([[rethinking-scaffolding-llm-tutors]])
 5. **ادعم المراقبة والوكالة.** فينبغي لسقالات طلب المساعدة أن تقوّي [[metacognition]] و[[self-regulated-learning]]، حائزةً ضد [[cognitive-offloading|الاعتماد المفرط]].
+6. **بلِّغ الطلاب الذين لا يسألون.** فالتواصل الاستباقي يمكن أن يرفع طلب المساعدة دون لمس مواد التعلُّم: فتجربة مسجّلة مسبقًا في مقررات البكالوريوس واسعة الالتحاق راسلت الطلاب عبر روبوت دردشة أكاديمي، فازداد تبنّي التعليم الخصوصي والتعليم التكميلي، ونسب تحليل الوساطة 17.8% من أثر الدرجة إلى ذلك الارتفاع في طلب المساعدة (p = .041) ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 ## مفاهيم خاطئة شائعة
 
 - **"الطلاب الذين يحتاجون المساعدة لا يطلبونها."** أرسلت **تجربة مسجّلة مسبقًا** في مقررات جامعية كبيرة الالتحاق رسائل إلى الطلاب عبر روبوت محادثة أكاديمي، فوجدت **تبنّيًا أكبر** لدعم التعليم الخصوصي والدعم التكميلي. فقد حرّك التنبيه السلوك، وكان الحاجز هو [[prompt-engineering|التذكير]] لا الرغبة.
 - **"طلبات المساعدة تتعلّق بالتعلّم."** يعقّد **طلب الدعم التشغيلي** ذلك الافتراض: فمن بين **4,093 استعلامًا**، سأل **20.4% على الأقل عن حالة تسليم معلّق لا عن معرفة**. أي أن خُمس الطلب على المساعدة كان إداريًا.
 - **"استخدام مدرّب ذكاء اصطناعي يعني مراقبة تعلّمك."** في دراسة على **98 طالبًا في الصف التاسع** يستخدمون مدرّبًا بالذكاء الاصطناعي التوليدي، **غلب على التفاعلات طلبات أداتية بلا أي مراقبة أو تقييم تقريبًا لتعلّمهم**. فطلب الأجوبة ليس طلب مساعدة بالمعنى الذي يعنيه هذا البناء.
+
+## حين يحلّ العادة محلّ السؤال
+
+يُدرَس طلب المساعدة عادةً على أنه قرار — حكم على ما إذا كان السؤال يستحق كلفته. وتشير دراسة PLS-SEM لعام 2026 على 392 طالبًا ومربّيًا في الهندسة في الفلبين إلى أنه حين يكون [[generative-ai|الذكاء الاصطناعي التوليدي]] مدمجًا، يكون القرار قد اتُّخذ سلفًا إلى حدّ كبير: **تنبّأت العادة بإزاحة طلب المساعدة البشري عند β = 0.711**، بينما تنبأت [[technology-acceptance-model|النية السلوكية]] به عند β = 0.039، وهو مسار لا يُفرَّق إحصائيًا عن الصفر. وأفاد نصف مستخدمي GenAI في تلك العينة (49.6%) أنهم يسألون شخصًا للعون مرات أقل، ولم يسمِّ إلا 15.8% إنسانًا مورده الأول حين يتعثّرون، مقابل 30.4% سمّوا أداة.
+
+وتترتّب على ذلك دلالتان لمسقالدة طلب المساعدة. أولاهما أن التدخلات الموجّهة إلى الاتجاهات أو إلى جعل السؤال أغرى تتنافس مع روتين أصبح تلقائيًا أصلًا — فينبغي أن تستهدف الروتين لا الاعتقاد. وثانيتهما أن المفهوم الوحيد الذي *خفض* الإزاحة كان الانشغال بـ[[academic-integrity|النزاهة الأكاديمية]] (β = −0.329)، مما يشير إلى أن الحفاظ على المشاورة البشرية يُنجز على نحو أرجح عبر نقاط تفتيش شخصية إلزامية — مراجعة الأقران، والدفاع الشفهي، والعون المخبري تحت الإشراف — لا عبر التراسل ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]]).

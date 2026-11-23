@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-22T08:30:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [automation-bias, explainable-ai, knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback, higher-ed, k-12, llm, simulating-students, self-report-measures, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
 connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, taufer-human-ai-interaction-haidl-2026, ai-integrated-math-argumentation-teacher-noticing-2026, factria-responsible-institutional-analytics-2026, ai-supported-lecturer-decision-making-2026, villegas-ch-federated-explainable-learning-analytics-2026, llm-interaction-depth-task-quality-recall-2026, learning-analytics-to-educational-interventions-2026, claassen-learning-analytics-genai-learning-design-2026, at-risk-students-ml-prediction, engagement-intensity-learner-modeling, misiejuk-cognitive-offloading-prompting-2026, teaching-feedback-classification-benchmark, wordstream-glass-learning-analytics, trace-course-grade-prediction-2026, student-llm-interaction-taxonomy-review-2026, sc2r-counterfactual-recourse-educational-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, distilling-self-explaining-lm-learning-analytics-2026, lopez-pernas-llm-appropriate-student-support-2026, llm-agents-collaborative-problem-solving-simulation-2026, astra-multi-agent-tutoring-benchmark-2026, determinants-chatgpt-use-higher-education-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, learning-paths-patterns-learning-design-2026, pulla-parsons-problem-tool-2026, a4l-analytics-pipeline, league-ethical-governance-student-data-2026, learning-analytics-genai-secondary-writing-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, thomas-breaking-learning-system-wall-2026, liu-course-integrated-ai-tutoring-rct-2026, kim-ai-embodied-learning-review-2026, liu-teaching-analytics-dashboard-2026, wang-yi-semantic-learning-analytics-moral-reasoning-2026, reding-discussion-boards-tam-ai-analytics-2026, wyszynski-genai-user-input-engineering-statics-2026, konca-digital-traces-critical-online-reasoning-2026]
 ---
@@ -42,7 +46,7 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 
 ## مقدمة
 
-### التحليلات المعززة بالذكاء الاصطناعي
+## التحليلات المعززة بالذكاء الاصطناعي
 
 - **التحليلات التنبؤية:** [[machine-learning|تعلّم الآلة]] على بيانات تفاعل المتعلم يتنبأ بالنتائج — من [[at-risk-students-ml-prediction|تحديد المعرضين للخطر]] إلى [[knowledge-tracing|تقدير حالة المعرفة]].
 
@@ -62,6 +66,7 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 - **تحليلات التفاعل:** [[student-engagement|قياس التفاعل]] و[[engagement-intensity-learner-modeling|نمذجة الكثافة]] تُقدّران كيف يتفاعل الطلاب مع أنظمة الذكاء الاصطناعي.
 - **معدلات الإتمام قد تُخفي انهيار الاندماج.** في تجربة عنقودية معشاة في [[higher-ed|جامعة]]، ترك [[intelligent-tutoring|مدرّس ذكاء اصطناعي]] مدمج في المقرر تسليم الواجبات المنزلية دون تغيير بينما هوت المشاركة على المنصة هويًا حادًّا — مشاهدات الصفحة بـ0.37 انحراف معياري، والأيام النشطة بـ0.51 — فإشارة التحليلات التي كانت تهمّ هي النشاط الذي أزاحته الأداة، لا مقياس الإتمام الذي بقي مسطحًا ([[liu-course-integrated-ai-tutoring-rct-2026|Liu وآخرون (2026)]]).
 - **تحليلات التغذية الراجعة:** [[teaching-feedback-classification-benchmark|تصنيف التغذية الراجعة]] و[[ai-feedback-quality|تقييم الجودة]] يحللان التغذية الراجعة التي يتلقاها الطلاب.
+- **التغذية الراجعة دليل عن التعليم.** حوّل خط أنابيب معزّز بالاسترجاع 6,072 قطعة تغذية راجعة تصحيحية من أربع دفعات إلى أنماط أخطاء مواءمة للمنهج، متفقًا مع مراجع بشري على 89.1% من السجلات مقابل 74.7% لتصنيف صُمّم بخبرة، واستخدم فريق التعليم الأنماط لاقتراح مراجعات المقررات ([[hua-curriculum-aligned-feedback-rag-2026|Hua et al., 2026]]).
 - **تحليل الشبكات:** [[misiejuk-cognitive-offloading-prompting-2026|تحليل شبكات التلازم]] و[[epistemic-emotions-collaborative-problem-solving|تحليل الشبكات المعرفية]] يكشفان أنماط التفاعل.
 - **توترات الخصوصية:** تنمو هموم [[privacy|الخصوصية]] كلما صارت التحليلات أدق وأكثر قيادةً بالذكاء الاصطناعي.
 - **إطار حكومة لبيانات الطلاب.** تقترح LEAGUE ستة أ pillars — الشرعية، و[[equity-in-ai-education|الإنصاف]]، والوكالة، والحكومة، والفائدة، والأخلاقيات بالتصميم — معتبرةً الامتثال لـFERPA وGDPR الحد الأدنى ومُوصيةً بإعادة تقييم مجدولة مع انحراف النماذج ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
@@ -71,16 +76,20 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 **نمذج التزامن بين المقررات، لا التسلسل فحسب.** يمنح TRACE كل مقرر في الفصل الدراسي الترميز الموضعي ذاته، والتنبؤ المشترك بالمقررات والدرجات خفض خطأ التنبؤ بالدرجات إلى 0.1339 MAE — بانخفاض 46.4% مقابل محول يقدّر الدرجات فقط — على عشر سنوات من بيانات المؤسسة ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
 **بيانات التفاعل مشكلة تمثيل قبل أن تكون مشكلة نمذجة.** يعامل [[taufer-human-ai-interaction-haidl-2026|Taufer وآخرون (2026)]] كل تبادل بين الإنسان والذكاء الاصطناعي كسجل مُهيكَل واحد يحمل الحساب الذي دفع الطلب، والطلب، والاستجابة، وتغذية المستخدم الراجعة، والتنفيذ الذي تلاه، لا كطلب معزول. فعبر 140 زوجًا من مهام الطلاب في نشر يضم 35 طالبًا، ارتبط عدد التفاعلات وحده بالخلايا المنفَّذة بنجاح عند r = 0.12، وقد يكون الطلب نفسه استعادةً من خطأ أو خطوة تالية أو فحصًا لمفهوم أو تحققًا بحسب الحالة المحيطة به. وسبعة وثلاثون زوجًا لديها صلاحية وصول لم تُنتج أي تفاعل، فغياب استخدام الذكاء الاصطناعي في سجل لا يمكن قراءته كغياب حاجة.
-### دورة تحليلات التعلّم
+
+## دورة تحليلات التعلّم
 
 تُؤطَّر تحليلات التعلّم قانونيًا كدورة تبدأ بنشاط المتعلم المنتج للبيانات، التي تُعالج إلى مقاييس ومؤشرات تُترجم بعدها إلى **تدخلات** — ويغذّي التدخل راجعًا نشاط المتعلم لإغلاق الحلقة. خطوة التدخل هي ما يميّز التحليلات عن مجرد الرصد أو التنبؤ: بدونها، تصف التحليلات وتُشير لكنها لا تغيّر التعلم أبدًا. هذه الدورة هي الإطار المنظم لفهم موقع أدوات الذكاء الاصطناعي (لوحات المعلومات، ومولدات التغذية الراجعة، والموصين التوجيهيين) في خط التدفق وأي خطوة تؤتمتها.
 
 لوحة المعلومات الموجهة للمتعلم لا تبلغ أكثر من مدى وصولها: في دراسة كتابة للصف التاسع في هونغ كونغ بلغ مصنّف المحفزات macro F1 قيمته 0.757، وفتح نحو ثلث طلاب الـ46 لوحات المعلومات الثلاث لاستخدام الذكاء الاصطناعي التوليدي، ولم تكن فروق المجموعة في النسخ و[[prompt-engineering|المحفزات]] الموجّهة للتعلّم موثوقة ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
+تستطيع التحليلات تدقيق الواجب قبل أن يلتقي به الطالب. في أربع مجموعات تركيز مع 26 طالبًا جامعيًا في العلوم والتقنية والهندسة والرياضيات، تتبّعت المنفعة المُدرَكة لمنتدى المناقشة الطلب المعرفي للمحفّز لا المنصة، ولهذا تكون الاستجابة التصميمية لوحة معلومات معلّم تصنّف مسودة محفّز وتقترح مراجعات لها ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner and Nugent, 2026]]). وللكشف العائق الثاني المقابل: مطابقة أكثر من 5,000 محفّز مع بنك من 572 سؤالًا تجاوزت عند 121 منها عتبة التشابه 75، وأكد الفحص اليدوي 74 منها باحثةً عن حل، فكان النسخ الحرفي ظاهرًا وإعادة الصياغة غير ظاهرة ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry and Dosse, 2026]]).
+
 الترميز التكراري لبيانات [[qualitative-research|البحث النوعي]] هو نقطة دخول لا حكم: في دراسة من عشرة مشاركين، قرأ بعض المعلمين الترميزات التكرارية كطريقة دخول منتجة، بينما حذر آخرون من أنها تُخفي ردودًا نادرة لكنها حرجة، فيُبقي التصميم كل عرض مجمّع مرتبطًا بالنص الحرفي للطلاب ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
-### من الوصف إلى التدخل
+## من الوصف إلى التدخل
 - **قاعدة الأدلة ليست بعد أدلة تدخّل.** بتوليف أربع دراسات عبر مستويات الطالب والتخصص والمربّي والمؤسسة، يجد [[learning-analytics-genai-learning-design|Rienties وDivjak وLaw (2026)]] أن المجال يغلب عليه التصميم المقطعي و[[self-report-measures|التقرير الذاتي]] والخطاب وحكم الخبراء، ويدعون إلى بحث تدخّلي يختبر الآليات السببية والنتائج الأطول أجلًا والتوزيعية.
+- **أنواع التدخلات ليست قابلة للتبادل.** وجدت مراجعة PRISMA لـ39 دراسة تجريبية وشبه تجريبية أن المحفّزات ترتبط بـ[[self-regulated-learning|التعلّم الذاتي التنظيم]] ونواتج المعرفة، والإشارات بعمليات الانتباه، والدفعات بالانخراط السلوكي، فينبغي اختيار التدخل وفق النتيجة التي يستهدفها ([[rako-prompts-cues-nudges-systematic-review-2026|Rako, Šimić and Rienties, 2026]]).
 
 **تصميم التشجيع العشوائي يوفّر المرساة السببية.** في تجربة تشجيع عشوائي على ASSISTments، حثّ [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim وHeffernan وSales (2025)]] عشوائيًا معلّمين جددًا على المنصة على عرض تقرير الواجب بعد إنشاء واجب. وفي عيّنة تحليلية من 330 معلّمًا (156 ضابطًا، و174 في التشجيع؛ و281 للقيمة المضافة)، رفع عرض تقرير الواجب الأول إتمام الواجب التالي رفعًا دالًّا (Anderson-Rubin F = 4.092، p = 0.044) — بما لا يقل عن نقطتين مئويتين إجمالًا. وفي الصفوف دون 44 طالبًا كان المكسب 24.5 نقطة مئوية على الأقل (AR F = 7.475، p = 0.007)، بينما عُرضت تقارير 54.0% فقط من 121,890 واجبًا، ولم تتحرّك نواتج البدء والقيمة المضافة. وتحمل بيانات المنصة نفسها أكبر حالة تقييم مغلقة الحلقة في المجال: حلّل [[johnson-student-ratings-automatically-generated-questions-2025|Johnson وآخرون (2025)]] 5,214,211 جلسة سؤال–طالب كان فيها الإبهام للأسفل (2.00 لكل 1,000) متتبعًا لخصائص يتحكّم بها المولّد، وأسهم تباين مستوى الطالب في التباين أكثر من تباين مستوى السؤال (BIC 101,572.9 مقابل 123,342.0).
 
@@ -94,11 +103,15 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 
 تدخل نتيجة النزاهة نفس الطبقة التنبؤية. يتنبأ [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] بخطر الغش بمساعدة الذكاء الاصطناعي من الأسابيع الثمانية الأولى من آثار [[video-education|مودل ومشغّل الفيديو]]، محققًا AUC قيمته 0.763 مع الانحدار اللوجستي، ويجادل بأن الإشارة قابلة للاستخدام تحديدًا لأنها تصل قبل الامتحان لا أثناءه. خط مكمل يستهدف *تفسير* التحليلات نفسها. يُنظّم إطار FACTRIA عند [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]] عوامل التحيز الكامنة وراء مؤشر — خط التدفق والمؤسسة والمقرر والديموغرافيا — ورفع روبوت محادثة يُحرّض على التأمل العوامل الفرعية التي وزنها 11 من أصحاب المصلحة في كل حالة من 1.41 إلى 3.45 (d = 2.15)، ناقلًا إياهم من القراءات المباشرة إلى الشرطية.
 
-### المناهج وتحليل الشبكات
+- الأثر المجموع لأجل تغذية راجعة والأثر المجموع لأجل درجة سلوكان مختلفان: حين يعلم المتعلّمون أن سجلًا قد يُقيَّم فهم يديرون ما يُظهره، فيقيس السجل عرض التعلّم بقدر ما يقيس التعلّم ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
+
+## المناهج وتحليل الشبكات
 
 مناهج الشبكات أساسية لتحليلات التعلّم: يُنمذج [[network-analysis|تحليل شبكات الانتقال (TNA)]] التسلسلات الزمنية لأفعال المتعلم (مثل حلقات المراجعة والمحادثة في الكتابة المسنودة بروبوت محادثة [[conversational-ai|]])، ويُخطّط [[network-analysis|تحليل الشبكات المعرفية (ENA)]] كيفية تلازم الرموز/البنى عبر النشاط — معًا يكشفان *عملية* التعلم وتفاعل المتعلم مع [[student-ai-interaction|الذكاء الاصطناعي]] لا منتجه فقط.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
 
 - **تجميع مسارات النقر في بناء النماذج الموجَّهة ذاتيًا.** جمع [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] بين [[pedagogical-patterns|تحليل تسلسل النشاط]] والتجميع الهرمي ونماذج سلاسل ماركوف على مسارات النقر لـ315 متعلّمًا عبر الإنترنت بنوا 822 نموذجًا إيكولوجيًا في VERA، مستخلصين تسع تجمعات سلوكية دقيقة قائمة على الانتقال إلى ثلاثة أنماط أوسع (الملاحظة، والبناء، والاستكشاف). يُظهر عملهم أن الجمع بين تحليل التسلسل ونمذجة سلاسل ماركوف يمكن أن يكشف سلوكًا ذا معنى في المهام غير المنظمة والـ[[self-directed-learning|موجّهة ذاتيًا]] حتى في غياب تام للبيانات الديموغرافية أو السياقية.
+
+- **الارتباطات المجمّعة تبالغ في ما تتنبأ به الآثار.** عبر 576 تكوينًا نموذجيًا على جلسات تصفّح 424 طالبًا جامعيًا، تجاوزت الارتباطات المجمّعة عبر المهام الارتباطات داخل المهمة بفرق وسيط قدره 0.169، فالارتباط المجمّع المرتفع يصنّف المهمة التي واجهها الطالب لا مدى جودة أدائه ([[konca-digital-traces-critical-online-reasoning-2026|Konca & Mehler (2026)]]).
 
 - **تشكّل LA والذكاء الاصطناعي التوليدي تصميم التعلّم بشكل مختلف (2026).** استخدم [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] تحليل الشبكات المعرفية على 11 مجموعة تركيز معلمين لمقارنة كيف تُعلم تحليلات التعلّم مقابل [[generative-ai|الذكاء الاصطناعي التوليدي]] في صنع قرارات [[learning-design|تصميم التعلّم]]. تمحورت مناقشات LA حول المعلومات السياقية وتصميم المقرر و[[problem-solving|حل المشكلات]] الإبداعي (LA لتشخيص التفاعل واستهداف الدعم)، بينما تمحورت مناقشات الذكاء الاصطناعي التوليدي حول [[assessment|تصميم التقويم]] والتصميم لـ[[self-determination-theory|تقرير المصير]] الذاتي لدى الطالب (الذكاء الاصطناعي التوليدي لتوليد الأفكار وتطوير التقويم). كان السياق و[[creativity|الإبداع]] محوريين عبر الاثنين — تذكير بأن التحليلات تُعلم التصميم فقط ضمن السياق [[pedagogy|البيداغوجي]] واستقلالية المعلم.
 - **الكلام يتغلب على الدمج حين يكون البناء اجتماعيًا، وأفضل مصدر يخص كل بناء على حدة.** بدلًا من تعظيم الوسائط، وجدت مقارنة لخمس تكوينات سمات على مقاطع نمذجة تعاونية في LAK26 أن التضمينات النصية وحدها هي الأقوى إجمالًا (متوسط ROC AUC 0.650، فاصل ثقة 95% من 0.615 إلى 0.685) مقابل النص مع السجلات (0.613) والنص مع السجلات ونافذة سياق (0.623). وقاست السجلات وحدها 0.526، قريبًا من الصدفة لبناء اجتماعي، ومع ذلك كانت المصدر الوحيد الذي حسّن كشف التأمل (0.5862)، بينما اعتمد التخطيط على الكلام المحيط لا على آثار البيئة. فاختيار السمات دعوى عن البناء لا قرار ميزانية ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang وآخرون، 2026]]).
@@ -120,7 +133,7 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 
 - **بنية تحتية قابلة لإعادة الاستخدام للتحليلات، متحققة داخليًا فقط (2026).** أعاد [[a4l-analytics-pipeline|Bai et al. (2026)]] إنتاج نتائج منشورة لثلاثة مساعدين ذكاء اصطناعي في معهد جورجيا التقني بتغيير قيم الإعداد لا الشيفرة، وإن كان الادعاء يستند إلى إعادة تحليل مجموعات بيانات أحادية المؤسسة قائمة، وقد أُنجز التوسعة الوحيدة للقدرات من قِبل المطلعين.
 
-### الروابط
+## الروابط
 
 ترتبط تحليلات التعلّم بـ[[knowledge-tracing|تتبع المعرفة]] (التحليل الجوهري)، و[[formative-assessment|التقويم التكويني]] (التقويم المقود بالتحليلات)، و[[student-modeling|نمذجة الطالب]] (التمثيل الذي تملؤه التحليلات)، و[[privacy|الخصوصية]] (القيد [[ethics|الأخلاقي]])، و[[edtech-platform|منصة التقنية التعليمية]] (حيث تُنشر التحليلات). ولأن التحليلات التوجيهية تُقيّم بشكل متزايد على [[simulating-students|متعلمين محاكون]] — حيث تحل دفعات الطلاب التركيبية محل الدفعات الحقيقية في الاختبارات المضبوطة — ترتبط تحليلات التعلّم أيضًا بمحاكاة الطلاب.
 
@@ -144,3 +157,5 @@ connected_articles: [radmehr-clicksight-clickstream-learning-strategies-2026, ta
 - **نماذج لغوية كبيرة تقرأ مسارات النقر مقابل استراتيجيات تعلّم مسمّاة.** يُنظّم [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr وآخرون (2026)]] خط أنابيب [[llm|نموذج لغوي كبير]] يحدّد دليلًا على استراتيجية في أثر طالب، ويحكم على الالتزام بها، ويستشهد بالأفعال وراء الحكم، ووصل إلى جودة إجمالية 0.735 في محاكاة أصعب مقابل 0.704 لخط أساس مسطّح.
 - **«التحليلات تحتاج آثار النقر.»** يمكن تقدير حالات المعرفة داخل التعليم القائم على النواتج بـ**تتبع نواتج المقررات مباشرةً من بيانات تفاعل نظام إدارة التعلّم والتحصيل**، باستخدام خرائط ألفة OBE — فالسجل المؤسسي يوفّر الإشارة.
 - **«التنبؤ بلا نافذة إجراء مفيد.»** التنبؤ بالتقدم أشدّ قابلية للاستخدام حين يكون **قابلًا للتفسير ومقرونًا بنافذة إجراء**: فـ[[zhang-ml-student-progress-programming-2026|Zhang وJeffries وKoprinska (2025)]] يتنبأون بنواتج على مستوى الوحدة، وهي صيغة يستطيع المرشد التصرف بناءً عليها، لا درجة خام.
+
+تقدر التحليلات الدلالية التفكير فقط حيث تكون الفئات محدّدة بدقة تكفي للتقدير. في وحدة أخلاقيات للذكاء الاصطناعي مدتها خمس ساعات مع 90 طالبًا، بلغ المُشفرون البشر Krippendorff α = 0.82 على 1,094 وحدة معنى، وبلغ المصنّف المدمج فيه الإنسان macro-F1 = 0.83 [0.78, 0.87] عبر 17 فئة من المشكلات والحلول، منخفضًا إلى 0.68 في أصغرها ([[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang & Yi (2026)]]). ولا يستطيع التصميم القبلي–البعدي أحادي المجموعة إسناد المكاسب المرصودة إلى الوحدة.

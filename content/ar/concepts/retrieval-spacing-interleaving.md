@@ -11,8 +11,8 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
 connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
@@ -93,10 +97,12 @@ connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition
 
 - **عينات صغيرة وسياقات مفردة.** العيّنة التحليلية لدراسة الاختبار التمهيدي 89 طالب بكلية علوم تطبيقية واحدة، بـ27–34 طالبًا لكل ذراع؛ ودراسة تفاعل النموذج اللغوي لها n = 22 بتصميم مجموعة واحدة لا يدعم أي ادعاء سببي؛ ودراسة التعليم بالمحاولة لها 22 مشاركًا. ويقرر مؤلفو الاختبار التمهيدي أن التكرار عبر المجالات وأنواع المهام لازمة للتعميم.
 - **فواصل احتفاظ قصيرة أو غائبة.** اختبرت دراسة عمق التفاعل الاسترجاع الفوري وحده، دون مقياس مؤجل، لذا فاعتراضها اعتراض خاص بالاحتفاظ القصير المدى تحديدًا. وميزة احتفاظ Memdora و[[llm-interaction-depth-task-quality-recall-2026|تفارق عمق النموذج اللغوي]] على حد سواء غير متتبَّعين على الأسابيع التي تقتضيها أدبيات التباعد؛ ونافذة الاختبار التمهيدي السبعة أسابيع هي الأطول في النص.
-- **[[self-report-measures|مقاييس الإبلاغ الذاتي]] والمقاييس البديلة.** جهد التدريب في دراسة الاختبار التمهيدي مؤشر سلوكي يُقيَّم بمقيّمين مقابل مقياس مستنبط من سجلات المحادثة، وهو ما يلاحظه المؤلفون صراحةً على أنه ليس مقياسًا لحالة [[motivation|دافعية]] داخلية؛ ومقياس عمق النموذج اللغوي بديل قائم على الكلمات المفتاحية يقتنص الشكل السطحي للبحث عن الشرح لا جودته.
+- **[[self-report-measures|مقاييس الإبلاغ الذاتي]] والمقاييس البديلة.** جهد التدريب في دراسة الاختبار التمهيدي مؤشر سلوكي يُقيَّم بمقيّمين مقابل [[rubrics|سلّم التقدير]] مستنبط من سجلات المحادثة، وهو ما يلاحظه المؤلفون صراحةً على أنه ليس مقياسًا لحالة [[motivation|دافعية]] داخلية؛ ومقياس عمق النموذج اللغوي بديل قائم على الكلمات المفتاحية يقتنص الشكل السطحي للبحث عن الشرح لا جودته.
 - **حدود القياس والنمذجة.** تفشل نماذج [[knowledge-tracing|تتبّع المعرفة]] في النص حيث تحتاجها قرارات التباعد بالضبط، وينسب المؤلفون نجاحات الماضية إلى ملاءمة بأثر رجعي على مجموعة البيانات كاملة لا إلى تحقق واقعي بالنسبة للنشر. وجودة بطاقات الرفيق ثنائي اللغة غير متحققة مقابل حقيقة أرضية، بلا طبقة تحقق آلي من الوقائع، ولم يُجرِ أي دراسة نتائج على الإطلاق.
 - **التداخل لا يملك دليلًا مباشرًا هنا فعليًا.** كما ذُكر أعلاه، لا يحتوي النص على مقارنة تجميعية مقابل متداخلة، بل محاكاة يكون فيها التداخل إستراتيجية واحدة قابلة للاختيار من بين عدة.
 - **فئات الموضوعات والمحتوى.** تتركّز قاعدة الأدلة على [[higher-ed|التعليم العالي]]، وعلى مواد STEM والإحصاء، وعلى تمييزات الحقيقة مقابل المهارة من الهندسة ومحتوى الانحدار المتعدد؛ والتعميم إلى بيئات [[k-12|K-12]]، وإلى [[humanities-education|العلوم الإنسانية]] والكتابة، وإلى الصفوف غير الغربية غير مثبت بهذه الدراسات.
+
+يضع [[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya and Wenzel (2026)]] الذكاء الاصطناعي التوليدي في مقدمة أثر الاختبار: سؤالان تمهيديان مولدان بـChatGPT تُجيب عليهما قبل قراءة نص من 675 كلمة. وعبر أربع تجارب شملت 90 و128 و153 و157 بالغًا، غلب السؤال التمهيدي القراءة وحدها (d = 1.12 على الأسئلة المتدرَّبة، وd = 0.78 على غير المتدرَّبة) وطابق الأسئلة المولَّدة من البشر. ونادرًا ما أجاب المتعلّمون إجابة صحيحة — دقة 0.056 في التجربة 1 — ومع ذلك تعلّموا أكثر، وهو توقيع أثر الاختبار التمهيدي. وتضاؤل النقل مع المسافة: فالأسئلة المختبرة غلبت الأسئلة غير المختبرة من المصدر نفسه (d = 0.46)، التي غلبت الأسئلة غير المختبرة من مصدر مختلف (d = 0.32). صار توليد الأسئلة رخيصًا؛ وبقي الاسترجاع إلزاميًا.
 
 ## المفاهيم الخاطئة الشائعة
 

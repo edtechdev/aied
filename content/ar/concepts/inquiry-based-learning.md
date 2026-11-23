@@ -8,7 +8,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
 connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
@@ -66,9 +70,9 @@ connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-probl
 
 [[productive-failure|الفشل المنتج (PF)]] هو أقرب أقارب التعلّم القائم على الاستقصاء بنيويًا: فالمتعلّمون يستكشفون المشكلات ويولّدون الحلول *قبل* التعليم المباشر، ثم يرسخون. ويشترك الاثنان في الفرضية القائلة إن محاولات المتعلّم المولَّدة (حتى الفاشلة منها) [[prior-knowledge|تُنشّط المعرفة السابقة]] وتُعِدّ المتعلّمين للتعلّم من التعليم. ويشحذ [[research-methods-aied|بحث]] PF في عصر الذكاء الاصطناعي كيف ينبغي للذكاء الاصطناعي أن يسقال الاستقصاء دون اختصاره: فـ [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] يستنبطون مبادئ تصميم للذكاء الاصطناعي تحفظ الكفاح عبر استكشاف المشكلات وتوليد الحلول؛ ويُظهر [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] أن مدرّسي النماذج اللغوية الكبيرة يمكن توجيههم ليحجبوا الأجوبة ويستجلبوا محاولات متعددة؛ ومهام [[lukesova-clue-before-correction-2026|clue-before-correction]] تُجسّد السقالة القائمة على الأدلة (مقابل المباشرة) التي تُبقي المتعلّمين يقومون بالاستدلال. وهذه تربط الاستقصاء وPF بالأمر الأوسع المتمثل في أن الذكاء الاصطناعي يجب أن لا يزيل [[desirable-difficulties|الكفاح المنتج]] الذي يتشكل عبره التعلّم الدائم.
 
-وفي الإعدادات الميدانية في الهواء الطلق يصير الأمر ذاته مكانيًا: فالذكاء الاصطناعي التوليدي يستطيع تهيئة ما يلاحظه المتعلّمون قبل أن يلاقوا الأدلة، فالتسلسل الميداني أولًا الذي يحجب التفسير المولَّد حتى تُسجَّل الملاحظات والتفسيرات الأولية يحمي الاستقصاء ([[geoscience-field-learning-genai-2026|Choi, 2026)]]).
+وفي الإعدادات الميدانية في الهواء الطلق يصير الأمر ذاته مكانيًا: فالذكاء الاصطناعي التوليدي يستطيع تهيئة ما يلاحظه المتعلّمون قبل أن يلاقوا الأدلة، فالتسلسل الميداني أولًا الذي يحجب التفسير المولَّد حتى تُسجَّل الملاحظات والتفسيرات الأولية يحمي الاستقصاء ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
 
-تستبدل إحدى الدراسات الميسّر بدل أن تضيف أداة إلى جانبه. ففي مقرر صيدلة مدته أربعة أسابيع، قُسّم 136 طالبًا في السنة الثانية للطب بين تعلّم قائم على المشكلات يقوده ميسّر وآخر يقوده الذكاء الاصطناعي. حقّق الفريقان مكاسب دالة في اختبارات الاختيار من متعدّد القبلية/البعدية، ولم يكن الفرق بين المجموعتين دالًّا (p = 0.474)، لكن المجموعات التي قادها ميسّر سجّلت درجات أعلى في التفكير النقدي (14.75 مقابل 13.09، p < 0.001) وفي سلّم تقويم [[group-work|العمل الجماعي]] (26.51 مقابل 24.74، p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty وRao، 2026]]). وانقسمت نتائج الاستقصاء بحسب نوعها: فالمعرفة بالمحتوى نجت من الاستبدال، ولم تنجُ عملية الاستدلال، وهذا ما يعنيه القول إن الميسّر هو الرافعة.
+تستبدل إحدى الدراسات الميسّر بدل أن تضيف أداة إلى جانبه. ففي مقرر صيدلة مدته أربعة أسابيع، قُسّم 136 طالبًا في السنة الثانية للطب بين تعلّم قائم على المشكلات يقوده ميسّر وآخر يقوده الذكاء الاصطناعي. حقّق الفريقان مكاسب دالة في اختبارات الاختيار من متعدّد القبلية/البعدية، ولم يكن الفرق بين المجموعتين دالًّا (p = 0.474)، لكن المجموعات التي قادها ميسّر سجّلت درجات أعلى في التفكير النقدي (14.75 مقابل 13.09، p < 0.001) وفي [[group-work|العمل الجماعي]] [[rubrics|سلّم التقدير]] (26.51 مقابل 24.74، p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty وRao، 2026]]). وانقسمت نتائج الاستقصاء بحسب نوعها: فالمعرفة بالمحتوى نجت من الاستبدال، ولم تنجُ عملية الاستدلال، وهذا ما يعنيه القول إن الميسّر هو الرافعة.
 
 **خريطة من 66 دراسة تضع الذكاء الاصطناعي التوليدي إلى جانب الاستقصاء وأقلّ ما يكون في التوجيه.** صنّف [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya وآخرون (2026)]] استخدام الذكاء الاصطناعي التوليدي على أطوار الاستقصاء الخمسة، فوجدوا أن الدعم أُبلغ عنه أكثر ما أُبلغ في الاستقصاء (45 دراسة، 68.2%)، ثم الاستنتاج (29، 43.9%)، والمناقشة (28، 42.4%)، والتصور (27، 40.9%)، والتوجيه أخيرًا (20، 30.3%). وغطّت إحدى عشرة دراسة الأطوار الخمسة كلها، وغطّت 19 طورًا واحدًا، ولم تُسمِّ تسعٌ أيًّا منها. وقاست 8 دراسات فقط (12.1%) مهارات الاستقصاء، وكان لـ4 منها شرط مقارنة، فهذه خريطة لموضع الأدوات لا لما كسبه الاستقصاء.
 

@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,9 +22,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -46,11 +50,15 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 وتضع مراجعة لـ125 دراسة نطاقًا لشيوع الخطر وفجوة كشفه: فمعدّلات الهلوسة تتراوح بين 10% و40%، مع كشف طلاب الطب أخطاء الذكاء الاصطناعي في 44–55% من المرات فقط ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+والخطر يعتمد على اللغة أيضًا: فـ[[genai-l2-written-feedback-scoping-review-2026|Crosthwaite and Sun (2026)]] وجدا كشفَ الأخطاء قويًّا في الإنجليزية وأضعفَ منه في اليونانية والصينية، مع هلوسة وسوءِ قراءة لنية المؤلف في تغذية التغذية الراجعة المكتوبة بلغة ثانية.
+
 **تشويه الذاكرة بعد المخرَج.** وجدت تجربة في 2026 أن ملخّصًا مضلّلًا من الذكاء الاصطناعي فعل أكثر من التضليل: فقد غيّر ما تذكّره 328 بالغًا عن فيديو شاهدوه. فمن قرأ الملخّص المضلّل، لم يتعرّف على التفصيل الحاسم لاحقًا إلا 44.8%، مقابل 83.6% ممن قرؤوا ملخّصًا متسقًا، وثبت الأثر حين كان الملخّص مُعلَّمًا بأنه من كتابة بشرية ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). وكان الحذف أكثر خطأ شيوعًا في التدقيق المرافق: فكل الملخّصات العشرين احتوت أخطاء، و95% منها أغفلت الاصطدام نفسه. ولم تختبر الدراسة طلابًا، لكنها تُظهر لماذا يكون فحص الهلوسة الذي ينتهي عند النصّ ناقصًا: فالخطأ يمكن أن يبقى في ذاكرة القارئ بعد زوال النصّ.
 
 و**الهلوسة في التقييم** ضارّة بشكل خاص. فقد وجد **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** أن النماذج اللغوية الكبيرة تُلفّق اقتباسات دليلية غير موجودة في كتابة الطالب اليدوية عند تشخيصها المهارات المعرفية، مع 58.5% من التشخيصات الخاطئة مصحوبةً بدعاوى كاذبة بثقة دليلية. ووثّق **[[llm-fallacy-misattribution]]** الإفراطَ المنهجي في إسناد الدليل في استدلال [[llm]] — فالنماذج تدّعي سندًا دليقيًا حيث لا يوجد سند. وكلاهما يرتبط باهتمامات [[ai-ed-evaluation]] و[[knowledge-tracing]] بشأن [[assessment-validity]]. ويُضيف [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] نمطي فشل يظهران عندما يُصحَّح مخرَج الذكاء الاصطناعي لا عندما يُفحص: تفاصيل موضوعة تنجو من التصحيح — ورقةٌ مُراجَعة غير موجودة، كاملةً بمعرّف DOI غير قابل للحلّ، وحجم عيّنة مُبلَّغ عنه بـ378 حيث قالت المصدر 329 — وتناقضٌ داخلي في رد واحد، حيث استدلّ النموذج إلى الخيار الصحيح ثم أبلغ عن خيار مختلف في ملخّصه الختامي. ولأن قوائم المراجع تُصحَّح حاليًا من أجل التنسيق لا من أجل الدقة، فإن هذه الفئة من الخطأ تبلغ درجةَ نجاح وهي تُضلّل الطالب الذي يستخدم الأداةَ نفسها للمراجعة.
 
 وفي نموذج تجريبي لتصميم التقييم، وجد [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] مراجعَ موضوعة وتقديراتٍ وقتٍ غير واقعية نجمت عن مطالبات متكرّرة وطلبت مراجعةً أكاديميةً معتبرة — أي هلوسة في أداة صياغة موجّهة للمربّين لا في عمل الطالب.
+
+**التوليد وإعادة التنسيق يفشلان بشكلين مختلفين.** حين طُلب من ChatGPT قائمة مراجع على نمط IEEE عن خلايا البيروفسكايت الشمسية، أعاد إدخالاتٍ وجد المؤلفون أنها هلوسية أو مُستشهد بها خطأً في الأغلب: أحرف أولى خاطئة، وسنة ومجلد وصَفحات خاطئة، قال مقالٌ معقول المظهر يُنسب إلى فريق لم يقم بهذا العمل قط ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). وحين طُلب منه بدلًا من ذلك تحويل مجموعة مراجع متحقَّق منها مسبقًا إلى APA، كانت الأداة نفسها دقيقةً ووفّرت وقتًا كبيرًا. فالخطر يكمن في التقاط المصادر لا في العمل المرجعي، وهو خطٌّ يمكن لسلّم تقدير [[rubrics|للمهمة]] أن يصرّح به.
 
 و**[[misconceptions|المفاهيم الخاطئة]] الاستراتيجية** قريبٌ أدقّ من الهلوسة الصريحة. فقد طلب [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] من سبعة نماذج مفتوحة الأوزان أن تُنتج «[[socratic-method|فخًا سقراطيًا]]» لـ35 مفهومًا جوهريًا في علوم الحاسوب — أي شرحًا طلقًا ذا سلطة يستقرّ على خطأ خفي خاص بالمجال — وأكّد ثلاثة خبراء في المجال 221 من 241 مقطعًا مطلوبًا (91.7%) بوصفها مفاهيم خاطئةً استراتيجية، بلا فروق معتبرة بين مجالات علوم الحاسوب. وكانت الأخطاء مفاهيميةً في الأغلب لا واقعية (66.5% مقابل 33.5%)) ولم يكن أيها منطقيًا خالصًا، وقُدِّرت باعتدال إلى إقناع عالٍ (M = 3.71 على سلّم من خمس درجات)، مع تفسير هوية النموذج لـ43% من التباين. ولأن العبارات الفردية قد تكون صحيحة بينما تكون العلاقة بينها خاطئة، فإن التحقّق الواقعي غير كافٍ؛ ويُجادل المؤلفون بأن [[ai-literacy|المتعلّمين]] يحتاجون تحقّقًا مفاهيميًا وتصديقًا للنماذج الذهنية. كما يحذّرون من أن المعدّل يقيس القدرةَ تحت [[prompt-engineering|صياغة مطالبات]] خصومية لا شيوعَ مثل هذه الأخطاء في الاستخدام العادي، وأنه لم يُختبر أي طلاب، فلم يُقَس أي خداع أو مخرَج تعلّم.
 
@@ -65,6 +73,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **وعدم الموثوقية المُعلَّم خفّض الاعتمادَ المُبلَّغ به لا أن رفعه.** فحين قرأ 546 مشاركًا الحوار نفسه لـGAI مُعلَّمًا إما بأنه يحتوي معلومات موضوعةً إما بأنه متحقَّق منه ودقيق، أنتجت السمةُ «الموضوعة» [[trust|ثقة]] وقابليةً متصوَّرةً للتحكّم أقلّ وتناقضًا معرفيًا وإحباطًا أعلى إلى جانب درجات اعتماد *أقلّ* (M = 2.935 مقابل 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). وتُقيِّد النتيجةُ منطقَ الاعتماد المفرط في هذه الصفحة: فرؤيةُ أن مخرَجًا قد يكون موضوعًا ليست هي نفسها الاستمرارَ في الاتكال عليه.
 
 **إشارات المصداقية قد تضخّم الخضوع بدلًا من ذلك.** يظهر الاتجاه المعاكس عندما يُزَيَّن مخرَج غير موثوق: فإضافة الاستشهادات وإشارات المصداقية إلى واجهة نقاش ARMADA رفعت نسبة المشاركين الذين تحوّلوا عن حكم أوّلي صحيح إلى موقف ذكاء اصطناعي خاطئ بنسبة 112% (31.8% مقابل 15.0%)، ووجد الفحص اليدوي بعض الحالات المستشهَد بها منسوبةً خطأً إلى مراجع غير ذات صلة أو ملفّقة ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+وثمة نمط فشل مختلف هو المسألة غير المطروحة طرحاً سليماً. في [[bauyrzhan-genai-inorganic-chemistry-verification-2026|معيار استكشافي لثلاثة روبوتات محادثة على 42 مسألة كيمياء غير عضوية]]، أجاب كلُّ روبوت بثقة عن عبارات معيبة دون أن يُشير إلى العيب ولا أن يطلب توضيحًا ولا أن يرفض، ولم تبلغ علامات عدم اليقين الخلاصة أبدًا. والفشل هنا ليس جوابًا خاطئًا بل مقدّمة كاذبة تُقبل بصمت.
 
 ## المفاهيم الخاطئة الشائعة
 

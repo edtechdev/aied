@@ -7,8 +7,8 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-06T09:20:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
+connected_resources: [public-ai-libraries]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -42,7 +47,7 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 
 ويضيف التحوّل إلى الاستدلال الحاسوبي الطرفي بُعدًا عتاديًا إلى فجوة المستوى الأول. فحين يعمل المعلّم في المتصفّح لا في السحابة — عبر [[browser-sized-agents-slm-webllm-tutor-2026|معلّمين للنماذج اللغوية الصغيرة المقيمين في المتصفّح]] بواسطة WebLLM — تختفي حاجز كلفة الاشتراك لكن حاجز القدرة يحلّ محلّه: فعلى حاسوب محمول استهلاكي استغرق النظام نفسه نحو 180 ثانية لكل محاولة مقابل 10–58 ثانية لواجهة برمجة تطبيقات بعيدة، وأجهزة من طبقة Chromebook لا تستطيع تشغيل نموذج 8B على الإطلاق. فالطلاب ذوو العتاد الحديث يحصلون على توليد سريع وسلس، بينما يواجه الطلاب على الأجهزة الأقدم زمن استجابة أطول أو استنفاد ذاكرة؛ فالمحلي والرخيص ليسا منصفين بحكم البنية.
 
-### كيف تظهر الفجوة الرقمية في البحث
+## كيف تظهر الفجوة الرقمية في البحث
 
 - **ثقافة الذكاء الاصطناعي كآلية للإنصاف:** صُمّم [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|إطار SAIL]] صراحةً لمعالجة فجوتَي المستوى الثاني والثالث، مقدّمًا مسارًا مسنودًا بالسقالة ولا يفرّق بالعمر لثقافة ذكاء اصطناعي منصفة عبر كل مراحل التعليم، مؤسَّسًا على الحجّة بأن ثقافة الذكاء الاصطناعي لا تنفصل عن الإنصاف والمشاركة.
 
@@ -55,7 +60,9 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 
 - **الخدمات الرقمية العامة تُعيد إنتاج الفجوة.** منصّة eCitizen للخدمات الحكومية الإلكترونية في كينيا إنجليزية في معظمها بسواحيلية محدودة وواجهة نصية فقط، وهو ما يستثني الشباب محدودي الثقافة الكتابية وذوي الإعاقة البصرية والريفيين؛ وتشير مقابلات وطاولة مستديرة من أحد عشر مشاركًا عبر أربع منصّات معيشية (Ajira Digital, KRA iTax, HELB, YEDF) إلى تقنيات اللغة والتصميم المستند إلى WCAG 2.1 كرافعتَي إدماج ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
-### يعمّق الذكاء الاصطناعي الفجوات (ويستطيع سدّها)
+- **فصّل الاستخدام، لا الوصول فقط.** يُقرّ [[raut-ai-rural-education-india-2026|الاستعراض التكاملي لـRaut]] بأنه بين المراهقين الريفيين الهنود في سن 14–16، قال 85.5% من البنين و79.4% من البنات إنهم يستطيعون استخدام هاتف ذكي، ومن ثمّ فإن التوافر الأسري يُقلّل من شأن فجوة نوعية في الاستخدام العملي.
+
+## يعمّق الذكاء الاصطناعي الفجوات (ويستطيع سدّها)
 
 يضيف الذكاء الاصطناعي طبقاتٍ جديدة إلى الآثار على الإنصاف للتقنية. فالتحيّز الخوارزمي قد يُؤثّر في متعلّمي المجتمعات المهمَّشة بشكل غير متناسب، و[[ai-literacy|ثقافة الذكاء الاصطناعي]] — القدرة على فهم تحيّزات الذكاء الاصطناعي ومخاطره وتقويمها نقديًا والتخفيف منها — هي في ذاتها عامل جوهري في ما إذا كان الذكاء الاصطناعي يوسّع الفجوات أو يضيّقها. ويُظهر [[research-methods-aied|البحث]] أن المربّين ذوي ثقافة الذكاء الاصطناعي الأعلى أكثر فاعليةً في تحديد النواتج المتحيّزة والتخفيف منها. لذا فالفجوة الرقمية في عصر الذكاء الاصطناعي ليست مشكلة تزويد تقني فحسب بل مسألة عدالة ومشاركة: من يستطيع الوصول إلى الذكاء الاصطناعي، ومن يستطيع استخدامه نقديًا، ومن يستفيد.
 
@@ -80,17 +87,11 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 - **التوفير الافتراضي لا يفلت تلقائيًا من فاتورة التجهيزات.** وجدت [[meta-analysis-systematic-review|مراجعة منهجية]] لـ11 دراسةً عن التوائم الرقمية في التعليم العالي العلمي والتقني والهندسي والرياضي تكاليف عتاد بين 2,000 و15,000 دولار لكل عقدة عمل وظيفية في أربع دراسات، مع كفاية الكيانات المادية في تحديد الوصول عند 1–3 طلاب متزامنين في خمس، وأن أياً من الدراسات المُدرَجة لم تُنتج تحليل عائد على الاستثمار ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez وآخرون (2026)]]). وتستخدم المراجعة [[benchmark|معيارًا مرجعيًا]] لذلك السعر الدخولي هو أبراج التوصيف المادي المكلّفة من 30,000 دولار إلى أكثر من 150,000 دولار.
 
 - **قد تكون هذه الفجوة أضيق مما كانت عليه فجوة الإنترنت.** بمطابقة استخدام الذكاء الاصطناعي التوليدي في كل بلد لعام 2025 مع سنة الإنترنت ذات الاستخدام الإجمالي المماثل، كانت فجوة التعليم أصغر في 13 من 16 بلدًا أمكن مطابقتها، من أصل 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
+- **لطبقةٍ قدرةٌ تجلس داخل الوصول.** فقد أبلغ محاضِرون يدفعون اشتراكًا شهريًا بـ\$20 بأنفسهم عن أخطاء أكثر ووظائف مقيّدة مقارنةً بزملاء على حسابات مؤسسية مدفوعة، وهي فجوة في ما تستطيع الأداة فعله لا في إمكانية بلوغه ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
-### الروابط بالمفاهيم ذات الصلة
+## الروابط بالمفاهيم ذات الصلة
 
 الفجوة الرقمية همّ جوهري في بحوث [[equity-in-ai-education]]، مرتبطة ارتباطًا وثيقًا بـ[[ai-literacy]] (التي تُوضع كآلية محورية لمعالجة العوائق البنيوية)، وبـ[[ethics]] و[[bias-mitigation]] (إذ يؤثّر التحيّز الخوارزمي بشكل غير متناسب في المجموعات المهمَّشة). وهي تتّصل بـ[[ai-education]] و[[higher-ed]] كإعدادات تظهر فيها فجوات الوصول والقدرة، وتتعلّق بـ[[student-experience]] لأنها تُشكّل من يستطيع المشاركة ذي معنىً في التعلّم المُشكَّل بالذكاء الاصطناعي.
-
-## المفاهيم الخاطئة الشائعة
-
-- **"الوصول إلى الأداة هو الفجوة."** الوصول هو الطبقة الأولى وقد تجاوزتها الأدبيات. فـ**مهارة الصياغة فجوة ثانية قائمة بذاتها**: على MedQA، ارتفعت الدقة مع تطوّر المطالبة من **82.4% للصياغة منخفضة الثقافة إلى 83.4% للصياغة الخبيرة**، أي أن طالبين لديهما الوصول نفسه يحصلان على جودة مختلفة من النموذج ذاته لأن أحدهما يعرف كيف يسأل. وقد ضيّقت طبقة إعادة صياغة المطالبات الفجوة — فالفجوة في الواجهة وفي طلاقة المستخدم، لا في الاشتراك وحده.
-- **"إن كان يعمل في المتصفّح فهو متاح."** تفترض معظم أدوات المحاضرات القائمة على النماذج اللغوية الكبيرة **صوتًا إنجليزيًا أحادي اللغة وإنترنتًا موثوقًا**، وهو ما يستثني تحديدًا الصفوف التي تمزج الإنجليزية بلغة المنزل. ووضعت بيانات UDISE+ الهندية وصول المدارس إلى الإنترنت أدنى بكثير من المستوى الذي يفترضه ذلك الافتراض. فالأداة المبنية على بنية تحتية مفترضة تستثني بصمت السياقات الأشد حاجة.
-- **"محو الأمية الرقمية واستخدام الذكاء الاصطناعي المتغير الوسيط نفسه."** فصلت دراسة على **4,497 طالبًا في الصف السادس** في هولندا **مسارين وسيطين متمايزين** — استخدام الذكاء الاصطناعي ومحو الأمية الرقمية — يربطان الخلفية والشخصية بمكاسب التعلّم. وهما غير قابلين للتبادل، والتدخلات التي ترفع أحدهما لا ترفع الآخر تلقائيًا.
-- **"[[simulation|المحاكاة]] تُزيل حاجز الكلفة."** وجدت مراجعة منهجية لـ**11 دراسة توائم رقمية** في التعليم العالي STEM تكاليف عتاد تبلغ **2,000-15,000 دولار** لكل تنصيب. فبوسع مختبر محاكى أن يُعيد إنتاج فاتورة العتاد التي كان يُفترض تجنّبها، ولذا يجب فحص حجة الكلفة للتعليم الافتراضي لا افتراضها.
 
 ## ما يعنيه هذا للممارسة
 
@@ -105,3 +106,10 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 - لا تعامل توزيع الأجهزة كأنه يسدّ الفجوة. فالفجوات القابلة للقياس تقع في مهارة الصياغة ولغة الواجهة والاتصال، ولا يُصلح العتاد أيًا منها.
 - انشر البنية التحتية التي تفترضها الأداة. فالشرط المعلن بوضوح يتيح لسياق محدود الموارد تقدير ملاءمته قبل الاستثمار.
 - احسب كلفة النشر الكاملة لا ترخيص البرمجيات. فدليل التوائم الرقمية يُظهر أن فاتورة العتاد قد تبقى بعد الافتراضية.
+
+## المفاهيم الخاطئة الشائعة
+
+- **"الوصول إلى الأداة هو الفجوة."** الوصول هو الطبقة الأولى وقد تجاوزتها الأدبيات. فـ**مهارة الصياغة فجوة ثانية قائمة بذاتها**: على MedQA، ارتفعت الدقة مع تطوّر المطالبة من **82.4% للصياغة منخفضة الثقافة إلى 83.4% للصياغة الخبيرة**، أي أن طالبين لديهما الوصول نفسه يحصلان على جودة مختلفة من النموذج ذاته لأن أحدهما يعرف كيف يسأل. وقد ضيّقت طبقة إعادة صياغة المطالبات الفجوة — فالفجوة في الواجهة وفي طلاقة المستخدم، لا في الاشتراك وحده.
+- **"إن كان يعمل في المتصفّح فهو متاح."** تفترض معظم أدوات المحاضرات القائمة على النماذج اللغوية الكبيرة **صوتًا إنجليزيًا أحادي اللغة وإنترنتًا موثوقًا**، وهو ما يستثني تحديدًا الصفوف التي تمزج الإنجليزية بلغة المنزل. ووضعت بيانات UDISE+ الهندية وصول المدارس إلى الإنترنت أدنى بكثير من المستوى الذي يفترضه ذلك الافتراض. فالأداة المبنية على بنية تحتية مفترضة تستثني بصمت السياقات الأشد حاجة.
+- **"محو الأمية الرقمية واستخدام الذكاء الاصطناعي المتغير الوسيط نفسه."** فصلت دراسة على **4,497 طالبًا في الصف السادس** في هولندا **مسارين وسيطين متمايزين** — استخدام الذكاء الاصطناعي ومحو الأمية الرقمية — يربطان الخلفية والشخصية بمكاسب التعلّم. وهما غير قابلين للتبادل، والتدخلات التي ترفع أحدهما لا ترفع الآخر تلقائيًا.
+- **"[[simulation|المحاكاة]] تُزيل حاجز الكلفة."** وجدت مراجعة منهجية لـ**11 دراسة توائم رقمية** في التعليم العالي STEM تكاليف عتاد تبلغ **2,000-15,000 دولار** لكل تنصيب. فبوسع مختبر محاكى أن يُعيد إنتاج فاتورة العتاد التي كان يُفترض تجنّبها، ولذا يجب فحص حجة الكلفة للتعليم الافتراضي لا افتراضها.

@@ -11,7 +11,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
 connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
 ---
@@ -85,6 +89,7 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-as
 - **يمكن للخلاف أن يُعارض التفكير الجمعي.** أخذ [[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]] النهج المعاكس عن قصد: فقد حفّز وكيل ذكاء اصطناعي (CALIE) مُكلَّف بحقن وجهات نظر خلافية في اثنتي عشرة مجموعة [[problem-based-learning|تعلّم قائم على المشكلات]] [[critical-thinking|التفكير النقدي]] وديناميات المجموعة الإيجابية، مُعارضًا ضغط المطابقة الذي قد يُنتجه العمل الجماعي بخلاف ذلك. والمقابلة مع Jin et al. مُعلِّمة — فالتحدّي ينفع عندما يكون التصميم المقصود، ويضرّ عندما يكون أثرًا جانبيًا غير مُعترَف به.
 - **قيد الوسيط المحايد.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]، ذكاء اصطناعي يوسّط الحدود المجالية في فرق متعدّدة التخصّصات بإبراز الافتراضات الضمنية، كان مُقدَّرًا كدعم معرفي وكعازل علائقي — لكن ثقة الطلاب كانت حاملة للأساس وتآكلت لحظة انتقال الذكاء الاصطناعي من وسيط محايد إلى مستشار أو مُتحدٍّ. لذا يجب أن تكون تبديلات الأدوار صريحة وقابلة للضبط، لا صامتة.
 - **يمكن للتعاون نفسه أن يكون موضوع التعليم.** يعامل [[golrang-propact-pair-programming-2026|ProPACT]] *الزوج* — لا الفرد — وحدةً للتحليل، مُنمذجًا الانتباه والجهد المشتركين للتنبّؤ بانهيارات تعاونية قبل 30 ثانية. وحقّقت الأزواج التي تلقّت تغذية راجعة استباقية نجاحًا أعلى في تصحيح الأخطاء وأظهرت مكاسب مستمرّة في [[regulation]] التعاوني بعدها: فيستطيع الذكاء الاصطناعي أن يُعلّم التعاون ذاته، لا أن يدعم مهمّة فحسب.
+- **مُزاحِم علائقي.** في تجربة عشوائية على 33 فريقًا، وجد [[nixon-social-cost-ai-teammate-2026|نيكسون وآخرون (2026)]] أن زميل الذكاء الاصطناعي استحوذ على الحيز الأكبر من الحديث غير أنه أضاف أقلّ المعلومات الجديدة، بينما استجاب الطلاب بعضهم لبعض بقدر أقل (قابلية الاستجابة g = −0.78) وأبلغوا عن انتماء أدنى (4.58 مقابل 5.27). وكلّما استحوذ الذكاء الاصطناعي على الحديث، شعر الطلاب أنهم أقلّ قيمةً (r = −0.52).
 
 ### مقايضة الكفاءة–التنظيم
 
@@ -102,7 +107,8 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-as
 
 - **اجعلوا تفاوض استخدام الذكاء الاصطناعي ناتجًا قابلًا للتقويم.** يُحاجّ [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] بأن على الفرق تبرير وتوثيق كيف سيُستخدم الذكاء الاصطناعي التوليدي ولن يُستخدم، محوّلًا عُرفًا ضمنيًا بين الأقران إلى استدلال صريح قابل للدرجات بدل ترك الأمر للخطر المدرَك.
 - **قوّموا العملية، لا المنتج فحسب.** [[peer-assessment|التقويم بالأقران]] والمخرجات الوسيطة والمساهمات التأمّلية تُنشئ التفاعلات التي تُبنى بها الأعراف والفهم المشترك فعلًا.
-- **لا تعتمدوا على معيار التماسك وحده.** لا يُنتج سطر محكِّم يطالب بالإدماج تعاونًا إذا كان هيكل المهمّة ما زال يسمح بالفرّق واغتنام الفرصة؛ فعلى سير العمل أن يتطلّب عملًا مشتركًا.
+- **لا تعتمدوا على معيار التماسك وحده.** لا يُنتج سطر [[rubrics|سلّم تقدير]] يطالب بالإدماج تعاونًا إذا كان هيكل المهمّة ما زال يسمح بالفرّق واغتنام الفرصة؛ فعلى سير العمل أن يتطلّب عملًا مشتركًا.
+- **قيّموا الشبكة، لا المؤدّي المعزول.** تجادل إعادةُ تقويم مفاهيمي للإنصاف في عصر الذكاء الاصطناعي التوليدي بأن يُقوَّم العمل الجماعي بوصفه توليفًا موثّقًا عبر وجهات النظر، «شبكة معرفية متكاملة»، بدلًا من أداءات معزولة تحت قيود مصطنعة ([[dollinger-equitable-assessment-ai-2026|دولينغر ونيمينن، 2026]]).
 - **صمّموا الوصول بقصد.** إن مشاركة المجموعة لواجهة ذكاء اصطناعي واحدة أو مطالبة كل عضو على انفراد يُغيّر شفافية التعاون وكلفة استدامة نموذج معرفي مشترك.
 - **قرّروا، مرئيًا، ما هو دور الذكاء الاصطناعي.** الوسيط المحايد موثوق؛ والمستشار أو المُتحدّي ليس كذلك، إلّا إذا كان الدور صريحًا ومقصودًا. فالشخصية المعارضة قد تُعارض التفكير الجمعي، لكن فقط كميزة مصمّمة مع إقرار تكاليفها على الأمان النفسي.
 - **وازنوا الكفاءة مقابل التنظيم الذاتي.** فالذكاء الاصطناعي التعاوني الذي يُعظّم كفاءة المهمّة قد يُقوّض مشاركة المتعلّمين التنظيمية؛ ويجب أن يحمي التصميم عن قصد فضاء للتفسير المتناسق.

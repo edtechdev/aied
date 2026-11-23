@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, sc
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,11 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
 ---
@@ -60,6 +65,8 @@ connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-g
 - **التهيئة والتنشيط كتصميم.** تُهيّئ [[genai-mindtool-generative-learning|مناهج أداة العقل في الذكاء الاصطناعي التوليدي]] «مهمة التعلّم» عن قصد بتنشيط المعرفة المسبقة والفضول عبر أسئلة المطالبة، والمرئيات المولَّدة بالذكاء الاصطناعي، والتشبيهات (مثل: «ما الذي تعرفه أصلًا عن النظم البيئية؟») قبل تقديم المحتوى الجديد — فنمذج مسار الاستدعاء والدمج بدلًا من مسار إمداد الأجوبة.
 - **نمذجة المتعلّم والذاكرة.** نمذجت أنظمة الذكاء الاصطناعي بشكل متزايد حالة المعرفة المسبقة للمتعلّم وذاكرته الطولية (مثلًا بدمج حالة المعرفة المسبقة ومنحنيات النسيان في ذاكرة التدريس)، بما يتيح التكرار المتباعد والمراجعة التكيّفية البانية على ما يعرفه كل متعلّم أصلًا.([[nie-personavlm-long-term-personalization-2026]])
 - **رافعة تكيّف مخصَّص.** ولأن المتعلّمين يختلفون اختلافًا واسعًا في المعرفة المسبقة، يجب ضبط التكيّف على الفرد — وهو حجة أساسية لصالح [[personalized-learning]] و[[scaffolding]] التكيّفية التي تلقى المتعلّمين في حالتهم الراهنة الفعلية بدلًا من افتراض متوسط الفصل.
+
+- **كانت المعرفة المسبقة هي السمة الوحيدة للمتعلّم التي عدّلت الدعم التكيّفي.** فقد اكتسب المتعلّمون الذين كانوا يعرفون المحتوى أصلًا أكثر (g = .74، 95% CI [.42, 1.05]) ممن لم يعرفوه (g = .63 [.46, .80])، واستفاد الفريقان، وهو ما يناسب تكيّفًا يسحب المساعدة الزائدة بدل أن يكون انعكاس خبرة ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## انعكاسات على تصميم الذكاء الاصطناعي في التعليم
 

@@ -1,7 +1,7 @@
 ---
 title: الحوسبة العاطفية
 created: "2026-10-12T19:24:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
 connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
@@ -40,7 +44,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 
 ## مقدمة
 
-### إحساس العاطفة لتكييف التعليم
+## إحساس العاطفة لتكييف التعليم
 
 تهدف الحوسبة العاطفية إلى جعل أنظمة الذكاء الاصطناعي واعيةً عاطفيًا حتى تستطيع الاستجابة لما يشعر به المتعلمون لا لما يفعلونه فقط. وفي التعليم يعني هذا إحساس الإحباط أو الحَيرة أو الثقة أو الضجر أو الاندماج وتكييف التعليم وفقًا لذلك. يُبرهن [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] على المقاربة بنمذجة الأثر من وسيلتين — النص المحادثي والتعبير الوجهي في الزمن الحقيقي — وربط الحالة العاطفية المجمَّعة بـ[[pedagogy|الاستراتيجيات التربوية]] قبل [[prompt-engineering|صياغة مطالبة]] للمُعلّم.
 
@@ -48,7 +52,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 
 - **الدعم العاطفي والتأملي من النماذج اللغوية الكبيرة في الرياضيات للمرحلة المتوسطة:** طبّق [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] التأمل على [[intelligent-tutoring|مُعلّم]] جبر لطلاب الصف السابع عبر محادثات ديناميكية، وتمارين تنفس، ولغة تغذية راجعة للتأمل في الأخطاء. وفي تجربة عشوائية [[rct|صغيرة]] صفية (42 من أكملوا من 252 مشاركًا) بلغت النسخة المتأملة تعلّم جبر مماثلًا في زمن أقل وبطلبات تلميحات أقل من الدعم المعرفي وحده — أي كفاءة تعلّم أعلى و[[help-seeking|طلب مساعدة]] أكثر توازنًا — مع أن تخفيض قلق الرياضيات الحالّ لم يختلف دلالةً بين الشرطين.
 
-### الفوائد والمخاطر
+## الفوائد والمخاطر
 
 يمكن للتعليم الواعي بالعاطفة أن يُحقق مكاسب قابلة للقياس، لكن التطور نفسه يحمل مخاطر:
 
@@ -56,9 +60,9 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 - **المخاطر.** قد تُنمّي الأتمتة ذات المظهر المتعاطف [[cognitive-offloading|الإفراط في الاعتماد]] والاعتماد شبه الاجتماعي، وتُخفي [[metacognition|الانفصال ما فوق المعرفي]] الحقيقي، وتُثير مخاوف [[privacy|الخصوصية]] من المراقبة العاطفية المستمرة. و[[ai-sycophancy|تملّق الذكاء الاصطناعي]] خطرٌ عاطفي مركزي: فالذكاء الاصطناعي المُداهن عاطفيًا الذي يُصدّق لا يتحدى قد يُفني الحكم النقدي بل ويحلّ محل العلاقات البشرية الحقيقية — يُظهر [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] أن الذكاء الاصطناعي المتملّق دفع المستخدمين لطلب النصيحة الشخصية من الذكاء الاصطناعي بمقدار يقترب من طلبها من الأصدقاء المقربين والعائلة، مع رضا أقل في التفاعل الواقعي. ويربط [[ai-fatigue-academic-contexts]] و[[ai-campus-wellbeing-tools]] كذلك الذكاء الاصطناعي العاطفي بـ[[well-being|الرفاهة]] لدى المتعلّم.
 - **الاندماج ليس وكيلًا عن التعلّم.** وجدت دراسة بإحساس الدماغ أن واجهةً مقيَّدةً تكيفيةً رفعت الاندماج المعرفي (p = .018) بينما أنتج روبوت المحادثة غير المقيَّد [[learning-gains|مكاسب تعلّم]] أعلى (p < .03، d > 0.80)، لذا فقد تُشير إشارة الأثر أو الاندماج بعيدًا عن النتيجة التي تخدمها ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
-### الحوسبة العاطفية وتعليم الذكاء الاصطناعي الأوسع
+## الحوسبة العاطفية وتعليم الذكاء الاصطناعي الأوسع
 
-تجلس الحوسبة العاطفية عند تقاطع [[affective-tutoring|التعليم العاطفي]] (تطبيقها التربوي)، و[[student-modeling|نمذجة الطالب]] (تمثيل المتعلّم كاملًا بما فيه العاطفة)، و[[learning-analytics|تحليلات التعلّم]] (استنباط الإشارات من بيانات المتعلّم). وهي تتصل بتصميم [[intelligent-tutoring|التعليم الذكي]] وبـ[[pedagogical-safety|السلامة التربوية]] — المبدأ القائل إن الذكاء الاصطناعي ينبغي أن يُساند عاطفة المتعلّم لا أن يُعالجها.
+تجلس الحوسبة العاطفية عند تقاطع [[affective-tutoring|التعليم العاطفي]] (تطبيقها التربوي)، و[[student-modeling|نمذجة الطالب]] (تمثيل المتعلّم كاملًا بما فيه العاطفة)، و[[learning-analytics|تحليلات التعلّم]] (استنباط الإشارات من بيانات المتعلّم). وهي تتصل بتصميم [[intelligent-tutoring|التعليم الذكي]] وبـ[[pedagogical-safety|السلامة التربوية]] — المبدأ القائل إن الذكاء الاصطناعي ينبغي أن يُساند عاطفة المتعلّم لا أن يُعالجها. وإحساس الأثر متميز عن البيداغوجيا الذي يغذّيها: [[affective-tutoring|التعليم العاطفي]] يغطّي كيف ينبغي للمعلّم أن يتصرّف بناءً على قراءة أثرية، و[[sensor-and-gaze-analytics|تحليلات المستشعرات والنظرة]] يغطّي ما تستطيع الإشارات ذاتها دعمه.
 
 - **مراقبة عاطفة الصف في الزمن الحقيقي والمعتمدة على الأطراف الطرفية.** يبني [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] نظام تقييم جودة صف واعٍ بالعاطفة يدفع الحوسبة العاطفية إلى سياقات أصلية واسعة النطاق. مُصمَّم لـ**أجهزة إنترنت الأشياء/الأطراف الطرفية**، يُعالج النظام موازنة الحمل وزمن الاستجابة مع تنسيق عوامل متعددة لالتقاط أنماط عاطفة الطلاب واندماجهم في الزمن الحقيقي. وقد قُوّم على **مجموعة بيانات عاطفة الصف** (1,500 صورة مُعلَّمة و300 فيديو صفي من صفوف فيتنامية حقيقية من الروضة حتى الصف الثاني عشر) بتركيز على التفاعل العاطفي متعدد الأشخاص في الظروف الواقعية — وهو عرضٌ لتوسيع نطاق التعرّف على العاطفة من نماذج المعمل إلى مراقبة صفية قابلة للنشر، إلى جانب اعتبارات الخصوصية و[[pedagogical-safety|السلامة التربوية]] التي تُثيرها مثل هذه المراقبة.
 - **وكلاء تقويم ذوو ذكاء عاطفي.** خفّض [[aivaluate-anxiety-assessment-2026|AIvaluate]]، وهو [[conversational-ai|وكيل محادثة]] معزَّز بـ[[llm|النماذج اللغوية الكبيرة]] وذكي عاطفيًا، [[anxiety-and-stress|قلق الطلاب]] والضغط الاجتماعي خلال التقويمات المعتمدة على الأداء مع حفظ [[usability-research|قابلية الاستخدام]].

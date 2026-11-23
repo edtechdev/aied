@@ -1,13 +1,13 @@
 ---
 title: كيف أُقلّل الغشّ بالذكاء الاصطناعي في مقرري الدراسي؟
 created: "2026-10-12T15:35:00-04:00"
-updated: "2026-11-15T16:08:22-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -146,7 +150,7 @@ ai_assist:
 
 ## ما سيعود إليك
 
-**«ليس لدي وقت لإعادة تصميم مقرّر هذا الفصل».** لا تعد تصميم المقرّر. أعد تصميم واجب واحد: خطوة واحدة بلا مساعدة، وسطر واحد في السلم الوصفي بنقاط. ذلك تغيير في ساعتين، وهو التغيير الذي تفرده مراجعة الـ72 دراسة.
+**«ليس لدي وقت لإعادة تصميم مقرّر هذا الفصل».** لا تعد تصميم المقرّر. أعد تصميم واجب واحد: خطوة واحدة بلا مساعدة، وسطر واحد في [[rubrics|السلم الوصفي]] بنقاط. ذلك تغيير في ساعتين، وهو التغيير الذي تفرده مراجعة الـ72 دراسة.
 
 **«الدفاع الشفهي مستحيل مع 300 طالب».** إذن لا تُجرِ 300 منه. أعطِ الوزن للمكوّن بلا مصادر، واطلب آثار العملية، واختبر شفهيًا بالعينة التسليمات التي تبدو غير متسقة مع عمل سابق. فثلاث مئة طالب لا يحتاجون 300 محادثة لتغيير الحساب.
 

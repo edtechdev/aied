@@ -8,7 +8,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -83,11 +87,14 @@ connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-
 - **كلُّ ما هنا تقريبًا مجموعةٌ واحدة.** التحليل البعدي للإعاقة بلا مُقارِن نموذجي عصبيًّا، فهو يُثبِت أن التدخّلات أفادت، لا أنها أفادت هذه الفئة بشكل مختلف.
 - **العيّنات صغيرة.** أربعة وعشرون طالبًا وأربع مقابلات في دراسة الحوسبة؛ 17 و10 في دراسة فيديو اضطراب نقص الانتباه مع فرط الحركة؛ و72 دراسةً في مراجعة عُسر القراءة مع خيوط ما تزال غير مقترنة.
 - **تختلف حدود الفئات عبر الدراسات،** فالمقارنة بين الدراسات لـ«النمط العصبي نفسه» محدودة — والفروق بين الفئات في التحليل البعدي مُبلَّغ عنها كغير معتدّ بها.
-- **يصف مراجعو الميدان ذاته الميدانَ بأنه مدفوع بالتقنية،** وهو ما يعني أن دليل التدخّل رقيقٌ بالضبط حيث تكون إرشادات التصميم أقوى.
+- **يصف مراجعو الميدان ذاته الميدانَ بأنه مدفوع بالتقنية،**
+- **توجد الآن دراسة مقارنة لاستخدام الذكاء الاصطناعي التوليدي.** مسح [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] 477 طالبًا جامعيًا وخريجًا يابانيًا بوجود اضطرابات النمو العصبي وبدونها، فلم يجد فرقًا معتدًّا بين المجموعتين في الاستخدام الأسبوعي أو المهارات المقيَّمة ذاتيًا أو الفوائد المدرَكة أو حاجات الدعم. لم يرتفع إلا التفاعل الصوتي والتفاعل مع الصور في مجموعة الاضطرابات النمائية، فلذلك صار للفجوة أحادية المجموعة أعلاه مُقارِن مباشر واحد. وهو ما يعني أن دليل التدخّل رقيقٌ بالضبط حيث تكون إرشادات التصميم أقوى.
 
 ## صلات
 
 يرتبط التنوّع العصبي بـ[[special-education]] و[[inclusive-learning]] و[[universal-design-for-learning]] و[[equity-in-ai-education]]. ويُبلِّغ كيف يُنشر الذكاء الاصطناعي لـ[[student-experience]] وكيف تُصمَّم التقويمات وبرامج الثقافة لتكون عادلةً عبر التغيّر الإدراكي. ولكيفية جلوس هذه المكتشفات إلى جانب مجموعات متعلّمين أخرى — اللغة، والجنس، والوضع الاجتماعي-الاقتصادي، والجغرافيا — انظر [[differential-effects-across-learner-groups|الآثار المتفاوتة عبر مجموعات المتعلّمين]].
+
+يصنّف استعراض [[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep وGhosh وNatoli]] لـ28 دراسة عن الذكاء الاصطناعي لطلاب مصابين باضطراب نقص الانتباه مع فرط الحركة في الجامعة الأدلةَ إلى دعم وتنبؤ وأخلاقيات. والتنبؤ هو الجزء الأرقّ: بلغت بصيرة نموذج حدقي AUROC 0.856، بينما بلوغ مصنِّف SVM دقة من 66.1 إلى 68.8 بالمئة، وهي دون الجدوى السريرية. ومقايضة الوظيفة التنفيذية هي القلب الأخلاقي — فالأداة التي تعوّض عن مطلب يمكن أن تمتصّ أيضًا الممارسة التي كانت ستبني القدرة ([[executive-function|الوظيفة التنفيذية]]).
 
 ## المفاهيم الخاطئة الشائعة
 

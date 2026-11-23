@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,9 +22,14 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
-connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026, xu-llm-role-configurations-preservice-teachers-2026]
+connected_resources: [nowcomment]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -38,7 +43,6 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 - يرتّب إطار ICAP التعاون "التفاعلي" كأعمق صور المشاركة. هل يمكن لذكاء اصطناعي يجيب عن المجموعة أن يخفض التعاون فعليًا من تفاعلي إلى مجرد سلبي — حتى لو شعر الطلاب برضًا أكبر؟
 - وجدت دراسة أن وسطاء الذكاء الاصطناعي موضع ثقة فقط ما داموا محايدين؛ وعندما ينتقل الذكاء الاصطناعي إلى النصح أو التحدي، تتآكل تلك الثقة. ما مدى الحياد الذي ينبغي أن يكون عليه وسيط الذكاء الاصطناعي لمجموعة؟
 - عندما يستخدم المتعلّمون الذكاء الاصطناعي لإنتاج منتج مصقول، قد يتجاوزون الجهد المعرفي الذي يبني الفهم. كيف تصمّم شريك ذكاء اصطناعي يُبرز الاختلاف والصراع بدلًا من تنقيته؟
-
 - يُبلّغ الطلاب ذوو الخصائص العصبية المتنوعة عن حاجتهم إلى تكليفات مهيكلة وفرق صغيرة ثابتة وأدوار صريحة. إذا كانت أدوات التعاون بالذكاء الاصطناعي مبنية للمتعلّم "المتوسط"، فمن قد تتركه خارج الحساب — وكيف تصمم بشكل مختلف؟
 
 ## المقدمة
@@ -51,7 +55,7 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 
 تأييد الميسّر هو أقوى رافعة مُلاحظة على قبول الطلاب لوكيل مخالف: في اثنتي عشرة فريقًا بين مهنيين، صُنّف من أثّر الميسّر الأكاديمي في دمجهم للذكاء الاصطناعي أنه أكثر جزءًا من الفريق (M = 3.08 مقابل 2.64) وتغذيته الراجعة أكثر إفادة (M = 3.44 مقابل 2.93) ([[genai-counter-learner-groupthink-2025|ويس وزملاءه (2025)]]).
 
-**التعاون بين الأقران بوساطة الذكاء الاصطناعي** يفحص كيف [[scaffolding|يسقالب]] الذكاء الاصطناعي التعاون بين البشر. يستكشف **[[golrang-propact-pair-programming-2026]]** و**[[agent-voice-accents-k12-group-learning]]** كيف تؤثر خصائص وكيل الذكاء الاصطناعي في ديناميكيات المجموعة. ويوثّق **[[ai-agents-peer-learning-discourse]]** كيف تُنتج [[agentic-ai|وكلاء الذكاء الاصطناعي]] التي تُدرّس بعضها بعضًا أنماط خطاب تشبه تعلّم الأقران البشري. وتمدّ أنظمة مستوى الصف الكامل هذا إلى البُعد *العلائقي* للتعاون: يستخدم **[[breideband-community-builder-cobi-2026|CoBi]]** [[speech-and-voice-technologies|التعرّف على الكلام]] وفهم اللغة لكشف خطاب المجموعات الصغيرة "المرتفع" (أن يكون محترمًا ومنصفًا وملتزمًا بالمجتمع ومحرّكًا للتفكير إلى الأمام) ويعيد [[visualization]]ات على مستوى الصف غير تقييمية لدعم بناء المجتمع ومهارات التعاون، حاجبًا بشكل متعمّد تغذية راجعة على مستوى الطالب أو المجموعة لحماية [[privacy]] و[[trust]].
+**التعاون بين الأقران بوساطة الذكاء الاصطناعي** يفحص كيف يُسقلب [[scaffolding|الذكاء الاصطناعي]] التعاون بين البشر. يستكشف **[[golrang-propact-pair-programming-2026]]** و**[[agent-voice-accents-k12-group-learning]]** كيف تؤثر خصائص وكيل الذكاء الاصطناعي في ديناميكيات المجموعة. ويوثّق **[[ai-agents-peer-learning-discourse]]** كيف تُنتج وكلاء الذكاء الاصطناعي [[agentic-ai]] التي تُدرّس بعضها بعضًا أنماط خطاب تشبه تعلّم الأقران البشري. وتمدّ أنظمة مستوى الصف الكامل هذا إلى البُعد *العلائقي* للتعاون: يستخدم **[[breideband-community-builder-cobi-2026|CoBi]]** [[speech-and-voice-technologies|التعرّف على الكلام]] وفهم اللغة لكشف خطاب المجموعات الصغيرة "المرتفع" (أن يكون محترمًا ومنصفًا وملتزمًا بالمجتمع ومحرّكًا للتفكير إلى الأمام) ويعيد [[visualization]]ات على مستوى الصف غير تقييمية لدعم بناء المجتمع ومهارات التعاون، حاجبًا بشكل متعمّد تغذية راجعة على مستوى الطالب أو المجموعة لحماية [[privacy]] و[[trust]].
 
 **وجهات نظر ذوي الخصائص العصبية المتنوعة عن التعاون** تكشف متطلبات تصميم حرجة. وجد **[[neurodivergent-computing-students|زاستوديل وزملاءه]]** أن الطلاب ذوي الخصائص العصبية المتنوعة يحتاجون تكليفات مهيكلة وفرقًا صغيرة ثابتة بأدوار معرّفة صراحةً وأنماط تفاعل متوقعة — متطلبات يجب أن تستوعبها أدوات التعاون بالذكاء الاصطناعي. ويتصل هذا التعلّم التعاوني بـ [[inclusive-learning]] و[[neurodiversity]].
 
@@ -66,6 +70,8 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 يبلغ التخطيط على مستوى المجال الاستنتاج نفسه من الاتجاه المعاكس: فتحليل BERTopic لـ 1,048 منشورًا عن الذكاء الاصطناعي في التعلّم عبر الإنترنت من 2010 إلى 2023 وجد أن العمل الاجتماعي التوجه في التعلّم التعاوني المدعوم بالذكاء الاصطناعي وتطوير المجتمع لم يظهر قط موضوعًا مهيمنًا، وهو ما ينسبه المؤلفون إلى مجموعةٍ مرتكزة على [[learning-analytics|التحليلات]] على المستوى الفردي ([[chen-bertopic-ai-online-learning-research-topics-2026|تشن وزملاءه (2026)]]).
 
 ترسم [[meta-analysis-systematic-review|مراجعة نطاق]] لـ18 دراسة المقايضة نفسها عبر العمل الجماعي: دعم GenAI تطوير المعرفة وتوليد الأفكار وكفاءة التواصل مع تقليله الطلب على التفاعل بين الأقران والتفاوض وصناعة المعنى الجماعية، ووجد دليل معشاة اقتراحات أكثر ابتكارًا من الذكاء الاصطناعي بلا مكسب دال في الابتكارية العامة للمشاركين ([[wei-perkins-genai-student-collaboration-scoping-2026|وي وبيركينز (2026)]]).
+
+تضع الأدلة المعشاة رقمًا على تلك الكلفة العلائقية. أسند [[nixon-social-cost-ai-teammate-2026|نيكسون وزملاءه (2026)]] 33 فريقًا طلابيًا إمّا إلى طالبين مع زميل آلي أو إلى ثلاثة طلاب؛ ففي فرق الذكاء الاصطناعي بنى الطلاب على بعضهم أقل (الاستجابية g = −0.78) وأبلغوا عن انتماء أدنى (4.58 مقابل 5.27)، مع تتبع الانحدار مقدار الحيز الذي استحوذ عليه الذكاء الاصطناعي من الكلام.
 
 **تصميم الأدوار رافعة على جودة بناء المعرفة التعاوني، لا على حجمها.** أسند [[cheng-symbiotic-role-design-human-genai-collaboration-2026|تشنغ وزملاءه (2026)]] أدوار المشرف والمحلّل والمجادل الدوّارة عبر 58 [[higher-ed|طالب دراسات عليا]] وشريكهم الذكاء الاصطناعي في 16 مجموعة، فوجدوا أن البنية رفعت *محتوى* خرائط المجموعة الذهنية قرابةً شريحة SOLO كاملة (M = 3.65 إلى 4.59, z = 3.771, p < 0.001) مع بقاء عدّ العُقد والفروع ثابتًا — تنظيم لا تغطية — على حساب ارتفاع متوسط في [[cognitive-offloading|الحمل المعرفي]] التعاوني (p = 0.023). وأضاف [[network-analysis|تحليل التسلسل المتأخر]] انتقالًا ذاتيًا للتقييم ومسارًا من الصراع إلى الدفاع لم يُنتجهما الأداة وحدها، ما يضع [[human-ai-collaboration|التعاون بين الإنسان والذكاء الاصطناعي]] كمشكلة تصميم لا مشكلة أداة.
 
@@ -97,13 +103,12 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 ### إطار ICAP: التعاون كأعلى أوضاع المشاركة
 
 يحتل التعلّم التعاوني قمة [[icap-framework|إطار ICAP]] (التفاعلي–البنّاء–النشط–السلبي): الوضع *التفاعلي* — بناء المعنى بالمشاركة عبر الحوار أو الدفاع عن موقف أو الحل المشترك — يُنتج أعمق تغيير معرفي في تصنيف تشي. وهذا يجعل ICAP تبريرًا للبيداغوجيات التعاونية وقيًدا تصميميًا على الذكاء الاصطناعي معًا. والذكاء الاصطناعي الذي يتوسط المناقشة (كما يفعل [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] أو [[golrang-propact-pair-programming-2026|ProPACT]]) قيّم بالتحديد عندما يُبقي المشاركة *تفاعلية*؛ أما الذكاء الاصطناعي الذي يجيب عن المجموعة أو ينقّي الصراع المعرفي فيمكنه خفض التعاون إلى وضع *نشط* أو *سلبي* مجرد. ويعامل كلٌّ من التعليق القائم على ICAP (انظر [[icap-cognitive-engagement-llm-agents|قياس ICAP الممتد للخطاب التعاوني]]) وبحث توقيت التيسير جودة الخطاب التفاعلي كنتيجة ذات أهمية، مؤسّسين التعلّم التعاوني في [[student-engagement]] والتسلسل الهرمي لـ ICAP.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
-
 - **يمكن لـ GenAI أن يتولّى مقعد المدير لا مقعد المدرّس.** أجرى تشن وزملاءه (2026) تجربة شبه عشوائية بطول 16 أسبوعًا مع 64 طالبًا جامعيًا كان في كلا الشرطين وكيل ذكاء اصطناعي ومنصة مهيكلة، ولم تختلف إلا سقالة التنظيم: وكيل SSRL تكيّفي مقابل أوراق عمل رقمية ثابتة ([[chen-genai-team-moderator-cscl-shared-regulation-2026|تشن وزملاءه، 2026]]). أظهرت المجموعة التكيّفية مساواةً أعلى في المشاركة لكن لا كثافةً أعلى، وهي بصمة إعادة التوزيع لا كثرة الكلام.
-
 - **التفاعلي ليس أعمق تلقائياً.** في تجربة شبه عشوائية دامت ثمانية أسابيع مع 87 طالباً جامعياً، أنتجت الثنائيات العاملة بنظام GenAI متعدد الوكلاء أفضل مشاريع التصميم (M = 89.64 مقابل 86.45 للعمل المنفرد على النظام نفسه). وجاءت مكاسب الوعي بالتفكير النقدي في الاتجاه المعاكس: الأكبر للمنفرد (M = 0.41)، وشبه مسطّحة للتعاون بين الأقران (M = 0.06)، وسالبة قليلاً لشرط الذكاء الاصطناعي المزدوج (M = -0.04) ([[bjet-many-hands-make-light-work-2026|تشو وداي وتشاي (2026)]]). فقد غيّر التشكيل نوع التفكير الذي نُشِّط لا مقداره.
 
 ## إرشادات عملية
 
+- **اكتب التعاون في الدرجة لا في الموجز.** أعاد عالم وأستاذ تصميم وحدة تحليلات أعمال للسنة الأولى بحيث كتب 23 طالبًا في 11 فريقًا مقالة مُتكرِّرة من 1,500 كلمة بمرحلتين موثّقتين على الأقل، وجعلا التكرار والتعاون معيارين صريحين للتقدير. ويزعمان أن الدرجة لا التذكير هي ما يجعل أدلة العملية محمولة الوزن، وأن جودة التعاون كان لا بد من [[scaffolding|إسقالبتها]] في الصف قبل أن تستطيع الفرق استخدامها بمفردها ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **نمذج التعاون، لا الفرد وحده.** الأدوات التي تتابع حالة الثنائي أو المجموعة (كما يفعل [[golrang-propact-pair-programming-2026|ProPACT]]) يمكنها إسقالبة التعاون ذاته، متوقعةً الانهيارات ومُنعيّةً لها لا متفاعلةً معها.
 - **احفظ الصراع المعرفي.** أسقِل الذكاء الاصطناعي كشريك مجادلة يُبرز الاختلاف والافتراضات الضمنية، متجنبًا مشكلة المنتجات المصقولة حيث ينقّي الذكاء الاصطناعي المشاركة المعرفية الهشّة.
 - **الشخصيات المخالفة لها كلف وجدانية.** عبر 97 ثلاثية، دفع الذكاء الاصطناعي المخالف الخطاب نحو التحدي والتأمل لكنه خفض رضا العمل الجماعي (ε² = .062) والأمان النفسي (ε² = .114) بلا رفع المخرجات الإبداعية ([[jin-emergent-learner-agency-implicit-hai-2026|جين وزملاءه (2026)]]).
@@ -118,6 +123,12 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 - **صمّم للقراءة/الانتباه التي تسبق المساهمة.** التعلّم التعاوني في منتديات المناقشة [[online-teaching-and-learning|المناقشة الإلكترونية]] يعتمد لا على النشر فقط بل على القراءة التي تسبقه. يُظهر [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|هاو وجوكوروفا (2026)]] أن ملخصات المناقشة والمشاركات النموذجية المولّدة بنماذج لغوية كبيرة يمكنها أن تعمل كـ [[scaffolding|سقالات]] تنقلية توسّع تعرّض الطلاب لمساهمات الأقران والشروط الشبكية لرأس المال الاجتماعي الجاسر (العلاقات الضعيفة) — دعم يجب أن يكمّل، لا أن يستبدل، استراتيجيات اجتماعية بيداغوجية لاستدامة المشاركة تحت عبء العمل الأكاديمي.
 
 - **الجانب الاجتماعي يُظهر اضطرابًا بلا مكسب مضاد.** عبر خمس عمليات تعاون وصل توافق 30 خبيرًا إلى الضعف فقط، مع تقييمات للتحسين تحت العتبة: الترابط الاجتماعي (3.80 مقابل تحسين 1.90)، والتطور الاجتماعي الوجداني (3.60 مقابل 2.00)، والتعلّم الاجتماعي والتعلّم التعاوني والشعور بالانتماء (كلها 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|كنديو وغرين ونيكسون وزملاءه (2026)]]). ويعامل التقرير اللاتناسق كهدف تصميمي، بما أن حل المسائل التعاوني مرتكز إلى منتج مشترك بينما التعلّم التعاوني لا مرجع مرئي له ويمكن أن يتآكل بلا كشف.
+
+تُكتسب مكانة القرين اجتماعيًا. فلم تدخل القدرة الرياضية الأحكام إلا بالكاد. أمضى سبعة باحثين خبراء نحو عشرين دقيقة لكلٍّ منهم في حل معادلات تربيعية مع وكيل نموذج لغوي كبير تكيّفي يحمل شخصية مستندة إلى العوامل الخمسة الكبرى، ثم شرحوا أحكامهم في مقابلات. وقد قيّموه بسلوكه بالكاد كاملًا: فضاء غير حاكِم، واستدلال متردّد، ونقص مناسب، واحترام أفكار المتعلّم. ولتصميم [[agentic-ai|الوكلاء]] يقلب هذا الأولوية المعتادة — فالمُحلّ القادر الذي يظهر كسلطة يقوّض الإطار التعاوني مهما كانت إجاباته جيّدة ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]]).
+
+- يوجد الآن تقدير فوق-تحليلي مباشر للدعم التكيّفي: عبر 83 دراسة تجريبية وشبه تجريبية مُبلَّغ عنها في 80 مقالًا (2004–2023)، تجمّع الدعم المُصمَّم خصيصًا للنشاط التعاوني عند g = .73 وفترة ثقة 95% [.56, .90]، أكبرها للمعرفة الفردية (g = .93) وأصغرها للوجدان (g = .28) ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
+
+- **الدور المُسنَد إلى النموذج اللغوي الكبير يغيّر التعاون، لا المخرَج فحسب.** مع 210 معلّمًا قبل الخدمة، وجد [[xu-llm-role-configurations-preservice-teachers-2026|شو ولو ويانغ (2026)]] أن الدور الداعم رفع ثقافة الذكاء الاصطناعي وخفض الحمل الذهني، بينما رفع الدور التحديّ كثافة الاندماج بما يقارب الضعف عند جهد ذهني أعلى.
 
 ## المفاهيم الخاطئة الشائعة
 

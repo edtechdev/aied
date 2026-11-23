@@ -10,7 +10,8 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T02:34:45-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,8 +23,12 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
-connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
+connected_articles: [absent-cognitive-baseline-2026, ai-assisted-collaborative-learning-model-dbr, ai-changing-teaching-workflows, ai-education-effects-second-order-meta-analysis-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-feedback-critical-thinking-writing-2026, ai-literacy-assessment-misalignment, ai-supported-instruction-stem-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, burneo-can-edtech-close-learning-gaps-2026, ccct-cooperative-learning-technique, chatgpt-hints-human-tutor-learning-gains-2024, chen-genai-programming-understanding-2026, computational-thinking-aica-2026, contractor-learning-impact-generative-ai-2026, epistemological-audit-genai-meta-analyses-2026, gardella-copilot-fast-forgettable-2026, genai-can-harm-teaching-rct-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, generative-ai-guardrails-harm-learning, generative-ai-reduced-study-time-math, gpt4-feedback-student-activation-2026, jost-llm-programming-education-learning-outcomes, kestin-ai-tutoring-outperforms-active-learning-rct-2025, learner-ai-interaction-patterns-oop, liu-ai-literacy-interventions-meta-analysis-2026, making-ai-tutoring-productive-mastery-math-2026, mujib-ai-ibl-creative-math-2026, oecd-digital-education-outlook-2026, one-click-away-khanmigo-two-year-school-experiment-2026, oneill-presumed-effective-meta-analysis-2026, oppenheimer-llms-collaborative-learning-partners-2026, pedagogy-ai-mistakes, rachatasumrit-example-problem-ratio-2026, robot-assisted-language-learning-meta-analysis-2026, rodrigues-aied-unplugged-numeracy-2026, scaffolding-srl-feedback-genai-human-peers, smith-online-pretests-generative-ai-physics-2026, stanford-evidence-base-ai-k12-2026, stromberg-generative-ai-learning-penalty-secondary-2026, studentbench-ai-human-tutoring-gre-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, weidlich-chatgpt-effect-search-cause-2025, young-people-learning-generative-ai-rapid-review-2026, zhao-genai-higher-order-thinking-meta-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -53,11 +58,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - تجمع **[[burneo-can-edtech-close-learning-gaps-2026|التحليل التلوي للبنك الدولي]]** 191 حجم أثر من 14 تجربة عشوائية مضبوطة لتقدير أن تقنيات التعليم التكيّفية والمدعومة بالذكاء الاصطناعي ترفع التعلّم بنحو 0.125 انحراف معياري في المتوسط — وهو أعلى من الوسيط لتجارب التعليم العشوائية المضبوطة — مع عدم إيجادها أفضلية للذكاء الاصطناعي التوليدي على الأدوات التكيّفية الأقدم.
 - **المكاسب تفاعلات بين المحتوى والمعالجة، وليست ثوابت.** يُظهر [[rachatasumrit-example-problem-ratio-2026|راتشاتاسومريت وزملاؤه (2025)]] أن النسبة المثلى بين المثال والمسألة تعتمد على المحتوى المعرفي: فممارسة الاستدعاء الخالصة من نوع [[retrieval-spacing-interleaving|ممارسة الاستدعاء]] تحقق مكاسب أعلى للحقائق الحرفية، بينما تحقق الممارسة المدمجة مع الأمثلة (تبادل الأمثلة المُنجَزة والمسائل) مكاسب أعلى للمهارات القابلة للتعميم — دليل مباشر على أن «مزيداً من الممارسة» ليس دائماً أفضل، وأن المكاسب تتوقف على مواءمة جدول التدريب للمكوّن المعرفي الذي يتم تعلّمه.
 
-### مشكلة القياس في عصر الذكاء الاصطناعي
+## مشكلة القياس في عصر الذكاء الاصطناعي
 
 من الموضوعات المحورية في أبحاث مكاسب التعلّم بقاعدة المعارف أن **الذكاء الاصطناعي التوليدي قد يضخّم الأداء الظاهري دون إنتاج مكاسب تعلّم** — وأن اختيار مقياس النتيجة هو ما يحدد ما إذا كان ذلك مرئياً. يُظهر [[generative-ai-reduced-study-time-math|البحث]] و[[stromberg-generative-ai-learning-penalty-secondary-2026|بيانات الميدان واسعة النطاق]] تباعداً حاداً: فعند استخدام الذكاء الاصطناعي ترتفع درجات الواجبات المنزلية المعانة به بينما *تنخفض* درجات أدوات القياس المراقَبة والمغلقة الكتاب وغير المعانة. ولذلك يميّز [[genai-performance-vs-learning|بحث الأداء مقابل التعلّم]] و[[young-people-learning-generative-ai-rapid-review-2026|المراجعات السريعة]] بين الأداء المدعوم فوراً بالذكاء الاصطناعي والتعلّم الدائم، ويعاملان المقاييس التجميعية غير المعانة (انظر [[summative-assessment]]) كالإشارة الموثوقة لمكاسب التعلّم الحقيقية.
 
-### ما يُظهره بحث الفعالية
+ويمكن أن يُضخَّم خط الأساس أيضًا. فعبر 39 سؤال اختبار قبلي في الفيزياء، ارتفعت الاستجابات الصحيحة بنسبة تصل إلى 36% منذ خريف 2024 — بنحو 15% في المتوسط — مع انخفاضات في الأسئلة التي أجابت فيها الأداة إجابة خاطئة، لذا يمكن لمقارنة قبل/بعد أن تسجّل مكسبًا لم يُنتجه التعليم قط ([[smith-online-pretests-generative-ai-physics-2026|Smith et al., 2026]]). والاختبار القبلي الذي يُثبّت نقطة البداية يحتاج شروطًا غير معانة نفسها التي يحتاجها الاختبار البعدي.
+
+## ما يُظهره بحث الفعالية
 
 عبر [[rct|التجارب العشوائية المضبوطة]] في قاعدة المعارف، و[[meta-analysis-systematic-review|التحليلات التلوية]]، ودراسات الميدان، تظهر صورة متسقة عن **فعالية التعلّم** (أي تدخلات الذكاء الاصطناعي التي تُنتج مكاسب تعلّم فعلاً، وبأي حجم):
 
@@ -77,7 +84,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 - **قد يضاهي التدريس بالذكاء الاصطناعي التدريس البشري الخبير في مكاسب الاختبارات المعيارية.** في تقييم شمل 2,383 مشاركاً، كان التدريس المجموع بالذكاء الاصطناعي مكافئاً إحصائياً للتدريس البشري الخبير في مكاسب تعلّم GRE (p = .015)، مع تفوق كليهما على مجموعة ضابطة دون تدريس؛ ويقترح المؤلفون تكلفة كل نقطة مئوية من المكسب كوحدة لمقارنة المدرّسين ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
-### خريطة ميدانية لآثار الذكاء الاصطناعي على التعلّم والإنجاز
+## خريطة ميدانية لآثار الذكاء الاصطناعي على التعلّم والإنجاز
 
 يدعم المجموع النصي في قاعدة المعارف — التحليلات التلوية، والتجارب العشوائية المضبوطة، والدراسات شبه التجريبية، ودراسات الميدان — صورة دقيقة تتسم أحياناً بالتناقض. تتجمّع النتائج في آثار إيجابية وسلبية ومشروطة.
 
@@ -107,7 +114,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - **يدعم التعلّم الاستقصائي المعان بالذكاء الاصطناعي الإبداع لا حل المشكلات بالضرورة.** حسّن [[mujib-ai-ibl-creative-math-2026|Mujib et al.]] الأداء الإبداعي والمواقف دون حل المشكلات النقدي.
 - **[[student-experience|تجربة الطلاب]] تتباعد عن المكاسب المقيسة.** [[absent-cognitive-baseline-2026|يُقدّر الطلاب الأصليون في الذكاء الاصطناعي تعلّمهم تقديراً زائداً]]، و[[ai-literacy-assessment-misalignment|التقرير الذاتي لا يتوافق مع الأداء]] — فتصوّرات المكاسب ليست دليلاً موثوقاً عليها.
 
-### تقديرات مكاسب التعلّم التلوية مكبوتة — فاقرأها بحذر
+## تقديرات مكاسب التعلّم التلوية مكبوتة — فاقرأها بحذر
 
 يجب قراءة أرقام مكاسب التعلّم التي تهيمن على ملخّص الفعالية في هذه الصفحة — وخصوصاً أحجام الآثار المجموعة من التحليلات التلوية — مع تحفّظ شديد: فموجة من الأبحاث الفوقية تُظهر أن تقديرات التجميع الإيجابية في الميدان مكبوتة بانحياز النشر، وعدم تماسك البناءات، والاختصارات المنهجية.
 
@@ -120,21 +127,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 **الخلاصة النهائية بشأن أرقام المكاسب أعلاه:** عامل أحجام آثار الذكاء الاصطناعي المجموعة الكبيرة كحدود أعلى لا كتقديرات نقطية. وأعطِ أفضلية لدليل مكاسب التعلّم القادم من [[rct|التجارب العشوائية المضبوطة]] المصممة جيداً ودراسات الميدان ذات مقاييس النتيجة المعيارية غير المعانة (تجربة الضوابط الوقائية، وتجربتَي Khanmigo وNUMI، والتحليل التلوي للبنك الدولي حول EdTech المذكور أعلاه)، واقرأ المكاسب التلوية على أنها مؤقتة ومبالَغ فيها على الأرجح حتى تتحسن جودة التجميع. وتبقى المشكلة بعد التصحيح أيضاً: فمن الأوراق المنشورة بعد سحب أحد التحليلات التلوية المدقَّقة، ما زال 60% منها يستشهد به كدعم موثوق لمكاسب تعلّم كبيرة من ChatGPT ولم يُقرّ أي منها بالسحب، لذا يستمر تقدير مسحوب في الانتشار. ولهذا تُوثّق صفحة [[limitations-in-aied-research|القيود في أبحاث AIEd]] الآن أزمة الدليل التلوي بالتفصيل.
 
-### قياس ما يهمّ
+## قياس ما يهمّ
 
 ترتبط مكاسب التعلّم بـ[[assessment-validity]] — فإذا فشلت [[assessment|أدوات التقويم]] في التقاط الفهم الأعمق، كانت مقاييس مكسب التعلّم مُضلِّلة. وتتقاطع أيضاً مع [[cognitive-offloading|الاعتماد المفرط]] و[[cognitive-offloading]]، حيث قد تحجب التحسينات في الأداء الظاهري خسائر في التعلّم، ومع [[rct]] (التجارب العشوائية كتصميم معياري ذهبي لكشف مكاسب التعلّم السببية)، ومع [[meta-analysis-systematic-review]] (تجميع أحجام الآثار عبر الدراسات لتأسيس دليل الفعالية في الميدان).
 
 - **مكاسب كبيرة ودالة قبل/بعد من بيداغوجيا الأخطاء المدعومة بالذكاء الاصطناعي [[pedagogy]]:** أظهر مقرر تصميم قواعد البيانات لدى [[pedagogy-ai-mistakes|Hosseini (2026)]] (n=13) مكاسب تعلّم كبيرة ودالة على بنود متطابقة قبل/بعد (المتوسط 4.25→6.83/7، *d* كوهين=1.49، *p*<.001)، مع مكاسب غير مرتبطة بالثقة السابقة في الذكاء الاصطناعي أو قواعد البيانات — فقد أفاد تصميم النقد والتنقيح المدمج مع الذكاء الاصطناعي الطلاب بغض النظر عن تصوّراتهم الأولية.
 
-## المفاهيم الخاطئة الشائعة
-
-**«ارتفعت الدرجات، إذن أنتج التدخّل تعلّمًا.»** هذا هو الخطأ التعريفي الذي توجد الصفحة لمنعه، وبيانات الميدان تُظهر الاتجاهين معًا في آنٍ واحد: فاستخدام الذكاء الاصطناعي يحسّن الدرجات في الواجبات المنزلية المعانة به بينما *يخفض* الدرجات في المقاييس المراقَبة والمغلقة الكتاب وغير المعانة ([[generative-ai-reduced-study-time-math]]؛ [[stromberg-generative-ai-learning-penalty-secondary-2026]]). واختيار المقياس هو ما يحدّد ما إذا كان التضخّم مرئيًا، لذا فالمكسب في مهمة يُسمح فيها بالذكاء الاصطناعي دعوى عن أداء المهمة لا عن [[genai-performance-vs-learning|التعلّم]].
-
-**«التحليل التلوي يحسم الأمر: الأثر كبير.»** اتجاه التجميع وحجمه حقيقتان مختلفتان، والحجم نادرًا ما ينجو من التدقيق. فـ[[genai-meta-analysis-programming-learning|التحليل التلوي للذكاء الاصطناعي التوليدي في البرمجة]] يجد مكاسب *إنتاجية* كبيرة إلى جانب **عدم وجود مكسب تعلّم دال** (g ≈ 0). و[[burneo-can-edtech-close-learning-gaps-2026|التحليل التلوي للبنك الدولي]]، بجمعه 191 حجم أثر من 14 تجربة عشوائية مضبوطة، يقدّر نحو 0.125 انحراف معياري لتقنيات التعليم التكيّفية والمدعومة بالذكاء الاصطناعي — رقم محترم مقابل وسيط تجارب التعليم العشوائية المضبوطة، لكن **دون أي أفضلية للذكاء الاصطناعي التوليدي على الأدوات التكيّفية الأقدم**. فالاستشهاد بدراسات عصر GPT كقفزة في الصنف يبالغ في تصوير ما يُظهره الدليل المجموع.
-
-**«مزيد من الممارسة ومزيد من [[personalized-learning|التخصيص]] يفيدان دائمًا.»** حجم المكسب يعتمد على ما يُدرَّب، لا على مقدار الدعم المُقدَّم. فـ[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] يُبلغون أن المزيج الأمثل من الأمثلة المحلولة والمسائل يتغيّر بحسب المهارة المستهدفة: فممارسة الاستدعاء الخالصة تحقق مكاسب أعلى في الحقائق الحرفية، بينما يحقق التناوب بين الأمثلة والمسائل مكاسب أعلى في المهارات القابلة للتعميم. ويجد [[lak2026-hint-button-unproductive-use|بحث أزرار التلميح]] أن حجم التلميحات يرتبط سلبًا بالتعلّم. فـ«الدعم» نفسه الذي يساعد مكوّنًا معرفيًا قد يُهدر الآخر.
-
-**«نتيجة اختبار بعدي مؤجَّل هي تلقائيًا نتيجة تعلّم دائم.»** التأجيل ضروري وغير كافٍ. فما يميّز التعلّم الدائم في هذا المجموع هو القياس *غير المعان* في ظروف مؤجَّلة، مع دليل على أن الأثر لا تحمله السقالة التي ستغيب عند الانتقال.
+تُحدّد أحدث التجارب حدًّا لذلك النمط بدل أن تتناقض معه. فقد اجتاز المبتدئون الذين أعطوا ChatGPT اختبارات مولَّدة أكثر بكثير مما اجتاز المبتدئون دونها (410.7 مقابل 80.7) بينما لم يتحسّن فهمهم، ولم يكسب الطلاب المتوسطون شيئًا ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). ووجدت تجربة ثانية أن أفضلية Copilot البالغة 14.09 نقطة قد زالت في اختبار بعدي غير معانٍ بعد أسبوع ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). فالثبات استثناء في هذه الأدبيات، لذا فدراسة تُبلغ عنه دليلٌ على المهمّة وتصميم الدعم، لا على مساعدة الذكاء الاصطناعي عمومًا.
 
 ## انعكاسات على الممارسة
 
@@ -155,3 +154,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - سجّل مقياس النتيجة مسبقًا وبيّن ما إذا كان يسمح بالذكاء الاصطناعي أم غير معان. فاتجاه النتيجة قد ينقلب على هذا الخيار وحده.
 - أبلِغ عن أحجام الآثار مقابل مقارِن مسمّى، لا مقابل «الأساليب التقليدية» في المجرّد. فنتيجة البنك الدولي قابلة للتفسير لأنها تسمّي صنف مقارنتها.
 - ميّز تضخّم الأداء عن إزاحة التعلّم تمييزًا صريحًا، لأن الاثنين يستلزمان علاجين مختلفين — إعادة تصميم المهمة مقابل إعادة التعليم.
+
+## المفاهيم الخاطئة الشائعة
+
+**«ارتفعت الدرجات، إذن أنتج التدخّل تعلّمًا.»** هذا هو الخطأ التعريفي الذي توجد الصفحة لمنعه، وبيانات الميدان تُظهر الاتجاهين معًا في آنٍ واحد: فاستخدام الذكاء الاصطناعي يحسّن الدرجات في الواجبات المنزلية المعانة به بينما *يخفض* الدرجات في المقاييس المراقَبة والمغلقة الكتاب وغير المعانة ([[generative-ai-reduced-study-time-math]]؛ [[stromberg-generative-ai-learning-penalty-secondary-2026]]). واختيار المقياس هو ما يحدّد ما إذا كان التضخّم مرئيًا، لذا فالمكسب في مهمة يُسمح فيها بالذكاء الاصطناعي دعوى عن أداء المهمة لا عن [[genai-performance-vs-learning|التعلّم]].
+
+**«التحليل التلوي يحسم الأمر: الأثر كبير.»** اتجاه التجميع وحجمه حقيقتان مختلفتان، والحجم نادرًا ما ينجو من التدقيق. فـ[[genai-meta-analysis-programming-learning|التحليل التلوي للذكاء الاصطناعي التوليدي في البرمجة]] يجد مكاسب *إنتاجية* كبيرة إلى جانب **عدم وجود مكسب تعلّم دال** (g ≈ 0). و[[burneo-can-edtech-close-learning-gaps-2026|التحليل التلوي للبنك الدولي]]، بجمعه 191 حجم أثر من 14 تجربة عشوائية مضبوطة، يقدّر نحو 0.125 انحراف معياري لتقنيات التعليم التكيّفية والمدعومة بالذكاء الاصطناعي — رقم محترم مقابل وسيط تجارب التعليم العشوائية المضبوطة، لكن **دون أي أفضلية للذكاء الاصطناعي التوليدي على الأدوات التكيّفية الأقدم**. فالاستشهاد بدراسات عصر GPT كقفزة في الصنف يبالغ في تصوير ما يُظهره الدليل المجموع.
+
+**«مزيد من الممارسة ومزيد من [[personalized-learning|التخصيص]] يفيدان دائمًا.»** حجم المكسب يعتمد على ما يُدرَّب، لا على مقدار الدعم المُقدَّم. فـ[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] يُبلغون أن المزيج الأمثل من الأمثلة المحلولة والمسائل يتغيّر بحسب المهارة المستهدفة: فممارسة الاستدعاء الخالصة تحقق مكاسب أعلى في الحقائق الحرفية، بينما يحقق التناوب بين الأمثلة والمسائل مكاسب أعلى في المهارات القابلة للتعميم. ويجد [[lak2026-hint-button-unproductive-use|بحث أزرار التلميح]] أن حجم التلميحات يرتبط سلبًا بالتعلّم. فـ«الدعم» نفسه الذي يساعد مكوّنًا معرفيًا قد يُهدر الآخر.
+
+**«نتيجة اختبار بعدي مؤجَّل هي تلقائيًا نتيجة تعلّم دائم.»** التأجيل ضروري وغير كافٍ. فما يميّز التعلّم الدائم في هذا المجموع هو القياس *غير المعان* في ظروف مؤجَّلة، مع دليل على أن الأثر لا تحمله السقالة التي ستغيب عند الانتقال.

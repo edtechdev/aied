@@ -1,13 +1,13 @@
 ---
 title: علم النفس المعرفي
 created: "2026-10-12T21:18:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
 connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
@@ -82,6 +86,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-e
 2. **مثّل المتعلّم لا استجب فحسب.** أرفق [[student-modeling]] و[[knowledge-tracing]] منظمين بحوار الذكاء الاصطناعي حتى يتكيف النظام مع المعرفة المستنطقة بدلًا من الاستجابة بطلاقة وعمى.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **احترم حدود الذاكرة العاملة.** طبّق نظرية الحمل المعرفي على تجربة استخدام الذكاء الاصطناعي: فقلل الحمل الخارجي (الاحتكاك، والواجهات المحمّلة زائدًا) مع الحفاظ على المعالجة الجرثومية ([[desirable-difficulties|الكفاح المنتج]]، وممارسة الاسترجاع) بدلًا من تصغير كل طلب معرفي.
 4. **عاير ما وراء المعرفة.** لأن [[metacognition]] تحكم متى يختار المتعلّمون التفريغ، فإن تعليم المعايرة (معرفة ما يستطيع المرء فعله فعلًا بلا معاونة) هو جواب إدراكي على الاعتماد المفرط (انظر [[cognitive-offloading]]).
+
+التطوّر مسألة منفصلة: تُعامَل هذه الآليات بوصفها مستقرّة، بينما يسأل [[developmental-psychology|علم النفس النمائي]] كيف تتغيّر مع العمر وما الذي يعنيه ذلك لاستخدام الذكاء الاصطناعي المقسَّم بحسب الفئة العمرية.
 
 ## المفاهيم الخاطئة الشائعة
 

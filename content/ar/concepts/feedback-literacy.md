@@ -9,8 +9,8 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
-connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, yuan-genai-feedback-writing-self-regulation-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -41,7 +45,9 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 
 تكتسب ثقافة التغذية الراجعة أهميتها لأن التغذية الراجعة المصمّمة جيدًا تساعد الطلاب القادرين على تفسيرها والعمل بها فقط. فالطالب الذي لا يستطيع تقويم ما إذا كانت التغذية الراجعة المولّدة بالذكاء الاصطناعي دقيقة، أو الذي لا يعرف كيف يحوّل التغذية الراجعة إلى مراجعة ملموسة، يتعلّم أقل بكثير من التغذية الراجعة نفسها من قرين أكثر ثقافةً للتغذية الراجعة. وبينما يعيد الذكاء الاصطناعي تشكيل تقديم التغذية الراجعة، صارت ثقافة التغذية الراجعة شرطًا حدوديًا مركزيًا لتحسين تغذية الذكاء الاصطناعي الراجعة للتعلّم.
 
-### What feedback literacy is
+يضع [[corbin-recognition-feedback-2026|Corbin وTai وFlenady (2026)]] الاعتراف قبل الثقافة: يجب أن يمنح الطالب مقدِّمَ التغذية الراجعة أهليةً للإرشاد، وأن تُمنح له أهلية الإجابة، وإلا فلن يكون هناك ما تعمل عليه الثقافة.
+
+## What feedback literacy is
 
 تُؤطَّر ثقافة التغذية الراجعة على نطاق واسع بوصفها مجموعة من القدرات المترابطة — القدرة على تقدير التغذية الراجعة، وإصدار الأحكام، وإدارة الوجدان، واتخاذ الإجراء (بعد Carless & Boud). وتجمع مقالات قاعدة المعارف ثقافة التغذية الراجعة حول عدة قدرات:
 
@@ -52,7 +58,7 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 - **العمل بالتغذية الراجعة** — ترجمة التغذية الراجعة إلى مراجعات أو تغييرات ملموسة في المنهج ([[feedback|حلقة التغذية الراجعة]]، [[self-regulated-learning|التعلّم الذاتي التنظيم]]).
 - **الحكم على سلطة التقييم** — قدرة إضافية اقترحها [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]: فجنبًا إلى جنب مع تقدير التغذية الراجعة وإصدار الأحكام وإدارة الوجدان واتخاذ الإجراء، احتاج الطلاب المستدلّون على التغذية الراجعة المنتَجة بالذكاء الاصطناعي إلى الحكم على *أي مصدر يملك سلطة التقييم*، منفصلة عن الحكم على جودة التغذية الراجعة. ولأن المشاركين قيل لهم إن ChatGPT أنتج الدرجة والتغذية الراجعة معًا، مارست ثقافتهم للتغذية الراجعة على مصدر التقييم ومشروعيته، لا على محتواه فقط، وأنتجت مطالب بالتحقق من المعلّم بدلًا من القبول السلبي.
 
-### How feedback literacy appears in the research
+## How feedback literacy appears in the research
 
 - **ثقافة التغذية الراجعة بوصفها مُعدِّلًا لقيمة تغذية الذكاء الاصطناعي الراجعة:** يُظهر [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] أن ثقافة التغذية الراجعة تعدّل العلاقة بين قبول ChatGPT و[[self-regulated-learning|التعلّم الذاتي التنظيم]]: فالطلاب الأقوى ثقافةً يدركون فائدة أكبر للتعلّم الذاتي التنظيم من تغذية الذكاء الاصطناعي الراجعة، بينما يُظهر الطلاب الأضعف ثقافةً آثارًا ضئيلة أو حتى سلبية ([[cognitive-offloading|الإفراط في الاعتماد]]). وثقافة التغذية الراجعة شرط حدودي لقدرة الطلاب على "صناعة معنى" تغذية الذكاء الاصطناعي الراجعة.
 
@@ -69,16 +75,18 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 - **تغذية الأقران الراجعة وثقافة التغذية الراجعة:** يضع [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]] الذكاء الاصطناعي التوليدي ضمن تغذية الأقران الراجعة في EFL لتدريب ثقافة التغذية الراجعة وتمكين اقتناصها في حصص التحدّث، وتقارن [[scaffolding-srl-feedback-genai-human-peers|دراسات السقالة]] الذكاء الاصطناعي التوليدي مقابل الأقران البشر في تنشئة التغذية الراجعة الذاتية التنظيم.
 - **التغذية الراجعة المخزّنة بياناتٍ دائمة قابلة للاستشارة.** رفع قران ChatGPT بـ[[eportfolio|منصّة أعمال]] رفع أداء التحدّث وثقافة التغذية الراجعة معًا (partial η² = 0.218 للأخيرة)، إذ عامل الطلاب التغذية الراجعة المؤرشفة من المحاضِر والأقران والذكاء الاصطناعي بياناتٍ للتوفيق لا تصحيحًا لمرة واحدة ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
 - **ثقافة التغذية الراجعة في تحليلات التعلّم و[[visualization|لوحات معلومات]] الذكاء الاصطناعي التوليدي:** يفحص [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] كيف يدرك الطلاب [[learning-analytics|تحليلات التعلّم]] المدعومة بالذكاء الاصطناعي التوليدي من منظور ثقافة التغذية الراجعة.
-- **ثقافة التغذية الراجعة بوصفها هدفًا لتصميم ثقافة الذكاء الاصطناعي و[[assessment|التقويم]]:** يستخدم [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] تقويمًا للعملية على الأثر ينتقد فيه الطلاب مخرجات ChatGPT مقابل مقياس تقديري لبناء ثقافة التغذية الراجعة والنفسية والذكاء الاصطناعي معًا؛ ويربط [[learner-centered-feedback-ai|تغذية الذكاء الاصطناعي الراجعة المرتكزة على المتعلّم]] و[[care-full-feedback-genai|تصميم التغذية الراجعة المُعنِيَّة]] جودة التغذية الراجعة بقدرة المتعلّم على الانخراط.
+- **ثقافة التغذية الراجعة بوصفها هدفًا لتصميم ثقافة الذكاء الاصطناعي و[[assessment|التقويم]]:** يستخدم [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] تقويمًا للعملية على الأثر ينتقد فيه الطلاب مخرجات ChatGPT مقابل [[rubrics|مقياس تقديري]] لبناء ثقافة التغذية الراجعة والنفسية والذكاء الاصطناعي معًا؛ ويربط [[learner-centered-feedback-ai|تغذية الذكاء الاصطناعي الراجعة المرتكزة على المتعلّم]] و[[care-full-feedback-genai|تصميم التغذية الراجعة المُعنِيَّة]] جودة التغذية الراجعة بقدرة المتعلّم على الانخراط.
 - **ثقافة التغذية الراجعة قابلة للتعليم، والذكاء الاصطناعي يوفّر مادة التدريب.** يدعو دليل مفاهيمي المدرّسين إلى توليد طيف متدرّج من عيّنات عمل الذكاء الاصطناعي — تحقّق كل المعايير أو بعضها أو لا شيء منها — ثم قيادة الطلاب عبر نقد مُنمذَج، وتحليل صفي موجَّه، وتقييم مستقل ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington and Hock (2026)]]).
 
-### Why feedback literacy matters for AI in education
+- **ثقافة التغذية الراجعة هي المسار من تغذية الذكاء الاصطناعي الراجعة إلى التنظيم الذاتي.** في دراسة ثنائية الموجات على 520 طالبًا جامعيًا صينيًا، وجد [[yuan-genai-feedback-writing-self-regulation-2026|Yuan (2026)]] أن ثقافة التغذية الراجعة حملت 32.4% من الارتباط بين استخدام تغذية الذكاء الاصطناعي التوليدي الراجعة والتنظيم الذاتي للكتابة اللاحق، مقابل 9.1% عبر انخفاض قلق الكتابة.
+
+## Why feedback literacy matters for AI in education
 
 يغيّر الذكاء الاصطناعي التغذية الراجعة في اتجاهين يرفعان كلاهما رهانات ثقافة التغذية الراجعة. أولًا، يزيد الذكاء الاصطناعي *حجم التغذية الراجعة وفوريتها* زيادةً كبيرة ([[ai-feedback-quality|جودة التغذية الراجعة بالذكاء الاصطناعي]]، [[feedback|حلقة التغذية الراجعة]])، فيواجه الطلاب تغذية راجعة أكثر بكثير يجب أن يرتبوها ويقوّموها. ثانيًا، تحمل التغذية الراجعة المولّدة بالذكاء الاصطناعي مخاطر متمايزة — عدم الدقة، و[[hallucination-risk|الهلوسة]]، و"وهم الإتقان" — تطلب مهارات [[critical-thinking|التقييم النقدي]] واليقظة ضد الإفراط في الاعتماد و[[llm-fallacy-misattribution|الإسناد الخاطئ]]. ولذلك تصبح ثقافة التغذية الراجعة مكوّنًا أساسيًا في [[ai-literacy|ثقافة الذكاء الاصطناعي]]: معرفة كيفية توجيه الذكاء الاصطناعي للتغذية الراجعة فقط لا، بل كيفية الحكم على ما إذا كانت التغذية الراجعة تستحق العمل بها وكيفية تحويلها إلى تعلّم حقيقي لا إتمام مهمة.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman and colleagues (2026)]] يضيفون مطلبًا إضافيًا إلى تلك القائمة. ففي دراستهم الورشية، لم يكن الطلاب يديرون مصدرًا واحدًا للتغذية الراجعة بل شبكة: وزنوا تعليقات المربّي مقابل مخرجات الذكاء الاصطناعي، والمقاييس التقديرية، ومواد المقرر، والأقران، وعندما كانت التغذية الراجعة البشرية بطيئة استمروا في العمل مع الذكاء الاصطناعي كوضع احتجاز، يراجعون لاحقًا إذا كان قد أضلّهم. ويقترح المؤلفون أن الطلاب يستطيعون أن يعملوا بوصفهم الإنسان-في-الحلقة خاصتهم بإدارة تلك العلاقات من المهمة الدقيقة إلى المسار الأشمل، وهو نفسه قدرةُ ثقافة تغذية راجعة. وتحذيرهم هو أن تعليقات المربّي الرقيقة أو المتأخرة هي ما يدفع الطلاب نحو مصادر غير متحقَّق منها.
 
-### Connections to related concepts
+## Connections to related concepts
 
 ترتبط ثقافة التغذية الراجعة بـ[[ai-feedback-quality|جودة التغذية الراجعة بالذكاء الاصطناعي]] و[[feedback|حلقة التغذية الراجعة]] (جانب التقديم الذي تكملّه)، و[[formative-assessment|التقويم التكويني]] (دورة التقويم التي تُغذّيها)، و[[self-regulated-learning|التعلّم الذاتي التنظيم]] ([[self-assessment|التقدير الذاتي]] والتكيّف الذي تدعمه). وهي مجموعة فرعية من [[ai-literacy|ثقافة الذكاء الاصطناعي]] عند تطبيقها على التغذية الراجعة المولّدة بالذكاء الاصطناعي، وتتقاطع مع [[peer-assessment|تقييم الأقران]] في السياقات التعاونية، وهي بالغة الأثر على وجه الخصوص لـ[[writing-education|تعليم الكتابة]]. كما ترتبط بـ[[metacognition|ما وراء المعرفة]] و[[trust-calibration|معايرة الثقة]] — القدرة على الحكم على ما إذا كانت التغذية الراجعة جديرة بالثقة.
 

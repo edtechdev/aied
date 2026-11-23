@@ -6,8 +6,8 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
 connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
@@ -40,7 +44,7 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 
 مع تزايد تصحيح أنظمة الذكاء الاصطناعي للردود وتنبؤها بالصعوبة وتقديمها [[feedback|التغذية الراجعة]]، فإن الخطر الجوهري هو أنها تُبلّغ عن مخرَجات ذات صيت واثق لم تُتحقق مقابل مبادئ القياس. ويعالج الذكاء الاصطناعي المدرك للقياس النفسي ذلك بتأصيل [[assessment|تقييم]] الذكاء الاصطناعي في علم القياس النفسي الراسخ — معايرة المخرجات، وتقدير عدم اليقين كمًا، والحفاظ على معايير [[assessment-validity|الصدق]] و[[educational-measurement|القياس التربوي]] بدل الاعتماد على الدقة الخامة أو [[self-report-measures|الثقة المُبلَّغ عنها ذاتيًا]].
 
-### كيف يظهر الذكاء الاصطناعي المدرك للقياس النفسي في البحث
+## كيف يظهر الذكاء الاصطناعي المدرك للقياس النفسي في البحث
 
 - **المعايرة والثقة:** يضمن [[automated-assessment|التقييم الواعي بالثقة]] و[[llm-psychometric-calibration-cdp|المعايرة النفسية القياسية للنماذج اللغوية الكبيرة]] أن يُبلّغ الذكاء الاصطناعي عن درجات ذات معنى وواعية بعدم اليقين بدل تقديرات نقطية مفرطة الثقة.
 - **ثقة النموذج ليست كافية.** على SciEntsBank، أخفقت الثقة اللفظية والكامنة والقائمة على الاتساق كلها في الفصل بين الإجابات القصيرة الصحيحة والخاطئة؛ وأفضل معايرة جاءت من إضافة عدم يقين حتمي مشتق من مجموعة البيانات — إنتروبيا العنقودية للردود المُدمَجة — عبر غابة عشوائية إضافةً إلى معايرة بلات، مما أتاح التصحيح الآلي الانتقائي و[[human-in-the-loop-ai|المراجعة البشرية]] ([[cong-confidence-asag-2026|Cong et al. (2026)]]).
@@ -52,10 +56,10 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 - **صدق البنية الكامنة:** يُظهر [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] أن موقفًا مدركًا للقياس النفسي يجب أن يتحقق أيضًا من أن تقييمًا ما يقيس *البنية الكامنة نفسها* في النماذج اللغوية الكبيرة كما يقيسها في البشر. فلأن بنيات عوامل الردود بالنماذج اللغوية الكبيرة والبشرية تتباعد على الأدوات نفسها، قد لا تقيس حتى النماذج المُسجِّلة جيدًا البنية التي يُفترض بالامتحان أن يقيسها — وهو تحفّظ لأي تقييم بالذكاء الاصطناعي يستعير أدلة صدق بشرية.
 - **قد تقيس تسمية أكثر أو أقل مما تُسمّيه.** فأدخل تضمين 55 بنية و272 مفردة من أدوات [[ai-literacy|ثقافة الذكاء الاصطناعي]] الاثنتي عشرة أزواج jangle (التسمية نفسها، قياسٌ مختلف) وأزواج jingle (تسميتان مختلفتان، صياغة متطابقة تقريبًا)، فاستعاد موثوقيةً عند r = 0.49، وهو فحصٌ سابق للجمع يتحقق من بقاء تميز البنى في صياغة المفردات ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
 - **مقياس اعتماد يرفض تأصيل المخرَج.** انبثقت أربعة عوامل — الاستخدام التأملي، والحذر، وغير المتأمل، والتعاوني — من 800 استجابة وثبتت عبر مهمة مختلفة الشكل (CFI = .91)، وهي تقيس السلوك في كل لحظة مهمة بدل تصنيفه جيدًا أو سيئًا ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
-- **خطوط أنابيب القدرة الكامنة ووضع المعايير:** يُقدّم [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] قالبًا ملموسًا للتصحيح المدرك للقياس النفسي في امتحان وطني: فلا تُجمع درجات مفردات سلم التقدير مباشرةً أبدًا بل تُدخل في نموذج [[item-response-theory|نظرية الاستجابة للمفردة]] تُقطع تقديرات قدرته الكامنة بطريقة وضع معيار Bookmark إلى Proficient / Close to Proficiency / Insufficient، مع اشتراط النجاح قسمين على الأقل بتصنيف Proficient والثالث على الأقل بتصنيف Close to Proficiency. وأعاد المؤلفون إنتاج ذلك الخط في صورة آلية (باحتمال 67% للإجابة الصحيحة على 7 مفردات على الأقل من مفردات سلم التقدير للقطع الأدنى وعلى 10 على الأقل للأعلى)، فأمكن مقارنة درجات مفردات الذكاء الاصطناعي والبشر مقابل معايير قرار متطابقة لا على الاتفاق الخام وحده.
+- **خطوط أنابيب القدرة الكامنة ووضع المعايير:** يُقدّم [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] قالبًا ملموسًا للتصحيح المدرك للقياس النفسي في امتحان وطني: فلا تُجمع درجات مفردات [[rubrics|سلّم التقدير]] مباشرةً أبدًا بل تُدخل في نموذج [[item-response-theory|نظرية الاستجابة للمفردة]] تُقطع تقديرات قدرته الكامنة بطريقة وضع معيار Bookmark إلى Proficient / Close to Proficiency / Insufficient، مع اشتراط النجاح قسمين على الأقل بتصنيف Proficient والثالث على الأقل بتصنيف Close to Proficiency. وأعاد المؤلفون إنتاج ذلك الخط في صورة آلية (باحتمال 67% للإجابة الصحيحة على 7 مفردات على الأقل من مفردات سلم التقدير للقطع الأدنى وعلى 10 على الأقل للأعلى)، فأمكن مقارنة درجات مفردات الذكاء الاصطناعي والبشر مقابل معايير قرار متطابقة لا على الاتفاق الخام وحده.
 - **قد يبدو النموذج معايَرًا بينما يتنبأ في الغالب بتسمية واحدة.** أنتج سؤال GPT-4o وGemini 2.0 Flash استنتاج أبعاد أنماط التعلّم من حوارات 153 طالبًا جامعيًا دقةً متوسطة أظهر استدعاء كل فئة أنها تنبؤ بالفئة الغالبة، مع تعريف ناقص للمتعلّمين الحدسيين والكليين، وتضخيم [[prompt-engineering|الإيعاز]] قليل الأمثلة للتحيز أحيانًا بدل إزالته ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi and Robb (2026)]]).
 
-### الروابط
+## الروابط
 
 يجلس الذكاء الاصطناعي المدرك للقياس النفسي عند تقاطع [[educational-measurement|القياس التربوي]] و[[assessment-validity|صدق التقييم]] و[[item-response-theory|نظرية الاستجابة للمفردة]] و[[automated-assessment|تقييم الذكاء الاصطناعي الواعي بالثقة]]. وهو مركزي لـ[[ai-ed-evaluation|تقويم تدخّلات الذكاء الاصطناعي في التعليم]] (ما إذا كان تقييم الذكاء الاصطناعي جديرًا بالثقة) ويرتبط بـ[[llm]]-القائم على [[automated-assessment|التقييم الآلي]] و[[automated-assessment|التصحيح الآلي]]. ويخاطب تأكيده على الصدق أيضًا [[limitations-in-aied-research|حدود القياس]] في بحوث [[ai-education|الذكاء الاصطناعي في التعليم]].
 

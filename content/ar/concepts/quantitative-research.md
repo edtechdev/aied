@@ -1,8 +1,8 @@
 ---
 title: البحث الكمي
 created: "2026-10-12T18:45:00-04:00"
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
 connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
@@ -43,12 +47,17 @@ connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching
 
 ## المقاربات الكمية الرئيسية
 
+### التصاميم الطولانية والألواح
+
+يحوّل قياس المتعلّمين أنفسهم مرارًا الارتباط إلى مسار: فتفصل نماذج الألواح بين السمة الثابتة والتغيّر الخاص بالمناسبة، وتقدّر نماذج النمو شكل التغيّر ومعدّله عبر الموجات. وتُعالَج عائلات التصاميم، والتهديدات التي تعضّ في دراسات الذكاء الاصطناعي (التسرب، وانحراف الأداة، والأداء المسانَد)، وأقوى الأمثلة في [[longitudinal-research|البحث الطولي]].
+
 ### البحث المسحي والارتباطي
 تقيس المسوح المقطعية المواقف والإدراكات والدافعية و[[self-efficacy]] وقبول التقنية المُبلَّغ عنها ذاتياً، وتُنمذج في الغالب بالانحدار أو النمذجة بالمعادلات البنيوية (SEM/PLS-SEM) لاختبار العلاقات والوسطاء المفترضين. وهي تسيطر على مجلّد قاعدة المعارف، لا سيما لأسئلة القبول والدافعية والآليات النفسية. ويبني [[acceptance-ai-english-tools-2026|قبول أدوات الإنجليزية المساعدة بالذكاء الاصطناعي]] على [[technology-acceptance-model|TAM]] بـ SEM؛ وتستخدم [[tian-genai-learning-adoption-pathways-2026|مسارات تبني الذكاء الاصطناعي التوليدي]] PLS-SEM و fsQCA ورسم خرائط الأهمية-الأداء؛ وتستخدم [[teacher-education-ai-literacy-sdt-2026|ثقافة الذكاء الاصطناعي للمعلّم]] مسوحاً مُتحقَّقاً من صلاحية عواملها ومُؤسَّسةً على [[self-determination-theory]].
 
 - **نقاط القوة:** عيّنات كبيرة؛ تغطية واسعة منخفضة الكلفة؛ اختبار نماذج وساطية معقّدة؛ قابلية التنفيذ للمواقف التي يصعب رصدها.
 - **الحدود:** البيانات المقطعية لا تستطيع إرساء السببية؛ تحيّز التقرير الذاتي؛ معاينة الملائم تحدّ من القابلية للتعميم؛ الوسطاء مستنتجون من التغاير لا من المعالجة. انظر [[self-report-measures]] لمعالجة هذه الحدود من جانب الأداة.
 - **نموذج وساطة مشبَع لا يستطيع اختبار ترتيبه الخاص.** فرّق استقصاء أحادي الموجة على 1,020 طالبَ تمريض أثرًا كليًا قدره 1.36 إلى مباشر 0.92 وغير مباشر 0.44 عبر [[self-regulated-learning|التعلّم ذاتي التنظيم]]، أي 32.35% من الكلي، بنموذج له من المعاملات الحرة بقدر ما للتغايرات المرصودة، فهو يُعيد إنتاج البيانات بالبناء ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **يمكن لوصف «جزئي» أن يستند إلى فترة ثقة تكاد تبلغ الصفر.** فبين 438 طالبًا جامعيًا صينيًا سار المسار المباشر من استخدام الذكاء الاصطناعي إلى الأداء عند β = 0.18 وفترة ثقة 95% (0.02, 0.34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **أثر غير مباشر كلي قريب من الصفر قد يخفي مسارين حيّين.** في موجة تقرير ذاتي واحدة لـ568 طالب تصميم، جرى الارتباط غير المباشر 0.0929 عبر تركيز الترقّي و-0.0884 عبر تركيز الوقاية، مجموعهما 0.0045 بينما حمل المسار المباشر 98.7% من الكلي ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### البحث التجريبي وشبه التجريبي
@@ -86,6 +95,9 @@ connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching
 
 - **نقاط القوة:** الدقة والقوة الإحصائية؛ القابلية للتعميم إلى سكان محدّدين؛ الاستدلال السببي (بالتصاميم التجريبية)؛ تغطية فعّالة للعيّنات الكبيرة؛ تراكمية وقابلة للمقارنة عبر الدراسات.
 - **الحدود:** تلتقط ما هو قابل للقياس، مُغفلةً في الغالب العملية والمعنى والسياق (انظر [[qualitative-research]])؛ تحيّز التقرير الذاتي؛ قد تقيس الأدوات البنية الخطأ (انظر [[educational-measurement|مسائل القياس]])؛ الارتباط دون السببية؛ قد تكون اصطناعيةً وبطيئةً نسبةً إلى تغيّر الذكاء الاصطناعي.
+
+- 
+**يمكن أن يفشل التجميع على مستوى المراجعة.** فمراجعة PRISMA لـ103 دراسات عن الذكاء الاصطناعي التوليدي في التعليم العالي لم تجرِ تحليلًا بعدّيًا لأن التصاميم والمقارنات والمقاييس كانت متباينةً جدًا، بل بلّغت اتفاقًا في تصنيف المخرجات عند κ = 0.781 ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
 
 الأساليب الكمية و[[qualitative-research|الكيفية]] مكمّلات — يُوفّر العمل الكمي اتساعاً وقدرةً سببيةً، ويُوفّر العمل الكيفي عمقاً ومعنىً. و[[mixed-methods-research|تصاميم الأساليب المختلطة]] تدمجهما. انظر [[research-methods-aied]] لمقارنة الأساليب الكاملة والتباينات بين التصاميم التجريبية والمسحية والكيفية وغيرها.
 

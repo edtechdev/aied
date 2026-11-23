@@ -1,7 +1,7 @@
 ---
 title: الحد من إساءة استخدام الذكاء الاصطناعي
 created: "2026-10-12T19:18:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
@@ -10,7 +10,7 @@ assessment: [assessment]
 confidence: high
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

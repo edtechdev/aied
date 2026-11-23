@@ -1,7 +1,7 @@
 ---
 title: "التعليم البيئي"
 created: "2026-10-12T15:26:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
 connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -51,7 +55,7 @@ connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-i
 
 ## تعليم الموضوعات البيئية والمناخية بالذكاء الاصطناعي
 
-أقوى الأدلة تجربة شبه تجريبية ثلاثية المجموعات تستخدم التغير المناخي كمسألة اجتماعية علمية. فتجاوز الطلاب الذين عملوا مع شريك ذكاء اصطناعي داخل مهمة [[inquiry-based-learning|استقصاء]] منظّمة أقرانَهم الذين اقتصروا على الاستقصاء (d = 0.69) والتدريس التقليدي (d = 1.88) على سُلَّم تقدير لاتخاذ القرار، مع أكبر المكاسب على الخطوات التي دخلها الطلاب في أضعف حال — الرصد والإدارة التكيّفية، وتوليد البدائل. وكانت حالة الذكاء الاصطناعي *مضافةً إلى* الاستقصاء لا بديلًا عنه، ولم تفصل جمع البيانات وتحليلها بين المجموعات إطلاقًا، مما يوحي بأن الذكاء الاصطناعي دعم الاستدلال بشأن المقايضات لا جمع الأدلة.([[ai-assisted-inquiry-ssi-climate]])
+أقوى الأدلة تجربة شبه تجريبية ثلاثية المجموعات تستخدم التغير المناخي كمسألة اجتماعية علمية. فتجاوز الطلاب الذين عملوا مع شريك ذكاء اصطناعي داخل مهمة [[inquiry-based-learning|استقصاء]] منظّمة أقرانَهم الذين اقتصروا على الاستقصاء (d = 0.69) والتدريس التقليدي (d = 1.88) على [[rubrics|سُلَّم تقدير]] لاتخاذ القرار، مع أكبر المكاسب على الخطوات التي دخلها الطلاب في أضعف حال — الرصد والإدارة التكيّفية، وتوليد البدائل. وكانت حالة الذكاء الاصطناعي *مضافةً إلى* الاستقصاء لا بديلًا عنه، ولم تفصل جمع البيانات وتحليلها بين المجموعات إطلاقًا، مما يوحي بأن الذكاء الاصطناعي دعم الاستدلال بشأن المقايضات لا جمع الأدلة.([[ai-assisted-inquiry-ssi-climate]])
 
 وعلى مستوى [[curriculum-design|المنهاج]]، يُدمج إطار AI-SEE الذكاء الاصطناعي في مناهج [[engineering-education|الهندسة]] على أربع دعائم (ذكاء-موجه، وأخضر-مُمَكَّن، ومسؤولية-قائدة، وممارسة-مُدمَجة) بدلًا من أن تكون وحدة استدامة مُلحَقة؛ وأفادت تجربة أولية بـ144 طالبًا بمكاسب في الوعي بالاستدامة وفي الانخراط السلوكي بـ[[student-engagement|مشاركة]] على المستويات الشخصية والأكاديمية والمهنية والاجتماعية. ويحذّر المؤلفون من أن هذه أدلة مقابلات من نقطة زمنية واحدة ومُبلَّغ عنها ذاتيًا من مؤسسة واحدة ومن برنامج نقل صيني واحد.([[liu-ai-sustainable-engineering-education-2026]])
 

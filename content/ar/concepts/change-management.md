@@ -9,7 +9,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [governance, educational-policy-ai, educational-development, administrator, ai-literacy, equity-in-ai-education, technology-acceptance-model, academic-integrity, student-support-and-success]
 connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustaining-ai-enabled-student-support-2026, institutional-change-framework-ai, leveraging-complex-systems-leading-for-transformative-change, crompton-governing-genai-higher-ed-delphi-2026, baroudi-anticipatory-governance-ai-higher-ed-2026, ai-adaptation-gap-higher-education-2026, ai-uk-higher-education-policy-2026, alrahmi-org-drivers-ai-adoption-he-2026, adarkwah-genai-unesco-policy-2026, ai-digital-transformation-liberal-arts-lingnan-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, computing-assessment-genai-workshop-report-2026, instruction-partners-ai-in-action-learning-tour-2026, dot-framework-survey-2026, flipped-classroom-ai-assessment-math-2026, packard-thinking-partner-framework-adult-learners-2026]
 ---
@@ -62,6 +66,7 @@ connected_articles: [ding-genai-colleague-teacher-depletion-2026, mata-sustainin
 
 وتُقدّم ورشة ممارسة تقويم مع 73 معلّمًا في الحوسبة المكمّل من جانب الصف. فتقريبًا كل تغيير وصفه المشاركون كان قد أجراه مدرّس فرد في مقرر واحد دون تنسيق مؤسسي — فزملاء داخل قسم واحد يتخذون مواقف متعاكسة بلا شيء يُوفّق بينها — والاستجابة المنهجية التي تُحاجّ بها التقرير لن تُفرغ في الوقت المناسب لمساعدة الطلاب المسجّلين الآن؛ كما لوحظ أن صعوبة المهمة تنقضي على دورة تقارب الفصل الدراسي، مما يجعل المعايرة على قدرة النموذج الحالية أصلًا مؤسسيًا قابلاً للفناء لا قرارًا لمرة واحدة ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
+**استخدام الأداة نفسه قد يبتكر أو يستنزف، والمؤسسة هي التي تقرّر أيًّا منهما.** مسح [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] 436 مدرّسًا للتصميم في الجامعات، ووجد مسارين دالّين من استخدام الذكاء الاصطناعي التوليدي. أحدهما يمر عبر [[self-efficacy|الكفاءة الذاتية]] في التعليم (β = 0.322) والرفاه (β = 0.300) إلى عمل أكثر ابتكارًا وانسحابًا أقل؛ والآخر يمر عبر قلق الذكاء الاصطناعي (β = 0.268) وإجهاد العمل (β = 0.262) إلى عكس ذلك. عزّز الدعم التنظيمي المُدرَك الروابط المُمكِنة (b = 0.153 وb = 0.176)، بينما عزّز خرق العقد النفسي الروابط المستنزفة (b = 0.171 وb = 0.194). فالدعم ليس إضافة معنوية: بل يساعد على تقرير المسار الذي تسلكه عملية النشر.
 ## الآثار المترتبة
 
 تحمل إدارة تغيير الذكاء الاصطناعي في التعليم آثارًا إيجابية وسلبية. فـ**إيجابًا**، تُعطي الأُطر المنظَّمة المؤسسات مسارًا من إدارة الأزمات التفاعلية إلى حوكمة استباقية تشاركية؛ ويسند [[crompton-governing-genai-higher-ed-delphi-2026|إجماع دلفي]] و[[baroudi-anticipatory-governance-ai-higher-ed-2026|الحوكمة الاستباقية]] معًا معاملة [[ai-literacy|الثقافة بالذكاء الاصطناعي]] و[[ethics|الأخلاقيات]] كقدرتين مؤسسيتين مقطوعتين لا قواعد معزولة. و**سلبيًا**، يُوسّع التبنّي المُجزَّأ الفجوات القائمة: فـ[[adarkwah-genai-unesco-policy-2026|تحليل إطار اليونسكو]] لـ30 جامعة رائدة يجد المبادئ الأخلاقية و[[governance]] الجوهرية مُعتنَقة على نطاق واسع، لكن [[inclusive-learning|الشمول]] والإنصاف و[[sustainability|الاستدامة]] (الوصول إلى الإنترنت، والمساواة بين الجنسين، والأثر البيئي) كثيرًا ما تُغفل — ولا تتنبأ تصنيفات الجاهزية الوطنية للذكاء الاصطناعي بسياسة مؤسسية قوية. ويُوسّع [[league-ethical-governance-student-data-2026|إطار LEAGUE]] هذا الشاغل إلى [[learning-analytics|تحليلات التعلّم]]، مُحاجًّا بأن الحوكمة ينبغي أن تنتقل إلى ما بعد الامتثال (FERPA/GDPR) نحو المشروعية والإنصاف و[[agency|الفاعلية]] والنفع والأخلاقيات بالتصميم، بمراجعة ممارسات بيانات الطلاب بشفافية وتربويًا.

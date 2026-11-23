@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: الخصوصية
 created: "2026-10-12T16:41:00-04:00"
-updated: "2026-11-08T13:13:47-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
 connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
@@ -72,14 +76,21 @@ connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextu
 
 - **واجهات المحادثة تُسرّب المحادثة نفسها.** في تدقيق لـ42 منصة محادثة بالذكاء الاصطناعي، وجد [[bekos-contextual-leakage-ai-chat-platforms-2026|بيكوس وآخرون (2026)]] أن 21 منها ترسل عناوين المحادثات إلى متتبعات أطراف ثالثة، وأن منصات التعليم السبع بلغ متوسط طلبات المتتبعات فيها نحو 367 لكل منصة، مع تسريب خمس منها للسياق.
 
+- **الكفاءة والسلطة تفشلان منفصلتين.** يسمّي إطار «الفرضية والنظرية» لحماية بيانات المتعلّمين فشلين متباينين: معلّمون يتعرّفون مشكلة خصوصية لكنهم يفتقرون إلى السلطة أو إلى بديل معتمد للتصرّف بشأنها، ومؤسسات توفّر خدمات محميّة بينما يُفصح المعلّمون عن معلومات غير ضرورية أو يقبلون استدلالات غير مدعومة ([[kaziya-learner-data-privacy-governance-2026|Kaziya وLungu (2026)]]). وهو يعامل كل قرار بجمع بيانات المتعلّم أو نقلها أو الاستدلال منها أو الإفصاح عنها كوحدة تحليل، مع قياس الكفاءة المُبرهنة والتمكين المؤسسي منفصلين.
+
 ## Child safety and K-12 protections
 
 تتطلب إعدادات [[k-12|K-12]] ضمانات خصوصية أقوى لأن المتعلّمين قاصرون. وهذا يمتد بالخصوصية إلى ما وراء حماية البيانات إلى [[pedagogical-safety|الأمان التربوي]]: فالأدوات التي يستخدمها الأطفال يجب أن تحمي بياناتهم فحسب بل تحميهم هم كذلك من الضرر. ويُظهر [[child-safety-genai|بحث أمان الأطفال]] أن مصنّفات الأمان ذات الأغراض العامة تفشل في الغالب في كشف استدعاءات الأطفال غير الآمنة المتصلة بالتعليم، محذّرًا من أن المدارس لا تستطيع الافتراض بأن ضمانات النماذج المعيارية تحمي المستخدمين الأصغر سنًا — فهم يحتاجون تقييمًا خاصًا بالأطفال، واختبارًا مبنيًا على الحوادث، و[[human-in-the-loop-ai|إشرافًا بشريًا]]. والتأطير يربط الخصوصية بـ[[equity-in-ai-education|الإنصاف]]: فمن يحميه الأمان والخصوصية الافتراضيان يعكس من يُعامل نظامه أمانه واستقلاله كأمر غير قابل للتفاوض.
+
+- **العتبات العمرية قانونية لا تعاقدية.** فمنتج تقول شروطه «13 عامًا أو أكثر» لا يفلت بذلك من COPPA: فالقاعدة تسري حين تكون الخدمة موجَّهة إلى الأطفال أو يكون لدى المزوّد معرفة فعلية بأن مستخدمًا دون الثالثة عشرة، ومن ثمّ تنتمي مراقبة العمر وتقليل البيانات إلى شروط النشر لا إلى كلام البائع. وفي ظلّ المادتين 8 و12 من اللائحة العامة لحماية البيانات، يكون الحدّ المقارن عمومًا 16 عامًا للموافقة الأبوية القابلة للتحقّق، مع إخطار مناسب للعمر ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
 
 ## Privacy in practice
 
 - **تعامل مع الخصوصية كمتطلب تصميم لا كاعتبار سياسي لاحق.** يُظهر مثال [[teachlm-post-training-llms-education|TeachLM]] أن الموافقة وإخفاء الهوية والتعامل الآمن مع البيانات يمكن بناؤها في خط البيانات نفسه — نموذجٌ لمصدر البيانات الأصيلة أخلاقيًا وهي التي تجعل [[intelligent-tutoring|مدرّسي الذكاء الاصطناعي]] فعّالين.
 - **صمّم لتقليل البيانات.** فضّل المناهج التي تجمع ما يتطلبه التكيّف فقط (الذكاء الاصطناعي على الحافة/الموحّد، والمعالجة على الجهاز) بدلًا من تكديس بيانات التفاعل افتراضيًا. ويُظهر [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|بواباتي وآخرون (2026)]] صيغةً موحدةً محسوسةً من ذلك لـ[[cognitive-diagnosis|التشخيص المعرفي]]: فتتعاون واجهات برمجة تطبيقات [[llm|LLM]] تجارية متعددة في التشخيص مع إضافة ضجيج الخصوصية التفاضلية المحلية ε إلى تنبؤ كل نموذج قبل التجميع، فلا يرى أي مزود بيانات الطلاب الخام — بنيةٌ تحافظ على الخصوصية تُبقي [[intelligent-tutoring|التدريس بالذكاء الاصطناعي]] عاملًا دون مركزنة مسارات المتعلّمين الحساسة. ويُتيح التعلّم الموحّد كذلك **تحليلاتٍ عابرة للمؤسسات دون مشاركة البيانات**: فيدرّب [[villegas-ch-federated-explainable-learning-analytics-2026|فيليغاس-تش وآخرون (2026)]] نموذجًا أكاديميًا متعدد المهام للخطر عبر المؤسسات عبر تجميع موحّد فتبقى بيانات المتعلّمين الخام محلية ولا تُشارَك إلا معاملات النموذج — بديلٌ تعاوني يحافظ على الخصوصية عن [[learning-analytics|تحليلات التعلم]] المركزية يُبقي سيادة البيانات مع التقاط الأنماط العابرة للمؤسسات.
+- **أزِل الهوية بدل إدارتها.** صُمِّمَ [[intelligent-tutoring|AI Tutor Pro]] بحيث لا يحتاج الطلاب إلى حساب ولا يتركون ملفًّا شخصيًا: فنموذج الخصوصية هنا قرار تصميم يلغي خطر الهوية بدل حوكمته بعد الواقعة ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). ومعظم نصائح الخصوصية يطلب من المؤسسات التدقيق والتقليل والموافقة؛ وهذا هو البديل البنيوي الأرخص، وهو يسري حيثما لا تحتاج الأداة إلى معرفة هوية المتعلّم.
+- **اختر الاستضافة قبل البيداغوجيا.** فقد أجرى ويلز (2026) تجربة مساعد بحث في علم الاجتماع على نسخة Copilot مرخّصة للجامعة بدل روبوت محادثة عام، كي تبقى أعمال الطلاب داخل بيئة Microsoft 365 المؤسسية، وجعل الوصول وراء وحدة تدريبية من خمس وحدات واختبار من خمسة بنود بنسبة نجاح 80% ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). فالتحكم في الخصوصية وبوابة الكفاءة صدرتا كقرار نشر واحد.
+
 - **أمّن موافقةً صريحة مستنيرة.** حيث تموّل بيانات المتعلّمين تطوير الذكاء الاصطناعي أو تحسينه، ينبغي أن تكون المؤسسات شفافةً بشأن الجمع والتخزين والاستخدام — وأن يكون للطلاب خيارات حقيقية لا منصات مفروضة.
 - **دقّق في من هو محمي.** لا ينبغي أن تتخلف ضمانات الخصوصية فتحمي بعض المتعلّمين فقط؛ فـ[[equity-in-ai-education|الإنصاف]] يطلب أن تسري العناية ذاتها عبر خطوط العمر واللغة والإعاقة والحالة الاجتماعية الاقتصادية.
 

@@ -1,7 +1,7 @@
 ---
 title: التربية المدنية والسياسية
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 audience: [instructors, curriculum designers, policymakers]
 confidence: low
 translation_of: concepts/civic-and-political-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [humanities-education, critical-thinking, ai-literacy, ethics, ai-misuse-learning-harm, critical-pedagogy, evaluative-judgment, global-south, governance, teacher-role]
 connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, critical-media-literacy-education-2026, fagerlund-competency-agency-purposes-ai-education-2026, zhai-science-literacy-generative-ai-coherence-2026, rudolph-ai-myths-critical-higher-ed, ai-lifelong-learning-policy, generative-ai-governance-education-scoping-review-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]
@@ -58,7 +62,7 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 
 والمتعلّم منتج أيضًا، يكتب إلى المسؤولين ويتداول الأدلة. والسؤال المدني ليس هل ساعد الذكاء الاصطناعي النص. بل هل يستطيع الطالب أن يقف خلف الادّعاء ويجيب عن الاعتراضات.
 
-ويصوغ [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] الحجة المدنية بمصطلحات النظرية السياسية لا بمصطلحات الاختبار. وحجّتهما أن مساهمة التعليم في الديمقراطية هي ممارسة التقييم النقدي، وأن الذكاء الاصطناعي التوليدي يزيل الممارسة لا المحتوى. فتسليم الاستقصاء والتحليل والتقييم والتركيب إلى نموذج يقصّر التمرين الذي يبني تلك القدرات في التعليم من الروضة إلى الثانية عشرة و[[higher-ed|التعليم العالي]] معًا. ويسمّيان ثلاث آليات: اختفاء [[desirable-difficulties|الاحتكاك المنتِج]]، و[[automation-bias|انحياز الأتمتة]]، وإطار كفاءة يعامل غاية العمل المدرسي كإنجاز مهمة. والرهانات التي يعلّقانها على ذلك هي الأكبر في قاعدة المعارف والأقلّ إسنادًا بالأدلة: فالحكومات الاستبدادية، كما يكتبان، تزدهر حين يعجز المواطنون عن تقييم ادّعاءات الحقيقة، وقد كبتت أنظمة محو الأمية لهذا الغرض. وعلاجهما زوج من محو الأميات والتزام تصميمي — محو أمية نقدي للذكاء الاصطناعي والإعلام، والعملية قبل المنتج. ويوفّر المقال الأساس المنطقي الذي تجمعه هذه الصفحة خلاف ذلك متفرّقًا، ولا يوفّر بيانات خاصة به.
+ويصوغ [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] الحجة المدنية بمصطلحات النظرية السياسية لا بمصطلحات الاختبار. وحجّتهما أن مساهمة التعليم في الديمقراطية هي ممارسة [[critical-thinking|التقييم النقدي]]، وأن الذكاء الاصطناعي التوليدي يزيل الممارسة لا المحتوى. فتسليم الاستقصاء والتحليل والتقييم والتركيب إلى نموذج يقصّر التمرين الذي يبني تلك القدرات في التعليم من الروضة إلى الثانية عشرة و[[higher-ed|التعليم العالي]] معًا. ويسمّيان ثلاث آليات: اختفاء [[desirable-difficulties|الاحتكاك المنتِج]]، و[[automation-bias|انحياز الأتمتة]]، وإطار كفاءة يعامل غاية العمل المدرسي كإنجاز مهمة. والرهانات التي يعلّقانها على ذلك هي الأكبر في قاعدة المعارف والأقلّ إسنادًا بالأدلة: فالحكومات الاستبدادية، كما يكتبان، تزدهر حين يعجز المواطنون عن تقييم ادّعاءات الحقيقة، وقد كبتت أنظمة محو الأمية لهذا الغرض. وعلاجهما زوج من محو الأميات والتزام تصميمي — محو أمية نقدي للذكاء الاصطناعي والإعلام، والعملية قبل المنتج. ويوفّر المقال الأساس المنطقي الذي تجمعه هذه الصفحة خلاف ذلك متفرّقًا، ولا يوفّر بيانات خاصة به.
 
 ويضيف [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] آلية يفوّتها تأطير النزاهة. فمن نظام الحدود الجنوب أفريقي بوساطة الذكاء الاصطناعي تستخرج الورقة خمسة مطالب لمحو أمية رقمي مدني: الشفافية الخوارزمية، وحقوق البيانات، والتعرّف على الانحياز، والطعن في الحقوق، و[[governance|الحكامة التشاركية]]. فمن لا يستطيع إدراك أن قرارًا ما كان خوارزميًا، أو إيجاد مسار الاستئناف، فقد قدرة مدنية لا مهارة تقنية.
 

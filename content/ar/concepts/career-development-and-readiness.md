@@ -7,8 +7,8 @@ pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-05T14:28:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
 connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
@@ -66,6 +70,8 @@ connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-em
 - **تحوّلات القوى العاملة.** ويفحص [[post-covid-ict-career-aspirations|بحث تطلّعات المسار المهني في تقنية المعلومات والاتصالات]] كيف تتحوّل نوايا الطلاب المهنية استجابةً للتغيير التقني.
 - **التأصيل النظري.** ويُحدّد [[kim-ai-anxiety-comprehensive-analysis|التحليل الشامل لقلق الذكاء الاصطناعي]] **الخوف من الاستبدال بالذكاء الاصطناعي** كدافع رئيس لقلق الذكاء الاصطناعي — وهو البُعد المهني الذي يواجهه هذا المفهوم مواجهةً مباشرة.
 
+- **نصائح المسار المهني بالنموذج اللغوي الكبير تحمل افتراضًا غربيًّا.** حين سُئلت ستة نماذج عمّا تتطلّبه وظائف الحوسبة المبتدئة في عشر دول أفريقية، عرفت النُّظُم المحلية والاحتياجات اللغوية والسياسات الوطنية 35.4% من الوقت فقط، فالنصائح التقنية تنتقل والسياق لا ينتقل ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn and Berhane, 2026]]).
+
 ## الجاهزية المهنية كهدف واقٍ وتنموي
 
 ثيمة متكرّرة أن التطوير المهني في عصر الذكاء الاصطناعي يلزم أن يكون **هدفًا تعليميًا متعمَّدًا**، لا فكرة لاحقة: بناء قابليات التكيّف المهني، والتقييمات الذاتية الجوهرية، و[[self-efficacy|الكفاءة الذاتية]]، ومهارات الذكاء الاصطناعي التي يُقدّرها أرباب العمل، مع معالجة القلق الذي يشعر به الطلاب تجاه إزاحة العمل بالذكاء الاصطناعي معالجةً مباشرة. وهذا يربط التطوير المهني بـ[[professional-training|التدريب المهني]]، و[[self-efficacy|الكفاءة الذاتية]]، و[[motivation|الدافعية]]، و[[anxiety-and-stress|القلق والإجهاد]]، ويجعل التعليم خطًّا لأنابيب المهارات ومصدرًا للجاهزية النفسية معًا.
@@ -79,3 +85,7 @@ connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-em
 - **"قلق الذكاء الاصطناعي نزعة عامة يمكن طمأنتها بعيدًا."** يؤكّد [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] بنمذجة المعادلات البنيوية أن قلق الذكاء الاصطناعي **يضرّ بالقرارات المهنية في معظمه عبر تقويض قابلية التكيّف المهني (63.35% من الأثر الكلي)**. فالآلية محدّدة: القلق يعمل بإزالة القدرة على التكيّف، فالطمأنة الموجّهة إلى المشاعر تغفل الوسيط الذي يحمل الأثر.
 - **"قابلية التكيّف المهني مهارة ناعمة ثانوية عن الكفاءة التقنية."** يُظهر [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] أن قابلية التكيّف المهني **تُقلّل قلق الذكاء الاصطناعي**، ما يجعلها تدخّلًا منبعيًا لا ناتجًا نهائيًا. فبناء قابلية التكيّف يعالج الآلية؛ ومعاملتها كرفاهية اختيارية يبقي الوسيط سليمًا.
 - **"القلق من الذكاء الاصطناعي موزَّع بالتساوي."** يجد [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] أن قلق الذكاء الاصطناعي والمواقف السلبية تجاهه يتنبّآن بقلق البحث عن عمل بعد التخرّج عبر **1,057 طالبًا**، بأنماط مختلفة **للنساء ولطلاب العلوم الاجتماعية**. فتدخّل موحّد يخصّص الدعم خطأً.
+
+إطارٌ على مستوى البرنامج يجعل الخطوات المؤسسية صريحة، وإن لم يُقيَّم كبرنامج. يقترح [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] ستَّ مراحل: الاستشعار، والتحقق مع أصحاب المصلحة، وتشخيص البرنامج، وإعادة تصميم المنهج، والتنفيذ والقدرة، ومراجعة النواتج. وكل مرحلة تحمل حقَّ قرارٍ مسمًّى وناتجًا مسؤولًا عنه، ويُحصر الذكاء الاصطناعي في أربع وظائف دعم محصورة: كشف الأنماط عبر معلومات سوق العمل، ورسم خريطة الكفاءات، وتوليد خيارات منهجية للتقييم البشري، ورصد مؤشرات التنفيذ. وقيمته أنّه يسمّي خطوات الحوكمة التي تتركها استراتيجية الجاهزية المهنية ضمنيةً في العادة.
+
+مسحٌ شمل 1,445 طالبًا جامعيًّا صينيًّا يتتبّع مسارًا من معتقدات النفع عبر استخدام الذكاء الاصطناعي إلى الاستكشاف المهني. فتنبّأ النفعُ المُدرَك للذكاء الاصطناعي التوليدي بالاستخدام عند β = 0.569، بينما تنبّأت الكفاءة الذاتية المهنية به عند β = 0.082 فقط. ثم ارتبط الاستخدام بسلوك الاستكشاف المهني عند β = 0.423، وبقيت الكفاءة الذاتية أقوى متنبِّئٍ معرفي بالاستكشاف نفسه (β = 0.285)، وفسّر النموذج 50.5% من التباين في الاستكشاف ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). والمسارات غير المباشرة إحصائية ومقطعية، لا طولية.

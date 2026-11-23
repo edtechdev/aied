@@ -9,8 +9,8 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-05T23:00:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy, knowledge-tracing, higher-ed, scaffolding, llm-training-and-fine-tuning, learning-by-teaching, ai-technologies]
 connected_articles: [assessing-quality-ai-generated-exams-field-2025, educational-llm-alignment, cstutorbench-slm-tutors, hazra-safetutors-pedagogical-safety-2026, llm-item-difficulty-prediction, eduguard-safe-rag-llm-tutor, llm-difficulty-calibration-programming-exams-2026, lopez-pernas-llm-appropriate-student-support-2026, yasar-llms-iterative-pedagogical-design-2026, razavi-powers-item-difficulty-llm-2026, auto-marking-short-answer-science-2026, reddig-maclellan-personalized-feedback-llm-2026, oppenheimer-llms-collaborative-learning-partners-2026, pecuchova-automated-grading-open-ended-genai-2026, cvengros-grading-handwritten-chemistry-ai-2026, falahat-chatgpt-grading-pharmacy-exams-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, student-llm-use-ai-question-difficulty-data-science-2026, edubehaviors-auditable-coding-educational-dialogues-2026, ai-personal-coach-review-benefits-risks-2026]
@@ -40,12 +44,12 @@ connected_articles: [assessing-quality-ai-generated-exams-field-2025, educationa
 
 ## مقدمة
 
-### النماذج اللغوية الكبيرة كمحرك لـAIED
+## النماذج اللغوية الكبيرة كمحرك لـAIED
 
 النماذج اللغوية الكبيرة هي المفهوم الأكثر استشهادًا في قاعدة المعارف (أكثر من 60 مقالًا) لأنها تدعم كل تطبيق تقريبًا في تعليم الذكاء الاصطناعي:
 
 - **التعليم:** تستخدم [[intelligent-tutoring|معلمو الذكاء الاصطناعي]] النماذج اللغوية الكبيرة في الحوار والتفسير وإرشاد [[problem-solving|حل المشكلات]]. ويُكيِّف [[llm-training-and-fine-tuning|التدريب والضبط الدقيق]] النماذج اللغوية العامة للاستخدام التعليمي.
-- **التقويم:** تستفيد [[automated-assessment|أنظمة التصحيح]] و[[automated-essay-scoring|تصحيح المقالات]] و[[llm-item-difficulty-prediction|توقع صعوبة الأسئلة]] من قدرات النماذج اللغوية الكبيرة. ويُظهر [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] أن GPT-4o يستطيع تقدير صعوبة أسئلة الرياضيات والقراءة للصفوف K-5 (N = 5170) معايَرةً حسب نموذج IRT لراش: إذ ارتبطت التقييمات دون أمثلة سابقة ارتباطًا متوسطًا إلى قوي بالصعوبات الحقيقية (r = 0.83 للرياضيات، وr = 0.81 للقراءة) لكنها تفاوتت حسب الصف، بينما وصلت الاستراتيجية القائمة على السمات التي يستخرج فيها النموذج اللغوي سمات إدراكية ولغوية لنماذج الشجر إلى ارتباطات تصل إلى r = 0.87 — وهو دليل على أن الاستخراج المهيكل للسمات يمكن أن يتفوق على حكم واحد شامل للنموذج اللغوي. وعبر أدبيات التصحيح المجمّعة، تستنتج مراجعة منهجية موجّهة بـPRISMA من [[meta-analysis-systematic-review|مراجعة منهجية]] لـ42 دراسة تجريبية (2023–2025) أن النماذج اللغوية الكبيرة تضاهي المقيّمين البشر في المهام القصيرة المهيكلة جيدًا ذات المقاييس التفصيلية لكنها لا تستطيع أن تحل محل الحكم البشري كليًا في العمل المعقّد أو المفتوح أو الذاتي، وأن إصدار النموذج محدد سائد لجودة التصحيح ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). وتتفاوت الموثوقية أيضًا بحدة حسب نوع السؤال: فقد وجد [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] أن ChatGPT-5 طابق أعضاء هيئة التدريس عن كثب في بنود اختبارات الصيدلة الموضوعية (CCC 0.935–1.000) لكنه كان غير موثوق في الأسئلة قصيرة الإجابة (CCC ≈0) والمقالية (0.341–0.854)، وأن تقديم مقياس لم يحسّن الاتفاق باستمرار.
+- **التقويم:** تستفيد [[automated-assessment|أنظمة التصحيح]] و[[automated-essay-scoring|تصحيح المقالات]] و[[llm-item-difficulty-prediction|توقع صعوبة الأسئلة]] من قدرات النماذج اللغوية الكبيرة. ويُظهر [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] أن GPT-4o يستطيع تقدير صعوبة أسئلة الرياضيات والقراءة للصفوف K-5 (N = 5170) معايَرةً حسب نموذج IRT لراش: إذ ارتبطت التقييمات دون أمثلة سابقة ارتباطًا متوسطًا إلى قوي بالصعوبات الحقيقية (r = 0.83 للرياضيات، وr = 0.81 للقراءة) لكنها تفاوتت حسب الصف، بينما وصلت الاستراتيجية القائمة على السمات التي يستخرج فيها النموذج اللغوي سمات إدراكية ولغوية لنماذج الشجر إلى ارتباطات تصل إلى r = 0.87 — وهو دليل على أن الاستخراج المهيكل للسمات يمكن أن يتفوق على حكم واحد شامل للنموذج اللغوي. وعبر أدبيات التصحيح المجمّعة، تستنتج مراجعة منهجية موجّهة بـPRISMA من [[meta-analysis-systematic-review|مراجعة منهجية]] لـ42 دراسة تجريبية (2023–2025) أن النماذج اللغوية الكبيرة تضاهي المقيّمين البشر في المهام القصيرة المهيكلة جيدًا ذات [[rubrics|المقاييس التفصيلية]] لكنها لا تستطيع أن تحل محل الحكم البشري كليًا في العمل المعقّد أو المفتوح أو الذاتي، وأن إصدار النموذج محدد سائد لجودة التصحيح ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). وتتفاوت الموثوقية أيضًا بحدة حسب نوع السؤال: فقد وجد [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] أن ChatGPT-5 طابق أعضاء هيئة التدريس عن كثب في بنود اختبارات الصيدلة الموضوعية (CCC 0.935–1.000) لكنه كان غير موثوق في الأسئلة قصيرة الإجابة (CCC ≈0) والمقالية (0.341–0.854)، وأن تقديم مقياس لم يحسّن الاتفاق باستمرار.
 
 - **تصنيفات الأسئلة المولّدة تتبع الشكل السطحي لا الصعوبة.** وجد تدقيق لـ378 سؤالًا أن تصنيفات سهل/متوسط/صعب التي أنتجها نموذج لغوي كبير ارتفعت بالتزامن مع مستوى بلوم الذي ولّده هو نفسه (ρ=0.90) وبطول صياغة السؤال (من 15.9 إلى 30.2 كلمة) لكنها ارتبطت بالصعوبة التجريبية للسؤال بارتباط لا يبلغ سوى ρ=0.06 على 7,888 استجابة طلابية — وهو دليل على أن البيانات الوصفية للصعوبة في وقت التوليد تصف التنسيق لا الطلب على [[prior-knowledge|المعرفة السابقة]] ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 
@@ -60,7 +64,7 @@ connected_articles: [assessing-quality-ai-generated-exams-field-2025, educationa
 - **التحقق منفصل عن التوليد — بأنماط إخفاق مترابطة.** يقصر [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]] استرجاع المعلم على مواد المقرر المعتمدة من المعلم ويوجّه الادعاءات عبر مدقق DeBERTa-v3-large-MNLI منفصل معماريًا، لكنه يحذّر من أن كلا النموذجين تتشارك تدريبًا واسعًا على الويب ويمكن أن تُخفق بطرق مترابطة، وأن المدقق لا يستطيع التحقق من أثر للشيفرة دون تنفيذها.
 - **تحوّل نموذج التقويم (2017–2024):** تتتبع مراجعة النطاق التي أجراها Morley et al. للتصحيح الآلي لأسئلة [[science-education|العلوم]] قصيرة الإجابة انتقال الحقل من ضبط النماذج الأصغر [[educational-nlp|من نوع BERT]] بدقة (السائد حتى 2021) نحو استدعاء النماذج اللغوية الأكبر (GPT-1/2/3.5/4) من نحو 2022 — وهو تبَنٍّ يتم عبر [[prompt-engineering|هندسة المطالبات]] لا بالضبط الدقيق — مع رفع النماذج المعزّزة بالمجال والاستدعاء الواعي بالمقياس وسلسلة التفكير للدقة. لكن نادرًا ما تمت معايرة نماذج GPT مقابل BERT على نصوص معيارية، وقليل من المصحّحات الآلية استطاعت تفسير درجاتها، ونادرًا ما فُحص [[bias-mitigation|التحيز]]، وهي تحذيرات تنطبق على تقويم النماذج اللغوية الكبيرة عمومًا ([[auto-marking-short-answer-science-2026]]).
 
-### الأبحاث الخاصة بالنماذج
+## الأبحاث الخاصة بالنماذج
 
 تغطي قاعدة المعارف النماذج اللغوية الكبيرة ذات الغرض العام (GPT-4، Claude) والتكييفات الخاصة بالتعليم على حد سواء. وتقارن [[cstutorbench-slm-tutors|معايير النماذج اللغوية الصغيرة]] أداء النماذج اللغوية الصغيرة في التعليم، ويرى [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]] أن النماذج اللغوية الصغيرة ملائمة بنيويًا للتعليم [[agentic-ai|الوكيلي]] عندما تُنشر كمخطّطات معزّزة بالأدوات — فالأدوات الحتمية تحمل الحمل الذي كان النموذج الصغير سيتولاه ضمنيًا — مع بقاء التحكّم البيداغوجي في سياسة التصعيد لا في النموذج. ويعالج بحث [[educational-llm-alignment|المواءمة التعليمية]] كيفية جعل النماذج اللغوية الكبيرة ملائمة بيداغوجيًا. ووجدت دراسة صفّية عبر ثلاث عائلات متقدمة — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] — أن ChatGPT أو Gemini أو Claude يمكن أن تعمل كشركاء نقد تعاونيين في الكتابة الجدلية: فعلى مدى فصل دراسي من المقالات التكرارية، تحسن الطلاب في جودة الحجة و[[prompt-engineering|هندسة المطالبات]] والاستجابة لـ[[ai-feedback-quality|تغذية الذكاء الاصطناعي الراجعة]] بنحو انحراف معياري كامل لكل منها (كلها p < .001) وانخرطوا بعمق (87.8% يدحضون ادعاءات النماذج اللغوية)، وهو ما يضع النماذج اللغوية العامة كشركاء [[collaborative-learning|تعلّم تعاوني]] قائمين لا كمولّدات إجابات فحسب.
 

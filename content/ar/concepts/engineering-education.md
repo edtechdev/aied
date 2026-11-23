@@ -11,8 +11,8 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
@@ -51,6 +55,7 @@ connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engin
 - **التقييم المتجسّد و[[multimodal|متعدد الوسائط]]:** يطوّر [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] إطارًا متعدد الوسائط يُدمج تتبّع الإيماءة برؤية الحاسوب مع تحليل [[llm|النماذج اللغوية الكبيرة]] للكلام لتقييم الفهم المفاهيمي لطلاب الهندسة للإحصاء، مُظهرين أن الإيماءة تضيف دليلًا تشخيصيًا يتجاوز الكلام وأن اقتران الإيماءة بالكلام اقترانًا وثيقًا يُشير إلى فهم متماسك.
 - **تحوّل القوة العاملة:** يراجع [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] الأدبيات الرمادية الأمريكية عن الذكاء الاصطناعي والقوة العاملة الهندسية/الحاسوبية، مُؤطّرين «مشكلة القطارين» (التغيير السريع مقابل الإلحاح السياسي) ومُوصين بكفاءات ذكاء اصطناعي دائمة و[[ethics|أخلاقيات]] و[[governance|حوكمة]] وإفادات قائمة على المهارات للأدوار الناشئة.
 - **تبنّي الطلاب واعتمادهم:** يمتدّ [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] بنموذج قبول التقنية ليشمل *الاستخدام النقدي* لتمثيل كيف يشكّل طلاب الهندسة/علوم الحاسوب نيات استخدام [[generative-ai|الذكاء الاصطناعي التوليدي]] وكيف تتنبأ تلك النية بالاعتماد عبر مهام الفهم والتقييم والبرمجة ومشاريع الهندسة — فنجدهم يجدون اعتمادًا معقولًا مناسبًا واستخدامًا مكثفًا للمهام المتعلقة بالفهم لكن استخدامًا محدودًا لكتابة التقييم الكامل. ويُدمج [[socio-cognitive-genai-adoption-engineering-2026|Asag و Al Mamun]] نموذج قبول التقنية مع [[technology-acceptance-model|UTAUT]] لتمثيل تبنّي طلاب الهندسة البنغلاديشيين، فسّرا 64% من تباين الاستخدام وأبرزا صلة الوظيفة وقابلية إظهار النتائج والمعايير الذاتية كمحرّكات رئيسة.
+- **العادة تزيح الشخص:** تنبأت العادة، لا النية، بما إذا كان طلاب الهندسة والمربّون في الفلبين سيطلبون الناس المساعدة مرات أقل بعد توفّر الذكاء الاصطناعي التوليدي، وكان الشاغل المتعلق بالنزاهة الأكاديمية هو البناء الوحيد الذي قلل تلك الإزاحة ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao وDomingo وBernardo، 2026]]).
 - **[[prompt-engineering|استراتيجية صياغة المطالبات]] تتنبأ بالأداء لا بحجم الاستخدام:** من بين 128 طالب هندسة في سنتهم الرابعة، كانت كفاءة استعلام الذكاء الاصطناعي وحل المسائل المدفوع بالذكاء الاصطناعي أقوى مُتغيّرات تنبؤ بالنجاح الأكاديمي، وبقيت دالة بعد ضبط المعدل التراكمي ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 - **استعارات الطلاب أنفسهم تتجاوز ما تُقدّمه الأدوات:** وجد [[ai-engineering-education-balancing-act|Kudina (2026)]] من بين 100 طالب هندسة أنهم قدّروا النماذج اللغوية الكبيرة أكثر ما يُقدّرونها لدعم الكتابة والتوضيح المفاهيمي والبرمجة، مع ذلك أطرّوها كـ«عرّافة» و«مدرّس خاص» — سلطة و[[personalized-learning|تخصيص]] لا يستطيع مولّد نصوص احتمالي أن يُوفّرهما، أي «تفاؤل قاسٍ» يعتمد على مهارات تحقق ما زال الطلاب يبنونها.
 - **أدمج الذكاء الاصطناعي في المجال لا بجانبه:** طوى [[curriculum-design|منهجٌ]] في الهندسة الحرارية قائم على المشاريع تعلّم الآلة في موضوعات حرارية قائمة عبر المستويات التمهيدية والتطبيقية والمتقدمة بدل إضافة مقررات في علوم الحاسوب، وأنتج طلاب البكالوريوس الذين لم يستوفوا سوى الحد الأدنى من متطلبات القبول مشاريع أضعف من أقرانهم في الدراسات العليا ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).

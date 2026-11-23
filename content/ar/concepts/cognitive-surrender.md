@@ -13,7 +13,7 @@ connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
@@ -35,16 +39,16 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## أسئلة للتفكير
 
-1. عندما يقبل الطالب جواب ذكاء اصطناعي يصادف أنه صحيح، فهل نجحت الحصة؟ وما الذي يجب أن يكون صحيحًا حتى يكون القبول نفسه هو الأمر الذي يهمّ؟
-2. هل المُسند المعايَر الذي يعرف حدوده مختلف في النوع عن طالب لا يستطيع تمييز ذلك فحسب؟ وكيف يميّز [[teacher-role|المعلّم]] بينهما في عمل واحد؟
-3. إذا ارتفعت الثقة بينما تنخفض الدقة — كما يحدث عند توفّر نصيحة الذكاء الاصطناعي — فماذا يفعل ذلك بكشف المتعلّم لأخطائه هو؟
-4. أين يكون التحقّق قابلاً للتعليم، وأين يكون مشكلة عبء عمل [[educational-policy-ai|سياسية]]؟ فأي أجزاء من [[curriculum-design|المنهج]] يجب أن تتغيّر حتى يصبح الفحص هو القاعدة لا الاستثناء؟
-5. هل ينبغي للمؤسسات أن تقيس الاستسلام أصلًا، أم إن قياسه يدعو إلى الرقابة نفسها التي تتصارع معها [[ai-use-disclosure|قواعد الإفصاح]]؟
-6. وكيف ستكون مهمّة تُكافئ طالبًا على تجاوز جواب ذكاء اصطناعي خاطئ بدل مكافأته على إنتاج جواب مصقول؟
+- عندما يقبل الطالب جواب ذكاء اصطناعي يصادف أنه صحيح، فهل نجحت الحصة؟ وما الذي يجب أن يكون صحيحًا حتى يكون القبول نفسه هو الأمر الذي يهمّ؟
+- هل المُسند المعايَر الذي يعرف حدوده مختلف في النوع عن طالب لا يستطيع تمييز ذلك فحسب؟ وكيف يميّز [[teacher-role|المعلّم]] بينهما في عمل واحد؟
+- إذا ارتفعت الثقة بينما تنخفض الدقة — كما يحدث عند توفّر نصيحة الذكاء الاصطناعي — فماذا يفعل ذلك بكشف المتعلّم لأخطائه هو؟
+- أين يكون التحقّق قابلاً للتعليم، وأين يكون مشكلة عبء عمل سياسية؟ فأي أجزاء من [[curriculum-design|المنهج]] يجب أن تتغيّر حتى يصبح الفحص هو القاعدة لا الاستثناء؟
+- هل ينبغي للمؤسسات أن تقيس الاستسلام أصلًا، أم إن قياسه يدعو إلى الرقابة نفسها التي تتصارع معها [[ai-use-disclosure|قواعد الإفصاح]]؟
+- وكيف ستكون مهمّة تُكافئ طالبًا على تجاوز جواب ذكاء اصطناعي خاطئ بدل مكافأته على إنتاج جواب مصقول؟
 
 ## مقدّمة
 
-الاستسلام هو المزاج الكامن وراء أكثر إخفاق شيوعًا في الدراسة المدعومة بالذكاء الاصطناعي: لا استخدام الأداة أكثر من اللازم، بل تصديق قولها. وصفحة [[cognitive-offloading|التفريغ المعرفي]] تحمل البناء الأقدم وأدلته، وصفحة [[ai-misuse-learning-harm|سوء استخدام الذكاء الاصطناعي]] تحمل جرد الأضرار. وهذه الصفحة موجودة لأن مجموعة متميّزة من الأعمال تسمّي الآن شيئًا وتقيسه، وهما الأمران اللذان لا تلتقطهما الصفحتان تمامًا.
+الاستسلام هو المزاج الكامن وراء أكثر إخفاق شيوعًا في الدراسة المدعومة بالذكاء الاصطناعي: لا استخدام الأداة أكثر من اللازم، بل تصديق قولها. وصفحة [[cognitive-offloading|التفريغ المعرفي]] تحمل البناء الأقدم وأدلته، وصفحة [[ai-misuse-learning-harm|سوء استخدام الذكاء الاصطناعي]] تحمل جرد الأضرار. فمجموعة متميّزة من الأعمال تسمّي الآن شيئًا وتقيسه، وهما الأمران اللذان لا تلتقطهما الصفحتان تمامًا.
 
 وثلاثة أشياء تميّز الاستسلام. فهو يتعلّق بـ*الحكم* لا بالجهد: فقد يصرف الطالب زمنًا معتبرًا في [[prompt-engineering|المطالبة]] وإعادة التنسيق وتحسين المخرَج دون أن يُجنّد مرةً واحدةً معياره هو لمدى جودة المخرَج. وهو غالبًا *غير مرئي للمتعلّم*: فالإشارات التي ترافق الجهد عادةً — التردّد وعدم اليقين والإحساس بعدم المعرفة بعد — تُقصر بفعل النصّ السلس. وهو *لا يُصلَح بثقة بالممارسة أو الحوافز وحدها*، وهنا تصبح الأدلة قاطعة.
 

@@ -13,8 +13,8 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -26,8 +26,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
-connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
+connected_articles: [adaptive-pretesting-retention, ai-literacy-assessment-misalignment, ai-literacy-self-assessment-questionnaire-primary-2025, ai-use-critical-thinking-medical-students-2026, ai-vocational-education-training-review, assessing-teachers-ai-literacy-measurement-tools-2026, capability-decision-model-teacher-readiness-2026, competent-generative-ai-use-measures-review-2026, engagement-intensity-learner-modeling, fouad-bentley-trust-utility-gap-physics-2026, genai-motivation-engagement-2026, genai-student-experiences-uk-he-survey-2026, hawkins-feedback-literacy-ai-essay-writing, high-school-genai-acceptance-tam-physics-2026, huang-genai-academic-information-resources-2026, jarvie-jiving-llms-programming-self-efficacy-2026, jelson-students-chatgpt-essay-writing-2026, jin-glat-genai-literacy-assessment, kares-xai-evaluation-alignment-2027, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, martinez-genai-accessibility-minnesota-educators-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, onodipe-enhance-not-replace-ai-classroom-2026, pause-ai-cognitive-offloading-self-reflection-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, predicting-attrition-competitive-programming, same-construct-same-conclusion-self-report-vs-performance-2026, student-genai-use-views-writing, student-llm-interaction-taxonomy-review-2026, tischkau-ai-simulated-patient-formats-2026, tracing-genai-literacy-interaction-patterns, voice-based-ai-feedback-interviews-higher-ed-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -54,7 +58,7 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 
 ## What self-report can and cannot establish
 
-يناسب التقرير الذاتي المواقف والمعتقدات والنوايا وتصوّرات أداة والحالات الوجدانية والثقة أو الصعوبة المقدَّرة ذاتيًا. وهو لا يناسب السلوك، ولا يستطيع قياس التعلّم على الإطلاق: فإيمان شخص بأنه تعلّم شيئًا هو نفسه تصوّر، وتتعامل قاعدة المعارف مع التعلّم المدرك بوصفه كميةً متمايزة عن [[learning-gains|مكاسب التعلّم]].
+يناسب التقرير الذاتي المواقف والمعتقدات والنوايا وتصوّرات أداة والحالات الوجدانية والثقة أو الصعوبة المقدَّرة ذاتيًا. وجدت مراجعة نطاقية لـ394 دراسة عن الذكاء الاصطناعي التوليدي في التعليم العالي أن سلالم الاستبانة هي أكثر طرائق التقويم إبلاغًا (269 دراسة، 68.3%)، متقدّمةً على الاختبارات والاستقصاءات القصيرة و[[rubrics|سلّم التقدير]] (185، 47.0%) وتحليل المصنّفات (167، 42.4%) ([[mapping-genai-higher-ed-scoping-review|Lin وآخرون (2026)]]). وهو لا يناسب السلوك، ولا يستطيع قياس التعلّم على الإطلاق: فإيمان شخص بأنه تعلّم شيئًا هو نفسه تصوّر، وتتعامل قاعدة المعارف مع التعلّم المدرك بوصفه كميةً متمايزة عن [[learning-gains|مكاسب التعلّم]].
 
 والنتيجة مجموعة من الادعاءات تبدو متشابهة في قسم النتائج لكنها تتفاوت في القوة:
 
@@ -79,7 +83,9 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 
 تستطيع الآثار السلوكية أن تفصل متعلمين لا تفصلهم سلمة تقرير ذاتي: فقد وجد [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] أن الحِمل المعرفي المُبلَّغ عنه ذاتيًا لم يختلف اختلافًا دالًّا عبر ملامح تفريغ تراوحت من 80% إلى 2% في تأليف المقال، بينما أبلغ أكبر المُفرِّغين مع ذلك عن أعلى طلب ذهني.
 
-[[ai-literacy-assessment-misalignment|دراسة بنت مقاييس متوازية للتقرير الذاتي والموضوعية لثقافة الذكاء الاصطناعي لدى المعلّمين]] وجدت **اتفاقًا ضعيفًا بين عوامل التقرير الذاتي والعوامل الموضوعية (r = 0.07 إلى r = 0.24)** في عيّنة من 288 معلّمًا، مع دعم تحليل العوامل التأكيدي لصدق البنية في المقيسين مع إظهاره **ارتباطًا منخفضًا بين عوامل التقرير الذاتي والعوامل الموضوعية**. فالأداتان كانتا موثوقتين؛ قاستا ببساطة شيئين مختلفين. وفي العيّنة الكاملة من 288 معلّمًا تراوحت الارتباطات بين العوامل الموضوعية والعوامل المبلَّغ عنها ذاتيًا من r = 0.07 إلى r = 0.24، ووجد [[latent-profile-analysis|تحليل الخصائص الكامنة]] 43 معلّمًا قيّموا أنفسهم عاليًا بينما سجّلوا أدنى على المقياس الموضوعي مقابل 59 أظهروا النمط المعاكس.
+[[ai-literacy-assessment-misalignment|دراسة بنت مقاييس متوازية للتقرير الذاتي والموضوعية لثقافة الذكاء الاصطناعي لدى المعلّمين]]
+يمكن لبندين أن يصنعا الفجوة. في [[martinez-genai-accessibility-minnesota-educators-2026|استطلاع لمعلّمي مينيسوتا]]، أيّد 83.1% العبارة بأن الذكاء الاصطناعي التوليدي يفيد إمكانية الوصول بينما أبلغ 31.9% استخدامه لذلك الغرض. وكان البند الثاني بند اختيار من متعدد، فعدم الاختيار يخلط بين "لا يستخدم" و"لم يرَ الخيار" — وهو أثر لصياغة البند لا نتيجة عن المعلّمين.
+وجدت **اتفاقًا ضعيفًا بين عوامل التقرير الذاتي والعوامل الموضوعية (r = 0.07 إلى r = 0.24)** في عيّنة من 288 معلّمًا، مع دعم تحليل العوامل التأكيدي لصدق البنية في المقيسين مع إظهاره **ارتباطًا منخفضًا بين عوامل التقرير الذاتي والعوامل الموضوعية**. فالأداتان كانتا موثوقتين؛ قاستا ببساطة شيئين مختلفين. وفي العيّنة الكاملة من 288 معلّمًا تراوحت الارتباطات بين العوامل الموضوعية والعوامل المبلَّغ عنها ذاتيًا من r = 0.07 إلى r = 0.24، ووجد [[latent-profile-analysis|تحليل الخصائص الكامنة]] 43 معلّمًا قيّموا أنفسهم عاليًا بينما سجّلوا أدنى على المقياس الموضوعي مقابل 59 أظهروا النمط المعاكس.
 
 يصل [[jin-glat-genai-literacy-assessment|GLAT]] إلى النتيجة نفسها من الاتجاه الآخر: فاختباره الأدائي من 20 مفردة تنبأ بالأداء في مهام التعلّم المدعومة بـ[[generative-ai|الذكاء الاصطناعي التوليدي]] في دراسة ذاتية الموضوع على 83 طالبًا، **بينما لم تفعل ثقافة ChatGPT المبلَّغ عنها ذاتيًا ذلك**. وتأطير المؤلفين صريح — الأدوات في هذا المجال تستند بغالبيتها الساحقة إلى استطلاعات التقرير الذاتي، "التي تقتنص الكفاءة المدركة لا الفعلية وهي عرضة للتحيز والمبالغة".
 
@@ -109,8 +115,13 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - [[puech-pedagogical-steering-llm-productive-failure-2025|العمل على التوجيه التربوي]] يلاحظ أن [[llm|نماذج اللغة]] الحالية مضبوطة بالتعليمات لتكون مساعدين مفيدين يضخّمون رضا المستخدم، بينما هدف المدرّس الخصوصي هو ضخّمة التعلّم — والهدفان قد يتعارضان، ما يجعل الرضا هدفًا مضللًا محتملًا لا هدفًا ضعيفًا فحسب.
 - [[preferred-scaffolding-ai-mathematical-modeling|دراسة سقالة]] تجادل أن الفائدة المدركة وسهولة الاستخدام والرضا الفوري يجب ألا تُعامل مؤشرات كافية لفاعلية [[scaffolding|السقالة]].
 - [[nie-personavlm-long-term-personalization-2026|العمل على نمذجة الطلاب المتوافقة مع الشخصية]] يلاحظ أن التحسين لرضا المستخدم ليس هو التحسين لنتائج التعلّم، وأن الاثنين قد يفترقان.
+- [[kares-xai-evaluation-alignment-2027|دراسة مُسْبقة التسجيل في الذكاء الاصطناعي القابل للتفسير (Kares وآخرون، 2027)]] قارنت ثلاث طرق شرح مع 166 مشاركًا، فوجدت الرضا (3.98، 3.92، 3.87) وتقييمات الثقة غير مختلفة إحصائيًا، بينما ميّز مقياس المهمة الطرقَ ورتّبها مقياس رياضي بالاتجاه المعاكس. فلم يعطِ التقييم إشارةً حيث أعطى مقياس القدرة واحدة.
 
 والنمط الجدير بالاحتفاظ: الرضا يستجيب للأشياء الخطأ عندما يكون التعلّم هو الهدف. فالنظام الذي يجيب بسرعة، ويوافق بسهولة، ويقلّل الجهد سيُقيَّم تقييمًا عاليًا، وهذه الخصائص نفسها هي التي تربطها قاعدة المعارف بـ[[desirable-difficulties|الكفاح المثمر]] المنقوص والأداء المتضخّم في العمل المعان بالذكاء الاصطناعي. والرضا المبلَّغ عنه والتعلّم المقيس ليسا عدوّين؛ هما ببساطة ليسا بديلين، ومعاملة الأول دليلًا على الثاني هو أكثر انزلاق شيوعًا توثّقه هذه الصفحة.
+
+أنظف حالة ذاتية الموضوع في الأدبيات قاست الكميتين معًا على الطلاب أنفسهم. فطبّق [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe وآخرون (2025)]] استبيانًا على طلاب الإحصاء التجاري والاقتصاد عبر فصلين دراسيين، مع دمج محفّز مدرّس خصوصي ومراجعة امتحان مولّدة بالذكاء الاصطناعي وامتحانات شفوية منظمة بالذكاء الاصطناعي وعصف ذهني للموضوعات بمعاونة الذكاء الاصطناعي. فازداد تكرار استخدام ChatGPT المُبلَّغ عنه ذاتيًا من 2.987 إلى 4.375 على مقياس 1-7 (p < .001)، والثقة من 3.663 إلى 4.000 (p = .004)، والمشاركة المدركة من 2.433 إلى 2.65 على مقياس 1-3 (p = .006) — قصة متسقة عن طلاب استخدموا الأداة أكثر وظنّوا أنها أفادتهم.
+
+وأظهرت درجات الامتحان قصة مختلفة: فلم يكن تكرار الاستخدام مرتبطًا بالأداء في النموذج البسيط (-5.577، SE 5.566)، وكان مرتبطًا سلبًا في النموذج الكامل (-13.918، SE 7.834، p = .076). ولا يعامل المؤلفون النتيجة الصفرية دليلًا على ضرر، إذ قد يستخدم الطلاب الذين يعانون الذكاء الاصطناعي أكثر؛ وما يُظهره البحث حركةٌ دالّة على كل مقياس تصوّري دون حركة مقابلة في الأداء المدرَّج.
 
 **مقاييس التصوّر تفوق مقاييس المهارة في أدبيات الاستقصاء بالذكاء الاصطناعي التوليدي.** في مراجعة من 66 دراسة، وجد [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya وآخرون (2026)]] أن تصوّرات المستخدمين أكثر مجالات النواتج إبلاغًا (32 دراسة، 48.5%)، تليها النواتج الوجدانية بـ25، بينما قاست 8 دراسات فقط (12.1%) مهارات الاستقصاء وكان لأربع منها شرط مقارنة. ولم يُقيّم المؤلفون أي يقين في الأدلة، فتعكس أعداد التصوّر ما جرى سؤاله لا ما جرى تحقيقه.
 
@@ -124,6 +135,10 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - **بديل أدائي حيث تكون الكفاءة هي البنية.** فإن مفردات GLAT العشرينية متعددة الخيارات موجودة بالضبط لأن التقرير الذاتي لا يستطيع حمل ادعاء كفاءة.
 
 **معظم الأدوات في هذا الفضاء تُبلغ عن الموثوقية ولا تكاد أي منها تُبلغ عن الصدق.** يستشهد [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach وآخرون (2026)]] بمراجعة Su وآخرين لـ36 دراسة في ثقافة الذكاء الاصطناعي، وجدت أن 63.8% من الأدوات تُبلغ عن دليل موثوقية وأقل من 20% تُبلغ عن دليل صدق. ووجدت المراجعة نفسها أداة واحدة فقط خاصة بالذكاء الاصطناعي التوليدي، هي GAIAS ذات 27 بندًا، بين 50 إطارًا لـ[[k-12|الصفوف من الروضة إلى الثاني عشر]]. فاتساق المقياس الداخلي لا يقول شيئًا عمّا إذا كان يقيس البنية المسمّاة في عنوانه.
+
+يُظهر استطلاع حديث لهيئة التدريس هذا الفشل في صورته المتطرّفة. فقد طبّق [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez وآخرون (2026)]] 300 مفردة على 315 عضوًا من هيئة التدريس الجامعي، وأبلغوا عن α = 0.997 للمقياس الكلي، ولم يجرُوا تحليل عوامل، ومع ذلك صنّف نموذج Naive Bayes 314 من 315 مستجيبًا تصنيفًا صحيحًا (دقة 0.9968) في نطاقات كفاءة منخفضة ومتوسطة وعالية. والأداة التي تسلك مفرداتها سلوك نسخ مطابقة تقريبًا يمكن التنبؤ بها شبه تمامًا من حفنة متغيّرات ديمغرافية ومؤسسية لأنها تحمل معلومات مستقلة قليلة: فقد وجد المؤلفون الانتماء المؤسسي أكبر مساهم عالمي في تحليل SHAP لديهم، ولم تُحتفظ بنقاط القطع المحدّدة للناقات الثلاثة.
+
+ويمكن لصياغة ما قبل وما بعد أن تصنع التغيّر الذي تُبلغه. في تجربة أولية بفوجين على مريض محاكى بالذكاء الاصطناعي، صاغ [[tischkau-ai-simulated-patient-formats-2026|Tischkau وآخرون (2026)]] مفردات ما قبل المواجهة بوصفها توقّعات ومفردات ما بعد المواجهة بوصفها خبرة، فجاءت درجات الفرق تقارن توقّعًا بذكرى. فأعطى مقياس BSLS-P الأولي لديهم ألفاءات فرعية من −0.39 إلى 0.87 عبر التطبيقات، وكانت مجموعات المفردات التي لم تتحرك معًا تحمل مع ذلك ادعاء سلامة نفسية.
 
 ## Sampling, response, and non-response
 
@@ -150,12 +165,14 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - **قيّم السلوك بمقياس تقديري بدل السؤال عنه.** [[adaptive-pretesting-retention|عمل الاستبقاء]] يعامل جهد الممارسة بوصفه مؤشرًا سلوكيًا مشتقًا من سجلات التفاعل، لا قياسًا لحالة [[motivation|دافعية]] داخلية صراحةً.
 - **التثليث.** [[genai-over-reliance-learning-2026|تصاميم الطرق المختلطة]] و[[mixed-methods-research|أبحاث الطرق المختلطة]] عمومًا تساوم حجم العيّنة مقابل القدرة على التحقق من مصدر بيانات مقابل آخر؛ و[[ai-vocational-education-training-review|مراجعة منهجية للتعليم المهني]] تعليمية بشأن عدم التوازن، فتلاحظ أنه من بين الدراسات الكمّية التي فحصتها، اعتمدت 2 على التقرير الذاتي حصرًا بينما استخدمت 5 مقاييس موضوعية فقط.
 - **قِس النتيجة التي تهتم بها.** فإذا كان الادعاء عن التعلّم، فيجب قياس [[learning-gains|مكاسب التعلّم]]، لا استنتاجها من الرضا.
+- **تحقّق من التقارير الذاتية مقابل السجل.** سأل [[pinto-student-ownership-ai-agents-code-2026|Pinto وآخرون (2026)]] 33 طالب هندسة برمجيات عمّا كتبوه وقارن الأجوبة بتاريخ الإيداعات الخاص بهم: فالمؤلفية المبلَّغ عنها لم تكن مرتبطة بما تعلنه الإيداعات، لذا لم يكن بإمكان رواية الطلاب عن إسهامهم أن تحل محلها.
 
 ## How to read a self-report claim
 
 - اسأل أي نوع من الادعاء هو. التصورات مسموحة؛ السلوك مُقارَب؛ التعلّم والكفاءة غير ممكنَين الوصول بهذه الطريقة.
 - تحقق ممن أجاب ومن لم يجب. معدل الاستجابة وإطار العيّنة والاختيار الذاتي هي ما يحدّد ما تصفه النسب المئوية — فدراسة طلاب مؤسسة واحدة تصف ذلك الإعداد، لا الطلاب عمومًا.
 - تحقق من الأداة. هل تحققت من هذه البنية وهذا المجتمع، وإذا قُورنت المجموعات، فهل اختُبر اللاتغيّر؟
+- تحقّق من التوزيع قبل الوثوق بالاختبار. تحرّك عاملا مقياس كفاءة ذاتية في البرمجة مُتحقَّق منه في اختبارات الإشارة (p = .0074 وp = .012) بينما بقي وسيط العامل 1 عند 5.87 من القياس القبلي إلى البعدي، وكانت جميع العوامل منحرفة سلبًا ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart وآخرون (2026)]]).
 - راقب تصاميم المصدر الواحد. فإذا جاء المتنبّئون والنتائج كلها من الاستبانة نفسها في نقطة زمنية واحدة، فالارتباطات متسقة مع تباين المنهج المشترك كما هي متسقة مع النظرية المقترحة.
 - عامل الرضا بوصفه إشارة تصميم لا نتيجة تعلّم. فالرضا العالي مع التعلّم غير المختبر هو التشكيل المعياري في تقويم أدوات الذكاء الاصطناعي، وهذا الكوربوس يُظهر تباين الاثنين.
 - فضّل الدراسات التي تُظهر عملها: معدلات الاستجابة المصرّح بها، والحدود المصرّح بها، ومصدر واحد على الأقل من الأدلة لا يأتي من السؤال.
@@ -163,5 +180,5 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 ## المفاهيم الخاطئة الشائعة
 
 - **«أدلة الاستبانة ضعيفة لكنها خالية من التحيّز تقريبًا.»** بنية الاستجابة تحدّد التقدير قبل التحيّز: فاستبانة تحصل على **112 استجابة بمعدل استجابة 31%**، أو **90 استجابة من 572 دعوة**. فمجموعة المستجيبين مجموعة فرعية اختيرت ذاتيًا، والرقم يصف تلك المجموعة.
-- **«الاستبانات أسلوب هامشي في هذا المجال.»** وجدت [[mapping-genai-higher-ed-scoping-review|مراجعة نطاق]] على **394 دراسة عن الذكاء الاصطناعي التوليدي في التعليم العالي** أن **سلالم الاستبانة أكثر أساليب التقويم إبلاغًا (269 دراسة، 68.3%)**، متقدّمةً على الاختبارات والاستقصاءات القصيرة. فدليل المجال المهيمن هو التقرير الذاتي.
+- **«الاستبانات أسلوب هامشي في هذا المجال.»** وجدت مراجعة نطاق على **394 دراسة عن الذكاء الاصطناعي التوليدي في التعليم العالي** أن **سلالم الاستبانة أكثر أساليب التقويم إبلاغًا (269 دراسة، 68.3%)**، متقدّمةً على الاختبارات والاستقصاءات القصيرة. فدليل المجال المهيمن هو التقرير الذاتي.
 - **«التقرير الذاتي والبنى المقيسة يتفقان.»** **لم يختلف الحِمل المعرفي المُبلَّغ عنه ذاتيًا اختلافًا دالًّا عبر ملامح تفريغ تراوحت من 80% إلى 2% في تأليف المقال**، بينما اختلف أكبر المُفرِّغين اختلافًا قابلًا للقياس. فالمقياس الذاتي كان مستويًا حيث تباين السلوك بمعامل أربعين.

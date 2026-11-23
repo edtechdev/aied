@@ -1,7 +1,7 @@
 ---
 title: الأنماط التربوية
 created: "2026-10-12T15:14:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -28,11 +28,16 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
 connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
+connected_resources: [learning-design-wiki]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -110,7 +115,7 @@ connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2
 
 ### نقد الذكاء الاصطناعي ثم التنقيح
 
-**الدليل: مُختبر — مع نتيجة صفرية مهمة.** اكتب مسوّدة، واطلب من الذكاء الاصطناعي تغذية راجعة مبنية على سُلَّم تقدير، وقوّم تلك التغذية نقديًا مقابل السُلَّم والمصادر، واكتب خطة تنقيح، ونقّح، وتفكّر.
+**الدليل: مُختبر — مع نتيجة صفرية مهمة.** اكتب مسوّدة، واطلب من الذكاء الاصطناعي تغذية راجعة مبنية على [[rubrics|سُلَّم تقدير]]، وقوّم تلك التغذية نقديًا مقابل السُلَّم والمصادر، واكتب خطة تنقيح، ونقّح، وتفكّر.
 
 وقد وجدت تجربة عامليّة 2 × 2 مضبوطة شملت 122 من طلاب اللغة الإنجليزية أن مكسب جودة الكتابة كان أعلى للمجموعة المدرَّبة على التصفية والتقويم كلاهما (M = 7.92)، مقابل 6.10 و4.56 و3.10 للحالات الأخرى، مع ارتفاع التنقيح العميق من 28% إلى 48% وبقاء الأفضلية على موضوع جديد وبعد إزالة دعم الذكاء الاصطناعي ([[rethinking-ai-writing-feedback-literacy|Dai, 2026]]). والنتيجة الصفرية هي الجزء المُعلِّم: في تجربة عشوائية بثلاث مجموعات شملت 70 طالبًا، كانت التغذية الراجعة المدفوعة بسلسلة الأفكار أعلى جودةً *بشكل دالّ* من تغذية الذكاء الاصطناعي بصياغة صفرية (p = .01) ومن تغذية المعلّم الراجعة (p = .008)، ومع ذلك **لم يتحول هذا الأفضل في الجودة إلى مكاسب أكبر في التنقيح** — إذ أنتجت تغذية المعلّم الراجعة تحسّنًا مماثلًا ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al., 2026]]).
 
@@ -151,6 +156,14 @@ connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2
 **الدليل: مُختبر، لكن في إعدادات مضبوطة أو غير مضبوطة لا في صفوف عادية.** يتشارك متعلمان ذكاءً اصطناعيًا واحدًا وتُسنَد إليهما أدوار صريحة بقواعد تناوب؛ ويُهيّأ الذكاء الاصطناعي لتأدية دور عند الحاجة، ويذهب مخرَجه إلى المجموعة كاملةً. وفي متغيّر البرمجة الثنائية يُحاكي الذكاء الاصطناعي المشترك انتباه الزوج المشترك وجهده، ويتوقّع انهيارًا قبل 30 ثانية، ويرفع السقالات بطبقات من عدم فعل شيء إلى تلميح موجِّه.
 
 وقد وجدت تجربة داخلية المواضيع شملت 26 زوجًا أن حالة التغذية الراجعة حققت نجاحًا أعلى في إزالة الأخطاء (t[49.96] = −13.51، p < .0001) وأنهت أسرع (t[44.70] = 4.39، p < .0001)، مع أنها تطلّبت عتاد [[sensor-and-gaze-analytics|تتبّع للعين]] وتقييس الحدقة مزدوجًا ولم تختبر الانتقال إلى عمل ثنائي غير مُشرَف ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). ووجدت شبه تجربة شملت 58 طالب دراسات عليا في 16 مجموعة أن تصميم الأدوار رفع درجات محتوى الخرائط الذهنية من 3.65 إلى 4.59 على سلّم SOLO من 1–5 (z = 3.771، p < 0.001) بينما بقيت أعداد العُقد والفروع ثابتة — لكن غياب المجموعة الضابطة يمنع استبعاد آثار التدريب ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+
+### مسوّقات متكرّرة مع تعاون مُقيَّم
+
+**الدليل: وصف ممارسة — تطبيق أولي واحد، بلا شرط للمقارنة، وبلا نتائج مقيسة.**
+
+يكتب الطلاب مقالًا في فرق صغيرة عبر مرحلتين موثقتين على الأقل، ويختارون من مجموعة عناوين ثابتة، وتُحتسب درجاتهم على أدلة التكرار والتعاون إضافةً إلى المنتج؛ ويُسمح بالذكاء الاصطناعي التوليدي داخل حدود معلنة بدلًا من حظره أو إلزامهم به.
+
+في وحدة تأهيل مهني لدرجة محلل أعمال في السنة الأولى بجامعة كوين ماري في لندن، كتب 23 طالبًا في 11 فريقًا يختارونه بأنفسهم مقالًا متكرّرًا من 1,500 كلمة بهذه الطريقة، مع حظر الذكاء الاصطناعي التوليدي من تقديم نص مولّد ومن إنتاج قوائم المراجع. ويصف المؤلفون إعادة تصميم [[pedagogy|تربوية]] على مستوى البرنامج ويبلّغون عن بصيرة ناشئة لا عن نتائج. وادعاؤهم أن معايير التصحيح هي ما جعلت العملية محمّلة بالأدلة، لا التعليمات، وأن بعض الطلاب الذين استخدموا الأداة عامِلوا مخرَجها ادعاءً يُحتجّ عليه — حججًا مضادة تُختبَر وهياكل تُقبل أو تُرفض ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 ### المناقشة بمساعدة الذكاء الاصطناعي
 

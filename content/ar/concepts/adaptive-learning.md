@@ -1,13 +1,13 @@
 ---
 title: التعلّم التكيفي
 created: "2026-10-12T19:40:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
-connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
+connected_articles: [adapt-adaptive-lesson-plan-transformer, adaptive-ai-scaffold-collaborative-problem-solving-2026, adaptive-pretesting-retention, adaptive-scaffolding-cognitive-engagement-its, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-student-engagement-online-learning-review-2025, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, ayasrah-adaptive-assessment-conceptual-mastery-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, bin-bakheet-adaptive-ai-stem-deep-learning-2026, burneo-can-edtech-close-learning-gaps-2026, chudziak-ai-math-tutoring-platform, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026, context-based-ai-secondary-chemistry-2026, deceptive-overgeneralization-adaptive-learning-2026, graph-its-adaptive-algorithms-2026, khalifeh-redefining-personalized-learning-ai-2026, making-ai-tutoring-productive-mastery-math-2026, mars-momentum-aware-adaptive-rating-assessment-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, riedmann-reinforcement-learning-education-review-2026, simon-student-engagement-adaptive-learning-2026, stanford-evidence-base-ai-k12-2026, turano-ai-tutoring-not-a-monolith-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, zerkouk-comprehensive-review-its-2025, zhao-deeptutor-agentic-personalized-tutoring-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -38,15 +42,16 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 ## مقدمة
 
-### الآليات الجوهرية
+## الآليات الجوهرية
 
 - **حلقة القياس-النمذجة-التكيف:** [[knowledge-tracing|تتبع المعرفة]] يقدّر ما يعرفه الطالب، و[[student-modeling|نمذجة الطالب]] تمثّل المتعلم، ويكيّف النظام الصعوبة والمحتوى و[[feedback|التغذية الراجعة]] وفقًا لذلك.
 - **التخصيص على نطاق واسع:** تستخدم أنظمة [[personalized-learning|التعلّم المخصص]] خوارزميات تكيفية لتقديم مسارات تعلّم فريدة لكل طالب. يُظهر [[deeptutor]] و[[ai-powered-personalized-learning-elementary-fractions-2026|مدرّسو الكسور الابتدائيون]] التخصيص التكيفي عمليًا.
 - **تسلسل المحتوى:** [[adaptive-pretesting-retention|الاختبار القبلي التكيفي]] و[[adapt-adaptive-lesson-plan-transformer|محولات خطط الدروس]] تحسّن ترتيب ونوع المحتوى المقدم.
 - **تكامل أنظمة التدريس الذكية:** [[intelligent-tutoring|أنظمة التدريس الذكية]] هي [[edtech-platform|منصة التعلّم]] التكيفي القانونية، جامعةً بين التشخيص والتكيف.
 - **التنميط والتشخيص المقودان بالتعلم الآلي الآلي:** تكافح النماذج التعليمية التقليدية لمعالجة بيانات سلوك التعلّم متعددة المصادر والمتجانسة، ما يحد من تنميط المتعلم وتطوير نماذج التشخيص. إطار بحث معماري معرفي عصبي مخصص مقود بـ[[machine-learning|تعلّم آلي]] آلي يدمج البيانات التعليمية [[multimodal|متعددة الوسائط]] بمناهج متباينة، مولّدًا نماذج تشخيص مُطابقة لأنماط المتعلمين المتباينة وداعمًا التحليل الديناميكي لعمليات التعلّم لا الثابت.
+- **التغطية قيدُ تصميم لا أثرٌ جانبي.** وجد [[ayasrah-adaptive-assessment-conceptual-mastery-2026|بروتوكولٌ بعشوائية العناقيد وبتصميم قائم على المحاكاة]] أن التسلسل التكيفي المقيد بالمتطلبات السابقة بلغ 6.3 من 8 مفاهيم مقابل 8.0 للتسلسل الثابت، لذا يضع البروتوكول تغطية المنهج أرضيةً صريحةً بدلًا من ترك الأمر لبوابة المتطلبات السابقة.
 
-### أدلة الفعالية
+## أدلة الفعالية
 
 توثّق قاعدة المعارف أدلة مختلطة: تحسّن الأنظمة التكيفية النتائج عندما يكون التكيف مؤسسًا على [[student-modeling|نماذج طلاب]] موثوقة، لكن التكيف سيئ المعايرة قد يضر بالتعلّم. يميّز [[personalized-learning|بحث التخصيص]] بين التكيف الفعال والتخصيص السطحي. تجد [[khalifeh-redefining-personalized-learning-ai-2026|المراجعات المنهجية]] أن "التكيفي" و"المخصص" و"الفردي" و"المُطابق" تُستخدم بشكل غير متسق — لذا تتوقف أحجام الأثر اعتمادًا كبيرًا على كيفية تجسيد التكيف، ويطالب المجال بإطار موحّد.
 
@@ -58,15 +63,15 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 مراجعة متوافقة مع PRISMA لـ44 دراسة تجد أدبيات التفاعل تميل إلى [[student-engagement|التفاعل السلوكي]] وهي أرقّ ما يكون على التفاعل الوكيلي، وتذكر أثر الحداثة — تراجع التفاعل مع الوقت في الدراسات الطولية لـALEKS وW-Pal بمجرد خفوت حداثة الأداة ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]).
 
-### عصر الذكاء الاصطناعي: التكيف المبني على النماذج اللغوية الكبيرة ومخاطره
+## عصر الذكاء الاصطناعي: التكيف المبني على النماذج اللغوية الكبيرة ومخاطره
 
 وسّع [[generative-ai|الذكاء الاصطناعي التوليدي]] ما يمكن للأنظمة التكيفية فعله — مدرّسون [[agentic-ai|وكيليون]] تحادثيون، ومحتوى مؤسس على [[rag|الاسترجاع المعزز]]، و[[intelligent-tutoring|تدريس]] مقود بـ[[llm|النماذج اللغوية الكبيرة]] يُكيّف لا صعوبة المسألة فحسب بل اللغة وأسلوب الشرح (مثل [[learnmate2-llm-adaptive-learning|LearnMate-2]]، و[[deeptutor]]، و[[chudziak-ai-math-tutoring-platform|التدريس التكيفي متعدد الوكلاء]]). لكن التكيف المبني على النماذج اللغوية الكبيرة يُدخل مخاطر جديدة: دون [[student-modeling|نماذج طلاب]] موثوقة، قد يستند التكيف إلى إشارات سطحية؛ ويمكن للإفراط في التكيف أن يقلص الكفاح المنتج الذي يحتاجه الطلاب (انظر [[desirable-difficulties|الصعوبات المرغوبة]]، و[[cognitive-offloading|التخفيف المعرفي]])؛ والميزان بين تخصيص التعليم والحفاظ على [[agency|وكالة]] المتعلم سؤال تصميم مفتوح (انظر [[agentic-ai|الذكاء الاصطناعي الوكيلي]]). ويعمل صيغة تكيف يطلبها المتعلم دون أي [[student-modeling|نموذج طالب]] على الإطلاق: في مقرر الدراسات العليا عند Sidorkin (2026) لم تُعدّل القراءات إلا عندما طلب الطلاب أسئلة متابعة لإعادة تأطيرها أو تعميقها أو تبسيطها أو توطينها، وأنتجت الطلبات الموجّهة للفهم بثباتٍ [[scaffolding|سقالة]] أكثف (إشارات تعريفية أكثر بمقدار 3.4 إلى 8.7 مرة من النص الأساسي)، ولهذا حوّل اشتراط ثلاثة أسئلة متابعة على الأقل لكل قراءة المادة إلى تفاعل. وهي تنقل عبء التكيف أيضًا إلى المتعلم: التكيف هنا لا يحدث إلا إذا عرف الطالب ما يطلبه.
 
-### العلاقة بالتعلّم المخصص والتدريس الذكي
+## العلاقة بالتعلّم المخصص والتدريس الذكي
 
 يُخلط التعلّم التكيفي في الغالب بـ[[personalized-learning|التعلّم المخصص]]، لكنهما يفترقان. **التعلّم التكيفي** هو *الآلية* — تعديل في الزمن الحقيقي للمحتوى والإيقاع والصعوبة بناءً على نموذج متعلم. **التعلّم المخصص** هو *الهدف الأوسع* لتلطيف كامل خبرة التعلّم على فرد، يكون التكيف في الزمن الحقيقي أحد تجسيداته. الأنظمة التكيفية هي *الوسائل* القانونية نحو التخصيص. [[intelligent-tutoring|التدريس الذكي]] هو *المنصة* الكلاسيكية: تجمع أنظمة التدريس الذكية بين التشخيص (نمذجة الطلاب، تتبع المعرفة) والتكيف، ويكيّف المدرّسون المبنون على النماذج اللغوية الكبيرة تحادثيًا. مع [[personalized-learning|التعلّم المخصص]]، يكون التعلّم التكيفي عضوًا في جانب التطبيق في عائلة [[student-modeling|نمذجة المتعلم والتعليم التكيفي]] — مستهلكًا تمثيلات المتعلم التي ينتجها [[student-modeling|نمذجة الطلاب]] و[[knowledge-tracing|تتبع المعرفة]] و[[cognitive-diagnosis|التشخيص المعرفي]].
 
-### أدلة بحثية
+## أدلة بحثية
 
 - **أدلة [[meta-analysis-systematic-review|تحليلية تجميعية]] على الأدوات التكيفية + الذكاء الاصطناعي.** يجمع [[burneo-can-edtech-close-learning-gaps-2026|التحليل التجميعي للبنك الدولي]] لـ14 [[rct|اختبارًا عشوائيًا مضبوطًا]] التعلّم المحسوب بمساعدة الحاسوب التكيفي والتدريس الذكي والذكاء الاصطناعي التوليدي على سلّم مشترك، مقدّرًا مكسب تعلّم متوسطًا قدره ~0.125 انحراف معياري دون فرق دالّ بين جيلي التقنية — دليل على أن آلية التكيف لا جيل الأداة المحدد هي ما يقود المكاسب.
 - **تقييم قابل للتفسير مع توجيه محدد بالميزانية الزمنية.** يحتفظ [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] بعدد قليل من المقاييس الصريحة للمتعلم — حساسية التقييم وجودة الاستجابة والزخم — ويوجّه الأسئلة في حدود ميزانية زمنية، مقاطعًا تقلّب تحديث التقييم إلى النصف تقريبًا مقابل Elo الثابت بينما يتخلف عن تتبّع المعرفة العصبي في التنبؤ (AUC 0.7532 مقابل 0.8658 لـGKT).
@@ -84,14 +89,9 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 - **أبقِ قرارات الإتقان قائمة على القواعد وحصر تعلّم الآلة في الرصد.** حكم برنامج STEM تكيفي لمدة ثمانية أسابيع لـ30 طالبًا في الصف السادس المسارات بإتقان قائم على القواعد بينما تتبع تعلّم الآلة الأداء، مابقيةً التكيف قابلًا للتدقيق، لكن دون اختبار قبلي وبفصل دراسي واحد لكل حالة، مكاسبه قالب تجريبي يُتحقق منه محليًا ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026|Bin Bakheet et al., 2026]]).
 - **كيّف السمة عنق الزجاجة لا المتوسط الضعيف.** صنّف نموذج الانتقال لحالات المعرفة [[critical-thinking|التفكير التحليلي]] كالأصعب اكتسابًا والأسهل فقدًا — أدنى احتمال انتقال تقدمي 0.31 وأعلى احتمال انتقال رجعي 0.22-0.23 — ما يجعل إعادة تدريب السمة المُشار إليها هدف تكيف أدقّ من الإتقان الشامل ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
 - **تكيف من تسلسلات العملية لا من الدرجات المجمّعة.** اشتق [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] قواعد السقالة بتنقيب *ترتيب* أدوار حوار 65 طالبًا في ثلاثيات، ناقلين التعلّم التكيفي من المقاييس السلوكية أو الأدائية المجمّعة نحو تسلسلات العملية الفردية؛ رفعت السقالة القصوى السلوك في المهمة لكنها رفعت النصية أيضًا، والتصميم غير مُختبر.
-
-## المفاهيم الخاطئة الشائعة
-
-- **«التكيفي يعني المخصص يعني الفردي».** تجد [[khalifeh-redefining-personalized-learning-ai-2026|المراجعات المنهجية]] أن هذه المصطلحات الأربعة تُستخدم **بشكل غير متسق عبر الأدبيات**، ما يعني أن أحجام الأثر المبلَّغ عنها تتوقف اعتمادًا كبيرًا على كيفية تجسيد التكيف لا على التكيف نفسه. والتحليل التجميعي الذي يجمع دراسات استخدمت الألفاظ على نحو مختلف يجمع علاجات مختلفة، والمتوسط لا يصف أيًّا منها.
-- **«الإتقان المُحرز في النظام هو إتقان مُتعلَّم».** في **تجربة ميدانية في مدرسة متوسطة على 6,000 طالب**، رفعت قاعدة إتقان «ثلاث صحيحة متتالية» المدعومة بالذكاء الاصطناعي **التحصيل المعرف على المنصة بنحو 28.7 نقطة مئوية دون تحسين** مقياس نقل. لقد حسنّت القاعدة معيار المنصة نفسه. وهذا أوضح برهان متاح على أن إشارة الإتقان نموذج للتعلّم لا التعلّم نفسه.
-- **«التكيف القائم على الصحة يعرف متى يتوقف».** وجد [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] أن الأنظمة التي تستنتج الإتقان من الصحة تُخاطر **بإنهاء التدريب مبكرًا** — يقرأ النظام سلسلة صحيحة كفهم ويسحب التدريب الذي كان المتعلم لا يزال يحتاجه. فالتكيف الذي يتوقف عند النجاح قد يحذف بالضبط المحاولات التي تُنتج الاحتفاظ.
-- **«عنق الزجاجة هو مدى جودة التكيف».** في **اختبار عشوائي مضبوط على مستوى منطقة تعليمية لمدة سنتين**، كان القيد الملزم هو **التبنّي**: تقليص التسجيل إلى خطوة واحدة رفع تبني الجلسة الأولى من نحو **45% إلى 83%** بتغييرات تصميمية وحدها، ونمت مكاسب نية المعالجة على نحو مماثل. فأذكى تكيف لا يخدم من لا يصل إليه أبدًا.
-- **«التفاعل يستمر بمجرد أن يُرسَّخ».** مراجعة متوافقة مع PRISMA لـ**44 دراسة** وجدت أدبيات التفاعل تميل إلى التفاعل السلوكي وهي أرقّ ما يكون على التفاعل الوكيلي، وتذكر **أثر الحداثة** — تراجع التفاعل مع الوقت في الدراسات الطولية لـALEX وأنظمة مشابهة. فالتفاعل المبكر ليس خاصية مستقرة في التصميم.
+- **التعرّف يسبق التنفيذ.** من بين 90 معلّمًا، حدّد 74 (82.2%) متعلمين يحتاجون تكيفًا، غير أن 50 فقط (55.6%) نفّذوا أيّ تدبير تكيفي؛ وكان العائق الملزم هو المعلومات عن المتعلمين لا التقنية، التي ذكرها 12% ([[hilali-adaptive-learning-challenges-2026|هلالي وشيرغي (2026)]]).
+- **التحكّم جزء من المعالجة.** مَن يتحكّم بالتكيّف يهمّ بقدر ما يهمّ ما يُكيَّف: عبر 83 دراسة، أنتج تحكّم النظام g = 1.05 (فاصل ثقة 95% [.65, 1.45]) وتحكّم المعلّم g = .86 [.46, 1.26] في المعرفة، بينما بلغ تحكّم المتعلّم g = .31 [−.44, 1.05] فقط ([[gao-adaptive-support-collaborative-learning-meta-2026|غاو وآخرون، 2026]]).
+- **الذاكرة ذات الحلقة المغلقة تقترن فيها التدريس بالممارسة.** يخزّن [[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] غابةَ آثارٍ ثلاثية المستويات لكيفية خطأ الطالب، مانحًا مواطن الضعف المكشوفة أثناء التدريس تشكيلَ السؤال التالي المولَّد، لما مقداره +10.8% في المقاييس المخصصة و+29.4% في الاستدلال الوكيلي العام.
 
 ## إرشادات عملية
 
@@ -107,3 +107,11 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 - أبلغ عن التعريف التشغيلي لـ«التكيفي» إلى جانب أي حجم أثر تقتبسه، لأن تعريفات الأدبيات متباعدة والأرقام المجمّعة ترث ذلك الغموض.
 - ميّز معيار الإتقان لديك عن نتائج التعلّم في التحقق الخاص بك. فإن كان مقياس التحقق هو الإشارة نفسها التي تقود التكيف، فهو ليس دليلًا مستقلًا.
+
+## المفاهيم الخاطئة الشائعة
+
+- **«التكيفي يعني المخصص يعني الفردي».** تجد [[khalifeh-redefining-personalized-learning-ai-2026|المراجعات المنهجية]] أن هذه المصطلحات الأربعة تُستخدم **بشكل غير متسق عبر الأدبيات**، ما يعني أن أحجام الأثر المبلَّغ عنها تتوقف اعتمادًا كبيرًا على كيفية تجسيد التكيف لا على التكيف نفسه. والتحليل التجميعي الذي يجمع دراسات استخدمت الألفاظ على نحو مختلف يجمع علاجات مختلفة، والمتوسط لا يصف أيًّا منها.
+- **«الإتقان المُحرز في النظام هو إتقان مُتعلَّم».** في **تجربة ميدانية في مدرسة متوسطة على 6,000 طالب**، رفعت قاعدة إتقان «ثلاث صحيحة متتالية» المدعومة بالذكاء الاصطناعي **التحصيل المعرف على المنصة بنحو 28.7 نقطة مئوية دون تحسين** مقياس نقل. لقد حسنّت القاعدة معيار المنصة نفسه. وهذا أوضح برهان متاح على أن إشارة الإتقان نموذج للتعلّم لا التعلّم نفسه.
+- **«التكيف القائم على الصحة يعرف متى يتوقف».** وجد [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] أن الأنظمة التي تستنتج الإتقان من الصحة تُخاطر **بإنهاء التدريب مبكرًا** — يقرأ النظام سلسلة صحيحة كفهم ويسحب التدريب الذي كان المتعلم لا يزال يحتاجه. فالتكيف الذي يتوقف عند النجاح قد يحذف بالضبط المحاولات التي تُنتج الاحتفاظ.
+- **«عنق الزجاجة هو مدى جودة التكيف».** في **اختبار عشوائي مضبوط على مستوى منطقة تعليمية لمدة سنتين**، كان القيد الملزم هو **التبنّي**: تقليص التسجيل إلى خطوة واحدة رفع تبني الجلسة الأولى من نحو **45% إلى 83%** بتغييرات تصميمية وحدها، ونمت مكاسب نية المعالجة على نحو مماثل. فأذكى تكيف لا يخدم من لا يصل إليه أبدًا.
+- **«التفاعل يستمر بمجرد أن يُرسَّخ».** مراجعة متوافقة مع PRISMA لـ**44 دراسة** وجدت أدبيات التفاعل تميل إلى التفاعل السلوكي وهي أرقّ ما يكون على التفاعل الوكيلي، وتذكر **أثر الحداثة** — تراجع التفاعل مع الوقت في الدراسات الطولية لـALEX وأنظمة مشابهة. فالتفاعل المبكر ليس خاصية مستقرة في التصميم.

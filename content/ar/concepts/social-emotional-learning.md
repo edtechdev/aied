@@ -10,8 +10,8 @@ connected_faqs: [ai-guidance-children-under-13, ai-anxiety-wellbeing]
 audience: [learners]
 level: [higher ed]
 confidence: high
-source_updated: "2026-11-07T13:45:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_of: concepts/social-emotional-learning
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, ai-literacy, affective-computing, well-being, self-regulated-learning, self-efficacy, motivation, agency, collaborative-learning, ethics, teacher-ai-competency, teacher-role, scaffolding, educational-development, student-experience, learning-gains, higher-ed]
 connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrative-review-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, teacher-education-ai-literacy-sdt-2026, student-dependency-on-ai-literacy-self-efficacy-2026, self-efficacy-tutoring-learning, shame-guilt-ai-regulation-computing-education, substitution-to-scaffolding-ai-harm-cycle-2026, ai-chatbot-collective-efficacy-collaborative-learning, kar-mathbuddy-affective-math-tutoring-2025, ai-campus-wellbeing-tools, policy-deficit-ai-sel-2026, human-ai-complementarity-social-emotional-learning-2026, parlant-emotional-micro-interventions-2026, shastry-gray-empathy-offloading-2026, sycophantic-ai-social-interaction-2026]
@@ -46,6 +50,7 @@ connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrativ
 
 ### كيف يظهر التعلّم الاجتماعي-العاطفي في البحث
 
+- **التعاطف هو الحافة الوجدانية للتعلّم الاجتماعي-العاطفي، وأصعبها تقييمًا.** يغطّي [[empathy]] أدلة تعليمه وقياسه: لعب الأدوار والواقع الافتراضي وحوار النماذج اللغوية الكبيرة كلها ترفع درجات التقرير الذاتي، وتبقى تقييمات المراقبين متماسكة، وتنعكس وسطاء الرؤية الحاسوبية عند الابتسام. فاقرأ تلك الأدلة قبل أن تتعامل مع مكسب تعاطفي بوصفه دليلًا على أن البرنامج نجح.
 - **دمج الكفاءات الاجتماعية-العاطفية في ثقافة الذكاء الاصطناعي:** تقترح [[sec-ai-literacy-narrative-review-2026|المراجعة السردية التي أعدّها Palmquist et al.]] إطارًا مدمجًا يجمع بين ثقافة الذكاء الاصطناعي والكفاءات الاجتماعية-العاطفية، زاعمةً أن الكفاءة التقنية وحدها غير كافية — فالمربّون والطلاب يحتاجون إلى الذكاء التقني والعاطفي معًا للتنقل في بيئات التعلّم بوساطة الذكاء الاصطناعي، مُعزّزين [[personalized-learning|التعلّم المُخصَّص]] والتعاون والاندماج [[student-engagement|الأخلاقي]].
 - **المعلمون والممارسة العلائقية:** يُؤكد بحث حول [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|أُطر ثقافة الذكاء الاصطناعي]] و[[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|الثقة بين المعلم والطالب]] أن التعلّم الاجتماعي-العاطفي يدعم الأبعاد العلائقية للتعلّم (علاقات المعلم-الطالب والطالب-الطالب)، التي يجب على الذكاء الاصطناعي أن يُكملها لا أن يستبدلها.
 - **ما يستطيع [[pedagogical-agent|الوكيل التربوي]] أن يحمله في التعلّم الاجتماعي-العاطفي وما لا يستطيع.** عبر 108 ملاحظات مُقيَّمة بشكل أعمى، كان وكيل تربوي مولَّد بالذكاء الاصطناعي أكثر ثباتًا من المربّين في الحفاظ على النبرة المحترمة والسقالة الإجرائية الروتينية، بينما تفوّق المربّون عليه في توجيه التأمل وتعزيز المعرفة الاجتماعية-العاطفية — داعمًا تقسيمًا للعمل لا استبدالًا ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).

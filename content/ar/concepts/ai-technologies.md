@@ -6,7 +6,7 @@ foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -14,11 +14,15 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T19:30:19-05:00"
 connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
 connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
 ---
@@ -46,6 +50,9 @@ connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-educat
 - **الذكاء الاصطناعي التوليدي.** وهو الفئة الأوسع من الأنظمة التي تُنتج نصوصًا وشيفرات وصورًا ومحتوى آخر — و[[generative-ai|الذكاء الاصطناعي التوليدي]] (المدفوع بالنماذج اللغوية الكبيرة في الأساس) هو التقنية التي تقف خلف موجة أبحاث [[ai-education|التعليم بالذكاء الاصطناعي]] الحالية. انظر أيضًا [[multimodal|النماذج متعدّدة الوسائط]] (نصّ وصورة وصوت) و[[simulation|المحاكاة]].
 - **الروبوتات والأنظمة [[embodied-learning|المُجسَّدة]].** تُضيف [[educational-robotics|الروبوتات في التعليم]] حضورًا مُجسَّمًا و[[community-of-inquiry|اجتماعيًا]] في الغالب — أطقمًا قابلة للبرمجة لـ[[computational-thinking|التفكير الحسابي]] وروبوتات إنسانية/اجتماعية للتدريس و[[storytelling-in-education|السرد]] ولعب الأدوار. والروبوتات خيط تقني متميّز يتقاطع مع [[agentic-ai|الذكاء الاصطناعي الوكيلي]] وتصميم [[human-in-the-loop-ai|بمشاركة الإنسان]].
 - **الأنظمة القائمة على المعرفة.** تمثّل [[knowledge-graph|الرسوم البيانية المعرفية]] و[[educational-nlp|معالجة اللغة الطبيعية التعليمية]] معرفة المجال وتعالجها، مقترنةً بالنماذج اللغوية الكبيرة على نحو متزايد للتدريس المُؤصَّل والقابل للتفسير.
+
+تصنيف قائم على الوظائف يسافر أبعد في تطوير المعلّمين المهني من قائمة معماريات النماذج. نظّم [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic وAnsaf وMassey (2025)]] حلقة عمل ليوم واحد لتسعة مدرّسين في المدارس الثانوية حول ست عائلات من تطبيقات الذكاء الاصطناعي — التصنيف، والتعرّف، والذاكرة، واتخاذ القرار، والتحسين، والتنبؤ — مقترنةً كلًّا منها بتطبيق يستخدمه المدرّسون فعلًا، من تصفية الرسائل المزعجة إلى التسجيل الائتماني. وصل المدرّسون متباينين عمّا إذا كان الذكاء الاصطناعي تهديدًا، إذ قال 40% بذلك وبقي 40% غير مترجّحين، وأبلغ كل مشارك أنه تعلّم شيئًا جديدًا. والوحدة المنظمة هي ما يفعله النظام، وهو ما يستطيع المدرّس التعرف إليه في أداة صفّية دون معرفة كيف دُرِّب.
+
 
 ## التقنيات والطرائق
 

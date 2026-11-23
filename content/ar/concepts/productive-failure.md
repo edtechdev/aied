@@ -1,7 +1,7 @@
 ---
 title: الفشل المنتج
 created: "2026-10-12T16:20:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
 connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
@@ -58,6 +62,8 @@ connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-ste
 
 ### التعلّم من الأخطاء المفاهيمية
 قد تُعين المعالجة الخاطئة على الاحتفاظ والتغير المفاهيمي، خاصةً حين تُتاح للمتعلّمين فرص التأمل في فهمهم وإعادة تنظيمه (Kapur, 2008؛ Schwartz & Martin, 2004). وفي عصر الذكاء الاصطناعي، يُجرَّد ذلك في أنظمة يُشخّص فيها المتعلّمون أخطاءهم ويُصحّحونها بأنفسهم بدلًا من تلقّي تصحيحات مباشرة — كـ[[lukesova-clue-before-correction-2026|مهام الدليل قبل التصحيح]] حيث يُقدّم الذكاء الاصطناعي تلميحات موجَّهة ويستنتج المتعلّمون الحل الصحيح، مُقلّلًا الحمل المعرفي وداعمًا المراجعة المستقلة. وتُنتج التغذية الراجعة الإيضاحية مكاسب [[learning-gains|تعلّم]] أعلى إشارةً دالةً من التغذية الراجعة بالتحقق فحسب (Hattie & Timperley)، وتوقيت التغذية الراجعة مهمّ.
+
+**كانت الأخطاء هي المنهج في مهمة برمجة مضبوطة معاناة بالذكاء الاصطناعي.** أجرى [[shen-ai-skill-formation-2026|Shen and Tamkin (2026)]] تجربةً يتعلّم فيها المطوّرون مكتبة Python جديدة بإذن مساعِد GPT-4o أو بلا مساعدة، فصادفت المجموعة غير المعانة وسيطًا من ثلاثة أخطاء مقابل خطأ واحد تحت المساعدة (الربع الأول–الثالث: 2.0–5.0 مقابل 0.0–3.0). وكانت الأخطاء التي أزالها المساعِد هي أخطاء خاصة بالمكتبة تفرض فهمَ المزامنات، كمزامنة غير مُنتظَرة أو كائن مزامنة ممرَّر حيث كان متوقعًا دالة. ثم سجلت المجموعة غير المعانة درجةً أعلى بنسبة 17% في اختبار أُجري بلا ذكاء اصطناعي، وكان أكبر فجوة فيه في تصحيح الأخطاء وأصغرها في قراءة الشيفرة، ولم يُغلق منه شيءٌ إعادةُ توليد الشيفرة المولَّدة بدل لصقها. ويقرأ المؤلفان حلَّ الأخطاء المستقل آليةً مع قياس الارتباط لا الوساطة.
 
 ### الزلّات مقابل الأخطاء المفاهيمية
 تمييز نافع: **الزلّات** هي في العادة انزلاقات أو إغفالات (تنشأ غالبًا عن الإهمال أو الحمل الزائد) قد تحمل قيمة تشخيصية محدودة، في حين تعكس **الأخطاء المفاهيمية** سوء فهم حقيقيًا أو استدلالًا معيبًا وهي مادة تعلّم أكثر إنتاجية لأنها تكشف سوء فهم يمكن معالجته. وتحليل الخطأ — تحديد *سبب* كون الإجابة خاطئة — محوري في التعلّم من الأخطاء، وهو مهارة [[pedagogy|تربوية]] رئيسية (وهدف لتصميم [[ai-feedback-quality|تغذية الذكاء الاصطناعي الراجعة]]).

@@ -1,7 +1,7 @@
 ---
 title: المراقبة عن بعد
 created: "2026-10-12T21:05:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, academic-integrity, summative-assessment, assessment, automated-assessment, online-teaching-and-learning, ai-misuse-learning-harm, privacy, equity-in-ai-education, digital-divide, student-experience, trust, governance, legal-issues-and-risks, higher-ed]
 connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-online-exam-proctoring-decade-review-2026, academic-dishonesty-automated-proctoring-ai-2026, conijn-fear-big-brother-proctored-exams-2022, biology-degree-integrity-genai-cheating-2026, harerimana-remote-proctoring-nursing-scoping-2026, akcapinar-ai-cheating-risk-lms-prediction-2026]
@@ -34,7 +38,7 @@ connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-on
 
 - قبل أن تقرأ، عندما تتخيل «النزاهة الأكاديمية في الامتحانات عبر الإنترنت»، فما غريزتك الأولى بشأن كيفية الحفاظ عليها — وهل تلك الغريزة عن كشف الغشاشين أم عن بناء الثقة؟ تجادل هذه الصفحة بأن هاتين تعكسان فلسفتين مختلفتين جدًا.
 - تمتد المراقبة عن بعد من إنسان يراقب عبر كاميرا ويب إلى أنظمة ذكاء اصطناعي تحرّك العينين ووضعية الرأس وتعبيرات الوجه. فماذا تلاحظ نظام ذكاء اصطناعي *فعليًا* حين يُبلّغ عن «سلوك مشتبه به»، وكم أنت واثق من أن إبعاد النظر عن الشاشة يساوي الغش؟
-- تحذر الصفحة من أن المراقبة يمكن أن تكون معاكسة: فالمراقَدة ترفع [[anxiety-and-stress|قلق الاختبار]]، وقد يكون الطلاب المتوترون *أكثر* عرضة للغش. هل يمكنك استحضار وقت أثّرت فيه الضغوط أو المراقبة على أدائك؟ وهل تُضعف تلك التجربة الحجة المؤيدة للمراقبة؟
+- تحذر الصفحة من أن المراقبة يمكن أن تكون معاكسة: فالمراقَدة ترفع قلق الاختبار، وقد يكون الطلاب المتوترون *أكثر* عرضة للغش. هل يمكنك استحضار وقت أثّرت فيه الضغوط أو المراقبة على أدائك؟ وهل تُضعف تلك التجربة الحجة المؤيدة للمراقبة؟
 - تلتقط المراقبة الآلية حياة الطلاب المكانية ووجوههم وأصواتهم، في كثير من الأحيان بلا خيار حقيقي سوى الموافقة. فأين الخط بين الإشراف المعقول على الامتحان والمراقبة التي تفترض أن الطلاب مذنبون حتى يثبتوا أمانتهم — ومن ينبغي أن يرسمه؟
 - تُظهر الأبحاث أن المراقبة قد تُبلّغ عن سلوك حميد كمشتبه به، منتجةً اتهامات كاذبة، وأن دقة النموذج تتفاوت عبر الفئات السكانية والبيئات. فإذا كنت [[administrator]]، كيف تزن النزاهة التي تستعيدها مقابل الإنصاف والثقة التي يمكن أن تآكلها؟
 - تؤطر الصفحة المراقبة كأداة واحدة لا كحل — فبدائل مثل التقويم الشفوي و[[process-oriented-assessment|القائم على العملية]] موجودة. قبل القراءة، أي منهج ستدافع عنه للتقويم عالي الأهمية في سياق عن بعد، وما الدليل الذي يغير رأيك؟

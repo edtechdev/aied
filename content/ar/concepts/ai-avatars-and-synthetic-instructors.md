@@ -1,7 +1,7 @@
 ---
 title: الصور الرمزية بالذكاء الاصطناعي والمدرّسون الاصطناعيون
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,13 +21,17 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [simulating-students, pedagogical-agent, simulation, virtual-and-augmented-reality, trust, trust-calibration, human-ai-collaboration, ai-use-disclosure, academic-integrity, teacher-education, teacher-role, professional-training, medical-education, assessment-validity, automated-assessment, bias-mitigation, inclusive-learning, embodied-learning, video-education, generative-ai, llm, conversational-ai, intelligent-tutoring, self-efficacy]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, hauk-student-avatars-dialogue-teacher-education-2026, gender-differences-ai-literacy-deepfake, elevate-genai-virtual-tutors, sophie-clinical-communication-ai-assessment-2026, genai-simulate-patient-history-pbl-2026, ai-psychotherapy-training-avatars, aclime-pedagogical-agents-extended-reality-2026, remind-robot-mediated-roleplay-antibullying-2026, personalized-ai-generated-videos-preference-2026, theelen-classroom-simulations-four-layer-framework-2026, voice-based-ai-feedback-interviews-higher-ed-2026, trikonet-trivalence-co-creativity-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, wu-singing-syllabus-avatars-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
-> **الصور الرمزية بالذكاء الاصطناعي والمدرّسون الاصطناعيون** — أنظمة [[generative-ai|ذكاء اصطناعي]] تبدو بشرية وتشغل دورًا تعليميًا، سواء كمحاضِر مسجَّل أو مدرّس ناطق أو [[pedagogical-agent|وكيل تربوي]] أو مريض أو طالب محاكى أو شريك لعب أدوار أو ممتحن. ويُعرَّف هذا الصنف بوجه وصوت يحلّان محلّ شخص، لا بتقنية واحدة. ذلك السطح هو ما يجعل هذه الأنظمة جاذبة، وهو أيضًا حيث تتركّز مشكلاتها المميّزة: [[trust|الثقة]] تلتصق بإشارات الهوية، والواقعية لا تتبّع الفاعلية، وقد لا يعرف المتعلّمون أن إنسانًا يُحاكى.
+> **الصور الرمزية بالذكاء الاصطناعي والمدرّسون الاصطناعيون** — أنظمة [[generative-ai|ذكاء اصطناعي]] تبدو بشرية وتشغل [[teacher-role|دورًا تدريسيًا]]، سواء كمحاضِر مسجَّل أو مدرّس ناطق أو [[pedagogical-agent|وكيل تربوي]] أو مريض أو طالب محاكى أو شريك لعب أدوار أو ممتحن. ويُعرَّف هذا الصنف بوجه وصوت يحلّان محلّ شخص، لا بتقنية واحدة. ذلك السطح هو ما يجعل هذه الأنظمة جاذبة، وهو أيضًا حيث تتركّز مشكلاتها المميّزة: [[trust|الثقة]] تلتصق بإشارات الهوية، والواقعية لا تتبّع الفاعلية، وقد لا يعرف المتعلّمون أن إنسانًا يُحاكى.
 
 ## أسئلة للتأمّل
 
@@ -55,7 +59,7 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avata
 
 **شريك لعب أدوار.** يجعل [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] الأطفال يحرّكون صورة رمزية روبوتية بالدمى ليتدرّبوا على تدخّل المارة. ويسمّي ACLIME هذا نمط التفاعل الثاني: وكيل يحمل دورًا محدّدًا لحوار [[situated-learning|موقفي]].
 
-**محاوِر تقييم.** يحكم قاضي SOPHIE على النصوص مقابل معيار تواصل. ويقترح [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] وكيلًا صوتيًا يقابل الطلاب عن مقرّر بدل إدارة [[self-report-measures|استبيان مكتوب]].
+**محاوِر تقييم.** يحكم قاضي SOPHIE على النصوص مقابل [[rubrics|سلّم تقدير]] للتواصل. ويقترح [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] وكيلًا صوتيًا يقابل الطلاب عن مقرّر بدل إدارة [[self-report-measures|استبيان مكتوب]].
 
 ## ما تدعمه الأدلة، دورًا بدور
 
@@ -73,6 +77,8 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avata
 
 وفي التقييم، قاضي SOPHIE أوضح نتيجة والمحاوِر الصوتي أقلّها. فمقترح Tamme يُبلغ عن تجربة تقنية وبيانات لم تُحلَّل رسميًا بعد؛ وكل ادّعاء عمّا يستدعيه الصوت يبقى فرضية.([[voice-based-ai-feedback-interviews-higher-ed-2026]])
 
+التواصل الدراسي دور آخر، والدليل عليه سير عمل لا أثر. فـ[[wu-singing-syllabus-avatars-2026|Wu (2026)]] توثّق خطّة من سبع مراحل تحوّل منهج مدخل إلى علم الحاسوب للسنة الأولى إلى فيديو غنائي تؤدّيه صورة رمزية متزامنة الشفاه، بتأليف ChatGPT كلمات الأغنية، وتوليد Suno AI الموسيقى، وتركيب HeyGem الوجه في Colab. والجزء القابل للنقل هو مجموعة القيود: فالدقة لها الأولوية على القافية، وكل سطر سياسة محوَّل يُعيَّد إلى المنهج الرسمي، والمدرّس المتبنّي يمتصّ كلفة التحقّق. ولا تُبلغ Wu عن بيانات طلاب، فالانخراط والاسترجاع يبقيان فرضيتين، والمنهج الغنائي يكمل الوثيقة المكتوبة لا يحلّ محلها.
+
 ## الثقة تسافر عبر الوجه
 
 الوجه ليس وعاءً محايدًا [[pedagogy|للمحتوى التربوي]]. وفي تجربتين بلغ مجموعهما 396 مشاركًا، وجد [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis and Kyriakidou-Zacharoudiou (2026)]] أن إشارات هوية الصورة الرمزية شكّلت التقييم والتبنّي المنفَّذ معًا. وقد قُيّمت الصور الرمزية البيضاء، وصور الرجال الآسيويين في سياقات العلوم والتكنولوجيا والهندسة والرياضيات، كأكثر مصداقية وكفاءة. وواجهت صور النساء السود الأكبر سنًّا عقوبات متراكمة في كل مقياس. وتبنّى المشاركون الإرشاد أسهل من صور رمزية تطابق جماعتهم العرقية الداخلية أو نمطهم النمطي عن الخبرة.
@@ -81,7 +87,7 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avata
 
 والسلطة تصل أيضًا عبر الجسد. فمصمّمو ELEVATE يحذّرون من أن الجسد والصوت يضخّمان سلطة المدرّس. ويوصون بأن تُشير الصورة الرمزية إلى عدم اليقين وتدعو إلى التحقّق من الملاحظات أو الكتب.([[elevate-genai-virtual-tutors]]) ويضيف SOPHIE تعقيدًا: خلف الصورة الرمزية نفسها، فقد نموذج كان يُحكم عليه سابقًا بأنه أكثر شبيهًا بالبشر تلك الميزة، وكان أداء التواصل متطابقًا بين الواجهات الخلفية (0.437 مقابل 0.438). فالشبه البشري كان ملكًا للتفاعل — الصوت والكمون وتناوب الأدوار — لا للنموذج.([[sophie-clinical-communication-ai-assessment-2026]])
 
-والدليل المقابل هو أن الطلاب يمكن تعليمهم حجب الإطار البشري حتى حين توفّره المطالبة. فقد سأل [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] 654 طالب كتابة عمّا إذا كان الروبوت المحاور يبدو كمدرّس أو كمتعاون أو كشيء آخر، ولم يأخذ سوى نحو نصفهم (51.7%) أحد الخيارين التجسيديين. فقد سمّاه الطلاب أداة أو برنامجًا، أو قارنوه بروبوت أو حاسوب، أو ابتكروا [[metaphors-and-analogies|استعارات]] مثل آلة بيع للتغذية الراجعة تصرف نصًّا مقابل بيانات. ويعامل المؤلفون رفض الإطار البشري كنتيجة محو الأمية، ما يؤرّخ الأثر للتعليم لا للواجهة.
+والدليل المقابل هو أن الطلاب يمكن تعليمهم حجب الإطار البشري حتى حين توفّره المطالبة. فقد سأل [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] 654 طالب كتابة عمّا إذا كان [[conversational-ai|الروبوت المحادِث]] يبدو كمدرّس أو كمتعاون أو كشيء آخر، ولم يأخذ سوى نحو نصفهم (51.7%) أحد الخيارين التجسيديين. فقد سمّاه الطلاب أداة أو برنامجًا، أو قارنوه بروبوت أو حاسوب، أو ابتكروا [[metaphors-and-analogies|استعارات]] مثل آلة بيع للتغذية الراجعة تصرف نصًّا مقابل بيانات. ويعامل المؤلفون رفض الإطار البشري كنتيجة محو الأمية، ما يؤرّخ الأثر للتعليم لا للواجهة.
 
 ## الحضور والواقعية ووادي الغرابة
 
@@ -108,6 +114,8 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, face-value-how-avata
 والعيّنات الكبيرة تتعلّق بالمواقف والتفضيلات — 396 مشاركًا عن هوية الصورة الرمزية، و493 مستجيبًا عن تفضيل الفيديو — وكلتاهما سكان ملاءمة أو مقرّر واحد. ولا تُظهر أي دراسة في هذه المجموعة أن مدرّسًا اصطناعيًا يُنتج تعلّمًا أفضل من مدرّس بشري. والادّعاء المدافَع عنه أضيق: هذه الأنظمة تستطيع تقريب لقاء ممارسة، ويمكن تقييمها مقابل مُقيّمين بشريين باتفاق مقبول في مجال واحد، وتستطيع تغيير كيفية تقييم المتعلّمين لمصدر التدريس.
 
 وضيق ذلك يهمّ. صاغه مؤلفو Theelen مباشرةً: الطلاقة والإحساس بالحضور ليستا [[assessment-validity|دليل صلاحية]].([[theelen-classroom-simulations-four-layer-framework-2026]]) فأن تبدو كمدرّس يعني تجاوز أسهل عتبة في الغرفة.
+
+التبنّي سؤال مختلف عن الفاعلية: فنمذج [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] نيّة 653 متعلّمًا في تبنّي الصور الرمزية بالذكاء الاصطناعي، وكان الإفصاح المدرَك أقوى متنبّئ بالثقة (β = 0.542). وفسّر النموذج 38.9% من النيّة، مع تفوّق الميزة النسبية (β = 0.267) والنفعية (β = 0.247) على الموقف (β = 0.126).
 
 ## المفاهيم الخاطئة الشائعة
 

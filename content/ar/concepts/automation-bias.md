@@ -1,7 +1,7 @@
 ---
 title: انحياز الأتمتة
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -10,13 +10,17 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -72,6 +76,8 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-di
 
 وأحدّ فجوة عند نقطة الحكم. [[human-in-the-loop-ai-scoring-national-assessment-2026|دراسة تصحيح التقييم الوطني (2026)]] تعرض على المُقيِّمين مراجعة درجات آلية، ويسمّي مؤلفوها الآلية غير المختبَرة صراحةً: هل يتأثّر المُقيِّمون الذين تُعرض عليهم درجات الذكاء الاصطناعي قبل الحكم بها أم يؤجّلون إليها، ذلك غير مقيس، ويقترحون تجارب مُقيِّمين معمّاة مقابل غير معمّاة كخطوة تالية. فادّعاء الإنسان في الحلقة في ذلك التصميم افتراضٌ لا نتيجة — وهو النسخة الجيدة من التصميم.
 
+وتقدّم تجربة إشراف على السلامة الآن القياس في سياق مجاور. فمع 416 مقيّمًا و3,957 بندًا، أدّى عرض مرشّحات النموذج قبل جواب الإنسان إلى خفض دقة المقيّمين على البنود التي أخطأها النموذج من 36.7% إلى 20.6%، بينما ارتفعت الدقة بمقدار 7.3 نقاط على البنود التي أصابها ([[shi-human-ai-complementarity-safety-2026|شي وزملاؤه (2026)]]). فأصبح المقيّمون أدقّ إجمالًا وأقلّ قدرةً على التقاط الأخطاء التي خُصصوا لالتقاطها، وهو الانحياز يعمل على النحو الذي اشتبهه مؤلفو دراسة التقييم الوطني: فجواب الآلة يضع الإطار، ويعمل الإنسان على التكيّف داخله.
+
 ### لوحات التحليلات وادّعاء الإنسان في الحلقة
 
 [[in-the-loop-educational-ai-learning-sciences-2026|مراجعة علوم التعلّم للذكاء الاصطناعي التعليمي في الحلقة (2026)]] تمنح النمط صيغته العامة: لوحات تستنتج المشاركة من النقرات، و[[writing-education|تغذية راجعة كتابية]] آلية تفضّل السمات السطحية على الحجة، وإشارات إنذار مبكّر تُفسّر المسارات مسبقًا. وانحياز الأتمتة يضاعف كلًّا منها، وتعامل المراجعة [[trust|الثقة]] كنتيجة اجتماعية-تقنية تشكّلها الشفافية والكفاءة المدرَكة والحق المعتبر في التجاوز، لا كموقف ثابت.
@@ -93,6 +99,8 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-di
 ### حين يُسمّى الانحياز خطرًا لا يُقاس
 
 حصة كبيرة من قاعدة المعارف تسرد انحياز الأتمتة في نموذج تهديد دون اختباره، والتمييز يهمّ في مقدار الثقل الذي يستطيع المفهوم أن يحمله. [[ahmadfard-interactive-oer-review-2026|مراجعة الموارد التعليمية المفتوحة التفاعلية (2026)]] تُدرجه ضمن مخاطر متكررة تُنهك فاعلية المتعلّم والمدرّس، مسرودةً لا مقيسة. و[[alshahrani-health-sciences-ai-use-2026|مسح العلوم الصحية (2026)]] يقرأ اهتمامات 310 طالبًا [[ethics|أخلاقية]] كحجة لـ[[professional-training|تدريب مهني]] يغطّي انحياز الأتمتة صراحةً. و[[ai-literacy-legal-translation-2026|دراسة الترجمة القانونية (2026)]] تطلب تعليم التحرير اللاحق والتحقّق كمهارات مُقيَّمة، مسمّيةً ضغوط انحياز الأتمتة ووهم الجودة التي تجعل من السهل تفويت الترجمة الخاطئة. و[[morales-cevallos-ai-forensic-science-education-2026|مراجعة علوم الأدلة الجنائية (2026)]] تجد انحياز الأتمتة موثّقًا في دراساتها المشمولة وتقترح تمارين قائمة على حالات مبنية من إخفاقات مُبلَّغة. و[[rana-genai-design-thinking-2025|دراسة التفكير التصميمي (2025)]] تحوّله إلى متطلب تصميمي: [[scaffolding|سقالات]] تُبقي الحكم البشري في المركز، مضادةً للتفريغ وانحياز الأتمتة معًا.
+
+انحياز مختلف يقع في المخرَج لا في المستخدم. ففي إسمرالداس بالإكوادور، وصف 90 فاعلًا تربويًا ومجتمعيًا أدوات الصور وهي تغيّر لون بشرة المشاركين الإكوادوريين الأفارقة وملمس شعرهم وملامح وجوههم، قال أحدهم إنها «شكل من أشكال العنصرية، ولو كان رقميًا» — ضرر تمثيلي لا تسجّله أي مقياس دقة ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## حيث تكون الأدلة رقيقة أو مختلطة أو معكوسة
 

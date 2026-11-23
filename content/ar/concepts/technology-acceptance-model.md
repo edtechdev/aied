@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
 ---
@@ -64,6 +68,8 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-ac
 ### انتشار الابتكار (DOI)
 يفسّر نظرية DOI لروجرز التبنّي كعملية اجتماعية تنتشر فيها الابتكارات بين الجماعات مع الزمن، مشدّدةً على سمات الابتكار (الميزة النسبية، والتوافق، والتعقيد، وقابلية التجربة، وقابلية الملاحظة) وفئات المتبنّين. وتظهر في تحليلات قاعدة المعارف [[governance|المؤسسية]] على المستوى، فـ[[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] يُجمعون إطار التقنية والمنظمة والبيئة (TOE) مع DOI لنمذجة تبني الذكاء الاصطناعي التنظيمي في الجامعات السعودية.
 
+وعلى مستوى الطلاب، وجد [[gocyla-genai-adoption-diffusion-2026|Gocyła and Strzelecki (2026)]] أن الميزة النسبية والتوافق والبساطة وقابلية الملاحظة تنبّأت بنية استخدام الذكاء الاصطناعي التوليدي، مفسّرةً 48.7% من التباين، بينما لم تفعل قابلية التجربة (f² = 0.001): فالوصول المجاني قد يجعل التجربة توقّعًا أساسيًا لا عاملَ تمييز.
+
 ### التقنية والمنظمة والبيئة (TOE)
 يؤطّر TOE التبنّي كمتشكّل بالسياقات التقنية والتنظيمية والبيئية — وهو مكمّل لـTAM/UTAUT على المستوى الفردي لدراسة التبنّي المؤسسي (انظر [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
@@ -89,6 +95,8 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-ac
 
 وفي دراسة مقابلات بموجتين مع 22 عضو هيئة تدريس، جعل تعلّم المزيد عن الذكاء الاصطناعي بعضهم أكثر حذرًا لا أكثر قبولًا، عاكسًا الاتجاه المفترض في النموذج من الخبرة إلى سهولة الاستخدام ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
+حتى الفوز النظيف بالواجهة لا يحرّك النية بالضرورة: حين بحث بالغون تتراوح أعمارهم بين 18 و25 عامًا عن معلومات برنامج جامعي عبر روبوت محادثة أو موقع البرنامج. فقد فضّل كل مقياس إدراكي روبوت المحادثة بينما لم تختلف النية السلوكية لاستخدامه مجددًا، وعدّل الاستعداد التقني حجم الأفضلية، فكان الأقل ارتياحًا هم الأقل كسبًا ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
+
 ## الحدود والامتدادات
 
 يفرط التركيز المعرفي لـTAM أيضًا في الاقتناص للأبعاد العاطفية والعلائقية لاستخدام الذكاء الاصطناعي. فقد وجدت [[akbaba-nursing-ai-experiences-tam-2026|دراسة نوعية لطلاب التمريض وأعضاء هيئة التدريس]] أن المشاركين — طلابًا في معظمهم — وصفوا الذكاء الاصطناعي إلى جانب بنى TAM الكلاسيكية الأربعة كمصدر دعم نفسي اجتماعي: راحة عاطفية في الإجهاد وفضاء سريّ للتأمّل. وهذا يوسّع المنفعة المدرَسة بما يتجاوز مكاسب الأداء إلى [[well-being|العافية]] في [[professional-training|التدريب المهني]] عالي الإجهاد، مما يُشير إلى أن نماذج التبنّي ينبغي أن تعتنَ بالعوامل الوجدانية والنفسية الاجتماعية، لا بالمنفعة الأداتية وحدها.
@@ -99,6 +107,8 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-ac
 
 تمتدّ إضافة حديثة في الاتجاه المعاكس، فتضع معتقدات الدافع [[discipline-specific-aied|الخاصة بالمادة]] أعلى من إدراكات TAM لا بجانبها. ويُبلغ [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] عن قيمة المنفعة المتنبئة بالمنفعة المدرَكة عند β = 0.43 وتوقّع النجاح المتنبئ بسهولة الاستخدام عند β = 0.39، بينما تخفّ مسارات TAM الأساسية وتبقى دالّة.
 
+**المنفعة قد تنتمي إلى مجموعة المهام لا إلى الأداة.** في أربع مجموعات بؤرية مع 26 طالبًا جامعيًا في العلوم والتكنولوجيا والهندسة والرياضيات، كانت لوحة النقاش نفسها تستحق وقتهم عندما طلب الإيعاز التطبيق أو أظهر كيف استدلّ الزملاء، وأصبحت عملًا رتيبًا شاقًا عندما طلب إعادة الصياغة ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner and Nugent, 2026]]). ويصوغ المؤلفون النتيجة كادعاء TAM: فالمنفعة المدرَكة تتعلّق بكيفية بناء الإيعاز لا بمجرّد وجود اللوحة.
+
 **ملاءمة المهمة–التقنية مسارًا موازيًا، والضرورة سؤالًا منفصلًا.** معظم الامتدادات أعلاه تضيف بنى *داخل* نموذج الاعتقاد. ومن الأطر الشقيقة التي نادرًا ما تحملها دراسات TAM إطار ملاءمة المهمة–التقنية، الذي يسأل عمّا إذا كانت قدرات الأداة تطابق مطالب المهمة المحددة. جمع [[chu-design-students-ai-agent-tam-ttf-2026|Chu and Liu (2026)]] الاثنين لدى 405 طلاب دراسات عليا في التصميم بجامعات صينية، فعملت الملاءمة مسارًا ثانيًا إلى الموقف لا محددًا للمنفعة.
 
 غذّت خصائص المهمة الملاءمة عند β = 0.322 وخصائص التقنية عند β = 0.266. ثم غذّت الملاءمة الموقف عند β = 0.224، إلى جانب المنفعة المدرَكة (0.376) وسهولة الاستخدام المدرَكة (0.185)، وغذّى الموقف النية عند β = 0.388. وحملت الكفاءة الذاتية أكبر المعاملات المنبعية، 0.458 على المنفعة و0.394 على سهولة الاستخدام. ورفع اللهو المدرَك سهولة الاستخدام (0.220) وترك المنفعة دون مساس (−0.033، p = 0.483) — انقسام أداتي/وجداني لا يرسمه النموذج الكلاسيكي.
@@ -108,6 +118,8 @@ connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-ac
 **سمات التصميم منبعًا للاعتقادات، وأهمية ليست ضرورة.** وضع [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin and Qing (2026)]] ست سمات نظام أمام اعتقادَي TAM لدى 301 طالب جامعي صيني، مستعيرًا إطار المثير–الكائن–الاستجابة. فحرّكت التخصيصية والتفاعلية المنفعة المدرَكة وحدها، بينما حرّكت الذكاء واكتمال المحتوى سهولة الاستخدام وحدها. وحرّكت الاستجابة الاثنين؛ ولم يحرّك التجسيم أيًّا منهما. وفسّر النموذج R² = 0.244 من النية (SRMR = 0.033)، مع تقدّم سهولة الاستخدام على المنفعة في النية (β = 0.340 مقابل 0.265). واتفقت أهمية الشبكة المتحقَّقة تبادليًا عشر مرات، مرتّبة سهولة الاستخدام عند 100% مقابل 84.70% للمنفعة.
 
 ثم فصل تحليل الشروط الضرورية التأثير عن الاشتراط. فسهولة الاستخدام، المتنبّئ الأعلى ترتيبًا، أخفقت إخفاقًا تامًا (d = 0، p = 0.592). وكانت المنفعة ضرورية لكن صغيرة (d = 0.027، p = 0.011). ويقرأ المؤلفون الانقسام كتحفّظ على معاملة معامل مسار كعتبة. فالمعامل القوي يقول إن وحدة من السهولة تشتري النية في المتوسط؛ والضرورة وحدها تقول إن كان يمكن غياب الاعتقاد الآخر.
+
+**سمات التصميم تمر عبر الثقة، مع DOI إلى جانب TAM.** مسح [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] 653 متعلّمًا عن [[ai-avatars-and-synthetic-instructors|الصور الرمزية والمدرّسين الاصطناعيين]] ووجد أن أقوى مسار في نموذجهما الجامع TAM–DOI جرى من الشفافية المدرَكة إلى [[trust|الثقة]] (β = 0.542). وحملت الميزة النسبية (β = 0.267) والمنفعة المدرَكة (β = 0.247) النية أكثر مما حمله الموقف (β = 0.126).
 
 ويرتبط رابط الخطر بالاستخدام أيضًا بالنظام: فعبر أنظمة TALIS 2024 الـ49 التي أدارت البنود، ارتبطت منفعة الذكاء الاصطناعي المدرَكة ارتباطًا موجبًا باستخدام الذكاء الاصطناعي في الـ49 جميعًا، بينما ارتبط الخطر المدرَك ارتباطًا سالبًا في 40 وموجبًا في تسع ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 

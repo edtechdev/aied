@@ -1,7 +1,7 @@
 ---
 title: الاستدامة
 created: "2026-10-12T16:30:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T19:30:19-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -19,12 +19,16 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -70,7 +74,9 @@ connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partn
 
 ## التعلّم المستدام بوصفه هدفًا تربويًا
 
-يُؤطّر خطّ ذو صلة الاستدامة لا بوصفها شأنًا بيئيًا أو مؤسسيًا فحسب بل بوصفها خاصية للتعلّم ذاته. يجادل [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] بأن التعلّم المدعوم بالذكاء الاصطناعي يُعرّض التفويض المعرفي والانفصال عن السياقات الأصيلة للخطر، مقترحين أطرًا (E3-HOT) لـ**التعلّم المستدام** — تعلّم يبقى وينتقل ويظل متصلًا بمشكلات حقيقية بدلًا من أن يُقصر بـ[[cognitive-offloading|الإفراط في الاعتماد]]. وهذا يربط الاستدامة بـ[[agency|الفاعلية]] و[[critical-thinking|التفكير النقدي]].
+يُؤطّر خطّ ذو صلة الاستدامة لا بوصفها شأنًا بيئيًا أو مؤسسيًا فحسب بل بوصفها خاصية للتعلّم ذاته. يجادل [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] بأن التعلّم المدعوم بالذكاء الاصطناعي يُعرّض التفويض المعرفي والانفصال عن السياقات الأصيلة للخطر، مقترحين أطرًا (E3-HOT) لـ**التعلّم المستدام** — تعلّم يبقى وينتقل ويظل متصلًا بمشكلات حقيقية بدلًا من أن يُقصر بـ[[cognitive-offloading|الإفراط في الاعتماد]]. ويجتمع الأطروحة الأوسع بأن هذا التأطير يخدم مصالح معينة تحت [[critiques-of-ai-in-education|نقد الذكاء الاصطناعي في التعليم]]. وهذا يربط الاستدامة بـ[[agency|الفاعلية]] و[[critical-thinking|التفكير النقدي]].
+
+- **رواية حراسة البوابة.** يعرّف [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] الاستدامة التربوية بأنها قيمة تعلّم دائمة تُنتج في ظلّ شروط اقتصادية واجتماعية وبيئية ومؤسسية يمكن صونها، ثم يجعل تلك القيمة بوابةً لا تُعَوَّض بدل ركيزة واحدة من خمس.
 
 ## الروابط بمفاهيم أخرى
 

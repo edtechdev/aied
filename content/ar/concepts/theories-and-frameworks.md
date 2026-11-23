@@ -8,7 +8,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T05:17:51-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T06:32:21-05:00"
-connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
+connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
@@ -71,7 +75,9 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## أطر التعليم والتكامل والتبنّي
 
 - **[[tpack|TPACK]]** — معرفة المعلم التي تمزج التقنية والبيداغوجيا والمحتوى؛ وهي الإطار الافتراضي لدراسات الذكاء الاصطناعي الموجهة للمعلمين.
+- **[[bloom-taxonomy|تصنيف بلوم]]** — المفردات المشتركة للطلب المعرفي للمهام، تُستخدم لترميز المفردات ولترتيبها على حد سواء؛ وقد صار في تعليم الذكاء الاصطناعي مشكلة قياس بقدر ما هو مشكلة تصميم.
 - **[[technology-acceptance-model|نماذج التبنّي]]** — النية كدالة للفائدة المُدركة وسهولة الاستخدام. مستخدمة استخدامًا واسعًا إلى حد أن اعتماد المجال على النية بدلًا من السلوك نقد قائم.
+- **نموذج تأكيد التوقّع (ECM)** — الرضا بوصفه تحقق التوقعات السابقة، مع المواصلة لا التبنّي الأول نتيجةً. في تجربة فصل دراسي واحد لمنهج طرق علم الاجتماع مع 24 طالبًا جامعيًا، صنّف 87% Copilot بأنه جيد أو ممتاز وأوصى به 91%، لكن 57% فقط نووا مواصلته ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). والفجوة هي محور النموذج: فالمستخدم الراضي قد يختار مع ذلك عدم العودة، لذا يحتاج الرضا والمواصلة قياسين منفصلين.
 - **[[icap-framework|ICAP]]** — يُرتّب الانخراط على أنه سلبي ونشط وبنّاء وتفاعلي؛ نافع للسؤال عما يتيحه فعلًا [[student-ai-interaction|تفاعل مع الذكاء الاصطناعي]].
 - **[[samr-model|SAMR]]** — من الاستبدال إلى إعادة التعريف. شائع كحكاية نضج، وضعيف كأداة قياس.
 - **[[universal-design-for-learning|التصميم الشامل للتعلّم]]**، و**[[inclusive-learning|التعلّم الشامل]]**، و**[[accessibility|إمكانية الوصول]]** — أطر تصميم لمن يُخدَم، وهي الأكثر استدعاءً في أعمال الإعاقة و[[equity-in-ai-education|الإنصاف]].

@@ -8,8 +8,8 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:32:21-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026]
@@ -40,7 +44,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## مقدمة
 
-### التفكير الحاسوبي في صفّ عصر الذكاء الاصطناعي
+## التفكير الحاسوبي في صفّ عصر الذكاء الاصطناعي
 
 تتقارب المقالات المترابطة في قاعدة المعارف على ادعاء مركزي: التفكير الحاسوبي (CT) هو الأساس المفاهيمي الذي يحتاجه الطلاب للانخراط النقدي مع الذكاء الاصطناعي، وهو أيضًا المهارة التي تعمّقها مباشرةً أكثر غيرها تعلّماتٌ مدعومة بالذكاء الاصطناعي مصممة جيدًا. وأدناه الأدلة مجموعة في أربعة مواضيع مؤسسة على المقالات المرتبطة.
 
@@ -54,7 +58,12 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 - **التفكير الحاسوبي عبر K-12 وتعليم المدرّسين وإعادة تصميم التقويم.** يمتد التفكير الحاسوبي عبر كامل الطيف من [[k-12]] إلى [[higher-ed]] وهو يعيد تشكيل التقويم. وفي طرف الطفولة المبكرة، يُوسّع AI-Play التفكير الحاسوبي وثقافة الذكاء الاصطناعي إلى متعلّمي ما قبل الروضة حتى الصف الثاني وإلى الأسر غير التقنية؛ وفي طرف الجامعة، وجدت [[genai-oop-programming-assessments-2026|دراسة تقويم البرمجة كائنية التوجه]] أن أنظمة GenAI في 2026 تتفوّق على الطالب المتوسط في امتحانات برمجة أصيلة ومع ذلك ما زالت تفشل في الواجهات والأصناف المجرّدة والوراثة — وهي فجوات مفهومية متكررة تحدّد بالضبط أين يبقى التفكير الحاسوبي صعب الأتمتة. وأظهر [[solving-vs-evaluating-genai-solutions|دراسة تقاطع A/B معشاة]] أن مهام التقويم والنقد تُنتج نتائج قابلة للمقارنة بالتوليد، مقترحةً أن التفكير الحاسوبي يمكن ممارسته بالحكم على حلول الذكاء الاصطناعي المعيبة، مع أن المكاسب تتطلب سقالةً مقصودة. والمؤسّس لكل هذا هو المدرّس: تربط دراسة Micro:bit تعليم التفكير الحاسوبي مباشرةً بـ[[teacher-education]]، ويربط [[hashmi-socratic-physics-chatbot-2025|بحث روبوت المحادثة السقراطي]] صياغة المسألة الدقيقة التي يقتضيها التفكير الحاسوبي بأداء المقرر القابل للقياس.
 - **تُحدّد أداة متحقّق منها أين يكون التفكير الحاسوبي أصعب.** ركّز اختبار تفكير حاسوبي من 34 بندًا بُني بتصميم متمركز حول الأدلة وتحقّق منه بنظرية الاستجابة للمفردة عبر 461 طالب برمجة ذكاء اصطناعي الصعوبةَ في تمثيل البيانات وتسلسل العوامل المنطقية وبنى الحلقات لا توزيعها بالتساوي على المنهج ([[zhang-ct-ai-training-test-2026|Zhang وZhang (2026)]]).
 
-### التفكير الحاسوبي والتحوّل من مستهلكي الذكاء الاصطناعي إلى منتجيه ومبتكريه ومصمميه
+- **اختيار القياس يغيّر الحكم.** وصلت مداخل التفكير الحاسوبي والتفكير النقدي إلى استنتاجات متباينة أو مختلطة في 13 من أصل 23 زوجًا على المنشأ الواحد، فغالبًا ما يختلف مسح التفكير الحاسوبي بالتقرير الذاتي عن القياس القائم على الأداء ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+- يُقاس التفكير الحاسوبي أيضًا بوصفه نزعة: في دراسة ألعاب مع تلاميذ الصف الخامس دامت ثلاثة أسابيع، مالت ميول التفكير الحاسوبي المُعدَّلة بالتقرير الذاتي إلى صفّ GenAI، 4.325 مقابل 4.037 (p = .046، η² الجزئي = .052، n = 78). ولم يفصل اختبار المعرفة الخوارزمية بينهما (80.7 مقابل 74.9)، فتتبع الميول والمعرفة منشأين مختلفين ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
+
+تُعقّد مصائف المهارات الفرعية الدرجةَ الواحدة للتفكير الحاسوبي التي يبلّغ عنها تصميم قبل–بعد. أجرى [[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang (2026)]] 28 طالبًا جامعيًا تايلانديًا خارج تخصص الحوسبة عبر ثمانية أسابيع من جلسات ثلاث ساعات تقرن بين دورة [[design-thinking|تفكير التصميم]] من خمس خطوات وبناء تطبيقات منخفضة الشيفرة، مع تقييم عمل المشاريع على [[rubrics|سلّم تقدير]] من ثلاث نقاط. ارتفع متوسط التفكير الحاسوبي من 1.13 في الجلسة الأولى إلى 1.80 ثم 2.49، وكان التفكير الخوارزمي أقوى الخيوط عند 2.08 مع مسار من 1.46 إلى 1.93 ثم 2.86. أما التفكير المنطقي فبلغ متوسطه 1.54 وتحرك بالكاد بين أول جلستين، من 1.04 إلى 1.29، قبل أن يبلغ 2.29 في الثالثة — تذكير بأن المكاسب في أحد المكوّنات لا تعني أن غيره تبعها.
+
+## التفكير الحاسوبي والتحوّل من مستهلكي الذكاء الاصطناعي إلى منتجيه ومبتكريه ومصمميه
 
 هدف مركزي للتفكير الحاسوبي في عصر الذكاء الاصطناعي هو نقل الطلاب والمدرّسين إلى ما هو أبعد من *الاستهلاك السلبي* لمخرجات الذكاء الاصطناعي نحو *الإبداع والبناء والتصميم* مع الذكاء الاصطناعي وله — وهو جدول أعمال يواءم التفكير الحاسوبي مع [[constructivist|التعلّم البنائي]] (التعلّم بالصنع). وتجعل مقالات قاعدة المعارف المترابطة هذا التحوّل المنتج/المبتكر/المصمّم صريحًا بشكل متزايد. يُعيد [[ai-writes-code-student-writes-model-2026|بحث تأليف النماذج]] تأطير التعلّم بالبناء مع GenAI كعملية "تأليف نماذج" قابلة للقياس — يُؤلّف الطلاب نماذج الذكاء الاصطناعي وينقّحونها ويطوّرونها بدلًا من استهلاك الشيفرة أو الإجابات المولّدة فحسب. ويُشغّل [[code-to-learn-genai-artifact-construction-2026|إطار CtL-GenAI]] ذلك كبنائية لعصر GenAI، معاملًا المصنوعات التي يبنيها الطلاب بالذكاء الاصطناعي كمحرّك لتطوير التفكير الحاسوبي. ويُظهر [[computational-thinking-ai-agent-creation|التفكير الحاسوبي عبر ابتكار وكلاء الذكاء الاصطناعي]] أن تصميم وكلاء الذكاء الاصطناعي لا استخدامهم فحسب يمارس التحليل والتجريد والاستدلال الخوارزمي مباشرةً.
 
@@ -64,11 +73,11 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 وإعادة استخدام نماذج الآخرين تنتمي إلى موقف المُنتِج: فتنفيذ نموذج ذكاء اصطناعي منشور — اختيارُه، وتثبيتُه، وتشغيلُه، والتحقّقُ منه — يمكن تدريسه كمهارة قابلة للتعلّم ومنظّمة، مع مسار بديل لكلّ إخفاق متوقّع؛ وقد نجح ثلاثة طلاب بكالوريوس في [[chemistry-education|الكيمياء]] بلا خلفية برمجية في إعادة إنتاج نموذج التنبؤ بإنزيم-ركيزة وتوسيعه في غضون أربعة أشهر ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### إرشادات عملية
+## إرشادات عملية
 
 بالنسبة للمعلّمين، الرسالة المتسقة هي أن التفكير الحاسوبي يتطور عبر انخراط *صريح مسلوك ملاحَظ* لا عبر استخدام سلبي للذكاء الاصطناعي. فزاوج الروبوتات برسم صريح لمفاهيم التفكير الحاسوبي على المنهج؛ واستخدم النماذج اللغوية الكبيرة لـ[[simulation]] والتحكم باللغة الطبيعية والتقويم القابل للتوسّع لنمو التفكير الحاسوبي مع تحفظ الحكم البشري لمنشآت كتفكير الأنظمة؛ وأعد تصميم التقويمات لتؤكد على تقويم مخرجات الذكاء الاصطناعي وتشخيصها أكثر من التوليد الخام. وأيًا كان الإطار — اللعب غير الموصول في الطفولة المبكرة، أو الروبوتات في [[stem-education|المرحلة الثانوية]]، أو المدرّسون الافتراضيون في [[higher-ed]] — بنِ النشاط بحيث يضطر الطلاب إلى الاستدلال حول التحليل والنمط والتجريد والخوارزمية لا إلى تلقّي حلول منتهية.
 
-### الصلات بالمفاهيم ذات الصلة
+## الصلات بالمفاهيم ذات الصلة
 
 التفكير الحاسوبي هو الأساس المعرفي المشترك الكامن تحت [[ai-literacy]] و[[critical-thinking]]، والجوهر المنهجي لـ[[cs-education]] وحوسبة [[k-12]]، والهدف المفاهيمي التي صُمّم [[educational-robotics]] و[[game-based-learning]] و[[project-based-learning]] على خدمته خير تصميم. وهو يُعمَّق بـ[[llm|النماذج اللغوية الكبيرة]] و[[generative-ai]] عندما تُستخدم كأدوات سقالة، وهو المهارة التي تهدف تصنيفات المفاهيم الخاطئة للطلاب والتقويمات الواعية بالتفكير الحاسوبي إلى قياسها. ويطوّره المدرّسون عبر [[teacher-education]] و[[professional-training]]، وهو ينتقل عبر المجالات بما فيها [[physics-education]] و[[stem-education|STEM]] عمومًا.
 

@@ -2,7 +2,7 @@
 title: نقد الذكاء الاصطناعي في التربية
 type: concept
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 research_method: [literature review]
 confidence: high
 foundations: [ai-education, philosophy-of-ai-in-education, theories-and-frameworks]
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026,
 
 ## البنية التحتية والتحوّل الدلالي وسوء التعرّف
 
-تنقل المجموعة الثالثة الانتباه من الأداة إلى البنية التحتية المحيطة بها. يعامل واتسون ومورغرنر وبريزوفيك الذكاء الاصطناعي التوليدي بوصفه بنية تحتية تتوسّط المعنى، ويسمّون آليته *التحوّل الدلالي (semantic transduction)*: إعادة صياغة الطلب التربوي — prompt، أو مأمورية، أو مسطرة تقييم، أو سؤال امتحان، أو نوع أدبي، أو سياسة — في صورة تبدو معقولة تواصليًا ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). ولأن التحوّل انتقائي، فقد يقصي أو يدمج. وتتكرر ثلاثة مواضع: فجوات الوصول والقدرة، وسوء التعرّف عبر قوالب لما يجب أن يبدو عليه الجواب الجيّد أو التلميذ الجيّد، والانحراف المعياري في ما يُفهم من التدريس. فالإقصاء كثيرًا ما يكون كمّاشة لا حظرًا — ترفع المؤسسات توقّعاتها بشأن الوتيرة والصقل والطلاقة الاصطلاحية بينما تشدّد أنظمة الأصالة في الوقت نفسه.
+تنقل المجموعة الثالثة الانتباه من الأداة إلى البنية التحتية المحيطة بها. يعامل واتسون ومورغرنر وبريزوفيك الذكاء الاصطناعي التوليدي بوصفه بنية تحتية تتوسّط المعنى، ويسمّون آليته *التحوّل الدلالي (semantic transduction)*: إعادة صياغة الطلب التربوي — prompt، أو مأمورية، أو [[rubrics|سلّم التقدير]]، أو سؤال امتحان، أو نوع أدبي، أو سياسة — في صورة تبدو معقولة تواصليًا ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). ولأن التحوّل انتقائي، فقد يقصي أو يدمج. وتتكرر ثلاثة مواضع: فجوات الوصول والقدرة، وسوء التعرّف عبر قوالب لما يجب أن يبدو عليه الجواب الجيّد أو التلميذ الجيّد، والانحراف المعياري في ما يُفهم من التدريس. فالإقصاء كثيرًا ما يكون كمّاشة لا حظرًا — ترفع المؤسسات توقّعاتها بشأن الوتيرة والصقل والطلاقة الاصطلاحية بينما تشدّد أنظمة الأصالة في الوقت نفسه.
 
 ## وضع الأجندة والابتكار المحاكى والتنبّؤ التجريبي
 

@@ -9,8 +9,8 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [learner-identity, business-education, cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment, formative-assessment, personalized-learning, llm, discipline-specific-aied, teacher-education, chemistry-education, biology-education]
 connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-students-genai-stem-2026, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, niri-steam-ai-literacy-review-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, chen-preservice-teachers-chatgpt-lpa-2026, zhang-ct-ai-training-test-2026, liu-tool-tutor-crutch-programming-2026, becker-chatgpt-typology-physics-2026, ai-powered-personalized-learning-elementary-fractions-2026, concept-catalyst-engineering-scaffolds, generative-ai-reduced-study-time-math, avraamidou-ai-colonization-science-education, ai-science-chemistry-education-systematic-review-2025, ai-information-extraction-undergraduate-thesis-2026, simulation-assisted-drone-learning-stem-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, ai-supported-instruction-stem-meta-analysis-2026, caee-digital-twins-stem-education-systematic-review-2026, structured-genai-training-physics-problem-solving-rct-2026, intelligent-tutoring-mathematics-education-review-2026]
+connected_resources: [teacher-dev]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -41,6 +46,8 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 ## مقدمة
 
 ### STEM كمجال دراسي رئيسي في AIED
+
+يفرز قسم التخصصات صفحات المواد في أربع مجموعات — [[humanities-education|العلوم الإنسانية والفنون]]، و[[social-sciences-education|العلوم الاجتماعية]]، وSTEM، و[[professions-education|المهن]] — وكان STEM أكبرها بهامش واسع، وهي نتيجة بذاتها عن أين يتراكم دليل الذكاء الاصطناعي في التعليم.
 
 - **الرياضيات:** يمتد [[math-education|بحث تعليم الرياضيات]] على [[generative-ai-reduced-study-time-math|أثر الذكاء الاصطناعي التوليدي على تعلم الرياضيات]]، و[[ai-powered-personalized-learning-elementary-fractions-2026|تدريس الكسور في الابتدائي]]، و[[student-math-competence-clustering|تجميع الكفاءة]].
 - **دليل أنظمة التدريس الذكية في الرياضيات محدود ومشروط.** وجدت مراجعة سردية مهيكلة لـ20 منشورًا (2020–أبريل 2026) أوضح ميزة مقيسة لـ[[feedback|التغذية الراجعة]] التشخيصية الآنية المضافة إلى النظام التكيفي نفسه، لكنها خلصت إلى أن التدريس الذكي يدعم تعلّم الرياضيات فقط عندما تجتمع [[student-modeling|نمذجة المتعلّم]] الصادقة والسقالات المعايَرة ووساطة المدرّس، وأن قابلية التوسّع تقنية لا تعليمية ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).

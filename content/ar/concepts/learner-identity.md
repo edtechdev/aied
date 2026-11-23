@@ -9,7 +9,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T06:32:21-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
 ---
@@ -41,6 +45,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## مقدمة
 
 تهم هوية المتعلّم من يفهم المتعلّم أنه هو، ومن يصير، داخل مجال دراسي — وهو بناء دافعي وتطوري متميز عن معتقدات القدرة مثل [[self-efficacy|الكفاءة الذاتية]]، التي تُجيب على السؤال الأضيق *أأستطيع فعل هذا؟* وتتكون الهوية عبر المشاركة والتقدير والتأليف: برؤية الذات منعكسةً في مجال دراسي وتلك الرؤية الذاتية مُصدَّقة من الآخرين. ويُعيد الذكاء الاصطناعي تشكيل الشروط الثلاث كلها، لأنه يُغيّر من يؤدي العمل، وما يُعدّ مساهمةً للشخص نفسه، وهل يُعترف بالمتعلّم بوصفه مؤلفًا لتعلّمه ([[agency|الفاعلية]]، [[metacognition|ما وراء المعرفة]]).
+
+والدرجات علاقة بقدر ما هي رمز: فالطلاب يأتون لرؤية أنفسهم من خلالها، لذا فالإصلاح الذي يُبقي كشف الدرجات سليمًا يُبقي تلك العلاقة سليمةً أيضًا ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]).
 
 ## لماذا تهم الهوية في الذكاء الاصطناعي في التعليم
 
@@ -64,6 +70,9 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 - **كيف يؤطّر الطلاب الأداة يُشكّل مسارهم المهني.** أنتج الطلاب الذين صوّروا الذكاء الاصطناعي التوليدي بوصفه رفيقًا اجتماعيًا عاطفيًا وحده تأملات أقل تمايزًا في تعلّمهم المهني من أولئك الذين صوّروه أيضًا بوصفه تقنيةً أو مادة تعلّم أو بنيةً ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026)]]).
 
 - **التبني الحَذِر: الاستخدام الانتقائي للذكاء الاصطناعي بوصفه حمايةً للهوية.** مسح [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] 484 طالبًا في جامعة أسترالية واحدة، ووجد أن الطلاب الأعلى تحصيلًا أبلغوا عن [[generative-ai|ذكاء اصطناعي توليدي]] اندماجٍ *أقل* نشاطًا، وانفعال إيجابي أقل تجاه الذكاء الاصطناعي، وأثر أقل [[self-report-measures|في التعلّم المُدرك]]، وانفصالًا أقل مرتبطًا بالذكاء الاصطناعي، مع أقوى الارتباطات عند rho = -0.395 لأثر التعلّم المُدرك و rho = -0.359 للانفعال الإيجابي. ووصفت ردودهم المفتوحة استخدامًا كان انتقائيًا (التوضيح، والتلخيص، ودعم سير العمل)، ومُتحقَّقًا منه، ومُنحدرًا بوصفه تابعًا لحكمهم الخاص، وأظهرت النتائج على مستوى البنود اتفاقًا أكبر على أن الاعتماد على الذكاء الاصطناعي يُعيق [[critical-thinking|التفكير النقدي]] و[[problem-solving|حل المشكلات]] المستقل. ويقرأ المؤلفون هذا بوصفه عملًا على الهوية: فبالنسبة للطلاب الذين يستند إحساسهم بأنفسهم بوصفهم متعلمين ناجحين على جهدهم وحكمهم الخاص، فإن تحديد استخدام الذكاء الاصطناعي بحدود يدافع عن [[agency|الفاعلية المعرفية]] التي تعتمد عليها الهوية — وهو ما يعني أيضًا أن النمط ليس رهابًا تقنيًا ولا انخراطًا منخفضًا.
+
+- **الكفاءة قد تسبق الانتماء.** وجدت سيرة ذاتية إثنوغرافية لـ73 يومًا لمعلّم في المعلوماتية الحيوية يبني لعبة في مجال غير مألوف أن [[generative-ai|الذكاء الاصطناعي التوليدي]] زوّد بالكفاءة لا بالهوية: فالانتماء جاء عبر المشاركة في مجتمعات الممارسة وإعادة صنع المعنى المتكررة، وبلوغه تم على وتيرة بشرية ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- إن الرفض عمل على الهوية أيضًا: بين خمسة متدرّبين ثانويين من ذوي الأصول الملونة، كان عدم الاستخدام يُقر بالتحكم أو يمتثل لقواعد المؤسسة أو يُشير إلى قيم معرفية، بينما أنتجت الاستجابات المحايدة للذكاء الاصطناعي «تسطيحًا ثقافيًا» ترك تجاربهم بلا اعتراف ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## العلاقة بفاعلية المتعلّم
 

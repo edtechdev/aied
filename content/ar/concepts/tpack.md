@@ -8,8 +8,8 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:32:21-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,16 +21,18 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
-connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026, shenoy-genai-teacher-professional-development-framework-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
 > **المعرفة التربوية التكنولوجية بالمحتوى (TPACK) [[pedagogy|التربوية]]** — الإطار (Mishra & Koehler، 2006) الذي يصف المعرفة المدمجة التي يحتاجها المعلّمون لاستخدام التقنية فاعليةً في التدريس: تفاعل المعرفة التكنولوجية (TK)، والمعرفة التربوية (PK)، والمعرفة بالمحتوى (CK)، وتقاطعاتها. وفي عصر الذكاء الاصطناعي، وُسّع TPACK إلى **AI-TPACK** / **GenAI-TPACK**، نمذجًاً كيف يُدمج المعلّمون الذكاء الاصطناعي التوليدي في تدريس المادة الدراسية. وهو العدسة النظرية المهيمنة على فهم كيفية بنية [[teacher-ai-competency|كفاءة المعلّم في الذكاء الاصطناعي]] وبنائها عبر [[educational-development|التطوير المهني]].
-
-وهذه الهيمنة هي أيضًا جزئيًا أثرٌ استرجاعي: ففي مراجعة استقصائية PRISMA لـ195 دراسةً في إعداد المعلّمين المدعوم بالتقنية، كانت الكفاءة الرقمية وTPACK وDigCompEdu واصفات بحث صريحة، لذا فإن نسبة 46.5% من أطر الكفاءة تصف المتن المسترجَع لا الميدان ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández وآخرون (2026)]]).
 
 ## أسئلة للتفكير
 
@@ -59,13 +61,19 @@ connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicat
 
 - **يهيمن الإطار على الميدان بالافتراض، ويُمدّ ليلائم ما لم يُصمَّم له.** في [[meta-analysis-systematic-review|مراجعة موجَّهة بـPRISMA]] لـ78 دراسة عن [[learning-design|التصميم التعليمي]] المدعوم بالذكاء الاصطناعي، لم يطبّق سوى 19 دراسة أي إطار كفاءة مسمّى — واستأثر TPACK ومتغيّراته بـ**17 من تلك الـ19**، مستخدمًا عدسةً تحليلية منتِجة لكنه مُدّ إلى ما يتجاوز نطاقه الأصلي، إذ لم يُصمَّم TPACK للقدرات الخاصة بالذكاء الاصطناعي. والامتدادات المصمَّمة لهذا الغرض نادرة بالمقابل: **ظهر Intelligent-TPACK في خمس دراسات فقط**، مقترنًا عادةً بـ[[ai-literacy]] للتعامل مع التقدّم التطوري ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **البحث يمضي دون تنظير بينما أطر السياسة تبقى غير مُختبَرة.** وجدت المراجعة نفسها أن **76% من الدراسات استنتجت الكفاءات من الممارسة دون أي رسم نظري**، ولم يُطبَّق أيٌّ من DigCompEdu أو إطار اليونسكو لكفاءة الذكاء الاصطناعي للمعلّمين كإطار تحليلي في أي من الدراسات الـ78 — انفصال يجري في الاتجاهين، إذ لا يراكم العمل التجريبي مفردات مشتركة بينما تبقى الأطر الموجّهة للممارسة غير مُختبَرة تجريبيًا في هذا السياق.
+- **جزء من تلك الهيمنة أثرٌ استرجاعي.** في مراجعة استقصائية PRISMA لـ195 دراسةً في إعداد المعلّمين المدعوم بالتقنية، كانت الكفاءة الرقمية وTPACK وDigCompEdu واصفات بحث صريحة، لذا فإن نسبة 46.5% من أطر الكفاءة تصف الدراسات المسترجَعة لا الميدان ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández وآخرون (2026)]]).
 
 ## AI-TPACK وGenAI-TPACK
 
 دفع عصر الذكاء الاصطناعي الإطار نحو قراءة «تقنية بذكاء». فبدل أداة سلبية، يُعدّ الذكاء الاصطناعي التوليدي وكيلًا نشطًا قادرًا على التخطيط وتوليد المحتوى والتدريس الخصوصي والتكيّف — لذا تشمل معرفة الإدماج في تزايد **التنسيق**: تحديد متى يفعل الذكاء الاصطناعي، ويسند، أو يتنحّى لحكم [[human-in-the-loop-ai|البشر]].
 
+- **ينهار افتراض الأداة الثابتة.** يجادل [[shenoy-genai-teacher-professional-development-framework-2026|Shenoy وSaarela (2026)]] بأن TPACK بُني لأدوات حتمية مخرجاتها مستقرة وقابلة للتحقّق، فلا يمكن رصد مخرجات الذكاء الاصطناعي التوليدي الاحتمالية كمعرفة أداة؛ وما يتطوّر بدلًا منها هو كفاءة استجواب المخرجات.
+
 - **أبعد من المعرفة المنفصلة.** يجادل [[ai-tpack-teacher-multi-agent-workflow|بحث AI-TPACK]] بأن الإدماج الفعّال للذكاء الاصطناعي ينشأ لا من امتلاك مجالات منفصلة بل من التفاعل الديناميكي لـ**التفكير الأنظمةي**، و**المعتقدات التربوية**، و**[[self-efficacy]]** — متحديًا النماذج الساكنة القائمة على قوائم التحقّق لكفاءة المعلّم في الذكاء الاصطناعي. وتتبلور أنماط المعلّمين (المُحسِّنون المنهجيون، والمُبدِعون المُكثِرون، والمراقبون السلبيون) من كيفية تصميم المعلّمين لسير عمل تعليمية متعددة الوكلاء.
 - **ما تُغفله أطر الإدماج.** يحمل نقد «الوكالة المشتركة» أن TPACK و[[samr-model|SAMR]] تعالجان معرفة المعلّم ومستويات التبنّي لكنهما يتركان القوة وملكية البيانات والمسؤولية دون معالجة، لذا تحتاج معرفة الإدماج إلى حدّ أخلاقي صريح بدل مجال معرفة آخر ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+- 
+يعيد HACC إسناد العمل التكاملي الذي يمنحه TPACK لأصول تدريس المعلّم إلى ما وراء المعرفة لدى المتعلّم نفسه، فيخرج الإدماج من جهة المتعلّم عن نطاق TPACK ([[dang-human-ai-collaboration-competency-2026|Dang وآخرون (2026)]]).
+
 - **أدلة عابرة للمستويات على النواة التربوية.** وجدت [[pedagogy-first-technology-second-teacher-knowledge-2026|دراسة متعددة المستويات على 46 معلّمًا و2,832 طالبًا في المرحلة الثانوية]] أن المعرفة التقنية بالذكاء الاصطناعي وحدها كانت غير كافية — بل أخمدت قليلًا إدراكات الطلاب للذكاء الاصطناعي من أجل الخير الاجتماعي — بينما المعرفة التربوية بالذكاء الاصطناعي (TPAIK) هي التي رعت إدراكات الطلاب ونيتهم السلوكية لتعلّم الذكاء الاصطناعي. وتُقطَّر النتيجة في إرشاد **«أصول التدريس أولًا، التقنية ثانيًا»** يُجري صدى نتائج الدور الوسيط أعلاه.
 - **[[ethics|الأخلاقيات]] كوسيط مُدمج لا كحدّ.** في مسح شمل 454 معلمًا جامعيًا، كانت المعرفة التكنولوجية بالذكاء الاصطناعي المنعزلة مرتبطة ارتباطًا مباشرًا *سلبيًا* بـAI-TPACK المدمج (β = −0.303) بينما بقي أثرها الكلي إيجابيًا (β = 0.639)، مارًّا بالمعرفة التربوية وبالمحتوى والأخلاقية ([[ethically-mediated-ai-tpack-china-2026|Chen وآخرون (2026)]]). ونقلت المعرفة الأخلاقية الأثر أيضًا إلى الأمام، متنبئةً بالمعرفة التربوية (β = 0.353) وبالمعرفة بالمحتوى (β = 0.269).
 - **عدسة مراجعة للميدان كله.** حلّل [[edurev-100741-tpack-genai-review|مراجعة منهجية من منظور TPACK]] (Liu & Zhong، 2025) 71 دراسةً تجريبية عن الذكاء الاصطناعي التوليدي في تعلّم الطلاب، فوجدت أثرًا عامًّا إيجابيًا (Hedges' g = 0.752) وحدّدت ثقافة الذكاء الاصطناعي التوليدي للطلاب و**التطوير المهني في GenAI-TPACK للمعلّمين** كأولويين حاسمين للميدان.
@@ -82,7 +90,7 @@ connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicat
 **AI-TPACK كوسيط بين الثقافة والإدماج الصفّي.** يضع نموذج معادلات بنيوية لمعلّمي علوم قبل الخدمة الصينيين ([[ai-literacy-ai-integrated-inquiry-science-teaching-2026|Zou وLi وWang وDu، 2026]]) AI-TPACK لا ككفاءة موازية بل كآلية انتقال تتحوّل بها [[ai-literacy]] العامة إلى ممارسة تعليمية. فتوقّعت ثقافة الذكاء الاصطناعي AI-TPACK توقّعًا قويًا، وتوقّع AI-TPACK بدوره كفاءة [[science-education|تعليم العلوم]] [[self-efficacy]]، وكانت كفاءة التعليم الذاتية أقوى متنبّئ منفرد بالنية في التدريس عبر [[inquiry-based-learning|الاستقصاء]] المدمج بالذكاء الاصطناعي.
 
 وكانت السلسلة التتابعية الكاملة (ثقافة الذكاء الاصطناعي → AI-TPACK → الكفاءة الذاتية → النية) دالّة، كما كانت المسارات غير المباشرة المنفصلة عبر AI-TPACK وعبر الكفاءة الذاتية؛ ومجتمعةً، مرّ معظم ارتباط ثقافة الذكاء الاصطناعي بالنية عبر هذين الوسيطين لا مباشرةً، وكانت النتيجة قد صمدت بعد ضبط الجنس وسنة الدراسة والتخصص وتواتر استخدام الذكاء الاصطناعي. والدعوى العملية للنموذج هي تسلسل له نقطة دخول: ثقافة الذكاء الاصطناعي ضرورية لكنها غير كافية، وعمل الإدماج يحدث حيث تُجمع المعرفة التكنولوجية والتربوية وبالمحتوى — وهو أيضًا حيث تُبنى ثقة المعلّمين في تدريس المادة.
-- **التحقّق ككفاءة رابعة.** يوسّع [[human-ai-collaboration-design-education-rubric-2026|Orhon وCekerol وUgur (2026)]] النموذج بـ**معرفة التحقّق بالذكاء الاصطناعي** — إخضاع مخرجات الذكاء الاصطناعي الاحتمالية لتحقّق خاص بالتخصص قبل معاملتها كدليل على قرار مشروع — ويُزاوجانها بسُلَّم تقويم موجَّه بالعملية ل[[design-education|تعليم التصميم]].
+- **التحقّق ككفاءة رابعة.** يوسّع [[human-ai-collaboration-design-education-rubric-2026|Orhon وCekerol وUgur (2026)]] النموذج بـ**معرفة التحقّق بالذكاء الاصطناعي** — إخضاع مخرجات الذكاء الاصطناعي الاحتمالية لتحقّق خاص بالتخصص قبل معاملتها كدليل على قرار مشروع — ويُزاوجانها بـ[[rubrics|سلّم تقدير]] موجَّه بالعملية ل[[design-education|تعليم التصميم]].
 
 ## لماذا يهمّ في تعليم الذكاء الاصطناعي
 
@@ -90,6 +98,10 @@ TPACK هو الإطار المُنظِّم للجانب الخاص بالمعل�
 
 **يمرّ الوسيط في الأغلب عبر سهولة الاستخدام.** اختبر [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] ستة مسارات غير مباشرة من [[ai-literacy|ثقافة الذكاء الاصطناعي]] وTPACK إلى التعلّم العميق لدى 423 معلّمًا في مرحلة ما قبل الخدمة: فكان مسار TPACK عبر [[technology-acceptance-model|سهولة الاستخدام المُدركة]] الأكبر (0.212)، ومسار ثقافة الذكاء الاصطناعي عبر الفائدة الأصغر (0.033)، فاشتغل الإدماج المعرفي عبر [[usability-research|قابلية الاستخدام]] لا عبر المنفعة.
 **لا تتساوى المكوّنات وزنًا في حالة الذكاء الاصطناعي.** بين 988 معلّمًا في مرحلة ما قبل الخدمة، تنبأ TCK (β = 0.67) وTPK (β = 0.41) بـ AI-TPACK المدمج بينما لم يتنبأ TK وحده (β = −0.10، p = 0.066)، وتنبأ TPACK المدمج بالاتجاه نحو الذكاء الاصطناعي التوليدي (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
+
+**التجسيد لا المراجعة في ظلّ قيد الموارد.** وصف محاضِرون في جامعة صومالية استخدامًا تشكّلُه الدعوة المؤسسية وغياب السياسة واشتراك شهري قدره \$20 يدفعونه من جيوبهم — سياق يستوعبه TPACK دون تغيير مكوّناته ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
+
+- **الكفاءة الذاتية ليست كفاءة.** وجدت دراسة قائمة على التصميم لتدريب على ثقافة الذكاء الاصطناعي التوليدي شملت 29 طالبًا في إعداد المعلّمين أن ورشة واحدة رفعت الكفاءة الذاتية المُدرَكة للذكاء الاصطناعي لا الكفاءة التربوية ولا التقييمية، مع تسجيل خطط الدروس المقوَّمة بسلّم تقدير أدنى الدرجات في التطبيق الإبداعي للذكاء الاصطناعي التوليدي (M = 1.64) ([[genai-literacy-training-teacher-education-dbr-2026|Le وآخرون، 2026]]).
 
 ## الآثار المترتّبة على التصميم
 

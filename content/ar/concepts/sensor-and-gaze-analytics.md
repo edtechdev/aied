@@ -1,7 +1,7 @@
 ---
 title: تحليلات المستشعرات وتتبّع النظرة
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,13 +12,17 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, multimodal, affective-computing, student-engagement, self-regulated-learning, embodied-learning, educational-measurement, automated-assessment, assessment-validity, remote-proctoring, academic-integrity, privacy, bias-mitigation, neurodiversity, equity-in-ai-education, accessibility, machine-learning, cognitive-psychology, intelligent-tutoring]
 connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-ai-children, e3sense-multimodal-learner-engagement-sensing-2026, engagement-assessment-video, student-attention-estimation-fairness-2026, corbin-ai-glasses-wearable-ai-assessment-2026, eeg-familiarity-automated-assessment-2026, seeing-cognitive-representations-eeg-reconstruction, physiological-signals-exam-outcomes-ml, affective-text-wearable-student-health, tutorloop-sensor-cognitive-feedback-2026, arif-automated-online-proctoring-yolov11-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, kim-ai-embodied-learning-review-2026]
@@ -39,7 +43,7 @@ connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-
 
 ## مقدّمة
 
-تصف تحليلات المستشعرات وتتبّع النظرة عائلة من الطرائق تحوّل القياسات الفيزيائية للمتعلّم إلى استنتاجات تعليمية. وتشمل القياسات موضع استقرار العينين ومدّته، والنشاط الكهربائي لفروة الرأس، واستجابات الغدد العرقية، والتباين بين نبضة وأخرى في معدل ضربات القلب، وموضع الرأس والجذع وحركتهما. وتشمل الاستنتاجات الانتباه والانخراط والحمل المعرفي والارتباك والتوتر، وفي سياقات التقييم، الارتياب.
+تصف تحليلات المستشعرات وتتبّع النظرة عائلة من الطرائق تحوّل القياسات الفيزيائية للمتعلّم إلى استنتاجات تعليمية. وتشمل القياسات موضع استقرار العينين ومدّته، والنشاط الكهربائي لفروة الرأس، واستجابات الغدد العرقية، والتباين بين نبضة وأخرى في معدل ضربات القلب، وموضع الرأس والجذع وحركتهما. وتشمل الاستنتاجات الانتباه والانخراط والحمل المعرفي والارتباك والتوتر، وفي سياقات التقييم، الارتياب. والتركيز منصبّ على طبقة القياس هذه: فالبرنامج الأوسع وادّعاءاته في [[affective-computing|الحوسبة الوجدانية]]، وكيفية تصرف مدرّس آلي في استنتاج بمجرد حصوله عليه في [[affective-tutoring|التدريس الوجداني]].
 
 والجاذبية مباشرة. فـ[[self-report-measures|التقارير الذاتية]] استرجاعية وخشنة، والاختبارات القصيرة تعاين التعلّم في لحظات قليلة. أما المستشعرات فتعمل باستمرار ولا تكلّف المتعلّم جهدًا واعيًا يُذكر. وهذا التركيب جعل الاستشعار مركزيًا في [[learning-analytics|تحليلات التعلّم]] و[[student-modeling|نمذجة الطالب]]، وأنتج أدبيات واسعة يكون فيها الاستشعار مبهرًا تقنيًا والتفسير رقيقًا.
 
@@ -50,6 +54,8 @@ connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-
 **النظرة والتثبيت.** تُبلِغ متتبّعات العين عن موضع توجيه العين ومدّة مكوثها ووقت حركتها القافزة ومدى تشتّتها. وأنظمة الشاشة مثل WebGazer تستنتج النظرة من كاميرا ويب، بينما تتتبّع النظارات العين مباشرة. ويحوّل TutorLoop النظرة إلى كميّتين: الانتباه كنسبة نقاط النظرة داخل منطقة المحتوى، والحمل كمِخْلَط النظرة، على منطق أن النظرة المتشتّتة تتبّع الحمل المعرفي ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). أما Ollie، وهو مساعد مستنير بالنظرة للأطفال، فيحدّد بدلًا من ذلك مناطق اهتمام في صورة ويطلق السرد حين ينظر الطفل إلى إحداها ([[gaze-informed-ai-children|Wu et al., 2026]]).
 
 **تخطيط كهربية الدماغ.** يسجّل EEG تقلّبات الجهد عبر فروة الرأس بدقة زمنية عالية. وهو الإشارة الوحيدة في هذه العائلة التي تبلغ نشاط القشرة مباشرة، ولهذا يجذب أبحاث التقييم. وتستخدم الأنظمة التعليمية العملية أقطابًا جافة وقنوات قليلة: أخذ E3Sense أربع قنوات EEG جافة بتردد 125 Hz وحلّل قناتين أماميتين ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]). وتأخذ أجهزة مستوى البحث الاتجاه المعاكس: استخدم Kosmyna et al. (2025) تخطيطًا بـ 32 قناة لمقارنة طلاب يكتبون بـ[[llm|نموذج لغوي كبير]] أو بمحرّك بحث أو بلا أداة، فوجدوا أضعف ترابط عصبي في مجموعة النموذج اللغوي الكبير ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et al., 2025]]). وتلك الدراسة هي أيضًا أوضح تحذير بشأن أدلة القناة الواحدة، إذ يقوم ادّعاؤها المركزي على جلسة تبادل اختيارية حضرها 18 مشاركًا فقط من 54.
+
+**تصوير fNIRS المزدوج.** تسجيل متعلّمين اثنين في آن واحد يقيس التزامن بين الدماغَين لا دماغًا واحدًا: فقد وجد [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]] أن [[rubrics|نماذج]] منسوبةً إلى البشر رفعت تزامن منطقة ما قبل الحركة وتفرّد الأفكار، وأن نسبتَها إلى الذكاء الاصطناعي خفضت ذلك، ولم يصمد أيّ مكسب سلوكي بعد سحبها.
 
 **النشاط الكهربي الجلدي.** يقيس EDA موصلية الغدد العرقية، وهو مؤشر على الاستثارة الودّية. ويستجيب للتوتر والجهد والشدّة الانفعالية، ولا يستطيع التمييز بينها. ويظهر البِناء نفسه في أساور المعصم وفي أقطاب الجبهة المثبَّتة على بعد سنتيمترات قليلة بإطار متتبّع العين ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]]).
 
@@ -85,6 +91,8 @@ connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-
 
 والانتباه ليس تعلّمًا. في TutorLoop ارتبط الانتباه بالتعلّم عند r = 0.017، بينما ارتبط الحمل سلبًا عند r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). فنظام يعظّم إشارة الانتباه كان سيُحسّن شيئًا قريبًا من الضوضاء.
 
+ويمكن لإشارة أن تعكس البناء أيضًا. في 37 [[simulation|محاكاة]] تمريضية مسجَّلة، ارتبط كاشف الابتسام سلبًا مع [[empathy|التعاطف]] الذي قيّمه المراقبون (r = −0.322) بينما اتفق كشف الاتصال الجسدي مع أربعة مقاييس للمراقبين عند 0.46 إلى 0.54؛ إذ كان المراقبون يقرأون ابتسامةً لمريضٍ يتألّم بوصفها عدمَ تطابق، بينما كان النموذج يقرأ فعلًا وجهيًا ([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
+
 يمكن لجهاز استشعار أن يسجّل الحضور المكاني المشترك حيث تدّعي دراسة وجود تفاعل: فقد وجد [[hur-computational-analysis-teacher-group-interactions-2026|Hur وآخرون (2026)]] أن كاشفًا قائمًا على الوضعية بلغ استدعاءً قدره 55% فقط، فالتقط 11 من 20 حدثًا حدّدها مبرمجون بشريون في تفاعلات [[teacher-role|المعلّم]] مع مجموعات الطلاب. وكان المعلّم حاضرًا داخل حدود المجموعة في 49.2% من المقاطع المرمّزة بينما نظر الطلاب إلى المعلّم في 25.4% فقط، ولم تتغير أي سمة صوتية في المقارنتين، فسجّلت المنظومة حضورًا مكانيًا لا تفاعلًا مستمرًا.
 
 والملف الفسيولوجي ليس تشخيصًا. تتنبّأ نماذج توتر الامتحان بفئة درجة من الاستثارة والحركة، ويصرّ المؤلفون على أن المخرَج ينتمي إلى جانب الظروف الشخصية وسياق الصحة النفسية لا إلى قرار عالي المخاطر ([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
@@ -101,7 +109,7 @@ connected_articles: [nissan-nursing-empathy-computer-vision-2026, gaze-informed-
 
 **إخفاقات العدالة تتجمّع على الأجساد المختلفة.** تقدير الانتباه بالوجه يعتمد على لون البشرة والنظارات والإضاءة. والانتباه بالنظرة يعاقب المتعلّمين الذين يتجنّبون التواصل البصري، ومنهم بعض [[neurodiversity|الطلاب ذوي التنوّع العصبي]]. والمراقبة بالوضعية تُشير إلى العرّات والتحفيز الحركي ومعايير الحركة الثقافية. ودراسة المراقبة لا تختبر ما إذا كانت الوضعية المُشار إليها تقابل مخالفة، ولا ما إذا كان الكاشف يعامل [[inclusive-learning|الطلاب ذوي الإعاقات]] أو الفروق الثقافية في النظرة بعدل ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). والتنظيم ليس إصلاحًا هنا؛ إنه طريقة لغسل الخطأ في قاعدة.
 
-**ادّعاءات العدالة تحتاج أدلة على مستوى الأفراد.** قلّص مُنظِّم موجّه للجنس فجوة MAE في التحقّق من 0.02 إلى 0.005، ثم زاد الفجوة وخطأ أسوأ مجموعة على أفراد محجوزين ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). فالإبلاغ عن تقسيم واحد كدليل على العدالة إخفاق تصميمي بكلفة إنصاف.
+**ادّعاءات العدالة تحتاج أدلة على مستوى الأفراد.** قلّص مُنظِّم موجّه للجنس فجوة MAE في التحقّق من 0.02 إلى 0.005، ثم زاد الفجوة وخطأ أسوأ مجموعة على أفراد محجوزين ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]). فالإبلاغ عن تقسيم واحد كدليل على العدالة إخفاق تصميمي بكلفة [[equity-in-ai-education|إنصاف]].
 
 **الخصوصية يمكن أن تُهندَس داخل التصميم.** شغّل TutorLoop نظام WebGazer على جهة العميل فلم تُغادر النظرة الخام المتصفح قط ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). ويُظهر ذلك الخيار أن بعض الكلفة معمارية لا متأصّلة. والسؤال الأصعب هو هل ينبغي أن يوجد الاستدلال أصلًا.
 

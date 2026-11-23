@@ -12,8 +12,8 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-05T21:30:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [llm, ai-technologies, rag, prompt-engineering, reinforcement-learning, intelligent-tutoring, adaptive-learning, automated-assessment, automated-essay-scoring, ai-feedback-quality, educational-nlp, simulating-students, student-modeling, open-source, benchmark, assessment-validity, pedagogical-safety, ai-sycophancy, hallucination-risk, privacy, human-in-the-loop-ai, metacognition, scaffolding, ai-education]
 connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini-learning, teachlm-post-training-llms-education, tact-pedagogically-adaptive-esl-tutoring, swim-student-writing-simulation-2026, misconception-acquisition-dynamics-llms-2026, jeon-isd-agent-bench-2026, wang-socratic-guides-heuristic-reinforcement-learning-2026, special-r1-rl-special-education, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, lee-pedagogy-r1-pedagogical-large-reasoning-model-2025, omniedu-open-educational-foundation-models-2026, garrod-edu-qurating-educational-data-curation-2026, lora-finetuned-control-systems-course-qa-2026, aiawe-automated-writing-evaluation, llm-graders-computer-science-exams-2026, iks-instruct-dataset-indian-knowledge, llm-children-reading-story-generation, bert-discourse-english-teaching-2026, nuclear-diffusion-text-to-image-learning-2026, distilling-self-explaining-lm-learning-analytics-2026, llm-unlearning-math-privacy, reflection-level-classification-hungarian-essays-2026, multimodal-item-parameter-estimation-2026, know-when-to-trust-ai-scoring-reliability-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, customizing-ai-writing-pedagogy-systematic-review-2026, gpt-item-generation-l2-listening-2026, wraft-automated-writing-evaluation-argumentative-2026, educational-llm-alignment, yasar-llms-iterative-pedagogical-design-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, hazra-safetutors-pedagogical-safety-2026, reddig-maclellan-personalized-feedback-llm-2026, simulated-students-tutoring-dialogues-2026, inside-llm-student-simulator-reasoning-2026, history-aware-student-simulation, liang-k12-kgraph-curriculum-knowledge-graph-2026]
@@ -44,7 +48,7 @@ connected_articles: [singh-eduqwen-pedagogical-rl-2026, learnlm-improving-gemini
 
 ## مقدمة
 
-يرتطم تطوير الذكاء الاصطناعي التعليمي بالحائط نفسه من جهتين. تُدرَّب النماذج اللغوية العامة تدريبًا لاحقًا على تفضيل البشر للمساعدة، وهو ما يعني عمليًا الإجابة سريعًا وكاملًا؛ أما التدريس الفاحص فيتطلب العكس، لأن الهدف [[pedagogy|البيداغوجي]] هو مساعدة الطالب على الوصول إلى الإجابة لا تسليمها إليه. وفي الوقت نفسه، لا يعرف النموذج العام شيئًا عن منهجكم ولا عن سلم تقديركم (rubric) ولا عن صوت مؤسستكم، ولا يثبّت هندسة المثيرات (prompt engineering) أيًّا من ذلك بموثوقية.
+يرتطم تطوير الذكاء الاصطناعي التعليمي بالحائط نفسه من جهتين. تُدرَّب النماذج اللغوية العامة تدريبًا لاحقًا على تفضيل البشر للمساعدة، وهو ما يعني عمليًا الإجابة سريعًا وكاملًا؛ أما التدريس الفاحص فيتطلب العكس، لأن الهدف [[pedagogy|البيداغوجي]] هو مساعدة الطالب على الوصول إلى الإجابة لا تسليمها إليه. وفي الوقت نفسه، لا يعرف النموذج العام شيئًا عن منهجكم ولا عن [[rubrics|سلّم تقديركم]] ولا عن صوت مؤسستكم، ولا يثبّت هندسة المثيرات (prompt engineering) أيًّا من ذلك بموثوقية.
 
 تغطّي هذه الصفحة التقنيات التي تغيّر النموذج لا النص الذي تُرسلونه إليه. وهذه التقنيات تقع على **سلّم من التزام متزايد**: التحفيز، ثم الاسترجاع، ثم التهيئة الموفّرة للمعلمات (parameter-efficient)، ثم الضبط الدقيق الكامل، ثم التدريب اللاحق بإشارات تفضيل أو مكافأة. ولكل درجة تكلفة أكبر في البيانات والحوسبة وانضباط التقييم من سابقتها، وكلٌّ منها خيار أول أسوأ من الدرجة الأدنى منها إلا إذا برّر الصعودَ قياسٌ محدَّد. وتفيد معظم الأبحاث الواردة في الأدبيات بقمة هذا السلّم فقط، وهو ما يجعل من السهل على المطوّر أن يمتدّ يده إلى التدريب حين كان الاسترجاع سيكفي.
 
@@ -115,6 +119,8 @@ LoRA وأقاربها هي المجال الذي سيعمل فيه معظم ال
 
 **جودة الإشراف تتفوّق على كمّيته.** إن تدرّج SWIM من أجل [[simulation|محاكي]] كتابة هو أوضح برهان. فالتحفيز المؤصَّغ بسلم التقدير أعطى ضبطًا محدودًا للكفاءة (أفضل متوسط سمة QWK 0.577 لـ Claude Sonnet، و0.422 لـ GPT-5.4، وقريب الصفر لنموذج 7B مفتوح)، ورفع الضبط الدقيق المُوجَّه نموذج 7B ذلك إلى **0.474 ± 0.023**. ورفعه GRPO مقابل مكافأة مستخرجة من تصحيح المقالات الآلي إلى **0.618 ± 0.005** عبر كل سمة ومثير، مع تصميم المكافأة كدقة كثيفة معيَرة بالسمات لأن مكافآت المطابقة التامة متفرّقة جدًا في سياق متعدد السمات ([[swim-student-writing-simulation-2026]]). وتصل دراسة نمذجة المفاهيم الخاطئة إلى نتيجة أحدّ بشأن *ما* يجب أن يحتويه الإشراف: تعلّمت النماذج المضبوطة بالتعليمات مفاهيم جبر خاطئة فقط حين دُرّبت على **آثار حلول على مستوى الخطوة**، مع بقاء الدقة **أقل من 30% عند كل حجم بيانات** حين دُرّبت على الأجوبة النهائية وحدها. وأفرط دور الطالب في تعميم الخطأ المتعلم حتى خُلطت الأمثلة الصحيحة صراحةً بنسب منخفضة كـ**واحد من كل أربعة**، بينما لم يُظهر دور المُدرِّس كلفةً من هذا القبيل، حافظًا على دقة صحيحة من **93% إلى 98%** عبر عشرة مفاهيم خاطئة مدرَّبة بالمشاركة ([[misconception-acquisition-dynamics-llms-2026]]).
 
+**يمكن خفض تكلفة التدريب دون التخلّي عن الدقة.** فسقط إكمالات GRPO منخفضة الميزة بمعدل 0.5 قلّص التدريب من 14.1 إلى 7.2 ساعة ورفع F1 قليلًا، بينما مكافأة الموضع المدرَّجة بالرتبة وخطوة التدريب غلبت المكافأة الثابتة ([[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]]).
+
 وبإمكان النماذج أن تنتقي بيانات التدريب نفسها: يُهيئ Edu-QuRating تقطير التفضيل لانتقاء البيانات التعليمية، مستبدلًا درجةً واحدة "هل هذا تعليمي؟" بـ20 بُعدًا لسلم تقدير تغطي الدقة الواقعية والبنية البيداغوجية وملاءمة المرحلة ([[garrod-edu-qurating-educational-data-curation-2026]]).
 
 **يمكن للنظرية أن تكون سقالة تدريب.** فبالنسبة لوكلاء يؤتمتون [[learning-design|تصميم النظم التعليمية]]، تفوّق هجين من إطارَي ADDIE الكلاسيكي وDick & Carey مع استنتاج بأسلوب ReAct على النظرية الخالصة (منظَّمة لكن غير مرنة) ووكلاء التقنية وحدها (مرنين لكن غير مؤصَّلين)، عبر **25,795** سيناريو من مصفوفة سياق من 51 متغيرًا مع بروتوكول متعدد القضاة للتقليل تحيّز النموذج-كقاضي ([[jeon-isd-agent-bench-2026]]). ووجدت دراسة في تسميات الإشراف أن إسناد سلوك هدف واحد لكل مثال تدريب — كفاءة المادة، أو تأصيل المنهج، أو الاستنتاج التشخيصي، أو [[scaffolding|السقالة]] — رفع كل حجم نموذج مُختبَر، مع أكبر المكاسب في السقالة وفي استخدام تاريخ المتعلّم، وبقاء تشخيص حالة المعرفة الأضعف عند **54.04%** ([[omniedu-open-educational-foundation-models-2026]]).
@@ -123,7 +129,9 @@ LoRA وأقاربها هي المجال الذي سيعمل فيه معظم ال
 
 تُوجَّه الآلية نفسها توجيهًا متزايدًا نحو محاكاة الطلاب، وهو ما يغيّر اقتصاديات تقييم المُدرِّس: فبدل استقطاب متعلّمين، تولّدونهم.
 
-والتحفّظ أن الطلاب المحاكات يجب أن يُصادَق عليهم كأي أداة أخرى. فقد أنتج تقييم نماذج مضبوطة دقةً ومُحفَّزة على **382 حوارًا** محتفظًا بها للاختبار من أكبر نصّ عام لحوارات رياضيات حقيقية بين طلاب ومدرّبين — عبر سبعة مقاييس تمتد على الجوانب اللغوية والسلوكية والمعرفية — أصدق اختبار مباشر في الميدان لسلوك الطلاب المحاكات كطلاب ([[simulated-students-tutoring-dialogues-2026]]). ويدفع نهجان آخران على الأمانة: يضبط INSIDE نماذج لغوية كبيرة دقةً لـ*التصرّف* و*التفكير* كطلاب، مولّدًا حوارًا داخليًا مؤصَّغًا بتصنيف بلوم عبر الأبعاد المعرفية والوجدانية والفعلية ومدرَّبًا على آثار تفكير وأفعال مقترنة ([[inside-llm-student-simulator-reasoning-2026]])، وتشترط الملامح الواعية بالتاريخ المحاكاةَ على مسار سابق للطالب بدلًا من شخصية ساكنة ([[history-aware-student-simulation]]). والدرس العملي للمطوّر أن المحاكي أداة قياس، وأنه يرث كل سؤال صلاحية يترتب على ذلك.
+والتحفّظ أن الطلاب المحاكات يجب أن يُصادَق عليهم كأي أداة أخرى. فقد أنتج تقييم نماذج مضبوطة دقةً ومُحفَّزة على **382 حوارًا** محتفظًا بها للاختبار من أكبر نصّ عام لحوارات رياضيات حقيقية بين طلاب ومدرّبين — عبر سبعة مقاييس تمتد على الجوانب اللغوية والسلوكية والمعرفية — أصدق اختبار مباشر في الميدان لسلوك الطلاب المحاكات كطلاب ([[simulated-students-tutoring-dialogues-2026]]). ويدفع نهجان آخران على الأمانة: يضبط INSIDE نماذج لغوية كبيرة دقةً لـ*التصرّف* و*التفكير* كطلاب، مولّدًا حوارًا داخليًا مؤصَّغًا بـ[[bloom-taxonomy|تصنيف بلوم]] عبر الأبعاد المعرفية والوجدانية والفعلية ومدرَّبًا على آثار تفكير وأفعال مقترنة ([[inside-llm-student-simulator-reasoning-2026]])، وتشترط الملامح الواعية بالتاريخ المحاكاةَ على مسار سابق للطالب بدلًا من شخصية ساكنة ([[history-aware-student-simulation]]). والدرس العملي للمطوّر أن المحاكي أداة قياس، وأنه يرث كل سؤال صلاحية يترتب على ذلك.
+
+وإزالة 16 مكوّن معرفة بايثون من Mistral-7B تخفض الدقة إلى مستوى مستهدف، وتستعيدها إعادة التعلّم بإرشاد المدرِّب، ممنوحةً المحاكي حالة معرفة قابلة للضبط بدلًا من شخصية محفَّزة بالمثير ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin (2026)]]).
 
 ## ما الذي يسوء
 

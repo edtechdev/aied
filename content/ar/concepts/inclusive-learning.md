@@ -1,7 +1,7 @@
 ---
 title: "التعلّم الشامل"
 created: "2026-10-12T15:40:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_resources: [mglearn]
 type: concept
 foundations: [ai-education, learning-design]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
 connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
@@ -80,6 +84,8 @@ connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segme
 **بوابةُ التشخيص الرسمي تُقصي المتعلّمين الذين تدّعي الأداة خدمتَهم.** ففي [[assistive-tech-neurodivergent-higher-ed-review-2026|المراجعة الاستقصائية لـRempel et al.'s (2026)]] لـ40 دراسة على التقنيات المساعدة الرقمية لطلاب ذوي التنوّع العصبي، جعلت 28 دراسة التشخيصَ الرسمي شرطًا للمشاركة، ولم تتعامل سوى ثلاث مع البيئة بدلًا من الطالب.
 
 **الأدوات القابلة للوصول في الممارسة** تُظهر كيف يمكن للذكاء الاصطناعي أن يُوسّع المشاركة. فقد أظهر **[[suacode-african-students-motivations|SuaCode]]** أن مقررات البرمجة القائمة على الهاتف الذكي تصل إلى الطلاب في سياقات أفريقية قليلة الموارد حيث أقل من 1% لديهم مهارات البرمجة. وعمل **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** مع موسيقيين مكفوفين وضعاف بصر على تطوير استراتيجيات تعلّم غير بصرية، مُمركزًا تصميمًا [[embodied-learning|تجسيديًا]] تقوده الإعاقة. ويقدّم **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** شريكَ تفكير ذكيًا اصطناعيًا مجانيًا وخاصًا ومتعدد اللغات يربط المربّين بمبادئ التصميم الشامل للتعلّم. ويُوسّع **[[special-r1-rl-special-education|Special-R1]]** [[reinforcement-learning|التعلّم المعزَّز]] لتنمذج التنوّع المعرفي والتواصلي عبر ملامح الإعاقة.
+
+**تتخلّف السياسات عن النشر.** لم تكن لأيٍّ من أفضل 100 جامعة مصنَّفة سياسةُ إمكانية وصول للذكاء الاصطناعي رغم أن 93% منها نشرت خدمات حرم جامعي مدعومة بالذكاء الاصطناعي ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### الروابط بالمفاهيم ذات الصلة
 

@@ -8,8 +8,8 @@ connected_faqs: [reporting-interpreting-aied-research, checking-whether-educatio
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
-source_updated: "2026-11-05T21:30:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_of: concepts/benchmark
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -22,8 +22,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
+connected_resources: [gradebench, raid-benchmark-leaderboard, fab-ai-benchmark-leaderboard]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -51,11 +56,13 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-a
 
 - **تكيّف المتعلّم معيارًا صريحًا للتقييم.** يصنّف تحدي Teaching Monster Challenge التكيّف مع شخصية متعلّم محددة، لكن قاضي النموذج اللغوي الكبير الآلي لم يفصل إلا ذيلًا ضعيفًا — فقد سجّلت الأنظمة الأولى قرابة سقفه وخالف ترتيبها تفضيل الجمهور (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
-### لماذا تهمّ المعايير المرجعية في AIED
+## لماذا تهمّ المعايير المرجعية في AIED
 
 ترتبط المعايير المرجعية بـ [[ai-ed-evaluation]] و[[assessment-validity]] — فدون معايير مرجعية صارمة، تكون الدعاوى حول فعالية [[intelligent-tutoring|تدريس الذكاء الاصطناعي]] غير قابلة للتحقق. وهي تتقاطع أيضًا مع [[bias-mitigation]]، إذ قد يُرمّز تصميم المعيار المرجعي الانحياز أو يُضخّمه. ويُستقصى التوتر بين أداء المعيار المرجعي والنفع في العالم الحقيقي عبر مقالات متعددة، مرتبطًا بمخاوف [[transfer-of-learning]] في تطبيقات [[generative-ai]].
 
-- **عندما يكون المقياس هو الفشل لا النظام:** سجّل [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] درجة BLEU-4 = 0.0000 على جميع أسئلة الامتحان النظرية الـ 179 في [[cs-education|علوم الحاسوب]] بينما أعطى معيارًا تربويًا من ستة بنود درجة 0.7620، لأن البراهين المتكافئة منطقيًا تختلف روتينيًا في الرموز وأسماء المتغيرات واستراتيجية البرهان. والدرجة الصفرية تقول عن تداخل n-gram أكثر مما تقول عن جودة الجواب، وهذا هو الحالة العامة ضد اعتبار المقاييس السطحية الرقم الرئيسي لأنظمة AIED في المجالات الصورية.
+- **معايير التشخيص تكشف الثقة الزائدة في الأدلة.** في [[llm-cognitive-diagnosis-handwritten-math|MathCog]]، سجّلت جميع النماذج الـ18 المُقيَّمة أدنى من macro F1 0.5 على 3,036 حكمًا تشخيصيًا لرياضيات مكتوبة بخط اليد موسومًا من المعلّمين، مُسرِفةً في إسناد قوة الأدلة ومختلقةً اقتباسات أدلة، وهي إخفاقات يكمّمها المؤلفون بمقياسَي OverAttr وFalseAttr.
+
+- **عندما يكون المقياس هو الفشل لا النظام:** سجّل [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] درجة BLEU-4 = 0.0000 على جميع أسئلة الامتحان النظرية الـ 179 في [[cs-education|علوم الحاسوب]] بينما أعطى [[rubrics|سلّم التقدير]] التربوي من ستة بنود درجة 0.7620، لأن البراهين المتكافئة منطقيًا تختلف روتينيًا في الرموز وأسماء المتغيرات واستراتيجية البرهان. والدرجة الصفرية تقول عن تداخل n-gram أكثر مما تقول عن جودة الجواب، وهذا هو الحالة العامة ضد اعتبار المقاييس السطحية الرقم الرئيسي لأنظمة AIED في المجالات الصورية.
 - **معايير مرجعية مضادة للواقع على مستوى البُنى.** يُعبّر CFES-P24 عن مبادئ التعلّم متعدد الوسائط بتحويلات شريحة حتمية قابلة للعكس ليدقق فيما إذا كانت نماذج اللغة متعددة الوسائط تستجيب لبنى تصميم تعليمي بعينها بدلًا من إنتاج تقييمات كلية معقولة. وأظهرت تجربة أوّلية مجمّدة تمييز البنى (العملية والمبدأ والإصلاح وتوطين الأدلة) عند 8/8 بينما فشل الحكم المقارن (الاتجاه 6/8) ومعايرة الشدة (0/8) — ما يزعم لصالح بطاقات نتائج طبقية على الدرجات المُركّبة. ([[cfes-p24-multimodal-slide-auditing-2026]])
 
 - **أسِّس [[hallucination-risk|الهلوسة]] والطاقة في التقييم لا في الدقة وحدها.** صنّف [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] الهلوسة كمضمون مقابل قطع مفتوحة الترخيص مُسترجعة (κ = 0.76 مع الحكم الخبير) وسجّل 1.8 mWh لكل استفسار، ووضع استبعادهم الاسترجاع أولًا: إذ سجّل نموذج لغوي محلي دونه 52.3%، أدنى من خط أساس TF-IDF البالغ 55.4%.
@@ -80,6 +87,20 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-a
 - **أبلغ عن قدرة النموذج كمرحلة مُعايَرة لا كدقة وحدها.** يُخصّ [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] 624 مفردة معلّمة على مراحل كفاءة مسمّاة باستخدام 2,050 استجابة متعلّم، ويجد أن النماذج الرائدة تتجاوز السقف المُعاير — حدّ يُخفيه النسبة المئوية.
 
 - **يمكن استغلال قاعدة النتائج بالنموذج الذي تدرّبه.** يُظهر مقياس [[adaptive-learning|تكيّف]] يُعظّمه تكرار أفضل قرار واحد أن تصميم المعيار المرجعي ينبغي أن يُنشر فيه argmax، ويُصنّف التكيّف كفرق، وتُبلَّغ خطوط أساس أعلى من العشوائي ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
+
+قاعدة المطابقة جزء من القياس، وحجمها ليس هامشيًا. فقد صنّف [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah وزملاؤه (2026)]] 11 إعدادًا — نماذج تضمين، وإعدادات [[generative-ai|توليدية]] لنماذج لغوية كبيرة، ووكيل ReAct واحد — مقابل معيار مرجعي موسوم بوسوم ESCO من 926 عيّنة إعلان وظيفة تحمل 1,696 مهارة مرجعية، ثم أعاد تصنيف كل منها عبر مسار مطابقة من ثماني طبقات. فقد جرى المسار من مطابقة نصية دقيقة إلى عتبة تشابه التضمين 0.85، وارتفع الاستدعاء المقاس بمقدار 11 إلى 72 نقطة مئوية عبر الإعدادات الـ11 جميعها. وكانت أكبر قفزة، 70.9 نقطة، من نصيب Gemini 2.5 Pro مع سلسلة التفكير، الذي طابقت أوصافه الوسوم المرجعية دلاليًا لكن نادرًا ما طابقتها لفظيًا — وهي تأرجح يقرأه المؤلفون دليلًا على أن تقييم المطابقة الدقيقة قاس الصياغة بقدر ما قاس القدرة.
+
+## أين تعيش المعايير المرجعية
+
+المعيار المرجعي ليس دائمًا ورقة بحثية. فثلاثة مواضع تحمل الآن معظم القراءة العملية، وتختلف فيما تتيحه للقارئ من فحص.
+
+تُحوّل لوحات الصدارة المعيار المرجعي إلى مقارنة جارية. يُصنّف [GradeBench](/resources/gradebench/) النماذج الرائدة على 464 جوابًا مكتوبًا بخط اليد في مواد STEM من 45 مقررًا جامعيًا مقابل بنود سلّم التقدير التي اختارها المعلّمون فعلًا، ويبلغ أفضل نموذج 57.3% مطابقة دقيقة لسلّم التقدير. ومحور الكلفة أهمّ من الترتيب: فالنموذج المتأخر 0.8 نقطة يكلف نحو سُبع الكلفة لكل ألف جواب. وهو يقيس التصحيح لا التعلّم.
+
+تجيب لوحات صدارة الكواشف عن سؤال مختلف. فـ[RAID leaderboard](/resources/raid-benchmark-leaderboard/) يُصنّف نماذج الكشف عبر المجالات وإعدادات فكّ الترميز والهجمات الخصمية، ومعدل الإيجابيات الحقيقية عند معدل إيجابيات كاذبة 1% هو العمود الذي يهمّ على المستوى المؤسسي، حيث يكون 1% مئات الطلاب.
+
+وُجدت بعض المعايير المرجعية لمقارنة الوصول لا القدرة. فـ[Fab AI](/resources/fab-ai-benchmark-leaderboard/) يُقيّم نماذج التعليم في الدول منخفضة ومتوسطة الدخل عبر التربوية والمهارات الأساسية للقراءة والكتابة وSEND والاستدلال البصري، مع أعمدة السعر وعدد المعاملات والأوزان المفتوحة بجانب الدرجة. ويجعل الانتشار، النماذج الرائدة في التسعينات الدنيا والنماذج مفتوحة الأوزان دون 2 مليار معامل بين 21% و43%، مفاضلة النشر صريحة.
+
+هذا التمييز يستحق الحفظ. فدرجة لوحة الصدارة دعوى عن مجموعة مفردات ثابتة لا عن صف دراسي أبدًا، وهذه الأدوات الثلاث تختلف حول الغرض من قياس التعليم.
 
 ## المفاهيم الخاطئة الشائعة
 

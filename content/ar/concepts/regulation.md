@@ -1,7 +1,7 @@
 ---
 title: تنظيم الذكاء الاصطناعي في التعليم
 created: "2026-10-12T21:35:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
 connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
@@ -43,7 +47,7 @@ connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed
 
 التنظيم هو الطبقة القانونية والسياسية لحوكمة الذكاء الاصطناعي [[governance]]: فهو يضع القواعد والمعايير وآليات الإنفاذ الملزمة التي تترجمها الحوكمة المؤسسية إلى ممارسة. وحيث تكون الحوكمة الإطار الواسع من المعايير والبنى، يوفّر التنظيم القواعد ذات السلطة — من قوانين الذكاء الاصطناعي الوطنية و[[privacy|قوانين حماية البيانات]] إلى سياسات الاستخدام المقبول المؤسسية والإرشادات المهنية. وموضوع متكرر في أبحاث قاعدة المعارف هو أن التنظيم يتأخّر عن نشر الذكاء الاصطناعي، تاركًا المؤسسات ترتجل الحوكمة في الفجوة.
 
-### المشهد التنظيمي
+## المشهد التنظيمي
 
 - **السياسة الحكومية:** يفحص بحث [[educational-policy-ai]] سياسات [[ai-education|تعليم الذكاء الاصطناعي]] الوطنية والإقليمية. وتعالج سياسة [[ai-lifelong-learning-policy|التعلّم مدى الحياة]] والاطلاع على الفجوات التنظيمية، بينما تضع [[ai-uk-higher-education-policy-2026|سياسة التعليم العالي في المملكة المتحدة بشأن الذكاء الاصطناعي]] و[[oecd-digital-education-outlook-2026|منظور OECD للتعليم الرقمي]] المقاربات الوطنية في منظور مقارن ودولي.
 - **الحوكمة المؤسسية:** توثّق [[governance|أطر حوكمة الذكاء الاصطناعي]] و[[genai-policies-higher-ed-computing|تحليل السياسات المؤسسية]] كيف تطوّر الجامعات قواعدها الداخلية للذكاء الاصطناعي، بينما تنظّم [[genai-declaration-frameworks-higher-education|أطر إعلان الذكاء الاصطناعي]] و[[genai-assessment-governance|حوكمة التقويم]] استخدام الذكاء الاصطناعي في الأعمال المقيَّمة. ويجد [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] أن القواعد الداخلية للقطاع هي في معظمها إرشاد لا سياسة ملزمة — نشرت 44 من 50 جامعة أمريكية مبتكرة إرشادات أو مبادئ أو مراكز موارد بينما أطرت 6 فقط صفحتها الرئيسية كـ"سياسة" — مع قيام قواعد المنهج الدراسي التي يضعها المدرّس بالعمل التنظيمي الفعلي في المقررات الفردية. ويقيس استبيان [[watson-rainie-ai-challenge-faculty-survey-2026|Watson وRainie (2026)]] لـ1,057 عضو هيئة تدريس أمريكيًا المدى الذي تقع به القواعد الفعالة دون الطبقة المؤسسية: كتب 87% من المجيبين سياساتهم الخاصة على مستوى المهمة بينما أفاد 48% فقط بإرشادات مؤسسية مكتوبة و35% بقسمية، مقابل استجابة بنيوية رقيقة في القمة — فريق عمل أو مجموعة إشراف في 55% من الحالات لكن ثقافة الذكاء الاصطناعي المُعتمَدة كنتيجة للتعليم العام في 13% فقط.
@@ -52,7 +56,7 @@ connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed
 - **قانون المساواة والتكييف المعقول:** تستطيع قواعد الذكاء الاصطناعي الشمولية المفرطة أن تتصادم مع الواجبات القانونية. يجادل [[wright-transcription-not-generation-2026|Wright (2026)]] بأن المحظورات التي تمنع "[[generative-ai|الذكاء الاصطناعي التوليدي]]" دون تمييز توليد المحتوى عن تحويل الصيغة تشمل أدوات النسخ النصي بالذكاء الاصطناعي وقد تُشرك واجب التكييف المعقول بموجب قانون المساواة البريطاني 2010 وقانون الأمريكيين ذوي الإعاقة الأمريكي وقانون التمييز ضد الإعاقة الأسترالي 1992 — ما يجعل صياغة محظور مسألة تنظيمية لا مسألة نزاهة أكاديمية فحسب (انظر [[legal-issues-and-risks|القضايا القانونية والمخاطر]]). ويُوسّع [[li-genai-assessment-language-equity-2026|Li (2026)]] التصادم نفسه إلى الخلفية اللغوية: قواعد التقويم التي لا تفصل الدعم اللغوي المشروع عن الاستبدال الجوهري تفرض أعباء امتثال منحرفة الفوج على الطلاب الذين يستخدمون الإنجليزية كلغة إضافية، والإطار المصمّم لتصحيح ذلك مدفوع باستدلال التمييز غير المباشر زائد التوقع الإداري القانوني القائل بأن صاحب القرار يستطيع بيان القاعدة المطبَّقة والدليل المعتمد عليه وسبب تناسب النتيجة — وهو المعيار الذي يطبّقه طعن بالمراجعة على قرار إداري.
 - **الامتثال والمسؤولية:** يفحص [[student-regulatory-awareness-genai|وعي الطلاب بالتنظيم]] عمّا إذا كان المتعلّمون يعرفون قواعد الذكاء الاصطناعي ويتبعونها فعلًا، وتستكشف [[dot-framework-survey-2026|أطر تبني التقنية]] كيف تؤثر الاهتمامات التنظيمية والأخلاقية في قرارات التبني.
 
-### فجوة الحوكمة
+## فجوة الحوكمة
 
 توثّق قاعدة المعارف فجوة دائمة بين سرعة نشر الذكاء الاصطناعي ونضج التنظيم. تجادل [[institutional-change-framework-ai|أطر التغيير المؤسسي]] وبحث التنظيم بـ[[governance|الحوكمة]] الاستباقية بدلًا من السياسة التفاعلية. وتُبرز دراسات الاستعراضات الشاملة لـ[[raza-farooq-aied-review-2020-2025|AIED]] أن التنظيم غير متساوٍ عبر الولايات القضائية والمراحل التعليمية، ما يخلق بيئة تشغيل غير متسقة للمدرّسين والطلاب والمطوّرين.
 
@@ -62,7 +66,7 @@ connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed
 
 ويمنح تدقيق سياسات خصوصية [[edtech-platform|منصات EdTech]] تلك التبعية مثيلًا ملموسًا. عبر 48 منصة، كان جمع البيانات مفصحًا عنه بمقارنة جيدة (متوسط 1.81 من 2) بينما تأخّر الإفصاح عن الذكاء الاصطناعي (0.90) والمسؤولية (1.07)، ولم يُقدّم 33% أي إفصاح ذي معنى عن الذكاء الاصطناعي رغم سمات ذكاء اصطناعي مرئية؛ وحصلت منصات [[k-12]] الأميركية على أعلى تقييم عام (M = 7.47 مقابل 5.50 للتعليم العالي [[higher-ed|الأميركي]]) ومع ذلك لم تكسب شيئًا في الإفصاح عن الذكاء الاصطناعي أو المسؤولية — فالتنظيم، كما يستنتج المؤلفان، لا يرفع إلا ما يُسمّيه، لذا على القواعد القابلة للإنفاذ ومعايير الشراء لا على الالتزامات الطوعية أن تجعل [[privacy|الخصوصية]] شرطًا للنشر ([[edtech-privacy-deferral-2026|Nair وGreenstadt، 2026]]).
 
-### صلات
+## صلات
 
 يتصل التنظيم بـ[[educational-policy-ai]] و[[governance]] و[[ethics]] و[[privacy]] و[[pedagogical-safety]] و[[academic-integrity]]. وهو الطبقة المؤسسية التي تشكّل طريقة عمل جميع ممارسات تعليم الذكاء الاصطناعي الأخرى. والتنظيم يقيد ويمكّن معًا: فهو يضع حدود استخدام الذكاء الاصطناعي المقبول مع خلق الشروط — عبر [[ai-literacy|ثقافة الذكاء الاصطناعي]] وتوقعات الاستخدام المسؤول — للتكامل [[equity-in-ai-education|المنصف]] والآمن.
 

@@ -6,8 +6,8 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T23:00:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [intelligent-tutoring, student-modeling, knowledge-tracing, socratic-method, scaffolding, adaptive-learning, llm-training-and-fine-tuning, metacognition, rct, learning-analytics, educational-policy-ai, ai-technologies]
 connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, lee-learner-question-types-ai-education-2026, bert-discourse-english-teaching-2026, studychat-student-dialogues-chatgpt-ai-course-2026, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-generated-interactive-fiction-education-2026, zerkouk-comprehensive-review-its-2025, shap-llm-rationales-teaching-quality-assessment, distilling-self-explaining-lm-learning-analytics-2026, auto-marking-short-answer-science-2026, pecuchova-automated-grading-open-ended-genai-2026, llm-automated-coding-teacher-pck-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, bloom-classifier-ai-assisted-questions-2026, srjudge-knowledge-concept-tagging-2026, nlp-reading-lists-dental-education-2026, hans-handwritten-answer-sheet-parsing-2026]
@@ -36,11 +40,11 @@ connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, l
 
 ## مقدمة
 
-### ما تفعله معالجة اللغة الطبيعية التعليمية
+## ما تفعله معالجة اللغة الطبيعية التعليمية
 
 معالجة اللغة الطبيعية في التعليم تُطبّق مناهج حاسوبية على لغة التعليم والتعلم — مقالات الطلاب واستجاباتهم ومنشورات مناقشاتهم وتغذيتهم الراجعة والنص التعليمي. وسّعت [[llm|النماذج اللغوية الكبيرة]] ما يمكن تحليله آلياً بشكل هائل، مُتيحةً فهماً دقيقاً للغة الطلاب كان غير عملي على نطاق واسع سابقاً.
 
-### التطبيقات الموثَّقة في قاعدة المعارف
+## التطبيقات الموثَّقة في قاعدة المعارف
 
 - **تحليل لغة الطالب.** [[llm-sentiment-analysis-education-research]] يُطبّق تحليل التأثر القائم على النماذج اللغوية الكبيرة على البحث التعليمي، مستخلصاً إشارات وجدانية وتقييمية من نص الطلاب على نطاق واسع، مُغذياً [[learning-analytics]] و[[affective-computing]].
 - **التنبؤ والقياس.** يستخدم [[llm-item-difficulty-prediction]] و[[vocabulary-difficulty-prediction]] نماذج اللغة لتقدير صعوبة البند والنص — مدخلات جوهرية لـ[[educational-measurement]] و[[adaptive-learning]] ونماذج [[item-response-theory]].
@@ -54,7 +58,7 @@ connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, l
 - **نمذجة الدرس كاملاً تتفوق على تصنيف مستوى العبارة.** رفع تصحيح نصوص دروس كاملة بدل عبارات معزولة كشف سلاسل الاستدلال بمقدار 14.2 نقطة مئوية فوق خطوط أساس تمييزية على أحدث طراز، وأضافت إضافة هدف تبايني محيّد للّهجة خفضاً في السلبيات الكاذبة للإنجليزية العامية الأمريكية الأفريقية بمقدار 18.4 نقطة ([[nspa-neuro-symbolic-pedagogical-alignment-2026|Fang and Liu, 2026]]).
 - **التغذية الراجعة والتصنيف.** يُوفر [[teaching-feedback-classification-benchmark]] [[benchmark]] لتصنيف التغذية الراجعة التعليمية، مُقدِّماً أبحاث [[feedback|حلقة التغذية الراجعة]] و[[llm-training-and-fine-tuning]].
 - **توسيع معالجة اللغة الطبيعية على تعليقات التقييم دون الوصول إلى الاستخدام.** مراجعة نطاق بـPRISMA-ScR وخريطة دليل لـ421 دراسة تُطبّق معالجة اللغة الطبيعية على تقييم الطلاب المفتوح النهاية للتعليم (2015–2026) تجد أن تحليل التأثر ما زال المهمة السائدة (300/421، 71.3%) وعدم استمرارية في قابلية التنفيذ بمقدار 49.7 نقطة: أظهرت 258 دراسة (61.3%) مخرجاً قابلاً للاستخدام لكن 49 فقط (11.6%) وصلت إلى تقييم من مستخدم مقصود، مع مقياس إنصاف نظامي في 8 دراسات فقط (1.9%) وتحقق خارجي في 33 (7.8%) ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
-- **التفسيرات غير قابلة للتبادل مع الإسنادات.** [[shap-llm-rationales-teaching-quality-assessment|Bueno et al. (2026)]] وجدوا أن إسنادات SHAP حددت الجمل التي دفعت درجات المعيار المرجعي بموثوقية وانتقلت عبر عائلات النماذج، في حين مارست التبريرات المُولَّدة بالنماذج اللغوية الكبيرة تأثيراً محدوداً وغير متسق — مع أن نماذج PLM المُضبوطة تفوقت على النماذج اللغوية الكبيرة المُحفَّزة في الدقة.
+- **التفسيرات غير قابلة للتبادل مع الإسنادات.** [[shap-llm-rationales-teaching-quality-assessment|Bueno et al. (2026)]] وجدوا أن إسنادات SHAP حددت الجمل التي دفعت درجات [[rubrics|سلّم التقدير]] بموثوقية وانتقلت عبر عائلات النماذج، في حين مارست التبريرات المُولَّدة بالنماذج اللغوية الكبيرة تأثيراً محدوداً وغير متسق — مع أن نماذج PLM المُضبوطة تفوقت على النماذج اللغوية الكبيرة المُحفَّزة في الدقة.
 - **تقويم الإجابة القصيرة في العلوم.** تُظهر [[meta-analysis-systematic-review|مراجعة النطاق]] لمورلي وزملائه للتصحيح الآلي القائم على المُحوِّلات لأسئلة العلوم قصيرة الإجابة (2017–أوائل 2024) أن نماذج عائلة BERT صارت الحصان العام السائد للمجال في [[automated-assessment|تصحيح النص الحر]] قبل أن تُعتمد [[llm|النماذج اللغوية الكبيرة]] الأكبر عبر [[prompt-engineering|التحفيز]]، وأن النماذج المعزَّزة بمعرفة المجال — تدريب مسبق إضافي، أو بيانات معايير مرجعية أو كتب مدرسية، أو تعلُّم فوقي — تفوقت باستمرار على غيرها ([[auto-marking-short-answer-science-2026]]).
 - **الحساسية للسياق مقابل المطابقة المرجعية في تصحيح الاستجابة المفتوحة.** بمعايرة أحد عشر نموذج [[generative-ai|ذكاء اصطناعي توليدي]] ونموذج تضمين جمل على 1,885 جواباً مفتوحاً في هندسة البرمجيات، يُظهر [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] أن [[llm|النماذج اللغوية الكبيرة]] الحساسة للسياق (GPTo1 الأفضل، اتفاق بشري شبه مثالي) تتفوق على النماذج المرجعية القائمة على تشابه جيب التمام (BERT، RoBERTa، T5، USE)، التي صنّفت خطأً بشكل منهجي الاستجابات الصحيحة المختلفة الصياغة. كشف تحليل NLI أن كثيراً من الأجوبة الصحيحة دلالياً وقعت في فئة *التناقض* نسبةً للأجوبة المرجعية — دليل على أن تصحيح معالجة اللغة الطبيعية التعليمية يجب أن يستوعب صياغات الطلاب القصيرة والمتنوعة وبكلماتهم بدل الموائمة المرجعية الجامدة. يتشحذ ذلك التباين بشأن معرفة المدرِّس: بتشفير استجابات 268 مدرس رياضيات أمريكياً في [[k-12|المرحلة المتوسطة]] المفتوحة النهاية، توقف كلٌّ من المُرمِّزات التقليدية (RoBERTa، Sentence-BERT) ونموذج GPT-4o أحادي التحفيز الساذج بدرجة أدنى بكثير من المشفّرين البشريين في معرفة المحتوى [[pedagogy|التربوي]] (PCK)، في حين بلغ تجهيز نموذج لغوي كبير ثلاثي الوكلاء الذي أضاف نقاط توضيح تكراراً إلى *دليل التشفير البشري* اتفاقاً جوهرياً في PCK واتفاقاً شبه بشري في بنود معرفة المحتوى الأكثر قابلية للمعالجة بكثير — والموثوقية آتية من صقل التعليمات مقابل الخلافات الحقيقية، لا من نموذج أكبر، مع بقاء بنود الاستدلال التعليمي الأكثر تعقيداً راغبةً في [[human-in-the-loop-ai|مراجعة الخبراء]] ([[llm-automated-coding-teacher-pck-2026|Copur-Gencturk et al., 2026]]).
 - **تصنيف الأسئلة المولَّدة من المتعلّمين.** يُصنّف [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang (2026)]] 434 سؤالاً أصيلاً من متعلّمين من 11 طالباً في تقنية المعلومات عبر 12 مقرراً في ثلاثة أدوار تعليمية [[constructivist]] — ناقل معرفة، ومُيسِّر، ومتعلّم مشارك — ويعايرون أربعة مُحوِّلات على المهمة. تصدّر DeBERTa بدقة 86.36% (F1 86.52%) بدقة 96.67% في أسئلة ناقل المعرفة الواقعية، لكنه بدقة 78.79% فقط في استفسارات المُيسِّر؛ وبلغ BERT المُضبَّط أفضل استرجاع للمتعلّم المشارك (92.00%) بدقة أدنى. تعكس النتيجة نمط المجال المتكرر أن الدرجات الإجمالية القوية تُقنّع تمييزاً ضعيفاً في الفئات الأعلى رتبةً: التداخل المفاهيمي بين الأدوار، وقصد المتعلّم الملتبس، والصياغة التقنية الخاصة بالمجال المقروءة خطأً كعمق معرفي كلها تهزم السمات المعجمية السطحية، مُجادلةً لتضمينات واعية بالسياق وإشارات حوار متعدد الأدوار وسمات حساسة للقصد ([[cross-dataset-bloom-question-classification]]، [[llm-educational-question-cognitive-depth]]).
@@ -66,7 +70,7 @@ connected_articles: [embedding-similarity-clustering-handwritten-physics-2026, l
 
 - **أمانة الكيانات في نصوص النسخ الآلي مسألة منفصلة عن الدقة المعجمية.** بمعايرة خمسة أنظمة تعرّف على الكلام مقابل نص مرجعي بشري، يُبلّغ [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] عن أول دليل في قاعدة المعارف على أمانة الكيانات في النسخ الآلي والتعرّف على الكيانات المسماة: فتراوحت معدلات خطأ الكلمات من 2.43% (TurboScribe) إلى 15.32% (Vosk)، في حين بلغت دقة ترميز نوع الكيان الذهبي بسبع فئات 0.805 لدى GPT-5.5 (κ = .726) مقابل 0.634 لدى spaCy (κ = .488). ولا يستطيع معدل خطأ الكلمات المجمَّع وحده أن يشهد بأن بنية الكيانات نجت من النسخ.
 
-### الارتباط بالتدريس والقياس
+## الارتباط بالتدريس والقياس
 
 تُسنِد معالجة اللغة الطبيعية التعليمية كلاً من تحليل لغة المتعلّم ([[student-modeling]]، [[knowledge-tracing]]) وتوليد المحتوى التعليمي التكيفي ([[intelligent-tutoring]]، [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] يُظهر توليد المحتوى المدفوع بمعالجة اللغة الطبيعية للتعلم، في حين يضع [[zerkouk-comprehensive-review-its-2025]] معالجة اللغة الطبيعية داخل مناظر [[intelligent-tutoring]] الأوسع. مع نمو التحليل القائم على النماذج اللغوية الكبيرة، تُهم أطر [[rct]] و[[research-methods-aied]] للتحقق من أن البصائر المستخلصة من معالجة اللغة الطبيعية تُحسّن التعلم حقاً.
 

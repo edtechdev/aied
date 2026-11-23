@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: البنائية
 created: "2026-10-12T15:26:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
 connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
@@ -103,7 +107,7 @@ connected_articles: [lee-learner-question-types-ai-education-2026, mishra-contro
 - **الصراع البنّاء** — وكلاء ذكاء اصطناعي خصوم يتحدّون تصميم متعلّم أو استدلاله، دافعين إلى إعادة النظر وبناء أعمق للبدائل، على تقاليد التدريس السقراطي.([[ai-agents-constructive-conflict-design-education-2026]])
 
 - **المعارضة المحاكاة ليست معارضة.** فالموقف المضاد الذي يُمكن التصريح به عند الطلب لكنه لا يقاوم أبدًا يُتمرّن على رقصة الحوار مع حجب ما يجعله فعّالًا: فلا تجسّد له ولا حصّة ولا تعرّض للعاقبة، فبخلاف الآخر البشري لا يوفّر طريقًا إلى الإصلاح ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
-- **التغذية الراجعة الداخلية عبر المقارنة** — جعل المتعلّمين يقارنون عملهم هم بنماذج مولَّدة بالذكاء الاصطناعي حتى يكون فعل المقارنة بذاته مُنتجًا للتعلّم.([[ai-internal-feedback-evaluative-judgments]])
+- **التغذية الراجعة الداخلية عبر المقارنة** — جعل المتعلّمين يقارنون عملهم هم بـ[[rubrics|نماذج]] مولَّدة بالذكاء الاصطناعي حتى يكون فعل المقارنة بذاته مُنتجًا للتعلّم.([[ai-internal-feedback-evaluative-judgments]])
 - **المطالبة الواعية بأنواع الأسئلة** — تصنيف أسئلة المتعلّمين في أدوار بنائية حتى يستطيع النظام أن يُرقّي طالبًا متعمَّدًا من طلب المعلومات نحو الاستقصاء الاستكشافي الحواري بدل أن يُرافق أيّ عمق معرفي يُوحِي به السؤال. ولأن نيّة المُيسِّر والمتعلّم المشارك تبقى قابلة للالتباس على المصنّفات الآلية، يُبقي هذا التصميم إنسانًا يتحقّق من التصنيف قبل أن يقود [[feedback|التغذية الراجعة]] أو [[scaffolding|السقالات]].([[lee-learner-question-types-ai-education-2026]])
 - **المجتمع كمعيار تقييمي** — يصمّم المتعلّمون شيئًا حقيقيًا لمجتمعهم باستخدام الذكاء الاصطناعي كمورد تصميمي، بينما يعمل معرفة المجتمع وممارسوه كالمعيار الذي يحكم على النتيجة، تاركًا مجالًا للقيد أو الرفض أو عدم الاستخدام الاستراتيجي حيث يقتضيه الانخراط النقدي.([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]])
 

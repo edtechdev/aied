@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [mglearn]
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
 connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
+connected_faqs: [ai-support-reading-comprehension]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -68,7 +73,7 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai
 
 **تعليم القواعد بالذكاء الاصطناعي التوليدي يعمل عبر التنقيح لا التعليق.** في شبه تجربة مدتها عشرة أسابيع مع 88 طالبًا إثيوبيًا في الإنجليزية كلغة أجنبية، رفعت دورات المسوّدة–المطالبة–التأمل–التنقيح القواعد (η² = 0.499) والكتابة عمومًا، وارتفعت درجات المحتوى رغم أن المطالبة منعت التغذية الراجعة على المحتوى ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa وAbo، 2026]]).
 
-**الكتابة المدعومة بالذكاء الاصطناعي التوليدي في المرحلة الابتدائية.** أدار [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] برنامج كتابة رأي مدته تسعة أسابيع مع 301 متعلّمًا في الصفين الخامس والسادس في شرق الصين، مع تعيين ثمانية صفوف كاملة عشوائيًا للبرنامج أو للتعليم التقليدي. ورفع البرنامج ذات كتابة L2 المثالية لدى المتعلّمين (فرق المتوسط المعدّل 0.20) والطَفْو الأكاديمي (0.17)، ورفع الانخراط السلوكي والانفعالي، لكنه لم يُحرّك عقلية النمو ولا الانخراط المعرفي أو المعرفي فيما وراء المعرفة، ولا تنظيم المقال المُقيَّم بمُخطّط سُلّمي — ومن أبعاد الكتابة تحسّن استخدام اللغة وحده. وهناك خاصيتان في التصميم تهمّان معلّمي اللغات: فقد كُوّنت المطالبة صراحةً، عبر مصرف مقسَّم من المطالبات مرتبط بأهداف كتابية محددة، واستُخدمت تغذية الذكاء الاصطناعي التوليدي الراجعة إلى جانب المقارنة بتغذية المعلّم الراجعة والتنقيح المتكرر. واستندت مكاسب التأليف التي أبلغ عنها المتعلّمون إلى تلك البنية التعليمية لا إلى الأداة بذاتها، ويسمّي المؤلفون [[metacognition|المراقبة الذاتية]] المنقوصة والاستراتيجيات الموجَّة للاختصار كمخاطر قائمة.
+**الكتابة المدعومة بالذكاء الاصطناعي التوليدي في المرحلة الابتدائية.** أدار [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] برنامج كتابة رأي مدته تسعة أسابيع مع 301 متعلّمًا في الصفين الخامس والسادس في شرق الصين، مع تعيين ثمانية صفوف كاملة عشوائيًا للبرنامج أو للتعليم التقليدي. ورفع البرنامج ذات كتابة L2 المثالية لدى المتعلّمين (فرق المتوسط المعدّل 0.20) والطَفْو الأكاديمي (0.17)، ورفع الانخراط السلوكي والانفعالي، لكنه لم يُحرّك عقلية النمو ولا الانخراط المعرفي أو المعرفي فيما وراء المعرفة، ولا تنظيم المقال المُقيَّم بـ[[rubrics|سلّم التقدير]] — ومن أبعاد الكتابة تحسّن استخدام اللغة وحده. وهناك خاصيتان في التصميم تهمّان معلّمي اللغات: فقد كُوّنت المطالبة صراحةً، عبر مصرف مقسَّم من المطالبات مرتبط بأهداف كتابية محددة، واستُخدمت تغذية الذكاء الاصطناعي التوليدي الراجعة إلى جانب المقارنة بتغذية المعلّم الراجعة والتنقيح المتكرر. واستندت مكاسب التأليف التي أبلغ عنها المتعلّمون إلى تلك البنية التعليمية لا إلى الأداة بذاتها، ويسمّي المؤلفون [[metacognition|المراقبة الذاتية]] المنقوصة والاستراتيجيات الموجَّة للاختصار كمخاطر قائمة.
 
 ## الآثار المترتبة على معلّمي اللغات
 
@@ -95,6 +100,8 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai
 - **الأدلة على مكاسب التحدث بالمحادثة الآلية غير متساوية بحسب السمة.** في التوليف المنهجي الوحيد للسؤال، حسّنت عشر دراسات من 2021 إلى 2024 المدى والوضوح النطقي على نحو أكثر ثقة، بينما فُحص الاتساق مرة واحدة والتفاعل لم يُفحص تقريبًا؛ وأبلغت أربع من العشر عن درجة كلية واحدة ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
 **يمكن نقل طلاب الترجمة بعيدًا عن التصحيح السطحي.** في مقرر ترجمة أخبار، وجد [[xian-process-visualization-feedback-news-translation-2026|Xian وآخرون (2026)]] أن استشارة محرّكات البحث ارتفعت من وسيط 15.6% إلى 27.7% من زمن الجلسة (p = 0.020، مصحَّح بـHolm)، والبحث القائم على المعرفة من 7.2% إلى 28.8% (p = 0.010). وانخفض استخدام الترجمة الآلية من 28.5% إلى 5.1% دون بلوغ الدلالة (p = 0.338)، وبقي استخدام الذكاء الاصطناعي التفاعلي عند وسيط صفر. وكانت الرافعة إظهار المتعلّمين عمليتهم الخاصة بدل حظر أداة.
+
+ووجد توليف Zhang وAubrey وWu وChiu لـ48 دراسة مضبوطة (N = 5196) أن منفعة الذكاء الاصطناعي التوليدي تتوقف على هيئة الإعداد لا على مجرّد وجوده. فاستخدامه في التغذية الراجعة والتقويم أنتج أكبر أثر (g = 1.15) مقابل g = 0.28 للإدماج التعليمي، وتفوّقت الأنماط الموجَّهة من المتعلّم (g = 0.92) على الأنماط المستقلّة (g = 0.34). ولم تُظهر القراءة أثرًا دالًّا، وهبطت العلامة الرئيسيّة للتحدّث g = 1.48 إلى g = 0.65 بعد إزالة ثلاث قيم متطرّفة ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 ## مفاهيم خاطئة شائعة
 

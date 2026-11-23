@@ -11,8 +11,8 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T14:22:51-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, student-experience, learner-identity, agency, student-ai-interaction, cognitive-offloading, self-regulated-learning, help-seeking, metacognition, motivation, self-efficacy, student-engagement, prior-knowledge, student-modeling, knowledge-tracing, simulating-students, ai-literacy, equity-in-ai-education, well-being, misconceptions, stakeholders, assessment]
 connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-perceptions-ai-study-productivity-2026, student-llm-interaction-taxonomy-review-2026, student-ai-conversations-cognitive-engagement-2026, layer-sensitive-cognitive-offloading-writing-2026, genai-performance-vs-learning, shaw-nave-cognitive-surrender-2026, metacognitively-discordant-completion-genai-2026, verification-quality-reliance-calibration-genai-2026, simulating-students-llm-review-2026, stanbkt-bayesian-knowledge-tracing, demographic-signals-llm-student-assessment-2026, ai-literacy-learning-engagement-psych-capital-2026, genai-student-experiences-uk-he-survey-2026, mulisa-students-genai-integrity-perspectives-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, harerimana-remote-proctoring-nursing-scoping-2026]
@@ -85,16 +89,6 @@ connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-
 
 اقرأ مع [[stakeholders]] للناس حول المتعلّم، ومع [[pedagogy]] و[[learning-design]] لما يفعله المدرِّسون بهذه النتائج. [[assessment]] يحدد أي قدرات المتعلّم تُصير مرئيةً أصلاً؛ و[[limitations-in-aied-research]] يشرح لماذا كثير من دليل الجانب الخاص بالمتعلّمين قصير الأمد ومُبلَّغ ذاتياً ومُجرى على عينات ملائمة؛ و[[misconceptions]] هي نقطة الدخول المعتادة للمتعلّمين أنفسهم.
 
-## المفاهيم الخاطئة الشائعة
-
-**«المتعلّمون والطلاب جماعة واحدة.»** ليسا قابلين للتبادل على نحو مفيد: *الطلاب* يسمّي دورًا مؤسسيًا، و*المتعلّمون* يسمّون نشاطًا، ويمكن أن يكون الشخص أحدهما دون الآخر — فالموظّف في [[professional-training|التدريب في مكان العمل]] متعلّم لا طالب. والخلط بينهما يضيّق قاعدة الأدلة إلى من لديهم سجلات تسجيل، ويُسقط بصمت البالغين والمهنيين و[[self-directed-learning|المتعلّمين ذاتيًا]] الذين يتناولهم بحث [[lifelong-learning|التعلّم مدى الحياة]].
-
-**«يُبلّغ المتعلّمون بأن الذكاء الاصطناعي يحسّن فهمهم، فهو يوفّر وقتهم.»** ينفصل الادعاءان في بيانات المسح. ففي بحث إنتاجية الدراسة، قال **92.3%** إن الذكاء الاصطناعي حسّن فهمهم، بينما قال **38.5%** فقط إنه قلّل وقت دراستهم الكلي. والرقم الرئيسي يصف الفهم المحسوس؛ والفجوة تحته تبيّن أن تحسّن الفهم واستعادة الوقت نتيجتان مختلفتان، وأن الادعاء الشائع «الذكاء الاصطناعي يوفّر الوقت» تحمله النسبة الأصغر.
-
-**«استخدام الطلاب للذكاء الاصطناعي في الاختصارات خلل أخلاقي.»** تتعامل قاعدة المعارف مع الجذب نحو أقل جهد كمشكلة تصميم وسياسة لا كمشكلة شخصية — فالطلاب يصفونه بكلماتهم، وأدبيات [[reducing-ai-misuse|إساءة الاستخدام]] و[[academic-integrity|النزاهة]] تضع الرافعة في تصميم المهمة والبيئة. وتأطيره أخلاقيًا لا يفسّر شيئًا في سبب اختلاف سلوك الطالب نفسه بين مقرّرين.
-
-**«حين يُقدّم ادّعاء سوء سلوك، تكون الأدلة موجودة.»** يُظهر تحليل ملفات القضايا لـ 1,162 ادّعاءً بالذكاء الاصطناعي التوليدي ما يواجهه المتعلّمون فعليًا حين تصل الاستجابة المؤسسية، وجانب الطالب في إجراءات سوء السلوك أرقّ بكثير في الأدبيات من جانب الطالب في الاستخدام. وصفحة عن المتعلّمين توثّق استخدامهم فقط دون تعرّضهم للاتهام وثّقت نصف التجربة.
-
 ## إرشادات عملية
 
 **للمدرّسين**
@@ -112,3 +106,13 @@ connected_articles: [uneven-impact-generative-ai-student-learning-2026, student-
 
 - أبقِ تمييز المتعلّم/الطالب صريحًا في المعاينة، وأبلغ عمّن يُستبعد بها.
 - ادرس المتَّهم كما تدرس المستخدم؛ فجانب الإجراءات هو النصف الرقيق من هذه الأدبيات.
+
+## المفاهيم الخاطئة الشائعة
+
+**«المتعلّمون والطلاب جماعة واحدة.»** ليسا قابلين للتبادل على نحو مفيد: *الطلاب* يسمّي دورًا مؤسسيًا، و*المتعلّمون* يسمّون نشاطًا، ويمكن أن يكون الشخص أحدهما دون الآخر — فالموظّف في [[professional-training|التدريب في مكان العمل]] متعلّم لا طالب. والخلط بينهما يضيّق قاعدة الأدلة إلى من لديهم سجلات تسجيل، ويُسقط بصمت البالغين والمهنيين و[[self-directed-learning|المتعلّمين ذاتيًا]] الذين يتناولهم بحث [[lifelong-learning|التعلّم مدى الحياة]].
+
+**«يُبلّغ المتعلّمون بأن الذكاء الاصطناعي يحسّن فهمهم، فهو يوفّر وقتهم.»** ينفصل الادعاءان في بيانات المسح. ففي بحث إنتاجية الدراسة، قال **92.3%** إن الذكاء الاصطناعي حسّن فهمهم، بينما قال **38.5%** فقط إنه قلّل وقت دراستهم الكلي. والرقم الرئيسي يصف الفهم المحسوس؛ والفجوة تحته تبيّن أن تحسّن الفهم واستعادة الوقت نتيجتان مختلفتان، وأن الادعاء الشائع «الذكاء الاصطناعي يوفّر الوقت» تحمله النسبة الأصغر.
+
+**«استخدام الطلاب للذكاء الاصطناعي في الاختصارات خلل أخلاقي.»** تتعامل قاعدة المعارف مع الجذب نحو أقل جهد كمشكلة تصميم وسياسة لا كمشكلة شخصية — فالطلاب يصفونه بكلماتهم، وأدبيات [[reducing-ai-misuse|إساءة الاستخدام]] و[[academic-integrity|النزاهة]] تضع الرافعة في تصميم المهمة والبيئة. وتأطيره أخلاقيًا لا يفسّر شيئًا في سبب اختلاف سلوك الطالب نفسه بين مقرّرين.
+
+**«حين يُقدّم ادّعاء سوء سلوك، تكون الأدلة موجودة.»** يُظهر تحليل ملفات القضايا لـ 1,162 ادّعاءً بالذكاء الاصطناعي التوليدي ما يواجهه المتعلّمون فعليًا حين تصل الاستجابة المؤسسية، وجانب الطالب في إجراءات سوء السلوك أرقّ بكثير في الأدبيات من جانب الطالب في الاستخدام. وصفحة عن المتعلّمين توثّق استخدامهم فقط دون تعرّضهم للاتهام وثّقت نصف التجربة.

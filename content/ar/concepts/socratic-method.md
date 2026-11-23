@@ -11,8 +11,8 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
 connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
@@ -83,6 +87,7 @@ connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-s
 - الحوار السقراطي مجهد؛ وقد يفضّل الطلاب الأجوبة المباشرة للكفاءة
 - لا يستطيع روبوت المحادثة تقديم الدعم العلائقي لمُعلّم بشري
 - قد يتعثر بعض الطلاب في حلقات سقراطية دون حل
+- قد يختلف التسليم عمّا يحدده التصميم. في مقرر للغة C++، كان البند الذي يسأل عمّا إذا كان روبوت المحادثة قد طرح أسئلة تأملية أو تطبيقية هو الأدنى والأكثر تباينًا في الاستبيان عند 3.86 من 5 (بانحراف معياري 1.24)، وهو ما يقرأه المؤلفون بوصف تسليم غير متسق لما سمّته مطالبة النظام ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware and Jiang (2026)]]).
 
 ### نتيجة مضادة: الوصول غير المقيَّد يمكن أن يتفوق على الأنماط المقيَّدة
 

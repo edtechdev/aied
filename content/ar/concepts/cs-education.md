@@ -9,8 +9,8 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-source_updated: "2026-11-07T12:15:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_of: concepts/cs-education
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
 connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
@@ -66,6 +70,7 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 - **يعتمد التبني على الواجب لا على المجال الفرعي.** عبر سبعة واجبات و211 طالبًا، قاس [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] استخدام نماذج اللغة الكبيرة من 89.6% في الخوارزميات إلى 15.2% في هندسة البرمجيات، منسوبًا الفارق إلى تعقيد الواجب وقابلية التحقق والسقالة لا إلى الموضوع ذاته.
 
 - **يمكن تقسيم التغذية الراجعة على مراحل بحيث يبقى التشخيص مخفيًا.** يفصل [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] تشخيص مخطط قاعدة بيانات طالب المرتبط بالمنتج عن مسار إصداره، مع تأليف المربّين للمراحل؛ وفي 383 حلقة بلغت نسبة التغذية الراجعة التي وصلت إلى مستواها المستهدف 71.1%.
+- **سبعة عشر نوعًا من أخطاء المتطلبات، مُعدّة عبر 211 فريقًا.** تصدّت أخطاء الأولوية (81% من فرق البكالوريوس)، ولاقت واحدة من مطالبات GenAI بلا أمثلة أو تفوقت على الفرق في النطاق وصيغة القصة والأولويات والجهد ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
 
 ### طرائق تدريس البرمجة: من الكتل إلى التعلم المُتجسّد والقائم على الألعاب
 
@@ -114,6 +119,7 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 ### الإنصاف والثقافة ومن يدخل مجال الحاسوب
 
 - **توسيع المشاركة:** توثّق [[suacode-african-students-motivations|SuaCode]] دوافع البرمجة عبر الهواتف الذكية بين الطلاب الأفارقة (أقل من 1% من خريجي المرحلة الثانوية يملكون مهارات برمجية أساسية)، مُفيدةً مقرّرات MOOC الواسعة المدعومة بالذكاء الاصطناعي في [[equity-in-ai-education|السياقات محدودة الموارد]].
+- **بوابات خالية من الذكاء الاصطناعي، وأعمال تبدأ بالذكاء الاصطناعي.** أجرى [[ai-free-gates-engineering-students-india-2026|Goutham and Gu (2026)]] مقابلات مع 23 طالب هندسة هنديًا: استخدم الجميع عدا واحد الذكاء الاصطناعي في فرز التوظيف الذي يستبعده بينما يشترطه أصحاب العمل، لذا فالدرجات المصفّاة تُثبت مقدارًا أقل.
 - **الاختلاف العصبي والتعاون:** يُفيد [[neurodivergent-computing-students|طلاب الحاسوب ذوو الاختلاف العصبي]] بانزعاجهم من هياكل التعاون الغامضة؛ فالمهام المُهيكلة والفرق الأصغر الثابتة والأدوار الصريحة تُحسّن [[accessibility]] — دروس تصميمية لأدوات الذكاء الاصطناعي الداخلة إلى صفوف الحاسوب.
 - **تتشكّل الأخلاقيات المُدركة بالثقافة:** حكم [[cross-cultural-student-perceptions-genai-computing|طلاب الحاسوب الكنديون مقابل نظراؤهم الكوريون الجنوبيون]] على ممارسات البرمجة بمساعدة الذكاء الاصطناعي المتطابقة حكمًا مختلفًا رغم سياسات متطابقة وظيفيًا — فتوحيد السياسات لا يُنتج توحيد الإدراك، وهو مصدر قلق بشأن [[academic-integrity]] و[[equity-in-ai-education]].
 - **[[explainable-ai|الشفافية]] في التعاون:** يجد [[student-perception-ai-use-collaboration|Graf et al.]] أن اعتقادات الشركاء غير المتوافقة حول استخدام بعضهم للذكاء الاصطناعي تتنبأ بدرجات مشروع أدنى، خصوصًا للطلاب الأقل أداءً — فقد تكون آليات الشفافية (الإفصاحات والسجلات المشتركة) ضرورية في البرمجة التعاونية.
@@ -140,12 +146,11 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 - **هيّئ التعاون لجميع المتعلّمين.** تدعم الفرق الأصغر الثابتة والأدوار الصريحة وشفافية استخدام الذكاء الاصطناعي الطلاب [[neurodiversity|ذوي الاختلاف العصبي]] والتعاون العادل، خصوصًا حيث تخفض الاعتقادات غير المتوافقة حول استخدام الذكاء الاصطناعي درجات المشروع.
 
 - **تفسيرات تكيّفية لنماذج اللغة الكبيرة لأخطاء البرمجة (2026):** وجدت دراسة جماعية (N=103) أن رسائل الأخطاء التي تعيد صياغتها نماذج اللغة الكبيرة تُحسّن القابلية للقراءة، لكن أداء التنقيح الموضوعي يعتمد على مطابقة أسلوب التفسير (عملي مقابل احتمالي) لمهارة المبرمج — نظرة سقالة للبرمجة بمساعدة الذكاء الاصطناعي ([[llm-adaptive-programming-error-explanations-2026]]).
-
 - **الإشراف مسألة ملاءمة لا صحة (2026):** بترميز 962 تبادلًا بين الطالب والذكاء الاصطناعي من 145 طالبًا في السنة الأولى لهندسة البرمجيات، وجد [[novice-se-students-oversight-genai-2026|Shakiba and Chaffey (2026)]] أن 74.4% من التدخلات سمّت مشكلات ملاءمة مقابل 16.9% سمّت مشكلات صحة، وأن 51.0% من الاستجابات عدّلت المخرَج لا المطالبة.
 
 - **«الاتفاق على الشيفرة يعني أن المصحِّح يقرأ الشيفرة.»** اتفق محكّمان من المدرّسين في المعيار المرجعي بنسبة **0.815** على أجوبة C++: تجاوزهما **أربعة** نماذج بفاصل يزيد على 100% من ذلك السقف، وهبط **أربعة عشر** دونها إلى **33%**. وفي مهمة الشيفرة نفسها، رفعت ملاحظة تطلب الدرجة الكاملة درجة Qwen3 235B بمقدار **83.2% من السلّم**، ومنح سبعة نماذج في المنظومة درجات لأجوبة فارغة، لذا فإن [[porcaro-ai-grading-benchmark-2026|تمريرة تصحيح على شيفرة الطلاب تحتاج اختبارات فشل إلى جانب رقم الاتفاق]].
 
-- **«الأثر هو نفسه في كل مرحلة من المقرر.»** فقد كبر مع العمل: على **60 برنامج Java كاملًا** مصحّحًا بسلّم من **14 مستوى**، كان أثر التسمية **2.8 ضعف** حجمه في الإجابات القصيرة على GPT-4.1-mini و**2.4 ضعف** على Qwen، وإنما **0.4 ضعف** فقط على Gemini. فـ[[porcaro-ai-grader-reliability-2026|المهمة والسلّم جزء من ما يقيسه الأثر]]، لذا فإن حجمًا جرى التحقق منه على إجابات قصيرة لا ينتقل إلى البرامج.
+- **«الأثر هو نفسه في كل مرحلة من المقرر.»** فقد كبر مع العمل: على **60 برنامج Java كاملًا** مصحّحًا بـ[[rubrics|سلّم تقدير]] من **14 مستوى**، كان أثر التسمية **2.8 ضعف** حجمه في الإجابات القصيرة على GPT-4.1-mini و**2.4 ضعف** على Qwen، وإنما **0.4 ضعف** فقط على Gemini. فـ[[porcaro-ai-grader-reliability-2026|المهمة والسلّم جزء من ما يقيسه الأثر]]، لذا فإن حجمًا جرى التحقق منه على إجابات قصيرة لا ينتقل إلى البرامج.
 
 ## المفاهيم الخاطئة الشائعة
 

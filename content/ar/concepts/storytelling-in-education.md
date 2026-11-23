@@ -7,7 +7,7 @@ technology: [educational-robotics]
 discipline: [language learning]
 level: [k 12]
 confidence: high
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/storytelling-in-education
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -20,7 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [student-engagement, motivation, creativity, educational-robotics, language-learning, social-emotional-learning]
 connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, icub-humanoid-storytelling-llm-hri-2025, remind-robot-mediated-roleplay-antibullying-2026, white-wu-robotics-ai-education-2026, ai-generated-interactive-fiction-education-2026, konca-preschool-genai-storytelling-ai-literacy-2026]
 ---
@@ -41,15 +45,16 @@ connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobud
 
 يستند السرد القصصي إلى [[learning-theories|نظريات التعلّم]]: [[motivation|الدافعية]] و[[student-engagement|الاندماج]] و[[constructivist|البنائية]]. وهو يدعم [[language-learning]] و[[creativity]] و[[social-emotional-learning]] والاستيعاب. وفي عصر الذكاء الاصطناعي، يتيح السرد القصصي [[llm|المدفوع بنماذج اللغة الكبيرة]] وبوساطة الروبوتات الإنشاء المشترك، حيث يبني المتعلّمون و[[agentic-ai|وكلاء الذكاء الاصطناعي]] القصص معًا، والسرد التفاعلي الذي يستجيب للمتعلّم.
 
-### كيف يظهر السرد القصصي في بحث قاعدة المعارف
-
-- **لمكاسب الاندماج حجم، والدافعية لم تتبعه.** تقدّم MotiBo بنسبة 27.06% و30.00% على الورق وPowerPoint في الاندماج السلوكي والمعرفي (كلاهما p < .05)، بينما ارتفعت الدافعية الجوهرية 20.21% دون بلوغ الدلالة (p = .07). تحرّك الاندماج، ولم تتجاوز الدافعية عتبتها، ولم تقس التجربة شبه التجريبية ذات الأيام الخمسة أي مخرج تعلّم ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).
+## كيف يظهر السرد القصصي في بحث قاعدة المعارف
 
 - **السرد القصصي بوساطة الروبوتات:** يستخدم [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] روبوتًا بشري المظهر للسرد القصصي الرقمي التفاعلي، فاجدًا مكاسب دالة في الاندماج السلوكي والمعرفي مقابل طرائق الورق وPowerPoint؛ ويُتيح [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] للمعلمين إنشاء أنشطة سرد سردي قائمة على السيناريوهات مدفوعةً بنماذج اللغة الكبيرة من محتوى [[curriculum-design|المنهاج]].
+- **لمكاسب الاندماج حجم، والدافعية لم تتبعه.** تقدّم MotiBo بنسبة 27.06% و30.00% على الورق وPowerPoint في الاندماج السلوكي والمعرفي (كلاهما p < .05)، بينما ارتفعت الدافعية الجوهرية 20.21% دون بلوغ الدلالة (p = .07). تحرّك الاندماج، ولم تتجاوز الدافعية عتبتها، ولم تقس التجربة شبه التجريبية ذات الأيام الخمسة أي مخرج تعلّم ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).
 - **تفاعل إنسان-روبوت سردي مُبدع:** يستكشف [[icub-humanoid-storytelling-llm-hri-2025|دراسة السرد القصصي في iCub]] الإنشاء المشترك بين الإنسان والروبوت للقصص، دامجًا نماذج توليدية للتفاعل الملائم للسياق.
 - **السرد والإبداع:** يدعم السرد القصصي [[creativity]] وتطوير [[language-learning|اللغة]]، ويُستخدم لتعزيز الدافعية والاندماج في إعدادات [[k-12]].
 - **السرد الرقمي كوزن مقابل للذكاء الاصطناعي:** مع صعود [[generative-ai|الذكاء الاصطناعي التوليدي]]، يُعاد تأطير السرد الرقمي كوسيط للقدرات العاطفية والثقافية والسردية التي يفتقر إليها الذكاء الاصطناعي. وفي نموذج [[project-based-learning|تعلّم قائم على المشاريع]] لتعليم الفنون و[[design-education|التصميم]]، ترجم الطلاب التراث الثقافي المحلي إلى سرديات [[multimodal]] متعددة الوسائط عبر 92 عملًا من أعمال السرد الرقمي، مُبيّنين كيف يُدام الإبداع البشري في عصر الذكاء الاصطناعي.
 - **السرد المولّد سهل الإنتاج وصعب الإبقاء على تماسكه.** مع 22 طالبًا في STEM، حصل الخيال التفاعلي المولّد بالذكاء الاصطناعي على تقييم جيد في وضوح السرد (M = 4.11) والطول (M = 4.14)، لكن الاندماج جلس عند نقطة المنتصف المحايدة (M = 3.08)، وكان تماسك محتوى القصة الأضعف (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). والإنشاء المشترك يرث ذلك الضعف في الطبقة التي يُفترض أن تؤدي فيها القصة عملها.
+
+- **القصة هي الإطار التقويمي، لا مجرّد وجهة للمخرَج.** في مدرسة تمهيدية تركية، بنى 22 طفلًا كتبًا مصوّرة مع مُعلِّمة كتبت كل مطالبة صورة. وكانت أحكامهم على الصور المولَّدة تدور حول ملاءمتها للقصة — أيّ مرشّح من أربعة سيُبقيه الصف، وهل جسم إضافي مثل طيّار ينتمي إليها، وهل الصورة قبيحة لأن زهرة طُلبت فلم تظهر — تُقرَن بأحكام معقولية من قبيل «فراشة ترتدي نظّارة لا يمكن أن توجد» ([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca & Yigit-Gencten, 2026]]). ومنح السرد القصصي الصفّ سببًا ليفحص المخرجات سمةً بسمة، وهذا ما جعل تفكيرهم حول الأداة مرئيًّا أصلًا.
 
 يرتبط السرد القصصي بـ [[student-engagement]] و[[motivation]] و[[creativity]] و[[educational-robotics]] و[[language-learning]] و[[social-emotional-learning]] و[[educational-robotics]].
 

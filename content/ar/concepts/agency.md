@@ -9,8 +9,8 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:32:21-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026]
@@ -58,6 +62,7 @@ connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-
 - **الفاعلية المعرفية المشتركة تمتد إلى تفاعل الطلاب مع الذكاء الاصطناعي التوليدي.** وضع مخطط من 14 فئة يرمّز 6,788 دورًا معانًا بـChatGPT نسبة 59% من أدوار طلاب الصف السابع في الفاعلية المعرفية المشتركة، ويرى المؤلفون أن هذا البناء — الذي دُرس سابقًا في التعاون بين الأقران أساسًا — يجب أن يتوسّع ليشمل أبعادًا معرفية وما وراء معرفية ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang et al., 2026]]).
 
 - **يمكن تقييم الفاعلية من الموجّه نفسه.** يصنّف Human Agency Depth Taxonomy مساهمة الطالب الهندسية على ست طبقات مستقلة عن مخرجات الذكاء الاصطناعي؛ وعبر 962 موجّهًا من 105 طلاب هندسة برمجيات في السنة الأولى، تجاوز 84.2% منهم أدنى طبقة، لكن 5.3% فقط حدّدوا قيود النظام ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba & Chaffey, 2026]]).
+**التخصيص يخصّص الاختيار في الغالب، لا التأليف.** عبر 61 دراسة في 63 تقريرًا، رُمّز التحكّم الموجّه من المتعلّم في 46 (75.4%) — فاختار الطلاب التوقيت أو التركيز أو الموجّهات أو الوتيرة — بينما ظهرت النظم المبنية لغرض أو المخصّصة للمقرّر في عشر (16.4%)، والتخصيص التكيّفي الذي يقوده النظام في خمس (8.2%)، والتمايز الذي يصمّمه المربّي في واحدة. وعلى تلك الأدلّة، يعني التعلّم «المُخصَّص» في الغالب التوجيه داخل فضاء صمّمه شخص آخر، وهي فاعلية انتقاء لا فاعلية على الشروط. كما تحذّر المراجعة من قراءة التكرار بوصفه حجمًا: فوجود موضوع في 39 دراسة لا يقول شيئًا عن كبر أثره أو اتساقه ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido et al., 2026]]).
 
 - **[[student-engagement|المشاركة]] النقدية:** يُظهر بحث [[cognitive-offloading|الإحمال المعرفي]] كيف يمكن للطلاب الذين يفوّضون التفسير إلى الذكاء الاصطناعي أن يفقدوا الفاعلية على استدلالهم الخاص؛ والمقاربات النقدية و[[metacognition|ما وراء المعرفية]] تهدف إلى حمايتها.
 

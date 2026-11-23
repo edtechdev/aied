@@ -6,8 +6,8 @@ foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-17T07:55:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
 connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
@@ -37,7 +41,7 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 
 ## مقدّمة
 
-يتجلّى الذكاء الاصطناعي في التعليم بطرائق مختلفة بين المجالات الدراسية لأن كل ميدان له أصول تدريس مميّزة — أي الطرائق المميّزة التي تُبنى بها المعرفة وتُمارَس وتُدرَّس. فقد تفشل مدرّسون خصوصيون للذكاء الاصطناعي يتألّقون في [[math-education|الرياضيات]] في [[humanities-education|العلوم الإنسانية]]، حيث يهمّ التفسير ونَسب العمل أكثر مما يهمّ الإجابات الصحيحة. وهذه الصفحة هي الخريطة الجامعة لتلك الخيوط الخاصة بالمجالات الدراسية، والتي تمتدّ الآن من المواد المدرسية إلى التدريب المهني والتطبيقي إلى الممارسة الاستوديوية. وعضو واحد من الخيط ليس مادةً تُدرَّس إطلاقًا: فـ[[learning-sciences]] هي مجال البحث المحيط بالذكاء الاصطناعي في التعليم، وهي تُمدّ الآليات التي تُشغّلها أنظمة الذكاء الاصطناعي والمعايير التي تُحاكم بها — فهو يأخذ النظرة الجامعة، مقابل فرضية هذه الصفحة القائلة إن المادة الدراسية هي ما يغيّر ما ينبغي للدعم أن يفعله.
+يتجلّى الذكاء الاصطناعي في التعليم بطرائق مختلفة بين المجالات الدراسية لأن كل ميدان له أصول تدريس مميّزة — أي الطرائق المميّزة التي تُبنى بها المعرفة وتُمارَس وتُدرَّس. فقد تفشل مدرّسون خصوصيون للذكاء الاصطناعي يتألّقون في [[math-education|الرياضيات]] في [[humanities-education|العلوم الإنسانية]]، حيث يهمّ التفسير ونَسب العمل أكثر مما يهمّ الإجابات الصحيحة. وتُجمَّع صفحات المواد في أربع مجموعات: [[humanities-education|العلوم الإنسانية والفنون]]، و[[social-sciences-education|العلوم الاجتماعية]]، و[[stem-education|STEM]]، و[[professions-education|المهن]] — وتغطّي الأخيرة البرامج التي يُنظَّم منهجها بالترخيص والاعتماد والممارسة الخاضعة للإشراف. وهذه الصفحة هي الخريطة الجامعة لتلك الخيوط الخاصة بالمجالات الدراسية، والتي تمتدّ الآن من المواد المدرسية إلى التدريب المهني والتطبيقي إلى الممارسة الاستوديوية. وعضو واحد من الخيط ليس مادةً تُدرَّس إطلاقًا: فـ[[learning-sciences]] هي مجال البحث المحيط بالذكاء الاصطناعي في التعليم، وهي تُمدّ الآليات التي تُشغّلها أنظمة الذكاء الاصطناعي والمعايير التي تُحاكم بها — فهو يأخذ النظرة الجامعة، مقابل فرضية هذه الصفحة القائلة إن المادة الدراسية هي ما يغيّر ما ينبغي للدعم أن يفعله.
 
 ## المفاهيم الخاصة بالمجالات الدراسية
 
@@ -64,7 +68,9 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 
 - **[[engineering-education]]** — التكوين المهني، والتصميم و[[experiential-learning|التعلّم العملي]]، والاستخدام [[ethics|الأخلاقي]] للذكاء الاصطناعي، والتقييم [[embodied-learning|التجسيدي]]، والإعداد للقوة العاملة في الهندسة.
 - **[[business-education]]** — الذكاء الاصطناعي في تعليم الأعمال والاقتصاد والإدارة: أطر GenAI المُستنيرة بالطلاب، و[[curriculum-design|دمج المنهج]] عبر الاصطفاف البنائي، والإعداد للممارسة المهنية المدمجة بالذكاء الاصطناعي.
-- **[[humanities-education]]** — الإدراك التفسيري ونَسب العمل وصناعة المعنى في العلوم الإنسانية والاجتماعية.
+- **[[humanities-education|تعليم العلوم الإنسانية]]** — الإدراك التفسيري ونَسب العمل وصناعة المعنى في التاريخ والفلسفة والأدب واللغات، وهي المجموعة التي تجلس بجانبها لا داخلها صفحتا [[arts-and-media-education|الفنون والإعلام]] و[[music-education|الموسيقى]].
+- **[[social-sciences-education|تعليم العلوم الاجتماعية]]** — التربية المدنية والإدارة والاقتصاد والدراسات البيئية: تخصّصات تدرس الناس على نحو مجمّع، حيث يغيّر الذكاء الاصطناعي المنهج والمؤسسة معًا.
+- **[[professions-education|تعليم المهن]]** — البرامج المرخّصة والمعتمدة (الطب والتمريض والقانون والتعليم والتصميم وعلم المكتبات) التي يجب أن يثبت تقويمها أن الحكم المُصدَّق كان حكم المرشّح.
 - **[[k-12]]** و**[[higher-ed]]** — التعليم عن الذكاء الاصطناعي وبه في كل مرحلة.
 
 ## الموضوعات متعددة التخصصات
@@ -83,6 +89,7 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 - **التأسيس المجالي يُشترط لـ[[metacognition|ما وراء المعرفة]] المدعوم بالذكاء الاصطناعي.** ففي حلقة دراسية في لغويات النص، تأمّل المبتدئون تأمّلًا ما وراء معرفي مع النماذج اللغوية الكبيرة في الأغلب حيث كانت معرفة المادة مُترسِّخةً أصلًا، ونسب معظمهم المخرجات الضعيفة إلى النموذج لا إلى مطالبتهم هم — وهو دليل على أن [[prompt-engineering|تصميم المطالبات]] يجب أن يُدرَّس صراحةً داخل مجال دراسي ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
 
 - **الإنصاف والوصول.** يهمّ [[equity-in-ai-education]] و[[digital-divide]] و[[culturally-relevant-pedagogy]] كل المجالات الدراسية.
+- **التأسيس المجالي يكسر الأدوات القياسية أيضًا.** فصمد كاشف التعلّم الذاتي التنظيم المدرَّب على الكيمياء عند ~0.8 AUC على نصوص ألمانية، لكنه هبط إلى ~0.6 على المنطق، لأن النموذج حلّ كلمة «إلغاء» بمعناها اليومي لا بمعناها المجالي ([[borchers-srl-language-generalization-2025|Borchers et al., 2025]]).
 
 ## أصول التدريس المميّزة والمناهج والنظريات بحسب المجال الدراسي
 
@@ -100,14 +107,24 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 
 - **إعداد المعلّمين** — مجال دراسي يتركّز بحثه في الذكاء الاصطناعي على إعداد المعلّمين لدمج الذكاء الاصطناعي: أطر التكامُل الذكي-TPACK ([[designing-ai-professional-development-itpack-2026|تطوير مهني في i-TPACK]])، وثقافة المعلّم بالذكاء الاصطناعي ([[science-educators-ai-literacy-postqualification-2026|معلّمو العلوم]])، وجاهزية ما قبل الخدمة ([[conceptualizing-preservice-teachers-ai-readiness-2026|جاهزية التكامُل الذكي-TPACK]])، والثقة والأخلاقيات أثناء الخدمة ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|الثقة والأخلاقيات]]).
 
-- **العلوم الإنسانية والاجتماعية** — التفسير ونَسب العمل وصناعة المعنى النقدية. ويُقدّم بحث الذكاء الاصطناعي الإدراك التفسيري ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) و[[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي]] لا التدريس الخصوصي للصواب.
+- **العلوم الإنسانية** — التفسير ونَسب العمل وصناعة المعنى النقدية. ويُقدّم بحث الذكاء الاصطناعي الإدراك التفسيري ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) و[[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي]] لا التدريس الخصوصي للصواب.
+- **العلوم الاجتماعية** — ادعاءات عن السكان والمؤسسات والأسواق تُدافع بالمسح والنموذج والمقارنة. وتُظهر أدبيات التربية المدنية الفشل المميّز: 310 خطط دروس مولّدة بالذكاء الاصطناعي مقابل 53 معيارًا، و90% منها صيغت على أهداف من الرتبة الدنيا. وتقع الآن لعلم النفس صفحته الخاصة، [[psychology-education|تعليم علم النفس]]، لأنه يحمل عملًا على مستوى المقرر أكثر بكثير من باقي المجموعة؛ وتبقى علم الاجتماع داخل المجموعة بخمس دراسات.
 
 ## المجالات الدراسية المُمثَّلة في قاعدة المعارف
 
-أقوى تغطية خاصة بمجال دراسي في قاعدة المعارف هي في **[[stem-education|STEM]]** على نطاق واسع — وخصوصًا **[[math-education]]** و**[[physics-education]]** و**[[chemistry-education]]** و**[[biology-education]]** و**[[cs-education]]** — تليها **[[statistics-and-data-science-education]]**، خيط متميّز عن الرياضيات لأن بيداغوجيته المميّزة هي التحقيق في البيانات لا الاستدلال نحو إجابة محدّدة. ومثال على مشكلة التصميم الخاصة بالخيط نفسه: يستخدم [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] خط أنابيب وكيليًا لتوليد مجموعات بيانات اصطناعية مطابقة للسياق، وهو ما يعالج المادة التي يحتاجها مقرر الإحصاء لا شرحها — وعلى إقرار المؤلفين أنفسهم، لا يستطيع تعليم جمع البيانات أو القياس أو [[research-methods-aied|تصميم الدراسة]]. ثم **[[writing-education]]** و**[[language-learning]]** (مع خيط **[[english-education]]** مميّز لـEAP/EFL/ESL)، وأحدثَها **[[engineering-education]]** و**[[teacher-education]]** (مع جسد معتبر من أبحاث التدريب على الذكاء الاصطناعي قبل الخدمة وأثنائها) و**[[medical-education]]** و**[[humanities-education]]**. وللهندسة والتصميم أيضًا جسد متزايد من المقالات. وهذا التركّز يتبع الأدبيات الأوسع: فقد وجد استعراض [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] أن STEM هي الصورة متعددة التخصصات الأكثر شيوعًا في التعليم العالي المدعوم بالذكاء الاصطناعي (n = 26)، متقدّمةً بفارق كبير على مجالات غير STEM (n = 10) وSTEAM (n = 2). والتحذير على مستوى المجال الدراسي هو أن أدلة الذكاء الاصطناعي في التعليم تتراكم أسرع ما تتراكم حيث يكون تغريس الأدوات الحاسوبية أسهل، لا بالضرورة حيث تكون قيمة الذكاء الاصطناعي التربوية أعظم. وتُوسّع الإضافات الأحدث الخيطَ إلى ما بعد المواد الأكاديمية إلى التعليم المهني والتطبيقي — [[nursing-education|التمريض]]، و[[information-technology|تقنية المعلومات]]، و[[vocational-education|التعليم والتدريب المهني]] — حيث يُقوَّم المتعلّمون على الممارسة المُظهَرة لا على الصواب، وحيث يحدّد صاحب العمل وهيئة الترخيص لا الأكاديمية وحدها ما يُحتسب كفاءةً.
+التغطية موزَّعة بغير تكافؤ كبير عبر المجموعات الأربع، وشكلُ ذلك عدم التكافؤ هو النتيجة الرئيسية للقسم.
+
+**STEM هي الأكثف بفارق كبير.** تحمل كلٌّ من [[math-education|الرياضيات]] و[[physics-education|الفيزياء]] و[[chemistry-education|الكيمياء]] و[[biology-education|الأحياء]] و[[cs-education|علوم الحاسوب]] صفحتها الخاصة وعشرات الدراسات، مع [[statistics-and-data-science-education|الإحصاء وعلم البيانات]] خيطًا مميّزًا تكون بيداغوجيته المميّزة هي التحقيق في البيانات لا الاستدلال نحو إجابة محدّدة. وتظهر مشكلة التصميم الخاصة بالخيط في [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]]، خطِّ أنابيب وكيليٍّ يولّد مجموعات بيانات اصطناعية مطابقة للسياق: فهو يزوّد مقرر الإحصاء بالمادة التي يحتاجها لا بشرحها، وعلى إقرار المؤلفين لا يستطيع تعليم جمع البيانات ولا القياس ولا [[research-methods-aied|تصميم الدراسة]]. وتكمل [[engineering-education|الهندسة]] و[[science-education|العلوم]] المجموعة.
+
+**للعلوم الإنسانية والفنون عمقٌ في دراسات مفردة لا في الحجم.** لـ[[humanities-education|العلوم الإنسانية]] و[[writing-education|الكتابة]] و[[language-learning|تعلّم اللغات]] مع خيط [[english-education|الإنجليزية]] المميّز، و[[arts-and-media-education|الفنون والإعلام]] و[[music-education|الموسيقى]] صفحاتٌ كلها، لكن أكثر أدلتها مقررٌ واحد أو استوديو واحد. غير أن مشكلة [[assessment-validity|الصلاحية]] تُقاس لهذه المجموعة على نحو أدقّ من أي مجموعة أخرى: وجد تدقيق لـ15,587 سجلَّ وحدة في الفنون والعلوم الإنسانية أن 58.6% من بنود التقويم عالية التعرّض.
+
+**العلوم الاجتماعية هي الأنحف قياسًا إلى ما عليها من رهان.** تحمل [[business-education|الأعمال]] أكبر الأدبيات بين الثلاثة، و[[civic-and-political-education|التربية المدنية والسياسية]] تصف مشكلةً ديمقراطية بلا أي نتيجة مدنية مقيسة واحدة، و[[environmental-education|التربية البيئية]] تنقسم بين الذكاء الاصطناعي معيناتٍ تعليمية وبينه كلفةً طاقوية.
+
+**المهن مغطاة جيّدًا وأقلّ تكاملًا.** لـ[[medical-education|الطب]] (ومع [[nursing-education|التمريض]] البرنامج الأكثر دراسةً) و[[teacher-education|إعداد المعلّمين]] و[[legal-education|القانون]] أدبيات كبيرة، و[[information-technology|تقنية المعلومات]] و[[libraries|المكتبات]] و[[vocational-education|التعليم والتدريب المهني]] تمدّ الخيط إلى الممارسة. وسؤالها المشترك — عمّا إذا كان الحكم المُصدَّق حكمَ المرشّح — قلّما يُطرح عبر البرامج، وهو ما يوجد [[professions-education|تعليم المهن]] ليجمعه.
+
+يتبع هذا التركّز الأدبيات الأوسع: فقد وجد استعراض [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] أن STEM هي الصورة متعددة التخصصات الأكثر شيوعًا في التعليم العالي المدعوم بالذكاء الاصطناعي (n = 26)، متقدّمةً بفارق كبير على مجالات غير STEM (n = 10) وSTEAM (n = 2). والتحذير على مستوى المجال الدراسي هو أن أدلة الذكاء الاصطناعي في التعليم تتراكم أسرع ما تتراكم حيث يكون تغريس الأدوات الحاسوبية أسهل، لا بالضرورة حيث تكون قيمة الذكاء الاصطناعي التربوية أعظم.
 
 والخيط المهني هو الأرقّ في تلك الأدلة: فمراجعة منهجية لـ26 دراسة في التعليم والتدريب المهني لم تجد أيًّا منها أُجري في أوساط أماكن العمل على خلاف الطابع القائم على العمل في VET، وخمس تجارب معشاة فقط، وثلاثة تصميمات فقط تمنح المتعلّمين دورًا فاعلًا ([[ai-vocational-education-training-review|Deutscher et al. (2026)]]).
-
 ## المجالات الدراسية غير المُمثَّلة تمثيلًا كافيًا
 
 عدة مجالات دراسية تبقى رقيقة في قاعدة المعارف وهي مرشّحة حسنة للاستيعاب المستقبلي:
@@ -115,8 +132,9 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 - **القانون و[[legal-education|التعليم القانوني]]** — تغطية ضئيلة: [[llm-turing-test-italian-legal-exams-2026|النماذج اللغوية الكبيرة والامتحانات القانونية الإيطالية]].
 - **علم النفس والتوجيه النفسي** — مقالات قليلة في الذكاء الاصطناعي في التعليم: [[hawkins-feedback-literacy-ai-essay-writing|ثقافة التغذية الراجعة بالذكاء الاصطناعي]]، و[[critical-genai-use-predictors|الاستخدام النقدي لـGenAI]]، و[[adaptive-virtual-patient-psychotherapy-training|تدريب العلاج النفسي بمريض افتراضي]].
 - **التاريخ** — مقالات معزولة فقط: [[paternalistic-filter-llm-history-education|النماذج اللغوية الكبيرة والاستدلال التاريخي]].
+- **التربية البدنية** — دراسة نوعية واحدة حتى الآن: يصف 16 معلّمًا جامعيًا *أثرًا نافِرًا للانضباط التجسيدي*، مجادلين بأن الذكاء الاصطناعي لا يستطيع توفير التصحيح الجسدي ولا المعرفة الضمنية، ويبلغون بأن معدّات الذكاء الاصطناعي القسمية تذهب إلى الفرق النخبوية لا إلى الصفوف العامة ([[yang-pe-teachers-ai-perceptions-2026|يانغ وتشن وراو، 2026]]).
 
-- **الفنون (الفنون البصرية والتصميم والموسيقى)** — تغطية ناشئة: [[ai-interior-design-malaysia-2026|الذكاء الاصطناعي في تعليم التصميم الداخلي]]، و[[genai-architectural-design-studios|GenAI في استوديوهات التصميم المعماري]]، و[[ai-vocal-pedagogy-2026|أصول التدريس الغنائي بالذكاء الاصطناعي]]، و[[musical-education-ai-digital-transformation-2026|الذكاء الاصطناعي في تعليم الموسيقى]]، و[[t2i-competence-paradox-2026|مفارقة الكفاءة في تحويل النص إلى صورة]]. ولدراسات جانب التصميم في هذه القائمة الآن موطنها الخاص: إذ يجذب [[design-education]] أعمالَ التصميم المعماري والتصميم الداخلي والاستوديو ذي النص إلى صورة إلى صفحة عن التكوين المهني في التصميم، تاركًا الفنون البصرية والموسيقى والأداء الباقيَ الرقيق.
+- **الفنون (الفنون البصرية والتصميم والموسيقى والأداء)** — تغطية ناشئة تُصنَّف الآن بحسب الموطن: يأخذ [[design-education|تعليم التصميم]] أعمالَ الاستوديو المعمارية وتصميم الداخلي والنصِّ-إلى-صورة؛ ويأخذ [[music-education|تعليم الموسيقى]] الأداء والمهارة السمعية واقتصاديات الموسيقى المسجّلة؛ وتُبقي [[arts-and-media-education|الفنون والإعلام]] الفنون البصرية والوسائط الرقمية وتقنيات المسرح، حيث تكون الأدلة أقلّ سمكًا.
 
 وكانت هذه المجالات الدراسية غير المُمثَّلة تمثيلًا كافيًا ستستفيد من صفحات مفاهيم مخصّصة واستيعاب مقالات إضافية مع نمو قاعدة المعارف.
 

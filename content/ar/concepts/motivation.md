@@ -9,8 +9,8 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learners, self-directed-learning, self-determination-theory, student-experience, student-engagement, affective-computing, affective-tutoring, cognitive-offloading, self-regulated-learning, teacher-role, ai-education, framing-ai-use-for-students, social-emotional-learning, reflection]
 connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-school-genai-acceptance-tam-physics-2026, liu-ai-assistance-reduces-persistence-2026, jansen-argumentative-writing-feedback-receptivity-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, cui-motivation-roles-metacognitive-genai-2026, lee-wu-gender-motivation-genai-achievement-2026, oby-chatgpt-use-learning-framework-2026, genai-thoughtless-use-self-directed-learning-2026, ai-student-engagement-online-learning-review-2025, chatgpt-perception-online-learning-engagement-2026, genai-student-experiences-uk-he-survey-2026, ai-availability-student-motivation, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, scheu-mobile-chatbot-journaling-motivation-2026, framing-5-percent-problem-teachers-persistence, self-efficacy-tutoring-learning, guillen-curriculum-genai-teacher-competence-2026, motivation-shape-future-education-ai-switzerland-china, tts-dialogue-lessons-learner-characteristics-2026, student-perceptions-ai-study-productivity-2026, liang-ai-learning-motivation-sdt-2026, wang-goal-setting-ai-engagement-2026, utility-value-intervention-teach-responsibly-genai-2026, genai-writing-program-primary-l2-motivation-engagement, air-scale-motivations-ai-reading-2026, genai-math-relevance-intervention-2026, genai-learning-motivation-meta-analysis-2026, ai-student-motivation-scoping-review-2026, gai-advocacy-practice-art-education-2026, bassner-performance-learning-dissociation-ai-programming-2026, liu-ai-generated-teacher-feedback-writing-motivation-rct-2026, pan-generative-ai-student-motivation-sdt-review-2026, mekheimer-motivation-ethics-trust-efl-2026, motivational-gain-trumping-cognitive-offloading-2026]
@@ -75,11 +79,15 @@ connected_articles: [mirpour-learning-value-self-efficacy-ai-scales-2026, high-s
 
 **تحفيز المدرّسين ومثابرتهم** يفحص التحفيز بين المعلّمين. يدرس **[[framing-5-percent-problem-teachers-persistence|تأطير مشكلة الخمسة بالمئة]]** مثابرة المدرّسين مع أدوات الذكاء الاصطناعي، ووجد **[[teacher-education-ai-literacy-sdt-2026|تشيو وآخرون]]** أن [[educational-development|التطوير المهني]] الداعم للحاجات يُنمّي الانخراط السلوكي المستدام في مجتمعات التعلّم المهني.
 
+- **تكرار الانخراط، لا الكفاءة السابقة، هو ما تنبأ بالتحفيز.** في دراسة لغة إنجليزية كلغة أجنبية (EFL) لمدة 12 أسبوعًا على 310 طلاب، كان تكرار الاستخدام المتنبئ الوحيد الدالّ بالتحفيز (β = .46، 20.4% من التباين)، وأُسقطت الكفاءة السابقة والقلق بوصفهما غير دالين ([[mekheimer-motivation-ethics-trust-efl-2026|مخيمير وفقيه (2026)]]). ويقرأ المؤلفان ذلك أثرًا إدماجيًا: فالمكاسب عادت إلى مَن استخدم الأدوات لا إلى مَن وصل أقوى.
+- **مقياسان قصيران يفرّقان بين تقدير التعلّم والشعور بالقدرة على تعلّمه دون الأداة.** عبر 882 طالبًا جامعيًا أميركيًا، كانت قيمة التعلّم والكفاءة الذاتية للتعلّم في سياقات الذكاء الاصطناعي عاملين متمايزين، وكلاهما مرتبط سلبًا باستخدام الذكاء الاصطناعي، وحمل الاثنان معًا أكثر من نصف الارتباط السلبي لاستخدام الذكاء الاصطناعي بالإنفاق على الجهد ([[mirpour-learning-value-self-efficacy-ai-scales-2026|ميربور وبهدارونديراد (2026)]]).
 - **التحفيز العابر للثقافات لدى المدرّسين المستقبليين:** تحقّق [[motivation-shape-future-education-ai-switzerland-china|مارتينيث-مورينو وآخرون (2026)]] من صحة مقياس (D)FIT-Choice مع 416 مدرّسًا طالبًا في سويسرا والصين، فوجدوا المدرّسين السويسريين يُبلغون عن نفع اجتماعي وتحفيز داخلي أقوى بينما يُظهر المدرّسون الصينيون كفاءةً رقمية مُدرَكة أعلى وحماسًا أكبر لدمج الذكاء الاصطناعي — مما يُبرز كيف تُشكّل العوامل الثقافية والمنهجية التحفيز على تشكيل مستقبل التعليم بالذكاء الاصطناعي.
 
 - **الكفاءة الذاتية هي جذر استمتاع المدرّسين بالذكاء الاصطناعي التوليدي.** في دراسة PLS-SEM على 434 مدرّسًا في الخدمة، كانت الكفاءة الذاتية المتغير الخارجي الوحيد في النموذج وكان أكبر أثر لها على الاستمتاع المُدرَك (β = 0.805، f² = 1.839)، مُغذّيةً النفعية وسهولة الاستخدام المُدرَكتين بدورهما ([[guillen-curriculum-genai-teacher-competence-2026|غيّن-غاميث وآخرون، 2026]]).
 
 **مفارقة الجهد والدورة العكسية للمساعدة.** يجادل [[zohar-bloom-inzlicht-against-frictionless-ai-2026|زوهار وبلوم وإنزليخت (2026)]] بأن التحفيز ليس يساعده الذكاء الاصطناعي أو يعرقله فحسب بل يُعاد توزيعه: فالبشر يسلكون في العموم طريق أقل مقاومة، لكنهم يبحثون كذلك عن الجهد — مفارقة الجهد — لأن الجهد يُشير إلى أن الأفعال تهمّ ولأن المكافأة المرتبطة بالعملية لا بالمُنتَج تزيد الميل إلى السعي والمثابرة. ويدّعيان أمرين. أولًا، علاقة الجهد بالمعنى علاقة U معكوسة، لذا فالهدف التحفيزي هو الاحتكاك المعتدل، وخطر الذكاء الاصطناعي الخالي من الاحتكاك هو تجاوز الحد إلى القليل أكثر من اللازم. وثانيًا، دورة عكسية: فكلما أحلّ الذكاء الاصطناعي محل الجهد في مجال، تآكلت الفوائد التحفيزية للجهد هناك، وهو ما جعل المستخدمين أكثر اعتمادًا على الذكاء الاصطناعي، وهو ما يُتلف التحفيز أكثر. ويفصلان كذلك بين المُكمّل والبديل بحسب المرحلة النمائية — فالمتعلّمون في المراحل الأبكر يخاطرون بتجاوز التجارب التي تبني المثابرة، بينما يستطيع ذوو المهارات الراسخة استخدام الذكاء الاصطناعي لتوفير الوقت ([[desirable-difficulties|الصعوبات المرغوبة]]، [[self-efficacy|الكفاءة الذاتية]]).
+
+**يزن [[motivational-gain-trumping-cognitive-offloading-2026|وانغ وغو وغونغ (2026)]] جانبي تلك الدورة معًا ويجدهما متوازنين تقريبًا:** فحيث رفع استخدام الذكاء الاصطناعي تحفيز الطلاب على التعلّم، تحسّن التفكير النقدي، وحيث صار بديلًا عن التفكير، انخفض التفكير النقدي بالقدر ذاته تقريبًا. وذلك يجعل المكسب التحفيزي فائدة حقيقية يمكن للاعتماد أن يلغيها، لا سببًا للارتياح تجاه الاعتماد المفرط.
 
 **تقيس الأدبيات التحفيز دون نظرية فيه.** وجدت [[meta-analysis-systematic-review|مراجعة نطاق]] لـ156 دراسة من 2003 إلى 2025 أن 133 (85.3%) منها لم تسترشد بنظرية تحفيزية محددة، وأن أكثر المتغيرات شيوعًا كان تحفيزًا أكاديميًا معمّمًا (n = 89)، وأن 88 دراسة (56.4%) جاءت من سياق وطني واحد ([[ai-student-motivation-scoping-review-2026|لي وآخرون، 2026)]]).
 

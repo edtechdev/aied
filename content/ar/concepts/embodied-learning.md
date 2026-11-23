@@ -1,14 +1,14 @@
 ---
 title: التعلّم التجسيدي
 created: "2026-10-12T18:00:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T19:30:19-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T13:30:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -16,12 +16,16 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
-connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -39,7 +43,7 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 التعلّم التجسيدي ذو صلة وثيقة بـ[[active-learning]] و[[experiential-learning]] ونظريات التعلّم الموقفي/[[constructivist]]. والدعوى المفتاحية هي أن وكيلًا ماديًا قابلًا للمعالجة يساعد المتعلّمين على ربط الأفكار المجرّدة بالنواتج الملموسة — برنامجٌ يُحرّك روبوتًا، أو تمثيلٌ لدور مع روبوت مادي — بطرائق قد لا يُتيحها التفاعل القائم على الشاشة خالصًا. والروبوتات هي أصدق تجسيد للذكاء الاصطناعي في التعليم، وهي تُعطي المتعلّمين شيئًا يرونه ويلمسونه ويرصدونه.
 
-### كيف يظهر التعلّم التجسيدي في أبحاث قاعدة المعارف
+## كيف يظهر التعلّم التجسيدي في أبحاث قاعدة المعارف
 
 - **البرمجة المؤسَّسة:** تؤسّس [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] [[cs-education|برمجةَ الكتل]] في تنفيذ روبوتي مُتجسِّد، خالقةً حلقةً محكمة من التأليف والتشغيل والرصد والمراجعة حتى يرى المتعلّمون شيفرتهم تتحوّل سلوكًا.
 
@@ -55,7 +59,7 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 - **ميسّر لغوي وحده يجرّ الاستقصاء نحو ما يمكن قوله.** في مختبر سكون الموائع لطلاب الماجستير، بنى الطلاب نموذج الطفو بأيديهم قبل أن ينضم ميسّر قائم على Gemini لتطبيقه على ظاهرة جديدة. وعبر ثلاثة أزواج حافظ الذكاء الاصطناعي على تتابع ISLE، لكنه حين ضُغط عليه بـ«قل لنا فقط» أنتج قيم كتلة لم يقسها أحد، وأكمل مشارك واحد عن بُعد دورة صحيحة فيزيائيًا لكنها نظيفة بلا جسد ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). ودرس التصميم هو التتابع لا الاستبدال: ابنِ النموذج في الجسد أولًا، ثم دع النموذج اللغوي يعمل على تطبيقه.
 
-### الذكاء التجسيدي ونقد الذكاء الاصطناعي غير المُتجسِّد
+## الذكاء التجسيدي ونقد الذكاء الاصطناعي غير المُتجسِّد
 
 يهتمّ خيطٌ ثانٍ أكثر نظريةً من أبحاث التجسيد في قاعدة المعارف بدور *الجسد* في التعلّم-[[sociocultural-learning|المتوسّط بالذكاء الاصطناعي]] — لا من خلال الروبوتات المادية بل من خلال سؤال عمّا إذا كانت [[ai-technologies|أنظمة الذكاء الاصطناعي]] نفسها مُتجسِّدةً (أو قادرةً على أن تكون كذلك). ويتحدّى هذا العمل سيادةَ نماذج الذكاء الاصطناعي الرمزية غير المُتجسِّدة المبنية على معالجة المعلومات المجرّدة:
 
@@ -63,6 +67,7 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 - **حدود [[generative-ai|الذكاء الاصطناعي التوليدي]] غير المُتجسِّد.** تُجادل الدراسات ما بعد المعرفية بأن أنظمة GenAI الحالية تفتقر إلى الحسّ بالوضع والوكالة متعددة الوسائط والممارسة المُتجسِّدة، وتدعو إلى «ذكاء اصطناعي متجسِّد» متأصّل في الموقفية والانبثاق والاقتران الحسي الحركي، مقترحةً رقصًا إدراكيًا–[[affective-computing|وجدانيًا]] للتفاعل بين الإنسان و[[student-ai-interaction|الذكاء الاصطناعي]].([[videla-embodied-ai-education-choreography]])
 
+- **التنشيئية تعيد الإدراك إلى الاقتران البنيوي.** يطوّر [[videla-why-education-cannot-be-automated-2026|Videla وRoss وAros (2026)]] تنشيئيةً راديكاليةً واسعة، يكون فيها الإدراك عالميًّا بحكم تكوينه لا تمثيليًّا، فتصير التقنيات التعليمية مشاركين بيئيين يوسّعون الإدراك والفعل المشترك بدل أدوات معرفية توصّل المحتوى.
 - **التجسيد والموقفية والبناء الاجتماعي.** ففي [[science-education|تعلّم العلوم]]، تعمل أدوات الذكاء الاصطناعي بوصفها «آثارًا وسيطة» تُتيح مجتمعات الممارسة الرقمية وعبور الحدود، موصولةً الاستقصاءَ المُتجسِّد الأصيل بسياقات واقعية ومتعددة التخصصات.([[li-ai-science-situated-learning-teachers-2025]]) وهذا يربط التجسيد بـ[[situated-learning]] و[[distributed-cognition]].
 
 ويرتبط التعلّم التجسيدي بـ[[educational-robotics]]، و[[educational-robotics]]، و[[educational-robotics]]، و[[active-learning]]، و[[experiential-learning]]، و[[situated-learning]]، و[[distributed-cognition]]، و[[computational-thinking]]، و[[social-emotional-learning]].

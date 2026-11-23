@@ -1,7 +1,7 @@
 ---
 title: تعليم القراءة
 created: "2026-11-08T11:40:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -13,13 +13,17 @@ level: [primary education, k 12, higher ed]
 connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
 translation_of: concepts/reading-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [ai-education, language-learning, writing-education, english-education, educational-nlp, assessment, motivation, scaffolding, neurodiversity, accessibility, generative-ai]
 connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-assessment-motivation-2026, genai-differentiated-eap-reading-materials-2026, llm-children-reading-story-generation, text-simplification-its, clara-developmental-appropriateness-children-stories-2026, bird-multimodal-educational-literature-2026, clark-ai-generated-language-readability-2026, sidorkin-ai-generated-course-readings-2026, airri-machine-resistant-reading-interface-2026, chatgpt-feedback-orientation-chinese-reading-2026, dabaghi-ai-dyslexia-education-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
@@ -89,6 +93,10 @@ connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-
 ## ما تُظهره الأدلة وما لا تُظهره
 
 الخطّ غني بالقياس وفقير بالنواتج. فهناك أدوات مقنَّنة (AIR)، ونماذج صعوبة مقنَّنة (CLARA وBird)، ومجموعة متنامية من أدوات التوليد والتبسيط. وهناك دراسات مضبوطة قليلة جدًا تربط تدخلًا في القراءة بمكاسب في الفهم، وعدة دراسات تقويم تخلط مصدر الفقرة بالتقديم أو الإشراف. وأحجام العيّنات صغيرة: 53 طالبًا في حالة تقويم القراءة، و24 في دراسة القراءات المخصَّصة، و200 طالب في الصف السابع في أكبر شبه تجربة. وينبغي قراءة قاعدة المعارف بوصفها توثيقًا لفضاء تصميمي، لا لأثر مُثبَت.
+
+والاستثناء حتى الآن هو الطلاقة في المرحلة الابتدائية المبكرة: في مدرسة واحدة، تفوق تلاميذ الصفين الأول والثاني الذين سجّلوا 10 دقائق على الأقل في الأسبوع لمدة 6 أسابيع على أقرانهم من ذوي الجرعة المنخفضة (g = 0.56)، وهو تباين جرعات لا تجربة ([[burns-ai-tutor-reading-growth-2026|Burns and Morton (2026)]]).
+
+واختبر [[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes وزملاؤه (2026)]] ما إذا كان روبوت محادثة يساعد القرّاء في تجربة مُسجَّلة مسبقًا مع 344 طالبًا في الصف العاشر عبر سبع مدارس ثانوية إنجليزية. قرأ كل طالب مقطعين من التاريخ مع نموذج لغوي كبير، أو مع تدوين الملاحظات، أو معهما معًا؛ وبعد ثلاثة أيام، سبق تدوين الملاحظات وحده النموذج اللغوي الكبير في الحفظ الحرفي (d = 0.44) والفهم (d = 0.38) والاستدعاء الحر (d = 0.21). واستعاد «النموذج اللغوي الكبير + الملاحظات» بعض الأرض في الأوليين لا في الاستدعاء الحر (beta = -0.08, p = .854). وقدّر الطلاب النموذج اللغوي الكبير أيسَر وأكثر إفادةً ومتعةً بينما كانت درجاتهم أدنى، ونسخ 25.63% ممّن كانوا في الشرط المدمج أكثر من 70% من صياغته في ملاحظاتهم.
 
 ## المفاهيم الخاطئة الشائعة
 

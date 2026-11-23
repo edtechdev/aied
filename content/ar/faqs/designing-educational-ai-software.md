@@ -7,7 +7,8 @@ foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -31,7 +36,7 @@ ai_assist:
 
 **1.** اكتب ما يقرره النظام وما يقرره المعلم. فتلك الحدود تصبح هي المعمارية.
 
-**2.** قيّم تفاعلًا متعدد الأدوار واعيًا بالتخصص مقابل [[curriculum-design|منهج]] حقيقي، لا أوامر مفردة مقابل معايير سلامة عامة.
+**2.** قيّم تفاعلًا متعدد الأدوار واعيًا بالتخصص مقابل [[curriculum-design|منهج]] حقيقي، لا أوامر مفردة مقابل [[rubrics|سلّم التقدير]] سلامة عام.
 
 **3.** أسند الردود إلى محتوى معتمد، وابقِ مكوّن التحقق منفصلًا عن مكوّن المحادثة.
 

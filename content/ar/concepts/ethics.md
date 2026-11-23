@@ -1,8 +1,8 @@
 ---
 title: الأخلاقيات
 created: "2026-10-12T18:20:00-04:00"
-source_updated: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -21,8 +21,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -66,6 +70,7 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 **الأخلاقيات مركزية في المجال لكنها نادرًا ما تكون مخرجًا.** عبر 394 دراسة عن الذكاء الاصطناعي التوليدي في التعليم العالي، كان الإبداع والأخلاقيات والنزاهة الأكاديمية من أقل المخرجات استهدافًا، وكانت ممارسات الحوكمة ناقصة الإبلاغ ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 - **الأطر المعيارية غير قابلة للتبادل.** من بين 151 طالباً جامعياً إسبانياً، كان الإنصاف الأخلاقي شرطاً ضرورياً لنية استخدام النماذج اللغوية الكبيرة في التحضير للامتحان (d = 0.338) لكنه لم يكن متنبئاً كافياً، بينما كانت الأحكام العاقبية (β = 0.350) والواجبية (β = 0.329) كذلك — فالطلاب يطبّقون عدة أطر معيارية ([[ethical-conditions-llm-exam-preparation-2026|بيريث-بورتابيّا وزملاؤه (2026)]]).
 - **بنية متعددة الأبعاد مشتركة.** تُشكّل الموضوعات الستة في [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|بيلغيتش وسيفر]] — الممتدة عبر أخلاقيات البيانات وأخلاقيات الخوارزميات والأخلاقيات البيداغوجية — سلسلةً سببية مترابطة من المبادئ الأساسية (الشفافية، والمساءلة، والإنصاف، والاستقلالية) إلى المخرجات السلوكية، مؤكدةً أن الاستخدام المسؤول للذكاء الاصطناعي يعتمد على خرائط الطريق المؤسسية الواضحة بقدر اعتماده على الوعي الفردي.
+- **برز الوعي الأخلاقي مع المستوى التعليمي.** استطلع [[licardo-students-ethical-challenges-genai-2026|Licardo وŠindić (2026)]] 1,299 طالباً سلوفينيًا عبر التعليم الابتدائي والثانوي والتعليم العالي، فوجد أن الأهمية المُدرَكة للتحديات الأخلاقية للذكاء الاصطناعي التوليدي ارتفعت ارتفاعاً رتيباً مع المستوى. فلم تُضف المعرفة المُقيَّمة ذاتياً بالذكاء الاصطناعي ولا الألفة به شيئاً قابلاً للاكتشاف، فكان محور المستوى لا المعرفة السابقة هو ما ينظّم الاهتمام الأخلاقي.
 
 ## من المبادئ إلى الحوكمة المؤسسية
 
@@ -103,6 +108,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 
 يتطوّر الوعي الأخلاقي والاستدلال التأملي والممارسة المسؤولة [[self-report-measures|المُبلَّغ عنها ذاتيًا]] على نحو مستقل إلى حدّ كبير. ففي ثلاث موجات سنوية لـ350 طالب [[higher-ed|بكالوريوس]] نيجيري في الحوسبة، وجد [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale وزملاؤه (2026)]] أن الثلاثة ارتفعت ارتفاعًا جوهريًا، غير أن عوامل نموّها كانت شبه غير مترابطة، ولم يتنبّأ الوعي الأولي بالنمو اللاحق.
 
+يمكن أن ترتفع الثقة في الإجراءات الأخلاقية بينما يبقى الوعي الذاتي حيث كان. فقد بنى [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones and Hoover (2026)]] الذكاء الاصطناعي التوليدي في مقرّر اختياري لأخلاقيات القيادة على المستوى الجامعي، فسلسل [[case-based-learning|الحالة]] نفسها مرة دون مساعدة ومرة بمساعدة ChatGPT، وحلّل 38 استبيان ثقة مُزاوجاً من نحو 80 طالباً. على سلّم من 0 إلى 10، انتقلت القدرة المُقيَّمة ذاتياً على التعرّف إلى المعضلة الأخلاقية من 7.24 إلى 8.39، وعلى اتخاذ قرار سليم وقابل للتعليل من 7.24 إلى 8.45، وكلاهما عند p < .001، وارتفع استخدام النظريات الأخلاقية لتعليل قرار من 5.39 إلى 7.08. أما البندان الاستبطانيان — تحديد فضائل المرء وقيمه وحقوقه (p = .063) وتعليل كيف تؤثر القيم الشخصية في القرار (p = .124) — فلم يتحرّكا، وهو ما يضع المكسب في المهارة الإجرائية لا في المعرفة الأخلاقية الذاتية.
+
 ## الروابط
 
 ترتبط الأخلاقيات بـ [[equity-in-ai-education]]، و[[privacy]]، و[[bias-mitigation]]، و[[regulation]]، و[[pedagogical-safety]]، و[[academic-integrity]]، و[[governance]]. وهي الأساس المعياري لجميع مفاهيم التعليم بالذكاء الاصطناعي الأخرى — الإطار الذي تُطرح فيه أسئلة الإنصاف والشفافية والاستقلالية والسلامة وتُحلّ فيه.
@@ -112,3 +119,9 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **«إطار الغش طريقة كافية للتفكير في أخلاقيات الذكاء الاصطناعي التوليدي.»** يرى [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] أن المؤسسات ينبغي أن تحسم أسئلة الذكاء الاصطناعي التوليدي عبر **أخلاقيات الشراكة لا إطار الغش**. فالإطار يحدّد الأسئلة التي تُطرح، وإطار سوء السلوك لا يستطيع أن يسأل عن الغرض التعليمي.
 - **«أعضاء هيئة التدريس والطلاب يتفقون على ما هو أخلاقي.»** يجد [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç و Sever (2026)]]، في دراسة [[mixed-methods-research|بأساليب مختلطة]] لـ**971 طالبًا و135 عضو هيئة تدريس**، أن الأبعاد الأخلاقية تتباين بين المجموعتين. فالسياسة المكتوبة من منظور واحد ستخطئ في وصف الآخر.
 - **«التوافق الأخلاقي يسبق الاستخدام.»** **التبنّي يسبق الاتفاق الأخلاقي**: على مدى أربعة فصول دراسية في برنامج أمريكي لتعليم المعلّمين، **ارتفع استخدام الطلاب للذكاء الاصطناعي التوليدي من 57% إلى 83% في التحضير للتقويم**. فالمعايير تتشكّل بالممارسة لا العكس.
+
+## هل يعمل تدريس الأخلاقيات على الإطلاق
+
+غالباً ما يُبرَّر تدريس أخلاقيات الذكاء الاصطناعي بافتراض لا يختبره أحد: أن [[ethics|تعليم الأخلاقيات]] يغيّر شيئاً. ويُعدّ تحليل تلوي ومراجعة منهجية من عام 2024 على 66 دراسة و9,978 طالباً أفضل اختبار متاح لذلك الافتراض في التعليم عموماً. فرفعت التدخلات الأخلاقية المخرجات الأخلاقية والمعنوية بمقدار g = 0.55 مقابل شروط المقارنة، وتجاوزت 73% من الآثار الحقيقية عتبة الإفادة المسجَّلة مسبقاً — لكن **صيغة التقديم هي المُعدِّل**: فصيغتا المناقشة والمناقشة زائد التعليم الإلقائي نجحتا (g = 0.56 وg = 0.68)، بينما لم يختلف التعليم بالإلقاء وحده عن الصفر (g = 0.10). ولم يكن التقديم عبر الإنترنت قابلاً للتمييز عن التقديم حضورياً.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+إن الانتقال إلى أخلاقيات الذكاء الاصطناعي استدلال لا نتيجة من تلك الدراسة، لكنه استدلال قوي: فوحدة أخلاقيات الذكاء الاصطناعي التي تُقدَّم على هيئة محاضرة عن التحيز والنزاهة هي، على هذا الدليل، أضعف صيغة متاحة.

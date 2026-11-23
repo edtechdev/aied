@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: التعلّم متعدّد اللغات
 created: "2026-10-12T19:20:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T19:30:19-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -17,12 +17,16 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -57,11 +61,15 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 الترجمة التبادلية إتاحة يضيفها الذكاء الاصطناعي التوليدي [[conversational-ai|الحواري]] ولم تكن توفّرها أدوات اللغة السابقة. ففي [[meta-analysis-systematic-review|مراجعة منهجية]] لـ24 دراسة، طلب المتعلّمون عبارات وتفسيرات مسيَّقة بلغتهم الخاصة كجسر إلى اللغة الهدف — وهو استخدام يصنّفه المُراجِعان كإتاحة فرعية جديدة لا كإعادة تغليف لإتاحة قائمة ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
+تكلفة اللغة في الالتحاق بالأدوات قابلة للقياس: وجد [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] أن المتعلّمين الناطقين بالإنجليزية قضوا وقتًا أطول بكثير في تعليمٍ لبناء وكلاء مُسقَّف من الناطقين الأصليين، بينما لم تُظهر مهمة التصميم المفتوحة أي فرق.
+
+تهيمن الإنجليزية حتى حيث تُستخدم أربع لغات يوميًا. ومن بين 42 طالبًا في كوراساو وأروبا، سمّى ثلثاهم الإنجليزية لغةً مفضّلة للذكاء الاصطناعي، ولم تتحول الجلسات إلا نحو البابيامنتو مع ما صار محليًّا ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## انحياز التقويم
 
 تؤثّر اهتمامات تعدّد اللغات أيضًا في [[automated-assessment|التقويم الآلي]]: فقد يُظهر [[ai-scoring-language-bias-physics|تصحيح الذكاء الاصطناعي انحيازًا لغويًا]] (كـ[[physics-education|الفيزياء]])، معاقبًا المتحدّثين غير الأصليين. وضمان عدالة أدوات التقويم عبر اللغات جزء من [[assessment-validity]].
 
-الحكم المقارن القائم على النماذج اللغوية الكبيرة حالة تتبّع فيها الانحياز خطّ الأساس البشري لا النموذج: فقد تقاربت درجات الكتابة الإخبارية للصفوف 3–6 مع محاكم الباحثين (r = .59–.73) وأظهرت أنماط انحياز تنبّئي للمتعلّمين متعدّدي اللغات مشابهةً للتصحيح البشري، دون دليل على أن قدرة أو كلفة أكبر للنموذج حسّنتا الصلاحية ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+الحكم المقارن القائم على النماذج اللغوية الكبيرة حالة تتبّع فيها الانحياز خطّ الأساس البشري لا النموذج: فقد تقاربت درجات الكتابة الإخبارية للصفوف 3–6 مع [[rubrics|سلالم تقدير]] الباحثين (r = .59–.73) وأظهرت أنماط انحياز تنبّئي للمتعلّمين متعدّدي اللغات مشابهةً للتصحيح البشري، دون دليل على أن قدرة أو كلفة أكبر للنموذج حسّنتا الصلاحية ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## دلالات للمدرّبين في السياقات متعدّدة اللغات
 
@@ -70,6 +78,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 - **اعكسوا الثقافة والسياق، لا الترجمة فحسب.** يجب أن يتجاوز الذكاء الاصطناعي متعدّد اللغات الترجمة إلى [[culturally-relevant-pedagogy|التربويات ذات الصلة الثقافية]] — مُولّدًا محتوى مناسبًا لغويًا وسياقيًا ([[llm-cultural-relevance-k12|الصلة الثقافية في ما قبل الروضة حتى الصف الثاني عشر]]).
 - **اقترنوا الذكاء الاصطناعي ببنى دعم متعدّدة اللغات.** استخدموا الأنماط الصوتية-أولًا والفموية ([[kutti-ai-voice-first-learning-companion|الأرفقة الصوتية-أولًا]]) حيث يفشل الذكاء الاصطناعي القائم على النصّ، وادعموا [[self-regulated-learning|التنظيم الذاتي]] في السياقات ثنائية اللغة ([[bilingual-llm-lecture-companion-srl-2026|رفيق المحاضرة ثنائي اللغة]]).
 - **راقبوا الفجوة الرقمية.** يُعمّق انحياز أحادية اللغة في الذكاء الاصطناعي [[digital-divide|الفجوة الرقمية]] ويُقوّض الوصول عبر [[global-south|الجنوب العالمي]] — خطّطوا لبنية ووصول إنصافيين جنبًا إلى جنب مع اختيار الأداة.
+- **يقع جهد التكييف على المعلّم.** وجد [[wang-lote-teachers-generative-ai-engagement-2026|Wang وDing وLiu (2026)]] أن مدرّسي الجامعات للغات غير الإنجليزية يُكيِّفون المطالبات ويصحّحون لغة النموذج ويعيدون تسياق المحتوى ثقافيًا ويبدّلون الأدوات كإجراء معتاد. فالعمل يُفرَض بفعل التسلسل اللغوي لا بضعف الكفاءة الرقمية، وهو غائب عن إحصاءات الاعتماد التي تعدّ مجرّد استخدام الأداة.
 
 ## المفاهيم الخاطئة الشائعة
 

@@ -1,7 +1,7 @@
 ---
 title: تقنيات الكلام والصوت
 created: "2026-10-12T19:12:00-04:00"
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_of: concepts/speech-and-voice-technologies
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [language-learning, conversational-ai, accessibility, assistive-technology, assessment, authentic-assessment, human-in-the-loop-ai, multimodal, inclusive-learning, equity-in-ai-education]
 connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-based-ai-feedback-interviews-higher-ed-2026, asr-english-speaking-feedback-metacognition-2026, genai-pronunciation-feedback-wtc-2026, llm-tts-dialogue-lesson-generation, tts-dialogue-lessons-learner-characteristics-2026, ai-interlocutor-l2-spoken-dialogue, kutti-ai-voice-first-learning-companion, agent-voice-accents-k12-group-learning, asynchronous-oral-assessment-2026, fenton-oral-exams-ai-authentic-assessment-2025, ai-supported-oral-assessment-tvet-2026, student-ai-interaction-consecutive-interpreting-2026, gpt-item-generation-l2-listening-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-guided-learning-audiovideo-2026, llm-question-generation-deaf-hard-of-hearing-2026, ai-tutor-modality-randomized-field-experiment-2026, ai-mediated-input-medical-english-asr-2026]
@@ -80,9 +84,9 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, voice-base
 
 ## الذكاء الاصطناعي في التقويم الشفهي والمنطوق
 
-كان التقويم الشفهي قويًا تربويًا دائمًا ومكلفًا لوجستيًا، وتهاجم تقنية الكلام جانب الكلفة الآن. يصف [[asynchronous-oral-assessment-2026|Pentland, Lowenthal and Krier (2026)]] [[oral-assessment|التقويمات الشفهية]] غير المتزامنة (AOAs): مطالبة تُسلَّم في حينها، وردود موجزة محدودة الوقت عبر كاميرا الويب لا يمكن العودة إليها، وتصحيح مقابل معايير مُدمجة مع نصوص مُولَّدة آليًا. وفي مقررين أدارهما معلم واحد دون قيود جدولة، سجّل الطلاب درجات أعلى في AOAs من امتحانات الاختيار المتعدد الحضورية. وكان ذلك دالًا في الدراسة 2 (وسيط النصف الأول 92.5 مقابل 70، p < .001؛ والنهائي 94.2 مقابل 86.4، p = .002) واتجاهيًا في الدراسة 1، بارتباطات متقاطعة بين الصيغتين متوسطة (τ = .44؛ τ = .25، غير دالة). وانتقل الطلاب إلى تحضير أكثر نشاطًا، ورأى 90.91% أن الصيغة أقرب إلى التواصل المهني من الامتحانات الكتابية، وأبلغ 81.82% عن انخراط أكثر نشاطًا بالمحتوى. والمؤلفون حريصون على أن هذه فروق درجات بين الصيغتين لا دليل على [[learning-gains|مكاسب تعلّم]]، وأن أفضلية النزاهة مستنبطة لا مقيسة؛ ووجد فحص إعادة تصحيح بنموذج لغوي كبير درجات المعلم أعلى بشكل منهجي باتفاق متوسط إلى جيد (ICC 0.73 و0.60)، عُرض كفحص موثوقية لا كمصادقة على [[automated-assessment|التصحيح الآلي]].
+كان التقويم الشفهي قويًا تربويًا دائمًا ومكلفًا لوجستيًا، وتهاجم تقنية الكلام جانب الكلفة الآن. يصف [[asynchronous-oral-assessment-2026|Pentland, Lowenthal and Krier (2026)]] [[oral-assessment|التقويمات الشفهية]] غير المتزامنة (AOAs): مطالبة تُسلَّم في حينها، وردود موجزة محدودة الوقت عبر كاميرا الويب لا يمكن العودة إليها، وتصحيح مقابل [[rubrics|سلالم تقدير]] مُدمجة مع نصوص مُولَّدة آليًا. وفي مقررين أدارهما معلم واحد دون قيود جدولة، سجّل الطلاب درجات أعلى في AOAs من امتحانات الاختيار المتعدد الحضورية. وكان ذلك دالًا في الدراسة 2 (وسيط النصف الأول 92.5 مقابل 70، p < .001؛ والنهائي 94.2 مقابل 86.4، p = .002) واتجاهيًا في الدراسة 1، بارتباطات متقاطعة بين الصيغتين متوسطة (τ = .44؛ τ = .25، غير دالة). وانتقل الطلاب إلى تحضير أكثر نشاطًا، ورأى 90.91% أن الصيغة أقرب إلى التواصل المهني من الامتحانات الكتابية، وأبلغ 81.82% عن انخراط أكثر نشاطًا بالمحتوى. والمؤلفون حريصون على أن هذه فروق درجات بين الصيغتين لا دليل على [[learning-gains|مكاسب تعلّم]]، وأن أفضلية النزاهة مستنبطة لا مقيسة؛ ووجد فحص إعادة تصحيح بنموذج لغوي كبير درجات المعلم أعلى بشكل منهجي باتفاق متوسط إلى جيد (ICC 0.73 و0.60)، عُرض كفحص موثوقية لا كمصادقة على [[automated-assessment|التصحيح الآلي]].
 
-يُقدّم [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] الأساس المنطقي في صيغة مراجعة: فبما أن الشفهيات آنية وتفاعلية، لا يستطيع الطلاب توليد الأجوبة مسبقًا وحفظها، والصيغة تختبر الاستدلال عند مستويات أعلى من تصنيف بلوم لا الاستذكار. وتأتي منافعها — [[personalized-learning|التخصيص]] والأصالة وجاهزية العمل والمعرفة الأعمق — بكلفات مُسمّاة: الجدولة واللوجستيات، و[[anxiety-and-stress|قلق المتعلّم]]، وخطر الانحياز حول الجنس والعرق واللغة وسرعة الرد والتصحيح غير المجهول، مع أن الدليل يشير إلى أن الشفهيات قد تكون شاملة مثل الامتحانات الكتابية لبعض المتعلّمين، بما في ذلك ذوو عُسر القراءة.
+يُقدّم [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] الأساس المنطقي في صيغة مراجعة: فبما أن الشفهيات آنية وتفاعلية، لا يستطيع الطلاب توليد الأجوبة مسبقًا وحفظها، والصيغة تختبر الاستدلال عند مستويات أعلى من [[bloom-taxonomy|تصنيف بلوم]] لا الاستذكار. وتأتي منافعها — [[personalized-learning|التخصيص]] والأصالة وجاهزية العمل والمعرفة الأعمق — بكلفات مُسمّاة: الجدولة واللوجستيات، و[[anxiety-and-stress|قلق المتعلّم]]، وخطر الانحياز حول الجنس والعرق واللغة وسرعة الرد والتصحيح غير المجهول، مع أن الدليل يشير إلى أن الشفهيات قد تكون شاملة مثل الامتحانات الكتابية لبعض المتعلّمين، بما في ذلك ذوو عُسر القراءة.
 
 يُظهر نشران ما تُضيفه التقنية. قيّم [[ai-supported-oral-assessment-tvet-2026|AkoVoice (Adams 2026)]] 33 متعلّمًا في أربعة صفوف سيارات من المستوى 3 وصف هندسة واحد من المستوى 3 في نيوزيلندا، على هوالات يملكها المتعلّمون مقابل حاسوب محمول واحد متوسط المدى يُشغّل نماذجًا مفتوحة الأوزان — Mistral 7B عبر Ollama وfaster-whisper لتحويل الكلام إلى نص وChatterbox لـ TTS — وقُيِّم حتى 12 متعلّمًا في وقت واحد، دون اتصال بالإنترنت في أي لحظة. وقد صِيغ الذكاء الاصطناعي ككاشف للأدلة لا كقاضٍ، مُبقيًا حكم المقيِّم سليمًا. وكان رد فعل المتعلّمين إيجابيًا: رأى 21 من 33 (64%) المهمة واقعية، ولم يختلف أيّ من الـ 33 على أن الكلام في الزمن الحقيقي بدا صحيحًا مقارنةً بـ [[eportfolio|ملف أعمال]] مكتوب. أما بيانات الأداء فهي الأكثر إثارة للاهتمام. فقد تباينت أعداد الكلمات للأسئلة المتطابقة خمسة أضعاف إلى ثمانية بين المتعلّمين في كل مجموعة (93–523، 92–796، 309–811)، لكن الإطناب لم يتنبأ بالدقة في الأسئلة المغلقة؛ وأجاب تسعة متعلّمين بكلمتين إلى 13 كلمة وصُنّفوا جميعًا صحيحين، وأقصرهم "3500 kgs"، بينما وُسِم الأكمل "the safe working load is three tons" مقابل دليل تصحيح لـ 3.5 طن. ووجدت تجربتان متجاورتان في البستنة (14 متعلّمًا) ومنتجات الألبان (11 متعلّمًا) تطابقًا بنسبة 95% بين درجة الوكيل الأولية ودرجة المدرّس البشري. وعلى جانب المفردات، قارن [[gpt-item-generation-l2-listening-2026|Aryadoust and Wong (2026)]] هندسة الأوامر التكرارية ([[prompt-engineering|prompt engineering]]) بـ[[llm-training-and-fine-tuning|الضبط الدقيق]] لمفردات الاستماع للغة الثانية، منتجًا 40 اختبارًا و240 مفردة اختيار من متعدد: فحسّن تنقيح الأوامر الجودة لكنه بلغ هضبة، بينما حسّن الضبط الدقيق لـ GPT-4.1 على الأمر المُحسَّن مع تثبيت تصميم الأوامر التوليد أكثر. ويُعرّض التقويم المنطوق نفسه لخطر قياس الشيء الخطأ — إذ يتتبع [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al. (2026)]] الإيماءة إلى جانب الكلام المفريغ نصيًا ويزعم أن تقويم الكلام وحده يُغفل [[embodied-learning|أدلة مُتجسّدة]] على الفهم، فيمكن الخلط بين السلاسة والمعرفة المفاهيمية.
 

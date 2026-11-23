@@ -1,7 +1,7 @@
 ---
 title: هل يجب أن نستخدم كواشف الذكاء الاصطناعي؟
 created: "2026-10-12T17:00:00-04:00"
-updated: "2026-11-15T16:08:23-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 ---
 
@@ -108,7 +112,7 @@ ai_assist:
 
 ## ضع في المهمة خطوة لا تستطيع الأداة الجلوس داخلها
 
-أدّت [[oral-assessment|التقييمات الشفهية]] غير المتزامنة، المصمّمة كأوامر آنية بأجوبة مسجّلة قصيرة ومحدّدة الزمن تُقيّم بسلالم مدمجة، أداءً مماثلاً لامتحانات الاختيار من متعدد الحضورية في دراسة، وأفضل بدلالة في أخرى، مع إبلاغ الطلاب عن تحضير أنشط وملاءمة مهنية مدرَكة أعلى. وبالنسبة إلى [[administrator|مسؤول إداري]]، فالخصيصة المهمة أنها تتوسّع دون مراقبة ([[asynchronous-oral-assessment-2026]]).
+أدّت [[oral-assessment|التقييمات الشفهية]] غير المتزامنة، المصمّمة كأوامر آنية بأجوبة مسجّلة قصيرة ومحدّدة الزمن تُقيّم بـ[[rubrics|سلالم مدمجة]]، أداءً مماثلاً لامتحانات الاختيار من متعدد الحضورية في دراسة، وأفضل بدلالة في أخرى، مع إبلاغ الطلاب عن تحضير أنشط وملاءمة مهنية مدرَكة أعلى. وبالنسبة إلى [[administrator|مسؤول إداري]]، فالخصيصة المهمة أنها تتوسّع دون مراقبة ([[asynchronous-oral-assessment-2026]]).
 
 وإعادة تصميم المهمة تفعل أكثر من تحصين الفحص. فقد وجدت دراسة حالة على طلاب اقتصاد جامعيين أن نحو الثلث فقط أبلغوا عن أي استخدام للذكاء الاصطناعي، وأن الإفصاح كان أندر، وقرأت عدم الإفصاح حذراً عقلانياً في ظل سياسة ملتبسة لا خداعاً. وأولئك الطلاب أنفسهم فضّلوا المهام الواقعية القائمة على البيانات حلاًّ ([[kirsanov-beyond-detection-ai-online-assessments-2026]]). فتوقّع استخدام الذكاء الاصطناعي والإعلان عنه وفحصه يتفوّق على مراقبته، لأن [[authentic-assessment|الأصالة]] يجب أن تُصمَّم لا أن تُفرض ([[beyond-detection-authentic-assessment-ai-2025]]).
 

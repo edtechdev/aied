@@ -1,7 +1,7 @@
 ---
 title: نموذج SAMR
 created: "2026-10-12T20:00:00-04:00"
-updated: "2026-11-08T06:32:21-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -9,7 +9,7 @@ page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
-source_updated: "2026-11-02T09:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/samr-model
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]

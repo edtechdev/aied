@@ -1,7 +1,7 @@
 ---
 title: دعم الطلاب ونجاحهم
 created: "2026-10-12T16:00:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -28,8 +28,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-19T10:16:37-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 connected_concepts: [higher-ed, student-experience, learning-gains, learning-analytics, student-modeling, knowledge-tracing, recommender-systems-and-learning-paths, help-seeking, well-being, career-development-and-readiness, administrator, stakeholders, change-management, governance, educational-policy-ai, equity-in-ai-education, privacy, human-in-the-loop-ai, rct]
 connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-enabled-student-support-2026, chatbot-outreach-course-performance-2026, lopez-pernas-llm-appropriate-student-support-2026, sc2r-counterfactual-recourse-educational-2026, fairness-theatre-early-warning-systems-2026, at-risk-students-ml-prediction, predicting-attrition-competitive-programming, villegas-ch-federated-explainable-learning-analytics-2026, precision-education-student-digital-twins-2026, learning-analytics-to-educational-interventions-2026, course-specific-rag-help-seeking-higher-ed-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, trace-course-grade-prediction-2026, zhang-ml-student-progress-programming-2026, ai-higher-ed-service-delivery-systematic-review-2026, sposato-ai-educational-leadership-taxonomy-2025, students-at-stake-ai-deployment-risks-2026, ai-campus-wellbeing-tools, shastry-gray-empathy-offloading-2026, coursegraph-cs-course-comparison-2026, credentials-carry-evidence-ai-agents-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, rienties-institutional-ai-assistant-co-design-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-conversational-interfaces-information-seeking-2026]
@@ -57,6 +61,8 @@ connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-ena
 
 تتجمّع الأبحاث في خمس وظائف، وحدود التجمّعات مهمة لأنها تحمل أدلة مختلفة.
 
+وجدت مراجعة لـ61 دراسة عن دعم المتعلّمين الممكَّن بالذكاء الاصطناعي أن الميدان يتركّز في [[adaptive-learning|الأنظمة التكيّفية]] و[[personalized-learning|التخصيص]] (41 استخدامًا) والتنميط والتنبؤ (30)، مع تولّي روبوتات المحادثة والموصيات لاستقبال الطلاب والاستفسارات الروتينية. ووجدت الفجوات أيضًا: فلم يعالج أي تدخّل مرحلة انتقال المتعلّم، وسمّت دراستان فقط مجموعة فرعية من الطلاب، فكان المتعلّم العام في معظم الأنظمة متوسطًا إحصائيًا ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
+
 **التواصل والتفاهم.** تُرسل المؤسسات رسائل إلى الطلاب على نطاق واسع، وأقوى التقييمات تختبر عمّا إذا كان ذلك يغيّر شيئًا. فدراسة معشاة على مدى أربع سنوات لـCSUNny، وهو روبوت حواري غير توليدي بالرسائل النصية في جامعة كاليفورنيا الولائية نورث ريدج، تابعت مجموعتين جامعيتين (N = 8,708) على مدى ثمانية فصول دراسية ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). وقد جعل تذكير التسجيل المُرسَل في 31 يوليو 2018 الطلاب المعالَجين أكثر احتمالًا للتسجيل قبل 16 أغسطس بمقدار 34 نقطة مئوية وأكثر احتمالًا بمقدار نقطتين فقط قبل 15 سبتمبر؛ وأنتجت تذكيرات Early Start تسجيلًا أكثر بـ11 نقطة قبل 7 يونيو وبـ20 نقطة قبل 22 يونيو. واستمرّ التقبّل: فلم تتجاوز معدّلات الانسحاب السنوية 4%. ودربت تجربة متعددة الفصول مُسجَّلة مسبقًا في جامعة ولاية جورجيا طلابًا في مقررين غير متزامنين كبيرين (N = 1,568 وN = 915) برسالتين إلى ثلاث رسائل مخصّصة في الأسبوع، رافعةً احتمالات الحصول على تقدير A أو B بأربع نقاط مئوية مقابل 61% من ضبط المجموعة، ومحوّلةً معدّلات DFW بنحو ثلاث نقاط في كل مقرّر ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 **الإرشاد والتخطيط الأكاديمي.** يُمدّ التنبؤ بالمقرّرات والدرجات مدخل التخطيط — فنموذج واحد يتنبّأ مجتمعًا بأي المقرّرات سيأخذها الطالب وبأي الدرجات سيحصل عليها ([[trace-course-grade-prediction-2026|Savala, 2026]])، ونموذج آخر يتنبّأ بتقدّم الوحدة في مقرّرات البرمجة الكبيرة عبر الإنترنت بشجرة قرار قابلة للتفسير جوهريًا ([[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska, 2026]]). والاعتماد المنتقَل مسألة إرشاد في ذاتها: إذ تُنمذج CourseGraph محتوى المقرّر كمخططات معرفية لتقييم تكافؤ المقرّرات الخارجية للطلاب المتنقّلين ([[coursegraph-cs-course-comparison-2026|Nijdam et al., 2026]]). وعلى المستوى المؤسسي، وجد استعراض لـ155 دراسة في الذكاء الاصطناعي وتقديم الخدمات في التعليم العالي أن تحليلات التعلّم هي التطبيق الأكثر شيوعًا بـ46 دراسة (29.7%)، متقدّمةً على الروبوتات الحوارية والمساعدين الافتراضيين بـ31 (20.0%) والتحليلات التنبؤية بـ29 (18.7%) ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga, 2026]]).
@@ -70,8 +76,6 @@ connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-ena
 وما تُزيحه قناة الدعم بالذكاء الاصطناعي يستحق المحاسبة نفسها. عبر أربع دراسات (N = 249، و494، و743، و737)، رفع الاعتقاد بقدرة الذكاء الاصطناعي على تقديم الدعم العاطفي الاستعداد لإسناد ذلك الدعم إليه، ومرّ الأثر كله عبر القدرة المدرَكة (الأثر الكلي c = 0.83؛ الأثر غير المباشر ab = 0.73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). وعلى مقياس سلوكي، اختار المشاركون الذين قالوا إنهم لن يُسندوا كلمات [[empathy|تعاطف]] أقل، فتوجيه الطلاب إلى قناة عافية بالذكاء الاصطناعي قد يطرح دعمًا بشريًا بطرائق لا يُظهرها [[self-report-measures|التقرير الذاتي]].
 
 **المساعدة الإدارية.** وتُدرَس القيادة والإدارة كمجال تطبيقي في ذاته، بتصنيف عشرة مجالات يرسم خريطة موضع الذكاء الاصطناعي في القيادة التعليمية ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). وتمتدّ خدمات المؤسسة إلى ما بعد الإرشاد إلى الصحة: فإطار العافية الحرمية المدمج يقرن الوقاية — تحسين كيفية جمع التغذية الراجعة — بالتدخّل من خلال كشف الصحة النفسية ([[ai-campus-wellbeing-tools|Tang, 2026]]). وتجلس التوثيق مجاورةً: فحين يستطيع وكيل أن يُنجز مقررًا نيابةً عن طالب، يفقد التوثيق الذي يقول «مكتسب» معناه، وهو ما يحوّل سجلات الإتمام إلى مشكلة تصميم ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
-
-وجدت مراجعة لـ61 دراسة عن دعم المتعلّمين الممكَّن بالذكاء الاصطناعي أن الميدان يتركّز في [[adaptive-learning|الأنظمة التكيّفية]] و[[personalized-learning|التخصيص]] (41 استخدامًا) والتنميط والتنبؤ (30)، مع تولّي روبوتات المحادثة والموصيات لاستقبال الطلاب والاستفسارات الروتينية. ووجدت الفجوات أيضًا: فلم يعالج أي تدخّل مرحلة انتقال المتعلّم، وسمّت دراستان فقط مجموعة فرعية من الطلاب، فكان المتعلّم العام في معظم الأنظمة متوسطًا إحصائيًا ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
 
 ## من التنبؤ إلى الدعم
 
@@ -92,6 +96,8 @@ connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-ena
 - **التخرّج** هو المخرَج النهائي متعدد السنوات. وكان متوسط التخرّج في ضبط المجموعة بحلول السنة الرابعة 0.190 في دراسة CSUN، ولم يكن الأثر العلاجي عليه معتبرًا إحصائيًا.
 
 وتفسير المؤلفين للنمط هو الدعوى المركزية للصفحة: فالتذكير يعمل على قرار متقطّع وقريب المدى، بينما البقاء والمعدل التراكمي تراكميان ويشكّلهما التدريس والمال والتوظيف وظروف الأسرة والإعداد المسبق. ويخلصون إلى أن التواصل من خلال أداة كهذه، **بذاته**، قد لا يكون كافيًا لتغييرهما — وإلى أن الفراغات دقيقة لا ناقصة القدرة. ولا يزال التسجيل المبكر يحمل قيمةً مؤسسية لتخطيط العاملين والمساحات حتى حيث لا تتحرّك مخرجات التعلّم.
+
+يمكن لقناة الدعم أن تُحرّك عبء العمل المؤسسي دون أن تُحرّك أيّ درجة من هذا السلّم. ففي مقرر تصميم هندسي للسنة الأولى ضمّ أكثر من 800 طالب، انخفضت أسئلة نموذج المساعدة لكل طالب من 1.16 إلى 0.5، بانخفاض قدره 57%، بينما ثبت مزيج أنواع المشكلات عند 29% للتكليفات، و33% للدرجات، و27% للبرمجيات، و11% لغير ذلك ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al., 2026]]). ويُصرّ المؤلفون على أن هذه نتيجة تقيس عبء العمل لا التحصيل، وهي المحاسبة التي تغفل عنها دراسة الجدوى للدعم عادةً.
 
 ## الإنصاف ومخاطر التصرّف على أساس درجة
 
@@ -114,3 +120,9 @@ connected_articles: [cefa-ai-learner-support-review-2026, mata-sustaining-ai-ena
 **«سلّم المخرجات ينهار: الانخراط هو الاستبقاء.»** كل درجة تقيس شيئًا مختلفًا — الاشتراك، والاستجابة، والمثابرة، والإتمام — وقد يحرّك برنامج الدرجات الدنيا ويترك العليا مسطّحة. والإبلاغ عن نسبة المستجيبين كنجاح يرتكب ذلك الاستبدال بالضبط.
 
 **«القلق على الإنصاف سبب للتوقف عن استخدام البيانات.»** بل هو سبب للتصرف على أساس الدرجات بعناية. فالتصرف على أساس متنبئ قد يوزّع الدعم وقد يوزّع الشك، والخطر يتركّز على الطلاب الذين يصنّفهم النموذج بأقل تفضيل — وهو ما يجعل العلاج حوكمةَ الاستخدام لا التخلي عن القياس.
+
+## روبوتات المحادثة مقابل المواقع الإلكترونية للمعلومات المؤسسية
+
+تتولّى خدمات الطلاب على نحو متزايد الإجابة عن الأسئلة عبر مساعد حواري، واختبرت تجربة عشوائية في 2026 المفاضلة مباشرةً: بحث 299 بالغًا تتراوح أعمارهم بين 18 و25 عامًا عن خمس معلومات عن البرنامج إما عبر موقع الجامعة أو عبر مساعد GPT-4o مُستندًا إلى ملفات PDF للبرنامج. فكان الروبوت أسرع (312 ثانية مقابل 505 ثانية) وأدقّ (95.6% مقابل 78.5%، OR = 7.84)، وحصل على تقييم أفضل في كل مقياس إدراكي باستثناء النية السلوكية التي لم تختلف. ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]])
+
+والاستثناء هو الاستثناء المهم عمليًا: فعلى السؤال الذي يسأل عمّن يُتواصل معه بشأن تجاوز المقرر، فاز الموقع، 96.5% مقابل 85.2%. فالمعلومات المرتبطة بشخص أو مكتب مُسمًّى هي الموضع الذي لا يزال فيه الموقع القابل للتصفّح يتفوّق على الجواب المولَّد، لذا فالمساعد أنفع ما يُستخدم طبقةً فوق الموقع لا بديلًا عنه.

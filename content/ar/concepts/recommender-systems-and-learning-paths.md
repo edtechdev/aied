@@ -11,8 +11,8 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-11-05T21:30:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [knowledge-graph, explainable-ai, curriculum-design, learning-design, learning-analytics, cognitive-diagnosis, knowledge-tracing, student-modeling, personalized-learning, adaptive-learning, intelligent-tutoring, bias-mitigation, equity-in-ai-education, human-in-the-loop-ai, self-directed-learning, lifelong-learning, trust-calibration, student-support-and-success]
 connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-explainable-edu-recommendations, xai-teachers-trust-edtech-recommendations-2026, proprl-prerequisite-relation-learning, pattern-kc-programming-recommendation, learning-paths-patterns-learning-design-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, knowledge-gap-detection-ai-tas, learnity-graphs-lifelong-learning-framework-2026, human-ai-collaboration-prerequisite-functions, dual-ai-learning-pathways-sdt-2026, ikram-ai-personalized-learning-review-2026, personapath-personalized-learning-paths-2026, exrec-exercise-recommendation-knowledge-tracing-2025, najem-behavioral-clustering-adaptive-learning-recommendation-2026]
@@ -89,7 +93,7 @@ connected_articles: [hybrid-cf-kg-recommendation-multimodal-teaching-2026, fair-
 
 ## مخاطر وأسئلة مفتوحة
 
-لقاعدة الأدلة شكل متسق: مقاييس ترتيب دون اتصال قوية، وأدلة ضعيفة حول التعلّم. كلتا دراستَي أنظمة التوصية المذكورتين أعلاه مُقوَّمتان على سجلات تفاعل تاريخية وتقولان ذلك، ويدعو مؤلفو المرشّح التعاوني–الرسم المعرفي صراحةً إلى تقويمات المدرّسين ودراسات المتعلّمين وتجارب قائمة على النتائج. وبقي الانحياز للشعبية بعد هدف تدريب واعٍ بالإنصاف في نظام واحد، لذا لا يستطيع المجال بعد الإشارة إلى إصلاح بإعادة الترتيب أو التنظيم يغيّر الانكشاف بثقة، وتبقى تدقيقات الإنصاف محدودة بما تحتويه سجلات أنظمة إدارة التعلّم. ويُعالَج البدء البارد معماريًا، عبر البنية الدلالية، لكنه غير مُختبَر على مستخدمين جدُد حقًا في نشر حيّ. وكفاءة المسار مُدعَّمة بأدلة أفضل، مع أن أرقام الكفاءة لا تزال تقوم على دراسة واحدة وعائلة خوارزميات واحدة، والمسار الأقصر ليس أفضل تلقائيًا إذا حذف [[desirable-difficulties|الكفاح المنتج]] الذي يحتاجه متعلّم. ويشحذ عمل تحسين المسار الرسمي النقطة في الاتجاهين: ضمان صعوبة لا يقول شيئًا عن مدوّن معيّن، إذ أصاب متسلّق التلال قمة سلم [[retrieval-spacing-interleaving|التداخل]] على كل ملف حقيقي رغم أدلة اكتماله NP-hard، والمسار المُصنّف 3.54 على سلم مشتق نظريًا ما زال مسارًا لم يُختبر على متعلّمين، لذا فجودة السلم بديل موجّه للمصمّم عن أدلة النتيجة لا بديل عنها. والمفردات أيضًا غير مستقرة: يُبلّغ [[ikram-ai-personalized-learning-review-2026|Ikram وزملاؤه (2026)]]، في مراجعة [[meta-analysis-systematic-review|PRISMA]] لـ31 مقالًا مفهرسًا في Scopus (2013–2025)، عن آثار معرفية متوسطة إلى كبيرة (g = 0.50–0.70) لأنظمة التكيف الممكنة بالذكاء الاصطناعي تتوسط فيها بشدة جودة التنفيذ و[[research-methods-aied|تصميم الدراسة]].
+لقاعدة الأدلة شكل متسق: مقاييس ترتيب دون اتصال قوية، وأدلة ضعيفة حول التعلّم. كلتا دراستَي أنظمة التوصية المذكورتين أعلاه مُقوَّمتان على سجلات تفاعل تاريخية وتقولان ذلك، ويدعو مؤلفو المرشّح التعاوني–الرسم المعرفي صراحةً إلى تقويمات المدرّسين ودراسات المتعلّمين وتجارب قائمة على النتائج. وبقي الانحياز للشعبية بعد هدف تدريب واعٍ بالإنصاف في نظام واحد، لذا لا يستطيع المجال بعد الإشارة إلى إصلاح بإعادة الترتيب أو التنظيم يغيّر الانكشاف بثقة، وتبقى تدقيقات الإنصاف محدودة بما تحتويه سجلات أنظمة إدارة التعلّم. ويُعالَج البدء البارد معماريًا، عبر البنية الدلالية، لكنه غير مُختبَر على مستخدمين جدُد حقًا في نشر حيّ. وكفاءة المسار مُدعَّمة بأدلة أفضل، مع أن أرقام الكفاءة لا تزال تقوم على دراسة واحدة وعائلة خوارزميات واحدة، والمسار الأقصر ليس أفضل تلقائيًا إذا حذف [[desirable-difficulties|الكفاح المنتج]] الذي يحتاجه متعلّم. ويشحذ عمل تحسين المسار الرسمي النقطة في الاتجاهين: ضمان صعوبة لا يقول شيئًا عن مدوّن معيّن، إذ أصاب متسلّق التلال قمة [[rubrics|سلّم التقدير]] في [[retrieval-spacing-interleaving|التداخل]] على كل ملف حقيقي رغم أدلة اكتماله NP-hard، والمسار المُصنّف 3.54 على سلم مشتق نظريًا ما زال مسارًا لم يُختبر على متعلّمين، لذا فجودة السلم بديل موجّه للمصمّم عن أدلة النتيجة لا بديل عنها. والمفردات أيضًا غير مستقرة: يُبلّغ [[ikram-ai-personalized-learning-review-2026|Ikram وزملاؤه (2026)]]، في مراجعة [[meta-analysis-systematic-review|PRISMA]] لـ31 مقالًا مفهرسًا في Scopus (2013–2025)، عن آثار معرفية متوسطة إلى كبيرة (g = 0.50–0.70) لأنظمة التكيف الممكنة بالذكاء الاصطناعي تتوسط فيها بشدة جودة التنفيذ و[[research-methods-aied|تصميم الدراسة]].
 
 وبدأت الأدبيات نفسها باقتراح علاجات للتضييق، دون اختبارها بعد. يُجمّع [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem وZaoui Seghroucheni وZiti (2026)]] 14,003 سجل طلاب على 12 مدخلًا سلوكيًا ونفسيًا وبيئيًا مُبلَّغًا ذاتيًا في ستة ملفات بـK-Means++ وفصل قوي (صورة ظلية 0.62؛ η² = 0.770 على الدرجة النهائية، مع فجوة 40.17 نقطة في متوسط درجة الامتحان بين أعلى الملفات وأدناها)، ثم يرسمون الملفات إلى كائنات التعلّم عبر درجة ألفة مقترنة بمصفوفة رسم Felder-Silverman وعنصر تنظيم للتنوع (λ = 0.30) هدفه الصريح منع نظام التوصية من الانهيار في ما يفضّله الملف أصلًا. والتصميم هو المساهمة والأدلة ليست كذلك: طبقة التوصية مفاهيمية دون نشر أو مقياس نتيجة مُبلَّغ، ويذكر المؤلفون أن مدخلات التجميع بدائل مُبلَّغة ذاتيًا لا آثار تفاعل من نظام إدارة التعلّم. وهي جواب مرشّح لفجوة التنظيم التي تلاحظها هذه الصفحة، ما زال ينتظر التحقق الذي تقول الصفحة إن المجال يفتقده.
 

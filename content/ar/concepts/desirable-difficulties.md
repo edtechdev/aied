@@ -8,8 +8,8 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-05T23:00:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,7 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
+connected_resources: [agentic-builds]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

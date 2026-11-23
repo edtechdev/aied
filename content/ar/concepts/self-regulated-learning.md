@@ -11,7 +11,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [learners, metacognition, self-assessment, self-efficacy, scaffolding, feedback, feedback-literacy, help-seeking, motivation, cognitive-offloading, generative-ai, ai-literacy, self-directed-learning, agency, adaptive-learning, formative-assessment, learning-by-teaching, intelligent-tutoring, llm, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function]
 connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulated-learning-meta-analysis-2026, li-genai-dependency-effort-regulation-2026, fonteles-embodied-learning-human-in-the-loop-multimodal-2026, llm-math-homework-offloading-traces-2026, genai-curriculum-analytics-mapping-higher-ed-2026, aigc-affordance-student-self-regulation-2026, brunnstrom-ai-interaction-literacy-srl-2026, 5p-reflection-model-genai-2026, layer-sensitive-cognitive-offloading-writing-2026, reclaiming-epistemic-agency-co-agency-2026, de-barba-srl-genai-2026, rented-self-decoupling-performance-becoming-2026, song-genai-learning-partner-srl-over-time-2026, lim-bannert-student-regulation-genai-chatbot-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, banihashem-ai-srl-systematic-mapping-review-2025, yilmaz-genai-feedback-srl-online-higher-ed-2026, ai-anxiety-strategic-regulation-writing-2026, young-people-learning-generative-ai-rapid-review-2026, agentic-ai-pedagogical-best-practice-2026, decreasing-digital-distraction-college-online-learning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, scan-framework-task-assignment-generative-ai-2025, learning-analytics-genai-secondary-writing-2026, alatoai-ai-learning-environments-self-regulation-2026, iqbal-human-genai-support-essay-revision-2026, melanou-genai-learning-dynamics-longitudinal-2026, genai-literacy-srl-special-education-2026, preservice-teachers-ai-support-innovative-competence-2026, genai-learning-procrastination-planned-behavior-2026, genai-srl-l2-writing-scale-2026, borchers-srl-language-generalization-2025, ai-project-hybrid-learning-self-regulated-2026, davis-ai-ta-forum-peer-co-regulation-2026, wang-genai-metacognitive-prompting-preconceptions-2026, gouroubera-genai-benin-2026, lasekan-chatbot-language-learning-partner-2026, wilder-adhd-ai-interview-eye-tracking-2025]
@@ -198,9 +203,15 @@ connected_articles: [futterer-srl-genai-support-rct-2026, zhang-ai-self-regulate
 
 - **يستطيع GPT-4o بناء كتاب ترميز للتعلّم موجّه الذات مؤسَّس نظريًا من قاعدته المعرفية وحدها.** بإعطائه مراجع Zimmerman (2000) وWinne وHadwin (1998) فقط، اقترح GPT-4o بنى تغطي مراحل Zimmerman الثلاث وثلاثًا من مراحل Winne-Hadwin الأربع، مع غياب مرحلة تعريف المهمة وحدها، واستقر كتاب الترميز بتنقيح بشري عند 11 بنية ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano وآخرون (2026)]]). وأغلقت إضافة 955 عبارة تفكير بصوت مرتفع من 15 طالبًا إلى التلقين الفجوة، فغطّت كل مراحل النموذجين وأدخلت رموزًا مؤسَّسة على البيانات مثل تحديد الخطأ. وبقي التنقيح البشري ضروريًا: فدمج مبرمجان اقتراحات GPT المتداخلة (التخطيط مقابل تحديد الهدف، والمراقبة مقابل التقويم، وتقويم الناتج مقابل العملية)، ولم تظهر أي هلوسات.
 
+تحريض المتعلّمين على التنظيم الذاتي ليس هو تعليمه. في تجربة معشّاة من أربع جلسات مع 371 طالبًا في الصفوف 7–9، لم تُحسِّن مطالبات قيمة المنفعة ولا مطالبات الاستراتيجيات المعرفية استخدامَ الاستراتيجيات أو الاهتمام أو الجهد أو المعرفة المجالية مقارنةً بنسخة ChatGPT القياسية ([[futterer-srl-genai-support-rct-2026|Fütterer et al., 2026]]). ويهمّ هذا العدم لأن التدخّل أضاف مطالبات تأمّل إلى مهمّة تعلّم لم تتغيّر: فما كان ينظّم العمل يقبع في المهمة والصف، لا في المطالبة.
+
+التقرير الذاتي هو الحلقة الأضعف في الأدلة. في دراسة [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder and Stratchan]] على 46 طالبًا مصابين باضطراب نقص الانتباه مع فرط الحركة، لم يتنبّأ المقياس الفرعي للتنظيم الذاتي ما وراء المعرفي في MSLQ بفئة المقابلة (p = 0.312)، بينما تنبّأت به مهمة أداء تقيس المرونة المعرفية. ولا تدلّ النتيجة على أن التنظيم الذاتي غير ذي صلة؛ بل تدلّ على أن رواية المتعلّم عن تنظيمه وقدرته على تبديل القواعد تحت الضغط أمران يُقاسان على نحو منفصل. وتقع جوانب القدرة على عاتق [[executive-function|الوظيفة التنفيذية]].
+
 ## المفاهيم الخاطئة الشائعة
 
 - **«التنظيم الذاتي سمة للمتعلّم».** يتحلّل التعلّم المنظّم إلى **تأمّل ذاتي ونسب سببي وتكيّف**، ويوظّف المتعلّمون المتمكّنون **استراتيجيات معرفية لتحسين النجاح**. وهذه عمليات قابلة للتدريب يمكن للتصميم أن يدعمها أو يقوّضها.
 - **«أي تصميم تكيّفي يدعم التنظيم بالقدر ذاته».** قارنت تجربة ميدانية معشّاة **بتصميم 2x2 ومع 179 طالبًا على مدى 22 يومًا** لدى [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] مبدأين للتصميم ووجدتهما مختلفين في الآلية، فـ«التكيّفي» ليس معالجة واحدة.
 - **«القلق يقوّض التنظيم».** في دراسة بطرائق مختلطة على **107 طلاب**، ارتبط [[anxiety-and-stress|قلق الذكاء الاصطناعي]] الأعلى **ارتباطًا إيجابيًا بالتحقّق وإعادة الفحص**. عمل القلق كمحفّز على التحقّق، وهو تنظيم لا غياب له.
 - **التنظيم الذاتي ما وراء المعرفي تنبّأ بالحمل المعرفي ذي الصلة بالتعلّم حيث لم تفعل [[ai-feedback-quality|التغذية الراجعة بالذكاء الاصطناعي]].** في دراسة ميدانية من خمسة أسابيع مع **234 طالبًا و1,147 مشاهدة**، كان التنظيم الذاتي ما وراء المعرفي متنبّئًا إيجابيًا معتبرًا بـ**الحمل المعرفي الجَرماني** (β = .363، p < .001 بحسب نيّة المعالجة؛ .346، p < .001 بحسب الاستخدام). ولم يتنبّأ بشكل معتبر بالحمل الدخيل، بينما لم يتنبّأ مجرّد الوصول إلى التغذية الراجعة المحادثية بالذكاء الاصطناعي بأي منهما. والمشاركة **المستمرة** مع التغذية الراجعة وحدها فرّقت بين الطلاب في الحمل الجَرماني، ولم يفعل الاستخدام غير المنتظم ذلك (β = −.219، p = .116). وهذا يضع المكوّن الفعّال في تنظيم المتعلّم للمعالجة لا في عرض التغذية الراجعة ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
+
+إعداد النموذج اللغوي الكبير بوصفه شريكًا مشكلةُ تنظيمٍ ذاتيّ قبل أن تكون مشكلةَ اختيار أداة. في 117 سردًا عموميًا لاستخدام النماذج اللغوية الكبيرة في تعلّم اللغة، كان السردود الـ24 التي نسّقت تفاعلًا متعدّد الخطوات أكثر تخصيصًا من الـ93 الأخرى بفارق كبير (70.8% مقابل 15.1%) وأكثر إبلاغًا عن منافع مُدرَكة (3.29 مقابل 1.96)، غير أن 68.4% أشادت بالنموذج دون تسمية تحسّن قابل للقياس، وأبلغ 10.3% فقط عن تحسّن ([[lasekan-chatbot-language-learning-partner-2026|Lasekan et al. (2026)]]).

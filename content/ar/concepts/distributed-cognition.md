@@ -6,7 +6,7 @@ foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -18,7 +18,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T10:26:27-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
 connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
 ---
@@ -39,7 +39,7 @@ connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari
 
 هذا مفهوم نظري في التعلّم داخل خيط [[learning-theories]] في قاعدة المعارف، وثيق الصلة بـ[[embodied-learning]] و[[situated-learning]] و[[cognitive-offloading]]. يصف الإدراك الموزّع (DCog)، المُنشَأ في عمل Edwin Hutchins وزملائه، كيف تُنشَر عمليات إدراكية كالذاكرة والاستدلال و[[problem-solving]] على وكلاء متعدّدين وأنظمة مادية لا أنها تقيم في رأس واحد. في [[ai-education|تعليم الذكاء الاصطناعي]] يهمّ ذلك لأن أنظمة الذكاء الاصطناعي تعمل بشكل متزايد كشركاء إدراكيين حقيقيين يحملون جزءًا من حِمل التفكير، مُطالِحةً سؤالَ *أين* يقع التعلّم فعلًا و*مَن* المسؤول.
 
-### كيف يُحوّل الذكاء الاصطناعي توزيع الإدراك
+## كيف يُحوّل الذكاء الاصطناعي توزيع الإدراك
 
 تُعيد أنظمةُ الذكاء الاصطناعي التوليدية والتفاعلية توزيعَ العمل الإدراكي بطرق لم تفعلها الأدوات الأسبق. تُوثّق قاعدة المعارف عدة أبعاد لهذا التحوّل:
 
@@ -56,7 +56,7 @@ connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari
 
 - **الإدراك الممتد خيار تصميمي لا خاصية أداة.** يجادل [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa and Duarte Arias (2026)]] بأن الذكاء الاصطناعي التوليدي استبدالي افتراضيًا لأنه يؤدي المهمة الإدراكية، لكن النظام نفسه يصير تكميليًا حين ينقد مسودة أو يقدّم تغذية راجعة على المتعلّم تقييمها. ويجعل إطار العقل الممتد وحدةَ التحليل المصنوعَ مع استخدامه، وهو الصيغة المعيارية لسؤال التوزيع في هذه الصفحة.
 
-### الإدراك الموزّع والمنظورات ذات الصلة
+## الإدراك الموزّع والمنظورات ذات الصلة
 
 تتعامل قاعدة المعارف مع الإدراك الموزّع إلى جانب تقاليده النظرية المُجاوِرة التي تتقاطع ولا تتطابق:
 
@@ -65,11 +65,11 @@ connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari
 - **[[cognitive-offloading]]** هي الآلية العملية التي يُسلَّم بها العمل الإدراكي إلى أنظمة خارجية (ومنها الذكاء الاصطناعي)، وهي نظيرُ الإدراك الموزّع الحامل للمخاطر.
 - **الإدراك الممتد / أطروحة العقل الممتد** (المستخدمة في العمل ما بعد الإنساني) تُدّعي أن القطع الخارجية قد تكون أجزاءً *مُكوِّنةً* لنظام إدراكي، لا مجرّد آلات — دعوى أقوى بأن الذكاء الاصطناعي جزء من عقل المتعلّم نفسه.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### إدراك مَن؟ مشكلة وحدة التحليل
+## إدراك مَن؟ مشكلة وحدة التحليل
 
 يدفع [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] سؤال وحدة التحليل هذا أبعد مما تفعله معظم أعمال هذا التقليد. فادعاؤه أن الثقافة ليست ملكًا فرديًا بل شيء يُنجَز مع المواد والآلات، وهو ما يجعل المتعلّم الفرد وحدة التحليل الخاطئة. ولذا لا يستطيع إطار كفاءة متمركز حول الشخص أن يسجّل المساهمات البنيوية أو غير البشرية، فيظل الميدان يسمّي التوزيع ثم يحلّه عائدًا إلى المتعلّم. وحافة الإنصاف في حجّته عن الصعوبة: فالتأملية تعتمد على الخبرة الحياتية وعلاقات القوة، لذا يحمل الطلاب الذين تقع لغتهم أو ممارساتهم الكتابية أبعد ما يكون عن المعيار المُشفَّر أكبر كلفة. والحجّة نظرية ولا تُبلّغ عن أي مجموعة بيانات، وتوجّهاتها التصميمية تبقى مقترحات غير مُختبَرة.
 
-### لماذا يهمّ لتصميم الذكاء الاصطناعي وتقييمه
+## لماذا يهمّ لتصميم الذكاء الاصطناعي وتقييمه
 
 يوفّر الإدراك الموزّع عدسةَ تصميم وعدسةَ تقييم. فمن حيث التصميم، يسأل كيف يُقَسَّم العمل الإدراكي بين المتعلّمين والذكاء الاصطناعي للحفاظ على (لا لتحليل) مبادرة المتعلّم البشري و[[metacognition]] وتنظيمه الذاتي. ومن حيث التقييم، يُعيد تأطير مقاييس النجاح: فبدلًا من السؤال فقط «هل تحسّن الأداء؟»، يسأل الإدراك الموزّع ما إذا كان توزيع الإدراك يساند تعلّمًا متينًا ومبادرةً معرفيةً وعدالةً تربويةً — منظورٌ يرتبط بهمَّي [[ai-ed-evaluation]] و[[learning-theories]] في قاعدة المعارف.
 

@@ -12,7 +12,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-19T14:06:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,11 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-08T06:32:21-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
+    agent: hermes-agent
+updated: "2026-11-22T16:05:00-05:00"
 connected_concepts: [limitations-in-aied-research, learning-design, ai-ed-evaluation, educational-measurement, assessment-validity, self-report-measures, learning-gains, differential-effects-across-learner-groups, research-methods-aied, ai-assisted-educational-research, meta-analysis-systematic-review, quantitative-research, benchmark, rct, intelligent-tutoring, cognitive-offloading, ai-use-disclosure, theory-development-aied]
 connected_articles: [oneill-presumed-effective-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, weidlich-chatgpt-effect-search-cause-2025, ai-supported-instruction-stem-meta-analysis-2026, know-when-to-trust-ai-scoring-reliability-2026, verification-quality-reliance-calibration-genai-2026, citation-errors-hallucinations-computing-education-2026, stanford-evidence-base-ai-k12-2026, ai-tutoring-micro-rct-gcse-science-2026, chick-faculty-development-ethical-ai-2026, ai-tutoring-quality-k12-methodologies-2026, ai-assisted-assessment-instruction-higher-ed-2026, instruction-partners-ai-in-action-learning-tour-2026, ai-higher-ed-service-delivery-systematic-review-2026]
 ---

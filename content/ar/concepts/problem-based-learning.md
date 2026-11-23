@@ -9,8 +9,8 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
-updated: "2026-11-08T10:26:27-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
@@ -61,6 +65,7 @@ connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-cond
 - **تطبيقات المجال.** تستخدم أطر التعلّم القائم على المشكلات لـ[[engineering-education|الهندسة الطبية الحيوية]] GenAI للتلخيص ودعم الترميز مع حزم إعادة الإنتاج ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]])؛ ويعزّز التعلّم القائم على المشكلات المدعوم بالذكاء الاصطناعي [[computational-thinking|التفكير الحاسوبي]] في [[educational-robotics|الروبوتات]] ([[ai-pbl-computational-thinking-2026|التعلّم القائم على المشكلات المدعوم بالذكاء الاصطناعي للتفكير الحاسوبي]])؛ وتدعم المرضى الافتراضيون المُمكَّنون بـgenAI دروس أخذ التاريخ الطبي ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **توليف الأدلة.** يُراجع [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|بمنهجية]] 50 دراسة (2015–2024) عن اشتباك المربّين بالذكاء الاصطناعي في التعلّم القائم على المشكلات ضمن إطار [[human-ai-collaboration|تفاعل الإنسان والحاسوب]].
 - **GenAI في التعلّم القائم على المشكلات القائم على السيناريوهات.** يُدرج [[genai-scenario-based-healthcare-education-2026|Neto وزملاؤه (2026)]] التعلّم القائم على المشكلات ضمن المقاربات القائمة على السيناريوهات في مراجعتهم المنهجية لـGenAI في تعليم الرعاية الصحية، مكتشفين أن [[prompt-engineering|تصميم المطالبات]] يعمل مواصفةً تعليمية وأن التعاون الهجين بين الإنسان والذكاء الاصطناعي يتفوّق على المقاربات الآلية الكاملة. وتسلط المراجعة الضوء على الحاجة إلى مواءمة أقوى للمحتوى المولّد مع الأطر التعليمية وممارسات مطالبات أكثر قابلية لإعادة الإنتاج في سياقات التعلّم القائم على المشكلات.
+- **يجعل السحب المرحليّ الخيار الأخير مهمّة حكم.** في [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]]، استخدم 105 طالب هندسة في السنة الثانية الذكاء الاصطناعي التوليدي لاستكشاف مشكلة وبناء نماذج أولية، ثم اختاروا حلًّا مع تقييد الأدوات عمدًا ومعايير محدَّدة مسبقًا. ويعزو المؤلفون التقييم النقدي إلى ذلك التقييد لا إلى الأداة.
 - **يستطيع الذكاء الاصطناعي حمل توصيل المعرفة من المعلّم لا التنظيم الاجتماعي لتعلّم المجموعة.** في تجربة شبه تجريبية في الصيدلة دامت أربعة أسابيع، وجد [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] أن التعلّم القائم على المشكلات بوساطة الذكاء الاصطناعي طابق المكاسب الأكاديمية التي يقودها المعلّم البشري (p = 0.474 بين المجموعتين)، بينما احتفظت المجموعات بقيادة المعلّم بأفضليات في ديناميكا المجموعة (26.51 مقابل 24.74، p = 0.035) والتفكير النقدي (14.75 مقابل 13.09، p < 0.001).
 
 ## التعلّم القائم على المشكلات مقابل البيداغوجيات ذات الصلة

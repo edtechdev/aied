@@ -12,7 +12,8 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
+updated: "2026-11-22T16:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-22"
     agent: hermes-agent
 pedagogy: [tpack]
 ---
@@ -41,7 +46,7 @@ pedagogy: [tpack]
 
 **2.** ضع التحقق والإفصاح وضبط المخاطر في القالب العملي، حيث تُستخدم فعلاً، فيجد المشارك القلق موضعاً يضع فيه قلقه.
 
-**3.** اصرف الساعات على التقييم وسلالم التقييم، وهي أضعف مجال في خط الأساس وأكبر مكسب مقيس.
+**3.** اصرف الساعات على التقييم و[[rubrics|سلالم التقدير]]، وهي أضعف مجال في خط الأساس وأكبر مكسب مقيس.
 
 **4.** أدر أفواجاً [[discipline-specific-aied|خاصة بالتخصص]]، ثم ميّز داخلها بحسب الخبرة.
 
