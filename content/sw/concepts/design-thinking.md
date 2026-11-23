@@ -9,10 +9,14 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"

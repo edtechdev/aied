@@ -1,7 +1,7 @@
 ---
 title: Reduzir o uso indevido de IA
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,10 +10,14 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

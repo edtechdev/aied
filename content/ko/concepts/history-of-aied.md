@@ -1,17 +1,21 @@
 ---
 title: 교육에서의 AI의 역사
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"

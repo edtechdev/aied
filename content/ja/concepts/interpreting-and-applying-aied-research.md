@@ -1,7 +1,7 @@
 ---
 title: AIEd研究の解釈と応用
 created: "2026-10-10T22:38:10-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,10 +13,14 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T14:06:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

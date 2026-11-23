@@ -1,14 +1,14 @@
 ---
 title: Filosofia dell'IA nell'educazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-22T11:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

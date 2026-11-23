@@ -8,12 +8,16 @@ technology: [generative-ai]
 audience: [learners]
 level: [higher ed]
 confidence: low
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/design-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"

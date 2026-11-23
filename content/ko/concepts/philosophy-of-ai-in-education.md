@@ -16,8 +16,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
-connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education]
-connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026]
+connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
+connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*

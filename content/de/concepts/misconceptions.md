@@ -27,7 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
