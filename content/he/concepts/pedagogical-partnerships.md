@@ -1,7 +1,7 @@
 ---
 title: שיתופי פעולה פדגוגיים
 created: "2026-10-12T19:45:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,10 +10,14 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -67,7 +71,7 @@ connected_articles: [guided-inquiry-genai-course-policy-2026, lo-co-creating-cus
 
 - **יצירה משותפת בקנה מידה גדול, נמדדת בזהירות.** בקורס לתכנון תוכנה עם 710 סטודנטים, הסטודנטים בנו [[intelligent-tutoring|חונך AI]] עבור עמית במקום להשתמש בו. חופש העיצוב היה הנושא החיובי המוביל (22.3%) והוראות לא ברורות התלונה המובילה (23.7%), אך למידה נתפסת התכתבה עם ציוני החידון רק ב-r = 0.161 עד 0.315, ולעיצוב לא הייתה קבוצת ביקורת ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). בניית הכלי היא פדגוגיה סבירה, ועל פי הראיה הזו — לא מוכחת, ולכן הטענה בעדה נשענת על פעילות העיצוב ולא על רווחי תוצאה.
 
-- **יצירה משותפת כיתתית שלמה, המוערכת ב[[self-assessment|הערכה עצמית]].** תכנית לימודים בניוול במידע בשנה הראשונה ביקשה מתלמידים ומסגל לתכנן jointly מטרות ומדיניות הקורס בשבוע הראשון ולחזור אליהן לאורך הסמסטר, כשהתלמידים נותנים ציונים לעצמם ולקבוצותיהם לפי מטרות אישיות, מטרות צוות ורובריקה משותפת במקום לפי מוצרים סופיים ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
+- **יצירה משותפת כיתתית שלמה, המוערכת ב[[self-assessment|הערכה עצמית]].** תכנית לימודים בניוול במידע בשנה הראשונה ביקשה מתלמידים ומסגל לתכנן jointly מטרות ומדיניות הקורס בשבוע הראשון ולחזור אליהן לאורך הסמסטר, כשהתלמידים נותנים ציונים לעצמם ולקבוצותיהם לפי מטרות אישיות, מטרות צוות ו[[rubrics|רובריקה]] משותפת במקום לפי מוצרים סופיים ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **יצירה משותפת בהערכה וב-AI.** שותפויות תלמיד-צוות העריכו jointly פלט שנוצר על ידי AI בהערכות קורס ותכננו jointly קריטריוני הערכה, שיפרו את ההבנה של היתרונות והמגבלות של AI ותמכו ב[[self-regulated-learning|למידה מוסדרת-עצמית]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **שותפות לשימור אמון פדגוגי.** מול אי-ודאות מונעת-AI ו"בושה מ-AI" ("AI shame"), פרקטיקות שותפות המטפחות *אמון פדגוגי* — יחס למידה בטוח והדדי, פתוח לאי-ודאות ומונחה-משותף באמצעות דיאלוג — מציעות דרך לקיים את ליבה היחסי של החינוך ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **צעירים כיוזמי-משותפים של מערכות AI.** גישות תכנון השתתפותיות רותקות תלמידים מורחבים-היסטורית (historically minoritized) כשותפים בתכנון מערכות ה-AI שישפיעו על כיתותיהם, וחושפות את ערכי התלמידים והמחויבויות ה[[ethics|אתיות]] שלהם ([[chang-co-designing-ai-youth-relational-privacy-2025]]).

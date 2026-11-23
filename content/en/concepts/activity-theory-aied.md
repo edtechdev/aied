@@ -1,7 +1,7 @@
 ---
 title: Activity Theory
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -57,6 +57,8 @@ AI introduces new **tools/mediating artifacts** into existing educational activi
 ## Activity theory and related frameworks
 
 Activity theory sits within the [[sociocultural-learning|sociocultural]] family and is often paired with, or contrasted against, other frameworks: **[[distributed-cognition|distributed cognition]]** and **[[situated-learning|situated learning]]** share its emphasis on context and mediation; **[[community-of-inquiry|community of inquiry]]** and **communities of practice** share its collective orientation; and **technology-acceptance** models (e.g., [[technology-acceptance-model|TAM]]) offer a contrasting, more individual-belief account of adoption that activity theory critiques for flattening the collective and structural dimensions. In AIED research, activity theory is frequently combined with other theories — e.g., paired with [[self-determination-theory|Self-Determination Theory]] in teacher-PD intervention design, or with ecological systems theory in situated-AI-ethics frameworks [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
+
+Activity theory is one of the systems traditions [[learning-environments-as-systems|learning environments as systems]] draws on. Its activity system — subject, object, tools, community, rules, division of labor — is the most fully specified parts-and-interactions model, and its insistence that contradictions drive development makes it a diagnostic instrument, not only a description.
 
 ## Key research themes
 

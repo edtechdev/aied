@@ -1,7 +1,7 @@
 ---
 title: למידה מבוססת בעיות
 created: "2026-10-12T23:00:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:00:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,10 +10,14 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -62,6 +66,7 @@ PBL נולדה בחינוך רפואי (אוניברסיטת McMaster, שנות 
 - **מימושים תחומיים.** מסגרות PBL ל[[engineering-education|הנדסה ביורפואית]] משתמשות ב-GenAI לסיכום ותמיכת קידוד עם חבילות שכפול ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); PBL נתמכת-בינה מלאכותית משפרת [[computational-thinking|חשיבה חישובית]] ב[[educational-robotics|רובוטיקה]] ([[ai-pbl-computational-thinking-2026|PBL נתמכת-בינה מלאכותית לחשיבה חישובית]]); וחולים וירטואליים מופעלי-genAI תומכים בהדרכות לקיחת היסטוריה רפואית ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **סינתוז ראיות.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] סוקרים [[meta-analysis-systematic-review|שיטתית]] 50 מחקרים (2015–2024) על מעורבות מחנכים עם בינה מלאכותית ב-PBL בתוך מסגרת [[human-ai-collaboration|אינטראקציה בין אדם למחשב]].
 - **GenAI ב-PBL מבוסס-תרחיש.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] כוללים למידה מבוססת בעיות בין הגישות המבוססות-תרחיש בסקירתם השיטתית של GenAI בחינוך בריאות, ומוצאים ש[[prompt-engineering|עיצוב הנחיה]] מתפקד כמפרט הוראה וששיתוף פעולה היברידי בין אדם לבינה מלאכותית עולה על גישות אוטומטיות לחלוטין. הסקירה מדגישה את הצורך ביישור חזק יותר של תוכן מופק עם מסגרות הוראה ובפרקטיקות הנחיה יותר לשחזור בהקשרי PBL.
+- **הפחתה הדרגתית של הסיוע הופכת את הבחירה הסופית למשימת שיפוט.** ב[[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]], 105 סטודנטים בשנה השנייה להנדסה השתמשו ב-GenAI כדי לחקור בעיה ולבנות אבות-טיפוס, ואז בחרו פתרון כשהכלים הוגבלו במכוון והקריטריונים נקבעו מראש. המחברים מייחסים להגבלה הזו, ולא לכלי, את ההערכה הביקורתית.
 - **AI יכול לשאת את אספקת-הידע של המורה אך לא את הוויסות החברתי של למידת-קבוצה.** בקוואזי-ניסוי פרמקולוגיה בן ארבעה שבועות, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] מצאו ש-PBL המתווך-AI התאים את רווחי-ההשכלה המונחים-מנחה (בין-קבוצתי p = 0.474), בעוד הקבוצות המונחות-מנחה שמרו על יתרונות בדינמיקת-הקבוצה (26.51 מול 24.74, p = 0.035) ובחשיבה ביקורתית (14.75 מול 13.09, p < 0.001).
 
 ## PBL לעומת פדגוגיות קשורות

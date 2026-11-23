@@ -1,7 +1,7 @@
 ---
 title: לימוד דרך הוראה
 created: "2026-10-12T19:45:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:30:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,10 +9,14 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -65,6 +69,8 @@ connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teac
 - **[[socrates-students-instructors-llms-lbt-2025|פערי ידע מהנדסים]]** (Yang et al.) מעצבים בעיות שהמודל הלשוני הגדול אינו יכול לפתור ללא ידע שברשות התלמיד בלבד, מה שהופך הוראה לצורך ומתנגד להסתמלות פסיבית של שימוש במודל לשוני גדול כחונך.
 - **אילוצי התלמיד של Explique** (Wang et al.) מורים את החניך (א) להישאר חדש, (ב) להמשיך לבקש הבהרה עד שההסבר של התלמיד מדויק, ו-(ג) לא לחשוף את ההסבר המטרה — ולהתנגד *לסטודנטים* שמנסים להפוך את התפקידים ולבקש מהחניך להסביר בחזרה.
 - **ביטול-למידה כמסלה לרמת המשקולות לשבריריות.** ביטול-למידה מכונה מדכא 16 רכיבי ידע מכוונים ב-Mistral-7B, ומוריד את הדיוק מכ-0.75 ביחס שכחה של 10% לפחות מ-0.5 ב-40%, בעוד המודל הבסיסי נשאר קרוב ל-0.85. הידע המדוכא חזר דרך למידה חוזרת מפוקחת ודיאלוג מונחה-מאמן, ולכן רמת הידע של החניך היא גלגל ולא טענה ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+
+- **פיקוח כמשימת החניך.** במקרה עיצוב של שני קורסים, סטודנטים שכרו, הטמיעו ואימנו עוזר כללי, ואז תיעדו מה הוא טעה בו; המרצים מדווחים שהסברת קונבנציות לכלי הבהירה קונבנציות אלה עבור הסטודנט ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## שאלה, ויסות עצמי ולמידה פעילה
 

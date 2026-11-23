@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-22T08:30:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -116,7 +116,7 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 
 ## Connections
 
-Learning analytics connects to [[knowledge-tracing|knowledge tracing]] (the core analytic), [[formative-assessment|formative assessment]] (analytics-driven assessment), [[student-modeling|student modeling]] (the learner representation analytics populate), [[privacy|privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform|edtech platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
+Learning analytics connects to [[knowledge-tracing|knowledge tracing]] (the core analytic), [[formative-assessment|formative assessment]] (analytics-driven assessment), [[student-modeling|student modeling]] (the learner representation analytics populate), [[privacy|privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform|edtech platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation. It is one of the traditions [[learning-environments-as-systems|learning environments as systems]] draws on, and the loop it closes is the one that stance asks to be aligned with the level above.
 
 - **What dashboards make visible decides what teachers act on.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]] reviewed 27 empirical studies (2016–2025) and built a socio-technical taxonomy of AI-supported lecturer decision-making across eight decision types: instructional, curriculum, assessment, feedback, learning-environment, emotional, administrative and ethical. Learning Analytics Dashboards were the most frequently reported system, and the coding shows support concentrated in the instructional, feedback and assessment decisions that behavioral text and log data can inform, while emotional, ethical, curriculum and learning-environment decisions were rarely supported. The authors read this as an attention effect rather than a capability limit: because the systems rendered behavioral student data visible and actionable, motivation, [[metacognition|metacognition]], emotion and environment concerns fell outside what the data invited lecturers to consider.
 

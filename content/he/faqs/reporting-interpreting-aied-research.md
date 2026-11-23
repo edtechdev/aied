@@ -11,12 +11,16 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-updated: "2026-11-15T16:09:09-05:00"
+updated: "2026-11-23T14:45:00-05:00"
 translation_of: faqs/reporting-interpreting-aied-research
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -85,7 +89,7 @@ RAISE עוברת מהצדקה חינוכית, דרך מפרט ברמת ה-API, [
 
 ## אמתו את השיפוטים האוטומטיים
 
-[[ai-ed-evaluation|הערכת בינה מלאכותית בחינוך]] מעבירה יותר ויותר מתן ציונים למודלים, מה שהופך את נוהל האימות לחלק מהתוצאה ולא לנספח. תיאור מדדי [[intelligent-tutoring|החונך מבוסס הבינה המלאכותית]] של Khan Academy מדווח שהמעורבות הקוגניטיבית נמדדת בידי שופט [[llm|מודל שפה]] מכויל מול מומחים פדגוגיים אנושיים ב-F1 0.83, ושתנועות המדד באו מיותר מ-40 ניסויים חיים בחמישה חודשים ולא מהערכה לא מקוונת ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] מראים שאי-ההסכמה בין אדם למכונה לגבי איכות [[formative-assessment|שאלת קדם-מבחן]] היא שיטתית ולא אקראית, ושההגדרה התפעולית של הרובריקה חשובה יותר מ[[prompt-engineering|הנחיה]] שמתחילה בנימוק.
+[[ai-ed-evaluation|הערכת בינה מלאכותית בחינוך]] מעבירה יותר ויותר מתן ציונים למודלים, מה שהופך את נוהל האימות לחלק מהתוצאה ולא לנספח. תיאור מדדי [[intelligent-tutoring|החונך מבוסס הבינה המלאכותית]] של Khan Academy מדווח שהמעורבות הקוגניטיבית נמדדת בידי שופט [[llm|מודל שפה]] מכויל מול מומחים פדגוגיים אנושיים ב-F1 0.83, ושתנועות המדד באו מיותר מ-40 ניסויים חיים בחמישה חודשים ולא מהערכה לא מקוונת ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] מראים שאי-ההסכמה בין אדם למכונה לגבי איכות [[formative-assessment|שאלת קדם-מבחן]] היא שיטתית ולא אקראית, ושההגדרה התפעולית של ה[[rubrics|רובריקה]] חשובה יותר מ[[prompt-engineering|הנחיה]] שמתחילה בנימוק.
 
 הסכמה עם מקודדים אנושיים היא דבר נפרד מאיכות, ודיווח עליה כאילו הייתה איכות הוא מטרה לבודקים. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] נתנו למומחה בלתי תלוי לשפוט 855 זוגות של סטים של קודים בלי לדעת את מקורם. ההסכמה בין אדם למודל שפה עמדה על Jaccard ממוצע של 0.30 מול 0.52 בהסכמה בין שני בני אדם, בעוד המאמת העיוור העדיף קידוד אנושי ומכונתי בשיעורים שלא ניתן להבחין ביניהם (51.5% לעומת 48.5%, p = 0.537). דווחו את יעד הכיול, את אמת המידה ואת מי שקבע בהכרעה את אי-ההסכמה. שלושת הפריטים האלה הם מה שמאפשר לקורא להחליט כמה משקל הציון האוטומטי יכול לשאת.
 

@@ -1,7 +1,6 @@
 ---
 title: אחזור, ריווח ושילוב
 created: "2026-10-12T20:30:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +11,8 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
 connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
@@ -93,10 +97,12 @@ connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition
 
 - **דגימות קטנות והקשרים בודדים.** הדגימה האנליטית של מחקר הבדיקה-המקדמית היא 89 סטודנטים לתואר ראשון בקורס סטטיסטיקה יישומית אחד, עם 27–34 סטודנטים לזרוע; מחקר האינטראקציה של LLM הוא n = 22 עם עיצוב קבוצה-אחת שאינו תומך בטענה סיבתית; מחקר ההוראה-בחזרה הוא 22 משתתפים. מחברי הבדיקה-המקדמית מציינים ששכפול על פני תחומי דעת וסוגי משימות נדרש להכללה.
 - **מרווחי שימור קצרים או נעדרים.** מחקר עומק-האינטראקציה בדק אחזור מיידי בלבד, ללא מדד מעוכב, ולכן האפס שלו הוא אפס לשימור קצר-טווח ספציפית. יתרון השימור של Memdora וה[[llm-interaction-depth-task-quality-recall-2026|דיסוציאציית עומק-LLM]] כאחד לא נעקבו על פני השבועות שספרות הריווח הייתה דורשת; החלון בן שבעת השבועות של מחקר הבדיקה-המקדמית הוא הארוך ביותר בקורפוס.
-- **מדדי [[self-report-measures|דיווח-עצמי]] ותחליפיים.** מאמץ התרגול במחקר הבדיקה-המקדמית הוא אינדיקטור התנהגותי שנמדד על ידי שני ממדדים לפי מברין מיומני-שיחה, והמחברים מציינים במפורש שהוא אינו מדד של מצב מוטיבציוני [[motivation|פנימי]]; מדד עומק-LLM הוא תחליף מבוסס-מילות-מפתח שלוכד את הצורה השטחית של חיפוש-הסבר ולא את איכותו.
+- **מדדי [[self-report-measures|דיווח-עצמי]] ותחליפיים.** מאמץ התרגול במחקר הבדיקה-המקדמית הוא אינדיקטור התנהגותי שנמדד על ידי שני ממדדים לפי [[rubrics|מברין]] מיומני-שיחה, והמחברים מציינים במפורש שהוא אינו מדד של מצב מוטיבציוני [[motivation|פנימי]]; מדד עומק-LLM הוא תחליף מבוסס-מילות-מפתח שלוכד את הצורה השטחית של חיפוש-הסבר ולא את איכותו.
 - **מגבלות כלים ומידול.** מודלי [[knowledge-tracing|איתור-ידע]] בקורפוס נכשלים בדיוק היכן שהחלטות ריווח צריכות אותם, והמחברים מייחסים הצלחות עבר להתאמת מערך-נתונים שלם רטרואקטיבית ולא לאימות ריאלי-לפריסה. איכות הכרטיסיות של החבר הדו-לשוני לא מאומתת נגד אמת-קרקע, ללא שכבת בדיקת-עובדות אוטומטית, והוא לא הרץ מחקר תוצאות כלל.
 - **לשילוב כמעט אין עדות ישירה כאן.** כפי שצוין לעיל, הקורפוס מכיל אין השוואה חסומה-לעומת-משולבת, רק סימולציה שבה שילוב הוא אסטרטגיה ניתנת-בחירה אחת מבין מספר.
 - **אוכלוסיות נושא ותוכן.** בסיס העדות מתמקד ב[[higher-ed|השכלה גבוהה]], בחומר STEM וסטטיסטיקה, ובהבחנות עובדה-לעומת-מיומנות מגיאומטריה ומתוכן רגרסיה-מרובה; הכללה להגדרות [[k-12|K-12]], ל[[humanities-education|מדעי-הרוח]] וכתיבה, ולכיתות לא-מערביות אינה מבוססת על ידי המחקרים האלה.
+
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya and Wenzel (2026)]] מציבים בינה מלאכותית יוצרת בחזיתו של אפקט הבדיקה: שתי שאלות-מקדמה שנוצרו על ידי ChatGPT נענו לפני קריאת טקסט בן 675 מילים. לאורך ארבעה ניסויים עם 90, 128, 153 ו-157 מבוגרים, שאלות-מקדמה ניצחו קריאה בלבד (d = 1.12 על שאלות שהותרגלו, d = 0.78 על שאלות שלא הותרגלו) והשוו עצמן לשאלות שנוצרו על ידי בני-אדם. הלומדים כמעט אף פעם לא ענו נכון — דיוק של 0.056 בניסוי 1 — ועדיין למדו יותר, וזו חתימתו של אפקט הבדיקה-המקדמית. תהליך ההעברה דעך עם המרחק: שאלות שנבדקו ניצחו שאלות מאותו-המקור שלא נבדקו (d = 0.46), שהן ניצחו שאלות ממקור אחר שלא נבדקו (d = 0.32). ייצור השאלות הפך זול; האחזור נותר הכרחי.
 
 ## תפיסות מוטעות נפוצות
 

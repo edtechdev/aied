@@ -1,6 +1,7 @@
 ---
 title: "כיצד נאמן מורה-AI להנחות סטודנטים במקום לענות להם?"
 created: "2026-10-12T21:00:00-04:00"
+updated: "2026-11-23T14:45:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq
@@ -16,6 +17,10 @@ methods: [benchmark]
 ethics: [ai-sycophancy, pedagogical-safety]
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -69,7 +74,7 @@ EduFrameTrap מוסיף את הפרט שחשוב להחלטת מוצר. מודל
 
 ## הפכו את התגמול לצפוף מספיק כדי ללמד
 
-תגמול של התאמה מדויקת דליל מדי כשהדבר שמעניין אתכם יש בו כמה ממדים. [[simulation|סימולטור הכתיבה]] של SWIM מראה את ההתקדמות בבירור: הנחיה מעוגנת ברובריקה הגיעה ל-QWK ממוצע מיטבי של **0.577** עם Claude Sonnet ו-**0.422** עם GPT-5.4, וכמעט אפס במודל 7B פתוח; אימון מכוון בהנחיה הגיע ל-**0.474 ± 0.023** עבור אותו מודל 7B; GRPO עם תגמול צפוף ומנורמל לפי מאפיין הגיע ל-**0.618 ± 0.005** בכל מאפיין ובכל הנחיה ([[swim-student-writing-simulation-2026]]).
+תגמול של התאמה מדויקת דליל מדי כשהדבר שמעניין אתכם יש בו כמה ממדים. [[simulation|סימולטור הכתיבה]] של SWIM מראה את ההתקדמות בבירור: הנחיה מעוגנת ב[[rubrics|רובריקה]] הגיעה ל-QWK ממוצע מיטבי של **0.577** עם Claude Sonnet ו-**0.422** עם GPT-5.4, וכמעט אפס במודל 7B פתוח; אימון מכוון בהנחיה הגיע ל-**0.474 ± 0.023** עבור אותו מודל 7B; GRPO עם תגמול צפוף ומנורמל לפי מאפיין הגיע ל-**0.618 ± 0.005** בכל מאפיין ובכל הנחיה ([[swim-student-writing-simulation-2026]]).
 
 עיצוב התגמול יצר את הפער הזה. אות צפוף ומנורמל לפי מאפיין משתלם על התאמה מדויקת בהקשר רב-מאפייני, ואם התגמול שלכם פועל רק על תגובה מושלמת, רוב אות האימון שלכם הוא שתיקה.
 

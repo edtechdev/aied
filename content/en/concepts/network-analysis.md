@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
@@ -62,7 +62,8 @@ Network methods are used across the evidence base to answer questions that aggre
 1. **Prefer process methods over product-only metrics.** To evaluate whether AI tools support learning, model how learners actually engage (uptake, dialogue, revision) with sequence/network methods rather than relying on final scores alone.
 2. **Use ENA to compare cognitive structuring.** When asking how different learners or modes (human vs. AI) structure their reasoning, ENA provides a direct, visual comparison of co-occurrence networks — a technique well-suited to [[student-modeling|student modeling]] of how learners connect ideas.
 3. **Validate automated coding.** With large log datasets, [[llm|LLM]]-based classification is powerful but must be checked against human coding (report inter-rater agreement) before interpreting network structure.
-4. **Design for differentiation.** Network analysis often reveals that the *same* AI tool produces different interaction patterns across learner subgroups — informing adaptive design rather than one-size-fits-all evaluation.
+4. **Treat the environment as a system.** [[learning-environments-as-systems|Learning environments as systems]] uses network methods to operationalize the parts-and-interactions picture across levels.
+5. **Design for differentiation.** Network analysis often reveals that the *same* AI tool produces different interaction patterns across learner subgroups — informing adaptive design rather than one-size-fits-all evaluation.
 
 ## ENA Validation of Simulated Collaborative Dialogue
 

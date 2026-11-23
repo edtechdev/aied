@@ -8,11 +8,15 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-updated: "2026-11-08T11:34:07-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-23T14:30:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -60,7 +64,7 @@ SDT משמשת יותר ויותר במחקר ב[[research-methods-aied|בינה
 
 - **ChatGPT וצרכי SDT בלמידת שפות:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] השתמשו בעדשה של SDT עם 25 סטודנטים אוניברסיטה מלזיים, ומצאו ש-ChatGPT תומך באוטונומיה, קרבה ומיומנות ב[[language-learning|למידת אנגלית]] — מגביר דקדוק, כתיבה ומשימות שיחה, תוך מתן אפשרות ל[[teacher-role|מחנכים]] להתמקד בהכשרה ברמה גבוהה יותר.
 
-**SDT מיושמת על הפרקטיקה הבת-ייווץ של המרצים עצמם.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] השתמשו ב-SDT כעדשה פרשנית על כיצד מרצים משלבים [[learning-analytics|אנליטיקת למידה]] ובינה מלאכותית יוצרת ב[[learning-design|עיצוב למידה]] — ומצאו שתמיכה בצרכים הבסיסיים של המרצים (אוטונומיה, מיומנות, קרבה) מטפחת את [[problem-solving|פתרון הבעיות]] היצירתי שעיצובם דורש. בניתוח ה-ENA שלהם, שימוש ב-GenAI היה מקושר לעיצוב למען הכרעה עצמית של הסטודנטים (למשל, יצירה משותפת של מנגנוני הערכה עם הסטודנטים), ובכך מרחיבים SDT מהלומדים למחנכים הבונים סביבות מבוססות-AI תומכות-צרכים.
+**SDT מיושמת על הפרקטיקה הבת-ייווץ של המרצים עצמם.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] השתמשו ב-SDT כעדשה פרשנית על כיצד מרצים משלבים [[learning-analytics|אנליטיקת למידה]] ובינה מלאכותית יוצרת ב[[learning-design|עיצוב למידה]] — ומצאו שתמיכה בצרכים הבסיסיים של המרצים (אוטונומיה, מיומנות, קרבה) מטפחת את [[problem-solving|פתרון הבעיות]] היצירתי שעיצובם דורש. בניתוח ה-ENA שלהם, שימוש ב-GenAI היה מקושר לעיצוב למען הכרעה עצמית של הסטודנטים (למשל, יצירה משותפת של [[rubrics|רובריקות הערכה]] עם הסטודנטים), ובכך מרחיבים SDT מהלומדים למחנכים הבונים סביבות מבוססות-AI תומכות-צרכים.
 
 עבור המורים עצמם, שיתוף פעולה עם בינה מלאכותית פועל בשני כיוונים: מחקר בשלוש גלים על 468 מורים באוניברסיטה מצא שהיא הגבירה את מעורבות העבודה באמצעות זמינות פסיכולוגית והפחיתה אותה באמצעות ניכור מעבודה, ו[[teacher-ai-competency|מיומנות דיגיטלית]] חיזקה את המסלול הראשון והחלישה את השני ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 

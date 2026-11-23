@@ -31,6 +31,7 @@ TriKoNet allows diagnosing the extent to which technical artifacts stabilize, de
 
 - **Designers.** Treat technical artifacts as constitutive network participants: what matters is not whether an AI avatar is a black box but whether learners co-constitute its action structure through problematization, interessement, enrollment, and mobilization.
 - **Designers.** Prefer modular tools over ready-made avatars; students unanimously rejected photorealistic representation and used the modular space to author their own role concepts instead of adopting a supplied persona.
+- **Analysts.** Actor-network theory is one of the traditions [[learning-environments-as-systems|learning environments as systems]] draws on; TriKoNet's contribution is to treat the AI artifact as a network participant rather than an instrument.
 - **Designers.** Engineer the three enabling conditions the model identifies: shared cultural reference resources, opportunities for meta-communication, and structurally open scripts.
 - **Researchers.** Diagnose a design by asking whether an artifact stabilizes, destabilizes, or re-stabilizes the creative process, rather than whether it is good or bad in itself.
 

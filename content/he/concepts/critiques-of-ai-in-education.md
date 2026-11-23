@@ -1,7 +1,7 @@
 ---
 title: ביקורת על בינה מלאכותית בחינוך
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,10 +13,14 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
@@ -56,7 +60,7 @@ connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026,
 
 ## תשתית, תמסורת ואי-הכרה
 
-אשכול שלישי מזיז את תשומת הלב מהכלי לתשתית שסביבו. Watson, Morgner ו-Brezovec מתייחסים לבינה מלאכותית יוצרת כתשתית מתווכת-משמעות ומכנים את המנגנון שלה *תמסורת סמנטית*: עיצוב מחדש של דרישה חינוכית — הנחיה, תקציר משימה, רובריקה, שאלת מבחן, ז'אנר או מדיניות — לצורה משכנעה מבחינת תקשורת ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner ו-Brezovec, 2026]]). מכיוון שהתמסורת סלקטיבית, היא יכולה לכלול או להוציא מחוץ לכלל. שלושה אתרים חוזרים: פערי גישה וכשירות, אי-הכרה באמצעות תבניות של איך נשמעת תשובה טובה או תלמיד טוב, וסטייה נורמטיבית במה שהפדגוגיה נתפסת כמשמעותו. ההוצאה מחוץ לכלל היא לעתים קרובות פינצ'ר ולא איסור — מוסדות מעלים את הציפיות לגבי קצב, גימור ושטף אידיומטי תוך שהם מחמירים בו-זמנית את משטרי האותנטיות.
+אשכול שלישי מזיז את תשומת הלב מהכלי לתשתית שסביבו. Watson, Morgner ו-Brezovec מתייחסים לבינה מלאכותית יוצרת כתשתית מתווכת-משמעות ומכנים את המנגנון שלה *תמסורת סמנטית*: עיצוב מחדש של דרישה חינוכית — הנחיה, תקציר משימה, [[rubrics|רובריקה]], שאלת מבחן, ז'אנר או מדיניות — לצורה משכנעה מבחינת תקשורת ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner ו-Brezovec, 2026]]). מכיוון שהתמסורת סלקטיבית, היא יכולה לכלול או להוציא מחוץ לכלל. שלושה אתרים חוזרים: פערי גישה וכשירות, אי-הכרה באמצעות תבניות של איך נשמעת תשובה טובה או תלמיד טוב, וסטייה נורמטיבית במה שהפדגוגיה נתפסת כמשמעותו. ההוצאה מחוץ לכלל היא לעתים קרובות פינצ'ר ולא איסור — מוסדות מעלים את הציפיות לגבי קצב, גימור ושטף אידיומטי תוך שהם מחמירים בו-זמנית את משטרי האותנטיות.
 
 ## קביעת אג'נדה, חידוש מדומה וחיזוי ניסיוני
 

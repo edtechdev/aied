@@ -1,7 +1,7 @@
 ---
 title: הוראת הפיזיקה
 created: "2026-10-12T22:00:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -11,10 +11,14 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [stem-education, socratic-method, intelligent-tutoring, computational-thinking, ai-literacy, trust-calibration, student-experience, assessment-validity, bias-mitigation, equity-in-ai-education, automated-assessment, educational-measurement, learning-analytics, professional-training, simulation, generative-ai, higher-ed, discipline-specific-aied, chemistry-education, biology-education]
-connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-acceptance-tam-physics-2026, genai-video-engineering-physics-workflow-2026, wang-teacher-student-centered-agents-physics-2026, omniphys-multimodal-physics-benchmark-2026, benzion-ai-physics-simulations-virtual-lab, hashmi-socratic-physics-chatbot-2025, socratic-ai-physics-tutor-taxonomy-2026, fouad-bentley-trust-utility-gap-physics-2026, becker-chatgpt-typology-physics-2026, llm-computational-thinking-physics-2026, ai-scoring-language-bias-physics, multiagent-classroom-dual-process-physics-teachers-2026, physics-chatbot-epistemological-beliefs-2026, ai-generated-smartphone-circular-motion-lab-2026, genai-ar-physics-simulation-prompt-2026, embodied-inquiry-ai-facilitator-physics-2026, probing-ai-generated-physics-solutions-2026, genai-assisted-problem-posing-physics-2026, airis-cognitively-activated-ai-physics-2026, ai-grading-handwritten-physics-2026, zammel-mllm-kinematics-graph-grading-2026, ai-particle-physics-education-redesign-2026, mechanics-cognitive-diagnostic-physics-2026, physics-students-llm-perceptions-instruction-2026, ai-assisted-physics-lab-report-assessment-2026, physicsmate-bengali-secondary-physics-benchmark-2026, ai-university-physics-education-review-2026, structured-genai-training-physics-problem-solving-rct-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, wang-genai-metacognitive-prompting-preconceptions-2026, nauryzbayeva-ai-physics-education-future-engineers-2026, liang-quantum-education-textbooks-2026, hirschenberger-lecture-board-readability-2026]
+connected_resources: [teacher-dev]
 ---
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
@@ -73,7 +78,7 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-a
 
 **מסגרות עיצוב הוראה להוראה מוגברת-בינה מלאכותית.** **[[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]]** מציעים את מסגרת **AIRIS** (Activate–Inquire–Reflect with Intelligent Support) — מבנה תלת-שלבי לשימוש קוגניטיבי-מופעל בבינה מלאכותית בפיזיקה: סטודנטים מנבאים ומשרטטים תוצאות צפויות לפני בינה מלאכותית (Activate), מורשים שלבים חישוביים וייצוגיים לבינה מלאכותית תוך השוואה ביקורתית של הפלט לתחזיות שלהם (Inquire), ומפרשים, בודקים עקביות בין ייצוגים, ומשקפים על מה שבינה המלאכותית תרמה לאחר מכן (Reflect). מעוגנת ב[[self-regulated-learning|למידה עצמית מוסדרת]], בתיאוריית [[cognitive-offloading|העומס הקוגניטיבי]], בייצוגים חיצוניים מרובים, וב[[human-ai-collaboration|שיתוף פעולה בין אדם לבינה מלאכותית]], היא ממסגרת את האתגר המרכזי כ[[learning-design|עיצוב הוראה]] ולא כרמאות או בחירת כלי, וקוראת לניסויי "תנאי הסרה" הבודקים אם הלמידה שורדת את הסרת תמיכת הבינה המלאכותית.
 
-- **ללמד ביקורת של פתרונות בינה מלאכותית עם קטלוג.** עשרים וארבע קבוצות מעבדה של פיזיקת יסוב שביקרו פתרון בינה מלאכותית עם רפלקציה מונחית-MAPS זיהו אינטגרציה מספרית שדולגה, סימון לא מוגדר ותצייר איכותי-במקום-כמותי, בעוד קבוצות שפתרו רק בעיה קשורת קיבלו את הפלט המלוטש או דחו אותו מהתפיסות השגויות שלהן ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **ללמד ביקורת של פתרונות בינה מלאכותית עם [[rubrics|רובריקה]].** עשרים וארבע קבוצות מעבדה של פיזיקת יסוב שביקרו פתרון בינה מלאכותית עם רפלקציה מונחית-MAPS זיהו אינטגרציה מספרית שדולגה, סימון לא מוגדר ותצייר איכותי-במקום-כמותי, בעוד קבוצות שפתרו רק בעיה קשורת קיבלו את הפלט המלוטש או דחו אותו מהתפיסות השגויות שלהן ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
 
 - **תפיסות מוקדמות של אנרגיה קובעות אם הבינה המלאכותית תהפוך לשיחה מושגית או לחיפוש.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] העבירו ארבע־עשרה קבוצות של מורים בהכשרה דרך צורות אנרגיה ושימורה ב-Go-Lab עם צ׳אטבוט [[metacognition|מטא־קוגניטיבי]] הזמין לפי דרישה. קבוצות שחבריהן ענו אחרת במבחן מקדים על אנרגיה שאלו את אותם סוגי שאלות כמו קבוצות מותאמות, אך מיקמו את המשא ומתן על שאילתות ה-AI במרכז רשת האינטראקציה שלהן ושמרו על הערכה חיובית או ניטרלית של תשובותיו, בעוד הקבוצות המותאמות הלכו במסלול ליניארי של שאילתה ואחריה קריאה. הבלבול המושגי עמד על f = 87 לעומת 36, עם כיסוי מקרים של 88.9% לעומת 57.1%.
 
@@ -94,6 +99,8 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-a
 
 - **דירוג בינה מלאכותית יכול לשחזר תוצאת פיזיקה בעלת-סיכון גבוה מבלי להתאים לכל חלק.** דירוג 10,364 דפי אולימפיאדה ואוניברסיטה בכתב יד, מודל לשוני גדול רב-מודאלי שיחזר את קבוצת האולימפיאדה החמישה-סטודנטים אותה כמו הבוחנים ותאם עם סכומים ב-r = 0.93–0.96, אך הסכמה על חלק-שאלה מדויק הגיעה ל-70% — קריאה שנייה בשליטת בוחן, לא החלפה ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 
+- **מדרג גרפי יכול להעניק ציון מלא שההסבר שלו אינו תומך בו.** בבדיקת-קשיחות של מדרג רב-מודאלי על גרפים קינמטיים מעוותים, גיליון מהירות–זמן עם עקבות מנותקות ומצופלות וללא ייחוס ברור למהירות-אפס קיבל עדיין 10/10. המחברים ממליצים על סקירת מרצה של תגובות בציון מלא, ולא רק של הניכויים ([[zammel-mllm-kinematics-graph-grading-2026|Zammel et al., 2026]]).
+
 - **מדדי ביצועי פיזיקה יכולים להיות מעוגנים-[[curriculum-design|תוכנית]] ולא באנגלית.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] בנו 1,834 שאלות בנגליות מספר לימודים לאומי לפיזיקה לכיתות ט'-י' ו[[knowledge-graph|גרף ידע]] בן 1,760 צמתים; מתכון [[llm-training-and-fine-tuning|כוונון עדין]] אחד הרוויח 5.5, 15.0 ו-23.3 נקודות ב-0.6B, 1.7B ו-4B פרמטרים.
 
 ### קשרים למושגים קשורים
@@ -111,6 +118,8 @@ connected_articles: [beznosko-local-ai-rag-physics-oer-2026, high-school-genai-a
 - **לשמור מרץ לתרגול והערכה ללא סיוע.** עיצוב המחדש של Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]]) מראה שעבודות בית מחקריות-צורה שהסתיימו עם מעורבות גבוהה, במצב מותר-בינה מלאכותית, יכולות להשאיר סטודנטים רחוקים מאוד במבחן ללא סיוע (ממוצע 20.6/80) — התייחסו לביצועים בסיוע ולידע שניתן לאחזור באופן עצמאי כנבדלים, ובנו תרגול ללא סיוע מכוון ומבחן כתוב לתוך הקורס.
 
 - **לאמת נאמנות המנחה; לשמור את שלב בניית המודל נקי מבינה מלאכותית.** כשנלחץ "רק תגידו לנו" איזו שקולה שמה יותר, Gem מוגדר-מטרה המציא ערכי מסה שאף אחד לא מדד, ולכן נאמנותו של מנחה מבוסס-שפה חייבת להיבדק ולא להניח, ושלב הבנייה הנקי-מבינה מלאכותית שומר את העבודה המעשית שהוא אינו מסוגל להגיע אליה ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
+
+הנתיב בעל התשתית הנמוכה ביותר לחומרי קורס מתועד עבור הוראת פיזיקה. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] מריצים מודל קטן באופן מקומי, מכוונים אותו לתוך פתקי הקורס ומערכי הבעיות שלו, ומפיקים מהם חידונים ומדריכי למידה, כשהמרצה מאמת כל פלט. ההקמה אינה דורשת הסכם ספק ואינה שולחת נתוני סטודנטים לאף מקום, מה שהופך אותה לצעד ראשון מציאותי למחלקה שאינה יכולה לרכוש כלי ארגוני אך יכולה להקצות תחנת עבודה.
 
 ## תפיסות מוטעות נפוצות
 

@@ -1,16 +1,20 @@
 ---
 title: טכנולוגיות
 created: "2026-10-12T19:05:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:00:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -46,6 +50,8 @@ connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-educat
 - **בינה מלאכותית יוצרת.** הקטגוריה הרחבה יותר של מערכות המייצרות טקסט, קוד, תמונות ותוכן אחר — [[generative-ai|בינה מלאכותית יוצרת]] (המונעת בעיקר על ידי מודלים לשוניים גדולים) היא הטכנולוגיה שמאחורי גל המחקר הנוכחי ב[[ai-education|AIED]]. ראו גם [[multimodal|מודלים רב-מודאליים]] (טקסט, תמונה, שמע) ו[[simulation]].
 - **רובוטים ומערכות מגולמות.** [[educational-robotics|רובוטים בחינוך]] מוסיפים נוכחות [[embodied-learning|מגולמת]] ולעיתים [[community-of-inquiry|חברתית]] — ערכות ניתנות לתכנות ל[[computational-thinking|חשיבה חישובית]] ורובוטים הומנואידים/חברתיים לחונכות, ל[[storytelling-in-education|סיפור סיפורים]] ולמשחק תפקידים. רובוטיקה היא קו טכני נפרד שמתנגש עם [[agentic-ai|בינה מלאכותית סוכנית]] ועם עיצוב של [[human-in-the-loop-ai|אדם בלולאה]].
 - **מערכות מבוססות ידע.** [[knowledge-graph|גרפי ידע]] ו[[educational-nlp|עיבוד שפה טבעית חינוכי]] מייצגים ומעבדים ידע בתחום, ונשלחים ביתר ויתר עם מודלים לשוניים גדולים לחונכות מעוגנת וניתנת להסבר.
+
+טקסונומיה מבוססת-פונקציה נודדת רחוק יותר לתוך ההתפתחות המקצועית של מורים מאשר רשימה של ארכיטקטורות מודלים. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf and Massey (2025)]] ארגנו סדנת יום אחת לתשעה מורי תיכון סביב שש משפחות של יישומי בינה מלאכותית — סיווג, זיהוי, זיכרון, קבלת החלטות, אופטימיזציה וחיזוי — כל אחת מוצמדת ליישום שהמורים כבר השתמשו בו, מסינון דואר זבל ועד דירוג אשראי. המורים הגיעו מפוצלים בשאלה אם בינה מלאכותית מהווה איום, כש-40% אומרים כך ו-40% בלתי-החלטיים, וכל משתתף דיווח שלמד משהו חדש. יחידת הארגון היא מה שהמערכת עושה, ומורה יכול לזהות אותה בכלי כיתתי בלי לדעת כיצד היא אומנה.
 
 ## טכניקות ושיטות
 

@@ -1,6 +1,7 @@
 ---
 title: מסגור שימוש בבינה מלאכותית עבור סטודנטים
 created: "2026-10-12T19:05:00-04:00"
+updated: "2026-11-23T13:45:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -10,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -79,6 +84,8 @@ connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, 
 ## מסגור במדיה ובציבור
 
 סטודנטים ממוסגרים גם על ידי המדיה הרחבה יותר והדיבור הציבורי סביב [[ai-education|בינה מלאכותית בחינוך]], שמעצבים את הציפיות הבסיסיות שלהם לפני כל הודעת מרצה. ניתוחים של דיבור ציבורי וכיצד פלטפורמות כמו YouTube מעצבות שימוש ב-ChatGPT בחינוך מראים שמסגרות שולטות — הייפ, דחיינות או פרגמטיות — משפיעות על האופן שבו לומדים ו[[teacher-role|מחנכים]] ניגשים לטכנולוגיה.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) מסגור אפקטיבי על ידי מרצים פירושו לעתים קרובות התנגדות מכוונת או ניתוב מחדש של הנרטיבים הסביבתיים האלה.
+
+המסגרת גם ממחירה את התעודה במורד הזרם: עם כ-1,750 אנשי גיוס אמריקאים, תיאור שימוש סטודנטיאלי בבינה מלאכותית כהחלפה ולא כסיוע הנמיך את הסבירות לראיון ואת הנכונות למשא-ומתן על שכר, בצורה חדה ביותר אצל מועמדים עם ממוצע ציונים גבוה ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## הדרכה מעשית
 

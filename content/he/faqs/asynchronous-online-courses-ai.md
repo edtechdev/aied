@@ -14,9 +14,14 @@ audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
 translation_of: faqs/asynchronous-online-courses-ai
 source_updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-23T14:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -39,7 +44,7 @@ ai_assist:
 
 **2.** שמרו על מדידה אחת ללא סיוע בכל הערכה שמאשרת כשירות. פער השימור בנתוני האוכלוסייה שלהלן נסגר ברגע שיש פיקוח.
 
-**3.** השתמשו ב[[asynchronous-oral-assessment-2026|הערכה בעל פה אסינכרונית]] במקום שבו הסיכון מצדיק את עבודת ההפקה: הנחיות בדיוק-לפני-הצורך, הקלטות קצרות שהסטודנט/ית אינו/ה יכול/ה לערוך, רובריקות משובצות ותמלולים שנוצרים אוטומטית.
+**3.** השתמשו ב[[asynchronous-oral-assessment-2026|הערכה בעל פה אסינכרונית]] במקום שבו הסיכון מצדיק את עבודת ההפקה: הנחיות בדיוק-לפני-הצורך, הקלטות קצרות שהסטודנט/ית אינו/ה יכול/ה לערוך, [[rubrics|רובריקות]] משובצות ותמלולים שנוצרים אוטומטית.
 
 **4.** הגדירו כל בינה מלאכותית שאתם מספקים כך שתרמוז במקום לענות, ושבצו אותה בקורס במקום לקשר החוצה למשהו גנרי.
 

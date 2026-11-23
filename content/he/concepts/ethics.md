@@ -1,7 +1,7 @@
 ---
 title: אתיקה
 created: "2026-10-12T19:40:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:15:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,10 +9,14 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -66,6 +70,7 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 
 - **מסגרות נורמטיביות אינן מתחלפות.** בין 151 סטודנטים לתואר ראשון בספרד, שוויון מוסרי היה תנאי הכרחי לכוונה להשתמש ב-LLMs להכנה לבחינות (d = 0.338) אך לא חוזה מספיק, בעוד ששיפוטים תוצאתיים (β = 0.350) ודאונטולוגיים (β = 0.329) כן היו — סטודנטים מיישמים מספר מסגרות נורמטיביות ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **מבנה רב-ממדי משותף.** ששת הנושאים ב[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — החוצים אתיקת נתונים, אתיקת אלגוריתם ואתיקה פדגוגית — יוצרים שרשרת סיבתית מקושרת מעקרונות בסיסיים (שקיפות, אחריות, הוגנות, אוטונומיה) אל תוצאות התנהגותיות, ומדגישים ששימוש אחראי בבינה מלאכותית תלוי במפת-דרכים מוסדית ברורה לא פחות מאשר במודעות אישית.
+- **משמעות אתית עולה עם רמת ההשכלה.** [[licardo-students-ethical-challenges-genai-2026|Licardo & Šindić (2026)]] סקרו 1,299 סטודנטים סלובנים בחינוך יסודי, על-יסודי ובהשכלה גבוהה ומצאו שהחשיבות הנתפסת של אתגרים אתיים בבינה מלאכותית יוצרת עלתה באופן מונוטוני עם הרמה. ידע AI שנמדד בדיווח עצמי וההכרות לא הוסיפו דבר ניתן-לגילוי, ולכן ציר הרמה, ולא הידע הקודם, ארגן את הדאגה האתית.
 
 ## מעקרונות לממשל מוסדי
 
@@ -104,6 +109,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 
 מודעות אתית, הנמקה רפלקטיבית ופרקטיקה אחראית [[self-report-measures|בדיווח עצמי]] מתפתחות במידה רבה באופן בלתי תלוי. לאורך שלושה גלים שנתיים של 350 סטודנטים ניגריים למחשוב ב[[higher-ed|השכלה גבוהה]], [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] מצאו שכל שלושתם עלו באופן מהותי, אך גורמי הצמיחה שלהם היו כמעט בלתי-מתואמים, ומודעות ראשונית לא חזה צמיחה מאוחרת.
 
+ביטחון בתהליך האתי יכול לעלות בעוד הידע העצמי נשאר איפה שהיה. [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones and Hoover (2026)]] הטביעו GenAI בקורס בחרית לאתיקת מנהיגות לתואר ראשון, שזררו את אותו [[case-based-learning|מקרה]] פעם אחת ללא סיוע ופעם אחת עם ChatGPT, וניתחו 38 סקרי ביטחון תואמים מתוך כ-80 סטודנטים. בסולם 0–10, היכולת המדורגת עצמית לזהות את הדילמה האתית עלתה מ-7.24 ל-8.39 ולקבל החלטה נכונה ומוצדקת מ-7.24 ל-8.45, שניהם ב-p < .001, ושימוש בתאוריות אתיות כדי להסביר החלטה עלה מ-5.39 ל-7.08. שני הפריטים האינטרוספקטיביים — זיהוי המעלות, הערכים והזכויות של עצמך (p = .063) והסבר איך ערכים אישיים משפיעים על החלטה (p = .124) — לא זזו, ולכן הרווח מתמקם במיומנות נוהלית ולא בידע מוסרי עצמי.
+
 ## קשרים
 
 אתיקה מתחברת ל[[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], ו[[governance]]. היא הבסיס הנורמטיבי לכל שאר מושגי חינוך-ובינה-מלאכותית — המסגרת שבה שאלות הוגנות, שקיפות, אוטונומיה ובטיחות מועלות ונפתרות.
@@ -113,3 +120,9 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **"מסגור הרמאות הוא דרך מספקת לחשוב על אתיקת GenAI."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] טוענים שמוסדות צריכים להכריע בשאלות בינה מלאכותית יוצרת דרך **אתיקת שותפות ולא דרך מסגור של רמאות**. המסגור קובע אילו שאלות נשאלות, ומסגור של עבירה אינו יכול לשאול על מטרה חינוכית.
 - **"סגל וסטודנטים מסכימים מה אתי."** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç and Sever (2026)]], מחקר [[mixed-methods-research|שיטות מעורבות]] של **971 סטודנטים ו-135 אנשי סגל**, מוצא שהמימדים האתיים נבדלים בין הקבוצות. מדיניות שנכתבה מנקודת מבט אחת תטעה לגבי השנייה.
 - **"קונצנזוס אתי קודם לשימוש."** **האימוץ מקדים את ההסכמה האתית**: לאורך ארבעה סמסטרים בתוכנית להכשרת מורים בארה\"ב, שימוש הסטודנטים ב-GenAI **עלה מ-57% ל-83% להכנה להערכה**. הנורמות נוצרות על ידי הפרקטיקה ולא להפך.
+
+## האם הוראת אתיקה עובדת בכלל
+
+הוראת אתיקה בבינה מלאכותית מוצדקת לרוב בהנחה שאף אחד לא בודק: ש[[ethics|הוראת אתיקה]] משנה משהו. סקירה שיטתית ומטא-אנליזה מ-2024 של 66 מחקרים ו-9,978 סטודנטים היא המבחן הטוב ביותר הזמין להנחה זו בחינוך בכלל. התערבויות אתיות העלו תוצאות אתיות ומוסריות ב-g = 0.55 לעומת תנאי ביקורת, ו-73% מהאפקטים האמיתיים עברו את הסף המוגדר מראש להועיל — אך **פורמט ההעברה נשא את המתון**: פורמטים מבוססי-דיון ודיון-ועם-דידקטיקה עבדו (g = 0.56 ו-g = 0.68), בעוד הרצאה בלבד לא נבדלה מאפס (g = 0.10). מתן מקוון לא היה ניתן להבחנה ממעשה פרונטי. ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+ההעברה לאתיקת AI היא הסקה ולא ממצא המחקר הזה, אך היא חזקה: מודול אתיקת AI שמועבר כהרצאה על הטיה ויושר הוא, על פי ראיה זו, הפורמט החלש ביותר הזמין.

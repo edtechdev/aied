@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -40,7 +40,7 @@ Policy is distinct from [[governance|governance]]. A policy answers *what the ru
 
 ## Policy levels
 
-Policy is made at several levels at once, and they do not move together. The bullets below name the level and the research that documents it.
+Policy is made at several levels at once, and they do not move together. The bullets below name the level and the research that documents it. That vertical structure is the subject of [[learning-environments-as-systems|learning environments as systems]], which treats policy, institution, course and learner as interacting levels of one environment rather than as separate arenas — so a national permission changes what a university can fund, which changes what a department can require, which changes what an instructor can set.
 
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] coded the principal AI pages of the 50 US universities ranked most innovative in 2025 and found that only 6 framed them as a "policy" while 44 published guidance, guidelines, principles or resource hubs, and that 33 of 50 positioned instructors as the primary translators of institutional expectations into course rules — institutional policy is being deliberately written as adaptable guidance for course-level interpretation rather than fixed rule.
 - **Government policy:** [[ai-lifelong-learning-policy|Lifelong learning policy]] examines regulatory approaches at national and regional levels. A critical, infra-level view of AI in government policy-making is [[perrotta-zero-shot-governance-2026|Perrotta (2026)]], whose analysis of the UK Redbox civil-service [[llm|LLM]] prototype shows how general-purpose AI enters the professional toolkit of policy through "zero-shot governance" — domain-agnostic foundation models intervening in decisions, wrapped in thin [[discipline-specific-aied|domain-specific]] [[scaffolding|scaffolds]].

@@ -1,16 +1,21 @@
 ---
 title: "מהן השיטות הטובות ביותר והטיפים לעיצוב תוכנה חינוכית יעילה מבוססת בינה מלאכותית?"
 created: "2026-10-12T19:35:00-04:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -31,7 +36,7 @@ ai_assist:
 
 **1.** כתבו מה המערכת מחליטה ומה המורה מחליט/ה. הגבול הזה נעשה הארכיטקטורה.
 
-**2.** העריכו אינטראקציה מרובת תורים ומודעת לדיסציפלינה מול [[curriculum-design|תוכנית לימודים]] אמיתית, לא פרומפטים בודדים מול רובריקת בטיחות כללית.
+**2.** העריכו אינטראקציה מרובת תורים ומודעת לדיסציפלינה מול [[curriculum-design|תוכנית לימודים]] אמיתית, לא פרומפטים בודדים מול [[rubrics|רובריקת]] בטיחות כללית.
 
 **3.** עגנו תגובות בתוכן מאושר, והשאירו את רכיב האימות נפרד מהרכיב השיחתי.
 

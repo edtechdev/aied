@@ -1,7 +1,7 @@
 ---
 title: "קהילת חקר"
 created: "2026-10-12T20:10:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T04:42:57-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,10 +10,14 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"

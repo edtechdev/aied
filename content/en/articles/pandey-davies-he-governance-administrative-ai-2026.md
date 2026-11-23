@@ -81,7 +81,7 @@ Mapped onto the drivers, the cases sort by mechanism. Ofqual and the visa tool a
 - **Procurement.** Treat the contract as the governance instrument. Data sovereignty, audit rights, exit and portability terms decide whether the institution bought resilience or dependency.
 - **Sector bodies and policymakers.** Release model procurement terms no single institution could negotiate alone, fund shared regional and [[open-source|open source]] infrastructure, and extend accountability across the mobility pipeline so appeal rights do not depend on whether a university or a state agency decided.
 - **Ranking and reporting bodies.** Require any SDG-linked claim about administrative AI to report distributional outcomes by the groups SDG 10 names, and decline deployment counts in their place.
-- **Researchers.** The two gaps forcing hedging throughout — administrative AI in lower-income institutions, and systematic documentation of counter-cases — are the comparative work the framework is offered to support.
+- **Researchers.** The two gaps forcing hedging throughout — administrative AI in lower-income institutions, and systematic documentation of counter-cases — are the comparative work the framework is offered to support. Its socio-technical reading is the administrative case for [[learning-environments-as-systems|learning environments as systems]]: administrative AI is a governance question because it sits across workflow, staffing and legitimacy levels at once.
 
 ## Limitations
 

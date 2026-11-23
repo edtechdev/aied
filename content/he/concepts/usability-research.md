@@ -1,7 +1,7 @@
 ---
 title: מחקר שמישות
 created: "2026-10-12T19:35:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,10 +9,14 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -55,7 +59,7 @@ connected_articles: [icub-humanoid-storytelling-llm-hri-2025, rhaimi-productivem
 - **אינטראקציית רובוט-אדם ו[[conversational-ai|AI שיחתי]].** [[icub-humanoid-storytelling-llm-hri-2025|מחקר המספר ההומנואידי]] הוא מחקר שמישות מפורש של אינטראקציה מונעת-[[llm]]; [[conversational-ai-agents-umbrella-review-2026|סקירת מטרייה של סוכני AI שיחתיים]] מזהה שמישות ואיכות אינטראקציה כנושא חוזר.
 - **עיצוב ועידון.** ממצאי שמישות מזינים עיצוב איטרטיבי (ראו [[design-thinking]] ו[[learning-design]]), ומשפרים כלים לפני או לצד בדיקת יעילות.
 - **כלי אחד לאורך הקשרים, והתקרה שמגבילה אותו.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] החזיקו תחום, משימה וכלי קבועים בעוד רמה חינוכית שונתה, כך שדירוגיהם של 144 סטודנטים על 893 תשובות משוב ו-237 דוחות משווים הקשרים ולא תחומים — ורק דיוק נתפס נבדל בין רמות. המחקר מכנה גם את גבול סוג זה של הערכת משתמש: 72.2 עד 86.4 אחוז מהסטודנטים ממוצעו לפחות 4 מתוך 5, והחותמים מציינים שההבדלים הבלתי-מובהקים שלהם לא מבהירים שוויון מכיוון שלא נקבע שוליים מראש.
-- **עיצוב מדרג מדווח כחלק מהממצא.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ביקשו מ-25 מומחים תואמי-תחום לשפוט 92 הרצאות שנוצרו מחדש מול מחוון מעוגן ב"איכת הרצאת [[online-teaching-and-learning|MOOC]] תקנית", תוך כדי הקצאת כל וידאו למבקר יחיד (k = 1) כדי לפזר את הפאנל על פני יותר מהמאגר במקום לאסוף דירוגים חוזרים. על-המחיר ממודל ולא מוסתר: מודל יירוט-אקראי מייחס כ-35 אחוז משונות השיורית למבקר (ICC = 0.35) והמרווחים מקובצים-מבקר, וזאת הדרך שבה פאנל מומחים יכול לדווח "87 אחוז בפס או מעליו" עם טווח כנה.
+- **עיצוב מדרג מדווח כחלק מהממצא.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ביקשו מ-25 מומחים תואמי-תחום לשפוט 92 הרצאות שנוצרו מחדש מול [[rubrics|מחוון]] מעוגן ב"איכת הרצאת [[online-teaching-and-learning|MOOC]] תקנית", תוך כדי הקצאת כל וידאו למבקר יחיד (k = 1) כדי לפזר את הפאנל על פני יותר מהמאגר במקום לאסוף דירוגים חוזרים. על-המחיר ממודל ולא מוסתר: מודל יירוט-אקראי מייחס כ-35 אחוז משונות השיורית למבקר (ICC = 0.35) והמרווחים מקובצים-מבקר, וזאת הדרך שבה פאנל מומחים יכול לדווח "87 אחוז בפס או מעליו" עם טווח כנה.
 
 ## קשר למשפחות מחקר אחרות
 

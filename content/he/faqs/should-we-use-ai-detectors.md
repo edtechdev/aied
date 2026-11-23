@@ -1,7 +1,7 @@
 ---
 title: "האם עלינו להשתמש במזהי בינה מלאכותית?"
 created: "2026-10-12T19:10:00-04:00"
-updated: "2026-11-15T16:02:48-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -10,10 +10,14 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -108,7 +112,7 @@ ai_assist:
 
 ## הוסיפו למטלה שלב אחד שהכלי אינו יכול להיכנס לתוכו
 
-[[oral-assessment|הערכות בעל-פה]] א-סינכרוניות, שנבנות כהנחיות בזמן אמת עם תשובות מוקלטות קצרות ומוגבלות בזמן שנבדקות מול מחוונים מוטמעים, השיגו תוצאות דומות לבחינות פרונטליות עם שאלות אמריקאיות במחקר אחד, וטובות יותר באופן מובהק במחקר אחר, כשסטודנטים מדווחים על הכנה פעילה יותר ועל רלוונטיות מקצועית נתפסת גבוהה יותר. מבחינת [[administrator|מנהל]], התכונה שחשובה היא שזה מתרחב בלי השגחה ([[asynchronous-oral-assessment-2026|Pentland et al., 2026]]).
+[[oral-assessment|הערכות בעל-פה]] א-סינכרוניות, שנבנות כהנחיות בזמן אמת עם תשובות מוקלטות קצרות ומוגבלות בזמן שנבדקות מול [[rubrics|מחוונים]] מוטמעים, השיגו תוצאות דומות לבחינות פרונטליות עם שאלות אמריקאיות במחקר אחד, וטובות יותר באופן מובהק במחקר אחר, כשסטודנטים מדווחים על הכנה פעילה יותר ועל רלוונטיות מקצועית נתפסת גבוהה יותר. מבחינת [[administrator|מנהל]], התכונה שחשובה היא שזה מתרחב בלי השגחה ([[asynchronous-oral-assessment-2026|Pentland et al., 2026]]).
 
 עיצוב מחדש של המשימה עושה יותר עבודה מאשר חיזוק הבדיקה. מחקר מקרה של סטודנטים לתואר ראשון בכלכלה מצא שרק כשליש דיווחו על שימוש כלשהו בבינה מלאכותית, כשגילוי מפורש נדיר עוד יותר, וקרא לאי-הגילוי זהירות רציונלית תחת מדיניות מעורפלת ולא חוסר יושר. אותם סטודנטים העדיפו משימות מבוססות נתונים מהעולם האמיתי כפתרון ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al., 2026]]). ציפייה, הצהרה ובחינה של שימוש בבינה מלאכותית עדיפות על אכיפה, מפני ש[[authentic-assessment|אותנטיות]] צריכה להיות מתוכננת ולא נאכפת ([[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al., 2025]]).
 

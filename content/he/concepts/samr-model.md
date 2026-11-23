@@ -1,7 +1,7 @@
 ---
 title: מודל SAMR
 created: "2026-10-12T19:09:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T04:42:57-05:00"
 type: concept
 foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,10 +10,14 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-11-02T09:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"

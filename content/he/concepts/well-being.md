@@ -1,7 +1,7 @@
 ---
 title: רווחה
 created: "2026-10-12T19:25:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,10 +11,14 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T11:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
-connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026, zeng-ai-adoption-wellbeing-higher-ed-management-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -44,7 +48,7 @@ connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotio
 
 רווחה בחינוך היא רב-ממדית: היא כוללת רווחה רגשית (אפקט חיובי, מצוקה נמוכה), רווחה פסיכולוגית (מטרה, אוטונומיה, כושר), ורווחה חברתית (שייכות, קשרים חיוביים). בעידן הבינה המלאכותית, רווחה חשובה מכיוון שבינה מלאכותית יכולה לעצב מחדש למידה בדרכים המשפיעות על ממדים אלה — מהפחתת הביטחון של סטודנטים והגברת חרדה לגבי [[academic-integrity|יושרה אקדמית]], ועד לטיפוח או פגיעה ב[[student-engagement|מעורבות]] ובשייכות. חששות לגבי השפעתה של בינה מלאכותית על הכישורים החברתיים-רגשיים של הסטודנטים, הרווחה, החבריות ותחושת האמון והאמפתיה (שהועלו על ידי OECD ואחרים) הציבו את הרווחה כשיקול מפתח בשילוב אחראי של בינה מלאכותית.
 
-### כיצד רווחה מופיעה במחקר
+## כיצד רווחה מופיעה במחקר
 
 - **[[ai-literacy|אוריינות AI]] ולמידה חברתית-רגשית:** [[sec-ai-literacy-narrative-review-2026|מחקר המשייג SEC לתוך אוריינות AI]] טוען שטיפוח האינטליגנציה הרגשית והרווחה של המחנכים והסטודנטים הוא חיוני לנווט בסביבות למידה המומתכות על ידי בינה מלאכותית, ומתחבר ל[[social-emotional-learning|למידה חברתית-רגשית]] ולממדים אפקטיביים של בינה מלאכותית המומתכת בסביבות [[sociocultural-learning|למידה סוציו-תרבותיות]].
 - **חרדת AI וחוויית הסטודנט:** מחקרים על מעורבות הסטודנטים עם בינה מלאכותית (למשל, [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|מחקר מבוסס SDT]]) מוצאים ששימוש בבינה מלאכותית שזור עם חרדה, אמון וביטחון, כאשר רווחת הסטודנטים מושפעת מחששות לגבי יושרה אקדמית, [[creativity|יצירתיות]] ו[[cognitive-offloading|הסתמכות מופרזת]].
@@ -54,6 +58,11 @@ connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotio
 - **יכולת AI נתפסת יכולה להעלות בריאות נפשית דרך התקדמות למטרה.** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]] מצאו את הנתיב הטורי מהאינטליגנציה הנתפסת של העוזר לבריאות הנפשית מובהק (B = 0.098) וחזק יותר ב[[ai-literacy|אוריינות AI]] גבוהה (0.124) מאשר נמוכה (0.072), אם כי כל התוצאות נמדדו מיד לאחר משימה קצרה.
 - **חונכות תומכת-רגשית אינה בהכרח טובה יותר לרווחה.** שכבת מיינדפולנס של LLM שנוספה לחונך אלגברה הפחיתה חרדת מתמטיקה של מצב בשני הזרועות אך לא יותר מרמזים ומשוב קוגניטיביים בלבד, אף שהסטודנטים דירגו את הסוקט המיינדפול כתומך יותר — אזהרה מפני קריאת תשומת לב נתפסת כתוצאת רווחה ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 - **חרדת AI, הסתגלות ותלות כאותות רווחה:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] מוצאים שחרדת AI קשורה באופן שלילי למוטיבציה האקדמית חלקית דרך הפחתת [[metacognition|רגולציית רגש]] (ממותנת על ידי מגדר) בדגם סיני גדול; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] מראה שלומדים של [[language-learning|יפנית]] ממוינים לפרופילי הסתגלות פסיכולוגית לא מותאמים, מתונים וחיוביים, המונעים על ידי טכנואיסטרס וחוסן שמשנים לכיוון הסתגלות טובה יותר לאורך סמסטר; ו[[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] מזהיר שמתאמים חתכיים של מעורבות ב[[conversational-ai|בינה מלאכותית שיחתית]] (בדידות, חרדה, רווחה נמוכה) לא צריכים להיקרא כהשלכות, ושחוויות תומכות ומזיקות מתקיימות זו לצד זו.
+
+**ניסוי אקראי בן ארבעה שבועות מצא שבחירות העיצוב לא הזיזו את הרווחה, אבל הזמן כן.** [[fang-chatbot-psychosocial-extended-use-2025|Fang et al. (2025)]] הקצו 981 מבוגרים לאחת מתשע השילובים של ממשק (טקסט, קול נייטרלי, קול מעורר עניין) ונושא (פתוח, לא-אישי, אישי) ל-28 ימי שימוש ב-GPT-4o. אף אחת מהמניפולציות לא שינתה באופן מובהק בדידות, חברות בעולם האמיתי, תלות רגשית או שימוש בעייתי, וזהו הבדיק הניסיוני החזק עד כה של המתאמים שעליהם Yan מזהיר. משך השימוש היומי המרצוני חזה את ארבע התוצאות בכיוון המזיק, ומשתמשים שהאמינו בבוט או ראו בו חבר היו התלויים ביותר; מכיוון שמשך השימוש לא הוקצה באקראי, שאלת הכיוון נותרה פתוחה.
+
+**נתונים אורכיים מצביעים באותו כיוון, עם אזהרת מדידה.** [[folk-dunn-chatbot-companionship-loneliness-2026|Folk and Dunn (2026)]] עקבו אחרי 2,149 מבוגרים בארבע מדינות מערביות במהלך ארבעה סקרים לרוח 12 חודשים. במדד בדידות רגשית של פריט אחד, שימוש כבד יותר בצ'אטבוט חזה בדידות רבה יותר ארבעה חודשים לאחר מכן (β = 0.07 עד 0.08) ובדידות חזתה שימוש רב יותר (β = 0.06). בסולם קשר חברתי של 20 פריטים רק הכיוון השני עמד: תחושת קשר נמוכה יותר חזתה שימוש רב יותר (β = −0.09 עד −0.07), בעוד ששימוש לא חזה באופן מובהק קשר מאוחר יותר (p = .369). המחברים מכנים את הניתוחים גישושיים, וההסתייגות היא סיבה למדוד בדידות יותר מדרך אחת.
+
 - **האם קשירה עם AI מגנה או פוגעת תלוי ביחסים אופליין.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] מציעים שאפקטי הבריאות הנפשית נודדים עם קשירות AI ביחס לקשירות אופליין מסורתית ולא בעוצמתה בלבד — משלימה כאשר קשרים בעולם האמיתי עומדים בצרכי אישור זהות, ומפצה כאשר [[parents-and-families|מטפלים]] אינם עושים זאת — ומנבאים יחס של U הפוך בין השניים.
 - **תמיכה ברווחה [[situated-learning|הממוקמת]] תרבותית ומגבלותיה:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] מתארים את Sukoon, מערכת רווחה היברידית לסטודנטים אוניברסיטאים פקיסטנים המשלבת מסוון מתח מסוג Random Forest (דיוק 89.09% על פני שלוש רמות חומרה; 20 משתני סקר) עם שכבת דיאלוג של [[llm]] שמסלסלת טון ועוצמת תמיכה בשלוש דרגות בהתאם למודל הטיפול המדורג. היא נבנתה כי כלי בריאות נפש מעוצבים במערב הם באנגלית ולא תואמים תרבותית לסטודנטים שמבטאים מצוקה באורדו או באורדו-רומי ושעומדים בפני גורמי לחץ אקדמיים, כלכליים, משפחתיים ויחסיים בו-זמנית; המחברים מדייקים שהיא אינה כלי [[medical-education|קליני]] לאבחון או לטיפול, שתגובות מצוקה גבוהה מפנות לייעוץ מקצועי, ושכבת הצ'אטבוט טרם הוערכה עם סטודנטים על התאמה תרבותית או בטיחות רגשית.
 - **רווחת המורה ותפקיד:** השפעתה של בינה מלאכותית על [[teacher-role|מורים]] — כולל עומס עבודה, חרדה מהוראה עם טכנולוגיה משבשת, ויכולת לספק תמיכה רגשית — היא חשש חוזר, ומתחברת ל[[teacher-ai-competency|כשירות AI של מורים]] ול[[educational-development|פיתוח מקצועי]].
@@ -63,7 +72,9 @@ connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotio
 - **אתיקה ו-AI אחראי:** רווחה היא שיקול אתי ליבה ב[[ai-education|בינה מלאכותית בחינוך]], ומתחברת ל[[ethics|אתיקה]] ולאימפרטיב לתכנן AI שתומך בבריאות הנפשית ובשייכות של הלומדים במקום לפגוע בהן.
 - **חרדת גלאים כסיכון רווחה.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] מכנה "פלג'יאנסי" — חרדה הנגרמת מפחד מהאשמות בלתי אמינות של [[ai-detection|גלאי AI]] — וטוען שלומדי חינוך ממשיך מוזנחים, שייחודיותם הקוגניטיבית עשויה להיקרא כהתנהגות לא הולמת, זקוקים לרגולציה יחסית ולא לממשק לא רגולטיו שיכול לעורר כיבוי קוגניטיבי.
 
-### רווחה כשיקול עיצוב
+**למורים, כשירות מגיעה לרווחה רק דרך שביעות רצון בעבודה.** [[kayali-ai-literacy-tpack-wellbeing-2026|Kayalı et al. (2026)]] תיארו 350 מורים בעבודה ומצאו ש[[ai-literacy|אוריינות AI]] הזינה כל רכיב AI-TPACK בחוזקה (β = 0.65 עד 0.73), אך הרכיבים נחלקו בשביעות הרצון: ידע תוכן טכנולוגי של AI העלה אותה (β = 0.41) בעוד ידע טכני לבדו הוריד אותה (β = −0.30). שביעות הרצון נשאה אז את האפקט לרווחה רגשית, פסיכולוגית וחברתית (β = 0.42, 0.68 ו-0.57) ללא נתיבים ישירים ששרדו — אם כי המודל מסביר רק 11 אחוז משביעות הרצון.
+
+## רווחה כשיקול עיצוב
 
 נושא חוזר הוא שרווחה צריכה להיות שיקול עיצוב מודע בבינה מלאכותית בחינוך, לא מחשבה שנייה. זה אומר: לתכנן AI שיתמוך בקשרים אנושיים במקום להחליף אותם; להבטיח שסטודנטים יוכלו לשמור על סוכנות וביטחון במקום לחוות [[anxiety-and-stress|חרדה מושרית AI]] או הסתמכות מופרזת; לתמוך ביכולת וברווחה של המחנכים כשהם משלבים AI; ו[[ai-ed-evaluation|להעריך מערכות AI]] לא רק על פי [[learning-gains|תוצאות הלמידה]] אלא גם על פי האפקטים שלהן על רווחת הסטודנטים והמורים. [[research-methods-aied|מחקר]] מחבר רווחה ל[[motivation|מוטיבציה]], ל[[self-regulated-learning|וויסוס עצמי]] ול[[student-experience|חוויית הסטודנט]] (שייכות ומעורבות). [[daoism-ai-education-philosophy-2026|Xie (2026)]] טוען לטלוס חינוכי מתאים: האידאל הנגדי הדאואיסטי "ז'נרן" (真人) מחליף אופטימיזציה חלקית ב"שלמות מטופחת", ומדמיין מחדש למידה כאינטגרציה הרמונית של עצמו, חברה וקוסמוס, ועומד על כך ש"אף סטודנט אינו סט נתונים לניהול בלבד, אלא ישות שלמה המסוגלת להשיג שוויון נפש."
 
@@ -71,7 +82,7 @@ connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotio
 
 מסגור קונספטואלי מחדש מעוגן תמיכת [[self-regulated-learning|רגולציית רגש]] בפעילות גופנית ובאקולוגיה קמפוס במקום בזיהוי אפקט בלבד: אין ערוץ ביטוי יחיד שמזהה מצוקה ללא הקשר, כך ש-AI צריך לתמוך ברגולציה דרך פעילות גופנית בעוד מורים ויועצים שומרים על פרשנות, ומעקב אפקט הופך לכופה ברגע שנקשר לנוכחות או לציונים ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
-### חיבורים למושגים קשורים
+## חיבורים למושגים קשורים
 
 רווחה מתחברת ל[[student-experience|חוויית הסטודנט]] (כממד של החוויה הכוללת של הלומד), ל[[social-emotional-learning|למידה חברתית-רגשית]] ול[[affective-computing|מחשוב אפקטיבי]] (היכולות הרגשיות ש-AI פוגש), ל[[ethics|אתיקה]] (כשיקול אתי ליבה), ל[[motivation|מוטיבציה]] ול[[self-regulated-learning|וויסוס עצמי]] (רווחה תומכת בהם ונשענת עליהם), ל[[teacher-ai-competency|כשירות AI של מורים]] (יכולת ורווחת המחנכים), ול[[higher-ed|השכלה גבוהה]] ול[[k-12|K-12]] כהקשרים שבהם AI מעצב רווחה.
 

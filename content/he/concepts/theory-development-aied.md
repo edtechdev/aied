@@ -1,7 +1,7 @@
 ---
 title: פיתוח תיאוריה ב-AI בחינוך
 created: "2026-10-12T19:55:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:45:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,10 +10,14 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -22,7 +26,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender]
+connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
 ---
 
@@ -78,6 +82,8 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] מרחיבים את [[self-regulated-learning|למידה מוסדרת-עצמית]] ורגולציית אנוש-AI על ידי מתן שם למה שהלומד שולט עליו — תקנים, [[evaluative-judgment|שיפוטים הערכתיים]] ואישור שליטה — ולא רק למה שה-AI עושה.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai ו-Flenady (2026)]] מייבאים את ההכרה של Honneth ושל Brandom לתיאוריית המשוב, וטוענים שהייחוס ההדדי של מעמד, ולא איכות המידע, הוא מה שהופך הערה לסיבה לפעולה.
+
 פרדוקס החיכוך מציע הרחבה נוספת של תיאוריה מבוססת: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] מחיל את [[desirable-difficulties|הקשיים הרצויים]] של Bjork ו-Bjork ואת [[productive-failure|הכישלון הפרודוקטיבי]] של Kapur על מפגשים יחסיים בחינוך בחו"ל, וטוען שמה שקובע הוא כמה סוכנות פרשנית הלומד [[transfer-of-learning|מעביר]] לעוזר גנרטיבי, ולא באיזו תדירות הוא משתמש בו. המסגרת קונספטואלית ומציינת חמש הצעות כהיפותזות מתחרות.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] מקדמים את הטקסונומיה הפונקציונלית של התחום מאת Zawacki-Richter et al. (2019): מבין 154 הפרסומים עם פונקציית יישום ניתנת-לסיווג, 90 (58.4%) חמקו מארבע הקטגוריות שלה, והמסגרת שלהם מצליבה פונקציה עם שליטה מואצלת, עמדה אפיסטמית ופדגוגיה מוטבעת.
@@ -97,18 +103,12 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 ## היחס לפילוסופיה של AI בחינוך
 
 פיתוח תיאוריה ו[[philosophy-of-ai-in-education|הפילוסופיה של AI בחינוך]] הם זרמים משלימים אך נבדלים של העבודה היסודית של מאגר הידע. **פיתוח תיאוריה** מייצר ובוחן אמפירית את *המנגנונים* של למידה-עם-AI — תיאוריות ומסגרות בעלות שם כמו ג'נרטיביזם, סוכנות-אפיסטמית-משותפת, וקו-הבסיס הקוגניטיבי הנעדר, המסבירות ומנבאות כיצד לומדים ו-AI מגיבים. **פילוסופיה** חוקרת את *ההנחות המקדימות* שעליהן המנגנונים נשענים: מה נחשב ידע, מי נחשב יודע, ומה שהלומד הוא ביסודו. תיאוריה כמו [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|סוכנות-אפיסטמית-משותפת]] מציעה מנגנון תוך אימוץ משתמע של מחויבויות פילוסופיות על קוגניציה מבוזרת ועל [[agency|סוכנות]]; הפילוסופיה הופכת את המחויבויות הללו מפורשות וערעוריות. בעוד פיתוח תיאוריה שואל האם מסגרת מסבירה למידה היטב, הפילוסופיה שואלת האם היא תופסת מה שלמידה ונפש באמת הם — שני הזרמות נפגשים במאמרים היסודיים ביותר של התחום, העושים לעיתים קרובות את שניהם בבת אחת.
-
-## תפיסות מוטעות נפוצות
-
-**"ממצא שהכלי עבד הוא תרומה תיאורטית."** הוא אינו כזה, והסיבה מבנית. כאשר ההצעות של מסגרת מנבאות *הבדלים בין תצורות*, מחקר שמדווח רק אפקט ממוצע **אינו יכול לאשר או להפריך אותן** — העיצוב אינו יכול לראות את ההבחנה שהתיאוריה עוסקת בה. ניסוי שמראה רווח ממוצע אומר שמשהו קרה, לא איזה מנגנון גרם לכך, ולכן התיאוריה נותרת בדיוק באותה מידת תמיכה שהייתה לה קודם.
-
-**"החלת תיאוריה מבוססת על AI היא פיתוח תיאוריה."** בעיית השימוש בתיאוריה של העמוד אומרת אחרת: יישום אינו קידום, והדפוס החוזר בתחום הוא קונסטרוקטים שאולים המשמשים כאוצר-מילים ולא כניבויים ניתנים-לבדיקה. ההבחנה חשובה מפני שמסגרת שאולה שאינה יכולה לייצר הבדל שניתן להפריכו היא קישוט, לא תיאוריה.
-
-**"הטקסונומיות הקיימות של הפונקציה הפדגוגית של AI כבר מכסות את מה שהמערכות הללו עושות."** הן אינן מכסות חלק ניכר ממנו. מבין 154 פרסומים עם פונקציית יישום ניתנת-לסיווג, **90 (58.4%) חמקו מארבע הקטגוריות** של המסגרת הקודמת, ולכן העבודה החדשה מצליבה פונקציה עם שליטה מואצלת, עמדה אפיסטמית ופדגוגיה מוטבעת. טקסונומיה שמסווגת שלא כהלכה כמעט שלושה מכל חמישה מקרים אינה יכולה לשמש אוצר-המילים המשותף של התחום, והפער הוא ממצא על התופעה ולא פער במאמר.
+ מה שמבקרי התחום אומרים על הכיוונים שאותן תיאוריות אלה פותחות או סוגרות הוא שאלה נפרדת, המרוכזת תחת [[critiques-of-ai-in-education|ביקורות על AI בחינוך]].
 
 ## השלכות לפרקטיקה
 
-**למרצים ולמעצבי הוראה**
+
+
 
 - כאשר מחקר מדווח אפקט ממוצע, אל תתייחסו אליו כהנחיה לגבי התצורה *שלכם*. הטענות ברמת התיאוריה עוסקות בהבדלים בין תצורות, וממוצע אינו יכול לומר לכם איזו מהן אתם מפעילים.
 - שאלו בכל מסגרת שתאמצו אם היא מנבאת משהו שיכול להתגלות כשקרי בהקשר שלכם. אם היא אינה יכולה, היא לא תעזור לכם להחליט דבר.
@@ -123,3 +123,11 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 
 - תכננו ניגודי תצורה אם אתם מתכוונים לתרום תיאורטית. ניסוי אפקט-ממוצע שמתפרסם כפיתוח תיאוריה הוא התפוקה הנפוצה והפחות מועילה של התחום.
 - הצמידו הצעות ניתנות-להפרכה מפורשות לכל מסגרת שאתם מציגים, ודווחו אילו הבדלי תצורה היו מפריכים אותן.
+
+## תפיסות מוטעות נפוצות
+
+**"ממצא שהכלי עבד הוא תרומה תיאורטית."** הוא אינו כזה, והסיבה מבנית. כאשר ההצעות של מסגרת מנבאות *הבדלים בין תצורות*, מחקר שמדווח רק אפקט ממוצע **אינו יכול לאשר או להפריך אותן** — העיצוב אינו יכול לראות את ההבחנה שהתיאוריה עוסקת בה. ניסוי שמראה רווח ממוצע אומר שמשהו קרה, לא איזה מנגנון גרם לכך, ולכן התיאוריה נותרת בדיוק באותה מידת תמיכה שהייתה לה קודם.
+
+**"החלת תיאוריה מבוססת על AI היא פיתוח תיאוריה."** בעיית השימוש בתיאוריה של העמוד אומרת אחרת: יישום אינו קידום, והדפוס החוזר בתחום הוא קונסטרוקטים שאולים המשמשים כאוצר-מילים ולא כניבויים ניתנים-לבדיקה. ההבחנה חשובה מפני שמסגרת שאולה שאינה יכולה לייצר הבדל שניתן להפריכו היא קישוט, לא תיאוריה.
+
+**"הטקסונומיות הקיימות של הפונקציה הפדגוגית של AI כבר מכסות את מה שהמערכות הללו עושות."** הן אינן מכסות חלק ניכר ממנו. מבין 154 פרסומים עם פונקציית יישום ניתנת-לסיווג, **90 (58.4%) חמקו מארבע הקטגוריות** של המסגרת הקודמת, ולכן העבודה החדשה מצליבה פונקציה עם שליטה מואצלת, עמדה אפיסטמית ופדגוגיה מוטבעת. טקסונומיה שמסווגת שלא כהלכה כמעט שלושה מכל חמישה מקרים אינה יכולה לשמש אוצר-המילים המשותף של התחום, והפער הוא ממצא על התופעה ולא פער במאמר.

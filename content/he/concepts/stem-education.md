@@ -1,7 +1,7 @@
 ---
 title: חינוך STEM
 created: "2026-10-12T19:25:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,10 +10,14 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -41,6 +45,8 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 ## מבוא
 
 ### STEM כתחום ה-AIED הראשי
+
+מדור התחומים מסדר את עמודי הנושא לארבעה אשכולות — [[humanities-education|מדעי הרוח והאמנויות]], [[social-sciences-education|מדעי החברה]], STEM ו[[professions-education|מקצועות]] — ו-STEM הוא הגדול שבהן במידה ניכרת, וזהו עצמו ממצא על היכן שמצטברות הראיות לבינה מלאכותית בחינוך.
 
 - **מתמטיקה:** מחקר [[math-education|חינוך מתמטיקה]] משתרע על [[generative-ai-reduced-study-time-math|השפעת GenAI על למידת מתמטיקה]], [[ai-powered-personalized-learning-elementary-fractions-2026|חונכות שברים בסיסית]], ו[[student-math-competence-clustering|אשכול מיומנות]].
 - **ראיות ITS במתמטיקה מוגבלות ומותנות.** סקירה נרטיבית מובנית של 20 פרסומים (2020–אפריל 2026) מצאה את היתרון הנמדד הברור ביותר ל[[feedback|משוב]] אבחוני בזמן אמת שהורכב על אותה מערכת מסתגלת, אך הסיקה שהוראה פרטית חכמה תומכת בלמידת מתמטיקה רק כאשר [[student-modeling|מידול לומד]] תקף, פיגום מכויל ותיווך מורה משתלבים, ושקנה המידה הוא טכני ולא חינוכי ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).

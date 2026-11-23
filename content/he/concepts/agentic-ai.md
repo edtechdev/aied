@@ -12,11 +12,15 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T10:00:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -30,7 +34,7 @@ ai_assist:
     date: "2026-11-17"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
-connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agentic-university-collaborative-agents-2026, pramod-agentic-ai-motivational-pathways-2026, ai-agents-joyful-assessment-third-space-2026, ilieva-agentic-genai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, baradziej-agentic-ai-higher-education-2026, kostopoulos-agentic-ai-education-2025, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, tool-invariant-framework-agentic-ai, jeon-isd-agent-bench-2026, adversarial-stress-testing-role-playing-agents, ai-agents-constructive-conflict-design-education-2026, ai-tpack-teacher-multi-agent-workflow, code-gen, educlaw-bench-pedagogical-llm-agents-2026, guided-llm-scaffolding-independent-learning, learnmate2-llm-adaptive-learning, cyberagents-gamified-cybersecurity-learning-2026, hdr-brachytherapy-agentic-ai-simulation-2026, bozkurt-ghost-students-agentic-ai-2026, ai-agents-complete-lms-assessment-validity-2026, ai-web-agents-lesson-design-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-standardized-patient-scaffolding-medical-2026, ethics-training-agents-group-ethics-discussion-2026, nkrumah-ai-skill-extraction-engineering-2026]
+connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -93,7 +97,7 @@ connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agent
 
 **תשובה ארגונית: הלומד כחבר משתתף ולא כמקבל.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] מממשים ארגון מרובה-סוכנים עם השתתפות אנושית, שבו סוכנים מתמחים מחזיקים "תכנית יכולת" ניתנת-לתיקון המקשרת מטרות אישיות, פעילויות [[multimodal|רב-מודאליות]] ו[[assessment|הערכה]] מדורגת, עם "צומת אנושי" ניתן-לתיקון הנושא את הראיות והאתגרים של הלומד עצמו אל תיקונים מאוחרים. מול קו הבסיס הרב-סוכני הקרוב ביותר, לאורך 96 מקרי לומד מסוימים, היתרון התרכז בעיצוב ההערכה: 19.32 נקודות גבוה יותר ב[[assessment-validity|תקפות ההערכה]] (95% CI [17.55, 21.04]) ו-5.89 בכיסוי היכולות, בעוד שההתאמה האישית לא הבדילה (1.35 נקודות, רווח החוצה אפס). במחקר אקראי של 32 לומדים הרווח בידע במבחן אובייקטיבי בן 50 נקודות היה 12.19 לעומת 5.61 נקודות.
 
-- **סימון סוכני הוא שאלת מהימנות לפני שהוא שאלת עומס עבודה.** פריסת Claude Code סוכנית קיבלה שלושה קבצי רובריקה ו-60 עבודות אמצע-סמסטר סרוקות בכתב יד מקורס גרפיקה ממוחשבת. הציונים שלה תאמו למרצה ב-r = 0.97, עם שגיאה מוחלטת ממוצעת של 0.85 נקודות מתוך 20, הטיה חיובית ממוצעת של 0.68, ו-ICC של 0.96 בין שני מושבים בהפרש שבוע. הממוצע המצטבר מסתיר היכן היא נכשלת: קאפה משוקלל נע מ-0.98 בשאלות אמריקאיות ל-0.65 בפריטים הערכתיים, כשציורים מצוירים ביד הם המקרה החלש ביותר ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). קורס אחד, מרצה אחד ומערך רובריקות אחד ממקמים את השונות; הם אינם מבססים שהסימון הסוכני מכליל.
+- **סימון סוכני הוא שאלת מהימנות לפני שהוא שאלת עומס עבודה.** פריסת Claude Code סוכנית קיבלה שלושה קבצי [[rubrics|רובריקה]] ו-60 עבודות אמצע-סמסטר סרוקות בכתב יד מקורס גרפיקה ממוחשבת. הציונים שלה תאמו למרצה ב-r = 0.97, עם שגיאה מוחלטת ממוצעת של 0.85 נקודות מתוך 20, הטיה חיובית ממוצעת של 0.68, ו-ICC של 0.96 בין שני מושבים בהפרש שבוע. הממוצע המצטבר מסתיר היכן היא נכשלת: קאפה משוקלל נע מ-0.98 בשאלות אמריקאיות ל-0.65 בפריטים הערכתיים, כשציורים מצוירים ביד הם המקרה החלש ביותר ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). קורס אחד, מרצה אחד ומערך רובריקות אחד ממקמים את השונות; הם אינם מבססים שהסימון הסוכני מכליל.
 
 ארכיטקטורות סוכניות קונות כיסוי במחיר מדיד בדיוק. בהשוואה של [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] על 926 דגימות ממודעות דרושים ו-1,696 מיומנויות בתקן זהב, סוכן ReAct עם כלי חיפוש ESCO הוביל בשחזור משופר של 89.7%, לעומת 83.7% לקונפיגורציה היוצרת הטובה ביותר ו-49.1% למודל ההטמעה הטוב ביותר. הדיוק שלו היה 22.7%, מה שהשאיר F1 של 36.3%, מתחת ל-Gemini 2.5 Flash מעוגן-כלים עם 51.6%, והוא רץ כעבור כ-16 שניות לדגימה. שחזור הוא המדד הנכון כאשר יועץ אנושי מסנן את הרשימה; פלט לא-מתווך זקוק לחלופה המעוגנת.
 
@@ -146,6 +150,8 @@ connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agent
 
 הדבר מחבר את הדיון על בינה מלאכותית סוכנית לכיסוי [[academic-integrity|היושר האקדמי]] של מאגר הידע, שממסגר את התגובה כעיצוב מחדש של ההערכה וכ[[ai-literacy|אוריינות AI]] ולא כגילוי בלבד.
 
+- **החפץ המבוקר יכול להיות כתוב-סוכן בד בבד.** [[pinto-student-ownership-ai-agents-code-2026|Pinto et al. (2026)]] בחנו 18 זוגות תלמידים שבנו מערכות תחת פיתוח מונחה-מפרט (spec-driven development) ומצאו שסוכנים כתבו 69% מהמפרטים שנועדו לשמור על השליטה בידי התלמידים, לפעמים מכמה מילים בלבד בהנחיה, כך שהמפרט שאמור היה להעיד על הלומד עצמו נכתב על ידי סוכן.
+
 ## שפשוף פרודוקטיבי ואינטראקציה חברתית
 
 לא כל התנהגות סוכנית צריכה להיות סיוע חלק. [[ai-agents-constructive-conflict-design-education-2026|מחקר על סוכני עיצוב אדברסריים]] מראה שסוכנים המגלמים **סכסוך קונסטרוקטיבי** עוררו איטרציות עיצוב משמעותיות יותר, חקר רחב יותר של חלופות, ועיצובים סופיים מדורגים גבוהים יותר בקרב מעצבי אינטראקציה מתחילים (N=48) — דינמיקה של *שפשוף פרודוקטיבי*, שבה סוכן הסכסוך היה מתסכל אך בסופו של דבר מועיל. הדבר מתחבר ל[[socratic-method|שאלות סוקרטיות]] ול[[design-thinking|חשיבה עיצובית]], וממחיש כיצד בינה מלאכותית סוכנית יכולה לתמוך בעיון מחודש עמוק במקום בקבלה פסיבית.
@@ -164,6 +170,8 @@ connected_articles: [alghamdi-claude-code-agentic-grading-2026, jingru-fan-agent
 - **בניית [[ai-literacy|אוריינות AI]] בקרב המדריכים.** מורים ומעצבים זקוקים למודלים מנטליים מדויקים של בינה מלאכותית סוכנית כדי לקבוע, לנטר ולבקר מערכות אלה — וכדי לבנות שימוש אחראי ללומדים. הדבר מתחבר ל[[teacher-ai-competency|כשירות המורה בבינה מלאכותית]] ול[[educational-development|פיתוח סגל]].
 - **מעקב אחר שוויון.** כלים סוכניים מסוכנים להרחיב פערים אם הגישה אינה שווה או אם האוטומציה מכרסמת בתמיכה ללומדים הזקוקים לה ביותר; לעצב תוך מחשבה על [[equity-in-ai-education|שוויון בחינוך]].
 - **הקמת פיגום מוסדי לפני הרחבה.** שאלת הפריסה אינה רק ברמת-עיצוב אלא גם ברמת-מוסד. הסינתזה של [[baradziej-agentic-ai-higher-education-2026|Baradziej (2026)]] מעמידה את ראיות הממשל בשלושה עמודים: לפתח [[ai-literacy|אוריינות AI]] בקרב סטודנטים *וגם* סגל; לבנות תשתית [[ethics|אתית]] (מדיניות הגנת נתונים, מסגרות אחריות אלגוריתמית ויושר אקדמי) *לפני* פריסה בקנה-מידה גדול; ולספק [[educational-development|הכשרת מחנכים]] מבוססת-מיומנות החורגת על היכרות עם הכלים אל מסגרות פדגוגיות המשמרות סוכנות אנושית. בהינתן שרק ~6.5% מסגל בהקשרים לאומיים מסוימים מדווחים על שימוש ישיר ב-AI, פער ההכשרה הוא מגבלה מחייבת על אימוץ אחראי.
+
+- **מדדו היכן אנשים מסמנים את קו ההאצלה.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang & Nedungadi (2026)]] רשמו ניסוי בחירה התנהגותי רנדומלי עם 290 מרצי אוניברסיטה: 92% האצילו כתיבת שאלות אך רק 20% שחררו מבחן לפלטפורמה ללא פיקוח, ורק 5% בחרו בפרסום אוטומטי. תצורות טיוטה-בלבד ותצורות מסוג אישור-מותנה היו המועדפות, כך שהגבול עומד בפעולות הפלטפורמה הבלתי-הפיכות ולא ביצירת התוכן.
 
 ### טכניקות להבטחת יושר אקדמי עם בינה מלאכותית סוכנית
 

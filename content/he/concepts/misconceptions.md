@@ -1,7 +1,7 @@
 ---
 title: תפיסות מוטעות על בינה מלאכותית
 created: "2026-10-12T21:50:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T14:45:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,10 +11,14 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -27,7 +31,7 @@ ai_assist:
     role: translation
     date: "2026-11-17"
     agent: hermes-agent
-connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust]
+connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
 ---
 
@@ -46,7 +50,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## מבוא
 
-תפיסות מוטעות על בינה מלאכותית חשובות משום שהן הקודם הקוגניטיבי להתנהגויות המזיקות שמאגר הידע מתעד תחת דאגות [[cognitive-offloading|הסתמכות יתר]] ו[[academic-integrity|יושרה אקדמית]]. אנשים רק לעתים רחוקות יוצאים ל[[ai-misuse-learning-harm|שימוש לרעה]] בבינה מלאכותית; הם עושים זאת משום שמודלים מנטליים לא-מדויקים מובילים אותם להניח אמון במקום הלא-נכון, לדלג על אימות, ולהתייחס לתוצר כאל הבנה. בחינוך שגיאות אלה מעצבות הכל מכיצד סטודנטים לומדים ועד כיצד מורים ומוסדות מעצבים תכניות לימודים, [[assessment|הערכה]], ומדיניות.
+תפיסות מוטעות על בינה מלאכותית חשובות משום שהן הקודם הקוגניטיבי להתנהגויות המזיקות שמאגר הידע מתעד תחת דאגות [[cognitive-offloading|הסתמכות יתר]] ו[[academic-integrity|יושרה אקדמית]]. אנשים רק לעתים רחוקות יוצאים ל[[ai-misuse-learning-harm|שימוש לרעה]] בבינה מלאכותית; הם עושים זאת משום שמודלים מנטליים לא-מדויקים מובילים אותם להניח אמון במקום הלא-נכון, לדלג על אימות, ולהתייחס לתוצר כאל הבנה. בחינוך שגיאות אלה מעצבות הכל מכיצד סטודנטים לומדים ועד כיצד מורים ומוסדות מעצבים תכניות לימודים, [[assessment|הערכה]], ומדיניות. גוף עבודה נפרד מערער את המיסגור שמייצר את התפיסות המוטעות האלה מלכתחילה; ראו [[critiques-of-ai-in-education|ביקורת על בינה מלאכותית בחינוך]].
 
 ## מהם תפיסות מוטעות על בינה מלאכותית
 

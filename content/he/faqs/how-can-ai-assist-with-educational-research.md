@@ -16,6 +16,10 @@ page_kind: [evaluation]
 confidence: medium
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -28,7 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
-updated: "2026-11-15T15:59:27-05:00"
+updated: "2026-11-23T14:45:00-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -46,7 +50,7 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 
 **2.** שימו את האוטומציה על הסינון. השאירו חילוץ נתונים, התאמה וסינתזה בידי אנשים.
 
-**3.** סגרו את ספר הקודים ואת הרובריקה לפני שסבב אוטומטי נוגע בנתונים.
+**3.** סגרו את ספר הקודים ואת ה[[rubrics|רובריקה]] לפני שסבב אוטומטי נוגע בנתונים.
 
 **4.** החליטו מה פירושו של אימות ומי חותם עליו. הסכמה בין מודל למקודד/ת היא מדד דמיון, לא תוצאה של איכות.
 

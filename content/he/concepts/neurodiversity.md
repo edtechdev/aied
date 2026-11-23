@@ -8,11 +8,15 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-updated: "2026-11-08T11:34:07-05:00"
-source_updated: "2026-11-06T09:20:00-05:00"
+updated: "2026-11-23T13:45:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -85,9 +89,13 @@ connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-
 - **גבולות הקטגוריה נבדלים בין מחקרים,** כך שהשוואה בין-מחקרית של אותו "נוירוטיפ" מוגבלת — והבדלים בין-קטגוריים במטאנליזה מדווחים כבלתי-מובהקים.
 - **הסוקרים של התחום עצמו מתארים אותו כמונע-טכנולוגיה,** מה שאומר שעדות ההתערבות דלילה בדיוק היכן שהדרכת התכן החזקה ביותר.
 
+- **קיים כעת מחקר משווה לשימוש בבינה מלאכותית יוצרת.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] סקרו 477 סטודנטים יפנים באוניברסיטה ובלימודי מגיסטר עם וללא הפרעות התפתחותיות-נוירולוגיות ומצאו אי-הבדל מובהק בין הקבוצות בשימוש השבועי, במיומנויות המדורגות-עצמית, בתועלות הנתפסות או בצרכי התמיכה. רק אינטראקציות קול ותמונה היו גבוהות מעט יותר בקבוצת ההפרעות, ולכן לפער הקבוצה-הבודדת שלמעלה יש כעת משווה ישיר אחד.
+
 ## חיבורים
 
 נוירו-מגוון מתחבר ל[[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], ו[[equity-in-ai-education]]. הוא מיידע הן את האופן שבו בינה מלאכותית נפרסת עבור [[student-experience]] והן את האופן שבו הערכות ותוכניות אוריינות מתוכננות להיות הוגנות על פני שונות קוגניטיבית. לאופן שבו הממצאים הללו יושבים לצד קבוצות לומדים אחרות — שפה, מגדר, סטטוס סוציו-אקונומי, גאוגרפיה — ראו [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
+
+סקירה של [[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh and Natoli]] של 28 מחקרים על בינה מלאכותית לסטודנטים אקדמיים עם ADHD ממיינת את העדות לתמיכה, חיזוי ואתיקה. החיזוי הוא החלק הדליל ביותר: מודל פופילומטרי הגיע ל-AUROC 0.856, בעוד מסווג SVM הגיע לדיוק של 66.1 עד 68.8 אחוז, מתחת לתועלת קלינית. פשרת התפקוד האקדמי היא הליבה האתית — כלי שמפצה על דרישה יכול גם לספוג את התרגול שהיה בונה את הכשירות ([[executive-function|תפקוד אקדמי]]).
 
 ## תפיסות מוטעות נפוצות
 

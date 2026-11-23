@@ -1,16 +1,20 @@
 ---
 title: למידה מסתגלת
 created: "2026-10-12T19:40:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -20,7 +24,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
-connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
+connected_articles: [adapt-adaptive-lesson-plan-transformer, adaptive-ai-scaffold-collaborative-problem-solving-2026, adaptive-pretesting-retention, adaptive-scaffolding-cognitive-engagement-its, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-student-engagement-online-learning-review-2025, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, ayasrah-adaptive-assessment-conceptual-mastery-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, bin-bakheet-adaptive-ai-stem-deep-learning-2026, burneo-can-edtech-close-learning-gaps-2026, chudziak-ai-math-tutoring-platform, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026, context-based-ai-secondary-chemistry-2026, deceptive-overgeneralization-adaptive-learning-2026, graph-its-adaptive-algorithms-2026, khalifeh-redefining-personalized-learning-ai-2026, making-ai-tutoring-productive-mastery-math-2026, mars-momentum-aware-adaptive-rating-assessment-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, riedmann-reinforcement-learning-education-review-2026, simon-student-engagement-adaptive-learning-2026, stanford-evidence-base-ai-k12-2026, turano-ai-tutoring-not-a-monolith-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, zerkouk-comprehensive-review-its-2025, zhao-deeptutor-agentic-personalized-tutoring-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -38,7 +42,7 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 ## מבוא
 
-### מנגנוני ליבה
+## מנגנוני ליבה
 
 - **לולאת מדידה-מודל-הסתגלות:** [[knowledge-tracing|עקיבת ידע]] מעריכה מה שהתלמיד יודע, [[student-modeling|מודלנציית תלמיד]] מייצגת את הלומד, והמערכת מסתגלת לקושי, לתוכן ול[[feedback|משוב]] בהתאם.
 - **התאמה אישית בקנה מידה גדול:** מערכות [[personalized-learning|למידה מותאמת-אישית]] משתמשות באלגוריתמים מסתגלים כדי לשרת מסלולי למידה ייחודיים לכל תלמיד. [[deeptutor]] ו[[ai-powered-personalized-learning-elementary-fractions-2026|מורים פרטיים לשברים ביסודי]] מדגימים התאמה אישית מסתגלת בפועל.
@@ -46,7 +50,9 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 - **שילוב מערכות הוראה פרטיות חכמות:** [[intelligent-tutoring|מערכות הוראה פרטיות חכמות (ITS)]] הן [[edtech-platform|פלטפורמת הלמידה המסתגלת]] הקנונית, ומשלבות אבחנה עם הסתגלות.
 - **פרופילינג ואבחנה מונעי-AutoML:** מודלים חינוכיים מסורתיים מתקשים לעבד נתוני התנהגות-למידה מרובי-מקור והטרוגניים, מה שמגביל את פרופילינג הלומד ואת פיתוח מודלי האבחנה. מסגרת חיפוש ארכיטקטורה קוגניטיבית-נוירונית מותאמת-אישית המונעית ב[[machine-learning|למידת מכונה]] אוטומטית משלבת נתונים חינוכיים [[multimodal|רב-מודליים]] עם שיטות הטרוגניות, ומייצרת מודלי אבחנה המותאמים לפרופילי לומד הטרוגניים ותומכת בניתוח דינמי ולא סטטי של תהליכי הלמידה.
 
-### ראיות יעילות
+- **הכיסוי הוא אילוץ עיצוב, לא אפקט לוואי.** [[ayasrah-adaptive-assessment-conceptual-mastery-2026|פרוטוקול מבוסס-סימולציה עם עיצוב אקראי מקבצי]] מצא שסידור אדפטיבי עם שער קדם-דרישות הגיע ל-6.3 מתוך 8 מושגים לעומת 8.0 לסידור קבוע, ולכן הפרוטוקול קובע את כיסוי התוכנית כרצפה מפורשת במקום להשאיר אותה לשער הקדם-דרישות.
+
+## ראיות יעילות
 
 מאגר הידע מתעד ראיה מעורבת: מערכות מסתגלות משפרות תוצאות כאשר ההסתגלות מעוגנת ב[[student-modeling|מודלים אמינים של תלמידים]], אך הסתגלות מכוילת רע עלולה לפגוע בלמידה. [[personalized-learning|מחקר התאמה אישית]] מבדיל בין הסתגלות יעילה להתאמת-לקוח שטחית. [[khalifeh-redefining-personalized-learning-ai-2026|סקירות שיטתיות]] מוצאות ש"מסתגלת", "מותאמת-אישית", "אינדיבידואלית" ו"מותאמת-לקוח" משמשות באופן בלתי-עקבי — ולכן גדלי האפקט תלויים במידה רבה באופן שבו ההסתגלות מופעלת מבחינה מבצעית, והתחום קורא למסגרת מאוחדת.
 
@@ -58,15 +64,15 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 סקירה מיושרת-PRISMA של 44 מחקרים מוצאת שספרות המעורבות נטתה ל[[student-engagement|מעורבות התנהגותית]] ודלה ביותר במעורבות סוכנית, ומדווחת על אפקט חידושיות — מעורבות מדעיכה לאורך זמן במחקרים אורכיים של ALEKS ו-W-Pal לאחר שחידושיות הכלי דעכה ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]).
 
-### עידן הבינה המלאכותית: הסתגלות מבוססת מודל שפה גדול וסיכוניה
+## עידן הבינה המלאכותית: הסתגלות מבוססת מודל שפה גדול וסיכוניה
 
 [[generative-ai|בינה מלאכותית יוצרת]] הרחיבה את מה שמערכות מסתגלות יכולות לעשות — מורים פרטיים שיחתיים [[agentic-ai|סוכניים]], תוכן מעוגן-[[rag|RAG]], ו[[intelligent-tutoring|הוראה פרטית]] מונעית-[[llm|מודל שפה גדול]] מסתגלים לא רק לקושי הבעיה אלא לשפה ולסגנון ההסבר (למשל, [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|הוראה פרטית מסתגלת מרובת-סוכנים]]). עם זאת, הסתגלות מבוססת מודל שפה גדול מציגה סיכונים חדשים: ללא [[student-modeling|מודלים אמינים של תלמידים]], ההסתגלות עשויה להתבסס על אותות שטחיים; הסתגלות-יתר יכולה להקטין את המאבק הפרודוקטיבי שהתלמידים צריכים (ראו [[desirable-difficulties|קשיים רצויים]], [[cognitive-offloading|הורדת מטען קוגניטיבי]]); והאיזון בין התאמה אישית לשימור [[agency|סוכנות]] הלומד היא שאלת עיצוב פתוחה (ראו [[agentic-ai|בינה מלאכותית סוכנית]]). גרסה של ההסתגלות שמבוקשה-על-ידי-הלומד פועלת ללא [[student-modeling|מודל של תלמידים]] כלל: בקורס הלימודי המשך של Sidorkin (2026) הקריאות הותאמו רק כאשר התלמידים ביקשו שאלות המשך כדי למסגרם מחדש, להעמיקם, לפשטם או לוקליזם, ובקשות מוכוונות-הבנה הניבו באופן אמין [[scaffolding|פיגום]] צפוף יותר (3.4x עד 8.7x יותר סמני הגדרה מטקסט הבסיס), וזו הסיבה שדרישת שלוש שאלות המשך לפחות לכל קריאה הפכה את החומר לאינטראקציה. זה גם מעביר את נטל ההסתגלות אל הלומד: ההסתגלות כאן מתרחשת רק אם התלמיד יודע מה לבקש.
 
-### היחס ללמידה מותאמת-אישית ולהוראה פרטית חכמה
+## היחס ללמידה מותאמת-אישית ולהוראה פרטית חכמה
 
 למידה מסתגלת מבולגנת בתדירות גבוהה עם [[personalized-learning|למידה מותאמת-אישית]], אך הן נבדלות. **למידה מסתגלת** היא ה*מנגנון* — התאמה בזמן אמיתי של תוכן, קצב וקושי על סמך מודל לומד. **למידה מותאמת-אישית** היא ה*מטרה הרחבה יותר* של התאמת חוויית הלמידה כולה לאינדיבידואל, שממנה הסתגלות בזמן אמיתי היא יישום אחד. מערכות מסתגלות הן ה*אמצעי* הקנוני להתאמה אישית. [[intelligent-tutoring|הוראה פרטית חכמה]] היא ה*פלטפורמה* הקלאסית: מערכות ITS משלבות אבחנה (מודלנציית תלמיד, עקיבת ידע) עם הסתגלות, ומורים פרטיים מבוססי מודל שפה גדול מסתגלים שיחתית. יחד עם [[personalized-learning|למידה מותאמת-אישית]], למידה מסתגלת היא חברת-צד-היישום של משפחת [[student-modeling|מודלנציית הלומד והוראה המסתגלת]] — צורכת את ייצוגי הלומד ש[[student-modeling|מודלנציית תלמיד]], [[knowledge-tracing|עקיבת ידע]] ו[[cognitive-diagnosis|אבחנה קוגניטיבית]] מייצרים.
 
-### ראיות מחקר
+## ראיות מחקר
 
 - **ראיה [[meta-analysis-systematic-review|מטא-אנליטית]] על כלים מסתגלים + AI.** [[burneo-can-edtech-close-learning-gaps-2026|מטא-אנליזה של הבנק העולמי]] של 14 [[rct|ניסויים אקראיים מבוקרים]] מרכזת למידה מסייעת-מחשב מסתגלת, הוראה פרטית חכמה ובינה מלאכותית יוצרת בסולם משותף, ומעריכה תשואת למידה ממוצעת של ~0.5 סטיות תקן אין הבדל מובהק בין שני דורי הטכנולוגיה — ראיה שמנגנון ההסתגלות, לא דור הכלי הספציפי, הוא מה שמניע תשואות.
 - **דירוג פרשני עם ניתוב מתוקצב-זמן.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] שומרים על מעט סקלרים מפורשים של הלומד — רגישות הדירוג, איכות התגובה והתנע — ומנתבים שאלות תחת תקציב זמן, ובכך חותכים את תנודתיות עדכון הדירוג בערך בחצי לעומת Elo קבוע, בעודם מפגרים אחרי עקיבת ידע נוירונית בחיזוי (AUC 0.7532 לעומת 0.8658 של GKT).
@@ -93,13 +99,11 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 - **הסתגלו לתכונת צוואר-הבקבוק, לא לממוצע החלש.** מודלנציית מעבר של מצבי הידע דירגה [[critical-thinking|חשיבה אנליטית]] כקשה-ביותר לרכישה וקלה-ביותר לאובדן — הסתברות מעבר קדימה הנמוכה ביותר 0.31 והגבוהה ביותר לאחור 0.22-0.23 — מה שהופך תרגול-חוזר של התכונה המסומנת למטרת הסתגלות חדה יותר מאשר שליטה כוללת ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
 - **הסתגלות מרצפי תהליך, לא מציונים מצטברים.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] גזרו כללי פיגום מכריית ה*סדר* של 65 תורות דיאלוג של תלמידים בשלושיות, תוך הזזת הלמידה המסתגלת ממידות התנהגותיות או ביצועים מצטברים כלפי רצפי תהליך אינדיבידואליים; פיגום מקסימלי העלה התנהגות על-משימה אך גם תסריט, והעיצוב אינו נבדק.
 
-## תפיסות מוטעות נפוצות
+- **ההכרה מקדימה את היישום.** בקרב 90 חינכים, 74 (82.2%) זיהו לומדים הזקוקים להסתגלות אך רק 50 (55.6%) יישמו מדד הסתגלות כלשהו; המכשול המחייב היה מידע על הלומדים, לא טכנולוגיה, ש-12% מנו ([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]]).
 
-- **"מסתגלת פירושה מותאמת-אישית פירושה אינדיבידואלית."** [[khalifeh-redefining-personalized-learning-ai-2026|סקירות שיטתיות]] מוצאות שארבעת המונחים משמשים **באופן בלתי-עקבי לאורך הספרות**, מה שאומר שגדלי האפקט המדווחים תלויים במידה רבה באופן שבו ההסתגלות הופעלה ולא בהסתגלות עצמה. מטא-אנליזה שמאגדת מחקרים שהשתמשו במילים באופן שונה מאגדת טיפולים שונים, והממוצע אינו מתאר אף אחד מהם.
-- **"שליטה שהושגה במערכת היא שליטה שנלמדה."** ב**ניסוי שדה בבית ספר תיכון עם 6,000 תלמידים**, כלל שליטה בתמיכת AI של שלושה-נכונים-ברצף העלה את **ההשגה המוגדרת-פלטפורמה בכ-28.7 נקודות-אחוזיות מבלי לשפר** מדד העברה. הכלל מיטב את הקריטריון של הפלטפורמה עצמה. זהו ההדגמה הזמינה הברורה ביותר לכך שאות שליטה הוא מודל של למידה, לא למידה.
-- **"הסתגלות מבוססת-נכונות יודעת מתי לעצור."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] מצאו שמערכות המסקות שליטה מנכונות מסתכנות ב**סיום התרגול מוקדם מדי** — המערכת קוראת רצף נכון כהבנה ומסירה את התרגול שהלומד עדיין היה צריך. הסתגלות שעוצרת על הצלחה יכולה לגרוע בדיוק את הניסיונות שמייצרים שימור.
-- **"צוואר הבקבוק הוא כמה טובה ההסתגלות."** ב**ניסוי אקראי מבוקר בן שנתיים במחוז**, האילוץ המחייב היה **האימוץ**: קיפול ההרשמה לשלב בודד העלה את האימוץ במפגש הראשון מכ-45% ל-83% על שינויי עיצוב בלבד, ותשואות הכוונה-לטיפול גדלו בהתאם. ההסתגלות החכמה ביותר אינה משרתת את מי שלעולם אינו מגיע אליה.
-- **"מעורבות נמשכת מרגע שנוצרה."** סקירה מיושרת-PRISMA של **44 מחקרים** מצאה שספרות המעורבות נטתה למעורבות התנהגותית ודלה ביותר במעורבות סוכנית, ומדווחת על **אפקט חידושיות** — מעורבות דועכת לאורך זמן במחקרים אורכיים של ALEX ומערכות דומות. מעורבות מוקדמת אינה תכונה יציבה של העיצוב.
+- **שליטה היא חלק מהטיפול.** מי שולט בהסתגלות חשוב כמו מה שמסתגל: לאורך 83 מחקרים, שליטת מערכת הניבה g = 1.05 (רווח סמך 95% [.65, 1.45]) ושליטת מורה g = .86 [.46, 1.26] על ידע, בעוד שליטת הלומד הגיעה רק ל-g = .31 [−.44, 1.05] ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
+
+- **זיכרון לולאה-סגורה מצמיד חונכות לתרגול.** [[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] מאחסן יער עקבות בשלוש רמות של אופן שגוי של תלמיד, ומאפשר לחולשות שנחשפו בזמן חונכות לעצב את השאלה הבאה שנוצרת, לתשואה של +10.8% במדדים מותאמים-אישית ו-+29.4% בהיגיון סוכני כללי.
 
 ## השלכות לפרקטיקה
 
@@ -115,3 +119,11 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 - דווחו את ההגדרה המבצעית של "מסתגל" לצד כל גודל אפקט שאתם מצטטים, משום שההגדרות בספרות מתפצלות והמספרים המאוגדים יורשים את העמימות הזו.
 - הבדילו בין קריטריון השליטה שלכם לבין תוצאות למידה בתוקף הפנימי שלכם. אם מדד התוקף שלכם הוא אותו אות שמניע את ההסתגלות, זו אינה ראיה בלתי-תלויה.
+
+## תפיסות מוטעות נפוצות
+
+- **"מסתגלת פירושה מותאמת-אישית פירושה אינדיבידואלית."** [[khalifeh-redefining-personalized-learning-ai-2026|סקירות שיטתיות]] מוצאות שארבעת המונחים משמשים **באופן בלתי-עקבי לאורך הספרות**, מה שאומר שגדלי האפקט המדווחים תלויים במידה רבה באופן שבו ההסתגלות הופעלה ולא בהסתגלות עצמה. מטא-אנליזה שמאגדת מחקרים שהשתמשו במילים באופן שונה מאגדת טיפולים שונים, והממוצע אינו מתאר אף אחד מהם.
+- **"שליטה שהושגה במערכת היא שליטה שנלמדה."** ב**ניסוי שדה בבית ספר תיכון עם 6,000 תלמידים**, כלל שליטה בתמיכת AI של שלושה-נכונים-ברצף העלה את **ההשגה המוגדרת-פלטפורמה בכ-28.7 נקודות-אחוזיות מבלי לשפר** מדד העברה. הכלל מיטב את הקריטריון של הפלטפורמה עצמה. זהו ההדגמה הזמינה הברורה ביותר לכך שאות שליטה הוא מודל של למידה, לא למידה.
+- **"הסתגלות מבוססת-נכונות יודעת מתי לעצור."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] מצאו שמערכות המסקות שליטה מנכונות מסתכנות ב**סיום התרגול מוקדם מדי** — המערכת קוראת רצף נכון כהבנה ומסירה את התרגול שהלומד עדיין היה צריך. הסתגלות שעוצרת על הצלחה יכולה לגרוע בדיוק את הניסיונות שמייצרים שימור.
+- **"צוואר הבקבוק הוא כמה טובה ההסתגלות."** ב**ניסוי אקראי מבוקר בן שנתיים במחוז**, האילוץ המחייב היה **האימוץ**: קיפול ההרשמה לשלב בודד העלה את האימוץ במפגש הראשון מכ-45% ל-83% על שינויי עיצוב בלבד, ותשואות הכוונה-לטיפול גדלו בהתאם. ההסתגלות החכמה ביותר אינה משרתת את מי שלעולם אינו מגיע אליה.
+- **"מעורבות נמשכת מרגע שנוצרה."** סקירה מיושרת-PRISMA של **44 מחקרים** מצאה שספרות המעורבות נטתה למעורבות התנהגותית ודלה ביותר במעורבות סוכנית, ומדווחת על **אפקט חידושיות** — מעורבות דועכת לאורך זמן במחקרים אורכיים של ALEX ומערכות דומות. מעורבות מוקדמת אינה תכונה יציבה של העיצוב.

@@ -1,6 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-10-12T19:05:00-04:00"
+updated: "2026-11-23T14:45:00-05:00"
 type: resource
 summary: "פלטפורמת יצירה ללא מטרת רווח שבה מחנכים בונים, משתפים ומעריכים אפליקציות בינה מלאכותית משלהם — מעוגנות בתכנית הלימודים שלהם, פועלות על המודל לפי בחירתם, עם נראות למורה מובנית בהן."
 url: https://www.playlab.ai/
@@ -21,6 +22,10 @@ source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -30,7 +35,7 @@ connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
-**Playlab** היא פלטפורמת יצירה שבה מחנכים בונים אפליקציות בינה מלאכותית משלהם במקום לבחור מתבנית שמישהו אחר הכין. אפליקציה היא [[rag|מעוגנת בתכנית הלימודים שלכם]], במחוונים ובמקורות המידע שלכם ולא בידע הכללי של המודל, פועלת על מודל שאתם בוחרים (Anthropic, OpenAI, Google, Meta) עם העלות גלויה בזמן הבנייה, ויכולה לציין מ[[knowledge-graph|גרפי ידע]] הממופים מראש של Illustrative Mathematics, OpenSciEd, תקני המדינה ו-OER Commons.
+**Playlab** היא פלטפורמת יצירה שבה מחנכים בונים אפליקציות בינה מלאכותית משלהם במקום לבחור מתבנית שמישהו אחר הכין. אפליקציה היא [[rag|מעוגנת בתכנית הלימודים שלכם]], [[rubrics|במחוונים]] ובמקורות המידע שלכם ולא בידע הכללי של המודל, פועלת על מודל שאתם בוחרים (Anthropic, OpenAI, Google, Meta) עם העלות גלויה בזמן הבנייה, ויכולה לציין מ[[knowledge-graph|גרפי ידע]] הממופים מראש של Illustrative Mathematics, OpenSciEd, תקני המדינה ו-OER Commons.
 
 ## מה אפשר לעשות איתה
 

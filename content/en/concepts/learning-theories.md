@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -70,7 +70,7 @@ Recent theoretical work extends the classical strand in several directions, each
 
 ## How the theories connect
 
-Rather than treating learning theories as abstract philosophy, each is grounded in the AI-in-education research that uses it. The [[constructivist|constructivism]] and [[behaviorism|behaviorism]] pages document how AI designs embody (or betray) each theory; Cognitive Load Theory, [[self-regulated-learning|self-regulated learning]], [[metacognition|metacognition]], and [[transfer-of-learning|transfer of learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how other umbrella domains such as [[feedback|feedback]] and [[assessment|assessment]] are treated, as a coherent system of interacting concepts rather than isolated pages.
+Rather than treating learning theories as abstract philosophy, each is grounded in the AI-in-education research that uses it. The [[constructivist|constructivism]] and [[behaviorism|behaviorism]] pages document how AI designs embody (or betray) each theory; Cognitive Load Theory, [[self-regulated-learning|self-regulated learning]], [[metacognition|metacognition]], and [[transfer-of-learning|transfer of learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how other umbrella domains such as [[feedback|feedback]] and [[assessment|assessment]] are treated, as a coherent system of interacting concepts rather than isolated pages. The boundary is worth stating: [[learning-environments-as-systems|learning environments as systems]] is not a learning theory. It makes no claim about what happens inside a learner; it treats the environment as a multi-level system and asks how interventions and measurement should be placed within it.
 
 ## Learning theories and "education about AI"
 

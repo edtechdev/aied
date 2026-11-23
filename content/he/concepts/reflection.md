@@ -23,7 +23,7 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
-connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026, nuzzo-ai-reflective-partner-tpack-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -47,7 +47,7 @@ connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-refl
 
 ## כיצד רפלקציה מתייחסת להערכה עצמית, למטאקוגניציה ולתיקי עבודות אלקטרוניים
 
-עבודת הגבול חשובה כאן יותר מברוב עמודי המושגים, משום שארבעה עמודים סמוכים כל אחד מחזיק חלק מהטריטוריה, ואישי מקצוע מחליפים את המילים ביניהן בשגרה בתוך מחוונים.
+עבודת הגבול חשובה כאן יותר מברוב עמודי המושגים, משום שארבעה עמודים סמוכים כל אחד מחזיק חלק מהטריטוריה, ואישי מקצוע מחליפים את המילים ביניהן בשגרה בתוך [[rubrics|מחוונים]].
 
 מה שהם **חולקים** הוא אמיתי. כולם מפנים את תשומת לבו של הלומד חזרה אל עבודתו שלו, כולם קשורים ל[[agency]] ולמודעות עצמית, כולם ניתנים לפיגום וכולם ניתנים לביצוע לצורך ציון. כל אחד מהם גם נכתב מחדש בידי בינה מלאכותית יוצרת באותה תקופה, ולכן אותם מחקרים חוזרים בעמודים אלה. רפלקציה היא היחידה בקבוצה שתוצריה הם *טקסט*, ושם הדמיון המשפחתי מפסיק להיות מועיל.
 
@@ -148,6 +148,7 @@ connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-refl
 - **נקדו את מה שאתם יכולים להגן עליו.** ספציפיות, ראיה להחלטה, נימוק לתיקון וכנות לגבי מה שהשתבש ניתנים לניקוד. כנות רגשית אינה כזו, ומודל רהוט יכול לחקות את פני השטח של כל אלה.
 - **צוותו את התוצר למשהו יקר להאצלה.** הגנה מילולית קצרה, תיקון חי, או החלטה שיש לה השלכות — השער הרפלקטיבי של מערכת Prober ופגישות האימות לכל חבר של Issa ו-Hall הם שני דפוסי עבודה.
 - **שימו לב למה שהניקוד עושה למעשה.** כאשר רפלקציה עצמית מנוקדת היא מסתכנת בהפיכה לפרפורמטיבית, הצהירו למה הרפלקציה *אינה* מוערכת והשאירו לפחות חלק מהרפלקציה בלי ציון.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer ו-Hunt (2026)]] משקללים קורס 60% תוצר, 20% תיעוד תהליך ו-20% רפלקציה על שימוש ב-AI, כך שהמסע מקבל ציון לצד היעד.
 - **לעולם אל תתייחסו לציון כהוכחה לחשיבה.** מסווגי עומק אומדים עד כמה טקסט נקרא כרפלקטיבי, וזה מאפיין שטיוטה שנייה רהוטה יכולה לייצר.
 
 ### קיום השגרה

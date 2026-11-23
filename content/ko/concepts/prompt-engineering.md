@@ -10,7 +10,7 @@ technology: [generative-ai, llm, prompt-engineering]
 audience: [learners]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
+connected_resources: [eduprompts, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop, elearning-prompt-library]
 translation_of: concepts/prompt-engineering
 source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."

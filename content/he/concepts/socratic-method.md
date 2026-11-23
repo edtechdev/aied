@@ -11,11 +11,15 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-updated: "2026-11-08T11:34:07-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-23T13:30:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -81,6 +85,7 @@ connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-s
 - דו-שיח סוקרטי הוא מאומץ; תלמידים עשויים להעדיף תשובות ישירות לצורכי יעילות
 - הצ'אטבוט אינו מסוגל לספק את התמיכה היחסית של חונך אנושי
 - תלמידים מסוימים עלולים להיתקע בלולאות סוקרטיות ללא פתרון
+- היישום עשוי להשתנות יותר ממה שהעיצוב מציין. בקורס C++, הפריט ששאל האם הצ'אטבוט שאל שאלות הרהור או שאלות יישומיות היה הנמוך והמשתנה ביותר בסקר, ב-3.86 מתוך 5 (SD 1.24), ומה שהמחברים קראו כיישום לא עקבי של מה שהנחיית המערכת כינתה ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware and Jiang (2026)]]).
 
 ### ממצא נגד: גישה בלתי-מוגבלת יכולה להתעשר על מצבים מוגבלים
 

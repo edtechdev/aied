@@ -1,17 +1,21 @@
 ---
 title: למידה מגולמת
 created: "2026-10-12T20:40:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:00:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T13:30:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -21,7 +25,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
-connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -39,7 +43,7 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 למידה מגולמת קשורה מקרוב ל[[active-learning]], ל[[experiential-learning]], ולתיאוריות ממוקמות/[[constructivist]]. הטענה המרכזית היא שסוכן פיזי, ניתן-מניפולציה מסייע ללומדים לחבר רעיונות מופשטים לתוצאות קונקרטיות — תוכנית שגורמת לרובוט לזוז, או משחק-תפקיד עם רובוט פיזי — בדרכים שאינטראקציה מבוססת-מסך טהורה עשויה שלא. רובוטיקה היא הגילום הבהיר ביותר של בינה מלאכותית בחינוך, ומעניקה ללומדים משהו לראות, לגעת ולצפות.
 
-### כיצד למידה מגולמת מופיעה במחקר של מאגר הידע
+## כיצד למידה מגולמת מופיעה במחקר של מאגר הידע
 
 - **תכנות מעוגן:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] מעגן [[cs-education|תכנות בלוקים]] בביצוע רובוט מגולם, ויוצר לולאה הדוקה של עריכה, הרצה, תצפית ותיקון כדי שלומדים יראו את הקוד שלהם הופך להתנהגות.
 - **אינטראקציה חברתית-רובוטית:** [[educational-robotics|רובוטים חברתיים]] המשמשים ל[[storytelling-in-education|סיפור סיפורים]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), משחק-תפקיד ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), ושפת סימנים ([[pepper-robot-sign-language-lis-2025|Pepper]]) מספקים אינטראקציה חברתית מגולמת שתומכת בלמידה יחסית ו[[social-emotional-learning|רגשית]].
@@ -50,12 +54,13 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 - **מנחה לשוני בלבד מושך את החקר אל מה שאפשר לומר.** במעבדת סטטיקה של נוזלים לתואר שני, סטודנטים בנו את מודל הציפה ביד לפני שמנחה מבוסס Gemini הצטרף כדי ליישם אותו על תופעה חדשה. על פני שלושה זוגות ה-AI החזיק את רצף ISLE, אך כשהופעל עליו "פשוט תגיד לנו" הוא הפיק ערכי מסה שאיש לא מדד, ומשתתף מרוחק אחד השלים מחזור פיזיקלי נכון שהיה נקי אך לא-מגולם ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). לקח העיצוב הוא רצף ולא תחליף: לבנות את המודל בגוף קודם, ואז לתת למודל הלשוני לעבוד על היישום שלו.
 
-### אינטליגנציה מגולמת והביקורת על בינה מלאכותית לא-מגולמת
+## אינטליגנציה מגולמת והביקורת על בינה מלאכותית לא-מגולמת
 
 זרם שני, יותר תיאורטי, של מחקר הגילום של מאגר הידע עוסק בתפקיד של ה*גוף* בלמידה המתווכת-[[sociocultural-learning|בינה מלאכותית]] — לא דרך רובוטים פיזיים, אלא דרך השאלה האם [[ai-technologies|מערכות בינה מלאכותית]] עצמן (או יכולות להיות) מגולמות. עבודה זו מאתגרת את הדומיננטיות של מודלי בינה מלאכותית סימבוליים, לא-מגולמים, הבנויים על עיבוד מידע מופשט:
 
 - **בינה מלאכותית מגולמת כעיקרון עיצוב.** מסגרת **E3-HOT** טוענת שלקיים את הסוכנות הקוגניטיבית של הלומדים ואת חשיבת [[critical-thinking|הסדר-הגבוה]] (במקום לעודד [[cognitive-offloading|העברה קוגניטיבית החוצה]]), בינה מלאכותית צריכה להיות מעוצבת סביב *אינטליגנציה מגולמת* — הטמעה סיטואציונלית, השתתפות מגולמת, ויצירה קוגניטיבית — בתוך סביבת למידה משולבת-וירטואלי-אמיתית.([[zhu-e3-hot-embodied-intelligence-sustainable-learning]])
 - **הגבולות של [[generative-ai|בינה מלאכותית יוצרת]] לא-מגולמת.** סכולטורה פוסט-קוגניטיביסטית טוענת שמערכות GenAI נוכחיות חסרות פרופריוספציה, סוכנות רב-מודאלית, ופרקטיקה מגולמת, ותומכת ב"בינה מלאכותית מגולמת" המעוגנת בסיטואציונליות, הופעה, וצימוד חושי-מוטורי, ומציעה כוריאוגרפיה תפיסתית-[[affective-computing|אפקטיבית]] לאינטראקציה אדם-[[student-ai-interaction|בינה מלאכותית]].([[videla-embodied-ai-education-choreography]])
+- **האנאקטיביזם מאתגר את הקוגניציה בצימוד מבני.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross and Aros (2026)]] מפתחים אנאקטיביזם רדיקלי ומקיף, שבו הקוגניציה שורשת בעולם ולא בייצוג, ולכן טכנולוגיות חינוך הופכות למשתתפים אקולוגיים שמרחיבים תפיסה ופעולה משותפת במקום כלים קוגניטיביים שמספקים תוכן.
 - **גילום, ממוקמות, ובנייה חברתית.** ב[[science-education|למידת מדעים]], כלי בינה מלאכותית מתפקדים כ"ארטיפקטים מתוווכים" שמאפשרים קהילות פרקטיקה דיגיטליות וחציית-גבולות, ומחברים חקר אותנטי, מגולם להקשרים בעולם-האמיתי וחוצה-תחומיים.([[li-ai-science-situated-learning-teachers-2025]]) זה מקשר גילום ל[[situated-learning]] ול[[distributed-cognition]].
 
 למידה מגולמת מתחברת ל[[educational-robotics]], ל[[educational-robotics]], ל[[educational-robotics]], ל[[active-learning]], ל[[experiential-learning]], ל[[situated-learning]], ל[[distributed-cognition]], ל[[computational-thinking]], ול[[social-emotional-learning]].

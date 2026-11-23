@@ -1,7 +1,6 @@
 ---
 title: מדעי הלמידה
 created: "2026-10-12T21:00:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -13,7 +12,8 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, cognitive-psychology, pedagogy, learning-design, research-methods-aied, theory-development-aied, design-based-research, teacher-education, educational-development, discipline-specific-aied, intelligent-tutoring, learning-analytics, assessment-validity, educational-measurement, cognitive-offloading, learning-gains, transfer-of-learning, teacher-role, equity-in-ai-education, educational-policy-ai]
 connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive-overgeneralization-adaptive-learning-2026, demographic-signals-llm-student-assessment-2026, learning-paths-patterns-learning-design-2026, pause-ai-cognitive-offloading-self-reflection-2026, perrotta-zero-shot-governance-2026, rachatasumrit-example-problem-ratio-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, sutedjo-faculty-genai-tpack-21-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, genai-support-threaten-learning-k20-expert-consensus-2026, three-pathways-student-ai-interaction-2026, agent-type-feedback-style-self-directed-learning-2026, metacognitive-processes-genai-interaction-logs-2026, sun-student-genai-entanglement-literacy-demands-2026, genai-reliance-human-agency-collaborative-learning-2026, wang-genai-metacognitive-prompting-preconceptions-2026]
@@ -88,22 +92,15 @@ connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive
 
 [[pedagogy|פדגוגיה]] ו[[learning-design|עיצוב הלמידה]] מכסים נוהר — איזו אסטרטגיית הוראה להשתמש, וכיצד לרצף מטרות, פעילויות והערכה לקורס. שניהם הם מה שמדעי הלמידה חוקרים מבחוץ, כאובייקטים של תיאור והערכה; השדה לא מספר למורה איזו טקטיקה לשלוף הלאה, הוא מדווח מה שהטקטיקות הוכחו לעשות. עיצוב הלמידה הוא הקרוב-משפחה, מכיוון ששניהם מייצרים משהו שניתן-יישום וניתן-בדיקה, אך הפלט של המעצב הוא קורס בר-הוראה והפלט של השדה הוא ידע על עיצובים בכלל.
 
-הממצאים חשובים רק ברגע שהם מגיעים להוראה, והמסע הזה רץ דרך שלושה עמודים. [[educational-development|פיתוח חינוכי]] הוא הנוהר המוסדי שנושא אותם — פיתוח סגל, סטנדרטים, מדיניות ו[[learner-identity|עבודת זהות]] מחליטים אם עיצוב מאומת מגיע אי פעם לכיתה, וזו הסיבה שהעדות של השדה מובילה באופן שגרתי את מה שמוסדות יישמו. [[teacher-education|חינוך מורים]] הוא היכן שהידע חייב לנחות לפני שמורה נכנס לחדר, ו[[teacher-role|תפקיד המורה]] הוא היכן שהוא נוהר לאחר מכן, בשיפוט רגע-אחר-רגע על מתי להתערב, איזה כלי להשתמש, ומתי להשאיר לומד לבדו. אף אחד מהשלושה אינו מייצר ממצאי מדעי-למידה; כולם מחליטים אם הממצאים האלה משנים נוהר.
-
-## תפיסות מוטעות נפוצות
-
-- **"סף שליטה גבוה מבטיח שהלומד יכול להבחין."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] הרצו **אחד-עשר ניסויים (N = 192)** עם מערכות [[intelligent-tutoring|חונכות חכמה]] ומצאו שב**סף שליטה של 95% המערכת עצרה תרגול לפני שלומדים פגשו מקרה הדורש להימנע מהפעולה**, ולכן הליקוי לא התגלה. שליטה בפעולה לא כללה ידיעה מתי לא ליישם אותה, והסף הסמיך את המבנה הלא-נכון.
-- **"יותר דוגמאות בטוחות יותר."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] מתייחסים ליחס דוגמאות–בעיות כ**אינטראקציית תוכן-טיפול**, ובניסוי 2×2 ה**אופטימום היה תלוי בתוכן**. אין יחס נכון גלובלי, ולכן תבנית הוראה קבועה היא הימור נגד אינטראקציה.
-- **"תיקון [[misconceptions|התפיסה המוטעית]] הוא עניין של לומר לסטודנטים את התשובה הנכונה."** תרגול "אל-תפעל" קצר עם [[feedback|משוב]] שממנה את האילוץ החסר חתך את היישום-הלא-נכון ל‑**0.0%-23.1% (Cohen's h 1.70-2.44)**, וניתוח משני של **שלושה-עשר מערכי נתוני *Decimal Point* בכיתה K-12** מצא את אותו דפוס מבני. ההתערבות האפקטיבית הייתה תרגול מבדיל עם משוב ממוקד, לא תיקון בהצהרה — וזה מה שעבודת [[refutation-text|טקסט-הפרכה]] מבססת בכלל.
-- **"רמת בלום גבוהה יותר פירושה יותר [[active-learning|למידה פעילה]]."** סוג הלמידה עקב אחר רמת התוצאה המיועדת, כאשר **רכישה יורדת מכ‑50% מהפעילויות ברמת בלום 1 לכ‑20% ברמה 6**. הדרישה הקוגניטיבית וסוג הפעילות נעים יחד אך אינם אותו ציר, ולכן תיוג משימה לפי רמת בלום אינו אומר מה הלומדים יעשו איתה.
+הפרטים חשובים רק ברגע שהם מגיעים להוראה, והמסע הזה רץ דרך שלושה עמודים. [[educational-development|פיתוח חינוכי]] הוא הנוהר המוסדי שנושא אותם — פיתוח סגל, סטנדרטים, מדיניות ו[[learner-identity|עבודת זהות]] מחליטים אם עיצוב מאומת מגיע אי פעם לכיתה, וזו הסיבה שהעדות של השדה מובילה באופן שגרתי את מה שמוסדות יישמו. [[teacher-education|חינוך מורים]] הוא היכן שהידע חייב לנחות לפני שמורה נכנס לחדר, ו[[teacher-role|תפקיד המורה]] הוא היכן שהוא נוחת לאחר מכן, בשיפוט רגע-אחר-רגע על מתי להתערב, איזה כלי להשתמש, ומתי להשאיר לומד לבדו. אף אחד מהשלושה אינו מייצר ממצאי מדעי-למידה; כולם מחליטים אם הממצאים האלה משנים נוהר.
 
 ## מה זה אומר לפרקטיקה
 
 **למדריכים**
 
-- למדו את המקרה השלילי במפורש. כשל סף ה‑95% הוא הסיבה: בנו תנאים שבהם המהלך הנכון הוא להימנע מהפעולה, אחרת הלומד ייישם אותה בכל מקום.
+- למדו את המקרה השלילי במפורש. כשל סף ה-95% הוא הסיבה: בנו תנאים שבהם המהלך הנכון הוא להימנע מהפעולה, אחרת הלומד ייישם אותה בכל מקום.
 - אל תקבעו יחס דוגמאות–בעיות אחד לכל הקורס. אינטראקציית תוכן-טיפול פירושה שהיחס הנכון לפרוצדורות אינו היחס הנכון למושגים.
-- השתמשו בתרגול מבדיל עם משוב שממנה את האילוץ החסר במקום לחזור על הכלל. זו ההתערבות עם גדלי האפקט המדודים כאן.
+- השתמשו בתרגול מבדיל עם משוב שמכנה את האילוץ החסר במקום לחזור על הכלל. זו ההתערבות עם גדלי האפקט המדודים כאן.
 - בדקו מה קריטריון השליטה שלכם באמת מסמיך לפני שאתם סומכים עליו.
 
 **למפתחים**
@@ -111,3 +108,12 @@ connected_articles: [competent-generative-ai-use-measures-review-2026, deceptive
 - אל תעצרו תרגול על נכונות בלבד. מדלו את תנאי ההימנעות כמיומנות בפני עצמה, אחרת המערכת תסמיך הכללה-יתר.
 - תנו ליחס להיות פרמטר ולא קבוע, מכיוון שהראיות אומרות שהאופטימום תלוי בתוכן.
 - דווחו איזה מבנה הקריטריון שלכם מודד, בנפרד מאיזה מבנה האימות שלכם מודד.
+
+## תפיסות מוטעות נפוצות
+
+- **"רמת בלום גבוהה יותר פירושה יותר [[active-learning|למידה פעילה]]."** סוג הלמידה עקב אחר רמת התוצאה המיועדת, כאשר **רכישה יורדת מכ-50% מהפעילויות ברמת בלום 1 לכ-20% ברמה 6**. הדרישה הקוגניטיבית וסוג הפעילות נעים יחד אך אינם אותו ציר, ולכן תיוג משימה לפי רמת בלום אינו אומר מה הלומדים יעשו איתה.
+
+- **"סף שליטה גבוה מבטיח שהלומד יכול להבחין."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] הרצו **אחד-עשר ניסויים (N = 192)** עם מערכות [[intelligent-tutoring|חונכות חכמה]] ומצאו שב**סף שליטה של 95% המערכת עצרה תרגול לפני שלומדים פגשו מקרה הדורש להימנע מהפעולה**, ולכן הליקוי לא התגלה. שליטה בפעולה לא כללה ידיעה מתי לא ליישם אותה, והסף הסמיך את המבנה הלא-נכון.
+- **"יותר דוגמאות בטוחות יותר."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] מתייחסים ליחס דוגמאות–בעיות כ**אינטראקציית תוכן-טיפול**, ובניסוי 2×2 ה**אופטימום היה תלוי בתוכן**. אין יחס נכון גלובלי, ולכן תבנית הוראה קבועה היא הימור נגד אינטראקציה.
+- **"תיקון [[misconceptions|התפיסה המוטעית]] הוא עניין של לומר לסטודנטים את התשובה הנכונה."** תרגול "אל-תפעל" קצר עם [[feedback|משוב]] שממנה את האילוץ החסר חתך את היישום-הלא-נכון ל‑**0.0%-23.1% (Cohen's h 1.70-2.44)**, וניתוח משני של **שלושה-עשר מערכי נתוני *Decimal Point* בכיתה K-12** מצא את אותו דפוס מבני. ההתערבות האפקטיבית הייתה תרגול מבדיל עם משוב ממוקד, לא תיקון בהצהרה — וזה מה שעבודת [[refutation-text|טקסט-הפרכה]] מבססת בכלל.
+

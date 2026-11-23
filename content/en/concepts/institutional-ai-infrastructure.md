@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T07:36:15-05:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -100,7 +100,7 @@ The adoption finding is the one infrastructure planners should keep. In a 2×2 e
 
 [[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] argues that the evidence needed to interpret learning already exists but is fragmented across systems that cannot read one another. Its framework has six functional layers, three inferential boundaries that limit what a snapshot can support, and seven governance requirements including auditability, uncertainty estimation and human override. It is a framework rather than a deployment, and the authors say so.
 
-[[lata-ferpa-compliant-local-llm-autograder|LaTA]] supplies the narrower case: a local reasoning model that removes the [[privacy|FERPA]] question about sending student work to a vendor rather than managing it. Together they suggest that assessment infrastructure is not a feature of a learning platform but a separate problem with its own data model and its own failure modes.
+[[lata-ferpa-compliant-local-llm-autograder|LaTA]] supplies the narrower case: a local reasoning model that removes the [[privacy|FERPA]] question about sending student work to a vendor rather than managing it. Together they suggest that assessment infrastructure is not a feature of a learning platform but a separate problem with its own data model and its own failure modes. This is the infrastructure level of [[learning-environments-as-systems|learning environments as systems]]: the layer that decides whether a course-level tool can be sustained at all.
 
 ## Cost, latency and the visibility problem
 

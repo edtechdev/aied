@@ -405,3 +405,10 @@
   hosts:
   - learning-design
   reason: 'The learning-design page argues assignment structure is where AI policy becomes concrete; this resource is a builder that enacts that on the assignment itself, with instructor-set AI roles and engagement gates.'
+
+- resource: elearning-prompt-library
+  reviewed: '2026-11-23'
+  hosts:
+  - prompt-engineering
+  - learning-design
+  reason: 'The repository is a prompt library, so it belongs beside eduprompts, pedagogical-promptbook and matt-pocock-skills on prompt-engineering; it also grounds every prompt in a named learning theory, which is the substance learning-design claims. Not listed on bloom-taxonomy or assessment: the library covers those as three prompts among twenty-two, and a single facet prompt is not a reason to host a whole collection.'

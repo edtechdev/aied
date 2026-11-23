@@ -1,7 +1,7 @@
 ---
 title: חינוך להנדסה
 created: "2026-10-12T21:50:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:45:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,10 +12,14 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -51,6 +55,7 @@ connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engin
 - **הערכה מגולמת ו[[multimodal|רב-מודאלית]]:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] מפתחים מסגרת רב-מודאלית המשלבת מעקב מחוות בראיית-מחשב עם ניתוח [[llm|מודל לשוני גדול]] של דיבור להערכת הבנה מושגית של סטודנטי הנדסה בסטטיסטיקה, ומראים שמחווה מוסיפה ראיה אבחונית מעבר לדיבור וושצימוד מחווה-דיבור הדוק מסמן הבנה קוהרנטית.
 - **טרנספורמציית כוח עבודה:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] סוקרים ספרות אפורה בארצות הברית על בינה מלאכותית וכוח העבודה ההנדסי/המחשובי, ומעצבים את "בעיית הרכבת הכפולה" (שינוי מהיר מול מדיניות דחופה), וממליצים על כשירות AI מתמשכת, [[ethics|אתיקה]] ו[[governance|ממשל]], ותעודות מבוססות-כישור לתפקידים מתעוררים.
 - **אימוץ והסתמכות של סטודנטים:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] מרחיבים את מודל קבלת טכנולוגיה עם *שימוש ביקורתי* כדי למדל כיצד סטודנטים הנדסה/מדעי המחשב יוצרים כוונות להשתמש ב[[generative-ai|GenAI]] וכיצד אותה כוונה חוזה הסתמכות לאורך הבנה, הערכה, תכנות ומשימות פרויקט הנדסה — ומוצאים הסתמכות מתונה והולמת ושימוש כבד למשימות הקשורות-הבנה אך שימוש מוגבל לכתיבת הערכה מלאה. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] משלמים את TAM עם [[technology-acceptance-model|UTAUT]] כדי למדל את האימוץ של סטודנטים הנדסה בנגלדש, ומסבירים 64% משונות השימוש ומדגישים רלוונטיות עבודה, הפגנות תוצאה, ונורמות סובייקטיביות כמנופים מפתח.
+- **הרגל דוחפת החוצה את האדם:** ההרגל, ולא הכוונה, חזתה האם סטודנטים ומחנכים הנדסאים בפיליפינים פנו לאנשים לעזרה פחות לעתים קרובות כאשר GenAI הפך זמין, ודאגת יושר-אקדמי הייתה המבנה היחיד שהפחית את ההחלפה הזו ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao, Domingo & Bernardo, 2026]]).
 - **[[prompt-engineering|אסטרטגיית הנחיה]] חוזה ביצועים, לא נפח שימוש:** בין 128 סטודנטי הנדסה בשנה רביעית, יעילות שאילתה של AI ופתרון בעיות מונע-AI היו החוזים החזקים ביותר להצלחה אקדמית ונשארו משמעותיים לאחר שליטה ב-GPA מצטבר ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 - **המטפורות של הסטודנטים עצמם עולות על מה שהכלים מספקים:** [[ai-engineering-education-balancing-act|Kudina (2026)]] מצא ש-100 סטודנטי הנדסה העריכו ביותר מודלים לשוניים גדולים לתמיכת כתיבה, הבהרה מושגית וקידוד, אך עיצבו אותם כ"אורקל" ו"חונך" — סמכות ו[[personalized-learning|התאמה אישית]] שמייצר טקסט הסתברותי אינו יכול לספק, "אופטימיות אכזרית" שתלויה בכישורי אימות שהסטודנטים עדיין בונים.

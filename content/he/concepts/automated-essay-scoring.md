@@ -1,7 +1,6 @@
 ---
 title: ציון אוטומטי של חיבורים
 created: "2026-10-12T21:28:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bias-mitigation, equity-in-ai-education, automated-assessment, language-learning, educational-measurement, k-12, prompt-engineering, writing-education, ai-literacy, assessment-validity]
 connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-automated-essay-scoring-2026, reflection-level-classification-hungarian-essays-2026, wraft-automated-writing-evaluation-argumentative-2026, automated-essay-scoring-critical-thinking-physics-2026, opraise-automated-marking-ai-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, zhang-races-consistent-essay-scoring-llms-2026, ai-scoring-language-bias-physics, choi-anchor-aes-prompting-2025, icle-plus-plus-essay-scoring, llms-do-not-grade-essays-like-humans-2026, psyscore-essay-scoring-zpd-feedback, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation, automated-scoring-learning-diagnosis-mechanism-2026, llm-essay-scoring-feature-weighting-2026, llm-essay-assessment-framework-reliability-2026, falahat-chatgpt-grading-pharmacy-exams-2026, know-when-to-trust-ai-scoring-reliability-2026, swim-student-writing-simulation-2026, porcaro-ai-grading-benchmark-2026, ribeiro-teachers-writing-analytics-adoption-2026, llm-automated-essay-scoring-prompt-engineering-2026]
@@ -83,6 +87,11 @@ connected_articles: [xu-explainable-ai-essay-scoring-cot-2026, xin-auditable-aut
 לציון מסתגל-תכונות עם משוב מונחת-[[sociocultural-learning|ZPD]].
 **[[icle-plus-plus-essay-scoring|ICLE++]]** מדגם תכונות עדינות לציון חיבורים
 הוליסטי, ומקדם את הדיוק של הערכה אוטומטית.
+
+- **מעקב-היגיון כההסבר.** [[xu-explainable-ai-essay-scoring-cot-2026|סו ושות' (2026)]] מכוונים מודלי Qwen לחשוב תהליך על ארבעת מאפייני ה-IELTS לפני הציון, ולאחר מכן מיישמים PPO על העדפות בוחנים. ממוצע QWK עלה מ-0.5253 (7B, CoT בלבד) ל-0.5410 (72B), בעוד BLEU המשוב עלה מ-0.2371 ל-0.2873 עם PPO ו-CoTe; גודל לבדו הוסיף מעט, 2.5% BLEU מ-7B ל-72B.
+
+- **ניתח-ביקורת כמטרת ציון.** [[xin-auditable-automated-essay-scoring-2026|שין (2026)]] בונה צינור ASAP ששכבת המשוב שלו ממירה ראיות חיבור לכל תכונה חלשה וחושפת דגל בדיקה על ידי מורה. Macro QWK היה 0.738 מול 0.739 למדרג הטהור הטוב ביותר שלו, בעוד שמשוב מבוסס-[[rubrics|רובריקה]] הגיע ל-Trait Recall@2 של 0.829 ולשיעור ראיות תקף של 0.912, שם שמשוב רובריקה-בלבד לא ציטט דבר.
+**ההנחיה, לא הרובריקה, נושאת את רוב הרווח.** [[llm-automated-essay-scoring-prompt-engineering-2026|טאו ומין (2026)]] העלו את ההסכמה עם תוויות CEFR מכאפא 0.488 ל-0.829 על ידי הוספת דוגמאות כיול עם ציון ורציונל חובה, בעוד רובריקה מפורטת שסופקה לבדה הורידה אותה ל-0.460.
 
 - **ציון תכונות ברמת-הממד מוגבל על ידי הנתונים שמאחורי כל ממד.**
   [[automated-essay-scoring-critical-thinking-physics-2026|פירדאוסי ושות' (2026)]]

@@ -1179,6 +1179,17 @@ concepts:
     - instructional design
     - instructional development
     - learning design
+  learning-environments-as-systems:
+    title: Learning Environments as Systems
+    aliases:
+    - learning environments as systems
+    - level of analysis
+    - learning ecosystem
+    - sociotechnical systems
+    - systems approach
+    - systems perspective
+    - systems theory
+    - systems thinking
   learning-gains:
     title: Learning Gains
     aliases:
@@ -2419,6 +2430,7 @@ sections:
     - philosophy-of-ai-in-education
     - theories-and-frameworks
     - theory-development-aied
+    - learning-environments-as-systems
     - critiques-of-ai-in-education
   - label: Cross-cutting themes
     items:

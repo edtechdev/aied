@@ -1,7 +1,7 @@
 ---
 title: "איך בינה מלאכותית יכולה לתמוך בלומדים רב-לשוניים בלי לשפוט את הידע שלהם שלא כהלכה ובלי למחוק את הקול שלהם?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-15T15:56:40-05:00"
+updated: "2026-11-23T14:45:00-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -17,6 +17,10 @@ translation_of: faqs/ai-multilingual-learners
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
@@ -116,7 +120,7 @@ ai_assist:
 
 **4.** הוסיפו בדיקה אחת שמתעדת את המשמעות או ההחלטה של הסטודנט עצמו — למשל הערה בת שני משפטים על שינוי שהוא קיבל או דחה.
 
-**5.** אם הרובריקה שלכם מנקדת [[writing-education|איכות כתיבה]], הפרידו את הקריטריון הזה מהקריטריון המושגי, וקראו מחדש שתי הגשות מכל סוג כשהפיצול לנגד עיניכם.
+**5.** אם [[rubrics|הרובריקה]] שלכם מנקדת [[writing-education|איכות כתיבה]], הפרידו את הקריטריון הזה מהקריטריון המושגי, וקראו מחדש שתי הגשות מכל סוג כשהפיצול לנגד עיניכם.
 
 ## לאן ללכת הלאה
 

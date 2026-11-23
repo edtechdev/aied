@@ -1,7 +1,7 @@
 ---
 title: מסגרת ICAP
 created: "2026-10-12T19:12:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:45:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,10 +9,14 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -93,6 +97,8 @@ ICAP מהווה בסיס לביקורת על מדדי 'מעורבות' שטחי�
 2. **עסקו בלומדים על פני מצבים.** הוראת [[ai-literacy|אוריינות AI]] אפקטיבית עוסקת בלומדים במספר רמות ICAP — חשיפה פסיבית, מניפולציה אקטיבית, יצירה קונסטרוקטיבית ודיאלוג אינטראקטיבי — בבחירת המצב שמתאים למטרת הלמידה.([[hingle-collaborative-ai-literacy-2025]])
 3. **מדדו מעורבות בכנות.** ICAP מעניקה לחוקרים ולמעצבים אוצר מילים משותף להבחנה בין מעורבות קוגניטיבית אמיתית לבין פעילות בלבד — תיקון למדדי [[student-engagement|מעורבות]] שטחיים.([[icap-cognitive-engagement-llm-agents]])
 4. **שימו לב לפער בתיוג בין אנוש ל-LLM.** אם משתמשים במערכות אוטומטיות לקידוד מעורבות, יש לקחת בחשבון את הפער השיטתי שלהן ביחס לאנשים מיומנים.([[icap-cognitive-engagement-llm-agents]])
+
+תכנון המשימה, ולא רק תכנון הכלי, קובע את התקרה. במעבר על 829 שרשורים מקודדים ב-40 קורסים אוניברסיטאיים, תוצרים שנוצרו כאשר הדיאלוג היה קונסטרוקטיבי או אינטראקטיבי זכו לדירוגי עמיתים גבוהים במעט יותר של האיכות הסופית ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## תפיסות מוטעות נפוצות
 

@@ -1,7 +1,7 @@
 ---
 title: תיאוריות ומסגרות
 created: "2026-10-12T19:20:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T13:30:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,10 +9,14 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -21,7 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [theory-development-aied, philosophy-of-ai-in-education, learning-theories, learning-sciences, limitations-in-aied-research, tpack, technology-acceptance-model, item-response-theory, universal-design-for-learning, research-methods-aied]
+connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
 ---
 
@@ -72,7 +76,9 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## מסגרות הוראה, יִשום ואימוץ
 
 - **[[tpack|TPACK]]** — ידיעת המורה הממזגת טכנולוגיה, פדגוגיה ותוכן; מסגרת ברירת-המחדל למחקרי AI מופני-מורה.
+- **[[bloom-taxonomy|טקסונומיית בלום]]** — אוצר המילים המשותף לדרישה הקוגניטיבית של משימות, המשמש הן לקידוד פריטים והן לסידורם ברצף; בבינה מלאכותית בחינוך היא הפכה לבעיית מדידה לא פחות מבעיית עיצוב.
 - **[[technology-acceptance-model|מודלי אימוץ]]** — כוונה כפונקציה של תועלת נתפסת וקלות שימוש נתפסת. משמשת במידה רבה כל כך שהסתמכותו של התחום על כוונה ולא על התנהגות היא ביקורת קבועה.
+- **מודל אישור ציפיות (ECM)** — שביעות רצון כאישור של ציפיות קודמות, כאשר ההמשך ולא האימוץ הראשוני הוא התוצאה. בפיילוט של סמסטר אחד בטכניקות סוציולוגיה עם 24 סטודנטים לתאר ראשון, 87% דירגו את Copilot כטוב או מצוין ו-91% היו ממליצים עליו, אך רק 57% כיוונו להמשיך להשתמש בו ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). הפער הוא נקודת המודל: משתמש מרוצה עדיין יכול לסרב לחזור, ולכן שביעות רצון והמשך דורשים מדדים נפרדים.
 - **[[icap-framework|ICAP]]** — מדרגת מעורבות כפסיבית, פעילה, קונסטרוקטיבית, אינטראקטיבית; מועילה לשאלה איזה מצב [[student-ai-interaction|אינטראקציה AI]] מעניקה בפועל.
 - **[[samr-model|SAMR]]** — החלפה דרך הגדרה מחדש. פופולרית כסיפור בשלות, חלשה כמכשיר מדידה.
 - **[[universal-design-for-learning|עיצוב אוניברסלי ללמידה]]**, **[[inclusive-learning|למידה מכילה]]**, ו**[[accessibility|נגישות]]** — מסגרות עיצוב לשאלה מי נשָׁט, ואלה המוזכרות בתדירות הגבוהה ביותר בעבודת מוגבלות ו[[equity-in-ai-education|שוויון]].
@@ -110,7 +116,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## שכבות קשורות
 
-שני עמודים שכנים עוסקים בכוונה במשהו אחר. [[philosophy-of-ai-in-education|פילוסופיה של בינה מלאכותית בחינוך]] שואלת שאלות נורמטיביות ומושגיות — למה חינוך הוא *עבור*, האם מכונה יכולה ללמד — ואינה חוזה גדלי השפעה; מחקר יכול להיות פילוסופית נאיבי ותיאורטית נשמע, או ההפך. [[theory-development-aied|פיתוח תיאוריה]] הוא הפעולה-מעל של בנייה, שאילה ותיקון של תיאוריה, כולל הביקורת הקבועה שעבודת [[ai-education|AIED]] רבה מיישמת תיאוריה קיימת במקום לבדוק אותה. עמוד זה הוא המלאי; פיתוח תיאוריה עוסק בייצור ובתיקון של המלאי.
+שני עמודים שכנים עוסקים בכוונה במשהו אחר. [[philosophy-of-ai-in-education|פילוסופיה של בינה מלאכותית בחינוך]] שואלת שאלות נורמטיביות ומושגיות — למה חינוך הוא *עבור*, האם מכונה יכולה ללמד — ואינה חוזה גדלי השפעה; מחקר יכול להיות פילוסופית נאיבי ותיאורטית נשמע, או ההפך. [[theory-development-aied|פיתוח תיאוריה]] הוא הפעולה-מעל של בנייה, שאילה ותיקון של תיאוריה, כולל הביקורת הקבועה שעבודת [[ai-education|AIED]] רבה מיישמת תיאוריה קיימת במקום לבדוק אותה. עמוד זה הוא המלאי; פיתוח תיאוריה עוסק בייצור ובתיקון של המלאי. [[learning-environments-as-systems|סביבות למידה כמערכת]] הוא שכן שלישי. זה אינה תיאוריית למידה ואינה חוזה גדלי השפעה, אלא עמדה לגבי יחידת הניתוח: סביבת למידה היא מערכת רב-רמתית שחלקיה מקיימים אינטראקציה, ולכן הרמה שבה מחקר מודד היא החלטה תיאורטית ולא נוחות דגימה.
 
 ## בחירת עדשה כאשר השאלה מעשית
 

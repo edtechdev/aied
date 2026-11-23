@@ -1,7 +1,7 @@
 ---
 title: הורים ומשפחות
 created: "2026-10-12T19:00:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,10 +11,14 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -45,6 +49,8 @@ connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-p
 חלק גדול מזמנם של הילדים עם בינה מלאכותית מתרחש מחוץ לכיתה, בסביבה שספרות המחקר מתייחסת אליה בעיקר כרקע. עבודה על חונכות ותוצאות למידה היא בדרך כלל מבוססת בית ספר, בעוד עבודה על הדרכת משפחות היא בדרך כלל ייעוצית ולא נבדקת, ולכן משפחות הן בו-זמנית יעד של הדרכה רבה מאוד על שימוש [[ethics|אחראי בבינה מלאכותית]] ונושא של ראיה מועטה מאוד על הדרכה יעילה.
 
 עמוד זה מתייחס למשק הביתי כשחקן בזכות עצמו. הוא מכסה חונכות בין הורה לילד בתיווך בינה מלאכותית, את הכלים המלווים והקוראים שהילדים פוגשים בבית, מה בתי הספר מספרים למשפחות על שימוש בבינה מלאכותית ומה לא, את [[ai-literacy|אוריינות הבינה המלאכותית]] של ההורים עצמם ומה שידוע על השקפותיהם, ואת תנאי הגישה והעלות שבהם משפחות משתמשות בכלים האלה. במקומות שהראיה דלילה, העמוד אומר זאת במקום למלא את הפער.
+
+מה שילד יכול לעשות עם כלי בגיל מסוים הוא שאלה התפתחותית ולא עניין של העדפה; [[developmental-psychology|פסיכולוגיה התפתחותית]] נושאת בחשבון זה.
 
 ## הורים כמחנכים-שותפים בבית
 

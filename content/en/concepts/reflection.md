@@ -1,7 +1,7 @@
 ---
 title: Reflection
 created: "2026-11-04T09:37:20-05:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -20,8 +20,12 @@ ai_assist:
     role: drafting
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: revision
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [metacognition, self-regulated-learning, self-assessment, eportfolio, feedback, feedback-literacy, critical-thinking, experiential-learning, authentic-assessment, formative-assessment, cognitive-offloading, academic-integrity, student-engagement, motivation, teacher-role, writing-education, generative-ai]
-connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026]
+connected_articles: [structured-reflection-ai-explanatory-feedback-2026, 5p-reflection-model-genai-2026, reflection-level-classification-hungarian-essays-2026, reflection-agent-fidelity-career-2026, reflective-triangle-model-teacher-ai-2026, falhs-teacher-expertise-reflection-2025, ai-cognitive-partner-reflective-thought-2026, scheu-mobile-chatbot-journaling-motivation-2026, metacognitive-training-ai-socratic-scaffolding-preservice-2026, pause-ai-cognitive-offloading-self-reflection-2026, wang-reflective-ai-use-engagement-programming-2026, aaiwa-ai-authentic-assessment-metacognition-2026, pedlow-genai-selfassessment-2026, teachers-reflective-regulators-cognition-offloading, skill-sustaining-reliance-reflective-ai-engagement-2026, ni-lam-multiliteracies-ai-portfolio-2026, sutama-chatgpt-eportfolio-speaking-2026, liu-teaching-analytics-dashboard-2026, yusuf-service-learning-mapping-2026, nuzzo-ai-reflective-partner-tpack-2026]
 ---
 
 > **Reflection** — the deliberate, retrospective examination of one's own experience, work or reasoning, externalized in written, spoken or recorded form so that it can be revisited, shared or assessed. Its nearest neighbour is [[metacognition|metacognition]], and confusing the two is the most common error on the topic. Metacognition is the monitoring machinery: the in-the-moment judgments of whether you understand, remember or are on track. Reflection is a designed activity with a deliverable — a journal entry, a reflective essay, a portfolio commentary, a structured self-explanation prompt — performed after or alongside the work. The distinction acquires teeth in the AI era because the two are exposed differently: monitoring is hard to hand over and easy to displace, while a reflection artifact can be produced by a model, which makes the authenticity of the artifact rather than the depth of the thinking the first design problem.
@@ -111,6 +115,8 @@ For teachers the construct doubles as [[educational-development|professional dev
 [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] add the process view from 18 teachers in mainland China and Hong Kong, whose accounts resolve into recognizing the need to use GenAI, redistributing cognition, and reflectively re-engaging after use. [[reflective-triangle-model-teacher-ai-2026|The Reflective Triangle Model (2026)]] connects self-reflection, collaborative reflection and community reflection across a professional learning community in a four-week case with six teachers, with AI as a cognitive mediator rather than an evaluator.
 
 Preparation also matters independently of the tool. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] crossed metacognitive strategy training against a placebo module with an LLM configured as a [[socratic-method|Socratic]] reflection partner versus traditional digital tools, in a 2 × 2 design with 60 pre-service teachers. Both main effects were significant for written reflection quality at post-test.
+
+Reflection can also be triggered by the tool's own limits. In a three-week single-case study, [[nuzzo-ai-reflective-partner-tpack-2026|Nuzzo and De Marco (2026)]] followed a secondary-school humanities teacher designing a lesson on Sanguineti's *Laborintus*: the GenAI reading was fluent but collapsed the poem into generic categories, and the gap between rhetorical plausibility and hermeneutic precision produced what the authors call pedagogical dissonance and reflective reframing. Rather than accept or discard the output, she rebuilt the worksheet around "What did the AI miss?", turning the generated interpretation into an object of student scrutiny. Human–AI co-agency remained asymmetrical throughout — the system offered alternatives, while epistemic and pedagogical responsibility stayed with the teacher.
 
 In a mapping of 26 AI-in-service-learning studies, reflection was the least-served phase — three studies reached it and one covered all four — so the phase that turns service into learning is where AI support is thinnest ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 

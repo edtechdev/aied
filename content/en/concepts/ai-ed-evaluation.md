@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -84,7 +84,7 @@ The velocity of the systems being evaluated is a further constraint. [[ai-tutori
 
 ## Connections to related concepts
 
-AI-ed evaluation sits at the center of the methods and risks. It operationalizes [[assessment-validity|assessment validity]], [[educational-measurement|educational measurement]], and [[benchmark|benchmark]] within [[assessment|assessment]] and [[automated-assessment|automated assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai|human-in-the-loop]] and [[teacher-role|teacher role]], while its focus on reliability connects to [[hallucination-risk|hallucination risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration|trust calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling|student modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring|intelligent tutoring]], [[llm-training-and-fine-tuning|LLM training and fine-tuning]], and [[pedagogical-safety|pedagogical safety]].
+AI-ed evaluation sits at the center of the methods and risks. It operationalizes [[assessment-validity|assessment validity]], [[educational-measurement|educational measurement]], and [[benchmark|benchmark]] within [[assessment|assessment]] and [[automated-assessment|automated assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai|human-in-the-loop]] and [[teacher-role|teacher role]], while its focus on reliability connects to [[hallucination-risk|hallucination risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration|trust calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling|student modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring|intelligent tutoring]], [[llm-training-and-fine-tuning|LLM training and fine-tuning]], and [[pedagogical-safety|pedagogical safety]]. The level at which that evaluation is conducted — learner, course, institution or policy — is itself a decision, which is the subject of [[learning-environments-as-systems|learning environments as systems]].
 
 ## Evaluating learning gains
 

@@ -57,6 +57,7 @@ GenAI is treated less as a new problem than as an accelerant that makes existing
 - **Assessment and curriculum designers.** Use the framework to audit a *sequence*, not a task. Ask which dimension each activity carries, whether observability accumulates toward the points where high-stakes claims are made, and whether feedback sources are redundant or genuinely complementary before adding another one.
 - **Faculty developers.** The framework is most useful as a deliberation tool: teams can place an existing design on both trilemmas, disagree about where it sits, and treat that disagreement as the training content rather than resolving it for them.
 - **Institutions.** Feasibility claims should be budgeted as educational decisions. Workload, moderation volume, timeliness and educator capability determine what designs survive, so resourcing decisions are design decisions whether or not they are made explicitly.
+- **Designers.** The trilemma is a system-level constraint rather than a task-level one: it is the assessment case for [[learning-environments-as-systems|learning environments as systems]], where the unit of design is the system over time rather than the task.
 
 ## Limitations
 

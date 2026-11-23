@@ -1,7 +1,7 @@
 ---
 title: חינוך כימיה
 created: "2026-10-12T21:15:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:00:00-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -10,10 +10,14 @@ discipline: [chemistry education, stem education, teacher education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -53,6 +57,8 @@ connected_articles: [ai-science-chemistry-education-systematic-review-2025, unes
 **דיוק טכני ואוריינות בינה מלאכותית ביקורתית.** ראיה שיטתית מראה ש[[llm|מודלי שפה גדולים]] יכולים להגדיר מונחי כימיה בסיסיים אך מבצעים גרוע במשימות כמותיות מחמירות ומתקשים בחשיבה מרחבית (למשל, NMR), ביטחון-יתר, ורגישות סימון ([[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]; הממצאים של ChemBench/QCBench ב[[unesco-ai-guidelines-chemical-education-2026|פרספקטיבה של UNESCO]]). זה הופך **מעורבות הערכה עם פלט בינה מלאכותית** — חקירה, אימות ובקרה-צולבת מול עקרונות כימיים — למטרת למידה מרכזית, ומתחבר ל[[ai-literacy|אוריינות בינה מלאכותית]], ל[[critical-thinking|חשיבה ביקורתית]] ול[[reducing-ai-misuse]].
 
 **אתיקה, מדיניות וסחף אפיסטמי.** ה[[unesco-ai-guidelines-chemical-education-2026|פרספקטיבה של הנחיות UNESCO]] מזהירה מ**סחף אפיסטמי** — הסיכון שאלגוריתמים אטומים מושכים את החקירה הרחק מהבנה סיבתית — וקוראת למעבר ממסירת תוכן ל**יצירת ידע**, אוריינות כימיה ביקורתית בבינה מלאכותית, הערכה המעדיפה חשיבה אנושית, וסגירת [[digital-divide|פער הגישה]] הגלובלי.
+
+**משוב רגשי עלול להעלות את החרדה שהוא מכוון אליה.** סמסטר של משוב רגשי מבוסס-בינה מלאכותית במעבדות כיתה ט' לווה בעלייה בחרדה מעבדתית (F = 4.60) ובתחושת הישגית שטוחה, בעוד שכיתת החקירה בהנחיית מורה שקפה (F = 7.92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ### חיבורים למושגים קשורים
 

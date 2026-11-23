@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: לימוד שפות
 created: "2026-10-12T19:35:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
-connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026]
+connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026, wiboolyasarin-ai-chatbots-l2-literacy-2026]
+connected_faqs: [ai-support-reading-comprehension]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -66,7 +71,7 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai
 
 איכות העיצוב, לא תדירות השימוש, נשאה את האפקט המוטיבציוני בחונך שנבנה על ידי מרצה: על פני 74 סטודנטים לתואר ראשון שהשתמשו ב-GPT יפני בתחום-הקורס, תדירות השימוש מחוץ לכיתה לא הראתה מתאם משמעותי עם אוטונומיה, שייכות או קירבה, בעוד הלומדים דירגו את החונך גבוה ל[[self-directed-learning|למידה מוכוונת-עצמית]] (M = 4.39) וציטטו בטיחות אפקטיבית (60.8%) ([[instructor-designed-ai-tutors-foreign-language-sdt-2026|Lee & Kwon, 2026]]).
 
-**כתיבה נתמכת-GenAI ברמה היסודית.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] הרצו תוכנית כתיבת-דעה בת תשעה שבועות עם 301 לומדי כיתה ה' ו-ו' במזרח סין, כאשר שמונה כיתות שלמות חולקו אקראית לתוכנית או להוראה קונבנציונלית. התוכנית העלתה את עצם-הכתיבה האידאלי של הלומדים ב-L2 (הפרש ממוצע מתואן 0.20) ואת הציפה האקדמית (0.17), והעלתה מעורבות התנהגותית ורגשית, אך לא הזיזה תפיסת צמיחה, מעורבות קוגניטיבית או מטאקוגניטיבית, או ארגון שנדרג לפי מחׂרה — בין ממדי הכתיבה רק שימוש שפה השתפר. שני מאפייני העיצוב חשובים למורי שפות: ההנחיה נלמדה במפורש, דרך בנק הנחיות מסווג הקשור למטרות כתיבה ספציפיות, ומשוב GenAI שימש לצד השוואה למשוב המורה וחזרה חוזרת. הישגי המחברות שהלומדים דיווחו עליהם נשענו על המבנה ההוראי הזה ולא על הכלי לבדו, והכותבים מכנים [[metacognition|ניטור עצמי]] מופחת ואסטרטגיות מונחות-קיצור דרך כסיכונים הקיימים.
+**כתיבה נתמכת-GenAI ברמה היסודית.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] הרצו תוכנית כתיבת-דעה בת תשעה שבועות עם 301 לומדי כיתה ה' ו-ו' במזרח סין, כאשר שמונה כיתות שלמות חולקו אקראית לתוכנית או להוראה קונבנציונלית. התוכנית העלתה את עצם-הכתיבה האידאלי של הלומדים ב-L2 (הפרש ממוצע מתואן 0.20) ואת הציפה האקדמית (0.17), והעלתה מעורבות התנהגותית ורגשית, אך לא הזיזה תפיסת צמיחה, מעורבות קוגניטיבית או מטאקוגניטיבית, או ארגון שנדרג לפי [[rubrics|מחוון]] — בין ממדי הכתיבה רק שימוש שפה השתפר. שני מאפייני העיצוב חשובים למורי שפות: ההנחיה נלמדה במפורש, דרך בנק הנחיות מסווג הקשור למטרות כתיבה ספציפיות, ומשוב GenAI שימש לצד השוואה למשוב המורה וחזרה חוזרת. הישגי המחברות שהלומדים דיווחו עליהם נשענו על המבנה ההוראי הזה ולא על הכלי לבדו, והכותבים מכנים [[metacognition|ניטור עצמי]] מופחת ואסטרטגיות מונחות-קיצור דרך כסיכונים הקיימים.
 
 **הוראת דקדוק של GenAI פועלת דרך תיקון, לא דרך פרשנות.** בניסוי-כמעט בן עשרה שבועות עם 88 סטודנטי EFL אתיופים, מחזורי טיוטה–הנחיה–רפלקסיה–תיקון העלו את הדקדוק (η² = 0.499) ואת הכתיבה הכוללת, וציוני התוכן עלו למרות שההנחיה אסרה משוב תוכן ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa & Abo, 2026]]).
 
@@ -81,7 +86,7 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai
 - **תעדפו איכות משוב על פני כמות בדיבור נתמך-ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] מוצאים שתיקון שגיאות מדויק ומשימות רפלקסיה מובנות משפרים הפנמת [[feedback|משוב]] והתנהגות רפלקסיבית בדיבור אנגלית במכללה, בעוד שימוש ASR תדיר ודיוק זיהוי מגבירים מוטיבציה או רפלקסיה באופן חלקי בלבד — דיוק טכני לבדו אינו מניע מעורבות קוגניטיבית עמוקה יותר, ומיינות השפה מתווכת את השיפורים (לומדים חזקים יותר מפנימים משוב ביתר יעילות). זה תומך במשוב פדגוגי-תקין (למשל הסברים אורטיקולטוריים על פני דגלי שגיאה פשוטים), רפלקסיה מפיגמת, ותמיכה מובחנת-מיינות.
 - **תנו רמזים לפני תיקונים.** משימת ChatGPT של 'רמז לפני תיקון', שבה לומדים מסיקים תיקונים מרמזים מודרכים במקום לקבל תיקונים ישירים, הפחיתה עומס קוגניטיבי ותמכה בחזרה מותאמת-אישית — אך היתרון נשבע בעיקר ללומדים שכבר היו בעלי [[prior-knowledge|ידע קודם]] מספיק (58 סטודנטים, CEFR A1–B1) ([[lukesova-clue-before-correction-2026|Lukešová & Jennings (2026)]]).
 - **ספקו [[speech-and-voice-technologies|משוב הגייה]] הממקם את ההבדל לכיוון הקרוב.** Profy לומד מיומנות מדיבור ללא הערות ברובו ומראה *היכן* לומד סטה מהתפלגויות דוברי אם; סמך הביטחון להשמעות שלו לפני/אחרי לא חפף, שלא כמו בסיס של אימיטציה-מעוררת — ראיה שתרגול אימיטציה יכול לתמוך ללא מדרגים מומחים ([[ai-guided-learning-audiovideo-2026|Kawamura (2026)]]).
-- **השתמשו بعרוץ התמלול כאות שני, לא כתחליף.** מסווג אודיו WavLM גבר על מסווג GPT-4o zero-shot שקרא תמלולים על קורפוס לומדים מאוזן-CEFR, ולכן עקבות לקסיקליים של שפת אם אמיתיים אך חלשים יותר מהגייה, קצב ואינטונציה ([[acoustic-lexical-native-language-identification-learners-2026|Uluslu et al. (2026)]]).
+- **השתמשו بבערוץ התמלול כאות שני, לא כתחליף.** מסווג אודיו WavLM גבר על מסווג GPT-4o zero-shot שקרא תמלולים על קורפוס לומדים מאוזן-CEFR, ולכן עקבות לקסיקליים של שפת אם אמיתיים אך חלשים יותר מהגייה, קצב ואינטונציה ([[acoustic-lexical-native-language-identification-learners-2026|Uluslu et al. (2026)]]).
 - **תמכו בהסתגלות הפסיכולוגית של לומדים ללמידה בסיוע בינה מלאכותית.** [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] עוקב אחר לומדי יפנית לאורך סמסטר ומוצא שהם מתחלקים לפרופילי הסתגלות לא-אדפטיביים, מתונים וחיוביים, המונעים על ידי איזון טכונו-מתח וחוסן, עם רוב הלומדים מתחלפים בהדרגה כלפי הסתגלות חיובית ומדווחים על [[self-efficacy|מסוגלות עצמית]] גבוהה יותר ושחיקה נמוכה יותר — אות לעצב תרגול שפה המתווך בינה מלאכותית שמנהל מתיחות טכנולוגיות, לא רק גישת כלים.
 - **היזהרו מהטיית ניקוד ומשוב נגד לומדים.** ניקוד ה[[ai-scoring-language-bias-physics|בינה המלאכותית]] יכול להעניש דפוסים לא-ילידים; מחקר ה[[genai-linguistic-diversity-academic-writing|גיוון הלשוני]] מזהיר שבינה מלאכותית מעניקה עדיפות לאנגלית תקנית — השתמשו בהערכה רפלקסיבית-התייחסות או מתווכת אנושית.
 - **תמכו בספקטרום המלא של הלומדים.** מחקרי ה[[dyslexlens-dyslexic-learners-ai|דיסלקטיה והנגישות]] ועיצוב [[culturally-relevant-pedagogy|רגיש תרבותית]] (הקשרי [[ai-tools-arab-english-classrooms|ערבים-אנגליים]]) מראים שבינה מלאכותית חייבת להיות מותאמת לצרכי לומד מגוונים, ולא מונחת כאוניברסלית.
@@ -94,6 +99,8 @@ connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai
 - **הראיה על רווחי דיבור בצ'אטבוטים אינה אחידה לפי מאפיין.** בסינתזה השיטתית היחידה של השאלה, עשרה מחקרים מ-2021 עד 2024 שיפרו בצורה המהימנה ביותר טווח ומובנות, בעוד קוהרנטיות נבדקה פעם אחת ואינטראקציה כמעט ולא; ארבעה מהעשרה דיווחו ציון הוליסטי יחיד ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
 **סטודנטים לתרגום ניתנים להסיע מהתיקון השטחי.** בקורס תרגום עיתונות, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] מצאו שייעוץ במנוע חיפוש עלה מחציון של 15.6% ל-27.7% מזמן הסשן (p = 0.020, מתוקן Holm) וחיפוש מבוסס-ידע מ-7.2% ל-28.8% (p = 0.010). שימוש בתרגום מכונה ירד מ-28.5% ל-5.1% בלי להגיע למובהקות (p = 0.338), ושימוש אינטראקטיבי ב-AI נשאר בחציון של אפס. המנוף היה הראיה לסטודנטים את התהליך שלהם ולא איסור על כלי.
+
+סינתזה של Zhang, Aubrey, Wu ו-Chiu של 48 מחקרים מבוקרים (N = 5196) מוצאת שהתועלת של GenAI תלויה בתצורה ולא בנוכחות. שימוש הערכה-ומשוב הפיק את האפקט הגדול ביותר (g = 1.15) מול g = 0.28 לשילוב הוראתי, ומצבים מוכווני-לומד (g = 0.92) עקפו מצבים אוטונומיים (g = 0.34). קריאה לא הראתה אפקט מובהק, והציון הראשי של דיבור g = 1.48 ירד ל-g = 0.65 לאחר הסרת שלושה ערכים קיצוניים ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 ## תפיסות מוטעות נפוצות
 

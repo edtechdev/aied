@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -9,11 +9,16 @@ research_method: [experiment]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: high
+ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: revision
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 reviewed_by: [editor]
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
-connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026, nouri-ai-research-methodology-students-2026]
 ---
 
 > **Research methods in AIED** — the set of empirical designs, data-collection strategies, and analytic techniques researchers use to study [[ai-education|AI in education]]: whether and how AI tools support (or harm) learning, and under what conditions. The research spans experimental, survey, qualitative, design-based, computational-benchmark, and review methods. Each has distinct strengths and limitations, and choosing among them involves trade-offs among internal validity (confidence in causal claims), external validity (generalizability), ecological validity (real-world authenticity), and the feasibility of studying fast-moving AI tools.
@@ -32,6 +37,8 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 The central tension in AIED research is that the strongest designs for causal inference — randomized experiments — are often the hardest to run with authentic AI tools in real classrooms, while the most authentic settings (field deployments, case studies, log-data analyses) offer weaker causal control. No single method resolves this; the field advances by triangulating across methods, and by being explicit about what kind of claim each design can support. Every method also carries cross-cutting limitations — generalizability, measurement validity, the fast pace of AI change, reproducibility, and weak theory use — that readers must weigh; see [[limitations-in-aied-research|limitations in AIEd research]].
 
 Method, not findings, is the subject. [[learning-sciences|Learning sciences]] is the substantive field these methods serve. The focus is how a study should be designed, measured and reported, while that field covers what is established about how people learn and how learning environments should be designed. It treats design-based and mixed methods as the learning sciences' signature approaches rather than two options among many.
+
+A second framing question is the level of analysis. [[learning-environments-as-systems|Learning environments as systems]] argues that the level a study measures — learner, course, institution, policy — is a theoretical decision with consequences, because effects introduced at one level propagate to the others; a design that measures only the level of introduction can miss the mechanism entirely.
 
 A neighboring strand, [[ai-assisted-educational-research|AI-Assisted Educational Research]], covers AI as an instrument of the field's own work: literature search, screening, review automation, qualitative coding, analysis, and writing. Its scope includes practitioner research such as the scholarship of teaching and learning, and it stays distinct from the empirical designs used to establish whether AI works.
 
@@ -67,6 +74,8 @@ The instrument itself deserves separate scrutiny. What a questionnaire, intervie
 ### Qualitative methods
 
 Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[hazra-safetutors-pedagogical-safety-2026|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. The full treatment is in [[qualitative-research|qualitative research]]: thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups, each with [[rubrics|exemplars]].
+
+The same tradition can be stretched across a whole course. In an experiential qualitative study, [[nouri-ai-research-methodology-students-2026|Nouri, Panahi and Ghalavand (2026)]] collected 138 Experience Registration Forms from 14 Medical Library and Information Science students across a 17-week research-methods course, then ran thematic analysis over the repeated, participant-linked records. Students described AI as a supportive research companion that reduced uncertainty and helped them start proposals, while also reporting fabricated references, diminished independent reasoning and uncertainty about whether permitted use counted as learning support or cheating. The authors read this as a cognitive mediator that introduces epistemological and ethical tension, and argue research-methodology education needs explicit critical-AI-literacy guidance rather than tool access alone.
 
 - **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, [[agency|autonomy]], and authorship.
 - **Limitations:** limited generalizability; interpretive and researcher-dependent; small samples; weaker support for causal claims; findings can be hard to synthesize across studies.

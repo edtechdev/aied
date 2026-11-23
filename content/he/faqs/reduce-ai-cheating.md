@@ -5,12 +5,16 @@ connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, address
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-11-15T15:59:41-05:00"
+updated: "2026-11-23T14:30:00-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -146,7 +150,7 @@ ai_assist:
 
 ## מה יחזור אליכם
 
-**"אין לי זמן לעצב מחדש קורס בסמסטר הזה."** אל תעצבו מחדש את הקורס. עצבו מחדש מטלה אחת: צעד אחד בלי סיוע, שורת מחוון אחת עם נקודות. זה שינוי של שעתיים, וזה השינוי שהסקירה של 72 המחקרים מציינת.
+**"אין לי זמן לעצב מחדש קורס בסמסטר הזה."** אל תעצבו מחדש את הקורס. עצבו מחדש מטלה אחת: צעד אחד בלי סיוע, שורת [[rubrics|מחוון]] אחת עם נקודות. זה שינוי של שעתיים, וזה השינוי שהסקירה של 72 המחקרים מציינת.
 
 **"הגנות בעל-פה בלתי אפשריות עם 300 סטודנטים."** אז אל תריצו 300 כאלה. תנו משקל לרכיב בספר סגור, דרשו תוצרי תהליך, ותגמו בדיקות בעל-פה על ההגשות שנראות לא עקביות עם עבודה קודמת. שלוש מאות סטודנטים לא זקוקים ל-300 שיחות כדי לשנות את החשבון.
 

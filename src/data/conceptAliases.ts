@@ -135,6 +135,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'learning-analytics': ['academic risk prediction', 'analytics', 'early warning', 'early warning system', 'educational data mining', 'learning analytics', 'predictive analytics', 'predictive learning analytics'],
   'learning-by-teaching': ['learning by teaching', 'peer teaching', 'teach-back', 'teachable agents'],
   'learning-design': ['course design', 'course design decisions', 'instructional design', 'instructional development', 'learning design'],
+  'learning-environments-as-systems': ['learning environments as systems', 'level of analysis', 'learning ecosystem', 'sociotechnical systems', 'systems approach', 'systems perspective', 'systems theory', 'systems thinking'],
   'learning-gains': ['academic achievement', 'academic performance', 'achievement', 'achievement gap', 'achievement gaps', 'learning achievement', 'learning effectiveness', 'learning gains', 'learning outcomes', 'prior achievement', 'student achievement'],
   'learning-sciences': ['the learning sciences', 'learning sciences research', 'education research field'],
   'learning-theories': ['learning science', 'learning theories', 'learning theory', 'theories of learning'],

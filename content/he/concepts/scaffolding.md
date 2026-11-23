@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: פיגום
 created: "2026-10-12T19:02:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,10 +11,14 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-21T02:02:25-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, problem-based-learning, learning-by-teaching, sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition, adaptive-learning, learning-design, help-seeking, teacher-role, pedagogy, agentic-ai, productive-failure]
-connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computing-education-systematic-review-2026, ai-standardized-patient-scaffolding-medical-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, guided-llm-scaffolding-independent-learning, scaffolding-critical-engagement-genai-minority-students, rethinking-scaffolding-llm-tutors, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, veriforge-narrative-drafting-scaffolding-2026, substitution-to-scaffolding-ai-harm-cycle-2026, preferred-scaffolding-ai-mathematical-modeling, agentic-ai-pedagogical-best-practice-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, making-ai-tutoring-productive-mastery-math-2026, brcic-effortless-trap-productive-struggle-2026, ai-supported-experimental-design-chemistry-2026, scaffolding-systematic-reviews-2026, preservice-teacher-agency-genai-design-learning-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, scan-framework-task-assignment-generative-ai-2025, chen-automated-scoring-interpreting-self-regulated-learning-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, structured-genai-training-physics-problem-solving-rct-2026, etq-ai-conversational-teacher-training-2026, englmeier-ai-scaffolding-self-paced-learning-2025, assistance-dilemma-rl-tutoring-2026, cruz-structured-ai-tutoring-computer-architecture-2026, kozachek-orchestrating-scaffolding-agents-2026]
+connected_articles: [agentic-ai-pedagogical-best-practice-2026, ai-integration-instructional-design-collaboratory-2026, ai-literacy-tool-design-programming-education-2026, ai-standardized-patient-scaffolding-medical-2026, ai-supported-experimental-design-chemistry-2026, assistance-dilemma-rl-tutoring-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, brcic-effortless-trap-productive-struggle-2026, chen-automated-scoring-interpreting-self-regulated-learning-2026, concept-catalyst-engineering-scaffolds, correct-answer-trap-ai-tutor, critical-thinking-genai-scaffolding, cruz-structured-ai-tutoring-computer-architecture-2026, englmeier-ai-scaffolding-self-paced-learning-2025, etq-ai-conversational-teacher-training-2026, genai-cognitive-scaffold-geometric-reasoning-2026, guided-ai-tutor-impasse-resolution-2026, guided-llm-scaffolding-independent-learning, kim-ai-productive-failure-adult-2026, kozachek-orchestrating-scaffolding-agents-2026, kumar-genai-computing-education-systematic-review-2026, making-ai-tutoring-productive-mastery-math-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, preferred-scaffolding-ai-mathematical-modeling, preservice-teacher-agency-genai-design-learning-2026, puech-pedagogical-steering-llm-productive-failure-2025, rethinking-scaffolding-llm-tutors, scaffolding-critical-engagement-genai-minority-students, scaffolding-systematic-reviews-2026, scan-framework-task-assignment-generative-ai-2025, stone-gpt5-kinematics-sensemaking-2026, structured-genai-training-physics-problem-solving-rct-2026, substitution-to-scaffolding-ai-harm-cycle-2026, vega-baudrit-genai-university-chemistry-education-review-2026, veriforge-narrative-drafting-scaffolding-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, yu-verification-without-criteria-2026, zhang-tutormoments-2026, zhu-adaptive-teaching-assistance-genai-big-data-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -97,7 +101,10 @@ connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computi
 ## פיגום מונחה כללים מול פיגום אד-הוק
 
 - **פיגום מונחה כללים מול פיגום אד-הוק.** Looi, Liu, and Sun (2026) מנסחים הבחנה מרכזית בעיצוב פיגום: **פיגום מונחה כללים**, שבו חונכות נשלטת על ידי ארכיטקטורת תלת-שכבה הברת-ביקורת (אבחון → בחירת כוונה → הפקת תגובה מוגבלת), לעומת **פיגום אד-הוק**, שבו מהלכים מועילים קשה לביקורת ולשכפול. מחקר המתמטיקה שלהם בבתי ספר יסוד הראה שפיגום מונחה כללים משפר עקביות אינטראקציונית, מפחית מתן תשובה מוקדם וסגירה מוקדמת, ומקיים [[student-engagement|מעורבות]] קוגניטיבית — ראיה שמפורשות ויכולת ביקורת של מהלכי הפיגום חשובים גם לעקביות וגם ללמידה בתחומים פרוצדורליים.
+- **סולם קבוע יכול להתקיים בהנחית המערכת.** קרוז ועמיתיו (2026) קידדו את הדעיכה ישירות בהנחיה שנכתבה על ידי המרצה: חונך הארכיטקטורה המחשבית אילץ תורות מתחלפים, לא נתן תשובות ישירות, והפחית את התמיכה ככל שהמפגש התקדם, ללא מודל לומד שמחליט מתי ([[cruz-structured-ai-tutoring-computer-architecture-2026|Cruz et al. (2026)]]). הסכמתם של ארבעים סטודנטים שהוא עודד פתרון בעיות עצמאי עלתה לאורך הסמסטר (שיפוע 0.679, p = .050), אם כי מספר התגובות ירד מ-33 ל-8 ולא הייתה קבוצת השוואה.
 - **פיגום כמסילה מוגבלת בין עקיפה לפריקת עומס.** מודל האינטראקציה בין נוירופלסטיות ל[[student-ai-interaction|בינה מלאכותית]] מכנה את הפיגום כאחת משלוש המסילות לעזרת מודלים לשוניים, לצד עקיפה ישירה ופריקת עומס קוגניטיבי, ומגדיר אותו לפי האם המודל שומר על העיבוד הדורש מאמץ שהמשימה מיועדת לאמן ([[naim-bypass-offload-scaffold-llm-learning-2026]]). ראיית הכיול של המודל היא ניסוי טבעי בהגבלת פיגום: גישה בלתי מוגבלת ל-GPT-4 במחקר עם כמעט 1,000 תלמידי [[math-education|מתמטיקה]] בתיכון הניבה רווח תרגול של 48% אך גרעון של 17% בבחינה ללא סיוע, בעוד GPT Tutor עם הגבלת רמזים הניב רווח תרגול של 127% וגרעון הבחינה כמעט חוסל. לקח העיצוב תואם להבחנה בין מונחה כללים לאד-הוק לעיל בגרגר גס יותר: זו ההגבלה על מה שהחונך רשאי לספק, לא נוכחותו של חונך, שקובעת האם הפיגום נסוג בהצלחה.
+
+התזמון יכול להיות הכלל. רוטר ועמיתיו אימנו סוכן למידת-חיזוק שמחליט, שאלה-שאלה, האם תלמיד יכול לפתוח מודל שפה גדול בלתי-מוגבל כלל, ובדקו אותו מול גישה מתמשכת ומול איסור מוחלט עם 105 סטודנטים אוניברסיטאיים. גישה מתוזמנת קבלה 5.11 במבחן-אחרי ללא-סיוע לעומת 4.03 לגישה מתמשכת (t(71) = 2.51, p = .014, d = 0.59) והתאימה להגבלה מלאה ב-5.25, בעוד שדיוק ההערכה-העצמית עלה ל-5.95 לעומת 5.17 (p = .023). המנגנון היה הקצאה ולא חונכות: סטודנטים במצב המתוזמן ביצעו בממוצע 2.46 בקשות לעומת 11.25, 43.2% לא השתמשו במודל כלל, והמודעות המטאקוגניטיבית שהצהירו לא זזה. העיצוב חשף גם חריץ ששווה להתייחס אליו בעיצוב — משתתף אחד שקל לענות לא נכון בכוונה כדי לשחרר את הבינה המלאכותית מוקדם יותר ([[rotter-access-timing-scaffolding-2026|Rotter et al., 2026]]).
 
 ההבחנה בין מונחה כללים לאד-הוק עוברת מעבר לחונך ואל המשימה עצמה. [[ai-integration-instructional-design-collaboratory-2026|שיתוף פעולה פני-מוסדי של סגל הוראה]] מצא שביקורת על פלט בינה מלאכותית לא התרחשה מעצמה, ולכן דרישות לביקורת, השוואה, תיקון ונימוק של תוכן מיוצר נכתבו למשימה, ואלה ששמרו על ניתוח תחום דעת עצמאי לפני שבינה מלאכותית נכנסה מצאו שהמועמדים יכלו להעריך פלט בינה מלאכותית באופן יותר ביקורתי. [[bondurant-shaughnessy-ai-pedagogies-practice-2026|ראיית חזרות]] מסכימה: מורים עתידיים שהתאמנו עם שותפי בינה מלאכותית השתמשו בשאלות חוקרות ובודקות יותר כשסופק משוב מובנה לאחר החזרה. בשני המקרים התמיכה מצוינת מראש ולא מאולתרת, ומפרידה בין הדרכה מעוצבת לעזרה אד-הוק שקשה לביקורת ולשכפול.
 
@@ -105,6 +112,10 @@ connected_articles: [stone-gpt5-kinematics-sensemaking-2026, kumar-genai-computi
 
 - **פיגום שהלומד אינו מסוגל לאמת הוא תחליף זורם.** מכיוון ש[[chemistry-education|כימיה]] מנמקת על פני תופעות נצפות, מודלים חלקיים ותחביר סמלי, תשובה מיוצרת יכולה להיות משכנעת מקומית ושגויה גלובלית. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Álvarez (2026)]] ממקמים את הפיגום בצד הפרודוקטיבי של ניתוח Presage-Process-Product שלהם והעתקה לא ביקורתית בצד הכשל, ודורשים מהפיגומים לדרוש תרגום ייצוגי בשני הכיוונים, מכיוון שתשובה המתארת ניטרליזציה נכונה עדיין יכולה לטעון שלכל נקודת שוויון יש pH של 7. אימות מעוצב במשימה ולא מוכרז ככלל: סטודנטים מזהים הנחה שגויה, מתקנים שגיאת יחידה או מנגנון, משווים מבנה סמלי עם מודל תת-מיקרוסקופי, או מנמקים דחייה של תשובה מיוצרת. מכיוון שסטודנטים אינם מסוגלים לאמת מה שאינם מבינים עדיין, [[prior-knowledge|ידע קודם]] ופיגום באים ראשונים, והנחיה נחשבת למעשה אפיסטמי שבו הלומד מציין את ההגבלות שהתשובה חייבת לקיים.
 
+הפיגום יכול לשבת במטלה ולא בכלי. במדור מכניקה עם 43 סטודנטים, חילופי GPT-5 במהלך מפגשי הדיון היו בעיקר בקשות מתכון, ואז הזזו במטלה סופית מדורגת שדרשה לפחות שלושה חילופים איטרטיביים והזהירה מפני הדבקת נספחי בעיה. ביקוש מתכון צנח מ-52% ל-22% מהמשפטים המקודדים, ובקשות חשיפה-מחשבתית על משמעות פיזיקלית עלו מ-0% ל-25% ([[stone-gpt5-kinematics-sensemaking-2026|Stone, Zhang & Utter, 2026]]). המודל לא השתנה בין שני המצבים; המפרט שאליו עבדו הסטודנטים כן.
+
+- **הסדר הוא משתנה עיצובי, לא רק בחירת הפיגום.** [[kozachek-orchestrating-scaffolding-agents-2026|Kozachek and Janson (2026)]] העניקו לארבעה סוכנים מומחים סוג פיגום אחד לכל אחד במשימת מיפוי מושגים ומצאו שהסוכן המטאקוגניטיבי הפיק את הגידול הגדול ביותר במפת המושגים כאשר הוא רץ ראשון, בעוד הסוכן המושגי שרץ אחרון הפיק כמעט כלום.
+- **מיקום מנצח כמות.** ניתוח רשתות אפיסטמי של 65 מחקרים מפריד פיגומים לפי הזמן שבו הם נכנסים למשימה: תיווך מדריך שנקבע לפני השאילתה הראשונה הצמיד את ההאצלה לרשת מכוונת-תכנון, הנחיית רפלקציה במהלך ההפקה השאירה את ההאצלה מבודדת מהתכנון, ושניהם יחד דיווחו מעורבות פרודוקטיבית בתדירות הגבוהה ביותר, בקבוצה קטנה של שמונה מחקרים ([[yu-verification-without-criteria-2026|Yu et al. (2026)]]). חיכוך שמוצב אחרי שהמשימה תומכנה לא יכול לספק את הסטנדרט, כי הרגע להגדירו כבר עבר.
 ## תפיסות מוטעות נפוצות
 
 - **"פיגום הוא רמת תמיכה קבועה."** סימון מומחים של **207 ייעוצים** הראה שהצורך בפיגום היה **תלוי שלב במידה רבה, ועלה מכ‑16.1% מהאמירות של הסטודנטים בראשית** המפגש. רמת פיגום אחת מוקצה שלא כהלכה בשני קצוותיו של אותו ייעוץ.

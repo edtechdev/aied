@@ -1,7 +1,7 @@
 ---
 title: רווחי למידה
 created: "2026-10-12T22:20:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,10 +11,14 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T02:34:45-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
-connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
+connected_articles: [absent-cognitive-baseline-2026, ai-assisted-collaborative-learning-model-dbr, ai-changing-teaching-workflows, ai-education-effects-second-order-meta-analysis-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-feedback-critical-thinking-writing-2026, ai-literacy-assessment-misalignment, ai-supported-instruction-stem-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, burneo-can-edtech-close-learning-gaps-2026, ccct-cooperative-learning-technique, chatgpt-hints-human-tutor-learning-gains-2024, chen-genai-programming-understanding-2026, computational-thinking-aica-2026, contractor-learning-impact-generative-ai-2026, epistemological-audit-genai-meta-analyses-2026, gardella-copilot-fast-forgettable-2026, genai-can-harm-teaching-rct-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, generative-ai-guardrails-harm-learning, generative-ai-reduced-study-time-math, gpt4-feedback-student-activation-2026, jost-llm-programming-education-learning-outcomes, kestin-ai-tutoring-outperforms-active-learning-rct-2025, learner-ai-interaction-patterns-oop, liu-ai-literacy-interventions-meta-analysis-2026, making-ai-tutoring-productive-mastery-math-2026, mujib-ai-ibl-creative-math-2026, oecd-digital-education-outlook-2026, one-click-away-khanmigo-two-year-school-experiment-2026, oneill-presumed-effective-meta-analysis-2026, oppenheimer-llms-collaborative-learning-partners-2026, pedagogy-ai-mistakes, rachatasumrit-example-problem-ratio-2026, robot-assisted-language-learning-meta-analysis-2026, rodrigues-aied-unplugged-numeracy-2026, scaffolding-srl-feedback-genai-human-peers, smith-online-pretests-generative-ai-physics-2026, stanford-evidence-base-ai-k12-2026, stromberg-generative-ai-learning-penalty-secondary-2026, studentbench-ai-human-tutoring-gre-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, weidlich-chatgpt-effect-search-cause-2025, young-people-learning-generative-ai-rapid-review-2026, zhao-genai-higher-order-thinking-meta-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -54,11 +58,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - **[[burneo-can-edtech-close-learning-gaps-2026|מטא-אנליזת הבנק העולמי]]** מרוכזה 191 גדלי השפעה מ-14 RCTs כדי להעריך שEdTech אדפטיבי ומאופשר-AI מגבירים למידה ב-~0.125 sd בממוצע — מעל החציון עבור RCTs חינוכיים — בעוד שהיא מוצאת שאין יתרון לבינה מלאכותית יוצרת על כלים אדפטיביים קודמים.
 - **הרווחים הם אינטראקציות תוכן–טיפול, לא קבועים.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] מראים שהיחס המיטבי בין דוגמאות לבעיות תלוי בתוכן הידע: תרגול [[retrieval-spacing-interleaving|שליפה]] טהור מייצר רווחים גבוהים יותר לעובדות מילוליות, בעוד שתרגול משולב-דוגמאות (דוגמאות-עבודה ובעיות מתחלפות) מייצר רווחים גבוהים יותר למיומנויות הניתנות-להכללה — ראיה ישירה ש"יותר תרגול" אינו תמיד טוב יותר ושרווחים תלויים בהתאמת לוח-האימון לרכיב הידע הנלמד.
 
-### בעיית המדידה בעידן ה-AI
+## בעיית המדידה בעידן ה-AI
 
 ערכה מרכזית במחקר רווחי הלמידה של מאגר הידע היא ש**בינה מלאכותית יוצרת יכולה לנפח ביצוע נראה ללא ייצור רווחי למידה** — ושבחירת אמצעי התוצאה קובעת האם הדבר גלוי. [[generative-ai-reduced-study-time-math|מחקר]] ו[[stromberg-generative-ai-learning-penalty-secondary-2026|נתוני שדה בקנה מידה גדול]] מראים פיצול חד: שימוש ב-AI משפר ציונים בשיעורי-בית בסיוע AI תוך שהוא *מוריד* ציונים באמצעים תחת פיקוח, ספר-סגור, ללא סיוע. מחקר [[genai-performance-vs-learning|ביצוע-לעומת-למידה]] ו[[young-people-learning-generative-ai-rapid-review-2026|סקירות מהירות]] מבדילים לכן ביצוע מיידי נתמך-AI מלמידה מתמשכת, ומתייחסים לאמצעי סיכום ללא סיוע (ראו [[summative-assessment|הערכה מסכמת]]) כאל האות האמין של רווחי למידה אמיתיים.
 
-### מה מחקר היעילות מראה
+גם קו הבסיס עלול להיות מנופח. לאורך 39 שאלות בחינת-מקדים בפיזיקה, תשובות נכונות עלו עד 36% מסתיו 2024 — כ-15% בממוצע — עם ירידות בשאלות שבהן הכלי ענה לא-נכון, ולכן השוואת טרום/אחרי יכולה לרשום רווח שההוראה מעולם לא ייצרה ([[smith-online-pretests-generative-ai-physics-2026|Smith et al., 2026]]). בחינת-המקדים שקובעת את נקודת ההתחלה צריכה את אותם תנאי ללא-סיוע כמו בחינת-אחרי.
+
+## מה מחקר היעילות מראה
 
 לאורך ה[[rct|RCTs]], ה[[meta-analysis-systematic-review|מטא-אנליזות]] ומחקרי השדה של מאגר הידע, עולה תמונה עקבית של **יעילות למידה** (אילו התערבויות AI מייצרות בפועל רווחי למידה, ובאיזה גודל):
 
@@ -78,7 +84,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 - **חונכות AI יכולה להתאים לחונכות אנושית מנוסה ברווחי בחינה סטנדרטיים.** בהערכה בת 2,383 משתתפים, חונכות AI מרוכזה הייתה שווה-סטטיסטית לחונכות אנושית מנוסה ברווחי למידה ב-GRE (p = .015), כששניהם מעל בקרה ללא חונכות; המחברים מציעים עלות לכל נקודת-אחוז של רווח כיחידה להשוואת חונכים ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026)]]).
 
-### מפה ברמת-השדה של השפעות ה-AI על למידה והישג
+## מפה ברמת-השדה של השפעות ה-AI על למידה והישג
 
 הקורפוס של מאגר הידע — מטא-אנליזות, RCTs, כמעט-ניסויים ומחקרי שדה — תומך בתמונה מניונת, ולפעמים מנוגדת. הממצאים מתקבצים להשפעות חיוביות, שליליות ומותנות.
 
@@ -108,7 +114,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - **AI-IBL תומך ביצירתיות אך לא בהכרח בפתרון בעיות.** [[mujib-ai-ibl-creative-math-2026|Mujib et al.]] שיפרו ביצוע יצירתי ובעמדות אך לא בפתרון בעיות ביקורתי.
 - **[[student-experience|חוויית הסטודנט]] מתפצלת מהרווחים הנמדדים.** [[absent-cognitive-baseline-2026|סטודנטים ילידי-AI מעריכים את הלמידה שלהם ביתר]], ו[[ai-literacy-assessment-misalignment|דיווח עצמי אינו מיושר עם ביצוע]] — תפיסות של רווחים אינן ראיה אמינה להם.
 
-### הערכות רווחי-למידה מטא-אנליטיות מנופחות — קראו אותן בזהירות
+## הערכות רווחי-למידה מטא-אנליטיות מנופחות — קראו אותן בזהירות
 
 המספרים של רווחי הלמידה השולטים בסיכום היעילות של עמוד זה — ובמיוחד גדלי-ההשפעה המרוכזים ממטא-אנליזות — חייבים להיקרא עם אזהרה חזקה: גל של מטא-מחקר מראה שהערכות הסינתזה החיוביות של התחום מנופחות על-ידי הטיית פרסום, אי-מתקשות בנייה, וקיצורי-דרך מתודולוגיים.
 
@@ -121,21 +127,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 **הקו התחתון למספרי הרווחים שלעיל:** התייחסו לגדלי-אפקט AI מרוכזים גדולים כאל גבולות-עליונים, לא כאל הערכות-נקודה. העדיפו את ראיית רווחי-הלמידה מ[[rct|RCTs]] ומחקרי שדה מעוצבים היטב עם אמצעי תוצאה סטנדרטיים וללא סיוע (ה-RCT של תוכנית-המגן, ניסויי Khanmigo ו-NUMI, ומטא-האנליזה של EdTech של הבנק העולמי שהוצגו לעיל), וקראו את רווחי המטא-אנליזה כזמניים וככבר-מוגזמים עד שאיכות הסינתזה תשתפר. הבעיה גם שורדת את התיקון: מהמאמרים שפורסמו אחרי שמטא-אנליזה אחת שנבדקה נשלפה, 60% עדיין ציטטו אותה כתמיכה סמכותית לרווחי למידה גדולים של ChatGPT ואף אחד לא הכיר במשיכה, ולכן הערכה שנמשכה ממשיכה להתפשט. זו הסבה שעמוד ה[[limitations-in-aied-research|מגבלות במחקר ב-AIED]] מתעד עכשיו את משבר הראיה המטא-אנליטי בפירוט.
 
-### מדידת מה שחשוב
+## מדידת מה שחשוב
 
 רווחי למידה מתחברים ל[[assessment-validity|תקפות ההערכה]] — אם ה[[assessment|הערכות]] אינן תופסות הבנה עמוקה יותר, אמצעי רווחי-הלמידה מטעים. הם גם נחתכים עם [[cognitive-offloading|הסתמכות יתר]] ו[[cognitive-offloading|פריקת עומס קוגניטיבי]], היכן ששיפורי ביצוע נראים עלולים להסתיר אובדני למידה, ועם ה[[rct|RCT]] (ניסויים אקראיים כעיצוב הסטנדרט-הזהב לזיהוי רווחי למידה סיבתיים), ועם ה[[meta-analysis-systematic-review|מטא-האנליזה והסקירה השיטתית]] (ריכוז גדלי-השפעה בין מחקרים לבניית ראיית היעילות של התחום).
 
 - **רווחי טרום/אחרי משמעותיים מפדגוגיית [[pedagogy|AI מבוססת-טעויות]]:** קורס עיצוב מסדי-נתונים של [[pedagogy-ai-mistakes|Hosseini (2026)]] (n=13) הראה רווחי למידה גדולים ומשמעותיים על פריטי טרום/אחרי זהים (ממוצע 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), עם רווחים בלתי-מתקשרים לביטחון AI או מסדי-נתונים קודם — עיצוב הביקורת-החידוד המשולב-AI הועיל לסטודנטים ללא קשר לתפיסות ההתחלתיות.
 
-## תפיסות מוטעות נפוצות
-
-**"הציונים עלו, ולכן ההתערבות יצרה למידה."** זוהי טעות ההגדרה שהעמוד נועד למנוע, ונתוני השדה מראים את שני הכיוונים בעת ובעונה אחת: שימוש ב-AI משפר ציונים בשיעורי-בית בסיוע AI תוך שהוא *מוריד* ציונים באמצעים תחת פיקוח, ספר-סגור, ללא סיוע ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). בחירת המדד קובעת האם הניפוח גלוי, ולכן רווח במשימה המתירה AI הוא טענה על ביצוע במשימה, ולא על [[genai-performance-vs-learning|למידה]].
-
-**"המטא-אנליזה מכריעה: האפקט גדול."** כיוון האיגור וגודל האיגור הם עובדות שונות, והגודל לעיתים נדירות שורד בחינה. [[genai-meta-analysis-programming-learning|מטא-האנליזה של GenAI בתכנות]] מוצאת רווחי *פרודוקטיביות* גדולים לצד **אין רווח למידה משמעותי** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|מטא-אנליזת הבנק העולמי]], המרכזת 191 גדלי השפעה מ-14 RCTs, מעריכה ~0.125 sd עבור EdTech אדפטיבי ומאופשר-AI — מרשימה ביחס לחציון ה-RCT החינוכי, אך עם **אין יתרון לבינה מלאכותית יוצרת על כלים אדפטיביים קודמים**. ציטוט מחקרים מתקופת GPT כקפיצת מדרגה מפריז במה שהראיות המרוכזות מראות.
-
-**"יותר תרגול ויותר [[personalized-learning|התאמה אישית]] תמיד עוזרים."** הרווחים הם אינטראקציות תוכן–טיפול, לא קבועים. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] מראים שהיחס המיטבי בין דוגמאות לבעיות תלוי במה שנלמד: תרגול שליפה מנצח לעובדות מילוליות, ותרגול משולב-דוגמאות מנצח למיומנויות הניתנות-להכללה. ו[[lak2026-hint-button-unproductive-use|מחקר כפתור הרמז]] מוצא שנפח הרמזים משויך באופן שלילי ללמידה. אותה "תמיכה" שעוזרת לרכיב ידע אחד עלולה לבזבז את האחר.
-
-**"תוצאת מבחן-אחרי מושהה היא אוטומטית תוצאת למידה מתמשכת."** השהיה הכרחית ואינה מספקת. מה שמבדיל למידה מתמשכת בקורפוס הזה הוא מדידה *ללא סיוע* בתנאי השהיה, יחד עם ראיה שהאפקט אינו נישא על-ידי הפיגום שייעדר בהעברה.
+הניסויים החדשים ביותר מסמנים גבול לדפוס הזה ולא סתירה שלו. מתחילים שקיבלו ChatGPT עברו בהרבה יותר מבחנים מופקים ממתחילים ללאו (410.7 לעומת 80.7) בעוד ההבנה שלהם לא השתפרה, ותלמידים ביניים לא זכו בכלום ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). ניסוי שני מצא שהיתרון של 14.09 נקודות של Copilot נעלם בבדיקה חוזרת ללא סיוע שבוע אחרי ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). ההתמדה היא החריג בספרות הזו, ולכן מחקר שמדווח עליה הוא ראיה על המשימה ועל עיצוב התמיכה, ולא על סיוע בינה מלאכותית באופן כללי.
 
 ## השלכות לפרקטיקה
 
@@ -156,3 +154,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - רשמו מראש את מדד התוצאה וציינו האם הוא מתיר AI או ללא סיוע. כיוון הממצא יכול להתהפך על הבחירה הזו לבדה.
 - דווחו גדלי-אפקט מול השוואה בשמה, ולא מול "גישות מסורתיות" במופשט. תוצאת הבנק העולמי ניתנת לפרשנות רק משום שהיא נוקבת במחלקת ההשוואה שלה.
 - הבדילו במפורש בין ניפוח ביצוע לעקירת למידה, שכן השניים מרמזים על תיקונים שונים — עיצוב-מחדש של המשימה מול הוראה-מחדש.
+
+## תפיסות מוטעות נפוצות
+
+**"הציונים עלו, ולכן ההתערבות יצרה למידה."** זוהי טעות ההגדרה שהעמוד נועד למנוע, ונתוני השדה מראים את שני הכיוונים בעת ובעונה אחת: שימוש ב-AI משפר ציונים בשיעורי-בית בסיוע AI תוך שהוא *מוריד* ציונים באמצעים תחת פיקוח, ספר-סגור, ללא סיוע ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). בחירת המדד קובעת האם הניפוח גלוי, ולכן רווח במשימה המתירה AI הוא טענה על ביצוע במשימה, ולא על [[genai-performance-vs-learning|למידה]].
+
+**"המטא-אנליזה מכריעה: האפקט גדול."** כיוון האיגור וגודל האיגור הם עובדות שונות, והגודל לעיתים נדירות שורד בחינה. [[genai-meta-analysis-programming-learning|מטא-האנליזה של GenAI בתכנות]] מוצאת רווחי *פרודוקטיביות* גדולים לצד **אין רווח למידה משמעותי** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|מטא-אנליזת הבנק העולמי]], המרכזת 191 גדלי השפעה מ-14 RCTs, מעריכה ~0.125 sd עבור EdTech אדפטיבי ומאופשר-AI — מרשימה ביחס לחציון ה-RCT החינוכי, אך עם **אין יתרון לבינה מלאכותית יוצרת על כלים אדפטיביים קודמים**. ציטוט מחקרים מתקופת GPT כקפיצת מדרגה מפריז במה שהראיות המרוכזות מראות.
+
+**"יותר תרגול ויותר [[personalized-learning|התאמה אישית]] תמיד עוזרים."** הרווחים הם אינטראקציות תוכן–טיפול, לא קבועים. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] מראים שהיחס המיטבי בין דוגמאות לבעיות תלוי במה שנלמד: תרגול שליפה מנצח לעובדות מילוליות, ותרגול משולב-דוגמאות מנצח למיומנויות הניתנות-להכללה. ו[[lak2026-hint-button-unproductive-use|מחקר כפתור הרמז]] מוצא שנפח הרמזים משויך באופן שלילי ללמידה. אותה "תמיכה" שעוזרת לרכיב ידע אחד עלולה לבזבז את האחר.
+
+**"תוצאת מבחן-אחרי מושהה היא אוטומטית תוצאת למידה מתמשכת."** השהיה הכרחית ואינה מספקת. מה שמבדיל למידה מתמשכת בקורפוס הזה הוא מדידה *ללא סיוע* בתנאי השהיה, יחד עם ראיה שהאפקט אינו נישא על-ידי הפיגום שייעדר בהעברה.

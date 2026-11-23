@@ -1,7 +1,7 @@
 ---
 title: אפקטים דיפרנציאליים בין קבוצות לומדים
 created: "2026-10-12T20:30:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:15:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,10 +13,14 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -26,7 +30,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
-connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
+connected_articles: [ada-female-coded-chatbot-gender-stereotypes-2026, adhd-video-segmentation-computing-education, ai-divide-ses-personality-primary-education-2026, ai-tutoring-micro-rct-gcse-science-2026, all-girls-genai-makerspace-gender-equity-2026, arc-hubs-k12-ai-robotics-rural-2026, assistive-tech-neurodivergent-higher-ed-review-2026, bjet-genai-engagement-minority-ethnic-students-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, demographic-signals-llm-student-assessment-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, fairness-theatre-early-warning-systems-2026, genai-minoritized-knowledges-disability, gender-bias-transfer-llm-writing, hadra-ai-detector-accuracy-efl-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, marked-pedagogies-linguistic-bias-writing-feedback, nagy-ai-use-domestic-international-students-2026, neurodivergent-computing-students, petricini-ai-literacy-communication-equity-2026, porcaro-ai-grader-reliability-2026, porcaro-ai-grading-benchmark-2026, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, student-ai-inquiry-types-cs2-2026, student-attention-estimation-fairness-2026, wang-genai-metacognitive-prompting-preconceptions-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -91,7 +95,9 @@ connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-ch
 - **אך תכן ההנחיה מעביר הטיה לעבודת תלמידים.** [[gender-bias-transfer-llm-writing|מחקר מבוקר עם 123 משתתפים]] הובילו תלמידים לכתוב מסות תכנון-קריירה לפרופילים מצומדים הנבדלים רק במגדר, תחת תנאי ללא-בינה-מלאכותית, בינה-מלאכותית-נייטרלית ובינה-מלאכותית-מוטית-מגדרית; המצב המוטה העביר שפה מובחנת-מגדרית לכתיבת התלמידים ודיכא את ה[[agency|סוכנות]] הנשית באופן א-סימטרי. החוקרים אישרו תחילה את האפקט על 1,600 מסות נוצרות.
 - **המרחב והמסגור חשובים לא פחות מהכלי.** [[all-girls-genai-makerspace-gender-equity-2026|מקרה של מרחב-עשייה של בינה מלאכותית גנרטיבית לבנות בלבד]] מצא שבנות העריכו את ההגדרה מגדר-יחיד כבטוחה ורגועה יותר, ומזהיר מ"נשיות-על" — התאמה ברמת פנים שמשאירה יחסי כוח ללא נגיעה.
 - **רגישות מודל היא תכונת מודל, לא קבוע.** ב[[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]], חמישה חונכים מ-7B עד 70B נסקרו על פני תשע רמות דמוגרפיות: Qwen2.5-7B עלה על סף ההטיה |r| ≥ 0.10 ב-7 מתוך 12 תאים של תחום-לפי-ממד, בעוד ש-LLaMA-3.1-8B עלה עליו פעם אחת. אימון ספציפי-פדגוגיה צמצם חלק מההטיות והגדיל אחרים.
-- **תיקון ציר-יחיד עשוי להשאיר קבוצה גרועה יותר:** סטודנטים מגדרית-מגוונים שנקבעו לקטגוריית "מגדר לא ידוע" היו עם שיעורי חיוב-אמיתי הנמוכים ביותר תחת כל שיטת הוגנות, ושיטה בציר-יחיד לא שיפרה את הטיפול בהם — שונות תווית-הקבוצה שנצפתה לעיל, בתוך מודל התראה-מקדימה חוזה במקום חונך ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+- **תיקון ציר-יחיד עשוי להשאיר קבוצה גרועה יותר:** סטודנטים מגדרית-מגוונים שנקבעו לקטגוריית "מגדר לא ידוע" היו עם שיעורי חיוב-אמיתי הנמוכים ביותר תחת כל שיטת הוגנות, ושיטה בציר-יחיד לא שיפרה את הטיפול בהם — שונות תווית-הקבוצה שנצפתה לעיל, בתוך מודל התראה-מוקדמת חזוי במקום חונך ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+
+סמסטר של פעילויות אוריינות AI בדרגת חשיבות נמוכה יכול להזיז ביטחון באופן שונה לקבוצות שונות. [[petricini-ai-literacy-communication-equity-2026|Petricini and Cruz (2026)]] הטביעו עשר פעילויות בשבועות 2 עד 11 של קורס שיח פומבי א-סינכרוני וניתחו 133 תגובות שמישות מתוך 200 סטודנטים רשומים; כשירות נתפסה ירדה בסך הכל, מ-5.63 ל-5.12 בסולם של 1–7, והירידה לא הייתה שווה. סטודנטים שזיהו את עצמם כנשים רשמו ירידות מ-ל-אחר מובהקות בשני פריטי כשירות, בעוד סטודנטים שזיהו את עצמם כגברים ירדו באחד וצברו בערך הקורס, וסטודנטים שזיהו את עצמם כגברים דירגו את עצמם גבוה יותר בבדיקה הסופית בשימוש בכל כלי חדש בקורס (p = .02). אותה התערבות נתנה לסטודנטים שזיהו את עצמם כלבנים ירידה מובהקת בכל שלושת פריטי הלחץ והמתח, כולל דאגה מביצועים מ-2.67 ל-1.90, בעוד סטודנטים עם זהויות גזע, אתניות או מורשת אחרות לא רשמו שינוי מובהק באף אחד מהם.
 
 ## גזע, אתניות ותלמידים מקבוצות מוקטנות
 
@@ -122,7 +128,8 @@ connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-ch
 - **תלמידי דור ראשון:** מחקר אחד מדווח על הבדל שימוש ולא על אפקט. ב[[student-ai-inquiry-types-cs2-2026|מחקר חקירה של CS2]], תלמידי דור ממשיך התייחסו לבינה המלאכותית כשותף [[problem-solving|פתרון בעיות]] פעיל, בעוד שתלמידי דור ראשון נטלו תפקיד מאשר, מוכוון-אימות, ושאלו פחות שאלות בסך הכל.
 - **תלמידי דור ראשון: הערכת האפקט הראשונה, והיא פועלת בכיוון השגוי.** ה[[rct|ניסוי רנדומלי]] של [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] על [[intelligent-tutoring|חונך בינה מלאכותית]] המשולב-קורס מספק את מה שהכניסה שלעיל חסרה — אפקט דיפרנציאלי נמדד ולא דפוס שימוש. במדגם המלא, אפקט הגישה לחונך על הציונים הסופיים היה 2.87 נקודות (0.28 SDs) יותר שלילי עבור תלמידי דור ראשון, ומשתמע −5.10 נקודות (−0.50 SDs) עבורם לעומת −2.23 נקודות (−0.22 SDs) עבור עמיתהם; האפקט הדיפרנציאלי היה גדול יותר במדגם ההתאמה-המדויקת (−3.89 נקודות, −0.35 SDs), ותלמידי דור ראשון גם איבדו יותר נקודות שיעורי בית וצפיות בדפי הפלטפורמה. המחקר מדווח על מנגנון אינו ודיוקו משתנה לפי תוצאה, אך הכיוון הוא ההיפך של סיפור סגירת-הפער: התלמידים עם ה[[student-support-and-success|תמיכה האקדמית]] המועטה ביותר לשעבר נשאו את העלות הנמדדת הגדולה ביותר.
 - **תלמידים בינלאומיים:** מחקר [[mixed-methods-research|מעורב-שיטות]] אחד (סקר n = 60, ראיונות n = 14) על [[international-students-conversational-ai-adaptation|תמיכה בהסתגלות חוצה-תרבותית]].
-- **תלמידים בינלאומיים: דפוס מעורבות נמדד, לא הערכת אפקט.** על פני 270 תלמידים בינלאומיים ממוצא אתני מיעוט בשבעה [[business-education|בתי ספר לעסקים]] בבריטניה, שימוש מדווח ב[[generative-ai|בינה מלאכותית גנרטיבית]] היה קשור באופן חיובי לכל ארבעת תילי ה[[student-engagement|מעורבות]] — ביתר שאת במעורבות סוכנית (β = 0.429) — כאשר תנאים מקלים (β = 0.369) היו החוזה החזק ביותר לכוונת שימוש ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
+- **תלמידים בינלאומיים: דפוס מעורבות נמדד, לא הערכת אפקט.**
+- **תלמידים בינלאומיים ותלמידים מקומיים באותו מוסד.** [[nagy-ai-use-domestic-international-students-2026|Nagy, Lukács & Torkos (2026)]] סקרו 767 סטודנטים באוניברסיטה הונגרית אחת ומצאו שפער התדירות הגולמי בין תלמידים מקומיים לבינלאומיים נעלם לאחר התאמה לגיל ולמגדר, בעוד פער רוחב היישום נותר. ניתוח אשכולות שיחזר ארבעה פרופילי משתמש שמתפזרים על שתי הקבוצות, ולכן תווית הקבוצה ניבאה רוחב שימוש ולא כמותו. על פני 270 תלמידים בינלאומיים ממוצא אתני מיעוט בשבעה [[business-education|בתי ספר לעסקים]] בבריטניה, שימוש מדווח ב[[generative-ai|בינה מלאכותית גנרטיבית]] היה קשור באופן חיובי לכל ארבעת תילי ה[[student-engagement|מעורבות]] — ביתר שאת במעורבות סוכנית (β = 0.429) — כאשר תנאים מקלים (β = 0.369) היו החוזה החזק ביותר לכוונת שימוש ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **תלמידים מחוננים ובעלי הישגים גבוהים:** בלתי-נחקרים למעשה כקבוצה במאגר זה.
 - **לומדים פליטים, מהגרים ומפולגים:** אין מחקרים.
 - **מגדר עדיין מנותח כדו-ערכי** ברוב העבודה שלעיל, וקטגוריות המוגבלות משתנות בין מחקרים, ולכן השוואה חוצה-מחקרת של אותה קבוצה מוגבלת.

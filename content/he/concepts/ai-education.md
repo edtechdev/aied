@@ -1,7 +1,7 @@
 ---
 title: בינה מלאכותית בחינוך
 created: "2026-09-22T14:34:58-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,10 +13,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -93,7 +97,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## יסודות הבינה המלאכותית בחינוך
 
-המושגים הרוחביים והיסודיים של התחום מעגנים את הכיסוי של מאגר הידע ומופיעים ראשונים בסרגל הצד. הם נפתחים בקבוצת **מושגי יסוד**, כלומר המושגים שכל קורא צריך להתחיל מהם: המטרייה עצמה, [[misconceptions|תפיסות שגויות לגבי בינה מלאכותית]], [[ai-literacy|אוריינות AI]], [[agentic-ai|בינה מלאכותית סוכנית]], [[cognitive-offloading|פריקת עומס קוגניטיבי]], [[framing-ai-use-for-students|הצגת השימוש בבינה מלאכותית לסטודנטים]], [[reducing-ai-misuse|צמצום שימוש לרעה בבינה מלאכותית]], [[academic-integrity|יושר אקדמי]], [[teacher-role|הוראה]], [[learning-design|עיצוב למידה]] ו[[educational-development|פיתוח חינוכי]]. אשכול **התחום** מכסה אחר כך את [[history-of-aied|ההיסטוריה של התחום]], את [[limitations-in-aied-research|המגבלות הרוחביות של בסיס הראיות]], את [[philosophy-of-ai-in-education|הפילוסופיה שלו]], את מפת [[theories-and-frameworks|התיאוריות והמסגרות]] ואת [[theory-development-aied|פיתוח התיאוריה]]. הנושאים הרוחביים, כלומר [[human-ai-collaboration|שיתוף פעולה בין אדם לבינה מלאכותית]], [[agency|סוכנות הלומד]], [[learner-identity|זהות הלומד]], [[design-thinking|חשיבה עיצובית]], [[curriculum-design|עיצוב תוכנית לימודים]], [[critical-thinking|חשיבה ביקורתית]] ו[[computational-thinking|חשיבה חישובית]], חוצים כל אשכול, מפני שהמודלים המנטליים הלא מדויקים שאנשים מחזיקים לגבי בינה מלאכותית נמצאים במעלה הזרם של [[ai-misuse-learning-harm|שימוש לרעה]] ושל [[trust-calibration|אמון]] שאינו מכויל כראוי.
+המושגים הרוחביים והיסודיים של התחום מעגנים את הכיסוי של מאגר הידע ומופיעים ראשונים בסרגל הצד. הם נפתחים בקבוצת **מושגי יסוד**, כלומר המושגים שכל קורא צריך להתחיל מהם: המטרייה עצמה, [[misconceptions|תפיסות שגויות לגבי בינה מלאכותית]], [[ai-literacy|אוריינות AI]], [[agentic-ai|בינה מלאכותית סוכנית]], [[cognitive-offloading|פריקת עומס קוגניטיבי]], [[framing-ai-use-for-students|הצגת השימוש בבינה מלאכותית לסטודנטים]], [[reducing-ai-misuse|צמצום שימוש לרעה בבינה מלאכותית]], [[academic-integrity|יושר אקדמי]], [[teacher-role|הוראה]], [[learning-design|עיצוב למידה]] ו[[educational-development|פיתוח חינוכי]]. אשכול **התחום** מכסה אחר כך את [[history-of-aied|ההיסטוריה של התחום]], את [[limitations-in-aied-research|המגבלות הרוחביות של בסיס הראיות]], את [[philosophy-of-ai-in-education|הפילוסופיה שלו]], את מפת [[theories-and-frameworks|התיאוריות והמסגרות]] ואת [[theory-development-aied|פיתוח התיאוריה]] ואת [[learning-environments-as-systems|סביבות למידה כמערכות]], שמתייחסות לסביבת למידה כמערכת רב-רמתית שחלקיה מקיימים אינטראקציה. כלי או מדיניות שמוצבים ברמה אחת מייצרים השלכות ברמות האחרות. הנושאים הרוחביים, כלומר [[human-ai-collaboration|שיתוף פעולה בין אדם לבינה מלאכותית]], [[agency|סוכנות הלומד]], [[learner-identity|זהות הלומד]], [[design-thinking|חשיבה עיצובית]], [[curriculum-design|עיצוב תוכנית לימודים]], [[critical-thinking|חשיבה ביקורתית]] ו[[computational-thinking|חשיבה חישובית]], חוצים כל אשכול, מפני שהמודלים המנטליים הלא מדויקים שאנשים מחזיקים לגבי בינה מלאכותית נמצאים במעלה הזרם של [[ai-misuse-learning-harm|שימוש לרעה]] ושל [[trust-calibration|אמון]] שאינו מכויל כראוי.
 
 ## למידה והוראה
 
@@ -139,7 +143,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 בינה מלאכותית משנה גם את האופן שבו אנחנו מעריכים לומדים וגם את האופן שבו אנחנו מעריכים מערכות בינה מלאכותית עצמן:
 
-- **הערכה ומשוב:** [[assessment|הערכה]], [[formative-assessment|הערכה מעצבת]], [[summative-assessment|הערכה מסכמת]], [[authentic-assessment|הערכה אותנטית]], [[eportfolio|תיק עבודות אלקטרוני]], [[feedback|משוב]] ו[[feedback-literacy|אוריינות משוב]], [[ai-feedback-quality|איכות משוב מבוסס בינה מלאכותית]], [[peer-assessment|הערכת עמיתים]], [[oral-assessment|הערכה בעל פה]], [[automated-assessment|הערכה אוטומטית]], [[automated-essay-scoring|ניקוד חיבורים אוטומטי]] ו[[automated-question-generation|יצירת שאלות אוטומטית]]. מפני שמודל יכול כעת להפיק לפי דרישה עבודה מוגמרת ומשכנעת, מאגר הידע מציב בחזית את היכולת שנשארת של הלומד עצמו: [[evaluative-judgment|שיפוט הערכתי]], היכולת להעריך את איכות עבודתו שלו, עבודת עמיתיו ופלט הבינה המלאכותית למול קריטריונים מנומקים. זהו המבנה שמספר מחקרי משוב והערכה אותנטית מתכנסים אליו, ובהם מצב המשוב ההיברידי שהשיג תוצאות טובות ממשוב בינה מלאכותית ישיר בניסוי רב-אתרי, פער הקיימות במשוב מעצב מבוסס בינה מלאכותית, והמהלך המעשי של הערכת ההחלטות שהסטודנטים מקבלים ולא רק של התוצר. זו גם סיבה מרכזית לכך שעיצוב מחדש בעידן הבינה המלאכותית עובר מ[[ai-detection|גילוי]] למשימות שיושרן שורד בדיקה. גם [[group-work|עבודה בקבוצות]] מוערכת הן לפי התהליך והן לפי התוצר, ושם על הצוותים לנהל משא ומתן על מה נחשב למעורבות קבילה בבינה מלאכותית.
+- **הערכה ומשוב:** [[assessment|הערכה]], [[formative-assessment|הערכה מעצבת]], [[summative-assessment|הערכה מסכמת]], [[authentic-assessment|הערכה אותנטית]], [[eportfolio|תיק עבודות אלקטרוני]], [[feedback|משוב]] ו[[feedback-literacy|אוריינות משוב]], [[ai-feedback-quality|איכות משוב מבוסס בינה מלאכותית]], [[peer-assessment|הערכת עמיתים]], [[oral-assessment|הערכה בעל פה]], [[automated-assessment|הערכה אוטומטית]], [[automated-essay-scoring|ניקוד חיבורים אוטומטי]] ו[[automated-question-generation|יצירת שאלות אוטומטית]] ו[[rubrics|רובריקות]]. רובריקות הן הכלי שנושא את הקריטריונים: הממדים המוצהרים ותיאורי הרמה שהופכים קריאה של יצירה לניתנת-שחזור, והמפרט שמודל קורא כשהוא מנקד. מפני שמודל יכול כעת להפיק לפי דרישה עבודה מוגמרת ומשכנעת, מאגר הידע מציב בחזית את היכולת שנשארת של הלומד עצמו: [[evaluative-judgment|שיפוט הערכתי]], היכולת להעריך את איכות עבודתו שלו, עבודת עמיתיו ופלט הבינה המלאכותית למול קריטריונים מנומקים. זהו המבנה שמספר מחקרי משוב והערכה אותנטית מתכנסים אליו, ובהם מצב המשוב ההיברידי שהשיג תוצאות טובות ממשוב בינה מלאכותית ישיר בניסוי רב-אתרי, פער הקיימות במשוב מעצב מבוסס בינה מלאכותית, והמהלך המעשי של הערכת ההחלטות שהסטודנטים מקבלים ולא רק של התוצר. זו גם סיבה מרכזית לכך שעיצוב מחדש בעידן הבינה המלאכותית עובר מ[[ai-detection|גילוי]] למשימות שיושרן שורד בדיקה. גם [[group-work|עבודה בקבוצות]] מוערכת הן לפי התהליך והן לפי התוצר, ושם על הצוותים לנהל משא ומתן על מה נחשב למעורבות קבילה בבינה מלאכותית.
 - **מדידה ותוקף:** [[assessment-validity|תוקף ההערכה]], [[psychometrically-aware-ai|בינה מלאכותית מודעת לפסיכומטריה]], [[educational-measurement|מדידה חינוכית]], [[item-response-theory|תיאוריית תגובת הפריט]], [[self-report-measures|מדדי דיווח עצמי]] (הכלי שעומד מאחורי חלק גדול מהראיות האלה, ומגבלה חוזרת ונשנית), [[ai-detection|גילוי בינה מלאכותית]], [[remote-proctoring|פיקוח מרחוק]] ו[[academic-integrity|יושר אקדמי]].
 
 ## שיטות מחקר והערכה

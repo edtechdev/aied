@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-22T08:30:00-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,13 +10,17 @@ ai_assist:
     role: revision
     date: "2026-11-13"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: revision
+    date: "2026-11-23"
+    agent: hermes-agent
 technology: [generative-ai, intelligent-tutoring, learning-analytics, llm, prompt-engineering]
 audience: [learners]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
-connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026, richter-generative-ai-appropriation-comparative-2026]
 ---
 
 > **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with [[generative-ai|generative AI]] systems during learning and [[problem-solving|problem solving]]. [[research-methods-aied|Research]] here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to [[learning-gains|learning outcomes]], [[cognitive-offloading|cognitive offloading]], and [[agency|agency]].
@@ -82,6 +86,8 @@ Teacher-authored prompts are one such lever, but enacted rigor lags the target: 
 Non-use is itself an interaction pattern that [[pedagogy|pedagogy]] must plan for. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], studying 85 [[teacher-education|student teachers]] in three courses where GenAI use in [[assessment|assessment]] was explicitly permitted, found that 62.4% (53 of 85) declined to use it at all, far below the 79–83% adoption seen in comparable UK and Australian surveys, and that adopters' use was shallow and corrective rather than generative (proofreading 43.8%, clarity checks 34.4%, text generation only 18.8%). Their choices tracked assessment design and institutional culture rather than technical difficulty: 41.5% of non-adopters feared being wrongly accused of [[academic-integrity|plagiarism]], and nine of eleven interviewees read the permissive policy itself as a possible "trap." The gap between 32 survey-reported users and 28 self-declarations shows that students' *reported* AI interaction is shaped by graded consequences — a measurement caveat for learning-analytics accounts of student-AI interaction.
 
 - **A practice typology separates five ways of using a chatbot.** Fifteen focus groups with 61 German students distinguished support tool, learning facilitator, sole author, first author, and second author practices, and found non-use could be a source of pride rather than a deficit ([[grothe-hammer-studying-ai-chatbots-typology-2026|Grothe-Hammer et al., 2026]]).
+
+Practice theory reframes those practices as appropriation. In episodic interviews with 29 students in Indonesia, Malaysia and Germany, [[richter-generative-ai-appropriation-comparative-2026|Richter et al. (2026)]] found a predominantly instrumental stance: AI was adopted as a tool, a practical relief or a situated conversation partner, but not as something that changes what writing, researching or studying means. Because students present themselves as staying in charge and describe degrees as assignment-based and output-oriented, delegated operations become mechanically checkable and AI use stabilizes existing epistemic regimes rather than disrupting them. Adoption, on this account, turns on how well the technology fits pre-existing practices, so institutional rules and tool affordances matter less than the practical meaning students attach to their work.
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] document what open-ended dialogue with generative AI adds in peer review: students who interrogated the model rather than accepting its first suggestion produced feedback peers rated higher, and reported more task enjoyment and less [[anxiety-and-stress|anxiety]].
 

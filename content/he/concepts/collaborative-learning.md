@@ -10,11 +10,15 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-updated: "2026-11-08T11:34:07-05:00"
-source_updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-23T12:00:00-05:00"
+source_updated: "2026-11-20T09:14:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, pedagogical-partnerships, group-work, problem-based-learning, online-teaching-and-learning, active-learning, icap-framework, scaffolding, teacher-role, human-in-the-loop-ai, equity-in-ai-education, ai-literacy, k-12, higher-ed, inclusive-learning, neurodiversity, distributed-cognition, self-regulated-learning, project-based-learning, human-ai-collaboration, trust-calibration, pedagogical-agent, student-modeling, student-engagement, pedagogy]
-connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026]
+connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborative-mathematics-2026, genai-support-threaten-learning-k20-expert-consensus-2026, chen-pbl-pjbl-genai-meta-analysis-2026, jin-emergent-learner-agency-implicit-hai-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, genai-counter-learner-groupthink-2025, polished-artifacts-fragile-engagement-2026, epistemic-emotions-collaborative-problem-solving, hingle-collaborative-ai-literacy-2025, neurodivergent-computing-students, teacher-student-agency-orchestration, niari-ai-pedagogical-mediator-collaborative-learning, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, academic-league-of-ai-2026, icap-cognitive-engagement-llm-agents, llm-facilitation-timing-online-discussions, ba-ai-agents-cscl-review-2026, wei-perkins-genai-student-collaboration-scoping-2026, astra-multi-agent-tutoring-benchmark-2026, xu-genai-collaborative-space-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, chen-zou-genai-group-assessment-agency-2026, ethics-training-agents-group-ethics-discussion-2026, chen-bertopic-ai-online-learning-research-topics-2026, wang-genai-metacognitive-prompting-preconceptions-2026, bjet-many-hands-make-light-work-2026, alam-process-oriented-collaborative-essays-2026, xu-llm-role-configurations-preservice-teachers-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -66,6 +70,8 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 
 [[meta-analysis-systematic-review|סקירת היקף]] של 18 מחקרים ממפה את מחוות-ההחלפה הזו על פני עבודת קבוצה: GenAI תמכה בפיתוח ידע, ייצור רעיונות ויעילות תקשורת בעוד גם הפחיתה את הביקוש לאינטראקציית עמיתים, מו"מ ועשיית-משמעות קולקטיבית, וראיות מבויטות מצאו הצעות בינה מלאכותית חדשניות יותר ללא שיפור מובהק בחדשנות הכוללת של המשתתפים ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei and Perkins (2026)]]).
 
+ראיות מבוקרות שמות מספר על העלות היחסית הזו. [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] הקצו 33 צוותי סטודנטים לשני סטודנטים ועמית-AI או לשלושה סטודנטים; בצוותי AI, הסטודנטים בנו אחד על השני פחות (תגובתיות g = −0.78) ודיווחו על שייכות נמוכה יותר (4.58 לעומת 5.27), כשהירידה עקבה אחר כמות זמן הדיבור שה-AI תפס.
+
 **תכנון תפקידים הוא מנוף על האיכות, לא על הכרך, של בניית ידע שיתופית.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng ואח'. (2026)]] הקצו תפקידי מנחה, אנליסט ומתווכח מתחלפים ל-58 סטודנטים ל[[higher-ed|תואר שני]] ולשותף הבינה המלאכותית שלהם ב-16 קבוצות, ומצאו שהמבנה הרים את ה*תוכן* של מפות המחשבה הקבוצתיות כמעט פס SOLO שלם (M = 3.65 ל-4.59, z = 3.771, p < 0.001) בעוד ספירות הצמתים והענפים נשארו שטוחות — ארגון ולא כיסוי — במחיר עלייה מתונה בעומס קוגניטיבי [[cognitive-offloading|שיתופי]] (p = 0.023). ניתוח [[network-analysis|Lag sequential analysis]] הוסיף מעבר-עצמי של הערכה ונתיב קונפליקט-להגנה שהכלי לבדו לא ייצר, מה שממקם [[human-ai-collaboration|שיתוף פעולה אנושי-בינה מלאכותית]] כבעיית תכנון ולא כבעיית כלי.
 
 **GenAI כסוכן ומרחב בקבוצות קטנות — המצב חשוב.** [[xu-genai-collaborative-space-2026|Xu ואח'. (2026)]] מתבוננים ש*כיצד* צוות ניגש ל-GenAI מעצב שיתוף פעולה: עם ממשק שיתופי יחיד בעבודה סינכרונית, צוותים בונים-יחד "פרומפטים קולקטיביים", מפעילים מחזור משטח–הערכה–הטמעה, ומתייחסים לצ'אט כזיכרון משותף; בעבודה אסינכרונית, פרומפטינג פרטי ו"הסרת-תוויות" של פלט מפוצרים את [[explainable-ai|השקיפות]] ומעלים את העלות של תחזוקת מודל קוגניטיבי משותף. עדשת ה-GSCW (GenAI-Supported Cooperative Work) שלהם מעצבת GenAI כסוכן ניתן-תצורה (עוזר יחידני לחבר צוות) ומרחב שיתופי אינטראקטיבי — מחברים תצורת גישה ישירות לאיכות המעורבות האינטראקטיבית הרלוונטית-[[icap-framework|ICAP]].
@@ -102,6 +108,7 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 ## הנחיות פרקטיות
 
 - **מלאו שיתוף פעולה, לא רק את היחיד.** כלים שעוקבים אחר מצב דיידי או קבוצתי (כמו ש[[golrang-propact-pair-programming-2026|ProPACT]] עושה) יכולים לספק פיגום לשיתוף הפעולה עצמו, וחיזוי ומניעת התמוטגויות במקום להגיב אליהן.
+- **לכתוב שיתוף פעולה לתוך הציון, ולא לתוך המפרט.** Alam ו-Jackson עיצבו מחדש מודול ראשון לנתחי עסקים כך ש-23 סטודנטים ב-11 צוותים כתבו חיבור בן 1,500 מילים מופע עם שני שלבים מתועדים לפחות, והפכו את האיטרציה ושיתוף הפעולה לקריטריונים מפורשים לציון. הם טוענים שהציון, ולא התזכורת, הוא מה שהופך את ראיות התהליך לנשאת-משקל, ושאיכות שיתוף הפעולה עדיין הייתה צריכה להיות [[scaffolding|מפוגמת]] בכיתה לפני שהצוותים יכלו להשתמש בה בעצמם ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **שמרו קונפליקט קוגניטיבי.** מבנים בינה מלאכותית כשותף ארגומנטטיבי שחושף אי-הסכמה והנחות מרומזות, נמנע מבעיית הארטיפקטים המלוטשים שבה בינה מלאכותית מחליקה על מעורבות אפיסטמית פגיעה.
 - **פרסונות קונטריאריות יש עולות אפקטיביות.** על פני 97 שלישיות, בינה מלאכותית קונטריארית דחפה דיסקורס לעבר אתגור והגות אך הורידה שביעות רצון עבודת-צוות (ε² = .062) וביטחון פסיכולוגי (ε² = .114) ללא הרמת פלט יצירתי ([[jin-emergent-learner-agency-implicit-hai-2026|Jin ואח'. (2026)]]).
 
@@ -114,6 +121,12 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, lin-ai-peer-collaborati
 - **תכננו את הצפיה/התשומת לב שקדמה לתרומה.** למידה שיתופית בפורומי דיון [[online-teaching-and-learning|מקוונים]] תלויה לא רק בפרסום אלא בקריאה שקדמה לו. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] מראים שסיכומי דיון ודוגמאות-פוסט המיוצרים על ידי מודל שפה גדול יכולים לפעול כ[[scaffolding|פיגומי]] ניווט שמרחיבים את החשיפה של סטודנטים לתרומות העמיתים ואת תנאי הרשת להון חברתי מגשר (קשר חלש) — תמיכה שצריכה להשלים, לא להחליף, אסטרטגיות סוציו-פדגוגיות לתחזוקת מעורבות תחת עומס עבודה אקדמי.
 
 - **הצד החברתי מראה שיבוש ללא רווח מנוגד.** על פני חמישה תהליכי שיתוף פעולה, קונסנזוס של 30 מומחים הגיע לפגיעות בלבד, עם דירוגי שיפור מתחת לסף: חיבור חברתי (3.80 לעומת שיפור 1.90), פיתוח סוציו-רגשי (3.60 לעומת 2.00), למידה חברתית, למידה שיתופית ותחושת שייכות (כולם 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon ואח'., 2026]]). הדו"ח מתייחס לאסימטריה כמטרת תכנון, מכיוון שפתרון בעיות שיתופי מעוגן במוצר משותף בעוד למידה שיתופית אין פרפקט נראה ויכולה להישחק ללא זיהוי.
+
+מעמד עמית נרכש חברתית. יכולת מתמטית כמעט לא נכנסה להערכות. שבעה חוקרי מומחי-תחום בילו כעשרים דקות כל אחד בפתרון משוואות ריבועיות עם סוכן LLM אדפטיבי בעל פרסונה מבוססת Big Five, ואז הסבירו את הערכותיהם בראיונות. הם העריכו אותו כמעט אך ורק לפי התנהגותו: הוא יצר מרחב לא-שיפוטי, הגיש בהיסוס במקום להצהיר, הציג אי-שלמות הולמת, והשאיר את רעיונות הלומד שלמים. עבור עיצוב [[agentic-ai|סוכנים]], זה הפך את הסדר הרגיל של חשיבות — פותר מיומן שמציג את עצמו כסמכות מערער את המסגרת השיתופית לא משנה כמה תשובותיו טובות ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]]).
+
+- מערכת אנליטית מפורשת קיימת כעת לתמיכה אדפטיבית: לאורך 83 מחקרים ניסויים וכמעט-ניסויים שדווחו ב-80 מאמרים (2004–2023), תמיכה המותאמת לפעילות שיתופית רוכזה ב-g = .73, 95% CI [.56, .90], הגדולה ביותר לידע אישי (g = .93) והקטנה ביותר להשפעה (g = .28) ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
+
+- **תפקיד ה-LLM שהוקצה משנה את שיתוף הפעולה, לא רק את הפלט.** עם 210 מורים קדם-שירות, [[xu-llm-role-configurations-preservice-teachers-2026|Xu, Lu and Yang (2026)]] מצאו שתפקיד תומך העלה את האוריינות לבינה מלאכותית והוריד עומס מנטלי, בעוד תפקיד מאתגר הכפיל בערך את צפיפות השילוב במאמץ מנטלי גבוה יותר.
 
 ## תפיסות מוטעות נפוצות
 

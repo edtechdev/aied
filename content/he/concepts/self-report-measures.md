@@ -1,7 +1,7 @@
 ---
 title: מידות דיווח-עצמי
 created: "2026-10-12T19:15:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,10 +14,14 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -27,7 +31,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
-connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
+connected_articles: [adaptive-pretesting-retention, ai-literacy-assessment-misalignment, ai-literacy-self-assessment-questionnaire-primary-2025, ai-use-critical-thinking-medical-students-2026, ai-vocational-education-training-review, assessing-teachers-ai-literacy-measurement-tools-2026, capability-decision-model-teacher-readiness-2026, competent-generative-ai-use-measures-review-2026, engagement-intensity-learner-modeling, fouad-bentley-trust-utility-gap-physics-2026, genai-motivation-engagement-2026, genai-student-experiences-uk-he-survey-2026, hawkins-feedback-literacy-ai-essay-writing, high-school-genai-acceptance-tam-physics-2026, huang-genai-academic-information-resources-2026, jarvie-jiving-llms-programming-self-efficacy-2026, jelson-students-chatgpt-essay-writing-2026, jin-glat-genai-literacy-assessment, kares-xai-evaluation-alignment-2027, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, martinez-genai-accessibility-minnesota-educators-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, onodipe-enhance-not-replace-ai-classroom-2026, pause-ai-cognitive-offloading-self-reflection-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, predicting-attrition-competitive-programming, same-construct-same-conclusion-self-report-vs-performance-2026, student-genai-use-views-writing, student-llm-interaction-taxonomy-review-2026, tischkau-ai-simulated-patient-formats-2026, tracing-genai-literacy-interaction-patterns, voice-based-ai-feedback-interviews-higher-ed-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -54,7 +58,7 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 
 ## מה שדיווח-עצמי יכול ולא יכול לבסס
 
-דיווח-עצמי מתאים היטב לעמדות, אמונות, כוונות, תפיסות של כלי, מצבים אפקטיביים, וביטחון או קושי המוערך-עצמית. סקירת היקף של 394 מחקרי GenAI בהשכלה גבוהה מצאה שסולמות שאלון הם שיטת ההערכה המדווחת השכיחה ביותר (269 מחקרים, 68.3%), לפני מבחנים/בוחנים/רובריקות (185, 47.0%) וניתוח ארטיפקטים (167, 42.4%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). הוא מתאים poorly להתנהגות, ואינו יכול למדוד למידה כלל: אמונתו של אדם שלמד משהו היא עצמה תפיסה, ומאגר הידע מתייחס ללמידה נתפסת ככמות נבדלת מ[[learning-gains|הישגי למידה]].
+דיווח-עצמי מתאים היטב לעמדות, אמונות, כוונות, תפיסות של כלי, מצבים אפקטיביים, וביטחון או קושי המוערך-עצמית. סקירת היקף של 394 מחקרי GenAI בהשכלה גבוהה מצאה שסולמות שאלון הם שיטת ההערכה המדווחת השכיחה ביותר (269 מחקרים, 68.3%), לפני מבחנים/בוחנים/[[rubrics|רובריקות]] (185, 47.0%) וניתוח ארטיפקטים (167, 42.4%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). הוא מתאים בצורה גרועה להתנהגות, ואינו יכול למדוד למידה כלל: אמונתו של אדם שלמד משהו היא עצמה תפיסה, ומאגר הידע מתייחס ללמידה נתפסת ככמות נבדלת מ[[learning-gains|הישגי למידה]].
 
 המשמעות היא מערכת טענות שנראות דומות בסעיף תוצאות אך שונות בחוזקות:
 
@@ -79,7 +83,9 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 
 עקבות התנהגותיות יכולות להפריד בין לומדים שסולם דיווח-עצמי אינו מפריד ביניהם: [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] מצאו שעומס קוגניטיבי מדווח-עצמית לא נבדל באופן מובהק בין פרופילי פריקה שנעו מ‑80% ל‑2% בכתיבת חיבורים, בעוד שהפורקים הכבדים ביותר דיווחו בכל זאת על הדרישה המנטלית הגבוהה ביותר.
 
-[[ai-literacy-assessment-misalignment|מחקר שבנה מידות מקבילות של דיווח-עצמי ואובייקטיביות לאוריינות AI של מורים]] מצא **התאמה חלשה בין גורמי הדיווח-העצמי לגורמים האובייקטיביים (r = 0.07 עד r = 0.24)** במדגם של 288 מורים. ניתוח גורמים מאשר תמך בתוקפות המבנית של שתי המידות תוך שהוא מראה **מתאמים נמוך בין גורמי הדיווח-העצמי לגורמים האובייקטיביים**. שני המכשירים היו אמינים; הם פשוט מדדו דברים שונים. במדגם המלא של 288 מורים המתאמים בין הגורמים האובייקטיביים למדווחים-עצמית נעות מ-r = 0.07 עד r = 0.24, ו[[latent-profile-analysis|ניתוח פרופילים לטנטיים]] מצא 43 מורים שדירו את עצמם גבוה בזמן שקיבלו ציון נמוך יותר במידה האובייקטיבית, לעומת 59 שהראו את הדפוס ההפוך.
+[[ai-literacy-assessment-misalignment|מחקר שבנה מידות מקבילות של דיווח-עצמי ואובייקטיביות לאוריינות AI של מורים]]
+שני פריטים יכולים להפיק את הפער. ב[[martinez-genai-accessibility-minnesota-educators-2026|סקר של מחנכי מינסוטה]], 83.1% אישרו את הטענה שבינה מלאכותית יוצרת מועילה לנגישות בעוד 31.9% דיווחו על שימוש בה למטרה זו. הפריט השני היה בחירה-כוללת, ולכן אי-בחירה מערבבת "לא משתמש" עם "לא ראה את האפשרות" — תוצר של ניסוח הפריט ולא ממצא על המחנכים.
+מצא **התאמה חלשה בין גורמי הדיווח-העצמי לגורמים האובייקטיביים (r = 0.07 עד r = 0.24)** במדגם של 288 מורים. ניתוח גורמים מאשר תמך בתוקפות המבנית של שתי המידות תוך שהוא מראה **מתאמים נמוך בין גורמי הדיווח-העצמי לגורמים האובייקטיביים**. שני המכשירים היו אמינים; הם פשוט מדדו דברים שונים. במדגם המלא של 288 מורים המתאמים בין הגורמים האובייקטיביים למדווחים-עצמית נעות מ-r = 0.07 עד r = 0.24, ו[[latent-profile-analysis|ניתוח פרופילים לטנטיים]] מצא 43 מורים שדירו את עצמם גבוה בזמן שקיבלו ציון נמוך יותר במידה האובייקטיבית, לעומת 59 שהראו את הדפוס ההפוך.
 
 [[jin-glat-genai-literacy-assessment|GLAT]] מגיע לאותה מסקנה מהכיוון השני: מבחן הביצוע שלו בן 20 הפריטים חזה ביצועים במשימות למידה נתמכות-[[generative-ai|GenAI]] במחקר תוך-נחקר של 83 סטודנטים, **בעוד שאוריינות ChatGPT מדווחת-עצמית לא חזה**. המסגרת של המחברים גלויה — מכשירים בתחום הזה מסתמכים במידה מופרזת על סקרים מדווחים-עצמית, "המלכדים מיומנות נתפסת ולא ממשית ועלולים להטיה ולהערכה-יתרה".
 
@@ -93,9 +99,9 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 
 ספריית אוניברסיטה אחת העמידה את שני הזרמים מול אותן טענות ומצאה שהם מצביעים לכיוונים שונים. ההשאלות המודפסות השנתיות ירדו מ-406,120 ב-2017 ל-46,339 ב-2025 והלווים הייחודיים מ-30,033 ל-7,278, אך הירידה החלה לפני תקופת ה-GenAI, ונקודת השבירה בינואר 2023 לא הראתה שינוי ברמה או בשיפוע. הסקר העמיד את המשקל ההסברתי על מבנים: דרישת קריאה מעמיקה חזה כוונת המשך להדפסה ב-H1 β = 0.908, בעוד שנתיב ההחלפה המשוער היה כמעט אפס (H4 β = 0.038, *p* = 0.631), ותכונות AI בפלטפורמה היו 0.53% מהפעולות במחצית הראשונה של 2026. לא ניתן היה לקשר בין המשיבים לרשומות ההשאלה תחת כללי ממשל נתונים, ולכן את הפער אפשר לקרוא רק ברמת האוכלוסייה, לא אדם-אדם ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
 
-ספרות המכשירים עצמה ניתנת לקריאה כראיה לקנה המידה של הפער. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] העריכו 33 מכשירים לאוריינות AI של מורים ומצאו ש-31 (93.9%) היו סולמות דיווח-עצמי של ביטחון נתפס, רק שניים (6.1%) בדקו ידע באופן אובייקטיבי, ואף אחד לא השתמש במשימות מבוססות-ביצוע בין 2019 ל-2025. המסקנה שלהם היא זו שהעמוד הזה ממשיך להגיע אליה מכיוונים אחרים: ציוני דיווח-עצמי מאינדקסים ביטחון ולא יכולת, ולכן אינם יכולים לעמוד במקום מיומנות כאשר קבוצות או תוכניות מושווings.
+ספרות המכשירים עצמה ניתנת לקריאה כראיה לקנה המידה של הפער. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] העריכו 33 מכשירים לאוריינות AI של מורים ומצאו ש-31 (93.9%) היו סולמות דיווח-עצמי של ביטחון נתפס, רק שניים (6.1%) בדקו ידע באופן אובייקטיבי, ואף אחד לא השתמש במשימות מבוססות-ביצוע בין 2019 ל-2025. המסקנה שלהם היא זו שהעמוד הזה ממשיך להגיע אליה מכיוונים אחרים: ציוני דיווח-עצמי מאינדקסים ביטחון ולא יכולת, ולכן אינם יכולים לעמוד במקום מיומנות כאשר קבוצות או תוכניות מושוים.
 
-מידות תוצאה יורשות את אותו הפער. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] ממשmodelled את הדרך מ[[agentic-ai|AI סוכני]] דרך מוטיבציה ו[[community-of-inquiry|נוכחות חברתית]] למה שהם מכנים ביצוע למידה, עם מקדם של 0.671 — היחס החזק ביותר במחקר — וסעיף המגבלות שלהם עצמו קובע שמשתנה התלות הזה משקף תפיסות הלומדים ולא תוצאות בחינות, ביצועי מטלות או [[learning-analytics|אנליטיקת למידה]]. זו התבנית שיש לקרוא בקפידה במודלי מסלול בכלל: מקדם גדול על תוצאה נתפסת מכמה בצורה עקבית שהסטודנטים מאמינים שמשהו עזר, ואינו אומר דבר עדיין על אם זה עזר.
+מידות תוצאה יורשות את אותו הפער. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] ממדל את הדרך מ[[agentic-ai|AI סוכני]] דרך מוטיבציה ו[[community-of-inquiry|נוכחות חברתית]] למה שהם מכנים ביצוע למידה, עם מקדם של 0.671 — היחס החזק ביותר במחקר — וסעיף המגבלות שלהם עצמו קובע שמשתנה התלות הזה משקף תפיסות הלומדים ולא תוצאות בחינות, ביצועי מטלות או [[learning-analytics|אנליטיקת למידה]]. זו התבנית שיש לקרוא בקפידה במודלי מסלול בכלל: מקדם גדול על תוצאה נתפסת מכמה בצורה עקבית שהסטודנטים מאמינים שמשהו עזר, ואינו אומר דבר עדיין על אם זה עזר.
 
 כוונה היא המקרה החד ביותר של הפער הזה, מכיוון שציון כוונה אחד יכול לכסות התנהגויות הפוכות. בהעברה חוזרת של פריטים ל‑68 מתוך 340 הסטודנטים ובראיונות עם שמונה מהם, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ו‑Lu (2026)]] מצאו שאותה כוונה מוצהרת כיסתה שימוש מוכוון-למידה, מוכוון-קיצור דרך ומעורב — כאשר משתמשי הקיצור דרך ציינו ביטחון נמוך ולא חוסר עניין.
 
@@ -110,7 +116,13 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - [[preferred-scaffolding-ai-mathematical-modeling|מחקר פיגום]] טוען שתועלת נתפסת, קלות שימוש ושביעות רצון מיידית אינם צריכים להיטופל כמחוונים מספיקים ליעילות ה[[scaffolding|פיגום]].
 - [[nie-personavlm-long-term-personalization-2026|על מידול-סטודנטיות המותאם-אישיות]] מציין שאופטימיזציה לשביעות רצון של המשתמש אינה זהה לאופטימיזציה לתוצאות למידה, ושניים יכולים להיפרד.
 
+- [[kares-xai-evaluation-alignment-2027|מחקר XAI רשום-מראש (Kares et al., 2027)]] השווה שלוש שיטות הסבר עם 166 משתתפים ומצא שדירוגי שביעות רצון (3.98, 3.92, 3.87) ואמון אינם ניתנים להבחנה סטטיסטית, בעוד מדד משימה הפריד בין השיטות ומדד מתמטי דירג אותן בכיוון ההפוך. הדירוג לא נתן אות היכן שמדד היכולת נתן.
+
 התבנית ששווה לשאת עמכם: שביעות רצון מגיבה לדברים הלא-נכונים כשהמטרה היא למידה. מערכת שמשיבה במהירות, מסכימה במהרה ומפחיתה מאמץ תדורג גבוה, ואותן תכונות הן אלו שמאגר הידע מקשר ל[[desirable-difficulties|מאבק מועיל]] מופחת ולביצועים מונפחים על עבודה בסיוע AI. שביעות רצון מדווחת ולמידה נמדדת אינן אויבות; הן פשוט לא תחליפות, וטיפול בראשונה כעדות לשנייה היא ההחלקה הנפוצה ביותר שהעמוד הזה מתעד.
+
+המקרה הנקי ביותר תוך-נחקר בספרות מדד את שתי הכמויות על אותם סטודנטים. [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe et al. (2025)]] סקרו סטודנטים לסטטיסטיקה עסקית ולכלכלה לאורך שני סמסטרים תוך שילוב של הנחיית חונך, סקירת בחינות מופקת-AI, בחינות בעל-פה מובנות-AI ומוח-ערה לנושא בסיוע AI. תדירות השימוש ב-ChatGPT מדווחת-עצמית עלה מ-2.987 ל-4.375 בסולם 1-7 (p < .001), הביטחון מ-3.663 ל-4.000 (p = .004), והמעורבות הנתפסת מ-2.433 ל-2.65 בסולם 1-3 (p = .006) — סיפור עקבי של סטודנטים שהשתמשו בכלי יותר והאמינו שהוא עזר.
+
+ציוני בחינות סיפרו סיפור אחר: תדירות השימוש לא הייתה קשורה לביצועים במודל הפשוט (-5.577, SE 5.566) והייתה קשורה בשליל במודל המלא (-13.918, SE 7.834, p = .076). המחברים אינם מתייחסים לאפס כהוכחת נזק, מכיוון שסטודנטים מתקשים עשויים להשתמש ב-AI יותר; מה שהמחקר אכן מראה הוא תנועה מובהקת בכל מדד תפיסתי ללא תנועה מתאימה בביצועים מדורגים.
 
 **מדדי תפיסה עולים על מדדי מיומנות בספרות החקירה עם בינה מלאכותית יוצרת.** בסקירה של 66 מחקרים, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] מצאו שתפיסות משתמשים הן תחום התוצאה המדווח ביותר (32 מחקרים, 48.5%), ואחריהן תוצאות אפקטיביות ב-25, בעוד שרק 8 מחקרים (12.1%) מדדו מיומנויות חקירה ו-4 מהם כללו תנאי השוואה. המחברים לא דירגו שום ודאות ראיה, ולכן ספירות התפיסה מתארות מה נשאל ולא מה הושג.
 
@@ -124,6 +136,10 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - **חלופת ביצוע כאשר המיומנות היא המבנה.** 20 הפריטים אמר רב-ברירה של GLAT קיימים בדיוק מכיוון שדיווח-עצמי אינו יכול לשאת טענת מיומנות.
 
 **רוב המכשירים בתחום הזה מדווחים מהימנות וכמעט אף אחד אינו מדווח תוקפות.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] מצטטים את סקירתם של Su et al. של 36 מחקרי אוריינות AI, שמצאה ש-63.8% מהכלים דיווחו ראיות מהימנות ופחות מ-20% דיווחו ראיות תוקפות. אותה סקירה מצאה רק מכשיר אחד ייעודי לבינה מלאכותית יוצרת, ה-GAIAS בן 27 הפריטים, בקרב 50 מסגרות [[k-12|K-12]]. סולם עם עקביות פנימית אינו אומר דבר על האם הוא מודד את המבנה הנקוב בכותרתו.
+
+סקר סגל אחרון מראה את הכשל בצורתו הקיצונית. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] העבירו 300 פריטים ל-315 חברי סגל אוניברסיטה, דיווחו α = 0.997 לסולם הכולל, ולא הריצו ניתוח גורמים, ועם זאת מודל Naive Bayes סיווג 314 מתוך 315 משיבים נכון (דיוק 0.9968) לפסי כשירות נמוכה, בינונית וגבוהה. מכשיר שפריטיו מתנהגים ככפילויות-קרובות ניתן לחיזוי כמעט מושלם ממספר קטן של משתנים דמוגרפיים ומוסדיים כי שומר מעט מידע עצמאי: המחברים מצאו שהשיוך הוא התורם הגלובלי הגדול ביותר בניתוח SHAP שלהם, ונקודות החתך שהגדירו את שלושת פסי הכשירות לא נשמרו.
+
+ניסוח פרה-פוסט יכול להפיק את השינוי שהוא מדווח עליו. בפיילוט דו-קבוצתי של מטופל מדומה-AI, [[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]] ניסחו פריטים טרום-המפגש כציפיות ופריטים אחרי-המפגש כחוויה, כך שציוני ההפרש השוו ציפיה עם זיכרון. גרסת BSLS-P הזמנית שלהם החזירה אלפא של תת-סולמות מ−0.39 עד 0.87 לאורך ההפעלות, ובחירות פריטים שלא זזו יחד עדיין נשאו טענת בטיחות פסיכולוגית.
 
 ## דגימה, תגובה, ואי-תגובה
 
@@ -151,11 +167,14 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - **טריאנגולציה.** עיצובי [[genai-over-reliance-learning-2026|שיטה-מעורבת]] ו[[mixed-methods-research|מחקר שיטה-מעורבת]] באופן כללי מחליפים גודל מדגם ביכולת לבדוק מקור נתונים אחד מול אחר; [[ai-vocational-education-training-review|סקירה שיטתית של חינוך והכשרה מקצועיים]] הוראה בנוגע לחוסר-האיזון, מציינת שמבין המחקרים הכמותיים שבחנה, 2 הסתמכו באופן בלעדי על דיווח-עצמי בעוד 5 השתמשו במידות אובייקטיביות בלבד.
 - **מידת התוצאה שאכפת לכם ממנה.** אם הטענה היא על למידה, [[learning-gains|הישגי למידה]] חייבים להימדד, לא להיות מוסקים משביעות רצון.
 
+- **בדקו דיווחים-עצמיים מול הרשומה.** [[pinto-student-ownership-ai-agents-code-2026|Pinto et al. (2026)]] שאלו 33 סטודנטים להנדסת תוכנה מה כתבו והשוו את התשובות להיסטוריית הקומיטים שלהם: מחברות מדווחת לא הייתה קשורה למה שהקומיטים מכריזים, ולכן הסיפור העצמי של הסטודנטים על תרומתם לא יכל לעמוד במקומו.
+
 ## כיצד לקרוא טענת דיווח-עצמי
 
 - שאלו איזה סוג טענה זו. תפיסות הן משחק הוגן; התנהגות מקורבת; למידה ומיומנות אינן נגישות בדרך זו.
 - בדקו מי ענה ומי לא. שיעור תגובה, מסגרת דגימה ובחירה-עצמית קובעים מה שהאחוזים מתארים — מחקר על סטודנטים של מוסד אחד מתאר את ההקשר הזה, לא סטודנטים בכלל.
 - בדקו את המכשיר. האם הוא אומת למבנה ולאוכלוסייה הזו, ואם קבוצות מושוות, האם נבדקה שמירות?
+- בדקו את ההתפלגות לפני שסומכים על המבחן. שני הגורמים של סולם מאומת להערכה-עצמית של תכנות זזו במבחני סימן (p = .0074 ו-p = .012) בעוד החציון של גורף 1 נשאר 5.87 מפרה-בדיקה לפוסט-בדיקה, וכל הגורמים היו מוטים שלילית ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]]).
 - היזהרו מעיצובי מקור-אחד. אם החוזים והתוצאות מגיעים מאותו שאלון בנקודת זמן אחת, המתאמים עקביים עם שונות שיטה-משותפת כמו עם התאוריה המוצעת.
 - התייחסו לשביעות רצון כאות עיצוב, לא כתוצאת למידה. שביעות רצון גבוהה בתוספת למידה לא-נבדקת היא התצורה הסטנדרטית בהערכת כלי AI, והקורפוס הזה מראה את השניים נבדלים.
 - העדיפו מחקרים שמראים את העבודה שלהם: שיעורי תגובה מצוינים, מגבלות מצוינות, ולפחות מקור אחד של ראיה שלא מגיע משאילה.

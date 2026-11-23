@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-22T12:23:33-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,8 +12,13 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
+ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: revision
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
-connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026, rothwell-ai-interpersonal-skills-undergraduate-teams-2026]
 ---
 
 > **Group work** — learning and graded work produced by a team rather than an individual, used to develop collaboration, communication, and shared responsibility while also generating an outcome and often a grade for each member. It sits where [[assessment|assessment design]] and [[collaborative-learning|collaborative learning]] meet, and it inherits the tensions of both: free-riding and social loafing, unequal contributions, conflict avoidance, and the difficulty of attributing a collective product to individual learning. [[generative-ai|Generative AI]] intensifies these because teams must now negotiate whose and what kind of AI [[student-engagement|engagement]] counts as acceptable — a negotiation that [[agency|agency]] [[research-methods-aied|research]] shows can resolve in opposite directions within a single cohort, and that [[agentic-ai|AI agents]] joining the group can themselves reshape.
@@ -39,6 +44,7 @@ Group work occupies a distinctive place in [[higher-ed|higher education]] and [[
 - **The collaboration has to be designed, not assumed.** Where a task can be partitioned into independent subtasks, students take that route and the group becomes a submission format rather than a joint intellectual endeavor. [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found three of their fifteen groups doing exactly this — dividing the work, working on "individual platforms," and never pooling their individual GenAI capabilities even when coherence was an explicit assessment criterion.
 - **Process versus product.** Group work is strongest when the process is assessed alongside the output, which requires [[peer-assessment|peer assessment]] or other visible intermediates rather than a single final artifact.
 - **[[equity-in-ai-education|Equity]] and [[inclusive-learning|inclusion]].** Contribution norms, language, and confidence distribute unequally inside groups. [[neurodivergent-computing-students|Neurodivergent students]] report needing structured assignments, small consistent teams, and explicitly defined roles — requirements that AI collaboration tools, often built for the "average" learner, routinely fail to accommodate.
+- **Rehearsing the hard conversation.** Group work's most avoided moment is often interpersonal: telling a teammate their deadlines were missed and inviting their account. A focused narrative review of nine studies ([[rothwell-ai-interpersonal-skills-undergraduate-teams-2026|Rothwell, 2026]]) separates three outcomes instructors tend to conflate — learners' confidence after chatbot rehearsal, performance while AI suggestions remain available, and unaided performance with a human partner — and finds only the third establishes transfer, with direct evidence from undergraduate teamwork still limited. The proposed exercise therefore stages a baseline triad conversation, chatbot rehearsal with behavior-based feedback, and unaided near-transfer and delayed-retention rounds without the tool, so improvement cannot be attributed to prompts available at the moment of performance.
 
 ## How AI changes group work
 

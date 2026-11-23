@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -94,7 +94,7 @@ Structure, not prompt phrasing, is what makes AI drafting reliable in production
 
 ## Connections to related concepts
 
-Curriculum design connects directly to [[learning-design|learning design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy|AI literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role|teacher role]] and [[educational-development|educational development]] because curriculum change requires educator preparation, and to [[scaffolding|scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed|higher education]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
+Curriculum design connects directly to [[learning-design|learning design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy|AI literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role|teacher role]] and [[educational-development|educational development]] because curriculum change requires educator preparation, and to [[scaffolding|scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed|higher education]] and [[k-12]] connections reflect curriculum design's relevance across educational levels. At program level it is one of the levels [[learning-environments-as-systems|learning environments as systems]] treats as interacting with the course, the institution and policy.
 
 **Choosing one AI literacy framework means choosing a vocabulary nobody has crosswalked.** In a scoping review of 50 K-12 frameworks, [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] found competency definitions converging on cognitive, affective, behavioral, ethical and social dimensions while the labels and constructs did not align. Only the ABCE framework approached a shared measurement tradition, validated across Hong Kong, Shanghai and Taiwan, and progression across grade bands was proposed repeatedly and tested nowhere.
 

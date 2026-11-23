@@ -1,7 +1,7 @@
 ---
 title: למידה חברתית-רגשית
 created: "2026-10-12T19:15:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,10 +12,14 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -46,6 +50,7 @@ connected_articles: [liu-genai-sel-mapping-review-2026, sec-ai-literacy-narrativ
 
 ### כיצד SEL מופיעה במחקר
 
+- **אמפתיה היא הקצה הרגשי של SEL, והיא הכי קשה להערכה.** [[empathy]] מכסה את הראיות על הוראתה ומדידתה: משחק תפקיד, מציאות מדומה ודיאלוג עם דגמי שפה גדולים מעלים כולם את ציוני הדיווח-העצמי, דירוגי צופים נשארים עקביים, ופרוקסי ראיית-מחשב הופכיים כשמדובר בחיוך. קראו את הראיות האלה לפני שתתייחסו לרווח באמפתיה כאל ראיה שהתכנית הצליחה.
 - **שילוב SEC באוריינות בבינה המלאכותית:** [[sec-ai-literacy-narrative-review-2026|הסקירה הנרטיבית של Palmquist et al.]] מציעה מסגרת משולבת המשלבת אוריינות בבינה מלאכותית עם יכולות חברתיות-רגשיות, בטענה שיעילות טכנית בלבד אינה מספיקה — מחנכים וסטודנטים זקוקים הן לאינטליגנציה טכנולוגית והן לרגשית כדי לנווט בסביבות למידה המתווכות בבינה מלאכותית, תוך טיפוח [[personalized-learning|למידה מותאמת אישית]], שיתוף פעולה ו[[student-engagement|מעורבות]] אתית.
 
 - **מורים ופרקטיקה יחסית:** מחקר על [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|מסגרות אוריינות בבינה מלאכותית]] ועל [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|אמון מורה-סטודנט]] מדגיש ש-SEL תומכת בממדים היחסיים של הלמידה (יחסי מורה-סטודנט ויחסי סטודנט-סטודנט), ועל בינה מלאכותית להשלים אותם ולא להחליפם.

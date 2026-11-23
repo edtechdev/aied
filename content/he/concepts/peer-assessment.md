@@ -1,7 +1,7 @@
 ---
 title: הערכה עמיתים
 created: "2026-10-12T19:05:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,10 +10,14 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -33,7 +37,7 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 ## שאלות למחשבה
 
 - חשבו על פעם שבה עבודתכם הוערכה על ידי עמית — או שבה הערכתם את שלהם. ממה למדתם יותר: ממתן המשוב או מקבלתו, ומדוע?
-- מדוע משוב של תלמיד עשוי להיות מודע-הקשר ותומך-רגשית יותר ממשוב של בינה מלאכותית, בעוד בו-זמנית משוב הבינה המלאכותית עקבי יותר ומונחה-מחוון יותר? כיצד השניים יכולים להשלים זה את זה?
+- מדוע משוב של תלמיד עשוי להיות מודע-הקשר ותומך-רגשית יותר ממשוב של בינה מלאכותית, בעוד בו-זמנית משוב הבינה המלאכותית עקבי יותר ומונחה-[[rubrics|מחוון]] יותר? כיצד השניים יכולים להשלים זה את זה?
 - עמיתים נוטים להוריד ציונים מעבודה חזקה ובינה מלאכותית נוטה לנפח עבודה חלשה. אם אף אחד מהם אינו מדויק באופן מהימן לאורך כל טווח האיכות, לאיזה שימוש יש להקצות ציון מכל מקור?
 - הערכה עמיתים תלויה במידה רבה ב[[scaffolding]] ובקריטריונים ברורים, והטיית חברות וחברתי [[anxiety-and-stress|חרדה]] יכולים להפוך סקירת עמיתים לא מאומנת לגרועה ממצב של אי-סקירה. כיצד נראה אימון הולם בהקשר שלכם?
 - אם בינה מלאכותית מסוגלת לנסח טיוטות של הערות על ארגון ומבנה, האם זה הופך את הערכת העמיתית למיותרת — או שזה משחרר את העמיתים לתת את המשוב הספציפי והמודע-קהל שרק הם יכולים לתת?

@@ -68,7 +68,7 @@ This is a landmark historical piece that anchors the knowledge base's developing
 - **Educators.** Expect new tools to conform to existing assessment and standardization structures rather than disrupt them — Anderson's cognitive tutors did exactly that when the team aligned design with curriculum standards — and treat transformation claims as something to verify in your own setting.
 - **Administrators.** Treat AI adoption as a governance decision with an explicit stance: the tutoring model fits institutional and corporate interests in measuring, tracking, and optimizing learning, while constructionist use requires tolerating ambiguous outcomes and rethinking how learning is assessed.
 - **Researchers.** Use the cybernetic counterfactual as an analytic lens, asking whether a design emphasizes interconnection over isolation, feedback over prediction, adaptation over optimization, and [[self-regulated-learning|self-regulation]] over external control.
-- **Researchers.** Study the language and institutional forces of the field itself, since the paper shows that terminological choices carry ideological commitments and that institutions repeatedly select approaches that reinforce existing structures.
+- **Researchers.** Study the language and institutional forces of the field itself, since the paper shows that terminological choices carry ideological commitments and that institutions repeatedly select approaches that reinforce existing structures. Its control-versus-agency question is a level question as much as a tool question: who holds control at the learner, course and institutional level is what [[learning-environments-as-systems|learning environments as systems]] asks you to name.
 
 ## Limitations
 

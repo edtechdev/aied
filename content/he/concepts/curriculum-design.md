@@ -1,7 +1,7 @@
 ---
 title: עיצוב תוכנית לימודים
 created: "2026-10-12T20:55:00-04:00"
-updated: "2026-11-08T06:34:27-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,10 +13,14 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -26,7 +30,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
-connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-salvaging-constructive-alignment-genai-2026, icet-ml-education-trust-2026, refrain-amplify-genai-curriculum-2026, mechanical-engineering-ai-curriculum-2026, ying-genai-journalism-assessment-2026, rook-plumb-genai-curricula-student-insights-2026, zhou-constructive-alignment-genai-business-2026, workforce-readiness-smart-manufacturing-wrl-2026, rewriting-curriculum-genai-pedagogy-2026, critical-media-literacy-education-2026, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, ai-assisted-se-curriculum-syllabus-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, curriculum-as-code-instructional-design-2026, tracing-genai-literacy-interaction-patterns, finkelstein-principled-ai-education-2025, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, learnai-just-in-time-ai-cocreation-university-2026, ai-video-dual-gatekeeping-2026, niri-steam-ai-literacy-review-2026, caruana-pre-university-ai-education-slr-2026, ai-modeling-problem-generation-platform-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, ai-particle-physics-education-redesign-2026, computing-assessment-genai-workshop-report-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, bursic-ai-residency-education-curriculum-2026, rodafinos-llm-curriculum-audit-2026]
+connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeling-problem-generation-platform-2026, ai-particle-physics-education-redesign-2026, ai-video-dual-gatekeeping-2026, ase-26-agentic-software-engineering-curriculum, bursic-ai-residency-education-curriculum-2026, caruana-pre-university-ai-education-slr-2026, computing-assessment-genai-workshop-report-2026, critical-media-literacy-education-2026, curriculum-as-code-instructional-design-2026, finkelstein-principled-ai-education-2025, genai-curriculum-analytics-mapping-higher-ed-2026, hingle-collaborative-ai-literacy-2025, icet-ml-education-trust-2026, ithaka-sr-ai-skills-college-graduates-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, learnai-just-in-time-ai-cocreation-university-2026, lee-ai-convergence-curriculum-korean-university-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mcinnes-salvaging-constructive-alignment-genai-2026, mechanical-engineering-ai-curriculum-2026, niri-steam-ai-literacy-review-2026, refrain-amplify-genai-curriculum-2026, reshaping-cs-education-genai, rewriting-curriculum-genai-pedagogy-2026, rodafinos-llm-curriculum-audit-2026, rook-plumb-genai-curricula-student-insights-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, tracing-genai-literacy-interaction-patterns, workforce-readiness-smart-manufacturing-wrl-2026, ying-genai-journalism-assessment-2026, zhou-constructive-alignment-genai-business-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -46,7 +50,7 @@ connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-
 
 עיצוב תוכנית לימודים מתייחס ל*מה* של החינוך ברמת התוכנית, ומשלים את ה[[learning-design]] שמתייחס ל*כיצד* ברמת הקורס. המאמרים במאגר הידע הזה חוקרים כיצד בינה מלאכותית מעקמת מחדש תוכניות לימודים על פני תחומי דעת — מהנדסת תוכנה, אדריכלות וחינוך ירוק — וכיצד מחנכים מתכננים תוכניות לימודים שמטמיעות אוריינות בינה מלאכותית בלי להקריב יסודות תחומיים.
 
-### נושאי מחקר מרכזיים
+## נושאי מחקר מרכזיים
 
 **עיצוב מחדש של תוכניות לימודים לעידן הבינה המלאכותית** הוא האתגר המרכזי. **[[reshaping-cs-education-genai|Lee et al.]]** סינתזו ממצאים מסדנאות בינלאומיות על עיצוב מחדש של חינוך [[cs-education|מדעי המחשב]] לתואר ראשון, בטענה שבמידה ש-GenAI מבצע אוטומציה של תכנות ברמת היישום, תוכניות לימודים חייבות להחליק לעבר עיצוב מערכות, הפשטה והערכה ביקורתית — תוך הפחתת הדגש מפרטי יישום ברמה נמוכה. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** פירמלו הנדסת תוכנה סוכנית כתחום דעת נבדל, עם תוכנית לימודים בת 21 מודולים המתמקדת ב"התפתחות הכוונה" ובמשמעת הפרקטיקני שנדרשת כדי לנהל [[agentic-ai|סוכני בינה מלאכותית]]. שניהם מתחברים ל[[ai-literacy]] ול[[scaffolding]].
 
@@ -56,7 +60,11 @@ connected_articles: [genai-curriculum-analytics-mapping-higher-ed-2026, mcinnes-
 
 שקילה משנה את מה שניתוח תוכנית לימודים מדווח: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] נתנו ל‑GPT-o3-mini לחלק 100% על פני שבע מיומנויות ארגוניות עבור כל אחת מ‑48 מטלות הערכה, והגיעו לאלפא של Krippendorff של 0.81 כנגד משקלות מומחים, אך ההסכמה הפכה שלילית עבור מיומנויות שהתיאורים אינם מציינים אותן במפורש (-0.19).
 
+ביקורת יכולה להיות שלב בפני עצמו ולא רק מחציתה הקדמית של עיצוב מחדש. [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]] מסדר ביקורת תוכנית כארבע הנחיות ביקורת שנכנסות לפגישה אחת — בדיקת בריאות תוכנית הלימודים, מבחן התאמה למשימה, מפת קורס-לכשירות ומעבר תיוג תוצאות — ואז מיפוי כשירויות מפרסומי דרושים ומתקנים דיסציפלינריים, כאשר התיקון נשמר כשלב שלישי אופציונלי. אף כשירות אינה הופכת לסדר-עדיפויות ליבה ללא שני אותות תומכים לפחות, וזה שומר על סריקת שוק העבודה מלקבוע את תוכנית הלימודים. שכבת הממשל היא מה שהופכת את ההפרדה לעובדתית: ארגז ראיות תוכנית-לימודים קבוע לאורך ריצות, יומן הנחיות שמתעד גרסה, מפעיל ומודל, בדיקות ריצה חוזרת, ויומן החלטות המקושר לגוף המאשר, כך שפלט [[llm|LLM]] נכנס לדיון הוועדה כתוצר חתום-זמן ולא כממצא.
+
 **מבנה מודולרי שורד יותר מהתוכן הנוכחי.** דפוס חוזר שבו התחום נע מהר יותר ממחזור הסקירה: ליבה יציבה של [[ai-literacy|אוריינות בינה מלאכותית]], הערכה ביקורתית, זיהוי הטיה ו[[ethics]], כאשר תוכן כלים ייחודי וזמין-מקומית מחובר כמודולים ומתעדכן כל שישה עד שנים-עשר חודשים ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). [[medical-education|חינוך רפואי]] לתארים מתקדמים הוא המקרה המוצהר, אך העיקרון מכליל: התוכנית מתחייבת לכשירויות ששורדות תחלופת כלים ומתזמנת את שכבת הכלים הספציפית להחלפה.
+
+**תוכן אתי זקוק למסגרת התמודדות, ולא רק למודעות.** בקרב 584 סטודנטים לתואר ראשון ללא תוכנית לימודים של בינה מלאכותית, כשירות העלתה מודעות אתית (β = 0.644), וזו העלתה חרדה (β = 0.439); לתת שם לבעיות מבלי ללמד כיצד הן מנוהלות הופך את המודעות לגורם הלחץ ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]).
 
 **שילוב אוריינות בינה מלאכותית** מטמיע כשירויות בינה מלאכותית על פני תחומי דעת. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** מספקת מסגרת אוריינות בינה מלאכותית משופעמת, הניתנת-ליישום בכל הגילים ובכל שלבי החינוך, ומתייחסת ל[[digital-divide|פערים דיגיטליים]] ברמה השנייה והשלישית. **[[tracing-genai-literacy-interaction-patterns]]** בודקת כיצד אוריינות בינה מלאכותית מתפתחת באמצעות דפוסי אינטראקציה. **[[hingle-collaborative-ai-literacy-2025]]** חוקרת גישות שיתופיות לפיתוח תוכנית לימודים של אוריינות בינה מלאכותית, ומתחברת ל[[collaborative-learning]].
 
@@ -92,7 +100,7 @@ LearnAI מראה כיצד נראית גרסה מוטמעת: שכבת חשיפה 
 
 **עומק ההתאמה, לא תדירות השימוש, הוא שמפריד בין דפוסי השילוב.** על פני 17 מקרים של מודולים עסקיים, שישה הטמיעו GenAI באופן שיטתי בהוראה, בלמידה ובהערכה (קונסטרוקטיבי), תשעה עשו זאת באופן לא-עקבי (מעורב) ושניים באופן ספורדי (אד הוק); המקרים הקונסטרוקטיביים דיווחו על התוצאות החזקות ביותר במעורבות, ביכולת וברלוונטיות-תוכנית-הלימודים ([[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]]).
 
-**ייעוץ התאמה-קונסטרוקטיבית תחת ביקורת ביקורתית.** במקום שהמקורות שלעיל מדווחים על התאמה בפרקטיקה, [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] קוראים את הייעוץ עצמו כדיסקורס. [[qualitative-research|ניתוח הדיסקורס הביקורתי]] שלהם של 14 קטעי ספרות אפורה שפורסמו מנובמבר 2022 עד אפריל 2025 — בעיקר דפים מוסדיים ופרקים מ[[educational-development|יחידות הוראה ולמידה]] במיקום מרכזי — מצאו את ההתאמה הקונסטרוקטיבית מוצגת כבעיית יעילות: בינה מלאכותית יוצרת הייתה "דרך יעילה ובעלת-תועלת לכתיבת רובריקות" שיכולה "לייעל את התהליך", אנטרופומורפיזציה כ"מומחה חינוכי ועוזר", כ"שותף אימון" או כ"עוזר חכם בעיצוב הוראה", בעוד סגל אקדמי סיפק רק "מומחיות תכנית" והכלי קיבל על עצמו "את העבודה הכבדה של פיתוח מטרות למידה, ארגון תוכן הקורס ... והתאמת רכיבי הקורס". מתכוני הנחיה של העתק-והדבק ותבניות ממוספרות מיסגרו את ההתאמה הקונסטרוקטיבית כמוצר ניתן-לתיקנון, והפיקו שלושה דפוסי כשל: מבצועיות (התאמה שנראית מותאמת בלבד), מחיקת הקשר ממוקם וביקורתי, והתאמה קונסטרוקטיבית שטחית המתבלבלת בין התאמה לבין הממד הקונסטרוקטיבי. התרופה שלהם מסדרת מחדש את זרימת העבודה של עיצוב תוכנית הלימודים — מחנכים חייבים להבין את ההתאמה הקונסטרוקטיבית היטב מספיק כדי לכוון, להעריך ולדחות פלט בינה מלאכותית לפני להאציל כל חלק ממנו — ומגבילה כל כלי לסוכן [[rag|מוגבר-אחזור]] מוסדי המעוגן במדיניות מקומית, רובריקות ותכונות בוגר, עם תפקיד "חונך סף" שמרחיב ולא מחליף את יחסי ה[[educational-development|מפתח]].
+**ייעוץ התאמה-קונסטרוקטיבית תחת ביקורת ביקורתית.** במקום שהמקורות שלעיל מדווחים על התאמה בפרקטיקה, [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] קוראים את הייעוץ עצמו כדיסקורס. [[qualitative-research|ניתוח הדיסקורס הביקורתי]] שלהם של 14 קטעי ספרות אפורה שפורסמו מנובמבר 2022 עד אפריל 2025 — בעיקר דפים מוסדיים ופרקים מ[[educational-development|יחידות הוראה ולמידה]] במיקום מרכזי — מצאו את ההתאמה הקונסטרוקטיבית מוצגת כבעיית יעילות: בינה מלאכותית יוצרת הייתה "דרך יעילה ובעלת-תועלת לכתיבת [[rubrics|רובריקות]]" שיכולה "לייעל את התהליך", אנטרופומורפיזציה כ"מומחה חינוכי ועוזר", כ"שותף אימון" או כ"עוזר חכם בעיצוב הוראה", בעוד סגל אקדמי סיפק רק "מומחיות תכנית" והכלי קיבל על עצמו "את העבודה הכבדה של פיתוח מטרות למידה, ארגון תוכן הקורס ... והתאמת רכיבי הקורס". מתכוני הנחיה של העתק-והדבק ותבניות ממוספרות מיסגרו את ההתאמה הקונסטרוקטיבית כמוצר ניתן-לתיקנון, והפיקו שלושה דפוסי כשל: מבצועיות (התאמה שנראית מותאמת בלבד), מחיקת הקשר ממוקם וביקורתי, והתאמה קונסטרוקטיבית שטחית המתבלבלת בין התאמה לבין הממד הקונסטרוקטיבי. התרופה שלהם מסדרת מחדש את זרימת העבודה של עיצוב תוכנית הלימודים — מחנכים חייבים להבין את ההתאמה הקונסטרוקטיבית היטב מספיק כדי לכוון, להעריך ולדחות פלט בינה מלאכותית לפני להאציל כל חלק ממנו — ומגבילה כל כלי לסוכן [[rag|מוגבר-אחזור]] מוסדי המעוגן במדיניות מקומית, רובריקות ותכונות בוגר, עם תפקיד "חונך סף" שמרחיב ולא מחליף את יחסי ה[[educational-development|מפתח]].
 
 **הפקת משימות מידול מיושרות-תוכנית-לימודים.** פלטפורמות מופעלות-בינה מלאכותית יכולות להתמודד עם חוסר הזמן והמשאבים של מורים לתכנון משימות [[math-education|מידול מתמטי]] איכותיות באמצעות הפקת בעיות מיושרות-תוכנית-לימודים והמלצות פדגוגיות המעוגנות בעקרונות עיצוב ובהפקה מוגברת-[[rag|אחזור]] — גישה המומחית עם שינוי ישיר במתמטיקה תיכונית ([[ai-modeling-problem-generation-platform-2026]]). גם קריאות הקורס עצמן הן מטרת הפקה כעת: Sidorkin (2026) החליף ספר לימודים מסחרי בקריאות הממוקמות-בינה מלאכותית שבועיות בקורס מנהיגות חינוכית לבוגרים, ואף שהסטודנטים דירגו אותן כמועילות ו-75 אחוז הסכימו שלמדו יותר מאשר בקורס מקביל, 4,487 דפי היומנים נשאו ציטוטים בתוך-טקסט בסגנון APA בכ-0.80 אחוז מהדפים בלבד, ושילבו קמפוס או מערכת בעלי-שם עם טענות מדיניות אסרטיביות בכ-1.03 אחוז מהדפים בלבד בלי מקור ניתן-לאימות. הלקח לחומרי תוכנית הלימודים הוא להתייחס לקריאות המופקות כייצור טיוטה תחת סקירת המרצה, לתקצב את עבודתו של המרצה לעיצוב הנחיה ואימות, ולאוצר מקורות שנבדקו לתוך העוזר במקום להשאיר איכות המקור לסטודנטים להסיק מההקשר.
 
@@ -100,9 +108,11 @@ LearnAI מראה כיצד נראית גרסה מוטמעת: שכבת חשיפה 
 
 מבנה, ולא ניסוח ההנחיה, הוא מה שהופך ניסוח-עזר של בינה מלאכותית לאמין בייצור: צינור Curriculum-as-Code של [[curriculum-as-code-instructional-design-2026|Paiva (2026)]] גזם בהקשר באופן אגרסיבי והפיק חומרים סעיף-אחר-סעיף לאורך 28 הקשרי פרויקט, וכך קיצר את זמן ההכנה של המרצה מכ-שמונה שעות לשתיים לכל הוראה, ולא השאיר [[hallucination-risk|הזיות]] קונספטואליות או מתמטיות ל[[human-in-the-loop-ai|סקירת אנוש]] לתפוס.
 
-### קשרים למושגים קשורים
+[[lee-ai-convergence-curriculum-korean-university-2026|Lee, Ha & Lee (2026)]] סקרו תוכנית לימודים שלמה במקום לדגום קורסים, והפרידו בין קורסים שמנוסחים במפורש כבינה מלאכותית (1.5%) לבין מועמדים חבויים שכבר הניחו בינה מלאכותית (11.7%), ובכך כימו את פער המנוסח שטיעוני עיצוב מחדש ברמת התוכנית לרוב מאשרים מבלי למדוד.
 
-עיצוב תוכנית לימודים מתחבר ישירות ל[[learning-design]] — תוכנית הלימודים מגדירה מה, ההוראה מגדירה כיצד. הוא מתחבר ל[[ai-literacy]] מכיוון שהטמעת כשירויות בינה מלאכותית היא אתגר תוכנית-לימודים עיקרי, ל[[teacher-role]] ול[[educational-development]] מכיוון ששינוי תוכנית לימודים דורש הכנת מחנכים, ול[[scaffolding]] מכיוון שתוכניות לימודים מעוצבות היטב מפגמות פיתוח כישורים על פני קורסים ושנים. החיבורים ל[[higher-ed]] ול[[k-12]] משקפים את הרלוונטיות של עיצוב תוכנית לימודים על פני רמות חינוכיות.
+## קשרים למושגים קשורים
+
+עיצוב תוכנית לימודים מתחבר ישירות ל[[learning-design]] — תוכנית הלימודים מגדירה מה, ההוראה מגדירה כיצד. הוא מתחבר ל[[ai-literacy]] מכיוון שהטמעת כשירויות בינה מלאכותית היא אתגר תוכנית-לימודים עיקרי, ל[[teacher-role]] ול[[educational-development]] מכיוון ששינוי תוכנית לימודים דורש הכנת מחנכים, ול[[scaffolding]] מכיוון שתוכניות לימודים מעוצבות היטב מפגמות פיתוח כישורים על פני קורסים ושנים. החיבורים ל[[higher-ed]] ול[[k-12]] משקפים את הרלוונטיות של עיצוב תוכנית לימודים על פני רמות חינוכיות. ברמת התוכנית, עיצוב תוכנית לימודים הוא אחד הרמות ש[[learning-environments-as-systems|סביבות למידה כמערכות]] מתייחסות אליהן כמתקשרות עם הקורס, המוסד והמדיניות.
 
 **בחירה במסגרת אוריינות בינה מלאכותית אחת פירושה בחירה באוצר מונחים שאיש לא תיאם ביניהם.** בסקירת היקף של 50 מסגרות K-12, [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] מצאו שהגדרות הכשירות מתכנסות לממדים קוגניטיביים, אפקטיביים, התנהגותיים, אתיים וחברתיים, בעוד שהתוויות והמבנים לא התיישרו. רק מסגרת ABCE התקרבה למסורת מדידה משותפת, שאומתה בהונג קונג, שנגחאי וטייוואן, והתקדמות בין רצועות כיתה הוצעה שוב ושוב ולא נבחנה בשום מקום.
 

@@ -6,11 +6,15 @@ pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
-updated: "2026-11-08T11:34:07-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-23T13:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -82,6 +86,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-e
 2. **ייצגו את הלומד, אל תגיבו בלבד.** חברו מ[[student-modeling|ידול סטודנט]] מובנה ו[[knowledge-tracing|מעקב ידע]] מובנים לדו-שיח בינה מלאכותית כך שהמערכת מתאימה לידע שהוסק ולא מגיבה בזרימה אך בעיוורון.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **כבדו מגבלות זיכרון-עבודה.** יישמו תיאוריית העומס הקוגניטיבי על חוויית-המשתמש של בינה מלאכותית: הפחיתו עומס חיצוני (חיכוך, ממשקים עמוסים) תוך שימור עיבוד גרמני ([[desirable-difficulties|מאבק פרודוקטיבי]], תרגול אחזור) במקום למקסם את כל הדרישה הקוגניטיבית.
 4. **כיילו מטאקוגניציה.** מכיוון ש[[metacognition|מטאקוגניציה]] קובעת מתי לומדים בוחרים להפריך, הוראת כיול (ידיעת מה שאפשרי לעשות בפועל ללא עזרה) היא תשובה קוגניטיביסטית לסמוך-יתר (ראו [[cognitive-offloading|הפרלה קוגניטיבית]]).
+
+התפתחות היא שאלה נפרדת: המנגנונים האלה מטופלים כיציבים, בעוד [[developmental-psychology|פסיכולוגיה התפתחותית]] שואלת כיצד הם משתנים עם הגיל ומה המשמעות של זה לשימוש בינה מלאכותית לפי קבוצות גיל.
 
 ## תפיסות מוטעות נפוצות
 

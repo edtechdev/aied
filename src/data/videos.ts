@@ -147,6 +147,16 @@ export const VIDEOS: Video[] = [
     concepts: ['limitations-in-aied-research'],
     faqs: [],
   },
+  {
+    slug: 'does-ai-make-you-a-better-writer',
+    youtubeId: 'oEQYpV0p5Cc',
+    title: 'Does A.I. Make You a Better Writer? What the Research Says | David Deming',
+    summary:
+      'David Deming, Danoff Dean of Harvard College, on what the research says about AI and writing — when it helps, when it offloads the thinking, and what the evidence does and does not show.',
+    seconds: 1875,
+    concepts: ['writing-education'],
+    faqs: [],
+  },
 ];
 
 export const VIDEO_BY_SLUG = new Map(VIDEOS.map(v => [v.slug, v]));

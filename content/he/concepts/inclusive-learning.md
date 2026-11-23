@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: למידה מכילה
 created: "2026-10-12T19:45:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,10 +10,14 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -80,6 +84,8 @@ connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segme
 **שער אבחון פורמלי מדיר את הלומדים שהכלי טוען לשרת.** ב[[assistive-tech-neurodivergent-higher-ed-review-2026|סקירת ההיקף של Rempel et al. (2026)]] על 40 מחקרים של טכנולוגיות מסייעות דיגיטליות לתלמידים נוירודיברגנטיים, 28 קבעו אבחון פורמלי כתנאי להשתתפות ורק שלושה התייחסו לסביבה ולא לסטודנט.
 
 **כלים נגישים בפרקטיקה** מראה כיצד בינה מלאכותית מרחיבה השתתפות. **[[suacode-african-students-motivations|SuaCode]]** הדגימה שקורסי קוד מבוססי-סמארטפון מגיעים לסטודנטים בהקשרים אפריקאיים בעלי משאבים נמוכים שבהם פחות מ-1% מחזיקים כישורי קוד. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** עבדו עם מוזיקאים עיוורים ובעלי ראייה חלשה כדי לפתח אסטרטגיות למידה לא-חזותיות, תוך מיקוד תכן [[embodied-learning|מוגשם]] מונחה-מוגבלות. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** מספק שותף חשיבה של בינה מלאכותית ללא-עלות, פרטי ורב-שפה המקשר מחנכים עם עקרונות UDL. **[[special-r1-rl-special-education|Special-R1]]** מרחיב את [[reinforcement-learning|למידת חיזוק]] כדי למדל גיוון קוגניטיבי ותקשורתי על פני פרופילי מוגבלות.
+
+**המדיניות מפגרת אחרי הפריסה.** אף אחת מ-100 האוניברסיטאות המדורגות בראש לא הייתה בה מדיניות נגישות AI, אף ש-93% פרסו שירותי קמפוס מופעלי AI ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### קשרים למושגים קשורים
 

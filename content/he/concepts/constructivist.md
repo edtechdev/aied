@@ -8,11 +8,15 @@ pedagogy: [active-learning, collaborative-learning, experiential-learning, learn
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T11:34:07-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T14:15:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -101,7 +105,7 @@ AI מעוצב-היטב יכול לאפשר בנייה בקנה-מידה. מער�
 - **סכס בונה** — סוכני AI יריביים שמאתגרים את התכנון או ההיגיון של לומד, מעוררים התחשבות ובנייה מעמיקה יותר של חלופות, במסורת של ייעוץ סוקרטי.([[ai-agents-constructive-conflict-design-education-2026]])
 
 - **התנגדות מדומה אינה התנגדות.** ניגוד-עמדה שניתן להשמיע על-פי-דרישה אך לא מתנגד אף פעם חוזר על הכוראוגרפיה של הדיאלוג תוך אי-מתן למה שהופך אותו עוצמתי: אין לו גיבוש, הימור, או חשיפה לתוצאה, כך שבעודו שונה מאחר אנושי הוא אינו מציע נתיב לתיקון ([[synthetic-position-self-authorship-2026|Du ואח' (2026)]]).
-- **משוב פנימי דרך השוואה** — הנחלת לומדים להשוות את עבודתם מול אקסמפלרים מיוצרים-AI כך שמעשה ההשוואה עצמו מייצר למידה.([[ai-internal-feedback-evaluative-judgments]])
+- **משוב פנימי דרך השוואה** — הנחלת לומדים להשוות את עבודתם מול [[rubrics|אקסמפלרים]] מיוצרים-AI כך שמעשה ההשוואה עצמו מייצר למידה.([[ai-internal-feedback-evaluative-judgments]])
 - **פרומפטים מודעי-סוג-שאלה** — סיווג שאלות הלומד לתפקידים קונסטרוקטיביסטיים כך שהמערכת יכולה להסלים בכוונה תלמיד מחיפוש-מידע לחקר מחקרי, דיאלוגי במקר לשקף כל עומק קוגניטיבי שהשאלה מרמזת. כיוון שכוונת מנחה ולומד-משותף נותרות מבלבלות לסיווגים אוטומטיים, התכנון הזה שומר אנושי מאמת את הסיווג לפני שהוא מניע [[feedback]] או [[scaffolding]].([[lee-learner-question-types-ai-education-2026]])
 - **קהילה כסטנדרט הערכה** — לומדים מתכננים משהו אמיתי עבור הקהילה שלהם תוך שימוש ב-AI כמשאב תכנון, בעוד שידע הקהילה ובעלי-המקצוע של הקהילה משמשים כסטנדרט השופט את התוצאה, ומשאירים מקום להגבלה, סירוב, או אי-שימוש אסטרטגי היכן שמעורבות ביקורתית דורשת זאת.([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]])
 

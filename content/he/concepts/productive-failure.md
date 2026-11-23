@@ -1,7 +1,7 @@
 ---
 title: כישלון פרודוקטיבי
 created: "2026-10-12T19:30:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:45:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,10 +9,14 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -58,6 +62,8 @@ connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-ste
 
 ### למידה משגיאות
 עיבוד שגוי יכול לסייע בשימור ובשינוי קונספטואלי, במיוחד כאשר הלומדים מקבלים הזדמנות להרהר על הבנתם ולארגנה מחדש (Kapur, 2008; Schwartz & Martin, 2004). בעידן ה-AI זה מיושם במערכות בהן הלומדים מאבחנים ומתקנים את השגיאות שלהם בעצמם במקום לקבל תיקונים ישירים — למשל, משימות [[lukesova-clue-before-correction-2026|רמז לפני תיקון]] שבהן AI נותן רמזים מוכוונים והלומדים מסיקים את הפתרון הנכון, מפחיתים עומס קוגניטיבי ותומכים בתיקון אוטונומי. משוב מורחב (elaborative feedback) מניב [[learning-gains|רווחי למידה]] גבוהים באופן משמעותי ממשוב אימות בלבד (Hattie & Timperley), והתזמון של המשוב חשוב.
+
+**השגיאות היו התכנית במשימת תכנות מבוקרת בסיוע AI.** [[shen-ai-skill-formation-2026|Shen and Tamkin (2026)]] הציבו מפתחים שלמדו ספריית Python חדשה עם או בלי תותף GPT-4o, והקבוצה הלא-מסויעת נתקלה בחציון של שלוש שגיאות מול אחת בסיוע (Q1–Q3: 2.0–5.0 מול 0.0–3.0). השגיאות שהתותף הסיר היו אלו הספציפיות לספרייה שמאלצות הבנה של coroutines, כמו coroutine שלא צורף אליו await או אובייקט coroutine שהועבר במקום שבו ציפו לפונקציה. הקבוצה הלא-מסויעת קיבלה לאחר מכן 17% יותר במבחן שנערך ללא AI, עם הפער הגדול ביותר בניפוי שגיאות והקטן ביותר בקריאת קוד, והקלדה מחדש של קוד שנוצר במקום הדבקתו לא סגרה אף אחת מהפערים. המחברים רואים פתרון שגיאות עצמאי כמנגנון, תוך שהם מודדים את הקשר ולא מתווך אותו.
 
 ### טעויות לעומת שגיאות
 הבחנה מועילה: **טעויות** הן בדרך כלל החלקות או רפרופים (לעיתים מפזרנות או מעומס) העשורים לשאת ערך אבחוני מוגבל, ואילו **שגיאות** משקפות אי-הבנה אמיתית או הסקת היגים פגומה, והן חומר למידה פרודוקטיבי יותר מפני שהן חושפות תפיסה מוטעת שניתן לה למנות. ניתוח שגיאות — זיהוי *מדוע* תשובה שגויה — מרכזי בלמידה משגיאות, ומהווה [[pedagogy|מיומנות פדגוגית]] מפתח (ומטרה לעיצוב [[ai-feedback-quality|משוב AI]]).

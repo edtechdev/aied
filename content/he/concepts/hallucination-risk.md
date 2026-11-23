@@ -1,7 +1,7 @@
 ---
 title: סיכון להזיה
 created: "2026-10-12T20:30:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T13:45:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,10 +11,14 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -46,11 +50,15 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 סקירה של 125 מחקרים ממקמת טווח על שכיחות ועל פער הגילוי: שיעורי הזיה של 10–40%, עם סטודנטים לרפואה המזהים טעויות בינה מלאכותית רק ב-44–55% מהמקרים ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+הסיכון תלוי גם בשפה: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite and Sun (2026)]] מצאו שזיהוי שגיאות חזק באנגלית אך חלש יותר ביוונית ובסינית, עם הזיות ופרשנויות-שגויות של כוונת המחבר במשוב כתיבה בשפה שנייה.
+
 **עיוות זיכרון אחרי הפלט.** ניסוי מ-2026 מצא שסיכום AI מטעה עשה יותר מאשר להטעות: הוא שינה מה ש-328 מבוגרים זכרו מסרטון שראו. רק 44.8% שקראו את הסיכום המטעה זיהו מאוחר יותר את הפרט הקריטי נכון, לעומת 83.6% שקראו סיכום עקבי, והאפקט החזיק גם כשהסיכום סומן כנכתב בידי אדם ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). השמטה הייתה השגיאה הנפוצה ביותר בביקורת הנלווית: כל 20 הסיכומים הכילו טעויות, ו-95% השמיטו את ההתנגשות עצמה. המחקר לא בחן סטודנטים, אך הוא מראה מדוע בדיקת הזיה שמסתיימת בטקסט אינה שלמה: השגיאה יכולה להישאר בזיכרון הקורא אחרי שהטקסט נעלם.
 
 **הזיית הערכה** היא מזיקה במיוחד. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** מצא שמודלים לשוניים מייצרים ציטוטי ראיות שאינם נוכחים בכתב-היד של הסטודנט כאשר הם מאבחנים מיומנויות קוגניטיביות, עם 58.5% מהאבחונים השגויים מלווים בטענות שקריות של ביטחון ראייתי. **[[llm-fallacy-misattribution]]** תיעד ייחוס-יתר שיטתי של ראיות בחשיבה של [[llm]] — מודלים טוענים תמיכה ראייתית היכן שאין. שניהם מתחברים לדאגות של [[ai-ed-evaluation]] ו[[knowledge-tracing]] על [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] מוסיפים שני מצבי כשל גלויים כאשר פלט בינה מלאכותית מסומן ולא נבדק: פרטים מומצאים ששורדים ניקוד — נייר שנבדק שאינו קיים, עם DOI בלתי-פתיר, וגודל מדגם שדווח כ-378 בעוד שהמקור אמר 329 — וסתירה עצמית בתוך תגובה בודדת, שבה המודל חישב את הדרך לאפשרות הנכונה ואז דיווח על אפשרות שונה בסיכום הסוגר שלו. מכיוון שרשימות הפניות נבדקות כעת לעיצוב ולא לדיוקות, מחלקת שגיאות זו מגיעה לציון עובר בעוד שהיא מטעה את הסטודנט שמשתמש באותו הכלי לחזרה.
 
 בפיילוט עיצוב-הערכה, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] מצאו הפניות מומצאות והערכות זמן לא-מציאותיות ששרדו הנחיה חוזרת ודרשו תיקון אקדמי משמעותי — הזיה בכלי ניסוח הפונה-למחנך ולא בעבודת סטודנט.
+
+**ייצור ועיצוב מחדש נכשלים באופנים שונים.** כשביקשו רשימת הפניות בסגנון IEEE על תאים פרובסקיטיים סולריים, ChatGPT החזיר רשומות שהמחברים מצאו שהן בעיקרן הזיות או מצוטטות שלא-כהלכה: ראשי תיבות, שנה, כרך ועמודים שגויים, ומאמר אחד בעל-מראה סביר שיוך לקבוצה שמעולם לא ביצעה את העבודה ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). כשביקשו ממנו במקום זאת להמיר מערך הפניות שכבר אומת לכדי APA, אותו הכלי היה מדויק וחסך זמן רב. הסיכון נמצא באיתור המקורות ולא בעבודה הביבליוגרפית, וזהו קו ש[[rubrics|רובריקה]] של משימה יכולה להצהיר עליו.
 
 **[[misconceptions|תפיסות שגויות]] אסטרטגיות** הם קרובים משניים עדינים של הזיה גלויה. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] הנחו שבעה מודלים בעלי-משקל-פתוח לייצר "מלכודת [[socratic-method|סוקרטית]]" עבור 35 מושגי מדעי-המחשב יסודיים — הסבר ששוטף וסמכותי בעודו נשען על שגיאה עדינה, ספציפית-תחום — ושלושה מומחי תחום אישרו 221 מתוך 241 קטעים מונחים (91.7%) כתפיסות שגויות אסטרטגיות, ללא הבדלים משמעותיים בין תחומי מדעי-המחשב. השגיאות היו בעיקר קונספטואליות ולא עובדתיות (66.5% מול 33.5%) ואף אחת לא הייתה לוגית בלבד, והן נדרגו כמשכנעות במידה מתונה עד גבוהה (M = 3.71 בסולם חמש-נקודות), עם זהות המודל מסבירה 43% מהשונות. מכיוון שהצעות בודדות יכולות להיות נכונות בעוד שהיחס ביניהן שגוי, בדיקת-עובדות אינה מספיקה; המחברים טוענים ש[[ai-literacy|לומדים]] זקוקים לאימות קונספטואלי ולאימות מודל-מנטלי. הם מזהירים גם שהשיעוי מודד יכולת תחת הנחיה [[prompt-engineering|התנגדותית]] ולא את שכיחותן של טעויות כאלה בשימוש רגיל, ושלא נבדקו סטודנטים, ולכן לא נמדדו הטעיה או תוצאת למידה.
 
@@ -65,6 +73,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **חוסר-אמינות המסומן הוריד תלות מדווחת במקום להעלותה.** כאשר 546 משתתפים קראו את אותו דו-שיח GAI המסומן או כמכיל מידע מומצא או כמאומת מדויק, התווית המומצאה הפיקה [[trust]] נמוך יותר ותחושת שליטה נמוכה יותר ודיסוננס קוגניטיבי ותסכול גבוהים יותר לצד ציוני תלות *נמוכים יותר* (M = 2.935 מול 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). התוצאה ממתנת את לוגיקת ההסתמכות-יתר של העמוד הזה: לראות שפלט עשוי להיות מומצא אינו זהה להמשיך להישען עליו.
 
 **רמזי אמינות יכולים דווקא להגביר את הציות לעומת זאת.** התנועה ההפוכה מופיעה כאשר פלט לא-אמין מולבש: הוספת ציטטונים ואותות אמינות לממשק הדיבייט הרב-סוכני ARMADA העלתה את שיעור המשתתפים שעברו משיפוט ראשוני נכון לעמדת AI שגויה ב-112% (31.8% מול 15.0%), ובדיקה ידנית מצאה שחלק מן המקרים המצוטטים יוחסו בטעות למקורות לא-רלוונטיים או פיקטיביים ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+מצב כשל נפרד הוא הבעיה הבלתי-מוצקת. ב[[bauyrzhan-genai-inorganic-chemistry-verification-2026|מדגם גישוי של שלושה צ'אטבוטים על 42 בעיות כימיה אי-אורגנית]], כל צ'אטבוט ענה על הצהרות פגומות בביטחון, בלי לסמן את הפגם, לבקש הבהרה או לסרב, וסימני אי-ודאות מעולם לא הגיעו למסקנה. הכשל אינו תשובה שגויה אלא הנחת-יסוד שגויה שהתקבלה בשקט.
 
 ## תפיסות מוטעות נפוצות
 

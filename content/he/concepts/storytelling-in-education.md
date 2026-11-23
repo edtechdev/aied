@@ -1,7 +1,7 @@
 ---
 title: סיפורי בחינוך
 created: "2026-10-12T19:07:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:00:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,10 +9,14 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -41,7 +45,7 @@ connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobud
 
 סיפורי מעוגנים ב[[motivation|מוטיבציה]], ב[[student-engagement|מעורבות הסטודנטים]] ובתיאוריות ה[[constructivist|קונסטרוקטיביסטיות]] של [[learning-theories|הלמידה]]. הם תומכים ב[[language-learning|למידת שפות]], ב[[creativity|יצירתיות]], ב[[social-emotional-learning|למידה חברתית-רגשית]] ובהבנת הנקרא. בעידן הבינה המלאכותית, סיפורי המונעים ע"י [[llm|מודלים גדולים]] וסיפורי באמצעות רובוטים מאפשרים יצירה משותפת, שבה לומדים ו[[agentic-ai|סוכני בינה מלאכותית]] בונים סיפורים יחד, ונרטיב אינטראקטיבי שמגיב ללומד.
 
-### כיצד סיפורי מופיע במחקר של מאגר הידע
+## כיצד סיפורי מופיע במחקר של מאגר הידע
 
 - **סיפורי באמצעות רובוטים:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] משתמש ברובוט דיגיטלי אינטראקטיבי דמוי-אנוש לסיפורי, ומוצא עליות משמעותיות במעורבות ההתנהגותית והקוגניטיבית מעל שיטות הנייר וה-PowerPoint; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] מאפשר למורים ליצור פעילויות סיפורי מבוססות-תרחיש המונעות ע"י מודלים גדולים מתוכן [[curriculum-design|תכנית הלימודים]].
 
@@ -52,6 +56,8 @@ connected_articles: [motibo-digital-storytelling-robots-motivation-2026, robobud
 - **סיפורי דיגיטליים כמשקל נגד לבינה מלאכותית:** ככל ש[[generative-ai|בינה מלאכותית יוצרת]] עולה, סיפורי דיגיטליים מוצגים מחדש ככלי נושא למשאבים הרגשיים, התרבותיים והנרטיביים שהבינה המלאכותית חסרה. במודל [[project-based-learning|למידה מבוססת פרויקטים]] לחינוך לאמנות ול[[design-education|עיצוב]], תרגמו סטודנטים מורשת תרבותית מקומית לנרטיבים [[multimodal|מולטימודליים]] ב-92 יצירות סיפורי דיגיטליות, והדגימו כיצד סיפורי שומרים על יצירתיות אנושית בעידן הבינה המלאכותית.
 
 - **נרטיב שנוצר קל להפקה וקשה לשמור על קוהרנטיות.** עם 22 סטודנטים ל-STEM, סיפורת אינטראקטיבית שנוצרה על ידי AI דורגה היטב בבהירות נרטיבית (M = 4.11) ובאורך (M = 4.14), אך המעורבות ישבה על נקודת האמצע הנייטרלית (M = 3.08) וקוהרנטיות תוכן הסיפור הייתה החלשה ביותר (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). יצירה משותפת יורשת את החולשה הזו בשכבה שבה הסיפור אמור לעשות את עבודתו.
+
+- **הסיפור הוא המסגרת ההערכה, ולא רק יעד הפלט.** בחטיבת ילדים טורקית, 22 ילדים בנו ספרי תמונות עם מורה שכתבה כל הנחיית תמונה. שיפוטיהם על התמונות שנוצרו נסבו סביב התאמה לסיפור — אילו מארבעה מועמדים הכיתה תשמור, האם עצם נוסף "כמו טייס" שייך, האם תמונה הייתה מכוערת כי פרח שהתבקש חסר — לצד שיפוטי הגיוניות כמו "פרפר עם משקפיים לא יכול להיות" ([[konca-preschool-genai-storytelling-ai-literacy-2026|Konca & Yigit-Gencten, 2026]]). סיפורי נתן לכיתה סיבה לבחון את הפלטים מאפיין לאפיין, וזה מה שהפך את ההיגיון שלהם על הכלי לגלוי כלל.
 
 סיפורי מתחברים ל[[student-engagement]], ל[[motivation]], ל[[creativity]], ל[[educational-robotics]], ל[[language-learning]], ל[[social-emotional-learning]], ול[[educational-robotics]].
 

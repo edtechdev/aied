@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 connected_podcasts: [friction-is-your-friend]
 connected_videos: [ai-adapted-learning-designer]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire]
+connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire, elearning-prompt-library]
 reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -120,6 +120,8 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 Design moderates effects more than technology does in Zhang and colleagues' synthesis: the same GenAI capability produced g = 0.92 when the learner directed it and g = 0.34 when it ran autonomously. Interaction mode is therefore a design decision rather than a property of the tool ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 **A reflective-learning design-and-audit loop.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] propose SAREL — specify the reflective capability and a non-AI comparator; allocate learner control and an equivalent accessible route; require reflection and verification; evaluate learning alongside equity, workload and resource use; loop the evidence into redesign — as a way to keep AI-supported reflection a comparative design question rather than an assumed benefit of adoption. The five stages are an unvalidated author proposal, offered to frame the right questions rather than as a tested method.
+
+**Design for the levels above and below the course.** A course is one level in a larger system: the learners in it arrive with [[prior-knowledge|prior knowledge]] and out-of-class obligations, and the institution around it sets workload, procurement and assessment rules. [[learning-environments-as-systems|Learning environments as systems]] names the stance that treats those levels as interacting, so that a tool chosen at course level is checked against the institution's constraints and the learner's actual situation rather than evaluated as though the course were closed.
 
 ## Common Misconceptions
 

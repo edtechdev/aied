@@ -9,11 +9,15 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
-updated: "2026-11-08T11:34:07-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T13:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -23,7 +27,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
-connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, yuan-genai-feedback-writing-self-regulation-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -41,7 +45,9 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 
 אוריינות משוב חשובה מכיוון שמשוב מעוצב היטב עוזר רק לסטודנטים שיכולים לפרש ולפעול עליו. סטודנט שאינו יכול להעריך האם משוב מיוצר-AI מדויק, או שאינו יודע כיצד להפוך משוב לתיקון-מחדש קונקרטי, לומד פחות הרבה מאותו משוב מעמית בעל אוריינות-משוב גבוהה יותר. כשאדם AI מעבד מחדש את מתן המשוב, אוריינות המשוב הפכה לתנאי-הגבול המרכזי לשאלה האם משוב AI משפר למידה.
 
-### מהי אוריינות משוב
+[[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]] שמים את ההכרה לפני האוריינות: על הסטודנט להעניק למספק מעמד להנחות, ולזכות במעמד לענות, אחרת אין לאוריינות על מה לפעול.
+
+## מהי אוריינות משוב
 
 אוריינות משוב ממוסגרת באופן רחב כמערכת יכולות תלויות — היכולת להעריך משוב, לבצע שיפוטים, לנהל אפקט ולנקוט פעולה (אחרי Carless & Boud). המאמרים של מאגר הידע מקובצים את אוריינות המשוב סביב כמה יכולות:
 
@@ -52,7 +58,7 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 - **פעולה על משוב** — תרגום המשוב לתיקונים קונקרטיים או שינויים בגישה ([[feedback|לולאת המשוב]], [[self-regulated-learning]]).
 - **שיפוט סמכות הערכתית** — יכולת נוספת שהוצעה על ידי [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]: לצד הערכת משוב, ביצוע שיפוטים, ניהול אפקט ונקיטת פעולה, סטודנטים ההיגים על משוב מיוצר-AI נזקקו לשפוט *איזה מקור מחזיק סמכות הערכתית*, בנפרד משיפוט איכות המשוב. מכיוון שהמשתתפים נאמר להם ש-ChatGPT ייצר גם את הציון וגם את המשוב, אוריינות המשוב שלהם תורגלה על המקור והלגיטימיות של ההערכה, לא רק על התוכן שלה, והיא ייצרה דרישות לאימות מדריך במקום קבלה פסיבית.
 
-### כיצד אוריינות משוב מופיעה במחקר
+## כיצד אוריינות משוב מופיעה במחקר
 
 - **אוריינות משוב כמתן את ערך משוב AI:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza ושות' (2026)]] מראים שאוריינות משוב מתווכת את הקישור בין קבלת ChatGPT ל[[self-regulated-learning]]: סטודנטים עם אוריינות חזקה יותר תופסים יתרון SRL גדול יותר ממשוב AI, בעוד סטודנטים בעלי אוריינות חלשה יותר מראים אפקטים מינימליים או אפילו שליליים ([[cognitive-offloading|הסתמכות מופרזת]]). אוריינות משוב היא תנאי-גבול לשאלה האם סטודנטים יכולים "ליצור משמעות" ממשוב AI.
 
@@ -72,17 +78,19 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 - **משוב עמיתים ואוריינות משוב:** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]] ממקמים את GenAI בתוך משוב עמיתים באנגלית כשפה זרה כדי לאמן אוריינות משוב ולאפשר קליטה בשיעורי דיבור, ו[[scaffolding-srl-feedback-genai-human-peers|מחקרי פיגום]] משווים GenAI מול עמיתים אנושיים בטיפוח משוב מוסדר-עצמי.
 - **משוב הנשמר כנתונים מתמשכים וניתנים-ייעוץ.** זיווג ChatGPT עם [[eportfolio|תיק-עבודה אלקטרוני]] העלה ביצועי דיבור ואוריינות משוב יחד (η² חלקי = 0.218 לאחרונה), כשהסטודנטים טופלו במשוב מאורכב ממרצה, עמיתים ו-AI כנתונים לפישור ולא כתיקון חד-פעמי ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana ושות' (2026)]]).
 - **אוריינות משוב באנליטיקת למידה ו[[visualization|לוחות מחוונים]] של GenAI:** [[jin-genai-learning-analytics-feedback-literacy|Jin ושות' (2025)]] בודקים כיצד סטודנטים תופסים משוב [[learning-analytics|אנליטיקת למידה]] מופעל-GenAI מנקודת מבט של אוריינות משוב.
-- **אוריינות משוב כמטרה של אוריינות AI ועיצוב [[assessment|הערכה]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] משתמשים בהערכת תהליך-על-ארטיפקט שבה סטודנטים מבקרים פלט ChatGPT מול רובריק כדי לבנות אורייות משוב, פסיכולוגיות ו-AI יחד; [[learner-centered-feedback-ai|משוב AI ממ קדם-לומד]] ו[[care-full-feedback-genai|עיצוב משוב זהיר]] מקשרים איכות משוב ליכולת של הלומד להתערב.
+- **אוריינות משוב כמטרה של אוריינות AI ועיצוב [[assessment|הערכה]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] משתמשים בהערכת תהליך-על-ארטיפקט שבה סטודנטים מבקרים פלט ChatGPT מול [[rubrics|רובריק]] כדי לבנות אורייות משוב, פסיכולוגיות ו-AI יחד; [[learner-centered-feedback-ai|משוב AI ממ קדם-לומד]] ו[[care-full-feedback-genai|עיצוב משוב זהיר]] מקשרים איכות משוב ליכולת של הלומד להתערב.
 
 - **אוריינות משוב ניתנת להוראה, ו-AI יכול לספק את חומר התרגול.** מדריך קונספטואלי מנחה מדריכים לייצר ספקטרום מדורג של דגימות עבודה של AI — כאלה שעומדות בכל הקריטריונים, בחלקם, ובאף אחד מהם — ואז להוביל סטודנטים דרך ביקורת מדוגמת, ניתוח כיתתי מודרך והערכה עצמאית ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington and Hock (2026)]]).
 
-### מדוע אוריינות משוב חשובה ל-AI בחינוך
+- **אוריינות משוב היא המסלול ממשוב AI לרגולציה עצמית.** במחקר דו-גלי של 520 סטודנטים תת-חוג סינים, [[yuan-genai-feedback-writing-self-regulation-2026|Yuan (2026)]] מצא שאוריינות משוב נשאה 32.4% מהקשר בין שימוש במשוב GenAI לבין רגולציה עצמית בכתיבה מאוחרת יותר, מול 9.1% דרך חרדת כתיבה נמוכה יותר.
+
+## מדוע אוריינות משוב חשובה ל-AI בחינוך
 
 AI משנה משוב בשני כיוונים שמעלים את הימור של אוריינות המשוב. ראשית, AI מגביר באופן דרמטי את *הנפח והמיידיות* של המשוב ([[ai-feedback-quality]], [[feedback|לולאת המשוב]]), כך שהסטודנטים מתמודדים עם הרבה יותר משוב שהם חייבים למיין ולהעריך. שנייה, משוב מיוצר-AI נושא סיכונים מובחנים — אי-דיוק, [[hallucination-risk|הזיה]], ו"אשליית השליטה" — שמחייבים כישורי [[critical-thinking|הערכה ביקורתית]] וזהירות נגד הסתמכות מופרזת ו[[llm-fallacy-misattribution|שיוך-מוטעה]]. אוריינות המשוב הופכת לכן לרכיב ליבתי של [[ai-literacy]]: ידע לא רק כיצד להנחות AI למשוב, אלא כיצד לשפוט האם המשוב שווה פעולה וכיצד להמיר אותו ללמידה אמיתית במקום להשלמת משימה.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman ושות' (2026)]] מוסיפים דרישה נוספת לרשימה. במחקר הסדנה שלהם, הסטודנטים לא ניהלו מקור משוב אחד אלא רשת: הם שקלו תגובות חינוכים מול פלט AI, רובריקים, חומרי קורס ועמיתים, וכאשר משוב אנושי היה איטי הם המשיכו לעבוד עם AI כתבנית-החזקה, מתקנים מחדש מאוחר יותר אם הוא הטעה אותם. המחברים מציעים שהסטודנטים יכולים לפעול כאדם-בהלולאה משלהם על ידי ניהול אותם יחסים מהמשימה הגרגירית למסלול הרחב יותר, שהוא עצמו יכולת אוריינות-משוב. האזהרה שלהם היא שתגובות חינוכים דקות או מאוחרות הן מה שדוחק סטודנטים כלפי מקורות לא-מאומתים.
 
-### חיבורים למושגים קשורים
+## חיבורים למושגים קשורים
 
 אוריינות משוב מתחברת ל[[ai-feedback-quality]] ול[[feedback|לולאת המשוב]] (צד המתן שהיא משלימה), ל[[formative-assessment]] (מחזור ההערכה שהיא מזינה), ול[[self-regulated-learning]] (ה[[self-assessment]] וההסתגלות שהיא תומכת). היא תת-קבוצה של [[ai-literacy]] כאשר מיושמת על משוב מיוצר-AI, נחתכת עם [[peer-assessment]] בהקשרים שיתופיים, ובעלת משמעותיות מיוחדת ל[[writing-education]]. היא מתחברת גם ל[[metacognition]] ול[[trust-calibration]] — היכולת לשפוט האם משוב אמין.
 

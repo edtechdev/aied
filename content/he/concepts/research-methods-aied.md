@@ -11,11 +11,15 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-updated: "2026-11-08T11:34:07-05:00"
-source_updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-11-23T12:00:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -25,7 +29,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, interpreting-and-applying-aied-research, ai-ed-evaluation, rct, benchmark, meta-analysis-systematic-review, ai-assisted-educational-research, educational-measurement, assessment-validity, simulation, ai-education, higher-ed, limitations-in-aied-research, learning-gains, theory-development-aied, qualitative-research, quantitative-research, mixed-methods-research, design-based-research, usability-research, self-report-measures, learning-sciences]
-connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026]
+connected_articles: [ai-methodologies-science-education-research-2026, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, genai-over-reliance-learning-2026, acceptance-ai-english-tools-2026, hazra-safetutors-pedagogical-safety-2026, zerkouk-comprehensive-review-its-2025, ai-assisted-collaborative-learning-model-dbr, teachbench-llm-teaching-evaluation, ground-truth-reliability-aied, llm-student-simulation-teacher-insights, raise-framework-ai-education-reporting-2026, ai-lms-middle-school-longitudinal, ai-in-the-wild-college, same-ai-different-pathways, tep-aied-model-reporting-2026, t2i-competence-paradox-2026, rismanchian-ai-education-four-decades-aixed-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, synthetic-educational-data-structural-fidelity-2026, porcaro-ai-grading-benchmark-2026, nouri-ai-research-methodology-students-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -49,6 +53,8 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 
 סמוך לעמוד זה נמצא [[ai-assisted-educational-research|מחקר חינוכי בסיוע בינה מלאכותית]], שמכסה את הבינה המלאכותית ככלי בעבודתו של התחום עצמו: חיפוש ספרות, סינון, אוטומציית סקירות, קידוד איכותני, ניתוח וכתיבה. תחום ההכולל שלו כולל מחקר של אנשי מקצוע כמו scholarship of teaching and learning, והוא נשאר נבדל מהתכנונים שהעמוד הזה מתאר.
 
+שאלת מסגור שנייה היא רמת הניתוח. [[learning-environments-as-systems|סביבות למידה כמערכות]] טוענות שהרמה שבה מחקר מודד — הלומד, הקורס, המוסד, המדיניות — היא החלטה תיאורטית עם השלכות, כיוון שאפקטים שנוצרים ברמה אחת מועברים אל הרמות האחרות; תכנון שמודד רק את רמת ההכנסה עלול לפספס את המנגנון כולו.
+
 [[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen and Graulich (2026)]] מטילים את אותה ביקורת על יצירת הידע של התחום עצמו, באמצעות בעיית המידה הנומית של Chang (2004): מדידת גודל דורשת חוק המקשר אותו למשהו ניתן לצפייה, ואולם חוק זה אינו ניתן לבדיקה אמפירית בלי לדעת כבר את הגודר. הם טוענים שפונקציות מדידה הנגזרות מבינה מלאכותית, שהן נובעות מנתוני אימון ומאופטימיזציה ולא מהחוקר, עלולות להחריף את הבעיה ולא לפתור אותה. פונקציות כאלה יכולות להיראות מדויקות ועדיין להישאר אפיסטמית שקופה (epistemically opaque), ותפקיד החוקר עובר לפרשנות ואימות של תוצרים חישוביים. מסגרתם הרפלקטיבית בת שבע השלבים (מסגור הבעיה; אינסטרומנטציה ומדידה; התנסות והסקה מבוססת ראיות; השוואות ושחזור; בניית נורמות וקונצנזוס; יישום והשלכותיו; ושכלול מתמשך) מוצעת כעזר אנליטי, לא כשיטה מאומתת, והם טוענים שההשוואה חייבת להימשך גם על אוכלוסיות תלמידים ולא רק על תת-הקבוצות שהמודל משרת היטב.
 
 ### נוקשות בדיווח ומודל TEP-AIED
@@ -67,6 +73,7 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 - **מגבלות:** יקר ואיטי; תנאים מלאכותיים עלולים לפגוע בתוקף האקולוגי; כלי בינה מלאכותית שמשתנים במהירות הופכים ניסויים ארוכים למיושנים במהירות; מדגמים קטנים לרוב חסרי כוח סטטיסטי לגילוי אפקטים משמעותיים; אילוצים [[ethics|אתיים]] על מניעת כלי שעשויים להועיל.
 - **דוגמאות:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 - **רישום מוקדם (preregistration) חל על ניתוחים משניים, לא רק על ניסויים.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] הרצה ארבעה כללי עדכון של [[knowledge-tracing|עקיבת ידע]] על אותם יומני ASSISTments (12,716 תלמידים, 985,813 אירועים מדורגים) שנבדלו רק באופן שבו הם מדרגים שורות רמז, השאירה את החצי המאשר אטום עד שקיים קובץ המכיל את כתובת הרישום, ודיווחה שכל ארבע התחזיות הרשומות-מראש התקיימו. מתן קרדיט על כל השלמה חזה את הביצוע הלא-מסויג הבא בקושי מעל קבוע של קושי היכולת (AUC מרוכז 0.604 לעומת 0.595) בעוד שהכריזה על 93.9% מזוגות תלמיד-יכולת כשולטים לעומת 72.8% בכלל מחמיר. כאשר יומן אחד תומך במספר מסקנות, קביעת הניתוח מראש היא מה שהופך את ההשוואה לאמינה.
+- **סמנו במפורש את היעדר הבינה המלאכותית.** מבחן אחרי ללא בינה מלאכותית נחשב להיעדר מאומת רק כאשר ההגבלה מתועדת וההיענות נבדקת; מבחן מפוקח או מבחן על נייר בלבד אינו עומד בדרישה ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
 
 ### מחקרי סקר ומודלים מבניים-שוואה
 
@@ -81,7 +88,7 @@ connected_articles: [ai-methodologies-science-education-research-2026, access-no
 
 ### שיטות איכותניות
 
-ריאיונות, קבוצות מיקוד וניתוח תימטי מייצרים תיאורים עשירים וקונטקסטואליים של האופן שבו תלמידים ומורים חווים כלי בינה מלאכותית, המשמעויות שהם מייחסים להם, והמתחים והנזקים שמדדים סטנדרטיים מפספסים. [[hazra-safetutors-pedagogical-safety-2026|מחקר על בטיחות מורים פרטיים מבוססי בינה מלאכותית]] ו[[ai-changing-teaching-workflows|כיצד בינה מלאכותית משנה זרימות עבודה בהוראה]] מסתמכים במידה רבה על ראיה איכותנית. ראו את עמוד המושג הייעודי [[qualitative-research|מחקר איכותני]] לטיפול המלא בגישות האיכותניות — ניתוח תימטי, תיאוריה מונחת, פנומנולוגיה/פנומנוגרפיה, ניתוח שיח, תצפיות ואתנוגרפיה, מחקרי מקרה, וריאיונות/קבוצות מיקוד — כל אחת עם דוגמאות ממאגר הידע.
+ריאיונות, קבוצות מיקוד וניתוח תימטי מייצרים תיאורים עשירים וקונטקסטואליים של האופן שבו תלמידים ומורים חווים כלי בינה מלאכותית, המשמעויות שהם מייחסים להם, והמתחים והנזקים שמדדים סטנדרטיים מפספסים. [[hazra-safetutors-pedagogical-safety-2026|מחקר על בטיחות מורים פרטיים מבוססי בינה מלאכותית]] ו[[ai-changing-teaching-workflows|כיצד בינה מלאכותית משנה זרימות עבודה בהוראה]] מסתמכים במידה רבה על ראיה איכותנית. ראו את עמוד המושג הייעודי [[qualitative-research|מחקר איכותני]] לטיפול המלא בגישות האיכותניות — ניתוח תימטי, תיאוריה מונחת, פנומנולוגיה/פנומנוגרפיה, ניתוח שיח, תצפיות ואתנוגרפיה, מחקרי מקרה, וריאיונות/קבוצות מיקוד — כל אחת עם [[rubrics|דוגמאות]] ממאגר הידע.
 
 - **חוזקות:** תובנה אקולוגית וקונספטואלית עמוקה; חושפת תופעות, סיכונים ומנגנונים בלתי צפויים; חיונית לבניית תיאוריה וללימוד מבנים שנויים במחלוקת כמו אמון, [[agency|אוטונומיה]] ומחברות.
 - **מגבלות:** יכולת הכללה מוגבלת; פרשנותית ותלויה-חוקר; מדגמים קטנים; תמיכה חלשה יותר בטענות סיבתיות; ממצאים יכולים להיות קשים לסינתזה בין מחקרים.
@@ -111,6 +118,9 @@ DBR מחליף את השליטה הסיבתית של [[rct|ניסויים]] בא
 
 - **חוזקות:** סינתזה יעילה של ספרות גדולה ומפוצלת; מטא-אנליזה מניבה הערכות אפקט מרוכזות ומגלה משתני מתווך; חיונית לפרקטיקה מבוססת-ראיות ולזיהוי פערים.
 - **מגבלות:** תלויות באיכות המחקרים הנכללים (זבל פנימה, זבל החוצה); הטיית פרסום; שיטות ומידות תוצאות הטרוגניות מקשות על סינתזה; מזדקנות במהירות לאור קצב השינוי של הבינה המלאכותית.
+- 
+דירוגי הרלוונטיות של Google Scholar דינמיים, ולכן חיפוש PRISMA שכולל אותם אינו ניתן לשחזור מלא מתוך השאילתה בלבד ([[ai-mathematics-education-prisma-review-2026|Omirzakova and Tileubay (2026)]]).
+
 - **אזהרת מטא-מחקר (2026):** ביקורת על בסיס הסינתזה של AIED מראה שמטא-אנליזות מוקדמות רבות מתמוטטות עקב חוסר קוהרנטיות של הבנייה, הטרוגניות לא פתורה, תלות לא מטופלת בין גדלי אפקט, והערכת הטיית פרסום לא חוקית — מה שמנפח את גדלי האפקט המכוכבים של הבינה המלאכותית (ראו [[bartos-ai-learning-meta-meta-analysis-2026]], [[oneill-presumed-effective-meta-analysis-2026]] ו[[weidlich-chatgpt-effect-search-cause-2025]]). התייחסו לגדלי אפקט מרוכזים של AIED כגבולות עליונים.
 - **דוגמאות:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
@@ -129,7 +139,7 @@ DBR מחליף את השליטה הסיבתית של [[rct|ניסויים]] בא
 
 ### תכנינים אחרים: מחקרים אורכיים, מחקרי מקרה ומחקרי סימולציה
 
-מעבר למשפחות הגדולות, מאגר הידע משתמש בתכנינים **אורכיים** העוקבים אחר לומדים לאורך זמן ([[ai-lms-middle-school-longitudinal|מחקר אורכי של מערכת ניהול למידה]]), ב**מחקרי מקרה ובשטח** של שימוש אותנטי ([[ai-in-the-wild-college|ניתוח בקנה מידה גדול של אינטראקציות תלמידים אמיתיות]]), ובמחקרי **סימולציה** שבהם מודלי שפה גדולים מחליפים תלמידים או מטופלים ([[llm-student-simulation-teacher-insights|מודלי שפה גדולים כלומדים מדומים]], [[simulation|סימולציה]]). אלה מחליפים רוחב או שליטה בריאליזם ובגישה לתופעות שקשה אחרת לצפות בהן.
+מעבר למשפחות הגדולות, מאגר הידע משתמש בתכנינים **[[longitudinal-research|אורכיים]]** העוקבים אחר לומדים לאורך זמן ([[ai-lms-middle-school-longitudinal|מחקר אורכי של מערכת ניהול למידה]]), ב**מחקרי מקרה ובשטח** של שימוש אותנטי ([[ai-in-the-wild-college|ניתוח בקנה מידה גדול של אינטראקציות תלמידים אמיתיות]]), ובמחקרי **סימולציה** שבהם מודלי שפה גדולים מחליפים תלמידים או מטופלים ([[llm-student-simulation-teacher-insights|מודלי שפה גדולים כלומדים מדומים]], [[simulation|סימולציה]]). אלה מחליפים רוחב או שליטה בריאליזם ובגישה לתופעות שקשה אחרת לצפות בהן.
 
 ### שיטות קונצנזוס מומחים: טכניקת דלפי
 

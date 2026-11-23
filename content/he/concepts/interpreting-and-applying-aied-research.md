@@ -1,7 +1,7 @@
 ---
 title: פרשנות ויישום מחקר AIED
 created: "2026-10-12T19:05:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T04:42:57-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,10 +13,14 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-19T14:06:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"

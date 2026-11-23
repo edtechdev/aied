@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: חשיבה עיצובית
 created: "2026-10-12T19:55:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T04:42:57-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"

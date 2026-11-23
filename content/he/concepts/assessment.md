@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: הערכה
 created: "2026-10-12T21:26:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -14,9 +14,13 @@ confidence: high
 methods: [ai-ed-evaluation]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -26,7 +30,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
-connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -99,11 +103,19 @@ connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-a
   לכיתות ה'-ה' אינה ברורה.
 - **לולאות משוב:** הערכת בינה מלאכותית מזינה יותר ויותר
   אל [[feedback|לולאות משוב]] הסוגרות את המחזור מההערכה ללמידה.
+- **הרובריקות הופכות קריטריונים שחזורים:** [[rubrics|הרובריקות]] מצהירות על הממדים
+  ועל תיאורי הרמות שהופכים קריאה של יצירה לקריאה ניתנת להגנה, והן המפרט שהמודל קורא
+  כשהוא מנקד. רובריקות אנליטיות מפרידות ממדים כך שאי-הסכמה ניתנת לאבחון; רובריקות
+  הוליסטיות קוראות את כל היצירה ומהירות יותר, אך עלולות להסתיר חולשה מכריעה. מכיוון
+  שבינה מלאכותית יוצרת יכולה להפיק פלט זורם לפי דרישה, עבודת רובריקה עדכנית מזיזה את
+  האובייקט מתוצר לתהליך ([[rubrics-genai-process-based-assessment-2026|Oviedo and Díaz,
+  2026]]) ומתייחסת לדיוק רובריקה כחלק מהאמינות של [[automated-assessment|הערכה אוטומטית]]
+  ([[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et al., 2026]]).
 - **הערכה באמצעות תיק-עבודות אלקטרוני:**
   [[eportfolio|תיקי עבודות אלקטרוניים]] מרכיבים עבודה והרהורי תלמיד לאורך זמן
   כצורת הערכה מבוססת-תהליך ועמידה-בפני-בינה-מלאכותית. בינה מלאכותית יוצרת
   יכולה לסייע ב*תהליך* התיק — יצירת משוב, [[scaffolding|פיגום]] הרהורים, ו-(עם
-  עיצוב רובריקה מתאים) תמיכה בהערכה — בעוד ההדגשה של התיק על עקביות ההיגיון
+  עיצוב [[rubrics|רובריקה]] מתאים) תמיכה בהערכה — בעוד ההדגשה של התיק על עקביות ההיגיון
   ועל טיוטות מתנגדת להמצאה של בינה מלאכותית.
   [[ni-lam-multiliteracies-ai-portfolio-2026|הערכת תיק-עבודות בסיוע בינה מלאכותית]]
   ו[[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT + תיק-עבודות לדיבור בשפת אם
@@ -273,7 +285,9 @@ connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-a
   בתיווך בינה מלאכותית* — רובריקה להערכת אופן שבו לומדים משתפים פעולה עם בינה
   מלאכותית יוצרת ולא לכלי זיהוי.
 
-הצעה בספרות הזו דוחפת מעבר לעיצוב-מחודש-בתוך-המסגרת-הנוכחית.
+העיצוב שלעיל מניח שהציון עדיין אומר מה שהוא אמר לפני שהכלי הגיע. אוילרה וקדמס קובעים מה קורה כשאינו: **חוב ראיית הערכה**, הפער המצטבר בין מה שציון טוען לבין מה שרכיב שהוגש יכול לתמוך, ושמחסיל כשציונים מוקדמים מזינים החלטות התקדמות. התרופה שלהם היא לצהיר את הטענה לכל משימה: מה היא אומרת שהלומד יודע, אילו תנאי בינה מלאכותית חלים, ואילו ערוצי ראיה בשימוש. חמישה ערוצים נובעים — ביצוע מוגבל, מקור תהליך, אימות בר-הרצה, הגנה פרשנית, ובדיקות העברה. אף ערוץ לא מוכיח כשירות לבדו. המחברים מתייחסים לשקילות ראיות כבלתי-פתורה: פרויקט עבודה בית עם גישה מלאה לבינה מלאכותית ומבחן בר-הרצה מפוקח יכולים להתייחס לאותה תוצאה ולהעניק תעודה על קונסטרוקטים שונים, ולכן ציוניהם אינם ניתנים להשוואה. האזהרה החדה ביותר שלהם נוגעת להסק מהתנהגות: הגנה בעל-פה חלשה אינה ראיה לשימוש בלתי-מורשה בבינה מלאכותית ([[oyelere-code-programming-assessment-genai-2026|Oyelere & Kadams, 2026]]).
+
+הצעה בספרות זו דוחפת מעבר לעיצוב-מחודש-בתוך-המסגרת-הנוכחית.
 [[ai-agents-joyful-assessment-third-space-2026|אל-ח'ורי ומא (2026)]] טוענים שרפורמה
 המאורגנת סביב מניעת שחיתות או זיהוי שימוש בבינה מלאכותית מצמצמת את הדמיון החינוכי
 לשליטה וציות, ומציעים **הערכה מהנה** במקום זאת: הערכה הבטוחה, רספונסיבית-רגשית,
@@ -284,6 +298,10 @@ connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-a
 [[agentic-ai|סוכני בינה מלאכותית]] שנבנו-על-ידי-מדריך (GPT מותאמים, Gems, סוכני
 Copilot Studio) כמרחב חזרה בסיכון-נמוך שבו תלמידים מתרגלים לפני שיפוט, בטענה
 שהבינה המלאכותית מארגנת ראיות בעוד המדריך מפרש אותן.
+
+הקוד הצבעוני הוא האלטרנטיבה שממשיכה להישאל, והגרסה של מוסד אחד עברה את גורלה. [[nerantzi-traffic-light-assessment-genai-2026|נרנצי, פלפרימן ופבלופולו (2026)]] שחזרו דיאלוג פאנל על מסגרת אוניברסיטת לידס, שהייתה בתוקף בכל הפקולטות מאז 2023, שבה אדום אוסר על בינה מלאכותית, כתום משאיר את הכלל למדריך המודולה, וירוק מלמד שימוש אחראי. ההתנגדות שלהם נוגעת להיקף: צבע המוצמד למשימה עונה אם ניתן להשתמש בכלי כאן, אך לא אם ניתן להשתמש בו כדי להבין את הקריאה. ב-2024/25 כ-85% מהמודולים הנלמדים בבית הספר לעסקים נשאו משימות אדומות, בעוד המטרה המוצהרת של האוניברסיטה הייתה להעביר את כל ההערכות לירוק, והמחברים מסיקים שרמזור הוא מיושן וצריך לתת מקום למסגרת שמרכזת את [[evaluative-judgment|השיפוט האנושי]].
+
+**קריטריוני מוצר זקוקים לראיית תהליך — וקריטריונים עוברים בקושי בין הקשרים.** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] סקרו 654 מורים בהשכלה גבוהה בסין ובארצות הברית על איך הם שופטים יצירתיות ברכיבים בסיוע בינה מלאכותית יוצרת, והסיקו שקריטריוני יצירתיות ברמת מוצר צריכים להתלוות לראיית תהליך על מה שהתלמיד תרם בפועל — הנחיות, היסטוריית תיקונים, נימוקים רפלקטיביים — כדי שרכיב מלוטש לא ייחשב כהוכחה לתרומה יצירתית של התלמיד. התוצאה החוצת-תרבותית שלהם מוסיפה אזהרה: רובריקה שהותאמה להשענות אוכלוסייה אחת על חידוש או על השראה עלולה שלא לעבור באופן נקי לאחרת, ולכן קריטריוני הערכה ראויים לאותה בדיקת הקשר כמו המחקרים שהם נועדו לשפוט.
 
 ## השלכות עבור בינה מלאכותית בחינוך
 

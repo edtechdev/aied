@@ -1,16 +1,20 @@
 ---
 title: מחקר איכותני
 created: "2026-10-12T21:27:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T04:42:57-05:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/qualitative-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"

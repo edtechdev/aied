@@ -60,7 +60,7 @@ The framework was built for critical decisions, not classrooms, and the paper do
 - **Instructional designers.** Build the return loop first. A dashboard, tutor or grader should tell the teacher what it changed and why, so the teacher can correct it, not only read it.
 - **Educational technology developers.** Design for both modes. A tool needs a stable mode that runs without constant attention and an adaptive mode that hands control back when its confidence drops or the context changes.
 - **Administrators.** Ask vendors two questions before procurement: what the human can change in the system, and what the system does when it is no longer confident. A tool with no answer to either is oversight in name only.
-- **Researchers.** Test whether reciprocal feedback improves human judgment over time, not only whether it improves the model. The framework supplies the design; the education evidence does not yet exist.
+- **Researchers.** Test whether reciprocal feedback improves human judgment over time, not only whether it improves the model. The framework supplies the design; the education evidence does not yet exist. Its requirement that loops be aligned with the goals of the level above is the clearest statement of why an intervention at one level fails when the level above it is unchanged ([[learning-environments-as-systems|learning environments as systems]]).
 
 ## Limitations
 

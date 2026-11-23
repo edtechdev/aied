@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-17T11:40:00-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -10,6 +10,10 @@ ai_assist:
     role: revision
     date: "2026-11-13"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: revision
+    date: "2026-11-23"
+    agent: hermes-agent
 ethics: [ethics]
 audience: [learners]
 level: [higher ed]
@@ -17,7 +21,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 reviewed_by: [editor]
 connected_concepts: [learners, anxiety-and-stress, student-experience, social-emotional-learning, affective-computing, ethics, motivation, self-regulated-learning, teacher-ai-competency, higher-ed, student-support-and-success]
-connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026]
+connected_articles: [kayali-ai-literacy-tpack-wellbeing-2026, ai-chatbots-emotional-support-human-connection-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, zhang-ai-anxiety-academic-motivation-emotion-2026, wu-psychological-adaptation-ai-japanese-learning-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, mindful-llm-math-tutoring-2026, sec-ai-literacy-narrative-review-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, teacher-education-ai-literacy-sdt-2026, genai-motivation-engagement-2026, ai-chatbot-collective-efficacy-collaborative-learning, sovereign-hive-titl-further-education-2026, aivaluate-anxiety-assessment-2026, policy-deficit-ai-sel-2026, culturally-aware-student-stress-chatbot-2026, daoism-ai-education-philosophy-2026, ai-emotional-intelligence-teacher-development-2026, ai-enabled-course-development-first-year-adjustment-2026, ai-connectedness-adolescent-mental-health-2026, perceived-ai-intelligence-medical-students-mental-health-2026, ai-emotion-regulation-sport-exercise-2026, faculty-ai-well-being-social-supports-2026, mulvenon-test-anxiety-ai-accountability-2026, fang-chatbot-psychosocial-extended-use-2025, folk-dunn-chatbot-companionship-loneliness-2026, zeng-ai-adoption-wellbeing-higher-ed-management-2026]
 ---
 
 > **Well-being** — the positive state of being mentally, physically, and socially healthy, encompassing emotional, psychological, and social dimensions. In AI in education, well-being has become a central concern because the rapid integration of [[generative-ai|generative AI]] into learning environments can affect students' and educators' mental health, motivation, belonging, anxiety, and sense of agency — raising questions about whether AI supports or undermines learners' well-being.
@@ -61,6 +65,9 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 - **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency|teacher AI competency]] and [[educational-development|professional development]].
 
 A structural equation model of 502 university faculty found AI literacy predicted AI well-being far more strongly (β = 0.713) than technological [[self-efficacy|self-efficacy]] (β = 0.082), with social and organizational support reaching well-being only indirectly — competence, not encouragement, carried the effect ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
+
+**Occupational well-being for administrative staff.** [[zeng-ai-adoption-wellbeing-higher-ed-management-2026|Zeng and Kasim (2026)]] surveyed 320 Guangzhou university management staff and modeled AI adoption through the Job Demands–Resources lens: adoption showed no direct association with occupational well-being, but raised technostress, which lowered well-being, while perceived organizational support buffered that stress path. Adoption intensity cannot stand in for better occupational outcomes, so universities should track technostress and support alongside deployment.
+
 - **Relational densification as the evaluative criterion for AI-supported teacher development:** [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] argue that AI supports teachers' socio-emotional development only when it functions as relational infrastructure rather than a symbolic substitute for human accompaniment. They propose **relational densification** as the criterion for judging AI-supported professional-development initiatives — whether they strengthen trust, mentoring, peer support, collaboration, psychological safety, and reduced isolation — and note these relationships have downstream effects on students through classroom climate, [[pedagogy|pedagogical]] responsiveness, and socio-emotional support. The synthesis also cautions that affective data [[governance|governance]] and the political economy of educational AI carry distinct ethical risks, framing [[ai-literacy|critical AI literacy]] as a socio-emotional competence.
 
 - **Ethics and responsible AI:** Well-being is a core ethical consideration in [[ai-education|AI education]], linking to [[ethics|ethics]] and the imperative to design AI that supports rather than harms learners' mental health and belonging.

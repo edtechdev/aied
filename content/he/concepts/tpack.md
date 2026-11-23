@@ -1,7 +1,7 @@
 ---
 title: ידע טכנולוגי-פדגוגי-תוכני (TPACK)
 created: "2026-10-12T19:10:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,10 +9,14 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -23,14 +27,12 @@ ai_assist:
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
-connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026, shenoy-genai-teacher-professional-development-framework-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
 > **ידע טכנולוגי-[[pedagogy|פדגוגי]]-תוכני (TPACK)** — המסגרת (Mishra & Koehler, 2006) המתארת את הידע המשולב שהמורים זקוקים לו כדי להשתמש בטכנולוגיה ביעילות בהוראה: ההשפעה ההדדית של ידע טכנולוגי (TK), ידע פדגוגי (PK), וידע תוכני (CK), ואת הצמתים ביניהם. בעידן הבינה המלאכותית, TPACK הורחב ל**AI-TPACK** / **GenAI-TPACK**, ומדגים כיצד מורים משלבים בינה מלאכותית יוצרת בהוראה בתחום-תוכן. זו העדשה התיאורטית הדומיננטית להבנת האופן שבו [[teacher-ai-competency|כשירות המורה בבינה המלאכותית]] מבוּנת ונבנית דרך [[educational-development|פיתוח מקצועי]].
-
-דומיננטיות זו היא גם חלקית תוצאת אחזור: בסקירת היקף [[meta-analysis-systematic-review|PRISMA]] של 195 מחקרי הכשרת מורים נתמכת-טכנולוגיה, מיומנות דיגיטלית, TPACK ו-DigCompEdu היו מתארי חיפוש מפורשים, ולכן ה-46.5% מסגמות המיומנות מתארים את הקורפוס שנאחז ולא את התחום ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## שאלות למחשבה
 
@@ -59,12 +61,19 @@ TPACK מחזיקה שיִשום יעיל של טכנולוגיה אינו סכו
 - **המסגרת שולטת בשדה כברירת מחדל, ומותחת מעבר לטווח שלה.** בסקירה מונחית-PRISMA של 78 מחקרים על [[learning-design|עיצוב הוראה]] נתמך-AI, רק 19 יישמו מסגרת כשירות נמדדת כלשהי — ו‑TPACK וגרסאותיה היוו **17 מתוך 19 אלה**, בשימוש פרודוקטיבי כעדשה אנליטית אך מתוחות מעבר לטווח המקורי שלהן, שכן TPACK לא תוכננה ליכולות ספציפיות ל‑AI. הרחבות ייעודיות לכן נדירות: **Intelligent-TPACK הופיעה בחמישה מחקרים בלבד**, לרוב בצירוף [[ai-literacy|אוריינות AI]] כדי לטפל בהתקדמות התפתחותית ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **המחקר מתקדם בלי תיאוריה בעוד מסגרות המדיניות אינן נבחנות.** אותה סקירה מצאה ש‑**76% מהמחקרים הסיקו כשירויות מתוך הפרקטיקה ללא מיפוי תיאורטי כלל**, ושאף לא DigCompEdu ולא מסגרת כשירות ה‑AI של UNESCO למורים יושמו כמסגרת אנליטית באף אחד מ‑78 המחקרים — נתק דו-כיווני, שכן העבודה האמפירית אינה צוברת אוצר מילים משותף בעוד המסגרות שאמורות להנחות את הפרקטיקה נותרות לא-נבחנות אמפירית בהקשר הזה.
 
+- **חלק מדומיננטיות זו הוא תוצר אחזור.** בסקירת היקף [[meta-analysis-systematic-review|PRISMA]] של 195 מחקרי הכשרת מורים נתמכת-טכנולוגיה, מיומנות דיגיטלית, TPACK ו-DigCompEdu היו מתארי חיפוש מפורשים, ולכן ה-46.5% מסגמות המיומנות מתארים את הקורפוס שנאחז ולא את התחום ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
+
 ## AI-TPACK ו-GenAI-TPACK
 
 עידן הבינה מלאכותית דחף את המסגרת לקריאה של טכנולוגיה-בעלת-אינטליגנציה. במקום כלי פסיבי, בינה מלאכותית יוצרת היא סוכן פעיל שיכול לתכנן, להפיק תוכן, לחנך ולהסתגל — ולכן ידע היִשום כולל יותר ויותר **תזמור**: החלטה מתי וכיצד בינה מלאכותית פועלת, מבצעת פיגום או נכנעת ל[[human-in-the-loop-ai|שיפוט אנושי]].
 
+- **הנחת הכלי היציב נשברת.** [[shenoy-genai-teacher-professional-development-framework-2026|Shenoy and Saarela (2026)]] טוענים ש-TPACK נבנתה עבור כלים דטרמיניסטיים שפלטיהם יציבים וניתנים לאימות, ולכן פלט GenAI הסתברותי אינו נצבר כידע כלי; מה שמתפתח במקום הוא הכשירות לחקור פלטים.
+
 - **מעבר לידע דיסקרטי.** מחקר ה[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]] טוען שיִשום יעיל של בינה מלאכותית צומח לא מהחזקת תחומים נפרדים אלא מההשפעה ההדדית הדינמית של **חשיבה מערכתית**, **אמונות פדגוגיות** ו**[[self-efficacy|מסוגלות עצמית]]** — מאתגר מודלים סטטיים מבוססי-רשימת-בדיקה של כשירות מורה בבינה מלאכותית. ארכיטיפים של מורים (מייעלים שיטתיים, יוצרים פוריים, צופים פסיביים) מתעוררים מן האופן שבו מורים מעצבים זרימות עבודה הוראה מרובות-סוכנים.
 - **מה מסגרות היִשום מחסירות.** ביקורת של סוכנות-משותפת מחזיקה ש-TPACK ו[[samr-model|SAMR]] מתייחסות לידיעת המורים ולרמות אימוץ אך משאירות כוח, בעלות נתונים ואחריות לא-מטופלות, ולכן ידע היִשום זקוק לגבול אתי מפורש ולא לתחום ידע נוסף ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+- 
+HACC מקצה מחדש את עבודת האינטגרציה ש-TPACK מעניקה לפדגוגיה של המורה במטאקוגניציה של הלומד עצמו, ולכן אינטגרציה מצד הלומד נותרת מחוץ לטווח של TPACK ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
+
 - **ראיה חוצת-רמות לליבה הפדגוגית.** [[pedagogy-first-technology-second-teacher-knowledge-2026|מחקר רב-רמות של 46 מורים ו-2,832 סטודנטים תיכוניים]] מצא שידע טכני בבינה מלאכותית בלבדו לא הספיק — ואף הדהד קלות לתפיסות הסטודנטים אודות בינה מלאכותית לטובת החברה — בעוד שידע בינה מלאכותית פדגוגי (TPAIK) הוא שטיפח את תפיסות הסטודנטים ואת הכוונה ההתנהגותית ללמוד בינה מלאכותית. התוצאה מתומצתת להנחיה **"פדגוגיה ראשונה, טכנולוגיה שניה"** שמהדהדה את ממצאי תפקיד-הגישור שלעיל.
 - **[[ethics|אתיקה]] כמגשרת אינטגרטיבית, לא כגבול.** בסקר של 454 מורי אוניברסיטה, ידע טכנולוגי-בינה-מלאכותית מבודד היה בעל קשר ישיר *שלילי* עם AI-TPACK משולב (β = −0.303) בעוד שההשפעה הכוללת שלו נשארה חיובית (β = 0.639), רצה דרך ידע פדגוגי, תוכני ואתי ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]). ידע אתי העביר גם את ההשפעה הלאה, וניבא הן ידע פדגוגי (β = 0.353) והן ידע תוכני (β = 0.269).
 - **עדשת סקירה לכל התחום.** [[edurev-100741-tpack-genai-review|סקירה שיטתית מזווית TPACK]] (Liu & Zhong, 2025) ניתחה 71 מחקרים אמפיריים של GenAI בלמידת סטודנטים, ומצאה השפעה כוללת חיובית (Hedges' g = 0.752) וזיהתה אוריינות GenAI לסטודנטים ו**פיתוח מקצועי של GenAI-TPACK למורים** כשני העדיפויות הקריטיות של התחום.
@@ -82,7 +91,7 @@ TPACK מחזיקה שיִשום יעיל של טכנולוגיה אינו סכו
 **AI-TPACK כמגשר בין אוריינות ליִשום כיתתי.** מודל משוואה מבנית של מורי מדע טרם-שירותיים סינים ([[ai-literacy-ai-integrated-inquiry-science-teaching-2026|Zou, Li, Wang & Du, 2026)]] ממקם את AI-TPACK לא ככשירות מקבילה אלא כמוסד ההעברה שבו [[ai-literacy|אוריינות בינה מלאכותית]] כללית הופכת לפרקטיקת הוראה. אוריינות בינה מלאכותית חזה AI-TPACK בחוזק, AI-TPACK בתורו חזה [[science-education|מסוגלות עצמית בהוראת מדעים]] ([[self-efficacy]]), ומסוגלות ההוראה הייתה החוזה הבודד החזק ביותר של הכוונה ללמד דרך [[inquiry-based-learning|חקר]] משולב-בינה-מלאכותית.
 
 השרשרת הרציפה המלאה (אוריינות בינה מלאכותית → AI-TPACK → מסוגלות עצמית → כוונה) הייתה מובהקת, כמו גם המסלולים העקיפים הנפרדים דרך AI-TPACK ודרך מסוגלות עצמית; בצירופן, רוב הקשר של אוריינות בינה מלאכותית עם הכוונה רץ דרך הגישרים האלה ולא ישירות, והתוצאה נשמרה לאחר שליטה במגדר, בשנת הלמידים, בתאור המשנה ובתדירות השימוש בבינה מלאכותית. הטענה המעשית של המודל היא רצף עם נקודת כניסה: אוריינות בינה מלאכותית היא הכרחית אך אינה מספיקה, והעבודה של היִשום מתרחשת היכן שידע טכנולוגי, פדגוגי ותוכני משולבים — ושהוא גם המקום שבו נבנית הביטחון של המורים בהוראת התחום.
-- **אימות ככשירות רביעית.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol and Ugur (2026)]] מרחיבים את המודל ב**ידע אימות-AI** — הכנעת פלט הסתברותי של AI לאימות תחום-ספציפי לפני התייחסות אליו כראיה להחלטה לגיטימית — ומזווגים אותו עם תרשים ממוקד-תהליך ל[[design-education|חינוך עיצובי]].
+- **אימות ככשירות רביעית.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol and Ugur (2026)]] מרחיבים את המודל ב**ידע אימות-AI** — הכנעת פלט הסתברותי של AI לאימות תחום-ספציפי לפני התייחסות אליו כראיה להחלטה לגיטימית — ומזווגים אותו עם [[rubrics|רובריקה]] ממוקדת-תהליך ל[[design-education|חינוך עיצובי]].
 
 ## מדוע זה חשוב בחינוך בינה מלאכותית
 
@@ -90,6 +99,10 @@ TPACK היא המסגרת המארגנת את צדו של המורה בבסיס 
 
 **התיווך עובר בעיקר דרך קלות השימוש.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] בחן שישה מסלולים עקיפים מ[[ai-literacy|אוריינות AI]] ומ-TPACK ללמידה עמוקה בקרב 423 מורים טרום-שירותיים: TPACK דרך [[technology-acceptance-model|קלות שימוש נתפסת]] היה הגדול ביותר (0.212) ואוריינות AI דרך תועלתניות הקטן ביותר (0.033), כך שידע היִשום פעל דרך [[usability-research|שמישות]] ולא דרך תועלת.
 **המרכיבים אינם שוקלים באותה מידה במקרה של AI.** בקרב 988 מורים טרום-שירותיים, TCK (β = 0.67) ו-TPK (β = 0.41) חזו AI-TPACK משולב בעוד TK לבדו לא (β = −0.10, p = 0.066), ו-TPACK משולב חזה עמדה כלפי GenAI (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
+
+**הוצאה לפועל, לא תיקון, תחת מגבלת משאבים.** מרצים באוניברסיטה בסומלילנד תיארו שימוש שעוצב על ידי תמיכה מוסדית, מדיניות חסרה ומנוי חודשי של 20 דולר שהם שילמו בעצמם — הקשר ש-TPACK מכיל מבלי לשנות את רכיביה ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
+
+- **מסוגלות עצמית אינה כשירות.** מחקר מבוסס-עיצוב של אימון אוריינות GenAI ל-29 סטודנטים להוראה מצא שסדנה אחת העלתה מסוגלות עצמית בכשירות בינה מלאכותית אך לא כשירות פדגוגית או הערכה, כשתוכניות שיעור על פי רובריקת TPACK קיבלו את הציון הנמוך ביותר באפליקציה יצירתית של GenAI (M = 1.64) ([[genai-literacy-training-teacher-education-dbr-2026|Le et al., 2026]]).
 
 ## השלכות עיצוביות
 

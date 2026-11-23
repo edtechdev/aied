@@ -7,12 +7,16 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-updated: "2026-11-15T16:11:49-05:00"
+updated: "2026-11-23T14:45:00-05:00"
 translation_of: faqs/ai-literacy-evidence
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -35,7 +39,7 @@ ai_assist:
 
 **2.** בקשו מהם להתחייב לתשובה שלהם לפני שהם רואים את של המודל.
 
-**3.** תנו ציון על הביקורת, באמצעות המחוון שאתם כבר משתמשים בו למשימה.
+**3.** תנו ציון על הביקורת, באמצעות [[rubrics|המחוון]] שאתם כבר משתמשים בו למשימה.
 
 **4.** הריצו את זה יותר מפעם אחת לאורך הסמסטר.
 

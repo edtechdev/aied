@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -59,7 +59,7 @@ DBR trades the causal control of [[rct|experiments]] for ecological authenticity
 
 ## Relationship to other methods
 
-DBR is the signature method of the [[learning-sciences|learning sciences]] — the interdisciplinary field that studies learning and the design of learning environments, and that treats building an intervention and studying it as a single activity rather than two. It is complementary to, not a rival of, other research methods (see [[research-methods-aied|research methods]] for the full landscape). Where [[rct|experiments]] establish causality and [[quantitative-research|surveys]] establish breadth, DBR establishes *feasibility and design knowledge* — whether an intervention can be built to work in authentic practice and what design principles support it. It frequently pairs with [[usability-research|usability evaluation]] (to refine the interface) and [[qualitative-research|qualitative methods]] (to understand how learners experience the intervention). A mature DBR program typically culminates in an [[rct|efficacy trial]] or [[educational-measurement|measurement]] study that tests the developed intervention's causal effects at scale.
+DBR is the signature method of the [[learning-sciences|learning sciences]] — the interdisciplinary field that studies learning and the design of learning environments, and that treats building an intervention and studying it as a single activity rather than two. It is complementary to, not a rival of, other research methods (see [[research-methods-aied|research methods]] for the full landscape). Where [[rct|experiments]] establish causality and [[quantitative-research|surveys]] establish breadth, DBR establishes *feasibility and design knowledge* — whether an intervention can be built to work in authentic practice and what design principles support it. It frequently pairs with [[usability-research|usability evaluation]] (to refine the interface) and [[qualitative-research|qualitative methods]] (to understand how learners experience the intervention). A mature DBR program typically culminates in an [[rct|efficacy trial]] or [[educational-measurement|measurement]] study that tests the developed intervention's causal effects at scale. Its cycles are also the natural instrument of [[learning-environments-as-systems|learning environments as systems]], where an intervention introduced at one level must be re-studied at the others.
 
 ## Common Misconceptions
 

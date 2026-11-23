@@ -1,17 +1,21 @@
 ---
 title: ידע קודם
 created: "2026-10-12T19:02:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:00:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -63,6 +67,8 @@ connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-g
 - **האצה והפעלה כעיצוב.** גישות ה[[genai-mindtool-generative-learning|כלי-נשק מנטליים של בינה מלאכותית גנרטיבית]] מעודדות באופן יזום "האצת משימת הלמידה" על ידי הפעלת ידע קודם וסקרנות דרך שאלות הנחיה, חזות וואנלוגיות הנוצרים על ידי בינה מלאכותית (לדוגמה, "מה אתם כבר יודעים על מערכות אקולוגיות?") לפני הצגת תכן חדש — ומדגימות את נתיב החילוץ-והשילוב במקום נתיב מתן התשובות.
 - **מידול לומדים וזיכרון.** מערכות בינה מלאכותית ממידלות ביתר תוקף את מצב הידע הקודם של הלומדים ואת הזיכרון הארוך-טווח (לדוגמה, שילוב מצב ידע קודם ועקומות שכחה בזיכרון של מערכת החונכות), ומאפשרות חזור מרווח וסקירה מתאימה שנבנים על מה שכל לומד כבר יודע.([[nie-personavlm-long-term-personalization-2026]])
 - **מנוף התאמה אישית.** כיוון שהלומדים נבדלים מאוד בידקם הקודם, את ההתאמה יש לכוונן ליחיד — טענה מרכזית בעד [[personalized-learning]] ו[[scaffolding|פיגום]] מתאים הפוגשים את הלומד במצבו בפועל ולא על סמך הנחת ממוצע כיתתי.
+
+- **ידע קודם היה מאפיין הלומד היחיד שהיה ממתן לתמיכה המסתגלת.** לומדים שכבר ידעו את התוכן רכשו יותר (g = .74, 95% CI [.42, 1.05]) מאלה שלא ידעו (g = .63 [.46, .80]), ושתי הקבוצות נהנו, וזה מתאים להסתגלות שמסירה עזרה מיותרת ולא לאפקט היפוך-מומחיות ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## השלכות לתכנון בינה מלאכותית בחינוך
 

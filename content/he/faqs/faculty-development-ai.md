@@ -1,6 +1,7 @@
 ---
 title: "כיצד לעצב פיתוח סגל שישנה באמת את התרגול?"
 created: "2026-10-12T20:40:00-04:00"
+updated: "2026-11-23T14:30:00-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -12,10 +13,14 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -41,7 +46,7 @@ pedagogy: [tpack]
 
 **2.** שימו אימות, גילוי ושליטה בסיכון בתבנית העבודה, במקום שבו משתמשים בהם, כדי שלמשתתף חרד יהיה לאן לשים את הדאגה.
 
-**3.** השקיעו את השעות בהערכה ובמחוונים, התחום החלש בנקודת הפתיחה וזה עם הרווח המדוד הגדול ביותר.
+**3.** השקיעו את השעות בהערכה וב[[rubrics|מחוונים]], התחום החלש בנקודת הפתיחה וזה עם הרווח המדוד הגדול ביותר.
 
 **4.** הפעילו קבוצות לפי [[discipline-specific-aied|דיסציפלינה]], ואז הבדילו בתוכן לפי ניסיון.
 

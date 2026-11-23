@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 249
+**Total concepts:** 250
 
 ## Foundations of AI in education
 
@@ -28,6 +28,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`critiques-of-ai-in-education`** — Critiques of AI in Education — phrases: critical reviews of ai in education; critical review of ai in education; critical reviews of aied; critiques of aied; criticism of ai in education; resisting ai
 - **`history-of-aied`** — History of AI in Education — phrases: decade; history of ai in education; history of aied
 - **`interpreting-and-applying-aied-research`** — Interpreting and Applying AIEd Research — phrases: applying aied research; applying research to practice; evidence-informed practice; interpreting aied research; interpreting and applying aied research; research translation; research-to-practice
+- **`learning-environments-as-systems`** — Learning Environments as Systems — phrases: learning environments as systems; level of analysis; learning ecosystem; sociotechnical systems; systems approach; systems perspective; systems theory; systems thinking
 - **`limitations-in-aied-research`** — Limitations in AIEd Research — phrases: AIED limitations; limitation; limitations; limitations in AIEd research; research limitations; validity of AIEd research
 - **`philosophy-of-ai-in-education`** — Philosophy of AI in Education — phrases: philosophical; philosophy of ai; philosophy of AI in education; philosophy of education
 - **`theories-and-frameworks`** — Theories and Frameworks — phrases: conceptual frameworks; frameworks and theories; theoretical frameworks; theories and frameworks

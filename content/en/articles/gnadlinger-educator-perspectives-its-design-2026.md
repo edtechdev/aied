@@ -1,6 +1,6 @@
 ---
 title: "Towards incorporating educators’ perspectives into the meta-system design of intelligent tutoring systems"
-created: "2026-11-16T09:30:00-04:00"
+created: "2026-11-16T07:34:23-05:00"
 updated: "2026-11-16T09:30:00-04:00"
 type: article
 authors: ["Gnadlinger, F.", "Kriglstein, S."]
@@ -42,7 +42,7 @@ reviewed_by: [editor]
 - **The Tutor Model is described technically rather than educationally.** Its 69 statements clustered around adaptive content, content selection and personalization, and automated scoring, validation and grading; only 5 fell into the Teaching Support cluster. The authors connect this to the long-standing criticism of ITSs as [[explainable-ai|black boxes]].
 - **Feedback runs mostly one way.** The 78 Feedback Model statements formed five clusters, each a directed exchange: feedback to the educator from the ITS, to the educator from the learner, to the ITS from the learner, to the learner from the educator, and to the learner from the ITS. The weight of reporting sits on feedback to students.
 - **The network's strongest edge is the one the blueprint already has.** Across all conversations the most frequent co-occurrence was Learner Model with Educator Model, and the least frequent was Domain Model with Educator Model. In the two-dimensional projection the first axis carried roughly a third of the variance and the second roughly a quarter.
-- **Publications specialize rather than cover all five lenses.** A chi-square test with Monte Carlo simulation (10,000 replicates) returned X² = 214.38, p < 0.0001, which the authors take as evidence that the corpus is heterogeneous: individual papers lean hard on particular codes rather than distributing attention evenly.
+- **Publications specialize rather than cover all five lenses.** A chi-square test with Monte Carlo simulation (10,000 replicates) showed the distribution of codes across publications was far from even, which the authors take as evidence that the corpus is heterogeneous: individual papers lean hard on particular codes rather than distributing attention evenly.
 - **Educator-relevant statements sit in the methods section.** Normalizing statement position by page, the mean landed between 0.36 and 0.41 for all five lenses — the second third of each paper — while the Learner Model was largely absent from discussion and conclusion sections. Reports describe what the system collected, then stop before asking what the teacher did with it.
 - **The reviewed systems cover a narrow slice of schooling.** Mathematics accounted for 8 studies, computer science 5, natural sciences 3, language 3 and domain-agnostic systems 2; learner groups were preschool-to-elementary (5), elementary-to-middle (7), middle-to-high (2) and higher education (7). Main authors were affiliated in Australia (8), Europe (7), Asia (5) and North America (1).
 - **The proposed extension has four moves.** Make educator(s) actors alongside learner(s) in the real-world environment; treat the five models as analytical lenses rather than software modules; add an Educator Interface that reaches every component across the teaching cycle; and add the bidirectional feedback triangle with task-related, process-related, personal, metacognitive and social feedback.
@@ -58,7 +58,7 @@ Statements were extracted against a coding schema defining the five lenses and s
 
 ## What this means for practice
 
-- **For ITS designers and product teams.** The five-cluster map is a checklist of what a real deployment needs and what most reports omit: authoring, an educator-facing monitoring view, explicit teaching support, and professional development material. Shipping a dashboard satisfies one of the four.
+- **For ITS designers and product teams.** The five-cluster map is a checklist of what a real deployment needs and what most reports omit: authoring, an educator-facing monitoring view, explicit teaching support, and professional development material. Shipping a dashboard satisfies one of the four. The map is also a level map: a tutoring system spans learner, tutor, educator and feedback levels at once, the terrain [[learning-environments-as-systems|learning environments as systems]] describes.
 - **For schools and districts procuring an ITS.** Ask what a teacher can change, not only what a teacher can see. The Domain Model finding is the sharp one: if content and assessment are fixed by the vendor, the educator's pedagogical decisions are already made elsewhere.
 - **For researchers reporting on a deployment.** Describe the educator's task, the artifact that mediates it, the rules and policies that constrain it, and the division of labor between teacher and system. These are the categories the Educator Model lens makes visible, and the paper's normalized-position finding suggests they are currently confined to a methods paragraph.
 - **For professional development.** Eighteen statements across 21 studies concerned support for understanding the system, which the authors note matches a recent review by Tan and colleagues. Training is not a nice-to-have appended to implementation; on this evidence it is nearly absent from the literature.

@@ -1,7 +1,7 @@
 ---
 title: קיימות
 created: "2026-10-12T19:35:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T14:00:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -23,8 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -70,7 +74,9 @@ connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partn
 
 ## למידה בר-קיימא כמטרה פדגוגית
 
-כיוון קשור ממסג קיימות לא רק כדאגה סביבתית או מוסדית אלא כמאפיין הלמידה עצמה. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] טוענים שלמידה בסיוע AI מסכנת מיקור קוגניטיבי וניתוק מהקשרים אותנטיים, ומציעים מסגרות (E3-HOT) עבור **למידה בר-קיימא** — למידה שנשמרת, מועברת, ונשארת מחוברת לבעיות אמיתיות במקום להיות מנותקת על ידי [[cognitive-offloading|העמסה קוגניטיבית]]. הדבר מקשר קיימות ל[[agency|סוכנות]] ול[[critical-thinking|חשיבה ביקורתית]].
+כיוון קשור ממסג קיימות לא רק כדאגה סביבתית או מוסדית אלא כמאפיין הלמידה עצמה. הטיעון הרחב יותר שהרפריימינג הזה משרת אינטרסים מסוימים נאגר תחת [[critiques-of-ai-in-education|ביקורת על בינה מלאכותית בחינוך]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] טוענים שלמידה בסיוע AI מסכנת מיקור קוגניטיבי וניתוק מהקשרים אותנטיים, ומציעים מסגרות (E3-HOT) עבור **למידה בר-קיימא** — למידה שנשמרת, מועברת, ונשארת מחוברת לבעיות אמיתיות במקום להיות מנותקת על ידי [[cognitive-offloading|העמסה קוגניטיבית]]. הדבר מקשר קיימות ל[[agency|סוכנות]] ול[[critical-thinking|חשיבה ביקורתית]].
+
+- **חשבון שער (gatekeeping).** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] מגדיר קיימות פדגוגית כערך למידה בר-קיימא שמופק תחת תנאים כלכליים, חברתיים, סביבתיים ומוסדיים שאפשר לשמר, והופך את הערך הזה לשער שאי-אפשר לפצות עליו במקום עמוד אחד מבין חמישה.
 
 ## קשרים למושגים אחרים
 

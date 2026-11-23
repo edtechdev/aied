@@ -1,7 +1,7 @@
 ---
 title: "ספרנים"
 created: "2026-10-12T21:00:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+updated: "2026-11-23T14:15:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,10 +12,14 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -41,7 +45,7 @@ connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, gen
 
 ## מבוא
 
-ספרנים הם האנשי מקצוע שיושבים בין שאלת הלומד לרשומה האקדמית: ספרני ייחוס וקשר, מומחי נושא, ספרני הוראה המספקים הוראת אוריינות-מידע, והצוות שמנהל אוספים ומאגרים. ב[[ai-education|בינה מלאכותית בחינוך]] הם נקראים בשם פחות פעמים בהרבה מ[[teacher-role|מורים]] ו[[administrator|מנהלים]], אך הקורפוס מעניק להם תפקיד ספציפי וניתן-לבדיקה. הם התשובה האנושית לבעיית האמינות ש[[generative-ai]] יוצר, המדריכים המלמדים [[evaluative-judgment]] ואסטרטגיית חיפוש ולא רק מספקים מקורות, ו — במקרה החזק ביותר במאגר הידע — רכיב מעוצב של מערכת בינה מלאכותית ולא שירות לצדה.
+ספרנים הם האנשי מקצוע שיושבים בין שאלת הלומד לרשומה האקדמית: ספרני ייחוס וקשר, מומחי נושא, ספרני הוראה המספקים הוראת אוריינות-מידע, והצוות שמנהל אוספים ומאגרים. ב[[ai-education|בינה מלאכותית בחינוך]] הם נקראים בשם פחות פעמים בהרבה מ[[teacher-role|מורים]] ו[[administrator|מנהלים]], אך הקורפוס מעניק להם תפקיד ספציפי וניתן-לבדיקה. הם התשובה האנושית לבעיית האמינות ש[[generative-ai]] יוצר, המדריכים המלמדים [[information-and-media-literacy|אוריינות מידע]] ו[[evaluative-judgment|שיפוט הערכתי]] ואסטרטגיית חיפוש ולא רק מספקים מקורות, ו — במקרה החזק ביותר במאגר הידע — רכיב מעוצב של מערכת בינה מלאכותית ולא שירות לצדה.
 
 עמוד זה מתייחס לתפקיד כנפרד משכניו. [[educational-technology-developers]] בונים את מערכות השליפה וההמלצה; ספרנים מחליטים מה מערכות אלה לא אמורות להיסמך כדי להסיק. [[academic-integrity]] מעצב שימוש בינה מלאכותית כייחוס וגילוי; המסגור של הספרן — ייחוס, מקוריות, גישה — הוא סמוך אך קונקרטי יותר.
 

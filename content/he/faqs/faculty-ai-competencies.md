@@ -6,12 +6,16 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-11-15T16:11:00-05:00"
+updated: "2026-11-23T04:42:57-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"

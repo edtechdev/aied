@@ -1,7 +1,7 @@
 ---
 title: "מגבלות במחקר AIEd"
 created: "2026-10-12T19:50:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T12:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,10 +12,14 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -24,7 +28,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied]
+connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
 ---
 
@@ -37,13 +41,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - כמה הייתם סומכים על כותרת כמו 'חונכות AI מגבירה למידה ב-30%' אם הייתם לומדים שהיא באה מ-30 סטודנטים בקורס אחד במוסד אחד? העמוד מסמן כלילות ודגימות קטנות כמגבלות חוזרות — מה הייתם רוצים לדעת לפני פעולה על ממצא בודד כלשהו?
 - מגבלה מפתיעה היא 'בעיית המהירות': AI מתפתח מהר יותר משממצאים מתפרסמים, כך שמחקר של דור מודל אחד עשוי כבר לתאר מערכת מיושנת. כיצד זה צריך לשנות את הביטחון שאתם מעניקים למחקר חינוך-ובינה-מלאכותית?
 - מחקרים רבים מסתמכים על עמדות ושימוש מדווחים-[[self-report-measures|עצמית]], שמוטים — אנשים מעריכים יותר מדי את המיומנות שלהם ומדווחים פחות מדי על שימוש לרעה. האם עניתם פעם על סקר לגבי הכישורים או ההתנהגות שלכם באופן שלא תאם למציאות? מדוע מדדים מבוססי-תפיסה מתפזרים כך תכופ מביצועים אובייקטיביים?
-- העמוד מציין שמסגרות מוכרות כמו טקסונומיית בלום נקראות לרestaurate כסולמות נוקשים, ושאפילו תיאוריות בשימוש נרחב כמו תיאוריית ה[[cognitive-offloading|עומס הקוגניטיבי]] עוררו ערעור. מתי ראיתם תיאוריה מופיעה כאמת מיושבת בהקשר שהראיות שלהן עצמן היו מעורעות בפועל?
+- העמוד מציין שמסגרות מוכרות כמו [[bloom-taxonomy|טקסונומיית בלום]] נקראות לרestaurate כסולמות נוקשים, ושאפילו תיאוריות בשימוש נרחב כמו תיאוריית ה[[cognitive-offloading|עומס הקוגניטיבי]] עוררו ערעור. מתי ראיתם תיאוריה מופיעה כאמת מיושבת בהקשר שהראיות שלהן עצמן היו מעורעות בפועל?
 - רוב מחקר ה-AI תלוי במודלים קנייניים ואטומים שהנתונים והעדכונים שלהם אינכם יכולים לבדוק. אם אינכם יכולים לאמת איזה מודל בדיוק הפיק תוצאה, כמה תוכלו לסמוך לטענות הנשענות עליה — ומה היה הופך ממצאים לשחזירים יותר?
 - אם אתם מרצה או מעצב ללא זמן לקרוא מחקר ראשוני, כיצד תחליטו אילו טענות AI אמינות דייכם לשנות את הפרקטיקה שלכם — בהינתן שהספרות מפוצלת, זמנית וכתובה לחוקרים?
 
 ## מבוא
 
-בינה מלאכותית בחינוך היא תחום זז-מהר והטרוגני, ובסיס הראיות שלו נושא קבוצה ייחודית של מגבלות שחוקרים, אנשי פרקטיקה ומעצבי-מדיניות צריכים לשקול בעת שימוש בממצא כלשהו. חלקן משותפות עם ספרות [[learning-sciences|מדעי-הלמידה]] והפסיכולוגיה הרחבה יותר; אחרות מוגברות או הופכות ייחודיות מטבעה של בינה המלאכותית עצמה. עמוד זה מארגן אותן לארבעה תחומים חוצים.
+בינה מלאכותית בחינוך היא תחום זז-מהר והטרוגני, ובסיס הראיות שלו נושא קבוצה ייחודית של מגבלות שחוקרים, אנשי פרקטיקה ומעצבי-מדיניות צריכים לשקול בעת שימוש בממצא כלשהו. חלקן משותפות עם ספרות [[learning-sciences|מדעי-הלמידה]] והפסיכולוגיה הרחבה יותר; אחרות מוגברות או הופכות ייחודיות מטבעה של בינה המלאכותית עצמה. עמוד זה מארגן אותן לארבעה תחומים חוצים. מדובר בבעיות בראיות; גוף טיעונים נפרד על המטרות שהראיות משרתת מרוכז תחת [[critiques-of-ai-in-education|ביקורות על בינה מלאכותית בחינוך]].
 
 ## מגבלות מתודולוגיות
 
@@ -69,6 +73,10 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 
 - **תוויות המיוצרות על ידי מודל אינן אמת-קרקע.** היכן שהתוויות שמאמנות או מעריכות מערכת מיוצרות בעצמן על ידי מודלי שפה, הסכם בין מתארים אינו יכול לבסס תקפות: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] לא אמתו אף פעם את מתארי הטענה שלהם מול תוויות-זהב אנושיות, ו-49 מסווגי המחשב שהם משחררים יורשים את המקור הזה ועשויים לא להיות תקפים היכן שיישומים נבדלים במימדים משמעותיים. הסכימה שלהם גם ראתה תפקוד גרוע באופן מובהק מהמסווג המכוון-עדין שאומן על נתונים עם מתארי-מומחה (macro-F1 0.673 לעומת 0.76), ומשאירה קורפוסים עם תוויות-מומחה כדאיים כשנדרשת אמון גבוה.
 - **בסיס הראיות עצמו מוטה בהתפלגותו.** סקירת היקף של 407 מחקרים על [[formative-assessment|הערכה מעצבת]] נתמכת-טכנולוגיה נשענה רק על Web of Science ו-Scopus. היא גם הוציאה 61 רשומות על פי קריטריוני שפה, כך שהפער הגיאוגרפי שהתחום מדווח עליו עשוי לשקף חלקית אילו מקורות נכללים במדדים ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+
+- **עיצוב שלושת התנאים חסר.** לאורך שניים-עשר מחקרי GenAI שנסקרו, אף אחד לא מדד ביצוע בסיוע יחד עם מבחן ללא AI מיידי ומעוכב עם אימות דחייה, ולכן רווחי הסיוע אינם מחוברים לשימור ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**כדאיות היא תחום תוצאה, לא מבוא.** פיילוט של שתי קוהורטות על מטופל מדומה בינה מלאכותית רשם 19 מתוך 72 סטודנטים מוזמנים (26%), השלים את כל המפגשים והסקרים (100%), ולא סיים אף מפגש בכשל טכני — תוצאות אמיתיות, אך תוצאות הכדאיות והקבילות הוגדרו לאחר האיסוף ולא נקבעו קריטריונים להתקדמות מראש ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). שיעור השלמה הוא מידע רק מול קריטריונים שנקבעו מראש; אחרת "זה רץ" ו"זה עבד" הם אותה משפט.
 
 ## בעיית המהירות: AI מתפתח מהר יותר מהממצאים
 
@@ -125,6 +133,8 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 **אחוז הכותרת יכול להיות ארטיפקט של מונחי החיפוש.** בסקירת היקף של 195 מחקרי הכשרת-מורים, מיומנות דיגיטלית ו[[tpack|TPACK]] היו מתארי-חיפוש מפורשים בעוד שלעיצוב הוראה ולהערכה לא היה שווה-ערך, כך ש-**46.5% ו-1.9%** המדווחים מתארים את אסטרטגיית השליפה לפני שהם מתארים את התחום. טענת שכיחות משמעותית רק כמידת השאילתה שהפיקה את הקורפוס.
 
 **ושיעור הבסיס הוא המספר שאיש אינו מציין.** המגבלות המתודולוגיות כאן ניתנות למדידה ולא עניין של רשמים: בביקורת ביקורתית של 80 מחקרי HCI על חשיבה ביקורתית עם AI, **42 (52%) לא הפעילו קבוצת בקרה** ורובם של השאר הסתמכו על דיווח-עצמי. כאשר יותר ממחצית מהממצאים החיוביים של תחום מגיעים מעיצובים שאינם יכולים להפריד בין השפעת AI לפעילות רגילה, ה-prior המתאים לכל ממצא בודד הוא ספקנות, ולא קבלה זמנית.
+
+תוצאה מעשית של מגבלות אלה היא שמספר פרקטיקות חינוכיות נפוצות נשענות על ראיות שאינן מסוגלות לשאת אותן; [[what-not-to-do-ai-education|מה שמחנכים צריכים להימנע מלעשות עם בינה מלאכותית]] מרכז את הפרקטיקות האלה לפי תפקיד, ומכנה את המגבלה הספציפית מאחורי כל אזהרה.
 
 ## תפיסות מוטעות נפוצות
 

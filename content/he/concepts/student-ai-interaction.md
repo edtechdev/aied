@@ -1,7 +1,6 @@
 ---
 title: אינטראקציה בין תלמידים לבינה מלאכותית
 created: "2026-10-12T19:10:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +9,8 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T08:30:00-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
-connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026, richter-generative-ai-appropriation-comparative-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -41,6 +45,8 @@ connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-co
 ## מבוא
 
 אינטראקציה בין תלמידים לבינה מלאכותית היא המשטח הנצפה של [[student-engagement|המעורבות]] של לומדים עם בינה מלאכותית יוצרת — השאלות שהם מציגים, ההנחיות שהם כותבים, הדרך שבה הם מנהלים משא ומתן ואימותים את הפלט שלה, וכיצד דפוסים אלה משתנים בין שלבי המשימה לאורך זמן. היא נמצאת במפגש שבין [[student-experience]], [[prompt-engineering]] ו[[learning-analytics]], והיא מרכזית בוויכוח על שאלת האם שימוש בבינה מלאכותית בחינוך מייצג למידה אמיתית או [[cognitive-offloading|העמסה קוגניטיבית-יתר]]. בעוד [[human-ai-collaboration]] ממסגרת את החלוקה ברמה גבוהה של העומס הקוגניטיבי בין אנשים למודלים, אינטראקציה בין תלמידים לבינה מלאכותית היא היישום הקונקרטי והמדיד של מערכת היחסים הזו — הפניות הספציפיות, ההנחיות ומהלכי המשא ומתן שהלומדים מבצעים מרגע לרגע.
+
+האינטראקציה אינה תמיד אינסטרומנטלית. מודל ההסתגלות הרלציונלית המשולבת-במכונה של Boyd and Markowitz מפריד בין בינה מלאכותית כ*שותף רלציונלי*, שבו הלומד עוסק במערכת ישירות, לבין בינה מלאכותית כ*מתווך רלציונלי*, שבו המערכת מעצבת מחדש את התקשורת בין אנשים ([Boyd & Markowitz, 2026](https://doi.org/10.1177/17456916251404394)). המקרה השני הוא הפחות נראה, כמו כאשר בינה מלאכותית כותבת טיוטת משוב שהתלמיד קורא אחר כך כקולו של המדריך שלו. המודל הוא מסגרת ולא ממצא, והוא לא נוסה בכיתה. עם זאת הוא מכנה הבחנה שמחקרי אינטראקציה נוטים למזג יחד, כי מורה שנושא-חברה ומתווך שמסנן תקשורת עמיתים או מדריך מעלים שאלות שונות לגבי אמון ותלות.
 
 ### מה תלמידים שואלים את הבינה המלאכותית
 
@@ -61,6 +67,8 @@ connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-co
 
 האינטראקציה, לא הכלי, קובעת את הנתיב: בניסוי שדה עם קרוב ל-1,000 תלמידי תיכון במתמטיקה, גישה חופשית ל-GPT-4 העלתה ציוני תרגול ב-48% אך הורידה ציוני בחינות ללא סיוע ב-17%, בעוד שאותו מודל, כשהגישה אליו הוגבלה לרמזים שתוכננו על ידי המורה, העלה תרגול ב-127% ומיעט באופן ניכר את הגירעון ([[naim-bypass-offload-scaffold-llm-learning-2026|Lee, 2026]]).
 
+מחקר מבוקר במשימת תכנות מניב מספרי תוצאה על סוגי אינטראקציה אלה. [[shen-ai-skill-formation-2026|Shen and Tamkin (2026)]] הצמידו באקראי 52 מפתחים שפועלים ללמידת ספריית Python לא-מוכרת, עם עוזר GPT-4o או בלעדיו, וקודדו כל שאילתה מול הקלטות מסך. עלו שישה דפוסים, ושלושת אלה שהחזיקו את הלומד בעבודה קוגניטיבית קיבלו ניקוד גבוה בהרבה משלושת אלה שהעבירו אותה: חקירה קונספטואלית בלבד (65%), הסבר-קוד היברידי (68%), וייצור-ואז-הבנה (86%), מול האצלה לבינה מלאכותית (39%), תלות מדרגתית (35%), וניפוי שגיאות איטרטיבי עם העוזר (24%). האצלה הייתה הדפוס המהיר ביותר, ב-19.5 דקות; ניפוי השגיאות דרך העוזר היה גם איטי יותר (31 דקות) וגם הגרוע ביותר. הסדר אומר שהמהלך המכריע הוא מה החילופין עושים למודל המנטלי של הלומד — מפתחים אותו או מחליפים אותו.
+
 האם התלמידים הנחו ביעילות, ולא כמה הם הנחו, נצבע עם ההצלחה: יעילות שאילתות AI ופתרון בעיות מונחה-AI היו החוזים החזקים ביותר להצלחה אקדמית בקרב 128 סטודנטים להנדסה, ונשארו משמעותיים גם לאחר בקרה על ממוצע הציונים (GPA) ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 הקשר ההתנהגותי הוא אות נפרד מהשאלה עצמה: בארבעה פריסות של TutorTrace (480 לומדים, כ-180,000 אירועי IDE), תלות הסיוע במצב ההתנהגותי האחרון של הלומד קיצרה את המרווחים בין שאילתות ללא עבודה עצמאית מ-50.0% ל-20.7%, ושאילתות עומדות לבוא ניתנו לחיזוי מהתנהגות בלבד (AUROC = .726) ([[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]]).
@@ -69,9 +77,11 @@ connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-co
 
 לולאת אימות יכולה להישאר שטחית: ניתוח לגסי-רציונלי של פריסה של סוכן LLM לאורך ארבעה שבועות בקורס מסדי נתונים לתואר ראשון מצא מחזור שאילתה–הערכה–שאילתה משמעותי, ועם זאת לולאות מעבר-עצמי חזקות בתוך מצבים מסדר נמוך, ורק 3.92% מהאינטראקציות הגיעו לקוגניציה מסדר גבוה ([[li-dbagent-llm-educational-agent-cs-2026|Li et al. (2026)]]).
 
+ניתוק שיחתי מכיל טקסונומיה משל עצמו — לעג, העלמת נוכחות, שיקוף, הימנעות מתגובה ותשובה שקרית — ועל פני 246 דיאלוגי מתמטיקה בחטיבת ביניים רק ההימנעות מתגובה נשארה במקום שהיא פותרת, ולכן הדפוס המזיק הוא כישלון בהתאוששות ([[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]).
+
 Bernstein and Sibia (2026) מתעדים דפוס איטרטיבי-מסנן בטיפול שבו סטודנטים של CS2 מטפלים בהסברים של GenAI ([[student-reception-genai-analogies-computing-2026]]): הם מצלבים אותם עם סיכומי הרצאות, דורשים מקור ("I would be a lot more doubtful... without one" — הייתי נחרץ יותר בספק... בלעדיו), ובודקים בשאלות המשך כדי למצוא חוסר עקביות במקום לשפוט פעם אחת לקבל או לדחות. התלמידים קוראים גם את ההסברים במובן הידע והרקע שהם הניחו להם — [[prior-knowledge|ידע קודם]] שמעבר לסילבוס, התייחסויות ברירת-מחדל לספורט ולמשחקים ("the more male-dominated side of computing" — הצד הדומיננטי-גברי יותר של המחשוב), וחזרות מוגזמות — כולם פעלו כאותות לגבי הקורא המדומה, תוך שפיגום-יתר נקרא כמטפל בהם מגבוה ולא רק כבלתי-יעיל.
 
-הייעוץ עם הבינה המלאכותית ב*נקודה* הנכונה במשימה חשוב לא פחות מהניסוח של ההנחיה הבודדת: במחקר הנ"ל, [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] מצאו שהמיעוט המופנה-להקצאה-מחדש חילף בין עבודה עצמאית לייעוץ עם GenAI ודיווח על מאמץ כולל ללא שינוי אך עם מוקד מוסט — העברת משאבים מחיפוש לבדיקת איכות ויזות טיעונית, וכתיבת הערות רפלקציה בסוף מושבים כדי להתמודד עם שימור שטחי — בעוד שלומדים עם מטרות שליטה אך עם [[ai-literacy|אוריינות AI]] חלשה נפלו ל"פרדוקס היעילות", והעמסו "לא בכוונה, אלא כברירת מחדל".
+הייעוץ עם הבינה המלאכותית ב*נקודה* הנכונה במשימה חשוב לא פחות מהניסוח של ההנחיה הבודדת: במחקר הנ"ל, [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] מצאו שהמיעוט המופנה-להקצאה-מחדש חילף בין עבודה עצמאית לייעוץ עם GenAI ודיווח על מאמץ כולל ללא שינוי אך עם מוקד מוסט — העברת משאבים מחיפוש לבדיקת איכות ויזות טיעונית, וכתיבת הערות רפלקציה בסוף מושבים כדי להתמודד עם שימור שטחי — בעוד שלומדים עם מטרות שליטה אך עם [[ai-literacy|אוריינות AI]] חלשה נפלו ל"פרדוקס היעילות", והעמסו "לא בכוונה, אלא כברירת מחדל". **תמונתו של התלמיד מהמודל עוקבת אחרי אופן השימוש בו.** [[cs-students-llm-conceptualizations-prompting-2026|Donekal Chandrashekar et al. (2026)]] מצאו ש-68% מ-283 סטודנטים אחרי CS1 תיארו מודל שפה גדול כאדם ("חבר חכם", "מורה"), ותיאור-מכונה הלך יחד עם ידע מנגנוני גבוה מעט יותר והנחיה עשירת-הקשר יותר.
 
 ### מהאינטראקציה לפדגוגיה
 
@@ -83,11 +93,16 @@ Bernstein and Sibia (2026) מתעדים דפוס איטרטיבי-מסנן בט�
 
 אי-שימוש הוא עצמו דפוס אינטראקציה שעל [[pedagogy|הפדגוגיה]] לתכנן אליו. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], שחקרו 85 [[teacher-education|סטודנטים להוראה]] בשלושה קורסים שבהם שימוש ב-GenAI ב[[assessment|הערכה]] הותר במפורש, מצאו ש-62.4% (53 מתוך 85) לא השתמשו בו כלל, פחות בהרבה מה-79–83% אימוץ הנצפה בסקרים דומים בבריטניה ובאוסטרליה, וכי השימוש של המאמצים היה שטחי ומתקן יותר מאשר יוצר (הגהה 43.8%, בדיקות בהירות 34.4%, יצירת טקסט רק 18.8%). הבחירות שלהם נצבעו עם עיצוב ההערכה והתרבות המוסדית ולא עם קושי טכני: 41.5% מהלא-מאמצים פחדו שיואשמו בטעות ב[[academic-integrity|גניבה ספרותית]], ותשעה מאחד-עשר הנחקרים קראו את המדיניות המתירה עצמה כמלכודת אפשרית. הפער שבין 32 משתמשים מדווחים בסקר ל-28 הצהרות עצמיות מראה שהאינטראקציה המדווחת של התלמידים עם בינה מלאכותית נצבעת עם השלכות הדירוג — וזו אזהרת מדידה לחשבונות של אנליטיקת למידה על אינטראקציית תלמיד–בינה מלאכותית.
 
+- **טיפולוגיית פרקטיקה מפרידה חמישה אופני שימוש בצ'אטבוט.** חמש עשרה קבוצות מיקוד עם 61 סטודנטים גרמנים הבדילו בין פרקטיקות כלי-תמיכה, מקל למידה, מחבר יחיד, מחבר ראשון ומחבר שני, ומצאו שאי-שימוש יכול להיות מקור גאווה ולא פגם ([[grothe-hammer-studying-ai-chatbots-typology-2026|Grothe-Hammer et al., 2026]]).
+
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] מתעדים מה מוסיף דיאלוג פתוח עם בינה מלאכותית יוצרת בביקורת עמיתים: סטודנטים שחקרו את המודל במקום לקבל את הצעתו הראשונה הפיקו משוב שעמיתים דירגו גבוה יותר, ודיווחו על יותר הנאה מהמשימה ופחות [[anxiety-and-stress|חרדה]].
+
+ההקלה שהדיאלוג מפיג בחרדה יכולה להיות חברתית ולא טכנית: בקרב 596 סטודנטים מצרים לאנגלית ושמונה ראיונות, לומדים תיארו לשאול את הכלי שוב ושוב כי "אין לחץ, ואף אחד לא שופט" ([[alshammari-interactive-ai-efl-tam-2026|Alshammari and Abdelaty (2026)]]).
 
 ## משמעת ומעורבות קוגניטיבית בצ'אט בין תלמידים לבינה מלאכותית
 
 - **מעורבות קוגניטיבית הקשורה לתחום דעת בצ'אט בין תלמידים לבינה מלאכותית.** Chang and Li (2026) מנתחים הנחיות תלמידים לבינה מלאכותית על פני 116 קורסים בעיצוב תוך-אישי, חוצה-תחומים, ומראים ששיחות התלמיד–בינה המלאכותית משקפות מעורבות קוגניטיבית **הקשורה לתחום דעת** ולא סגנונות אינטראקציה אישיים קבועים. כ-62% מההנחיות קידדו דרישה קוגניטיבית מסדר גבוה בסך הכל, אך פרופילי רמת בלום נבדלו חדות בין תחומי הדעת: קורסי [[stem-education|STEM]] עוררו הנחיות ששורשן ביישום (Apply, 20.8%), קורסי שפה בהבנה (Understand, 31.7%), וקורסי מדעי החברה ביצירה (Create, 33.8%). השוואות זוגות תוך-אישיות אישרו שהתלמידים עצמם יצרו משמעותית יותר הנחיות מסדר גבוה בקורסי מדעי החברה מאשר בקורסי STEM (pooled n = 16, p < .001), והשונה ברמת הקורס עלתה על השונה ברמת התלמיד — טיעון חזק לכך שעוזרי הוראה מבוססי בינה מלאכותית צריכים להיות מעוצבים ונערכים תוך התחשבות בהקשר התחומי.
+- **השימוש מתרכז שם שבו העבודה בעלת-מבנה בעיה.** בשכפול על פני 991 סטודנטים בחמש אוניברסיטאות אמריקאיות, התלמידים דיווחו על שימוש בבינה מלאכותית ב-88% מקורסי המדעים הטבעיים מול 52% מקורסי הרוח ו-36% מקורסי מדעי החברה, ולימוד החליף את הכתיבה כמשימה הנפוצה ביותר ([[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]).
 - **כמה סטודנטים משתמשים ב-AI לא ניבא כיצד הרגישו לגביו.** בקרב 819 סטודנטים, מגדר, מומחיות AI מדווחת-עצמית ותדירות שימוש — כולם לא הגיעו למובהקות ב-MANOVA (Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). משתמשים כבדים וקלים באותה דגימה החזיקו באותן דעות ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 - **"תלמיד אינו יכול להזיז ציון של מעריך."** הם יכולים, וזהו הכשל העמיד ביותר בסוללה: **17 מתוך 22** מודלים העלו את הציון שלהם יותר לאחר התנגדות עירומה מאשר לאחר בקשה להסתכל שנית, כולל **שישה משמונת** אלה שעברו כל בדיקת משחק ובדיקת תשובה ריקה. הגדול ביותר היה Llama 3.2 3B ב-**+33.2% מהסקאלה**, והבקשה להסתכל שנית עצמה הורידה ציונים עבור **עשרה** מתוך 17, ולכן הניגוד אינו האפקט הגולמי של ההתנגדות. [[porcaro-ai-grading-benchmark-2026|ציונים שתלמיד יכול להתווכח איתם זקוקים לתיעוד של החליפין]].

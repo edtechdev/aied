@@ -1,7 +1,7 @@
 ---
 title: הערכה עיצובית
 created: "2026-10-12T19:45:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:15:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,10 +11,14 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -52,7 +56,9 @@ connected_articles: [llm-multi-agent-conversation-assessment-2025, causal-modeli
 - **מאגר פריטים מיוצר נוח אינו נותן סיגנל עיצובי.** בפריסה בת 10 שבועות כ-70% מפריטי התרגול המיוצרים על ידי בינה מלאכותית נענו נכון על ידי כל תלמיד (p = 1.0), ולכן חידונים בעלי סיכון נמוך שרצו כל 15 עד 20 דקות התקבלו היטב אך נשאו כמעט אין מידע מפלה להתאמת הוראה ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 - **ניקוד מסה אוטומטי:** מסגרות רב-סועניות (למשל, MASS) משפרות עקביות על פני [[llm|מודלי שפה גדולים]] עצמאים עבור [[automated-essay-scoring|ניקוד מסה]], אם כי [[explainable-ai|הפרשנות]] של החלטות ניקוד רב-סועניות נותרת אתגר פתוח.
 - **צנרות ניקוד עיצוביות:** [[cotal-formative-assessment-scoring-2026|CoTAL]] משלבת פרומפטינג Chain-of-Thought עם [[active-learning|למידה פעילה]] ועיצוב ממוקד-ראיה לייצור ניקוד הערכה עיצובי ניתנת-להכללה עם הנדסת [[prompt-engineering|פרומפטים]] אנושית-בהלופה.
-- **הערכות [[automated-assessment|מסומנות אוטומטית]] בתדירות גבוהה:** [[automated-formative-assessments-a-level-sciences|הערכות עיצוביות אוטומטיות במדעי A-level]] בודקות את ההשפעה של הערכה עיצובית בתדירות גבוהה ומסומנת אוטומטית על [[learning-gains|תוצאות למידה]]. סקירת היקף של סימון אוטומטי של תשובות קצרות ב[[science-education|מדע]] (2017–תחילת 2024) מאשרת שמקרה השימוש העיצובי-קצר-תשובה הזה הוא שדה עם משיכה אמיתית: מודלי משפחת BERT שלטו בסימון האוטומטי עד 2021 לפני פרומפטינג [[llm|מודלי שפה גדולים]] מ-~2022, ומודלים מוגברים-תחום, מודעים-רובריקה ו-Chain-of-Thought ביצעו את הביצועים הטובים ביותר — עם זאת, הקריאות של הסקירה להערכה מקיפה ופערי [[bias-mitigation|הוגנות]] והסבר שאינם נפתורים מזהירים מפני הרחבת מערכות כאלה לשימוש [[summative-assessment|מסכם]] או בעל חשיבות גבוהה ללא תיווך ([[auto-marking-short-answer-science-2026]]).
+- **הערכות [[automated-assessment|מסומנות אוטומטית]] בתדירות גבוהה:** [[automated-formative-assessments-a-level-sciences|הערכות עיצוביות אוטומטיות במדעי A-level]] בודקות את ההשפעה של הערכה עיצובית בתדירות גבוהה ומסומנת אוטומטית על [[learning-gains|תוצאות למידה]]. סקירת היקף של סימון אוטומטי של תשובות קצרות ב[[science-education|מדע]] (2017–תחילת 2024) מאשרת שמקרה השימוש העיצובי-קצר-תשובה הזה הוא שדה עם משיכה אמיתית: מודלי משפחת BERT שלטו בסימון האוטומטי עד 2021 לפני פרומפטינג [[llm|מודלי שפה גדולים]] מ-~2022, ומודלים מוגברים-תחום, מודעי [[rubrics|רובריקה]] ו-Chain-of-Thought ביצעו את הביצועים הטובים ביותר — עם זאת, הקריאות של הסקירה להערכה מקיפה ופערי [[bias-mitigation|הוגנות]] והסבר שאינם נפתורים מזהירים מפני הרחבת מערכות כאלה לשימוש [[summative-assessment|מסכם]] או בעל חשיבות גבוהה ללא תיווך ([[auto-marking-short-answer-science-2026]]).
+
+- **חידון משוחק יכול להינות מבלי ללמד.** ארבעה-ושלושים סטודנטים למוזיקולוגיה דירגו חידון בינה מלאכותית אדפטיבי כהנמוך ביותר בהשוואה עם הוראת סעוד מסורתית (M = 2.74 מתוך 5) והתפצלו 21 מול 13 בשאלה האם היו ממליצים עליו, בעוד ההמלצה עקבה אחרי האופן שבו האפליקציה הרגישה בשימוש (שימוש עתידי 3.52 מול 1.54) ולא אחרי הבנת הנושא (3.81 מול 3.62, p = 0.420) ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]).
 
 ## משוב המיוצר על ידי בינה מלאכותית
 

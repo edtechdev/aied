@@ -11,11 +11,15 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
-updated: "2026-11-08T11:34:07-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
+updated: "2026-11-23T13:15:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -25,7 +29,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, collaborative-learning, assessment, peer-assessment, academic-integrity, agency, authentic-assessment, ai-use-disclosure, higher-ed, teacher-education, formative-assessment, student-engagement, learning-design, problem-based-learning, sociocultural-learning]
-connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026]
+connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-assessment-agency-2026, jin-emergent-learner-agency-implicit-hai-2026, genai-counter-learner-groupthink-2025, xu-genai-collaborative-space-2026, hao-human-ai-collaborative-problem-solving-cognition, golrang-propact-pair-programming-2026, spritz-ai-disciplinary-mediation-student-teams-2026, oppenheimer-llms-collaborative-learning-partners-2026, polished-artifacts-fragile-engagement-2026, breideband-community-builder-cobi-2026, niari-ai-pedagogical-mediator-collaborative-learning, neurodivergent-computing-students, academic-league-of-ai-2026, teacher-student-agency-orchestration, dollinger-equitable-assessment-ai-2026, ethics-training-agents-group-ethics-discussion-2026, rothwell-ai-interpersonal-skills-undergraduate-teams-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -86,6 +90,8 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-as
 - **האילוץ של מתווך ניטרלי.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], AI שמתווך גבולות תחומיים בצוותים בין-תחומיים על ידי הופעת הנחות סמויות, הוערך כתמיכה קוגניטיבית וכחוצץ יחסי כאחד — אך אמונם של הסטודנטים היה נושא-משקל ונשחק ברגע שה-AI עובר ממתווך ניטרלי ליועץ או למאתגר. החלפות תפקיד צריכות אפוא להיות מפורשות וניתנות להגדרה, לא שקטות.
 - **שיתוף פעולה יכול בעצמו להיות חפץ הוראה.** [[golrang-propact-pair-programming-2026|ProPACT]] מתייחס ל*הזוג* — לא לפרט — כיחידת הניתוח, ממודל קשב משותף ומאמץ כדי לחזות קריסות שיתוף פעולה עד 30 שניות מראש. זוגות שקיבלו משוב פרואקטיבי השיגו הצלחת ניפוי באגים גבוהה יותר והראו רווחים מתמשכים ב[[regulation]] שיתופי לאחר מכן: AI יכול ללמד שיתוף פעולה עצמו, לא רק לתמוך במשימה.
 
+- **מחליף יחסי.** בניסוי אקראי עם 33 צוותים, [[nixon-social-cost-ai-teammate-2026|Nixon et al. (2026)]] מצאו שחבר הצוות מבינה מלאכותית לקח את זמן הדיבור הרב ביותר והוסיף הכי פחות מידע חדש, בעוד שסטודנטים הגיבו אחד לשני פחות (תגובתיות g = −0.78) ודיווחו על שייכות נמוכה יותר (4.58 מול 5.27). ככל שהבינה המלאכותית שלטה יותר בזמן הדיבור, התחושה שהסטודנטים מוערכים הייתה נמוכה יותר (r = −0.52).
+
 ### החלוקה בין יעילות לוויסות
 
 [[hao-human-ai-collaborative-problem-solving-cognition|Hao et al.]] זיהו שלושה מודלים שיתופיים עם AI על בעיות מורכבות — *חשיבה מואצלת*, *פרשנות מתואמת*, ו*עיבוד מואצל*. המודל היעיל ביותר (חשיבה מואצלת) מניב את ביצועי המשימה הטובים ביותר אך את המעורבות הוויסותית העצמית הנמוכה ביותר; המודל עם הוויסות העצמי הגדול ביותר (פרשנות מתואמת) מפגר במשימה. זהו המתח המרכזי בעיצוב לעבודה בקבוצות בתיווך AI: לאזן את היעילות של המערכת האנושית-AI המבוזרת כנגד עומק המעורבות הרגולטורית של הלומדים.
@@ -102,7 +108,9 @@ connected_articles: [nixon-social-cost-ai-teammate-2026, chen-zou-genai-group-as
 
 - **הפכו את משא ומתן שימוש ה-AI לתוצר הניתן להערכה.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] טוענים שצוותים צריכים לנמק ולתעד כיצד GenAI ישמש ולא ישמש, הופכים נורמת עמיתים סמויה להסקה מפורשת, מדורגת במקום להשאיר אותה לסיכון נתפס.
 - **העריכו תהליך, לא רק תוצר.** [[peer-assessment|הערכת עמיתים]], תוצרים ביניים, ותרומות רפלקטיביות יוצרים את האינטראקציות שממהן נורמות והבנה משותפת נבנות בפועל.
-- **אל תסתמכו על קריטריון קוהרנטיות לבדו.** שורת רובר המחייבת אינטגרציה אינה מפיקה שיתוף פעולה אם מבנה המשימה עדיין מתיר חלוקה-וכיבוש; זרימת העבודה חייבת לדרוש עבודה משותפת.
+- **דרגו את הרשת, לא את המבצע המבודד.** הערכה מחדש קונספטואלית של שוויון בעידן GenAI טוענת שעבודה בקבוצות צריכה להיערך כסינתזה מתועדת בין פרספקטיבות, "רשת ידע משולבת," ולא כביצוע מבודד תחת אילוצים מלאכותיים ([[dollinger-equitable-assessment-ai-2026|Dollinger & Nieminen, 2026]]).
+
+- **אל תסתמכו על קריטריון קוהרנטיות לבדו.** שורת [[rubrics|רובר]] המחייבת אינטגרציה אינה מפיקה שיתוף פעולה אם מבנה המשימה עדיין מתיר חלוקה-וכיבוש; זרימת העבודה חייבת לדרוש עבודה משותפת.
 - **עצבו גישה בכוונה.** האם הקבוצה חולקת ממשק AI אחד או כל חבר מנחה פרטית משנה את השקיפות של השיתוף פעולה ואת העלות של שמירת מודל קוגניטיבי משותף.
 - **החליטו, בגלוי, מהו תפקיד ה-AI.** מתווך ניטרלי נסמך; יועץ או מאתגר לא, אלא אם כן התפקיד מפורש ומכוון. פרסונה contrarian יכולה להתנגד לחשיבת קבוצה, אך רק כמאפיין מעוצב עם עלויות בטיחותו הפסיכולוגית המודעות.
 - **אזנו יעילות כנגד וויסות עצמי.** AI שיתופי שממקסם יעילות משימה יכול לפגוע במעורבות הרגולטורית של הלומדים; עיצוב צריך להגן בכוונה על מרחב לפרשנות מתואמת.

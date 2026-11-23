@@ -29,8 +29,12 @@ ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "src" / "data" / "videos.ts"
 CONTENT = ROOT / "content"
 
+# Titles may be single- or double-quoted: the data module mixes both, and `--emit`
+# writes json.dumps output (double quotes). Both forms have to parse, or an entry
+# silently drops out of the pairing and drift checks.
 ENTRY_RE = re.compile(
-    r"\{\s*slug:\s*'([^']+)',\s*youtubeId:\s*'([^']+)',\s*title:\s*'([^']*)',"
+    r"\{\s*slug:\s*'([^']+)',\s*youtubeId:\s*'([^']+)',\s*"
+    r"""title:\s*(?:'([^']*)'|"([^"]*)"),"""
     r".*?seconds:\s*(\d+),\s*concepts:\s*\[([^\]]*)\],\s*faqs:\s*\[([^\]]*)\],\s*\}",
     re.S,
 )
@@ -41,11 +45,11 @@ def parse_data():
     text = DATA.read_text()
     entries = []
     for m in ENTRY_RE.finditer(text):
-        slug, vid, title, secs, concepts, faqs = m.groups()
+        slug, vid, title_single, title_double, secs, concepts, faqs = m.groups()
         entries.append({
             "slug": slug,
             "id": vid,
-            "title": title,
+            "title": title_single if title_single is not None else title_double,
             "seconds": int(secs),
             "concepts": re.findall(r"'([^']+)'", concepts),
             "faqs": re.findall(r"'([^']+)'", faqs),

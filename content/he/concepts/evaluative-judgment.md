@@ -1,7 +1,7 @@
 ---
 title: שיפוט הערכתי
 created: "2026-10-12T19:06:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:15:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,10 +10,14 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -23,7 +27,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
-connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
+connected_articles: [ahman-thoren-processes-of-patterning-ai-literacy-2026, ai-internal-feedback-evaluative-judgments, ai-written-admissions-essays-penalized-2026, austin-ai-agents-assignment-redesign-2026, authentic-assessments-generative-ai-pilot-2026, beyond-detection-authentic-assessment-ai-2025, chatgpt-peer-feedback-evaluative-judgement-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, elkington-human-centred-assessment-value-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, genai-feedback-design-multisite-experiment, hadra-ai-detector-accuracy-efl-2026, judgment-centred-software-engineering-education-2026, learner-centered-feedback-ai, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, pairr-ai-peer-review-2025, rethinking-ai-writing-feedback-literacy, sharma-judgment-visible-genai-assessment-2026, student-perspectives-ai-writing-grading-2026, teichmann-detecting-undetectable-misconduct-2026, valiassist-programming-feedback-validation-by-demonstration-2026, wright-transcription-not-generation-2026, wu-lam-genai-writing-assessment-professors-2026, yan-accountable-judgement-language-assessment-2026, yu-verification-without-criteria-2026, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -33,7 +37,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 ## שאלות למחשבה
 
 - חשבו על משהו שאתם שופטים היטב. כיצד למדתם את השיפוט הזה — הוראית ומפורשת, או נספג באמצעות עשייה והשוואה — ומה הדבר נושא לגבי האופן שבו הוא צריך להיות מוערך?
-- רובריקה ניתנת להפעלה מכנית או להבנה. אם תלמיד עוקב אחר הקריטריונים כראוי אך אינו מסוגל להסביר מדוע יצירה אחת גוברת על אחרת, איזו יכולת ההערכה באמת מדדה?
+- [[rubrics|רובריקה]] ניתנת להפעלה מכנית או להבנה. אם תלמיד עוקב אחר הקריטריונים כראוי אך אינו מסוגל להסביר מדוע יצירה אחת גוברת על אחרת, איזו יכולת ההערכה באמת מדדה?
 - כאשר [[llm|מודל שפה]] מגיש פתרון סביר, העבודה שנותרת ללומד היא ברובה שיפוט: מה לשמור, מה לתקן, מה לזרוק. האם זו משימה מוקטנת, או מתוחכמת יותר מייצירת הטיוטה?
 - תלמיד יכול לקבל הצעה של בינה מלאכותית כי היא נשמעת טוב, או כי היא שרדה את ביקורתו העצמית. מבחוץ ההגשה עשויה להיראות זהה — מה יאפשר למעריך לראות את ההבדל?
 - ניסוי מרובה-אתרים מצא ש[[ai-feedback-quality|משוב בינה מלאכותית]] ישיר הניב את רווחי התיקון הגדולים ביותר אך נשא סיכון של מיקור חיצוני פסיבי של השיפוט. מה המחלופה הזו מעידה על האופן שבו הייתם מעצבים משוב שבונה שיפוט במקום לעקוף אותו?
@@ -69,6 +73,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] מעניק לבנייה את מיקומה החזק ביותר בספרות היושרה. בהרחבת מסגרת הפוסט-פלגייריות של Eaton (2023) מהנחה [[ethics|אתית]] לעיצוב הערכה, הוא טוען שמודלים של [[academic-integrity|יושרה אקדמית]] המבוססים על זיהוי ואימות אינם מיושרים עם עבודה שבה שיפוט אנושי ויצירה מכונית משולבים, וממסגר מחדש את היושרה כפרקטיקה פדגוגית המופעלת באמצעות שיפוט הערכתי — היכולת של הלומד לשקול אפשרויות, להצדיק בחירות אקדמיות ולשאת באחריות תחת אי-ודאות אפיסטמית. ארבע הפרקטיקות שלו (עקבות החלטה מוסברים, אימות ואחריות, [[oral-assessment|הגנה בעל-פה]] ואחריות דיאלוגית, הבדלי טיוטות עם היסטוריית גרסאות) הופכות את השיפוט הזה לגלוי כראיה במקום להסיק אותו מהיצירה, והוא מפריד את השיפוט מהבניות שלהן הוא לעיתים קרובות מתמוסס: [[reflection|פרקטיקה רפלקטיבית]] מתבוננת בחשיבה של עצמו רטרוספקטיבית, [[metacognition|מטאקוגניציה]] היא המודעות והוויסות של תהליכים קוגניטיביים, בעוד ששיפוט מעריך אפשרויות מול תקנים ומקבל השלכות תחת אי-ודאות. הוא גם נותן שם למצב הכשל שהעמוד עוקב אחריו — דרישת היגיון מתועד מסוכנת ב"החלפת משטר ציות אחד באחר", מכיוון שהשיפוט כראיה "נשאר יחסי ומושתת ולא ניתן לאימות מכני".
 
+- **שיפוט אחראי מוסיף לבנייה מתווך תרבותי.** יאן (2026) מרחיב את שיפוט ההערכה להערכת שפה ותרגום מתווכת-בינה מלאכותית: על הלומדים להצדיק החלטות לשוניות, תקשורתיות, של מתווך תרבותי ואתיות, מכיוון שטקסט יעד שוטף יכול להסתיר בעיות נימה ותרבות שלא נפתרו ([[yan-accountable-judgement-language-assessment-2026|Yan, 2026]]).
+
 ## ראיות: כיצד השיפוט מתפתח, ומה בינה מלאכותית עושה לו
 
 ספרות ה[[collaborative-learning|שיתופית]] וההערכה במאגר הידע מספקת ראיות מתכנסות שהשיפוט ההערכתי הוא *ניתן ללמידה*, *ניתן להחלפה*, ו*ניתן לעיצוב* — ושהבינה המלאכותית פועלת בשני הכיוונים.
@@ -88,6 +94,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 - **השיפוט נרשם כשהוא מחובר לעריכה, לא רק כשהוא נוכח.** ב‑67 מורים טרום-שירותיים שתכננו מערכי שיעור עם GenAI, הערכה מפורשת כמעט נעדרה בקבוצת האיכות הנמוכה (0.67 לעומת 0.00); מה שהפריד בין איכויות היה מחזור הערכה–עריכה דו-כיווני (CE→RE Z = 2.80, RE→CE Z = 2.50) ולולאת עריכה עצמית (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **הקריטריונים של מרצים ניתנים להחצנה על ידי עריכת פלט AI.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] הסיקו כללי אימות לשימוש חוזר מעריכות של 16 מרצים במשוב תכנות מיוצר על ידי LLM והעלו את היישור עם כוונתם הפדגוגית מ‑57% ל‑91%, ובכך הפכו קריטריונים סמויים לניתנים לבדיקה במקום להשאירם בלתי-אמורים.
 
+- **הלולאה, לא רשימת הסימנים.** שיפוט הערכתי מבוסס בינה מלאכותית פועל באופן רקורסיבי: להעריך מול קריטריונים תעסוקתיים, לקבל, לתקן או לדחות ולבקש מחדש, ואז לאמת ולהצדיק, ולחזור להערכה כל עוד היצירה אינה ראויה ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng and Tang (2026)]]).
+
 ## כיצד שימוש לא הוגן מהחליף שיפוט
 
 הסיכון הבהיר ביותר הוא החלפה, והוא מעוגן בספרות המשוב ולא רק בתיאוריה. כאשר הכלי מספק את הרובריקה, את המשוב ואת המעקב, הפרקטיקה ה[[metacognition|מטאקוגניטיבית]] וההערכתית של הלומד מוחלפת במקום להיות נתמכת — ההערכה הופכת להצגה של שיפוט שהתלמיד מעולם לא הפעיל, אותו מצב כשל כמו [[cognitive-offloading|העמסה קוגניטיבית חיצונית]] המובעת בלקסיקון ההערכה. משוב GenAI ישיר בניסוי המרובה-אתרים דחף בדיוק למיקור חיצוני פסיבי זה. לחצי הציונים מחריפים אותו: במקום שבו הערכה עצמית או הגות על שימוש בבינה מלאכותית נמדדות בעצמן, תלמידים יכולים לייצר את ההגות שהרובריקה רוצה במקום את ההיגוי, ולכן שיפוט אמיתי דורש הפיכת התרגיל למשמעותי — החלטה שמופיעה בעבודה מאוחרת יותר, הסבר בעל-פה, או נמק מתועד שנבדק בעצמו.
@@ -95,6 +103,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 אותו הגיון מקבל גרסה מבנית. [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman and Thorén (2026)]] מכנים **תִּבְנוּת** את העבודה ההתפתחותית של ארגון מורכבות למבנים שהלומד מוצא בהם משמעות, וטוענים שמערכת שמסדרת מראש את הרלוונטיות מסירה את התנאים שהעבודה הזו דורשת. המונח שלהם לתוצאה הוא **שיפוט מושאל**: הלומד מעריך חומר שהמערכת כבר סידרה, כך שהשיפוט מופעל אך לעולם אינו נרכש. המאמר הוא ניתוח תאורטי ללא נתונים משל עצמו — פלטפורמת Tentaklar ממחישה את המנגנון במקום לבחון אותו — ולכן מצב הכשל נטען מן העיצוב ולא נצפה בלומדים.
 
 להחלפה יש גרסה בצד המורה, והיא מה שהפכה כמה מפרופסורי הכתיבה נגד מיקור חיצוני של מתן ציונים לחלוטין. חמישה מבין העשרים-וארבעה אמרו שמתן ציונים הוא הדרך שבה מורה בא להכיר את לומדיו, ולכן האצלתו עולה בהבנה הזו ולא רק בשעות ([[wu-lam-genai-writing-assessment-professors-2026|Wu ו‑Lam (2026)]]). שמונה-עשר מבין העשרים-וארבעה התייחסו לשיפוט אנושי כאל מה שתופס את שגיאות הכלי ונושא באחריות עבורן.
+
+גם ההמלצה, עד כה, אינה מיושמת ברשומה האמפירית. סקירה שיטתית וניתוח רשת אפיסטמית של 65 מחקרים (2022–2026) מצאו שאף אחד מהם לא לימד את הלומדים את הקריטריונים הדרושים להערכת פלט בינה מלאכותית; ההתערבויות עודדו השהיות, הסברים והצהרות ביטחון, ומסגרות אוריינות משוב הופיעו באף אחת מהן ([[yu-verification-without-criteria-2026|Yu et al. (2026)]]). העיצובים הניחו מראש סטנדרט הערכתי במקום לספק אחד.
 
 ## השלכות לפרקטיקה
 
@@ -105,7 +115,10 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 - **העדיפו משוב היברידי ורפלקטיבי על פלט ישיר.** הערכה עצמית לפני ביקורת בינה מלאכותית, או עצמי + עמיתים + בינה מלאכותית, שומרת על ה[[agency|סוכנות]] שמשוב בינה מלאכותית ישיר שוחק; עצבו את סביבת המשוב ולא רק הוספת כלי.
 - **בנו לעבר שיפוט בר-קיימא, לא תיקונים רגעיים.** משוב שאינו ניתן להעברה למשימה הבאה אינו מאמן דבר בני-קיימא.
 - **צרפו אותו לתהליכים ולמבחנים בעל-פה.** יצירות תהליך והסברים בעל-פה קצרים מראים שיפוט בפעולה במקום שמוצר סופי אינו יכול, וזו סיבה מרכזית לכך שעיצוב מחדש של הערכה בעידן הבינה המלאכותית נשען עליהם.
+
 - **הפוכו שיפוט שנשמר לגלוי באמצעות בדיקות חוב-הבנה.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] מגדיר ארבעה חובות חוצים-נושא — הסבר, אימות, שינוי, ודיווח — שהופכים כשירות שנשמרה לגלויה בכל רמת שילוב של בינה מלאכותית, ומציע בקשות שינוי מושהות, סיורי קוד, מבחנים מעוצבים באופן עצמאי, איתור פגמים וניפוי באגים חיה כבדיקות המשוות מה שנוצר למה שניתן להדגים מאוחר יותר. תחת יכולת [[agentic-ai|סוכנית]] מטרת ההערכה עוברת לפיקוח — חוזי משימות, גבולות הרשאה, ארגזי חול, מתקני הערכה, סקירת הבדלים, החזרה למצב קודם, ואחריות אנושית — המעבירים את ההערכה מחיבורות גלויה לשיפוט גלוי.
+
+**לשפוט יצירה אינו לשפוט את התלמיד.** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] מפרידים את ההבחנה במפורש עבור עבודה בסיוע GenAI: שיפוטיהם של מורים ברמת המוצר על חידוש, רזולוציה, אסתטיקה ואפקט — ליבה משותפת בקרב 654 מורים בסין ובארה"ב — מתארים את היצירה, לא את תרומת התלמיד אליה, ושני אלה מתפצלים כאשר היצירה נוצרה עם בינה מלאכותית. הם ממליצים לשלב קריטריוני מוצר עם ראיות תהליך — פרומפטים, החלטות תיקון, נמקים רפלקטיביים — אותו מעבר מפלט ל[[process-oriented-assessment|שיפוט מכוון-תהליך]].
 
 ## תפיסות מוטעות נפוצות
 

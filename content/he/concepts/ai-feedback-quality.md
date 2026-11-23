@@ -1,7 +1,7 @@
 ---
 title: איכות המשוב של בינה מלאכותית
 created: "2026-10-12T21:29:00-04:00"
-updated: "2026-11-08T11:34:07-05:00"
+updated: "2026-11-23T12:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -10,9 +10,13 @@ assessment: [ai-feedback-quality, automated-assessment, feedback, formative-asse
 confidence: high
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -22,7 +26,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, formative-assessment, automated-assessment, feedback, ai-literacy, cognitive-offloading, bias-mitigation, automated-essay-scoring, assessment-validity, writing-education, higher-ed, teacher-role, feedback-literacy, ai-sycophancy, trust-calibration]
-connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026]
+connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-auditable-automated-essay-scoring-2026, mihaylova-llm-feedback-live-programming-course-2026, wu-lam-genai-writing-assessment-professors-2026, genai-l2-written-feedback-scoping-review-2026, ai-feedback-violin-intonation-2026, wraft-automated-writing-evaluation-argumentative-2026, wang-chatgpt-comments-video-learning-scaffolding-2026, luo-eaton-ai-student-feedback-ethics-2026, coach-not-crutch-ai-writing, zhao-learnlens-feedback-educators-loop, melo-llm-classroom-observation-teach-2026, learner-centered-feedback-ai, ai-generated-feedback-higher-ed, teaching-feedback-classification-benchmark, becerra-aicofe-feedback-2026, cong-confidence-asag-2026, choi-anchor-aes-prompting-2025, ai-assistance-discretionary-feedback, sequenced-ai-feedback-learning, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, genai-educational-outcomes-meta-analysis, marked-pedagogies-linguistic-bias-writing-feedback, gpt4-feedback-student-activation-2026, reddig-maclellan-personalized-feedback-llm-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, teacher-ai-literacy-prompt-feedback-quality-2026, perceptions-teacher-vs-ai-feedback-bias-2026, peer-group-vs-ai-feedback-2026, ai-assisted-physics-lab-report-assessment-2026, llm-feedback-focus-adaptivity-student-writing-2026, risk-adaptive-genai-feedback-programming-2026, real-time-ai-feedback-technical-skills-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, nazaretsky-feedback-source-bias-2025, intelligent-tutoring-mathematics-education-review-2026, agent-type-feedback-style-self-directed-learning-2026, when-students-prefer-ai-scoring-feedback-2026, lin-rag-lesson-generation-tutor-training-2026, evidence-grounded-framework-ai-generated-educational-feedback-2026, llm-feedback-handwritten-mathematics-exam-performance-2026, liu-educational-sycophancy-2026, kim-ai-simbot-nursing-communication-2026, al-washahi-ai-adaptive-feedback-meta-analysis-2026]
+connected_resources: [my-essay-feedback]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -61,14 +66,16 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 תועלת (האם הוא עוזר לתלמיד להשתפר?), ויישור פדגוגי (האם הוא מקדם למידה ולא רק
 השלמת-משימה?).
 
-### כיצד איכות משוב הבינה המלאכותית מופיעה במחקר
+[[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]] מוסיפים תנאי ששלושת הממדים לא לוכדים: הכרה, העמדה ההדדית של המספק והלומד, קובעת האם משוב מדויק ומועיל יכול להזיז אף אחד, ולכן איכות נמדדת היא הכרחית אך אינה מספיקה.
+
+## כיצד איכות משוב הבינה המלאכותית מופיעה במחקר
 
 - **השוואה למשוב אנושי:**
   [[ai-generated-feedback-higher-ed|מחקרים בהשכלה הגבוהה]] מוצאים שמשוב
   המיוצר-על-ידי-בינה-מלאכותית נחווה כקביל ותומך — דומה למשוב מורה. אך קבילות
   אינה מבטיחה יעילות למידה. [[meta-analysis-systematic-review|סקירה שיטתית]] מונחית-PRISMA של 42 מחקרים אמפיריים
   (2023–2025) מוצאת גם שציון ומשוב [[llm]] תלויים-במשימה — מתאימים
-  למדרגי-אדם בתשובות קצרות וממוסגרות היטב עם רובריקות מפורטות אך נחלשים בעבודה
+  למדרגי-אדם בתשובות קצרות וממוסגרות היטב עם [[rubrics|רובריקות]] מפורטות אך נחלשים בעבודה
   מורכבת, פתוחה או [[multilingual-learning|רב-לשונית]], עם משוב שלפעמים גנרי
   מדי או שאינו מיושר עם הציון — ומזהים את איכות ההנחיה, פירוט הרובריקה, גרסת
   המודל ושפת ההערכה כגורמים הדומיננטיים של איכות הציון והמשוב
@@ -148,6 +155,8 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
   תיקון סטנדרטי אחד 519 מתוך 544 ההודעות המיוצרות נשאו את כל המרכיבים הנדרשים.
   עיתוי והנחת-יסוד מצטרפים בכך לאיכות לשונית ולשחזור כממדים שמערכת משוב צריכה
   להישפט עליהם.
+
+- **מתן שם לתכונה החלשה אינו זהה לציטוט החיבור.** [[xin-auditable-automated-essay-scoring-2026|Xin (2026)]] מצא שהערות מבוססות-רובריקה זיהו את התכונות החלשות הנכונות (Trait Recall@2 = 0.823) אך לא ציטטו ראיה מהחיבור, בעוד הוספת עוגן-ראיה שמרה על זיהוי של 0.829 והעלתה את שיעור הראיה החוקית מאפס ל-0.912.
 
 - **מתן משוב שיקולי-דעת:**
   [[ai-assistance-discretionary-feedback|מחקר על משוב בסיוע בינה מלאכותית בהשכלה
@@ -255,6 +264,8 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
   מהזמן, והעדיפו רמזים שחשופים פשוט את התשובה — הדגמה חריפה לכך
   שהערכה [[ai-ed-evaluation|אוטומטית]] יכולה להתפצל בחדות משיפוטי-אדם על
   תועלתיות, ויש לכיילה כנגדם.
+- 
+הסכמה בין בינה מלאכותית למורה תלויה-בסוגייה בתוך משימת כתיבה אחת: F1 הגיעה ל-0.824 בבחירת מילות אוצר לעומת 0.579 בשימוש במקורות ובראיות, שם יש לשקול מקור מול טענה ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao and Fan (2026)]]).
 
 - **פלט יציב אינו משוב תקף:** על פני 12 וידאו כיתתיים במסגרת TEACH, אמינות ודיוק
   נפרדו — היציב ביותר מבין שמונה נקודות-קצה של מודל-שפה היה בין החלשים ביותר
@@ -302,7 +313,9 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 הנחיה יכולה לגבר על דיוק-עדין
 ([[wraft-automated-writing-evaluation-argumentative-2026|לביב ושות' (2026)]]).
 
-### ממדי איכות
+המודל שמשחק את הלומד אינו המודל שאמור לשפוט את המפגש. ב-AI SimBot של [[kim-ai-simbot-nursing-communication-2026|Kim and Pankhania’s (2026)]], 98 סטודנטים לסיעוד בתקופת ההכשרה ראיינו מטופלת וירטואלית בת 17 שגולמה על ידי GPT-4o, והמשוב של אותו מודל התברר כלא-מדויק ויותר מדי חיובי מול רובריקת הסגל. תפקיד המעריך עבר ל-O3-mini, שהעניק החלטות מעוגנות טוב יותר ברובריקה, בעלות של כחצי דולר לסטודנט לכל צינור הנאום. נאמנות הפרסונה והדיוק האבחוני הם דרישות נפרדות, ואין להניח שפריסה אחת תספק את שתיהן.
+
+## ממדי איכות
 
 איכות המשוב של בינה מלאכותית עושה ממדים מרובים הנכלסים במאגר הידע:
 
@@ -355,8 +368,9 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
   המורים (דיברגנס ג'נסן-שנון הטובה ביותר 0.134, הגרועה ביותר 0.270), ולכן רוחב
   הכיסוי וההתאמה ההתפלגותית הם אותות-איכות נבדלים
   ([[llm-feedback-focus-adaptivity-student-writing-2026|אלמוסה ושות' (2026)]]).
+- **המבנה נשא את הרווח, לא המודל.** ארבעה שלבים — עידוד, חקירה, חידוד מחדש, וגיבוש — הניבו יתרון של 5.64 נקודות בחשיבה ביקורתית על פני הערות מדריך בקורס מדע-נתונים ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
 
-### קשר למושגים רחבים יותר
+## קשר למושגים רחבים יותר
 
 איכות המשוב של בינה מלאכותית מתחברת ביסודה ל[[formative-assessment|ההערכה
 העיצובית]] ול[[feedback|לולאת משוב]] — משוב איכותי סוגר את הפער בין הביצוע הנוכחי
@@ -372,6 +386,8 @@ connected_articles: [lu-ai-mediated-feedback-feedbackwriter-rct-2026, xin-audita
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse (2026)]] בוחנים את עקבות ההסקה המפורשות של DeepSeek כאפורדנס משוב, ומצאו שהסקה גלויה הופכת את הבסיס של ההערה לניתן-לבדיקה על-ידי הכותב, בעוד המודל עדיין מנתב שיפוט מסדר גבוה, כמו ארגומנטציה, אל האדם.
 
 תשובה נכונה בתור הראשון יכולה להיות שגויה עד השלישי: לאורך 11 מודלים, 12.7 אחוז עברו לתשובה שגויה תחת לחץ סמכות, ולכן איכות המשוב חייבת להימדד לאורך אינטראקציה ולא בתגובה הראשונה ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
+
+- **רווחי איכות מגיעים מתמיכת המבקר, לא מהפלט הגולמי.** מתרגלים שהשתמשו ב-FeedbackWriter אימצו 51.3% מההצעות ותיקנו 11.3% מהחלטות הרובריקה של הבינה המלאכותית, ואז מסרו הערות ארוכות יותר עם כיסוי רובריקה רחב יותר; איכות השיפוץ עלתה ב-d = 0.50 ללא רווח במבחן-אחרי ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
 
 ## תפיסות מוטעות נפוצות
 

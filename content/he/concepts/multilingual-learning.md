@@ -8,11 +8,15 @@ discipline: [language learning]
 confidence: medium
 connected_resources: [mglearn]
 translation_of: concepts/multilingual-learning
-updated: "2026-11-08T11:34:07-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-23T14:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -57,11 +61,15 @@ AI רב-לשוני חייב לעבור מעבר לתרגום כדי לשקף [[c
 
 טרנסלשונות (translanguaging) היא אפשרות שה[[conversational-ai|צ׳אטבוטים]] הגנרטיביים מוסיפים ושכלי שפה קודמים לא סיפקו. ב[[meta-analysis-systematic-review|סקירה שיטתית]] של 24 מחקרים, לומדים ביקשו ביטויים מוקשרים והסברים בשפתם שלהם כגשר אל שפת היעד — שימוש שהסוקרים מסווגים כאפשרות-משנה חדשה ולא כאריזה מחודשת של אפשרות קיימת ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
+עלות השפה של הטמעת כלי ניתנת למדידה: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] מצאו שלומדי אנגלית השקיעו זמן רב משמעותית יותר במדריך בניית סוכן מפוגם מאשר דוברי אמת, בעוד שמשימת העיצוב הפתוחה לא הראתה הבדל.
+
+האנגלית דומיננטית אפילו שם שבהן ארבע שפות נמצאות בשימוש יומיומי. בקרב 42 סטודנטים בקוראסאו ובארובה, שני שלישים מינו אנגלית כשפת העדפה עבור בינה מלאכותית, ורק משתמשי GPT הסטו לכיוון פפיאמנטו ככל שהשיח הפך מקומי ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## הטיית הערכה
 
 דאגות רב-לשוניות משפיעות גם על [[automated-assessment|הערכה אוטומטית]]: [[ai-scoring-language-bias-physics|ניקוד AI יכול להציג הטיית שפה]] (למשל, ב[[physics-education|פיזיקה]]), מעניש דוברים לא-ילידים. הבטחת שכלי הערכה הוגנים לאורך שפות היא חלק מ[[assessment-validity]].
 
-שיפוט משווה מבוסס-LLM הוא מקרה שבו הטיה עקבתה אחר קו הבסיס האנושי ולא אחר המודל: ציונים לכתיבה אינפורמטיבית של כיתות ג'–ו' התכנסו עם רוברים של חוקרים (r = .59–.73) והראו דפוסי הטיה חזותית עבור לומדים רב-לשוניים הדומים לניקוד אנושי, בלי ראיה שיכולת מודל או עלות גדולה יותר שיפרה תוקף ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+שיפוט משווה מבוסס-LLM הוא מקרה שבו הטיה עקבתה אחר קו הבסיס האנושי ולא אחר המודל: ציונים לכתיבה אינפורמטיבית של כיתות ג'–ו' התכנסו עם [[rubrics|רובריקות]] של חוקרים (r = .59–.73) והראו דפוסי הטיה חזותית עבור לומדים רב-לשוניים הדומים לניקוד אנושי, בלי ראיה שיכולת מודל או עלות גדולה יותר שיפרה תוקף ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## השלכות למנחים בהקשרים רב-לשוניים
 
@@ -70,6 +78,8 @@ AI רב-לשוני חייב לעבור מעבר לתרגום כדי לשקף [[c
 - **שקפו תרבות והקשר, לא רק תרגום.** AI רב-לשוני חייב לעבור מעבר לתרגום ל[[culturally-relevant-pedagogy|פדגוגיה רלוונטית תרבותית]] — הפיקו תוכן שמתאים מבחינה לשונית וקונטקסטואלית ([[llm-cultural-relevance-k12|רלוונטיות תרבותית ב-K-12]]).
 - **צרפו AI למבני תמיכה רב-לשוניים.** השתמשו במצבים קול-קודם ואוראליים ([[kutti-ai-voice-first-learning-companion|חברים קול-קודם]]) היכן ש-AI מבוסס-טקסט נכשל, ותמכו ב[[self-regulated-learning|וויסות עצמי]] בהקשרים דו-לשוניים ([[bilingual-llm-lecture-companion-srl-2026|חבר הרצאה דו-לשוני]]).
 - **צפו את הפער הדיגיטלי.** הטיה חד-לשונית ב-AI מעמיקה את ה[[digital-divide]] ומחלשת גישה ברחבי ה[[global-south]] — תכננו תשתות וגישה הוגנים לצד בחירת כלי.
+
+- **העבודה האדפטיבית נפלת על המורה.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] מצאו שמורי אוניברסיטה לשפות שאינן אנגלית מתאימים פרומפטים, מתקנים את השפה של המודל, מקשרים מחדש תוכן תרבותית ומחליפים כלים כעניין שגרתי. העבודה נכפית על ידי היררכיה לשונית ולא על ידי כשירות דיגיטלית חלשה, והיא בלתי נראית בסטטיסטיקות אימוץ שסופרות רק אם הכלי נוצל.
 
 ## תפיסות מוטעות נפוצות
 

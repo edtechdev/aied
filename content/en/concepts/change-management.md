@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -64,6 +64,8 @@ In institutions where strategy runs ahead of infrastructure the work compounds: 
 **For [[administrator|administrators]] and [[educational-policy-ai|policymakers]]**, the evidence argues for participatory governance, infrastructure investment, and capacity-building over aspirational strategy documents, translating national policy into concrete instructor support rather than issuing top-down mandates. **For instructors**, change management means moving from adopter to inquiry-driven experimenter, engaging [[pedagogical-partnerships|students as partners]], and anchoring reform in durable pedagogical principles rather than tools that may be obsolete within months — with the caveat that professional development must target a full design cycle (needs assessment, feedback) rather than tool use alone, as the [[dot-framework-survey-2026|DOT framework survey]] demonstrates.
 
 An institutional case study traces a decade-long diffusion arc in undergraduate mathematics, moving from individual initiative and peer workshops to joint faculty licensing and central funding ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
+
+[[learning-environments-as-systems|Learning environments as systems]] supplies the analytic for this: a change effort aimed at one level produces effects at the others, so a faculty-development program that never reaches workload, procurement or policy changes the conditions that decide whether the new practice survives.
 
 Course redesign carries a cost institutions should budget, not assume: adopting an AI-integrated course ran to roughly 15 to 20 hours of redesign work per course before any ongoing adjustment [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Engagement is explained by capacity and disposition, not enthusiasm.** A framework for assessment practice argues that uneven GenAI adoption reflects four conditions — capacity, disposition, and the supports and constraints around them — rather than resistance, and that a single workshop builds vocabulary but not judgment ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Naming the missing condition tells an institution whether to train, resource, or change the incentive.

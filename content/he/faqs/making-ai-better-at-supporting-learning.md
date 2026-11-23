@@ -16,6 +16,10 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -28,7 +32,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
-updated: "2026-11-15T16:11:00-05:00"
+updated: "2026-11-23T14:45:00-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -48,7 +52,7 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 
 **2.** הציבו אחזור על החומרים שלכם לפני המודל. זה הרווח הבודד הגדול ביותר המדווח כאן ביחס לעלות, והוא הפיך.
 
-**3.** הנדסו את ההנחיה מול הרובריקה שלכם וחזרו על כך עד שהשיפור נעצר. הרמה היא האות שאימון אולי יוסיף משהו.
+**3.** הנדסו את ההנחיה מול ה[[rubrics|רובריקה]] שלכם וחזרו על כך עד שהשיפור נעצר. הרמה היא האות שאימון אולי יוסיף משהו.
 
 **4.** התאימו את המשקולות עם [[llm-training-and-fine-tuning|LoRA]] כשהמטרה יציבה וצרה: פורמט, רובריקה, רמת קריאה, אוצר מילים דיסציפלינרי.
 

@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-21T05:17:51-05:00"
+updated: "2026-11-23T11:40:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -97,7 +97,7 @@ The words are used loosely in the literature, and the difference is worth one pa
 
 ## Related layers
 
-Two neighbouring pages are deliberately about something else. [[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions — what education is *for*, whether a machine can teach — and does not predict effect sizes; a study can be philosophically naive and theoretically sound, or the reverse. [[theory-development-aied|Theory development]] is the meta-activity of building, borrowing, and revising theory, including the standing critique that much [[ai-education|AIED]] work applies existing theory rather than testing it. Collecting frameworks is a cataloging job; theory development is about producing and revising them.
+Two neighbouring pages are deliberately about something else. [[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions — what education is *for*, whether a machine can teach — and does not predict effect sizes; a study can be philosophically naive and theoretically sound, or the reverse. [[theory-development-aied|Theory development]] is the meta-activity of building, borrowing, and revising theory, including the standing critique that much [[ai-education|AIED]] work applies existing theory rather than testing it. Collecting frameworks is a cataloging job; theory development is about producing and revising them. [[learning-environments-as-systems|Learning environments as systems]] is a third neighbour. It is not a theory of learning and predicts no effect sizes, but a stance about the unit of analysis: a learning environment is a multi-level system whose parts interact, so the level a study measures is a theoretical decision, not a sampling convenience.
 
 ## Choosing a lens when the question is practical
 
