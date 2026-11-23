@@ -1,7 +1,7 @@
 ---
 title: AI 教育
 created: "2026-09-22T14:35:06-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -89,7 +93,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## 教育中的人工智能的基础
 
-这一领域横贯性的、基础性的概念支撑着本知识库的覆盖，并最先出现在侧边栏中。它们以**要点**一组开场，即每位读者都应从之入手的概念：总括页面本身、[[misconceptions|关于人工智能的误解]]、[[ai-literacy|人工智能素养]]、[[agentic-ai|智能体式 AI]]、[[cognitive-offloading|认知卸载]]、[[framing-ai-use-for-students|如何向学生界定人工智能的使用]]、[[reducing-ai-misuse|减少人工智能误用]]、[[academic-integrity|学术诚信]]、[[teacher-role|教学]]、[[learning-design|学习设计]]与[[educational-development|教育发展]]。随后，**领域**这条脉络涵盖[[history-of-aied|这一领域的历史]]、[[limitations-in-aied-research|证据基础普遍存在的局限]]、[[philosophy-of-ai-in-education|它的哲学基础]]、[[theories-and-frameworks|理论与框架]]图谱以及[[theory-development-aied|理论发展]]。横贯性的主题，包括[[human-ai-collaboration|人机协作]]、[[agency|学习者自主性]]、[[learner-identity|学习者身份]]、[[design-thinking|设计思维]]、[[curriculum-design|课程设计]]、[[critical-thinking|批判性思维]]与[[computational-thinking|计算思维]]，会贯穿每一条脉络，因为人们对人工智能所持的不准确心智模型，位于[[ai-misuse-learning-harm|误用]]与校准不足的[[trust-calibration|信任]]的上游。
+这一领域横贯性的、基础性的概念支撑着本知识库的覆盖，并最先出现在侧边栏中。它们以**要点**一组开场，即每位读者都应从之入手的概念：总括页面本身、[[misconceptions|关于人工智能的误解]]、[[ai-literacy|人工智能素养]]、[[agentic-ai|智能体式 AI]]、[[cognitive-offloading|认知卸载]]、[[framing-ai-use-for-students|如何向学生界定人工智能的使用]]、[[reducing-ai-misuse|减少人工智能误用]]、[[academic-integrity|学术诚信]]、[[teacher-role|教学]]、[[learning-design|学习设计]]与[[educational-development|教育发展]]。随后，**领域**这条脉络涵盖[[history-of-aied|这一领域的历史]]、[[limitations-in-aied-research|证据基础普遍存在的局限]]、[[philosophy-of-ai-in-education|它的哲学基础]]、[[theories-and-frameworks|理论与框架]]图谱、[[theory-development-aied|理论发展]]以及[[learning-environments-as-systems|作为系统的学习环境]]——它把学习环境视为一个各部分相互作用的多层系统，在某一层次引入的工具或政策会在其他层次产生效果。横贯性的主题，包括[[human-ai-collaboration|人机协作]]、[[agency|学习者自主性]]、[[learner-identity|学习者身份]]、[[design-thinking|设计思维]]、[[curriculum-design|课程设计]]、[[critical-thinking|批判性思维]]与[[computational-thinking|计算思维]]，会贯穿每一条脉络，因为人们对人工智能所持的不准确心智模型，位于[[ai-misuse-learning-harm|误用]]与校准不足的[[trust-calibration|信任]]的上游。
 
 ## 学习与教学
 
@@ -135,7 +139,7 @@ AI 如何支持教与学，是这一领域的核心。关键概念包括：
 
 AI 既改变了我们评价学习者的方式，也改变了我们评价 AI 系统本身的方式：
 
-- **评估与反馈：** [[assessment|评估]]、[[formative-assessment|形成性评估]]、[[summative-assessment|终结性评估]]、[[authentic-assessment|真实性评估]]、[[eportfolio|电子档案袋]]、[[feedback|反馈]] 与 [[feedback-literacy|反馈素养]]、[[ai-feedback-quality|AI 反馈质量]]、[[peer-assessment|同伴评估]]、[[oral-assessment|口头评估]]、[[automated-assessment|自动化评估]]、[[automated-essay-scoring|自动作文评分]] 与 [[automated-question-generation|自动题目生成]]。因为模型如今可以按需产出看似合理的成品，该领域的注意力转向仍属于学习者自身的那项能力：[[evaluative-judgment|评价性判断]]，即依据有理由的判据来评价自己、同伴与 AI 产出之质量的能力。它正是若干反馈与真实性评估研究共同指向的构念：在多点实验中混合反馈条件优于直接的 AI 反馈；AI 形成性反馈中的可持续性缺口；以及把评价对象从制品转向学生所做决策的实践转向。它也是 AI 时代重设计从 [[ai-detection|检测]] 转向其诚信经得起检视的任务的核心原因之一。[[group-work|小组作业]] 同样按过程与产品双重评估，团队必须协商什么样的 AI 参与算作可接受、以及谁的参与算数。
+- **评估与反馈：** [[assessment|评估]]、[[formative-assessment|形成性评估]]、[[summative-assessment|终结性评估]]、[[authentic-assessment|真实性评估]]、[[eportfolio|电子档案袋]]、[[feedback|反馈]] 与 [[feedback-literacy|反馈素养]]、[[ai-feedback-quality|AI 反馈质量]]、[[peer-assessment|同伴评估]]、[[oral-assessment|口头评估]]、[[automated-assessment|自动化评估]]、[[automated-essay-scoring|自动作文评分]] 与 [[automated-question-generation|自动题目生成]]，以及[[rubrics|评分量规]]。评分量规是承载标准的工具：其中陈述的维度与水平描述语使对一份作品的判读可被复现，也是模型评分时所读取的规格说明。因为模型如今可以按需产出看似合理的成品，该领域的注意力转向仍属于学习者自身的那项能力：[[evaluative-judgment|评价性判断]]，即依据有理由的判据来评价自己、同伴与 AI 产出之质量的能力。它正是若干反馈与真实性评估研究共同指向的构念：在多点实验中混合反馈条件优于直接的 AI 反馈；AI 形成性反馈中的可持续性缺口；以及把评价对象从制品转向学生所做决策的实践转向。它也是 AI 时代重设计从 [[ai-detection|检测]] 转向其诚信经得起检视的任务的核心原因之一。[[group-work|小组作业]] 同样按过程与产品双重评估，团队必须协商什么样的 AI 参与算作可接受、以及谁的参与算数。
 - **测量与效度：** [[assessment-validity|评估效度]]、[[psychometrically-aware-ai|具备心理测量意识的 AI]]、[[educational-measurement|教育测量]]、[[item-response-theory|项目反应理论]]、[[self-report-measures|自陈测量]]（这一证据中很大一部分背后的工具，也是一个反复出现的局限）、[[ai-detection|AI 检测]]、[[remote-proctoring|远程监考]] 与 [[academic-integrity|学术诚信]]。
 
 ## 研究方法与评价

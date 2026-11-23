@@ -1,7 +1,7 @@
 ---
 title: 教师角色
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
 connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teachers-mathematics-classroom-2026, ai-integrated-teaching-identity-tensions, ai-supported-lecturer-decision-making-2026, ai-teaching-innovation-ai-tpack-2026, ai-use-teacher-performance-north-sumatra-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bozkurt-ghost-students-agentic-ai-2026, breideband-community-builder-cobi-2026, caeo-navigating-ai-educational-future-scenarios-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, cheeseman-human-in-the-loop-humanness-higher-ed-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, chen-future-faculty-development-ai-2027, chirikov-regulate-ai-syllabi-2026, dai-genai-frenemy-teaching-autonomy-2026, dyer-social-presence-literacy-ai-2026, edustories-classroom-case-studies-2026, etq-ai-conversational-teacher-training-2026, fagerlund-competency-agency-purposes-ai-education-2026, falhs-teacher-expertise-reflection-2025, farazouli-navigating-uncertainty-teachers-genai-2026, gnadlinger-educator-perspectives-its-design-2026, heutagogical-teaching-ai-enhanced-education-2026, instructional-governance-design-computing-education-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kibar-ilgaz-ai-instructional-design-review-2026, kuhail-great-debaters-ai-facilitators-2026, laidlaw-genai-identity-crisis-faculty-2026, li-instructor-designed-ai-rct-2026, li-language-educators-genai-review-2026, lim-llm-summaries-teachers-rct-2026, lodge-loble-cognitive-offloading-2026, lopez-pernas-llm-appropriate-student-support-2026, luo-dawson-value-judgments-grading-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, rodrigues-aied-unplugged-numeracy-2026, roy-chatgpt-lesson-preparation-nfer-2024, sessional-academics-contract-cheating-digital-misconduct-2026, socorro-philosophical-leadership-ai-2026, teacher-ai-teaming-five-levels, teacher-authored-prompts-student-ai-dialogue, teacher-intervention-k12-ai-based-instruction-2026, teacher-student-agency-orchestration, teachers-configure-educational-chatbots-2026, teachers-instrumental-orchestration-ai-math-2026, wang-teacher-ai-co-design-review-2026, where-ai-enters-teacher-work-2026, xai-teachers-trust-edtech-recommendations-2026, yalcin-genai-programming-education-systematic-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, farooq-standard-anchored-delegation-teachers-2026]
@@ -70,16 +74,19 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 
 - Lan 与 Chen（2026）提出以来源（provenance）来判定教师作者身份：一个智能体只有在权威可追溯至某一位具名教师、该教师保留责任、把判断转译为可检视的规格说明、并在不转移作者身份的前提下扩展能力时，才算这位教师的“孪生”；而平台默认配置产出的是代理，不是孪生（[[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan 与 Chen，2026]]）。
 
+**委托锚定在标准上。** [[farooq-standard-anchored-delegation-teachers-2026|Farooq、Khan 与 Raza（2026）]] 访谈了巴基斯坦旁遮普省的 13 位教师，发现当某个外部标准——教科书、教学大纲或评分量规——定义了一个他们能应用于结果的正确输出时，他们就把任务的一个组成部分交给生成式 AI；没有人接受 AI 起草的学习目标。拥有一个标准并不总是足够的：即便存在答案要点，仍有几位公立学校教师拒绝 AI 评分。
+
 ### 编排隐喻
 
 知识库中占主导地位的隐喻是*编排*（orchestration）：教师协调人类学习者、[[intelligent-tutoring|人工智能导师]]和课程资源。这与"替代"叙事形成对比——人工智能是增强而非取代人类教学。实证证据支持这一立场：一项遵循 PRISMA 的[[meta-analysis-systematic-review|系统综述]]（42 项研究，2023–2025）发现，大语言模型在简短、结构良好的任务上与人类评分者相当，但在更长、多语言且微妙的工作上表现下降——结论是大语言模型无法完全取代教师，混合式、人在环路的评估系统取得最高的评分有效性（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。编排视角把教师的核心技能重新框定为*判断*：在给定学习者与时刻，决定人、人工智能还是一套设计好的学习活动才是恰当的工具。一项针对[[teacher-intervention-k12-ai-based-instruction-2026]]的 2026 年 PRISMA 综述（29 项研究）把这个隐喻锐化为一个四阶段循环——监控、判断、干预、编排——并说明为何不能假定其中任何一阶段。教师偏好共享控制，接受、修改、拒绝或覆盖人工智能的建议；有人刻意推迟干预，以便学生先进行有成效的挣扎；而扩展了认知的仪表盘，也可能使注意力过载，或超出单个教师能实际处置的范围。该综述提出的三种策略——对人工智能输出的教学性转译、学习支持的设计、互动结构的重建——把这项工作描述为再情境化（recontextualization）而非认可，这把教师放在更接近"中介者"而非"人在环路审查者"的位置。课堂观察把这些行为命名为类型。六节由一位资深教师执教的课，在 Drijvers 的四种编排类型之外增加了三种——仪表盘监控、人工智能纠错和人工智能中介——教师在纠正人工智能生成的反馈时，其内容角色与伦理角色最为可见（[[teachers-instrumental-orchestration-ai-math-2026|Noh 与 Kim，2026]]）。
 
-指挥家比独奏者更准确。[[chen-future-faculty-development-ai-2027|Chen 等人（2026）]] 描述了一位协调专长、而非提供全部专长的教师：在一门大型多班课程中，一两位同事可以重设计任务与量规，其他人承担学习架构、工具评估或证据收集。他们的分工有一条底线：团队每位成员都保留基础的技术与伦理能力，因此这一角色是被指挥的，而不是被外包的。
+指挥家比独奏者更准确。[[chen-future-faculty-development-ai-2027|Chen 等人（2026）]] 描述了一位协调专长、而非提供全部专长的教师：在一门大型多班课程中，一两位同事可以重设计任务与[[rubrics|量规]]，其他人承担学习架构、工具评估或证据收集。他们的分工有一条底线：团队每位成员都保留基础的技术与伦理能力，因此这一角色是被指挥的，而不是被外包的。
 
 ### 演进中与批判性的教师角色
 
 近期的工作把编排隐喻扩展为更丰富的角色概念化：
 
+- **作为人工智能生成教案审计者的教师。** 十一位科学教育专家评判两份 AI 生成的六年级教案，发现两者在内容上都处理得很好，但在迭代性的工程设计阶段得分最低，因此这些工具的教案是教师必须改编的草稿，而不是完成了的教学（instruction）。（[[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu 等，2026]]）
 - **跨越活动转换的共同编排者。**[[teacher-student-agency-orchestration|Yang 等（2026）]]用参与式"快速相亲"（speed dating）与 17 位教师和 13 位学生一起，绘制课堂活动的各个阶段——个体工作与协作工作之前、之中与之后的转换——中控制权应如何分布，所依托的是一个支持实时动态配对的共同编排工具。由此浮现的设计原则是：控制权*不是*一个固定点——教师与学生在每个阶段想要的自主性分量不同，工具应让教师实时调整分组、活动转换与干预时机，同时保留教师的覆盖权。这把教师定位为**整个鲜活学习环境的共同编排者**——一个比一般编排隐喻更具体的角色，聚焦"谁与谁合作、何时、以何种支持"这类颗粒化、逐时刻的决策——并把个体辅导研究连接到课堂层面的设计。
 - **"认知编舞者"。**后人类主义框架把教师重新塑造成*认知编舞者*，编排分布在[[biology-education|生物]]系统与人工系统之间的认知，超越了 [[tpack]] 与 SAM 这类工具主义模型。（[[elsayed-pedagogical-symbiosis-posthuman-learner]]）
 - **促进者、共同探究者、[[ethics|伦理]]监督者。**在科学学习中，教师的角色从知识传递者转向促进者与共同探究者，并对学生负责任地使用人工智能负起新的伦理监督责任。（[[li-ai-science-situated-learning-teachers-2025]]）
@@ -122,6 +129,8 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 **为传递媒介做规划。**调整不是媒介中立的：[[online-teaching-and-learning|在线教学]]加上人工智能，既放大了机会（可扩展的[[personalized-learning|个性化]]、全天候支持），也放大了风险（诚信、外包）。在线环境中设计人工智能外壳，要与面对面情境同样刻意。（[[lopez-pernas-llm-appropriate-student-support-2026]]）
 
 **回复整个讨论串，而不是每一则帖子。** 在与 26 名 STEM 本科生的四场焦点小组中，可见的在场是学生最认可的外部因素，他们描述的模式是：教师推动讨论、要求学生彼此回应，然后在一周稍后回复（[[reding-discussion-boards-tam-ai-analytics-2026|Reding、Gartner 与 Nugent，2026]]）。在讨论串层面的有限在场就已足够；逐帖回复并不是赢得认可的原因。
+
+**决定什么自动化、什么保留给人。** 一个面向 AI 中介在线教学的框架把社会临场（social presence）当作设计判据而非结果：三种风险——任务自动化取代投入、共情减弱，以及向效率主导的决策漂移——相互强化，而一个五步“评估—识别—调整—测试—精炼”循环把这变成常规。教师新增的责任是判断哪种关系性工作可以由工具承担、哪种需要由人来做（[[dyer-social-presence-literacy-ai-2026|Dyer 等，2026]]）。
 
 ## 把人工智能素养融入教学
 

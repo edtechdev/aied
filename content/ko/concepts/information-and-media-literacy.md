@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -85,7 +89,7 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif
 
 교육과정 설계자는 제작을 강좌 안에 남길 수 있습니다. 여기서 검토된 연구들에서 비판을 구체적으로 만든 것은 미디어 제작이었고, AI로 생성하는 것은 학생이 도구가 대신 내린 선택을 검토할 때만 그것을 뒷받침합니다.
 
-구성개념을 태도가 아니라 수행으로 채점하면 취약점이 시야에 들어옵니다. 태국 학부생 28명을 대상으로 한 8주 Code Craft 시범에서, 디지털 리터러시는 3점 루브릭에서 1.51에서 2.82로 올랐지만, 정보 관리 평균은 1.92, 정보 생성은 2.05로, 의사소통 및 타인과의 협업 2.36에 못 미쳤습니다([[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]). 가장 낮은 점수는 구성개념의 생산 쪽에 놓였습니다. 검색과 평가에서 멈추는 강좌는 결코 도달하지 못하는 곳입니다.
+구성개념을 태도가 아니라 수행으로 채점하면 취약점이 시야에 들어옵니다. 태국 학부생 28명을 대상으로 한 8주 Code Craft 시범에서, 디지털 리터러시는 3점 [[rubrics|루브릭]]에서 1.51에서 2.82로 올랐지만, 정보 관리 평균은 1.92, 정보 생성은 2.05로, 의사소통 및 타인과의 협업 2.36에 못 미쳤습니다([[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]). 가장 낮은 점수는 구성개념의 생산 쪽에 놓였습니다. 검색과 평가에서 멈추는 강좌는 결코 도달하지 못하는 곳입니다.
 
 프로그램 책임자는 사서나 미디어 전문가를 워크플로 안에 둘 수 있습니다. 이 문헌에서 가장 강한 교수 결과는 인간 상담이 나중에 제공되는 것이 아니라 설계에 내장된 데서 나옵니다.
 

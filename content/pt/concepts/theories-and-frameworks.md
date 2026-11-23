@@ -1,7 +1,7 @@
 ---
 title: "Teorias e frameworks"
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -70,6 +74,7 @@ Estas explicam mecanismos: elas nomeiam as partes que fazem o trabalho e prevêe
 ## Frameworks de ensino, integração e adoção
 
 - **[[tpack|TPACK]]** — o conhecimento docente que mescla tecnologia, pedagogia e conteúdo; o framework padrão para estudos de IA voltados a professores.
+- **[[bloom-taxonomy|Taxonomia de Bloom]]** — o vocabulário compartilhado para a demanda cognitiva das tarefas, usado tanto para codificar itens quanto para sequenciá-los; na IA na educação, tornou-se tanto um problema de medição quanto de desenho.
 - **[[technology-acceptance-model|Modelos de adoção]]** — a intenção como função da utilidade percebida e da facilidade de uso. Usados amplamente o bastante para que a dependência do campo da intenção em vez do comportamento seja uma crítica permanente.
 - **Modelo de confirmação de expectativas (ECM)** — a satisfação como confirmação das expectativas prévias, com a continuidade, e não a adoção inicial, como resultado. Em um piloto de um semestre em métodos de sociologia com 24 graduandos, 87% avaliaram o Copilot como bom ou excelente e 91% o recomendariam, mas apenas 57% pretendiam continuar usando-o ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). A lacuna é o ponto do modelo: um usuário satisfeito ainda pode recusar-se a voltar, de modo que satisfação e continuidade precisam de medidas separadas.
 - **[[icap-framework|ICAP]]** — classifica o engajamento como passivo, ativo, construtivo, interativo; útil para perguntar que modo uma [[student-ai-interaction|interação com IA]] de fato permite.
@@ -109,7 +114,7 @@ As palavras são usadas de forma frouxa na literatura, e a diferença vale um pa
 
 ## Camadas relacionadas
 
-Duas páginas vizinhas tratam deliberadamente de outra coisa. A [[philosophy-of-ai-in-education|filosofia da IA na educação]] faz perguntas normativas e conceituais — para que a educação serve, se uma máquina pode ensinar — e não prevê tamanhos de efeito; um estudo pode ser filosoficamente ingênuo e teoricamente sólido, ou o contrário. O [[theory-development-aied|desenvolvimento de teoria]] é a metaatividade de construir, tomar emprestada e revisar teoria, incluindo a crítica permanente de que boa parte do trabalho em [[ai-education|AIED]] aplica teoria existente em vez de testá-la. Esta página é o inventário; o desenvolvimento de teoria trata de produzir e revisar o inventário.
+Duas páginas vizinhas tratam deliberadamente de outra coisa. A [[philosophy-of-ai-in-education|filosofia da IA na educação]] faz perguntas normativas e conceituais — para que a educação serve, se uma máquina pode ensinar — e não prevê tamanhos de efeito; um estudo pode ser filosoficamente ingênuo e teoricamente sólido, ou o contrário. O [[theory-development-aied|desenvolvimento de teoria]] é a metaatividade de construir, tomar emprestada e revisar teoria, incluindo a crítica permanente de que boa parte do trabalho em [[ai-education|AIED]] aplica teoria existente em vez de testá-la. Esta página é o inventário; o desenvolvimento de teoria trata de produzir e revisar o inventário. [[learning-environments-as-systems|Ambientes de aprendizagem como sistemas]] é um terceiro vizinho. Não é uma teoria da aprendizagem e não prevê tamanhos de efeito, mas uma postura sobre a unidade de análise: um ambiente de aprendizagem é um sistema multinível cujas partes interagem, de modo que o nível que um estudo mede é uma decisão teórica, e não uma conveniência de amostragem.
 
 ## Escolhendo uma lente quando a pergunta é prática
 

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 비판적 사고
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,13 +11,17 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-19T09:58:08-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
 connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -74,12 +78,18 @@ connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-g
 - **AI 접근의 한 학기는 비판적 사고를 평평하게 남겼고, 성찰적 사용만이 그것을 따라갔습니다.** Melanou, Beege와 Kimmig(2026)은 경영정보학 학생 87명을 세 개의 병행 조건(튜터 틀을 쓴 AI, 안내 없는 AI, AI 없음)에서 세 번 측정하며 9주 강좌를 따랐습니다. 지식은 모든 집단에서 올랐고 두 AI 조건 어느 쪽에도 이점이 없었으며 매튜 효과도 없었습니다(BF01 = 8.70). 한편 자기보고한 비판적 사고와 [[motivation]]은 안정적으로 유지되었습니다. 학생을 가른 것은 성찰적 사용이었습니다. 출처를 확인하고 채택하기 전에 AI 산출물을 검증하는 실천으로, 이것이 AI 조건에서 대조군보다 높았고(평균 3.72 대 2.82) 마지막 측정에서 비판적 사고를 예측했습니다(R² = 0.183, β = 0.43, p < 0.001). 이 결과는 AI 사용의 한 학기만으로 비판적 사고를 움직일 것이라는 어떤 기대도 유보합니다. 연관이 자리하는 곳은 [[metacognition|메타인지적]] 조절이지 도구 접근이 아니며, 저자들은 한 학기로는 지속적 변화를 보기에 너무 짧을 가능성이 있다고 지적합니다.([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou 외 2026]])
 - **평가는 움직였고, 형식적 연역은 그렇지 않았습니다.** 4단계 AI 피드백이 논증 평가(Evaluation of Arguments)를 1.74 조정 포인트 높인 반면 연역(Deduction)은 0.30 움직여(p = 0.383), 향상이 형식 논리가 아니라 주장 판단에 놓였습니다([[structured-genai-feedback-critical-thinking-data-science-2026|Yin 외(2026)]]).
 
+- **온라인 추론은 검색 행동으로 측정할 수 있으며, 둘로 갈라집니다.** 분석 가능한 로그를 지닌 1학년 학생 459명이 열린 웹을 검색하도록 한 연구에서, [[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)]]는 질의 구성과 결과 페이지 검사가 상관 없는 별개의 요인을 형성하므로, 단일 획득 점수가 구성 개념을 왜곡한다고 발견했습니다.
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez et al. (2026)]]는 AI를 사용한 비판적 사고에 관한 최초의 목적 설계 측정을 제공하고, 제안된 세 영역이 분리하기에는 너무 많이 겹침을 발견했습니다. 즉 잠재 상관이 매우 높았고, 평균 분산 추출이 상관의 제곱보다 낮았으며, 변별 타당성 기준은 어떤 요인에서도 충족되지 않았습니다. 총점은 신뢰롭지만, 차원들은 여전히 잠정적입니다.
+
 ## 다른 개념과의 연결
 
 비판적 사고는 [[scaffolding]](인지적 요구를 유지하는 AI 지원을 설계하는 것), [[prompt-engineering]](비판적 분석을 끌어내는 질문을 만드는 것), [[cognitive-offloading|과잉 의존]](AI를 언제 믿고 언제 의심할지 아는 것)과 교차합니다. 비판적 사고는 [[academic-integrity]]에 기초적이며, [[k-12]]와 [[higher-ed]] 맥락 모두에서 [[ai-literacy]] 프레임워크의 핵심 차원으로 기능합니다.
 
 - **고차원적 사고를 위한 도발로서의 AI 오류:** [[pedagogy-ai-mistakes|Hosseini(2026)]]는 데이터베이스 강좌에서 학생이 AI가 만든 실수를 캐묻게 하여 블룸의 고차원적 수준(Analyze, Evaluate, Create)을 작동시킵니다. 교과 역량에서 유의미한 사전/사후 향상(Cohen's *d*=1.49)이 나타났습니다.
-- **AI 산출물에 대한 비판은 문제 해결의 부산물이 아니라 스캐폴딩할 수 있는 기술입니다.** 관련 물리 문제만 푼 집단은 매끈한 AI 풀이를 받아들이거나 자신의 [[misconceptions|오해]]에서 그것을 비판한 반면, MAPS 루브릭의 안내를 받은 성찰은 빠진 통합과 정의되지 않은 표기에 대한 전문가 정합적 비판을 만들어 냈습니다([[probing-ai-generated-physics-solutions-2026|Borse 외(2026)]]).
+- **AI 산출물에 대한 비판은 문제 해결의 부산물이 아니라 스캐폴딩할 수 있는 기술입니다.** 관련 물리 문제만 푼 집단은 매끈한 AI 풀이를 받아들이거나 자신의 [[misconceptions|오해]]에서 그것을 비판한 반면, MAPS [[rubrics|루브릭]]의 안내를 받은 성찰은 빠진 통합과 정의되지 않은 표기에 대한 전문가 정합적 비판을 만들어 냈습니다([[probing-ai-generated-physics-solutions-2026|Borse 외(2026)]]).
+
+- **비판은 AI 자신의 자기 평가에서 빌려올 수 있습니다.** 물 사용 모형을 ChatGPT-4o 모형과 비교한 예비 교사 열두 명은 AI가 스스로 열거한 약점과 일치하는 비판을 만들어 냈고, 아묏도 그 산출물에 남아 있는 계산적 불일치를 알아차리지 못했습니다. 즉 매끄러운 결과는 검증되지 않은 채 감탄할 수 있습니다([[cetin-ai-comparative-reflection-modelling-2026|Çetin and Bilgili, 2026]]).
 - **인지적 주체성을 지키기 위해 AI에 경계를 세우기.** E3-HOT 설계도는 세 [[embodied-learning|체화]] 경로 — 상황적 내장, 체화적 참여, 인지적 창조 — 를 Analyze, Evaluate, Create에 대응시키고, AI를 프롬프트, 비판, 전략 제안으로 제한하여 학생이 주장이 받아들여지기 전에 근거를 밝히고 증거를 인용하게 합니다([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu 외(2026)]]).
 - **AI 설명의 양면 감사.** Bernstein과 Sibia(2026)는 CS2를 마친 학생 10명과의 면접 탐침으로 Paul–Elder 기준(정확성, 명료성, 가정, 관점)을 사용하여 [[generative-ai|생성형 AI]] 설명에 대한 메커니즘 수준의 검토를 발견했습니다. 학생들은 한 유비의 대응이 깨지는 곳을 찾아냈습니다(연결 리스트에 대한 섬-경로 유비가 원을 함의하고, 입력이 보장되게 줄지 않는 재귀에 제시된 배드민턴 랠리). 그들은 얼버무림보다 정밀한 용어를 요구하고, 설명을 관점을 담은 논증으로 다루었습니다. 결정적으로, 그 검토는 개인적 흥미가 아니라 출처 또는 대상 영역 전문성을 따랐습니다. 이는 AI 산출물의 비판적 [[ai-ed-evaluation|평가]]를 기질적 문제가 아니라 지식 문제("양면 유비 감사")로 다시 규정하며, 결함 있는 AI 유비를 검사하고 고칠 대상으로 내주는 것이 완성된 설명을 읽는 것보다 개념 이해에 대한 더 어려운 점검임을 시사합니다.([[student-reception-genai-analogies-computing-2026]])
 - **외주할 수 없는 참여로서의 비판적 사고.** Xie(2026)는 도가적 자기 수양에서 나온 [[philosophy-of-ai-in-education|철학적]] 짝을 더합니다. AI는 불투명한 "블랙 박스"이므로, 절대적 진리를 판정하기보다 불확실성을 조화시키는 방향의 틀이 현재의 인식론적 풍토에 더 적합하며, 비판적 사고는 입증 가능한 합리적 절차가 아니라 현실과의 지속적이고 1인칭이며 외주할 수 없는 참여가 됩니다. 내단(內丹) 실천에서 "인지적 지름길은 없다"고 하므로, AI는 "인지적 대리인이 아닌 인간 번영을 위한 도구적 보조"로 자리매김됩니다.([[daoism-ai-education-philosophy-2026]])

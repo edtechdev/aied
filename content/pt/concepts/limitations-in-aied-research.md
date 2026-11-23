@@ -1,7 +1,7 @@
 ---
 title: Limitações na Pesquisa em AIEd
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -37,13 +41,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Quanto você confiaria em uma manchete como "tutoria com IA aumenta a aprendizagem em 30%" se descobrisse que ela veio de 30 estudantes em um curso de uma instituição? A página sinaliza generalizabilidade e amostras pequenas como limites recorrentes — o que você gostaria de saber antes de agir com base em qualquer achado isolado?
 - Uma limitação marcante é o "problema da velocidade": a IA evolui mais rápido do que os achados são publicados, de modo que um estudo de uma geração de modelo pode já descrever um sistema obsoleto. Como isso deveria mudar a confiança que você deposita na pesquisa em educação com IA?
 - Muitos estudos dependem de atitudes e uso [[self-report-measures|autorrelatados]], que são enviesados — as pessoas superestimam sua competência e subnotificam o uso indevido. Você já respondeu a uma pesquisa sobre suas próprias habilidades ou comportamento de uma forma que não correspondia à realidade? Por que medidas baseadas em percepção divergem tão frequentemente do desempenho objetivo?
-- A página nota que frameworks familiares como a taxonomia de Bloom são frequentemente mal lidos como escadas rígidas, e que até teorias amplamente usadas como a [[cognitive-offloading|teoria da carga cognitiva]] foram desafiadas. Quando você já viu uma teoria invocada como verdade assentada em um contexto onde sua própria evidência era de fato contestada?
+- A página nota que frameworks familiares como a [[bloom-taxonomy|taxonomia de Bloom]] são frequentemente mal lidos como escadas rígidas, e que até teorias amplamente usadas como a [[cognitive-offloading|teoria da carga cognitiva]] foram desafiadas. Quando você já viu uma teoria invocada como verdade assentada em um contexto onde sua própria evidência era de fato contestada?
 - A maior parte da pesquisa em IA depende de modelos proprietários e opacos cujos dados e atualizações você não pode inspecionar. Se você não pode verificar exatamente qual modelo produziu um resultado, quanto pode confiar em afirmações construídas sobre ele — e o que tornaria os achados mais reprodutíveis?
 - Se você é um instrutor ou designer sem tempo para ler pesquisa primária, como decide quais afirmações sobre IA são confiáveis o suficiente para mudar sua prática — dado que a literatura é fragmentada, provisória e escrita para pesquisadores?
 
 ## Introdução
 
-A IA na educação é um campo veloz e heterogêneo, e sua base de evidências carrega um conjunto distintivo de limitações que pesquisadores, praticantes e formuladores de política deveriam pesar ao usar qualquer achado. Algumas são compartilhadas com a literatura mais ampla de [[learning-sciences|ciências da aprendizagem]] e psicologia; outras são amplificadas ou tornadas únicas pela própria natureza da IA. Esta página as organiza em quatro áreas transversais.
+A IA na educação é um campo veloz e heterogêneo, e sua base de evidências carrega um conjunto distintivo de limitações que pesquisadores, praticantes e formuladores de política deveriam pesar ao usar qualquer achado. Algumas são compartilhadas com a literatura mais ampla de [[learning-sciences|ciências da aprendizagem]] e psicologia; outras são amplificadas ou tornadas únicas pela própria natureza da IA. Esta página as organiza em quatro áreas transversais. Esses são problemas da evidência; um corpo separado de argumentos sobre os propósitos que a evidência serve está reunido em [[critiques-of-ai-in-education|Críticas à IA na Educação]].
 
 ## Limitações metodológicas
 

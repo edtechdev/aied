@@ -1,7 +1,7 @@
 ---
 title: सिद्धांत और ढाँचे
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,13 +9,17 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,6 +70,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## शिक्षण, एकीकरण और अपनाने के ढाँचे
 
 - **[[tpack|TPACK]]** — वह शिक्षक ज्ञान जो प्रौद्योगिकी, पढ़ाई और विषय-वस्तु को मिश्रित करता है; शिक्षक-उन्मुख AI अध्ययनों का डिफ़ॉल्ट ढाँचा।
+- **[[bloom-taxonomy|ब्लूम का वर्गीकरण]]** — कार्यों की संज्ञानात्मक माँग के लिए साझा शब्दावली, जिसका उपयोग मदों को कोड करने और उन्हें क्रमबद्ध करने दोनों के लिए होता है; शिक्षा में AI में यह अब डिज़ाइन की ही तरह माप की समस्या भी बन गया है।
 - **[[technology-acceptance-model|स्वीकृति मॉडल]]** — इरादा अनुभूत उपयोगिता और उपयोग में सरलता का फलन। इतना व्यापक रूप से उपयोग किया जाता है कि व्यवहार के बजाय इरादे पर क्षेत्र का निर्भरता एक स्थायी आलोचना बन गया है।
 - **अपेक्षा-पुष्टि मॉडल (ECM)** — संतुष्टि पूर्व अपेक्षाओं की पुष्टि के रूप में, जिसमें परिणाम प्रारंभिक अपनाना नहीं बल्कि निरंतर उपयोग है। 24 स्नातक छात्रों के साथ समाजशास्त्र विधियों के एक-सेमेस्टर पायलट में, 87% ने Copilot को अच्छा या उत्कृष्ट आँका और 91% इसकी सिफ़ारिश करते, पर केवल 57% इसे आगे भी उपयोग करने का इरादा रखते थे ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]])। यही अंतराल मॉडल का मुख्य बिंदु है: संतुष्ट उपयोगकर्ता भी लौटने से इनकार कर सकता है, इसलिए संतुष्टि और निरंतरता के अलग-अलग माप चाहिए।
 - **[[icap-framework|ICAP]]** — संलग्नता को निष्क्रिय, सक्रिय, रचनात्मक, अंतरक्रियात्मक के रूप में क्रमबद्ध करता है; यह पूछने में उपयोगी कि किसी [[student-ai-interaction|AI अंतरक्रिया]] वास्तव में कौन-सा मोद संभव बनाती है।
@@ -105,7 +110,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## संबंधित परतें
 
-दो पड़ोसी पेज जानबूझकर कुछ और के बारे में हैं। [[philosophy-of-ai-in-education|शिक्षा में AI का दर्शन]] मानदंड और वैचारिक प्रश्न पूछता है — शिक्षा *किस लिए* है, क्या कोई मशीन शिक्षा दे सकती है — और प्रभाव आकारों की भविष्यवाणी नहीं करता; कोई अध्ययन दार्शनिक रूप से नादान और सिद्धांतात्मक रूप से पक्का दोनों हो सकता है, या इसके विपरीत। [[theory-development-aied|सिद्धांत विकास]] सिद्धांत के निर्माण, उधार लेने और संशोधन की मेटा-गतिविधि है, जिसमें वह स्थायी आलोचना शामिल है कि अधिकांश [[ai-education|AIED]] कार्य मौजूदा सिद्धांत लागू करता है, उसकी परीक्षा नहीं। यह पेज सूची है; सिद्धांत विकास सूची के निर्माण और संशोधन के बारे में है।
+दो पड़ोसी पेज जानबूझकर कुछ और के बारे में हैं। [[philosophy-of-ai-in-education|शिक्षा में AI का दर्शन]] मानदंड और वैचारिक प्रश्न पूछता है — शिक्षा *किस लिए* है, क्या कोई मशीन शिक्षा दे सकती है — और प्रभाव आकारों की भविष्यवाणी नहीं करता; कोई अध्ययन दार्शनिक रूप से नादान और सिद्धांतात्मक रूप से पक्का दोनों हो सकता है, या इसके विपरीत। [[theory-development-aied|सिद्धांत विकास]] सिद्धांत के निर्माण, उधार लेने और संशोधन की मेटा-गतिविधि है, जिसमें वह स्थायी आलोचना शामिल है कि अधिकांश [[ai-education|AIED]] कार्य मौजूदा सिद्धांत लागू करता है, उसकी परीक्षा नहीं। यह पेज सूची है; सिद्धांत विकास सूची के निर्माण और संशोधन के बारे में है। [[learning-environments-as-systems|सीखने के वातावरण एक प्रणाली के रूप में]] तीसरा पड़ोसी है। यह सीखने का सिद्धांत नहीं है और प्रभाव-आकार की भविष्यवाणी नहीं करता, बल्कि विश्लेषण-एकक के बारे में एक दृष्टिकोण है: सीखने का वातावरण एक बहु-स्तरीय प्रणाली है जिसके घटक आपस में क्रिया करते हैं, इसलिए किसी अध्ययन द्वारा मापा गया स्तर एक सैद्धांतिक निर्णय है, नमूना-चयन की सुविधा नहीं।
 
 ## जब प्रश्न व्यावहारिक हो तो दृष्टिकोण का चयन
 

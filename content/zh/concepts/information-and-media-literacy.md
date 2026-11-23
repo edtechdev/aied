@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-18T03:05:30-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -89,7 +93,7 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif
 
 课程设计者可以把制作留在课程里。在所综述的研究中，正是制作媒介让批判变得具体；而用 AI 生成只有在学生审视工具替他们作出的选择时，才能支持这一点。
 
-把构念作为表现而非态度来评分，薄弱之处就显现出来。在一项为期八周、28 名泰国本科生的 Code Craft 试验中，数字素养在三点量规上从 1.51 升至 2.82，但管理信息平均为 1.92、创造信息为 2.05，而与他人沟通与协作为 2.36（[[koraneekij-codecraft-computational-thinking-2026|Koraneekij 与 Khlaisang，2026]]）。最低的分数落在该构念的生产一侧，而一门止步于检索与评估的课程永远到不了那里。
+把构念作为表现而非态度来评分，薄弱之处就显现出来。在一项为期八周、28 名泰国本科生的 Code Craft 试验中，数字素养在三点[[rubrics|量规]]上从 1.51 升至 2.82，但管理信息平均为 1.92、创造信息为 2.05，而与他人沟通与协作为 2.36（[[koraneekij-codecraft-computational-thinking-2026|Koraneekij 与 Khlaisang，2026]]）。最低的分数落在该构念的生产一侧，而一门止步于检索与评估的课程永远到不了那里。
 
 项目负责人可以把图书馆员或媒介专家放进工作流。这一文献中最强的教学结果，来自一个把人的咨询内建进去、而不是事后提供的设计。
 

@@ -1,7 +1,7 @@
 ---
 title: 교수(Teaching)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -12,18 +12,22 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
-- model: stepfun/step-5-preview:free
-  role: translation
-  date: "2026-10-11"
-  agent: hermes-agent
-- model: deepseek/deepseek-v4.1-flash-1017
-  role: translation
-  date: "2026-11-17"
-  agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
 connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teachers-mathematics-classroom-2026, ai-integrated-teaching-identity-tensions, ai-supported-lecturer-decision-making-2026, ai-teaching-innovation-ai-tpack-2026, ai-use-teacher-performance-north-sumatra-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bozkurt-ghost-students-agentic-ai-2026, breideband-community-builder-cobi-2026, caeo-navigating-ai-educational-future-scenarios-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, cheeseman-human-in-the-loop-humanness-higher-ed-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, chen-future-faculty-development-ai-2027, chirikov-regulate-ai-syllabi-2026, dai-genai-frenemy-teaching-autonomy-2026, dyer-social-presence-literacy-ai-2026, edustories-classroom-case-studies-2026, etq-ai-conversational-teacher-training-2026, fagerlund-competency-agency-purposes-ai-education-2026, falhs-teacher-expertise-reflection-2025, farazouli-navigating-uncertainty-teachers-genai-2026, gnadlinger-educator-perspectives-its-design-2026, heutagogical-teaching-ai-enhanced-education-2026, instructional-governance-design-computing-education-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kibar-ilgaz-ai-instructional-design-review-2026, kuhail-great-debaters-ai-facilitators-2026, laidlaw-genai-identity-crisis-faculty-2026, li-instructor-designed-ai-rct-2026, li-language-educators-genai-review-2026, lim-llm-summaries-teachers-rct-2026, lodge-loble-cognitive-offloading-2026, lopez-pernas-llm-appropriate-student-support-2026, luo-dawson-value-judgments-grading-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, rodrigues-aied-unplugged-numeracy-2026, roy-chatgpt-lesson-preparation-nfer-2024, sessional-academics-contract-cheating-digital-misconduct-2026, socorro-philosophical-leadership-ai-2026, teacher-ai-teaming-five-levels, teacher-authored-prompts-student-ai-dialogue, teacher-intervention-k12-ai-based-instruction-2026, teacher-student-agency-orchestration, teachers-configure-educational-chatbots-2026, teachers-instrumental-orchestration-ai-math-2026, wang-teacher-ai-co-design-review-2026, where-ai-enters-teacher-work-2026, xai-teachers-trust-edtech-recommendations-2026, yalcin-genai-programming-education-systematic-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, farooq-standard-anchored-delegation-teachers-2026]
 ---
@@ -65,16 +69,19 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 
 - Lan과 Chen (2026)은 교사 저자성을 출처로 판단할 것을 제안합니다. 에이전트가 교사의 쌍둥이로 인정되려면 그 권한이 책임을 지는 한 명의 이름 붙은 교사에게 추적되고, 판단을 검사 가능한 명세로 번역했으며, 저자성을 옮기지 않고 역량을 확장해야 합니다. 플랫폼 기본값은 쌍둥이가 아니라 대리물(proxy)을 낳습니다([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
+**위임은 표준에 닻을 둡니다.** [[farooq-standard-anchored-delegation-teachers-2026|Farooq, Khan and Raza (2026)]]는 파키스탄 펀잡의 교사 13명을 인터뷰하여, 교과서·교육과정·루브릭 같은 외부 표준이 적용할 수 있는 정답을 정의할 때 교사들이 과제 구성 요소를 생성형 AI에 맡긴다는 것을 발견했습니다. 아무도 AI가 작성한 학습 목표를 받아들이지 않았습니다. 표준이 있다고 항상 충분한 것은 아니었습니다. 몇몇 정부 소속 학교 교사들은 답안 열쇠가 있을 때도 AI 채점을 거부했습니다.
+
 ### 조율의 은유
 
 지식 기반에서 지배적인 은유는 *조율(orchestration)*입니다: 교사가 인간 학습자, [[intelligent-tutoring|AI 튜터]], 커리큘럼 자원을 조정한다는 것입니다. 이는 AI가 인간의 교수를 대체한다는 대체 서사와 대조됩니다 — AI는 인간 교수를 보완하는 것이지 대신하지 않습니다. 실증적 증거가 이 입장을 뒷받침합니다: 42편의 연구(2023–2025)를 대상으로 한 PRISMA 지침 [[meta-analysis-systematic-review|체계적 검토]]는 LLM이 짧고 잘 구조화된 과업에서는 인간 평가자와 맞먹지만, 더 길고 다국어이며 미묘한 작업에서는 성능이 저하된다는 것을 발견했습니다 — LLM이 교사를 완전히 대체할 수 없으며, 인간이 순환하는(hybrid, human-in-the-loop) 평가 시스템이 가장 높은 채점 효과를 달성한다는 결론을 내렸습니다([[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz 등, 2026]]). 조율의 관점은 교사의 핵심 기술을 *판단*으로 재구성합니다: 주어진 학습자와 순간에 인간, AI, 설계된 학습 활동 중 어느 것이 올바른 도구인지를 결정하는 것입니다. [[teacher-intervention-k12-ai-based-instruction-2026|K-12 연구 29편에 대한 Lee의 체계적 검토]]의 29편 연구를 대상으로 한 2026년 PRISMA 검토는 이 은유를 모니터링, 판단, 개입, 조율의 4단계 주기로 날카롭게 다듬고, 어느 단계도 당연시될 수 없는 이유를 보여줍니다. 교사들은 공유 통제를 선호하여 AI 제안을 수락하거나, 수정하거나, 거부하거나, 무시했습니다. 일부는 학생들이 먼저 생산적으로 고군분투할 수 있도록 개입을 의도적으로 미뤘습니다. 인식을 넓혀준 대시보드가 오히려 관심에 과부하를 주거나 한 명의 교사가 물리적으로 감당할 수 있는 것을 넘어서는 경우도 있었습니다. 이 검토의 세 가지 전략 — AI 출력의 교수학적 번역, 학습 지원의 설계, 상호작용 구조의 재구성 — 은 이 일을 승인이 아니라 재맥락화(recontextualization)로 서술하며, 교사를 인간-순환 검토자 역할보다 중재자에 더 가깝게 놓습니다. 교실 관찰은 같은 행동들을 유형으로 명명합니다. 숙련된 교사와 함께한 여섯 차시의 수업은 Drijvers의 네 유형에 대시보드 모니터링, AI 정정, AI 중재라는 세 가지 조율 유형을 더했습니다 — 교사의 콘텐츠 및 윤리적 역할은 AI가 생성한 피드백을 정정할 때 가장 두드러졌습니다([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
 
-독주자보다 지휘자가 더 정확한 비유입니다. [[chen-future-faculty-development-ai-2027|Chen 등(2026)]]은 모든 전문성을 직접 공급하는 것이 아니라 전문성을 조정하는 교사를 서술합니다. 대규모 다분반 강좌에서는 한두 동료가 과제와 루브릭을 재설계하는 동안 다른 이들이 학습 아키텍처, 도구 평가, 증거 수집을 맡을 수 있기 때문입니다. 그 분배에는 하한선이 있습니다. 팀의 모든 구성원이 기본적인 기술적·윤리적 역량을 유지하므로, 역할은 외주화되는 것이 아니라 지휘됩니다.
+독주자보다 지휘자가 더 정확한 비유입니다. [[chen-future-faculty-development-ai-2027|Chen 등(2026)]]은 모든 전문성을 직접 공급하는 것이 아니라 전문성을 조정하는 교사를 서술합니다. 대규모 다분반 강좌에서는 한두 동료가 과제와 [[rubrics|루브릭]]을 재설계하는 동안 다른 이들이 학습 아키텍처, 도구 평가, 증거 수집을 맡을 수 있기 때문입니다. 그 분배에는 하한선이 있습니다. 팀의 모든 구성원이 기본적인 기술적·윤리적 역량을 유지하므로, 역할은 외주화되는 것이 아니라 지휘됩니다.
 
 ### 진화하고 비판적인 교사 역할들
 
 최근 연구들은 조율의 은유를 더 풍부한 역할 개념들로 확장합니다:
 
+- **AI가 생성한 수업 계획의 감사자로서의 교사.** 과학 교육 전문가 열한 명이 두 개의 AI 생성 6학년 수업 계획을 평가한 결과, 둘 다 내용은 잘 다루었지만 반복적 공학 단계에서 가장 낮은 점수를 받았으므로, 도구의 계획은 완성된 수업이 아니라 교사가 적응시켜야 할 초안입니다([[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu et al., 2026]]).
 - **활동 전환에 걸친 공동 조율자.** [[teacher-student-agency-orchestration|Yang et al. (2026)]]는 17명의 교사와 13명의 학생과 함께 참여적 스피드 데이팅을 사용하여, 교실 활동의 단계들 — 개인 작업과 협업 작업 사이의 사전, 사후, 도중 전환 — 에 걸쳐 통제가 어떻게 분배되어야 하는지를 그립니다. 실시간 동적 짝짓기를 지원하는 공동 조율 도구를 통해 드러난 설계 원리는, 통제가 *고정된 지점이 아니라는* 것입니다: 교사와 학생은 각 단계에서 다른 양의 주체성을 원하며, 도구는 교사에게 교사 재량권(override)을 유지한 채 짝짓기, 활동 전환, 개입 시점을 실시간으로 조정할 수 있게 해야 합니다. 이것은 교사를 **살아 움직이는 학습 환경 전체의 공동 조율자**로 자리매김합니다 — 개별 튜터링 연구를 교실 수준의 설계에 연결하는, 누가 누구와 언제 어떤 지원으로 일하는지에 대한 세밀한 순간별 결정에 초점을 맞춘, 일반적 조율 은유보다 더 구체적인 역할입니다.
 - **"인지 안무가."** 포스트휴머니스트 프레임워크는 교사를 [[biology-education|생물학적]] 시스템과 인공 시스템에 분산된 인지를 조율하는 *인지 안무가(cognitive choreographer)*로 재구성하며, [[tpack|TPACK]]과 SAM 같은 도구주의 모델을 넘어섭니다.([[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]])
 - **촉진자, 공동 조사자, [[ethics|윤리]] 감독자.** 과학 학습에서 교사의 역할은 지식 전달자에서 촉진자와 공동 조사자로 이동하고, 학생들의 책임 있는 AI 사용에 대한 윤리 감독자로서 새로운 책임을 갖게 됩니다.([[li-ai-science-situated-learning-teachers-2025|Li, 2025]])
@@ -116,6 +123,8 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 **전달 매체를 계획하라.** 적응은 매체 중립적이지 않습니다: AI와 함께하는 [[online-teaching-and-learning|온라인 교수]]는 기회(확장 가능한 [[personalized-learning|개인화]], 상시 지원)와 위험(진실성, 오프로딩)을 모두 곱합니다. 대면 맥락만큼이나 온라인에서도 의도적으로 AI 포장을 설계하십시오.([[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 외(2026)]])
 
 **모든 게시물이 아니라 스레드에 답하십시오.** STEM 학부생 26명과의 네 차례 포커스 그룹에서 학생들이 가장 크게 인정한 외부 요인은 가시적 존재감이었고, 그들이 묘사한 양상은 토론을 밀어붙이고, 학생들에게 서로 응답하도록 요청한 뒤, 주 후반에 답하는 교수였습니다([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner와 Nugent, 2026]]). 스레드 수준의 제한된 존재감으로 충분했으며, 모든 게시물에 답하는 것이 그 인정을 얻은 것은 아니었습니다.
+
+**무엇을 자동화하고 무엇을 인간에게 남길지 결정하십시오.** AI 매개 온라인 교수에 관한 한 틀은 사회적 존재감을 결과가 아니라 설계 기준으로 다룹니다. 세 가지 위험 — 참여를 밀어내는 과제 자동화, 희미해지는 공감, 효율 주도 결정으로의 표류 — 이 서로를 강화하며, 평가–식별–조정–시험–다듬기의 다섯 단계 순환이 그것을 일상적인 절차로 바꿉니다. 교수자가 짜야 할 추가 책임은 도구가 맡을 수 있는 관계적 일과 사람이 해야 하는 일을 가리는 판단입니다([[dyer-social-presence-literacy-ai-2026|Dyer et al., 2026]]).
 
 ## 교수에 AI 리터러시 통합하기
 

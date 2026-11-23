@@ -1,7 +1,7 @@
 ---
 title: 학습 설계
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire, elearning-prompt-library]
 translation_of: concepts/learning-design
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
 connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023, bubnys-sustainable-ai-reflective-learning-2026]
@@ -70,7 +74,7 @@ Aila 시험은 그 양상에 계획 시간 수치를 붙입니다. 무작위 배
 
 **사고를 보호하도록 도구를 제약하기.** 9주에 걸친 논증적 글쓰기 설계는 질문을 던지고 학생의 산문 작성을 거부하는 교수자가 경계를 정한 [[conversational-ai|챗봇]]을 순차적으로 배치했습니다. 고등학생 네 명이 AI의 수동적 소비자에서 산출물에 이의를 제기하는 평가자로 옮겨갔으며, 향상을 이끈 것은 무제한적 생성성이 아니라 전략적 제약이었습니다([[making-ai-annoying-constrained-writing-2026|Konradt, Boote & Taub (2026)]]).
 
-**설계 지렛대로서의 루브릭 기반 프롬프트 설계.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 등(2026)]]은 루브릭이 인간의 교수법적 의도와 기계의 추론 사이의 매개 인터페이스로 기능함을 보여 주었습니다. 평가 기준을 고정된 도구가 아니라 수정 가능한 설계 산출물로 다루고 LLM과 반복적으로 함께 다듬었을 때, 학생 설계 과제에 대한 LLM-인간 일치도가 54.75%에서 81.25%로 높아졌습니다. LLM용으로 설계된 루브릭은 정밀성과 유연성 사이의 균형을 잡아야 합니다. 너무 모호하면 자유로운 해석을 부르고, 너무 경직되면 모델을 패턴 매칭으로 전락시킵니다. 역할을 인식하는 프롬프트 설계(강사, 동료 검토자, 연구비 검토자)는 서로 다른 평가적 피드백을 산출했습니다. 이는 루브릭 엔지니어링이 AI 평가 행위를 규정하는 구체적인 학습 설계 실천임을 뜻하며, 인간 참여형 감독은 필수적으로 남습니다.
+**설계 지렛대로서의 루브릭 기반 프롬프트 설계.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 등(2026)]]은 [[rubrics|루브릭]]이 인간의 교수법적 의도와 기계의 추론 사이의 매개 인터페이스로 기능함을 보여 주었습니다. 평가 기준을 고정된 도구가 아니라 수정 가능한 설계 산출물로 다루고 LLM과 반복적으로 함께 다듬었을 때, 학생 설계 과제에 대한 LLM-인간 일치도가 54.75%에서 81.25%로 높아졌습니다. LLM용으로 설계된 루브릭은 정밀성과 유연성 사이의 균형을 잡아야 합니다. 너무 모호하면 자유로운 해석을 부르고, 너무 경직되면 모델을 패턴 매칭으로 전락시킵니다. 역할을 인식하는 프롬프트 설계(강사, 동료 검토자, 연구비 검토자)는 서로 다른 평가적 피드백을 산출했습니다. 이는 루브릭 엔지니어링이 AI 평가 행위를 규정하는 구체적인 학습 설계 실천임을 뜻하며, 인간 참여형 감독은 필수적으로 남습니다.
 
 **수업 설계를 위한 AI 에이전트**는 이 분야를 [[agentic-ai|에이전트형 AI]]로 확장합니다. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**는 LLM 기반 수업 설계 에이전트를 평가하기 위한 최초의 표준화되고 이론에 기반한 벤치마크입니다. 그 25,795개 시나리오로 이루어진 Context Matrix(51개 맥락 변수 × ADDIE의 33개 ISD 하위 단계)는 고전적 ISD 프레임워크(ADDIE, Dick & Carey, Rapid Prototyping ISD)에 기반한 에이전트가 이론에 기반하지 않은 에이전트를 능가함을 보여 주며, 수업 설계가 일반적인 프롬프트 과제가 아니라 구조화된 학문 분야임을 경험적으로 검증합니다. 에이전트는 설계의 *제작자*일 뿐 아니라 *비평가*이기도 합니다. [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]]는 학생처럼 다단계 온라인 수업을 탐색하는 단일 자율 웹 에이전트를 사용하여 실제 학습자가 참여하기 *전에* 학습 설계를 평가합니다. 이 에이전트가 기술한 [[student-experience|학습자 경험]]은 초보자가 이탈할 지점을 예측하고 실행 가능한 설계 피드백을 드러내며, 모든 기준선은 물론 시뮬레이션된 학습자 집단보다도 뛰어난 성과를 냈습니다. 이는 출시 전 에이전트 평가를 인간의 설계 반복에 대한 저비용 보완으로 자리매김합니다. **[[wang-multi-agent-systems-learning-designers-2025|Wang 등 (2025)]]**와 **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**는 수업 설계 모형을 중심으로 역할 기반 에이전트를 조율하는 다중 에이전트 프레임워크를 탐구하고, **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**는 교수자와 에이전트가 기술적·교수법적·내용 지식을 어떻게 함께 적용하는지를 살핍니다. 이 작업은 수업 설계를 [[benchmark|벤치마킹]], [[ai-ed-evaluation|평가]], 그리고 대규모의 [[curriculum-design|교육과정]] 설계에 연결합니다.
 
@@ -126,6 +130,10 @@ Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방�
 - **설계자는 자율성이 아니라 조종 가능성을 요청합니다.** 문항 생성 플랫폼을 시험한 수업 설계자 여덟 명([[wei-perspicacious-instructional-design-2026|Wei 등, 2026]])은 난이도, 형식, 출처에 대한 통제를 원했고, SUS에서 78.8점을 주었으며, 도입의 조건으로 신뢰를 꼽았습니다.
 
 Zhang과 동료들의 종합에서 기술보다 설계가 효과를 더 크게 조절합니다. 같은 GenAI 역량이 학습자가 주도할 때 g = 0.92를, 그것이 자율적으로 작동할 때 g = 0.34를 냈습니다. 따라서 상호작용 방식은 도구의 속성이 아니라 설계 결정입니다([[zhang-genai-l2-learning-meta-analysis-2026|Zhang 등, 2026]]).
+
+**성찰 학습 설계-감사 순환.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]]은 SAREL을 제안합니다. 성찰할 역량과 AI가 아닌 비교 조건을 명세하고, 학습자의 통제와 동등한 접근 가능한 경로를 배정하고, 성찰과 검증을 요구하고, 형평성·작업량·자원 사용과 함께 학습을 평가하고, 그 증거를 재설계로 되돌리는 것입니다. 이는 AI 지원 성찰을 채택의 가정된 이득이 아니라 비교적 설계 문제로 유지하는 방법입니다. 다섯 단계는 검증되지 않은 저자 제안으로, 시험된 방법이 아니라 올바른 질문을 구성하기 위해 제시됩니다.
+
+**강좌 위와 아래의 수준을 위해 설계하십시오.** 강좌는 더 큰 시스템 속의 한 수준입니다. 그 안의 학습자들은 [[prior-knowledge|선행 지식]]과 교실 밖의 의무를 가지고 도착하고, 그것을 둘러싼 기관은 작업량·조달·평가 규칙을 정합니다. [[learning-environments-as-systems|학습 환경으로서의 시스템]]은 그 수준들을 상호작용하는 것으로 다루는 태도를 가리키므로, 강좌 수준에서 고른 도구는 마치 강좌가 닫혀 있는 것처럼 평가되지 않고 기관의 제약과 학습자의 실제 상황에 대고 점검됩니다.
 
 ## 흔한 오해
 

@@ -1,7 +1,7 @@
 ---
 title: 关于 AI 的误解
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## 引言
 
-关于 AI 的误解之所以重要，是因为它们是知识库在 [[cognitive-offloading|过度依赖]]与 [[academic-integrity]] 关切之下所记录的有害行为的认知前身。人们很少有意去 [[ai-misuse-learning-harm|滥用]] AI；他们这样做，是因为不准确的心智模型使他们错置信任、跳过验证，并把产出当作理解。在教育中，这些错误塑造着一切，从学生如何学习，到教师与机构如何设计课程、[[assessment]] 与政策。
+关于 AI 的误解之所以重要，是因为它们是知识库在 [[cognitive-offloading|过度依赖]]与 [[academic-integrity]] 关切之下所记录的有害行为的认知前身。人们很少有意去 [[ai-misuse-learning-harm|滥用]] AI；他们这样做，是因为不准确的心智模型使他们错置信任、跳过验证，并把产出当作理解。在教育中，这些错误塑造着一切，从学生如何学习，到教师与机构如何设计课程、[[assessment]] 与政策。另有一类研究质疑最初制造了这些误解的那种框定方式；见[[critiques-of-ai-in-education|对教育中 AI 的批判]]。
 
 ## AI 误解是什么
 

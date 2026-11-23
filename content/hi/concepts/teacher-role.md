@@ -1,7 +1,7 @@
 ---
 title: "शिक्षक भूमिका"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, learner-identity, business-education, educational-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, learning-design, intelligent-tutoring, llm, professional-training, distributed-cognition, situated-learning, critical-pedagogy, teacher-education, learning-sciences, academic-integrity, pedagogy, stakeholders, reflection]
 connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teachers-mathematics-classroom-2026, ai-integrated-teaching-identity-tensions, ai-supported-lecturer-decision-making-2026, ai-teaching-innovation-ai-tpack-2026, ai-use-teacher-performance-north-sumatra-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bozkurt-ghost-students-agentic-ai-2026, breideband-community-builder-cobi-2026, caeo-navigating-ai-educational-future-scenarios-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, cheeseman-human-in-the-loop-humanness-higher-ed-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, chen-future-faculty-development-ai-2027, chirikov-regulate-ai-syllabi-2026, dai-genai-frenemy-teaching-autonomy-2026, dyer-social-presence-literacy-ai-2026, edustories-classroom-case-studies-2026, etq-ai-conversational-teacher-training-2026, fagerlund-competency-agency-purposes-ai-education-2026, falhs-teacher-expertise-reflection-2025, farazouli-navigating-uncertainty-teachers-genai-2026, gnadlinger-educator-perspectives-its-design-2026, heutagogical-teaching-ai-enhanced-education-2026, instructional-governance-design-computing-education-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kibar-ilgaz-ai-instructional-design-review-2026, kuhail-great-debaters-ai-facilitators-2026, laidlaw-genai-identity-crisis-faculty-2026, li-instructor-designed-ai-rct-2026, li-language-educators-genai-review-2026, lim-llm-summaries-teachers-rct-2026, lodge-loble-cognitive-offloading-2026, lopez-pernas-llm-appropriate-student-support-2026, luo-dawson-value-judgments-grading-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mejia-domenzain-ml-findings-teachers-blended-2026, pang-epistemic-authority-ai-lesson-planning-2026, reding-discussion-boards-tam-ai-analytics-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, rodrigues-aied-unplugged-numeracy-2026, roy-chatgpt-lesson-preparation-nfer-2024, sessional-academics-contract-cheating-digital-misconduct-2026, socorro-philosophical-leadership-ai-2026, teacher-ai-teaming-five-levels, teacher-authored-prompts-student-ai-dialogue, teacher-intervention-k12-ai-based-instruction-2026, teacher-student-agency-orchestration, teachers-configure-educational-chatbots-2026, teachers-instrumental-orchestration-ai-math-2026, wang-teacher-ai-co-design-review-2026, where-ai-enters-teacher-work-2026, xai-teachers-trust-edtech-recommendations-2026, yalcin-genai-programming-education-systematic-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, farooq-standard-anchored-delegation-teachers-2026]
@@ -73,15 +77,19 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 
 - लैन और चेन (2026) शिक्षक-लेखकत्व को उद्गम के आधार पर आँकने का प्रस्ताव करते हैं: कोई एजेंट किसी शिक्षक का *जुड़वाँ* तभी गिना जाता है जब उसका प्राधिकार एक नामित शिक्षक से जुड़ा हो जो जिम्मेदारी बनाए रखे, निर्णय को एक निरीक्षण-योग्य विनिर्देश में अनूदित कर चुका हो, और लेखकत्व को स्थानांतरित किए बिना क्षमता बढ़ाए, जबकि प्लेटफ़ॉर्म डिफ़ॉल्ट एक प्रॉक्सी देते हैं, जुड़वाँ नहीं ([[lan-pedagogical-ai-agents-instructional-proxies-2026|लैन और चेन, 2026]])।
 
+**प्रतिनिधित्व मानक-आधारित होता है।** [[farooq-standard-anchored-delegation-teachers-2026|फ़ारूक़, खान और राज़ा (2026)]] ने पाकिस्तान पंजाब के 13 शिक्षकों का साक्षात्कार लिया और पाया कि वे किसी कार्य-घटक को जनरेटिव AI को तभी सौंपते थे जब कोई बाह्य मानक — पाठ्यपुस्तक, पाठ्यक्रम या रुब्रिक — एक सही आउटपुट को परिभाषित करता था जिसे वे परिणाम पर लागू कर सकते थे; उनमें से किसी ने AI-द्वारा तैयार किए गए अधिगम-उद्देश्यों को स्वीकार नहीं किया। मानक होना हमेशा पर्याप्त नहीं था: अनेक सरकारी विद्यालयों के शिक्षक उत्तर-कुंजी मौजूद होने पर भी AI अंकन से मना कर देते थे।
+
 ### संचालन रूपक
 
 साहित्य में प्रभुत्वित रूपक *संचालन* है: शिक्षक मानव शिक्षार्थियों, [[intelligent-tutoring|AI ट्यूटरों]] और पाठ्यक्रम संसाधनों का समन्वय करते हैं। यह प्रतिस्थापन कथाओं से अलग है — AI मानव शिक्षण को बढ़ाता है न कि उसका प्रतिस्थापन करता है। अनुभवजन्य साक्ष्य इस मुद्रा का समर्थन करता है: 42 अध्यायनों (2023–2025) का एक PRISMA-निर्देशित [[meta-analysis-systematic-review|व्यवस्थित समीक्षा]] पाता है कि LLMs छोटे, अच्छी तरह संरचित कार्यों पर मानव रेटरों से मेल खाते हैं लेकिन प्रदर्शन लंबे, बहुभाषी और बारीक काम पर गिरता है — निष्कर्ष निकालते हुए कि LLMs शिक्षकों का पूरी तरह प्रतिस्थापन नहीं कर सकते और संकर, मानव-लूप-में मूल्यांकन प्रणालियाँ सबसे उच्च ग्रेडिंग प्रभावशीलता प्राप्त करती हैं ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]])। संचालन लेंस निर्देशक के मूल कौशल को *निर्णय* के रूप में पुनःफ्रेम करता है: निर्णय लेना कि कब एक मानव, एक AI, या एक डिज़ाइन की गई सीखने की गतिविधि किसी दिए गए शिक्षार्थी और पल के लिए सही उपकरण है। [[teacher-intervention-k12-ai-based-instruction-2026]] के 29 अध्यायनों का एक 2026 PRISMA समीक्षा रूपक को एक चार-चरण चक्र में नुकीले करती है — निगरानी, निर्णय, हस्तक्षेप, संचालन — और दिखाती है कि कोई भी चरण क्यों नहीं माना जा सकता। शिक्षकों ने साझा नियंत्रण पसंद किया, AI सुझावों को स्वीकार, संशोधित, अस्वीकार या झुकाते हुए; कुछ ने हस्तक्षेप को जानबूझकर स्थगित किया ताकि छात्र पहले उत्पादक रूप से संघर्ष कर सकें; और डैशबोर्ड जिन्होंने जागरूकता का विस्तार किया वे ध्यान को अभिभूत भी कर सकते थे या एक शिक्षक द्वारा भौतिक रूप से कार्य करने योग्य से आगे जा सकते थे। इसकी तीन रणनीतियाँ — AI आउटपुट का शिक्षाशास्त्रीय अनुवाद, सीखने के समर्थन का डिज़ाइन, और बातचीत संरचनाओं का पुनर्निर्माण — काम को पुनर्संदर्भीकरण के रूप में वर्णित करती हैं न कि अनुमोदन के रूप में, जो शिक्षक को मानव-लूप-में समीक्षक भूमिका से मध्यस्थ के करीब रखती है। कक्षा प्रेक्षण वही व्यवहार प्रकारों के रूप में नामित करता है। एक अनुभवी शिक्षक के साथ छह पाठों ने ड्रिज़वर्स के चार में तीन संचालन प्रकार जोड़े — डैशबोर्ड-निगरानी, AI-सुधार और AI-मध्यस्थता — जिसमें शिक्षक की सामग्री और नैतिक भूमिकाएँ सबसे दृश्यमान थीं जब वह AI-निर्मित प्रतिक्रिया को सुधार रहा था ([[teachers-instrumental-orchestration-ai-math-2026|नोह और किम, 2026]])।
 
-संचालक एकल वादक से अधिक सटीक रूप है। [[chen-future-faculty-development-ai-2027|चेन सहित (2026)]] उस शिक्षक का वर्णन करते हैं जो सारी विशेषज्ञता आपूर्ति करने के बजाय उसका समन्वय करता है, क्योंकि बड़े बहु-अनुभागीय पाठ्यक्रम में एक-दो सहयोगी कार्य और रूब्रिक पुनर्डिज़ाइन कर सकते हैं जबकि अन्य सीखने की वास्तुकला, उपकरण मूल्यांकन या साक्ष्य-संग्रह लेते हैं। उनके वितरण के साथ एक न्यूनतम सीमा है: टीम का हर सदस्य बुनियादी तकनीकी और नैतिक क्षमता बनाए रखता है, इसलिए भूमिका का *संचालन* होता है, बाह्यीकरण नहीं।
+संचालक एकल वादक से अधिक सटीक रूप है। [[chen-future-faculty-development-ai-2027|चेन सहित (2026)]] उस शिक्षक का वर्णन करते हैं जो सारी विशेषज्ञता आपूर्ति करने के बजाय उसका समन्वय करता है, क्योंकि बड़े बहु-अनुभागीय पाठ्यक्रम में एक-दो सहयोगी कार्य और [[rubrics|रूब्रिक]] पुनर्डिज़ाइन कर सकते हैं जबकि अन्य सीखने की वास्तुकला, उपकरण मूल्यांकन या साक्ष्य-संग्रह लेते हैं। उनके वितरण के साथ एक न्यूनतम सीमा है: टीम का हर सदस्य बुनियादी तकनीकी और नैतिक क्षमता बनाए रखता है, इसलिए भूमिका का *संचालन* होता है, बाह्यीकरण नहीं।
 
 ### विकसित और महत्वपूर्ण शिक्षक भूमिकाएँ
 
 हालिया कार्य संचालन रूपक को समृद्ध भूमिका संकल्पनाओं में विस्तारित करता है:
+
+- **शिक्षक AI-जनित योजनाओं के निरीक्षक के रूप में।** ग्यारह विज्ञान-शिक्षा विशेषज्ञों ने दो AI-उत्पादित छठी कक्षा की पाठ-योजनाओं पर निर्णय दिया और पाया कि दोनों ने विषय-सामग्री को अच्छी तरह संभाला परंतु पुनरावर्ती अभियांत्रिकी चरणों पर सबसे कम अंक प्राप्त किए, इसलिए उपकरणों की योजनाएँ वे मसौदे हैं जिन्हें शिक्षक को अनुकूलित करना चाहिए, तैयार शिक्षण नहीं ([[karaismailoglu-ai-lesson-plans-science-experts-2026|काराइस्माईलोग्लु सहित, 2026]])।
 
 - **गतिविधि संक्रमणों में सह-संचालक।** [[teacher-student-agency-orchestration|यांग सहित (2026)]] 17 शिक्षकों और 13 छात्रों के साथ सहभागी गति-डेटिंग का उपयोग करते हैं यह मैप करने के लिए कि नियंत्रण को कक्षा गतिविधि के चरणों में कैसे वितरित किया जाना चाहिए — व्यक्तिगत और सहयोगात्मक काम के बीच पहले, दौरान और बाद के संक्रमण — एक सह-संचालन उपकरण में जो वास्तविक समय गतिशील युग्मन का समर्थन करता है। उभरने वाला डिज़ाइन सिद्धांत यह है कि नियंत्रण *नहीं* एक निश्चित बिंदु है: शिक्षक और छात्र हर चरण में अलग-अलग मात्रा में एजेंसी चाहते हैं, और उपकरण को शिक्षक को समूहन, गतिविधि संक्रमण और हस्तक्षेप समय को वास्तविक समय में समायोजित करने देना चाहिए जबकि एक शिक्षक ओवरराइड बरकरार रखना चाहिए। यह शिक्षक को **पूरे लाइव सीखने के वातावरण के सह-संचालक** के रूप में रखता है — एक भूमिका जो सामान्य संचालन रूपक से अधिक विशिष्ट है, यह निर्धारित करने वाले कणिक, पल-दर-पल निर्णयों पर केंद्रित है कि कौन किसके साथ काम करता है, कब, और किस सहायता के साथ — और यह व्यक्तिगत-ट्यूटरिंग शोध को कक्षा-स्तर डिज़ाइन से जोड़ता है।
 
@@ -127,6 +135,8 @@ connected_articles: [ai-changing-teaching-workflows, ai-emotional-alerts-teacher
 **वितरण माध्यम के लिए योजना बनाएँ।** अनुकूलन माध्यम-तटस्थ नहीं है: [[online-teaching-and-learning|ऑनलाइन शिक्षण]] AI के साथ अवसरों (स्केलेबल [[personalized-learning|व्यक्तिगतकरण]], सदैव-चालू सहायता) और जोखिमों (ईमानदारी, ऑफलोडिंग) दोनों को गुणा करती है। AI रैपर को सामना-के-सामना संदर्भों में जितनी जानबूझकर डिज़ाइन करें जितनी ऑनलाइन में।([[lopez-pernas-llm-appropriate-student-support-2026]])
 
 **हर पोस्ट का नहीं, धागे का उत्तर दें।** 26 STEM स्नातक छात्रों के चार फोकस समूहों में दृश्य उपस्थिति वह बाह्य कारक थी जिसे छात्रों ने सबसे अधिक श्रेय दिया, और उन्होंने जो पैटर्न वर्णित किया वह ऐसा निर्देशक था जो चर्चा को आगे बढ़ाता है, छात्रों से एक-दूसरे को उत्तर देने को कहता है, और फिर सप्ताह में बाद में उत्तर देता है ([[reding-discussion-boards-tam-ai-analytics-2026|रेडिंग, गार्टनर और नुजेंट, 2026]])। धागे के स्तर पर सीमित उपस्थिति पर्याप्त थी; हर पोस्ट का उत्तर देना वह नहीं था जिसने श्रेय कमाया।
+
+**निर्धारित करें कि क्या स्वचालित करना है और क्या मानवीय रखना है।** AI-माध्यमित ऑनलाइन शिक्षण के लिए एक ढाँचा सामाजिक उपस्थिति को परिणाम के बजाय डिज़ाइन मानदंड मानता है: तीन जोखिम — कार्य स्वचालन के कारण जुड़ाव का स्थानांतरित होना, सहानुभूति में कमी, और दक्षता-चालित निर्णयों की ओर खिसकना — एक-दूसरे को मज़बूत करते हैं, और एक पाँच-चरणीय मूल्यांकन–पहचान–समायोजन–परीक्षण–परिष्करण लूप उसे एक दिनचर्या में बदल देता है। निर्देशक की अतिरिक्त ज़िम्मेदारी यह निर्णय लेना है कि कौन-सा संबंध-आधारित काम कोई उपकरण संभाल सकता है और किसके लिए मानव चाहिए ([[dyer-social-presence-literacy-ai-2026|डायर सहित, 2026]])।
 
 ## शिक्षण में AI साक्षरता को शामिल करना
 

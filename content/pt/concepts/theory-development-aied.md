@@ -1,7 +1,7 @@
 ---
 title: Desenvolvimento de Teoria na IA na Educação
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -98,7 +102,7 @@ O teorizar do campo é desigual. As [[limitations-in-aied-research|Limitações 
 ## Relação com a filosofia da IA na educação
 
 O desenvolvimento de teoria e a [[philosophy-of-ai-in-education|filosofia da IA na educação]] são vertentes complementares, mas distintas, do trabalho fundacional da base de conhecimento. O **desenvolvimento de teoria** produz e testa empiricamente os *mecanismos* da aprendizagem-com-IA — teorias e frameworks nomeados, como o generativismo, a coagência epistêmica e a linha de base cognitiva ausente, que explicam e predizem como aprendizes e IA interagem. A **filosofia** interroga as *pressuposições* sobre as quais esses mecanismos repousam: o que conta como conhecimento, quem conta como conhecedor e o que o aprendiz fundamentalmente é. Uma teoria como a [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|coagência epistêmica]] propõe um mecanismo ao mesmo tempo que adota implicitamente compromissos filosóficos sobre cognição distribuída e [[agency|agência]]; a filosofia torna esses compromissos explícitos e contestáveis. Onde o desenvolvimento de teoria pergunta se um framework explica bem a aprendizagem, a filosofia pergunta se ele captura o que a aprendizagem e a mente realmente são — as duas vertentes se encontram nos artigos mais fundacionais do campo, que frequentemente fazem as duas coisas ao mesmo tempo.
-
+ O que os críticos do campo dizem sobre as direções que essas teorias abrem ou fecham é uma questão separada, reunida em [[critiques-of-ai-in-education|Críticas à IA na Educação]].
 ## Implicações para a prática
 
 **Para instrutores e designers instrucionais**

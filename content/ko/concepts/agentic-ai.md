@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: 에이전틱 AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -74,7 +78,7 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 - **보고와 거버넌스를 위한 척도: 자율성–감독–증거(AOE) 프레임워크.** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]]는 *agentic AI*라는 용어가 너무 일관성 없이 쓰여 연구 간에 증거와 감독을 비교할 수 없다고 논합니다. 계획하고, 기억하고, 도구를 쓰거나, 여러 에이전트를 조율하는 시스템들이 정적인 GenAI 인터페이스와 전통적인 [[pedagogical-agent|pedagogical agents]]와 한데 묶입니다. 동료 심사를 거친 고찰 15편에 대한 그의 비판적 통합적 고찰은 증거가 산출물 수준의 결과(피드백 정확도, [[hallucination-risk|환각]] 감소)에서 가장 강하고 지속적인 학습, 형평성, 업무량, 또는 제도적 결과에서 가장 약함을 발견하며, 실제 배치는 대개 짧고, 단일 기관이며, 감독과 느슨하게 연결되어 있습니다. 해법은 구체적인 보고 삼중항입니다 — **자율성 수준 A0–A4**(반응형 생성 → 제한된 오케스트레이션 → 위임된 과제 자율성 → 워크플로 자율성 → 채점/입학/진급에 대한 *결과적 자율성*), **감독 수준 O0–O4**(명시되지 않음 → 사후 감사 → 사용 전 승인 → 점검 지점 통제 → *지속적인 제한된 감독*), 그리고 **증거 성숙 단계 M0–M5**(개념 → 프로토타입/벤치마크 → 참가자 평가 → 실제 배치 → 확장/다기관 → *반복/제도 규모*) — 여기에 **비례 원칙**을 더합니다. 허용되는 자율성은 증거 성숙도나 감독 강도를 넘어서는 일이 없어야 합니다(예컨대 A4 결과적 시스템은 M4–M5 증거, 법적 검증, 그리고 인간의 최종 권한을 지닌 O4를 요구합니다). *A2–O3–M3*를 보고하는 것은 모호한 "에이전틱 배치" 주장을 비교 가능하고 시험 가능한 명세로 전환하며, 제도에 단계적 도입, 기록, 그리고 롤백의 문법을 제공합니다 — 위의 [[baradziej-agentic-ai-higher-education-2026|Copilot-to-Autopilot]] 스펙트럼에 대한 증거적 보완재입니다.
 - **적대적 강건성 검사:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]]는 Interrogator, Target, Judge 에이전트를 조율하여 단일 전략 검사에는 보이지 않는 실패 양상을 드러내며, 강건성 점수를 0.17–0.20포인트 낮춥니다 — 인격 일관성과 학습자와의 [[pedagogical-safety|safe deployment]]에 결정적입니다.
 - **영역 적용:** 에이전틱 시스템은 [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], 그리고 [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]] 등 여러 영역에 나타납니다.
-- **에이전틱 채점은 업무량의 문제이기 전에 신뢰도의 문제입니다.** 에이전틱 Claude Code 배치에 루브릭 파일 세 개와 컴퓨터 그래픽스 강좌의 스캔한 손글씨 중간고사 60장이 주어졌습니다. 그 채점은 강사와 r = 0.97로 일치했고, 20점 만점 답안에서 평균 절대 오차 0.85점, 평균 AI 긍정 편향 0.68, 일주일 간격 두 세션에 걸친 재검사 ICC = 0.96이었습니다. 집계는 실패하는 지점을 감춥니다. 가중 카파는 객관식의 0.98에서 평가 문항의 0.65까지 내려갔고, 손으로 그린 도형이 가장 약한 사례였습니다([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). 한 강좌, 한 강사, 한 루브릭 세트가 분산의 위치를 알려줄 뿐, 에이전틱 채점이 일반화된다는 것을 입증하지는 않습니다.
+- **에이전틱 채점은 업무량의 문제이기 전에 신뢰도의 문제입니다.** 에이전틱 Claude Code 배치에 [[rubrics|루브릭]] 파일 세 개와 컴퓨터 그래픽스 강좌의 스캔한 손글씨 중간고사 60장이 주어졌습니다. 그 채점은 강사와 r = 0.97로 일치했고, 20점 만점 답안에서 평균 절대 오차 0.85점, 평균 AI 긍정 편향 0.68, 일주일 간격 두 세션에 걸친 재검사 ICC = 0.96이었습니다. 집계는 실패하는 지점을 감춥니다. 가중 카파는 객관식의 0.98에서 평가 문항의 0.65까지 내려갔고, 손으로 그린 도형이 가장 약한 사례였습니다([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). 한 강좌, 한 강사, 한 루브릭 세트가 분산의 위치를 알려줄 뿐, 에이전틱 채점이 일반화된다는 것을 입증하지는 않습니다.
 
 에이전틱 구조는 정밀도의 측정 가능한 대가를 치르고 포괄성을 삽니다. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah 등(2026)]]의 채용 공고 표본 926건과 금본위 기술 1,696건 벤치마크에서, ESCO 조회 도구를 갖춘 ReAct 에이전트가 향상된 재현율 89.7%로 선두였으며, 최선의 생성 구성은 83.7%, 최선의 임베딩 모형은 49.1%였습니다. 정밀도는 22.7%로 F1은 36.3%에 그쳐 도구에 접지된 Gemini 2.5 Flash의 51.6%보다 낮았고, 표본당 약 16초가 걸렸습니다. 인간 조언자가 목록을 정리하는 상황에서는 재현율이 옳은 지표이고, 중재 없는 산출물에는 접지된 대안이 필요합니다.
 
@@ -142,6 +146,8 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 
 이것은 에이전틱 AI 논의를 이 지식베이스의 [[academic-integrity|학문적 진실성]] 논의와 연결합니다. 거기서 대응은 탐지만이 아니라 평가 재설계와 [[ai-literacy|AI 리터러시]]로 틀 지어집니다.
 
+- **통제 산출물 자체도 에이전트가 쓸 수 있습니다.** [[pinto-student-ownership-ai-agents-code-2026|Pinto et al. (2026)]]는 학생 18쌍이 명세 주도 개발(spec-driven development) 아래 시스템을 구축하도록 하고, 에이전트가 학생의 통제를 유지하기 위한 명세의 69%를 작성했음을 발견했습니다. 때로는 몇 마디 프롬프트만으로도 그러했으므로, 학습자를 보증해야 할 명세 자체가 에이전트가 저술한 것이 되었습니다.
+
 ## 생산적 마찰과 사회적 상호작용
 
 모든 에이전틱 행동이 매끄러운 조력일 필요는 없습니다. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]]는 **건설적 갈등**을 실천하는 에이전트가 초보 상호작용 설계자들(N=48) 사이에서 유의미하게 더 많은 설계 반복, 대안들의 더 넓은 탐색, 그리고 더 높이 평가된 최종 설계를 촉구했음을 보이며, 이것은 *생산적 마찰* 역학으로, 갈등 에이전트는 좌절스러웠으나 궁극에는 도움이 되었습니다. 이것은 [[socratic-method|Socratic questioning]]과 [[design-thinking|디자인 사고]]과 연결되며, 에이전틱 AI가 수동적 수용보다 깊은 재고를 어떻게 떠받칠 수 있는지를 보여줍니다.
@@ -160,6 +166,8 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 - **교수자의 [[ai-literacy|AI 리터러시]]를 쌓으십시오.** 교사와 설계자들은 이러한 시스템을 구성하고, 모니터링하고, 비판하기 위해 에이전틱 AI에 대한 정확한 정신 모델이 필요합니다 — 그리고 학습자에게 책임 있는 사용을 모범으로 보이기 위해 필요합니다. 이것은 [[teacher-ai-competency|교사의 AI 역량]]와 [[educational-development|faculty development]]와 연결됩니다.
 - **형평성을 살피십시오.** 접근이 불평등하거나 자동화가 가장 필요로 하는 학습자들에 대한 지원을 침식한다면, 에이전틱 도구는 격차를 넓힐 위험이 있습니다. [[equity-in-ai-education|형평성]]를 염두에 두고 설계하십시오.
 - **규모를 키우기 전에 제도적 조력 체계를 세우십시오.** 배치 질문은 설계 수준만이 아니라 제도 수준의 것입니다. [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] 종합은 거버넌스 증거를 세 기둥으로 압축합니다. 학생 *그리고* 교직원 사이에 [[ai-literacy|AI 리터러시]]를 기르는 것; 대규모 배치 *이전에* [[ethics|ethical]] 인프라(데이터 보호 정책, 알고리즘 책임과 학술 무결성 프레임워크)를 구축하는 것; 그리고 도구 익숙함을 넘어 인간 주도성을 보존하는 교수법 프레임워크에 이르는 역량 기반 [[educational-development|educator training]]을 제공하는 것입니다. 일부 국가적 맥락에서 교수진의 약 6.5%만이 직접적인 AI 사용을 보고한다는 점을 고려하면, 훈련 격차는 책임 있는 도입에 대한 구속적 제약입니다.
+
+- **사람들이 위임의 경계를 어디에 긋는지 측정하십시오.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang & Nedungadi (2026)]]는 대학 교수자 290명을 대상으로 무작위 행동 선택 실험을 수행했습니다. 92%가 질문 작성을 위임했지만, 20%만이 퀴즈를 플랫폼에 감독 없이 풀어 놓았고, 자동 게시를 선택한 것은 5%에 불과했습니다. 초안만, 혹은 승인이 필요한 구성이 선호되었으므로, 경계는 내용 생성이 아니라 돌이킬 수 없는 플랫폼 행동에 놓입니다.
 
 ### 에이전틱 AI로 학술 무결성을 보장하는 기법
 

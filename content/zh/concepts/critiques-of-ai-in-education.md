@@ -1,7 +1,7 @@
 ---
 title: 对教育中 AI 的批判
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,13 +13,17 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-22"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [philosophy-of-ai-in-education, critical-pedagogy, limitations-in-aied-research, theory-development-aied, misconceptions, ai-literacy, agency, cognitive-offloading, equity-in-ai-education, digital-divide, institutional-ai-infrastructure, educational-policy-ai, governance, sustainability, teacher-role, educational-development, higher-ed, trust, automation-bias, critical-thinking]
 connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026, komodromos-generative-ai-pedagogical-sustainability-2026, videla-why-education-cannot-be-automated-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, tlili-double-edged-sword-oer-generative-ai-2026, fajardo-ramos-teacher-education-ai-agenda-2026, li-mroziak-reorienting-critical-ai-literacy, ai-literacy-power-knowledge, caeai-ai-companions-learning-over-performance-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, beyond-agent-label-agentic-ai-governance-2026]
@@ -56,7 +60,7 @@ connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026,
 
 ## 基础设施、转导与误认
 
-第三组批判把注意力从工具转向围绕它的基础设施。Watson、Morgner 与 Brezovec 把生成式 AI 视为一种中介意义的基础设施，并把它的机制命名为*语义转导*：把一项教育需求——提示、简报、量规、试题、体裁或政策——重新格式化为一种在交际上可信的形式（[[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson、Morgner 与 Brezovec（2026）]]）。由于转导是选择性的，它既可以纳入也可以排除。有三个场域反复出现：接入与能力的鸿沟；通过“好答案”或“好学生”应当像什么的模板而产生的误认；以及关于教学法被当作什么意思的规范性漂移。这种排除往往不是禁令，而是一次两面夹击——各类机构提高对速度、打磨与地道流畅度的期待，同时又收紧真实性规制。
+第三组批判把注意力从工具转向围绕它的基础设施。Watson、Morgner 与 Brezovec 把生成式 AI 视为一种中介意义的基础设施，并把它的机制命名为*语义转导*：把一项教育需求——提示、简报、[[rubrics|量规]]、试题、体裁或政策——重新格式化为一种在交际上可信的形式（[[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson、Morgner 与 Brezovec（2026）]]）。由于转导是选择性的，它既可以纳入也可以排除。有三个场域反复出现：接入与能力的鸿沟；通过“好答案”或“好学生”应当像什么的模板而产生的误认；以及关于教学法被当作什么意思的规范性漂移。这种排除往往不是禁令，而是一次两面夹击——各类机构提高对速度、打磨与地道流畅度的期待，同时又收紧真实性规制。
 
 ## 议程设定、模拟式创新与实验性未来构建
 

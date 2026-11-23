@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -85,7 +89,7 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif
 
 **उत्पादन को पाठ्यक्रम में रखें।** मीडिया बनाना वह शिक्षाशास्त्र था जिसने आलोचना को ठोस बनाया; AI के साथ उत्पन्न करना उसका समर्थन तभी कर सकता है जब छात्र उन चुनावों की जाँच करें जो उपकरण ने उनके लिए किए।
 
-निर्माण को दृष्टिकोण के बजाय प्रदर्शन के रूप में आँकना कमज़ोर बिंदु को दृश्य में लाता है। 28 थाई स्नातक छात्रों के साथ आठ-सप्ताह के Code Craft परीक्षण में, तीन-बिंदु रूब्रिक पर डिजिटल साक्षरता 1.51 से 2.82 तक बढ़ी, पर सूचना-प्रबंधन का औसत 1.92 और सूचना-निर्माण का 2.05 रहा, बनाम संवाद और दूसरों के साथ काम करने के 2.36 ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]])। सबसे कम स्कोर निर्माण के उत्पादन-पक्ष पर बैठे थे, जहाँ खोज और मूल्यांकन पर रुक जाने वाला पाठ्यक्रम कभी नहीं पहुँचता।
+निर्माण को दृष्टिकोण के बजाय प्रदर्शन के रूप में आँकना कमज़ोर बिंदु को दृश्य में लाता है। 28 थाई स्नातक छात्रों के साथ आठ-सप्ताह के Code Craft परीक्षण में, तीन-बिंदु [[rubrics|रूब्रिक]] पर डिजिटल साक्षरता 1.51 से 2.82 तक बढ़ी, पर सूचना-प्रबंधन का औसत 1.92 और सूचना-निर्माण का 2.05 रहा, बनाम संवाद और दूसरों के साथ काम करने के 2.36 ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]])। सबसे कम स्कोर निर्माण के उत्पादन-पक्ष पर बैठे थे, जहाँ खोज और मूल्यांकन पर रुक जाने वाला पाठ्यक्रम कभी नहीं पहुँचता।
 
 **कार्यप्रवाह के भीतर पुस्तकालयाध्यक्ष या मीडिया विशेषज्ञ रखें।** इस साहित्य का सबसे मजबूत निर्देशात्मक परिणाम ऐसे डिज़ाइन से आता है जिसमें मानव परामर्श भीतर बनाया गया था, बाद में प्रस्तावित नहीं।
 

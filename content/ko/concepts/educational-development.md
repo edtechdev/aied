@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: 교육 개발
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-18T05:55:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
 connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
@@ -110,7 +114,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-techn
 
 개발의 단위는 학과보다 작고 개인보다 클 수 있습니다. [[chen-future-faculty-development-ai-2027|Chen 등(2026)]]은 일곱 가지 교사 역할을 제시하지만 그것이 한 학술인 안에 있을 필요는 없다고 주장합니다. 인간 중심 교육자와 학문 전문가는 보편적 기초이고, 학습 아키텍처, 평가 재설계, 기술 역량, 윤리적 수탁, 규율 있는 실험은 교수팀에 분배될 수 있습니다. 그들의 조건은 모두가 기본적인 기술적·윤리적 역량을 유지하는 것이며, 그래서 공유된 전문성이 공유된 무지가 되지 않습니다.
 
-**외부의 모범 사례가 아니라 그 방의 데이터로 시리즈를 운영합니다.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum과 Finkelstein (2026)]]은 규모가 큰 공립 R1 물리학과의 실행 모형을 기록합니다. 60~75분의 격주 세션 여섯 번에 시리즈 전체로 교수진 19명이, 각 모임에는 약 10명이 참여했으며, 모든 세션이 지역 데이터나 학과에서 가져온 자료로 열리고 실제 익명화된 학생 과제에 대한 AI의 소집단 테스트로 옮겨가고, 집단적 토론으로 마무리되었습니다. 교수진이 테스트를 통해 발견한 것은 진행자가 가져올 수 있었던 어떤 패키지보다 유용했습니다. AI는 그들이 시도한 모든 문제를 풀었지만, 실제 학생 과제에 대한 피드백은 명확한 목표와 루브릭이 주어지지 않으면 고르지 못하고 프롬프트에 의존적이며 피상적이었고, 학생들은 생산적 사용이 시연되지 않으면 피상적으로 프롬프트를 주고 산출물을 겉으로만 고쳤습니다. 최초의 구체적 산출물은 다섯 항목으로 된 살아 있는 저장소였습니다. 강의계획서 정책 문장, 교실 토론 자료, 학생 설문, AI가 통합된 과제, 평가 구조가 그것이며, 저자들이 세션 구조 자체를 이 논쟁으로 다루는 까닭입니다.
+**외부의 모범 사례가 아니라 그 방의 데이터로 시리즈를 운영합니다.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum과 Finkelstein (2026)]]은 규모가 큰 공립 R1 물리학과의 실행 모형을 기록합니다. 60~75분의 격주 세션 여섯 번에 시리즈 전체로 교수진 19명이, 각 모임에는 약 10명이 참여했으며, 모든 세션이 지역 데이터나 학과에서 가져온 자료로 열리고 실제 익명화된 학생 과제에 대한 AI의 소집단 테스트로 옮겨가고, 집단적 토론으로 마무리되었습니다. 교수진이 테스트를 통해 발견한 것은 진행자가 가져올 수 있었던 어떤 패키지보다 유용했습니다. AI는 그들이 시도한 모든 문제를 풀었지만, 실제 학생 과제에 대한 피드백은 명확한 목표와 [[rubrics|루브릭]]이 주어지지 않으면 고르지 못하고 프롬프트에 의존적이며 피상적이었고, 학생들은 생산적 사용이 시연되지 않으면 피상적으로 프롬프트를 주고 산출물을 겉으로만 고쳤습니다. 최초의 구체적 산출물은 다섯 항목으로 된 살아 있는 저장소였습니다. 강의계획서 정책 문장, 교실 토론 자료, 학생 설문, AI가 통합된 과제, 평가 구조가 그것이며, 저자들이 세션 구조 자체를 이 논쟁으로 다루는 까닭입니다.
 
 **역량 프레임워크에 닻을 댑니다.** 개발은 **교수법적 [[prompt-engineering|프롬프트 리터러시]]**, 즉 교수법적 의도를 프롬프트에 부호화하는 역량도 함께 쌓아야 합니다. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]]은 교수자의 AI 지원 설계 작업의 품질을 결정하는 것이 AI 활용 능력이 아니라 교수법적 전문성임을 발견하기 때문입니다.([[crewscaler-ai-upskilling-framework|AI 역량 강화 프레임워크]])([[ai-tpack-preservice-math-teachers|TPACK 기반 예비 교사 교육]])([[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]])
 

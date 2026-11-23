@@ -1,7 +1,7 @@
 ---
 title: "AI के बारे में गलतफहमियाँ"
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-20T17:32:04-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-18T16:55:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## परिचय
 
-AI के बारे में गलतफहमियाँ मायने रखती हैं क्योंकि ये उन हानिकारक व्यवहारों का संज्ञानात्मक पूर्ववर्ती हैं जिन्हें ज्ञान आधार [[cognitive-offloading|अति-निरभरता]] और [[academic-integrity]] चिंताओं के अंतर्गत दर्ज करता है। लोग शायद ही कभी AI का [[ai-misuse-learning-harm|दुरुपयोग]] करने का इरादा रखते हैं; वे ऐसा इसलिए करते हैं क्योंकि गलत मानसिक मॉडल उन्हें भरोसा गलत जगह रखने, सत्यापन छोड़ने और आउटपुट को समझ के रूप में मानने के लिए प्रेरित करते हैं। शिक्षा में ये त्रुटियाँ छात्रों के पढ़ने के तरीके से लेकर शिक्षकों और संस्थाओं द्वारा पाठ्यक्रम, [[assessment]] और नीति के डिज़ाइन तक सब कुछ आकार देती हैं।
+AI के बारे में गलतफहमियाँ मायने रखती हैं क्योंकि ये उन हानिकारक व्यवहारों का संज्ञानात्मक पूर्ववर्ती हैं जिन्हें ज्ञान आधार [[cognitive-offloading|अति-निरभरता]] और [[academic-integrity]] चिंताओं के अंतर्गत दर्ज करता है। लोग शायद ही कभी AI का [[ai-misuse-learning-harm|दुरुपयोग]] करने का इरादा रखते हैं; वे ऐसा इसलिए करते हैं क्योंकि गलत मानसिक मॉडल उन्हें भरोसा गलत जगह रखने, सत्यापन छोड़ने और आउटपुट को समझ के रूप में मानने के लिए प्रेरित करते हैं। शिक्षा में ये त्रुटियाँ छात्रों के पढ़ने के तरीके से लेकर शिक्षकों और संस्थाओं द्वारा पाठ्यक्रम, [[assessment]] और नीति के डिज़ाइन तक सब कुछ आकार देती हैं। वह ढाँचा जो मूलतः उन गलतफहमियों को उत्पन्न करता है, उस पर सवाल उठाने वाला अलग कार्य-संग्रह देखें: [[critiques-of-ai-in-education|शिक्षा में AI की आलोचना]]।
 
 ## AI गलतफहमियाँ क्या हैं
 

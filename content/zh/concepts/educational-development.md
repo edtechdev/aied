@@ -1,7 +1,7 @@
 ---
 title: 教育发展
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [teacher-ai-competency, teacher-role, ai-literacy, metaphors-and-analogies, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design, professional-training, teacher-education, learning-sciences, educational-technology-developers, stakeholders]
 connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-technology-integration-standards-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, nicola-richmond-programwide-assessment-genai-2025, engineering-faculty-metaphors-ai-understanding-2026, fear-awe-genai-metaphor-workshops-2025, roe-perkins-furze-metaphors-critical-ai-literacy-2025, governing-unseen-ai-literacy-language-teachers-2026, sangwa-epiq-ai-faculty-readiness-2026, teacher-ai-adoption-confidence, institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-tpack-preservice-math-teachers, crewscaler-ai-upskilling-framework, ai-assessment-scale-reform, pchl-he-framework-genai-content-creation-2026, genai-pd-ai-pck-learning-gain-2026, genai-higher-education-systematic-review-2026, laidlaw-genai-identity-crisis-faculty-2026, zuo-instructor-power-genai-writing-2026, reflective-triangle-model-teacher-ai-2026, sutedjo-faculty-genai-tpack-21-2026, intelligent-tpack-pd-intervention-hongkong-2025, instructional-design-proficiency-masters-math-2026, talebzadeh-ai-group-activity-roles-2026, farazouli-navigating-uncertainty-teachers-genai-2026, chick-faculty-development-ethical-ai-2026, vassallo-ai-guilt-complex-faculty-2026, watson-rainie-ai-challenge-faculty-survey-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, physics-faculty-learning-community-ai-2026, faculty-ai-well-being-social-supports-2026, ai-competence-framework-landscape-2026, fajardo-ramos-teacher-education-ai-agenda-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, ma-ai-corpus-language-teaching-coi-2026, white-scandinavian-teachers-genai-attitudes-2026, yuan-teacher-need-satisfaction-genai-2026, bodek-prompted-to-explore-microlearning-2026, bursic-ai-residency-education-curriculum-2026, early-childhood-ai-holistic-competencies-review-2026, dangol-relief-or-displacement-teachers-generative-ai-2026, robert-educause-impact-ai-work-higher-education-2026, rameskumar-shadow-ai-legitimized-higher-education-2027, wang-legacy-curriculum-ai-cte-renewal-2026, aalhe-capacity-disposition-genai-assessment-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, jiang-faculty-development-japan-2027, tian-transnational-faculty-development-governance-2027, ho-invariant-core-faculty-development-2027, sheridan-teaching-academics-genai-plans-2026]
@@ -52,6 +56,8 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-techn
 - **课程整合：**[[institutional-change-framework-ai|机构变革框架]]与[[ai-assessment-scale-reform|评估改革]]要求教师重构课程，而不只是添加人工智能工具。
 - **培训项目：**[[crewscaler-ai-upskilling-framework|人工智能技能提升框架]]与[[ai-tpack-preservice-math-teachers|基于 TPACK 的职前培训]]为结构化的教师[[ai-education|人工智能教育]]提供了模型。
 - **需求不等于需求评估。** 345 名魁北克 CEGEP 教师的技术理解得分最低（5 分制的 2.706），却要求学科专属的实际应用，称此前的培训过于笼统（[[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini 等人（2026）]]）。
+
+- **学者主动提出自动化，却只有在被问及工具能做什么时才揭示教学法。** 在 20 个学科与 24 个国家中，五个开放问题收到 737 条关于效率与自动化的评论，而关于机构政策的为 305 条；定制化出现在 74 份关于能力的回答中，而在每一个障碍性问题中各出现 3 次（[[sheridan-teaching-academics-genai-plans-2026|Sheridan 等，2026]]）。他们点名的约束是时间、连贯的政策与有经费的支持，其中专业发展与差旅预算被描述为最先被削减的；少数人透过劳动关系来解读这一变化，预期机构会用它来削减学术人员。
 
 - **人工智能中介的专业反思。**反思三角模型把人工智能定位为贯穿[[reflection|自我反思]]、协作反思与专业学习社区中共同体反思的认知中介，并在一项有六位教师的四周可行性案例中做了检验；它所划出的边界是：个人的洞见不会自动变成共享的专业知识（[[reflective-triangle-model-teacher-ai-2026|Nguyen（2026）]]）。
 - **[[governance|治理]]与政策：**[[genai-policies-higher-ed-computing|机构人工智能政策分析]]记录了机构抱负与教师支持能力之间的差距。
@@ -108,7 +114,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, crompton-faculty-techn
 
 发展的单位可以小于一个院系，而大于一个人。[[chen-future-faculty-development-ai-2027|Chen 等人（2026）]] 列出七种教师角色，但坚持它们不必集中在一位学者身上：以人为中心的教育者与学科专家是普遍的基础，而学习架构、评估重设计、技术能力、伦理守护与有纪律的实验可以分布在一个教学团队之中。他们的条件是人人都保留基础的技术与伦理能力，这样共享专长才不会变成共享无知。
 
-**用房间自身的数据来开这个系列，而不是引入的最佳实践。**[[physics-faculty-learning-community-ai-2026|Perl-Nussbaum 与 Finkelstein（2026）]]记录了一个来自大型公立 R1 物理系的可行模型：六次双周会话，每次 60 到 75 分钟，整个系列有十九位教师参与，每次会议约十人到场；每次会话都以本地数据或院系来源的材料开场，转入小组针对真实的匿名化学生作业测试人工智能，再以集体讨论收尾。教师通过测试所发现的东西，比主持人能引入的任何材料包都更有用——人工智能解决了他们尝试的每一个问题，但除非给出明确的目标与量表，它对真实学生作业的反馈是不均衡的、依赖提示且停留在表面的；学生的提示也很浅薄，除非生产性使用被示范，否则他们对输出的修改只是表面化的。第一个具体产出是一个包含五条条目的活的知识库——教学大纲政策声明、课堂讨论材料、学生调查、融入人工智能的作业任务与评估结构——这就是为什么作者把会话结构本身视为论点，而非它所交付的任何内容。
+**用房间自身的数据来开这个系列，而不是引入的最佳实践。**[[physics-faculty-learning-community-ai-2026|Perl-Nussbaum 与 Finkelstein（2026）]]记录了一个来自大型公立 R1 物理系的可行模型：六次双周会话，每次 60 到 75 分钟，整个系列有十九位教师参与，每次会议约十人到场；每次会话都以本地数据或院系来源的材料开场，转入小组针对真实的匿名化学生作业测试人工智能，再以集体讨论收尾。教师通过测试所发现的东西，比主持人能引入的任何材料包都更有用——人工智能解决了他们尝试的每一个问题，但除非给出明确的目标与[[rubrics|评分量规]]，它对真实学生作业的反馈是不均衡的、依赖提示且停留在表面的；学生的提示也很浅薄，除非生产性使用被示范，否则他们对输出的修改只是表面化的。第一个具体产出是一个包含五条条目的活的知识库——教学大纲政策声明、课堂讨论材料、学生调查、融入人工智能的作业任务与评估结构——这就是为什么作者把会话结构本身视为论点，而非它所交付的任何内容。
 
 **锚定于一个能力框架。**发展还应当培养**教学性的[[prompt-engineering|提示素养]]**——把教学意图编码进提示的能力——因为[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh（2026）]]发现，决定教师人工智能辅助设计工作质量的是教学专长，而非人工智能流利度。（[[crewscaler-ai-upskilling-framework]]）（[[ai-tpack-preservice-math-teachers]]）（[[talebzadeh-ai-group-activity-roles-2026]]）
 

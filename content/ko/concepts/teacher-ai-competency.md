@@ -1,7 +1,7 @@
 ---
 title: 교수자의 AI 역량
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-18T10:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, educational-development, teacher-role, prompt-engineering, learning-design, scaffolding, metacognition, assessment-validity, equity-in-ai-education, ethics, self-efficacy, human-in-the-loop-ai, agency, cognitive-offloading, educational-policy-ai, ai-education, tpack, teacher-education, pedagogy]
 connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-colleague-teacher-depletion-2026, cerioli-human-centered-ai-literacy-schools-2026, wilcoxen-steiner-bell-ai-lesson-planning-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, walkington-teacher-in-loop-personalized-tasks-2026, roy-aila-lesson-planning-teacher-choices-2026, ai-misconceptions-indonesian-k12-teachers-2026, manto-ai-integration-mathematics-education-systematic-review-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, teacher-ai-literacy-professional-development-meta-2026, intelligent-tpack-pd-intervention-hongkong-2025, ailithub-ai-literacy-case-infrastructure-2026, typology-generative-ai-tools-education-2026, generative-ai-k12-teaching-learning-systematic-review-2026, pedagogy-first-technology-second-teacher-knowledge-2026, choi-teacher-ai-interaction-lesson-design-2026, preservice-teachers-responsible-genai-2026, melo-llm-classroom-observation-teach-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, genai-pd-ai-pck-learning-gain-2026, ai-tpack-teacher-multi-agent-workflow, teacher-ai-teaming-five-levels, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, teacher-ai-adoption-confidence, ai-pedagogical-orientation, ai-literacy-assessment-misalignment, quest-ai-inquiry-preservice-teachers, sangwa-epiq-ai-faculty-readiness-2026, llm-cultural-relevance-k12, institutional-change-framework-ai, teachingcoach-chatbot-instructor-guidance, laidlaw-genai-identity-crisis-faculty-2026, raffaghelli-situated-ai-ethics-2026, guillen-curriculum-genai-teacher-competence-2026, stenalt-good-education-teacher-ai-conceptions-2026, ukraine-ai-literacy-secondary-framework-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xai-teachers-trust-edtech-recommendations-2026, teacher-ai-literacy-prompt-feedback-quality-2026, vassallo-ai-guilt-complex-faculty-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, watson-rainie-ai-challenge-faculty-survey-2026, ai-integration-instructional-design-collaboratory-2026, assessing-teachers-ai-literacy-measurement-tools-2026, adaptive-ai-model-teacher-educators-2025, physics-faculty-learning-community-ai-2026, authentic-assessments-generative-ai-pilot-2026, teachers-configure-educational-chatbots-2026, capability-decision-model-teacher-readiness-2026, k12-teachers-genai-beliefs-five-countries-2026, teachers-ai-belief-profiles-talis-2024-2026, microlearning-ai-modules-vocational-teacher-education-2026, eduwild-teacher-configured-chatbots-failures-2026, chen-ai-visualization-teaching-competency-scale-2026, bursic-ai-residency-education-curriculum-2026, yuan-teacher-need-satisfaction-genai-2026, white-scandinavian-teachers-genai-attitudes-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, zhou-school-support-teacher-ai-competence-2026]
@@ -68,7 +72,7 @@ connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-
 
 - K-12 교사 1,405명을 대상으로 한 5개국 설문에서 AI 준비도는 GenAI의 교수적 가치에 대한 긍정적 믿음을 예측했으나(B = .59, R² = .50) 오히려 *더 큰* [[creativity|창의성]] 우려를 예측했고(B = .18), 같은 예측 요인이 우려의 7%와 6%만을 설명했습니다. 준비도를 쌓는 것만으로는 우려에 닿지 않습니다([[k12-teachers-genai-beliefs-five-countries-2026|Xiu 등(2026)]]).
 
-준비도는 이에 따라 순서에 두고 측정해야 합니다. Capability–Decision 모형은 실증된 AI 역량을 태도와 자신감의 상류에 놓고, 자기보고만이 아니라 수행 지표를 제안합니다. 수업 설계 과제, 오류를 심어 둔 프롬프트 평가 과제, 내용 타당성 판단, 교실 산출물 루브릭이 그것입니다([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+준비도는 이에 따라 순서에 두고 측정해야 합니다. Capability–Decision 모형은 실증된 AI 역량을 태도와 자신감의 상류에 놓고, 자기보고만이 아니라 수행 지표를 제안합니다. 수업 설계 과제, 오류를 심어 둔 프롬프트 평가 과제, 내용 타당성 판단, 교실 산출물 [[rubrics|루브릭]]이 그것입니다([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **정서적·도덕적 준비도는 별개의 차원입니다.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]]은 몰타의 [[higher-ed|한 대학]] 교직원(응답자 109명)을 설문 조사하여 네 개의 도덕-정서 문항으로 AI 죄의식 지수(α = 0.88)를 만들고, 사용 후에 경험하는 후회보다 *예기적* 죄의식이 더 크다는 것을 발견했습니다. 가장 강한 지지는 AI 사용이 자신의 신빙성을 떨어뜨릴지 모른다는 우려였고(34.9% 동의), 이어서 사용할 때 [[academic-integrity|부정행위]]를 하는 기분이 든다는 것이었으며(25.7%), 사용 후 후회는 9.2%에 그쳤습니다. 역량 프레임워크에 중요한 발견은, 비사용자가 사용자보다 *더 높은* 죄의식을 보고했다는 것(M = 3.25 대 M = 2.32)과 죄의식이 직업적 안정이 높아질수록 낮아졌다는 것입니다. 초기 경력 학술인이 가장 높고(M = 2.71), 선임 학술인이 가장 낮았습니다(M = 2.03). 따라서 정서적 준비도는 기술이나 자신감 측정으로 포착되지 않으며, 이 논문은 역량 프레임워크가 죄의식과 정체성에 대한 우려를 바로잡아야 할 결함이 아니라 정상적인 전환기 반응으로 다루어야 한다고 주장합니다.
 

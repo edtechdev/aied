@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -85,7 +89,7 @@ Professores podem tratar a saída de um detector como evidência, e não como ve
 
 Desenhistas curriculares podem manter a produção no curso. Criar mídia foi o que tornou a crítica concreta nos estudos aqui revisados, e gerar com IA só apoia isso quando os estudantes examinam as escolhas que a ferramenta fez por eles.
 
-Pontuar o construto como desempenho, e não como atitude, torna o ponto fraco visível. Em um ensaio de oito semanas do Code Craft com 28 graduandos tailandeses, o letramento digital subiu de 1,51 para 2,82 em uma rubrica de três pontos, mas gerenciar informação teve média de 1,92 e criar informação, de 2,05, contra 2,36 para comunicar e trabalhar com outros ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij e Khlaisang, 2026]]). As pontuações mais baixas ficaram no lado produtor do construto, onde um curso que para na busca e na avaliação nunca chega.
+Pontuar o construto como desempenho, e não como atitude, torna o ponto fraco visível. Em um ensaio de oito semanas do Code Craft com 28 graduandos tailandeses, o letramento digital subiu de 1,51 para 2,82 em [[rubrics|uma rubrica]] de três pontos, mas gerenciar informação teve média de 1,92 e criar informação, de 2,05, contra 2,36 para comunicar e trabalhar com outros ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij e Khlaisang, 2026]]). As pontuações mais baixas ficaram no lado produtor do construto, onde um curso que para na busca e na avaliação nunca chega.
 
 Líderes de programa podem colocar um bibliotecário ou especialista em mídia dentro do fluxo de trabalho. O resultado instrucional mais forte desta literatura vem de um desenho em que a consulta humana foi incorporada, e não oferecida depois.
 

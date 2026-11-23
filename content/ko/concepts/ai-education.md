@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능
 created: "2026-09-22T14:35:21-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -85,7 +89,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## 교육에서의 인공지능의 기초
 
-이 분야의 교차적이고 기초적인 개념들은 지식베이스 전체의 토대가 되며 사이드바에서 가장 먼저 나타납니다. 이들은 모든 독자가 먼저 시작해야 할 개념을 모은 **핵심** 묶음으로 시작합니다. 상위 개념 자체, [[misconceptions|AI에 관한 오해]], [[ai-literacy|AI 리터러시]], [[agentic-ai|에이전트형 AI]], [[cognitive-offloading|인지적 오프로딩]], [[framing-ai-use-for-students|학생에게 AI 사용의 기준을 제시하기]], [[reducing-ai-misuse|오용 줄이기]], [[academic-integrity|학문적 정직성]], [[teacher-role|교수]], [[learning-design|학습 설계]], [[educational-development|교육 개발]]입니다. 이어서 **분야** 갈래는 [[history-of-aied|이 분야의 역사]], [[limitations-in-aied-research|근거 기반이 전반적으로 지닌 한계]], [[philosophy-of-ai-in-education|이 분야의 철학]], [[theories-and-frameworks|이론과 프레임워크]] 지도, [[theory-development-aied|이론 개발]]을 다룹니다. 교차 주제인 [[human-ai-collaboration|인간-AI 협업]], [[agency|학습자 주체성]], [[learner-identity|학습자 정체성]], [[design-thinking|디자인 사고]], [[curriculum-design|교육과정 설계]], [[critical-thinking|비판적 사고]], [[computational-thinking|컴퓨팅 사고]]는 모든 갈래를 가로지릅니다. 사람들이 AI에 대해 품는 부정확한 심적 모형이 [[ai-misuse-learning-harm|오용]]과 충분히 보정되지 않은 [[trust-calibration|신뢰]]보다 앞서기 때문입니다.
+이 분야의 교차적이고 기초적인 개념들은 지식베이스 전체의 토대가 되며 사이드바에서 가장 먼저 나타납니다. 이들은 모든 독자가 먼저 시작해야 할 개념을 모은 **핵심** 묶음으로 시작합니다. 상위 개념 자체, [[misconceptions|AI에 관한 오해]], [[ai-literacy|AI 리터러시]], [[agentic-ai|에이전트형 AI]], [[cognitive-offloading|인지적 오프로딩]], [[framing-ai-use-for-students|학생에게 AI 사용의 기준을 제시하기]], [[reducing-ai-misuse|오용 줄이기]], [[academic-integrity|학문적 정직성]], [[teacher-role|교수]], [[learning-design|학습 설계]], [[educational-development|교육 개발]]입니다. 이어서 **분야** 갈래는 [[history-of-aied|이 분야의 역사]], [[limitations-in-aied-research|근거 기반이 전반적으로 지닌 한계]], [[philosophy-of-ai-in-education|이 분야의 철학]], [[theories-and-frameworks|이론과 프레임워크]] 지도, [[theory-development-aied|이론 개발]], 그리고 학습 환경을 부분이 상호작용하는 다층적 시스템으로 다루는 [[learning-environments-as-systems|학습 환경으로서의 시스템]]을 다룹니다. 한 수준에서 도입된 도구나 정책은 다른 수준에서도 효과를 낳습니다. 교차 주제인 [[human-ai-collaboration|인간-AI 협업]], [[agency|학습자 주체성]], [[learner-identity|학습자 정체성]], [[design-thinking|디자인 사고]], [[curriculum-design|교육과정 설계]], [[critical-thinking|비판적 사고]], [[computational-thinking|컴퓨팅 사고]]는 모든 갈래를 가로지릅니다. 사람들이 AI에 대해 품는 부정확한 심적 모형이 [[ai-misuse-learning-harm|오용]]과 충분히 보정되지 않은 [[trust-calibration|신뢰]]보다 앞서기 때문입니다.
 
 ## 학습과 교수
 
@@ -130,7 +134,7 @@ AI가 교수와 학습을 어떻게 지원하는가는 이 분야의 핵심입�
 
 AI는 학습자를 평가하는 방식과 AI 시스템 자체를 평가하는 방식을 모두 바꿉니다.
 
-- **평가와 피드백:** [[assessment|평가]], [[formative-assessment|형성평가]], [[summative-assessment|총괄평가]], [[authentic-assessment|실제적 평가]], [[eportfolio|전자 포트폴리오]], [[feedback|피드백]]과 [[feedback-literacy|피드백 리터러시]], [[ai-feedback-quality|AI 피드백 품질]], [[peer-assessment|동료 평가]], [[oral-assessment|구두 평가]], [[automated-assessment|자동화 평가]], [[automated-essay-scoring|자동 에세이 채점]], [[automated-question-generation|자동 문항 생성]]입니다. 모델이 이제 요구만 하면 그럴듯한 완성본을 만들어 낼 수 있기 때문에, 지식베이스는 학습자 자신에게 남는 역량을 앞세웁니다. 바로 [[evaluative-judgment|평가적 판단]], 즉 자신의 작업과 동료의 작업, AI 산출물의 품질을 근거 있는 기준에 비추어 헤아리는 능력입니다. 이는 여러 피드백 및 실제적 평가 연구가 수렴하는 구성 개념입니다. 다기관 실험에서 혼합 피드백 조건이 AI의 직접 피드백보다 더 나은 성과를 냈다는 결과, AI 형성 피드백의 지속가능성 격차, 그리고 산출물만이 아니라 학생이 내리는 결정을 평가하는 실천적 전환이 모두 이 지점을 가리킵니다. 또한 AI 시대의 재설계가 [[ai-detection|탐지]]에서 검증을 견뎌 내는 과제로 옮겨 가는 핵심 이유이기도 합니다. [[group-work|모둠 활동]] 역시 과정과 산출물 양쪽으로 평가되는데, 이때 팀은 누구의, 어떤 종류의 AI 활용이 용인되는지를 협상해야 합니다.
+- **평가와 피드백:** [[assessment|평가]], [[formative-assessment|형성평가]], [[summative-assessment|총괄평가]], [[authentic-assessment|실제적 평가]], [[eportfolio|전자 포트폴리오]], [[feedback|피드백]]과 [[feedback-literacy|피드백 리터러시]], [[ai-feedback-quality|AI 피드백 품질]], [[peer-assessment|동료 평가]], [[oral-assessment|구두 평가]], [[automated-assessment|자동화 평가]], [[automated-essay-scoring|자동 에세이 채점]], [[automated-question-generation|자동 문항 생성]], 그리고 [[rubrics|루브릭]]입니다. 루브릭은 기준을 담는 도구로, 어떤 작업물에 대한 읽기를 재현 가능하게 만드는 명시된 차원과 수준 서술이자 모델이 채점할 때 읽는 사양입니다. 모델이 이제 요구만 하면 그럴듯한 완성본을 만들어 낼 수 있기 때문에, 지식베이스는 학습자 자신에게 남는 역량을 앞세웁니다. 바로 [[evaluative-judgment|평가적 판단]], 즉 자신의 작업과 동료의 작업, AI 산출물의 품질을 근거 있는 기준에 비추어 헤아리는 능력입니다. 이는 여러 피드백 및 실제적 평가 연구가 수렴하는 구성 개념입니다. 다기관 실험에서 혼합 피드백 조건이 AI의 직접 피드백보다 더 나은 성과를 냈다는 결과, AI 형성 피드백의 지속가능성 격차, 그리고 산출물만이 아니라 학생이 내리는 결정을 평가하는 실천적 전환이 모두 이 지점을 가리킵니다. 또한 AI 시대의 재설계가 [[ai-detection|탐지]]에서 검증을 견뎌 내는 과제로 옮겨 가는 핵심 이유이기도 합니다. [[group-work|모둠 활동]] 역시 과정과 산출물 양쪽으로 평가되는데, 이때 팀은 누구의, 어떤 종류의 AI 활용이 용인되는지를 협상해야 합니다.
 - **측정과 타당성:** [[assessment-validity|평가 타당성]], [[psychometrically-aware-ai|심리측정을 고려한 AI]], [[educational-measurement|교육 측정]], [[item-response-theory|문항반응이론]], [[self-report-measures|자기보고 측정]](이 근거의 상당 부분을 떠받치는 도구이자 되풀이되는 한계), [[ai-detection|AI 탐지]], [[remote-proctoring|원격 감독]], [[academic-integrity|학문적 정직성]]입니다.
 
 ## 연구 방법과 검증

@@ -1,14 +1,14 @@
 ---
 title: 人机协作
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-18T03:32:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T09:48:57-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, community-of-inquiry, student-ai-interaction, generative-ai, ai-literacy, llm, scaffolding, intelligent-tutoring, teacher-role, higher-ed, k-12, cognitive-offloading, student-experience, metacognition, self-regulated-learning, creativity, chemistry-education, biology-education, human-in-the-loop-ai, agentic-ai, productive-failure]
 connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, ai-integration-instructional-design-collaboratory-2026, ai-overreliance-complex-adaptive-system-2026, ai-standardized-patient-scaffolding-medical-2026, bjet-many-hands-make-light-work-2026, bounded-reliance-ai-writing-feedback-2026, choi-teacher-ai-interaction-lesson-design-2026, conversational-ai-agents-umbrella-review-2026, dang-human-ai-collaboration-competency-2026, ethics-training-agents-group-ethics-discussion-2026, generative-ai-mediational-agent-sociocultural-2026, haiml-human-centered-ai-metacognitive-model-2026, hao-human-ai-collaborative-problem-solving-cognition, hong-authorship-legitimation-deficit-human-ai-co-creation-2026, human-ai-collaboration-academic-writing-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, iqbal-human-genai-support-essay-revision-2026, kuhail-great-debaters-ai-facilitators-2026, liao-role-adaptive-ai-companion-book-talk-2026, lu-ai-mediated-feedback-feedbackwriter-rct-2026, niari-ai-pedagogical-mediator-collaborative-learning, nixon-social-cost-ai-teammate-2026, ojeda-ramirez-community-based-ai-learning, oppenheimer-llms-collaborative-learning-partners-2026, principal-trait-analysis-human-ai-skills-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, robinson-lesson-study-dialogic-engagement-ai-2026, scan-framework-task-assignment-generative-ai-2025, spritz-ai-disciplinary-mediation-student-teams-2026, student-mental-models-genai, substitution-to-scaffolding-ai-harm-cycle-2026, sun-student-genai-entanglement-literacy-demands-2026, talebzadeh-ai-group-activity-roles-2026, tang-chatbots-learning-design-2026, teacher-ai-collaboration-work-engagement-2026, think-first-chatgpt-later-2026, tuo-armada-multi-agent-debate-overreliance-2026, wang-agentic-translation-education-2026, wang-genai-novice-learner-learning-by-teaching-2026, wang-teacher-ai-co-design-review-2026, wang-tutor-copilot-human-ai-live-tutoring-rct-2024, xu-genai-collaborative-space-2026, zhu-ai-pair-programming-secondary-2026, li-human-ai-professional-competence-2026]
@@ -53,7 +57,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, ai
 - **更高的分数本身并不是协作教会了什么的证据。** 本页的其他证据对受协助的表现持审慎态度，而一项对支持类型的随机检验说明了原因。在 [[iqbal-human-genai-support-essay-revision-2026|Iqbal et al. (2026)]] 的实验室研究中，87 名 EFL 学生先无协助地写一篇作文，然后用 ChatGPT 4.0（n = 29）、由人类写作教师（n = 28）、或无支持（n = 30）修改它。学生使用四种源自轨迹的修改策略中的哪一种，与其所获的支持强烈相关（Cramér's V = 0.668），而与其先前的写作策略只有中度相关（Cramér's V = 0.333）；[[motivation]]、写作技能与元认知判断准确度都没有总体关联，元认知关联只在无支持条件下浮现（p = 0.0460）。关键的是，没有任何修改策略预测分数变化（p = 0.273），尽管支持类型预测了：生成式人工智能组比人类专家组与对照组的改善显著更大（H(2) = 16.591，p = 0.00025，η² = 0.174），而在同一个*逐渐减少的 [[help-seeking]]* 策略内部，生成式人工智能学生平均约提升 4 分，人类专家学生则失去 0.5 分。作者把这一模式解读为外部支持绕过了学习者自身的 [[metacognition|元认知判断]]，并警告这些增益可能是任务特定的优化，而非持久的能力。这并不推翻*谁生成与决定* 原则（该研究变化的是谁提供支持，而非谁生成思考），但它磨砺了教师应当施加的检验：在协助下获得的增益，必须能在一项无协助任务上存活，才算作学习；而把一个人类专家请进房间，并不自动就是更安全的安排。
 - **加入同伴也不自动就是更安全的安排。** [[bjet-many-hands-make-light-work-2026|Chu, Dai and Zhai (2026)]] 让 87 名本科生单独工作，或与一个生成式人工智能多智能体系统结对工作八周。结对组在复杂设计项目上得分最高（M = 89.64，相比之下无系统结对者为 85.85，单独使用系统者为 86.45，p = 0.039），然而批判性思维意识的提升在单独工作者中最大（M = 0.41），在结对组中略有下降（M = −0.04，p = 0.039）。
 - **代价会落在人与人的纽带上。** 在一项 33 个团队的随机实验中，[[nixon-social-cost-ai-teammate-2026|Nixon 等（2026）]]发现，一个人工智能队友在全部 16 个处理组中都占据了最多的发言时间，而它的两名学生队友彼此回应的频率更低（回应性 g = −0.78），报告的归属感也更低（4.58 对 5.27）。这一代价在基线时就已存在，而不是在讨论过程中逐渐累积。
-- **设计原则 —— 保全学习者的生产性工作。** 纵观研究，协作是有益还是有害的最锐利预测因子是*谁生成与决定*。让人保持认知产出的安排（引导式 [[prompt-engineering|提示]]、“先思考，再咨询人工智能”、核验与评估步骤）支撑学习；把整个任务交给模型的安排则不然。互补的一招是改变模型被赋予*成为*什么。在 [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] 的准实验中，68 名 [[teacher-education|职前教师]] 要么把翻转课堂概念讲给一个基于 ERNIE 3.5 构建的生成式人工智能*新手学习者*（一个被框定为好奇与欣赏、会请求解释、例子、核验推理与对立视角、并按 Bloom 分类法逐级推进的系统），要么向一个基于同一模型构建的生成式人工智能教师提问。教人工智能的学生解释得更好（定义翻转课堂 M = 4.18 对 3.29；其教学活动 M = 4.91 对 3.06，两者 p < 0.001），并生成了更多、更高质量的问题（M = 3.67 对 2.14；M = 5.67 对 3.07，两者 p < 0.001），而客观回忆在统计上无法区分（M = 23.18 对 21.57，p = 0.416），因此优势落在解释与迁移上，而非事实检索上。人工智能教师条件下的学生坦率地谈到了这笔交易：一些人承认它给出了“更准确、更详细的信息”，却报告“用过它之后，我不想独立思考了”。把模型赋予 [[learning-by-teaching|被教的学习者]] 角色，使学生成为想法的唯一来源，并消除了长期以来寻找合适同伴来教这一难题。随之而来有两个设计限度：规划与监控并未改善（M = 4.01 对 3.78，p = 0.062），因此角色反转本身并不是一项 [[metacognition|元认知]] 干预，而且作者把这一无效结果追溯到一项让学生专注于内容准确性的任务设计。在写作课堂中，该原则采取了一种具体、可教的形式。在 [[human-ai-collaboration-academic-writing-2026|Alshehri 等（2026）]] 的沙特 EFL 准实验中，学生运行一套五步例程——框定问题并设计提示、迭代起草、修改、对每一条主张与引用对照学术数据库核验、并调节自身的署名与依赖——每次作业都要求一份 [[academic-integrity|人工智能使用日志]]，记录他们接受了什么、拒绝了什么以及为什么。写作与数字 [[critical-thinking|批判性思维]] 一同上升、几乎同步移动，而学生的反思把核验与 [[hallucination-risk|幻觉]]修补例程明确地联系到批判性思维的增益上：同样是审问输出的习惯塑造了他们的写作决策。作者自己的告诫是该原则必要的补充——该工作流是偶然性的而非自足的，在薄弱的 [[scaffolding]]、低批判性思维或元认知准备（学生缺乏察觉坏输出的能力）、写作决策被逐步交出、或制度性的 [[educational-policy-ai|人工智能使用政策]] 不清晰的条件下，都会变得适得其反。
+- **设计原则 —— 保全学习者的生产性工作。** 纵观研究，协作是有益还是有害的最锐利预测因子是*谁生成与决定*。让人保持认知产出的安排（引导式 [[prompt-engineering|提示]]、“先思考，再咨询人工智能”、核验与评估步骤）支撑学习；把整个任务交给模型的安排则不然。互补的一招是改变模型被赋予*成为*什么。在 [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] 的准实验中，68 名 [[teacher-education|职前教师]] 要么把翻转课堂概念讲给一个基于 ERNIE 3.5 构建的生成式人工智能*新手学习者*（一个被框定为好奇与欣赏、会请求解释、例子、核验推理与对立视角、并按[[bloom-taxonomy|Bloom 分类法]]逐级推进的系统），要么向一个基于同一模型构建的生成式人工智能教师提问。教人工智能的学生解释得更好（定义翻转课堂 M = 4.18 对 3.29；其教学活动 M = 4.91 对 3.06，两者 p < 0.001），并生成了更多、更高质量的问题（M = 3.67 对 2.14；M = 5.67 对 3.07，两者 p < 0.001），而客观回忆在统计上无法区分（M = 23.18 对 21.57，p = 0.416），因此优势落在解释与迁移上，而非事实检索上。人工智能教师条件下的学生坦率地谈到了这笔交易：一些人承认它给出了“更准确、更详细的信息”，却报告“用过它之后，我不想独立思考了”。把模型赋予 [[learning-by-teaching|被教的学习者]] 角色，使学生成为想法的唯一来源，并消除了长期以来寻找合适同伴来教这一难题。随之而来有两个设计限度：规划与监控并未改善（M = 4.01 对 3.78，p = 0.062），因此角色反转本身并不是一项 [[metacognition|元认知]] 干预，而且作者把这一无效结果追溯到一项让学生专注于内容准确性的任务设计。在写作课堂中，该原则采取了一种具体、可教的形式。在 [[human-ai-collaboration-academic-writing-2026|Alshehri 等（2026）]] 的沙特 EFL 准实验中，学生运行一套五步例程——框定问题并设计提示、迭代起草、修改、对每一条主张与引用对照学术数据库核验、并调节自身的署名与依赖——每次作业都要求一份 [[academic-integrity|人工智能使用日志]]，记录他们接受了什么、拒绝了什么以及为什么。写作与数字 [[critical-thinking|批判性思维]] 一同上升、几乎同步移动，而学生的反思把核验与 [[hallucination-risk|幻觉]]修补例程明确地联系到批判性思维的增益上：同样是审问输出的习惯塑造了他们的写作决策。作者自己的告诫是该原则必要的补充——该工作流是偶然性的而非自足的，在薄弱的 [[scaffolding]]、低批判性思维或元认知准备（学生缺乏察觉坏输出的能力）、写作决策被逐步交出、或制度性的 [[educational-policy-ai|人工智能使用政策]] 不清晰的条件下，都会变得适得其反。
 
 - **自动化与增强并不是二选一。** 在四个面向教师的案例中，替代始终局限在有界的分析性子任务之内，而只要教师对输出进行解释与验证，补全就会出现，因此增强其实是教师接下来所做之事的属性，而不是工具本身的属性（[[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers 等（2026）]]）。
 
@@ -102,6 +106,10 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, ai
 - **“引导而非告知”需要自己的评判智能体的准则。**一个旨在镜像教师引导的设计案例发现，一个被限定在精选知识库上的知识智能体可以按准确性评判，而一个旨在引导学生走向自己答案的智能体则不能（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等人，2025]]）。
 
 - **伙伴关系也延伸到研究过程本身，而不只是学生学习**——[[potter-participatory-design-writing-analytics-2026|Potter 等（2026）]]让 GPT-4o 在一个安全的 RAG 平台中起草编码与初步主题，同时由三位核心研究者与两位外部验证者保留解释权威，最终整合出四个主题。这种混合工作流重新分配了研究者的劳动，而不是取消它。
+
+- **角色轮换是一项独立于人工智能的协作杠杆。** [[zhu-ai-pair-programming-secondary-2026|Zhu 等（2026）]] 发现，在结对编程中轮换“驾驶者—导航者”角色会降低认知负荷与编程焦虑，无论是否有人工智能支持，因此部分收益归于人的配对本身而非工具。
+
+- **胜任力是可问责的委托。** [[li-human-ai-professional-competence-2026|Li 与 Torrisi-Steele（2026）]] 提出“人—AI 专业胜任力”，并在 560 名学习者与 240 名教师中发现，单纯的认知委托不能预测它（β = −.041，p = .242），而认知所有与经验判断可以；教师同样把可委托的执行与不可委托的核验、判断区分开来。
 
 ## 关联
 

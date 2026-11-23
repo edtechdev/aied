@@ -1,7 +1,7 @@
 ---
 title: 학문적 진실성
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-19T13:45:26-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-use-disclosure, assessment-validity, ai-literacy, ai-detection, authentic-assessment, assessment, educational-policy-ai, regulation, ethics, equity-in-ai-education, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, misconceptions, generative-ai, higher-ed, k-12, ai-education, legal-issues-and-risks, social-norms-ai-use, reflection]
 connected_articles: [benau-effort-legitimate-academic-work-genai-2026, mcclanahan-ai-cheating-policies-cultural-lag-2026, oyelere-code-programming-assessment-genai-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, hashem-cheating-habitus-ai-governance-discourse-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, kumar-genai-computing-education-systematic-review-2026, mccorkle-aligned-genai-course-policy-2025, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-regulate-ai-syllabi-2026, biology-degree-integrity-genai-cheating-2026, gonsalves-student-non-compliance-ai-declarations-2025, detecting-llm-generated-text-latent-prompt, beyond-detection-authentic-assessment-ai-2025, ai-assessment-scale-reform, authentic-products-authenticated-processes-2026, student-rationalization-ai-writing, ethical-ai-higher-ed-game-theory, shame-guilt-ai-regulation-computing-education, cross-cultural-student-perceptions-genai-computing, luo-dawson-value-judgments-grading-2026, chen-zou-genai-group-assessment-agency-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, coates-governing-academic-integrity-indicators-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, petricini-zipf-ai-use-ethics-matrix-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, genai-higher-ed-agency-responsibility-discourse-2026, genai-governance-australian-higher-ed-2026, argus-academic-integrity-genai-2026, villanueva-ai-vulnerability-assessment-audit-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, reddit-genai-education-discourse-analysis-2026, boyd-swan-employer-responses-genai-2026, airri-machine-resistant-reading-interface-2026, issa-teamwork-framework-academic-integrity-2024, hong-authorship-legitimation-deficit-human-ai-co-creation-2026, crisol-moya-integrity-assessment-2026, ragab-ai-integrity-verification-model-2026, black-box-assessment-winstone-2026, rodak-hire-ai-future-focused-literacy-2026, wyszynski-genai-user-input-engineering-statics-2026, burke-ai-proliferation-college-students-replication-2026, mingole-ai-proofing-higher-education-assessments-2026, habit-over-intention-genai-help-seeking-engineering-2026, performance-without-capability-genai-assessment-validity-2026]
@@ -119,7 +123,7 @@ Benau (2026)는 반대 방향에서 같은 경계에 도달합니다. 학문적 
 
 정책의 텍스트는 정책의 인식과 같지 않습니다. [[cross-cultural-student-perceptions-genai-computing|다국적 연구]]는 기능적으로 동일한 제도적 정책에도 불구하고 서로 다른 대학의 학생들이 동일한 AI 보조 실천을 다르게 평가했다는 것을 발견했습니다 — **잘못되었다고 인식되는 것은 정책의 문구가 아니라 문화가 결정했습니다**. 정책의 조화는 인식의 조화를 만들어내지 않으므로, 문화적으로 다양한 집단은 동일한 규칙을 다르게 해석하며, 이는 집행과 채점에 관한 형평성 우려이며, 추상적인 규칙 진술보다는 시나리오 기반의 명확화를 요구합니다.
 
-문화보다는 언어 배경이 변이의 두 번째 축입니다. [[li-genai-assessment-language-equity-2026|Li (2026)]]는 동일한 인터페이스가 허용된 언어 교정과 금지된 실질적 초안 작성을 함께 수행하므로, 생성형 AI를 하나의 무단 지원 범주로 다루는 진실성 규칙이 언어적 불이익을 진실성 위험으로 전환한다고 주장합니다. 전면적인 금지는 확장 가능한 형태의 언어 지원을 제거하고, 허용하되 공개하라는 체제는 사용이 더 빈번하고 반복적인 EAL 학생에게 준수 작업을 떠넘기며, 경미한 변경을 넘어서는 교정에 대한 금지는 유창성이 가장 크게 달라진 글쓴이에게 의심을 집중시킵니다. Li가 제안하는 경계는 도구 기반이 아니라 목적 기반입니다 — 허용된 지원은 새로운 아이디어, 새로운 출처, 분석의 실질적 재배열을 더하지 않는 반면, 대체는 평가되는 지적 작업을 만들거나 실질적으로 재형성합니다 — 그리고 그것은 평가 구성개념에 닻을 내립니다. 왜냐하면 유창함과 관용적 표현에 점수를 주는 루브릭은 EAL 글쓴이에게 구성개념 무관 분산을 도입하기 때문입니다([[assessment-validity|평가 타당성]]). 그 틀은 [[ai-detection|탐지기]] 출력을 좀처럼 증명이 되지 않는 분류 신호로 격하시키고, 단계적 제출, 초안 이력, 검증 가능한 출처 추적, 그리고 구성개념에 정렬된 짧은 대화를 통한 삼각측정을 선호하며, [[ai-use-disclosure|공개]]를 일상적인 지원이 단일언어 또래가 부담하는 것을 넘는 준수 비용을 수반하지 않도록 조정합니다.
+문화보다는 언어 배경이 변이의 두 번째 축입니다. [[li-genai-assessment-language-equity-2026|Li (2026)]]는 동일한 인터페이스가 허용된 언어 교정과 금지된 실질적 초안 작성을 함께 수행하므로, 생성형 AI를 하나의 무단 지원 범주로 다루는 진실성 규칙이 언어적 불이익을 진실성 위험으로 전환한다고 주장합니다. 전면적인 금지는 확장 가능한 형태의 언어 지원을 제거하고, 허용하되 공개하라는 체제는 사용이 더 빈번하고 반복적인 EAL 학생에게 준수 작업을 떠넘기며, 경미한 변경을 넘어서는 교정에 대한 금지는 유창성이 가장 크게 달라진 글쓴이에게 의심을 집중시킵니다. Li가 제안하는 경계는 도구 기반이 아니라 목적 기반입니다 — 허용된 지원은 새로운 아이디어, 새로운 출처, 분석의 실질적 재배열을 더하지 않는 반면, 대체는 평가되는 지적 작업을 만들거나 실질적으로 재형성합니다 — 그리고 그것은 평가 구성개념에 닻을 내립니다. 왜냐하면 유창함과 관용적 표현에 점수를 주는 [[rubrics|루브릭]]은 EAL 글쓴이에게 구성개념 무관 분산을 도입하기 때문입니다([[assessment-validity|평가 타당성]]). 그 틀은 [[ai-detection|탐지기]] 출력을 좀처럼 증명이 되지 않는 분류 신호로 격하시키고, 단계적 제출, 초안 이력, 검증 가능한 출처 추적, 그리고 구성개념에 정렬된 짧은 대화를 통한 삼각측정을 선호하며, [[ai-use-disclosure|공개]]를 일상적인 지원이 단일언어 또래가 부담하는 것을 넘는 준수 비용을 수반하지 않도록 조정합니다.
 
 ## 단속에서 교수법으로
 
@@ -164,6 +168,7 @@ Benau (2026)는 반대 방향에서 같은 경계에 도달합니다. 학문적 
 - **중등 학생들은 AI-표절을 고정된 규칙이 아니라 상황에 따라 추론한다.** [[chan-rethinking-aigiarism-secondary-integrity-2026|Chan (2026)]]은 중등 학생들의 "AI-표절"에 관한 윤리적 추론이 미묘하고 맥락 의존적이라는 것을 보여 줍니다 — 많은 학생이 이해를 뒷받침할 때 AI 보조 작업을 수용 가능하게 보지만, 자신의 노동을 대신할 때는 문제 있다고 봅니다 — 이것은 학생들이 단순히 진실성이 결여되어 있다거나 단일한 정책이 그들의 윤리를 포착할 수 있다는 가정에 도전합니다.
 
 - **학생들 자신의 우려는 학습 손실이며, 부정행위 틀은 그것을 놓친다.** [[ting-ai-learning-ownership-purpose-2026|Ting 외(2026)]]는 학부생 14명을 인터뷰하여, 그들이 AI 사용이 아니라 AI가 자신이 하지 않은 작업을 만들어 내는 지점에서 선을 긋고, 도구가 어디에서 도움을 주고 어디에서 자신이 배워야 할 일을 대신하는지 묻는다는 것을 발견했습니다. 저자들은 학생–교수 대화가 부정행위를 중심으로 너무 좁게 틀 지어져 있다고 주장합니다. 그들의 진술에서 학생들은 [[transfer-of-learning|기술]]을 잃는 것과 작업이 여전히 자신의 것인지를 걱정하며, 이는 교수자들의 우려와 가깝습니다. 그들이 선을 지킨 이유도 이질적이었고(기술 손실, 소유와 자부심, 도덕적 반대), 마감, 업무량, 성적의 압박이 개별 사례에서 그것을 압도했습니다.
+- **저자성의 모호함이 사용 빈도가 아니라 약화된 책임을 예측한다.** 중국 고등학생 586명을 대상으로 한 3차례 패널에서, 인간–AI 공동 저술의 모호함이 클수록 심리적 소유감은 낮아지고 책임 분산은 커졌으며, 이는 차례로 자기보고된 생성형 AI 관련 학업 행동의 더 높은 빈도를 예측했습니다(모두 p < 0.001)([[chen-authorship-blurs-responsibility-dilutes-2026|Chen and Cheng, 2026]]).
 
 - **진정한 평가만으로는 진실성을 보장할 수 없다.** [[kofinas-generative-ai-authentic-assessment-integrity-2025|Kofinas 외 (2025)]]는 채점자가 일반적으로 생성형 AI 입력이 있는 평가와 없는 평가를 **구별할 수 없으며**, 평가의 진정성 수준이 생성형 AI 사용을 방어하거나 탐지하는 능력에 **영향을 미치지 않는다**는 것을 발견합니다. 고등교육 부문은 "생성형 AI의 영향을 통제하기 위해 진정한 평가만을 믿을 수 없습니다" — 이것은 [[authentic-assessment|평가 재설계]] 전략에 대한 직접적인 도전이며, 다른 수단들과 짝을 이루어야 합니다.
 - **진실성 지침은 [[teacher-role|교수]]뿐만 아니라 연구 과정으로까지 확장되어야 한다.** [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]]는 대학원 연구자가 연구 과제 전반에 걸쳐 [[ai-literacy|AI 리터러시]]를 실천한다는 것을 발견하고, 현재 교수와 평가에 초점을 맞추고 있는 책임 있는 사용 정책이 연구에서 생성형 AI 사용의 윤리적 차원을 [[scaffolding|비계질]]해야 한다고 주장합니다 — 거기서 우려는 표절만이 아니라 독창성, 저자권, [[privacy|데이터 프라이버시]], 숙련의 저하를 중심으로 합니다.

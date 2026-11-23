@@ -1,7 +1,7 @@
 ---
 title: 학습자 주체성
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,13 +10,17 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026, wang-consequential-human-agency-higher-education-2026]
@@ -129,6 +133,8 @@ connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-
 이 틀의 경계 조건은 **이의 제기 가능성**(AI 산출에 질문하고 교차 검증하는 능력), **출처**(훈련 자료와 산출이 어디에서 오는지를 아는 것), 그리고 **도덕적·지적 공로의 비위임**(학생의 복지, 학업적 지위, 성적에 관한 고위험 판단이 오직 AI에 의해 결정되어서는 안 됨)을 요구합니다. 이것은 교육자와 [[stakeholders|정책 입안자]]에게 인간과 인공의 기여 사이의 모호한 "균형"보다 더 정밀한 어휘를 제공하며, 주체성을 [[ethics]], [[assessment]], [[equity-in-ai-education]], [[governance]]와 연결합니다.
 
 밀접히 관련된 틀짓기는 **관계적 인식론적 주체성**입니다([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]). 그것은 주체성이 의존으로부터의 고립이 아니라 사회적으로 가능해지고 기술적으로 매개된다는 데 동의합니다. 생태적 공동 주체성 틀이 인간의 인식론적 책임을 양보할 수 없는 경계로 강조하는 곳에서, Du와 Yuan은 명시적인 *비대칭*을 유지합니다. AI 시스템은 상호 책임이나 정당한 권위를 지니지 않고서도 추론을 형성하고 확장할 수 있습니다. 그들의 여섯 가지 진단 기준 — 이의 제기 가능성, 회복 가능성, 이전, 추적 가능성, 분산된 책임, 인식론적 다원성 — 은 인간–AI 관계가 주장이 형성되고, 평가되고, 수용되는 방식에 학습자가 참여하는 능력을 보존할 때와 그것이 단순히 산출물을 전달할 때를 구별하는 실천적 시험을 제공합니다. 이 설명에서 주체성은 도구로부터의 독립이 아니라 지식을 매개하는 체계와 *함께, 그것을 통해, 그것에 맞서* 책임 있게 판단하는 능력입니다.
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]]는 판단을 결과적으로 만드는 제도적 조건 — 통지, 이해할 수 있는 이유 제시, 인간 검토, 이의 제기와 개입(override), 문서화된 책임성 — 없이는 AI 역량만으로는 부족하다고 주장하며, 주체성을 개인이 보유한 속성이 아니라 제도적 권위와의 상호작용 속에서 달성되는 것으로 다시 틀짓습니다. 대학은 구매자, 평가 권한자, 감시 사용자로서 이를 촉진하거나 제약할 수 있으며, 질문을 학습자 역량만이 아니라 판단이 AI 매개 의사결정을 바꾸는 권리와 절차로 옮깁니다.
 
 - **메커니즘이자 위험이기도 한 위임된 주체성.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]]는 AI에의 인지 작업 위임을 학습이 일어나는 방식의 일부로 다루며, 단순히 그것에 대한 위협으로 다루지 않습니다. 그들의 설명에서 보조된 수행은 학습자가 문제 구성, 기준 설정, 답변 정당화에 대한 책임을 유지할 때만 지속 가능한 역량이 되며, 그들이 위임된 주체성이라고 부르는 노동 분담입니다. 이것은 배분 자체를 설계 변수로 만듭니다. 같은 도구가 어떤 책임을 흡수하느냐에 따라 학습자 주체성을 보존할 수도 해체할 수도 있기 때문입니다.
 

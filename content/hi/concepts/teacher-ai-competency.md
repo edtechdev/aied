@@ -1,7 +1,7 @@
 ---
 title: शिक्षकों की AI योग्यता
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-20T17:35:27-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-18T10:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: qwen/qwen4-max:free
     role: translation
     date: "2026-11-20"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, educational-development, teacher-role, prompt-engineering, learning-design, scaffolding, metacognition, assessment-validity, equity-in-ai-education, ethics, self-efficacy, human-in-the-loop-ai, agency, cognitive-offloading, educational-policy-ai, ai-education, tpack, teacher-education, pedagogy]
 connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-colleague-teacher-depletion-2026, cerioli-human-centered-ai-literacy-schools-2026, wilcoxen-steiner-bell-ai-lesson-planning-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, walkington-teacher-in-loop-personalized-tasks-2026, roy-aila-lesson-planning-teacher-choices-2026, ai-misconceptions-indonesian-k12-teachers-2026, manto-ai-integration-mathematics-education-systematic-review-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, teacher-ai-literacy-professional-development-meta-2026, intelligent-tpack-pd-intervention-hongkong-2025, ailithub-ai-literacy-case-infrastructure-2026, typology-generative-ai-tools-education-2026, generative-ai-k12-teaching-learning-systematic-review-2026, pedagogy-first-technology-second-teacher-knowledge-2026, choi-teacher-ai-interaction-lesson-design-2026, preservice-teachers-responsible-genai-2026, melo-llm-classroom-observation-teach-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, genai-pd-ai-pck-learning-gain-2026, ai-tpack-teacher-multi-agent-workflow, teacher-ai-teaming-five-levels, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, teacher-ai-adoption-confidence, ai-pedagogical-orientation, ai-literacy-assessment-misalignment, quest-ai-inquiry-preservice-teachers, sangwa-epiq-ai-faculty-readiness-2026, llm-cultural-relevance-k12, institutional-change-framework-ai, teachingcoach-chatbot-instructor-guidance, laidlaw-genai-identity-crisis-faculty-2026, raffaghelli-situated-ai-ethics-2026, guillen-curriculum-genai-teacher-competence-2026, stenalt-good-education-teacher-ai-conceptions-2026, ukraine-ai-literacy-secondary-framework-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xai-teachers-trust-edtech-recommendations-2026, teacher-ai-literacy-prompt-feedback-quality-2026, vassallo-ai-guilt-complex-faculty-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, watson-rainie-ai-challenge-faculty-survey-2026, ai-integration-instructional-design-collaboratory-2026, assessing-teachers-ai-literacy-measurement-tools-2026, adaptive-ai-model-teacher-educators-2025, physics-faculty-learning-community-ai-2026, authentic-assessments-generative-ai-pilot-2026, teachers-configure-educational-chatbots-2026, capability-decision-model-teacher-readiness-2026, k12-teachers-genai-beliefs-five-countries-2026, teachers-ai-belief-profiles-talis-2024-2026, microlearning-ai-modules-vocational-teacher-education-2026, eduwild-teacher-configured-chatbots-failures-2026, chen-ai-visualization-teaching-competency-scale-2026, bursic-ai-residency-education-curriculum-2026, yuan-teacher-need-satisfaction-genai-2026, white-scandinavian-teachers-genai-attitudes-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, zhou-school-support-teacher-ai-competence-2026]
@@ -70,7 +74,7 @@ connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-
 
 - 1,405 K-12 शिक्षकों के पाँच-देश सर्वेक्षण में, AI तत्परता ने GenAI के शिक्षण मूल्य के बारे में सकारात्मक विश्वासों की भविष्यवाणी की (B = .59, R² = .50) फिर भी *अधिक* [[creativity|रचनात्मकता]] चिंता की भविष्यवाणी की (B = .18), और उन्हीं भविष्यवक्ताओं ने चिंता का केवल 7% और 6% समझाया — केवल तत्परता-निर्माण चिंता को अछूता छोड़ता है ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]])।
 
-तत्परता को तदनुसार क्रम में रखा और मापा जाना चाहिए: Capability–Decision Model प्रदर्शित AI क्षमता को अभिवृत्ति और आत्मविश्वास से ऊपर रखता है और केवल स्व-रिपोर्ट के बजाय प्रदर्शन संकेतक प्रस्तावित करता है — पाठ-योजना कार्य, त्रुटियों से युक्त प्रॉम्प्ट-मूल्यांकन कार्य, सामग्री-वैधता निर्णय और कक्षा कलाकृति रूब्रिक ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]])।
+तत्परता को तदनुसार क्रम में रखा और मापा जाना चाहिए: Capability–Decision Model प्रदर्शित AI क्षमता को अभिवृत्ति और आत्मविश्वास से ऊपर रखता है और केवल स्व-रिपोर्ट के बजाय प्रदर्शन संकेतक प्रस्तावित करता है — पाठ-योजना कार्य, त्रुटियों से युक्त प्रॉम्प्ट-मूल्यांकन कार्य, सामग्री-वैधता निर्णय और कक्षा कलाकृति [[rubrics|रूब्रिक]] ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]])।
 
 **भावनात्मक और नैतिक तत्परता एक विशिष्ट आयाम है।** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] ने एक माल्टीज़ [[higher-ed|विश्वविद्यालय]] के शैक्षणिक कर्मचारियों (109 उत्तरदाता) का सर्वेक्षण किया और चार नैतिक-भावना मदों से एक AI Guilt Index (α = 0.88) बनाया, और पाया कि उपयोग के बाद अनुभूत पश्चाताप की तुलना में *पूर्वानुमानित* अपराधबोध अधिक भारी था: सबसे मज़बूत समर्थन यह चिंता थी कि AI का उपयोग किसी की विश्वसनीयता कमजोर करता है (34.9% सहमत), फिर इसका उपयोग करते समय [[academic-integrity|धोखा]] देने जैसा महसूस होना (25.7%), जबकि उपयोग-पश्चात पश्चाताप ने केवल 9.2% प्राप्त किया। योग्यता ढाँचों के लिए महत्वपूर्ण निष्कर्ष यह हैं कि गैर-उपयोगकर्ताओं ने उपयोगकर्ताओं की तुलना में *अधिक* अपराधबोध दर्ज किया (M = 3.25 बनाम M = 2.32) और अपराधबोध करियर सुरक्षा बढ़ने के साथ घटा — प्रारंभिक-करियर शिक्षाविदों ने सर्वाधिक (M = 2.71) और वरिष्ठ शिक्षाविदों ने सबसे कम (M = 2.03) दर्ज किया। अतः भावनात्मक तत्परता कौशल या आत्मविश्वास मापों से नहीं पकड़ी जाती, और पेपर तर्क देता है कि योग्यता ढाँचों को अपराधबोध और पहचान-चिंता को सामान्य संक्रमणकालीन प्रतिक्रियाओं के रूप में मानना चाहिए, सुधारने योग्य दोष नहीं।
 

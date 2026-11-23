@@ -1,7 +1,7 @@
 ---
 title: Autonomia de quem aprende
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026, wang-consequential-human-agency-higher-education-2026]
@@ -136,6 +140,8 @@ Essa distinção entre autonomia realizada e identidade estável se aplica à re
 A condição de fronteira do framework exige **contestabilidade** (a capacidade de questionar e cruzar o resultado da IA), **procedência** (saber de onde vêm os dados de treinamento e os resultados) e **não delegação do crédito moral e intelectual** (julgamentos de alto impacto sobre o bem-estar do estudante, a situação acadêmica e as notas não devem ser determinados apenas pela IA). Isso dá a educadores e [[stakeholders|formuladores de políticas]] um vocabulário mais preciso do que o vago "equilíbrio" entre contribuições humanas e artificiais, conectando a autonomia à [[ethics|ética]], à [[assessment|avaliação]], à [[equity-in-ai-education|equidade]] e à [[governance|governança]].
 
 Um enquadramento intimamente relacionado é a **autonomia epistêmica relacional** ([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]), que concorda que a autonomia é socialmente habilitada e tecnologicamente mediada, em vez de uma questão de isolamento da dependência. Onde o Framework de Co-Agência Ecológica enfatiza a responsabilidade epistêmica humana como fronteira inegociável, Du e Yuan mantêm uma *assimetria* explícita: os sistemas de IA podem moldar e estender o raciocínio sem possuir responsabilidade recíproca nem autoridade legítima. Seus seis critérios diagnósticos — contestabilidade, recuperabilidade, transferência, rastreabilidade, responsabilidade distribuída e pluralidade epistêmica — fornecem um teste prático para quando uma relação humano–IA preserva a capacidade do estudante de participar de como as afirmações são formadas, avaliadas e aceitas, versus quando ela apenas entrega um produto. A autonomia, nessa concepção, não é independência das ferramentas, mas a capacidade de julgar responsavelmente *com, por meio de e contra* os sistemas que mediam o conhecimento.
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]] argumenta que a competência em IA é insuficiente sem condições institucionais que tornem o julgamento consequente — notificação, razões inteligíveis, revisão humana, recurso e substituição da decisão, e prestação de contas documentada — e reformula a autonomia como algo alcançado na interação com a autoridade institucional, e não detido individualmente. As universidades podem habilitá-la ou restringi-la na qualidade de compradoras, autoridades de avaliação e usuárias de vigilância, deslocando a questão da mera competência de quem aprende para os direitos e os procedimentos por meio dos quais o julgamento altera as decisões mediadas por IA.
 
 - **A autonomia delegada como mecanismo, e não apenas como risco.** [[yan-agentivism-learning-theory-ai-2026|Yan e Gašević (2026)]] tratam a delegação de trabalho cognitivo à IA como parte de como a aprendizagem acontece, e não apenas como uma ameaça a ela: em sua concepção, o desempenho assistido se torna capacidade durável apenas quando o estudante mantém a responsabilidade por formular o problema, estabelecer critérios e justificar respostas, uma divisão de trabalho que eles chamam de autonomia delegada. Isso torna a própria alocação a variável de desenho, já que a mesma ferramenta pode preservar ou dissolver a autonomia do estudante dependendo de quais responsabilidades ela absorve.
 

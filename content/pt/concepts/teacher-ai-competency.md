@@ -1,7 +1,7 @@
 ---
 title: Competência em IA do professor
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-18T10:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, educational-development, teacher-role, prompt-engineering, learning-design, scaffolding, metacognition, assessment-validity, equity-in-ai-education, ethics, self-efficacy, human-in-the-loop-ai, agency, cognitive-offloading, educational-policy-ai, ai-education, tpack, teacher-education, pedagogy]
 connected_articles: [feng-ai-literacy-psychological-dimensions-2026, ding-genai-colleague-teacher-depletion-2026, cerioli-human-centered-ai-literacy-schools-2026, wilcoxen-steiner-bell-ai-lesson-planning-2026, ussenbay-chemistry-teachers-ai-professional-development-2026, walkington-teacher-in-loop-personalized-tasks-2026, roy-aila-lesson-planning-teacher-choices-2026, ai-misconceptions-indonesian-k12-teachers-2026, manto-ai-integration-mathematics-education-systematic-review-2026, multimodal-assessment-literacy-l2-teachers-genai-2026, teacher-ai-literacy-professional-development-meta-2026, intelligent-tpack-pd-intervention-hongkong-2025, ailithub-ai-literacy-case-infrastructure-2026, typology-generative-ai-tools-education-2026, generative-ai-k12-teaching-learning-systematic-review-2026, pedagogy-first-technology-second-teacher-knowledge-2026, choi-teacher-ai-interaction-lesson-design-2026, preservice-teachers-responsible-genai-2026, melo-llm-classroom-observation-teach-2026, bondurant-shaughnessy-ai-pedagogies-practice-2026, genai-pd-ai-pck-learning-gain-2026, ai-tpack-teacher-multi-agent-workflow, teacher-ai-teaming-five-levels, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, teacher-ai-adoption-confidence, ai-pedagogical-orientation, ai-literacy-assessment-misalignment, quest-ai-inquiry-preservice-teachers, sangwa-epiq-ai-faculty-readiness-2026, llm-cultural-relevance-k12, institutional-change-framework-ai, teachingcoach-chatbot-instructor-guidance, laidlaw-genai-identity-crisis-faculty-2026, raffaghelli-situated-ai-ethics-2026, guillen-curriculum-genai-teacher-competence-2026, stenalt-good-education-teacher-ai-conceptions-2026, ukraine-ai-literacy-secondary-framework-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, xai-teachers-trust-edtech-recommendations-2026, teacher-ai-literacy-prompt-feedback-quality-2026, vassallo-ai-guilt-complex-faculty-2026, mesenhoeller-teachers-ai-differentiation-acceptance-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, watson-rainie-ai-challenge-faculty-survey-2026, ai-integration-instructional-design-collaboratory-2026, assessing-teachers-ai-literacy-measurement-tools-2026, adaptive-ai-model-teacher-educators-2025, physics-faculty-learning-community-ai-2026, authentic-assessments-generative-ai-pilot-2026, teachers-configure-educational-chatbots-2026, capability-decision-model-teacher-readiness-2026, k12-teachers-genai-beliefs-five-countries-2026, teachers-ai-belief-profiles-talis-2024-2026, microlearning-ai-modules-vocational-teacher-education-2026, eduwild-teacher-configured-chatbots-failures-2026, chen-ai-visualization-teaching-competency-scale-2026, bursic-ai-residency-education-curriculum-2026, yuan-teacher-need-satisfaction-genai-2026, white-scandinavian-teachers-genai-attitudes-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, xiong-teachers-ai-attitudes-chinese-higher-ed-2026, chen-future-faculty-development-ai-2027, ji-judgement-space-dialogic-inquiry-2027, zhou-school-support-teacher-ai-competence-2026]
@@ -62,7 +66,7 @@ A pesquisa converge em várias dimensões interconectadas:
 
 - Em uma pesquisa em cinco países com 1,405 professores da educação básica, a prontidão em IA predisse crenças positivas sobre o valor instrucional da IA generativa (B = .59, R² = .50) e ainda assim predisse *maior* preocupação com [[creativity|criatividade]] (B = .18), e os mesmos preditores explicaram apenas 7% e 6% da preocupação — construir prontidão, sozinho, deixa a preocupação intocada ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 
-A prontidão deve ser ordenada e medida de acordo: o Modelo de Capacidade–Decisão coloca a capacidade demonstrada em IA a montante da atitude e da confiança e propõe indicadores de desempenho em vez de autorrelato apenas — tarefas de desenho de aula, tarefas de avaliação de prompts semeadas com erros, julgamentos de validade de conteúdo e rubricas de artefatos de sala de aula ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+A prontidão deve ser ordenada e medida de acordo: o Modelo de Capacidade–Decisão coloca a capacidade demonstrada em IA a montante da atitude e da confiança e propõe indicadores de desempenho em vez de autorrelato apenas — tarefas de desenho de aula, tarefas de avaliação de prompts semeadas com erros, julgamentos de validade de conteúdo e [[rubrics|rubricas]] de artefatos de sala de aula ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **A prontidão emocional e moral é uma dimensão distinta.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] pesquisou o corpo acadêmico de uma [[higher-ed|universidade]] maltesa (109 respondentes) e construiu um Índice de Culpa por IA (α = 0.88) a partir de quatro itens de emoção moral, encontrando que a culpa *antecipatória* superou o remorso sentido depois do uso: o endosso mais forte foi a preocupação de que o uso de IA mina a própria credibilidade (34.9% concordando), seguido de sentir que se está [[academic-integrity|colando]] ao usá-la (25.7%), enquanto o remorso pós-uso atraiu apenas 9.2%. Os achados que importam para referenciais de competência são que os não usuários relataram culpa *maior* que os usuários (M = 3.25 vs M = 2.32) e que a culpa caiu conforme a segurança de carreira subiu — acadêmicos em início de carreira relataram a maior (M = 2.71) e os seniores a menor (M = 2.03). A prontidão emocional não é, portanto, capturada por medidas de habilidade ou confiança, e o artigo argumenta que os referenciais de competência deveriam tratar culpa e preocupação identitária como respostas transicionais normais, e não como falhas a corrigir.
 

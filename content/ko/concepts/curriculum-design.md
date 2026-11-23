@@ -1,7 +1,7 @@
 ---
 title: 교육과정 설계
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-08T00:06:30-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-16T22:52:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
 connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeling-problem-generation-platform-2026, ai-particle-physics-education-redesign-2026, ai-video-dual-gatekeeping-2026, ase-26-agentic-software-engineering-curriculum, bursic-ai-residency-education-curriculum-2026, caruana-pre-university-ai-education-slr-2026, computing-assessment-genai-workshop-report-2026, critical-media-literacy-education-2026, curriculum-as-code-instructional-design-2026, finkelstein-principled-ai-education-2025, genai-curriculum-analytics-mapping-higher-ed-2026, hingle-collaborative-ai-literacy-2025, icet-ml-education-trust-2026, ithaka-sr-ai-skills-college-graduates-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, learnai-just-in-time-ai-cocreation-university-2026, lee-ai-convergence-curriculum-korean-university-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mcinnes-salvaging-constructive-alignment-genai-2026, mechanical-engineering-ai-curriculum-2026, niri-steam-ai-literacy-review-2026, refrain-amplify-genai-curriculum-2026, reshaping-cs-education-genai, rewriting-curriculum-genai-pedagogy-2026, rodafinos-llm-curriculum-audit-2026, rook-plumb-genai-curricula-student-insights-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, tracing-genai-literacy-interaction-patterns, workforce-readiness-smart-manufacturing-wrl-2026, ying-genai-journalism-assessment-2026, zhou-constructive-alignment-genai-business-2026]
@@ -92,7 +96,7 @@ K-12 [[machine-learning|머신러닝]] 활동 설계는 표면에 머물러 있�
 
 **통합 양식을 가르는 것은 사용 빈도가 아니라 정렬의 깊이입니다.** 경영 모듈 사례 17건에서 여섯 개는 생성 AI를 교수·학습·평가 전반에 체계적으로 내장했고(구성적), 아홉 개는 일관성 없이, 두 개는 산발적으로 그렇게 했습니다. 구성적 사례들이 가장 강한 참여, 역량, 교육과정 관련성 결과를 보고했습니다([[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]]).
 
-**비판적 검토 아래 놓인 구성적 정렬 조언.** 위의 출처들이 실천에서의 정렬을 보고하는 곳에서, [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]]는 지침 자체를 하나의 담론으로 읽습니다. 2022년 11월부터 2025년 4월까지 발표된 회색 문헌 14편 — 대부분 기관 페이지와 중앙에 자리한 [[educational-development|학습·교수 부서]]의 장들 — 에 대한 [[qualitative-research|비판적 담론 분석]]은 구성적 정렬이 효율성 문제로 제시되는 것을 발견했습니다. 생성 AI는 루브릭을 작성하는 "효과적이고 효율한 방법", 과정을 "간소화하는" 것으로 의인화되어 "교육 전문가이자 조수", "스파링 파트너", "교수 설계에서의 지능형 조수"로 묘사되는 한편, 교직원은 "교과 내용 전문성"만 제공하고 도구가 "학습 목표 개발, 강좌 내용 구성 ... 및 강좌 구성요소 정렬의 중노동"을 떠맡았습니다. 복사·붙여넣기 프롬프트 요령과 번호가 매겨진 템플릿은 구성적 정렬을 표준화 가능한 산물로 규정하며 세 가지 실패 양식을 낳았습니다. 수행성(정렬된 것처럼만 보이는 정렬), 상황적·비판적 맥락의 지움, 그리고 정렬과 구성적 차원을 혼동하는 피상적 구성적 정렬입니다. 이들의 처방은 교육과정 설계 작업 흐름을 재배열합니다 — 교육자는 구성적 정렬의 어떤 부분도 위임하기 전에 그것을 지휘하고, 평가하고, 거부할 만큼 잘 이해해야 하며 — 도구는 지역 정책, 루브릭, 졸업 역량에 기반한 기관 [[rag|검색 증강]] 에이전트로 한정하고, [[educational-development|개발자]] 관계를 대체하지 않고 확장하는 "경계적 튜터" 역할을 둡니다.
+**비판적 검토 아래 놓인 구성적 정렬 조언.** 위의 출처들이 실천에서의 정렬을 보고하는 곳에서, [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]]는 지침 자체를 하나의 담론으로 읽습니다. 2022년 11월부터 2025년 4월까지 발표된 회색 문헌 14편 — 대부분 기관 페이지와 중앙에 자리한 [[educational-development|학습·교수 부서]]의 장들 — 에 대한 [[qualitative-research|비판적 담론 분석]]은 구성적 정렬이 효율성 문제로 제시되는 것을 발견했습니다. 생성 AI는 [[rubrics|루브릭]]을 작성하는 "효과적이고 효율한 방법", 과정을 "간소화하는" 것으로 의인화되어 "교육 전문가이자 조수", "스파링 파트너", "교수 설계에서의 지능형 조수"로 묘사되는 한편, 교직원은 "교과 내용 전문성"만 제공하고 도구가 "학습 목표 개발, 강좌 내용 구성 ... 및 강좌 구성요소 정렬의 중노동"을 떠맡았습니다. 복사·붙여넣기 프롬프트 요령과 번호가 매겨진 템플릿은 구성적 정렬을 표준화 가능한 산물로 규정하며 세 가지 실패 양식을 낳았습니다. 수행성(정렬된 것처럼만 보이는 정렬), 상황적·비판적 맥락의 지움, 그리고 정렬과 구성적 차원을 혼동하는 피상적 구성적 정렬입니다. 이들의 처방은 교육과정 설계 작업 흐름을 재배열합니다 — 교육자는 구성적 정렬의 어떤 부분도 위임하기 전에 그것을 지휘하고, 평가하고, 거부할 만큼 잘 이해해야 하며 — 도구는 지역 정책, 루브릭, 졸업 역량에 기반한 기관 [[rag|검색 증강]] 에이전트로 한정하고, [[educational-development|개발자]] 관계를 대체하지 않고 확장하는 "경계적 튜터" 역할을 둡니다.
 
 **교육과정에 정렬된 모델링 과제 생성.** AI 기반 플랫폼은 설계 원칙과 [[rag|검색 증강]] 생성에 기반한 교육과정 정렬 문제와 교수법적 권고를 생성함으로써, 양질의 [[math-education|수학적 모델링]] 과제 설계에 필요한 교사의 시간과 자원 부족을 해결할 수 있습니다. 이 접근은 중등 학교 수학의 정비례 사례로 제시되었습니다([[ai-modeling-problem-generation-platform-2026]]). 강의 읽을거리 자체도 이제 생성 대상입니다. Sidorkin (2026)은 대학원 교육 리더십 강좌에서 상업 교과서를 매주 AI 생성 읽을거리로 대체했고, 학생들은 유용하다고 평가했으며 75%가 비교 가능한 다른 강좌보다 더 많이 배웠다고 동의했으나, 4,487쪽의 기록에서 APA 형식의 인용이 실린 쪽은 약 0.80%에 불과했고, 확인 가능한 출처 없이 단정적인 정책 주장을 캠퍼스나 시스템 이름과 짝지은 쪽은 약 1.03%였습니다. 교육과정 자료에 대한 교훈은 생성된 읽을거리를 교수 검토 아래의 초안 생산물로 다루고, 프롬프트 설계와 검증의 교수 노동을 예산에 반영하며, 출처 품질을 학생이 맥락에서 추론하도록 두지 않고 검증된 출처를 조수에게 큐레이팅하는 것입니다.
 
@@ -100,9 +104,11 @@ K-12 [[machine-learning|머신러닝]] 활동 설계는 표면에 머물러 있�
 
 구조가 — 프롬프트 문구가 아니라 — AI 초안 작성을 실제 운영에서 신뢰할 만하게 만드는 것입니다. [[curriculum-as-code-instructional-design-2026|Paiva (2026)]]의 Curriculum-as-Code 파이프라인은 맥락을 적극적으로 가지치기하고 28개 프로젝트 맥락에서 자료를 절차별로 생성하여, 교수의 준비 시간을 지시당 약 8시간에서 2시간으로 줄였고 [[human-in-the-loop-ai|사람이 검토해]] 잡아낼 개념적·수학적 [[hallucination-risk|환각]]을 남기지 않았습니다.
 
+[[lee-ai-convergence-curriculum-korean-university-2026|Lee, Ha & Lee (2026)]]는 표집 강좌가 아니라 교육과정 전체를 조사하여, 명시적으로 AI를 규정한 강좌(1.5%)와 이미 AI를 전제하고 있는 잠재 후보(11.7%)를 구별했습니다. 이는 프로그램 수준의 재설계 논증이 보통 측정 없이 단언하는 명세화 격차에 대한 정량화입니다.
+
 ## 관련 개념과의 연결
 
-교육과정 설계는 [[learning-design]]과 직접 연결됩니다. 교육과정은 무엇을, 수업은 어떻게를 규정하기 때문입니다. AI 역량의 내장이 교육과정의 주요 과제이므로 [[ai-literacy]], 교육과정 변경이 교육자 준비를 요구하므로 [[teacher-role]]과 [[educational-development]], 잘 설계된 교육과정이 강좌와 여러 해에 걸쳐 기술 발달을 뒷받침하므로 [[scaffolding]]과 연결됩니다. [[higher-ed]]와 [[k-12]] 연결은 교육과정 설계가 여러 교육 수준에 걸쳐 관련됨을 반영합니다.
+교육과정 설계는 [[learning-design]]과 직접 연결됩니다. 교육과정은 무엇을, 수업은 어떻게를 규정하기 때문입니다. AI 역량의 내장이 교육과정의 주요 과제이므로 [[ai-literacy]], 교육과정 변경이 교육자 준비를 요구하므로 [[teacher-role]]과 [[educational-development]], 잘 설계된 교육과정이 강좌와 여러 해에 걸쳐 기술 발달을 뒷받침하므로 [[scaffolding]]과 연결됩니다. [[higher-ed]]와 [[k-12]] 연결은 교육과정 설계가 여러 교육 수준에 걸쳐 관련됨을 반영합니다. 프로그램 수준에서 그것은 [[learning-environments-as-systems|학습 환경으로서의 시스템]]이 강좌, 기관, 정책과 상호작용하는 것으로 다루는 수준들 가운데 하나입니다.
 
 **하나의 AI 리터러시 프레임워크를 고르는 것은 아무도 상호 대조하지 않은 어휘를 고르는 일입니다.** K-12 프레임워크 50개에 대한 범위 검토에서 [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach 등(2026)]]은 역량 정의가 인지적, 정의적, 행동적, 윤리적, 사회적 차원으로 수렴하는 반면 라벨과 구성개념은 정렬되지 않았음을 발견했습니다. ABCE 프레임워크만이 홍콩, 상하이, 대만에서 검증된 공유 측정 전통에 가까웠고, 학년 간 진전은 반복해서 제안되었으나 어디에서도 시험되지 않았습니다.
 

@@ -1,7 +1,7 @@
 ---
 title: 课程设计
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-18T03:05:19-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-16T22:52:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
 connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeling-problem-generation-platform-2026, ai-particle-physics-education-redesign-2026, ai-video-dual-gatekeeping-2026, ase-26-agentic-software-engineering-curriculum, bursic-ai-residency-education-curriculum-2026, caruana-pre-university-ai-education-slr-2026, computing-assessment-genai-workshop-report-2026, critical-media-literacy-education-2026, curriculum-as-code-instructional-design-2026, finkelstein-principled-ai-education-2025, genai-curriculum-analytics-mapping-higher-ed-2026, hingle-collaborative-ai-literacy-2025, icet-ml-education-trust-2026, ithaka-sr-ai-skills-college-graduates-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, learnai-just-in-time-ai-cocreation-university-2026, lee-ai-convergence-curriculum-korean-university-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mcinnes-salvaging-constructive-alignment-genai-2026, mechanical-engineering-ai-curriculum-2026, niri-steam-ai-literacy-review-2026, refrain-amplify-genai-curriculum-2026, reshaping-cs-education-genai, rewriting-curriculum-genai-pedagogy-2026, rodafinos-llm-curriculum-audit-2026, rook-plumb-genai-curricula-student-insights-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, tracing-genai-literacy-interaction-patterns, workforce-readiness-smart-manufacturing-wrl-2026, ying-genai-journalism-assessment-2026, zhou-constructive-alignment-genai-business-2026]
@@ -96,7 +100,7 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 
 **区分整合模式的是对齐的深度，而非使用的频率。** 在 17 个商科模块案例中，六个把 GenAI 系统地嵌进教学、学习与评估（建构式），九个做得不一致（混合式），两个是零星地做（临时式）；建构式案例报告了最强的投入度、能力与课程相关性结果（[[zhou-constructive-alignment-genai-business-2026|Zhou et al.（2026）]]）。
 
-**批判审视下的建构式对齐建议。** 在上文来源报告实践中对齐之处，[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al.（2026）]] 把这份指引本身读作一种话语。他们对 2022 年 11 月至 2025 年 4 月间发表的 14 篇灰色文献做的 [[qualitative-research|批判话语分析]]——多为机构页面与处于中心位置的 [[educational-development|学习与教学单位]]的章节——发现建构式对齐被呈现为一个效率问题：生成式 AI 是"一种起草评分标准的有效而高效的方式"，可以"简化流程"，被拟人化为"一位教育专家与助手"、"陪练伙伴"或"教学设计中的智能助手"，而学术人员只提供"学科内容专长"，由工具承担"制定学习目标、组织课程内容……并对齐课程各组成部分的重活"。复制粘贴式的提示配方与编号模板，把建构式对齐框定为一个可标准化的产品，产出三种失效模式：表演性（只是看起来对齐的对齐）、情境性与批判性语境的抹除，以及把对齐与建构维度混为一谈的浅层建构式对齐。他们的补救把课程设计的工作流重新排序——教育者必须把建构式对齐理解得足够好，才能指挥、评估并拒绝 AI 的输出，然后才把任何一部分委派出去——并把任何工具限定在一个以本地政策、评分标准与毕业生素质为依据的机构 [[rag|检索增强]]智能体上，配以"阈限辅导者"的角色，延伸而非取代 [[educational-development|开发者]]关系。
+**批判审视下的建构式对齐建议。** 在上文来源报告实践中对齐之处，[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al.（2026）]] 把这份指引本身读作一种话语。他们对 2022 年 11 月至 2025 年 4 月间发表的 14 篇灰色文献做的 [[qualitative-research|批判话语分析]]——多为机构页面与处于中心位置的 [[educational-development|学习与教学单位]]的章节——发现建构式对齐被呈现为一个效率问题：生成式 AI 是"一种起草[[rubrics|评分标准]]的有效而高效的方式"，可以"简化流程"，被拟人化为"一位教育专家与助手"、"陪练伙伴"或"教学设计中的智能助手"，而学术人员只提供"学科内容专长"，由工具承担"制定学习目标、组织课程内容……并对齐课程各组成部分的重活"。复制粘贴式的提示配方与编号模板，把建构式对齐框定为一个可标准化的产品，产出三种失效模式：表演性（只是看起来对齐的对齐）、情境性与批判性语境的抹除，以及把对齐与建构维度混为一谈的浅层建构式对齐。他们的补救把课程设计的工作流重新排序——教育者必须把建构式对齐理解得足够好，才能指挥、评估并拒绝 AI 的输出，然后才把任何一部分委派出去——并把任何工具限定在一个以本地政策、评分标准与毕业生素质为依据的机构 [[rag|检索增强]]智能体上，配以"阈限辅导者"的角色，延伸而非取代 [[educational-development|开发者]]关系。
 
 **生成与课程对齐的建模任务。** AI 驱动的平台可以应对教师缺少时间与资源来设计高质量 [[math-education|数学建模]]任务的困境，生成与课程对齐的问题和扎根于设计原则与 [[rag|检索增强]]生成的教学建议——该方法以中学数学中的正比例关系为例做了说明（[[ai-modeling-problem-generation-platform-2026]]）。课程阅读材料本身如今也成了生成对象：Sidorkin（2026）在一门研究生教育领导力课程中用每周生成的 AI 阅读材料取代了商业教材，尽管学生把它们评为有用，且 75% 的人同意自己比在一门可比课程中学到更多，但 4,487 页的日志中只有约 0.80% 的页面带有 APA 风格的文内引用，且约 1.03% 的页面在把具名的校区或系统与断言式的政策主张配对时没有可验证的来源。课程材料的教训是，把生成的阅读材料当作在教师审阅下的草稿生产，为教师设计提示与验证的劳动做预算，并把经过审查的来源 curate 进助手，而不是把来源质量留给学生从语境中推断。
 
@@ -104,9 +108,11 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 
 在生产中让 AI 起草变得可靠的是结构，而非提示措辞：[[curriculum-as-code-instructional-design-2026|Paiva（2026）]] 的 Curriculum-as-Code 管线激进地剪除上下文，并逐节地生成材料，横跨 28 个项目情境，把教师的备课时间从每份教案约八小时降到两小时，且没有留下概念或数学上的[[hallucination-risk|幻觉]]需要[[human-in-the-loop-ai|人工]]来捕捉。
 
+[[lee-ai-convergence-curriculum-korean-university-2026|Lee、Ha 与 Lee（2026）]] 普查了整个课程而非抽样课程，把明确表达 AI 的课程（1.5%）与已经隐含假设 AI 的潜在候选课程（11.7%）区分开来，量化了项目层面的重设计论证通常断言却未加测量的表达缺口。
+
 ## 与相关概念的联系
 
-课程设计直接与 [[learning-design]] 相连——课程定义教什么，教学定义如何教。它与 [[ai-literacy]] 相连，因为内嵌 AI 胜任力是一个首要的课程挑战；与 [[teacher-role]] 和 [[educational-development]] 相连，因为课程变革需要教育者做好准备；与 [[scaffolding]] 相连，因为设计良好的课程会在课程与年份之间支架化技能的发展。与 [[higher-ed]] 和 [[k-12]] 的联系，反映了课程设计在各教育层级上的相关性。
+课程设计直接与 [[learning-design]] 相连——课程定义教什么，教学定义如何教。它与 [[ai-literacy]] 相连，因为内嵌 AI 胜任力是一个首要的课程挑战；与 [[teacher-role]] 和 [[educational-development]] 相连，因为课程变革需要教育者做好准备；与 [[scaffolding]] 相连，因为设计良好的课程会在课程与年份之间支架化技能的发展。与 [[higher-ed]] 和 [[k-12]] 的联系，反映了课程设计在各教育层级上的相关性。在项目层面，它是[[learning-environments-as-systems|作为系统的学习环境]]所处理的层次之一，与课程、机构与政策相互作用。
 
 **选择一种 AI 素养框架，也就选择了一套没有人做过对照的词汇。** 在一项对 50 个 K-12 框架的范围综述中，[[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach 等（2026）]]发现能力定义在认知、情感、行为、伦理与社会维度上趋于一致，而标签与构念并不对齐。只有 ABCE 框架接近一种共享的测量传统，并在香港、上海与台湾得到验证；而跨年级的进阶被反复提出，却无处被检验。
 

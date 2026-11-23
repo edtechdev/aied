@@ -1,7 +1,7 @@
 ---
 title: 이론과 틀
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,13 +9,17 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,6 +70,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## 교수, 통합, 도입의 틀
 
 - **[[tpack|TPACK]]** — 기술, 교수법, 내용을 혼합하는 교사 지식이며, 교사 대상 AI 연구의 기본 틀입니다.
+- **[[bloom-taxonomy|Bloom의 분류학(Bloom's Taxonomy)]]** — 과제가 요구하는 인지적 수준을 가리키는 공동 어휘로, 문항을 코딩할 때와 배열할 때 모두 쓰입니다. 교육에서의 AI에서는 설계의 문제인 만큼 측정의 문제이기도 합니다.
 - **[[technology-acceptance-model|수용 모형]]** — 지각된 유용성과 사용 용이성의 함수로서의 의도. 이 분야가 행동이 아니라 의도에 의존하는 것이 오래된 비판이 될 만큼 널리 쓰입니다.
 - **기대일치 모형(ECM)** — 만족을 사전 기대와의 일치로 보며, 결과를 최초 도입이 아니라 지속 사용으로 둡니다. 학부생 24명이 참여한 한 학기 사회학 방법론 파일럿에서 87%가 Copilot을 좋음 또는 매우 좋음으로 평가했고 91%가 추천하겠다고 했으나, 계속 사용할 의향은 57%뿐이었습니다([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). 이 간극이 모형의 요점입니다. 만족한 사용자도 다시 돌아오기를 거부할 수 있으므로, 만족과 지속 사용에는 별도의 측정이 필요합니다.
 - **[[icap-framework|ICAP]]** — 참여를 수동적·능동적·구성적·상호작용적으로 위계화하며, 한 [[student-ai-interaction|AI 상호작용]]이 실제로 어떤 방식을 제공하는지를 묻는 데 유용합니다.
@@ -105,7 +110,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## 관련 층위
 
-두 이웃 페이지는 의도적으로 다른 무언가에 관한 것입니다. [[philosophy-of-ai-in-education|교육에서의 AI의 철학]]은 규범적·개념적 질문, 즉 교육이 *무엇을 위한* 것인지, 기계가 가르칠 수 있는지를 묻으며, 효과크기를 예측하지 않습니다. 한 연구는 철학적으로 순진하면서도 이론적으로 건전할 수 있고, 그 반대도 가능합니다. [[theory-development-aied|이론 개발]]은 이론을 세우고, 빌리고, 개정하는 메타 활동으로, [[ai-education|AIED]] 작업의 상당수가 기존 이론을 검정하기보다 적용한다는 오래된 비판을 포함합니다. 이 페이지는 목록이고, 이론 개발은 그 목록을 생산하고 개정하는 일에 관한 것입니다.
+두 이웃 페이지는 의도적으로 다른 무언가에 관한 것입니다. [[philosophy-of-ai-in-education|교육에서의 AI의 철학]]은 규범적·개념적 질문, 즉 교육이 *무엇을 위한* 것인지, 기계가 가르칠 수 있는지를 묻으며, 효과크기를 예측하지 않습니다. 한 연구는 철학적으로 순진하면서도 이론적으로 건전할 수 있고, 그 반대도 가능합니다. [[theory-development-aied|이론 개발]]은 이론을 세우고, 빌리고, 개정하는 메타 활동으로, [[ai-education|AIED]] 작업의 상당수가 기존 이론을 검정하기보다 적용한다는 오래된 비판을 포함합니다. 이 페이지는 목록이고, 이론 개발은 그 목록을 생산하고 개정하는 일에 관한 것입니다. [[learning-environments-as-systems|학습 환경으로서의 시스템]]은 세 번째 이웃입니다. 그것은 학습의 이론이 아니며 효과크기를 예측하지도 않지만, 분석 단위에 관한 태도입니다. 학습 환경은 부분이 상호작용하는 다층적 시스템이므로, 한 연구가 측정하는 수준은 표집의 편의가 아니라 이론적 결정입니다.
 
 ## 질문이 실천적일 때 렌즈를 고르기
 

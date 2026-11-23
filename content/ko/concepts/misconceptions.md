@@ -1,7 +1,7 @@
 ---
 title: AI에 대한 오개념
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## 들어가며
 
-AI에 대한 오개념이 중요한 이유는, 그것이 지식 기반이 [[cognitive-offloading|과잉 의존]]과 [[academic-integrity|학문적 진실성]] 문제 아래에 기록한 유해한 행동들의 인지적 전단계이기 때문입니다. 사람들이 의도적으로 [[ai-misuse-learning-harm|오용]]을 저지르는 경우는 드뭅니다. 부정확한 정신 모형이 신뢰를 잘못 배치하게 하고, 검증을 건너뛰게 하며, 산출물을 이해로 착각하게 만들기 때문에 그렇게 됩니다. 교육에서 이런 오류는 학생이 어떻게 공부하는지부터 교사와 기관이 교육과정, [[assessment|평가]], 정책을 어떻게 설계하는지까지 모든 것을 형성합니다.
+AI에 대한 오개념이 중요한 이유는, 그것이 지식 기반이 [[cognitive-offloading|과잉 의존]]과 [[academic-integrity|학문적 진실성]] 문제 아래에 기록한 유해한 행동들의 인지적 전단계이기 때문입니다. 사람들이 의도적으로 [[ai-misuse-learning-harm|오용]]을 저지르는 경우는 드뭅니다. 부정확한 정신 모형이 신뢰를 잘못 배치하게 하고, 검증을 건너뛰게 하며, 산출물을 이해로 착각하게 만들기 때문에 그렇게 됩니다. 교육에서 이런 오류는 학생이 어떻게 공부하는지부터 교사와 기관이 교육과정, [[assessment|평가]], 정책을 어떻게 설계하는지까지 모든 것을 형성합니다. 그런 오개념을 산출해 내는 틀 짓기를 의문에 붙이는 별도의 작업 무리가 있습니다. 자세한 내용은 [[critiques-of-ai-in-education|교육에서의 AI에 대한 비판]]을 보십시오.
 
 ## AI 오개념이란 무엇인가
 

@@ -1,20 +1,24 @@
 ---
 title: 교육에서의 AI의 철학
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T23:52:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,13 +39,14 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## 들어가며
 
-이것은 [[ai-education|교육에서의 AI]]의 철학적·이론적 토대를 위한 개념 페이지입니다. [[learning-theories]]가 경험적·설계 지향적인 이론들([[behaviorism]], [[constructivist|구성주의]], [[cognitive-offloading|인지 부하]], [[self-regulated-learning|자기조절 학습]] 등)을 문서화하는 반면, 철학 갈래는 그 이론들이 전제하는 존재론적·인식론적·윤리적 질문에 관여합니다. 둘은 밀접히 연결되어 있습니다. 철학적 입장은 어떤 학습 이론이 그럴듯해 보이고 어떤 교육 목표가 추구할 만한지를 형성하기 때문입니다.
+이것은 [[ai-education|교육에서의 AI]]의 철학적·이론적 토대를 위한 개념 페이지입니다. [[learning-theories]]가 경험적·설계 지향적인 이론들([[behaviorism]], [[constructivist|구성주의]], [[cognitive-offloading|인지 부하]], [[self-regulated-learning|자기조절 학습]] 등)을 문서화하는 반면, 철학 갈래는 그 이론들이 전제하는 존재론적·인식론적·윤리적 질문에 관여합니다. 둘은 밀접히 연결되어 있습니다. 철학적 입장은 어떤 학습 이론이 그럴듯해 보이고 어떤 교육 목표가 추구할 만한지를 형성하기 때문입니다. 그 작업의 규범적 갈래, 즉 교육에서의 AI가 교육을 어떤 것으로 바꾸고 있는지에 관한 논증은 [[critiques-of-ai-in-education|교육에서의 AI에 대한 비판]]에 모아져 있습니다.
 
 ## 주요 철학적 질문
 
 - **마음과 인지의 본성.** 사유는 의식과 몸을 필요로 합니까? AI가 진정으로 인지적 과정에 참여할 수 있습니까? **앙상블 인지** 같은 틀은 AI가 의식 없이도 *기능적 자율성*, 즉 인지 과정에서의 진정한 인과적 효능을 행사하며, 사유가 동적인 인간–[[student-ai-interaction|AI 상호작용]]에서 떠오른다고 주장합니다.([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|분산 인지]]와 확장된 마음 논제는 인지가 시스템에 걸쳐 퍼져 있다는 관련 주장을 펼칩니다.
 - **학습자는 무엇인가?** 포스트휴머니스트 철학은 학습자를 [[biology-education|생물학적]]·인공적 시스템에 걸쳐 인지 과정이 진정으로 혼합적이고 분산된 "포스트휴먼" 존재로 재개념화합니다.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) 이것은 학습자가 경계 지어지고 자율적인 개인의 마음이라는 가정에 도전합니다.
 - **구현화와 탈신체 AI의 한계.** [[embodied-learning|구현화]] 및 후인지주의 철학은 상징적·탈신체적 AI 모형의 지배를 비판하며, 인지가 현재의 [[generative-ai|생성형 AI]]가 결여한 상황성, 창발, 감각운동적 결합에 뿌리를 둔다고 주장합니다.([[videla-embodied-ai-education-choreography]])
+- **자동화는 단절이 아니라 연속.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross and Aros (2026)]]는 인공지능이 학습을 정보 처리로, 교수를 전달로 보는 인지주의적·교수 중심 모형을 확장하기 때문에 학교 교육에 들어맞는다고 주장합니다. 따라서 교육을 자동화하는 것은 의미와 책임이 떠오르는 구현되고 관계적인 조건에서 학습을 추상화하는 존재론적 환상입니다.
 
 - **기계적 마음의 시험 사례로서의 정서 노동.** AI가 가르칠 수 있는지에 관한 이 분야의 논증은 흔히 그것이 *돌볼* 수 있는지로 귀결되는데, 이 질문은 [[affective-computing|정동 컴퓨팅]]이 존재하기 훨씬 전부터 논의되었습니다. [[khan-machines-emotional-labor-education-2026|Khan (2026)]]은 1950–1996년의 논쟁을 재구성합니다. 그 논쟁에서 살아 있는 존재만이 문자 그대로 감정을 가질 수 있다는 Ziff의 주장에는 Smart의 동일론과 Putnam의 행동적 준거가 응답되었고, 세 가지 경쟁하는 존재론이 미해결로 남았습니다. 그의 결론은 불가능성 주장이 아니라 정당화의 부담입니다. 즉 표상, 시뮬레이션, 모방은 정서 노동을 충분히 결정하지 못하며, 이는 돌봄의 일을 시스템에 위임하려는 누구에게나 그 부담이 놓인다는 뜻입니다.
 
@@ -70,7 +75,7 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 **교수자를 위해**
 
-- 도구를 도입하기 전에 학생 자신의 성취로 무엇을 인정할지 결정하십시오. 시스템이 만든 매끄러운 제출물이 여러분의 평가를 만족시킨다면, 여러분은 "아무것도"라고 답한 것이며, 이후의 어떤 루브릭 변경도 그 질문을 되찾지 못합니다.
+- 도구를 도입하기 전에 학생 자신의 성취로 무엇을 인정할지 결정하십시오. 시스템이 만든 매끄러운 제출물이 여러분의 평가를 만족시킨다면, 여러분은 "아무것도"라고 답한 것이며, 이후의 어떤 [[rubrics|루브릭]] 변경도 그 질문을 되찾지 못합니다.
 - 과제를 설계할 때 봉쇄 논증을 진지하게 다루십시오. 작업을 제공하는 생성형 AI가 사고를 단지 오프로딩하는 것이 아니라 봉쇄한다면 "책임 있게 쓰라"는 충분한 안전장치가 아닙니다. 주변의 장이 산출물에 보상을 주기 때문입니다. 사고의 증거가 도구를 쓰기 전에 생산되는 과제를 설계하십시오.
 - 여러분의 강좌가 누구의 학습 개념을 인코딩하는지 물으십시오. 틀을 비판 없이 도입하면 학습자가 무엇인지에 관한 그 가정을 함께 들여오며, 그 가정들은 논쟁의 대상입니다.
 

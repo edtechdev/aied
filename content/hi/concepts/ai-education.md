@@ -1,7 +1,7 @@
 ---
 title: "शिक्षा में AI"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -81,7 +85,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## शिक्षा में AI की नींव
 
-क्षेत्र की सर्व-व्यापी और आधारभूत अवधारणाएँ ज्ञानकोष के कवरेज को स्थिर करती हैं और साइडबार में पहले दिखाई देती हैं। वे एक **आवश्यकताएँ** समूह के साथ खुलती हैं — वे अवधारणाएँ जिनसे हर पाठक शुरू करना चाहिए: छत्र स्वयं, [[misconceptions|AI के बारे में गलतफहमियाँ]], [[ai-literacy|AI साक्षरता]], [[agentic-ai|एजेंटिक AI]], [[cognitive-offloading|संज्ञानात्मक ऑफलोडिंग]], [[framing-ai-use-for-students|AI उपयोग छात्रों के लिए कैसे फ्रेम किया जाता है]], [[reducing-ai-misuse|AI दुरुपयोग में कमी]], [[academic-integrity|शैक्षणिक ईमानदारी]], [[teacher-role|शिक्षण]], [[learning-design|सीखने का डिज़ाइन]] और [[educational-development|शैक्षणिक विकास]]। **क्षेत्र** धाग तब [[history-of-aied|क्षेत्र का इतिहास]], [[limitations-in-aied-research|साक्ष्य आधार की सर्व-व्यापी सीमाएँ]], [[philosophy-of-ai-in-education|इसका दर्शन]], [[theories-and-frameworks|सिद्धांत और ढाँचे]] नक्शा, और [[theory-development-aied|सिद्धांत विकास]] को कवर करता है। सर्व-व्यापी विषय — [[human-ai-collaboration|मानव–AI सहयोग]], [[agency|शिक्षार्थी एजेंसी]], [[learner-identity|शिक्षार्थी पहचान]], [[design-thinking|डिज़ाइन सोच]], [[curriculum-design|पाठ्यक्रम डिज़ाइन]], [[critical-thinking|महत्वपूर्ण सोच]] और [[computational-thinking|कम्प्यूटेशनल सोच]] — हर धाग में कटती हैं, क्योंकि लोग AI के बारे में रखते हैं वे गलत मानसिक मॉडल [[ai-misuse-learning-harm|दुरुपयोग]] और कम-अंशांकित [[trust-calibration|विश्वास]] के अपस्ट्रीम हैं।
+क्षेत्र की सर्व-व्यापी और आधारभूत अवधारणाएँ ज्ञानकोष के कवरेज को स्थिर करती हैं और साइडबार में पहले दिखाई देती हैं। वे एक **आवश्यकताएँ** समूह के साथ खुलती हैं — वे अवधारणाएँ जिनसे हर पाठक शुरू करना चाहिए: छत्र स्वयं, [[misconceptions|AI के बारे में गलतफहमियाँ]], [[ai-literacy|AI साक्षरता]], [[agentic-ai|एजेंटिक AI]], [[cognitive-offloading|संज्ञानात्मक ऑफलोडिंग]], [[framing-ai-use-for-students|AI उपयोग छात्रों के लिए कैसे फ्रेम किया जाता है]], [[reducing-ai-misuse|AI दुरुपयोग में कमी]], [[academic-integrity|शैक्षणिक ईमानदारी]], [[teacher-role|शिक्षण]], [[learning-design|सीखने का डिज़ाइन]] और [[educational-development|शैक्षणिक विकास]]। **क्षेत्र** धाग तब [[history-of-aied|क्षेत्र का इतिहास]], [[limitations-in-aied-research|साक्ष्य आधार की सर्व-व्यापी सीमाएँ]], [[philosophy-of-ai-in-education|इसका दर्शन]], [[theories-and-frameworks|सिद्धांत और ढाँचे]] नक्शा, और [[theory-development-aied|सिद्धांत विकास]], और [[learning-environments-as-systems|सीखने के वातावरण एक प्रणाली के रूप में]] को कवर करता है, जो सीखने के वातावरण को ऐसी बहु-स्तरीय प्रणाली मानता है जिसके घटक आपस में प्रभाव डालते हैं। सर्व-व्यापी विषय — [[human-ai-collaboration|मानव–AI सहयोग]], [[agency|शिक्षार्थी एजेंसी]], [[learner-identity|शिक्षार्थी पहचान]], [[design-thinking|डिज़ाइन सोच]], [[curriculum-design|पाठ्यक्रम डिज़ाइन]], [[critical-thinking|महत्वपूर्ण सोच]] और [[computational-thinking|कम्प्यूटेशनल सोच]] — हर धाग में कटती हैं, क्योंकि लोग AI के बारे में रखते हैं वे गलत मानसिक मॉडल [[ai-misuse-learning-harm|दुरुपयोग]] और कम-अंशांकित [[trust-calibration|विश्वास]] के अपस्ट्रीम हैं।
 
 ## सीखना और निर्देश
 
@@ -126,7 +130,7 @@ AI शिक्षण और सीखने का समर्थन कैस
 
 AI यह दोनों बदलता है कि हम शिक्षार्थियों का आकलन कैसे करते हैं और AI प्रणालियों का स्वयं मूल्यांकन कैसे करते हैं:
 
-- **मूल्यांकन और प्रतिक्रिया:** [[assessment]], [[formative-assessment|रचनात्मक मूल्यांकन]], [[summative-assessment|संक्षिप्त मूल्यांकन]], [[authentic-assessment|प्रामाणिक मूल्यांकन]], [[eportfolio|ई-पोर्टफोलियो]], [[feedback]] और [[feedback-literacy|प्रतिक्रिया साक्षरता]], [[ai-feedback-quality|AI प्रतिक्रिया गुणवत्ता]], [[peer-assessment|सहकर्मी मूल्यांकन]], [[oral-assessment|मौखिक मूल्यांकन]], [[automated-assessment|स्वचालित मूल्यांकन]], [[automated-essay-scoring|स्वचालित निबंध स्कोरिंग]] और [[automated-question-generation|स्वचालित प्रश्न निर्माण]]। क्योंकि एक मॉडल अब मांग पर संभावित पूर्ण काम पैदा कर सकता है, ज्ञानकोष उस क्षमता को सामने रखता है जो शिक्षार्थी की अपनी बनी रहती है: [[evaluative-judgment|मूल्यांकनकारी निर्णय]], अपने काम, सहकर्मियों के काम और AI आउटपुट की गुणवत्ता का तर्कित मानदंडों के विरुद्ध आकलन करने की क्षमता। यह वह निर्माण है जिस पर कई प्रतिक्रिया और प्रामाणिक-मूल्यांकन अध्यायन अभिसरित होते हैं — एक बहु-स्थल प्रयोग में संकर प्रतिक्रिया परिस्थिति सीधे AI प्रतिक्रिया को हराना, AI रचनात्मक प्रतिक्रिया में स्थिरता अंतराल, और छात्रों द्वारा किए गए निर्णयों का आकलन करने का व्यावहारिक कदम न कि केवल कलात्मक उत्पाद — और यह AI-युग पुनर्डिज़ाइन के एक मूल कारण में से एक है कि [[ai-detection|पहचान]] से उन कार्यों की ओर बदलाव जिनकी ईमानदारी निरीक्षण से बचती है। [[group-work|समूह काम]] का आकलन इसी तरह प्रक्रिया और उत्पाद दोनों के साथ किया जाता है, जहाँ टीमों को यह बातचीत करनी चाहिए कि किसका और किस प्रकार का AI जुड़ाव स्वीकार्य गिना जाता है।
+- **मूल्यांकन और प्रतिक्रिया:** [[assessment]], [[formative-assessment|रचनात्मक मूल्यांकन]], [[summative-assessment|संक्षिप्त मूल्यांकन]], [[authentic-assessment|प्रामाणिक मूल्यांकन]], [[eportfolio|ई-पोर्टफोलियो]], [[feedback]] और [[feedback-literacy|प्रतिक्रिया साक्षरता]], [[ai-feedback-quality|AI प्रतिक्रिया गुणवत्ता]], [[peer-assessment|सहकर्मी मूल्यांकन]], [[oral-assessment|मौखिक मूल्यांकन]], [[automated-assessment|स्वचालित मूल्यांकन]], [[automated-essay-scoring|स्वचालित निबंध स्कोरिंग]] और [[automated-question-generation|स्वचालित प्रश्न निर्माण]], और [[rubrics|रुब्रिक]]। रुब्रिक वह साधन है जो मानदंडों को ले जाता है: घोषित आयाम और स्तर-वर्णन जो किसी कार्य की पठनीयता को पुनरुत्पादित बनाते हैं, और वह विशिष्टता जिसे मॉडल पढ़कर अंक देता है। क्योंकि एक मॉडल अब मांग पर संभावित पूर्ण काम पैदा कर सकता है, ज्ञानकोष उस क्षमता को सामने रखता है जो शिक्षार्थी की अपनी बनी रहती है: [[evaluative-judgment|मूल्यांकनकारी निर्णय]], अपने काम, सहकर्मियों के काम और AI आउटपुट की गुणवत्ता का तर्कित मानदंडों के विरुद्ध आकलन करने की क्षमता। यह वह निर्माण है जिस पर कई प्रतिक्रिया और प्रामाणिक-मूल्यांकन अध्यायन अभिसरित होते हैं — एक बहु-स्थल प्रयोग में संकर प्रतिक्रिया परिस्थिति सीधे AI प्रतिक्रिया को हराना, AI रचनात्मक प्रतिक्रिया में स्थिरता अंतराल, और छात्रों द्वारा किए गए निर्णयों का आकलन करने का व्यावहारिक कदम न कि केवल कलात्मक उत्पाद — और यह AI-युग पुनर्डिज़ाइन के एक मूल कारण में से एक है कि [[ai-detection|पहचान]] से उन कार्यों की ओर बदलाव जिनकी ईमानदारी निरीक्षण से बचती है। [[group-work|समूह काम]] का आकलन इसी तरह प्रक्रिया और उत्पाद दोनों के साथ किया जाता है, जहाँ टीमों को यह बातचीत करनी चाहिए कि किसका और किस प्रकार का AI जुड़ाव स्वीकार्य गिना जाता है।
 - **माप और वैधता:** [[assessment-validity|मूल्यांकन वैधता]], [[psychometrically-aware-ai|मनोमितीय रूप से जागरूक AI]], [[educational-measurement|शैक्षिक माप]], [[item-response-theory|वस्तु प्रतिक्रिया सिद्धांत]], [[self-report-measures|स्व-रिपोर्ट माप]] (इस साक्ष्य के एक बड़े हिस्से के पीछे का उपकरण, और एक आवर्ती सीमा), [[ai-detection|AI पहचान]], [[remote-proctoring|रिमोट प्रॉक्टरिंग]] और [[academic-integrity|शैक्षणिक ईमानदारी]]।
 
 ## शोध विधियाँ और मूल्यांकन

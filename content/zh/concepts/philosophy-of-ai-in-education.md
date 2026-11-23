@@ -1,14 +1,14 @@
 ---
 title: 教育中的 AI 哲学
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-18T03:20:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -39,13 +43,14 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## 引言
 
-这是[[ai-education|教育中的 AI]]之哲学与理论基础的概念页面。[[learning-theories]]记录的是经验性和面向设计的理论（[[behaviorism]]、[[constructivist|建构主义]]、[[cognitive-offloading|认知负荷]]、[[self-regulated-learning|自我调节学习]]等），而哲学这一支则介入这些理论所预设的本体论、认识论和伦理问题。两者紧密相连：哲学立场塑造哪些学习理论看似合理、哪些教育目标值得追求。
+这是[[ai-education|教育中的 AI]]之哲学与理论基础的概念页面。[[learning-theories]]记录的是经验性和面向设计的理论（[[behaviorism]]、[[constructivist|建构主义]]、[[cognitive-offloading|认知负荷]]、[[self-regulated-learning|自我调节学习]]等），而哲学这一支则介入这些理论所预设的本体论、认识论和伦理问题。两者紧密相连：哲学立场塑造哪些学习理论看似合理、哪些教育目标值得追求。那项工作中的规范一支——关于 AI 教育正在把教育变成什么的论证——汇集于[[critiques-of-ai-in-education|对教育中 AI 的批判]]。
 
 ## 关键哲学问题
 
 - **心智与认知的本性。** 思维需要意识和身体吗？AI 能参与真正的认知过程吗？诸如**集合认知**这样的框架论证，AI 行使*功能能动性*——在认知过程中的真实因果效能——而无意识，且思维产生于动态的人—[[student-ai-interaction|AI 互动]]。（[[ensemble-cognition-philosophy-ai-education]]）[[distributed-cognition|分布式认知]]与延展心智论题对认知分布于系统之上提出了相关主张。
 - **什么是学习者？** 后人类主义哲学把学习者重新概念化为一个"后人类"实体，其认知过程真正混合，分布于[[biology-education|生物]]系统与人工系统之上。（[[elsayed-pedagogical-symbiosis-posthuman-learner]]）这挑战了"学习者是一个有边界的、自主的个体心智"这一假设。
 - **具身性与无身 AI 的限度。** [[embodied-learning|具身的]]与后认知主义哲学批判符号性的、无身的 AI 模型的主导地位，论证认知植根于情境性、涌现与感觉运动耦合，而当前的[[generative-ai|生成式 AI]]缺乏这些。（[[videla-embodied-ai-education-choreography]]）
+- **自动化是连续，而非断裂。** [[videla-why-education-cannot-be-automated-2026|Videla、Ross 与 Aros（2026）]] 主张，人工智能之所以契合学校教育，是因为它延伸了一种认知主义与教学主义模型——该模型把学习当作信息处理、把教学当作传递；因此，把教育自动化是一种本体论幻觉，把学习从意义与责任得以发生的具身的、关系性的条件中抽象了出来。
 
 - **情感劳动作为机器心智的检验案例。**该领域关于 AI 能否教学的争论，常常归结为它能否*关怀*，而这个问题早在[[affective-computing|情感计算]]出现之前就已被辩论。[[khan-machines-emotional-labor-education-2026|Khan（2026）]]重构了 1950–1996 年的争论：Ziff 主张只有活着的生物才能字面地拥有感受，Smart 的身份理论与 Putnam 的行为判据对此作出回应，留下三种相互竞争的本体论而未决。他的结论是一项辩护负担，而不是一项不可能性主张——再现、模拟与模仿不足以确定情感劳动——这把负担放在了任何想把育人工作委托给系统的人身上。
 
@@ -74,7 +79,7 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 **对教师**
 
-- 在采用一个工具之前，先决定你愿意把什么算作学生自己的成就。如果一个由系统产出的光鲜提交就能满足你的评估，你已经回答了"什么都没有"，而事后修改量规也追不回这个问题。
+- 在采用一个工具之前，先决定你愿意把什么算作学生自己的成就。如果一个由系统产出的光鲜提交就能满足你的评估，你已经回答了"什么都没有"，而事后修改[[rubrics|量规]]也追不回这个问题。
 - 设计任务时认真对待预阻论证：如果提供现成工作的 GenAI 是预阻思维而不仅是外包思维，那么"负责任地使用"就不是充分的保障，因为周围的场域奖励产出。要设计那种在工具可用之前就产出思维证据的任务。
 - 追问你的课程编码了谁的学习观。不加批判地采用一个框架，就输入了它关于学习者是什么的假设，而那些假设是可争议的。
 

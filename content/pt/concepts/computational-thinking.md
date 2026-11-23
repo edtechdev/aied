@@ -1,7 +1,7 @@
 ---
 title: Pensamento computacional
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -57,7 +61,17 @@ Competências duráveis se deslocam quando a implementação é automatizada: um
 - A escolha da medida muda o veredito: as entradas sobre pensamento computacional e pensamento crítico alcançaram conclusões discordantes ou mistas em 13 de 23 pares do mesmo construto, de modo que um questionário de autorrelato de PC e uma medida baseada em tarefas frequentemente discordam ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 - O pensamento computacional também é medido como uma disposição: em um estudo de três semanas com jogos no 5º ano, as tendências de PC autorrelatadas ajustadas favoreceram a turma com GenAI, 4.325 contra 4.037 (p = .046, eta-quadrado parcial = .052, n = 78). Um teste de conhecimento algorítmico não as separou (80.7 vs 74.9), de modo que as medidas de tendência e de conhecimento rastrearam construtos diferentes ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
-Perfis de sub-habilidades complicam a nota única de PC que um desenho pré-pós relata. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij e Khlaisang (2026)]] acompanharam 28 graduandos tailandeses de fora da computação por oito semanas de sessões de três horas que combinavam um ciclo de cinco etapas de [[design-thinking|design thinking]] com a construção de aplicativos low-code, pontuando o trabalho de projeto em uma rubrica de três pontos. O pensamento computacional médio subiu de 1.13 na primeira sessão para 1.80 e depois 2.49, com o pensamento algorítmico como a vertente mais forte, em 2.08, e uma trajetória de 1.46 a 1.93 a 2.86. O pensamento lógico teve média de 1.54 e mal se moveu entre as duas primeiras sessões, de 1.04 a 1.29, antes de alcançar 2.29 na terceira — um lembrete de que ganhos em um componente não implicam que os outros o acompanharam.
+Perfis de sub-habilidades complicam a nota única de PC que um desenho pré-pós relata. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij e Khlaisang (2026)]] acompanharam 28 graduandos tailandeses de fora da computação por oito semanas de sessões de três horas que combinavam um ciclo de cinco etapas de [[design-thinking|design thinking]] com a construção de aplicativos low-code, pontuando o trabalho de projeto em uma [[rubrics|rubrica]] de três pontos. O pensamento computacional médio subiu de 1.13 na primeira sessão para 1.80 e depois 2.49, com o pensamento algorítmico como a vertente mais forte, em 2.08, e uma trajetória de 1.46 a 1.93 a 2.86. O pensamento lógico teve média de 1.54 e mal se moveu entre as duas primeiras sessões, de 1.04 a 1.29, antes de alcançar 2.29 na terceira — um lembrete de que ganhos em um componente não implicam que os outros o acompanharam.
+
+## Pensamento sistêmico como prática de PC
+
+O pensamento sistêmico é um dos quatro domínios da taxonomia de pensamento computacional para matemática e ciências desenvolvida por Weintrop e colegas, ao lado das Práticas de Dados, das Práticas de Resolução de Problemas Computacionais e das Práticas de Modelagem e Simulação. Sua definição é precisa: **a capacidade de definir limites de sistema e sintetizar interações de nível micro em comportamento de nível macro**. Essa é uma capacidade cognitiva no nível de quem aprende — um modo de raciocinar sobre um sistema — e é distinta da postura no nível do ambiente de tratar um ambiente de aprendizagem como um sistema ([[learning-environments-as-systems|ambientes de aprendizagem como sistemas]]).
+
+É também o domínio em que a avaliação primeiro se desfaz. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch e Rebello (2026)]] codificaram as explicações escritas de 936 estudantes em um curso introdutório de física computacional segundo a taxonomia, calibrando uma linha de base humana em 10 estudantes (60 respostas, κ de Fleiss = 0,53) e depois codificando 50 estudantes (300 respostas) por voto majoritário. Os estudantes mais cresceram nas Práticas de Dados (p < 0,001, d = 1,03), com ganhos moderados em Resolução de Problemas Computacionais (d = 0,52) e Pensamento Sistêmico (d = 0,45). Mas o Pensamento Sistêmico foi o construto menos confiável, tanto para humanos quanto para modelos: concordância humana κ = 0,51 e κ do LLM = 0,48, contra κ = 0,90 para Práticas de Dados e κ = 0,78 para Modelagem e Simulação. A leitura dos autores é que a dificuldade vem da complexidade do construto, e não de deficiência do modelo — um construto multicomponente que pede ao estudante que identifique componentes *e* explique suas interações e consequências é mais difícil de codificar do que um construto bem definido. Modelagem e Simulação mostrou d = 0,00 por uma razão alheia, um efeito de teto: a média pré-instrução já era 1,62 em 2, de modo que o item mediu conhecimento prévio, e não crescimento.
+
+A implicação prática é um problema de desenho de rubricas, não um problema de modelo. A recomendação deles é reescrever a rubrica para que identificar componentes do sistema seja pontuado separadamente de explicar como esses componentes interagem, e ler a baixa concordância automatizada em um construto integrado como sinal para revisar o instrumento, e não para abandonar a automação. Esse é o mesmo movimento que a pesquisa de [[rubrics|rubricas]] alcança pelo lado da pontuação: o instrumento, e não o modelo, é o que calibra.
+
+O construto viaja além da física. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz e Castro Samayoa (2026)]] nomeiam o pensamento sistêmico como uma das capacidades que Aoun chama de *à prova de robôs* — pensamento crítico, pensamento sistêmico e agilidade cultural —, aquelas que a prática constrói e a delegação não. [[huang-ai-literacy-vocational-problem-solving-2026|Huang e colegas (2026)]] delimitam seu próprio construto de "pensamento sistemático" em contraste com ele, tratando o deles como uma medida estreita de quatro dimensões (estruturar, raciocinar, priorizar, integrar) e recusando-se explicitamente a chamá-lo de pensamento sistêmico no sentido amplo. E [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea e Valencia-Silva (2026)]] alertam que engajamento não é pensamento sistêmico — uma distinção que importa quando uma rubrica é usada para certificar uma competência que não foi escrita para medir.
 
 ## O PC e a passagem de consumidores de IA a produtores, criadores e designers
 

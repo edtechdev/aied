@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: IA agêntica
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-13T18:20:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -80,7 +84,7 @@ A [[research-methods-aied|pesquisa]] da base de conhecimento abrange desenho e a
 - **Aplicações por domínio:** sistemas agênticos aparecem em vários domínios, incluindo [[learnmate2-llm-adaptive-learning|agentes de aprendizagem adaptativa]], [[educlaw-bench-pedagogical-llm-agents-2026|agentes pedagógicos de LLM]], [[guided-llm-scaffolding-independent-learning|andaimento por LLM guiado]], [[cyberagents-gamified-cybersecurity-learning-2026|agentes gamificados de aprendizagem em segurança cibernética]], e [[hdr-brachytherapy-agentic-ai-simulation-2026|agentes de simulação clínica]].
 - **Agentes web como avaliadores da experiência de aprendizagem:** um agente web autônomo "descritivo" que navega por uma [[learning-design|lição]] on-line como um estudante — [[ai-web-agents-lesson-design-2025|Wang, Mitchell e Piech (2025)]] — produz uma descrição rica o bastante para prever a evasão de estudantes e dar ao desenhista um feedback acionável antes que estudantes reais se engajem, superando uma coorte simulada completa e todas as linhas de base em um curso global de CS1. Isso posiciona a avaliação agêntica (um agente como crítico substituto de uma experiência de aprendizagem) como um uso distinto e de baixo custo da IA agêntica, ao lado dos agentes que ensinam ou desenham.
 
-- **A marcação agêntica é uma questão de confiabilidade antes de ser uma questão de carga de trabalho.** Uma implantação agêntica do Claude Code recebeu três arquivos de rubrica e 60 provas manuscritas digitalizadas de meio de semestre de um curso de computação gráfica. Suas notas concordaram com o instrutor em r = 0.97, com erro absoluto médio de 0.85 em uma prova de 20 pontos, viés médio positivo de 0.68 em favor da IA e ICC de teste-reteste = 0.96 em duas sessões com uma semana de intervalo. O agregado esconde onde ela falha: o kappa ponderado variou de 0.98 em múltipla escolha a 0.65 em itens avaliativos, com diagramas desenhados à mão como o pior caso ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Um curso, um instrutor e um conjunto de rubricas localizam a variância; eles não estabelecem que a marcação agêntica generaliza.
+- **A marcação agêntica é uma questão de confiabilidade antes de ser uma questão de carga de trabalho.** Uma implantação agêntica do Claude Code recebeu três [[rubrics|arquivos de rubrica]] e 60 provas manuscritas digitalizadas de meio de semestre de um curso de computação gráfica. Suas notas concordaram com o instrutor em r = 0.97, com erro absoluto médio de 0.85 em uma prova de 20 pontos, viés médio positivo de 0.68 em favor da IA e ICC de teste-reteste = 0.96 em duas sessões com uma semana de intervalo. O agregado esconde onde ela falha: o kappa ponderado variou de 0.98 em múltipla escolha a 0.65 em itens avaliativos, com diagramas desenhados à mão como o pior caso ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Um curso, um instrutor e um conjunto de rubricas localizam a variância; eles não estabelecem que a marcação agêntica generaliza.
 
 As arquiteturas agênticas compram cobertura a um custo mensurável em precisão. No parâmetro de referência de [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] com 926 amostras de anúncios de emprego e 1,696 habilidades de referência, um agente ReAct com uma ferramenta de consulta ao ESCO liderou a revocação ampliada com 89.7%, contra 83.7% da melhor configuração generativa e 49.1% do melhor modelo de embeddings. Sua precisão foi de 22.7%, deixando o F1 em 36.3%, abaixo de um Gemini 2.5 Flash ancorado em ferramentas, com 51.6%, e rodou em cerca de 16 segundos por amostra. A revocação é a métrica certa quando um consultor humano poda a lista; o produto não mediado precisa da alternativa ancorada.
 
@@ -146,6 +150,8 @@ A IA agêntica impõe ameaças de integridade distintivas que vão além dos cas
 
 Isso conecta a discussão da IA agêntica à cobertura de [[academic-integrity|integridade acadêmica]] da base de conhecimento, que enquadra a resposta como redesenho da avaliação e [[ai-literacy|letramento em IA]], e não apenas detecção.
 
+- **O artefato de controle também pode ser escrito por agentes.** [[pinto-student-ownership-ai-agents-code-2026|Pinto et al. (2026)]] pediram a 18 pares de estudantes que construíssem sistemas sob desenvolvimento orientado por especificação e descobriram que os agentes escreveram 69% das especificações destinadas a manter os estudantes no controle, às vezes a partir de poucas palavras de prompt, de modo que a especificação que deveria certificar quem aprende era ela própria escrita por um agente.
+
 ## Atrito produtivo e interação social
 
 Nem todo comportamento agêntico precisa ser assistência suave. A [[ai-agents-constructive-conflict-design-education-2026|pesquisa sobre agentes de desenho adversarial]] mostra que agentes que encenam **conflito construtivo** estimularam significativamente mais iterações de desenho, exploração mais ampla de alternativas e desenhos finais mais bem avaliados entre desenhistas de interação novatos (N=48) — uma dinâmica de *atrito produtivo*, em que o agente de conflito era frustrante, mas ao final útil. Isso se conecta ao [[socratic-method|questionamento socrático]] e ao [[design-thinking|design thinking]], e ilustra como a IA agêntica pode apoiar uma reconsideração profunda em vez da aceitação passiva.
@@ -164,6 +170,8 @@ Para professores, corpo docente e [[learning-design|designers instrucionais]], a
 - **Construir o [[ai-literacy|letramento em IA]] do professor.** Professores e desenhistas precisam de modelos mentais precisos da IA agêntica para configurar, monitorar e criticar esses sistemas — e para modelar o uso responsável para quem aprende. Isso se liga à [[teacher-ai-competency|competência em IA do professor]] e ao [[educational-development|desenvolvimento docente]].
 - **Ficar atento à equidade.** As ferramentas agênticas arriscam ampliar lacunas se o acesso é desigual ou se a automação corrói o apoio aos que mais precisam; desenhe com a [[equity-in-ai-education|equidade]] em mente.
 - **Erguer o andaimento institucional antes de escalar.** A questão da implantação não é apenas de nível de desenho, mas de nível institucional. A síntese de [[baradziej-agentic-ai-higher-education-2026|Baradziej (2026)]] condensa a evidência de governança em três pilares: desenvolver o [[ai-literacy|letramento em IA]] entre estudantes *e* servidores; construir infraestrutura [[ethics|ética]] (políticas de proteção de dados, frameworks de responsabilização algorítmica e de integridade acadêmica) *antes* da implantação em grande escala; e oferecer [[educational-development|formação de educadores]] baseada em competências que vá além da familiarização com ferramentas, rumo a frameworks pedagógicos que preservam a autonomia humana. Dado que apenas ~6,5% do corpo docente em alguns contextos nacionais relata uso direto de IA, a lacuna de formação é uma restrição vinculante sobre a adoção responsável.
+
+- **Meçar onde as pessoas traçam a linha de delegação.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang e Nedungadi (2026)]] conduziram um experimento randomizado de escolha comportamental com 290 professores universitários: 92% delegaram a redação de questões, mas apenas 20% liberaram um quiz para a plataforma sem supervisão, e só 5% escolheram a publicação automática. Configurações somente-rascunho e com portão de aprovação foram preferidas, de modo que a fronteira está nas ações irreversíveis da plataforma, e não na geração de conteúdo.
 
 ### Técnicas para assegurar a integridade acadêmica com a IA agêntica
 

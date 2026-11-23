@@ -1,7 +1,7 @@
 ---
 title: 컴퓨팅 사고
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,13 +9,17 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -53,7 +57,17 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 - 측정 선택이 판정을 바꿉니다: 컴퓨팅 사고와 비판적 사고 항목은 같은 구인을 다룬 23쌍 중 13쌍에서 불일치하거나 혼합된 결론에 이르렀으므로, 자기보고 CT 설문과 과제 기반 측정은 종종 서로 어긋납니다([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan 등(2026)]]).
 - 컴퓨팅 사고는 성향으로도 측정됩니다: 3주간의 5학년 게임 연구에서, 조정된 자기보고 CT 성향은 GenAI 학급 쪽으로 기울었습니다(4.325 대 4.037, p = .046, 부분 에타 제곱 = .052, n = 78). 알고리즘 지식 검사는 두 학급을 구분하지 못했으므로(80.7 대 74.9), 성향 측정과 지식 측정은 서로 다른 구인을 추적한 것입니다([[zhou-genai-contextual-games-computational-thinking-2026|Zhou 등, 2026]]).
 
-하위 기술 프로파일은 사전-사후 설계가 보고하는 단일 CT 점수를 복잡하게 만듭니다. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij과 Khlaisang(2026)]]은 컴퓨팅 전공이 아닌 태국 학부생 28명을 대상으로, 5단계 [[design-thinking|디자인 사고]] 순환과 로우코드 앱 구축을 짝지은 3시간 세션을 8주에 걸쳐 진행하고, 프로젝트 작업을 3점 루브릭으로 채점했습니다. 평균 컴퓨팅 사고는 첫 세션의 1.13에서 1.80, 이어서 2.49로 올랐으며, 알고리즘적 사고가 2.08로 가장 강한 가닥이었고 1.46에서 1.93, 2.86으로 이어지는 궤적을 보였습니다. 논리적 사고는 평균 1.54였고 첫 두 세션 사이에서는 1.04에서 1.29로 거의 움직이지 않다가 세 번째 세션에서 2.29에 도달했습니다 — 한 구성 요소의 이득이 다른 구성 요소도 뒤따랐음을 뜻하지는 않는다는 점을 일깨워 줍니다.
+하위 기술 프로파일은 사전-사후 설계가 보고하는 단일 CT 점수를 복잡하게 만듭니다. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij과 Khlaisang(2026)]]은 컴퓨팅 전공이 아닌 태국 학부생 28명을 대상으로, 5단계 [[design-thinking|디자인 사고]] 순환과 로우코드 앱 구축을 짝지은 3시간 세션을 8주에 걸쳐 진행하고, 프로젝트 작업을 3점 [[rubrics|루브릭]]으로 채점했습니다. 평균 컴퓨팅 사고는 첫 세션의 1.13에서 1.80, 이어서 2.49로 올랐으며, 알고리즘적 사고가 2.08로 가장 강한 가닥이었고 1.46에서 1.93, 2.86으로 이어지는 궤적을 보였습니다. 논리적 사고는 평균 1.54였고 첫 두 세션 사이에서는 1.04에서 1.29로 거의 움직이지 않다가 세 번째 세션에서 2.29에 도달했습니다 — 한 구성 요소의 이득이 다른 구성 요소도 뒤따랐음을 뜻하지는 않는다는 점을 일깨워 줍니다.
+
+## 시스템 사고를 CT 실천으로
+
+시스템 사고는 Weintrop과 동료들이 개발한 수학·과학을 위한 컴퓨팅 사고 분류학의 네 영역 가운데 하나로, 데이터 실천(Data Practices), 컴퓨팅적 문제 해결 실천(Computational Problem-Solving Practices), 모형화와 시뮬레이션 실천(Modeling and Simulation Practices)과 나란히 있습니다. 그 정의는 정확합니다. **시스템의 경계를 정의하고, 미시적 상호작용을 거시적 행위로 종합하는 능력**입니다. 이는 학습자 수준의 인지적 역량, 즉 시스템에 관해 추론하는 방식이며, 학습 환경 자체를 시스템으로 다루는 환경 수준의 태도([[learning-environments-as-systems|학습 환경으로서의 시스템]])와는 구별됩니다.
+
+평가가 가장 먼저 물러나는 영역이기도 합니다. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch and Rebello (2026)]]는 도입 컴퓨팅 물리 강좌에서 936명 학생이 쓴 설명을 그 분류학에 비추어 부호화했습니다. 10명 학생(60개 응답, Fleiss' κ = 0.53)으로 인간 기저선을 보정한 뒤, 50명 학생(300개 응답)을 다수결로 부호화했습니다. 학생들은 데이터 실천에서 가장 크게 성장했고(p < 0.001, d = 1.03), 컴퓨팅적 문제 해결(d = 0.52)과 시스템 사고(d = 0.45)에서 중간 정도의 이득을 냈습니다. 그러나 시스템 사고는 인간과 모형 *양쪽* 모두에게 가장 신뢰되지 않는 구성개념이었습니다. 인간 합의 κ = 0.51, LLM κ = 0.48인 반면, 데이터 실천은 κ = 0.90, 모형화와 시뮬레이션은 κ = 0.78이었습니다. 저자들의 해석은 그 어려움이 모형의 결함이 아니라 구성개념의 복잡성에서 비롯된다는 것입니다. 구성요소를 식별하게 *하고* 그것들의 상호작용과 결과를 설명하게 요구하는 다성분 구성개념은 정의가 잘 된 구성개념보다 부호화하기 어렵기 때문입니다. 모형화와 시뮬레이션이 d = 0.00을 보인 것은 무관한 이유, 즉 천장 효과 때문이었습니다. 지시 전 평균이 이미 2점 만점에 1.62여서 그 문항은 성장이 아니라 기초 지식을 측정했습니다.
+
+실천적 함의는 모형의 문제가 아니라 루브릭 설계의 문제입니다. 그들의 권고는 시스템 구성요소 식별을 그 구성요소들이 상호작용하는 방식에 대한 설명과 따로 채점하도록 루브릭을 다시 쓰고, 통합적 구성개념에 대한 자동화 합의가 낮다는 것을 자동화를 포기할 신호가 아니라 도구를 수정할 신호로 읽는 것입니다. 이는 [[rubrics|루브릭]] 연구가 채점 측면에서 도달하는 것과 같은 이동입니다. 교정하는 것은 모형이 아니라 도구입니다.
+
+그 구성개념은 물리학을 넘어 이동합니다. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]]는 시스템 사고를 Aoun이 *로봇 불가침(robot-proof)* 이라 부르는 역량 — 비판적 사고, 시스템 사고, 문화적 민첩성 — 가운데 하나로 이름 붙입니다. 이것들은 실천이 기르는 것이고 위임이 기를 수 없는 것들입니다. [[huang-ai-literacy-vocational-problem-solving-2026|Huang and colleagues (2026)]]는 자신들의 "systematic thinking" 구성개념을 그것과 구별하여, 구조화·추론·우선순위·통합의 네 차원으로 된 좁은 측정으로 다루고, 넓은 의미의 시스템 사고라고 부르는 것을 명시적으로 거절합니다. 그리고 [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea and Valencia-Silva (2026)]]는 참여가 시스템 사고가 아니라고 경고합니다 — 루브릭이 본래 측정하려 쓴 역량이 아닌 것을 인증하는 데 쓰일 때 중요한 구별입니다.
 
 ## AI 소비자로부터 생산자, 창작자, 설계자로의 전환과 CT
 

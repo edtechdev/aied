@@ -1,7 +1,7 @@
 ---
 title: 认知外包
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-16T09:06:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, agency, critical-thinking, creativity, distributed-cognition, embodied-learning, generative-ai, metacognition, online-teaching-and-learning, prompt-engineering, scaffolding, self-directed-learning, self-regulated-learning, trust-calibration, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function, critiques-of-ai-in-education]
 connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, riva-cognitive-capital-generative-ai-review-2026, pradubwate-illusion-ai-competence-miscalibration-2026, akcaoglu-offloading-ladder-experience-2026, ai-proof-learning-cognitive-offloading-2026, llm-math-homework-offloading-traces-2026, genai-support-threaten-learning-k20-expert-consensus-2026, shastry-gray-empathy-offloading-2026, rented-self-decoupling-performance-becoming-2026, caeai-ai-scaffolding-inquiry-profiles-middle-school-2026, liu-ai-assistance-reduces-persistence-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, yan-cognitive-outsourcing-genai-assessments-2026, family-school-autonomy-support-genai-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, thermomix-genai-education-analogy-2026, cognitive-washout-ai-skill-decay-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, layer-sensitive-cognitive-offloading-writing-2026, du-yuan-epistemic-dependence-2026, seung-basham-cognitive-offloading-swld-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, metacognitive-training-optimal-cognitive-offloading-2026, critical-thinking-paradox-genai-learning-2026, cognitive-offloading-speedup-illusion, misiejuk-cognitive-offloading-prompting-2026, shaw-nave-cognitive-surrender-2026, young-people-learning-generative-ai-rapid-review-2026, ai-making-us-stupid, brcic-effortless-trap-productive-struggle-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, stromberg-generative-ai-learning-penalty-secondary-2026, coach-not-crutch-ai-writing, making-ai-tutoring-productive-mastery-math-2026, cognitive-commons-ai-expertise-regeneration, pause-ai-cognitive-offloading-self-reflection-2026, chatgpt-writing-cognitive-impact-2026, student-cognitive-offloading-ai-higher-ed-2026, metacognitive-feedback-anti-deskilling-offloading-2026, chatgpt-programming-performance-retention-ownership-2026, davor-ai-supported-learning-higher-order-outcomes-2026, ren-metacognitive-awareness-genai-reliance-2026, shojaei-genai-dependence-critical-thinking-employability-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, braun-cognitive-dormancy-ai-affordances-2026, yahya-generative-ai-inquiry-based-learning-review-2026, fan-metacognitive-offloading-sync-model-2026, zhang-usefulness-dependence-genai-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, ayasrah-executive-function-learning-difficulties-scale-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, ho-invariant-core-faculty-development-2027, su-genai-dependence-academic-performance-adolescents-2026, habit-over-intention-genai-help-seeking-engineering-2026, performance-without-capability-genai-assessment-validity-2026, motivational-gain-trumping-cognitive-offloading-2026, bubnys-sustainable-ai-reflective-learning-2026, chi-ai-dependence-academic-procrastination-2026]
@@ -47,7 +51,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 ## 引言
 
-认知外包本身并无害处 —— 人类一直借助外部工具（笔记本、计算器、搜索引擎）来降低认知负荷。AI 中介的外包之所以不同，在于其全面性：[[llm|大语言模型（LLM）]]能生成完整的解答、解释和分析，可能彻底消除产生学习所必需的认知过程。
+认知外包本身并无害处 —— 人类一直借助外部工具（笔记本、计算器、搜索引擎）来降低认知负荷。AI 中介的外包之所以不同，在于其全面性：[[llm|大语言模型（LLM）]]能生成完整的解答、解释和分析，可能彻底消除产生学习所必需的认知过程。这一风险是更广泛的[[critiques-of-ai-in-education|对教育中 AI 的批判]]中的一条线索。
 
 ### 认知外包在 AIED 研究中的表现
 
@@ -56,7 +60,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 - **提示模式作为外包的痕迹：** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk 等（2026）]]运用共现[[network-analysis|网络分析]]表明，反应式提示（缺少领域背景的质疑）指示更高的外包程度，而嵌入指令、富含背景的提示则反映了投入的认知。AI 使用的*方式* —— 而不只是是否使用 —— 决定了外包的程度。
 - **提示量并不能识别被外包的是什么：**[[cognitive-offloading-llm-synthesis-writing|Poquet 等（2026）]]按提示量把 97 名学习者聚类，发现各提示量聚类在局部对全局、主动角色提示上并无显著差异：同样的提示量既描述了有方向的委派（12.9 条提示，36% 为主动），也描述了几乎没有方向（4% 为主动）。
-- **自然情境下消息级的大规模证据 —— 外包是被观察到的，而非被假定的：** [[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia 等（2026）]]使用 GPT-4o-mini（强制附带思维链推理）编码了来自一所欧洲大学 46 名本科生、横跨七周备考窗口的 3,047 条[[conversational-ai|ChatGPT]]消息，并在一名受过训练的人工评定者身上以 200 条消息验证了该流水线（问题类型的 Cohen's κ = 0.76，布鲁姆层级为 0.75）。在该分布中居首的是 Analyze，占 27.28%（831 条），其后是 Understand 的 23.76%，这是首份细粒度证据，表明自然情境下的[[student-ai-interaction|学生–AI 使用]]常规地瞄准的是更高阶的工作，而非记忆。一个包含 16 名学生、其 1,140 条消息被人工编码的子样本（附有成绩数据），提供了提示级痕迹无法提供的东西：125 段对话中有 49.6% 未出现外包，34.4% 为轻度、16.0% 为重度；该量表把*重度*保留给 AI 生成初稿并构建核心智力成果的情形。重度外包压倒性地是一种 Create 现象（20 段重度对话中的 80%，全部 Create 对话中的 42%），作者据此认为外包程度与布鲁姆层级是值得分别测量的两个维度。成绩模式仅具描述性 —— 顶层为 17.6%，中间层 17.5%，底层 5.9%（χ² = 5.80，df = 4，p = 0.215）—— 且部分依赖于一名以编程为主的学生，将其剔除后顶层比例降至 8.9%，因此作者主张学科对委派习惯的塑造强于成绩，并建议对实际使用模式提供[[metacognition|元认知]]反馈，而非加以禁止。
+- **自然情境下消息级的大规模证据 —— 外包是被观察到的，而非被假定的：** [[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia 等（2026）]]使用 GPT-4o-mini（强制附带思维链推理）编码了来自一所欧洲大学 46 名本科生、横跨七周备考窗口的 3,047 条[[conversational-ai|ChatGPT]]消息，并在一名受过训练的人工评定者身上以 200 条消息验证了该流水线（问题类型的 Cohen's κ = 0.76，布鲁姆层级为 0.75）。在该分布中居首的是 Analyze，占 27.28%（831 条），其后是 Understand 的 23.76%，这是首份细粒度证据，表明自然情境下的[[student-ai-interaction|学生–AI 使用]]常规地瞄准的是更高阶的工作，而非记忆。一个包含 16 名学生、其 1,140 条消息被人工编码的子样本（附有成绩数据），提供了提示级痕迹无法提供的东西：125 段对话中有 49.6% 未出现外包，34.4% 为轻度、16.0% 为重度；按[[rubrics|一份量表]]，其中*重度*保留给 AI 生成初稿并构建核心智力成果的情形。重度外包压倒性地是一种 Create 现象（20 段重度对话中的 80%，全部 Create 对话中的 42%），作者据此认为外包程度与布鲁姆层级是值得分别测量的两个维度。成绩模式仅具描述性 —— 顶层为 17.6%，中间层 17.5%，底层 5.9%（χ² = 5.80，df = 4，p = 0.215）—— 且部分依赖于一名以编程为主的学生，将其剔除后顶层比例降至 8.9%，因此作者主张学科对委派习惯的塑造强于成绩，并建议对实际使用模式提供[[metacognition|元认知]]反馈，而非加以禁止。
 
 - **加速错觉：** [[cognitive-offloading-speedup-illusion|关于加速错觉的研究]]表明，AI 辅助的工作*感觉*更快、更轻松，造成一种具有误导性的高效印象，掩盖了学习上的减损。学生把任务完成的速度与学习混为一谈，这是一种元认知盲区。
 
@@ -133,15 +137,23 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 本页所追踪的阶梯有三级，其中只有前两级属于这里。**外包**是把心智工作委派出去，这往往是有成效的；**过度依赖**是长期地、不经校准地这样做，这是本节所记录的行为失败；**[[cognitive-surrender|认知投降]]**是另一种失败 —— 评价性的一步从未发生，学习者未经对质量的任何判断便采纳了 AI 的答案。这一边界从 AI 被要求提供什么上可见：[[du-yuan-epistemic-dependence-2026|Du 与 Yuan]]的*工具性*辅助产生输出，而*承载判断的*辅助提供据以判断输出的标准，正是后一种排挤了专长所依赖的工作。[[young-people-learning-generative-ai-rapid-review-2026|Sydney 快速综述]]在 271 篇论文上得出了同样的三分法。因此投降有其自身的实验特征和自身页面；过度依赖仍是频率与校准问题，二者是同一任务中可分离的结果 —— 在[[shaw-nave-cognitive-surrender-2026|Shaw 与 Nave]]的试验中，73.2% 的 AI 错误试验以投降告终，19.7% 以策略性外包告终。
 **越过外包的下一步，是外包调节器。** [[fan-metacognitive-offloading-sync-model-2026]]重述 Risko 与 Gilbert 的序列——激活关于工具的信念、对照它判断自身能力、选择策略、从结果重新校准——并把这种失败命名为*元认知*外包：循环被跳过、策略评价被交给 AI，或流畅的成功使下一轮委派产生偏误。他们的对应术语是元认知装载，即让学习者对目标、监控与策略判断负责的脚手架。两者都落在表现与持久学习两条轴上，因此产出质量的上升不再算作关于学习者的证据。该框架是概念性的，未经检验。
 
+[[performance-without-capability-genai-assessment-validity-2026|Kearney（2026）]] 提供了评估一侧的补充：当与学习相关的思考责任已经转移到工具上、而过程没有变得可见时，外包最为危险——该框架把这种情形称为认知替代（cognitive substitute），因为制品被能干地生产出来，而证据中没有任何东西表明能力已经消失。
+
 **撤回调节器会提高外包并降低产出质量。** 在四项合计 728 名成年人的实验中，实验诱导的[[metacognition|元认知]]脱离提高了认知外包（间接效应 0.51，占总效应的 58.0%），并把专家评定的创新质量从 4.78 降到 3.95，其中 57.8% 的下降经由外包（[[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao、Men 与 Zhang（2026）]]）。任务复杂度增强了这条路径，而[[ai-literacy|AI 素养]]削弱了它。两条限制界定了这一主张：助手是研究者编写的回答库，而不是实时模型；职业与学生身份未报告，因此这既不是课堂发现，也不是职场发现。
 
-**依赖有一条轨迹，而且并非单调。** 在 18 个月的四波调查中（n = 524），[[technology-acceptance-model|被感知的有用性]]预测了*更低*的后续学业依赖，而非更高，因此一个围绕“学生觉得工具多有用”展开的升级叙事把方向弄反了（[[zhang-usefulness-dependence-genai-2026|Zhang，2026]]）。
+**依赖有一条轨迹，而且并非单调。** 在 18 个月的四波调查中（n = 524），[[technology-acceptance-model|被感知的有用性]]预测了*更低*的后续学业依赖，而非更高，因此一个围绕“学生觉得工具多有用”展开的升级叙事把方向弄反了（[[zhang-usefulness-dependence-genai-2026|Zhang，2026]]）。**注意力控制是从依赖到成绩的已测量路径。** 在 1,461 名中国青少年中，生成式 AI 依赖预测了更低的注意力控制，而这条路径承载了与考试成绩之总间接关联的 76.19%，高于身体健康（[[su-genai-dependence-academic-performance-adolescents-2026|Su 等，2026]]）。
+
+**情感投入而非自评能力追踪着过度依赖。** 在 249 名职业外语学习者中，错失恐惧（β = 0.50）与拟人化依恋（β = 0.27）预测了自陈的过度依赖，而被感知的 AI 素养（r = 0.08）与自我调节学习（r = −0.03）则不能；感到自己懂与报告自己有调节之间的差距可以（β = 0.21）（[[gao-too-good-to-resist-overreliance-2026|Gao 等，2026]]）。
+
+**该领域尚不能把延伸与替代分离开来。** 一项对 93 项研究的实在论综合发现，69 项报告了独立于 AI 辅助的学习测量，只有四项把加工证据与这样的测量结合起来，因此认知延伸与替代在经验上仍无法区分（[[li-cognitive-agency-human-genai-realist-synthesis-2026|Li 等，2026]]）。
+
+**危害与益处可以出现在同一个结果里。** 汇总 16,357 名学习者的 31 项研究，[[motivational-gain-trumping-cognitive-offloading-2026|Wang 等（2026）]]发现依赖压低批判性思维，而上升的动机以几乎相同的幅度抬高它，因此一个接近零的关联记录的是两种机制相互抵消，而不是外包效应不存在。
 
 **一项独立于任何单一研究的基准测量了同一种失败，并发现它很普遍。**ImpactBench 在 48,540 段模拟对话上为十个模型打分：其“认知外包不对称”指标平均为 51.9%，“规划相关认知侵入”为 47.1%。其教育案例中，一旦模拟学生催促完成稿，Claude Sonnet 5 便交出论文、提纲和一篇“可直接粘贴”的完整文章，同时仍拒绝编造引文（[[impactbench-ai-impact-on-humans-2026|ImpactBench（2026）]]）。学习与技能发展是 14 个子领域中在两个极性上都最弱的，分别为 45.9% 与 16.3%。
 
 **过度依赖**是对 AI 工具的过度或无校准依赖，学生把本应自己完成的认知工作委派出去，导致学习减损、[[agency|能动性]]削弱与技能发展的替代。它是过度认知外包的行为表现：当外包成为默认而非策略选择时。过度依赖并不只是“AI 用得太多” —— 而是以替代而非补充学习过程的方式使用 AI。概念性工作主张把这种教育性过度依赖与关系性依恋和[[medical-education|临床]]依赖区分开来：[[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan（2026）]]表明，信任、依赖、过度依赖、依恋与问题性使用在对话式 AI 文献中常被混为一谈，而频繁的委派不应在没有控制受损或危害的情况下就被贴上依赖的标签。
 
-- **效率悖论：掌握目标坍缩为“默认”外包。**[[yan-cognitive-outsourcing-genai-assessments-2026|Yan 等（2026）]]识别出这样一些学习者：他们表达了掌握取向的目标，却实施了表层式的过程，“并非有意，而是默认地”外包：他们的三个意向组（外包工具 n = 16，学习助手 n = 31，认知伙伴 n = 8）显示，众数情形既非蓄意作弊也非蓄意学习。外包组的学生意识到自己的脱离投入（一段段复制粘贴被描述为“它完全替代了我的大脑”），并报告快速遗忘，全部 38 名受访者都报告对自己有效使用 GenAI 信心不足 —— 这说明过度依赖可以由前置条件缺失（[[ai-literacy|AI 素养]]、提示能力、任务特定指导）驱动，而非由逃避工作的动机驱动。
+- **效率悖论：掌握目标坍缩为“默认”外包。**[[yan-cognitive-outsourcing-genai-assessments-2026|Yan 等（2026）]]识别出这样一些学习者：他们表达了掌握取向的目标，却实施了表层式的过程，“并非有意，而是默认地”外包：他们的三个意向组（外包工具 n = 16，学习助手 n = 31，认知伙伴 n = 8）显示，众数情形既非蓄意作弊也非蓄意学习。外包组的学生意识到自己的脱离投入（一段段复制粘贴被描述为“它完全替代了我的大脑”），并报告快速遗忘，全部 38 名受访者都报告对自己有效使用 GenAI 信心不足 —— 这说明过度依赖可以由前置条件缺失（[[ai-literacy|AI 素养]]、提示能力、任务特定指导）驱动，而非由逃避工作的动机驱动。[[habit-over-intention-genai-help-seeking-engineering-2026|Pao 等（2026）]]给出了那个默认状态的特质性版本：在菲律宾的工程学生与教育者中，预测生成式 AI 是否取代了向人求助的是习惯而非意向，这把过度依赖定位在围绕工具形成的常规之中，而不是一个委派的决定。
 
 - **智能体式编程在实地中外包了理解：** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka 等（2026）]]报告，在软件项目课程中使用[[agentic-ai|AI 智能体]]的本科生代码量逐年上升，但在重度使用下出现了理解力下滑 —— 这可通过教师一对一核验 AI 生成代码来弥补。
 
@@ -205,6 +217,10 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 两项近期研究为外包提供了一套测量装置。[[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah 及其同事]] 的 35 题量表把这一过程化为六个可报告的维度 —— 过度依赖、表层理解、核验减少、记忆减弱、努力减退与批判性评估下降 —— 并在 616 名中学生中验证。[[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma、Manani 与 Thakwani]] 对大学生的调查发现，ChatGPT 依赖主要经由学业压力与更差的执行功能相关联，压力进入模型后直接路径降至 P = 0.328。两者都属于 [[executive-function|执行功能]]，而执行功能承载着被认为会被外包所替代的那份能力。
 
 [[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri、Chatziioannou 与 Palaiologos（2026）]] 以一篇叙述性综述考察该构念向生成式 AI 的迁移，该综述不做任何合并、也不报告新数据。其框架主导了分析：外包是努力的重新分配，问题在于被重新分配的努力是否以学习的形式返回。生成式 AI 所改变的是对象 —— 推理、综合与评估，而非查检与算术 —— 因此“外包预测更弱的延迟保持”这一较早的结果如今适用于高阶工作。其唯一具体的设计主张是：要求给出理由或进行评估的提示减少了外包并提高了论证质量，这使得交互设计、而非模型能力，成为杠杆。
+
+**可持续性框定把同一条线放到课程设计层面。** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys 等（2026）]]把认知替代——在学习者尚未阐明立场之前就生成打磨好的反思文本——当作 AI 支持的反思中的核心教学风险，并提议学习者在咨询 AI 之前先提交一份初步叙述，把输出当作供批评的对象，并记录其最初与最终立场之间可见的转变，从而使辅助保全可观察的学习者解释与修订，而不是取代它们。
+
+**剖面层面的证据使这一区分更加锐利：** 在 530 名医学生中，[[chi-ai-dependence-academic-procrastination-2026|Chi、Zhang 与 Jia（2026）]]发现 33.0% 的人大量使用 AI 却没有比轻度使用者更拖延，因此承载风险的是依赖的模式，而不是它的量级。
 
 ## 常见误解
 

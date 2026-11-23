@@ -1,14 +1,14 @@
 ---
 title: Filosofia da IA na educação
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -39,13 +43,15 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Introdução
 
-Esta é uma página de conceito para os fundamentos filosóficos e teóricos da [[ai-education|IA na educação]]. Enquanto as [[learning-theories|teorias da aprendizagem]] documentam as teorias empíricas e orientadas ao desenho ([[behaviorism|behaviorismo]], [[constructivist|construtivismo]], [[cognitive-offloading|carga cognitiva]], [[self-regulated-learning|aprendizagem autorregulada]], etc.), a vertente filosófica engaja as questões ontológicas, epistemológicas e éticas que essas teorias pressupõem. As duas estão intimamente conectadas: posições filosóficas moldam quais teorias da aprendizagem parecem plausíveis e quais metas educacionais valem a pena perseguir.
+Esta é uma página de conceito para os fundamentos filosóficos e teóricos da [[ai-education|IA na educação]]. Enquanto as [[learning-theories|teorias da aprendizagem]] documentam as teorias empíricas e orientadas ao desenho ([[behaviorism|behaviorismo]], [[constructivist|construtivismo]], [[cognitive-offloading|carga cognitiva]], [[self-regulated-learning|aprendizagem autorregulada]], etc.), a vertente filosófica engaja as questões ontológicas, epistemológicas e éticas que essas teorias pressupõem. As duas estão intimamente conectadas: posições filosóficas moldam quais teorias da aprendizagem parecem plausíveis e quais metas educacionais valem a pena perseguir. A vertente normativa desse trabalho, os argumentos sobre aquilo em que a IA na educação está transformando a educação, está reunida em [[critiques-of-ai-in-education|Críticas à IA na Educação]].
 
 ## Questões filosóficas-chave
 
 - **A natureza da mente e da cognição.** Pensar exige consciência e um corpo? A IA pode participar de processos genuinamente cognitivos? Frameworks como a **cognição de conjunto** argumentam que a IA exerce *agência funcional* — eficácia causal genuína em processos cognitivos — sem consciência, e que o pensamento emerge da interação dinâmica entre humanos e [[student-ai-interaction|IA]].([[ensemble-cognition-philosophy-ai-education]]) A [[distributed-cognition|cognição distribuída]] e a tese da mente estendida fazem afirmações relacionadas sobre a cognição estar espalhada por sistemas.
 - **O que é quem aprende?** A filosofia pós-humanista reconceitua quem aprende como uma entidade \"pós-humana\", cujos processos cognitivos são genuinamente híbridos e distribuídos por sistemas [[biology-education|biológicos]] e artificiais.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Isso desafia a suposição de que quem aprende é uma mente individual, delimitada e autônoma.
 - **A corporificação e os limites da IA descorporificada.** A filosofia [[embodied-learning|corporificada]] e pós-cognitivista critica o domínio dos modelos simbólicos e descorporificados de IA, argumentando que a cognição está ancorada na situacionalidade, na emergência e no acoplamento sensório-motor que a atual [[generative-ai|IA generativa]] não tem.([[videla-embodied-ai-education-choreography]])
+
+- **A automação como continuidade, não ruptura.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross e Aros (2026)]] argumentam que a inteligência artificial se encaixa na escolarização porque estende um modelo cognitivista e instrucional que trata a aprendizagem como processamento de informação e o ensino como transmissão; automatizar a educação é, portanto, uma ilusão ontológica que abstrai a aprendizagem das condições incorporadas e relacionais em que o sentido e a responsabilidade surgem.
 
 - **O trabalho emocional como caso de teste para mentes maquínicas.** Os argumentos do campo sobre se a IA pode ensinar frequentemente giram em torno de se ela pode *se importar*, uma questão debatida muito antes de a [[affective-computing|computação afetiva]] existir. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] reconstrói o debate de 1950–1996, no qual a afirmação de Ziff de que apenas criaturas vivas podem literalmente ter sentimentos foi respondida pela teoria da identidade de Smart e pelo critério comportamental de Putnam, deixando três ontologias rivais sem resolução. Sua conclusão é um ônus da justificação, e não uma afirmação de impossibilidade — representação, simulação e mímica subdeterminam o trabalho emocional — o que põe o ônus sobre quem quer que delegue trabalho pastoral a um sistema.
 - **Agência, autoria e sentido.** Quando a IA medeia a interpretação e a construção de sentido, a filosofia pergunta como autoria, [[agency|agência]] epistêmica e autonomia interpretativa são reconfiguradas.([[voicu-ai-interpretive-cognition-ssh-2026]])
@@ -74,7 +80,7 @@ A filosofia da IA na educação e o [[theory-development-aied|desenvolvimento de
 
 **Para instrutores**
 
-- Decida, antes de adotar uma ferramenta, o que você está disposto a contar como conquista do estudante. Se uma entrega polida produzida pelo sistema satisfaria sua avaliação, você respondeu "nada" — e nenhuma mudança posterior de rubrica recupera a pergunta.
+- Decida, antes de adotar uma ferramenta, o que você está disposto a contar como conquista do estudante. Se uma entrega polida produzida pelo sistema satisfaria sua avaliação, você respondeu "nada" — e nenhuma mudança posterior de [[rubrics|rubrica]] recupera a pergunta.
 - Leve o argumento do impedimento a sério ao desenhar tarefas: se a GenAI que fornece o trabalho impede o pensamento em vez de apenas deslocá-lo, então "use com responsabilidade" não é uma salvaguarda suficiente, porque o campo ao redor recompensa o produto. Desenhe tarefas cuja evidência de pensamento é produzida antes de a ferramenta estar disponível.
 - Pergunte qual concepção de aprendizagem seu curso codifica. Adotar um framework acriticamente importa suas suposições sobre o que é quem aprende, e essas suposições são contestáveis.
 

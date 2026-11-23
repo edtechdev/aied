@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能中的理论发展
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-18T03:03:42-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -110,7 +114,7 @@ connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, y
 
 ## 与教育人工智能哲学的关系
 
-理论发展与 [[philosophy-of-ai-in-education|教育人工智能哲学]] 是本知识库基础性工作中互补但不同的两条脉络。**理论发展**生产并经验检验"与 AI 共同学习"的*机制*——如生成主义、认知共同行动性、缺失的认知基线这样解释并预测学习者与 AI 如何互动的具名理论与框架。**哲学**追问这些机制所依赖的*预设*：什么算知识，谁算认识者，学习者从根本上是什么。像 [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|认知共同行动性]] 这样的理论提出一个机制，同时隐含地采纳了关于分布式认知与 [[agency]] 的哲学承诺；哲学使这些承诺显化并变得可争议。理论发展问的是某个框架是否很好地解释了学习，哲学问的是它是否抓住了学习与心智真正是什么——两条脉络在本领域最基础的文献中相遇，而那些文献往往同时做这两件事。
+理论发展与 [[philosophy-of-ai-in-education|教育人工智能哲学]] 是本知识库基础性工作中互补但不同的两条脉络。**理论发展**生产并经验检验"与 AI 共同学习"的*机制*——如生成主义、认知共同行动性、缺失的认知基线这样解释并预测学习者与 AI 如何互动的具名理论与框架。**哲学**追问这些机制所依赖的*预设*：什么算知识，谁算认识者，学习者从根本上是什么。像 [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|认知共同行动性]] 这样的理论提出一个机制，同时隐含地采纳了关于分布式认知与 [[agency]] 的哲学承诺；哲学使这些承诺显化并变得可争议。理论发展问的是某个框架是否很好地解释了学习，哲学问的是它是否抓住了学习与心智真正是什么——两条脉络在本领域最基础的文献中相遇，而那些文献往往同时做这两件事。该领域批评者对这些理论所开启或关闭的方向有何说法，是另一个问题，汇集于[[critiques-of-ai-in-education|对教育中 AI 的批判]]。
 
 ## 实践启示
 

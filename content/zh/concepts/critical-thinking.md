@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 批判性思维
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-18T03:15:06-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
 connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -77,12 +81,17 @@ connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-g
 - **一学期的人工智能使用让批判性思维持平，而反思性使用追踪了它。**Melanou、Beege 与 Kimmig（2026）在三个平行条件（导师框架的人工智能、无引导的人工智能、无人工智能）下跟踪 87 名商业信息学学生完成为期九周的课程，测量三次。各组知识都上升，两种人工智能条件均无优势，也无马太效应（BF01 = 8.70），而自陈的批判性思维与[[motivation]]保持稳定。区分学生的是反思性使用——在采纳人工智能输出前核查来源并加以验证的实践：它在人工智能条件中高于对照组（均值 3.72 对 2.82），并预测了末次测量时的批判性思维（R² = 0.183，β = 0.43，p < 0.001）。这一结果限定了任何"一学期的人工智能使用本身就能推动批判性思维"的预期：关联存在于[[metacognition|元认知]]调节之中，而非工具访问权之中；作者也指出，一个学期大概太短，看不到持久的变化。（[[melanou-genai-learning-dynamics-longitudinal-2026|Melanou 等，2026]]）
 - **评价发生了移动，形式演绎没有。**四阶段的 AI 反馈使"对论证的评价"提高了 1.74 个调整分，而"演绎"只移动了 0.30（p = 0.383），说明增益落在判断主张上，而非形式逻辑上（[[structured-genai-feedback-critical-thinking-data-science-2026|Yin 等（2026）]]）。
 
+- **在线推理可以从搜索行为中测量，且它分成两个因子。** 在 459 名有可分析日志、检索开放网络的一年级学生中，[[illmann-gen-cor-log-data-indicators-2026|Illmann 等（2026）]]发现，问题表述与结果页检视形成了分离的、不相关的因子，因此单一的信息获取分数会误述这一构念。
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez 等（2026）]]提供了第一份专为"与 AI 一起的批判性思维"打造的测量工具，并发现其三个拟议领域重叠过重而无法分离：潜在相关非常高，平均方差抽取低于相关平方，且没有任何因子满足区分效度判据。总量表是可靠的，但各维度仍是暂定的。
+
 ## 与其他概念的关联
 
 批判性思维与[[scaffolding]]（设计维持认知需求的人工智能支持）、[[prompt-engineering]]（提出能引出批判性分析的问题）以及[[cognitive-offloading|过度依赖]]（知道何时信任、何时质疑人工智能）相交。它是[[academic-integrity]]的根基，也是[[ai-literacy]]框架的一个关键维度，横跨[[k-12]]与[[higher-ed]]两种情境。
 
 - **把人工智能的错误当作高阶思维的挑衅：**[[pedagogy-ai-mistakes|Hosseini（2026）]]通过让学生在数据库课程中审问人工智能生成的错误，把 Bloom 的高阶层级（分析、评价、创造）付诸操作，在学科胜任力上取得显著的前后测增益（Cohen's *d*=1.49）。
-- **对人工智能输出的批判是一种可搭支架的技能，而非解题的副产品。**只解了一道相关物理题的组，或接受了一道打磨过的人工智能解答，或基于自己的[[misconceptions|迷思概念]]去批判它；而以 MAPS 量规引导的反思，则产出了与专家一致的批判——指出缺失的积分与未定义的符号（[[probing-ai-generated-physics-solutions-2026|Borse 等（2026）]]）。
+- **对人工智能输出的批判是一种可搭支架的技能，而非解题的副产品。**只解了一道相关物理题的组，或接受了一道打磨过的人工智能解答，或基于自己的[[misconceptions|迷思概念]]去批判它；而以 MAPS[[rubrics|量规]]引导的反思，则产出了与专家一致的批判——指出缺失的积分与未定义的符号（[[probing-ai-generated-physics-solutions-2026|Borse 等（2026）]]）。
+- **批判可以借自人工智能自己的自我评估。** 十二名职前教师把自己的水使用模型与一个 ChatGPT-4o 模型相比较，产出的批判与 AI 自述的弱点相吻合，却没有人注意到其输出中保留了一处计算不一致——一份打磨过的结果可以不加核验地受到赞赏（[[cetin-ai-comparative-reflection-modelling-2026|Çetin 与 Bilgili，2026]]）。
 - **约束人工智能以保全认知自主性。**E3-HOT 蓝图把三条[[embodied-learning|具身]]路径——情境嵌入、具身参与、认知创造——映射到分析、评价与创造，并把人工智能限定在提示、批判与策略建议之内，使学生在某个主张被接受之前必须先阐明理由并引证（[[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu 等（2026）]]）。
 - **对人工智能解释的双向审计。**Bernstein 与 Sibia（2026）以 Paul–Elder 标准（准确性、清晰性、假设、观点）作为访谈探针，访谈了十位已完成 CS2 的学生，发现他们对[[generative-ai|生成式人工智能]]解释的机制级审视：学生找出某个类比的映射在哪里失效（一个暗示了环形的链表海岛航线类比，一个没有保证输入收缩的递归羽毛球对拉类比），要求精确措辞而非含糊其辞，并把解释当作携带观点的论证来处理。关键在于，这种审视追踪的是来源域或目标域的专长，而非个人兴趣——这把对人工智能输出的批判性[[ai-ed-evaluation|评价]]重新框定为一个知识问题（"双向类比审计"），而非一种性情问题——并提示：把有缺陷的人工智能类比当作待检视与待修复的对象来布置，比读一份成形的解释是对概念理解的更严格的检验。（[[student-reception-genai-analogies-computing-2026]]）
 - **批判性思维作为不可外包的投入。**Xie（2026）从道家自我修养补充了一个[[philosophy-of-ai-in-education|哲学]]对应物：因为人工智能是不透明的"黑箱"，一个取向于调和不确定性、而非以绝对方式裁定真相的框架，更适合当下的认识格局，批判性思维由此成为对现实的、持续的、第一人称的、不可外包的投入，而非一种可演示的理性程序。在内丹（內丹）实践中"没有认知捷径"，因此人工智能被定位为"不是认知的替身，而是工具性的辅助"。（[[daoism-ai-education-philosophy-2026]]）
@@ -99,3 +108,9 @@ connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-g
 - **“更好的提示词会带来更好的批判性思维。”** 把谬误导师与辩论聊天机器人区分开的是**对话结构的控制，而不是更好的提示词**：把每一轮都经由**基于图尔敏模型的意图识别**路由，才起了作用。机制在于互动结构，而不是措辞。
 - **“GenAI 的使用直接提升批判性思维。”** GenAI 使用与**自评**批判性思维的关联**几乎完全经由 GenAI [[feedback-literacy|反馈素养]]**：在 **421 名中国本科生**中，反馈素养中介了该关联的 **71%**。素养才是通路。
 - **“元分析效应是整齐划一的。”** 在 **29 项实验**中，GenAI 中等地提升了高阶思维（**g = 0.609**），其中批判性思维为 **ES = 0.691**。在异质干预之上得到的中等合并效应，支持的是这一类干预，而不是某个具体设计。
+
+## 两条路径，一个净效应
+
+AI 使用是有助于还是有损于[[critical-thinking|critical thinking]]，取决于测量的是哪种机制。一项 2026 年的元分析结构方程模型汇总了 31 项研究、16,357 名学习者，发现**两条大小几乎相等、方向相反的间接路径**：AI 使用提高了依赖，从而压低批判性思维（β = −0.212）；同时提高了[[motivation|学习动机]]，从而抬高它（β = +0.217）。两条路径几乎恰好抵消——总间接 β = 0.004——留下一个较小的正向直接效应（β = 0.149），并解释了 40% 的方差。（[[motivational-gain-trumping-cognitive-offloading-2026|Wang 等，2026]]）
+
+该文献中的零阶相关并不显著（r = 0.156，95% CI [−0.040, 0.353]），这正是当一项研究只测量结果时抵消所呈现的样子。其设计意涵是：[[cognitive-offloading|外包]]不是工具的属性，而是任务如何设置的属性——扣留端到端答案的工具，以及迫使评价的元认知检查点，会把平衡推向动机那条路径。

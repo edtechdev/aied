@@ -1,7 +1,7 @@
 ---
 title: 理论与框架
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-18T03:14:54-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -70,6 +74,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## 教学、整合与采纳框架
 
 - **[[tpack|TPACK]]** —— 融合技术、教学法与学科内容的教师知识；面向教师的 AI 研究的默认框架。
+- **[[bloom-taxonomy|Bloom 分类学]]** —— 关于任务认知需求的共同词汇，既用于给题目编码，也用于排列题目；在 AI 教育中，它已变得既是一个测量问题，也是一个设计问题。
 - **[[technology-acceptance-model|采纳模型]]** —— 意向作为感知有用性与易用性的函数。用得极广，以至于该领域依赖意向而非行为已成为一项常设批评。
 - **期望确认模型（ECM）** —— 满意度作为先前期望被确认的结果，其结果变量是持续使用而非初次采纳。在一项有 24 名本科生、为期一学期的社会学方法试点中，87% 的人认为 Copilot 良好或优秀，91% 会推荐它，但只有 57% 打算继续使用（[[wells-genai-research-assistant-sociology-2026|Wells，2026]]）。这个落差正是该模型的要点：满意的用户仍可能不再回来，因此满意度与持续使用需要分开测量。
 - **[[icap-framework|ICAP]]** —— 把参与排序为被动、主动、建构、互动；对追问一次[[student-ai-interaction|AI 互动]]实际提供哪种模式很有用。
@@ -109,7 +114,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## 相关层面
 
-两个相邻页面刻意谈的是别的事。[[philosophy-of-ai-in-education|Philosophy of AI in education]]（AI 教育的哲学）提规范性与概念性问题——教育是*为了什么*、机器能否教书——不预测效应量；一项研究可以在哲学上天真而在理论上健全，或反之。[[theory-development-aied|Theory development]]（理论发展）是建构、借用与修订理论的元活动，包括"大量[[ai-education|AIED]]工作应用既有理论而非检验理论"这一常设批评。收集框架是一项编目工作；理论发展关乎产出与修订它们。
+两个相邻页面刻意谈的是别的事。[[philosophy-of-ai-in-education|Philosophy of AI in education]]（AI 教育的哲学）提规范性与概念性问题——教育是*为了什么*、机器能否教书——不预测效应量；一项研究可以在哲学上天真而在理论上健全，或反之。[[theory-development-aied|Theory development]]（理论发展）是建构、借用与修订理论的元活动，包括"大量[[ai-education|AIED]]工作应用既有理论而非检验理论"这一常设批评。收集框架是一项编目工作；理论发展关乎产出与修订它们。[[learning-environments-as-systems|作为系统的学习环境]]是第三个邻页。它不是关于学习的理论，也不预测效应量，而是关于分析单元的一种立场：学习环境是一个各部分相互作用的多层系统，因此一项研究测量的层次是一项理论决定，而不是抽样上的便利。
 
 ## 当问题很实际时如何选择透镜
 

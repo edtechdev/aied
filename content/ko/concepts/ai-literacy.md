@@ -1,7 +1,7 @@
 ---
 title: AI 리터러시
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-19T13:45:26-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, metaphors-and-analogies, learners, automation-bias, generative-ai, llm, critical-thinking, prompt-engineering, metacognition, cognitive-offloading, reducing-ai-misuse, academic-integrity, self-assessment, trust-calibration, ai-sycophancy, equity-in-ai-education, digital-divide, ethics, teacher-ai-competency, educational-development, ai-assisted-educational-research, k-12, higher-ed, career-development-and-readiness, ai-education, civic-and-political-education, critiques-of-ai-in-education]
 connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhanced-oer-composition-2026, guo-ai-literacy-developmental-paces-2026, cerioli-human-centered-ai-literacy-schools-2026, islam-credibility-weaker-llms-2026, yang-collaborative-ai-literacy-measures-review-2026, early-childhood-ai-holistic-competencies-review-2026, ai-security-literacy-k12-framework-2026, mu-ai-competence-ethical-awareness-anxiety-2026, caeai-digital-literacy-frameworks-review-2026, ai-literacies-young-adults-2025, ai-literacy-heptagon-2026, ai-literacy-continuum-higher-education, ai-literacy-measurement-conceptual-landscape-llm-2026, ai-literacy-instrument-development-systematic-review-2026, gails-generative-ai-literacy-scale-2026, jin-glat-genai-literacy-assessment, ai-literacy-assessment-misalignment, genai-assessment-literacy-scale-2026, competent-generative-ai-use-measures-review-2026, ai-literacy-correlates-affective-behavioral-cognitive-2025, assessing-teachers-ai-literacy-measurement-tools-2026, ai-literacy-self-assessment-questionnaire-primary-2025, metacognitive-ai-literacy-beyond-skills-gap-2026, liu-ai-literacy-interventions-meta-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, age-tiered-ai-literacy-guidebooks-2026, li-mroziak-reorienting-critical-ai-literacy, miles-prompt-literacy-human-centered-genai-framework-2026, contextual-sycophancy-ai-literacy, student-dependency-on-ai-literacy-self-efficacy-2026, clerc-ai-literacy-workshop-llm-regulation-2026, ai-literacy-sdg-governance-framework-2026, ukraine-ai-literacy-secondary-framework-2026, niri-steam-ai-literacy-review-2026, hingle-collaborative-ai-literacy-2025, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, davor-ai-supported-learning-higher-order-outcomes-2026, yu-designing-ai-literacy-self-determination-2026, hu-psychological-predictors-continued-chatgpt-use-2026, zhi-modeling-measuring-graduate-genai-literacy-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-higher-ed-agency-responsibility-discourse-2026, elsayary-ai-literacy-employability-competencies-2026, fagerlund-competency-agency-purposes-ai-education-2026, charles-teacher-readiness-by-design-ai-rich-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, sun-student-genai-entanglement-literacy-demands-2026, ai-competence-framework-landscape-2026, ai-literacy-determinants-university-students-2026, sfailq-six-facet-ai-literacy-questionnaire-2026, faculty-ai-well-being-social-supports-2026, bozkurt-3wai-literacy-scale-2026, hallstrom-ai-literacy-stem-education-frontiers-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, genait-genai-literacy-test-high-school-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, kim-overtrust-ai-literacy-2026, liang-ai-literacy-facets-creative-higher-education-2026, chen-genai-literacy-task-performance-cognitive-load-2026, huang-ai-literacy-vocational-problem-solving-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, roe-perkins-furze-metaphors-critical-ai-literacy-2025, cuenca-rodriguez-genai-use-caution-trajectories-2026, boison-freirean-critical-ai-literacy-framework-2026, dumancic-tool-to-method-ai-literacy-history-2026, ago-prompt-literacy-allied-health-2026, making-ai-work-for-students-ofs-2026, yan-genai-use-critical-thinking-feedback-literacy-2026, ethics-education-meta-analysis-moral-outcomes-2026, idea-model-doctoral-education-genai-2026, ke-three-tier-ai-literacy-architecture-2026]
@@ -46,7 +50,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhance
 
 ## 들어가며
 
-AI 리터러시는 [[generative-ai|생성형 AI]]가 교육에 깊이 자리잡으면서 학습자, 교육자, 기관 모두에게 핵심 역량으로 빠르게 부상했습니다. 일반적인 디지털 리터러시와 달리, AI 리터러시는 환각을 일으킬 수 있고 [[bias-mitigation|편향]]을 드러내며 [[agency|주체성]]을 인간에서 기계로 옮길 수 있는 확률적 시스템을 이해하는 것을 요구합니다 — 이 때문에 [[critical-thinking|비판적 사고]]와 [[cognitive-offloading|과잉 의존]]이 이 구성개념의 중심이 됩니다.
+AI 리터러시는 [[generative-ai|생성형 AI]]가 교육에 깊이 자리잡으면서 학습자, 교육자, 기관 모두에게 핵심 역량으로 빠르게 부상했습니다. 일반적인 디지털 리터러시와 달리, AI 리터러시는 환각을 일으킬 수 있고 [[bias-mitigation|편향]]을 드러내며 [[agency|주체성]]을 인간에서 기계로 옮길 수 있는 확률적 시스템을 이해하는 것을 요구합니다 — 이 때문에 [[critical-thinking|비판적 사고]]와 [[cognitive-offloading|과잉 의존]]이 이 구성개념의 중심이 됩니다. 그 역량 틀이 충분한지, 아니면 AI에 대한 소비자 지향을 강제하는지는 [[critiques-of-ai-in-education|교육에서의 AI에 대한 비판]]에서 전개되는 활발한 비판입니다.
 
 ## AI 리터러시의 차원
 
@@ -66,7 +70,7 @@ AI 리터러시 [[research-methods-aied|연구]]는 서로 연결된 네 가지 
 
 **실천적 역량:** [[prompt-engineering|프롬프트 엔지니어링]]에서부터 결과물 해석에 이르기까지 AI 도구를 효과적으로 사용하는 능력입니다. [[genai-usage-design-students-survey|학생들의 GenAI 사용 양상]]에 대한 연구들은 도구에 접근할 수 있다는 사실만으로 역량이 생기지 않는다는 점을 보여줍니다. 구조화된 연습과 [[scaffolding|비계]]가 필수적입니다. [[gaide-vibe-coding-k12-teachers|바이브 코딩 프레임워크]]는 [[k-12|K-12 교사]]들이 안내된 도구 제작을 통해 실천적 AI 리터러시를 어떻게 발전시킬 수 있는지를 보여줍니다. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]]은 이 차원에 최적화 훈련이 놓치는 부분이 있다고 주장합니다. 프롬프트 엔지니어링과 구분되는 프롬프트 리터러시(prompt literacy)는 프롬프팅을 수사적이고 윤리적인 행위로 다루므로, 결과물 성능만을 튜닝하는 교수법은 LLM 사용의 윤리적·인식론적 차원을 손대지 않은 채 남겨둡니다.
 
-**비판적 평가:** AI의 결과물을 정확성, 편향, 적절성의 관점에서 판단하는 역량입니다. [[ai-literacy-assessment-misalignment|리터러시 평가에 관한 연구]]는 자기보고와 수행 기반 AI 리터러시 사이에 40%의 격차가 있음을 보여줍니다 — 사람들은 자신의 평가 기술을 지속적으로 과대평가합니다. 이 불일치는 [[self-report-measures|자기보고 척도]]가 자신이 명명하는 역량을 따라가지 못하는 이 문헌의 가장 분명한 사례입니다. 이는 AI를 비판 없이 [[trust|신뢰]]하는 학생들이 덜 배운다는 [[cognitive-offloading|과잉 의존]] 연구와 연결됩니다. 최근의 개념적 작업은 평가를 *검증* 쪽으로 밀어냅니다. [[pearls-epistemic-verification-2026|PEARLS 프레임워크]](Wang)는 AI 결과물을 잠정적인 지식 주장으로 다루어 그 정당성을 여섯 가지 차원(Process, Evidence, Access, Reproducibility, Legitimacy, Source)에 걸쳐 조립하고 검토해야 한다고 보며, 학습자가 AI의 주장을 확인하면서 전문성을 쌓아가는 메커니즘으로 **검증 주도 학습(verification-driven learning)**을 제시합니다. 이와 보완적으로, [[student-centered-genai-responsible-framework-2026|학생 중심의 책임 있는 사용 프레임워크]](Alsammani)는 Learning and Growth, Ethics and Integrity, Awareness and Safety의 세 기둥에 걸친 열 가지 학생용 지침을 제공하여, 의사결정의 순간에 [[metacognition|초인지]]적 질문을 외현화합니다. [[k-12|중등]] 학습자를 위해서는 [[aarc-ai-research-competency-2026|AI 지원 연구 역량(AARC) 프레임워크]](Beau, Flaquière & Lazar 2026)가 이를 덕성 인식론과 AI 직관에 기반하여, [[agency|저자권]], 판단, 검증, 책임을 포기하지 않고 AI와 함께 탐구를 수행하는 것으로서의 연구 리터러시를 정의하며, 이를 분석형 루브릭과 verify–cite–reflect 실천 루틴으로 운영화합니다. [[assessment|평가]] 측면에서, [[human-capability-test-learning-outcomes-ai-2026|Saleh (2026)]]는 평가를 설계 원리로 전환하는 *인간 능력 검사(human capability test)*를 제안합니다. 학생이 독자적으로 입증해야 하는 것은 무엇인지, AI 증강을 통해 강화될 수 있는 것은 무엇인지, 학생이 검증하고 옹호하며 책임져야 하는 것은 무엇인지를 묻는 것입니다.
+**비판적 평가:** AI의 결과물을 정확성, 편향, 적절성의 관점에서 판단하는 역량입니다. [[ai-literacy-assessment-misalignment|리터러시 평가에 관한 연구]]는 자기보고와 수행 기반 AI 리터러시 사이에 40%의 격차가 있음을 보여줍니다 — 사람들은 자신의 평가 기술을 지속적으로 과대평가합니다. 이 불일치는 [[self-report-measures|자기보고 척도]]가 자신이 명명하는 역량을 따라가지 못하는 이 문헌의 가장 분명한 사례입니다. 이는 AI를 비판 없이 [[trust|신뢰]]하는 학생들이 덜 배운다는 [[cognitive-offloading|과잉 의존]] 연구와 연결됩니다. 최근의 개념적 작업은 평가를 *검증* 쪽으로 밀어냅니다. [[pearls-epistemic-verification-2026|PEARLS 프레임워크]](Wang)는 AI 결과물을 잠정적인 지식 주장으로 다루어 그 정당성을 여섯 가지 차원(Process, Evidence, Access, Reproducibility, Legitimacy, Source)에 걸쳐 조립하고 검토해야 한다고 보며, 학습자가 AI의 주장을 확인하면서 전문성을 쌓아가는 메커니즘으로 **검증 주도 학습(verification-driven learning)**을 제시합니다. 이와 보완적으로, [[student-centered-genai-responsible-framework-2026|학생 중심의 책임 있는 사용 프레임워크]](Alsammani)는 Learning and Growth, Ethics and Integrity, Awareness and Safety의 세 기둥에 걸친 열 가지 학생용 지침을 제공하여, 의사결정의 순간에 [[metacognition|초인지]]적 질문을 외현화합니다. [[k-12|중등]] 학습자를 위해서는 [[aarc-ai-research-competency-2026|AI 지원 연구 역량(AARC) 프레임워크]](Beau, Flaquière & Lazar 2026)가 이를 덕성 인식론과 AI 직관에 기반하여, [[agency|저자권]], 판단, 검증, 책임을 포기하지 않고 AI와 함께 탐구를 수행하는 것으로서의 연구 리터러시를 정의하며, 이를 분석형 [[rubrics|루브릭]]과 verify–cite–reflect 실천 루틴으로 운영화합니다. [[assessment|평가]] 측면에서, [[human-capability-test-learning-outcomes-ai-2026|Saleh (2026)]]는 평가를 설계 원리로 전환하는 *인간 능력 검사(human capability test)*를 제안합니다. 학생이 독자적으로 입증해야 하는 것은 무엇인지, AI 증강을 통해 강화될 수 있는 것은 무엇인지, 학생이 검증하고 옹호하며 책임져야 하는 것은 무엇인지를 묻는 것입니다.
 
 학문 분야의 검증은 이 기준을 더욱 높입니다. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Alvarez (2026)]]은 대학 [[chemistry-education|화학]]에서 핵심적인 AI 리터러시 요구가 Johnstone의 거시적, 미시적, 상징적 영역을 가로지르는 표상 번역이라고 주장합니다. 한 영역에서 국소적으로 설득력 있는 결과물이 다른 영역에서는 전하 균형, 반응 메커니즘, 혹은 안전 한계와 모순될 수 있기 때문입니다. 이들이 제시하는 해법은 검증 중심의 통합입니다. 검증을 평가되는 활동으로 만들고, 프롬프트 기록과 수정 이력을 추론의 흔적으로 보존하며, 프롬프팅을 제약 조건, 가정, 적절성 기준을 명시하는 인식론적 행위로 다루어, 학생들이 거짓 가정을 찾아내거나 생성된 답을 거부할 근거를 제시하게 하는 것입니다.
 
@@ -209,6 +213,8 @@ AI 리터러시의 핵심 미해결 질문은 *어떤* 기술이 누구에게 �
 전문 교육과정이 이미 존재하는 경우에도 제공은 얇습니다. 가나의 한 공립대학 보건계열 학부생 417명 가운데 76.3%(n = 318)가 책임 있는 AI 사용에 관한 사전 훈련이 없다고 보고했고, 40.8%가 교직원의 지도를 불충분하다고 평정한 반면 적절하다고 평정한 비율은 28.1%였습니다([[ago-prompt-literacy-allied-health-2026|Ago 외, 2026]]). 따라서 보건 전문직의 개입 설계는 기존 교육과정을 확장하는 학습자가 아니라, 그 내용을 한 번도 배운 적 없는 초심자에서 출발합니다.
 
 배열 순서는 이 분야의 최근 사례 두 건에서 가장 중요한 설계 결정으로 나타납니다. [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]]은 비동기 작문 강좌의 1~4주차에, 학생들이 보조 도구를 필요로 할 과제보다 앞서 짧은 AI 리터러시 영상을 배치했고, 학생과 교수자 모두 그 영상이 허용 가능한 사용을 읽히게 만든 요소라고 지목했습니다. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]]은 교수자를 대상으로 같은 논리를 실행했습니다. 8주, 유급 시간, 코호트, 그리고 결과물을 비판하는 공유 프레임워크로, 자기보고 친숙도는 소폭 상승했고(5점 척도에서 3.2에서 3.5로) 편안함은 모든 참가자에게서 4 또는 5로 올랐습니다.
+
+교육과정을 위계화하는 것은 또 다른 설계 전환입니다. [[ke-three-tier-ai-literacy-architecture-2026|Ke (2026)]]는 운영적 유창성, 평가적 리터러시, 상보적 역량을 의존 사슬로 배열하고, 가장 값싼 수준도 가장 빨리 감가상각된다고 지적합니다.
 
 ## AI 리터러시 측정하기
 

@@ -1,7 +1,7 @@
 ---
 title: 计算思维
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-18T03:07:30-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -59,7 +63,17 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 - 测量选择改变了结论：在 23 对同构念配对中，计算思维与批判思维的条目有 13 对给出了不一致或混合的结论，因此自报式计算思维问卷与任务式测量常常彼此不符（[[same-construct-same-conclusion-self-report-vs-performance-2026|Fan 等（2026）]]）。
 - 计算思维也被作为一种倾向来测量：在一项为期三周的五年级游戏研究中，校正后的自报计算思维倾向偏向GenAI班，为 4.325 对 4.037（p = .046，偏 eta 方 = .052，n = 78）。算法知识测验却并未区分二者（80.7 对 74.9），因此倾向测量与知识测量追踪的是不同的构念（[[zhou-genai-contextual-games-computational-thinking-2026|Zhou 等，2026]]）。
 
-子技能画像使前后测设计所报告的那个单一CT分数变得复杂。[[koraneekij-codecraft-computational-thinking-2026|Koraneekij 与 Khlaisang（2026）]]让 28 名非计算机专业的泰国本科生上了八周、每次三小时的课程，把五步[[design-thinking|设计思维]]循环与低代码应用搭建配对，并以三点量表为项目作品评分。平均计算思维从第一次课的 1.13 升到 1.80，再到 2.49，其中算法思维是最强的一支，为 2.08，轨迹为 1.46 到 1.93 再到 2.86。逻辑思维平均为 1.54，在最初两次课之间几乎没有移动（1.04 到 1.29），到第三次课才达到 2.29——这提醒我们，某一个成分的提升并不意味着其余成分也随之提升。
+子技能画像使前后测设计所报告的那个单一CT分数变得复杂。[[koraneekij-codecraft-computational-thinking-2026|Koraneekij 与 Khlaisang（2026）]]让 28 名非计算机专业的泰国本科生上了八周、每次三小时的课程，把五步[[design-thinking|设计思维]]循环与低代码应用搭建配对，并以三点[[rubrics|量表]]为项目作品评分。平均计算思维从第一次课的 1.13 升到 1.80，再到 2.49，其中算法思维是最强的一支，为 2.08，轨迹为 1.46 到 1.93 再到 2.86。逻辑思维平均为 1.54，在最初两次课之间几乎没有移动（1.04 到 1.29），到第三次课才达到 2.29——这提醒我们，某一个成分的提升并不意味着其余成分也随之提升。
+
+## 作为 CT 实践的系统思维
+
+系统思维是 Weintrop 及其同事为数学与科学提出的计算思维分类法中的四个领域之一，另外三个是数据实践、计算性问题解决实践以及建模与模拟实践。它的定义很精确：**界定系统边界、并把微观层面的相互作用综合为宏观层面行为的能力**。那是一种学习者层面的认知能力——一种关于系统推理的方式——不同于把学习环境当作一个系统来对待的环境层面立场（[[learning-environments-as-systems|作为系统的学习环境]]）。
+
+它也是最先出现评估崩溃的领域。[[llm-computational-thinking-physics-2026|Savage、Shanker、Michlitsch 与 Rebello（2026）]]在一门计算物理导论课程中，依据该分类法为 936 名学生的书面解释编码，先在 10 名学生（60 份回答，Fleiss' κ = 0.53）上校准人类基线，然后以多数投票为 50 名学生（300 份回答）编码。学生在数据实践上成长最多（p < 0.001，d = 1.03），计算性问题解决（d = 0.52）与系统思维（d = 0.45）为中等增益。但系统思维对人类与模型来说都是最不可靠的构念：人类一致度 κ = 0.51、LLM κ = 0.48，而数据实践为 κ = 0.90、建模与模拟为 κ = 0.78。作者的解读是，困难来自构念的复杂性而非模型的不足——一个要求学生既识别组件*又*解释其相互作用与后果的多成分构念，比一个定义良好的构念更难编码。建模与模拟显示出 d = 0.00 出于一个不相关的原因，即天花板效应：教学前均值已达 2 分中的 1.62，因此该项目测量的是基线知识而非成长。
+
+其实际意涵是一个量规设计问题，而不是模型问题。他们的建议是重写量规，使“识别系统组件”与“解释这些组件如何相互作用”分别计分，并把某个整合性构念上较低的自动化一致度读作修订工具的信号，而不是放弃自动化。这正是[[rubrics|量规]]研究从评分一侧得出的同一步移动：校准的工具是仪器，而不是模型。
+
+这一构念超出了物理学。[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz 与 Castro Samayoa（2026）]]把系统思维命名为 Aoun 所谓的*防机器人*能力之一——批判性思维、系统思维与文化敏捷性——那些由实践建构、而委派无法建构的能力。[[huang-ai-literacy-vocational-problem-solving-2026|Huang 及同事（2026）]]则把自己的“系统性思维”构念与之划清界限，把他们自己的构念当作一个狭窄的四维度测量（结构化、推理、排序、整合），并明确拒绝在广义上称其为系统思维。而[[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez、Govea 与 Valencia-Silva（2026）]]警告说，投入并不等于系统思维——当一份量规被用来认证一项它并非为此而写的胜任力时，这一区分很重要。
 
 ## CT与从AI消费者向生产者、创造者与设计者的转变
 

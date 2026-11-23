@@ -1,7 +1,7 @@
 ---
 title: AIEd 研究的局限
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-18T03:08:30-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -37,13 +41,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - 如果一条"AI 辅导使学习提升 30%"的头条来自某所机构一门课程里的 30 名学生，你会有多信任它？本页指出，可推广性与小样本是反复出现的局限——在对任何单一发现采取行动之前，你想先知道什么？
 - 一个惊人的局限是"速度问题"：AI 的演进快于研究结论的发表，因此对某一代模型的研究可能已经在描述一个过时的系统。这应当如何改变你对 AI 教育研究的信心？
 - 许多研究依赖[[self-report-measures|自我报告的]]态度与使用情况，而这类数据存在偏差——人们会高估自己的能力、少报误用行为。你是否曾经在一次关于自身技能或行为的问卷中给出了与现实不符的回答？为什么基于感知的测量如此频繁地与客观表现相背离？
-- 本页指出，像 Bloom 分类学这样熟悉的框架常被误读为严格的阶梯，而即便像[[cognitive-offloading|认知负荷]]理论这样被广泛使用的理论也受到过质疑。你在什么场合见过某种理论在其证据本身尚有争议的情况下被当作定论援引？
+- 本页指出，像[[bloom-taxonomy|Bloom 分类学]]这样熟悉的框架常被误读为严格的阶梯，而即便像[[cognitive-offloading|认知负荷]]理论这样被广泛使用的理论也受到过质疑。你在什么场合见过某种理论在其证据本身尚有争议的情况下被当作定论援引？
 - 多数 AI 研究依赖专有、不透明的模型，其数据与更新你都无从检视。如果你无法验证究竟是什么模型产生了某个结果，你又能对建立在其上的主张抱有多大信任——以及什么才能让研究发现更具可复现性？
 - 如果你是一位没有时间阅读原始研究的教师或设计师，在文献碎片化、暂时性、且面向研究者书写的情况下，你如何判断哪些 AI 主张足够可信、值得改变你的实践？
 
 ## 引言
 
-人工智能在教育领域是一个快速演进、高度异质的领域，其证据基础带有一组独特的局限，研究者、实践者与政策制定者在使用任何发现时都应当权衡。其中一些局限与更广泛的[[learning-sciences|学习科学]]与心理学文献共有；另一些则因 AI 本身的特性而被放大或变得独有。本页将它们归纳为四个横贯性的领域。
+人工智能在教育领域是一个快速演进、高度异质的领域，其证据基础带有一组独特的局限，研究者、实践者与政策制定者在使用任何发现时都应当权衡。其中一些局限与更广泛的[[learning-sciences|学习科学]]与心理学文献共有；另一些则因 AI 本身的特性而被放大或变得独有。本页将它们归纳为四个横贯性的领域。这些是证据本身的问题；另有一类论证关乎证据所服务的目的，汇集于[[critiques-of-ai-in-education|对教育中 AI 的批判]]。
 
 ## 方法论局限
 

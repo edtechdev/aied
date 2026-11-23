@@ -2,7 +2,7 @@
 title: 교육에서 AI에 대한 비판
 type: concept
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 research_method: [literature review]
 confidence: high
 foundations: [ai-education, philosophy-of-ai-in-education, theories-and-frameworks]
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 못했습니다."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026,
 
 ## 인프라, 전도, 그리고 오인식
 
-세 번째 무리는 주목을 도구에서 그 주변 인프라로 돌린다. Watson, Morgner, Brezovec는 생성형 AI를 의미 매개 인프라로 다루고, 그 기제를 *의미 전도(semantic transduction)*라 명명한다. 즉 교육적 요구 — 프롬프트, 과제지, 루브릭, 시험 문제, 장르, 정책 — 를 의사소통상 그럴듯한 형식으로 재포맷하는 것이다 ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). 전도는 선택적이므로 포함하거나 배제할 수 있다. 세 가지 양상이 반복된다. 접근과 역량의 격차, 좋은 답안이나 좋은 학생이 어떤 말투를 가져야 하는지에 대한 템플릿을 통한 오인식, 그리고 교수법이 의미하는 바의 규범적 이탈. 배제는 금지보다 집게가 될 때가 많다. 기관이 속도, 다듬짐, 관용적 유창성에 대한 기대를 높이는 동시에 진정성 규제를 강화하기 때문이다.
+세 번째 무리는 주목을 도구에서 그 주변 인프라로 돌린다. Watson, Morgner, Brezovec는 생성형 AI를 의미 매개 인프라로 다루고, 그 기제를 *의미 전도(semantic transduction)*라 명명한다. 즉 교육적 요구 — 프롬프트, 과제지, [[rubrics|루브릭]], 시험 문제, 장르, 정책 — 를 의사소통상 그럴듯한 형식으로 재포맷하는 것이다 ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). 전도는 선택적이므로 포함하거나 배제할 수 있다. 세 가지 양상이 반복된다. 접근과 역량의 격차, 좋은 답안이나 좋은 학생이 어떤 말투를 가져야 하는지에 대한 템플릿을 통한 오인식, 그리고 교수법이 의미하는 바의 규범적 이탈. 배제는 금지보다 집게가 될 때가 많다. 기관이 속도, 다듬짐, 관용적 유창성에 대한 기대를 높이는 동시에 진정성 규제를 강화하기 때문이다.
 
 ## 의제 설정, 모의 혁신, 실험적 퓨처링
 

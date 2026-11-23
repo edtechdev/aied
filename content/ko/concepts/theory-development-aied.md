@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능의 이론 개발
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,13 +10,17 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -95,7 +99,7 @@ AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theo
 
 ## 교육에서의 AI의 철학과의 관계
 
-이론 개발과 [[philosophy-of-ai-in-education|교육에서의 AI의 철학]]은 이 지식베이스의 기초적 작업의 상호 보완적이면서도 구별되는 갈래입니다. **이론 개발**은 AI와 함께하는 학습의 *메커니즘*을 만들어 내고 경험적으로 검정합니다. 즉 학습자와 AI가 어떻게 상호작용하는지를 설명하고 예측하는 생성주의, 인식론적 공동 자율성, 결여된 인지 기저선 같은 이름 붙여진 이론과 틀이 그것입니다. **철학**은 그 메커니즘이 놓이는 *전제*를 따져 묻습니다. 즉 무엇이 지식으로 셈되는지, 누가 아는 자로 셈되는지, 학습자가 근본적으로 무엇인지입니다. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|인식론적 공동 자율성]] 같은 이론은 메커니즘을 제안하면서 분산 인지와 [[agency]]에 관한 철학적 약속을 암묵적으로 채택합니다. 철학은 그 약속들을 명시적이고 논쟁 가능하게 만듭니다. 이론 개발이 어떤 틀이 학습을 잘 설명하는지를 묻는 곳에서, 철학은 그것이 학습과 마음이 진정로 무엇인지를 포착하는지를 묻습니다. 이 두 갈래는 이 분야의 가장 기초적인 논문들에서 만나며, 그것들은 흔히 둘을 동시에 합니다.
+이론 개발과 [[philosophy-of-ai-in-education|교육에서의 AI의 철학]]은 이 지식베이스의 기초적 작업의 상호 보완적이면서도 구별되는 갈래입니다. **이론 개발**은 AI와 함께하는 학습의 *메커니즘*을 만들어 내고 경험적으로 검정합니다. 즉 학습자와 AI가 어떻게 상호작용하는지를 설명하고 예측하는 생성주의, 인식론적 공동 자율성, 결여된 인지 기저선 같은 이름 붙여진 이론과 틀이 그것입니다. **철학**은 그 메커니즘이 놓이는 *전제*를 따져 묻습니다. 즉 무엇이 지식으로 셈되는지, 누가 아는 자로 셈되는지, 학습자가 근본적으로 무엇인지입니다. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|인식론적 공동 자율성]] 같은 이론은 메커니즘을 제안하면서 분산 인지와 [[agency]]에 관한 철학적 약속을 암묵적으로 채택합니다. 철학은 그 약속들을 명시적이고 논쟁 가능하게 만듭니다. 이론 개발이 어떤 틀이 학습을 잘 설명하는지를 묻는 곳에서, 철학은 그것이 학습과 마음이 진정로 무엇인지를 포착하는지를 묻습니다. 이 두 갈래는 이 분야의 가장 기초적인 논문들에서 만나며, 그것들은 흔히 둘을 동시에 합니다. 이 분야의 비평가들이 그 이론들이 열고 닫는 방향에 대해 말하는 것은 별개의 질문으로, [[critiques-of-ai-in-education|교육에서의 AI에 대한 비판]]에 모아져 있습니다.
 
 ## 실천을 위한 함의
 

@@ -1,7 +1,7 @@
 ---
 title: AIEd 연구의 한계
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - 'AI 튜터링이 학습을 30% 향상시킨다'는 헤드라인이 한 기관의 한 강의에 속한 학생 30명에게서 나온 것임을 안다면, 여러분은 그것을 얼마나 신뢰하겠습니까? 이 페이지는 일반화 가능성과 작은 표본을 되풀이되는 한계로 지목합니다. 어떤 단일 발견에 따라 행동하기 전에 무엇을 알고 싶겠습니까?
 - 두드러진 한계는 '속도 문제'입니다. 즉 AI가 발견이 출판되는 것보다 빠르게 진화하여, 한 세대 모형에 관한 연구가 이미 구식 시스템을 서술할 수 있다는 것입니다. 이것이 교육에서의 AI 연구에 두는 확신을 어떻게 바꾸어야 합니까?
 - 많은 연구가 [[self-report-measures|자기보고]]된 태도와 사용에 의존하는데, 이것은 편향되어 있습니다. 즉 사람들은 자신의 유능감을 과대평가하고 오용을 과소 보고합니다. 여러분 자신의 기술이나 행동에 관한 설문에 현실과 맞지 않게 답한 적이 있습니까? 인식 기반 측정이 객관적 수행과 그토록 자주 갈라지는 이유는 무엇입니까?
-- 이 페이지는 Bloom의 분류법 같은 익숙한 틀이 흔히 엄격한 사다리로 오독된다는 점과, [[cognitive-offloading|인지 부하]] 이론처럼 널리 쓰이는 이론조차 도전받았다는 점을 지적합니다. 어떤 이론이 자신의 증거가 실제로 논쟁 중인 맥락에서 확립된 진리로 불러 쓰이는 것을 언제 보았습니까?
+- 이 페이지는 [[bloom-taxonomy|Bloom의 분류법]] 같은 익숙한 틀이 흔히 엄격한 사다리로 오독된다는 점과, [[cognitive-offloading|인지 부하]] 이론처럼 널리 쓰이는 이론조차 도전받았다는 점을 지적합니다. 어떤 이론이 자신의 증거가 실제로 논쟁 중인 맥락에서 확립된 진리로 불러 쓰이는 것을 언제 보았습니까?
 - 대부분의 AI 연구는 자료와 갱신을 여러분이 들여다볼 수 없는 독점적·불투명한 모형에 의존합니다. 결과를 만들어 낸 모형이 정확히 무엇인지 검증할 수 없다면, 그것 위에 세워진 주장을 얼마나 신뢰할 수 있으며, 무엇이 발견을 더 재현 가능하게 만들겠습니까?
 - 1차 연구를 읽을 시간이 없는 강사나 설계자라면, 문헌이 파편화되어 있고 잠정적이며 연구자를 위해 쓰여졌다는 사실을 고려할 때, 어떤 AI 주장이 실천을 바꿀 만큼 신뢰할 만한지를 어떻게 결정하겠습니까?
 
 ## 들어가며
 
-교육에서의 AI는 빠르게 움직이고 이질적인 분야이며, 그 증거 기반은 연구자·실천자·정책 입안자가 어떤 발견을 사용할 때 저울질해야 할 독특한 한계들을 짊어집니다. 이것들 가운데 일부는 더 넓은 [[learning-sciences|학습과학]]과 심리학 문헌이 공유하는 것이고, 다른 것들은 AI 자체의 성질에 의해 증폭되거나 고유하게 만들어집니다. 이 페이지는 그것들을 네 관통 영역으로 조직합니다.
+교육에서의 AI는 빠르게 움직이고 이질적인 분야이며, 그 증거 기반은 연구자·실천자·정책 입안자가 어떤 발견을 사용할 때 저울질해야 할 독특한 한계들을 짊어집니다. 이것들 가운데 일부는 더 넓은 [[learning-sciences|학습과학]]과 심리학 문헌이 공유하는 것이고, 다른 것들은 AI 자체의 성질에 의해 증폭되거나 고유하게 만들어집니다. 이 페이지는 그것들을 네 관통 영역으로 조직합니다. 이것들은 증거에 관한 문제들이며, 그 증거가 어떤 목적을 위해 쓰이는지에 관한 별도의 논쟁은 [[critiques-of-ai-in-education|교육에서의 AI에 대한 비판]]에 모아져 있습니다.
 
 ## 방법론적 한계
 

@@ -1,7 +1,7 @@
 ---
 title: 学习者自主性
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-18T03:14:47-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026, wang-consequential-human-agency-higher-education-2026]
@@ -134,6 +138,8 @@ connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-
 该框架的边界条件要求**可争辩性**（质疑与交叉核查 AI 输出的能力）、**来源可溯**（知道训练数据与输出从何而来），以及**道德与智识功劳的不可委派**（关于学生福祉、学业地位与成绩的高风险判断不得仅由 AI 决定）。这给了教育者与[[stakeholders|政策制定者]]一套比"人的贡献与人工的贡献之间要保持平衡"这种含糊说法更精确的词汇，把自主性与[[ethics]]、[[assessment]]、[[equity-in-ai-education]]与[[governance]]相连。
 
 一个密切相关的框定是**关系性认识自主性**（[[du-yuan-epistemic-dependence-2026|Du 与 Yuan（2026）]]），它同意自主性是社会使能的、受技术中介的，而非一个与依赖相隔离的问题。在生态共同自主性框架强调人类认识问责为不可协商的边界之处，Du 与 Yuan 保留了一种明确的*不对称*：AI 系统可以在不拥有对等责任或合法权威的情况下塑造并扩展推理。他们的六项诊断判据——可争辩性、可恢复性、可迁移性、可追溯性、分布的责任与认识论多元性——提供了一个实用检验，用以判断一种人—AI 关系何时保全了学习者参与主张如何形成、评价与接受的能力，何时又只是交付一件产品。按这种说法，自主性不是对工具的独立，而是*借助、经由并反抗*那些中介知识的系统来负责任地判断的能力。
+
+[[wang-consequential-human-agency-higher-education-2026|Wang（2026）]]论证，若没有使判断产生后果的制度条件——通知、可理解的理由、人工复核、申诉与覆盖，以及有记录的问责——AI 能力本身并不充分；他并把自主性重新框定为在与制度权威的互动中达成的东西，而不是个体所持的东西。大学作为采购者、评估权威与监控使用者，既可以促成也可以约束自主性，从而把问题从仅仅学习者的能力，转向判断得以改变 AI 中介之决定的权利与程序。
 
 - **被委派的自主性作为一种机制，不只是一种风险。** [[yan-agentivism-learning-theory-ai-2026|Yan 与 Gašević（2026）]]把认知工作向 AI 的委派当作学习发生方式的一部分，而非仅仅对它的威胁：在他们的叙述中，受协助的表现只有在学习者保持对问题设定、标准设定与答案论证的责任时，才成为持久的能力——他们称这种劳动分工为被委派的自主性。这使分配本身成为设计变量，因为同一个工具可以保全也可以消解学习者自主性，取决于它吸收了哪些责任。
 

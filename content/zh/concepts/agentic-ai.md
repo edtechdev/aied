@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: 智能体式 AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -74,7 +78,7 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 - **一个报告与治理的定标器：自主性—监督—证据（AOE）框架。** [[beyond-agent-label-agentic-ai-governance-2026|Dey（2026）]]论证，*智能体式 AI*这一术语被应用得如此不一致，以至于证据与监督无法跨研究比较——那些会规划、记忆、使用工具或协调多个智能体的系统，与静态的 GenAI 界面和传统的[[pedagogical-agent|教学法智能体]]被归为一类。他对十五篇同行评审综述的批判性整合综述发现，证据在工件层级的产出（反馈准确率、[[hallucination-risk|幻觉]]减少）上最强，在持久学习、公平、工作量或机构产出上最弱，而真实的部署通常短、单一站点，且与监督关联薄弱。补救办法是一个具体的报告三元组——**自主性层级 A0–A4**（反应式生成 → 有界编排 → 被委派的任务自主性 → 工作流自主性 → 对评分/招生/进展的*后果性自主性*）、**监督层级 O0–O4**（未指明 → 回溯性审计 → 使用前批准 → 检查点式控制 → *持续的、有界监督*）与**证据成熟度阶段 M0–M5**（概念 → 原型/基准 → 参与者评价 → 真实部署 → 扩展/多站点 → *被复现的/机构规模*）——加上一条**比例规则**：可容许的自主性不应跑在证据成熟度或监督强度之前（例如，一个 A4 后果性系统要求 M4–M5 的证据、法律验证，以及 O4 加人的最终权威）。报告 *A2–O3–M3* 把含糊的"智能体式部署"主张变成可比较、可检验的规格，并给机构一套分阶段采纳、日志与回滚的语法——它是上文[[baradziej-agentic-ai-higher-education-2026|Copilot 到 Autopilot]]光谱在证据上的补充。
 - **对抗性稳健性测试：** [[adversarial-stress-testing-role-playing-agents|多智能体压力测试]]协调 Interrogator、Target 与 Judge 智能体以揭示单一策略测试所不可见的失效模式，把稳健性分数降低 0.17–0.20 分——这对人格一致性与面向学习者的[[pedagogical-safety|安全部署]]是关键的。
 - **领域应用：** 智能体式系统出现在各个领域，包括[[learnmate2-llm-adaptive-learning|自适应学习智能体]]、[[educlaw-bench-pedagogical-llm-agents-2026|教学法 LLM 智能体]]、[[guided-llm-scaffolding-independent-learning|引导式 LLM 脚手架]]、[[cyberagents-gamified-cybersecurity-learning-2026|游戏化网络安全学习智能体]]与[[hdr-brachytherapy-agentic-ai-simulation-2026|临床模拟智能体]]。
-- **智能体评分首先是可靠性问题，其次才是工作量问题。** 一次 Claude Code 部署被给予三份量规文件与一门计算机图形课程的 60 份扫描手写期中试卷。它给出的分数与教师一致（r = 0.97），在一份 20 分试卷上的平均绝对误差为 0.85 分，AI 正向偏差均值为 0.68，相隔一周的两次会话的重测 ICC = 0.96。总体数字掩盖了它在何处失效：加权 kappa 从多项选择题的 0.98 降到评价性题目的 0.65，手绘图是最弱的情况（[[alghamdi-claude-code-agentic-grading-2026|AlGhamdi，2026]]）。一门课程、一位教师、一套量规界定了方差所在；它们并不证明智能体评分可以推广。
+- **智能体评分首先是可靠性问题，其次才是工作量问题。** 一次 Claude Code 部署被给予三份[[rubrics|评分量规]]文件与一门计算机图形课程的 60 份扫描手写期中试卷。它给出的分数与教师一致（r = 0.97），在一份 20 分试卷上的平均绝对误差为 0.85 分，AI 正向偏差均值为 0.68，相隔一周的两次会话的重测 ICC = 0.96。总体数字掩盖了它在何处失效：加权 kappa 从多项选择题的 0.98 降到评价性题目的 0.65，手绘图是最弱的情况（[[alghamdi-claude-code-agentic-grading-2026|AlGhamdi，2026]]）。一门课程、一位教师、一套量规界定了方差所在；它们并不证明智能体评分可以推广。
 
 智能体式架构以可测量的精确度代价换取覆盖面。在 [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah 等人（2026）]] 对 926 份招聘样本与 1,696 项黄金标准技能的基准测试中，一个配有 ESCO 查询工具的 ReAct 智能体在增强召回上领先，达 89.7%，最好的生成式配置为 83.7%，最好的嵌入模型为 49.1%。其精确度为 22.7%，F1 因此只有 36.3%，低于同样接入工具的 Gemini 2.5 Flash 的 51.6%，且它每个样本约需 16 秒。当由人类顾问来删减清单时，召回是正确的度量；未经中介的输出则需要那个有工具支撑的替代方案。
 
@@ -142,6 +146,8 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 
 这就把智能体式 AI 的讨论连接到本知识库的[[academic-integrity]]覆盖，后者把回应框定为评估重设计与[[ai-literacy]]，而非仅靠检测。
 
+- **控制工件本身也可能由智能体撰写。** [[pinto-student-ownership-ai-agents-code-2026|Pinto 等（2026）]] 让 18 对学生结对在规格驱动开发下构建系统，发现智能体撰写了 69% 本应用于让学生保持控制的规格说明，有时仅凭几个词的提示，于是那份本应认证学习者的规格本身是智能体作者的。
+
 ## 生产性摩擦与社会交互
 
 并非所有智能体行为都必须是平滑的协助。[[ai-agents-constructive-conflict-design-education-2026|对抗性设计智能体研究]]表明，施行**建设性冲突**的智能体，在新手交互设计者中显著提示了更多设计迭代、更广的替代方案探索与更高评价的最终设计（N=48）——一种*生产性摩擦*动态，其中冲突智能体令人沮丧却终究有帮助。这连接到[[socratic-method|苏格拉底式提问]]与[[design-thinking]]，并例示了智能体式 AI 如何支持深层的重思，而非被动的接受。
@@ -160,6 +166,8 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 - **建立教师的[[ai-literacy]]。** 教师与设计者需要对智能体式 AI 有准确的心智模型，才能配置、监控并批评这些系统——并为学习者示范负责任的使用。这连接到[[teacher-ai-competency]]与[[educational-development|教师发展]]。
 - **留意公平。** 如果机会不均等、或自动化侵蚀了对最需要者的支持，智能体工具有扩大差距之险；带着[[equity-in-ai-education]]的意识来设计。
 - **在扩展之前立起机构的脚手架。** 部署问题不只是设计层面的，也是机构层面的。[[baradziej-agentic-ai-higher-education-2026|Baradziej（2026）]]的综合把治理证据浓缩为三根支柱：在学生*与*教职员中发展[[ai-literacy]]；在大规模部署*之前*建立[[ethics|伦理]]基础设施（数据保护政策、算法问责与学术诚信框架）；交付基于能力的[[educational-development|教育者培训]]，它超出工具熟悉、走向保全人的能动性的教学框架。鉴于在某些国家语境中只有约 6.5% 的教师报告直接使用 AI，培训缺口是负责任采纳的一个约束性条件。
+
+- **测量人们把委托界线划在哪里。** [[raman-agentic-ai-delegation-diffusion-2026|Raman、Tang 与 Nedungadi（2026）]] 对 290 名大学教师做了一项随机行为选择实验：92% 委托了题目编写，但只有 20% 在无人监督下把测验发布到平台，仅 5% 选择自动发布。只起草与需批准的门控配置更受偏好，因此界线落在不可逆的平台动作上，而非内容生成上。
 
 ### 在智能体式 AI 中确保学术诚信的技术
 

@@ -1,7 +1,7 @@
 ---
 title: 学习设计
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire, elearning-prompt-library]
 translation_of: concepts/learning-design
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
 connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023, bubnys-sustainable-ai-reflective-learning-2026]
@@ -66,7 +70,7 @@ Aila 试验为这一模式给出了一个备课时间的数字。在其随机化
 
 **约束工具以保护思维。** 一个为期九周的论辩写作设计编排了由教师界定范围的[[conversational-ai|聊天机器人]] — 它们提问并拒绝生成学生散文 — 而四名高中生从被动的人工智能消费者转变为敢于反驳输出的评价者；与增益同步的是策略性约束，而非不受限制的生成能力（[[making-ai-annoying-constrained-writing-2026|Konradt、Boote 与 Taub（2026）]]）。
 
-**评分规则引导的提问作为设计杠杆。** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等人（2026）]]证明评分规则充当人类教学意图与机器推断之间的中介界面：把评估标准当作可修订的设计制品 — 而非固定工具 — 并与大语言模型迭代地共同精炼它们，使学生设计工作上的大语言模型—人类一致性从 54.75% 提高到 81.25%。为大语言模型设计的评分规则必须平衡精确与灵活 — 太含糊引来自由解释，太僵化则把模型沦为模式匹配 — 而角色感知的提问（教师、同侪评审、基金评审）产生各异的评价性反馈。这把评分规则工程定位为塑造人工智能评价行为的具体学习设计实践，人在环监督仍不可或缺。
+**评分规则引导的提问作为设计杠杆。** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等人（2026）]]证明[[rubrics|评分规则]]充当人类教学意图与机器推断之间的中介界面：把评估标准当作可修订的设计制品 — 而非固定工具 — 并与大语言模型迭代地共同精炼它们，使学生设计工作上的大语言模型—人类一致性从 54.75% 提高到 81.25%。为大语言模型设计的评分规则必须平衡精确与灵活 — 太含糊引来自由解释，太僵化则把模型沦为模式匹配 — 而角色感知的提问（教师、同侪评审、基金评审）产生各异的评价性反馈。这把评分规则工程定位为塑造人工智能评价行为的具体学习设计实践，人在环监督仍不可或缺。
 
 **面向教学设计的人工智能代理**把该领域延伸到[[agentic-ai|代理式人工智能]]。**[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**是第一个标准化的、有理论依据的基准，用于评价基于大语言模型的教学设计代理 — 其 25,795 个情境的情境矩阵（51 个情境变量 × 33 个来自 ADDIE 的 ISD 子步骤）表明，扎根于经典 ISD 框架（ADDIE、Dick & Carey、快速原型 ISD）的代理优于无理论代理，经验地验证了教学设计是一个结构化纪律，而非通用提问任务。代理不只是设计的*构建者*，也是*批评者*：[[ai-web-agents-lesson-design-2025|Wang、Mitchell 与 Piech（2025）]]使用一个自主网络代理，像学生一样浏览一个多步骤的在线课程，在真实学习者参与*之前*评价一个学习设计 — 它对[[student-experience|学生体验]]的描述预测新手将在哪里流失，并浮现可行动的设计反馈，优于每个基线乃至一个模拟的学生群体（在一门全局 CS1 课程上）。这把上线前的、代理式评价框定为人类设计迭代的低成本补充。**[[wang-multi-agent-systems-learning-designers-2025]]**与**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**探索围绕教学设计模型编排基于角色的代理的多代理框架，而**[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**考察教师与代理如何共同应用技术—教学—内容知识。这项工作把教学设计连接到[[benchmark|基准测试]]、[[ai-ed-evaluation]]与大规模[[curriculum-design|课程]]的设计。
 
@@ -121,6 +125,10 @@ Fowlin 等人（2026）为决定人工智能在哪里进场增加了一个操作
 - **设计者要求的是可操控性，而不是自主性。** 八位教学设计者测试一个题目生成平台（[[wei-perspicacious-instructional-design-2026|Wei 等人，2026]]），希望掌控难度、格式与来源，给出 78.8 的 SUS 评分，并把信任称为采用的前提条件。
 
 在 Zhang 及其同事的综述中，设计对效应的调节作用大于技术本身：同样的生成式 AI 能力，在学习者主导时产生 g = 0.92，在自主运行时产生 g = 0.34。因此交互模式是一项设计决策，而不是工具的一项属性（[[zhang-genai-l2-learning-meta-analysis-2026|Zhang 等人，2026]]）。
+
+**一个反思性学习的设计与审计循环。** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys 等人（2026）]] 提出 SAREL——规定所要的反思能力与一个非 AI 对照项；分配学习者控制以及一条等效的可及路径；要求反思与核验；在学习之外连同公平、工作量与资源使用一起评价；把证据回灌进重新设计——以此把 AI 支持的反思保持为一个比较性的设计问题，而不是采用所带来的假定收益。这五个阶段是一份未经检验的作者提议，用于提出正确的问题，而不是一种被检验过的方法。
+
+**为课程之上与之下的层次而设计。** 一门课程是一个更大系统中的一个层次：其中的学习者带着[[prior-knowledge|先备知识]]与课外义务进入，而周围的机构设定工作量、采购与评估规则。[[learning-environments-as-systems|作为系统的学习环境]]命名了那种把这些层次当作相互作用来对待的立场，于是课程层面所选的工具要对照机构的约束与学习者的实际情况来核查，而不是仿佛课程是封闭的来评价它。
 
 ## 常见误解
 

@@ -1,7 +1,7 @@
 ---
 title: AI 素养
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, metaphors-and-analogies, learners, automation-bias, generative-ai, llm, critical-thinking, prompt-engineering, metacognition, cognitive-offloading, reducing-ai-misuse, academic-integrity, self-assessment, trust-calibration, ai-sycophancy, equity-in-ai-education, digital-divide, ethics, teacher-ai-competency, educational-development, ai-assisted-educational-research, k-12, higher-ed, career-development-and-readiness, ai-education, civic-and-political-education, critiques-of-ai-in-education]
 connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhanced-oer-composition-2026, guo-ai-literacy-developmental-paces-2026, cerioli-human-centered-ai-literacy-schools-2026, islam-credibility-weaker-llms-2026, yang-collaborative-ai-literacy-measures-review-2026, early-childhood-ai-holistic-competencies-review-2026, ai-security-literacy-k12-framework-2026, mu-ai-competence-ethical-awareness-anxiety-2026, caeai-digital-literacy-frameworks-review-2026, ai-literacies-young-adults-2025, ai-literacy-heptagon-2026, ai-literacy-continuum-higher-education, ai-literacy-measurement-conceptual-landscape-llm-2026, ai-literacy-instrument-development-systematic-review-2026, gails-generative-ai-literacy-scale-2026, jin-glat-genai-literacy-assessment, ai-literacy-assessment-misalignment, genai-assessment-literacy-scale-2026, competent-generative-ai-use-measures-review-2026, ai-literacy-correlates-affective-behavioral-cognitive-2025, assessing-teachers-ai-literacy-measurement-tools-2026, ai-literacy-self-assessment-questionnaire-primary-2025, metacognitive-ai-literacy-beyond-skills-gap-2026, liu-ai-literacy-interventions-meta-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, age-tiered-ai-literacy-guidebooks-2026, li-mroziak-reorienting-critical-ai-literacy, miles-prompt-literacy-human-centered-genai-framework-2026, contextual-sycophancy-ai-literacy, student-dependency-on-ai-literacy-self-efficacy-2026, clerc-ai-literacy-workshop-llm-regulation-2026, ai-literacy-sdg-governance-framework-2026, ukraine-ai-literacy-secondary-framework-2026, niri-steam-ai-literacy-review-2026, hingle-collaborative-ai-literacy-2025, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, davor-ai-supported-learning-higher-order-outcomes-2026, yu-designing-ai-literacy-self-determination-2026, hu-psychological-predictors-continued-chatgpt-use-2026, zhi-modeling-measuring-graduate-genai-literacy-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-higher-ed-agency-responsibility-discourse-2026, elsayary-ai-literacy-employability-competencies-2026, fagerlund-competency-agency-purposes-ai-education-2026, charles-teacher-readiness-by-design-ai-rich-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, sun-student-genai-entanglement-literacy-demands-2026, ai-competence-framework-landscape-2026, ai-literacy-determinants-university-students-2026, sfailq-six-facet-ai-literacy-questionnaire-2026, faculty-ai-well-being-social-supports-2026, bozkurt-3wai-literacy-scale-2026, hallstrom-ai-literacy-stem-education-frontiers-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, genait-genai-literacy-test-high-school-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, kim-overtrust-ai-literacy-2026, liang-ai-literacy-facets-creative-higher-education-2026, chen-genai-literacy-task-performance-cognitive-load-2026, huang-ai-literacy-vocational-problem-solving-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, roe-perkins-furze-metaphors-critical-ai-literacy-2025, cuenca-rodriguez-genai-use-caution-trajectories-2026, boison-freirean-critical-ai-literacy-framework-2026, dumancic-tool-to-method-ai-literacy-history-2026, ago-prompt-literacy-allied-health-2026, making-ai-work-for-students-ofs-2026, yan-genai-use-critical-thinking-feedback-literacy-2026, ethics-education-meta-analysis-moral-outcomes-2026, idea-model-doctoral-education-genai-2026, ke-three-tier-ai-literacy-architecture-2026]
@@ -46,7 +50,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhance
 
 ## 引言
 
-随着 [[generative-ai|生成式 AI]] 深度嵌入教育，AI 素养已迅速成为学习者、教育者与机构的核心素养。与一般数字素养不同，AI 素养要求理解会产生幻觉、表现出 [[bias-mitigation|偏见]]、并把 [[agency|能动性]] 从人转移到机器的概率性系统 —— 这使 [[critical-thinking|批判性思维]] 与 [[cognitive-offloading|过度依赖]] 成为该构念的核心。
+随着 [[generative-ai|生成式 AI]] 深度嵌入教育，AI 素养已迅速成为学习者、教育者与机构的核心素养。与一般数字素养不同，AI 素养要求理解会产生幻觉、表现出 [[bias-mitigation|偏见]]、并把 [[agency|能动性]] 从人转移到机器的概率性系统 —— 这使 [[critical-thinking|批判性思维]] 与 [[cognitive-offloading|过度依赖]] 成为该构念的核心。这种能力框架是否充分、它是否把一种面向消费者的导向强加于 AI，是一个活跃的批判，展开于[[critiques-of-ai-in-education|对教育中 AI 的批判]]。
 
 ## AI 素养的维度
 
@@ -66,7 +70,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhance
 
 **实践能力：** 有效使用 AI 工具的能力 —— 从 [[prompt-engineering|提示工程]] 到解读输出。对 [[genai-usage-design-students-survey|学生生成式 AI 使用模式]] 的研究揭示，仅有工具访问并不能产生能力；结构化的练习与 [[scaffolding|支架]] 必不可少。[[gaide-vibe-coding-k12-teachers|vibe coding 框架]] 展示了 [[k-12|K-12 教师]] 如何通过有指导的工具创建来发展实践性 AI 素养。[[miles-prompt-literacy-human-centered-genai-framework-2026|Miles、Haber-Curran 与 Arar（2026）]] 论证这一维度含有一块优化类培训遗漏的部分：提示素养（prompt literacy）有别于提示工程，它把提示视为一种修辞与伦理行为，因此只针对输出效果调优的教学会让大语言模型使用的伦理与认识论维度 untouched（未被触及）。
 
-**批判性评估：** 评估 AI 输出的准确性、偏见与恰当性的能力。[[ai-literacy-assessment-misalignment|素养评估方面的研究]] 显示自陈 AI 素养与基于表现的 AI 素养之间存在 40% 的差距 —— 人们持续高估自己的评估技能。这种背离是本知识库中 [[self-report-measures|自陈测量]] 未能追踪其所命名能力的最清楚案例。这与 [[cognitive-offloading|过度依赖]] 研究相关：无批判地 [[trust|信任]] AI 的学生学得更少。近期的概念性工作把评估推向 *验证*：[[pearls-epistemic-verification-2026|PEARLS 框架]]（Wang）把 AI 输出当作一条 provisional knowledge claim（临时性知识主张），其正当性须沿六个维度组装与检视（过程、证据、获取、可复现性、正当性、来源），并提出 **验证驱动学习** 作为学习者在核查 AI 主张过程中建立专门知识的机制。与之互补，[[student-centered-genai-responsible-framework-2026|以学生为中心的负责任使用框架]]（Alsammani）在“学习与成长”“伦理与诚信”“觉察与安全”三大支柱下提供十条面向学生的指引，把 [[metacognition|元认知]] 提示外置于决策发生的那一刻。面向 [[k-12|中学]] 学习者，[[aarc-ai-research-competency-2026|AI 辅助研究能力（AARC）框架]]（Beau、Flaquière & Lazar 2026）将其奠基于德性认识论与 AI 直觉，把研究素养定义为在不交出 [[agency|署名]]、判断、验证与责任的前提下借助 AI 开展探究 —— 落地形态为一份分析性量规和一套“验证—引用—反思”的承诺例行程序。在 [[assessment|评估]] 一端，[[human-capability-test-learning-outcomes-ai-2026|Saleh（2026）]] 提出一项 *人类能力测试*，把评估变成一条设计原则：问学生必须独立演示什么、什么可以通过 AI 增强得到加强、什么必须由学生验证、辩护并承担责任。
+**批判性评估：** 评估 AI 输出的准确性、偏见与恰当性的能力。[[ai-literacy-assessment-misalignment|素养评估方面的研究]] 显示自陈 AI 素养与基于表现的 AI 素养之间存在 40% 的差距 —— 人们持续高估自己的评估技能。这种背离是本知识库中 [[self-report-measures|自陈测量]] 未能追踪其所命名能力的最清楚案例。这与 [[cognitive-offloading|过度依赖]] 研究相关：无批判地 [[trust|信任]] AI 的学生学得更少。近期的概念性工作把评估推向 *验证*：[[pearls-epistemic-verification-2026|PEARLS 框架]]（Wang）把 AI 输出当作一条 provisional knowledge claim（临时性知识主张），其正当性须沿六个维度组装与检视（过程、证据、获取、可复现性、正当性、来源），并提出 **验证驱动学习** 作为学习者在核查 AI 主张过程中建立专门知识的机制。与之互补，[[student-centered-genai-responsible-framework-2026|以学生为中心的负责任使用框架]]（Alsammani）在“学习与成长”“伦理与诚信”“觉察与安全”三大支柱下提供十条面向学生的指引，把 [[metacognition|元认知]] 提示外置于决策发生的那一刻。面向 [[k-12|中学]] 学习者，[[aarc-ai-research-competency-2026|AI 辅助研究能力（AARC）框架]]（Beau、Flaquière & Lazar 2026）将其奠基于德性认识论与 AI 直觉，把研究素养定义为在不交出 [[agency|署名]]、判断、验证与责任的前提下借助 AI 开展探究 —— 落地形态为一份分析性[[rubrics|评分量规]]和一套“验证—引用—反思”的承诺例行程序。在 [[assessment|评估]] 一端，[[human-capability-test-learning-outcomes-ai-2026|Saleh（2026）]] 提出一项 *人类能力测试*，把评估变成一条设计原则：问学生必须独立演示什么、什么可以通过 AI 增强得到加强、什么必须由学生验证、辩护并承担责任。
 
 学科性验证把同一标准提得更高。[[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit 与 Rivera Alvarez（2026）]] 论证，在大学 [[chemistry-education|化学]] 中，核心的 AI 素养需求是在 Johnstone 的宏观、亚微观与符号三种域之间做表征转换，因为一个输出可以在某一域中 locally persuasive（局部有说服力），却在另一域中与电荷平衡、某种机理或安全限值相矛盾。他们的补救方案是以验证为中心的整合：把验证变成一项被评估的活动，保留提示日志与修改历史作为推理痕迹，并把提示视为一种明确规定约束、假设与充分性判据的认识论行为，由学生找出一个错误假设或论证拒绝某条生成答案的理由。
 
@@ -188,7 +192,7 @@ AI 素养的一个核心开放问题是 *哪些* 技能重要、对谁重要。�
 
 **1. 用结构化能力框架作支架，而非清单。** 成熟的框架给设计者共享的词汇与发展性排序的目标。[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL 框架]] 把 AI 素养组织成三个域（AI 概念；应用与技术技能；AI 数字公民），跨四个支架化层级 —— 理解与探索 → 应用与整合 → 评估与创造 → AI++。[[ai-literacy-heptagon-2026|AI 素养七边形]] 把七个维度（技术知识、应用、批判性思维、伦理、社会影响、整合、法律/监管）与四个对齐布鲁姆的精通层级交叉，并强调侧重必须 **按学科情境调整** —— 技术类项目侧重应用，[[humanities-education|人文]] 类项目侧重伦理与社会影响推理。([[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]])([[ai-literacy-heptagon-2026]])
 
-**2. 让学习者参与多种 ICAP 模式。** 运用 [[icap-framework|ICAP 框架]]，有效的教学让学习者有机会在多个认知层级上参与 —— 被动接触（AI 概念讲座）、主动操作（动手使用工具）、建构性生成（创造 AI 制品、自我解释）与互动对话（与同伴和 AI 协作 [[problem-solving|解决问题]]）—— 选择契合学习目标的模式。一项 [[meta-analysis-systematic-review|系统综述]] 发现，成功的协作式 AI 素养干预横跨全部四种 ICAP 模式。([[hingle-collaborative-ai-literacy-2025]])
+**2. 让学习者参与多种 ICAP 模式。** 运用 [[icap-framework|ICAP 框架]]，有效的教学让学习者有机会在多个认知层级上参与 —— 被动接触（AI 概念讲座）、主动操作（动手使用工具）、建构性生成（创造 AI 制品、自我解释）与互动对话（与同伴和 AI 协作 [[problem-solving|解决问题]]）—— 选择契合学习目标的模式。一项 [[meta-analysis-systematic-review|系统综述]] 发现，成功的协作式 AI 素养干预横跨全部四种 ICAP 模式。([[hingle-collaborative-ai-literacy-2025]]) 这一模式区分并非装饰性的：在 AI 之外，一项关于伦理教学（ethics instruction）的元分析发现，道德结果总体上有改善，但增益来自以讨论为形式的交付，而纯讲授式交付没有产生任何增益（[[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod 等，2026]]）。
 
 **3. 评估已演示的能力，而非自我感知。** 自陈 AI 素养与实测表现严重脱节 —— 教师高估自身 AI 技能约 40%，且基于表现的测量与课堂 AI 整合的相关远好于自陈报告（r≈0.72 对 0.31）。围绕基于表现的评估与校准设计干预，而不是信心调查，并用诊断画像（高估者与真正的新手）来定向支持。([[ai-literacy-assessment-misalignment]])
 
@@ -209,6 +213,8 @@ AI 素养的一个核心开放问题是 *哪些* 技能重要、对谁重要。�
 即便专业课程已然存在，供给依然单薄。在一所加纳公立大学的 417 名相关健康专业本科生中，76.3%（n = 318）报告此前未接受过负责任 AI 使用的培训，40.8% 认为学术人员的指导不足，28.1% 认为恰当（[[ago-prompt-literacy-allied-health-2026|Ago 等人（2026）]]）。因此健康专业中的干预设计，起点是从未被教过这些材料的新手，而不是在既有课程上延伸的学习者。
 
 在近期该领域的两种叙述中，排序都显现为最重要的设计决策。[[powell-chatbot-enhanced-oer-composition-2026|Powell 等人（2026）]] 把简短的 AI 素养视频放在一门异步写作课程的第 1 至第 4 周，先于学生需要该助手的作业，学生与教师都把这些视频称为让可接受使用变得可读的要素。[[jordan-faculty-ai-oer-creation-2025|Jordan 等人（2025）]] 为教师运行了同样的逻辑：八周、带薪时间、一个同侪队列，以及一套用于批评输出的共享框架，使自陈熟悉度小幅上升（五点量表上从 3.2 到 3.5），而每位参与者的舒适度都升至四或五。
+
+对课程进行分层是又一个设计动作：[[ke-three-tier-ai-literacy-architecture-2026|Ke（2026）]] 把操作流利度、评估性素养与互补能力排成一条依赖链，并指出最便宜的那一层也是贬值最快的一层。
 
 ## 测量 AI 素养
 

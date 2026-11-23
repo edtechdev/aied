@@ -1,7 +1,7 @@
 ---
 title: AIEd अनुसंधान की सीमाएँ
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-20T17:32:04-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-20T07:28:37-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - 'AI ट्यूटिंग से सीखने में 30% की वृद्धि' जैसी किसी सुर्ख़ी को आप कितना भरोसा देंगे यदि आपको पता चले कि यह एक संस्थान के एक पाठ्यक्रम में 30 विद्यार्थियों से आई है? यह पेज सामान्यीकरण और छोटे प्रतिदर्श को बार-बार आने वाली सीमाएँ बताता है — किसी एक निष्कर्ष पर आगे बढ़ने से पहले आप क्या जानना चाहेंगे?
 - एक उल्लेखनीय सीमा 'गति की समस्या' है: AI, प्रकाशित निष्कर्षों से तेज़ी से बदलता है, इसलिए एक मॉडल पीढ़ी का अध्ययन पहले ही एक अप्रचलित प्रणाली का वर्णन कर सकता है। इससे AI शिक्षा अनुसंधान पर आपका विश्वास कैसे बदलना चाहिए?
 - कई अध्ययन [[self-report-measures|स्व-रिपोर्ट किए गए]] दृष्टिकोण और उपयोग पर निर्भर करते हैं, जो पक्षपाती होते हैं — लोग अपनी competence को अधिक आँकते हैं और misuse की रिपोर्ट कम करते हैं। क्या आपने कभी अपने कौशल या व्यवहार के बारे में ऐसा सर्वेक्षण उत्तर दिया जो वास्तविकता से मेल न खाता हो? अनुभव-आधारित माप ऐसे बार-बार वस्तुनिष्ठ प्रदर्शन से अलग होते हैं, क्यों?
-- पेज बताता है कि Bloom's taxonomy जैसे परिचित ढाँचों को अक्सर कठोर सीढ़ियों की तरह गलत समझा जाता है, और कि [[cognitive-offloading|cognitive load]] theory जैसे व्यापक रूप से उपयोग किए जाने वाले सिद्धांतों पर भी सवाल उठाए गए हैं। आपने कब किसी सिद्धांत को स्थिर सत्य की तरह उस संदर्भ में लागू देखा है जहाँ उसका अपना प्रमाण ही विवादास्पद था?
+- पेज बताता है कि [[bloom-taxonomy|Bloom's taxonomy]] जैसे परिचित ढाँचों को अक्सर कठोर सीढ़ियों की तरह गलत समझा जाता है, और कि [[cognitive-offloading|cognitive load]] theory जैसे व्यापक रूप से उपयोग किए जाने वाले सिद्धांतों पर भी सवाल उठाए गए हैं। आपने कब किसी सिद्धांत को स्थिर सत्य की तरह उस संदर्भ में लागू देखा है जहाँ उसका अपना प्रमाण ही विवादास्पद था?
 - अधिकांश AI अनुसंधान स्वामित्व-सुरक्षित, अपारदर्शी मॉडलों पर निर्भर करता है जिनका डेटा और अपडेट आप नहीं देख सकते। यदि आप यह सत्यापित नहीं कर सकते कि किस मॉडल ने कोई नतीजा दिया, तो उस पर आधारित दावों पर आप कितना भरोसा कर सकते हैं — और क्या निष्कर्षों को अधिक पुनरुत्पाद्य बना सकता है?
 - यदि आप कोई प्रशिक्षक या डिज़ाइनर हैं जिसके पास प्राथमिक अनुसंधान पढ़ने का समय नहीं है, तो आप कैसे तय करेंगे कि कौन-से AI दावे अपनी प्रथा बदलने के लिए कितने भरोसायोग्य हैं — यह देखते हुए कि साहित्य खंडित, अस्थायी और शोधकर्ताओं के लिए लिखा है?
 
 ## भूमिका
 
-शिक्षा में AI एक तेज़ी से बदलता, विविध क्षेत्र है, और इसका प्रमाण-आधार ऐसी विशिष्ट सीमाओं को वहन करता है जिन्हें शोधकर्ता, अभ्यासी और नीति-निर्माता किसी भी निष्कर्ष के उपयोग में तौलना चाहिए। इनमें से कुछ व्यापक [[learning-sciences|learning-sciences]] और मनोविज्ञान साहित्य के साथ साझी हैं; अन्य AI की प्रकृति से बढ़ाए या अद्वितीय बनाए जाते हैं। यह पेज इन्हें चार व्यापक क्षेत्रों में व्यवस्थित करता है।
+शिक्षा में AI एक तेज़ी से बदलता, विविध क्षेत्र है, और इसका प्रमाण-आधार ऐसी विशिष्ट सीमाओं को वहन करता है जिन्हें शोधकर्ता, अभ्यासी और नीति-निर्माता किसी भी निष्कर्ष के उपयोग में तौलना चाहिए। इनमें से कुछ व्यापक [[learning-sciences|learning-sciences]] और मनोविज्ञान साहित्य के साथ साझी हैं; अन्य AI की प्रकृति से बढ़ाए या अद्वितीय बनाए जाते हैं। यह पेज इन्हें चार व्यापक क्षेत्रों में व्यवस्थित करता है। ये प्रमाण में की गई समस्याएँ हैं; साक्ष्य जिन उद्देश्यों की सेवा करता है, उसके बारे में एक अलग तर्क-सामग्री [[critiques-of-ai-in-education|शिक्षा में AI की आलोचना]] के अंतर्गत एकत्र की गई है।
 
 ## तकनीकी सीमाएँ
 

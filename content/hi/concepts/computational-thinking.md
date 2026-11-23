@@ -1,7 +1,7 @@
 ---
 title: "संगणकीय चिंतन"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-20T17:35:27-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: qwen/qwen4-max:free
     role: translation
     date: "2026-11-20"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -59,7 +63,17 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 - मापन का चुनाव फैसला बदल देता है: संगणकीय- और समालोचनात्मक-चिंतन प्रविष्टियाँ 23 में से 13 समान-संरचना युग्मों में असंगत या मिश्रित निष्कर्षों तक पहुँचीं, इसलिए एक स्व-रिपोर्ट CT सर्वेक्षण और एक कार्य-आधारित माप अक्सर असहमत होते हैं ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]])।
 - संगणकीय चिंतन को एक अभिवृत्ति के रूप में भी मापा जाता है: पाँचवीं कक्षा के एक तीन-सप्ताह के खेल अध्ययन में, समायोजित स्व-रिपोर्ट CT प्रवृत्तियाँ GenAI कक्षा के पक्ष में रहीं, 4.325 बनाम 4.037 (p = .046, partial eta-squared = .052, n = 78)। एक एल्गोरिथमिक-ज्ञान परीक्षण ने उन्हें अलग नहीं किया (80.7 बनाम 74.9), इसलिए प्रवृत्ति और ज्ञान माप भिन्न संरचनाओं को ट्रैक करते रहे ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]])।
 
-उप-कौशल प्रोफ़ाइल उस एकल CT स्कोर को जटिल बनाती हैं जो कोई पूर्व-पश्चात डिज़ाइन रिपोर्ट करता है। [[koraneekij-codecraft-computational-thinking-2026|Koraneekij और Khlaisang (2026)]] ने कंप्यूटिंग से बाहर के 28 थाई स्नातक छात्रों को आठ सप्ताह के तीन-घंटे के सत्रों से गुज़ारा, जिनमें पाँच-चरणीय [[design-thinking|डिज़ाइन-थिंकिंग]] चक्र को लो-कोड ऐप निर्माण के साथ जोड़ा गया, और परियोजना कार्य को तीन-बिंदु रूब्रिक पर स्कोर किया गया। औसत संगणकीय चिंतन पहले सत्र के 1.13 से बढ़कर 1.80 और फिर 2.49 हुआ, जिसमें एल्गोरिथमिक चिंतन 2.08 के साथ सबसे मजबूत धारा रहा और उसका प्रक्षेपवक्र 1.46 से 1.93 से 2.86 रहा। तार्किक चिंतन का औसत 1.54 रहा और पहले दो सत्रों के बीच, 1.04 से 1.29, मुश्किल से बढ़ा, फिर तीसरे में 2.29 तक पहुँचा — यह याद दिलाने के लिए कि एक घटक में लाभ का अर्थ यह नहीं कि दूसरे भी साथ बढ़े।
+उप-कौशल प्रोफ़ाइल उस एकल CT स्कोर को जटिल बनाती हैं जो कोई पूर्व-पश्चात डिज़ाइन रिपोर्ट करता है। [[koraneekij-codecraft-computational-thinking-2026|Koraneekij और Khlaisang (2026)]] ने कंप्यूटिंग से बाहर के 28 थाई स्नातक छात्रों को आठ सप्ताह के तीन-घंटे के सत्रों से गुज़ारा, जिनमें पाँच-चरणीय [[design-thinking|डिज़ाइन-थिंकिंग]] चक्र को लो-कोड ऐप निर्माण के साथ जोड़ा गया, और परियोजना कार्य को तीन-बिंदु [[rubrics|रूब्रिक]] पर स्कोर किया गया। औसत संगणकीय चिंतन पहले सत्र के 1.13 से बढ़कर 1.80 और फिर 2.49 हुआ, जिसमें एल्गोरिथमिक चिंतन 2.08 के साथ सबसे मजबूत धारा रहा और उसका प्रक्षेपवक्र 1.46 से 1.93 से 2.86 रहा। तार्किक चिंतन का औसत 1.54 रहा और पहले दो सत्रों के बीच, 1.04 से 1.29, मुश्किल से बढ़ा, फिर तीसरे में 2.29 तक पहुँचा — यह याद दिलाने के लिए कि एक घटक में लाभ का अर्थ यह नहीं कि दूसरे भी साथ बढ़े।
+
+## सिस्टम सोच एक CT प्रथा के रूप में
+
+सिस्टम सोच Weintrop और सहयोगियों द्वारा विकसित गणित और विज्ञान के लिए संगणकीय-चिंतन वर्गीकरण के चार डोमेनों में से एक है, अन्य हैं डेटा प्रथाएँ, संगणकीय समस्या-समाधान प्रथाएँ और मॉडलिंग तथा सिमुलेशन प्रथाएँ। इसकी परिभाषा सटीक है: **सिस्टम की सीमाएँ निर्धारित करने और सूक्ष्म-स्तरीय अन्योन्यक्रियाओं को मैक्रो-स्तरीय व्यवहार में संश्लेषित करने की क्षमता**। यह शिक्षार्थी-स्तर की संज्ञानात्मक क्षमता है — किसी सिस्टम के बारे में सोचने का एक तरीका — और सीखने के वातावरण को प्रणाली के रूप में मानने वाले परिवेश-स्तरीय दृष्टिकोण से भिन्न है ([[learning-environments-as-systems|सीखने के वातावरण एक प्रणाली के रूप में]])।
+
+यह वह डोमेन भी है जहाँ मूल्यांकन सबसे पहले टूटता है। [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch और Rebello (2026)]] ने प्रारंभिक संगणकीय भौतिकी पाठ्यक्रम में 936 छात्रों की लिखित व्याख्याओं को वर्गीकरण के विरुद्ध कोडित किया, 10 छात्रों (60 प्रतिक्रियाएँ, Fleiss का κ = 0.53) पर मानव आधाररेखा अंशांकित की और फिर 50 छात्रों (300 प्रतिक्रियाएँ) को बहुमत मत से कोडित किया। छात्रों ने डेटा प्रथाओं में सबसे अधिक वृद्धि दर्ज की (p < 0.001, d = 1.03), संगणकीय समस्या-समाधान में मध्यम (d = 0.52) और सिस्टम सोच में (d = 0.45)। परंतु सिस्टम सोच *मानवों और मॉडलों दोनों* के लिए सबसे कम भरोसेमंद निर्माण था: मानव सहमति κ = 0.51 और LLM κ = 0.48, जबकि डेटा प्रथाओं के लिए κ = 0.90 और मॉडलिंग तथा सिमुलेशन के लिए κ = 0.78। लेखकों की पठन यह है कि कठिनाई निर्माण की जटिलता से आती है, मॉडल की कमी से नहीं — एक बहु-घटक निर्माण जो छात्र से घटकों की *पहचान और* उनके अन्योन्यक्रियाओं एवं परिणामों की व्याख्या दोनों माँगता है, किसी सुव्यक्त निर्माण की तुलना में कोड करने में कठिन होता है। मॉडलिंग और सिमुलेशन में d = 0.00 अलग कारण से दिखा, एक सीलिंग प्रभाव: निर्देश-पूर्व माध्य पहले से 2 में से 1.62 था, इसलिए वह मद वृद्धि के बजाय आधारभूत ज्ञान माप रही थी।
+
+व्यावहारिक निष्कर्ष मॉडल की समस्या नहीं, रूब्रिक-डिज़ाइन की समस्या है। उनकी सिफ़ारिश रूब्रिक को इस तरह पुनर्लिखित करने की है कि सिस्टम घटकों की पहचान अलग से अंकित हो, उन घटकों के अन्योन्यक्रिया की व्याख्या से, और एक एकीकृत निर्माण पर स्वचालित सहमति कम होने को ऑटोमेशन छोड़ने के बजाय उपकरण संशोधित करने के संकेत के रूप में पढ़ा जाए। यह वही चाल है जो [[rubrics|रूब्रिक]] अनुसंधान अंकन-पक्ष से पहुँचता है: जो अंशांकित करता है वह मॉडल नहीं, उपकरण है।
+
+यह निर्माण भौतिकी से आगे फैलता है। [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz और Castro Samayoa (2026)]] सिस्टम सोच को उन क्षमताओं में से एक कहते हैं जिन्हें Aoun *रोबोट-प्रूफ* कहता है — आलोचनात्मक सोच, सिस्टम सोच और सांस्कृतिक फुर्ती — जो क्षमताएँ अभ्यास बनाता है और प्रतिनिधित्व नहीं। [[huang-ai-literacy-vocational-problem-solving-2026|Huang और सहयोगी (2026)]] अपने "व्यवस्थित सोच" निर्माण को उसके विरुद्ध सीमाबद्ध करते हैं, अपने निर्माण को एक संकीर्ण चार-आयामी माप (संरचना, तर्क, प्राथमिकता, एकीकरण) मानते हैं और सिस्टम सोच को व्यापक अर्थ में कहने से स्पष्ट रूप से इनकार करते हैं। और [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea और Valencia-Silva (2026)]] चेतावनी देते हैं कि जुड़ाव सिस्टम सोच नहीं है — वह अंतर महत्व रखता है जब किसी रूब्रिक का उपयोग ऐसी क्षमता का प्रमाणन करने के लिए हो जिसके लिए उसे लिखा नहीं गया था।
 
 ## AI उपभोक्ताओं से निर्माता, रचनाकार और डिज़ाइनरों की ओर बदलाव में CT
 
