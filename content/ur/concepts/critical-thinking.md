@@ -9,15 +9,19 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-08T06:13:34-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/critical-thinking"
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
 connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -41,7 +45,7 @@ connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-g
 
 ساختہ مکالمے کا کنٹرول — نہ کہ بہتر پرامپٹ — وہ چیز ہے جو مغالطے کے ٹیوٹر کو بحث کرنے والے چیٹ بوٹ سے الگ کرتی ہے: ہر باری کو Toulmin پر مبنی ارادے کی شناخت، ایک مقررہ حکمت عملی ترتیب اور ایک تصدیق کار ایجنٹ سے گزارنے سے ایک سقراطی نظام مکالمے کے معیار کے 84.5% پیمانوں پر کامیاب ہوا، جبکہ ہیورسٹک بیس لائن صرف 61.5% پر رہی ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]])۔
 
-### تعلیم میں AI کی تحقیق میں تنقیدی سوچ
+## تعلیم میں AI کی تحقیق میں تنقیدی سوچ
 
 نالج بیس کے مضامین تنقیدی سوچ کو [[design-based-research|ڈیزائن پر مبنی]] اور تجرباتی دونوں زاویوں سے دیکھتے ہیں۔ [[ai-agents-constructive-conflict-design-education-2026|مخالف AI ایجنٹ]] تعمیری تصادم پیدا کر کے نئے ڈیزائنرز میں نظرثانی پر اُکساتے ہیں — سقراطی طریقے کی ایسی قسم جو تنقیدی طور پر دوبارہ جانچنے پر مجبور کرتی ہے۔ [[genai-can-harm-teaching-rct-2026|تدریس میں GenAI پر RCT تحقیق]] یہ سوال اٹھاتی ہے کہ آیا سطحی نتائج کو بہتر بنانے والے AI ٹولز نادانستہ طور پر اس تنقیدی سوچ کو دبا سکتے ہیں جو گہری سیکھنے کی طرف لے جاتی ہے۔ ناپا گیا ثبوت اس نکتے کو تیز کرتا ہے: تنقیدی سوچ آگے بڑھتی ہے یا نہیں، یہ اس پر منحصر ہے کہ AI کے ذریعے دیا گیا فیڈبیک اور کام کیسے ڈیزائن کیے گئے ہیں، اور طلبہ کی [[metacognition|میٹا کوگنیشن]] ضابطگی پر — ماڈل تک رسائی پر نہیں۔
 
@@ -79,12 +83,19 @@ GenAI کے استعمال کا خود رپورٹ کردہ تنقیدی سوچ س
 
 - **AI تک ایک سمسٹر کی رسائی نے تنقیدی سوچ کو جمود میں رکھا، جبکہ غور طلب استعمال اس کے ساتھ چلا۔** Melanou, Beege and Kimmig (2026) نے 87 بزنس انفارمیٹکس طلبہ کو نو ہفتے کے کورس میں تین متوازی شرطوں (ٹیوٹر فریم شدہ AI، غیر رہنمائی شدہ AI، اور بغیر AI) کے تحت تین بار پیمائش کرتے ہوئے فالو کیا۔ علم ہر گروپ میں بڑھا، کسی بھی AI شرط کو کوئی برتری نہ ملی اور کوئی Matthew اثر نہیں ملا (BF01 = 8.70)، جبکہ خود رپورٹ کردہ تنقیدی سوچ اور [[motivation]] مستحکم رہے۔ طلبہ میں فرق ڈالنے والی چیز غور طلب استعمال تھی، یعنی ذرائع کی جانچ اور اپنانے سے پہلے AI کے نتائج کی تصدیق کرنے کی عادت: یہ AI شرط میں کنٹرول گروپ سے زیادہ تھی (اوسط 3.72 بمقابلہ 2.82) اور آخری پیمائش پر تنقیدی سوچ کی پیش گوئی کرتی تھی (R² = 0.183، β = 0.43، p < 0.001)۔ یہ نتیجہ اس توقع کو محدود کرتا ہے کہ AI استعمال کا کوئی کورس بذات خود تنقیدی سوچ کو حرکت دے گا: [[metacognition|میٹا کوگنیشن]] ضابطگی، نہ کہ ٹول تک رسائی، وہ جگہ ہے جہاں تعلق بستا ہے، اور مصنفین نوٹ کرتے ہیں کہ ایک سمسٹر پائیدار تبدیلی دیکھنے کے لیے غالباً بہت مختصر ہے۔ ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
 
-### دیگر تصورات سے روابط
+- **تشخیص حرکت کی؛ رسمی استنتاج نہیں۔** چار مرحلوی AI فیڈبیک نے دلائل کے جائزے (Evaluation of Arguments) کو 1.74 معدّل پوائنٹس بڑھایا جبکہ استنتاج (Deduction) صرف 0.30 حرکت کیا (p = 0.383)، یعنی فائدہ رسمی منطق نہیں بلکہ دعوۓں کے جائزے میں آیا ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]])۔
+- **آن لائن استدلال کو تلاش کے سلوک سے ناپا جا سکتا ہے، اور یہ دو میں تقسیم ہوتا ہے۔** کھلا ویب تلاش کرتے ہوئے تجزیہ پذیر لاگز والے 459 پہلے سال کے طلبہ میں [[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)]] نے پایا کہ استفسار کی تشکیل اور نتائج کے صفحے کا معائنہ الگ الگ، غیر مرتبط عوامل بناتے ہیں، اس لیے ایک واحد حصولی اسکور تعمیر کو غلط پیش کرتا ہے۔
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez et al. (2026)]] نے AI کے ساتھ تنقیدی سوچ کا پہلا مقصد کے مطابق بنایا گیا آلہ فراہم کیا اور پایا کہ اس کے تین تجویز کردہ شعبے بالکل الگ کرنے کے لیے بہت زیادہ اوورلیپ کرتے ہیں: خفی ارتباط بہت بلند تھے، اوسط باہم تبدیلی مربع ارتباط سے نیچے رہی، اور امتیازی درستگی کا معیار کسی عامل کے لیے پورا نہیں ہوا۔ کل اسکور قابلِ اعتماد ہے، مگر جہتیں عارضی ہیں۔
+
+## دیگر تصورات سے روابط
 
 تنقیدی سوچ [[scaffolding]] (ایسا AI سہارا ڈیزائن کرنا جو علمی مطالبہ برقرار رکھے)، [[prompt-engineering]] (ایسے سوالات تشکیل دینا جو تنقیدی تجزیہ ابھاریں) اور [[cognitive-offloading|حد سے زیادہ انحصار]] (یہ جاننا کہ کب بھروسا کریں اور کب سوال کریں) سے جڑتی ہے۔ یہ [[academic-integrity]] کی بنیاد ہے اور [[ai-literacy]] فریم ورکس کی ایک کلیدی جہت کا کردار ادا کرتی ہے، [[k-12]] اور [[higher-ed]] دونوں سیاق و سباق میں۔
 
 - **AI کی غلطیاں بطور اعلیٰ درجے کی سوچ کے محرک:** [[pedagogy-ai-mistakes|Hosseini (2026)]] Bloom کے اعلیٰ درجے (تجزیہ کریں، جانچیں، تخلیق کریں) کو اس طرح عملی جامہ پہناتے ہیں کہ طلبہ ڈیٹا بیس کورس میں AI کی پیدا کردہ غلطیوں پر سوال کریں، جس سے مضمون کی قابلیت میں پہلے اور بعد کے درمیان نمایاں فائدہ ہوا (Cohen's *d*=1.49)۔
-- **AI کے نتائج پر تنقید ایک سہارا پذیر مہارت ہے، مسئلہ حل کرنے کا ضمنی نتیجہ نہیں۔** وہ گروپ جو صرف ایک متعلقہ فزکس مسئلہ حل کرتے تھے، چمکدار AI حل کو قبول کر لیتے یا اپنی ہی [[misconceptions|غلط فہمیوں]] کی بنیاد پر اس پر تنقید کرتے، جبکہ MAPS روبرک کی رہنمائی میں غور نے نامکمل تکامل اور غیر متعین علامت نگاری پر ماہرانہ طور پر ہم آہنگ تنقیدیں پیدا کیں ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]])۔
+- **AI کے نتائج پر تنقید ایک سہارا پذیر مہارت ہے، مسئلہ حل کرنے کا ضمنی نتیجہ نہیں۔** وہ گروپ جو صرف ایک متعلقہ فزکس مسئلہ حل کرتے تھے، چمکدار AI حل کو قبول کر لیتے یا اپنی ہی [[misconceptions|غلط فہمیوں]] کی بنیاد پر اس پر تنقید کرتے، جبکہ MAPS [[rubrics|روبرک]] کی رہنمائی میں غور نے نامکمل تکامل اور غیر متعین علامت نگاری پر ماہرانہ طور پر ہم آہنگ تنقیدیں پیدا کیں ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]])۔
+
+- **تنقید AI کے اپنے خود جانچ سے لی جا سکتی ہے۔** بارہ پری سروس اساتذہ نے اپنے پانی کے استعمال کے ماڈلز کا ChatGPT-4o ماڈل سے موازنہ کیا اور ایسی تنقیدیں پیدا کیں جو AI کی اپنے بارے میں بتائی ہوئی کمزوریوں سے مماثل تھیں، اور کسی نے بھی اس کے نتائج میں برقرار حسابی عدم اتفاق محسوس نہیں کیا — ایک چمکدار نتیجہ تصدیق کیے بغیر سراہا جا سکتا ہے ([[cetin-ai-comparative-reflection-modelling-2026|Çetin and Bilgili, 2026]])۔
 
 - **AI کو محدود رکھیں تاکہ علمی ایجنسی محفوظ رہے۔** E3-HOT بلیو پرنٹ تین [[embodied-learning|مجسم]] راستوں — حالاتی تعین، مجسم شرکت، علمی تخلیق — کو "تجزیہ کریں، جانچیں اور تخلیق کریں" پر نقش کرتا ہے، اور AI کو پرامپٹس، تنقید اور حکمت عملی کی تجاویز تک محدود کرتا ہے تاکہ طلبہ کو کوئی دعویٰ قبول ہونے سے پہلے اپنی وجوہات بیان کرنی پڑیں اور ثبوت پیش کرنا پڑیں ([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]])۔
 
@@ -106,3 +117,9 @@ GenAI کے استعمال کا خود رپورٹ کردہ تنقیدی سوچ س
 - **"بہتر پرامپٹ بہتر تنقیدی سوچ پیدا کرتا ہے۔"** **ساختہ مکالمے کا کنٹرول، نہ کہ بہتر پرامپٹ،** مغالطے کے ٹیوٹر کو بحث کرنے والے چیٹ بوٹ سے الگ کرتا ہے: ہر باری کو **Toulmin پر مبنی ارادے کی شناخت** سے گزارنا کارگر رہا۔ میکانزم الفاظ نہیں بلکہ تعامل کی ساخت ہے۔
 - **"GenAI کا استعمال تنقیدی سوچ کو براہ راست بڑھاتا ہے۔"** GenAI کے استعمال کا **خود رپورٹ کردہ** تنقیدی سوچ سے تعلق **تقریباً مکمل طور پر GenAI [[feedback-literacy|فیڈبیک خواندگی]]** سے ہو کر گیا — **421 چینی انڈرگریجویٹس** میں فیڈبیک خواندگی نے تعلق کا **71%** ثالثی کیا۔ خواندگی ہی راستہ ہے۔
 - **"میٹا تجزیاتی اثر یکساں ہے۔"** **29 تجربات** میں GenAI نے اعلیٰ درجے کی سوچ کو اعتدال کے ساتھ بڑھایا (**g = 0.609**) اور تنقیدی سوچ **ES = 0.691** پر رہی۔ متفاوت مداخلتوں پر اعتدال پسند مجموعی اثرات زمرے کی تائید کرتے ہیں، کسی مخصوص ڈیزائن کی نہیں۔
+
+## دو راستے، ایک صاف اثر
+
+AI کا استعمال [[critical-thinking|تنقیدی سوچ]] کو مدد دیتا ہے یا نقصان، یہ اس پر منحصر ہے کہ کون سا میکانزم ناپا جا رہا ہے۔ 2026 کا ایک میٹا تجزیاتی ساختاری مساواتی ماڈل جس نے 31 مطالعات اور 16,357 سیکھنے والوں کو یکجا کیا، نے پایا کہ **دو غیر مباشر راستے تقریباً برابر حجم کے مخالف سمتوں میں چل رہے ہیں**: AI استعمال نے انحصار بڑھایا جس نے تنقیدی سوچ کم کی (β = −0.212)، اور [[motivation|سیکھنے کی رغبت]] بڑھائی جس نے اسے بڑھایا (β = +0.217)۔ یہ راستے تقریباً بالکل ایک دوسرے کو ختم کر دیتے ہیں — کل غیر مباشر β = 0.004 — جس سے ایک چھوٹا مثبت براہ راست اثر (β = 0.149) اور 40% باہم تبدیلی کی وضاحت باقی رہتی ہے۔([[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]])
+
+اس ادبیات میں صفر کی درجہ ارتباط معنی خیز نہیں (r = 0.156، 95% CI [−0.040, 0.353])، اور یہ ختم شدگی کا وہی منظر ہے جو وقت پیدا ہوتا ہے جب کوئی مطالعہ صرف نتیجہ ناپتا ہے۔ ڈیزائن کا مفہوم یہ ہے کہ [[cognitive-offloading|منتقلی]] ٹول کی خاصیت نہیں بلکہ کام کے ترتیب دینے کے طریقے کی ہے: وہ ٹولز جو آخر تک کے جوابات نہیں دیتے اور وہ میٹا کوگنیشن چیک پوائنٹس جو جائزے پر مجبور کرتے ہیں، توازن کو رغبت والے راستے کی طرف دھکیلتے ہیں۔

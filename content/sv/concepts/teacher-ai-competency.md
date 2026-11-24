@@ -12,11 +12,15 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-16T08:24:32-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
@@ -68,7 +72,7 @@ Kunskapsbasens forskning konvergerar mot flera sammankopplade dimensioner:
 
 - I en enkät över fem länder med 1 405 K-12-lärare förutsade AI-beredskap positiva övertygelser om GenAI:s undervisningsvärde (B = 0,59, R² = 0,50) men förutsade *större* oro för [[creativity|kreativitet]] (B = 0,18), och samma prediktorer förklarade bara 7 % respektive 6 % av oron: beredskapsbyggande ensamt lämnar oron orörd ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu m.fl. (2026)]]).
 
-Beredskap bör ordnas och mätas därefter: Capability-Decision Model placerar demonstrerad AI-förmåga uppströms attityd och tilltro och föreslår prestationsindikatorer i stället för enbart självrapportering: lektionsdesignuppgifter, promptutvärderingsuppgifter försedda med fel, innehållsvaliditetsbedömningar och bedömningsmatriser för klassrumsartefakter ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+Beredskap bör ordnas och mätas därefter: Capability-Decision Model placerar demonstrerad AI-förmåga uppströms attityd och tilltro och föreslår prestationsindikatorer i stället för enbart självrapportering: lektionsdesignuppgifter, promptutvärderingsuppgifter försedda med fel, innehållsvaliditetsbedömningar och [[rubrics|bedömningsmatriser]] för klassrumsartefakter ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **Emotionell och moralisk beredskap är en egen dimension.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] enkätade den akademiska personalen vid ett maltesiskt [[higher-ed|universitet]] (109 svarande) och byggde ett AI Guilt Index (α = 0,88) av fyra moralemotionsposter, och fann att *förväntad* skuld vägde tyngre än ånger efter användning: det starkaste instämmandet var oro för att AI-användning undergräver ens trovärdighet (34,9 % instämde), därefter känslan av att man [[academic-integrity|fuskar]] när man använder den (25,7 %), medan ånger efter användning bara fick 9,2 %. De resultat som spelar roll för kompetensramverk är att icke-användare rapporterade *högre* skuld än användare (M = 3,25 mot M = 2,32) och att skulden sjönk i takt med stigande anställningstrygghet: akademiker tidigt i karriären rapporterade mest (M = 2,71) och seniora akademiker minst (M = 2,03). Emotionell beredskap fångas därför inte av färdighets- eller tilltromått, och artikeln hävdar att kompetensramverk bör behandla skuld och identitetsoro som normala övergångsreaktioner snarare än som fel att korrigera.
 
@@ -132,6 +136,8 @@ Kunskapsbasens fortbildningslitteratur identifierar verksamma angreppssätt:
 - **Lärare föredrar flyt men tillskriver lärande stödstruktur.** Bland 41 lärare föredrogs en GPT-4o-baslinje sammantaget (21 mot 13), medan den finjusterade trestegsmodellen (identifiera, utforska, utveckla) oftare tillskrevs lärande (18 mot 13), och de två bedömningarna var överens bara 39 % av gångerna ([[teachingcoach-chatbot-instructor-guidance|Molnar m.fl. (2026)]]).
 - **Institutionellt stöd:** [[educational-development|fortbildning]] måste paras med institutionell infrastruktur ([[educational-policy-ai|policy]], [[institutional-change-framework-ai|institutionell förändring]]) för hållbart antagande.
 - **Författarverktyg garanterar inte pedagogisk trohet.** [[teachers-configure-educational-chatbots-2026|Riahi m.fl. (2026)]] studerade 27 mellanstadielärare som konfigurerade pedagogiska [[conversational-ai|chatbotar]] i fortbildningsworkshoppar och analyserade fokusgrupper tillsammans med konfigurations- och interaktionsloggar. Lärarna behandlade chatboten som en undervisningsstödstruktur avgränsad av lärardefinierade regler, men den loggbaserade överensstämmelsen mellan avsikt och beteende var starkare för responsivitet (88,9 %) och persona (81,5 %) än för regler (70,4 %) och syfte (59,3 %). Konfigurerbara kontroller ensamma bär inte pedagogisk avsikt in i beteendet, så att uttrycka, testa och förfina en chatbots pedagogik är i sig en kompetens som författarverktygen måste stödja.
+
+- **Stöd når kompetens genom kunskap, inte genom tillhandahållande.** Bland 782 lärare i 16 kinesiska skolor hade upplevt skolstöd ingen signifikant direkt väg till upplevd AI-undervisningskompetens; sambandet gick genom AI-TPACK, självtillit, resiliens och AI-ångest, med AI-TPACK som största kanal ([[zhou-school-support-teacher-ai-competence-2026|Zhou, Xie och Chen, 2026]]).
 
 Ett designbaserat motexempel behandlar kompetens som situerad snarare än som ett trappsteg. [[adaptive-ai-model-teacher-educators-2025|Eyal:s designbaserade studie 2025 med 22 lärarutbildare i högre utbildning]] lät deltagarna granska fem publicerade bedömningsramverk och samdesigna ett alternativ organiserat kring tre sammankopplade axlar: kontextpassning (infrastruktur, sociokulturella faktorer, lokala behov, utvecklingsstadium), professionella behov (disciplin, pedagogik, ledarskap, stöd) och dynamisk utveckling. Modellen avvisar fasta kompetensnivåer och tillåter icke-linjär progression, och den levereras med ett reflekterande självbedömningsformulär med 20 poster skattat 1 till 5. Dess validering är enbart [[qualitative-research|kvalitativ]], utan [[quantitative-research|kvantitativ]] reliabilitetstestning, så den står som ett designbidrag snarare än ett validerat instrument.
 - **Metaanalytisk skattning.** [[teacher-ai-literacy-professional-development-meta-2026|Guo m.fl. (2026)]] slog samman 212 effektstorlekar från 34 studier och skattar fortbildning i AI-kompetens för lärare till g = 0,76 (95 % CI [0,50, 1,02]), starkast för färdigheter (g = 0,91) och svagast för attityder och värderingar (g = 0,61); korrigering för uppenbar publikationsselektion sänker skattningen till omkring g = 0,49.

@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Агентний ШІ
 created: "2026-10-13T21:32:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -82,7 +86,7 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 
 Агентні архітектури купують охоплення за вимірювану ціну в точності. На бенчмарку [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al.’s (2026)]] із 926 зразків вакансій і 1696 еталонних навичок ReAct-агент із інструментом пошуку в ESCO очолив підвищене пригадування на 89.7% проти 83.7% для найкращої генеративної конфігурації та 49.1% для найкращої моделі ембедингів. Його точність становила 22.7%, залишаючи F1 на 36.3%, нижче за заземлений на інструментах Gemini 2.5 Flash із 51.6%, і він працював приблизно 16 секунд на зразок. Пригадування — правильна метрика, коли список скорочує людський радник; опосередкований вивід потребує заземленої альтернативи.
 
-- **Агентне оцінювання — це питання надійності раніше, ніж питання навантаження.** Агентному розгортанню Claude Code дали три файли рубрик і 60 відсканованих рукописних іспитів з курсу комп’ютерної графіки. Його оцінки збіглися з оцінками викладача при r = 0.97, із середньою абсолютною похибкою 0.85 бала на 20-бальній роботі, середнім позитивним зміщенням ШІ 0.68 і ICC тест-ретесту = 0.96 між двома сеансами з інтервалом у тиждень. Агрегат приховує, де він підводить: зважена каппа сягала від 0.98 на множинному виборі до 0.65 на оцінювальних пунктах, і найслабшим випадком були рукописні діаграми ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Один курс, один викладач і один набір рубрик локалізують дисперсію; вони не встановлюють, що агентне оцінювання узагальнюється.
+- **Агентне оцінювання — це питання надійності раніше, ніж питання навантаження.** Агентному розгортанню Claude Code дали три файли [[rubrics|рубрик]] і 60 відсканованих рукописних іспитів з курсу комп’ютерної графіки. Його оцінки збіглися з оцінками викладача при r = 0.97, із середньою абсолютною похибкою 0.85 бала на 20-бальній роботі, середнім позитивним зміщенням ШІ 0.68 і ICC тест-ретесту = 0.96 між двома сеансами з інтервалом у тиждень. Агрегат приховує, де він підводить: зважена каппа сягала від 0.98 на множинному виборі до 0.65 на оцінювальних пунктах, і найслабшим випадком були рукописні діаграми ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Один курс, один викладач і один набір рубрик локалізують дисперсію; вони не встановлюють, що агентне оцінювання узагальнюється.
 
 ### Мультиагентні системи
 
@@ -146,6 +150,8 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 
 Це пов’язує обговорення агентного ШІ з охопленням [[academic-integrity]] академічної доброчесності в базі знань, яке рамкує відповідь як перепроєктування оцінювання та [[ai-literacy]] ШІ-грамотність, а не лише виявлення.
 
+- **Контрольний артефакт теж може бути написаний агентом.** [[pinto-student-ownership-ai-agents-code-2026|Pinto та співавтори (2026)]] попросили 18 пар студентів будувати системи в рамках розробки на основі специфікацій і виявили, що агенти написали 69% специфікацій, покликаних утримувати студентів під контролем, іноді з кількох слів підказки, тож специфікація, яка мала сертифікувати здобувача, сама була написана агентом.
+
 ## Продуктивне тертя та соціальна взаємодія
 
 Не всяка агентна поведінка мусить бути гладкою допомогою. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]] показує, що агенти, що втілювали **конструктивний конфлікт**, спонукали до суттєво більшої кількості ітерацій проєктування, ширшого дослідження альтернатив та вище оцінених фінальних проєктів серед початківців-проєктувальників взаємодії (N=48) — динаміка *продуктивного тертя*, де агент конфлікту був розчаровуючим, але зрештою корисним. Це пов’язується з [[socratic-method|Socratic questioning]] та [[design-thinking]] мисленням проєктування, і показує, як агентний ШІ може підтримувати глибоке переосмислення, а не пасивне прийняття.
@@ -164,6 +170,8 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 - **Будуйте [[ai-literacy]] ШІ-грамотність викладача.** Учителі та проєктувальники потребують точних ментальних моделей агентного ШІ, щоб конфігурувати, моніторити та критикувати ці системи — і моделювати відповідальне використання для здобувачів. Це пов’язується з [[teacher-ai-competency]] ШІ-компетентністю викладача та [[educational-development|faculty development]].
 - **Стежте за справедливістю.** Агентні інструменти ризикують розширювати прогалини, якщо доступ нерівний або якщо автоматизація руйнує підтримку тих здобувачів, яким вона найпотрібніша; проєктуйте з урахуванням [[equity-in-ai-education]] справедливості в освітніх ШІ.
 - **Створіть інституційні опори перед масштабуванням.** Питання розгортання є не лише питанням рівня проєктування, а й рівня інституції. Синтез [[baradziej-agentic-ai-higher-education-2026|Baradziej's (2026)]] ущільнює докази управління в три стовпи: розвивайте [[ai-literacy]] ШІ-грамотність серед студентів *і* персоналу; будуйте [[ethics|ethical]] інфраструктуру (політики захисту даних, рамки алгоритмічної підзвітності та академічної доброчесності) *перед* масштабним розгортанням; і забезпечуйте засноване на компетентностях [[educational-development|educator training]], яке виходить за межі знайомства з інструментами до педагогічних рамок, що зберігають людську суб’єктність. Зважаючи на те, що лише ~6,5% викладацького складу в деяких національних контекстах повідомляє про пряме використання ШІ, прогалина в навчанні є обмежувальним стримувальним фактором відповідального впровадження.
+
+- **Вимірюйте те, де люди проводять межу делегування.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang та Nedungadi (2026)]] провели рандомізоване поведінкове експериментальне дослідження з 290 викладачів університетів: 92% делегували написання запитань, але лише 20% відпускали вікторину на платформу без нагляду, і лише 5% обирали автоматичну публікацію. Наваждалися конфігурації «лише чернетка» та з затвердженням, тож межа проходить на незворотних діях платформи, а не на генерації контенту.
 
 ### Прийоми забезпечення академічної доброчесності за участі агентного ШІ
 

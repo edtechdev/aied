@@ -1,6 +1,7 @@
 ---
 title: Ідентичність здобувача
 created: "2026-10-13T22:24:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -9,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -20,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -40,6 +45,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Вступ
 
 Ідентичність здобувача стосується того, ким здобувач розуміє себе і ким він стає в межах домену — мотиваційного та розвивного конструкту, відмінного від уявлень про здібності, як-от [[self-efficacy]], які відповідають на вужче питання *чи можу я це зробити?* Ідентичність формується через участь, визнання та авторство: через те, що ти бачиш себе відображеним у полі і що це бачення себе підтверджують інші. ШІ переформатовує всі три умови, бо змінює те, хто робить роботу, що рахується власним внеском здобувача і чи визнається здобувач автором власного навчання ([[agency]], [[metacognition]]).
+
+Оцінки — це також відношення, а не лише символ: студенти приходять бачити себе крізь них, тож реформа, яка залишає транскрипт недоторканим, залишає недоторканим і це відношення ([[nieminen-grading-assessment-reform-2026|Nieminen та співавтори (2026)]]).
 
 ## Чому ідентичність важлива для ШІ в освіті
 
@@ -63,6 +70,9 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 - **Охоронне упровадження: вибіркове використання ШІ як захист ідентичності.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] опитав 484 студентів одного австралійського університету й виявив, що більш успішні студенти повідомляли про *нижчу* активну залученість із [[generative-ai|генеративним ШІ]], нижчий позитивний афект до ШІ, нижчий [[self-report-measures|сприйнятий вплив на навчання]] і нижчу відстороненість від ШІ, із найсильнішими асоціаціями rho = −0,395 для сприйнятого впливу на навчання та rho = −0,359 для позитивного афекту. Їхні відкриті відповіді описували використання, яке було вибірковим (з’ясування, узагальнення, підтримка робочого процесу), перевіреним і підпорядкованим їхньому власному судженню, а результати на рівні пунктів показали більшу згоду з тим, що спиратися на ШІ заважає [[critical-thinking]] та самостійному [[problem-solving|вирішенню проблем]]. Автори читають це як роботу над ідентичністю: для студентів, чиє відчуття себе як успішних здобувачів спирається на власні зусилля та судження, обмеження використання ШІ захищає [[agency|епістемічну автономію]], від якої залежить ця ідентичність, — а це також означає, що взірець не є ані технофобією, ані низькою залученістю.
 
 - **Заявлена мета не обов’язково керує рішенням щодо ШІ.** [[ting-ai-learning-ownership-purpose-2026|Ting та співавтори (2026)]] опитали 14 студентів бакалаврату й закодували кожне інтерв’ю щодо зв’язку між [[self-determination-theory|метою]] студента — особисто значущим наміром зробити внесок поза собою — та його виборами щодо ШІ. Лише деякі встановили цей зв’язок: одна відмовилася від ШІ, бо його екологічні та людські витрати суперечили її меті, а троє дали майбутній професійній ідентичності сформувати свої вибори («це додає тій психологині, якою я одного дня буду в світі»). Інші з не менш ясною метою такого зв’язку не робили, описуючи мету й ШІ як «ніби окремі», тож мати ідентичність, яку треба захищати, не означало спиратися на неї. Стаття також розділяє причини, які студенти наводять, щоб тримати роботу своєю, — розвиток навичок, [[evaluative-judgment|авторство й гордість]] та моральне заперечення, — які діють через різні механізми і не мають зливатися в один мотив.
+
+- **Здатність може прийти раніше належності.** 73-денна автоетнографія освітнянина з біоінформатики, який будував гру в незнайомому домені, показала, що [[generative-ai|GenAI]] постачав здатність, але не ідентичність: належність приходила через участь у спільнотах практики й повторюване сенсотворення, і досягнення її займало людський темп ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Відмова — теж робота над ідентичністю: серед п’яти учнів-практикантів кольору невикористання утверджувало контроль, відповідало інституційним правилам або сигналізувало епістемічні цінності, тоді як нейтральні відповіді ШІ породжували «культурну пласкість», що залишала їхні досвіди невизнаними ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Співвідношення з автономією здобувача
 

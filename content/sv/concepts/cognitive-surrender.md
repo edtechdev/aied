@@ -13,10 +13,14 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: "concepts/cognitive-surrender"
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Frågor att fundera över
 
-1. När en elev accepterar ett AI-svar som råkar vara rätt, har undervisningen då lyckats? Vad skulle behöva vara sant för att själva accepterandet skulle vara det som avgjorde?
-2. Är en kalibrerad delegerare som känner sina egna gränser av en annan art än en elev som helt enkelt inte kan avgöra? Hur skulle [[teacher-role|en lärare]] skilja dem åt i ett enda arbete?
-3. Om självförtroendet stiger medan riktigheten faller - som det gör när AI-råd finns tillgängliga - vad gör det med elevens egen felupptäckt?
-4. Var är verifiering undervisningsbar, och var är den en arbetsbelastningsfråga för [[educational-policy-ai|politiken]]? Vilka delar av en [[curriculum-design|läroplansdesign]] skulle behöva förändras för att kontroll skulle vara normen snarare än undantaget?
-5. Bör institutioner mäta kapitulation över huvud taget, eller inbjuder mätningen samma övervakning som [[ai-use-disclosure|deklarationsreglerna]] har svårt att hantera?
-6. Hur skulle en uppgift se ut som belönar en elev för att överrida ett felaktigt AI-svar snarare än för att producera ett polerat sådant?
+- När en elev accepterar ett AI-svar som råkar vara rätt, har undervisningen då lyckats? Vad skulle behöva vara sant för att själva accepterandet skulle vara det som avgjorde?
+- Är en kalibrerad delegerare som känner sina egna gränser av en annan art än en elev som helt enkelt inte kan avgöra? Hur skulle [[teacher-role|en lärare]] skilja dem åt i ett enda arbete?
+- Om självförtroendet stiger medan riktigheten faller - som det gör när AI-råd finns tillgängliga - vad gör det med elevens egen felupptäckt?
+- Var är verifiering undervisningsbar, och var är den en arbetsbelastningsfråga? Vilka delar av en [[curriculum-design|läroplansdesign]] skulle behöva förändras för att kontroll skulle bli normen?
+- Bör institutioner mäta kapitulation över huvud taget, eller inbjuder mätningen samma övervakning som [[ai-use-disclosure|deklarationsreglerna]] har svårt att hantera?
+- Hur skulle en uppgift se ut som belönar en elev för att överrida ett felaktigt AI-svar snarare än för att producera ett polerat sådant?
 
 ## Introduktion
 

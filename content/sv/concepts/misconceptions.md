@@ -1,7 +1,7 @@
 ---
 title: "Missuppfattningar om AI"
 created: "2026-11-12T04:00:00-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,10 +11,14 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Introduktion
 
-Missuppfattningar om AI spelar roll eftersom de är den kognitiva föregångaren till de skadliga beteenden som kunskapsbasen dokumenterar under [[cognitive-offloading|överberoende]] och [[academic-integrity|akademisk integritet]]. Människor ger sig sällan ut för att [[ai-misuse-learning-harm|missbruka]] AI; de gör det därför att felaktiga mentala modeller får dem att placera förtroendet fel, hoppa över verifieringen och behandla output som förståelse. Inom utbildningen formar dessa fel allt från hur elever studerar till hur lärare och institutioner utformar läroplaner, [[assessment|bedömning]] och policy.
+Missuppfattningar om AI spelar roll eftersom de är den kognitiva föregångaren till de skadliga beteenden som kunskapsbasen dokumenterar under [[cognitive-offloading|överberoende]] och [[academic-integrity|akademisk integritet]]. Människor ger sig sällan ut för att [[ai-misuse-learning-harm|missbruka]] AI; de gör det därför att felaktiga mentala modeller får dem att placera förtroendet fel, hoppa över verifieringen och behandla output som förståelse. Inom utbildningen formar dessa fel allt från hur elever studerar till hur lärare och institutioner utformar läroplaner, [[assessment|bedömning]] och policy. En separat del av kunskapsbasens arbete ifrågasätter den ram som producerar dessa missuppfattningar från början; se [[critiques-of-ai-in-education|Kritiker av AI i utbildningen]].
 
 ## Vad AI-missuppfattningar är
 

@@ -10,11 +10,15 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
@@ -80,6 +84,8 @@ connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, 
 ## میڈیا اور عوامی فریمنگ
 
 طلبہ کو [[ai-education|تعلیم میں AI]] کے گرد وسیع تر میڈیا اور عوامی گفتگو بھی فریم کرتی ہے، جو کسی بھی مدرس کے پیغام سے پہلے ان کی بنیادی توقعات بناتی ہے۔ عوامی گفتگو اور یہ کہ YouTube جیسے پلیٹ فارمز تعلیم میں ChatGPT کے استعمال کو کیسے فریم کرتے ہیں، ان کے تجزیے ظاہر کرتے ہیں کہ رائج فریم - ہائپ، تباہی یا عملیت پسندی - سیکھنے والوں اور [[teacher-role|معلمین]] کے ٹیکنالوجی سے رجوع کو متاثر کرتے ہیں۔([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) مدرسین کی موثر فریمنگ کا مطلب اکثر ان محیطی بیانات کی دانستہ مخالفت یا انہیں نئی سمت دینا ہوتا ہے۔
+
+فریم اسناد کو آگے بھی قیمت دیتا ہے: تقریباً 1,750 امریکی بھرتی کے پیشہ ور لوگوں کے ساتھ، طلبہ کے AI استعمال کو معاونت کے بجائے متبادل قرار دینے سے انٹرویو کا امکان اور تنخواہ پر مذاکرہ کرنے کی تیاری گر گئی، اور یہ سب سے زیادہ زیادہ GPA والے درخواست دہندگان پر تھا ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]])۔
 
 ## عملی رہنمائی
 

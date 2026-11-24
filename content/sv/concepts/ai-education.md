@@ -1,7 +1,7 @@
 ---
 title: "AI i utbildningen"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,10 +14,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
@@ -81,7 +85,7 @@ Dessa två dimensioner är inte åtskilda: [[ai-literacy|att använda AI väl]] 
 
 ## Grunderna i AI i utbildningen
 
-Fältets övergripande och grundläggande begrepp förankrar kunskapsbasens innehåll och visas först i sidofältet. De inleds med gruppen **Grundläggande** — de begrepp varje läsare bör börja med: paraplyt självt, [[misconceptions|vanföreställningar om AI]], [[ai-literacy|AI-kompetens]], [[agentic-ai|agentisk AI]], [[cognitive-offloading|kognitiv avlastning]], [[framing-ai-use-for-students|hur AI-användning ramas in för elever]], [[reducing-ai-misuse|att minska AI-missbruk]], [[academic-integrity|akademisk integritet]], [[teacher-role|undervisning]], [[learning-design|lärandedesign]] och [[educational-development|utveckling av undervisningen]]. Strängen **fält** täcker därefter [[history-of-aied|fältets historia]], [[limitations-in-aied-research|de övergripande begränsningarna i evidensbasen]], [[philosophy-of-ai-in-education|dess filosofi]], kartan över [[theories-and-frameworks|teorier och ramverk]] samt [[theory-development-aied|teoriutveckling]]. De övergripande temana — [[human-ai-collaboration|människa–AI-samarbete]], [[agency|elevens handlingsutrymme]], [[learner-identity|elevens identitet]], [[design-thinking|designtänkande]], [[curriculum-design|kurrikulumdesign]], [[critical-thinking|kritiskt tänkande]] och [[computational-thinking|komputationellt tänkande]] — skär igenom varje sträng, eftersom de felaktiga mentala modeller människor har om AI ligger före [[ai-misuse-learning-harm|missbruk]] och underkalibrerat [[trust-calibration|förtroende]].
+Fältets övergripande och grundläggande begrepp förankrar kunskapsbasens innehåll och visas först i sidofältet. De inleds med gruppen **Grundläggande** — de begrepp varje läsare bör börja med: paraplyt självt, [[misconceptions|vanföreställningar om AI]], [[ai-literacy|AI-kompetens]], [[agentic-ai|agentisk AI]], [[cognitive-offloading|kognitiv avlastning]], [[framing-ai-use-for-students|hur AI-användning ramas in för elever]], [[reducing-ai-misuse|att minska AI-missbruk]], [[academic-integrity|akademisk integritet]], [[teacher-role|undervisning]], [[learning-design|lärandedesign]] och [[educational-development|utveckling av undervisningen]]. Strängen **fält** täcker därefter [[history-of-aied|fältets historia]], [[limitations-in-aied-research|de övergripande begränsningarna i evidensbasen]], [[philosophy-of-ai-in-education|dess filosofi]], kartan över [[theories-and-frameworks|teorier och ramverk]] samt [[theory-development-aied|teoriutveckling]], och [[learning-environments-as-systems|lärmiljöer som system]], vilket behandlar en lärmiljö som ett flernivåsystem vars delar samverkar. Ett verktyg eller en policy som införs på en nivå ger effekter på de andra. De övergripande temana — [[human-ai-collaboration|människa–AI-samarbete]], [[agency|elevens handlingsutrymme]], [[learner-identity|elevens identitet]], [[design-thinking|designtänkande]], [[curriculum-design|kurrikulumdesign]], [[critical-thinking|kritiskt tänkande]] och [[computational-thinking|komputationellt tänkande]] — skär igenom varje sträng, eftersom de felaktiga mentala modeller människor har om AI ligger före [[ai-misuse-learning-harm|missbruk]] och underkalibrerat [[trust-calibration|förtroende]].
 
 ## Lärande och undervisning
 
@@ -127,7 +131,7 @@ Det som inte förändras är att en människa håller omdömet. Studenter i ett 
 
 AI förvandlar både hur vi bedömer elever och hur vi utvärderar AI-systemen själva:
 
-- **Bedömning och feedback:** [[assessment|bedömning]], [[formative-assessment|formativ bedömning]], [[summative-assessment|summativ bedömning]], [[authentic-assessment|autentisk bedömning]], [[eportfolio|e-portfölj]], [[feedback|feedback]] och [[feedback-literacy|feedbackkompetens]], [[ai-feedback-quality|kvalitet på AI-feedback]], [[peer-assessment|kamratbedömning]], [[oral-assessment|muntlig bedömning]], [[automated-assessment|automatiserad bedömning]], [[automated-essay-scoring|automatisk rättning av uppsatser]] och [[automated-question-generation|automatisk generering av frågor]]. Eftersom en modell nu kan producera plausible färdigt arbete på begäran lyfter kunskapsbasen fram den förmåga som förblir elevens egen: [[evaluative-judgment|värderande omdöme]], förmågan att bedöma kvaliteten på eget arbete, kamraters arbete och AI-output mot genomtänkta kriterier. Det är det begrepp flera feedback- och autentisk-bedömningsstudier konvergerar mot — det hybrida feedbackvillkoret som överträffar direkt AI-feedback i ett flercenterförsök, hållbarhetsglappen i formativ AI-feedback, och det praktiska steget att bedöma de beslut elever fattar snarare än enbart artefakten — och det är en central orsak till att omarbetning i AI-eran förskjuts från [[ai-detection|detektering]] mot uppgifter vars integritet klarar inspektion. Även [[group-work|grupparbete]] bedöms längs både process och produkt, där team måste förhandla om vilket och vilken typ av AI-engagemang som räknas som acceptabelt.
+- **Bedömning och feedback:** [[assessment|bedömning]], [[formative-assessment|formativ bedömning]], [[summative-assessment|summativ bedömning]], [[authentic-assessment|autentisk bedömning]], [[eportfolio|e-portfölj]], [[feedback|feedback]] och [[feedback-literacy|feedbackkompetens]], [[ai-feedback-quality|kvalitet på AI-feedback]], [[peer-assessment|kamratbedömning]], [[oral-assessment|muntlig bedömning]], [[automated-assessment|automatiserad bedömning]], [[automated-essay-scoring|automatisk rättning av uppsatser]] och [[automated-question-generation|automatisk generering av frågor]], och [[rubrics|bedömningsmatriser]]. Bedömningsmatriser är det instrument som bär kriterierna: de uttalade dimensionerna och nivåbeskrivningarna som gör en tolkning av ett arbete reproducerbar, och den specifikation en modell läser när den rättar. Eftersom en modell nu kan producera plausibelt färdigt arbete på begäran lyfter kunskapsbasen fram den förmåga som förblir elevens egen: [[evaluative-judgment|värderande omdöme]], förmågan att bedöma kvaliteten på eget arbete, kamraters arbete och AI-output mot genomtänkta kriterier. Det är det begrepp flera feedback- och autentisk-bedömningsstudier konvergerar mot — det hybrida feedbackvillkoret som överträffar direkt AI-feedback i ett flercenterförsök, hållbarhetsglappen i formativ AI-feedback, och det praktiska steget att bedöma de beslut elever fattar snarare än enbart artefakten — och det är en central orsak till att omarbetning i AI-eran förskjuts från [[ai-detection|detektering]] mot uppgifter vars integritet klarar inspektion. Även [[group-work|grupparbete]] bedöms längs både process och produkt, där team måste förhandla om vilket och vilken typ av AI-engagemang som räknas som acceptabelt.
 - **Mätning och validitet:** [[assessment-validity|bedömningsvaliditet]], [[psychometrically-aware-ai|psykometriskt medveten AI]], [[educational-measurement|utbildningsmätning]], [[item-response-theory|item response-teori]], [[self-report-measures|självskattningsmått]] (instrumentet bakom en stor del av detta underlag, och en återkommande begränsning), [[ai-detection|AI-detektering]], [[remote-proctoring|distansövervakad examination]] och [[academic-integrity|akademisk integritet]].
 
 ## Forskningsmetoder och utvärdering

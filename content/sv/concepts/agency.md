@@ -8,12 +8,16 @@ ethics: [ethics]
 connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/agency"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -53,6 +57,7 @@ Färdriktningen är inte fast. [[gillette-partnership-ethics-genai-higher-educat
 - **[[collaborative-learning|Samarbetslärande]]:** [[human-ai-collaboration|människa–AI-samarbete]] och [[research-methods-aied|AIED-forskning]] undersöker hur kognitiva uppgifter delas mellan elever och AI, där agency avgör huruvida människan eller AI:n leder interaktionen.
 - **Delad epistemisk agency sträcker sig till elev–GAI-interaktion.** Ett 14-kategorischema som kodade 6 788 ChatGPT-assisterade turer placerade 59% av sjundeklassarnas turer i delad epistemisk agency, och författarna hävdar att konstruktionen — tidigare främst studerad i kamratsamarbete — måste vidgas till att omfatta kognitiva och metakognitiva dimensioner ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang m.fl., 2026]]).
 - **Agency kan graderas utifrån prompten själv.** Human Agency Depth Taxonomy poängsätter elevens ingenjörsbidrag på sex nivåer oberoende av AI:ns resultat; över 962 prompter från 105 förståårsstudenter i mjukvaruutveckling överskred 84,2% den lägsta nivån men bara 5,3% angav systembegränsningar ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba & Chaffey, 2026]]).
+**Individualiseringen fördelar mest valmöjligheter, inte författarskap.** I 61 studier från 63 rapporter kodades elevstyrt kontroll i 46 (75,4 %) — elever valde tidpunkt, fokus, prompter eller tempo — medan ändamålsbyggda eller kursanpassade system förekom i tio (16,4 %), systemdriven adaptiv individualisering i fem (8,2 %) och lärardesignerad differentiering i en. På det evidensunderlaget betyder "personligt" lärande vanligen styrning inom ett utrymme som någon annan designat, vilket är agency som urval snarare än agency över villkoren. Översikten varnar också för att läsa frekvens som magnitud: att ett tema förekommer i 39 studier säger inget om hur stor eller konsekvent dess effekt var ([[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido m.fl., 2026]]).
 - **Kritiskt [[student-engagement|engagemang]]:** [[cognitive-offloading|Kognitiv avlastning]]-forskning visar hur elever som delegerar tolkningen till AI kan förlora agency över sitt eget resonemang; kritiska och [[metacognition|metakognitiva]] angreppssätt syftar till att skydda den.
 
 **Benchmarkade över tio modeller är stödet för agency det de gör sämst efter lärande.** ImpactBench mätte Agency & Purpose till 56,0% på positiva kriterier (95% CI [49,2, 62,5]) och 43,9% på negativa ([36,9, 50,8]), näst lägst av 14 delområden, och dess kriterier för autonomibevarande assistans frågar huruvida en modell erbjuder kontext och avvägningar i stället för att föreskriva en handlingsväg ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Modellerna var också mycket mindre konsekventa på att undvika skada än på att vara hjälpsamma: en spridning på 38,6 punkter mot 15,9 punkter.
@@ -127,6 +132,8 @@ Denna åtskillnad mellan utövad agency och stabil identitet gäller även avst�
 Ramverkets gränsvillkor kräver **bestridbarhet** (förmågan att ifrågasätta och korsgranska AI-resultat), **proveniens** (att veta var träningsdata och resultat kommer från) och **icke-delegering av moraliskt och intellektuellt ansvar** (avgöranden med höga insatser om elevers välbefinnande, akademisk status och betyg får inte avgöras enbart av AI). Detta ger pedagoger och [[stakeholders|policyskapare]] en mer precis vokabulär än den vaga "balansen" mellan mänskliga och artificiella bidrag, och kopplar agency till [[ethics|etik]], [[assessment|bedömning]], [[equity-in-ai-education|rättvisa i AI-utbildning]] och [[governance|styrning]].
 
 En nära besläktad inramning är **relationell epistemisk agency** ([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]), som instämmer i att agency är socialt möjliggjord och tekniskt medierad snarare än en fråga om isolering från beroende. Där ramverket för ekologisk sam-agency betonar mänskligt epistemiskt ansvar som ett icke förhandlingsbart gränsvillkor behåller Du och Yuan en uttalad *asymmetri*: AI-system kan forma och utvidga resonemang utan att äga ömsesidigt ansvar eller legitim auktoritet. Deras sex diagnostiska kriterier — bestridbarhet, återställbarhet, överföring, spårbarhet, distribuerat ansvar och epistemisk pluralitet — ger ett praktiskt test för när en människa–AI-relation bevarar elevens förmåga att delta i hur påståenden formas, bedöms och accepteras, kontra när den bara levererar en produkt. Agency i denna bemärkelse är inte oberoende av verktyg utan förmågan att bedöma ansvarsfullt *med, genom och mot* de system som medierar kunskap.
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]] hävdar att AI-kompetens är otillräcklig utan institutionella villkor som gör omdömet konsekvent — meddelande, förståeliga skäl, mänsklig granskning, överklagande och åsidosättande, samt dokumenterat ansvarsskyldighet — och omramar agency som uppnådd i interaktion med institutionell auktoritet snarare än innehad individuellt. Universitet kan möjliggöra eller begränsa den som inköpare, bedömyndigheter och övervakningsanvändare, vilket förskjuter frågan från enbart elevkompetens till de rättigheter och procedurer genom vilka omdöme förändrar AI-förmedlade beslut.
 
 - **Delegerad agency som mekanism, inte bara risk.** [[yan-agentivism-learning-theory-ai-2026|Yan och Gašević (2026)]] behandlar delegeringen av kognitivt arbete till AI som en del av hur lärande sker, inte bara ett hot mot det: i deras redogörelse blir assisterad prestation varaktig förmåga bara när eleven behåller ansvaret för att formulera problemet, sätta kriterier och motivera svar, en arbetsdelning de kallar delegerad agency. Det gör fördelningen själv till designvariabeln, eftersom samma verktyg kan bevara eller lösa upp elevagency beroende på vilka ansvar det absorberar.
 

@@ -10,11 +10,15 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: "concepts/educational-development"
-source_updated: "2026-11-17T18:50:00-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
@@ -52,6 +56,8 @@ Utveckling av undervisningen är det professionella och institutionella arbete g
 - **Kursplaneintegration:** [[institutional-change-framework-ai|Ramverk för institutionell förändring]] och [[ai-assessment-scale-reform|bedömningsreform]] kräver att lärare omdesignar kurser, inte bara lägger till AI-verktyg.
 - **Utbildningsprogram:** [[crewscaler-ai-upskilling-framework|Ramverk för AI-kompetensutveckling]] och [[ai-tpack-preservice-math-teachers|TPACK-baserad lärarutbildning]] ger modeller för strukturerad [[ai-education|AI-utbildning]] för lärare.
 - **Efterfrågan är inte en behovsanalys.** 345 lärare vid CEGEP i Quebec skattade sig lägst på teknisk förståelse (2,706 av 5) men bad ändå om disciplinspecifika praktiska tillämpningar och kallade tidigare sessioner alltför generella ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini m.fl. (2026)]]).
+
+- **Akademiker tar själva initiativ till automatisering och avslöjar pedagogik först när de frågas vad verktyget skulle kunna göra.** Över 20 discipliner och 24 länder fick fem öppna frågor 737 kommentarer om effektivitet och automatisering mot 305 om institutionell policy, medan anpassning dök upp i 74 svar om möjligheter och 3 i varje barrierfråga ([[sheridan-teaching-academics-genai-plans-2026|Sheridan m.fl., 2026]]). De begränsningar de namngav var tid, en sammanhållen policy och finansierat stöd, där fortbildning och resebudgetar beskrevs som det första som skars; en minoritet läste förändringen genom arbetstagarrelationer och förväntade sig att institutioner använder den för att minska akademisk personal.
 
 - **AI-förmedlad professionell reflektion.** Reflective Triangle-modellen positionerar AI som en kognitiv förmedlare över [[reflection|självreflektion]], kollektiv reflektion och gemenskapsreflektion i en professionell lärandegemenskap, testad i ett fyra veckor långt genomförbarhetsfall med sex lärare; den gräns den drar är att individuell insikt inte automatiskt blir delad professionell kunskap ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance]] och policy:** [[genai-policies-higher-ed-computing|Analys av institutionell AI-policy]] dokumenterar gapet mellan institutionella ambitioner och lärarnas stödkapacitet.
@@ -106,7 +112,7 @@ Omdöme behandlas bättre som ett villkor än som en kompetenspost. [[ji-judgeme
 
 Utvecklingens enhet kan vara mindre än institutionen och större än personen. [[chen-future-faculty-development-ai-2027|Chen m.fl. (2026)]] ställer upp sju lärarroller men insisterar på att de inte behöver rymmas i en akademiker: människocentrerad pedagog och ämnesexpert är universella grunder, medan lärandearkitektur, omdesign av bedömning, teknisk kompetens, etiskt förvaltarskap och disciplinerad experimentation kan fördelas över ett lärarlag. Deras villkor är att alla behåller grundläggande teknisk och etisk kapacitet, så att delad expertis inte blir delad okunskap.
 
-**Kör serien på rummets egna data snarare än på importerad best practice.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum och Finkelstein (2026)]] dokumenterar en genomarbetad modell från en stor offentlig R1-institution i fysik: sex sessioner varannan vecka på 60 till 75 minuter, nitton lärare som deltog över serien och omkring tio vid varje möte, där varje session öppnade med lokala data eller material från institutionen, gick vidare till smågruppstestning av AI mot verkliga anonymiserade elevhemuppgifter och avslutades i gemensam diskussion. Det lärarna fann genom att testa var mer användbart än något paket facilitatorerna kunde ha importerat - AI löste varje problem de försökte med, men dess feedback på verkligt elevarbete var ojämn, promptberoende och ytinriktad om den inte fick explicita mål och bedömningsmatriser, och eleverna promptade ytligt och modifierade output ytligt om inte produktiv användning modellerades. Den första konkreta produktionen var ett levande förråd med fem poster - policyuttalanden i kursplaner, material för klassrumsdiskussion, elevundersökningen, AI-integrerade hemuppgifter och bedömningsstrukturer - vilket är varför författarna behandlar själva sessionsstrukturen som argumentet snarare än något innehåll den levererade.
+**Kör serien på rummets egna data snarare än på importerad best practice.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum och Finkelstein (2026)]] dokumenterar en genomarbetad modell från en stor offentlig R1-institution i fysik: sex sessioner varannan vecka på 60 till 75 minuter, nitton lärare som deltog över serien och omkring tio vid varje möte, där varje session öppnade med lokala data eller material från institutionen, gick vidare till smågruppstestning av AI mot verkliga anonymiserade elevhemuppgifter och avslutades i gemensam diskussion. Det lärarna fann genom att testa var mer användbart än något paket facilitatorerna kunde ha importerat - AI löste varje problem de försökte med, men dess feedback på verkligt elevarbete var ojämn, promptberoende och ytinriktad om den inte fick explicita mål och [[rubrics|bedömningsmatriser]], och eleverna promptade ytligt och modifierade output ytligt om inte produktiv användning modellerades. Den första konkreta produktionen var ett levande förråd med fem poster - policyuttalanden i kursplaner, material för klassrumsdiskussion, elevundersökningen, AI-integrerade hemuppgifter och bedömningsstrukturer - vilket är varför författarna behandlar själva sessionsstrukturen som argumentet snarare än något innehåll den levererade.
 
 **Förankra i ett kompetensramverk.** Utvecklingen bör också bygga **pedagogisk [[prompt-engineering|promptkompetens]]** - förmågan att koda pedagogiska avsikter i promptar - eftersom [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finner att det är pedagogisk expertis, inte AI-flyt, som avgör kvaliteten i lärarnas AI-assisterade designarbete. ([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 

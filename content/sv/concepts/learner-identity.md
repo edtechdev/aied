@@ -8,12 +8,16 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -38,6 +42,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 
 Elevidentitet handlar om vem en elev uppfattar sig vara, och vem den håller på att bli, inom ett område — ett motivations- och utvecklingskonstrukt som skiljer sig från förmågeuppfattningar som [[self-efficacy]], vilka besvarar den snävare frågan *kan jag göra detta?* Identitet formas genom deltagande, erkännande och författarskap: att se sig själv speglad i ett fält och få den självbilden bekräftad av andra. AI omformar alla tre villkoren, eftersom det förändrar vem som utför arbetet, vad som räknas som ens eget bidrag och huruvida en elev erkänns som författare till sitt eget lärande ([[agency]], [[metacognition]]).
 
+Betyg är en relation likaväl som en symbol: elever kommer att se sig själva genom dem, så en reform som lämnar studierekorden oförändrad lämnar också den relationen oförändrad ([[nieminen-grading-assessment-reform-2026|Nieminen m.fl. (2026)]]).
+
 ## Varför identitet spelar roll för AI i utbildningen
 
 Identitet är ett motivations- och utvecklingskonstrukt som skiljer sig från (men hänger samman med) närbesläktade förmågor och uppfattningar. Där [[self-efficacy]] handlar om *kan jag göra detta?*, handlar identitet om *vem är jag — och vem håller jag på att bli?* Den byggs genom deltagande, erkännande och författarskap — genom att se sig själv speglad i ett område och få den självbilden bekräftad. AI omformar villkoren under vilka identitet formas eftersom det förändrar *vem som utför arbetet*, *vad som räknas som ens eget bidrag* och *huruvida en elev känner sig erkänd som författare till sitt lärande*. Det gör identitet till en designfråga av första ordningen snarare än en perifer "mjuk" faktor.
@@ -59,6 +65,10 @@ Ett särskilt författarskapsvillkor, inte bara ett hot mot författarskapet: n�
 - **Hur elever ramar in verktyget formar deras professionella blivande.** Elever som enbart framställde GenAI som en socioemotionell partner producerade mindre differentierade reflektioner över sitt professionella lärande än de som också ramade in det som en teknik, ett läromaterial eller en struktur ([[genai-professionalization-metaphors-2026|Bohmer m.fl., 2026]]).
 - **Vaktat anammande: selektiv AI-användning som identitetsskydd.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] enkätade 484 studenter vid ett australiskt universitet och fann att högpresterande studenter rapporterade *lägre* aktivt engagemang i [[generative-ai|generativ AI]], lägre positiv affekt gentemot AI, lägre upplevd inlärningspåverkan enligt [[self-report-measures|självskattningsmått]] och lägre AI-relaterad distansering, med de starkaste sambanden vid rho = -0,395 för upplevd inlärningspåverkan och rho = -0,359 för positiv affekt. Deras öppna svar beskrev en användning som var selektiv (klargörande, sammanfattning, arbetsflödesstöd), verifierad och underordnad deras eget omdöme, och resultat på postnivå visade större instämmande i att beroende av AI hindrar [[critical-thinking|kritiskt tänkande]] och självständig [[problem-solving|problemlösning]]. Författarna läser detta som identitetsarbete: för studenter vars känsla av sig själva som framgångsrika lärande vilar på egen ansträngning och eget omdöme försvarar en avgränsad AI-användning det [[agency|epistemiska handlingsutrymme]] som identiteten är beroende av — vilket också betyder att mönstret varken är teknofobi eller lågt engagemang.
 - **Ett uttalat syfte styr inte nödvändigtvis ett AI-beslut.** [[ting-ai-learning-ownership-purpose-2026|Ting m.fl. (2026)]] intervjuade 14 grundstuderande och kodade varje intervju för relationen mellan studentens [[self-determination-theory|syfte]] — en personligt meningsfull avsikt att bidra bortom sig själv — och deras AI-val. Bara några gjorde kopplingen: en avstod från AI eftersom dess miljömässiga och mänskliga kostnader motsade hennes syfte, och tre lät framtida professionell identitet forma sina val ("bidrar till psykologen som jag en dag kommer att vara ute i världen"). Andra med ett lika tydligt syfte gjorde ingen sådan koppling och beskrev syfte och AI som "liksom åtskilda", så att ha en identitet att skydda var inte samma sak som att dra nytta av den. Artikeln skiljer också på de skäl elever anger för att behålla arbetet som sitt eget — färdighetsutveckling, [[evaluative-judgment|ägarskap och stolthet]] samt moralisk invändning — vilka kommer via olika mekanismer och inte bör slås samman till ett enda motiv.
+
+- **Förmåga kan komma före tillhörighet.** En 73 dagar lång autoetnografi av en bioinformatikutbildare som byggde ett spel i ett främmande område fann att [[generative-ai|GenAI]] gav förmågan men inte identiteten: tillhörigheten kom genom deltagande i praktikgemenskaper och upprepad meningsskapande, och att nå den tog en mänsklig takt ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+
+- Att vägra är också identitetsarbete: bland fem lärlingar i grundskolan som tillhör en etnisk minoritet bekräftade icke-användande kontroll, följde institutionella regler eller signalerade epistemiska värderingar, medan neutrala AI-svar skapade en "kulturell flathet" som lämnade deras erfarenheter oerkända ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Förhållande till elevens handlingsutrymme
 

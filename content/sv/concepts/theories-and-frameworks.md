@@ -7,12 +7,16 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -66,7 +70,9 @@ De förklarar mekanismer: de namnger de delar som gör arbetet och förutsäger 
 ## Ramverk för undervisning, integration och adoption
 
 - **[[tpack|TPACK]]** — lärarkunskapen som blandar teknik, pedagogik och ämne; standardramverket för lärarriktade AI-studier.
+- **[[bloom-taxonomy|Blooms taxonomi]]** — det gemensamma ordförrådet för uppgifters kognitiva krav, använt både för att koda item och för att sekvensera dem; inom AI i utbildningen har den blivit lika mycket ett mätproblem som ett designproblem.
 - **[[technology-acceptance-model|Adoptionsmodeller]]** — intention som funktion av upplevd användbarhet och användarvänlighet. Använda så brett att fältets tilltro till intention snarare än beteende är en stående kritik.
+- **Förväntansbekräftelsemodellen (ECM)** — tillfredsställelse som bekräftelse av tidigare förväntningar, med fortsatt användning snarare än initial adoption som utfall. I en pilotsociologimetodkurs på ett semester med 24 grundstuderande bedömde 87 % Copilot som bra eller utmärkt och 91 % skulle rekommendera den, men endast 57 % avsåg fortsätta använda den ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Luckan är modellens poäng: en nöjd användare kan ändå välja att inte återvända, så tillfredsställelse och fortsatt användning behöver separata mått.
 - **[[icap-framework|ICAP]]** — rangordnar engagemang som passivt, aktivt, konstruktivt, interaktivt; användbart för att fråga vilket läge en [[student-ai-interaction|AI-interaktion]] faktiskt medger.
 - **[[samr-model|SAMR]]** — från substitution till omdefiniering. Populärt som mognadsberättelse, svagt som mätinstrument.
 - **[[universal-design-for-learning|Universell design för lärande]]**, **[[inclusive-learning|inkluderande lärande]]** och **[[accessibility|tillgänglighet]]** — designramar för vem som får del av undervisningen, och de som oftast åberopas i funktionshinder- och [[equity-in-ai-education|rättvise]]arbete.
@@ -104,7 +110,7 @@ Orden används löst i litteraturen, och skillnaden förtjänar en paragraf snar
 
 ## Närliggande lager
 
-Två närliggande sidor handlar medvetet om något annat. [[philosophy-of-ai-in-education|Filosofin om AI i utbildningen]] ställer normativa och begreppsliga frågor — vad utbildning är *till för*, om en maskin kan undervisa — och förutsäger inte effektstorlekar; en studie kan vara filosofiskt naiv och teoretiskt sund, eller tvärtom. [[theory-development-aied|Teoriutveckling]] är metaaktiviteten att bygga, låna och revidera teori, inklusive den stående kritiken att mycket av arbetet inom [[ai-education|AIED]] tillämpar befintlig teori snarare än prövar den. Den här sidan är inventariet; teoriutveckling handlar om att producera och revidera inventariet.
+Två närliggande sidor handlar medvetet om något annat. [[philosophy-of-ai-in-education|Filosofin om AI i utbildningen]] ställer normativa och begreppsliga frågor — vad utbildning är *till för*, om en maskin kan undervisa — och förutsäger inte effektstorlekar; en studie kan vara filosofiskt naiv och teoretiskt sund, eller tvärtom. [[theory-development-aied|Teoriutveckling]] är metaaktiviteten att bygga, låna och revidera teori, inklusive den stående kritiken att mycket av arbetet inom [[ai-education|AIED]] tillämpar befintlig teori snarare än prövar den. Den här sidan är inventariet; teoriutveckling handlar om att producera och revidera inventariet. [[learning-environments-as-systems|Lärmiljöer som system]] är en tredje granne. Det är inte en lärandeteori och förutsäger inga effektstorlekar, utan en ståndpunkt om analysenheten: en lärmiljö är ett flernivåsystem vars delar samverkar, så den nivå en studie mäter är ett teoretiskt beslut, inte ett urvalsmässigt bekvämlighet.
 
 ## Att välja en lins när frågan är praktisk
 

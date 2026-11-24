@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Introduktion
 
-### KT i ett klassrum för AI-eran
+## KT i ett klassrum för AI-eran
 
 Kunskapsbasens anslutna artiklar sammanstrålar i ett centralt påstående: komputationellt tänkande (KT) är den begreppsmässiga grund som eleverna behöver för att kunna engagera sig kritiskt i AI, och det är också den färdighet som mest direkt fördjupas av välutformat AI-stött lärande. Nedan grupperas evidensen i fyra teman som grundar sig i de länkade artiklarna.
 
@@ -52,8 +56,22 @@ Varaktiga kompetenser förskjuts när implementeringen automatiseras: en worksho
 - **KT över K-12, lärarutbildning och omdesign av bedömning.** KT spänner över hela spektrat från [[k-12]] till [[higher-ed]] och omformar bedömningen. I småbarnsänden utvidgar AI-Play KT och AI-kompetens till elever i Pre-K–K2 och icke-tekniska familjer; i universitetsänden fann [[genai-oop-programming-assessments-2026|studien om OOP-bedömning]] att GenAI-system 2026 överträffar genomsnittsstudenten på autentiska programmeringsexamina men fortfarande misslyckas med gränssnitt, abstrakta klasser och arv — återkommande begreppsmässiga luckor som markerar exakt var KT fortfarande är svårt att automatisera. [[solving-vs-evaluating-genai-solutions|En randomiserad A/B-crossoverstudie]] visade att uppgifter som går ut på att utvärdera och kritisera ger jämförbara utfall med generering, vilket tyder på att KT kan utövas genom att bedöma bristfälliga AI-lösningar, även om vinsterna kräver medveten strukturering. Bakom allt detta står läraren: micro:bit-studien kopplar KT-undervisning direkt till [[teacher-education|lärarutbildning]], och [[hashmi-socratic-physics-chatbot-2025|forskning om sokratiska chattbotar]] knyter den precisa problemformulering som KT kräver till mätbar kursprestation.
 
 - **Ett validerat instrument lokaliserar var KT är svårast.** Ett test med 34 poster i komputationellt tänkande, byggt med Evidence-Centered Design och validerat med item-response-teori över 461 AI-programmeringsstudenter, koncentrerade svårigheten till datarepresentation, sekvensering av logiska operatorer och loopstrukturer i stället för jämnt över kursplanen ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
+- Val av mätmetod förändrar domen: poster för komputationellt tänkande och kritiskt tänkande nådde motstridiga eller blandade slutsatser i 13 av 23 par med samma konstrukt, så en självrapporterad KT-enkät och en uppgiftsbaserad mätning håller ofta inte med varandra ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan m.fl., 2026]]).
+- Komputationellt tänkande mäts också som en disposition: i en tre veckor lång spelstudie i femte klass gynnade justerade självrapporterade KT-tendenser GenAI-klassen, 4,325 mot 4,037 (p = ,046, partiell eta-kvadrat = ,052, n = 78). Ett test i algoritmisk kunskap kunde inte skilja dem åt (80,7 mot 74,9), så tendens- och kunskapsmått spårade olika konstrukter ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou m.fl., 2026]]).
 
-### KT och skiftet från AI-konsumenter till producenter, skapare och designers
+Delkompetensprofiler komplicerar den enda KT-poäng som en pre-post-design rapporterar. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij och Khlaisang (2026)]] genomförde med 28 thailändska grundstudenter utanför datavetenskap åtta veckors tre timmar långa sessioner som parade en femstegs-[[design-thinking|designtänkande]]-cykel med low-code-appbyggande, och poängsatte projektarbetet på en tresiffrig [[rubrics|bedömningsmatris]]. Medelvärdet för komputationellt tänkande steg från 1,13 i den första sessionen till 1,80 och sedan 2,49, med algoritmiskt tänkande som starkaste del på 2,08 och en bana om 1,46 till 1,93 till 2,86. Logiskt tänkande låg i genomsnitt på 1,54 och rörde sig knappt mellan de två första sessionerna, 1,04 till 1,29, innan det nådde 2,29 i den tredje — en påminnelse om att vinster i en komponent inte betyder att de andra följde.
+
+## Systemtänkande som en KT-praktik
+
+Systemtänkande är en av de fyra domänerna i den komputationellt tänkandetaksonomi för matematik och naturvetenskap som Weintrop och kollegor utvecklat, tillsammans med datapraktiker, komputationella problemlösningspraktiker samt modellerings- och simuleringspraktiker. Dess definition är precïs: **förmågan att definiera systemgränser och syntetisera mikronivåinteraktioner till makronivåbeteende**. Det är en kognitiv förmåga på elevnivå — ett sätt att resonera om ett system — och den skiljer sig från den miljöomnivåande ståndpunkten att behandla en lärmiljö som ett system ([[learning-environments-as-systems|Lärmiljöer som system]]).
+
+Det är också den domän där bedömningen bryter samman först. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch och Rebello (2026)]] kodade 936 studenters skriftliga förklaringar i en introduktionskurs i komputationell fysik mot taksonomin, kalibrerade en mänsklig baslinje på 10 studenter (60 svar, Fleiss κ = 0,53) och kodade sedan 50 studenter (300 svar) genom majoritetsbeslut. Studenterna växte mest i datapraktiker (p < 0,001, d = 1,03), med måttliga vinster i komputationell problemlösning (d = 0,52) och systemtänkande (d = 0,45). Men systemtänkande var den minst tillförlitliga konstruktionen för *både* människor och modeller: mänsklig överensstämmelse κ = 0,51 och LLM κ = 0,48, mot κ = 0,90 för datapraktiker och κ = 0,78 för modellering och simulering. Författarnas tolkning är att svårigheten härrör från konstruktkomplexitet snarare än modellbrist — en flerkomponentkonstrukt som ber en student identifiera komponenter *och* förklara deras interaktioner och konsekvenser är svårare att koda än en väldefinierad. Modellering och simulering visade d = 0,00 av en orelaterad anledning, en takffekt: medelvärdet före undervisningen var redan 1,62 av 2, så det objektet mätte baslinjekunskap snarare än tillväxt.
+
+Den praktiska implikationen är ett problem med bedömningsmatrisdesign, inte ett modellproblem. Deras rekommendation är att skriva om bedömningsmatrisen så att identifikation av systemkomponenter poängsätts separerat från att förklara hur komponenterna interagerar, och att läsa låg automatiserad överensstämmelse på en integrerad konstrukt som en signal att revidera instrumentet snarare än att överge automatisering. Det är samma rörelse som [[rubrics|bedömningsmatris]]forskningen når från bedömningssidan: instrumentet, inte modellen, är det som kalibrerar.
+
+Konstrukten är inte begränsad till fysiken. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz och Castro Samayoa (2026)]] nämner systemtänkande som en av de förmågor Aoun kallar *robotbevisbara* — kritiskt tänkande, systemtänkande och kulturell smidighet — de som byggs genom övning och inte genom delegering. [[huang-ai-literacy-vocational-problem-solving-2026|Huang och kollegor (2026)]] avgränsar sin egen "systematiskt tänkande"-konstrukt mot den, behandlar sin som ett snävt fyrdimensionsmått (strukturering, resonemang, prioritering, integrering) och vägrar uttryckligen kalla den systemtänkande i bred bemärkelse. Och [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea och Valencia-Silva (2026)]] varnar för att engagemang inte är systemtänkande — en åtskillnad som spelar roll när en bedömningsmatris används för att intyga en kompetens som den inte skrevs för att mäta.
+
+## KT och skiftet från AI-konsumenter till producenter, skapare och designers
 
 Ett centralt mål för KT i AI-eran är att flytta elever och lärare bortom *passiv konsumtion* av AI-resultat mot att *skapa, bygga och designa* med och för AI — en agenda som knyter KT till konstruktionistiskt lärande (lärande genom att göra). Kunskapsbasens anslutna artiklar gör allt tydligare denna vändning mot producent/skapare/designer. [[ai-writes-code-student-writes-model-2026|Forskning om modellförfattarskap]] omramar lärande genom konstruktion med GenAI som en mätbar process av "modellförfattarskap" — eleverna författar, felsöker och itererar AI-modeller i stället för att bara konsumera AI-genererad kod eller svar. [[code-to-learn-genai-artifact-construction-2026|CtL-GenAI-ramverket]] operationaliserar detta som [[constructivist|konstruktionism]] för GenAI-eran och behandlar de artefakter eleverna bygger med AI som motorn i KT-utvecklingen. [[computational-thinking-ai-agent-creation|KT genom skapande av AI-agenter]] visar att designandet, inte bara användandet, av AI-agenter direkt tränar uppdelning, abstraktion och algoritmiskt resonemang.
 
@@ -63,11 +81,11 @@ Den praktiska slutsatsen är att KT-undervisning bör utformas så att eleverna 
 
 Att återanvända andras modeller hör till producenthållningen: att implementera en publicerad AI-modell — välja, installera, köra och validera den — kan undervisas som en inlärbar, strukturerad färdighet med en reservväg för varje förutsett misslyckande, och tre kandidatstudenter i [[chemistry-education|kemi]] utan programmeringsbakgrund reproducerade och utvidgade en modell för enzym-substrat-förutsägelse inom fyra månader ([[praise-non-programmer-ai-model-implementation-2026|Achterweust m.fl. (2026)]]).
 
-### Praktisk vägledning
+## Praktisk vägledning
 
 För pedagoger är budskapet konsekvent: KT utvecklas genom *explicit, strukturerat och observerbart* engagemang snarare än passiv AI-användning. Para ihop robotik med explicit kartläggning av KT-begrepp mot kursplanen; använd LLM:er för [[simulation|simulering]], naturligt språklig styrning och skalbar bedömning av KT-utveckling medan mänskligt omdöme reserveras för konstruktioner som systemtänkande; och omforma bedömningar så att de betonar utvärdering och diagnos av AI-resultat framför rå generering. Oavsett sammanhang — uppkopplingsfri lek i småbarnsåldern, robotar i gymnasieskolans [[stem-education|STEM-undervisning]] eller Virtual Tutors i [[higher-ed|högre utbildning]] — strukturera aktiviteten så att eleverna måste resonera om uppdelning, mönster, abstraktion och algoritm i stället för att ta emot färdiga lösningar.
 
-### Kopplingar till närbesläktade begrepp
+## Kopplingar till närbesläktade begrepp
 
 Komputationellt tänkande är den gemensamma kognitiva grunden under [[ai-literacy]] och [[critical-thinking]], kärnan i [[cs-education|datavetenskapsundervisningens]] och [[k-12|K-12]]:s datorteknik, och det begreppsmässiga mål som [[educational-robotics]], [[game-based-learning]] och [[project-based-learning]] är bäst utformade att tjäna. Det fördjupas av [[llm|stora språkmodeller]] och [[generative-ai]] när dessa används som struktureringsverktyg, och det är den färdighet som taxonomier över elevmissuppfattningar och KT-medvetna bedömningar syftar till att mäta. Lärare utvecklar det genom [[teacher-education]] och [[professional-training]], och det överförs mellan domäner, bland annat [[physics-education]] och [[stem-education|STEM]] i bred bemärkelse.
 

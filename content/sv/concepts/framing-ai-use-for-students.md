@@ -10,11 +10,15 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: "concepts/framing-ai-use-for-students"
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
@@ -80,6 +84,8 @@ Inramning kopplar till [[motivation]] genom [[self-determination-theory]]: hur e
 ## Medier och offentlig inramning
 
 Elever ramas också in av den bredare medie- och offentliga diskursen om [[ai-education|AI i utbildningen]], som formar deras grundförväntningar innan något lärarbudskap når dem. Analyser av offentlig diskurs och av hur plattformar som YouTube ramar in ChatGPT-användning i utbildning visar att rådande ramar - hype, domedag eller pragmatism - påverkar hur elever och [[teacher-role|undervisare]] närmar sig tekniken.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Verkningsfull inramning från lärare innebär ofta att medvetet motverka eller styra om dessa omgivande narrativ.
+
+Inramningen prissätter också meriten längre ner i kedjan: med cirka 1 750 amerikanska rekryteringsproffs sänkte beskrivningen av studenters AI-användning som substitution snarare än assistans sannolikheten för intervju och viljan att förhandla lön, skarpast för sökande med hög GPA ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Praktisk vägledning
 

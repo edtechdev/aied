@@ -9,12 +9,16 @@ ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/misconceptions"
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## تعارف
 
-AI کے بارے میں غلط فہمیاں اس لیے اہم ہیں کہ یہ اُن نقصان دہ رویوں کی علمی پیش رو ہیں جو علم بنیاد [[cognitive-offloading|حد سے زیادہ انحصار]] اور [[academic-integrity]] کے خدشات کے تحت دستاویز کرتا ہے۔ لوگ شاذ و نادر ہی جان بوجھ کر AI کا [[ai-misuse-learning-harm|غلط استعمال]] کرتے ہیں؛ وہ ایسا اس لیے کرتے ہیں کہ غلط ذہنی ماڈل انہیں بھروسہ غلط جگہ رکھنے، تصدیق چھوڑ دینے اور نتیجے کو فہم سمجھنے پر مجبور کرتے ہیں۔ تعلیم میں یہ خطائیں ہر چیز کو شکل دیتی ہیں، طلبہ کے پڑھنے کے طریقے سے لے کر اساتذہ اور اداروں کے نصاب، [[assessment]] اور پالیسی کے ڈیزائن تک۔
+AI کے بارے میں غلط فہمیاں اس لیے اہم ہیں کہ یہ اُن نقصان دہ رویوں کی علمی پیش رو ہیں جو علم بنیاد [[cognitive-offloading|حد سے زیادہ انحصار]] اور [[academic-integrity]] کے خدشات کے تحت دستاویز کرتا ہے۔ لوگ شاذ و نادر ہی جان بوجھ کر AI کا [[ai-misuse-learning-harm|غلط استعمال]] کرتے ہیں؛ وہ ایسا اس لیے کرتے ہیں کہ غلط ذہنی ماڈل انہیں بھروسہ غلط جگہ رکھنے، تصدیق چھوڑ دینے اور نتیجے کو فہم سمجھنے پر مجبور کرتے ہیں۔ تعلیم میں یہ خطائیں ہر چیز کو شکل دیتی ہیں، طلبہ کے پڑھنے کے طریقے سے لے کر اساتذہ اور اداروں کے نصاب، [[assessment]] اور پالیسی کے ڈیزائن تک۔ ایک الگ ادب اُس فریمنگ کو سوال کرتی ہے جو اصل میں ان غلط فہمیوں کو پیدا کرتی ہے؛ دیکھیں [[critiques-of-ai-in-education|تعلیم میں AI کی تنقید]]۔
 
 ## AI کی غلط فہمیاں کیا ہیں
 

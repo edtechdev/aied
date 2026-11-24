@@ -6,12 +6,16 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -72,16 +76,6 @@ Ankomsten av [[generative-ai|generativ AI]] — en bred familj som omfattar [[ll
 - **Väg kontroll mot handlingsutrymme medvetet.** Huruvida AI ska optimera mot standardutfall eller möjliggöra olika, elevstyrda utfall är ett genuint val med institutionella och politiska konsekvenser, inte en teknisk givenhet.
 - **Bevara elevens handlingsutrymme.** Det återkommande motståndet mot standardisering och kontroll till förmån för öppna, elevcentrerade förhållningssätt är en hållbar tråd värd att försvara.
 
-## Vanliga missuppfattningar
-
-**"AI i utbildningen började med ChatGPT."** Det gjorde den inte, och föreställningen är kostsam eftersom den gör varje tidigare lärdom osynlig. [[intelligent-tutoring|Intelligent handledning]] härstammar från arbetet med heuristisk sökning och expertsystem på 1960- och 70-talen, och AIED-gemenskapen bildades kring det decennier före [[llm|stora språkmodeller]]. [[mishra-control-vs-agency-history-2025|Mishra m.fl.]] visar att dagens debatter återupprepar en klyfta som redan var explicit i Andersons kognitiva handledare och Paperts konstruktionism, så en läsare som daterar fältet till 2022 härleder på nytt argument som fältet avgjorde, övergav eller förlorade en gång tidigare.
-
-**"Fältet har stadigt övergett AI-som-analogi till förmån för tillämpade verktyg, och generativ AI fortsätter den trenden."** Detta är den mest instruktiva korrigeringen på sidan, eftersom banan är verklig men inte monoton. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian och Doroudis]] positionsanalys av AIED 1985, 1993, 2021 och 2024 samt IJAIED 2004, 2014 och 2021 visar visserligen en drift från ett blandat fält mot nästan uteslutande tillämpad instrumentalitet vid 2000-talet. Men vid AIED 2024 var tre av de fyra artiklarna i AI-som-analogi-kvadranten LLM-baserade, inklusive best-paper-arbete om LLM-baserade lärobara agenter. Generativ AI **vänder delvis** trenden i stället för att förlänga den, vilket är varför behandlingen av den som "nästa intelligenta handledare" missläser var forskningsfronten faktiskt rörde sig.
-
-**"Individualisering betyder att anpassa svårighetsgraden till varje elev."** Det är bara en av två oförenliga betydelser, och sammanblandningen döljer ett politiskt val. I den första betydelsen hålls utfallet fast och bara vägen varierar, med en härstamning från Skinners undervisningsmaskiner till mästerskapsbaserad handledning. I den andra diversifieras utfallen själva, när elever förföljer individuella intressen obundna av standardläroplanen (Zhao, 2024). En [[intelligent-tutoring|ITS]] förverkligar den första; [[constructivist|konstruktionismen]] den andra. Ett verktyg som beskrivs som "individualiserat" har inte sagt dig något förrän du vet vilken det menar.
-
-**""Artificiell intelligens" var helt enkelt det självklara namnet på fältet."** Termen var ett medvetet val. När McCarthy planerade Dartmouth-projektet 1956 föredrog han *artificiell intelligens* framför *cybernetik* delvis för att distansera arbetet från Wieners analoga återkopplingstradition. Det enda beslutet ramade in maskiner i direkt jämförelse med mänsklig kognition, och den antropomorfa inramning det installerade formar fortfarande forskningsprioriteringar, produktspråk och de etiska frågor allmänheten ställer.
-
 ## Att omsätta det i praktiken
 
 **För lärare och instruktionsdesigners**
@@ -99,3 +93,13 @@ Ankomsten av [[generative-ai|generativ AI]] — en bred familj som omfattar [[ll
 
 - Använd de historiska korpusarna som baslinje i stället för att behandla nuet som den enda tillgängliga jämförelsen. AIED-proceedings för 1985, 1993, 2021 och 2024 samt IJAIED för 2004, 2014 och 2021 är ett färdigt longitudinellt urval av fältets egna påståenden.
 - Citera härstamning när du hävdar nymodighet. Ett påstående att ett system "individualiserar lärande" eller "modellerar eleven" är bara nytt i förhållande till en specifik tidigare tradition, och traditionen är dokumenterad.
+
+## Vanliga missuppfattningar
+
+**"AI i utbildningen började med ChatGPT."** Det gjorde den inte, och föreställningen är kostsam eftersom den gör varje tidigare lärdom osynlig. [[intelligent-tutoring|Intelligent handledning]] härstammar från arbetet med heuristisk sökning och expertsystem på 1960- och 70-talen, och AIED-gemenskapen bildades kring det decennier före [[llm|stora språkmodeller]]. [[mishra-control-vs-agency-history-2025|Mishra m.fl.]] visar att dagens debatter återupprepar en klyfta som redan var explicit i Andersons kognitiva handledare och Paperts konstruktionism, så en läsare som daterar fältet till 2022 härleder på nytt argument som fältet avgjorde, övergav eller förlorade en gång tidigare.
+
+**"Fältet har stadigt övergett AI-som-analogi till förmån för tillämpade verktyg, och generativ AI fortsätter den trenden."** Detta är den mest instruktiva korrigeringen på sidan, eftersom banan är verklig men inte monoton. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian och Doroudis]] positionsanalys av AIED 1985, 1993, 2021 och 2024 samt IJAIED 2004, 2014 och 2021 visar visserligen en drift från ett blandat fält mot nästan uteslutande tillämpad instrumentalitet vid 2000-talet. Men vid AIED 2024 var tre av de fyra artiklarna i AI-som-analogi-kvadranten LLM-baserade, inklusive best-paper-arbete om LLM-baserade lärobara agenter. Generativ AI **vänder delvis** trenden i stället för att förlänga den, vilket är varför behandlingen av den som "nästa intelligenta handledare" missläser var forskningsfronten faktiskt rörde sig.
+
+**"Individualisering betyder att anpassa svårighetsgraden till varje elev."** Det är bara en av två oförenliga betydelser, och sammanblandningen döljer ett politiskt val. I den första betydelsen hålls utfallet fast och bara vägen varierar, med en härstamning från Skinners undervisningsmaskiner till mästerskapsbaserad handledning. I den andra diversifieras utfallen själva, när elever förföljer individuella intressen obundna av standardläroplanen (Zhao, 2024). En [[intelligent-tutoring|ITS]] förverkligar den första; [[constructivist|konstruktionismen]] den andra. Ett verktyg som beskrivs som "individualiserat" har inte sagt dig något förrän du vet vilken det menar.
+
+**""Artificiell intelligens" var helt enkelt det självklara namnet på fältet."** Termen var ett medvetet val. När McCarthy planerade Dartmouth-projektet 1956 föredrog han *artificiell intelligens* framför *cybernetik* delvis för att distansera arbetet från Wieners analoga återkopplingstradition. Det enda beslutet ramade in maskiner i direkt jämförelse med mänsklig kognition, och den antropomorfa inramning det installerade formar fortfarande forskningsprioriteringar, produktspråk och de etiska frågor allmänheten ställer.

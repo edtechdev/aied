@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T06:13:34-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## تعارف
 
-### تعلیم میں AI کے دور کے کلاس روم میں CT
+## تعلیم میں AI کے دور کے کلاس روم میں CT
 
 نالج بیس کے منسلک مضامین ایک مرکزی دعوے پر متفق ہوتے ہیں: کمپیوٹیشنل سوچ (CT) وہ تصوراتی بنیاد ہے جو طلبہ کو AI کے ساتھ تنقیدی طور پر جڑنے کے لیے درکار ہے، اور یہی وہ مہارت بھی ہے جو اچھی طرح ڈیزائن کی گئی AI کی معاونت والی تعلیم سے سب سے زیادہ گہرائی پاتی ہے۔ نیچے ثبوت کو چار موضوعات میں گروپ کیا گیا ہے جو منسلک مضامین میں جڑے ہیں۔
 
@@ -53,7 +57,22 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 - **ایک تصدیق شدہ آلہ یہ بتاتا ہے کہ CT سب سے مشکل کہاں ہے۔** Evidence-Centered Design کے ساتھ بنایا گیا اور 461 AI پروگرامنگ طلبہ پر آئٹم رسپانس تھیوری سے تصدیق شدہ 34 آئٹم کا کمپیوٹیشنل سوچ ٹیسٹ دشواری کو نصاب پر یکساں تقسیم کرنے کے بجائے ڈیٹا کی نمائندگی، منطقی آپریٹر کی ترتیب اور لوپ ساختوں میں مرکوز پایا ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]])۔
 
-### CT اور AI صارفین سے پیدا کرنے والوں، تخلیق کاروں اور ڈیزائنرز کی طرف تبدیلی
+- پیمائش کا انتخاب ہی فیصلہ بدل دیتا ہے: 23 ہم تعمیر جوڑوں میں سے 13 میں کمپیوٹیشنل اور تنقیدی سوچ کی پیمائشیں متفرق یا مخلوط نتائج پر پہنچیں، اس لیے خود ارشادی CT سروے اور کام پر مبنی پیمائش اکثر ایک دوسرے سے متفق نہیں رہتے ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]])۔
+- کمپیوٹیشنل سوچ کو ایک رجحان کے طور پر بھی ناپا جاتا ہے: تین ہفتوں کے پانچویں جماعت کے کھیل کے مطالعے میں معدّل خود ارشادی CT رجحانات GenAI کلاس کے حق میں رہے، 4.325 بمقابلہ 4.037 (p = .046، جزوی ایٹا مربع = .052، n = 78)۔ الگورتھمی علم کا ٹیسٹ انہیں الگ نہیں کر سکا (80.7 بمقابلہ 74.9)، اس لیے رجحان اور علم کی پیمائشیں مختلف تعمیرات کو ظاہر کرتی رہیں ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]])۔
+
+ذیلی مہارتوں کے پروفائل قبل و بعد کی ڈیزائن کی اطلاع شدہ واحد CT اسکور کو پیچیدہ بناتے ہیں۔ [[koraneekij-codecraft-computational-thinking-2026|Koraneekij اور Khlaisang (2026)]] نے 28 تھائی انڈرگریجویٹس کو جن کا کمپیوٹنگ میں پس منظر نہیں، آٹھ ہفتوں تک تین گھنٹے کے اجلاسوں میں پانچ مرحلوی [[design-thinking|ڈیزائن سوچ]] کے چکر کو لو-کوڈ ایپ سازی کے ساتھ جوڑا، اور پروجیکٹ کے کام کو تین پوائنٹ [[rubrics|روبرک]] پر اسکور کیا۔ اوسط کمپیوٹیشنل سوچ پہلے اجلاس میں 1.13 سے بڑھ کر 1.80 اور پھر 2.49 ہوئی، جس میں الگورتھمی سوچ 2.08 پر سب سے مضبوط شاخ رہی اور 1.46 سے 1.93 اور پھر 2.86 کی روی منحنی دکھائی۔ منطقی سوچ کا اوسط 1.54 رہا اور پہلے دو اجلاسوں میں نہ چلی، 1.04 سے 1.29، اس کے بعد تیسرے اجلاس میں 2.29 تک پہنچی — یہ یاد دلاتی ہے کہ ایک جز میں بہتری کا مطلب یہ نہیں کہ دیگر بھی پیچھے نہ رہ گئے۔
+
+## نظامی سوچ: CT کی ایک مشق
+
+نظامی سوچ Weintrop اور ان کے ساتھیوں کی طرف سے تیار کردہ ریاضی و سائنس کے کمپیوٹیشنل سوچ کی درجہ بندی کی چار شعبوں میں سے ایک ہے، دیگر شعبے ڈیٹا پریکٹسز، کمپیوٹیشنل مسئلہ حل کرنے کی پریکٹسز، اور ماڈلنگ و سمولیشن پریکٹسز ہیں۔ اس کی تعریف درست ہے: **نظام کی سرحدوں کو متعین کرنے اور خرد سطحی تعاملات کو کل سطحی سلوک میں یکجا کرنے کی صلاحیت**۔ یہ طلبہ کی سطح کی علمی صلاحیت ہے — نظام کے بارے میں استدلال کا ایک طریقہ — اور یہ اس ماحول کی سطح کے رویے سے الگ ہے جس میں سیکھنے کے ماحول کو ایک نظام سمجھا جاتا ہے ([[learning-environments-as-systems|سیکھنے کے ماحول بطور نظام]])۔
+
+یہی وہ شعبہ ہے جہاں جانچ سب سے پہلے ٹوٹتی ہے۔ [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch اور Rebello (2026)]] نے ایک تعارفی کمپیوٹیشنل فزکس کورس میں 936 طلبہ کی تحریری تشریحات کو درجہ بندی کے مقابلے میں کوڈ کیا، 10 طلبہ پر (60 جوابات، Fleiss' κ = 0.53) انسانی بنیاد کو مستقر کیا اور پھر 50 طلبہ (300 جوابات) کو اکثریتی ووٹ سے کوڈ کیا۔ طلبہ میں سب سے زیادہ بہتری ڈیٹا پریکٹسز میں ہوئی (p < 0.001, d = 1.03)، کمپیوٹیشنل مسئلہ حل کرنے (d = 0.52) اور نظامی سوچ (d = 0.45) میں معتدل بہتری رہی۔ مگر نظامی سوچ *انسانوں اور ماڈلز دونوں* کے لیے سب سے کم قابلِ اعتماد تعمیر ثابت ہوئی: انسانی اتفاق κ = 0.51 اور LLM κ = 0.48، جبکہ ڈیٹا پریکٹسز کے لیے κ = 0.90 اور ماڈلنگ و سمولیشن کے لیے κ = 0.78 تھا۔ مصنفین کا مفہوم یہ ہے کہ مشکلت ماڈل کی کمزوری نہیں بلکہ تعمیر کی پیچیدگی سے آتی ہے — ایک کثیر الجزو تعمیر جس سے طالب علم سے اجزا کی شناخت *اور* ان کے تعاملات و اثرات کی وضاحت مانگی جاتی ہے، ایک اچھی طرح متعینہ تعمیر کے مقابلے میں کوڈ کرنا مشکل ہے۔ ماڈلنگ و سمولیشن میں d = 0.00 ایک غیر متعلقہ وجہ سے آیا، یعنی چھت اثر: تدریس سے پہلے کا اوسط پہلے ہی 2 میں سے 1.62 تھا، اس لیے وہ آئٹم نشوونما نہیں بلکہ بنیادی علم ناپتا رہا۔
+
+عملی نتیجہ یہ ہے کہ یہ ماڈل کا مسئلہ نہیں بلکہ روبرک ڈیزائن کا مسئلہ ہے۔ ان کی سفارش یہ ہے کہ روبرک کو اس طرح دوبارہ لکھا جائے کہ نظام کے اجزا کی شناخت کو ان اجزا کے باہمی تعامل کی وضاحت سے الگ اسکور کیا جائے، اور ایک مربوط تعمیر پر کم خود کار اتفاق کو خود کاری چھوڑ دینے کے بجائے آلہ نظر ثانی کرنے کا اشارہ سمجھا جائے۔ یہ وہی قدم ہے جس تک [[rubrics|روبرک]] کی تحقیق اسکور کرنے کی جانب سے پہنچتی ہے: مستقر کرنے والا ماڈل نہیں بلکہ آلہ ہے۔
+
+یہ تعمیر فزکس سے آگے چلتی ہے۔ [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz اور Castro Samayoa (2026)]] نظامی سوچ کو Aoun کی انداز میں *روبوٹ ثابت* صلاحیتوں میں سے ایک کہتے ہیں — تنقیدی سوچ، نظامی سوچ اور ثقافتی چالاکی — یہ وہ صلاحیتیں ہیں جنہیں مشق بناتی ہے اور تفویض نہیں۔ [[huang-ai-literacy-vocational-problem-solving-2026|Huang اور ساتھی (2026)]] اپنی "نظام مند سوچ" تعمیر کو اس سے الگ متعین کرتے ہیں، اپنے کو ایک تنگ چار بُعدی پیمائش (تنظیم، استدلال، ترجیح، یکجا کرنا) سمجھتے ہیں اور واضح طور پر اسے وسیع معنی میں نظامی سوچ کہنے سے انکار کرتے ہیں۔ اور [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea اور Valencia-Silva (2026)]] خبردار کرتے ہیں کہ مشغولیت نظامی سوچ نہیں — یہ فرق اس وقت اہم ہوتا ہے جب روبرک کا استعمال ایسی قابلیت کی تصدیق کے لیے کیا جاتا ہے جسے پیمائشنے کے لیے لکھا نہیں گیا تھا۔
+
+## CT اور AI صارفین سے پیدا کرنے والوں، تخلیق کاروں اور ڈیزائنرز کی طرف تبدیلی
 
 AI کے دور میں CT کا ایک مرکزی ہدف طلبہ اور مدرسوں کو AI کے نتائج کی *غیر فعال کھپت* سے آگے AI کے ساتھ اور AI کے لیے *تخلیق، تعمیر اور ڈیزائن* کی طرف لے جانا ہے — یہ ایجنڈا CT کو تعمیریت پسند سیکھنے (بنانے سے سیکھنا) کے ساتھ ہم آہنگ کرتا ہے۔ نالج بیس کے منسلک مضامین اس پیدا کرنے والے/تخلیق کار/ڈیزائنر موڑ کو بڑھتی ہوئی صراحت کے ساتھ بیان کرتے ہیں۔ [[ai-writes-code-student-writes-model-2026|ماڈل تصنیف کی تحقیق]] GenAI کے ساتھ تعمیر سے سیکھنے کو ایک قابلِ پیمائش "ماڈل تصنیف" عمل کے طور پر نئے سرے سے بیان کرتی ہے — طلبہ AI ماڈلز تصنیف کرتے، ڈی بگ کرتے اور انہیں دہراتے ہیں، نہ کہ صرف AI کے بنائے کوڈ یا جوابات استعمال کرتے ہیں۔ [[code-to-learn-genai-artifact-construction-2026|CtL-GenAI فریم ورک]] اسے GenAI کے دور کی [[constructivist|تعمیریت]] کے طور پر عملی شکل دیتا ہے، اور طلبہ کے AI کے ساتھ بنائے گئے مصنوعات کو CT کی نشوونما کا انجن سمجھتا ہے۔ [[computational-thinking-ai-agent-creation|AI ایجنٹ کی تخلیق کے ذریعے CT]] دکھاتا ہے کہ AI ایجنٹس کو ڈیزائن کرنا، نہ کہ محض استعمال کرنا، تجزیہ، تجرید اور الگورتھمی استدلال کو براہ راست بروئے کار لاتا ہے۔
 
@@ -63,11 +82,11 @@ AI کے دور میں CT کا ایک مرکزی ہدف طلبہ اور مدرس�
 
 دوسروں کے ماڈلز کا دوبارہ استعمال بھی پیدا کرنے والے رویے کا حصہ ہے: شائع شدہ AI ماڈل کو نافذ کرنا — اسے منتخب کرنا، نصب کرنا، چلانا اور تصدیق کرنا — ایک سیکھنے کے قابل، ساختہ مہارت کے طور پر سکھایا جا سکتا ہے جس میں ہر متوقع ناکامی کے لیے متبادل راستہ ہو، اور تین BSc [[chemistry-education|کیمسٹری]] طلبہ جن کا پروگرامنگ میں کوئی پس منظر نہ تھا، چار مہینوں میں ایک انزائم-سبسٹریٹ پیش گوئی ماڈل کو دوبارہ بنا کر بڑھا دیا ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]])۔
 
-### عملی رہنمائی
+## عملی رہنمائی
 
 اساتذہ کے لیے مستقل پیغام یہ ہے کہ CT *واضح، سہارا یافتہ اور قابلِ مشاہدہ* شمولیت سے پروان چڑھتی ہے، نہ کہ AI کے غیر فعال استعمال سے۔ روبوٹکس کو نصاب سے CT تصورات کے واضح نقشے کے ساتھ جوڑیں؛ LLMs کو [[simulation]]، قدرتی زبان سے کنٹرول اور CT کی ترقی کی قابلِ پیمانہ جانچ کے لیے استعمال کریں، جبکہ نظامی سوچ جیسی تعمیرات کے لیے انسانی فیصلہ محفوظ رکھیں؛ اور جانچ کو اس طرح نئی شکل دیں کہ خام پیداوار کے بجائے AI کے نتائج کی جانچ اور تشخیص پر زور ہو۔ سیاق کوئی بھی ہو — ابتدائی بچپن میں غیر ڈیجیٹل کھیل، ثانوی [[stem-education]] میں روبوٹس، یا [[higher-ed]] میں Virtual Tutors — سرگرمی کو اس طرح ساخت دیں کہ طلبہ کو تجزیہ، نمونہ، تجرید اور الگورتھم کے بارے میں استدلال کرنا پڑے، نہ کہ تیار شدہ حل وصول کرنا پڑے۔
 
-### متعلقہ تصورات سے تعلق
+## متعلقہ تصورات سے تعلق
 
 کمپیوٹیشنل سوچ وہ مشترکہ علمی بنیاد ہے جو [[ai-literacy]] اور [[critical-thinking]] کے نیچے ہے، [[cs-education]] اور [[k-12]] کمپیوٹنگ کا نصابی مرکز ہے، اور وہ تصوراتی نشانہ ہے جس کی خدمت کے لیے [[educational-robotics]]، [[game-based-learning]] اور [[project-based-learning]] سب سے بہتر ڈیزائن کیے جاتے ہیں۔ یہ [[llm|بڑے لینگویج ماڈلز]] اور [[generative-ai]] سے اس وقت گہری ہوتی ہے جب انہیں سہارے کے ٹول کے طور پر استعمال کیا جائے، اور یہی وہ مہارت ہے جسے طلبہ کی غلط فہمیوں کی درجہ بندیاں اور CT سے آگاہ جانچ ناپنے کا ہدف رکھتی ہیں۔ اساتذہ اسے [[teacher-education]] اور [[professional-training]] کے ذریعے پروان چڑھاتے ہیں، اور یہ [[physics-education]] اور بڑے پیمانے پر [[stem-education|STEM]] سمیت مختلف شعبوں میں منتقل ہوتی ہے۔
 

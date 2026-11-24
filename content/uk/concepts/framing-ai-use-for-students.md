@@ -1,6 +1,7 @@
 ---
 title: Фреймування використання ШІ для студентів
 created: "2026-10-13T21:45:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -10,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -79,6 +84,8 @@ connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, 
 ## Медіа та публічне фреймування
 
 Студентів також фреймують ширші медіа та публічний дискурс навколо [[ai-education|ШІ в освіті]], що формує їхні базові очікування ще до будь-якого повідомлення від викладача. Аналізи публічного дискурсу та того, як платформи на кшталт YouTube фреймують використання ChatGPT в освіті, показують, що панівні фрейми — хайп, жах або прагматизм — впливають на те, як здобувачі та [[teacher-role|педагоги]] ставляться до технології.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Ефективне фреймування з боку викладачів часто означає свідоме протидіяння або перенаправлення цих навколишніх наративів.
+
+Фрейм також впливає на цінність диплому здобувача опісля: опитавши близько 1750 американських фахівців із підбору персоналу, виявилося, що опис використання студентами ШІ як заміщення, а не допомоги, знижував ймовірність запрошення на співбесіду та готовність вести переговори про зарплату, найгостріше для претендентів із високим середнім балом ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Практичні вказівки
 

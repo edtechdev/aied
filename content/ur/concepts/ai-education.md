@@ -1,7 +1,7 @@
 ---
 title: "تعلیم میں مصنوعی ذہانت"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,10 +14,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
@@ -90,7 +94,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## تعلیم میں AI کے بنیادی ڈھانچے
 
-میدان کے سراسری اور بنیادی تصورات علم بنیاد کے احاطے کو جڑتے ہیں اور سائڈ بار میں سب سے پہلے آتے ہیں۔ یہ ایک **ضروریات** گروپ سے شروع ہوتے ہیں — وہ تصورات جن کے ساتھ ہر قاری کو آغاز کرنا چاہیے: خود چھتری، [[misconceptions|AI کے بارے میں غلط فہمیاں]]، [[ai-literacy|AI literacy]]، [[agentic-ai|ایجنٹک AI]]، [[cognitive-offloading|علمی بوجھ اتارنا]]، [[framing-ai-use-for-students|طلبہ کے لیے AI استعمال کی فریمنگ]]، [[reducing-ai-misuse|AI کی بداستمالی کو کم کرنا]]، [[academic-integrity|علمی سالمیت]]، [[teacher-role|تدریس]]، [[learning-design|سیکھنے کا ڈیزائن]]، اور [[educational-development|تعلیمی ترقی]]۔ **میدان** سلسلہ پھر [[history-of-aied|میدان کی تاریخ]]، ثبوت بنیاد کے [[limitations-in-aied-research|سراسری حدود]]، [[philosophy-of-ai-in-education|اس کی فلسفہ]]، [[theories-and-frameworks|نظریات اور فریم ورک کا نقشہ]]، اور [[theory-development-aied|نظریاتی ترقی]] کو احاطہ کرتا ہے۔ سراسری موضوعات — [[human-ai-collaboration|انسانی–AI تعاون]]، [[agency|سیکھنے والے کی خودآگہی]]، [[learner-identity|سیکھنے والے کی شناخت]]، [[design-thinking|ڈیزائن سوچ]]، [[curriculum-design|نصابی خاکہ]]، [[critical-thinking|تنقیدی سوچ]]، اور [[computational-thinking|computational thinking]] — ہر سلسلے میں کاٹتے ہیں، کیونکہ لوگوں کے AI کے بارے میں غلط ذہنی ماڈل [[ai-misuse-learning-harm|بداستمالی]] اور کم کیلیبریٹ [[trust-calibration|بھروسے]] سے بالکل اوپر ہیں۔
+میدان کے سراسری اور بنیادی تصورات علم بنیاد کے احاطے کو جڑتے ہیں اور سائڈ بار میں سب سے پہلے آتے ہیں۔ یہ ایک **ضروریات** گروپ سے شروع ہوتے ہیں — وہ تصورات جن کے ساتھ ہر قاری کو آغاز کرنا چاہیے: خود چھتری، [[misconceptions|AI کے بارے میں غلط فہمیاں]]، [[ai-literacy|AI literacy]]، [[agentic-ai|ایجنٹک AI]]، [[cognitive-offloading|علمی بوجھ اتارنا]]، [[framing-ai-use-for-students|طلبہ کے لیے AI استعمال کی فریمنگ]]، [[reducing-ai-misuse|AI کی بداستمالی کو کم کرنا]]، [[academic-integrity|علمی سالمیت]]، [[teacher-role|تدریس]]، [[learning-design|سیکھنے کا ڈیزائن]]، اور [[educational-development|تعلیمی ترقی]]۔ **میدان** سلسلہ پھر [[history-of-aied|میدان کی تاریخ]]، ثبوت بنیاد کے [[limitations-in-aied-research|سراسری حدود]]، [[philosophy-of-ai-in-education|اس کی فلسفہ]]، [[theories-and-frameworks|نظریات اور فریم ورک کا نقشہ]]، اور [[theory-development-aied|نظریاتی ترقی]]، اور [[learning-environments-as-systems|سیکھنے کے ماحول بطور نظام]] کو احاطہ کرتا ہے، جو سیکھنے کے ماحول کو ایک کثیر سطحی نظام سمجھتا ہے جس کے اجزاء باہم تعامل کرتے ہیں۔ ایک سطح پر متعین کیا جانے والا ٹول یا پالیسی دوسری سطحوں پر اثرات پیدا کرتا ہے۔ سراسری موضوعات — [[human-ai-collaboration|انسانی–AI تعاون]]، [[agency|سیکھنے والے کی خودآگہی]]، [[learner-identity|سیکھنے والے کی شناخت]]، [[design-thinking|ڈیزائن سوچ]]، [[curriculum-design|نصابی خاکہ]]، [[critical-thinking|تنقیدی سوچ]]، اور [[computational-thinking|computational thinking]] — ہر سلسلے میں کاٹتے ہیں، کیونکہ لوگوں کے AI کے بارے میں غلط ذہنی ماڈل [[ai-misuse-learning-harm|بداستمالی]] اور کم کیلیبریٹ [[trust-calibration|بھروسے]] سے بالکل اوپر ہیں۔
 
 ## سیکھنا اور تدریس
 
@@ -139,7 +143,7 @@ AI تدریس اور سیکھنے کی حمایت کیسے کرتا ہے، یہ 
 
 AI دونوں چیزوں کو بدلتی ہے: ہم سیکھنے والوں کا جائزہ کیسے لیتے ہیں اور AI نظام خود کا جائزہ کیسے لیتے ہیں:
 
-- **جائزہ اور فیڈ بیک:** [[assessment]]، [[formative-assessment|فارمیٹو جائزہ]]، [[summative-assessment|سمیٹو جائزہ]]، [[authentic-assessment|مستند جائزہ]]، [[eportfolio|ای پورٹ فولیو]]، [[feedback]] اور [[feedback-literacy|فیڈ بیک لیٹریسی]]، [[ai-feedback-quality|AI فیڈ بیک کا معیار]]، [[peer-assessment|ہم مرتبہ جائزہ]]، [[oral-assessment|زبانی جائزہ]]، [[automated-assessment|خودکار جائزہ]]، [[automated-essay-scoring|خودکار مضمون نمبر بندی]]، اور [[automated-question-generation|خودکار سوال سازی]]۔ کیونکہ اب ایک ماڈل مانگی ہوئی قابل یقین مکمل کام بنا سکتا ہے، علم بنیاد وہ صلاحیت نمایاں کرتا ہے جو سیکھنے والے کی اپنی رہ جاتی ہے: [[evaluative-judgment|جانچ پڑتال کا فیصلہ]]، اپنے کام، ساتھیوں کے کام، اور AI کے نتائج کو معیاری تقاضوں کے مقابلے میں اندازہ لگانے کی صلاحیت۔ یہ وہ construct ہے جس پر کئی فیڈ بیک اور مستند جائزے کی مطالعات متفق ہوتی ہیں — ملٹی سائٹ تجربے میں ہائبرڈ فیڈ بیک کی حالت براہ راست AI فیڈ بیک سے بہتر کارکردگی، AI فارمیٹو فیڈ بیک میں پائیداری کا فرق، اور یہ عملی قدم کہ طلبہ کے بنائے فیصلوں کا جائزہ لیا جائے نہ کہ صرف artefact کا — اور یہ AI دور کے دوبارہ ڈیزائن کا بنیادی سبب ہے کہ مرکز [[ai-detection|پکڑنے]] سے ایسے کاموں کی طرف منتقل ہو جن کی سالمیت معائنے میں بچ جائے۔ [[group-work|گروپ ورک]] کا بھی جائزہ عمل اور پروڈکٹ دونوں کے حساب سے ہوتا ہے، جہاں ٹیموں کو بات چیت کرنی پڑتی ہے کہ کس کا اور کس قسم کا AI مشغولیت قابل قبول شمار ہوتی ہے۔
+- **جائزہ اور فیڈ بیک:** [[assessment]]، [[formative-assessment|فارمیٹو جائزہ]]، [[summative-assessment|سمیٹو جائزہ]]، [[authentic-assessment|مستند جائزہ]]، [[eportfolio|ای پورٹ فولیو]]، [[feedback]] اور [[feedback-literacy|فیڈ بیک لیٹریسی]]، [[ai-feedback-quality|AI فیڈ بیک کا معیار]]، [[peer-assessment|ہم مرتبہ جائزہ]]، [[oral-assessment|زبانی جائزہ]]، [[automated-assessment|خودکار جائزہ]]، [[automated-essay-scoring|خودکار مضمون نمبر بندی]]، اور [[automated-question-generation|خودکار سوال سازی]]، اور [[rubrics|روبرک]]۔ روبرک وہ آلہ ہے جو معیارات کو اٹھائے ہوتا ہے: بیان کیے گئے ابعاد اور سطحی وضاحتیں جو کسی کام کی پڑھائی کو نقل کے قابل بناتی ہیں، اور وہ تفصیل جو ماڈل نمبر دیتے وقت پڑھتا ہے۔ کیونکہ اب ایک ماڈل مانگی ہوئی قابل یقین مکمل کام بنا سکتا ہے، علم بنیاد وہ صلاحیت نمایاں کرتا ہے جو سیکھنے والے کی اپنی رہ جاتی ہے: [[evaluative-judgment|جانچ پڑتال کا فیصلہ]]، اپنے کام، ساتھیوں کے کام، اور AI کے نتائج کو معیاری تقاضوں کے مقابلے میں اندازہ لگانے کی صلاحیت۔ یہ وہ construct ہے جس پر کئی فیڈ بیک اور مستند جائزے کی مطالعات متفق ہوتی ہیں — ملٹی سائٹ تجربے میں ہائبرڈ فیڈ بیک کی حالت براہ راست AI فیڈ بیک سے بہتر کارکردگی، AI فارمیٹو فیڈ بیک میں پائیداری کا فرق، اور یہ عملی قدم کہ طلبہ کے بنائے فیصلوں کا جائزہ لیا جائے نہ کہ صرف artefact کا — اور یہ AI دور کے دوبارہ ڈیزائن کا بنیادی سبب ہے کہ مرکز [[ai-detection|پکڑنے]] سے ایسے کاموں کی طرف منتقل ہو جن کی سالمیت معائنے میں بچ جائے۔ [[group-work|گروپ ورک]] کا بھی جائزہ عمل اور پروڈکٹ دونوں کے حساب سے ہوتا ہے، جہاں ٹیموں کو بات چیت کرنی پڑتی ہے کہ کس کا اور کس قسم کا AI مشغولیت قابل قبول شمار ہوتی ہے۔
 - **پیمائش اور صداقت:** [[assessment-validity|جائزے کی صداقت]]، [[psychometrically-aware-ai|سائکو میٹریکلی آگاہ AI]]، [[educational-measurement|تعلیمی پیمائش]]، [[item-response-theory|آئٹم ریسپانس تھیوری]]، [[self-report-measures|خود اطلاعی پیمانے]] (اس ثبوت کے بڑے حصے کا آلہ، اور ایک بار بار آنے والی حد)، [[ai-detection|AI کا پتہ لگانا]]، [[remote-proctoring|ریموٹ پراکٹرنگ]]، اور [[academic-integrity|علمی سالمیت]]۔
 
 ## تحقیقی طریقے اور جائزہ

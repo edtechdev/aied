@@ -1,6 +1,7 @@
 ---
 title: Когнітивна капітуляція
 created: "2026-10-13T22:50:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -24,6 +25,10 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
@@ -33,12 +38,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Питання для роздумів
 
-1. Коли студент приймає відповідь ШІ, яка виявляється правильною, чи мав клас успіх? Що мало б бути істинним, щоб саме прийняття було тим, що важливо?
-2. Чи відрізняється за родом калібрований делегатор, який знає власні межі, від студента, який просто не може розрізнити? Як [[teacher-role|викладач]] визначив би цю різницю за однією роботою?
-3. Якщо впевненість зростає, тоді як точність падає, — як це відбувається, коли доступна порада ШІ, — що це робить з власним виявленням помилок здобувачем?
-4. Де перевірка є навчальною, а де — проблемою навантаження [[educational-policy-ai|політики]]? Які частини [[curriculum-design|навчальної програми]] мусили б змінитися, щоб перевірка була нормою, а не винятком?
-5. Чи мають установи вимірювати капітуляцію взагалі, чи вимірювання запрошує те саме спостереження, з яким борються правила [[ai-use-disclosure|розкриття]]?
-6. Як виглядало б завдання, яке винагороджувало б студента за перекриття хибної відповіді ШІ, а не за створення відполірованої?
+- Коли студент приймає відповідь ШІ, яка виявляється правильною, чи мав клас успіх? Що мало б бути істинним, щоб саме прийняття було тим, що важливо?
+- Чи відрізняється за родом калібрований делегатор, який знає власні межі, від студента, який просто не може розрізнити? Як [[teacher-role|викладач]] визначив би цю різницю за однією роботою?
+- Якщо впевненість зростає, тоді як точність падає, — як це відбувається, коли доступна порада ШІ, — що це робить з власним виявленням помилок здобувачем?
+- Де перевірка є навчальною, а де — проблемою навантаження політики? Які частини [[curriculum-design|навчальної програми]] мусили б змінитися, щоб перевірка була нормою, а не винятком?
+- Чи мають установи вимірювати капітуляцію взагалі, чи вимірювання запрошує те саме спостереження, з яким борються правила [[ai-use-disclosure|розкриття]]?
+- Як виглядало б завдання, яке винагороджувало б студента за перекриття хибної відповіді ШІ, а не за створення відполірованої?
 
 ## Вступ
 

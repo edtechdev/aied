@@ -1,7 +1,7 @@
 ---
 title: Хибні уявлення про ШІ
 created: "2026-10-13T23:05:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -46,7 +50,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Вступ
 
-Хибні уявлення про ШІ важливі, бо вони є когнітивним попередником шкідливих поведінок, задокументованих у занепокоєннях щодо [[cognitive-offloading|надмірної опори]] та [[academic-integrity|академічної доброчесності]]. Люди рідко беруться [[ai-misuse-learning-harm|неправильно використовувати]] ШІ; вони роблять це, бо неточні ментальні моделі ведуть їх до неправильного розміщення довіри, пропуску перевірки й трактування результату як розуміння. В освіті ці помилки формують усе — від того, як студенти навчаються, до того, як викладачі та установи проєктують навчальні плани, [[assessment|оцінювання]] й політику.
+Хибні уявлення про ШІ важливі, бо вони є когнітивним попередником шкідливих поведінок, задокументованих у занепокоєннях щодо [[cognitive-offloading|надмірної опори]] та [[academic-integrity|академічної доброчесності]]. Люди рідко беруться [[ai-misuse-learning-harm|неправильно використовувати]] ШІ; вони роблять це, бо неточні ментальні моделі ведуть їх до неправильного розміщення довіри, пропуску перевірки й трактування результату як розуміння. В освіті ці помилки формують усе — від того, як студенти навчаються, до того, як викладачі та установи проєктують навчальні плани, [[assessment|оцінювання]] й політику. Окремий пласт робіт питає про саме фреймування, яке породжує ці хибні уявлення; див. [[critiques-of-ai-in-education|Критика ШІ в освіті]].
 
 ## Що таке хибні уявлення про ШІ
 

@@ -10,12 +10,16 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -49,6 +53,8 @@ Informationskunnighetens objekt är källan, och dess kärnfråga är om påstå
 
 Den empiriska litteraturen återspeglar uppdelningen. En enkät med 236 amerikanska universitetsstudenter frågade var akademiska sökningar börjar och fann sökmotorer på 45,5%, bibliotekets startsida på 27,9% och en AI-chattbot på 26,6%, där internationella studenter ersatte biblioteksresurser med AI i ungefär dubbelt så hög grad som inhemska ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund m.fl., 2026]]). En systematisk genomgång av 32 studier fann att integration av [[ai-literacy|AI-kompetens]] i informationskunnighetsundervisning befann sig i ett "spädbarnsstadium", levererad via LibGuides och workshoppar snarare än läroplan ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza och Arif, 2026]]). På mediesidan fann intervjuer med sju experter och en enkät med 141 elever att teknikinslag i läroplanen för kritisk mediekunnighet var "begränsade och ofta ytliga", med lärare underutbildade för verktyg som producerar desinformation och deepfakes ([[critical-media-literacy-education-2026|den kritiska mediekunnighetsstudien, 2026]]).
 
+Internationell bedömning är på väg att slå samman de två konstrukten. PISA 2029 inför en bedömning i medie- och AI-kunnighet (MAIL) för 15-åringar, och iRAISE:s genomgång från 2026 bygger sin definition på samma integrering — AI-kunnighet som det nyaste skiktet i digital kunnighet, vilket i sig vilar på decenniers medie- och informationskunnighet ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Integreringen medför en implementeringskostnad som divergensargumentet förutspår. UNESCO:s kartläggning från 2025 fann att 171 av 194 medlemsstater nämnde medie- och informationskunnighet i nationella ramverk, men att endast 84 (43%) inkluderade inslag utöver tekniska digitala färdigheter i läroplaner — alltså är den konstrukt som bedömningen mäter den som skolorna undervisar minst i.
+
 ## Hur AI komplicerar informationskunnigheten
 
 Den första komplikationen är fabricering i skala. En modell producerar övertygande text, rimliga referenser och självsäkra siffror som kanske inte finns; läsaren får en syntes vars sökspår har raderats. Kontroll blir en annan färdighet: inte "är detta en bra källa" utan "existerar denna källa, och säger den det som svaret påstår".
@@ -60,6 +66,8 @@ Den tredje är kapacitet. I en enkät med 412 akademiska bibliotekarier vid 38 n
 ## Hur AI komplicerar mediekunnigheten
 
 Mediekunnighetens grundfrågor antog en skapare med ett syfte. Deepfakes, röstkloning och automatiserade botar bryter det antagandet på tre sätt: artefakten kan sakna en mänsklig författare, publiken kan vara syntetisk, och avsikten kan vara optimering för engagemang snarare än övertalning av någon.
+
+**Personligt anpassade argument är den aktuella hotmodellen för övertalning.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi m.fl. (2025)]] randomiserade 900 amerikanska vuxna till tio minuters onlinedebatter mot en människa eller GPT-4, med eller utan sex vanliga demografiska fält. Oanpassad GPT-4 var statistiskt oförskiljbar från en mänsklig motståndare, medan personligt anpassad GPT-4 höjde oddsen för samstämmighet efter debatten med 81,2% och var mer övertygande i 64,4% av fallen. Deltagarna identifierade en AI-motståndare i ungefär tre av fyra debatter men försköts längre när de trodde att motståndaren var AI, så källidentifiering fungerade inte som skydd. Manipulationen var osynlig i själva texten: stilmått skilde sig mellan villkoren, vilket lokaliserar fördelen till vilka argument som valdes snarare än hur de skrevs.
 
 Läroplansbevisen tyder på att skolorna inte har hunnit ikapp. Expertintervjuerna beskriver [[teacher-education|lärarutbildning]] som den bindande begränsningen snarare än elevmotstånd, och argumenterar för en [[critical-pedagogy]]-inramning som behandlar utvärdering som etisk och deltagande praktik i stället för verktygsträning. En beställd rapport för public service-medier fann att utbudet för 14–19-åringar lutade mot funktionella AI-färdigheter och bort från kritisk utvärdering, trots en genomgång av mer än 40 ramverk och intervjuer med 35 experter ([[ai-literacies-young-adults-2025|AI Literacies-rapporten, 2025]]).
 
@@ -75,12 +83,25 @@ Lästa tillsammans antyder de två sidorna av räkenskapen en regel: AI kan bär
 
 ## Vad detta innebär för praktiken
 
-- **Lär ut en procedur, två objekt.** Den kontrollerbara rutinen — spåra påståendet till en källa, spåra källan till en författare, fråga vad artefakten gör — fungerar för en citering och för en video. Namnge vilket objekt uppgiften bedömer.
-- **Behandla detektion som evidens, inte dom.** En detektors utdata är en sannolikhet; lär elever att bekräfta med en andra metod och att säga vad som skulle få dem att ändra sig.
-- **Behåll produktionen i läroplanen.** Att göra medier var den pedagogik som gjorde kritiken konkret; generering med AI kan stödja den bara om eleverna granskar de val verktyget gjorde åt dem.
-- **Placera en bibliotekarie eller mediespecialist inne i arbetsflödet.** Det starkaste undervisningsresultatet i denna litteratur kommer från en design där mänsklig konsultation var inbyggd, inte erbjuden i efterhand.
-- **Bedöm personalens kapacitet innan kursplanen skrivs.** Det uppmätta underskottet ligger i att utforma mål och bedöma utfall, inte i att använda verktyg.
+Lärare kan lära ut en procedur mot två objekt. Spåra påståendet till en källa, spåra källan till en författare och fråga sedan vad artefakten gör. Rutinen fungerar lika för en citering som för en video, och uppgiften bör namnge vilket av objekten den bedömer.
+
+Lärare kan behandla en detektors utdata som evidens snarare än som en dom. Det är en sannolikhet, så elever bör bekräfta med en andra metod och säga vad som skulle få dem att ändra sig.
+
+Läroplansutformare kan behålla produktionen i kursen. Att göra medier var det som gjorde kritiken konkret i de studier som granskas här, och generering med AI stöder den bara när eleverna granskar de val verktyget gjorde åt dem.
+
+Att poängsätta konstrukten som prestation snarare än attityd får den svaga punkten att synas. I en veckolång Code Craft-prövning med 28 thailändska grundstuderande steg den digitala kunnigheten från 1,51 till 2,82 på en trepoängig [[rubrics|bedömningsmatris]], men hantera information låg i snitt på 1,92 och skapa information på 2,05 mot 2,36 för att kommunicera och arbeta med andra ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij och Khlaisang, 2026]]). De lägsta resultaten låg på konstruktens producerande sida, där en kurs som stannar vid sökning och utvärdering aldrig kommer fram.
+
+Programansvariga kan placera en bibliotekarie eller mediespecialist inne i arbetsflödet. Det starkaste undervisningsresultatet i denna litteratur kommer från en design där mänsklig konsultation var inbyggd snarare än erbjuden i efterhand.
+
+Kompetensutvecklare kan bedöma personalens kapacitet innan en institution skriver sin kursplan.
 
 ## Evidensens begränsningar
 
 De flesta studier här är små, [[self-report-measures|självrapporterade]] eller både och: 236 elever i en enkät, 36 barn i en intervention, 412 bibliotekarier som skattar sig själva. Bibliometrisk synlighet är inte praktik, och de scientometriska författarna säger det explicit. Ingen studie i korpusen utvärderar en kombinerad läroplan för informations- och mediekunnighet, och de detektor- och faktagranskningsverktyg som praktiklitteraturen rekommenderar är i stort sett omätta i dessa källor. Påståendet att AI-driven verifiering förbättrar utfallen bör behandlas som en designhypotes tills någon prövar den mot en kontroll.
+
+## Vanliga missuppfattningar
+
+- **En detektor avgör frågan.** En detektor returnerar en sannolikhet; bekräfta den med en andra metod i stället för att behandla den som ett facit.
+- **De två kunnigheterna är en enda färdighet med två namn.** Deras objekt skiljer sig — källtrovärdighet mot författarskap och avsikt — så en enda bedömningsmatris bedömer ingen av dem väl.
+- **Att upptäcka AI skyddar mot det.** I det starkaste övertalningsexperiment som granskas här var identifieringen hög och samtidigt växte förskjutningen mot AI:s ståndpunkt.
+- **Bibliotekariekompetens överförs till AI-kunnighet.** Personalunderskottet syns i att utforma mål (M = 2,70) och bedöma utfall (M = 2,62), inte i att använda verktyg.

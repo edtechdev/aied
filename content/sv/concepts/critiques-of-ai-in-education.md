@@ -1,7 +1,7 @@
 ---
 title: Kritik av AI i utbildningen
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ En andra kluster angriper ordförrådet snarare än maskineriet. Wang och Jin l�
 
 ## Infrastruktur, transduction och felaktig erkännande
 
-En tredje kluster flyttar uppmärksamheten från verktyget till infrastrukturen runt omkring det. Watson, Morgner och Brezovec behandlar generativ AI som meningsmedierande infrastruktur och namnger dess mekanism *semantisk transduction*: ombildningen av en utbildningsfråga — en prompt, ett uppdrag, en bedömningsmatris, en tentamensfråga, en genre eller en policy — till en kommunikativt plausibel form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner och Brezovec, 2026]]). Eftersom transduction är selektiv kan den inkludera eller exkludera. Tre platser återkommer: tillgångs- och förmågeklyftor, felaktigt erkännande genom mallar för hur ett bra svar eller en bra elev låter, och normativ drift i vad som pedagogik anses betyda. Exkluderingen är ofta en åtsnörning snarare än ett förbud — institutioner höjer förväntningarna på tempo, polering och idiomatiskt flyt samtidigt som de skärper autenticitetsregimer.
+En tredje kluster flyttar uppmärksamheten från verktyget till infrastrukturen runt omkring det. Watson, Morgner och Brezovec behandlar generativ AI som meningsmedierande infrastruktur och namnger dess mekanism *semantisk transduction*: ombildningen av en utbildningsfråga — en prompt, ett uppdrag, en [[rubrics|bedömningsmatris]], en tentamensfråga, en genre eller en policy — till en kommunikativt plausibel form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner och Brezovec, 2026]]). Eftersom transduction är selektiv kan den inkludera eller exkludera. Tre platser återkommer: tillgångs- och förmågeklyftor, felaktigt erkännande genom mallar för hur ett bra svar eller en bra elev låter, och normativ drift i vad som pedagogik anses betyda. Exkluderingen är ofta en åtsnörning snarare än ett förbud — institutioner höjer förväntningarna på tempo, polering och idiomatiskt flyt samtidigt som de skärper autenticitetsregimer.
 
 ## Agendansättning, simulerad innovation och experimentell framtidsgestaltning
 

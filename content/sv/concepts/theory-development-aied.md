@@ -8,12 +8,16 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -75,6 +79,8 @@ Annat arbete utvidgar befintlig teori till AI-kontexten i stället för att grun
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin och Chang (2026)]] utvidgar [[self-regulated-learning]] och människa–AI-reglering genom att namnge vad eleven styr — standarder, [[evaluative-judgment|utvärderande omdömen]] och kontrollauktorisering — snarare än bara vad AI gör.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai och Flenady (2026)]] importerar Honneths och Brandoms erkännande till feedbackteorin och hävdar att ömsesidig tillskrivning av ställning, inte informationskvaliteten, är det som gör en kommentar till en anledning att handla.
+
 Friktionsparadoxen erbjuder en annan utvidgning av etablerad teori: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] tillämpar Bjork och Bjorks [[desirable-difficulties|önskvärda svårigheter]] och Kapurs [[productive-failure|produktiva misslyckande]] på relationella möten i utlandsstudier, och hävdar att det som spelar roll är hur mycket tolkande agens en elev [[transfer-of-learning|överför]] till en generativ assistent, snarare än hur ofta den används. Ramverket är begreppsligt och anger fem propositioner som konkurrerande hypoteser.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri och Biagini (2026)]] för fram fältets funktionella taxonomi från Zawacki-Richter m.fl. (2019): bland de 154 publikationerna med en klassificerbar applikationsfunktion undslapp 90 (58,4 %) dess fyra kategorier, och deras ramverk korsar funktion med delegerad kontroll, epistemisk position och inbäddad pedagogik.
@@ -93,15 +99,7 @@ Fältets teoretiserande är ojämnt. [[limitations-in-aied-research|Begränsning
 
 ## Förhållande till filosofin om AI i utbildningen
 
-Teoriutveckling och [[philosophy-of-ai-in-education|filosofin om AI i utbildningen]] är komplementära men distinkta strängar av kunskapsbasens grundarbete. **Teoriutveckling** producerar och empiriskt prövar *mekanismerna* för lärande-med-AI — namngivna teorier och ramverk som generativism, epistemisk sam-agens och den frånvarande kognitiva baslinjen som förklarar och förutsäger hur elever och AI interagerar. **Filosofin** granskar de *förutsättningar* dessa mekanismer vilar på: vad som räknas som kunskap, vem som räknas som kunskapande och vad eleven i grunden är. En teori som [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemisk sam-agens]] föreslår en mekanism men antar samtidigt filosofiska åtaganden om distribuerad kognition och [[agency|agens]]; filosofin gör dessa åtaganden explicita och bestridbara. Där teoriutvecklingen frågar om ett ramverk förklarar lärandet väl frågar filosofin om det fångar vad lärande och medvetande verkligen är — de två strängarna möts i fältets mest grundläggande artiklar, som ofta gör båda på en gång.
-
-## Vanliga missuppfattningar
-
-**"Ett fynd att verktyget fungerade är ett teoretiskt bidrag."** Det är det inte, och skälet är strukturellt. När ett ramverks propositioner förutsäger *skillnader mellan konfigurationer* kan en studie som bara rapporterar en medeleffekt **inte bekräfta eller vederlägga dem** — designen kan inte se den åtskillnad teorin handlar om. En prövning som visar en medelvinst säger att något hände, inte vilken mekanism som orsakade det, så teorin är exakt lika stödd som före.
-
-**"Att tillämpa en etablerad teori på AI är teoriutveckling."** Sidans eget teoriproblem säger motsatsen: tillämpning är inte framflyttning, och fältets återkommande mönster är lånade begrepp som används som vokabulär snarare än som prövbara förutsägelser. Åtskillnaden spelar roll eftersom en lånad ram som inte kan generera en falsifierbar skillnad är dekoration, inte teori.
-
-**"De befintliga taxonomierna över AI:s pedagogiska funktion täcker redan vad dessa system gör."** De täcker inte mycket av det. Bland 154 publikationer med en klassificerbar applikationsfunktion **undslapp 90 (58,4 %) de fyra kategorierna** i det tidigare ramverket, vilket är varför det nyare arbetet korsar funktion med delegerad kontroll, epistemisk position och inbäddad pedagogik. En taxonomi som felklassificerar nästan tre av fem fall kan inte fungera som fältets gemensamma vokabulär, och gapet är ett fynd om fenomenet snarare än en lucka i en artikel.
+Teoriutveckling och [[philosophy-of-ai-in-education|filosofin om AI i utbildningen]] är komplementära men distinkta strängar av kunskapsbasens grundarbete. **Teoriutveckling** producerar och empiriskt prövar *mekanismerna* för lärande-med-AI — namngivna teorier och ramverk som generativism, epistemisk sam-agens och den frånvarande kognitiva baslinjen som förklarar och förutsäger hur elever och AI interagerar. **Filosofin** granskar de *förutsättningar* dessa mekanismer vilar på: vad som räknas som kunskap, vem som räknas som kunskapande och vad eleven i grunden är. En teori som [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemisk sam-agens]] föreslår en mekanism men antar samtidigt filosofiska åtaganden om distribuerad kognition och [[agency|agens]]; filosofin gör dessa åtaganden explicita och bestridbara. Där teoriutvecklingen frågar om ett ramverk förklarar lärandet väl frågar filosofin om det fångar vad lärande och medvetande verkligen är — de två strängarna möts i fältets mest grundläggande artiklar, som ofta gör båda på en gång. Vad fältets kritiker säger om vilka riktningar dessa teorier öppnar eller stänger är en separat fråga, samlad under [[critiques-of-ai-in-education|Kritiker av AI i utbildningen]].
 
 ## Implikationer för praktiken
 
@@ -120,3 +118,11 @@ Teoriutveckling och [[philosophy-of-ai-in-education|filosofin om AI i utbildning
 
 - Designa för konfigurationskontraster om du avser att bidra teoretiskt. En medeleffektprövning publicerad som teoriutveckling är fältets vanligaste och minst användbara output.
 - Fäst explicita falsifierbara propositioner vid varje ramverk du introducerar, och rapportera vilka konfigurationsskillnader som skulle ha vederlagt dem.
+
+## Vanliga missuppfattningar
+
+**"Ett fynd att verktyget fungerade är ett teoretiskt bidrag."** Det är det inte, och skälet är strukturellt. När ett ramverks propositioner förutsäger *skillnader mellan konfigurationer* kan en studie som bara rapporterar en medeleffekt **inte bekräfta eller vederlägga dem** — designen kan inte se den åtskillnad teorin handlar om. En prövning som visar en medelvinst säger att något hände, inte vilken mekanism som orsakade det, så teorin är exakt lika stödd som före.
+
+**"Att tillämpa en etablerad teori på AI är teoriutveckling."** Sidans eget teoriproblem säger motsatsen: tillämpning är inte framflyttning, och fältets återkommande mönster är lånade begrepp som används som vokabulär snarare än som prövbara förutsägelser. Åtskillnaden spelar roll eftersom en lånad ram som inte kan generera en falsifierbar skillnad är dekoration, inte teori.
+
+**"De befintliga taxonomierna över AI:s pedagogiska funktion täcker redan vad dessa system gör."** De täcker inte mycket av det. Bland 154 publikationer med en klassificerbar applikationsfunktion **undslapp 90 (58,4 %) de fyra kategorierna** i det tidigare ramverket, vilket är varför det nyare arbetet korsar funktion med delegerad kontroll, epistemisk position och inbäddad pedagogik. En taxonomi som felklassificerar nästan tre av fem fall kan inte fungera som fältets gemensamma vokabulär, och gapet är ett fynd om fenomenet snarare än en lucka i en artikel.
