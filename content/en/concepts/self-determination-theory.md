@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-24T07:20:00-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,8 +9,13 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 reviewed_by: [editor]
+ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: drafting
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
-connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026, kaya-ssrl-sdt-chatgpt-mathematical-modeling-2026]
 ---
 
 > **Self-Determination Theory (SDT)** — a psychological theory of human motivation positing that intrinsic motivation and [[well-being|well-being]] depend on satisfying three basic psychological needs: autonomy, competence, and relatedness. In [[ai-education|AI in education]], SDT provides a framework for designing AI tools and professional development that support rather than undermine learners' and teachers' motivation.
@@ -40,6 +45,8 @@ A contrasting classroom result shows the needs do not move together: among 2,464
 Autonomy, not ease, carried the motivational gain here. A three-arm [[rct|RCT]] found that a hint-withholding tutor, which kept learners building their own solution, was the only arm to raise intrinsic motivation (2.82 vs 2.42), while unrestricted ChatGPT, which supplies the answer, did not (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 A configurational test sharpens the point: among 498 medical undergraduates, GAI use was only weakly associated with need satisfaction (β = 0.155) and proved unnecessary for high engagement, while competence need satisfaction was the core condition in the strongest configuration ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
+
+At the collective level, [[kaya-ssrl-sdt-chatgpt-mathematical-modeling-2026|Kaya & Yildiz Durak (2026)]] classified 18 ChatGPT-4o-mediated mathematical modeling activities against collective autonomy, competence and relatedness, alongside [[sociocultural-learning|socially shared regulation]] features. ChatGPT-4o was judged effective for competence and autonomy but limited on relatedness, and few activities directly targeted it.
 
 **Dual pathways from learning climate to AI use.** [[dual-ai-learning-pathways-sdt-2026|Shen and Arunrugstichai (2026)]] integrate SDT with the Hook model of behavioral engagement to explain why GenAI use ranges from constructive support to compulsive dependence. In cross-sectional survey data from **508 university students** with different high-school backgrounds and current contexts (China and Thailand), retrospective reports of **high-school pressure vs. autonomy support** differentially predicted which of two pathways students followed into university — one toward constructive, autonomous GenAI use and another toward compulsive dependence — with results consistent across cross-contextual multi-group analyses. The model links SDT motivational processes to perceived quality of AI-supported learning, framing autonomy support as a lever that steers students toward productive rather than dependent AI use.
 

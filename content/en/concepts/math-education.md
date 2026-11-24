@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-24T07:20:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,12 @@ confidence: high
 connected_resources: [teacher-dev]
 reviewed_by: [editor]
 connected_concepts: [stem-education, intelligent-tutoring, scaffolding, affective-computing, affective-tutoring, k-12, higher-ed, ai-literacy, metacognition, self-regulated-learning, personalized-learning, adaptive-learning, help-seeking, learning-analytics, knowledge-tracing, assessment-validity, multimodal, hallucination-risk, cognitive-offloading, teacher-role, educational-development, generative-ai, discipline-specific-aied, teacher-education]
-connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026]
+connected_articles: [ledezma-geometry-task-design-genai-preservice-2026, llm-math-homework-offloading-traces-2026, ai-proof-learning-cognitive-offloading-2026, preservice-math-teachers-genai-communication-2026, ai-scaffolding-symbolic-obstacles-calculus-2026, manto-ai-integration-mathematics-education-systematic-review-2026, ai-mathematics-education-prisma-review-2026, automated-scoring-economics-math-items-nigeria-2026, mindful-llm-math-tutoring-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, kar-mathbuddy-affective-math-tutoring-2025, zhang-tutormoments-2026, lak2026-hint-button-unproductive-use, llm-cognitive-diagnosis-handwritten-math, representation-robustness-llm-math-problem-solving, epistemic-proactivity-math, ai-powered-personalized-learning-elementary-fractions-2026, teacher-control-ai-generation-math-visuals, genai-runaway-object-math-higher-ed, generative-ai-reduced-study-time-math, puech-pedagogical-steering-llm-productive-failure-2025, instructional-design-proficiency-masters-math-2026, rule-integrated-llm-tutoring-primary-math-2026, razavi-powers-item-difficulty-llm-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, genai-practice-platform-maths-feedback-2026, ai-generated-responses-achievement-self-efficacy-2026, teachers-instrumental-orchestration-ai-math-2026, decision-making-agent-student-decision-acceptance-2026, genai-learning-motivation-meta-analysis-2026, jita-ai-mathematics-classrooms-inclusion-2026, kaya-ssrl-sdt-chatgpt-mathematical-modeling-2026]
+ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: drafting
+    date: "2026-11-24"
+    agent: hermes-agent
 ---
 
 > **Math Education** — the study of how students learn mathematics and how AI can support mathematics teaching, spanning affective tutoring, cognitive diagnosis from handwritten work, [[desirable-difficulties|productive struggle]] evaluation, help-seeking behavior, teacher-AI collaboration for visual generation, and [[student-ai-interaction|student-AI interaction]] trajectories. Math education is the most active [[discipline-specific-aied|domain-specific]] [[research-methods-aied|research]] area in this literature, with 32 articles that collectively explore how AI can support — and sometimes undermine — mathematical learning from elementary fractions through higher education.
@@ -93,6 +98,7 @@ Math education sits within the broader [[stem-education|STEM education]] domain 
 - **Beware surface-format fragility in AI scoring.** [[representation-robustness-llm-math-problem-solving|Representation sensitivity]] means equivalent problems can flip AI answers — a validity risk for AI-based math assessment; prefer [[human-in-the-loop-ai|human review]] for high-stakes scoring.
 - **Use AI to lower the bar for personalized practice.** [[ai-powered-personalized-learning-elementary-fractions-2026|Adaptive platforms]] improved fraction comprehension for students with math learning difficulties; deploy AI-adaptive tools selectively for learners who need differentiated support.
 - **Keep the teacher in control of AI-generated instructional materials.** [[teacher-control-ai-generation-math-visuals|Teacher control of AI visuals]] supports a framework that balances AI efficiency with pedagogical correctness.
+- **Select modeling tasks by regulation and need.** [[kaya-ssrl-sdt-chatgpt-mathematical-modeling-2026|Kaya & Yildiz Durak (2026)]]'s three-round Delphi panel classified 18 ChatGPT-4o-mediated mathematical modeling activities, labeling each by modeling competency, four socially shared regulation features, and the collective psychological need it serves. Pick them by the regulation feature and the need they feed, not by how impressive the output looks; activities cluster by function across context access, model construction, and evaluation.
 
 ## Common Misconceptions
 
