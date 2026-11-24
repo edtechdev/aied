@@ -1,7 +1,7 @@
 ---
 title: "Reducing authorship attribution risk in student texts through style-conditioned rewriting"
 created: "2026-11-24T10:10:00-05:00"
-updated: "2026-11-24T10:10:00-05:00"
+updated: "2026-11-24T10:20:00-05:00"
 type: article
 authors: ["Li Siyan", "Zhen Xu", "Jiayi Chen", "Shopnil Shahriar", "Alessandro Sayad", "Xuanming Zhang", "Renzhe Yu", "Zhou Yu"]
 venue: "arXiv preprint (cs.CL)"
@@ -56,7 +56,7 @@ Privacy was measured by attack. An attacker holding other posts by every student
 
 The study evaluates a method rather than a classroom intervention, and its claims are bounded accordingly. The proprietary dataset cannot be released under its data agreement, which limits independent replication of one of the three results. Style fidelity remains imperfect, especially for longer or more heterogeneous corpora, and the authors report that unrestricted top-K retrieval already lands in the target cluster about 71% of the time, meaning the cluster restriction guarantees something retrieval alone does not but also adds cost. Human agreement on style judgments was fair rather than strong (Gwet's AC1 = 0.303), which is typical for subjective text judgments but means individual preference should be read cautiously. And none of this addresses whether students would consent to having their writing rewritten and published in any form.
 
-For institutions, the practical significance is narrower than it may first appear but still real: it offers a route to sharing research data that otherwise stays locked, which in turn makes [[academic-integrity|research on student writing]] more reproducible.
+For institutions, the practical significance is narrower than it may first appear but still real: it offers a route to sharing research data that otherwise stays locked, which in turn makes [[academic-integrity|research on student writing]] more reproducible. The authors release the pipeline, all prompts, and the rewritten Stanford MOOC and Stack Exchange corpora at [github.com/siyan-sylvia-li/seams_release](https://github.com/siyan-sylvia-li/seams_release).
 
 ## What this means for practice
 
