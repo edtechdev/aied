@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:52:57-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Giới thiệu
 
 Bản sắc người học liên quan đến việc một người học hiểu mình là ai, và mình đang trở thành ai, trong một lĩnh vực — một cấu trúc động lực và phát triển, khác với các niềm tin về năng lực như [[self-efficacy]], vốn trả lời câu hỏi hẹp hơn *mình có làm được việc này không?* Bản sắc hình thành qua tham gia, công nhận và quyền tác giả: thấy mình được phản chiếu trong một lĩnh vực và có cái nhìn đó về bản thân được người khác xác nhận. AI định hình lại cả ba điều kiện, bởi vì nó thay đổi ai làm công việc, cái gì được tính là đóng góp của chính mình, và liệu người học có được công nhận là tác giả của việc học của chính mình hay không ([[agency]], [[metacognition]]).
+
+Điểm số cũng là một mối quan hệ chứ không chỉ là một biểu tượng: sinh viên đi đến việc nhìn thấy mình qua chúng, nên cải cách để nguyên bảng điểm cũng để nguyên mối quan hệ đó ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Vì sao bản sắc quan trọng với AI trong giáo dục
 
@@ -59,6 +65,9 @@ Một điều kiện quyền tác giả riêng biệt, không chỉ là một m�
 
 - **Tiếp nhận có đề phòng: dùng AI có chọn lọc như một cách bảo vệ bản sắc.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] khảo sát 484 sinh viên tại một trường đại học Australia và thấy rằng những sinh viên đạt kết quả cao hơn báo cáo mức độ tham gia tích cực với [[generative-ai|AI tạo sinh]] *thấp hơn*, ảnh hưởng tích cực với AI thấp hơn, tác động [[self-report-measures|việc học được cảm nhận]] thấp hơn và mức độ buông bỏ liên quan đến AI thấp hơn, với các liên hệ mạnh nhất ở rho = -0.395 cho tác động việc học được cảm nhận và rho = -0.359 cho ảnh hưởng tích cực. Các câu trả lời mở của họ mô tả việc sử dụng có chọn lọc (làm rõ, tóm tắt, hỗ trợ quy trình làm việc), có kiểm chứng, và đặt dưới phán đoán của chính họ, và kết quả ở cấp mục cho thấy sự đồng ý cao hơn rằng việc phụ thuộc vào AI cản trở [[critical-thinking|tư duy phản biện]] và [[problem-solving|giải quyết vấn đề]] độc lập. Các tác giả đọc điều này như công việc bản sắc: với những sinh viên mà cảm giác về bản thân như một người học thành công dựa trên nỗ lực và phán đoán của chính họ, việc giới hạn sử dụng AI bảo vệ [[agency|quyền tự chủ nhận thức]] mà bản sắc đó phụ thuộc vào — điều cũng có nghĩa mô thức này không phải là sợ công nghệ cũng không phải là tham gia thấp.
 - **Một mục đích được nêu không nhất thiết điều khiển một quyết định về AI.** [[ting-ai-learning-ownership-purpose-2026|Ting và cộng sự (2026)]] phỏng vấn 14 sinh viên đại học và mã hóa từng cuộc phỏng vấn theo quan hệ giữa [[self-determination-theory|mục đích]] của sinh viên — một ý định có ý nghĩa cá nhân muốn đóng góp vượt ra ngoài bản thân — và các lựa chọn AI của họ. Chỉ một số người tạo ra được kết nối: một người từ chối AI vì chi phí môi trường và con người của nó mâu thuẫn với mục đích của cô, và ba người để bản sắc nghề nghiệp tương lai định hình lựa chọn của mình ("góp phần vào nhà tâm lý học mà tôi sẽ trở thành một ngày nào đó ngoài kia"). Những người khác có cảm giác về mục đích rõ ràng tương đương lại không tạo ra liên kết như vậy, mô tả mục đích và AI là "kiểu tách rời", nên có một bản sắc để bảo vệ không giống với việc dựa vào nó. Bài báo cũng tách các lý do sinh viên đưa ra để giữ công việc là của mình — phát triển kỹ năng, [[evaluative-judgment|quyền sở hữu và niềm tự hào]], và phản đối đạo đức — những lý do đến qua các cơ chế khác nhau và không nên gộp thành một động cơ duy nhất.
+
+- **Năng lực có thể đến trước cảm giác thuộc về.** Một trải nghiệm tự sự học thuật 73 ngày của một nhà giáo dục bioinformatics khi xây một trò chơi trong lĩnh vực xa lạ cho thấy [[generative-ai|GenAI]] cung cấp năng lực nhưng không cung cấp bản sắc: cảm giác thuộc về đến qua tham gia cộng đồng thực hành và quá trình đi tới hiểu ý nghĩa lặp đi lặp lại, và đạt được nó đòi hỏi một nhịp độ của con người ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Việc từ chối cũng là công việc bản sắc: trong năm học nghề trung học da màu, việc không dùng khẳng định quyền kiểm soát, tuân theo quy định của thể chế, hoặc báo hiệu các giá trị tri thức luận, trong khi các phản hồi trung lập của AI tạo ra một "sự phẳng lặng văn hóa" khiến trải nghiệm của họ không được thừa nhận ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Quan hệ với quyền tự chủ của người học
 

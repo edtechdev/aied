@@ -10,14 +10,18 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: "concepts/framing-ai-use-for-students"
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ Những thông điệp nhỏ, được thiết kế tốt có thể dịch chuy�
 ## Truyền thông và định khung công chúng
 
 Học sinh còn bị định khung bởi truyền thông rộng hơn và diễn ngôn công chúng quanh [[ai-education|AI trong giáo dục]], vốn định hình kỳ vọng nền tảng của các em trước bất kỳ thông điệp nào của giảng viên. Các phân tích diễn ngôn công chúng và cách các nền tảng như YouTube định khung việc dùng ChatGPT trong giáo dục cho thấy những cách định khung đang thịnh hành - cường điệu, diệt vong hay thực dụng - ảnh hưởng tới cách người học và [[teacher-role|nhà giáo dục]] tiếp cận công nghệ.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Việc định khung hiệu quả của giảng viên thường có nghĩa là chủ động đối trọng hoặc chuyển hướng những tự sự môi trường này.
+
+Định khung còn định giá tín chỉ ở phía đời sau: với khoảng 1.750 chuyên gia tuyển dụng của Mỹ, việc mô tả việc sinh viên dùng AI là thay thế thay vì hỗ trợ làm giảm khả năng được phỏng vấn và sẵn sàng thương lượng lương, mạnh nhất ở những ứng viên có GPA cao ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Hướng dẫn thực tiễn
 

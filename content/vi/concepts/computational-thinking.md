@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Giới thiệu
 
-### Tư duy tính toán trong một lớp học thời đại AI
+## Tư duy tính toán trong một lớp học thời đại AI
 
 Các bài viết được liên kết của cơ sở kiến thức hội tụ về một khẳng định trung tâm: tư duy tính toán (CT) là nền tảng khái niệm mà học sinh cần để tham gia phản biện với AI, và nó cũng là kỹ năng được làm sâu sắc trực tiếp nhất bởi việc học có AI hỗ trợ được thiết kế tốt. Dưới đây, bằng chứng được nhóm thành bốn chủ đề bám vào các bài viết được liên kết.
 
@@ -52,8 +56,22 @@ Các năng lực bền vững dịch chuyển khi việc triển khai được t
 - **CT xuyên K-12, đào tạo giáo viên và thiết kế lại đánh giá.** CT trải khắp phổ từ [[k-12]] đến [[higher-ed|giáo dục đại học]] và đang định hình lại đánh giá. Ở đầu mầm non, AI-Play mở rộng CT và năng lực AI tới người học Pre-K–K2 và các gia đình phi kỹ thuật; ở đầu đại học, [[genai-oop-programming-assessments-2026|nghiên cứu đánh giá OOP]] phát hiện các hệ thống GenAI năm 2026 vượt trội sinh viên trung bình trong các bài thi lập trình thực chất nhưng vẫn thất bại ở giao diện, lớp trừu tượng và kế thừa — những khoảng trống khái niệm tái diễn đánh dấu chính xác nơi CT vẫn khó tự động hóa. [[solving-vs-evaluating-genai-solutions|Một nghiên cứu chéo A/B ngẫu nhiên]] cho thấy các nhiệm vụ đánh giá-và-phê phán tạo ra kết quả tương đương với việc tạo ra, gợi ý rằng CT có thể được rèn luyện qua việc phán xét các giải pháp AI còn khiếm khuyết, dù thu hoạch đòi hỏi giàn giáo có chủ đích. Nền tảng cho tất cả điều này là giáo viên: nghiên cứu microbit liên kết giảng dạy CT trực tiếp với [[teacher-education|đào tạo giáo viên]], và [[hashmi-socratic-physics-chatbot-2025|nghiên cứu chatbot Socratic]] gắn việc hình thành vấn đề chính xác mà CT đòi hỏi với hiệu năng khóa học đo được.
 
 - **Một công cụ đã kiểm chứng xác định nơi CT khó nhất.** Một bài kiểm tra tư duy tính toán 34 mục được xây bằng Thiết kế Lấy Bằng chứng Làm Trung tâm và kiểm chứng bằng lý thuyết ứng đáp câu hỏi trên 461 sinh viên lập trình AI tập trung độ khó vào biểu diễn dữ liệu, trình tự toán tử logic và cấu trúc vòng lặp thay vì rải đều khắp đề cương ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
+- Lựa chọn phương tiện đo thay đổi kết luận: các kết quả tư duy tính toán và tư duy phản biện đạt kết luận khác biệt hoặc hỗn hợp ở 13 trong 23 cặp cùng cấu trúc, nên một khảo sát CT tự báo cáo và một phép đo theo nhiệm vụ thường lệch nhau ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan và cộng sự (2026)]]).
+- Tư duy tính toán cũng được đo như một khuynh hướng: trong một nghiên cứu trò chơi ba tuần ở lớp năm, khuynh hướng CT tự báo cáo hiệu chỉnh nghiêng về lớp có GenAI, 4,325 so với 4,037 (p = 0,046; eta bình phương riêng phần = 0,052; n = 78). Một bài kiểm tra kiến thức thuật toán không phân tách được hai lớp (80,7 so với 74,9), nên phép đo khuynh hướng và phép đo kiến thức đã theo dõi những cấu trúc khái niệm khác nhau ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou và cộng sự, 2026]]).
 
-### Tư duy tính toán và sự chuyển dịch từ người tiêu thụ sang người sản xuất, sáng tạo và thiết kế AI
+Các hồ sơ tiểu kỹ năng làm phức tạp con điểm CT duy nhất mà một thiết kế tiền-hậu báo cáo. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij và Khlaisang (2026)]] đưa 28 sinh viên đại học Thái Lan ngoài ngành máy tính qua tám tuần mỗi buổi ba tiếng ghép một chu trình [[design-thinking|thiết kế tư duy]] năm bước với việc làm ứng dụng low-code, chấm công trình theo một [[rubrics|thang đánh giá]] ba điểm. Điểm tư duy tính toán trung bình tăng từ 1,13 ở buổi đầu lên 1,80 rồi 2,49, với tư duy thuật toán là mảnh mạnh nhất ở 2,08 và quỹ đạo 1,46 → 1,93 → 2,86. Tư duy logic đạt trung bình 1,54 và gần như không chuyển giữa hai buổi đầu, 1,04 → 1,29, trước khi đạt 2,29 ở buổi thứ ba — một lời nhắc rằng lợi ích ở một thành phần không ngầm có các thành phần khác đi theo.
+
+## Tư duy hệ thống như một thực hành CT
+
+Tư duy hệ thống là một trong bốn miền của phân loại tư duy tính toán cho toán và khoa học do Weintrop và cộng sự phát triển, cùng với Thực hành Dữ liệu, Thực hành Giải quyết Vấn đề Tính toán, và Thực hành Mô hình hoá và Mô phỏng. Định nghĩa của nó rất rõ ràng: **khả năng xác định ranh giới hệ thống và tổng hợp các tương tác ở cấp vi mô thành hành vi ở cấp vĩ mô**. Đó là một năng lực nhận thức ở cấp người học — một cách suy nghĩ về một hệ thống — và nó khác với lập thái ở cấp môi trường khi coi một môi trường học tập như một hệ thống ([[learning-environments-as-systems|Môi trường học tập như hệ thống]]).
+
+Nó cũng là miền mà việc đánh giá vỡ nợ đầu tiên. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch và Rebello (2026)]] mã hoá 936 lời giải thích bằng chữ của sinh viên trong một khóa vật lý tính toán nhập môn theo phân loại đó, hiệu chuẩn một đường cơ sở của con người trên 10 sinh viên (60 phản hồi, Fleiss' κ = 0,53) rồi mã hoá 50 sinh viên (300 phản hồi) bằng biểu quyết đa số. Sinh viên phát triển nhiều nhất ở Thực hành Dữ liệu (p < 0,001, d = 1,03), với lợi ích vừa phải ở Giải quyết Vấn đề Tính toán (d = 0,52) và Tư duy Hệ thống (d = 0,45). Nhưng Tư duy Hệ thống là cấu trúc khái niệm kém đáng tin nhất đối với *cả* con người lẫn mô hình: thỏa thuận của con người κ = 0,51 và LLM κ = 0,48, so với κ = 0,90 cho Thực hành Dữ liệu và κ = 0,78 cho Mô hình hoá và Mô phỏng. Cách đọc của các tác giả là khó khăn bắt nguồn từ độ phức tạp của cấu trúc khái niệm chứ không phải từ sự thiếu hụt của mô hình — một cấu trúc đa thành phần đòi hỏi học sinh xác định các thành phần *và* giải thích cách chúng tương tác và hệ quả thì khó mã hoá hơn một cấu trúc được định nghĩa rõ ràng. Mô hình hoá và Mô phỏng được báo cáo d = 0,00 vì một lý do không liên quan: trung bình trước đào tạo đã là 1,62 trên 2, nên mục đó đo kiến thức nền chứ không đo sự phát triển.
+
+Hàm ý thực tiễn là một vấn đề thiết kế thang đánh giá, không phải vấn đề mô hình. Khuyến nghị của họ là viết lại thang đánh giá để việc xác định các thành phần hệ thống được chấm tách rời với việc giải thích cách các thành phần đó tương tác, và đọc mức thỏa thuận tự động thấp ở một cấu trúc tích hợp như một tín hiệu phải sửa công cụ đo chứ không phải bỏ tự động hoá. Đó là cùng một nước đi mà nghiên cứu về [[rubrics|thang đánh giá]] đạt được từ phía chấm điểm: công cụ đo, không phải mô hình, mới là thứ hiệu chuẩn.
+
+Cấu trúc khái niệm vượt ra ngoài vật lý. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz và Castro Samayoa (2026)]] gọi tư duy hệ thống là một trong những năng lực mà Aoun gọi là *chống chịu robot* — tư duy phản biện, tư duy hệ thống và sự nhanh nhẹn văn hoá — những năng lực mà thực hành xây dựng được còn ủy thác thì không. [[huang-ai-literacy-vocational-problem-solving-2026|Huang và cộng sự (2026)]] phân định cấu trúc "tư duy hệ thống" của riêng họ với nó, coi cấu trúc của họ là phép đo hẹp bốn chiều (cấu trúc hoá, lập luận, ưu tiên, tích hợp) và tường minh từ chối gọi nó là tư duy hệ thống theo nghĩa rộng. Và [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea và Valencia-Silva (2026)]] cảnh báo rằng sự tham gia không phải tư duy hệ thống — một phân biệt quan trọng khi một thang đánh giá được dùng để chứng nhận một năng lực mà nó không được viết để đo.
+
+## Tư duy tính toán và sự chuyển dịch từ người tiêu thụ sang người sản xuất, sáng tạo và thiết kế AI
 
 Một mục tiêu trung tâm của CT trong kỷ nguyên AI là đưa học sinh và giảng viên vượt khỏi *sự tiêu thụ thụ động* đầu ra của AI để hướng tới *tạo ra, xây dựng và thiết kế* cùng với và cho AI — một chương trình nghị sự gắn CT với học tập kiến tạo (học qua làm ra). Các bài viết được liên kết của cơ sở kiến thức ngày càng làm rõ bước chuyển người sản xuất/người sáng tạo/người thiết kế này. [[ai-writes-code-student-writes-model-2026|Nghiên cứu về quyền tác giả mô hình]] định khung lại việc học qua kiến tạo với GenAI như một quá trình "quyền tác giả mô hình" đo được — sinh viên viết, gỡ lỗi và lặp trên các mô hình AI thay vì chỉ tiêu thụ mã hoặc câu trả lời do AI tạo. [[code-to-learn-genai-artifact-construction-2026|Khuôn khổ CtL-GenAI]] vận hành hóa điều này như [[constructivist|chủ nghĩa kiến tạo]] cho thời đại GenAI, coi các hiện vật học sinh xây với AI là động cơ của phát triển CT. [[computational-thinking-ai-agent-creation|CT qua việc tạo tác tử AI]] cho thấy việc thiết kế, chứ không chỉ sử dụng, các tác tử AI rèn luyện trực tiếp phân rã, trừu tượng hóa và lập luận thuật toán.
 
@@ -63,11 +81,11 @@ Hệ quả thực tiễn là việc giảng dạy CT nên được thiết kế 
 
 Tái sử dụng mô hình của người khác thuộc về lập trường người sản xuất: triển khai một mô hình AI đã công bố — chọn, cài đặt, chạy và kiểm chứng nó — có thể được dạy như một kỹ năng có cấu trúc, học được, với một lộ trình dự phòng cho mỗi thất bại dự kiến trước, và ba sinh viên cử nhân [[chemistry-education|hóa học]] không có nền tảng lập trình đã tái tạo và mở rộng một mô hình dự đoán enzyme-cơ chất trong vòng bốn tháng ([[praise-non-programmer-ai-model-implementation-2026|Achterweust và cộng sự (2026)]]).
 
-### Hướng dẫn thực tiễn
+## Hướng dẫn thực tiễn
 
 Với nhà giáo dục, thông điệp nhất quán là CT được phát triển qua sự tham gia *tường minh, có giàn giáo, quan sát được* thay vì dùng AI thụ động. Ghép robot học với việc ánh xạ khái niệm CT tường minh vào chương trình; dùng LLM cho [[simulation|mô phỏng]], điều khiển bằng ngôn ngữ tự nhiên và đánh giá có thể mở rộng sự phát triển CT trong khi giữ phán đoán của con người cho các cấu trúc như Tư duy Hệ thống; và thiết kế lại đánh giá để nhấn mạnh việc đánh giá và chẩn đoán đầu ra của AI hơn là việc tạo ra thô. Dù bối cảnh là gì — chơi không cần máy tính ở mầm non, robot ở [[stem-education|giáo dục STEM]] trung học, hay Gia sư Ảo ở [[higher-ed|giáo dục đại học]] — hãy cấu trúc hoạt động để học sinh phải lập luận về phân rã, mẫu, trừu tượng hóa và thuật toán thay vì nhận các giải pháp đã hoàn thành.
 
-### Kết nối với các khái niệm liên quan
+## Kết nối với các khái niệm liên quan
 
 Tư duy tính toán là nền tảng nhận thức chung bên dưới [[ai-literacy|năng lực AI]] và [[critical-thinking|tư duy phản biện]], là lõi chương trình của [[cs-education|giáo dục khoa học máy tính]] và tin học [[k-12]], và là mục tiêu khái niệm mà [[educational-robotics]], [[game-based-learning]] và [[project-based-learning]] được thiết kế tốt nhất để phục vụ. Nó được làm sâu bởi [[llm|các mô hình ngôn ngữ lớn]] và [[generative-ai|AI sinh tạo]] khi những thứ đó được dùng như công cụ giàn giáo, và nó là kỹ năng mà các phân loại quan niệm sai lầm của học sinh và các đánh giá nhận thức CT nhằm đo lường. Giáo viên phát triển nó qua [[teacher-education|đào tạo giáo viên]] và [[professional-training|đào tạo nghề nghiệp]], và nó chuyển giao xuyên các lĩnh vực bao gồm [[physics-education|giáo dục vật lý]] và [[stem-education|STEM]] nói rộng.
 

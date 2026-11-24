@@ -8,15 +8,19 @@ technology: [generative-ai]
 audience: [learners]
 level: [higher ed]
 confidence: low
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/design-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, generative-ai, agentic-ai, higher-ed, student-experience, scaffolding, feedback, socratic-method, creativity, agency, human-ai-collaboration, teacher-role, ai-literacy, equity-in-ai-education, educational-development, human-in-the-loop-ai, ai-ed-evaluation, k-12, professional-training, academic-integrity, open-source, arts-and-media-education]
 connected_articles: [design-thinking-aigc-fashion-film-2026, genai-architecture-education, genai-architectural-design-studios, social-robot-study-companions, gaide-vibe-coding-k12-teachers, dot-framework-survey-2026, ai-agents-constructive-conflict-design-education-2026, genai-usage-design-students-survey]

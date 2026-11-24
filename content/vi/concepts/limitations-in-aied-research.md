@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T07:52:57-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Bạn sẽ tin đến mức nào một tiêu đề như 'AI tutoring nâng cao việc học lên 30%' nếu biết nó đến từ 30 sinh viên trong một khóa học ở một cơ sở? Trang này gắn cờ khả năng khái quát hóa và mẫu nhỏ là những hạn chế lặp lại — bạn muốn biết điều gì trước khi hành động theo bất kỳ phát hiện đơn lẻ nào?
 - Một hạn chế nổi bật là 'vấn đề tốc độ': AI tiến hóa nhanh hơn tốc độ công bố các phát hiện, nên một nghiên cứu về một thế hệ mô hình có thể đã mô tả một hệ thống lỗi thời. Điều này nên thay đổi mức tin cậy bạn đặt vào nghiên cứu giáo dục AI như thế nào?
 - Nhiều nghiên cứu dựa vào thái độ và mức sử dụng [[self-report-measures|tự báo cáo]], vốn bị thiên lệch — người ta đánh giá quá cao năng lực của mình và báo cáo thiếu về việc lạm dụng. Bạn đã bao giờ trả lời một khảo sát về kỹ năng hay hành vi của mình theo cách không khớp với thực tế chưa? Vì sao các thước đo dựa trên cảm nhận lại thường xuyên lệch khỏi hiệu năng khách quan?
-- Trang này lưu ý rằng những khuôn khổ quen thuộc như thang phân loại Bloom thường bị đọc sai như những nấc thang nghiêm ngặt, và ngay cả những lý thuyết được dùng rộng rãi như lý thuyết [[cognitive-offloading|tải nhận thức]] cũng đã bị thách thức. Khi nào bạn thấy một lý thuyết được viện dẫn như chân lý đã ngã ngũ trong một bối cảnh mà chính bằng chứng của nó đang bị tranh cãi?
+- Trang này lưu ý rằng những khuôn khổ quen thuộc như [[bloom-taxonomy|thang phân loại Bloom]] thường bị đọc sai như những nấc thang nghiêm ngặt, và ngay cả những lý thuyết được dùng rộng rãi như lý thuyết [[cognitive-offloading|tải nhận thức]] cũng đã bị thách thức. Khi nào bạn thấy một lý thuyết được viện dẫn như chân lý đã ngã ngũ trong một bối cảnh mà chính bằng chứng của nó đang bị tranh cãi?
 - Hầu hết nghiên cứu AI phụ thuộc vào những mô hình độc quyền, mờ đục mà bạn không thể kiểm tra dữ liệu và các bản cập nhật. Nếu bạn không thể xác minh chính xác mô hình nào đã tạo ra một kết quả, bạn có thể tin các tuyên bố dựa trên nó đến đâu — và điều gì sẽ làm cho các phát hiện dễ tái lập hơn?
 - Nếu bạn là một giảng viên hay nhà thiết kế không có thời gian đọc nghiên cứu sơ cấp, bạn quyết định những tuyên bố AI nào đủ đáng tin để thay đổi thực hành của mình như thế nào — khi biết rằng tài liệu bị phân mảnh, tạm thời, và được viết cho các nhà nghiên cứu?
 
 ## Giới thiệu
 
-AI trong giáo dục là một lĩnh vực chuyển động nhanh và không đồng nhất, và cơ sở bằng chứng của nó mang một bộ hạn chế đặc thù mà các nhà nghiên cứu, người thực hành và nhà hoạch định chính sách nên cân nhắc khi dùng bất kỳ phát hiện nào. Một số hạn chế này được chia sẻ với tài liệu rộng hơn về [[learning-sciences|khoa học học tập]] và tâm lý học; những hạn chế khác bị khuếch đại hoặc trở nên độc nhất bởi chính bản chất của AI. Trang này tổ chức chúng thành bốn khu vực cắt ngang.
+AI trong giáo dục là một lĩnh vực chuyển động nhanh và không đồng nhất, và cơ sở bằng chứng của nó mang một bộ hạn chế đặc thù mà các nhà nghiên cứu, người thực hành và nhà hoạch định chính sách nên cân nhắc khi dùng bất kỳ phát hiện nào. Một số hạn chế này được chia sẻ với tài liệu rộng hơn về [[learning-sciences|khoa học học tập]] và tâm lý học; những hạn chế khác bị khuếch đại hoặc trở nên độc nhất bởi chính bản chất của AI. Trang này tổ chức chúng thành bốn khu vực cắt ngang. Đây là những vấn đề của bằng chứng; một thân bài lập luận riêng về những mục đích mà bằng chứng phục vụ được gom trong [[critiques-of-ai-in-education|Phê phán về AI trong giáo dục]].
 
 ## Những hạn chế phương pháp
 
@@ -65,6 +69,9 @@ Trang [[research-methods-aied|phương pháp nghiên cứu]] của cơ sở ki�
 
 - **Nhãn do mô hình tạo ra không phải là chân lý nền.** Khi các nhãn dùng để huấn luyện hay đánh giá một hệ thống lại do chính các mô hình ngôn ngữ tạo ra, sự đồng thuận giữa những người gán nhãn không thể thiết lập tính hợp lệ: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado và cộng sự (2026)]] không bao giờ xác thực các chú thích khẳng định của mình so với nhãn vàng của con người, và 49 bộ phân loại encoder mà họ phát hành thừa hưởng nguồn gốc đó và có thể không hợp lệ ở những nơi ứng dụng khác nhau ở các chiều quan trọng. Lược đồ của họ cũng kém rõ rệt so với bộ phân loại được tinh chỉnh huấn luyện trên dữ liệu do chuyên gia gán nhãn (macro-F1 0.673 so với 0.76), khiến các bộ ngữ liệu được chuyên gia gán nhãn vẫn đáng giá khi cần độ tin cậy cao.
 - **Bản thân cơ sở bằng chứng phân bố không đồng đều.** Một tổng quan phạm vi về 407 nghiên cứu [[formative-assessment|đánh giá định hình]] có công nghệ hỗ trợ chỉ dựa vào Web of Science và Scopus. Nó cũng loại trừ 61 bản ghi theo tiêu chí ngôn ngữ, nên sự mất cân đối địa lý mà lĩnh vực báo cáo có thể phần nào phản ánh những nơi nào được lập chỉ mục ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Thiết kế ba điều kiện vắng mặt.** Trong số mười hai nghiên cứu GenAI được tổng quan, không nghiên cứu nào đo hiệu năng có hỗ trợ song song với cả một bài kiểm tra không dùng AI ngay sau đó và một bài kiểm tra trễ hơn với việc loại trừ đã được xác minh, nên những lợi ích có hỗ trợ không bao giờ được gắn với sự giữ gìn kiến thức ([[wei-assisted-performance-unaided-retention-2026|Wei, 2026]]).
+
+**Khả thi là một lớp kết quả, không phải lời mở đầu.** Một thí điểm hai nhóm với bệnh nhân do AI mô phỏng tuyển 19 trong 72 sinh viên được mời (26%), hoàn thành mọi cuộc gặp và khảo sát (100%), và không kết thúc ca nào vì lỗi kỹ thuật — kết quả thật, nhưng các kết quả về khả thi và chấp nhận được được định nghĩa sau khi thu thập và không có tiêu chí tiến triển nào được xác lập trước ([[tischkau-ai-simulated-patient-formats-2026|Tischkau và cộng sự, 2026]]). Tỷ lệ hoàn thành chỉ có thông tin khi đối chiếu với các tiêu chí được cố định trước; nếu không, "nó đã chạy" và "nó đã hiệu quả" là cùng một câu.
 
 ## Vấn đề tốc độ: AI tiến hóa nhanh hơn các phát hiện
 
@@ -121,6 +128,8 @@ Hai thực hành báo cáo cụ thể làm thổi phồng hoặc bóp méo một
 **Tỷ lệ phần trăm trên tiêu đề có thể là một hiện tượng nhân tạo của các thuật ngữ tìm kiếm.** Một tổng quan phạm vi 195 nghiên cứu đào tạo giáo viên biến năng lực số và [[tpack|TPACK]] thành các mô tả tìm kiếm tường minh, trong khi thiết kế giảng dạy và đánh giá không có thuật ngữ tương đương, nên các con số **46.5% và 1.9%** được báo cáo là những tỷ lệ do chính truy vấn tạo ra. Một tuyên bố về mức phổ biến chỉ có ý nghĩa ngang với cuộc tìm kiếm phía sau nó.
 
 **Và tỷ lệ nền là con số không ai nêu.** Các hạn chế phương pháp ở đây có thể đo được chứ không chỉ mang tính cảm nhận: trong một tổng quan phản biện 80 nghiên cứu HCI về tư duy phản biện với AI, **42 nghiên cứu (52%) không có nhóm đối chứng** và phần lớn số còn lại dựa vào tự báo cáo. Khi hơn một nửa các phát hiện tích cực của một lĩnh vực đến từ những thiết kế không thể tách hiệu ứng của AI khỏi hoạt động thông thường, tiên nghiệm phù hợp cho bất kỳ phát hiện đơn lẻ nào là hoài nghi, không phải chấp nhận tạm thời.
+
+Hệ quả thực tiễn của những hạn chế này là một số thực hành giáo dục được dùng rộng rãi lại dựa vào bằng chứng không thể chống đỡ chúng; [[what-not-to-do-ai-education|những điều giáo viên nên tránh làm với AI]] thu thập các thực hành đó theo vai trò, và nêu tên hạn chế cụ thể đằng sau từng cảnh báo.
 
 ## Những hiểu lầm phổ biến
 

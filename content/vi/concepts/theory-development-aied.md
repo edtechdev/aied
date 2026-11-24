@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:51-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -73,6 +77,8 @@ Những công trình khác mở rộng lý thuyết sẵn có vào bối cảnh 
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin và Chang (2026)]] mở rộng [[self-regulated-learning|học tập tự điều chỉnh]] và sự điều tiết người–AI bằng cách gọi tên điều người học quản trị — các tiêu chuẩn, [[evaluative-judgment|phán đoán đánh giá]], và việc cấp quyền kiểm soát — thay vì chỉ điều AI làm.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai và Flenady (2026)]] nhập khẩu lý tưởng về sự công nhận của Honneth và Brandom vào lý thuyết phản hồi, lập luận rằng việc cùng công nhận đối xứng địa vị của nhau, chứ không phải chất lượng thông tin, mới là điều biến một lời bình luận thành lý do để hành động.
+
 Nghịch lý ma sát mang lại một phần mở rộng khác của lý thuyết đã được thiết lập: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] áp dụng [[desirable-difficulties|khó khăn hữu ích]] của Bjork và Bjork cùng [[productive-failure|thất bại có ích]] của Kapur vào các cuộc gặp gỡ quan hệ trong giáo dục du học, lập luận rằng điều quan trọng là người học [[transfer-of-learning|chuyển di]] bao nhiêu quyền chủ động diễn giải cho một trợ lý tạo sinh, chứ không phải họ dùng nó thường xuyên đến đâu. Khuôn khổ này mang tính khái niệm và nêu năm mệnh đề như những giả thuyết cạnh tranh.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] thúc đẩy phân loại chức năng của lĩnh vực do Zawacki-Richter và cộng sự (2019) đề xuất: trong số 154 ấn phẩm có chức năng ứng dụng phân loại được, 90 ấn phẩm (58.4%) thoát ra khỏi bốn phạm trù của nó, và khuôn khổ của họ giao chức năng với quyền kiểm soát được ủy thác, vị thế tri thức luận và sư phạm nhúng.
@@ -92,14 +98,7 @@ Việc lý thuyết hóa của lĩnh vực không đồng đều. [[limitations-
 ## Quan hệ với triết học AI trong giáo dục
 
 Phát triển lý thuyết và [[philosophy-of-ai-in-education|triết học AI trong giáo dục]] là những nhánh bổ trợ nhưng khác biệt của công việc nền tảng trong cơ sở kiến thức này. **Phát triển lý thuyết** sản xuất và kiểm chứng thực nghiệm các *cơ chế* của việc học cùng AI — những lý thuyết và khuôn khổ được gọi tên như thuyết tạo sinh, đồng quyền chủ động tri thức luận, và đường cơ sở nhận thức vắng mặt, giải thích và dự báo cách người học và AI tương tác. **Triết học** tra vấn những *tiền giả định* mà các cơ chế đó dựa vào: điều gì được tính là tri thức, ai được tính là người biết, và người học về cơ bản là gì. Một lý thuyết như [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|đồng quyền chủ động tri thức luận]] đề xuất một cơ chế trong khi ngầm tiếp nhận những cam kết triết học về nhận thức phân tán và [[agency|quyền chủ động]]; triết học làm cho những cam kết đó trở nên tường minh và có thể tranh biện. Nếu phát triển lý thuyết hỏi liệu một khuôn khổ có giải thích việc học tốt không, triết học hỏi liệu nó có nắm bắt được việc học và tâm trí thực sự là gì — hai nhánh gặp nhau trong những bài viết nền tảng nhất của lĩnh vực, vốn thường làm cả hai cùng lúc.
-
-## Những hiểu lầm phổ biến
-
-**"Một phát hiện rằng công cụ có hiệu quả là một đóng góp lý thuyết."** Không phải vậy, và lý do là cấu trúc. Khi các mệnh đề của một khuôn khổ dự báo *sự khác biệt giữa các cấu hình*, một nghiên cứu chỉ báo cáo một hiệu ứng trung bình **không thể xác nhận hay bác bỏ chúng** — thiết kế không nhìn thấy được phân biệt mà lý thuyết nói tới. Một thử nghiệm cho thấy mức tăng trung bình chỉ nói rằng có điều gì đó đã xảy ra, chứ không nói cơ chế nào gây ra nó, nên lý thuyết vẫn được nâng đỡ đúng bằng mức trước đó.
-
-**"Áp dụng một lý thuyết đã được thiết lập vào AI là phát triển lý thuyết."** Chính vấn đề sử dụng lý thuyết trên trang này nói điều ngược lại: áp dụng không phải thúc đẩy, và kiểu mẫu tái diễn của lĩnh vực là những cấu trúc vay mượn được dùng như từ vựng thay vì như những dự báo có thể kiểm chứng. Sự phân biệt này quan trọng vì một khung vay mượn không tạo ra được khác biệt có thể bác bỏ chỉ là đồ trang trí, không phải lý thuyết.
-
-**"Các phân loại hiện có về chức năng sư phạm của AI đã bao phủ những gì các hệ thống này làm."** Chúng không bao phủ phần lớn những gì các hệ thống này làm. Trong số 154 ấn phẩm có chức năng ứng dụng phân loại được, **90 ấn phẩm (58.4%) thoát ra khỏi bốn phạm trù** của khuôn khổ trước đó, đó là lý do công trình mới hơn giao chức năng với quyền kiểm soát được ủy thác, vị thế tri thức luận và sư phạm nhúng. Một phân loại phân loại sai gần ba trong năm trường hợp không thể làm từ vựng chung cho lĩnh vực, và khoảng trống này là một phát hiện về hiện tượng chứ không phải một lỗ hổng trong một bài báo.
+Những gì các nhà phê phán của lĩnh vực nói về các hướng mà những lý thuyết đó mở ra hay lại khép lại là một câu hỏi riêng, được gom dưới trang [[critiques-of-ai-in-education|Phê phán AI trong giáo dục]].
 
 ## Hàm ý cho thực tiễn
 
@@ -118,3 +117,11 @@ Phát triển lý thuyết và [[philosophy-of-ai-in-education|triết học AI 
 
 - Hãy thiết kế để có các tương phản cấu hình nếu bạn định đóng góp về lý thuyết. Một thử nghiệm hiệu ứng trung bình được công bố như phát triển lý thuyết là sản phẩm phổ biến nhất và ít hữu ích nhất của lĩnh vực.
 - Hãy gắn những mệnh đề có thể bác bỏ một cách tường minh vào bất kỳ khuôn khổ nào bạn giới thiệu, và báo cáo những khác biệt cấu hình nào sẽ bác bỏ chúng.
+
+## Những hiểu lầm phổ biến
+
+**"Một phát hiện rằng công cụ có hiệu quả là một đóng góp lý thuyết."** Không phải vậy, và lý do là cấu trúc. Khi các mệnh đề của một khuôn khổ dự báo *sự khác biệt giữa các cấu hình*, một nghiên cứu chỉ báo cáo một hiệu ứng trung bình **không thể xác nhận hay bác bỏ chúng** — thiết kế không nhìn thấy được phân biệt mà lý thuyết nói tới. Một thử nghiệm cho thấy mức tăng trung bình chỉ nói rằng có điều gì đó đã xảy ra, chứ không nói cơ chế nào gây ra nó, nên lý thuyết vẫn được nâng đỡ đúng bằng mức trước đó.
+
+**"Áp dụng một lý thuyết đã được thiết lập vào AI là phát triển lý thuyết."** Chính vấn đề sử dụng lý thuyết trên trang này nói điều ngược lại: áp dụng không phải thúc đẩy, và kiểu mẫu tái diễn của lĩnh vực là những cấu trúc vay mượn được dùng như từ vựng thay vì như những dự báo có thể kiểm chứng. Sự phân biệt này quan trọng vì một khung vay mượn không tạo ra được khác biệt có thể bác bỏ chỉ là đồ trang trí, không phải lý thuyết.
+
+**"Các phân loại hiện có về chức năng sư phạm của AI đã bao phủ những gì các hệ thống này làm."** Chúng không bao phủ phần lớn những gì các hệ thống này làm. Trong số 154 ấn phẩm có chức năng ứng dụng phân loại được, **90 ấn phẩm (58.4%) thoát ra khỏi bốn phạm trù** của khuôn khổ trước đó, đó là lý do công trình mới hơn giao chức năng với quyền kiểm soát được ủy thác, vị thế tri thức luận và sư phạm nhúng. Một phân loại phân loại sai gần ba trong năm trường hợp không thể làm từ vựng chung cho lĩnh vực, và khoảng trống này là một phát hiện về hiện tượng chứ không phải một lỗ hổng trong một bài báo.

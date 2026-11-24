@@ -1,7 +1,7 @@
 ---
 title: "Những lời phê phán về AI trong giáo dục"
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Một cụm thứ hai tấn công vào từ vựng chứ không phải vào cỗ
 
 ## Hạ tầng, chuyển dẫn và sự không được thừa nhận
 
-Một cụm thứ ba chuyển sự chú ý từ công cụ sang hạ tầng xung quanh nó. Watson, Morgner và Brezovec coi AI tạo sinh là hạ tầng trung gian ý nghĩa và đặt tên cơ chế của nó là *chuyển dẫn ngữ nghĩa*: việc định lại định dạng một yêu cầu giáo dục — một prompt, một bản hướng dẫn, một rubric, một câu hỏi thi, một thể loại hay một chính sách — thành một hình thức đáng tin về mặt giao tiếp ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner và Brezovec, 2026]]). Bởi vì chuyển dẫn là có chọn lọc, nó có thể đưa vào hoặc loại trừ. Ba vị trí lặp lại: khoảng cách tiếp cận và năng lực, sự không được thừa nhận qua các khuôn mẫu về một câu trả lời hay hay một học sinh hay nên nghe thế nào, và sự trôi dịch chuẩn mực trong ý nghĩa được gán cho sư phạm. Sự loại trừ thường là một cuộc tấn công hai mặt chứ không phải một lệnh cấm — các tổ chức nâng cao kỳ vọng về nhịp độ, độ trau chuốt và độ trôi chảy đúng văn phong, đồng thời thắt chặt các chế định về tính chân thực.
+Một cụm thứ ba chuyển sự chú ý từ công cụ sang hạ tầng xung quanh nó. Watson, Morgner và Brezovec coi AI tạo sinh là hạ tầng trung gian ý nghĩa và đặt tên cơ chế của nó là *chuyển dẫn ngữ nghĩa*: việc định lại định dạng một yêu cầu giáo dục — một prompt, một bản hướng dẫn, một [[rubrics|rubric]], một câu hỏi thi, một thể loại hay một chính sách — thành một hình thức đáng tin về mặt giao tiếp ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner và Brezovec, 2026]]). Bởi vì chuyển dẫn là có chọn lọc, nó có thể đưa vào hoặc loại trừ. Ba vị trí lặp lại: khoảng cách tiếp cận và năng lực, sự không được thừa nhận qua các khuôn mẫu về một câu trả lời hay hay một học sinh hay nên nghe thế nào, và sự trôi dịch chuẩn mực trong ý nghĩa được gán cho sư phạm. Sự loại trừ thường là một cuộc tấn công hai mặt chứ không phải một lệnh cấm — các tổ chức nâng cao kỳ vọng về nhịp độ, độ trau chuốt và độ trôi chảy đúng văn phong, đồng thời thắt chặt các chế định về tính chân thực.
 
 ## Việc đặt chương trình, đổi mới mô phỏng và việc dựng tương lai thực nghiệm
 

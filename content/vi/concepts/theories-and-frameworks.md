@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:52:57-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Những lý thuyết này giải thích cơ chế: chúng gọi tên các bộ p
 ## Các khuôn khổ giảng dạy, tích hợp và chấp nhận
 
 - **[[tpack|TPACK]]** — kiến thức giáo viên hòa trộn công nghệ, sư phạm và nội dung; khuôn khổ mặc định cho các nghiên cứu AI hướng đến giáo viên.
+- **[[bloom-taxonomy|Phân loại của Bloom]]** — từ vựng dùng chung cho yêu cầu nhận thức của nhiệm vụ, dùng để mã hóa mục và sắp xếp chúng; trong AI trong giáo dục nó đã trở thành vấn đề đo lường không kém gì vấn đề thiết kế.
 - **[[technology-acceptance-model|Các mô hình chấp nhận]]** — ý định như một hàm của nhận thức hữu ích và tính dễ dùng. Được dùng rộng đến mức việc lĩnh vực dựa vào ý định thay vì hành vi đã trở thành một phê phán thường trực.
+- **Mô hình xác nhận kỳ vọng (ECM)** — sự hài lòng là xác nhận của các kỳ vọng trước đó, với việc tiếp tục sử dụng thay vì việc chấp nhận ban đầu là kết quả. Trong một đợt thí điểm phương pháp luận xã hội học một học kỳ với 24 sinh viên đại học, 87% đánh giá Copilot tốt hoặc rất tốt và 91% sẽ giới thiệu nó, nhưng chỉ 57% dự định tiếp tục dùng ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Khoảng cách đó chính là điểm của mô hình: một người dùng hài lòng vẫn có thể từ chối quay lại, nên sự hài lòng và việc tiếp tục cần được đo riêng.
 - **[[icap-framework|ICAP]]** — xếp hạng sự tham gia thành thụ động, chủ động, kiến tạo, tương tác; hữu ích để hỏi một [[student-ai-interaction|tương tác với AI]] thực sự cho phép chế độ nào.
 - **[[samr-model|SAMR]]** — từ thay thế đến tái định nghĩa. Phổ biến như một câu chuyện về độ chín, yếu như một công cụ đo lường.
 - **[[universal-design-for-learning|Thiết kế phổ quát cho học tập]]**, **[[inclusive-learning|học tập bao trùm]]** và **[[accessibility|khả năng tiếp cận]]** — các khung thiết kế về việc ai được phục vụ, và là những khung thường được viện dẫn nhất trong công việc về khuyết tật và [[equity-in-ai-education|công bằng]].
@@ -104,7 +110,7 @@ Các từ này được dùng lỏng lẻo trong tài liệu, và sự khác bi�
 
 ## Các tầng liên quan
 
-Hai trang lân cận được cố ý dành cho một vấn đề khác. [[philosophy-of-ai-in-education|Triết học AI trong giáo dục]] đặt những câu hỏi quy phạm và khái niệm — giáo dục *để làm gì*, liệu một cỗ máy có thể dạy được hay không — và không dự báo độ lớn hiệu ứng; một nghiên cứu có thể ngây thơ về triết học mà vững về lý thuyết, hoặc ngược lại. [[theory-development-aied|Phát triển lý thuyết]] là hoạt động siêu cấp của việc xây dựng, vay mượn và sửa đổi lý thuyết, gồm cả phê phán thường trực rằng phần lớn công trình [[ai-education|AIED]] áp dụng lý thuyết sẵn có thay vì kiểm chứng nó. Trang này là danh mục; phát triển lý thuyết là việc sản xuất và sửa đổi danh mục.
+Hai trang lân cận được cố ý dành cho một vấn đề khác. [[philosophy-of-ai-in-education|Triết học AI trong giáo dục]] đặt những câu hỏi quy phạm và khái niệm — giáo dục *để làm gì*, liệu một cỗ máy có thể dạy được hay không — và không dự báo độ lớn hiệu ứng; một nghiên cứu có thể ngây thơ về triết học mà vững về lý thuyết, hoặc ngược lại. [[theory-development-aied|Phát triển lý thuyết]] là hoạt động siêu cấp của việc xây dựng, vay mượn và sửa đổi lý thuyết, gồm cả phê phán thường trực rằng phần lớn công trình [[ai-education|AIED]] áp dụng lý thuyết sẵn có thay vì kiểm chứng nó. Trang này là danh mục; phát triển lý thuyết là việc sản xuất và sửa đổi danh mục. [[learning-environments-as-systems|Môi trường học tập như hệ thống]] là hàng xóm thứ ba. Nó không phải một lý thuyết học tập và không dự báo độ lớn hiệu ứng, mà là một lập trường về đơn vị phân tích: một môi trường học tập là một hệ thống đa cấp có các bộ phận tương tác, nên cấp độ mà một nghiên cứu đo là một quyết định lý thuyết, không phải một tiện lợi lấy mẫu.
 
 ## Chọn một lăng kính khi câu hỏi mang tính thực tiễn
 

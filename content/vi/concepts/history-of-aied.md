@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ Sự xuất hiện của [[generative-ai|AI sinh tạo]] — một họ rộng b
 - **Cân nhắc kiểm soát so với quyền chủ động một cách có chủ đích.** Việc AI nên tối ưu hóa hướng tới các kết quả chuẩn hay tạo điều kiện cho những kết quả đa dạng do người học định hướng là một lựa chọn thực sự có hệ quả thể chế và chính trị, không phải một điều cho sẵn về mặt kỹ thuật.
 - **Bảo tồn quyền chủ động của người học.** Sự phản kháng tái diễn đối với chuẩn hóa và kiểm soát, nghiêng về các cách tiếp cận mở, lấy người học làm trung tâm, là một sợi chỉ bền bỉ đáng để bảo vệ.
 
-## Những hiểu lầm phổ biến
-
-**"AI trong giáo dục bắt đầu với ChatGPT."** Không phải vậy, và niềm tin này tốn kém vì nó làm mọi bài học trước đó trở nên vô hình. [[intelligent-tutoring|Dạy kèm thông minh]] bắt nguồn từ công trình tìm kiếm heuristic và hệ chuyên gia của thập niên 1960 và 70, và cộng đồng AIED hình thành quanh nó nhiều thập kỷ trước [[llm|các mô hình ngôn ngữ lớn]]. [[mishra-control-vs-agency-history-2025|Mishra và cộng sự]] cho thấy các tranh luận hiện tại đang tái tạo một sự phân rẽ đã hiện rõ trong các gia sư nhận thức của Anderson và chủ nghĩa kiến tạo của Papert, nên một độc giả đặt lĩnh vực bắt đầu từ 2022 sẽ tự rút ra lại những lập luận mà lĩnh vực đã từng giải quyết, từ bỏ hoặc đánh mất một lần.
-
-**"Lĩnh vực đã dần từ bỏ AI-như-phép-loại-suy để chuyển sang các công cụ ứng dụng, và AI sinh tạo tiếp tục xu hướng đó."** Đây là sự chỉnh sửa có tính chỉ dẫn nhất trên trang, vì quỹ đạo là thật nhưng không đơn điệu. [[rismanchian-ai-education-four-decades-aixed-2026|Phân tích định vị của Rismanchian và Doroudi]] về AIED 1985, 1993, 2021 và 2024 cùng IJAIED 2004, 2014 và 2021 quả thực cho thấy một sự trôi dạt từ một lĩnh vực hỗn hợp sang tính dụng cụ ứng dụng gần như độc quyền vào thập niên 2000. Nhưng tại AIED 2024, ba trong bốn bài viết ở góc phần tư AI-như-phép-loại-suy dựa trên LLM, gồm cả công trình đoạt giải bài viết xuất sắc về các tác tử có thể dạy được dựa trên LLM. AI sinh tạo **đảo ngược** một phần xu hướng thay vì mở rộng nó, đó là lý do coi nó là "gia sư thông minh tiếp theo" đọc sai nơi biên giới nghiên cứu thực sự đã dịch chuyển.
-
-**"Cá nhân hóa nghĩa là điều chỉnh độ khó cho từng người học."** Đó chỉ là một trong hai nghĩa không tương thích, và việc lẫn lộn chúng che giấu một lựa chọn chính trị. Ở nghĩa thứ nhất, kết quả được giữ cố định và chỉ lộ trình thay đổi, dòng dõi chạy từ các máy dạy học của Skinner qua dạy kèm dựa trên thành thạo. Ở nghĩa thứ hai, bản thân các kết quả trở nên đa dạng, khi người học theo đuổi sở thích cá nhân không bị ràng buộc bởi chương trình chuẩn (Zhao, 2024). Một [[intelligent-tutoring|ITS]] thực hiện nghĩa thứ nhất; [[constructivist|chủ nghĩa kiến tạo]] thực hiện nghĩa thứ hai. Một công cụ được mô tả là "cá nhân hóa" chưa nói với bạn điều gì cho đến khi bạn biết nó mang nghĩa nào.
-
-**"'Trí tuệ nhân tạo' chỉ đơn giản là cái tên hiển nhiên cho lĩnh vực."** Thuật ngữ này là một lựa chọn có chủ đích. Khi McCarthy lên kế hoạch cho dự án Dartmouth năm 1956, ông ưu ái *artificial intelligence* hơn *cybernetics* một phần để tách công trình khỏi truyền thống phản hồi tương tự của Wiener. Quyết định duy nhất đó định khung máy móc trong sự so sánh trực tiếp với nhận thức của con người, và định khung nhân hình mà nó cài đặt vẫn định hình các ưu tiên nghiên cứu, ngôn ngữ sản phẩm, và những câu hỏi đạo đức mà công chúng đặt ra.
-
 ## Đưa vào thực tiễn
 
 **Cho giảng viên và nhà thiết kế giảng dạy**
@@ -99,3 +93,13 @@ Sự xuất hiện của [[generative-ai|AI sinh tạo]] — một họ rộng b
 
 - Dùng các kho ngữ liệu lịch sử làm đường cơ sở thay vì coi hiện tại là so sánh duy nhất sẵn có. Kỷ yếu AIED các năm 1985, 1993, 2021 và 2024 cùng IJAIED các năm 2004, 2014 và 2021 là một mẫu dọc sẵn có về chính những khẳng định của lĩnh vực.
 - Trích dẫn dòng dõi khi bạn tuyên bố tính mới. Một khẳng định rằng một hệ thống "cá nhân hóa việc học" hay "mô hình hóa người học" chỉ mới so với một truyền thống trước đó cụ thể, và truyền thống đó được ghi chép lại.
+
+## Những hiểu lầm phổ biến
+
+**"AI trong giáo dục bắt đầu với ChatGPT."** Không phải vậy, và niềm tin này tốn kém vì nó làm mọi bài học trước đó trở nên vô hình. [[intelligent-tutoring|Dạy kèm thông minh]] bắt nguồn từ công trình tìm kiếm heuristic và hệ chuyên gia của thập niên 1960 và 70, và cộng đồng AIED hình thành quanh nó nhiều thập kỷ trước [[llm|các mô hình ngôn ngữ lớn]]. [[mishra-control-vs-agency-history-2025|Mishra và cộng sự]] cho thấy các tranh luận hiện tại đang tái tạo một sự phân rẽ đã hiện rõ trong các gia sư nhận thức của Anderson và chủ nghĩa kiến tạo của Papert, nên một độc giả đặt lĩnh vực bắt đầu từ 2022 sẽ tự rút ra lại những lập luận mà lĩnh vực đã từng giải quyết, từ bỏ hoặc đánh mất một lần.
+
+**"Lĩnh vực đã dần từ bỏ AI-như-phép-loại-suy để chuyển sang các công cụ ứng dụng, và AI sinh tạo tiếp tục xu hướng đó."** Đây là sự chỉnh sửa có tính chỉ dẫn nhất trên trang, vì quỹ đạo là thật nhưng không đơn điệu. [[rismanchian-ai-education-four-decades-aixed-2026|Phân tích định vị của Rismanchian và Doroudi]] về AIED 1985, 1993, 2021 và 2024 cùng IJAIED 2004, 2014 và 2021 quả thực cho thấy một sự trôi dạt từ một lĩnh vực hỗn hợp sang tính dụng cụ ứng dụng gần như độc quyền vào thập niên 2000. Nhưng tại AIED 2024, ba trong bốn bài viết ở góc phần tư AI-như-phép-loại-suy dựa trên LLM, gồm cả công trình đoạt giải bài viết xuất sắc về các tác tử có thể dạy được dựa trên LLM. AI sinh tạo **đảo ngược** một phần xu hướng thay vì mở rộng nó, đó là lý do coi nó là "gia sư thông minh tiếp theo" đọc sai nơi biên giới nghiên cứu thực sự đã dịch chuyển.
+
+**"Cá nhân hóa nghĩa là điều chỉnh độ khó cho từng người học."** Đó chỉ là một trong hai nghĩa không tương thích, và việc lẫn lộn chúng che giấu một lựa chọn chính trị. Ở nghĩa thứ nhất, kết quả được giữ cố định và chỉ lộ trình thay đổi, dòng dõi chạy từ các máy dạy học của Skinner qua dạy kèm dựa trên thành thạo. Ở nghĩa thứ hai, bản thân các kết quả trở nên đa dạng, khi người học theo đuổi sở thích cá nhân không bị ràng buộc bởi chương trình chuẩn (Zhao, 2024). Một [[intelligent-tutoring|ITS]] thực hiện nghĩa thứ nhất; [[constructivist|chủ nghĩa kiến tạo]] thực hiện nghĩa thứ hai. Một công cụ được mô tả là "cá nhân hóa" chưa nói với bạn điều gì cho đến khi bạn biết nó mang nghĩa nào.
+
+**"'Trí tuệ nhân tạo' chỉ đơn giản là cái tên hiển nhiên cho lĩnh vực."** Thuật ngữ này là một lựa chọn có chủ đích. Khi McCarthy lên kế hoạch cho dự án Dartmouth năm 1956, ông ưu ái *artificial intelligence* hơn *cybernetics* một phần để tách công trình khỏi truyền thống phản hồi tương tự của Wiener. Quyết định duy nhất đó định khung máy móc trong sự so sánh trực tiếp với nhận thức của con người, và định khung nhân hình mà nó cài đặt vẫn định hình các ưu tiên nghiên cứu, ngôn ngữ sản phẩm, và những câu hỏi đạo đức mà công chúng đặt ra.
