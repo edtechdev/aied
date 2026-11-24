@@ -2,6 +2,7 @@
 title: "人工智能正在如何影响学生？"
 created: "2026-09-22T19:45:33-04:00"
 updated: "2026-11-15T15:44:17-05:00"
+type: faq
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]

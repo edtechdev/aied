@@ -2,6 +2,7 @@
 title: "¿Cómo pueden los agentes de IA apoyar a estudiantes y docentes?"
 created: "2026-09-22T18:34:19-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66

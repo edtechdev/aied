@@ -26,6 +26,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

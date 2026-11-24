@@ -2,6 +2,7 @@
 title: "Utiliser l'IA aide-t-il réellement mes étudiants à apprendre ?"
 created: "2026-09-22T19:14:45-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 90
 audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]

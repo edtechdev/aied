@@ -2,6 +2,7 @@
 title: "How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-18T06:05:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]

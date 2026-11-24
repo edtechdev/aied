@@ -2,6 +2,7 @@
 title: "Como devo incorporar a alfabetização em IA no meu curso?"
 created: "2026-08-24T09:50:00-04:00"
 updated: "2026-11-15T15:37:46-05:00"
+type: faq
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]

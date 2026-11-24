@@ -2,6 +2,7 @@
 title: "¿Qué medidas y métodos de investigación puede usar un docente para evaluar intervenciones relacionadas con la IA?"
 created: "2026-09-22T18:29:05-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]

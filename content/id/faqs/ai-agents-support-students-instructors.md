@@ -8,6 +8,7 @@ audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 translation_of: faqs/ai-agents-support-students-instructors
 source_updated: "2026-11-18T15:25:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

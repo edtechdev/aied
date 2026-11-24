@@ -2,6 +2,7 @@
 title: "كيف ينبغي أن يُصمَّم الذكاء الاصطناعي في التجربة التعليمية؟"
 created: "2026-10-12T16:00:00-04:00"
 updated: "2026-11-22T16:05:00-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]

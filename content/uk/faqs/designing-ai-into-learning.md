@@ -2,6 +2,7 @@
 title: "Як ШІ слід проєктувати в навчальний досвід?"
 created: "2026-10-13T20:12:00-04:00"
 updated: "2026-11-15T15:40:35-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]

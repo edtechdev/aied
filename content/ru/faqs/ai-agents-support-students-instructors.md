@@ -2,6 +2,7 @@
 title: "Как ИИ-агенты могут поддерживать студентов и преподавателей?"
 created: "2026-10-13T20:20:00-04:00"
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66

@@ -7,6 +7,7 @@ foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-com
 audience: [faculty developers, instructors]
 level: [adult learning]
 updated: "2026-11-23T04:42:57-05:00"
+type: faq
 translation_of: faqs/faculty-ai-competencies
 source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

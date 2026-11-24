@@ -1,6 +1,7 @@
 ---
 title: "Як дослідження зі ШІ в освіті мають інтегрувати справедливість, доступність, приватність, етику та педагогічну безпеку?"
 created: "2026-10-13T20:12:00-04:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 

@@ -2,6 +2,7 @@
 title: "我们应当使用人工智能检测工具吗？"
 created: "2026-09-22T19:42:07-04:00"
 updated: "2026-11-15T15:42:33-05:00"
+type: faq
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]

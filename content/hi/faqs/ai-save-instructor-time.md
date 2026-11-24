@@ -2,6 +2,7 @@
 title: "शिक्षक के रूप में AI मेरा समय कैसे बचा सकता है?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T16:10:44-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

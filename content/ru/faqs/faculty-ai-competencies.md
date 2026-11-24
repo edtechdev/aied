@@ -2,6 +2,7 @@
 title: "Какие компетенции необходимы преподавательскому составу в отношении ИИ?"
 created: "2026-10-13T21:32:00-04:00"
 updated: "2026-11-15T15:52:51-05:00"
+type: faq
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]

@@ -2,6 +2,7 @@
 title: "Como a IA pode me poupar tempo como professor?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:37:46-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

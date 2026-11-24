@@ -2,6 +2,7 @@
 title: "Як ШІ може заощадити мені час як викладачу?"
 created: "2026-10-13T19:59:00-04:00"
 updated: "2026-11-15T15:53:33-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

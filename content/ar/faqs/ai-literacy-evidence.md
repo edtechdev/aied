@@ -2,6 +2,7 @@
 title: "ما الدليل على تدخّلات ثقافة الذكاء الاصطناعي في التعليم العالي؟"
 created: "2026-10-12T19:50:00-04:00"
 updated: "2026-11-15T16:08:18-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]

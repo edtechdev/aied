@@ -1,6 +1,7 @@
 ---
 title: "Come dovrebbe la ricerca sull'AI nell'educazione integrare equità, accessibilità, privacy, etica e sicurezza pedagogica?"
 created: "2026-10-14T21:55:00-04:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 

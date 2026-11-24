@@ -2,6 +2,7 @@
 title: "Які найкращі практики навчання письму в контексті ШІ?"
 created: "2026-10-13T21:30:00-04:00"
 updated: "2026-11-15T15:43:46-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]

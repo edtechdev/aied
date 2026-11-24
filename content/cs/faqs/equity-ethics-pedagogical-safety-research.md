@@ -7,6 +7,7 @@ audience: [researchers, instructors, instructional designers]
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
 updated: "2026-10-29T11:57:26-04:00"
+type: faq
 translation_of: faqs/equity-ethics-pedagogical-safety-research
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."

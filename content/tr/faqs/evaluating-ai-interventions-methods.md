@@ -2,6 +2,7 @@
 title: "Bir Eğitmen YZ İle İlgili Müdahaleleri Değerlendirmek İçin Hangi Ölçütleri ve Araştırma Yöntemlerini Kullanabilir?"
 created: "2026-10-14T21:30:00-04:00"
 updated: "2026-11-15T16:08:48-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]

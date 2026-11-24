@@ -2,6 +2,7 @@
 title: "Notanın Öğrencinin Ne Bildiği ya da Ne Yapabildiği Konusunda Hâlâ Savunulabilir Bir Şey Söylemesi İçin Değerlendirmeyi Nasıl Yeniden Tasarlarım?"
 created: "2026-10-14T10:36:01-04:00"
 updated: "2026-11-19T19:40:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]

@@ -2,6 +2,7 @@
 title: "Comment puis-je réduire la triche par IA dans mon cours ?"
 created: "2026-09-22T19:10:56-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]

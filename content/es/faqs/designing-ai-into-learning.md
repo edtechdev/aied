@@ -2,6 +2,7 @@
 title: "¿Cómo se debería diseñar la IA dentro de la experiencia de aprendizaje?"
 created: "2026-09-22T12:00:00-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]

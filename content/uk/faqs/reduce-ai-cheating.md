@@ -2,6 +2,7 @@
 title: "Як я можу зменшити списування за допомогою ШІ на своєму курсі?"
 created: "2026-10-13T21:25:00-04:00"
 updated: "2026-11-15T15:42:23-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]

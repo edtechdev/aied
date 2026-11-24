@@ -8,6 +8,7 @@ foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 updated: "2026-11-08T04:14:23-05:00"
+type: faq
 translation_of: faqs/designing-educational-ai-software
 source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."

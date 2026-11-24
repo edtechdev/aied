@@ -1,6 +1,7 @@
 ---
 title: "Eğitimde Yapay Zeka Araştırmaları Eşitliği, Erişilebilirliği, Gizliliği, Etiği ve Pedagojik Güvenliği Nasıl Dahil Etmeli?"
 created: "2026-10-14T21:30:00-04:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 

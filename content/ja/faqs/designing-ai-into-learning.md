@@ -2,6 +2,7 @@
 title: "AI は学習体験にどう設計されるべきか？"
 created: "2026-10-10T22:54:48-04:00"
 updated: "2026-11-15T15:43:36-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]

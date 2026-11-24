@@ -2,6 +2,7 @@
 title: "Was sind Best Practices und Tipps für das Design wirksamer Bildungs-KI-Software?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-07T20:05:54-05:00"
+type: faq
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]

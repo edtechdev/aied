@@ -2,6 +2,7 @@
 title: "क्या AI का उपयोग वास्तव में मेरे छात्रों की सीखने में मदद करता है?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T16:10:44-05:00"
+type: faq
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 foundations: [ai-literacy, cognitive-offloading]

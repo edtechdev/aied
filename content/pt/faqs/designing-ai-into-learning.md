@@ -2,6 +2,7 @@
 title: "Como a IA deve ser incorporada ao desenho da experiência de aprendizagem?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:37:46-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]

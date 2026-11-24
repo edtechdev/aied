@@ -2,6 +2,7 @@
 title: "교수진은 AI와 관련하여 어떤 역량을 갖춰야 합니까?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:43:03-05:00"
+type: faq
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]

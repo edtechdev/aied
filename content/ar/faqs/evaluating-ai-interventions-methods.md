@@ -2,6 +2,7 @@
 title: "ما المقاييس ومناهج البحث التي يمكن للمدرّس استخدامها لتقييم التدخلات المرتبطة بالذكاء الاصطناعي؟"
 created: "2026-10-13T00:08:00-04:00"
 updated: "2026-11-15T16:08:20-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]

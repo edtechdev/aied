@@ -10,6 +10,7 @@ level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
 updated: "2026-11-15T16:26:37-05:00"
+type: faq
 translation_of: faqs/should-we-use-ai-detectors
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."

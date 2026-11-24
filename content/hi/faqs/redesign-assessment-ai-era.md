@@ -2,6 +2,7 @@
 title: "मैं मूल्यांकन को कैसे फिर से डिज़ाइन करूँ ताकि ग्रेड से अब भी यह रक्षणीय रूप से पता चले कि छात्र क्या जानता है या क्या कर सकता है?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-19T19:40:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]

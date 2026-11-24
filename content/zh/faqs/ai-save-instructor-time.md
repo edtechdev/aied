@@ -2,6 +2,7 @@
 title: "作为教师，人工智能如何帮我节省时间？"
 created: "2026-09-22T19:42:07-04:00"
 updated: "2026-11-15T15:43:33-05:00"
+type: faq
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]

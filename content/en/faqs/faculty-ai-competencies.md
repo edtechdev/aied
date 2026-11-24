@@ -2,6 +2,7 @@
 title: "What Competencies Do Faculty Need in Regard to AI?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-20T08:06:12-05:00"
+type: faq
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 connected_podcasts: [orchestrators-not-sages]
 weight: 70

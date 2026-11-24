@@ -8,6 +8,7 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
 updated: "2026-11-22T12:30:00-05:00"
+type: faq
 translation_of: faqs/writing-instruction-ai-best-practices
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

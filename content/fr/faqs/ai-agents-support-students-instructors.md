@@ -2,6 +2,7 @@
 title: "Comment les agents d'IA peuvent-ils aider les étudiants et les enseignants ?"
 created: "2026-09-22T19:12:18-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]

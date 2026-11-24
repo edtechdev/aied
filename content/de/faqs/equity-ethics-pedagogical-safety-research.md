@@ -2,6 +2,7 @@
 title: "Wie sollte Forschung zu KI in der Bildung Gerechtigkeit, Barrierefreiheit, Datenschutz, Ethik und pädagogische Sicherheit einbeziehen?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-07T20:28:28-05:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 audience: [researchers, instructors, instructional designers]

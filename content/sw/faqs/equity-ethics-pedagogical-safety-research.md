@@ -1,6 +1,7 @@
 ---
 title: "Utafiti wa AI katika Elimu Unapaswa Kujumuisha Usawa, Upatikanaji, Faragha, Maadili, na Usalama wa Kieledu kwa Njia Gani?"
 created: "2026-10-13T06:05:00-04:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 

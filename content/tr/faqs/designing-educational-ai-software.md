@@ -24,6 +24,7 @@ ai_assist:
     date: "2026-11-21"
     agent: hermes-agent
 updated: "2026-11-21T17:00:00-05:00"
+type: faq
 
 ---
 

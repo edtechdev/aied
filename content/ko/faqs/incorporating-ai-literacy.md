@@ -2,6 +2,7 @@
 title: "제 강의에 AI 리터러시를 어떻게 통합해야 할까요?"
 created: "2026-08-24T09:50:00-04:00"
 updated: "2026-11-15T15:46:45-05:00"
+type: faq
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]

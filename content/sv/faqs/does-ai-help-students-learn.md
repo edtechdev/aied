@@ -10,6 +10,7 @@ assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
 updated: "2026-11-15T16:03:31-05:00"
+type: faq
 translation_of: faqs/does-ai-help-students-learn
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."

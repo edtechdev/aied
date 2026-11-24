@@ -2,6 +2,7 @@
 title: "Які є докази щодо інтервенцій у сфері ШІ-грамотності у вищій освіті?"
 created: "2026-10-13T19:58:00-04:00"
 updated: "2026-11-15T16:38:53-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]

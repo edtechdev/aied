@@ -2,6 +2,7 @@
 title: "Quelles sont les bonnes pratiques et les conseils pour concevoir un logiciel éducatif d'IA efficace ?"
 created: "2026-09-22T19:14:36-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]

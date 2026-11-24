@@ -2,6 +2,7 @@
 title: "¿Deberíamos usar detectores de IA?"
 created: "2026-09-22T18:29:10-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]

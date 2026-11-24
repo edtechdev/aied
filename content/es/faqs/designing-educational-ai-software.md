@@ -2,6 +2,7 @@
 title: "¿Cuáles son las mejores prácticas y consejos para diseñar software educativo de IA eficaz?"
 created: "2026-09-22T18:29:07-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]

@@ -2,6 +2,7 @@
 title: "高等教育におけるAIリテラシー介入の証拠は何を示していますか？"
 created: "2026-10-10T22:55:14-04:00"
 updated: "2026-11-15T15:43:36-05:00"
+type: faq
 source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50

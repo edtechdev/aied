@@ -2,6 +2,7 @@
 title: "Come dovrebbe essere progettata l'IA nell'esperienza di apprendimento?"
 created: "2026-10-14T21:55:00-04:00"
 updated: "2026-11-22T12:30:00-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]

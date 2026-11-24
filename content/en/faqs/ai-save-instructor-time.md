@@ -2,6 +2,7 @@
 title: "How Can AI Save Me Time as an Instructor?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-21T11:03:45-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

@@ -2,6 +2,7 @@
 title: "Hilft KI-Nutzung meinen Studierenden tatsächlich beim Lernen?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:41:17-05:00"
+type: faq
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 audience: [instructors]

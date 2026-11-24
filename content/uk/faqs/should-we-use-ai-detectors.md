@@ -9,6 +9,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 updated: "2026-11-15T15:48:59-05:00"
+type: faq
 translation_of: faqs/should-we-use-ai-detectors
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

@@ -2,6 +2,7 @@
 title: "关于高等教育中的人工智能素养干预，有哪些证据？"
 created: "2026-09-22T19:41:47-04:00"
 updated: "2026-11-15T15:43:33-05:00"
+type: faq
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]

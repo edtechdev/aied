@@ -2,6 +2,7 @@
 title: "Does Using AI Actually Help My Students Learn?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-13T00:25:09-05:00"
+type: faq
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 audience: [instructors]

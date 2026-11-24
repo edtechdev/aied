@@ -2,6 +2,7 @@
 title: "Какие 10 главных выводов из исследований ИИ в образовании должны знать преподаватели?"
 created: "2026-10-13T20:45:00-04:00"
 updated: "2026-11-14T18:10:00-05:00"
+type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]

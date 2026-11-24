@@ -2,6 +2,7 @@
 title: "Was belegen die Studien zu KI-Kompetenz-Interventionen in der Hochschulbildung?"
 created: "2026-08-24T09:52:00-04:00"
 updated: "2026-11-15T15:44:25-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]

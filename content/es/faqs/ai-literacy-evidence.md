@@ -2,6 +2,7 @@
 title: "¿Qué evidencia existe sobre las intervenciones de alfabetización en IA en la educación superior?"
 created: "2026-09-22T18:29:06-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 audience: [instructors, researchers, administrators]

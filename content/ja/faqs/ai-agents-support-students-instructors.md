@@ -2,6 +2,7 @@
 title: "AIエージェントはどのように学生と教員を支援できますか？"
 created: "2026-10-10T22:55:14-04:00"
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 source_updated: "2026-11-18T15:25:00-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 connected_podcasts: [pedagogical-agents-textbook-that-watches]

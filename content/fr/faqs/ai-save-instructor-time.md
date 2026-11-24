@@ -2,6 +2,7 @@
 title: "Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?"
 created: "2026-09-22T19:16:30-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]

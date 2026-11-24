@@ -2,6 +2,7 @@
 title: "מהן השיטות הטובות ביותר והטיפים לעיצוב תוכנה חינוכית יעילה מבוססת בינה מלאכותית?"
 created: "2026-10-12T19:35:00-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]

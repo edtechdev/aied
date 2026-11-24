@@ -2,6 +2,7 @@
 title: "교육에서의 AI 연구는 형평성, 접근성, 프라이버시, 윤리, 교수법적 안전을 어떻게 통합해야 하는가?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-08T00:14:58-05:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 

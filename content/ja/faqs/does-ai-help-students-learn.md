@@ -2,6 +2,7 @@
 title: "AI を使うことは実際に学生の学習を助けるのか？"
 created: "2026-10-10T22:54:48-04:00"
 updated: "2026-11-15T15:43:36-05:00"
+type: faq
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 foundations: [ai-literacy, cognitive-offloading]

@@ -2,6 +2,7 @@
 title: "AIは学生にどのような影響を与えているでしょうか？"
 created: "2026-10-10T23:04:27-04:00"
 updated: "2026-11-15T15:43:36-05:00"
+type: faq
 source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82

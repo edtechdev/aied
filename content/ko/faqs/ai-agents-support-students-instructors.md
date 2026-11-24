@@ -2,6 +2,7 @@
 title: "AI 에이전트는 학생과 교수자를 어떻게 지원할 수 있는가?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 connected_podcasts: [pedagogical-agents-textbook-that-watches]
 weight: 66

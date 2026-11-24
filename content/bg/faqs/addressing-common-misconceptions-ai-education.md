@@ -13,6 +13,7 @@ weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 translation_of: faqs/addressing-common-misconceptions-ai-education
 source_updated: "2026-11-18T16:55:00-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."

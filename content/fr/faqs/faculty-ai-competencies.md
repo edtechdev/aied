@@ -2,6 +2,7 @@
 title: "Quelles compétences les enseignants doivent-ils posséder à l'égard de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]

@@ -2,6 +2,7 @@
 title: "고등교육에서 AI 리터러시 중재의 증거는 무엇인가?"
 created: "2026-08-24T09:52:00-04:00"
 updated: "2026-11-15T15:45:28-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]

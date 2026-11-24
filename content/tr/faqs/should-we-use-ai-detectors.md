@@ -10,6 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 updated: "2026-11-21T17:00:00-05:00"
+type: faq
 translation_of: faqs/should-we-use-ai-detectors
 source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

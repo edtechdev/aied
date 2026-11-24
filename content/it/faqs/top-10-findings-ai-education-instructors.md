@@ -2,6 +2,7 @@
 title: "Quali sono i 10 risultati principali della ricerca sull'IA in education che i docenti dovrebbero conoscere?"
 created: "2026-10-14T21:55:00-04:00"
 updated: "2026-11-14T18:10:00-05:00"
+type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]

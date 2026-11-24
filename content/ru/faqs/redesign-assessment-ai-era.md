@@ -2,6 +2,7 @@
 title: "Как переработать оценивание так, чтобы оценка по-прежнему говорила мне нечто защитимое о том, что студент знает или умеет?"
 created: "2026-10-13T21:00:00-04:00"
 updated: "2026-11-19T19:40:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]

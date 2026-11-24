@@ -2,6 +2,7 @@
 title: "एक शिक्षक AI-संबंधी हस्तक्षेपों का मूल्यांकन करने के लिए कौन-से उपाय और अनुसंधान विधियाँ उपयोग कर सकता है?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T16:10:45-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]

@@ -2,6 +2,7 @@
 title: "YZ Bağlamında Yazma Öğretiminin En İyi Uygulamaları Nelerdir?"
 created: "2026-10-14T06:37:13-04:00"
 updated: "2026-11-15T16:08:48-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]

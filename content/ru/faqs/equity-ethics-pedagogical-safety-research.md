@@ -1,6 +1,7 @@
 ---
 title: "Как исследования ИИ в образовании должны учитывать справедливость, доступность, конфиденциальность, этику и педагогическую безопасность?"
 created: "2026-10-13T20:24:00-04:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 

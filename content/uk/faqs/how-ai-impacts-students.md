@@ -2,6 +2,7 @@
 title: "Як ШІ впливає на студентів?"
 created: "2026-10-13T21:38:00-04:00"
 updated: "2026-11-15T15:53:33-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]

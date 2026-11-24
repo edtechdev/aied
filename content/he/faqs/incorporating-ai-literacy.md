@@ -7,6 +7,7 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 translation_of: faqs/incorporating-ai-literacy
 source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

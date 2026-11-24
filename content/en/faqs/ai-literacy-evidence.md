@@ -2,6 +2,7 @@
 title: "What Is the Evidence on AI Literacy Interventions in Higher Education?"
 created: "2026-08-24T09:52:00-04:00"
 updated: "2026-11-13T00:25:09-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]

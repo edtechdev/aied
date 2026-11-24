@@ -2,6 +2,7 @@
 title: "Как ИИ может сэкономить мне время как преподавателю?"
 created: "2026-10-13T21:45:00-04:00"
 updated: "2026-11-15T15:52:51-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

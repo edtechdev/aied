@@ -1,6 +1,7 @@
 ---
 title: "Каковы лучшие практики и советы по проектированию эффективного образовательного ПО с ИИ?"
 created: "2026-10-13T20:20:00-04:00"
+type: faq
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]

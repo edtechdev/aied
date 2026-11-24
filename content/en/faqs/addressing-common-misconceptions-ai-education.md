@@ -2,6 +2,7 @@
 title: "How Can We Address Common Misconceptions About AI in Education?"
 created: "2026-09-04T04:39:00-04:00"
 updated: "2026-11-18T16:55:00-05:00"
+type: faq
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 connected_podcasts: [confident-and-wrong-misconceptions]
 connected_videos: [ai-myths-in-education]

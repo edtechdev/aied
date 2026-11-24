@@ -2,6 +2,7 @@
 title: "¿Cómo puedo rediseñar la evaluación para que una calificación siga diciéndome algo defendible sobre lo que el estudiante sabe o puede hacer?"
 created: "2026-09-22T18:29:05-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]

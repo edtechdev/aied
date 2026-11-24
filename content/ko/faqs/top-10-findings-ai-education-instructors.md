@@ -2,6 +2,7 @@
 title: "교수자가 알아야 할 AI 교육 연구의 핵심 발견 10가지는 무엇인가요?"
 created: "2026-08-24T09:42:00-04:00"
 updated: "2026-11-14T18:10:00-05:00"
+type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]

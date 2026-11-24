@@ -2,6 +2,7 @@
 title: "Какие доказательства существуют по интервенциям в области ИИ-грамотности в высшем образовании?"
 created: "2026-10-13T21:46:00-04:00"
 updated: "2026-11-15T15:52:51-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]

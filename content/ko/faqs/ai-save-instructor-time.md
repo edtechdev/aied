@@ -2,6 +2,7 @@
 title: "교수자로서 AI로 시간을 절약하려면 어떻게 해야 할까요?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:45:28-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

@@ -8,6 +8,7 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 updated: "2026-11-15T16:01:50-05:00"
+type: faq
 translation_of: faqs/how-ai-impacts-students
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."

@@ -2,6 +2,7 @@
 title: "Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?"
 created: "2026-09-22T19:10:56-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]

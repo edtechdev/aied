@@ -7,6 +7,7 @@ audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 updated: "2026-11-15T16:18:29-05:00"
+type: faq
 translation_of: faqs/designing-ai-into-learning
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."

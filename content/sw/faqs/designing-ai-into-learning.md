@@ -2,6 +2,7 @@
 title: "AI Inapaswa Kubuniwa Je Katika Uzoefu wa Kujifunza?"
 created: "2026-10-13T10:05:00-04:00"
 updated: "2026-11-15T16:26:08-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]

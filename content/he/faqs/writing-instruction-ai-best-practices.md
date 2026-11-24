@@ -8,6 +8,7 @@ weight: 80
 discipline: [engineering education, humanities education, writing education]
 created: "2026-10-12T19:27:00-04:00"
 updated: "2026-11-23T14:45:00-05:00"
+type: faq
 translation_of: faqs/writing-instruction-ai-best-practices
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

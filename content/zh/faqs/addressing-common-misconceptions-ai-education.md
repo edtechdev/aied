@@ -2,6 +2,7 @@
 title: "我们应当如何纠正人们对教育中人工智能的常见误解？"
 created: "2026-09-22T19:51:00-04:00"
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]

@@ -8,6 +8,7 @@ assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
 updated: "2026-11-15T16:22:38-05:00"
+type: faq
 translation_of: faqs/incorporating-ai-literacy
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."

@@ -9,6 +9,7 @@ technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
 source_updated: "2026-11-20T07:39:42-05:00"
 updated: "2026-11-22T16:05:00-05:00"
+type: faq
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

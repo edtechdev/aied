@@ -2,6 +2,7 @@
 title: "教育におけるAI研究に、公平性・アクセシビリティ・プライバシー・倫理・教育的安全をどのように組み込むべきか"
 created: "2026-10-10T22:55:00-04:00"
 updated: "2026-11-07T20:33:50-05:00"
+type: faq
 source_updated: "2026-10-28T11:47:13-04:00"
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60

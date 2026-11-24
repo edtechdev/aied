@@ -2,6 +2,7 @@
 title: "Que medidas e métodos de pesquisa um instrutor pode usar para avaliar intervenções relacionadas à IA?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:37:46-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]

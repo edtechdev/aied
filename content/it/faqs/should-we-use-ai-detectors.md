@@ -2,6 +2,7 @@
 title: "Dovremmo usare i rilevatori di IA?"
 created: "2026-10-14T22:50:00-04:00"
 updated: "2026-11-22T12:30:00-05:00"
+type: faq
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]

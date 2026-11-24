@@ -2,6 +2,7 @@
 title: "应当如何把人工智能设计进学习体验之中？"
 created: "2026-09-22T12:00:00-04:00"
 updated: "2026-11-15T15:40:39-05:00"
+type: faq
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]

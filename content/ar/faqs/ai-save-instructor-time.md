@@ -2,6 +2,7 @@
 title: "كيف يوفّر لي الذكاء الاصطناعي وقتًا كمدرّس؟"
 created: "2026-10-12T16:30:00-04:00"
 updated: "2026-11-22T16:05:00-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

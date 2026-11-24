@@ -2,6 +2,7 @@
 title: "Que competências o corpo docente precisa ter em relação à IA?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:37:46-05:00"
+type: faq
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]

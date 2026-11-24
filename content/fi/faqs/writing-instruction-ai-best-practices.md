@@ -9,6 +9,7 @@ weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 updated: "2026-11-15T16:26:02-05:00"
+type: faq
 translation_of: faqs/writing-instruction-ai-best-practices
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."

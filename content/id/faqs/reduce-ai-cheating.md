@@ -7,6 +7,7 @@ audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 updated: "2026-11-15T15:59:02-05:00"
+type: faq
 translation_of: faqs/reduce-ai-cheating
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

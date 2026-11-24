@@ -2,6 +2,7 @@
 title: "Como podemos abordar as concepções errôneas mais comuns sobre a IA na educação?"
 created: "2026-09-04T04:39:00-04:00"
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 connected_podcasts: [confident-and-wrong-misconceptions]
 connected_videos: [ai-myths-in-education]

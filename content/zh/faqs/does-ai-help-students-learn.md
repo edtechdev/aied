@@ -2,6 +2,7 @@
 title: "使用人工智能真的能帮助我的学生学习吗？"
 created: "2026-09-22T19:41:09-04:00"
 updated: "2026-11-15T15:40:39-05:00"
+type: faq
 weight: 90
 audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]

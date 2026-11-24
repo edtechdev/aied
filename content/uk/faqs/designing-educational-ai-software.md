@@ -1,6 +1,7 @@
 ---
 title: "Які є найкращі практики та поради щодо проєктування ефективного освітнього програмного забезпечення на базі ШІ?"
 created: "2026-10-13T19:59:00-04:00"
+type: faq
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]

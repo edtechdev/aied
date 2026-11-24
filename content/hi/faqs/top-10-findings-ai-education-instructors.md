@@ -2,6 +2,7 @@
 title: "AI शिक्षा शोध से शिक्षकों के लिए जानने योग्य शीर्ष 10 निष्कर्ष क्या हैं?"
 created: "2026-08-24T09:42:00-04:00"
 updated: "2026-11-14T18:10:00-05:00"
+type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]

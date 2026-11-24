@@ -2,6 +2,7 @@
 title: "教师可以用哪些测量工具与研究方法去评价与人工智能相关的干预？"
 created: "2026-09-22T19:50:48-04:00"
 updated: "2026-11-15T15:45:12-05:00"
+type: faq
 weight: 55
 audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]

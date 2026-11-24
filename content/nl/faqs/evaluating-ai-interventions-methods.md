@@ -8,6 +8,7 @@ assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 updated: "2026-11-15T15:46:36-05:00"
+type: faq
 translation_of: faqs/evaluating-ai-interventions-methods
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."

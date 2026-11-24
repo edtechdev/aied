@@ -2,6 +2,7 @@
 title: "YZ Okuryazarlığını Kursuma Nasıl Dâhil Edebilirim?"
 created: "2026-10-14T23:00:00-04:00"
 updated: "2026-11-21T17:00:00-05:00"
+type: faq
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 audience: [instructors, instructional designers]

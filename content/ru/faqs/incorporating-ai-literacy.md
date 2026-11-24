@@ -2,6 +2,7 @@
 title: "Как включить ИИ-грамотность в мой курс?"
 created: "2026-10-13T20:25:00-04:00"
 updated: "2026-11-15T15:52:51-05:00"
+type: faq
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]

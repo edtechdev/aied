@@ -2,6 +2,7 @@
 title: "Yükseköğretimde YZ Okuryazarlığı Müdahalelerine İlişkin Kanıtlar Nedir?"
 created: "2026-10-14T21:30:00-04:00"
 updated: "2026-11-15T16:08:48-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 audience: [instructors, researchers, administrators]

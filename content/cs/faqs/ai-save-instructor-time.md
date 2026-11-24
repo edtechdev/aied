@@ -7,6 +7,7 @@ foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 updated: "2026-11-15T16:24:30-05:00"
+type: faq
 translation_of: faqs/ai-save-instructor-time
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."

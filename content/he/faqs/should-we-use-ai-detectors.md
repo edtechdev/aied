@@ -2,6 +2,7 @@
 title: "האם עלינו להשתמש במזהי בינה מלאכותית?"
 created: "2026-10-12T19:10:00-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]

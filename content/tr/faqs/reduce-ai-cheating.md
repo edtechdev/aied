@@ -2,6 +2,7 @@
 title: "Kursumda YZ ile Aldatmayı Nasıl Azaltabilirim?"
 created: "2026-10-14T10:36:01-04:00"
 updated: "2026-11-21T17:00:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]

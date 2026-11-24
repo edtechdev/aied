@@ -2,6 +2,7 @@
 title: "كيف أعيد تصميم التقويم حتى تخبرني الدرجة بشيء يمكن الدفاع عنه عمّا يعرفه الطالب أو يستطيع فعله؟"
 created: "2026-10-12T19:40:00-04:00"
 updated: "2026-11-19T19:40:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]

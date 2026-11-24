@@ -2,6 +2,7 @@
 title: "YZ Kullanmak Gerçekten Öğrencilerimin Öğrenmesine Yardımcı Oluyor mu?"
 created: "2026-10-14T21:30:00-04:00"
 updated: "2026-11-15T16:08:48-05:00"
+type: faq
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 audience: [instructors]

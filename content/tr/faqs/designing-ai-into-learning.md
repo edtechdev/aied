@@ -2,6 +2,7 @@
 title: "YZ Öğrenme Deneyiminin İçine Nasıl Tasarınmalıdır?"
 created: "2026-10-14T21:30:00-04:00"
 updated: "2026-11-21T17:00:00-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]

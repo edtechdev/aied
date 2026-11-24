@@ -2,6 +2,7 @@
 title: "제 강좌에서 AI 부정행위를 줄이려면 어떻게 해야 합니까?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:45:28-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]

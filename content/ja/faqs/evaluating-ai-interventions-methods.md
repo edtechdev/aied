@@ -2,6 +2,7 @@
 title: "教育者はAI関連の介入を評価するために、どのような測定方法や研究方法を用いることができるでしょうか。"
 created: "2026-10-10T23:04:26-04:00"
 updated: "2026-11-15T15:43:36-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]

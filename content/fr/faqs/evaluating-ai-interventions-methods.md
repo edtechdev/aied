@@ -2,6 +2,7 @@
 title: "Quelles mesures et méthodes de recherche un enseignant peut-il utiliser pour évaluer les interventions liées à l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 55
 audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]

@@ -2,6 +2,7 @@
 title: "教育领域的人工智能研究应当如何纳入公平、无障碍、隐私、伦理与教学安全？"
 created: "2026-09-22T19:41:09-04:00"
 updated: "2026-11-07T17:27:43-05:00"
+type: faq
 weight: 60
 audience: [researchers, instructors, instructional designers]
 

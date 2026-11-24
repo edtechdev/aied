@@ -12,6 +12,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 updated: "2026-11-22T12:30:00-05:00"
+type: faq
 translation_of: faqs/addressing-common-misconceptions-ai-education
 source_updated: "2026-11-18T16:55:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

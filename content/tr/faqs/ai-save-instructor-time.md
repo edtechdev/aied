@@ -2,6 +2,7 @@
 title: "Öğretmen Olarak Yapay Zeka Nasıl Zaman Kazandırır?"
 created: "2026-10-14T21:30:00-04:00"
 updated: "2026-11-21T17:00:00-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

@@ -2,6 +2,7 @@
 title: "AI를 사용하는 것이 실제로 제 학생들의 학습에 도움이 될까요?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:43:03-05:00"
+type: faq
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 foundations: [ai-literacy, cognitive-offloading]

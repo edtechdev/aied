@@ -2,6 +2,7 @@
 title: "Welche Maße und Forschungsmethoden kann eine Lehrkraft nutzen, um KI-bezogene Interventionen zu evaluieren?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:44:25-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]

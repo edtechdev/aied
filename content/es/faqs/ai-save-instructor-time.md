@@ -2,6 +2,7 @@
 title: "¿Cómo puede ahorrarme tiempo la IA como docente?"
 created: "2026-09-22T18:29:10-04:00"
 updated: "2026-11-23T14:15:00-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

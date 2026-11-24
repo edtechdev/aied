@@ -2,6 +2,7 @@
 title: "Como redesenho a avaliação para que uma nota ainda me diga algo defensável sobre o que o estudante sabe ou consegue fazer?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-19T19:40:00-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]

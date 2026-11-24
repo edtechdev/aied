@@ -10,6 +10,7 @@ assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
 updated: "2026-11-15T16:19:30-05:00"
+type: faq
 translation_of: faqs/does-ai-help-students-learn
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."

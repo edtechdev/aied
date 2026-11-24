@@ -2,6 +2,7 @@
 title: "כיצד מחקר בינה מלאכותית בחינוך צריך לשלב שוויון, נגישות, פרטיות, אתיקה, ובטיחות פדגוגית?"
 created: "2026-10-12T20:20:00-04:00"
 updated: "2026-10-29T10:45:46-04:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 

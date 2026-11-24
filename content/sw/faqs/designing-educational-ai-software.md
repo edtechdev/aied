@@ -1,6 +1,7 @@
 ---
 title: "Ni Mbinu Bora na Vidokezo Gani vya Kubuni Programu Bora ya AI katika Elimu?"
 created: "2026-10-13T09:40:00-04:00"
+type: faq
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]

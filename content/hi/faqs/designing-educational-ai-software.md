@@ -2,6 +2,7 @@
 title: "प्रभावी शैक्षणिक एआई सॉफ़्टवेयर डिज़ाइन करने के लिए सर्वोत्तम प्रथियाँ और सुझाव क्या हैं?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-20T17:32:04-05:00"
+type: faq
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]

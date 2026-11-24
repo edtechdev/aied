@@ -7,6 +7,7 @@ audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 updated: "2026-11-19T19:40:00-05:00"
+type: faq
 translation_of: faqs/redesign-assessment-ai-era
 source_updated: "2026-11-18T06:05:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."

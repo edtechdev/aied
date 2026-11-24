@@ -2,6 +2,7 @@
 title: "शिक्षा अनुसंधान में एआई में समानता, सुगम्यता, निजता, नैतिकता और शैक्षणिक सुरक्षा को कैसे शामिल किया जाना चाहिए?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-07T18:47:42-05:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]

@@ -2,6 +2,7 @@
 title: "How Should AI Be Designed Into the Learning Experience?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-20T07:39:42-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 connected_podcasts: [friction-is-your-friend]
 connected_videos: [ai-adapted-learning-designer]

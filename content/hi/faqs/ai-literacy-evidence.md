@@ -2,6 +2,7 @@
 title: "उच्च शिक्षा में एआई साक्षरता हस्तक्षेपों पर क्या प्रमाण हैं?"
 created: "2026-08-24T09:52:00-04:00"
 updated: "2026-11-15T16:08:33-05:00"
+type: faq
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]

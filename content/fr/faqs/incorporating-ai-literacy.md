@@ -2,6 +2,7 @@
 title: "Comment intégrer la littératie en IA dans mon cours ?"
 created: "2026-09-22T19:14:32-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]

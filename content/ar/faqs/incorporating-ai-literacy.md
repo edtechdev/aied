@@ -2,6 +2,7 @@
 title: "كيف أُدمج ثقافة الذكاء الاصطناعي في مقرري؟"
 created: "2026-10-12T16:10:00-04:00"
 updated: "2026-11-22T16:05:00-05:00"
+type: faq
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]

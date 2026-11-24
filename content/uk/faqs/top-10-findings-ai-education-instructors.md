@@ -2,6 +2,7 @@
 title: "Які 10 головних висновків досліджень про ШІ в освіті мають знати викладачі?"
 created: "2026-10-13T21:50:00-04:00"
 updated: "2026-11-14T18:10:00-05:00"
+type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]

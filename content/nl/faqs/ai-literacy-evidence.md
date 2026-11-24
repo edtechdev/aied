@@ -9,6 +9,7 @@ research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
 updated: "2026-11-15T15:46:36-05:00"
+type: faq
 translation_of: faqs/ai-literacy-evidence
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."

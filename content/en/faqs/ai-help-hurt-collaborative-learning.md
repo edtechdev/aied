@@ -2,6 +2,7 @@
 title: "How Can AI Help or Hurt Collaborative Learning in My Course?"
 created: "2026-11-24T08:05:00-05:00"
 updated: "2026-11-24T08:05:00-05:00"
+type: faq
 connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 weight: 80
 foundations: [human-ai-collaboration]

@@ -8,6 +8,7 @@ assessment: [assessment]
 research_method: [literature review]
 audience: [instructors, faculty developers, educational technology developers, administrators, researchers]
 updated: "2026-11-14T18:10:00-05:00"
+type: faq
 translation_of: faqs/top-10-findings-ai-education-instructors
 source_updated: "2026-11-14T18:10:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."

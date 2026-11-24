@@ -2,6 +2,7 @@
 title: "كيف يؤثر الذكاء الاصطناعي في الطلاب؟"
 created: "2026-10-12T18:40:00-04:00"
 updated: "2026-11-15T16:08:20-05:00"
+type: faq
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]

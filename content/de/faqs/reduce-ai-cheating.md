@@ -2,6 +2,7 @@
 title: "Wie kann ich KI-Betrug in meinem Kurs reduzieren?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:43:57-05:00"
+type: faq
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]

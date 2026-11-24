@@ -2,6 +2,7 @@
 title: "Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?"
 created: "2026-09-22T19:10:56-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]

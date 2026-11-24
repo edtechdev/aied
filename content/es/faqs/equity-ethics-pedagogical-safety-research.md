@@ -2,6 +2,7 @@
 title: "¿Cómo debería la investigación sobre IA en educación incorporar la equidad, la accesibilidad, la privacidad, la ética y la seguridad pedagógica?"
 created: "2026-09-22T18:32:58-04:00"
 updated: "2026-11-05T16:18:45-05:00"
+type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 audience: [researchers, instructors, instructional designers]

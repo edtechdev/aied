@@ -2,6 +2,7 @@
 title: "我怎样才能减少课程中的人工智能作弊？"
 created: "2026-09-22T19:51:00-04:00"
 updated: "2026-11-15T15:42:03-05:00"
+type: faq
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]

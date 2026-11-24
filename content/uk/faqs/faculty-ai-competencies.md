@@ -2,6 +2,7 @@
 title: "Яких компетентностей потребують викладачі щодо ШІ?"
 created: "2026-10-13T20:16:00-04:00"
 updated: "2026-11-15T15:53:33-05:00"
+type: faq
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]

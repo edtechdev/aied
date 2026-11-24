@@ -2,6 +2,7 @@
 title: "コースにAIリテラシーをどう組み込むべきでしょうか？"
 created: "2026-10-10T23:04:28-04:00"
 updated: "2026-11-15T15:43:36-05:00"
+type: faq
 source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86

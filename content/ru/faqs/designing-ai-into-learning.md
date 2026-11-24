@@ -2,6 +2,7 @@
 title: "Как следует встраивать ИИ в учебный опыт?"
 created: "2026-10-13T20:15:00-04:00"
 updated: "2026-11-15T15:52:51-05:00"
+type: faq
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]

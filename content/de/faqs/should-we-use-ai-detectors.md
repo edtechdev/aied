@@ -2,6 +2,7 @@
 title: "Sollten wir KI-Detektoren nutzen?"
 created: "2026-09-17T09:21:00-04:00"
 updated: "2026-11-15T15:44:25-05:00"
+type: faq
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]

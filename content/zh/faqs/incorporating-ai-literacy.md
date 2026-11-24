@@ -2,6 +2,7 @@
 title: "我应当如何把人工智能素养融入我的课程？"
 created: "2026-09-22T19:48:12-04:00"
 updated: "2026-11-15T15:43:33-05:00"
+type: faq
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]

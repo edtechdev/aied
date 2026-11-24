@@ -2,6 +2,7 @@
 title: "Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?"
 created: "2026-09-22T12:00:00-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]

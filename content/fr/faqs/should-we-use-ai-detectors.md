@@ -2,6 +2,7 @@
 title: "Devrait-on utiliser des détecteurs d'IA ?"
 created: "2026-09-22T19:16:30-04:00"
 updated: "2026-11-23T14:30:00-05:00"
+type: faq
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]

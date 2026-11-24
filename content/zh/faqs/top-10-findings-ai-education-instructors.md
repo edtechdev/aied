@@ -2,6 +2,7 @@
 title: "在人工智能教育研究中，教师最应该了解的 10 项主要发现是什么？"
 created: "2026-09-22T19:50:31-04:00"
 updated: "2026-11-14T18:10:00-05:00"
+type: faq
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]

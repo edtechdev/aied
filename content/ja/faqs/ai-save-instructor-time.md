@@ -2,6 +2,7 @@
 title: "AIはどうすれば教員としての私の時間を節約できますか？"
 created: "2026-10-10T22:55:14-04:00"
 updated: "2026-11-15T15:43:36-05:00"
+type: faq
 source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78

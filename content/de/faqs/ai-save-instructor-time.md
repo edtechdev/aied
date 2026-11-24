@@ -2,6 +2,7 @@
 title: "Wie kann mir KI als Lehrkraft Zeit sparen?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-11-15T15:44:25-05:00"
+type: faq
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]

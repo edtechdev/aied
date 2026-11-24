@@ -2,6 +2,7 @@
 title: "人工智能智能体如何支持学生与教师？"
 created: "2026-09-22T20:06:03-04:00"
 updated: "2026-11-19T19:35:52-05:00"
+type: faq
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
