@@ -1,7 +1,7 @@
 ---
 title: Critiques of AI in Education
 created: "2026-11-21T14:03:40-05:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-24T01:20:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -53,6 +53,12 @@ A second cluster attacks the vocabulary rather than the machinery. Wang and Jin 
 ## Infrastructure, transduction and misrecognition
 
 A third cluster shifts attention from the tool to the infrastructure around it. Watson, Morgner and Brezovec treat generative AI as meaning-mediating infrastructure and name its mechanism *semantic transduction*: the reformatting of an educational demand — a prompt, brief, [[rubrics|rubric]], exam question, genre or policy — into a communicatively plausible form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec, 2026]]). Because transduction is selective, it can include or exclude. Three sites recur: access and capability divides, misrecognition through templates of what a good answer or a good student sounds like, and normative drift in what pedagogy is taken to mean. The exclusion is often a pincer rather than a ban — institutions raise expectations about pace, polish and idiomatic fluency while tightening authenticity regimes at the same time.
+
+## What the design rationale is, on the evidence
+
+The empirical counterpart to these conceptual critiques is a systematic review of 170 agentic-AI-in-education papers coded from titles and abstracts across 23 dimensions ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]]). Its critique-side findings describe a field that builds from technical capability rather than documented need. Nearly half the papers justify development by leveraging AI capabilities (49.4%) or enhancing engagement (47.6%), while equity appears in only 9.4%. Theory is largely absent: 90.0% engage no learning theory.
+
+Evidence quality is thin. Only 5 papers (2.9%) meet the strong-evidence criteria of experimental or quasi-experimental design, comparison group and adequate sample; 73.5% provide weak evidence. Comparison groups appear in just 11.2% of papers, effect sizes in 9.4%, and 61.8% name no challenge at all. Only 18.2% identify a gap in prior research before proposing a solution, and 23.5% report consulting teachers or students.
 
 ## Agenda-setting, simulated innovation and experimental futuring
 

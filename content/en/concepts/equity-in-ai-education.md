@@ -2,7 +2,7 @@
 
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-24T01:20:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -65,6 +65,10 @@ A requirement to use AI can itself be the equity harm, without unequal provision
 - **Templates of good performance become cultural capital.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] show that generative AI reformats prompts, [[rubrics|rubrics]] and genres into communicatively plausible forms, which can make a contribution easier to process while steering learners toward mainstream templates, so inclusion becomes conditional on assimilation to recognizable genres.
 
 ## Outcome equity
+
+- **The evidence base covers the already-served.** A systematic review of 170 agentic-AI-in-education papers (Scopus, 2022–2026) found coverage inverting enrollment: undergraduate settings dominate with 37 papers (**21.8%**) against K-12 with 15 (**8.8%**), while 102 (**60.0%**) name no educational level at all ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]]). Populations facing the greatest learning challenges appear least: students with disabilities in 15 papers (**8.8%**), English language learners in 3 (**1.8%**) and at-risk students in 1 (**0.6%**), while teachers appear in 68 (**40.0%**). Addressing [[equity-in-ai-education|equity]] or inclusion is a stated rationale in only 16 papers (**9.4%**).
+- **The gap is self-reinforcing.** The same review describes a cycle: researchers study accessible populations in familiar settings, so the resulting evidence applies only there; practitioners elsewhere cannot act on it confidently; funders follow demonstrated effectiveness, and underexamined contexts stay unfunded.
+
 In a scoping review of 394 GenAI higher-education studies, equity and access were among the outcomes targeted least, alongside [[metacognition|metacognition]], ethics and [[creativity|creativity]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 A large-scale [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|fairness audit of MATHia's Bayesian knowledge tracing]] over two school years of logs from 8,549 students found aggregate statistical parity of −0.077 in 2021–2022 even as 36 of the 50 skills were biased against emerging readers, with skill-level bias as large as −0.262 ("apply exponent," a 26% gap in predicted mastery). The near-fair aggregate picture concealed bias concentrated in reading-heavy knowledge components, and the authors argue that system-level audits alone are insufficient.

@@ -4,7 +4,7 @@ connected_podcasts: [pedagogical-agents-textbook-that-watches]
 connected_videos: [ai-as-pedagogical-partner, agentic-ai-overview]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-24T01:20:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -48,6 +48,12 @@ A worked discriminator makes the line concrete. A static FAQ chatbot that can on
 ## The field: rapid expansion and current shape
 
 The [[agentic-ai-education-scoping-review|scoping review]], the most comprehensive synthesis of the field to date, mapping **474 studies (2020–2026)**, documents a field that has grown **explosively since 2025**, but whose literature is still dominated by conference papers concentrated in [[higher-ed|higher education]], [[stem-education|STEM disciplines]], and text-based tutoring scenarios. The review analyzes publication characteristics, study designs, agent roles, AI models and architectures, six dimensions of agentic capability, and the extent of educational-theory integration, providing a roadmap for the field's frontiers and gaps. Notably, only **29% of the reviewed studies** (138 of 474) explicitly grounded their systems in educational theory, exposing a disciplinary divide between technically oriented and pedagogically oriented work.
+
+A second systematic review audits the field's design logic and evidence quality. [[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]] coded 170 primary papers from Scopus titles and abstracts (2022–2026) across 23 design dimensions.
+
+- **Theory and autonomy go unreported.** 90.0% engage no [[learning-theories|learning theory]], and 57.1% leave the agent's autonomy unspecified. Where autonomy is stated, 25.9% run semi-autonomous agents, 14.1% fully autonomous ones and 2.9% supervised ones.
+- **Roles are bundled without a pedagogical argument.** 43.5% assign one agent several roles with no justification, while assessment is the most common single role (22.4%). Addressing multiple problems predicts multiple roles (OR = 3.06, 95% CI 1.48-6.03, p = 0.010).
+- **The evidence base cannot carry effectiveness claims.** Only 11.2% use a comparison group, and 5 papers (2.9%) meet the review's strong-evidence criteria.
 
 ## A role-based map of the field
 

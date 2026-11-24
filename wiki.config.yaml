@@ -66,7 +66,7 @@ paths:
 # ---------------------------------------------------------------------------
 article:
   min_words: 750          # below this the page usually lacks a section, not detail
-  max_words: 1750         # raised 1000 -> 1100 (2026-09-27) -> 1500 (2026-09-30) -> 1750 (2026-10-04)
+  max_words: 2000         # raised 1000 -> 1100 (2026-09-27) -> 1500 (2026-09-30) -> 1750 (2026-10-04) -> 2000 (2026-11-24)
   # Bullet-count range for `## Limitations`. Raised 4 -> 6 on 2026-10-04: a source
   # with several distinct, evidence-bound caveats was being forced to fold real
   # limitations together to fit the count, which costs evidence rather than words.

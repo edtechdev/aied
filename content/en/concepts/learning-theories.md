@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-23T11:40:00-05:00"
+updated: "2026-11-24T01:20:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -40,6 +40,8 @@ Several families of learning theory recur in AI education research, each with it
 - **Learning context and activity.** [[experiential-learning|Experiential learning]], [[active-learning|active learning]], [[project-based-learning|project-based learning]], [[collaborative-learning|collaborative learning]], [[transfer-of-learning|transfer of learning]], [[desirable-difficulties|desirable difficulties]], and [[embodied-learning|embodied learning]] describe the kinds of activity and context that produce durable learning.
 
 A 2026 systematic review of 163 GenAI studies maps the literature onto five theory traditions and finds constructivist and connectivist designs dominant, with behaviorist reinforcement designs confined largely to primary-level adaptive platforms ([[saranya-pedagogical-practices-genai-learning-theories-2026|Saranya & Saravanan, 2026]]). Its reviewers inferred each study's theory from described practice because primary studies rarely named one, which is itself a finding about how the field reports theory.
+
+The theory gap widens once agents act without being asked. [[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]] code 170 agentic-AI-in-education papers and find 153 (90.0%) engage no learning theory, 6 (3.5%) name one, and 164 (96.5%) show no integration beyond a shallow mention. Core frameworks sit close to absent: [[cognitive-offloading|cognitive load]] appears in one paper, while schema theory and [[sociocultural-learning|sociocultural theory]] appear in none, despite all three bearing directly on how an agent should pace, structure and mediate instruction. The review proposes scaffolding anticipation, autonomy load and distributed autonomy as constructs for extending existing frameworks to agents that initiate.
 
 ## Learning theories and learning gains
 

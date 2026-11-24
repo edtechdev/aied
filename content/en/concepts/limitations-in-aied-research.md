@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-24T01:20:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -58,6 +58,7 @@ The [[research-methods-aied|research methods]] literature details the strengths 
 - **Model-generated labels are not ground truth.** Where the labels that train or evaluate a system are themselves produced by language models, agreement between annotators cannot establish validity: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] never validated their assertion annotations against human gold labels, and the 49 encoder classifiers they release inherit that provenance and may not be valid where applications differ in significant dimensions. Their schema also strictly underperformed the fine-tuned classifier trained on expert-annotated data (macro-F1 0.673 against 0.76), leaving expert-labeled datasets worthwhile when high confidence is required.
 - **The evidence base itself is unevenly distributed.** A scoping review of 407 technology-supported [[formative-assessment|formative assessment]] studies drew only on Web of Science and Scopus. It also excluded 61 records on language criteria, so the geographic imbalance the field reports may partly reflect which venues are indexed ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 - **The three-condition design is missing.** Across twelve reviewed GenAI studies, none measured assisted performance alongside both an immediate and a delayed no-AI test with verified exclusion, so assisted gains are never tied to retention ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+- **Reporting gaps are large enough to quantify.** Coding titles and abstracts of 170 agentic-AI-in-education papers, [[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]] treats every "not specified" as a reporting gap, not a proven design gap: 60.0% name no educational level, and 23.5% name no domain. Among empirical abstracts, 81.5% omit a sample size and 71.8% omit an effect size. Only 19 papers (11.2%) use a comparison group. The search used one database (Scopus), English-language publications from 2022 to 2026, and excluded secondary studies to avoid double counting.
 
 **Feasibility is an outcome class, not a preface.** A two-cohort pilot of an AI-simulated patient recruited 19 of 72 invited students (26%), completed every encounter and survey (100%), and ended no session on a technical failure — real results, but the feasibility and acceptability outcomes were defined after collection and no progression criteria were prespecified ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). A completion rate is informative only against criteria fixed in advance; otherwise "it ran" and "it worked" are the same sentence.
 
