@@ -1,7 +1,7 @@
 ---
 title: Critiques of AI in Education
 created: "2026-11-21T14:03:40-05:00"
-updated: "2026-11-24T01:20:00-05:00"
+updated: "2026-11-24T09:30:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -20,7 +20,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 connected_concepts: [philosophy-of-ai-in-education, critical-pedagogy, limitations-in-aied-research, theory-development-aied, misconceptions, ai-literacy, agency, cognitive-offloading, equity-in-ai-education, digital-divide, institutional-ai-infrastructure, educational-policy-ai, governance, sustainability, teacher-role, educational-development, higher-ed, trust, automation-bias, critical-thinking]
-connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026, komodromos-generative-ai-pedagogical-sustainability-2026, videla-why-education-cannot-be-automated-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, tlili-double-edged-sword-oer-generative-ai-2026, fajardo-ramos-teacher-education-ai-agenda-2026, li-mroziak-reorienting-critical-ai-literacy, ai-literacy-power-knowledge, caeai-ai-companions-learning-over-performance-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, beyond-agent-label-agentic-ai-governance-2026]
+connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026, komodromos-generative-ai-pedagogical-sustainability-2026, videla-why-education-cannot-be-automated-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, tlili-double-edged-sword-oer-generative-ai-2026, fajardo-ramos-teacher-education-ai-agenda-2026, li-mroziak-reorienting-critical-ai-literacy, ai-literacy-power-knowledge, caeai-ai-companions-learning-over-performance-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, beyond-agent-label-agentic-ai-governance-2026, ma-ai-cal-rct-rural-china-2026]
 ---
 
 > **Critiques of AI in education** — the body of scholarship that questions not whether AI in education works but whether it should, and what it is quietly turning education into. These are mostly conceptual, normative and political arguments rather than empirical ones, drawn from philosophy of education, critical theory, science and technology studies, and disability and postcolonial scholarship. Their recurring targets are the cognitivist model of learning that AI extends rather than displaces, the reframing of teaching as optimization, the assumption that adoption is inevitable, and the concentration of educational decisions in a small number of private providers. The critiques do not share one alternative. What unites them is a refusal to treat the question as settled, and a demand that education set its own agenda rather than adapt to a technology built elsewhere.
@@ -59,6 +59,8 @@ A third cluster shifts attention from the tool to the infrastructure around it. 
 The empirical counterpart to these conceptual critiques is a systematic review of 170 agentic-AI-in-education papers coded from titles and abstracts across 23 dimensions ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]]). Its critique-side findings describe a field that builds from technical capability rather than documented need. Nearly half the papers justify development by leveraging AI capabilities (49.4%) or enhancing engagement (47.6%), while equity appears in only 9.4%. Theory is largely absent: 90.0% engage no learning theory.
 
 Evidence quality is thin. Only 5 papers (2.9%) meet the strong-evidence criteria of experimental or quasi-experimental design, comparison group and adequate sample; 73.5% provide weak evidence. Comparison groups appear in just 11.2% of papers, effect sizes in 9.4%, and 61.8% name no challenge at all. Only 18.2% identify a gap in prior research before proposing a solution, and 23.5% report consulting teachers or students.
+
+A well-designed trial can also return nothing. A registered [[rct|RCT]] of 8,647 students in 105 rural Chinese primary schools compared AI-driven [[adaptive-learning|adaptive]] CAL with a matched non-adaptive version and with no CAL, and found no advantage for the AI arm ([[ma-ai-cal-rct-rural-china-2026|Ma et al., 2026]]). Its precise null shows that rigorous method does not guarantee a benefit worth adopting.
 
 ## Agenda-setting, simulated innovation and experimental futuring
 
