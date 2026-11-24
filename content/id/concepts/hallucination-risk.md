@@ -11,7 +11,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/hallucination-risk"
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T10:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026, ayres-critical-ai-literacies-media-literacy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -71,6 +71,8 @@ Pertahanan terhadap manipulasi semacam itu membawa pertukarannya sendiri: alur p
 **Isyarat kredibilitas dapat memperkuat kepatuhan alih-alih sebaliknya.** Gerakan sebaliknya muncul ketika keluaran yang tidak andal didandani: menambahkan sitasi dan sinyal kredibilitas ke antarmuka debat ARMADA menaikkan proporsi partisipan yang beralih dari pertimbangan awal yang benar ke posisi AI yang keliru sebesar 112% (31.8% vs. 15.0%), dan pemeriksaan manual menemukan beberapa kasus yang dikutip salah diatribusikan ke referensi yang tidak relevan atau fiktif ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 Mode kegagalan yang berbeda adalah masalah yang tidak terbentuk dengan baik. Dalam [[bauyrzhan-genai-inorganic-chemistry-verification-2026|sebuah tolok ukur eksploratori atas tiga chatbot pada 42 soal kimia anorganik]], setiap chatbot menjawab pernyataan yang cacat dengan percaya diri, tanpa menandai cacatnya, meminta klarifikasi, atau menolak, dan penanda ketidakpastian tidak pernah mencapai kesimpulan. Kegagalannya bukan jawaban yang salah melainkan premis palsu yang diterima dalam keheningan.
+
+**Ketidakpedulian epistemik adalah mode kegagalan yang berbeda.** [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] menamai keluaran fasih yang lepas dari kendala evidensial, dan literasi epistemiknya menyasar celah antara sistem yang percaya diri dan terdengar benar dengan pengandaran yang absen.
 
 ## Miskonsepsi Umum
 

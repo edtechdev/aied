@@ -2,7 +2,6 @@
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: "Le vibe coding"
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-23T14:30:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,25 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:43:11-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
-    role: translation
-    date: "2026-10-10"
-    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-11-01"
+    date: "2026-11-24"
     agent: hermes-agent
-  - model: meituan/longcat-2.5:free
-    role: translation
-    date: "2026-11-23"
-    agent: hermes-agent
-connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -60,6 +52,14 @@ Une étude transversale préenregistrée (N = 100 étudiants du supérieur) four
 ## Le vibe coding comme développement par l'utilisateur final et outillage pour les enseignants
 
 Une promesse majeure du vibe coding est qu'il permet aux non-programmeurs — y compris les [[teacher-role|enseignants]] et les experts du domaine — de construire leur propre logiciel, une forme propre à l'ère des LLM de développement par l'utilisateur final. Une [[gaide-vibe-coding-k12-teachers|étude du cadre GAIDE]] a montré des enseignants [[k-12|du primaire et du secondaire]] (non-programmeurs) utilisant le vibe coding dans un atelier de huit semaines pour créer des outils d'apprentissage propulsés par l'IA, élevant leur [[ai-literacy|littératie en IA]] et démontrant l'« apprendre en créant » comme modèle de développement professionnel. Dans l'[[higher-ed|enseignement supérieur]], un enseignant a rapidement construit en quelques jours un [[vibe-coding-programming-process-visualizer|visualiseur de processus de programmation à partir des journaux d'activité de l'EDI]] par vibe coding, rendant visibles les processus de programmation des étudiants pour l'enseignement et l'examen d'[[academic-integrity|intégrité académique]]. Ces cas positionnent le vibe coding non pas seulement comme une compétence de l'apprenant, mais comme une capacité de création qui [[educational-development|reconfigure qui peut créer les technologies éducatives]].
+
+Une étude comparative par pensée à voix haute a demandé à 15 enseignants en formation initiale, 13 enseignants en exercice et 10 experts en programmation de construire une application web éducative en 30 minutes, puis a suivi la manière dont chaque groupe gérait l'incertitude ([[lin-teacher-vibe-coding-uncertainty-2026|Lin and Zou, 2026]]). Les trois groupes ont tous bouclé des cycles entre le cadrage du problème, le développement et la vérification, mais ils réduisaient l'incertitude de manières différentes, et leurs artefacts divergeaient en conséquence.
+
+- **Les enseignants en exercice automatisaient des routines qu'ils connaissaient déjà.** Les contrôles hebdomadaires de lecture et les feuilles de travail sur tablette étaient des problèmes familiers, si bien que leurs artefacts remplaçaient le plus souvent la pratique existante : 8 sur 13 relevaient du remplacement.
+- **Les enseignants en formation initiale cadraient à partir de principes pédagogiques.** Leurs projets construisaient plus souvent quelque chose de nouveau, avec une amplification dans 9 cas sur 15 et une transformation dans 1 cas.
+- **Les experts travaillaient sur le plan structurel plutôt qu'en formulant des invites plus poussées.** Ils menaient des sondes de capacité ciblées, posaient au modèle des questions de clarification, décomposaient l'artefact en modules testables et automatisaient les vérifications.
+
+Cette différence reflète la base de connaissances que chaque groupe apportait, et non un déficit de compétence. C'est pourquoi les auteurs soutiennent que la formation des enseignants devrait intégrer l'expertise pédagogique, contextuelle et technique, au lieu de se limiter à former la compétence en invites.
 
 **La création est un geste d'évaluation, pas seulement une histoire d'accès.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] en tire la conséquence : si les artefacts ne prouvent plus la pensée qu'ils étaient censés susciter, l'évaluation doit capter le processus, et les preuves de processus exigent une observation prolongée que des effectifs limités ne peuvent fournir. Un outil construit par l'enseignant peut porter les décisions pédagogiques, l'étayage et l'encouragement qu'un produit acheté n'apportera pas, ce qui renvoie le jugement de conception à l'enseignant qui juge l'apprentissage.
 

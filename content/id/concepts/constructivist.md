@@ -9,7 +9,7 @@ technology: [generative-ai]
 confidence: high
 updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/constructivist"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -97,7 +97,7 @@ Ini mencerminkan hierarki [[icap-framework|ICAP]] — keterlibatan konstruktif d
 - **Konflik konstruktif** — agen AI adversarial yang menantang desain atau penalaran pembelajar, mendorong pertimbangan ulang dan konstruksi alternatif yang lebih mendalam, dalam tradisi tutorial Sokratik.([[ai-agents-constructive-conflict-design-education-2026]])
 
 - **Oposisi tersimulasi bukanlah oposisi.** Posisi lawan yang dapat disuarakan sesuai permintaan tetapi tidak pernah melawan hanya melatih koreografi dialog sambil menahan apa yang membuatnya kuat: ia tidak memiliki perwujudan, taruhan, atau paparan terhadap konsekuensi, sehingga tidak seperti liyan manusia ia tidak menawarkan jalan menuju perbaikan ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
-- **Umpan balik internal melalui perbandingan** — membiarkan pembelajar membandingkan karyanya sendiri dengan contoh yang dihasilkan AI sehingga tindakan membandingkan itu sendiri menghasilkan pembelajaran.([[ai-internal-feedback-evaluative-judgments]])
+- **Umpan balik internal melalui perbandingan** — membiarkan pembelajar membandingkan karyanya sendiri dengan [[rubrics|contoh teladan]] yang dihasilkan AI sehingga tindakan membandingkan itu sendiri menghasilkan pembelajaran.([[ai-internal-feedback-evaluative-judgments]])
 - **Pemberian prompt yang sadar tipe pertanyaan** — mengklasifikasikan pertanyaan pembelajar ke dalam peran konstruktivis agar sistem dapat dengan sengaja menaikkan seorang siswa dari pencarian informasi menuju penyelidikan eksploratif dan dialogis alih-alih mencerminkan kedalaman kognitif apa pun yang tersirat dari pertanyaan itu. Karena maksud fasilitator dan rekan-belajar tetap sulit dibedakan bagi pengklasifikasi otomatis, desain ini mempertahankan manusia untuk memvalidasi kategorisasinya sebelum kategorisasi itu menggerakkan [[feedback]] atau [[scaffolding]].([[lee-learner-question-types-ai-education-2026]])
 - **Komunitas sebagai standar evaluatif** — pembelajar merancang sesuatu yang nyata bagi komunitasnya dengan AI sebagai sumber daya desain, sementara pengetahuan komunitas dan praktisi komunitas berfungsi sebagai standar yang menilai hasilnya, menyisakan ruang bagi keterbatasan, penolakan, atau tidak-menggunakan secara strategis di mana keterlibatan kritis menuntutnya.([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]])
 

@@ -11,9 +11,9 @@ level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ En net ders çalışması bir [[assessment|değerlendirme tasarımı]]dır. [[ri
 Değerlendirme üretimi ikinci bir iptir. [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]], ChatGPT-4'e Deneysel Psikoloji dersi için 80 çoktan seçmeli madde yazdırmış ve 120 öğrenciyle bunların üzerinde tam psikometrik düzeneği çalıştırmıştır: iç tutarlılık kabul edilebilir, test-tekrar test orta düzeyde, maddelerin %11,25'i zayıf ayırt edicilik göstermekte ve Bloom dağılımı %73,75 hatırlama karşısında %8,75 analiz veya değerlendirme biçimindedir. Maddeler öğrencilerin şeyleri isimlendirebildiğinin güvenilir kanıtıydı ve bir çalışma tasarlayıp tasarlayamayacakları konusunda sessizdi.
 
 İstatistik üçüncüsü ve en iyi kanıtlanmış müdahaledir. [[ai-tutor-statistical-programming-adoption-2026|Préau ve arkadaşları]], Tübingen'deki psikoloji lisans öğrencileri için bir dönem boyunca süren bir R programlama dersinde, önceden kaydedilmiş bir [[longitudinal-research|boylamsal tasarım]] ile, öğretmenden yanıt vermeye değil yönlendirmeye yönlendirilmiş bir modelle, özel olarak geliştirilmiş bir "R-Tutor" dağıtmıştır.
+
+Derlenmiş bir cilt aynı soruyu çalışma çalışma değil, ders ders ele alır. [[integrating-generative-ai-in-psychology-courses|Psikoloji Derslerine Üretken Yapay Zeka Entegrasyonu]] Society for the Teaching of Psychology'ten yirmi bir raporu, öğretim üyesinin öğreteceği derslere göre düzenler: temel ve kesişimli dersler, klinik ve danışmanlık ile istatistik içeren araştırma yöntemleri. Kitabın bölümleri çalışma değil, uygulayıcı raporlarıdır ve kanıtları düzensizdir. Ancak buradaki deneysel literatürün veremediği şeyi, yani belirli sınıflarda işletilen tasarımları sunar. İçlerinde üç taahhüt yinelenir: öğrencilerin aracı değerlendirecekleri bir şeye sahip olmaları için erişimi aşamalı kılmak, doğrulamayı zorunlu tutmak ve görünür kılmak, ve öğretim üyesinin aracı ne zaman kullanmaması gerektiğine dair kararını hedeflenen sonuç saymak.
 
 ## Klinik ve danışmanlık eğitimi
 

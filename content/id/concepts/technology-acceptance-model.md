@@ -10,7 +10,7 @@ confidence: high
 methods: [research-methods-aied]
 updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/technology-acceptance-model"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Riset adopsi biasanya berhenti pada niat; perluasan TPB yang justru mengukur pen
 ### Diffusion of Innovation (DOI)
 Teori DOI Rogers menjelaskan adopsi sebagai proses sosial di mana inovasi berdifusi melalui populasi sepanjang waktu, dengan menekankan atribut inovasi (keunggulan relatif, kompatibilitas, kompleksitas, ketercobaan, keteramatan) dan kategori pengadopsi. Teori ini muncul dalam analisis tingkat [[governance|institusional]] basis pengetahuan, misalnya [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] menggabungkan kerangka Technology–Organization–Environment (TOE) dengan DOI untuk memodelkan adopsi AI organisasional di universitas-universitas Arab Saudi.
 
+Pada tingkat siswa, [[gocyla-genai-adoption-diffusion-2026|Gocyła dan Strzelecki (2026)]] menemukan keunggulan relatif, kompatibilitas, kesederhanaan, dan observabilitas memprediksi niat memakai GenAI, menjelaskan 48.7% varians, sementara trialabilitas tidak (f² = 0.001): akses gratis dapat menjadikan percobaan sebagai harapan dasar alih-alih pembeda.
+
 ### Technology–Organization–Environment (TOE)
 TOE membingkai adopsi sebagai dibentuk oleh konteks teknologis, organisasional, dan lingkungan — pelengkap bagi TAM/UTAUT tingkat individu untuk mempelajari adopsi institusional (lihat [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
@@ -84,6 +86,8 @@ Menambahkan kapabilitas keluarga [[tpack|TPACK]] di samping kerangka keyakinan s
 
 Dalam studi wawancara dua gelombang atas 22 fakultas, mengetahui lebih banyak tentang AI membuat sebagian menjadi lebih hati-hati alih-alih lebih menerima, membalik arah yang diasumsikan model dari pengalaman ke kemudahan penggunaan ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
+Bahkan kemenangan antarmuka yang bersih belum tentu menggerakkan niat: ketika orang dewasa berusia 18 hingga 25 tahun mencari informasi program universitas melalui chatbot berbumi atau situs web program tersebut. Setiap ukuran perseptual mengunggulkan chatbot sementara niat perilaku untuk memakainya lagi tidak berbeda, dan kesiapan teknologi memoderasi besarnya keunggulan, dengan pengguna yang paling tidak nyaman paling sedikit memperoleh manfaat ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]]).
+
 ## Batas dan perluasan
 
 Fokus kognitif TAM juga kurang menangkap dimensi emosional dan relasional penggunaan AI. Sebuah [[akbaba-nursing-ai-experiences-tam-2026|studi kualitatif atas mahasiswa dan dosen keperawatan]] menemukan bahwa, di samping empat konstruk TAM klasik, partisipan -- terutama mahasiswa -- menggambarkan AI sebagai sumber dukungan psikososial: kenyamanan emosional selama stres dan ruang rahasia untuk refleksi. Ini memperluas persepsi kegunaan melampaui perolehan kinerja ke [[well-being|kesejahteraan]] dalam [[professional-training|pelatihan profesional]] bertekanan tinggi, menyarankan model adopsi harus memperhatikan faktor afektif dan psikososial, bukan hanya kegunaan instrumental.
@@ -94,6 +98,8 @@ Fokus kognitif TAM juga kurang menangkap dimensi emosional dan relasional penggu
 
 Perluasan terbaru membalik arah yang biasa, menempatkan keyakinan motivasional [[discipline-specific-aied|khas mata pelajaran]] di hulu persepsi TAM alih-alih di sampingnya. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] melaporkan nilai manfaat memprediksi persepsi kegunaan pada β = 0.43 dan ekspektasi untuk berhasil memprediksi kemudahan penggunaan pada β = 0.39, sementara jalur inti TAM melemah namun tetap signifikan.
 
+**Kegunaan dapat milik pada kumpulan tugas, bukan pada alatnya.** Dalam empat kelompok fokus dengan 26 mahasiswa STEM, papan diskusi yang sama sepadan dengan waktu mereka ketika prompt meminta penerapan atau menunjukkan cara teman sebaya berpikir, dan menjadi pekerjaan rutin ketika meminta penyataan ulang ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner dan Nugent, 2026]]). Para penulis menyatakan kesimpulannya sebagai klaim TAM: kegunaan yang dipersepsikan melekat pada cara prompt dibangun, bukan pada keberadaan papan diskusi.
+
 **Kesesuaian tugas–teknologi sebagai jalur paralel, dan keniscayaan sebagai pertanyaan terpisah.** Sebagian besar perluasan di atas menambahkan konstruk *di dalam* model keyakinan. Satu kerangka saudara yang jarang dibawa studi TAM adalah Task–Technology Fit, yang menanyakan apakah kapabilitas alat cocok dengan tuntutan tugas spesifik. [[chu-design-students-ai-agent-tam-ttf-2026|Chu dan Liu (2026)]] menggabungkan keduanya pada 405 mahasiswa pascasarjana desain di universitas Tiongkok, dan kesesuaian bertindak sebagai rute kedua menuju sikap alih-alih determinan kegunaan.
 
 Karakteristik tugas mengumpan kesesuaian pada β = 0.322 dan karakteristik teknologi pada β = 0.266. Kesesuaian lalu mengumpan sikap pada β = 0.224, di samping persepsi kegunaan (0.376) dan persepsi kemudahan penggunaan (0.185), dan sikap mengumpan niat pada β = 0.388. Efikasi diri membawa koefisien hulu terbesar, 0.458 pada kegunaan dan 0.394 pada kemudahan penggunaan. Kenikmatan yang dipersepsikan menaikkan kemudahan penggunaan (0.220) dan membiarkan kegunaan tak tersentuh (−0.033, p = 0.483) — perpecahan instrumental/afektif yang tidak digambar model klasik.
@@ -103,6 +109,8 @@ Tambahan metodologisnya adalah bagian yang lebih mudah dipindahkan. Jaringan per
 **Fitur desain di hulu keyakinan, dan kepentingan yang bukan keniscayaan.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin dan Qing (2026)]] menempatkan enam fitur sistem di depan dua keyakinan TAM untuk 301 mahasiswa universitas Tiongkok, meminjam kerangka stimulus–organisme–respons. Personalisasi dan interaktivitas hanya menggerakkan persepsi kegunaan, sementara kecerdasan dan kelengkapan konten hanya menggerakkan kemudahan penggunaan. Daya tanggap menggerakkan keduanya; antropomorfisme tidak menggerakkan keduanya. Model itu menjelaskan R² = 0.244 niat (SRMR = 0.033), dengan kemudahan penggunaan di depan kegunaan pada niat (β = 0.340 berbanding 0.265). Kepentingan jaringan yang divalidasi silang sepuluh lipat setuju, memeringkat kemudahan penggunaan pada 100% berbanding 84.70% untuk kegunaan.
 
 Analisis kondisi perlu kemudian memisahkan pengaruh dari persyaratan. Kemudahan penggunaan, prediktor berperingkat teratas, gagal sepenuhnya (d = 0, p = 0.592). Kegunaan perlu tetapi kecil (d = 0.027, p = 0.011). Para penulis membaca perpecahan itu sebagai peringatan agar tidak memperlakukan koefisien jalur sebagai lantai. Koefisien yang kuat mengatakan satu unit kemudahan membeli niat secara rata-rata; hanya keniscayaan yang mengatakan apakah keyakinan lain dapat absen.
+
+**Fitur desain dialirkan melalui kepercayaan, dengan DOI di samping TAM.** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] menyurvei 653 pembelajar tentang [[ai-avatars-and-synthetic-instructors|AI avatar]] dan menemukan jalur terkuat dalam model TAM–DOI gabungan mereka berjalan dari transparansi yang dipersepsikan ke [[trust|kepercayaan]] (β = 0.542). Keunggulan relatif (β = 0.267) dan kegunaan yang dipersepsikan (β = 0.247) membawa niat lebih daripada sikap (β = 0.126).
 
 Kaitan risiko dengan penggunaan juga bergantung pada sistem: di antara 49 sistem TALIS 2024 yang menerapkan item-itemnya, persepsi kegunaan AI berasosiasi positif dengan penggunaan AI di seluruh 49, sementara persepsi risiko berasosiasi negatif di 40 dan positif di sembilan ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 

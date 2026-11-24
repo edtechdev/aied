@@ -11,7 +11,7 @@ level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -54,6 +54,8 @@ Die klarste Lehrveranstaltungsstudie ist ein [[assessment|Prüfungsdesign]]. [[r
 Prüfungsgenerierung ist der zweite Strang. [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]] ließ ChatGPT-4 80 Multiple-Choice-Items für einen Kurs in Experimenteller Psychologie schreiben und unterzog sie mit 120 Studierenden dem vollständigen psychometrischen Apparat: interne Konsistenz akzeptabel, Retest-Reliabilität moderat, 11,25 % der Items mit schlechter Trennschärfe und eine Bloom-Verteilung von 73,75 % Erinnern gegenüber 8,75 % Analysieren oder Evaluieren. Die Items waren reliable Evidenz dafür, dass Studierende Dinge benennen konnten, und schwiegen darüber, ob sie eine Studie entwerfen konnten.
 
 Statistik ist die dritte und die am besten belegte Intervention. [[ai-tutor-statistical-programming-adoption-2026|Préau und Kollegen]] setzten einen eigens entwickelten „R-Tutor“ in einem semesterlangen R-Programmierkurs für Psychologiestudierende in Tübingen ein, in einem präregistrierten [[longitudinal-research|Längsschnittdesign]], wobei der Tutor per Prompt angewiesen wurde, anzuleiten statt zu antworten.
+
+Ein Sammelband behandelt dieselbe Frage Kurs für Kurs statt Studie für Studie. [[integrating-generative-ai-in-psychology-courses|Integrating Generative AI in Psychology Courses]] versammelt einundzwanzig Berichte der Society for the Teaching of Psychology, geordnet nach dem Kurs, den eine Lehrende als Nächstes unterrichten wird: Grundlagen und Querschnitt, Klinik und Beratung sowie Forschungsmethoden mit Statistik. Die Kapitel sind Praxisberichte und keine Studien, und ihre Evidenz ist ungleich. Doch sie liefern, was die experimentelle Literatur hier nicht kann, nämlich Designs, die in bestimmten Lehrveranstaltungen gelaufen sind. Drei Verpflichtungen kehren in ihnen wieder. Der Zugang wird so gestaffelt, dass Studierende etwas haben, woran sie das Tool messen können. Verifizierung wird verlangt und sichtbar gemacht. Und die Einschätzung der Lehrenden, wann das Tool nicht eingesetzt werden sollte, wird als angestrebtes Ergebnis behandelt.
 
 ## Klinische und beratungsbezogene Ausbildung
 

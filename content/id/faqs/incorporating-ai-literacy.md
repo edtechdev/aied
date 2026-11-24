@@ -10,7 +10,7 @@ audience: [instructors, instructional designers]
 updated: "2026-11-15T16:05:39-05:00"
 type: faq
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -64,7 +64,7 @@ Pola yang layak dijadikan dasar tugas adalah keluaran yang masuk akal tetapi tid
 
 Perlakukan itu sebagai kompetensi yang Anda ajarkan, karena ia tidak datang bersama pengetahuan subjek. Dalam sintesis pendidikan komputasi, mahasiswa tampil secara signifikan *lebih buruk* dalam mengoreksi kode buatan AI daripada pada tugas [[summative-assessment|ujian]] pemrograman tradisional. Itu bukti langsung bahwa mengevaluasi dan memperbaiki keluaran tidak berpindah otomatis dari keterampilan disipliner umum, dan bahwa tanpa pengajaran mahasiswa akan mengumpulkan kembali pekerjaan yang salah tanpa menyadarinya. Tinjauan itu memasukkan hal ini ke dalam kerangka VIE mereka (Verification, Implementation, Equity) dan berargumen bahwa keterlibatan kritis harus menjadi komponen pekerjaan mahasiswa yang dinilai dan dapat diamati, yang mereka sebut 'mekanisme umum yang menghubungkan setiap intervensi yang efektif dalam korpus.'
 
-Versi praktisnya: satu baris rubrik untuk kesalahan yang Anda perkirakan akan mereka tangkap, satu untuk perbaikannya, satu untuk justifikasinya. Jika kritiknya tidak membawa poin, ia akan mendapat tiga kalimat saat mahasiswa keluar dari pintu.
+Versi praktisnya: satu baris [[rubrics|rubrik]] untuk kesalahan yang Anda perkirakan akan mereka tangkap, satu untuk perbaikannya, satu untuk justifikasinya. Jika kritiknya tidak membawa poin, ia akan mendapat tiga kalimat saat mahasiswa keluar dari pintu.
 
 ## Buat spesifik untuk bidang Anda, dan ulangi
 

@@ -7,7 +7,7 @@ assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 updated: "2026-11-04T02:42:40-05:00"
 translation_of: "concepts/cognitive-diagnosis"
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -69,13 +69,6 @@ Diagnosis kognitif berada di jantung arsitektur [[intelligent-tutoring]] dan mer
 
 Diagnosis kognitif terhubung ke [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], dan [[assessment]]. Wawasannya menopang [[intelligent-tutoring]] dan [[adaptive-learning]], dan karya era LLM menghubungkannya dengan identifikasi miskonsepsi dalam [[intelligent-tutoring|AI Tutoring]].
 
-## Miskonsepsi Umum
-
-- **"Diagnosis adalah kemampuan yang sudah terpecahkan bagi model."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] menyupervisi penalaran diagnostik sebagai salah satu dari empat kemampuan dalam keluarga terbuka 4B/9B/27B, dan **diagnosis keadaan pengetahuan tetap yang terlemah** di antara keempatnya. Diagnosis adalah kemampuan yang menolak pelatihan yang menghasilkan kemampuan lainnya.
-- **"Model dapat menyimulasikan kesalahan siswa, jadi mereka dapat mendiagnosisnya."** Hambatannya justru sebaliknya. Model menyusun solusi pada **95.2% jejak distraktor** dan menyimulasikan miskonsepsi Eedi tertentu pada **akurasi 0.92**, namun **memberikan solusi yang benar** — bukan menyimulasikan kesalahan — yang membatasi mereka. Menghasilkan jawaban salah yang masuk akal lebih mudah daripada mengenalinya.
-- **"Diagnosis memerlukan katalog miskonsepsi yang dibangun manual."** Pada **6,106 pasangan** formalisasi logika proposisional yang benar dan salah, sebuah alur kerja menemukan **248 klaster transformasi yang menjelaskan 5,156 pasangan (84.44%)**, berbanding **4,370 (71.57%)** untuk kesalahan pilihan tangan dari kumpulan acuan. Penemuan menyamai atau melampaui kurasi pakar, dan ia beralih ke logika modal — jadi katalog hanyalah titik awal, bukan batas atas.
-- **"Diagnosis hanya berguna jika menyebut miskonsepsi."** Mendiagnosis capaian pembelajaran mana yang telah dicapai siswa justru memperlakukan capaian sebagai konsep pengetahuan, dengan menyediakan relasi konsep melalui pemetaan afinitas tervalidasi pakar. Bagi program berbasis capaian, itu unit yang lebih dapat ditindaklanjuti, meskipun lebih kasar.
-
 ## Apa artinya bagi praktik
 
 **Bagi instruktur**
@@ -89,3 +82,10 @@ Diagnosis kognitif terhubung ke [[knowledge-tracing]], [[student-modeling]], [[e
 - Instrumentasikan kedua arah: mengenali jawaban salah dan menghasilkan jawaban yang benar. Angka pemulihan solusi 95.2% menunjukkan generasi adalah separuh yang mudah dan mode kegagalannya ada pada pengenalan.
 - Utamakan penemuan alih-alih katalog statis bila struktur domain memungkinkan, dan laporkan cakupan terhadap kumpulan acuan agar perbandingannya terbaca.
 - Jangan merilis skor diagnostik tanpa menyatakan konstruk apa yang diukurnya dan bagaimana ia divalidasi secara independen dari sinyal yang menghasilkannya.
+
+## Miskonsepsi Umum
+
+- **"Diagnosis adalah kemampuan yang sudah terpecahkan bagi model."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] menyupervisi penalaran diagnostik sebagai salah satu dari empat kemampuan dalam keluarga terbuka 4B/9B/27B, dan **diagnosis keadaan pengetahuan tetap yang terlemah** di antara keempatnya. Diagnosis adalah kemampuan yang menolak pelatihan yang menghasilkan kemampuan lainnya.
+- **"Model dapat menyimulasikan kesalahan siswa, jadi mereka dapat mendiagnosisnya."** Hambatannya justru sebaliknya. Model menyusun solusi pada **95.2% jejak distraktor** dan menyimulasikan miskonsepsi Eedi tertentu pada **akurasi 0.92**, namun **memberikan solusi yang benar** — bukan menyimulasikan kesalahan — yang membatasi mereka. Menghasilkan jawaban salah yang masuk akal lebih mudah daripada mengenalinya.
+- **"Diagnosis memerlukan katalog miskonsepsi yang dibangun manual."** Pada **6,106 pasangan** formalisasi logika proposisional yang benar dan salah, sebuah alur kerja menemukan **248 klaster transformasi yang menjelaskan 5,156 pasangan (84.44%)**, berbanding **4,370 (71.57%)** untuk kesalahan pilihan tangan dari kumpulan acuan. Penemuan menyamai atau melampaui kurasi pakar, dan ia beralih ke logika modal — jadi katalog hanyalah titik awal, bukan batas atas.
+- **"Diagnosis hanya berguna jika menyebut miskonsepsi."** Mendiagnosis capaian pembelajaran mana yang telah dicapai siswa justru memperlakukan capaian sebagai konsep pengetahuan, dengan menyediakan relasi konsep melalui pemetaan afinitas tervalidasi pakar. Bagi program berbasis capaian, itu unit yang lebih dapat ditindaklanjuti, meskipun lebih kasar.

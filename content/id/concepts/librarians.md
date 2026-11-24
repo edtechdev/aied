@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: medium
 updated: "2026-11-04T02:51:21-05:00"
 translation_of: "concepts/librarians"
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, gen
 
 ## Pendahuluan
 
-Pustakawan adalah profesional yang berada di antara pertanyaan pembelajar dan rekam ilmiah: pustakawan referensi dan liaison, spesialis subjek, pustakawan pengajar yang menyampaikan instruksi literasi informasi, serta staf yang mengelola koleksi dan repositori. Dalam [[ai-education|AI dalam pendidikan]] mereka disebut jauh lebih jarang daripada [[teacher-role|guru]] dan [[administrator|administrator]], namun korpus memberi mereka peran yang spesifik dan dapat diuji. Mereka adalah jawaban manusia atas masalah kredibilitas yang diciptakan [[generative-ai]], instruktur yang mengajarkan [[evaluative-judgment]] dan strategi pencarian alih-alih sekadar menyediakan sumber, dan — dalam kasus terkuat di basis pengetahuan ini — komponen yang dirancang dari sebuah sistem AI alih-alih layanan di sampingnya.
+Pustakawan adalah profesional yang berada di antara pertanyaan pembelajar dan rekam ilmiah: pustakawan referensi dan liaison, spesialis subjek, pustakawan pengajar yang menyampaikan instruksi [[information-and-media-literacy|literasi informasi]], serta staf yang mengelola koleksi dan repositori. Dalam [[ai-education|AI dalam pendidikan]] mereka disebut jauh lebih jarang daripada [[teacher-role|guru]] dan [[administrator|administrator]], namun korpus memberi mereka peran yang spesifik dan dapat diuji. Mereka adalah jawaban manusia atas masalah kredibilitas yang diciptakan [[generative-ai]], instruktur yang mengajarkan [[evaluative-judgment]] dan strategi pencarian alih-alih sekadar menyediakan sumber, dan — dalam kasus terkuat di basis pengetahuan ini — komponen yang dirancang dari sebuah sistem AI alih-alih layanan di sampingnya.
 
 Halaman ini memperlakukan peran itu sebagai berbeda dari tetangganya. [[educational-technology-developers]] membangun sistem pengambilan dan rekomendasi; pustakawan memutuskan apa yang tidak boleh dipercaya untuk disimpulkan sistem tersebut. [[academic-integrity]] membingkai penggunaan AI sebagai kepengarangan dan pengungkapan; pembingkaian pustakawan — atribusi, provenans, akses — berdekatan tetapi lebih konkret.
 

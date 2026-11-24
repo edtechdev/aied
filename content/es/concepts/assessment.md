@@ -12,9 +12,9 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-22T11:45:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
-connected_resources: [idstack, lesson-md, master-instructional-design]
+connected_resources: [idstack, lesson-md, master-instructional-design, designing-university-assessment-ai-2027]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -109,6 +109,8 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 El código de colores es la alternativa que no deja de proponerse, y la versión de una institución ya ha agotado su recorrido. [[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman y Pavlopoulou (2026)]] reconstruyen una conversación de panel sobre el marco de la Universidad de Leeds, vigente en todas las facultades desde 2023, en el que el rojo prohíbe la IA, el ámbar deja las reglas a cada docente de módulo y el verde enseña un uso responsable. Su objeción es de alcance: un color adherido a una tarea responde si una herramienta puede usarse aquí, pero no si puede usarse para comprender la lectura. En 2024/25 alrededor del 85% de los módulos impartidos en la Business School llevaban tareas en rojo mientras el objetivo declarado de la universidad era trasladar toda la evaluación al verde, y los autores concluyen que el semáforo está desfasado y debería ceder ante un marco que mantenga el [[evaluative-judgment|juicio humano]] en el centro.
 
 **Los criterios de producto necesitan evidencia de proceso, y los criterios no se transfieren bien de un contexto a otro.** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] encuestaron a 654 docentes de educación superior en China y Estados Unidos sobre cómo juzgan la creatividad en artefactos asistidos por IA generativa, y concluyeron que los criterios de creatividad a nivel de producto deberían acompañarse de evidencia del proceso que muestre lo que el estudiantado aportó realmente (indicaciones, historiales de revisión, justificaciones reflexivas), para que un artefacto pulido no se confunda con prueba de la contribución creativa del estudiante. Su resultado intercultural añade una cautela: una rúbrica ajustada al peso que una población da a la novedad o a la inspiración puede no transferirse limpiamente a otra, de modo que los criterios de evaluación merecen la misma comprobación de contexto que los estudios que se supone que han de juzgar.
+
+Una línea de esta literatura sostiene que el problema mismo no puede estabilizarse. [[designing-university-assessment-ai-2027|Diseñar la evaluación universitaria para un mundo con inteligencia artificial]] recoge dieciocho capítulos que tratan la IA generativa como una condición dentro de la que hay que trabajar, y no como un rompecabezas que resolver. Sus editores informan de lo que ocurre cuando los expertos asesoran en esas condiciones: las propuestas se reformulan como problemas distintos, porque quien enseña y debe actuar carga con consecuencias que el asesor no comparte. La única implementación multiprograma del volumen encontró que garantizar el aprendizaje en cada unidad crea puntos únicos de fallo de garantía, así que diez programas garantizaron solo las tareas que más importaban. En diciembre de 2025 habían rediseñado 18 tareas de evaluación para garantizar el aprendizaje, habían propuesto 17 más y habían financiado el trabajo con 50 horas por programa.
 
 ## Implicaciones para la IA en la educación
 

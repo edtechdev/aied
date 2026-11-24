@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ La variazione interna del cluster è ampia, e la letteratura la segue. L'educazi
 - **In management, come problema di correzione.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] tratta la progettazione della valutazione come il luogo del cambiamento piuttosto che il syllabus. [[automated-scoring-marketing-posts-agreement-2026|I punteggi automatici dei post marketing degli studenti]] misurano direttamente concordanza ed errore, che è la versione del cluster della domanda sulla [[assessment-validity|validità]]: un voto che concorda con un correttore umano non è necessariamente un voto che misura l'apprendimento voluto.
 
 - **Negli studi ambientali, come doppio soggetto.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] separa l'IA *per* la sostenibilità dall'IA sostenibile, e trova il divario del Sud globale attraversare entrambi. [[aied-carbon-footprint-reporting|La rendicontazione dell'impronta di carbonio nell'AIEd]] passa in rassegna le pratiche di disclosure del 2025 e fornisce un metodo open source per la seconda metà, mentre [[ai-assisted-inquiry-ssi-climate|l'indagine climatica assistita dall'IA]] riporta d = 0,69 rispetto alla sola indagine per la prima.
+
+- **In psicologia, come implementazione corso per corso.** [[integrating-generative-ai-in-psychology-courses|Integrare la GenAI nei corsi di psicologia]] raccoglie ventuno contributi della Society for the Teaching of Psychology, organizzati per corso insegnato lungo i filoni fondamentale, clinico e statistico ([[psychology-education|l'educazione alla psicologia]]). I suoi capitoli sono resoconti di professionisti e non studi, quindi portano dettagli di progettazione anziché evidenze di esito, ma il cluster vi guadagna il suo primo resoconto sull'insegnamento di una disciplina a scala di curricolo.
 
 ## Il divario di misurazione
 

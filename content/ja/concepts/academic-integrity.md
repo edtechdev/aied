@@ -9,9 +9,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook, designing-university-assessment-ai-2027]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -136,6 +136,8 @@ Benau (2026)は同じ境界に反対の方向から到達します。学術的�
 - **単なる礼儀ではなくインテグリティ戦略としての透明性：** [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]]の設計事例は、許された・許されない生成AI利用それぞれについての*根拠*を、インテグリティの機構そのものとして扱います。禁止方針を無視した後に面接された学生は、自分を不正に振る舞っているとは見なしていなかったと説明し、これは失敗を不遵守ではなく曖昧さとして捉え直します——したがって再設計は、すべての制限を、それが守る特定の[[assessment|評価]]に照らして正当化し、少数の確固たる違反者ではなく McCabe の「20-60-20」の説得可能な多数派を中心に設計することで、それに答えました。この事例はまた、曖昧な方策の公平性上の代償を名指しします。教官によって不明確で不均一な期待こそが、方策の失敗を懲戒処分に転化するのです（[[equity-in-ai-education]]）。
 
 - **設計であって検出ではない：ボーフムの事例。** ルール大学ボーフムの、入門向けの原子核・素粒子[[physics-education|物理学]]の再設計（[[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]）は、その AI 方策を検出ではなく実践上のインテグリティの失敗に結びつけました。演習問題が事前に開示されていたため、AI で生成された解法を準備して黒板に写す学生が、意図された推論には従事しなかったためです。著者らはこれを設計上の問題として扱います——演習問題を準備された対面の討論に移し、筆記試験を成績の決定要因とすること——取り締まりの問題ではなく、学習における AI の利用を明示的に許しつつ、なぜ検証が学生の責任であるかを説明し、開放的な AI 許可の宿題もまた依存を高め、有料モデルへのアクセスの不均衡と、教務助手の業務負荷を生んだことを指摘しています。
+
+- **帰属を引用遵守から切り離す。**[[designing-university-assessment-ai-2027|大学評価の設計（2027）]]は、商業出版システムに絡み合った技術的な要求である文献参照と、思考の一部を形作った人やものを認める態度である帰属とを区別します。その設計上の帰結は、スタイルガイドの些細な点で減点することをやめ、学生が自分の知の系譜を語れるようにし、モデルと制御を共有していたとしても、インテグリティの責任を学生に残すことです。
 
 - **独立した検証、そしてそれが標的とする依存。**Ragab (2026)は5層のモデルを提案します。人間による検討を伴う責任ある[[educational-policy-ai|方策]]、[[authentic-assessment|真正な評価]]、独立した能力の検証、そして監督下の年次評価と出口評価です。検出がその負担を担えないという論拠に基づきます([[ragab-ai-integrity-verification-model-2026|Ragab, 2026]])。こうした設計が標的とする梃子は実証的です。中国の学部生1,045人の間で、不正行為との関連を担ったのは、機会や低い能力ではなく[[generative-ai|生成的AI]]への依存であり(β = 0.63)、感じられた[[agency|主体性]]はそれと正に関連していました。操っているという感覚が、抑えるはずだった委任を許してしまうのです([[dai-genai-academic-dishonesty-2026|Daiら、2026]])。
 - **教員自身のウェルビーイングも、この像の一部です。**r/Professorsの2,000件の投稿の標本から、[[mohammadi-instructors-cheating-forum-2026|Mohammadiら(2026)]]は3つの動機、すなわち学習を守ること、自分自身を守ること、インテグリティと衡平性を守ることを整理し、評価の再設計から監視に至る戦略の系列を示しています。

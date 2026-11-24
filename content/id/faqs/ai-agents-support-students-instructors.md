@@ -24,7 +24,7 @@ ai_assist:
 
 Demo vendor berjalan empat puluh menit. Agen itu membaca silabus, menyusun draf kuis pekan depan, menandai tiga mahasiswa yang belum membuka bacaannya, dan menawarkan mengirimi mereka surel. Wakil rektor Anda menginginkan keputusan lisensi pada akhir bulan.
 
-Sebuah [[agentic-ai|agen]] merencanakan, memanggil alat, menyimpan konteks, memecah pekerjaan menjadi subtugas dan beradaptasi lintas giliran, yang lebih banyak daripada yang dilakukan sebuah [[conversational-ai|chatbot]]. Peran di sisi mahasiswa dan sisi pengajar yang terbuka dari situ nyata. Buktinya tidak menunjukkan bahwa otonomi yang lebih besar menghasilkan pembelajaran yang lebih banyak: dalam satu studi berhadapan langsung di sini, agen dan chatbot berimbang. Taruh otonomi di tempat orang memeriksa keluarannya, simpan perencanaannya pada pembelajar, dan nilai kualitas pengajaran terhadap rubrik Anda sendiri.
+Sebuah [[agentic-ai|agen]] merencanakan, memanggil alat, menyimpan konteks, memecah pekerjaan menjadi subtugas dan beradaptasi lintas giliran, yang lebih banyak daripada yang dilakukan sebuah [[conversational-ai|chatbot]]. Peran di sisi mahasiswa dan sisi pengajar yang terbuka dari situ nyata. Buktinya tidak menunjukkan bahwa otonomi yang lebih besar menghasilkan pembelajaran yang lebih banyak: dalam satu studi berhadapan langsung di sini, agen dan chatbot berimbang. Taruh otonomi di tempat orang memeriksa keluarannya, simpan perencanaannya pada pembelajar, dan nilai kualitas pengajaran terhadap [[rubrics|rubrik]] Anda sendiri.
 
 ## Versi singkat
 

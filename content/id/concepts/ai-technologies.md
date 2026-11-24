@@ -7,7 +7,7 @@ technology: [ai-technologies, educational-nlp, educational-robotics, generative-
 confidence: high
 updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/ai-technologies"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,8 @@ connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-educat
 - **AI generatif.** Kategori sistem yang lebih luas yang menghasilkan teks, kode, gambar, dan konten lain — [[generative-ai|AI generatif]] (terutama digerakkan oleh LLM) adalah teknologi di balik gelombang penelitian [[ai-education|AIED]] saat ini. Lihat juga [[multimodal|model multimodal]] (teks, gambar, audio) dan [[simulation]].
 - **Robot dan sistem [[embodied-learning|terwujud]].** [[educational-robotics|Robot dalam pendidikan]] menambahkan kehadiran terwujud dan sering kali [[community-of-inquiry|sosial]] — kit yang dapat diprogram untuk [[computational-thinking|berpikir komputasional]] serta robot humanoid/sosial untuk tutoring, [[storytelling-in-education|bercerita]], dan bermain peran. Robotika adalah alur teknis tersendiri yang bersinggungan dengan [[agentic-ai|AI agentic]] dan desain [[human-in-the-loop-ai|human-in-the-loop]].
 - **Sistem berbasis pengetahuan.** [[knowledge-graph|Grafik pengetahuan]] dan [[educational-nlp|NLP pendidikan]] merepresentasikan serta memproses pengetahuan domain, yang semakin sering dikombinasikan dengan LLM untuk tutoring yang berdasar dan dapat dijelaskan.
+
+Taksonomi berbasis fungsi melangkah lebih jauh ke pengembangan profesional guru daripada daftar arsitektur model. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf dan Massey (2025)]] menyelenggarakan lokakarya sehari untuk sembilan guru sekolah menengah di sekitar enam famili aplikasi AI (klasifikasi, pengenalan, memori, pengambilan keputusan, optimisasi, dan prediksi), masing-masing dipasangkan dengan aplikasi yang sudah dipakai guru, dari penyaringan spam hingga penilaian kredit. Guru datang terbelah soal apakah AI merupakan ancaman, dengan 40% mengatakan demikian dan 40% belum memutuskan, dan setiap partisipan melaporkan mempelajari sesuatu yang baru. Unit pengorganisasinya adalah apa yang dilakukan sistem, yang dapat dikenali guru pada alat kelas tanpa mengetahui cara pelatihannya.
 
 ## Teknik dan metode
 

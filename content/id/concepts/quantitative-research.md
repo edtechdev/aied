@@ -8,7 +8,7 @@ confidence: high
 methods: [quantitative-research, research-methods-aied]
 updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/quantitative-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -39,12 +39,17 @@ Penelitian kuantitatif mencakup desain deskriptif (mengukur prevalensi dan pola)
 
 ## Pendekatan kuantitatif utama
 
+### Desain longitudinal dan panel
+
+Pengukuran berulang atas siswa yang sama mengubah sebuah korelasi menjadi trajektori: model panel memisahkan sifat stabil dari perubahan spesifik-okasi, dan model pertumbuhan mengestimasi bentuk serta laju perubahan lintas gelombang. Keluarga desain, ancaman yang menggigit dalam studi AI (atrisi, pergeseran alat, kinerja terbantu), dan contoh-contoh yang lebih kuat dibahas pada [[longitudinal-research|penelitian longitudinal]].
+
 ### Penelitian survei dan korelasional
 Survei potong lintang mengukur sikap, persepsi, motivasi, [[self-efficacy]], dan penerimaan teknologi yang dilaporkan sendiri, sering dimodelkan dengan regresi atau pemodelan persamaan struktural (SEM/PLS-SEM) untuk menguji hubungan dan mediator yang dihipotesiskan. Pendekatan ini mendominasi korpus basis pengetahuan, terutama untuk pertanyaan penerimaan, motivasi, dan mekanisme psikologis. [[acceptance-ai-english-tools-2026|Penerimaan alat bahasa Inggris berbantuan AI]] membangun [[technology-acceptance-model|TAM]] dengan SEM; [[tian-genai-learning-adoption-pathways-2026|Jalur adopsi GenAI]] menggunakan PLS-SEM, fsQCA, dan pemetaan importance-performance; [[teacher-education-ai-literacy-sdt-2026|literasi AI guru]] menggunakan survei tervalidasi faktor yang berlandaskan [[self-determination-theory]].
 
 - **Kekuatan:** sampel besar; cakupan luas dan berbiaya rendah; menguji model mediasi yang kompleks; layak untuk sikap yang sulit diamati.
 - **Keterbatasan:** data potong lintang tidak dapat menetapkan kausalitas; bias laporan diri; pengambilan sampel kemudahan membatasi kemampuan generalisasi; mediator disimpulkan dari kovarians, bukan manipulasi. Lihat [[self-report-measures]] untuk pembahasan batasan ini dari sisi instrumen.
 - **Model mediasi tersaturasi tidak dapat menguji urutannya sendiri.** Survei satu gelombang atas 1,020 mahasiswa keperawatan membagi efek total 1.36 menjadi langsung 0.92 dan tak langsung 0.44 melalui [[self-regulated-learning|pembelajaran mandiri]], 32.35%, 32.35% dari total, dengan model yang memiliki parameter bebas sebanyak kovarians teramati sehingga mereproduksi data secara konstruksi ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **Label "sebagian" dapat bersandar pada interval yang nyaris mencapai nol.** Di antara 438 mahasiswa universitas Tiongkok, jalur langsung penggunaan-AI-ke-kinerja berlari β = 0.18, 95% CI (0.02, 0.34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **Efek tak langsung total yang mendekati nol dapat menyembunyikan dua jalur yang hidup.** Dalam satu gelombang laporan diri dari 568 mahasiswa desain, asosiasi tak langsung berjalan 0.0929 melalui fokus promosi dan -0.0884 melalui fokus pencegahan, berjumlah 0.0045 sementara jalur langsung membawa 98.7% dari total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Penelitian eksperimental dan kuasi-eksperimental
@@ -82,6 +87,8 @@ Analisis bibliometrik adalah keluarga kuantitatif lebih lanjut: [[sriram-ethical
 
 - **Kekuatan:** presisi dan kekuatan statistik; kemampuan generalisasi ke populasi yang didefinisikan; inferensi kausal (dengan desain eksperimental); cakupan sampel besar yang efisien; kumulatif dan sebanding antar studi.
 - **Keterbatasan:** menangkap apa yang terukur, sering melewatkan proses, makna, dan konteks (lihat [[qualitative-research]]); bias laporan diri; instrumen dapat mengukur konstruk yang salah (lihat [[educational-measurement|persoalan pengukuran]]); korelasi tanpa kausalitas; dapat bersifat artifisial dan lambat relatif terhadap perubahan AI.
+- 
+**Penggabungan dapat gagal pada skala tinjauan.** Tinjauan PRISMA 103 studi tentang GenAI di pendidikan tinggi tidak menjalankan meta-analisis karena desain, pembanding, dan ukurannya terlalu heterogen, melaporkan kesepakatan tipologi hasil pada κ = 0.781 sebagai gantinya ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
 
 Metode kuantitatif dan [[qualitative-research|kualitatif]] saling melengkapi — kerja kuantitatif menyediakan keluasan dan kekuatan kausal, kerja kualitatif menyediakan kedalaman dan makna. [[mixed-methods-research|Desain metode campuran]] menggabungkan keduanya. Lihat [[research-methods-aied]] untuk perbandingan metode lengkap dan kontras antara desain eksperimental, survei, kualitatif, dan lainnya.
 

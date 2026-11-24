@@ -1,7 +1,7 @@
 ---
 title: "AI dalam Pendidikan"
 created: "2026-10-15T09:15:00-04:00"
-updated: "2026-11-23T17:44:00-05:00"
+updated: "2026-11-24T17:30:28-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-23T11:40:00-05:00"
+source_updated: "2026-11-24T07:40:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:

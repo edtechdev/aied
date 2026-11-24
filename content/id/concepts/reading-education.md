@@ -14,7 +14,7 @@ connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/reading-education
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -34,8 +34,8 @@ connected_articles: [air-scale-motivations-ai-reading-2026, almirabi-ai-reading-
 - Ketika sebuah alat AI membantu siswa memahami sebuah bagian bacaan, apa yang telah dipelajari siswa — isinya, sebuah strategi membaca, atau cara meminta jawaban kepada alat itu? Mana di antaranya yang ingin Anda nilai?
 - Rumus keterbacaan menghitung kata dan panjang kalimat. Apa yang terlewat olehnya tentang pengalaman pembaca terhadap sebuah teks, dan apa yang akan Anda ukur sebagai gantinya?
 - Jika AI dapat menulis ulang teks apa pun ke tingkat membaca siswa, apakah tingkatnya sendiri berhenti penting — atau apakah siswa tetap perlu menghadapi teks yang sulit pada akhirnya?
-- Siapa yang diuntungkan ketika penilaian membaca dihasilkan secara otomatis: beban kerja guru, motivasi siswa, atau validitas skornya? Dapatkah ketiganya meningkat sekaligus?
-- Kesulitan membaca juga merupakan isu aksesibilitas. Bagaimana alat untuk pembaca yang mengalami kesulitan, pembelajar multibahasa, dan siswa neurodivergen harus berbeda dari asisten membaca serbaguna?
+- Siapa yang diuntungkan ketika penilaian membaca dihasilkan secara otomatis: beban kerja [[teacher-role|guru]], motivasi siswa, atau validitas skornya? Dapatkah ketiganya meningkat sekaligus?
+- Kesulitan membaca juga merupakan isu aksesibilitas. Bagaimana alat untuk pembaca yang mengalami kesulitan, [[multilingual-learning|pembelajar multibahasa]], dan siswa neurodivergen harus berbeda dari asisten membaca serbaguna?
 
 ## Pendahuluan
 
@@ -44,7 +44,7 @@ Pendidikan membaca dalam basis pengetahuan adalah lini yang masih muda. Sebagian
 Empat lini pekerjaan muncul:
 
 - **Mendukung pembaca** saat membaca, termasuk alat motivasi dan pendamping.
-- **Menilai membaca**, melalui bagian bacaan yang dihasilkan, kuis, dan umpan balik AI atas pekerjaan membaca.
+- **Menilai membaca**, melalui bagian bacaan yang dihasilkan, kuis, dan [[ai-feedback-quality|umpan balik AI]] atas pekerjaan membaca.
 - **Menyesuaikan dan menghasilkan teks** pada tingkat target, dari penyederhanaan hingga materi yang terdiferensiasi.
 - **Mengukur keterbacaan dan kesulitan teks**, lapisan yang diandalkan oleh tiga lini lainnya.
 
@@ -52,7 +52,7 @@ Empat lini pekerjaan muncul:
 
 Membaca dengan [[generative-ai|AI generatif]] menghasilkan hasil pemahaman yang tidak konsisten — keuntungan dalam satu studi, tidak ada [[transfer-of-learning|transfer pengetahuan]] dalam studi lain — dan instrumen AIR dibangun di atas hipotesis bahwa variansnya terletak pada mengapa pembaca menjangkau alat itu. Brann, Etgar dan Sidi mengembangkan dan memvalidasi skala 21 butir dengan empat motif: Task-oriented, Feel-good, Translation, dan Low-effort ([[air-scale-motivations-ai-reading-2026|Brann et al., 2026]]). Bukti mereka datang dari 425 mahasiswa pendidikan tinggi Inggris dalam sampel eksploratori dan 414 dalam sampel konfirmatori, dengan indeks kecocokan pada CFI .95 dan RMSEA .056. Perbedaan itu penting bagi praktik: pembaca yang menggunakan alat untuk menyelesaikan sebuah tugas berada dalam postur yang berbeda dari yang menggunakannya untuk menghindari usaha, dan Low-effort adalah motif yang ditandai penulis sebagai yang perlu diwaspadai untuk pemrosesan dangkal.
 
-Itu adalah hasil pengukuran, bukan studi hasil, dan halaman ini menjaga perbedaan itu. Yang belum dimuat basis pengetahuan adalah uji terkontrol atas pendamping membaca yang menunjukkan keuntungan pemahaman yang tahan lama.
+Itu adalah hasil pengukuran, bukan studi hasil, dan halaman ini menjaga perbedaan itu. Yang belum dimuat basis pengetahuan adalah [[rct|uji terkontrol]] atas pendamping membaca yang menunjukkan keuntungan pemahaman yang tahan lama.
 
 ## Menilai Membaca
 
@@ -74,7 +74,7 @@ Persepsi audiens target kini dapat diukur secara langsung. [[thome-perceived-tex
 
 Kelompok studi terbesar menghasilkan atau menulis ulang teks untuk seorang pembaca. Tiga pendekatan berbeda dalam apa yang mereka kendalikan:
 
-- **Generasi terkontrol tingkat.** Menyempurnakan tiga model 8B pada kurikulum membaca anak yang dirancang ahli dan cerita dari GPT-4o serta Llama 3.3 70B mengungguli kedua model zero-shot yang lebih besar pada metrik terkait kesulitan, dengan masalah keamanan yang dapat diabaikan ([[llm-children-reading-story-generation|Li et al., 2026]]).
+- **Generasi terkontrol tingkat.** [[llm-training-and-fine-tuning|Penyetelan halus]] tiga model 8B pada [[curriculum-design|kurikulum membaca anak]] yang dirancang ahli dan cerita dari GPT-4o serta Llama 3.3 70B mengungguli kedua model zero-shot yang lebih besar pada metrik terkait kesulitan, dengan masalah keamanan yang dapat diabaikan ([[llm-children-reading-story-generation|Li et al., 2026]]).
 - **Materi terdiferensiasi.** Alur kerja GenAI dengan prompt peran untuk materi membaca [[english-education|EAP]] meningkatkan hasil terutama dengan menambahkan lapisan dukungan spesifik kemahiran — glosarium, penguraian kalimat, petunjuk retoris, prompt kritis — alih-alih dengan mengubah kompleksitas tingkat bagian bacaan, dengan efek terbesar di antara pembelajar berkemahiran tinggi (d = 1.40) ([[genai-differentiated-eap-reading-materials-2026|Gao, 2026]]).
 - **Bacaan mata kuliah yang disesuaikan.** Sebuah mata kuliah pascasarjana mengganti buku teksnya dengan bacaan sesuai permintaan yang disesuaikan dengan minat dan tingkat pemahaman; 24 siswa menilainya berguna dan 75% setuju bahwa mereka belajar lebih banyak, sementara analisis artefaknya menemukan keterlacakan yang hilang dan sitasi yang tidak konsisten ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]).
 
@@ -82,13 +82,17 @@ Penyederhanaan adalah varian keempat, dan titik hambatnya adalah evaluasi alih-a
 
 ## Pembaca, Antarmuka, dan Akses
 
-Membaca juga merupakan pertanyaan tentang akses. AIRRI merender materi tugas sebagai gambar yang diperturbasi untuk mengalahkan alur tangkapan layar-ke-LLM, dan penulisnya melaporkan biaya keterbacaannya dengan jujur: overlay garis dinilai terbaca oleh keempat ahli desain dan tipografi yang diwawancarai, sementara galat ekstraksi mencapai 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). Pertukaran antara keterbacaan mesin dan keterbacaan manusia adalah keputusan desain dengan harga aksesibilitas.
+Membaca juga merupakan pertanyaan tentang akses. AIRRI merender materi tugas sebagai gambar yang diperturbasi untuk mengalahkan alur tangkapan layar-ke-[[llm|LLM]], dan penulisnya melaporkan biaya keterbacaannya dengan jujur: overlay garis dinilai terbaca oleh keempat ahli desain dan tipografi yang diwawancarai, sementara galat ekstraksi mencapai 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). Pertukaran antara keterbacaan mesin dan keterbacaan manusia adalah keputusan desain dengan harga aksesibilitas.
 
-Bagi pembelajar dengan disleksia, tinjauan terpandu PRISMA atas 72 studi dari 2018 hingga 2024 menemukan AI digunakan untuk deteksi, [[assistive-technology|dukungan bantu]], dan [[personalized-learning|pembelajaran yang dipersonalisasi]], tetapi dengan basis bukti yang terfragmentasi dan sedikit validasi eksperimental; AI generatif sangat sedikit terwakili ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Kesulitan membaca adalah tempat [[neurodiversity|neurodiversitas]] dan [[accessibility|aksesibilitas]] bertemu agenda membaca umum, dan halaman ini tidak memperlakukannya sebagai topik terpisah.
+Bagi pembelajar dengan disleksia, tinjauan terpandu [[meta-analysis-systematic-review|PRISMA]] atas 72 studi dari 2018 hingga 2024 menemukan AI digunakan untuk deteksi, [[assistive-technology|dukungan bantu]], dan [[personalized-learning|pembelajaran yang dipersonalisasi]], tetapi dengan basis bukti yang terfragmentasi dan sedikit validasi eksperimental; AI generatif sangat sedikit terwakili ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Kesulitan membaca adalah tempat [[neurodiversity|neurodiversitas]] dan [[accessibility|aksesibilitas]] bertemu agenda membaca umum, dan halaman ini tidak memperlakukannya sebagai topik terpisah.
 
 ## Apa yang Ditunjukkan dan Tidak Ditunjukkan Bukti
 
 Lininya kaya pengukuran dan miskin hasil. Ada instrumen tervalidasi (AIR), model kesulitan tervalidasi (CLARA, Bird), dan seperangkat alat generasi serta penyederhanaan yang tumbuh. Ada sangat sedikit studi terkontrol yang menghubungkan intervensi membaca dengan keuntungan pemahaman, dan beberapa studi penilaian mencampuradukkan sumber bagian bacaan dengan penyampaian atau pengawasan. Ukuran sampelnya kecil: 53 siswa dalam kasus penilaian membaca, 24 dalam studi bacaan yang disesuaikan, 200 siswa kelas tujuh dalam kuasi-eksperimen terbesar. Basis pengetahuan ini harus dibaca sebagai mendokumentasikan ruang desain, bukan efek yang telah mapan.
+
+Fluensi sekolah dasar awal adalah pengecualian sejauh ini: di satu sekolah, siswa kelas satu dan dua yang mencatat minimal 10 menit per minggu selama 6 minggu mengungguli teman sebaya berbobot rendah (g = 0.56), sebuah kontras dosis alih-alih sebuah uji coba ([[burns-ai-tutor-reading-growth-2026|Burns dan Morton (2026)]]).
+
+[[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes dan kolega (2026)]] menguji apakah chatbot membantu pembaca dalam eksperimen praterdaftar dengan 344 siswa Year 10 di tujuh sekolah menengah Inggris. Setiap siswa membaca dua bacaan sejarah dengan LLM, dengan membuat catatan, atau dengan keduanya; tiga hari kemudian, membuat catatan saja mengungguli LLM pada retensi literal (d = 0.44), pemahaman (d = 0.38), dan ingatan bebas (d = 0.21). LLM + Catatan memulihkan sebagian pada dua yang pertama tetapi tidak pada ingatan bebas (beta = -0.08, p = .854). Siswa menilai LLM lebih mudah, lebih membantu, dan lebih menyenangkan sementara mendapat skor lebih rendah, dan 25.63% dari mereka dalam kondisi gabungan menyalin lebih dari 70% kata-katanya ke dalam catatan mereka.
 
 ## Miskonsepsi Umum
 

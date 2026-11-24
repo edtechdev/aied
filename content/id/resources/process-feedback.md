@@ -37,7 +37,7 @@ menggeser pertanyaannya dari apakah siswa menyontek menjadi bagaimana pekerjaann
 ## Apa yang dapat Anda lakukan dengannya
 
 Guru dapat melihat laporan untuk satu siswa atau memuat ratusan sekaligus dari dasbor guru, dan siswa dapat
-melihat laporannya sendiri lalu [[metacognition|berefleksi]] atasnya. Alat ini bekerja di Google Docs
+melihat laporannya sendiri lalu [[reflection|berefleksi]] atasnya. Alat ini bekerja di Google Docs
 melalui ekstensi peramban, di ruang menulis milik proyeknya sendiri, dan di editor LMS seperti Canvas,
 dengan integrasi LTI tersedia; laporannya juga dapat diunduh sebagai PDF dan diunggah ke platform apa pun.
 Proyek ini menerbitkan prompt refleksi untuk memandu tinjauan diri siswa, panduan membaca pola pemakaian

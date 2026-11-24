@@ -8,9 +8,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook, designing-university-assessment-ai-2027]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
@@ -135,6 +135,8 @@ Kunnskapsbasen dokumenterer et paradigmeskifte: fra AI som en integritetstrussel
 - **Transparens som integritetsstrategi, ikke bare som høflighet:** [[mccorkle-aligned-genai-course-policy-2025|McCorkles (2025)]] designcase behandler *begrunnelsen* for hver tillatt eller ikke tillatt GenAI-bruk som selve integritetsmekanismen. Studenter som ble intervjuet etter å ha ignorert en forbudspolicy, forklarte at de ikke så på seg selv som uærlige, noe som omformulerer svikten som tvetydighet snarere enn manglende etterlevelse, slik at redesignet svarte på det ved å begrunne hver begrensning med den konkrete [[assessment|vurderingen]] den beskytter, og ved å designe for McCabes «20-60-20»-overbevisbare midtgruppe snarere enn de få fast bestemte. Casen navngir også likestillingskostnaden ved vag policy: forventninger som er uklare og ujevne mellom undervisere, er det som gjør policy svikt om til disiplinære tiltak ([[equity-in-ai-education]]).
 
 - **Design, ikke deteksjon: Bochum-casen.** Redesignet av innledende kjerne- og partikkel[[physics-education|fysikk]] ved Ruhr-Universität Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) knyttet AI-policyen sin til en praktisk integritetssvikt snarere enn til deteksjon: fordi oppgavene i kollokviene ble offentliggjort på forhånd, forberedte noen studenter AI-genererte løsninger og kopierte dem på tavlen uten å delta i resonneringen oppgaven var ment å fremkalle. Forfatterne behandler dette som et designproblem, ved å flytte kollokvieoppgavene til forberedt klasseromsdiskusjon og gjøre en skriftlig eksamen til karaktergrunnlaget, snarere enn som et overvåkingsproblem, mens de eksplisitt tillater AI i studiene, forklarer hvorfor verifisering er studentens ansvar, og bemerker at åpne AI-tillatte hjemmeoppgaver også økte avhengighet, ujevn tilgang til betalingsmodeller og arbeidsbelastningen for hjelpelærere.
+
+- **Attribuering skilles fra etterlevelse av sitatregler.** [[designing-university-assessment-ai-2027|Design av universitetsvurdering (2027)]] skiller å referere til kilder, et teknisk krav som er flettet sammen med et kommersielt publiseringssystem, fra attribuering, en holdning som anerkjenner hvem og hva som formet et stykke tenkning. Konsekvensen for utformingen er at man slutter å trekke poeng for smådetaljer fra stilguiden, ber studentene om å legge sin intellektuelle linje fram og beholder ansvaret for integritet hos studenten, selv når kontrollen deles med en modell.
 
 Den klareste formuleringen av den pedagogiske inverteringen kommer fra [[ai-agents-joyful-assessment-third-space-2026|El Khoury og Ma (2026)]], som argumenterer for at reform som starter fra mistanke, innsnevrer den pedagogiske forestillingsevnen til kontroll, etterlevelse og overvåking, og at integritet bør være en **konsekvens** av vurdering designet for engasjement snarere enn utgangspunktet for den. Deres støtteobservasjon er en mekanisme som allerede er synlig andre steder i denne kunnskapsbasen: manglende engasjement er en av betingelsene som gjør uredelighet mer sannsynlig, slik at agendaer som stresstester vurderinger eller begrenser AI-bruk uten å adressere engasjement, lar en del av problemet stå urørt.
 

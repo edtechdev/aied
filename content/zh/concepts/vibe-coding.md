@@ -1,8 +1,7 @@
 ---
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
-title: 氛围编程
+title: "氛围编程"
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-18T03:30:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,17 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:52:32-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-09"
+    date: "2026-11-24"
     agent: hermes-agent
-connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -52,6 +52,16 @@ connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-
 ## 氛围编程作为终端用户开发与教师工具
 
 氛围编程的一个重大承诺是，它让非程序员——包括[[teacher-role|教师]]和领域专家——构建自己的软件，这是 LLM 时代的终端用户开发。一项[[gaide-vibe-coding-k12-teachers|GAIDE 框架研究]]显示，[[k-12|K-12]] 教师（非程序员）在为期八周的研讨会上用氛围编程创建了 AI 驱动的学习工具，提升了他们的[[ai-literacy|AI 素养]]，并展示了"做中学"作为一种专业发展模式。在[[higher-ed|高等教育]]中，一位教师在数天内通过氛围编程快速构建了一个[[vibe-coding-programming-process-visualizer|由 IDE 活动日志生成的编程过程可视化器]]，使学生的编程过程对教学和[[academic-integrity]]审查可见。这些案例把氛围编程定位为不仅是一种学习者技能，而是一种[[educational-development|重塑谁能创造教育技术]]的创作能力。
+
+一项比较性的有声思维研究请 15 名职前教师、13 名在职教师和 10 名编程专家在 30 分钟内构建一个教育类网页应用，随后追踪每个群体如何管理不确定性（[[lin-teacher-vibe-coding-uncertainty-2026|Lin 与 Zou，2026]]）。三个群体都循环经历了问题框定、开发和验证，但他们降低不确定性的方式不同，其制品也因此出现分化。
+
+- **在职教师把他们已经熟悉的常规自动化了。** 每周阅读检查和平板作业都是熟悉的问题，所以他们的制品大多取代了既有的做法：13 人中有 8 人属于替代。
+
+- **职前教师通过教学原则来框定问题。** 他们的项目更常构建出新的东西，15 个案例中有 9 个属于增强、1 个属于重新定义。
+
+- **专家以结构化的方式工作，而不是靠更用力地提示。** 他们进行范围狭窄的能力探测，向模型提出澄清性问题，把制品分解为可测试的模块，并把检查自动化。
+
+这些工作流程之所以出现分化，是因为每个群体带来了不同的知识基础，而不是因为某个群体缺乏技能。因此，教师培养应当整合教学的、情境的和技术性的专业知识，而不是只训练提示技能。
 
 **创作是一项评估动作，而不只是一个准入故事。** [[ho-invariant-core-faculty-development-2027|Ho（2026）]]由此引出推论：如果制品不再能证明它原本要引出的思考，评估就必须捕捉过程，而过程证据需要有限的人手无法提供的持续观察。教师自建的工具可以承载购买来的产品不会承载的教学决策、脚手架与鼓励，这把设计判断还给了正在评判学习的教师。
 

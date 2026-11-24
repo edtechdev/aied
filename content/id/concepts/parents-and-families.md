@@ -11,7 +11,7 @@ audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/parents-and-families"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,7 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
 connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
+connected_resources: [ai-guidance-by-age]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -41,6 +42,8 @@ connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-p
 Sebagian besar waktu anak dengan AI terjadi di luar ruang kelas, dalam latar yang sebagian besar diperlakukan literatur penelitian sebagai latar belakang. Karya tentang tutoring dan hasil belajar biasanya berbasis sekolah, sementara karya tentang panduan keluarga biasanya bersifat saran alih-alih teruji, sehingga keluarga sekaligus menjadi sasaran begitu banyak panduan tentang penggunaan [[ethics|AI yang bertanggung jawab]] dan subjek sangat sedikit bukti tentang apakah panduan itu berhasil.
 
 Halaman ini memperlakukan rumah tangga sebagai aktor dengan hak sendiri. Ia mencakup tutoring orang tua–anak yang dimediasi AI, alat pendamping dan membaca yang ditemui anak di rumah, apa yang dilakukan dan tidak diberitahukan sekolah kepada keluarga tentang penggunaan AI, [[ai-literacy|literasi AI]] orang tua sendiri dan apa yang diketahui tentang pandangan mereka, serta kondisi akses dan biaya yang dengannya keluarga menggunakan alat-alat ini. Ketika buktinya tipis, halaman ini menyatakannya alih-alih mengisi celahnya.
+
+Apa yang dapat dilakukan seorang anak dengan suatu alat pada usia tertentu adalah pertanyaan perkembangan, bukan masalah preferensi; [[developmental-psychology|psikologi perkembangan]] membawa uraian itu.
 
 ## Orang tua sebagai rekan pendidik di rumah
 

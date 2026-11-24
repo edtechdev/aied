@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ La variación interna del conjunto es grande, y la literatura la sigue. La educa
 - **En gestión, como pregunta curricular.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] analizan cómo la IA cambia para qué sirve la educación en gestión a través de una lente de estrategia basada en el valor, preguntando qué actividades sustituye la tecnología y cuáles complementa. [[espino-ai-business-education-review-2026|Espino y Espino (2026)]] cubren la década de trabajo que precedió a esa pregunta, y [[drummond-genai-business-schools-framework-2026|Drummond y Dale (2026)]] construyen un marco informado por el estudiantado sobre cómo deberían responder las escuelas.
 - **En gestión, como problema de calificación.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] trata el diseño de la evaluación como el sitio del cambio y no el programa de la asignatura. [[automated-scoring-marketing-posts-agreement-2026|La puntuación automatizada de publicaciones de marketing del estudiantado]] mide directamente la coincidencia y el error, que es la versión de este conjunto de la pregunta de [[assessment-validity|validez]]: una nota que coincide con un evaluador humano no es necesariamente una nota que mide el aprendizaje previsto.
 - **En estudios ambientales, como doble objeto.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] separa la IA *para* la sostenibilidad de la IA sostenible, y encuentra la brecha del Sur Global atravesando ambas. [[aied-carbon-footprint-reporting|El reporte de huella de carbono en AIED]] revisa la práctica de divulgación de 2025 y aporta un método de código abierto para la segunda mitad, mientras que [[ai-assisted-inquiry-ssi-climate|la indagación climática asistida por IA]] informa de d = 0,69 sobre la indagación sola para la primera.
+
+- **En psicología, como implementación curso a curso.** [[integrating-generative-ai-in-psychology-courses|Integrar la IA generativa en los cursos de psicología]] reúne veintiún relatos de la Society for the Teaching of Psychology, organizados por el curso impartido a lo largo de vertientes fundamentales, clínicas y de estadística ([[psychology-education|educación en psicología]]). Sus capítulos son informes de profesionales y no estudios, así que aportan detalle de diseño en lugar de evidencia de resultados, pero el conjunto gana con ellos su primer relato sobre la enseñanza de una disciplina a escala de currículo.
 
 ## La brecha de medición
 

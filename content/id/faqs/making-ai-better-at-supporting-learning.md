@@ -40,7 +40,7 @@ Pelatihan itu nyata dan kadang diperlukan. Ia adalah hal ketiga atau keempat yan
 
 **2.** Tempatkan pengambilan atas materi Anda sendiri di depan model. Itu adalah perolehan tunggal terbesar yang dilaporkan di sini untuk biayanya, dan ia dapat dibalik.
 
-**3.** Rekayasa prompt terhadap rubrik Anda dan iterasi sampai perbaikannya berhenti. Plato adalah sinyal bahwa pelatihan mungkin menambahkan sesuatu.
+**3.** Rekayasa prompt terhadap [[rubrics|rubrik]] Anda dan iterasi sampai perbaikannya berhenti. Plato adalah sinyal bahwa pelatihan mungkin menambahkan sesuatu.
 
 **4.** Adaptasi bobot dengan [[llm-training-and-fine-tuning|LoRA]] ketika sasarannya stabil dan sempit: sebuah format, sebuah rubrik, sebuah tingkat baca, sebuah kosakata domain.
 

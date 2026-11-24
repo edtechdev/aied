@@ -9,7 +9,7 @@ assessment: [assessment]
 updated: "2026-11-15T15:59:02-05:00"
 type: faq
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -143,7 +143,7 @@ Kotak centang adalah deklarasi. Kotak centang mencatat bahwa seorang mahasiswa m
 
 ## Apa yang akan kembali kepada Anda
 
-**“Saya tidak punya waktu merombak satu mata kuliah semester ini.”** Jangan rombak mata kuliahnya. Rombak satu tugas: satu langkah tanpa bantuan, satu baris rubrik dengan poin. Itu perubahan dua jam, dan itulah perubahan yang disoroti tinjauan 72 studi.
+**“Saya tidak punya waktu merombak satu mata kuliah semester ini.”** Jangan rombak mata kuliahnya. Rombak satu tugas: satu langkah tanpa bantuan, satu baris [[rubrics|rubrik]] dengan poin. Itu perubahan dua jam, dan itulah perubahan yang disoroti tinjauan 72 studi.
 
 **“Pertahanan lisan mustahil dengan 300 mahasiswa.”** Maka jangan jalankan 300 pertahanan lisan. Beri bobot pada komponen buku tertutup, wajibkan artefak proses, dan ambil sampel pemeriksaan lisan pada pengumpulan yang tampak tidak konsisten dengan pekerjaan sebelumnya. Tiga ratus mahasiswa tidak memerlukan 300 percakapan untuk mengubah kalkulasinya.
 

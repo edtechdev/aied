@@ -1,7 +1,7 @@
 ---
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
-title: الترميز الحدسي
-created: "2026-10-12T17:00:00-04:00"
+title: "الترميز الحدسي"
+created: "2026-09-08T01:30:00-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -9,26 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:43:11-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
-    role: translation
-    date: "2026-10-12"
-    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-30"
+    date: "2026-11-24"
     agent: hermes-agent
-  - model: meituan/longcat-2.5:free
-    role: translation
-    date: "2026-11-22"
-    agent: hermes-agent
-connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -60,6 +52,14 @@ connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-
 ## الترميز الحدسي كتطوير من قبل المستخدم النهائي وأدوات للمعلّم
 
 وأحد الوعود الكبرى للترميز الحدسي هو أنه يُتيح لغير المبرمجين — بما فيهم [[teacher-role|المعلّمون]] وخبراء المجال — بناء برمجياتهم الخاصة، وهو شكلٌ من أشكال التطوير من قبل المستخدم النهائي في عصر النماذج اللغوية الكبيرة. وقد أظهرت [[gaide-vibe-coding-k12-teachers|دراسة إطار GAIDE]] [[k-12|معلّمين في التعليم ما قبل الجامعي]] (غير مبرمجين) يستخدمون الترميز الحدسي في ورشة عمل على مدى ثمانية أسابيع لإنشاء أدوات تعلّم مدفوعة بالذكاء الاصطناعي، رافعين [[ai-literacy|ثقافتهم بالذكاء الاصطناعي]] ومُظهرين «التعلّم بالإنشاء» كنموذج تطوير مهني. وفي [[higher-ed|التعليم العالي]]، بنى معلّم سريعًا [[vibe-coding-programming-process-visualizer|مُمثِّلًا مرئيًا لعملية البرمجة من سجلات نشاط بيئة التطوير المتكاملة]] بالترميز الحدسي في غضون أيام، مُجريًا عمليات برمجة الطلاب مرئيةً لأغراض التدريس ومراجعة [[academic-integrity|النزاهة الأكاديمية]]. وهذه الحالات تضع الترميز الحدسي لا مجرّد مهارةً للمتعلّم بل كقدرة تأليف تُعيد [[educational-development|تشكيلَ من يستطيع إنشاء التقنيات التعليمية]].
+
+وطلبت دراسة مقارنة قائمة على التفكير بصوتٍ عالٍ من 15 معلّمًا قبل الخدمة و13 معلّمًا في الخدمة و10 خبراء في الترميز أن يبنوا تطبيقَ ويبٍّ تعليمي في 30 دقيقة، ثم تتبّعت كيف تدبّرت كلُّ مجموعة حالةَ عدم اليقين ([[lin-teacher-vibe-coding-uncertainty-2026|Lin and Zou, 2026]]). وقد مرّت المجموعات الثلاث جميعُها بحلقة تأطير المشكلة ثم التطوير ثم التحقّق، لكنها خفّفت حالةَ عدم اليقين بطرقٍ مختلفة، فتباينت قطعُها الفنية وفق ذلك.
+
+- **أتمت المعلّمون في الخدمة إجراءاتٍ كانوا يعرفونها بالفعل.** فقد كان فحصُ القراءة الأسبوعي وأوراقُ عمل الأجهزة اللوحية مشكلاتٍ مألوفة، ولذلك استبدلت قطعُهم الفنية الممارسةَ القائمة في الغالب: إذ وقع 8 من 13 منها تحت بند الاستبدال.
+- **صياغة المعلّمين قبل الخدمة انطلقت من مبادئ تربوية.** فغالبًا ما كانت مشاريعُهم تبني شيئًا جديدًا، مع تعزيزٍ في 9 من 15 حالةً وتحويلٍ في حالةٍ واحدة.
+- **عمل الخبراء بمنطقٍ بنائيّ لا بزيادة جهد المطالبة.** فنفّذوا مجسّاتِ قدراتٍ ضيّقة، وسألوا النموذجَ أسئلةً استيضاحية، وفكّكوا القطعةَ الفنية إلى وحداتٍ قابلةٍ للاختبار، وأتمتوا عمليّاتِ التحقّق.
+
+إن هذا الاختلاف يعكس قاعدةَ المعارف التي جاءت بها كلُّ مجموعة، لا نقصًا في المهارة. ولهذا يُجادل المؤلفان بأن إعداد المعلّمين ينبغي أن يدمج الخبرةَ التربوية والسياقية والتقنية بدل الاكتفاء بتدريب مهارة صياغة المطالبات.
 
 **التأليف حركةُ تقويم، لا مجرّد قصةِ وصول.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] يخلص إلى النتيجة: إن لم تعد القطع الفنية تدلّ على التفكير الذي أُريد استدعاؤه، وجب على التقويم أن يلتقط العملية، وأدلة العملية تحتاج ملاحظةً ممتدةً لا يستطيع الطاقم المحدود توفيرها. فالأداة التي يبنيها المعلّم يمكن أن تحمل القرارات التربوية والسقالات والتشجيع التي لن تحمله منتجات مشتراة، وهو ما يُعيد حكمَ التصميم إلى المعلّم الذي يُقيّم التعلّم.
 

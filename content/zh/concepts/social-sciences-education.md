@@ -17,7 +17,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 connected_concepts: [discipline-specific-aied, humanities-education, stem-education, business-education, civic-and-political-education, environmental-education, assessment-validity, research-methods-aied]
 connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-civic-literacy-2026, csaszar-ai-management-education-2026, espino-ai-business-education-review-2026, drummond-genai-business-schools-framework-2026, mesny-innovative-assessment-grading-management-2026, automated-scoring-marketing-posts-agreement-2026, daniel-ai-sustainability-scoping-review-2026, aied-carbon-footprint-reporting, ai-assisted-inquiry-ssi-climate, hawkins-feedback-literacy-ai-essay-writing, critical-genai-use-predictors, student-genai-use-views-writing, wells-genai-research-assistant-sociology-2026, farazouli-navigating-uncertainty-teachers-genai-2026, richmond-nicholls-genai-psych-feedback-ai-literacies, ai-tutor-statistical-programming-adoption-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, adaptive-virtual-patient-psychotherapy-training, burke-ai-proliferation-college-students-replication-2026, baudin-ai-generated-mcq-psychology-exams-2025, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, dixon-buchmann-llm-reliability-sociology-quiz-2026, malik-chatgpt-cognitive-tool-sociology-writing-2025, garcia-alonso-chatgpt-acceptance-social-science-students-2024]
@@ -49,6 +49,8 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 - **在管理中，作为一个课程问题。** [[csaszar-ai-management-education-2026|Csaszar 等（2026）]]通过基于价值的战略视角分析 AI 如何改变管理教育的目的，追问这项技术替代了哪些活动、补足了哪些活动。[[espino-ai-business-education-review-2026|Espino 与 Espino（2026）]]梳理了这一问题之前十年的工作，而 [[drummond-genai-business-schools-framework-2026|Drummond 与 Dale（2026）]]构建了一个由学生参与形成的框架，说明商学院应当如何应对。
 - **在管理中，作为一个评分问题。** [[mesny-innovative-assessment-grading-management-2026|Mesny（2026）]]把评估设计而非课程大纲视为变革发生之处。[[automated-scoring-marketing-posts-agreement-2026|对学生营销帖子的自动评分]]直接测量一致性与误差，这是该集群版本的[[assessment-validity|效度]]问题：一个与人类评分者一致的分数，未必是一个测量了预期学习的分数。
 - **在环境研究中，作为一个双重主题。** [[daniel-ai-sustainability-scoping-review-2026|Daniel（2026）]]把服务于可持续性的 AI 与可持续的 AI 区分开来，并发现全球南方的缺口贯穿两者。[[aied-carbon-footprint-reporting|AIED 中的碳足迹报告]]综述了 2025 年的披露实践，并为后半部分提供了开源方法；而 [[ai-assisted-inquiry-ssi-climate|AI 辅助的气候探究]]报告了相对于单纯探究的 d = 0.69，对应前半部分。
+
+- **在心理学中，作为逐门课程的落地实践。** [[integrating-generative-ai-in-psychology-courses|在心理学课程中整合生成式 AI]]汇集了美国心理教学学会（Society for the Teaching of Psychology）的二十一篇记述，按基础、临床与统计各方向所授课程编排（[[psychology-education|心理学教育]]）。这些章节是从业者的报告而非研究，因此承载的是设计细节而非结果证据；但本集群由此获得首个以课程规模记述单一学科教学的文本。
 
 ## 测量缺口
 

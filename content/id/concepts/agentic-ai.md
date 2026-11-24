@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: "concepts/agentic-ai"
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T01:20:00-05:00"
 updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
@@ -68,6 +68,12 @@ Sebuah pembeda yang dikerjakan membuat garis itu konkret. Chatbot FAQ statis yan
 ## Bidang ini: ekspansi cepat dan bentuknya saat ini
 
 [[agentic-ai-education-scoping-review|Tinjauan cakupan]] dalam basis pengetahuan ini, sintesis paling menyeluruh atas bidang tersebut sampai saat ini, yang memetakan **474 studi (2020-2026)**, mendokumentasikan bidang yang tumbuh **meledak sejak 2025**, tetapi yang literaturnya masih didominasi makalah konferensi yang terkonsentrasi di [[higher-ed|pendidikan tinggi]], [[stem-education|disiplin STEM]], dan skenario tutoring berbasis teks. Tinjauan itu menganalisis karakteristik publikasi, desain studi, peran agen, model dan arsitektur AI, enam dimensi kemampuan agensik, dan sejauh mana integrasi teori pendidikan dilakukan, sehingga menyediakan peta jalan bagi batas depan dan celah bidang tersebut. Menarik, hanya **29% studi yang ditinjau** (138 dari 474) yang secara eksplisit mendasarkan sistemnya pada teori pendidikan, sehingga menyingkap pemisahan disipliner antara kerja yang berorientasi teknis dan yang berorientasi pedagogis.
+
+Tinjauan sistematis kedua mengaudit logika desain dan kualitas bukti bidang tersebut. [[raman-agentic-ai-design-logic-evidence-theory-2026|Raman dkk. (2026)]] mengode 170 makalah primer dari judul dan abstrak Scopus (2022–2026) pada 23 dimensi desain.
+
+- **Teori dan otonomi tidak dilaporkan.** 90.0% tidak memakai [[learning-theories|teori pembelajaran]], dan 57.1% membiarkan otonomi agen tidak ditentukan. Di mana otonomi dinyatakan, 25.9% menjalankan agen semi-otonom, 14.1% agen sepenuhnya otonom, dan 2.9% agen yang diawasi.
+- **Peran dibundel tanpa argumen pedagogis.** 43.5% menugaskan satu agen dengan beberapa peran tanpa justifikasi, sementara penilaian adalah peran tunggal yang paling umum (22.4%). Menangani beberapa masalah memprediksi beberapa peran (OR = 3.06, 95% CI 1.48-6.03, p = 0.010).
+- **Basis bukti tidak dapat memikul klaim efektivitas.** Hanya 11.2% yang memakai kelompok pembanding, dan 5 makalah (2.9%) memenuhi kriteria bukti kuat tinjauan itu.
 
 ## Peta bidang berdasarkan peran
 

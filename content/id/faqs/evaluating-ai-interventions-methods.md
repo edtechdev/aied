@@ -54,7 +54,7 @@ Mode kegagalan itu mudah direproduksi. [[generative-ai|Alat serba guna]] yang di
 
 Sintesis [[ai-ed-evaluation|Evaluasi AI Ed]] merekomendasikan perolehan belajar tanpa bantuan, retensi tertunda, transfer ke tugas baru, kualitas penalaran, [[misconceptions|miskonsepsi]], penyerapan umpan balik, dan kinerja subkelompok. Keterlibatan, kepuasan, log penggunaan AI, [[self-efficacy|efikasi diri]], dan [[technology-acceptance-model|persepsi kebermanfaatan]] adalah ukuran sekunder yang wajar dan pengganti yang buruk bagi pembelajaran. Beban kerja dan penghematan waktu termasuk hasil implementasi, pertanyaan yang berbeda.
 
-Minimum pada skala kelas adalah pengukuran dasar, intervensi, pengukuran pasca segera, dan ukuran lanjutan tanpa bantuan. Tambahkan kondisi pembanding bila Anda dapat: praktik yang sudah ada, tanpa AI, AI tanpa batas melawan AI dengan perancah, atau dua desain alternatif. Nilai kinerja berbantuan dan tanpa bantuan dengan instrumen terpisah, karena satu rubrik akan mencampurkannya.
+Minimum pada skala kelas adalah pengukuran dasar, intervensi, pengukuran pasca segera, dan ukuran lanjutan tanpa bantuan. Tambahkan kondisi pembanding bila Anda dapat: praktik yang sudah ada, tanpa AI, AI tanpa batas melawan AI dengan perancah, atau dua desain alternatif. Nilai kinerja berbantuan dan tanpa bantuan dengan instrumen terpisah, karena satu [[rubrics|rubrik]] akan mencampurkannya.
 
 ## Bacalah setiap angka sebagai hipotesis
 

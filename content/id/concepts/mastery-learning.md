@@ -8,7 +8,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-11-13T13:20:00-05:00"
 translation_of: "concepts/mastery-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ Akhirnya, bukti memperingatkan agar tidak mengasumsikan dukungan yang dihasilkan
 
 - **Pembelajaran penguasaan dengan kendali bersama hanya seefisien strategi pemilihan tugas siswa.** Studi simulasi (1,000 [[simulating-students|siswa tersimulasi]] per jalannya, parameter AFM dan BKT dicocokkan pada log MathTutor dan DataShop nyata) membandingkan sembilan strategi pemilihan tugas. Efisiensinya bervariasi satu orde besaran: strategi penghindar risiko "Minimize Worst Case Loss" — memilih keterampilan yang kehilangan penguasaan kasus terburuknya paling kecil — menghasilkan latihan berlebih 30.28x dalam penyelesaian persamaan (28.93x dalam interpretasi grafik), dibandingkan 1.73 +/- 0.38 rata-rata untuk strategi lain. Kendala sistem yang tertarget menyelamatkannya secara bedah: kendala pemilihan tugas memangkas latihan berlebih menjadi 12.88/14.46x, dan bias "Prefer Harder" pada pemilihan soal memangkasnya menjadi 1.98x (Cohen's d = 1.86) — sementara strategi yang sudah efisien tidak terpengaruh. Implikasi desainnya: kendala harus sadar strategi, melindungi pengatur diri yang patologis tanpa membebani yang baik, dan desain ulang berbasis simulasi lebih dulu menghindari mengekspos siswa pada latihan berlebih 30x untuk menemukan perbaikannya. ([[simulating-learner-task-selection]])
 
-Penilaian berbasis standar adalah padanan penilaian dari pembelajaran penguasaan, dan [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] mengidentifikasinya di antara lima praktik inovatif yang selaras dengan "penilaian untuk pembelajaran" yang dapat diadopsi pendidik pendidikan tinggi — tetapi mereka menemukannya nyaris absen dari wacana pendidikan manajemen. Mereka mengatributkannya pada hambatan normatif: "penilaian pada kurva" yang berujuk norma, pensinyalan eksternal (peringkat, magang, akreditasi), dan pola pikir instrumental siswa semuanya menolak pendekatan berorientasi penguasaan tanpa nilai. Rekomendasi mereka adalah eksperimentasi bertahap — misalnya memperkenalkan rubrik berbasis standar untuk satu tugas sebelum diskalakan — didukung koordinasi tingkat program dan bukti Scholarship of [[teacher-role|Teaching]] and Learning yang terdokumentasi.
+Penilaian berbasis standar adalah padanan penilaian dari pembelajaran penguasaan, dan [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] mengidentifikasinya di antara lima praktik inovatif yang selaras dengan "penilaian untuk pembelajaran" yang dapat diadopsi pendidik pendidikan tinggi — tetapi mereka menemukannya nyaris absen dari wacana pendidikan manajemen. Mereka mengatributkannya pada hambatan normatif: "penilaian pada kurva" yang berujuk norma, pensinyalan eksternal (peringkat, magang, akreditasi), dan pola pikir instrumental siswa semuanya menolak pendekatan berorientasi penguasaan tanpa nilai. Rekomendasi mereka adalah eksperimentasi bertahap — misalnya memperkenalkan [[rubrics|rubrik]] berbasis standar untuk satu tugas sebelum diskalakan — didukung koordinasi tingkat program dan bukti Scholarship of [[teacher-role|Teaching]] and Learning yang terdokumentasi.
 
 ## Miskonsepsi Umum
 

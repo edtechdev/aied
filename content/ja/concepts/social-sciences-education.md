@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 - **経営分野では、カリキュラムの問いとして。** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]]は価値ベース戦略のレンズを通じて、AIが経営教育の目的をどう変えるかを分析し、この技術がどの活動を代替し、どの活動を補完するのかを問う。[[espino-ai-business-education-review-2026|Espino & Espino (2026)]]はその問いに先立つ10年分の研究を整理し、[[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]]は学校がどう対応すべきかについて学生の知見に基づく枠組みを構築する。
 - **経営分野では、採点の問題として。** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]]はシラバスではなく評価設計を変革の場として扱う。[[automated-scoring-marketing-posts-agreement-2026|学生のマーケティング投稿の自動採点]]は一致度と誤差を直接測定しており、これは本クラスタにおける[[assessment-validity|妥当性]]の問いの変種である。人間の採点者と一致する評点が、必ずしも意図した学習を測る評点とは限らない。
 - **環境研究では、二重の主題として。** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]]はサステナビリティの*ための*AIと持続可能なAIを区別し、グローバルサウスのギャップがその両方を貫いていることを見いだす。[[aied-carbon-footprint-reporting|AIEDにおけるカーボンフットプリント報告]]は2025年の開示実務をレビューし、後半についてオープンソースの方法を提供する。一方[[ai-assisted-inquiry-ssi-climate|AI支援の気候探究]]は、前半について探究のみの場合に対しd = 0.69を報告している。
+
+- **心理学では、授業ごとの実践として。** [[integrating-generative-ai-in-psychology-courses|心理学の授業への生成AIの統合]]はSociety for the Teaching of Psychologyからの21本の記録を集め、基礎・臨床・統計の各系列で教えられる授業ごとに編成している（[[psychology-education|心理学教育]]）。その各章は研究ではなく実践者の報告であり、結果の証拠ではなく設計の詳細を運ぶが、このクラスタは一つの学問の教育についてカリキュラム規模の最初の記録を得る。
 
 ## 測定のギャップ
 

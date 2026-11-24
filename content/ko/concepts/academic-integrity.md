@@ -9,9 +9,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook, designing-university-assessment-ai-2027]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -134,6 +134,8 @@ Benau (2026)는 반대 방향에서 같은 경계에 도달합니다. 학문적 
 - **[[reducing-ai-misuse|오남용 줄이기]]:** 진실성은 [[ai-misuse-learning-harm|AI 오용의 학습 피해]](오남용의 학습 대가)과 [[reducing-ai-misuse|AI 오용 줄이기]](그것을 막는 개입)과 나란히 자리하며, 정직을 규칙 준수가 아니라 진정한 학습에 묶습니다.
 - **예의가 아니라 진실성 전략으로서의 투명성:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle의 (2025)]] 설계 사례는 허용되거나 허용되지 않는 생성형 AI 사용 각각에 대한 *근거*를 그 자체로 진실성 메커니즘으로 다룹니다. 금지 정책을 무시한 뒤 인터뷰된 학생들은 자신을 부정직하게 행동한다고 보지 않았다고 설명했으며, 이것은 실패를 불준수가 아니라 모호성으로 재규정합니다 — 따라서 그 재설계는 모든 제한을 그것이 보호하는 특정 [[assessment|평가]]에 의해 정당화하고, 확고한 소수가 아니라 McCabe의 "20-60-20" 설득 가능한 중간층을 위해 설계함으로써 그 문제에 답했습니다. 그 사례는 또한 모호한 정책의 형평성 대가를 지목합니다. 불분명하고 교수마다 고르지 않은 기대가 바로 정책의 실패를 징계 행위로 전환하는 것입니다([[equity-in-ai-education|형평성]]).
 - **탐지가 아닌 설계: 보훔 사례.** Ruhr University Bochum의 입문 핵물리학과 입자 [[physics-education|물리학]] 재설계([[ai-particle-physics-education-redesign-2026|Mikhasenko 외, 2026]])는 AI 정책을 탐지가 아니라 실제적인 진실성 실패에 연결했습니다. 튜토리얼 문제가 사전에 공개되었기 때문에, 어떤 학생들은 AI가 생성한 해법을 준비하여 의도된 추론에 관여하지 않은 채 칠판에 베껴 썼던 것입니다. 저자들은 이를 단속 문제가 아니라 설계 문제로 다룹니다 — 튜토리얼 문제를 사전 준비된 수업 내 토론으로 옮기고, 서술형 시험을 성적 결정 요인으로 만드는 것 — 동시에 학습에서의 AI 사용을 명시적으로 허용하고, 검증이 학생의 책임인 이유를 설명하며, 개방형 AI 허용 과제가 또한 의존성, 유료 모형에 대한 불균등한 접근, 조교 업무량을 높였다는 점도 지적합니다.
+
+- **귀속을 인용 준수와 분리하다.** [[designing-university-assessment-ai-2027|대학 평가 설계(2027)]]는 상업적 출판 시스템과 얽혀 있는 기술적 요구사항인 참조 표기를, 사고의 한 부분을 형성한 사람과 무엇을 인정하는 태도인 귀속과 구별합니다. 그 설계적 결과는 스타일 가이드의 사소한 사항으로 감점하지 않고, 학생이 자신의 지적 계보를 밝히도록 하며, 통제를 모델과 공유하더라도 진실성의 책임은 학생에게 두는 것입니다.
 
 - **독립적 검증, 그리고 그것이 겨냥하는 의존.** Ragab (2026)은 다섯 층 모형 — 인간 검토를 동반한 책임 있는 [[educational-policy-ai|정책]], [[authentic-assessment|진정한 평가]], 독립적 역량 검증, 감독되는 연례 및 졸업 평가 — 을 제안하며, 탐지가 그 부담을 질 수 없다는 논거를 폅니다([[ragab-ai-integrity-verification-model-2026|Ragab, 2026]]). 그런 설계가 겨냥하는 지렛대는 경험적입니다. 중국 학부생 1,045명 가운데 부정직과의 연관을 지닌 것은 기회나 낮은 역량이 아니라 [[generative-ai|생성형 AI]]에 대한 의존이었고(β = 0.63), 느껴지는 [[agency|주체성]]은 그것과 정적으로 함께 움직였습니다. 통제감이야말로 그것이 억제하려던 위임을 허가했기 때문입니다([[dai-genai-academic-dishonesty-2026|Dai 외, 2026]]).
 - **교수자 자신의 웰빙도 그림의 일부입니다.** r/Professors의 2,000개 게시물 표본에서 [[mohammadi-instructors-cheating-forum-2026|Mohammadi 외(2026)]]는 학습 보호, 자기 보호, 진실성과 형평성 수호라는 세 가지 동기와, 평가 재설계에서 감시에 이르는 전략군을 목록화합니다.

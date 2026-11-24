@@ -1,8 +1,7 @@
 ---
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
-title: Vibe-Coding
+title: "Vibe-Coding"
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-19T03:30:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,21 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:43:11-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
-    role: translation
-    date: "2026-10-10"
-    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-30"
+    date: "2026-11-24"
     agent: hermes-agent
-connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -56,6 +52,14 @@ Eine vorregistrierte Querschnittstudie (N = 100 Studierende im Tertiärbereich) 
 ## Vibe Coding als End-User-Development und Werkzeug für Lehrkräfte
 
 Ein großes Versprechen von Vibe Coding ist, dass es Nichtprogrammierenden — einschließlich [[teacher-role|Lehrkräften]] und Domänenexpertinnen und -experten — erlaubt, eigene Software zu bauen, eine Form von End-User-Development im LLM-Zeitalter. Eine [[gaide-vibe-coding-k12-teachers|GAIDE-Rahmenwerk-Studie]] zeigte [[k-12|K-12]]-Lehrkräfte (Nichtprogrammierende), die Vibe Coding in einem achtwöchigen Workshop nutzten, um KI-gestützte Lernwerkzeuge zu bauen, und dabei ihre [[ai-literacy|KI-Kompetenz]] erhöhten sowie „Lernen durch Erschaffen“ als Modell der Professionalisierung demonstrierten. In der [[higher-ed|Hochschulbildung]] baute eine Lehrkraft in wenigen Tagen per Vibe Coding einen [[vibe-coding-programming-process-visualizer|Programmierprozess-Visualisierer aus IDE-Aktivitätslogs]], der die Programmierprozesse der Studierenden für Lehren und [[academic-integrity|Prüfung]] sichtbar machte. Diese Fälle positionieren Vibe Coding nicht bloß als Fähigkeit der Lernenden, sondern als Autorenfähigkeit, die [[educational-development|neu formt, wer Bildungstechnologie erschaffen kann]].
+
+Eine vergleichende Think-aloud-Studie bat 15 angehende Lehrkräfte, 13 Lehrkräfte im Schuldienst und 10 Programmierexpertinnen und -experten, in 30 Minuten eine Web-App für den Unterricht zu bauen, und zeichnete nach, wie jede Gruppe mit Unsicherheit umging ([[lin-teacher-vibe-coding-uncertainty-2026|Lin und Zou, 2026]]). Alle drei Gruppen durchliefen Problemrahmung, Entwicklung und Verifikation in Schleifen, doch sie reduzierten Unsicherheit unterschiedlich, und ihre Artefakte wichen entsprechend voneinander ab.
+
+- **Lehrkräfte im Schuldienst automatisierten Routinen, die sie bereits kannten.** Wöchentliche Lesekontrollen und Tablett-Arbeitsblätter waren vertraute Probleme, sodass ihre Artefakte meist bestehende Praxis ersetzten: 8 von 13 fielen unter Ersetzung.
+- **Angehende Lehrkräfte rahmten über pädagogische Prinzipien.** Ihre Projekte bauten häufig etwas Neues, mit Amplifikation in 9 von 15 Fällen und Transformation in 1.
+- **Expertinnen und Experten arbeiteten strukturell, statt härter zu prompten.** Sie führten schmale Fähigkeitssondierungen durch, fragten das Modell nach klärenden Fragen, zerlegten das Artefakt in testbare Module und automatisierten Prüfungen.
+
+Dieser Unterschied spiegelt die Wissensbasis wider, die jede Gruppe einbrachte, keinen Fähigkeitsdefizit. Die Autoren argumentieren daher, dass die Lehrkräftebildung pädagogische, kontextuelle und technische Expertise integrieren sollte, anstatt Prompting-Fähigkeit allein zu trainieren.
 
 **Autorenschaft ist ein Schritt der Leistungsbewertung, nicht nur eine Frage des Zugangs.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] zieht die Konsequenz: Wenn Artefakte das Denken, das sie hervorrufen sollten, nicht mehr belegen, muss die Bewertung den Prozess erfassen, und Prozessbelege erfordern eine längere Beobachtung, die eine knappe Personalausstattung nicht leisten kann. Ein von einer Lehrkraft selbst gebautes Werkzeug kann die pädagogischen Entscheidungen, das Scaffolding und die Ermutigung tragen, die ein gekauftes Produkt nicht bietet — das gibt die Gestaltungsentscheidung an die Lehrkraft zurück, die das Lernen beurteilt.
 

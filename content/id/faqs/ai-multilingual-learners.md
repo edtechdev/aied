@@ -116,7 +116,7 @@ Sediakan alternatif yang dapat dijalankan. Siswa membutuhkan jalur yang jelas me
 
 **4.** Tambahkan satu pemeriksaan yang mencatat makna atau keputusan siswa sendiri, misalnya catatan dua kalimat tentang perubahan yang mereka terima atau tolak.
 
-**5.** Jika rubrik Anda menilai [[writing-education|kualitas tulisan]], pisahkan kriteria itu dari kriteria konseptual dan baca ulang dua kiriman dari masing-masing dengan pemisahan itu dalam pikiran.
+**5.** Jika [[rubrics|rubrik]] Anda menilai [[writing-education|kualitas tulisan]], pisahkan kriteria itu dari kriteria konseptual dan baca ulang dua kiriman dari masing-masing dengan pemisahan itu dalam pikiran.
 
 ## Ke mana selanjutnya
 

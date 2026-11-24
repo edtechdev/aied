@@ -7,7 +7,7 @@ confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/mixed-methods-research"
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Di seluruh 394 studi [[generative-ai|GenAI]] pendidikan tinggi, metode campuran 
 - **Melengkapi data hasil dengan pengalaman.** [[hazra-safetutors-pedagogical-safety-2026|Keamanan tutor AI]] memasangkan indikator kerugian kuantitatif dengan catatan kualitatif tentang kerugian [[pedagogy|pedagogis]]; [[t2i-competence-paradox-2026]] memasangkan hasil survei kuantitatif dengan catatan kualitatif negosiasi identitas.
 - **Integrasi tanpa penggabungan.** [[wang-reflective-ai-use-engagement-programming-2026|Wang dan Zhao (2026)]] mengoordinasikan survei (N = 131), pengodean manusia atas 66 teks Keterlibatan Kritis, dan log pemrograman (N = 1,423) yang berasal dari sampel berbeda dan tidak pernah digabung, memberikan cabang jejak bebas AI peran uji batas alih-alih peran konfirmatori — setiap jalur diberi tugas inferensial yang berbeda alih-alih dilaporkan berdampingan.
 - **Desain dan evaluasi.** [[genai-feedback-design-multisite-experiment|Eksperimen multisitus tentang desain umpan balik GenAI]] menggabungkan pengukuran hasil eksperimental dengan umpan balik kualitatif dari pembelajar, mengintegrasikan estimasi efek kuantitatif dengan panduan desain.
-- **Bukti proses di dalam uji coba besar.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] memasangkan observasi sistem dan diskusi dengan [[administrator|administrator]] terhadap evaluasi teracak empat tahun atas 8,708 siswa di delapan semester, yang berdaya untuk mendeteksi efek 0.05 simpangan baku, sehingga studi yang sama menjelaskan kondisi organisasi yang mempertahankan program [[conversational-ai|chatbot]] dan melaporkan nol yang berbatas ketat pada IPK dan persistensi.
+- **Bukti proses di dalam uji coba besar.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] memasangkan observasi sistem dan diskusi dengan administrator terhadap evaluasi teracak empat tahun atas 8,708 siswa di delapan semester, yang berdaya untuk mendeteksi efek 0.05 simpangan baku, sehingga studi yang sama menjelaskan kondisi organisasi yang mempertahankan program [[conversational-ai|chatbot]] dan melaporkan nol yang berbatas ketat pada IPK dan persistensi.
 
 - **Melakukan triangulasi atas fenomena kebijakan.** Studi tentang penundaan privasi siswa dalam EdTech memasangkan dua belas wawancara semiterstruktur dengan audit dokumen 48 platform yang dinilai dua pengode untuk keandalan antar-penilai (rata-rata Cohen's κ = 0.781), menggunakan wawancara untuk menjelaskan mengapa privasi ditunda dan audit untuk menunjukkan pola pengungkapan yang dihasilkan penundaan itu — desain konvergen di mana tidak ada jalur yang sendirian dapat mendukung klaim tersebut ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
@@ -70,5 +70,7 @@ Metode campuran berada di antara tradisi [[quantitative-research|kuantitatif]] d
 ## Miskonsepsi Umum
 
 - **"Metode campuran adalah pilihan niche dalam penelitian pendidikan AI."** Di seluruh **394 studi GenAI pendidikan tinggi**, metode campuran adalah **desain penelitian paling umum (213 studi, 54%)**, diikuti kuantitatif (109, 28%) dan kualitatif (72, 18%). Desain dominan bidang ini bukanlah desain yang diasumsikan oleh debat metodologisnya.
-- **"Bukti observasional dan wawancara dapat menopang klaim tentang sistem."** Memasangkan observasi sistem dan diskusi administrator terhadap **evaluasi teracak empat tahun atas 8,708 siswa di delapan semester**, yang berdaya mendeteksi efek **0.05 simpangan baku**, menunjukkan apa yang tidak dapat dilakukan jalur kualitatif sendiri: mendeteksi efek kecil secara andal. Mencampur metode bukan cara memindahkan daya antarjalur.
+- **"Bukti observasional dan wawancara dapat menopang klaim tentang sistem."** Memasangkan observasi sistem dan diskusi [[administrator|administrator]] terhadap **evaluasi teracak empat tahun atas 8,708 siswa di delapan semester**, yang berdaya mendeteksi efek **0.05 simpangan baku**, menunjukkan apa yang tidak dapat dilakukan jalur kualitatif sendiri: mendeteksi efek kecil secara andal. Mencampur metode bukan cara memindahkan daya antarjalur.
 - **"Triangulasi berarti dua metode lemah menghasilkan klaim kuat."** Nilai pemasangan itu adalah bahwa setiap jalur menjawab pertanyaan berbeda. Desain yang menjalankan keduanya lalu melaporkan temuan kualitatif sebagai konfirmasi atas temuan kuantitatif belum melakukan triangulasi, melainkan hanya mengulang.
+
+- **Konvergensi dapat menjadi aturan penerimaan, bukan narasi.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] menghitung suatu prioritas desain ulang hanya ketika muncul dalam setidaknya dua dari lima sumber independen dan dalam satu sumber yang menghadap pelaksanaan, sehingga persepsi saja tidak dapat mempromosikannya.

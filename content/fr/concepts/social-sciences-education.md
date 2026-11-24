@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ La variation interne du groupe est grande, et la littérature la suit. L'enseign
 - **En gestion, comme question curriculaire.** [[csaszar-ai-management-education-2026|Csaszar et coll. (2026)]] analysent comment l'IA change la finalité de l'enseignement de la gestion à travers une lentille de stratégie fondée sur la valeur, en demandant quelles activités la technologie substitue et lesquelles elle complète. [[espino-ai-business-education-review-2026|Espino et Espino (2026)]] couvrent la décennie de travaux qui a précédé cette question, et [[drummond-genai-business-schools-framework-2026|Drummond et Dale (2026)]] construisent un cadre informé par les étudiants sur la manière dont les écoles devraient répondre.
 - **En gestion, comme problème de notation.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] traite la conception de l'évaluation comme le lieu du changement plutôt que le syllabus. La [[automated-scoring-marketing-posts-agreement-2026|notation automatisée de publications marketing d'étudiants]] mesure l'accord et l'erreur directement, ce qui est la version propre au groupe de la question de la [[assessment-validity|validité]] : une note qui concorde avec un correcteur humain n'est pas nécessairement une note qui mesure l'apprentissage visé.
 - **En études environnementales, comme double sujet.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] sépare l'IA *pour* la durabilité de l'IA durable, et constate que l'écart du Sud global traverse les deux. Le [[aied-carbon-footprint-reporting|rapportage de l'empreinte carbone en IA en éducation]] passe en revue les pratiques de divulgation de 2025 et fournit une méthode libre pour la seconde moitié, tandis que l'[[ai-assisted-inquiry-ssi-climate|investigation climatique assistée par IA]] rapporte d = 0,69 sur l'investigation seule pour la première.
+
+- **En psychologie, comme mise en œuvre cours par cours.** [[integrating-generative-ai-in-psychology-courses|Intégrer l'IA générative dans les cours de psychologie]] rassemble vingt et un récits de la Society for the Teaching of Psychology, organisés par le cours enseigné à travers les volets fondamental, clinique et statistique ([[psychology-education|enseignement de la psychologie]]). Ses chapitres sont des comptes rendus de praticiens plutôt que des études : ils portent donc du détail de conception plutôt que des preuves de résultat, mais le groupe y gagne son premier récit sur l'enseignement d'une discipline à l'échelle du curriculum.
 
 ## Le déficit de mesure
 

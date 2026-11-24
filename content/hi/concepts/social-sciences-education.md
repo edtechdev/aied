@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 - **प्रबंधन में, पाठ्यक्रम-प्रश्न के रूप में।** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] मूल्य-आधारित रणनीति-दृष्टिकोण से विश्लेषण करते हैं कि AI प्रबंधन शिक्षा के उद्देश्य को कैसे बदलता है, यह पूछते हुए कि तकनीक कौन-सी गतिविधियों की जगह लेती है और किनकी पूरक। [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] उस प्रश्न से पहले के दशक के कार्य को कवर करते हैं, और [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] स्कूलों को कैसे प्रतिक्रिया देनी चाहिए इस पर विद्यार्थी-सूचित फ्रेम बनाते हैं।
 - **प्रबंधन में, ग्रेडिंग-समस्या के रूप में।** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] मूल्यांकन-डिज़ाइन को सिलेबस के बजाय परिवर्तन के स्थल के रूप में मानते हैं। [[automated-scoring-marketing-posts-agreement-2026|विद्यार्थी मार्केटिंग पोस्टों की स्वचालित स्कोरिंग]] सहमति और त्रुटि को सीधे मापती है, जो इस समूह के [[assessment-validity|वैधता]] प्रश्न का रूप है: मानव चिह्नक से सहमत ग्रेड ज़रूरी नहीं कि उसी सीखने का माप हो जिसका दावा किया जाता है।
 - **पर्यावरण अध्ययन में, दोहरी विषय-वस्तु के रूप में।** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] संधारण के *लिए* AI को संधारणीय AI से अलग करते हैं, और पाते हैं कि ग्लोबल साउथ की खाई दोनों में चलती है। [[aied-carbon-footprint-reporting|AIED में कार्बन-फुटप्रिंट रिपोर्टिंग]] 2025 की प्रकटीकरण-प्रथा की समीक्षा करता है और दूसरे हिस्से के लिए एक ओपन-सोर्स विधि देता है, जबकि [[ai-assisted-inquiry-ssi-climate|AI-सहायित जलवायु-जाँच]] पहले हिस्से के लिए स्वतंत्र जाँच की तुलना में d = 0.69 बताता है।
+
+- **मनोविज्ञान में, पाठ्यक्रम-दर-पाठ्यक्रम कार्यान्वयन के रूप में।** [[integrating-generative-ai-in-psychology-courses|मनोविज्ञान पाठ्यक्रमों में जनरेटिव AI का समाकलन]] Society for the Teaching of Psychology से इक्कीस विवरण एकत्र करता है, जो बुनियादी, नैदानिक और सांख्यिकीय धाराओं में पढ़ाए जाने वाले पाठ्यक्रम के अनुसार व्यवस्थित हैं ([[psychology-education|मनोविज्ञान शिक्षा]])। इसके अध्याय प्रयोग-विवरण हैं, अध्ययन नहीं, इसलिए वे परिणाम-साक्ष्य के बजाय डिज़ाइन-विवरण ले आते हैं, पर समूह इनसे एकल अनुशासन के शिक्षण का पहला विवरण पाठ्यक्रम-स्तर पर प्राप्त करता है।
 
 ## मापने की खाई
 

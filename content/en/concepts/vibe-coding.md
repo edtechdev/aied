@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-24T12:00:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -17,7 +17,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
 ---
 
 > **Vibe coding** — building software by iteratively prompting a [[llm|large language model]] and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of natural-language programming and end-user development — framings now treated as synonyms — in which prose becomes the primary programming interface.
@@ -47,6 +47,14 @@ A preregistered cross-sectional study (N = 100 tertiary students) provides the f
 ## Vibe coding as end-user development and teacher tooling
 
 A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed [[k-12]] teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In [[higher-ed|higher education]], an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity|academic integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
+
+A comparative think-aloud study asked 15 pre-service teachers, 13 in-service teachers and 10 coding experts to build an educational web app in 30 minutes, then traced how each group managed uncertainty ([[lin-teacher-vibe-coding-uncertainty-2026|Lin and Zou, 2026]]). All three groups looped through problem framing, development and verification, but they reduced uncertainty differently, and their artifacts diverged accordingly.
+
+- **In-service teachers automated routines they already knew.** Weekly reading checks and tablet worksheets were familiar problems, so their artifacts mostly replaced existing practice: 8 of 13 fell under replacement.
+- **Pre-service teachers framed through pedagogical principles.** Their projects more often built something new, with amplification in 9 of 15 cases and transformation in 1.
+- **Experts worked structurally rather than by prompting harder.** They ran narrow capability probes, asked the model clarifying questions, decomposed the artifact into testable modules, and automated checks.
+
+Those workflows diverged because each group brought a different knowledge base, not because one group lacked skill. Teacher preparation should therefore integrate pedagogical, contextual and technical expertise rather than train prompt skill alone.
 
 **Authoring is an assessment move, not only an access story.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] draws the consequence: if artifacts no longer evidence the thinking they were meant to elicit, assessment must capture process, and process evidence needs extended observation that limited staffing cannot supply. A teacher-built tool can carry the pedagogical decisions, scaffolding and encouragement a purchased product will not, which returns design judgment to the instructor who is judging the learning.
 

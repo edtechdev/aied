@@ -17,10 +17,10 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -54,6 +54,8 @@ connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudi
 评估生成是第二条线索。[[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]]让 ChatGPT-4 为一门实验心理学课程写 80 道多选题，并在 120 名学生身上对它们跑了完整的心理测量流程：内部一致性可接受，重测信度中等，11.25% 的题目区分度差，Bloom 分布为 73.75% 的回忆对 8.75% 的分析或评价。这些题目是可靠的证据，证明学生能说出事物的名称，而对学生能否设计一项研究保持沉默。
 
 统计学是第三条，也是证据最扎实的干预。[[ai-tutor-statistical-programming-adoption-2026|Préau 及同事]]在蒂宾根一门为期一学期、面向心理学本科生的 R 编程课程内部署了专门构建的"R-Tutor"，采用预注册的[[longitudinal-research|纵向设计]]，并提示导师去引导而非作答。
+
+一本编辑文集按课程而非按研究来探讨同一个问题。[[integrating-generative-ai-in-psychology-courses|在心理学课程中整合生成式 AI]]汇集了心理教学学会（Society for the Teaching of Psychology）的二十一篇报告，按教师即将执教的课程编排：基础与跨领域、临床与咨询，以及含统计学的研究方法。其各章是从业者的报告，不是研究，证据质量参差不齐。但它们提供了这里的实验文献无法提供的东西，即在具体课堂中运行过的教学设计。三条主张反复出现：分阶段开放使用权限，让学生有东西可以据此评判工具；要求验证并让验证可见；并把教师关于何时不应使用工具的判断当作预期成果。
 
 ## 临床与咨询训练
 

@@ -52,7 +52,7 @@ Dua keluarga angka mendominasi literatur ini. Keduanya mengukur seberapa dekat k
 
 **Skor kesepakatan** (QWK, kappa terbobot kuadratik) mengukur seberapa dekat nilai model sejajar dengan nilai manusia. Model dapat menyamai penilai pada nilai akhir sementara salah tentang alasannya, dan alasan itulah bagian yang dipelajari siswa.
 
-Siswa dapat mencapai jawaban yang salah melalui jalur salah yang tampak seperti jalur benar, dan tidak ada skor kemiripan yang menyadarinya. Jika penalaran adalah hal yang Anda pedulikan, ukurannya harus membaca penalaran itu: rubrik yang diterapkan oleh manusia, atau pemeriksaan yang ditulis untuk langkah tertentu itu.
+Siswa dapat mencapai jawaban yang salah melalui jalur salah yang tampak seperti jalur benar, dan tidak ada skor kemiripan yang menyadarinya. Jika penalaran adalah hal yang Anda pedulikan, ukurannya harus membaca penalaran itu: [[rubrics|rubrik]] yang diterapkan oleh manusia, atau pemeriksaan yang ditulis untuk langkah tertentu itu.
 
 Asisten mata kuliah Sistem Kendali Linear melaporkan hal ini dengan cara yang benar. Konfigurasi terbaiknya mencapai skor kemiripan **0,4093** terhadap jawaban acuan, dengan peningkatan yang terukur secara andal di atas nol, dan penulisnya menyatakan terus terang bahwa angka-angka itu mengukur pilihan kata dan format ([[lora-finetuned-control-systems-course-qa-2026]]). Skornya tidak mengesankan dan makalahnya tetap berguna, karena makalah itu menyebutkan apa yang dicakup skor tersebut.
 

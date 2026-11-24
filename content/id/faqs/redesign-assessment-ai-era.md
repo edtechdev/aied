@@ -23,7 +23,7 @@ ai_assist:
 
 Anda mungkin sedang memegang tugas yang berhasil selama bertahun-tahun dan kini mengembalikan pekerjaan yang tidak dapat Anda pertahankan. Nilainya mengatakan A; artefaknya mungkin sebagian besar hasil alat. Atau seorang siswa mempersoalkan nilai rendah atas dasar yang tidak dapat Anda periksa, atau program Anda sedang menulis ulang kebijakan penilaiannya dan bertanya apa yang harus berubah di mata kuliah Anda pada semester berikutnya.
 
-Jawaban singkatnya: putuskan **tentang apa** nilai itu seharusnya menjadi bukti, sertakan setidaknya satu langkah dalam tugas yang diselesaikan siswa tanpa alat, dan buat rubrik membayar penalarannya dan bukan hanya produknya. Redesain yang melewati langkah kedua dan ketiga mengubah cara pekerjaan dihasilkan tanpa mengubah apa yang dapat didukung oleh nilai.
+Jawaban singkatnya: putuskan **tentang apa** nilai itu seharusnya menjadi bukti, sertakan setidaknya satu langkah dalam tugas yang diselesaikan siswa tanpa alat, dan buat [[rubrics|rubrik]] membayar penalarannya dan bukan hanya produknya. Redesain yang melewati langkah kedua dan ketiga mengubah cara pekerjaan dihasilkan tanpa mengubah apa yang dapat didukung oleh nilai.
 
 ## Versi singkat
 

@@ -12,7 +12,7 @@ page_kind: [synthesis]
 confidence: high
 updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T10:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
     date: "2026-11-08"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
-connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026, ayres-critical-ai-literacies-media-literacy-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -70,6 +70,8 @@ Pertanyaan pendiri literasi media mengasumsikan pembuat dengan tujuan. Deepfake,
 **Argumen yang dipersonalisasi adalah model ancaman persuasi saat ini.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] mengacak 900 orang dewasa AS ke debat daring sepuluh menit melawan manusia atau GPT-4, dengan atau tanpa enam bidang demografis biasa. GPT-4 yang tidak dipersonalisasi secara statistik tak dapat dibedakan dari lawan manusia, sementara GPT-4 yang dipersonalisasi menaikkan peluang persetujuan sesudah debat sebesar 81,2% dan lebih persuasif pada 64,4% waktu. Peserta mengenali lawan AI pada sekitar tiga dari empat debat namun tetap bergeser lebih jauh ketika mereka percaya lawannya AI, sehingga deteksi sumber tidak berfungsi sebagai imunisasi. Manipulasinya tak terlihat dalam prosa: ukuran gaya nyaris tidak berbeda antar-kondisi, menempatkan keunggulan pada argumen mana yang dipilih alih-alih bagaimana argumen itu ditulis.
 
 Bukti kurikulum menunjukkan sekolah belum mengejar. Wawancara pakar menggambarkan [[teacher-education|pelatihan guru]] sebagai kendala pengikat alih-alih resistensi siswa, dan berargumen untuk pembingkaian [[critical-pedagogy]] yang memperlakukan evaluasi sebagai praktik etis dan partisipatif alih-alih pelatihan alat. Laporan yang ditugaskan untuk media layanan publik menemukan penyediaan bagi usia 14–19 tahun condong ke keterampilan AI fungsional dan menjauh dari evaluasi kritis, meskipun meninjau lebih dari 40 kerangka dan mewawancarai 35 pakar ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
+
+Kasus anyaman kini telah diperdebatkan secara langsung. [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] memperlakukan literasi AI kritis sebagai literasi media, dan metode kelasnya, *audit antarmuka pengakuan*, meminta siswa menganalisis transkrip chatbot seperti mereka menganalisis iklan, menamai isyaratnya, klaim tersirat, tuas emosional, dan insentif yang mungkin.
 
 ## AI sebagai alat defensif — klaim dan catatan
 

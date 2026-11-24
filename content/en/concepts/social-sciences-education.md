@@ -1,7 +1,7 @@
 ---
 title: Social Science Education
 created: "2026-11-16T22:30:00-05:00"
-updated: "2026-11-17T12:15:00-05:00"
+updated: "2026-11-24T18:30:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -43,6 +43,7 @@ The cluster's internal variation is large, and the literature follows it. Manage
 - **In management, as a curriculum question.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] analyze how AI changes what management education is for through a value-based strategy lens, asking which activities the technology substitutes and which it complements. [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] cover the decade of work that preceded that question, and [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] build a student-informed framework for how schools should respond.
 - **In management, as a grading problem.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] treats assessment design as the site of change rather than the syllabus. [[automated-scoring-marketing-posts-agreement-2026|Automated scoring of student marketing posts]] measures agreement and error directly, which is the cluster's version of the [[assessment-validity|validity]] question: a grade that agrees with a human marker is not necessarily a grade that measures the intended learning.
 - **In environmental studies, as a double subject.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] separates AI *for* sustainability from sustainable AI, and finds the Global South gap running through both. [[aied-carbon-footprint-reporting|Carbon-footprint reporting in AIED]] reviews 2025 disclosure practice and supplies an open-source method for the second half, while [[ai-assisted-inquiry-ssi-climate|AI-assisted climate inquiry]] reports d = 0.69 over inquiry alone for the first.
+- **In psychology, as course-by-course implementation.** [[integrating-generative-ai-in-psychology-courses|Integrating Generative AI in Psychology Courses]] gathers twenty-one accounts from the Society for the Teaching of Psychology, organized by the course being taught across foundational, clinical and statistics strands ([[psychology-education|psychology education]]). Its chapters are practitioner reports rather than studies, so they carry design detail instead of outcome evidence, but the cluster gains its first account of one discipline's teaching at curriculum scale.
 
 ## The measurement gap
 

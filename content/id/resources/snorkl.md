@@ -42,7 +42,7 @@ atas respons [[multimodal]] itu. Guru membuat aktivitasnya sendiri atau memakai 
 standar, sehingga kriteria umpan baliknya mengikuti kurikulum alih-alih mengikuti vendor: FAQ-nya menyebut
 alat ini mendukung semua mata pelajaran dan usia K-12, dan mencantumkan 64 bahasa untuk umpan balik, baik
 dalam bahasa lisan siswa maupun bahasa yang dipilih guru. Dasbor guru menampilkan pola tingkat kelas
-seperti miskonsepsi umum dan contoh teladan; tugas dikirim melalui tautan LMS atau kode bergabung, dengan
+seperti miskonsepsi umum dan [[rubrics|contoh teladan]]; tugas dikirim melalui tautan LMS atau kode bergabung, dengan
 login Google, Microsoft, atau Clever.
 
 ## Untuk siapa

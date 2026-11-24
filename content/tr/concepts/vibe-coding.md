@@ -1,8 +1,7 @@
 ---
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
-title: Vibe Coding
-created: "2026-10-14T22:50:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+title: "Vibe Coding"
+created: "2026-09-08T01:30:00-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,21 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:52:31-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-14"
+    date: "2026-11-24"
     agent: hermes-agent
-  - model: meituan/longcat-2.5:free
-    role: translation
-    date: "2026-11-21"
-    agent: hermes-agent
-connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -56,6 +52,14 @@ Vibe coding’in tanımı hâlâ akışkanlığını korumaktadır. Kimisi terim
 ## Vibe coding son kullanıcı yazılım geliştirme ve öğretmen araçları olarak
 
 Vibe coding’in büyük bir vaadi, programcı olmayanların — [[teacher-role|öğretmenler]] ve alan uzmanları dâhil — kendi yazılımlarını geliştirmesine izin vermesidir; bu, LLM çağının son kullanıcı yazılım geliştirme biçimidir. Bir [[gaide-vibe-coding-k12-teachers|GAIDE çerçevesi çalışması]], (programcı olmayan) [[k-12|K-12]] öğretmenlerinin sekiz haftalık bir atölyede YZ destekli öğrenme araçları yaratmak için vibe coding kullandığını, [[ai-literacy|YZ okuryazarlıklarını]] yükselttiğini ve “yaratarak öğrenme”nin profesyonel gelişim modeli olduğunu göstermiştir. [[higher-ed|Yükseköğretimde]] bir öğretmen, birkaç gün içinde vibe coding yoluyla [[vibe-coding-programming-process-visualizer|IDE etkinlik kayıtlarından bir programlama süreci görselleştirici]]yi hızla inşa etmiş; öğrencilerin programlama süreçlerini öğretme ve [[academic-integrity]] incelemesi için görünür kılmıştır. Bu örnekler vibe coding’i yalnızca bir öğrenen becerisi değil, [[educational-development|eğitim teknolojisini kimin yaratabileceğini yeniden şekillendiren]] bir yazarlık kapasitesi olarak konumlandırır.
+
+Karşılaştırmalı bir sesli düşünme çalışması, 15 aday öğretmenle, 13 hizmet-içi öğretmenle ve 10 kod uzmanından 30 dakikada eğitsel bir web uygulaması geliştirmelerini istedi ve ardından her grubun belirsizliği nasıl yönettiğini izledi ([[lin-teacher-vibe-coding-uncertainty-2026|Lin ve Zou, 2026]]). Üç grup da problem çerçeveleme, geliştirme ve doğrulama aşamaları arasında döngüledi; ancak belirsizliği farklı biçimde azalttılar ve yapıtları buna göre ayrışmıştı.
+
+- **Hizmet-içi öğretmenler, zaten bildikleri rutinleri otomatikleştirdi.** Haftalık okuma kontrolleri ve tablet çalışma sayfaları tanıdık problemlerdi, bu nedenle yapıtlarının büyük ölçüde mevcut uygulamayı değiştirmeye tekabül etti: 13’ün 8’i ikame kapsamına girdi.
+- **Aday öğretmenler, pedagojik ilkeler üzerinden çerçeveleme yaptı.** Projeleri daha sık yeni bir şey inşa etmekteydi; 15 vakanın 9’unda güçlendirme, 1’inde dönüşüm görüldü.
+- **Uzmanlar, istek metinlerini daha karmaşık yazmak yerine yapısal olarak çalıştı.** Dar yetenek sondajları yürüttüler, modele açıklayıcı sorular sordular, yapıtı sınanabilir modüllere ayırdılar ve denetimleri otomatikleştirdiler.
+
+Bu iş akışları, bir grubun beceri eksikliğinden değil, her grubun farklı bir bilgi tabanı getirmesinden dolayı ayrıştı. Bu nedenle öğretmen yetiştirme, yalnızca istem becerisini eğitmek yerine pedagojik, bağlamsal ve teknik uzmanlığı bütünleştirmelidir.
 
 **Yazarlık yalnızca bir erişim hikâyesi değil, bir değerlendirme hamlesidir.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] bunun sonucunu çizer: yapıtlar artık ortaya çıkarmak istendiği düşüncünün kanıtı değilse, değerlendirme süreci yakalamalıdır ve süreç kanıtı, sınırlı personelin sağlayamayacağı uzun bir gözlem gerektirir. Bir öğretmenin geliştirdiği araç, satın alınmış bir ürünün taşımayacağı pedagojik kararları, iskelelemeyi ve teşviki taşıyabilir; bu da tasarım yargısını, öğrenmeyi yargılayan öğretmene geri verir.
 

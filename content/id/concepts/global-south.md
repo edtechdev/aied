@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/global-south"
-source_updated: "2026-11-19T09:45:00-05:00"
+source_updated: "2026-11-24T10:25:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
-connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026, ma-ai-medical-education-lmic-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -60,6 +60,8 @@ Riset AI dan teknologi pendidikan arus utama secara historis didominasi oleh kum
 - **Bukti penilaian yang tipis dan spesifik alat dari pendidikan tinggi Afrika:** [[genai-assessment-african-higher-education-review-2026|Tinjauan sistematis PRISMA 2020]] atas riset empiris yang terbit antara 2023 dan 2025 hanya menemukan sepuluh studi, terkonsentrasi di Nigeria dan Afrika Selatan serta hampir seluruhnya dilakukan pada ChatGPT, sehingga apa yang diketahui tentang merancang ulang penilaian untuk AI generatif di pendidikan tinggi Afrika bersandar pada studi sampel kecil, satu institusi, dan [[self-report-measures|laporan diri]] alih-alih [[learning-gains|perolehan belajar]] yang terukur — para penulis tinjauan itu membingkai rekomendasi mereka sebagai arah, bukan efek yang sudah mantap.
 
 - **Keadilan adalah dimensi yang paling sedikit diteliti di seluruh kawasan.** [[meta-analysis-systematic-review|Tinjauan cakupan]] PRISMA-ScR atas 75 studi Global South (2022–2025) menemukan keadilan sebagai area yang paling sedikit ditelaah di antara lima areanya meskipun menjadi pusat pendidikan inklusif, dan melaporkan kesenjangan antara posisi etis yang dinyatakan siswa dan perilaku mereka ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
+
+- **Bukti pendidikan kedokteran terkonsentrasi di dua negara.** Tinjauan scoping AI dalam pendidikan kedokteran di negara berpendapatan rendah dan menengah menyaring 8.136 catatan menjadi 33 studi, dengan hanya empat dari negara berpendapatan rendah dan Tiongkok serta India menyumbang jumlah terbesar ([[ma-ai-medical-education-lmic-2026]]). Para penulis menandai [[research-methods-aied|desain pencarian]] yang hanya berbahasa Inggris sebagai kemungkinan penyebab ketidakseimbangan itu, dan menolak mengurutkan negara menurut adopsi AI nasional karena lingkungan kebijakan dan investasi publik tidak dinilai secara konsisten.
 
 ## Implikasi
 

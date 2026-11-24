@@ -9,7 +9,7 @@ confidence: high
 methods: [usability-research]
 updated: "2026-11-08T14:14:01-05:00"
 translation_of: "concepts/usability-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ Riset kegunaan dan UX menjawab pertanyaan seperti: Dapatkah siswa mengetahui car
 - **Interaksi manusia–robot dan [[conversational-ai|AI konversasional]].** [[icub-humanoid-storytelling-llm-hri-2025|Studi pendongeng humanoid]] adalah studi kegunaan eksplisit atas interaksi bertenaga [[llm]]; [[conversational-ai-agents-umbrella-review-2026|sebuah tinjauan payung atas agen AI konversasional]] mengidentifikasi kegunaan dan kualitas interaksi sebagai tema yang berulang.
 - **Desain dan penyempurnaan.** Temuan kegunaan menyuplai desain iteratif (lihat [[design-thinking]] dan [[learning-design]]), memperbaiki alat sebelum atau bersamaan dengan pengujian khasiat.
 - **Satu instrumen lintas konteks, dan plafon yang membatasinya.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] menahan domain, tugas, dan instrumen tetap konstan sementara tingkat pendidikan bervariasi, sehingga penilaian 144 siswa atas 893 jawaban umpan balik dan 237 laporan membandingkan konteks alih-alih disiplin — dan hanya akurasi yang dipersepsikan yang berbeda lintas tingkat. Studi ini juga menamai batas evaluasi pengguna semacam ini: 72.2 hingga 86.4 persen siswa rata-rata memberi setidaknya 4 dari 5, dan para penulis menyatakan bahwa perbedaan tidak signifikan mereka tidak menetapkan kesetaraan karena tidak ada margin yang ditetapkan lebih dulu.
-- **Desain penilai yang dilaporkan sebagai bagian dari temuan.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] meminta 25 pakar yang cocok secara domain menilai 92 kuliah yang dihasilkan ulang terhadap rubrik yang berjangkar pada "kualitas kuliah [[online-teaching-and-learning|MOOC]] standar," dengan menugaskan setiap video ke satu peninjau (k = 1) agar panel tersebar pada lebih banyak bagian korpus alih-alih mengumpulkan penilaian berulang. Pertukarannya dimodelkan alih-alih disembunyikan: model intersep-acak mengatribusikan sekitar 35 persen varians sisa kepada peninjau (ICC = 0.35) dan intervalnya diklusterkan menurut peninjau, dan begitulah sebuah panel pakar dapat melaporkan "87 persen pada atau di atas ambang" dengan rentang yang jujur.
+- **Desain penilai yang dilaporkan sebagai bagian dari temuan.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] meminta 25 pakar yang cocok secara domain menilai 92 kuliah yang dihasilkan ulang terhadap [[rubrics|rubrik]] yang berjangkar pada "kualitas kuliah [[online-teaching-and-learning|MOOC]] standar," dengan menugaskan setiap video ke satu peninjau (k = 1) agar panel tersebar pada lebih banyak bagian korpus alih-alih mengumpulkan penilaian berulang. Pertukarannya dimodelkan alih-alih disembunyikan: model intersep-acak mengatribusikan sekitar 35 persen varians sisa kepada peninjau (ICC = 0.35) dan intervalnya diklusterkan menurut peninjau, dan begitulah sebuah panel pakar dapat melaporkan "87 persen pada atau di atas ambang" dengan rentang yang jujur.
 
 ## Hubungan dengan keluarga riset lain
 

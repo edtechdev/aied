@@ -1,8 +1,7 @@
 ---
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
-title: 바이브 코딩
+title: "바이브 코딩"
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,17 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:52:31-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-11"
+    date: "2026-11-24"
     agent: hermes-agent
-connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -52,6 +52,14 @@ connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-
 ## 최종 사용자 개발 및 교사 도구로서의 바이브 코딩
 
 바이브 코딩의 큰 약속은 비프로그래머 — [[teacher-role|교사]]와 도메인 전문가 포함 — 가 자신의 소프트웨어를 만들 수 있게 한다는 것입니다. 이는 최종 사용자 개발의 LLM 시대 형태입니다. [[gaide-vibe-coding-k12-teachers|GAIDE 프레임워크 연구]]는 [[k-12|K-12]] 교사(비프로그래머)가 8주 워크숍에서 바이브 코딩을 사용해 AI 기반 학습 도구를 만들고 [[ai-literacy|AI 리터러시]]를 높이며, "만들면서 배우기(learning-by-creating)"를 교사 전문성 개발 모델로 입증하는 것을 보여주었습니다. [[higher-ed|고등교육]]에서는 한 교수가 며칠 만에 바이브 코딩으로 IDE 활동 로그 기반의 [[vibe-coding-programming-process-visualizer|프로그래밍 과정 시각화 도구]]를 빠르게 만들어, 교수와 [[academic-integrity]] 검토를 위해 학생들의 프로그래밍 과정을 가시화했습니다. 이 사례들은 바이브 코딩을 단지 학습자의 기술이 아니라, [[educational-development|누가 교육 기술을 만들 수 있는지를 재편하는]] 저작 능력으로 자리매김합니다.
+
+한 비교 사고 구술(comparative think-aloud) 연구는 예비 교사 15명, 현직 교사 13명, 코딩 전문가 10명에게 30분 안에 교육용 웹 앱을 만들게 한 뒤, 각 집단이 불확실성을 어떻게 관리했는지 추적했습니다([[lin-teacher-vibe-coding-uncertainty-2026|Lin and Zou, 2026]]). 세 집단 모두 문제 정립, 개발, 검증을 반복했지만, 불확실성을 줄이는 방식은 서로 달랐고, 그에 따라 산출물도 갈라졌습니다.
+
+- **현직 교사들은 이미 알고 있던 일상적 업무를 자동화했습니다.** 주간 독서 점검과 태블릿 워크시트는 익숙한 문제였으므로, 그들의 산출물은 대부분 기존 관행을 대체했습니다: 13건 중 8건이 대체(replacement)에 해당했습니다.
+- **예비 교사들은 교수법적 원리를 통해 틀을 잡았습니다.** 그들의 프로젝트는 더 자주 새로운 것을 만들었으며, 15건 중 9건은 증폭(amplification), 1건은 변형(transformation)에 해당했습니다.
+- **전문가들은 더 세게 프롬프팅하기보다 구조적으로 작업했습니다.** 그들은 좁은 범위의 기능 검사(capability probe)를 실행하고, 모델에게 명확화 질문을 던지고, 산출물을 검사 가능한 모듈로 분해하고, 검사를 자동화했습니다.
+
+이러한 작업 흐름의 차이는 한 집단이 기술이 부족해서가 아니라, 각 집단이 서로 다른 지식 기반을 가져왔기 때문이었습니다. 따라서 교사 양성은 프롬프트 기술만 훈련하는 것이 아니라 교수법적, 맥락적, 기술적 전문성을 통합해야 합니다.
 
 **저작은 접근성 이야기만이 아니라 평가 전략입니다.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]]는 그 귀결을 끌어냅니다. 산출물이 더 이상 이끌어내려던 사고를 입증하지 못한다면, 평가는 과정을 포착해야 하며, 과정 증거에는 제한된 인력으로는 공급할 수 없는 장기 관찰이 필요합니다. 교사가 만든 도구는 구매 제품이 담지 않을 교수법적 결정, 비계, 격려를 담을 수 있으며, 이는 학습을 판단하는 교수자에게 설계 판단권을 돌려줍니다.
 

@@ -33,7 +33,7 @@ Jawaban untuk ruangan itu, dan keadaan buktinya di [[higher-ed|pendidikan tinggi
 
 **2.** Minta mereka berkomitmen pada jawaban sendiri sebelum melihat jawaban model.
 
-**3.** Nilai kritiknya, dengan rubrik yang sudah Anda pakai untuk tugas itu.
+**3.** Nilai kritiknya, dengan [[rubrics|rubrik]] yang sudah Anda pakai untuk tugas itu.
 
 **4.** Jalankan lebih dari sekali sepanjang semester.
 

@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [teacher-dev]
 updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/chemistry-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ Pendidikan kimia telah menjadi ranah yang subur bagi penelitian AI dalam pendidi
 **Akurasi teknis dan literasi AI yang kritis.** Bukti sistematis menunjukkan [[llm|LLM]] dapat mendefinisikan istilah kimia dasar tetapi berkinerja buruk pada tugas kuantitatif yang ketat serta kesulitan dengan penalaran spasial (misalnya NMR), kepercayaan diri berlebih, dan kepekaan terhadap notasi ([[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]; temuan ChemBench/QCBench dalam [[unesco-ai-guidelines-chemical-education-2026|perspektif UNESCO]]). Hal ini menjadikan **keterlibatan evaluatif dengan keluaran AI** — menginterogasi, memverifikasi, dan memeriksa silang terhadap prinsip kimia — sebagai tujuan pembelajaran yang sentral, yang terhubung dengan [[ai-literacy]], [[critical-thinking]], dan [[reducing-ai-misuse]].
 
 **Etika, kebijakan, dan drift epistemik.** [[unesco-ai-guidelines-chemical-education-2026|Perspektif pedoman UNESCO]] memperingatkan **drift epistemik** — risiko bahwa algoritma buram menarik inkuiri menjauh dari pemahaman kausal — dan menyerukan pergeseran dari penyampaian konten ke **penciptaan pengetahuan**, literasi kimia AI yang kritis, penilaian yang mengutamakan penalaran manusia, serta penutupan [[digital-divide|kesenjangan akses]] global.
+
+**Umpan balik emosional dapat menaikkan kecemasan yang menjadi sasarannya.** Satu semester umpan balik emosional AI di laboratorium kelas 9 berbarengan dengan naiknya kecemasan laboratorium (F = 4,60) dan rasa pencapaian yang datar, sementara kelas inkuiri yang dipimpin guru meningkat (F = 7,92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 
 ### Koneksi ke konsep terkait
 

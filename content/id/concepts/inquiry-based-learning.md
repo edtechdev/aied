@@ -9,7 +9,7 @@ discipline: [stem education]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/inquiry-based-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Pembelajaran berbasis inkuiri berpusat pada pertanyaan yang digerakkan siswa dan
 
 Struktur IBL yang digerakkan pertanyaan dan berfokus proses adalah rumah alami bagi penggunaan AI yang produktif: siswa belajar *bersama* AI sebagai mitra alih-alih *dari* AI sebagai pengganti. Bukti dalam basis pengetahuan ini bertemu pada satu ketegangan inti — AI dapat menurunkan hambatan pengambilan informasi dan perumusan pertanyaan (mengurangi [[cognitive-offloading|beban kognitif]] dan memungkinkan [[reflection|refleksi]] yang lebih dalam), tetapi tanpa perancah desain ia berisiko menimbulkan ketergantungan berlebih dan melewati kognisi tingkat tinggi. Peran fasilitator, desain perancah, dan pengajaran keterampilan evaluasi secara eksplisit adalah tuas yang menentukan apakah AI memperdalam atau menggusur inkuiri.
 
-Satu studi menggantikan fasilitator alih-alih menambahkan alat di sampingnya. Dalam kursus farmakologi empat minggu, 136 mahasiswa kedokteran tahun kedua dibagi antara pembelajaran berbasis masalah yang dipimpin fasilitator dan yang dipimpin AI. Kedua lengan memperoleh perolehan signifikan pada tes pilihan ganda pra/pasca dan perbedaan antarkelompok tidak signifikan (p = 0.474), tetapi kelompok yang dipimpin fasilitator memperoleh skor lebih tinggi pada berpikir kritis (14.75 berbanding 13.09, p < 0.001) dan pada rubrik [[group-work|penilaian kelompok]] (26.51 berbanding 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty dan Rao, 2026]]). Luaran inkuiri terbelah menurut jenisnya: pengetahuan isi bertahan dari substitusi dan proses penalaran tidak, dan itulah makna mengatakan fasilitator adalah tuasnya.
+Satu studi menggantikan fasilitator alih-alih menambahkan alat di sampingnya. Dalam kursus farmakologi empat minggu, 136 mahasiswa kedokteran tahun kedua dibagi antara pembelajaran berbasis masalah yang dipimpin fasilitator dan yang dipimpin AI. Kedua lengan memperoleh perolehan signifikan pada tes pilihan ganda pra/pasca dan perbedaan antarkelompok tidak signifikan (p = 0.474), tetapi kelompok yang dipimpin fasilitator memperoleh skor lebih tinggi pada berpikir kritis (14.75 berbanding 13.09, p < 0.001) dan pada [[rubrics|rubrik]] [[group-work|penilaian kelompok]] (26.51 berbanding 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty dan Rao, 2026]]). Luaran inkuiri terbelah menurut jenisnya: pengetahuan isi bertahan dari substitusi dan proses penalaran tidak, dan itulah makna mengatakan fasilitator adalah tuasnya.
 
 ### Kegagalan produktif dan inkuiri
 

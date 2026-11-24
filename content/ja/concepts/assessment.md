@@ -2,7 +2,7 @@
 title: 評価
 created: "2026-10-10T21:52:56-04:00"
 updated: "2026-11-19T06:40:00-05:00"
-connected_resources: [idstack, lesson-md, master-instructional-design]
+connected_resources: [idstack, lesson-md, master-instructional-design, designing-university-assessment-ai-2027]
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, formative-assessment, automated-assessment, authentic-assessment, assessment-validity, educational-measurement, automated-essay-scoring, automated-question-generation, oral-assessment, summative-assessment, item-response-theory, psychometrically-aware-ai, learning-analytics, feedback, feedback-literacy, academic-integrity, ai-detection, ai-ed-evaluation, eportfolio, speech-and-voice-technologies, peer-assessment]
-connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026]
+connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, mccorkle-aligned-genai-course-policy-2025, usher-faraon-who-grades-best-2026, responsible-assessment-ai-era-stanford-2026, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, competency-based-education-genai-production-2026, genai-assessment-governance, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, aivaluate-anxiety-assessment-2026, graph-its-adaptive-algorithms-2026, asynchronous-oral-assessment-2026, assessing-student-drive-framework-2025, walton-bearman-assessment-judgment-2025, stamatoulis-genai-use-patterns-2026, luo-dawson-value-judgments-grading-2026, razavi-powers-item-difficulty-llm-2026, pecuchova-automated-grading-open-ended-genai-2026, mesny-innovative-assessment-grading-management-2026, olvet-genai-scoring-open-ended-medical-2026, jukiewicz-chatgpt-teacher-assessment-feedback-2026, computing-assessment-genai-workshop-report-2026, koretsky-genai-stem-assessment-2026, rubrics-genai-process-based-assessment-2026, nerantzi-traffic-light-assessment-genai-2026, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -49,7 +49,8 @@ connected_articles: [multimodal-assessment-literacy-l2-teachers-genai-2026, ai-a
 - **形成的評価:** [[ai-technologies|AIシステム]]は、形成的な評価項目を規模に応じて生成・検証・適応させ、[[summative-assessment|総括的]]な評価だけでなく、進行中の指導に情報を与えます。
 - **学習分析と測定:** [[learning-analytics|学習分析]]と[[educational-measurement|教育測定]]は、評価のデータを学習の過程に結びつけ、[[item-response-theory|項目応答理論]]、[[knowledge-tracing|知識追跡]]、[[student-modeling|学習者モデル化]]を用いて成績を解釈します。[[razavi-powers-item-difficulty-llm-2026|Razavi and Powers(2026)]]は、測定の入力としてのLLMによる項目難易度推定を実証しています。RaschのIRTモデルで較正された5,170問のK-5の数学と読みの項目にわたり、GPT-4oのゼロショットの評定は真の難易度と中程度から強い相関を示し(r = 0.83 数学、r = 0.81 読み)ましたが、学年によって異なりました。一方、特徴に基づくアプローチ(LLMで抽出した特徴を木構造モデルに入れるもの)は、r = 0.87に達する相関を得ました。この調査は、試験の専門家のための実用的な7段階のワークフローを提供するとともに、K-5の数学と読みを超える一般化可能性は不明であると注意しています。
 - **フィードバックのループ:** AIによる評価は、ますます、評価から学習へと循環を閉じる[[feedback|フィードバックのループ]]に流れ込みます。
-- **電子ポートフォリオ評価:** [[eportfolio|電子ポートフォリオ]]は、時間をかけて生徒の成果物と省察を集め、過程に基づいたAIに頑健な評価形式とします。生成AIは、ポートフォリオの*過程*を助けることができます——フィードバックを生成し、[[scaffolding|省察に足場をかけ]]、そして(適切なルーブリック設計によって)評価を支える——一方、ポートフォリオが推論の痕跡と下書きに置く重点は、AIによる捏造に抵抗します。[[ni-lam-multiliteracies-ai-portfolio-2026|AI支援によるポートフォリオ評価]]と[[sutama-chatgpt-eportfolio-speaking-2026|EFLのスピーキングのためのChatGPT+電子ポートフォリオ]]は、AIがポートフォリオの体験と学習者の[[feedback-literacy|フィードバック・リテラシー]]の両方を高められることを示しています。
+- **ルーブリックが基準を再現可能にする:** [[rubrics|ルーブリック]]は、ある作品の読み方を擁護可能なものに変える次元とレベルの記述を明示し、モデルが採点するときに読む仕様である。分析的ルーブリックは次元を分けるので不一致を診断でき、総合的ルーブリックは作品全体を読み、速いが決定的な弱点を隠しうる。生成AIは流暢な出力を必要に応じて生み出せるため、最近のルーブリック研究は対象を製品から過程へと移し([[rubrics-genai-process-based-assessment-2026|Oviedo & Díaz（2026）]])、ルーブリックの精緻化を[[automated-assessment|自動評価]]の信頼性の一部として扱う([[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et al.（2026）]])。
+- **電子ポートフォリオ評価:** [[eportfolio|電子ポートフォリオ]]は、時間をかけて生徒の成果物と省察を集め、過程に基づいたAIに頑健な評価形式とします。生成AIは、ポートフォリオの*過程*を助けることができます——フィードバックを生成し、[[scaffolding|省察に足場をかけ]]、そして(適切な[[rubrics|ルーブリック設計]]によって)評価を支える——一方、ポートフォリオが推論の痕跡と下書きに置く重点は、AIによる捏造に抵抗します。[[ni-lam-multiliteracies-ai-portfolio-2026|AI支援によるポートフォリオ評価]]と[[sutama-chatgpt-eportfolio-speaking-2026|EFLのスピーキングのためのChatGPT+電子ポートフォリオ]]は、AIがポートフォリオの体験と学習者の[[feedback-literacy|フィードバック・リテラシー]]の両方を高められることを示しています。
 - **自由記述の採点の信頼性はモデルに依存する:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik(2025)]]は、1,885件の自由記述のソフトウェア工学の解答について、11のGenAIおよび文埋め込みモデルを2人の専門の採点者と比較しました。ほぼ完全な一致に達したのはGPTo1のみ(Fleissのカッパ0.82)で、参照に基づくモデルは正しいが言い回しが異なる解答を罰しました。GPTo1は監督なしで展開可能と判断された唯一のモデルでしたが、独自のAPIコストを伴うため、著者らは、資源が限られた環境では、進んだモデルと手頃な選択肢を組み合わせる、あるいは[[human-in-the-loop-ai|人間の監督]]を伴うハイブリッドな戦略を勧めています。42件の実証研究(2023年–2025年)を対象としたPRISMA準拠の[[meta-analysis-systematic-review|システマティックレビュー]]は、採点の分野全体にわたって、この条件的な信頼性の像を裏づけています。LLMは閉じた形式と短答の課題では人間の採点者と一致しますが、複雑で自由記述の、あるいは主観的な仕事では人間の判断を完全には置き換えられず、一様な採点の偏りは生じませんでした——モデルはときに寛大で、ときに厳しく、そしてしばしば極端な得点を避けました([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]])。反復的なルーブリックの精緻化は、高リスクな[[medical-education|医学]]の現場で、LLMの自由記述採点を人間に近い信頼性へと押し上げられます。[[olvet-genai-scoring-open-ended-medical-2026|Olvet et al.(2026)]]は、教員が誤りのパターン分析に基づいて分析ルーブリックと総合的ルーブリックを繰り返し改訂した後、GPT-4が臨床実習前の4問のうち3問で教員の採点者と実質的からほぼ完全な一致に達したこと(重み付けカッパは最大0.94)を、総合的ルーブリックの残りの1問が中程度の一致(κw = 0.54)にとどまったこととともに見いだしました——これは、人間在環のルーブリック設計の見返りと、総合的で合成された課題におけるその限界の両方を示しています。
 - **AI支援による口頭・パフォーマンス評価。** ある[[vocational-education|TVET(技術・職業教育訓練)]]の設計調査は、評価を文字中心の形式から、LLMに支援された対話的な[[oral-assessment|口頭評価]]へと移します。4つのコホートにわたり、33人中21人の学習者が音声の課題を現実的と評価し、リアルタイムに話すことが書かれたポートフォリオよりも能力をよく反映することに異を唱えた者はいませんでした。一方、同一の問いに対する語数はコホート間で5倍から8倍までばらつき、9人の学習者は2語から13語で答え、全員が正解でした。このシステムは、単一のノートパソコン上でMistral 7Bとfaster-whisperを用いて最大12人の同時の学習者にサービスを提供する形でオフラインで動作し、録音は90日後に削除し、採点の判断は評価者に残されました——職場向けの資格における[[human-in-the-loop-ai|人間在環]]評価設計の一例です。([[ai-supported-oral-assessment-tvet-2026]])
 
@@ -91,6 +92,10 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 この文献における一つの提案は、現在の枠組みの中での再設計を超えます。[[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma(2026)]]は、不正行為を防いだりAIの利用を検知したりすることの周りに組織された改革は、教育的な想像力を統制とコンプライアンスへと狭めると論じ、代わりに**喜びのある評価(joyful assessment)**を提案します。安全で、感情的に応答的で、生徒の[[agency|主体性]]を力づけ支える評価です。安全が荷重を支える条件です。なぜなら、それがなければ感情的な呼応はパフォーマンスになり、力づけは圧力になり、主体性は危険になるからです。彼らの捉え方は検知の課題を反転させます——誠実性は、生徒が関与したいと思う評価を設計することの帰結となり、その出発点ではなくなる——そして、彼らは教員が作る[[agentic-ai|AIエージェント]](カスタムGPT、Gems、Copilot Studioのエージェント)を、判断の前に生徒が練習する低リスクの稽古の場として位置づけます。AIが証拠を組織し、教員がそれを解釈する、という主張とともにです。
 
 カラーコードは繰り返し提案され続けている代替案であり、ある一機関の版はすでにその役目を終えています。[[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman and Pavlopoulou(2026)]]は、2023年以来すべての学部で施行されているUniversity of Leedsの枠組みについてのパネルでの議論を再構成します。そこでは赤がAIを禁止し、黄が規則を各モジュールの担当教員に委ね、緑が責任ある利用を教えます。彼らの異議は適用範囲にあります。課題に付された色は、ここでその道具を使ってよいかには答えますが、読解のためにそれを使ってよいかには答えません。2024/25にはBusiness Schoolの講義モジュールの約85%が赤の課題を課していた一方、大学の明示的な目標はすべての評価を緑へ移すことでした。著者らは、信号機方式は時代遅れであり、[[evaluative-judgment|人間の判断]]を中心に据える枠組みに道を譲るべきだと結論づけています。
+
+**製品レベルの基準には過程の証拠が必要であり、基準は文脈をまたいで上手く移動しない。** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al.(2026)]]は、中国と米国の高等教育教員654人に対し、GenAI支援のもとで制作された成果物における創造性をどう判断するかを調査した。その結論は、製品レベルの創造性基準には、学生が実際に何を貢献したかという過程の証拠(プロンプト、改訂履歴、反省的根拠)を伴わせるべきだということである。それは、磨かれた成果物が学生の創造的貢献の証拠と誤認されることのないようにするためである。彼らの異文化間の結果はもう一つの注意を加える。ある集団の新規性やインスピレーションへの重みづけに合わせたルーブリックは、別の集団にそのままでは移らない可能性がある。したがって評価基準は、それらが判断しようとする研究と同様の文脈の検証に値する。
+
+この文献の一つの流れは、問題そのものを安定化できないと論じる。[[designing-university-assessment-ai-2027|人工知能のある世界のための大学評価の設計]]は、生成AIを解くべきパズルではなく、その中で働くべき条件として扱う18章を収めている。同書の編者は、そのような条件の下で専門家が助言すると何が起きるかを報告する。行動する教員は助言する側が共有しない帰結を背負うため、提案は別の問題に組み替えられるのだ。この巻に含まれる唯一の複数プログラム実装は、すべての単位で学習を保証することが保証の単一障害点を生むことを見いだした。そのため10のプログラムは最も重要な課題だけを保証した。2025年12月までに彼らは学習を保証するよう18の評価課題を再設計し、さらに17を提案し、その作業をプログラム当たり50時間で資金づけた。
 
 ## 教育におけるAIへの含意
 

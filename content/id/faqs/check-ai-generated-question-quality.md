@@ -24,7 +24,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Anda meminta dua puluh soal dari catatan kuliah Anda. Soal-soal itu kembali dengan kunci jawaban, penjelasan, label kesulitan, dan kategori taksonomi Bloom, dalam dokumen berformat yang tampak sudah jadi. Nama Anda akan segera tercantum di sana.
+Anda meminta dua puluh soal dari catatan kuliah Anda. Soal-soal itu kembali dengan kunci jawaban, penjelasan, label kesulitan, dan kategori [[bloom-taxonomy|taksonomi Bloom]], dalam dokumen berformat yang tampak sudah jadi. Nama Anda akan segera tercantum di sana.
 
 Inilah jawaban singkatnya: soal yang dihasilkan adalah kandidat, bukan sebuah penilaian. Selesaikan setiap butir sendiri, periksa apa yang sebenarnya dituntut dari siswa, dan cari tahu bagaimana siswa meresponsnya sebelum soal itu dihitung. Dalam dua studi terbesar, sinyal yang menarik bukanlah bahwa pembuatan soal berhasil, melainkan di mana ia gagal. Pembuatan iteratif di dalam alur kerja khusus mata kuliah menghasilkan ujian pilihan ganda yang dapat digunakan pada 71 kelas perguruan tinggi ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Dalam audit ilmu data atas 311 soal yang digunakan, label kesulitan model hampir sempurna mengikuti tingkat Bloom yang dihasilkannya bersamaan dengan soal itu (Spearman ρ = 0,90) sementara mengikuti skor yang sebenarnya diperoleh siswa pada ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An dan Wang, 2026]]). Label itu adalah deskripsi atas prompt, bukan pengukuran atas butirnya.
 
@@ -60,7 +60,7 @@ Periksa keselarasan berikutnya: apakah menjawabnya memberikan bukti untuk capaia
 
 Bacalah redaksinya seperti seorang siswa. Apakah informasi yang dibutuhkan tersedia, dan apakah ambiguitas yang tidak berkaitan dengan konstruk Anda sudah dihilangkan?
 
-Lihatlah pilihan jawaban dan aturan penilaian secara bersamaan. Apakah pengecohnya masuk akal dan berbeda satu sama lain serta berbeda dari kunci, dan apakah kunci mengakui jawaban alternatif yang sah yang akan diberi kredit oleh rubrik Anda?
+Lihatlah pilihan jawaban dan aturan penilaian secara bersamaan. Apakah pengecohnya masuk akal dan berbeda satu sama lain serta berbeda dari kunci, dan apakah kunci mengakui jawaban alternatif yang sah yang akan diberi kredit oleh [[rubrics|rubrik]] Anda?
 
 Terakhir, tanyakan siapa yang dikecualikan oleh butir itu. Beban membaca, konteks budaya, visual, dan format dapat menimbulkan tuntutan yang tidak berkaitan dengan capaian. Bagi siswa multibahasa atau penyandang disabilitas, butir yang memberi ganjaran atas kecepatan membaca sedang mengukur sesuatu yang tidak Anda maksudkan, dan [[differential-effects-across-learner-groups|kinerja subkelompok]] adalah tempat hal itu terlihat.
 

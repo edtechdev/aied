@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 - **경영학에서, 교과과정 질문으로서.** [[csaszar-ai-management-education-2026|Csaszar 외(2026)]]는 가치 기반 전략 렌즈를 통해 AI가 경영 교육의 목적을 어떻게 바꾸는지 분석하며, 기술이 어떤 활동을 대체하고 어떤 활동을 보완하는지 묻습니다. [[espino-ai-business-education-review-2026|Espino & Espino(2026)]]는 그 질문에 앞선 10년의 연구를 다루고, [[drummond-genai-business-schools-framework-2026|Drummond & Dale(2026)]]는 학교가 어떻게 대응해야 하는지에 대한 학생 의견 기반 프레임워크를 구축합니다.
 - **경영학에서, 채점 문제로서.** [[mesny-innovative-assessment-grading-management-2026|Mesny(2026)]]는 강의계획서가 아니라 평가 설계를 변화의 현장으로 다룹니다. [[automated-scoring-marketing-posts-agreement-2026|학생 마케팅 게시물의 자동 채점]]은 일치도와 오류를 직접 측정하는데, 이는 이 클러스터에서의 [[assessment-validity|타당도]] 질문입니다. 인간 채점자와 일치하는 점수가 반드시 의도한 학습을 측정하는 점수는 아닙니다.
 - **환경 연구에서, 이중 주제로서.** [[daniel-ai-sustainability-scoping-review-2026|Daniel(2026)]]은 지속가능성을 *위한* AI와 지속가능한 AI를 분리하며, 글로벌 사우스 격차가 양쪽 모두를 관통함을 발견합니다. [[aied-carbon-footprint-reporting|AIED의 탄소 발자국 보고]]는 2025년 공시 실태를 검토하고 후자를 위한 오픈소스 방법을 제공하며, [[ai-assisted-inquiry-ssi-climate|AI 보조 기후 탐구]]는 전자에 대해 탐구만보다 d = 0.69의 효과를 보고합니다.
+
+- **심리학에서, 강좌별 구현으로서.** [[integrating-generative-ai-in-psychology-courses|심리학 강좌에 생성형 AI 통합]]은 Society for the Teaching of Psychology의 21개 기록을 모아 기초·임상·통계 계열에 걸쳐 가르치는 강좌별로 정리합니다([[psychology-education|심리학 교육]]). 그 각 장은 연구가 아니라 실천자의 보고이므로 결과 증거 대신 설계 세부를 싣지만, 이 클러스터는 한 학문의 교육을 교과과정 규모로 다룬 첫 기록을 얻습니다.
 
 ## 측정의 공백
 

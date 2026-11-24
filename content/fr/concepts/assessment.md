@@ -1,5 +1,5 @@
 ---
-connected_resources: [idstack, lesson-md, master-instructional-design]
+connected_resources: [idstack, lesson-md, master-instructional-design, designing-university-assessment-ai-2027]
 title: "Évaluation"
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-11-23T14:30:00-05:00"
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-22T11:45:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -102,6 +102,8 @@ Une proposition de cette littérature pousse au-delà de la refonte à l'intéri
 Le code couleur est l'alternative qui revient sans cesse, et la version d'un établissement a fait son temps. [[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman et Pavlopoulou (2026)]] reconstituent une conversation de panel autour du cadre de l'Université de Leeds, en vigueur dans toutes les facultés depuis 2023, où le rouge interdit l'IA, l'ambre laisse les règles à chaque enseignant de module et le vert enseigne un usage responsable. Leur objection porte sur la portée : une couleur attachée à un devoir répond à la question de savoir si un outil peut être utilisé ici, mais non s'il peut l'être pour comprendre le texte. En 2024/25, environ 85% des modules enseignés de la Business School portaient des devoirs rouges tandis que l'objectif affirmé de l'université était de passer toutes les évaluations au vert ; les auteurs concluent que le feu tricolore est dépassé et devrait céder la place à un cadre gardant central le [[evaluative-judgment|jugement humain]].
 
 **Les critères de produit exigent des preuves de processus — et les critères se transfèrent mal d'un contexte à l'autre.** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] ont interrogé 654 enseignants de l'enseignement supérieur en Chine et aux États-Unis sur la manière dont ils jugent la créativité des artefacts assistés par GenAI, et concluent que les critères de créativité au niveau du produit devraient s'accompagner de preuves de processus sur ce que l'étudiant a réellement apporté — invites, historiques de révision, justifications réflexives — afin qu'un artefact soigné ne soit pas pris pour la preuve d'une contribution créative de l'étudiant. Leur résultat interculturel ajoute une mise en garde : une grille calibrée sur le poids qu'une population accorde à la nouveauté ou à l'inspiration peut ne pas se transférer telle quelle à une autre, si bien que les critères d'évaluation méritent le même examen contextuel que les études qu'ils sont censés juger.
+
+Un courant de cette littérature soutient que le problème lui-même ne peut être stabilisé. [[designing-university-assessment-ai-2027|Concevoir l'évaluation universitaire pour un monde avec l'intelligence artificielle]] rassemble dix-huit chapitres qui traitent l'IA générative comme une condition dans laquelle il faut travailler plutôt que comme une énigme à résoudre. Ses éditeurs rapportent ce qui se passe lorsque des experts conseillent dans ces conditions : les propositions sont reformulées en problèmes différents, parce que l'enseignant qui doit agir porte des conséquences que le conseiller ne partage pas. L'unique mise en œuvre multiprogramme de l'ouvrage a constaté qu'assurer l'apprentissage dans chaque unité crée des points uniques de défaillance de l'assurance, si bien que dix programmes n'ont assuré que les tâches les plus importantes. En décembre 2025, ils avaient redessiné 18 tâches d'évaluation pour assurer l'apprentissage, proposé 17 de plus et financé le travail à 50 heures par programme.
 
 ## Implications pour l'IA en éducation
 

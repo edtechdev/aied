@@ -12,7 +12,7 @@ page_kind: [synthesis]
 confidence: high
 updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/retrieval-spacing-interleaving"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -89,10 +89,12 @@ Penyertaan interleaving di sini karenanya bersandar pada keluarga teori yang sam
 
 - **Sampel kecil dan konteks tunggal.** Sampel analitik studi pretesting adalah 89 mahasiswa sarjana dalam satu mata kuliah statistika terapan, dengan 27–34 siswa per lengan; studi interaksi LLM memiliki n = 22 dengan desain kelompok tunggal yang tidak mendukung klaim kausal; studi mengajar-kembali memiliki 22 partisipan. Penulis studi pretesting menyatakan bahwa replikasi lintas domain dan jenis tugas diperlukan untuk generalisasi.
 - **Interval retensi yang pendek atau absen.** Studi kedalaman interaksi hanya menguji daya ingat segera, tanpa ukuran tertunda, sehingga hasil nolnya adalah nol untuk retensi jangka pendek secara khusus. Keunggulan retensi Memdora dan [[llm-interaction-depth-task-quality-recall-2026|disosiasi kedalaman LLM]] sama-sama tidak dilacak selama minggu-minggu yang disyaratkan literatur jeda; jendela tujuh minggu studi pretesting adalah yang terpanjang dalam korpus.
-- **[[self-report-measures|Ukuran laporan diri]] dan proksi.** Usaha latihan dalam studi pretesting adalah indikator perilaku yang dinilai dua penilai terhadap rubrik dari log percakapan, yang secara eksplisit dicatat penulis bukan ukuran keadaan [[motivation|motivasional]] internal; ukuran kedalaman LLM adalah proksi berbasis kata kunci yang menangkap bentuk permukaan pencarian penjelasan alih-alih kualitasnya.
+- **[[self-report-measures|Ukuran laporan diri]] dan proksi.** Usaha latihan dalam studi pretesting adalah indikator perilaku yang dinilai dua penilai terhadap [[rubrics|rubrik]] dari log percakapan, yang secara eksplisit dicatat penulis bukan ukuran keadaan [[motivation|motivasional]] internal; ukuran kedalaman LLM adalah proksi berbasis kata kunci yang menangkap bentuk permukaan pencarian penjelasan alih-alih kualitasnya.
 - **Batas instrumentasi dan pemodelan.** Model [[knowledge-tracing]] dalam korpus gagal tepat di tempat keputusan jeda membutuhkannya, dan penulis mengatribusikan keberhasilan masa lalu pada pencocokan seluruh kumpulan data secara retroaktif alih-alih validasi yang realistis untuk penerapan. Kualitas kartu kilat pendamping bilingual belum diverifikasi terhadap kebenaran dasar, tanpa lapisan pemeriksaan fakta otomatis, dan sama sekali belum menjalankan studi hasil.
 - **Interleaving praktis tidak memiliki bukti langsung di sini.** Seperti dinyatakan di atas, korpus tidak memuat perbandingan blok versus interleaving, hanya simulasi di mana Interleaving adalah satu strategi yang dapat dipilih di antara beberapa.
 - **Populasi subjek dan konten.** Basis bukti terkonsentrasi pada [[higher-ed|pendidikan tinggi]], pada materi STEM dan statistika, serta pada pembedaan fakta-versus-keterampilan dari konten geometri dan regresi berganda; generalisasi ke latar [[k-12|K-12]], ke [[humanities-education|humaniora]] dan menulis, dan ke ruang kelas non-Barat tidak ditetapkan oleh studi-studi ini.
+
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan, Schweppe, Teo, Indrajaya, dan Wenzel (2026)]] menempatkan AI generatif di depan efek pengujian: dua pertanyaan awal (prequestion) hasil ChatGPT dijawab sebelum membaca teks 675 kata. Dalam empat eksperimen dengan 90, 128, 153, dan 157 orang dewasa, pertanyaan awal mengungguli membaca saja (d = 1.12 pada soal yang dilatih, d = 0.78 pada soal yang tidak) dan menyamai soal buatan manusia. Pembelajar nyaris tidak pernah menjawab benar — akurasi 0.056 pada Eksperimen 1 — namun tetap belajar lebih banyak, yang merupakan ciri khas efek pretesting. Transfer menurun seiring jarak: soal yang diuji mengungguli soal bersumber sama yang tidak diuji (d = 0.46), yang mengungguli soal bersumber berbeda yang tidak diuji (d = 0.32). Pembuatan soal menjadi murah; pengambilan tetap wajib.
 
 ## Miskonsepsi Umum
 

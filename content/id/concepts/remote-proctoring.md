@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 updated: "2026-11-08T14:01:53-05:00"
 translation_of: "concepts/remote-proctoring"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ connected_articles: [corbin-ai-glasses-wearable-ai-assessment-2026, automated-on
 
 - Sebelum membaca, ketika Anda membayangkan 'integritas akademik dalam ujian daring,' apa naluri pertama Anda tentang cara mempertahankannya — dan apakah naluri itu tentang mendeteksi kecurangan atau tentang membangun kepercayaan? Halaman ini berargumen bahwa keduanya mencerminkan dua filosofi yang sangat berbeda.
 - Proctoring jarak jauh berkisar dari manusia yang memantau melalui webcam hingga sistem AI yang menganalisis gerakan mata, postur kepala, dan ekspresi wajah. Apa yang *sebenarnya* diamati sistem AI ketika menandai 'perilaku mencurigakan,' dan seberapa yakin Anda bahwa memalingkan pandangan dari layar berarti curang?
-- Halaman ini memperingatkan bahwa pemantauan dapat kontraproduktif: dipantau menaikkan [[anxiety-and-stress|kecemasan ujian]], dan siswa yang stres mungkin *lebih* cenderung curang. Dapatkah Anda mengingat saat tekanan atau pengawasan memengaruhi performa Anda sendiri? Apakah pengalaman itu melemahkan alasan untuk proctoring?
+- Halaman ini memperingatkan bahwa pemantauan dapat kontraproduktif: dipantau menaikkan kecemasan ujian, dan siswa yang stres mungkin *lebih* cenderung curang. Dapatkah Anda mengingat saat tekanan atau pengawasan memengaruhi performa Anda sendiri? Apakah pengalaman itu melemahkan alasan untuk proctoring?
 - Proctoring otomatis menangkap ruang hidup, wajah, dan suara siswa, sering kali dengan sedikit pilihan nyata selain menyetujuinya. Di mana batas antara pengawasan ujian yang wajar dan pengawasan yang menganggap siswa bersalah sampai terbukti jujur — dan siapa yang harus menariknya?
 - Penelitian menunjukkan proctoring dapat menandai perilaku jinak sebagai mencurigakan, sehingga menghasilkan tuduhan palsu, dan bahwa akurasi model berbeda-beda lintas demografi dan lingkungan. Jika Anda seorang [[administrator]], bagaimana Anda menimbang integritas yang dipulihkannya terhadap keadilan dan kepercayaan yang dapat dirusaknya?
 - Halaman ini membingkai proctoring sebagai satu alat, bukan solusi — alternatif seperti ujian lisan dan [[process-oriented-assessment|penilaian berbasis proses]] tersedia. Sebelum membaca, pendekatan mana yang akan Anda bela untuk penilaian berisiko tinggi dalam konteks jarak jauh, dan bukti apa yang akan mengubah pikiran Anda?

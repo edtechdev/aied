@@ -1,7 +1,7 @@
 ---
 title: Psychology Education
 created: "2026-11-17T06:03:44-05:00"
-updated: "2026-11-17T13:05:00-05:00"
+updated: "2026-11-24T18:20:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [student-ai-interaction]
@@ -10,13 +10,14 @@ assessment: [assessment-validity]
 level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
+connected_resources: [integrating-generative-ai-in-psychology-courses]
 reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 > **Psychology education** — the teaching of psychology as a discipline: the introductory and methods sequence, the undergraduate major, and the clinical and counseling training that leads to practice. It has the largest AI literature of any discipline in this base, and most of that literature does not study the psychology curriculum at all. Psychology students are the most convenient sample in [[higher-ed|higher education]]. They supply the respondents for generic studies of [[motivation|motivation]] and feedback. A smaller set of studies examines the courses themselves: assessment design in a second-year unit, an [[intelligent-tutoring|AI tutor]] in a statistics course, and the clinical training where AI is both a tool and a professional risk. The distinction matters because a finding that psychology students use [[generative-ai|generative AI]] in one way is not a finding about teaching psychology.
@@ -48,6 +49,8 @@ The clearest course study is an [[assessment|assessment design]]. [[richmond-nic
 Assessment generation is the second strand. [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]] had ChatGPT-4 write 80 multiple-choice items for an Experimental Psychology course and ran the full psychometric apparatus over them with 120 students: internal consistency acceptable, test-retest moderate, 11.25% of items discriminating poorly, and a Bloom's distribution of 73.75% recall against 8.75% analysis or evaluation. The items were reliable evidence that students could name things, and silent about whether they could design a study.
 
 Statistics is the third, and the best-evidenced intervention. [[ai-tutor-statistical-programming-adoption-2026|Préau and colleagues]] deployed a purpose-built "R-Tutor" inside a semester-long R programming course for psychology undergraduates at Tübingen, in a preregistered [[longitudinal-research|longitudinal design]], with the tutor prompted to guide rather than to answer.
+
+One edited volume takes the same question course by course rather than study by study. [[integrating-generative-ai-in-psychology-courses|Integrating Generative AI in Psychology Courses]] gathers twenty-one accounts from the Society for the Teaching of Psychology, organized by the course an instructor is about to teach: foundational and cross-cutting, clinical and counseling, and research methods with statistics. Its chapters are practitioner reports rather than studies, and they are unevenly evidenced, but they supply what the experimental literature here cannot, namely designs that ran in particular classrooms. Three commitments recur across them: stage access so students have something to judge the tool against, require verification and make it visible, and treat the instructor's judgment about when not to use the tool as the intended outcome.
 
 ## Clinical and counseling training
 

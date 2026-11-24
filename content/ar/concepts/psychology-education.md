@@ -10,7 +10,7 @@ level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 updated: "2026-11-22T17:00:00-05:00"
@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-11-22"
     agent: hermes-agent
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -54,6 +54,8 @@ connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudi
 ويأتي توليد التقويم كثاني خيط. فكلّف [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]] ChatGPT-4 بكتابة 80 مفردة اختيار من متعدد لمقرر علم النفس التجريبي، ثم أخضعها لجهاز القياس النفسي بكامله مع 120 طالبًا: فاتّساق داخلي مقبول، وثبات إعادة اختبار متوسط، و11.25% من المفردات تميّزت تمييزًا ضعيفًا، وتوزيع بحسب تصنيف بلوم 73.75% استرجاع مقابل 8.75% تحليل أو تقويم. وكانت المفردات دليلًا ثابتًا على أن الطلاب يستطيعون تسمية الأشياء، وصامتةً عمّا إذا كانوا يستطيعون تصميم دراسة.
 
 والإحصاء هو الثالث، وهو التدخّل الأفضل دليلًا. فنشر [[ai-tutor-statistical-programming-adoption-2026|Préau and colleagues]] «R-Tutor» المبني خصيصًا داخل مقرر برمجة R مدته فصل دراسي لطلاب علم النفس الجامعيين في توبنغن، في [[longitudinal-research|تصميم طولي]] مسجّل مسبقًا، مع تحفيز المدرّس على التوجيه بدل الإجابة.
+
+إحدى المجموعات المُحرَّرة تتناول المسألة نفسها مقررًا بمقرر لا دراسةً بدراسة. يجمع [[integrating-generative-ai-in-psychology-courses|دمج الذكاء الاصطناعي التوليدي في مقررات علم النفس]] إحدى وعشرين سردًا من جمعية تعليم علم النفس، مرتّبةً بحسب المقرر الذي يعتزم المدرّس تدريسه: الأساسي والمشترك، والسريري والاستشاري، ومناهج البحث مع الإحصاء. فصولها تقارير ممارسين لا دراسات، وهي متفاوتة الأدلة، لكنها توفّر ما تعجز عنه الأدبيات التجريبية هنا، أي تصاميم نُفّذت في صفوف دراسية بعينها. وتتكرر عبرها ثلاثة التزامات: تنظيم الوصول حتى يكون للطلاب ما يحاكمون به الأداة، وإلزام التحقق وجعله ظاهرًا، واعتبار حكم المدرّس بعدم استخدام الأداة هو النتيجة المنشودة.
 
 ## التدريب السريري والاستشاري
 

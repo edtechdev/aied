@@ -9,7 +9,7 @@ assessment: [feedback, learning-gains]
 confidence: high
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/productive-failure"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Kegagalan produktif berada dalam keluarga teori belajar yang berpusat pada galat
 
 ### Belajar dari galat
 Pemrosesan yang penuh galat dapat membantu retensi dan perubahan konseptual, terutama ketika siswa diberi kesempatan untuk merenungkan dan menata ulang pemahaman mereka (Kapur, 2008; Schwartz & Martin, 2004). Di era AI, hal ini dioperasionalkan dalam sistem tempat siswa mendiagnosis dan mengoreksi galat mereka sendiri alih-alih menerima koreksi langsung — misalnya, tugas [[lukesova-clue-before-correction-2026|petunjuk-sebelum-koreksi]] di mana AI memberi petunjuk terpandu dan siswa menyimpulkan solusi yang benar, mengurangi beban kognitif dan mendukung revisi otonom. Umpan balik elaboratif menghasilkan [[learning-gains|perolehan belajar]] yang jauh lebih tinggi daripada umpan balik verifikasi semata (Hattie & Timperley), dan waktu pemberian umpan balik juga penting.
+
+**Galat menjadi kurikulum dalam tugas pengodean terkontrol yang dibantu AI.** [[shen-ai-skill-formation-2026|Shen dan Tamkin (2026)]] meminta para pengembang mempelajari pustaka Python baru dengan atau tanpa asisten GPT-4o, dan kelompok tanpa bantuan menemui median tiga galat berbanding satu di bawah bantuan (Q1-Q3: 2.0 hingga 5.0 berbanding 0.0 hingga 3.0). Galat yang dihapus asisten adalah galat khas pustaka yang memaksa pemahaman tentang coroutine, seperti coroutine yang tidak di-await atau objek coroutine yang dilewatkan di tempat fungsi diharapkan. Kelompok tanpa bantuan kemudian memperoleh skor 17% lebih tinggi pada kuis yang dikerjakan tanpa AI, dengan kesenjangan terbesar pada debugging dan terkecil pada membaca kode, dan mengetik ulang kode hasil generasi alih-alih menempelnya tidak menutup sebagian pun dari kesenjangan itu. Para penulis membaca penyelesaian galat secara mandiri sebagai mekanismenya sementara mengukur asosiasinya alih-alih memediasinya.
 
 ### Kekeliruan vs. galat
 Sebuah pembedaan yang berguna: **kekeliruan** biasanya berupa slip atau kelalaian (sering karena kecerobohan atau kelebihan beban) yang mungkin membawa nilai diagnostik terbatas, sedangkan **galat** mencerminkan kesalahpahaman yang sebenarnya atau penalaran yang cacat dan merupakan bahan belajar yang lebih produktif karena mengungkap miskonsepsi yang dapat ditangani. Analisis galat — mengidentifikasi *mengapa* suatu jawaban salah — adalah inti dari belajar dari galat, dan merupakan keterampilan [[pedagogy|pedagogis]] kunci (serta sasaran bagi desain [[ai-feedback-quality|umpan balik AI]]).

@@ -14,7 +14,7 @@ level: [higher ed]
 confidence: medium
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/oral-assessment"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ connected_articles: [ai-second-language-listening-speaking-assessment-2025, corb
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 
-- Penilaian lisan dipromosikan di era AI karena mesin tidak dapat duduk di ruangan dan menjawab untuk Anda. Namun korpus yang mengargumentasikan hal ini tidak memuat [[rct|uji acak]] atas penilaian lisan dibandingkan penilaian tertulis. Apa yang perlu Anda lihat sebelum menganggap argumen itu tuntas?
+- Penilaian lisan dipromosikan di era AI karena mesin tidak dapat duduk di ruangan dan menjawab untuk Anda. Namun korpus yang mengargumentasikan hal ini tidak memuat uji acak atas penilaian lisan dibandingkan penilaian tertulis. Apa yang perlu Anda lihat sebelum menganggap argumen itu tuntas?
 - Kumpulan karya yang sama melaporkan dua mekanisme berbeda untuk berkurangnya [[anxiety-and-stress|kecemasan]]: menghilangkan pengamatan langsung [[teacher-role|guru]], dan menjadi terbiasa dengan format melalui latihan. Keduanya menyiratkan desain yang berbeda. Mana yang cocok untuk konteks Anda, dan mana yang akan Anda percayai untuk digeneralisasi?
 - Penilaian yang hanya berdasarkan tuturan dapat menyalahartikan kelancaran verbal sebagai pemahaman konseptual. Jika pembelajar memberi gestur dengan benar tetapi mengucapkan kata yang salah, atau mengucapkan kata yang benar tanpa memahaminya, apa tepatnya yang diukur oleh penilaian Anda?
 - Setiap desain lisan dalam korpus ini menabrak dinding yang sama: waktu staf dan ruang. Jika kendalanya adalah dua puluh delapan jam kontak per semester untuk lima belas siswa, apakah jawaban yang jujur adalah jumlah tugas yang dipertahankan lebih sedikit, tim pengajar yang lebih besar, atau format yang berbeda?
@@ -49,6 +49,8 @@ Pembalikan itu kini terlihat di seluruh korpus penelitian, tetapi tidak merata. 
 
 Versi jujur dari klaim integritas itu lebih sempit daripada yang sering dinyatakan. Penilaian lisan membuat penggantian lebih sulit disembunyikan; korpusnya tidak menunjukkan bahwa penilaian itu mengurangi penggunaan AI. Dalam [[code-review-genai-cs1|studi tinjauan kode lisan CS1]], wawancara lima belas menit setiap minggu membawa tujuh puluh persen dari nilai setiap tugas, dan rasio karakter hasil tempel terhadap total tetap naik dari 61.0 persen menjadi 68.1 persen (p < 0.0001) selama tiga semester, sementara skor ujian bergerak sebesar dua persen yang tidak signifikan secara statistik. Sembilan puluh persen siswa menyatakan tinjauan itu memotivasi mereka untuk lebih memahami kode mereka dan enam puluh lima persen menyatakan tinjauan itu membantu menghindari ketergantungan berlebih pada AI, tetapi perilaku yang terukur tidak mengikutinya. Penilaian lisan mengubah apa yang bisa disembunyikan, bukan apa yang dilakukan siswa.
 
+Versi terbatas dari pengaman itu muncul dalam model penilaian Webb-Davies, Ratner, dan Bassett, di mana viva hanya dipicu ketika penilai tidak dapat merekonstruksi kaitan yang masuk akal antara garis dasar penalaran yang diamati dan kiriman akhir. Para penulis menegaskan bahwa ini bukan penilaian lisan rutin: ia bertanya bagaimana suatu posisi berkembang atau mengapa bukti dipilih, dan akun yang terkonfirmasi tidak membawa penalti. Desainnya menjaga penilaian lisan cukup langka untuk diskalakan sambil mengakui bahwa putusannya sendiri tidak dapat diotomasi ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies dkk., 2026]]).
+
 ## Ruang desain yang sebenarnya dicakup korpus
 
 Format-format dalam korpus mencakup rentang otomasi dan sinkronisitas yang luas, dan masing-masing memecahkan bagian masalah yang berbeda.
@@ -59,7 +61,11 @@ Format-format dalam korpus mencakup rentang otomasi dan sinkronisitas yang luas,
 
 **Penyampaian dan penilaian otomatis.** [[ai-supported-oral-assessment-tvet-2026|Sistem berbasis suara yang diuji dalam kelas otomotif dan teknik kejuruan]] menilai tiga puluh tiga pembelajar, dua puluh satu di antaranya setuju bahwa tugas suara langsung terasa realistis dan tidak ada yang tidak setuju bahwa berbicara secara waktu nyata lebih cocok untuk tugas itu daripada [[eportfolio|portofolio]] tertulis. Jumlah kata untuk pertanyaan yang identik bervariasi lima hingga delapan kali lipat antar pembelajar, kelancaran tidak memberikan keunggulan akurasi pada item tertutup, dan nilai agen pendahuluan cocok dengan nilai tutor manusia pada sembilan puluh lima persen uji coba hortikultura dan peternakan susu yang berdekatan. [[socratic-tests-conversational-assessment|Tes Sokratik percakapan]] mengambil jalur desain yang berlawanan, menargetkan pertanyaan konseptual; buktinya adalah survei lapor diri atas sembilan puluh delapan siswa, di mana 80.6 persen setuju bahwa AI memberikan perancah secara efektif dan lima puluh dua persen melaporkan stres yang lebih rendah daripada ujian tradisional. Kedua makalah mengukur penerimaan, bukan pembelajaran.
 
+**AI sebagai perancah logistik untuk penilaian lisan langsung yang dipantau manusia.** Susunan ketiga mempertahankan instruktur sebagai penguji dan memakai AI untuk membuat latihan berpasangan memungkinkan. Dalam [[onodipe-enhance-not-replace-ai-classroom-2026|mata kuliah statistika bisnis Onodipe dkk. (2025)]], penilaian lisan Zoom satu-per-satu langsung tidak dapat menjangkau setiap siswa dalam batas waktu, sehingga siswa bekerja dalam pasangan di ruang breakout dengan prompt ChatGPT terstruktur yang mencakup jenis pertanyaan yang akan diajukan ujian, sementara instruktur berputar antar ruang untuk menyelidiki penalaran. Makalah itu melaporkan logistik dan penurunan beban instruktur tetapi tidak ada perbandingan luaran, sehingga ia adalah desain yang perlu diuji, bukan bukti bahwa latihan dimediasi AI mempertahankan apa yang disertifikasi penilaian lisan. Minatnya adalah ia menargetkan kendala penjadwalan dan jam kontak yang disebut Fenton tanpa mengotomasi penyampaian maupun penskoran.
+
 **Bukti lisan sebagai pertahanan, bukan ujian.** [[tool-invariant-framework-agentic-ai|Kerangka penilaian invarian-alat]] memasangkan kuis di kelas tanpa AI dengan pertahanan lisan sepuluh menit atas karya berbantuan AI yang komentarnya dihapus, dinilai berdasarkan pemahaman kode, pemahaman metode, terminologi, interpretasi, dan verifikasi, dengan verifikasi wajib lulus terlepas dari totalnya. Desainnya diargumentasikan, bukan divalidasi; aritmetika makalah itu sendiri untuk lima belas siswa adalah dua setengah jam kontak per tugas dan sekitar dua puluh delapan jam kontak per semester melintasi sebelas tugas yang dipertahankan.
+
+**Penyelidikan sampel, bukan cakupan penuh.** Deng (2026) mengusulkan pemeriksaan undian acak dari karya siswa sendiri secara tatap muka, dengan empat syarat kredibilitas: lebih dari satu penyidik, sesi terekam dan dapat diaudit, jalur banding, dan konsultan yang bukan pemberi sertifikat ([[deng-certification-consultation-university-teaching-2026|Deng, 2026]]). Desain ini diargumentasikan alih-alih diuji, tetapi ia menemui dinding jam kontak dengan mengambil sampel alih-alih memeriksa semuanya.
 
 Format interaksi menentukan apa yang dapat disertifikasi oleh tugas berbicara yang dimediasi AI. Tugas dialog Tes Bahasa Inggris Duolingo, 713 di antaranya dalam uji coba, menuntut pemilihan jawaban alih-alih tuturan reaktif, yang menurut para peninjau membuat tuntutan kognitif tugas tidak selaras dengan konstruk yang diklaim diukur oleh tes tersebut ([[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust (2025)]]).
 
@@ -82,6 +88,7 @@ Tidak ada format yang memegang posisi tetap dalam pertukaran ini: keteramatan pe
 Dasar integritas penilaian lisan juga terbatas waktu: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin dkk. (2026)]] berargumen bahwa kacamata AI dan penyumbat telinga dapat menyampaikan prompt waktu nyata secara tersembunyi di dalam viva langsung, karena AI yang dapat dikenakan tidak menghasilkan pergeseran pandangan mata atau sinyal yang dapat dideteksi, sehingga penilaian lisan interaktif tidak lagi kebal.
 
 - **Batas atas skala adalah kendala desain.** Dalam lokakarya dengan 73 pendidik [[cs-education|komputasi]], penilaian lisan dan interaktif dilaporkan sebagai bukti terkuat yang tersedia tentang pemahaman individual dan remedi yang paling sulit diskalakan. Mitigasi yang dijelaskan para partisipan adalah distribusi dan pengambilan sampel: kumpulan asisten pengajar bersama, [[peer-assessment|penilaian sejawat]] dengan bobot di bawah [[summative-assessment|ujian akhir]],, dan memanggil sebagian siswa secara bergilir ([[computing-assessment-genai-workshop-report-2026|Akbar dkk., 2026]]).
+- **Percakapan yang diskor mesin melunak di tempat pewawancara menyediakan perancah.** [[challen-conversational-assessment-chat-exams-2026|Challen dan Zilles (2026)]] memisahkan pewawancara buta [[rubrics|rubrik]] dari evaluator tersembunyi; penilaian ulang buta atas 40 upaya sepakat pada 35% dan memberikan nilai tertinggi dua kali, sedangkan evaluator yang diterapkan memberikannya 20 kali.
 
 ## Miskonsepsi Umum
 

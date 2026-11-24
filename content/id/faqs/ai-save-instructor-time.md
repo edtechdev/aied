@@ -9,7 +9,7 @@ audience: [instructors, faculty developers]
 updated: "2026-11-15T16:05:39-05:00"
 type: faq
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T11:03:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ Sekarang Kamis malam di minggu kedelapan. Tiga kerangka pelajaran jatuh tempo Se
 
 Kalian berdua sedang menggambarkan alat yang sama. Ia menghemat waktu untuk menyusun materi yang memang akan Anda sunting, dan ia memakan waktu ketika Anda mengarahkannya pada penilaian tentang siswa tertentu. Apakah penghematannya menjadi milik Anda bergantung pada keputusan yang jarang diambil pengajar: untuk apa jam yang kembali itu.
 
-Intinya untuk rapat: serahkan draf pertamanya dan pertahankan penilaiannya. Kerangka pelajaran, contoh terkerjakan, pertanyaan diskusi, butir kuis [[formative-assessment|formatif]], penjelasan alternatif, rumusan rubrik dan teks administratif rutin adalah pekerjaan yang dapat Anda spesifikasikan, periksa dan koreksi. Tujuan, nilai akhir dan setiap keputusan tentang [[learners|pembelajar]] tertentu tetap pada Anda. Sebutkan apa yang dibeli jam yang terbebaskan itu, karena bukti tentang penghematan waktu adalah bukti tentang ke mana waktunya pergi.
+Intinya untuk rapat: serahkan draf pertamanya dan pertahankan penilaiannya. Kerangka pelajaran, contoh terkerjakan, pertanyaan diskusi, butir kuis [[formative-assessment|formatif]], penjelasan alternatif, rumusan [[rubrics|rubrik]] dan teks administratif rutin adalah pekerjaan yang dapat Anda spesifikasikan, periksa dan koreksi. Tujuan, nilai akhir dan setiap keputusan tentang [[learners|pembelajar]] tertentu tetap pada Anda. Sebutkan apa yang dibeli jam yang terbebaskan itu, karena bukti tentang penghematan waktu adalah bukti tentang ke mana waktunya pergi.
 
 ## Versi singkat
 
@@ -47,6 +47,8 @@ Kumpulan data kedua dalam karya yang sama, lebih dari 104.000 pesan dari lebih d
 
 Itu alokasi ulang, bukan pengurangan: yang Anda peroleh dari [[generative-ai|AI generatif]] adalah selisih antara halaman kosong dan draf yang cukup spesifik untuk diperdebatkan.
 
+Dua uji coba pilihan guru mengukur temuan yang sama dalam satuan waktu. Di 68 sekolah menengah di Inggris, waktu persiapan pelajaran untuk sains Kelas 7 dan 8 turun dari 81,5 menjadi 56,2 menit per minggu, penghematan 25,3 menit, tanpa penurunan kualitas yang terdeteksi ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). Dosisnya kecil dan menyusut: alat itu mencakup 39% pelajaran yang dinominasikan pada lima minggu pertama dan 29% pada periode kedua. Sebuah uji coba Aila di sekolah dasar menemukan waktu perencanaan 2,51 jam per minggu berbanding 3,32, seperlima lebih sedikit, pada alat yang mencapai 7% pelajaran dan menurun sepanjang semester ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
+
 ## Cocokkan tugasnya dengan apa yang dikerjakan alat itu dengan baik
 
 Kualitasnya tidak merata dalam pola yang cukup stabil untuk dijadikan dasar perencanaan. Peninjau tersamar lebih menyukai versi AI untuk kesimpulan pelajaran dan tiket keluar sebesar 59,7% dibandingkan materi yang dirancang profesional, dan lebih menyukai materi AI untuk konten sekolah menengah sebesar 59,2%. Penghematannya juga tumbuh di tempat kepercayaan diri Anda paling rendah: mengajar di luar bidang Anda sendiri adalah kasus dengan kesenjangan terlebar antara apa yang diserahkan alat itu dan apa yang akan Anda tulis sendiri.
@@ -54,6 +56,8 @@ Kualitasnya tidak merata dalam pola yang cukup stabil untuk dijadikan dasar pere
 Dua kategori berjalan sebaliknya. Pada materi tingkat dasar, manusia lebih disukai sekitar 65% untuk kesesuaian perkembangan. [[scaffolding|Perancah]] yang ditargetkan untuk pembelajar [[multilingual-learning|multibahasa]] dan siswa di [[special-education|pendidikan khusus]] kembali netral alih-alih salah, yang lebih buruk daripada kedengarannya, karena perancah netral adalah perancah yang Anda bangun ulang dari awal.
 
 Uji yang memprediksi hal ini sebelum Anda menghabiskan satu malam untuknya: dapatkah Anda menyatakan spesifikasinya cukup tepat untuk memeriksa keluarannya? Tiket keluar tentang satu tujuan, ya. Apakah sebuah paragraf cocok untuk anak sembilan tahun tertentu yang membaca dua tahun di bawah kelasnya, tidak.
+
+Pelatihan adalah kasus yang memisahkan kedua efek itu secara tegas. Dalam uji coba tiga lengan, akses ChatGPT memangkas waktu persiapan sebesar 34%, dan pelatihan sebelumnya memangkasnya lebih jauh 21%, sementara pelatihan tambahan tidak menghasilkan tambahan keuntungan pada penilaian kualitas tersamar ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Lebih cepat dan lebih baik berpisah: strategi yang dilatih lebih cepat tanpa lebih baik.
 
 ## Beri tujuan pada jam yang kembali itu
 

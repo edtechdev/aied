@@ -12,7 +12,7 @@ institutions: [educational-policy-ai, governance]
 updated: "2026-11-15T16:05:39-05:00"
 type: faq
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -106,7 +106,7 @@ Tutup dengan keputusan yang dapat Anda nyatakan tanpa skor itu. Entah siswa menu
 
 ## Sisipkan satu langkah yang tidak bisa dimasuki alat itu
 
-[[oral-assessment|Penilaian lisan asinkron]], dibangun sebagai prompt tepat waktu dengan respons terekam yang singkat dan berbatas waktu serta dinilai dengan rubrik tertanam, berkinerja setara dengan ujian pilihan ganda tatap muka dalam satu studi dan secara signifikan lebih baik dalam studi lain, dengan siswa melaporkan persiapan yang lebih aktif dan relevansi profesional yang dirasakan lebih tinggi. Bagi seorang [[administrator|pengelola institusi]], sifat yang penting adalah bahwa ini dapat diskalakan tanpa pengawasan ([[asynchronous-oral-assessment-2026|Pentland et al., 2026]]).
+[[oral-assessment|Penilaian lisan asinkron]], dibangun sebagai prompt tepat waktu dengan respons terekam yang singkat dan berbatas waktu serta dinilai dengan [[rubrics|rubrik]] tertanam, berkinerja setara dengan ujian pilihan ganda tatap muka dalam satu studi dan secara signifikan lebih baik dalam studi lain, dengan siswa melaporkan persiapan yang lebih aktif dan relevansi profesional yang dirasakan lebih tinggi. Bagi seorang [[administrator|pengelola institusi]], sifat yang penting adalah bahwa ini dapat diskalakan tanpa pengawasan ([[asynchronous-oral-assessment-2026|Pentland et al., 2026]]).
 
 Merancang ulang tugasnya berbuat lebih banyak daripada mengeraskan pemeriksaannya. Studi kasus atas mahasiswa ekonomi sarjana menemukan hanya sekitar sepertiga melaporkan pemakaian AI apa pun, dengan pengungkapan lebih jarang lagi, dan membaca non-pengungkapan sebagai kehati-hatian yang rasional di bawah kebijakan yang ambigu, bukan sebagai ketidakjujuran. Mahasiswa yang sama menyukai tugas berbasis data dan dunia nyata sebagai solusinya ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al., 2026]]). Mengharapkan, mendeklarasikan dan menelaah pemakaian AI mengalahkan pengawasannya, karena [[authentic-assessment|keaslian]] harus dirancang, bukan ditegakkan ([[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al., 2025]]).
 

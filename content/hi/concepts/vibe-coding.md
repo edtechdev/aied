@@ -1,22 +1,8 @@
 ---
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: "वाइब कोडिंग"
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-20T18:49:23-05:00"
 type: concept
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
-translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
-contributors: [editor]
-ai_assist:
-  - model: stepfun/step-5-preview:free
-    role: translation
-    date: "2026-10-14"
-    agent: hermes-agent
-  - model: meituan/longcat-2.5:free
-    role: translation
-    date: "2026-11-20"
-    agent: hermes-agent
-connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
 audience: [instructors, curriculum designers, researchers, software developers]
@@ -24,7 +10,17 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:52:31-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
+translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -56,6 +52,14 @@ connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-
 ## वाइब कोडिंग को अंत-उपयोगकर्ता विकास और शिक्षक-उपकरण के रूप में
 
 वाइब कोडिंग की एक बड़ी प्रतिज्ञा यह है कि यह गैर-प्रोग्रामरों — जिनमें [[teacher-role|शिक्षक]] और डोमेन विशेषज्ञ शामिल हैं — को अपना सॉफ़्टवेयर बनाने देती है, यह अंत-उपयोगकर्ता विकास का एक LLM-युग रूप है। एक [[gaide-vibe-coding-k12-teachers|GAIDE फ्रेमवर्क अध्ययन]] ने दिखाया कि [[k-12|K-12]] शिक्षक (गैर-प्रोग्रामर) AI-सक्षम शिक्षण उपकरण बनाने के लिए आठ सप्ताह के कार्यशाला में वाइब कोडिंग का उपयोग करते हैं, जिससे उनकी [[ai-literacy|AI साक्षरता]] बढ़ी और "निर्माण द्वारा सीखना" एक व्यावसायिक विकास मॉडल के रूप में प्रदर्शित हुआ। [[higher-ed|उच्च शिक्षा]] में, एक शिक्षक ने [[vibe-coding-programming-process-visualizer|IDE गतिविधि लॉग से एक प्रोग्रामिंग-प्रक्रिया विज़ुअलाइज़र]] को कुछ ही दिनों में वाइब कोडिंग के माध्यम से तेज़ी से बनाया, जिससे छात्रों की प्रोग्रामिंग प्रक्रियाएँ शिक्षण और [[academic-integrity]] समीक्षा के लिए दृश्यमान हो गईं। ये उदाहरण वाइब कोडिंग को केवल एक शिक्षार्थी कौशल के रूप में नहीं, बल्कि एक लेखन क्षमता के रूप में प्रस्तुत करते हैं जो [[educational-development|यह बदलती है कि शैक्षणिक प्रौद्योगिकी कौन बना सकता है]]।
+
+एक तुलनात्मक थिंक-अलाउड अध्ययन ने 15 पूर्व-सेवा शिक्षकों, 13 सेवारत शिक्षकों और 10 कोडिंग विशेषज्ञों से 30 मिनट में एक शैक्षिक वेब ऐप बनाने को कहा, फिर यह देखा कि प्रत्येक समूह अनिश्चितता को कैसे सामान करता है ([[lin-teacher-vibe-coding-uncertainty-2026|लिन और ज़ोउ, 2026]])। तीनों समूह समस्या-फ्रेमिंग, विकास और सत्यापन में इसी क्रम में घूमते रहे, लेकिन वे अनिश्चितता को अलग-अलग तरीके से घटाते थे, और तदनुसार उनकी कृतियाँ भी भिन्न निकलीं।
+
+- **सेवारत शिक्षकों ने पहले से जाने-पहचाने दिनचर्या कार्यों को स्वचालित किया।** साप्ताहिक रीडिंग जाँच और टैबलेट वर्कशीट परिचित समस्याएँ थीं, इसलिए उनकी कृतियाँ ज़्यादातर मौजूदा अभ्यास की जगह लेती थीं: 13 में से 8 उदाहरण प्रतिस्थापन के अंतर्गत आए।
+- **पूर्व-सेवा शिक्षकों ने शैक्षणिक सिद्धांतों के माध्यम से ढाँचा बनाया।** उनकी परियोजनाएँ अधिकतर कुछ नया बनाती थीं, जिनमें 15 में से 9 मामलों में वर्धन और 1 में रूपांतरण दर्ज था।
+- **विशेषज्ञ सामान्य संकेत देने के बजाय संरचनात्मक रूप से काम करते थे।** वे संकीर्ण क्षमता-जाँच चलाते, मॉडल से स्पष्टीकरण प्रश्न पूछते, कृति को परीक्षण योग्य घटकों में विघटित करते, और जाँचों को स्वचालित करते।
+
+वे कार्यप्रवाह इसलिए भिन्न निकले क्योंकि प्रत्येक समूह एक अलग ज्ञान-आधार लाया, इसलिए नहीं कि किसी एक समूह में कौशल की कमी थी। अतः शिक्षक-तैयारी को केवल संकेत-कौशल की ट्रेनिंग देने के बजाय शैक्षणिक, संदर्भ-संबंधी और तकनीकी विशेषज्ञता को एकीकृत करना चाहिए।
 
 **लेखन एक मूल्यांकन चाल है, केवल पहुँच-कहानी नहीं।** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] इसका परिणाम निकालते हैं: यदि कृतियाँ अब वह विचार प्रमाणित नहीं करतीं जिन्हें वे उत्पन्न करना चाहती थीं, तो मूल्यांकन को प्रक्रिया को पकड़ना होगा, और प्रक्रिया-प्रमाण के लिए विस्तारित अवलोकन चाहिए जिसे सीमित स्टाफिंग प्रदान नहीं कर सकती। शिक्षक द्वारा बनाया गया उपकरण वे शैक्षणिक निर्णय, स्कैफ़ोल्डिंग और प्रोत्साहन ले जा सकता है जो खरीदा गया उत्पाद नहीं ले जाता, जो डिज़ाइन-निर्णय को वापस उस शिक्षक को सौंप देता है जो सीखने का न्याय करता है।
 

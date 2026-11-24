@@ -1,8 +1,8 @@
 ---
-connected_resources: [idstack, lesson-md, master-instructional-design]
+connected_resources: [idstack, lesson-md, master-instructional-design, designing-university-assessment-ai-2027]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-22T11:45:00-05:00"
+updated: "2026-11-24T18:30:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -83,6 +83,8 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 The color code is the alternative that keeps being proposed, and one institution's version has run its course. [[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman and Pavlopoulou (2026)]] reconstruct a panel conversation about the University of Leeds framework, in force across all faculties since 2023, in which red bans AI, amber leaves the rules to each module tutor and green teaches responsible use. Their objection is scope: a color attached to an assignment answers whether a tool may be used here but not whether it may be used to understand the reading. In 2024/25 about 85% of taught modules in the Business School carried red assignments while the university's stated goal was to move all assessment to green, and the authors conclude that the traffic light is outdated and should give way to a framework keeping [[evaluative-judgment|human judgment]] central.
 
 **Product criteria need process evidence — and criteria travel badly across contexts.** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] surveyed 654 higher-education teachers in China and the U.S. on how they judge creativity in GenAI-assisted artifacts, and concluded that product-level creativity criteria should be paired with process evidence of what the student actually contributed — prompts, revision histories, reflective rationales — so a polished artifact is not mistaken for proof of student creative contribution. Their cross-cultural result adds a caution: a rubric tuned to one population's weighting of novelty or inspiration may not transfer cleanly to another, so assessment criteria deserve the same context check as the studies they are meant to judge.
+
+One strand of this literature argues that the problem itself cannot be stabilized. [[designing-university-assessment-ai-2027|Designing University Assessment for a World with Artificial Intelligence]] collects eighteen chapters that treat generative AI as a condition to work within rather than a puzzle to solve. Its editors report what happens when experts advise under those conditions: proposals get reformulated into different problems, because the teacher who must act bears consequences the advisor does not share. The volume's one multi-program implementation found that assuring learning in every unit creates single points of assurance failure, so ten programs secured only the tasks that mattered most. By December 2025 they had redesigned 18 assessment tasks to assure learning, proposed 17 more, and funded the work at 50 hours per program.
 
 ## Implications for AI in education
 

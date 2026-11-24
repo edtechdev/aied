@@ -13,7 +13,7 @@ confidence: high
 methods: [research-methods-aied]
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/learning-sciences"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -86,13 +86,6 @@ Bidang ini juga membangun teori alih-alih hanya menguji kerangka pinjaman: [[the
 
 Temuannya baru bermakna setelah mencapai pengajaran, dan perjalanan itu melewati tiga halaman. [[educational-development]] adalah praktik institusional yang membawanya — pengembangan fakultas, standar, kebijakan, dan [[learner-identity|kerja identitas]] menentukan apakah sebuah desain tervalidasi pernah mencapai ruang kelas, itulah sebabnya bukti bidang ini secara rutin mendahului apa yang telah diimplementasikan institusi. [[teacher-education]] adalah tempat pengetahuan itu harus mendarat sebelum seorang guru masuk ke ruangan, dan [[teacher-role]] adalah tempat ia mendarat sesudahnya, dalam pertimbangan dari saat ke saat tentang kapan harus campur tangan, instrumen mana yang dipakai, dan kapan harus membiarkan pembelajar sendiri. Tak satu pun dari ketiganya menghasilkan temuan ilmu pembelajaran; ketiganya menentukan apakah temuan itu mengubah praktik.
 
-## Miskonsepsi Umum
-
-- **"Ambang penguasaan yang tinggi menjamin pembelajar dapat membedakan."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren dan Stamper (2026)]] menjalankan **sebelas eksperimen (N = 192)** dengan sistem [[intelligent-tutoring]] dan menemukan bahwa pada **ambang penguasaan 95% sistem mengakhiri latihan sebelum ada kasus yang menuntut pembelajar menahan tindakan**, sehingga cacatnya tidak terdeteksi. Penguasaan atas tindakan tidak mencakup pengetahuan tentang kapan tidak menerapkannya, dan ambang itu mensertifikasi konstruk yang salah.
-- **"Lebih banyak contoh lebih aman."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger dan Carvalho (2025)]] memperlakukan rasio contoh-masalah sebagai **interaksi konten-perlakuan**, dan dalam eksperimen 2×2 optimumnya **bergantung pada konten**. Tidak ada rasio yang benar secara global, sehingga templat instruksional tetap adalah taruhan melawan sebuah interaksi.
-- **"Memperbaiki [[misconceptions|miskonsepsi]] adalah soal memberi tahu siswa jawaban yang benar."** Latihan jangan-bertindak singkat dengan [[feedback]] yang menyebutkan batasan yang hilang memangkas kesalahan penerapan menjadi **0.0%-23.1% (Cohen's h 1.70-2.44)**, dan analisis sekunder atas **tiga belas kumpulan data *Decimal Point* K-12** menemukan pola struktural yang sama. Intervensi yang efektif adalah latihan membedakan dengan umpan balik tertarget, bukan koreksi melalui pernyataan — yang secara umum ditetapkan oleh kerja [[refutation-text|teks sanggahan]].
-- **"Level Bloom yang lebih tinggi berarti [[active-learning|pembelajaran yang lebih aktif]]."** Akuisisi mendominasi tingkat bawah — **sekitar 50% aktivitas pada level 1 Bloom** — dan menyusut menjadi **sekitar 20% pada level 6**. Tuntutan kognitif dan jenis aktivitas bergerak bersama tetapi bukan sumbu yang sama, sehingga menandai tugas menurut level Bloom tidak memberi tahu Anda apa yang akan dilakukan pembelajar dengannya.
-
 ## Apa Artinya bagi Praktik
 
 **Bagi instruktur**
@@ -107,3 +100,10 @@ Temuannya baru bermakna setelah mencapai pengajaran, dan perjalanan itu melewati
 - Jangan menghentikan latihan hanya berdasarkan kebenaran. Modelkan kondisi penahanan sebagai keterampilan tersendiri, atau sistem akan mensertifikasi generalisasi berlebih.
 - Biarkan rasio menjadi parameter alih-alih konstanta, karena buktinya menyatakan optimumnya bergantung pada konten.
 - Laporkan konstruk mana yang diukur kriteria Anda, terpisah dari konstruk mana yang diukur validasi Anda.
+## Miskonsepsi Umum
+
+- **"Ambang penguasaan yang tinggi menjamin pembelajar dapat membedakan."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren dan Stamper (2026)]] menjalankan **sebelas eksperimen (N = 192)** dengan sistem [[intelligent-tutoring]] dan menemukan bahwa pada **ambang penguasaan 95% sistem mengakhiri latihan sebelum ada kasus yang menuntut pembelajar menahan tindakan**, sehingga cacatnya tidak terdeteksi. Penguasaan atas tindakan tidak mencakup pengetahuan tentang kapan tidak menerapkannya, dan ambang itu mensertifikasi konstruk yang salah.
+- **"Lebih banyak contoh lebih aman."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger dan Carvalho (2025)]] memperlakukan rasio contoh-masalah sebagai **interaksi konten-perlakuan**, dan dalam eksperimen 2×2 optimumnya **bergantung pada konten**. Tidak ada rasio yang benar secara global, sehingga templat instruksional tetap adalah taruhan melawan sebuah interaksi.
+- **"Memperbaiki [[misconceptions|miskonsepsi]] adalah soal memberi tahu siswa jawaban yang benar."** Latihan jangan-bertindak singkat dengan [[feedback]] yang menyebutkan batasan yang hilang memangkas kesalahan penerapan menjadi **0.0%-23.1% (Cohen's h 1.70-2.44)**, dan analisis sekunder atas **tiga belas kumpulan data *Decimal Point* K-12** menemukan pola struktural yang sama. Intervensi yang efektif adalah latihan membedakan dengan umpan balik tertarget, bukan koreksi melalui pernyataan — yang secara umum ditetapkan oleh kerja [[refutation-text|teks sanggahan]].
+- **"Level Bloom yang lebih tinggi berarti [[active-learning|pembelajaran yang lebih aktif]]."** Akuisisi mendominasi tingkat bawah — **sekitar 50% aktivitas pada level 1 Bloom** — dan menyusut menjadi **sekitar 20% pada level 6**. Tuntutan kognitif dan jenis aktivitas bergerak bersama tetapi bukan sumbu yang sama, sehingga menandai tugas menurut level Bloom tidak memberi tahu Anda apa yang akan dilakukan pembelajar dengannya.
+

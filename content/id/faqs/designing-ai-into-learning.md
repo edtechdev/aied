@@ -9,7 +9,7 @@ pedagogy: [active-learning, pedagogy, scaffolding]
 updated: "2026-11-15T15:58:33-05:00"
 type: faq
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -83,7 +83,7 @@ Perangkat diatur oleh kriteria terbentuk versus [[cognitive-offloading|offloadin
 
 ## Periksa apakah keselarasan itu nyata
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|Analisis wacana McInnes dan rekan]] atas 14 panduan pendidikan tinggi memperingatkan bahwa saran yang dibingkai sebagai efisiensi, seperti memakai AI generatif untuk menyusun capaian, rubrik, dan kerangka mata kuliah, menghasilkan [[assessment|keselarasan]] yang tampak selaras sementara separuh konstruktifnya diabaikan. Capaian, aktivitas, dan penilaian dihasilkan sebagai butir-butir yang terpisah, bukan butir yang saling bergantung.
+[[mcinnes-salvaging-constructive-alignment-genai-2026|Analisis wacana McInnes dan rekan]] atas 14 panduan pendidikan tinggi memperingatkan bahwa saran yang dibingkai sebagai efisiensi, seperti memakai AI generatif untuk menyusun capaian, [[rubrics|rubrik]], dan kerangka mata kuliah, menghasilkan [[assessment|keselarasan]] yang tampak selaras sementara separuh konstruktifnya diabaikan. Capaian, aktivitas, dan penilaian dihasilkan sebagai butir-butir yang terpisah, bukan butir yang saling bergantung.
 
 Resep mereka adalah penyusunan ulang urutan. Pendidik seharusnya memahami keselarasan konstruktif cukup baik untuk mengarahkan, menginterogasi, dan menolak keluaran AI sebelum mendelegasikan bagian mana pun darinya, karena menerima permukaan yang masuk akal adalah kegagalan evaluatif yang sama dengan yang diperingatkan pengajar kepada siswa. Di tempat AI dipakai, mereka menganjurkan sistem [[rag|retrieval-augmented]] yang dibatasi secara institusional dan dikonfigurasi mengikuti kebijakan serta standar mutu lokal, bukan bawaan generik yang dilatih di internet.
 

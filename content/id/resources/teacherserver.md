@@ -41,7 +41,7 @@ Untuk K-12: generator rencana pelajaran, lembar kerja, [[special-education|tujua
 matematika, aktivitas membaca, rencana pelajaran sains dan eksperimen sains, pelatih fonik dan membaca,
 penyesuai skor Lexile, [[automated-question-generation|pembuat kuis kurikulum]], generator perspektif
 historis dan skenario etika teknologi. Untuk dosen: pemeriksa teks, parafrase, generator studi kasus,
-generator ide riset, [[feedback|umpan balik tugas]], prompt diskusi dan pembuat rubrik. Situsnya juga
+generator ide riset, [[feedback|umpan balik tugas]], prompt diskusi dan [[rubrics|pembuat rubrik]]. Situsnya juga
 menerbitkan ulang ringkasan penelitian terbaru tentang AI dalam pendidikan.
 
 ## Catatan

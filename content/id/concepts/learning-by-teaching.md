@@ -9,7 +9,7 @@ discipline: [cs education]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/learning-by-teaching"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ Tantangan desain utama bagi agen yang dapat diajar berbasis LLM adalah bahwa LLM
 - **[[socrates-students-instructors-llms-lbt-2025|Celah pengetahuan yang direkayasa]]** (Yang et al.) merancang masalah yang tidak dapat dipecahkan LLM tanpa pengetahuan yang hanya dimiliki siswa, sehingga mengajar menjadi keharusan dan menangkal ketergantungan pasif berlebihan pada penggunaan LLM sebagai tutor.
 - **Batasan apprentice Explique** (Wang et al.) menginstruksikan tutee untuk (a) tetap menjadi pemula, (b) terus meminta klarifikasi sampai penjelasan siswa akurat, dan (c) tidak pernah mengungkap penjelasan target — serta untuk *menolak* siswa yang mencoba membalik peran dan meminta tutee menjelaskan balik.
 - **Unlearning sebagai jalur tingkat bobot menuju sifat mudah salah.** Machine unlearning menekan 16 komponen pengetahuan yang ditargetkan pada Mistral-7B, menurunkan akurasi dari sekitar 0.75 pada rasio lupa 10% menjadi di bawah 0.5 pada 40%, sementara model dasar bertahan di sekitar 0.85. Pengetahuan yang ditekan kembali melalui pembelajaran ulang terawasi dan dialog yang dipandu pelatih, sehingga tingkat pengetahuan tutee adalah sebuah tombol, bukan asersi ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+- **Pengawasan sebagai tugas tutee.** Dalam studi desain dua kursus, siswa mempekerjakan, mengonboard, dan melatih asisten umum, lalu mendokumentasikan apa yang salah dilakukannya; para instruktur melaporkan bahwa menjelaskan konvensi kepada alat itu memperjelas konvensi tersebut bagi siswa ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## Bertanya, regulasi diri, dan pembelajaran aktif
 

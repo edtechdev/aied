@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [teacher-dev]
 updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/stem-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,8 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 ## Pendahuluan
 
 ### STEM sebagai domain AIED utama
+
+Bagian disiplin mengelompokkan halaman subjek ke dalam empat klaster — [[humanities-education|Humaniora dan seni]], [[social-sciences-education|Ilmu sosial]], STEM, dan [[professions-education|Profesi]] — dan STEM adalah yang terbesar di antaranya dengan selisih yang jauh, yang sendiri merupakan temuan tentang di mana bukti AI dalam pendidikan terakumulasi.
 
 - **Matematika:** penelitian [[math-education|pendidikan matematika]] mencakup [[generative-ai-reduced-study-time-math|dampak GenAI pada pembelajaran matematika]], [[ai-powered-personalized-learning-elementary-fractions-2026|tutor pecahan tingkat dasar]], dan [[student-math-competence-clustering|pengelompokan kompetensi]].
 - **Bukti ITS matematika bersifat terbatas dan bersyarat.** Tinjauan naratif terstruktur atas 20 publikasi (2020–April 2026) menemukan keunggulan terukur paling jelas untuk [[feedback|umpan balik]] diagnostik waktu-nyata yang dilapisi pada sistem adaptif yang sama, namun menyimpulkan bahwa tutor cerdas mendukung pembelajaran matematika hanya ketika [[student-modeling|pemodelan siswa]] yang valid, perancah yang terkalibrasi, dan mediasi guru bergabung, serta bahwa skalabilitasnya bersifat teknis, bukan edukatif ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).

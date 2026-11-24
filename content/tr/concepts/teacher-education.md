@@ -1,7 +1,7 @@
 ---
 title: "Öğretmen eğitimi"
 created: "2026-10-14T22:30:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T17:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -10,10 +10,14 @@ discipline: [teacher education]
 level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-24T17:30:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
@@ -24,7 +28,7 @@ ai_assist:
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
-connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026, al-harthi-institutional-ai-support-teacher-education-2026]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026, al-harthi-institutional-ai-support-teacher-education-2026, tran-preservice-genai-lesson-planning-mindset-2026]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -57,7 +61,8 @@ Bir heutagojik damar bu tasarım önceliğinin yanında uzanır: [[heutagogical-
 - **Tasarım girdisi olarak yerel bağlam.** İsviçreli öğretmen adayları toplumsal yararlılık ve içsel motivleri Çinli akranlarından daha yüksek derecelendirdi; Çinli akranlar ise daha yüksek dijital öğretme yeterliği ve YZ coşkusu bildirdi ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno ve ark. (2026)]]). Hazırlık, giriş noktasını her ortamın [[motivation|motivasyonel]] profiline göre ayarlamalıdır.
 - **Uygulamalar ve faydalar.** 55 çalışmanın bir kapsam incelemesi, YZ'nin öğretmen adaylarının öğretim tasarımını, alan öğretimini, pratik öğretme becerilerini, değerlendirmeyi, yansıtıcı uygulamayı, eleştirel düşünmeyi, teknoloji bütünleşmesini ve pedagojik yeniliği güçlendirdiğini gösterir.([[harnessing-ai-preservice-teachers-scoping-2026]])
 
-- **İskeleye bağlanmamış üretici YZ erişimi, hiç üretici YZ'in altında puanlandı.** 52 öğretmen adayıyla 11 haftalık yarı-deneysel bir çalışmada, iskeleye bağlanmamış üretici YZ sınıfı, hiç üretici YZ içermeyen sınıftan daha düşük derecelendirme ölçeğine göre ders planı üretti (düzeltilmiş 86,54'e karşı 81,87, F = 8.348, p = 0,006, η² = 0,146), [[self-regulated-learning]] veya eleştirel düşünmede grup farkı olmadan ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang ve ark. (2026)]]).
+- **İskeleye bağlanmamış üretici YZ erişimi, hiç üretici YZ'in altında puanlandı.** 52 öğretmen adayıyla 11 haftalık yarı-deneysel bir çalışmada, iskeleye bağlanmamış üretici YZ sınıfı, hiç üretici YZ içermeyen sınıftan daha düşük [[rubrics|derecelendirme ölçeğine]] göre ders planı üretti (düzeltilmiş 86,54'e karşı 81,87, F = 8.348, p = 0,006, η² = 0,146), [[self-regulated-learning]] veya eleştirel düşünmede grup farkı olmadan ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang ve ark. (2026)]]).
+- **Zihniyet eğitimi, öğretmen adaylarının sadece bildirdiklerini değil, yaptıklarını değiştirir.** Otuz üç öğretmen adayı, 120 dakikalık YZ zihniyeti artı araç eğitimiyle veya yalnızca araç eğitimiyle rastgele eşleştirildi. Ardından 60 dakikalık bir ders planı görevinde kayda geçirildi ([[tran-preservice-genai-lesson-planning-mindset-2026|Tran ve ark. (2026)]]). 753 kodlanmış olayın süreç madenciliği, yansıtıcı yinelemeli çalışmayı (istem, okuma, yeniden istem) doğrusal çıkarmadan (bir kez okuma, kopyalama, yapıştırma) ayırdı. Yansıtıcı grup, [[tpack]] temelli derecelendirme ölçeğinde de daha yüksek puan aldı (17,69'a karşı 15,59, p = .042, d = 0,67).
 
 - **Yapılandırılmış özel GPT döngüleri dört bilişsel ortak rolü üretti.** Bir dönemlik tasarım temelli bir çalışmada, 14 öğretmen adayı Dijital Teknolojiler öğretmeni, İstem–Yansıt–İyileştir döngüleri aracılığıyla LMS ile bütünleşik kişiselleştirilmiş GPT ajanlarını kullandı; uzmanlık arttıkça kavramsal özel öğretmen, ortak tasarımcı, yansıtıcı ayna ve bilişsel zorlayıcı rollerini üstlendiler ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]) ve nihai ürünlerin %82’si içerik tanımlayıcılarını, değerlendirme görevlerini ve başarı ölçütlerini eşledi.
 - **[[educational-robotics|Eğitim robotiği]] ve ML.** İlk öğretmen eğitimi, gelecekteki öğretmenlerde [[computational-thinking|hesapsal düşünmeyi]] inşa etmek için kodlama, robotik ve [[machine-learning]] etkinliklerini (örn. micro:bit) gömer.([[microbit-robotics-machine-learning-teacher-training-2026]])
@@ -74,6 +79,7 @@ Bir heutagojik damar bu tasarım önceliğinin yanında uzanır: [[heutagogical-
 
 - **Hiçbir öğretmen adayı çalışması öğrenci öğrenmesini ölçmedi.** Yalnızca yedi kaynağı kapsayabilen bir inceleme, etiğin kabul edildiğini ama nadiren öğretildiğini veya değerlendirildiğini ve öğretmen adaylarının YZ’yi eleştirme konusunda aşırı güvenli olduğunu buldu ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
 
+- **Kurumsal destek birikimli etki yaratır.** Umman'daki 618 öğretmen adayıyla yapılan bir ankette, algılanan kurumsal YZ desteği dijital vatandaşlık uygulamalarını hem doğrudan, hem de YZ öz-yeterliliği aracılığıyla dolaylı olarak yordadı ([[al-harthi-institutional-ai-support-teacher-education-2026|Al-Harthi ve ark. (2026)]]). Desteği ve güveni birlikte sunan programlar, herhangi birini tek başına sunanlardan daha fazla pratik hareket ettirir.
 ### Çalışan öğretmenlerin mesleki gelişimi
 
 Çalışan öğretmenlerin mesleki gelişimi, uygulamadaki öğretmenleri YZ bütünleştirmede destekler. Buradaki YZ araştırması şunları içerir:

@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 updated: "2026-11-22T17:00:00-05:00"
@@ -49,6 +49,8 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 - **في الإدارة، كمسألة منهج.** يحلّل [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] كيف يغيّر الذكاء الاصطناعي ما يُعلَّم من الإدارة من خلال عدسة استراتيجية قائمة على القيمة، سائلين أيّ الأنشطة تحلّ التقنية محلها وأيّها تكمّله. وتغطي [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] عقد الأعمال الذي سبق ذلك السؤال، بينما تبني [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] إطارًا مستندًا إلى الطلاب لكيفية استجابة المدارس.
 - **في الإدارة، كمسألة تصحيح.** يعامل [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] تصميم التقويم موقعًا للتغيير بدلًا من المنهج الدراسي. ويقيس [[automated-scoring-marketing-posts-agreement-2026|التصحيح الآلي لمنشورات الطلاب التسويقية]] الاتّفاق والخطأ مباشرة، وهو نسخة المجموعة من سؤال [[assessment-validity|الصلاحية]]: فالدرجة التي تتّفق مع مصحّح بشري ليست بالضرورة درجة تقيس التعلّم المقصود.
 - **في الدراسات البيئية، بوصفه موضوعًا مزدوجًا.** يفرّق [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] بين الذكاء الاصطناعي *لأجل* الاستدامة وبين الذكاء الاصطناعي المستدام، ويجد فجوة الجنوب العالمي تخترق كليهما. وتراجع [[aied-carbon-footprint-reporting|الإبلاغ عن البصمة الكربونية في AIED]] ممارسات الإفصاح لعام 2025 وتقدّم منهجًا مفتوح المصدر للنصف الثاني، بينما تُبلّغ [[ai-assisted-inquiry-ssi-climate|الاستقصاء المناخي المعان بالذكاء الاصطناعي]] عن d = 0.69 فوق الاستقصاء وحده للنصف الأول.
+
+- **في علم النفس، بوصفه تنفيذًا مقررًا بمقرر.** يجمع [[integrating-generative-ai-in-psychology-courses|دمج الذكاء الاصطناعي التوليدي في مقررات علم النفس]] إحدى وعشرين سردًا من جمعية تعليم علم النفس، مرتّبة بحسب المقرر المُدرَّس عبر خيوط أساسية وسريرية وإحصائية ([[psychology-education|تعليم علم النفس]]). فصوله تقارير ممارسين لا دراسات، لذا تحمل تفاصيل تصميم بدلًا من أدلة نتائج، لكن المجموعة تكسب أول سرد لها عن تعليم تخصص بعينه على مستوى المنهج.
 
 ## فجوة القياس
 

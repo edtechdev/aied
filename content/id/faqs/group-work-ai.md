@@ -29,7 +29,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Presentasi kelompok kembali dengan rapi dan koheren, dan tidak satu pun anggotanya bisa menjelaskan argumen di dalamnya. Atau nilainya keluar merata, dan sesudahnya Anda mengetahui bahwa satu siswa menjalankan seluruh pekerjaan itu melalui [[generative-ai|AI generatif]] sementara tiga orang lainnya menumpang pada nilai bersama. Tidak ada apa pun di dalam berkas itu yang memberi tahu Anda mana yang terjadi, dan rubrik Anda punya baris kolaborasi yang dipenuhi semua orang.
+Presentasi kelompok kembali dengan rapi dan koheren, dan tidak satu pun anggotanya bisa menjelaskan argumen di dalamnya. Atau nilainya keluar merata, dan sesudahnya Anda mengetahui bahwa satu siswa menjalankan seluruh pekerjaan itu melalui [[generative-ai|AI generatif]] sementara tiga orang lainnya menumpang pada nilai bersama. Tidak ada apa pun di dalam berkas itu yang memberi tahu Anda mana yang terjadi, dan [[rubrics|rubrik]] Anda punya baris kolaborasi yang dipenuhi semua orang.
 
 Jawaban yang bisa diberikan kepada kolega: putuskan tempat AI per tugas, bukan per mata kuliah, jadikan negosiasi kelompok tentang AI sebagai sesuatu yang mereka kumpulkan dan Anda nilai, susun urutan pekerjaannya agar tidak bisa dipecah menjadi sesi chatbot paralel, dan pertahankan setidaknya satu komponen yang dijawab setiap anggota sendirian. Semuanya adalah desain tugas, dan tidak satu pun telah diuji terhadap kontrol tanpa AI, jadi Anda sedang membuat argumen desain, bukan menerapkan perbaikan yang terbukti.
 

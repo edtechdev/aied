@@ -9,7 +9,7 @@ technology: [educational-nlp, learning-analytics]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/icap-framework"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,8 @@ Penekanan ICAP pada keterlibatan generatif pada tingkat proses telah diadopsi ol
 2. **Libatkan pembelajar lintas mode.** Pengajaran [[ai-literacy|literasi AI]] yang efektif melibatkan pembelajar pada beberapa tingkat ICAP — paparan pasif, manipulasi aktif, generasi konstruktif, dan dialog interaktif — dengan memilih mode yang sesuai dengan tujuan pembelajaran.([[hingle-collaborative-ai-literacy-2025]])
 3. **Ukur keterlibatan secara jujur.** ICAP memberi peneliti dan perancang kosakata bersama untuk membedakan keterlibatan kognitif sejati dari aktivitas semata — koreksi terhadap [[student-engagement]] yang dangkal.([[icap-cognitive-engagement-llm-agents]])
 4. **Perhatikan kesenjangan anotasi manusia–LLM.** Jika sistem otomatis dipakai untuk mengodekan keterlibatan, kekurangan sistematisnya dibandingkan manusia terlatih harus diperhitungkan.([[icap-cognitive-engagement-llm-agents]])
+
+Desain tugas, bukan hanya desain alat, yang menetapkan plafonnya. Dari 829 utas terkode dalam 40 mata kuliah universitas, artefak yang dihasilkan di tempat dialog bersifat Konstruktif atau Interaktif memperoleh penilaian sejawat atas kualitas akhir yang sedikit lebih tinggi ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 
 ## Miskonsepsi Umum
 

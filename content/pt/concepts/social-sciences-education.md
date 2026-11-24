@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ A variação interna do cluster é grande, e a literatura a acompanha. A educaç
 - **Na gestão, como questão curricular.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] analisam como a IA muda o propósito da educação em gestão por uma lente de estratégia baseada em valor, perguntando quais atividades a tecnologia substitui e quais ela complementa. [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] cobrem a década de trabalho que precedeu essa questão, e [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] constroem um referencial informado por estudantes sobre como as escolas devem responder.
 - **Na gestão, como problema de correção.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] trata o desenho da avaliação como o local da mudança, e não o syllabus. [[automated-scoring-marketing-posts-agreement-2026|A correção automatizada de posts de marketing de estudantes]] mede concordância e erro diretamente, que é a versão deste cluster da questão da [[assessment-validity|validade]]: uma nota que concorda com um corretor humano não é necessariamente uma nota que mede a aprendizagem pretendida.
 - **Nos estudos ambientais, como objeto duplo.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] separa a IA *para* a sustentabilidade da IA sustentável e encontra a lacuna do Sul Global atravessando ambas. [[aied-carbon-footprint-reporting|O relato de pegada de carbono em AIED]] revisa a prática de divulgação de 2025 e fornece um método de código aberto para a segunda metade, enquanto [[ai-assisted-inquiry-ssi-climate|a investigação climática assistida por IA]] relata d = 0.69 sobre a investigação sozinha para a primeira.
+
+- **Na psicologia, como implementação curso a curso.** [[integrating-generative-ai-in-psychology-courses|Integrar a IA generativa nos cursos de psicologia]] reúne vinte e um relatos da Society for the Teaching of Psychology, organizados pelo curso lecionado ao longo das vertentes fundamental, clínica e estatística ([[psychology-education|educação em psicologia]]). Seus capítulos são relatos de profissionais e não estudos, por isso trazem detalhe de desenho em vez de evidência de resultado, mas o cluster ganha com eles seu primeiro relato sobre o ensino de uma disciplina em escala de currículo.
 
 ## A lacuna de medição
 

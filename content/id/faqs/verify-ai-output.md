@@ -11,7 +11,7 @@ audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
 updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/verify-ai-output
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-21T02:02:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Ini minggu sebelum nilai jatuh tempo dan dua kiriman mengutip sumber yang tidak ada. Kedua siswa mengatakan mereka sudah memeriksanya. Yang satu membuka tautannya. Yang lain membaca paragrafnya dan memutuskan bahwa bunyinya sudah benar. Anda sudah memberi tahu kelas ini untuk memverifikasi apa yang diberikan [[conversational-ai|chatbot]] kepada mereka, dan pemberitahuan itu tidak menghasilkan perilakunya.
 
-Verifikasi adalah urutan yang dapat Anda bangun ke dalam sebuah tugas. Putuskan apa yang dianggap benar sebelum tugas dimulai, buat siswa menetapkan harapan secara tertulis, arahkan mereka ke rekamannya alih-alih ke kesan mereka tentang prosanya, dan nilai rekaman yang mereka hasilkan. Baris rubrik yang berbunyi “memeriksa sumber” tidak mengukur satu pun dari itu.
+Verifikasi adalah urutan yang dapat Anda bangun ke dalam sebuah tugas. Putuskan apa yang dianggap benar sebelum tugas dimulai, buat siswa menetapkan harapan secara tertulis, arahkan mereka ke rekamannya alih-alih ke kesan mereka tentang prosanya, dan nilai rekaman yang mereka hasilkan. Baris [[rubrics|rubrik]] yang berbunyi “memeriksa sumber” tidak mengukur satu pun dari itu.
 
 ## Versi singkat
 
@@ -48,6 +48,8 @@ Verifikasi adalah urutan yang dapat Anda bangun ke dalam sebuah tugas. Putuskan 
 Tinjauan yang sama menarik garis kedua, antara [[trust|kepercayaan]] dan ketergantungan. [[trust-calibration|Kalibrasi ketergantungan]] menanyakan apakah keputusan bergantung itu tepat mengingat kualitas keluaran yang sebenarnya, yang mengikat pertimbangan pada satu keputusan dan satu keluaran. Satu studi yang diaudit menemukan bahwa informasi ChatGPT yang salah menggeser kepercayaan yang dilaporkan peserta dan tidak pernah mencatat apakah mereka kemudian menerima atau menolak rekomendasi tertentu. Studi lain mencatat keputusan menerima dan menolak atas [[feedback|umpan balik]] ChatGPT untuk 78 siswa penerjemahan, tetapi tanpa evaluasi pakar yang independen, sebuah penerimaan tidak dapat disebut tepat dan sebuah penolakan tidak dapat disebut beralasan. Tanpa kebenaran dasar tentang kualitas keluaran, ketergantungan tidak dapat diklasifikasikan sama sekali.
 
 Itulah konsekuensi desainnya, dan itu hal pertama yang harus diperbaiki. Sebelum Anda menetapkan tugas verifikasi, tulis dua deskripsi singkat: seperti apa keluaran yang benar untuk tugas ini, dan seperti apa keluaran yang masuk akal tetapi salah. Satu dari masing-masing sudah cukup. Siswa lalu memiliki standar untuk dijadikan pembanding, dan Anda memiliki sesuatu untuk menilai pemeriksaannya selain dari apakah siswa terdengar teliti.
+
+Literatur penelitian belum mengejar saran itu. Suatu tinjauan sistematis atas 65 studi empiris (2022-2026) menemukan bahwa tidak ada yang mengajarkan siswa kriteria untuk menilai keluaran AI, dan perancah literasi umpan balik tidak muncul sama sekali di antaranya: desain-desainnya mendorong jeda dan penjelasan sambil mengandaikan standar yang tidak pernah mereka sediakan ([[yu-verification-without-criteria-2026|Yu et al. (2026)]]).
 
 ## Buat mereka menetapkan posisi sebelum alat menjawab
 

@@ -1,8 +1,7 @@
 ---
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: "Vibe coding"
-created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-17T16:30:00-05:00"
+created: "2026-09-08T01:30:00-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,17 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
+connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:43:11-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-10-04"
+    date: "2026-11-24"
     agent: hermes-agent
-connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -52,6 +52,14 @@ Un estudio transversal preregistrado (N = 100 estudiantes de educación superior
 ## El vibe coding como desarrollo de usuarios finales y herramientas para el profesorado
 
 Una de las grandes promesas del vibe coding es que permite a quienes no programan —incluidos [[teacher-role|docentes]] y especialistas de dominio— construir su propio software, una forma de desarrollo por parte de usuarios finales propia de la era de los LLM. Un [[gaide-vibe-coding-k12-teachers|estudio del marco GAIDE]] mostró a docentes de [[k-12|K-12]] (no programadores) usando vibe coding en un taller de ocho semanas para crear herramientas de aprendizaje impulsadas por IA, lo que elevó su [[ai-literacy|alfabetización en IA]] y demostró el «aprender creando» como modelo de desarrollo profesional. En [[higher-ed|educación superior]], un docente construyó rápidamente un [[vibe-coding-programming-process-visualizer|visualizador del proceso de programación a partir de registros de actividad del IDE]] mediante vibe coding en cuestión de días, haciendo visibles los procesos de programación del estudiantado para la docencia y la revisión de [[academic-integrity|integridad académica]]. Estos casos sitúan el vibe coding no solo como una habilidad de quien aprende, sino como una capacidad de autoría que [[educational-development|reconfigura quién puede crear tecnología educativa]].
+
+Un estudio comparativo de pensamiento en voz alta pidió a 15 docentes en formación, 13 docentes en ejercicio y 10 personas expertas en programación que construyeran una aplicación web educativa en 30 minutos, y luego rastreó cómo gestionaba cada grupo la incertidumbre ([[lin-teacher-vibe-coding-uncertainty-2026|Lin y Zou, 2026]]). Los tres grupos recorrieron en bucle el planteamiento del problema, el desarrollo y la verificación, pero redujeron la incertidumbre de forma distinta, y sus artefactos divergieron en consecuencia.
+
+- **El profesorado en ejercicio automatizó rutinas que ya conocía.** Las comprobaciones semanales de lectura y las fichas para tableta eran problemas familiares, así que sus artefactos sustituyeron sobre todo la práctica existente: 8 de 13 cayeron en la categoría de sustitución.
+- **El profesorado en formación planteó desde principios pedagógicos.** Sus proyectos construyeron con más frecuencia algo nuevo, con amplificación en 9 de los 15 casos y transformación en 1.
+- **Las personas expertas trabajaron de forma estructural en lugar de esforzarse más en el prompting.** Ejecutaron sondas de capacidad acotadas, hicieron preguntas de aclaración al modelo, descompusieron el artefacto en módulos comprobables y automatizaron verificaciones.
+
+Esa diferencia refleja la base de conocimientos que aportó cada grupo, no un déficit de habilidad. Por eso los autores sostienen que la preparación docente debería integrar la experiencia pedagógica, contextual y técnica en lugar de limitarse a formar la habilidad de prompting.
 
 **La autoría es una decisión de evaluación, no solo un relato de acceso.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] extrae la consecuencia: si los artefactos ya no evidencian el pensamiento que debían suscitar, la evaluación tiene que capturar el proceso, y la evidencia del proceso exige una observación prolongada que una plantilla escasa no puede aportar. Una herramienta construida por el profesorado puede incorporar las decisiones pedagógicas, el andamiaje y el aliento que un producto comprado no incorporará, lo que devuelve el juicio de diseño a quien juzga el aprendizaje.
 

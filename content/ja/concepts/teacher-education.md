@@ -1,7 +1,7 @@
 ---
 title: 教師教育
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T17:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -9,18 +9,22 @@ audience: [instructors]
 discipline: [teacher education]
 level: [higher ed, k 12, adult learning]
 confidence: high
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-24T17:30:00-05:00"
 translation_of: concepts/teacher-education
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-role, tpack, teacher-ai-competency, ai-literacy, educational-development, k-12, ethics, ai-education, learning-sciences, chemistry-education]
-connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026, al-harthi-institutional-ai-support-teacher-education-2026]
+connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-genai-pd-math-creativity-2026, nash-preservice-teachers-classroom-ai-policies-2026, zou-is-this-a-trap-student-teachers-genai-2026, pishtari-teacher-ai-training-learning-design-2026, pedagogy-first-technology-second-teacher-knowledge-2026, preservice-teachers-responsible-genai-2026, harnessing-ai-preservice-teachers-scoping-2026, designing-ai-professional-development-itpack-2026, human-centered-ai-teacher-educators-2026, teaching-the-teachers-genai-tpk-review-2026, teachers-ai-knowledge-genai-lesson-planning-2026, choi-teacher-ai-interaction-lesson-design-2026, conceptualizing-preservice-teachers-ai-readiness-2026, ai-tpack-mathematics-teacher-education-2026, intelligent-tpack-ethics-teachers-trust-distrust-2026, microbit-robotics-machine-learning-teacher-training-2026, aaiwa-ai-authentic-assessment-metacognition-2026, science-educators-ai-literacy-postqualification-2026, context-based-ai-secondary-chemistry-2026, educasim-cs1-instructional-practice, chen-preservice-teachers-chatgpt-lpa-2026, motivation-shape-future-education-ai-switzerland-china, ai-supported-inquiry-photosynthesis-respiration-2026, reflective-triangle-model-teacher-ai-2026, sahab-model-genai-constructivist-id-2026, riandi-teacher-ai-green-energy-education-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, instructional-design-proficiency-masters-math-2026, li-language-educators-genai-review-2026, zhuang-zhang-chatgpt-math-teacher-education-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, teachers-collaborative-evaluation-ai-content-2026, ai-training-science-teacher-tpack-distance-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, unscaffolded-genai-preservice-teachers-quasi-experiment-2026, capability-decision-model-teacher-readiness-2026, heutagogical-teaching-ai-enhanced-education-2026, packard-thinking-partner-framework-adult-learners-2026, wang-genai-metacognitive-prompting-preconceptions-2026, webb-pck-genai-2026, idea-model-doctoral-education-genai-2026, al-harthi-institutional-ai-support-teacher-education-2026, tran-preservice-genai-lesson-planning-mindset-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -52,7 +56,8 @@ connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-g
 - **設計の入力としての地域の文脈。** スイスの学生教師は、社会的効用と内発的な動機を中国の同輩よりも高く評価し、中国の学生教師はデジタルの教授能力とAIへの熱意をより高く報告しました([[motivation-shape-future-education-ai-switzerland-china|Martínez-Morenoら(2026)]])。養成は、その入口を各環境の[[motivation|動機づけ]]のプロファイルに合わせるべきです。
 - **応用と利益。** 55の研究のスコーピングレビューは、AI が養成前段階の教師の教授設計、専門教科の指導、実践的な教育スキル、評価、省察的な実践、[[critical-thinking|批判的思考]]、技術統合、教授上の革新を高めることを示しています。([[harnessing-ai-preservice-teachers-scoping-2026]])
 
-- **足場かけのない genAI へのアクセスは、genAI なしを下回った。** 52人の養成前段階の教師を対象とした11週間の準実験では、足場かけのない genAI の授業は、genAI なしの授業よりもルーブリック評価の授業計画で低い得点をつけました(調整済み 86.54 対 81.87, F = 8.348, p = 0.006, η² = 0.146)。[[self-regulated-learning|自己調整学習]]や批判的思考に群間差はありませんでした([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang 他 (2026)]])。
+- **足場かけのない genAI へのアクセスは、genAI なしを下回った。** 52人の養成前段階の教師を対象とした11週間の準実験では、足場かけのない genAI の授業は、genAI なしの授業よりも[[rubrics|ルーブリック]]評価の授業計画で低い得点をつけました(調整済み 86.54 対 81.87, F = 8.348, p = 0.006, η² = 0.146)。[[self-regulated-learning|自己調整学習]]や批判的思考に群間差はありませんでした([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang 他 (2026)]])。
+- **マインドセットの訓練は、養成前段階の教師が報告することだけでなく、実際にすることも変える。** 33人の養成前段階の教師を、120分間のAIマインドセットとツールの訓練か、ツールのみの訓練のどちらかにランダムに割り当てた。60分間の授業計画タスクの最中に記録した（[[tran-preservice-genai-lesson-planning-mindset-2026|Tran 他 (2026)]]）。753件のコード化された出来事に対するプロセス・マイニングは、反省的で反復的な作業（プロンプト、熟読、再プロンプト）と線形的な取り出し（一度読む、コピー、貼り付け）とを分離した。反省的グループは、[[tpack]]に由来するルーブリックでも高得点だった（17.69 対 15.59、p = .042、d = 0.67）。
 - **構造化されたカスタムGPTのサイクルは、4つの認知的パートナーの役割を生みました。** 一学期のデザインベース研究では、14人の養成前段階のデジタル技術の教師が、LMSに統合された個別化されたGPTエージェントをプロンプト、省察、洗練のサイクルで用い、専門性の成長に応じて概念的チューター、共同設計者、内省の鏡、認知的挑戦者という役割を演じました([[zagami-generative-ai-cognitive-partner-2026|Zagami]])。最終的な成果物の82%が、内容の記述子、評価課題、成功基準を対応づけていました。
 - **[[educational-robotics|教育ロボティクス]]と機械学習。** 初期の教師訓練は、これからの教師の[[computational-thinking|計算論的思考]]を築くために、コーディング、ロボティクス、[[machine-learning|機械学習]]の活動(micro:bit など)を組み込みます。([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **本物の評価と[[metacognition|メタ認知]]。** AI を介した評価モデル(AAIWA など)は、[[authentic-assessment|本物のルーブリックに基づく評価]]、状況に応じた[[ai-feedback-quality|AI フィードバック]]、[[reflection|メタ認知的省察]]を養成前段階のプログラムに統合します。([[aaiwa-ai-authentic-assessment-metacognition-2026]])
@@ -68,6 +73,7 @@ connected_articles: [shukla-ai-teacher-education-frameworks-review-2026, bicer-g
 
 - **教職課程段階の研究で児童生徒の学習を測定したものはない。** 7件の資料しか組み入れられなかったあるレビューは、倫理が認識されてはいるもののほとんど指導も評価もされておらず、教職課程の学生がAIを批判的に検討する力について過信していることを明らかにした（[[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]）。
 
+- **制度的な後押しは複合的に効く。** オマーンの618人の養成前段階の教師を対象とした調査では、AIに対する制度的支援の知覚が、直接的に、そしてAIの自己効力感を通じて間接的に、デジタル市民性の実践を予測した（[[al-harthi-institutional-ai-support-teacher-education-2026|Al-Harthi 他 (2026)]]）。後押しと自信をともに提供するプログラムは、どちらか一方だけよりも実践を動かす。
 ### 現職の専門能力開発
 
 現職の専門能力開発は、AI の統合に取り組む現職の教師を支えます。ここでの AI の研究には以下が含まれます。

@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ Die interne Variation des Clusters ist groß, und die Literatur folgt ihr. Manag
 - **Im Management als Curriculumsfrage.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] analysieren durch die Linse der wertbasierten Strategie, wie KI verändert, wozu Managementausbildung da ist, und fragen, welche Aktivitäten die Technologie substituiert und welche sie ergänzt. [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] decken das Jahrzehnt an Arbeiten ab, das dieser Frage vorausging, und [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] entwickeln einen von Studierenden informierten Rahmen dafür, wie Business Schools reagieren sollten.
 - **Im Management als Benotungsproblem.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] behandelt das Prüfungsdesign statt des Lehrplans als Ort des Wandels. [[automated-scoring-marketing-posts-agreement-2026|Automatisierte Bewertung von Marketing-Beiträgen Studierender]] misst Übereinstimmung und Fehler direkt, was die Cluster-Version der Frage nach der [[assessment-validity|Validität]] ist: Eine Note, die mit einer menschlichen Bewertung übereinstimmt, ist nicht notwendigerweise eine Note, die das beabsichtigte Lernen misst.
 - **In Umweltstudien als doppelter Gegenstand.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] trennt KI *für* Nachhaltigkeit von nachhaltiger KI und findet die Kluft zum Globalen Süden in beiden. [[aied-carbon-footprint-reporting|CO₂-Fußabdruck-Berichterstattung in AIED]] prüft die Offenlegungspraxis von 2025 und liefert eine Open-Source-Methode für die zweite Hälfte, während [[ai-assisted-inquiry-ssi-climate|KI-gestütztes forschendes Lernen zum Klima]] für die erste d = 0,69 gegenüber forschendem Lernen allein berichtet.
+
+- **In der Psychologie als Umsetzung Kurs für Kurs.** [[integrating-generative-ai-in-psychology-courses|Integrating Generative AI in Psychology Courses]] versammelt einundzwanzig Berichte der Society for the Teaching of Psychology, geordnet nach dem gelehrten Kurs über grundlegende, klinische und statistische Stränge hinweg ([[psychology-education|Psychologieausbildung]]). Die Kapitel sind Praxisberichte statt Studien, sie tragen also Designdetails statt Ergebnisbelege, aber der Cluster gewinnt mit ihnen seine erste Darstellung des Unterrichts einer einzelnen Disziplin auf Curriculumebene.
 
 ## Die Messlücke
 

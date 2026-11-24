@@ -9,9 +9,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook, designing-university-assessment-ai-2027]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -145,6 +145,7 @@ Die Wissensbasis dokumentiert einen Paradigmenwechsel: von KI als zu überwachen
 
 - **Design, nicht Detektion: der Bochum-Fall.** Die Neugestaltung einführender Kern- und Teilchen-[[physics-education|Physik]] an der Ruhr-Universität Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) verband ihre KI-Richtlinie mit einem praktischen Integritätsversagen statt mit Detektion: weil Übungsprobleme vorab offengelegt waren, bereiteten einige Lernende KI-erzeugte Lösungen vor und kopierten sie auf die Tafel, ohne in das beabsichtigte Schlussfolgern einzutreten. Die Autoren behandeln dies als Designproblem — Übungsprobleme in vorbereitete Diskussion im Kursraum zu bewegen und eine schriftliche Prüfung zum Notenbestimmer zu machen — statt als Überwachungsproblem, während sie KI im Studium ausdrücklich erlauben, erklären, warum Verifikation die Verantwortung der lernenden Person ist, und vermerken, dass offene, KI-erlaubte Hausaufgaben auch Abhängigkeit, ungleichen Zugang zu bezahlten Modellen und Assistenz-Arbeitslast erhöhten.
 
+- **Attribution getrennt von Zitierkonformität.** [[designing-university-assessment-ai-2027|Universitätsbewertung gestalten (2027)]] unterscheidet das Zitieren, eine technische Anforderung, verflochten mit einem kommerziellen Publikationssystem, von der Attribution, einer Ethik des Anerkennens, wer und was ein Stück Denken geprägt hat. Die gestalterische Konsequenz ist, Punktabzüge für Kleinigkeiten aus Stilrichtlinien zu beenden, Studierende aufzufordern, ihre intellektuelle Herkunft zu artikulieren, und die Verantwortung für Integrität auch dann bei der studierenden Person zu belassen, wenn die Kontrolle mit einem Modell geteilt wird.
 - **Unabhängige Verifikation und die Abhängigkeit, auf die sie zielt.** Ragab (2026) schlägt ein fünfschichtiges Modell vor — verantwortungsvolle [[educational-policy-ai|Politik]] mit menschlicher Prüfung, [[authentic-assessment|authentisches Assessment]], unabhängige Kompetenzverifikation und beaufsichtigte jährliche sowie Abschluss-Assessments — mit dem Argument, dass Detektion die Last nicht tragen kann ([[ragab-ai-integrity-verification-model-2026|Ragab, 2026]]). Der Hebel, auf den solche Designs zielen, ist empirisch: Unter 1,045 chinesischen Studierenden im Grundstudium trug die Abhängigkeit von [[generative-ai|GenAI]] statt Gelegenheit oder geringer Kompetenz den Zusammenhang mit Unehrlichkeit, bei β = 0.63, und gefühlte [[agency|Handlungsmacht]] ging positiv damit einher, weil das Gefühl der Beherrschung die Delegation erlaubte, die es eigentlich zügeln sollte ([[dai-genai-academic-dishonesty-2026|Dai et al., 2026]]).
 - **Das Wohlergehen der Lehrenden gehört zum Bild.** Aus einer Stichprobe von 2,000 Beiträgen aus r/Professors katalogisieren [[mohammadi-instructors-cheating-forum-2026|Mohammadi et al. (2026)]] drei Motivationen — Lernen schützen, sich selbst schützen, Integrität und Gerechtigkeit wahren — und Strategiefamilien von Assessment-Neugestaltung bis Überwachung.
 

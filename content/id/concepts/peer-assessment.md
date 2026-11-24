@@ -10,7 +10,7 @@ discipline: [writing education]
 audience: [learners, instructors]
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/peer-assessment"
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 ## Pertanyaan untuk direnungkan
 
 - Ingat kembali saat karya Anda dinilai oleh sejawat—atau Anda menilai karya mereka. Dari mana Anda belajar lebih banyak: memberi umpan balik atau menerimanya, dan mengapa?
-- Mengapa umpan balik seorang siswa bisa lebih sadar konteks dan lebih mendukung secara emosional daripada umpan balik AI, meskipun umpan balik AI lebih konsisten dan digerakkan rubrik? Bagaimana keduanya dapat saling melengkapi?
+- Mengapa umpan balik seorang siswa bisa lebih sadar konteks dan lebih mendukung secara emosional daripada umpan balik AI, meskipun umpan balik AI lebih konsisten dan digerakkan [[rubrics|rubrik]]? Bagaimana keduanya dapat saling melengkapi?
 - Sejawat cenderung menilai terlalu rendah karya yang kuat dan AI cenderung menggelembungkan karya yang lemah. Jika keduanya tidak andal akurat di seluruh rentang kualitas, untuk apa nilai dari salah satu sumber itu sebaiknya digunakan?
 - Penilaian sejawat sangat bergantung pada [[scaffolding|perancah]] dan kriteria yang jelas, dan bias pertemanan serta [[anxiety-and-stress|kecemasan]] sosial dapat membuat tinjauan sejawat yang tidak terlatih lebih buruk daripada tidak ada sama sekali. Seperti apa pelatihan yang memadai dalam konteks Anda?
 - Jika AI dapat menyusun draf komentar tentang organisasi dan struktur, apakah itu membuat penilaian sejawat redundan—atau justru membebaskan sejawat untuk memberi umpan balik spesifik dan sadar audiens yang hanya dapat mereka berikan?

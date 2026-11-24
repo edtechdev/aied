@@ -62,7 +62,7 @@ Ada dua hal yang menyusul. Perkirakan reward akan dimanipulasi, karena ia menent
 
 ## Buat reward cukup sering menyala untuk mengajar
 
-Reward kecocokan persis terlalu jarang ketika hal yang Anda pedulikan memiliki beberapa dimensi. [[simulation|Simulator]] menulis SWIM menunjukkan progresinya dengan rapi: prompting berlandaskan rubrik mencapai QWK sifat rata-rata terbaik **0,577** dengan Claude Sonnet dan **0,422** dengan GPT-5.4, hampir nol untuk model 7B terbuka; fine-tuning terawasi mencapai **0,474 ± 0,023** untuk model 7B itu; GRPO dengan reward akurasi yang padat dan ternormalisasi per sifat mencapai **0,618 ± 0,005** pada setiap sifat dan prompt ([[swim-student-writing-simulation-2026|SWIM]]).
+Reward kecocokan persis terlalu jarang ketika hal yang Anda pedulikan memiliki beberapa dimensi. [[simulation|Simulator]] menulis SWIM menunjukkan progresinya dengan rapi: prompting berlandaskan [[rubrics|rubrik]] mencapai QWK sifat rata-rata terbaik **0,577** dengan Claude Sonnet dan **0,422** dengan GPT-5.4, hampir nol untuk model 7B terbuka; fine-tuning terawasi mencapai **0,474 ± 0,023** untuk model 7B itu; GRPO dengan reward akurasi yang padat dan ternormalisasi per sifat mencapai **0,618 ± 0,005** pada setiap sifat dan prompt ([[swim-student-writing-simulation-2026|SWIM]]).
 
 Desain reward menghasilkan kesenjangan itu. Sinyal padat yang ternormalisasi per sifat mengalahkan kecocokan persis dalam latar multi-sifat, dan jika reward Anda hanya menyala pada respons yang sempurna, sebagian besar sinyal pelatihan Anda adalah keheningan.
 

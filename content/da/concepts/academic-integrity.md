@@ -8,9 +8,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook, designing-university-assessment-ai-2027]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
@@ -136,6 +136,7 @@ Vidensbasen dokumenterer et paradigmeskift: fra AI som en integritetstrussel, de
 
 - **Design, ikke detektion: Bochum-casen.** Ruhr-University Bochums redesign af indledende kerne- og partikel[[physics-education|fysik]] ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) knyttede sin AI-politik til et praktisk integritetssvigt snarere end til detektion: fordi opgaverne i øvelserne blev offentliggjort på forhånd, forberedte nogle studerende AI-genererede løsninger og kopierede dem op på tavlen uden at engagere sig i det tilsigtede ræsonnement. Forfatterne behandler dette som et designproblem - at flytte øvelsesopgaverne til forberedt diskussion i undervisningen og gøre en skriftlig eksamen til karakterens afgørende faktor - snarere end som et overvågningsproblem, mens de eksplicit tillader AI i studiet, forklarer, hvorfor verifikation er den studerendes ansvar, og bemærker, at åbne AI-tilladte hjemmeopgaver også øgede afhængighed, ulige adgang til betalte modeller og undervisningsassistenternes arbejdsbyrde.
 
+- **Attribution adskilt fra citatregler.** [[designing-university-assessment-ai-2027|Design af universitetsevaluering (2027)]] skelner mellem citering, et teknisk krav flettet sammen med et kommercielt publiceringssystem, og attribution, en etik om at anerkende, hvem og hvad der har formet en tankegang. Designkonsekvensen er at stoppe pointtræk for småting i stilvejledninger, bede studerende om at redegøre for deres intellektuelle slægt og holde ansvaret for integriteten hos den studerende, selv når kontrollen deles med en model.
 - **Uafhængig verifikation og den afhængighed, den sigter mod.** Ragab (2026) foreslår en femlagsmodel — ansvarlig [[educational-policy-ai|politik]] med menneskelig gennemgang, [[authentic-assessment|autentisk evaluering]], uafhængig kompetenceverifikation og superviserede årlige og afsluttende vurderinger — ud fra argumentet om, at detektion ikke kan bære byrden ([[ragab-ai-integrity-verification-model-2026|Ragab, 2026]]). Det virkemiddel, sådanne designs sigter mod, er empirisk: blandt 1.045 kinesiske bachelorstuderende bar afhængighed af [[generative-ai|GenAI]] snarere end mulighed eller lav kompetence sammenhængen med uærlighed, med β = 0,63, og oplevet [[agency|agens]] fulgte den positivt, fordi følelsen af kontrol legitimerede den delegation, den skulle begrænse ([[dai-genai-academic-dishonesty-2026|Dai et al., 2026]]).
 - **Undervisernes egen trivsel er en del af billedet.** Fra en stikprøve på 2.000 opslag fra r/Professors katalogiserer [[mohammadi-instructors-cheating-forum-2026|Mohammadi et al. (2026)]] tre motivationer — at beskytte læring, at beskytte sig selv, at opretholde integritet og ligestilling — og strategifamilier fra redesign af evaluering til overvågning.
 

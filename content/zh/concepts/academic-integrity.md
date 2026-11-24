@@ -9,9 +9,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook, designing-university-assessment-ai-2027]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -140,6 +140,8 @@ Benau（2026）从相反的方向抵达同一边界。关于 AI 在学术工作�
 - **把透明度作为一项诚信策略，而非仅是一种礼貌：** [[mccorkle-aligned-genai-course-policy-2025|McCorkle（2025）]]的设计案例，把每一项被允许或不被允许的 GenAI 使用背后的*理由*当作诚信机制本身。忽略禁令政策后受访谈的学生解释说，他们并不认为自己行为不诚实，这把失败重新框定为模糊而非不合规——于是重新设计通过为每项限制给出它所保护的具体 [[assessment]] 来回应这一点，并为 McCabe 的"20-60-20"可说服中间层而非少数顽固者而设计。该案例还点名了模糊政策的公平代价：预期不清且跨教师不均，正是把政策失败转化为纪律处分的东西（[[equity-in-ai-education]]）。
 
 - **是设计，而非检测：Bochum 案例。** 波鸿鲁尔大学对核物理与粒子 [[physics-education|物理]]导论课程的重新设计（[[ai-particle-physics-education-redesign-2026|Mikhasenko et al.，2026]]），把其 AI 政策连接到一项实际的诚信失败，而非连接到检测：因为习题提前公开，一些学生准备了 AI 生成的解答并抄写到黑板上，而未参与本应进行的推理。作者把这当作设计问题处理——把习题移到准备好的课堂讨论中，并让笔试成为成绩决定因素——而非 policing 问题，同时明确允许 AI 用于学习，解释为何验证是学生的责任，并注意到开放的、允许 AI 的家庭作业也带来了依赖加剧、对付费模型的不均等获取，以及助教工作量问题。
+
+- **把署名与引文规范分开。** [[designing-university-assessment-ai-2027|设计大学评估（2027）]]把参考引文与署名区分开来：参考引文是一项与商业出版体系纠缠在一起的技术要求，而署名是一种承认是谁、是什么塑造了一段思想的伦理。它的设计后果是不再因格式手册的细节扣分，要求学生阐明自己的思想谱系，并在控制权与模型共享时仍把诚信责任留在学生身上。
 
 - **独立核验，以及它所针对的依赖。** Ragab（2026）提出一个五层模型 —— 带人工审查的负责任 [[educational-policy-ai|政策]]、[[authentic-assessment|真实性考核]]、独立的能力核验，以及有监督的年度与结业评估 —— 理由是检测承担不了这一负担（[[ragab-ai-integrity-verification-model-2026|Ragab，2026]]）。这类设计所针对的杠杆是经验性的：在 1,045 名中国本科生中，对 [[generative-ai|生成式 AI]] 的依赖 —— 而非机会或低能力 —— 承载了与不诚信的关联，β = 0.63，而所感到的 [[agency|能动性]] 与它正向同向，因为这种掌控感为其本想约束的委托发放了许可（[[dai-genai-academic-dishonesty-2026|Dai 等人，2026]]）。
 - **教师自身的福祉也是这幅图景的一部分。** 从 r/Professors 的 2,000 条帖子样本中，[[mohammadi-instructors-cheating-forum-2026|Mohammadi 等人（2026）]] 归纳出三种动机 —— 保护学习、保护自己、维护诚信与公平 —— 以及从考核重设计到监控的策略族。

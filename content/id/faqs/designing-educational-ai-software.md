@@ -10,7 +10,7 @@ technology: [edtech-platform]
 updated: "2026-11-08T04:14:23-05:00"
 type: faq
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Jawabannya lebih sempit daripada yang diasumsikan sebagian besar spesifikasi pro
 
 **1.** Tuliskan apa yang diputuskan sistem dan apa yang diputuskan guru. Batas itu menjadi arsitekturnya.
 
-**2.** Evaluasi interaksi multi-putaran yang sadar disiplin terhadap [[curriculum-design|kurikulum]] nyata, bukan prompt tunggal terhadap rubrik keamanan umum.
+**2.** Evaluasi interaksi multi-putaran yang sadar disiplin terhadap [[curriculum-design|kurikulum]] nyata, bukan prompt tunggal terhadap [[rubrics|rubrik]] keamanan umum.
 
 **3.** Pijakkan respons pada konten yang disetujui, dan pisahkan komponen pemverifikasi dari komponen percakapan.
 

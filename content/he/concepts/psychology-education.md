@@ -11,7 +11,7 @@ level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -54,6 +54,8 @@ connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudi
 יצירת פריטים היא החוט השני. [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]] ביקש מ-ChatGPT-4 לכתוב 80 פריטי בחירה מרובה לקורס פסיכולוגיה ניסויית והריץ עליהם את כל מכשיר הפסיכומטריקה עם 120 סטודנטים: עקביות פנימית מקובלת, אמינות חזרה-על-חזרה בינונית, 11.25% מהפריטים מבחינים באופן גרוע, והתפלגות בלום של 73.75% זיכרון מול 8.75% ניתוח או הערכה. הפריטים היו ראיה אמינה שסטודנטים מסוגלים לתת שמות, ושקטים לגבי האם הם יכולים לתכנן מחקר.
 
 הסטטיסטיקה היא השלישית, וההתערבות הטובה ביותר בראיות. [[ai-tutor-statistical-programming-adoption-2026|Préau ועמיתיו]] הטמיעו "R-Tutor" שנבנה במיוחד בתוך קורס תכנות R לסמסטר שלם לסטודנטי פסיכולוגיה בטיבינגן, בתכנון [[longitudinal-research|אורכי]] רשום מראש, כאשר החונך הוזן כדי להדריך ולא כדי לענות.
+
+ספר ערוך אחד מטפל באותה שאלה קורס-אחר-קורס ולא מחקר-אחר-מחקר. [[integrating-generative-ai-in-psychology-courses|שילוב בינה מלאכותית יוצרת בקורסי פסיכולוגיה]] אוסף עשרים ואחד דיווחים מ-Society for the Teaching of Psychology, המסודרים לפי הקורס שמרצה עומד ללמד: בסיסיים וחוצים, קליניים וייעוציים, ושיטות מחקר עם סטטיסטיקה. פרקיו הם דיווחי מעשיים ולא מחקרים, וראיותיהם אינן שוות. עם זאת הם מספקים את מה שהספרות הניסויית כאן לא יכולה לספק, והרי זה עיצובים שרצו בכיתות מסוימות. שלוש מחויבויות חוזרות בהם: לסדר את הגישה כך שלסטודנטים יהיה מה לשפוט אתו את הכלי, לדרוש אימות ולהפוך אותו לגלוי, ולהתייחס לשיפוט של המרצה לגבי הזמנים שלא להשתמש בכלי כאל תוצאה הנכספת.
 
 ## הכשרה קלינית וייעוצית
 

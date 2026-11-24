@@ -11,7 +11,7 @@ discipline: [environmental education]
 confidence: medium
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/environmental-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Arus ketiga yang lebih lemah memperlakukan "pembelajaran berkelanjutan" sebagai 
 
 ## Mengajarkan topik lingkungan dan iklim dengan AI
 
-Bukti terkuat adalah kuasi-eksperimen tiga kelompok yang menggunakan perubahan iklim sebagai isu sosio-ilmiah. Siswa yang bekerja dengan mitra AI di dalam tugas [[inquiry-based-learning|inkuiri]] terstruktur mengungguli rekan yang hanya berinkuiri (d = 0.69) dan pengajaran tradisional (d = 1.88) pada rubrik pengambilan keputusan, dengan perolehan terbesar pada langkah yang paling lemah saat siswa memasukinya — pemantauan dan pengelolaan adaptif, serta penciptaan alternatif. Kondisi AI bersifat *tambahan terhadap* inkuiri alih-alih penggantinya, dan pengumpulan serta analisis data sama sekali tidak memisahkan kelompok, yang mengisyaratkan AI mendukung penalaran tentang trade-off alih-alih pengumpulan bukti.([[ai-assisted-inquiry-ssi-climate]])
+Bukti terkuat adalah kuasi-eksperimen tiga kelompok yang menggunakan perubahan iklim sebagai isu sosio-ilmiah. Siswa yang bekerja dengan mitra AI di dalam tugas [[inquiry-based-learning|inkuiri]] terstruktur mengungguli rekan yang hanya berinkuiri (d = 0.69) dan pengajaran tradisional (d = 1.88) pada [[rubrics|rubrik]] pengambilan keputusan, dengan perolehan terbesar pada langkah yang paling lemah saat siswa memasukinya — pemantauan dan pengelolaan adaptif, serta penciptaan alternatif. Kondisi AI bersifat *tambahan terhadap* inkuiri alih-alih penggantinya, dan pengumpulan serta analisis data sama sekali tidak memisahkan kelompok, yang mengisyaratkan AI mendukung penalaran tentang trade-off alih-alih pengumpulan bukti.([[ai-assisted-inquiry-ssi-climate]])
 
 Pada tingkat [[curriculum-design|kurikulum]], kerangka AI-SEE mengintegrasikan AI di sepanjang [[engineering-education|kurikulum teknik]] pada empat pilar (digerakkan kecerdasan, diberdayakan hijau, dipimpin tanggung jawab, terintegrasi praktik) alih-alih sebagai modul keberlanjutan tempelan; sebuah uji coba dengan 144 siswa melaporkan perolehan kesadaran keberlanjutan dan [[student-engagement|keterlibatan]] perilaku di tingkat personal, akademik, profesional, dan sosial. Para penulis memperingatkan bahwa ini adalah bukti wawancara satu institusi, laporan diri, satu titik waktu, dari satu program transportasi Tiongkok.([[liu-ai-sustainable-engineering-education-2026]])
 

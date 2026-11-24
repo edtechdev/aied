@@ -1,7 +1,7 @@
 ---
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
-title: Vibe Coding（バイブコーディング）
-created: '2026-10-11T05:06:08-04:00'
+title: "Vibe Coding（バイブコーディング）"
+created: "2026-09-08T01:30:00-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -9,19 +9,18 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-updated: "2026-11-19T06:40:00-05:00"
-source_updated: "2026-11-17T11:05:00-05:00"
-translation_of: concepts/vibe-coding
-translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
-contributors:
-- editor
-ai_assist:
-- model: stepfun/step-5-preview:free
-  role: translation
-  date: '2026-10-11'
-  agent: hermes-agent
 connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+updated: "2026-11-24T16:52:31-05:00"
+translation_of: "concepts/vibe-coding"
+source_updated: "2026-11-24T12:00:00-05:00"
+translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -53,6 +52,14 @@ Vibe codingの定義は今も流動的です。ある者は広くAI誘導のプ�
 ## エンドユーザー開発と教員向けツールとしてのVibe coding
 
 バイブコーディングの大きな期待の一つは、[[teacher-role|教師]]や特定領域の専門家を含む非プログラマーが自らのソフトウェアを構築できる点にあり、これはLLM時代におけるエンドユーザー開発の一形態である。[[gaide-vibe-coding-k12-teachers|GAIDEフレームワークの研究]]では、[[k-12]]の教師(非プログラマー)が8週間のワークショップでバイブコーディングを用いてAI搭載の学習ツールを作成し、[[ai-literacy|AIリテラシー]]を高めるとともに、専門能力開発モデルとしての「創造による学習」を実証した。[[higher-ed|高等教育]]では、ある教員がバイブコーディングによってわずか数日で[[vibe-coding-programming-process-visualizer|IDEの活動ログからプログラミングプロセスを可視化するツール]]を迅速に構築し、学生のプログラミング過程を教育および[[academic-integrity|学術的誠実性]]の審査のために可視化した。これらの事例は、バイブコーディングを単なる学習者のスキルではなく、[[educational-development|誰が教育技術を生み出せるのかを再形成する]]オーサリング能力として位置づけている。
+
+比較思考発話研究では、15名の職前教師、13名の現職教師、10名のコーディング専門家に30分間で教育用Webアプリを構築させ、各グループが不確実性をどう扱ったかをたどった（[[lin-teacher-vibe-coding-uncertainty-2026|Lin and Zou（2026）]]）。3つのグループはいずれも問題の枠組み設定、開発、検証を反復したが、不確実性を取り除く方法は異なり、成果物もそれに応じて分かれていった。
+
+- **現職教師は、すでに知っていたルーティンを自動化した。** 週次の読解チェックやタブレット教材は馴染みのある課題だったため、彼らの成果物は既存の実践を置き換えるものがほとんどで、13件中8件が置換に分類された。
+- **職前教師は、教育的原理によって枠組みを設定した。** 彼らのプロジェクトは新しい何かを構築することが多く、15件中9件が増幅、1件が変容に分類された。
+- **専門家は、プロンプトをより丹念に書くのではなく、構造的に取り組んだ。** 彼らは限定的な能力の探査を実行し、モデルに確認質問を投げかけ、成果物をテスト可能なモジュールに分解し、チェックを自動化した。
+
+これらの仕事の流れが分かれたのは、あるグループが技能を欠いていたからではなく、各グループが異なる知識基盤を持ち込んだからである。したがって教員養成は、プロンプトの技能だけを訓練するのではなく、教育的、文脈的、技術的な専門性を統合すべきである。
 
 **オーサリングは評価の一手であり、単なるアクセスの話ではない。** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] はその帰結を導いている。すなわち、成果物がもはや引き出すはずだった思考の証拠とならないのであれば、評価はプロセスを捉えなければならず、そのプロセスの証拠には、限られた人員では提供できない長期にわたる観察が必要となる。教員が自作したツールは、購入した製品が担わない教育的判断、足場かけ、励ましを担うことができ、それによって設計上の判断は、学習を評価している教員自身へと戻る。
 

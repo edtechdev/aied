@@ -45,7 +45,7 @@ pedagogis terlihat selama desain mata kuliah, varian think-pair-share yang mempe
 guru prajabatan, penilai otomatis forum [[community-of-inquiry|Community of Inquiry]], sistem
 [[formative-assessment|formatif]] [[feedback]] untuk bimbingan, bantuan penilaian pada matematika tulisan
 tangan, backward design untuk [[authentic-assessment|asesmen autentik]], model motivasi ARCS, keselarasan
-konstruktif melalui taksonomi Bloom, tutor sebaya untuk mengevaluasi sumber, dan kondisi belajar Gagné.
+konstruktif melalui [[bloom-taxonomy|taksonomi Bloom]], tutor sebaya untuk mengevaluasi sumber, dan kondisi belajar Gagné.
 
 ## Yang perlu diketahui sebelum memakainya
 

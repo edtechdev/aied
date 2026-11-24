@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ Kümenin iç varyasyonu büyüktür ve literatür bunu izler. Yönetim ve işlet
 - **Yönetimde, bir puanlama sorunu olarak.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]], değişimin alanını müfredat yerine değerlendirme tasarımı olarak görür. [[automated-scoring-marketing-posts-agreement-2026|Öğrenci pazarlama gönderilerinin otomatik puanlanması]] uzlaşıyı ve hatayı doğrudan ölçer; bu, [[assessment-validity|geçerlilik]] sorusunun kümedeki hâlidir: insan bir puanlayıcıyla uzlaşan bir puan, istenen öğrenmeyi ölçen bir puan olmak zorunda değildir.
 
 - **Çevre çalışmalarında, çift bir konu olarak.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]], sürdürülebilir YZ'den YZ'nin *için* sürdürülebilirliğini ayırır ve her ikisinden geçen Küresel Güney boşluğunu bulur. [[aied-carbon-footprint-reporting|AIED'de karbon ayak izi raporlaması]] 2025 açıklama uygulamalarını gözden geçirir ve ikinci yarı için açık kaynaklı bir yöntem sunarken, [[ai-assisted-inquiry-ssi-climate|YZ destekli iklim sorgulaması]] ilk yarı için sorgulamaya kıyasla d = 0,69 bildirir.
+
+- **Psikolojide, ders düzeyinde uygulama olarak.** [[integrating-generative-ai-in-psychology-courses|Psikoloji Derslerine Üretken YZ Entegrasyonu]], Society for the Teaching of Psychology'den yirmi bir anlatıyı toplar; bu anlatılar temel, klinik ve istatistik dalları boyunca verilen derslere göre düzenlenir ([[psychology-education|psikoloji eğitimi]]). Kitabın bölümleri çalışmadan ziyade uygulayıcı raporlarıdır, bu yüzden sonuç kanıtı değil tasarım detayı taşırlar, ancak küme bununla bir disiplinin öğretimine dair ilk müfredat ölçeğindeki hesabı kazanır.
 
 ## Ölçüm boşluğu
 

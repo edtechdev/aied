@@ -8,7 +8,7 @@ ethics: [accessibility, equity-in-ai-education]
 confidence: high
 updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/digital-divide"
-source_updated: "2026-11-21T10:00:49-05:00"
+source_updated: "2026-11-24T10:25:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,8 @@ ai_assist:
     date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026, ma-ai-medical-education-lmic-2026]
+connected_resources: [public-ai-libraries]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -58,6 +59,8 @@ Pergeseran ke inferensi tepi (edge inference) menambahkan dimensi perangkat kera
 - **Layanan digital publik mereproduksi kesenjangan.** Platform e-government eCitizen Kenya terutama berbahasa Inggris dengan bahasa Swahili terbatas dan antarmuka hanya teks, sehingga mengecualikan kaum melek huruf rendah, penyandang gangguan penglihatan, dan pemuda pedesaan; wawancara ditambah meja bundar sebelas orang di empat platform penghidupan (Ajira Digital, KRA iTax, HELB, YEDF) menunjuk teknologi bahasa dan desain berbasis WCAG 2.1 sebagai tuas inklusi ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
 - **Disaggregasi penggunaan, bukan hanya akses.** [[raut-ai-rural-education-india-2026|Tinjauan integratif Raut]] melaporkan bahwa di antara remaja India pedesaan usia 14–16, 85.5% laki-laki dan 79.4% perempuan mengatakan mereka dapat menggunakan ponsel pintar, sehingga ketersediaan di tingkat rumah tangga meremehkan kesenjangan gender dalam penggunaan praktis.
+
+- **Tingkat sumber daya menentukan AI mana yang sampai ke kelas.** Tinjauan pelingkupan AI dalam pendidikan kedokteran menemukan bahwa konteks berpendapatan rendah melaporkan alat percakapan yang mudah diakses seperti Snapchat AI untuk tugas dan persiapan ujian, sementara konteks bersumber daya lebih tinggi mengerahkan sistem khusus termasuk alat penapisan pranatal, platform pengajaran kasus virtual, dan sistem dukungan klinis ([[ma-ai-medical-education-lmic-2026|Ma et al. (2026)]]). Hambatan yang dilaporkan, antara lain ketersediaan infrastruktur, akses jaringan, privasi data, dan adaptasi bahasa, berada di tingkat pertama dan kedua kesenjangan, bukan semata-mata pada kemampuan model, yang menjadikan ini pertanyaan [[equity-in-ai-education|ekuitas]] sekaligus pertanyaan teknis.
 
 ## AI memperdalam (dan dapat menutup) kesenjangan
 

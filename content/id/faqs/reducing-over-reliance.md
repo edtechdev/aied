@@ -13,7 +13,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -169,7 +169,7 @@ Itu meninggalkan Anda dengan taruhan yang wajar, yang dibuat dengan murah. Ubah 
 
 **“Bukankah mahasiswa yang lebih lemah akan gagal pada pemeriksaan tanpa bantuan?”** Kadang-kadang ya, dan hasil itu adalah informasi, bukan putusan. Pemeriksaan tanpa alat yang gagal di sebagian besar kelas mengatakan bahwa latihanlah yang menopang kinerjanya, dan itulah hal yang perlu Anda ketahui. Beri bobot sebagai bukti, ajarkan ulang apa yang terungkap, dan tawarkan upaya kedua pada tugas yang sejajar. Tidak ada studi di sini yang menguji apakah pengajaran ulang setelah pemeriksaan tanpa bantuan yang gagal memulihkan pembelajarannya, jadi bagian itu merupakan pertimbangan profesional Anda.
 
-**“Sebagian mahasiswa saya memakai AI sebagai perancah yang jujur. Apakah saya harus menghentikannya?”** Tidak. Mahasiswa yang membaca petunjuk, mencoba langkahnya, dan memeriksa hasilnya sedang melakukan offloading duplikatif yang bertahan ketika alatnya dihapus. Yang Anda inginkan adalah tugas yang menjaga penggunaan itu tetap tersedia dan membuat versi eksekutifnya kurang menguntungkan, dan itu soal apa yang dikumpulkan tugas dan apa yang dibayar rubrik.
+**“Sebagian mahasiswa saya memakai AI sebagai perancah yang jujur. Apakah saya harus menghentikannya?”** Tidak. Mahasiswa yang membaca petunjuk, mencoba langkahnya, dan memeriksa hasilnya sedang melakukan offloading duplikatif yang bertahan ketika alatnya dihapus. Yang Anda inginkan adalah tugas yang menjaga penggunaan itu tetap tersedia dan membuat versi eksekutifnya kurang menguntungkan, dan itu soal apa yang dikumpulkan tugas dan apa yang dibayar [[rubrics|rubrik]].
 
 **“Buktinya tipis, jadi mengapa mengubah apa pun?”** Buktinya tipis di tempat-tempat tertentu, yang disebutkan batas-batas di atas. Yang konsisten di seluruh studi adalah arahnya: penempatan, pemeriksaan yang terlihat, dan ukuran tanpa bantuan. Satu tugas yang diubah, dengan hasil tanpa bantuan tetap disimpan, adalah taruhan yang cukup kecil untuk dijalankan atas dasar itu.
 

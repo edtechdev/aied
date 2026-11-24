@@ -31,7 +31,7 @@ connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
 **Playlab** adalah platform kreator tempat pendidik membangun aplikasi AI mereka sendiri alih-alih memilih
-dari templat orang lain. Sebuah aplikasi [[rag|bersandar pada kurikulum Anda sendiri]], rubrik dan rujukan
+dari templat orang lain. Sebuah aplikasi [[rag|bersandar pada kurikulum Anda sendiri]], [[rubrics|rubrik]] dan rujukan
 alih-alih pengetahuan model umum, berjalan pada model yang Anda pilih (Anthropic, OpenAI, Google, Meta)
 dengan biaya yang terlihat saat Anda membangun, dan dapat memanfaatkan [[knowledge-graph|grafik
 pengetahuan]] yang sudah dipetakan untuk Illustrative Mathematics, OpenSciEd, standar negara bagian dan

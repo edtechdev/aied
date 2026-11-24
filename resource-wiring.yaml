@@ -379,6 +379,7 @@
 - resource: integrating-generative-ai-in-psychology-courses
   reviewed: '2026-11-17'
   hosts:
+  - psychology-education
   - social-sciences-education
   reason: 'The volume is the course-level practice the social science page says psychology lacks: 20 chapters of instructors describing how they changed a specific psychology course, including the statistics and research-methods courses the page treats as method light. Listed there because that page names psychology as the cluster discipline whose evidence is thinnest, and this book is the concrete counter-example. Not listed on ai-literacy or academic-integrity: both pages already carry the arguments the book restates, and the book is about what to do in a course rather than about either concept.'
 
@@ -412,3 +413,10 @@
   - prompt-engineering
   - learning-design
   reason: 'The repository is a prompt library, so it belongs beside eduprompts, pedagogical-promptbook and matt-pocock-skills on prompt-engineering; it also grounds every prompt in a named learning theory, which is the substance learning-design claims. Not listed on bloom-taxonomy or assessment: the library covers those as three prompts among twenty-two, and a single facet prompt is not a reason to host a whole collection.'
+
+- resource: designing-university-assessment-ai-2027
+  reviewed: '2026-11-24'
+  hosts:
+  - assessment
+  - academic-integrity
+  reason: 'The volume is the current redesign literature for both pages. On assessment it supplies what the page lacked: a framing of AI-and-assessment as a wicked problem rather than a puzzle, and one multi-program implementation with figures (18 tasks redesigned, 17 proposed, 50 hours per program). On academic-integrity it supplies the attribution-versus-referencing distinction and names style-guide grading as a defect, neither of which the page had. Not listed on assessment-validity or authentic-assessment: validity already argues inference and the two-lane model in its own terms, and authentic-assessment already covers process evidence and orals, so the book restates rather than moves them. Not listed on rubrics, feedback-literacy or evaluative-judgment: those pages would gain an example, not a changed claim.'

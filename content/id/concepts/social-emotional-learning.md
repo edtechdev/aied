@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/social-emotional-learning"
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ Pembelajaran sosial-emosional berkaitan erat dengan, tetapi berbeda dari, kecerd
 
 ### Bagaimana SEL muncul dalam penelitian
 
+- **Empati adalah tepi afektif SEL, dan yang paling sulit dinilai.** [[empathy|Empati]] mencakup bukti tentang pengajaran dan pengukurannya: bermain peran, VR, dan dialog LLM semuanya menaikkan skor laporan diri, penilaian pengamat tetap konsisten, dan proksi penglihatan komputer berbalik pada senyuman. Baca bukti itu sebelum memperlakukan peningkatan empati sebagai bukti bahwa suatu program berhasil.
 - **Mengintegrasikan SEC ke dalam literasi AI:** [[sec-ai-literacy-narrative-review-2026|Tinjauan naratif oleh Palmquist et al.]] mengusulkan kerangka terpadu yang menggabungkan literasi AI dengan kompetensi sosial-emosional, dengan argumen bahwa kecakapan teknis saja tidak memadai — pendidik dan siswa membutuhkan kecerdasan teknologis sekaligus emosional untuk menavigasi lingkungan belajar yang dimediasi AI, menumbuhkan [[personalized-learning|pembelajaran personal]], kolaborasi, dan [[student-engagement|keterlibatan]] etis.
 
 - **Guru dan praktik relasional:** Penelitian tentang [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|kerangka literasi AI]] dan [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|kepercayaan guru-siswa]] menekankan bahwa SEL mendukung dimensi relasional pembelajaran (hubungan guru-siswa dan siswa-siswa), yang harus dilengkapi AI alih-alih digantikan.

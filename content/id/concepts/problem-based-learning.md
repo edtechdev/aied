@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/problem-based-learning"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-24T08:15:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,7 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
+connected_faqs: [ai-help-hurt-collaborative-learning]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -57,6 +58,8 @@ Meta-analisis tiga tingkat yang menggabungkan PBL yang didukung GenAI dengan pem
 - **Implementasi domain.** Kerangka PBL untuk [[engineering-education|teknik biomedis]] menggunakan GenAI untuk peringkasan dan dukungan pengodean dengan paket replikasi ([[pbl-biomedical-engineering-genai-2026|Nnamdi dkk. 2026]]); PBL yang didukung AI meningkatkan [[computational-thinking|berpikir komputasional]] dalam [[educational-robotics|robotika]] ([[ai-pbl-computational-thinking-2026|PBL yang didukung AI untuk berpikir komputasional]]); dan pasien virtual yang dimungkinkan genAI mendukung tutorial pengambilan riwayat medis ([[genai-simulate-patient-history-pbl-2026|Mool dkk. 2026]]).
 - **Sintesis bukti.** [[educators-engagement-ai-pbl-review-2026|Amdan dkk. (2026)]] [[meta-analysis-systematic-review|meninjau secara sistematis]] 50 studi (2015–2024) tentang keterlibatan pendidik dengan AI dalam PBL di dalam kerangka [[human-ai-collaboration|interaksi manusia-komputer]].
 - **GenAI dalam PBL berbasis skenario.** [[genai-scenario-based-healthcare-education-2026|Neto dan rekan (2026)]] memasukkan pembelajaran berbasis masalah di antara pendekatan berbasis skenario dalam tinjauan sistematis mereka tentang GenAI dalam pendidikan kesehatan, dan menemukan bahwa [[prompt-engineering|desain prompt]] berfungsi sebagai spesifikasi instruksional dan bahwa kolaborasi hibrida manusia-AI mengungguli pendekatan yang sepenuhnya otomatis. Tinjauan itu menyoroti kebutuhan akan keselarasan yang lebih kuat antara konten yang dihasilkan dan kerangka instruksional serta praktik pemberian prompt yang lebih dapat direproduksi dalam konteks PBL.
+
+- **Penarikan bertahap mengubah pilihan akhir menjadi tugas pertimbangan.** Dalam [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]], 105 siswa teknik tahun kedua menggunakan GenAI untuk mengeksplorasi masalah dan membangun prototipe, lalu memilih solusi dengan alat yang sengaja dibatasi dan kriteria yang ditetapkan lebih dulu. Para penulis mengaitkan evaluasi kritis itu pada pembatasan tersebut, bukan pada alatnya.
 
 - **AI dapat membawa penyampaian pengetahuan tutor tetapi tidak regulasi sosial pembelajaran kelompok.** Dalam kuasi-eksperimen farmakologi selama empat minggu, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] menemukan bahwa PBL yang dimediasi AI menyamai perolehan akademik yang dipimpin fasilitator (p antarkelompok = 0.474), sementara kelompok yang dipimpin fasilitator mempertahankan keunggulan dalam dinamika kelompok (26.51 vs 24.74, p = 0.035) dan berpikir kritis (14.75 vs 13.09, p < 0.001).
 

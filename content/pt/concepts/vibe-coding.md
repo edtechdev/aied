@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-24T12:00:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,9 +24,8 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
 ---
-
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Vibe coding** — construir software fazendo prompts iterativamente a um [[llm|grande modelo de linguagem]] e julgando o comportamento resultante, sem ler ou editar diretamente o código-fonte subjacente. Popularizado por Andrej Karpathy em 2025 como o fluxo de trabalho em que se "esquece que o código sequer existe", o vibe coding é a realização nativa de LLM da programação em linguagem natural e do desenvolvimento por usuário final — enquadramentos agora tratados como sinônimos nesta base de conhecimento —, na qual a prosa se torna a interface primária de programação.
@@ -56,6 +55,14 @@ Um estudo transversal pré-registrado (N = 100 estudantes de nível terciário) 
 ## O vibe coding como desenvolvimento por usuário final e ferramental docente
 
 Uma grande promessa do vibe coding é que ele permite a não programadores — incluindo [[teacher-role|professores]] e especialistas de domínio — construir seu próprio software, uma forma de desenvolvimento por usuário final da era dos LLM. Um [[gaide-vibe-coding-k12-teachers|estudo do framework GAIDE]] mostrou professores do [[k-12|K-12]] (não programadores) usando vibe coding em uma oficina de oito semanas para criar ferramentas de aprendizagem movidas por IA, elevando seu [[ai-literacy|letramento em IA]] e demonstrando o "aprender criando" como um modelo de desenvolvimento profissional. No [[higher-ed|ensino superior]], um instrutor construiu rapidamente um [[vibe-coding-programming-process-visualizer|visualizador de processos de programação a partir de registros de atividade do IDE]] via vibe coding em uma questão de dias, tornando visíveis para o ensino e para a revisão de [[academic-integrity|integridade acadêmica]] os processos de programação dos estudantes. Esses casos posicionam o vibe coding não meramente como uma habilidade de quem aprende, mas como uma capacidade de autoria que [[educational-development|remodela quem pode criar tecnologia educacional]].
+
+Um estudo comparativo de verbalização em voz alta (think-aloud) pediu a 15 professores em formação, 13 professores em exercício e 10 especialistas em programação que construíssem uma aplicação web educacional em 30 minutos e, em seguida, rastreou como cada grupo administrava a incerteza ([[lin-teacher-vibe-coding-uncertainty-2026|Lin and Zou, 2026]]). Todos os três grupos percorreram ciclos de enquadramento do problema, desenvolvimento e verificação, mas reduziram a incerteza de maneiras diferentes, e seus artefatos divergiram de acordo.
+
+- **Professores em exercício automatizaram rotinas que já conheciam.** As verificações semanais de leitura e as folhas de atividades em tablet eram problemas familiares, de modo que seus artefatos substituíram em grande parte a prática já existente: 8 de 13 enquadraram-se na substituição.
+- **Professores em formação enquadraram o problema por princípios pedagógicos.** Seus projetos construíram algo novo com mais frequência, com ampliação em 9 de 15 casos e transformação em 1.
+- **Os especialistas trabalharam estruturalmente, e não com prompting mais intenso.** Executaram sondagens estreitas de capacidade, fizeram perguntas de esclarecimento ao modelo, decomporam o artefato em módulos testáveis e automatizaram verificações.
+
+Esses fluxos de trabalho divergiram porque cada grupo trazia uma base de conhecimento diferente, e não porque um grupo carecia de habilidade. A formação de professores deve, portanto, integrar as especialidades pedagógica, contextual e técnica, em vez de treinar apenas a habilidade de fazer prompts.
 
 **Autoria é um movimento de avaliação, não apenas uma história de acesso.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] extrai a consequência: se os artefatos já não evidenciam o pensamento que deveriam eliciar, a avaliação precisa capturar o processo, e a evidência de processo exige observação prolongada que um quadro de pessoal limitado não consegue fornecer. Uma ferramenta construída pelo professor pode carregar as decisões pedagógicas, o andaimento e o encorajamento que um produto comprado não carregará, o que devolve o julgamento de desenho ao instrutor que está julgando a aprendizagem.
 

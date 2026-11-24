@@ -36,7 +36,7 @@ Jawaban yang perlu Anda berikan kepada seorang kolega: dalam kursus asinkron, se
 
 **2.** Pertahankan satu pengukuran tanpa bantuan pada setiap asesmen yang mensertifikasi kompetensi. Kesenjangan retensi dalam data populasi di bawah ini menutup begitu pengawasan ujian diterapkan.
 
-**3.** Gunakan [[asynchronous-oral-assessment-2026|asesmen lisan asinkron]] ketika taruhannya membenarkan kerja produksi: prompt yang diberikan tepat pada waktunya, rekaman singkat yang tidak dapat direvisi mahasiswa, rubrik yang tertanam, transkrip yang dihasilkan otomatis.
+**3.** Gunakan [[asynchronous-oral-assessment-2026|asesmen lisan asinkron]] ketika taruhannya membenarkan kerja produksi: prompt yang diberikan tepat pada waktunya, rekaman singkat yang tidak dapat direvisi mahasiswa, [[rubrics|rubrik]] yang tertanam, transkrip yang dihasilkan otomatis.
 
 **4.** Konfigurasikan AI apa pun yang Anda sediakan agar memberi petunjuk, bukan jawaban, dan tanamkan di dalam kursus alih-alih menautkan ke sesuatu yang generik.
 

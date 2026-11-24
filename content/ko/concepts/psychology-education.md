@@ -12,7 +12,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 contributors: [editor]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 ai_assist:
   - model: qwen/qwen4-max:free
@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-11-19"
     agent: hermes-agent
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -54,6 +54,8 @@ connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudi
 평가 문항 생성이 두 번째 줄기입니다. [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]]은 실험심리학 강좌를 위해 ChatGPT-4로 객관식 문항 80개를 작성하게 하고, 학생 120명을 대상으로 완전한 심리측정 절차를 적용했습니다. 내적 일관성은 허용 가능, 검사-재검사 신뢰도는 중간, 문항의 11.25%는 변별력이 낮았고, Bloom 분포는 회상 73.75% 대 분석·평가 8.75%였습니다. 이 문항들은 학생들이 사물의 이름을 댈 수 있다는 신뢰로운 증거였지만, 연구를 설계할 수 있는지에 대해서는 침묵했습니다.
 
 통계가 세 번째이자 가장 증거가 탄탄한 개입입니다. [[ai-tutor-statistical-programming-adoption-2026|Préau와 동료들]]는 튀빙겐의 심리학 학부생을 위한 한 학기 길이 R 프로그래밍 강좌에 전용 'R-Tutor'를 배치했습니다. 사전 등록된 [[longitudinal-research|종단 설계]]로, 튜터는 답을 주기보다 안내하도록 프롬프트가 설정되었습니다.
+
+한 권의 편집 논문집이 연구별로가 아니라 강좌별로 같은 문제를 다룹니다. [[integrating-generative-ai-in-psychology-courses|심리학 강좌에 생성형 AI 통합하기]]는 Society for the Teaching of Psychology의 스물한 편의 보고를 모아, 교수자가 이제 가르칠 강좌에 따라 배열했습니다. 기초와 횡단, 임상 및 상담, 그리고 통계를 포함한 연구 방법입니다. 각 장은 연구가 아니라 실천자의 보고이며, 증거의 수준도 고르지 않습니다. 그러나 이 책은 여기의 실험 연구 문헌이 주지 못하는 것, 곧 특정 교실에서 실제로 운영된 설계를 제공합니다. 세 가지 약속이 반복해서 나타납니다. 학생들이 도구를 판단할 근거를 갖도록 접근을 단계적으로 마련하고, 검증을 요구하며 이를 드러내고, 그리고 교수자가 도구를 쓰지 말아야 할 때를 판단하는 것을 기대 결과로 다루는 것입니다.
 
 ## 임상 및 상담 훈련
 

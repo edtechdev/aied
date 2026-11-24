@@ -38,7 +38,7 @@ Jawaban singkat untuk rapat itu: AI dapat mengambil alih pencarian, penyaringan 
 
 **2.** Letakkan otomasi pada penyaringan. Biarkan ekstraksi data, rekonsiliasi, dan sintesis pada manusia.
 
-**3.** Tetapkan buku kode dan rubrik sebelum proses otomatis menyentuh data.
+**3.** Tetapkan buku kode dan [[rubrics|rubrik]] sebelum proses otomatis menyentuh data.
 
 **4.** Putuskan apa arti verifikasi dan siapa yang menandatanganinya. Kesepakatan antara model dan pengode adalah ukuran kemiripan, bukan hasil kualitas.
 

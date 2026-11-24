@@ -12,7 +12,7 @@ connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/pedagogical-patterns"
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -99,7 +99,7 @@ Penulisan ulang ketiga atas implementasi 2024 yang sama menanyakan apa yang dise
 
 ### Kritik AI lalu revisi
 
-**Bukti: teruji — dengan satu hasil nol yang penting.** Menyusun draf, meminta umpan balik AI berbasis rubrik, menilai umpan balik itu secara kritis terhadap rubrik dan sumbernya, menulis rencana revisi, merevisi, dan merenungkan.
+**Bukti: teruji — dengan satu hasil nol yang penting.** Menyusun draf, meminta umpan balik AI berbasis [[rubrics|rubrik]], menilai umpan balik itu secara kritis terhadap rubrik dan sumbernya, menulis rencana revisi, merevisi, dan merenungkan.
 
 Eksperimen faktorial 2 × 2 terkontrol dengan 120 mahasiswa jurusan bahasa Inggris menemukan keuntungan kualitas tulisan tertinggi pada kelompok yang dilatih dalam penyaringan sekaligus penilaian (M = 7.92), berbanding 6.10, 4.56 dan 3.10 untuk kondisi lain, dengan revisi mendalam naik dari 28% menjadi 48% dan keunggulannya bertahan pada topik baru serta setelah dukungan AI dicabut ([[rethinking-ai-writing-feedback-literacy|Dai, 2026]]). Hasil nol itulah bagian yang memberi pelajaran: dalam eksperimen acak tiga kelompok dengan 70 siswa, umpan balik AI dengan prompt chain-of-thought secara signifikan *lebih berkualitas* daripada umpan balik AI zero-shot (p = .01) maupun umpan balik guru (p = .008), namun keunggulan kualitas ini **tidak berubah menjadi keuntungan revisi yang lebih besar** — umpan balik guru menghasilkan perbaikan yang sebanding ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al., 2026]]).
 
@@ -140,6 +140,14 @@ Kuasi-eksperimen dengan 68 calon guru menemukan bahwa menjelaskan kepada pembela
 **Bukti: teruji, tetapi dalam lingkungan terkontrol atau tidak terkontrol alih-alih ruang kelas biasa.** Dua pembelajar berbagi satu AI dan diberi peran eksplisit dengan aturan rotasi; AI dikonfigurasi untuk mengambil peran sesuai kebutuhan dan keluarannya ditujukan ke seluruh kelompok. Dalam varian pair-programming, AI bersama memodelkan atensi dan usaha bersama pasangan, memperkirakan keruntuhan hingga 30 detik ke depan, dan meningkatkan scaffolding secara bertingkat dari tidak melakukan apa pun hingga petunjuk direktif.
 
 Eksperimen within-subjects dengan 26 pasangan menemukan bahwa kondisi umpan balik mencapai keberhasilan debugging yang lebih tinggi (t[49.96] = −13.51, p < .0001) dan selesai lebih cepat (t[44.70] = 4.39, p < .0001), meskipun memerlukan [[sensor-and-gaze-analytics|eye-tracking]] ganda dan pupilometri serta tidak menguji transfer ke kerja berpasangan tanpa pengawasan ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Kuasi-eksperimen dengan 58 mahasiswa pascasarjana dalam 16 kelompok menemukan bahwa desain peran menaikkan skor isi peta pikiran dari 3.65 menjadi 4.59 pada skala SOLO 1–5 (z = 3.771, p < 0.001) sementara jumlah simpul dan cabang tetap datar — tetapi tanpa kelompok kontrol, efek latihan tidak dapat disingkirkan ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+
+### Draf teriterasi dengan kolaborasi yang dinilai
+
+**Bukti: deskripsi praktik — satu jalankan pertama, tanpa kondisi perbandingan, tanpa hasil terukur.**
+
+Siswa menulis esai dalam tim kecil melintasi setidaknya dua tahap terdokumentasi, memilih dari sekumpulan judul tetap, dan dinilai berdasarkan bukti iterasi dan kolaborasi serta produknya; GenAI diizinkan di dalam batas yang dinyatakan, bukan dilarang atau diwajibkan.
+
+Dalam sebuah modul apprenticeship gelar Business Analyst tahun pertama di Queen Mary University of London, 23 siswa dalam 11 tim yang memilih diri menulis esai teriterasi 1.500 kata dengan cara ini, dengan GenAI dilarang mengumpulkan teks hasil generasi dan menyusun daftar rujukan. Para penulis mendeskripsikan redesain [[pedagogy|pedagogis]] sepanjang program dan melaporkan wawasan yang muncul alih-alih hasil. Klaim mereka adalah bahwa kriteria penandaan, bukan instruksinya, yang membuat bukti proses menjadi menanggung beban, dan bahwa di mana siswa menggunakan alat itu sebagian memperlakukan keluarannya sebagai klaim untuk diperdebatkan: counterargument untuk diuji, struktur untuk diterima atau ditolak ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 
 ### Diskusi berbantuan AI
 

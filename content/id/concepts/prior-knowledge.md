@@ -8,7 +8,7 @@ technology: [personalized-learning, student-modeling]
 confidence: high
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/prior-knowledge"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ AI generatif telah menjadikan pengetahuan awal pertimbangan desain yang sentral 
 - **Penyalaan awal dan aktivasi sebagai desain.** [[genai-mindtool-generative-learning|Pendekatan mindtool GenAI]] dengan sengaja "menyiapkan tugas belajar" dengan mengaktifkan pengetahuan awal dan rasa ingin tahu melalui pertanyaan pemancing, visual yang dihasilkan AI, dan analogi (mis., "Apa yang sudah Anda ketahui tentang ekosistem?") sebelum memperkenalkan konten baru — memodelkan jalur pengambilan-dan-integrasi alih-alih jalur penyediaan jawaban.
 - **Pemodelan siswa dan memori.** Sistem AI kian memodelkan keadaan pengetahuan awal dan memori longitudinal pembelajar (mis., memasukkan keadaan pengetahuan awal dan kurva lupa ke dalam memori tutoring), yang memungkinkan pengulangan berjarak dan tinjauan adaptif yang membangun di atas apa yang sudah diketahui tiap pembelajar.([[nie-personavlm-long-term-personalization-2026]])
 - **Tuas adaptasi yang dipersonalisasi.** Karena pembelajar berbeda jauh dalam pengetahuan awal, adaptasi harus disetel ke individu — argumen inti bagi [[personalized-learning]] dan [[scaffolding]] adaptif yang menemui pembelajar pada keadaan aktualnya alih-alih pada asumsi rata-rata kelas.
+- **Pengetahuan awal adalah satu-satunya karakteristik pembelajar yang memoderasi dukungan adaptif.** Pembelajar yang sudah mengetahui materi memperoleh lebih banyak (g = 0,74; CI 95% [0,42, 1,05]) daripada yang belum (g = 0,63 [0,46, 0,80]), dan keduanya mendapat manfaat, yang cocok dengan adaptivitas yang menarik bantuan redundan alih-alih pembalikan keahlian ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Implikasi bagi desain AI dalam pendidikan
 

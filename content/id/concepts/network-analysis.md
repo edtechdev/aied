@@ -7,7 +7,7 @@ confidence: high
 methods: [network-analysis, research-methods-aied]
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/network-analysis"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -72,7 +72,8 @@ Metode jaringan digunakan di seluruh basis bukti basis pengetahuan ini untuk men
 1. **Utamakan metode proses alih-alih metrik produk semata.** Untuk mengevaluasi apakah alat AI mendukung pembelajaran, modelkan bagaimana siswa benar-benar terlibat (penyerapan, dialog, revisi) dengan metode urutan/jaringan alih-alih mengandalkan skor akhir saja.
 2. **Gunakan ENA untuk membandingkan penataan kognitif.** Ketika menanyakan bagaimana siswa atau mode yang berbeda (manusia vs. AI) menata penalaran mereka, ENA menyediakan perbandingan visual langsung atas jaringan ko-okurensi — teknik yang cocok untuk [[student-modeling|pemodelan siswa]] tentang bagaimana siswa menghubungkan gagasan.
 3. **Validasi pengodean otomatis.** Dengan kumpulan data log yang besar, klasifikasi berbasis [[llm|LLM]] sangat kuat tetapi harus diperiksa terhadap pengodean manusia (laporkan kesepakatan antarpenilai) sebelum menafsirkan struktur jaringan.
-4. **Rancang untuk diferensiasi.** Analisis jaringan sering mengungkap bahwa alat AI yang *sama* menghasilkan pola interaksi yang berbeda di berbagai subkelompok siswa — memberi masukan bagi desain adaptif alih-alih evaluasi satu ukuran untuk semua.
+4. **Perlakukan lingkungan sebagai sistem.** [[learning-environments-as-systems|Lingkungan pembelajaran sebagai sistem]] menggunakan metode jaringan untuk mengoperasionalkan gambaran bagian-dan-interaksi di berbagai tingkat.
+5. **Rancang untuk diferensiasi.** Analisis jaringan sering mengungkap bahwa alat AI yang *sama* menghasilkan pola interaksi yang berbeda di berbagai subkelompok siswa — memberi masukan bagi desain adaptif alih-alih evaluasi satu ukuran untuk semua.
 
 ## Validasi ENA atas Dialog Kolaboratif Tersimulasi
 

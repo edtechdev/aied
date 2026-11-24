@@ -8,9 +8,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook, designing-university-assessment-ai-2027]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 updated: "2026-11-23T14:15:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -148,6 +148,7 @@ El campo ha pasado de la IA como amenaza para la integridad que hay que vigilar 
 
 - **Diseño, no detección: el caso de Bochum.** El rediseño de la introducción a la [[physics-education|física]] nuclear y de partículas de la Universidad del Ruhr en Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) vinculó su política sobre IA a un fallo práctico de integridad y no a la detección: como los problemas de las clases de problemas se publicaban con antelación, parte del estudiantado preparaba soluciones generadas por IA y las copiaba en la pizarra sin implicarse en el razonamiento previsto. Los autores lo tratan como un problema de diseño (trasladar los problemas a una discusión preparada en clase y hacer de un examen escrito el factor determinante de la nota) y no como un problema de vigilancia, a la vez que permiten explícitamente la IA en el estudio, explican por qué la verificación es responsabilidad del estudiante y señalan que los deberes abiertos que permitían la IA también aumentaron la dependencia, el acceso desigual a los modelos de pago y la carga de trabajo de los ayudantes.
 
+- **Separar la atribución del cumplimiento de la cita.** [[designing-university-assessment-ai-2027|Diseño de la evaluación universitaria (2027)]] distingue la citación, un requisito técnico entrelazado con un sistema editorial comercial, de la atribución, una ética de reconocer quién y qué dio forma a una pieza de pensamiento. Su consecuencia de diseño es dejar de descontar puntos por minucias de la guía de estilo, pedir al estudiantado que articule su linaje intelectual y mantener la responsabilidad de la integridad en el estudiante, incluso cuando el control se comparte con un modelo.
 - **Verificación independiente y la dependencia que persigue.** Ragab (2026) propone un modelo de cinco capas —[[educational-policy-ai|política]] responsable con revisión humana, [[authentic-assessment|evaluación auténtica]], verificación independiente de competencias y evaluaciones anuales y de egreso supervisadas— sobre el argumento de que la detección no puede cargar con esa responsabilidad ([[ragab-ai-integrity-verification-model-2026|Ragab, 2026]]). La palanca que persiguen esos diseños es empírica: entre 1.045 estudiantes de grado chinos, la dependencia de la [[generative-ai|IA generativa]] y no la oportunidad ni la baja competencia fue lo que sostuvo la asociación con la deshonestidad, con β = 0,63, y la [[agency|agencia]] percibida la acompañó en sentido positivo, porque la sensación de dominio autorizaba la delegación que debía contener ([[dai-genai-academic-dishonesty-2026|Dai et al., 2026]]).
 - **El bienestar del propio profesorado forma parte del cuadro.** A partir de una muestra de 2.000 publicaciones de r/Professors, [[mohammadi-instructors-cheating-forum-2026|Mohammadi et al. (2026)]] catalogan tres motivaciones —proteger el aprendizaje, protegerse a sí mismos y defender la integridad y la equidad— y familias de estrategias que van del rediseño de la evaluación a la vigilancia.
 

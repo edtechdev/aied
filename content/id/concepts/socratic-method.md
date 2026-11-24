@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 updated: "2026-11-08T14:09:36-05:00"
 translation_of: "concepts/socratic-method"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ Kesenjangan antara "keterampilan berbasis pengetahuan" (4.0/5) dan "efektivitas 
 - Dialog Sokratis menuntut usaha; siswa mungkin lebih menyukai jawaban langsung demi efisiensi
 - Chatbot tidak dapat memberikan dukungan relasional seperti tutor manusia
 - Sebagian siswa mungkin terjebak dalam lingkar Sokratis tanpa penyelesaian
+- Penyampaian bisa bervariasi lebih dari yang ditentukan desain. Dalam kursus C++, butir yang menanyakan apakah chatbot mengajukan pertanyaan reflektif atau aplikasi menjadi yang terendah dan paling bervariasi pada survei, 3,86 dari 5 (SD 1,24), yang dibaca para penulis sebagai penyampaian yang tidak konsisten dari apa yang disebutkan prompt sistem ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware dan Jiang (2026)]]).
 
 ### Temuan kontra: akses tanpa batas dapat mengungguli mode terbatas
 

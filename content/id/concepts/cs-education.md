@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/cs-education"
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 
 - **Umpan balik dapat diatur bertahap agar diagnosisnya tetap tersembunyi.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] memisahkan diagnosis skema basis data siswa yang berbasis artefak dari alur kerja yang melepaskannya, dengan pendidik menulis tahapannya; di antara 383 episode, 71.1% umpan balik mencapai tingkat sasarannya.
 
+- **Tujuh belas jenis kesalahan kebutuhan, dihitung pada 211 tim.** Kesalahan prioritas memimpin (81% tim sarjana), dan satu prompt GenAI zero-shot menyamai atau mengungguli tim-tim itu pada cakupan, format cerita, prioritas, dan usaha ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
+
 ### Pedagogi pemrograman: dari blok ke pembelajaran berbasis permainan yang berwujud
 
 Pendidikan pemrograman mencakup pemrograman pengantar berbasis blok hingga pengembangan perangkat lunak lanjutan, dan makin mendasarkan kode abstrak pada hasil yang konkret dan teramati.
@@ -111,6 +113,7 @@ Karena pemrograman adalah tempat bantuan AI paling kuat, di situ pula mode kegag
 ### Keadilan, budaya, dan siapa yang masuk ke bidang komputasi
 
 - **Memperluas partisipasi:** [[suacode-african-students-motivations|SuaCode]] mendokumentasikan motivasi koding berbasis ponsel pintar di kalangan siswa Afrika (kurang dari 1% lulusan sekolah menengah memiliki keterampilan koding dasar), menginformasikan MOOC berbantuan AI yang aksesibel untuk [[equity-in-ai-education|konteks sumber daya rendah]].
+- **Gerbang bebas AI, pekerjaan berbasis AI.** [[ai-free-gates-engineering-students-india-2026|Goutham dan Gu (2026)]] mewawancarai 23 mahasiswa teknik India: semua kecuali satu memakai AI untuk penyaringan penempatan yang melarangnya sementara para pemberi kerja menuntutnya, sehingga nilai yang telah difilter itu mengesahkan lebih sedikit.
 - **Neurodivergensi dan kolaborasi:** [[neurodivergent-computing-students|Mahasiswa komputasi neurodivergen]] melaporkan ketidaknyamanan dengan struktur kolaborasi yang ambigu; tugas terstruktur, tim konsisten yang lebih kecil, dan peran eksplisit meningkatkan [[accessibility]] — pelajaran desain bagi alat AI yang masuk ke kelas komputasi.
 - **Budaya membentuk etika yang dipersepsikan:** [[cross-cultural-student-perceptions-genai-computing|Mahasiswa komputasi Kanada vs. Korea Selatan]] menilai praktik koding berbantuan AI yang identik secara berbeda meskipun kebijakannya secara fungsional identik — harmonisasi kebijakan tidak menghasilkan harmonisasi persepsi, sebuah persoalan [[academic-integrity]] dan [[equity-in-ai-education]].
 - **[[explainable-ai|Transparansi]] kolaborasi:** [[student-perception-ai-use-collaboration|Graf et al.]] menemukan bahwa keyakinan mitra yang tidak selaras tentang penggunaan AI masing-masing memprediksi skor proyek yang lebih rendah, terutama bagi siswa berkinerja lebih rendah — mekanisme transparansi (pengungkapan, log bersama) mungkin diperlukan dalam pemrograman kolaboratif.
@@ -141,7 +144,7 @@ Pendidikan CS terhubung dengan [[computational-thinking]], [[stem-education]], [
 
 - **"Kesepakatan atas kode berarti penilai membaca kodenya."** Dua penilai instruktur dalam tolok ukur itu sepakat pada **0.815** atas jawaban C++: **empat** model melampaui mereka dengan interval di atas 100% dari plafon itu dan **empat belas** jatuh di bawahnya, hingga **33%**. Pada tugas kode yang sama, catatan yang meminta nilai penuh menaikkan nilai Qwen3 235B sebesar **83.2% dari skala**, dan tujuh model dalam baterai itu memberi kredit pada jawaban kosong, sehingga [[porcaro-ai-grading-benchmark-2026|satu putaran penilaian atas kode siswa memerlukan uji kegagalan di samping angka kesepakatan]].
 
-- **"Efeknya sama pada setiap tahap kursus."** Efek itu tumbuh seiring pekerjaan: pada **60 program Java lengkap** yang dinilai dengan rubrik **14 tingkat**, efek label adalah **2.8 kali** ukuran jawaban singkatnya pada GPT-4.1-mini dan **2.4 kali** pada Qwen, meskipun hanya **0.4 kali** pada Gemini. [[porcaro-ai-grader-reliability-2026|Tugas dan rubrik adalah bagian dari apa yang diukur efek itu]], sehingga ukuran yang divalidasi pada jawaban singkat tidak bertransfer ke program.
+- **"Efeknya sama pada setiap tahap kursus."** Efek itu tumbuh seiring pekerjaan: pada **60 program Java lengkap** yang dinilai dengan [[rubrics|rubrik]] **14 tingkat**, efek label adalah **2.8 kali** ukuran jawaban singkatnya pada GPT-4.1-mini dan **2.4 kali** pada Qwen, meskipun hanya **0.4 kali** pada Gemini. [[porcaro-ai-grader-reliability-2026|Tugas dan rubrik adalah bagian dari apa yang diukur efek itu]], sehingga ukuran yang divalidasi pada jawaban singkat tidak bertransfer ke program.
 
 ## Miskonsepsi umum
 

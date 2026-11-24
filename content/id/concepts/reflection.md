@@ -15,7 +15,7 @@ connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reduci
 confidence: high
 contributors: [editor]
 translation_of: concepts/reflection
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -47,7 +47,7 @@ Dua pembedaan lebih lanjut menata literatur. Yang pertama adalah *kedalaman*: re
 
 ## Bagaimana refleksi berhubungan dengan penilaian diri, metakognisi, dan e-portofolio
 
-Pekerjaan batas di sini lebih penting daripada di sebagian besar halaman konsep, karena empat halaman yang berdekatan masing-masing memiliki bagian dari wilayah itu, dan para praktisi rutin menggunakan kata-katanya secara bergantian dalam rubrik.
+Pekerjaan batas di sini lebih penting daripada di sebagian besar halaman konsep, karena empat halaman yang berdekatan masing-masing memiliki bagian dari wilayah itu, dan para praktisi rutin menggunakan kata-katanya secara bergantian dalam [[rubrics|rubrik]].
 
 Apa yang mereka **bagi** itu nyata. Semuanya mengarahkan perhatian pembelajar kembali ke karyanya sendiri, semuanya terkait dengan [[agency|agensi]] dan kesadaran diri, semuanya dapat dirancah, dan semuanya dapat dilakukan untuk nilai. Setiap dari mereka juga sedang ditulis ulang oleh AI generatif pada periode yang sama, itulah sebabnya studi yang sama berulang di halaman-halaman ini. Refleksi adalah satu-satunya anggota kelompok itu yang produknya berupa *teks*, dan di situlah kemiripan keluarga berhenti berguna.
 
@@ -116,6 +116,8 @@ Bagi guru, konstruk ini berfungsi ganda sebagai [[educational-development|pengem
 
 Persiapan juga penting secara independen dari alatnya. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] menyilangkan pelatihan strategi metakognitif dengan modul plasebo dan LLM yang dikonfigurasi sebagai mitra refleksi [[socratic-method|Sokratik]] versus alat digital tradisional, dalam desain 2 × 2 dengan 60 guru prajabatan. Kedua efek utama signifikan untuk kualitas tulisan reflektif pada pascates.
 
+Refleksi juga dapat dipicu oleh batas alatnya itu sendiri. Dalam studi kasus tunggal tiga pekan, [[nuzzo-ai-reflective-partner-tpack-2026|Nuzzo dan De Marco (2026)]] mengikuti seorang guru humaniora sekolah menengah yang merancang pelajaran tentang *Laborintus* karya Sanguineti: pembacaan GenAI itu fasih tetapi meratapkan puisi ke dalam kategori generik, dan kesenjangan antara kelancaran retoris dan ketepatan hermeneutis menghasilkan apa yang para penulis sebut disonansi pedagogis dan pembingkaian ulang reflektif. Alih-alih menerima atau membuang keluarannya, ia membangun kembali lembar kerja di sekitar "Apa yang terlewatkan AI?", mengubah interpretasi yang dihasilkan menjadi objek pengamatan siswa. Koagensi manusia-AI tetap asimetris sepanjang proses: sistem menawarkan alternatif, sementara tanggung jawab epistemik dan pedagogis tetap berada pada guru.
+
 Dalam pemetaan 26 studi AI dalam pembelajaran layanan, refleksi adalah fase yang paling sedikit terlayani — tiga studi mencapainya dan satu mencakup keempatnya — sehingga fase yang mengubah layanan menjadi pembelajaran adalah tempat dukungan AI paling tipis ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
 ## Risiko bahwa prompt refleksi menggantikan pemantauan yang ingin dibangunnya
@@ -148,6 +150,7 @@ Sebuah prompt pemula yang bertahan terhadap sebagian besar mode kegagalan di ata
 - **Nilai apa yang dapat Anda pertahankan.** Kekhususan, bukti sebuah keputusan, penalaran revisi, dan kejujuran tentang apa yang salah dapat dinilai. Ketulusan tidak, dan model yang fasih dapat meniru permukaan dari semuanya.
 - **Pasangkan artefaknya dengan sesuatu yang mahal untuk didelegasikan.** Pertahanan lisan singkat, revisi langsung, atau keputusan yang memiliki konsekuensi — gerbang reflektif sistem Prober dan pertemuan verifikasi per anggota Issa dan Hall adalah dua pola yang berfungsi.
 - **Perhatikan apa yang dilakukan penilaian terhadap tindakannya.** Ketika refleksi diri dinilai, ia berisiko menjadi performatif, jadi nyatakan untuk apa refleksi itu *tidak* dinilai dan biarkan setidaknya sebagian refleksi tanpa nilai.
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw, Brewer dan Hunt (2026)]] memboboti sebuah mata kuliah 60% produk, 20% dokumentasi proses, dan 20% refleksi atas penggunaan AI, sehingga perjalanannya dinilai bersama dengan tujuannya.
 - **Jangan pernah memperlakukan skor sebagai bukti berpikir.** Pengklasifikasi kedalaman memperkirakan seberapa reflektif sebuah teks terbaca, yang merupakan sifat yang dapat dipabrikasi oleh draf kedua yang fasih.
 
 ### Mempertahankan rutinitas

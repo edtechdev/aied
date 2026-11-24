@@ -11,7 +11,7 @@ level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -54,6 +54,8 @@ connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudi
 मूल्यांकन-निर्माण दूसरी धारा है। [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]] ने ChatGPT-4 से एक Experimental Psychology पाठ्यक्रम के लिए 80 बहुविकल्पी प्रश्न लिखवाए और 120 विद्यार्थियों के साथ उन पर पूरा मनोमितीय उपकरण चलाया: आंतरिक सुसंगतता स्वीकार्य, परीक्षण-पुनःपरीक्षण मध्यम, 11.25% प्रश्न कमज़ोरी से विविषयक, और ब्लूम वितरण 73.75% स्मरण के सामने 8.75% विश्लेषण या मूल्यांकन। प्रश्न इस भरोसेमंद साक्ष्य थे कि विद्यार्थी चीज़ों का नाम बता सकते थे, और इस बात के बारे में मौन कि क्या वे अध्ययन डिज़ाइन कर सकते थे।
 
 सांख्यिकी तीसरा है, और सबसे अच्छे-साक्ष्य वाला हस्तक्षेप। [[ai-tutor-statistical-programming-adoption-2026|Préau and colleagues]] ने ट्यूबिंगन में मनोविज्ञान स्नातक-प्रारंभिक विद्यार्थियों के लिए सेमेस्टर-लंबे R प्रोग्रामिंग पाठ्यक्रम में "R-Tutor" नामक उद्देश्य-निर्मित ट्यूटर तैनात किया, एक पूर्व-पंजीकृत [[longitudinal-research|अनुदैर्घ्य डिज़ाइन]] में, जिसमें ट्यूटर को उत्तर देने के बजाय मार्गदर्शन करने का संकेत दिया गया।
+
+एक सम्पादित संकलन उसी प्रश्न को अध्ययन-दर-अध्ययन नहीं, पाठ्यक्रम-दर-पाठ्यक्रम लेता है। [[integrating-generative-ai-in-psychology-courses|मनोविज्ञान पाठ्यक्रमों में जनरेटिव AI का समाकलन]] Society for the Teaching of Psychology के इक्कीस विवरण एकत्र करता है, जो उस पाठ्यक्रम के अनुसार व्यवस्थित हैं जिसे शिक्षक अभी पढ़ाने वाला है: बुनियादी और समन्वयक, नैदानिक और परामर्श, तथा सांख्यिकी सहित शोध-विधियाँ। इसके अध्याय प्रयोग-विवरण हैं, अध्ययन नहीं, और उनके प्रमाण असमान हैं। लेकिन वे वह देते हैं जो यहाँ की प्रायोगिक साहित्य नहीं दे सकता, अर्थात वे डिज़ाइन जो विशेष कक्षाओं में चले। तीन प्रतिबद्धताएँ उनमें बार-बार आती हैं: पहुँच को ऐसे चरणबद्ध करना कि विद्यार्थियों के पास उपकरण का मूल्यांकन करने के लिए कुछ हो, सत्यापन अनिवार्य करना और उसे स्पष्ट बनाना, तथा यह निर्णय कि शिक्षक कब उपकरण का उपयोग न करे उसे लक्षित परिणाम मानना।
 
 ## नैदानिक और परामर्श-प्रशिक्षण
 

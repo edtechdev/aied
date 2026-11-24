@@ -27,7 +27,7 @@ connected_concepts: [automated-assessment, assessment-validity, benchmark]
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-GradeBench mengajukan pertanyaan yang sempit tetapi berguna tentang [[automated-assessment|penilaian otomatis]]: diberikan jawaban tulisan tangan mahasiswa, rubrik pengajar, solusi acuan, dan butir rubrik yang benar-benar dipilih pengajar, apakah model frontier memilih butir yang sama? Label emasnya adalah pilihan rubrik asli dari pengajar dan asisten pengajar (TA) pada ujian dan kuis, bukan keluaran model yang dinilai ulang.
+GradeBench mengajukan pertanyaan yang sempit tetapi berguna tentang [[automated-assessment|penilaian otomatis]]: diberikan jawaban tulisan tangan mahasiswa, [[rubrics|rubrik]] pengajar, solusi acuan, dan butir rubrik yang benar-benar dipilih pengajar, apakah model frontier memilih butir yang sama? Label emasnya adalah pilihan rubrik asli dari pengajar dan asisten pengajar (TA) pada ujian dan kuis, bukan keluaran model yang dinilai ulang.
 
 ## Apa yang dapat Anda lakukan dengannya
 

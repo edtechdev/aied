@@ -36,7 +36,7 @@ connected_concepts: [learning-design, design-thinking, online-teaching-and-learn
 **idstack** adalah kumpulan open-source berisi sebelas skill untuk [[learning-design|desain
 pembelajaran]] berbasis bukti, didistribusikan sebagai plugin Claude Code dengan ekstensi panel samping
 Chrome pendamping. Alih-alih menyusun draf mata kuliah, skill-nya mengaudit satu mata kuliah: mereka
-mengklasifikasikan tujuan terhadap taksonomi Bloom revisi, memeriksa keselarasan konstruktif antara
+mengklasifikasikan tujuan terhadap [[bloom-taxonomy|taksonomi Bloom]] revisi, memeriksa keselarasan konstruktif antara
 tujuan, aktivitas dan asesmen, menandai masalah beban kognitif, dan meninjau aksesibilitas terhadap WCAG
 2.1 AA serta Universal Design for Learning. Setiap rekomendasi membawa tingkat bukti, dari T1 untuk
 meta-analisis dan uji acak sampai T5 untuk pendapat pakar. Proyek ini menyatakan bahwa sitasinya

@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 connected_resources: [integrating-generative-ai-in-psychology-courses]
 translation_of: concepts/social-sciences-education
-source_updated: "2026-11-17T12:15:00-05:00"
+source_updated: "2026-11-24T18:30:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ connected_articles: [civic-education-ai-lesson-plans, nkalanga-digital-borders-c
 - **בניהול, כשאלת תכנית לימודים.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] מנתחים כיצד בינה מלאכותית משנה את מה שחינוך ניהול הוא בשבילו דרך עדשת אסטרטגיה מבוססת-ערך, ושואלים אילו פעילויות הטכנולוגיה מחליפה ואילו משלימה. [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] מכסים את העשור שקדם לשאלה הזו, ו[[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] בונים מסגרת מובנית-סטודנטים לאופן שבו בתי ספר צריכים להגיב.
 - **בניהול, כבעיית ניקוד.** [[mesny-innovative-assessment-grading-management-2026|Mesny (2026)]] מתייחס לעיצוב הערכה כאל מיקום השינוי ולא לסילבוס. [[automated-scoring-marketing-posts-agreement-2026|ניקוד אוטומטי של פוסטי שיווק של סטודנטים]] מודד הסכמה ושגיאה באופן ישיר, וזו גרסת האשכול לשאלת [[assessment-validity|התוקף]]: ציון שמסכים עם מדרג אנושי אינו בהכרח ציון שמודד את הלמידה המיועדת.
 - **בלימודי סביבה, כנושא כפול.** [[daniel-ai-sustainability-scoping-review-2026|Daniel (2026)]] מפריד בין בינה מלאכותית *לקיימות* לבין בינה מלאכותית קיימת, ומוצא את פער הדרום הגלובלי עובר בשניהם. [[aied-carbon-footprint-reporting|דיווח טביעת רגל פחמנית ב-AIED]] סוקר פרקטיקת חשיפה ב-2025 ומספק שיטה בקוד פתוח לחצי השני, בעוד [[ai-assisted-inquiry-ssi-climate|חקירת אקלים בסיוע בינה מלאכותית]] מדווחת d = 0.69 על פני חקירה לבדה עבור הראשון.
+
+- **בפסיכולוגיה, כיישום קורס-אחר-קורס.** [[integrating-generative-ai-in-psychology-courses|שילוב בינה מלאכותית יוצרת בקורסי פסיכולוגיה]] אוסף עשרים ואחת דיווחים מ-Society for the Teaching of Psychology, המסודרים לפי הקורס הנלמד בחישולים בסיסיים, קליניים וסטטיסטיים ([[psychology-education|חינוך לפסיכולוגיה]]). פרקיו הם דיווחי מעשיים ולא מחקרים, ולכן נושאים פרטי עיצוב במקום ראיות תוצאה, אך האשכול מרוויח בהם את הדיווח הראשון על הוראתה של תחום אחד ברמת תכנית הלימודים.
 
 ## פער המדידה
 

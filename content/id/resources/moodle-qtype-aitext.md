@@ -34,7 +34,7 @@ connected_concepts: [automated-essay-scoring, ai-feedback-quality, formative-ass
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Sebagian besar integrasi kuis AI mengirim setiap jawaban ke panggilan penilaian tetap. Tipe soal Moodle ini melakukan sebaliknya: pengajar menulis rubriknya. Setiap soal membawa **prompt** yang memberi tahu model cara mengevaluasi respons dan **skema penilaian** opsional yang menjelaskan bagaimana nilai diberikan, sehingga butir "tulis satu kalimat dalam bentuk lampau" dapat menetapkan sepuluh nilai untuk nol kesalahan, nol untuk tata bahasa rusak, dan satu nilai dikurangi per kesalahan ejaan. Model mengembalikan nilai dan [[feedback|umpan balik]], dan pengajar dapat melihat umpan balik itu di samping respons saat menilai dengan tangan.
+Sebagian besar integrasi kuis AI mengirim setiap jawaban ke panggilan penilaian tetap. Tipe soal Moodle ini melakukan sebaliknya: pengajar menulis [[rubrics|rubrik]]nya. Setiap soal membawa **prompt** yang memberi tahu model cara mengevaluasi respons dan **skema penilaian** opsional yang menjelaskan bagaimana nilai diberikan, sehingga butir "tulis satu kalimat dalam bentuk lampau" dapat menetapkan sepuluh nilai untuk nol kesalahan, nol untuk tata bahasa rusak, dan satu nilai dikurangi per kesalahan ejaan. Model mengembalikan nilai dan [[feedback|umpan balik]], dan pengajar dapat melihat umpan balik itu di samping respons saat menilai dengan tangan.
 
 ## Apa yang dapat Anda lakukan dengannya
 

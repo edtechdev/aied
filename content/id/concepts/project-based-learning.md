@@ -8,7 +8,7 @@ level: [higher ed, k 12]
 confidence: high
 updated: "2026-11-08T13:51:25-05:00"
 translation_of: "concepts/project-based-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-24T08:15:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,7 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [problem-based-learning, active-learning, experiential-learning, collaborative-learning, educational-robotics, game-based-learning, computational-thinking, higher-ed, pedagogy, arts-and-media-education]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, genai-counter-learner-groupthink-2025, bots-blocks-project-based-robotics-education-2026, game-based-gamified-robotics-education-review-2026, genai-literacy-training-teacher-education-dbr-2026, roboblockly-conversational-block-robotics-ct-2026, white-wu-robotics-ai-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, creative-project-approach-ai-early-childhood-2025, spec-driven-development-ai-agents-sdpbl-2026, ai-ive-pbl-vocational-design-creativity-2026]
+connected_faqs: [ai-help-hurt-collaborative-learning]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -63,13 +64,6 @@ PBL terhubung ke pedagogi [[active-learning|pembelajaran aktif]], [[experiential
 
 - Pembelajaran berbasis proyek yang digabungkan dengan [[storytelling-in-education|penceritaan digital]] menawarkan respons pedagogis terhadap [[generative-ai|AI generatif]] dalam pendidikan seni dan desain. Studi kasus tersemat selama 15 minggu dengan 426 mahasiswa sarjana menerapkan kerangka PBL-DS di mana penceritaan digital menjadi metodologi utama bagi siswa untuk menerjemahkan warisan budaya lokal menjadi narasi [[multimodal]] yang menggugah secara emosional, menumbuhkan kapasitas kreatif yang tidak dimiliki AI.
 
-## Miskonsepsi Umum
-
-- **"Efek PBL itu besar, jadi PBL dengan AI juga andal besar."** Satu-satunya meta-analisis tiga tingkat tentang pasangan ini menggabungkan **22 studi terkontrol (66 ukuran efek)** dan mengestimasi efek besar, **g = 0.819, 95% CI [0.655, 0.983]** — tetapi koreksi PET-PEESE menurunkannya, dan estimasi itu menggambarkan studi yang digabungkan, bukan desainnya secara umum.
-- **"Menyesuaikan alat memperbaiki hasil."** Jenis alat memoderasi efek secara signifikan (**QM = 14.301, p < .001**), dan arahnya berlawanan dengan intuisi: **chatbot umum yang digunakan secara langsung terkumpul lebih tinggi (g = 0.970)** daripada sistem yang **disesuaikan menjadi platform kursus, pasien virtual, atau agen (g = 0.455)**. Alat telanjang mengungguli alat yang direkayasa, yang menentang asumsi bahwa produk yang dirancang khusus adalah pembelian yang lebih baik.
-- **"Siswa menganggap keterbukaan sebagai bagian yang sulit."** Dalam data persepsi siswa, **keterbukaan menjadi tema positif teratas (22.3%)** sementara **instruksi yang tidak jelas memuncaki tema negatif (23.7%)**. Siswa menyambut kebebasan dan menolak ambiguitas — pembedaan yang penting karena perbaikannya berbeda: perumusan tugas yang lebih jelas, bukan pekerjaan terbuka yang lebih sedikit.
-- **"Siswa yang menikmatinya belajar lebih banyak."** Pembelajaran yang dipersepsikan berkorelasi dengan skor kuis hanya secara **moderat (r = 0.161-0.315)**. Kepuasan dan pembelajaran yang terukur berhubungan lemah di sini, sehingga evaluasi PBL yang positif bukan dengan sendirinya bukti bahwa tujuan pembelajaran tercapai.
-
 ## Implikasi bagi Praktik
 
 **Bagi instruktur**
@@ -83,3 +77,10 @@ PBL terhubung ke pedagogi [[active-learning|pembelajaran aktif]], [[experiential
 
 - Temuan moderasi itu adalah peringatan produk: merekayasa chatbot ke dalam lingkungan khusus bertepatan dengan efek terkumpul yang *lebih kecil*. Validasi bahwa penyesuaian menambah nilai pembelajaran alih-alih kenyamanan yang diasumsikan.
 - Jika Anda merilis modul PBL, lapisan instruksi adalah fitur yang menghasilkan hasilnya, bukan modelnya.
+
+## Miskonsepsi Umum
+
+- **"Efek PBL itu besar, jadi PBL dengan AI juga andal besar."** Satu-satunya meta-analisis tiga tingkat tentang pasangan ini menggabungkan **22 studi terkontrol (66 ukuran efek)** dan mengestimasi efek besar, **g = 0.819, 95% CI [0.655, 0.983]** — tetapi koreksi PET-PEESE menurunkannya, dan estimasi itu menggambarkan studi yang digabungkan, bukan desainnya secara umum.
+- **"Menyesuaikan alat memperbaiki hasil."** Jenis alat memoderasi efek secara signifikan (**QM = 14.301, p < .001**), dan arahnya berlawanan dengan intuisi: **chatbot umum yang digunakan secara langsung terkumpul lebih tinggi (g = 0.970)** daripada sistem yang **disesuaikan menjadi platform kursus, pasien virtual, atau agen (g = 0.455)**. Alat telanjang mengungguli alat yang direkayasa, yang menentang asumsi bahwa produk yang dirancang khusus adalah pembelian yang lebih baik.
+- **"Siswa menganggap keterbukaan sebagai bagian yang sulit."** Dalam data persepsi siswa, **keterbukaan menjadi tema positif teratas (22.3%)** sementara **instruksi yang tidak jelas memuncaki tema negatif (23.7%)**. Siswa menyambut kebebasan dan menolak ambiguitas — pembedaan yang penting karena perbaikannya berbeda: perumusan tugas yang lebih jelas, bukan pekerjaan terbuka yang lebih sedikit.
+- **"Siswa yang menikmatinya belajar lebih banyak."** Pembelajaran yang dipersepsikan berkorelasi dengan skor kuis hanya secara **moderat (r = 0.161-0.315)**. Kepuasan dan pembelajaran yang terukur berhubungan lemah di sini, sehingga evaluasi PBL yang positif bukan dengan sendirinya bukti bahwa tujuan pembelajaran tercapai.

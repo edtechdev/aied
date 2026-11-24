@@ -6,13 +6,13 @@ foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
 technology: [generative-ai]
 assessment: [assessment, authentic-assessment, peer-assessment]
-connected_faqs: [group-work-ai]
+connected_faqs: [ai-help-hurt-collaborative-learning, group-work-ai]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/group-work"
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-24T08:15:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ Kerja kelompok menempati posisi yang khas dalam [[higher-ed|pendidikan tinggi]] 
 - **Kolaborasi harus dirancang, bukan diasumsikan.** Ketika sebuah tugas dapat dipartisi menjadi subtugas yang independen, siswa mengambil jalur itu dan kelompok menjadi sekadar format pengumpulan alih-alih usaha intelektual bersama. [[chen-zou-genai-group-assessment-agency-2026|Chen dan Zou (2026)]] menemukan tiga dari lima belas kelompok mereka melakukan tepat hal ini — membagi pekerjaan, bekerja di "platform individual," dan tidak pernah menyatukan kapabilitas GenAI individual mereka bahkan ketika koherensi merupakan kriteria penilaian yang eksplisit.
 - **Proses versus produk.** Kerja kelompok paling kuat ketika prosesnya dinilai bersama luarannya, yang menuntut [[peer-assessment|penilaian sejawat]] atau perantara lain yang terlihat alih-alih satu artefak akhir.
 - **[[equity-in-ai-education|Keadilan]] dan [[inclusive-learning|inklusi]].** Norma kontribusi, bahasa, dan kepercayaan diri terdistribusi secara tidak setara di dalam kelompok. [[neurodivergent-computing-students|Siswa neurodivergen]] melaporkan kebutuhan akan tugas yang terstruktur, tim kecil yang konsisten, dan peran yang didefinisikan secara eksplisit — persyaratan yang rutin gagal dipenuhi alat kolaborasi AI, yang sering dibangun untuk pembelajar "rata-rata".
+- **Mempraktekkan percakapan sulit.** Momen yang paling dihindari dalam kerja kelompok sering kali bersifat antarpribadi: memberi tahu rekannya bahwa tenggatnya terlewat dan mengundang akuntannya. Sebuah tinjauan naratif terfokus atas sembilan studi ([[rothwell-ai-interpersonal-skills-undergraduate-teams-2026|Rothwell, 2026]]) memisahkan tiga luaran yang cenderung dicampuradukkan instruktur (keyakinan siswa setelah latihan dengan chatbot, kinerja saat saran AI masih tersedia, dan kinerja tanpa bantuan dengan mitra manusia) dan menemukan hanya yang ketiga yang menetapkan transfer, dengan bukti langsung dari kerja tim sarjana masih terbatas. Latihan yang diusulkan karena itu menyiapkan percakapan triad dasar, latihan chatbot dengan umpan balik berbasis perilaku, dan rangkaian transfer dekat tanpa bantuan serta retensi tunda tanpa alat itu, sehingga perbaikan tidak dapat diatribusikan pada prompt yang tersedia pada momen kinerja.
 
 ## Bagaimana AI mengubah kerja kelompok
 
@@ -81,6 +82,7 @@ Lini penelitian kedua memperlakukan AI sebagai peserta alih-alih alat, dan temua
 - **Kontroversi dapat melawan groupthink.** [[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]] sengaja mengambil pendekatan yang berlawanan: sebuah agen AI (CALIE) yang diinstruksikan untuk menyuntikkan sudut pandang kontroversial ke dalam dua belas tim [[problem-based-learning|PBL]] interprofesional merangsang [[critical-thinking|berpikir kritis]] dan dinamika kelompok yang positif, melawan tekanan konformitas yang dapat dihasilkan kerja kelompok. Kontrasnya dengan Jin et al. instruktif — tantangan membantu ketika ia merupakan desain yang dimaksudkan, dan merugikan ketika ia merupakan efek samping yang tidak diakui.
 - **Kendala mediator netral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]], sebuah AI yang memediasi batas-batas disipliner dalam tim interdisipliner dengan memunculkan asumsi-asumsi implisit, dihargai sebagai dukungan kognitif sekaligus penyangga relasional — tetapi kepercayaan siswa bersifat menanggung beban dan terkikis begitu AI beralih dari mediator netral menjadi penasihat atau penantang. Pergantian peran karena itu perlu eksplisit dan dapat dikonfigurasi, bukan senyap.
 - **Kolaborasi itu sendiri dapat menjadi objek pengajaran.** [[golrang-propact-pair-programming-2026|ProPACT]] memperlakukan *diad* — bukan individu — sebagai unit analisis, memodelkan perhatian dan usaha bersama untuk memprediksi keruntuhan kolaboratif hingga 30 detik sebelumnya. Diad yang menerima umpan balik proaktif mencapai keberhasilan debugging yang lebih tinggi dan menunjukkan perolehan berkelanjutan dalam [[regulation]] kolaboratif sesudahnya: AI dapat mengajarkan kolaborasi itu sendiri, bukan sekadar mendukung sebuah tugas.
+- **Penggusur relasional.** Dalam eksperimen 33 tim teracak, [[nixon-social-cost-ai-teammate-2026|Nixon dkk. (2026)]] menemukan rekan AI mengambil waktu bicara terbanyak namun menambahkan informasi baru paling sedikit, sementara siswa merespons satu sama lain lebih sedikit (responsivitas g = −0,78) dan melaporkan rasa memiliki lebih rendah (4,58 vs. 5,27). Semakin dominan AI dalam waktu bicara, semakin rendah nilai yang siswa rasakan (r = −0,52).
 
 ### Pertukaran efisiensi–regulasi
 
@@ -98,7 +100,8 @@ Lini penelitian kedua memperlakukan AI sebagai peserta alih-alih alat, dan temua
 
 - **Jadikan negosiasi penggunaan AI sebagai luaran yang dapat dinilai.** [[chen-zou-genai-group-assessment-agency-2026|Chen dan Zou (2026)]] berargumen bahwa tim sebaiknya membenarkan dan mendokumentasikan bagaimana GenAI akan dan tidak akan digunakan, mengubah norma sejawat yang implisit menjadi penalaran eksplisit yang dapat dinilai alih-alih membiarkannya pada risiko yang dipersepsikan.
 - **Nilai prosesnya, bukan hanya produknya.** [[peer-assessment|Penilaian sejawat]], kiriman antara, dan kontribusi reflektif menciptakan interaksi yang melaluinya norma dan pemahaman bersama benar-benar dibangun.
-- **Jangan mengandalkan kriteria koherensi saja.** Satu baris rubrik yang menuntut integrasi tidak menghasilkan kolaborasi jika struktur tugas masih memungkinkan strategi pecah-dan-taklukkan; alur kerjanya harus menuntut kerja bersama.
+- **Nilai jaringannya, bukan pelaku tunggal.** Sebuah penilaian ulang konseptual tentang keadilan era GenAI berargumen bahwa kerja kelompok seharusnya dinilai sebagai sintesis terdokumentasi lintas perspektif, sebuah "jaringan pengetahuan terpadu", alih-alih kinerja terisolasi di bawah kendala artifisial ([[dollinger-equitable-assessment-ai-2026|Dollinger & Nieminen, 2026]]).
+- **Jangan mengandalkan kriteria koherensi saja.** Satu baris [[rubrics|rubrik]] yang menuntut integrasi tidak menghasilkan kolaborasi jika struktur tugas masih memungkinkan strategi pecah-dan-taklukkan; alur kerjanya harus menuntut kerja bersama.
 - **Rancang aksesnya secara sengaja.** Apakah kelompok berbagi satu antarmuka AI atau setiap anggota memberi prompt secara privat mengubah transparansi kolaborasi dan biaya mempertahankan model kognitif bersama.
 - **Putuskan, secara terlihat, apa peran AI.** Mediator netral dipercaya; penasihat atau penantang tidak, kecuali peran itu eksplisit dan dimaksudkan. Persona kontrarian dapat melawan groupthink, tetapi hanya sebagai fitur yang dirancang dengan biaya rasa aman psikologisnya diakui.
 - **Seimbangkan efisiensi dengan pengaturan diri.** AI kolaboratif yang memaksimalkan efisiensi tugas dapat melemahkan keterlibatan regulatif pembelajar; desain harus sengaja melindungi ruang bagi interpretasi bersama.

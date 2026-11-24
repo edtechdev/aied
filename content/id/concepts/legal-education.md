@@ -15,7 +15,7 @@ page_kind: [synthesis]
 confidence: medium
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/legal-education"
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ Bukti eksperimental mulai muncul: [[xie-genai-mystery-game-legal-education-2026|
 
 ## Apa yang ditunjukkan bukti kebijakan
 
-Gutowski dan Hurley menilai kebijakan pada lima dimensi dengan rubrik 0–5: **sifat melarang**, **sifat mengizinkan**, **integrasi pendidikan**, **transparansi dan akuntabilitas**, dan **kedalaman**. Penjajakan mereka menemukan bahwa sebagian besar sekolah hukum mengadopsi sikap yang umumnya melarang, sering dijelaskan sebagai membeli waktu untuk mempelajari teknologi, sementara hampir semua kebijakan menyisakan diskresi bagi instruktur individual. Peringkat sifat mengizinkan dan sifat melarang berkorelasi terbalik, seperti diharapkan, dan para penulis melaporkan tidak ada satu pendekatan pun yang diterima: kebijakan berkisar dari tata kelola komprehensif hingga tidak ada kebijakan tertulis sama sekali.
+Gutowski dan Hurley menilai kebijakan pada lima dimensi dengan [[rubrics|rubrik]] 0–5: **sifat melarang**, **sifat mengizinkan**, **integrasi pendidikan**, **transparansi dan akuntabilitas**, dan **kedalaman**. Penjajakan mereka menemukan bahwa sebagian besar sekolah hukum mengadopsi sikap yang umumnya melarang, sering dijelaskan sebagai membeli waktu untuk mempelajari teknologi, sementara hampir semua kebijakan menyisakan diskresi bagi instruktur individual. Peringkat sifat mengizinkan dan sifat melarang berkorelasi terbalik, seperti diharapkan, dan para penulis melaporkan tidak ada satu pendekatan pun yang diterima: kebijakan berkisar dari tata kelola komprehensif hingga tidak ada kebijakan tertulis sama sekali.
 
 Mereka juga mendokumentasikan betapa tipisnya bukti di sektor ini. Survei ABA tahun 2024 tentang AI dan pendidikan hukum hanya memperoleh respons dari 29 sekolah, sekitar 15% sekolah hukum yang disetujui ABA, sehingga hampir tidak dapat diperlakukan sebagai representatif; dan survei LexisNexis terhadap 800 mahasiswa hukum menemukan hanya 9% yang melaporkan penggunaan AI generatif saat ini untuk studi mereka, dengan 25% berencana mengadopsinya. Para penulis membaca rendahnya penggunaan yang dilaporkan sebagian sebagai respons terhadap aturan yang tidak jelas, karena kejelasan mengurangi rasa takut melanggarnya.
 

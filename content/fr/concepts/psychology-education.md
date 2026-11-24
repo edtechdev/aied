@@ -11,7 +11,7 @@ level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -54,6 +54,8 @@ L'étude de cours la plus claire porte sur la [[assessment|conception de l'éval
 La génération d'évaluations est le second filon. [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]] a demandé à ChatGPT-4 d'écrire 80 items à choix multiples pour un cours de psychologie expérimentale et leur a fait subir tout l'appareillage psychométrique avec 120 étudiants : cohérence interne acceptable, test-retest modéré, 11,25 % des items peu discriminants, et une distribution de Bloom de 73,75 % de rappel contre 8,75 % d'analyse ou d'évaluation. Ces items constituaient une preuve fiable que les étudiants savaient nommer des choses, et silence sur leur capacité à concevoir une étude.
 
 La statistique est le troisième, et l'intervention la mieux étayée. [[ai-tutor-statistical-programming-adoption-2026|Préau et coll.]] ont déployé un « R-Tutor » construit à cet effet dans un cours de programmation R d'un semestre pour des étudiants de premier cycle en psychologie à Tübingen, dans une [[longitudinal-research|conception longitudinale]] préenregistrée, avec un tuteur invité à guider plutôt qu'à répondre.
+
+Un volume dirigé aborde la même question cours par cours plutôt que étude par étude. [[integrating-generative-ai-in-psychology-courses|Intégrer l'IA générative dans les cours de psychologie]] rassemble vingt et un récits de la Society for the Teaching of Psychology, organisés selon le cours qu'un enseignant s'apprête à donner : fondamentaux et transversaux, cliniques et de counseling, et méthodes de recherche avec statistiques. Ses chapitres sont des comptes rendus de praticiens plutôt que des études, et leur niveau de preuve est inégal. Ils fournissent néanmoins ce que la littérature expérimentale d'ici ne peut pas, à savoir des dispositifs qui ont fonctionné dans des classes particulières. Trois engagements reviennent à travers eux. L'accès est étalé pour que les étudiants aient de quoi juger l'outil. La vérification est exigée et rendue visible. Et le jugement de l'enseignant sur les moments où l'outil ne doit pas être utilisé est considéré comme le résultat visé.
 
 ## Formation clinique et counseling
 

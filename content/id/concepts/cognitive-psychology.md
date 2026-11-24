@@ -7,7 +7,7 @@ technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/cognitive-psychology"
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ Sebuah eksperimen 2026 memberi sisi memori dari batas itu sebuah mode kegagalan 
 2. **Representasikan pembelajar, jangan sekadar merespons.** Lampirkan [[student-modeling|pemodelan siswa]] dan [[knowledge-tracing|pelacakan pengetahuan]] terstruktur pada dialog AI agar sistem beradaptasi dengan pengetahuan yang disimpulkan alih-alih merespons dengan lancar tetapi buta.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **Hormati batas memori kerja.** Terapkan Cognitive Load Theory pada UX AI: kurangi beban ekstraneus (gesekan, antarmuka yang kelebihan beban) sekaligus mempertahankan pemrosesan germane ([[desirable-difficulties|perjuangan produktif]], latihan pengambilan) alih-alih meminimalkan semua tuntutan kognitif.
 4. **Kalibrasi metakognisi.** Karena [[metacognition|metakognisi]] mengatur kapan pembelajar memilih untuk melimpahkan, mengajarkan kalibrasi (mengetahui apa yang benar-benar dapat dilakukan tanpa bantuan) adalah jawaban kognitivis atas ketergantungan berlebih (lihat [[cognitive-offloading]]).
+
+Perkembangan adalah pertanyaan terpisah: mekanisme ini diperlakukan sebagai stabil, sementara [[developmental-psychology|psikologi perkembangan]] menanyakan bagaimana mekanisme itu berubah seiring usia dan apa artinya bagi penggunaan AI yang dikelompokkan menurut usia.
 
 ## Miskonsepsi umum
 

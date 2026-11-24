@@ -11,7 +11,7 @@ level: [higher ed, graduate]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 translation_of: concepts/psychology-education
-source_updated: "2026-11-17T13:05:00-05:00"
+source_updated: "2026-11-24T18:20:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-11-19"
     agent: hermes-agent
 connected_concepts: [social-sciences-education, humanities-education, ai-literacy, assessment-validity, feedback, self-efficacy, student-ai-interaction]
-connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026]
+connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudin-ai-generated-mcq-psychology-exams-2025, ai-tutor-statistical-programming-adoption-2026, akkurt-counselor-trainees-chatgpt-simulated-client-2025, armagan-bogatekin-ai-attitudes-psychology-trainees-2026, mental-health-literacy-students-llms-2026, reed-ai-literacy-ethical-judgment-scenarios-2026, critical-genai-use-predictors, hu-psychological-predictors-continued-chatgpt-use-2026, hawkins-feedback-literacy-ai-essay-writing, burke-ai-proliferation-college-students-replication-2026, integrating-generative-ai-in-psychology-courses]
 ---
 
 *これは英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -54,6 +54,8 @@ connected_articles: [richmond-nicholls-genai-psych-feedback-ai-literacies, baudi
 アセスメント生成が2つ目の流れである。[[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]]はChatGPT-4に実験心理学の科目用に80問の多肢選択問題を作成させ、120人の学生に対して心理測定学的な手続きを一通り適用した:内部一貫性は許容水準、再テスト信頼性は中程度、11.25%の問題の識別力が低く、Bloomの分布は想起73.75%に対して分析・評価が8.75%であった。これらの問題は、学生が物事を名として挙げられることの信頼できる証拠であり、研究を設計できるかどうかについては沈黙していた。
 
 統計が3つ目であり、最も証拠のしっかりした介入である。[[ai-tutor-statistical-programming-adoption-2026|Préauら]]は、Tübingenの心理学部生向けの1学期にわたるRプログラミング科目の中で、専用設計の「R-Tutor」を導入した。事前登録された[[longitudinal-research|縦断的デザイン]]であり、チューターには答えるのではなく導くようプロンプトが与えられていた。
+
+一冊の編集論集が、研究ごとではなく科目ごとに同じ問いを扱う。[[integrating-generative-ai-in-psychology-courses|心理学の授業に生成AIを統合する]]は、Society for the Teaching of Psychology の二十一の報告を収め、教員がこれから担当する科目に沿って編成している。基礎と横断、臨床とカウンセリング、そして統計を含む研究方法である。各章は研究ではなく実践者の報告で、証拠の質は一様ではない。だが、ここにある実験的研究文献が提供できないもの、すなわち特定の教室で実際に運用されたデザインを、この論集は提供する。三つの方針が各章に繰り返し現れる。学生がツールを判断する手がかりを持つようにアクセスを段階化すること、検証を求めてそれを可視化すること、そしてツールを使わない場面についての教員の判断を、本来の成果として扱うことである。
 
 ## 臨床・カウンセリング訓練
 

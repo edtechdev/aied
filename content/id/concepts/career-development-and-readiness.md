@@ -8,7 +8,7 @@ level: [higher ed, adult learning]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/career-development-and-readiness"
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ Seiring AI mentransformasi pekerjaan, peran pendidikan dalam pengembangan karier
 - **Transisi tenaga kerja.** Studi [[post-covid-ict-career-aspirations|aspirasi karier TIK]] menelaah bagaimana niat karier siswa bergeser sebagai respons terhadap perubahan teknologi.
 - **Landasan teoretis.** [[kim-ai-anxiety-comprehensive-analysis|analisis komprehensif Kecemasan AI]] mengidentifikasi **ketakutan akan penggantian oleh AI** sebagai pendorong utama kecemasan AI — dimensi karier yang ditangani konsep ini secara langsung.
 
+- **Nasihat karier LLM membawa bawaan Barat.** Ditanya apa yang dibutuhkan pekerjaan komputasi tingkat awal di sepuluh negara Afrika, enam model hanya mengenali ekosistem lokal, kebutuhan bahasa, dan kebijakan nasional sebanyak 35.4% dari waktu, sehingga nasihat teknisnya bertransfer tetapi konteksnya tidak ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn dan Berhane, 2026]]).
+
 ## Kesiapan karier sebagai tujuan protektif dan perkembangan
 
 Tema yang berulang adalah bahwa pengembangan karier di era AI semestinya menjadi **tujuan pendidikan yang disengaja**, bukan tambahan belaka: membangun kemampuan adaptasi karier, evaluasi diri inti, [[self-efficacy]], dan keterampilan AI yang dihargai pemberi kerja, sambil menangani secara langsung kecemasan yang dirasakan siswa tentang pemindahan oleh AI. Ini menautkan pengembangan karier ke [[professional-training]], [[self-efficacy]], [[motivation]], dan [[anxiety-and-stress]], dan memosisikan pendidikan sekaligus sebagai saluran keterampilan dan sumber kesiapan psikologis.
@@ -68,3 +70,7 @@ Pengembangan karier dan kesiapan terhubung ke [[professional-training]] (dimensi
 - **"Kecemasan AI adalah disposisi umum yang bisa diredakan dengan menenangkan."** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] mengonfirmasi dengan SEM bahwa kecemasan AI **merusak keputusan karier sebagian besar melalui adaptabilitas karier yang tergerus (63.35% dari efek total)**. Mekanismenya spesifik: kecemasan bekerja dengan mencabut kapasitas untuk beradaptasi, sehingga penenangan yang diarahkan pada perasaan melewatkan mediator yang membawa efek itu.
 - **"Adaptabilitas karier adalah soft skill yang sekunder terhadap kompetensi teknis."** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] menunjukkan adaptabilitas karier **menurunkan kecemasan AI**, yang menjadikannya intervensi hulu alih-alih hasil hilir. Membangun adaptabilitas menangani mekanismenya; memperlakukannya sebagai pelengkap yang bagus saja membiarkan mediatornya utuh.
 - **"Kecemasan tentang AI tersebar merata."** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] menemukan kecemasan AI dan sikap AI yang negatif memprediksi kecemasan mencari kerja pascakelulusan pada **1,057 siswa**, dengan pola berbeda bagi **perempuan dan mahasiswa ilmu sosial**. Intervensi yang seragam salah mengalokasikan dukungan.
+
+Sebuah kerangka tingkat program menjadikan langkah-langkah institusional eksplisit, meskipun belum dievaluasi sebagai program. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] mengusulkan enam tahap: penginderaan, validasi pemangku kepentingan, diagnosis program, redesain kurikulum, enactasi dan kapabilitas, serta tinjauan luaran. Setiap tahap membawa hak keputusan yang dinamai dan keluaran yang dapat dipertanggungjawabkan, dan AI dibatasi pada empat fungsi dukungan terikat: deteksi pola di seluruh informasi pasar kerja, pemetaan kompetensi, generasi opsi kurikulum untuk penilaian manusia, dan pemantauan indikator implementasi. Nilainya adalah bahwa kerangka itu menamai langkah-langkah tata kelola yang biasanya tersirat dalam strategi kesiapan karier.
+
+Sebuah survei atas 1,445 mahasiswa universitas Tiongkok menelusuri jalur dari keyakinan kegunaan melalui penggunaan AI menuju eksplorasi karier. Kegunaan yang dipersepsikan dari AI generatif memprediksi penggunaan pada β = 0.569, sementara efikasi diri karier memprediksinya hanya pada β = 0.082. Penggunaan kemudian berasosiasi dengan perilaku eksplorasi karier pada β = 0.423, efikasi diri tetap menjadi prediktor kognitif terkuat dari eksplorasi itu sendiri (β = 0.285), dan model menjelaskan 50.5% varians eksplorasi ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]]). Jalur tak langsung bersifat statistik dan lintang-sekali, bukan longitudinal.

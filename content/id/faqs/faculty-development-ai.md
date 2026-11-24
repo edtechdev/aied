@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 institutions: [change-management]
 updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Intinya untuk rapat: standarkan siklus sesi ketika setiap peserta membawa artefa
 
 **2.** Letakkan verifikasi, pengungkapan dan kendali risiko di dalam templat kerja, di tempat hal itu dipakai, sehingga peserta yang cemas punya tempat untuk menaruh kekhawatirannya.
 
-**3.** Belanjakan jamnya untuk penilaian dan rubrik, bidang terlemah pada garis dasar dan yang perolehannya terukur paling besar.
+**3.** Belanjakan jamnya untuk penilaian dan [[rubrics|rubrik]], bidang terlemah pada garis dasar dan yang perolehannya terukur paling besar.
 
 **4.** Jalankan kohort [[discipline-specific-aied|khusus disiplin]], lalu bedakan di dalamnya menurut pengalaman.
 
