@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Introduktion
 
-### CT i et klasseværelse i AI-tidsalderen
+## CT i et klasseværelse i AI-tidsalderen
 
 Vidensbasens forbundne artikler mødes i en central påstand: computational thinking (CT) er det begrebsmæssige grundfjeld, studerende har brug for for at engagere sig kritisk i AI, og det er samtidig den færdighed, der dybest set styrkes af veldesignet AI-understøttet læring. Nedenfor er evidensen grupperet i fire temaer forankret i de linkede artikler.
 
@@ -52,8 +56,22 @@ Varige kompetencer forskydes, når implementeringen automatiseres: en workshopra
 - **CT på tværs af K-12, læreruddannelse og redesign af vurdering.** CT spænder over hele spektret fra [[k-12]] til [[higher-ed]] og er ved at omforme vurdering. I den tidlige barndom udvider AI-Play CT og AI-kompetence til Pre-K–K2-lærende og ikke-tekniske familier; på universitetsniveau fandt [[genai-oop-programming-assessments-2026|OOP-vurderingsstudiet]], at GenAI-systemer i 2026 overgår den gennemsnitlige studerende ved autentiske programmeringseksamener, men stadig fejler på grænseflader, abstrakte klasser og nedarvning — tilbagevendende begrebsmæssige huller, der netop markerer, hvor CT fortsat er svært at automatisere. [[solving-vs-evaluating-genai-solutions|Et randomiseret A/B-crossover-studie]] viste, at evaluerings- og kritikopgaver giver sammenlignelige resultater med generering, hvilket tyder på, at CT kan udøves gennem vurdering af fejlbehæftede AI-løsninger, selv om gevinsterne kræver bevidst stilladsering. Under alt dette ligger læreren: micro:bit-studiet knytter CT-undervisning direkte til [[teacher-education]], og [[hashmi-socratic-physics-chatbot-2025|forskning i sokratiske chatbots]] forbinder den præcise problemformulering, som CT kræver, med målbar kursuspræstation.
 
 - **Et valideret instrument lokaliserer, hvor CT er sværest.** En 34-leds computational-thinking-test udviklet med Evidence-Centered Design og valideret med item-response-teori hos 461 AI-programmeringsstuderende koncentrerede sværhedsgraden om datarepræsentation, sekvensering af logiske operatorer og løkkestrukturer frem for jævnt fordelt over pensum ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
+- Målevalget ændrer dommen: computational-thinking- og critical-thinking-poster nåede modstridende eller blandede konklusioner i 13 af 23 par med samme konstrukt, så en selvrapporteret CT-undersøgelse og en opgavebaseret måling er ofte uenige ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+- Computational thinking måles også som disposition: i en treugers femteklasse-spilstudie favoriserede justerede selvrapporterede CT-tendenser GenAI-klassen, 4,325 mod 4,037 (p = 0,046, delvis eta-kvadrat = 0,052, n = 78). En algoritmisk vidensprøve adskilte dem ikke (80,7 mod 74,9), så tendens- og vidensmålingerne fulgte forskellige konstrukter ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
-### CT og skiftet fra AI-forbrugere til producenter, skabere og designere
+Underkompetenceprofiler komplicerer den enkelte CT-score, et pre-post-design rapporterer. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij og Khlaisang (2026)]] førte 28 thailandske bachelorstuderende uden for datalogi gennem otte ugers tre-timers-sessioner, der parrede en femtrins [[design-thinking|design-thinking]]-cyklus med low-code-app-byggeri, og scorede projektarbejde på en trepointsskala [[rubrics|rubric]]. Gennemsnittet for computational thinking steg fra 1,13 i den første session til 1,80 og derefter 2,49, med algoritmisk tænkning som det stærkeste træk ved 2,08 og en forløb på 1,46 til 1,93 til 2,86. Logisk tænkning lå i gennemsnit på 1,54 og bevægede sig næsten ikke mellem de to første sessioner, 1,04 til 1,29, før den nåede 2,29 i den tredje - en påmindelse om, at gevinster i én komponent ikke indebærer, at de øvrige fulgte med.
+
+## Systems thinking som CT-praksis
+
+Systemtænkning er et af de fire domæner i den computational-thinking-taksonomi for matematik og naturfag, som Weintrop og kollegaer udviklede, side om side med Data Practices, Computational Problem-Solving Practices samt Modeling and Simulation Practices. Dens definition er præcis: **evnen til at definere systemgrænser og syntetisere mikroniveau-interaktioner til makroniveau-adfærd**. Det er en kognitiv kapacitet på lærendeniveau - en måde at ræsonnere om et system på - og den er forskellig fra den miljøniveau-holdning, der behandler et læringsmiljø som et system ([[learning-environments-as-systems|læringsmiljøer som systemer]]).
+
+Det er også det domæne, hvor vurderingen brister først. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch og Rebello (2026)]] kodede 936 studerendes skriftlige forklaringer i et introduktionskursus i computational physics mod taksonomien, kalibrerede en menneskelig baseline på 10 studerende (60 svar, Fleiss' κ = 0,53) og kodede derefter 50 studerende (300 svar) ved flertalsafgørelse. Studerende voksede mest i Data Practices (p < 0,001, d = 1,03) med moderate gevinster i Computational Problem-Solving (d = 0,52) og Systems Thinking (d = 0,45). Men Systems Thinking var den mindst pålidelige konstrukt for *både* mennesker og modeller: menneskelig enighed κ = 0,51 og LLM κ = 0,48 mod κ = 0,90 for Data Practices og κ = 0,78 for Modeling and Simulation. Forfatternes læsning er, at vanskeligheden skyldes konstruktkompleksitet snarere end modelmangel - en flerkomponentkonstrukt, der beder en studerende om både at identificere komponenter *og* forklare deres interaktioner og konsekvenser, er sværere at kode end en veldefineret. Modeling and Simulation viste d = 0,00 af en ubeslægtet årsag, en lofteffekt: gennemsnittet før undervisningen lå allerede på 1,62 ud af 2, så den pågældende post målte basisviden snarere end vækst.
+
+Den praktiske implikation er et problem med rubrikdesign, ikke et modelproblem. Deres anbefaling er at omskrive rubrikken, så identifikation af systemkomponenter scores separat fra at forklare, hvordan komponenterne påvirker hinanden, og at læse lav automatiseret enighed på en integreret konstrukt som et signal til at revidere instrumentet snarere end at opgive automatisering. Det er det samme træk, som [[rubrics|rubrik]]forskningen når fra scorens side: instrumentet, ikke modellen, er det, der kalibrerer.
+
+Konstruktet rejser sig ud over fysikken. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz og Castro Samayoa (2026)]] navngiver systemtænkning som en af de kapaciteter, Aoun kalder *robot-sikre* - kritisk tænkning, systemtænkning og kulturel agilitet - dem, praksis opbygger og delegation ikke gør. [[huang-ai-literacy-vocational-problem-solving-2026|Huang og kollegaer (2026)]] afgrænser deres egen "systematisk tænkning"-konstrukt mod den og behandler deres som en snæver fire-dimensionsmåling (strukturering, ræsonnement, prioritering, integration) og afviser eksplicit at kalde det systemtænkning i bred forstand. Og [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea og Valencia-Silva (2026)]] advarer om, at engagement ikke er systemtænkning - en skelnen, der betyder noget, når en rubrik bruges til at certificere en kompetence, den ikke blev skrevet til at måle.
+
+## CT og skiftet fra AI-forbrugere til producenter, skabere og designere
 
 Et centralt mål for CT i AI-tidsalderen er at flytte studerende og undervisere ud over *passivt forbrug* af AI-output og mod at *skabe, bygge og designe* med og til AI — en dagsorden der forbinder CT med konstruktionistisk læring (læring gennem at skabe). Vidensbasens forbundne artikler gør i stigende grad denne producent/skaber/designer-vending eksplicit. [[ai-writes-code-student-writes-model-2026|Forskning i modelforfatterskab]] omformulerer læring gennem konstruktion med GenAI som en målbar "modelforfatterskabs"-proces — studerende forfatter, debugger og itererer på AI-modeller i stedet for blot at forbruge AI-genereret kode eller svar. [[code-to-learn-genai-artifact-construction-2026|CtL-GenAI-rammen]] operationaliserer dette som [[constructivist|konstruktionisme]] for GenAI-tidsalderen og behandler de artefakter, studerende bygger med AI, som motoren i CT-udvikling. [[computational-thinking-ai-agent-creation|CT gennem skabelse af AI-agenter]] viser, at design — ikke blot brug — af AI-agenter direkte udøver dekomponering, abstraktion og algoritmisk ræsonnement.
 
@@ -63,11 +81,11 @@ Det praktiske resultat er, at CT-undervisning bør designes, så lærende *skabe
 
 Genbrug af andres modeller hører til producentpositionen: at implementere en offentliggjort AI-model — vælge, installere, køre og validere den — kan undervises som en lærbar, struktureret færdighed med en fallback-rute for hver forudset fejl, og tre BSc-studerende i [[chemistry-education|kemi]] uden programmeringsbaggrund reproducerede og udvidede en enzym-substrat-prædiktionsmodel inden for fire måneder ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Praktisk vejledning
+## Praktisk vejledning
 
 For undervisere er budskabet konsekvent, at CT udvikles gennem *eksplicit, stilladseret, observerbar* engagement frem for passiv AI-brug. Par robotteknologi med eksplicit kortlægning af CT-begreber til læseplanen; brug LLM'er til [[simulation]], naturligsprogsstyring og skalerbar vurdering af CT-vækst, mens menneskelig dømmekraft reserveres til konstrukter som systemtænkning; og redesign vurderinger, så de vægter evaluering og diagnosticering af AI-output højere end rå generering. Uanset rammen — unplugged leg i tidlig barndom, robotter i sekundær [[stem-education]] eller Virtual Tutors i [[higher-ed]] — skal aktiviteten struktureres, så studerende må ræsonnere om dekomponering, mønstre, abstraktion og algoritmer i stedet for at modtage færdige løsninger.
 
-### Forbindelser til relaterede begreber
+## Forbindelser til relaterede begreber
 
 Computational thinking er det fælles kognitive fundament under [[ai-literacy]] og [[critical-thinking]], den læseplansmæssige kerne i [[cs-education]] og [[k-12]]-computing og det begrebsmæssige mål, som [[educational-robotics]], [[game-based-learning]] og [[project-based-learning]] bedst designes til at tjene. Det uddybes af [[llm|store sprogmodeller]] og [[generative-ai]], når disse bruges som stilladseringværktøjer, og det er den færdighed, som taksonomier over studerendes fejlopfattelser og CT-bevidste vurderinger sigter mod at måle. Lærere udvikler det gennem [[teacher-education]] og [[professional-training]], og det overføres på tværs af domæner, herunder [[physics-education]] og [[stem-education|STEM]] bredt.
 

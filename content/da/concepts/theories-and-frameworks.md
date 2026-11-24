@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Disse forklarer mekanismer: de navngiver de dele, der gør arbejdet, og forudsig
 ## Rammer for undervisning, integration og adoption
 
 - **[[tpack|TPACK]]** — den lærerviden, der forener teknologi, pædagogik og indhold; standardrammen for lærerrettede AI-studier.
+- **[[bloom-taxonomy|Blooms taksonomi]]** — det fælles ordforråd for kognitiv efterspørgsel i opgaver, brugt både til at kode item og til at rækkefølge dem; i AI i uddannelse er det lige så meget blevet et måleproblem som et designproblem.
 - **[[technology-acceptance-model|Adoptionsmodeller]]** — intention som en funktion af opfattet anvendelighed og brugervenlighed. Brugt så bredt, at feltets afhængighed af intention frem for adfærd er en fast kritik.
+- **Expectation-confirmation model (ECM)** — tilfredshed som bekræftelse af tidligere forventninger, med fortsat brug snarere end indledende adoption som udfald. I et semesterlangt sociologi-metode-pilotprojekt med 24 bachelorstuderende vurderede 87 % Copilot som god eller fremragende, og 91 % ville anbefale den, men kun 57 % havde til hensigt at blive ved med at bruge den ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Gabet er modellens pointe: en tilfreds bruger kan stadigvæk afvise at vende tilbage, så tilfredshed og fortsat brug skal måles separat.
 - **[[icap-framework|ICAP]]** — rangerer engagement som passivt, aktivt, konstruktivt, interaktivt; nyttig til at spørge, hvilken tilstand en [[student-ai-interaction|AI-interaktion]] faktisk muliggør.
 - **[[samr-model|SAMR]]** — fra substitution til redefinition. Populær som en modenhedsfortælling, svag som måleinstrument.
 - **[[universal-design-for-learning|Universelt design for læring]]**, **[[inclusive-learning|inkluderende læring]]** og **[[accessibility|tilgængelighed]]** — designrammer for hvem der bliver betjent, og dem der oftest påkaldes i arbejde med handicap og [[equity-in-ai-education|ligestilling]].
@@ -104,7 +110,7 @@ Ordene bruges løst i litteraturen, og forskellen er et afsnit værd snarere end
 
 ## Beslægtede lag
 
-To nabosider handler bevidst om noget andet. [[philosophy-of-ai-in-education|Filosofien om AI i uddannelse]] stiller normative og begrebsmæssige spørgsmål — hvad uddannelse er *til for*, om en maskine kan undervise — og forudsiger ikke effektstørrelser; en undersøgelse kan være filosofisk naiv og teoretisk solid, eller det modsatte. [[theory-development-aied|Teoriudvikling]] er metaaktiviteten at bygge, låne og revidere teori, inklusive den faste kritik, at meget [[ai-education|AIEd]]-arbejde anvender eksisterende teori snarere end at teste den. Denne side er inventaret; teoriudvikling handler om at producere og revidere inventaret.
+To nabosider handler bevidst om noget andet. [[philosophy-of-ai-in-education|Filosofien om AI i uddannelse]] stiller normative og begrebsmæssige spørgsmål — hvad uddannelse er *til for*, om en maskine kan undervise — og forudsiger ikke effektstørrelser; en undersøgelse kan være filosofisk naiv og teoretisk solid, eller det modsatte. [[theory-development-aied|Teoriudvikling]] er metaaktiviteten at bygge, låne og revidere teori, inklusive den faste kritik, at meget [[ai-education|AIEd]]-arbejde anvender eksisterende teori snarere end at teste den. Denne side er inventaret; teoriudvikling handler om at producere og revidere inventaret. [[learning-environments-as-systems|Læringsmiljøer som systemer]] er en tredje nabo. Det er ikke en læringsteori og forudsiger ingen effektstørrelser, men en holdning til analysenheden: et læringsmiljø er et flerniveausystem, hvis dele påvirker hinanden, så det niveau, en undersøgelse måler, er en teoretisk beslutning, ikke en tilfældighed i udvalget.
 
 ## At vælge en linse, når spørgsmålet er praktisk
 

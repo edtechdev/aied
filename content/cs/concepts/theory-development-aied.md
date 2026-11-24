@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Jiná práce rozšiřuje existující teorii do kontextu AI, místo aby zakláda
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin a Chang (2026)]] rozšiřují [[self-regulated-learning|seberegulované učení]] a regulaci člověka a AI tím, že pojmenovávají, co studující řídí — standardy, [[evaluative-judgment|hodnoticí úsudky]] a autorizaci kontroly — místo jen toho, co dělá AI.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai a Flenady (2026)]] importují Honnethovo a Brandomovo uznání do teorie zpětné vazby a argumentují, že komentář se stává důvodom k jednání ne kvřli kvalitě informací, nýbrž kvůli vzájemnému přiznání postavení.
+
 Paradox tření nabízí další rozšíření zavedené teorie: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] aplikuje [[desirable-difficulties|žádoucí obtížnosti]] Bjorka a Bjorkové a [[productive-failure|produktivní selhání]] Kapura na relační setkání ve vzdělávání v zahraničí a tvrdí, že záleží na tom, kolik interpretační agenturnosti student [[transfer-of-learning|přenese]] na generativního asistenta, nikoli na tom, jak často jej používá. Rámec je konceptuální a stanovuje pět tvrzení jako soupeřící hypotézy.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] rozvíjejí funkční taxonomii oboru od Zawackiho-Richtera et al. (2019): ze 154 publikací s klasifikovatelnou aplikační funkcí jich 90 (58,4 %) uniklo jejím čtyřem kategoriím a jejich rámec kříží funkci s delegovanou kontrolou, epistemickou pozicí a zakotvenou pedagogikou.
@@ -94,14 +100,7 @@ Teoretizování oboru je nerovnoměrné. [[limitations-in-aied-research|Omezení
 ## Vztah k filozofii AI ve vzdělávání
 
 Rozvíjení teorie a [[philosophy-of-ai-in-education|filozofie AI ve vzdělávání]] jsou komplementární, avšak odlišné linie zakládající práce znalostní báze. **Rozvíjení teorie** produkuje a empiricky testuje *mechanismy* učení s AI — pojmenované teorie a rámce jako generativismus, epistemická spoluagenturnost a chybějící kognitivní baseline, které vysvětlují a predikují, jak studující a AI interagují. **Filozofie** zkoumá *presupozice*, na nichž tyto mechanismy stojí: co se počítá jako znalost, kdo se počítá jako znalec a co studující v zásadě je. Teorie jako [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemická spoluagenturnost]] navrhuje mechanismus a zároveň implicitně přijímá filozofické závazky o distribuované kognici a [[agency|agenturnosti]]; filozofie tyto závazky činí explicitními a napadnutelnými. Zatímco rozvíjení teorie se ptá, zda rámec učení dobře vysvětluje, filozofie se ptá, zda vystihuje, co učení a mysl skutečně jsou — obě linie se potkávají v nejzákladnějších článcích oboru, které často dělají obojí zároveň.
-
-## Časté mylné představy
-
-**„Zjištění, že nástroj fungoval, je teoretický příspěvek."** Není, a důvod je strukturální. Kde tvrzení rámce predikují *rozdíly mezi konfiguracemi*, studie hlásící jen průměrný efekt **je nemůže potvrdit ani vyvrátit** — design nevidí rozlišení, o němž teorie mluví. Pokus ukazující průměrný zisk vám říká, že se něco stalo, ne který mechanismus to způsobil, takže teorie zůstává podepřena přesně tak jako předtím.
-
-**„Aplikovat zavedenou teorii na AI je rozvíjení teorie."** Problém užívání teorie, který tato stránka popisuje, říká opak: aplikace není rozvíjení a opakujícím se vzorcem oboru jsou vypůjčené konstrukty použité jako slovník, nikoli jako testovatelné predikce. Rozlišení je podstatné, protože vypůjčený rámec, který nedokáže vygenerovat falzifikovatelný rozdíl, je dekorací, ne teorií.
-
-**„Existující taxonomie pedagogické funkce AI už pokrývají to, co tyto systémy dělají."** Zdaleka ne všechno. Ze 154 publikací s klasifikovatelnou aplikační funkcí **90 (58,4 %) uniklo čtyřem kategoriím** předchozího rámce, a proto novější práce kříží funkci s delegovanou kontrolou, epistemickou pozicí a zakotvenou pedagogikou. Taxonomie, která chybně klasifikuje téměř tři případy z pěti, nemůže sloužit jako společný slovník oboru, a tato mezera je zjištěním o fenoménu, nikoli mezerou v článku.
+Co kritici oboru říkají o směrech, které tyto teorie otevřou nebo zavřou, je samostatnou otázkou, shrnutou pod [[critiques-of-ai-in-education|Kritikou AI ve vzdělávání]].
 
 ## Důsledky pro praxi
 
@@ -120,3 +119,11 @@ Rozvíjení teorie a [[philosophy-of-ai-in-education|filozofie AI ve vzdělává
 
 - Pokud zamýšlíte teoretický příspěvek, navrhujte design pro kontrasty konfigurací. Pokus s průměrným efektem publikovaný jako rozvíjení teorie je nejběžnějším a nejméně užitečným výstupem oboru.
 - Ke každému rámci, který představíte, připojte explicitní falzifikovatelná tvrzení a uveďte, které rozdíly konfigurací by je vyvrátily.
+
+## Časté mylné představy
+
+**„Zjištění, že nástroj fungoval, je teoretický příspěvek."** Není, a důvod je strukturální. Kde tvrzení rámce predikují *rozdíly mezi konfiguracemi*, studie hlásící jen průměrný efekt **je nemůže potvrdit ani vyvrátit** — design nevidí rozlišení, o němž teorie mluví. Pokus ukazující průměrný zisk vám říká, že se něco stalo, ne který mechanismus to způsobil, takže teorie zůstává podepřena přesně tak jako předtím.
+
+**„Aplikovat zavedenou teorii na AI je rozvíjení teorie."** Problém užívání teorie, který tato stránka popisuje, říká opak: aplikace není rozvíjení a opakujícím se vzorcem oboru jsou vypůjčené konstrukty použité jako slovník, nikoli jako testovatelné predikce. Rozlišení je podstatné, protože vypůjčený rámec, který nedokáže vygenerovat falzifikovatelný rozdíl, je dekorací, ne teorií.
+
+**„Existující taxonomie pedagogické funkce AI už pokrývají to, co tyto systémy dělají."** Zdaleka ne všechno. Ze 154 publikací s klasifikovatelnou aplikační funkcí **90 (58,4 %) uniklo čtyřem kategoriím** předchozího rámce, a proto novější práce kříží funkci s delegovanou kontrolou, epistemickou pozicí a zakotvenou pedagogikou. Taxonomie, která chybně klasifikuje téměř tři případy z pěti, nemůže sloužit jako společný slovník oboru, a tato mezera je zjištěním o fenoménu, nikoli mezerou v článku.

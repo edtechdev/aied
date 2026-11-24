@@ -6,15 +6,19 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,17 +39,19 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Introduktion
 
-Dette er en begrebsside for de filosofiske og teoretiske fundamenter for [[ai-education|AI i uddannelse]]. Mens [[learning-theories]] dokumenterer de empiriske og designorienterede teorier ([[behaviorism|behaviorisme]], [[constructivist|konstruktivisme]], [[cognitive-offloading|kognitiv belastning]], [[self-regulated-learning|selvreguleret læring]] osv.), beskæftiger filosofistrømmen sig med de ontologiske, epistemologiske og etiske spørgsmål, som disse teorier forudsætter. De to er tæt forbundne: filosofiske positioner former, hvilke læringsteorier der virker plausible, og hvilke pædagogiske mål der er værd at forfølge.
+Dette er en begrebsside for de filosofiske og teoretiske fundamenter for [[ai-education|AI i uddannelse]]. Mens [[learning-theories]] dokumenterer de empiriske og designorienterede teorier ([[behaviorism|behaviorisme]], [[constructivist|konstruktivisme]], [[cognitive-offloading|kognitiv belastning]], [[self-regulated-learning|selvreguleret læring]] osv.), beskæftiger filosofistrømmen sig med de ontologiske, epistemologiske og etiske spørgsmål, som disse teorier forudsætter. De to er tæt forbundne: filosofiske positioner former, hvilke læringsteorier der virker plausible, og hvilke pædagogiske mål der er værd at forfølge. Den normative strøm af det arbejde, argumenter om, hvad AI i uddannelse er ved at gøre uddannelsen til, er samlet under [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
-### Centrale filosofiske spørgsmål
+## Centrale filosofiske spørgsmål
 
 - **Sindets og kognitionens natur.** Kræver tænkning bevidsthed og en krop? Kan AI deltage i genuint kognitive processer? Rammer som **ensemble cognition** argumenterer for, at AI udøver *funktionel handlekraft* — genuin kausal effekt i kognitive processer — uden bevidsthed, og at tænkning opstår fra dynamisk menneske–[[student-ai-interaction|AI-interaktion]] ([[ensemble-cognition-philosophy-ai-education]]). [[distributed-cognition|Distribueret kognition]] og den udvidede sind-tese fremsætter beslægtede påstande om, at kognition er spredt ud over systemer.
 - **Hvad er den lærende?** Posthumanistisk filosofi rekonceptualiserer den lærende som en "posthuman" entitet, hvis kognitive processer er genuint hybride og distribueret på tværs af [[biology-education|biologiske]] og kunstige systemer ([[elsayed-pedagogical-symbiosis-posthuman-learner]]). Det udfordrer antagelsen om, at den lærende er et afgrænset, autonomt individuelt sind.
 - **Kropslighed og grænserne for disembodied AI.** [[embodied-learning|Kropslig]] og post-kognitivistisk filosofi kritiserer dominansen af symbolske, disembodied AI-modeller og argumenterer for, at kognition er forankret i situationalitet, emergens og sensomotorisk kobling, som nuværende [[generative-ai|generativ AI]] mangler ([[videla-embodied-ai-education-choreography]]).
+- **Automatisering som kontinuitet, ikke brud.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross og Aros (2026)]] argumenterer for, at kunstig intelligens passer ind i skolen, fordi den forlænger en kognitivistisk og instruktionel model, der behandler læring som informationsbehandling og undervisning som transmission; at automatisere uddannelse er derfor en ontologisk illusion, der abstraherer læring fra de kropslige og relationelle betingelser, hvor mening og ansvar opstår.
 - **Følelsesarbejde som testcase for maskinelle sind.** Feltets argumenter om, hvorvidt AI kan undervise, afhænger ofte af, om den kan *omsorg* — et spørgsmål, der blev diskuteret længe før [[affective-computing|affektiv computing]] fandtes. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] rekonstruerer debatten 1950–1996, hvor Ziffs påstand om, at kun levende væsener bogstaveligt kan have følelser, blev besvaret af Smarts identitetsteori og Putnams adfærdskriterium, så tre rivaliserende ontologier stod uløste. Hans konklusion er en begrundelsesbyrde snarere end en umulighedspåstand — repræsentation, simulation og efterligning er ikke tilstrækkelige til at fastslå følelsesarbejde — hvilket lægger byrden på enhver, der vil uddelegere pastoral omsorg til et system.
 - **Handlekraft, forfatterskab og mening.** Når AI medierer fortolkning og meningsdannelse, spørger filosofien, hvordan forfatterskab, epistemisk [[agency|handlekraft]] og fortolkningsmæssig autonomi omkonfigureres ([[voicu-ai-interpretive-cognition-ssh-2026]]).
 - **Ontologien af AI-genererede videnskabelige objekter.** I [[chemistry-education|kemi]] indtager AI-forudsagte forbindelser og titreringskurver et "liminalt ontologisk rum" — hverken helt hypotetisk eller fuldt virkeligt, før det er empirisk bevist — hvilket flytter disciplinen fra realisme mod en konstruktivistisk opfattelse, hvor virkeligheden er et samarbejde mellem menneske og maskine ([[philosophy-experimentation-ai-chemistry-2026|Reyes og Regala (2026)]]).
 - **Kognitiv passivitet som epistemisk skade.** Bai og Costa (2026) trækker på Arendts forståelse af tænkning som en indadgående, uoverførbar aktivitet for at argumentere for, at GenAI, der leverer arbejdet, ikke blot aflaster tænkningen, men forelukker den, idet Bourdieus felt og habitus lokaliserer risikoen i institutionelle strukturer ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- I nærheden af denne redegørelse rekonstruerer [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] essayet som en form for tænkning: Montaignes forsøg, Adornos fragmenter, Heideggers meditativ tænkning - dets værdi ligger i den tænkning, skrivningen producerer, ikke i det produkt, der opnås.
 - **Værdier, retfærdighed og uddannelsens formål.** Filosofisk analyse undersøger, om AI-drevet uddannelse tjener menneskelig blomstring og uddannelsesmæssig retfærdighed, eller om den gør læring til et instrument for produktivitet ([[avraamidou-ai-colonization-science-education]]). Det forbinder til [[critical-pedagogy|kritisk pædagogik]] og [[ethics|etik]].
 - **'Menneskecentreret' som en antropocentrisk diskurs, ikke en neutral etik.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang og Jin (2026)]] læser UNESCO-, OECD- og Montréal-deklarationens dokumenter for at argumentere for, at menneskecentreret AIED arver oplysningstidens humanistiske udelukkelser, at transhumanisme bevarer dem, og at mærkatet kan legitimere kommerciel infrastruktur.
 
@@ -55,29 +61,19 @@ Dette er en begrebsside for de filosofiske og teoretiske fundamenter for [[ai-ed
 - **Handlekraft uden ansvarlighed.** En korpusassisteret diskursanalyse af 366 GenAI-bachelorabstrakter finder [[generative-ai|AI]] nævnt 2.050 gange og indgående i 447 strenge aktør–prædikat-associationer — feltets hyppigste aktør — men handlingsprædikater dominerer dem (78,7 %), og ingen sætning gør et system ansvarligt: af 166 forpligtelsesudtryk tildelte ingen ansvar til et system, og den ene klausul, der forbinder AI med ansvarlighed, siger, at AI ikke er ansvarlig. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] læser dette som funktionel handlekraft anerkendt i sproget uden det relationelle ansvar, der ville knytte den til nogen.
 **Hverken værktøj eller samarbejdspartner: den medierende agent.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate og Ritchie (2026)]] argumenterer for, at det underdriver generativ AI's interaktionelle indflydelse at kalde den et blot værktøj, mens det fejlagtigt tilskriver den intentionalitet og ansvarlighed at kalde den en samarbejdspartner, og foreslår *den medierende agent* — et responsivt, ikke-ansvarligt system, hvis nyhed er deltagelse snarere end intelligens.
 
-### Forholdet til læringsteorier
+## Forholdet til læringsteorier
 
 Filosofien om AI i uddannelse og [[learning-theories]] er komplementære linser. Læringsteorier forklarer læringens mekanismer (f.eks. hvordan [[feedback]], [[scaffolding|stilladsering]] eller kognitiv belastning former udfald); filosofien afhører forudsætningerne for disse mekanismer — hvad der tæller som viden, hvem der tæller som vidende, og hvad den lærende grundlæggende er. Posthumanistisk og kritisk-filosofisk arbejde udfordrer især feltet til at bevæge sig ud over instrumentelle rammer som [[tpack]] og SAM mod en dybere ontologisk reorientering ([[elsayed-pedagogical-symbiosis-posthuman-learner]]).
 
-### Forholdet til teoriudvikling
+## Forholdet til teoriudvikling
 
 Filosofien om AI i uddannelse og [[theory-development-aied|teoriudvikling i AIEd]] er komplementære, men forskellige. Filosofien stiller de ontologiske og epistemologiske spørgsmål — hvad sind, viden og den lærende grundlæggende er under AI-medierede betingelser — mens teoriudvikling producerer og empirisk tester de *mekanismer*, der operationaliserer svarene på disse spørgsmål (generativisme, epistemisk samhandlekraft, den fraværende kognitive baseline). De to informerer gensidigt hinanden: filosofien afklarer de forudsætninger, som teorier bærer (f.eks. forudsætter [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemisk samhandlekraft]] en distribueret, ikke-individualistisk model for kognition), mens teoriudvikling giver filosofiske positioner testbar, falsificerbar form. Feltets mest fundamentale artikler gør begge dele på én gang og ligger på grænsen mellem de to begreber.
-
-## Almindelige fejlopfattelser
-
-**"Filosofien om AI i uddannelse er det samme som at katalogisere læringsteorier."** De ligger på forskellige dybder. [[learning-theories]]-siden spørger, *hvordan læring sker*; filosofien spørger, *hvad læring, sind og den lærende grundlæggende er* under AI-medierede betingelser. Et studium kan afgøre et læringsteoretisk spørgsmål og lade det filosofiske stå urørt, hvilket er grunden til, at en teknisk vellykket intervention stadig kan være den forkerte ting at gøre.
-
-**"Kognitiv udlicitering er skaden, og den kan vendes med mere indsats."** Der findes en stærkere påstand. Bai og Costa (2026) trækker på Arendts forståelse af tænkning som en indadgående, uoverførbar aktivitet for at argumentere for, at GenAI, der *leverer* arbejdet, ikke blot aflaster tænkningen, men forelukker den — og de lokaliserer risikoen institutionelt, gennem Bourdieus felt og habitus, snarere end i individuel viljestyrke. Hvis argumentet holder, er "brug det forsigtigt" ikke et tilstrækkeligt botemiddel, fordi praksissen formes af det felt, der belønner outputtet.
-
-**"Ikke-vestlig filosofi er indhold, man tilføjer en uændret ramme."** Den kan være en kilde til anderledes fundamenter. Én rekonstruktion behandler daoistiske begreber — "Dao-natur" (道性), selvkultivering (修道) og "Zhenren" (真人) — ikke som "østligt indhold" føjet til en vestlig ramme, men som ressourcer, der omformer de begrebsmæssige fundamenter, hvorigennem AI i uddannelse forstås. At tilføje en tradition som illustration og at bruge den til at omformulere spørgsmålene er forskellige videnskabelige handlinger.
-
-**"Filosofisk kritik kan ikke omsættes til handling."** Den fastlægger, hvad der tæller som succes. Om et systems output er en lærendes præstation, og om en målt gevinst er et pædagogisk gode, er forudgående spørgsmål, som ingen effektstørrelse kan besvare — og institutioner, der springer dem over, vil optimere det målbare og kalde det forbedring.
 
 ## Implikationer for praksis
 
 **For undervisere**
 
-- Beslut, før du tager et værktøj i brug, hvad du er villig til at regne som den studerendes egen præstation. Hvis en poleret aflevering produceret af systemet ville tilfredsstille din evaluering, har du svaret "ingenting" — og ingen senere ændring af bedømmelsesrammen genvinder spørgsmålet.
+- Beslut, før du tager et værktøj i brug, hvad du er villig til at regne som den studerendes egen præstation. Hvis en poleret aflevering produceret af systemet ville tilfredsstille din evaluering, har du svaret "ingenting" — og ingen senere ændring af [[rubrics|bedømmelsesrammen]] genvinder spørgsmålet.
 - Tag forelukkelsesargumentet alvorligt, når du designer opgaver: hvis GenAI, der leverer arbejdet, forelukker tænkningen snarere end blot aflaster den, så er "brug det ansvarligt" ikke en tilstrækkelig beskyttelse, fordi det omgivende felt belønner outputtet. Design opgaver, hvor beviset for tænkning produceres, før værktøjet er tilgængeligt.
 - Spørg, hvis læringsforståelse dit kursus koder. At adoptere en ramme ukritisk importerer dens antagelser om, hvad en lærende er, og de antagelser er omstridelige.
 
@@ -91,3 +87,13 @@ Filosofien om AI i uddannelse og [[theory-development-aied|teoriudvikling i AIEd
 
 - Angiv den læringsforståelse, din evaluering forudsætter, fordi en målt gevinst kun er et pædagogisk gode i forhold til en eller anden redegørelse for, hvad uddannelse er til for.
 - Finansier det filosofiske arbejde side om side med det empiriske: spørgsmål om, hvad der tæller som en lærendes præstation, fastlægger de succesktriterier, som de empiriske studier derefter bruger.
+## Almindelige fejlopfattelser
+
+**"Filosofien om AI i uddannelse er det samme som at katalogisere læringsteorier."** De ligger på forskellige dybder. [[learning-theories]]-siden spørger, *hvordan læring sker*; filosofien spørger, *hvad læring, sind og den lærende grundlæggende er* under AI-medierede betingelser. Et studium kan afgøre et læringsteoretisk spørgsmål og lade det filosofiske stå urørt, hvilket er grunden til, at en teknisk vellykket intervention stadig kan være den forkerte ting at gøre.
+
+**"Kognitiv udlicitering er skaden, og den kan vendes med mere indsats."** Der findes en stærkere påstand. Bai og Costa (2026) trækker på Arendts forståelse af tænkning som en indadgående, uoverførbar aktivitet for at argumentere for, at GenAI, der *leverer* arbejdet, ikke blot aflaster tænkningen, men forelukker den — og de lokaliserer risikoen institutionelt, gennem Bourdieus felt og habitus, snarere end i individuel viljestyrke. Hvis argumentet holder, er "brug det forsigtigt" ikke et tilstrækkeligt botemiddel, fordi praksissen formes af det felt, der belønner outputtet.
+
+**"Ikke-vestlig filosofi er indhold, man tilføjer en uændret ramme."** Den kan være en kilde til anderledes fundamenter. Én rekonstruktion behandler daoistiske begreber — "Dao-natur" (道性), selvkultivering (修道) og "Zhenren" (真人) — ikke som "østligt indhold" føjet til en vestlig ramme, men som ressourcer, der omformer de begrebsmæssige fundamenter, hvorigennem AI i uddannelse forstås. At tilføje en tradition som illustration og at bruge den til at omformulere spørgsmålene er forskellige videnskabelige handlinger.
+
+**"Filosofisk kritik kan ikke omsættes til handling."** Den fastlægger, hvad der tæller som succes. Om et systems output er en lærendes præstation, og om en målt gevinst er et pædagogisk gode, er forudgående spørgsmål, som ingen effektstørrelse kan besvare — og institutioner, der springer dem over, vil optimere det målbare og kalde det forbedring.
+

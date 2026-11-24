@@ -13,13 +13,17 @@ connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Spørgsmål at overveje
 
-1. Når en elev accepterer et AI-svar, der tilfældigvis er rigtigt, har undervisningen så haft succes? Hvad skulle være tilfældet, for at selve accepten var det, der betød noget?
-2. Er en kalibreret uddelegerer, der kender sine egne grænser, forskellig af art fra en elev, der simpelthen ikke kan afgøre det? Hvordan ville [[teacher-role|en underviser]] se forskellen i et enkelt stykke arbejde?
-3. Hvis selvtilliden stiger, mens nøjagtigheden falder, som det sker, når AI-råd er tilgængeligt, hvad gør det så ved elevens egen fejldetektion?
-4. Hvor kan verifikation undervises, og hvor er det et arbejdsbelastningsproblem for [[educational-policy-ai|politikken]]? Hvilke dele af et [[curriculum-design|kurrikulum]] skulle ændres, for at kontrol blev normen frem for undtagelsen?
-5. Bør institutioner måle overgivelse overhovedet, eller inviterer målingen den samme overvågning, som [[ai-use-disclosure|indberetningsregler]] har svært ved at håndtere?
-6. Hvordan ville en opgave se ud, der belønner en elev for at tilsidesætte et forkert AI-svar frem for at producere et poleret et?
+- Når en elev accepterer et AI-svar, der tilfældigvis er rigtigt, har undervisningen så haft succes? Hvad skulle være tilfældet, for at selve accepten var det, der betød noget?
+- Er en kalibreret uddelegerer, der kender sine egne grænser, forskellig af art fra en elev, der simpelthen ikke kan afgøre det? Hvordan ville [[teacher-role|en underviser]] se forskellen i et enkelt stykke arbejde?
+- Hvis selvtilliden stiger, mens nøjagtigheden falder, som det sker, når AI-råd er tilgængeligt, hvad gør det så ved elevens egen fejldetektion?
+- Hvor kan verifikation undervises, og hvor er det et arbejdsbelastningsproblem? Hvilke dele af et [[curriculum-design|kurrikulum]] skulle ændres, for at kontrol blev normen frem for undtagelsen?
+- Bør institutioner måle overgivelse overhovedet, eller inviterer målingen den samme overvågning, som [[ai-use-disclosure|indberetningsregler]] har svært ved at håndtere?
+- Hvordan ville en opgave se ud, der belønner en elev for at tilsidesætte et forkert AI-svar frem for at producere et poleret et?
 
 ## Introduktion
 

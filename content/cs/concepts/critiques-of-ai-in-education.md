@@ -1,7 +1,7 @@
 ---
 title: Kritika AI ve vzdělávání
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Druhý okruh napadá spíše slovní zásobu než mechaniku. Wang a Jin čtou po
 
 ## Infrastruktura, sémantická transdukce a nesprávné rozpoznání
 
-Třetí okruh přesouvá pozornost od nástroje k infrastruktuře kolem něj. Watson, Morgner a Brezovec se k generativní AI staví jako k infrastruktuře zprostředkovávající význam a její mechanismus nazývají *sémantickou transdukcí*: přeformátování vzdělávacího požadavku — promptu, zadání, rubriky, zkouškové otázky, žánru či politiky — do komunikačně hodnověrné podoby ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner a Brezovec (2026)]]). Protože je transdukce selektivní, může zahrnovat i vylučovat. Tři místa se opakují: nerovnosti v přístupu a schopnostech, nesprávné rozpoznání skrze šablony toho, jak zní dobrá odpověď nebo dobrý student, a normativní posun v tom, čím se pokládá pedagogika. Vyloučení je častěji klestí než zákazem — instituce zvyšují očekávání ohledně tempa, vybroušenosti a idiomatické plynulosti a zároveň utahují režimy autenticity.
+Třetí okruh přesouvá pozornost od nástroje k infrastruktuře kolem něj. Watson, Morgner a Brezovec se k generativní AI staví jako k infrastruktuře zprostředkovávající význam a její mechanismus nazývají *sémantickou transdukcí*: přeformátování vzdělávacího požadavku — promptu, zadání, [[rubrics|rubriky]], zkouškové otázky, žánru či politiky — do komunikačně hodnověrné podoby ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner a Brezovec (2026)]]). Protože je transdukce selektivní, může zahrnovat i vylučovat. Tři místa se opakují: nerovnosti v přístupu a schopnostech, nesprávné rozpoznání skrze šablony toho, jak zní dobrá odpověď nebo dobrý student, a normativní posun v tom, čím se pokládá pedagogika. Vyloučení je častěji klestí než zákazem — instituce zvyšují očekávání ohledně tempa, vybroušenosti a idiomatické plynulosti a zároveň utahují režimy autenticity.
 
 ## Stanovení agendy, simulovaná inovace a experimentální konstruování budoucnosti
 

@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Jak moc byste věřili titulku „AI doučování zvyšuje učení o 30 %“, kdybyste zjistili, že pochází od 30 studujících v jednom kurzu na jedné instituci? Stránka označuje zobecnitelnost a malé vzorky za opakující se omezení — co byste chtěli vědět, než na jakékoli jednotlivé zjištění jednáte?
 - Nápadným omezením je „problém rychlosti“: AI se vyvíjí rychleji, než se zjištění publikují, takže studie jedné generace modelů může už popisovat zastaralý systém. Jak by to mělo změnit důvěru, kterou vkládáte do výzkumu vzdělávání s AI?
 - Mnoho studií se opírá o [[self-report-measures|sebeposuzované]] postoje a používání, které jsou zkreslené — lidé přeceňují svou kompetenci a nedostatečně hlásí zneužití. Odpověděli jste někdy na průzkum o vlastních dovednostech nebo chování způsobem, který neodpovídal realitě? Proč se měřítka založená na vnímání tak často rozcházejí s objektivním výkonem?
-- Stránka poznamenává, že známé rámce, jako je Bloomova taxonomie, se často chybně čtou jako striktní žebříky, a že i široce používané teorie, jako je teorie [[cognitive-offloading|kognitivní zátěže]], byly zpochybněny. Kdy jste viděli teorii citovanou jako uzavřenou pravdu v kontextu, kde byly její vlastní důkazy ve skutečnosti sporné?
+- Stránka poznamenává, že známé rámce, jako je [[bloom-taxonomy|Bloomova taxonomie]], se často chybně čtou jako striktní žebříky, a že i široce používané teorie, jako je teorie [[cognitive-offloading|kognitivní zátěže]], byly zpochybněny. Kdy jste viděli teorii citovanou jako uzavřenou pravdu v kontextu, kde byly její vlastní důkazy ve skutečnosti sporné?
 - Většina výzkumu AI závisí na proprietárních, neprůhledných modelech, jejichž data a aktualizace nemůžete prozkoumat. Pokud nemůžete ověřit, který model přesně výsledek vytvořil, jak moc můžete věřit tvrzením na něm postaveným — a co by učinilo zjištění reprodukovatelnějšími?
 - Pokud jste vyučující nebo návrhář bez času číst primární výzkum, jak rozhodujete, která tvrzení o AI jsou dost důvěryhodná, aby změnila vaši praxi — vzhledem k tomu, že literatura je roztříštěná, prozatímní a psaná pro výzkumníky?
 
 ## Úvod
 
-AI ve vzdělávání je rychle se vyvíjející, heterogenní obor a jeho důkazní základna nese specifickou sadu omezení, která by výzkumníci, praktici i tvůrci politik měli zvažovat při použití jakéhokoli zjištění. Některá jsou společná s širší literaturou [[learning-sciences|věd o učení]] a psychologie; jiná jsou umocněna nebo jedinečná povahou samotné AI. Tato stránka je organizuje do čtyř průřezových oblastí.
+AI ve vzdělávání je rychle se vyvíjející, heterogenní obor a jeho důkazní základna nese specifickou sadu omezení, která by výzkumníci, praktici i tvůrci politik měli zvažovat při použití jakéhokoli zjištění. Některá jsou společná s širší literaturou [[learning-sciences|věd o učení]] a psychologie; jiná jsou umocněna nebo jedinečná povahou samotné AI. Tato stránka je organizuje do čtyř průřezových oblastí. Jde o problémy v důkazu; oddělené zkoumání toho, jakým účelům mají důkazy sloužit, se nachází na stránce [[critiques-of-ai-in-education|Kritika AI ve vzdělávání]].
 
 ## Metodologická omezení
 
@@ -65,6 +69,9 @@ Stránka [[research-methods-aied|výzkumných metod]] znalostní báze podrobně
 
 - **Štítky generované modelem nejsou zlatý standard.** Když štítky, které trénují nebo hodnotí systém, samy produkují jazykové modely, shoda mezi anotátory nemůže stanovit validitu: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] nikdy nevalidovali své anotace tvrzení proti lidským zlatým štítkům a 49 klasifikátorů založených na enkodéru, které uvolňují, tuto provenienci dědí a nemusí být validní tam, kde se aplikace liší v podstatných dimenzích. Jejich schéma také striktně zaostávalo za doladěným klasifikátorem trénovaným na odborně anotovaných datech (makro-F1 0,673 proti 0,76), takže korpusy označené odborníky mají smysl, když je vyžadována vysoká jistota.
 - **Důkazní základna je sama nerovnoměrně rozložena.** Scopingový přehled 407 studií [[formative-assessment|formativního hodnocení]] podporovaného technologiemi čerpal jen z Web of Science a Scopus. Vyloučil také 61 záznamů podle jazykových kritérií, takže geografická nerovnováha, kterou obor hlásí, může částečně odrážet to, které zdroje jsou indexovány ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Chybí design se třemi podmínkami.** Napříč dvanácti přezkoumanými studiemi GenAI žádná neměřila asistovaný výkon spolu s okamžitým i odloženým testem bez AI s ověřeným vyloučením, takže zisky z asistence se nikdy nevážou na udržení ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Provozuschopnost je třída výsledku, ne úvod.** Pilot se dvěma kohortami simulovaného pacienta prostřednictvím AI získal 19 z 72 pozvaných studentů (26 %), dokončil všechna setkání a průzkumy (100 %) a žádné sezení neskončilo technickým selháním — skutečné výsledky, avšak výsledky provozuschopnosti a přijatelnosti byly definovány až po sběru dat a žádná kritéria pro postup nebyly předem stanoveny ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Míra dokončení je informativní jen vůči kritériím stanoveným předem; jinak jsou „běželo to“ a „fungovalo to“ stejná věta.
 
 ## Problém rychlosti: AI se vyvíjí rychleji než zjištění
 
@@ -121,6 +128,8 @@ Dvě konkrétní praktiky reportování nafukují nebo zkreslují syntézu a ob�
 **Titulní procento může být artefaktem vyhledávacích termínů.** Scopingový přehled 195 studií vzdělávání učitelů učinil z digitální kompetence a [[tpack|TPACK]] explicitní deskriptory vyhledávání, zatímco návrh výuky a hodnocení ekvivalentní termín neměly, takže uváděných **46,5 % a 1,9 %** jsou míry, které sama dotazovací formulace zkonstruovala. Tvrzení o prevalenci je jen tak smysluplné, jaké je vyhledávání za ním.
 
 **A základní míra je číslo, které nikdo neuvádí.** Metodologická omezení jsou zde měřitelná, nikoli dojmová: v kritickém přehledu 80 studií HCI o kritickém myšlení s AI **42 (52 %) nemělo žádnou kontrolní skupinu** a většina ostatních se opírala o sebeposudek. Když více než polovina pozitivních zjištění oboru pochází z designů, které nedokážou oddělit efekt AI od běžné činnosti, vhodnou výchozí pravděpodobností u jakéhokoli jednotlivého zjištění je skepse, ne prozatímní přijetí.
+
+Praktickým důsledkem těchto omezení je, že některé široce používané vzdělávací praktiky spočívají na důkazech, které je nemohou nést; [[what-not-to-do-ai-education|co by pedagogové s AI neměli dělat]] shromažďuje tyto praktiky podle rolí a ke každému varování uvádí konkrétní omezení, které za ním stojí.
 
 ## Časté mylné představy
 

@@ -1,7 +1,7 @@
 ---
 title: "AI в образованието"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,10 +14,11 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:
+
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
@@ -30,6 +31,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -81,7 +86,7 @@ AI в образованието е зонтикът, който всички о
 
 ## Основи на AI в образованието
 
-Междинните и основополагащи концепции на областта закотвят покритието на базата знания и се появяват първи в страничната лента. Те започват с група **Основни неща** — концепциите, с които всеки читател би трябвало да започне: самия зонтик, [[misconceptions|заблудите за AI]], [[ai-literacy|AI грамотността]], [[agentic-ai|агентният AI]], [[cognitive-offloading|когнитивното изнасяне]], [[framing-ai-use-for-students|как използването на AI се рамкира за учениците]], [[reducing-ai-misuse|намаляване на злоупотребите с AI]], [[academic-integrity|академичната почтеност]], [[teacher-role|преподаването]], [[learning-design|дизайна на обучение]] и [[educational-development|образователното развитие]]. Потокът **поле** след това обхваща [[history-of-aied|историята на областта]], [[limitations-in-aied-research|междинните ограничения на базата доказателства]], [[philosophy-of-ai-in-education|нейната философия]], картата [[theories-and-frameworks|теории и рамки]] и [[theory-development-aied|развитието на теориите]]. Междинните теми — [[human-ai-collaboration|човешко-AI сътрудничество]], [[agency|самостоятелност на обучаемия]], [[learner-identity|идентичност на обучаемия]], [[design-thinking|дизайнно мислене]], [[curriculum-design|дизайн на учебната програма]], [[critical-thinking|критическо мислене]] и [[computational-thinking|компютърно мислене]] — пресичат всеки поток, защото неточните ментални модели, които хората притежават за AI, стоят в основата на [[ai-misuse-learning-harm|злоупотребите]] и на недостатъчно калибрираното [[trust-calibration|доверие]].
+Междинните и основополагащи концепции на областта закотвят покритието на базата знания и се появяват първи в страничната лента. Те започват с група **Основни неща** — концепциите, с които всеки читател би трябвало да започне: самия зонтик, [[misconceptions|заблудите за AI]], [[ai-literacy|AI грамотността]], [[agentic-ai|агентният AI]], [[cognitive-offloading|когнитивното изнасяне]], [[framing-ai-use-for-students|как използването на AI се рамкира за учениците]], [[reducing-ai-misuse|намаляване на злоупотребите с AI]], [[academic-integrity|академичната почтеност]], [[teacher-role|преподаването]], [[learning-design|дизайна на обучение]] и [[educational-development|образователното развитие]]. Потокът **поле** след това обхваща [[history-of-aied|историята на областта]], [[limitations-in-aied-research|междинните ограничения на базата доказателства]], [[philosophy-of-ai-in-education|нейната философия]], картата [[theories-and-frameworks|теории и рамки]] и [[theory-development-aied|развитието на теориите]] и [[learning-environments-as-systems|учебните среди като системи]], които третират учебната среда като многонивова система, чиито части си взаимодействат. Инструмент или политика, въведени на едно ниво, произвеждат ефекти на останалите нива. Междинните теми — [[human-ai-collaboration|човешко-AI сътрудничество]], [[agency|самостоятелност на обучаемия]], [[learner-identity|идентичност на обучаемия]], [[design-thinking|дизайнно мислене]], [[curriculum-design|дизайн на учебната програма]], [[critical-thinking|критическо мислене]] и [[computational-thinking|компютърно мислене]] — пресичат всеки поток, защото неточните ментални модели, които хората притежават за AI, стоят в основата на [[ai-misuse-learning-harm|злоупотребите]] и на недостатъчно калибрираното [[trust-calibration|доверие]].
 
 ## Обучение и преподававане
 
@@ -126,7 +131,7 @@ AI се прилага в различни дисциплини и образо�
 
 AI преобразява както начина, по който оценяваме обучаемите, така и начина, по който оценяваме самите AI системи:
 
-- **Оценяване и обратна връзка:** [[assessment|оценяване]], [[formative-assessment|формативно оценяване]], [[summative-assessment|сумиращо оценяване]], [[authentic-assessment|автентично оценяване]], [[eportfolio|електронно портфолио]], [[feedback|обратна връзка]] и [[feedback-literacy|грамотност за обратната връзка]], [[ai-feedback-quality|качество на AI обратната връзка]], [[peer-assessment|оценка от съученици]], [[oral-assessment|устно оценяване]], [[automated-assessment|автоматично оценяване]], [[automated-essay-scoring|автоматично оценяване на есе]] и [[automated-question-generation|автоматично генериране на въпроси]]. Тъй като даден модел вече може да произведе правдоподобна завършена работа по заявка, базата знания изтъква способността, която остава собственост на самия обучаем: [[evaluative-judgment|оценъчната преценка]], умът да оценява качеството на собствената си работа, работата на съучениците и резултатите на AI спрямо обосновани критерии. Това е конструктът, върху който сходят няколко проучвания за обратната връзка и автентичното оценяване — хибридното условие на обратна връзка, което превъзхожда пряката AI обратна връзка в мултицентров експеримент, пропастта в устойчивостта на AI формативната обратна връзка и практическия ход на оценяване на решенията, които учениците вземат, вместо само на артефакта — и е основна причина, поради която препроектирането в ерата на AI се отмества от [[ai-detection|откриването]] към задачи, чийто интегритет издържа на проверка. [[group-work|Груповата работа]] също се оценява и по процеса, и по продукта, където отборите трябва да се договарят чие и какъв участие на AI се счита за приемливо.
+- **Оценяване и обратна връзка:** [[assessment|оценяване]], [[formative-assessment|формативно оценяване]], [[summative-assessment|сумиращо оценяване]], [[authentic-assessment|автентично оценяване]], [[eportfolio|електронно портфолио]], [[feedback|обратна връзка]] и [[feedback-literacy|грамотност за обратната връзка]], [[ai-feedback-quality|качество на AI обратната връзка]], [[peer-assessment|оценка от съученици]], [[oral-assessment|устно оценяване]], [[automated-assessment|автоматично оценяване]], [[automated-essay-scoring|автоматично оценяване на есе]] и [[automated-question-generation|автоматично генериране на въпроси]] и [[rubrics|рубрики]]. Рубриките са инструментът, който носи критериите: заявените измерения и нивописания, които правят тълкуването на едно произведение възпроизводимо, и спецификацията, която модел чете, когато оценява. Тъй като даден модел вече може да произведе правдоподобна завършена работа по заявка, базата знания изтъква способността, която остава собственост на самия обучаем: [[evaluative-judgment|оценъчната преценка]], умът да оценява качеството на собствената си работа, работата на съучениците и резултатите на AI спрямо обосновани критерии. Това е конструктът, върху който сходят няколко проучвания за обратната връзка и автентичното оценяване — хибридното условие на обратна връзка, което превъзхожда пряката AI обратна връзка в мултицентров експеримент, пропастта в устойчивостта на AI формативната обратна връзка и практическия ход на оценяване на решенията, които учениците вземат, вместо само на артефакта — и е основна причина, поради която препроектирането в ерата на AI се отмества от [[ai-detection|откриването]] към задачи, чийто интегритет издържа на проверка. [[group-work|Груповата работа]] също се оценява и по процеса, и по продукта, където отборите трябва да се договарят чие и какъв участие на AI се счита за приемливо.
 - **Измерване и валидност:** [[assessment-validity|валидност на оценяването]], [[psychometrically-aware-ai|психометрично осъзнат AI]], [[educational-measurement|образователно измерване]], [[item-response-theory|теория на отговорите на задачите]], [[self-report-measures|мерки чрез самоотчитане]] (инструментът зад голяма част от тези доказателства и повтарящо се ограничение), [[ai-detection|откриване на AI]], [[remote-proctoring|дистанционен надзор]] и [[academic-integrity|академична почтеност]].
 
 ## Изследователски методи и оценка

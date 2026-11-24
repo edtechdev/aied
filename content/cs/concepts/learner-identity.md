@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Úvod
 
 Identita studujícího se týká toho, kým studující sám sebe v určité doméně chápe a kým se stává — motivační a vývojový konstrukt odlišný od přesvědčení o schopnostech, jako je [[self-efficacy|sebeúčinnost]], jež odpovídá užší otázce *dokážu to?* Identita se utváří účastí, uznáním a autorstvím: tím, že se člověk vidí v oboru a ostatní tento pohled na sebe potvrzují. AI přetváří všechny tři podmínky, protože mění, kdo práci dělá, co se počítá jako vlastní příspěvek a zda je studující uznán jako autor vlastního učení ([[agency|agenturnost]], [[metacognition|metakognice]]).
+
+Známky jsou vztahem stejně jako symbolem: studenti se skrze ně začnou chápat sami sebe, takž reforma, která ponechá transkript nedotčený, ponechá nedotčený i tento vztah ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Proč identita záleží na AI ve vzdělávání
 
@@ -59,6 +65,9 @@ Samostatná podmínka autorství, a ne jen hrozba pro autorství: když je sebeu
 
 - **Ostražitá adopce: selektivní používání AI jako ochrana identity.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] dotazoval 484 studentů na jedné australské univerzitě a zjistil, že výkonnější studenti uváděli *nižší* aktivní [[generative-ai|angažovanost s generativní AI]], nižší pozitivní afekt vůči AI, nižší [[self-report-measures|vnímaný dopad na učení]] a nižší míru odpojení souvisejícího s AI, přičemž nejsilnější asociace byly rho = -0,395 pro vnímaný dopad na učení a rho = -0,359 pro pozitivní afekt. Jejich otevřené odpovědi popisovaly používání selektivní (vyjasňování, shrnování, podpora pracovního postupu), ověřené a podřízené vlastnímu úsudku a výsledky na úrovni položek ukázaly větší souhlas s tím, že spoléhání na AI brání [[critical-thinking|kritickému myšlení]] a nezávislému [[problem-solving|řešení problémů]]. Autoři to čtou jako identitní práci: u studentů, jejichž smysl pro sebe jako úspěšný studující stojí na vlastním úsilí a úsudku, ohraničení používání AI brání [[agency|epistemické agenturnosti]], na níž identita závisí — což také znamená, že vzorec není ani technofobie, ani nízká angažovanost.
 - **Vyslovený účel nemusí nutně řídit rozhodnutí o AI.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] vedli rozhovory se 14 vysokoškoláky a kódovali každý rozhovor podle vztahu mezi [[self-determination-theory|účelem]] studujícího — osobně smysluplným záměrem přispět mimo sebe — a jeho volbami v AI. Jen někteří spojení učinili: jedna studentka AI odmítla, protože její environmentální a lidské náklady odporovaly jejímu účelu, a tři nechali svou budoucí profesní identitu utvářet volby („přispívá to psychologovi, kterým jednou ve světě budu“). Jiní se stejně jasným smyslem pro účel takové spojení neučinili a popisovali účel a AI jako „tak nějak oddělené“, takže mít identitu, kterou je třeba chránit, nebylo totéž jako vycházet z ní. Článek také odděluje důvody, které studenti uvádějí pro to, aby si práci ponechali vlastní — rozvoj dovedností, [[evaluative-judgment|vlastnictví a hrdost]] a morální nesouhlas — které přicházejí různými mechanismy a neměly by se slučovat do jednoho motivu.
+
+- **Schopnost přijde dřív než náležení.** Sedmdesátidenní autoetnografie bioinformatické učitelky stavějící hru v cizí oblasti zjistila, že [[generative-ai|GenAI]] dodala schopnost, ale ne identitu: náležení přišlo prostřednictvím účasti na komunitě praxe a opakovaného vyjednávání smyslu, a dosazení trvalo lidský čas ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Odmítnutí je také prací identity: mezi pěti učnicemi barvené pleti na střední škole neužití prosadilo kontrolu, splnilo institucionální pravidla nebo signalizovalo epistemické hodnoty, zatímco neutrální odpovědi AI vytvářely „kulturní plochost“, jíž jejich zkušenosti nebyly uznány ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Vztah k agenturnosti studujícího
 

@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -49,6 +53,8 @@ Informationskompetencens objekt er kilden, og dens kernespørgsmål er, om påst
 
 De empiriske litteraturer afspejler opdelingen. En undersøgelse af 236 amerikanske universitetsstuderende spurgte, hvor akademiske søgninger begynder, og fandt søgemaskiner på 45,5 %, bibliotekets hjemmeside på 27,9 % og en AI-chatbot på 26,6 %, hvor internationale studerende erstattede biblioteksressourcer med AI i omtrent det dobbelte af den hjemlige rate ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund m.fl., 2026]]). Et systematisk review af 32 studier fandt integration af [[ai-literacy|AI-kompetence]] i informationskompetenceundervisning på et "spædbarnsstadium", leveret gennem LibGuides og workshops snarere end gennem curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza og Arif, 2026]]). På mediesiden fandt interviews med syv eksperter og en undersøgelse af 141 studerende, at teknologisk inklusion i curriculum for kritisk mediekompetence var "begrænset og ofte overfladisk", med undervisere, der er utilstrækkeligt uddannet til værktøjer, der producerer desinformation og deepfakes ([[critical-media-literacy-education-2026|studiet om kritisk mediekompetence, 2026]]).
 
+International vurdering er ved at fuse de to konstrukter. PISA 2029 indfører en Media and AI Literacy (MAIL)-vurdering for 15-årige, og iRAISE's gennemgang fra 2026 bygger sin definition på samme integration — AI-kompetence som det nyeste lag af digital kompetence, der selv hviler på årtiers medie- og informationskompetence ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Integrationen medfører en implementeringsomkostning, som divergensen forudsiger. UNESCO's kortlægning fra 2025 fandt, at 171 af 194 medlemsstater nævner medie- og informationskompetence i nationale rammer, men kun 84 (43 %) inkluderer elementer ud over tekniske digitale færdigheder i læseplaner — så den konstrukt, vurderingen vil måle, er den, skolerne underviser mindst i.
+
 ## Hvordan AI komplicerer informationskompetence
 
 Den første komplikation er fabrikation i skala. En model producerer overbevisende tekst, plausible referencer og selvsikre statistikker, som måske ikke eksisterer; læseren modtager en syntese, hvis søgespor er blevet slettet. Kontrol bliver en anden færdighed: ikke "er dette en god kilde", men "eksisterer denne kilde, og siger den, hvad svaret påstår".
@@ -60,6 +66,8 @@ Den tredje er kapacitet. I en undersøgelse af 412 akademiske bibliotekarer på 
 ## Hvordan AI komplicerer mediekompetence
 
 Mediekompetencens grundlæggende spørgsmål forudsatte en skaber med et formål. Deepfakes, stemmekloning og automatiserede bots bryder den antagelse på tre måder: artefakten kan være uden menneskelig forfatter, publikummet kan være syntetisk, og hensigten kan være optimering for engagement snarere end overbevisning fra nogens side.
+
+**Personliggjort argumentation er den aktuelle overbeviselsestrusselmodel.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] randomiserede 900 amerikanske voksne til ti-minutters onlinedebatter mod et menneske eller GPT-4, med eller uden seks almindelige demografiske felter. Upersonliggjort GPT-4 var statistisk ikke forskelig fra en menneskelig modstander, mens personliggjort GPT-4 hævede odds for enig efter debatten med 81,2 % og var mere overbevisende i 64,4 % af tilfældene. Deltagerne identificerede en AI-modstander i omkring tre ud af fire debatter, men skiftede alligevel yderligere, når de troede, modstanderen var AI, så kildedetektion virkede ikke som inokulation. Manipulationen var usynlig i prosaen: stilmål adskilte sig kun lidt mellem betingelserne, hvilket placerer fordelen i, hvilke argumenter der blev valgt, snarere end i, hvordan de var skrevet.
 
 Curriculumsevidensen tyder på, at skolerne ikke er fulgt med. Ekspertinterviewene beskriver [[teacher-education|læreruddannelse]] som den bindende begrænsning snarere end studerendes modstand og argumenterer for en [[critical-pedagogy|kritisk-pædagogisk]] indramning, der behandler evaluering som etisk og deltagende praksis i stedet for værktøjstræning. En bestilt rapport for public service-medier fandt, at tilbuddet til 14–19-årige hælder mod funktionelle AI-færdigheder og væk fra kritisk evaluering, på trods af at den gennemgik mere end 40 rammer og interviewede 35 eksperter ([[ai-literacies-young-adults-2025|AI-literacies-rapporten, 2025]]).
 
@@ -75,12 +83,25 @@ Læst sammen antyder de to sider af regnskabet en regel: AI kan bære *praksis*-
 
 ## Hvad det betyder for praksis
 
-- **Undervis i én procedure, to objekter.** Den kontrollerbare rutine — spor påstanden til en kilde, spor kilden til en forfatter, spørg hvad artefakten gør — virker for et citat og for en video. Navngiv, hvilket objekt opgaven vurderer.
-- **Behandl detektion som evidens, ikke som dom.** En detektors output er en sandsynlighed; lær studerende at bekræfte med en anden metode og at sige, hvad der ville ændre deres mening.
-- **Behold produktionen i curriculum.** At skabe medier var den pædagogik, der gjorde kritik konkret; at generere med AI kan kun understøtte den, hvis studerende undersøger de valg, værktøjet traf for dem.
-- **Anbring en bibliotekar eller mediespecialist inde i arbejdsgangen.** Det stærkeste undervisningsresultat i denne litteratur kommer fra et design, hvor menneskelig konsultation var indbygget, ikke tilbudt bagefter.
-- **Vurdér personalets kapacitet, før du skriver pensum.** Det målte underskud ligger i at designe læringsmål og vurdere udfald, ikke i at bruge værktøjer.
+**Undervis i én procedure, to objekter.** Den kontrollerbare rutine — spor påstanden til en kilde, spor kilden til en forfatter, spørg hvad artefakten gør — virker for et citat og for en video. Navngiv, hvilket objekt opgaven vurderer.
+
+**Behandl detektion som evidens, ikke som dom.** En detektors output er en sandsynlighed; lær studerende at bekræfte med en anden metode og at sige, hvad der ville ændre deres mening.
+
+**Behold produktionen i curriculum.** At skabe medier var den pædagogik, der gjorde kritik konkret; at generere med AI kan kun understøtte den, hvis studerende undersøger de valg, værktøjet traf for dem.
+
+At score konstruktet som præstation snarere end holdning flytter det svage punkt i syne. I en otte ugers Code Craft-prøve med 28 thailandske bachelorstuderende steg digital kompetence fra 1,51 til 2,82 på en trepunkts-[[rubrics|rubrik]], men at styre information lå i gennemsnit på 1,92 og at skabe information på 2,05 mod 2,36 for at kommunikere og samarbejde med andre ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij og Khlaisang, 2026]]). De laveste scorer sad på produktionssiden af konstruktet, hvor et kursus, der stopper ved søgning og evaluering, aldrig ankommer.
+
+**Anbring en bibliotekar eller mediespecialist inde i arbejdsgangen.** Det stærkeste undervisningsresultat i denne litteratur kommer fra et design, hvor menneskelig konsultation var indbygget, ikke tilbudt bagefter.
+
+**Vurdér personalets kapacitet, før du skriver pensum.** Det målte underskud ligger i at designe læringsmål og vurdere udfald, ikke i at bruge værktøjer.
 
 ## Evidensens begrænsninger
 
 De fleste studier her er små, [[self-report-measures|selvrapporterede]] eller begge dele: 236 studerende i én undersøgelse, 36 børn i én intervention, 412 bibliotekarer, der vurderer sig selv. Bibliometrisk synlighed er ikke praksis, og det siger de scientometriske forfattere eksplicit. Intet studie i korpuset evaluerer et kombineret informations- og mediekompetencecurriculum, og de detektor- og faktatjekværktøjer, som praksislitteraturen anbefaler, er stort set umålte i disse kilder. Påstanden om, at AI-drevet verifikation forbedrer udfald, bør behandles som en designhypotese, indtil nogen tester den mod en kontrolgruppe.
+
+## Almindelige fejlopfattelser
+
+- **En detektor afgør spørgsmålet.** En detektor returnerer en sandsynlighed; bekræft den med en anden metode i stedet for at behandle den som en facitliste.
+- **De to kompetencer er én færdighed under to navne.** Deres objekter er forskellige — kildetroværdighed versus forfatterskab og hensigt — så én rubrik vurderer ingen af dem godt.
+- **At spotte AI inokulerer mod det.** I det stærkeste overbevisningseksperiment i denne gennemgang var detektion høj, og bevægelsen mod AI's position blev stadigvæk større.
+- **Bibliotekarkompetence overføres til AI-kompetence.** Personaleunderskudet viser sig ved at designe læringsmål (M = 2,70) og vurdere udfald (M = 2,62), ikke ved at bruge værktøjer.

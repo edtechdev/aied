@@ -6,15 +6,19 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,17 +39,19 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Úvod
 
-Toto je konceptuální stránka pro filozofické a teoretické základy [[ai-education|AI ve vzdělávání]]. Zatímco [[learning-theories|teorie učení]] dokumentují empirické a designově orientované teorie ([[behaviorism|behaviorismus]], [[constructivist|konstruktivismus]], [[cognitive-offloading|kognitivní zátěž]], [[self-regulated-learning|seberegulované učení]] atd.), filozofická linie se zabývá ontologickými, epistemologickými a etickými otázkami, které tyto teorie předpokládají. Obě jsou úzce propojené: filozofická stanoviska utvářejí, které teorie učení se zdají věrohodné a které vzdělávací cíle stojí za sledování.
+Toto je konceptuální stránka pro filozofické a teoretické základy [[ai-education|AI ve vzdělávání]]. Zatímco [[learning-theories|teorie učení]] dokumentují empirické a designově orientované teorie ([[behaviorism|behaviorismus]], [[constructivist|konstruktivismus]], [[cognitive-offloading|kognitivní zátěž]], [[self-regulated-learning|seberegulované učení]] atd.), filozofická linie se zabývá ontologickými, epistemologickými a etickými otázkami, které tyto teorie předpokládají. Obě jsou úzce propojené: filozofická stanoviska utvářejí, které teorie učení se zdají věrohodné a které vzdělávací cíle stojí za sledování. Normativní v této práci, argumenty o tom, do čeho AI ve vzdělávání proměňuje, se shromažďují na stránce [[critiques-of-ai-in-education|Kritika AI ve vzdělávání]].
 
-### Klíčové filozofické otázky
+## Klíčové filozofické otázky
 
 - **Povaha mysli a kognice.** Vyžaduje myšlení vědomí a tělo? Může se AI podílet na skutečně kognitivních procesech? Rámce, jako je **ansámblová kognice** (ensemble cognition), argumentují, že AI uplatňuje *funkční agenturnost* — skutečnou kauzální účinnost v kognitivních procesech — bez vědomí a že myšlení vyrůstá z dynamické [[student-ai-interaction|interakce člověka a AI]] ([[ensemble-cognition-philosophy-ai-education]]). [[distributed-cognition|Distribuovaná kognice]] a teze rozšířené mysli vznášejí příbuzná tvrzení o kognici rozprostřené napříč systémy.
 - **Co je studující?** Posthumanistická filozofie rekonceptualizuje studujícího jako „posthumánní“ entitu, jejíž kognitivní procesy jsou skutečně hybridní a distribuované mezi [[biology-education|biologické]] a umělé systémy ([[elsayed-pedagogical-symbiosis-posthuman-learner]]). To zpochybňuje předpoklad, že studující je ohraničená, autonomní individuální mysl.
 - **Ztělesnění a limity neztělesněné AI.** [[embodied-learning|Ztělesněná]] a postkognitivistická filozofie kritizuje dominanci symbolických, neztělesněných modelů AI a argumentuje, že kognice je zakotvena v situovanosti, emergenci a senzomotorickém propojení, které současná [[generative-ai|generativní AI]] postrádá ([[videla-embodied-ai-education-choreography]]).
+- **Automatizace jako kontinuita, nikoli zlom.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross a Aros (2026)]] argumentují, že umělá inteligence do školství zapadá, protože rozšiřuje kognitivistický a instruktážní model, který bere učení jako zpracování informací a výuku jako přenos; automatizace vzdělávání je proto ontologickou iluzí, která abstrahuje učení ze ztělesněných, relačních podmínek, v nichž vzniká význam a odpovědnost.
 - **Emoční práce jako zkušební případ strojových myslí.** Argumenty oboru o tom, zda AI může učit, se často točí kolem toho, zda dokáže *pečovat*, což je otázka diskutovaná dávno před vznikem [[affective-computing|afektivního počítání]]. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] rekonstruuje debatu z let 1950–1996, v níž byl Ziffův nárok, že doslova cítit mohou jen živé bytosti, zodpovězen Smartovou teorií identity a Putnamovým behaviorálním kritériem, takže zůstaly nerozřešeny tři soupeřící ontologie. Jeho závěr je břemeno ospravedlnění, nikoli tvrzení o nemožnosti — reprezentace, simulace a mimikry emoční práci nedostatečně určují — což klade břemeno na každého, kdo by pastorační práci delegoval na systém.
 - **Agenturnost, autorství a význam.** Když AI zprostředkovává interpretaci a utváření významu, filozofie se ptá, jak se autorství, epistemická [[agency|agenturnost]] a interpretační autonomie přenastavují ([[voicu-ai-interpretive-cognition-ssh-2026]]).
 - **Ontologie vědeckých objektů generovaných AI.** V [[chemistry-education|chemii]] zaujímají sloučeniny a titrační křivky předpovězené AI „liminální ontologický prostor“ — nejsou zcela hypotetické ani plně reálné, dokud nejsou empiricky prokázány — což posouvá obor od realismu ke konstruktivistickému pohledu, v němž je realita spoluprací člověka a stroje ([[philosophy-experimentation-ai-chemistry-2026|Reyes a Regala (2026)]]).
 - **Kognitivní pasivita jako epistemická újma.** Bai a Costa (2026) vycházejí z pojetí myšlení u Arendtové jako vnitřní, nepřenosné činnosti a argumentují, že GenAI, která práci dodává, myšlení nejen odklání, ale předem uzavírá, přičemž Bourdieuovy pojmy pole a habitu lokalizují riziko v institucionálních strukturách ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- Po boku tohoto pojetí [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] rekonstruují esej jako formu myšlení: Montaignův pokus, Adornovy fragmenty, Heideggerovo meditativní myšlení — její hodnota spočívá v myšlení, které psaní produkuje, nikoli v produktu, který vynese.
 - **Hodnoty, spravedlnost a účel vzdělávání.** Filozofická analýza zkoumá, zda vzdělávání poháněné AI slouží lidskému prospívání a vzdělávací spravedlnosti, nebo zda instrumentalizuje učení ve službách produktivity ([[avraamidou-ai-colonization-science-education]]). To souvisí s [[critical-pedagogy|kritickou pedagogikou]] a [[ethics|etikou]].
 - **„Lidskostředový“ přístup jako antropocentrický diskurz, nikoli neutrální etika.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] čtou dokumenty UNESCO, OECD a Montréalské deklarace a argumentují, že lidskostředová AIED dědí vyloučení osvícenského humanismu, že transhumanismus je zachovává a že toto označení může legitimizovat komerční infrastrukturu.
 
@@ -55,29 +61,19 @@ Toto je konceptuální stránka pro filozofické a teoretické základy [[ai-edu
 - **Agenturnost bez odpovědnosti.** Korpusově podpořená analýza diskurzu 366 abstraktů vysokoškolského výzkumu GenAI zjistila, že [[generative-ai|AI]] je zmíněna 2 050krát a vstupuje do 447 striktních asociací aktér–predikát — je nejčastějším aktérem oboru — přesto v nich dominují akční predikáty (78,7 %) a žádná věta nečiní systém odpovědným: ze 166 výrazů povinnosti žádný nepřipisuje odpovědnost systému a jediná klauzule spojující AI s odpovědností říká, že AI odpovědná není. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] to čte jako funkční agenturnost uznanou v jazyce bez relační odpovědnosti, která by ji k někomu připoutala.
 **Ani nástroj, ani spolupracovník: mediační agent.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate a Ritchie (2026)]] argumentují, že nazývat generativní AI pouhým nástrojem podceňuje její interakční vliv, zatímco nazývat ji spolupracovníkem jí chybně přiznává intencionalitu a odpovědnost, a navrhují *mediačního agenta* — responzivní, neodpovědný systém, jehož novostí je participace, nikoli inteligence.
 
-### Vztah k teoriím učení
+## Vztah k teoriím učení
 
 Filozofie AI ve vzdělávání a [[learning-theories|teorie učení]] jsou komplementární optiky. Teorie učení vysvětlují mechanismy učení (např. jak [[feedback|zpětná vazba]], [[scaffolding]] nebo kognitivní zátěž utvářejí výsledky); filozofie zpochybňuje předpoklady těchto mechanismů — co se počítá jako znalost, kdo se počítá jako znalec a čím studující v zásadě je. Zejména posthumanistická a kriticko-filozofická práce vyzývá obor, aby překročil instrumentalistické rámce, jako je [[tpack]] a SAM, směrem k hlubší ontologické reorientaci ([[elsayed-pedagogical-symbiosis-posthuman-learner]]).
 
-### Vztah k vývoji teorie
+## Vztah k vývoji teorie
 
 Filozofie AI ve vzdělávání a [[theory-development-aied|vývoj teorie v AIEd]] jsou komplementární, ale odlišné. Filozofie klade ontologické a epistemologické otázky — čím mysl, znalost a studující v podmínkách zprostředkovaných AI v zásadě jsou — zatímco vývoj teorie produkuje a empiricky testuje *mechanismy*, které odpovědi na tyto otázky operacionalizují (generativismus, epistemická spoluagenturnost, chybějící kognitivní baseline). Obě se vzájemně informují: filozofie objasňuje předpoklady, které teorie nesou (např. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemická spoluagenturnost]] předpokládá distribuovaný, neindividualistický model kognice), zatímco vývoj teorie dává filozofickým stanoviskům testovatelnou, falzifikovatelnou podobu. Nejzásadnější články oboru dělají obojí současně a leží na hranici mezi oběma koncepty.
-
-## Časté mylné představy
-
-**„Filozofie AI ve vzdělávání je totéž jako katalogizace teorií učení.“** Obě leží v různých hloubkách. Stránka [[learning-theories|teorií učení]] se ptá *jak učení probíhá*; filozofie se ptá *čím učení, mysl a studující v podmínkách zprostředkovaných AI v zásadě jsou*. Studie může vyřešit otázku teorie učení a filozofickou nechat nedotčenou, a proto může být technicky úspěšná intervence stále špatnou věcí, kterou dělat.
-
-**„Kognitivní odklánění je onou újmou a lze je vrátit větším úsilím.“** K dispozici je silnější tvrzení. Bai a Costa (2026) vycházejí z pojetí myšlení u Arendtové jako vnitřní, nepřenosné činnosti a argumentují, že GenAI, která práci *dodává*, myšlení nejen odklání, ale předem uzavírá — a riziko lokalizují institucionálně, přes Bourdieuovy pojmy pole a habitu, nikoli do individuální vůle. Pokud argument obstojí, „používejte to opatrně“ není dostatečnou nápravou, protože praxi utváří pole, které odměňuje výstup.
-
-**„Nezápadní filozofie je obsah, který se přidává k nezměněnému rámci.“** Může být zdrojem jiných základů. Jedna rekonstrukce pojímá daoistické pojmy — „přirozenost dao“ (道性), sebekultivaci (修道) a „Zhenren“ (真人) — nikoli jako „východní obsah“ připojený k západnímu rámci, ale jako zdroje, které přetvářejí konceptuální základy, jimiž je AI ve vzdělávání chápána. Přidat tradici jako ilustraci a použít ji k přerámování otázek jsou různé badatelské činy.
-
-**„Filozofická kritika se nedá použít v praxi.“** Nastavuje, co se počítá jako úspěch. Zda je výstup systému úspěchem studujícího a zda je měřený zisk vzdělávacím dobrem, jsou předběžné otázky, na které žádná velikost efektu neodpoví — a instituce, které je přeskočí, budou optimalizovat měřitelné a nazývat to zlepšením.
 
 ## Důsledky pro praxi
 
 **Pro vyučující**
 
-- Rozhodněte před přijetím nástroje, co jste ochotni počítat jako vlastní úspěch studujícího. Pokud by vybroušené odevzdání vyprodukované systémem splnilo vaše hodnocení, odpověděli jste „nic“ — a žádná pozdější změna rubriky tuto otázku nezachrání.
+- Rozhodněte před přijetím nástroje, co jste ochotni počítat jako vlastní úspěch studujícího. Pokud by vybroušené odevzdání vyprodukované systémem splnilo vaše hodnocení, odpověděli jste „nic“ — a žádná pozdější změna [[rubrics|rubriky]] tuto otázku nezachrání.
 - Berte argument o předběžném uzavření vážně při navrhování úloh: pokud GenAI, která práci dodává, myšlení spíše uzavírá než jen odklání, pak „používejte ji odpovědně“ není dostatečnou zárukou, protože okolní pole výstup odměňuje. Navrhujte úlohy, jejichž důkaz myšlení vzniká předtím, než je nástroj k dispozici.
 - Ptejte se, čí pojetí učení váš kurz nese. Nekritické převzetí rámce importuje jeho předpoklady o tom, co studující je, a tyto předpoklady jsou sporné.
 
@@ -91,3 +87,13 @@ Filozofie AI ve vzdělávání a [[theory-development-aied|vývoj teorie v AIEd]
 
 - Uveďte pojetí učení, které vaše hodnocení předpokládá, protože měřený zisk je vzdělávacím dobrem jen ve vztahu k nějakému pojetí toho, k čemu vzdělávání je.
 - Financujte filozofickou práci vedle empirické: otázky o tom, co se počítá jako úspěch studujícího, stanovují kritéria úspěchu, která empirické studie potom používají.
+
+## Časté mylné představy
+
+**„Filozofie AI ve vzdělávání je totéž jako katalogizace teorií učení."** Obě leží v různých hloubkách. Stránka [[learning-theories|teorií učení]] se ptá *jak učení probíhá*; filozofie se ptá *čím učení, mysl a studující v podmínkách zprostředkovaných AI v zásadě jsou*. Studie může vyřešit otázku teorie učení a filozofickou nechat nedotčenou, a proto může být technicky úspěšná intervence stále špatnou věcí, kterou dělat.
+
+**„Kognitivní odklánění je onou újmou a lze je vrátit větším úsilím."** K dispozici je silnější tvrzení. Bai a Costa (2026) vycházejí z pojetí myšlení u Arendtové jako vnitřní, nepřenosné činnosti a argumentují, že GenAI, která práci *dodává*, myšlení nejen odklání, ale předem uzavírá — a riziko lokalizují institucionálně, přes Bourdieuovy pojmy pole a habitu, nikoli do individuální vůle. Pokud argument obstojí, „používejte to opatrně“ není dostatečnou nápravou, protože praxi utváří pole, které odměňuje výstup.
+
+**„Nezápadní filozofie je obsah, který se přidává k nezměněnému rámci."** Může být zdrojem jiných základů. Jedna rekonstrukce pojímá daoistické pojmy — „přirozenost dao“ (道性), sebekultivaci (修道) a „Zhenren“ (真人) — nikoli jako „východní obsah“ připojený k západnímu rámci, ale jako zdroje, které přetvářejí konceptuální základy, jimiž je AI ve vzdělávání chápána. Přidat tradici jako ilustraci a použít ji k přerámování otázek jsou různé badatelské činy.
+
+**„Filozofická kritika se nedá použít v praxi."** Nastavuje, co se počítá jako úspěch. Zda je výstup systému úspěchem studujícího a zda je měřený zisk vzdělávacím dobrem, jsou předběžné otázky, na které žádná velikost efektu neodpoví — a instituce, které je přeskočí, budou optimalizovat měřitelné a nazývat to zlepšením.

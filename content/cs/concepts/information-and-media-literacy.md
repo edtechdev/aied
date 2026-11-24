@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -49,6 +53,7 @@ Objektem informační gramotnosti je zdroj a její ústřední otázkou je, zda 
 
 Empirické literatury toto rozdělení odrážejí. Průzkum 236 amerických univerzitních studentů se ptal, kde začínají akademické rešerše, a zjistil vyhledávače na 45,5 %, domovskou stránku knihovny na 27,9 % a chatbota AI na 26,6 %, přičemž mezinárodní studenti nahrazovali knihovní zdroje AI přibližně dvakrát častěji než domácí studenti ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Systematický přehled 32 studií zjistil, že integrace [[ai-literacy|gramotnosti v AI]] do výuky informační gramotnosti je ve „fázi dětství" a probíhá prostřednictvím LibGuides a workshopů, nikoli kurikula ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza a Arif, 2026]]). Na mediální straně rozhovory se sedmi odborníky a průzkum 141 studentů zjistily, že začlenění technologií do kurikula kritické mediální gramotnosti je „omezené a často povrchní" a že učitelé jsou nedostatečně vyškolení pro nástroje, které produkují dezinformace a deepfakes ([[critical-media-literacy-education-2026|studie kritické mediální gramotnosti, 2026]]).
 
+Mezinárodní hodnocení má obě konstrukty sloučit. PISA 2029 zavádí hodnocení Media and AI Literacy (MAIL) pro patnáctileté, a přehled iRAISE z roku 2026 staví svou definici na stejné integraci — gramotnost v AI jako nejnovější vrstvě digitální gramotnosti, jež samí spočívá na desetiletích mediální a informační gramotnosti ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Integrace nese implementační cenu, kterou předpovídá argument o rozdělu. Mapování UNESCO z roku 2025 zjistilo, že 171 ze 194 členských států zmínkuje mediální a informační gramotnost ve svýbch národních rámcích, avšak jen 84 (43 %) zahrnuje do kurikula prvky nad rámec technických digitálních dovedností — takž konstrukt, který bude hodnocení měřen, je ten, co školy učí nejméně.
 ## Jak AI komplikuje informační gramotnost
 
 První komplikací je fabrikace ve velkém měřítku. Model produkuje přesvědčivý text, plausibilní reference a sebevědomé statistiky, které nemusí existovat; čtenář dostává syntézu, jejíž stopa hledání byla vymazána. Kontrola se stává jinou dovedností: nejde o „je to dobrý zdroj", ale „existuje tento zdroj a říká to, co odpověď tvrdí".
@@ -61,8 +66,9 @@ Třetí je kapacita. V průzkumu 412 akademických knihovníků z 38 nigerijský
 
 Zakládající otázky mediální gramotnosti předpokládaly tvůrce s úmyslem. Deepfakes, klonování hlasu a automatizovaní boti tento předpoklad narušují třemi způsoby: artefakt nemusí mít lidského autora, publikum může být syntetické a záměrem může být optimalizace pro angažovanost, nikoli přesvědčování někým konkrétním.
 
-Důkazy z kurikula naznačují, že školy to zatím nedohonily. Expertní rozhovory popisují jako limitující podmínku [[teacher-education|vzdělávání učitelů]], nikoli odpor studentů, a argumentují pro rámec [[critical-pedagogy|kritické pedagogiky]], který pojímá hodnocení jako etickou a participativní praxi namísto školení v nástrojích. Zpráva objednaná pro veřejnoprávní média zjistila, že nabídka pro mladé ve věku 14–19 let se kloní k funkčním dovednostem v AI a odklání se od kritického hodnocení, a to i po přezkoumání více než 40 rámců a rozhovorech s 35 odborníky ([[ai-literacies-young-adults-2025|zpráva o gramotnostech v AI, 2025]]).
+**Personalizovaný argument je současný model hrozby přesvědčování.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] randomizovali 900 amerických dospělých do desetiminutových online debat s člověkem nebo GPT-4, s šesti obyčejnými demografickými poli nebo bez nich. Nepersonalizované GPT-4 se statisticky neodlišovalo od lidského protivníka, zatímco personalizované GPT-4 zvýšilo pravděpodobnost souhlasu po debatě o 81,2 % a bylo přesvědčivější v 64,4 % případů. Úastníci rozpoznali AI protivníka asi ve třech ze čtyř debat, přesto se posouvali dál, když věřili, že protivníkem je AI, takž detekce zdroje neuplatnila jako inokulace. Manipulace byla v textu neviditelná: měry stylu se mezi podmínkami lišily jen málo, což přednost umisťuje tam, jaké argumenty byly vybrány, nikoli jak napsány.
 
+Důkazy z kurikula naznačují, že školy to zatím nedohonily. Expertní rozhovory popisují jako limitující podmínku [[teacher-education|vzdělávání učitelů]], nikoli odpor studentů, a argumentují pro rámec [[critical-pedagogy|kritické pedagogiky]], který pojímá hodnocení jako etickou a participativní praxi namísto školení v nástrojích. Zpráva objednaná pro veřejnoprávní média zjistila, že nabídka pro mladé ve věku 14–19 let se kloní k funkčním dovednostem v AI a odklání se od kritického hodnocení, a to i po přezkoumání více než 40 rámců a rozhovorech s 35 odborníky ([[ai-literacies-young-adults-2025|zpráva o gramotnostech v AI, 2025]]).
 ## AI jako obranný nástroj — tvrzení a výhrady
 
 Argument pro použití AI na obranné straně je plausibilní a široce uváděný: automatizované kontroly věrohodnosti, které skenují historii a jazyk zdroje na signály zaujatosti, detektory deepfakes, analyzátory metadat hledající znaky provenience a [[simulation|simulace]], které studentům umožňují procvičovat hodnocení na realistickém syntetickém materiálu. Tyto schopnosti jsou skutečné produkty a jejich použití ve třídě je skutečná praxe.
@@ -75,12 +81,25 @@ Názorový text z knihovnického sektoru posouvá stejnou myšlenku dál: AI by 
 
 ## Co to znamená pro praxi
 
-- **Učte jeden postup, dva objekty.** Kontrolovatelná rutina — vystopujte tvrzení ke zdroji, vystopujte zdroj k autorovi, ptejte se, co artefakt dělá — funguje pro citaci i pro video. Pojmenujte, který objekt zadání hodnotí.
-- **Pojímejte detekci jako důkaz, nikoli verdikt.** Výstup detektoru je pravděpodobnost; učte studenty potvrdit ho druhou metodou a říci, co by změnilo jejich názor.
-- **Zachovejte produkci v kurikulu.** Vytváření médií bylo pedagogikou, která činila kritiku konkrétní; generování s AI je může podpořit jen tehdy, když studenti zkoumají volby, které za ně nástroj učinil.
-- **Začleňte knihovníka nebo mediálního specialistu do pracovního postupu.** Nejsilnější výukový výsledek v této literatuře pochází z designu, v němž byla lidská konzultace vestavěna, nikoli nabízena dodatečně.
-- **Posuďte kapacitu personálu dřív, než napíšete sylabus.** Měřený deficit leží v navrhování cílů a hodnocení výsledků, nikoli v používání nástrojů.
+**Učte jeden postup, dva objekty.** Kontrolovatelná rutina — vystopujte tvrzení ke zdroji, vystopujte zdroj k autorovi, ptejte se, co artefakt dělá — funguje pro citaci i pro video. Pojmenujte, který objekt zadání hodnotí.
+
+**Pojímejte detekci jako důkaz, nikoli verdikt.** Výstup detektoru je pravděpodobnost; učte studenty potvrdit ho druhou metodou a říci, co by změnilo jejich názor.
+
+**Zachovejte produkci v kurikulu.** Vytváření médií bylo pedagogikou, která činila kritiku konkrétní; generování s AI je může podpořit jen tehdy, když studenti zkoumají volby, které za ně nástroj učinil.
+
+**Hodnoťte konstrukt jako výkon, ne jako postoj.** Oslabuje se tam, kde je slabé místo. V osmoutýdenním experimentu Code Craft se 28 thajskými vysokoškoláky digitální gramotnost zvýšila z 1,51 na 2,82 na tříbodové [[rubrics|rubrice]], ale práce s informacemi dosáhla průměru 1,92 a vytváření informací 2,05 proti 2,36 u komunikace a práce s ostatními ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij a Khlaisang, 2026]]). Nejnižší skóre ležla na produktřicí straně konstruktu, kam kurz, který zůstane u hledání a hodnocení, nikdy nedojde.
+
+**Začleňte knihovníka nebo mediálního specialistu do pracovního postupu.** Nejsilnější výukový výsledek v této literatuře pochází z designu, v němž byla lidská konzultace vestavěna, nikoli nabízena dodatečně.
+
+**Posuďte kapacitu personálu dřív, než napíšete sylabus.** Měřený deficit leží v navrhování cílů a hodnocení výsledků, nikoli v používání nástrojů.
 
 ## Omezení důkazů
 
 Většina zdejších studií je malá, [[self-report-measures|sebeposuzovací]], nebo obojí: 236 studentů v jednom průzkumu, 36 dětí v jedné intervenci, 412 knihovníků hodnotících sebe sama. Bibliometrická viditelnost není praxe a scientometričtí autoři to říkají výslovně. Žádná studie v korpusu nehodnotí kombinované kurikulum informační a mediální gramotnosti a detektory a nástroje ověřování faktů, které literatura o praxi doporučuje, jsou v těchto zdrojích z velké části neměřené. Tvrzení, že ověřování poháněné AI zlepšuje výsledky, je třeba pokládat za designovou hypotézu, dokud ji někdo neotestuje proti kontrole.
+
+## Časté mylné představy
+
+- **Detektor otázku rozhodne.** Detektor vrací pravděpodobnost; potvrďte ho druhou metodou, místo abyste ho brali jako klíč ke správně odpovědí.
+- **Obě gramotnosti jsou jedna dovednost pod dvěma jmény.** Jejich objekty se liší — důvěerhodnost zdroje proti autorství a úmuslu — takž jediná rubrika hodnotí obě nesprávně.
+- **Rozpoznat AI znamení proti ní být imunní.** V nejsilnějším přesvědčovacím experimentu zde uvedeném byla detekce vysoká a posun k postoji AI přesto rostl.
+- **Knihovnická kompetence se přenosí na gramotnost v AI.** Nedostatek personálu se projevuje v navrhování cílů (M = 2,70) a hodnocení výsledků (M = 2,62), nikoli v ovládání nástrojů.

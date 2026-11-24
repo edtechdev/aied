@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -38,6 +42,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 
 Elevidentitet handler om, hvem en lærende forstår sig selv som, og hvem de er ved at blive inden for et domæne — et motiverende og udviklingsmæssigt konstrukt, der adskiller sig fra evneoverbevisninger som [[self-efficacy]], som besvarer det snævrere spørgsmål *kan jeg gøre dette?* Identitet dannes gennem deltagelse, anerkendelse og forfatterskab: at se sig selv afspejlet i et felt og få det selvsyn bekræftet af andre. AI omformer alle tre betingelser, fordi det ændrer, hvem der udfører arbejdet, hvad der tæller som ens eget bidrag, og om en lærende anerkendes som forfatter til sin egen læring ([[agency|handlekraft]], [[metacognition|metakognition]]).
 
+Karakterer er både en relation og et symbol: studerende kommer til at se sig selv gennem dem, så reform, der lader betegnelsen uændret, også lader den relation uændret ([[nieminen-grading-assessment-reform-2026|Nieminen et al., 2026]]).
+
 ## Hvorfor identitet betyder noget for AI i uddannelse
 
 Identitet er et motiverende og udviklingsmæssigt konstrukt, der adskiller sig fra (men er forbundet med) relaterede evner og overbevisninger. Hvor [[self-efficacy]] handler om *kan jeg gøre dette?*, handler identitet om *hvem er jeg — og hvem er jeg ved at blive?* Den bygges gennem deltagelse, anerkendelse og forfatterskab — gennem at se sig selv afspejlet i et domæne og få det selvsyn bekræftet. AI omformer betingelserne for, at identitet dannes, fordi det ændrer *hvem der udfører arbejdet*, *hvad der tæller som ens eget bidrag*, og *om en lærende føler sig anerkendt som forfatter til sin læring*. Det gør identitet til et designanliggende af første orden snarere end en perifer "blød" faktor.
@@ -58,6 +64,8 @@ En særskilt forfatterskabsbetingelse, ikke kun en trussel mod forfatterskab: n�
 - **Hvordan studerende indrammer værktøjet, former deres professionelle tilblivelse.** Studerende, der udelukkende fremstillede GenAI som en socio-emotionel partner, producerede mindre differentierede refleksioner over deres professionelle læring end dem, der også indrammede det som en teknik, et læringsmateriale eller en struktur ([[genai-professionalization-metaphors-2026|Bohmer m.fl., 2026]]).
 
 - **Vogtet adoption: selektiv AI-brug som identitetsbeskyttelse.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] undersøgte 484 studerende på ét australsk universitet og fandt, at højpræsterende studerende rapporterede *lavere* aktiv [[generative-ai|generativ AI]]-engagement, lavere positiv affekt over for AI, lavere [[self-report-measures|oplevet lærings]]indvirkning og lavere AI-relateret frakobling, med de stærkeste sammenhænge ved rho = -0,395 for oplevet læringsindvirkning og rho = -0,359 for positiv affekt. Deres åbne svar beskrev brug, der var selektiv (afklaring, opsummering, workflow-støtte), verificeret og holdt underordnet deres egen dømmekraft, og itemniveau-resultater viste større enighed i, at afhængighed af AI hæmmer [[critical-thinking|kritisk tænkning]] og uafhængig [[problem-solving|problemløsning]]. Forfatterne læser dette som identitetsarbejde: for studerende, hvis selvforståelse som vellykkede lærende hviler på deres egen indsats og dømmekraft, beskytter en afgrænsning af AI-brugen den [[agency|epistemiske handlekraft]], som identiteten afhænger af — hvilket også betyder, at mønstret hverken er teknofobi eller lavt engagement.
+- **Kapacitet kan ankomme før tilhørsforholdet.** En 73-dages autoetnografi af en bioinformatik-underviser, der byggede et spil i et fremmed domæne, fandt, at [[generative-ai|GenAI]] leverede kapaciteten, men ikke identiteten: tilhørsforholdet kom gennem deltagelse i praksisfællesskaber og gentagen meningsdannelse, og at opnå det tog et menneskeligt tempo ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- **Afvisning er også identitetsarbejde:** blandt fem sekundærlærlinge med minoritetsbaggrund hævdede ikke-brug kontrol, overholdt institutionelle regler eller signalerede epistemiske værdier, mens neutrale AI-svar skabte en "kulturel fladhed", der lod deres erfaringer stå uanerkendte ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 - **Et udtalt formål styrer ikke nødvendigvis en AI-beslutning.** [[ting-ai-learning-ownership-purpose-2026|Ting m.fl. (2026)]] interviewede 14 bachelorstuderende og kodede hvert interview for forholdet mellem den studerendes [[self-determination-theory|formål]] — en personligt meningsfuld intention om at bidrage ud over sig selv — og deres AI-valg. Kun nogle skabte forbindelsen: én afviste AI, fordi dets miljømæssige og menneskelige omkostninger modsagde hendes formål, og tre lod fremtidig professionel identitet forme deres valg ("bidrager til den psykolog, jeg en dag vil være i verden"). Andre med en lige så klar formålsfornemmelse skabte ingen sådan forbindelse og beskrev formål og AI som "lidt adskilte", så det at have en identitet at beskytte var ikke det samme som at trække på den. Artiklen adskiller også de grunde, studerende angiver for at holde arbejdet som deres eget — færdighedsudvikling, [[evaluative-judgment|ejerskab og stolthed]] og moralsk indvending — som kommer gennem forskellige mekanismer og ikke bør slås sammen til ét motiv.
 
 ## Forholdet til elevens handlekraft

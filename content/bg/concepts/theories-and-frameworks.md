@@ -7,15 +7,20 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T06:44:49-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:
+
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +71,9 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## Рамки за преподаване, интеграция и приемане
 
 - **[[tpack|TPACK]]** — знанието на учителя, което смесва технология, педагогика и съдържание; рамката по подразбиране за изследвания на AI, насочени към учители.
+- **[[bloom-taxonomy|Таксономията на Блум]]** — споделеният речник за когнитивното натоварване на задачите, използван както за кодиране на отделните елементи, така и за тяхната последователност; в AI в образованието тя е в равна степен измервателен и дизайнерски проблем.
 - **[[technology-acceptance-model|Модели за приемане]]** — намерението като функция на възприетата полезност и лекотата на използване. Използвани достатъчно широко, че разчитането на областта на намерението, а не на поведението, е постоянна критика.
+- **Модел на потвърждаването на очакванията (ECM)** — удовлетвореността като потвърждаване на предходни очаквания, като резултат е продължаването, а не първоначалното приемане. В семестричен пилот по социологическа методология с 24 студенти 87% оценяват Copilot като добър или отличен и 91% биха го препоръчали, но само 57% възнамеряват да продължат да го използват ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Това несъответствие е същността на модела: удовлетворен потребител може и да откаже да се върне, така че удовлетвореността и продължаването се нуждаят от отделни мерки.
 - **[[icap-framework|ICAP]]** — подрежда ангажираността като пасивна, активна, конструктивна, интерактивна; полезно за въпроса какъв режим всъщност дава [[student-ai-interaction|взаимодействието с AI]].
 - **[[samr-model|SAMR]]** — от заместване до предефиниране. Популярен като разказ за зрялост, слаб като измервателен инструмент.
 - **[[universal-design-for-learning|Универсален дизайн за учене]]**, **[[inclusive-learning|приобщаващо учене]]** и **[[accessibility|достъпност]]** — дизайнерски рамки за това кой получава услугата, и най-често призоваваните в работата по увреждания и [[equity-in-ai-education|справедливост]].
@@ -104,7 +111,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## Съседни слоеве
 
-Две съседни страници умишлено са за нещо друго. [[philosophy-of-ai-in-education|Философията на AI в образованието]] задава нормативни и концептуални въпроси — за какво е образованието, може ли машина да преподава — и не предсказва размери на ефекта; едно изследване може да е философски наивно и теоретично издържано, или обратното. [[theory-development-aied|Развитието на теория]] е метадейността по изграждане, заимстване и преработване на теория, включително постоянната критика, че голяма част от работата в [[ai-education|AIED]] прилага съществуваща теория, вместо да я проверява. Тази страница е инвентарът; развитието на теория е за производството и преработването на инвентара.
+Две съседни страници умишлено са за нещо друго. [[philosophy-of-ai-in-education|Философията на AI в образованието]] задава нормативни и концептуални въпроси — за какво е образованието, може ли машина да преподава — и не предсказва размери на ефекта; едно изследване може да е философски наивно и теоретично издържано, или обратното. [[theory-development-aied|Развитието на теория]] е метадейността по изграждане, заимстване и преработване на теория, включително постоянната критика, че голяма част от работата в [[ai-education|AIED]] прилага съществуваща теория, вместо да я проверява. Тази страница е инвентарът; развитието на теория е за производството и преработването на инвентара. [[learning-environments-as-systems|Учебните среди като системи]] е трети съсед. Тя не е теория на ученето и не предсказва размери на ефекта, а позиция относно единицата на анализ: учебната среда е многонивова система, чиито части си взаимодействат, така че нивото, което измерва едно изследване, е теоретическо решение, а не удобство на извадката.
 
 ## Избор на леща, когато въпросът е практически
 

@@ -1,7 +1,7 @@
 ---
 title: "Kritik af AI i uddannelse"
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ En anden klynge angriber ordforrådet snarere end maskineriet. Wang og Jin læse
 
 ## Infrastruktur, transduktion og fejlgenkendelse
 
-En tredje klynge flytter opmærksomheden fra værktøjet til infrastrukturen omkring det. Watson, Morgner og Brezovec behandler generativ AI som en meningsformidlende infrastruktur og kalder dens mekanisme *semantisk transduktion*: omformningen af en uddannelsesmæssig forespørgsel — en prompt, en briefing, en rubrik, en eksamensopgave, en genre eller en politik — til en kommunikativt plausibel form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner og Brezovec, 2026]]). Fordi transduktion er selektiv, kan den inddrage eller udelukke. Tre steder gentager sig: adgangs- og evneklufter, fejlgenkendelse gennem skabeloner for, hvordan et godt svar eller en god studerende lyder, og normativ drift i, hvad der accepteres som pædagogik. Udelukkelsen er ofte en tang snarere end et forbud — institutioner hæver forventningerne til tempo, polering og idiomatisk flydendhed, mens de samtidig skærper autenticitetsregimerne.
+En tredje klynge flytter opmærksomheden fra værktøjet til infrastrukturen omkring det. Watson, Morgner og Brezovec behandler generativ AI som en meningsformidlende infrastruktur og kalder dens mekanisme *semantisk transduktion*: omformningen af en uddannelsesmæssig forespørgsel — en prompt, en briefing, [[rubrics|en rubrik]], en eksamensopgave, en genre eller en politik — til en kommunikativt plausibel form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner og Brezovec, 2026]]). Fordi transduktion er selektiv, kan den inddrage eller udelukke. Tre steder gentager sig: adgangs- og evneklufter, fejlgenkendelse gennem skabeloner for, hvordan et godt svar eller en god studerende lyder, og normativ drift i, hvad der accepteres som pædagogik. Udelukkelsen er ofte en tang snarere end et forbud — institutioner hæver forventningerne til tempo, polering og idiomatisk flydendhed, mens de samtidig skærper autenticitetsregimerne.
 
 ## Agendafastsættelse, simuleret innovation og eksperimentel fremtidsforestilling
 

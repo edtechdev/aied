@@ -10,14 +10,19 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:
+
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +85,8 @@ connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, 
 ## Медии и публично рамкиране
 
 Учениците са рамкирани и от по-широките медии и публичен дискурс около [[ai-education|AI в образованието]], което оформя базовите им очаквания преди всяко съобщение от преподавател. Анализи на публичния дискурс и на това как платформи като YouTube рамкират използването на ChatGPT в образованието показват, че преобладаващите рамки - хайп, обреченост или прагматизъм - влияят на това как обучаемите и [[teacher-role|преподавателите]] подхождат към технологията ([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]). Ефективното рамкиране от преподавателите често означава съзнателно противодействие или пренасочване на тези средищни наративи.
+
+Рамката оформя и цената на дипломата по-нататък: при около 1750 американски специалисти по набирането описването на използването на AI от студентите като заместване, а не като помощ, намали вероятността за интервю и готовността за преговори по заплатата, най-рязко при кандидатите с висок GPA ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan и Reynolds, 2026]]).
 
 ## Практически насоки
 
