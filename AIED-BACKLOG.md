@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-24
-**Total backlog:** 1 article awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 2 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Awaiting full text
 
@@ -17,6 +17,15 @@
   Full text not retrievable: the publisher page returns HTTP 403 behind a Cloudflare challenge both by
   direct fetch and in a real browser; OpenAlex and Semantic Scholar both report the article closed
   access with no repository or open-access copy. Only the abstract was recoverable. Needs a supplied PDF.
+- `10.1186/s12909-026-10899-z` — A global perspective on the use of artificial intelligence in medical
+  education: comparing middle-income and low-income countries
+  (Ying Ma et al., *BMC Medical Education*, published 2026-11-23) —
+  https://doi.org/10.1186/s12909-026-10899-z
+  Systematic review of 33 studies on AI in medical education in low- and middle-income countries;
+  directly in scope for the medical-education concept page. Full text not retrievable: the DOI
+  resolves to a SpringerLink article page that answers automated requests with a bot-challenge
+  page, the `content/pdf` URL returns 404, Europe PMC has no record, and OpenAlex lists the work
+  as gold OA with no PDF location. Needs a supplied PDF.
 
 ## Backlog cleared — 2026-11-23
 
